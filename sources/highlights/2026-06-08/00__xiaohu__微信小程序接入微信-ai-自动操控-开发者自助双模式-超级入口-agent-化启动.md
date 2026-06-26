@@ -1,0 +1,65 @@
+---
+type: "X Tweet"
+title: "微信小程序接入微信 AI：自动操控 + 开发者自助双模式，超级入口 Agent 化启动"
+description: "微信公布小程序接入微信 AI 的双模式方案：自动模式由微信 AI 直接分析并操控小程序完成任务，开发模式允许开发者自助开放能力、审核后供 AI 调用，目前仍在内测。 - 自动模式：用户授权后，AI 可主动调用小程序完成具体任务（订餐、查数据等） - 开发模式：开发者主动声明可被 AI 调用的能力范围，审核通过后开放 - 入口闸门仍在腾讯手里：审核权、调用权、计费权三项均未释放给 Agent 厂商 "
+resource: "https://x.com/i/status/2063893835906965771"
+tags:
+  - "x-news"
+  - "highlights"
+  - "author:xiaohu"
+timestamp: "2026-06-08T10:18:44.518Z"
+x_tweet_id: "2063893835906965771"
+x_author: "小互"
+x_handle: "xiaohu"
+x_created_at: "2026-06-08T08:00:10.000Z"
+x_engagement:
+  likes: 16
+  retweets: 2
+  replies: 9
+  bookmarks: 0
+  views: 0
+x_selected: 2
+x_priority: 0
+x_related_topic: "agent-multi-platform"
+x_source: "crawler"
+---
+
+# 微信小程序接入微信 AI：自动操控 + 开发者自助双模式，超级入口 Agent 化启动
+
+## 摘要
+
+微信公布小程序接入微信 AI 的双模式方案：自动模式由微信 AI 直接分析并操控小程序完成任务，开发模式允许开发者自助开放能力、审核后供 AI 调用，目前仍在内测。
+- 自动模式：用户授权后，AI 可主动调用小程序完成具体任务（订餐、查数据等）
+- 开发模式：开发者主动声明可被 AI 调用的能力范围，审核通过后开放
+- 入口闸门仍在腾讯手里：审核权、调用权、计费权三项均未释放给 Agent 厂商
+
+锐评：这是国内最大体量的"平台→Agent"让渡，13 亿月活的微信生态正式向 Agent 开放入口。但和海外浏览器厂商"开放 MCP"路线不同，微信选择的是"双模式+审核"——Agent 厂商能不能跑起来，最终取决于腾讯开放多少调用额度与计费空间，而非技术能力本身。
+
+## 原文
+
+微信公布小程序接入微信AI 的方式
+
+两种模式
+
+自动模式：微信自动分析喝操控你的小程序完成任务
+
+开发模式：开发者自助开放相关特性，审核后可让微信AI调用
+
+目前微信AI还在内测阶段，还无法体验… https://t.co/H8IusHCH4h
+
+
+## 元信息
+
+- **作者**: 小互 ([@xiaohu](https://x.com/xiaohu))
+- **发布时间**: 2026-06-08T08:00:10.000Z
+- **抓取时间**: 2026-06-08T10:18:44.518Z
+- **精选类别**: ✨ 亮点
+- **优先级**: 0
+- **互动**: ❤️ 16 · 🔄 2 · 💬 9 · 🔖 0 · 👁 0
+- **关联主题**: [agent-multi-platform](/concepts/agent-multi-platform.md)
+
+## Citations
+
+[1] [Tweet on X](https://x.com/i/status/2063893835906965771) — @xiaohu (小互)
+[2] [Author page](/entities/authors/xiaohu.md)
+[3] [Related topic](/concepts/agent-multi-platform.md)

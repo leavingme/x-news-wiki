@@ -1,0 +1,74 @@
+---
+type: "X Tweet"
+title: "Google Stitch「语音+画布」双杀：Figma股价跌8.8%背后的设计工具范式迁移"
+description: "**[一句话核心判断]** Vibe Design时代正式开启，Stitch的语音实时修改+无限画布上下文协作，标志着设计工具从「软件界面」向「自然语言协作空间」的质变。 • 核心升级：无限画布支持参考图/文字/代码混合输入，AI基于完整上下文设计而非单点生成 • 交互革命：语音指令实时修改（「这个按钮大一点」「配色换暖色调」），打断成本趋近于零 • 工程衔接：DESIGN.md规范文件打通Sti"
+resource: "https://x.com/i/status/2034434502349734366"
+tags:
+  - "x-news"
+  - "news"
+  - "author:xiaohu"
+timestamp: "2026-03-19T12:43:08.645Z"
+x_tweet_id: "2034434502349734366"
+x_author: "小互"
+x_handle: "xiaohu"
+x_created_at: "2026-03-19T00:59:17.000Z"
+x_engagement:
+  likes: 690
+  retweets: 124
+  replies: 34
+  bookmarks: 0
+  views: 0
+x_selected: 1
+x_priority: 0
+x_related_topic: "vibe-coding-methodology"
+x_source: "crawler"
+---
+
+# Google Stitch「语音+画布」双杀：Figma股价跌8.8%背后的设计工具范式迁移
+
+## 摘要
+
+**[一句话核心判断]** Vibe Design时代正式开启，Stitch的语音实时修改+无限画布上下文协作，标志着设计工具从「软件界面」向「自然语言协作空间」的质变。
+• 核心升级：无限画布支持参考图/文字/代码混合输入，AI基于完整上下文设计而非单点生成
+• 交互革命：语音指令实时修改（「这个按钮大一点」「配色换暖色调」），打断成本趋近于零
+• 工程衔接：DESIGN.md规范文件打通Stitch与Claude Code/Cursor的协作链路，设计与工程的数据孤岛被打破
+• 市场冲击：Figma股价应声下跌8.8%，传统设计工具的护城河正在快速蒸发
+
+gakki 锐评：DESIGN.md这个细节被大多数人忽略了——它意味着Google在下一盘大棋：让设计规范成为可编程资产，打通设计与工程的数据层。这比单纯的AI生成图片更有杀伤力，是在重新定义「设计交付物」的边界。
+
+## 原文
+
+Google Stitch 大更新：号称是 Vibe Design 
+
+对着画布说话就能做设计 
+
+Figma 股价大跌8.8%
+
+带来 5 大升级：
+
+🎨 无限画布：以前是输入一句话等出图，现在有了一个真正的工作台。你可以把参考图、文字说明、代码片段全扔上去，AI 结合这些上下文帮你设计，更像在跟一个设计师协作。
+
+🧠 更智能的设计 Agent： 它现在能记住你整个项目的修改历史，不是每次从零开始理解你的需求。还能同时帮你推进多个方案，比如你想试三种不同风格的首页，它并行帮你搞，互不干扰。
+
+🎙️ 语音交互：“这个按钮大一点""配色换暖色调""导航栏改成深色"，对着它说就行。不用停下来打字，边看边改，效率高很多。
+
+⚡ 即时原型： 以前出的是静态图，现在点一下播放键，设计稿直接变成可以点击交互的原型。系统自动帮你算好"点这个按钮跳到哪个页面"。不用手动一根根连线了。
+
+📐 新增了 DESIGN.md：把你的设计规范（配色、字体、风格）写成一个文件，不管是给 Stitch 用还是给 Claude Code、Cursor 这些 AI 编程工具用，都能读懂。设计规范不再锁死在一个工具里。
+
+
+## 元信息
+
+- **作者**: 小互 ([@xiaohu](https://x.com/xiaohu))
+- **发布时间**: 2026-03-19T00:59:17.000Z
+- **抓取时间**: 2026-03-19T12:43:08.645Z
+- **精选类别**: 📰 头条
+- **优先级**: 0
+- **互动**: ❤️ 690 · 🔄 124 · 💬 34 · 🔖 0 · 👁 0
+- **关联主题**: [vibe-coding-methodology](/concepts/vibe-coding-methodology.md)
+
+## Citations
+
+[1] [Tweet on X](https://x.com/i/status/2034434502349734366) — @xiaohu (小互)
+[2] [Author page](/entities/authors/xiaohu.md)
+[3] [Related topic](/concepts/vibe-coding-methodology.md)

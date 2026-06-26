@@ -1,0 +1,79 @@
+---
+type: "X Tweet"
+title: "ChatGPT绑定银行账户：美国金融AI执行时代的序曲"
+description: "**一句话核心判断** ChatGPT首次将\"建议权\"升级为\"执行权\"——通过Plaid接入12000+金融机构，让AI直接查看你的资产负债表、帮你算过审概率、替你提交信用卡申请。  **信息增量：** 1. 覆盖余额、交易记录、投资、负债四大维度，但AI无转账权限——受控执行权，不是全权代理 2. 评测体系首次引入50+金融专业人士打分，5.5 Pro拿82.5/100，建立垂直领域AI能力量化"
+resource: "https://x.com/i/status/2055365342445322385"
+tags:
+  - "x-news"
+  - "highlights"
+  - "author:dotey"
+timestamp: "2026-05-15T19:19:05.626Z"
+x_tweet_id: "2055365342445322385"
+x_author: "宝玉"
+x_handle: "dotey"
+x_created_at: "2026-05-15T19:10:59.000Z"
+x_engagement:
+  likes: 3
+  retweets: 0
+  replies: 0
+  bookmarks: 0
+  views: 0
+x_selected: 2
+x_priority: 0
+x_related_topic: "ai-agent-crypto-infra"
+x_source: "crawler"
+---
+
+# ChatGPT绑定银行账户：美国金融AI执行时代的序曲
+
+## 摘要
+
+**一句话核心判断**
+ChatGPT首次将"建议权"升级为"执行权"——通过Plaid接入12000+金融机构，让AI直接查看你的资产负债表、帮你算过审概率、替你提交信用卡申请。
+
+**信息增量：**
+1. 覆盖余额、交易记录、投资、负债四大维度，但AI无转账权限——受控执行权，不是全权代理
+2. 评测体系首次引入50+金融专业人士打分，5.5 Pro拿82.5/100，建立垂直领域AI能力量化标准
+3. 真正目标是打通"建议→计算→约真人顾问→落地申请"的服务闭环，理财是第一个试验场
+
+**gakki锐评：**
+这和DeFi里那些安全Agent真金白银拦截攻击是一枚硬币的两面——一个靠链上合约保证执行可信，一个靠中心化平台背书。但路径依赖很明确：中心化AI切入金融的速度会远快于去中心化方案。
+
+## 原文
+
+【ChatGPT 现在能看你的银行账户了】
+
+OpenAI 今天给美国 Pro 用户开放了一个新功能：在 ChatGPT 里直接绑定银行、投资、信用卡等账户，看一个统一的资产 dashboard，然后基于真实数据问问题。支持 Plaid 接入的 12000 多家金融机构，网页和 iOS 端可用，后续会下放到 Plus，目标是面向所有人。
+
+绑账户后，ChatGPT 能看到你的余额、交易记录、投资和负债，但看不到完整账号，也不能动你的钱。默认走 GPT-5.5 Thinking 推理模型，Pro 用户可以切到 GPT-5.5 Pro。OpenAI 还专门搞了套内部评测，找 50 多位金融专业人士打分，5.5 Pro 拿了 82.5、5.5 Thinking 79，满分 100。
+
+【真正的看点是 Intuit】
+
+OpenAI 想让 ChatGPT 从“给建议”变成“帮你办事”，理财是第一个落地场景。官方举的例子：问哪张信用卡合适，ChatGPT 不光推荐，还能算过审概率，然后让你在对话框里直接提交申请；问卖股票要交多少税，它给一个估算，还能帮你约一个本地真人税务顾问。
+
+后面这层服务靠和 Intuit 合作打通。Intuit 是 TurboTax 和 QuickBooks 的母公司，也是当年被自己关掉的免费理财 App Mint 的东家。这次合作意味着 ChatGPT 要把“咨询”和“动手”塞进同一个对话窗。
+
+【隐私这关】
+
+把所有金融账户连给 OpenAI，不是每个人都愿意跨这一步。官方留了几个口子：随时断开账户，同步数据 30 天内删除；专门有一类叫“financial memories”的记忆，用来存你说过的财务背景(比如“我还欠爸妈两万”“明年要买房”)，可单独查看和删除；用临时对话时不会访问账户数据。但聊天本身是否参与模型训练，遵循你已有的 Data controls 设置，得自己去翻一下。
+
+【会影响谁】
+
+国内用户暂时无关，这是美国限定。但对 OpenAI 是个标志性动作：每月已经有 2 亿人在 ChatGPT 上问怎么存钱、怎么投资，现在它干脆把这件事产品化。直接挑到擂台上的是 Monarch、Copilot、YNAB 这些独立理财 App，以及银行自己的 App。
+
+
+## 元信息
+
+- **作者**: 宝玉 ([@dotey](https://x.com/dotey))
+- **发布时间**: 2026-05-15T19:10:59.000Z
+- **抓取时间**: 2026-05-15T19:19:05.626Z
+- **精选类别**: ✨ 亮点
+- **优先级**: 0
+- **互动**: ❤️ 3 · 🔄 0 · 💬 0 · 🔖 0 · 👁 0
+- **关联主题**: [ai-agent-crypto-infra](/concepts/ai-agent-crypto-infra.md)
+
+## Citations
+
+[1] [Tweet on X](https://x.com/i/status/2055365342445322385) — @dotey (宝玉)
+[2] [Author page](/entities/authors/dotey.md)
+[3] [Related topic](/concepts/ai-agent-crypto-infra.md)

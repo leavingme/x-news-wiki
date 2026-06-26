@@ -1,0 +1,70 @@
+---
+type: "X Tweet"
+title: "抖音合规自检 skill 开源：Skill 市集正在从「提效工具」走向「风控基础设施」"
+description: "**一个开源 skill 把「抖音违规预审」做成了可调用的判定模块，通过率从 59% 拉到 100%。**  要点： - Skill 形态开始承载平台合规这种过去由人工或专业代理才能处理的工作，体现「专业判断外置化」。 - 判别逻辑很朴素：区分「让观众做动作」（违规）vs「陈述产品/事实」（合规），把模糊的审核规则变成可枚举的语义模式。 - 这与 dbskill 的标题配方化是同一脉络：AI 时代"
+resource: "https://x.com/i/status/2063147056370172311"
+tags:
+  - "x-news"
+  - "highlights"
+  - "author:Zesee"
+timestamp: "2026-06-06T07:18:53.086Z"
+x_tweet_id: "2063147056370172311"
+x_author: "Rachel🥥"
+x_handle: "Zesee"
+x_created_at: "2026-06-06T06:32:44.000Z"
+x_engagement:
+  likes: 14
+  retweets: 1
+  replies: 7
+  bookmarks: 0
+  views: 0
+x_selected: 2
+x_priority: 0
+x_related_topic: "dbskill-formula-marketplace"
+x_source: "crawler"
+---
+
+# 抖音合规自检 skill 开源：Skill 市集正在从「提效工具」走向「风控基础设施」
+
+## 摘要
+
+**一个开源 skill 把「抖音违规预审」做成了可调用的判定模块，通过率从 59% 拉到 100%。**
+
+要点：
+- Skill 形态开始承载平台合规这种过去由人工或专业代理才能处理的工作，体现「专业判断外置化」。
+- 判别逻辑很朴素：区分「让观众做动作」（违规）vs「陈述产品/事实」（合规），把模糊的审核规则变成可枚举的语义模式。
+- 这与 dbskill 的标题配方化是同一脉络：AI 时代的内容生产，正在把每个平台的隐性规则显性化、模块化、可交易化。
+
+
+ggakki 锐评：当 Skill 开始「替平台执法」，它就不再是生产工具，而是合规中间件——下一个机会点在「跨平台规则统一抽象」，谁能做出来，谁就是新一代 MCN 的水电煤。
+
+## 原文
+
+开源一个抖音合规自检 skill
+
+最近很多朋友都在做抖音视频，但发习惯推特之后，经常违规，所以我做了一个skill
+
+具体用法：丢进去口播稿或者画面描述，它会告诉你哪些地方会被预审驳回（引导外流、诱导下载），并给出可以直接替换的合规表达。
+
+举个例子：这句话是让观众"去做某个动作"，还是在说"我用了什么/这个东西是什么"？前者违规，后者合规。
+
+跟不挂 skill 对比：通过率 100% vs 59%
+
+https://t.co/Rofp35SABq
+
+
+## 元信息
+
+- **作者**: Rachel🥥 ([@Zesee](https://x.com/Zesee))
+- **发布时间**: 2026-06-06T06:32:44.000Z
+- **抓取时间**: 2026-06-06T07:18:53.086Z
+- **精选类别**: ✨ 亮点
+- **优先级**: 0
+- **互动**: ❤️ 14 · 🔄 1 · 💬 7 · 🔖 0 · 👁 0
+- **关联主题**: [dbskill-formula-marketplace](/concepts/dbskill-formula-marketplace.md)
+
+## Citations
+
+[1] [Tweet on X](https://x.com/i/status/2063147056370172311) — @Zesee (Rachel🥥)
+[2] [Author page](/entities/authors/zesee.md)
+[3] [Related topic](/concepts/dbskill-formula-marketplace.md)

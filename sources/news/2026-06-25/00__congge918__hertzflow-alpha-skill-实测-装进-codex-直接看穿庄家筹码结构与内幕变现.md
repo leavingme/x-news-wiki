@@ -1,0 +1,104 @@
+---
+type: "X Tweet"
+title: "HertzFlow Alpha Skill 实测：装进 Codex 直接看穿庄家筹码结构与内幕变现"
+description: "**币安 Alpha 二级玩家专属「印钱神器」：HertzFlow 把链上分析从专业人肉活变成 Codex 一键调用。**  - 实测 $O 代币：庄家/项目方可控筹码 78.7%、已确认内幕变现 6.2% 流通、蓄筹+高控盘+wash 放量 - 一屏报告：实时行情、决策摘要、链上状态、行为画像、派发数据、风险信号聚合 - 把「链上分析师」的能力封装成 Skill，普通玩家也能用上机构级数据   "
+resource: "https://x.com/i/status/2069434268217229652"
+tags:
+  - "x-news"
+  - "news"
+  - "author:congge918"
+timestamp: "2026-06-25T01:24:43.821Z"
+x_tweet_id: "2069434268217229652"
+x_author: "聪哥.sats"
+x_handle: "congge918"
+x_created_at: "2026-06-23T14:55:52.000Z"
+x_engagement:
+  likes: 722
+  retweets: 176
+  replies: 103
+  bookmarks: 0
+  views: 0
+x_selected: 1
+x_priority: 0
+x_related_topic: "ai-crypto-agent-infra"
+x_source: "crawler"
+---
+
+# HertzFlow Alpha Skill 实测：装进 Codex 直接看穿庄家筹码结构与内幕变现
+
+## 摘要
+
+**币安 Alpha 二级玩家专属「印钱神器」：HertzFlow 把链上分析从专业人肉活变成 Codex 一键调用。**
+
+- 实测 $O 代币：庄家/项目方可控筹码 78.7%、已确认内幕变现 6.2% 流通、蓄筹+高控盘+wash 放量
+- 一屏报告：实时行情、决策摘要、链上状态、行为画像、派发数据、风险信号聚合
+- 把「链上分析师」的能力封装成 Skill，普通玩家也能用上机构级数据
+
+
+gakki 锐评：当 Skill 商店开始卖「链上调查能力」，Crypto Agent 的人才结构就会被重写——链上分析师的护城河正在从「看得懂数据」迁移到「能不能造出更好的 Skill」。
+
+## 原文
+
+玩币安 Alpha 二级的真心建议装下 HertzFlow Alpha Skill 。
+
+因为用好了，真的是「印钱神器 」！
+
+这个 Skill 对加密货币的分析能力强到不可思议，连庄家的筹码结构等数据都能给你扒出来。
+
+99% 的炒币者都不具备链上分析能力，庄家到底有多少筹码，项目筹码结构如何，内幕/庄家是否有现货套现的情况等。
+
+这些数据依靠人力是难以短时间分析出来的，而且非专业的链上分析员，是很难在海量的链上数据中进行有效的信息分类的。
+
+给我的 Codex 安装后，让它分析了这两天大火的 $O 。
+
+$O 猛涨了几天一路冲到近 0.95 U，然后到今天又跌到了 0.56，我很好奇庄家接下来会怎么操作。
+
+直接看下 HertzFlow Alpha Skill 的分析报告结果：
+目前处于蓄筹 / 观察 + 高控盘 + 成交被 wash 放大。庄家/项目方可控筹码 78.7% ，已确认内幕变现 6.2% 流通。
+
+一屏版报告直接看配图，这个分析报告有多专业？包含：
+- 代币实时行情
+- 决策摘要
+- 链上状态
+- 当前链上行为画像
+- 真实派发数据情况
+- 风险信号聚合 (检测器 + 节奏)
+- 完整异动事件列表 (数据明细, 按分发轮次, UTC 时间)
+- 各角色持仓分布
+- 高价值地址资金来源 (mint / DEX / P2 P)
+- 监控钱包 + 实时告警
+等等
+
+HertzFlow Alpha Skill 强大的分析能力，让我看到了 AI 交易闭环的可能，用的好或许真的能「印钱 」。
+
+因为有数据支撑的交易信号是能显著增强我们的判断力的，实测下来，感觉应用场景有很多，最常见的如币安Alpha 新币上线分析、新上线代币合约分析等。
+
+接下来，我要去深度体验一下了，研究下适合自己的交易策略了。
+
+👇详细版报告我上传到Github了，大家可以直接在线访问阅读：
+https://t.co/ePNRlWpgxs 
+
+具体如何使用，大家直接看我引用的推文。
+
+也推荐大家也关注下 @thecryptoskanda @Hertzflow_xyz ，获取更多产品动态。
+
+注：以上纯属个人兴趣分享，非广也非任何投资建议，DYOR。
+
+#alphaskillcall
+
+
+## 元信息
+
+- **作者**: 聪哥.sats ([@congge918](https://x.com/congge918))
+- **发布时间**: 2026-06-23T14:55:52.000Z
+- **抓取时间**: 2026-06-25T01:24:43.821Z
+- **精选类别**: 📰 头条
+- **优先级**: 0
+- **互动**: ❤️ 722 · 🔄 176 · 💬 103 · 🔖 0 · 👁 0
+- **关联主题**: [ai-crypto-agent-infra](/concepts/ai-crypto-agent-infra.md)
+
+## Citations
+
+[1] [Tweet on X](https://x.com/i/status/2069434268217229652) — @congge918 (聪哥.sats)
+[2] [Author page](/entities/authors/congge918.md)
+[3] [Related topic](/concepts/ai-crypto-agent-infra.md)

@@ -1,0 +1,77 @@
+---
+type: "X Tweet"
+title: "记忆的「不可能三角」被打破：1亿token端到端记忆，4B模型干翻235B RAG"
+description: "**【记忆架构迎来代际跃迁】**  • 国产团队官宣「不可能三角」终结方案：扩展性、精度、效率三者兼得，1亿token上下文性能衰减<9% • 工程门槛极低：2张A800即可部署，打破大模型记忆技术的算力垄断 • 若论文验证属实，RAG架构将被颠覆，Agent长期记忆进入「原生集成」时代  ---  **gakki 锐评**：RAG是补丁，原生记忆才是终局。这不是渐进优化，是架构范式的降维打击。"
+resource: "https://x.com/i/status/2034059226356830492"
+tags:
+  - "x-news"
+  - "highlights"
+  - "author:elliotchen100"
+timestamp: "2026-03-18T00:42:49.128Z"
+x_tweet_id: "2034059226356830492"
+x_author: "艾略特"
+x_handle: "elliotchen100"
+x_created_at: "2026-03-18T00:08:05.000Z"
+x_engagement:
+  likes: 117
+  retweets: 10
+  replies: 10
+  bookmarks: 0
+  views: 0
+x_selected: 2
+x_priority: 0
+x_related_topic: "agent-memory-optimization"
+x_source: "crawler"
+---
+
+# 记忆的「不可能三角」被打破：1亿token端到端记忆，4B模型干翻235B RAG
+
+## 摘要
+
+**【记忆架构迎来代际跃迁】**
+
+• 国产团队官宣「不可能三角」终结方案：扩展性、精度、效率三者兼得，1亿token上下文性能衰减<9%
+• 工程门槛极低：2张A800即可部署，打破大模型记忆技术的算力垄断
+• 若论文验证属实，RAG架构将被颠覆，Agent长期记忆进入「原生集成」时代
+
+---
+
+**gakki 锐评**：RAG是补丁，原生记忆才是终局。这不是渐进优化，是架构范式的降维打击。
+
+## 原文
+
+人的智能 = 推理能力 + 长期记忆。大模型把推理卷到极致了，但「记忆」这一块，一直是卡点。
+​
+过去大家走过三条路，每一条都撞过墙：
+→ 参数化记忆：精度高，但更新成本爆炸，还会灾难性遗忘
+→ RAG：能扩展，但检索和生成是割裂的，精度有天花板
+→ KV 缓存 / 线性注意力：很快，但一长就丢信息
+​
+扩展性、精度、效率，是一个公认的「不可能三角」。
+​
+我们一直在想：有没有可能，三个都要？
+​
+这周，我们会发布一篇新论文。
+先不剧透细节，只放几个数字在这：
+· 1 亿 token 级的端到端记忆，性能衰减不到 9%
+· 4B 参数模型，打赢 235B 级的顶级 RAG 系统
+· 2 张 A800 就能跑起来
+​
+也许，是时候给这个「不可能三角」，换个名字了
+
+
+## 元信息
+
+- **作者**: 艾略特 ([@elliotchen100](https://x.com/elliotchen100))
+- **发布时间**: 2026-03-18T00:08:05.000Z
+- **抓取时间**: 2026-03-18T00:42:49.128Z
+- **精选类别**: ✨ 亮点
+- **优先级**: 0
+- **互动**: ❤️ 117 · 🔄 10 · 💬 10 · 🔖 0 · 👁 0
+- **关联主题**: [agent-memory-optimization](/concepts/agent-memory-optimization.md)
+
+## Citations
+
+[1] [Tweet on X](https://x.com/i/status/2034059226356830492) — @elliotchen100 (艾略特)
+[2] [Author page](/entities/authors/elliotchen100.md)
+[3] [Related topic](/concepts/agent-memory-optimization.md)

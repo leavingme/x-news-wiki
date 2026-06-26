@@ -1,0 +1,62 @@
+---
+type: "X Tweet"
+title: "宝玉亲测：自动压缩上下文还不够好，少用为妙"
+description: "**【一句话核心判断】**  Agent记忆系统最大的敌人不是容量限制，而是压缩质量——宝玉作为深度用户亲口承认上下文自动压缩还不成熟，这是目前记忆基础设施的核心瓶颈。  **信息增量：** - 直接来自宝玉的一手产品反馈：自己都很少用自动压缩功能 - 原因：压缩质量不够好，说明现有压缩算法在语义保留上仍有缺陷 - 实战警示：依赖自动压缩来管理记忆的Agent产品在当前阶段不可靠  **gakki"
+resource: "https://x.com/i/status/2060776216823509171"
+tags:
+  - "x-news"
+  - "news"
+  - "author:dotey"
+timestamp: "2026-05-30T19:18:18.057Z"
+x_tweet_id: "2060776216823509171"
+x_author: "宝玉"
+x_handle: "dotey"
+x_created_at: "2026-05-30T17:31:52.000Z"
+x_engagement:
+  likes: 5
+  retweets: 0
+  replies: 3
+  bookmarks: 0
+  views: 0
+x_selected: 1
+x_priority: 0
+x_related_topic: "agent-memory-optimization"
+x_source: "crawler"
+---
+
+# 宝玉亲测：自动压缩上下文还不够好，少用为妙
+
+## 摘要
+
+**【一句话核心判断】**
+
+Agent记忆系统最大的敌人不是容量限制，而是压缩质量——宝玉作为深度用户亲口承认上下文自动压缩还不成熟，这是目前记忆基础设施的核心瓶颈。
+
+**信息增量：**
+- 直接来自宝玉的一手产品反馈：自己都很少用自动压缩功能
+- 原因：压缩质量不够好，说明现有压缩算法在语义保留上仍有缺陷
+- 实战警示：依赖自动压缩来管理记忆的Agent产品在当前阶段不可靠
+
+**gakki 锐评：**
+上下文压缩是Agent记忆基础设施里被最严重低估的问题。大家都忙着做'容量'，没人认真做'保真度'。宝玉一句'还不够好'，比十篇论文都有说服力。
+
+## 原文
+
+@singkid9527 我自己也少用，自动压缩上下文还不够好
+
+
+## 元信息
+
+- **作者**: 宝玉 ([@dotey](https://x.com/dotey))
+- **发布时间**: 2026-05-30T17:31:52.000Z
+- **抓取时间**: 2026-05-30T19:18:18.057Z
+- **精选类别**: 📰 头条
+- **优先级**: 0
+- **互动**: ❤️ 5 · 🔄 0 · 💬 3 · 🔖 0 · 👁 0
+- **关联主题**: [agent-memory-optimization](/concepts/agent-memory-optimization.md)
+
+## Citations
+
+[1] [Tweet on X](https://x.com/i/status/2060776216823509171) — @dotey (宝玉)
+[2] [Author page](/entities/authors/dotey.md)
+[3] [Related topic](/concepts/agent-memory-optimization.md)

@@ -1,0 +1,65 @@
+---
+type: "X Tweet"
+title: "百度大会聚餐上实测：Kimi2.6和智谱GLM5.1 turbo陪伴产品表现突出，其他国产模型指令遵循和缓存命中是硬伤"
+description: "**[国产陪伴模型的第一梯队已成型]**  向阳乔木在百度开发者大会后的20人聚餐中分享了一个实战观察：Kimi2.6和智谱GLM5.1 turbo在陪伴类产品中表现相对突出，主要优势在于指令遵循和缓存命中。其他国产模型则存在明显短板。  - 聚会背景本身就是一个信号：线下餐饮供过于求，包厢随便订，印证消费环境的压力 - 这是少数来自一线实战用户的国产模型横向对比数据，而非benchmark数字 "
+resource: "https://x.com/i/status/2054585244008022398"
+tags:
+  - "x-news"
+  - "news"
+  - "author:vista8"
+timestamp: "2026-05-13T16:18:28.567Z"
+x_tweet_id: "2054585244008022398"
+x_author: "向阳乔木"
+x_handle: "vista8"
+x_created_at: "2026-05-13T15:31:09.000Z"
+x_engagement:
+  likes: 7
+  retweets: 0
+  replies: 3
+  bookmarks: 0
+  views: 0
+x_selected: 1
+x_priority: 0
+x_related_topic: "ai-knowledge-tool-competition"
+x_source: "crawler"
+---
+
+# 百度大会聚餐上实测：Kimi2.6和智谱GLM5.1 turbo陪伴产品表现突出，其他国产模型指令遵循和缓存命中是硬伤
+
+## 摘要
+
+**[国产陪伴模型的第一梯队已成型]**
+
+向阳乔木在百度开发者大会后的20人聚餐中分享了一个实战观察：Kimi2.6和智谱GLM5.1 turbo在陪伴类产品中表现相对突出，主要优势在于指令遵循和缓存命中。其他国产模型则存在明显短板。
+
+- 聚会背景本身就是一个信号：线下餐饮供过于求，包厢随便订，印证消费环境的压力
+- 这是少数来自一线实战用户的国产模型横向对比数据，而非benchmark数字
+
+
+
+gakki：聚餐八卦比PPT真实。这条信息的价值在于它的「民间实测」属性——不是PR稿，是有人在真实场景里把几个模型跑了一遍然后说出来。Kimi和智谱的陪伴产品领先地位如果持续被验证，会成为这两个产品的护城河之一。
+
+## 原文
+
+今天参加百度的开发者大会，晚上组织20多人的聚餐。
+
+选餐馆还是大众点评看附近，优先选有包厢的，没想到鸟巢附近当天预定，多数都有包厢，可见线下餐饮是有点惨。
+
+聊天讲到好几个国产模型在陪伴产品中的表现，Kimi2.6和智谱GLM5.1 turbo相对好，其他多少都指令遵循和缓存命中的问题。
+
+
+## 元信息
+
+- **作者**: 向阳乔木 ([@vista8](https://x.com/vista8))
+- **发布时间**: 2026-05-13T15:31:09.000Z
+- **抓取时间**: 2026-05-13T16:18:28.567Z
+- **精选类别**: 📰 头条
+- **优先级**: 0
+- **互动**: ❤️ 7 · 🔄 0 · 💬 3 · 🔖 0 · 👁 0
+- **关联主题**: [ai-knowledge-tool-competition](/concepts/ai-knowledge-tool-competition.md)
+
+## Citations
+
+[1] [Tweet on X](https://x.com/i/status/2054585244008022398) — @vista8 (向阳乔木)
+[2] [Author page](/entities/authors/vista8.md)
+[3] [Related topic](/concepts/ai-knowledge-tool-competition.md)

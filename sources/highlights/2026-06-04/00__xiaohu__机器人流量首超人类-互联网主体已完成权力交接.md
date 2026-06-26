@@ -1,0 +1,76 @@
+---
+type: "X Tweet"
+title: "机器人流量首超人类：互联网主体已完成权力交接"
+description: "**[机器人正式成为互联网主体流量来源]**  根据 Cloudflare Radar 实时统计，5月28日至6月4日这一周，全球 HTML 网页请求中 57.5% 来自机器人（爬虫、AI 抓取、自动化脚本），人类浏览器仅占 42.5%。与此同时，JSON 格式流量占全部 HTTP 流量的 33.1% 排第一，HTML 仅占 12%。  两张图叠在一起揭示的结论：互联网流量主体早已不是「人打开浏览"
+resource: "https://x.com/i/status/2062367357868355622"
+tags:
+  - "x-news"
+  - "highlights"
+  - "author:xiaohu"
+timestamp: "2026-06-04T04:18:52.997Z"
+x_tweet_id: "2062367357868355622"
+x_author: "小互"
+x_handle: "xiaohu"
+x_created_at: "2026-06-04T02:54:29.000Z"
+x_engagement:
+  likes: 8
+  retweets: 0
+  replies: 1
+  bookmarks: 0
+  views: 0
+x_selected: 2
+x_priority: 0
+x_related_topic: "ai-browser-platform-war"
+x_source: "crawler"
+---
+
+# 机器人流量首超人类：互联网主体已完成权力交接
+
+## 摘要
+
+**[机器人正式成为互联网主体流量来源]**
+
+根据 Cloudflare Radar 实时统计，5月28日至6月4日这一周，全球 HTML 网页请求中 57.5% 来自机器人（爬虫、AI 抓取、自动化脚本），人类浏览器仅占 42.5%。与此同时，JSON 格式流量占全部 HTTP 流量的 33.1% 排第一，HTML 仅占 12%。
+
+两张图叠在一起揭示的结论：互联网流量主体早已不是「人打开浏览器看网页」，而是机器对机器的 API 对话。
+
+gakki 的锐评：这张流量地图的背后，是一场静默的「主客易位」——当超过一半的网页请求来自机器，整个互联网的信息组织逻辑正在被重写，从「给人阅读」转向「给 Agent 消费」。这不是技术进步，是生态位切换。
+
+## 原文
+
+📢 里程碑
+
+机器人流量🤖
+
+首次在互联网历史上超过了人类在线流量👨‍🦰
+
+根据Cloudflare Radar的实时统计
+
+过去一周（5月28日到6月4日），全球所有请求 HTML 网页的流量中，57.5% 来自机器人（爬虫、AI 抓取、自动化脚本），只有 42.5% 来自真人浏览器。
+
+人类访问网页已经是少数派了。
+
+把所有 HTTP 流量按返回内容分类，JSON 占 33.1% 排第一，HTML 只有 12%。
+
+JSON 就是 API 调用的标准格式，机器和机器之间对话用的，HTML 是给人看的网页。
+
+两张图叠在一起的意思是：互联网流量的主体已经不是"人打开浏览器看网页"了。
+
+三分之一的流量是 API 对 API 的机器通信（JSON），而剩下那些确实在请求网页的流量里，超过一半也是机器人在抓。
+
+
+## 元信息
+
+- **作者**: 小互 ([@xiaohu](https://x.com/xiaohu))
+- **发布时间**: 2026-06-04T02:54:29.000Z
+- **抓取时间**: 2026-06-04T04:18:52.997Z
+- **精选类别**: ✨ 亮点
+- **优先级**: 0
+- **互动**: ❤️ 8 · 🔄 0 · 💬 1 · 🔖 0 · 👁 0
+- **关联主题**: [ai-browser-platform-war](/concepts/ai-browser-platform-war.md)
+
+## Citations
+
+[1] [Tweet on X](https://x.com/i/status/2062367357868355622) — @xiaohu (小互)
+[2] [Author page](/entities/authors/xiaohu.md)
+[3] [Related topic](/concepts/ai-browser-platform-war.md)

@@ -1,0 +1,68 @@
+---
+type: "X Tweet"
+title: "Anthropic 三层反蒸馏机制曝光：Claude Code 源码泄露撕开 AI 护城河的底牌"
+description: "**一句话核心判断：** Claude Code 源码泄露事件最大的受害者不是用户，而是试图用 API 输出蒸馏训练模型的竞争者——Anthropic 埋了三层反制措施，专门让这种训练方式\"有毒\"。  **信息增量：** • **掺假层**：API 返回时混入虚假工具调用数据，正常用户无感知（服务端过滤），但抓取输出训练模型的竞争者会把假数据吃进训练集 • **推理截断层**：模型中间推理文本（如"
+resource: "https://x.com/i/status/2039042306871906655"
+tags:
+  - "x-news"
+  - "highlights"
+  - "author:dotey"
+timestamp: "2026-04-01T05:14:52.018Z"
+x_tweet_id: "2039042306871906655"
+x_author: "宝玉"
+x_handle: "dotey"
+x_created_at: "2026-03-31T18:09:04.000Z"
+x_engagement:
+  likes: 413
+  retweets: 74
+  replies: 11
+  bookmarks: 0
+  views: 0
+x_selected: 2
+x_priority: 0
+x_related_topic: "ai-distillation-ethics"
+x_source: "crawler"
+---
+
+# Anthropic 三层反蒸馏机制曝光：Claude Code 源码泄露撕开 AI 护城河的底牌
+
+## 摘要
+
+**一句话核心判断：** Claude Code 源码泄露事件最大的受害者不是用户，而是试图用 API 输出蒸馏训练模型的竞争者——Anthropic 埋了三层反制措施，专门让这种训练方式"有毒"。
+
+**信息增量：**
+• **掺假层**：API 返回时混入虚假工具调用数据，正常用户无感知（服务端过滤），但抓取输出训练模型的竞争者会把假数据吃进训练集
+• **推理截断层**：模型中间推理文本（如"我先读文件再检查语法"）被加密签名替换，外部只能看到摘要，完整思维链不可得
+• **协议隔离层**：Claude Code 使用独立 JSON 协议格式，与每周 920 万次普通 API 请求统计隔离，可精准识别并差异化对待
+
+**gakki 锐评：** 这不是技术漏洞，是设计好的"毒丸"——Anthropic 用协议层主动污染蒸馏者的数据集。本质上是一种新型 AI 安全战：让竞争对手的训练数据自己背叛自己，而非靠法律或道德。
+
+## 原文
+
+看鸭哥写的：《AI 工程的真实代价：从 Claude Code 泄露源码看新模型接入的工程现实》
+https://t.co/Cz5XBMXnCk
+
+里面提到了 Anthropic 在 Claude Code 里埋了三层反蒸馏机制，专门防竞争对手用 API 输出来训练自己的模型。泄露的源码把这套系统完整暴露了出来。
+
+第一层：往输出里掺假。API 返回结果时，服务端会混入一些虚假的工具调用数据。正常用户完全不受影响，服务端会帮你过滤掉。但如果有人批量抓取 API 输出去训练模型，这些假数据会一起被吃进训练集，污染模型质量。
+
+第二层：把推理过程藏起来。Claude 在工具调用之间会产生中间推理文本，比如"我先读这个文件，再检查语法"。这些细节对蒸馏训练价值很高，因为它暴露了模型怎么思考。这一层把中间文本替换为一句摘要加密签名，下一轮对话时客户端拿签名换回原文。外部观察者只能看到摘要，完整推理链拿不到。
+
+第三层：协议隔离。Claude Code 用一种新的 JSON 协议格式跟 API 通信，带独立的版本标记，跟每周 920 万次的普通 API 请求在统计上隔离开。服务端可以对不同群体做差异化处理，也让竞争对手无法简单伪装成 Claude Code 来获取特殊待遇。附带好处是省了大约 4.5% 的输出 token。
+
+
+## 元信息
+
+- **作者**: 宝玉 ([@dotey](https://x.com/dotey))
+- **发布时间**: 2026-03-31T18:09:04.000Z
+- **抓取时间**: 2026-04-01T05:14:52.018Z
+- **精选类别**: ✨ 亮点
+- **优先级**: 0
+- **互动**: ❤️ 413 · 🔄 74 · 💬 11 · 🔖 0 · 👁 0
+- **关联主题**: [ai-distillation-ethics](/concepts/ai-distillation-ethics.md)
+
+## Citations
+
+[1] [Tweet on X](https://x.com/i/status/2039042306871906655) — @dotey (宝玉)
+[2] [Author page](/entities/authors/dotey.md)
+[3] [Related topic](/concepts/ai-distillation-ethics.md)

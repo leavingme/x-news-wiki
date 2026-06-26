@@ -1,0 +1,86 @@
+---
+type: "X Tweet"
+title: "小米1T参数奇袭：从Chat到Agent的无声范式跃迁"
+description: "**[国产大模型进入Agent原生架构竞争]** • 1T参数基座+百万级上下文+MTP推理，小米首个全栈Agent模型家族发布 • \"混合注意力\"架构成结构性优势，为Agent时代提前布局 • 内部强制令：团队日均Agent对话需达100轮，否则离职  小米的「硬指令」暴露了Agent时代的组织底层逻辑：不用Agent的人，不配做Agent的模型。"
+resource: "https://x.com/i/status/2034676907359576501"
+tags:
+  - "x-news"
+  - "highlights"
+  - "author:dotey"
+timestamp: "2026-03-20T00:42:56.537Z"
+x_tweet_id: "2034676907359576501"
+x_author: "宝玉"
+x_handle: "dotey"
+x_created_at: "2026-03-19T17:02:31.000Z"
+x_engagement:
+  likes: 24
+  retweets: 3
+  replies: 0
+  bookmarks: 0
+  views: 0
+x_selected: 2
+x_priority: 0
+x_related_topic: "domestic-model-competition"
+x_source: "crawler"
+---
+
+# 小米1T参数奇袭：从Chat到Agent的无声范式跃迁
+
+## 摘要
+
+**[国产大模型进入Agent原生架构竞争]**
+• 1T参数基座+百万级上下文+MTP推理，小米首个全栈Agent模型家族发布
+• "混合注意力"架构成结构性优势，为Agent时代提前布局
+• 内部强制令：团队日均Agent对话需达100轮，否则离职
+
+小米的「硬指令」暴露了Agent时代的组织底层逻辑：不用Agent的人，不配做Agent的模型。
+
+## 原文
+
+以下为推文翻译
+---
+
+MiMo-V2-Pro、Omni 和 TTS 发布了。这是我们第一个真正为 Agent 时代打造的全栈模型家族。
+
+我把这次发布称为一场无声的奇袭，不是因为我们刻意谋划，而是因为从 Chat 到 Agent 的范式转换来得太快，快到连我们自己都不敢相信。那个过程让人兴奋、痛苦，又着迷。
+
+1T 参数的基座模型几个月前就开始训练了。最初的目标是长上下文推理效率。混合注意力（Hybrid Attention）机制有真正的创新，但没有用力过猛，而事实证明，它恰好是 Agent 时代最合适的基础架构。百万级上下文窗口。MTP 推理（Multi-Token Prediction）实现超低延迟和成本。这些架构决策在当时并不时髦，但它们是我们在需要之前就建好的结构性优势。
+
+真正改变一切的，是第一次亲身体验一个复杂的智能体脚手架，我称之为"编排式上下文"（orchestrated Context）。第一天我就被震撼到了。我试图说服团队去用它，但没用。
+
+于是我下了一道硬指令：MiMo 团队里，明天跟 Agent 系统的对话不到 100 轮的人，可以走人。这招管用了。一旦团队的想象力被智能体系统的能力点燃，这种想象力就直接转化为了研究速度。
+
+人们总问我们为什么能跑这么快。我在做 DeepSeek R1 的时候亲眼见证过。我的真实总结：
+
+— 基座与基础设施研究周期很长。你需要在它产出回报的一年前就有战略定力。
+
+— 后训练的敏捷性是另一种能力：靠产品直觉驱动评估，压缩迭代周期，及早捕捉范式转换。
+
+— 还有那些不变的东西：好奇心、敏锐的技术直觉、果断的执行力、全力以赴，以及一样很容易被低估的东西：对你正在为之构建的世界，发自内心的热爱。
+
+我们会开源的——等模型稳定到值得开源的时候。
+
+发自北京，很晚了，还没完全清醒。
+
+---
+
+译注：
+- orchestrated Context：作者自创概念，指复杂 Agent 系统中经过编排的上下文管理方式
+- MTP：Multi-Token Prediction，一种可同时预测多个 token 的推理方式，能降低延迟和成本
+
+
+## 元信息
+
+- **作者**: 宝玉 ([@dotey](https://x.com/dotey))
+- **发布时间**: 2026-03-19T17:02:31.000Z
+- **抓取时间**: 2026-03-20T00:42:56.537Z
+- **精选类别**: ✨ 亮点
+- **优先级**: 0
+- **互动**: ❤️ 24 · 🔄 3 · 💬 0 · 🔖 0 · 👁 0
+- **关联主题**: [domestic-model-competition](/concepts/domestic-model-competition.md)
+
+## Citations
+
+[1] [Tweet on X](https://x.com/i/status/2034676907359576501) — @dotey (宝玉)
+[2] [Author page](/entities/authors/dotey.md)
+[3] [Related topic](/concepts/domestic-model-competition.md)

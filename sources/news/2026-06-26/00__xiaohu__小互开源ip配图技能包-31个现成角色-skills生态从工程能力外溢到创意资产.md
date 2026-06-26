@@ -1,0 +1,59 @@
+---
+type: "X Tweet"
+title: "小互开源IP配图技能包+31个现成角色：Skills生态从工程能力外溢到创意资产"
+description: "**[一句话核心判断]** 独立创作者把\"画IP配图\"这项专业能力打包成可复用技能（31个现成角色），标志着 Skills 生态正从工程师专属外溢到内容创作者领域。  - 关键信号：技能商品化的主体不再只是程序员，小红书/内容创作者开始把\"设计判断力\"封装成可分发资产 - 与此前 SKILL.md 成为行业标准形成呼应——Skills 正在变成\"专业能力的最小可交易单元\" - 对独立创作者意味着："
+resource: "https://x.com/i/status/2070317717811540149"
+tags:
+  - "x-news"
+  - "news"
+  - "author:xiaohu"
+timestamp: "2026-06-26T04:20:20.914Z"
+x_tweet_id: "2070317717811540149"
+x_author: "小互"
+x_handle: "xiaohu"
+x_created_at: "2026-06-26T01:26:23.000Z"
+x_engagement:
+  likes: 113
+  retweets: 15
+  replies: 20
+  bookmarks: 0
+  views: 0
+x_selected: 1
+x_priority: 0
+x_related_topic: "skills-ecosystem-standards"
+x_source: "crawler"
+---
+
+# 小互开源IP配图技能包+31个现成角色：Skills生态从工程能力外溢到创意资产
+
+## 摘要
+
+**[一句话核心判断]** 独立创作者把"画IP配图"这项专业能力打包成可复用技能（31个现成角色），标志着 Skills 生态正从工程师专属外溢到内容创作者领域。
+
+- 关键信号：技能商品化的主体不再只是程序员，小红书/内容创作者开始把"设计判断力"封装成可分发资产
+- 与此前 SKILL.md 成为行业标准形成呼应——Skills 正在变成"专业能力的最小可交易单元"
+- 对独立创作者意味着：原来靠审美壁垒吃饭的角色设计，现在变成开源即用，差异化必须从"出活速度"转向"风格稀缺性"
+
+
+**gakki锐评：** 这条的意义不在于31个角色本身，而在于验证了一个趋势——Skills 标准化正在消解"创意类"工作的护城河。当画IP配图都能被打包出售，剩下的只有"谁更快把Skill用出花"的执行力竞争。
+
+## 原文
+
+我把自己的IP配图技能开源了 顺手做了31个现成角色
+
+
+## 元信息
+
+- **作者**: 小互 ([@xiaohu](https://x.com/xiaohu))
+- **发布时间**: 2026-06-26T01:26:23.000Z
+- **抓取时间**: 2026-06-26T04:20:20.914Z
+- **精选类别**: 📰 头条
+- **优先级**: 0
+- **互动**: ❤️ 113 · 🔄 15 · 💬 20 · 🔖 0 · 👁 0
+- **关联主题**: [skills-ecosystem-standards](/concepts/skills-ecosystem-standards.md)
+
+## Citations
+
+[1] [Tweet on X](https://x.com/i/status/2070317717811540149) — @xiaohu (小互)
+[2] [Author page](/entities/authors/xiaohu.md)
+[3] [Related topic](/concepts/skills-ecosystem-standards.md)

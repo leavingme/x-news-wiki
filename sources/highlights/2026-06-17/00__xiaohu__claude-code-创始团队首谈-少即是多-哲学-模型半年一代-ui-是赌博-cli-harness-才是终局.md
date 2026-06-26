@@ -1,0 +1,106 @@
+---
+type: "X Tweet"
+title: "Claude Code 创始团队首谈\"少即是多\"哲学：模型半年一代，UI 是赌博，CLI/Harness 才是终局"
+description: "**[Claude Code 创始团队披露内部\"少即是多\"哲学：模型进步太快，半年后 UI 就过时，CLI 才是终局]**  - CLAUDE.md 保持极简，团队负责人自己的只有两行（提 PR 自动合并、提 PR 发审批频道），其余规则写进全队共建的代码库文件 - 几千 token 时直接删掉重写：模型每代都在变强，今天费劲搭的工程化东西很快白搭 - 拒绝做 GUI 的原因：模型进步速度超过 U"
+resource: "https://x.com/i/status/2067131704343716087"
+tags:
+  - "x-news"
+  - "highlights"
+  - "author:xiaohu"
+timestamp: "2026-06-17T07:18:58.341Z"
+x_tweet_id: "2067131704343716087"
+x_author: "小互"
+x_handle: "xiaohu"
+x_created_at: "2026-06-17T06:26:18.000Z"
+x_engagement:
+  likes: 21
+  retweets: 1
+  replies: 8
+  bookmarks: 0
+  views: 0
+x_selected: 2
+x_priority: 0
+x_related_topic: "claude-code-restraint-philosophy"
+x_source: "crawler"
+---
+
+# Claude Code 创始团队首谈"少即是多"哲学：模型半年一代，UI 是赌博，CLI/Harness 才是终局
+
+## 摘要
+
+**[Claude Code 创始团队披露内部"少即是多"哲学：模型进步太快，半年后 UI 就过时，CLI 才是终局]**
+
+- CLAUDE.md 保持极简，团队负责人自己的只有两行（提 PR 自动合并、提 PR 发审批频道），其余规则写进全队共建的代码库文件
+- 几千 token 时直接删掉重写：模型每代都在变强，今天费劲搭的工程化东西很快白搭
+- 拒绝做 GUI 的原因：模型进步速度超过 UI 适配周期，半年后界面就过时；CLI 反而降低门槛
+- 当队友犯可避免的错，直接在 PR 上让 Claude 把规则加进共享文件，全队每周共建
+
+
+gakki 锐评：这是 Anthropic 内部对"工程化"和"克制"边界的官方答案。押注 UI 是赌博，押注交互原语（CLI/Harness）才是 Alpha——背后是对"模型代际差"的信仰压过对"产品形态"的执念。
+
+## 原文
+
+Claude Code 之父自己的 CLAUDE.md 
+
+现在就两行...
+
+Claude Code 团队聊"少即是多"分享随着模型能力增加该如何和模型交流：
+
+“别跟模型较劲做加法，因为模型每代都在变强，你今天费劲搭的东西很快就白搭了。”
+
+为什么 Claude Code 坚持做命令行不做 GUI？
+
+因为模型进步太快，半年后可能界面就过时了...
+
+具体落在四件事上：
+
+1. CLAUDE.md 越短越好，定期清空重来
+
+他自己的 CLAUDE.md 就两行，提 PR 自动合并、提 PR 发审批频道，其余规则全写进提交到代码库、全队每周共建的那份里。看到队友犯可避免的错，就直接在 PR 上 Claude 让它把规则加进去。
+
+当系统提示"你的 CLAUDE.md 已经几千 token"时，他的建议是直接删掉重写：用最少的东西把模型拉回正轨，模型跑偏了再一点点加回来。而且你会发现，每换一代模型，要加的越来越少。
+
+很多人的毛病是过度工程化。
+
+2. 为什么坚持做命令行（CLI）而不做图形界面
+
+因为模型进步太快，做不出一个半年后还不过时的 UI。
+
+而且 CLI 反而降低门槛，用 Claude Code 不需要懂 Vim、Tmux、SSH，打开就有它带着走。团队里也有 Vim 死忠，"除非我死否则别想夺走我的 Vim"，但他自己就用 VS Code，觉得自己是个普通工程师。
+
+3. 终端输出"详细 vs 简洁"的拉锯
+
+他个人喜欢啰嗦，能扫一眼发现模型跑飞，按 Esc 当场摁住。
+
+半年前他想砍掉冗长的 bash 输出，结果 Anthropic 员工全员造反。最近把"读文件/搜文件"折叠成一行摘要（这放半年前发不出来，因为那时模型还常读错），GitHub 上又有人不干。于是加了 verbose 模式两边兼顾。
+
+这套打磨方式就是：发布 → 自己用一个月 → 听用户骂 → 迭代。他说最爱的就是听用户到底想怎么用。
+
+4. 用 AI 修 bug 的体验已经"离谱"
+
+做好日志后，随口说"这个对象出错了"，它就翻日志、自己搞清楚，甚至能开生产通道看线上数据库。
+
+最戳他的一个例子：他自己查一个内存泄漏，做 heap dump、开 DevTools、翻代码翻半天没搞定。队友 Chris 直接把问题丢给 Claude Code，它自己写了个小工具分析 heap dump，比他更快找到了泄漏。
+
+收尾的反思
+
+他说"Agent 能做什么"这件事每换一代模型就变，新人往往比他这个老人用得还溜，"这事我得反复重新适应，因为我的脑子还停在过去。"
+
+一句话总结：模型在飞涨，人的最优策略不是堆配置、堆脚手架、堆工具，而是做减法、保持轻、把判断让给越来越强的模型，并不断推翻自己过时的使用习惯。
+
+
+## 元信息
+
+- **作者**: 小互 ([@xiaohu](https://x.com/xiaohu))
+- **发布时间**: 2026-06-17T06:26:18.000Z
+- **抓取时间**: 2026-06-17T07:18:58.341Z
+- **精选类别**: ✨ 亮点
+- **优先级**: 0
+- **互动**: ❤️ 21 · 🔄 1 · 💬 8 · 🔖 0 · 👁 0
+- **关联主题**: [claude-code-restraint-philosophy](/concepts/claude-code-restraint-philosophy.md)
+
+## Citations
+
+[1] [Tweet on X](https://x.com/i/status/2067131704343716087) — @xiaohu (小互)
+[2] [Author page](/entities/authors/xiaohu.md)
+[3] [Related topic](/concepts/claude-code-restraint-philosophy.md)

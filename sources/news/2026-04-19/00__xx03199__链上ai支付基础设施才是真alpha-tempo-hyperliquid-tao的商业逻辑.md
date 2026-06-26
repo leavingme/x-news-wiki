@@ -1,0 +1,90 @@
+---
+type: "X Tweet"
+title: "链上AI支付基础设施才是真Alpha：Tempo/Hyperliquid/TAO的商业逻辑"
+description: "**[闷头做事的链上基础设施在下一轮周期比任何DeFi叙事都硬]**  全真教DD老师的判断：真正有壁垒的链上Alpha藏在不爱营销的项目里。三个代表性方向：  - **Tempo**：Gasless + MPP协议，为AI Agent打开自主支付通道 - **Hyperliquid**：HIP-3/HIP-4把所有金融资产搬上链，做成真正的链上金融巨兽 - **TAO**：子网竞争把去中心化AI"
+resource: "https://x.com/i/status/2038851780889673984"
+tags:
+  - "x-news"
+  - "news"
+  - "author:xx03199"
+timestamp: "2026-04-19T00:45:05.846Z"
+x_tweet_id: "2038851780889673984"
+x_author: "web3 八方"
+x_handle: "xx03199"
+x_created_at: "2026-03-31T05:31:59.000Z"
+x_engagement:
+  likes: 63
+  retweets: 0
+  replies: 59
+  bookmarks: 0
+  views: 0
+x_selected: 1
+x_priority: 0
+x_related_topic: "ai-agent-crypto-infra"
+x_source: "crawler"
+---
+
+# 链上AI支付基础设施才是真Alpha：Tempo/Hyperliquid/TAO的商业逻辑
+
+## 摘要
+
+**[闷头做事的链上基础设施在下一轮周期比任何DeFi叙事都硬]**
+
+全真教DD老师的判断：真正有壁垒的链上Alpha藏在不爱营销的项目里。三个代表性方向：
+
+- **Tempo**：Gasless + MPP协议，为AI Agent打开自主支付通道
+- **Hyperliquid**：HIP-3/HIP-4把所有金融资产搬上链，做成真正的链上金融巨兽
+- **TAO**：子网竞争把去中心化AI算力做成残酷的纳斯达克
+
+这三个项目的共同特点是都有真实商业闭环和清晰技术壁垒，不是纯叙事。
+
+
+**gakki：** "支付基础设施"这个词在圈内有被用烂的趋势，但这篇文章说的不是发币，而是AI Agent要能在链上自主完成价值交换所需的底层通道。如果Agent自己都做不了支付，何谈经济自主权？这个逻辑是自洽的，但要警惕的是——这些项目的真实商业闭环到底是什么，而不是又一轮token分配的借口。
+
+## 原文
+
+加密已死？
+不敢苟同
+
+先说下我们全真的长老，哈哈，对于@rtk17025 老师，我的印象就是「毒」，哈哈，我说的是眼光毒。
+
+DD 老师不管是对趋势的把握还是项目的分析，又或是流量密码，都能精准 hold 到，我们全真教主zc @ZhanweiC 说过，别瞎几把找项目了，跟着 DD 走就对了，我想说的是，说的太几把对了
+
+今天看了 DD 老师这篇分析还是有所感触的
+
+2026 年了，还有很多人天天喊「加密没机会、没创新」，其实只是他们只盯着广子推的项目在刷时间线
+
+如果你在我们全真的话，可以说气氛完全不一样
+
+说说我的看法，真正的 alpha，往往藏在那些不爱营销、闷头做事的链上基础设施里。
+
+Tempo 的 Gasless + MPP 协议，直接给 AI Agent 打开了自主支付通道；
+Hyperliquid 用 HIP-3/HIP-4 把所有金融资产搬上链，变成真正的链上金融巨兽；
+TAO 的子网竞争则是把去中心化 AI 算力做成了残酷的纳斯达克。
+
+这三个项目共同的特点是：
+都有真实商业闭环、有清晰的技术壁垒，而不是纯叙事。
+它们代表了下一轮周期里最硬核的方向——支付基础设施、链上全资产金融、去中心化 AI 计算。
+
+在我看来追求NFT 10 x 也只是表象，真像是背后是这些「广子之外」的项目在悄悄积蓄力量了
+
+与其感叹加密已死，不如跟着一起努力寻找广子外的世界
+
+感谢 DD 老师分享这种独立思考的内容，继续多挖这种被低估的机会
+
+
+## 元信息
+
+- **作者**: web3 八方 ([@xx03199](https://x.com/xx03199))
+- **发布时间**: 2026-03-31T05:31:59.000Z
+- **抓取时间**: 2026-04-19T00:45:05.846Z
+- **精选类别**: 📰 头条
+- **优先级**: 0
+- **互动**: ❤️ 63 · 🔄 0 · 💬 59 · 🔖 0 · 👁 0
+- **关联主题**: [ai-agent-crypto-infra](/concepts/ai-agent-crypto-infra.md)
+
+## Citations
+
+[1] [Tweet on X](https://x.com/i/status/2038851780889673984) — @xx03199 (web3 八方)
+[2] [Author page](/entities/authors/xx03199.md)
+[3] [Related topic](/concepts/ai-agent-crypto-infra.md)

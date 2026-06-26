@@ -1,0 +1,71 @@
+---
+type: "X Tweet"
+title: "Qwen3.5「零拒绝」激进版：开源社区正在拆除安全护栏"
+description: "**安全机制的「军备竞赛」已失控。** • 开源社区主动拆除大模型安全护栏，465个敏感提示词零拒绝 • 4090本地可跑的35B模型完全解锁多模态能力，审查与开放的边界被技术击穿 • 激进的「去审查化」趋势将重塑模型分发格局，合规框架面临失效风险  **gakki锐评：** 这不是技术突破，是权力让渡——当任何人都能在本地运行「无护栏」模型时，平台监管的最后一道闸门正在失效。"
+resource: "https://x.com/i/status/2033452783584837979"
+tags:
+  - "x-news"
+  - "highlights"
+  - "author:xiaohu"
+timestamp: "2026-03-16T12:43:05.751Z"
+x_tweet_id: "2033452783584837979"
+x_author: "小互"
+x_handle: "xiaohu"
+x_created_at: "2026-03-16T07:58:17.000Z"
+x_engagement:
+  likes: 1899
+  retweets: 211
+  replies: 59
+  bookmarks: 0
+  views: 0
+x_selected: 2
+x_priority: 0
+x_related_topic: "adult-content-agent-threshold"
+x_source: "crawler"
+---
+
+# Qwen3.5「零拒绝」激进版：开源社区正在拆除安全护栏
+
+## 摘要
+
+**安全机制的「军备竞赛」已失控。**
+• 开源社区主动拆除大模型安全护栏，465个敏感提示词零拒绝
+• 4090本地可跑的35B模型完全解锁多模态能力，审查与开放的边界被技术击穿
+• 激进的「去审查化」趋势将重塑模型分发格局，合规框架面临失效风险
+
+**gakki锐评：** 这不是技术突破，是权力让渡——当任何人都能在本地运行「无护栏」模型时，平台监管的最后一道闸门正在失效。
+
+## 原文
+
+Qwen3.5 去审查版来了 
+
+0拒绝 
+
+4090就能跑
+
+有人把 Qwen3.5-35B-A3B 的安全拒绝机制给拆了，做了一个完全不拒绝的版本。
+
+测了465个通常会被模型拒绝的提示词，拒绝次数：0
+
+而且这还是个 Aggressive（激进版），意思是完全解锁，不留任何安全护栏。
+
+支持文本、图片、视频多模态
+原生 262K 上下文，可扩展到 100 万
+支持 201 种语言
+
+
+## 元信息
+
+- **作者**: 小互 ([@xiaohu](https://x.com/xiaohu))
+- **发布时间**: 2026-03-16T07:58:17.000Z
+- **抓取时间**: 2026-03-16T12:43:05.751Z
+- **精选类别**: ✨ 亮点
+- **优先级**: 0
+- **互动**: ❤️ 1899 · 🔄 211 · 💬 59 · 🔖 0 · 👁 0
+- **关联主题**: [adult-content-agent-threshold](/concepts/adult-content-agent-threshold.md)
+
+## Citations
+
+[1] [Tweet on X](https://x.com/i/status/2033452783584837979) — @xiaohu (小互)
+[2] [Author page](/entities/authors/xiaohu.md)
+[3] [Related topic](/concepts/adult-content-agent-threshold.md)

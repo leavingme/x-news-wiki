@@ -1,0 +1,69 @@
+---
+type: "X Tweet"
+title: "Factory AI CEO 抛出四个反共识判断：开源吃 80% 任务、工程师从写代码转向端到端业务、三年内 Token 支出追平薪资"
+description: "**顶级模型做规划决策，开源模型执行 80%-90% 任务，AI 杠杆向本就有杠杆的人倾斜**  - 80%-90% 任务用开源模型即可完成，顶级模型最适合做规划和决策——开源性价比拐点已被头部工程团队确认 - AI 给高杠杆的人更高杠杆，给低杠杆的人帮助相对有限——马太效应在算力层被结构性放大 - 未来三年最值钱的工程师不是快速写代码的人，而是能端到端拥有业务结果的人 - 三年内 Token 支"
+resource: "https://x.com/i/status/2066899718689673540"
+tags:
+  - "x-news"
+  - "highlights"
+  - "author:vista8"
+timestamp: "2026-06-16T16:19:56.779Z"
+x_tweet_id: "2066899718689673540"
+x_author: "向阳乔木"
+x_handle: "vista8"
+x_created_at: "2026-06-16T15:04:28.000Z"
+x_engagement:
+  likes: 3
+  retweets: 0
+  replies: 3
+  bookmarks: 0
+  views: 0
+x_selected: 2
+x_priority: 0
+x_related_topic: "product-definition-moat"
+x_source: "crawler"
+---
+
+# Factory AI CEO 抛出四个反共识判断：开源吃 80% 任务、工程师从写代码转向端到端业务、三年内 Token 支出追平薪资
+
+## 摘要
+
+**顶级模型做规划决策，开源模型执行 80%-90% 任务，AI 杠杆向本就有杠杆的人倾斜**
+
+- 80%-90% 任务用开源模型即可完成，顶级模型最适合做规划和决策——开源性价比拐点已被头部工程团队确认
+- AI 给高杠杆的人更高杠杆，给低杠杆的人帮助相对有限——马太效应在算力层被结构性放大
+- 未来三年最值钱的工程师不是快速写代码的人，而是能端到端拥有业务结果的人
+- 三年内 Token 支出的中位数会和薪资处于同一数量级
+
+Gakki 锐评：这是一份给 Vibe Coding 焦虑的清醒剂——Coding 能力正在快速商品化，真正稀缺的是「端到端负责」的判断力，工程师职业的护城河在向上游迁移。Token=薪资 这个时间表比多数人预期的激进。
+
+## 原文
+
+Factory AI CEO的播客访谈，太长不看版：
+
+1. 大约80%到90%的任务用开源模型就能完成，顶级模型最适合做规划和决策。
+
+2. AI工具给高杠杆的人提供了更高的杠杆，给低杠杆的人提供的帮助相对有限。
+
+3. 未来最值钱的工程师不是快速写代码、写算法的人，而是能端到端拥有业务结果的人。
+
+4. 三年内，Token支出的中位数会和薪资处于同一数量级。
+
+https://t.co/DGK2tVKWyC
+
+
+## 元信息
+
+- **作者**: 向阳乔木 ([@vista8](https://x.com/vista8))
+- **发布时间**: 2026-06-16T15:04:28.000Z
+- **抓取时间**: 2026-06-16T16:19:56.779Z
+- **精选类别**: ✨ 亮点
+- **优先级**: 0
+- **互动**: ❤️ 3 · 🔄 0 · 💬 3 · 🔖 0 · 👁 0
+- **关联主题**: [product-definition-moat](/concepts/product-definition-moat.md)
+
+## Citations
+
+[1] [Tweet on X](https://x.com/i/status/2066899718689673540) — @vista8 (向阳乔木)
+[2] [Author page](/entities/authors/vista8.md)
+[3] [Related topic](/concepts/product-definition-moat.md)

@@ -1,0 +1,121 @@
+---
+type: "X Tweet"
+title: "GitHub Copilot 切到 AI Credits：AI 编程进入「水电表时代」"
+description: "**[Agent 时代不是模型之争，而是成本调度之争]** - 2026 年 6 月 1 日起，GitHub Copilot 把重型 agentic workflow 切到 GitHub AI Credits 用量计费 - 轻任务（补全）仍走订阅；读文件/推理/改代码/跑测试按 token 实结算，缓存也进入成本 - 真正的变化是「成本意识」成为新能力：先侦察还是开挖？设边界还是放任？要求证据还是"
+resource: "https://x.com/i/status/2068020897395413099"
+tags:
+  - "x-news"
+  - "highlights"
+  - "author:Zesee"
+timestamp: "2026-06-19T19:19:18.533Z"
+x_tweet_id: "2068020897395413099"
+x_author: "Rachel🥥"
+x_handle: "Zesee"
+x_created_at: "2026-06-19T17:19:38.000Z"
+x_engagement:
+  likes: 21
+  retweets: 0
+  replies: 16
+  bookmarks: 0
+  views: 0
+x_selected: 2
+x_priority: 0
+x_related_topic: "ai-tool-subscription-value"
+x_source: "crawler"
+---
+
+# GitHub Copilot 切到 AI Credits：AI 编程进入「水电表时代」
+
+## 摘要
+
+**[Agent 时代不是模型之争，而是成本调度之争]**
+- 2026 年 6 月 1 日起，GitHub Copilot 把重型 agentic workflow 切到 GitHub AI Credits 用量计费
+- 轻任务（补全）仍走订阅；读文件/推理/改代码/跑测试按 token 实结算，缓存也进入成本
+- 真正的变化是「成本意识」成为新能力：先侦察还是开挖？设边界还是放任？要求证据还是猜测？
+
+gakki 锐评：订阅制退潮意味着 AI 编程从消费品变工业品，谁能用更少 token 跑通业务，谁就拿到下一轮入场券。
+
+## 原文
+
+以后不会调度 Agent 的人，账单越贵。
+
+GitHub Copilot 用量计费这件事，表面是价格新闻。
+真正的信号是：AI 编程进入水电表时代了。
+
+你买的不再只是「AI 很聪明」。
+而是每一次读文件、推理、改代码、跑测试的真实成本。
+
+GitHub 从 2026 年 6 月 1 日起，把 Copilot 的重型使用切到 GitHub AI Credits。
+
+简单说，以后很多 agentic workflow 会更接近 token 计费：
+输入要钱；输出要钱。
+
+缓存也会进入计算。补全这种轻任务还在订阅里。
+
+但让 Agent 长时间读仓库、改代码、跑测试、做 review，就不是同一回事了。
+
+以前用 AI 写代码，很像住进水电全包的房子。灯开着睡。
+空调 24 小时不关，水龙头一直流。反正月底账单差不多。
+现在水电表装上了。
+你让 Agent 多读一个目录、多推理一轮、多跑一次测试，都会更接近真实成本。
+
+所以 AI 编程以后要多一个能力：成本意识。考察的是调度能力。
+
+你让它先侦察，还是直接开挖？
+你给它边界，还是让它满仓库乱逛？
+你要求证据，还是让它边猜边改？不会调度 Agent 的人，会把小问题做成大工程。
+
+很多人最贵的一句话是：「帮我完整检查这个项目，找出问题并修复。」
+
+这句话看起来很省心。
+实际是在允许 Agent 无限侦察、无限推理、无限扩大范围。
+你看到它一直在读文件，会觉得它很努力。
+但很多 token 不是花在修复上。
+是花在无边界侦察上。
+
+比如一个很小的问题：Todo 列表点「添加」后，输入框没清空。
+你说：
+「帮我检查这个项目并修复。」
+Agent 可能开始扫路由、扫状态管理、扫组件库、扫测试、扫 package。
+
+最后发现只是 TodoForm.tsx 里漏了一个 setValue("")。
+不是它不会修，是你让它用挖掘机挖一颗土豆。
+
+更好的问法是：「先只读 Todo 页面和 TodoForm 相关组件，不要改代码。确认添加按钮的点击逻辑和输入框状态在哪里。找到原因后，只改最小文件，并告诉我为什么不用看其他文件。」
+
+这不是 prompt 工程。
+prompt 工程关心怎么把话说漂亮。
+Agent 调度关心的是：
+怎么让一次协作少走冤枉路。
+
+我现在把 AI 编程任务拆成三档：
+侦察：先不要改代码。最多读 5 个相关文件。输出调用链、状态流动、最可疑的 3 个点和证据。
+手术：只改最小范围。不改接口。不调整目录结构。不做无关重构。
+验收：实际跑测试。没跑过的，不要声称已验证。顺序错了，成本就会炸。
+
+以后真正会用 AI 编程的人，是能把 vibe 变成可控流程的人。
+他知道什么时候该让 AI 侦察。
+什么时候该让 AI 动手。
+什么时候必须停下来验收。
+什么时候该用强模型。
+什么时候普通模式就够了。
+
+免费午餐结束，不是坏消息。
+水电表装上以后，我们终于要认真学会怎么用电了。
+
+
+## 元信息
+
+- **作者**: Rachel🥥 ([@Zesee](https://x.com/Zesee))
+- **发布时间**: 2026-06-19T17:19:38.000Z
+- **抓取时间**: 2026-06-19T19:19:18.533Z
+- **精选类别**: ✨ 亮点
+- **优先级**: 0
+- **互动**: ❤️ 21 · 🔄 0 · 💬 16 · 🔖 0 · 👁 0
+- **关联主题**: [ai-tool-subscription-value](/concepts/ai-tool-subscription-value.md)
+
+## Citations
+
+[1] [Tweet on X](https://x.com/i/status/2068020897395413099) — @Zesee (Rachel🥥)
+[2] [Author page](/entities/authors/zesee.md)
+[3] [Related topic](/concepts/ai-tool-subscription-value.md)

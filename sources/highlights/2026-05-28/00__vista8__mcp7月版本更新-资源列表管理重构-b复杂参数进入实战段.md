@@ -1,0 +1,58 @@
+---
+type: "X Tweet"
+title: "MCP7月版本更新：资源列表管理重构，B复杂参数进入实战段"
+description: "**[一行核心判断]** MCP7月的更新方向很清晰——从「能不能用」进入「好不好用」的工程化阶段，尤其是列表管理和复杂参数控制的改进，标志着MCP协议正在从玩具阶段走向生产级工具链。  - **信息增量**：详细更新说明覆盖了资源列表的语义化管理，以及涉及B参数的实战配置——这些在之前版本中要么缺失要么文档不足。 - **影响范围**：所有基于MCP构建Agent工具链的开发者，尤其是做多工具编"
+resource: "https://x.com/i/status/2059812722758590526"
+tags:
+  - "x-news"
+  - "highlights"
+  - "author:vista8"
+timestamp: "2026-05-28T04:18:32.650Z"
+x_tweet_id: "2059812722758590526"
+x_author: "向阳乔木"
+x_handle: "vista8"
+x_created_at: "2026-05-28T01:43:17.000Z"
+x_engagement:
+  likes: 2
+  retweets: 1
+  replies: 0
+  bookmarks: 0
+  views: 0
+x_selected: 2
+x_priority: 0
+x_related_topic: "mcp-vs-cli-debate"
+x_source: "crawler"
+---
+
+# MCP7月版本更新：资源列表管理重构，B复杂参数进入实战段
+
+## 摘要
+
+**[一行核心判断]** MCP7月的更新方向很清晰——从「能不能用」进入「好不好用」的工程化阶段，尤其是列表管理和复杂参数控制的改进，标志着MCP协议正在从玩具阶段走向生产级工具链。
+
+- **信息增量**：详细更新说明覆盖了资源列表的语义化管理，以及涉及B参数的实战配置——这些在之前版本中要么缺失要么文档不足。
+- **影响范围**：所有基于MCP构建Agent工具链的开发者，尤其是做多工具编排、上下文管理的企业级用户。
+- **工程信号**：协议层在收敛，但工具侧的实现在分化——这是任何协议发展期的正常生态特征，也会催生大量「套壳封装」的机会。
+
+gakki 锐评：当一个协议的版本更新开始出现「工程细节」而不是「功能宣发」的时候，说明它已经过了概念验证期，开始进入真正的开发者采用阶段——MCP正在跨越这个鸿沟。
+
+## 原文
+
+详细的MCP 7月份版本的更新说明：https://t.co/B7V9ebK2cF
+
+
+## 元信息
+
+- **作者**: 向阳乔木 ([@vista8](https://x.com/vista8))
+- **发布时间**: 2026-05-28T01:43:17.000Z
+- **抓取时间**: 2026-05-28T04:18:32.650Z
+- **精选类别**: ✨ 亮点
+- **优先级**: 0
+- **互动**: ❤️ 2 · 🔄 1 · 💬 0 · 🔖 0 · 👁 0
+- **关联主题**: [mcp-vs-cli-debate](/concepts/mcp-vs-cli-debate.md)
+
+## Citations
+
+[1] [Tweet on X](https://x.com/i/status/2059812722758590526) — @vista8 (向阳乔木)
+[2] [Author page](/entities/authors/vista8.md)
+[3] [Related topic](/concepts/mcp-vs-cli-debate.md)

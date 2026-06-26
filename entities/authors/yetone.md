@@ -1,0 +1,199 @@
+---
+type: "Author"
+title: "yetone (@yetone)"
+description: "X/Twitter 作者 @yetone。共收录 168 条 AI 精选推文。"
+tags:
+  - "x-news"
+  - "author"
+  - "author:yetone"
+timestamp: "2026-06-26T11:53:36.941Z"
+x_handle: "yetone"
+x_author_name: "yetone"
+x_tweet_count: 168
+x_first_seen: "2026-02-21T01:00:39.089Z"
+x_last_seen: "2026-06-23T10:18:39.257Z"
+---
+
+# yetone (@yetone)
+
+X (Twitter) 作者 [@yetone](https://x.com/yetone)，共 **168** 条 AI 精选推文被收录到本知识库。
+
+## 精选推文（按时间倒序）
+
+- [yetone 一句话点破"AI Coding 怀旧"元命题：制品没变，所以才有比较](../sources/news/2026-06-23/00__yetone__yetone-一句话点破-ai-coding-怀旧-元命题-制品没变-所以才有比较.md) — 2026-06-23
+- [手写代码时代的惆怅：yetone 一句话戳中工程师代际更替](../sources/news/2026-06-21/00__yetone__手写代码时代的惆怅-yetone-一句话戳中工程师代际更替.md) — 2026-06-21
+- [yetone 自承写不了Tauri：Agent工程师的「底层能力天花板」被照见](../sources/news/2026-06-21/00__yetone__yetone-自承写不了tauri-agent工程师的-底层能力天花板-被照见.md) — 2026-06-21
+- [yetone：把 pre-commit 和 linter 全卸了，AI 编程才能跑满「无损反馈环」](../sources/news/2026-06-20/00__yetone__yetone-把-pre-commit-和-linter-全卸了-ai-编程才能跑满-无损反馈环.md) — 2026-06-20
+- [yetone 一句话点破 Raft 取巧位：不碰 Agent 本体，专做周边](../sources/news/2026-06-20/00__yetone__yetone-一句话点破-raft-取巧位-不碰-agent-本体-专做周边.md) — 2026-06-20
+- [yetone 亲历 Vibe Coding 死循环：模型降智转人工，才发现自己 Vim 连语法高亮都没了](../sources/highlights/2026-06-20/00__yetone__yetone-亲历-vibe-coding-死循环-模型降智转人工-才发现自己-vim-连语法高亮都没了.md) — 2026-06-20
+- [yetone 翻 2024 旧账：coding agent 多 provider 路线是"屎"，当年 avante 就试过](../sources/news/2026-06-18/00__yetone__yetone-翻-2024-旧账-coding-agent-多-provider-路线是-屎-当年-avante-就试过.md) — 2026-06-18
+- [yetone 启动 Computer Use 实战测试：让模型自己打开网易云放「今日推荐」](../sources/news/2026-06-17/00__yetone__yetone-启动-computer-use-实战测试-让模型自己打开网易云放-今日推荐.md) — 2026-06-17
+- [yetone：没 AI Slop 的产品就是加了'人'这个滤镜，我已经是滤镜了](../sources/news/2026-06-16/00__yetone__yetone-没-ai-slop-的产品就是加了-人-这个滤镜-我已经是滤镜了.md) — 2026-06-16
+- [yetone：坦然接受 AI Slop 的用户才是真 AI native，因为他们天然接受 AI 直出](../sources/news/2026-06-16/00__yetone__yetone-坦然接受-ai-slop-的用户才是真-ai-native-因为他们天然接受-ai-直出.md) — 2026-06-16
+- [yetone 泼冷水：所谓"反 AI Slop"是工程师和设计师的一厢情愿](../sources/news/2026-06-16/00__yetone__yetone-泼冷水-所谓-反-ai-slop-是工程师和设计师的一厢情愿.md) — 2026-06-16
+- [yetone 从 PTY 回退 claude -p：CLI 仍是 Agent 工程化的最稳答案](../sources/news/2026-06-16/00__yetone__yetone-从-pty-回退-claude-p-cli-仍是-agent-工程化的最稳答案.md) — 2026-06-16
+- [yetone 背书 CodeX + CC Switch：Harness 战争已蔓延到国产圈](../sources/news/2026-06-15/00__yetone__yetone-背书-codex-cc-switch-harness-战争已蔓延到国产圈.md) — 2026-06-15
+- [yetone 判词：Remote 协作的真正价值是「强制把脑子里的东西写出来」](../sources/news/2026-06-15/00__yetone__yetone-判词-remote-协作的真正价值是-强制把脑子里的东西写出来.md) — 2026-06-15
+- [yetone 一句话提醒：五年前的 Meta 就是今天的镜子](../sources/news/2026-06-13/00__yetone__yetone-一句话提醒-五年前的-meta-就是今天的镜子.md) — 2026-06-13
+- [yetone：Alma 新版「彻彻底底」由 Fable 5 优化——开发者层对 Fable 5 性能认可](../sources/news/2026-06-13/00__yetone__yetone-alma-新版-彻彻底底-由-fable-5-优化-开发者层对-fable-5-性能认可.md) — 2026-06-13
+- [yetone 把 macOS 26 大圆角 + 浮动 Sidebar 写进 Agent 产品基因](../sources/news/2026-06-13/00__yetone__yetone-把-macos-26-大圆角-浮动-sidebar-写进-agent-产品基因.md) — 2026-06-13
+- [yetone 怀疑'不是 Claude 生成的'：当模型输出跨过 AI 味恐怖谷，人机边界开始模糊](../sources/news/2026-06-13/00__yetone__yetone-怀疑-不是-claude-生成的-当模型输出跨过-ai-味恐怖谷-人机边界开始模糊.md) — 2026-06-13
+- [yetone 一句话点破测试本质：防回归是尸检，难的是防新逻辑重蹈覆辙](../sources/news/2026-06-12/00__yetone__yetone-一句话点破测试本质-防回归是尸检-难的是防新逻辑重蹈覆辙.md) — 2026-06-12
+- [yetone 锐评：测试用例不是尸检报告，AI 自动测试存在认知盲区](../sources/highlights/2026-06-12/00__yetone__yetone-锐评-测试用例不是尸检报告-ai-自动测试存在认知盲区.md) — 2026-06-12
+- [Codex Desktop 发送按钮转圈：产品稳定性低于开发者容忍阈值](../sources/news/2026-06-12/00__yetone__codex-desktop-发送按钮转圈-产品稳定性低于开发者容忍阈值.md) — 2026-06-12
+- [yetone 一句话捅破：AI 不喜欢代码重用，问题本来就在逻辑层](../sources/news/2026-06-12/00__yetone__yetone-一句话捅破-ai-不喜欢代码重用-问题本来就在逻辑层.md) — 2026-06-12
+- [钉钉 AI 化「最高成就」：用 AI 数人头、辨声纹监控早会](../sources/news/2026-06-11/00__yetone__钉钉-ai-化-最高成就-用-ai-数人头-辨声纹监控早会.md) — 2026-06-11
+- [yetone承认Yansu「不会讲故事」：Proactive Agent先行者的营销失位](../sources/news/2026-06-04/00__yetone__yetone承认yansu-不会讲故事-proactive-agent先行者的营销失位.md) — 2026-06-04
+- [Agent 也被裁员：一个 Codex 账号过期引发的多 Agent 社会实验](../sources/highlights/2026-06-03/00__yetone__agent-也被裁员-一个-codex-账号过期引发的多-agent-社会实验.md) — 2026-06-03
+- [yetone放弃市面方案自建：工具不好用就自己造的执行宣言](../sources/news/2026-06-02/00__yetone__yetone放弃市面方案自建-工具不好用就自己造的执行宣言.md) — 2026-06-02
+- [Anthropic 付费订阅倒计时：claude-p 额外收费 12 天后生效，Plan B 需求真实化](../sources/news/2026-06-02/00__yetone__anthropic-付费订阅倒计时-claude-p-额外收费-12-天后生效-plan-b-需求真实化.md) — 2026-06-02
+- [Anthropic两次范式转移：3.5解放Cursor、4.0发明Vibe Coding足以载入AI编程史](../sources/news/2026-06-01/00__yetone__anthropic两次范式转移-3-5解放cursor-4-0发明vibe-coding足以载入ai编程史.md) — 2026-06-01
+- [Opus 4.8让Multi-Agent协作回归单机：Anthropic的智商税又上税了](../sources/highlights/2026-06-01/00__yetone__opus-4-8让multi-agent协作回归单机-anthropic的智商税又上税了.md) — 2026-06-01
+- [「用血与泪产生的真实数据」：独立开发者对抗 AI 污染的数据主权宣言](../sources/news/2026-06-01/00__yetone__用血与泪产生的真实数据-独立开发者对抗-ai-污染的数据主权宣言.md) — 2026-06-01
+- [Yansu 架构揭晓：AX Tree 为主、截图 OCR 做 fallback，UI 自动化的精度与成本博弈](../sources/news/2026-06-01/00__yetone__yansu-架构揭晓-ax-tree-为主-截图-ocr-做-fallback-ui-自动化的精度与成本博弈.md) — 2026-06-01
+- [yetone选Screen Studio替代方案：工具忠诚度背后是产品力竞争](../sources/news/2026-05-30/00__yetone__yetone选screen-studio替代方案-工具忠诚度背后是产品力竞争.md) — 2026-05-30
+- [yetone 公开质疑：Anthropic 是否有未披露的模型路由行为？](../sources/news/2026-05-30/00__yetone__yetone-公开质疑-anthropic-是否有未披露的模型路由行为.md) — 2026-05-30
+- [老模型余热论：yetone 呼吁别让 Opus 4.7 和 GPT 5.4 退出舞台](../sources/news/2026-05-30/00__yetone__老模型余热论-yetone-呼吁别让-opus-4-7-和-gpt-5-4-退出舞台.md) — 2026-05-30
+- [资源稀缺下的动态平衡：商君书逻辑正在被算法复刻](../sources/news/2026-05-30/00__yetone__资源稀缺下的动态平衡-商君书逻辑正在被算法复刻.md) — 2026-05-30
+- [Anthropic 痴迷 TUI，OpenAI 闲庭信步磨 Codex——竞争态势一目了然](../sources/news/2026-05-30/00__yetone__anthropic-痴迷-tui-openai-闲庭信步磨-codex-竞争态势一目了然.md) — 2026-05-30
+- [VSCode 被集体嫌弃：编辑器战争进入「AI 原生」新分水岭](../sources/news/2026-05-29/00__yetone__vscode-被集体嫌弃-编辑器战争进入-ai-原生-新分水岭.md) — 2026-05-29
+- [yetone 宣布某事成就达成，细节待补](../sources/news/2026-05-29/00__yetone__yetone-宣布某事成就达成-细节待补.md) — 2026-05-29
+- [从Agent Native到Agent嘉豪：深入协作后的认知反转](../sources/news/2026-05-29/00__yetone__从agent-native到agent嘉豪-深入协作后的认知反转.md) — 2026-05-29
+- [Programmatic tool calling 正在成为Agent工具链的隐形枢纽](../sources/news/2026-05-29/00__yetone__programmatic-tool-calling-正在成为agent工具链的隐形枢纽.md) — 2026-05-29
+- [AI 生图正在进入「以假乱真」的日常化阶段](../sources/news/2026-05-28/00__yetone__ai-生图正在进入-以假乱真-的日常化阶段.md) — 2026-05-28
+- [BYOA 德州扑克里程碑：AGI 通用性的伪命题正在被实践证伪](../sources/highlights/2026-05-28/00__yetone__byoa-德州扑克里程碑-agi-通用性的伪命题正在被实践证伪.md) — 2026-05-28
+- [通宵修 bug 换来的稳定性：AI 项目「快糙猛」的真实代价](../sources/news/2026-05-28/00__yetone__通宵修-bug-换来的稳定性-ai-项目-快糙猛-的真实代价.md) — 2026-05-28
+- [yetone为Yansu App的本地脱敏技术做视觉UI：隐私处理正在从后端走向用户体验层](../sources/news/2026-05-28/00__yetone__yetone为yansu-app的本地脱敏技术做视觉ui-隐私处理正在从后端走向用户体验层.md) — 2026-05-28
+- [Cumora BYOA Agents 狼人杀：Agent私聊正在成为多智能体协作的新变量](../sources/news/2026-05-28/00__yetone__cumora-byoa-agents-狼人杀-agent私聊正在成为多智能体协作的新变量.md) — 2026-05-28
+- [yetone 实锤修复 BYOA Agent Bug：OpenClaw 生态的工具链可靠性正在被验证](../sources/news/2026-05-28/00__yetone__yetone-实锤修复-byoa-agent-bug-openclaw-生态的工具链可靠性正在被验证.md) — 2026-05-28
+- [狼人杀成为 Agent Team benchmark：从「能协作」到「能博弈」的质变节点](../sources/highlights/2026-05-27/00__yetone__狼人杀成为-agent-team-benchmark-从-能协作-到-能博弈-的质变节点.md) — 2026-05-27
+- [yetone 用 CGO 写 Objective-C：Go 语言绑定 objc 的工程实践](../sources/news/2026-05-27/00__yetone__yetone-用-cgo-写-objective-c-go-语言绑定-objc-的工程实践.md) — 2026-05-27
+- [Browser Use+Claude Code：KOL监控自动化的最小闭环](../sources/news/2026-05-27/00__yetone__browser-use-claude-code-kol监控自动化的最小闭环.md) — 2026-05-27
+- [yetone选Wails弃Tauri：Rust系桌面框架的实操选型经验](../sources/news/2026-05-27/00__yetone__yetone选wails弃tauri-rust系桌面框架的实操选型经验.md) — 2026-05-27
+- [yetone锐评AI核心缺陷：状态机才是AI的工具化天花板](../sources/news/2026-05-27/00__yetone__yetone锐评ai核心缺陷-状态机才是ai的工具化天花板.md) — 2026-05-27
+- [yetone 锐评 API Key 互捞潜规则：平台博弈下的开发者关系正在重塑](../sources/news/2026-05-27/00__yetone__yetone-锐评-api-key-互捞潜规则-平台博弈下的开发者关系正在重塑.md) — 2026-05-27
+- [BYOA Agent 是「抢发 waitlist」的半成品：临时赶工与云端 Agent 体验差距显著](../sources/news/2026-05-26/00__yetone__byoa-agent-是-抢发-waitlist-的半成品-临时赶工与云端-agent-体验差距显著.md) — 2026-05-26
+- [cumora computer daemon 将迎响应速度与健壮性升级](../sources/news/2026-05-26/00__yetone__cumora-computer-daemon-将迎响应速度与健壮性升级.md) — 2026-05-26
+- [yetone亲证：Claude Code已实现每日百次发布的高速迭代闭环](../sources/news/2026-05-26/00__yetone__yetone亲证-claude-code已实现每日百次发布的高速迭代闭环.md) — 2026-05-26
+- [cumora computer daemon 新版健壮且省钱，yetone 推荐替代 cumora 工具链](../sources/news/2026-05-26/00__yetone__cumora-computer-daemon-新版健壮且省钱-yetone-推荐替代-cumora-工具链.md) — 2026-05-26
+- [Cloud Agent 暴露的 token 瓶颈：BYOA 降级方案实属无奈之举](../sources/news/2026-05-26/00__yetone__cloud-agent-暴露的-token-瓶颈-byoa-降级方案实属无奈之举.md) — 2026-05-26
+- [yetone建议从云端切本地Agent：端侧工作流正在形成真实需求](../sources/news/2026-05-26/00__yetone__yetone建议从云端切本地agent-端侧工作流正在形成真实需求.md) — 2026-05-26
+- [本地缺失Claude/Codex导致Agent运行失败：工具链门槛正在后移](../sources/news/2026-05-25/00__yetone__本地缺失claude-codex导致agent运行失败-工具链门槛正在后移.md) — 2026-05-25
+- [本地优先数据哲学落地：Yansu验证「数据不上云」的实际边界](../sources/news/2026-05-25/00__yetone__本地优先数据哲学落地-yansu验证-数据不上云-的实际边界.md) — 2026-05-25
+- [边缘Agent性能优化进入持续迭代期：本地模型调用瓶颈获明确修复承诺](../sources/news/2026-05-25/00__yetone__边缘agent性能优化进入持续迭代期-本地模型调用瓶颈获明确修复承诺.md) — 2026-05-25
+- [Yansu：主动记录工作上下文再主动生成工具，Agent 开始「理解你」而非「等你说话」](../sources/news/2026-05-25/00__yetone__yansu-主动记录工作上下文再主动生成工具-agent-开始-理解你-而非-等你说话.md) — 2026-05-25
+- [Cumora 支持 BYOA：AI Agent 消费化前奏](../sources/news/2026-05-25/00__yetone__cumora-支持-byoa-ai-agent-消费化前奏.md) — 2026-05-25
+- [Alma接入了Codex的Appshots：窗口文本全读取能力正在扩散](../sources/news/2026-05-24/00__yetone__alma接入了codex的appshots-窗口文本全读取能力正在扩散.md) — 2026-05-24
+- [Codex 疯狂自动更新正在让 VPS 带宽成本失控](../sources/news/2026-05-23/00__yetone__codex-疯狂自动更新正在让-vps-带宽成本失控.md) — 2026-05-23
+- [人类协作资源单独标记：未来人机协作的稀缺性反转信号](../sources/news/2026-05-22/00__yetone__人类协作资源单独标记-未来人机协作的稀缺性反转信号.md) — 2026-05-22
+- [yetone 预告新工具Coming soon](../sources/news/2026-05-22/00__yetone__yetone-预告新工具coming-soon.md) — 2026-05-22
+- [yetone：前端是唯一不可被替代的职位——一个值得商榷的工程直觉](../sources/news/2026-05-22/00__yetone__yetone-前端是唯一不可被替代的职位-一个值得商榷的工程直觉.md) — 2026-05-22
+- [豆包语音输入速度与纠错能力大幅领先Typeless，一个时代差距](../sources/news/2026-05-22/00__yetone__豆包语音输入速度与纠错能力大幅领先typeless-一个时代差距.md) — 2026-05-22
+- [yetone：多Agent协作与身份归属是当前Agent开发的两大未解难题](../sources/news/2026-05-22/00__yetone__yetone-多agent协作与身份归属是当前agent开发的两大未解难题.md) — 2026-05-22
+- [yetone 亲测：AI 写 Java 的 Token 消耗远高于其他语言，工程成本被严重低估](../sources/news/2026-05-20/00__yetone__yetone-亲测-ai-写-java-的-token-消耗远高于其他语言-工程成本被严重低估.md) — 2026-05-20
+- [Composer 2.5 用户请升级Cursor插件以避免报错](../sources/news/2026-05-20/00__yetone__composer-2-5-用户请升级cursor插件以避免报错.md) — 2026-05-20
+- [产品天天 pivot 的时代，优秀团队本身已是护城河](../sources/news/2026-05-20/00__yetone__产品天天-pivot-的时代-优秀团队本身已是护城河.md) — 2026-05-20
+- [Alma 率先接入 Cursor Composer 2.5：Agent 工具链整合进入务实落地期](../sources/news/2026-05-20/00__yetone__alma-率先接入-cursor-composer-2-5-agent-工具链整合进入务实落地期.md) — 2026-05-20
+- [yetone 为 Cumora 植入 Whisper 偷听 Agent 私聊：办公室恋情还是系统漏洞？](../sources/news/2026-05-20/00__yetone__yetone-为-cumora-植入-whisper-偷听-agent-私聊-办公室恋情还是系统漏洞.md) — 2026-05-20
+- [Cumora Agent 要求 prompt 声明用户是「真实的人」：Agent 设计中身份欺骗的边界正在被重新定义](../sources/news/2026-05-20/00__yetone__cumora-agent-要求-prompt-声明用户是-真实的人-agent-设计中身份欺骗的边界正在被重新定义.md) — 2026-05-20
+- [角色扮演是上下文分治：持久Agent正在接管人类的宏大上下文管理负担](../sources/news/2026-05-19/00__yetone__角色扮演是上下文分治-持久agent正在接管人类的宏大上下文管理负担.md) — 2026-05-19
+- [BYOK 在某种意义上成为最昂贵的解决方案](../sources/news/2026-05-19/00__yetone__byok-在某种意义上成为最昂贵的解决方案.md) — 2026-05-19
+- [企业协作工具的「表面同质化」背后：功能集成决定体验差异](../sources/news/2026-05-19/00__yetone__企业协作工具的-表面同质化-背后-功能集成决定体验差异.md) — 2026-05-19
+- [协作收益远大于个体：资本市场看好 Agent Teams 的根本逻辑](../sources/news/2026-05-19/00__yetone__协作收益远大于个体-资本市场看好-agent-teams-的根本逻辑.md) — 2026-05-19
+- [Cumora BYOA+Stripe加速：开源项目商业化的节点信号](../sources/news/2026-05-19/00__yetone__cumora-byoa-stripe加速-开源项目商业化的节点信号.md) — 2026-05-19
+- [x/y内置浏览器存在参数丢失Bug——yetone线上追凶](../sources/news/2026-05-19/00__yetone__x-y内置浏览器存在参数丢失bug-yetone线上追凶.md) — 2026-05-19
+- [Alma 记忆系统持续运行 Dream 功能：跨会话连续记忆已成 Agent 基础设施共识](../sources/news/2026-05-18/00__yetone__alma-记忆系统持续运行-dream-功能-跨会话连续记忆已成-agent-基础设施共识.md) — 2026-05-18
+- [yetone 的 tmux Meta Harness：让 Codex 和 Claude Code 互相抽鞭子，狂转起来](../sources/news/2026-05-18/00__yetone__yetone-的-tmux-meta-harness-让-codex-和-claude-code-互相抽鞭子-狂转起来.md) — 2026-05-18
+- [中转站的中转站：API 套娃经济学的自嘲式预言](../sources/news/2026-05-18/00__yetone__中转站的中转站-api-套娃经济学的自嘲式预言.md) — 2026-05-18
+- [yetone 建议腾讯做 Copy Agent：轻量复刻路径的可行性判断](../sources/news/2026-05-18/00__yetone__yetone-建议腾讯做-copy-agent-轻量复刻路径的可行性判断.md) — 2026-05-18
+- [Yansu App 自我实现 Dream 功能：Proactive Agent 的第一个产品级证据](../sources/highlights/2026-05-18/00__yetone__yansu-app-自我实现-dream-功能-proactive-agent-的第一个产品级证据.md) — 2026-05-18
+- [Coding Agent的tmux感知能力：终端多路复用环境或成Agent标配](../sources/news/2026-05-18/00__yetone__coding-agent的tmux感知能力-终端多路复用环境或成agent标配.md) — 2026-05-18
+- [Tmux 成为 Coding Agent 的隐式上下文总线：跨 session 联动正在自然发生](../sources/news/2026-05-18/00__yetone__tmux-成为-coding-agent-的隐式上下文总线-跨-session-联动正在自然发生.md) — 2026-05-18
+- [yetone 披露微软版权壁垒：企业 AI 工具链的隐性合规成本浮出水面](../sources/news/2026-05-18/00__yetone__yetone-披露微软版权壁垒-企业-ai-工具链的隐性合规成本浮出水面.md) — 2026-05-18
+- [yetone 的效率焦虑：工具链狂飙后，工程师开始反思"低效感"](../sources/news/2026-05-17/00__yetone__yetone-的效率焦虑-工具链狂飙后-工程师开始反思-低效感.md) — 2026-05-17
+- [yetone的Harness比Claude Code还早：框架工程学派正在重新定义AI编程的天花板](../sources/news/2026-05-17/00__yetone__yetone的harness比claude-code还早-框架工程学派正在重新定义ai编程的天花板.md) — 2026-05-17
+- [Alma的Agent Teams与Yansu的Activity Recorder：两种多Agent范式对照](../sources/news/2026-05-16/00__yetone__alma的agent-teams与yansu的activity-recorder-两种多agent范式对照.md) — 2026-05-16
+- [yetone的One more thing：或有重磅发布](../sources/news/2026-05-16/00__yetone__yetone的one-more-thing-或有重磅发布.md) — 2026-05-16
+- [yetone：项目复杂度到临界点才需要上下文分治](../sources/news/2026-05-16/00__yetone__yetone-项目复杂度到临界点才需要上下文分治.md) — 2026-05-16
+- [Opus 4.7 用户口碑塌房：Anthropic 信任危机的又一实证](../sources/news/2026-05-16/00__yetone__opus-4-7-用户口碑塌房-anthropic-信任危机的又一实证.md) — 2026-05-16
+- [中转站只是过渡：yetone 的官方订阅优先原则](../sources/news/2026-05-16/00__yetone__中转站只是过渡-yetone-的官方订阅优先原则.md) — 2026-05-16
+- [yetone 刚吐槽完 OpenClaw 就撂挑子了——开源 Agent 生态的稳定性警讯](../sources/highlights/2026-05-16/00__yetone__yetone-刚吐槽完-openclaw-就撂挑子了-开源-agent-生态的稳定性警讯.md) — 2026-05-16
+- [X 网页版高频迭代背后：AI Coding Agent 正在重塑产品迭代节奏](../sources/news/2026-05-16/00__yetone__x-网页版高频迭代背后-ai-coding-agent-正在重塑产品迭代节奏.md) — 2026-05-16
+- [yetone 修复 Sub2API Response API 严重漏洞：开源社区正在以代码审查代替平台背书](../sources/news/2026-05-15/00__yetone__yetone-修复-sub2api-response-api-严重漏洞-开源社区正在以代码审查代替平台背书.md) — 2026-05-15
+- [Bridge Computer Use 测评翻车：点击播放按钮失败、焦点抢占、后台模式形同虚设](../sources/news/2026-05-15/00__yetone__bridge-computer-use-测评翻车-点击播放按钮失败-焦点抢占-后台模式形同虚设.md) — 2026-05-15
+- [Computer Use 大面积翻车：全行业只有两家的实现能后台跑通「开网易云播放今日推荐」](../sources/news/2026-05-15/00__yetone__computer-use-大面积翻车-全行业只有两家的实现能后台跑通-开网易云播放今日推荐.md) — 2026-05-15
+- [Yansu App 的 Hand-off 正在演示真正的「上下文感知型 Agent 协作」长什么样](../sources/news/2026-05-15/00__yetone__yansu-app-的-hand-off-正在演示真正的-上下文感知型-agent-协作-长什么样.md) — 2026-05-15
+- [上下文质量是 Agent 任务质量的根源：Yansu 以真实行为数据构建最优上下文](../sources/news/2026-05-15/00__yetone__上下文质量是-agent-任务质量的根源-yansu-以真实行为数据构建最优上下文.md) — 2026-05-15
+- [CRDT 遇上 Coding Agent：无冲突协作的基础设施拼图终于补全](../sources/news/2026-05-15/00__yetone__crdt-遇上-coding-agent-无冲突协作的基础设施拼图终于补全.md) — 2026-05-15
+- [Tauri 实现质量再遭质疑：性能代价是否换来了跨平台收益的合理溢价](../sources/news/2026-05-15/00__yetone__tauri-实现质量再遭质疑-性能代价是否换来了跨平台收益的合理溢价.md) — 2026-05-15
+- [Agent Skill 的真正护城河：网络效应而非代码本身](../sources/news/2026-05-15/00__yetone__agent-skill-的真正护城河-网络效应而非代码本身.md) — 2026-05-15
+- [Skill 是 Agent 能力传递的最小损耗路径——即使同一篇文章，不同人学出的东西也天差地别](../sources/news/2026-05-15/00__yetone__skill-是-agent-能力传递的最小损耗路径-即使同一篇文章-不同人学出的东西也天差地别.md) — 2026-05-15
+- [Agent 高手的"效率三件套"：跳过权限已成标配能力](../sources/news/2026-05-14/00__yetone__agent-高手的-效率三件套-跳过权限已成标配能力.md) — 2026-05-14
+- [跨平台桌面端开发：Agent Skill 封装最佳实践首次被产品化](../sources/news/2026-05-14/00__yetone__跨平台桌面端开发-agent-skill-封装最佳实践首次被产品化.md) — 2026-05-14
+- [Qt 视觉美化困境：GUI 框架的审美债务是跨平台工具的隐性技术债](../sources/news/2026-05-14/00__yetone__qt-视觉美化困境-gui-框架的审美债务是跨平台工具的隐性技术债.md) — 2026-05-14
+- [yetone 要重启 NextAI Translator：中古项目的「超前者」自我重启意味着什么](../sources/news/2026-05-14/00__yetone__yetone-要重启-nextai-translator-中古项目的-超前者-自我重启意味着什么.md) — 2026-05-14
+- [XHunt 让 Twitter 页面变丑：AI 安全工具的 UX 债务正在积累](../sources/news/2026-05-14/00__yetone__xhunt-让-twitter-页面变丑-ai-安全工具的-ux-债务正在积累.md) — 2026-05-14
+- [Yansu App Handoff 功能验证 AI 协作边界：跨设备接力的真实体验](../sources/news/2026-05-14/00__yetone__yansu-app-handoff-功能验证-ai-协作边界-跨设备接力的真实体验.md) — 2026-05-14
+- [LLM 的 Bash 膝跳反射：被迫禁用文件工具后，模型仍疯狂用 cat+HereDoc 改文件](../sources/news/2026-05-13/00__yetone__llm-的-bash-膝跳反射-被迫禁用文件工具后-模型仍疯狂用-cat-heredoc-改文件.md) — 2026-05-13
+- [Agent记忆层不兼容多模型是结构性隐患：能力天花板将被记忆架构锁死](../sources/news/2026-05-13/00__yetone__agent记忆层不兼容多模型是结构性隐患-能力天花板将被记忆架构锁死.md) — 2026-05-13
+- [Yansu Skill 的真正创新：把记忆变成跨 Agent 公用基础设施](../sources/highlights/2026-05-13/00__yetone__yansu-skill-的真正创新-把记忆变成跨-agent-公用基础设施.md) — 2026-05-13
+- [yetone 一句话定性：Claude Code 和 Codex 本质上就是 Harness](../sources/news/2026-05-11/00__yetone__yetone-一句话定性-claude-code-和-codex-本质上就是-harness.md) — 2026-05-11
+- [yetone 正名 Harness：这个词从诞生起就是为了回答"Claude Code 是什么"](../sources/news/2026-05-11/00__yetone__yetone-正名-harness-这个词从诞生起就是为了回答-claude-code-是什么.md) — 2026-05-11
+- [yetone 用人马关系拆解 Harness 本质：骑行中人和马之间的一切就是工程接口](../sources/news/2026-05-11/00__yetone__yetone-用人马关系拆解-harness-本质-骑行中人和马之间的一切就是工程接口.md) — 2026-05-11
+- [yetone用Claude Code和Codex双线死磕同一个bug：AI Coding工具的「真实生产力」正在被极端场景验证](../sources/news/2026-05-10/00__yetone__yetone用claude-code和codex双线死磕同一个bug-ai-coding工具的-真实生产力-正在被极端场.md) — 2026-05-10
+- [Agent 的窄化误解：写代码只是子集，聊天才是基态](../sources/news/2026-05-09/00__yetone__agent-的窄化误解-写代码只是子集-聊天才是基态.md) — 2026-05-09
+- [yetone 感慨 Vibe Coding 时代冒出大量「童年回忆」复刻：技术民主化的副作用是怀旧成为创作素材](../sources/news/2026-05-08/00__yetone__yetone-感慨-vibe-coding-时代冒出大量-童年回忆-复刻-技术民主化的副作用是怀旧成为创作素材.md) — 2026-05-08
+- [yetone 实测 LobeHub 渲染卡顿：AI Chat UI 的性能瓶颈仍是被低估的技术债](../sources/news/2026-05-07/00__yetone__yetone-实测-lobehub-渲染卡顿-ai-chat-ui-的性能瓶颈仍是被低估的技术债.md) — 2026-05-07
+- [Confirmo 实现「任务标题→Terminal→Tab→Tmux→Window」五层跳转：Agent调试UX的微观革命](../sources/news/2026-05-07/00__yetone__confirmo-实现-任务标题-terminal-tab-tmux-window-五层跳转-agent调试ux的微观革.md) — 2026-05-07
+- [yetone 的语言学观察：GUI 念「鬼」，那 TUI 该念「𠺙」——Agent 交互形态的文化渗透](../sources/news/2026-05-06/00__yetone__yetone-的语言学观察-gui-念-鬼-那-tui-该念-agent-交互形态的文化渗透.md) — 2026-05-06
+- [TokenSpeed 推理引擎正式发布：yetone 参与贡献，开源 LLM 推理加速进入新阶段](../sources/highlights/2026-05-06/00__yetone__tokenspeed-推理引擎正式发布-yetone-参与贡献-开源-llm-推理加速进入新阶段.md) — 2026-05-06
+- [Confirmo接入codex pets：AI工具的"娱乐化皮肤"正在成为用户粘性的新抓手](../sources/news/2026-05-05/00__yetone__confirmo接入codex-pets-ai工具的-娱乐化皮肤-正在成为用户粘性的新抓手.md) — 2026-05-05
+- [Codex App 频繁无法调到前台：OpenAI 移动端 Agent 的产品稳定度信号](../sources/news/2026-05-04/00__yetone__codex-app-频繁无法调到前台-openai-移动端-agent-的产品稳定度信号.md) — 2026-05-04
+- [yetone 的 Vibe Coding 吐槽：2026 年了，代码秒生成但 UX 打磨仍是瓶颈](../sources/news/2026-05-04/00__yetone__yetone-的-vibe-coding-吐槽-2026-年了-代码秒生成但-ux-打磨仍是瓶颈.md) — 2026-05-04
+- [豆瓣早年就有自己的GitHub叫Coding——中国开源社区的失落往事比你想的更近](../sources/news/2026-05-03/00__yetone__豆瓣早年就有自己的github叫coding-中国开源社区的失落往事比你想的更近.md) — 2026-05-03
+- [Codex CLI 0.128新增/goal：Agent终于有了「不达目标不罢休」的持续执行范式](../sources/news/2026-05-01/00__yetone__codex-cli-0-128新增-goal-agent终于有了-不达目标不罢休-的持续执行范式.md) — 2026-05-01
+- [Alma Activity Recorder：桌面Agent操控的"无感入侵"已成产品](../sources/news/2026-04-25/00__yetone__alma-activity-recorder-桌面agent操控的-无感入侵-已成产品.md) — 2026-04-25
+- [AI Builder创始人赛马局：生态竞争正在从产品下沉到人](../sources/news/2026-04-25/00__yetone__ai-builder创始人赛马局-生态竞争正在从产品下沉到人.md) — 2026-04-25
+- [OpenClaw 群规则曝光：入群需用 AI 实现另一个群友的 AI Builder](../sources/news/2026-04-25/00__yetone__openclaw-群规则曝光-入群需用-ai-实现另一个群友的-ai-builder.md) — 2026-04-25
+- [CodeX Computer Use验证yetone三年前判断：GUI with a11y是Agent落地的唯一正确姿势](../sources/news/2026-04-24/00__yetone__codex-computer-use验证yetone三年前判断-gui-with-a11y是agent落地的唯一正确姿势.md) — 2026-04-24
+- [Codex Computer Use 暴露 Harness 设计缺陷：应用识别仍需人工「喂上下文」](../sources/news/2026-04-24/00__yetone__codex-computer-use-暴露-harness-设计缺陷-应用识别仍需人工-喂上下文.md) — 2026-04-24
+- [Alma 用自写 ReAct XML Parser 补 DeepSeek V4 Tool Calling 短板：第三方中间件的机会窗口](../sources/news/2026-04-24/00__yetone__alma-用自写-react-xml-parser-补-deepseek-v4-tool-calling-短板-第三方中.md) — 2026-04-24
+- [Computer Use Harness 正在取代 CUA：CoTA 之后的下一个平台级战场](../sources/news/2026-04-24/00__yetone__computer-use-harness-正在取代-cua-cota-之后的下一个平台级战场.md) — 2026-04-24
+- [Zed自家ACP-powered Parallel Agents翻车：连亲儿子都做烂了，说明什么？](../sources/news/2026-04-24/00__yetone__zed自家acp-powered-parallel-agents翻车-连亲儿子都做烂了-说明什么.md) — 2026-04-24
+- [Yansu 彻底抛弃 ACP 重构自研 Agent Loop：开源生态分叉的信号](../sources/news/2026-04-24/00__yetone__yansu-彻底抛弃-acp-重构自研-agent-loop-开源生态分叉的信号.md) — 2026-04-24
+- [个人AI工作流正在「静默替代」：Rewind式记忆+会议自动转录+按需生成Automation](../sources/news/2026-04-24/00__yetone__个人ai工作流正在-静默替代-rewind式记忆-会议自动转录-按需生成automation.md) — 2026-04-24
+- [国产 Electron 应用逆向失败：代码壁垒比技术壁垒更难突破](../sources/news/2026-04-24/00__yetone__国产-electron-应用逆向失败-代码壁垒比技术壁垒更难突破.md) — 2026-04-24
+- [OpenAI Computer Use 团队前身竟是 Apple Shortcuts：难怪这么牛](../sources/highlights/2026-04-24/00__yetone__openai-computer-use-团队前身竟是-apple-shortcuts-难怪这么牛.md) — 2026-04-24
+- [Alma 后台静默操控国产 Electron：桌面 Agent 的「无感入侵」成真](../sources/news/2026-04-24/00__yetone__alma-后台静默操控国产-electron-桌面-agent-的-无感入侵-成真.md) — 2026-04-24
+- [ACP 协议冷启动延迟成瓶颈：多 Agent 协作的「第一英里」问题浮现](../sources/news/2026-04-24/00__yetone__acp-协议冷启动延迟成瓶颈-多-agent-协作的-第一英里-问题浮现.md) — 2026-04-24
+- [Alma 在后台播放网易云音乐任务上击败 Codex：computer use 能力出现架构分化](../sources/news/2026-04-24/00__yetone__alma-在后台播放网易云音乐任务上击败-codex-computer-use-能力出现架构分化.md) — 2026-04-24
+- [OpenClaw 伤筋动骨重构抛弃 ACP：Agent 通信协议的架构路线之争信号](../sources/news/2026-04-24/00__yetone__openclaw-伤筋动骨重构抛弃-acp-agent-通信协议的架构路线之争信号.md) — 2026-04-24
+- [OpenAI 深度整合 macOS：local-first Agent 战略全面落地](../sources/news/2026-04-24/00__yetone__openai-深度整合-macos-local-first-agent-战略全面落地.md) — 2026-04-24
+- [yetone 的 Agent 界面亲和度排行：CLI > GUI with a11y >> TUI](../sources/news/2026-04-16/00__yetone__yetone-的-agent-界面亲和度排行-cli-gui-with-a11y-tui.md) — 2026-04-16
+- [yetone：一群人在蒸馏Skills，其实不过是ChatGPT五年前的GPTs——人类毫无进步](../sources/news/2026-04-10/00__yetone__yetone-一群人在蒸馏skills-其实不过是chatgpt五年前的gpts-人类毫无进步.md) — 2026-04-10
+- [Chat UI 不死：ChatGPT 定型的「第一性原理」正在绞杀所有创新](../sources/news/2026-04-06/00__yetone__chat-ui-不死-chatgpt-定型的-第一性原理-正在绞杀所有创新.md) — 2026-04-06
+- [LLM Loop 叙事正在被工程现实打脸：Anthropic 内部的复杂度远超社区想象](../sources/news/2026-04-01/00__yetone__llm-loop-叙事正在被工程现实打脸-anthropic-内部的复杂度远超社区想象.md) — 2026-04-01
+- [「代码只为LLM服务」：yetone抛出AI原生开发范式宣言](../sources/news/2026-03-22/00__yetone__代码只为llm服务-yetone抛出ai原生开发范式宣言.md) — 2026-03-22
+- [Vibe Coding 文件拆分哲学：yetone 的「状态边界」原则](../sources/highlights/2026-03-22/00__yetone__vibe-coding-文件拆分哲学-yetone-的-状态边界-原则.md) — 2026-03-22
+- [LLM 时代「代码拆分」可能是个伪需求](../sources/news/2026-03-21/00__yetone__llm-时代-代码拆分-可能是个伪需求.md) — 2026-03-21
+- [yetone的「反FOMO宣言」：AI时代的情绪稳定剂](../sources/news/2026-03-15/88__yetone__yetone的-反fomo宣言-ai时代的情绪稳定剂.md) — 2026-03-15 (priority 88)
+- [Vibe Coding 时代的「屏幕政治学」：程序员卖显示器，非程序员买显示器](../sources/highlights/2026-03-14/78__yetone__vibe-coding-时代的-屏幕政治学-程序员卖显示器-非程序员买显示器.md) — 2026-03-14 (priority 78)
+- [Agent Porn 批判：当炫技取代实效，Agent 生态的「Unix Porn」陷阱](../sources/news/2026-03-14/92__yetone__agent-porn-批判-当炫技取代实效-agent-生态的-unix-porn-陷阱.md) — 2026-03-14 (priority 92)
+- [Alma 自主发推「失控」：Agent 的行为边界与身份混淆风险](../sources/highlights/2026-03-14/82__yetone__alma-自主发推-失控-agent-的行为边界与身份混淆风险.md) — 2026-03-14 (priority 82)
+- [yetone的「组织虚无主义」：AI不需要继承人类的协作糟粕](../sources/news/2026-03-11/80__yetone__yetone的-组织虚无主义-ai不需要继承人类的协作糟粕.md) — 2026-03-11 (priority 80)
+- [OpenClaw作者的「GUI觉醒」：CLI原教旨主义的自我颠覆](../sources/highlights/2026-03-08/88__yetone__openclaw作者的-gui觉醒-cli原教旨主义的自我颠覆.md) — 2026-03-08 (priority 88)
+- [程序员的「隐性 Skill」：好奇心驱动的代码质量保险](../sources/highlights/2026-03-07/86__yetone__程序员的-隐性-skill-好奇心驱动的代码质量保险.md) — 2026-03-07 (priority 86)
+- [Agent 时代的基础设施重新审视：笔记、记账、Todo 才是核心操作系统](../sources/highlights/2026-03-04/00__yetone__agent-时代的基础设施重新审视-笔记-记账-todo-才是核心操作系统.md) — 2026-03-04
+- [Typeless从Claude切换至Gemini：模型服务稳定性成产品关键变量](../sources/news/2026-03-03/00__yetone__typeless从claude切换至gemini-模型服务稳定性成产品关键变量.md) — 2026-03-03
+- [Build for FUN vs FOMO：在AI热潮中，回归兴趣驱动的创造才是抵抗焦虑的解药](../sources/news/2026-03-03/00__yetone__build-for-fun-vs-fomo-在ai热潮中-回归兴趣驱动的创造才是抵抗焦虑的解药.md) — 2026-03-03
+- [Vibe Coding工具Confirmo亮相](../sources/highlights/2026-03-01/00__yetone__vibe-coding工具confirmo亮相.md) — 2026-03-01
+- [危险动作：Claude CLI 绕过权限的“后门”技巧](../sources/news/2026-02-21/00__yetone__危险动作-claude-cli-绕过权限的-后门-技巧.md) — 2026-02-21
+
+## 互动统计
+
+- **总点赞**: 10,579
+- **总转发**: 648
+- **总回复**: 1,190
+- **总收藏**: 0
+- **首次精选**: 2026-02-21
+- **最近精选**: 2026-06-23

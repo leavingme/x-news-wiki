@@ -1,0 +1,80 @@
+---
+type: "X Tweet"
+title: "Codex 上线 Handoff：一句自然语言，把任务+完整 Git 状态跨设备整体搬走"
+description: "[Codex 从「单设备编码工具」升级为「跨设备编码工作流」]  - 迁移通过聊天框自然语言触发，不靠 UI 按钮——直接说「我要离开了，把线程迁到远程主机」即可 - 迁移对象是完整 Git 状态（未提交改动、当前分支、对话上下文），不是简单的对话同步 - 前置门槛：SSH 配好远程主机 + 同一 ChatGPT 账号 + 远程有相同仓库的 clone  锐评：OpenAI 阵营补齐了「终端 → "
+resource: "https://x.com/i/status/2068183780938985827"
+tags:
+  - "x-news"
+  - "highlights"
+  - "author:dotey"
+timestamp: "2026-06-20T04:18:13.452Z"
+x_tweet_id: "2068183780938985827"
+x_author: "宝玉"
+x_handle: "dotey"
+x_created_at: "2026-06-20T04:06:53.000Z"
+x_engagement:
+  likes: 6
+  retweets: 0
+  replies: 1
+  bookmarks: 0
+  views: 0
+x_selected: 2
+x_priority: 0
+x_related_topic: "codex-ecosystem-platform-war"
+x_source: "crawler"
+---
+
+# Codex 上线 Handoff：一句自然语言，把任务+完整 Git 状态跨设备整体搬走
+
+## 摘要
+
+[Codex 从「单设备编码工具」升级为「跨设备编码工作流」]
+
+- 迁移通过聊天框自然语言触发，不靠 UI 按钮——直接说「我要离开了，把线程迁到远程主机」即可
+- 迁移对象是完整 Git 状态（未提交改动、当前分支、对话上下文），不是简单的对话同步
+- 前置门槛：SSH 配好远程主机 + 同一 ChatGPT 账号 + 远程有相同仓库的 clone
+
+锐评：OpenAI 阵营补齐了「终端 → 云端 → 终端」的分布式开发者工作流闭环，这是和 Claude Code 拉开产品形态差异的关键一步。但配置门槛仍然不低——能不能普及，取决于 OpenAI 是否愿意把「远程主机」这一层进一步抽象掉（云端 sandbox 一键接管）。
+
+## 原文
+
+Codex 上线了一个跨设备任务迁移功能，叫 Handoff。你在笔记本上用 Codex 写代码写到一半，合上盖子之前，可以把正在进行的任务连同代码状态一起迁移到远程服务器上继续跑。回到家了，再把任务拉回来。
+
+这个功能有两个有意思的地方。
+
+第一，迁移操作不是在界面上点按钮，而是直接在聊天框里用自然语言下指令。比如你可以说：
+
+“我要离开办公室了，把我正在跑的线程迁移到远程主机上，确保它们在那边正常运行。”
+
+Codex 会自动帮你完成整个迁移流程。
+
+第二，迁移的不只是对话记录，而是完整的 Git 状态。你本地没提交的代码改动、当前所在的分支，都会跟着一起过去。到了远程机器上，代码接着你离开的那个位置继续。
+
+不过用起来有几个前提条件。
+
+首先你得在 Codex 的 Settings > Connections > SSH 里配置好远程主机连接，远程机器上也要装好 Codex 并开启“允许其他设备连接”，两边还得登录同一个 ChatGPT 账号。
+
+然后远程主机上要有同一个 Git 仓库的克隆，并在 Codex 里把它保存成项目。
+
+如果你本地打开的是仓库的某个子目录，远程那边也得保存同样的子目录路径，不然 Codex 找不到匹配的迁移目标。远程机器还得能访问同一个 Git 远程仓库，私有仓库的话需要提前配好 SSH key 或 GitHub 认证。
+
+我觉得这还是太麻烦了一点，不如办公室或者家里有台电脑常年开着方便。
+
+当然对于重度使用 AI 编程工具的开发者来说，这个功能解决了一个很实际的问题：AI 帮你改代码改到一半，你得走了，之前只能等它跑完或者放弃进度。现在可以把任务托管到云端服务器上，通勤路上它继续干活，你到家了再接手看结果。
+
+
+## 元信息
+
+- **作者**: 宝玉 ([@dotey](https://x.com/dotey))
+- **发布时间**: 2026-06-20T04:06:53.000Z
+- **抓取时间**: 2026-06-20T04:18:13.452Z
+- **精选类别**: ✨ 亮点
+- **优先级**: 0
+- **互动**: ❤️ 6 · 🔄 0 · 💬 1 · 🔖 0 · 👁 0
+- **关联主题**: [codex-ecosystem-platform-war](/concepts/codex-ecosystem-platform-war.md)
+
+## Citations
+
+[1] [Tweet on X](https://x.com/i/status/2068183780938985827) — @dotey (宝玉)
+[2] [Author page](/entities/authors/dotey.md)
+[3] [Related topic](/concepts/codex-ecosystem-platform-war.md)

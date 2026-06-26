@@ -1,0 +1,57 @@
+---
+type: "X Tweet"
+title: "玉伯的反直觉判断：「丰饶时代，匮乏无处不在」"
+description: "**当所有人都在拥抱AI带来的丰饶，匮乏的本质正在转移而非消失。**  - 玉伯（前蚂蚁CTO、现独立观察者）用六个字浓缩了AI时代的核心悖论：工具越丰富，注意力/判断力/深度思考越稀缺 - 这句话与他此前「知识管理已死」「产品定义能力才是护城河」的系列判断一脉相承——AI降低了执行门槛，但拉高了认知门槛 - 「匮乏无处不在」暗示：表面的工具平权掩盖了新的能力分层  玉伯的表达方式本身就在践行他的"
+resource: "https://x.com/i/status/2050194509489938630"
+tags:
+  - "x-news"
+  - "news"
+  - "author:lifesinger"
+timestamp: "2026-05-01T13:18:38.984Z"
+x_tweet_id: "2050194509489938630"
+x_author: "Frank Wang 玉伯"
+x_handle: "lifesinger"
+x_created_at: "2026-05-01T12:43:56.000Z"
+x_engagement:
+  likes: 2
+  retweets: 0
+  replies: 1
+  bookmarks: 0
+  views: 0
+x_selected: 1
+x_priority: 0
+x_related_topic:
+x_source: "crawler"
+---
+
+# 玉伯的反直觉判断：「丰饶时代，匮乏无处不在」
+
+## 摘要
+
+**当所有人都在拥抱AI带来的丰饶，匮乏的本质正在转移而非消失。**
+
+- 玉伯（前蚂蚁CTO、现独立观察者）用六个字浓缩了AI时代的核心悖论：工具越丰富，注意力/判断力/深度思考越稀缺
+- 这句话与他此前「知识管理已死」「产品定义能力才是护城河」的系列判断一脉相承——AI降低了执行门槛，但拉高了认知门槛
+- 「匮乏无处不在」暗示：表面的工具平权掩盖了新的能力分层
+
+玉伯的表达方式本身就在践行他的理论——六个字胜过六千字。这才是丰饶时代真正的稀缺品：有判断力的极简表达。
+
+## 原文
+
+丰饶时代
+匮乏无处不在
+
+
+## 元信息
+
+- **作者**: Frank Wang 玉伯 ([@lifesinger](https://x.com/lifesinger))
+- **发布时间**: 2026-05-01T12:43:56.000Z
+- **抓取时间**: 2026-05-01T13:18:38.984Z
+- **精选类别**: 📰 头条
+- **优先级**: 0
+- **互动**: ❤️ 2 · 🔄 0 · 💬 1 · 🔖 0 · 👁 0
+
+## Citations
+
+[1] [Tweet on X](https://x.com/i/status/2050194509489938630) — @lifesinger (Frank Wang 玉伯)
+[2] [Author page](/entities/authors/lifesinger.md)

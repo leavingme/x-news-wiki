@@ -1,0 +1,78 @@
+---
+type: "X Tweet"
+title: "Perle Labs 把专家标注上链：AI 数据化肥从此有根可循"
+description: "**[ Solana 上跑 AI 数据的「料源革命」，准确率抬升 30% 的硬逻辑 ]**  Perle Labs（原 Kiva AI）把人类专家的判断直接焊在 Solana 链上——每条标注带不可篡改的证明，50K+ 全球领域高手参与，95% 共识率，标注错误率砍 20%，企业年省 60 万美元。  这不是 Web3+AI 的老调，是真正解决「数据化肥」可信问题的路径：质量有锚点、贡献者有保障、"
+resource: "https://x.com/i/status/2036789967905845433"
+tags:
+  - "x-news"
+  - "highlights"
+  - "author:web3_xiaoyao"
+timestamp: "2026-04-02T00:43:17.574Z"
+x_tweet_id: "2036789967905845433"
+x_author: "鳌拜🦄"
+x_handle: "web3_xiaoyao"
+x_created_at: "2026-03-25T12:59:04.000Z"
+x_engagement:
+  likes: 16
+  retweets: 0
+  replies: 19
+  bookmarks: 0
+  views: 0
+x_selected: 2
+x_priority: 0
+x_related_topic: "ai-data-blockchain-verification"
+x_source: "crawler"
+---
+
+# Perle Labs 把专家标注上链：AI 数据化肥从此有根可循
+
+## 摘要
+
+**[ Solana 上跑 AI 数据的「料源革命」，准确率抬升 30% 的硬逻辑 ]**
+
+Perle Labs（原 Kiva AI）把人类专家的判断直接焊在 Solana 链上——每条标注带不可篡改的证明，50K+ 全球领域高手参与，95% 共识率，标注错误率砍 20%，企业年省 60 万美元。
+
+这不是 Web3+AI 的老调，是真正解决「数据化肥」可信问题的路径：质量有锚点、贡献者有保障、模型有提升。赛道真实，TGE 已完成，Binance Alpha 上线，PRL 代币开始兑现。
+
+gakki：数据质量决定模型上限，而数据质量的根在于标注者的激励机制是否可信。Perle 证明了链上博弈能解决这一问题——但 95% 共识率在高度专业化领域（比如医疗、法律）是否还能维持，才是真正的考验。
+
+## 原文
+
+在AI狂飙的当下，最扎心的不是模型不够聪明，而是数据像一团迷雾，摸不准、信不过。
+
+我最近刷到Perle Labs的动态，心里忽然一亮，这帮人没玩虚的，他们直接把人类专家的判断焊死在区块链上，让AI的“粮食”第一次有了可追溯的根。
+
+传统数据标注听起来高大上，实际操作起来却一地鸡毛。企业花大价钱请人标，错误率居高不下，模型训完还得反复返工。
+
+Perle Labs反其道而行，把专家反馈直接上链，每一条标注都带着不可篡改的证明。50K+来自全球的领域高手参与，95%的共识率不是吹出来的，他们靠智能合约锁定报酬，贡献者干活就有保障，不用担心平台卷款跑路。
+
+官方数据显示，这套玩法能让模型准确率直接抬升30%，标注错误砍掉20%，企业一年还能省下60万美元的冤枉钱。听起来冷冰冰的数字，其实是无数深夜加班的工程师终于能喘口气的真实写照。
+
+更让我感慨的是，它选了Solana做底座。速度快、手续费低，普通人也能轻松参与标注文本、图片、视频，甚至给机器人喂动作数据。数据不再是平台单方面收割的“原料”，而是变成有主人的“活资产”。PRL代币正式上线之后，早期贡献者终于能把自己的标注成果兑现成真实收益，这不只是空洞的Web3叙事，而是把“谁贡献、谁受益”落到了链上。
+
+当然，路还长。怎么持续吸引顶尖专家？激励机制会不会被聪明人钻空子？Perle Labs用on-chain记录和RLHF流程在一步步夯实答案。
+
+它不是要取代人类，而是把人类智慧变成AI可依赖的“主权层”。
+
+想想未来，大模型不再靠海量垃圾数据硬堆，而是靠可验证的人类洞见迭代，那种AI才真正值得我们托付。我不是在站台，只是觉得在AI和Web3撞个满怀的此刻，Perle Labs提供了一种罕见的清醒：技术再牛，也得有人性背书。
+
+去perle_xyz逛一圈，你会发现，数据主权这四个字，原来可以这么实在。
+#PerleAI #ToPerle
+— participating in @PerleLabs community campaign
+
+
+## 元信息
+
+- **作者**: 鳌拜🦄 ([@web3_xiaoyao](https://x.com/web3_xiaoyao))
+- **发布时间**: 2026-03-25T12:59:04.000Z
+- **抓取时间**: 2026-04-02T00:43:17.574Z
+- **精选类别**: ✨ 亮点
+- **优先级**: 0
+- **互动**: ❤️ 16 · 🔄 0 · 💬 19 · 🔖 0 · 👁 0
+- **关联主题**: [ai-data-blockchain-verification](/concepts/ai-data-blockchain-verification.md)
+
+## Citations
+
+[1] [Tweet on X](https://x.com/i/status/2036789967905845433) — @web3_xiaoyao (鳌拜🦄)
+[2] [Author page](/entities/authors/web3-xiaoyao.md)
+[3] [Related topic](/concepts/ai-data-blockchain-verification.md)

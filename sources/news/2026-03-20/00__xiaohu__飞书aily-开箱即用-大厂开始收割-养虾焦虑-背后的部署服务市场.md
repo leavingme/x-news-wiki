@@ -1,0 +1,68 @@
+---
+type: "X Tweet"
+title: "飞书aily「开箱即用」：大厂开始收割「养虾焦虑」背后的部署服务市场"
+description: "**[Agent部署服务从「自托管」向「官方贴膜」跃迁]** • 飞书推出预配置Agent服务，用户无需安装、配置、调优，直接对话即可使用 • 精准击中「全民养虾」痛点：安装只是第一步，80%用户卡在使用门槛 • 与百度「龙虾市集」形成对标，企业级Agent托管成为大厂新战场 • 预示Agent经济从「DIY工具」向「SaaS化服务」的形态收敛"
+resource: "https://x.com/i/status/2034635831865160148"
+tags:
+  - "x-news"
+  - "news"
+  - "author:xiaohu"
+timestamp: "2026-03-20T00:42:56.592Z"
+x_tweet_id: "2034635831865160148"
+x_author: "小互"
+x_handle: "xiaohu"
+x_created_at: "2026-03-19T14:19:18.000Z"
+x_engagement:
+  likes: 125
+  retweets: 16
+  replies: 12
+  bookmarks: 0
+  views: 0
+x_selected: 1
+x_priority: 0
+x_related_topic: "agent-deployment-service"
+x_source: "crawler"
+---
+
+# 飞书aily「开箱即用」：大厂开始收割「养虾焦虑」背后的部署服务市场
+
+## 摘要
+
+**[Agent部署服务从「自托管」向「官方贴膜」跃迁]**
+• 飞书推出预配置Agent服务，用户无需安装、配置、调优，直接对话即可使用
+• 精准击中「全民养虾」痛点：安装只是第一步，80%用户卡在使用门槛
+• 与百度「龙虾市集」形成对标，企业级Agent托管成为大厂新战场
+• 预示Agent经济从「DIY工具」向「SaaS化服务」的形态收敛
+
+## 原文
+
+国内全民养虾热了一个多月
+
+各大厂纷纷下场，想让安装更简单
+
+但安装是一回事，很多人装上后依旧一脸懵逼，根本用不起来，今天终于有人来改变这个局面了，让养虾进入下一阶段...
+
+飞书今天发布的 aily，走了一条完全不同的路：不用你养，帮你养好了，直接就能用。
+
+下面对话是我还没看发布会前的↓
+
+中午突然飞书弹出来的，一开始还吓我一套，我以为成精了...
+
+突然就出现在了我对话列表，而且还很了解我
+
+
+## 元信息
+
+- **作者**: 小互 ([@xiaohu](https://x.com/xiaohu))
+- **发布时间**: 2026-03-19T14:19:18.000Z
+- **抓取时间**: 2026-03-20T00:42:56.592Z
+- **精选类别**: 📰 头条
+- **优先级**: 0
+- **互动**: ❤️ 125 · 🔄 16 · 💬 12 · 🔖 0 · 👁 0
+- **关联主题**: [agent-deployment-service](/concepts/agent-deployment-service.md)
+
+## Citations
+
+[1] [Tweet on X](https://x.com/i/status/2034635831865160148) — @xiaohu (小互)
+[2] [Author page](/entities/authors/xiaohu.md)
+[3] [Related topic](/concepts/agent-deployment-service.md)

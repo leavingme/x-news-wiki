@@ -1,0 +1,74 @@
+---
+type: "X Tweet"
+title: "浏览器内AI Agent用登录态绕过风控：社交数据采集的'合规滑铁卢'已经发生"
+description: "**浏览器原生Agent+用户登录态=平台风控形同虚设，数据采集民主化进入新阶段**  - 余温实测一款浏览器内AI工具，模拟真人鼠标键盘操作打开X/小红书/Reddit - 用用户自身登录态访问，绕开API风控限制，可触达所有用户能访问的页面 - 价格仅为Manus 1/10，数据能力10倍：推特KOL深度研究、小红书痛点扫描等场景已验证 - 平台与Agent的攻防格局重构：传统API权限模型对"
+resource: "https://x.com/i/status/2064552523642421253"
+tags:
+  - "x-news"
+  - "highlights"
+  - "author:gkxspace"
+timestamp: "2026-06-10T04:19:15.047Z"
+x_tweet_id: "2064552523642421253"
+x_author: "余温"
+x_handle: "gkxspace"
+x_created_at: "2026-06-10T03:37:33.000Z"
+x_engagement:
+  likes: 5
+  retweets: 1
+  replies: 2
+  bookmarks: 0
+  views: 0
+x_selected: 2
+x_priority: 0
+x_related_topic: "agent-data-intelligence-infra"
+x_source: "crawler"
+---
+
+# 浏览器内AI Agent用登录态绕过风控：社交数据采集的'合规滑铁卢'已经发生
+
+## 摘要
+
+**浏览器原生Agent+用户登录态=平台风控形同虚设，数据采集民主化进入新阶段**
+
+- 余温实测一款浏览器内AI工具，模拟真人鼠标键盘操作打开X/小红书/Reddit
+- 用用户自身登录态访问，绕开API风控限制，可触达所有用户能访问的页面
+- 价格仅为Manus 1/10，数据能力10倍：推特KOL深度研究、小红书痛点扫描等场景已验证
+- 平台与Agent的攻防格局重构：传统API权限模型对'人肉操作型Agent'已经失效
+
+
+gakki锐评：这是平台经济学的'特洛伊木马'——AI Agent不需要API，只需要浏览器。平台能封的是endpoint，封不住的是人类用户行为本身的复刻。下一个被冲击的，是'账号矩阵'和'数据中台'的整套生意。
+
+## 原文
+
+好家伙，这可能是我今年用过的最离谱的 AI 工具，manus 1/10的价格，但是能爬的数据是manus的10倍
+
+它能在你的浏览器里像真人一样操作：打开网页、滚动页面、点击按钮、读取内容、提取数据。全程模拟真实鼠标和键盘操作，而且它用的是你自己的登录态。
+关键是整个流程非常丝滑，没有任何中断，也没有触发平台风控（完全模拟正常用户请求）
+
+你已经登录X、小红书、Reddit，它就直接用你的账号去浏览和提取，不需要额外配 API，这意味着两件事：
+第一，它能访问所有你能访问的页面；第二，因为是正常用户行为，不容易被平台风控。
+
+我测了好几个场景，说几个让我比较震撼的：
+1. 推特 KOL 深度研究：我发现逸晨最近数据很好，我就让它去研究最近 50 条帖子，它自己打开推特，一条一条翻，自动提取每条帖的内容、互动数据、话题标签。
+最后给我出了一份报告：这个人最近主要在聊什么、哪条帖互动最高、情绪分布怎么样、核心观点是什么。以前我想做这件事，得自己一条条翻半天。现在几出报告。
+
+2. 小红书/Reddit 用户痛点扫描：我让它去 Reddit 上扫 “Codex VS ClaudeCode” 相关的帖子，它自动读了几十篇，把用户的吐槽、夸赞按主题聚类整理出来。 做产品的人应该秒懂这个价值！！！
+
+现在 @AllyHubAI 现在几乎免费，快去体验一下吧！！！
+
+
+## 元信息
+
+- **作者**: 余温 ([@gkxspace](https://x.com/gkxspace))
+- **发布时间**: 2026-06-10T03:37:33.000Z
+- **抓取时间**: 2026-06-10T04:19:15.047Z
+- **精选类别**: ✨ 亮点
+- **优先级**: 0
+- **互动**: ❤️ 5 · 🔄 1 · 💬 2 · 🔖 0 · 👁 0
+- **关联主题**: [agent-data-intelligence-infra](/concepts/agent-data-intelligence-infra.md)
+
+## Citations
+
+[1] [Tweet on X](https://x.com/i/status/2064552523642421253) — @gkxspace (余温)
+[2] [Author page](/entities/authors/gkxspace.md)
+[3] [Related topic](/concepts/agent-data-intelligence-infra.md)

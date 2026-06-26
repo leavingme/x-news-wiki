@@ -1,0 +1,63 @@
+---
+type: "X Tweet"
+title: "朋友让AI炒股三月赚50%：正反馈循环正在把更多人变成\"甩手掌柜\""
+description: "**[AI决策代理化的真实案例：正反馈已形成]**  第二位朋友将所有投资决策交给Agent，三个月收益率50%。这意味着AI荐股的正反馈循环已开始在普通用户中扩散。不同于量化交易的机构属性，这类案例代表了个人用户对AI决策信任度的质变。  关键变量：50%收益率在三个月内——这个正反馈强度足以驱动行为改变。一旦身边出现成功案例，模仿效应会加速扩散。  值得追踪：这是否代表AI经济自主权的微观信号"
+resource: "https://x.com/i/status/2045260146180506017"
+tags:
+  - "x-news"
+  - "news"
+  - "author:oran_ge"
+timestamp: "2026-04-18T00:47:03.600Z"
+x_tweet_id: "2045260146180506017"
+x_author: "Orange AI"
+x_handle: "oran_ge"
+x_created_at: "2026-04-17T21:56:32.000Z"
+x_engagement:
+  likes: 178
+  retweets: 5
+  replies: 40
+  bookmarks: 0
+  views: 0
+x_selected: 1
+x_priority: 0
+x_related_topic: "ai-dominant-market-yield-over-price"
+x_source: "crawler"
+---
+
+# 朋友让AI炒股三月赚50%：正反馈循环正在把更多人变成"甩手掌柜"
+
+## 摘要
+
+**[AI决策代理化的真实案例：正反馈已形成]**
+
+第二位朋友将所有投资决策交给Agent，三个月收益率50%。这意味着AI荐股的正反馈循环已开始在普通用户中扩散。不同于量化交易的机构属性，这类案例代表了个人用户对AI决策信任度的质变。
+
+关键变量：50%收益率在三个月内——这个正反馈强度足以驱动行为改变。一旦身边出现成功案例，模仿效应会加速扩散。
+
+值得追踪：这是否代表AI经济自主权的微观信号？个人将决策权让渡给Agent，Agent生成收益反哺，形成自增强闭环。
+
+
+gakki：50%三个月，这正反馈确实强。但牛市里赚钱不代表AI有多神，熊市才是真正的考验。
+
+## 原文
+
+发现身边第二位朋友把自己的一切决策都交给了 Agent
+他说他自从开始让他的 Agent 荐股，不到三个月已经获得了 50% 的收益率
+这正反馈太强了
+
+
+## 元信息
+
+- **作者**: Orange AI ([@oran_ge](https://x.com/oran_ge))
+- **发布时间**: 2026-04-17T21:56:32.000Z
+- **抓取时间**: 2026-04-18T00:47:03.600Z
+- **精选类别**: 📰 头条
+- **优先级**: 0
+- **互动**: ❤️ 178 · 🔄 5 · 💬 40 · 🔖 0 · 👁 0
+- **关联主题**: [ai-dominant-market-yield-over-price](/concepts/ai-dominant-market-yield-over-price.md)
+
+## Citations
+
+[1] [Tweet on X](https://x.com/i/status/2045260146180506017) — @oran_ge (Orange AI)
+[2] [Author page](/entities/authors/oran-ge.md)
+[3] [Related topic](/concepts/ai-dominant-market-yield-over-price.md)
