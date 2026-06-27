@@ -54,10 +54,6 @@ Tomorrow might be a good time! https://t.co/fgcVY3uk5F
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 16 · 🔄 1 · 💬 2 · 🔖 0 · 👁 0
-- **关联主题**: [model-capabilities](/concepts/model-capabilities.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2049487620720533509) — @jiqizhixin (机器之心 JIQIZHIXIN)
-[2] [Author page](/entities/authors/jiqizhixin.md)
-[3] [Related topic](/concepts/model-capabilities.md)

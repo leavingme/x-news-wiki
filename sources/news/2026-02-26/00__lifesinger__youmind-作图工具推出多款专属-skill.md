@@ -54,8 +54,6 @@ YouMind 作图就是好用 https://t.co/RhqhxM5PKR
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 30 · 🔄 3 · 💬 5 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2026669543494660318) — @lifesinger (Frank Wang 玉伯)
-[2] [Author page](/entities/authors/lifesinger.md)

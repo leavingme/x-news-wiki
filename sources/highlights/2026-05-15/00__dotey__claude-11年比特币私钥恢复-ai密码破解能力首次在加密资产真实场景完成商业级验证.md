@@ -61,8 +61,6 @@ Tom's Hardware 的标题是“尝试了 3.5 万亿次密码”，画面感很强
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 15 · 🔄 0 · 💬 7 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2055142106570600738) — @dotey (宝玉)
-[2] [Author page](/entities/authors/dotey.md)

@@ -51,8 +51,6 @@ Open AI 也开始正式启动上市的法律和监管程序，但是他们说 IP
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 3 · 🔄 0 · 💬 3 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2064194929421865300) — @op7418 (歸藏(guizang.ai))
-[2] [Author page](/entities/authors/op7418.md)

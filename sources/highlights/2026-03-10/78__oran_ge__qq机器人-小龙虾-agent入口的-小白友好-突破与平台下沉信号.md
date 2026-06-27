@@ -50,10 +50,6 @@ QQ 机器人接入龙虾实在是太丝滑了
 - **精选类别**: ✨ 亮点
 - **优先级**: 78
 - **互动**: ❤️ 493 · 🔄 121 · 💬 34 · 🔖 0 · 👁 0
-- **关联主题**: [agent-multi-platform](/concepts/agent-multi-platform.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2030873832110903786) — @oran_ge (Orange AI)
-[2] [Author page](/entities/authors/oran-ge.md)
-[3] [Related topic](/concepts/agent-multi-platform.md)

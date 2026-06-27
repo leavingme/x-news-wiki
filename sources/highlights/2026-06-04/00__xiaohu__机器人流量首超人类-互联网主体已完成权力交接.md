@@ -67,10 +67,6 @@ JSON 就是 API 调用的标准格式，机器和机器之间对话用的，HTML
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 8 · 🔄 0 · 💬 1 · 🔖 0 · 👁 0
-- **关联主题**: [ai-browser-platform-war](/concepts/ai-browser-platform-war.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2062367357868355622) — @xiaohu (小互)
-[2] [Author page](/entities/authors/xiaohu.md)
-[3] [Related topic](/concepts/ai-browser-platform-war.md)

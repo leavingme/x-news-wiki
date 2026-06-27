@@ -72,10 +72,6 @@ GitHub 直达：https://t.co/gF6zx9cYbU
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 13 · 🔄 0 · 💬 1 · 🔖 0 · 👁 0
-- **关联主题**: [open-agent-ecosystem](/concepts/open-agent-ecosystem.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2034027088144155081) — @berryxia (Berryxia.AI)
-[2] [Author page](/entities/authors/berryxia.md)
-[3] [Related topic](/concepts/open-agent-ecosystem.md)

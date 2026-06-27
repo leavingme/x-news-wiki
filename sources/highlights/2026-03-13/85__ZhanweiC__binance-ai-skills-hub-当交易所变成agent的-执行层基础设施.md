@@ -78,10 +78,6 @@ Binance 最近搞了个 AI Skills Hub 的开发者比赛，核心就是让大家
 - **精选类别**: ✨ 亮点
 - **优先级**: 85
 - **互动**: ❤️ 62 · 🔄 0 · 💬 63 · 🔖 0 · 👁 0
-- **关联主题**: [ai-crypto-agent-infra](/concepts/ai-crypto-agent-infra.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2032288034918711391) — @ZhanweiC (ZC)
-[2] [Author page](/entities/authors/zhanweic.md)
-[3] [Related topic](/concepts/ai-crypto-agent-infra.md)

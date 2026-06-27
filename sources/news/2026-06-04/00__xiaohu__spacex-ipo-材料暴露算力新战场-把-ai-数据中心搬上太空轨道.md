@@ -69,8 +69,6 @@ Starlink 现在 9600+ 颗在轨
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 5 · 🔄 0 · 💬 0 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2062560594784616566) — @xiaohu (小互)
-[2] [Author page](/entities/authors/xiaohu.md)

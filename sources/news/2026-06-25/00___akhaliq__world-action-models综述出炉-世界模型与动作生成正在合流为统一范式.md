@@ -50,10 +50,6 @@ World Action Models: A Survey https://t.co/CgpeYgTH8c
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 152 · 🔄 28 · 💬 3 · 🔖 0 · 👁 0
-- **关联主题**: [world-model-paradigm](/concepts/world-model-paradigm.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2069449298912170026) — @_akhaliq (AK)
-[2] [Author page](/entities/authors/akhaliq.md)
-[3] [Related topic](/concepts/world-model-paradigm.md)

@@ -89,10 +89,6 @@ Garry 直接把整套栈开源：GBrain + GStack + OpenClaw / Hermes Agent，Git
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 109 · 🔄 22 · 💬 12 · 🔖 0 · 👁 0
-- **关联主题**: [personal-knowledge-management-ai](/concepts/personal-knowledge-management-ai.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2053136924244836455) — @berryxia (Berryxia.AI)
-[2] [Author page](/entities/authors/berryxia.md)
-[3] [Related topic](/concepts/personal-knowledge-management-ai.md)

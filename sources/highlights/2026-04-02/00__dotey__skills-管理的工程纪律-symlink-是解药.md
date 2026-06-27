@@ -73,10 +73,6 @@ x_source: "crawler"
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 229 · 🔄 42 · 💬 15 · 🔖 0 · 👁 0
-- **关联主题**: [agent-memory-optimization](/concepts/agent-memory-optimization.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2039762741284553033) — @dotey (宝玉)
-[2] [Author page](/entities/authors/dotey.md)
-[3] [Related topic](/concepts/agent-memory-optimization.md)

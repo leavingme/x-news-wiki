@@ -65,10 +65,6 @@ https://t.co/FO9nlu6OWS 真正可怕的地方在于，它在倒逼链上的 Agen
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 29 · 🔄 0 · 💬 32 · 🔖 0 · 👁 0
-- **关联主题**: [ai-crypto-agent-infra](/concepts/ai-crypto-agent-infra.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2034879560299552805) — @ohouhou717 (Weilan| 🤖ボッ Bird🕊️)
-[2] [Author page](/entities/authors/ohouhou717.md)
-[3] [Related topic](/concepts/ai-crypto-agent-infra.md)

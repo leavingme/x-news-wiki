@@ -71,8 +71,6 @@ AI 理解上下文 → AI 主动组织操作。
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 31 · 🔄 5 · 💬 8 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2054347652918362597) — @xiaohu (小互)
-[2] [Author page](/entities/authors/xiaohu.md)

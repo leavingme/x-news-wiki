@@ -55,8 +55,6 @@ NOT ALONE｜AI導演 — 洗車場
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 151 · 🔄 4 · 💬 27 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2066843392596996315) — @yucph23 (尤達 YODA📸)
-[2] [Author page](/entities/authors/yucph23.md)

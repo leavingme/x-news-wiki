@@ -71,8 +71,6 @@ x_source: "crawler"
 - **精选类别**: 📰 头条
 - **优先级**: 83
 - **互动**: ❤️ 41 · 🔄 9 · 💬 9 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2031864208225108465) — @dotey (宝玉)
-[2] [Author page](/entities/authors/dotey.md)

@@ -50,8 +50,6 @@ China has blocked Meta's $2 billion purchase of AI firm Manus.
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 3531 · 🔄 480 · 💬 153 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/spectatorindex/status/2048711936595128448) — @spectatorindex (The Spectator Index)
-[2] [Author page](/entities/authors/spectatorindex.md)

@@ -55,10 +55,6 @@ https://t.co/mvIeIdG8oH
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 668 · 🔄 58 · 💬 19 · 🔖 0 · 👁 0
-- **关联主题**: [embodied-ai-supply-chain](/concepts/embodied-ai-supply-chain.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/citrini/status/2051071460794351999) — @citrini (Citrini)
-[2] [Author page](/entities/authors/citrini.md)
-[3] [Related topic](/concepts/embodied-ai-supply-chain.md)

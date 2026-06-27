@@ -61,10 +61,6 @@ A 厂原文看回复↓
 - **精选类别**: ✨ 亮点
 - **优先级**: 92
 - **互动**: ❤️ 38 · 🔄 2 · 💬 2 · 🔖 0 · 👁 0
-- **关联主题**: [claude-code-ecosystem](/concepts/claude-code-ecosystem.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2029547576673141123) — @NekoStranding (毒猫猫🤔)
-[2] [Author page](/entities/authors/nekostranding.md)
-[3] [Related topic](/concepts/claude-code-ecosystem.md)

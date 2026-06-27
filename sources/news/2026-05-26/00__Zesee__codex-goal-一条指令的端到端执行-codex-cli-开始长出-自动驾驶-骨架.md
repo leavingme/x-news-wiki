@@ -50,8 +50,6 @@ Codex最强功能GOAL来了！你会用吗？ https://t.co/OjTmJP9Xun
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 20 · 🔄 1 · 💬 15 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2059308967348834553) — @Zesee (Rachel🥥)
-[2] [Author page](/entities/authors/zesee.md)

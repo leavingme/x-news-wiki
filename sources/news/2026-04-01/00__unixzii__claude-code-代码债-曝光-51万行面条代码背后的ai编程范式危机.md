@@ -49,8 +49,6 @@ gakki：Claude Code 用 51 万行代码示范了什么叫「AI第一版代码」
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 39 · 🔄 1 · 💬 11 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2039190949587472451) — @unixzii (Cyandev)
-[2] [Author page](/entities/authors/unixzii.md)

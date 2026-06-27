@@ -66,10 +66,6 @@ yetone 提出关键洞察：程序员与非程序员在 Vibe Coding 中的核心
 - **精选类别**: ✨ 亮点
 - **优先级**: 86
 - **互动**: ❤️ 773 · 🔄 55 · 💬 58 · 🔖 0 · 👁 0
-- **关联主题**: [vibe-coding-methodology](/concepts/vibe-coding-methodology.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2030003014678020240) — @yetone (yetone)
-[2] [Author page](/entities/authors/yetone.md)
-[3] [Related topic](/concepts/vibe-coding-methodology.md)

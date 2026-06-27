@@ -64,8 +64,6 @@ gpt5.4: 我依然是性价比之王，只有我能稳稳地接住你 🖐️
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 60 · 🔄 4 · 💬 12 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2047429801137590290) — @oran_ge (Orange AI)
-[2] [Author page](/entities/authors/oran-ge.md)

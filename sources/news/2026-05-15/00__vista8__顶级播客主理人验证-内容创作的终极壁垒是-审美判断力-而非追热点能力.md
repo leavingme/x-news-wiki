@@ -64,8 +64,6 @@ gakki：工具民主化导致内容供给暴增，但「审美判断力」无法
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 2 · 🔄 0 · 💬 1 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2055091732119961661) — @vista8 (向阳乔木)
-[2] [Author page](/entities/authors/vista8.md)

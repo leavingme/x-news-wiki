@@ -58,10 +58,6 @@ Codex 目前的势头也不错：周活跃用户超过 200 万，年初至今用
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 176 · 🔄 18 · 💬 17 · 🔖 0 · 👁 0
-- **关联主题**: [codex-ecosystem-platform-war](/concepts/codex-ecosystem-platform-war.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2034693371575361640) — @dotey (宝玉)
-[2] [Author page](/entities/authors/dotey.md)
-[3] [Related topic](/concepts/codex-ecosystem-platform-war.md)

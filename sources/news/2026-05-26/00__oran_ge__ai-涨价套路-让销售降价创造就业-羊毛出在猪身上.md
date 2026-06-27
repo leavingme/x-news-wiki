@@ -47,8 +47,6 @@ gakki：这套玩法的本质是「价格歧视的戏剧化」——愿意砍价
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 32 · 🔄 0 · 💬 1 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2059083365584941440) — @oran_ge (Orange AI)
-[2] [Author page](/entities/authors/oran-ge.md)

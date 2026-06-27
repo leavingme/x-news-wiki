@@ -45,8 +45,6 @@ How do you keep Claude working until the job is done? Claude Code helps with thi
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 2157 · 🔄 154 · 💬 105 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/ClaudeDevs/status/2054351031279186040) — @ClaudeDevs (ClaudeDevs)
-[2] [Author page](/entities/authors/claudedevs.md)

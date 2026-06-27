@@ -50,8 +50,6 @@ Anthropic突然大赦天下了，居然把我24年初就被封掉的Google账号
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 76 · 🔄 3 · 💬 49 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2068642377926050254) — @Khazix0918 (数字生命卡兹克)
-[2] [Author page](/entities/authors/khazix0918.md)

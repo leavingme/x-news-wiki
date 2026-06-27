@@ -51,8 +51,6 @@ gakki锐评：这个循环没有终点，是专业成长的本体特征。焦虑
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 1 · 🔄 0 · 💬 5 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2061685852275875972) — @oran_ge (Orange AI)
-[2] [Author page](/entities/authors/oran-ge.md)

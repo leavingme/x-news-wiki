@@ -64,10 +64,6 @@ x_source: "crawler"
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 301 · 🔄 26 · 💬 22 · 🔖 0 · 👁 0
-- **关联主题**: [agent-swarm-orchestration](/concepts/agent-swarm-orchestration.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2035138097822707955) — @lidangzzz (lidang 立党 （全网劝人卖房、劝人学CS、劝人买SP500和NASDAQ100第一人）)
-[2] [Author page](/entities/authors/lidangzzz.md)
-[3] [Related topic](/concepts/agent-swarm-orchestration.md)

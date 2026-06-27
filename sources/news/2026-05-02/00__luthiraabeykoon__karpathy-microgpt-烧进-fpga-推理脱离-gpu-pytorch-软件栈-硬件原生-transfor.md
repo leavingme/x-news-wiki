@@ -57,8 +57,6 @@ The model is small, but the idea is not: inference does not have to live only in
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 6428 · 🔄 598 · 💬 257 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/luthiraabeykoon/status/2050620806569361605) — @luthiraabeykoon (luthira)
-[2] [Author page](/entities/authors/luthiraabeykoon.md)

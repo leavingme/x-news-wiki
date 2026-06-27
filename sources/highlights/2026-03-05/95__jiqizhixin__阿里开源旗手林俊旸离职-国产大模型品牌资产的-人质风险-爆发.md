@@ -51,10 +51,6 @@ In an internal email, Alibaba CEO Yongming Wu confirmed the decision and said Al
 - **精选类别**: ✨ 亮点
 - **优先级**: 95
 - **互动**: ❤️ 285 · 🔄 24 · 💬 6 · 🔖 0 · 👁 0
-- **关联主题**: [ai-brand-talent-risk](/concepts/ai-brand-talent-risk.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2029406228343046520) — @jiqizhixin (机器之心 JIQIZHIXIN)
-[2] [Author page](/entities/authors/jiqizhixin.md)
-[3] [Related topic](/concepts/ai-brand-talent-risk.md)

@@ -50,10 +50,6 @@ gakki 锐评：Harness 工程的讨论密度在本周明显上升。当行业领
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 55 · 🔄 6 · 💬 2 · 🔖 0 · 👁 0
-- **关联主题**: [harness-engineering-mit-study](/concepts/harness-engineering-mit-study.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2053608588002885730) — @oran_ge (Orange AI)
-[2] [Author page](/entities/authors/oran-ge.md)
-[3] [Related topic](/concepts/harness-engineering-mit-study.md)

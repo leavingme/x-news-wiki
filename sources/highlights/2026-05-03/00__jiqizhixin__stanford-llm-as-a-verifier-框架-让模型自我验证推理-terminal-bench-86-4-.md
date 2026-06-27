@@ -62,10 +62,6 @@ Our report: https://t.co/HtaMOfChF4
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 5 · 🔄 2 · 💬 2 · 🔖 0 · 👁 0
-- **关联主题**: [process-supervision-reagent](/concepts/process-supervision-reagent.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2050778121457320330) — @jiqizhixin (机器之心 JIQIZHIXIN)
-[2] [Author page](/entities/authors/jiqizhixin.md)
-[3] [Related topic](/concepts/process-supervision-reagent.md)

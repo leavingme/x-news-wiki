@@ -59,10 +59,6 @@ Key strengths:
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 436 · 🔄 66 · 💬 30 · 🔖 0 · 👁 0
-- **关联主题**: [moe-edge-compute-monopoly](/concepts/moe-edge-compute-monopoly.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/AntLingAGI/status/2049146440849707511) — @AntLingAGI (Ant Ling)
-[2] [Author page](/entities/authors/antlingagi.md)
-[3] [Related topic](/concepts/moe-edge-compute-monopoly.md)

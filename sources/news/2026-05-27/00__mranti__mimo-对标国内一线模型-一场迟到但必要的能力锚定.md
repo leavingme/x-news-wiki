@@ -55,8 +55,6 @@ gakki：这个问题背后是一个真实痛点——国产大模型的能力对
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 0 · 🔄 0 · 💬 2 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2059454475627282814) — @mranti (Michael Anti)
-[2] [Author page](/entities/authors/mranti.md)

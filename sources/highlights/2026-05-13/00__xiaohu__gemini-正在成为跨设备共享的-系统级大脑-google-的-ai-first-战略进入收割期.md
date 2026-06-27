@@ -56,10 +56,6 @@ Google 甚至已经不满足于把 AI 放进聊天框里了，他们想让 Gemin
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 5 · 🔄 0 · 💬 0 · 🔖 0 · 👁 0
-- **关联主题**: [ai-browser-platform-war](/concepts/ai-browser-platform-war.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2054353283234541835) — @xiaohu (小互)
-[2] [Author page](/entities/authors/xiaohu.md)
-[3] [Related topic](/concepts/ai-browser-platform-war.md)

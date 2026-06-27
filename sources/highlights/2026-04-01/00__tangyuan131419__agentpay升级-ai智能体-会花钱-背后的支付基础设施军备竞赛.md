@@ -84,10 +84,6 @@ AI 代理经济时代来了！那些能“思考”却不能“支付”的 Agen
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 22 · 🔄 7 · 💬 18 · 🔖 0 · 👁 0
-- **关联主题**: [agent-economic-autonomy](/concepts/agent-economic-autonomy.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2039136128272662962) — @tangyuan131419 (Anna汤圆🦅)
-[2] [Author page](/entities/authors/tangyuan131419.md)
-[3] [Related topic](/concepts/agent-economic-autonomy.md)

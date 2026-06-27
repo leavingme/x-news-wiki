@@ -59,8 +59,6 @@ AI agents can do sustained multi-day research. Not always and not for everyone, 
 - **精选类别**: 📰 头条
 - **优先级**: 87
 - **互动**: ❤️ 28 · 🔄 1 · 💬 8 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2031878995906793912) — @DimitrisPapail (Dimitris Papailiopoulos)
-[2] [Author page](/entities/authors/dimitrispapail.md)

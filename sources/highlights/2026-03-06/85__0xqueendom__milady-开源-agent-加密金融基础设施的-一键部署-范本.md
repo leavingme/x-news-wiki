@@ -120,10 +120,6 @@ Skills上传：支持上传自定义技能，扩展Agent能力
 - **精选类别**: ✨ 亮点
 - **优先级**: 85
 - **互动**: ❤️ 20 · 🔄 5 · 💬 7 · 🔖 0 · 👁 0
-- **关联主题**: [ai-crypto-agent-infra](/concepts/ai-crypto-agent-infra.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2026960639688675563) — @0xqueendom (0xQueen)
-[2] [Author page](/entities/authors/0xqueendom.md)
-[3] [Related topic](/concepts/ai-crypto-agent-infra.md)

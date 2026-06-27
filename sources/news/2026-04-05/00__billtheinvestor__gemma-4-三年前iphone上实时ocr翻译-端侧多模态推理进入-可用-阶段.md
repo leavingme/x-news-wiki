@@ -53,10 +53,6 @@ Gemma-4-E2B-it 在三年前的iphone 14 pro max上同时做图片识别和翻译
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 149 · 🔄 17 · 💬 15 · 🔖 0 · 👁 0
-- **关联主题**: [gemma-endpoint-multimodal](/concepts/gemma-endpoint-multimodal.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2040659624593179028) — @billtheinvestor (Bill The Investor)
-[2] [Author page](/entities/authors/billtheinvestor.md)
-[3] [Related topic](/concepts/gemma-endpoint-multimodal.md)

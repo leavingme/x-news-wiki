@@ -49,10 +49,6 @@ Claude Design 跟服务器的通信协议不是 JSON 文本，而是 Protocol Bu
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 8 · 🔄 0 · 💬 0 · 🔖 0 · 👁 0
-- **关联主题**: [claude-design-disruption](/concepts/claude-design-disruption.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2063480178362224725) — @dotey (宝玉)
-[2] [Author page](/entities/authors/dotey.md)
-[3] [Related topic](/concepts/claude-design-disruption.md)

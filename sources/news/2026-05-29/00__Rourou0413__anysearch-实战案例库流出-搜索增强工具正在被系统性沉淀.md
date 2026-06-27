@@ -51,8 +51,6 @@ anysearch超全实操案例
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 3 · 🔄 0 · 💬 0 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2060370700041641990) — @Rourou0413 (Rourou)
-[2] [Author page](/entities/authors/rourou0413.md)

@@ -49,10 +49,6 @@ x_source: "crawler"
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 4 · 🔄 0 · 💬 2 · 🔖 0 · 👁 0
-- **关联主题**: [gemma-4-mobile-agent](/concepts/gemma-4-mobile-agent.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2057180300145557937) — @xiaohu (小互)
-[2] [Author page](/entities/authors/xiaohu.md)
-[3] [Related topic](/concepts/gemma-4-mobile-agent.md)

@@ -76,8 +76,6 @@ Ai 对于世界的加速会让传统的金融工具显得无比的笨重
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 48 · 🔄 2 · 💬 16 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2021909961664815235) — @connectfarm1 (潜水观察员🇨🇳)
-[2] [Author page](/entities/authors/connectfarm1.md)

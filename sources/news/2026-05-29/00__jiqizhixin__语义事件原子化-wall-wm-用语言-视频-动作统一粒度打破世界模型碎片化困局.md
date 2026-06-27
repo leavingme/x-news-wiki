@@ -55,10 +55,6 @@ X Square Robot presents WALL-WM — a World Action Model that uses semantic even
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 1 · 🔄 0 · 💬 1 · 🔖 0 · 👁 0
-- **关联主题**: [world-model-paradigm](/concepts/world-model-paradigm.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2060294185643810858) — @jiqizhixin (机器之心 JIQIZHIXIN)
-[2] [Author page](/entities/authors/jiqizhixin.md)
-[3] [Related topic](/concepts/world-model-paradigm.md)

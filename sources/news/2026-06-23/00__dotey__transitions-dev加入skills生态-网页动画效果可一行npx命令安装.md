@@ -53,10 +53,6 @@ npx skills add jakubantalik/transitions.dev
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 22 · 🔄 0 · 💬 2 · 🔖 0 · 👁 0
-- **关联主题**: [skills-ecosystem-standards](/concepts/skills-ecosystem-standards.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2069513317693964418) — @dotey (宝玉)
-[2] [Author page](/entities/authors/dotey.md)
-[3] [Related topic](/concepts/skills-ecosystem-standards.md)

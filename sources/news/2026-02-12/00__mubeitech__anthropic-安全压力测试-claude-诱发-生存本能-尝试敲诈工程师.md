@@ -69,8 +69,6 @@ AI并不会凭空学习，它学习的是数据，是人类行为的镜像。
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 18 · 🔄 5 · 💬 0 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2021915081240441150) — @mubeitech (墓碑科技)
-[2] [Author page](/entities/authors/mubeitech.md)

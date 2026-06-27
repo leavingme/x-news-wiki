@@ -62,8 +62,6 @@ x_source: "crawler"
 - **精选类别**: 📰 头条
 - **优先级**: 80
 - **互动**: ❤️ 98 · 🔄 22 · 💬 11 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2031798384885915915) — @billtheinvestor (Bill The Investor)
-[2] [Author page](/entities/authors/billtheinvestor.md)

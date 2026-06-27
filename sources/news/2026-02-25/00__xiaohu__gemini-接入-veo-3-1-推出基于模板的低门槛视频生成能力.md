@@ -55,8 +55,6 @@ Veo 3.1 现在在Gemini中支持模板化生成视频
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 63 · 🔄 12 · 💬 7 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2026131433895727471) — @xiaohu (小互)
-[2] [Author page](/entities/authors/xiaohu.md)

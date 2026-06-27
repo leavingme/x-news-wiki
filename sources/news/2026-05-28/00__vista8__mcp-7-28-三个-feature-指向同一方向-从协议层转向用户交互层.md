@@ -57,10 +57,6 @@ x_source: "crawler"
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 9 · 🔄 0 · 💬 15 · 🔖 0 · 👁 0
-- **关联主题**: [multi-agent-framework-ecosystem-comparison](/concepts/multi-agent-framework-ecosystem-comparison.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2059812644081766518) — @vista8 (向阳乔木)
-[2] [Author page](/entities/authors/vista8.md)
-[3] [Related topic](/concepts/multi-agent-framework-ecosystem-comparison.md)

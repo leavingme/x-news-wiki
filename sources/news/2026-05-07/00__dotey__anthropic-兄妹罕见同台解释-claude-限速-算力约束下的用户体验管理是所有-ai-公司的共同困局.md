@@ -49,8 +49,6 @@ Anthropic 兄妹 Dario Amodei 和 Daniela Amodei 最新对话：Claude 为什么
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 37 · 🔄 9 · 💬 7 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2052198818385465667) — @dotey (宝玉)
-[2] [Author page](/entities/authors/dotey.md)

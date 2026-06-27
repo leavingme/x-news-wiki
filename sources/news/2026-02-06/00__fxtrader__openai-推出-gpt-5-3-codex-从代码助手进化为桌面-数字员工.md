@@ -52,8 +52,6 @@ OpenAI表示，新模型在多项行业基准测试中实现了显著提升。GP
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 2 · 🔄 0 · 💬 0 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2019576525797179813) — @fxtrader (外汇交易员)
-[2] [Author page](/entities/authors/fxtrader.md)

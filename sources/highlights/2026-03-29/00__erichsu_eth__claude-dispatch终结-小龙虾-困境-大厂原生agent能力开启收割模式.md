@@ -56,10 +56,6 @@ PS: 大厂卷起来是真的不给小龙虾留活路🤡
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 11 · 🔄 1 · 💬 6 · 🔖 0 · 👁 0
-- **关联主题**: [agent-mobile-orchestration](/concepts/agent-mobile-orchestration.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2034105207194542399) — @erichsu_eth (Erichsu.eth)
-[2] [Author page](/entities/authors/erichsu-eth.md)
-[3] [Related topic](/concepts/agent-mobile-orchestration.md)

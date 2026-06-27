@@ -64,10 +64,6 @@ https://t.co/xgoz0BWBQD
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 361 · 🔄 82 · 💬 15 · 🔖 0 · 👁 0
-- **关联主题**: [claude-code-natural-language-workflow](/concepts/claude-code-natural-language-workflow.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2028769019244003587) — @seekjourney (极客杰尼)
-[2] [Author page](/entities/authors/seekjourney.md)
-[3] [Related topic](/concepts/claude-code-natural-language-workflow.md)

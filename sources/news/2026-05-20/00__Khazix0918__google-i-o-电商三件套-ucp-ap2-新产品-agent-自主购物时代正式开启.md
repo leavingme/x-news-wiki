@@ -89,10 +89,6 @@ Agent+钱这块的基础设施，已经开始缓缓渐进了。
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 0 · 🔄 0 · 💬 1 · 🔖 0 · 👁 0
-- **关联主题**: [ai-agent-crypto-infra](/concepts/ai-agent-crypto-infra.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2056894667413958907) — @Khazix0918 (数字生命卡兹克)
-[2] [Author page](/entities/authors/khazix0918.md)
-[3] [Related topic](/concepts/ai-agent-crypto-infra.md)

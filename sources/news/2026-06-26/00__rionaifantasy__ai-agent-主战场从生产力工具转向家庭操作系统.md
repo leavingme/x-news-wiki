@@ -68,10 +68,6 @@ If you'd like to watch the full video, click on the original post to view it.
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 16 · 🔄 2 · 💬 15 · 🔖 0 · 👁 0
-- **关联主题**: [agent-ecosystem](/concepts/agent-ecosystem.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2070514610038563083) — @rionaifantasy (Rion Wu)
-[2] [Author page](/entities/authors/rionaifantasy.md)
-[3] [Related topic](/concepts/agent-ecosystem.md)

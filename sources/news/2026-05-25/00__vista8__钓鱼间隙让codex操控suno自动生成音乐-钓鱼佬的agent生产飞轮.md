@@ -59,8 +59,6 @@ gakki 的锐评：Agent消灭的不只是「重复劳动」，连「等待执行
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 0 · 🔄 0 · 💬 0 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2058718778754838693) — @vista8 (向阳乔木)
-[2] [Author page](/entities/authors/vista8.md)

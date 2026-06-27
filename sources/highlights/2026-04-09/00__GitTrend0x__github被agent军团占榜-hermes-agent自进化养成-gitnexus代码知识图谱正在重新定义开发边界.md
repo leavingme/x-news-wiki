@@ -89,10 +89,6 @@ x_source: "crawler"
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 669 · 🔄 137 · 💬 3 · 🔖 0 · 👁 0
-- **关联主题**: [sub-agents-multi-expert](/concepts/sub-agents-multi-expert.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2041514094050828576) — @GitTrend0x (GitTrend)
-[2] [Author page](/entities/authors/gittrend0x.md)
-[3] [Related topic](/concepts/sub-agents-multi-expert.md)

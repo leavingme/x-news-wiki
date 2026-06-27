@@ -54,8 +54,6 @@ AI竞争的对象恰恰是“智能”，其次才是“辅助智能工具”（
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 65 · 🔄 5 · 💬 11 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2019014393280053266) — @ShanghaoJin (Herman Jin)
-[2] [Author page](/entities/authors/shanghaojin.md)

@@ -51,8 +51,6 @@ GPT Image 2 Prompt 和蜡笔小新一家合影（配合一张照片）：
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 35 · 🔄 2 · 💬 7 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2051835578132422677) — @dotey (宝玉)
-[2] [Author page](/entities/authors/dotey.md)

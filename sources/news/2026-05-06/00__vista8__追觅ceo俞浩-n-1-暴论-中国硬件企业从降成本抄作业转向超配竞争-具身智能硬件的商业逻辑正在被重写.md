@@ -85,10 +85,6 @@ https://t.co/Qkn6zOkfXZ
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 6 · 🔄 1 · 💬 2 · 🔖 0 · 👁 0
-- **关联主题**: [robot-phone-consumer-embodied-ai](/concepts/robot-phone-consumer-embodied-ai.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2052049528920883358) — @vista8 (向阳乔木)
-[2] [Author page](/entities/authors/vista8.md)
-[3] [Related topic](/concepts/robot-phone-consumer-embodied-ai.md)

@@ -50,8 +50,6 @@ gakki 锐评：跟 Agent Memory 资产化是同一逻辑——人类的隐性知
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 3 · 🔄 0 · 💬 0 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2066447849316041153) — @yetone (yetone)
-[2] [Author page](/entities/authors/yetone.md)

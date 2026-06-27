@@ -54,10 +54,6 @@ gakki 锐评：这不是 AI 投资，是 AI 信仰税。命名套利不会持续
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 0 · 🔄 0 · 💬 5 · 🔖 0 · 👁 0
-- **关联主题**: [ai-stock-investment-analysis](/concepts/ai-stock-investment-analysis.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2066373174816825629) — @xiaohu (小互)
-[2] [Author page](/entities/authors/xiaohu.md)
-[3] [Related topic](/concepts/ai-stock-investment-analysis.md)

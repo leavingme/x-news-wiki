@@ -57,10 +57,6 @@ YouMind 的基础层是 IPO（Input-Process-Output），和 Karparhy 的想法�
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 162 · 🔄 20 · 💬 15 · 🔖 0 · 👁 0
-- **关联主题**: [ai-knowledge-tool-competition](/concepts/ai-knowledge-tool-competition.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2040579848209363219) — @lifesinger (Frank Wang 玉伯)
-[2] [Author page](/entities/authors/lifesinger.md)
-[3] [Related topic](/concepts/ai-knowledge-tool-competition.md)

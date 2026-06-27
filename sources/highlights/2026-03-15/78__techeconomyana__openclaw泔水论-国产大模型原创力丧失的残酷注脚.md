@@ -53,10 +53,6 @@ OpenClaw国内的炒作，说明本轮大模型中国彻底丧失了原创能力
 - **精选类别**: ✨ 亮点
 - **优先级**: 78
 - **互动**: ❤️ 172 · 🔄 12 · 💬 33 · 🔖 0 · 👁 0
-- **关联主题**: [openclaw-ecosystem-critique](/concepts/openclaw-ecosystem-critique.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2032812179699986941) — @techeconomyana (高级分析师)
-[2] [Author page](/entities/authors/techeconomyana.md)
-[3] [Related topic](/concepts/openclaw-ecosystem-critique.md)

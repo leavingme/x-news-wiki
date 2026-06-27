@@ -67,10 +67,6 @@ PerleLabs 做 AI 数据层（主权智能层）：
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 29 · 🔄 0 · 💬 42 · 🔖 0 · 👁 0
-- **关联主题**: [ai-data-blockchain-verification](/concepts/ai-data-blockchain-verification.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2036844255935947163) — @Steam_Diary123 (区块链日记 🐬TermMax)
-[2] [Author page](/entities/authors/steam-diary123.md)
-[3] [Related topic](/concepts/ai-data-blockchain-verification.md)

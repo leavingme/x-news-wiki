@@ -52,8 +52,6 @@ gakki：模板化是 LLM RLHF 训练的副作用—— Reward Model 学会的是
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 18 · 🔄 0 · 💬 11 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2059091443659214853) — @oran_ge (Orange AI)
-[2] [Author page](/entities/authors/oran-ge.md)

@@ -61,8 +61,6 @@ Skill安装  npx skills add joeseesun/qiaomu-xinzhiyuan-title
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 23 · 🔄 2 · 💬 2 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2069436462966489480) — @vista8 (向阳乔木)
-[2] [Author page](/entities/authors/vista8.md)

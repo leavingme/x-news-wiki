@@ -81,8 +81,6 @@ README 里甚至提到，测试输出压缩可以做到 -90%。
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 140 · 🔄 23 · 💬 10 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2034068299172970756) — @axiaisacat (axiaisacat)
-[2] [Author page](/entities/authors/axiaisacat.md)

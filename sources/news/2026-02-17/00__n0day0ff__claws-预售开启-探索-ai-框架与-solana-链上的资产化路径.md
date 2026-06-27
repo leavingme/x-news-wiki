@@ -57,8 +57,6 @@ x_source: "crawler"
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 129 · 🔄 22 · 💬 4 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2023455833393189010) — @n0day0ff (n0day0ff 👨🏽‍💻)
-[2] [Author page](/entities/authors/n0day0ff.md)

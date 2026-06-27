@@ -60,10 +60,6 @@ https://t.co/DGK2tVKWyC
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 3 · 🔄 0 · 💬 3 · 🔖 0 · 👁 0
-- **关联主题**: [product-definition-moat](/concepts/product-definition-moat.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2066899718689673540) — @vista8 (向阳乔木)
-[2] [Author page](/entities/authors/vista8.md)
-[3] [Related topic](/concepts/product-definition-moat.md)

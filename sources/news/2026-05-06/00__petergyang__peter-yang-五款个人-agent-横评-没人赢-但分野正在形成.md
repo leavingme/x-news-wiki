@@ -55,10 +55,6 @@ Here's my new deep dive with my honest take on where each product stands, plus t
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 742 · 🔄 72 · 💬 149 · 🔖 0 · 👁 0
-- **关联主题**: [agent-ecosystem](/concepts/agent-ecosystem.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/petergyang/status/2052030213861879894) — @petergyang (Peter Yang)
-[2] [Author page](/entities/authors/petergyang.md)
-[3] [Related topic](/concepts/agent-ecosystem.md)

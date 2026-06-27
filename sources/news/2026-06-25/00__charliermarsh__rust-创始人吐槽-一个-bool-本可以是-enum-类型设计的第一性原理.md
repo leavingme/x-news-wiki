@@ -47,8 +47,6 @@ This bool could've been an enum
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 1922 · 🔄 68 · 💬 72 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2069796668506042584) — @charliermarsh (Charlie Marsh)
-[2] [Author page](/entities/authors/charliermarsh.md)

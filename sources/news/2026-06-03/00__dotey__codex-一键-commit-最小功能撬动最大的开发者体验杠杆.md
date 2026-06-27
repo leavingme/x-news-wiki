@@ -49,8 +49,6 @@ Codex 这个小功能我很喜欢，直接一键 commit changes，自动生成 c
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 25 · 🔄 0 · 💬 14 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2062050235895914926) — @dotey (宝玉)
-[2] [Author page](/entities/authors/dotey.md)

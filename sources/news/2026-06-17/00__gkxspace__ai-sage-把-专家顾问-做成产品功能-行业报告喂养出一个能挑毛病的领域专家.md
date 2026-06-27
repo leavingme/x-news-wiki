@@ -56,8 +56,6 @@ gakki 锐评：把"行业知识 + 批判性思维"封装成可复用的 Sage 角
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 3 · 🔄 0 · 💬 1 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2067208625563557996) — @gkxspace (余温)
-[2] [Author page](/entities/authors/gkxspace.md)

@@ -65,10 +65,6 @@ Our report: https://t.co/Bml2pZzUhI
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 5 · 🔄 3 · 💬 0 · 🔖 0 · 👁 0
-- **关联主题**: [ai-3d-content-democratization](/concepts/ai-3d-content-democratization.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2067533023630024732) — @jiqizhixin (机器之心 JIQIZHIXIN)
-[2] [Author page](/entities/authors/jiqizhixin.md)
-[3] [Related topic](/concepts/ai-3d-content-democratization.md)

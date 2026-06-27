@@ -51,8 +51,6 @@ harness 产品经理这个岗位是做什么的？
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 5 · 🔄 1 · 💬 11 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2057277103884906587) — @oran_ge (Orange AI)
-[2] [Author page](/entities/authors/oran-ge.md)

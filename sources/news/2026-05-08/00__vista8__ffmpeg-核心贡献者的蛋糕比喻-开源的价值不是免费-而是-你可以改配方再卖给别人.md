@@ -52,8 +52,6 @@ FFmpeg的核心贡献者JB对“开源”的解释类比：
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 1 · 🔄 0 · 💬 0 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2052619791207403774) — @vista8 (向阳乔木)
-[2] [Author page](/entities/authors/vista8.md)

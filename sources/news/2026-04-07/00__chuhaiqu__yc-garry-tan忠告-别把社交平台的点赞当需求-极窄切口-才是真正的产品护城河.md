@@ -91,8 +91,6 @@ YC 的逻辑是逼着你去找到那个最窄的切口。
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 15 · 🔄 3 · 💬 1 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2037428419181662649) — @chuhaiqu (出海去孵化器)
-[2] [Author page](/entities/authors/chuhaiqu.md)

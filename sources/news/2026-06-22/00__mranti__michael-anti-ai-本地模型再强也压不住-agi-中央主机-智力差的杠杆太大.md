@@ -49,8 +49,6 @@ Michael Anti 给「算力去中心化」叙事泼了盆冷水，延续了 geopol
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 4 · 🔄 0 · 💬 3 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2068937138457227404) — @mranti (Michael Anti)
-[2] [Author page](/entities/authors/mranti.md)

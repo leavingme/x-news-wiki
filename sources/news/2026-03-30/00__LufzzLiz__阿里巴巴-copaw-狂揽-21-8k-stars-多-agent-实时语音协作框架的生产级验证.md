@@ -67,8 +67,6 @@ CoPaw （Co Personal Agent Workstation）也是基于 AgentScope 、 AgentScope-
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 39 · 🔄 7 · 💬 0 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2038223825763225735) — @LufzzLiz (岚叔)
-[2] [Author page](/entities/authors/lufzzliz.md)

@@ -60,10 +60,6 @@ gakki 锐评：从 Prompt 工程到 Harness 工程再到 Loop 工程，自动化
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 34 · 🔄 2 · 💬 13 · 🔖 0 · 👁 0
-- **关联主题**: [self-improving-agent-engineering](/concepts/self-improving-agent-engineering.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2067376170145075206) — @dotey (宝玉)
-[2] [Author page](/entities/authors/dotey.md)
-[3] [Related topic](/concepts/self-improving-agent-engineering.md)

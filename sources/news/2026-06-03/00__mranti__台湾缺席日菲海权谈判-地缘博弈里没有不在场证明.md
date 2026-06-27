@@ -45,8 +45,6 @@ Michael Anti 披露台湾处理日菲海权谈判的态度转变：最初表态"
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 46 · 🔄 0 · 💬 9 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2062174439157248161) — @mranti (Michael Anti)
-[2] [Author page](/entities/authors/mranti.md)

@@ -113,8 +113,6 @@ AI 能直接用它们，在 CLAUDE. md 里写一行就够了，
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 322 · 🔄 52 · 💬 11 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2023187723528679578) — @vista8 (向阳乔木)
-[2] [Author page](/entities/authors/vista8.md)

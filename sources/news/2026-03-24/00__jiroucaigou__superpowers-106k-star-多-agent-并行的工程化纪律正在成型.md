@@ -73,10 +73,6 @@ https://t.co/llHkdD5WVT
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 283 · 🔄 49 · 💬 35 · 🔖 0 · 👁 0
-- **关联主题**: [agent-swarm-orchestration](/concepts/agent-swarm-orchestration.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2035964407201849564) — @jiroucaigou (努力赚钱的菜狗)
-[2] [Author page](/entities/authors/jiroucaigou.md)
-[3] [Related topic](/concepts/agent-swarm-orchestration.md)

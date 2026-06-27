@@ -89,8 +89,6 @@ Cloudflare 分布於全球的邊緣運算節點，使其成為這類 Agent-to-Ag
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 237 · 🔄 16 · 💬 4 · 🔖 74 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://twitter.com/IEObserve/status/2016109318068945327) — @IEObserve (Intl Econ Observe)
-[2] [Author page](/entities/authors/ieobserve.md)

@@ -66,8 +66,6 @@ x_source: "crawler"
 - **精选类别**: 📰 头条
 - **优先级**: 82
 - **互动**: ❤️ 350 · 🔄 39 · 💬 65 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2032410392497209554) — @Stanleysobest (Stanley)
-[2] [Author page](/entities/authors/stanleysobest.md)

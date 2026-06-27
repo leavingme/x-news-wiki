@@ -65,10 +65,6 @@ macOS 专属，需要更新到 Claude Code v2.1.85+
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 60 · 🔄 5 · 💬 14 · 🔖 0 · 👁 0
-- **关联主题**: [claude-code-natural-language-workflow](/concepts/claude-code-natural-language-workflow.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2038790407568642223) — @xiaohu (小互)
-[2] [Author page](/entities/authors/xiaohu.md)
-[3] [Related topic](/concepts/claude-code-natural-language-workflow.md)

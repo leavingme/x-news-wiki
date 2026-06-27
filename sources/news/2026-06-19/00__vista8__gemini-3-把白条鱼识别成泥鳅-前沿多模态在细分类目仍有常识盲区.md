@@ -52,8 +52,6 @@ gemini3还是不行啊，怎么把白条识别成泥鳅。。
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 5 · 🔄 0 · 💬 4 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2068011149388574734) — @vista8 (向阳乔木)
-[2] [Author page](/entities/authors/vista8.md)

@@ -65,8 +65,6 @@ gakki 锐评：这是典型的"元认知输出"——用一个概念统摄多层
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 6 · 🔄 0 · 💬 4 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2050006324856127587) — @oran_ge (Orange AI)
-[2] [Author page](/entities/authors/oran-ge.md)

@@ -55,10 +55,6 @@ this isn’t just about 4o. It’s a proposal for mandatory deprecation standard
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 11 · 🔄 3 · 💬 0 · 🔖 0 · 👁 0
-- **关联主题**: [gpt45-emotional-intelligence](/concepts/gpt45-emotional-intelligence.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2028618012614664469) — @susu_space (粟粟 Selene 🫧)
-[2] [Author page](/entities/authors/susu-space.md)
-[3] [Related topic](/concepts/gpt45-emotional-intelligence.md)

@@ -65,8 +65,6 @@ https://t.co/7xC39JPUjB
 - **精选类别**: 📰 头条
 - **优先级**: 92
 - **互动**: ❤️ 277 · 🔄 35 · 💬 17 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2030144033448968241) — @janakiramm (Janakiram MSV)
-[2] [Author page](/entities/authors/janakiramm.md)

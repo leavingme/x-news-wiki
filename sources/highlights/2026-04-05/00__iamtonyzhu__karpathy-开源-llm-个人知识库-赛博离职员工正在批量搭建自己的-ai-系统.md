@@ -56,8 +56,6 @@ https://t.co/gLVYvLLIdn
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 87 · 🔄 11 · 💬 4 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2040607689454297416) — @iamtonyzhu (Tony出海)
-[2] [Author page](/entities/authors/iamtonyzhu.md)

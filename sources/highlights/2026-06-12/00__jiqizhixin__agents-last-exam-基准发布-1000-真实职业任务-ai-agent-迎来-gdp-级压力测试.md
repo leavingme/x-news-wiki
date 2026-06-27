@@ -54,10 +54,6 @@ The hardest tier? Less than 1% pass rate. ALE is built to track progress toward 
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 2 · 🔄 0 · 💬 2 · 🔖 0 · 👁 0
-- **关联主题**: [agent-evaluation-frontier](/concepts/agent-evaluation-frontier.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2065336644207808623) — @jiqizhixin (机器之心 JIQIZHIXIN)
-[2] [Author page](/entities/authors/jiqizhixin.md)
-[3] [Related topic](/concepts/agent-evaluation-frontier.md)

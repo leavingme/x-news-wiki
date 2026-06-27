@@ -65,10 +65,6 @@ DeepSeek、Kimi、通义千问、豆包、智谱GLM、MiniMax
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 15 · 🔄 5 · 💬 2 · 🔖 0 · 👁 0
-- **关联主题**: [ai-multimodel-routing](/concepts/ai-multimodel-routing.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2028620871120605470) — @cnyzgkc (木马人)
-[2] [Author page](/entities/authors/cnyzgkc.md)
-[3] [Related topic](/concepts/ai-multimodel-routing.md)

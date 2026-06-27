@@ -51,8 +51,6 @@ gakki锐评：腾讯的入场验证了企业Agent市场的确定性，但"企业
 - **精选类别**: 📰 头条
 - **优先级**: 85
 - **互动**: ❤️ 219 · 🔄 48 · 💬 20 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2030924113020109299) — @aigclink (AIGCLINK)
-[2] [Author page](/entities/authors/aigclink.md)

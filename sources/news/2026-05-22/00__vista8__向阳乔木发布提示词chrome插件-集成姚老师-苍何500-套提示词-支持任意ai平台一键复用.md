@@ -63,8 +63,6 @@ https://t.co/XrDOt3Fgoi
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 67 · 🔄 13 · 💬 17 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2057820198502068399) — @vista8 (向阳乔木)
-[2] [Author page](/entities/authors/vista8.md)

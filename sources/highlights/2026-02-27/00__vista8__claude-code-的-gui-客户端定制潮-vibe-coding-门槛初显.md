@@ -56,8 +56,6 @@ Vibe Coding门槛越来越高了！
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 104 · 🔄 17 · 💬 27 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2027033755958055107) — @vista8 (向阳乔木)
-[2] [Author page](/entities/authors/vista8.md)

@@ -48,8 +48,6 @@ x_source: "crawler"
 - **精选类别**: 📰 头条
 - **优先级**: 78
 - **互动**: ❤️ 165 · 🔄 18 · 💬 16 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2032019090408120703) — @gkxspace (余温)
-[2] [Author page](/entities/authors/gkxspace.md)

@@ -71,10 +71,6 @@ Web：https://t.co/e1JkxZ6p42
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 33 · 🔄 0 · 💬 40 · 🔖 0 · 👁 0
-- **关联主题**: [agent-trading-agent-survival-rate](/concepts/agent-trading-agent-survival-rate.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2070490450159620304) — @CryptoUKong (UKong🥷🪃)
-[2] [Author page](/entities/authors/cryptoukong.md)
-[3] [Related topic](/concepts/agent-trading-agent-survival-rate.md)

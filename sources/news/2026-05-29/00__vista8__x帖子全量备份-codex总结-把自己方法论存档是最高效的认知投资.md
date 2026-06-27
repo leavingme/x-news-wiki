@@ -57,8 +57,6 @@ X 提供全量数据下载，只有在网页端有入口：
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 4 · 🔄 0 · 💬 4 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2060301815741309062) — @vista8 (向阳乔木)
-[2] [Author page](/entities/authors/vista8.md)

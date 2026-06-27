@@ -47,8 +47,6 @@ x_source: "crawler"
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 9 · 🔄 2 · 💬 0 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2027175094003655015) — @Noahhh1005 (Noah)
-[2] [Author page](/entities/authors/noahhh1005.md)

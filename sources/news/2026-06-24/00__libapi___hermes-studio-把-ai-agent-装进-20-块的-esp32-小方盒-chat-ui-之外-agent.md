@@ -96,8 +96,6 @@ TTS/STT 语音输入输出
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 92 · 🔄 4 · 💬 29 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2069428464810426817) — @libapi_ (libapi)
-[2] [Author page](/entities/authors/libapi.md)

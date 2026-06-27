@@ -57,10 +57,6 @@ It's literally the best open source model in the world and months away from GPT-
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 487 · 🔄 52 · 💬 55 · 🔖 0 · 👁 0
-- **关联主题**: [deepseek-v4-open-source](/concepts/deepseek-v4-open-source.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/bindureddy/status/2051142381752517114) — @bindureddy (Bindu Reddy)
-[2] [Author page](/entities/authors/bindureddy.md)
-[3] [Related topic](/concepts/deepseek-v4-open-source.md)

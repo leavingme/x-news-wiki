@@ -52,10 +52,6 @@ gakki 锐评：这个点子价值不在"修电脑"本身，而在揭示了一个
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 1 · 🔄 0 · 💬 2 · 🔖 0 · 👁 0
-- **关联主题**: [agent-mobile-orchestration](/concepts/agent-mobile-orchestration.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2063154662417866900) — @op7418 (歸藏(guizang.ai))
-[2] [Author page](/entities/authors/op7418.md)
-[3] [Related topic](/concepts/agent-mobile-orchestration.md)

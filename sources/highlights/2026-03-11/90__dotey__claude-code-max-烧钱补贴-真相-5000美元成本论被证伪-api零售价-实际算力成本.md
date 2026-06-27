@@ -65,10 +65,6 @@ https://t.co/RP9gT7Gnfr
 - **精选类别**: ✨ 亮点
 - **优先级**: 90
 - **互动**: ❤️ 131 · 🔄 12 · 💬 30 · 🔖 0 · 👁 0
-- **关联主题**: [claude-code-ecosystem](/concepts/claude-code-ecosystem.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2031367127920255153) — @dotey (宝玉)
-[2] [Author page](/entities/authors/dotey.md)
-[3] [Related topic](/concepts/claude-code-ecosystem.md)

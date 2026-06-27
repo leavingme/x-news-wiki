@@ -50,8 +50,6 @@ gakki 锐评：Michael Anti 这条短回复戳中一个常被绕开的点——A
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 2 · 🔄 1 · 💬 0 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2064189968000631250) — @mranti (Michael Anti)
-[2] [Author page](/entities/authors/mranti.md)

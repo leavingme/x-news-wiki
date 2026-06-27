@@ -57,8 +57,6 @@ AI 可以让你 coding 的速度变得无限快，但是不能告诉你到底要
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 19 · 🔄 2 · 💬 2 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2055593715771851084) — @oran_ge (Orange AI)
-[2] [Author page](/entities/authors/oran-ge.md)

@@ -65,10 +65,6 @@ https://t.co/I8YtcVRNvY
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 123 · 🔄 36 · 💬 8 · 🔖 0 · 👁 0
-- **关联主题**: [vibe-coding-methodology](/concepts/vibe-coding-methodology.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2033855941062606993) — @chenchengpro (陈成)
-[2] [Author page](/entities/authors/chenchengpro.md)
-[3] [Related topic](/concepts/vibe-coding-methodology.md)

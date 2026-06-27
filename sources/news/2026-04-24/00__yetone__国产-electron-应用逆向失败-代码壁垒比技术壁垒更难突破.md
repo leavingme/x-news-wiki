@@ -51,8 +51,6 @@ yetone 逆向国产 Electron 应用宣告失败。这是一个值得注意的信
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 19 · 🔄 0 · 💬 3 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2047313685945929932) — @yetone (yetone)
-[2] [Author page](/entities/authors/yetone.md)

@@ -65,10 +65,6 @@ Opus 4.8 最想要的是希望能对自己的训练和部署有发言权。
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 4 · 🔄 0 · 💬 3 · 🔖 0 · 👁 0
-- **关联主题**: [ai-safety-alignment](/concepts/ai-safety-alignment.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2060165731770376303) — @vista8 (向阳乔木)
-[2] [Author page](/entities/authors/vista8.md)
-[3] [Related topic](/concepts/ai-safety-alignment.md)

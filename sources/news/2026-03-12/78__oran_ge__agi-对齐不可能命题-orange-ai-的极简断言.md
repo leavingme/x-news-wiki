@@ -48,8 +48,6 @@ AGI，无法被对齐
 - **精选类别**: 📰 头条
 - **优先级**: 78
 - **互动**: ❤️ 50 · 🔄 9 · 💬 6 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2031878608583794738) — @oran_ge (Orange AI)
-[2] [Author page](/entities/authors/oran-ge.md)

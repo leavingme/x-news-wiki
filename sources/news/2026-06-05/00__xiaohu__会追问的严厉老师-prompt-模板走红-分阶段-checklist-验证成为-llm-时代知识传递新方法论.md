@@ -93,8 +93,6 @@ quiz her with open-ended or multiple choice questions with AskUserQuestion (be s
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 57 · 🔄 5 · 💬 3 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2062902972649222311) — @xiaohu (小互)
-[2] [Author page](/entities/authors/xiaohu.md)

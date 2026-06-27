@@ -47,10 +47,6 @@ gakki 锐评：1.75 秒是个微妙的数字——不快到无感，但慢到你
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 1 · 🔄 0 · 💬 1 · 🔖 0 · 👁 0
-- **关联主题**: [ai-video-cinematic](/concepts/ai-video-cinematic.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2051942359710199968) — @xiaohu (小互)
-[2] [Author page](/entities/authors/xiaohu.md)
-[3] [Related topic](/concepts/ai-video-cinematic.md)

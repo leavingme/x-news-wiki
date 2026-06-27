@@ -51,8 +51,6 @@ gakki锐评：夸克AI的尴尬不是个例，而是大厂"AI功能化"路径的
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 4 · 🔄 0 · 💬 11 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2069606719399825440) — @mranti (Michael Anti)
-[2] [Author page](/entities/authors/mranti.md)

@@ -50,8 +50,6 @@ yetone直接定位到问题根因：用户本地没有claude也没有codex。这
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 0 · 🔄 0 · 💬 2 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2058962902514888708) — @yetone (yetone)
-[2] [Author page](/entities/authors/yetone.md)

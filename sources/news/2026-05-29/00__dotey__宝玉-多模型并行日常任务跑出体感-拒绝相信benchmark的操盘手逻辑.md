@@ -50,8 +50,6 @@ gakki：宝玉的逻辑本质上说了一个事实——模型能力已经开始
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 9 · 🔄 0 · 💬 5 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2060171663325458900) — @dotey (宝玉)
-[2] [Author page](/entities/authors/dotey.md)

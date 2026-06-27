@@ -52,8 +52,6 @@ gakki 锐评：这是对"AI 万能论"的务实纠偏。内容生产的工具选
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 0 · 🔄 0 · 💬 0 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2053145851187655062) — @vista8 (向阳乔木)
-[2] [Author page](/entities/authors/vista8.md)

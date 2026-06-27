@@ -50,8 +50,6 @@ Google 舍得拉下脸抄一下 UI/UX 也不是坏事，这样不会像 Gemini U
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 59 · 🔄 1 · 💬 33 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2056862526239908047) — @dotey (宝玉)
-[2] [Author page](/entities/authors/dotey.md)

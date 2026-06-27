@@ -53,10 +53,6 @@ In hindsighτ it will look so obvious
 - **精选类别**: ✨ 亮点
 - **优先级**: 75
 - **互动**: ❤️ 479 · 🔄 43 · 💬 90 · 🔖 0 · 👁 0
-- **关联主题**: [ai-crypto-agent-infra](/concepts/ai-crypto-agent-infra.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2032431474687750265) — @AlgodTrading (Algod)
-[2] [Author page](/entities/authors/algodtrading.md)
-[3] [Related topic](/concepts/ai-crypto-agent-infra.md)

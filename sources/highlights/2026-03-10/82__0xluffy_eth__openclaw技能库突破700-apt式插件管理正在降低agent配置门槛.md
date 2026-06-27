@@ -59,10 +59,6 @@ GitHub 上已经有人把 700+ 个 OpenClaw 技能 全整理好了，
 - **精选类别**: ✨ 亮点
 - **优先级**: 82
 - **互动**: ❤️ 508 · 🔄 145 · 💬 16 · 🔖 0 · 👁 0
-- **关联主题**: [open-agent-ecosystem](/concepts/open-agent-ecosystem.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2023262073615159452) — @0xluffy_eth (路飞 🏴‍☠️ AI 研究员🧐)
-[2] [Author page](/entities/authors/0xluffy-eth.md)
-[3] [Related topic](/concepts/open-agent-ecosystem.md)

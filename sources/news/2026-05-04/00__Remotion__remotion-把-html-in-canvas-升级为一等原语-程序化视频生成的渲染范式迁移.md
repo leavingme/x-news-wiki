@@ -51,8 +51,6 @@ It enables new types of effects that were impossible before. https://t.co/fIskOh
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 2603 · 🔄 186 · 💬 58 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/Remotion/status/2051235642424631514) — @Remotion (Remotion)
-[2] [Author page](/entities/authors/remotion.md)

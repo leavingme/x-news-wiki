@@ -64,8 +64,6 @@ TLDR The input/output mind meld between humans and AIs is ongoing and there is a
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 19347 · 🔄 2025 · 💬 1044 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2053872850101285137) — @karpathy (Andrej Karpathy)
-[2] [Author page](/entities/authors/karpathy.md)

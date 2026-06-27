@@ -57,10 +57,6 @@ https://t.co/2AVUc4tgLW
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 502 · 🔄 97 · 💬 9 · 🔖 0 · 👁 0
-- **关联主题**: [agent-memory-optimization](/concepts/agent-memory-optimization.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2027755506115416376) — @binghe (冰河)
-[2] [Author page](/entities/authors/binghe.md)
-[3] [Related topic](/concepts/agent-memory-optimization.md)

@@ -51,10 +51,6 @@ Run agents from CI/CD pipelines, create automations for end-to-end workflows, or
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 7755 · 🔄 733 · 💬 350 · 🔖 0 · 👁 0
-- **关联主题**: [claude-code-ecosystem](/concepts/claude-code-ecosystem.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/cursor_ai/status/2049499866217185492) — @cursor_ai (Cursor)
-[2] [Author page](/entities/authors/cursor-ai.md)
-[3] [Related topic](/concepts/claude-code-ecosystem.md)

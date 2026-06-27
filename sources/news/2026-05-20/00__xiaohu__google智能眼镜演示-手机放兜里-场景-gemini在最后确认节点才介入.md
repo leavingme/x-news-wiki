@@ -56,8 +56,6 @@ Google 智能眼镜 展示
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 7 · 🔄 1 · 💬 2 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2056889452929446208) — @xiaohu (小互)
-[2] [Author page](/entities/authors/xiaohu.md)

@@ -48,8 +48,6 @@ x_source: "crawler"
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 13 · 🔄 2 · 💬 6 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2021851968189440373) — @lexrus (Lex Tang)
-[2] [Author page](/entities/authors/lexrus.md)

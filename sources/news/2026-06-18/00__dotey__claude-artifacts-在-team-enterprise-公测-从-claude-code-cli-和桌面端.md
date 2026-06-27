@@ -52,8 +52,6 @@ I think you are right, I was wrong.
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 2 · 🔄 0 · 💬 1 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2067708464424460673) — @dotey (宝玉)
-[2] [Author page](/entities/authors/dotey.md)

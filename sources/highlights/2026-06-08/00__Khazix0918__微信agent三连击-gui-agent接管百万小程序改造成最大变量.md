@@ -91,10 +91,6 @@ Agentic Commerce，代理式交易。
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 2 · 🔄 0 · 💬 5 · 🔖 0 · 👁 0
-- **关联主题**: [agent-multi-platform](/concepts/agent-multi-platform.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2063923890272051228) — @Khazix0918 (数字生命卡兹克)
-[2] [Author page](/entities/authors/khazix0918.md)
-[3] [Related topic](/concepts/agent-multi-platform.md)

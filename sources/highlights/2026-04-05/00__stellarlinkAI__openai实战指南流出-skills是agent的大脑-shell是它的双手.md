@@ -51,10 +51,6 @@ Compaction（上下文压缩）：自动管理长任务中的 Token 损耗，确
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 2 · 🔄 0 · 💬 3 · 🔖 0 · 👁 0
-- **关联主题**: [claude-code-ecosystem](/concepts/claude-code-ecosystem.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2021961435996361015) — @stellarlinkAI (Stellarlink AI)
-[2] [Author page](/entities/authors/stellarlinkai.md)
-[3] [Related topic](/concepts/claude-code-ecosystem.md)

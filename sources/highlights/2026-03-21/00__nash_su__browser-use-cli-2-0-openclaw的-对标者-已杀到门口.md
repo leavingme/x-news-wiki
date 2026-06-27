@@ -54,10 +54,6 @@ OpenClaw 汗流浃背了吧，能连telegram、能操作浏览器，区别越来
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 167 · 🔄 37 · 💬 15 · 🔖 0 · 👁 0
-- **关联主题**: [agent-browser-token-efficiency](/concepts/agent-browser-token-efficiency.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2035227312485277793) — @nash_su (nash_su - e/acc)
-[2] [Author page](/entities/authors/nash-su.md)
-[3] [Related topic](/concepts/agent-browser-token-efficiency.md)

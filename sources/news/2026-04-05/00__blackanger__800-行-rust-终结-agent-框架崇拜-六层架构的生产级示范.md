@@ -59,10 +59,6 @@ gakki：这个案例的价值不在于代码，在于它用「做减法」的思
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 22 · 🔄 1 · 💬 0 · 🔖 0 · 👁 0
-- **关联主题**: [agent-minimalist-implementation](/concepts/agent-minimalist-implementation.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2040448394175615130) — @blackanger (AlexZ 🦀)
-[2] [Author page](/entities/authors/blackanger.md)
-[3] [Related topic](/concepts/agent-minimalist-implementation.md)

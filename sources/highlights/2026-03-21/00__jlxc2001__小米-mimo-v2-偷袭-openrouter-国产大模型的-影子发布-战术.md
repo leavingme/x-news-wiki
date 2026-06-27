@@ -48,10 +48,6 @@ x_source: "crawler"
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 143 · 🔄 8 · 💬 20 · 🔖 0 · 👁 0
-- **关联主题**: [domestic-model-competition](/concepts/domestic-model-competition.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2034664278620537242) — @jlxc2001 (江灵夏草)
-[2] [Author page](/entities/authors/jlxc2001.md)
-[3] [Related topic](/concepts/domestic-model-competition.md)

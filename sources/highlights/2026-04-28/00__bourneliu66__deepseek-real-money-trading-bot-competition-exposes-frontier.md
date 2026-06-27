@@ -55,8 +55,6 @@ x_source: "crawler"
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 1139 · 🔄 267 · 💬 71 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/1980240707383390484) — @bourneliu66 (刘小排)
-[2] [Author page](/entities/authors/bourneliu66.md)

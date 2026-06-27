@@ -52,10 +52,6 @@ Source: US orders Anthropic to halt foreign access to its most advanced AI model
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 1 · 🔄 1 · 💬 0 · 🔖 0 · 👁 0
-- **关联主题**: [ai-technology-iron-curtain](/concepts/ai-technology-iron-curtain.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2065618689618309612) — @jiqizhixin (机器之心 JIQIZHIXIN)
-[2] [Author page](/entities/authors/jiqizhixin.md)
-[3] [Related topic](/concepts/ai-technology-iron-curtain.md)

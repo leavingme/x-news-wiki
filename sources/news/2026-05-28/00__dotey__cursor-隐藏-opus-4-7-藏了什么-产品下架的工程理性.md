@@ -49,8 +49,6 @@ Cursor 升级后可以用 Opus 4.8 了，有意思的是，它默认隐藏了 Op
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 4 · 🔄 1 · 💬 4 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2060114618932928528) — @dotey (宝玉)
-[2] [Author page](/entities/authors/dotey.md)

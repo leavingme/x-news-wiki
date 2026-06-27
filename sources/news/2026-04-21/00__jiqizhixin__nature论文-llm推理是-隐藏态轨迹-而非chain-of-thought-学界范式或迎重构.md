@@ -55,8 +55,6 @@ Paper: https://t.co/bBw6vS953q
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 202 · 🔄 34 · 💬 5 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2046113509210222790) — @jiqizhixin (机器之心 JIQIZHIXIN)
-[2] [Author page](/entities/authors/jiqizhixin.md)

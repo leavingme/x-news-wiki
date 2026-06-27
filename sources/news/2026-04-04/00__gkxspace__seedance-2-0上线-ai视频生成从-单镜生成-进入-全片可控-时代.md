@@ -54,8 +54,6 @@ Original Hot-Blooded Duel Anime Short Film: Two top warriors launch their final 
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 60 · 🔄 8 · 💬 14 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2039894982434111716) — @gkxspace (余温)
-[2] [Author page](/entities/authors/gkxspace.md)

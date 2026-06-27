@@ -59,8 +59,6 @@ GPT-5.5 自己写算法优化了自己，让 token 生成速度提升超过 20%
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 31 · 🔄 0 · 💬 13 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2047505323733529011) — @xiaohu (小互)
-[2] [Author page](/entities/authors/xiaohu.md)

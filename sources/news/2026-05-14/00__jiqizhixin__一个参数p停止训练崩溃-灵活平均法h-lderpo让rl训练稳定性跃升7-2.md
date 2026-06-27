@@ -55,8 +55,6 @@ It beats standard GRPO by 7.2% on math benchmarks (54.9% average) and hits 93.8%
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 16 · 🔄 4 · 💬 1 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2054824390039363634) — @jiqizhixin (机器之心 JIQIZHIXIN)
-[2] [Author page](/entities/authors/jiqizhixin.md)

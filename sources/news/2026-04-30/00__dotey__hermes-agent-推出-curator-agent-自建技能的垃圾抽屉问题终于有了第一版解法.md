@@ -57,10 +57,6 @@ Hermes Agent 有个“自我进化”机制，用着用着会自己创建各种�
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 21 · 🔄 2 · 💬 4 · 🔖 0 · 👁 0
-- **关联主题**: [agent-memory-optimization](/concepts/agent-memory-optimization.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2049735038560842186) — @dotey (宝玉)
-[2] [Author page](/entities/authors/dotey.md)
-[3] [Related topic](/concepts/agent-memory-optimization.md)

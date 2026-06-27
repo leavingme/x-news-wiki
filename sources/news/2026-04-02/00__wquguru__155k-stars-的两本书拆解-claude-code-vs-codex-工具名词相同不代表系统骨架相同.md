@@ -59,8 +59,6 @@ Github仓库：https://t.co/qVWdzLJP72
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 806 · 🔄 187 · 💬 10 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2039333332987810103) — @wquguru (WquGuru🦀)
-[2] [Author page](/entities/authors/wquguru.md)

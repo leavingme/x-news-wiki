@@ -66,8 +66,6 @@ star＞1 就有的拿，见者有份，给我点个赞吧！！
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 28 · 🔄 3 · 💬 16 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2067483367420080251) — @lxfater (铁锤人)
-[2] [Author page](/entities/authors/lxfater.md)

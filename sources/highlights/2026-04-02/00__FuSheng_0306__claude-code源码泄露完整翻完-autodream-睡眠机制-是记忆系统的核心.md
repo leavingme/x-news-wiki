@@ -54,10 +54,6 @@ Claude Code 51万行源码泄露，让三万帮我全翻了一遍，它说记忆
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 60 · 🔄 8 · 💬 2 · 🔖 0 · 👁 0
-- **关联主题**: [agent-memory-optimization](/concepts/agent-memory-optimization.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2039701013507240350) — @FuSheng_0306 (傅盛)
-[2] [Author page](/entities/authors/fusheng-0306.md)
-[3] [Related topic](/concepts/agent-memory-optimization.md)

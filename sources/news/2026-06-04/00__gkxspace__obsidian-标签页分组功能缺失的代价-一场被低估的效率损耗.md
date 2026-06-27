@@ -59,8 +59,6 @@ gakki：知识管理工具的竞争已从「功能多寡」转向「体验细节
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 1 · 🔄 0 · 💬 2 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2062467971344204149) — @gkxspace (余温)
-[2] [Author page](/entities/authors/gkxspace.md)

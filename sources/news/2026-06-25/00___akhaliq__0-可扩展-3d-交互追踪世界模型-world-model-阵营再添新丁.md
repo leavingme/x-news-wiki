@@ -53,10 +53,6 @@ A Scalable 3D Interaction-Trace World Model https://t.co/Mc53MLLe4z
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 101 · 🔄 12 · 💬 5 · 🔖 0 · 👁 0
-- **关联主题**: [world-model-paradigm](/concepts/world-model-paradigm.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2066927000564978054) — @_akhaliq (AK)
-[2] [Author page](/entities/authors/akhaliq.md)
-[3] [Related topic](/concepts/world-model-paradigm.md)

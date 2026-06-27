@@ -73,10 +73,6 @@ https://t.co/ILN7zatUEc
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 222 · 🔄 44 · 💬 26 · 🔖 0 · 👁 0
-- **关联主题**: [agent-tools-and-orchestration](/concepts/agent-tools-and-orchestration.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2036975150500057570) — @shao__meng (meng shao)
-[2] [Author page](/entities/authors/shao-meng.md)
-[3] [Related topic](/concepts/agent-tools-and-orchestration.md)

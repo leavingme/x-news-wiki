@@ -55,10 +55,6 @@ In this video I cover EVERYTHING Hermes, and give you a workflow that will 10x y
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 1176 · 🔄 74 · 💬 104 · 🔖 0 · 👁 0
-- **关联主题**: [hermes-agent-stability-comparison](/concepts/hermes-agent-stability-comparison.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/AlexFinn/status/2052212982579708203) — @AlexFinn (Alex Finn)
-[2] [Author page](/entities/authors/alexfinn.md)
-[3] [Related topic](/concepts/hermes-agent-stability-comparison.md)

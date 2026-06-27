@@ -59,10 +59,6 @@ gakki 锐评：这不是"AI 宣传失败"，而是叙事主体性危机——说
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 98 · 🔄 16 · 💬 22 · 🔖 0 · 👁 0
-- **关联主题**: [ai-employment-replacement-narrative](/concepts/ai-employment-replacement-narrative.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2057183190301679842) — @dotey (宝玉)
-[2] [Author page](/entities/authors/dotey.md)
-[3] [Related topic](/concepts/ai-employment-replacement-narrative.md)

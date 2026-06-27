@@ -54,8 +54,6 @@ OpenAI 的 Codex 其实一直是开源的
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 225 · 🔄 13 · 💬 19 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2039135152757153999) — @xiaohu (小互)
-[2] [Author page](/entities/authors/xiaohu.md)

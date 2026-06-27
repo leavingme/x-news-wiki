@@ -49,10 +49,6 @@ x_source: "crawler"
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 135 · 🔄 21 · 💬 1 · 🔖 0 · 👁 0
-- **关联主题**: [gstack-claude-code-workflow-os](/concepts/gstack-claude-code-workflow-os.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2049181157791531271) — @iamzhihui (志辉)
-[2] [Author page](/entities/authors/iamzhihui.md)
-[3] [Related topic](/concepts/gstack-claude-code-workflow-os.md)

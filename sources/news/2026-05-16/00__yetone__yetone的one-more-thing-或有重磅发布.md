@@ -53,8 +53,6 @@ https://t.co/7D3Xd1TR6w
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 42 · 🔄 1 · 💬 8 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2055730214798524448) — @yetone (yetone)
-[2] [Author page](/entities/authors/yetone.md)

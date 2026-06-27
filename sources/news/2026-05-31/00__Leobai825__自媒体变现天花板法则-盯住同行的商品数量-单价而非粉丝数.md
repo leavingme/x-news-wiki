@@ -49,8 +49,6 @@ gakki：这是一条被严重低估的朴素常识，却极少被系统性地说
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 0 · 🔄 0 · 💬 0 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2061124376360108438) — @Leobai825 (天策)
-[2] [Author page](/entities/authors/leobai825.md)

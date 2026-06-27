@@ -53,8 +53,6 @@ x_source: "crawler"
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 498 · 🔄 69 · 💬 87 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/1904050671609155738) — @Yonah_x (汉松)
-[2] [Author page](/entities/authors/yonah-x.md)

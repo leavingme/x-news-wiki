@@ -63,10 +63,6 @@ https://t.co/kWGXzzNsQ8
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 2 · 🔄 1 · 💬 4 · 🔖 0 · 👁 0
-- **关联主题**: [ai-content-entrepreneurship](/concepts/ai-content-entrepreneurship.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2069381452706582969) — @gkxspace (余温)
-[2] [Author page](/entities/authors/gkxspace.md)
-[3] [Related topic](/concepts/ai-content-entrepreneurship.md)

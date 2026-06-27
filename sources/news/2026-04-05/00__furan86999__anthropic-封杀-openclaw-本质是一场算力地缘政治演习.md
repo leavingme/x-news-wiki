@@ -64,8 +64,6 @@ AI和加密的融合还在早期，现在更像是“能跑，但不稳”。可
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 40 · 🔄 0 · 💬 32 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2040691140924723291) — @furan86999 (furan)
-[2] [Author page](/entities/authors/furan86999.md)

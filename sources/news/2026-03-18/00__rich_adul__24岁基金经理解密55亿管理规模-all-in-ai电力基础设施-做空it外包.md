@@ -75,8 +75,6 @@ x_source: "bookmark"
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 509 · 🔄 117 · 💬 26 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2029386980728160400) — @rich_adul (Adul)
-[2] [Author page](/entities/authors/rich-adul.md)

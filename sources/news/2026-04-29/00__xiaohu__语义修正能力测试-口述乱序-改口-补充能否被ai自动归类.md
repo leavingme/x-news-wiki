@@ -57,10 +57,6 @@ gakki：口述修正测试比标准Benchmark更能暴露模型的真实推理深
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 0 · 🔄 0 · 💬 1 · 🔖 0 · 👁 0
-- **关联主题**: [ai-voice-transcription-breakthrough](/concepts/ai-voice-transcription-breakthrough.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2049332882154598605) — @xiaohu (小互)
-[2] [Author page](/entities/authors/xiaohu.md)
-[3] [Related topic](/concepts/ai-voice-transcription-breakthrough.md)

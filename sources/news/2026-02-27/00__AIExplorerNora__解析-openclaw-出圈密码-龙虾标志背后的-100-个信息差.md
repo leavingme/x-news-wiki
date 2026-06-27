@@ -49,8 +49,6 @@ OpenClaw到底凭什么火出圈？
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 3 · 🔄 2 · 💬 0 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2027186715249590552) — @AIExplorerNora (AI碎碎念)
-[2] [Author page](/entities/authors/aiexplorernora.md)

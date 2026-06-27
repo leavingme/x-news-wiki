@@ -54,8 +54,6 @@ By pulling 4o, 4.1, and 5.1 offline and forcing users onto sterile, hyper-conser
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 241 · 🔄 45 · 💬 3 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2028863259743502799) — @vailisF (頻率偏移)
-[2] [Author page](/entities/authors/vailisf.md)

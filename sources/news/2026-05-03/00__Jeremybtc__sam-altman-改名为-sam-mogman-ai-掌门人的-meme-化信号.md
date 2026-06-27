@@ -50,8 +50,6 @@ Humanity is so cooked https://t.co/zvLf1qBBXz
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 238 · 🔄 9 · 💬 121 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/Jeremybtc/status/2050685920366772732) — @Jeremybtc (Jeremy)
-[2] [Author page](/entities/authors/jeremybtc.md)

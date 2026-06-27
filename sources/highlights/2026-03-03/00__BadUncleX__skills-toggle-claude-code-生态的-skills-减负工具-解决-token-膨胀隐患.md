@@ -74,10 +74,6 @@ GitHub: https://t.co/vtFGkOLzMR
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 12 · 🔄 1 · 💬 3 · 🔖 0 · 👁 0
-- **关联主题**: [claude-code-ecosystem](/concepts/claude-code-ecosystem.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2028506485387649151) — @BadUncleX (BadUncle)
-[2] [Author page](/entities/authors/badunclex.md)
-[3] [Related topic](/concepts/claude-code-ecosystem.md)

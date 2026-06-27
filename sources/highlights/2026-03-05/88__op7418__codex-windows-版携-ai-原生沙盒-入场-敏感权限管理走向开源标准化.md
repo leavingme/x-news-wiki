@@ -55,10 +55,6 @@ Codex Windows APP 终于发布了
 - **精选类别**: ✨ 亮点
 - **优先级**: 88
 - **互动**: ❤️ 54 · 🔄 7 · 💬 6 · 🔖 0 · 👁 0
-- **关联主题**: [claude-code-ecosystem](/concepts/claude-code-ecosystem.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2029365178685636899) — @op7418 (歸藏(guizang.ai))
-[2] [Author page](/entities/authors/op7418.md)
-[3] [Related topic](/concepts/claude-code-ecosystem.md)

@@ -66,8 +66,6 @@ It now sets a new state-of-the-art for open models in reasoning, coding, and age
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 9 · 🔄 0 · 💬 1 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2047924239249121561) — @jiqizhixin (机器之心 JIQIZHIXIN)
-[2] [Author page](/entities/authors/jiqizhixin.md)

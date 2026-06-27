@@ -60,8 +60,6 @@ Slack 客服辩解说，我给你们这些企业都发过邮件啊…
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 86 · 🔄 6 · 💬 12 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2039845212407959688) — @oran_ge (Orange AI)
-[2] [Author page](/entities/authors/oran-ge.md)

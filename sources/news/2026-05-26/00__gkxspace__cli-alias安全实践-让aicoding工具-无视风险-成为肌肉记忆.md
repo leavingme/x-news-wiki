@@ -62,8 +62,6 @@ alias rm='trash'
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 1 · 🔄 0 · 💬 3 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2059231824707236114) — @gkxspace (余温)
-[2] [Author page](/entities/authors/gkxspace.md)

@@ -70,8 +70,6 @@ codex-cli 0.133.0-alpha.1
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 4 · 🔄 0 · 💬 1 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2059308981584302598) — @Zesee (Rachel🥥)
-[2] [Author page](/entities/authors/zesee.md)

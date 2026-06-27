@@ -49,10 +49,6 @@ gakki：德州扑克是 AGI 试金石——能在这上面赢钱的 Agent，才�
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 4 · 🔄 0 · 💬 2 · 🔖 0 · 👁 0
-- **关联主题**: [ai-agent-self-sustaining-business](/concepts/ai-agent-self-sustaining-business.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2059989730612441155) — @yetone (yetone)
-[2] [Author page](/entities/authors/yetone.md)
-[3] [Related topic](/concepts/ai-agent-self-sustaining-business.md)

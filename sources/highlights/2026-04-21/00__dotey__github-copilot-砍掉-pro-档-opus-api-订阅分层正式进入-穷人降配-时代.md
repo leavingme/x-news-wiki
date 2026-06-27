@@ -75,8 +75,6 @@ GitHub 给了台阶：对这些改动不满意的用户，4 月 20 日到 5 月 
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 67 · 🔄 4 · 💬 33 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2046410238627070420) — @dotey (宝玉)
-[2] [Author page](/entities/authors/dotey.md)

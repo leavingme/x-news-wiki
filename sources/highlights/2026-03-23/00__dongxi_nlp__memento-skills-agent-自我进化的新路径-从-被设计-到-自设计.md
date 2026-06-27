@@ -52,10 +52,6 @@ x_source: "crawler"
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 67 · 🔄 11 · 💬 3 · 🔖 0 · 👁 0
-- **关联主题**: [skill-vs-mcp-paradigm](/concepts/skill-vs-mcp-paradigm.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2035840197074571696) — @dongxi_nlp (马东锡 NLP)
-[2] [Author page](/entities/authors/dongxi-nlp.md)
-[3] [Related topic](/concepts/skill-vs-mcp-paradigm.md)

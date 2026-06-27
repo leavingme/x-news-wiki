@@ -67,8 +67,6 @@ Google DeepMind 放大招！Gemma 4 正式开源了🚀
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 47 · 🔄 8 · 💬 0 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2039736979219464246) — @berryxia (Berryxia.AI)
-[2] [Author page](/entities/authors/berryxia.md)

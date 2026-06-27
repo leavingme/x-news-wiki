@@ -55,8 +55,6 @@ Oh and one more thing — we're giving devs & creators 100T tokens on us. Go bui
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 2710 · 🔄 261 · 💬 176 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/_LuoFuli/status/2048851054662762618) — @_LuoFuli (Fuli Luo)
-[2] [Author page](/entities/authors/luofuli.md)

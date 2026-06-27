@@ -50,10 +50,6 @@ gakki 锐评：这恰恰是Agent最该啃的硬骨头——把人类无法言说
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 25 · 🔄 0 · 💬 10 · 🔖 0 · 👁 0
-- **关联主题**: [ai-crypto-agent-infra](/concepts/ai-crypto-agent-infra.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2034930364331040968) — @CryptoPainter (Crypto_Painter)
-[2] [Author page](/entities/authors/cryptopainter.md)
-[3] [Related topic](/concepts/ai-crypto-agent-infra.md)

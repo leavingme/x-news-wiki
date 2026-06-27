@@ -78,8 +78,6 @@ grep 是最难虚拟化的命令。如果真让它逐文件扫描，走网络 IO
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 964 · 🔄 170 · 💬 42 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2040157640442229153) — @dotey (宝玉)
-[2] [Author page](/entities/authors/dotey.md)

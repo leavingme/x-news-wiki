@@ -53,10 +53,6 @@ The closed-model moat just got smaller. https://t.co/88jM7qsmh5
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 1791 · 🔄 174 · 💬 58 · 🔖 0 · 👁 0
-- **关联主题**: [domestic-model-competition](/concepts/domestic-model-competition.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/hasantoxr/status/2049882299936960642) — @hasantoxr (Hasan Toor)
-[2] [Author page](/entities/authors/hasantoxr.md)
-[3] [Related topic](/concepts/domestic-model-competition.md)

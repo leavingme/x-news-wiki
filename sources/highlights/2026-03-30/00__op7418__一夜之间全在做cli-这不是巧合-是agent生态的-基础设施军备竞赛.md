@@ -49,10 +49,6 @@ gakki：CLI军备竞赛背后是「谁定义接口，谁定义规则」的权力
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 555 · 🔄 134 · 💬 23 · 🔖 0 · 👁 0
-- **关联主题**: [agent-native-paradigm](/concepts/agent-native-paradigm.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2038450054688915868) — @op7418 (歸藏(guizang.ai))
-[2] [Author page](/entities/authors/op7418.md)
-[3] [Related topic](/concepts/agent-native-paradigm.md)

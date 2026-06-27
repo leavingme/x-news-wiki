@@ -48,8 +48,6 @@ x_source: "crawler"
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 11 · 🔄 1 · 💬 0 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2024939141717524525) — @134340molly (134340molly🦊💛)
-[2] [Author page](/entities/authors/134340molly.md)

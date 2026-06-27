@@ -52,10 +52,6 @@ Orange AI 把钉钉 AI 的 20 个实战用法切片收敛为 1 个可复用 skil
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 9 · 🔄 2 · 💬 2 · 🔖 0 · 👁 0
-- **关联主题**: [enterprise-agent-product](/concepts/enterprise-agent-product.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2066312839594389557) — @oran_ge (Orange AI)
-[2] [Author page](/entities/authors/oran-ge.md)
-[3] [Related topic](/concepts/enterprise-agent-product.md)

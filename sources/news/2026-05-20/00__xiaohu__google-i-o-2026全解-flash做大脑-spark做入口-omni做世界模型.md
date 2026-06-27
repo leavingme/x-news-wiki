@@ -60,10 +60,6 @@ Gemini Omni：多模态世界模型雏形 https://t.co/5c03ViwgFB
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 30 · 🔄 5 · 💬 5 · 🔖 0 · 👁 0
-- **关联主题**: [gemini-desktop-super-app-integration](/concepts/gemini-desktop-super-app-integration.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2056886402785411247) — @xiaohu (小互)
-[2] [Author page](/entities/authors/xiaohu.md)
-[3] [Related topic](/concepts/gemini-desktop-super-app-integration.md)

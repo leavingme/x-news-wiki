@@ -52,10 +52,6 @@ QQ 这次的改动真不错，只需要一步就可以获取到需要的 ID
 - **精选类别**: ✨ 亮点
 - **优先级**: 82
 - **互动**: ❤️ 94 · 🔄 19 · 💬 16 · 🔖 0 · 👁 0
-- **关联主题**: [agent-multi-platform](/concepts/agent-multi-platform.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2030317806689120577) — @op7418 (歸藏(guizang.ai))
-[2] [Author page](/entities/authors/op7418.md)
-[3] [Related topic](/concepts/agent-multi-platform.md)

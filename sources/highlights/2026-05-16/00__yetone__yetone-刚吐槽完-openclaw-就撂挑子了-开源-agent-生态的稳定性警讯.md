@@ -52,10 +52,6 @@ yetone 是 OpenClaw 生态的重要声音（@chenglou），他的「刚吐槽完
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 22 · 🔄 0 · 💬 3 · 🔖 0 · 👁 0
-- **关联主题**: [hermes-agent-stability-comparison](/concepts/hermes-agent-stability-comparison.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2055712942444941626) — @yetone (yetone)
-[2] [Author page](/entities/authors/yetone.md)
-[3] [Related topic](/concepts/hermes-agent-stability-comparison.md)

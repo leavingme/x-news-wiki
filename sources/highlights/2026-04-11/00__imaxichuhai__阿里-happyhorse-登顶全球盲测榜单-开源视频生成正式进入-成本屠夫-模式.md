@@ -55,10 +55,6 @@ Seedance 出道才没几个月，就要被拍死在沙滩上了。AI视频赛道
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 155 · 🔄 27 · 💬 14 · 🔖 0 · 👁 0
-- **关联主题**: [open-source-video-generation-leap](/concepts/open-source-video-generation-leap.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2042068830764359887) — @imaxichuhai (阿西_出海（2.0版）)
-[2] [Author page](/entities/authors/imaxichuhai.md)
-[3] [Related topic](/concepts/open-source-video-generation-leap.md)

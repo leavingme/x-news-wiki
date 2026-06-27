@@ -66,8 +66,6 @@ Browser Use CLI 2.0 是一个很关键的方向信号：未来很多自动化，
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 183 · 🔄 43 · 💬 10 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2035944377336439098) — @sitinme (sitin)
-[2] [Author page](/entities/authors/sitinme.md)

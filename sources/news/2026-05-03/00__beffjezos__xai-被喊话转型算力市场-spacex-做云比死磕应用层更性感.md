@@ -50,10 +50,6 @@ Turning SpaceX into a cloud provider makes more sense than trying to vertically 
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 412 · 🔄 19 · 💬 56 · 🔖 0 · 👁 0
-- **关联主题**: [compute-airbnb-arbitrage](/concepts/compute-airbnb-arbitrage.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/beffjezos/status/2050989390659223677) — @beffjezos (Beff (e/acc))
-[2] [Author page](/entities/authors/beffjezos.md)
-[3] [Related topic](/concepts/compute-airbnb-arbitrage.md)

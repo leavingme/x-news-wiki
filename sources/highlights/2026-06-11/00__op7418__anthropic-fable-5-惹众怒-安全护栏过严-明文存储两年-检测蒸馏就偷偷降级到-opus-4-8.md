@@ -79,10 +79,6 @@ Mythos 和 Fable 模型的数据是明文储存且强制储存的，最高期限
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 31 · 🔄 0 · 💬 11 · 🔖 0 · 👁 0
-- **关联主题**: [ai-shrinkflation-opus-degradation](/concepts/ai-shrinkflation-opus-degradation.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2064909864867074294) — @op7418 (歸藏(guizang.ai))
-[2] [Author page](/entities/authors/op7418.md)
-[3] [Related topic](/concepts/ai-shrinkflation-opus-degradation.md)

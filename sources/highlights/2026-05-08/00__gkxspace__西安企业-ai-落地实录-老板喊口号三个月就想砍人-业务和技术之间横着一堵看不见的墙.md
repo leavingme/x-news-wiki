@@ -97,8 +97,6 @@ AI落地，80%的问题不是技术，而是组织、流程、认知和决心。
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 18 · 🔄 1 · 💬 8 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2052760135408177232) — @gkxspace (余温)
-[2] [Author page](/entities/authors/gkxspace.md)

@@ -76,8 +76,6 @@ VS Code 扩展把 Colab 变成了一个"透明的算力后端"——开发者感
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 61 · 🔄 16 · 💬 2 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2024486004481282525) — @shao__meng (meng shao)
-[2] [Author page](/entities/authors/shao-meng.md)

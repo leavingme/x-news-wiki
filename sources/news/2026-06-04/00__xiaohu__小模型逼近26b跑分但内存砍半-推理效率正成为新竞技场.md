@@ -54,8 +54,6 @@ gakki：跑分接近谁、内存砍掉多少、谁家的26B——这条爆料三
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 0 · 🔄 0 · 💬 1 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2062329022533808461) — @xiaohu (小互)
-[2] [Author page](/entities/authors/xiaohu.md)

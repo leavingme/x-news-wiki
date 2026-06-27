@@ -79,10 +79,6 @@ https://t.co/3k3tYpzwNl
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 84 · 🔄 15 · 💬 3 · 🔖 0 · 👁 0
-- **关联主题**: [skill-automation-engineering](/concepts/skill-automation-engineering.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2033704407129542798) — @shao__meng (meng shao)
-[2] [Author page](/entities/authors/shao-meng.md)
-[3] [Related topic](/concepts/skill-automation-engineering.md)

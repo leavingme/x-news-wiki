@@ -59,10 +59,6 @@ Not life-changing money yet, but it's deeply exciting to live out Sam Altman's v
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 3115 · 🔄 155 · 💬 258 · 🔖 0 · 👁 0
-- **关联主题**: [ai-agent-self-sustaining-business](/concepts/ai-agent-self-sustaining-business.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/chatgpt21/status/2053556436475461786) — @chatgpt21 (Chris)
-[2] [Author page](/entities/authors/chatgpt21.md)
-[3] [Related topic](/concepts/ai-agent-self-sustaining-business.md)

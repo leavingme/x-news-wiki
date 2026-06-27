@@ -58,8 +58,6 @@ x_source: "crawler"
 - **精选类别**: 📰 头条
 - **优先级**: 88
 - **互动**: ❤️ 347 · 🔄 32 · 💬 20 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2031532920645562387) — @lidangzzz (lidang 立党 （全网劝人卖房、劝人学CS、劝人买SP500和NASDAQ100第一人）)
-[2] [Author page](/entities/authors/lidangzzz.md)

@@ -61,10 +61,6 @@ x_source: "crawler"
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 37 · 🔄 0 · 💬 10 · 🔖 0 · 👁 0
-- **关联主题**: [ai-crypto-agent-infra](/concepts/ai-crypto-agent-infra.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2033585906326900928) — @OKX_Yuki (Yuki)
-[2] [Author page](/entities/authors/okx-yuki.md)
-[3] [Related topic](/concepts/ai-crypto-agent-infra.md)

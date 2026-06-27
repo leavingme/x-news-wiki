@@ -60,10 +60,6 @@ https://t.co/I7J95DhtFJ
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 165 · 🔄 28 · 💬 4 · 🔖 0 · 👁 0
-- **关联主题**: [personal-knowledge-management-ai](/concepts/personal-knowledge-management-ai.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2041869167511662968) — @QingQ77 (Geek Lite)
-[2] [Author page](/entities/authors/qingq77.md)
-[3] [Related topic](/concepts/personal-knowledge-management-ai.md)

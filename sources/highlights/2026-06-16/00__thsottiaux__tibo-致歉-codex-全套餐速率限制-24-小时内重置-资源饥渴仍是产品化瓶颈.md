@@ -52,8 +52,6 @@ Give us 24 hours to reset the Codex rate limits across all plans.
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 4004 · 🔄 135 · 💬 400 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/thsottiaux/status/2066956441173323943) — @thsottiaux (Tibo)
-[2] [Author page](/entities/authors/thsottiaux.md)

@@ -51,8 +51,6 @@ wx-cli 已GG，卡比的 cli 宇宙阵亡一个。 https://t.co/560kPi72Br
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 4 · 🔄 0 · 💬 7 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2056312757155512756) — @vista8 (向阳乔木)
-[2] [Author page](/entities/authors/vista8.md)

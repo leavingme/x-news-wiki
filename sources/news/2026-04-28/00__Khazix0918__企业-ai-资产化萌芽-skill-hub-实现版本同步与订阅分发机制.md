@@ -106,8 +106,6 @@ AI Hot 很快上线，希望能帮到大家，哪怕一点点！！
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 6 · 🔄 0 · 💬 1 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2049066945677566074) — @Khazix0918 (数字生命卡兹克)
-[2] [Author page](/entities/authors/khazix0918.md)

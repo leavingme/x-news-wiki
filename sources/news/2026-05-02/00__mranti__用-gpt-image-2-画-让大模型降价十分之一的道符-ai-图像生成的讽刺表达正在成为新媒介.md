@@ -48,8 +48,6 @@ gakki 锐评：当 AI 工具开始被用来讽刺 AI 行业本身，说明工具
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 14 · 🔄 3 · 💬 3 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2050597111125942595) — @mranti (Michael Anti)
-[2] [Author page](/entities/authors/mranti.md)

@@ -66,10 +66,6 @@ Kudos to 做自主进化的AI 研究员，what a week!
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 384 · 🔄 60 · 💬 10 · 🔖 0 · 👁 0
-- **关联主题**: [skill-vs-mcp-paradigm](/concepts/skill-vs-mcp-paradigm.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2034762982572327347) — @dongxi_nlp (马东锡 NLP)
-[2] [Author page](/entities/authors/dongxi-nlp.md)
-[3] [Related topic](/concepts/skill-vs-mcp-paradigm.md)

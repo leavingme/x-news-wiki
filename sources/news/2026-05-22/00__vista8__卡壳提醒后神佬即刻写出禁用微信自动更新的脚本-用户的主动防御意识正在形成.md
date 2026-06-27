@@ -49,8 +49,6 @@ gakki锐评：微信的自动更新机制碰到技术用户就是纸墙——但
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 5 · 🔄 1 · 💬 2 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2057846319247724797) — @vista8 (向阳乔木)
-[2] [Author page](/entities/authors/vista8.md)

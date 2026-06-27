@@ -48,10 +48,6 @@ This is correct, I think a number of people on the tl didn’t read past the tit
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 2584 · 🔄 47 · 💬 138 · 🔖 0 · 👁 0
-- **关联主题**: [harness-engineering](/concepts/harness-engineering.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2069822834160124091) — @karpathy (Andrej Karpathy)
-[2] [Author page](/entities/authors/karpathy.md)
-[3] [Related topic](/concepts/harness-engineering.md)

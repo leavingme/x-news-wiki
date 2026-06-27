@@ -65,8 +65,6 @@ GitHub：https://t.co/ICuYokNHwN
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 72 · 🔄 12 · 💬 3 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2033677804676764049) — @berryxia (Berryxia.AI)
-[2] [Author page](/entities/authors/berryxia.md)

@@ -56,8 +56,6 @@ gakki：黄仁勋说的是实话，但这话从商人的嘴里说出来，分量
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 53 · 🔄 13 · 💬 8 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2045267645469962341) — @AsiaFinance (亚洲金融 Asia Finance)
-[2] [Author page](/entities/authors/asiafinance.md)

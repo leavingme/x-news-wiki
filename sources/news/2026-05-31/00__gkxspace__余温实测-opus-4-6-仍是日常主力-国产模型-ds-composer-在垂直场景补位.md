@@ -51,8 +51,6 @@ gakki：余温的选型代表了一批务实开发者——不是追新，而是
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 0 · 🔄 0 · 💬 2 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2060983308486406162) — @gkxspace (余温)
-[2] [Author page](/entities/authors/gkxspace.md)

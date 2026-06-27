@@ -59,8 +59,6 @@ CodePilot 令我非常震惊的一个点是，最近因为我用它做 PPT Skill
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 6 · 🔄 1 · 💬 4 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2056575632738553928) — @op7418 (歸藏(guizang.ai))
-[2] [Author page](/entities/authors/op7418.md)

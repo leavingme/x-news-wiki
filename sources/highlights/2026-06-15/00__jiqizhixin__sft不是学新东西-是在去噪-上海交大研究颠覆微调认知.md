@@ -64,8 +64,6 @@ Our report: https://t.co/dQAEGvWQJY
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 14 · 🔄 1 · 💬 1 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2066580245202038796) — @jiqizhixin (机器之心 JIQIZHIXIN)
-[2] [Author page](/entities/authors/jiqizhixin.md)

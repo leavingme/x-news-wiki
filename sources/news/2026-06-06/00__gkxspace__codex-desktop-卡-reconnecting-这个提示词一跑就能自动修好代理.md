@@ -59,8 +59,6 @@ HTTPS_PROXY="http://127.0.0.1:<HTTP 或 mixed 端口>"
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 24 · 🔄 2 · 💬 6 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2063167368390377517) — @gkxspace (余温)
-[2] [Author page](/entities/authors/gkxspace.md)

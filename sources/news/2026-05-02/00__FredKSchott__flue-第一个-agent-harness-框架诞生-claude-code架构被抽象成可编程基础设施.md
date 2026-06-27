@@ -60,8 +60,6 @@ Check it out! It's early, but I'm curious to hear what people think. Are agents 
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 2845 · 🔄 251 · 💬 136 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/FredKSchott/status/2050274923852210397) — @FredKSchott (fks)
-[2] [Author page](/entities/authors/fredkschott.md)

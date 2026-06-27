@@ -70,10 +70,6 @@ https://t.co/iESaDh20ha
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 8 · 🔄 0 · 💬 3 · 🔖 0 · 👁 0
-- **关联主题**: [agent-lego-composable-toolchain](/concepts/agent-lego-composable-toolchain.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2068307221847449985) — @gkxspace (余温)
-[2] [Author page](/entities/authors/gkxspace.md)
-[3] [Related topic](/concepts/agent-lego-composable-toolchain.md)

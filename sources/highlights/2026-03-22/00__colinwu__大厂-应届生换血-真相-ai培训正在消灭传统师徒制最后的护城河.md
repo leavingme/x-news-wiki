@@ -52,8 +52,6 @@ x_source: "crawler"
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 273 · 🔄 9 · 💬 58 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2035581314934739210) — @colinwu (Colin Wu)
-[2] [Author page](/entities/authors/colinwu.md)

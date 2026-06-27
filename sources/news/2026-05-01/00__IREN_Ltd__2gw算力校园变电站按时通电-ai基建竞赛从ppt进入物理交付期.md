@@ -55,10 +55,6 @@ Learn more: https://t.co/Bo0tSv67jM
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 1490 · 🔄 246 · 💬 98 · 🔖 0 · 👁 0
-- **关联主题**: [ai-energy-infrastructure](/concepts/ai-energy-infrastructure.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/IREN_Ltd/status/2050318504168198319) — @IREN_Ltd (IREN)
-[2] [Author page](/entities/authors/iren-ltd.md)
-[3] [Related topic](/concepts/ai-energy-infrastructure.md)

@@ -48,8 +48,6 @@ Pi 的锐评：OpenClaw 不只是个工具，它是块试金石。搞得清楚 C
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 168 · 🔄 18 · 💬 45 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2019234405987102872) — @mranti (Michael Anti)
-[2] [Author page](/entities/authors/mranti.md)

@@ -54,8 +54,6 @@ Superset 有个很好的地方是终端 session 是跑在一个后台 daemon 里
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 91 · 🔄 13 · 💬 1 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2035229908134502833) — @laogui (老鬼)
-[2] [Author page](/entities/authors/laogui.md)

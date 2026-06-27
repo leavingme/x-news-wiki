@@ -67,8 +67,6 @@ Claude 最近特么几乎是天天都在发布
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 88 · 🔄 12 · 💬 14 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2045174490288795842) — @xiaohu (小互)
-[2] [Author page](/entities/authors/xiaohu.md)

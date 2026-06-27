@@ -45,8 +45,6 @@ Binance’s mission is to create a more inclusive financial system. https://t.co
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 569 · 🔄 108 · 💬 164 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/binance/status/2052644707079962833) — @binance (Binance)
-[2] [Author page](/entities/authors/binance.md)

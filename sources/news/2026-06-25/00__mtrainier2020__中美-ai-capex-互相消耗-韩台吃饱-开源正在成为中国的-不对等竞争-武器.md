@@ -79,8 +79,6 @@ openai和ds，zai相互持股，搞成一个托拉斯。咱一起割韭菜去吧
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 434 · 🔄 39 · 💬 103 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2069500463259738195) — @mtrainier2020 (Rainier)
-[2] [Author page](/entities/authors/mtrainier2020.md)

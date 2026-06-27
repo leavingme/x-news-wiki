@@ -51,8 +51,6 @@ Hermes scraped the internet for answers and added them to our docs as inspiratio
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 1417 · 🔄 93 · 💬 61 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/NousResearch/status/2052140057222369541) — @NousResearch (Nous Research)
-[2] [Author page](/entities/authors/nousresearch.md)

@@ -51,8 +51,6 @@ AI大神杨立昆看到ICE视频后，怒骂纳粹。
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 54 · 🔄 0 · 💬 6 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2017994629501653421) — @ji_chunsheng (紀春生)
-[2] [Author page](/entities/authors/ji-chunsheng.md)

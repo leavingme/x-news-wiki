@@ -63,10 +63,6 @@ gakki：一个做知识解读的工具，在没有多少用户的时候就拿到
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 3 · 🔄 0 · 💬 1 · 🔖 0 · 👁 0
-- **关联主题**: [personal-knowledge-management-ai](/concepts/personal-knowledge-management-ai.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2054593456547438613) — @vista8 (向阳乔木)
-[2] [Author page](/entities/authors/vista8.md)
-[3] [Related topic](/concepts/personal-knowledge-management-ai.md)

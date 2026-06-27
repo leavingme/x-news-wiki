@@ -52,8 +52,6 @@ https://t.co/3U3yns52sv https://t.co/zJf1klN9yY
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 267 · 🔄 28 · 💬 16 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2070374692406309213) — @levelsio (@levelsio)
-[2] [Author page](/entities/authors/levelsio.md)

@@ -54,10 +54,6 @@ https://t.co/ItZKhDzZih
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 91 · 🔄 7 · 💬 52 · 🔖 0 · 👁 0
-- **关联主题**: [vibe-coding-methodology](/concepts/vibe-coding-methodology.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2055470006679302261) — @dotey (宝玉)
-[2] [Author page](/entities/authors/dotey.md)
-[3] [Related topic](/concepts/vibe-coding-methodology.md)

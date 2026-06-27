@@ -70,10 +70,6 @@ AgentPay SDK的出现，意味着AI Agent的“动手能力”有了质的飞跃
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 9 · 🔄 7 · 💬 1 · 🔖 0 · 👁 0
-- **关联主题**: [ai-crypto-agent-infra](/concepts/ai-crypto-agent-infra.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2034849682787377166) — @uniswap12 (唐华斑竹🦅)
-[2] [Author page](/entities/authors/uniswap12.md)
-[3] [Related topic](/concepts/ai-crypto-agent-infra.md)

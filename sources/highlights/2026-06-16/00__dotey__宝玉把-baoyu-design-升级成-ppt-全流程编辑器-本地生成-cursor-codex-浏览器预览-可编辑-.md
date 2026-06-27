@@ -53,10 +53,6 @@ https://t.co/POuwOWSuwe https://t.co/mue0xL9WTR
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 1 · 🔄 0 · 💬 0 · 🔖 0 · 👁 0
-- **关联主题**: [claude-design-tool](/concepts/claude-design-tool.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2066736451404923109) — @dotey (宝玉)
-[2] [Author page](/entities/authors/dotey.md)
-[3] [Related topic](/concepts/claude-design-tool.md)

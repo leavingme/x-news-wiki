@@ -49,10 +49,6 @@ Computer Use 已经做好了，但是 Codex 作为 Computer Use Harness 还没�
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 43 · 🔄 0 · 💬 8 · 🔖 0 · 👁 0
-- **关联主题**: [agent-tools-and-orchestration](/concepts/agent-tools-and-orchestration.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2047604905121382474) — @yetone (yetone)
-[2] [Author page](/entities/authors/yetone.md)
-[3] [Related topic](/concepts/agent-tools-and-orchestration.md)

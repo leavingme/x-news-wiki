@@ -61,10 +61,6 @@ Paper：https://t.co/gJsplYARSG
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 9 · 🔄 0 · 💬 1 · 🔖 0 · 👁 0
-- **关联主题**: [world-model-paradigm](/concepts/world-model-paradigm.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2069688035097129217) — @jiqizhixin (机器之心 JIQIZHIXIN)
-[2] [Author page](/entities/authors/jiqizhixin.md)
-[3] [Related topic](/concepts/world-model-paradigm.md)

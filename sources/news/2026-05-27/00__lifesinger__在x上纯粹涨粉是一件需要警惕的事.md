@@ -56,8 +56,6 @@ gakki：中文技术社区的内容质量下降，很大程度上是因为「涨
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 8 · 🔄 0 · 💬 11 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2059657136171630605) — @lifesinger (Frank Wang 玉伯)
-[2] [Author page](/entities/authors/lifesinger.md)

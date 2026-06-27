@@ -79,8 +79,6 @@ D. 交易复盘 & 风控建议
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 27 · 🔄 6 · 💬 7 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2021902619665641954) — @MGBX_ZH (MGBX 中文)
-[2] [Author page](/entities/authors/mgbx-zh.md)

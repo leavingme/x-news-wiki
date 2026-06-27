@@ -142,8 +142,6 @@ AI默认没有系统权限，
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 118 · 🔄 20 · 💬 4 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2038226939861774580) — @Zenzhe99 (梓哲悟语 | Zenzhe)
-[2] [Author page](/entities/authors/zenzhe99.md)

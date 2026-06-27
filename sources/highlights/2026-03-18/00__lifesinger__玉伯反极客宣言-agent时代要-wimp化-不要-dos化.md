@@ -60,10 +60,6 @@ Agent 更像人，人喜欢的，终究也会变成 Agent 更喜欢
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 90 · 🔄 4 · 💬 21 · 🔖 0 · 👁 0
-- **关联主题**: [agent-native-paradigm](/concepts/agent-native-paradigm.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2033903892430536883) — @lifesinger (Frank Wang 玉伯)
-[2] [Author page](/entities/authors/lifesinger.md)
-[3] [Related topic](/concepts/agent-native-paradigm.md)

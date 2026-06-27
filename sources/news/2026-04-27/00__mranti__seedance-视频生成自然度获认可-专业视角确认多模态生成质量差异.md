@@ -49,8 +49,6 @@ gakki：Seedance 的自然度口碑正在从技术圈向创作者圈渗透，这
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 2 · 🔄 0 · 💬 1 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2048794177924948043) — @mranti (Michael Anti)
-[2] [Author page](/entities/authors/mranti.md)

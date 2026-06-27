@@ -62,10 +62,6 @@ https://t.co/3BGy40lBnd
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 0 · 🔄 0 · 💬 0 · 🔖 0 · 👁 0
-- **关联主题**: [robot-phone-consumer-embodied-ai](/concepts/robot-phone-consumer-embodied-ai.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2057180625581572571) — @xiaohu (小互)
-[2] [Author page](/entities/authors/xiaohu.md)
-[3] [Related topic](/concepts/robot-phone-consumer-embodied-ai.md)

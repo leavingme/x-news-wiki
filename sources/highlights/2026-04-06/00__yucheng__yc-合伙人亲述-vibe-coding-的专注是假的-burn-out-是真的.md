@@ -59,8 +59,6 @@ YC (Yucheng) 披露了一个反直觉的观察：开十几个 Claude Code sessio
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 162 · 🔄 1 · 💬 41 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2039853939210748106) — @yucheng (YC (Yucheng))
-[2] [Author page](/entities/authors/yucheng.md)

@@ -62,8 +62,6 @@ gakki：听起来很深刻，但这个方法的边界是——它需要足够的
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 12 · 🔄 0 · 💬 6 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2059205495752135123) — @Leobai825 (天策)
-[2] [Author page](/entities/authors/leobai825.md)

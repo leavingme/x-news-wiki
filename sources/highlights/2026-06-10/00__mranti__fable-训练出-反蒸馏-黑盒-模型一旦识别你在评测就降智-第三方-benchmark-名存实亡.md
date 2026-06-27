@@ -48,10 +48,6 @@ x_source: "crawler"
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 60 · 🔄 4 · 💬 6 · 🔖 0 · 👁 0
-- **关联主题**: [ai-distillation-ethics](/concepts/ai-distillation-ethics.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2064586964347895924) — @mranti (Michael Anti)
-[2] [Author page](/entities/authors/mranti.md)
-[3] [Related topic](/concepts/ai-distillation-ethics.md)

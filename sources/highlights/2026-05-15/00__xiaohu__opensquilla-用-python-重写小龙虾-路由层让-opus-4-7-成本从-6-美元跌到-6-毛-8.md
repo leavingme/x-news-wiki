@@ -73,10 +73,6 @@ gakki：这是第一个把「模型路由」做成生产级开源方案的案例
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 16 · 🔄 2 · 💬 6 · 🔖 0 · 👁 0
-- **关联主题**: [ai-agent-self-sustaining-business](/concepts/ai-agent-self-sustaining-business.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2055299820215300380) — @xiaohu (小互)
-[2] [Author page](/entities/authors/xiaohu.md)
-[3] [Related topic](/concepts/ai-agent-self-sustaining-business.md)

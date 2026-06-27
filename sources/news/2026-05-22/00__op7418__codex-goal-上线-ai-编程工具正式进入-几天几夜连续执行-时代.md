@@ -74,8 +74,6 @@ Codex 昨晚发布史诗级更新，体验爆炸提升！
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 119 · 🔄 20 · 💬 26 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2057678002675413057) — @op7418 (歸藏(guizang.ai))
-[2] [Author page](/entities/authors/op7418.md)

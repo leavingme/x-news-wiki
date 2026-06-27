@@ -57,8 +57,6 @@ MCP 插件装好之后，AI Agent 马上就能"看到"和"操作"这些东西，
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 3 · 🔄 0 · 💬 1 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2067430289920643301) — @xiaohu (小互)
-[2] [Author page](/entities/authors/xiaohu.md)

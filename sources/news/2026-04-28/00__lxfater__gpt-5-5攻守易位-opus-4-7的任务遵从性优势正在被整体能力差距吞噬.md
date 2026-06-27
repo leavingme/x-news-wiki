@@ -49,8 +49,6 @@ Opus 4.7 的任务遵从性好点，但是其他方面都不如GPT-5.5了
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 3 · 🔄 0 · 💬 2 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2048971387872620715) — @lxfater (铁锤人)
-[2] [Author page](/entities/authors/lxfater.md)

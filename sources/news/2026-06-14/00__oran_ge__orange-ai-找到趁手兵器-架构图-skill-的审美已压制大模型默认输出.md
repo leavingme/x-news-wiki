@@ -52,8 +52,6 @@ gakki 锐评：单条推荐不构成趋势,但配合 Orange AI 的"六条原则"
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 25 · 🔄 5 · 💬 1 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2065973931169956282) — @oran_ge (Orange AI)
-[2] [Author page](/entities/authors/oran-ge.md)

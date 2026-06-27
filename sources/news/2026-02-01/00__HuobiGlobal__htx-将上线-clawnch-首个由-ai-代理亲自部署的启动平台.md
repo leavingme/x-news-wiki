@@ -51,8 +51,6 @@ HTX公告将上线 $CLAWNCH (CLAWNCH)
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 65 · 🔄 15 · 💬 18 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2017927644596126188) — @HuobiGlobal (火币HTX)
-[2] [Author page](/entities/authors/huobiglobal.md)

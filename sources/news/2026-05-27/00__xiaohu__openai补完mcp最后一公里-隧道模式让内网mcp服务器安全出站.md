@@ -72,8 +72,6 @@ OpenAI 的解法：反过来，不让外面进来，让里面主动出去
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 2 · 🔄 0 · 💬 1 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2059708948085932386) — @xiaohu (小互)
-[2] [Author page](/entities/authors/xiaohu.md)

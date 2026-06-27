@@ -93,8 +93,6 @@ Claude掌舵人Dario最近说：
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 341 · 🔄 115 · 💬 14 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2039316422107795865) — @DtDt666 (看不懂的SOL)
-[2] [Author page](/entities/authors/dtdt666.md)

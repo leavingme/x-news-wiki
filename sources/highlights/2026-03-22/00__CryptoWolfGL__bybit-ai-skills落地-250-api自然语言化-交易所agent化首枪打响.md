@@ -65,8 +65,6 @@ GitHub同步开源，技术流可自行fork。
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 6 · 🔄 6 · 💬 8 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2035385352215838932) — @CryptoWolfGL (Crypto Wolf)
-[2] [Author page](/entities/authors/cryptowolfgl.md)

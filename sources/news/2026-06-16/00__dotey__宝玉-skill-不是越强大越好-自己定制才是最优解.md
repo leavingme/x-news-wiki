@@ -51,10 +51,6 @@ gakki 锐评：宝玉这句本质是给 Skills 生态泼冷水——大而全是
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 1 · 🔄 0 · 💬 0 · 🔖 0 · 👁 0
-- **关联主题**: [skills-ecosystem-standards](/concepts/skills-ecosystem-standards.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2066676292154445859) — @dotey (宝玉)
-[2] [Author page](/entities/authors/dotey.md)
-[3] [Related topic](/concepts/skills-ecosystem-standards.md)

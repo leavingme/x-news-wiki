@@ -59,10 +59,6 @@ gakki 锐评：这一类「输入 X、输出结构化产品洞察」的工具正
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 65 · 🔄 6 · 💬 16 · 🔖 0 · 👁 0
-- **关联主题**: [agent-data-intelligence-infra](/concepts/agent-data-intelligence-infra.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2066170145102536747) — @vista8 (向阳乔木)
-[2] [Author page](/entities/authors/vista8.md)
-[3] [Related topic](/concepts/agent-data-intelligence-infra.md)

@@ -51,8 +51,6 @@ HONOR self-developed humanoid robot, "Flash," just won the Humanoid Robot Half M
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 40 · 🔄 6 · 💬 3 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/Honorglobal/status/2047225226300432400) — @Honorglobal (HONOR)
-[2] [Author page](/entities/authors/honorglobal.md)

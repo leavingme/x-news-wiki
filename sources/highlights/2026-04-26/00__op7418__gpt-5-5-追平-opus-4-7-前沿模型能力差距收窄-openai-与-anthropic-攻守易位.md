@@ -50,10 +50,6 @@ GPT-5.5 真是太牛批了，除了超长程任务，其他能力上很多已经
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 120 · 🔄 0 · 💬 44 · 🔖 0 · 👁 0
-- **关联主题**: [model-capabilities](/concepts/model-capabilities.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2048055648831856654) — @op7418 (歸藏(guizang.ai))
-[2] [Author page](/entities/authors/op7418.md)
-[3] [Related topic](/concepts/model-capabilities.md)

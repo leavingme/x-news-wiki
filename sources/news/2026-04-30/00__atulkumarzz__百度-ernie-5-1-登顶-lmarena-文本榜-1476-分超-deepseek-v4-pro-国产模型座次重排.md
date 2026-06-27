@@ -63,10 +63,6 @@ you’re already behind.
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 67 · 🔄 24 · 💬 19 · 🔖 0 · 👁 0
-- **关联主题**: [domestic-model-benchmark-performance](/concepts/domestic-model-benchmark-performance.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/atulkumarzz/status/2049740777308455023) — @atulkumarzz (Atul Kumar)
-[2] [Author page](/entities/authors/atulkumarzz.md)
-[3] [Related topic](/concepts/domestic-model-benchmark-performance.md)

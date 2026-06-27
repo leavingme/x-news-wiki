@@ -80,10 +80,6 @@ Debug 只给：预期 vs 实际 + 最小复现
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 1269 · 🔄 277 · 💬 30 · 🔖 0 · 👁 0
-- **关联主题**: [vibe-coding-methodology](/concepts/vibe-coding-methodology.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2033216706722861420) — @AI_Jasonyu (鱼总聊AI)
-[2] [Author page](/entities/authors/ai-jasonyu.md)
-[3] [Related topic](/concepts/vibe-coding-methodology.md)

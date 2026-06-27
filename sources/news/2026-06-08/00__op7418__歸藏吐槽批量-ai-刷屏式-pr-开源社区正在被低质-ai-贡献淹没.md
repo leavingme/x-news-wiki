@@ -50,8 +50,6 @@ gakki 锐评：当 PR 数量靠 AI 通胀，贡献的稀缺性就从「能不能
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 2 · 🔄 0 · 💬 1 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2064015225788174646) — @op7418 (歸藏(guizang.ai))
-[2] [Author page](/entities/authors/op7418.md)

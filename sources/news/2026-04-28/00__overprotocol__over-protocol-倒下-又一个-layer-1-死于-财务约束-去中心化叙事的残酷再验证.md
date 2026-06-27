@@ -58,8 +58,6 @@ We started Over Protocol with a simple idea: that a Layer 1 should belong to the
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 104 · 🔄 13 · 💬 133 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/overprotocol/status/2049096903493840913) — @overprotocol (Over)
-[2] [Author page](/entities/authors/overprotocol.md)

@@ -73,8 +73,6 @@ Bedrock / Vertex AI
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 19 · 🔄 9 · 💬 4 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2041428820658643053) — @oragnes (比特币橙子Trader)
-[2] [Author page](/entities/authors/oragnes.md)

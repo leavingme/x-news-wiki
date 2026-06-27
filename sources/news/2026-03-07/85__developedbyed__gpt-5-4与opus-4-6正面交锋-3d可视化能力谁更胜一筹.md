@@ -60,8 +60,6 @@ Overall this felt like a strong result from both, just with different strengths.
 - **精选类别**: 📰 头条
 - **优先级**: 85
 - **互动**: ❤️ 155 · 🔄 8 · 💬 9 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2030061779737530760) — @developedbyed (Dev Ed)
-[2] [Author page](/entities/authors/developedbyed.md)

@@ -57,10 +57,6 @@ BitMart Skills GitHub https://t.co/tj7ROYBm43
 - **精选类别**: ✨ 亮点
 - **优先级**: 88
 - **互动**: ❤️ 12 · 🔄 0 · 💬 44 · 🔖 0 · 👁 0
-- **关联主题**: [ai-crypto-agent-infra](/concepts/ai-crypto-agent-infra.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2032728601674789039) — @goodlucky1110 (Winner🔶BNB |🐬 TermMax)
-[2] [Author page](/entities/authors/goodlucky1110.md)
-[3] [Related topic](/concepts/ai-crypto-agent-infra.md)

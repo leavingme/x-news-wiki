@@ -59,10 +59,6 @@ Try it now at https://t.co/GCdiMzk1Dl via Expert Mode / Instant Mode. API is upd
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 38372 · 🔄 6631 · 💬 1380 · 🔖 0 · 👁 0
-- **关联主题**: [deepseek-v4-open-source](/concepts/deepseek-v4-open-source.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/deepseek_ai/status/2047516922263285776) — @deepseek_ai (DeepSeek)
-[2] [Author page](/entities/authors/deepseek-ai.md)
-[3] [Related topic](/concepts/deepseek-v4-open-source.md)

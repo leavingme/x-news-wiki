@@ -51,8 +51,6 @@ This GPT Image 2 prompt is going insanely viral right now.
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 6343 · 🔄 709 · 💬 276 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/arrakis_ai/status/2049689793118998717) — @arrakis_ai (CHOI)
-[2] [Author page](/entities/authors/arrakis-ai.md)

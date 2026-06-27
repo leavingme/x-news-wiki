@@ -49,10 +49,6 @@ Sam Altman welcomed OpenClaw onto ChatGPT today. Anthropic banned it last month.
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 4 · 🔄 0 · 💬 0 · 🔖 0 · 👁 0
-- **关联主题**: [open-agent-ecosystem](/concepts/open-agent-ecosystem.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/poezhao0605/status/2050576077614141783) — @poezhao0605 (Poe Zhao)
-[2] [Author page](/entities/authors/poezhao0605.md)
-[3] [Related topic](/concepts/open-agent-ecosystem.md)

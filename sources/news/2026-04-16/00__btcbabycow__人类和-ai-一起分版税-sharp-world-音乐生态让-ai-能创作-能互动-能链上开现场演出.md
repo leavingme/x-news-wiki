@@ -56,10 +56,6 @@ $SHARP
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 15 · 🔄 2 · 💬 0 · 🔖 0 · 👁 0
-- **关联主题**: [ai-agent-gamification](/concepts/ai-agent-gamification.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2044442927871807540) — @btcbabycow (babycow)
-[2] [Author page](/entities/authors/btcbabycow.md)
-[3] [Related topic](/concepts/ai-agent-gamification.md)

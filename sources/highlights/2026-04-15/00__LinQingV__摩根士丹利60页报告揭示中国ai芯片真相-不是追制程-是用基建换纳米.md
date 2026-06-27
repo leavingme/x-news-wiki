@@ -81,8 +81,6 @@ Token正在变成新时代的电。中国正在用廉价绿电加极致工程能
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 163 · 🔄 45 · 💬 11 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2033588241077764238) — @LinQingV (Macro_Lin｜市场观察员)
-[2] [Author page](/entities/authors/linqingv.md)

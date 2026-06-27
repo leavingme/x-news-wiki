@@ -71,8 +71,6 @@ Winston 认为，一个人在职业生涯中能走多远，主要取决于三样
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 1271 · 🔄 372 · 💬 15 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2038536147224404088) — @xiaohu (小互)
-[2] [Author page](/entities/authors/xiaohu.md)

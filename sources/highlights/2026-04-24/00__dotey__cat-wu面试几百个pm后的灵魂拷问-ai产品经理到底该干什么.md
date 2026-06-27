@@ -49,10 +49,6 @@ Cat Wu 面试了几百个 PM 候选人，几乎没人答对一个问题：AI 产
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 268 · 🔄 63 · 💬 7 · 🔖 0 · 👁 0
-- **关联主题**: [product-manager-role-shift](/concepts/product-manager-role-shift.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2047537778959778209) — @dotey (宝玉)
-[2] [Author page](/entities/authors/dotey.md)
-[3] [Related topic](/concepts/product-manager-role-shift.md)

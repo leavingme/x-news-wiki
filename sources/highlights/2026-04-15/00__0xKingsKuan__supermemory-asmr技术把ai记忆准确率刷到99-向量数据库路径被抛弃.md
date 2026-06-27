@@ -95,10 +95,6 @@ AI 内存不再是瓶颈，个性化 Agent 时代真正启动！
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 143 · 🔄 24 · 💬 27 · 🔖 0 · 👁 0
-- **关联主题**: [agent-memory-optimization](/concepts/agent-memory-optimization.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2035710528753119740) — @0xKingsKuan (币世王 | 🦅🐬TermMax)
-[2] [Author page](/entities/authors/0xkingskuan.md)
-[3] [Related topic](/concepts/agent-memory-optimization.md)

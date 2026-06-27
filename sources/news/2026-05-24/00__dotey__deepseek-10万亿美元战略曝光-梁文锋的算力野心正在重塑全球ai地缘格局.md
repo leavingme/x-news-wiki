@@ -59,8 +59,6 @@ DeepSeek 的 10 万亿美元大战略【译】
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 81 · 🔄 10 · 💬 14 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2058421725256171718) — @dotey (宝玉)
-[2] [Author page](/entities/authors/dotey.md)

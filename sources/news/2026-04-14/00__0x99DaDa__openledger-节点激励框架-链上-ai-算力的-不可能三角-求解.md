@@ -86,8 +86,6 @@ OpenLedger 还鼓励更多社区化算力的加入，降低节点运营的门槛
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 81 · 🔄 0 · 💬 113 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/1951061815288295559) — @0x99DaDa (DaDa | 🕊️)
-[2] [Author page](/entities/authors/0x99dada.md)

@@ -67,8 +67,6 @@ gakki锐评：30-100美元/天的收益在crypto圈显得"太保守"，但正是
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 110 · 🔄 11 · 💬 40 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2044996453156974644) — @xincctnnq (币圈女菩萨 | Pizza披萨🍕)
-[2] [Author page](/entities/authors/xincctnnq.md)

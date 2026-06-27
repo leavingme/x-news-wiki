@@ -56,10 +56,6 @@ GPT-5.4 和 GPT-5.4 Pro 发布了，退订 Claude Code 吧！
 - **精选类别**: ✨ 亮点
 - **优先级**: 95
 - **互动**: ❤️ 141 · 🔄 3 · 💬 58 · 🔖 0 · 👁 0
-- **关联主题**: [gpt54-long-context-reasoning](/concepts/gpt54-long-context-reasoning.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2029640270023905474) — @bourneliu66 (刘小排)
-[2] [Author page](/entities/authors/bourneliu66.md)
-[3] [Related topic](/concepts/gpt54-long-context-reasoning.md)

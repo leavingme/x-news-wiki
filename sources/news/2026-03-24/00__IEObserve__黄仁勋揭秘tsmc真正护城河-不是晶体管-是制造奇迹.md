@@ -71,10 +71,6 @@ Lex Fridman 追問了 Morris Chang 在 2013 年邀請他擔任 TSMC 執行長的
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 171 · 🔄 25 · 💬 2 · 🔖 0 · 👁 0
-- **关联主题**: [semiconductor-supply-chain-geopolitics](/concepts/semiconductor-supply-chain-geopolitics.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2036289915466768464) — @IEObserve (Intl Econ Observe)
-[2] [Author page](/entities/authors/ieobserve.md)
-[3] [Related topic](/concepts/semiconductor-supply-chain-geopolitics.md)

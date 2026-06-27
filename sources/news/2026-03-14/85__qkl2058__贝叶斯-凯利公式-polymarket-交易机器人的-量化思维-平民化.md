@@ -96,8 +96,6 @@ x_source: "crawler"
 - **精选类别**: 📰 头条
 - **优先级**: 85
 - **互动**: ❤️ 42 · 🔄 14 · 💬 1 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2032000510870634700) — @qkl2058 (区块链行情研究)
-[2] [Author page](/entities/authors/qkl2058.md)

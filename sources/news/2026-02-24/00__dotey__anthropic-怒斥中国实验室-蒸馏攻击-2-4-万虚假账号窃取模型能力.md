@@ -60,8 +60,6 @@ Anthropic 表示已通过 IP 地址、请求元数据等信息将攻击溯源到
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 958 · 🔄 154 · 💬 130 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2026013737426022417) — @dotey (宝玉)
-[2] [Author page](/entities/authors/dotey.md)

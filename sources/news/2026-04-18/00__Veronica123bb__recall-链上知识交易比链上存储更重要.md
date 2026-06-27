@@ -61,10 +61,6 @@ Recent data shows the community-driven AI evaluation platform is live, allowing 
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 116 · 🔄 2 · 💬 135 · 🔖 0 · 👁 0
-- **关联主题**: [ai-data-blockchain-verification](/concepts/ai-data-blockchain-verification.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/1957710929862488370) — @Veronica123bb (孟孟哒crypto)
-[2] [Author page](/entities/authors/veronica123bb.md)
-[3] [Related topic](/concepts/ai-data-blockchain-verification.md)

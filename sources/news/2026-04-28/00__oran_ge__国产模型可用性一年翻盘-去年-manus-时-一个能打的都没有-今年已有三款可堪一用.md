@@ -52,8 +52,6 @@ ColaOS 对模型的要求太高了
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 26 · 🔄 0 · 💬 19 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2048936516932800965) — @oran_ge (Orange AI)
-[2] [Author page](/entities/authors/oran-ge.md)

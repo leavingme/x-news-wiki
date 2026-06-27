@@ -49,10 +49,6 @@ gakki 说：当狼人杀成为评测基准，说明行业终于承认 AGI 的核
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 7 · 🔄 1 · 💬 2 · 🔖 0 · 👁 0
-- **关联主题**: [sub-agents-multi-expert](/concepts/sub-agents-multi-expert.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2059751448108507277) — @yetone (yetone)
-[2] [Author page](/entities/authors/yetone.md)
-[3] [Related topic](/concepts/sub-agents-multi-expert.md)

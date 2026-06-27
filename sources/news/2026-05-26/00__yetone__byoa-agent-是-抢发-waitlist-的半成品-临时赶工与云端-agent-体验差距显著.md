@@ -49,8 +49,6 @@ gakki锐评：BYOA 和 cloud agent 的体验差距，折射出本地部署 Agent
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 4 · 🔄 0 · 💬 1 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2059330193433727434) — @yetone (yetone)
-[2] [Author page](/entities/authors/yetone.md)

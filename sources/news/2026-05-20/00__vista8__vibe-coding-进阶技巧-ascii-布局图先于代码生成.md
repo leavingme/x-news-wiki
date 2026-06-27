@@ -51,8 +51,6 @@ gakki：ASCII 布局图的本质是「人类在回路」的低成本实现，本
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 10 · 🔄 0 · 💬 7 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2056940452671311888) — @vista8 (向阳乔木)
-[2] [Author page](/entities/authors/vista8.md)

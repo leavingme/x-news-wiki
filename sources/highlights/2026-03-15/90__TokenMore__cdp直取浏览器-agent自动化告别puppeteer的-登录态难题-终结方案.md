@@ -64,10 +64,6 @@ x_source: "crawler"
 - **精选类别**: ✨ 亮点
 - **优先级**: 90
 - **互动**: ❤️ 151 · 🔄 31 · 💬 4 · 🔖 0 · 👁 0
-- **关联主题**: [agent-browser-token-efficiency](/concepts/agent-browser-token-efficiency.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2032806514692599813) — @TokenMore (（TokenMore)萌小主🍣)
-[2] [Author page](/entities/authors/tokenmore.md)
-[3] [Related topic](/concepts/agent-browser-token-efficiency.md)

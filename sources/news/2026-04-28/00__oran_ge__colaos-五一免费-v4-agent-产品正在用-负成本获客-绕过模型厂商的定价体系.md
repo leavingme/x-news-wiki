@@ -63,8 +63,6 @@ x-USGB739K
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 24 · 🔄 7 · 💬 11 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2049121713066283127) — @oran_ge (Orange AI)
-[2] [Author page](/entities/authors/oran-ge.md)

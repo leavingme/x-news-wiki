@@ -63,8 +63,6 @@ To B 的大量 agents 类产品，以及 AI infra 产品，很诡异。更多是
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 54 · 🔄 2 · 💬 19 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2050405884862538055) — @lifesinger (Frank Wang 玉伯)
-[2] [Author page](/entities/authors/lifesinger.md)

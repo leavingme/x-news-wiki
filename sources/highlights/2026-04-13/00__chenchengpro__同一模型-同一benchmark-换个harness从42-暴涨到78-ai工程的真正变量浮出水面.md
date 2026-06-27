@@ -77,8 +77,6 @@ Prompt engineering 是 2023，Context engineering 是 2025，Harness engineering
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 272 · 🔄 48 · 💬 17 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2037332209003282747) — @chenchengpro (陈成)
-[2] [Author page](/entities/authors/chenchengpro.md)

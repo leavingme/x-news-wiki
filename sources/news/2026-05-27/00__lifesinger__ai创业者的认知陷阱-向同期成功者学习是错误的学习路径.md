@@ -51,8 +51,6 @@ AI 创业者最容易犯的一个错
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 5 · 🔄 0 · 💬 5 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2059656268818808937) — @lifesinger (Frank Wang 玉伯)
-[2] [Author page](/entities/authors/lifesinger.md)

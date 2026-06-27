@@ -61,10 +61,6 @@ GitHub: https://t.co/QvfMsqBGnv
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 3 · 🔄 0 · 💬 0 · 🔖 0 · 👁 0
-- **关联主题**: [agent-tools-and-orchestration](/concepts/agent-tools-and-orchestration.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2062506113527091613) — @lxfater (铁锤人)
-[2] [Author page](/entities/authors/lxfater.md)
-[3] [Related topic](/concepts/agent-tools-and-orchestration.md)

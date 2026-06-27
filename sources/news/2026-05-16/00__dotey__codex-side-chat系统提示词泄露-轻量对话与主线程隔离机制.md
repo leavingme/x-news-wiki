@@ -65,10 +65,6 @@ Do not modify files, source, git state, permissions, configuration, or any other
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 51 · 🔄 5 · 💬 7 · 🔖 0 · 👁 0
-- **关联主题**: [claude-code-ecosystem](/concepts/claude-code-ecosystem.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2055551934317122014) — @dotey (宝玉)
-[2] [Author page](/entities/authors/dotey.md)
-[3] [Related topic](/concepts/claude-code-ecosystem.md)

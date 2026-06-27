@@ -48,8 +48,6 @@ Karpathy："写代码"已经不是对的动词了
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 343 · 🔄 66 · 💬 17 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2035141635713941927) — @dotey (宝玉)
-[2] [Author page](/entities/authors/dotey.md)

@@ -53,8 +53,6 @@ https://t.co/48XNS5erl2 https://t.co/EnLE5tdtQe
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 16 · 🔄 0 · 💬 3 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2063119655795847397) — @dotey (宝玉)
-[2] [Author page](/entities/authors/dotey.md)

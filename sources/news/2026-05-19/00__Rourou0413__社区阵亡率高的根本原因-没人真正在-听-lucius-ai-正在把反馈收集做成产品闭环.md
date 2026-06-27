@@ -51,8 +51,6 @@ Exactly! We talk about the ‘potential of communities,’ but often struggle to
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 1 · 🔄 0 · 💬 0 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2056750675401507004) — @Rourou0413 (Rourou)
-[2] [Author page](/entities/authors/rourou0413.md)

@@ -55,8 +55,6 @@ Tanka 把团队每天的对话、文件、决策沉淀成长期记忆。
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 0 · 🔄 0 · 💬 1 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2057259622864724254) — @xiaohu (小互)
-[2] [Author page](/entities/authors/xiaohu.md)

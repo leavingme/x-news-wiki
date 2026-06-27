@@ -59,8 +59,6 @@ CLAUDE_CODE_DISABLE_NONESSENTIAL_TRAFFIC=true
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 32 · 🔄 4 · 💬 3 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2036117534387388550) — @cccchuizi (玩个锤子)
-[2] [Author page](/entities/authors/cccchuizi.md)

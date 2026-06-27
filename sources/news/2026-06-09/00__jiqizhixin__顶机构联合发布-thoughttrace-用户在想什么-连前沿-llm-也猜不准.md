@@ -63,10 +63,6 @@ Our report: https://t.co/8nHl73kOak
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 2 · 🔄 0 · 💬 0 · 🔖 0 · 👁 0
-- **关联主题**: [ai-real-world-model-evaluation](/concepts/ai-real-world-model-evaluation.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2064183704042324146) — @jiqizhixin (机器之心 JIQIZHIXIN)
-[2] [Author page](/entities/authors/jiqizhixin.md)
-[3] [Related topic](/concepts/ai-real-world-model-evaluation.md)

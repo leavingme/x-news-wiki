@@ -74,8 +74,6 @@ https://t.co/oAU86cVwOP
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 0 · 🔄 1 · 💬 1 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2054348706430980539) — @xiaohu (小互)
-[2] [Author page](/entities/authors/xiaohu.md)

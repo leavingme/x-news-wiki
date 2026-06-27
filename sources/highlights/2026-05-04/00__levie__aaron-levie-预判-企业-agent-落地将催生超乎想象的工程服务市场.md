@@ -63,8 +63,6 @@ This is a huge opportunity right now whether you’re doing this internally or a
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 979 · 🔄 127 · 💬 79 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/levie/status/2051057677984469277) — @levie (Aaron Levie)
-[2] [Author page](/entities/authors/levie.md)

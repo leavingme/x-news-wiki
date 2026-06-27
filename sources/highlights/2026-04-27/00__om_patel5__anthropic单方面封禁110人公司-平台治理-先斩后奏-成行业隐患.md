@@ -82,10 +82,6 @@ billion dollar AI company with zero enterprise customer support
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 1483 · 🔄 329 · 💬 133 · 🔖 0 · 👁 0
-- **关联主题**: [anthropic-api-control](/concepts/anthropic-api-control.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/om_patel5/status/2048594208345227497) — @om_patel5 (Om Patel)
-[2] [Author page](/entities/authors/om-patel5.md)
-[3] [Related topic](/concepts/anthropic-api-control.md)

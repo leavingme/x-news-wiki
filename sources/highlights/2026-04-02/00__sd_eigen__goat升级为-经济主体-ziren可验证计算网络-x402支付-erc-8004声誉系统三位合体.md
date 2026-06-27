@@ -59,10 +59,6 @@ AI自身迭代的速度按照周甚至天级别更新，同样借助于AI，GOAT
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 15 · 🔄 3 · 💬 0 · 🔖 0 · 👁 0
-- **关联主题**: [agent-economic-autonomy](/concepts/agent-economic-autonomy.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2039716588769685797) — @sd_eigen (Stephen Duan)
-[2] [Author page](/entities/authors/sd-eigen.md)
-[3] [Related topic](/concepts/agent-economic-autonomy.md)

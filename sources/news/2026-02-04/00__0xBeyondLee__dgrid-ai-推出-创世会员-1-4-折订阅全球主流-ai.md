@@ -78,8 +78,6 @@ https://t.co/Xy73jruRzy
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 26 · 🔄 1 · 💬 21 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2018908342492741750) — @0xBeyondLee (解构师 Beyond)
-[2] [Author page](/entities/authors/0xbeyondlee.md)

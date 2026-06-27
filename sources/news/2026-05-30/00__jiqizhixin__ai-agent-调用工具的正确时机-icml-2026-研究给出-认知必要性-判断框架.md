@@ -67,10 +67,6 @@ Our report: https://t.co/CG7fo7xoYa
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 2 · 🔄 0 · 💬 0 · 🔖 0 · 👁 0
-- **关联主题**: [agent-tools-and-orchestration](/concepts/agent-tools-and-orchestration.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2060577693062602865) — @jiqizhixin (机器之心 JIQIZHIXIN)
-[2] [Author page](/entities/authors/jiqizhixin.md)
-[3] [Related topic](/concepts/agent-tools-and-orchestration.md)

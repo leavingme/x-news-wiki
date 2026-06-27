@@ -59,8 +59,6 @@ Perceptive，波士顿AI医疗创业公司，完成了全球首例AI机器人全
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 157 · 🔄 41 · 💬 17 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2035249352999150033) — @KKaWSB (KK.aWSB)
-[2] [Author page](/entities/authors/kkawsb.md)

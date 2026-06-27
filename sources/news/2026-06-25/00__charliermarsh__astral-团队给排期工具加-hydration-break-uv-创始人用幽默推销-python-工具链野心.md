@@ -50,8 +50,6 @@ Adding a Hydration Break to our team schedule
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 161 · 🔄 4 · 💬 2 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2068739144625324546) — @charliermarsh (Charlie Marsh)
-[2] [Author page](/entities/authors/charliermarsh.md)

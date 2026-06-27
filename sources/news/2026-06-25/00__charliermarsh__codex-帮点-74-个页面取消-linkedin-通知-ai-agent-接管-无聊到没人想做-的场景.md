@@ -50,8 +50,6 @@ To turn off email notifications on LinkedIn, you have to click into 74 different
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 256 · 🔄 5 · 💬 26 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2069241077509288212) — @charliermarsh (Charlie Marsh)
-[2] [Author page](/entities/authors/charliermarsh.md)

@@ -51,8 +51,6 @@ DeepSeek 称，当今人类正处于 AGI 的前夜，加入我们，可亲历 AG
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 27 · 🔄 3 · 💬 13 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2070312460134047778) — @_FORAB (AB Kuai.Dong)
-[2] [Author page](/entities/authors/forab.md)

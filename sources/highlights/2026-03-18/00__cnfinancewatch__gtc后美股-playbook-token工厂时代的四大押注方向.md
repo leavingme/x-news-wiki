@@ -137,10 +137,6 @@ HBM4产能直接决定能不能放量，
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 19 · 🔄 6 · 💬 0 · 🔖 0 · 👁 0
-- **关联主题**: [token-economics-infrastructure](/concepts/token-economics-infrastructure.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2034028057686925519) — @cnfinancewatch (华尔街观察 Xtrader)
-[2] [Author page](/entities/authors/cnfinancewatch.md)
-[3] [Related topic](/concepts/token-economics-infrastructure.md)

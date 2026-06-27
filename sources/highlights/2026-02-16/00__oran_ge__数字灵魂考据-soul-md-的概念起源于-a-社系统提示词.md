@@ -44,8 +44,6 @@ Soud. MD 是人们研究 Claude System Prompt 时发现的
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 49 · 🔄 3 · 💬 5 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2023188310177566974) — @oran_ge (Orange AI)
-[2] [Author page](/entities/authors/oran-ge.md)

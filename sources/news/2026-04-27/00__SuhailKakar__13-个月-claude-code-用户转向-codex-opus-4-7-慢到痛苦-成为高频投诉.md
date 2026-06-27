@@ -59,8 +59,6 @@ ngl @sama you cooked on this one
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 352 · 🔄 12 · 💬 46 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/SuhailKakar/status/2048774010197155858) — @SuhailKakar (Suhail Kakar)
-[2] [Author page](/entities/authors/suhailkakar.md)

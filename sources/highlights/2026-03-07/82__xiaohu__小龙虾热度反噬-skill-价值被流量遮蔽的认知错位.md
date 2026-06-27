@@ -62,10 +62,6 @@ x_source: "crawler"
 - **精选类别**: ✨ 亮点
 - **优先级**: 82
 - **互动**: ❤️ 1054 · 🔄 72 · 💬 212 · 🔖 0 · 👁 0
-- **关联主题**: [no-code-agent-entry](/concepts/no-code-agent-entry.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2029800783110361405) — @xiaohu (小互)
-[2] [Author page](/entities/authors/xiaohu.md)
-[3] [Related topic](/concepts/no-code-agent-entry.md)

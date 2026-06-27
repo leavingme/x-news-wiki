@@ -58,8 +58,6 @@ AI 时代真正值钱的产品能力只有三件事：
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 8 · 🔄 1 · 💬 0 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2040462630796890324) — @wangray (Ray Wang)
-[2] [Author page](/entities/authors/wangray.md)

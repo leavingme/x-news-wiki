@@ -67,10 +67,6 @@ Pipeline：强制分步骤，每步有检查点，不允许跳过
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 242 · 🔄 61 · 💬 4 · 🔖 0 · 👁 0
-- **关联主题**: [skill-vs-mcp-paradigm](/concepts/skill-vs-mcp-paradigm.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2034196862794961299) — @KKaWSB (KK.aWSB)
-[2] [Author page](/entities/authors/kkawsb.md)
-[3] [Related topic](/concepts/skill-vs-mcp-paradigm.md)

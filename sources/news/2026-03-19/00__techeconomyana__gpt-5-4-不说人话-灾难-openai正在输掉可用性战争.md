@@ -50,8 +50,6 @@ gakki锐评：当模型在benchmark上刷分却在对话中「不说人话」，
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 222 · 🔄 20 · 💬 30 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2034230703089439184) — @techeconomyana (高级分析师)
-[2] [Author page](/entities/authors/techeconomyana.md)

@@ -53,10 +53,6 @@ gakki 锐评：这条信息比"产品上线"更值钱——它把 Claude Design 
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 1 · 🔄 0 · 💬 0 · 🔖 0 · 👁 0
-- **关联主题**: [claude-design-tool](/concepts/claude-design-tool.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2067063939469357199) — @dotey (宝玉)
-[2] [Author page](/entities/authors/dotey.md)
-[3] [Related topic](/concepts/claude-design-tool.md)

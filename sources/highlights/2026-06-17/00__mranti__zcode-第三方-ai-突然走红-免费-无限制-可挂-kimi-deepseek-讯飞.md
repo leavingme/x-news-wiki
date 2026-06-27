@@ -51,8 +51,6 @@ gakki 锐评：这是'客户端工具层聚合免费国产模型'的新范式冒
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 102 · 🔄 6 · 💬 23 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2067239236538155131) — @mranti (Michael Anti)
-[2] [Author page](/entities/authors/mranti.md)

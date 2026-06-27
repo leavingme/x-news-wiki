@@ -49,8 +49,6 @@ Codex 又重置了速率限制，一到周末就重置。太猛了OpenAI https:/
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 1 · 🔄 0 · 💬 3 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2049012665876627564) — @op7418 (歸藏(guizang.ai))
-[2] [Author page](/entities/authors/op7418.md)

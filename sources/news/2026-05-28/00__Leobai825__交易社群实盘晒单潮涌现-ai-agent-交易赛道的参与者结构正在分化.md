@@ -57,8 +57,6 @@ AI 交易 Agent 的采用曲线正在从"极客玩具"向"社交证明驱动"迁
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 3 · 🔄 0 · 💬 1 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2059895955307004261) — @Leobai825 (天策)
-[2] [Author page](/entities/authors/leobai825.md)

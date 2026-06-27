@@ -98,10 +98,6 @@ x_source: "crawler"
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 114 · 🔄 14 · 💬 39 · 🔖 0 · 👁 0
-- **关联主题**: [agent-multi-platform](/concepts/agent-multi-platform.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2035760405797347735) — @Khazix0918 (数字生命卡兹克)
-[2] [Author page](/entities/authors/khazix0918.md)
-[3] [Related topic](/concepts/agent-multi-platform.md)

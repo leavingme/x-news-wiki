@@ -58,10 +58,6 @@ gakki 锐评：Markdown 是给终端看的，HTML 是给浏览器看的。Agent 
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 7 · 🔄 0 · 💬 3 · 🔖 0 · 👁 0
-- **关联主题**: [claude-code-multimodal-interaction](/concepts/claude-code-multimodal-interaction.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2053308895901442241) — @xiaohu (小互)
-[2] [Author page](/entities/authors/xiaohu.md)
-[3] [Related topic](/concepts/claude-code-multimodal-interaction.md)

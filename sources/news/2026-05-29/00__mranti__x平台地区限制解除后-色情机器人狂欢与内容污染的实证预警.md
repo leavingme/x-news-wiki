@@ -49,10 +49,6 @@ X平台的内容信任体系正面临历史最大规模的spam冲击，用户识
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 28 · 🔄 3 · 💬 38 · 🔖 0 · 👁 0
-- **关联主题**: [ai-platform-integration-risk](/concepts/ai-platform-integration-risk.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2060269249017606530) — @mranti (Michael Anti)
-[2] [Author page](/entities/authors/mranti.md)
-[3] [Related topic](/concepts/ai-platform-integration-risk.md)

@@ -55,10 +55,6 @@ GLM 5.2 是首个编程 coding 能力达到 Opus 水平的开源模型
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 52 · 🔄 3 · 💬 13 · 🔖 0 · 👁 0
-- **关联主题**: [ai-coding-market-divergence](/concepts/ai-coding-market-divergence.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2067108369018827153) — @oran_ge (Orange AI)
-[2] [Author page](/entities/authors/oran-ge.md)
-[3] [Related topic](/concepts/ai-coding-market-divergence.md)

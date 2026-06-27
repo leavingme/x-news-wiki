@@ -61,10 +61,6 @@ Xiaomi 17
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 18 · 🔄 11 · 💬 17 · 🔖 0 · 👁 0
-- **关联主题**: [no-code-agent-entry](/concepts/no-code-agent-entry.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2030954895973728532) — @knknzi0001 (KunKun空投导师 🟨)
-[2] [Author page](/entities/authors/knknzi0001.md)
-[3] [Related topic](/concepts/no-code-agent-entry.md)

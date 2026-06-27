@@ -55,8 +55,6 @@ x_source: "crawler"
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 492 · 🔄 120 · 💬 16 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/1876499075031548191) — @XieJackie (谢嘉琪)
-[2] [Author page](/entities/authors/xiejackie.md)

@@ -52,8 +52,6 @@ Anthropic 正在证明：在 AI 时代，「组织的产品交付带宽」可能
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 9 · 🔄 1 · 💬 6 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2037307996490064268) — @Meta8Mate (机灵的杰尼君🔶BNB)
-[2] [Author page](/entities/authors/meta8mate.md)

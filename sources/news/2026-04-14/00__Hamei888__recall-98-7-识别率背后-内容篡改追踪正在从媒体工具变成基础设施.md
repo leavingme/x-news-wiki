@@ -125,8 +125,6 @@ Let truth, cost-saving, speed, fun, and trustworthiness become the default optio
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 89 · 🔄 1 · 💬 119 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/1966693557370319227) — @Hamei888 (哈妹.♥)
-[2] [Author page](/entities/authors/hamei888.md)

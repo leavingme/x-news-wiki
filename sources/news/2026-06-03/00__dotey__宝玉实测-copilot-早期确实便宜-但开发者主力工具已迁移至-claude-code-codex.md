@@ -52,8 +52,6 @@ gakki 锐评：GitHub 的护城河是生态，不是模型效果。当 Claude Co
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 2 · 🔄 0 · 💬 1 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2061966087927771543) — @dotey (宝玉)
-[2] [Author page](/entities/authors/dotey.md)

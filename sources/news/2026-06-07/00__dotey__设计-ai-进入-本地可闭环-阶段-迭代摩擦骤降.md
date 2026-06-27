@@ -49,8 +49,6 @@ gakki 锐评：当设计工具的迭代成本低于"叫设计师改一版"时，
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 1 · 🔄 0 · 💬 0 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2063447800482759107) — @dotey (宝玉)
-[2] [Author page](/entities/authors/dotey.md)

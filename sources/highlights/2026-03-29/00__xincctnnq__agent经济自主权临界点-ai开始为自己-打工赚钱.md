@@ -66,10 +66,6 @@ AI 会自动注册的钱包，部署好挖矿运行程序。
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 28 · 🔄 8 · 💬 10 · 🔖 0 · 👁 0
-- **关联主题**: [agent-economic-autonomy](/concepts/agent-economic-autonomy.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2036408479108440558) — @xincctnnq (币圈女菩萨 | Pizza披萨🍕)
-[2] [Author page](/entities/authors/xincctnnq.md)
-[3] [Related topic](/concepts/agent-economic-autonomy.md)

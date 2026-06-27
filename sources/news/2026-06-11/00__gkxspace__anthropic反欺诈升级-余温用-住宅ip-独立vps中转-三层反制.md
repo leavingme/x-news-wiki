@@ -58,10 +58,6 @@ Claude 封我 X 个号了，我这次换个思路再试一下：
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 7 · 🔄 1 · 💬 8 · 🔖 0 · 👁 0
-- **关联主题**: [anthropic-api-control](/concepts/anthropic-api-control.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2065069101706355063) — @gkxspace (余温)
-[2] [Author page](/entities/authors/gkxspace.md)
-[3] [Related topic](/concepts/anthropic-api-control.md)

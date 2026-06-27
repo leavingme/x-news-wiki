@@ -101,8 +101,6 @@ gakki锐评：高盛这个判断比大多数散户知道的早6-12个月。Jense
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 272 · 🔄 97 · 💬 10 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2034548461442404583) — @Ariston_Macro (Ariston Wang)
-[2] [Author page](/entities/authors/ariston-macro.md)

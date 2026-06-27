@@ -50,10 +50,6 @@ gakki 锐评：当一个二十年媒体人能用 Vibe Coding 干掉自己的 Dee
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 31 · 🔄 0 · 💬 7 · 🔖 0 · 👁 0
-- **关联主题**: [AI-API成本结构与本地部署](/concepts/AI-API成本结构与本地部署.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2063805152797319676) — @mranti (Michael Anti)
-[2] [Author page](/entities/authors/mranti.md)
-[3] [Related topic](/concepts/AI-API成本结构与本地部署.md)

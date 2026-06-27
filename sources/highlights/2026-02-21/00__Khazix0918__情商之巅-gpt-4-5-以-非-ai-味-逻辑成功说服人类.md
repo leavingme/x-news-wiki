@@ -51,8 +51,6 @@ GPT-4.5至今是我觉得情商最高的模型，没有之一。
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 287 · 🔄 10 · 💬 31 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2024907974498812381) — @Khazix0918 (数字生命卡兹克)
-[2] [Author page](/entities/authors/khazix0918.md)

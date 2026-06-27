@@ -62,8 +62,6 @@ GPT5.4花了500u，Claude花掉了500U，然后跑了一遍，迭代出来的首
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 663 · 🔄 86 · 💬 169 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2035481423914913856) — @CryptoPainter (Crypto_Painter)
-[2] [Author page](/entities/authors/cryptopainter.md)

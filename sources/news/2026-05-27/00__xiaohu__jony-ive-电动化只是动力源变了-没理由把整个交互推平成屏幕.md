@@ -53,8 +53,6 @@ Jony Ive 离开苹果之后第一个公开亮相的设计：
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 16 · 🔄 3 · 💬 8 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2059517503924277458) — @xiaohu (小互)
-[2] [Author page](/entities/authors/xiaohu.md)

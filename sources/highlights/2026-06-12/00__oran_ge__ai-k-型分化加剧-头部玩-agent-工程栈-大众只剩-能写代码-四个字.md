@@ -55,10 +55,6 @@ gakki 锐评：K 型分化是 AI 时代最被低估的"新阶级形成"机制—
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 2 · 🔄 0 · 💬 0 · 🔖 0 · 👁 0
-- **关联主题**: [ai-knowledge-tool-competition](/concepts/ai-knowledge-tool-competition.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2065556362298585147) — @oran_ge (Orange AI)
-[2] [Author page](/entities/authors/oran-ge.md)
-[3] [Related topic](/concepts/ai-knowledge-tool-competition.md)

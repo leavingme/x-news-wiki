@@ -48,10 +48,6 @@ Stripe Managed Payments is now generally available. Sell digital products in 195
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 169 · 🔄 15 · 💬 18 · 🔖 0 · 👁 0
-- **关联主题**: [ai-agent-crypto-infra](/concepts/ai-agent-crypto-infra.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/stripe/status/2049532106712453307) — @stripe (Stripe)
-[2] [Author page](/entities/authors/stripe.md)
-[3] [Related topic](/concepts/ai-agent-crypto-infra.md)

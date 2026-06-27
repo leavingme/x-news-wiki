@@ -50,10 +50,6 @@ x_source: "crawler"
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 5 · 🔄 0 · 💬 8 · 🔖 0 · 👁 0
-- **关联主题**: [claude-api-token-amplification](/concepts/claude-api-token-amplification.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2060238955984175410) — @mranti (Michael Anti)
-[2] [Author page](/entities/authors/mranti.md)
-[3] [Related topic](/concepts/claude-api-token-amplification.md)

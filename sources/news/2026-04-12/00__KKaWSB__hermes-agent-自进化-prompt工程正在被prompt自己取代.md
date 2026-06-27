@@ -58,10 +58,6 @@ https://t.co/zNOOqeP4Lg
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 1552 · 🔄 197 · 💬 20 · 🔖 0 · 👁 0
-- **关联主题**: [hermes-agent-self-evolution](/concepts/hermes-agent-self-evolution.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2043119101028274268) — @KKaWSB (KK.aWSB)
-[2] [Author page](/entities/authors/kkawsb.md)
-[3] [Related topic](/concepts/hermes-agent-self-evolution.md)

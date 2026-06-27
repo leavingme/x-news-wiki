@@ -62,8 +62,6 @@ Google 又把 AI 科研写论文这件事重新定义！
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 518 · 🔄 131 · 💬 5 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2041920675875860944) — @berryxia (Berryxia.AI)
-[2] [Author page](/entities/authors/berryxia.md)

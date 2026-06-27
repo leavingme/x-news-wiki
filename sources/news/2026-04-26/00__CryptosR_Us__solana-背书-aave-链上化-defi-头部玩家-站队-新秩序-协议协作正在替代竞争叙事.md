@@ -55,8 +55,6 @@ Competition just turned into collaboration. 🤝 https://t.co/fsxArDLpz3
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 113 · 🔄 15 · 💬 8 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/CryptosR_Us/status/2048235642874642625) — @CryptosR_Us (CryptosRus)
-[2] [Author page](/entities/authors/cryptosr-us.md)

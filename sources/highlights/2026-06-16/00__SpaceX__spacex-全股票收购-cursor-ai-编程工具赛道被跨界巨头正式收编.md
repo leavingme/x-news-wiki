@@ -54,8 +54,6 @@ We look forward to working closely with the Cursor team to advance our frontier 
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 26058 · 🔄 2955 · 💬 1277 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/SpaceX/status/2066873915717136548) — @SpaceX (SpaceX)
-[2] [Author page](/entities/authors/spacex.md)

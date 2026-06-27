@@ -65,8 +65,6 @@ Cloudflare 就会：
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 436 · 🔄 60 · 💬 26 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2022923226406646248) — @xiaohu (小互)
-[2] [Author page](/entities/authors/xiaohu.md)

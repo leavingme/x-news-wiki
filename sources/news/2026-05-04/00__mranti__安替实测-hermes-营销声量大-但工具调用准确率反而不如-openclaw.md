@@ -49,10 +49,6 @@ gakki 锐评：Agent 赛道的「好用」标准正在收紧。用户不再被�
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 42 · 🔄 0 · 💬 29 · 🔖 0 · 👁 0
-- **关联主题**: [hermes-agent-stability-comparison](/concepts/hermes-agent-stability-comparison.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2051111221445992924) — @mranti (Michael Anti)
-[2] [Author page](/entities/authors/mranti.md)
-[3] [Related topic](/concepts/hermes-agent-stability-comparison.md)

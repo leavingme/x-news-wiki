@@ -159,8 +159,6 @@ From:@ctgptlb
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 1094 · 🔄 431 · 💬 29 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/1726480222357520869) — @FinanceYF5 (AI Will)
-[2] [Author page](/entities/authors/financeyf5.md)

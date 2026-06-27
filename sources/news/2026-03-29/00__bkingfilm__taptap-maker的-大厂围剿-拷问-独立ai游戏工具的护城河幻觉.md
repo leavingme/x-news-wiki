@@ -48,8 +48,6 @@ x_source: "crawler"
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 15 · 🔄 2 · 💬 3 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2037518665558708721) — @bkingfilm (导演BK｜游戏行业幕后)
-[2] [Author page](/entities/authors/bkingfilm.md)

@@ -58,10 +58,6 @@ Web Access
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 449 · 🔄 76 · 💬 10 · 🔖 0 · 👁 0
-- **关联主题**: [agent-browser-token-efficiency](/concepts/agent-browser-token-efficiency.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2036692345941594426) — @oran_ge (Orange AI)
-[2] [Author page](/entities/authors/oran-ge.md)
-[3] [Related topic](/concepts/agent-browser-token-efficiency.md)

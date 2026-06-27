@@ -66,10 +66,6 @@ WorldRouter就是这个OS算力底座：
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 3 · 🔄 0 · 💬 8 · 🔖 0 · 👁 0
-- **关联主题**: [ai-agent-crypto-infra](/concepts/ai-agent-crypto-infra.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2051955060372877421) — @gkxspace (余温)
-[2] [Author page](/entities/authors/gkxspace.md)
-[3] [Related topic](/concepts/ai-agent-crypto-infra.md)

@@ -101,10 +101,6 @@ PentAGI的做法是直接上多Agent协作系统，把整个安全公司搬进AI
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 340 · 🔄 73 · 💬 10 · 🔖 0 · 👁 0
-- **关联主题**: [multi-agent-fraud-risk](/concepts/multi-agent-fraud-risk.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2035618330342494459) — @0xLaughing (Laughing🪁📍 🇰🇷Korea Build Week)
-[2] [Author page](/entities/authors/0xlaughing.md)
-[3] [Related topic](/concepts/multi-agent-fraud-risk.md)

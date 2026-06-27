@@ -51,8 +51,6 @@ gakki锐评：企业里的人机协作是 Agent 落地最难啃的骨头，Syncl
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 3 · 🔄 1 · 💬 0 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2055032339844170051) — @oran_ge (Orange AI)
-[2] [Author page](/entities/authors/oran-ge.md)

@@ -60,10 +60,6 @@ Codex产品优秀，但有些场景还是需要Claude Code。
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 16 · 🔄 1 · 💬 6 · 🔖 0 · 👁 0
-- **关联主题**: [ai-multimodel-routing](/concepts/ai-multimodel-routing.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2067812761711890900) — @vista8 (向阳乔木)
-[2] [Author page](/entities/authors/vista8.md)
-[3] [Related topic](/concepts/ai-multimodel-routing.md)

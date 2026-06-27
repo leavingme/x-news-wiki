@@ -59,10 +59,6 @@ x_source: "crawler"
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 68 · 🔄 1 · 💬 20 · 🔖 0 · 👁 0
-- **关联主题**: [ai-crypto-agent-infra](/concepts/ai-crypto-agent-infra.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2033562860484481365) — @passluo (𝙋𝙖𝙨𝙨𝙡𝙪𝙤)
-[2] [Author page](/entities/authors/passluo.md)
-[3] [Related topic](/concepts/ai-crypto-agent-infra.md)

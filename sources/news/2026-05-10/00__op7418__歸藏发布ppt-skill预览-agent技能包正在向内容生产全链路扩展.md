@@ -49,8 +49,6 @@ gakki 锐评：PPT生成是典型的「80分够用」场景——不需要完美
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 47 · 🔄 2 · 💬 5 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2053381253328752903) — @op7418 (歸藏(guizang.ai))
-[2] [Author page](/entities/authors/op7418.md)

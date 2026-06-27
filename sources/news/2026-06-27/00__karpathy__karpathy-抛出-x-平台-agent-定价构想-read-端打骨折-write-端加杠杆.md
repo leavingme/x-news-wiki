@@ -50,8 +50,6 @@ sounds great. The AI activity has been growing out of control and I feel more re
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 286 · 🔄 4 · 💬 16 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2040847956472164706) — @karpathy (Andrej Karpathy)
-[2] [Author page](/entities/authors/karpathy.md)

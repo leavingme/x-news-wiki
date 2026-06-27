@@ -83,10 +83,6 @@ https://t.co/m4hbaq0VYE
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 52 · 🔄 0 · 💬 39 · 🔖 0 · 👁 0
-- **关联主题**: [agent-economic-autonomy](/concepts/agent-economic-autonomy.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2038232398362743242) — @McCain889 (Andrew)
-[2] [Author page](/entities/authors/mccain889.md)
-[3] [Related topic](/concepts/agent-economic-autonomy.md)

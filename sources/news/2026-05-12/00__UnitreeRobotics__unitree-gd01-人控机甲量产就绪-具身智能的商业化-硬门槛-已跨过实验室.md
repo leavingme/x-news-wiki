@@ -51,10 +51,6 @@ Please everyone be sure to use the robot in a Friendly and Safe manner. https://
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 8955 · 🔄 1907 · 💬 637 · 🔖 0 · 👁 0
-- **关联主题**: [embodied-ai-and-robotics](/concepts/embodied-ai-and-robotics.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/UnitreeRobotics/status/2054067819634159622) — @UnitreeRobotics (Unitree)
-[2] [Author page](/entities/authors/unitreerobotics.md)
-[3] [Related topic](/concepts/embodied-ai-and-robotics.md)

@@ -52,8 +52,6 @@ gakki：开放不等于创新，但封闭等于封顶。中文创作者工具这
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 32 · 🔄 0 · 💬 27 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2059093711875702898) — @dotey (宝玉)
-[2] [Author page](/entities/authors/dotey.md)

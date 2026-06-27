@@ -49,8 +49,6 @@ It seems @OpenAI has cracked recursive self-improvement for Codex
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 885 · 🔄 47 · 💬 47 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/EMostaque/status/2050074699284054523) — @EMostaque (Emad)
-[2] [Author page](/entities/authors/emostaque.md)

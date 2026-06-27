@@ -64,10 +64,6 @@ Our report: https://t.co/EKQnQRF01e
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 1 · 🔄 1 · 💬 0 · 🔖 0 · 👁 0
-- **关联主题**: [ai-video-physics-benchmark-physion-eval](/concepts/ai-video-physics-benchmark-physion-eval.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2056741163030515783) — @jiqizhixin (机器之心 JIQIZHIXIN)
-[2] [Author page](/entities/authors/jiqizhixin.md)
-[3] [Related topic](/concepts/ai-video-physics-benchmark-physion-eval.md)

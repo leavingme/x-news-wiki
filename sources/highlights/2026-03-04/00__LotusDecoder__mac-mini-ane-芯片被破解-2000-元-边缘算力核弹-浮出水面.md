@@ -65,10 +65,6 @@ MAC mini 养完小龙虾，不用丢闲鱼了。
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 786 · 🔄 145 · 💬 30 · 🔖 0 · 👁 0
-- **关联主题**: [moe-edge-compute-monopoly](/concepts/moe-edge-compute-monopoly.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2028646267686187271) — @LotusDecoder (LotusDecoder)
-[2] [Author page](/entities/authors/lotusdecoder.md)
-[3] [Related topic](/concepts/moe-edge-compute-monopoly.md)

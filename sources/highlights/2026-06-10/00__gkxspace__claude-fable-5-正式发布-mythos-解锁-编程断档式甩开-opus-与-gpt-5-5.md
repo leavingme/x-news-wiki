@@ -61,8 +61,6 @@ Claude 史上最强模型 Fable 5 刚发布，订阅用户 6 月 22 号前免费
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 10 · 🔄 1 · 💬 3 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2064474117068231083) — @gkxspace (余温)
-[2] [Author page](/entities/authors/gkxspace.md)

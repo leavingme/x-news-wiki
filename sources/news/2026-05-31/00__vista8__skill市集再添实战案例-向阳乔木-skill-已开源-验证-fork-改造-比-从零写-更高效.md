@@ -55,10 +55,6 @@ npx skills add joeseesun/qiaomu-read-helper
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 6 · 🔄 0 · 💬 0 · 🔖 0 · 👁 0
-- **关联主题**: [skill-ecosystem-standards](/concepts/skill-ecosystem-standards.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2061128902266007802) — @vista8 (向阳乔木)
-[2] [Author page](/entities/authors/vista8.md)
-[3] [Related topic](/concepts/skill-ecosystem-standards.md)

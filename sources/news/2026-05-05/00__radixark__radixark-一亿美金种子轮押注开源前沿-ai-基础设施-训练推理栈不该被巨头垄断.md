@@ -59,10 +59,6 @@ Thanks for the exclusive interview with @MeghanBobrowsky at @WSJ about our visio
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 230 · 🔄 43 · 💬 35 · 🔖 0 · 👁 0
-- **关联主题**: [dev-tools-infra](/concepts/dev-tools-infra.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/radixark/status/2051648113014882586) — @radixark (RadixArk)
-[2] [Author page](/entities/authors/radixark.md)
-[3] [Related topic](/concepts/dev-tools-infra.md)

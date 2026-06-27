@@ -50,10 +50,6 @@ x_source: "crawler"
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 28 · 🔄 0 · 💬 0 · 🔖 0 · 👁 0
-- **关联主题**: [agent-minimalist-implementation](/concepts/agent-minimalist-implementation.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2037925899010716129) — @huangyun_122 (黄赟)
-[2] [Author page](/entities/authors/huangyun-122.md)
-[3] [Related topic](/concepts/agent-minimalist-implementation.md)

@@ -53,8 +53,6 @@ How our AI saved $27.7M in user funds and earned a max critical $250,000 bounty
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 309 · 🔄 32 · 💬 17 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/0xriptide/status/2054201804536025152) — @0xriptide (riptide)
-[2] [Author page](/entities/authors/0xriptide.md)

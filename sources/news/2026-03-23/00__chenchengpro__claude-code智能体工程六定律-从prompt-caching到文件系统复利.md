@@ -79,10 +79,6 @@ x_source: "crawler"
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 20 · 🔄 7 · 💬 1 · 🔖 0 · 👁 0
-- **关联主题**: [claude-code-ecosystem](/concepts/claude-code-ecosystem.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2035700226464358786) — @chenchengpro (陈成)
-[2] [Author page](/entities/authors/chenchengpro.md)
-[3] [Related topic](/concepts/claude-code-ecosystem.md)

@@ -58,8 +58,6 @@ openclaw 也可以调用 mac 上面的 claude code
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 25 · 🔄 0 · 💬 3 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2026714496220402112) — @dontbesilent (dontbesilent)
-[2] [Author page](/entities/authors/dontbesilent.md)

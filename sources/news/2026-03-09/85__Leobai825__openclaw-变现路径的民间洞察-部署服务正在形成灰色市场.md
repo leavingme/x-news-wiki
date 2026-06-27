@@ -108,8 +108,6 @@ AI焦虑，AI焦虑，AI焦虑
 - **精选类别**: 📰 头条
 - **优先级**: 85
 - **互动**: ❤️ 158 · 🔄 15 · 💬 18 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2030623151667781951) — @Leobai825 (Leobai｜天策)
-[2] [Author page](/entities/authors/leobai825.md)

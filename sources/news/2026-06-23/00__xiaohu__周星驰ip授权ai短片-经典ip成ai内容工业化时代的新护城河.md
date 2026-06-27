@@ -50,10 +50,6 @@ x_source: "crawler"
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 3 · 🔄 0 · 💬 1 · 🔖 0 · 👁 0
-- **关联主题**: [ai-short-drama-industrialization](/concepts/ai-short-drama-industrialization.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2069268252619121136) — @xiaohu (小互)
-[2] [Author page](/entities/authors/xiaohu.md)
-[3] [Related topic](/concepts/ai-short-drama-industrialization.md)

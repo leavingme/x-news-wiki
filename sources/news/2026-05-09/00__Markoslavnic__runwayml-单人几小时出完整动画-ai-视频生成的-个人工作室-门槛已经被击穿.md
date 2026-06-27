@@ -51,10 +51,6 @@ Made in @runwayml in a few hours and a handful of gens. https://t.co/ksrfXtTQnq
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 3222 · 🔄 272 · 💬 244 · 🔖 0 · 👁 0
-- **关联主题**: [open-source-video-generation-leap](/concepts/open-source-video-generation-leap.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/Markoslavnic/status/2052797538885902418) — @Markoslavnic (Marko slavnic)
-[2] [Author page](/entities/authors/markoslavnic.md)
-[3] [Related topic](/concepts/open-source-video-generation-leap.md)

@@ -134,8 +134,6 @@ sato 不靠未来兑现自己。它在它部署的那一刻，已经把题目摆
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 136 · 🔄 23 · 💬 28 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/798_eth/status/2051127322124988479) — @798_eth (798.eth 🍌🌍☮️🗡️👁️)
-[2] [Author page](/entities/authors/798-eth.md)

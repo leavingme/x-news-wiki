@@ -49,8 +49,6 @@ gakki 的锐评：省钱是开发者最大的认知陷阱。为省几美分的 T
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 222 · 🔄 10 · 💬 45 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2028836150845354095) — @tualatrix (图拉鼎)
-[2] [Author page](/entities/authors/tualatrix.md)

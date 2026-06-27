@@ -71,8 +71,6 @@ Google 在一月发布的技术文档里提到了一个关键概念：context pa
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 68 · 🔄 13 · 💬 7 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2034128890638250156) — @xiaohu (小互)
-[2] [Author page](/entities/authors/xiaohu.md)

@@ -61,8 +61,6 @@ PicoClaw：基于Go语言重写的极致轻量 AI 助手
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 45 · 🔄 13 · 💬 10 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2022961649448280167) — @abskoop (ahhhhfs)
-[2] [Author page](/entities/authors/abskoop.md)

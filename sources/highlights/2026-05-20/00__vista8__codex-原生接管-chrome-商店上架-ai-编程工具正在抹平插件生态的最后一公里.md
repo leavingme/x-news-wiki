@@ -64,8 +64,6 @@ gakki：插件生态一直是开发者变现的重要出口。Codex 能自主完
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 10 · 🔄 0 · 💬 7 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2057000721091117455) — @vista8 (向阳乔木)
-[2] [Author page](/entities/authors/vista8.md)

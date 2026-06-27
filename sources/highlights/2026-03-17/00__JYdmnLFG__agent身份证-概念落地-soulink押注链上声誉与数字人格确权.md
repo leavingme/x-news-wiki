@@ -53,10 +53,6 @@ Building @soulink_love 👇🏻给你的Agent搞个身份证吧，毕竟你的Ag
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 204 · 🔄 7 · 💬 57 · 🔖 0 · 👁 0
-- **关联主题**: [agent-economic-autonomy](/concepts/agent-economic-autonomy.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2030821574631374920) — @JYdmnLFG (JY 🎒)
-[2] [Author page](/entities/authors/jydmnlfg.md)
-[3] [Related topic](/concepts/agent-economic-autonomy.md)

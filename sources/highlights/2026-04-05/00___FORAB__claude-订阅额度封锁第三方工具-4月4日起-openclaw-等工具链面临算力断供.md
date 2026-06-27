@@ -64,10 +64,6 @@ gakki：Anthropic 的「克制」人设这次有了商业对价。那些把 Clau
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 81 · 🔄 9 · 💬 43 · 🔖 0 · 👁 0
-- **关联主题**: [anthropic-boundary-decisions-moat](/concepts/anthropic-boundary-decisions-moat.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2040304999905824833) — @_FORAB (AB Kuai.Dong)
-[2] [Author page](/entities/authors/forab.md)
-[3] [Related topic](/concepts/anthropic-boundary-decisions-moat.md)

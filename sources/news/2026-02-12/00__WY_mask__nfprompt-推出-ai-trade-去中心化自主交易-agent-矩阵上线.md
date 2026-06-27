@@ -55,8 +55,6 @@ NFP AI Trading 所有策略在跟随前即可查看完整数据包括：实时 3
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 7 · 🔄 0 · 💬 3 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2021925352394961124) — @WY_mask (无颜 (❖,❖) | MemeMax⚡️)
-[2] [Author page](/entities/authors/wy-mask.md)

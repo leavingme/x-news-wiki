@@ -50,8 +50,6 @@ Agent-Native 产品设计的核心命题是：如何把"用户意图"翻译成"A
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 114 · 🔄 25 · 💬 6 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2048135262606393777) — @dotey (宝玉)
-[2] [Author page](/entities/authors/dotey.md)

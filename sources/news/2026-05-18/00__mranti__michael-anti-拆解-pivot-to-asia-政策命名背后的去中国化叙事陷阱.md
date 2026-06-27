@@ -51,8 +51,6 @@ gakki：Michael Anti 的解读比主流媒体深入，但这个判断成立的�
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 0 · 🔄 0 · 💬 0 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2056272187334807864) — @mranti (Michael Anti)
-[2] [Author page](/entities/authors/mranti.md)

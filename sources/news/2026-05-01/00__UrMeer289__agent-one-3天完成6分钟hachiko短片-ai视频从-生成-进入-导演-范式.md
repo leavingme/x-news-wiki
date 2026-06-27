@@ -55,10 +55,6 @@ you stop fighting the prompt box the moment this clicks. and the people who skip
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 73 · 🔄 3 · 💬 12 · 🔖 0 · 👁 0
-- **关联主题**: [ai-short-drama-industrialization](/concepts/ai-short-drama-industrialization.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/UrMeer289/status/2050075972515610931) — @UrMeer289 (Ur Meer)
-[2] [Author page](/entities/authors/urmeer289.md)
-[3] [Related topic](/concepts/ai-short-drama-industrialization.md)

@@ -60,8 +60,6 @@ claude 发布 sonnet 4.6：比 opus 4.5 更好，但是更便宜
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 28 · 🔄 3 · 💬 1 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2023906590320201742) — @howie_serious (howie.serious)
-[2] [Author page](/entities/authors/howie-serious.md)

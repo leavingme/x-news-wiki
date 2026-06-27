@@ -52,8 +52,6 @@ Codex 明天又要重置额度了，快去
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 8 · 🔄 0 · 💬 7 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2060987650333347975) — @gkxspace (余温)
-[2] [Author page](/entities/authors/gkxspace.md)

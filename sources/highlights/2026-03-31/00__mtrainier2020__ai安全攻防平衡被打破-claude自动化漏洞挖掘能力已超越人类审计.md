@@ -55,10 +55,6 @@ Anthropic 的研究员关于如何用 Claude 挖漏洞，3月25号的演讲。
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 42 · 🔄 3 · 💬 4 · 🔖 0 · 👁 0
-- **关联主题**: [ai-native-code-security](/concepts/ai-native-code-security.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2038670996853715287) — @mtrainier2020 (Rainier)
-[2] [Author page](/entities/authors/mtrainier2020.md)
-[3] [Related topic](/concepts/ai-native-code-security.md)

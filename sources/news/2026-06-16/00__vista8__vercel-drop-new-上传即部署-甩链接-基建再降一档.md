@@ -56,8 +56,6 @@ Vercel出了一个新网站部署方式，操作好简单！
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 25 · 🔄 2 · 💬 10 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2066879306031337815) — @vista8 (向阳乔木)
-[2] [Author page](/entities/authors/vista8.md)

@@ -233,8 +233,6 @@ Clawdbot 不是工具，是伙伴。
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 20 · 🔄 4 · 💬 1 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2015639040251535484) — @ruiapp (Mr.Candy.AI)
-[2] [Author page](/entities/authors/ruiapp.md)

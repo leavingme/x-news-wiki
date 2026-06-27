@@ -49,8 +49,6 @@ OpenAI和Google联手，要让每一张AI图片都无所遁形。
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 8 · 🔄 0 · 💬 2 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2057299527254847932) — @Khazix0918 (数字生命卡兹克)
-[2] [Author page](/entities/authors/khazix0918.md)

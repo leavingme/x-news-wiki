@@ -85,8 +85,6 @@ Apodex 多训了两件事：团队协作 + 验证
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 18 · 🔄 5 · 💬 13 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2069670789138542867) — @lxfater (铁锤人)
-[2] [Author page](/entities/authors/lxfater.md)

@@ -71,8 +71,6 @@ Pretext 做的事情就是给浏览器一把尺子。量一下就知道了，不
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 78 · 🔄 6 · 💬 7 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2038437154322628736) — @xiaohu (小互)
-[2] [Author page](/entities/authors/xiaohu.md)

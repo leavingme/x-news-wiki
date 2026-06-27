@@ -147,10 +147,6 @@ Harness-as-a-Service
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 130 · 🔄 31 · 💬 9 · 🔖 0 · 👁 0
-- **关联主题**: [harness-engineering](/concepts/harness-engineering.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2053456173622530407) — @shao__meng (meng shao)
-[2] [Author page](/entities/authors/shao-meng.md)
-[3] [Related topic](/concepts/harness-engineering.md)

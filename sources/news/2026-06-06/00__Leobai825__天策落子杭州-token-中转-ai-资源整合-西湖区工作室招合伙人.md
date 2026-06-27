@@ -57,8 +57,6 @@ gakki 锐评：Token 中转/分发是大陆 AI 创业的事实级赛道，但合
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 28 · 🔄 0 · 💬 16 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2063135317603852666) — @Leobai825 (天策)
-[2] [Author page](/entities/authors/leobai825.md)

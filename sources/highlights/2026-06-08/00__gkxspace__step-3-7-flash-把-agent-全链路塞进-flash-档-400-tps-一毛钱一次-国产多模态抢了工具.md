@@ -66,10 +66,6 @@ Step国内平台：https://t.co/js0DN2in1C
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 23 · 🔄 1 · 💬 13 · 🔖 0 · 👁 0
-- **关联主题**: [domestic-model-benchmark-performance](/concepts/domestic-model-benchmark-performance.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2063947036945154493) — @gkxspace (余温)
-[2] [Author page](/entities/authors/gkxspace.md)
-[3] [Related topic](/concepts/domestic-model-benchmark-performance.md)

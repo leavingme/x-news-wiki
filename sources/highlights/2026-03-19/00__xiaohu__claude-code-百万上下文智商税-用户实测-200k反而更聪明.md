@@ -55,8 +55,6 @@ gakki锐评：上下文长度是容易营销的数字，但「有效推理深度
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 109 · 🔄 6 · 💬 57 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2034504453378977874) — @xiaohu (小互)
-[2] [Author page](/entities/authors/xiaohu.md)

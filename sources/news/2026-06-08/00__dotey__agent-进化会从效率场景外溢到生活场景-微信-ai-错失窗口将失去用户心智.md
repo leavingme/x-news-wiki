@@ -54,8 +54,6 @@ gakki 锐评：平台型 App 真正的威胁不是另一个超级 App，而是 A
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 2 · 🔄 0 · 💬 1 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2064035848794906859) — @dotey (宝玉)
-[2] [Author page](/entities/authors/dotey.md)

@@ -50,8 +50,6 @@ deepseek 确实便宜，你要说金钱性价比，他是很高的
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 6 · 🔄 0 · 💬 1 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2052178327327359456) — @oran_ge (Orange AI)
-[2] [Author page](/entities/authors/oran-ge.md)

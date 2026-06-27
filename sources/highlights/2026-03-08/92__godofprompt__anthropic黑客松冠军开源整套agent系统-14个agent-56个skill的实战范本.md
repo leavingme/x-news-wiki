@@ -60,10 +60,6 @@ Then he packaged 10+ months of daily Claude Code refinement into one repo:
 - **精选类别**: ✨ 亮点
 - **优先级**: 92
 - **互动**: ❤️ 184 · 🔄 9 · 💬 8 · 🔖 0 · 👁 0
-- **关联主题**: [claude-code-ecosystem](/concepts/claude-code-ecosystem.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2030434516397891732) — @godofprompt (God of Prompt)
-[2] [Author page](/entities/authors/godofprompt.md)
-[3] [Related topic](/concepts/claude-code-ecosystem.md)

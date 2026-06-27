@@ -61,8 +61,6 @@ Spectre One：第一款能让你"一键隐身"的反录音设备。
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 807 · 🔄 149 · 💬 49 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2029045531914453198) — @xiaohu (小互)
-[2] [Author page](/entities/authors/xiaohu.md)

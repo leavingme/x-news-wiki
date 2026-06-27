@@ -52,8 +52,6 @@ Co-led by Glilot Capital, NfX and SignalFire. https://t.co/gwRvMGMIjH
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 351 · 🔄 46 · 💬 51 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/ataiiam/status/2051683035310137353) — @ataiiam (Atai Barkai)
-[2] [Author page](/entities/authors/ataiiam.md)

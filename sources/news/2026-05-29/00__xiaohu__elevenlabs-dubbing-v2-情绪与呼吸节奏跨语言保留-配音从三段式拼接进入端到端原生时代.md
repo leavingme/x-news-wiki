@@ -81,10 +81,6 @@ MrBeast 风格的荒岛求生在 English/German/French 之间无缝切换
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 3 · 🔄 0 · 💬 4 · 🔖 0 · 👁 0
-- **关联主题**: [content-generation-and-multimodal](/concepts/content-generation-and-multimodal.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2060164974732054947) — @xiaohu (小互)
-[2] [Author page](/entities/authors/xiaohu.md)
-[3] [Related topic](/concepts/content-generation-and-multimodal.md)

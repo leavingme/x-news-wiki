@@ -49,10 +49,6 @@ gakki 锐评：yetone 一句话背书含金量高，但信息密度低，需要 
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 31 · 🔄 0 · 💬 12 · 🔖 0 · 👁 0
-- **关联主题**: [codex-cli-tool-encapsulation](/concepts/codex-cli-tool-encapsulation.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2066440196468650367) — @yetone (yetone)
-[2] [Author page](/entities/authors/yetone.md)
-[3] [Related topic](/concepts/codex-cli-tool-encapsulation.md)

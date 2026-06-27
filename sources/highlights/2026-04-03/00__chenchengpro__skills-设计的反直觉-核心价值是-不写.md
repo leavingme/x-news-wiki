@@ -69,8 +69,6 @@ x_source: "crawler"
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 195 · 🔄 42 · 💬 9 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2039707154371018930) — @chenchengpro (陈成)
-[2] [Author page](/entities/authors/chenchengpro.md)

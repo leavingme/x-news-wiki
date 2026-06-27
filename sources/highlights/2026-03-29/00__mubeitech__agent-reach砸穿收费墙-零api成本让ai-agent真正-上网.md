@@ -69,8 +69,6 @@ GitHub 已经飙到了 1.1万颗星。
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 21 · 🔄 4 · 💬 1 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2038026648637878308) — @mubeitech (墓碑科技)
-[2] [Author page](/entities/authors/mubeitech.md)

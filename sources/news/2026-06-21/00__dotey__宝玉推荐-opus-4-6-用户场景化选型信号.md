@@ -51,8 +51,6 @@ gakki 锐评：单条推荐含金量有限，但配合宝玉其他回复可见 O
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 0 · 🔄 0 · 💬 1 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2068745433074049312) — @dotey (宝玉)
-[2] [Author page](/entities/authors/dotey.md)

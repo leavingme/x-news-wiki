@@ -49,10 +49,6 @@ YouMind 已支持 Seed 2.1 模型，据说媲美 Opus 4.6
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 9 · 🔄 0 · 💬 3 · 🔖 0 · 👁 0
-- **关联主题**: [ai-knowledge-tool-competition](/concepts/ai-knowledge-tool-competition.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2069249489731518582) — @lifesinger (Frank Wang 玉伯)
-[2] [Author page](/entities/authors/lifesinger.md)
-[3] [Related topic](/concepts/ai-knowledge-tool-competition.md)

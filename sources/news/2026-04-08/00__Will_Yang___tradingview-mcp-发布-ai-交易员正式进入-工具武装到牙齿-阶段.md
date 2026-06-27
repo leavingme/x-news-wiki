@@ -61,8 +61,6 @@ MCP 协议正在成为 Agent 工具生态的「USB-C 接口」——以前要分
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 166 · 🔄 41 · 💬 10 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2041702447861919956) — @Will_Yang_ (Will Yang)
-[2] [Author page](/entities/authors/will-yang.md)

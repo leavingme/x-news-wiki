@@ -54,10 +54,6 @@ Aletheia has already achieved remarkable milestones: generating multiple publica
 - **精选类别**: ✨ 亮点
 - **优先级**: 92
 - **互动**: ❤️ 179 · 🔄 34 · 💬 8 · 🔖 0 · 👁 0
-- **关联主题**: [ai-autonomous-scientific-discovery](/concepts/ai-autonomous-scientific-discovery.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2030891969892040815) — @jiqizhixin (机器之心 JIQIZHIXIN)
-[2] [Author page](/entities/authors/jiqizhixin.md)
-[3] [Related topic](/concepts/ai-autonomous-scientific-discovery.md)

@@ -53,8 +53,6 @@ OpenAI 今天宣布，Codex 的 Computer Use 功能正式登陆 Windows。
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 3 · 🔄 0 · 💬 1 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2060436685037682896) — @dotey (宝玉)
-[2] [Author page](/entities/authors/dotey.md)

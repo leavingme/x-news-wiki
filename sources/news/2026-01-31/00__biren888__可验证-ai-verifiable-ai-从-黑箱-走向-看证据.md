@@ -55,8 +55,6 @@ Pi 的锐评：信任是 AI 落地的最后一道坎，能自证清白的 AI 才
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 16 · 🔄 0 · 💬 16 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2017565763469799897) — @biren888 (⚡️biren888.eth⚡️🧠SENT)
-[2] [Author page](/entities/authors/biren888.md)

@@ -79,10 +79,6 @@ If you are not optimistic about this project now, you will probably regret it la
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 172 · 🔄 0 · 💬 202 · 🔖 0 · 👁 0
-- **关联主题**: [ai-data-blockchain-verification](/concepts/ai-data-blockchain-verification.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/1964967349326586337) — @quschdnjs (Michael 宝塔镇河妖🧙🏿‍♀️)
-[2] [Author page](/entities/authors/quschdnjs.md)
-[3] [Related topic](/concepts/ai-data-blockchain-verification.md)

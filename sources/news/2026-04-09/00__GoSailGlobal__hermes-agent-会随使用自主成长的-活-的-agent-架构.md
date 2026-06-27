@@ -96,10 +96,6 @@ https://t.co/rNnCC3FmuY
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 111 · 🔄 13 · 💬 1 · 🔖 0 · 👁 0
-- **关联主题**: [sub-agents-multi-expert](/concepts/sub-agents-multi-expert.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2032357072734749079) — @GoSailGlobal (Jason Zhu)
-[2] [Author page](/entities/authors/gosailglobal.md)
-[3] [Related topic](/concepts/sub-agents-multi-expert.md)

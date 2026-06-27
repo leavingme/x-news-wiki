@@ -87,10 +87,6 @@ Apodex ：一个面向深度研究而打造的 Self-evolving heavy-duty solver
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 2 · 🔄 0 · 💬 6 · 🔖 0 · 👁 0
-- **关联主题**: [deep-research-agent](/concepts/deep-research-agent.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2067487053953294574) — @xiaohu (小互)
-[2] [Author page](/entities/authors/xiaohu.md)
-[3] [Related topic](/concepts/deep-research-agent.md)

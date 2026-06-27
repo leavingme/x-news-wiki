@@ -85,10 +85,6 @@ Hermes Agent：Agent 自动生成技能、自动化持久记忆、偏向 Hermes 
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 201 · 🔄 50 · 💬 2 · 🔖 0 · 👁 0
-- **关联主题**: [multi-agent-framework-ecosystem-comparison](/concepts/multi-agent-framework-ecosystem-comparison.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2038245792096624829) — @sitinme (sitin)
-[2] [Author page](/entities/authors/sitinme.md)
-[3] [Related topic](/concepts/multi-agent-framework-ecosystem-comparison.md)

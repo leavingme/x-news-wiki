@@ -49,8 +49,6 @@ OpenAI Set to Redefine Smartphones; MediaTek, Qualcomm & Luxshare Key to Its AI 
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 394 · 🔄 71 · 💬 21 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/mingchikuo/status/2048587389791269182) — @mingchikuo (郭明錤｜Ming-Chi Kuo)
-[2] [Author page](/entities/authors/mingchikuo.md)

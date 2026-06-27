@@ -58,10 +58,6 @@ NotebookLM 迎来重大升级
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 9 · 🔄 1 · 💬 3 · 🔖 0 · 👁 0
-- **关联主题**: [ai-knowledge-tool-competition](/concepts/ai-knowledge-tool-competition.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2064236027812933836) — @xiaohu (小互)
-[2] [Author page](/entities/authors/xiaohu.md)
-[3] [Related topic](/concepts/ai-knowledge-tool-competition.md)

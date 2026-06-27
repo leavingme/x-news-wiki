@@ -100,8 +100,6 @@ Recall 的安全模型是动态和发展的。
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 104 · 🔄 1 · 💬 200 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/1972117795745026065) — @AwbczBTC (Crypto爱玩币的村长🌊)
-[2] [Author page](/entities/authors/awbczbtc.md)

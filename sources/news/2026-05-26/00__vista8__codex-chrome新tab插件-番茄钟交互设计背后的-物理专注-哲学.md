@@ -57,8 +57,6 @@ Chrome新开Tab，是每天最高频用的页面之一。
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 6 · 🔄 0 · 💬 1 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2059304985368936868) — @vista8 (向阳乔木)
-[2] [Author page](/entities/authors/vista8.md)

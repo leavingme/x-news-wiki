@@ -55,8 +55,6 @@ M4 24G还是捉襟见肘。 https://t.co/lSo0o6uSz0
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 2 · 🔄 0 · 💬 2 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2060904422709055817) — @vista8 (向阳乔木)
-[2] [Author page](/entities/authors/vista8.md)

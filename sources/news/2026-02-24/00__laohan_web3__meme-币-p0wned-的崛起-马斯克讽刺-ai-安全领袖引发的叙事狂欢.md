@@ -54,8 +54,6 @@ $p0wned token directly leverages Elon Musk's sarcastic use of 'p0wned' in a twee
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 4 · 🔄 3 · 💬 0 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2026023369041420488) — @laohan_web3 (币圈老韩)
-[2] [Author page](/entities/authors/laohan-web3.md)

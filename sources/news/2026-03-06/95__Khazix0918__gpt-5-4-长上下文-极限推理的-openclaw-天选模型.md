@@ -49,8 +49,6 @@ GPT-5.4深夜发布，最适合OpenClaw的天选模型登场了。
 - **精选类别**: 📰 头条
 - **优先级**: 95
 - **互动**: ❤️ 198 · 🔄 30 · 💬 26 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2029756593320182092) — @Khazix0918 (数字生命卡兹克)
-[2] [Author page](/entities/authors/khazix0918.md)

@@ -55,8 +55,6 @@ Publish then RT + comment "dev" for credits
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 373 · 🔄 132 · 💬 168 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/HeyGen/status/2051338576068333738) — @HeyGen (HeyGen)
-[2] [Author page](/entities/authors/heygen.md)

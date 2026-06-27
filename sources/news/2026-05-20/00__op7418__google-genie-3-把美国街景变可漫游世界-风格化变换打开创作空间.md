@@ -57,10 +57,6 @@ gakki：街景 + 风格化本质是「数据资源的创作变现」，壁垒在
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 17 · 🔄 1 · 💬 4 · 🔖 0 · 👁 0
-- **关联主题**: [ai-3d-content-democratization](/concepts/ai-3d-content-democratization.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2056931266038239274) — @op7418 (歸藏(guizang.ai))
-[2] [Author page](/entities/authors/op7418.md)
-[3] [Related topic](/concepts/ai-3d-content-democratization.md)

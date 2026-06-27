@@ -50,8 +50,6 @@ Kimi官方开赌啦！ https://t.co/uwAsNobM71
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 4 · 🔄 1 · 💬 0 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2065624552336732559) — @mranti (Michael Anti)
-[2] [Author page](/entities/authors/mranti.md)

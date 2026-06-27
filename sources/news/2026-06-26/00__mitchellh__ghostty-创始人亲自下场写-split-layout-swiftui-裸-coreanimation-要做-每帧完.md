@@ -50,10 +50,6 @@ Work-in-progress: a new split layout framework for nearly all Apple platforms (m
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 1745 · 🔄 45 · 💬 69 · 🔖 0 · 👁 0
-- **关联主题**: [ghostty-terminal-adoption](/concepts/ghostty-terminal-adoption.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2070273858154987537) — @mitchellh (Mitchell Hashimoto)
-[2] [Author page](/entities/authors/mitchellh.md)
-[3] [Related topic](/concepts/ghostty-terminal-adoption.md)

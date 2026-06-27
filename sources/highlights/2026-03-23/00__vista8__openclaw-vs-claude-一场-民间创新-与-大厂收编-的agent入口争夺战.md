@@ -64,10 +64,6 @@ OpenClaw 和Claude 产品发布竞争时间线：
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 43 · 🔄 1 · 💬 25 · 🔖 0 · 👁 0
-- **关联主题**: [agent-multi-platform](/concepts/agent-multi-platform.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2035853016541344231) — @vista8 (向阳乔木)
-[2] [Author page](/entities/authors/vista8.md)
-[3] [Related topic](/concepts/agent-multi-platform.md)

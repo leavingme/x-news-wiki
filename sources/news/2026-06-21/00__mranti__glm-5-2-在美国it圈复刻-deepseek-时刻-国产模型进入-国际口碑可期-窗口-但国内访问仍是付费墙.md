@@ -49,8 +49,6 @@ gakki 锐评：海外 hype ≠ 国内可及。GLM 5.2 走的是 Anthropic 式的
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 1 · 🔄 0 · 💬 1 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2068502724153667927) — @mranti (Michael Anti)
-[2] [Author page](/entities/authors/mranti.md)

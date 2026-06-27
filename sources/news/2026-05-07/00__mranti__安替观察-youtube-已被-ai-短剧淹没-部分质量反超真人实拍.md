@@ -48,10 +48,6 @@ Gakki 锐评：信号不在"AI 能做短剧"——这是两年前的事。信号
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 2 · 🔄 0 · 💬 1 · 🔖 0 · 👁 0
-- **关联主题**: [ai-short-drama-industrialization](/concepts/ai-short-drama-industrialization.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2052371500930646179) — @mranti (Michael Anti)
-[2] [Author page](/entities/authors/mranti.md)
-[3] [Related topic](/concepts/ai-short-drama-industrialization.md)

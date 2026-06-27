@@ -50,8 +50,6 @@ OpenAI 算是把 macOS 玩明白了，local-first Agent!!!!!!!!!!!
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 152 · 🔄 0 · 💬 3 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2047384525425217861) — @yetone (yetone)
-[2] [Author page](/entities/authors/yetone.md)

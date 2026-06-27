@@ -51,8 +51,6 @@ gakki锐评：当工具的胃口超过它承诺服务的群体能承受的配置
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 8 · 🔄 0 · 💬 2 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2060494697206837754) — @dotey (宝玉)
-[2] [Author page](/entities/authors/dotey.md)

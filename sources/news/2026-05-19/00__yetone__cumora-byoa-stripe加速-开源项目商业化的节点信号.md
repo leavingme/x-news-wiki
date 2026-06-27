@@ -43,8 +43,6 @@ Cumora正在全力接入BYOA（Bring Your Own API Key）和Stripe支付，意味
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 19 · 🔄 0 · 💬 3 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2056525900909564102) — @yetone (yetone)
-[2] [Author page](/entities/authors/yetone.md)

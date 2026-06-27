@@ -52,10 +52,6 @@ GLM 5.2今晚Coding Plan上线，下周开源。
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 28 · 🔄 1 · 💬 5 · 🔖 0 · 👁 0
-- **关联主题**: [domestic-model-competition](/concepts/domestic-model-competition.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2065710147931087298) — @Khazix0918 (数字生命卡兹克)
-[2] [Author page](/entities/authors/khazix0918.md)
-[3] [Related topic](/concepts/domestic-model-competition.md)

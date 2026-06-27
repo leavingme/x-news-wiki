@@ -49,8 +49,6 @@ Agent friendly 排名：CLI &gt; GUI with a11y &gt;&gt; TUI
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 130 · 🔄 2 · 💬 11 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2044485583704387709) — @yetone (yetone)
-[2] [Author page](/entities/authors/yetone.md)

@@ -51,8 +51,6 @@ Claude Code 虽然移动端可以 remote control，但是 plan 后不能 bypass 
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 13 · 🔄 1 · 💬 19 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2063758466573795692) — @dotey (宝玉)
-[2] [Author page](/entities/authors/dotey.md)

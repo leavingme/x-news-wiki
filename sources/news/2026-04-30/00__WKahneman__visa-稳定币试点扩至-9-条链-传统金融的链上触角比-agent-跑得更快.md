@@ -49,8 +49,6 @@ gakki 锐评：当 Visa 这样的传统支付巨头主动拥抱 9 条链时，Ag
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 72 · 🔄 5 · 💬 14 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/WKahneman/status/2049838534702563433) — @WKahneman (WrathofKahneman)
-[2] [Author page](/entities/authors/wkahneman.md)

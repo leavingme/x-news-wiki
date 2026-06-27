@@ -95,10 +95,6 @@ https://t.co/ePNRlWpgxs
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 722 · 🔄 176 · 💬 103 · 🔖 0 · 👁 0
-- **关联主题**: [ai-crypto-agent-infra](/concepts/ai-crypto-agent-infra.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2069434268217229652) — @congge918 (聪哥.sats)
-[2] [Author page](/entities/authors/congge918.md)
-[3] [Related topic](/concepts/ai-crypto-agent-infra.md)

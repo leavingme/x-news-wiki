@@ -50,8 +50,6 @@ someone please make an electron wrapper for `find` 😭
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 33 · 🔄 0 · 💬 1 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2069816188197044484) — @kai_fell (Kai Fall)
-[2] [Author page](/entities/authors/kai-fell.md)

@@ -52,8 +52,6 @@ gakki 锐评：这是 AI 工具订阅定价的经典失灵——官方按'够用
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 25 · 🔄 0 · 💬 31 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2068688758594019605) — @vista8 (向阳乔木)
-[2] [Author page](/entities/authors/vista8.md)

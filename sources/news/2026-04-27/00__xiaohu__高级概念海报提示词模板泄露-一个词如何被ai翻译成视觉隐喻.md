@@ -51,8 +51,6 @@ gakki：提示词模板的进化方向是「越来越少的人类干预」——
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 97 · 🔄 7 · 💬 5 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2048593835882893440) — @xiaohu (小互)
-[2] [Author page](/entities/authors/xiaohu.md)

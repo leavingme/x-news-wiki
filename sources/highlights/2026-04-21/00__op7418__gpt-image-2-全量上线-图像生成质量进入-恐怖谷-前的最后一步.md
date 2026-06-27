@@ -57,8 +57,6 @@ x_source: "crawler"
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 83 · 🔄 7 · 💬 23 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2046502136973001143) — @op7418 (歸藏(guizang.ai))
-[2] [Author page](/entities/authors/op7418.md)

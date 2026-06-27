@@ -56,8 +56,6 @@ x_source: "bookmark"
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 339 · 🔄 28 · 💬 20 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2025978930868482458) — @lidangzzz (lidang 立党 （劝人卖房/学CS/买SP500/纳100/OpenAI/Anthrop第一人）)
-[2] [Author page](/entities/authors/lidangzzz.md)

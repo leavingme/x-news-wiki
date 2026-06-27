@@ -57,8 +57,6 @@ GPT-Realtime 2.0 实时语音接入AI
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 36 · 🔄 2 · 💬 7 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2060895245290942840) — @xiaohu (小互)
-[2] [Author page](/entities/authors/xiaohu.md)

@@ -53,10 +53,6 @@ Safe in Agent👉https://t.co/EZvBKXAIW8 https://t.co/hqys7jvzt7
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 39 · 🔄 6 · 💬 22 · 🔖 0 · 👁 0
-- **关联主题**: [ai-crypto-agent-infra](/concepts/ai-crypto-agent-infra.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2037860737666908566) — @okxchinese (OKX中文)
-[2] [Author page](/entities/authors/okxchinese.md)
-[3] [Related topic](/concepts/ai-crypto-agent-infra.md)

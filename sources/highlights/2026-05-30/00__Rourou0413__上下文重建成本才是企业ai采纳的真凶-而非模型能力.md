@@ -53,10 +53,6 @@ Lucius的实践证明，AI可以成为组织结构中的一个劳动单元，而
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 3 · 🔄 0 · 💬 0 · 🔖 0 · 👁 0
-- **关联主题**: [agent-context-asset-management](/concepts/agent-context-asset-management.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2060616473991958822) — @Rourou0413 (Rourou)
-[2] [Author page](/entities/authors/rourou0413.md)
-[3] [Related topic](/concepts/agent-context-asset-management.md)

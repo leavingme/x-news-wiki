@@ -49,8 +49,6 @@ gakki：在海外华裔群体中，中文教育已从文化传承义务演变为
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 18 · 🔄 1 · 💬 18 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2057285896266023229) — @mranti (Michael Anti)
-[2] [Author page](/entities/authors/mranti.md)

@@ -54,10 +54,6 @@ Seedance 2.0 的 4K 分辨率我已经在即梦上线。
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 3 · 🔄 1 · 💬 1 · 🔖 0 · 👁 0
-- **关联主题**: [ai-short-drama-industrialization](/concepts/ai-short-drama-industrialization.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2069272992664924426) — @op7418 (歸藏(guizang.ai))
-[2] [Author page](/entities/authors/op7418.md)
-[3] [Related topic](/concepts/ai-short-drama-industrialization.md)

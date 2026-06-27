@@ -98,10 +98,6 @@ https://t.co/oI6XXkl560
 - **精选类别**: ✨ 亮点
 - **优先级**: 90
 - **互动**: ❤️ 189 · 🔄 28 · 💬 18 · 🔖 0 · 👁 0
-- **关联主题**: [ai-coding-market-divergence](/concepts/ai-coding-market-divergence.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2032266652893790437) — @dotey (宝玉)
-[2] [Author page](/entities/authors/dotey.md)
-[3] [Related topic](/concepts/ai-coding-market-divergence.md)

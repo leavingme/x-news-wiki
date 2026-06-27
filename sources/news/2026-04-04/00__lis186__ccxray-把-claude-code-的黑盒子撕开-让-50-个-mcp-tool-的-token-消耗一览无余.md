@@ -69,8 +69,6 @@ GitHub: https://t.co/Vu8OXNdUUZ
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 151 · 🔄 31 · 💬 9 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2039988456055869576) — @lis186 (Justin Lee)
-[2] [Author page](/entities/authors/lis186.md)

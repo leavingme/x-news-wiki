@@ -57,8 +57,6 @@ Founders’ statement: https://t.co/7ZEi7q8a8l
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 103 · 🔄 9 · 💬 9 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/FrankRHutter/status/2051271222898409987) — @FrankRHutter (Frank Hutter)
-[2] [Author page](/entities/authors/frankrhutter.md)

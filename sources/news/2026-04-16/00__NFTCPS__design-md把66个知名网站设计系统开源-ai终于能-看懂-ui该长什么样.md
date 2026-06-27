@@ -100,10 +100,6 @@ https://t.co/Y3AsiMUIQm
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 2646 · 🔄 572 · 💬 36 · 🔖 0 · 👁 0
-- **关联主题**: [design-md-protocol](/concepts/design-md-protocol.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2043937293820670331) — @NFTCPS (鸟哥 | 蓝鸟会🕊️)
-[2] [Author page](/entities/authors/nftcps.md)
-[3] [Related topic](/concepts/design-md-protocol.md)

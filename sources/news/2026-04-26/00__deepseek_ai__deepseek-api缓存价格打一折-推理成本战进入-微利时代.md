@@ -55,8 +55,6 @@ Effective immediately, the price for input cache hits across the ENTIRE DeepSeek
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 4207 · 🔄 384 · 💬 200 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/deepseek_ai/status/2048440764368347611) — @deepseek_ai (DeepSeek)
-[2] [Author page](/entities/authors/deepseek-ai.md)

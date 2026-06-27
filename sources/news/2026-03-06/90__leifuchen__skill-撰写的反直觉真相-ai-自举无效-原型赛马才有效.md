@@ -51,8 +51,6 @@ x_source: "crawler"
 - **精选类别**: 📰 头条
 - **优先级**: 90
 - **互动**: ❤️ 48 · 🔄 5 · 💬 2 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2029538793552789916) — @leifuchen (leifu _/)
-[2] [Author page](/entities/authors/leifuchen.md)

@@ -57,10 +57,6 @@ Inspect &amp; install this for me: https://t.co/sJ0x6Rj0q9, tell me where you in
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 2 · 🔄 0 · 💬 0 · 🔖 0 · 👁 0
-- **关联主题**: [agent-lego-composable-toolchain](/concepts/agent-lego-composable-toolchain.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2057124948238311910) — @vista8 (向阳乔木)
-[2] [Author page](/entities/authors/vista8.md)
-[3] [Related topic](/concepts/agent-lego-composable-toolchain.md)

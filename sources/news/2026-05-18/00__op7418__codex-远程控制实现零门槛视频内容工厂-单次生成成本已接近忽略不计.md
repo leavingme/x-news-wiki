@@ -57,8 +57,6 @@ Codex 配合远程控制不在家也可以一键产出视频内容
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 2 · 🔄 0 · 💬 8 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2056314568037761427) — @op7418 (歸藏(guizang.ai))
-[2] [Author page](/entities/authors/op7418.md)

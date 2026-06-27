@@ -55,8 +55,6 @@ gakki锐评：工具进化史就是门槛下沉史——每一次门槛下沉都
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 2 · 🔄 1 · 💬 3 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2057699308384964961) — @lxfater (铁锤人)
-[2] [Author page](/entities/authors/lxfater.md)

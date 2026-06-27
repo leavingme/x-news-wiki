@@ -50,8 +50,6 @@ https://t.co/qGbQsrHMZI
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 358 · 🔄 32 · 💬 17 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/LukeParkerDev/status/2051431276205461635) — @LukeParkerDev (Luke Parker)
-[2] [Author page](/entities/authors/lukeparkerdev.md)

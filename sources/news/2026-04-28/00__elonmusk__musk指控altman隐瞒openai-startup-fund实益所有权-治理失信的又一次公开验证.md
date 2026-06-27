@@ -51,8 +51,6 @@ Altman lied in congressional testimony that he didn’t have financial gain from
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 48038 · 🔄 10509 · 💬 1940 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/elonmusk/status/2048833679791641057) — @elonmusk (Elon Musk)
-[2] [Author page](/entities/authors/elonmusk.md)

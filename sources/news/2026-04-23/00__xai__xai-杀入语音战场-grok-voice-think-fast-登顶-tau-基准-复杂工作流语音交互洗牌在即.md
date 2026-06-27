@@ -57,8 +57,6 @@ https://t.co/SwdNYRH7Po
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 1776 · 🔄 217 · 💬 133 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/xai/status/2047441173569216721) — @xai (xAI)
-[2] [Author page](/entities/authors/xai.md)

@@ -49,10 +49,6 @@ x_source: "crawler"
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 148 · 🔄 10 · 💬 63 · 🔖 0 · 👁 0
-- **关联主题**: [ai-trading-480x-returns](/concepts/ai-trading-480x-returns.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2045376313628958898) — @XDmnnn0616 (XDmnnn不淡)
-[2] [Author page](/entities/authors/xdmnnn0616.md)
-[3] [Related topic](/concepts/ai-trading-480x-returns.md)

@@ -64,10 +64,6 @@ Via: .@mingchikuo
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 1353 · 🔄 102 · 💬 160 · 🔖 0 · 👁 0
-- **关联主题**: [openai-product-strategy-shift](/concepts/openai-product-strategy-shift.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/ShishirShelke1/status/2051531431793574310) — @ShishirShelke1 (Shishir)
-[2] [Author page](/entities/authors/shishirshelke1.md)
-[3] [Related topic](/concepts/openai-product-strategy-shift.md)

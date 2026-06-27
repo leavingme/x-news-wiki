@@ -61,8 +61,6 @@ GenLayer 能让节点对不确定的结果达成一致，
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 20 · 🔄 0 · 💬 24 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2017909624301842594) — @3333yyds (Nana🐬TermMax)
-[2] [Author page](/entities/authors/3333yyds.md)

@@ -61,8 +61,6 @@ https://t.co/pR6792kVsN
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 1280 · 🔄 222 · 💬 80 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2038904406406476195) — @chenchengpro (陈成)
-[2] [Author page](/entities/authors/chenchengpro.md)

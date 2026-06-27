@@ -76,8 +76,6 @@ https://t.co/PAeIJMw6mN
 - **精选类别**: 📰 头条
 - **优先级**: 80
 - **互动**: ❤️ 1357 · 🔄 328 · 💬 36 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2032557322078400527) — @_0xKenny (Kenny.eth)
-[2] [Author page](/entities/authors/0xkenny.md)

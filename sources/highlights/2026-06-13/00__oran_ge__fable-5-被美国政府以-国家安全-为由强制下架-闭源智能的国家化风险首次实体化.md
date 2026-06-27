@@ -73,8 +73,6 @@ K 2.7 Code 相比上一代的 K2.6 ，他们没有选择去刷分，主要使用
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 49 · 🔄 2 · 💬 16 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2065717828557377624) — @oran_ge (Orange AI)
-[2] [Author page](/entities/authors/oran-ge.md)

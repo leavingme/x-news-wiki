@@ -64,10 +64,6 @@ That's nearly 1,000x less compute and a new way for LLMs to scale.
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 15272 · 🔄 1952 · 💬 1057 · 🔖 0 · 👁 0
-- **关联主题**: [推理与模型架构](/concepts/推理与模型架构.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/alex_whedon/status/2051663268704636937) — @alex_whedon (Alexander Whedon)
-[2] [Author page](/entities/authors/alex-whedon.md)
-[3] [Related topic](/concepts/推理与模型架构.md)

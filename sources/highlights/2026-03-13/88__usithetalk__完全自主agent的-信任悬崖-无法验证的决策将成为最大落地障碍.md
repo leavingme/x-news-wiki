@@ -51,10 +51,6 @@ If users cannot verify how the agent makes decisions, the “no team” narrativ
 - **精选类别**: ✨ 亮点
 - **优先级**: 88
 - **互动**: ❤️ 288 · 🔄 13 · 💬 18 · 🔖 0 · 👁 0
-- **关联主题**: [agent-reliability-multi-model-memory](/concepts/agent-reliability-multi-model-memory.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2032406283484111164) — @usithetalk (Vugar Usi)
-[2] [Author page](/entities/authors/usithetalk.md)
-[3] [Related topic](/concepts/agent-reliability-multi-model-memory.md)

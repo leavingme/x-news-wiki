@@ -64,8 +64,6 @@ awesome-design-md 把 Claude、Linear、Vercel、Stripe 这些顶级产品的设
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 130 · 🔄 19 · 💬 5 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2041146756419772489) — @axiaisacat (axiaisacat)
-[2] [Author page](/entities/authors/axiaisacat.md)

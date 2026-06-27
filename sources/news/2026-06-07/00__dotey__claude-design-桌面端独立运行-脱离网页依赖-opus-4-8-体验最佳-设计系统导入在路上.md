@@ -51,10 +51,6 @@ x_source: "crawler"
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 4 · 🔄 1 · 💬 0 · 🔖 0 · 👁 0
-- **关联主题**: [claude-design-disruption](/concepts/claude-design-disruption.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2063511010917437579) — @dotey (宝玉)
-[2] [Author page](/entities/authors/dotey.md)
-[3] [Related topic](/concepts/claude-design-disruption.md)

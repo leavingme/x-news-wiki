@@ -57,8 +57,6 @@ Cloudflare 5美元worker套餐，里面提供了50+开源模型。
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 300 · 🔄 23 · 💬 25 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2046398729570467983) — @vista8 (向阳乔木)
-[2] [Author page](/entities/authors/vista8.md)

@@ -57,8 +57,6 @@ OpenAI、Anthropic每周营收增长10到20亿美元，"AI公司不赚钱"的叙
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 41 · 🔄 3 · 💬 13 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2034884908133519407) — @PANews (PANews丨APP全面升级)
-[2] [Author page](/entities/authors/panews.md)

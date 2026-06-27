@@ -61,8 +61,6 @@ gakki锐评：当所有人都在卷内容形式，「真正教会别人」反而
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 16 · 🔄 2 · 💬 4 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2055206492777918974) — @lxfater (铁锤人)
-[2] [Author page](/entities/authors/lxfater.md)

@@ -57,8 +57,6 @@ x_source: "crawler"
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 5 · 🔄 1 · 💬 0 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2023460026619482132) — @FuSheng_0306 (傅盛)
-[2] [Author page](/entities/authors/fusheng-0306.md)

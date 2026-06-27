@@ -112,10 +112,6 @@ Agent 调度关心的是：
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 21 · 🔄 0 · 💬 16 · 🔖 0 · 👁 0
-- **关联主题**: [ai-tool-subscription-value](/concepts/ai-tool-subscription-value.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2068020897395413099) — @Zesee (Rachel🥥)
-[2] [Author page](/entities/authors/zesee.md)
-[3] [Related topic](/concepts/ai-tool-subscription-value.md)

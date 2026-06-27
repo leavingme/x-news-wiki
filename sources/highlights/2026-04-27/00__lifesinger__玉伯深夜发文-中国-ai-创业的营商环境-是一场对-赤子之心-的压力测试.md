@@ -65,8 +65,6 @@ Manus 能杀出来，是真心开心。现在就没几个真正杀出来的真 A
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 102 · 🔄 4 · 💬 26 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2048758900057686443) — @lifesinger (Frank Wang 玉伯)
-[2] [Author page](/entities/authors/lifesinger.md)

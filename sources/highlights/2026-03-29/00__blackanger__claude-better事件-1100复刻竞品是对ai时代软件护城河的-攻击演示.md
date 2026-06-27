@@ -63,8 +63,6 @@ Codex用$1100和一晚时间完整逆向Claude Code，暴露了闭源软件在AI
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 29 · 🔄 3 · 💬 6 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2037943381654171743) — @blackanger (AlexZ 🦀)
-[2] [Author page](/entities/authors/blackanger.md)

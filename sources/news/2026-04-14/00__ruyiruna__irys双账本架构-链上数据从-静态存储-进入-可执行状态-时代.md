@@ -120,10 +120,6 @@ Matrix Packaging 负责“激励 + 审核”
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 164 · 🔄 1 · 💬 181 · 🔖 0 · 👁 0
-- **关联主题**: [ai-data-blockchain-verification](/concepts/ai-data-blockchain-verification.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/1975170784239710681) — @ruyiruna (0xluna)
-[2] [Author page](/entities/authors/ruyiruna.md)
-[3] [Related topic](/concepts/ai-data-blockchain-verification.md)

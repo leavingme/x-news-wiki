@@ -66,8 +66,6 @@ https://t.co/0z3YDM05yh
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 13 · 🔄 2 · 💬 1 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2048870296531128362) — @dotey (宝玉)
-[2] [Author page](/entities/authors/dotey.md)

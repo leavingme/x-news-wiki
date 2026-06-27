@@ -61,8 +61,6 @@ This has to be the sickest way to build games/ long running app tasks ever
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 1516 · 🔄 102 · 💬 92 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/AlexFinn/status/2050775016669839865) — @AlexFinn (Alex Finn)
-[2] [Author page](/entities/authors/alexfinn.md)

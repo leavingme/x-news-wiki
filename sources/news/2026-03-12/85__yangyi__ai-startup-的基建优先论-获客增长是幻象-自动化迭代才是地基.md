@@ -61,8 +61,6 @@ AI Startups最该做的事情 不是去获客增长
 - **精选类别**: 📰 头条
 - **优先级**: 85
 - **互动**: ❤️ 28 · 🔄 4 · 💬 2 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2027201866724249642) — @yangyi (Yangyi)
-[2] [Author page](/entities/authors/yangyi.md)

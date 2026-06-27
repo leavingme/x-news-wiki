@@ -50,10 +50,6 @@ Personal update: I've joined Anthropic. I think the next few years at the fronti
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 150316 · 🔄 11132 · 💬 7984 · 🔖 0 · 👁 0
-- **关联主题**: [ai-talent-flight](/concepts/ai-talent-flight.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2056753169888334312) — @karpathy (Andrej Karpathy)
-[2] [Author page](/entities/authors/karpathy.md)
-[3] [Related topic](/concepts/ai-talent-flight.md)

@@ -63,10 +63,6 @@ https://t.co/NOTOTTpUsf
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 15 · 🔄 0 · 💬 3 · 🔖 0 · 👁 0
-- **关联主题**: [claude-code-ecosystem](/concepts/claude-code-ecosystem.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2053128353650196483) — @vista8 (向阳乔木)
-[2] [Author page](/entities/authors/vista8.md)
-[3] [Related topic](/concepts/claude-code-ecosystem.md)

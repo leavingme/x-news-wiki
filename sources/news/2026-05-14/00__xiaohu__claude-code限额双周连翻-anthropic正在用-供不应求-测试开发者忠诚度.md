@@ -57,8 +57,6 @@ Claude Code 每周限制将增加 50%，从现在持续至 7 月 13 日
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 11 · 🔄 0 · 💬 2 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2054710489582842025) — @xiaohu (小互)
-[2] [Author page](/entities/authors/xiaohu.md)

@@ -56,10 +56,6 @@ x_source: "crawler"
 - **精选类别**: ✨ 亮点
 - **优先级**: 80
 - **互动**: ❤️ 75 · 🔄 4 · 💬 44 · 🔖 0 · 👁 0
-- **关联主题**: [agent-multi-platform](/concepts/agent-multi-platform.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2030903927961690395) — @xiaohu (小互)
-[2] [Author page](/entities/authors/xiaohu.md)
-[3] [Related topic](/concepts/agent-multi-platform.md)

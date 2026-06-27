@@ -55,8 +55,6 @@ Luna 是个便宜的小模型，性能类似 GPT-5.5
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 11 · 🔄 2 · 💬 5 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2070574662556561810) — @0xAA_Science (0xAA)
-[2] [Author page](/entities/authors/0xaa-science.md)

@@ -68,10 +68,6 @@ And this is just a beginning.
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 3992 · 🔄 755 · 💬 211 · 🔖 0 · 👁 0
-- **关联主题**: [embodied-ai-and-robotics](/concepts/embodied-ai-and-robotics.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/gs_ai_/status/2052050956272230577) — @gs_ai_ (Genesis AI)
-[2] [Author page](/entities/authors/gs-ai.md)
-[3] [Related topic](/concepts/embodied-ai-and-robotics.md)

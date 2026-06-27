@@ -51,8 +51,6 @@ gakki：这个判断成立的前提是"组织可复制性"——如果 AI Native
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 0 · 🔄 0 · 💬 0 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2061933401637286224) — @oran_ge (Orange AI)
-[2] [Author page](/entities/authors/oran-ge.md)

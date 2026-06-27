@@ -54,8 +54,6 @@ Pi 的锐评：打工人的福音。如果 AI 能帮你写 PPT，那你就能省
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 11 · 🔄 1 · 💬 2 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2018926815746965898) — @hylarucoder (海拉鲁编程客)
-[2] [Author page](/entities/authors/hylarucoder.md)

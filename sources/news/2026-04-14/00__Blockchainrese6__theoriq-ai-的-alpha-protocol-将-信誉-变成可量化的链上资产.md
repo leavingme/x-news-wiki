@@ -73,8 +73,6 @@ Theoriq AI：构建可信赖的去中心化AI代理生态
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 94 · 🔄 1 · 💬 110 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/1941672742220333194) — @Blockchainrese6 (老陌)
-[2] [Author page](/entities/authors/blockchainrese6.md)

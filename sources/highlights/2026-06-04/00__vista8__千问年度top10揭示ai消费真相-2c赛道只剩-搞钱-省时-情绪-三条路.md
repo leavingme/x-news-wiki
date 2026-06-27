@@ -77,10 +77,6 @@ x_source: "crawler"
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 8 · 🔄 1 · 💬 10 · 🔖 0 · 👁 0
-- **关联主题**: [prompt-engineering-democratization](/concepts/prompt-engineering-democratization.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2062352885804093503) — @vista8 (向阳乔木)
-[2] [Author page](/entities/authors/vista8.md)
-[3] [Related topic](/concepts/prompt-engineering-democratization.md)

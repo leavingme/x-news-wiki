@@ -50,8 +50,6 @@ https://t.co/AiV952AJXs
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 5624 · 🔄 629 · 💬 198 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/OpenAI/status/2052025532485902368) — @OpenAI (OpenAI)
-[2] [Author page](/entities/authors/openai.md)

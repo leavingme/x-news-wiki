@@ -85,8 +85,6 @@ How I Choose Which Cloudflare Employees to Replace With AI：https://t.co/b9aw58
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 7 · 🔄 3 · 💬 2 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2057641537719226585) — @dotey (宝玉)
-[2] [Author page](/entities/authors/dotey.md)

@@ -64,8 +64,6 @@ AI 写作检测工具 Pangram 的联合创始人 Max Spero 告诉 WIRED，这种
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 31 · 🔄 2 · 💬 8 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2052500525598527732) — @dotey (宝玉)
-[2] [Author page](/entities/authors/dotey.md)

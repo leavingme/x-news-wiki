@@ -72,8 +72,6 @@ TRON AI szn 🔛
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 16 · 🔄 0 · 💬 14 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2017934165950279701) — @thenameisfedro (FEDRO)
-[2] [Author page](/entities/authors/thenameisfedro.md)

@@ -52,10 +52,6 @@ gakki：视频生成是多模态皇冠，开源能拿到这颗明珠，说明Sca
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 212 · 🔄 32 · 💬 22 · 🔖 0 · 👁 0
-- **关联主题**: [open-source-video-generation-leap](/concepts/open-source-video-generation-leap.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2041835578921251244) — @laozhang2579 (老张来了)
-[2] [Author page](/entities/authors/laozhang2579.md)
-[3] [Related topic](/concepts/open-source-video-generation-leap.md)

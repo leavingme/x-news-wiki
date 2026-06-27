@@ -49,8 +49,6 @@ Windows在AI时代真憋屈啊，现在装什么Agent都得用Windows Linux（WS
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 8 · 🔄 0 · 💬 13 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2049039966098067679) — @mranti (Michael Anti)
-[2] [Author page](/entities/authors/mranti.md)

@@ -50,10 +50,6 @@ gakki锐评：一条吐槽背后是 Agent 时代的工作流变迁——终端�
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 8 · 🔄 0 · 💬 0 · 🔖 0 · 👁 0
-- **关联主题**: [ghostty-terminal-adoption](/concepts/ghostty-terminal-adoption.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2069510452388700362) — @kai_fell (Kai Fall)
-[2] [Author page](/entities/authors/kai-fell.md)
-[3] [Related topic](/concepts/ghostty-terminal-adoption.md)

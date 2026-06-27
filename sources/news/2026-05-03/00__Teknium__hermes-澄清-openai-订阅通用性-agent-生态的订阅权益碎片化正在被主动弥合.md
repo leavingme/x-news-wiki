@@ -51,8 +51,6 @@ Try it today with Hermes and see for yourself 🤗
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 669 · 🔄 29 · 💬 45 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/Teknium/status/2050695632768106566) — @Teknium (Teknium 🪽)
-[2] [Author page](/entities/authors/teknium.md)

@@ -63,8 +63,6 @@ Meta 公司表示，其运营的 Horizon Worlds 将于 6 月从 VR 头显设备 
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 520 · 🔄 31 · 💬 140 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2034120947238900137) — @_FORAB (AB Kuai.Dong)
-[2] [Author page](/entities/authors/forab.md)

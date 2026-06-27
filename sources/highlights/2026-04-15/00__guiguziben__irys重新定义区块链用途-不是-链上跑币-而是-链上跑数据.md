@@ -120,10 +120,6 @@ AI 想聪明，DeFi 想高效，
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 12 · 🔄 4 · 💬 169 · 🔖 0 · 👁 0
-- **关联主题**: [ai-data-blockchain-verification](/concepts/ai-data-blockchain-verification.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/1976690067004625166) — @guiguziben (鬼谷研选🔶BNB🐬 TermMax)
-[2] [Author page](/entities/authors/guiguziben.md)
-[3] [Related topic](/concepts/ai-data-blockchain-verification.md)

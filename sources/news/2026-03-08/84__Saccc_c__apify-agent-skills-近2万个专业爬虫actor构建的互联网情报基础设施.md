@@ -60,8 +60,6 @@ Apify Agent Skills —— 一个被严重低估的开源项目，能彻底重塑
 - **精选类别**: 📰 头条
 - **优先级**: 84
 - **互动**: ❤️ 379 · 🔄 98 · 💬 14 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2030209176052633742) — @Saccc_c (Sac)
-[2] [Author page](/entities/authors/saccc-c.md)

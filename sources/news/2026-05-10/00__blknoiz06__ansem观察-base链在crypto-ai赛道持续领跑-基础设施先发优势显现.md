@@ -47,8 +47,6 @@ Base has been pretty consistent with being ahead of the curve on crypto x AI
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 978 · 🔄 65 · 💬 296 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/blknoiz06/status/2053168485446860857) — @blknoiz06 (Ansem)
-[2] [Author page](/entities/authors/blknoiz06.md)

@@ -50,10 +50,6 @@ OpenAI三个人零行手写代码，五个月让Codex生成了一百万行代码
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 66 · 🔄 12 · 💬 4 · 🔖 0 · 👁 0
-- **关联主题**: [ai-coding-market-divergence](/concepts/ai-coding-market-divergence.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2040459453405987115) — @grapeot (鸭哥)
-[2] [Author page](/entities/authors/grapeot.md)
-[3] [Related topic](/concepts/ai-coding-market-divergence.md)

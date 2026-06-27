@@ -55,8 +55,6 @@ These experimental demos show how people can intuitively direct Gemini on their 
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 3853 · 🔄 422 · 💬 217 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/GoogleDeepMind/status/2054246119635300451) — @GoogleDeepMind (Google DeepMind)
-[2] [Author page](/entities/authors/googledeepmind.md)

@@ -102,10 +102,6 @@ power user平均同时用2.3个AI编码工具，
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 427 · 🔄 97 · 💬 15 · 🔖 0 · 👁 0
-- **关联主题**: [claude-code-ecosystem](/concepts/claude-code-ecosystem.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2038308145697890416) — @AYi_AInotes (阿绎 AYi)
-[2] [Author page](/entities/authors/ayi-ainotes.md)
-[3] [Related topic](/concepts/claude-code-ecosystem.md)

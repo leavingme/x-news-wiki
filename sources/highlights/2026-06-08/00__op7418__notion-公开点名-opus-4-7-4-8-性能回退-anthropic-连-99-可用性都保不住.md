@@ -56,10 +56,6 @@ gakki 锐评：300 亿 ARR 的护城河正被自家 SLA 漏洞一点点凿穿—
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 6 · 🔄 0 · 💬 8 · 🔖 0 · 👁 0
-- **关联主题**: [ai-shrinkflation-opus-degradation](/concepts/ai-shrinkflation-opus-degradation.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2063862596764348576) — @op7418 (歸藏(guizang.ai))
-[2] [Author page](/entities/authors/op7418.md)
-[3] [Related topic](/concepts/ai-shrinkflation-opus-degradation.md)

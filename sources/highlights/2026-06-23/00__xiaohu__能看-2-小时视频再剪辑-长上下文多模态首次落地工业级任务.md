@@ -48,8 +48,6 @@ gakki 锐评：2 小时是粗剪工业化的甜点——一集综艺、一场直
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 19 · 🔄 0 · 💬 0 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2069245898404827173) — @xiaohu (小互)
-[2] [Author page](/entities/authors/xiaohu.md)

@@ -66,10 +66,6 @@ https://t.co/FdVv7gsDgt
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 639 · 🔄 129 · 💬 14 · 🔖 0 · 👁 0
-- **关联主题**: [skill-automation-engineering](/concepts/skill-automation-engineering.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2035623099538997402) — @berryxia (Berryxia.AI)
-[2] [Author page](/entities/authors/berryxia.md)
-[3] [Related topic](/concepts/skill-automation-engineering.md)

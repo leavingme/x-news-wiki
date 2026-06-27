@@ -64,10 +64,6 @@ https://t.co/XQXR5qgli1
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 69 · 🔄 6 · 💬 5 · 🔖 0 · 👁 0
-- **关联主题**: [markdown-ai-native-format](/concepts/markdown-ai-native-format.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2052385988375408749) — @oran_ge (Orange AI)
-[2] [Author page](/entities/authors/oran-ge.md)
-[3] [Related topic](/concepts/markdown-ai-native-format.md)

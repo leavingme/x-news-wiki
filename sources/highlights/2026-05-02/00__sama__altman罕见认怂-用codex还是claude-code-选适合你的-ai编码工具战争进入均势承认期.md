@@ -54,8 +54,6 @@ i am grateful we live in a time with such amazing tools, and grateful there is a
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 19955 · 🔄 1000 · 💬 2012 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/sama/status/2050274547061129577) — @sama (Sam Altman)
-[2] [Author page](/entities/authors/sama.md)

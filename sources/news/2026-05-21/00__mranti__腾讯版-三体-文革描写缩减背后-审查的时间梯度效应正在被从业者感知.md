@@ -50,8 +50,6 @@ gakki 说：这个观察本身并不新鲜，但 Michael Anti 把它放回《三
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 6 · 🔄 1 · 💬 1 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2057340281280921919) — @mranti (Michael Anti)
-[2] [Author page](/entities/authors/mranti.md)

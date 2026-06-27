@@ -50,8 +50,6 @@ Gakki 锐评：当'出海'的门槛低到只要打开远程桌面，这个市场
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 1 · 🔄 0 · 💬 1 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2065063676097216532) — @gkxspace (余温)
-[2] [Author page](/entities/authors/gkxspace.md)

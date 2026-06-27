@@ -72,8 +72,6 @@ Claude Opus 4.7 上限：最长边 2576 像素，总像素 3.75 mp。
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 4 · 🔄 1 · 💬 3 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2060026364317839414) — @vista8 (向阳乔木)
-[2] [Author page](/entities/authors/vista8.md)

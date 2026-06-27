@@ -49,8 +49,6 @@ Neumann 说，如果有一天，任何人都能在笔记本电脑上训练自己
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 3 · 🔄 0 · 💬 0 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2049122258317365585) — @vista8 (向阳乔木)
-[2] [Author page](/entities/authors/vista8.md)

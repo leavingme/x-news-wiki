@@ -49,8 +49,6 @@ gakki：国内推理云第一次有了 C 端口碑数据，不是广告、不是
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 74 · 🔄 2 · 💬 24 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2046430344291963083) — @mranti (Michael Anti)
-[2] [Author page](/entities/authors/mranti.md)

@@ -49,8 +49,6 @@ gakki 锐评：SaaS 的权益模型本质是信息不对称套利，AI 时代用
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 4 · 🔄 0 · 💬 1 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2049661310301000014) — @oran_ge (Orange AI)
-[2] [Author page](/entities/authors/oran-ge.md)

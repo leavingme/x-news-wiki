@@ -56,8 +56,6 @@ x_source: "crawler"
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 605 · 🔄 183 · 💬 6 · 🔖 747 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://twitter.com/meijiangAI/status/2016810055954551257) — @meijiangAI (美酱AI)
-[2] [Author page](/entities/authors/meijiangai.md)

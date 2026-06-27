@@ -60,8 +60,6 @@ GitHub：https://t.co/kGLwDBJoxW
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 300 · 🔄 98 · 💬 3 · 🔖 308 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://twitter.com/GitHub_Daily/status/2016413492849627145) — @GitHub_Daily (GitHubDaily)
-[2] [Author page](/entities/authors/github-daily.md)

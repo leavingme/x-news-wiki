@@ -51,8 +51,6 @@ Cluade code和Codex配合编程，开启生产力！！ https://t.co/hgshFKSBtO
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 2 · 🔄 0 · 💬 1 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2063245509901660522) — @lxfater (铁锤人)
-[2] [Author page](/entities/authors/lxfater.md)

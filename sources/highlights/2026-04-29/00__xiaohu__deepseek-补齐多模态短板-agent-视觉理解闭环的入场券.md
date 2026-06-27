@@ -53,10 +53,6 @@ Deepseek 内测多模态能力
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 8 · 🔄 0 · 💬 2 · 🔖 0 · 👁 0
-- **关联主题**: [deepseek-v4-open-source](/concepts/deepseek-v4-open-source.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2049416001847197947) — @xiaohu (小互)
-[2] [Author page](/entities/authors/xiaohu.md)
-[3] [Related topic](/concepts/deepseek-v4-open-source.md)

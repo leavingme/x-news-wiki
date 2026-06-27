@@ -84,10 +84,6 @@ https://t.co/BliwApaI37
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 504 · 🔄 130 · 💬 15 · 🔖 0 · 👁 0
-- **关联主题**: [ai-research-paradigm](/concepts/ai-research-paradigm.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2033040935949578578) — @AYi_AInotes (阿绎 AYi)
-[2] [Author page](/entities/authors/ayi-ainotes.md)
-[3] [Related topic](/concepts/ai-research-paradigm.md)

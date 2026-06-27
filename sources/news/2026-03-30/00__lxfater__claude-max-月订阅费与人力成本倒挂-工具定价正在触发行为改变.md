@@ -50,8 +50,6 @@ gakki：「这个建议本身就是一个信号——当专业人士开始用『
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 294 · 🔄 8 · 💬 82 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2038604656817971641) — @lxfater (铁锤人)
-[2] [Author page](/entities/authors/lxfater.md)

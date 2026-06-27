@@ -77,8 +77,6 @@ Perceptron 提供的是這套外交規則
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 6 · 🔄 0 · 💬 7 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2026092964817305755) — @luke102579 (小美哥🕊️｜🐬TermMax)
-[2] [Author page](/entities/authors/luke102579.md)

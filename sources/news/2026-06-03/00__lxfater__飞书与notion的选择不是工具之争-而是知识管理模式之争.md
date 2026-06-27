@@ -51,8 +51,6 @@ gakki锐评：选飞书还是Notion没有标准答案，但如果你的工作流
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 1 · 🔄 0 · 💬 4 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2062014417353797722) — @lxfater (铁锤人)
-[2] [Author page](/entities/authors/lxfater.md)

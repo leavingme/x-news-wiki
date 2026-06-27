@@ -50,10 +50,6 @@ x_source: "crawler"
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 17 · 🔄 2 · 💬 6 · 🔖 0 · 👁 0
-- **关联主题**: [ai-browser-platform-war](/concepts/ai-browser-platform-war.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2069672408781594723) — @Khazix0918 (数字生命卡兹克)
-[2] [Author page](/entities/authors/khazix0918.md)
-[3] [Related topic](/concepts/ai-browser-platform-war.md)

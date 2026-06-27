@@ -53,8 +53,6 @@ tw93出品，必属精品，先转再看，毫无压力。
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 13 · 🔄 0 · 💬 2 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2063450662344757297) — @vista8 (向阳乔木)
-[2] [Author page](/entities/authors/vista8.md)

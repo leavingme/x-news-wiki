@@ -52,10 +52,6 @@ OpenAI 这次姿态放得很低，说明 Codex 在开发者心智争夺中确实
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 9 · 🔄 0 · 💬 2 · 🔖 0 · 👁 0
-- **关联主题**: [codex-ecosystem-platform-war](/concepts/codex-ecosystem-platform-war.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2038811206522401037) — @fkysly (马天翼)
-[2] [Author page](/entities/authors/fkysly.md)
-[3] [Related topic](/concepts/codex-ecosystem-platform-war.md)

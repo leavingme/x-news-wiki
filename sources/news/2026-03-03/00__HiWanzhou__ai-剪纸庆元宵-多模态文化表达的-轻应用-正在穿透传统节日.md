@@ -48,8 +48,6 @@ AI Paper-Cutting: Celebrating the Lantern FestivalAI剪纸：正月十五元宵�
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 1 · 🔄 1 · 💬 0 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2028372023005880732) — @HiWanzhou (HiWanzhou)
-[2] [Author page](/entities/authors/hiwanzhou.md)

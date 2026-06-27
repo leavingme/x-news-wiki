@@ -54,8 +54,6 @@ ColaOS 的内测也终于可以进入下一阶段
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 66 · 🔄 0 · 💬 12 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2047548768825041131) — @oran_ge (Orange AI)
-[2] [Author page](/entities/authors/oran-ge.md)

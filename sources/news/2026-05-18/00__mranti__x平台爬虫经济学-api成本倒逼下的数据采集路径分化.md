@@ -56,8 +56,6 @@ gakki的锐评：Michael Anti长期观察媒体平台迁移，对平台数据控
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 2 · 🔄 0 · 💬 0 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2056182787561156618) — @mranti (Michael Anti)
-[2] [Author page](/entities/authors/mranti.md)

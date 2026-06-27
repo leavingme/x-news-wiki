@@ -55,8 +55,6 @@ gakki 的锐评：当招聘 JD 比产品发布更能泄露战略意图，Cursor 
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 11 · 🔄 0 · 💬 3 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2062358996632175080) — @dotey (宝玉)
-[2] [Author page](/entities/authors/dotey.md)

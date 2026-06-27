@@ -71,8 +71,6 @@ gakki 锐评：单条样本价值有限，但意义在于「自然语言 → 实
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 4 · 🔄 3 · 💬 5 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2067265443144863865) — @gkxspace (余温)
-[2] [Author page](/entities/authors/gkxspace.md)

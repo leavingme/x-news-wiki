@@ -57,8 +57,6 @@ Slack 把中国公司的 Workspace 直接删除了，邮件沟通了下，毫无
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 340 · 🔄 17 · 💬 65 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2039703555427201483) — @lifesinger (Frank Wang 玉伯)
-[2] [Author page](/entities/authors/lifesinger.md)

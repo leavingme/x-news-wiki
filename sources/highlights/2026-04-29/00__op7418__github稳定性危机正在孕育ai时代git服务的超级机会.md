@@ -65,10 +65,6 @@ Ghostty 的负责人今天说他会离开 GitHub。
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 11 · 🔄 0 · 💬 5 · 🔖 0 · 👁 0
-- **关联主题**: [ai-platform-integration-risk](/concepts/ai-platform-integration-risk.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2049320408881709464) — @op7418 (歸藏(guizang.ai))
-[2] [Author page](/entities/authors/op7418.md)
-[3] [Related topic](/concepts/ai-platform-integration-risk.md)

@@ -67,8 +67,6 @@ Codex 手机版上线
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 29 · 🔄 4 · 💬 16 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2055064820408614969) — @xiaohu (小互)
-[2] [Author page](/entities/authors/xiaohu.md)

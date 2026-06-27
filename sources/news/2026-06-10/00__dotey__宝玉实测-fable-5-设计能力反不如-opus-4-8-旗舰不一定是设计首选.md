@@ -50,10 +50,6 @@ UI/UX 设计方面 Claude 4.8 就够好了，Fable 5 没有体现出更好的 UI
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 46 · 🔄 0 · 💬 12 · 🔖 0 · 👁 0
-- **关联主题**: [design-model-evaluation](/concepts/design-model-evaluation.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2064581575711260827) — @dotey (宝玉)
-[2] [Author page](/entities/authors/dotey.md)
-[3] [Related topic](/concepts/design-model-evaluation.md)

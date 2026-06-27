@@ -88,8 +88,6 @@ Seamless fast continuation, same style, even faster cuts.
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 117 · 🔄 7 · 💬 0 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2069078650902008130) — @drjoetw (The Anxious Mind)
-[2] [Author page](/entities/authors/drjoetw.md)

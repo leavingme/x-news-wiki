@@ -50,8 +50,6 @@ Translation -&gt; Gemini 3.1 Pro is the best
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 7 · 🔄 0 · 💬 4 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2055860356044509417) — @dotey (宝玉)
-[2] [Author page](/entities/authors/dotey.md)

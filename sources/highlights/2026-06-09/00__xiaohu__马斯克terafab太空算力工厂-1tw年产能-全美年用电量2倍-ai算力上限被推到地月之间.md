@@ -238,10 +238,6 @@ AI 卫星：其实比 Starlink 卫星更简单
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 13 · 🔄 4 · 💬 2 · 🔖 0 · 👁 0
-- **关联主题**: [太空AI算力基础设施](/concepts/太空AI算力基础设施.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2064180799629598919) — @xiaohu (小互)
-[2] [Author page](/entities/authors/xiaohu.md)
-[3] [Related topic](/concepts/太空AI算力基础设施.md)

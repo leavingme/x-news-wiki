@@ -139,8 +139,6 @@ Claude 就不再是普通聊天机器人……
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 209 · 🔄 58 · 💬 14 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2038507943650611348) — @DtDt666 (看不懂的SOL)
-[2] [Author page](/entities/authors/dtdt666.md)

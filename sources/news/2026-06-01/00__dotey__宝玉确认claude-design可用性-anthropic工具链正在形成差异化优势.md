@@ -53,8 +53,6 @@ Claude Design 的工具链体验已从「极客玩具」阶段进入「可协作
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 1 · 🔄 0 · 💬 0 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2061456000108970107) — @dotey (宝玉)
-[2] [Author page](/entities/authors/dotey.md)

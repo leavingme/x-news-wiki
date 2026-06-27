@@ -65,10 +65,6 @@ Our report: https://t.co/XAMSJFYvo4
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 18 · 🔄 6 · 💬 1 · 🔖 0 · 👁 0
-- **关联主题**: [具身智能空间理论](/concepts/具身智能空间理论.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2056372232503320714) — @jiqizhixin (机器之心 JIQIZHIXIN)
-[2] [Author page](/entities/authors/jiqizhixin.md)
-[3] [Related topic](/concepts/具身智能空间理论.md)

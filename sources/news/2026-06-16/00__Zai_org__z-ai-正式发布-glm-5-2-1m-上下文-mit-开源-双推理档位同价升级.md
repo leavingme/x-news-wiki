@@ -63,10 +63,6 @@ Chat: https://t.co/WCqWT0qCQb
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 5347 · 🔄 715 · 💬 301 · 🔖 0 · 👁 0
-- **关联主题**: [domestic-model-competition](/concepts/domestic-model-competition.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/Zai_org/status/2066938937344495629) — @Zai_org (Z.ai)
-[2] [Author page](/entities/authors/zai-org.md)
-[3] [Related topic](/concepts/domestic-model-competition.md)

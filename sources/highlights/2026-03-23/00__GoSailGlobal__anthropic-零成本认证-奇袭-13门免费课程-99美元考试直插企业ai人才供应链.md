@@ -90,10 +90,6 @@ Weeks 8-9：Claude Code开发工作流
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 298 · 🔄 97 · 💬 5 · 🔖 0 · 👁 0
-- **关联主题**: [anthropic-enterprise-certification](/concepts/anthropic-enterprise-certification.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2035945586751619284) — @GoSailGlobal (Jason Zhu)
-[2] [Author page](/entities/authors/gosailglobal.md)
-[3] [Related topic](/concepts/anthropic-enterprise-certification.md)

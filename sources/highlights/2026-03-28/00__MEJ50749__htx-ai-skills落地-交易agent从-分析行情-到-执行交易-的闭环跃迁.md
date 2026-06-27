@@ -70,10 +70,6 @@ AI 不再是旁观者，而是你的 24/7 交易搭档。
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 29 · 🔄 1 · 💬 34 · 🔖 0 · 👁 0
-- **关联主题**: [agent-economic-autonomy](/concepts/agent-economic-autonomy.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2032848740076368214) — @MEJ50749 (MEJ毛毛姐 | 🦅)
-[2] [Author page](/entities/authors/mej50749.md)
-[3] [Related topic](/concepts/agent-economic-autonomy.md)

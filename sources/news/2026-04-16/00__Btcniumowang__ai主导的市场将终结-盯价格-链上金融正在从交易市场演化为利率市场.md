@@ -61,8 +61,6 @@ TermMax 每日话题：
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 78 · 🔄 3 · 💬 91 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2044569712256823414) — @Btcniumowang (牛魔王🔶OP_CAT)
-[2] [Author page](/entities/authors/btcniumowang.md)

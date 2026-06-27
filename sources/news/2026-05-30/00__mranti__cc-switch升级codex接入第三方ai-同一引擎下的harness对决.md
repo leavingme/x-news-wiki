@@ -51,8 +51,6 @@ cc-switch升级到了v3.16.0，Codex也可以随意接第三方AI了。我倒是
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 13 · 🔄 1 · 💬 9 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2060560984453070926) — @mranti (Michael Anti)
-[2] [Author page](/entities/authors/mranti.md)

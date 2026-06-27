@@ -51,8 +51,6 @@ Codex - particular GPT5.5 is the best coding model.
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 667 · 🔄 9 · 💬 41 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/official_taches/status/2050917754782330957) — @official_taches (Lex Christopherson)
-[2] [Author page](/entities/authors/official-taches.md)

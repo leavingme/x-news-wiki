@@ -51,8 +51,6 @@ gakki 本周关注 OpenClaw 的性能基线变化，若持续优化则边缘 Age
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 0 · 🔄 0 · 💬 1 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2058921898168442934) — @yetone (yetone)
-[2] [Author page](/entities/authors/yetone.md)

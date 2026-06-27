@@ -54,8 +54,6 @@ Rust版的OpenClaw：moltis，单个静态二进制文件，零Node.js依赖
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 58 · 🔄 8 · 💬 3 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2022465918958469531) — @aigclink (AIGCLINK)
-[2] [Author page](/entities/authors/aigclink.md)

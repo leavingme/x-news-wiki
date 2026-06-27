@@ -61,10 +61,6 @@ https://t.co/FzEtGhZ9eO
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 129 · 🔄 26 · 💬 58 · 🔖 0 · 👁 0
-- **关联主题**: [ai-trading-480x-returns](/concepts/ai-trading-480x-returns.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2036650348123705416) — @eth_cedric (Cedric 🦋)
-[2] [Author page](/entities/authors/eth-cedric.md)
-[3] [Related topic](/concepts/ai-trading-480x-returns.md)

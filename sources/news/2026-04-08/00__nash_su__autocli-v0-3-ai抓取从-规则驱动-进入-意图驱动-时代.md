@@ -61,8 +61,6 @@ autocli v0.3 重磅更新 🎉🎉🎉
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 173 · 🔄 38 · 💬 10 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2041464968265298242) — @nash_su (nash_su - e/acc)
-[2] [Author page](/entities/authors/nash-su.md)

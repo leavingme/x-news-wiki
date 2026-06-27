@@ -51,10 +51,6 @@ Read the full exclusive by @willcanny99 on CoinDesk.
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 79 · 🔄 15 · 💬 20 · 🔖 0 · 👁 0
-- **关联主题**: [prediction-market-compliance](/concepts/prediction-market-compliance.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/CoinDesk/status/2051285835463401577) — @CoinDesk (CoinDesk)
-[2] [Author page](/entities/authors/coindesk.md)
-[3] [Related topic](/concepts/prediction-market-compliance.md)

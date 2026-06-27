@@ -52,8 +52,6 @@ Now available in the API alongside streaming models GPT-Realtime-Translate and G
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 13512 · 🔄 1298 · 💬 614 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/OpenAI/status/2052438194625593804) — @OpenAI (OpenAI)
-[2] [Author page](/entities/authors/openai.md)

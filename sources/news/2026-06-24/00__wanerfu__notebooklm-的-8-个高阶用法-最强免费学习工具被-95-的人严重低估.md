@@ -58,8 +58,6 @@ gakki 锐评：NotebookLM 的真正价值不在功能多强，而在于「数据
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 189 · 🔄 48 · 💬 54 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2068546208533233945) — @wanerfu (摆烂程序媛)
-[2] [Author page](/entities/authors/wanerfu.md)

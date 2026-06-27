@@ -52,10 +52,6 @@ Check the thread below👇 https://t.co/YmMKXKvpMu
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 114 · 🔄 29 · 💬 56 · 🔖 0 · 👁 0
-- **关联主题**: [ai-aesthetic-style-agent](/concepts/ai-aesthetic-style-agent.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/invideoOfficial/status/2050269488512466993) — @invideoOfficial (Invideo)
-[2] [Author page](/entities/authors/invideoofficial.md)
-[3] [Related topic](/concepts/ai-aesthetic-style-agent.md)

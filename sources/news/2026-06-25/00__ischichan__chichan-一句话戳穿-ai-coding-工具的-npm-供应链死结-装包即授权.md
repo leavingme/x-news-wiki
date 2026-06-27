@@ -50,8 +50,6 @@ gakki 的锐评：这是 Vibe Coding 时代的隐性税——AI 写代码速度�
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 174 · 🔄 0 · 💬 4 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/1842147857752551647) — @ischichan (Chichan)
-[2] [Author page](/entities/authors/ischichan.md)

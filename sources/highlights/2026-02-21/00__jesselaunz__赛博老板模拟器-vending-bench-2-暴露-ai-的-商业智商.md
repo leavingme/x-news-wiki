@@ -112,8 +112,6 @@ Vending-Bench 2 是一块试金石，专门测试 AI 能否成为合格的“赛
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 8 · 🔄 1 · 💬 4 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2024950837731360999) — @jesselaunz (Jesse Lau 遁一子)
-[2] [Author page](/entities/authors/jesselaunz.md)

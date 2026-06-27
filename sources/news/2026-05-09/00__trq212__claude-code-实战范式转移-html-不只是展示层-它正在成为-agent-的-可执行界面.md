@@ -49,8 +49,6 @@ Using Claude Code: The Unreasonable Effectiveness of HTML
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 9765 · 🔄 1132 · 💬 638 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/trq212/status/2052809885763747935) — @trq212 (Thariq)
-[2] [Author page](/entities/authors/trq212.md)

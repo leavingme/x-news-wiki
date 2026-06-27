@@ -49,8 +49,6 @@ x_source: "crawler"
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 4 · 🔄 0 · 💬 4 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2027163864056701427) — @0xNing0x (NingNing)
-[2] [Author page](/entities/authors/0xning0x.md)

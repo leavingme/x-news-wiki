@@ -156,10 +156,6 @@ OpenClaw指令模版：
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 599 · 🔄 199 · 💬 20 · 🔖 0 · 👁 0
-- **关联主题**: [agent-economic-autonomy](/concepts/agent-economic-autonomy.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2028861507107492301) — @NFTCPS (鸟哥 | 蓝鸟会🕊️)
-[2] [Author page](/entities/authors/nftcps.md)
-[3] [Related topic](/concepts/agent-economic-autonomy.md)

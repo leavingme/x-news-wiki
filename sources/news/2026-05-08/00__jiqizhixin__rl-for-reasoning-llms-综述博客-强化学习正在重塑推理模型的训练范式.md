@@ -52,8 +52,6 @@ https://t.co/K0qxuxMYzT https://t.co/mEw5lOhqsI
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 12 · 🔄 3 · 💬 0 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2052607424260198542) — @jiqizhixin (机器之心 JIQIZHIXIN)
-[2] [Author page](/entities/authors/jiqizhixin.md)

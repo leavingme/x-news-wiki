@@ -53,8 +53,6 @@ x_source: "crawler"
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 167 · 🔄 24 · 💬 12 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2036983122286547223) — @fxtrader (外汇交易员)
-[2] [Author page](/entities/authors/fxtrader.md)

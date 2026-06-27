@@ -73,10 +73,6 @@ Runway 推出 Runway Characters
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 5 · 🔄 1 · 💬 9 · 🔖 0 · 👁 0
-- **关联主题**: [ai-video-cinematic](/concepts/ai-video-cinematic.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2051942357491462434) — @xiaohu (小互)
-[2] [Author page](/entities/authors/xiaohu.md)
-[3] [Related topic](/concepts/ai-video-cinematic.md)

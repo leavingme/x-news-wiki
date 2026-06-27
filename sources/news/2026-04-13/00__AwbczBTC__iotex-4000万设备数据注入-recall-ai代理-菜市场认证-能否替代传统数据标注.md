@@ -118,10 +118,6 @@ Cooperation Details: https://t.co/f3u4yULpCy
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 126 · 🔄 0 · 💬 218 · 🔖 0 · 👁 0
-- **关联主题**: [ai-data-blockchain-verification](/concepts/ai-data-blockchain-verification.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/1965952897981825348) — @AwbczBTC (Crypto爱玩币的村长🌊)
-[2] [Author page](/entities/authors/awbczbtc.md)
-[3] [Related topic](/concepts/ai-data-blockchain-verification.md)

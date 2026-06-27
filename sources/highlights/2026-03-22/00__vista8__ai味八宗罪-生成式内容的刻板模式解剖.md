@@ -65,8 +65,6 @@ AI味常见模式，笑死了，很精确！欢迎补充
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 66 · 🔄 8 · 💬 8 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2035401773838721499) — @vista8 (向阳乔木)
-[2] [Author page](/entities/authors/vista8.md)

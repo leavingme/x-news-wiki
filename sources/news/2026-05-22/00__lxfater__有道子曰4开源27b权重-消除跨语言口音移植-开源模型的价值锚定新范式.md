@@ -69,8 +69,6 @@ gakki：开源模型的「免费」从来是表象，有道的真正赌注是：
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 28 · 🔄 4 · 💬 13 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2057726984088682501) — @lxfater (铁锤人)
-[2] [Author page](/entities/authors/lxfater.md)

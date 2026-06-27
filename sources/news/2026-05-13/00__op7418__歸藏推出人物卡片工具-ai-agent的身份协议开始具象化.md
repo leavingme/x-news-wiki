@@ -55,10 +55,6 @@ gakki 认为：这类工具的出现说明行业开始正视Agent身份问题—
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 1 · 🔄 0 · 💬 0 · 🔖 0 · 👁 0
-- **关联主题**: [agent-native-paradigm](/concepts/agent-native-paradigm.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2054423566423413001) — @op7418 (歸藏(guizang.ai))
-[2] [Author page](/entities/authors/op7418.md)
-[3] [Related topic](/concepts/agent-native-paradigm.md)

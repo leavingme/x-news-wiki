@@ -102,10 +102,6 @@ It is starting to take shape now.
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 49 · 🔄 21 · 💬 56 · 🔖 0 · 👁 0
-- **关联主题**: [ai-agent-crypto-infra](/concepts/ai-agent-crypto-infra.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/Multi_mike01/status/2046100183683878980) — @Multi_mike01 (Multi)
-[2] [Author page](/entities/authors/multi-mike01.md)
-[3] [Related topic](/concepts/ai-agent-crypto-infra.md)

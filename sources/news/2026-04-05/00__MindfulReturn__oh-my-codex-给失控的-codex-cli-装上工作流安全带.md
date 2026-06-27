@@ -86,8 +86,6 @@ https://t.co/PFcSYnVxo0
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 121 · 🔄 22 · 💬 6 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2040574686875287626) — @MindfulReturn (MindfulReturn 身心修复局)
-[2] [Author page](/entities/authors/mindfulreturn.md)

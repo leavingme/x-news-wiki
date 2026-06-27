@@ -54,10 +54,6 @@ Codex这几个插件我也一直用！强烈推荐！
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 10 · 🔄 3 · 💬 3 · 🔖 0 · 👁 0
-- **关联主题**: [codex-ecosystem-platform-war](/concepts/codex-ecosystem-platform-war.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2068672988812099705) — @Leobai825 (天策)
-[2] [Author page](/entities/authors/leobai825.md)
-[3] [Related topic](/concepts/codex-ecosystem-platform-war.md)

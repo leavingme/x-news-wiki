@@ -51,8 +51,6 @@ AI 时代最大的护城河竟然是公司本身
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 7 · 🔄 0 · 💬 1 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2053268773784986082) — @oran_ge (Orange AI)
-[2] [Author page](/entities/authors/oran-ge.md)

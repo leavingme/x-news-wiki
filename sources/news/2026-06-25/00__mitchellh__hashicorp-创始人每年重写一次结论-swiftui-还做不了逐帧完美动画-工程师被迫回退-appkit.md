@@ -51,8 +51,6 @@ Every year I try to build custom native UI with every-frame-perfect animations w
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 65 · 🔄 3 · 💬 3 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2070262735896772843) — @mitchellh (Mitchell Hashimoto)
-[2] [Author page](/entities/authors/mitchellh.md)

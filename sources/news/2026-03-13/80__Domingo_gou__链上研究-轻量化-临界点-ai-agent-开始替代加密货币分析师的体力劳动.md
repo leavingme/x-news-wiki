@@ -98,8 +98,6 @@ https://t.co/ZzQI87ht6h⁠
 - **精选类别**: 📰 头条
 - **优先级**: 80
 - **互动**: ❤️ 36 · 🔄 1 · 💬 51 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2032306458201899369) — @Domingo_gou (Domingo_gou | 🦅 🐬)
-[2] [Author page](/entities/authors/domingo-gou.md)

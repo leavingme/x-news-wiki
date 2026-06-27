@@ -65,10 +65,6 @@ https://t.co/H8sj5pUAUP
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 6 · 🔄 1 · 💬 1 · 🔖 0 · 👁 0
-- **关联主题**: [open-source-video-generation-leap](/concepts/open-source-video-generation-leap.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2069301473263952229) — @gkxspace (余温)
-[2] [Author page](/entities/authors/gkxspace.md)
-[3] [Related topic](/concepts/open-source-video-generation-leap.md)

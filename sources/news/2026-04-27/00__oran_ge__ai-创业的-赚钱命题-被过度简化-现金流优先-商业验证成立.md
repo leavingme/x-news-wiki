@@ -50,8 +50,6 @@ AI创业的唯一出路：自己赚钱养活自己
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 11 · 🔄 0 · 💬 3 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2048723017631769019) — @oran_ge (Orange AI)
-[2] [Author page](/entities/authors/oran-ge.md)

@@ -61,8 +61,6 @@ gakki：一个人干掉一个团队的生产力神话正在工程化，但这场
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 5 · 🔄 1 · 💬 4 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2058157746948890632) — @gkxspace (余温)
-[2] [Author page](/entities/authors/gkxspace.md)

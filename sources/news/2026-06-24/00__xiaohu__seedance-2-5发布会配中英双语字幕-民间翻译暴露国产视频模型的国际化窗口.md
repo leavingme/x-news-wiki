@@ -56,8 +56,6 @@ Seedance 2.5 发布会
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 22 · 🔄 1 · 💬 10 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2069655846896935269) — @xiaohu (小互)
-[2] [Author page](/entities/authors/xiaohu.md)

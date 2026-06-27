@@ -51,8 +51,6 @@ AI让做事变快了，但选择变难了、焦虑变深了——效率提升没
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 2 · 🔄 0 · 💬 0 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2059295438856155172) — @Rourou0413 (Rourou)
-[2] [Author page](/entities/authors/rourou0413.md)

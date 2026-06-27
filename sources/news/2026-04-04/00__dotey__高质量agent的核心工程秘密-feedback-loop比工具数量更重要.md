@@ -48,8 +48,6 @@ gakki：当社区还在讨论工具数量和模型参数时，懂行的已经在
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 307 · 🔄 45 · 💬 13 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2040126382152233456) — @dotey (宝玉)
-[2] [Author page](/entities/authors/dotey.md)

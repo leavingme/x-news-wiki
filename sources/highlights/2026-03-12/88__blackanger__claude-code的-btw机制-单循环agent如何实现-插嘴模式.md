@@ -91,10 +91,6 @@ Prompt 层： System reminder 中明确指示"you have NO tools available"，从
 - **精选类别**: ✨ 亮点
 - **优先级**: 88
 - **互动**: ❤️ 143 · 🔄 21 · 💬 9 · 🔖 0 · 👁 0
-- **关联主题**: [claude-code-ecosystem](/concepts/claude-code-ecosystem.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2031737194910761396) — @blackanger (AlexZ 🦀)
-[2] [Author page](/entities/authors/blackanger.md)
-[3] [Related topic](/concepts/claude-code-ecosystem.md)

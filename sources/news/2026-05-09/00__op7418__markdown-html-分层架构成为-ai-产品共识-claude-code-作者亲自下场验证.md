@@ -69,10 +69,6 @@ HTML 也有明显痛点，极不适合做状态的版本控制。
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 14 · 🔄 2 · 💬 9 · 🔖 0 · 👁 0
-- **关联主题**: [markdown-ai-native-format](/concepts/markdown-ai-native-format.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2052943672556274040) — @op7418 (歸藏(guizang.ai))
-[2] [Author page](/entities/authors/op7418.md)
-[3] [Related topic](/concepts/markdown-ai-native-format.md)

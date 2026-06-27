@@ -51,8 +51,6 @@ gakki锐评：透明度不该是可选的。平台隐藏用量数据往往有两
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 25 · 🔄 0 · 💬 17 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2060558157521313962) — @dotey (宝玉)
-[2] [Author page](/entities/authors/dotey.md)

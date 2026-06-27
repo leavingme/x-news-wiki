@@ -55,10 +55,6 @@ Telegram 上的机器人现在可以直接跟其他机器人对话了
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 6 · 🔄 1 · 💬 4 · 🔖 0 · 👁 0
-- **关联主题**: [multi-agent-framework-ecosystem-comparison](/concepts/multi-agent-framework-ecosystem-comparison.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2056565482715795494) — @op7418 (歸藏(guizang.ai))
-[2] [Author page](/entities/authors/op7418.md)
-[3] [Related topic](/concepts/multi-agent-framework-ecosystem-comparison.md)

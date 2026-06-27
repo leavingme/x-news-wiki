@@ -51,10 +51,6 @@ GPT-5.5的网络攻击能力好像比前段时间吹上天的Mythos
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 12 · 🔄 0 · 💬 4 · 🔖 0 · 👁 0
-- **关联主题**: [ai-safety-alignment](/concepts/ai-safety-alignment.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2049896961382203667) — @lxfater (铁锤人)
-[2] [Author page](/entities/authors/lxfater.md)
-[3] [Related topic](/concepts/ai-safety-alignment.md)

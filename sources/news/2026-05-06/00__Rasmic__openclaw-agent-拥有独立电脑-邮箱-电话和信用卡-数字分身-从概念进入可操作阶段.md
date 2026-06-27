@@ -53,10 +53,6 @@ Been working on this for the last 2 months, excited to share this with you all h
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 469 · 🔄 31 · 💬 31 · 🔖 0 · 👁 0
-- **关联主题**: [agent-economic-autonomy](/concepts/agent-economic-autonomy.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/Rasmic/status/2051496442770997399) — @Rasmic (Micky)
-[2] [Author page](/entities/authors/rasmic.md)
-[3] [Related topic](/concepts/agent-economic-autonomy.md)

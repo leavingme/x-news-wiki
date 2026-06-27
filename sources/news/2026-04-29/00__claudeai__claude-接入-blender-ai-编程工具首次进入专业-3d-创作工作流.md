@@ -56,8 +56,6 @@ With the new Blender connector, you can debug a scene, build new tools, or batch
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 30834 · 🔄 2635 · 💬 1168 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/claudeai/status/2049143438281445811) — @claudeai (Claude)
-[2] [Author page](/entities/authors/claudeai.md)

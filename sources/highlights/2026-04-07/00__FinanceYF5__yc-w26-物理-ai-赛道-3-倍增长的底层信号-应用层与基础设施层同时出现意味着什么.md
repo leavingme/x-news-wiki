@@ -58,10 +58,6 @@ YC W26有19家公司造能动的东西：无人机、机器人、卫星、月球
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 2 · 🔄 1 · 💬 1 · 🔖 0 · 👁 0
-- **关联主题**: [embodied-ai-and-robotics](/concepts/embodied-ai-and-robotics.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2037793588739023320) — @FinanceYF5 (AI Will)
-[2] [Author page](/entities/authors/financeyf5.md)
-[3] [Related topic](/concepts/embodied-ai-and-robotics.md)

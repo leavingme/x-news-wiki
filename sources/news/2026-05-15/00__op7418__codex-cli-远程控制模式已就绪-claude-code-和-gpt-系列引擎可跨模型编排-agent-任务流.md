@@ -49,8 +49,6 @@ Codex CLI 设置 Chatgpt 远程控制
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 7 · 🔄 1 · 💬 4 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2055122578407387420) — @op7418 (歸藏(guizang.ai))
-[2] [Author page](/entities/authors/op7418.md)

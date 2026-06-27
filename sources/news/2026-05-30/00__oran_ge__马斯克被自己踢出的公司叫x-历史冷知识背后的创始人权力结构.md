@@ -55,8 +55,6 @@ PayPal 那时候还叫 X https://t.co/H9esmDJkR6
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 7 · 🔄 0 · 💬 7 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2060717019474145781) — @oran_ge (Orange AI)
-[2] [Author page](/entities/authors/oran-ge.md)

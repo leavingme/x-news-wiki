@@ -63,8 +63,6 @@ GitHub：https://t.co/AmZkZuwBY9
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 339 · 🔄 30 · 💬 6 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2042885064917422318) — @GitHub_Daily (GitHubDaily)
-[2] [Author page](/entities/authors/github-daily.md)

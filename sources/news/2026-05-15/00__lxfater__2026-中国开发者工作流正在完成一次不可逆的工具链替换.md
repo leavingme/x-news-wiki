@@ -89,8 +89,6 @@ AI 时代就该用 Gamma
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 44 · 🔄 6 · 💬 8 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2055232506925101064) — @lxfater (铁锤人)
-[2] [Author page](/entities/authors/lxfater.md)

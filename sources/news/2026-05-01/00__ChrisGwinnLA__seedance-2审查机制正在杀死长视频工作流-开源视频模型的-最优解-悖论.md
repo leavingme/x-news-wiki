@@ -55,10 +55,6 @@ This makes Seedance 2 completely unreliable for professional work, which is a sh
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 201 · 🔄 14 · 💬 62 · 🔖 0 · 👁 0
-- **关联主题**: [open-source-video-generation-leap](/concepts/open-source-video-generation-leap.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/ChrisGwinnLA/status/2050060332962328882) — @ChrisGwinnLA (Christopher Gwinn | Grindhouse Glitch)
-[2] [Author page](/entities/authors/chrisgwinnla.md)
-[3] [Related topic](/concepts/open-source-video-generation-leap.md)

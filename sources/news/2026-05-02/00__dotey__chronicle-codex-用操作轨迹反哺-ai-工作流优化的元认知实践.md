@@ -54,8 +54,6 @@ gakki 锐评：当所有人都在卷 AI 写代码的速度时，有人开始用 
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 43 · 🔄 6 · 💬 5 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2050638634399764575) — @dotey (宝玉)
-[2] [Author page](/entities/authors/dotey.md)

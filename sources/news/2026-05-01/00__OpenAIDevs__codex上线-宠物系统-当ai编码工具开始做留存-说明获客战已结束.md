@@ -50,8 +50,6 @@ Use /pet to wake your pet. https://t.co/aAm4lLP4LW
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 8102 · 🔄 673 · 💬 675 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/OpenAIDevs/status/2050275713824211041) — @OpenAIDevs (OpenAI Developers)
-[2] [Author page](/entities/authors/openaidevs.md)

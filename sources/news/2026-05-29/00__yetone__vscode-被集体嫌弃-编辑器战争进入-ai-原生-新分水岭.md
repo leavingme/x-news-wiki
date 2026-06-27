@@ -49,8 +49,6 @@ gakki 锐评：VSCode 的护城河是生态插件，不是 AI——当 AI 能力
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 0 · 🔄 0 · 💬 3 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2060477378712023112) — @yetone (yetone)
-[2] [Author page](/entities/authors/yetone.md)

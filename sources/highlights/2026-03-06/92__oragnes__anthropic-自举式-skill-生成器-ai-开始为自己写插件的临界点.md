@@ -85,10 +85,6 @@ Github 链接：评论区
 - **精选类别**: ✨ 亮点
 - **优先级**: 92
 - **互动**: ❤️ 88 · 🔄 20 · 💬 7 · 🔖 0 · 👁 0
-- **关联主题**: [claude-code-ecosystem](/concepts/claude-code-ecosystem.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2029574562762125784) — @oragnes (比特币橙子Trader)
-[2] [Author page](/entities/authors/oragnes.md)
-[3] [Related topic](/concepts/claude-code-ecosystem.md)

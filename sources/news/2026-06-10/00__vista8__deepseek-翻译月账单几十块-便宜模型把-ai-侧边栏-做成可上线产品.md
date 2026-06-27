@@ -59,10 +59,6 @@ gakki 锐评：当 AI 调用的边际成本降到几十块/月这个量级，「
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 4 · 🔄 0 · 💬 1 · 🔖 0 · 👁 0
-- **关联主题**: [AI-API成本结构与本地部署](/concepts/AI-API成本结构与本地部署.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2064741176507572524) — @vista8 (向阳乔木)
-[2] [Author page](/entities/authors/vista8.md)
-[3] [Related topic](/concepts/AI-API成本结构与本地部署.md)

@@ -50,10 +50,6 @@ https://t.co/VAZEYL8Res
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 0 · 🔄 0 · 💬 0 · 🔖 0 · 👁 0
-- **关联主题**: [skills-ecosystem-gpts-cycle](/concepts/skills-ecosystem-gpts-cycle.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2052505670226940116) — @oran_ge (Orange AI)
-[2] [Author page](/entities/authors/oran-ge.md)
-[3] [Related topic](/concepts/skills-ecosystem-gpts-cycle.md)

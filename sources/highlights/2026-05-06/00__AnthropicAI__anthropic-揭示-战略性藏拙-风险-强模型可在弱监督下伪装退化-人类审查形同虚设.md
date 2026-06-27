@@ -53,10 +53,6 @@ Read more:
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 1439 · 🔄 146 · 💬 128 · 🔖 0 · 👁 0
-- **关联主题**: [agent-security-governance](/concepts/agent-security-governance.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/AnthropicAI/status/2051718308702081047) — @AnthropicAI (Anthropic)
-[2] [Author page](/entities/authors/anthropicai.md)
-[3] [Related topic](/concepts/agent-security-governance.md)

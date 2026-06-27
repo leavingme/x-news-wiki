@@ -117,10 +117,6 @@ For details on anti-fraud measures, visit: "https://t.co/QDPWpH0trl" (https://t.
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 163 · 🔄 4 · 💬 247 · 🔖 0 · 👁 0
-- **关联主题**: [agent-economic-autonomy](/concepts/agent-economic-autonomy.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/1968850295951347858) — @AwbczBTC (Crypto爱玩币的村长🌊)
-[2] [Author page](/entities/authors/awbczbtc.md)
-[3] [Related topic](/concepts/agent-economic-autonomy.md)

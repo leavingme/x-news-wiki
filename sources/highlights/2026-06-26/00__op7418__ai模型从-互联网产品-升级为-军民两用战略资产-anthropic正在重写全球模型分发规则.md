@@ -67,10 +67,6 @@ Anthropic 还是达成了他的目的。
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 74 · 🔄 2 · 💬 35 · 🔖 0 · 👁 0
-- **关联主题**: [ai-technology-iron-curtain](/concepts/ai-technology-iron-curtain.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2070336764620026339) — @op7418 (歸藏(guizang.ai))
-[2] [Author page](/entities/authors/op7418.md)
-[3] [Related topic](/concepts/ai-technology-iron-curtain.md)

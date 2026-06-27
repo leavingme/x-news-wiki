@@ -71,8 +71,6 @@ That is when the experience starts getting smooth.
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 0 · 🔄 0 · 💬 4 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2061470009587818904) — @lxfater (铁锤人)
-[2] [Author page](/entities/authors/lxfater.md)

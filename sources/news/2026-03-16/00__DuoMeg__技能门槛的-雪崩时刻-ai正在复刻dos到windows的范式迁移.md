@@ -74,8 +74,6 @@ x_source: "crawler"
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 33 · 🔄 0 · 💬 25 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2033094095766467062) — @DuoMeg (0xMeg)
-[2] [Author page](/entities/authors/duomeg.md)

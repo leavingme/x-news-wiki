@@ -49,8 +49,6 @@ gakki：这个观察的锐度在于：AI 放大的不是「工作数量」，而
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 29 · 🔄 1 · 💬 18 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2055894563378876738) — @mranti (Michael Anti)
-[2] [Author page](/entities/authors/mranti.md)

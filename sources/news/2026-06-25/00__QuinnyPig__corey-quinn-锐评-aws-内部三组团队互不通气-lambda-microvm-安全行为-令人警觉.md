@@ -51,8 +51,6 @@ You’re competing with *three* teams at AWS, who have never spoken to one anoth
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 255 · 🔄 7 · 💬 5 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2069472653539254448) — @QuinnyPig (Corey Quinn)
-[2] [Author page](/entities/authors/quinnypig.md)

@@ -58,10 +58,6 @@ https://t.co/sPxZ6izJVV
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 1072 · 🔄 111 · 💬 38 · 🔖 0 · 👁 0
-- **关联主题**: [agent-security-infrastructure](/concepts/agent-security-infrastructure.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/vercel_dev/status/2051381241283539255) — @vercel_dev (Vercel Developers)
-[2] [Author page](/entities/authors/vercel-dev.md)
-[3] [Related topic](/concepts/agent-security-infrastructure.md)

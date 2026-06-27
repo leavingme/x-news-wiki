@@ -51,8 +51,6 @@ gakki 锐评：按月额度本质是 SaaS 时代的财务遗产，而 AI Coding 
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 14 · 🔄 0 · 💬 9 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2062938192051847546) — @dotey (宝玉)
-[2] [Author page](/entities/authors/dotey.md)

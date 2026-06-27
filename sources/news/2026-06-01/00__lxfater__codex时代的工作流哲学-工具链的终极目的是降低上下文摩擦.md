@@ -74,8 +74,6 @@ gakki：这篇文章本质上说的是：模型足够好之后，瓶颈转移到
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 12 · 🔄 0 · 💬 8 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2061405018893459791) — @lxfater (铁锤人)
-[2] [Author page](/entities/authors/lxfater.md)

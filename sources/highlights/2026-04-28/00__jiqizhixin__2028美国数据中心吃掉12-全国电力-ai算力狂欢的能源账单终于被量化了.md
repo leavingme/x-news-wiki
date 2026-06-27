@@ -47,10 +47,6 @@ By 2028, U.S. data centers could gobble up 12% of the country’s electricity �
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 2 · 🔄 0 · 💬 1 · 🔖 0 · 👁 0
-- **关联主题**: [geopolitics-and-compute](/concepts/geopolitics-and-compute.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2048924301735440676) — @jiqizhixin (机器之心 JIQIZHIXIN)
-[2] [Author page](/entities/authors/jiqizhixin.md)
-[3] [Related topic](/concepts/geopolitics-and-compute.md)

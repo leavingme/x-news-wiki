@@ -89,8 +89,6 @@ ChatGPT给了我一个分类表，告诉我餐饮花了35%。
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 1 · 🔄 0 · 💬 0 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2055502478150717581) — @Zesee (Rachel🥥)
-[2] [Author page](/entities/authors/zesee.md)

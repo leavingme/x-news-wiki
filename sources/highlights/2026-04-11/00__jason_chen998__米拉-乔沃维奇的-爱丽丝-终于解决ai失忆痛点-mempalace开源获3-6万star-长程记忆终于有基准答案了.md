@@ -57,10 +57,6 @@ Github链接如下https://t.co/MrFw6YOZ1u
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 78 · 🔄 9 · 💬 7 · 🔖 0 · 👁 0
-- **关联主题**: [agent-memory-optimization](/concepts/agent-memory-optimization.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2042425272352588012) — @jason_chen998 (陈剑Jason)
-[2] [Author page](/entities/authors/jason-chen998.md)
-[3] [Related topic](/concepts/agent-memory-optimization.md)

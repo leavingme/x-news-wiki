@@ -69,8 +69,6 @@ setup流程中会有提示，空格选中，回车配置，飞书或微信的话
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 15 · 🔄 0 · 💬 8 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2055825358503764329) — @vista8 (向阳乔木)
-[2] [Author page](/entities/authors/vista8.md)

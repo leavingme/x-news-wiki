@@ -74,8 +74,6 @@ Xai怪不得要推翻重做🙃
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 50 · 🔄 25 · 💬 5 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2033400201407533357) — @lovelycake (小蛋糕(日本勇者村）)
-[2] [Author page](/entities/authors/lovelycake.md)

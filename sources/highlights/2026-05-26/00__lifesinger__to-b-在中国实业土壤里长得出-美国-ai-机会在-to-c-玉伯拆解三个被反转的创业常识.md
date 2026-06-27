@@ -59,8 +59,6 @@ AI创业与商业化的机会判断需要穿透「政治正确」共识。玉伯
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 49 · 🔄 5 · 💬 17 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2059222338055667882) — @lifesinger (Frank Wang 玉伯)
-[2] [Author page](/entities/authors/lifesinger.md)

@@ -51,8 +51,6 @@ gpt5.5 纸面指标没得说，确实是旗舰，何况还有 5.5 pro
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 8 · 🔄 0 · 💬 0 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2047432432102920448) — @oran_ge (Orange AI)
-[2] [Author page](/entities/authors/oran-ge.md)

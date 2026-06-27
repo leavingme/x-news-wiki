@@ -54,8 +54,6 @@ Vietnam wants it onshore. https://t.co/2IetoqEeed
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 297 · 🔄 58 · 💬 29 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/CryptosR_Us/status/2048360188256879074) — @CryptosR_Us (CryptosRus)
-[2] [Author page](/entities/authors/cryptosr-us.md)

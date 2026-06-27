@@ -61,8 +61,6 @@ This is the slowest civilizational crisis in human history
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 780 · 🔄 177 · 💬 308 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/XFreeze/status/2050132867519250472) — @XFreeze (X Freeze)
-[2] [Author page](/entities/authors/xfreeze.md)

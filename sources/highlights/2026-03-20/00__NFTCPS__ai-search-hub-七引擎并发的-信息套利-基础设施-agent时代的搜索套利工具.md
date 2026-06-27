@@ -62,10 +62,6 @@ AI Search Hub
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 88 · 🔄 22 · 💬 4 · 🔖 0 · 👁 0
-- **关联主题**: [agent-data-intelligence-infra](/concepts/agent-data-intelligence-infra.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2034896679137419568) — @NFTCPS (鸟哥 | 蓝鸟会🕊️)
-[2] [Author page](/entities/authors/nftcps.md)
-[3] [Related topic](/concepts/agent-data-intelligence-infra.md)

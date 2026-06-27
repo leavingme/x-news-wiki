@@ -52,10 +52,6 @@ V4 写作都比 Opus 好了
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 22 · 🔄 0 · 💬 11 · 🔖 0 · 👁 0
-- **关联主题**: [deepseek-v4-open-source](/concepts/deepseek-v4-open-source.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2049983072087761330) — @oran_ge (Orange AI)
-[2] [Author page](/entities/authors/oran-ge.md)
-[3] [Related topic](/concepts/deepseek-v4-open-source.md)

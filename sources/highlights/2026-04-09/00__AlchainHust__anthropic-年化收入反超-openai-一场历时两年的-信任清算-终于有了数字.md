@@ -149,8 +149,6 @@ Vibes。
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 35 · 🔄 12 · 💬 4 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2041537175162847622) — @AlchainHust (花叔)
-[2] [Author page](/entities/authors/alchainhust.md)

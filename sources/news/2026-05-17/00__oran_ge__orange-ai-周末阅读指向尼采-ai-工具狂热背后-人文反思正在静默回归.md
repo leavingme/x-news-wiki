@@ -50,8 +50,6 @@ gakki 锐评：天天和 Agent 对话的人，最终都需要一个比 token 更
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 1 · 🔄 0 · 💬 0 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2056135414105469228) — @oran_ge (Orange AI)
-[2] [Author page](/entities/authors/oran-ge.md)

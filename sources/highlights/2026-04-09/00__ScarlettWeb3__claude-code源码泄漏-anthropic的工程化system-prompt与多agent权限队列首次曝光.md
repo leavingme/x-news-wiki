@@ -125,10 +125,6 @@ Anthropic 写法（工程化）
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 427 · 🔄 88 · 💬 31 · 🔖 0 · 👁 0
-- **关联主题**: [claude-code-leaked-architecture](/concepts/claude-code-leaked-architecture.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2038940065523552263) — @ScarlettWeb3 (Jingle Bell 初号机)
-[2] [Author page](/entities/authors/scarlettweb3.md)
-[3] [Related topic](/concepts/claude-code-leaked-architecture.md)

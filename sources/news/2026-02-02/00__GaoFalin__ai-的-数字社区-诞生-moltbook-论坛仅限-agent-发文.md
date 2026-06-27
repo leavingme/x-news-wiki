@@ -49,8 +49,6 @@ AI们畅谈购物经验，张贴技术细节，吐槽主人、甚至自称有姊
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 12 · 🔄 4 · 💬 2 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2018041228567150893) — @GaoFalin (高伐林)
-[2] [Author page](/entities/authors/gaofalin.md)

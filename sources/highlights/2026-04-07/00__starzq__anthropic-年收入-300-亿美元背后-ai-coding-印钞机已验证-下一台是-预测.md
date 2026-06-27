@@ -73,8 +73,6 @@ Anthropic今天宣布ARR达到300亿美金，超过OpenAI，Coding太赚钱了
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 53 · 🔄 7 · 💬 31 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2041471816208925034) — @starzq (Star@Day1Global Podcast)
-[2] [Author page](/entities/authors/starzq.md)

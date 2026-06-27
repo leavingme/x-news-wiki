@@ -49,8 +49,6 @@ x_source: "ai-trend-digest"
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 907 · 🔄 78 · 💬 46 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/AntLingAGI/status/2047374871467012393) — @AntLingAGI (Ant Ling)
-[2] [Author page](/entities/authors/antlingagi.md)

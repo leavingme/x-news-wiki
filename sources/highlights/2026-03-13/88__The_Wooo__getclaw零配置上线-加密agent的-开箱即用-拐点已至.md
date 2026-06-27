@@ -80,10 +80,6 @@ GetClaw 做的反而是另一件事，把复杂的东西变简单。
 - **精选类别**: ✨ 亮点
 - **优先级**: 88
 - **互动**: ❤️ 70 · 🔄 0 · 💬 65 · 🔖 0 · 👁 0
-- **关联主题**: [ai-crypto-agent-infra](/concepts/ai-crypto-agent-infra.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2032380922419388825) — @The_Wooo (memory)
-[2] [Author page](/entities/authors/the-wooo.md)
-[3] [Related topic](/concepts/ai-crypto-agent-infra.md)

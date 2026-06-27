@@ -55,8 +55,6 @@ x_source: "crawler"
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 1 · 🔄 1 · 💬 0 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2026035871812849800) — @bfs20x (巴菲森20x)
-[2] [Author page](/entities/authors/bfs20x.md)

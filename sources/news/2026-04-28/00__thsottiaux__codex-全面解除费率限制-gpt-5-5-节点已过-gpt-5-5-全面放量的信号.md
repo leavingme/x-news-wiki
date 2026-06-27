@@ -54,8 +54,6 @@ I have reset Codex rate limits for ALL paid plans to celebrate a good week and a
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 16585 · 🔄 747 · 💬 1461 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/thsottiaux/status/2048997818673537399) — @thsottiaux (Tibo)
-[2] [Author page](/entities/authors/thsottiaux.md)

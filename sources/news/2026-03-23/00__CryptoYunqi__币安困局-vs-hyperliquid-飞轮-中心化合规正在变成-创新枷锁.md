@@ -92,8 +92,6 @@ Hyperliquid 是“去中心化 AWS”：HIP-3 把上市权交给 builder + 代�
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 22 · 🔄 14 · 💬 105 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2035094961511965019) — @CryptoYunqi (常为希 ｜AI之道)
-[2] [Author page](/entities/authors/cryptoyunqi.md)

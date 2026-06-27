@@ -57,8 +57,6 @@ Claude Code 還沒出手
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 7 · 🔄 0 · 💬 3 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2021889969133171134) — @practice_y11 (Yan Practice ⭕散修🎒)
-[2] [Author page](/entities/authors/practice-y11.md)

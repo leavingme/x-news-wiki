@@ -97,10 +97,6 @@ Claude Code 团队聊"少即是多"分享随着模型能力增加该如何和模
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 21 · 🔄 1 · 💬 8 · 🔖 0 · 👁 0
-- **关联主题**: [claude-code-restraint-philosophy](/concepts/claude-code-restraint-philosophy.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2067131704343716087) — @xiaohu (小互)
-[2] [Author page](/entities/authors/xiaohu.md)
-[3] [Related topic](/concepts/claude-code-restraint-philosophy.md)

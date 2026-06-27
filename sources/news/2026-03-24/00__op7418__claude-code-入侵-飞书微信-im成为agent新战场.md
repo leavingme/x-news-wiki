@@ -52,10 +52,6 @@ Claude Code 和 CodeX 远程连接到飞书 IM 的插件 Claude-to-IM-Skills 更
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 266 · 🔄 68 · 💬 33 · 🔖 0 · 👁 0
-- **关联主题**: [agent-multi-platform](/concepts/agent-multi-platform.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2036260385490346133) — @op7418 (歸藏(guizang.ai))
-[2] [Author page](/entities/authors/op7418.md)
-[3] [Related topic](/concepts/agent-multi-platform.md)

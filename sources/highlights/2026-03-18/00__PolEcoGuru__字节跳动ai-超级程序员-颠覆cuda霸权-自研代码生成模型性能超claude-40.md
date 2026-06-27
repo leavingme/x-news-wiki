@@ -101,8 +101,6 @@ CUDA Agent从一无所知到全面超越，用了几周。
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 611 · 🔄 139 · 💬 62 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2030579353596108953) — @PolEcoGuru (政经老法师)
-[2] [Author page](/entities/authors/polecoguru.md)

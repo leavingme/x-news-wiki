@@ -77,8 +77,6 @@ AI革命，被低估了。
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 888 · 🔄 281 · 💬 53 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/1917325432933777520) — @mubeitech (墓碑科技)
-[2] [Author page](/entities/authors/mubeitech.md)

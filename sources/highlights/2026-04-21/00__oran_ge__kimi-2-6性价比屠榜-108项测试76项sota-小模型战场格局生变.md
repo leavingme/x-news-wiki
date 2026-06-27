@@ -53,8 +53,6 @@ https://t.co/pdP5Oe7nr5 https://t.co/UJdBRsfNrm
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 35 · 🔄 3 · 💬 10 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2046344754200531126) — @oran_ge (Orange AI)
-[2] [Author page](/entities/authors/oran-ge.md)

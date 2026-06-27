@@ -63,10 +63,6 @@ aily 真正牛的地方在哪呢？它把飞书所有的能力都打通了。消
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 291 · 🔄 47 · 💬 34 · 🔖 0 · 👁 0
-- **关联主题**: [agent-native-paradigm](/concepts/agent-native-paradigm.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2034842114220265798) — @oran_ge (Orange AI)
-[2] [Author page](/entities/authors/oran-ge.md)
-[3] [Related topic](/concepts/agent-native-paradigm.md)

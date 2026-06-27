@@ -62,8 +62,6 @@ Claude 还支持跨会话记忆，能记住你的工作习惯和偏好。
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 507 · 🔄 99 · 💬 54 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2036202248238473607) — @dotey (宝玉)
-[2] [Author page](/entities/authors/dotey.md)

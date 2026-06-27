@@ -90,10 +90,6 @@ Playwright 適合需要複雜流程控制的場景。登入狀態保持、多分
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 230 · 🔄 39 · 💬 13 · 🔖 0 · 👁 0
-- **关联主题**: [agent-browser-token-efficiency](/concepts/agent-browser-token-efficiency.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2035554628830700000) — @BensonTWN (Benson Sun)
-[2] [Author page](/entities/authors/bensontwn.md)
-[3] [Related topic](/concepts/agent-browser-token-efficiency.md)

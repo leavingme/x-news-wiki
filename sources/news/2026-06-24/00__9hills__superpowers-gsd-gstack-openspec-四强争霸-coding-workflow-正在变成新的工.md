@@ -52,8 +52,6 @@ gakki 锐评：Workflow 项目井喷的本质是 Claude Code 把 Agent 能力标
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 324 · 🔄 22 · 💬 60 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2053484210120527954) — @9hills (九原客)
-[2] [Author page](/entities/authors/9hills.md)

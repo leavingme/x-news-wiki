@@ -57,10 +57,6 @@ x_source: "crawler"
 - **精选类别**: ✨ 亮点
 - **优先级**: 90
 - **互动**: ❤️ 335 · 🔄 14 · 💬 143 · 🔖 0 · 👁 0
-- **关联主题**: [openclaw-ecosystem-critique](/concepts/openclaw-ecosystem-critique.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2032365997576089897) — @xiaohu (小互)
-[2] [Author page](/entities/authors/xiaohu.md)
-[3] [Related topic](/concepts/openclaw-ecosystem-critique.md)

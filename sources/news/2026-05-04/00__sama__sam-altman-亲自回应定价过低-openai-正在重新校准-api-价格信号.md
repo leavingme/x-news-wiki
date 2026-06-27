@@ -49,8 +49,6 @@ x_source: "ai-trend-digest"
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 1867 · 🔄 32 · 💬 86 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/sama/status/2051052567522848793) — @sama (Sam Altman)
-[2] [Author page](/entities/authors/sama.md)

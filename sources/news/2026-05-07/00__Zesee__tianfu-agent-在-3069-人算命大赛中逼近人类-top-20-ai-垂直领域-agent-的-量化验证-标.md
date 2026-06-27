@@ -77,8 +77,6 @@ Benchmark: https://t.co/GutCtPwDTa
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 19 · 🔄 0 · 💬 12 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2052228410571640899) — @Zesee (Rachel🥥)
-[2] [Author page](/entities/authors/zesee.md)

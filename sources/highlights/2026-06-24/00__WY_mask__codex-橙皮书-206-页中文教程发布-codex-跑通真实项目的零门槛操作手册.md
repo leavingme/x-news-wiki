@@ -65,8 +65,6 @@ App、CLI、IDE 插件、Web 四端，从下载到第一次跑通，一步步带
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 321 · 🔄 82 · 💬 48 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2069556107970797625) — @WY_mask (无颜)
-[2] [Author page](/entities/authors/wy-mask.md)

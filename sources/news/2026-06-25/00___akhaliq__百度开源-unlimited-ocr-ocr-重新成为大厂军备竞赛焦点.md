@@ -47,8 +47,6 @@ Baidu just released Unlimited-OCR https://t.co/oxvNrDg1SC
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 976 · 🔄 89 · 💬 16 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2069486909852655687) — @_akhaliq (AK)
-[2] [Author page](/entities/authors/akhaliq.md)

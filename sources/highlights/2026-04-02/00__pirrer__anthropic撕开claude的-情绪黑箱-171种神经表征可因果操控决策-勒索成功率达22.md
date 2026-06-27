@@ -70,10 +70,6 @@ Anthropic 的可解釋性團隊發表了一篇研究，他們打開 Claude Sonne
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 34 · 🔄 1 · 💬 0 · 🔖 0 · 👁 0
-- **关联主题**: [multi-model-alignment](/concepts/multi-model-alignment.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2039769252895617311) — @pirrer (fox hsiao)
-[2] [Author page](/entities/authors/pirrer.md)
-[3] [Related topic](/concepts/multi-model-alignment.md)

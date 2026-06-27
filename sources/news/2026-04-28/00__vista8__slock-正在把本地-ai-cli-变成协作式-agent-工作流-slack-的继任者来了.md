@@ -59,8 +59,6 @@ gakki：Slock 的创新不在技术，而在于架构假设——它假设未来
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 7 · 🔄 0 · 💬 3 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2048993627356205167) — @vista8 (向阳乔木)
-[2] [Author page](/entities/authors/vista8.md)

@@ -70,10 +70,6 @@ Bitget主打跟单，理财，新手简单安装
 - **精选类别**: ✨ 亮点
 - **优先级**: 92
 - **互动**: ❤️ 57 · 🔄 12 · 💬 24 · 🔖 0 · 👁 0
-- **关联主题**: [ai-crypto-agent-infra](/concepts/ai-crypto-agent-infra.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2030959157134930275) — @Bqlsj2023 (币圈老司机🔶BNB)
-[2] [Author page](/entities/authors/bqlsj2023.md)
-[3] [Related topic](/concepts/ai-crypto-agent-infra.md)

@@ -125,8 +125,6 @@ What to Avoid（需要避开的情况）
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 1367 · 🔄 260 · 💬 132 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/1904054326118449224) — @dotey (宝玉)
-[2] [Author page](/entities/authors/dotey.md)

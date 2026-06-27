@@ -107,10 +107,6 @@ AI 不会替你想。它会替你做。想做什么，是你的事。
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 44 · 🔄 4 · 💬 9 · 🔖 0 · 👁 0
-- **关联主题**: [ai-social-impact](/concepts/ai-social-impact.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2044439903967297611) — @lifesinger (Frank Wang 玉伯)
-[2] [Author page](/entities/authors/lifesinger.md)
-[3] [Related topic](/concepts/ai-social-impact.md)

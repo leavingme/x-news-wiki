@@ -56,8 +56,6 @@ gakki：「PRD 死不了，死的是写 PRD 的人。产品经理如果只做翻
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 38 · 🔄 2 · 💬 24 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2048212030482509960) — @dotey (宝玉)
-[2] [Author page](/entities/authors/dotey.md)

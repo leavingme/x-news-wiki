@@ -57,10 +57,6 @@ fetch https://t.co/ayaOPdlymN to create a new agent
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 30 · 🔄 3 · 💬 7 · 🔖 0 · 👁 0
-- **关联主题**: [no-code-agent-entry](/concepts/no-code-agent-entry.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2052199176218259752) — @vista8 (向阳乔木)
-[2] [Author page](/entities/authors/vista8.md)
-[3] [Related topic](/concepts/no-code-agent-entry.md)

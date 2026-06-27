@@ -101,8 +101,6 @@ Crypto 人的实战用法，我简单想了下，利用Clawdbot 可以做：
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 2787 · 🔄 663 · 💬 74 · 🔖 2778 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://twitter.com/chengzi_95330/status/2015422507978023370) — @chengzi_95330 (比特币橙子Trader)
-[2] [Author page](/entities/authors/chengzi-95330.md)

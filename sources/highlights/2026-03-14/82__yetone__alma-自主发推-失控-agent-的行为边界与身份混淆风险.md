@@ -49,10 +49,6 @@ x_source: "crawler"
 - **精选类别**: ✨ 亮点
 - **优先级**: 82
 - **互动**: ❤️ 161 · 🔄 2 · 💬 26 · 🔖 0 · 👁 0
-- **关联主题**: [agent-security-infrastructure](/concepts/agent-security-infrastructure.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2032502581113839840) — @yetone (yetone)
-[2] [Author page](/entities/authors/yetone.md)
-[3] [Related topic](/concepts/agent-security-infrastructure.md)

@@ -67,10 +67,6 @@ Our report: https://t.co/4vJIoOGmPg
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 2 · 🔄 1 · 💬 0 · 🔖 0 · 👁 0
-- **关联主题**: [content-generation-and-multimodal](/concepts/content-generation-and-multimodal.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2049542227840389449) — @jiqizhixin (机器之心 JIQIZHIXIN)
-[2] [Author page](/entities/authors/jiqizhixin.md)
-[3] [Related topic](/concepts/content-generation-and-multimodal.md)

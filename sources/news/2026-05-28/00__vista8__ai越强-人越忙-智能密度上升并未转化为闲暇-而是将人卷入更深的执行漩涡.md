@@ -49,8 +49,6 @@ AI越强，人越忙：一个住在未来的人说了什么
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 16 · 🔄 1 · 💬 1 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2059822354969325611) — @vista8 (向阳乔木)
-[2] [Author page](/entities/authors/vista8.md)

@@ -48,8 +48,6 @@ AI不再等你打开聊天框，它开始等在现场
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 23 · 🔄 7 · 💬 16 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2061444313167388677) — @Zesee (Rachel🥥)
-[2] [Author page](/entities/authors/zesee.md)

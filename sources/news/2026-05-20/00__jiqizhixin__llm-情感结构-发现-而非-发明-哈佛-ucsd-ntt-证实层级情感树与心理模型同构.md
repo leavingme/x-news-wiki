@@ -64,10 +64,6 @@ Our report: https://t.co/KAJTks3jWH
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 1 · 🔄 1 · 💬 0 · 🔖 0 · 👁 0
-- **关联主题**: [human-ai-emotional-boundary](/concepts/human-ai-emotional-boundary.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2057181564795297985) — @jiqizhixin (机器之心 JIQIZHIXIN)
-[2] [Author page](/entities/authors/jiqizhixin.md)
-[3] [Related topic](/concepts/human-ai-emotional-boundary.md)

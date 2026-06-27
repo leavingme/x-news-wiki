@@ -55,8 +55,6 @@ Codex 是当之无愧的性价比之王。20$ 几乎都够用了， 而且产出
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 116 · 🔄 4 · 💬 56 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2033438068808847662) — @PandaTalk8 (Mr Panda)
-[2] [Author page](/entities/authors/pandatalk8.md)

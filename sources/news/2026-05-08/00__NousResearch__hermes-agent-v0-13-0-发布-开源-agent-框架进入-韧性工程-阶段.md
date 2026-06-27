@@ -49,8 +49,6 @@ Hermes Agent v0.13.0 - “The Tenacity Release” https://t.co/LJE8ZLW8qK
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 1506 · 🔄 120 · 💬 101 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/NousResearch/status/2052493732205744303) — @NousResearch (Nous Research)
-[2] [Author page](/entities/authors/nousresearch.md)

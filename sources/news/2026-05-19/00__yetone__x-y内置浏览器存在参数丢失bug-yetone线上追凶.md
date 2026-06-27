@@ -52,8 +52,6 @@ Agent世界里，最可怕的不是报错，而是不报错但结果错了。这
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 0 · 🔄 0 · 💬 0 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2056534195368005719) — @yetone (yetone)
-[2] [Author page](/entities/authors/yetone.md)

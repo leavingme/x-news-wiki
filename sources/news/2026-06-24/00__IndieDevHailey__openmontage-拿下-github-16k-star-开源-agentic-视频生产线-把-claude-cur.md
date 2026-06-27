@@ -69,8 +69,6 @@ GitHub 已获超 16k Star，目前 Trending 第一。
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 232 · 🔄 54 · 💬 42 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2069684466059202885) — @IndieDevHailey (开发者Hailey)
-[2] [Author page](/entities/authors/indiedevhailey.md)

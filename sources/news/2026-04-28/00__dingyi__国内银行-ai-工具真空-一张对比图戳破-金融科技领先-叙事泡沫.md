@@ -52,8 +52,6 @@ https://t.co/Cc4fbX9ZOD https://t.co/ENjR4BL8yj
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 178 · 🔄 18 · 💬 17 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2049051261295878623) — @dingyi (Ding)
-[2] [Author page](/entities/authors/dingyi.md)

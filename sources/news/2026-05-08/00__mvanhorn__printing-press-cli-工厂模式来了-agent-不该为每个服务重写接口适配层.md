@@ -58,10 +58,6 @@ CLIs are fast, local, SQLite-backed. Work in Claude Code, Codex, OpenClaw, Herme
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 2641 · 🔄 193 · 💬 185 · 🔖 0 · 👁 0
-- **关联主题**: [cli-toolchain-convergence](/concepts/cli-toolchain-convergence.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/mvanhorn/status/2052422567181611010) — @mvanhorn (Matt Van Horn)
-[2] [Author page](/entities/authors/mvanhorn.md)
-[3] [Related topic](/concepts/cli-toolchain-convergence.md)

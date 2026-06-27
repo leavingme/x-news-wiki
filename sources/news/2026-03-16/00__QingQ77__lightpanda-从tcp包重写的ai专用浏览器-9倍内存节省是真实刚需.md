@@ -54,10 +54,6 @@ https://t.co/nZKU19Ixle
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 129 · 🔄 13 · 💬 5 · 🔖 0 · 👁 0
-- **关联主题**: [agent-browser-token-efficiency](/concepts/agent-browser-token-efficiency.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2032683390428999749) — @QingQ77 (Geek Lite)
-[2] [Author page](/entities/authors/qingq77.md)
-[3] [Related topic](/concepts/agent-browser-token-efficiency.md)

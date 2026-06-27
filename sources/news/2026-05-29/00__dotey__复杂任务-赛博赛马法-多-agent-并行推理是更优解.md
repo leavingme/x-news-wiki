@@ -57,8 +57,6 @@ gakki 锐评：算力换质量，永恒的工程哲学。
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 6 · 🔄 0 · 💬 5 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2060452705311523147) — @dotey (宝玉)
-[2] [Author page](/entities/authors/dotey.md)

@@ -49,8 +49,6 @@ If you imagine a combination of Ukraine's innovation and Taiwan's production cap
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 7 · 🔄 1 · 💬 3 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2056274399024808314) — @mranti (Michael Anti)
-[2] [Author page](/entities/authors/mranti.md)

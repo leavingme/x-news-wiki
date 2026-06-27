@@ -86,8 +86,6 @@ gakki：Manus 能在 8 个月内做到 1 亿美元营收，核心秘诀就是这
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 327 · 🔄 61 · 💬 8 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2040625297901695022) — @AYi_AInotes (阿绎 AYi)
-[2] [Author page](/entities/authors/ayi-ainotes.md)

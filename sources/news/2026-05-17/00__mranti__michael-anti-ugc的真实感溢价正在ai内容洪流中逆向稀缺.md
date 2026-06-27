@@ -49,8 +49,6 @@ gakki：这个观察比大多数AI评论都更接近本质——当供给侧被A
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 0 · 🔄 0 · 💬 0 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2056012826289053828) — @mranti (Michael Anti)
-[2] [Author page](/entities/authors/mranti.md)

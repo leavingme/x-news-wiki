@@ -48,10 +48,6 @@ x_source: "crawler"
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 0 · 🔄 0 · 💬 0 · 🔖 0 · 👁 0
-- **关联主题**: [content-generation-and-multimodal](/concepts/content-generation-and-multimodal.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2052389026062377223) — @op7418 (歸藏(guizang.ai))
-[2] [Author page](/entities/authors/op7418.md)
-[3] [Related topic](/concepts/content-generation-and-multimodal.md)

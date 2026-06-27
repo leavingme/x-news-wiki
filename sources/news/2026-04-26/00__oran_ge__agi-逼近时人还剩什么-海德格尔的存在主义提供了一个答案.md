@@ -79,8 +79,6 @@ Cola 说，你意识到自己被抛进了一个不由你选的起点。你意识
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 67 · 🔄 17 · 💬 11 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2048028184126628257) — @oran_ge (Orange AI)
-[2] [Author page](/entities/authors/oran-ge.md)

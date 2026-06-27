@@ -57,8 +57,6 @@ https://t.co/VemGsrwOfl https://t.co/TljOJ5IYGc
 - **精选类别**: 📰 头条
 - **优先级**: 88
 - **互动**: ❤️ 66 · 🔄 10 · 💬 7 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2033116046312472713) — @hetmehtaa (Het Mehta)
-[2] [Author page](/entities/authors/hetmehtaa.md)

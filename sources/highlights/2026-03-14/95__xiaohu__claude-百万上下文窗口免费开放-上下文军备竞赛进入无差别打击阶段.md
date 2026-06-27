@@ -61,10 +61,6 @@ Claude Opus 4.6 和 Claude Sonnet 4.6，现在全部支持100 万上下文窗口
 - **精选类别**: ✨ 亮点
 - **优先级**: 95
 - **互动**: ❤️ 116 · 🔄 2 · 💬 23 · 🔖 0 · 👁 0
-- **关联主题**: [claude-code-ecosystem](/concepts/claude-code-ecosystem.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2032608738511929832) — @xiaohu (小互)
-[2] [Author page](/entities/authors/xiaohu.md)
-[3] [Related topic](/concepts/claude-code-ecosystem.md)

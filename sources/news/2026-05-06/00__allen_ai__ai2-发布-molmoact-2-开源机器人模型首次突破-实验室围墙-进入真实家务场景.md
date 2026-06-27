@@ -51,10 +51,6 @@ Today we're launching MolmoAct 2, which can assist with a host of chores &amp; l
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 224 · 🔄 53 · 💬 6 · 🔖 0 · 👁 0
-- **关联主题**: [embodied-ai-supply-chain](/concepts/embodied-ai-supply-chain.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/allen_ai/status/2051708880455868501) — @allen_ai (Ai2)
-[2] [Author page](/entities/authors/allen-ai.md)
-[3] [Related topic](/concepts/embodied-ai-supply-chain.md)

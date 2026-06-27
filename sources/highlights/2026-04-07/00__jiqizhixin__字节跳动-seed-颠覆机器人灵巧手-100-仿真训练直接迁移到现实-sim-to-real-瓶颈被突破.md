@@ -64,10 +64,6 @@ Our report: https://t.co/umbHcbZaPU
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 58 · 🔄 13 · 💬 2 · 🔖 0 · 👁 0
-- **关联主题**: [textop-humanoid-robot](/concepts/textop-humanoid-robot.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2041328857773441323) — @jiqizhixin (机器之心 JIQIZHIXIN)
-[2] [Author page](/entities/authors/jiqizhixin.md)
-[3] [Related topic](/concepts/textop-humanoid-robot.md)

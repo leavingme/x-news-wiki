@@ -62,8 +62,6 @@ gakki：「AI 过审」这条链路一旦被广泛使用，平台的内容审核
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 46 · 🔄 2 · 💬 23 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2062403614963126712) — @op7418 (歸藏(guizang.ai))
-[2] [Author page](/entities/authors/op7418.md)

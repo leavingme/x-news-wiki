@@ -51,8 +51,6 @@ gakki：用户的"退订理由"本身就是最好的产品定位参照——Clau
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 13 · 🔄 0 · 💬 10 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2062012865893241235) — @lxfater (铁锤人)
-[2] [Author page](/entities/authors/lxfater.md)

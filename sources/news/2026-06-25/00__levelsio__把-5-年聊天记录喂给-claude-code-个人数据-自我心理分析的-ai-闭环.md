@@ -49,8 +49,6 @@ A fun exercise is exporting your 5+ year of chat logs and putting it in Claude C
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 117 · 🔄 2 · 💬 26 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2070219230398632123) — @levelsio (@levelsio)
-[2] [Author page](/entities/authors/levelsio.md)

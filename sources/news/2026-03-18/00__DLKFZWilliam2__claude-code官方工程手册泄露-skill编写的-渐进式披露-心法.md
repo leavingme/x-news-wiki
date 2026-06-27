@@ -50,10 +50,6 @@ Anthropic正在把Prompt工程变成软件工程。当Skill成为可版本控制
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 31 · 🔄 1 · 💬 1 · 🔖 0 · 👁 0
-- **关联主题**: [skill-automation-engineering](/concepts/skill-automation-engineering.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2034041985510904019) — @DLKFZWilliam2 (独立开发者William)
-[2] [Author page](/entities/authors/dlkfzwilliam2.md)
-[3] [Related topic](/concepts/skill-automation-engineering.md)

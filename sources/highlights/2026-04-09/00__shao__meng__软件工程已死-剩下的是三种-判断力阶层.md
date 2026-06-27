@@ -84,8 +84,6 @@ https://t.co/eUXZTMnaa6
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 46 · 🔄 16 · 💬 2 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2034435299095543869) — @shao__meng (meng shao)
-[2] [Author page](/entities/authors/shao-meng.md)

@@ -57,8 +57,6 @@ Dwarkesh死磕黄仁勋：你说美国芯片更好，又说没有我们中国也
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 608 · 🔄 49 · 💬 89 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2045173244542525675) — @__Inty__ (Inty News)
-[2] [Author page](/entities/authors/inty.md)

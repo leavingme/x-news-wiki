@@ -56,8 +56,6 @@ drafter 沿用 Gemma 4 的 Apache 2.0 协议，权重已经上传到 Hugging Fac
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 26 · 🔄 5 · 💬 3 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2051717367164518467) — @dotey (宝玉)
-[2] [Author page](/entities/authors/dotey.md)

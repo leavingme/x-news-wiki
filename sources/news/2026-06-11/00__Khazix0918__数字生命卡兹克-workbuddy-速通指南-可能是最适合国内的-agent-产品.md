@@ -49,10 +49,6 @@ gakki 锐评：'适合国内'四个字比'世界最强'更有杀伤力——Work
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 12 · 🔄 1 · 💬 1 · 🔖 0 · 👁 0
-- **关联主题**: [enterprise-agent-product](/concepts/enterprise-agent-product.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2064939092606103893) — @Khazix0918 (数字生命卡兹克)
-[2] [Author page](/entities/authors/khazix0918.md)
-[3] [Related topic](/concepts/enterprise-agent-product.md)

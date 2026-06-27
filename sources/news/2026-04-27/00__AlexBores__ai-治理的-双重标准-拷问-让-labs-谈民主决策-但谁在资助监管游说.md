@@ -57,8 +57,6 @@ Or are these principles just theater for your employees so they don't ask why yo
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 331 · 🔄 48 · 💬 10 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/AlexBores/status/2048724149330145507) — @AlexBores (Alex Bores)
-[2] [Author page](/entities/authors/alexbores.md)

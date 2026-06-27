@@ -176,8 +176,6 @@ AI选择适合做算力节点的城市。
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 8 · 🔄 0 · 💬 2 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2028612821555233181) — @xxxApril_D13 (April)
-[2] [Author page](/entities/authors/xxxapril-d13.md)

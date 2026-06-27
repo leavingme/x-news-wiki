@@ -57,8 +57,6 @@ Airtap 的方法值得关注，它将 AI 放在云端手机中，通过观察、
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 2 · 🔄 0 · 💬 0 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2054436563845804051) — @Rourou0413 (Rourou)
-[2] [Author page](/entities/authors/rourou0413.md)

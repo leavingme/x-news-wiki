@@ -67,8 +67,6 @@ GitHub：https://t.co/Qkt3Lpcy5h
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 241 · 🔄 66 · 💬 7 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2038610287566479678) — @GoJun315 (高军)
-[2] [Author page](/entities/authors/gojun315.md)

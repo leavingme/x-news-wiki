@@ -56,8 +56,6 @@ Plus 和 Pro 用户可以邀请最多三位朋友试用 Codex。
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 5 · 🔄 0 · 💬 2 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2065238850998505767) — @xiaohu (小互)
-[2] [Author page](/entities/authors/xiaohu.md)

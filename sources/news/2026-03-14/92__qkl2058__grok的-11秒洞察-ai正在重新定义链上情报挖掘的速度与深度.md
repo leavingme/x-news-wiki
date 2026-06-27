@@ -112,8 +112,6 @@ Grok用了11秒找到的。
 - **精选类别**: 📰 头条
 - **优先级**: 92
 - **互动**: ❤️ 247 · 🔄 60 · 💬 17 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2031385846830821434) — @qkl2058 (区块链行情研究)
-[2] [Author page](/entities/authors/qkl2058.md)

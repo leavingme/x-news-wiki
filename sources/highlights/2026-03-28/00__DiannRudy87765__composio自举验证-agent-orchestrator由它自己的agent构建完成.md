@@ -58,10 +58,6 @@ Composio开源Agent Orchestrator啦！
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 5 · 🔄 4 · 💬 0 · 🔖 0 · 👁 0
-- **关联主题**: [agent-swarm-orchestration](/concepts/agent-swarm-orchestration.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2036323275685634403) — @DiannRudy87765 (实用干货铺)
-[2] [Author page](/entities/authors/diannrudy87765.md)
-[3] [Related topic](/concepts/agent-swarm-orchestration.md)

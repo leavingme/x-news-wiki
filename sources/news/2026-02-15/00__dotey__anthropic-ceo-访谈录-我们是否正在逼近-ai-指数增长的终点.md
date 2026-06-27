@@ -47,8 +47,6 @@ Anthropic CEO Dario Amodei 访谈：我们正在接近指数的终点
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 831 · 🔄 214 · 💬 22 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2022899664035496294) — @dotey (宝玉)
-[2] [Author page](/entities/authors/dotey.md)

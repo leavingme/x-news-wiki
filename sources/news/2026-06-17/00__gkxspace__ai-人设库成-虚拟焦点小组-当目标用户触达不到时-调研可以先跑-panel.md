@@ -63,8 +63,6 @@ https://t.co/4FE51MW0f0
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 2 · 🔄 0 · 💬 1 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2067208480662913177) — @gkxspace (余温)
-[2] [Author page](/entities/authors/gkxspace.md)

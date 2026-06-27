@@ -87,10 +87,6 @@ https://t.co/rhqTZvDv87
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 40 · 🔄 19 · 💬 1 · 🔖 0 · 👁 0
-- **关联主题**: [ai-crypto-agent-infra](/concepts/ai-crypto-agent-infra.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2035397503634559439) — @qkl2058 (区块链行情研究)
-[2] [Author page](/entities/authors/qkl2058.md)
-[3] [Related topic](/concepts/ai-crypto-agent-infra.md)

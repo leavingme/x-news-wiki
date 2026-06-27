@@ -74,10 +74,6 @@ AI 降低了技术门槛，新人也能写出能跑的代码。
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 67 · 🔄 3 · 💬 14 · 🔖 0 · 👁 0
-- **关联主题**: [skill-barrier-collapse](/concepts/skill-barrier-collapse.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2029595645812650022) — @Pluvio9yte (雪踏乌云)
-[2] [Author page](/entities/authors/pluvio9yte.md)
-[3] [Related topic](/concepts/skill-barrier-collapse.md)

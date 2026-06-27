@@ -59,10 +59,6 @@ x_source: "crawler"
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 115 · 🔄 5 · 💬 24 · 🔖 0 · 👁 0
-- **关联主题**: [skill-barrier-collapse](/concepts/skill-barrier-collapse.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2033913707466527146) — @gefei55 (哥飞)
-[2] [Author page](/entities/authors/gefei55.md)
-[3] [Related topic](/concepts/skill-barrier-collapse.md)

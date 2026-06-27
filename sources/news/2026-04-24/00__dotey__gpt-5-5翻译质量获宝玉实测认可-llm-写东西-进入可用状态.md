@@ -173,8 +173,6 @@ GPT 5.5 现在写东西质量真的不错了，刚翻译了一篇文章（https:
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 40 · 🔄 0 · 💬 5 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2047577058415448505) — @dotey (宝玉)
-[2] [Author page](/entities/authors/dotey.md)

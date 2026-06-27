@@ -77,8 +77,6 @@ OpenAI 正在与联发科（MediaTek）和高通（Qualcomm）合作开发智能
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 13 · 🔄 0 · 💬 5 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2048913545417396516) — @dotey (宝玉)
-[2] [Author page](/entities/authors/dotey.md)

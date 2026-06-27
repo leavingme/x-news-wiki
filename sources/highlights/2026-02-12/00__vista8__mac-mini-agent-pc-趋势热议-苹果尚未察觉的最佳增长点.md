@@ -172,8 +172,6 @@ Mac Mini抢购潮是一个信号
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 34 · 🔄 5 · 💬 13 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2021885631639761373) — @vista8 (向阳乔木)
-[2] [Author page](/entities/authors/vista8.md)

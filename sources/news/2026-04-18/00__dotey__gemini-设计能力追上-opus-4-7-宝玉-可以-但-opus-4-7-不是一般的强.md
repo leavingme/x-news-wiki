@@ -50,8 +50,6 @@ gakki锐评：Opus 4.7 的设计优势本质是「审美对齐」的胜利——
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 1 · 🔄 0 · 💬 1 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2045255950504804752) — @dotey (宝玉)
-[2] [Author page](/entities/authors/dotey.md)

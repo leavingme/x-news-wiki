@@ -50,10 +50,6 @@ GPT-Image 2.0 的图标生成进入「随手可做」阶段，意味着多模态
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 3 · 🔄 0 · 💬 0 · 🔖 0 · 👁 0
-- **关联主题**: [ai-video-audio-quality](/concepts/ai-video-audio-quality.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2060660883135840453) — @op7418 (歸藏(guizang.ai))
-[2] [Author page](/entities/authors/op7418.md)
-[3] [Related topic](/concepts/ai-video-audio-quality.md)

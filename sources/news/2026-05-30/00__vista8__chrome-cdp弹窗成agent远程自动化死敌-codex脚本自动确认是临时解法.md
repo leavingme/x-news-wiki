@@ -62,10 +62,6 @@ Chrome 的 CDP 调试真的好用，但 Codex 或 Claude Code 调用时，每次
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 1 · 🔄 0 · 💬 2 · 🔖 0 · 👁 0
-- **关联主题**: [page-agent-browser-automation](/concepts/page-agent-browser-automation.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2060595730742706452) — @vista8 (向阳乔木)
-[2] [Author page](/entities/authors/vista8.md)
-[3] [Related topic](/concepts/page-agent-browser-automation.md)

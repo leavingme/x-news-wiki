@@ -53,8 +53,6 @@ True AI Alignment means understanding human intent, not policing it. The current
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 72 · 🔄 16 · 💬 1 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2025912970379932118) — @vailisF (頻率偏移)
-[2] [Author page](/entities/authors/vailisf.md)

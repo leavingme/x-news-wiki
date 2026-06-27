@@ -67,10 +67,6 @@ github链接放评论区了，想体验的自取👇👇👇
 - **精选类别**: ✨ 亮点
 - **优先级**: 88
 - **互动**: ❤️ 843 · 🔄 141 · 💬 45 · 🔖 0 · 👁 0
-- **关联主题**: [agent-swarm-orchestration](/concepts/agent-swarm-orchestration.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2029783415688737019) — @nbblock (CJ_Blockchain, CFA)
-[2] [Author page](/entities/authors/nbblock.md)
-[3] [Related topic](/concepts/agent-swarm-orchestration.md)

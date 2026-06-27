@@ -69,8 +69,6 @@ x_source: "crawler"
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 1489 · 🔄 685 · 💬 904 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/1985184079449665774) — @tangjinzhou (tangjinzhou)
-[2] [Author page](/entities/authors/tangjinzhou.md)

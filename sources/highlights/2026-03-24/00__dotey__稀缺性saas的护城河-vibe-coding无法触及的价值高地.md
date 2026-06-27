@@ -48,8 +48,6 @@ x_source: "crawler"
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 66 · 🔄 2 · 💬 14 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2036115161937825897) — @dotey (宝玉)
-[2] [Author page](/entities/authors/dotey.md)

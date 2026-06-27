@@ -69,10 +69,6 @@ https://t.co/2ZAuREHBfJ
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 4 · 🔄 0 · 💬 1 · 🔖 0 · 👁 0
-- **关联主题**: [deepseek-v4-open-source](/concepts/deepseek-v4-open-source.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2047514944158020048) — @dotey (宝玉)
-[2] [Author page](/entities/authors/dotey.md)
-[3] [Related topic](/concepts/deepseek-v4-open-source.md)

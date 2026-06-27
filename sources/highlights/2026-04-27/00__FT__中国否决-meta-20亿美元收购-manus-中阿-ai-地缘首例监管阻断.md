@@ -51,10 +51,6 @@ Breaking news: China has blocked Meta’s $2bn acquisition of artificial intelli
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 604 · 🔄 192 · 💬 48 · 🔖 0 · 👁 0
-- **关联主题**: [ai-technology-iron-curtain](/concepts/ai-technology-iron-curtain.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/FT/status/2048683139002765740) — @FT (Financial Times)
-[2] [Author page](/entities/authors/ft.md)
-[3] [Related topic](/concepts/ai-technology-iron-curtain.md)

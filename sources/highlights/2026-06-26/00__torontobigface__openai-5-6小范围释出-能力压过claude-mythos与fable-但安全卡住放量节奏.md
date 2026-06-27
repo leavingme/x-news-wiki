@@ -50,10 +50,6 @@ OpenAI 发布了最新模型5.6
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 11 · 🔄 0 · 💬 1 · 🔖 0 · 👁 0
-- **关联主题**: [model-capabilities](/concepts/model-capabilities.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2070568109119836493) — @torontobigface (多伦多方脸)
-[2] [Author page](/entities/authors/torontobigface.md)
-[3] [Related topic](/concepts/model-capabilities.md)

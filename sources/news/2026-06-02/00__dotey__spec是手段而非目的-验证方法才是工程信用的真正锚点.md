@@ -54,8 +54,6 @@ https://t.co/C0q6iydz7w
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 0 · 🔄 0 · 💬 2 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2061655828516446480) — @dotey (宝玉)
-[2] [Author page](/entities/authors/dotey.md)

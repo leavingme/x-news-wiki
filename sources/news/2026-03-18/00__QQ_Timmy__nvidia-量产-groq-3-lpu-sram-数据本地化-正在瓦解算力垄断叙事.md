@@ -54,8 +54,6 @@ AWS 上週也傳出計畫採用 Cerebras 的 WSE-3（44GB SRAM），原因類似
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 54 · 🔄 7 · 💬 1 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2034100231470743981) — @QQ_Timmy (駿HaYaO)
-[2] [Author page](/entities/authors/qq-timmy.md)

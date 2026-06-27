@@ -60,10 +60,6 @@ MacBook Pro 起售价 ¥15999 （之前¥13499）
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 32 · 🔄 1 · 💬 33 · 🔖 0 · 👁 0
-- **关联主题**: [apple-platform-ai-tax](/concepts/apple-platform-ai-tax.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2070139320674230601) — @xiaohu (小互)
-[2] [Author page](/entities/authors/xiaohu.md)
-[3] [Related topic](/concepts/apple-platform-ai-tax.md)

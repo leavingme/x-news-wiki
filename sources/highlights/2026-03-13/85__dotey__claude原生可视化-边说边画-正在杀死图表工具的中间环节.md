@@ -60,10 +60,6 @@ Claude 新增可视化功能：用户在聊天过程中，Claude 可以直接生
 - **精选类别**: ✨ 亮点
 - **优先级**: 85
 - **互动**: ❤️ 101 · 🔄 17 · 💬 9 · 🔖 0 · 👁 0
-- **关联主题**: [claude-code-ecosystem](/concepts/claude-code-ecosystem.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2032189698433482771) — @dotey (宝玉)
-[2] [Author page](/entities/authors/dotey.md)
-[3] [Related topic](/concepts/claude-code-ecosystem.md)

@@ -51,10 +51,6 @@ GLM 5.2 的意义在于
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 28 · 🔄 3 · 💬 13 · 🔖 0 · 👁 0
-- **关联主题**: [ai-coding-market-divergence](/concepts/ai-coding-market-divergence.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2067080400112124341) — @oran_ge (Orange AI)
-[2] [Author page](/entities/authors/oran-ge.md)
-[3] [Related topic](/concepts/ai-coding-market-divergence.md)

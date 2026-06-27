@@ -54,10 +54,6 @@ Chrome不再是「被操控的客体」，而正在成为Agent的「原生感官
 - **精选类别**: ✨ 亮点
 - **优先级**: 95
 - **互动**: ❤️ 80 · 🔄 9 · 💬 2 · 🔖 0 · 👁 0
-- **关联主题**: [agent-browser-token-efficiency](/concepts/agent-browser-token-efficiency.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2032836315012804966) — @cnfinancewatch (华尔街观察 Xtrader)
-[2] [Author page](/entities/authors/cnfinancewatch.md)
-[3] [Related topic](/concepts/agent-browser-token-efficiency.md)

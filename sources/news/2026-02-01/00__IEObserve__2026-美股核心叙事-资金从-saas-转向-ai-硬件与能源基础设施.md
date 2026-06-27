@@ -93,8 +93,6 @@ Rivian下跌25%反映EV產業的多重逆風。電動車滲透率成長放緩，
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 40 · 🔄 3 · 💬 1 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2017919208542413270) — @IEObserve (Intl Econ Observe)
-[2] [Author page](/entities/authors/ieobserve.md)

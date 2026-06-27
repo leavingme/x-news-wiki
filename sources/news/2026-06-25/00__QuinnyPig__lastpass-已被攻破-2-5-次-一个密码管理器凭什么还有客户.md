@@ -49,8 +49,6 @@ They are a password manager. How on earth do they have customers at this point?
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 1167 · 🔄 58 · 💬 20 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2069470214803038291) — @QuinnyPig (Corey Quinn)
-[2] [Author page](/entities/authors/quinnypig.md)

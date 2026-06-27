@@ -63,8 +63,6 @@ Just not sure many have the stomach to buy a chart up 3-4x YTD and sell their ba
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 553 · 🔄 7 · 💬 115 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/amitisinvesting/status/2049542991107256569) — @amitisinvesting (amit)
-[2] [Author page](/entities/authors/amitisinvesting.md)

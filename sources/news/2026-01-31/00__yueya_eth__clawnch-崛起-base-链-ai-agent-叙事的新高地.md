@@ -62,8 +62,6 @@ CA: 0xa1f72459dfa10bad200ac160ecd78c6b77a747be 传送门: https://t.co/UBEE9zDPF
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 24 · 🔄 4 · 💬 14 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2017582516878905744) — @yueya_eth (yueya🦅)
-[2] [Author page](/entities/authors/yueya-eth.md)

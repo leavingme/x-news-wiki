@@ -58,8 +58,6 @@ gakki 锐评：本地化是开源项目最容易被低估的"产品级"工程量
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 11 · 🔄 1 · 💬 2 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2063277561266782661) — @dotey (宝玉)
-[2] [Author page](/entities/authors/dotey.md)

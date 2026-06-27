@@ -51,10 +51,6 @@ https://t.co/LnIlVFLhiw
 - **精选类别**: ✨ 亮点
 - **优先级**: 82
 - **互动**: ❤️ 106 · 🔄 9 · 💬 3 · 🔖 0 · 👁 0
-- **关联主题**: [agent-fundamentals-education](/concepts/agent-fundamentals-education.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2032594555099308056) — @HiTw93 (Tw93)
-[2] [Author page](/entities/authors/hitw93.md)
-[3] [Related topic](/concepts/agent-fundamentals-education.md)

@@ -50,10 +50,6 @@ gakki 锐评:预测无新数据,但把 AI 失业叙事拉到"一代人"的尺度
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 10 · 🔄 0 · 💬 3 · 🔖 0 · 👁 0
-- **关联主题**: [ai-employment-replacement-narrative](/concepts/ai-employment-replacement-narrative.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2065971884559360219) — @mranti (Michael Anti)
-[2] [Author page](/entities/authors/mranti.md)
-[3] [Related topic](/concepts/ai-employment-replacement-narrative.md)

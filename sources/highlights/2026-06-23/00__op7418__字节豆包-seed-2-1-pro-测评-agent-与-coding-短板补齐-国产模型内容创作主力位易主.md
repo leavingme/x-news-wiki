@@ -54,10 +54,6 @@ x_source: "crawler"
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 18 · 🔄 1 · 💬 6 · 🔖 0 · 👁 0
-- **关联主题**: [domestic-model-competition](/concepts/domestic-model-competition.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2069424221399519238) — @op7418 (歸藏(guizang.ai))
-[2] [Author page](/entities/authors/op7418.md)
-[3] [Related topic](/concepts/domestic-model-competition.md)

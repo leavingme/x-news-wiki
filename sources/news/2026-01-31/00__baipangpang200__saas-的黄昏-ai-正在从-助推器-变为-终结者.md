@@ -127,8 +127,6 @@ X 帖文增强版（带图描述）：
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 5 · 🔄 0 · 💬 4 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2017548478638133693) — @baipangpang200 (大黄鱼)
-[2] [Author page](/entities/authors/baipangpang200.md)

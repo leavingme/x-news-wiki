@@ -50,8 +50,6 @@ Claude 是懂定价策略的
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 7 · 🔄 0 · 💬 1 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2020474288038465842) — @buaaxhm (supermao)
-[2] [Author page](/entities/authors/buaaxhm.md)

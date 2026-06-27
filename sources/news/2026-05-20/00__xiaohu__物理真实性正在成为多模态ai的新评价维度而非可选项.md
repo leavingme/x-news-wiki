@@ -49,8 +49,6 @@ gakki锐评：物理真实性是通往真正世界模型的前提——不是「
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 4 · 🔄 0 · 💬 0 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2056880846397911243) — @xiaohu (小互)
-[2] [Author page](/entities/authors/xiaohu.md)

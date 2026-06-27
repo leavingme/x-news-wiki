@@ -78,8 +78,6 @@ Go to the Pi mining app home screen to learn more.
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 2967 · 🔄 662 · 💬 394 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/PiCoreTeam/status/2049205836111909207) — @PiCoreTeam (Pi Network)
-[2] [Author page](/entities/authors/picoreteam.md)

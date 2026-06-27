@@ -62,10 +62,6 @@ AEON 正在推动 Coinbase 的 x402 支付协议落地，并在 BNB Chain 上推
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 58 · 🔄 9 · 💬 103 · 🔖 0 · 👁 0
-- **关联主题**: [ai-agent-crypto-infra](/concepts/ai-agent-crypto-infra.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2031233210361991371) — @466Anan (Crypto Nan)
-[2] [Author page](/entities/authors/466anan.md)
-[3] [Related topic](/concepts/ai-agent-crypto-infra.md)

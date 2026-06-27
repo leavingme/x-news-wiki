@@ -57,8 +57,6 @@ Agent 应用，是人“指挥” Agent 去操作 App/cli，Agent 自助做事
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 33 · 🔄 5 · 💬 18 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2059129670558200101) — @dotey (宝玉)
-[2] [Author page](/entities/authors/dotey.md)

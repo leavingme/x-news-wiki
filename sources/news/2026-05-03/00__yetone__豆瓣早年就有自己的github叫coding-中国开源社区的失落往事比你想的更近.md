@@ -49,8 +49,6 @@ gakki锐评：这不是怀旧，而是一个被低估的信号——当AI Coding
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 4 · 🔄 0 · 💬 1 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2050821603513270526) — @yetone (yetone)
-[2] [Author page](/entities/authors/yetone.md)

@@ -51,10 +51,6 @@ Anthropic万字长文：当AI开始构建自己，人类该何去何从？
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 7 · 🔄 3 · 💬 1 · 🔖 0 · 👁 0
-- **关联主题**: [ai-autonomous-scientific-discovery](/concepts/ai-autonomous-scientific-discovery.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2062731170337763796) — @Khazix0918 (数字生命卡兹克)
-[2] [Author page](/entities/authors/khazix0918.md)
-[3] [Related topic](/concepts/ai-autonomous-scientific-discovery.md)

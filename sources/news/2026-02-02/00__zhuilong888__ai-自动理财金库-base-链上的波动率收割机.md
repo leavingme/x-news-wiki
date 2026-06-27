@@ -70,8 +70,6 @@ Vaults（金库）自动模式分为4种，这4种模式是你存钱的时候就
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 10 · 🔄 2 · 💬 2 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2018276501041614998) — @zhuilong888 (蛙丑丑 🔶 BNB)
-[2] [Author page](/entities/authors/zhuilong888.md)

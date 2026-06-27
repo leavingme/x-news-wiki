@@ -58,10 +58,6 @@ GitHub：https://t.co/hs94fGimRG
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 275 · 🔄 56 · 💬 5 · 🔖 0 · 👁 0
-- **关联主题**: [agent-minimalist-implementation](/concepts/agent-minimalist-implementation.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2035589854835421565) — @GitHub_Daily (GitHubDaily)
-[2] [Author page](/entities/authors/github-daily.md)
-[3] [Related topic](/concepts/agent-minimalist-implementation.md)

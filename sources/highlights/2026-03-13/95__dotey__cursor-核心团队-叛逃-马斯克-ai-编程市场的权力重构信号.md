@@ -61,10 +61,6 @@ Milich 的经历也挺有意思：十年前在 SpaceX 实习，做的是 Dragon 
 - **精选类别**: ✨ 亮点
 - **优先级**: 95
 - **互动**: ❤️ 268 · 🔄 29 · 💬 42 · 🔖 0 · 👁 0
-- **关联主题**: [ai-talent-flight](/concepts/ai-talent-flight.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2032242549574758636) — @dotey (宝玉)
-[2] [Author page](/entities/authors/dotey.md)
-[3] [Related topic](/concepts/ai-talent-flight.md)

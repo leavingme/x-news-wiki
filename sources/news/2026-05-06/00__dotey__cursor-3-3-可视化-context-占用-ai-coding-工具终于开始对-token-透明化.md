@@ -49,8 +49,6 @@ Cursor 3.3 里面可以方便的看 Context 占用情况。看了下我的 Skill
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 5 · 🔄 0 · 💬 3 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2052069994372997377) — @dotey (宝玉)
-[2] [Author page](/entities/authors/dotey.md)

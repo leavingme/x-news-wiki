@@ -76,8 +76,6 @@ https://t.co/CNtIHtvYv5
 - **精选类别**: 📰 头条
 - **优先级**: 92
 - **互动**: ❤️ 80 · 🔄 19 · 💬 6 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2029398632156508586) — @plantegg (plantegg)
-[2] [Author page](/entities/authors/plantegg.md)

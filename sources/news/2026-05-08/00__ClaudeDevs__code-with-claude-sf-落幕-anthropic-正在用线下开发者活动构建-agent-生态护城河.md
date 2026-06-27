@@ -50,8 +50,6 @@ Thanks to everyone who came out and everyone who tuned in 🧡 https://t.co/erF6
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 4341 · 🔄 237 · 💬 178 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/ClaudeDevs/status/2052551618252714067) — @ClaudeDevs (ClaudeDevs)
-[2] [Author page](/entities/authors/claudedevs.md)

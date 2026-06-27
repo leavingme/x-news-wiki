@@ -55,10 +55,6 @@ OpenAI 今天给 ClaudeCode 开发个插件，可以让 ClaudeCode 调用 Codex 
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 4 · 🔄 2 · 💬 0 · 🔖 0 · 👁 0
-- **关联主题**: [codex-ecosystem-platform-war](/concepts/codex-ecosystem-platform-war.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2038835930493050892) — @Yonah_x (汉松)
-[2] [Author page](/entities/authors/yonah-x.md)
-[3] [Related topic](/concepts/codex-ecosystem-platform-war.md)

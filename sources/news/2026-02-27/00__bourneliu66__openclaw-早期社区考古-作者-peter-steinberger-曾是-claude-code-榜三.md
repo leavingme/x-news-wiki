@@ -49,8 +49,6 @@ https://t.co/RGREQ8fkzp
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 73 · 🔄 8 · 💬 13 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2027093174318256530) — @bourneliu66 (刘小排)
-[2] [Author page](/entities/authors/bourneliu66.md)

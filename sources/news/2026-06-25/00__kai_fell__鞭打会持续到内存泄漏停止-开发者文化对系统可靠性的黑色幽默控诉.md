@@ -50,8 +50,6 @@ beatings will continue until memory leaks stop https://t.co/B2bBddeJGv
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 35 · 🔄 2 · 💬 2 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2069445526756499930) — @kai_fell (Kai Fall)
-[2] [Author page](/entities/authors/kai-fell.md)

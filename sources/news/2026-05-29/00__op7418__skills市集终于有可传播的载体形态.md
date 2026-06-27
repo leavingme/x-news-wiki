@@ -50,10 +50,6 @@ Skill 在这里：https://t.co/iw3hiDZ34r
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 8 · 🔄 1 · 💬 0 · 🔖 0 · 👁 0
-- **关联主题**: [skills-ecosystem-standards](/concepts/skills-ecosystem-standards.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2060192750365180115) — @op7418 (歸藏(guizang.ai))
-[2] [Author page](/entities/authors/op7418.md)
-[3] [Related topic](/concepts/skills-ecosystem-standards.md)

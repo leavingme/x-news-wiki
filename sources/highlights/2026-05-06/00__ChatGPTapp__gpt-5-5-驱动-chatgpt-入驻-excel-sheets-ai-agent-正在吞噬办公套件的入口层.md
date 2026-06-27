@@ -55,8 +55,6 @@ https://t.co/XEH9AqKXnQ https://t.co/qfdXKzym6r
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 2947 · 🔄 256 · 💬 92 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/ChatGPTapp/status/2051776032127238266) — @ChatGPTapp (ChatGPT)
-[2] [Author page](/entities/authors/chatgptapp.md)

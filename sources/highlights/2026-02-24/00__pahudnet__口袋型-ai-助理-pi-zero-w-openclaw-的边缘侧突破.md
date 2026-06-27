@@ -48,8 +48,6 @@ x_source: "crawler"
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 2 · 🔄 0 · 💬 0 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2026016165470888350) — @pahudnet (Pahud Hsieh)
-[2] [Author page](/entities/authors/pahudnet.md)

@@ -54,10 +54,6 @@ x_source: "crawler"
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 6 · 🔄 0 · 💬 2 · 🔖 0 · 👁 0
-- **关联主题**: [ai-compute-on-chain](/concepts/ai-compute-on-chain.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2050613138018709876) — @Leobai825 (天策)
-[2] [Author page](/entities/authors/leobai825.md)
-[3] [Related topic](/concepts/ai-compute-on-chain.md)

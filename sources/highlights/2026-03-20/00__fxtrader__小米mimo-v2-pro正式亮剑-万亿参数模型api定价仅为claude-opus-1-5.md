@@ -55,10 +55,6 @@ MiMo-V2-Pro、MiMo-V2-Omni将联合OpenClaw、OpenCode、KiloCode、Blackbox及C
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 85 · 🔄 9 · 💬 16 · 🔖 0 · 👁 0
-- **关联主题**: [domestic-model-competition](/concepts/domestic-model-competition.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2034436082130206783) — @fxtrader (外汇交易员)
-[2] [Author page](/entities/authors/fxtrader.md)
-[3] [Related topic](/concepts/domestic-model-competition.md)

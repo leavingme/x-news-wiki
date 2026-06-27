@@ -55,8 +55,6 @@ https://t.co/mJb7aOGP6Q
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 554 · 🔄 142 · 💬 27 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2006637525679616083) — @0xluffy_eth (路飞 🏴‍☠️ AI 研究员🧐)
-[2] [Author page](/entities/authors/0xluffy-eth.md)

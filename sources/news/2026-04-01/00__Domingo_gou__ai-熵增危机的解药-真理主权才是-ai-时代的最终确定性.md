@@ -67,8 +67,6 @@ Perle Labs 存在的本质意义，就是给这个混乱的系统注入负熵。
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 41 · 🔄 0 · 💬 37 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2037023162668569022) — @Domingo_gou (Domingo_gou | 🦅 🐬)
-[2] [Author page](/entities/authors/domingo-gou.md)

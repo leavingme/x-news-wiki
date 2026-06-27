@@ -63,10 +63,6 @@ Claude Opus 4.8来咯！值得关注的是以下两点
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 11 · 🔄 1 · 💬 7 · 🔖 0 · 👁 0
-- **关联主题**: [claude-code-ecosystem](/concepts/claude-code-ecosystem.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2060065426709885233) — @Zesee (Rachel🥥)
-[2] [Author page](/entities/authors/zesee.md)
-[3] [Related topic](/concepts/claude-code-ecosystem.md)

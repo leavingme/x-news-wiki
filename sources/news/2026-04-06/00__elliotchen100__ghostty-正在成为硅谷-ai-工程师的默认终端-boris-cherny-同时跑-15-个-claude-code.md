@@ -87,8 +87,6 @@ Ghostty 刚好踩在这个节点上。
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 175 · 🔄 17 · 💬 14 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2040799136367477189) — @elliotchen100 (艾略特)
-[2] [Author page](/entities/authors/elliotchen100.md)

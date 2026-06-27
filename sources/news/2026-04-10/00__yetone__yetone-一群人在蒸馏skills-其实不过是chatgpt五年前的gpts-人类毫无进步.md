@@ -53,8 +53,6 @@ gakki：Skills不是护城河，能被轻易搬运的东西本身就是商品，
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 409 · 🔄 23 · 💬 17 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2042448407470752083) — @yetone (yetone)
-[2] [Author page](/entities/authors/yetone.md)

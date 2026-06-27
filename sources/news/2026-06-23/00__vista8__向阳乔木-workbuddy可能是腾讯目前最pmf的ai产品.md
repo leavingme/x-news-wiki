@@ -51,10 +51,6 @@ gakki锐评：大企业做Agent常死于合规与定制化，中小企业反而"
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 10 · 🔄 0 · 💬 14 · 🔖 0 · 👁 0
-- **关联主题**: [enterprise-agent-product](/concepts/enterprise-agent-product.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2069341905343967472) — @vista8 (向阳乔木)
-[2] [Author page](/entities/authors/vista8.md)
-[3] [Related topic](/concepts/enterprise-agent-product.md)

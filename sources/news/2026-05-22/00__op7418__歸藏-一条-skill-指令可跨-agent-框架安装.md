@@ -51,8 +51,6 @@ gakki 锐评：跨框架 SKILL 是个好故事，但各家 Agent 的工具调用
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 2 · 🔄 0 · 💬 1 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2057712218280718549) — @op7418 (歸藏(guizang.ai))
-[2] [Author page](/entities/authors/op7418.md)

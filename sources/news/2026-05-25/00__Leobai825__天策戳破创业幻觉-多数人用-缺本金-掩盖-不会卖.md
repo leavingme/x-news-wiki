@@ -125,8 +125,6 @@ gakki 锐评：这篇文章最值钱的是"把问题包装成缺钱"这句诊断
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 12 · 🔄 0 · 💬 6 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2058956289607078261) — @Leobai825 (天策)
-[2] [Author page](/entities/authors/leobai825.md)

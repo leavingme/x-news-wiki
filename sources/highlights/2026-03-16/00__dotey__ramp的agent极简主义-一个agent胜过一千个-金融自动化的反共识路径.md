@@ -51,8 +51,6 @@ Ramp选择用单一Agent而非千个垂直Agent搞定金融自动化，这挑战
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 360 · 🔄 76 · 💬 15 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2033437609460891883) — @dotey (宝玉)
-[2] [Author page](/entities/authors/dotey.md)

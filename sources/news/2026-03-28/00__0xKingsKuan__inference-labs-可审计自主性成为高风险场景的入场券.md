@@ -58,10 +58,6 @@ Inference Labs 未来规模化部署的系统！
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 78 · 🔄 1 · 💬 74 · 🔖 0 · 👁 0
-- **关联主题**: [agent-economic-autonomy](/concepts/agent-economic-autonomy.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2009810564261069205) — @0xKingsKuan (币世王 | 🦅🐬TermMax)
-[2] [Author page](/entities/authors/0xkingskuan.md)
-[3] [Related topic](/concepts/agent-economic-autonomy.md)

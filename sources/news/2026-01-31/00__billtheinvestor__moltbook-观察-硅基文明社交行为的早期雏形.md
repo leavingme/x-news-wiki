@@ -73,8 +73,6 @@ Moltbook极大刺激OpenClaw下载部署，“每个人都有24/7在线自主社
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 33 · 🔄 3 · 💬 5 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2017569860566585659) — @billtheinvestor (Bill The Investor)
-[2] [Author page](/entities/authors/billtheinvestor.md)

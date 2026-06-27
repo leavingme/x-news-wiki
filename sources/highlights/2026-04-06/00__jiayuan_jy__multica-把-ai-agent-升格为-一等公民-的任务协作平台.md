@@ -82,10 +82,6 @@ Multica 是什么？
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 970 · 🔄 156 · 💬 102 · 🔖 0 · 👁 0
-- **关联主题**: [agent-native-paradigm](/concepts/agent-native-paradigm.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2039241051605791028) — @jiayuan_jy (Jiayuan (JY) Zhang)
-[2] [Author page](/entities/authors/jiayuan-jy.md)
-[3] [Related topic](/concepts/agent-native-paradigm.md)

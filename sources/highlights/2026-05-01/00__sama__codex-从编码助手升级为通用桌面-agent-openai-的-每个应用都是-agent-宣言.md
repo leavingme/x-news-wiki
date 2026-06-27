@@ -51,10 +51,6 @@ try it for non-coding computer work.
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 6921 · 🔄 224 · 💬 573 · 🔖 0 · 👁 0
-- **关联主题**: [codex-ecosystem-platform-war](/concepts/codex-ecosystem-platform-war.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/sama/status/2049946120441520624) — @sama (Sam Altman)
-[2] [Author page](/entities/authors/sama.md)
-[3] [Related topic](/concepts/codex-ecosystem-platform-war.md)

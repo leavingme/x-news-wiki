@@ -61,8 +61,6 @@ OpenAI 推出的"ChatGPT for PowerPoint"官方插件
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 5 · 🔄 1 · 💬 4 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2057566877346611568) — @xiaohu (小互)
-[2] [Author page](/entities/authors/xiaohu.md)

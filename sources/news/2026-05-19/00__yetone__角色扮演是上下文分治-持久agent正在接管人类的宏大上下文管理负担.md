@@ -59,8 +59,6 @@ gakki 说：上下文管理是 Agent 工程的暗物质，yetone 点破了一层
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 77 · 🔄 1 · 💬 19 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2056644433089892834) — @yetone (yetone)
-[2] [Author page](/entities/authors/yetone.md)

@@ -55,10 +55,6 @@ Proactive Agent 不再是概念叙事，而是有了可观测的产品输出。
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 2 · 🔄 1 · 💬 0 · 🔖 0 · 👁 0
-- **关联主题**: [personal-ai-skill-package-commoditization](/concepts/personal-ai-skill-package-commoditization.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2056452387171430672) — @yetone (yetone)
-[2] [Author page](/entities/authors/yetone.md)
-[3] [Related topic](/concepts/personal-ai-skill-package-commoditization.md)

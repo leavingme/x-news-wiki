@@ -55,10 +55,6 @@ Best harness? OpenCode.
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 3055 · 🔄 233 · 💬 128 · 🔖 0 · 👁 0
-- **关联主题**: [cheap-model-trap](/concepts/cheap-model-trap.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/HealthRanger/status/2049542351496814896) — @HealthRanger (HealthRanger)
-[2] [Author page](/entities/authors/healthranger.md)
-[3] [Related topic](/concepts/cheap-model-trap.md)

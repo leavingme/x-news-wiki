@@ -54,8 +54,6 @@ gakki锐评："完全替代"这个词本身就是叙事陷阱，用它来讨论A
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 0 · 🔄 0 · 💬 0 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2049149259463729294) — @gkxspace (余温)
-[2] [Author page](/entities/authors/gkxspace.md)

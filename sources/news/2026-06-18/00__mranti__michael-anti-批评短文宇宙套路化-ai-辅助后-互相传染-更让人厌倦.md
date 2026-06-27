@@ -50,8 +50,6 @@ gakki 锐评：AI 把「写出 60 分」的成本压到零，结果是 60 分内
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 4 · 🔄 0 · 💬 1 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2067422496270569625) — @mranti (Michael Anti)
-[2] [Author page](/entities/authors/mranti.md)

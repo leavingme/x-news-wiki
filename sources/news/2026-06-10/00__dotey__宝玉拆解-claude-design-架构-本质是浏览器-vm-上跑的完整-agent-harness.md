@@ -53,10 +53,6 @@ Claude Design 有一个完整的 Agent 运行环境，如果把它跟 Claude Cod
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 41 · 🔄 5 · 💬 8 · 🔖 0 · 👁 0
-- **关联主题**: [claude-design-disruption](/concepts/claude-design-disruption.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2064749906800111892) — @dotey (宝玉)
-[2] [Author page](/entities/authors/dotey.md)
-[3] [Related topic](/concepts/claude-design-disruption.md)

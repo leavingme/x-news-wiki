@@ -52,8 +52,6 @@ x_source: "crawler"
 - **精选类别**: 📰 头条
 - **优先级**: 92
 - **互动**: ❤️ 238 · 🔄 14 · 💬 14 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2032698219856293908) — @yetone (yetone)
-[2] [Author page](/entities/authors/yetone.md)

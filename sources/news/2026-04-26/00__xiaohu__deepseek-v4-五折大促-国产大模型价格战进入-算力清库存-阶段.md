@@ -56,8 +56,6 @@ Deepseek V4 限时优惠
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 125 · 🔄 8 · 💬 30 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2048049943869583718) — @xiaohu (小互)
-[2] [Author page](/entities/authors/xiaohu.md)

@@ -123,10 +123,6 @@ Twitter、小红书、Reddit 这类平台可能涉及登录态、Cookie、风控
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 187 · 🔄 56 · 💬 11 · 🔖 0 · 👁 0
-- **关联主题**: [agent-social-data-access](/concepts/agent-social-data-access.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2068550047713661407) — @369Serena (Serena)
-[2] [Author page](/entities/authors/369serena.md)
-[3] [Related topic](/concepts/agent-social-data-access.md)

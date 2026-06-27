@@ -49,10 +49,6 @@ gakki 锐评：架构强但 RL 未对齐 Agent 场景——这正是当前模型
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 1 · 🔄 0 · 💬 0 · 🔖 0 · 👁 0
-- **关联主题**: [model-capabilities](/concepts/model-capabilities.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2052506068891381824) — @oran_ge (Orange AI)
-[2] [Author page](/entities/authors/oran-ge.md)
-[3] [Related topic](/concepts/model-capabilities.md)

@@ -80,8 +80,6 @@ Thariq 把 agent engineering 系统拆成了 **架构层（感知设计 + skills
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 25 · 🔄 3 · 💬 1 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2035529219091148954) — @TaNGSoFT (𝙩𝙮≃𝙛{𝕩}^A𝕀²·ℙarad𝕚g𝕞)
-[2] [Author page](/entities/authors/tangsoft.md)

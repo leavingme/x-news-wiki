@@ -66,8 +66,6 @@ gakki：智能路由的价值在于平均成本，而非最优解。挑战赛的
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 6 · 🔄 1 · 💬 3 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2055096819831730684) — @lxfater (铁锤人)
-[2] [Author page](/entities/authors/lxfater.md)

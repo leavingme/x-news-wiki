@@ -60,8 +60,6 @@ Claude Code、Skills、OpenClaw，不都在向全自动化发展。
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 10 · 🔄 0 · 💬 11 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2049136483106230523) — @gkxspace (余温)
-[2] [Author page](/entities/authors/gkxspace.md)

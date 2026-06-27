@@ -57,8 +57,6 @@ Figure 直播机器人 VS 人类
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 2 · 🔄 0 · 💬 4 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2056172740873511139) — @xiaohu (小互)
-[2] [Author page](/entities/authors/xiaohu.md)

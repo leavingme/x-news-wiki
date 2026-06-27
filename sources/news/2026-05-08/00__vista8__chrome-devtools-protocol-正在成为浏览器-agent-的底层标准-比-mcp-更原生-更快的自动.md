@@ -51,8 +51,6 @@ gakki 锐评：CDP vs MCP 不是非此即彼——前者解决单浏览器内的
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 1 · 🔄 0 · 💬 1 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2052654546456093126) — @vista8 (向阳乔木)
-[2] [Author page](/entities/authors/vista8.md)

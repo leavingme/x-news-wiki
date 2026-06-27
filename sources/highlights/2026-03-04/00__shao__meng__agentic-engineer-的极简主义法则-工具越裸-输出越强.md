@@ -117,10 +117,6 @@ CLAUDE. md 的定位：不是一份完整文档，而是一个条件跳转目录
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 154 · 🔄 45 · 💬 1 · 🔖 0 · 👁 0
-- **关联主题**: [claude-code-natural-language-workflow](/concepts/claude-code-natural-language-workflow.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2028833958230933729) — @shao__meng (meng shao)
-[2] [Author page](/entities/authors/shao-meng.md)
-[3] [Related topic](/concepts/claude-code-natural-language-workflow.md)

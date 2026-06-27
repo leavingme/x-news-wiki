@@ -73,10 +73,6 @@ This marks a shift! The value of agents is shifting from relying on narrative an
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 63 · 🔄 0 · 💬 105 · 🔖 0 · 👁 0
-- **关联主题**: [agent-trading-agent-survival-rate](/concepts/agent-trading-agent-survival-rate.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/1964527494863671504) — @JuliiStagnaro (Crypto信徒 π² ⌘ (✧ᴗ✧))
-[2] [Author page](/entities/authors/juliistagnaro.md)
-[3] [Related topic](/concepts/agent-trading-agent-survival-rate.md)

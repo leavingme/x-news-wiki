@@ -54,10 +54,6 @@ x_source: "crawler"
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 184 · 🔄 33 · 💬 15 · 🔖 0 · 👁 0
-- **关联主题**: [enterprise-agent-product](/concepts/enterprise-agent-product.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2033202960843563484) — @op7418 (歸藏(guizang.ai))
-[2] [Author page](/entities/authors/op7418.md)
-[3] [Related topic](/concepts/enterprise-agent-product.md)

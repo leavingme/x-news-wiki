@@ -77,10 +77,6 @@ OpenAI 现在面对的局面是：消费端被 Google 追，企业端被 Anthrop
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 9 · 🔄 0 · 💬 3 · 🔖 0 · 👁 0
-- **关联主题**: [openai-super-app-strategy](/concepts/openai-super-app-strategy.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2063686036895478162) — @dotey (宝玉)
-[2] [Author page](/entities/authors/dotey.md)
-[3] [Related topic](/concepts/openai-super-app-strategy.md)

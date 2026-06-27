@@ -49,8 +49,6 @@ AI voice startup Vapi hits $500M valuation after winning Amazon Ring over 40 riv
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 175 · 🔄 10 · 💬 7 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/TechCrunch/status/2054162748179878329) — @TechCrunch (TechCrunch)
-[2] [Author page](/entities/authors/techcrunch.md)

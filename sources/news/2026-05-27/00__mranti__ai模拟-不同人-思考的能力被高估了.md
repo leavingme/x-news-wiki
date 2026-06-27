@@ -52,8 +52,6 @@ Michael Anti 认为 AI 在模拟不同人思考方面很强大——这个判断
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 1 · 🔄 0 · 💬 1 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2059509104486568331) — @mranti (Michael Anti)
-[2] [Author page](/entities/authors/mranti.md)

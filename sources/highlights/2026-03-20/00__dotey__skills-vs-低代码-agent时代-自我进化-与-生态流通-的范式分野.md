@@ -64,10 +64,6 @@ Agent 就像操作系统，没有 Skills 的辅助它做不了什么事，但是
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 206 · 🔄 27 · 💬 27 · 🔖 0 · 👁 0
-- **关联主题**: [agent-lego-composable-toolchain](/concepts/agent-lego-composable-toolchain.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2034681002677674271) — @dotey (宝玉)
-[2] [Author page](/entities/authors/dotey.md)
-[3] [Related topic](/concepts/agent-lego-composable-toolchain.md)

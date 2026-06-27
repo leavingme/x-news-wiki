@@ -55,8 +55,6 @@ Opus 4.8的单机能力提升，代价是分布式协作能力的倒退——这
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 24 · 🔄 0 · 💬 6 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2061338429250842991) — @yetone (yetone)
-[2] [Author page](/entities/authors/yetone.md)

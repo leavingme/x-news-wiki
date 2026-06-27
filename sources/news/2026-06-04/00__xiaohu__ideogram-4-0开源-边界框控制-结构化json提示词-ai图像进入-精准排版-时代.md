@@ -63,8 +63,6 @@ Ideogram 4.0 引入了 bounding box（边界框）控制：你可以用坐标精
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 11 · 🔄 3 · 💬 2 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2062348355787956717) — @xiaohu (小互)
-[2] [Author page](/entities/authors/xiaohu.md)

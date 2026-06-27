@@ -61,8 +61,6 @@ Orange AI 用户实测 Obsidian 在飞行模式下完全无法索引，触发"lo
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 1 · 🔄 0 · 💬 2 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2059842223777407111) — @oran_ge (Orange AI)
-[2] [Author page](/entities/authors/oran-ge.md)

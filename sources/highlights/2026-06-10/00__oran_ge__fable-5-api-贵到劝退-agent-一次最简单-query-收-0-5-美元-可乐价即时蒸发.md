@@ -54,8 +54,6 @@ Fable 5 这个模型的 API 价格是真的不低
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 2 · 🔄 0 · 💬 4 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2064641244777808058) — @oran_ge (Orange AI)
-[2] [Author page](/entities/authors/oran-ge.md)

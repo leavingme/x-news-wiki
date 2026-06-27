@@ -56,8 +56,6 @@ AI时代真的创意无限呀！！
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 10 · 🔄 1 · 💬 4 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2065306245645619651) — @lxfater (铁锤人)
-[2] [Author page](/entities/authors/lxfater.md)

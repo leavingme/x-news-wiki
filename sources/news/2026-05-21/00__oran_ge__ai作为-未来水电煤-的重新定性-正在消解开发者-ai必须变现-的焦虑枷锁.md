@@ -55,8 +55,6 @@ ai 是未来的水电煤
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 28 · 🔄 0 · 💬 43 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2057364508159746367) — @oran_ge (Orange AI)
-[2] [Author page](/entities/authors/oran-ge.md)

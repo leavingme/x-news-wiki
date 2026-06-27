@@ -49,8 +49,6 @@ CLOBs Are a Mistake for RWAs
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 395 · 🔄 71 · 💬 71 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/variational_io/status/2049857522358464823) — @variational_io (Variational)
-[2] [Author page](/entities/authors/variational-io.md)

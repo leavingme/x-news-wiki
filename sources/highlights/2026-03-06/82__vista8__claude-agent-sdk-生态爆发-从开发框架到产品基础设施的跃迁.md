@@ -57,10 +57,6 @@ Anthropic公司不管怎么说，产品力是相当可以。 https://t.co/GOAvcB
 - **精选类别**: ✨ 亮点
 - **优先级**: 82
 - **互动**: ❤️ 67 · 🔄 5 · 💬 11 · 🔖 0 · 👁 0
-- **关联主题**: [claude-code-ecosystem](/concepts/claude-code-ecosystem.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2029600615501074551) — @vista8 (向阳乔木)
-[2] [Author page](/entities/authors/vista8.md)
-[3] [Related topic](/concepts/claude-code-ecosystem.md)

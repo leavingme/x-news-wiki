@@ -50,8 +50,6 @@ Hermes Agent GUI 客户端来了，现在 Agent 的主流是 GUI 了
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 30 · 🔄 3 · 💬 25 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2061851653095985399) — @dotey (宝玉)
-[2] [Author page](/entities/authors/dotey.md)

@@ -51,10 +51,6 @@ gakki：programmatic tool calling 把工具链从「被调用的 API」变成了
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 28 · 🔄 3 · 💬 3 · 🔖 0 · 👁 0
-- **关联主题**: [agent-tools-and-orchestration](/concepts/agent-tools-and-orchestration.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2060223430616838226) — @yetone (yetone)
-[2] [Author page](/entities/authors/yetone.md)
-[3] [Related topic](/concepts/agent-tools-and-orchestration.md)

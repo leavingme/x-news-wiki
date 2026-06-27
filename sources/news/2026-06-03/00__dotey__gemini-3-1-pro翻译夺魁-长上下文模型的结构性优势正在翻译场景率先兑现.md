@@ -47,8 +47,6 @@ gakki锐评：翻译是个很诚实的指标——它不骗人，长上下文模
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 5 · 🔄 0 · 💬 2 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2062012895941067151) — @dotey (宝玉)
-[2] [Author page](/entities/authors/dotey.md)

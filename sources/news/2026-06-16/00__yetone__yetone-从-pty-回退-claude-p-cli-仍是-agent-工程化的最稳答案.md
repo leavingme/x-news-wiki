@@ -49,10 +49,6 @@ gakki 锐评：CLI 不是因为漂亮才赢——而是因为它是 Agent 最稳
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 22 · 🔄 0 · 💬 7 · 🔖 0 · 👁 0
-- **关联主题**: [agent-interface-affinity-framework](/concepts/agent-interface-affinity-framework.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2066793940913913937) — @yetone (yetone)
-[2] [Author page](/entities/authors/yetone.md)
-[3] [Related topic](/concepts/agent-interface-affinity-framework.md)

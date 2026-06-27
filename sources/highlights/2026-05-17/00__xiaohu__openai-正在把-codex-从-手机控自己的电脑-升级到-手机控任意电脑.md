@@ -68,8 +68,6 @@ OpenAI 正在偷偷做两件事
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 9 · 🔄 1 · 💬 4 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2055808836074979576) — @xiaohu (小互)
-[2] [Author page](/entities/authors/xiaohu.md)

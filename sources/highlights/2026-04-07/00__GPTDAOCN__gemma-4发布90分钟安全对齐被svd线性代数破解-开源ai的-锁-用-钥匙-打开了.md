@@ -60,10 +60,6 @@ Google Gemma 4 发布90分钟就被开膛破肚了。
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 92 · 🔄 9 · 💬 2 · 🔖 0 · 👁 0
-- **关联主题**: [ai-safety-alignment](/concepts/ai-safety-alignment.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2041302628576186409) — @GPTDAOCN (GPTDAOCN-e/acc)
-[2] [Author page](/entities/authors/gptdaocn.md)
-[3] [Related topic](/concepts/ai-safety-alignment.md)

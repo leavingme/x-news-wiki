@@ -51,8 +51,6 @@ React 代码，js出错了很好调试修复，css错误只要能定位到具体
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 3 · 🔄 0 · 💬 1 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2063786116860235859) — @dotey (宝玉)
-[2] [Author page](/entities/authors/dotey.md)

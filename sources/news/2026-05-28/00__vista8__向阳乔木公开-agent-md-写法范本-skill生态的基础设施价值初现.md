@@ -49,10 +49,6 @@ gakki 锐评：Skill 文档写法的传播价值远大于具体代码——格�
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 11 · 🔄 1 · 💬 0 · 🔖 0 · 👁 0
-- **关联主题**: [skills-ecosystem-standards](/concepts/skills-ecosystem-standards.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2059810030397038948) — @vista8 (向阳乔木)
-[2] [Author page](/entities/authors/vista8.md)
-[3] [Related topic](/concepts/skills-ecosystem-standards.md)

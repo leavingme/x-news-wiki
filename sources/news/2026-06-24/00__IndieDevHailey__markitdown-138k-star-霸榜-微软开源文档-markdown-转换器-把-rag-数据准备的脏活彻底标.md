@@ -63,10 +63,6 @@ Microsoft 直接开源 MarkItDown，138k+ Star 霸榜 Trending，
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 187 · 🔄 31 · 💬 176 · 🔖 0 · 👁 0
-- **关联主题**: [markdown-ai-native-format](/concepts/markdown-ai-native-format.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2061639316913398067) — @IndieDevHailey (开发者Hailey)
-[2] [Author page](/entities/authors/indiedevhailey.md)
-[3] [Related topic](/concepts/markdown-ai-native-format.md)

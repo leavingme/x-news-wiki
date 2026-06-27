@@ -58,10 +58,6 @@ https://t.co/AuEAWAaceO
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 768 · 🔄 128 · 💬 15 · 🔖 0 · 👁 0
-- **关联主题**: [agent-memory-optimization](/concepts/agent-memory-optimization.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2008038811616555394) — @geekbb (Geek)
-[2] [Author page](/entities/authors/geekbb.md)
-[3] [Related topic](/concepts/agent-memory-optimization.md)

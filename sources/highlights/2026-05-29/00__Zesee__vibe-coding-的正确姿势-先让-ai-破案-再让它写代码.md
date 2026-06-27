@@ -106,8 +106,6 @@ Vibe Coding实战经验：让 AI 先破案，再写代码
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 19 · 🔄 1 · 💬 6 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2060395747497918478) — @Zesee (Rachel🥥)
-[2] [Author page](/entities/authors/zesee.md)

@@ -61,8 +61,6 @@ x_source: "crawler"
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 30 · 🔄 4 · 💬 24 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2052378748180464067) — @vista8 (向阳乔木)
-[2] [Author page](/entities/authors/vista8.md)

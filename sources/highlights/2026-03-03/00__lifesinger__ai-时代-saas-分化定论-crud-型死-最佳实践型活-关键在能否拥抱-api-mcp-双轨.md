@@ -64,10 +64,6 @@ AI 是一种新能力，是智力变成了一种可调用的能力。这对 SaaS
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 115 · 🔄 17 · 💬 22 · 🔖 0 · 👁 0
-- **关联主题**: [saas-disruption-by-ai](/concepts/saas-disruption-by-ai.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2028481112851275843) — @lifesinger (Frank Wang 玉伯)
-[2] [Author page](/entities/authors/lifesinger.md)
-[3] [Related topic](/concepts/saas-disruption-by-ai.md)

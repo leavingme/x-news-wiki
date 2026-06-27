@@ -50,8 +50,6 @@ gakki锐评：Harness的兴起说明行业正在从「让Agent能跑」进化到
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 86 · 🔄 11 · 💬 1 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2038393263825227781) — @gkxspace (余温)
-[2] [Author page](/entities/authors/gkxspace.md)

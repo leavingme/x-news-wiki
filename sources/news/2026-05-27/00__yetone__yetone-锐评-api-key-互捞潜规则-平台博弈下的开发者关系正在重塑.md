@@ -52,8 +52,6 @@ API Key 互不侵犯条约本质上是一张废纸。真正的问题是：当工
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 2 · 🔄 0 · 💬 2 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2059470399726121245) — @yetone (yetone)
-[2] [Author page](/entities/authors/yetone.md)

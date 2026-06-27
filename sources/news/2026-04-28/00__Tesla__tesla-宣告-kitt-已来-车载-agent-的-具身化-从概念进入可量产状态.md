@@ -51,8 +51,6 @@ Any new Tesla can do this
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 4203 · 🔄 713 · 💬 365 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/Tesla/status/2048848754858770646) — @Tesla (Tesla)
-[2] [Author page](/entities/authors/tesla.md)

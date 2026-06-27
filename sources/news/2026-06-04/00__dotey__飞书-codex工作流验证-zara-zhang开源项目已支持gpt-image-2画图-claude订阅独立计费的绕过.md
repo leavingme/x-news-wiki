@@ -70,8 +70,6 @@ https://t.co/PS44XaFjFv
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 16 · 🔄 1 · 💬 4 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2062415262893134321) — @dotey (宝玉)
-[2] [Author page](/entities/authors/dotey.md)

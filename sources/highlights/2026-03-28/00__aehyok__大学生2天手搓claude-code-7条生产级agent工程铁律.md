@@ -64,10 +64,6 @@ x_source: "crawler"
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 152 · 🔄 22 · 💬 22 · 🔖 0 · 👁 0
-- **关联主题**: [agent-minimalist-implementation](/concepts/agent-minimalist-implementation.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2037904284587598156) — @aehyok (AI少年)
-[2] [Author page](/entities/authors/aehyok.md)
-[3] [Related topic](/concepts/agent-minimalist-implementation.md)

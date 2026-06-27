@@ -68,8 +68,6 @@ MAI-Image-2 是圖片生成模型，在 Arena .ai 排行榜擠進前三，生成
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 23 · 🔄 4 · 💬 0 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2039727961398706391) — @pirrer (fox hsiao)
-[2] [Author page](/entities/authors/pirrer.md)

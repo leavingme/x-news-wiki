@@ -53,10 +53,6 @@ OpenAI最新动态  GPT-5.4 Thinking System Card发布，正式推出GPT-5.4
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 9 · 🔄 8 · 💬 0 · 🔖 0 · 👁 0
-- **关联主题**: [no-code-agent-entry](/concepts/no-code-agent-entry.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2033823178020241662) — @Fredson89948915 (web4琪琪喜欢蛋糕)
-[2] [Author page](/entities/authors/fredson89948915.md)
-[3] [Related topic](/concepts/no-code-agent-entry.md)

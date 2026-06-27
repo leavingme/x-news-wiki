@@ -68,10 +68,6 @@ Pro 用户是 $20，Max 5x 是 $100，以此类推...
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 0 · 🔄 0 · 💬 5 · 🔖 0 · 👁 0
-- **关联主题**: [ai-tool-subscription-value](/concepts/ai-tool-subscription-value.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2066696714917126614) — @xiaohu (小互)
-[2] [Author page](/entities/authors/xiaohu.md)
-[3] [Related topic](/concepts/ai-tool-subscription-value.md)

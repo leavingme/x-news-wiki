@@ -49,8 +49,6 @@ Huge Telegram update is out — 10+ major new features, 200+ improvements. https
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 3023 · 🔄 373 · 💬 458 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/durov/status/2052418565425275380) — @durov (Pavel Durov)
-[2] [Author page](/entities/authors/durov.md)

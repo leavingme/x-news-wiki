@@ -60,10 +60,6 @@ Star是加密行业坚定的建设者和多头，长期做多大家的事业。
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 62 · 🔄 3 · 💬 25 · 🔖 0 · 👁 0
-- **关联主题**: [ai-crypto-agent-infra](/concepts/ai-crypto-agent-infra.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2037849474509533316) — @banbendaan (坂本答案)
-[2] [Author page](/entities/authors/banbendaan.md)
-[3] [Related topic](/concepts/ai-crypto-agent-infra.md)

@@ -72,10 +72,6 @@ GitHub：https://t.co/AmZkZuwBY9
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 101 · 🔄 15 · 💬 6 · 🔖 0 · 👁 0
-- **关联主题**: [ai-coding-token-optimization](/concepts/ai-coding-token-optimization.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2042885133083271476) — @GitHub_Daily (GitHubDaily)
-[2] [Author page](/entities/authors/github-daily.md)
-[3] [Related topic](/concepts/ai-coding-token-optimization.md)

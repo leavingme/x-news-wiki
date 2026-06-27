@@ -47,8 +47,6 @@ AI时代，为什么我极力推荐你开始写日记？
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 715 · 🔄 110 · 💬 77 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2028319597498368003) — @Khazix0918 (数字生命卡兹克)
-[2] [Author page](/entities/authors/khazix0918.md)

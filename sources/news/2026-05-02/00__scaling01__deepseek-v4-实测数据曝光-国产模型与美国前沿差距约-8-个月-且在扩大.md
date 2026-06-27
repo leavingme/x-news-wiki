@@ -48,10 +48,6 @@ chinese models are ~8 months behind and are falling further behind https://t.co/
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 1680 · 🔄 156 · 💬 161 · 🔖 0 · 👁 0
-- **关联主题**: [deepseek-v4-open-source](/concepts/deepseek-v4-open-source.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/scaling01/status/2050395242663223751) — @scaling01 (Lisan al Gaib)
-[2] [Author page](/entities/authors/scaling01.md)
-[3] [Related topic](/concepts/deepseek-v4-open-source.md)

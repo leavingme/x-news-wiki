@@ -89,8 +89,6 @@ AI基础设施还处于早期阶段，目前已投入数千亿美元，但仍需
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 771 · 🔄 172 · 💬 19 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2031627424736358708) — @RichTerry123 (Terry)
-[2] [Author page](/entities/authors/richterry123.md)

@@ -57,10 +57,6 @@ https://t.co/i5wxabbo4f
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 13 · 🔄 6 · 💬 6 · 🔖 0 · 👁 0
-- **关联主题**: [agent-economic-autonomy](/concepts/agent-economic-autonomy.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2037867467167629676) — @0xCheshire (柴郡🔔｜Crypto+AI Plus)
-[2] [Author page](/entities/authors/0xcheshire.md)
-[3] [Related topic](/concepts/agent-economic-autonomy.md)

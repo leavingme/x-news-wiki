@@ -69,8 +69,6 @@ Because Funds are SAFU.
 - **精选类别**: 📰 头条
 - **优先级**: 88
 - **互动**: ❤️ 59 · 🔄 27 · 💬 15 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2032528187716948211) — @MetaFinancialAI (Meta Financial AI)
-[2] [Author page](/entities/authors/metafinancialai.md)

@@ -92,10 +92,6 @@ DeerFlow 负责"复杂任务、深度执行"。
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 30 · 🔄 6 · 💬 3 · 🔖 0 · 👁 0
-- **关联主题**: [agent-swarm-orchestration](/concepts/agent-swarm-orchestration.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2036968311146365164) — @MindfulReturn (MindfulReturn 身心修复局)
-[2] [Author page](/entities/authors/mindfulreturn.md)
-[3] [Related topic](/concepts/agent-swarm-orchestration.md)

@@ -102,8 +102,6 @@ AI 是新时代的电力 + 发动机，Token工厂、AI代理智能体、物理A
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 268 · 🔄 82 · 💬 17 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2033686742742798680) — @qinbafrank (qinbafrank)
-[2] [Author page](/entities/authors/qinbafrank.md)

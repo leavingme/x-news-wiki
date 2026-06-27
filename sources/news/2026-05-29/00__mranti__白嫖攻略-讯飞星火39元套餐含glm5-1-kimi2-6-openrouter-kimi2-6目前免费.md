@@ -55,8 +55,6 @@ gakki：当白嫖变成「限时特惠」，说明厂商已经认定路由层会
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 1 · 🔄 0 · 💬 1 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2060272892445958376) — @mranti (Michael Anti)
-[2] [Author page](/entities/authors/mranti.md)

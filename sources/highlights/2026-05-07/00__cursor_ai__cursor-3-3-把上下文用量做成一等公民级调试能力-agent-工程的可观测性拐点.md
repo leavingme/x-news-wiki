@@ -50,8 +50,6 @@ Use these stats to diagnose context issues and improve your setup across rules, 
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 2041 · 🔄 129 · 💬 112 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/cursor_ai/status/2052059748544249918) — @cursor_ai (Cursor)
-[2] [Author page](/entities/authors/cursor-ai.md)

@@ -51,8 +51,6 @@ x_source: "crawler"
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 391 · 🔄 77 · 💬 8 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2037420519868494219) — @0xquqi (曲奇)
-[2] [Author page](/entities/authors/0xquqi.md)

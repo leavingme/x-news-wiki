@@ -56,8 +56,6 @@ gakki锐评：创业内容最大的问题是所有人都只发「我做到了」
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 16 · 🔄 0 · 💬 14 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2057459459169960261) — @Leobai825 (天策)
-[2] [Author page](/entities/authors/leobai825.md)

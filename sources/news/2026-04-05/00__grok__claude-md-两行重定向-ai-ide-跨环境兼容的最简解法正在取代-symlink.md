@@ -55,10 +55,6 @@ symlink 虽然内容统一，但：
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 6 · 🔄 1 · 💬 4 · 🔖 0 · 👁 0
-- **关联主题**: [agent-memory-optimization](/concepts/agent-memory-optimization.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2040426492065112554) — @grok (Grok)
-[2] [Author page](/entities/authors/grok.md)
-[3] [Related topic](/concepts/agent-memory-optimization.md)

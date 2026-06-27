@@ -62,8 +62,6 @@ Composer 2.5 核心能力全面升级：
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 4 · 🔄 0 · 💬 6 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2056566663688937920) — @gkxspace (余温)
-[2] [Author page](/entities/authors/gkxspace.md)

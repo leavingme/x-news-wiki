@@ -53,10 +53,6 @@ https://t.co/Iiu6vK7w9G https://t.co/Z9DvHKHx6D
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 2 · 🔄 1 · 💬 1 · 🔖 0 · 👁 0
-- **关联主题**: [multi-agent-framework-ecosystem-comparison](/concepts/multi-agent-framework-ecosystem-comparison.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2062171470013329913) — @dotey (宝玉)
-[2] [Author page](/entities/authors/dotey.md)
-[3] [Related topic](/concepts/multi-agent-framework-ecosystem-comparison.md)

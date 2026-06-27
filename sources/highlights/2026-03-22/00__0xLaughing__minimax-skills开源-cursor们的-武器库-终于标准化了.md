@@ -61,8 +61,6 @@ MiniMax 直接把官方 skills 开源了
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 327 · 🔄 57 · 💬 10 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2035633019973685420) — @0xLaughing (Laughing🪁)
-[2] [Author page](/entities/authors/0xlaughing.md)

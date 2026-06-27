@@ -53,8 +53,6 @@ Agent 要做好，堆概念一点用都没有
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 3 · 🔄 0 · 💬 2 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2048522624763084915) — @oran_ge (Orange AI)
-[2] [Author page](/entities/authors/oran-ge.md)

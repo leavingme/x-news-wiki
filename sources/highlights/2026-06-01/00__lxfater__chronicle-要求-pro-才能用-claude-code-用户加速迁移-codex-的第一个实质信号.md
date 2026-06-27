@@ -60,8 +60,6 @@ Claude Code 的 Pro 墙是一个短视的产品决策——Chronicle 这种高�
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 2 · 🔄 1 · 💬 4 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2061359661316759952) — @lxfater (铁锤人)
-[2] [Author page](/entities/authors/lxfater.md)

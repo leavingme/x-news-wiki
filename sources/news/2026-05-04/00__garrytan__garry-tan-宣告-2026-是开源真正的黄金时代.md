@@ -49,8 +49,6 @@ gakki 锐评：开源的黄金时代不是因为模型免费，而是因为 Agen
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 383 · 🔄 25 · 💬 31 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/garrytan/status/2051055870885458362) — @garrytan (Garry Tan)
-[2] [Author page](/entities/authors/garrytan.md)

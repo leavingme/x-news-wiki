@@ -50,8 +50,6 @@ You can just run experiments now. Constantly. I was curious if unnecessary Rust 
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 258 · 🔄 6 · 💬 13 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2069101076125540772) — @charliermarsh (Charlie Marsh)
-[2] [Author page](/entities/authors/charliermarsh.md)

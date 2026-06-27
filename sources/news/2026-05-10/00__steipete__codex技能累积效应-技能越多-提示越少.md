@@ -48,8 +48,6 @@ The more skills you give codex, the less you have to prompt. https://t.co/fJZckc
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 1595 · 🔄 69 · 💬 101 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/steipete/status/2052971550966440251) — @steipete (Peter Steinberger 🦞)
-[2] [Author page](/entities/authors/steipete.md)

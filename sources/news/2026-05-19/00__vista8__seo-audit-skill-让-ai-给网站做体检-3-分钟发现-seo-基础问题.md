@@ -60,8 +60,6 @@ is_topic_update: false | related_subtopic_slug: null | priority: 62 | must_read:
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 20 · 🔄 3 · 💬 5 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2056608193661534455) — @vista8 (向阳乔木)
-[2] [Author page](/entities/authors/vista8.md)

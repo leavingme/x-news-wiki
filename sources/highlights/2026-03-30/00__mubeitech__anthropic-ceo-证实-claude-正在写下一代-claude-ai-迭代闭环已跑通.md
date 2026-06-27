@@ -70,8 +70,6 @@ AI 迭代自身的闭环已经跑通了。
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 46 · 🔄 11 · 💬 3 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2038326818160197753) — @mubeitech (墓碑科技)
-[2] [Author page](/entities/authors/mubeitech.md)

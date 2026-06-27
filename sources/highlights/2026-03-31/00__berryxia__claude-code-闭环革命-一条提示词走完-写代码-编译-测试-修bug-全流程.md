@@ -60,10 +60,6 @@ Pro/Max用户可体验！
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 5 · 🔄 0 · 💬 3 · 🔖 0 · 👁 0
-- **关联主题**: [agent-self-monitoring](/concepts/agent-self-monitoring.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2038772923818029107) — @berryxia (Berryxia.AI)
-[2] [Author page](/entities/authors/berryxia.md)
-[3] [Related topic](/concepts/agent-self-monitoring.md)

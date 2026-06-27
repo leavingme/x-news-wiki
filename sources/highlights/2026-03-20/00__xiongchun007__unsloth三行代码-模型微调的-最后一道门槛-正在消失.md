@@ -59,10 +59,6 @@ x_source: "crawler"
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 111 · 🔄 14 · 💬 11 · 🔖 0 · 👁 0
-- **关联主题**: [unsloth-finetuning-democratization](/concepts/unsloth-finetuning-democratization.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2034624557718626772) — @xiongchun007 (程序员老熊)
-[2] [Author page](/entities/authors/xiongchun007.md)
-[3] [Related topic](/concepts/unsloth-finetuning-democratization.md)

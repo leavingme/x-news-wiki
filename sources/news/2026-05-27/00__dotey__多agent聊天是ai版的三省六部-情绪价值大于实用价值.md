@@ -56,8 +56,6 @@ gakki：情绪价值类产品往往是商业化的正确起点，而不是技术
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 5 · 🔄 0 · 💬 7 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2059705282452652376) — @dotey (宝玉)
-[2] [Author page](/entities/authors/dotey.md)

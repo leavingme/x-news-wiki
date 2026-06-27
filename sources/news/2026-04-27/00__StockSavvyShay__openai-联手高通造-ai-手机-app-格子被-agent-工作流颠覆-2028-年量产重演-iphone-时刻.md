@@ -54,8 +54,6 @@ The idea is to compete with the $AAPL iPhone by replacing app grids with agent-d
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 502 · 🔄 54 · 💬 51 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/StockSavvyShay/status/2048734111020544052) — @StockSavvyShay (Shay Boloor)
-[2] [Author page](/entities/authors/stocksavvyshay.md)

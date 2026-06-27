@@ -60,8 +60,6 @@ https://t.co/1EzkQtaQAO
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 392 · 🔄 51 · 💬 31 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2039707706370806084) — @jakevin7 (卡比卡比)
-[2] [Author page](/entities/authors/jakevin7.md)

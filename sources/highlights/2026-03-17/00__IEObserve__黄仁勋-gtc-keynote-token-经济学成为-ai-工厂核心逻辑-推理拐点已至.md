@@ -67,8 +67,6 @@ Grace Blackwell 相較 Hopper 實現 35 到 50 倍的每瓦效能提升，同一
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 124 · 🔄 5 · 💬 0 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2033673288766132640) — @IEObserve (Intl Econ Observe)
-[2] [Author page](/entities/authors/ieobserve.md)

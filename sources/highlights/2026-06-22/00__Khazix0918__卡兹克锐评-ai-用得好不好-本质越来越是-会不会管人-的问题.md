@@ -49,10 +49,6 @@ AI用得好不好，跟你会不会管人，我觉得越来越是同一件事。
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 53 · 🔄 6 · 💬 15 · 🔖 0 · 👁 0
-- **关联主题**: [ai-management-philosophy](/concepts/ai-management-philosophy.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2068927263035506977) — @Khazix0918 (数字生命卡兹克)
-[2] [Author page](/entities/authors/khazix0918.md)
-[3] [Related topic](/concepts/ai-management-philosophy.md)

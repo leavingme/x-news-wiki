@@ -66,10 +66,6 @@ GitHub：https://t.co/CuFh7RoIbC
 - **精选类别**: ✨ 亮点
 - **优先级**: 82
 - **互动**: ❤️ 153 · 🔄 31 · 💬 5 · 🔖 0 · 👁 0
-- **关联主题**: [agent-security-infrastructure](/concepts/agent-security-infrastructure.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2030275534567899446) — @GitHub_Daily (GitHubDaily)
-[2] [Author page](/entities/authors/github-daily.md)
-[3] [Related topic](/concepts/agent-security-infrastructure.md)

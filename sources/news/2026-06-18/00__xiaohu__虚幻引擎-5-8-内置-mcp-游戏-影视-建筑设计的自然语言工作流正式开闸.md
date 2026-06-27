@@ -63,8 +63,6 @@ Unreal Engine 虚化引擎 5.8 今天发布，
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 44 · 🔄 7 · 💬 14 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2067430287336992907) — @xiaohu (小互)
-[2] [Author page](/entities/authors/xiaohu.md)

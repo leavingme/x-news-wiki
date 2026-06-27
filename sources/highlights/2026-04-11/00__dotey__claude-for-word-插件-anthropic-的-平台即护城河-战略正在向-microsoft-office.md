@@ -60,8 +60,6 @@ Anthropic 刚刚发布了 Word 插件的测试版。装上之后，Claude 直接
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 186 · 🔄 26 · 💬 22 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2042714553004245254) — @dotey (宝玉)
-[2] [Author page](/entities/authors/dotey.md)

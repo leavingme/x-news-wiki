@@ -50,10 +50,6 @@ the other 31.8GB on your server are used to run Ghostty
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 137 · 🔄 0 · 💬 10 · 🔖 0 · 👁 0
-- **关联主题**: [ghostty-terminal-adoption](/concepts/ghostty-terminal-adoption.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2069449681445269690) — @kai_fell (Kai Fall)
-[2] [Author page](/entities/authors/kai-fell.md)
-[3] [Related topic](/concepts/ghostty-terminal-adoption.md)

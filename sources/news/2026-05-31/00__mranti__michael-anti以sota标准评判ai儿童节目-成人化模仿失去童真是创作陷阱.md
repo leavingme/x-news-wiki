@@ -53,8 +53,6 @@ AI生成的儿童表演内容，正在陷入「成人化模仿」的创作陷阱
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 5 · 🔄 1 · 💬 1 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2061004859567206791) — @mranti (Michael Anti)
-[2] [Author page](/entities/authors/mranti.md)

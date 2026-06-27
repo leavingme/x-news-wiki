@@ -51,8 +51,6 @@ x_source: "crawler"
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 9 · 🔄 0 · 💬 6 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2034060810813681719) — @iamai_eth (✧ 𝕀𝔸𝕄𝔸𝕀 ✧)
-[2] [Author page](/entities/authors/iamai-eth.md)

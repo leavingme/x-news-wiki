@@ -61,8 +61,6 @@ Opus 系列 API 速率限制大幅上调
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 105 · 🔄 14 · 💬 43 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2052203572407021705) — @xiaohu (小互)
-[2] [Author page](/entities/authors/xiaohu.md)

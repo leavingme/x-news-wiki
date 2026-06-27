@@ -117,8 +117,6 @@ customer database
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 99 · 🔄 34 · 💬 17 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2057571970099859759) — @rickawsb (rick awsb ($people, $people))
-[2] [Author page](/entities/authors/rickawsb.md)

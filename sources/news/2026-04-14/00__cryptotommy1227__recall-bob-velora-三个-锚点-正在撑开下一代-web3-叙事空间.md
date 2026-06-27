@@ -140,10 +140,6 @@ The question: which of these will become the real pillars of tomorrow’s Web3? 
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 82 · 🔄 1 · 💬 148 · 🔖 0 · 👁 0
-- **关联主题**: [agent-trading-agent-survival-rate](/concepts/agent-trading-agent-survival-rate.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/1965945952008851720) — @cryptotommy1227 (0xTommy)
-[2] [Author page](/entities/authors/cryptotommy1227.md)
-[3] [Related topic](/concepts/agent-trading-agent-survival-rate.md)

@@ -121,10 +121,6 @@ ps：随着晚睡，饮食不规律，压力，内地已经有35+的阿病年轻
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 105 · 🔄 13 · 💬 19 · 🔖 0 · 👁 0
-- **关联主题**: [AI-API成本结构与本地部署](/concepts/AI-API成本结构与本地部署.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2067085746532708821) — @ssslumdunk (龙心盐)
-[2] [Author page](/entities/authors/ssslumdunk.md)
-[3] [Related topic](/concepts/AI-API成本结构与本地部署.md)

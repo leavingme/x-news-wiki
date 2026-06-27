@@ -115,10 +115,6 @@ Nathan Lambert 称之为"legendary run"（传奇之旅）。Unsloth AI 感谢 Qw
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 1437 · 🔄 268 · 💬 159 · 🔖 0 · 👁 0
-- **关联主题**: [domestic-model-competition](/concepts/domestic-model-competition.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2028904169986203703) — @dotey (宝玉)
-[2] [Author page](/entities/authors/dotey.md)
-[3] [Related topic](/concepts/domestic-model-competition.md)

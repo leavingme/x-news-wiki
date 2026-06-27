@@ -70,10 +70,6 @@ MSA 超上下文在算力和速度上更可落地，在 100 万上下文下每 t
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 12 · 🔄 0 · 💬 12 · 🔖 0 · 👁 0
-- **关联主题**: [reasoning-and-model-architecture](/concepts/reasoning-and-model-architecture.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2061327301644861608) — @op7418 (歸藏(guizang.ai))
-[2] [Author page](/entities/authors/op7418.md)
-[3] [Related topic](/concepts/reasoning-and-model-architecture.md)

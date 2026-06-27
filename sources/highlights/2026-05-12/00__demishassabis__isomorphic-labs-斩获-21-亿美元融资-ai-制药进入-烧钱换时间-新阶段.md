@@ -53,8 +53,6 @@ We are turbocharging that goal with $2.1B in new funding. https://t.co/Hvk20dHgj
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 5510 · 🔄 580 · 💬 237 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/demishassabis/status/2054197462101889277) — @demishassabis (Demis Hassabis)
-[2] [Author page](/entities/authors/demishassabis.md)

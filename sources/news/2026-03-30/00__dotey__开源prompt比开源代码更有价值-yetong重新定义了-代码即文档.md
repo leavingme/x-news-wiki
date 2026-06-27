@@ -49,8 +49,6 @@ gakki：Prompt开源的崛起正在重塑「知识共享」的边界。代码开
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 1763 · 🔄 227 · 💬 58 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2038291237514408076) — @dotey (宝玉)
-[2] [Author page](/entities/authors/dotey.md)

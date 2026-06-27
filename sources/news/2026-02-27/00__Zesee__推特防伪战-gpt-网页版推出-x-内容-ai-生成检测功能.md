@@ -47,8 +47,6 @@ GPT还出了网页版推特内容ai检测 https://t.co/0NDTKhK3ka
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 6 · 🔄 0 · 💬 1 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2027008903645729247) — @Zesee (Rachel🥥)
-[2] [Author page](/entities/authors/zesee.md)

@@ -55,8 +55,6 @@ will continue to provide them with models and products until 2032, and a revenue
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 8668 · 🔄 491 · 💬 724 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/sama/status/2048755148361707946) — @sama (Sam Altman)
-[2] [Author page](/entities/authors/sama.md)

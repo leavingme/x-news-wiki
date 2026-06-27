@@ -95,10 +95,6 @@ https://t.co/ld4uyQJiUi
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 33 · 🔄 9 · 💬 29 · 🔖 0 · 👁 0
-- **关联主题**: [ai-agent-crypto-infra](/concepts/ai-agent-crypto-infra.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2037161367523012839) — @0xKingsKuan (币世王 | 🦅🐬TermMax)
-[2] [Author page](/entities/authors/0xkingskuan.md)
-[3] [Related topic](/concepts/ai-agent-crypto-infra.md)

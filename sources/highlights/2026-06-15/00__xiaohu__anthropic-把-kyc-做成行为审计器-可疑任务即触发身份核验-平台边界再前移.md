@@ -61,10 +61,6 @@ Claude 免费版、Pro 版和 Max 版用户
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 2 · 🔄 0 · 💬 3 · 🔖 0 · 👁 0
-- **关联主题**: [anthropic-kyc-deepseek-data-access-dispute](/concepts/anthropic-kyc-deepseek-data-access-dispute.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2066455812508418096) — @xiaohu (小互)
-[2] [Author page](/entities/authors/xiaohu.md)
-[3] [Related topic](/concepts/anthropic-kyc-deepseek-data-access-dispute.md)

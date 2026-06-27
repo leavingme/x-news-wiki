@@ -62,10 +62,6 @@ Our report: https://t.co/3hOLDGbdw4
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 123 · 🔄 15 · 💬 2 · 🔖 0 · 👁 0
-- **关联主题**: [3d-visualization-model-capabilities](/concepts/3d-visualization-model-capabilities.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2037910332015042608) — @jiqizhixin (机器之心 JIQIZHIXIN)
-[2] [Author page](/entities/authors/jiqizhixin.md)
-[3] [Related topic](/concepts/3d-visualization-model-capabilities.md)

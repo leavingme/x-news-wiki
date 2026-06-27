@@ -57,10 +57,6 @@ Codex 也发布了宠物功能
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 27 · 🔄 1 · 💬 8 · 🔖 0 · 👁 0
-- **关联主题**: [ai-agent-gamification](/concepts/ai-agent-gamification.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2050399400279892320) — @xiaohu (小互)
-[2] [Author page](/entities/authors/xiaohu.md)
-[3] [Related topic](/concepts/ai-agent-gamification.md)

@@ -58,8 +58,6 @@ I don’t really have much expectations for the game (I’m chuffed just to have
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 25 · 🔄 1 · 💬 4 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2068288831309422767) — @maybe_im_sam (Sam Enoka)
-[2] [Author page](/entities/authors/maybe-im-sam.md)

@@ -87,8 +87,6 @@ commercial-legal 这个 plugin 文件夹里装着：
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 102 · 🔄 17 · 💬 13 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2054383106115678639) — @dotey (宝玉)
-[2] [Author page](/entities/authors/dotey.md)

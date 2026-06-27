@@ -55,8 +55,6 @@ Workbuddy内置的skill真是太齐全了 https://t.co/niNVlQazLA
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 21 · 🔄 1 · 💬 16 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2062414145631211892) — @Zesee (Rachel🥥)
-[2] [Author page](/entities/authors/zesee.md)

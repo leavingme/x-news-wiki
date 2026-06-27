@@ -59,8 +59,6 @@ Let’s break it down 👇
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 120 · 🔄 60 · 💬 52 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/VermaAakash3/status/2050565705385537935) — @VermaAakash3 (Aakash Verma)
-[2] [Author page](/entities/authors/vermaaakash3.md)

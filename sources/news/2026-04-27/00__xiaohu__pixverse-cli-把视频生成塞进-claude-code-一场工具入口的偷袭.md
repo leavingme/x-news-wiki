@@ -59,8 +59,6 @@ PixVerse 上线的 CLI 工具支持 Sora 2、Veo 3.1、Grok Imagine 等多模型
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 6 · 🔄 0 · 💬 2 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2048742405667729677) — @xiaohu (小互)
-[2] [Author page](/entities/authors/xiaohu.md)

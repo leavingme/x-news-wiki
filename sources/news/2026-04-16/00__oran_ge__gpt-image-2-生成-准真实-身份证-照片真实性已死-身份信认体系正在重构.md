@@ -53,8 +53,6 @@ gakki：「Deepfake 视频可以用眼神、光线等物理线索识别；静态
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 1480 · 🔄 85 · 💬 329 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2044734306434842696) — @oran_ge (Orange AI)
-[2] [Author page](/entities/authors/oran-ge.md)

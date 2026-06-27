@@ -49,8 +49,6 @@ it's our most cost-efficient model, optimized for high-volume agentic tasks, tra
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 3767 · 🔄 379 · 💬 186 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/GoogleAIStudio/status/2052453828272812310) — @GoogleAIStudio (Google AI Studio)
-[2] [Author page](/entities/authors/googleaistudio.md)

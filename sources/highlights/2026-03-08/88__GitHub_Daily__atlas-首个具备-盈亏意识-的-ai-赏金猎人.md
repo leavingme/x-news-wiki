@@ -59,10 +59,6 @@ GitHub：https://t.co/m8bRZUbSCa
 - **精选类别**: ✨ 亮点
 - **优先级**: 88
 - **互动**: ❤️ 58 · 🔄 13 · 💬 3 · 🔖 0 · 👁 0
-- **关联主题**: [agent-economic-autonomy](/concepts/agent-economic-autonomy.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2030184209768403332) — @GitHub_Daily (GitHubDaily)
-[2] [Author page](/entities/authors/github-daily.md)
-[3] [Related topic](/concepts/agent-economic-autonomy.md)

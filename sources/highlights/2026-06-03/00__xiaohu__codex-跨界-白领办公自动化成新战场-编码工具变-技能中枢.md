@@ -51,8 +51,6 @@ Codex 发布重大更新 不再只是编码 捆绑 62 个应用和 110 个自动
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 52 · 🔄 15 · 💬 6 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2062004505915670997) — @xiaohu (小互)
-[2] [Author page](/entities/authors/xiaohu.md)

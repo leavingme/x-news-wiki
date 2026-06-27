@@ -50,8 +50,6 @@ Midjourney 居然要发硬件了 https://t.co/YLp1J0tOPl
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 16 · 🔄 0 · 💬 5 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2067066053465927871) — @op7418 (歸藏(guizang.ai))
-[2] [Author page](/entities/authors/op7418.md)

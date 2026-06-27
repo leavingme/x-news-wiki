@@ -50,10 +50,6 @@ Caught myself briefly thinking that the goose had no value (0?) hah
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 67 · 🔄 2 · 💬 5 · 🔖 0 · 👁 0
-- **关联主题**: [goose-ai-autonomous-coding](/concepts/goose-ai-autonomous-coding.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2070555702280556813) — @charliermarsh (Charlie Marsh)
-[2] [Author page](/entities/authors/charliermarsh.md)
-[3] [Related topic](/concepts/goose-ai-autonomous-coding.md)

@@ -50,8 +50,6 @@ Siri AI 官方宣传视频 https://t.co/hQSJDPe8LD
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 1 · 🔄 0 · 💬 1 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2064172947657699626) — @xiaohu (小互)
-[2] [Author page](/entities/authors/xiaohu.md)

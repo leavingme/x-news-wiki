@@ -61,10 +61,6 @@ Garry Tan（YC 现任 CEO）把 YC office hours 的方法论写成了一个 Clau
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 206 · 🔄 40 · 💬 13 · 🔖 0 · 👁 0
-- **关联主题**: [claude-code-ecosystem](/concepts/claude-code-ecosystem.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2034768378494390549) — @gkxspace (余温)
-[2] [Author page](/entities/authors/gkxspace.md)
-[3] [Related topic](/concepts/claude-code-ecosystem.md)

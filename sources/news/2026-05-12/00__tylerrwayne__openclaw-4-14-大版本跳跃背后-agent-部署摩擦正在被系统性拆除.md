@@ -59,8 +59,6 @@ Here's the breakdown 👇 https://t.co/rJmIswx7E9
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 107 · 🔄 92 · 💬 11 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/tylerrwayne/status/2054220482388672843) — @tylerrwayne (Tyler Wayne)
-[2] [Author page](/entities/authors/tylerrwayne.md)

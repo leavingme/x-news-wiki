@@ -51,10 +51,6 @@ gakki 锐评：共享大脑的关键不是技术，是'谁拥有记忆主权'。
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 34 · 🔄 4 · 💬 22 · 🔖 0 · 👁 0
-- **关联主题**: [edgeclaw-memory-infrastructure](/concepts/edgeclaw-memory-infrastructure.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2064629321562517662) — @Zesee (Rachel🥥)
-[2] [Author page](/entities/authors/zesee.md)
-[3] [Related topic](/concepts/edgeclaw-memory-infrastructure.md)

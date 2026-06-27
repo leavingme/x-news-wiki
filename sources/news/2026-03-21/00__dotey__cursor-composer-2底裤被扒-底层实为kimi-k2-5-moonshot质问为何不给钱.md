@@ -72,8 +72,6 @@ Cursor 今年 2 月的年化收入已经突破 20 亿美元，换算成月收入
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 334 · 🔄 48 · 💬 47 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2035017845801689440) — @dotey (宝玉)
-[2] [Author page](/entities/authors/dotey.md)

@@ -53,8 +53,6 @@ gakki 锐评：这是'人类护城河'叙事最诚实的版本——不靠能力
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 5 · 🔄 1 · 💬 2 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2063987459684487526) — @oran_ge (Orange AI)
-[2] [Author page](/entities/authors/oran-ge.md)

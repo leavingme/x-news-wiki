@@ -65,10 +65,6 @@ gakki锐评：这是平台经济学的'特洛伊木马'——AI Agent不需要AP
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 5 · 🔄 1 · 💬 2 · 🔖 0 · 👁 0
-- **关联主题**: [agent-data-intelligence-infra](/concepts/agent-data-intelligence-infra.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2064552523642421253) — @gkxspace (余温)
-[2] [Author page](/entities/authors/gkxspace.md)
-[3] [Related topic](/concepts/agent-data-intelligence-infra.md)

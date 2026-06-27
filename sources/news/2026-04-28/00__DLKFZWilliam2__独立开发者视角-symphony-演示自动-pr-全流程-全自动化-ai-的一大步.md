@@ -61,8 +61,6 @@ OpenAI开源了一款神器Symphony！
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 404 · 🔄 44 · 💬 12 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2048856184401359264) — @DLKFZWilliam2 (独立开发者William)
-[2] [Author page](/entities/authors/dlkfzwilliam2.md)

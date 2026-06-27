@@ -62,8 +62,6 @@ Here are 8 brilliant product design tips straight from Claude Design. Simple, pr
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 16 · 🔄 2 · 💬 4 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2063444443991097775) — @dotey (宝玉)
-[2] [Author page](/entities/authors/dotey.md)

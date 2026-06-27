@@ -53,8 +53,6 @@ Agent 就是 3D 打印机，Token 就是虚拟世界 3D 打印机的 PLA 材料
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 8 · 🔄 0 · 💬 10 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2060270365549670447) — @op7418 (歸藏(guizang.ai))
-[2] [Author page](/entities/authors/op7418.md)

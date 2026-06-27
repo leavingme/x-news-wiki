@@ -77,10 +77,6 @@ btw 帮我看一眼这个变量命名有没有更好的写法
 - **精选类别**: ✨ 亮点
 - **优先级**: 85
 - **互动**: ❤️ 171 · 🔄 31 · 💬 12 · 🔖 0 · 👁 0
-- **关联主题**: [claude-code-natural-language-workflow](/concepts/claude-code-natural-language-workflow.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2031579504682975279) — @xiaohu (小互)
-[2] [Author page](/entities/authors/xiaohu.md)
-[3] [Related topic](/concepts/claude-code-natural-language-workflow.md)

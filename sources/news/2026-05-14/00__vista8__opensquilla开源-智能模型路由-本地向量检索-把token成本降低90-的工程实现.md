@@ -78,8 +78,6 @@ gakki 认为：Token优化已从技巧层面上升到系统工程层面。这个
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 17 · 🔄 3 · 💬 3 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2054757474100760626) — @vista8 (向阳乔木)
-[2] [Author page](/entities/authors/vista8.md)

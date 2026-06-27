@@ -55,8 +55,6 @@ With Baidu expected to release ERNIE 5.1 during its developer conference, this p
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 170 · 🔄 26 · 💬 50 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/Parul_Gautam7/status/2049700836251783179) — @Parul_Gautam7 (Parul Gautam)
-[2] [Author page](/entities/authors/parul-gautam7.md)

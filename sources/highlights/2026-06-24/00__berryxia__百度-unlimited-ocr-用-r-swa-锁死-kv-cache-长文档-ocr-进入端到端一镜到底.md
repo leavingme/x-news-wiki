@@ -71,8 +71,6 @@ gakki 锐评：这不是一个「又快又准」的 OCR 模型，而是一次范
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 449 · 🔄 85 · 💬 43 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2069094144153464907) — @berryxia (Berryxia.AI)
-[2] [Author page](/entities/authors/berryxia.md)

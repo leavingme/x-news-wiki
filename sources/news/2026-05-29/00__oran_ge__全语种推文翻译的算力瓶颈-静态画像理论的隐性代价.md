@@ -49,8 +49,6 @@ gakki 说：算力约束是 AI 应用的隐性天花板，很多"理论上很美
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 0 · 🔄 0 · 💬 1 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2060362600597340553) — @oran_ge (Orange AI)
-[2] [Author page](/entities/authors/oran-ge.md)

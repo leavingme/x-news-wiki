@@ -49,8 +49,6 @@ x_source: "crawler"
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 78 · 🔄 2 · 💬 83 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2035345183278030855) — @fkysly (马天翼)
-[2] [Author page](/entities/authors/fkysly.md)

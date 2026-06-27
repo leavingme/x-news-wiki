@@ -66,8 +66,6 @@ gakki：Anthropic一兆美金是这场估值游戏里最危险的数据点——
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 8 · 🔄 0 · 💬 6 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2047998810350334087) — @oran_ge (Orange AI)
-[2] [Author page](/entities/authors/oran-ge.md)

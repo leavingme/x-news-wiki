@@ -58,8 +58,6 @@ Google AI Edge Gallery 从手机扩展到桌面，下载安装即可运行Gemma 
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 2 · 🔄 2 · 💬 1 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2062329025079702010) — @xiaohu (小互)
-[2] [Author page](/entities/authors/xiaohu.md)

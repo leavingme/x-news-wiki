@@ -68,10 +68,6 @@ agent-browser install
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 113 · 🔄 20 · 💬 6 · 🔖 0 · 👁 0
-- **关联主题**: [agent-browser-token-efficiency](/concepts/agent-browser-token-efficiency.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2028620238821204297) — @zstmfhy (AI奶爸)
-[2] [Author page](/entities/authors/zstmfhy.md)
-[3] [Related topic](/concepts/agent-browser-token-efficiency.md)

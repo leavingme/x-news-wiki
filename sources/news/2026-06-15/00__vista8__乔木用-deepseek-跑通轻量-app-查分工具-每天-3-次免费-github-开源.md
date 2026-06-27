@@ -52,8 +52,6 @@ Github：https://t.co/STK2hbpYfv
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 12 · 🔄 3 · 💬 2 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2066517273763094674) — @vista8 (向阳乔木)
-[2] [Author page](/entities/authors/vista8.md)

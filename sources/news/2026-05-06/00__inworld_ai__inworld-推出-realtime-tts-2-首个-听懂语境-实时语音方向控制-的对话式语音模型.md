@@ -56,8 +56,6 @@ Learn More: https://t.co/PLUiAEFizP
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 689 · 🔄 140 · 💬 102 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/inworld_ai/status/2051699438201282992) — @inworld_ai (Inworld AI)
-[2] [Author page](/entities/authors/inworld-ai.md)

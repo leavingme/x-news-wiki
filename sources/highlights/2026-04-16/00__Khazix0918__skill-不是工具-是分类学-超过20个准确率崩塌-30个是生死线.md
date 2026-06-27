@@ -97,10 +97,6 @@ skill怎么触发、能不能正确触发、触发以后能干什么，才是最
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 147 · 🔄 25 · 💬 23 · 🔖 0 · 👁 0
-- **关联主题**: [skills-ecosystem-standards](/concepts/skills-ecosystem-standards.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2044614662654984687) — @Khazix0918 (数字生命卡兹克)
-[2] [Author page](/entities/authors/khazix0918.md)
-[3] [Related topic](/concepts/skills-ecosystem-standards.md)

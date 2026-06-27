@@ -65,8 +65,6 @@ AI这项技术诞生的初衷，绝非为了让企业萎缩，而是为了赋予
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 6 · 🔄 5 · 💬 7 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2034771490126598558) — @finance_bcl_1 (财经不踩雷(绝不做空美股，绝不做多A股))
-[2] [Author page](/entities/authors/finance-bcl-1.md)

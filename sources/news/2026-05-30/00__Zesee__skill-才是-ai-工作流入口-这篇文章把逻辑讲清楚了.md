@@ -49,8 +49,6 @@ gakki：Skill 作为入口这件事逻辑上成立，但门槛在于创作者生
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 37 · 🔄 5 · 💬 15 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2060624545829081371) — @Zesee (Rachel🥥)
-[2] [Author page](/entities/authors/zesee.md)

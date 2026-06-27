@@ -57,8 +57,6 @@ x_source: "crawler"
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 7 · 🔄 0 · 💬 5 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2037934994497151385) — @WWTLitee (奶牛叔)
-[2] [Author page](/entities/authors/wwtlitee.md)

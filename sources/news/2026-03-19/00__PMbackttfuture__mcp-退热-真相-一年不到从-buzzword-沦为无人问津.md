@@ -50,10 +50,6 @@ mcp已无人再提 https://t.co/vuEXbSkqzS
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 87 · 🔄 3 · 💬 20 · 🔖 0 · 👁 0
-- **关联主题**: [skill-vs-mcp-paradigm](/concepts/skill-vs-mcp-paradigm.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2034480866794394033) — @PMbackttfuture (AI产品黄叔)
-[2] [Author page](/entities/authors/pmbackttfuture.md)
-[3] [Related topic](/concepts/skill-vs-mcp-paradigm.md)

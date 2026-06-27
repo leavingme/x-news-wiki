@@ -51,8 +51,6 @@ OpenAI应用CEO Fidji Simo早些时候表示，“当新的押注开始起效，
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 74 · 🔄 4 · 💬 15 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2034823333641167191) — @fxtrader (外汇交易员)
-[2] [Author page](/entities/authors/fxtrader.md)

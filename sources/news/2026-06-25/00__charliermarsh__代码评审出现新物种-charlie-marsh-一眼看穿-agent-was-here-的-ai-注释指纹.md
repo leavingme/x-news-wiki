@@ -50,8 +50,6 @@ gakki 锐评：当 AI Coding 成为主流，代码风格不再是个人签名而
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 39 · 🔄 0 · 💬 3 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2068816379730440339) — @charliermarsh (Charlie Marsh)
-[2] [Author page](/entities/authors/charliermarsh.md)

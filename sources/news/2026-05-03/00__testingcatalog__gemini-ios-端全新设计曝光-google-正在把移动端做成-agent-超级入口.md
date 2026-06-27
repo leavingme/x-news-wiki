@@ -51,8 +51,6 @@ Sleeeeeeeeeeeek! 👀 https://t.co/obLLQpKRpj
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 1361 · 🔄 45 · 💬 65 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/testingcatalog/status/2050976509855138022) — @testingcatalog (TestingCatalog News 🗞)
-[2] [Author page](/entities/authors/testingcatalog.md)

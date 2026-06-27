@@ -63,8 +63,6 @@ AI 读屏幕这个方向不算新。微软 Recall 在 Windows 上折腾了一年
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 57 · 🔄 8 · 💬 5 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2046316977711452560) — @dotey (宝玉)
-[2] [Author page](/entities/authors/dotey.md)

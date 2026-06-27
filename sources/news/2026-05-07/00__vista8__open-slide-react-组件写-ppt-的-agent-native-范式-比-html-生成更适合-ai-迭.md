@@ -62,8 +62,6 @@ Github见评论
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 37 · 🔄 7 · 💬 9 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2052203194982248537) — @vista8 (向阳乔木)
-[2] [Author page](/entities/authors/vista8.md)

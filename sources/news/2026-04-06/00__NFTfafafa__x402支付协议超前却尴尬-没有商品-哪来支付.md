@@ -56,8 +56,6 @@ x402是币圈拿出的Ai支付解决方案
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 65 · 🔄 4 · 💬 39 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2037813044018045302) — @NFTfafafa (北讲区块链)
-[2] [Author page](/entities/authors/nftfafafa.md)

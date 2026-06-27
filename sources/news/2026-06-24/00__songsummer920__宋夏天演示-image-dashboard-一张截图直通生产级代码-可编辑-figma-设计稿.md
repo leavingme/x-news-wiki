@@ -60,8 +60,6 @@ gakki 锐评：从"代码生成"升级到"代码+设计稿双产出"，是设计
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 221 · 🔄 34 · 💬 13 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2064911970638475273) — @songsummer920 (宋夏天Dazzle)
-[2] [Author page](/entities/authors/songsummer920.md)

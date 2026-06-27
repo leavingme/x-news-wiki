@@ -68,8 +68,6 @@ Learn more:
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 1198 · 🔄 142 · 💬 28 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/Alibaba_Qwen/status/2049462666734026923) — @Alibaba_Qwen (Qwen)
-[2] [Author page](/entities/authors/alibaba-qwen.md)

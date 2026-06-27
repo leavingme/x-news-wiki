@@ -49,10 +49,6 @@ x_source: "crawler"
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 22 · 🔄 0 · 💬 6 · 🔖 0 · 👁 0
-- **关联主题**: [ai-video-cinematic](/concepts/ai-video-cinematic.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2056758486755844494) — @op7418 (歸藏(guizang.ai))
-[2] [Author page](/entities/authors/op7418.md)
-[3] [Related topic](/concepts/ai-video-cinematic.md)

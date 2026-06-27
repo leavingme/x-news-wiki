@@ -61,10 +61,6 @@ https://t.co/Rofp35SABq
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 14 · 🔄 1 · 💬 7 · 🔖 0 · 👁 0
-- **关联主题**: [dbskill-formula-marketplace](/concepts/dbskill-formula-marketplace.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2063147056370172311) — @Zesee (Rachel🥥)
-[2] [Author page](/entities/authors/zesee.md)
-[3] [Related topic](/concepts/dbskill-formula-marketplace.md)

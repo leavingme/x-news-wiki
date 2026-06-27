@@ -52,8 +52,6 @@ DeepSeek 牛逼！
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 3 · 🔄 0 · 💬 1 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2048738228082180518) — @vista8 (向阳乔木)
-[2] [Author page](/entities/authors/vista8.md)

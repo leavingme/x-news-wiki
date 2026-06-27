@@ -100,10 +100,6 @@ https://t.co/1j4n5nQ7up
 - **精选类别**: ✨ 亮点
 - **优先级**: 82
 - **互动**: ❤️ 62 · 🔄 0 · 💬 63 · 🔖 0 · 👁 0
-- **关联主题**: [ai-crypto-agent-infra](/concepts/ai-crypto-agent-infra.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2032378445024346289) — @The_Wooo (memory)
-[2] [Author page](/entities/authors/the-wooo.md)
-[3] [Related topic](/concepts/ai-crypto-agent-infra.md)

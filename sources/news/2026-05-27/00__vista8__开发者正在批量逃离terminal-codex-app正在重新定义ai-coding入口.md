@@ -51,8 +51,6 @@ Terminal曾是开发者的高地，当这个高地正在被App形态侵蚀，AI 
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 5 · 🔄 0 · 💬 11 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2059552984754004155) — @vista8 (向阳乔木)
-[2] [Author page](/entities/authors/vista8.md)

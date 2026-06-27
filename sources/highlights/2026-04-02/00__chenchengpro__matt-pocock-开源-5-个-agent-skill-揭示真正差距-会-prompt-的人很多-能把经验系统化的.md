@@ -74,10 +74,6 @@ https://t.co/PzelKeITpK
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 1593 · 🔄 347 · 💬 29 · 🔖 0 · 👁 0
-- **关联主题**: [agent-skill-usage-patterns](/concepts/agent-skill-usage-patterns.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2033855423623925869) — @chenchengpro (陈成)
-[2] [Author page](/entities/authors/chenchengpro.md)
-[3] [Related topic](/concepts/agent-skill-usage-patterns.md)

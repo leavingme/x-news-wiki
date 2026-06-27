@@ -55,8 +55,6 @@ Sam Altman 凌晨 3 点 45 分被一枚燃烧弹砸醒了。
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 341 · 🔄 19 · 💬 67 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2042748811014013435) — @dotey (宝玉)
-[2] [Author page](/entities/authors/dotey.md)

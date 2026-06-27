@@ -53,8 +53,6 @@ https://t.co/wKcRoibuOB
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 425 · 🔄 47 · 💬 27 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/zhijianliu_/status/2051900751673467097) — @zhijianliu_ (Zhijian Liu)
-[2] [Author page](/entities/authors/zhijianliu.md)

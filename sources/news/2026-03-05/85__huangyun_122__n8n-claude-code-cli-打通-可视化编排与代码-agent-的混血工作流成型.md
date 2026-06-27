@@ -54,8 +54,6 @@ OMG !! 本以为 n8n 已经 outdated 属于上时代产品，直到看了 Networ
 - **精选类别**: 📰 头条
 - **优先级**: 85
 - **互动**: ❤️ 45 · 🔄 8 · 💬 9 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2029480487803298196) — @huangyun_122 (黄赟)
-[2] [Author page](/entities/authors/huangyun-122.md)

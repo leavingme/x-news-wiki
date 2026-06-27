@@ -79,10 +79,6 @@ gakki 锐评：这是当前 AI 灰市最稀缺的实战认知——把 Token 当
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 9 · 🔄 0 · 💬 6 · 🔖 0 · 👁 0
-- **关联主题**: [ai-grey-market](/concepts/ai-grey-market.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2066217791343218692) — @Leobai825 (天策)
-[2] [Author page](/entities/authors/leobai825.md)
-[3] [Related topic](/concepts/ai-grey-market.md)

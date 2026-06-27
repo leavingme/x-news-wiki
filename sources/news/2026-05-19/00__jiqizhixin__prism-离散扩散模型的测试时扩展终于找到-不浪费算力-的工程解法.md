@@ -65,10 +65,6 @@ Our report: https://t.co/ydAa1bLTAw
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 2 · 🔄 2 · 💬 0 · 🔖 0 · 👁 0
-- **关联主题**: [reasoning-and-model-architecture](/concepts/reasoning-and-model-architecture.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2056802316129321168) — @jiqizhixin (机器之心 JIQIZHIXIN)
-[2] [Author page](/entities/authors/jiqizhixin.md)
-[3] [Related topic](/concepts/reasoning-and-model-architecture.md)

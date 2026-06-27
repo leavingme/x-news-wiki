@@ -52,8 +52,6 @@ We’ve also added 35 dedicated finance workflows for the work analysts repeat e
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 1950 · 🔄 189 · 💬 93 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/perplexity_ai/status/2051693893473935372) — @perplexity_ai (Perplexity)
-[2] [Author page](/entities/authors/perplexity-ai.md)

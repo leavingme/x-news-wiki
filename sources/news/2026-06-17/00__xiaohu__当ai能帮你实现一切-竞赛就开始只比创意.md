@@ -58,8 +58,6 @@ gakki锐评：这是 AI 时代 hackathon 的正确形态——别再比谁代码
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 2 · 🔄 0 · 💬 1 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2067140181279596894) — @xiaohu (小互)
-[2] [Author page](/entities/authors/xiaohu.md)

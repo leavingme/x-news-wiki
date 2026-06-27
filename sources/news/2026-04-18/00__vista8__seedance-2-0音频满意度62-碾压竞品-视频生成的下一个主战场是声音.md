@@ -64,8 +64,6 @@ gakki：做视频的都盯着画面打分，没人想到音频才是差异化点
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 42 · 🔄 3 · 💬 5 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2045166796538540414) — @vista8 (向阳乔木)
-[2] [Author page](/entities/authors/vista8.md)

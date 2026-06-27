@@ -133,8 +133,6 @@ AI视觉时代：万物归位与汉字的“文艺复兴”
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 218 · 🔄 39 · 💬 41 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/1981405544020922482) — @MoonAtCloud (云中月)
-[2] [Author page](/entities/authors/moonatcloud.md)

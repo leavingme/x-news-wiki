@@ -51,10 +51,6 @@ AI gaming just got a creator economy. https://t.co/OPhgadBbCo
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 219 · 🔄 24 · 💬 14 · 🔖 0 · 👁 0
-- **关联主题**: [ai-agent-gamification](/concepts/ai-agent-gamification.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/minchoi/status/2051866743723741283) — @minchoi (Min Choi)
-[2] [Author page](/entities/authors/minchoi.md)
-[3] [Related topic](/concepts/ai-agent-gamification.md)

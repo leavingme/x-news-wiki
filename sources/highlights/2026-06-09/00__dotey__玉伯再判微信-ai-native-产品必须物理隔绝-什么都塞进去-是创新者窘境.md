@@ -57,10 +57,6 @@ gakki锐评：这条推比推文本身重要10 倍——它点破了所有大厂
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 7 · 🔄 1 · 💬 2 · 🔖 0 · 👁 0
-- **关联主题**: [ai-business-cognition-reconstruction](/concepts/ai-business-cognition-reconstruction.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2064168615495016943) — @dotey (宝玉)
-[2] [Author page](/entities/authors/dotey.md)
-[3] [Related topic](/concepts/ai-business-cognition-reconstruction.md)

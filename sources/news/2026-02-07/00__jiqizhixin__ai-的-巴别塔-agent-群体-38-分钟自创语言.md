@@ -49,8 +49,6 @@ K2.5 Agent Swarm designed an entirely new language in just 38 minutes for an int
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 230 · 🔄 18 · 💬 7 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2016072937498149329) — @jiqizhixin (机器之心 JIQIZHIXIN)
-[2] [Author page](/entities/authors/jiqizhixin.md)

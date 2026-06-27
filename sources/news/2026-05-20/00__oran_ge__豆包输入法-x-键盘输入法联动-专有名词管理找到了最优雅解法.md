@@ -65,8 +65,6 @@ x_source: "crawler"
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 5 · 🔄 1 · 💬 1 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2056985346966220859) — @oran_ge (Orange AI)
-[2] [Author page](/entities/authors/oran-ge.md)

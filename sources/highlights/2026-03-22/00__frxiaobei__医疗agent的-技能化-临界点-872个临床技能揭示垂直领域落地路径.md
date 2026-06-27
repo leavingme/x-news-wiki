@@ -67,8 +67,6 @@ https://t.co/ybMeuP9HGB
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 359 · 🔄 91 · 💬 3 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2031005228154138658) — @frxiaobei (凡人小北)
-[2] [Author page](/entities/authors/frxiaobei.md)

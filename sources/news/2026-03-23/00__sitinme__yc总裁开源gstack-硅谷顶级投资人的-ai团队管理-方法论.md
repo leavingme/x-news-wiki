@@ -80,10 +80,6 @@ gstack 解决这个问题的方式很“硅谷”：直接拆角色。
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 77 · 🔄 15 · 💬 1 · 🔖 0 · 👁 0
-- **关联主题**: [claude-code-natural-language-workflow](/concepts/claude-code-natural-language-workflow.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2035717633803190647) — @sitinme (sitin)
-[2] [Author page](/entities/authors/sitinme.md)
-[3] [Related topic](/concepts/claude-code-natural-language-workflow.md)

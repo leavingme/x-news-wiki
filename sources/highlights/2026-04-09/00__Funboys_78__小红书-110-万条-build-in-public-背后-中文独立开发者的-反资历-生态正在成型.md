@@ -61,8 +61,6 @@ gakki：小红书正在成为中文互联网「Build in Public」的最优解—
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 56 · 🔄 0 · 💬 53 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2037844963640394018) — @Funboys_78 (加密猫)
-[2] [Author page](/entities/authors/funboys-78.md)

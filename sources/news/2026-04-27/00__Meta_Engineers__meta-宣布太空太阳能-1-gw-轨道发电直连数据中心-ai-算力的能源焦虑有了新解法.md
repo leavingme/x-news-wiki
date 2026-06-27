@@ -53,8 +53,6 @@ We’re announcing two new partnerships to bring innovative energy generation an
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 791 · 🔄 93 · 💬 36 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/Meta_Engineers/status/2048746828708102421) — @Meta_Engineers (Engineering at Meta)
-[2] [Author page](/entities/authors/meta-engineers.md)

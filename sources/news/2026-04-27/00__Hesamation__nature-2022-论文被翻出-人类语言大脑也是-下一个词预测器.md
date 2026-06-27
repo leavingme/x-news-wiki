@@ -55,8 +55,6 @@ the brain predicts upcoming words before they’re heard, represents them simila
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 125 · 🔄 17 · 💬 4 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/Hesamation/status/2048490333311217674) — @Hesamation (ℏεsam)
-[2] [Author page](/entities/authors/hesamation.md)

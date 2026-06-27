@@ -49,8 +49,6 @@ gakki 锐评：单看是一条 PR 合并，实质是开源 Agent 生态的「产
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 33 · 🔄 1 · 💬 7 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2062952453398466819) — @dotey (宝玉)
-[2] [Author page](/entities/authors/dotey.md)

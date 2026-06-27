@@ -47,10 +47,6 @@ BREAKING: MoonPay has acquired @DFlow https://t.co/wbQgMPYNBz
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 408 · 🔄 55 · 💬 118 · 🔖 0 · 👁 0
-- **关联主题**: [ai-agent-crypto-infra](/concepts/ai-agent-crypto-infra.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/moonpay/status/2051686819167629412) — @moonpay (MoonPay 🟣)
-[2] [Author page](/entities/authors/moonpay.md)
-[3] [Related topic](/concepts/ai-agent-crypto-infra.md)

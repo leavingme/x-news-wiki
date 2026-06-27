@@ -49,8 +49,6 @@ gakki：正文即内容，正文为空等于没有内容。链接不是内容本
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 2 · 🔄 1 · 💬 0 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2060545272087007538) — @xiaohu (小互)
-[2] [Author page](/entities/authors/xiaohu.md)

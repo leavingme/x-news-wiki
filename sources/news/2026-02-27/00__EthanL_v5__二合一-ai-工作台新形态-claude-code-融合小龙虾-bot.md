@@ -47,8 +47,6 @@ x_source: "crawler"
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 8 · 🔄 1 · 💬 1 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2027041138654507217) — @EthanL_v5 (Ethan L)
-[2] [Author page](/entities/authors/ethanl-v5.md)

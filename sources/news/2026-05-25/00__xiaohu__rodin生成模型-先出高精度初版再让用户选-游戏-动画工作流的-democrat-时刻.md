@@ -61,8 +61,6 @@ Rodin 生成模型不是一步到位的
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 2 · 🔄 0 · 💬 1 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2058779273222385793) — @xiaohu (小互)
-[2] [Author page](/entities/authors/xiaohu.md)

@@ -51,8 +51,6 @@ Tmux 的另一个好处是不同的 Harness 可以相互抽鞭子。我现在经
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 7 · 🔄 1 · 💬 0 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2056491511030972543) — @yetone (yetone)
-[2] [Author page](/entities/authors/yetone.md)

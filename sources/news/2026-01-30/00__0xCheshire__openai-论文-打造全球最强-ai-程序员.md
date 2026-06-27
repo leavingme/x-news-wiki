@@ -51,8 +51,6 @@ OpenAI 刚刚发布了一篇论文，公布了怎么打造全球最强 AI 程序
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 1094 · 🔄 298 · 💬 15 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/1891394142510485552) — @0xCheshire (柴郡🔔｜Crypto+AI Plus)
-[2] [Author page](/entities/authors/0xcheshire.md)

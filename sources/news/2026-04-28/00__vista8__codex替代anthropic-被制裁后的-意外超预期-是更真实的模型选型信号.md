@@ -53,8 +53,6 @@ Cloudflare部署没有固定IP，无法加公众号白名单，我给它一台VP
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 9 · 🔄 0 · 💬 2 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2048958676111937643) — @vista8 (向阳乔木)
-[2] [Author page](/entities/authors/vista8.md)

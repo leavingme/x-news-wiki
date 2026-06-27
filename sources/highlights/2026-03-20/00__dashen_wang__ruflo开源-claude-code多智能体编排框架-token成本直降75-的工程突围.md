@@ -72,10 +72,6 @@ Claude Code的多智能体编排神器Ruflo开源，GitHub直接爆21.6k Star，
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 9 · 🔄 3 · 💬 1 · 🔖 0 · 👁 0
-- **关联主题**: [sub-agents-multi-expert](/concepts/sub-agents-multi-expert.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2034656898839097430) — @dashen_wang (AI最严厉的父亲)
-[2] [Author page](/entities/authors/dashen-wang.md)
-[3] [Related topic](/concepts/sub-agents-multi-expert.md)

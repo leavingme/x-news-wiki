@@ -56,8 +56,6 @@ https://t.co/hTLzIt4jXy
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 260 · 🔄 28 · 💬 11 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2041653619968426377) — @YTJiaFF (YT Jia 贾跃亭)
-[2] [Author page](/entities/authors/ytjiaff.md)

@@ -62,8 +62,6 @@ learn-claude-code，一个从零手搓 Claude Code-like Agent 的开源教程，
 - **精选类别**: 📰 头条
 - **优先级**: 85
 - **互动**: ❤️ 641 · 🔄 137 · 💬 13 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2029911618235289721) — @Saccc_c (Sac)
-[2] [Author page](/entities/authors/saccc-c.md)

@@ -58,8 +58,6 @@ Marc Andreessen关于AI的历史意义，有一点说的太好了，这里分享
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 13 · 🔄 4 · 💬 3 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2018919950707048554) — @erchenlu1 (卢尔辰)
-[2] [Author page](/entities/authors/erchenlu1.md)

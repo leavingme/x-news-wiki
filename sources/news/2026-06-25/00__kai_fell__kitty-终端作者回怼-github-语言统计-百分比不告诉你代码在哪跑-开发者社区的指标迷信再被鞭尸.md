@@ -54,8 +54,6 @@ the Linux kernel for example has 0.3% Python, does that mean 0.3% of the actual 
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 48 · 🔄 2 · 💬 2 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2069444361641730491) — @kai_fell (Kai Fall)
-[2] [Author page](/entities/authors/kai-fell.md)

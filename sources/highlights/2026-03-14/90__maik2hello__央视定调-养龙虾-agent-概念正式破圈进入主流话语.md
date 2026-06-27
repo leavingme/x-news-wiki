@@ -56,10 +56,6 @@ x_source: "crawler"
 - **精选类别**: ✨ 亮点
 - **优先级**: 90
 - **互动**: ❤️ 16 · 🔄 3 · 💬 7 · 🔖 0 · 👁 0
-- **关联主题**: [open-agent-ecosystem](/concepts/open-agent-ecosystem.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2031330109781639379) — @maik2hello (请叫我 MaiK)
-[2] [Author page](/entities/authors/maik2hello.md)
-[3] [Related topic](/concepts/open-agent-ecosystem.md)

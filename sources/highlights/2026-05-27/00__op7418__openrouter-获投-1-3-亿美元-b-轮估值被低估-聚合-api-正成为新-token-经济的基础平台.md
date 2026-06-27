@@ -53,8 +53,6 @@ OpenRouter 获得 1.3 亿美元的 B 轮融资
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 5 · 🔄 0 · 💬 7 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2059472896322625733) — @op7418 (歸藏(guizang.ai))
-[2] [Author page](/entities/authors/op7418.md)

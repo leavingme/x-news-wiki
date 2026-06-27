@@ -108,10 +108,6 @@ https://t.co/swJsKrU7Hp
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 125 · 🔄 37 · 💬 9 · 🔖 0 · 👁 0
-- **关联主题**: [edgeclaw-memory-infrastructure](/concepts/edgeclaw-memory-infrastructure.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2036087756632285518) — @shao__meng (meng shao)
-[2] [Author page](/entities/authors/shao-meng.md)
-[3] [Related topic](/concepts/edgeclaw-memory-infrastructure.md)

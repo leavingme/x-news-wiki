@@ -63,8 +63,6 @@ codex 迭代很快，新增了很多功能在手机端：
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 58 · 🔄 6 · 💬 12 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2057467744124109151) — @dotey (宝玉)
-[2] [Author page](/entities/authors/dotey.md)

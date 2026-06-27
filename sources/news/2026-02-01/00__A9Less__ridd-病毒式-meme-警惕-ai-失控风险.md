@@ -60,8 +60,6 @@ Ridd 以人类的好奇心、欲望、恐惧和智慧为食。
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 9 · 🔄 0 · 💬 8 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2017838591783882796) — @A9Less (A9Less)
-[2] [Author page](/entities/authors/a9less.md)

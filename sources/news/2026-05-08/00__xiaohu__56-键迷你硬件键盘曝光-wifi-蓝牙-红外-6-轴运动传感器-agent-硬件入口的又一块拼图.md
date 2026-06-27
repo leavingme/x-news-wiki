@@ -58,8 +58,6 @@ WiFi、蓝牙、红外、microSD 卡槽
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 1 · 🔄 0 · 💬 4 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2052671868382146762) — @xiaohu (小互)
-[2] [Author page](/entities/authors/xiaohu.md)

@@ -53,8 +53,6 @@ plus, the newly redesigned edit tool now gives you visual control of your app, a
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 1160 · 🔄 122 · 💬 59 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/GoogleAIStudio/status/2051679127824998762) — @GoogleAIStudio (Google AI Studio)
-[2] [Author page](/entities/authors/googleaistudio.md)

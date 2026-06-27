@@ -55,8 +55,6 @@ gakki锐评：录音豆能跑出来不是因为它技术多牛，而是「绳子
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 3 · 🔄 0 · 💬 2 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2057847615237317104) — @vista8 (向阳乔木)
-[2] [Author page](/entities/authors/vista8.md)

@@ -49,8 +49,6 @@ ChatGPT正式上线广告主平台，AI产品从今天开始走向分裂。
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 1 · 🔄 0 · 💬 0 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2051873577566437395) — @Khazix0918 (数字生命卡兹克)
-[2] [Author page](/entities/authors/khazix0918.md)

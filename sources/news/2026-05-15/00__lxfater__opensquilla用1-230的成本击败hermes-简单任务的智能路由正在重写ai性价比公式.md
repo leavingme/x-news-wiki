@@ -62,8 +62,6 @@ Hermes Agent 全程 Opus 4.7 + 多轮迭代
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 4 · 🔄 2 · 💬 2 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2055096824214823334) — @lxfater (铁锤人)
-[2] [Author page](/entities/authors/lxfater.md)

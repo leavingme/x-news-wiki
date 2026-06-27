@@ -49,8 +49,6 @@ gakki 锐评：免费 API 能换来试用，但留不住人。Agent 场景下，
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 9 · 🔄 0 · 💬 2 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2051100173796102185) — @mranti (Michael Anti)
-[2] [Author page](/entities/authors/mranti.md)

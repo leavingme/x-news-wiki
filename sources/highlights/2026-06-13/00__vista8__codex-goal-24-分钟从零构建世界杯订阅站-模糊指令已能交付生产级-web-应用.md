@@ -59,10 +59,6 @@ Codex 的Goal指令开发，耗时24分钟。
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 3 · 🔄 0 · 💬 4 · 🔖 0 · 👁 0
-- **关联主题**: [codex-cli-tool-encapsulation](/concepts/codex-cli-tool-encapsulation.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2065817104847458544) — @vista8 (向阳乔木)
-[2] [Author page](/entities/authors/vista8.md)
-[3] [Related topic](/concepts/codex-cli-tool-encapsulation.md)

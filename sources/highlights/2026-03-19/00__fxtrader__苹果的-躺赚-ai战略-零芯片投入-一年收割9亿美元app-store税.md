@@ -53,8 +53,6 @@ gakki锐评：这是最残酷的商业模式验证。当所有人都在讨论「
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 78 · 🔄 11 · 💬 14 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2034512573761257942) — @fxtrader (外汇交易员)
-[2] [Author page](/entities/authors/fxtrader.md)

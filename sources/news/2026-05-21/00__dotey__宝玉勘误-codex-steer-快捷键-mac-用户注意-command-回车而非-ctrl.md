@@ -52,8 +52,6 @@ gakki：快捷键类细节错误是最容易被忽视的效率杀手，尤其在
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 3 · 🔄 0 · 💬 0 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2057308737807794655) — @dotey (宝玉)
-[2] [Author page](/entities/authors/dotey.md)

@@ -58,10 +58,6 @@ x_source: "crawler"
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 181 · 🔄 36 · 💬 19 · 🔖 0 · 👁 0
-- **关联主题**: [agent-mobile-orchestration](/concepts/agent-mobile-orchestration.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2034627609720725812) — @xiaohu (小互)
-[2] [Author page](/entities/authors/xiaohu.md)
-[3] [Related topic](/concepts/agent-mobile-orchestration.md)

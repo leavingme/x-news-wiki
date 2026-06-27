@@ -49,8 +49,6 @@ Grok Build 有个被严重低估的能力：headless 模式，一行命令直接
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 11 · 🔄 1 · 💬 8 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2061685817454551210) — @gkxspace (余温)
-[2] [Author page](/entities/authors/gkxspace.md)

@@ -64,10 +64,6 @@ x_source: "crawler"
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 326 · 🔄 48 · 💬 53 · 🔖 0 · 👁 0
-- **关联主题**: [harness-engineering](/concepts/harness-engineering.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2035717036811432437) — @kasong2048 (卡颂)
-[2] [Author page](/entities/authors/kasong2048.md)
-[3] [Related topic](/concepts/harness-engineering.md)

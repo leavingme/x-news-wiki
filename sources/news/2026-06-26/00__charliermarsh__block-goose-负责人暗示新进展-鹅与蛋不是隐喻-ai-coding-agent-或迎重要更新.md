@@ -47,10 +47,6 @@ Wish I could say more, but a lot of you seem to be treating the goose and the eg
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 36 · 🔄 0 · 💬 4 · 🔖 0 · 👁 0
-- **关联主题**: [goose-ai-autonomous-coding](/concepts/goose-ai-autonomous-coding.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2070289423380418769) — @charliermarsh (Charlie Marsh)
-[2] [Author page](/entities/authors/charliermarsh.md)
-[3] [Related topic](/concepts/goose-ai-autonomous-coding.md)

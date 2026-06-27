@@ -61,8 +61,6 @@ Midjourney 预热了几天的硬件设备
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 46 · 🔄 3 · 💬 12 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2067435552631394364) — @xiaohu (小互)
-[2] [Author page](/entities/authors/xiaohu.md)

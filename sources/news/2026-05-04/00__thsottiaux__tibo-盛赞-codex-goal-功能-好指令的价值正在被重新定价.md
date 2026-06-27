@@ -51,8 +51,6 @@ The value of good instructions has never been higher.
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 4263 · 🔄 154 · 💬 315 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/thsottiaux/status/2050811900062286168) — @thsottiaux (Tibo)
-[2] [Author page](/entities/authors/thsottiaux.md)

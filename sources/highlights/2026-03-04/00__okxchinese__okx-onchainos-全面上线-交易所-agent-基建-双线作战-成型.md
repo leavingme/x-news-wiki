@@ -56,10 +56,6 @@ OKX OnchainOS，现已全面上线！
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 347 · 🔄 82 · 💬 70 · 🔖 0 · 👁 0
-- **关联主题**: [agent-economic-autonomy](/concepts/agent-economic-autonomy.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2028757277751357698) — @okxchinese (OKX中文)
-[2] [Author page](/entities/authors/okxchinese.md)
-[3] [Related topic](/concepts/agent-economic-autonomy.md)

@@ -54,10 +54,6 @@ https://t.co/QBTh01Bhlr
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 131 · 🔄 9 · 💬 2 · 🔖 0 · 👁 0
-- **关联主题**: [robot-phone-consumer-embodied-ai](/concepts/robot-phone-consumer-embodied-ai.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2069802948285420010) — @DeepMindLion (深度狮)
-[2] [Author page](/entities/authors/deepmindlion.md)
-[3] [Related topic](/concepts/robot-phone-consumer-embodied-ai.md)

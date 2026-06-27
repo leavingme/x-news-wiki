@@ -109,10 +109,6 @@ RecallNet的解决方案：
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 134 · 🔄 0 · 💬 233 · 🔖 0 · 👁 0
-- **关联主题**: [agent-trading-agent-survival-rate](/concepts/agent-trading-agent-survival-rate.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/1971375208654319845) — @AwbczBTC (Crypto爱玩币的村长🌊)
-[2] [Author page](/entities/authors/awbczbtc.md)
-[3] [Related topic](/concepts/agent-trading-agent-survival-rate.md)

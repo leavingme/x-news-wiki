@@ -61,8 +61,6 @@ AI降低了个体执行成本，但没有降低复杂系统的风险暴露。
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 36 · 🔄 3 · 💬 14 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2057374446495977893) — @lxfater (铁锤人)
-[2] [Author page](/entities/authors/lxfater.md)

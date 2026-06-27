@@ -70,10 +70,6 @@ One of the typical problems with Claude Code happens when AI uses an incorrect v
 - **精选类别**: ✨ 亮点
 - **优先级**: 82
 - **互动**: ❤️ 242 · 🔄 22 · 💬 3 · 🔖 0 · 👁 0
-- **关联主题**: [claude-code-ecosystem](/concepts/claude-code-ecosystem.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2031020919095693645) — @101babich (Nick Babich)
-[2] [Author page](/entities/authors/101babich.md)
-[3] [Related topic](/concepts/claude-code-ecosystem.md)

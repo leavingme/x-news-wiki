@@ -57,10 +57,6 @@ Timeline: 2-3 weeks.
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 1140 · 🔄 170 · 💬 262 · 🔖 0 · 👁 0
-- **关联主题**: [ai-agent-crypto-infra](/concepts/ai-agent-crypto-infra.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/durov/status/2051315383466897663) — @durov (Pavel Durov)
-[2] [Author page](/entities/authors/durov.md)
-[3] [Related topic](/concepts/ai-agent-crypto-infra.md)

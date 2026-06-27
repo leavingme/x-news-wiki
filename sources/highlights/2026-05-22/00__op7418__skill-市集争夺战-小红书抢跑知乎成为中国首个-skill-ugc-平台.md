@@ -54,10 +54,6 @@ gakki：Skill 这东西一旦进了内容平台，味道就变了——从工程
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 57 · 🔄 7 · 💬 22 · 🔖 0 · 👁 0
-- **关联主题**: [no-code-agent-entry](/concepts/no-code-agent-entry.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2057711810728559034) — @op7418 (歸藏(guizang.ai))
-[2] [Author page](/entities/authors/op7418.md)
-[3] [Related topic](/concepts/no-code-agent-entry.md)

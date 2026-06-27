@@ -79,8 +79,6 @@ Bloome 的重点在于你能直接借用别人的顶级 Agent。
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 22 · 🔄 1 · 💬 18 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2051879397536223354) — @Zesee (Rachel🥥)
-[2] [Author page](/entities/authors/zesee.md)

@@ -48,10 +48,6 @@ x_source: "crawler"
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 0 · 🔄 0 · 💬 0 · 🔖 0 · 👁 0
-- **关联主题**: [AI-API成本结构与本地部署](/concepts/AI-API成本结构与本地部署.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2050639187905294793) — @dotey (宝玉)
-[2] [Author page](/entities/authors/dotey.md)
-[3] [Related topic](/concepts/AI-API成本结构与本地部署.md)

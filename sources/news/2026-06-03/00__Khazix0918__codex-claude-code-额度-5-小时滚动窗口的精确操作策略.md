@@ -91,8 +91,6 @@ Windows就用任务计划程序，也可以直接让Agent帮你配。
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 27 · 🔄 2 · 💬 13 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2062103999839707188) — @Khazix0918 (数字生命卡兹克)
-[2] [Author page](/entities/authors/khazix0918.md)

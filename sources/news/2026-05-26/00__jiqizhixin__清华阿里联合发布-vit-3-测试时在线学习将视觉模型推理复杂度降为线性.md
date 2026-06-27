@@ -62,10 +62,6 @@ Our report: https://t.co/k5hzs5sw45
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 21 · 🔄 0 · 💬 0 · 🔖 0 · 👁 0
-- **关联主题**: [model-capabilities](/concepts/model-capabilities.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2059319653717987404) — @jiqizhixin (机器之心 JIQIZHIXIN)
-[2] [Author page](/entities/authors/jiqizhixin.md)
-[3] [Related topic](/concepts/model-capabilities.md)

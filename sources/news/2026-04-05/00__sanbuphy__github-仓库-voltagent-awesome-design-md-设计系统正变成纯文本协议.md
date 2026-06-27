@@ -54,8 +54,6 @@ https://t.co/lwZ6FYWikD https://t.co/TOYuhAYROJ
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 93 · 🔄 12 · 💬 0 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2040486804168802677) — @sanbuphy (Sanbu)
-[2] [Author page](/entities/authors/sanbuphy.md)

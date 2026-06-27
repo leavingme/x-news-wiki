@@ -50,10 +50,6 @@ openclaw 作者：wow，我发现 GUI 已经大于 CLI 了，GUI 竟然不用多
 - **精选类别**: ✨ 亮点
 - **优先级**: 88
 - **互动**: ❤️ 417 · 🔄 36 · 💬 45 · 🔖 0 · 👁 0
-- **关联主题**: [openclaw-digital-life-philosophy](/concepts/openclaw-digital-life-philosophy.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2030360955344052710) — @yetone (yetone)
-[2] [Author page](/entities/authors/yetone.md)
-[3] [Related topic](/concepts/openclaw-digital-life-philosophy.md)

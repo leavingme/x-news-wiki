@@ -49,8 +49,6 @@ We are now in an era in which the prime ministers of EU countries seem more like
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 14 · 🔄 1 · 💬 3 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2057338943893618815) — @mranti (Michael Anti)
-[2] [Author page](/entities/authors/mranti.md)

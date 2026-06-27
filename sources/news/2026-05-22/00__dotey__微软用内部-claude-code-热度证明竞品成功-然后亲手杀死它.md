@@ -62,8 +62,6 @@ Copilot CLI 是 GitHub Copilot 的命令行版本，跟 Claude Code 的定位高
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 38 · 🔄 1 · 💬 20 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2057646103697260783) — @dotey (宝玉)
-[2] [Author page](/entities/authors/dotey.md)

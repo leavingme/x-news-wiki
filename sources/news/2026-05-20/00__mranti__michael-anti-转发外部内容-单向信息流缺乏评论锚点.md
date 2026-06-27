@@ -47,8 +47,6 @@ https://t.co/F32fL0TrYu
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 0 · 🔄 0 · 💬 2 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2056920771948322817) — @mranti (Michael Anti)
-[2] [Author page](/entities/authors/mranti.md)

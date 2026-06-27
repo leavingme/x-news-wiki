@@ -107,10 +107,6 @@ https://t.co/iv48hGQunI
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 164 · 🔄 27 · 💬 103 · 🔖 0 · 👁 0
-- **关联主题**: [dbskill-formula-marketplace](/concepts/dbskill-formula-marketplace.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2068500416854421862) — @mnmn94253156337 (撸毛吃猪脚饭)
-[2] [Author page](/entities/authors/mnmn94253156337.md)
-[3] [Related topic](/concepts/dbskill-formula-marketplace.md)

@@ -58,8 +58,6 @@ Listenhub Skill 负责配音
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 36 · 🔄 1 · 💬 9 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2056021133477163298) — @op7418 (歸藏(guizang.ai))
-[2] [Author page](/entities/authors/op7418.md)

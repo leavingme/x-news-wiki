@@ -64,8 +64,6 @@ no embeddings. no chunking. no vector DB.
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 6054 · 🔄 664 · 💬 199 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/HowToAI_/status/2051527272675651923) — @HowToAI_ (How To AI)
-[2] [Author page](/entities/authors/howtoai.md)

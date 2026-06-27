@@ -48,8 +48,6 @@ AI Agent 把 SaaS 的空间挤压了
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 19 · 🔄 2 · 💬 1 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2027388480540840039) — @oran_ge (Orange AI)
-[2] [Author page](/entities/authors/oran-ge.md)

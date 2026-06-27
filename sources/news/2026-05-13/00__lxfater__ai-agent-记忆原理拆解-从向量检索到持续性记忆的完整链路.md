@@ -49,8 +49,6 @@ AI Agent 是如何记住东西？从原理到实战详细解释
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 49 · 🔄 11 · 💬 20 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2054396603197505745) — @lxfater (铁锤人)
-[2] [Author page](/entities/authors/lxfater.md)

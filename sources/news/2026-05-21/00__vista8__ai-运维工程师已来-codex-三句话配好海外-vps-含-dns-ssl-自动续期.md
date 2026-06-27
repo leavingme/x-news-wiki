@@ -65,8 +65,6 @@ AI 正在将"运维"这个专业工种彻底平民化——SSH 账号密码加 C
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 47 · 🔄 3 · 💬 8 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2057509048413769894) — @vista8 (向阳乔木)
-[2] [Author page](/entities/authors/vista8.md)

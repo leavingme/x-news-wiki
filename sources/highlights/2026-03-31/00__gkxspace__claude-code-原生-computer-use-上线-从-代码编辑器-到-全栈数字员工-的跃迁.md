@@ -57,10 +57,6 @@ ClaudeCode 已经把 OpenClaw 干趴了，按照这个趋势，ClaudeCode 的想
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 7 · 🔄 0 · 💬 0 · 🔖 0 · 👁 0
-- **关联主题**: [claude-code-natural-language-workflow](/concepts/claude-code-natural-language-workflow.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2038667546820260017) — @gkxspace (余温)
-[2] [Author page](/entities/authors/gkxspace.md)
-[3] [Related topic](/concepts/claude-code-natural-language-workflow.md)

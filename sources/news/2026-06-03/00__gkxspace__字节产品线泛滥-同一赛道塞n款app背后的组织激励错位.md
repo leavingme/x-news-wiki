@@ -49,8 +49,6 @@ gakki锐评：字节的产品矩阵在推荐算法时代是优势，但在上下
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 2 · 🔄 0 · 💬 7 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2062002770735981000) — @gkxspace (余温)
-[2] [Author page](/entities/authors/gkxspace.md)

@@ -73,8 +73,6 @@ Agent可自主持币、交易、赚取收益、管理DeFi仓位
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 30 · 🔄 7 · 💬 9 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2021894550667825601) — @chengzi_95330 (比特币橙子Trader)
-[2] [Author page](/entities/authors/chengzi-95330.md)

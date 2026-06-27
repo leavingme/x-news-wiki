@@ -58,8 +58,6 @@ Anthropic在旁边默默完成了Claude Mythos训练，二级市场溢价50%。
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 7 · 🔄 0 · 💬 0 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2041213032874074131) — @GPTDAOCN (GPTDAOCN-e/acc)
-[2] [Author page](/entities/authors/gptdaocn.md)

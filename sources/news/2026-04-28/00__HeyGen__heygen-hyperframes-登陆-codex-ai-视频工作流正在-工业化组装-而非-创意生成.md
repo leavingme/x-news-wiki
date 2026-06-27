@@ -59,10 +59,6 @@ Stay tuned for more HeyGen x @OpenAIDevs integrations this week! https://t.co/Qp
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 1331 · 🔄 190 · 💬 141 · 🔖 0 · 👁 0
-- **关联主题**: [ai-short-drama-industrialization](/concepts/ai-short-drama-industrialization.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/HeyGen/status/2048882211022311614) — @HeyGen (HeyGen)
-[2] [Author page](/entities/authors/heygen.md)
-[3] [Related topic](/concepts/ai-short-drama-industrialization.md)

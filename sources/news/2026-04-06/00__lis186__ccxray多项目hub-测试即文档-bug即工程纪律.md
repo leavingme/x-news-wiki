@@ -76,8 +76,6 @@ https://t.co/j2VOa98iEm
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 43 · 🔄 4 · 💬 1 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2040860856968515735) — @lis186 (Justin Lee)
-[2] [Author page](/entities/authors/lis186.md)

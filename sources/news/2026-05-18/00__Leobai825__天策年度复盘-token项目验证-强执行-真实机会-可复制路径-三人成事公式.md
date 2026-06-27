@@ -99,8 +99,6 @@ Token这个项目本身也许只是阶段性的
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 9 · 🔄 0 · 💬 2 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2056264939212329217) — @Leobai825 (天策)
-[2] [Author page](/entities/authors/leobai825.md)

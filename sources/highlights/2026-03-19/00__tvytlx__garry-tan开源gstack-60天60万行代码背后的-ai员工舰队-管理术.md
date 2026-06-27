@@ -67,10 +67,6 @@ https://t.co/i91ekEONSM
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 323 · 🔄 74 · 💬 8 · 🔖 0 · 👁 0
-- **关联主题**: [claude-code-ecosystem](/concepts/claude-code-ecosystem.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2034480427759792570) — @tvytlx (Xiao Tan)
-[2] [Author page](/entities/authors/tvytlx.md)
-[3] [Related topic](/concepts/claude-code-ecosystem.md)

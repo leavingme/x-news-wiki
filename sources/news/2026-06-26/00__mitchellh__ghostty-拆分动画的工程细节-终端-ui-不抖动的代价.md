@@ -66,10 +66,6 @@ Going to keep hammering away at this...
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 188 · 🔄 7 · 💬 8 · 🔖 0 · 👁 0
-- **关联主题**: [ghostty-terminal-adoption](/concepts/ghostty-terminal-adoption.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2070281069631611056) — @mitchellh (Mitchell Hashimoto)
-[2] [Author page](/entities/authors/mitchellh.md)
-[3] [Related topic](/concepts/ghostty-terminal-adoption.md)

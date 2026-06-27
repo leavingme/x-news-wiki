@@ -68,10 +68,6 @@ Nano Banana 2 是直接生成，在这些复杂场景下，理解能力不够，
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 25 · 🔄 0 · 💬 21 · 🔖 0 · 👁 0
-- **关联主题**: [ai-content-authenticity](/concepts/ai-content-authenticity.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2050167635120210136) — @Zesee (Rachel🥥)
-[2] [Author page](/entities/authors/zesee.md)
-[3] [Related topic](/concepts/ai-content-authenticity.md)

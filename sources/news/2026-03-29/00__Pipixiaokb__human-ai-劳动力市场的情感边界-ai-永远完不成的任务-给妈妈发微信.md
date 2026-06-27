@@ -82,8 +82,6 @@ https://t.co/97IbHh0pBc （或直接在 NIUMA WORKS 里搜索）
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 19 · 🔄 2 · 💬 12 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2037930752168677788) — @Pipixiaokb (Pp.okx)
-[2] [Author page](/entities/authors/pipixiaokb.md)

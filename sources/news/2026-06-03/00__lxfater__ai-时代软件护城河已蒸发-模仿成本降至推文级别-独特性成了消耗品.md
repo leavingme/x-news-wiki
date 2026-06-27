@@ -56,8 +56,6 @@ AI时代了，模仿一个软件和模仿一条推文一样简单
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 3 · 🔄 0 · 💬 1 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2062010760163905743) — @lxfater (铁锤人)
-[2] [Author page](/entities/authors/lxfater.md)

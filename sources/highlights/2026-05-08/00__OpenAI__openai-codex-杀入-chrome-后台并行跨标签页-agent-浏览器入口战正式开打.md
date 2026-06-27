@@ -53,10 +53,6 @@ To get started, install the Chrome plugin in the Codex app. https://t.co/pjtHd9g
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 8683 · 🔄 778 · 💬 378 · 🔖 0 · 👁 0
-- **关联主题**: [ai-browser-platform-war](/concepts/ai-browser-platform-war.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/OpenAI/status/2052480800004956323) — @OpenAI (OpenAI)
-[2] [Author page](/entities/authors/openai.md)
-[3] [Related topic](/concepts/ai-browser-platform-war.md)

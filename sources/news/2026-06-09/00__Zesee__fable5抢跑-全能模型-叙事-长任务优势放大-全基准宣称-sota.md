@@ -54,8 +54,6 @@ Fable 5 在几乎所有测试基准上都达到了业界领先水平，在软件
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 1 · 🔄 0 · 💬 1 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2064410667587637405) — @Zesee (Rachel🥥)
-[2] [Author page](/entities/authors/zesee.md)

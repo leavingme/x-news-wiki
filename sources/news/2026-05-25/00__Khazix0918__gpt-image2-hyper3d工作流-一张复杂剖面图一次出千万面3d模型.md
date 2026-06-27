@@ -67,10 +67,6 @@ https://t.co/VvVoQry2Vp
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 21 · 🔄 1 · 💬 4 · 🔖 0 · 👁 0
-- **关联主题**: [ai-3d-content-democratization](/concepts/ai-3d-content-democratization.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2058725487812514036) — @Khazix0918 (数字生命卡兹克)
-[2] [Author page](/entities/authors/khazix0918.md)
-[3] [Related topic](/concepts/ai-3d-content-democratization.md)

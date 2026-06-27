@@ -63,10 +63,6 @@ WeClaw 永生
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 61 · 🔄 3 · 💬 15 · 🔖 0 · 👁 0
-- **关联主题**: [agent-native-paradigm](/concepts/agent-native-paradigm.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2035734573401657566) — @lifesinger (Frank Wang 玉伯)
-[2] [Author page](/entities/authors/lifesinger.md)
-[3] [Related topic](/concepts/agent-native-paradigm.md)

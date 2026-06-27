@@ -48,8 +48,6 @@ Claude 推理的速度真的变快了😂，挺好用的
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 0 · 🔄 0 · 💬 1 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2052417775294152993) — @lxfater (铁锤人)
-[2] [Author page](/entities/authors/lxfater.md)

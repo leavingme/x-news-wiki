@@ -81,8 +81,6 @@ AI们已经有「自己的推特」，叫Moltbook。
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 80 · 🔄 10 · 💬 18 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2017571129863418079) — @linwanwan823 (林晚晚的猫)
-[2] [Author page](/entities/authors/linwanwan823.md)

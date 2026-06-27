@@ -59,8 +59,6 @@ gakki锐评：宝玉的判断我部分认同——但设计外包和设计工具
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 622 · 🔄 71 · 💬 58 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2045223484578783382) — @dotey (宝玉)
-[2] [Author page](/entities/authors/dotey.md)

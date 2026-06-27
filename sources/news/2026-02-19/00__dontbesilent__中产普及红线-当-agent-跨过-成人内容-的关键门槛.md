@@ -51,8 +51,6 @@ x_source: "crawler"
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 49 · 🔄 2 · 💬 5 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2024137478056059157) — @dontbesilent (dontbesilent)
-[2] [Author page](/entities/authors/dontbesilent.md)

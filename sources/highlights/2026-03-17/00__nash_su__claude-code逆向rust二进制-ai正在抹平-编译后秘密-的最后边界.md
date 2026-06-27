@@ -54,8 +54,6 @@ AI自动逆向App，应用没有秘密了😱😱😱
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 361 · 🔄 72 · 💬 23 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2033807671107981737) — @nash_su (nash_su - e/acc)
-[2] [Author page](/entities/authors/nash-su.md)

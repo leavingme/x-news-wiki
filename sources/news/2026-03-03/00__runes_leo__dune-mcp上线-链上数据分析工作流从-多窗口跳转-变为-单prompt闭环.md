@@ -53,8 +53,6 @@ Dune MCP 上线了。意味着在 Claude Code / Cursor 里可以直接写 SQL �
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 23 · 🔄 2 · 💬 2 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2028505553119617026) — @runes_leo (Leo)
-[2] [Author page](/entities/authors/runes-leo.md)

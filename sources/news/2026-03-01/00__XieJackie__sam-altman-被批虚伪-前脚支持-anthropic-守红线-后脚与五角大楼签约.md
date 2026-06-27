@@ -47,8 +47,6 @@ Scam Altman是最大伪君子🤣
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 39 · 🔄 6 · 💬 16 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2027932429244321998) — @XieJackie (谢嘉琪)
-[2] [Author page](/entities/authors/xiejackie.md)

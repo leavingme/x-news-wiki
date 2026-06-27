@@ -102,8 +102,6 @@ x_source: "crawler"
 - **精选类别**: 📰 头条
 - **优先级**: 88
 - **互动**: ❤️ 43 · 🔄 10 · 💬 2 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2030323543716814906) — @manateelazycat (Andy Stewart)
-[2] [Author page](/entities/authors/manateelazycat.md)

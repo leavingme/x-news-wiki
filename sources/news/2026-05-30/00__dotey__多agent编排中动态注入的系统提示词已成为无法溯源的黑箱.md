@@ -55,10 +55,6 @@ Logging the raw request payload isn't enough, you also need to capture why a par
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 0 · 🔄 0 · 💬 0 · 🔖 0 · 👁 0
-- **关联主题**: [multi-agent-framework-ecosystem-comparison](/concepts/multi-agent-framework-ecosystem-comparison.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2060825655462216142) — @dotey (宝玉)
-[2] [Author page](/entities/authors/dotey.md)
-[3] [Related topic](/concepts/multi-agent-framework-ecosystem-comparison.md)

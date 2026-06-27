@@ -57,10 +57,6 @@ AI开始变便宜、变普及、变能干活了
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 17 · 🔄 9 · 💬 7 · 🔖 0 · 👁 0
-- **关联主题**: [gemma端侧多模态](/concepts/gemma端侧多模态.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2040574768764870792) — @EnHeng456 (EnHeng嗯哼.Ai)
-[2] [Author page](/entities/authors/enheng456.md)
-[3] [Related topic](/concepts/gemma端侧多模态.md)

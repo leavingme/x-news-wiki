@@ -60,8 +60,6 @@ World Monitor这个开源项目，有点吓到我了。
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 969 · 🔄 221 · 💬 44 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2029056587239956559) — @ZeroZ_JQ (关木)
-[2] [Author page](/entities/authors/zeroz-jq.md)

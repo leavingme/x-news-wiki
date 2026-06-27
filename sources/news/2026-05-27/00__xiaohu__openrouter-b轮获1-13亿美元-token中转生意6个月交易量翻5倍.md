@@ -55,8 +55,6 @@ Token 专卖看来是个大生意...
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 2 · 🔄 0 · 💬 0 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2059702421346210197) — @xiaohu (小互)
-[2] [Author page](/entities/authors/xiaohu.md)

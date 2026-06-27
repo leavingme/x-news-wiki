@@ -58,10 +58,6 @@ https://t.co/HLLmEsbKnB
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 52 · 🔄 2 · 💬 7 · 🔖 0 · 👁 0
-- **关联主题**: [ai-distillation-ethics](/concepts/ai-distillation-ethics.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2035041073798459876) — @dotey (宝玉)
-[2] [Author page](/entities/authors/dotey.md)
-[3] [Related topic](/concepts/ai-distillation-ethics.md)

@@ -49,10 +49,6 @@ It's been quite a week. Good stuff is coming though. I hired a team! https://t.c
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 624 · 🔄 40 · 💬 79 · 🔖 0 · 👁 0
-- **关联主题**: [open-agent-ecosystem](/concepts/open-agent-ecosystem.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/steipete/status/2051612829304659972) — @steipete (Peter Steinberger 🦞)
-[2] [Author page](/entities/authors/steipete.md)
-[3] [Related topic](/concepts/open-agent-ecosystem.md)

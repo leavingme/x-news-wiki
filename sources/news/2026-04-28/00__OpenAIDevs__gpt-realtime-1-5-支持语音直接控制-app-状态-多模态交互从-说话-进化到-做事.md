@@ -55,8 +55,6 @@ Hi Chappy 👋 https://t.co/mh1O8ZBzIY
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 6406 · 🔄 485 · 💬 197 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/OpenAIDevs/status/2048871260512473385) — @OpenAIDevs (OpenAI Developers)
-[2] [Author page](/entities/authors/openaidevs.md)

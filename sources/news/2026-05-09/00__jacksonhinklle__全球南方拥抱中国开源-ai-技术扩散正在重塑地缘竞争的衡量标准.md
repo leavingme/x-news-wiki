@@ -51,8 +51,6 @@ Practically free AI models from China are set to become the world standard as th
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 2116 · 🔄 427 · 💬 72 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/jacksonhinklle/status/2052919576547950974) — @jacksonhinklle (Jackson Hinkle 🇺🇸)
-[2] [Author page](/entities/authors/jacksonhinklle.md)

@@ -50,8 +50,6 @@ x_source: "crawler"
 - **精选类别**: 📰 头条
 - **优先级**: 85
 - **互动**: ❤️ 36 · 🔄 3 · 💬 5 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2030444235783131589) — @__Inty__ (Inty News)
-[2] [Author page](/entities/authors/inty.md)

@@ -67,10 +67,6 @@ gakki锐评：有意思的方向，但本质上是给模型加了个「批判性
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 191 · 🔄 27 · 💬 9 · 🔖 0 · 👁 0
-- **关联主题**: [reasoning-and-model-architecture](/concepts/reasoning-and-model-architecture.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2045176546609250738) — @vista8 (向阳乔木)
-[2] [Author page](/entities/authors/vista8.md)
-[3] [Related topic](/concepts/reasoning-and-model-architecture.md)

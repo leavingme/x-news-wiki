@@ -58,10 +58,6 @@ Docker一键部署，集成Claude Code+5大AI CLI+Web UI
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 6 · 🔄 4 · 💬 1 · 🔖 0 · 👁 0
-- **关联主题**: [claude-code-ecosystem](/concepts/claude-code-ecosystem.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2037000487946580233) — @DiannRudy87765 (实用干货铺)
-[2] [Author page](/entities/authors/diannrudy87765.md)
-[3] [Related topic](/concepts/claude-code-ecosystem.md)

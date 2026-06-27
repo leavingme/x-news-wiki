@@ -56,8 +56,6 @@ gakki：这本质上是一种「时间复利」操作——大多数人做完项
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 2 · 🔄 1 · 💬 2 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2059475572330529089) — @vista8 (向阳乔木)
-[2] [Author page](/entities/authors/vista8.md)

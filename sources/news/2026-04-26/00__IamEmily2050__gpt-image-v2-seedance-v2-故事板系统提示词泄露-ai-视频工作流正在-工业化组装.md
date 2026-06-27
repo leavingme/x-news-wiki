@@ -51,8 +51,6 @@ So much potential. Also, for people who use agents, there might be https://t.co/
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 748 · 🔄 80 · 💬 28 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/IamEmily2050/status/2048147198869946855) — @IamEmily2050 (Emily)
-[2] [Author page](/entities/authors/iamemily2050.md)

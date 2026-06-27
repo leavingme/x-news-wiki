@@ -120,10 +120,6 @@ GitHub: https://t.co/XvmG6LknFk
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 191 · 🔄 54 · 💬 2 · 🔖 0 · 👁 0
-- **关联主题**: [agent-skill-usage-patterns](/concepts/agent-skill-usage-patterns.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2060251421900235162) — @Potatoloogs (土豆本豆)
-[2] [Author page](/entities/authors/potatoloogs.md)
-[3] [Related topic](/concepts/agent-skill-usage-patterns.md)

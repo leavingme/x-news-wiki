@@ -93,8 +93,6 @@ AI 的复利效应，比我们想象中要大的多的多。
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 871 · 🔄 235 · 💬 42 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2038274355919294754) — @DtDt666 (看不懂的SOL)
-[2] [Author page](/entities/authors/dtdt666.md)

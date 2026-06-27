@@ -58,8 +58,6 @@ gakki 锐评：可下钻的 3D 大屏是过去低代码工具的硬骨头，Code
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 277 · 🔄 35 · 💬 6 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2067157741949649171) — @songsummer920 (宋夏天Dazzle)
-[2] [Author page](/entities/authors/songsummer920.md)

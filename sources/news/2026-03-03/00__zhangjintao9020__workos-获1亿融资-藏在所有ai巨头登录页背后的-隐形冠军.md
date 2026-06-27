@@ -54,8 +54,6 @@ https://t.co/9tQlLLNShy
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 2 · 🔄 0 · 💬 2 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2028632766951113152) — @zhangjintao9020 (Jintao Zhang 张晋涛)
-[2] [Author page](/entities/authors/zhangjintao9020.md)

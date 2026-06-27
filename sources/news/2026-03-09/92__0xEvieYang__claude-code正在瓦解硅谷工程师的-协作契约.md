@@ -55,8 +55,6 @@ x_source: "crawler"
 - **精选类别**: 📰 头条
 - **优先级**: 92
 - **互动**: ❤️ 200 · 🔄 14 · 💬 7 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2030563672133923069) — @0xEvieYang (Evie | JE Labs🦄🍀)
-[2] [Author page](/entities/authors/0xevieyang.md)

@@ -61,8 +61,6 @@ Google 发布实时翻译模型 ：Gemini 3.5 Live Translate
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 100 · 🔄 10 · 💬 16 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2064626905169760379) — @xiaohu (小互)
-[2] [Author page](/entities/authors/xiaohu.md)

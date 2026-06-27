@@ -78,8 +78,6 @@ Recall其实是在解决一个超本质的问题——AI那么能“编”，我
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 164 · 🔄 3 · 💬 261 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/1961227313976406465) — @AwbczBTC (Crypto爱玩币的村长🌊)
-[2] [Author page](/entities/authors/awbczbtc.md)

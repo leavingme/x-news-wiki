@@ -77,10 +77,6 @@ Skill 链接:https://t.co/EnbGHvWBO1
 - **精选类别**: ✨ 亮点
 - **优先级**: 88
 - **互动**: ❤️ 52 · 🔄 4 · 💬 6 · 🔖 0 · 👁 0
-- **关联主题**: [ai-crypto-agent-infra](/concepts/ai-crypto-agent-infra.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2032504880729100288) — @zzzzzeroooo (Zero 💎)
-[2] [Author page](/entities/authors/zzzzzeroooo.md)
-[3] [Related topic](/concepts/ai-crypto-agent-infra.md)

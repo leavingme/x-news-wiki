@@ -54,8 +54,6 @@ B站开始裁员，具体情况如何；
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 442 · 🔄 37 · 💬 73 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2035197204671914287) — @whyyoutouzhele (李老师不是你老师)
-[2] [Author page](/entities/authors/whyyoutouzhele.md)

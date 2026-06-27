@@ -55,8 +55,6 @@ https://t.co/ectvhLBWjc https://t.co/GVCpA2SuXV
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 3 · 🔄 0 · 💬 4 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2060384710207898029) — @gkxspace (余温)
-[2] [Author page](/entities/authors/gkxspace.md)

@@ -63,10 +63,6 @@ Ponytail 解决的是输出侧的问题，模型写出来的东西太多了。
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 2 · 🔄 0 · 💬 1 · 🔖 0 · 👁 0
-- **关联主题**: [ai-coding-token-optimization](/concepts/ai-coding-token-optimization.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2068665340486152572) — @gkxspace (余温)
-[2] [Author page](/entities/authors/gkxspace.md)
-[3] [Related topic](/concepts/ai-coding-token-optimization.md)

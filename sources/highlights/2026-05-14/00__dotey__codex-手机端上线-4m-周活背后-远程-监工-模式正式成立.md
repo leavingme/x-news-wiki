@@ -61,8 +61,6 @@ OpenAI 的解释是底层走了一层 secure relay 中继,让跑着 Codex 的机
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 29 · 🔄 3 · 💬 7 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2055029251762422196) — @dotey (宝玉)
-[2] [Author page](/entities/authors/dotey.md)

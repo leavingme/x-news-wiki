@@ -54,8 +54,6 @@ $OXY $EOG $SCCO
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 7 · 🔄 0 · 💬 0 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2018906487201157562) — @boundaryhq (boundary)
-[2] [Author page](/entities/authors/boundaryhq.md)

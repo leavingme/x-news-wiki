@@ -77,10 +77,6 @@ Backed by the #SNAPS ecosystem, Cookie (#COOKIE) offers lightweight Web3 interac
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 102 · 🔄 0 · 💬 189 · 🔖 0 · 👁 0
-- **关联主题**: [prediction-market-compliance](/concepts/prediction-market-compliance.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/1966660687553556895) — @hassanyehiaa (风清扬)
-[2] [Author page](/entities/authors/hassanyehiaa.md)
-[3] [Related topic](/concepts/prediction-market-compliance.md)

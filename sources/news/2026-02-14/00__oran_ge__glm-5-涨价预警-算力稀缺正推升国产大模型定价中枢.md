@@ -47,8 +47,6 @@ GLM-5 涨价背后的真相：算力稀缺才刚刚开始
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 137 · 🔄 23 · 💬 28 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2022154194762031593) — @oran_ge (Orange AI)
-[2] [Author page](/entities/authors/oran-ge.md)

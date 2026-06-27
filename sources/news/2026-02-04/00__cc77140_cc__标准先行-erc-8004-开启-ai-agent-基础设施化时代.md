@@ -55,8 +55,6 @@ https://t.co/Ro9M8Z8Yop
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 18 · 🔄 4 · 💬 2 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2019031803437498401) — @cc77140_cc (ox-cc)
-[2] [Author page](/entities/authors/cc77140-cc.md)

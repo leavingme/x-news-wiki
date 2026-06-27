@@ -52,8 +52,6 @@ Michael Anti 敏锐捕捉到一个值得警惕的信号：AI 行业正在用"反
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 1 · 🔄 0 · 💬 1 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2059446510228820465) — @mranti (Michael Anti)
-[2] [Author page](/entities/authors/mranti.md)

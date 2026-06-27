@@ -59,10 +59,6 @@ https://t.co/AmDWMt0epy
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 11 · 🔄 4 · 💬 0 · 🔖 0 · 👁 0
-- **关联主题**: [content-provenance-infrastructure](/concepts/content-provenance-infrastructure.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2060730334941982803) — @gkxspace (余温)
-[2] [Author page](/entities/authors/gkxspace.md)
-[3] [Related topic](/concepts/content-provenance-infrastructure.md)

@@ -50,8 +50,6 @@ Thinking with Visual Primitives.
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 740 · 🔄 69 · 💬 16 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/teortaxesTex/status/2049796832088203768) — @teortaxesTex (Teortaxes▶️ (DeepSeek 推特🐋铁粉 2023 – ∞))
-[2] [Author page](/entities/authors/teortaxestex.md)

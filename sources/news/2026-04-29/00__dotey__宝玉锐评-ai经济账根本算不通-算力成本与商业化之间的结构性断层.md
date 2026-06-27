@@ -54,8 +54,6 @@ AI 的经济账根本算不通
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 26 · 🔄 0 · 💬 3 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2049283917509693942) — @dotey (宝玉)
-[2] [Author page](/entities/authors/dotey.md)

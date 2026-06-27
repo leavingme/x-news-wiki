@@ -49,10 +49,6 @@ gakki 锐评：开源社区的"保命"共识往往比商业宣传更诚实，这
 - **精选类别**: ✨ 亮点
 - **优先级**: 80
 - **互动**: ❤️ 580 · 🔄 103 · 💬 19 · 🔖 0 · 👁 0
-- **关联主题**: [open-agent-ecosystem](/concepts/open-agent-ecosystem.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2032300799637020964) — @Khazix0918 (数字生命卡兹克)
-[2] [Author page](/entities/authors/khazix0918.md)
-[3] [Related topic](/concepts/open-agent-ecosystem.md)

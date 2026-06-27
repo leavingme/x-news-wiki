@@ -58,8 +58,6 @@ AI大有可为......
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 220 · 🔄 30 · 💬 12 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2025988233386135960) — @gkxspace (余温)
-[2] [Author page](/entities/authors/gkxspace.md)

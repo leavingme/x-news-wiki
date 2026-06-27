@@ -48,10 +48,6 @@ Anthropic 滑轨，承诺未来几天会在 fable 5 降级到 Opus 4.8 的时候
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 3 · 🔄 0 · 💬 2 · 🔖 0 · 👁 0
-- **关联主题**: [ai-shrinkflation-opus-degradation](/concepts/ai-shrinkflation-opus-degradation.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2064984016005242961) — @op7418 (歸藏(guizang.ai))
-[2] [Author page](/entities/authors/op7418.md)
-[3] [Related topic](/concepts/ai-shrinkflation-opus-degradation.md)

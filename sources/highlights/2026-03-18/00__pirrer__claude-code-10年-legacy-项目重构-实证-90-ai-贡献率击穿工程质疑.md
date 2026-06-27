@@ -68,10 +68,6 @@ Claude Code 升級 10 年老專案行嗎？
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 68 · 🔄 2 · 💬 0 · 🔖 0 · 👁 0
-- **关联主题**: [claude-code-ecosystem](/concepts/claude-code-ecosystem.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2034208585534849052) — @pirrer (fox hsiao)
-[2] [Author page](/entities/authors/pirrer.md)
-[3] [Related topic](/concepts/claude-code-ecosystem.md)

@@ -63,10 +63,6 @@ x_source: "crawler"
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 74 · 🔄 4 · 💬 26 · 🔖 0 · 👁 0
-- **关联主题**: [ai-business-cognition-reconstruction](/concepts/ai-business-cognition-reconstruction.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2053352435369025992) — @lifesinger (Frank Wang 玉伯)
-[2] [Author page](/entities/authors/lifesinger.md)
-[3] [Related topic](/concepts/ai-business-cognition-reconstruction.md)

@@ -57,8 +57,6 @@ gakki锐评：当卖课人对AI工具的认知是"OpenClaw=AI绘画"这种程度
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 6 · 🔄 0 · 💬 4 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2063628519721013362) — @gkxspace (余温)
-[2] [Author page](/entities/authors/gkxspace.md)

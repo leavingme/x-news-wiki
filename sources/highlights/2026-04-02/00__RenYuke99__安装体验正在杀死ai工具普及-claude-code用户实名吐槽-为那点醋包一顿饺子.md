@@ -64,10 +64,6 @@ gakki锐评： 这个吐槽本质上是Vibe Coding最大的讽刺——当你需
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 4 · 🔄 0 · 💬 3 · 🔖 0 · 👁 0
-- **关联主题**: [no-code-agent-entry](/concepts/no-code-agent-entry.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2039690978433585556) — @RenYuke99 (水煎包.Clawby)
-[2] [Author page](/entities/authors/renyuke99.md)
-[3] [Related topic](/concepts/no-code-agent-entry.md)

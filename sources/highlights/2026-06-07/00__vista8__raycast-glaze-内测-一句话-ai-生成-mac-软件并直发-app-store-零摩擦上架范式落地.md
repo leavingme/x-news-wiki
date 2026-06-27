@@ -61,10 +61,6 @@ Mac软件开发上架，从未如此简单，正面刚App Store啊！
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 52 · 🔄 4 · 💬 12 · 🔖 0 · 👁 0
-- **关联主题**: [app-store-automation](/concepts/app-store-automation.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2063443048458264603) — @vista8 (向阳乔木)
-[2] [Author page](/entities/authors/vista8.md)
-[3] [Related topic](/concepts/app-store-automation.md)

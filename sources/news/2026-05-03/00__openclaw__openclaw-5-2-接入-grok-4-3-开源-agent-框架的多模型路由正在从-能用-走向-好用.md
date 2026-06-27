@@ -58,8 +58,6 @@ https://t.co/ImwxFzaO9X
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 757 · 🔄 91 · 💬 106 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/openclaw/status/2050735037230801042) — @openclaw (OpenClaw🦞)
-[2] [Author page](/entities/authors/openclaw.md)

@@ -53,8 +53,6 @@ gakki 的锐评：内存管理是Agent产品最诚实的用户体验——愿意
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 16 · 🔄 1 · 💬 15 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2057088956974449086) — @dotey (宝玉)
-[2] [Author page](/entities/authors/dotey.md)

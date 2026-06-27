@@ -66,10 +66,6 @@ To not get bottlenecked by Nvidia.
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 1960 · 🔄 189 · 💬 320 · 🔖 0 · 👁 0
-- **关联主题**: [nvidia-compute-moat](/concepts/nvidia-compute-moat.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/aleabitoreddit/status/2066707573139763211) — @aleabitoreddit (Serenity)
-[2] [Author page](/entities/authors/aleabitoreddit.md)
-[3] [Related topic](/concepts/nvidia-compute-moat.md)

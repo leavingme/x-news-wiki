@@ -50,8 +50,6 @@ Imagine what happens when AI agents are thrown in the mix (with superhuman cogni
 - **精选类别**: 📰 头条
 - **优先级**: 88
 - **互动**: ❤️ 78 · 🔄 13 · 💬 5 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2029492167321030965) — @zephyr_z9 (Zephyr)
-[2] [Author page](/entities/authors/zephyr-z9.md)

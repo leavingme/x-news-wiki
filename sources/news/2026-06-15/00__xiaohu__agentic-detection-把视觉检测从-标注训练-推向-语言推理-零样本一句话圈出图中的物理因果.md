@@ -67,8 +67,6 @@ Agentic Detection：一个视觉检测模型
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 21 · 🔄 2 · 💬 9 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2066467115880837500) — @xiaohu (小互)
-[2] [Author page](/entities/authors/xiaohu.md)

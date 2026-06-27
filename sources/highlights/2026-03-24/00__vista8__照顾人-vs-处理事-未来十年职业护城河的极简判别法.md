@@ -74,8 +74,6 @@ AK大神做的一个美国就业趋势网站，从色块颜色和大小看，发
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 41 · 🔄 8 · 💬 5 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2036097599674196308) — @vista8 (向阳乔木)
-[2] [Author page](/entities/authors/vista8.md)

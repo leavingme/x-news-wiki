@@ -67,10 +67,6 @@ GitHub 放评论区了👇
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 83 · 🔄 6 · 💬 4 · 🔖 0 · 👁 0
-- **关联主题**: [agent-knowledge-sharing-infra](/concepts/agent-knowledge-sharing-infra.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2033834037471842387) — @AYi_AInotes (阿绎 AYi)
-[2] [Author page](/entities/authors/ayi-ainotes.md)
-[3] [Related topic](/concepts/agent-knowledge-sharing-infra.md)

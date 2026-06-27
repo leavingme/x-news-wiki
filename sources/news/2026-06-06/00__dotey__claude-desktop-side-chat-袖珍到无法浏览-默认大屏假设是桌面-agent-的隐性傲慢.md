@@ -50,8 +50,6 @@ Claude Desktop 的人一定是有超大显示屏，所以设计出来的 Side ch
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 1 · 🔄 0 · 💬 0 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2063374139826565180) — @dotey (宝玉)
-[2] [Author page](/entities/authors/dotey.md)

@@ -61,8 +61,6 @@ GitHub: https://t.co/oluclzawZ2
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 2075 · 🔄 324 · 💬 44 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2028112414777168219) — @AI_Jasonyu (鱼总聊AI)
-[2] [Author page](/entities/authors/ai-jasonyu.md)

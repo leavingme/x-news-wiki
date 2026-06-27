@@ -52,10 +52,6 @@ Claude Cowork 推出一个新的功能（研究预览版）
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 45 · 🔄 12 · 💬 3 · 🔖 0 · 👁 0
-- **关联主题**: [agent-mobile-orchestration](/concepts/agent-mobile-orchestration.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2034864519621878238) — @FinanceYF5 (AI Will)
-[2] [Author page](/entities/authors/financeyf5.md)
-[3] [Related topic](/concepts/agent-mobile-orchestration.md)

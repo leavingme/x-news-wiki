@@ -51,8 +51,6 @@ https://t.co/VdAhLhoSQE
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 169 · 🔄 16 · 💬 8 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2055010623910785535) — @yetone (yetone)
-[2] [Author page](/entities/authors/yetone.md)

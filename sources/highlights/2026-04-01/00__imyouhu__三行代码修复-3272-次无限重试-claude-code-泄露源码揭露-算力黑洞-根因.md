@@ -56,8 +56,6 @@ Claude Code 源码泄露事件后续越来越精彩了。
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 645 · 🔄 94 · 💬 24 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2039191460256612770) — @imyouhu (CatFly)
-[2] [Author page](/entities/authors/imyouhu.md)

@@ -57,8 +57,6 @@ https://t.co/04HlMSSOEe
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 858 · 🔄 70 · 💬 33 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/OpenAINewsroom/status/2049258911887434165) — @OpenAINewsroom (OpenAI Newsroom)
-[2] [Author page](/entities/authors/openainewsroom.md)

@@ -50,10 +50,6 @@ According to Bloomberg, about 80 percent of early investor holdings in World Lib
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 137 · 🔄 24 · 💬 25 · 🔖 0 · 👁 0
-- **关联主题**: [ai-agent-crypto-infra](/concepts/ai-agent-crypto-infra.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/WuBlockchain/status/2050344607687577942) — @WuBlockchain (Wu Blockchain)
-[2] [Author page](/entities/authors/wublockchain.md)
-[3] [Related topic](/concepts/ai-agent-crypto-infra.md)

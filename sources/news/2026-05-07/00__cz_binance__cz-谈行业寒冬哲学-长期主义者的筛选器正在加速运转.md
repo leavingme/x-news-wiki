@@ -47,8 +47,6 @@ x_source: "ai-trend-digest"
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 1757 · 🔄 274 · 💬 1247 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/cz_binance/status/2051878676157870327) — @cz_binance (CZ 🔶 BNB)
-[2] [Author page](/entities/authors/cz-binance.md)

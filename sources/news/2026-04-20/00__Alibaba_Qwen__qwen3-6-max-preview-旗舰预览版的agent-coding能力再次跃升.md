@@ -60,8 +60,6 @@ API: https://t.co/xWPs39LBIm
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 3417 · 🔄 349 · 💬 145 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/Alibaba_Qwen/status/2046227759475921291) — @Alibaba_Qwen (Qwen)
-[2] [Author page](/entities/authors/alibaba-qwen.md)

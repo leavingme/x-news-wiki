@@ -66,8 +66,6 @@ AGI 五年内到来；
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 258 · 🔄 59 · 💬 13 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2043867729401467380) — @xiaohu (小互)
-[2] [Author page](/entities/authors/xiaohu.md)

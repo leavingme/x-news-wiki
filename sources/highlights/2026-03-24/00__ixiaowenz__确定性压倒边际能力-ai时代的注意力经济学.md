@@ -73,8 +73,6 @@ Kimi 表现出的是一种平均意义上的确定性最足，打回率最低，
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 30 · 🔄 4 · 💬 6 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2035912034450284712) — @ixiaowenz (Xiaowen)
-[2] [Author page](/entities/authors/ixiaowenz.md)

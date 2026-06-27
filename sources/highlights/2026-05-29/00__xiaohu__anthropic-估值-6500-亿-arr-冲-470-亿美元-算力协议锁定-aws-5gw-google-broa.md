@@ -67,8 +67,6 @@ Anthropic 在近几周达成了多项重磅的算力合作协议：
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 5 · 🔄 1 · 💬 6 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2060152538943705281) — @xiaohu (小互)
-[2] [Author page](/entities/authors/xiaohu.md)

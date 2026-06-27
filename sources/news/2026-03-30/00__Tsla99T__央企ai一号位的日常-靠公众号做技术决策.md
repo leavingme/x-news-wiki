@@ -52,8 +52,6 @@ gakki锐评：技术圈嘲笑这个现象，但真正危险的是——当这种
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 121 · 🔄 3 · 💬 16 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2035848393004916851) — @Tsla99T (TSLA99T)
-[2] [Author page](/entities/authors/tsla99t.md)

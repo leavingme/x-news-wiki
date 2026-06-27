@@ -94,10 +94,6 @@ https://t.co/sETvp7cuD3
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 10 · 🔄 1 · 💬 5 · 🔖 0 · 👁 0
-- **关联主题**: [multi-agent-simulation-infrastructure](/concepts/multi-agent-simulation-infrastructure.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2054945254726422572) — @gkxspace (余温)
-[2] [Author page](/entities/authors/gkxspace.md)
-[3] [Related topic](/concepts/multi-agent-simulation-infrastructure.md)

@@ -59,10 +59,6 @@ Anthropic 官方：保持沉默。
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 3 · 🔄 0 · 💬 2 · 🔖 0 · 👁 0
-- **关联主题**: [claude-code-leaked-architecture](/concepts/claude-code-leaked-architecture.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2040387896541380876) — @wadezone (Koda)
-[2] [Author page](/entities/authors/wadezone.md)
-[3] [Related topic](/concepts/claude-code-leaked-architecture.md)

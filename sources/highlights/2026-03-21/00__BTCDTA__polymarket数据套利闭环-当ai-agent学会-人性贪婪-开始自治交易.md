@@ -64,10 +64,6 @@ AI Agent 学会了「人性贪婪」开始自治交易
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 68 · 🔄 8 · 💬 37 · 🔖 0 · 👁 0
-- **关联主题**: [ai-crypto-agent-infra](/concepts/ai-crypto-agent-infra.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2035261640984363147) — @BTCDTA (DTA 🕊️📿🦅)
-[2] [Author page](/entities/authors/btcdta.md)
-[3] [Related topic](/concepts/ai-crypto-agent-infra.md)

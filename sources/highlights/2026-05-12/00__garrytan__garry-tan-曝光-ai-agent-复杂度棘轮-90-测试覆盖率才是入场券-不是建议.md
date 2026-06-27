@@ -53,8 +53,6 @@ The AI Agent Complexity Ratchet: Why 90% Test Coverage Is Required
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 626 · 🔄 79 · 💬 42 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/garrytan/status/2054064931515855118) — @garrytan (Garry Tan)
-[2] [Author page](/entities/authors/garrytan.md)

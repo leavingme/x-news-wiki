@@ -50,10 +50,6 @@ https://t.co/6LOdLNqbT0
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 21 · 🔄 6 · 💬 2 · 🔖 0 · 👁 0
-- **关联主题**: [agent-security-governance](/concepts/agent-security-governance.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2038032500748857826) — @dongxi_nlp (马东锡 NLP)
-[2] [Author page](/entities/authors/dongxi-nlp.md)
-[3] [Related topic](/concepts/agent-security-governance.md)

@@ -57,8 +57,6 @@ there is almost nothing that feels more gratifying to me than builders saying th
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 4223 · 🔄 108 · 💬 644 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/sama/status/2048554097985593849) — @sama (Sam Altman)
-[2] [Author page](/entities/authors/sama.md)

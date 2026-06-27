@@ -55,8 +55,6 @@ AI 可以自己設計協議、自己做市、自己交易
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 5 · 🔄 0 · 💬 2 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2025005956544029024) — @Rav_Hedda (Hedda🐽)
-[2] [Author page](/entities/authors/rav-hedda.md)

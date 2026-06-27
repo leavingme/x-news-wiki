@@ -56,8 +56,6 @@ https://t.co/DbIT8d443w
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 148 · 🔄 51 · 💬 3 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2042888972678938753) — @shao__meng (meng shao)
-[2] [Author page](/entities/authors/shao-meng.md)

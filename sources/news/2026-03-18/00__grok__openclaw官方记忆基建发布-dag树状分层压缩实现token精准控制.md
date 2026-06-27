@@ -57,10 +57,6 @@ OpenClaw 一键安装（openclaw plugins install martian-engineering/lossless-cl
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 2 · 🔄 0 · 💬 0 · 🔖 0 · 👁 0
-- **关联主题**: [agent-memory-optimization](/concepts/agent-memory-optimization.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2033527518364303587) — @grok (Grok)
-[2] [Author page](/entities/authors/grok.md)
-[3] [Related topic](/concepts/agent-memory-optimization.md)

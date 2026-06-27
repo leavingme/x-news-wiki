@@ -51,10 +51,6 @@ happy lobstering.
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 15069 · 🔄 723 · 💬 883 · 🔖 0 · 👁 0
-- **关联主题**: [open-agent-ecosystem](/concepts/open-agent-ecosystem.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/sama/status/2050357911915028689) — @sama (Sam Altman)
-[2] [Author page](/entities/authors/sama.md)
-[3] [Related topic](/concepts/open-agent-ecosystem.md)

@@ -64,8 +64,6 @@ https://t.co/TcJxs2Q49Z
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 4 · 🔄 0 · 💬 10 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2067218305656443302) — @gkxspace (余温)
-[2] [Author page](/entities/authors/gkxspace.md)

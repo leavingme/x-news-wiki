@@ -61,8 +61,6 @@ X 官方搜索 API 很贵，Grok 这次加了 4 个搜索工具：
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 7 · 🔄 1 · 💬 7 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2061413377461596526) — @gkxspace (余温)
-[2] [Author page](/entities/authors/gkxspace.md)

@@ -57,10 +57,6 @@ This is just the beginning.
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 578 · 🔄 48 · 💬 99 · 🔖 0 · 👁 0
-- **关联主题**: [embodied-ai-supply-chain](/concepts/embodied-ai-supply-chain.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/xiaolonw/status/2050298370842132680) — @xiaolonw (Xiaolong Wang)
-[2] [Author page](/entities/authors/xiaolonw.md)
-[3] [Related topic](/concepts/embodied-ai-supply-chain.md)

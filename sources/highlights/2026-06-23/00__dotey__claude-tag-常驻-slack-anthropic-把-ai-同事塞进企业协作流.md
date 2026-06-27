@@ -72,10 +72,6 @@ Claude Tag 会替换现有的 Claude in Slack 应用，管理员有 30 天的迁
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 20 · 🔄 2 · 💬 7 · 🔖 0 · 👁 0
-- **关联主题**: [claude-code-ecosystem](/concepts/claude-code-ecosystem.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2069477417278730536) — @dotey (宝玉)
-[2] [Author page](/entities/authors/dotey.md)
-[3] [Related topic](/concepts/claude-code-ecosystem.md)

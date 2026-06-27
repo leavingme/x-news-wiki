@@ -76,8 +76,6 @@ Openclaw 使用 Claude Max 的方法 1 才過 1 天就被 Claude 發現緊急召
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 52 · 🔄 11 · 💬 9 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2040834662680174655) — @Rav_Hedda (Hedda🐽)
-[2] [Author page](/entities/authors/rav-hedda.md)

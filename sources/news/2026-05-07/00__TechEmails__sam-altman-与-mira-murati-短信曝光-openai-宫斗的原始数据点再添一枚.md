@@ -50,8 +50,6 @@ November 19, 2023 https://t.co/Yr4WPwMWny
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 4809 · 🔄 227 · 💬 153 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/TechEmails/status/2052160625586090215) — @TechEmails (Internal Tech Emails)
-[2] [Author page](/entities/authors/techemails.md)

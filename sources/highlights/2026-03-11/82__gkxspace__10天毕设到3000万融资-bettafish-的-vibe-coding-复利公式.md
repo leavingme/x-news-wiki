@@ -64,10 +64,6 @@ https://t.co/5TY6WPaXOs
 - **精选类别**: ✨ 亮点
 - **优先级**: 82
 - **互动**: ❤️ 372 · 🔄 50 · 💬 14 · 🔖 0 · 👁 0
-- **关联主题**: [vibe-coding-methodology](/concepts/vibe-coding-methodology.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2031220998951842109) — @gkxspace (余温)
-[2] [Author page](/entities/authors/gkxspace.md)
-[3] [Related topic](/concepts/vibe-coding-methodology.md)

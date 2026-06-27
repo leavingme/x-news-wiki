@@ -61,10 +61,6 @@ gakki 锐评：这个框架是给「想做 Agent/Skill 创业」的人泼冷水�
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 21 · 🔄 1 · 💬 4 · 🔖 0 · 👁 0
-- **关联主题**: [token-economics-infrastructure](/concepts/token-economics-infrastructure.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2065709790257348840) — @Leobai825 (天策)
-[2] [Author page](/entities/authors/leobai825.md)
-[3] [Related topic](/concepts/token-economics-infrastructure.md)

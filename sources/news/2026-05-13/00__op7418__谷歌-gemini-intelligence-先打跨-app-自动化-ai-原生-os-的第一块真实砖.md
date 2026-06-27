@@ -75,8 +75,6 @@ gakki 锐评：谷歌这次有意思的不是技术，是"时机"——在 AI Ag
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 9 · 🔄 4 · 💬 6 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2054395133182042326) — @op7418 (歸藏(guizang.ai))
-[2] [Author page](/entities/authors/op7418.md)

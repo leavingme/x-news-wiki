@@ -56,10 +56,6 @@ x_source: "crawler"
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 52 · 🔄 2 · 💬 17 · 🔖 0 · 👁 0
-- **关联主题**: [v-jepa-world-model](/concepts/v-jepa-world-model.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2056880322076352844) — @xiaohu (小互)
-[2] [Author page](/entities/authors/xiaohu.md)
-[3] [Related topic](/concepts/v-jepa-world-model.md)

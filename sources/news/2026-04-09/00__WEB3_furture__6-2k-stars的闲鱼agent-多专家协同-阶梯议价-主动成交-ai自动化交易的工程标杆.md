@@ -68,8 +68,6 @@ https://t.co/22pNYifkkZ
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 889 · 🔄 201 · 💬 38 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2039369538895053294) — @WEB3_furture (梭哈｜超级个体)
-[2] [Author page](/entities/authors/web3-furture.md)

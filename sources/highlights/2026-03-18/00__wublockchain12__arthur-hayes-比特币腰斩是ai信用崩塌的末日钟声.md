@@ -53,10 +53,6 @@ Arthur Hayes：比特币正在预警 AI 将引发大规模信用崩塌
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 25 · 🔄 7 · 💬 5 · 🔖 0 · 👁 0
-- **关联主题**: [abundant-gdp-hypothesis](/concepts/abundant-gdp-hypothesis.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2032039273478963511) — @wublockchain12 (吴说区块链)
-[2] [Author page](/entities/authors/wublockchain12.md)
-[3] [Related topic](/concepts/abundant-gdp-hypothesis.md)

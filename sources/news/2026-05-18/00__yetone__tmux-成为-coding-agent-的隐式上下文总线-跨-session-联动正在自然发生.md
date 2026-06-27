@@ -57,8 +57,6 @@ gakki：这不是"技巧"，是工具设计者无心插柳的 emergent 协作模
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 0 · 🔄 0 · 💬 0 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2056273108143862011) — @yetone (yetone)
-[2] [Author page](/entities/authors/yetone.md)

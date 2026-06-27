@@ -65,8 +65,6 @@ DAR 可能是高1000 倍-10000倍
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 11 · 🔄 0 · 💬 2 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2053359995698495997) — @oran_ge (Orange AI)
-[2] [Author page](/entities/authors/oran-ge.md)

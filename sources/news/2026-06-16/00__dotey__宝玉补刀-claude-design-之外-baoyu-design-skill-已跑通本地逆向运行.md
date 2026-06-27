@@ -48,10 +48,6 @@ x_source: "crawler"
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 6 · 🔄 0 · 💬 1 · 🔖 0 · 👁 0
-- **关联主题**: [ai-tool-cloning-phenomenon](/concepts/ai-tool-cloning-phenomenon.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2066937645519774205) — @dotey (宝玉)
-[2] [Author page](/entities/authors/dotey.md)
-[3] [Related topic](/concepts/ai-tool-cloning-phenomenon.md)

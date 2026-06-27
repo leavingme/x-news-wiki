@@ -89,10 +89,6 @@ Claude 把脏东西藏缓存里，臃肿但代码库整洁
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 92 · 🔄 16 · 💬 11 · 🔖 0 · 👁 0
-- **关联主题**: [agent-memory-optimization](/concepts/agent-memory-optimization.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2053147480938971585) — @lxfater (铁锤人)
-[2] [Author page](/entities/authors/lxfater.md)
-[3] [Related topic](/concepts/agent-memory-optimization.md)

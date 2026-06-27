@@ -82,8 +82,6 @@ Bankr 和 Clanker 从每一笔 AI 智能体代币交易中收取费用，
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 21 · 🔄 0 · 💬 7 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2017500885803286742) — @LoyalSiman (LOYAL)
-[2] [Author page](/entities/authors/loyalsiman.md)

@@ -62,8 +62,6 @@ x_source: "crawler"
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 6 · 🔄 4 · 💬 0 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2034152337259041139) — @DiannRudy87765 (实用干货铺)
-[2] [Author page](/entities/authors/diannrudy87765.md)

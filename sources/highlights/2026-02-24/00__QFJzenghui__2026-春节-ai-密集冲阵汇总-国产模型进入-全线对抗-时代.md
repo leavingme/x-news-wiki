@@ -84,8 +84,6 @@ x_source: "crawler"
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 11 · 🔄 1 · 💬 0 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2025958127355691477) — @QFJzenghui (李增辉)
-[2] [Author page](/entities/authors/qfjzenghui.md)

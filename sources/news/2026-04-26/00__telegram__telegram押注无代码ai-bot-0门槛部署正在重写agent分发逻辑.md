@@ -52,10 +52,6 @@ https://t.co/xBsBGCc664
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 3409 · 🔄 389 · 💬 156 · 🔖 0 · 👁 0
-- **关联主题**: [no-code-agent-entry](/concepts/no-code-agent-entry.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/telegram/status/2048098691391852966) — @telegram (Telegram Messenger)
-[2] [Author page](/entities/authors/telegram.md)
-[3] [Related topic](/concepts/no-code-agent-entry.md)

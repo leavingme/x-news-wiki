@@ -57,8 +57,6 @@ Our latest addition to the Nemotron family is the highest efficiency, open multi
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 988 · 🔄 137 · 💬 60 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/NVIDIAAI/status/2049159441870717428) — @NVIDIAAI (NVIDIA AI)
-[2] [Author page](/entities/authors/nvidiaai.md)

@@ -56,8 +56,6 @@ Meta 正在通过特殊目的载体（SPV）将 300 亿美元的 AI 基础设施
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 37 · 🔄 9 · 💬 3 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/1986303301831577719) — @bboczeng (勃勃OC)
-[2] [Author page](/entities/authors/bboczeng.md)

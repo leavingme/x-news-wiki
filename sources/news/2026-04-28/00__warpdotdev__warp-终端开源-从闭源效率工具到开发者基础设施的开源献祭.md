@@ -52,8 +52,6 @@ Warp is now open-source. https://t.co/xaJ4BWxbxr
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 7221 · 🔄 877 · 💬 384 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/warpdotdev/status/2049153766977421444) — @warpdotdev (Warp)
-[2] [Author page](/entities/authors/warpdotdev.md)

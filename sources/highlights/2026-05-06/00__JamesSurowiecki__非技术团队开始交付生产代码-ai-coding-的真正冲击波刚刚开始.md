@@ -49,10 +49,6 @@ The last thing you want to hear the CEO of a financial-services firm say is "Non
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 2368 · 🔄 167 · 💬 101 · 🔖 0 · 👁 0
-- **关联主题**: [skill-barrier-collapse](/concepts/skill-barrier-collapse.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/JamesSurowiecki/status/2051722934041886870) — @JamesSurowiecki (James Surowiecki)
-[2] [Author page](/entities/authors/jamessurowiecki.md)
-[3] [Related topic](/concepts/skill-barrier-collapse.md)

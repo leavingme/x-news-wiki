@@ -84,8 +84,6 @@ Agent 有信誉分：干得好加分，干砸了扣分
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 10 · 🔄 2 · 💬 8 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2066400761903469003) — @xiaohu (小互)
-[2] [Author page](/entities/authors/xiaohu.md)

@@ -98,8 +98,6 @@ https://t.co/zZRd9pX4Dg
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 173 · 🔄 50 · 💬 14 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2069783953633157450) — @waveking1314 (断浪)
-[2] [Author page](/entities/authors/waveking1314.md)

@@ -56,8 +56,6 @@ thank you @naval and @elonmusk for thinking out loud all these years. and thank 
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 4 · 🔄 0 · 💬 1 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2058687998368329929) — @oran_ge (Orange AI)
-[2] [Author page](/entities/authors/oran-ge.md)

@@ -55,10 +55,6 @@ x_source: "crawler"
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 5 · 🔄 0 · 💬 8 · 🔖 0 · 👁 0
-- **关联主题**: [skill-vs-mcp-paradigm](/concepts/skill-vs-mcp-paradigm.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2055992093882122727) — @op7418 (歸藏(guizang.ai))
-[2] [Author page](/entities/authors/op7418.md)
-[3] [Related topic](/concepts/skill-vs-mcp-paradigm.md)

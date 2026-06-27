@@ -50,8 +50,6 @@ https://t.co/1p0dHkQUa2
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 11 · 🔄 2 · 💬 4 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2018643628722114807) — @nytchinese (纽约时报中文网)
-[2] [Author page](/entities/authors/nytchinese.md)

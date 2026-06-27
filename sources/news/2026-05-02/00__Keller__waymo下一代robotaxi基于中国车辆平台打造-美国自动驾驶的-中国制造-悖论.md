@@ -48,8 +48,6 @@ Wow, I just learned that Waymo's next-gen robotaxi is built on top of a Chinese 
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 214 · 🔄 11 · 💬 42 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/Keller/status/2050398865170555083) — @Keller (Keller Cliffton)
-[2] [Author page](/entities/authors/keller.md)

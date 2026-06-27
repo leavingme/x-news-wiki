@@ -65,10 +65,6 @@ Our report: https://t.co/nGrNDSaVeo
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 3 · 🔄 1 · 💬 1 · 🔖 0 · 👁 0
-- **关联主题**: [agent-evaluation-frontier](/concepts/agent-evaluation-frontier.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2065779720587788615) — @jiqizhixin (机器之心 JIQIZHIXIN)
-[2] [Author page](/entities/authors/jiqizhixin.md)
-[3] [Related topic](/concepts/agent-evaluation-frontier.md)

@@ -159,8 +159,6 @@ AIDC相关
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 17 · 🔄 3 · 💬 1 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2018638222835003855) — @aiwangupiao (爱玩股票AiWanGuPiao)
-[2] [Author page](/entities/authors/aiwangupiao.md)

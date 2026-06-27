@@ -55,8 +55,6 @@ x_source: "crawler"
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 150 · 🔄 8 · 💬 21 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2035424599153037351) — @TJ_Research (投资TALK君)
-[2] [Author page](/entities/authors/tj-research.md)

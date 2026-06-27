@@ -61,8 +61,6 @@ Claude Code的完整配置，
 - **精选类别**: 📰 头条
 - **优先级**: 78
 - **互动**: ❤️ 378 · 🔄 91 · 💬 3 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2030633094840025150) — @AYi_AInotes (阿绎 AYi)
-[2] [Author page](/entities/authors/ayi-ainotes.md)

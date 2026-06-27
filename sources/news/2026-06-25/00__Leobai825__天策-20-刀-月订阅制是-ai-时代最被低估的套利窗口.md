@@ -76,8 +76,6 @@ AI产品的第一个爆款产品是ChatGPT
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 28 · 🔄 1 · 💬 7 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2070148222593413469) — @Leobai825 (天策)
-[2] [Author page](/entities/authors/leobai825.md)

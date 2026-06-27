@@ -50,10 +50,6 @@ gakki 锐评：知识工具赛道的赢家不会是"模型更强"的那个，而
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 11 · 🔄 2 · 💬 1 · 🔖 0 · 👁 0
-- **关联主题**: [ai-knowledge-tool-competition](/concepts/ai-knowledge-tool-competition.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2065473530829934958) — @dotey (宝玉)
-[2] [Author page](/entities/authors/dotey.md)
-[3] [Related topic](/concepts/ai-knowledge-tool-competition.md)

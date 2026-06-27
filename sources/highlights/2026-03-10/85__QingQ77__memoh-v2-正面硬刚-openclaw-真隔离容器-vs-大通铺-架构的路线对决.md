@@ -54,10 +54,6 @@ https://t.co/G7E8IlYNhE
 - **精选类别**: ✨ 亮点
 - **优先级**: 85
 - **互动**: ❤️ 91 · 🔄 16 · 💬 3 · 🔖 0 · 👁 0
-- **关联主题**: [open-agent-ecosystem](/concepts/open-agent-ecosystem.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2025924101551145401) — @QingQ77 (Geek Lite)
-[2] [Author page](/entities/authors/qingq77.md)
-[3] [Related topic](/concepts/open-agent-ecosystem.md)

@@ -54,10 +54,6 @@ Now, Codex can help with what you’ve been working on without you restating con
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 3986 · 🔄 325 · 💬 210 · 🔖 0 · 👁 0
-- **关联主题**: [agent-memory-optimization](/concepts/agent-memory-optimization.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/OpenAIDevs/status/2046288243768082699) — @OpenAIDevs (OpenAI Developers)
-[2] [Author page](/entities/authors/openaidevs.md)
-[3] [Related topic](/concepts/agent-memory-optimization.md)

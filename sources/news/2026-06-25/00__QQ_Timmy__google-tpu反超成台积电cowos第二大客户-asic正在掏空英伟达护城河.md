@@ -80,10 +80,6 @@ ASIC AI伺服器方面：ASIC滲透率持續提升，26-28年佔比達50% / 52% 
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 105 · 🔄 8 · 💬 13 · 🔖 0 · 👁 0
-- **关联主题**: [semiconductor-supply-chain-geopolitics](/concepts/semiconductor-supply-chain-geopolitics.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2069575251353330078) — @QQ_Timmy (駿HaYaO)
-[2] [Author page](/entities/authors/qq-timmy.md)
-[3] [Related topic](/concepts/semiconductor-supply-chain-geopolitics.md)

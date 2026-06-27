@@ -49,8 +49,6 @@ gakki：这个判断的边界在于：它不区分宣传的策略正当性与否
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 17 · 🔄 0 · 💬 6 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2060925337601798242) — @mranti (Michael Anti)
-[2] [Author page](/entities/authors/mranti.md)

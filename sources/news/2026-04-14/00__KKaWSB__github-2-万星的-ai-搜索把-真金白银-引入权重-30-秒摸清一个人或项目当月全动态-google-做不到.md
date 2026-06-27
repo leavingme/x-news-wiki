@@ -53,8 +53,6 @@ gakki：这个东西的核心价值不是「搜索」，而是把「人在干什
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 274 · 🔄 42 · 💬 8 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2043532376681087267) — @KKaWSB (KK.aWSB)
-[2] [Author page](/entities/authors/kkawsb.md)

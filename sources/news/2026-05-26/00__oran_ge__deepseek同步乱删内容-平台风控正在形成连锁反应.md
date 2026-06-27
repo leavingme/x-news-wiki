@@ -47,8 +47,6 @@ Orange AI仅用五个字点出DeepSeek同样存在「乱删」问题，与前一
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 3 · 🔄 0 · 💬 1 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2059251127770915200) — @oran_ge (Orange AI)
-[2] [Author page](/entities/authors/oran-ge.md)

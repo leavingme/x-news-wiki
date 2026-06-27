@@ -49,8 +49,6 @@ gakki：这是内部工具演示，信息来源单一，实际效果需要独立
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 44 · 🔄 4 · 💬 12 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2059063249753043358) — @dotey (宝玉)
-[2] [Author page](/entities/authors/dotey.md)

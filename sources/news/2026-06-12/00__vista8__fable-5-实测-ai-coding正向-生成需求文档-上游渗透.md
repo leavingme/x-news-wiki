@@ -52,8 +52,6 @@ P0需求点的开发效果。 https://t.co/IbVRWGoXpO
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 14 · 🔄 0 · 💬 3 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2065269199518503388) — @vista8 (向阳乔木)
-[2] [Author page](/entities/authors/vista8.md)

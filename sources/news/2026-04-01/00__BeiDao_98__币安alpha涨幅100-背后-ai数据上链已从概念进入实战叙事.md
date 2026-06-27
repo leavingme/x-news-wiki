@@ -76,10 +76,6 @@ Perle Labs ($PRL) 在币安Alpha上线后涨幅超100%，其核心定位「AI主
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 49 · 🔄 0 · 💬 52 · 🔖 0 · 👁 0
-- **关联主题**: [ai-data-blockchain-verification](/concepts/ai-data-blockchain-verification.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2037083618032652627) — @BeiDao_98 (北岛)
-[2] [Author page](/entities/authors/beidao-98.md)
-[3] [Related topic](/concepts/ai-data-blockchain-verification.md)

@@ -50,8 +50,6 @@ Now everyone just pushes AI slop and doesn’t care as long as CI is green.
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 1052 · 🔄 47 · 💬 65 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/ChShersh/status/2049833776012775558) — @ChShersh (Dmitrii Kovanikov)
-[2] [Author page](/entities/authors/chshersh.md)

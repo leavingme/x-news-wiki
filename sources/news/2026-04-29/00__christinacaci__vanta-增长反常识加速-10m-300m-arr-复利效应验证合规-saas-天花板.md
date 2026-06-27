@@ -51,8 +51,6 @@ It took us two years to grow from $10 mm to $100 mm in Annual Recurring Revenue 
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 393 · 🔄 26 · 💬 25 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/christinacaci/status/2049488924569923633) — @christinacaci (Christina Cacioppo)
-[2] [Author page](/entities/authors/christinacaci.md)

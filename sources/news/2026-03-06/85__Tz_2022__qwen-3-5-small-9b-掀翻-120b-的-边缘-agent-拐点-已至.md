@@ -58,8 +58,6 @@ https://t.co/EAOAf1QFPO
 - **精选类别**: 📰 头条
 - **优先级**: 85
 - **互动**: ❤️ 428 · 🔄 64 · 💬 35 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2028611067387974021) — @Tz_2022 (Tz)
-[2] [Author page](/entities/authors/tz-2022.md)

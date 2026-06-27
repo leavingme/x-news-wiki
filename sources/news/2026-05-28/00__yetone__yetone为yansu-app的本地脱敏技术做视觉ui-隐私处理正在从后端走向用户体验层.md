@@ -54,8 +54,6 @@ gakki锐评：技术能跑和用户能感知是两回事——yetone这一步相
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 2 · 🔄 0 · 💬 1 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2059941536952201504) — @yetone (yetone)
-[2] [Author page](/entities/authors/yetone.md)

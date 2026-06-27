@@ -51,8 +51,6 @@ Claude Mythos 发就发吧，干嘛给 Opus 降智呢 😓
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 336 · 🔄 8 · 💬 39 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2041661731798446119) — @oran_ge (Orange AI)
-[2] [Author page](/entities/authors/oran-ge.md)

@@ -59,10 +59,6 @@ OpenAI 发布了一个插件
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 107 · 🔄 15 · 💬 11 · 🔖 0 · 👁 0
-- **关联主题**: [codex-ecosystem-platform-war](/concepts/codex-ecosystem-platform-war.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2038798288338772247) — @xiaohu (小互)
-[2] [Author page](/entities/authors/xiaohu.md)
-[3] [Related topic](/concepts/codex-ecosystem-platform-war.md)

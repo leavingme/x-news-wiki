@@ -59,8 +59,6 @@ gakki 锐评：这个问题在AI内容爆发时代会被放大一万倍——当
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 9 · 🔄 0 · 💬 1 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2057641746545381886) — @mranti (Michael Anti)
-[2] [Author page](/entities/authors/mranti.md)

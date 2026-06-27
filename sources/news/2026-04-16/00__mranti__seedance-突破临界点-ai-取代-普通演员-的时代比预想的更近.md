@@ -49,8 +49,6 @@ Michael Anti 看了 Seedance 相关的 AI 故事视频后判断：Seedance 在 2
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 203 · 🔄 22 · 💬 23 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2044400958705426751) — @mranti (Michael Anti)
-[2] [Author page](/entities/authors/mranti.md)

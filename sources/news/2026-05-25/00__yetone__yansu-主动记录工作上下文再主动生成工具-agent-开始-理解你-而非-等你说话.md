@@ -66,8 +66,6 @@ Yansu 是一款主动型 Agent 应用。
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 256 · 🔄 18 · 💬 29 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2058816410063863928) — @yetone (yetone)
-[2] [Author page](/entities/authors/yetone.md)

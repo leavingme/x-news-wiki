@@ -56,8 +56,6 @@ xiaolai通过 self talk 劫持自己的潜意识
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 663 · 🔄 96 · 💬 37 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2038401647546950061) — @oran_ge (Orange AI)
-[2] [Author page](/entities/authors/oran-ge.md)

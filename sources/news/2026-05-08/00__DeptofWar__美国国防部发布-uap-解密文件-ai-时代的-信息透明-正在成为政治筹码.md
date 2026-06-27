@@ -49,8 +49,6 @@ DEPARTMENT OF WAR RELEASES UNIDENTIFIED ANOMALOUS PHENOMENA FILES IN HISTORIC TR
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 39316 · 🔄 10113 · 💬 3740 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/DeptofWar/status/2052723504336736284) — @DeptofWar (Department of War 🇺🇸)
-[2] [Author page](/entities/authors/deptofwar.md)

@@ -77,10 +77,6 @@ Bitget 和 Gate 更偏区域深耕和稳健运营。
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 92 · 🔄 10 · 💬 38 · 🔖 0 · 👁 0
-- **关联主题**: [ai-crypto-agent-infra](/concepts/ai-crypto-agent-infra.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2039195074979045731) — @0xKingsKuan (币世王 | 🦅🐬TermMax)
-[2] [Author page](/entities/authors/0xkingskuan.md)
-[3] [Related topic](/concepts/ai-crypto-agent-infra.md)

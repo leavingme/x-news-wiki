@@ -56,8 +56,6 @@ gakki：低门槛赛道卷成红海，高门槛赛道门槛本身是护城河—
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 42 · 🔄 2 · 💬 27 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2059632958378766551) — @lifesinger (Frank Wang 玉伯)
-[2] [Author page](/entities/authors/lifesinger.md)

@@ -59,8 +59,6 @@ GPT-5.5 有时候会把生成的设计图当成"参考灵感"，而不是"严格
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 16 · 🔄 0 · 💬 6 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2050216261213163991) — @vista8 (向阳乔木)
-[2] [Author page](/entities/authors/vista8.md)

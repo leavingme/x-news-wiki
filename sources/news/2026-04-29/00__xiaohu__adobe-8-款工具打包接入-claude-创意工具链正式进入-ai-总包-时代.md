@@ -61,8 +61,6 @@ Adobe 把8款创意工具的打包接进 Claude
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 23 · 🔄 5 · 💬 4 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2049261865856041211) — @xiaohu (小互)
-[2] [Author page](/entities/authors/xiaohu.md)

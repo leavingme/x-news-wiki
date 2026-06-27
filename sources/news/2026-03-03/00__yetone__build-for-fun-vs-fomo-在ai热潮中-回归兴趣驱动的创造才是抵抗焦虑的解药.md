@@ -49,8 +49,6 @@ Build for FOMO ❌
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 125 · 🔄 7 · 💬 8 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2028538487272829141) — @yetone (yetone)
-[2] [Author page](/entities/authors/yetone.md)

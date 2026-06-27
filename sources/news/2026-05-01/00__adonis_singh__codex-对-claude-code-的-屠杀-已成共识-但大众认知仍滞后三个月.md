@@ -51,10 +51,6 @@ it will take a while for the normies to catch up, most still think claude is som
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 519 · 🔄 27 · 💬 40 · 🔖 0 · 👁 0
-- **关联主题**: [codex-ecosystem-platform-war](/concepts/codex-ecosystem-platform-war.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/adonis_singh/status/2050176037888164306) — @adonis_singh (adi)
-[2] [Author page](/entities/authors/adonis-singh.md)
-[3] [Related topic](/concepts/codex-ecosystem-platform-war.md)

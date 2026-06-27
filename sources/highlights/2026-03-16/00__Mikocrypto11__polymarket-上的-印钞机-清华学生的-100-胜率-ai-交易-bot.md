@@ -114,10 +114,6 @@ edge 也是真的
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 166 · 🔄 42 · 💬 10 · 🔖 0 · 👁 0
-- **关联主题**: [ai-crypto-agent-infra](/concepts/ai-crypto-agent-infra.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2033408985970422221) — @Mikocrypto11 (0x_Miko)
-[2] [Author page](/entities/authors/mikocrypto11.md)
-[3] [Related topic](/concepts/ai-crypto-agent-infra.md)

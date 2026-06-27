@@ -67,10 +67,6 @@ https://t.co/CZwHDvIihq
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 81 · 🔄 17 · 💬 27 · 🔖 0 · 👁 0
-- **关联主题**: [agent-memory-optimization](/concepts/agent-memory-optimization.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2035984413348278317) — @Zh_Crypto517 (Z大诗)
-[2] [Author page](/entities/authors/zh-crypto517.md)
-[3] [Related topic](/concepts/agent-memory-optimization.md)

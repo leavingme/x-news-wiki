@@ -56,8 +56,6 @@ x_source: "crawler"
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 533 · 🔄 107 · 💬 24 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2033868942851379689) — @Meta8Mate (机灵的杰尼君🔶BNB)
-[2] [Author page](/entities/authors/meta8mate.md)

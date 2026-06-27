@@ -51,10 +51,6 @@ gakki 锐评：单看一句话信息密度有限，但 Orange AI 此前已在「
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 1 · 🔄 0 · 💬 0 · 🔖 0 · 👁 0
-- **关联主题**: [openclaw-digital-life-philosophy](/concepts/openclaw-digital-life-philosophy.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2063775927147073628) — @oran_ge (Orange AI)
-[2] [Author page](/entities/authors/oran-ge.md)
-[3] [Related topic](/concepts/openclaw-digital-life-philosophy.md)

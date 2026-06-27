@@ -65,8 +65,6 @@ A：这是一个非常典型的问题。根本原因在于：Memory 只是“背
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 56 · 🔄 7 · 💬 12 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2060538728011927954) — @dotey (宝玉)
-[2] [Author page](/entities/authors/dotey.md)

@@ -43,8 +43,6 @@ Vibe Coding + Confirmo https://t.co/TPrW4WJ2pt
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 118 · 🔄 2 · 💬 15 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2027749414450933880) — @yetone (yetone)
-[2] [Author page](/entities/authors/yetone.md)

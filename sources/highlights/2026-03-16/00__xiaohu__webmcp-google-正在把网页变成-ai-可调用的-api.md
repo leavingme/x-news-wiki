@@ -59,10 +59,6 @@ Google 在 Chrome 146 里推了 WebMCP，思路完全反过来。让网站主动
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 356 · 🔄 58 · 💬 33 · 🔖 0 · 👁 0
-- **关联主题**: [agent-browser-token-efficiency](/concepts/agent-browser-token-efficiency.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2033360499509969165) — @xiaohu (小互)
-[2] [Author page](/entities/authors/xiaohu.md)
-[3] [Related topic](/concepts/agent-browser-token-efficiency.md)

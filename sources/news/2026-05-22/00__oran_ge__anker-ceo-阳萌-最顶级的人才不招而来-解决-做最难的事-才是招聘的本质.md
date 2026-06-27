@@ -72,8 +72,6 @@ https://t.co/qg7zxOCmla
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 30 · 🔄 7 · 💬 3 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2057593731239297408) — @oran_ge (Orange AI)
-[2] [Author page](/entities/authors/oran-ge.md)

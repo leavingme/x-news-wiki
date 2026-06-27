@@ -50,8 +50,6 @@ Someone recently suggested to me that the reason OpenClaw moment was so big is b
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 4129 · 🔄 188 · 💬 276 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2042341482531864741) — @karpathy (Andrej Karpathy)
-[2] [Author page](/entities/authors/karpathy.md)

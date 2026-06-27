@@ -53,8 +53,6 @@ Walk away from the terminal, we'll let you know when it's done. https://t.co/Fav
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 16436 · 🔄 935 · 💬 452 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/ClaudeDevs/status/2049154855143649315) — @ClaudeDevs (ClaudeDevs)
-[2] [Author page](/entities/authors/claudedevs.md)

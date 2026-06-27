@@ -59,10 +59,6 @@ Google 花了 27 亿美金买回来的人
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 38 · 🔄 4 · 💬 19 · 🔖 0 · 👁 0
-- **关联主题**: [ai-talent-flight](/concepts/ai-talent-flight.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2067518245847110088) — @xiaohu (小互)
-[2] [Author page](/entities/authors/xiaohu.md)
-[3] [Related topic](/concepts/ai-talent-flight.md)

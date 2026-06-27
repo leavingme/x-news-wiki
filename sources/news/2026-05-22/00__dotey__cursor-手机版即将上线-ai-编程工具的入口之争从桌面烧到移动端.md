@@ -49,8 +49,6 @@ Cursor 的手机版马上也要出了
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 10 · 🔄 0 · 💬 9 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2057607356448473269) — @dotey (宝玉)
-[2] [Author page](/entities/authors/dotey.md)

@@ -57,8 +57,6 @@ AI内容生成越来越多，各种不可信，人之间的信任价值变得更
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 25 · 🔄 1 · 💬 11 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2047835108623912996) — @vista8 (向阳乔木)
-[2] [Author page](/entities/authors/vista8.md)

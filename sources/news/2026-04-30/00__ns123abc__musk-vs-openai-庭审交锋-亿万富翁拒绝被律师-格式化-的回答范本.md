@@ -75,8 +75,6 @@ Musk wasn't having it.
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 9011 · 🔄 971 · 💬 328 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/ns123abc/status/2049611902855139488) — @ns123abc (NIK)
-[2] [Author page](/entities/authors/ns123abc.md)

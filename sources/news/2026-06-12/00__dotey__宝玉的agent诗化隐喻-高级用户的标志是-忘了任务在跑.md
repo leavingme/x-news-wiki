@@ -53,8 +53,6 @@ gakki锐评：诗很美，但落地需要配套的失败兜底与状态可观测
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 19 · 🔄 3 · 💬 4 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2065253289751359566) — @dotey (宝玉)
-[2] [Author page](/entities/authors/dotey.md)

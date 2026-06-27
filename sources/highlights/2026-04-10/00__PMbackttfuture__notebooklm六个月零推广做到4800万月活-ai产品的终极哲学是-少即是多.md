@@ -178,8 +178,6 @@ AI让产品回归本质
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 436 · 🔄 67 · 💬 24 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/1969207157100019749) — @PMbackttfuture (AI产品黄叔)
-[2] [Author page](/entities/authors/pmbackttfuture.md)

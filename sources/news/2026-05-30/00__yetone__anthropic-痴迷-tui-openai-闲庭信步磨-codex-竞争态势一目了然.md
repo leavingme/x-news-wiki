@@ -49,8 +49,6 @@ gakki：TUI vs App，这不是技术选择，是公司气质的终极表达。An
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 51 · 🔄 2 · 💬 7 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2060645467097362730) — @yetone (yetone)
-[2] [Author page](/entities/authors/yetone.md)

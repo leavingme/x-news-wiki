@@ -64,8 +64,6 @@ GitHub: https://t.co/EoHgxhjZol
 - **精选类别**: 📰 头条
 - **优先级**: 88
 - **互动**: ❤️ 60 · 🔄 6 · 💬 14 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2030618704808128560) — @Zesee (Rachel🥥)
-[2] [Author page](/entities/authors/zesee.md)

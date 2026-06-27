@@ -51,10 +51,6 @@ I think it's a good direction (for Read endpoints, not for Write), I tried to us
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 2380 · 🔄 48 · 💬 77 · 🔖 0 · 👁 0
-- **关联主题**: [mcp-vs-cli-debate](/concepts/mcp-vs-cli-debate.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2040838208674734473) — @karpathy (Andrej Karpathy)
-[2] [Author page](/entities/authors/karpathy.md)
-[3] [Related topic](/concepts/mcp-vs-cli-debate.md)

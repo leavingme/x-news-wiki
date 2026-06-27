@@ -51,10 +51,6 @@ gakki 锐评：Anthropic 在 Claude Code 上严防死守，在 Claude Design 上
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 21 · 🔄 0 · 💬 3 · 🔖 0 · 👁 0
-- **关联主题**: [claude-code-source-leak](/concepts/claude-code-source-leak.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2049586049907667168) — @dotey (宝玉)
-[2] [Author page](/entities/authors/dotey.md)
-[3] [Related topic](/concepts/claude-code-source-leak.md)

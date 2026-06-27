@@ -51,8 +51,6 @@ The vessel was reportedly hit by multiple projectiles. https://t.co/J2ZrtdEhGV
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 794 · 🔄 238 · 💬 47 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/Osinttechnical/status/2051091916423569902) — @Osinttechnical (OSINTtechnical)
-[2] [Author page](/entities/authors/osinttechnical.md)

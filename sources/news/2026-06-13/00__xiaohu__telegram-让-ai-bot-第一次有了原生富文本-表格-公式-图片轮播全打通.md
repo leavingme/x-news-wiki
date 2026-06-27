@@ -69,8 +69,6 @@ Telegram 发布重大更新
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 44 · 🔄 4 · 💬 15 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2065614907425591681) — @xiaohu (小互)
-[2] [Author page](/entities/authors/xiaohu.md)

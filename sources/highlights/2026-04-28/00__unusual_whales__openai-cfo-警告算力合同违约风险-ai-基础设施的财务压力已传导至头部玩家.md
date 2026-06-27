@@ -51,10 +51,6 @@ BREAKING: OpenAI's Chief Financial Officer Sarah Friar has expressed worry that 
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 2105 · 🔄 204 · 💬 209 · 🔖 0 · 👁 0
-- **关联主题**: [ai-company-profitability-crisis](/concepts/ai-company-profitability-crisis.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/unusual_whales/status/2048953095137460374) — @unusual_whales (unusual_whales)
-[2] [Author page](/entities/authors/unusual-whales.md)
-[3] [Related topic](/concepts/ai-company-profitability-crisis.md)

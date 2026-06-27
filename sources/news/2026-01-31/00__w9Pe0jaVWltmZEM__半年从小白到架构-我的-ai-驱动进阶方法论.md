@@ -57,8 +57,6 @@ x_source: "crawler"
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 9 · 🔄 0 · 💬 3 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2017565315883004179) — @w9Pe0jaVWltmZEM (小八)
-[2] [Author page](/entities/authors/w9pe0javwltmzem.md)

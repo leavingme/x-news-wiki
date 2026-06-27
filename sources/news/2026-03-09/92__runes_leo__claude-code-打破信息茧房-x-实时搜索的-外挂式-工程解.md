@@ -57,8 +57,6 @@ x_source: "crawler"
 - **精选类别**: 📰 头条
 - **优先级**: 92
 - **互动**: ❤️ 89 · 🔄 14 · 💬 9 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2030787396976132253) — @runes_leo (Leo)
-[2] [Author page](/entities/authors/runes-leo.md)

@@ -106,10 +106,6 @@ https://t.co/S9Tzvq3qXn
 - **精选类别**: ✨ 亮点
 - **优先级**: 85
 - **互动**: ❤️ 57 · 🔄 8 · 💬 37 · 🔖 0 · 👁 0
-- **关联主题**: [no-code-agent-entry](/concepts/no-code-agent-entry.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2032315878809960834) — @nftsiy (0x思远)
-[2] [Author page](/entities/authors/nftsiy.md)
-[3] [Related topic](/concepts/no-code-agent-entry.md)

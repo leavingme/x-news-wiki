@@ -54,8 +54,6 @@ Google I/O 2026..
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 57 · 🔄 2 · 💬 21 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2056754854488609133) — @xiaohu (小互)
-[2] [Author page](/entities/authors/xiaohu.md)

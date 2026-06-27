@@ -70,10 +70,6 @@ https://t.co/eKFXHfIjTE
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 3486 · 🔄 249 · 💬 86 · 🔖 0 · 👁 0
-- **关联主题**: [political-intelligence-arbitrage](/concepts/political-intelligence-arbitrage.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2023471393414041604) — @carverfomo (Carver)
-[2] [Author page](/entities/authors/carverfomo.md)
-[3] [Related topic](/concepts/political-intelligence-arbitrage.md)

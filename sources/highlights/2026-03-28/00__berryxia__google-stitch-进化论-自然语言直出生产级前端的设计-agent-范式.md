@@ -62,8 +62,6 @@ Stitch 从 Google Labs 正式进化成 AI 设计画布！
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 19 · 🔄 5 · 💬 1 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2034401048446824952) — @berryxia (Berryxia.AI)
-[2] [Author page](/entities/authors/berryxia.md)

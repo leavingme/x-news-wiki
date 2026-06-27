@@ -88,10 +88,6 @@ Claude Code 是本地运行在终端中的工具，直接与模型 API 通信，
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 57 · 🔄 11 · 💬 5 · 🔖 0 · 👁 0
-- **关联主题**: [claude-code-leaked-architecture](/concepts/claude-code-leaked-architecture.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2038963435271323791) — @MMMusol (Musolsol.𝟎𝐱𝐔)
-[2] [Author page](/entities/authors/mmmusol.md)
-[3] [Related topic](/concepts/claude-code-leaked-architecture.md)

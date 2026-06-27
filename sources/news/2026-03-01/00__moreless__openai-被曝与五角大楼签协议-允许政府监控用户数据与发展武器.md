@@ -43,8 +43,6 @@ x_source: "crawler"
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 43 · 🔄 10 · 💬 4 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2027862591008338354) — @moreless (moreless)
-[2] [Author page](/entities/authors/moreless.md)

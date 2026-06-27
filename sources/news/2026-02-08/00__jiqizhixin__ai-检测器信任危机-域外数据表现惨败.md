@@ -58,8 +58,6 @@ Paper: https://t.co/4k9v1l8jxC
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 27 · 🔄 2 · 💬 1 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2016442737613230439) — @jiqizhixin (机器之心 JIQIZHIXIN)
-[2] [Author page](/entities/authors/jiqizhixin.md)

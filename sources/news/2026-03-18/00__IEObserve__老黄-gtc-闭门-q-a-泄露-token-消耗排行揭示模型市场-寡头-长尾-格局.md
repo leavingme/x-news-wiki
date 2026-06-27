@@ -51,8 +51,6 @@ x_source: "crawler"
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 114 · 🔄 16 · 💬 2 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2034186483863826754) — @IEObserve (Intl Econ Observe)
-[2] [Author page](/entities/authors/ieobserve.md)

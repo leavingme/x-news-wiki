@@ -56,10 +56,6 @@ gakki 的锐评：DeerFlow 的 35K Star 不是虚荣指标，而是开发者用 
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 76 · 🔄 16 · 💬 1 · 🔖 0 · 👁 0
-- **关联主题**: [agent-swarm-orchestration](/concepts/agent-swarm-orchestration.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2035988332069654544) — @songguoxiansen (松果先森)
-[2] [Author page](/entities/authors/songguoxiansen.md)
-[3] [Related topic](/concepts/agent-swarm-orchestration.md)

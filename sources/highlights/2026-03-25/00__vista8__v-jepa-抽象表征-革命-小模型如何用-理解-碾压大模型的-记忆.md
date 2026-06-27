@@ -145,8 +145,6 @@ V-JEPA的成功，可能给我们指出了一个方向：
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 59 · 🔄 9 · 💬 10 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2036428144954187966) — @vista8 (向阳乔木)
-[2] [Author page](/entities/authors/vista8.md)

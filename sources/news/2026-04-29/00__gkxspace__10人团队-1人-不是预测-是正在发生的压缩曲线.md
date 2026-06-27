@@ -56,8 +56,6 @@ gakki：这条推文的核心价值不在于结论，而在于「可量化的压
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 1 · 🔄 0 · 💬 4 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2049301288865718447) — @gkxspace (余温)
-[2] [Author page](/entities/authors/gkxspace.md)

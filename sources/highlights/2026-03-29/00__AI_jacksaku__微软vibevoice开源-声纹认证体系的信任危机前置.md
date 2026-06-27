@@ -64,8 +64,6 @@ x_source: "crawler"
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 2073 · 🔄 475 · 💬 24 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2037767893019144287) — @AI_jacksaku (阿川 | AI thinking)
-[2] [Author page](/entities/authors/ai-jacksaku.md)

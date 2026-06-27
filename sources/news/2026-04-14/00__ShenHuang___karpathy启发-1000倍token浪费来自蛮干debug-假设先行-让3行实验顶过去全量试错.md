@@ -63,8 +63,6 @@ AI 列了 5 个假设。其中第 3 个没有任何反对证据。
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 1841 · 🔄 181 · 💬 45 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2043469166418735204) — @ShenHuang_ (Shen Huang)
-[2] [Author page](/entities/authors/shenhuang.md)

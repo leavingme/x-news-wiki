@@ -58,8 +58,6 @@ https://t.co/Sxn9PR4TZ2
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 285 · 🔄 62 · 💬 5 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2041074070956216441) — @nash_su (nash_su - e/acc)
-[2] [Author page](/entities/authors/nash-su.md)

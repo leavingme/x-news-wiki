@@ -49,10 +49,6 @@ Congratulations to my good friend Jensen Huang on being awarded an Honorary Doct
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 2760 · 🔄 316 · 💬 88 · 🔖 0 · 👁 0
-- **关联主题**: [nvidia-compute-moat](/concepts/nvidia-compute-moat.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/LipBuTan1/status/2053523615304294655) — @LipBuTan1 (Lip-Bu Tan)
-[2] [Author page](/entities/authors/lipbutan1.md)
-[3] [Related topic](/concepts/nvidia-compute-moat.md)

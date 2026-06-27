@@ -85,10 +85,6 @@ OpenAI 把问题反过来想：那好行为会不会也泛化？
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 61 · 🔄 8 · 💬 1 · 🔖 0 · 👁 0
-- **关联主题**: [multi-model-alignment](/concepts/multi-model-alignment.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2067739166331552179) — @oran_ge (Orange AI)
-[2] [Author page](/entities/authors/oran-ge.md)
-[3] [Related topic](/concepts/multi-model-alignment.md)

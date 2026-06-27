@@ -89,8 +89,6 @@ Claude 把脏东西藏缓存里，臃肿但代码库整洁
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 1 · 🔄 0 · 💬 0 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2053146640694005862) — @lxfater (铁锤人)
-[2] [Author page](/entities/authors/lxfater.md)

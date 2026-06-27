@@ -50,10 +50,6 @@ gakki 锐评：这是给"AI 抹平一切技术差"泼的第一瓢冷水——逆
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 4 · 🔄 0 · 💬 1 · 🔖 0 · 👁 0
-- **关联主题**: [ai-coding-reverse-engineering](/concepts/ai-coding-reverse-engineering.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2066033925449765350) — @dotey (宝玉)
-[2] [Author page](/entities/authors/dotey.md)
-[3] [Related topic](/concepts/ai-coding-reverse-engineering.md)

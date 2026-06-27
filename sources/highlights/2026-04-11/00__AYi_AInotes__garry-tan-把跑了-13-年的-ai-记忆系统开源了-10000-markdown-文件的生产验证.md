@@ -58,8 +58,6 @@ github 地址老规矩评论区自取👇
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 554 · 🔄 105 · 💬 8 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2042594916862431669) — @AYi_AInotes (阿绎 AYi)
-[2] [Author page](/entities/authors/ayi-ainotes.md)

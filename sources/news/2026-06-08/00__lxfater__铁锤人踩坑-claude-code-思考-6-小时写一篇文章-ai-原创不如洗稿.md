@@ -54,8 +54,6 @@ gakki 锐评：'AI 写原创不如洗稿'是反直觉但务实的判断——当
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 11 · 🔄 0 · 💬 9 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2063977925792399462) — @lxfater (铁锤人)
-[2] [Author page](/entities/authors/lxfater.md)

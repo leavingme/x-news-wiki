@@ -60,10 +60,6 @@ Agent 时代， 需要 CLI，然而更需要的，是优秀的 API 型 SaaS 服�
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 179 · 🔄 15 · 💬 36 · 🔖 0 · 👁 0
-- **关联主题**: [mcp-vs-cli-debate](/concepts/mcp-vs-cli-debate.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2035010592981852213) — @lifesinger (Frank Wang 玉伯)
-[2] [Author page](/entities/authors/lifesinger.md)
-[3] [Related topic](/concepts/mcp-vs-cli-debate.md)

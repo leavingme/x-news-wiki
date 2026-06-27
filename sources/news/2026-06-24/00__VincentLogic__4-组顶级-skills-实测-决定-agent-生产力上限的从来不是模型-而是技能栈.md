@@ -69,10 +69,6 @@ Translation: “正式出版”级翻译模式（分析->翻译->校正->润色�
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 804 · 🔄 151 · 💬 69 · 🔖 0 · 👁 0
-- **关联主题**: [skills-ecosystem-standards](/concepts/skills-ecosystem-standards.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2052919852541878626) — @VincentLogic (Vincent | 信号＞噪音)
-[2] [Author page](/entities/authors/vincentlogic.md)
-[3] [Related topic](/concepts/skills-ecosystem-standards.md)

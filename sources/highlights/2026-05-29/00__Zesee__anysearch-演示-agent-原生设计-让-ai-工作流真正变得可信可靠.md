@@ -55,10 +55,6 @@ Agent 原生设计：让你的 AI 助手拥有上帝视角
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 2 · 🔄 1 · 💬 1 · 🔖 0 · 👁 0
-- **关联主题**: [agent-data-intelligence-infra](/concepts/agent-data-intelligence-infra.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2060269099431637406) — @Zesee (Rachel🥥)
-[2] [Author page](/entities/authors/zesee.md)
-[3] [Related topic](/concepts/agent-data-intelligence-infra.md)

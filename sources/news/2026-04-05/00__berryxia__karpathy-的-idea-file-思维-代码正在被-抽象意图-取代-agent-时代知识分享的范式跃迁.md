@@ -62,8 +62,6 @@ https://t.co/bhdNiyx3Jl
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 341 · 🔄 61 · 💬 8 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2040554947415244831) — @berryxia (Berryxia.AI)
-[2] [Author page](/entities/authors/berryxia.md)

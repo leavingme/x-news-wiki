@@ -51,10 +51,6 @@ x_source: "crawler"
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 156 · 🔄 2 · 💬 36 · 🔖 0 · 👁 0
-- **关联主题**: [skill-barrier-collapse](/concepts/skill-barrier-collapse.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2033909380165603764) — @lifesinger (Frank Wang 玉伯)
-[2] [Author page](/entities/authors/lifesinger.md)
-[3] [Related topic](/concepts/skill-barrier-collapse.md)

@@ -55,8 +55,6 @@ https://t.co/ZwIleztQbM https://t.co/RJPVK1wb8Z
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 14 · 🔄 0 · 💬 7 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2047510905047671187) — @vista8 (向阳乔木)
-[2] [Author page](/entities/authors/vista8.md)

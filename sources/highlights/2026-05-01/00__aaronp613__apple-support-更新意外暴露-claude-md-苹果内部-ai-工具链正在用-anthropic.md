@@ -49,10 +49,6 @@ Apple accidentally left Claude.md files in today's Apple Support app update (v5.
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 5299 · 🔄 299 · 💬 79 · 🔖 0 · 👁 0
-- **关联主题**: [ai-platform-integration-risk](/concepts/ai-platform-integration-risk.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/aaronp613/status/2049986504617820551) — @aaronp613 (Aaron)
-[2] [Author page](/entities/authors/aaronp613.md)
-[3] [Related topic](/concepts/ai-platform-integration-risk.md)

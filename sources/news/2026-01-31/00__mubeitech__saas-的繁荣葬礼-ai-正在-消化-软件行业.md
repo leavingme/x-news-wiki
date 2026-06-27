@@ -125,8 +125,6 @@ AI代理的可靠性正在飞速提升。
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 19 · 🔄 4 · 💬 3 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2017519597717487970) — @mubeitech (墓碑科技)
-[2] [Author page](/entities/authors/mubeitech.md)

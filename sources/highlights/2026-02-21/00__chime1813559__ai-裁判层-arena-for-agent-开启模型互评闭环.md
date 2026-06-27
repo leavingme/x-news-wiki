@@ -58,8 +58,6 @@ AI创造。AI响应。您的代理决定。
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 36 · 🔄 45 · 💬 0 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2024930784826507359) — @chime1813559 (ALPHY _ WEB3💙 WOW 🟣)
-[2] [Author page](/entities/authors/chime1813559.md)

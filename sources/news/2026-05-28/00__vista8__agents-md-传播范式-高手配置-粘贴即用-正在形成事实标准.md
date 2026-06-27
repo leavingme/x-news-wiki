@@ -63,8 +63,6 @@ Agent 文件地址见评论
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 35 · 🔄 3 · 💬 7 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2059809889472684061) — @vista8 (向阳乔木)
-[2] [Author page](/entities/authors/vista8.md)

@@ -51,8 +51,6 @@ gakki 锐评：这不是一个功能更新，这是对AI工具设计哲学的重
 - **精选类别**: 📰 头条
 - **优先级**: 88
 - **互动**: ❤️ 373 · 🔄 48 · 💬 14 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2029381909575577852) — @victor_wu (victor-wu.eth)
-[2] [Author page](/entities/authors/victor-wu.md)

@@ -93,8 +93,6 @@ Yanhua @yanhua1010 — AI 产品跟踪博主 · 持续整理 Claude 系列每次
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 740 · 🔄 179 · 💬 27 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2036973408282653040) — @xiaoerzhan (小耳👂Jane｜Xiaoer)
-[2] [Author page](/entities/authors/xiaoerzhan.md)

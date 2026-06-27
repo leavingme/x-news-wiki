@@ -95,8 +95,6 @@ Expo想證明他們的AI是「世界上最好的AI駭客」，「他們沒有只
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 170 · 🔄 7 · 💬 1 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/1961800167277171027) — @IEObserve (Intl Econ Observe)
-[2] [Author page](/entities/authors/ieobserve.md)

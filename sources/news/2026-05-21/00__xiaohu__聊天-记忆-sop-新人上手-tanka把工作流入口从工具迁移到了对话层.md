@@ -59,8 +59,6 @@ Tanka 另一件漂亮的事，是把"聊天"变成了工作流入口。
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 0 · 🔄 0 · 💬 1 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2057259625117032760) — @xiaohu (小互)
-[2] [Author page](/entities/authors/xiaohu.md)

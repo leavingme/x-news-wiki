@@ -65,8 +65,6 @@ x_source: "crawler"
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 2460 · 🔄 794 · 💬 72 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2015364275070755048) — @MissCat_AI (猫小姐学AI)
-[2] [Author page](/entities/authors/misscat-ai.md)

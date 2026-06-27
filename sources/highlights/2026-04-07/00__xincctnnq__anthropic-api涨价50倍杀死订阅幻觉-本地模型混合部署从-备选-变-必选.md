@@ -65,8 +65,6 @@ gakki锐评：很多人还在讨论本地模型的「体验差距」，但算账
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 5 · 🔄 0 · 💬 3 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2041152259900469725) — @xincctnnq (币圈女菩萨 | Pizza披萨🍕)
-[2] [Author page](/entities/authors/xincctnnq.md)

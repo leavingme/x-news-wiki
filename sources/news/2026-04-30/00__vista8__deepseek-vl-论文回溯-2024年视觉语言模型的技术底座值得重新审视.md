@@ -48,8 +48,6 @@ DeepSeek VL论文（2024年） ，建议搭配最新论文一起看
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 0 · 🔄 0 · 💬 0 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2049892103002390737) — @vista8 (向阳乔木)
-[2] [Author page](/entities/authors/vista8.md)

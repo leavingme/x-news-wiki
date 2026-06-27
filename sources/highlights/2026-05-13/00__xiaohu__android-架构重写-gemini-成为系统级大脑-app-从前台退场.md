@@ -66,8 +66,6 @@ Google 官方甚至直接用了：“proactive AI features”。
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 18 · 🔄 1 · 💬 6 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2054353278557929963) — @xiaohu (小互)
-[2] [Author page](/entities/authors/xiaohu.md)

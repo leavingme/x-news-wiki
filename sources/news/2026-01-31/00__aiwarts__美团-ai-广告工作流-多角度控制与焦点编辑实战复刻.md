@@ -52,8 +52,6 @@ x_source: "crawler"
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 302 · 🔄 47 · 💬 21 · 🔖 316 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://twitter.com/aiwarts/status/2016315560431386791) — @aiwarts (卡尔的AI沃茨)
-[2] [Author page](/entities/authors/aiwarts.md)

@@ -55,8 +55,6 @@ https://t.co/bXaIqnOgSd
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 7 · 🔄 0 · 💬 0 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2051292624661909726) — @xiaohu (小互)
-[2] [Author page](/entities/authors/xiaohu.md)

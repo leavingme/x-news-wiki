@@ -87,10 +87,6 @@ Karpathy 分享了他如何构建本地的 AI 知识库
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 640 · 🔄 130 · 💬 23 · 🔖 0 · 👁 0
-- **关联主题**: [knowledge-management-death](/concepts/knowledge-management-death.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2039898050697839041) — @op7418 (歸藏(guizang.ai))
-[2] [Author page](/entities/authors/op7418.md)
-[3] [Related topic](/concepts/knowledge-management-death.md)

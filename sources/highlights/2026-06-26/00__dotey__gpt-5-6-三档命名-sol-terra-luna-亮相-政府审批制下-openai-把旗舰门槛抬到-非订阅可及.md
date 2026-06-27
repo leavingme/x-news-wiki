@@ -74,10 +74,6 @@ Sol 的 ultra 模式如果真能稳定运行，意味着复杂的多步骤任务
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 49 · 🔄 3 · 💬 5 · 🔖 0 · 👁 0
-- **关联主题**: [ai-reasoning-tier-strategy](/concepts/ai-reasoning-tier-strategy.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2070589767608144370) — @dotey (宝玉)
-[2] [Author page](/entities/authors/dotey.md)
-[3] [Related topic](/concepts/ai-reasoning-tier-strategy.md)

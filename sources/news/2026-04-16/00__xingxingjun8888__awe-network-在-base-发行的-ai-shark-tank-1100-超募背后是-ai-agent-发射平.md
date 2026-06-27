@@ -71,8 +71,6 @@ Trade Clash 是近日即将在该平台发射的第二期项目， @TradeClashAI
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 100 · 🔄 0 · 💬 108 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/1960674845076938808) — @xingxingjun8888 (星星菌🦖| MemeMax⚡️)
-[2] [Author page](/entities/authors/xingxingjun8888.md)

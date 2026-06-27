@@ -55,10 +55,6 @@ GitHub：https://t.co/ss7I8y4mYN
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 1261 · 🔄 257 · 💬 54 · 🔖 0 · 👁 0
-- **关联主题**: [agent-browser-token-efficiency](/concepts/agent-browser-token-efficiency.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2032381157271343546) — @GoJun315 (高军)
-[2] [Author page](/entities/authors/gojun315.md)
-[3] [Related topic](/concepts/agent-browser-token-efficiency.md)

@@ -63,8 +63,6 @@ Exa 融了 2.5 亿验证了一件事：这个距离可以缩短到一句话。
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 9 · 🔄 3 · 💬 6 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2061961813076709668) — @gkxspace (余温)
-[2] [Author page](/entities/authors/gkxspace.md)

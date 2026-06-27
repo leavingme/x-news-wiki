@@ -67,8 +67,6 @@ AI 使用八荣八耻
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 272 · 🔄 21 · 💬 32 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2023143410291315182) — @dotey (宝玉)
-[2] [Author page](/entities/authors/dotey.md)

@@ -47,8 +47,6 @@ x_source: "crawler"
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 535 · 🔄 71 · 💬 56 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2022508938135306611) — @mranti (Michael Anti)
-[2] [Author page](/entities/authors/mranti.md)

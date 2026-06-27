@@ -67,8 +67,6 @@ Claude Code创始人分享的15个隐藏功能，你知道几个：
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 4 · 🔄 0 · 💬 1 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2038813491826696317) — @zstmfhy (AI奶爸)
-[2] [Author page](/entities/authors/zstmfhy.md)

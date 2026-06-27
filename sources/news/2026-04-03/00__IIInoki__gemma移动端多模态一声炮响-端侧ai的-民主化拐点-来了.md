@@ -59,8 +59,6 @@ E2B 和 E4B 模型本身只有 2.3B 和 4.5B（Effectively），但是带上 emb
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 47 · 🔄 3 · 💬 2 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2039757998579486958) — @IIInoki (鹿 𝕟𝕠𝕜𝕚𝕟𝕠𝕜𝕚 祥子 DucKDE)
-[2] [Author page](/entities/authors/iiinoki.md)

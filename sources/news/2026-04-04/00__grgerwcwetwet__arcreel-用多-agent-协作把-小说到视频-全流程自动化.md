@@ -54,8 +54,6 @@ https://t.co/xo0jDnooVn https://t.co/peBStoAJBx
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 98 · 🔄 20 · 💬 2 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2040050537530634329) — @grgerwcwetwet (周览资源)
-[2] [Author page](/entities/authors/grgerwcwetwet.md)

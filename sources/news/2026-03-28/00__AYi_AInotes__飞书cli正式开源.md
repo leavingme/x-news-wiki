@@ -83,8 +83,6 @@ CLI 是给 AI 设计的，一行指令直接调用全部功能，
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 426 · 🔄 80 · 💬 18 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2037850182256361946) — @AYi_AInotes (阿绎 AYi)
-[2] [Author page](/entities/authors/ayi-ainotes.md)

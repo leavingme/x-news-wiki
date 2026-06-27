@@ -53,8 +53,6 @@ Now available in ChatGPT and Codex. https://t.co/rPLTk99ZH5
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 49369 · 🔄 6709 · 💬 2257 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/OpenAI/status/2047376561205325845) — @OpenAI (OpenAI)
-[2] [Author page](/entities/authors/openai.md)

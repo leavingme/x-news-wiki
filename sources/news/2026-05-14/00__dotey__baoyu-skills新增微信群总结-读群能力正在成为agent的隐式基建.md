@@ -59,8 +59,6 @@ Claude Code + Claude Opus 4.6 效果最佳
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 17 · 🔄 6 · 💬 3 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2054768295534846239) — @dotey (宝玉)
-[2] [Author page](/entities/authors/dotey.md)

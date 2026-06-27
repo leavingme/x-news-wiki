@@ -51,10 +51,6 @@ Robots can now coordinate services, monetize individual skills, and settle trans
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 200 · 🔄 58 · 💬 15 · 🔖 0 · 👁 0
-- **关联主题**: [ai-agent-crypto-infra](/concepts/ai-agent-crypto-infra.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/peaq/status/2054195691367416067) — @peaq (peaq)
-[2] [Author page](/entities/authors/peaq.md)
-[3] [Related topic](/concepts/ai-agent-crypto-infra.md)

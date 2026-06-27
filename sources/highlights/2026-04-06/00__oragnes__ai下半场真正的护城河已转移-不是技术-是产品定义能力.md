@@ -62,8 +62,6 @@ x_source: "crawler"
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 250 · 🔄 61 · 💬 9 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2041076782355677601) — @oragnes (比特币橙子Trader)
-[2] [Author page](/entities/authors/oragnes.md)

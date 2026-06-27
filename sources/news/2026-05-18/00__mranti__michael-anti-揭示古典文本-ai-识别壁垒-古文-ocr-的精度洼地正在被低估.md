@@ -52,8 +52,6 @@ gakki 的锐评：当行业都在追逐 AGI 叙事时，真正被忽略的是古
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 0 · 🔄 0 · 💬 0 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2056225045991858314) — @mranti (Michael Anti)
-[2] [Author page](/entities/authors/mranti.md)

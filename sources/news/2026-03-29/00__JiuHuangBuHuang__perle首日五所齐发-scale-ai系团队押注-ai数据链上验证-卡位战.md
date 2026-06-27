@@ -53,8 +53,6 @@ Perle 做的是 AI 训练数据的链上验证，团队从 Scale AI 出来的，
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 40 · 🔄 0 · 💬 39 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2037769251575001407) — @JiuHuangBuHuang (韭黄其实不太黄🤸😍)
-[2] [Author page](/entities/authors/jiuhuangbuhuang.md)

@@ -63,10 +63,6 @@ https://t.co/f37iUDiRbn
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 164 · 🔄 30 · 💬 8 · 🔖 0 · 👁 0
-- **关联主题**: [agent-memory-optimization](/concepts/agent-memory-optimization.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2030616953983828456) — @chenchengpro (陈成)
-[2] [Author page](/entities/authors/chenchengpro.md)
-[3] [Related topic](/concepts/agent-memory-optimization.md)

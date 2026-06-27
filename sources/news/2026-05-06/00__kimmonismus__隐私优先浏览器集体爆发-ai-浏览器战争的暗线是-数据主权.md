@@ -49,8 +49,6 @@ Privacy-first browsers are definitely having a moment :)
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 43 · 🔄 3 · 💬 2 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/kimmonismus/status/2051814274151145731) — @kimmonismus (Chubby♨️)
-[2] [Author page](/entities/authors/kimmonismus.md)

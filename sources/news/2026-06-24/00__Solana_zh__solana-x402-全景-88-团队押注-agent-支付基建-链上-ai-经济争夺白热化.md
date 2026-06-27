@@ -105,10 +105,6 @@ https://t.co/MH9l48PqcS (来自 @solana Foundation)
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 120 · 🔄 44 · 💬 22 · 🔖 0 · 👁 0
-- **关联主题**: [ai-agent-crypto-infra](/concepts/ai-agent-crypto-infra.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2059453858280071321) — @Solana_zh (Solar (Solana中文社群))
-[2] [Author page](/entities/authors/solana-zh.md)
-[3] [Related topic](/concepts/ai-agent-crypto-infra.md)

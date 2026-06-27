@@ -52,8 +52,6 @@ gakki：「『看完这篇反而转向 Codex』是一个有趣的用户行为—
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 195 · 🔄 23 · 💬 12 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2038276251870187639) — @gkxspace (余温)
-[2] [Author page](/entities/authors/gkxspace.md)

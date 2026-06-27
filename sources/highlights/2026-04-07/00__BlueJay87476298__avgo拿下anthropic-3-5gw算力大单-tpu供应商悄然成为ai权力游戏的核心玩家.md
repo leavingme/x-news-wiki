@@ -61,10 +61,6 @@ https://t.co/ICx5iuAdjg
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 5 · 🔄 1 · 💬 0 · 🔖 0 · 👁 0
-- **关联主题**: [geopolitics-and-compute](/concepts/geopolitics-and-compute.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2041272158626971828) — @BlueJay87476298 (BlueJay)
-[2] [Author page](/entities/authors/bluejay87476298.md)
-[3] [Related topic](/concepts/geopolitics-and-compute.md)

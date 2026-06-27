@@ -53,10 +53,6 @@ https://t.co/E8P4XNnuwd https://t.co/TFhDVGHfFu
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 21 · 🔄 1 · 💬 4 · 🔖 0 · 👁 0
-- **关联主题**: [ai-tool-subscription-value](/concepts/ai-tool-subscription-value.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2050183561316016186) — @gkxspace (余温)
-[2] [Author page](/entities/authors/gkxspace.md)
-[3] [Related topic](/concepts/ai-tool-subscription-value.md)

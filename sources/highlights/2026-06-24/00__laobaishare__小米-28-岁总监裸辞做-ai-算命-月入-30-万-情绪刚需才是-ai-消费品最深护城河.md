@@ -65,8 +65,6 @@ AI 塔罗准备上北美，月费 9.9-15.9 美元，预约 3 万多人了；
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 344 · 🔄 36 · 💬 148 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2069208829494165944) — @laobaishare (老白（每日 AI 干货✊）)
-[2] [Author page](/entities/authors/laobaishare.md)

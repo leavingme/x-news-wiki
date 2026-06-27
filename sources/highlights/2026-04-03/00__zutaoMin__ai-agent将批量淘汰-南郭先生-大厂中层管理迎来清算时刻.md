@@ -52,8 +52,6 @@ AI agent带来的企业效率的提升，大量尸位素餐，南郭先生要显
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 12 · 🔄 2 · 💬 2 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2027590027299913807) — @zutaoMin (闵祖涛)
-[2] [Author page](/entities/authors/zutaomin.md)

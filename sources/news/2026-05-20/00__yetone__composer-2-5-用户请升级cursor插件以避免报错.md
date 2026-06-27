@@ -47,8 +47,6 @@ yetone 提醒：使用 Composer 2.5 模型时如遇报错，需将 Alma 的 Curs
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 1 · 🔄 0 · 💬 0 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2057169902356836376) — @yetone (yetone)
-[2] [Author page](/entities/authors/yetone.md)

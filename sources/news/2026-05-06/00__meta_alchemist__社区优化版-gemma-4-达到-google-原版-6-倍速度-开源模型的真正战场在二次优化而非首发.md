@@ -56,10 +56,6 @@ Gemma 4 is notorious for:
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 1215 · 🔄 102 · 💬 33 · 🔖 0 · 👁 0
-- **关联主题**: [gemma-4-mobile-agent](/concepts/gemma-4-mobile-agent.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/meta_alchemist/status/2051947620726382660) — @meta_alchemist (Meta Alchemist)
-[2] [Author page](/entities/authors/meta-alchemist.md)
-[3] [Related topic](/concepts/gemma-4-mobile-agent.md)

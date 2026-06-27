@@ -160,8 +160,6 @@ AI 产品竞争的核心只有两个字：
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 132 · 🔄 17 · 💬 23 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2021890916441858242) — @kugo_A10 (库哥)
-[2] [Author page](/entities/authors/kugo-a10.md)

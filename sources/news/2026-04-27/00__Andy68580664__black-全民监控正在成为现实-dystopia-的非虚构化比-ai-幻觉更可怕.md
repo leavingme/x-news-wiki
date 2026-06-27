@@ -54,8 +54,6 @@ It's not a hoax or a joke.
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 7 · 🔄 4 · 💬 2 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/Andy68580664/status/2048586636988919881) — @Andy68580664 (Andy)
-[2] [Author page](/entities/authors/andy68580664.md)

@@ -53,8 +53,6 @@ Google 将 Plus会员价格由原来的9.99美金
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 125 · 🔄 5 · 💬 57 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2064160975406903691) — @xiaohu (小互)
-[2] [Author page](/entities/authors/xiaohu.md)

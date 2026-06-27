@@ -59,8 +59,6 @@ Refero Styles：给AI Agent用的前端设计参考网站。
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 13 · 🔄 1 · 💬 6 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2052208714526900278) — @vista8 (向阳乔木)
-[2] [Author page](/entities/authors/vista8.md)

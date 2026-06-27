@@ -49,8 +49,6 @@ x_source: "crawler"
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 2 · 🔄 0 · 💬 0 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2024903527630561472) — @chariots96 (契丹斯基.哈布斯堡)
-[2] [Author page](/entities/authors/chariots96.md)

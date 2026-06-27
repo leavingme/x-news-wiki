@@ -51,10 +51,6 @@ Available globally for all @GeminiApp users. https://t.co/VuhlvehFuU
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 16015 · 🔄 1466 · 💬 518 · 🔖 0 · 👁 0
-- **关联主题**: [gemini-desktop-super-app-integration](/concepts/gemini-desktop-super-app-integration.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/sundarpichai/status/2049519281600373159) — @sundarpichai (Sundar Pichai)
-[2] [Author page](/entities/authors/sundarpichai.md)
-[3] [Related topic](/concepts/gemini-desktop-super-app-integration.md)

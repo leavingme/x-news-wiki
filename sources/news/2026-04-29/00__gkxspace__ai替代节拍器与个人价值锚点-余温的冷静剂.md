@@ -57,8 +57,6 @@ gakki：余温这篇是今日少有的清醒文。大多数从业者的困境不
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 1 · 🔄 0 · 💬 0 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2049302176900501544) — @gkxspace (余温)
-[2] [Author page](/entities/authors/gkxspace.md)

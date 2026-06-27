@@ -48,10 +48,6 @@ x_source: "crawler"
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 79 · 🔄 4 · 💬 28 · 🔖 0 · 👁 0
-- **关联主题**: [ai-crypto-agent-infra](/concepts/ai-crypto-agent-infra.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2037898045275480471) — @sunlc_crypto (sunlc.ai)
-[2] [Author page](/entities/authors/sunlc-crypto.md)
-[3] [Related topic](/concepts/ai-crypto-agent-infra.md)

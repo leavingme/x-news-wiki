@@ -49,8 +49,6 @@ https://t.co/imzzlrfuuL
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 1599 · 🔄 350 · 💬 52 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2027549653101940802) — @mranti (Michael Anti)
-[2] [Author page](/entities/authors/mranti.md)

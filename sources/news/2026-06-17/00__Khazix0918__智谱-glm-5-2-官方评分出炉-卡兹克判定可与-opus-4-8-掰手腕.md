@@ -51,10 +51,6 @@ gakki 锐评：体感 + 官方分数双确认，国产 Coding 模型第一次在
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 6 · 🔄 1 · 💬 12 · 🔖 0 · 👁 0
-- **关联主题**: [domestic-model-benchmark-performance](/concepts/domestic-model-benchmark-performance.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2067122426778145093) — @Khazix0918 (数字生命卡兹克)
-[2] [Author page](/entities/authors/khazix0918.md)
-[3] [Related topic](/concepts/domestic-model-benchmark-performance.md)

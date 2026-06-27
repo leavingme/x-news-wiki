@@ -78,8 +78,6 @@ RT if you know someone who needs to see this.
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 92 · 🔄 13 · 💬 65 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/cyrilXBT/status/2048291246087827928) — @cyrilXBT (CyrilXBT)
-[2] [Author page](/entities/authors/cyrilxbt.md)

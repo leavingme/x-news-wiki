@@ -52,8 +52,6 @@ gakki：垂直场景的Agent更容易实现「生产级无人值守」，全才A
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 27 · 🔄 0 · 💬 3 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2059689660411261162) — @yetone (yetone)
-[2] [Author page](/entities/authors/yetone.md)

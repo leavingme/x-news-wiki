@@ -56,8 +56,6 @@ Better 是专为 Polymarket 预测市场打造的低延迟交易终端，支持�
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 317 · 🔄 189 · 💬 307 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2043615948259934409) — @Ciciyingying (Cici)
-[2] [Author page](/entities/authors/ciciyingying.md)

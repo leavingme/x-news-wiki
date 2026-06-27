@@ -57,10 +57,6 @@ https://t.co/rYtEhe9Tjm
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 317 · 🔄 31 · 💬 47 · 🔖 0 · 👁 0
-- **关联主题**: [hermes-agent-stability-comparison](/concepts/hermes-agent-stability-comparison.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/openclaw/status/2051582130417721696) — @openclaw (OpenClaw🦞)
-[2] [Author page](/entities/authors/openclaw.md)
-[3] [Related topic](/concepts/hermes-agent-stability-comparison.md)

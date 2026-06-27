@@ -88,10 +88,6 @@ daemon 进程由 macOS 的 launchd 托管，挂了会自动重启，这点不用
 - **精选类别**: ✨ 亮点
 - **优先级**: 92
 - **互动**: ❤️ 246 · 🔄 45 · 💬 14 · 🔖 0 · 👁 0
-- **关联主题**: [agent-multi-platform](/concepts/agent-multi-platform.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2029922289408692314) — @0xdeusyu (Rainman)
-[2] [Author page](/entities/authors/0xdeusyu.md)
-[3] [Related topic](/concepts/agent-multi-platform.md)

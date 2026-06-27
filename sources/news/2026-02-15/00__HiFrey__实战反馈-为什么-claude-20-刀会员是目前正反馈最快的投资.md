@@ -60,8 +60,6 @@ https://t.co/b0tjzol8pc （IP信息查询）
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 38 · 🔄 8 · 💬 7 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2023003334278341041) — @HiFrey (Frey轰轰)
-[2] [Author page](/entities/authors/hifrey.md)

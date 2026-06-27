@@ -50,8 +50,6 @@ Shipping some number of regressions is healthy btw
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 54 · 🔄 0 · 💬 4 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2070141614089969755) — @charliermarsh (Charlie Marsh)
-[2] [Author page](/entities/authors/charliermarsh.md)

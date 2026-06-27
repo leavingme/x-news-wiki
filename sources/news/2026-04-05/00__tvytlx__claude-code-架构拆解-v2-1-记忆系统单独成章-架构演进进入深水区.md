@@ -51,10 +51,6 @@ ClaudeCode架构拆解发布V2.1，第八章增加了记忆系统。 https://t.c
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 2 · 🔄 2 · 💬 0 · 🔖 0 · 👁 0
-- **关联主题**: [claude-code-ecosystem](/concepts/claude-code-ecosystem.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2040354951143346424) — @tvytlx (Xiao Tan)
-[2] [Author page](/entities/authors/tvytlx.md)
-[3] [Related topic](/concepts/claude-code-ecosystem.md)

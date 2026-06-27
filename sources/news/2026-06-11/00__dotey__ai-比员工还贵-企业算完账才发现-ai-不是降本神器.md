@@ -50,10 +50,6 @@ gakki 锐评：宝玉这条吐槽戳破的是"AI 普惠"幻觉——模型层降
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 34 · 🔄 2 · 💬 13 · 🔖 0 · 👁 0
-- **关联主题**: [ai-company-profitability-crisis](/concepts/ai-company-profitability-crisis.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2064946543791128758) — @dotey (宝玉)
-[2] [Author page](/entities/authors/dotey.md)
-[3] [Related topic](/concepts/ai-company-profitability-crisis.md)

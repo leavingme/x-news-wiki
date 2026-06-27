@@ -75,8 +75,6 @@ flowith的高级套餐包含 GPT Image 2 和 Nanobanana 2 flash 无限生成
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 0 · 🔄 0 · 💬 2 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2049329950495310198) — @lxfater (铁锤人)
-[2] [Author page](/entities/authors/lxfater.md)

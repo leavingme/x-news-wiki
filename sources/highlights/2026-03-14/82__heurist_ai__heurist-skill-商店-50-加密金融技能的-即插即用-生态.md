@@ -53,10 +53,6 @@ npx @heurist-network/skills add &lt;skill&gt; https://t.co/XVCLG2t0WI
 - **精选类别**: ✨ 亮点
 - **优先级**: 82
 - **互动**: ❤️ 21 · 🔄 2 · 💬 7 · 🔖 0 · 👁 0
-- **关联主题**: [agent-lego-composable-toolchain](/concepts/agent-lego-composable-toolchain.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2032552809741341033) — @heurist_ai (Heurist)
-[2] [Author page](/entities/authors/heurist-ai.md)
-[3] [Related topic](/concepts/agent-lego-composable-toolchain.md)

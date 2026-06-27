@@ -68,8 +68,6 @@ Rally 想要的那种去中心化大规模协同，就只能是个空想啦！
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 10 · 🔄 0 · 💬 8 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2018933175024808433) — @3333yyds (Nana🐬TermMax)
-[2] [Author page](/entities/authors/3333yyds.md)

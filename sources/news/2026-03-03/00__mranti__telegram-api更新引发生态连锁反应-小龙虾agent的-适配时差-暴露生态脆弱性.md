@@ -48,8 +48,6 @@ AI Agent的“入口战争”不仅是功能战，更是基础设施控制权之
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 9 · 🔄 0 · 💬 3 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2028476349296595133) — @mranti (Michael Anti)
-[2] [Author page](/entities/authors/mranti.md)

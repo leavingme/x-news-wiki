@@ -52,8 +52,6 @@ gakki 锐评：工具自己写不好 try/catch，比用它写出来的代码出 
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 170 · 🔄 0 · 💬 16 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/1966947080951542173) — @ischichan (Chichan)
-[2] [Author page](/entities/authors/ischichan.md)

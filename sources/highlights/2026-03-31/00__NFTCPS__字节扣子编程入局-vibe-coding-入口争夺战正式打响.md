@@ -71,10 +71,6 @@ x_source: "crawler"
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 14 · 🔄 2 · 💬 2 · 🔖 0 · 👁 0
-- **关联主题**: [no-code-agent-entry](/concepts/no-code-agent-entry.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2038856657128816678) — @NFTCPS (鸟哥 | 蓝鸟会🕊️)
-[2] [Author page](/entities/authors/nftcps.md)
-[3] [Related topic](/concepts/no-code-agent-entry.md)

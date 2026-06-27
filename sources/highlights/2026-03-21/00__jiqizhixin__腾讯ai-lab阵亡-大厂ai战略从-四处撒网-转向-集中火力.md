@@ -54,8 +54,6 @@ China’s AI race is entering a new phase: fewer moonshot labs, more product-dri
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 66 · 🔄 5 · 💬 1 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2034990665168511149) — @jiqizhixin (机器之心 JIQIZHIXIN)
-[2] [Author page](/entities/authors/jiqizhixin.md)

@@ -53,8 +53,6 @@ You can see comments, diffs, commits, and review status to understand what chang
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 1161 · 🔄 87 · 💬 70 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/cursor_ai/status/2052489387305488609) — @cursor_ai (Cursor)
-[2] [Author page](/entities/authors/cursor-ai.md)

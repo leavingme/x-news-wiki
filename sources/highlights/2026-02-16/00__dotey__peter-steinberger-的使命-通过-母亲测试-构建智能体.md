@@ -49,8 +49,6 @@ https://t.co/GfVdZTLH59
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 48 · 🔄 0 · 💬 2 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2023164634539212931) — @dotey (宝玉)
-[2] [Author page](/entities/authors/dotey.md)

@@ -49,8 +49,6 @@ gakki锐评：AI Infra的平台黏性远比想象中脆弱——不是比SOTA性
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 1 · 🔄 0 · 💬 1 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2054758327284912451) — @dotey (宝玉)
-[2] [Author page](/entities/authors/dotey.md)

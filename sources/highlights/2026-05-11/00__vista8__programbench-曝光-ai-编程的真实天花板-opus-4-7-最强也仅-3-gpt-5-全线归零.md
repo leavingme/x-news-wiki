@@ -63,10 +63,6 @@ Claude Opus 4.7 最好，也只在"接近完成"这个指标上拿到了 3%，GP
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 28 · 🔄 4 · 💬 10 · 🔖 0 · 👁 0
-- **关联主题**: [domestic-model-benchmark-performance](/concepts/domestic-model-benchmark-performance.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2053699722540712152) — @vista8 (向阳乔木)
-[2] [Author page](/entities/authors/vista8.md)
-[3] [Related topic](/concepts/domestic-model-benchmark-performance.md)

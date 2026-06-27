@@ -50,8 +50,6 @@ Fable 5 access will be restored within the next 48 hours.
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 3324 · 🔄 215 · 💬 419 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/bridgemindai/status/2066844177447457009) — @bridgemindai (BridgeMind)
-[2] [Author page](/entities/authors/bridgemindai.md)

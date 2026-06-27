@@ -65,8 +65,6 @@ gakki：App Store榜首是风向标而非终点——Claude的崛起说明用户
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 9 · 🔄 0 · 💬 0 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2028633124624892398) — @sanhuyanxishe (散户研习社)
-[2] [Author page](/entities/authors/sanhuyanxishe.md)

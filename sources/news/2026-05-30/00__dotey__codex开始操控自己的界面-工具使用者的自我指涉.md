@@ -53,8 +53,6 @@ Codex 开始操作自己的界面了。
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 22 · 🔄 5 · 💬 9 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2060545640552104112) — @dotey (宝玉)
-[2] [Author page](/entities/authors/dotey.md)

@@ -49,8 +49,6 @@ AI Agent （不仅是OpenClaw）普及过程中机会还是很多的
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 704 · 🔄 127 · 💬 47 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2033212300056740267) — @dotey (宝玉)
-[2] [Author page](/entities/authors/dotey.md)

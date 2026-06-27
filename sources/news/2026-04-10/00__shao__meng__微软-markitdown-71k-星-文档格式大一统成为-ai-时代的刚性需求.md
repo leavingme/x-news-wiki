@@ -126,8 +126,6 @@ PDF文档
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 667 · 🔄 141 · 💬 17 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/1955939028316119377) — @shao__meng (meng shao)
-[2] [Author page](/entities/authors/shao-meng.md)

@@ -65,10 +65,6 @@ Our report: https://t.co/es5173E4wn
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 8 · 🔄 2 · 💬 0 · 🔖 0 · 👁 0
-- **关联主题**: [embodied-ai-and-robotics](/concepts/embodied-ai-and-robotics.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2055112682521719088) — @jiqizhixin (机器之心 JIQIZHIXIN)
-[2] [Author page](/entities/authors/jiqizhixin.md)
-[3] [Related topic](/concepts/embodied-ai-and-robotics.md)

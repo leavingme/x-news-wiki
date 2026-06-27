@@ -47,8 +47,6 @@ x_source: "crawler"
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 84 · 🔄 1 · 💬 35 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2022994469528953227) — @vista8 (向阳乔木)
-[2] [Author page](/entities/authors/vista8.md)

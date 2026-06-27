@@ -61,8 +61,6 @@ https://t.co/keeWjizurD
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 19 · 🔄 8 · 💬 2 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2023546417718194395) — @elliotchen100 (艾略特)
-[2] [Author page](/entities/authors/elliotchen100.md)

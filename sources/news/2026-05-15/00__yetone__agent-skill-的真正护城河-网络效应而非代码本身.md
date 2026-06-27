@@ -53,8 +53,6 @@ gakki 锐评：Skills 的演进性和可共享性，本质上把 AI 能力从「
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 94 · 🔄 6 · 💬 11 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2055107141388894708) — @yetone (yetone)
-[2] [Author page](/entities/authors/yetone.md)

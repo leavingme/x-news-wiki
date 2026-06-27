@@ -59,8 +59,6 @@ A 社这家公司的思维模式真的很离谱
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 4 · 🔄 0 · 💬 3 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2062777895152693484) — @oran_ge (Orange AI)
-[2] [Author page](/entities/authors/oran-ge.md)

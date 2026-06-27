@@ -68,10 +68,6 @@ Karpathy 把它定义为「面向 LLM 时代的开放社交网络」：和封闭
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 78 · 🔄 23 · 💬 1 · 🔖 0 · 👁 0
-- **关联主题**: [agent-knowledge-sharing-infra](/concepts/agent-knowledge-sharing-infra.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2041413287170973874) — @shao__meng (meng shao)
-[2] [Author page](/entities/authors/shao-meng.md)
-[3] [Related topic](/concepts/agent-knowledge-sharing-infra.md)

@@ -54,10 +54,6 @@ Codex 团队在构建产品时给自己立了只有 10 条的 Spec 规范，这�
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 277 · 🔄 66 · 💬 10 · 🔖 0 · 👁 0
-- **关联主题**: [claude-code-restraint-philosophy](/concepts/claude-code-restraint-philosophy.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2041056119183851930) — @dotey (宝玉)
-[2] [Author page](/entities/authors/dotey.md)
-[3] [Related topic](/concepts/claude-code-restraint-philosophy.md)

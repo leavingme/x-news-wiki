@@ -99,10 +99,6 @@ AI时代最大的痛点就是算力贵、中心化、不可验证。Origins Netw
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 176 · 🔄 0 · 💬 173 · 🔖 0 · 👁 0
-- **关联主题**: [0g-labs-chain-ai-infrastructure](/concepts/0g-labs-chain-ai-infrastructure.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2038873908750008418) — @0xYi666 (0xYi暖阳🕊️ | 🐬TermMax)
-[2] [Author page](/entities/authors/0xyi666.md)
-[3] [Related topic](/concepts/0g-labs-chain-ai-infrastructure.md)

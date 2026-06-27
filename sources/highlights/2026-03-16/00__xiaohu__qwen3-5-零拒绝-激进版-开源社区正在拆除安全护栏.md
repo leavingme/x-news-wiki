@@ -62,10 +62,6 @@ Qwen3.5 去审查版来了
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 1899 · 🔄 211 · 💬 59 · 🔖 0 · 👁 0
-- **关联主题**: [adult-content-agent-threshold](/concepts/adult-content-agent-threshold.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2033452783584837979) — @xiaohu (小互)
-[2] [Author page](/entities/authors/xiaohu.md)
-[3] [Related topic](/concepts/adult-content-agent-threshold.md)

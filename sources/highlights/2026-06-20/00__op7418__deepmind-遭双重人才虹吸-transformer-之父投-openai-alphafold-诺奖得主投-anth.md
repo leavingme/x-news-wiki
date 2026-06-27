@@ -53,10 +53,6 @@ x_source: "crawler"
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 54 · 🔄 2 · 💬 20 · 🔖 0 · 👁 0
-- **关联主题**: [ai-talent-flight](/concepts/ai-talent-flight.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2068190452554281412) — @op7418 (歸藏(guizang.ai))
-[2] [Author page](/entities/authors/op7418.md)
-[3] [Related topic](/concepts/ai-talent-flight.md)

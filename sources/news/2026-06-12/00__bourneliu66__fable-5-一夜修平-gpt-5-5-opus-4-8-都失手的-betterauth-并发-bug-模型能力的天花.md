@@ -57,10 +57,6 @@ Fable 5 给它的定性是：教科书级的并发事故，只有高并发的生
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 1 · 🔄 0 · 💬 2 · 🔖 0 · 👁 0
-- **关联主题**: [ai-real-world-model-evaluation](/concepts/ai-real-world-model-evaluation.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2065329731801927844) — @bourneliu66 (刘小排)
-[2] [Author page](/entities/authors/bourneliu66.md)
-[3] [Related topic](/concepts/ai-real-world-model-evaluation.md)

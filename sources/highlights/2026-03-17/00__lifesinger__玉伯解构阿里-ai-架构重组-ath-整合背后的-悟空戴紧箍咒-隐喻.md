@@ -71,10 +71,6 @@ MaaS 会被各种优先级搞得精疲力竭
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 168 · 🔄 5 · 💬 26 · 🔖 0 · 👁 0
-- **关联主题**: [ai-talent-flight](/concepts/ai-talent-flight.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2033573564797055379) — @lifesinger (Frank Wang 玉伯)
-[2] [Author page](/entities/authors/lifesinger.md)
-[3] [Related topic](/concepts/ai-talent-flight.md)

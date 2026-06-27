@@ -71,10 +71,6 @@ https://t.co/RIGn5unrBe
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 771 · 🔄 175 · 💬 21 · 🔖 0 · 👁 0
-- **关联主题**: [harness-engineering](/concepts/harness-engineering.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2061243832742912233) — @Xudong07452910 (Xudong Han)
-[2] [Author page](/entities/authors/xudong07452910.md)
-[3] [Related topic](/concepts/harness-engineering.md)

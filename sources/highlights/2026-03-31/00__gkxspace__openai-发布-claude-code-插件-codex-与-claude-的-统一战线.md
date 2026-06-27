@@ -53,8 +53,6 @@ OpenAI 发布的 Claude Code 插件 codex-plugin-cc，能直接在 Claude Code �
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 47 · 🔄 3 · 💬 2 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2038791588000739394) — @gkxspace (余温)
-[2] [Author page](/entities/authors/gkxspace.md)

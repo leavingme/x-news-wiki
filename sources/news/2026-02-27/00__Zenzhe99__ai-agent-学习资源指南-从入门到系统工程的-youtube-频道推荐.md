@@ -71,8 +71,6 @@ Google在AI实用小工具这块挺会玩的，之前有出圈的NotebookLM、Le
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 5 · 🔄 2 · 💬 0 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2027166256672248251) — @Zenzhe99 (梓哲悟语 | Zenzhe)
-[2] [Author page](/entities/authors/zenzhe99.md)

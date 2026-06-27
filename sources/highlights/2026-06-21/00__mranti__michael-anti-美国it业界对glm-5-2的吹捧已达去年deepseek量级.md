@@ -49,10 +49,6 @@ gakki锐评：「国外先热」恰是限购策略的市场化反讽——技术
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 56 · 🔄 0 · 💬 35 · 🔖 0 · 👁 0
-- **关联主题**: [geopolitics-and-compute](/concepts/geopolitics-and-compute.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2068504702153838923) — @mranti (Michael Anti)
-[2] [Author page](/entities/authors/mranti.md)
-[3] [Related topic](/concepts/geopolitics-and-compute.md)

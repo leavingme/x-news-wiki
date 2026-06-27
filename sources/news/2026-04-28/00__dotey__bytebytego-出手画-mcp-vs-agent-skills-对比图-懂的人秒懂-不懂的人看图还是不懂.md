@@ -51,8 +51,6 @@ ByteByteGo 画的 MCP 和 Agent Skills 的对比图，比 AI 画的还是精致�
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 4 · 🔄 1 · 💬 1 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2049200788451246188) — @dotey (宝玉)
-[2] [Author page](/entities/authors/dotey.md)

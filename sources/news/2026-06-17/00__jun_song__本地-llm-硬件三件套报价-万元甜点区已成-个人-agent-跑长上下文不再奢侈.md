@@ -51,8 +51,6 @@ Best choice of Local LLM hardware available now :
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 522 · 🔄 20 · 💬 113 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/jun_song/status/2066681474972323854) — @jun_song (Jun Song)
-[2] [Author page](/entities/authors/jun-song.md)

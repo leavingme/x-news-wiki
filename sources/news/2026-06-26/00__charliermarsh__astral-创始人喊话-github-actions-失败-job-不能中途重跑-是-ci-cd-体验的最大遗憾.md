@@ -50,8 +50,6 @@ The world if you could re-run a failed GitHub Actions job before all the jobs ar
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 98 · 🔄 2 · 💬 4 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2070611716497453521) — @charliermarsh (Charlie Marsh)
-[2] [Author page](/entities/authors/charliermarsh.md)

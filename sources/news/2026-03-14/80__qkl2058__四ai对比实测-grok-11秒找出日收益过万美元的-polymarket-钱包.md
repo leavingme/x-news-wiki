@@ -109,8 +109,6 @@ Grok回：没影响。
 - **精选类别**: 📰 头条
 - **优先级**: 80
 - **互动**: ❤️ 28 · 🔄 17 · 💬 4 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2031537050126831762) — @qkl2058 (区块链行情研究)
-[2] [Author page](/entities/authors/qkl2058.md)

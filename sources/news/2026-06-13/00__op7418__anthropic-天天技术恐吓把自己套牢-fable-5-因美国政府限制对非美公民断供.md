@@ -57,10 +57,6 @@ Anthropic 这个公司太搞笑了。
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 8 · 🔄 0 · 💬 2 · 🔖 0 · 👁 0
-- **关联主题**: [ai-infrastructure-governance](/concepts/ai-infrastructure-governance.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2065602682644250862) — @op7418 (歸藏(guizang.ai))
-[2] [Author page](/entities/authors/op7418.md)
-[3] [Related topic](/concepts/ai-infrastructure-governance.md)

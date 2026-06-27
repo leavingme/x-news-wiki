@@ -113,10 +113,6 @@ hermes claw migrate --dry-run # 预览
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 115 · 🔄 22 · 💬 8 · 🔖 0 · 👁 0
-- **关联主题**: [edgeclaw-memory-infrastructure](/concepts/edgeclaw-memory-infrastructure.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2038238691739550101) — @shao__meng (meng shao)
-[2] [Author page](/entities/authors/shao-meng.md)
-[3] [Related topic](/concepts/edgeclaw-memory-infrastructure.md)

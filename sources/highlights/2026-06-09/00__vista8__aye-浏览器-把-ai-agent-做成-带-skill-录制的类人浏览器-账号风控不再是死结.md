@@ -66,10 +66,6 @@ gakki 锐评：Aye 真正值钱的不是「又一个 AI 浏览器」，而是「
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 4 · 🔄 0 · 💬 7 · 🔖 0 · 👁 0
-- **关联主题**: [ai-browser-platform-war](/concepts/ai-browser-platform-war.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2064229621646897614) — @vista8 (向阳乔木)
-[2] [Author page](/entities/authors/vista8.md)
-[3] [Related topic](/concepts/ai-browser-platform-war.md)

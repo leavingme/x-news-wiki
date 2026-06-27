@@ -52,8 +52,6 @@ gakki：套餐模式的失效是一个市场信号：当用户宁愿自己做导
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 0 · 🔄 0 · 💬 0 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2059297556937445504) — @gkxspace (余温)
-[2] [Author page](/entities/authors/gkxspace.md)

@@ -66,10 +66,6 @@ ai量化如何打败手动投机？
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 94 · 🔄 12 · 💬 24 · 🔖 0 · 👁 0
-- **关联主题**: [political-intelligence-arbitrage](/concepts/political-intelligence-arbitrage.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2035205958251819458) — @Will_Yang_ (Will Yang)
-[2] [Author page](/entities/authors/will-yang.md)
-[3] [Related topic](/concepts/political-intelligence-arbitrage.md)

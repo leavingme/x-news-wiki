@@ -90,8 +90,6 @@ FTC的"清楚且显著"标准要求信息对消费者真正有效，而非服务
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 169 · 🔄 40 · 💬 2 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2039341337053655468) — @ljinhng34624264 (李健宏)
-[2] [Author page](/entities/authors/ljinhng34624264.md)

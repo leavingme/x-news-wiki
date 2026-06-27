@@ -57,8 +57,6 @@ B 端 AI 办公工具评测、PPT 制作工作流优化、内容创作者。
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 1 · 🔄 0 · 💬 0 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2058914033190019515) — @vista8 (向阳乔木)
-[2] [Author page](/entities/authors/vista8.md)

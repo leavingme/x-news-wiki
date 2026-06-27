@@ -58,10 +58,6 @@ x_source: "crawler"
 - **精选类别**: ✨ 亮点
 - **优先级**: 88
 - **互动**: ❤️ 34 · 🔄 0 · 💬 32 · 🔖 0 · 👁 0
-- **关联主题**: [agent-memory-optimization](/concepts/agent-memory-optimization.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2032487038180905040) — @laodi888 (俺是你牛爷爷)
-[2] [Author page](/entities/authors/laodi888.md)
-[3] [Related topic](/concepts/agent-memory-optimization.md)

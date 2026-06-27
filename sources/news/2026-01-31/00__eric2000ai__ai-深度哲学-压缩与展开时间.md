@@ -55,8 +55,6 @@ AI不是智能的延伸，而是时间的延伸——它让人类第一次能够
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 0 · 🔄 0 · 💬 0 · 🔖 0 · 👁 180
-
 ## Citations
 
 [1] [Tweet on X](https://twitter.com/eric2000ai/status/2015815317298241809) — @eric2000ai (AI贺贺)
-[2] [Author page](/entities/authors/eric2000ai.md)

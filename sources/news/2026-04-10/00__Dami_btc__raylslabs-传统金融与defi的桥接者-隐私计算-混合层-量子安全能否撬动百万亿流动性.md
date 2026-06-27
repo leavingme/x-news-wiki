@@ -164,10 +164,6 @@ The future is here, and blockchain is accelerating its transformation of the wor
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 132 · 🔄 1 · 💬 155 · 🔖 0 · 👁 0
-- **关联主题**: [rayls-blockchain-tradfi-bridge](/concepts/rayls-blockchain-tradfi-bridge.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/1961040090022736023) — @Dami_btc (大米)
-[2] [Author page](/entities/authors/dami-btc.md)
-[3] [Related topic](/concepts/rayls-blockchain-tradfi-bridge.md)

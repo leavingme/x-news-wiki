@@ -57,8 +57,6 @@ Codex 内置浏览器打开 excalidraw，画布上随手画草稿标注，Codex 
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 74 · 🔄 12 · 💬 2 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2068328803508629893) — @gkxspace (余温)
-[2] [Author page](/entities/authors/gkxspace.md)

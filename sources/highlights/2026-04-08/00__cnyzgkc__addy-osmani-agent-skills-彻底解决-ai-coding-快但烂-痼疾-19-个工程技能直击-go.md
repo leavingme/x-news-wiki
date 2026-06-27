@@ -77,8 +77,6 @@ npx skills add addyosmani/agent-skills
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 891 · 🔄 202 · 💬 15 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2040620611819421753) — @cnyzgkc (木马人)
-[2] [Author page](/entities/authors/cnyzgkc.md)

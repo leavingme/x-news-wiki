@@ -52,8 +52,6 @@ DeepSeek V4 自身 API 的 Tool Calling 不稳定，被 Alma 通过外部手撸 
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 55 · 🔄 1 · 💬 5 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2047573789794525210) — @yetone (yetone)
-[2] [Author page](/entities/authors/yetone.md)

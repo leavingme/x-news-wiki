@@ -62,8 +62,6 @@ https://t.co/MAWcFRVeJT
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 82 · 🔄 34 · 💬 43 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/Raullen/status/2049487657898754214) — @Raullen (raullen.eth)
-[2] [Author page](/entities/authors/raullen.md)

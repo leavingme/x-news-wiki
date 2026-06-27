@@ -49,8 +49,6 @@ Michael Anti 注意到手机端推文中大写 K 代表「万」而非千（Kilo
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 3 · 🔄 0 · 💬 1 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2048636618383454527) — @mranti (Michael Anti)
-[2] [Author page](/entities/authors/mranti.md)

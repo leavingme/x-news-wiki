@@ -64,10 +64,6 @@ Our report: https://t.co/S1Kki928ly
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 1 · 🔄 1 · 💬 1 · 🔖 0 · 👁 0
-- **关联主题**: [theory-of-space-embodied-ai](/concepts/theory-of-space-embodied-ai.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2069161000360649070) — @jiqizhixin (机器之心 JIQIZHIXIN)
-[2] [Author page](/entities/authors/jiqizhixin.md)
-[3] [Related topic](/concepts/theory-of-space-embodied-ai.md)

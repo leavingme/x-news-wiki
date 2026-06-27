@@ -59,8 +59,6 @@ More demos ↓ https://t.co/j0tZl5kicO
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 13433 · 🔄 1632 · 💬 385 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/DilumSanjaya/status/2053155739389378849) — @DilumSanjaya (Dilum Sanjaya)
-[2] [Author page](/entities/authors/dilumsanjaya.md)

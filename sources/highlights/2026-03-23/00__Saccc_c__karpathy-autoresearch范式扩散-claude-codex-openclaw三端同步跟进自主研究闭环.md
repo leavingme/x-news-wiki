@@ -59,8 +59,6 @@ Gakki锐评：自主研究能力的民主化正在发生，但这套范式的真
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 575 · 🔄 122 · 💬 13 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2035954777151189248) — @Saccc_c (Sac)
-[2] [Author page](/entities/authors/saccc-c.md)

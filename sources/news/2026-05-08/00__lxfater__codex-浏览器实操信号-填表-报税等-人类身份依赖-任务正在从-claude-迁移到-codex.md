@@ -53,8 +53,6 @@ Codex假如支持地好，就用一个就行了
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 6 · 🔄 2 · 💬 2 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2052589405538488323) — @lxfater (铁锤人)
-[2] [Author page](/entities/authors/lxfater.md)

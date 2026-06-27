@@ -64,8 +64,6 @@ gakki锐评：能把这层窗户纸捅破的人，通常是已经走完这段路
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 18 · 🔄 0 · 💬 3 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2055253013648789627) — @Leobai825 (天策)
-[2] [Author page](/entities/authors/leobai825.md)

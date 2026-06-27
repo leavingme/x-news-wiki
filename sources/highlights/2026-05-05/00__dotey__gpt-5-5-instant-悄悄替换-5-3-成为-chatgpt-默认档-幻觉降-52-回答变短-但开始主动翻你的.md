@@ -72,8 +72,6 @@ OpenAI 同时上线了一个叫"记忆来源"（memory sources）的功能，每
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 19 · 🔄 0 · 💬 4 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2051720198403596715) — @dotey (宝玉)
-[2] [Author page](/entities/authors/dotey.md)

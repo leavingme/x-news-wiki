@@ -88,8 +88,6 @@ Irys 正在给出答案...不是中心化的公司，而是一个由节点、算
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 116 · 🔄 0 · 💬 208 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/1976371335770083526) — @cxmrondlls (zhaolong)
-[2] [Author page](/entities/authors/cxmrondlls.md)

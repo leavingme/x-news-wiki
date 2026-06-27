@@ -53,8 +53,6 @@ Here's what's underway 🧵 https://t.co/kugoUIlq24
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 698 · 🔄 140 · 💬 35 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/NEARProtocol/status/2052056127349678503) — @NEARProtocol (NEAR Protocol)
-[2] [Author page](/entities/authors/nearprotocol.md)

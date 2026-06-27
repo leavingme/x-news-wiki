@@ -50,10 +50,6 @@ The core idea is that this lets you skip writing but it doesn’t let you skip r
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 1457 · 🔄 53 · 💬 95 · 🔖 0 · 👁 0
-- **关联主题**: [llm-knowledge-operations](/concepts/llm-knowledge-operations.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2041162213160091996) — @karpathy (Andrej Karpathy)
-[2] [Author page](/entities/authors/karpathy.md)
-[3] [Related topic](/concepts/llm-knowledge-operations.md)

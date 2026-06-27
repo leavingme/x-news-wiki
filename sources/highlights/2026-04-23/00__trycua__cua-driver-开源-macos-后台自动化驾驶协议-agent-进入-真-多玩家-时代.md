@@ -53,10 +53,6 @@ We're open-sourcing Cua Driver - our new macOS driver that lets any agent (Claud
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 759 · 🔄 88 · 💬 30 · 🔖 0 · 👁 0
-- **关联主题**: [sub-agents-multi-expert](/concepts/sub-agents-multi-expert.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/trycua/status/2047383200348221632) — @trycua (Cua)
-[2] [Author page](/entities/authors/trycua.md)
-[3] [Related topic](/concepts/sub-agents-multi-expert.md)

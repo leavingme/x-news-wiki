@@ -159,10 +159,6 @@ Daniel Stenberg 关于 curl 的 summer of bliss 的帖子是一个很好的例�
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 91 · 🔄 9 · 💬 21 · 🔖 0 · 👁 0
-- **关联主题**: [harness-engineering](/concepts/harness-engineering.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2069646862349680650) — @yibie (yibie)
-[2] [Author page](/entities/authors/yibie.md)
-[3] [Related topic](/concepts/harness-engineering.md)

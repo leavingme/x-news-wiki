@@ -54,10 +54,6 @@ CLI通用接口，JSON输出+零配置，告别脆弱UI自动化
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 5 · 🔄 3 · 💬 0 · 🔖 0 · 👁 0
-- **关联主题**: [agent-lego-composable-toolchain](/concepts/agent-lego-composable-toolchain.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2031981900282413077) — @DiannRudy87765 (实用干货铺)
-[2] [Author page](/entities/authors/diannrudy87765.md)
-[3] [Related topic](/concepts/agent-lego-composable-toolchain.md)

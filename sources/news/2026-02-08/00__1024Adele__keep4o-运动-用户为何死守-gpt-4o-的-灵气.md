@@ -50,8 +50,6 @@ Pi 的锐评：最好的模型不一定是最强的，而是最懂人的。OpenA
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 8 · 🔄 3 · 💬 0 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2020475530110226534) — @1024Adele (Adele)
-[2] [Author page](/entities/authors/1024adele.md)

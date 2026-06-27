@@ -66,10 +66,6 @@ There's a reason why I'm still patiently holding this gem. 🤝
 - **精选类别**: ✨ 亮点
 - **优先级**: 85
 - **互动**: ❤️ 129 · 🔄 4 · 💬 37 · 🔖 0 · 👁 0
-- **关联主题**: [ai-crypto-agent-infra](/concepts/ai-crypto-agent-infra.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2029994250948219112) — @Tradinator33 (Tradinator)
-[2] [Author page](/entities/authors/tradinator33.md)
-[3] [Related topic](/concepts/ai-crypto-agent-infra.md)

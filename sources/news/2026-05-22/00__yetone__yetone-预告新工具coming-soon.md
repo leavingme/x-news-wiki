@@ -47,8 +47,6 @@ Coming soon https://t.co/S8F2Ci0eHr
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 131 · 🔄 5 · 💬 30 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2057834685766775122) — @yetone (yetone)
-[2] [Author page](/entities/authors/yetone.md)

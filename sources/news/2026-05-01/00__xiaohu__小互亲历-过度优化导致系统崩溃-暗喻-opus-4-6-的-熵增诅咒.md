@@ -59,10 +59,6 @@ gakki锐评：「优化成瘾」是所有产品的慢性病。Opus 4.6 的问题
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 7 · 🔄 0 · 💬 11 · 🔖 0 · 👁 0
-- **关联主题**: [ai-shrinkflation-opus-degradation](/concepts/ai-shrinkflation-opus-degradation.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2050124009526931634) — @xiaohu (小互)
-[2] [Author page](/entities/authors/xiaohu.md)
-[3] [Related topic](/concepts/ai-shrinkflation-opus-degradation.md)

@@ -51,8 +51,6 @@ Claude can now connect to more of the apps you use outside of work, including @T
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 8574 · 🔄 501 · 💬 415 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/claudeai/status/2047383764347572389) — @claudeai (Claude)
-[2] [Author page](/entities/authors/claudeai.md)

@@ -57,8 +57,6 @@ The story of OpenAI, multiple pages
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 27 · 🔄 3 · 💬 4 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2051128061962166487) — @dotey (宝玉)
-[2] [Author page](/entities/authors/dotey.md)

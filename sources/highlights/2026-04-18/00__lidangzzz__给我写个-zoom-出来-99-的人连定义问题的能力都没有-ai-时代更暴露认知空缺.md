@@ -73,8 +73,6 @@ x_source: "crawler"
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 666 · 🔄 70 · 💬 62 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2043179464700420451) — @lidangzzz (lidang 立党 （全网劝人卖房、劝人学CS、劝人等着买OpenAI和Anthropic第一人）)
-[2] [Author page](/entities/authors/lidangzzz.md)

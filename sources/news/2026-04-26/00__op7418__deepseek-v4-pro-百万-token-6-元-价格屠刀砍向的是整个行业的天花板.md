@@ -51,8 +51,6 @@ V4-Pro 百万 Token 输出只需要 6 块钱朋友们，这还要啥自行车 ht
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 94 · 🔄 10 · 💬 28 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2048033423659557289) — @op7418 (歸藏(guizang.ai))
-[2] [Author page](/entities/authors/op7418.md)

@@ -62,10 +62,6 @@ x_source: "crawler"
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 42 · 🔄 6 · 💬 5 · 🔖 0 · 👁 0
-- **关联主题**: [skills-ecosystem-gpts-cycle](/concepts/skills-ecosystem-gpts-cycle.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2065250352266637532) — @op7418 (歸藏(guizang.ai))
-[2] [Author page](/entities/authors/op7418.md)
-[3] [Related topic](/concepts/skills-ecosystem-gpts-cycle.md)

@@ -50,8 +50,6 @@ opus 4.7 已经彻底变傻了
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 29 · 🔄 0 · 💬 6 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2055693089491280051) — @yetone (yetone)
-[2] [Author page](/entities/authors/yetone.md)

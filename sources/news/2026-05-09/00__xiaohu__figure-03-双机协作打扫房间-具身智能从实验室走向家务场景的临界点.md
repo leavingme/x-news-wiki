@@ -55,10 +55,6 @@ x_source: "crawler"
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 21 · 🔄 3 · 💬 20 · 🔖 0 · 👁 0
-- **关联主题**: [robot-phone-consumer-embodied-ai](/concepts/robot-phone-consumer-embodied-ai.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2053063524705083784) — @xiaohu (小互)
-[2] [Author page](/entities/authors/xiaohu.md)
-[3] [Related topic](/concepts/robot-phone-consumer-embodied-ai.md)

@@ -50,10 +50,6 @@ x_source: "crawler"
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 14 · 🔄 1 · 💬 5 · 🔖 0 · 👁 0
-- **关联主题**: [agent-self-monitoring](/concepts/agent-self-monitoring.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2035976551419023733) — @billtheinvestor (Bill The Investor)
-[2] [Author page](/entities/authors/billtheinvestor.md)
-[3] [Related topic](/concepts/agent-self-monitoring.md)

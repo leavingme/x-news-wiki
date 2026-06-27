@@ -54,10 +54,6 @@ seedance2.0 对于短剧行业完全是毁灭性的。
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 132 · 🔄 16 · 💬 28 · 🔖 0 · 👁 0
-- **关联主题**: [ai-video-cinematic](/concepts/ai-video-cinematic.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2034611573017452828) — @gkxspace (余温)
-[2] [Author page](/entities/authors/gkxspace.md)
-[3] [Related topic](/concepts/ai-video-cinematic.md)

@@ -68,10 +68,6 @@ Karpathy这番话不是在预测未来，而是在描述他已经活进去的现
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 958 · 🔄 148 · 💬 62 · 🔖 0 · 👁 0
-- **关联主题**: [agent-native-paradigm](/concepts/agent-native-paradigm.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2035121401754263768) — @oran_ge (Orange AI)
-[2] [Author page](/entities/authors/oran-ge.md)
-[3] [Related topic](/concepts/agent-native-paradigm.md)

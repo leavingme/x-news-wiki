@@ -59,8 +59,6 @@ https://t.co/xcyYIthXHf https://t.co/UXIIEaCD1p
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 2 · 🔄 0 · 💬 0 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2060269241748611479) — @Zesee (Rachel🥥)
-[2] [Author page](/entities/authors/zesee.md)

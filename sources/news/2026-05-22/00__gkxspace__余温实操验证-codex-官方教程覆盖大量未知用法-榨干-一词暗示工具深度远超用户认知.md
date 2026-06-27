@@ -51,8 +51,6 @@ Codex 官方团队发教程，这直接从入门到精通了
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 7 · 🔄 2 · 💬 3 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2057648217731305659) — @gkxspace (余温)
-[2] [Author page](/entities/authors/gkxspace.md)

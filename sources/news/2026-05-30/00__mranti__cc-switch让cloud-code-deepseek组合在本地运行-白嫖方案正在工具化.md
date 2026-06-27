@@ -52,8 +52,6 @@ cc-switch作为Claude Code和DeepSeek之间的路由工具，正在把"用国产
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 2 · 🔄 0 · 💬 2 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2060634180980220223) — @mranti (Michael Anti)
-[2] [Author page](/entities/authors/mranti.md)

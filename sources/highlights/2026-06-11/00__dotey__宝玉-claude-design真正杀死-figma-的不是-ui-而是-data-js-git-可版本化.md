@@ -59,10 +59,6 @@ Claude Design 交付的结果是 HTML + CSS + React + data.js，通过 CSS 一�
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 2 · 🔄 0 · 💬 2 · 🔖 0 · 👁 0
-- **关联主题**: [claude-design-tool](/concepts/claude-design-tool.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2064863783349317762) — @dotey (宝玉)
-[2] [Author page](/entities/authors/dotey.md)
-[3] [Related topic](/concepts/claude-design-tool.md)

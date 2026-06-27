@@ -50,8 +50,6 @@ Michael 的价值从来不是观点温和，而是敢把房间里的大象指给
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 8 · 🔄 0 · 💬 2 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2063807773775941967) — @mranti (Michael Anti)
-[2] [Author page](/entities/authors/mranti.md)

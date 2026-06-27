@@ -49,10 +49,6 @@ AI 写代码还在全仓库乱搜？下一步该给 Agent 装语义导航
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 27 · 🔄 1 · 💬 22 · 🔖 0 · 👁 0
-- **关联主题**: [gitnexus-code-knowledge-graph](/concepts/gitnexus-code-knowledge-graph.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2064994135602286765) — @Zesee (Rachel🥥)
-[2] [Author page](/entities/authors/zesee.md)
-[3] [Related topic](/concepts/gitnexus-code-knowledge-graph.md)

@@ -61,10 +61,6 @@ AI 连续工作1天2夜帮我把一个算法模型准确度提高了240倍，这
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 905 · 🔄 167 · 💬 49 · 🔖 0 · 👁 0
-- **关联主题**: [ai-autonomous-scientific-discovery](/concepts/ai-autonomous-scientific-discovery.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2031919086679273836) — @nash_su (nash_su - e/acc)
-[2] [Author page](/entities/authors/nash-su.md)
-[3] [Related topic](/concepts/ai-autonomous-scientific-discovery.md)

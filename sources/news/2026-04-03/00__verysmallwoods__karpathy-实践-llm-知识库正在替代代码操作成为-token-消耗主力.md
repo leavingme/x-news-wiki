@@ -141,8 +141,6 @@ LLM 在提出“下一步该问什么问题”方面也非常强。
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 192 · 🔄 31 · 💬 6 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2039825154478326131) — @verysmallwoods (VerySmallWoods)
-[2] [Author page](/entities/authors/verysmallwoods.md)

@@ -52,8 +52,6 @@ npx skills add vercel-labs/skills --skill find-skills
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 370 · 🔄 76 · 💬 17 · 🔖 459 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://twitter.com/interjc/status/2016307431442416031) — @interjc (Justin)
-[2] [Author page](/entities/authors/interjc.md)

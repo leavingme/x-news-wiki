@@ -51,8 +51,6 @@ In the next version of Bun
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 4464 · 🔄 231 · 💬 163 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/bunjavascript/status/2050421589150404826) — @bunjavascript (Bun)
-[2] [Author page](/entities/authors/bunjavascript.md)

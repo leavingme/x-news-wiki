@@ -51,8 +51,6 @@ gakki锐评：语料即护城河——但护城河要不要自己拆，取决于
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 1 · 🔄 0 · 💬 4 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2062093687870329181) — @vista8 (向阳乔木)
-[2] [Author page](/entities/authors/vista8.md)

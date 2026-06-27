@@ -55,8 +55,6 @@ API调用不知道什么时候能识图，这对开发很重要。 https://t.co/
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 12 · 🔄 0 · 💬 17 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2049489225792532970) — @vista8 (向阳乔木)
-[2] [Author page](/entities/authors/vista8.md)

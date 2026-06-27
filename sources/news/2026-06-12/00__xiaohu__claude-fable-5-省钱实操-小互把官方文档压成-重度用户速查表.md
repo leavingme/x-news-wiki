@@ -50,8 +50,6 @@ Claude Fable 5 官方指南：省钱又有用的使用方法拆解
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 17 · 🔄 3 · 💬 2 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2065398692128137525) — @xiaohu (小互)
-[2] [Author page](/entities/authors/xiaohu.md)

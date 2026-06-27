@@ -53,8 +53,6 @@ gakki：工具链整合已进入「执行力竞赛」阶段，不再是能不能
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 32 · 🔄 1 · 💬 4 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2056998017828638870) — @yetone (yetone)
-[2] [Author page](/entities/authors/yetone.md)

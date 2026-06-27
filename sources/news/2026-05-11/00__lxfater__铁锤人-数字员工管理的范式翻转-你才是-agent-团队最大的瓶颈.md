@@ -67,10 +67,6 @@ gakki 锐评："涌现"这个词被用滥了，但底层逻辑成立——Agent 
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 1 · 🔄 1 · 💬 2 · 🔖 0 · 👁 0
-- **关联主题**: [multi-agent-framework-ecosystem-comparison](/concepts/multi-agent-framework-ecosystem-comparison.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2053733194311319905) — @lxfater (铁锤人)
-[2] [Author page](/entities/authors/lxfater.md)
-[3] [Related topic](/concepts/multi-agent-framework-ecosystem-comparison.md)

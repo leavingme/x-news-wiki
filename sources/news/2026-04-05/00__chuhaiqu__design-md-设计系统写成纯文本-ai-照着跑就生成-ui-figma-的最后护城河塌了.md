@@ -55,10 +55,6 @@ Google Stitch 出了个叫 DESIGN .md 的东西，说设计系统可以写成纯
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 366 · 🔄 75 · 💬 4 · 🔖 0 · 👁 0
-- **关联主题**: [design-md-protocol](/concepts/design-md-protocol.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2040327016684364064) — @chuhaiqu (出海去孵化器)
-[2] [Author page](/entities/authors/chuhaiqu.md)
-[3] [Related topic](/concepts/design-md-protocol.md)

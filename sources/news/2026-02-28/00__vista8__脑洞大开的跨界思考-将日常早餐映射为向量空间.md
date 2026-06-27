@@ -56,8 +56,6 @@ AI和生活元素十足的脑洞文章。
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 9 · 🔄 1 · 💬 1 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2027393369207632349) — @vista8 (向阳乔木)
-[2] [Author page](/entities/authors/vista8.md)

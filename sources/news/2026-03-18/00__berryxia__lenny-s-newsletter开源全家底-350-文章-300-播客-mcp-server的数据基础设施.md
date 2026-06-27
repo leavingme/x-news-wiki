@@ -81,10 +81,6 @@ Newsletter 大神 @lennysan 正式把全部家底开放了！
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 92 · 🔄 15 · 💬 1 · 🔖 0 · 👁 0
-- **关联主题**: [agent-data-intelligence-infra](/concepts/agent-data-intelligence-infra.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2034022941823021231) — @berryxia (Berryxia.AI)
-[2] [Author page](/entities/authors/berryxia.md)
-[3] [Related topic](/concepts/agent-data-intelligence-infra.md)

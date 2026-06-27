@@ -51,10 +51,6 @@ Breaking $500,000,000 in TVL for the first time since the 2024 US election peak.
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 167 · 🔄 16 · 💬 37 · 🔖 0 · 👁 0
-- **关联主题**: [prediction-market-compliance](/concepts/prediction-market-compliance.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/CarOnPolymarket/status/2049943125930450969) — @CarOnPolymarket (Car)
-[2] [Author page](/entities/authors/caronpolymarket.md)
-[3] [Related topic](/concepts/prediction-market-compliance.md)

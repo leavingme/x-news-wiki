@@ -57,8 +57,6 @@ Midjourney 在旧金山 Union Square（苹果店旁）开「MIdjourney Spa」，
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 3 · 🔄 0 · 💬 2 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2067435555257012292) — @xiaohu (小互)
-[2] [Author page](/entities/authors/xiaohu.md)

@@ -61,10 +61,6 @@ Claude Code 正式引入了 Computer use。
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 4 · 🔄 0 · 💬 0 · 🔖 0 · 👁 0
-- **关联主题**: [claude-code-ecosystem](/concepts/claude-code-ecosystem.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2038765941534912583) — @yanhua1010 (Yanhua)
-[2] [Author page](/entities/authors/yanhua1010.md)
-[3] [Related topic](/concepts/claude-code-ecosystem.md)

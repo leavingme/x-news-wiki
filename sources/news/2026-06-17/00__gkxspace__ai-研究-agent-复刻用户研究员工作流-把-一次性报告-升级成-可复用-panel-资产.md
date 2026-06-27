@@ -57,8 +57,6 @@ Gakki 锐评：从对话式 AI 走向流程化研究是 Agent 产品化的必经
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 3 · 🔄 0 · 💬 3 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2067208245798633538) — @gkxspace (余温)
-[2] [Author page](/entities/authors/gkxspace.md)

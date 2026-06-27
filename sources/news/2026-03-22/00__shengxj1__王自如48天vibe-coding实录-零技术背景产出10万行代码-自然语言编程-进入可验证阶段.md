@@ -54,10 +54,6 @@ https://t.co/ysGYGYAIfu https://t.co/z6nkX4Gsbe
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 625 · 🔄 65 · 💬 61 · 🔖 0 · 👁 0
-- **关联主题**: [vibe-coding-cognition-inflection](/concepts/vibe-coding-cognition-inflection.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2035153189201486190) — @shengxj1 (花果山大圣)
-[2] [Author page](/entities/authors/shengxj1.md)
-[3] [Related topic](/concepts/vibe-coding-cognition-inflection.md)

@@ -115,8 +115,6 @@ $PLTR 的“波动放大器”在主动交易资本
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 2 · 🔄 1 · 💬 0 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2028585940025766396) — @WealthCode99978 (Wealth Code)
-[2] [Author page](/entities/authors/wealthcode99978.md)

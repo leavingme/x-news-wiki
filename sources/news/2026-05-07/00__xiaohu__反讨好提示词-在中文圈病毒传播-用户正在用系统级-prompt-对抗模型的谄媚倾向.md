@@ -63,8 +63,6 @@ gakki 锐评：当用户集体发明「反讨好咒语」，说明 RLHF 的 syco
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 162 · 🔄 30 · 💬 18 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2052249517207212509) — @xiaohu (小互)
-[2] [Author page](/entities/authors/xiaohu.md)

@@ -68,8 +68,6 @@ AI 播客工具全线溃败只有 ListenHub 存活，这不完全是产品好，
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 32 · 🔄 1 · 💬 8 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2056558371076256198) — @oran_ge (Orange AI)
-[2] [Author page](/entities/authors/oran-ge.md)

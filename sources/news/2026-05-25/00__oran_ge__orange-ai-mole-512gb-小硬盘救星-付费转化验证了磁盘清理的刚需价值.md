@@ -55,8 +55,6 @@ Mole 直接清理了 39 GB 的空间
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 27 · 🔄 0 · 💬 10 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2058678690624791013) — @oran_ge (Orange AI)
-[2] [Author page](/entities/authors/oran-ge.md)

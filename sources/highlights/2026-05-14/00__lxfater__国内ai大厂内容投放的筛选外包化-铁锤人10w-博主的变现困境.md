@@ -58,8 +58,6 @@ https://t.co/3J4N9R6q2O
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 8 · 🔄 0 · 💬 8 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2054751402115912112) — @lxfater (铁锤人)
-[2] [Author page](/entities/authors/lxfater.md)

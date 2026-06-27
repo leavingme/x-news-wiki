@@ -56,8 +56,6 @@ HTML 统治线下演讲的趋势不可阻挡
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 37 · 🔄 1 · 💬 8 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2048412179117080872) — @oran_ge (Orange AI)
-[2] [Author page](/entities/authors/oran-ge.md)

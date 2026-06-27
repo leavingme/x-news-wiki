@@ -49,8 +49,6 @@ Rourou还提到这是普通人使用AI的痛点场景——响应速度慢会打
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 1 · 🔄 0 · 💬 0 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2055647318050050224) — @Rourou0413 (Rourou)
-[2] [Author page](/entities/authors/rourou0413.md)

@@ -57,8 +57,6 @@ ChatGPT 现在可以在 PowerPoint 中创建和编辑演示文稿。
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 5 · 🔄 0 · 💬 3 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2057646837260075327) — @gkxspace (余温)
-[2] [Author page](/entities/authors/gkxspace.md)

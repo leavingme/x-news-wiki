@@ -49,8 +49,6 @@ Gakki 锐评：又一个'工程无法挽救底层'的案例。给所有堆工作
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 35 · 🔄 5 · 💬 13 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2068709091501838520) — @dotey (宝玉)
-[2] [Author page](/entities/authors/dotey.md)

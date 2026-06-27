@@ -55,8 +55,6 @@ Anthropic推出"Claude认证架构师"，免费考，可以类比成AI领域的A
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 406 · 🔄 88 · 💬 13 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2035732065921200145) — @KKaWSB (KK.aWSB)
-[2] [Author page](/entities/authors/kkawsb.md)

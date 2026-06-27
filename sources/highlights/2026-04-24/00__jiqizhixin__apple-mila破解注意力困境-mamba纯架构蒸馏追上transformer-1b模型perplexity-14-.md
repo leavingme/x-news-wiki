@@ -61,8 +61,6 @@ The result? A pure Mamba-1B model reaches a perplexity of 14.11, nearly matching
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 25 · 🔄 2 · 💬 1 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2047589950133289417) — @jiqizhixin (机器之心 JIQIZHIXIN)
-[2] [Author page](/entities/authors/jiqizhixin.md)

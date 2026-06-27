@@ -80,8 +80,6 @@ Here's a rough summary of Elon Musk’s 1 hour and 40 minute long testimony toda
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 5650 · 🔄 819 · 💬 270 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/SawyerMerritt/status/2049228704455262493) — @SawyerMerritt (Sawyer Merritt)
-[2] [Author page](/entities/authors/sawyermerritt.md)

@@ -48,8 +48,6 @@ Pi 的锐评：比起 AI 杀人，AI 躲在暗处“使绊子”的职场报复�
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 11 · 🔄 1 · 💬 3 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2018115474123608397) — @alanchen (⧫ Alan Chen ⧫(alanchentsla.eth）)
-[2] [Author page](/entities/authors/alanchen.md)

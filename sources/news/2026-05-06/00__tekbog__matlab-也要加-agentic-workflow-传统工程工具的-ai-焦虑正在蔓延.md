@@ -49,8 +49,6 @@ it feels unholy to add agentic workflows into matlab
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 989 · 🔄 30 · 💬 25 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/tekbog/status/2051741454348013994) — @tekbog (terminally onλine εngineer)
-[2] [Author page](/entities/authors/tekbog.md)

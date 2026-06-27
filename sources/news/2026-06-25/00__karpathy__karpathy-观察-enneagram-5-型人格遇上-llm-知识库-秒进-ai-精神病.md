@@ -48,8 +48,6 @@ x_source: "crawler"
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 1196 · 🔄 26 · 💬 50 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2046017433199374610) — @karpathy (Andrej Karpathy)
-[2] [Author page](/entities/authors/karpathy.md)

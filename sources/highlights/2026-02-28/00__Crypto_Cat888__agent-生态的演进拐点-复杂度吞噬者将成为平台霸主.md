@@ -51,8 +51,6 @@ AI 也许还在“组装机时代”
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 33 · 🔄 4 · 💬 8 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2027540073265479832) — @Crypto_Cat888 (CryptoCat 🐈)
-[2] [Author page](/entities/authors/crypto-cat888.md)

@@ -49,10 +49,6 @@ And yes I've tried local LLMs but with just 1x RTX 5090 it's painfully slow and 
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 73 · 🔄 1 · 💬 14 · 🔖 0 · 👁 0
-- **关联主题**: [edge-inference-optimization](/concepts/edge-inference-optimization.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2070218827904790891) — @levelsio (@levelsio)
-[2] [Author page](/entities/authors/levelsio.md)
-[3] [Related topic](/concepts/edge-inference-optimization.md)

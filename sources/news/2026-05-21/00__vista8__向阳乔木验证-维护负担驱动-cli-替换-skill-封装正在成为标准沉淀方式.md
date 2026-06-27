@@ -53,8 +53,6 @@ gakki：skill 封装正在从新工具推广手段演变为工具生命周期管
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 1 · 🔄 0 · 💬 1 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2057305721436565608) — @vista8 (向阳乔木)
-[2] [Author page](/entities/authors/vista8.md)

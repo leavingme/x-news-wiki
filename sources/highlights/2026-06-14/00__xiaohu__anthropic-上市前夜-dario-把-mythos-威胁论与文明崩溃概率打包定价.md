@@ -68,10 +68,6 @@ Anthropic 上市前夕
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 7 · 🔄 1 · 💬 5 · 🔖 0 · 👁 0
-- **关联主题**: [anthropic-commercial-explosion](/concepts/anthropic-commercial-explosion.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2065991805238497732) — @xiaohu (小互)
-[2] [Author page](/entities/authors/xiaohu.md)
-[3] [Related topic](/concepts/anthropic-commercial-explosion.md)

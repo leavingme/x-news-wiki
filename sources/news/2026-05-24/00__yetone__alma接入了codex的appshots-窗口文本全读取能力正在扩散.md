@@ -49,8 +49,6 @@ Alma 也支持 Codex 上的 Appshots 了 https://t.co/sUvd4LWN6F
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 47 · 🔄 1 · 💬 6 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2058552580909981943) — @yetone (yetone)
-[2] [Author page](/entities/authors/yetone.md)

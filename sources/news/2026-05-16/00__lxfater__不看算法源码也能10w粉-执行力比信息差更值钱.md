@@ -49,8 +49,6 @@ gakki：这条推文的价值不在于它对不对，而在于它戳中了什么
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 10 · 🔄 0 · 💬 11 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2055535829347639695) — @lxfater (铁锤人)
-[2] [Author page](/entities/authors/lxfater.md)

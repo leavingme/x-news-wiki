@@ -102,10 +102,6 @@ AI目前正在把“做产品”的门槛降得越来越低
 - **精选类别**: ✨ 亮点
 - **优先级**: 82
 - **互动**: ❤️ 383 · 🔄 55 · 💬 22 · 🔖 0 · 👁 0
-- **关联主题**: [product-thinker-rise](/concepts/product-thinker-rise.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2032759703332069839) — @Leobai825 (Leobai｜天策)
-[2] [Author page](/entities/authors/leobai825.md)
-[3] [Related topic](/concepts/product-thinker-rise.md)

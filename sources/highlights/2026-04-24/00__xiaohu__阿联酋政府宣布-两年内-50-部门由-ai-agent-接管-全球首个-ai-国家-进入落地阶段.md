@@ -63,8 +63,6 @@ gakki：这条是本期最重要但最容易被忽视的新闻。政府是最大
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 85 · 🔄 11 · 💬 25 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2047321222267253074) — @xiaohu (小互)
-[2] [Author page](/entities/authors/xiaohu.md)

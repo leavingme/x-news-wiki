@@ -55,8 +55,6 @@ Cursor 是我目前用过体验最好的 AI IDE，Codex 第二。交互设计、
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 15 · 🔄 3 · 💬 3 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2067009573945315617) — @gkxspace (余温)
-[2] [Author page](/entities/authors/gkxspace.md)

@@ -53,10 +53,6 @@ gakki：微信读书如果开放 API 给第三方 Agent 调用，配合真实阅
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 3 · 🔄 1 · 💬 3 · 🔖 0 · 👁 0
-- **关联主题**: [personal-knowledge-management-ai](/concepts/personal-knowledge-management-ai.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2055903704600252788) — @oran_ge (Orange AI)
-[2] [Author page](/entities/authors/oran-ge.md)
-[3] [Related topic](/concepts/personal-knowledge-management-ai.md)

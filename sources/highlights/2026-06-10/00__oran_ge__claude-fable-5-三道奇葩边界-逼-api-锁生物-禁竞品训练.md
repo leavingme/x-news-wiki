@@ -58,10 +58,6 @@ Claude Fable 5 的三个很奇葩的地方
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 44 · 🔄 2 · 💬 19 · 🔖 0 · 👁 0
-- **关联主题**: [anthropic-api-control](/concepts/anthropic-api-control.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2064496537036800114) — @oran_ge (Orange AI)
-[2] [Author page](/entities/authors/oran-ge.md)
-[3] [Related topic](/concepts/anthropic-api-control.md)

@@ -54,8 +54,6 @@ From protocol to real-world biological execution. https://t.co/hAibidCEcZ
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 629 · 🔄 116 · 💬 27 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/AI4S_Catalyst/status/2052073701537886630) — @AI4S_Catalyst (AI4Science Catalyst)
-[2] [Author page](/entities/authors/ai4s-catalyst.md)

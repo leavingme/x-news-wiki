@@ -53,10 +53,6 @@ They would have the same ticker, same rights, and still settle in 1 day (T+1).
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 143 · 🔄 35 · 💬 24 · 🔖 0 · 👁 0
-- **关联主题**: [agent-economic-autonomy](/concepts/agent-economic-autonomy.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/coinbureau/status/2050952415919341841) — @coinbureau (Coin Bureau)
-[2] [Author page](/entities/authors/coinbureau.md)
-[3] [Related topic](/concepts/agent-economic-autonomy.md)

@@ -52,8 +52,6 @@ gakki：OpenClaw 被课程圈蹭热度诋毁，恰好证明它已经进入主流
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 10 · 🔄 1 · 💬 1 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2062071775421427768) — @Rourou0413 (Rourou)
-[2] [Author page](/entities/authors/rourou0413.md)

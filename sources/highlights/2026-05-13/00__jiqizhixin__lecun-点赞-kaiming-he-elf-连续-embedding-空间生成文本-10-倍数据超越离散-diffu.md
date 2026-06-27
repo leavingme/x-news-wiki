@@ -62,8 +62,6 @@ Result: ELF beats both discrete and continuous diffusion language models, achiev
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 24 · 🔄 5 · 💬 2 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2054473034640277880) — @jiqizhixin (机器之心 JIQIZHIXIN)
-[2] [Author page](/entities/authors/jiqizhixin.md)

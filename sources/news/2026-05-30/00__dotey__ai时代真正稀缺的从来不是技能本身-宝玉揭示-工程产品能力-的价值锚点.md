@@ -58,8 +58,6 @@ AI时代技能正在加速贬值，但「用好技能做出有价值产品」的
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 28 · 🔄 2 · 💬 6 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2060807318564966696) — @dotey (宝玉)
-[2] [Author page](/entities/authors/dotey.md)

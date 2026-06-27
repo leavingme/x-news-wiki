@@ -55,8 +55,6 @@ claude sonnet 4.0 + claude code 发明了 Vibe Coding，颠覆了人类文明
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 59 · 🔄 1 · 💬 5 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2061353652976329091) — @yetone (yetone)
-[2] [Author page](/entities/authors/yetone.md)

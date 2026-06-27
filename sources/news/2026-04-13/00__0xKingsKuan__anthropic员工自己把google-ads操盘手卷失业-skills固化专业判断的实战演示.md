@@ -91,8 +91,6 @@ Google 官方已经提供了 GAQL 的MCP connector，Mutations（改动）也只
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 607 · 🔄 137 · 💬 19 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2036972404975833512) — @0xKingsKuan (币世王 | 🦅🐬TermMax)
-[2] [Author page](/entities/authors/0xkingskuan.md)

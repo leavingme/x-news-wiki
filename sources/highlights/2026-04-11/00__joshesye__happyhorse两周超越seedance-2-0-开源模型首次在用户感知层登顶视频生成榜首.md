@@ -59,8 +59,6 @@ HappyHorse 爆发了。
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 273 · 🔄 46 · 💬 19 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2041845091795345426) — @joshesye (行者AI视频)
-[2] [Author page](/entities/authors/joshesye.md)

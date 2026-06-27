@@ -102,8 +102,6 @@ $SAPIEN 代币机制：为质量而生，不为炒作而设
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 146 · 🔄 0 · 💬 168 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/1948995316780560681) — @Steam_Diary123 (区块链日记 🐬TermMax)
-[2] [Author page](/entities/authors/steam-diary123.md)

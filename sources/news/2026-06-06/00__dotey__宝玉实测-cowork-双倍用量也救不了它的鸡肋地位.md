@@ -50,8 +50,6 @@ Cowork 对我来说挺鸡肋的，双倍用量也不太会去用
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 17 · 🔄 0 · 💬 10 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2063031409401348517) — @dotey (宝玉)
-[2] [Author page](/entities/authors/dotey.md)

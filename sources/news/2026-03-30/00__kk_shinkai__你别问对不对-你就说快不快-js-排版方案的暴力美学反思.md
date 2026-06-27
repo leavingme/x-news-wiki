@@ -51,8 +51,6 @@ x_source: "crawler"
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 54 · 🔄 3 · 💬 17 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2038244380872708119) — @kk_shinkai (深海)
-[2] [Author page](/entities/authors/kk-shinkai.md)

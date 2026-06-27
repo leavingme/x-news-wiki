@@ -54,8 +54,6 @@ Pingro 已经完成了它自己的历史使命。 但也许未来，仍然会有
 - **精选类别**: 📰 头条
 - **优先级**: 92
 - **互动**: ❤️ 66 · 🔄 0 · 💬 7 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2030236197428015462) — @DashHuang (Dash)
-[2] [Author page](/entities/authors/dashhuang.md)

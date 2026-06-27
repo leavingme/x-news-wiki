@@ -62,10 +62,6 @@ MCP 协议让 AI 无缝理解你的设计意图，20 分钟搞定以前 1 小时
 - **精选类别**: ✨ 亮点
 - **优先级**: 85
 - **互动**: ❤️ 134 · 🔄 24 · 💬 6 · 🔖 0 · 👁 0
-- **关联主题**: [vibe-coding-methodology](/concepts/vibe-coding-methodology.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2017425760118858140) — @IndieDevHailey (开发者Hailey)
-[2] [Author page](/entities/authors/indiedevhailey.md)
-[3] [Related topic](/concepts/vibe-coding-methodology.md)

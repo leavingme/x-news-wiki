@@ -57,8 +57,6 @@ Let's build with MiMo now!
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 2902 · 🔄 409 · 💬 117 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/XiaomiMiMo/status/2048821516079661561) — @XiaomiMiMo (Xiaomi MiMo)
-[2] [Author page](/entities/authors/xiaomimimo.md)

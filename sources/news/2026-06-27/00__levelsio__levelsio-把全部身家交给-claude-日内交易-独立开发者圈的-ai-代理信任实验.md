@@ -50,8 +50,6 @@ Claude start day trading on IBKR with my entire net worth make no mistakes https
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 170 · 🔄 3 · 💬 12 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2070682583919153383) — @levelsio (@levelsio)
-[2] [Author page](/entities/authors/levelsio.md)

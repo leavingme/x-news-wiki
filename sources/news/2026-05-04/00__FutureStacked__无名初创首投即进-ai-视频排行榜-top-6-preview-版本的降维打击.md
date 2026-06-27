@@ -56,8 +56,6 @@ https://t.co/QTiND83vF0
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 66 · 🔄 48 · 💬 9 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/FutureStacked/status/2051270146744861154) — @FutureStacked (Future Stacked)
-[2] [Author page](/entities/authors/futurestacked.md)

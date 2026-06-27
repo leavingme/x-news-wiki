@@ -50,8 +50,6 @@ gakki 锐评：通用 Agent 走 49 元小刀模式是渗透策略，意图是先
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 0 · 🔄 0 · 💬 0 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2067239172197281920) — @gkxspace (余温)
-[2] [Author page](/entities/authors/gkxspace.md)

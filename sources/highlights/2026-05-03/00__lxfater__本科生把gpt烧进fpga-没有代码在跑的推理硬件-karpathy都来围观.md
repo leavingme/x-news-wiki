@@ -117,8 +117,6 @@ x_source: "crawler"
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 29 · 🔄 2 · 💬 7 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2050804039865012512) — @lxfater (铁锤人)
-[2] [Author page](/entities/authors/lxfater.md)

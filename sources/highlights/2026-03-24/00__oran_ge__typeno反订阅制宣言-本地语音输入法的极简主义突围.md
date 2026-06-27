@@ -73,10 +73,6 @@ TypeNo 免费。
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 797 · 🔄 108 · 💬 89 · 🔖 0 · 👁 0
-- **关联主题**: [moe-edge-compute-monopoly](/concepts/moe-edge-compute-monopoly.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2036400058506391578) — @oran_ge (Orange AI)
-[2] [Author page](/entities/authors/oran-ge.md)
-[3] [Related topic](/concepts/moe-edge-compute-monopoly.md)

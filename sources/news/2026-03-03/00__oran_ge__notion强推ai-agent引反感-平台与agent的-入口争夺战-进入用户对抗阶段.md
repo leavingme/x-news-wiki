@@ -56,8 +56,6 @@ Notion 强推 agent 的行为我感到恶心
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 52 · 🔄 0 · 💬 13 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2028611257293779191) — @oran_ge (Orange AI)
-[2] [Author page](/entities/authors/oran-ge.md)

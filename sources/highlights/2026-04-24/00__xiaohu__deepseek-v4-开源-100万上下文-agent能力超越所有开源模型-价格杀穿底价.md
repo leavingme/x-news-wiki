@@ -74,10 +74,6 @@ DeepSeek-V4-Pro 的 Agent 能力显著增强。在 Agentic Coding 评测中，V4
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 69 · 🔄 7 · 💬 25 · 🔖 0 · 👁 0
-- **关联主题**: [deepseek-v4-open-source](/concepts/deepseek-v4-open-source.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2047513290092503118) — @xiaohu (小互)
-[2] [Author page](/entities/authors/xiaohu.md)
-[3] [Related topic](/concepts/deepseek-v4-open-source.md)

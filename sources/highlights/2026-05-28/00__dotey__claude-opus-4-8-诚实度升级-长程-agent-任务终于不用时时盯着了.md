@@ -71,10 +71,6 @@ Anthropic 罕见地主动警告：dynamic workflows 消耗的 token 比普通 Cl
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 78 · 🔄 6 · 💬 18 · 🔖 0 · 👁 0
-- **关联主题**: [claude-code-ecosystem](/concepts/claude-code-ecosystem.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2060051148921323542) — @dotey (宝玉)
-[2] [Author page](/entities/authors/dotey.md)
-[3] [Related topic](/concepts/claude-code-ecosystem.md)

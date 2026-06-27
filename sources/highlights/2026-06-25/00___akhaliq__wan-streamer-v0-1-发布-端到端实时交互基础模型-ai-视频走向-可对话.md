@@ -51,8 +51,6 @@ End-to-end Real-time Interactive Foundation Models https://t.co/5NYOEquaMq
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 55 · 🔄 9 · 💬 4 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2070185392192585843) — @_akhaliq (AK)
-[2] [Author page](/entities/authors/akhaliq.md)

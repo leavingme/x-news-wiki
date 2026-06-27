@@ -56,10 +56,6 @@ Claude 降智的原因终于找到了
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 102 · 🔄 5 · 💬 18 · 🔖 0 · 👁 0
-- **关联主题**: [harness-engineering](/concepts/harness-engineering.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2047437283293536653) — @oran_ge (Orange AI)
-[2] [Author page](/entities/authors/oran-ge.md)
-[3] [Related topic](/concepts/harness-engineering.md)

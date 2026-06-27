@@ -72,8 +72,6 @@ SpaceX 上市这事，最先受伤的居然是特斯拉。
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 3 · 🔄 1 · 💬 3 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2066481278594007138) — @gkxspace (余温)
-[2] [Author page](/entities/authors/gkxspace.md)

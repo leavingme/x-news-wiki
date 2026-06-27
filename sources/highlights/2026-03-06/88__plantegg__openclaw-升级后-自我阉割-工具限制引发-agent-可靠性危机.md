@@ -60,10 +60,6 @@ https://t.co/30edK7X697
 - **精选类别**: ✨ 亮点
 - **优先级**: 88
 - **互动**: ❤️ 13 · 🔄 3 · 💬 6 · 🔖 0 · 👁 0
-- **关联主题**: [agent-reliability-multi-model-memory](/concepts/agent-reliability-multi-model-memory.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2029713032406855944) — @plantegg (plantegg)
-[2] [Author page](/entities/authors/plantegg.md)
-[3] [Related topic](/concepts/agent-reliability-multi-model-memory.md)

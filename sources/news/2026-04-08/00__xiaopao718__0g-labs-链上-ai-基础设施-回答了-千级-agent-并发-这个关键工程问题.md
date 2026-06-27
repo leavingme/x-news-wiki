@@ -79,8 +79,6 @@ x_source: "crawler"
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 104 · 🔄 1 · 💬 132 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/1942823237509079148) — @xiaopao718 (澎湃哥)
-[2] [Author page](/entities/authors/xiaopao718.md)

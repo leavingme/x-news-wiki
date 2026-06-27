@@ -59,8 +59,6 @@ ai跑合约这套玩法的核心配置是不是眉逼。
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 211 · 🔄 27 · 💬 19 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2043145883697778726) — @abyssofgambling (HK•L_牛英俊)
-[2] [Author page](/entities/authors/abyssofgambling.md)

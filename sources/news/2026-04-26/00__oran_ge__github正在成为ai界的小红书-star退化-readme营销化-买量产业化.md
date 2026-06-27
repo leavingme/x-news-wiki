@@ -60,8 +60,6 @@ GitHub 正在成为 AI 界的小红书。
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 1 · 🔄 1 · 💬 0 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2048526090596237767) — @oran_ge (Orange AI)
-[2] [Author page](/entities/authors/oran-ge.md)

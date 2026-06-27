@@ -51,8 +51,6 @@ gakki：Michael Anti的这个判断代表了一种典型的工程师思维——
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 2 · 🔄 0 · 💬 2 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2060900146523820508) — @mranti (Michael Anti)
-[2] [Author page](/entities/authors/mranti.md)

@@ -55,8 +55,6 @@ Codex App 可以当 Typeless 用，开启全局快捷键设置正确权限后就
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 22 · 🔄 3 · 💬 9 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2054296751155061200) — @dotey (宝玉)
-[2] [Author page](/entities/authors/dotey.md)

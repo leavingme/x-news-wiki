@@ -53,10 +53,6 @@ x_source: "crawler"
 - **精选类别**: ✨ 亮点
 - **优先级**: 82
 - **互动**: ❤️ 103 · 🔄 17 · 💬 7 · 🔖 0 · 👁 0
-- **关联主题**: [no-code-agent-entry](/concepts/no-code-agent-entry.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2031210003345084869) — @lxfater (铁锤人)
-[2] [Author page](/entities/authors/lxfater.md)
-[3] [Related topic](/concepts/no-code-agent-entry.md)

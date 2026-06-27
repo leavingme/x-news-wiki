@@ -57,8 +57,6 @@ gakki：这帖子的价值不在方案本身——在于它折射出一个持续
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 7 · 🔄 0 · 💬 4 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2062007548836749726) — @gkxspace (余温)
-[2] [Author page](/entities/authors/gkxspace.md)

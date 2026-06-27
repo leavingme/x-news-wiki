@@ -58,8 +58,6 @@ Safety first! 🔥
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 56 · 🔄 40 · 💬 19 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/hiRavenCrypto/status/2054210994210242678) — @hiRavenCrypto (Crypto Raven)
-[2] [Author page](/entities/authors/hiravencrypto.md)

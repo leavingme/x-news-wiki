@@ -48,10 +48,6 @@ TokenSpeed 作为新时代全新的更快的 LLM inference engine 终于发布�
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 14 · 🔄 2 · 💬 0 · 🔖 0 · 👁 0
-- **关联主题**: [推理与模型架构](/concepts/推理与模型架构.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2052056347248914465) — @yetone (yetone)
-[2] [Author page](/entities/authors/yetone.md)
-[3] [Related topic](/concepts/推理与模型架构.md)

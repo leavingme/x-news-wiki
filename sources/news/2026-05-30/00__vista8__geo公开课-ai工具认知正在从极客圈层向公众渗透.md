@@ -50,8 +50,6 @@ AI工具和模型的问答分享正在从信息差套利转向知识服务商品
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 5 · 🔄 0 · 💬 0 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2060580197561405854) — @vista8 (向阳乔木)
-[2] [Author page](/entities/authors/vista8.md)

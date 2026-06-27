@@ -59,10 +59,6 @@ https://t.co/ldlFitCvYy https://t.co/hwSch0Fk9e
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 14 · 🔄 2 · 💬 1 · 🔖 0 · 👁 0
-- **关联主题**: [skills-ecosystem-standards](/concepts/skills-ecosystem-standards.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2052643776435515443) — @lxfater (铁锤人)
-[2] [Author page](/entities/authors/lxfater.md)
-[3] [Related topic](/concepts/skills-ecosystem-standards.md)

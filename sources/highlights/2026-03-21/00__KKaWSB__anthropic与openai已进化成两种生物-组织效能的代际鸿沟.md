@@ -68,10 +68,6 @@ OpenAI有个职位叫"CEO of Applications"。这个title存在的原因，是工
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 106 · 🔄 8 · 💬 13 · 🔖 0 · 👁 0
-- **关联主题**: [codex-ecosystem-platform-war](/concepts/codex-ecosystem-platform-war.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2035212811111170201) — @KKaWSB (KK.aWSB)
-[2] [Author page](/entities/authors/kkawsb.md)
-[3] [Related topic](/concepts/codex-ecosystem-platform-war.md)

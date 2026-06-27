@@ -52,8 +52,6 @@ Michael Anti（知名科技评论人）公开请求书单，目标是「抵抗AI
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 0 · 🔄 0 · 💬 2 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2059875166004675026) — @mranti (Michael Anti)
-[2] [Author page](/entities/authors/mranti.md)

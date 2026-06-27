@@ -58,8 +58,6 @@ Claude.ai Pro 的免费 `claude -p` 调用将于 6 月 15 日终止，这是 Ant
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 7 · 🔄 0 · 💬 0 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2054808028134949165) — @mranti (Michael Anti)
-[2] [Author page](/entities/authors/mranti.md)

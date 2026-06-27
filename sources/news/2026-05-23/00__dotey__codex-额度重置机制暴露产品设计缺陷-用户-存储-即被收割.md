@@ -58,8 +58,6 @@ Codex 额度又重置了，又亏了几十个亿😭
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 3 · 🔄 0 · 💬 6 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2058301264992067603) — @dotey (宝玉)
-[2] [Author page](/entities/authors/dotey.md)

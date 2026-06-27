@@ -61,8 +61,6 @@ https://coze.zn  强烈推荐大家试试。 https://t.co/x2N7hbkFEb
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 13 · 🔄 1 · 💬 11 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2062433480404042119) — @bourneliu66 (刘小排)
-[2] [Author page](/entities/authors/bourneliu66.md)

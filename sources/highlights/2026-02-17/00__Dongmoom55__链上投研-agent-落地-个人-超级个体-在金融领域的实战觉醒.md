@@ -56,8 +56,6 @@ Q：具体是Ai哪一个领域？
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 4 · 🔄 0 · 💬 1 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2023539994988843100) — @Dongmoom55 (河马)
-[2] [Author page](/entities/authors/dongmoom55.md)

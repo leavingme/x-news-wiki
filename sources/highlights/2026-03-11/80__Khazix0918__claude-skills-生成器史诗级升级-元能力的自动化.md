@@ -48,10 +48,6 @@ Claude悄悄更新了Skills生成器，这绝对是一次史诗级升级。
 - **精选类别**: ✨ 亮点
 - **优先级**: 80
 - **互动**: ❤️ 1329 · 🔄 267 · 💬 43 · 🔖 0 · 👁 0
-- **关联主题**: [skill-automation-engineering](/concepts/skill-automation-engineering.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2031579241062740206) — @Khazix0918 (数字生命卡兹克)
-[2] [Author page](/entities/authors/khazix0918.md)
-[3] [Related topic](/concepts/skill-automation-engineering.md)

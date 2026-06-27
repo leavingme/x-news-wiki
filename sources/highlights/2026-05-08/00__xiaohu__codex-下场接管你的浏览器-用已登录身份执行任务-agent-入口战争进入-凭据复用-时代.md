@@ -61,8 +61,6 @@ OpenAI 上架了 Codex for Chrome 浏览器扩展
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 69 · 🔄 6 · 💬 21 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2052564516362498321) — @xiaohu (小互)
-[2] [Author page](/entities/authors/xiaohu.md)

@@ -89,8 +89,6 @@ Follow me if you want the future of physics before it hits mainstream.
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 2714 · 🔄 597 · 💬 125 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/CharlesMullins2/status/2052381241681514612) — @CharlesMullins2 (TheNewPhysics)
-[2] [Author page](/entities/authors/charlesmullins2.md)

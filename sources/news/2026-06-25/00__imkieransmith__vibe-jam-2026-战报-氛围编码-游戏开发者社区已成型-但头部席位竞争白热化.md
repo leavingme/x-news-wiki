@@ -54,8 +54,6 @@ Looking forward to Vibe Jam 2027!
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 29 · 🔄 1 · 💬 5 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2063548050535026854) — @imkieransmith (Kieran Smith)
-[2] [Author page](/entities/authors/imkieransmith.md)

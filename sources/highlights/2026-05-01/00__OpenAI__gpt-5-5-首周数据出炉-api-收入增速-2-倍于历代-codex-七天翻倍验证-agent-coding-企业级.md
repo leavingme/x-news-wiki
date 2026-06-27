@@ -51,10 +51,6 @@ API revenue is growing more than 2x faster than any prior release, while Codex d
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 4494 · 🔄 189 · 💬 361 · 🔖 0 · 👁 0
-- **关联主题**: [codex-ecosystem-platform-war](/concepts/codex-ecosystem-platform-war.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/OpenAI/status/2050250926888468929) — @OpenAI (OpenAI)
-[2] [Author page](/entities/authors/openai.md)
-[3] [Related topic](/concepts/codex-ecosystem-platform-war.md)

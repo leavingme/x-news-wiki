@@ -74,8 +74,6 @@ AI应用软件板块跌的有点惨
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 12 · 🔄 9 · 💬 11 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2021907585377742893) — @BeliaSchoo91221 (币圈小韭菜)
-[2] [Author page](/entities/authors/beliaschoo91221.md)

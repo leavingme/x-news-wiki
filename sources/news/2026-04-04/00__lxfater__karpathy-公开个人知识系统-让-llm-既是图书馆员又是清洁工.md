@@ -74,8 +74,6 @@ AI大神karpathy是如何用管理知识的呢？
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 857 · 🔄 198 · 💬 20 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2039902366624010494) — @lxfater (铁锤人)
-[2] [Author page](/entities/authors/lxfater.md)

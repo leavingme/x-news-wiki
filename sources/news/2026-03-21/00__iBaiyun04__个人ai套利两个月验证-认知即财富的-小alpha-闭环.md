@@ -48,10 +48,6 @@ x_source: "crawler"
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 70 · 🔄 2 · 💬 15 · 🔖 0 · 👁 0
-- **关联主题**: [ai-crypto-agent-infra](/concepts/ai-crypto-agent-infra.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2035242366379204853) — @iBaiyun04 (白云☁️)
-[2] [Author page](/entities/authors/ibaiyun04.md)
-[3] [Related topic](/concepts/ai-crypto-agent-infra.md)

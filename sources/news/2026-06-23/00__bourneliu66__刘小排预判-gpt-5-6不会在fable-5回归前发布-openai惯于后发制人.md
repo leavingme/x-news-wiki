@@ -54,8 +54,6 @@ OpenAI 习惯于后发制人，当对手出绝招（为就是 Fable 5 回归） 
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 5 · 🔄 1 · 💬 3 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2069508823078097103) — @bourneliu66 (刘小排)
-[2] [Author page](/entities/authors/bourneliu66.md)

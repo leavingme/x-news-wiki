@@ -60,10 +60,6 @@ x_source: "crawler"
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 246 · 🔄 39 · 💬 24 · 🔖 0 · 👁 0
-- **关联主题**: [moe-edge-compute-monopoly](/concepts/moe-edge-compute-monopoly.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2028659838738432088) — @xiaohu (小互)
-[2] [Author page](/entities/authors/xiaohu.md)
-[3] [Related topic](/concepts/moe-edge-compute-monopoly.md)

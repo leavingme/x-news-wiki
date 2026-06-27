@@ -59,10 +59,6 @@ x_source: "crawler"
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 121 · 🔄 22 · 💬 102 · 🔖 0 · 👁 0
-- **关联主题**: [ai-crypto-agent-infra](/concepts/ai-crypto-agent-infra.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2036390592062824730) — @binancezh (币安Binance华语)
-[2] [Author page](/entities/authors/binancezh.md)
-[3] [Related topic](/concepts/ai-crypto-agent-infra.md)

@@ -59,10 +59,6 @@ gakki：当大多数人还在用 Claude Code「写代码」时，真正的价值
 - **精选类别**: ✨ 亮点
 - **优先级**: 88
 - **互动**: ❤️ 104 · 🔄 24 · 💬 3 · 🔖 0 · 👁 0
-- **关联主题**: [claude-code-ecosystem](/concepts/claude-code-ecosystem.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2032716540307714403) — @kevinma_dev_zh (Kevin Ma)
-[2] [Author page](/entities/authors/kevinma-dev-zh.md)
-[3] [Related topic](/concepts/claude-code-ecosystem.md)

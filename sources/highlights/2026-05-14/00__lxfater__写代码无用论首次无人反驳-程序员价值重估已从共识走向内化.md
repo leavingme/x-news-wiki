@@ -61,8 +61,6 @@ gakki锐评：说「不鼓励辞职」但自己两年多没回去，这是言行
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 18 · 🔄 0 · 💬 5 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2054831419848008184) — @lxfater (铁锤人)
-[2] [Author page](/entities/authors/lxfater.md)

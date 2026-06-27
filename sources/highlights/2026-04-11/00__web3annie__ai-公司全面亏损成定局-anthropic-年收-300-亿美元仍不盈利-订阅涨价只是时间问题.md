@@ -61,8 +61,6 @@ ChatGPT每周活跃用户近9亿，但只有5%付费
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 93 · 🔄 0 · 💬 20 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2042790546285170739) — @web3annie (Annie 所长)
-[2] [Author page](/entities/authors/web3annie.md)

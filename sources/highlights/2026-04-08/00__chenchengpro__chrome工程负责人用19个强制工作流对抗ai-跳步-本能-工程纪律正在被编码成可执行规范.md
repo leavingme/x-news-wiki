@@ -74,8 +74,6 @@ https://t.co/NKae2Hu1mB
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 161 · 🔄 34 · 💬 11 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2040808769899356527) — @chenchengpro (陈成)
-[2] [Author page](/entities/authors/chenchengpro.md)

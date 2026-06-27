@@ -107,8 +107,6 @@ gakki 锐评：当所有人都在讨论 AI 能做什么时，玉伯在讨论 AI 
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 42 · 🔄 3 · 💬 10 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2051130619011465238) — @lifesinger (Frank Wang 玉伯)
-[2] [Author page](/entities/authors/lifesinger.md)

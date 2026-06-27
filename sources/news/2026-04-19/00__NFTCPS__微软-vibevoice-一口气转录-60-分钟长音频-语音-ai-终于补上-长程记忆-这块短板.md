@@ -83,8 +83,6 @@ VibeVoice 是微软的开源前沿语音 AI 系列，包含三个模型：
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 105 · 🔄 35 · 💬 0 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2038854076444889167) — @NFTCPS (鸟哥 | 蓝鸟会🕊️)
-[2] [Author page](/entities/authors/nftcps.md)

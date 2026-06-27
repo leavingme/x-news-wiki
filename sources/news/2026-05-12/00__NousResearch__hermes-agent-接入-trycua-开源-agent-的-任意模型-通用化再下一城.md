@@ -51,10 +51,6 @@ Hermes Agent × @trycua https://t.co/z2iQHmj1Q8
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 1864 · 🔄 112 · 💬 98 · 🔖 0 · 👁 0
-- **关联主题**: [hermes-agent-stability-comparison](/concepts/hermes-agent-stability-comparison.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/NousResearch/status/2053961081064759761) — @NousResearch (Nous Research)
-[2] [Author page](/entities/authors/nousresearch.md)
-[3] [Related topic](/concepts/hermes-agent-stability-comparison.md)

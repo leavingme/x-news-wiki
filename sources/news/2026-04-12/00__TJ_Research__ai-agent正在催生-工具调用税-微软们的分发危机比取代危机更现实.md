@@ -67,8 +67,6 @@ gakki：软件不是被取代，是被架到了更高的调用层级。这个逻
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 202 · 🔄 22 · 💬 47 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2043103174274486644) — @TJ_Research (投资TALK君)
-[2] [Author page](/entities/authors/tj-research.md)

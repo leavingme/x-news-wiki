@@ -62,8 +62,6 @@ This approach successfully solved a major open problem regarding gravitational r
 - **精选类别**: 📰 头条
 - **优先级**: 90
 - **互动**: ❤️ 522 · 🔄 103 · 💬 15 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2029837999614410809) — @jiqizhixin (机器之心 JIQIZHIXIN)
-[2] [Author page](/entities/authors/jiqizhixin.md)

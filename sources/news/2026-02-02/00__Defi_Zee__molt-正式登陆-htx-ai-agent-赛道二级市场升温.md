@@ -81,8 +81,6 @@ AI Agent 的故事，才刚刚开始。 👀
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 15 · 🔄 0 · 💬 18 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2018040928594735252) — @Defi_Zee (ZEE 🐝🌶️)
-[2] [Author page](/entities/authors/defi-zee.md)

@@ -66,8 +66,6 @@ Google Stitch 发布了 𝗗𝗘𝗦𝗜𝗚𝗡.𝗺𝗱
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 1674 · 🔄 318 · 💬 21 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2040272305277079728) — @yangyi (Yangyi)
-[2] [Author page](/entities/authors/yangyi.md)

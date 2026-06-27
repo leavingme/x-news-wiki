@@ -63,10 +63,6 @@ App Store 直达：https://t.co/2U7X7dluTa
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 71 · 🔄 8 · 💬 8 · 🔖 0 · 👁 0
-- **关联主题**: [gemma端侧多模态](/concepts/gemma端侧多模态.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2040360314185916758) — @xincctnnq (币圈女菩萨 | Pizza披萨🍕)
-[2] [Author page](/entities/authors/xincctnnq.md)
-[3] [Related topic](/concepts/gemma端侧多模态.md)

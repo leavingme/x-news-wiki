@@ -212,8 +212,6 @@ xBubble 很可能就是 AI 时代 OPC经济 获取超额利润最核心的商业
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 92 · 🔄 2 · 💬 127 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2069658903202484661) — @TUGE8888 (寻一方净土)
-[2] [Author page](/entities/authors/tuge8888.md)

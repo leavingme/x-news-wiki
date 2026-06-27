@@ -55,8 +55,6 @@ Claude Code 上线 Computer Use
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 2 · 🔄 1 · 💬 0 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2038805249167966687) — @SeptenAI (Septen AI)
-[2] [Author page](/entities/authors/septenai.md)

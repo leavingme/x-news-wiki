@@ -65,10 +65,6 @@ Our report: https://t.co/fuQR0fyi4g
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 6 · 🔄 2 · 💬 0 · 🔖 0 · 👁 0
-- **关联主题**: [agent-security-governance](/concepts/agent-security-governance.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2067147986224980372) — @jiqizhixin (机器之心 JIQIZHIXIN)
-[2] [Author page](/entities/authors/jiqizhixin.md)
-[3] [Related topic](/concepts/agent-security-governance.md)

@@ -59,10 +59,6 @@ Google 刚刚推出了一款无屏幕 Fitbit 运动手环
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 12 · 🔄 1 · 💬 9 · 🔖 0 · 👁 0
-- **关联主题**: [agent-perception-infrastructure](/concepts/agent-perception-infrastructure.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2052584541387444496) — @xiaohu (小互)
-[2] [Author page](/entities/authors/xiaohu.md)
-[3] [Related topic](/concepts/agent-perception-infrastructure.md)

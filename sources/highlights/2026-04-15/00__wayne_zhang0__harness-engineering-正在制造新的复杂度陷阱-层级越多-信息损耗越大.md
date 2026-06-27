@@ -51,8 +51,6 @@ gakki 判断：这不只是"用得不对"的问题——当推理质量高度依
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 97 · 🔄 6 · 💬 40 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2042371132993782087) — @wayne_zhang0 (Wayne Zhang)
-[2] [Author page](/entities/authors/wayne-zhang0.md)

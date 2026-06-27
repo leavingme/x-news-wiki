@@ -60,8 +60,6 @@ accomplish 这款开源工具的核心意义不是「复刻」，而是它验证
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 80 · 🔄 19 · 💬 7 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2039197509969756189) — @IndieDevHailey (开发者Hailey)
-[2] [Author page](/entities/authors/indiedevhailey.md)

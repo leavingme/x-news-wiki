@@ -77,10 +77,6 @@ S1刚刚结束，我们可以看看未来的可能空投收益：
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 113 · 🔄 0 · 💬 146 · 🔖 0 · 👁 0
-- **关联主题**: [ai-data-blockchain-verification](/concepts/ai-data-blockchain-verification.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2037422406311239751) — @0xYi666 (0xYi暖阳🕊️ | 🐬TermMax)
-[2] [Author page](/entities/authors/0xyi666.md)
-[3] [Related topic](/concepts/ai-data-blockchain-verification.md)

@@ -51,8 +51,6 @@ why not just use Claude Code? 🤔 https://t.co/0eXv1RNCtl
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 1388 · 🔄 55 · 💬 149 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/Bhavani_00007/status/2048259021225029772) — @Bhavani_00007 (Bhavani.py)
-[2] [Author page](/entities/authors/bhavani-00007.md)

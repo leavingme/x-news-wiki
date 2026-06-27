@@ -57,10 +57,6 @@ gakki：Stripe/Vercel/Notion 们集体「投降」把设计语言交出，本质
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 214 · 🔄 39 · 💬 2 · 🔖 0 · 👁 0
-- **关联主题**: [design-md-protocol](/concepts/design-md-protocol.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2040719476639801490) — @aiwarts (卡尔的AI沃茨)
-[2] [Author page](/entities/authors/aiwarts.md)
-[3] [Related topic](/concepts/design-md-protocol.md)

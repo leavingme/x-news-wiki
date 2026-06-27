@@ -49,8 +49,6 @@ gakki锐评：当某个工具的体验成为「虽然不如它但我已经很好
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 1 · 🔄 0 · 💬 2 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2056970235849154574) — @gkxspace (余温)
-[2] [Author page](/entities/authors/gkxspace.md)

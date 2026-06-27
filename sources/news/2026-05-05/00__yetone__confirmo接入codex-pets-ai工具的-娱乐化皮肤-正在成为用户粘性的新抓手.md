@@ -50,8 +50,6 @@ https://t.co/6Cjr8FqjRd https://t.co/KCzF6qjSC2
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 3 · 🔄 0 · 💬 1 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2051696977734488376) — @yetone (yetone)
-[2] [Author page](/entities/authors/yetone.md)

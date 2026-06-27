@@ -54,8 +54,6 @@ gakki：这个观察虽然个人化，但传递了一个重要的市场信号：
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 101 · 🔄 3 · 💬 18 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2061441268182573267) — @lifesinger (Frank Wang 玉伯)
-[2] [Author page](/entities/authors/lifesinger.md)

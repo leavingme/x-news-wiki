@@ -57,10 +57,6 @@ Claude Code 泄露的源码里藏着 44 个功能开关和 20 多个未发布特
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 47 · 🔄 5 · 💬 5 · 🔖 0 · 👁 0
-- **关联主题**: [claude-code-ecosystem](/concepts/claude-code-ecosystem.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2038994780643017157) — @geekbb (Geek)
-[2] [Author page](/entities/authors/geekbb.md)
-[3] [Related topic](/concepts/claude-code-ecosystem.md)

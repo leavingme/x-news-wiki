@@ -75,8 +75,6 @@ x_source: "crawler"
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 145 · 🔄 27 · 💬 31 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2039191204370493943) — @Jason23818126 (Dr. Moyu 摸鱼局长🕵️)
-[2] [Author page](/entities/authors/jason23818126.md)

@@ -53,10 +53,6 @@ Still experimenting with using a single visual production graph as the anchor fo
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 843 · 🔄 92 · 💬 78 · 🔖 0 · 👁 0
-- **关联主题**: [ai-video-story-coherence](/concepts/ai-video-story-coherence.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/HBCoop_/status/2052058355321967069) — @HBCoop_ (Heather Cooper)
-[2] [Author page](/entities/authors/hbcoop.md)
-[3] [Related topic](/concepts/ai-video-story-coherence.md)

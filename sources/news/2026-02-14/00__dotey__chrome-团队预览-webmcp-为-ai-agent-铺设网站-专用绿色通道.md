@@ -54,8 +54,6 @@ WebMCP 是在浏览器层面为 AI Agent 建立了一条与网站直接对话的
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 365 · 🔄 61 · 💬 21 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2022392133827932255) — @dotey (宝玉)
-[2] [Author page](/entities/authors/dotey.md)

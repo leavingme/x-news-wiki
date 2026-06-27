@@ -69,8 +69,6 @@ OpenAI 产品负责人 Nick Turley 在采访里讲的介绍了他们的 Auto Rev
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 6 · 🔄 0 · 💬 7 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2060262269389566066) — @xiaohu (小互)
-[2] [Author page](/entities/authors/xiaohu.md)

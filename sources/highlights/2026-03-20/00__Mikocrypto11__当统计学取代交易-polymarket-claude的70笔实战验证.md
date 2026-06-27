@@ -101,10 +101,6 @@ Data → edge → execution
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 8 · 🔄 2 · 💬 1 · 🔖 0 · 👁 0
-- **关联主题**: [political-intelligence-arbitrage](/concepts/political-intelligence-arbitrage.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2034651796753588605) — @Mikocrypto11 (0x_Miko)
-[2] [Author page](/entities/authors/mikocrypto11.md)
-[3] [Related topic](/concepts/political-intelligence-arbitrage.md)

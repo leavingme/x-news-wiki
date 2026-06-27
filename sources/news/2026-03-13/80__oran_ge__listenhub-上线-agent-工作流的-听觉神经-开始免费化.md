@@ -57,8 +57,6 @@ ListenHub ASR 语音识别 API 全新上线，无限免费。
 - **精选类别**: 📰 头条
 - **优先级**: 80
 - **互动**: ❤️ 315 · 🔄 66 · 💬 15 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2032384195855868310) — @oran_ge (Orange AI)
-[2] [Author page](/entities/authors/oran-ge.md)

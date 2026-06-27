@@ -52,8 +52,6 @@ gakki：计划模式的本质是「人类保留否决权」，但长期看这会
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 0 · 🔄 0 · 💬 0 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2057833944507101431) — @dotey (宝玉)
-[2] [Author page](/entities/authors/dotey.md)

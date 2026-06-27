@@ -74,10 +74,6 @@ GTC Keynote核心要點回顧
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 28 · 🔄 6 · 💬 1 · 🔖 0 · 👁 0
-- **关联主题**: [token-economics-infrastructure](/concepts/token-economics-infrastructure.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2033944627829788863) — @QQ_Timmy (駿HaYaO)
-[2] [Author page](/entities/authors/qq-timmy.md)
-[3] [Related topic](/concepts/token-economics-infrastructure.md)

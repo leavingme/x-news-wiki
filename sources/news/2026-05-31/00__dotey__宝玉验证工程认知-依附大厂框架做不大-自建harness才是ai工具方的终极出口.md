@@ -51,8 +51,6 @@ gakki：宝玉的判断切中了一个行业集体认知误区——接入CC/Cla
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 5 · 🔄 0 · 💬 1 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2060939421491372177) — @dotey (宝玉)
-[2] [Author page](/entities/authors/dotey.md)

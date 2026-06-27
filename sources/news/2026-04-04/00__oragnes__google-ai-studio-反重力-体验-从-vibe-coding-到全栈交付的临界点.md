@@ -59,8 +59,6 @@ Google AI Studio 正式推出了全新全栈 vibe coding 体验，通过 Antigra
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 407 · 🔄 65 · 💬 19 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2034848962541494574) — @oragnes (比特币橙子Trader)
-[2] [Author page](/entities/authors/oragnes.md)

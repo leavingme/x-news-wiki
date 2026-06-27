@@ -58,8 +58,6 @@ https://t.co/0IQJ533FsI
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 2 · 🔄 0 · 💬 1 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2057358707646959725) — @Rourou0413 (Rourou)
-[2] [Author page](/entities/authors/rourou0413.md)

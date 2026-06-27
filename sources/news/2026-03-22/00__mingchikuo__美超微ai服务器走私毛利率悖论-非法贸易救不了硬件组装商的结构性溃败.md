@@ -61,8 +61,6 @@ https://t.co/jFjc4Zzmi1
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 193 · 🔄 14 · 💬 23 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2035376388136382518) — @mingchikuo (郭明錤 (Ming-Chi Kuo))
-[2] [Author page](/entities/authors/mingchikuo.md)

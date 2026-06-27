@@ -59,10 +59,6 @@ gakki：MLX 生态之前一直缺量化这一环，Cider 的出现意味着 Appl
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 1 · 🔄 0 · 💬 1 · 🔖 0 · 👁 0
-- **关联主题**: [edge-agent-local-compute](/concepts/edge-agent-local-compute.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2051975606980751703) — @xiaohu (小互)
-[2] [Author page](/entities/authors/xiaohu.md)
-[3] [Related topic](/concepts/edge-agent-local-compute.md)

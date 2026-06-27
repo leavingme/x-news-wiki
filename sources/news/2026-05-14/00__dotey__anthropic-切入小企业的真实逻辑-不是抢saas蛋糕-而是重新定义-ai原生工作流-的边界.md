@@ -66,8 +66,6 @@ Anthropic 刚推出 Claude for Small Business，把 AI 直接集成到 QuickBook
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 2 · 🔄 1 · 💬 1 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2054776883493904838) — @dotey (宝玉)
-[2] [Author page](/entities/authors/dotey.md)

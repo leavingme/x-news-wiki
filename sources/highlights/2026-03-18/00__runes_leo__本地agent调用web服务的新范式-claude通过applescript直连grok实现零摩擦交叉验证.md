@@ -56,10 +56,6 @@ Grok，逐条核实并给出来源，1 秒出结果。
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 117 · 🔄 12 · 💬 3 · 🔖 0 · 👁 0
-- **关联主题**: [claude-code-ecosystem](/concepts/claude-code-ecosystem.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2033442961074340294) — @runes_leo (Leo｜一个人 + AI)
-[2] [Author page](/entities/authors/runes-leo.md)
-[3] [Related topic](/concepts/claude-code-ecosystem.md)

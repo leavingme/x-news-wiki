@@ -49,8 +49,6 @@ Shout out to @replit engineers and support team keeping everything together as u
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 359 · 🔄 17 · 💬 52 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/amasad/status/2050637597790363862) — @amasad (Amjad Masad)
-[2] [Author page](/entities/authors/amasad.md)

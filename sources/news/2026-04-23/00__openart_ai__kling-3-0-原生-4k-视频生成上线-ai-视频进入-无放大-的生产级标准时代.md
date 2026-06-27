@@ -55,8 +55,6 @@ Kling 3.0 is live on OpenArt, the first AI model with native 4K video. No upscal
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 946 · 🔄 618 · 💬 169 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/openart_ai/status/2047388742671872107) — @openart_ai (OpenArt)
-[2] [Author page](/entities/authors/openart-ai.md)

@@ -51,10 +51,6 @@ Claude Code 推出了官方可以远程连接 Telegram 和 discord 的 MCP
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 221 · 🔄 19 · 💬 32 · 🔖 0 · 👁 0
-- **关联主题**: [agent-mobile-orchestration](/concepts/agent-mobile-orchestration.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2034771704313250096) — @op7418 (歸藏(guizang.ai))
-[2] [Author page](/entities/authors/op7418.md)
-[3] [Related topic](/concepts/agent-mobile-orchestration.md)

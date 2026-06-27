@@ -61,8 +61,6 @@ https://t.co/O2sTDTZcjq
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 526 · 🔄 134 · 💬 29 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2028590313233678463) — @Jacob43817149 (Jacob🇨🇦🇺🇸)
-[2] [Author page](/entities/authors/jacob43817149.md)

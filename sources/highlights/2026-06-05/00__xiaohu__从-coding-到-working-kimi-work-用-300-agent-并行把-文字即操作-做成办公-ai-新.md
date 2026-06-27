@@ -64,8 +64,6 @@ Kimi 刚刚发了一个新东西： Kimi Work
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 10 · 🔄 2 · 💬 5 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2062824756634931256) — @xiaohu (小互)
-[2] [Author page](/entities/authors/xiaohu.md)

@@ -60,10 +60,6 @@ gakki锐评：产品人的诅咒与祝福是同一件事——他们的判断框
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 76 · 🔄 2 · 💬 21 · 🔖 0 · 👁 0
-- **关联主题**: [product-thinker-rise](/concepts/product-thinker-rise.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2063612813164331034) — @lifesinger (Frank Wang 玉伯)
-[2] [Author page](/entities/authors/lifesinger.md)
-[3] [Related topic](/concepts/product-thinker-rise.md)

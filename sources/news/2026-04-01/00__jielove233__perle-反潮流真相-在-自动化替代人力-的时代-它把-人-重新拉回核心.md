@@ -111,8 +111,6 @@ AI 下一阶段，不是谁模型更大，
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 37 · 🔄 0 · 💬 41 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2037509944338227616) — @jielove233 (是 阿 杰 吖)
-[2] [Author page](/entities/authors/jielove233.md)

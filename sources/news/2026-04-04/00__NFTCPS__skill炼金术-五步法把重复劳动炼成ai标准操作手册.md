@@ -87,10 +87,6 @@ gakki锐评：Skill的门槛极低，但天花板极高。描述能力将成为A
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 91 · 🔄 23 · 💬 4 · 🔖 0 · 👁 0
-- **关联主题**: [skill-vs-mcp-paradigm](/concepts/skill-vs-mcp-paradigm.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2039915560226693168) — @NFTCPS (鸟哥 | 蓝鸟会🕊️)
-[2] [Author page](/entities/authors/nftcps.md)
-[3] [Related topic](/concepts/skill-vs-mcp-paradigm.md)

@@ -63,8 +63,6 @@ AI 也让我们在进化
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 583 · 🔄 75 · 💬 28 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2034615815933448310) — @lifesinger (Frank Wang 玉伯)
-[2] [Author page](/entities/authors/lifesinger.md)

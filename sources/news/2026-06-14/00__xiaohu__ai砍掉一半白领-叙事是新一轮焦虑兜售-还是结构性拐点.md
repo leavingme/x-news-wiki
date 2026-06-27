@@ -50,8 +50,6 @@ AI将砍掉一半白领，替代90%的工作？ https://t.co/C29WJa2rno
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 0 · 🔄 0 · 💬 1 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2065991812544880943) — @xiaohu (小互)
-[2] [Author page](/entities/authors/xiaohu.md)

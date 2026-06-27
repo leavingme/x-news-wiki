@@ -232,8 +232,6 @@ AI将极大推动第二点，对第一点影响复杂。但我更想谈第三点
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 146 · 🔄 48 · 💬 20 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/1948349054812905699) — @rickawsb (rick awsb ($people, $people))
-[2] [Author page](/entities/authors/rickawsb.md)

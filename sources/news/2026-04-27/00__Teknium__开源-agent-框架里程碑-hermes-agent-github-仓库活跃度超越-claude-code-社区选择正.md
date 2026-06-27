@@ -49,8 +49,6 @@ Happy to announce that Hermes Agent's repo just surpassed Anthropic's Claude Cod
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 4327 · 🔄 235 · 💬 236 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/Teknium/status/2048710115885523444) — @Teknium (Teknium 🪽)
-[2] [Author page](/entities/authors/teknium.md)

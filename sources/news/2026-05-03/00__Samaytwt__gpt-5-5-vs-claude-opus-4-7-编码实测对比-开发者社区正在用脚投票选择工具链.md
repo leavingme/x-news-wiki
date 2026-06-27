@@ -53,8 +53,6 @@ As a developer, which one is worth it for coding?
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 266 · 🔄 8 · 💬 160 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/Samaytwt/status/2050798500175306900) — @Samaytwt (Samay)
-[2] [Author page](/entities/authors/samaytwt.md)

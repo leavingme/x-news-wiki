@@ -49,10 +49,6 @@ codex终于支持subagent了
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 157 · 🔄 8 · 💬 22 · 🔖 0 · 👁 0
-- **关联主题**: [sub-agents-multi-expert](/concepts/sub-agents-multi-expert.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2033646439838912682) — @dotey (宝玉)
-[2] [Author page](/entities/authors/dotey.md)
-[3] [Related topic](/concepts/sub-agents-multi-expert.md)

@@ -57,10 +57,6 @@ Karpathy当年用纯C语言（不依赖任何框架）实现了llama2.c，证明
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 8 · 🔄 0 · 💬 2 · 🔖 0 · 👁 0
-- **关联主题**: [moe-edge-compute-monopoly](/concepts/moe-edge-compute-monopoly.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2028549893367931309) — @CryptoYunqi (常为希 🔸🚢币安人生（Ai奇点）)
-[2] [Author page](/entities/authors/cryptoyunqi.md)
-[3] [Related topic](/concepts/moe-edge-compute-monopoly.md)

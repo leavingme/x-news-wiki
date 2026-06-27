@@ -129,8 +129,6 @@ GitHub 这篇文章里有一个很好的判断，delegation isn’t free--委派
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 12 · 🔄 0 · 💬 11 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2066208856334643324) — @Zesee (Rachel🥥)
-[2] [Author page](/entities/authors/zesee.md)

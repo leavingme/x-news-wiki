@@ -60,10 +60,6 @@ Slate 的解法叫 Thread Weaving：子线程每完成一个动作生成一个 E
 - **精选类别**: ✨ 亮点
 - **优先级**: 88
 - **互动**: ❤️ 97 · 🔄 16 · 💬 8 · 🔖 0 · 👁 0
-- **关联主题**: [sub-agents-multi-expert](/concepts/sub-agents-multi-expert.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2033022122017382728) — @runes_leo (Leo)
-[2] [Author page](/entities/authors/runes-leo.md)
-[3] [Related topic](/concepts/sub-agents-multi-expert.md)

@@ -50,8 +50,6 @@ gakki 锐评：AI 出海工具讨论热闹，但底层流量基建（IP + 养号
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 1 · 🔄 0 · 💬 0 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2065063717880872993) — @gkxspace (余温)
-[2] [Author page](/entities/authors/gkxspace.md)

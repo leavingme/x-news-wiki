@@ -64,8 +64,6 @@ AI 的高速执行，还加重了这个问题。
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 2 · 🔄 0 · 💬 1 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2065549365452927432) — @oran_ge (Orange AI)
-[2] [Author page](/entities/authors/oran-ge.md)

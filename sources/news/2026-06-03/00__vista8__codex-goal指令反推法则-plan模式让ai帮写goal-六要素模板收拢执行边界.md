@@ -77,8 +77,6 @@ Pause if: [blocked conditions / human decisions / budget cap].
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 28 · 🔄 3 · 💬 3 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2062189983096557995) — @vista8 (向阳乔木)
-[2] [Author page](/entities/authors/vista8.md)

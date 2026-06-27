@@ -89,10 +89,6 @@ Origins 的路子，是把重计算放到链下，把结果证明放到链上。
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 32 · 🔄 0 · 💬 29 · 🔖 0 · 👁 0
-- **关联主题**: [ai-data-blockchain-verification](/concepts/ai-data-blockchain-verification.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2038962727348228293) — @QF88688 (草帽 boy)
-[2] [Author page](/entities/authors/qf88688.md)
-[3] [Related topic](/concepts/ai-data-blockchain-verification.md)

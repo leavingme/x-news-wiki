@@ -51,8 +51,6 @@ gakki：这个父亲用物理限制对抗信息过载，本质上是在模拟一
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 87 · 🔄 2 · 💬 27 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2046437128100589927) — @mranti (Michael Anti)
-[2] [Author page](/entities/authors/mranti.md)

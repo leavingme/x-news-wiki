@@ -51,8 +51,6 @@ https://t.co/qccCBWk2zb
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 22 · 🔄 24 · 💬 1 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2019365274999497084) — @uniswap12 (唐华斑竹🦅🔶BNB)
-[2] [Author page](/entities/authors/uniswap12.md)

@@ -61,10 +61,6 @@ https://t.co/bXta2OWgVJ
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 77 · 🔄 5 · 💬 8 · 🔖 0 · 👁 0
-- **关联主题**: [ai-management-philosophy](/concepts/ai-management-philosophy.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2039330814601687535) — @lifesinger (Frank Wang 玉伯)
-[2] [Author page](/entities/authors/lifesinger.md)
-[3] [Related topic](/concepts/ai-management-philosophy.md)

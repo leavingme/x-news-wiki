@@ -53,10 +53,6 @@ https://t.co/GpSEf1pgYa
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 124 · 🔄 12 · 💬 7 · 🔖 0 · 👁 0
-- **关联主题**: [skill-barrier-collapse](/concepts/skill-barrier-collapse.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2069574785185567072) — @charliermarsh (Charlie Marsh)
-[2] [Author page](/entities/authors/charliermarsh.md)
-[3] [Related topic](/concepts/skill-barrier-collapse.md)

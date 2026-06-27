@@ -50,8 +50,6 @@ x_source: "crawler"
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 2 · 🔄 0 · 💬 1 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2019395987102658809) — @lijigang (李继刚)
-[2] [Author page](/entities/authors/lijigang.md)

@@ -50,8 +50,6 @@ Claude Code在toC层面，本质上是拿个人开发者当小白鼠的”甜点
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 120 · 🔄 3 · 💬 10 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2040296545669832970) — @himself65 (面包🍞)
-[2] [Author page](/entities/authors/himself65.md)

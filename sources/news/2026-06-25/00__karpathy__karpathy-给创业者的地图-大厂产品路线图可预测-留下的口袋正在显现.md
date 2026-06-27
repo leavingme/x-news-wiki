@@ -51,10 +51,6 @@ More generally, the product roadmap of big labs is clear and predictable, which 
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 1353 · 🔄 28 · 💬 109 · 🔖 0 · 👁 0
-- **关联主题**: [first-mover-advantage-ai-era](/concepts/first-mover-advantage-ai-era.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2042615713219908059) — @karpathy (Andrej Karpathy)
-[2] [Author page](/entities/authors/karpathy.md)
-[3] [Related topic](/concepts/first-mover-advantage-ai-era.md)

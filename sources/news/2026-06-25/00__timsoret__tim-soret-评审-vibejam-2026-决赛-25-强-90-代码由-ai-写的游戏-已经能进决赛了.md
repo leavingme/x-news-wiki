@@ -54,10 +54,6 @@ I will be fair, but uncompromising, as usual. https://t.co/phGts2a52m
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 62 · 🔄 1 · 💬 8 · 🔖 0 · 👁 0
-- **关联主题**: [vibe-coding-methodology](/concepts/vibe-coding-methodology.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2066520029416264115) — @timsoret (Tim Soret)
-[2] [Author page](/entities/authors/timsoret.md)
-[3] [Related topic](/concepts/vibe-coding-methodology.md)

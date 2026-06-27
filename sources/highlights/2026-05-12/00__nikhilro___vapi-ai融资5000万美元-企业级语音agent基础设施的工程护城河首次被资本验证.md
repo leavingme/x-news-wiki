@@ -49,8 +49,6 @@ This funding round is a reality because of the engineering behind it: predictabl
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 124 · 🔄 8 · 💬 22 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/nikhilro_/status/2054216433882558848) — @nikhilro_ (Nikhil Gupta)
-[2] [Author page](/entities/authors/nikhilro.md)

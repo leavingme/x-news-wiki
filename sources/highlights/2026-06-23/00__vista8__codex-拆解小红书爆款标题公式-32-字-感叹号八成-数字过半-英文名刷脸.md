@@ -52,10 +52,6 @@ Codex给的规律：
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 2 · 🔄 0 · 💬 1 · 🔖 0 · 👁 0
-- **关联主题**: [dbskill-formula-marketplace](/concepts/dbskill-formula-marketplace.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2069434073752502500) — @vista8 (向阳乔木)
-[2] [Author page](/entities/authors/vista8.md)
-[3] [Related topic](/concepts/dbskill-formula-marketplace.md)

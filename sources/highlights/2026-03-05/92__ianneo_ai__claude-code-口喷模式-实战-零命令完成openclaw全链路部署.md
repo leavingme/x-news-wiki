@@ -77,10 +77,6 @@ OpenClaw 只是一个例子
 - **精选类别**: ✨ 亮点
 - **优先级**: 92
 - **互动**: ❤️ 98 · 🔄 24 · 💬 8 · 🔖 0 · 👁 0
-- **关联主题**: [claude-code-natural-language-workflow](/concepts/claude-code-natural-language-workflow.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2029390556946915668) — @ianneo_ai (Ian (伊恩))
-[2] [Author page](/entities/authors/ianneo-ai.md)
-[3] [Related topic](/concepts/claude-code-natural-language-workflow.md)

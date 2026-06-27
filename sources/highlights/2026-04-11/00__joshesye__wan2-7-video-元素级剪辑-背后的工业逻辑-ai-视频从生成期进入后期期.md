@@ -101,10 +101,6 @@ Wan2.7 解决了这个问题，续写更流畅，尾帧控制更精准。
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 176 · 🔄 30 · 💬 7 · 🔖 0 · 👁 0
-- **关联主题**: [ai-video-story-coherence](/concepts/ai-video-story-coherence.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2041146931737727311) — @joshesye (行者AI视频)
-[2] [Author page](/entities/authors/joshesye.md)
-[3] [Related topic](/concepts/ai-video-story-coherence.md)

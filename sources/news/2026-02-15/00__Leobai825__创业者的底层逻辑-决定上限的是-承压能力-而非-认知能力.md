@@ -74,8 +74,6 @@ x_source: "crawler"
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 133 · 🔄 29 · 💬 13 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2022905521599123699) — @Leobai825 (Leobai｜天策)
-[2] [Author page](/entities/authors/leobai825.md)

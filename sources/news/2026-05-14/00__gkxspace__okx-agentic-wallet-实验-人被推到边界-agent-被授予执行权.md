@@ -67,8 +67,6 @@ OKX 这个交易赛，我觉得它提供了一个很具象的观察窗口：
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 8 · 🔄 1 · 💬 3 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2054921392018051382) — @gkxspace (余温)
-[2] [Author page](/entities/authors/gkxspace.md)

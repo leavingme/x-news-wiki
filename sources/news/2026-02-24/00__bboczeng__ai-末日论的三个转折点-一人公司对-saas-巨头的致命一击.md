@@ -60,8 +60,6 @@ x_source: "crawler"
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 10 · 🔄 2 · 💬 1 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2026085371994620322) — @bboczeng (勃勃OC)
-[2] [Author page](/entities/authors/bboczeng.md)

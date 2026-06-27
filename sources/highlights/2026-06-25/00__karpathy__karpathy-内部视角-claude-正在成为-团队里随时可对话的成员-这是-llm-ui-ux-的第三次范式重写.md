@@ -52,10 +52,6 @@ Imo this is the 3rd major redesign of LLM UIUX. The first paradigm was that the 
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 19443 · 🔄 1592 · 💬 1001 · 🔖 0 · 👁 0
-- **关联主题**: [agent-native-paradigm](/concepts/agent-native-paradigm.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2069547676849557725) — @karpathy (Andrej Karpathy)
-[2] [Author page](/entities/authors/karpathy.md)
-[3] [Related topic](/concepts/agent-native-paradigm.md)

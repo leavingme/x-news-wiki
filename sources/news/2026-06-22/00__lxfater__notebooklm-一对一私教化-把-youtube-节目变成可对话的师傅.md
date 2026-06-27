@@ -50,10 +50,6 @@ x_source: "crawler"
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 1 · 🔄 0 · 💬 1 · 🔖 0 · 👁 0
-- **关联主题**: [ai-personalized-tutoring](/concepts/ai-personalized-tutoring.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2068954386429337998) — @lxfater (铁锤人)
-[2] [Author page](/entities/authors/lxfater.md)
-[3] [Related topic](/concepts/ai-personalized-tutoring.md)

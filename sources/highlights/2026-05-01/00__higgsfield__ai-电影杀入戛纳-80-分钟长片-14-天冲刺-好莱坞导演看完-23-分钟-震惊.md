@@ -55,10 +55,6 @@ Watch his reaction below 👇 https://t.co/V2YoNRdr1E
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 424 · 🔄 72 · 💬 94 · 🔖 0 · 👁 0
-- **关联主题**: [ai-short-drama-industrialization](/concepts/ai-short-drama-industrialization.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/higgsfield/status/2050207709874589968) — @higgsfield (Higgsfield AI 🧩)
-[2] [Author page](/entities/authors/higgsfield.md)
-[3] [Related topic](/concepts/ai-short-drama-industrialization.md)

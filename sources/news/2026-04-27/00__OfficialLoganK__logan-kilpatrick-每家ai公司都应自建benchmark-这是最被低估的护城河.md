@@ -51,8 +51,6 @@ This is the way if you want model progress to disproportionally benefit your com
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 775 · 🔄 49 · 💬 69 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/OfficialLoganK/status/2048554074107470305) — @OfficialLoganK (Logan Kilpatrick)
-[2] [Author page](/entities/authors/officiallogank.md)

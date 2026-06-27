@@ -63,8 +63,6 @@ AI 时代我现在观察到大部分人的想象力被两个点限制住了：
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 6 · 🔄 0 · 💬 0 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2026079318234083587) — @brucexu_eth (brucexu.eth ❤️🐼🦇🔊)
-[2] [Author page](/entities/authors/brucexu-eth.md)

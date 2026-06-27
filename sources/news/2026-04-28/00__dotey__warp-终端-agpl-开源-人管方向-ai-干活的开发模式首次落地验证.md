@@ -62,8 +62,6 @@ Warp 创始人 Zach Lloyd 说，五年前 Warp 刚上线时就计划开源，但
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 14 · 🔄 0 · 💬 1 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2049179379737960669) — @dotey (宝玉)
-[2] [Author page](/entities/authors/dotey.md)

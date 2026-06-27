@@ -51,8 +51,6 @@ Claw Code 火速刷新 GitHub 纪录！Anthropic 泄露 Claude Code 源码后，
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 86 · 🔄 9 · 💬 3 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2039683262034170092) — @billtheinvestor (Bill The Investor)
-[2] [Author page](/entities/authors/billtheinvestor.md)

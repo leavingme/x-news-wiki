@@ -63,8 +63,6 @@ https://t.co/YiXbpFdST7
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 294 · 🔄 48 · 💬 20 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2033715381744132105) — @lifesinger (Frank Wang 玉伯)
-[2] [Author page](/entities/authors/lifesinger.md)

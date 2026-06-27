@@ -57,8 +57,6 @@ gakki 锐评：当推特 X 上跑的几乎都是 self-prompt、demo、vibe codin
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 12 · 🔄 0 · 💬 7 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2063981859994816964) — @gkxspace (余温)
-[2] [Author page](/entities/authors/gkxspace.md)

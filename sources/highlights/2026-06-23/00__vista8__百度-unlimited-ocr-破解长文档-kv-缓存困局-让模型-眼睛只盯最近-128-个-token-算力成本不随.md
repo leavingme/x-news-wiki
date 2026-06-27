@@ -76,8 +76,6 @@ https://t.co/OwI1WBdDKr
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 1 · 🔄 0 · 💬 1 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2069211653460066393) — @vista8 (向阳乔木)
-[2] [Author page](/entities/authors/vista8.md)

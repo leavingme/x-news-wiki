@@ -65,10 +65,6 @@ MRC 已经部署在 OpenAI 所有最大的英伟达 GB200 超算上,包括 Starg
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 13 · 🔄 2 · 💬 2 · 🔖 0 · 👁 0
-- **关联主题**: [ai-compute-on-chain](/concepts/ai-compute-on-chain.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2052056444330000513) — @dotey (宝玉)
-[2] [Author page](/entities/authors/dotey.md)
-[3] [Related topic](/concepts/ai-compute-on-chain.md)

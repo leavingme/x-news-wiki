@@ -85,8 +85,6 @@ x_source: "crawler"
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 326 · 🔄 59 · 💬 28 · 🔖 185 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://twitter.com/yupi996/status/2015740358798594520) — @yupi996 (程序员鱼皮)
-[2] [Author page](/entities/authors/yupi996.md)

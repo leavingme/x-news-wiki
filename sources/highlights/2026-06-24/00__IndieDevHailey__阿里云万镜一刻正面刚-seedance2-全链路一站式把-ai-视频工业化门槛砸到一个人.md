@@ -74,8 +74,6 @@ AI视频创作大战，正式开打！
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 234 · 🔄 43 · 💬 49 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2058555041456566314) — @IndieDevHailey (开发者Hailey)
-[2] [Author page](/entities/authors/indiedevhailey.md)

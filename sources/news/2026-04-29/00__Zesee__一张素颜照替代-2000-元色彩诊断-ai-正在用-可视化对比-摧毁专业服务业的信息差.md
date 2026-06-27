@@ -59,8 +59,6 @@ x_source: "crawler"
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 24 · 🔄 1 · 💬 13 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2049422355852603451) — @Zesee (Rachel🥥)
-[2] [Author page](/entities/authors/zesee.md)

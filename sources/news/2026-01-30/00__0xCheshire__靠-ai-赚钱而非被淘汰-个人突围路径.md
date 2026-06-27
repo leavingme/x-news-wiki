@@ -53,8 +53,6 @@ x_source: "crawler"
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 488 · 🔄 133 · 💬 13 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/1908402747067818196) — @0xCheshire (柴郡🔔｜Crypto+AI Plus)
-[2] [Author page](/entities/authors/0xcheshire.md)

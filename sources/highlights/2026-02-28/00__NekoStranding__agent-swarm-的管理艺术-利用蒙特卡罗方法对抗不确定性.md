@@ -50,8 +50,6 @@ Agent swarm 是种蒙特卡罗。与其对抗 LLM 的不确定性，不如将它
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 3 · 🔄 1 · 💬 0 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2027535073537667415) — @NekoStranding (毒猫猫🤔)
-[2] [Author page](/entities/authors/nekostranding.md)

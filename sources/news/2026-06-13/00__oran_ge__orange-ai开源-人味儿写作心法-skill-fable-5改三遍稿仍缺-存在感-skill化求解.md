@@ -66,10 +66,6 @@ https://t.co/TlyQHM7JcT
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 124 · 🔄 8 · 💬 13 · 🔖 0 · 👁 0
-- **关联主题**: [ai-content-authenticity](/concepts/ai-content-authenticity.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2065566882774868125) — @oran_ge (Orange AI)
-[2] [Author page](/entities/authors/oran-ge.md)
-[3] [Related topic](/concepts/ai-content-authenticity.md)

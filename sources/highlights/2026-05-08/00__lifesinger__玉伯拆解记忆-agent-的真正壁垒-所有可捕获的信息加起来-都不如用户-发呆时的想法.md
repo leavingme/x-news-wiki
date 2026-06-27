@@ -71,10 +71,6 @@ memory 的范围很广，包括但不限于：
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 11 · 🔄 0 · 💬 1 · 🔖 0 · 👁 0
-- **关联主题**: [personal-knowledge-management-ai](/concepts/personal-knowledge-management-ai.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2052765059232026730) — @lifesinger (Frank Wang 玉伯)
-[2] [Author page](/entities/authors/lifesinger.md)
-[3] [Related topic](/concepts/personal-knowledge-management-ai.md)

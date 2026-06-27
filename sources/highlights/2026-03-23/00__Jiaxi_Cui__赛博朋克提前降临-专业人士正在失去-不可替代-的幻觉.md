@@ -74,8 +74,6 @@ x_source: "crawler"
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 321 · 🔄 35 · 💬 29 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2035770077673587009) — @Jiaxi_Cui (Panda)
-[2] [Author page](/entities/authors/jiaxi-cui.md)

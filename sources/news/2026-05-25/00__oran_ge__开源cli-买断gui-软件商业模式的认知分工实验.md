@@ -53,8 +53,6 @@ GUI 一次性买断
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 3 · 🔄 0 · 💬 1 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2058681760574247163) — @oran_ge (Orange AI)
-[2] [Author page](/entities/authors/oran-ge.md)

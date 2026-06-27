@@ -50,10 +50,6 @@ Yes it's the tractable form of brain upload. There's a ton of scifi on brain upl
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 3261 · 🔄 208 · 💬 209 · 🔖 0 · 👁 0
-- **关联主题**: [personal-digital-twin-identity](/concepts/personal-digital-twin-identity.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2042626702459674801) — @karpathy (Andrej Karpathy)
-[2] [Author page](/entities/authors/karpathy.md)
-[3] [Related topic](/concepts/personal-digital-twin-identity.md)

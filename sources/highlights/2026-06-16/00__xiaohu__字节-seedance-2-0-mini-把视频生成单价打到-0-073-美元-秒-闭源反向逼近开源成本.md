@@ -70,8 +70,6 @@ Pro 用户（现有用户或 6 月 21 日前新订阅）：6 月 15 日至 7 月
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 17 · 🔄 0 · 💬 11 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2066702585747443821) — @xiaohu (小互)
-[2] [Author page](/entities/authors/xiaohu.md)

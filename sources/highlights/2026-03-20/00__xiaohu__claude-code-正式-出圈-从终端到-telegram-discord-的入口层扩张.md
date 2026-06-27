@@ -64,10 +64,6 @@ Claude Code 更新到 v2.1.80，带了一个新功能：Claude Code Channels
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 365 · 🔄 52 · 💬 44 · 🔖 0 · 👁 0
-- **关联主题**: [agent-mobile-orchestration](/concepts/agent-mobile-orchestration.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2034776470124732858) — @xiaohu (小互)
-[2] [Author page](/entities/authors/xiaohu.md)
-[3] [Related topic](/concepts/agent-mobile-orchestration.md)

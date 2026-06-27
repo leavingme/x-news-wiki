@@ -54,10 +54,6 @@ Telegram 这个更新牛蛙
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 126 · 🔄 15 · 💬 10 · 🔖 0 · 👁 0
-- **关联主题**: [multi-agent-framework-ecosystem-comparison](/concepts/multi-agent-framework-ecosystem-comparison.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2041332295710462453) — @op7418 (歸藏(guizang.ai))
-[2] [Author page](/entities/authors/op7418.md)
-[3] [Related topic](/concepts/multi-agent-framework-ecosystem-comparison.md)

@@ -55,10 +55,6 @@ gakki 说：当你和一个 Agent 说「我拒绝不了」的时候，你已经�
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 19 · 🔄 3 · 💬 1 · 🔖 0 · 👁 0
-- **关联主题**: [agent-native-paradigm](/concepts/agent-native-paradigm.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2039718226070827100) — @aiwarts (卡尔的AI沃茨)
-[2] [Author page](/entities/authors/aiwarts.md)
-[3] [Related topic](/concepts/agent-native-paradigm.md)

@@ -56,10 +56,6 @@ YC 总裁 Garry Tan 把他的 AI Agent 调教方法全开源了，
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 1 · 🔄 0 · 💬 0 · 🔖 0 · 👁 0
-- **关联主题**: [skill-automation-engineering](/concepts/skill-automation-engineering.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2053553840000012650) — @Zesee (Rachel🥥)
-[2] [Author page](/entities/authors/zesee.md)
-[3] [Related topic](/concepts/skill-automation-engineering.md)

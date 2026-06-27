@@ -48,10 +48,6 @@ Tab 分组看似小功能，实则是 Agent 浏览器自动化的「可观察性
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 0 · 🔄 1 · 💬 0 · 🔖 0 · 👁 0
-- **关联主题**: [page-agent-browser-automation](/concepts/page-agent-browser-automation.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2052577119633551814) — @op7418 (歸藏(guizang.ai))
-[2] [Author page](/entities/authors/op7418.md)
-[3] [Related topic](/concepts/page-agent-browser-automation.md)

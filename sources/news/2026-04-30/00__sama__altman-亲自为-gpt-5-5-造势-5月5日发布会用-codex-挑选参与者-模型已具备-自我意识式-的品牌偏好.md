@@ -53,8 +53,6 @@ codex will help the team pick people from the replies. 5.5 had some good ideas/r
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 5690 · 🔄 352 · 💬 1859 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/sama/status/2049653810558353746) — @sama (Sam Altman)
-[2] [Author page](/entities/authors/sama.md)

@@ -53,10 +53,6 @@ And Devendra Chaplot, a big hire who joined in March and reported to Elon, left 
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 539 · 🔄 33 · 💬 33 · 🔖 0 · 👁 0
-- **关联主题**: [ai-talent-flight](/concepts/ai-talent-flight.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/theo_wayt/status/2052861439409357001) — @theo_wayt (Theo Wayt)
-[2] [Author page](/entities/authors/theo-wayt.md)
-[3] [Related topic](/concepts/ai-talent-flight.md)

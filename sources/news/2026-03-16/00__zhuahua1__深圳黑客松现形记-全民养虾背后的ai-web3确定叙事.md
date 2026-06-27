@@ -76,10 +76,6 @@ AI DeFi Automation：收益耕作、LP 再平衡、清算守护全自动
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 84 · 🔄 2 · 💬 37 · 🔖 0 · 👁 0
-- **关联主题**: [ai-crypto-agent-infra](/concepts/ai-crypto-agent-infra.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2033016184795443260) — @zhuahua1 (Flora_花花)
-[2] [Author page](/entities/authors/zhuahua1.md)
-[3] [Related topic](/concepts/ai-crypto-agent-infra.md)

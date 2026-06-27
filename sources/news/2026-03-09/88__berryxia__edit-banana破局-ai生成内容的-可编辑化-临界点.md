@@ -61,8 +61,6 @@ Github 上的 Edit Banana这个开源项目太顶了！！！
 - **精选类别**: 📰 头条
 - **优先级**: 88
 - **互动**: ❤️ 1260 · 🔄 266 · 💬 14 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2030647797586993304) — @berryxia (Berryxia.AI)
-[2] [Author page](/entities/authors/berryxia.md)

@@ -48,10 +48,6 @@ OpenClaw免费开源本地记忆系统：Tokens节省近 35.24%， 自动生成 
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 232 · 🔄 45 · 💬 11 · 🔖 0 · 👁 0
-- **关联主题**: [agent-memory-optimization](/concepts/agent-memory-optimization.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2033748548915741131) — @lxfater (铁锤人)
-[2] [Author page](/entities/authors/lxfater.md)
-[3] [Related topic](/concepts/agent-memory-optimization.md)

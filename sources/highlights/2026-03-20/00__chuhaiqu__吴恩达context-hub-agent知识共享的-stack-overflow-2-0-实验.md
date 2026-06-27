@@ -59,10 +59,6 @@ x_source: "crawler"
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 34 · 🔄 9 · 💬 2 · 🔖 0 · 👁 0
-- **关联主题**: [agent-knowledge-sharing-infra](/concepts/agent-knowledge-sharing-infra.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2034891959018692973) — @chuhaiqu (出海去孵化器)
-[2] [Author page](/entities/authors/chuhaiqu.md)
-[3] [Related topic](/concepts/agent-knowledge-sharing-infra.md)

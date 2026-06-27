@@ -56,10 +56,6 @@ gakki 锐评：当风控严格到普通开发者需要用 VPS 才能继续用 Cl
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 3 · 🔄 0 · 💬 7 · 🔖 0 · 👁 0
-- **关联主题**: [ai-grey-market](/concepts/ai-grey-market.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2064579472406233174) — @gkxspace (余温)
-[2] [Author page](/entities/authors/gkxspace.md)
-[3] [Related topic](/concepts/ai-grey-market.md)

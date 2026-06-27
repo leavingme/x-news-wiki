@@ -65,10 +65,6 @@ OpenClaw 作者 Steinberger 信了，还专门给 OpenClaw 改了默认配置
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 5 · 🔄 0 · 💬 0 · 🔖 0 · 👁 0
-- **关联主题**: [anthropic-api-control](/concepts/anthropic-api-control.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2049796253471453564) — @lxfater (铁锤人)
-[2] [Author page](/entities/authors/lxfater.md)
-[3] [Related topic](/concepts/anthropic-api-control.md)

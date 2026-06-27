@@ -109,10 +109,6 @@ https://t.co/EgT16k3fC5
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 331 · 🔄 79 · 💬 15 · 🔖 0 · 👁 0
-- **关联主题**: [ai-trading-480x-returns](/concepts/ai-trading-480x-returns.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2034555510708654556) — @qkl2058 (区块链行情研究)
-[2] [Author page](/entities/authors/qkl2058.md)
-[3] [Related topic](/concepts/ai-trading-480x-returns.md)

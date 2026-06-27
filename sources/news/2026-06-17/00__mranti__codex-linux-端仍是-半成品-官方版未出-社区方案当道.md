@@ -50,8 +50,6 @@ gakki 锐评：OpenAI 押注 Codex 是生态级战略，但跨平台铺开速度
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 2 · 🔄 0 · 💬 0 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2067248322201661898) — @mranti (Michael Anti)
-[2] [Author page](/entities/authors/mranti.md)

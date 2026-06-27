@@ -60,10 +60,6 @@ x_source: "crawler"
 - **精选类别**: ✨ 亮点
 - **优先级**: 85
 - **互动**: ❤️ 120 · 🔄 25 · 💬 3 · 🔖 0 · 👁 0
-- **关联主题**: [claude-code-engineering-discipline](/concepts/claude-code-engineering-discipline.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2030291945554108720) — @chenchengpro (陈成)
-[2] [Author page](/entities/authors/chenchengpro.md)
-[3] [Related topic](/concepts/claude-code-engineering-discipline.md)

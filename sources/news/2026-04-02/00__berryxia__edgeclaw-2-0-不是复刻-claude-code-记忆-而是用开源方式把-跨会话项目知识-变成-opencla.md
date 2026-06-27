@@ -60,8 +60,6 @@ OpenClaw 终于拥有了和 Claude Code 一样聪明、自适应、结构化的�
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 69 · 🔄 14 · 💬 2 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2039376439204774093) — @berryxia (Berryxia.AI)
-[2] [Author page](/entities/authors/berryxia.md)

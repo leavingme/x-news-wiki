@@ -48,8 +48,6 @@ gakki 说：ClaudeCode 的护城河是工程深度，但护城河最怕的不是
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 0 · 🔄 0 · 💬 1 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2049149440586354968) — @gkxspace (余温)
-[2] [Author page](/entities/authors/gkxspace.md)

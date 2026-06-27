@@ -62,10 +62,6 @@ EverMind 团队做了个叫 MSA 的技术，能让 AI 的记忆容量从 16K 直
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 68 · 🔄 14 · 💬 11 · 🔖 0 · 👁 0
-- **关联主题**: [agent-memory-optimization](/concepts/agent-memory-optimization.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2035892318461710398) — @imaxichuhai (阿西_出海（2.0版）)
-[2] [Author page](/entities/authors/imaxichuhai.md)
-[3] [Related topic](/concepts/agent-memory-optimization.md)

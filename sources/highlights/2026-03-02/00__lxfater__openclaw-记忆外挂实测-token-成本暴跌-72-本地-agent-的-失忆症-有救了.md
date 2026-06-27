@@ -47,8 +47,6 @@ OpenClaw记忆外挂：Tokens 消耗降低 72%， 永不失忆
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 516 · 🔄 118 · 💬 32 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2028320139368714644) — @lxfater (铁锤人)
-[2] [Author page](/entities/authors/lxfater.md)

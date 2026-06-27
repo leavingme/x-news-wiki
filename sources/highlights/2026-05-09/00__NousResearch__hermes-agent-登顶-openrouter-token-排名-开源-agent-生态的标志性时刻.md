@@ -50,10 +50,6 @@ While our journey together has just begun, we'd like to take this opportunity to
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 5272 · 🔄 526 · 💬 328 · 🔖 0 · 👁 0
-- **关联主题**: [hermes-agent-stability-comparison](/concepts/hermes-agent-stability-comparison.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/NousResearch/status/2052904761087729897) — @NousResearch (Nous Research)
-[2] [Author page](/entities/authors/nousresearch.md)
-[3] [Related topic](/concepts/hermes-agent-stability-comparison.md)

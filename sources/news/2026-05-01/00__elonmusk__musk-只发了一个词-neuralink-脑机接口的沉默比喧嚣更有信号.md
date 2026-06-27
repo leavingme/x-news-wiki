@@ -43,8 +43,6 @@ Neuralink
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 20228 · 🔄 2750 · 💬 2004 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/elonmusk/status/2050314604761489555) — @elonmusk (Elon Musk)
-[2] [Author page](/entities/authors/elonmusk.md)

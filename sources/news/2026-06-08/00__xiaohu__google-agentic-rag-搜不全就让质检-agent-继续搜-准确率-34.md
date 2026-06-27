@@ -48,8 +48,6 @@ Google 发布 Agentic RAG ：搜不全就接着搜的"质检 Agent" 准确率提
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 21 · 🔄 3 · 💬 5 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2063887105508385205) — @xiaohu (小互)
-[2] [Author page](/entities/authors/xiaohu.md)

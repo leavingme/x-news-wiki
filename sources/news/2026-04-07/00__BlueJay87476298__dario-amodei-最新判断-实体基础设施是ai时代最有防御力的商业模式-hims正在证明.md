@@ -66,8 +66,6 @@ $HIMS  正是「醫生 + 藥局 + 配送」三合一的完整平台。
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 11 · 🔄 0 · 💬 0 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2041133938761236658) — @BlueJay87476298 (BlueJay)
-[2] [Author page](/entities/authors/bluejay87476298.md)

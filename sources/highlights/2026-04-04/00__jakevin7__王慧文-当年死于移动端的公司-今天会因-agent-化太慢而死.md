@@ -58,10 +58,6 @@ x_source: "crawler"
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 395 · 🔄 22 · 💬 48 · 🔖 0 · 👁 0
-- **关联主题**: [industry-leader-agent-strategy](/concepts/industry-leader-agent-strategy.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2039744227547197947) — @jakevin7 (卡比卡比)
-[2] [Author page](/entities/authors/jakevin7.md)
-[3] [Related topic](/concepts/industry-leader-agent-strategy.md)

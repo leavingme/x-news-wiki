@@ -110,10 +110,6 @@ Polanyi 给它起了个名字：
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 8 · 🔄 2 · 💬 1 · 🔖 0 · 👁 0
-- **关联主题**: [skill-automation-engineering](/concepts/skill-automation-engineering.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2041162373260800187) — @rionaifantasy (RION WU)
-[2] [Author page](/entities/authors/rionaifantasy.md)
-[3] [Related topic](/concepts/skill-automation-engineering.md)

@@ -49,10 +49,6 @@ Cursor 的 Composer 2.5 的效果 https://t.co/VauH05iUNj
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 1 · 🔄 0 · 💬 0 · 🔖 0 · 👁 0
-- **关联主题**: [ai-coding-market-divergence](/concepts/ai-coding-market-divergence.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2063514857949831523) — @dotey (宝玉)
-[2] [Author page](/entities/authors/dotey.md)
-[3] [Related topic](/concepts/ai-coding-market-divergence.md)

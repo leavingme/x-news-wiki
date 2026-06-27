@@ -61,8 +61,6 @@ OpenClaw火了，到底谁是最大赢家？
 - **精选类别**: 📰 头条
 - **优先级**: 88
 - **互动**: ❤️ 23 · 🔄 0 · 💬 9 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2031755023034491192) — @rwayne (Roland的思考日记)
-[2] [Author page](/entities/authors/rwayne.md)

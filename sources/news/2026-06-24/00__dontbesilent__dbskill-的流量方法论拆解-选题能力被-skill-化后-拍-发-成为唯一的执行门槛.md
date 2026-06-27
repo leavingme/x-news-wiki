@@ -58,10 +58,6 @@ gakki 锐评：dontbeskill 的论点看似降维，但其潜在逻辑是「Skill
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 229 · 🔄 23 · 💬 104 · 🔖 0 · 👁 0
-- **关联主题**: [dbskill-formula-marketplace](/concepts/dbskill-formula-marketplace.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2059857191356731453) — @dontbesilent (dontbesilent)
-[2] [Author page](/entities/authors/dontbesilent.md)
-[3] [Related topic](/concepts/dbskill-formula-marketplace.md)

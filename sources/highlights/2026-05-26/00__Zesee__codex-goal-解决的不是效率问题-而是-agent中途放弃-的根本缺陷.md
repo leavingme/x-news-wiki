@@ -65,8 +65,6 @@ Goal 的价值就在于把“最终要完成什么”固定在任务上下文里
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 4 · 🔄 0 · 💬 1 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2059308971786408405) — @Zesee (Rachel🥥)
-[2] [Author page](/entities/authors/zesee.md)

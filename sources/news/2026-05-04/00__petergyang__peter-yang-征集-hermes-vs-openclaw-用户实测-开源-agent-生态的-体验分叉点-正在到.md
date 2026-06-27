@@ -53,10 +53,6 @@ No shilling please, just want some honest opinions
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 1052 · 🔄 24 · 💬 359 · 🔖 0 · 👁 0
-- **关联主题**: [hermes-agent-stability-comparison](/concepts/hermes-agent-stability-comparison.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/petergyang/status/2051129249348894754) — @petergyang (Peter Yang)
-[2] [Author page](/entities/authors/petergyang.md)
-[3] [Related topic](/concepts/hermes-agent-stability-comparison.md)

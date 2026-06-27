@@ -52,8 +52,6 @@ https://t.co/d98BEAB8f8
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 4 · 🔄 0 · 💬 1 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2026076857872117919) — @QingQ77 (Geek Lite)
-[2] [Author page](/entities/authors/qingq77.md)

@@ -57,8 +57,6 @@ https://t.co/QWDoAwQ2es
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 394 · 🔄 62 · 💬 18 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2038093217782997144) — @xxxjzuo (Jason Zuo)
-[2] [Author page](/entities/authors/xxxjzuo.md)

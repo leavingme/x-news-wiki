@@ -63,8 +63,6 @@ https://t.co/PnSFkPA9wX
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 42 · 🔄 17 · 💬 12 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2021913798253375868) — @wwwqlwyxyz (潜龙勿用)
-[2] [Author page](/entities/authors/wwwqlwyxyz.md)

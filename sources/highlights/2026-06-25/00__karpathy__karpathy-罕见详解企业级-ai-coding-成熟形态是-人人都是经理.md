@@ -48,10 +48,6 @@ The basic idea is easy and v0 is a hackathon project. The product here is a lot 
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 1206 · 🔄 38 · 💬 86 · 🔖 0 · 👁 0
-- **关联主题**: [harness-engineering-framework](/concepts/harness-engineering-framework.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2069601818540392669) — @karpathy (Andrej Karpathy)
-[2] [Author page](/entities/authors/karpathy.md)
-[3] [Related topic](/concepts/harness-engineering-framework.md)

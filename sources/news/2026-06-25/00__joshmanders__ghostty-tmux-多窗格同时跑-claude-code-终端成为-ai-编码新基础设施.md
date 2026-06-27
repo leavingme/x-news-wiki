@@ -50,10 +50,6 @@ What are you running on 512MB of RAM? My Ghostty has 2 windows, 9 tabs of tmux s
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 30 · 🔄 1 · 💬 2 · 🔖 0 · 👁 0
-- **关联主题**: [ghostty-terminal-adoption](/concepts/ghostty-terminal-adoption.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2069068984671171062) — @joshmanders (Josh)
-[2] [Author page](/entities/authors/joshmanders.md)
-[3] [Related topic](/concepts/ghostty-terminal-adoption.md)

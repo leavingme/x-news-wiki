@@ -72,8 +72,6 @@ Lovable 的设计负责人 Felix Haas 在社交媒体上分享了一篇关于"AI
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 85 · 🔄 12 · 💬 11 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2066349458904744224) — @dotey (宝玉)
-[2] [Author page](/entities/authors/dotey.md)

@@ -50,10 +50,6 @@ gakki锐评：这不是「未来战争」，这是正在发生的降维打击。
 - **精选类别**: ✨ 亮点
 - **优先级**: 95
 - **互动**: ❤️ 133 · 🔄 9 · 💬 23 · 🔖 0 · 👁 0
-- **关联主题**: [ai-military-deployment](/concepts/ai-military-deployment.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2029877525007192289) — @cnfinancewatch (华尔街观察 Xtrader)
-[2] [Author page](/entities/authors/cnfinancewatch.md)
-[3] [Related topic](/concepts/ai-military-deployment.md)

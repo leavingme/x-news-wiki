@@ -63,8 +63,6 @@ https://t.co/VSHON3c4FV
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 243 · 🔄 29 · 💬 17 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2038506962275737678) — @chenchengpro (陈成)
-[2] [Author page](/entities/authors/chenchengpro.md)

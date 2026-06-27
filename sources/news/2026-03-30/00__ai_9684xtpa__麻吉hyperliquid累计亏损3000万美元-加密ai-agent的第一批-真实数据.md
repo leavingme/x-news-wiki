@@ -60,8 +60,6 @@ https://t.co/ieW0HjC5HM
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 71 · 🔄 2 · 💬 36 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2038444851642212734) — @ai_9684xtpa (Ai 姨)
-[2] [Author page](/entities/authors/ai-9684xtpa.md)

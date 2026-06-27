@@ -56,8 +56,6 @@ The limits of this tool are the limits of your thinking. And judging by what the
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 554 · 🔄 60 · 💬 17 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/noisyb0y1/status/2053597485935784193) — @noisyb0y1 (Noisy)
-[2] [Author page](/entities/authors/noisyb0y1.md)

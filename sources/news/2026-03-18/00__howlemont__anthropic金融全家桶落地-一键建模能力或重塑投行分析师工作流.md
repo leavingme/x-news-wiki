@@ -57,8 +57,6 @@ Anthropic出投资银行/金融分析全家桶，
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 594 · 🔄 125 · 💬 19 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2026561195860439335) — @howlemont (皓樂芒)
-[2] [Author page](/entities/authors/howlemont.md)

@@ -66,10 +66,6 @@ Beta 期间，新用户可获得 50w Token/月免费模型额度。
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 1 · 🔄 0 · 💬 0 · 🔖 0 · 👁 0
-- **关联主题**: [agent-deployment-service](/concepts/agent-deployment-service.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2069772320726515923) — @Zesee (Rachel🥥)
-[2] [Author page](/entities/authors/zesee.md)
-[3] [Related topic](/concepts/agent-deployment-service.md)

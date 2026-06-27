@@ -58,8 +58,6 @@ Rourou 提出用 Agent 做每周/月定期记账这一场景，指向 AI 在C端
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 3 · 🔄 0 · 💬 0 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2055658804814213210) — @Rourou0413 (Rourou)
-[2] [Author page](/entities/authors/rourou0413.md)

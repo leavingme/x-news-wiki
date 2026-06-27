@@ -61,8 +61,6 @@ Google 不是第一个搜索引擎
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 152 · 🔄 6 · 💬 60 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2040415276680806782) — @lifesinger (Frank Wang 玉伯)
-[2] [Author page](/entities/authors/lifesinger.md)

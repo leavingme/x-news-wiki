@@ -48,10 +48,6 @@ gakki 锐评：当用户开始主动要求「看模型怎么想」，说明AI产
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 1 · 🔄 0 · 💬 0 · 🔖 0 · 👁 0
-- **关联主题**: [ai-reasoning-tier-strategy](/concepts/ai-reasoning-tier-strategy.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2053464215772364812) — @Zesee (Rachel🥥)
-[2] [Author page](/entities/authors/zesee.md)
-[3] [Related topic](/concepts/ai-reasoning-tier-strategy.md)

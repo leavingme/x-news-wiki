@@ -52,8 +52,6 @@ Kimi K2.6 可能被严重低估了。
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 96 · 🔄 4 · 💬 27 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2046479442713924037) — @bourneliu66 (刘小排)
-[2] [Author page](/entities/authors/bourneliu66.md)

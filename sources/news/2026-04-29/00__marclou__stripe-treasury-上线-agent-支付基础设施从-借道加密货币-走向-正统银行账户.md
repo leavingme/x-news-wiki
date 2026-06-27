@@ -59,10 +59,6 @@ So you can pay friends and invoices without a bank https://t.co/c0es41lEUd
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 1043 · 🔄 37 · 💬 99 · 🔖 0 · 👁 0
-- **关联主题**: [ai-agent-crypto-infra](/concepts/ai-agent-crypto-infra.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/marclou/status/2049541496630575541) — @marclou (Marc Lou)
-[2] [Author page](/entities/authors/marclou.md)
-[3] [Related topic](/concepts/ai-agent-crypto-infra.md)

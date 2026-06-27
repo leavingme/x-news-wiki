@@ -55,8 +55,6 @@ gakki：这套工作流真正有价值的不是工具本身，而是「人始终
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 25 · 🔄 3 · 💬 6 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2060373266422992944) — @vista8 (向阳乔木)
-[2] [Author page](/entities/authors/vista8.md)

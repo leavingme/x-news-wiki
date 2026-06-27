@@ -50,8 +50,6 @@ Google $GOOGL just posted this:
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 596 · 🔄 41 · 💬 26 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/StockMKTNewz/status/2051713752479801833) — @StockMKTNewz (Evan)
-[2] [Author page](/entities/authors/stockmktnewz.md)

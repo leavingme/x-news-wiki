@@ -52,8 +52,6 @@ All are fixed in v2.1.116+ and we’ve reset usage limits for all subscribers.
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 28518 · 🔄 1941 · 💬 1476 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/ClaudeDevs/status/2047371123185287223) — @ClaudeDevs (ClaudeDevs)
-[2] [Author page](/entities/authors/claudedevs.md)

@@ -68,8 +68,6 @@ FYI。
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 132 · 🔄 14 · 💬 6 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2041009803120812432) — @mtrainier2020 (Rainier)
-[2] [Author page](/entities/authors/mtrainier2020.md)

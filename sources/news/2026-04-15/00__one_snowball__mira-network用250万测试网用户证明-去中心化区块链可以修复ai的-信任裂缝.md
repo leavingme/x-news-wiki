@@ -157,8 +157,6 @@ Mira 的 BITKRAFT 和Framework背书其实很牛逼
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 81 · 🔄 0 · 💬 95 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/1940201252354453801) — @one_snowball (Snowball（抓住金狗版）🔶 BNB ETHGas ⛽️ 🤖ボッ🦅)
-[2] [Author page](/entities/authors/one-snowball.md)

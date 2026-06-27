@@ -60,8 +60,6 @@ Meta在做啥？
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 55 · 🔄 2 · 💬 9 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2032066721193083153) — @qinbafrank (qinbafrank)
-[2] [Author page](/entities/authors/qinbafrank.md)

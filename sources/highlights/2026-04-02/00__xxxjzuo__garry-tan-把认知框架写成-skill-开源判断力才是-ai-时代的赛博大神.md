@@ -61,10 +61,6 @@ x_source: "crawler"
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 428 · 🔄 73 · 💬 3 · 🔖 0 · 👁 0
-- **关联主题**: [skill-vs-mcp-paradigm](/concepts/skill-vs-mcp-paradigm.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2034785534246007022) — @xxxjzuo (Jason Zuo)
-[2] [Author page](/entities/authors/xxxjzuo.md)
-[3] [Related topic](/concepts/skill-vs-mcp-paradigm.md)

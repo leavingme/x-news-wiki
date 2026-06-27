@@ -62,8 +62,6 @@ Upgrading the 🦞 OpenClaw army.
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 5557 · 🔄 321 · 💬 210 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/steipete/status/2051900143339704730) — @steipete (Peter Steinberger 🦞)
-[2] [Author page](/entities/authors/steipete.md)

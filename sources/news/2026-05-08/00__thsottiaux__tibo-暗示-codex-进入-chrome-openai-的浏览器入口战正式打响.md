@@ -49,8 +49,6 @@ Hello Chrome, I am Codex
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 1283 · 🔄 42 · 💬 152 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/thsottiaux/status/2052523840040063261) — @thsottiaux (Tibo)
-[2] [Author page](/entities/authors/thsottiaux.md)

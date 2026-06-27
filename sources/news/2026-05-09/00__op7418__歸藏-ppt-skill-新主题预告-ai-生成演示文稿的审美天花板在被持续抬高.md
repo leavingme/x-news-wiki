@@ -51,8 +51,6 @@ AI 生成内容的竞争正在从「效率」转向「审美」。歸藏的 PPT 
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 13 · 🔄 1 · 💬 4 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2053143307371556944) — @op7418 (歸藏(guizang.ai))
-[2] [Author page](/entities/authors/op7418.md)

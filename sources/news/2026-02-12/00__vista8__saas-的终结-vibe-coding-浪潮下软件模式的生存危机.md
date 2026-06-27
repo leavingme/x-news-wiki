@@ -89,8 +89,6 @@ AI 目前还做不到。
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 61 · 🔄 5 · 💬 9 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2021927043236343936) — @vista8 (向阳乔木)
-[2] [Author page](/entities/authors/vista8.md)

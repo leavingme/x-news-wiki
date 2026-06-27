@@ -111,10 +111,6 @@ Altman在5.4发布后说的话证明他清楚问题还在。
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 283 · 🔄 86 · 💬 2 · 🔖 0 · 👁 0
-- **关联主题**: [human-ai-emotional-boundary](/concepts/human-ai-emotional-boundary.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2034631810936934886) — @ljinhng34624264 (李健宏)
-[2] [Author page](/entities/authors/ljinhng34624264.md)
-[3] [Related topic](/concepts/human-ai-emotional-boundary.md)

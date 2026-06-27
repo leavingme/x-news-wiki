@@ -73,10 +73,6 @@ Claude Design 入口在 https://t.co/v6it9PjvJj，使用现有订阅额度，超
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 195 · 🔄 29 · 💬 14 · 🔖 0 · 👁 0
-- **关联主题**: [anthropic-office-integration](/concepts/anthropic-office-integration.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2045185966399435053) — @dotey (宝玉)
-[2] [Author page](/entities/authors/dotey.md)
-[3] [Related topic](/concepts/anthropic-office-integration.md)

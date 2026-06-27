@@ -50,10 +50,6 @@ GPT 生图 → Tripo 3D https://t.co/VDzBzYYuV7
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 10 · 🔄 2 · 💬 3 · 🔖 0 · 👁 0
-- **关联主题**: [ai-3d-content-democratization](/concepts/ai-3d-content-democratization.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2053296865517683122) — @xiaohu (小互)
-[2] [Author page](/entities/authors/xiaohu.md)
-[3] [Related topic](/concepts/ai-3d-content-democratization.md)

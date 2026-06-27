@@ -65,10 +65,6 @@ Github免费开源，地址见评论区
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 26 · 🔄 2 · 💬 5 · 🔖 0 · 👁 0
-- **关联主题**: [skill-recommendation-culture](/concepts/skill-recommendation-culture.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2066165703443726749) — @vista8 (向阳乔木)
-[2] [Author page](/entities/authors/vista8.md)
-[3] [Related topic](/concepts/skill-recommendation-culture.md)

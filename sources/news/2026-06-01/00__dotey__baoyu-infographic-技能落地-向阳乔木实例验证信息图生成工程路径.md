@@ -51,10 +51,6 @@ https://t.co/dptGNeAkd5
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 4 · 🔄 0 · 💬 2 · 🔖 0 · 👁 0
-- **关联主题**: [baoyu-infographic](/concepts/baoyu-infographic.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2061225142299046096) — @dotey (宝玉)
-[2] [Author page](/entities/authors/dotey.md)
-[3] [Related topic](/concepts/baoyu-infographic.md)

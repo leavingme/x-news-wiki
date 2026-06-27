@@ -53,10 +53,6 @@ https://t.co/QmxDiomPpo
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 6 · 🔄 1 · 💬 3 · 🔖 0 · 👁 0
-- **关联主题**: [agent-multi-platform](/concepts/agent-multi-platform.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2034776000480129030) — @zohanlin (佐哥 ZOHAN)
-[2] [Author page](/entities/authors/zohanlin.md)
-[3] [Related topic](/concepts/agent-multi-platform.md)

@@ -51,8 +51,6 @@ gakki：这是一条线索性内容，宝玉的提及本身即是信号。建议
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 0 · 🔄 0 · 💬 0 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2059719406054158565) — @dotey (宝玉)
-[2] [Author page](/entities/authors/dotey.md)

@@ -47,8 +47,6 @@ gakki：中国短剧出海最大的障碍从来不是剧本，是海外拍摄成
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 25 · 🔄 3 · 💬 18 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2062707910963253466) — @mranti (Michael Anti)
-[2] [Author page](/entities/authors/mranti.md)

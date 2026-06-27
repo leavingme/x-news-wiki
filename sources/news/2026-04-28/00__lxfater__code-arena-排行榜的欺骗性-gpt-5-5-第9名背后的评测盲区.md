@@ -61,8 +61,6 @@ Code Arena，Code范围仅仅前端也太不合理了吧
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 2 · 🔄 0 · 💬 3 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2049001091916783635) — @lxfater (铁锤人)
-[2] [Author page](/entities/authors/lxfater.md)

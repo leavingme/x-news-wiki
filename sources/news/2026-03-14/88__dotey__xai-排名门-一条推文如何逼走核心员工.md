@@ -128,8 +128,6 @@ De Kraker 的回应倒是很坚持：排名是我的个人意见，Grok 3 还没
 - **精选类别**: 📰 头条
 - **优先级**: 88
 - **互动**: ❤️ 248 · 🔄 30 · 💬 43 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2032666923251458353) — @dotey (宝玉)
-[2] [Author page](/entities/authors/dotey.md)

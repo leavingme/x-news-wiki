@@ -103,8 +103,6 @@ Cursor 的商业模式是赚差价：用户付月费，它去调 API，中间的
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 367 · 🔄 67 · 💬 42 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2026167672996560915) — @dotey (宝玉)
-[2] [Author page](/entities/authors/dotey.md)

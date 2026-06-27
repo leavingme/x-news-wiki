@@ -55,10 +55,6 @@ That’s the idea behind Symphony, an open-source agent orchestrator for Codex t
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 3493 · 🔄 223 · 💬 155 · 🔖 0 · 👁 0
-- **关联主题**: [multi-agent-framework-ecosystem-comparison](/concepts/multi-agent-framework-ecosystem-comparison.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/OpenAIDevs/status/2048825010371039648) — @OpenAIDevs (OpenAI Developers)
-[2] [Author page](/entities/authors/openaidevs.md)
-[3] [Related topic](/concepts/multi-agent-framework-ecosystem-comparison.md)

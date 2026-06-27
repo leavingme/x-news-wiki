@@ -102,8 +102,6 @@ OpenAI参与写下了"我们还不够了解"。然后他们移除了继续了解
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 168 · 🔄 52 · 💬 1 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2035352366212333840) — @ljinhng34624264 (李健宏)
-[2] [Author page](/entities/authors/ljinhng34624264.md)

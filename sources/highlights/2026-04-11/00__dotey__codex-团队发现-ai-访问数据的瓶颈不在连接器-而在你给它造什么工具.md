@@ -73,8 +73,6 @@ Codex 团队还搞了一个 Skill 叫 cli-creator：https://t.co/nF6K4Ci4tJ
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 813 · 🔄 133 · 💬 23 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2042777337398210713) — @dotey (宝玉)
-[2] [Author page](/entities/authors/dotey.md)

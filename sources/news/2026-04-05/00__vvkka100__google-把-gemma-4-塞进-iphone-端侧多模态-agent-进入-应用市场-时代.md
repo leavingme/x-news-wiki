@@ -68,10 +68,6 @@ App 内提供了两个推荐的端侧模型，帮大家对比好了：
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 7 · 🔄 1 · 💬 0 · 🔖 0 · 👁 0
-- **关联主题**: [gemma端侧多模态](/concepts/gemma端侧多模态.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2040087593585696803) — @vvkka100 (Vvkk)
-[2] [Author page](/entities/authors/vvkka100.md)
-[3] [Related topic](/concepts/gemma端侧多模态.md)

@@ -57,8 +57,6 @@ AI 应用的终局
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 79 · 🔄 1 · 💬 48 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2053117134742659405) — @lifesinger (Frank Wang 玉伯)
-[2] [Author page](/entities/authors/lifesinger.md)

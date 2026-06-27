@@ -81,8 +81,6 @@ OpenAI 和 Anthropic 的营收增速极其恐怖。
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 510 · 🔄 110 · 💬 21 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2034662237403541568) — @mubeitech (墓碑科技)
-[2] [Author page](/entities/authors/mubeitech.md)

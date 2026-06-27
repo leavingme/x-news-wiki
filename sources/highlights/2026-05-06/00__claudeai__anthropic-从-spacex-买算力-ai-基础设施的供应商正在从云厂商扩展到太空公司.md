@@ -51,10 +51,6 @@ This, along with our other recent compute deals, means that we’ve been able to
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 106179 · 🔄 9728 · 💬 3943 · 🔖 0 · 👁 0
-- **关联主题**: [geopolitics-and-compute](/concepts/geopolitics-and-compute.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/claudeai/status/2052060691893227611) — @claudeai (Claude)
-[2] [Author page](/entities/authors/claudeai.md)
-[3] [Related topic](/concepts/geopolitics-and-compute.md)

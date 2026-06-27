@@ -48,10 +48,6 @@ gakki 锐评：当「让AI目标导向干活」成为共识，真正的竞争就
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 1 · 🔄 0 · 💬 0 · 🔖 0 · 👁 0
-- **关联主题**: [agent-loop-fundamentals](/concepts/agent-loop-fundamentals.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2053420214797169027) — @Rourou0413 (Rourou)
-[2] [Author page](/entities/authors/rourou0413.md)
-[3] [Related topic](/concepts/agent-loop-fundamentals.md)

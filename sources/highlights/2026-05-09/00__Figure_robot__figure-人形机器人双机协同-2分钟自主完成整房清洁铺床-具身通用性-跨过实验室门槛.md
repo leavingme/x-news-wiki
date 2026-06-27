@@ -49,8 +49,6 @@ We taught two F.03 robots to clean a room and make a bed in under 2 minutes - fu
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 6769 · 🔄 860 · 💬 561 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/Figure_robot/status/2052770982214172892) — @Figure_robot (Figure)
-[2] [Author page](/entities/authors/figure-robot.md)

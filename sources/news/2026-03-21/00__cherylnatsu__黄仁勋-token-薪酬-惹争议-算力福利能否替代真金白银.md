@@ -51,8 +51,6 @@ x_source: "crawler"
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 220 · 🔄 4 · 💬 19 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2035289592568701207) — @cherylnatsu (夏雨婷)
-[2] [Author page](/entities/authors/cherylnatsu.md)

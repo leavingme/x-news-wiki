@@ -53,8 +53,6 @@ gakki：做平台的人都能理解这个痛——你开放一个能力，用户
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 17 · 🔄 1 · 💬 20 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2062027573044138239) — @op7418 (歸藏(guizang.ai))
-[2] [Author page](/entities/authors/op7418.md)

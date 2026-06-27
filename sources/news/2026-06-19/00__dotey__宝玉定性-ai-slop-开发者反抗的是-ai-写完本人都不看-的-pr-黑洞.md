@@ -51,10 +51,6 @@ x_source: "crawler"
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 0 · 🔄 0 · 💬 0 · 🔖 0 · 👁 0
-- **关联主题**: [vibe-coding-cognition-inflection](/concepts/vibe-coding-cognition-inflection.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2068072004029202708) — @dotey (宝玉)
-[2] [Author page](/entities/authors/dotey.md)
-[3] [Related topic](/concepts/vibe-coding-cognition-inflection.md)

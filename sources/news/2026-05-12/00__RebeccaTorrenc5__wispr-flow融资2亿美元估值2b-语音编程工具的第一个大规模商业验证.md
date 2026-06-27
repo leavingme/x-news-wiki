@@ -51,8 +51,6 @@ w/ @nmasc: https://t.co/23IV045XEq
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 169 · 🔄 4 · 💬 8 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/RebeccaTorrenc5/status/2054219096032469493) — @RebeccaTorrenc5 (Rebecca Torrence)
-[2] [Author page](/entities/authors/rebeccatorrenc5.md)

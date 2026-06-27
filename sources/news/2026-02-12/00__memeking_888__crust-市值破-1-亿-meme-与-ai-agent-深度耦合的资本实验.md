@@ -50,8 +50,6 @@ $crust #Crustafarianism 将是本轮ai agent风口第二个突破100M的meme币 
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 6 · 🔄 1 · 💬 2 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2021902041648709762) — @memeking_888 (小手川峰｜Feng 🐝)
-[2] [Author page](/entities/authors/memeking-888.md)

@@ -49,8 +49,6 @@ AI 遇到状态机就废了
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 75 · 🔄 2 · 💬 14 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2059544920566960352) — @yetone (yetone)
-[2] [Author page](/entities/authors/yetone.md)

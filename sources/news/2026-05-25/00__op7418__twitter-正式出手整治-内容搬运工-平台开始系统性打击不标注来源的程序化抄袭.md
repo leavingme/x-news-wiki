@@ -47,8 +47,6 @@ Twitter 官方开始打击这种程序化的内容搬运，有些喜欢抄东西
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 14 · 🔄 2 · 💬 5 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2058806244295774350) — @op7418 (歸藏(guizang.ai))
-[2] [Author page](/entities/authors/op7418.md)

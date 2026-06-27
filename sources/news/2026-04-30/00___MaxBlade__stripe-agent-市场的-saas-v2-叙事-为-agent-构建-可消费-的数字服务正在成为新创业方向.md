@@ -64,8 +64,6 @@ WAAAAAAKE UPPPPP.
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 3457 · 🔄 163 · 💬 101 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/_MaxBlade/status/2049604418354438487) — @_MaxBlade (Max Blade)
-[2] [Author page](/entities/authors/maxblade.md)

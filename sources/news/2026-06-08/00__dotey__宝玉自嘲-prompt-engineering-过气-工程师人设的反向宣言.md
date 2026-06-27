@@ -50,8 +50,6 @@ gakki锐评：自嘲是最好的行业指标。Prompt工程的墓志铭上应该
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 15 · 🔄 0 · 💬 3 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2063808524086288543) — @dotey (宝玉)
-[2] [Author page](/entities/authors/dotey.md)

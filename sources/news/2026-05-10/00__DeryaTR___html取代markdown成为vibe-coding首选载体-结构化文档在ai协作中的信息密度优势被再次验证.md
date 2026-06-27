@@ -48,8 +48,6 @@ I've now adapted this HTML approach and it has completely changed my vibe coding
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 209 · 🔄 19 · 💬 26 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/DeryaTR_/status/2053528399466147898) — @DeryaTR_ (Derya Unutmaz, MD)
-[2] [Author page](/entities/authors/deryatr.md)

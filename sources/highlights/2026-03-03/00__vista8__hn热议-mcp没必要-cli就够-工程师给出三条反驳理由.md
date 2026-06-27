@@ -59,10 +59,6 @@ HN上一篇争议文章，作者认为MCP 没必要，CLI 就够：
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 59 · 🔄 1 · 💬 19 · 🔖 0 · 👁 0
-- **关联主题**: [mcp-vs-cli-debate](/concepts/mcp-vs-cli-debate.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2028463124848996769) — @vista8 (向阳乔木)
-[2] [Author page](/entities/authors/vista8.md)
-[3] [Related topic](/concepts/mcp-vs-cli-debate.md)

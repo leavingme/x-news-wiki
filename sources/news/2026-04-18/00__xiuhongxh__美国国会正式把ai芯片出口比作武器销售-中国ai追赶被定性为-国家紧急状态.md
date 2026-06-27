@@ -54,8 +54,6 @@ The House Foreign Affairs Committee warns that the AI arms race is a "black-and-
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 43 · 🔄 68 · 💬 0 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2035529278327279994) — @xiuhongxh (NFSCMultiTranslation)
-[2] [Author page](/entities/authors/xiuhongxh.md)

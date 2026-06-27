@@ -49,8 +49,6 @@ M5 Stack 新出的 Paper Color 彩色墨水屏也做了适配 https://t.co/HR4uF
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 3 · 🔄 0 · 💬 8 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2058098200716992890) — @op7418 (歸藏(guizang.ai))
-[2] [Author page](/entities/authors/op7418.md)

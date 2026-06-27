@@ -68,8 +68,6 @@ This car will revolutionize the transportation industry and car ownership.
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 966 · 🔄 128 · 💬 126 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/niccruzpatane/status/2050676554079019460) — @niccruzpatane (Nic Cruz Patane)
-[2] [Author page](/entities/authors/niccruzpatane.md)

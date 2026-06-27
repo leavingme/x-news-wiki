@@ -56,10 +56,6 @@ npx -y @tencent-weixin/openclaw-weixin-cli@latest install （图一）
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 178 · 🔄 24 · 💬 59 · 🔖 0 · 👁 0
-- **关联主题**: [enterprise-agent-product](/concepts/enterprise-agent-product.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2035557198768799803) — @lxfater (铁锤人)
-[2] [Author page](/entities/authors/lxfater.md)
-[3] [Related topic](/concepts/enterprise-agent-product.md)

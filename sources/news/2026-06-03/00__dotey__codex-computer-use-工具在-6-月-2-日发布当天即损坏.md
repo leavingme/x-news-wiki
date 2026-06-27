@@ -54,8 +54,6 @@ Version 26.601.21317 • Released Jun 2, 2026 https://t.co/VBakEEnUzd
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 9 · 🔄 0 · 💬 10 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2062012342775251223) — @dotey (宝玉)
-[2] [Author page](/entities/authors/dotey.md)

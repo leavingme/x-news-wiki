@@ -57,8 +57,6 @@ gakki锐评：平台做不好工具，生态就来填空——这是典型的「
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 4 · 🔄 0 · 💬 3 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2057853177542955055) — @vista8 (向阳乔木)
-[2] [Author page](/entities/authors/vista8.md)

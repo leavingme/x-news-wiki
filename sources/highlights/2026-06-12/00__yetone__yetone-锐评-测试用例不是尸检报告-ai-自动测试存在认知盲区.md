@@ -50,8 +50,6 @@ gakki 锐评：这个比喻比大多数 AI 测试工具宣传诚实得多。'尸
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 5 · 🔄 0 · 💬 2 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2065283130345533675) — @yetone (yetone)
-[2] [Author page](/entities/authors/yetone.md)

@@ -67,10 +67,6 @@ Google 发布 Gemma 4 开源模型
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 113 · 🔄 18 · 💬 11 · 🔖 0 · 👁 0
-- **关联主题**: [gemma端侧多模态](/concepts/gemma端侧多模态.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2039887512215371935) — @xiaohu (小互)
-[2] [Author page](/entities/authors/xiaohu.md)
-[3] [Related topic](/concepts/gemma端侧多模态.md)

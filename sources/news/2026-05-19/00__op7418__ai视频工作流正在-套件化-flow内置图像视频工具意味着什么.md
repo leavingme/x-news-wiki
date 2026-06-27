@@ -47,8 +47,6 @@ Flow 现在功能超级强大，还内置了一系列图像和视频处理工具
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 8 · 🔄 0 · 💬 1 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2056759251658555508) — @op7418 (歸藏(guizang.ai))
-[2] [Author page](/entities/authors/op7418.md)

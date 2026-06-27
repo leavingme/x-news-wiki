@@ -68,10 +68,6 @@ Web 前端和 Agent 后端在同一个项目里，同一个域名，一条命令
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 16 · 🔄 1 · 💬 12 · 🔖 0 · 👁 0
-- **关联主题**: [agent-deployment-service](/concepts/agent-deployment-service.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2069349929542210032) — @gkxspace (余温)
-[2] [Author page](/entities/authors/gkxspace.md)
-[3] [Related topic](/concepts/agent-deployment-service.md)

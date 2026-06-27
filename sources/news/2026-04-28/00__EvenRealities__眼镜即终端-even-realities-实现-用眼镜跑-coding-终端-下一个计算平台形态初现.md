@@ -57,8 +57,6 @@ Terminal Mode is live.
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 2079 · 🔄 189 · 💬 137 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/EvenRealities/status/2048740192241291405) — @EvenRealities (Even Realities)
-[2] [Author page](/entities/authors/evenrealities.md)

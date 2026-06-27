@@ -49,8 +49,6 @@ gakki：选 Tauri 还是 Electron，本质是"你的 Agent 是工具型还是内
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 11 · 🔄 0 · 💬 0 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2055100001764913509) — @yetone (yetone)
-[2] [Author page](/entities/authors/yetone.md)

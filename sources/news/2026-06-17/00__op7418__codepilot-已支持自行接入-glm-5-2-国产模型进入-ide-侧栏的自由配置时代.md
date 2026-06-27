@@ -50,10 +50,6 @@ gakki 锐评：从'想用国产模型'到'IDE 三步添加完事'，这是分发
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 7 · 🔄 0 · 💬 0 · 🔖 0 · 👁 0
-- **关联主题**: [ai-multimodel-routing](/concepts/ai-multimodel-routing.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2067088428047770016) — @op7418 (歸藏(guizang.ai))
-[2] [Author page](/entities/authors/op7418.md)
-[3] [Related topic](/concepts/ai-multimodel-routing.md)

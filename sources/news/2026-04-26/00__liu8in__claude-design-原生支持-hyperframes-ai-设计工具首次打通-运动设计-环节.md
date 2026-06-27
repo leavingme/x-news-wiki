@@ -59,10 +59,6 @@ link &amp; tutorial in thread: https://t.co/JpUJ9JIxPg
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 1625 · 🔄 86 · 💬 41 · 🔖 0 · 👁 0
-- **关联主题**: [claude-design-disruption](/concepts/claude-design-disruption.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/liu8in/status/2048157838497992926) — @liu8in (Bin Liu)
-[2] [Author page](/entities/authors/liu8in.md)
-[3] [Related topic](/concepts/claude-design-disruption.md)

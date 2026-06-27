@@ -57,8 +57,6 @@ AI 时代，产品不再是护城河，流量和信任才是。
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 3 · 🔄 0 · 💬 0 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2060247002378842529) — @Rourou0413 (Rourou)
-[2] [Author page](/entities/authors/rourou0413.md)

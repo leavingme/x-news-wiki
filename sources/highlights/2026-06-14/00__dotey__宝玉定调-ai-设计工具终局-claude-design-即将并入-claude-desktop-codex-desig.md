@@ -49,10 +49,6 @@ gakki 锐评：这是头部厂商对"AI 设计工具终局形态"的明确押注
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 9 · 🔄 1 · 💬 4 · 🔖 0 · 👁 0
-- **关联主题**: [claude-design-disruption](/concepts/claude-design-disruption.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2065991056261312674) — @dotey (宝玉)
-[2] [Author page](/entities/authors/dotey.md)
-[3] [Related topic](/concepts/claude-design-disruption.md)

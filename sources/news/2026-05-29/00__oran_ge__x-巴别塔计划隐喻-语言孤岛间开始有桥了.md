@@ -53,8 +53,6 @@ X 的巴别塔计划这几天体验下来，越来越觉得它的影响深远。
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 23 · 🔄 2 · 💬 13 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2060361411617010000) — @oran_ge (Orange AI)
-[2] [Author page](/entities/authors/oran-ge.md)

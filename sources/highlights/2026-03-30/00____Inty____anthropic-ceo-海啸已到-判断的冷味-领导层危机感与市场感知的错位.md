@@ -50,8 +50,6 @@ Anthropic CEO：海啸已到眼前，大家还在自我安慰 https://t.co/ABDdS
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 257 · 🔄 28 · 💬 17 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2038581086544937151) — @__Inty__ (Inty News)
-[2] [Author page](/entities/authors/inty.md)

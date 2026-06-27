@@ -51,8 +51,6 @@ Claude code 完成一些动作我老是不知道
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 765 · 🔄 86 · 💬 82 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2027944481253953853) — @xiaohu (小互)
-[2] [Author page](/entities/authors/xiaohu.md)

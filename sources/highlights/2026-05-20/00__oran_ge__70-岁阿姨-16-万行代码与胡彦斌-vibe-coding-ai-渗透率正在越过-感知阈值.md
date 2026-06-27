@@ -67,8 +67,6 @@ AI 的生产力放大了人类的意志，不分年龄，不分行业。
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 5 · 🔄 0 · 💬 1 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2057213771337347174) — @oran_ge (Orange AI)
-[2] [Author page](/entities/authors/oran-ge.md)

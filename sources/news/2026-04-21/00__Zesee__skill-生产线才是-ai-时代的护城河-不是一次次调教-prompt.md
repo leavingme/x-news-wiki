@@ -81,10 +81,6 @@ Kollab 的逻辑是把你的经验变成 Skill。
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 57 · 🔄 1 · 💬 31 · 🔖 0 · 👁 0
-- **关联主题**: [agent-tools-and-orchestration](/concepts/agent-tools-and-orchestration.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2046535978026697160) — @Zesee (Rachel🥥)
-[2] [Author page](/entities/authors/zesee.md)
-[3] [Related topic](/concepts/agent-tools-and-orchestration.md)

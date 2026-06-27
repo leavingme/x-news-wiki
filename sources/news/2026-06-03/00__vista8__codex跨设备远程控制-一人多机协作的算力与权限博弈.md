@@ -62,8 +62,6 @@ Codex 小技巧：一台电脑远程指挥另一台写代码
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 21 · 🔄 1 · 💬 9 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2062167253911511418) — @vista8 (向阳乔木)
-[2] [Author page](/entities/authors/vista8.md)

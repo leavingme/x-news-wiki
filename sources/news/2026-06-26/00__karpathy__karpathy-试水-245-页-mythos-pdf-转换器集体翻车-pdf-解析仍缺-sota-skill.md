@@ -50,10 +50,6 @@ gakki锐评：这条给 OmniDocBench、百度 Unlimited OCR 等文档解析新�
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 1666 · 🔄 37 · 💬 168 · 🔖 0 · 👁 0
-- **关联主题**: [markdown-ai-native-format](/concepts/markdown-ai-native-format.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2042292197287215230) — @karpathy (Andrej Karpathy)
-[2] [Author page](/entities/authors/karpathy.md)
-[3] [Related topic](/concepts/markdown-ai-native-format.md)

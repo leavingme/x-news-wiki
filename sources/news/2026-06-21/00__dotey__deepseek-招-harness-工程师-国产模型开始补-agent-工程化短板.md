@@ -50,8 +50,6 @@ gakki 锐评：Harness 这块 Anthropic 靠着 Claude Code 一年磨出来的护
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 4 · 🔄 0 · 💬 3 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2068697546508149050) — @dotey (宝玉)
-[2] [Author page](/entities/authors/dotey.md)

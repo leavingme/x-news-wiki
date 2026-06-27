@@ -81,10 +81,6 @@ TAO 的子网竞争则是把去中心化 AI 算力做成了残酷的纳斯达克
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 63 · 🔄 0 · 💬 59 · 🔖 0 · 👁 0
-- **关联主题**: [ai-agent-crypto-infra](/concepts/ai-agent-crypto-infra.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2038851780889673984) — @xx03199 (web3 八方)
-[2] [Author page](/entities/authors/xx03199.md)
-[3] [Related topic](/concepts/ai-agent-crypto-infra.md)

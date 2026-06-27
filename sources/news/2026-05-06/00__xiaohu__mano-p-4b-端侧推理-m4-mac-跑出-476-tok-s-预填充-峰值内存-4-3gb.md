@@ -59,10 +59,6 @@ gakki：4B 量化的性能数字好看，但真正的分水岭不是速度——
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 1 · 🔄 0 · 💬 1 · 🔖 0 · 👁 0
-- **关联主题**: [edge-agent-local-compute](/concepts/edge-agent-local-compute.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2051975624362016979) — @xiaohu (小互)
-[2] [Author page](/entities/authors/xiaohu.md)
-[3] [Related topic](/concepts/edge-agent-local-compute.md)

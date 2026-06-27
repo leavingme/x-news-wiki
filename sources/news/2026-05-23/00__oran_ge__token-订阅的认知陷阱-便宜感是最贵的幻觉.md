@@ -50,8 +50,6 @@ gakki：Token 订阅经济的真正门槛不是价格，是用户是否具备识
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 0 · 🔄 0 · 💬 0 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2057965669615087761) — @oran_ge (Orange AI)
-[2] [Author page](/entities/authors/oran-ge.md)

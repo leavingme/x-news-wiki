@@ -76,10 +76,6 @@ https://t.co/Or3PVUv67q
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 2034 · 🔄 331 · 💬 102 · 🔖 0 · 👁 0
-- **关联主题**: [agent-memory-optimization](/concepts/agent-memory-optimization.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2034479369855590660) — @elliotchen100 (艾略特)
-[2] [Author page](/entities/authors/elliotchen100.md)
-[3] [Related topic](/concepts/agent-memory-optimization.md)

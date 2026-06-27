@@ -60,10 +60,6 @@ Opus4.6 降智变味儿了
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 219 · 🔄 7 · 💬 24 · 🔖 0 · 👁 0
-- **关联主题**: [ai-shrinkflation-opus-degradation](/concepts/ai-shrinkflation-opus-degradation.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2043123163954110928) — @oran_ge (Orange AI)
-[2] [Author page](/entities/authors/oran-ge.md)
-[3] [Related topic](/concepts/ai-shrinkflation-opus-degradation.md)

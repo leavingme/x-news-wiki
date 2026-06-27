@@ -57,8 +57,6 @@ x_source: "crawler"
 - **精选类别**: 📰 头条
 - **优先级**: 85
 - **互动**: ❤️ 146 · 🔄 4 · 💬 56 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2029973481967018042) — @bourneliu66 (刘小排)
-[2] [Author page](/entities/authors/bourneliu66.md)

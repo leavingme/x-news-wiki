@@ -56,10 +56,6 @@ GitHub：https://t.co/AKEMXaTHhO
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 75 · 🔄 16 · 💬 1 · 🔖 0 · 👁 0
-- **关联主题**: [claude-code-ecosystem](/concepts/claude-code-ecosystem.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2033880025293078801) — @GoJun315 (高军)
-[2] [Author page](/entities/authors/gojun315.md)
-[3] [Related topic](/concepts/claude-code-ecosystem.md)

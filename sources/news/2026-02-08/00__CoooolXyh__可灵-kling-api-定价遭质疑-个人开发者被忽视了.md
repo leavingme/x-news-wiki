@@ -47,8 +47,6 @@ kling 官方是不是根本不考虑个人开发者用 API 的情况？找半天
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 3 · 🔄 0 · 💬 0 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2020090071790342298) — @CoooolXyh (Yuhang)
-[2] [Author page](/entities/authors/coooolxyh.md)

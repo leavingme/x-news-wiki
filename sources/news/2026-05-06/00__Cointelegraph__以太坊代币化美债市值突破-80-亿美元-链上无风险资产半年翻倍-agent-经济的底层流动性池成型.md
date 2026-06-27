@@ -49,8 +49,6 @@ gakki 锐评：这不只是数字好看——代币化美债是 Agent 经济的"
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 161 · 🔄 41 · 💬 65 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/Cointelegraph/status/2051914995613544948) — @Cointelegraph (Cointelegraph)
-[2] [Author page](/entities/authors/cointelegraph.md)

@@ -53,8 +53,6 @@ Orange AI 这条转发点评切中了一个广泛流传的创业迷思：把"好
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 1 · 🔄 0 · 💬 0 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2058339873615229237) — @oran_ge (Orange AI)
-[2] [Author page](/entities/authors/oran-ge.md)

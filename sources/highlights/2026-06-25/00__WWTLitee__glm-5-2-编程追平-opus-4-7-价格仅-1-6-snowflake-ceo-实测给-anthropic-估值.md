@@ -56,10 +56,6 @@ Snowflake CEO 公布了一个实测数据：GLM-5.2 在编程任务上和 Claude
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 10 · 🔄 0 · 💬 17 · 🔖 0 · 👁 0
-- **关联主题**: [domestic-model-benchmark-performance](/concepts/domestic-model-benchmark-performance.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2070165704368873694) — @WWTLitee (奶牛叔)
-[2] [Author page](/entities/authors/wwtlitee.md)
-[3] [Related topic](/concepts/domestic-model-benchmark-performance.md)

@@ -51,8 +51,6 @@ yetone 透露 Cumora 的 Agent prompt 明确写道：用户是真实的人，不
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 2 · 🔄 0 · 💬 0 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2056993532230152418) — @yetone (yetone)
-[2] [Author page](/entities/authors/yetone.md)

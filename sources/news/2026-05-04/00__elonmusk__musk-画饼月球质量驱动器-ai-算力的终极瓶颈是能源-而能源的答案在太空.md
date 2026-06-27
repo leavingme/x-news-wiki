@@ -50,10 +50,6 @@ Mass drivers on Moon
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 45504 · 🔄 3404 · 💬 5093 · 🔖 0 · 👁 0
-- **关联主题**: [ai-energy-infrastructure](/concepts/ai-energy-infrastructure.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/elonmusk/status/2051008281041330277) — @elonmusk (Elon Musk)
-[2] [Author page](/entities/authors/elonmusk.md)
-[3] [Related topic](/concepts/ai-energy-infrastructure.md)

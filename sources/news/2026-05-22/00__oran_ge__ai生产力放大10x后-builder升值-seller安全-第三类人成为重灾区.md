@@ -56,8 +56,6 @@ seller 做的一直是在放大收入，也比较安全
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 9 · 🔄 0 · 💬 1 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2057651458535997850) — @oran_ge (Orange AI)
-[2] [Author page](/entities/authors/oran-ge.md)

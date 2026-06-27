@@ -54,10 +54,6 @@ x_source: "crawler"
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 6 · 🔄 0 · 💬 3 · 🔖 0 · 👁 0
-- **关联主题**: [token-economics-infrastructure](/concepts/token-economics-infrastructure.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2069079141706604593) — @Leobai825 (天策)
-[2] [Author page](/entities/authors/leobai825.md)
-[3] [Related topic](/concepts/token-economics-infrastructure.md)

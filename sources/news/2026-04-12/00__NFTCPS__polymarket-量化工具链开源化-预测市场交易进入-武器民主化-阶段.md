@@ -90,10 +90,6 @@ https://t.co/SIEvDqidLe
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 127 · 🔄 40 · 💬 7 · 🔖 0 · 👁 0
-- **关联主题**: [prediction-market-compliance](/concepts/prediction-market-compliance.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2042967386110988779) — @NFTCPS (鸟哥 | 蓝鸟会🕊️)
-[2] [Author page](/entities/authors/nftcps.md)
-[3] [Related topic](/concepts/prediction-market-compliance.md)

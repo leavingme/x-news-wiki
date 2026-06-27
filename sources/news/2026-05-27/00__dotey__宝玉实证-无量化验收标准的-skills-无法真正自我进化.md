@@ -58,8 +58,6 @@ Skills 的进化瓶颈揭示了 AI Agent 在需要主观判断领域的根本限
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 24 · 🔄 0 · 💬 12 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2059434459783389397) — @dotey (宝玉)
-[2] [Author page](/entities/authors/dotey.md)

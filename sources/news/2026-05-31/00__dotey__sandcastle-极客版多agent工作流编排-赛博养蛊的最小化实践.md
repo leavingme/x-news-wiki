@@ -58,8 +58,6 @@ Matt 这个 Sandcastle 就是用 TypeScript 脚本来编排 Workflow，可以把
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 50 · 🔄 7 · 💬 15 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2060865571244183797) — @dotey (宝玉)
-[2] [Author page](/entities/authors/dotey.md)

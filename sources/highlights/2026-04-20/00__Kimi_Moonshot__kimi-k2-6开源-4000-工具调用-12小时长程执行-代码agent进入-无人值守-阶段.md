@@ -63,8 +63,6 @@ For production-grade coding, pair K2.6 with Kimi Code: https://t.co/uvoSJKyGCY
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 15874 · 🔄 2095 · 💬 800 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/Kimi_Moonshot/status/2046249571882500354) — @Kimi_Moonshot (Kimi.ai)
-[2] [Author page](/entities/authors/kimi-moonshot.md)

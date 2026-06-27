@@ -52,8 +52,6 @@ A 社有毒啊，新模型被禁止用来做模型相关开发。。。
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 30 · 🔄 1 · 💬 12 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2064478720250044757) — @oran_ge (Orange AI)
-[2] [Author page](/entities/authors/oran-ge.md)

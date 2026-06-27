@@ -55,10 +55,6 @@ GDP=電力x每瓦算力
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 122 · 🔄 7 · 💬 2 · 🔖 0 · 👁 0
-- **关联主题**: [token-economics-infrastructure](/concepts/token-economics-infrastructure.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2034555496536146349) — @IEObserve (Intl Econ Observe)
-[2] [Author page](/entities/authors/ieobserve.md)
-[3] [Related topic](/concepts/token-economics-infrastructure.md)

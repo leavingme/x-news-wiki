@@ -53,10 +53,6 @@ Enable both and boom.
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 1549 · 🔄 83 · 💬 101 · 🔖 0 · 👁 0
-- **关联主题**: [open-agent-ecosystem](/concepts/open-agent-ecosystem.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/steipete/status/2049988836160074022) — @steipete (Peter Steinberger 🦞)
-[2] [Author page](/entities/authors/steipete.md)
-[3] [Related topic](/concepts/open-agent-ecosystem.md)

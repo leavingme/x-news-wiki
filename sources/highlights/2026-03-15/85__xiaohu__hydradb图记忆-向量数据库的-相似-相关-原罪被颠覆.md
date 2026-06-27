@@ -63,10 +63,6 @@ HydraDB换了个思路：
 - **精选类别**: ✨ 亮点
 - **优先级**: 85
 - **互动**: ❤️ 211 · 🔄 33 · 💬 21 · 🔖 0 · 👁 0
-- **关联主题**: [agent-memory-optimization](/concepts/agent-memory-optimization.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2033063306332876945) — @xiaohu (小互)
-[2] [Author page](/entities/authors/xiaohu.md)
-[3] [Related topic](/concepts/agent-memory-optimization.md)

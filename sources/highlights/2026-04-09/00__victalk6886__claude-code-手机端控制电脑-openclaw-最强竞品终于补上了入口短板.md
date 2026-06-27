@@ -65,10 +65,6 @@ openai被爆出以17.5%的最低收益率和未公开的大模型使用权寻求
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 91 · 🔄 21 · 💬 3 · 🔖 0 · 👁 0
-- **关联主题**: [openclaw-digital-life-philosophy](/concepts/openclaw-digital-life-philosophy.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2036314236146843903) — @victalk6886 (Vic TALK)
-[2] [Author page](/entities/authors/victalk6886.md)
-[3] [Related topic](/concepts/openclaw-digital-life-philosophy.md)

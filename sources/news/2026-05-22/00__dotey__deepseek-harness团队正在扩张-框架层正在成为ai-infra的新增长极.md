@@ -47,8 +47,6 @@ gakki锐评：Harness团队招聘是DeepSeek从「模型供应商」升级为「
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 1 · 🔄 0 · 💬 4 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2057835713442230638) — @dotey (宝玉)
-[2] [Author page](/entities/authors/dotey.md)

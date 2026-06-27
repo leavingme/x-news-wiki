@@ -57,8 +57,6 @@ Observer AI 通过屏幕录制+AI分析+Function Call响应的闭环，将人类
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 57 · 🔄 6 · 💬 1 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/1934416132880183549) — @karminski3 (karminski-牙医)
-[2] [Author page](/entities/authors/karminski3.md)

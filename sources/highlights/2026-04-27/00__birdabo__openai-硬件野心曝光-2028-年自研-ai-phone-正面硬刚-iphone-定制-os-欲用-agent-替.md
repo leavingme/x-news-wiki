@@ -55,8 +55,6 @@ rumors:
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 959 · 🔄 46 · 💬 145 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/birdabo/status/2048786749867061678) — @birdabo (sui ☄️)
-[2] [Author page](/entities/authors/birdabo.md)

@@ -54,10 +54,6 @@ gakki锐评：邮件层正在被改造成Agent时代的身份+通信底座，但
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 75 · 🔄 12 · 💬 29 · 🔖 0 · 👁 0
-- **关联主题**: [ai-agent-tool-call-tax](/concepts/ai-agent-tool-call-tax.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2070144005589831745) — @vista8 (向阳乔木)
-[2] [Author page](/entities/authors/vista8.md)
-[3] [Related topic](/concepts/ai-agent-tool-call-tax.md)

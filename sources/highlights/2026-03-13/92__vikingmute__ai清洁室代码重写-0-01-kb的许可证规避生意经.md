@@ -53,10 +53,6 @@ x_source: "crawler"
 - **精选类别**: ✨ 亮点
 - **优先级**: 92
 - **互动**: ❤️ 98 · 🔄 11 · 💬 8 · 🔖 0 · 👁 0
-- **关联主题**: [ai-business-survival](/concepts/ai-business-survival.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2032420305034211591) — @vikingmute (Viking)
-[2] [Author page](/entities/authors/vikingmute.md)
-[3] [Related topic](/concepts/ai-business-survival.md)

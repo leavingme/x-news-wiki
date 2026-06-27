@@ -55,10 +55,6 @@ https://t.co/nciKUbNLl1
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 185 · 🔄 44 · 💬 20 · 🔖 0 · 👁 0
-- **关联主题**: [agent-memory-optimization](/concepts/agent-memory-optimization.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2035033044831400166) — @bozhou_ai (泊舟)
-[2] [Author page](/entities/authors/bozhou-ai.md)
-[3] [Related topic](/concepts/agent-memory-optimization.md)

@@ -49,8 +49,6 @@ AI时代，给自己三个月静下心来做自己的东西，可以是产品也
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 2 · 🔄 0 · 💬 0 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2056630120077730042) — @Rourou0413 (Rourou)
-[2] [Author page](/entities/authors/rourou0413.md)

@@ -54,10 +54,6 @@ GitHub Star 是开发者用脚投票的结果。OpenClaw 的爆发式增长说�
 - **精选类别**: ✨ 亮点
 - **优先级**: 95
 - **互动**: ❤️ 43 · 🔄 11 · 💬 3 · 🔖 0 · 👁 0
-- **关联主题**: [open-agent-ecosystem](/concepts/open-agent-ecosystem.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2028832852499153115) — @starzq (Star@Day1Global Podcast)
-[2] [Author page](/entities/authors/starzq.md)
-[3] [Related topic](/concepts/open-agent-ecosystem.md)

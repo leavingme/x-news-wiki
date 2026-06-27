@@ -77,8 +77,6 @@ follow-builders。一条 /ai 命令，2 分钟出结果
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 403 · 🔄 97 · 💬 8 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2036769574197272797) — @ianneo_ai (Ian (伊恩))
-[2] [Author page](/entities/authors/ianneo-ai.md)

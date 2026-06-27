@@ -47,8 +47,6 @@ yetone在回复中明确表态"前端是唯一不可被替代的"，并在前一
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 6 · 🔄 0 · 💬 2 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2057784391867523210) — @yetone (yetone)
-[2] [Author page](/entities/authors/yetone.md)

@@ -49,10 +49,6 @@ Codex 发展趋势必然是 Agent OS 而不仅仅是 Agent Office
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 34 · 🔄 1 · 💬 12 · 🔖 0 · 👁 0
-- **关联主题**: [codex-ecosystem-platform-war](/concepts/codex-ecosystem-platform-war.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2070296441495454134) — @dotey (宝玉)
-[2] [Author page](/entities/authors/dotey.md)
-[3] [Related topic](/concepts/codex-ecosystem-platform-war.md)

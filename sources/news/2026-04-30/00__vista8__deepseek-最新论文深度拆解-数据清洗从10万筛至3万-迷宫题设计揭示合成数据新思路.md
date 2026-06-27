@@ -57,8 +57,6 @@ DeepSeek 这篇论文牛逼，独立思考的光辉在闪耀。
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 3 · 🔄 0 · 💬 1 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2049890663739646348) — @vista8 (向阳乔木)
-[2] [Author page](/entities/authors/vista8.md)

@@ -51,8 +51,6 @@ Anthropic 今天发了一个新产品，可能会让一批做 AI 智能体基础
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 751 · 🔄 148 · 💬 63 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2042017036931305667) — @dotey (宝玉)
-[2] [Author page](/entities/authors/dotey.md)

@@ -61,8 +61,6 @@ It works remarkably well if you think about all the steps involved
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 70 · 🔄 4 · 💬 8 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2070255055152779329) — @levelsio (@levelsio)
-[2] [Author page](/entities/authors/levelsio.md)

@@ -63,8 +63,6 @@ US manufacturing may be on the verge of historic expansion.
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 375 · 🔄 60 · 💬 88 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/KobeissiLetter/status/2048424361267220807) — @KobeissiLetter (The Kobeissi Letter)
-[2] [Author page](/entities/authors/kobeissiletter.md)

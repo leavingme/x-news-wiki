@@ -78,8 +78,6 @@ Skill 不是越多越好，好用才是最重要的！
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 81 · 🔄 17 · 💬 25 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2063581947297992959) — @huijiu68 (小灰韭)
-[2] [Author page](/entities/authors/huijiu68.md)

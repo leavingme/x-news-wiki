@@ -70,8 +70,6 @@ Anthropic 研究员 Nicholas Carlini 用 Claude Code 扫描 Linux 内核源码�
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 4 · 🔄 0 · 💬 2 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2040578742410768536) — @LufzzLiz (岚叔)
-[2] [Author page](/entities/authors/lufzzliz.md)

@@ -75,10 +75,6 @@ If you don’t want to miss his next 75x trade, starting copy every one of his t
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 1020 · 🔄 145 · 💬 37 · 🔖 0 · 👁 0
-- **关联主题**: [multi-agent-simulation-infrastructure](/concepts/multi-agent-simulation-infrastructure.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/antpalkin/status/2049916341839352135) — @antpalkin (cvxv666)
-[2] [Author page](/entities/authors/antpalkin.md)
-[3] [Related topic](/concepts/multi-agent-simulation-infrastructure.md)

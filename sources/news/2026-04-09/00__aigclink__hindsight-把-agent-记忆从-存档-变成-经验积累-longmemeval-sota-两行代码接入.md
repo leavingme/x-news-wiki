@@ -70,10 +70,6 @@ Claude Code、Cursor、OpenClaw等都有现成集成
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 48 · 🔄 15 · 💬 4 · 🔖 0 · 👁 0
-- **关联主题**: [agent-memory-optimization](/concepts/agent-memory-optimization.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2041722658656862529) — @aigclink (AIGCLINK)
-[2] [Author page](/entities/authors/aigclink.md)
-[3] [Related topic](/concepts/agent-memory-optimization.md)

@@ -70,10 +70,6 @@ OKX API Key 申请教程：https://t.co/HLIz6xD5eI
 - **精选类别**: ✨ 亮点
 - **优先级**: 85
 - **互动**: ❤️ 28 · 🔄 7 · 💬 5 · 🔖 0 · 👁 0
-- **关联主题**: [ai-crypto-agent-infra](/concepts/ai-crypto-agent-infra.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2031369127789510804) — @GoSailGlobal (Jason Zhu)
-[2] [Author page](/entities/authors/gosailglobal.md)
-[3] [Related topic](/concepts/ai-crypto-agent-infra.md)

@@ -50,10 +50,6 @@ gakki 锐评：这句话比任何 benchmark 都接近真相。便宜模型能赢
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 4 · 🔄 0 · 💬 1 · 🔖 0 · 👁 0
-- **关联主题**: [cheap-model-trap](/concepts/cheap-model-trap.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2064640182306185597) — @mranti (Michael Anti)
-[2] [Author page](/entities/authors/mranti.md)
-[3] [Related topic](/concepts/cheap-model-trap.md)

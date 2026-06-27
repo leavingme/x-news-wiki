@@ -56,10 +56,6 @@ Across five benchmarks (ALFWorld, GAIA, WebShop, T3-Bench, SWE-bench Verified), 
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 3 · 🔄 2 · 💬 2 · 🔖 0 · 👁 0
-- **关联主题**: [harness-engineering-framework](/concepts/harness-engineering-framework.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2066410397167649069) — @jiqizhixin (机器之心 JIQIZHIXIN)
-[2] [Author page](/entities/authors/jiqizhixin.md)
-[3] [Related topic](/concepts/harness-engineering-framework.md)

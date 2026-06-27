@@ -60,10 +60,6 @@ Yohei 是著名的 babyagi 的作者，也是超强的很早就亲自着手做 g
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 111 · 🔄 21 · 💬 5 · 🔖 0 · 👁 0
-- **关联主题**: [agent-memory-optimization](/concepts/agent-memory-optimization.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2037209615767921058) — @wey_gu (Wey Gu 古思为)
-[2] [Author page](/entities/authors/wey-gu.md)
-[3] [Related topic](/concepts/agent-memory-optimization.md)

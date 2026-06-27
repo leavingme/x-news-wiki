@@ -53,8 +53,6 @@ Fable 5强得有点过分，大量GPT-5.5做不到的事情，它都能瞬间完
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 51 · 🔄 0 · 💬 20 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2065279487219310981) — @bourneliu66 (刘小排)
-[2] [Author page](/entities/authors/bourneliu66.md)

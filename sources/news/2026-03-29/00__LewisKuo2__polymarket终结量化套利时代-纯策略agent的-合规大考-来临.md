@@ -88,8 +88,6 @@ Front-running（抢先交易）
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 59 · 🔄 10 · 💬 47 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2036353063611670929) — @LewisKuo2 (Lewis爆肝战神)
-[2] [Author page](/entities/authors/lewiskuo2.md)

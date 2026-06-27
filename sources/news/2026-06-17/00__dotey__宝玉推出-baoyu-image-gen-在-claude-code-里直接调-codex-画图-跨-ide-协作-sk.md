@@ -50,8 +50,6 @@ gakki 锐评：单条 Skill 价值有限，但它把"跨 IDE 模型路由"从架
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 1 · 🔄 0 · 💬 1 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2067136930152665474) — @dotey (宝玉)
-[2] [Author page](/entities/authors/dotey.md)

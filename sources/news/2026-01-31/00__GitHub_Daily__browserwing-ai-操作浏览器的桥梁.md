@@ -59,8 +59,6 @@ x_source: "crawler"
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 225 · 🔄 63 · 💬 7 · 🔖 265 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://twitter.com/GitHub_Daily/status/2014852579126309141) — @GitHub_Daily (GitHubDaily)
-[2] [Author page](/entities/authors/github-daily.md)

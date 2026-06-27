@@ -67,10 +67,6 @@ Anthropic 的结论是：Claude 本质上是模型在“扮演”的一个角色
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 598 · 🔄 86 · 💬 39 · 🔖 0 · 👁 0
-- **关联主题**: [multi-model-alignment](/concepts/multi-model-alignment.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2039768399685828616) — @dotey (宝玉)
-[2] [Author page](/entities/authors/dotey.md)
-[3] [Related topic](/concepts/multi-model-alignment.md)

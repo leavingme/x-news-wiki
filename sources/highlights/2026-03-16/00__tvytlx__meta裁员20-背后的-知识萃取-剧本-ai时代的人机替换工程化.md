@@ -99,8 +99,6 @@ Repeat：以 2-3 倍规模推进下一轮
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 232 · 🔄 57 · 💬 14 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2033072556706873420) — @tvytlx (Xiao Tan)
-[2] [Author page](/entities/authors/tvytlx.md)

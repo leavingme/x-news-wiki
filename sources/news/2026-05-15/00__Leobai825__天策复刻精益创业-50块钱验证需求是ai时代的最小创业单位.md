@@ -144,8 +144,6 @@ gakki锐评：精益创业喊了十几年，只有在「发内容」成本趋近
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 18 · 🔄 0 · 💬 1 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2055219614166974654) — @Leobai825 (天策)
-[2] [Author page](/entities/authors/leobai825.md)

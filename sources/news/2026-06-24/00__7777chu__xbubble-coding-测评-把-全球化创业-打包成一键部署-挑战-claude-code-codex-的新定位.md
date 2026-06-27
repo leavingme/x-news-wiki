@@ -120,8 +120,6 @@ AI 时代真正值得关注的机会，往往不在大而全的市场。
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 92 · 🔄 2 · 💬 138 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2069683591815307763) — @7777chu (初七🍌)
-[2] [Author page](/entities/authors/7777chu.md)

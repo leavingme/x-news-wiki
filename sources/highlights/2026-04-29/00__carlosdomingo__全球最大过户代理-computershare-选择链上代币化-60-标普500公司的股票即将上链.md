@@ -51,10 +51,6 @@ Tokenize the world!
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 204 · 🔄 35 · 💬 20 · 🔖 0 · 👁 0
-- **关联主题**: [ai-data-blockchain-verification](/concepts/ai-data-blockchain-verification.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/carlosdomingo/status/2049464746080903269) — @carlosdomingo (Carlos Domingo)
-[2] [Author page](/entities/authors/carlosdomingo.md)
-[3] [Related topic](/concepts/ai-data-blockchain-verification.md)

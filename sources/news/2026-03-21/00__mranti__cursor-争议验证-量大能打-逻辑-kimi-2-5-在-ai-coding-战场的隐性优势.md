@@ -48,10 +48,6 @@ Cursor这事就是证明我一直在AI Coding中推荐Kimi 2.5是对的，它就
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 164 · 🔄 3 · 💬 36 · 🔖 0 · 👁 0
-- **关联主题**: [ai-coding-licensing-dispute](/concepts/ai-coding-licensing-dispute.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2035190773650792783) — @mranti (Michael Anti)
-[2] [Author page](/entities/authors/mranti.md)
-[3] [Related topic](/concepts/ai-coding-licensing-dispute.md)

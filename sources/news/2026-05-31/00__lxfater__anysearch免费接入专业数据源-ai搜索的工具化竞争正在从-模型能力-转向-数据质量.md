@@ -62,8 +62,6 @@ GitHub：https://t.co/2J30mzZBgt
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 6 · 🔄 1 · 💬 1 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2060970565763256800) — @lxfater (铁锤人)
-[2] [Author page](/entities/authors/lxfater.md)

@@ -50,8 +50,6 @@ gakki锐评:Deep Research 这类"工具链型能力"不能只看模型 benchmark
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 49 · 🔄 4 · 💬 10 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2063629577495167436) — @dotey (宝玉)
-[2] [Author page](/entities/authors/dotey.md)

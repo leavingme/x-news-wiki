@@ -134,8 +134,6 @@ At 1:00 PM ET, @andrewxhill & @TheDerrek will live-stream a breakdown of:
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 145 · 🔄 1 · 💬 227 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/1958689871318720644) — @AwbczBTC (Crypto爱玩币的村长🌊)
-[2] [Author page](/entities/authors/awbczbtc.md)

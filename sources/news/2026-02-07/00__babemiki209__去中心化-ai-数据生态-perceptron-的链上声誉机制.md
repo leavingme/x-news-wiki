@@ -60,8 +60,6 @@ OpenLedger 回答了数据归谁所有的问题，而 Perceptron 则解决谁真
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 2 · 🔄 1 · 💬 2 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2020120103103406395) — @babemiki209 (迪士尼在逃MiKi💋)
-[2] [Author page](/entities/authors/babemiki209.md)

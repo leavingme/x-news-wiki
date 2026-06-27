@@ -79,8 +79,6 @@ The registration spots have been snapped up and there will be a new round next w
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 139 · 🔄 0 · 💬 142 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/1966572020780728543) — @biziyou888 (币自由 🐬)
-[2] [Author page](/entities/authors/biziyou888.md)

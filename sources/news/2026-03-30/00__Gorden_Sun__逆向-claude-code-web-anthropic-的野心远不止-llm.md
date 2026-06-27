@@ -51,8 +51,6 @@ x_source: "crawler"
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 81 · 🔄 9 · 💬 3 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2038286729363509737) — @Gorden_Sun (Gorden Sun)
-[2] [Author page](/entities/authors/gorden-sun.md)

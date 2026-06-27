@@ -50,8 +50,6 @@ https://t.co/AJ0crNOFhU https://t.co/VyPjH2WG4j
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 7272 · 🔄 771 · 💬 251 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/zeddotdev/status/2049498864093184045) — @zeddotdev (Zed)
-[2] [Author page](/entities/authors/zeddotdev.md)

@@ -60,8 +60,6 @@ Tanka 这次升级真正关键的是这五块：
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 9 · 🔄 0 · 💬 2 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2057259620817862744) — @xiaohu (小互)
-[2] [Author page](/entities/authors/xiaohu.md)

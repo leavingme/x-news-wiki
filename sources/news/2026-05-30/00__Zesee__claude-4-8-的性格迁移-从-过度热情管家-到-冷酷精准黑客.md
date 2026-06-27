@@ -70,8 +70,6 @@ Claude Opus 4.8：从聪明管家到冷酷黑客的进化（附实际案例）
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 25 · 🔄 6 · 💬 19 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2060747803928789120) — @Zesee (Rachel🥥)
-[2] [Author page](/entities/authors/zesee.md)

@@ -51,8 +51,6 @@ https://t.co/PVX6NoAQMM https://t.co/GH5AUbYOAR
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 61 · 🔄 17 · 💬 1 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2039691053738115577) — @qloog (Richard)
-[2] [Author page](/entities/authors/qloog.md)

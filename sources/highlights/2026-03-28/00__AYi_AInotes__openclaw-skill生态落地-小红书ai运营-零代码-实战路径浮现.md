@@ -57,10 +57,6 @@ OpenClaw都能通过简单的 skill 安装和配置实现。
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 143 · 🔄 22 · 💬 3 · 🔖 0 · 👁 0
-- **关联主题**: [no-code-agent-entry](/concepts/no-code-agent-entry.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2035515725335633966) — @AYi_AInotes (阿绎 AYi)
-[2] [Author page](/entities/authors/ayi-ainotes.md)
-[3] [Related topic](/concepts/no-code-agent-entry.md)

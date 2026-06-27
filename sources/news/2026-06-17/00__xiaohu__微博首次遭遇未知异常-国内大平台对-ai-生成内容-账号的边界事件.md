@@ -48,8 +48,6 @@ gakki锐评：信息密度太低，没有事故描述就没有判断价值——
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 1 · 🔄 0 · 💬 1 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2067247092930892210) — @xiaohu (小互)
-[2] [Author page](/entities/authors/xiaohu.md)

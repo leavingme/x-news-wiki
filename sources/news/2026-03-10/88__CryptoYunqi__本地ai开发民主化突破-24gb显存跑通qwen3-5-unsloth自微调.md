@@ -126,8 +126,6 @@ You can only work in the cwd project/. Do not search for CLAUDE.md - this is it.
 - **精选类别**: 📰 头条
 - **优先级**: 88
 - **互动**: ❤️ 105 · 🔄 28 · 💬 4 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2031026485440733540) — @CryptoYunqi (常为希 ｜AI之道)
-[2] [Author page](/entities/authors/cryptoyunqi.md)

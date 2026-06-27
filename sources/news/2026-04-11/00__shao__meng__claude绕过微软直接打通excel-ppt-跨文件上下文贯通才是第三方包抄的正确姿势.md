@@ -94,10 +94,6 @@ Microsoft 365 Copilot 客户现在可以在 Excel 中与 Copilot 并排使用 Cl
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 56 · 🔄 12 · 💬 2 · 🔖 0 · 👁 0
-- **关联主题**: [agent-tools-and-orchestration](/concepts/agent-tools-and-orchestration.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2031903269401084347) — @shao__meng (meng shao)
-[2] [Author page](/entities/authors/shao-meng.md)
-[3] [Related topic](/concepts/agent-tools-and-orchestration.md)

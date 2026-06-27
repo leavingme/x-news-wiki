@@ -65,10 +65,6 @@ gakki：Codex 正在重演「工具吞噬工具」的历史——插件是借来
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 90 · 🔄 8 · 💬 7 · 🔖 0 · 👁 0
-- **关联主题**: [claude-code-ecosystem](/concepts/claude-code-ecosystem.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2049094944405737512) — @op7418 (歸藏(guizang.ai))
-[2] [Author page](/entities/authors/op7418.md)
-[3] [Related topic](/concepts/claude-code-ecosystem.md)

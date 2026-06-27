@@ -58,8 +58,6 @@ TLDR the people in these two groups are speaking past each other. It really is s
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 20885 · 🔄 2528 · 💬 1199 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2042334451611693415) — @karpathy (Andrej Karpathy)
-[2] [Author page](/entities/authors/karpathy.md)

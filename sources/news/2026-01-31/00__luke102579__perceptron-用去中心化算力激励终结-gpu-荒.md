@@ -84,8 +84,6 @@ Perceptron 能吸引數以萬計的 GPU 加入
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 40 · 🔄 0 · 💬 27 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2017506133129499046) — @luke102579 (小美哥🕊️｜🐬TermMax)
-[2] [Author page](/entities/authors/luke102579.md)

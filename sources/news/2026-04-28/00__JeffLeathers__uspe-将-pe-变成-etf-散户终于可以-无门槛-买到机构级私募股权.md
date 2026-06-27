@@ -75,8 +75,6 @@ Disclaimers below**
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 90 · 🔄 14 · 💬 16 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/JeffLeathers/status/2049125780027048053) — @JeffLeathers (Jeff Leathers)
-[2] [Author page](/entities/authors/jeffleathers.md)

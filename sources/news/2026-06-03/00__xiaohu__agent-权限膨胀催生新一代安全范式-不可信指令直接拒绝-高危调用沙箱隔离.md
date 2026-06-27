@@ -57,10 +57,6 @@ OpenSquilla 重构了小龙虾的安全逻辑
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 1 · 🔄 0 · 💬 1 · 🔖 0 · 👁 0
-- **关联主题**: [agent-security-infrastructure](/concepts/agent-security-infrastructure.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2062112317261975614) — @xiaohu (小互)
-[2] [Author page](/entities/authors/xiaohu.md)
-[3] [Related topic](/concepts/agent-security-infrastructure.md)

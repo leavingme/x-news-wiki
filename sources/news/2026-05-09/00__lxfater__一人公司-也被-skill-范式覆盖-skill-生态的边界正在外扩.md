@@ -51,8 +51,6 @@ https://t.co/9PuYvLY6BG
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 9 · 🔄 1 · 💬 1 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2053001894491283809) — @lxfater (铁锤人)
-[2] [Author page](/entities/authors/lxfater.md)

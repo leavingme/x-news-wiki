@@ -58,8 +58,6 @@ Chrome插件上架被拒——谷歌检测到AI生成的关键词堆砌，说明
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 0 · 🔄 0 · 💬 0 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2060029346686075128) — @vista8 (向阳乔木)
-[2] [Author page](/entities/authors/vista8.md)

@@ -110,8 +110,6 @@ AI能带来的最大优势，
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 976 · 🔄 206 · 💬 16 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2037398014982225997) — @AYi_AInotes (阿绎 AYi)
-[2] [Author page](/entities/authors/ayi-ainotes.md)

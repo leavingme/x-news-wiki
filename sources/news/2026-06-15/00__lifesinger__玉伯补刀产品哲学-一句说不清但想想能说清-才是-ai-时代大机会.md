@@ -64,10 +64,6 @@ AI To C 领域特别难出“一句话说清楚”的大产品。AI 本身是通
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 14 · 🔄 3 · 💬 8 · 🔖 0 · 👁 0
-- **关联主题**: [product-definition-moat](/concepts/product-definition-moat.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2066516587105124531) — @lifesinger (Frank Wang 玉伯)
-[2] [Author page](/entities/authors/lifesinger.md)
-[3] [Related topic](/concepts/product-definition-moat.md)

@@ -60,8 +60,6 @@ gakki：RAG 军备竞赛可能是个过度设计的伪需求。当 LLM 上下文
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 2 · 🔄 1 · 💬 2 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2040269152997494980) — @defi88888888 (Aaron)
-[2] [Author page](/entities/authors/defi88888888.md)

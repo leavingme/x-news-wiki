@@ -64,10 +64,6 @@ Echo管协调，Elon负责写代码和提PR，Henry帮忙推推广
 - **精选类别**: ✨ 亮点
 - **优先级**: 88
 - **互动**: ❤️ 117 · 🔄 22 · 💬 21 · 🔖 0 · 👁 0
-- **关联主题**: [vibe-coding-methodology](/concepts/vibe-coding-methodology.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2030438482397757873) — @abskoop (ahhhhfs)
-[2] [Author page](/entities/authors/abskoop.md)
-[3] [Related topic](/concepts/vibe-coding-methodology.md)

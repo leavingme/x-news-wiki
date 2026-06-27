@@ -53,10 +53,6 @@ The Gensyn Mainnet is live with its first application.
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 197 · 🔄 44 · 💬 27 · 🔖 0 · 👁 0
-- **关联主题**: [ai-compute-on-chain](/concepts/ai-compute-on-chain.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/gensynai/status/2046907605680013672) — @gensynai (gensyn)
-[2] [Author page](/entities/authors/gensynai.md)
-[3] [Related topic](/concepts/ai-compute-on-chain.md)

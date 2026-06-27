@@ -123,8 +123,6 @@ Codex App、CLI 和 SDK 可以搭配开源模型使用，不限于 OpenAI 模型
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 25 · 🔄 0 · 💬 24 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2067878437616832644) — @Zesee (Rachel🥥)
-[2] [Author page](/entities/authors/zesee.md)

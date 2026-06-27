@@ -53,8 +53,6 @@ gakki：上下文问题的真实解法可能不在模型侧，而在任务分解
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 1 · 🔄 0 · 💬 1 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2057118150798307752) — @dotey (宝玉)
-[2] [Author page](/entities/authors/dotey.md)

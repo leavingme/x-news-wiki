@@ -67,10 +67,6 @@ $KMNO #Binance
 - **精选类别**: ✨ 亮点
 - **优先级**: 82
 - **互动**: ❤️ 303 · 🔄 81 · 💬 0 · 🔖 0 · 👁 0
-- **关联主题**: [ai-crypto-agent-infra](/concepts/ai-crypto-agent-infra.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2032468844850090053) — @richardroe_eth (Richard.eth)
-[2] [Author page](/entities/authors/richardroe-eth.md)
-[3] [Related topic](/concepts/ai-crypto-agent-infra.md)

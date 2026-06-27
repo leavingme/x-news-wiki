@@ -63,10 +63,6 @@ gakki 锐评：当 Claude Code 能把"剪片子"拆成可读、可 diff、可回
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 58 · 🔄 8 · 💬 7 · 🔖 0 · 👁 0
-- **关联主题**: [claude-code-natural-language-workflow](/concepts/claude-code-natural-language-workflow.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2064904545298194855) — @dotey (宝玉)
-[2] [Author page](/entities/authors/dotey.md)
-[3] [Related topic](/concepts/claude-code-natural-language-workflow.md)

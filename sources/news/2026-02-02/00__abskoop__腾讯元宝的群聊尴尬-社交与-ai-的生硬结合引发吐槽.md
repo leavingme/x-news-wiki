@@ -52,8 +52,6 @@ ChatGPT的群聊用过吗🥸 https://t.co/rxsmn0hasm
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 25 · 🔄 1 · 💬 9 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2018364408112742800) — @abskoop (ahhhhfs)
-[2] [Author page](/entities/authors/abskoop.md)

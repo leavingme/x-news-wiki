@@ -55,10 +55,6 @@ opus 用这个技术成本都能下降10倍
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 31 · 🔄 4 · 💬 4 · 🔖 0 · 👁 0
-- **关联主题**: [ai-training-cost-collapse](/concepts/ai-training-cost-collapse.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2058430850006667527) — @oran_ge (Orange AI)
-[2] [Author page](/entities/authors/oran-ge.md)
-[3] [Related topic](/concepts/ai-training-cost-collapse.md)

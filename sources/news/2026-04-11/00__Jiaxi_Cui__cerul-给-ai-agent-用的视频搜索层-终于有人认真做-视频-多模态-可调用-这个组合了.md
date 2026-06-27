@@ -60,8 +60,6 @@ Claude Code、Cursor、OpenClaw、Hermes，任何 Agent 都能直接调。
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 108 · 🔄 10 · 💬 15 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2042058498113261680) — @Jiaxi_Cui (Panda)
-[2] [Author page](/entities/authors/jiaxi-cui.md)

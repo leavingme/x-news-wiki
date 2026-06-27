@@ -50,10 +50,6 @@ RAG 已死？真正死掉的是只会检索的 AI
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 23 · 🔄 6 · 💬 16 · 🔖 0 · 👁 0
-- **关联主题**: [llm-knowledge-base-rag-boundary](/concepts/llm-knowledge-base-rag-boundary.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2067545141888352261) — @Zesee (Rachel🥥)
-[2] [Author page](/entities/authors/zesee.md)
-[3] [Related topic](/concepts/llm-knowledge-base-rag-boundary.md)

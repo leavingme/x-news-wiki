@@ -80,8 +80,6 @@ OKX 的世界永远在破圈 🔥
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 170 · 🔄 5 · 💬 35 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2038272331957858771) — @OKX_Yuki (Yuki)
-[2] [Author page](/entities/authors/okx-yuki.md)

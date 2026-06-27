@@ -50,8 +50,6 @@ Drizzle is now as fast as using raw driver and mapping(or not mapping) results b
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 1765 · 🔄 150 · 💬 83 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/DrizzleORM/status/2049984880600121556) — @DrizzleORM (Drizzle ORM)
-[2] [Author page](/entities/authors/drizzleorm.md)

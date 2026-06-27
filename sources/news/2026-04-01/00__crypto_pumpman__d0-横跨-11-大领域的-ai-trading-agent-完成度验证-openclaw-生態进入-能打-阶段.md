@@ -88,10 +88,6 @@ D0 的 Skills 全面，总有几个能力适合你，还有一些多的激活码
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 97 · 🔄 69 · 💬 103 · 🔖 0 · 👁 0
-- **关联主题**: [agent-tools-and-orchestration](/concepts/agent-tools-and-orchestration.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2039202745773920370) — @crypto_pumpman (泵泵超人 | Pumpman 🔶)
-[2] [Author page](/entities/authors/crypto-pumpman.md)
-[3] [Related topic](/concepts/agent-tools-and-orchestration.md)

@@ -64,8 +64,6 @@ Harness 就是给这颗大脑装上的“全套身体”。
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 222 · 🔄 62 · 💬 13 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2041649498531791236) — @dotey (宝玉)
-[2] [Author page](/entities/authors/dotey.md)

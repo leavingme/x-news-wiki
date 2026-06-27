@@ -73,8 +73,6 @@ GitHub Repo（25+40个）：
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 27 · 🔄 11 · 💬 2 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2035337032915206596) — @NFTCPS (鸟哥 | 蓝鸟会🕊️)
-[2] [Author page](/entities/authors/nftcps.md)

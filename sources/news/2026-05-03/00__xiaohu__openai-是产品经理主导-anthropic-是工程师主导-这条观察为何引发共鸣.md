@@ -55,8 +55,6 @@ OpenAI 是由一群产品经理在主导
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 200 · 🔄 2 · 💬 107 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2050751703381876829) — @xiaohu (小互)
-[2] [Author page](/entities/authors/xiaohu.md)

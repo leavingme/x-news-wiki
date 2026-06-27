@@ -51,8 +51,6 @@ i had the AI try and create some low-poly buildings (textures from polyhaven).. 
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 96 · 🔄 4 · 💬 10 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2065704365403365497) — @antontyrberg (𝕍𝕚𝕒 𝔾𝕖𝕥𝕥𝕪.𝕦𝕤𝕕)
-[2] [Author page](/entities/authors/antontyrberg.md)

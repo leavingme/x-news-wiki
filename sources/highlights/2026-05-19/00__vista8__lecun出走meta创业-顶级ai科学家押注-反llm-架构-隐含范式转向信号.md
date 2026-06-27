@@ -56,8 +56,6 @@ LeCun从Meta离职创业，押注一个“反LLM”的架构方向
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 3 · 🔄 0 · 💬 2 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2056798284065419622) — @vista8 (向阳乔木)
-[2] [Author page](/entities/authors/vista8.md)

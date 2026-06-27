@@ -49,8 +49,6 @@ DexScreen 的24小时热度榜基本被Moltbook概念币占领了。能明显感
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 25 · 🔄 2 · 💬 12 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2017833732837937426) — @tmel0211 (Haotian | CryptoInsight)
-[2] [Author page](/entities/authors/tmel0211.md)

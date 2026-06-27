@@ -56,8 +56,6 @@ I already reported it before but they haven't fixed it, interesting https://t.co
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 270 · 🔄 6 · 💬 46 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2070712595460321300) — @levelsio (@levelsio)
-[2] [Author page](/entities/authors/levelsio.md)

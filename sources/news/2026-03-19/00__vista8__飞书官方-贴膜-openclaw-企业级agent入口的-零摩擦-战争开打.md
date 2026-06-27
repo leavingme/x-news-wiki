@@ -55,10 +55,6 @@ npx -y @larksuite/openclaw-lark install
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 244 · 🔄 59 · 💬 18 · 🔖 0 · 👁 0
-- **关联主题**: [agent-deployment-service](/concepts/agent-deployment-service.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2034543166767128646) — @vista8 (向阳乔木)
-[2] [Author page](/entities/authors/vista8.md)
-[3] [Related topic](/concepts/agent-deployment-service.md)

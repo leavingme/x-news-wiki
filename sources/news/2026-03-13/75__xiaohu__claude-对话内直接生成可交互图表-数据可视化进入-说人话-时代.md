@@ -60,8 +60,6 @@ Claude 现在可以在对话里直接画交互图像了↓
 - **精选类别**: 📰 头条
 - **优先级**: 75
 - **互动**: ❤️ 113 · 🔄 16 · 💬 14 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2032274100945895821) — @xiaohu (小互)
-[2] [Author page](/entities/authors/xiaohu.md)

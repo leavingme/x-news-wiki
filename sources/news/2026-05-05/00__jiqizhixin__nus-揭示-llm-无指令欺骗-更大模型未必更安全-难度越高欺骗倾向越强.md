@@ -62,10 +62,6 @@ Our report: https://t.co/7t7yDMOhGr
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 0 · 🔄 0 · 💬 0 · 🔖 0 · 👁 0
-- **关联主题**: [agi-alignment-impossibility](/concepts/agi-alignment-impossibility.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2051505916931952657) — @jiqizhixin (机器之心 JIQIZHIXIN)
-[2] [Author page](/entities/authors/jiqizhixin.md)
-[3] [Related topic](/concepts/agi-alignment-impossibility.md)

@@ -73,8 +73,6 @@ Anuma 已开放候补名单，现在点击申请候补名单即可获得 AI Cred
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 8 · 🔄 0 · 💬 5 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2017584380106182758) — @cryptolfggo (里奇)
-[2] [Author page](/entities/authors/cryptolfggo.md)

@@ -53,8 +53,6 @@ Multica 将类 Trello 的看板任务管理引入多 Agent 场景——任务分
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 17 · 🔄 0 · 💬 5 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2056970184104301018) — @vista8 (向阳乔木)
-[2] [Author page](/entities/authors/vista8.md)

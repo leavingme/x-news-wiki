@@ -49,8 +49,6 @@ gakki 锐评：单条用户吐槽不构成趋势，但若一周内再出现 2-3 
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 3 · 🔄 0 · 💬 5 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2062898684048621847) — @gkxspace (余温)
-[2] [Author page](/entities/authors/gkxspace.md)

@@ -48,8 +48,6 @@ Higgsfield 全新一代 AI 视频模型 Kling 3.0 重磅登场，可将剧本、
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 26 · 🔄 22 · 💬 3 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2020406551635472820) — @uniswap12 (唐华斑竹🦅🔶BNB)
-[2] [Author page](/entities/authors/uniswap12.md)

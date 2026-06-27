@@ -55,10 +55,6 @@ CodePilot 0.45.1 版本将会支持 https://t.co/VkTTr2b0lY
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 45 · 🔄 4 · 💬 24 · 🔖 0 · 👁 0
-- **关联主题**: [ai-coding-skills-commoditization](/concepts/ai-coding-skills-commoditization.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2039951231758876756) — @op7418 (歸藏(guizang.ai))
-[2] [Author page](/entities/authors/op7418.md)
-[3] [Related topic](/concepts/ai-coding-skills-commoditization.md)

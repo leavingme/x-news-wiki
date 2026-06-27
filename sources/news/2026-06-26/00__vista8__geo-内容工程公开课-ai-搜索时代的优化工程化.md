@@ -57,8 +57,6 @@ gakki 锐评：GEO 从概念热词进入工程化课程阶段，说明 AI 搜索
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 14 · 🔄 0 · 💬 7 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2070497871124918353) — @vista8 (向阳乔木)
-[2] [Author page](/entities/authors/vista8.md)

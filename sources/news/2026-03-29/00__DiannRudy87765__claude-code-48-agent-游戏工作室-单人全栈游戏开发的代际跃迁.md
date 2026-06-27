@@ -56,10 +56,6 @@ x_source: "crawler"
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 4 · 🔄 3 · 💬 0 · 🔖 0 · 👁 0
-- **关联主题**: [agent-swarm-orchestration](/concepts/agent-swarm-orchestration.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2037403061937951023) — @DiannRudy87765 (实用干货铺)
-[2] [Author page](/entities/authors/diannrudy87765.md)
-[3] [Related topic](/concepts/agent-swarm-orchestration.md)

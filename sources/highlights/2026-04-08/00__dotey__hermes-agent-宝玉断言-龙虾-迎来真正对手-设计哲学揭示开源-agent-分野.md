@@ -104,8 +104,6 @@ Hermes 跑在 5 美元一个月的 VPS 上就够用，也支持 Docker、SSH 远
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 1709 · 🔄 359 · 💬 66 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2041585514873037167) — @dotey (宝玉)
-[2] [Author page](/entities/authors/dotey.md)

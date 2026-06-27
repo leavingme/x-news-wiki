@@ -49,10 +49,6 @@ Starting today, agents can now be Cloudflare customers. They can create a Cloudf
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 912 · 🔄 87 · 💬 36 · 🔖 0 · 👁 0
-- **关联主题**: [agent-economic-autonomy](/concepts/agent-economic-autonomy.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/Cloudflare/status/2049545195914498139) — @Cloudflare (Cloudflare)
-[2] [Author page](/entities/authors/cloudflare.md)
-[3] [Related topic](/concepts/agent-economic-autonomy.md)

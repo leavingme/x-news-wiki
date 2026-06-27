@@ -55,10 +55,6 @@ they exist only because stripe's payments api let them easily accept money with 
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 408 · 🔄 26 · 💬 18 · 🔖 0 · 👁 0
-- **关联主题**: [ai-agent-crypto-infra](/concepts/ai-agent-crypto-infra.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/itsolelehmann/status/2049911241003430055) — @itsolelehmann (Ole Lehmann)
-[2] [Author page](/entities/authors/itsolelehmann.md)
-[3] [Related topic](/concepts/ai-agent-crypto-infra.md)

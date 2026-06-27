@@ -50,8 +50,6 @@ I've stopped writing markdown files for almost everything and switched to using 
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 7648 · 🔄 558 · 💬 586 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/trq212/status/2052811606032269638) — @trq212 (Thariq)
-[2] [Author page](/entities/authors/trq212.md)

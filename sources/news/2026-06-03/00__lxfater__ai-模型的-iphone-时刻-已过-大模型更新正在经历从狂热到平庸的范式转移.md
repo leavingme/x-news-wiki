@@ -56,8 +56,6 @@ AI的泡沫在慢慢破灭，开始从模型开始放缓更新速度，直到蔓
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 5 · 🔄 0 · 💬 2 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2061995418725314911) — @lxfater (铁锤人)
-[2] [Author page](/entities/authors/lxfater.md)

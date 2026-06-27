@@ -53,8 +53,6 @@ x_source: "crawler"
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 3 · 🔄 0 · 💬 1 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2067851013621780837) — @xiaohu (小互)
-[2] [Author page](/entities/authors/xiaohu.md)

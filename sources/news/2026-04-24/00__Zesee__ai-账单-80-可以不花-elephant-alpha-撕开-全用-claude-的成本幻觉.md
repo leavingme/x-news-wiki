@@ -89,8 +89,6 @@ Elephant Alpha 现在openrouter 和 官方 API 均限时免费 1 周时间，欢
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 40 · 🔄 2 · 💬 29 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2047326864557912204) — @Zesee (Rachel🥥)
-[2] [Author page](/entities/authors/zesee.md)

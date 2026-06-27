@@ -50,8 +50,6 @@ gakki 锐评：2026 上半年中文独立开发者最清醒的一记耳光——
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 1 · 🔄 0 · 💬 1 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2064709468458570040) — @vista8 (向阳乔木)
-[2] [Author page](/entities/authors/vista8.md)

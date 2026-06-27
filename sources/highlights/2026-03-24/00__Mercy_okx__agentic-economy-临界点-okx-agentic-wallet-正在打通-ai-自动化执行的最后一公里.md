@@ -59,8 +59,6 @@ OKX Wallet 能做的，Agentic Wallet 基本都能做
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 33 · 🔄 2 · 💬 16 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2034466267281912073) — @Mercy_okx (Mercy)
-[2] [Author page](/entities/authors/mercy-okx.md)

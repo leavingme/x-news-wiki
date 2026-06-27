@@ -56,10 +56,6 @@ Claude opus 4.8 &gt; kimi2.6 &gt; GPT 5.5 &gt; Deepseek v4 pro &gt; GLM 5.1&gt; 
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 1 · 🔄 0 · 💬 8 · 🔖 0 · 👁 0
-- **关联主题**: [design-model-evaluation](/concepts/design-model-evaluation.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2063264223879389431) — @vista8 (向阳乔木)
-[2] [Author page](/entities/authors/vista8.md)
-[3] [Related topic](/concepts/design-model-evaluation.md)

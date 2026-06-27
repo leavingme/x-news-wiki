@@ -58,8 +58,6 @@ gakki 锐评：这是「AI民主化」最诚实的注脚——技术门槛消失
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 853 · 🔄 157 · 💬 23 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2031780852859126074) — @huangyun_122 (黄赟)
-[2] [Author page](/entities/authors/huangyun-122.md)

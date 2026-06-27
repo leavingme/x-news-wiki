@@ -57,8 +57,6 @@ OpenEvidence，医疗版 ChatGPT， 又拿到 2亿美金融资，主攻“搜索
 - **精选类别**: 📰 头条
 - **优先级**: 80
 - **互动**: ❤️ 202 · 🔄 65 · 💬 4 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/1983480507112550673) — @huangyun_122 (黄赟)
-[2] [Author page](/entities/authors/huangyun-122.md)

@@ -48,10 +48,6 @@ DeepSeek V4’s capability lags behind leading U.S. models by about 8 months. ht
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 330 · 🔄 51 · 💬 44 · 🔖 0 · 👁 0
-- **关联主题**: [deepseek-v4-open-source](/concepts/deepseek-v4-open-source.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/sebkrier/status/2050369549111795880) — @sebkrier (Séb Krier)
-[2] [Author page](/entities/authors/sebkrier.md)
-[3] [Related topic](/concepts/deepseek-v4-open-source.md)

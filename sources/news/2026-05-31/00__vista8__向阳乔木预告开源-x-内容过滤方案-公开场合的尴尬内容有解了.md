@@ -55,8 +55,6 @@ https://t.co/4TgxxfPQrg
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 5 · 🔄 0 · 💬 0 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2061126634946896337) — @vista8 (向阳乔木)
-[2] [Author page](/entities/authors/vista8.md)

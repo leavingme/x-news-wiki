@@ -59,10 +59,6 @@ Introducing FD-loss.
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 675 · 🔄 115 · 💬 43 · 🔖 0 · 👁 0
-- **关联主题**: [ai-video-queue-economy](/concepts/ai-video-queue-economy.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/JiaweiYang118/status/2050032859155734743) — @JiaweiYang118 (Jiawei Yang)
-[2] [Author page](/entities/authors/jiaweiyang118.md)
-[3] [Related topic](/concepts/ai-video-queue-economy.md)

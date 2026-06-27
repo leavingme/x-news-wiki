@@ -65,10 +65,6 @@ Agent 生态共建计划：
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 22 · 🔄 2 · 💬 16 · 🔖 0 · 👁 0
-- **关联主题**: [ai-business-and-startup](/concepts/ai-business-and-startup.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2048956024141598736) — @op7418 (歸藏(guizang.ai))
-[2] [Author page](/entities/authors/op7418.md)
-[3] [Related topic](/concepts/ai-business-and-startup.md)

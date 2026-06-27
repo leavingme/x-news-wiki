@@ -50,8 +50,6 @@ gakki 锐评：这是 AI 内容创业最反常识的信号——平台不惩罚 
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 0 · 🔄 0 · 💬 1 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2065596315132960816) — @oran_ge (Orange AI)
-[2] [Author page](/entities/authors/oran-ge.md)

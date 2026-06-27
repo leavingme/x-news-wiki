@@ -48,8 +48,6 @@ gakki 锐评：实用建议，但太轻了——没有对比（和 Midjourney/Ca
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 0 · 🔄 0 · 💬 0 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2052497005277294694) — @oran_ge (Orange AI)
-[2] [Author page](/entities/authors/oran-ge.md)

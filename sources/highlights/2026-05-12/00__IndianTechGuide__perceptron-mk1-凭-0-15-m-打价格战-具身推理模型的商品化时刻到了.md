@@ -57,8 +57,6 @@ Perceptron Mk1 is available now at lower cost than Gemini Flash Lite: $0.15/M in
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 1057 · 🔄 36 · 💬 14 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/IndianTechGuide/status/2054250992976453955) — @IndianTechGuide (Indian Tech & Infra)
-[2] [Author page](/entities/authors/indiantechguide.md)

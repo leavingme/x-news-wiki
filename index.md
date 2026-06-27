@@ -6,7 +6,7 @@ okf_version: "0.1"
 
 > Open Knowledge Format (OKF) v0.1 bundle of all AI-selected X/Twitter posts from the [x-news](https://github.com/leavingme/x-news) pipeline.
 
-- **生成时间**: 2026-06-27T08:40:42.884Z
+- **生成时间**: 2026-06-27T09:40:51.402Z
 - **数据范围**: 2026-01-30 → 2026-06-27 (4829 条精选)
 - **OKF 版本**: 0.1
 
@@ -14,16 +14,12 @@ okf_version: "0.1"
 
 - [📰 头条 (News)](sources/news/index.md) — 3482 条，按日分目录
 - [✨ 亮点 (Highlights)](sources/highlights/index.md) — 1347 条，按日分目录
-- [👤 作者 (Authors)](entities/authors/index.md) — 811 位
-- [🧩 主题 (Concepts)](concepts/index.md) — 247 个跨日主题
-- [📊 月度综合 (Synthesis)](synthesis/index.md) — 按月趋势汇总
 
 ## 阅读建议
 
 1. **浏览当日精选**: 打开 `sources/news/2026-06-27/` 看今天选出的内容
-2. **追踪主题**: 从 [主题索引](concepts/index.md) 进入任意主题，按时间线回看
-3. **查作者**: 从 [作者索引](entities/authors/index.md) 找感兴趣的作者
-4. **看趋势**: [月度综合](synthesis/index.md) 给出了每月的高频主题与高产作者
+2. **翻历史**: 从 [头条索引](sources/news/index.md) / [亮点索引](sources/highlights/index.md) 按日期回看
+3. **看统计**: [全局概要](overview.md) 给出了 Top 10 高赞推文
 
 ## OKF 合规性
 

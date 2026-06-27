@@ -59,8 +59,6 @@ Introducing the ChatGPT Futures Class of 2026—26 honorees from the first gradu
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 2659 · 🔄 178 · 💬 207 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/OpenAI/status/2052086313797705954) — @OpenAI (OpenAI)
-[2] [Author page](/entities/authors/openai.md)

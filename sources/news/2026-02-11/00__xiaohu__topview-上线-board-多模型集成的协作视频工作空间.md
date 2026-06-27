@@ -62,8 +62,6 @@ Topview 上线了个狠活：Board 工具
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 289 · 🔄 44 · 💬 11 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2021203501620265476) — @xiaohu (小互)
-[2] [Author page](/entities/authors/xiaohu.md)

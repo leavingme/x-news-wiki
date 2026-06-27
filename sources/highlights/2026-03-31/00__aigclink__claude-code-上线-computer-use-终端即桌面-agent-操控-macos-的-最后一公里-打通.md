@@ -61,10 +61,6 @@ Claude Code现在能在CLI里直接打开应用、点击、打字、看屏幕截
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 8 · 🔄 3 · 💬 2 · 🔖 0 · 👁 0
-- **关联主题**: [claude-code-ecosystem](/concepts/claude-code-ecosystem.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2038760017470620095) — @aigclink (AIGCLINK)
-[2] [Author page](/entities/authors/aigclink.md)
-[3] [Related topic](/concepts/claude-code-ecosystem.md)

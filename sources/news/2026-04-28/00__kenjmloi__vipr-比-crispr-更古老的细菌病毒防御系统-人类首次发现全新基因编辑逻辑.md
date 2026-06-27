@@ -53,8 +53,6 @@ Thread + link below. https://t.co/RYe6MMujbR
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 303 · 🔄 73 · 💬 9 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/kenjmloi/status/2048866792786055272) — @kenjmloi (Kenneth Loi)
-[2] [Author page](/entities/authors/kenjmloi.md)

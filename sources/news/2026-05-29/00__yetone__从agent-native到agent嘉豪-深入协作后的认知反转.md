@@ -53,10 +53,6 @@ gakki：工具深度开发者的认知反转是最真实的产品信号。yetone
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 31 · 🔄 0 · 💬 8 · 🔖 0 · 👁 0
-- **关联主题**: [agent-native-paradigm](/concepts/agent-native-paradigm.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2060263802667749592) — @yetone (yetone)
-[2] [Author page](/entities/authors/yetone.md)
-[3] [Related topic](/concepts/agent-native-paradigm.md)

@@ -53,8 +53,6 @@ Loved this story... 推荐阅读。
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 6 · 🔄 0 · 💬 1 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2017570805857808803) — @Compute_King (Compute King)
-[2] [Author page](/entities/authors/compute-king.md)

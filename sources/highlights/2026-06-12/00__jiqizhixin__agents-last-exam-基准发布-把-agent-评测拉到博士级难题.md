@@ -49,10 +49,6 @@ Paper: https://t.co/BUYT6ISSmc https://t.co/B5jgqt66CG
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 2 · 🔄 0 · 💬 0 · 🔖 0 · 👁 0
-- **关联主题**: [agent-capability-benchmark](/concepts/agent-capability-benchmark.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2065336649446494393) — @jiqizhixin (机器之心 JIQIZHIXIN)
-[2] [Author page](/entities/authors/jiqizhixin.md)
-[3] [Related topic](/concepts/agent-capability-benchmark.md)

@@ -57,8 +57,6 @@ Token放大效应才是模型厂商收紧API的真正原因——不是商业策
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 23 · 🔄 14 · 💬 20 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2041070081241977114) — @EnHeng456 (EnHeng嗯哼.Ai)
-[2] [Author page](/entities/authors/enheng456.md)

@@ -51,8 +51,6 @@ Michael Anti 接入某免费模型并用 Claude Code 实测，明确评价「比
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 0 · 🔄 0 · 💬 1 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2049288937961832950) — @mranti (Michael Anti)
-[2] [Author page](/entities/authors/mranti.md)

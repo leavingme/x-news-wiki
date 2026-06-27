@@ -57,8 +57,6 @@ Anthropic 今天为 Claude Managed Agents（托管智能体）上线了记忆功
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 37 · 🔄 6 · 💬 3 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2047428669325590816) — @dotey (宝玉)
-[2] [Author page](/entities/authors/dotey.md)

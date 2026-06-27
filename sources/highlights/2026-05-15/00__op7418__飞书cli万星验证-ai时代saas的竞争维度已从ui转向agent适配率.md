@@ -95,10 +95,6 @@ Agent 可以分层、分类型地了解应该如何调用这些 CLI 及其命令
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 7 · 🔄 0 · 💬 4 · 🔖 0 · 👁 0
-- **关联主题**: [chat-ui-durability](/concepts/chat-ui-durability.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2055173939522159052) — @op7418 (歸藏(guizang.ai))
-[2] [Author page](/entities/authors/op7418.md)
-[3] [Related topic](/concepts/chat-ui-durability.md)

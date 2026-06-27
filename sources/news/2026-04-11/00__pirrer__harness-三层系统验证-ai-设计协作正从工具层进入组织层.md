@@ -86,10 +86,6 @@ Neethan 的三層框架跟設計無關，跟「怎麼用 AI 探索一個新領�
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 161 · 🔄 31 · 💬 1 · 🔖 0 · 👁 0
-- **关联主题**: [skills-ecosystem-standards](/concepts/skills-ecosystem-standards.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2034872129108464100) — @pirrer (fox hsiao)
-[2] [Author page](/entities/authors/pirrer.md)
-[3] [Related topic](/concepts/skills-ecosystem-standards.md)

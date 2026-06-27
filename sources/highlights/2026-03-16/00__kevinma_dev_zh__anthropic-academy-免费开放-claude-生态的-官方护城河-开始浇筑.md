@@ -62,10 +62,6 @@ https://t.co/DmUwaylYoG
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 55 · 🔄 6 · 💬 1 · 🔖 0 · 👁 0
-- **关联主题**: [ai-learning-resources](/concepts/ai-learning-resources.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2033334933268086897) — @kevinma_dev_zh (Kevin Ma)
-[2] [Author page](/entities/authors/kevinma-dev-zh.md)
-[3] [Related topic](/concepts/ai-learning-resources.md)

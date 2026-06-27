@@ -81,10 +81,6 @@ Mano-P 解决的是： AI 怎么像人一样看屏幕、操作电脑、完成任
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 8 · 🔄 0 · 💬 5 · 🔖 0 · 👁 0
-- **关联主题**: [edge-agent-local-compute](/concepts/edge-agent-local-compute.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2051975604355096926) — @xiaohu (小互)
-[2] [Author page](/entities/authors/xiaohu.md)
-[3] [Related topic](/concepts/edge-agent-local-compute.md)

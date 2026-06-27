@@ -53,8 +53,6 @@ AI领导力课程能吸引行业顶尖专家，说明真正的学习者不在乎
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 1 · 🔄 0 · 💬 5 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2059684344869085565) — @vista8 (向阳乔木)
-[2] [Author page](/entities/authors/vista8.md)

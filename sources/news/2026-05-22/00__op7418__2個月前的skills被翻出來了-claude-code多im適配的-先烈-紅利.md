@@ -53,8 +53,6 @@ gakki：這條沒有新增資訊增量，但它是對「先烈」們的一個提
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 17 · 🔄 2 · 💬 5 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2057756179363995755) — @op7418 (歸藏(guizang.ai))
-[2] [Author page](/entities/authors/op7418.md)

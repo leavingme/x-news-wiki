@@ -57,8 +57,6 @@ AI没有取代任何人，是会AI+会产品的人取代了只会AI的人
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 12 · 🔄 2 · 💬 0 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2037578839715610714) — @rwayne (Roland.W)
-[2] [Author page](/entities/authors/rwayne.md)

@@ -77,10 +77,6 @@ AI should not be a toy in the laboratory, but something we can have the final sa
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 256 · 🔄 1 · 💬 303 · 🔖 0 · 👁 0
-- **关联主题**: [agent-capability-benchmark](/concepts/agent-capability-benchmark.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/1959553727943332036) — @quschdnjs (Michael 宝塔镇河妖🧙🏿‍♀️)
-[2] [Author page](/entities/authors/quschdnjs.md)
-[3] [Related topic](/concepts/agent-capability-benchmark.md)

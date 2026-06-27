@@ -53,10 +53,6 @@ The team says it will absorb the loss and not pass it to users. https://t.co/9p1
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 500 · 🔄 73 · 💬 69 · 🔖 0 · 👁 0
-- **关联主题**: [ai-agent-crypto-infra](/concepts/ai-agent-crypto-infra.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/Cointelegraph/status/2046811354024092059) — @Cointelegraph (Cointelegraph)
-[2] [Author page](/entities/authors/cointelegraph.md)
-[3] [Related topic](/concepts/ai-agent-crypto-infra.md)

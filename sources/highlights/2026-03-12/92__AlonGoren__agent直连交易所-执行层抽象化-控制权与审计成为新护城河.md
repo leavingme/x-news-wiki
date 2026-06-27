@@ -49,10 +49,6 @@ This week’s “Agent Trade Kit” launch, agents connected directly to an exch
 - **精选类别**: ✨ 亮点
 - **优先级**: 92
 - **互动**: ❤️ 37 · 🔄 1 · 💬 1 · 🔖 0 · 👁 0
-- **关联主题**: [ai-crypto-agent-infra](/concepts/ai-crypto-agent-infra.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2031867699282796979) — @AlonGoren (Alon Gorenᴳᴹ ✌️)
-[2] [Author page](/entities/authors/alongoren.md)
-[3] [Related topic](/concepts/ai-crypto-agent-infra.md)

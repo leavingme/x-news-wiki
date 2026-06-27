@@ -71,10 +71,6 @@ Brockman 给的官方理由是 OpenAI 的产品本来就在自然趋同——Cod
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 15 · 🔄 1 · 💬 3 · 🔖 0 · 👁 0
-- **关联主题**: [codex-ecosystem-platform-war](/concepts/codex-ecosystem-platform-war.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2055357875262730608) — @dotey (宝玉)
-[2] [Author page](/entities/authors/dotey.md)
-[3] [Related topic](/concepts/codex-ecosystem-platform-war.md)

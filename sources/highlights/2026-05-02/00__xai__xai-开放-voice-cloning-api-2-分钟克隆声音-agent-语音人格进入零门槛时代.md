@@ -53,10 +53,6 @@ https://t.co/EjxjXssQtd https://t.co/iR8AW2UOgo
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 1446 · 🔄 188 · 💬 143 · 🔖 0 · 👁 0
-- **关联主题**: [voice-cloning-security](/concepts/voice-cloning-security.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/xai/status/2050355373052223585) — @xai (xAI)
-[2] [Author page](/entities/authors/xai.md)
-[3] [Related topic](/concepts/voice-cloning-security.md)

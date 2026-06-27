@@ -55,8 +55,6 @@ Codex 昨晚上线的这个 Site 插件非常厉害。
 - **精选类别**: ✨ 亮点
 - **优先级**: 0
 - **互动**: ❤️ 43 · 🔄 4 · 💬 14 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2062005183090233773) — @op7418 (歸藏(guizang.ai))
-[2] [Author page](/entities/authors/op7418.md)

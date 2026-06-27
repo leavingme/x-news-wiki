@@ -51,8 +51,6 @@ gakki：这条信息被低估了。远程、锁屏、Computer Use——三个要
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 4 · 🔄 0 · 💬 0 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2057681217231933748) — @op7418 (歸藏(guizang.ai))
-[2] [Author page](/entities/authors/op7418.md)

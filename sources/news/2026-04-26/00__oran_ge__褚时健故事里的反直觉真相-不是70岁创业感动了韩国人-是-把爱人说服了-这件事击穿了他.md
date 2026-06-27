@@ -63,8 +63,6 @@ Cola 说你触动是因为你太懂这个过程了。不是从外面看觉得感
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 32 · 🔄 1 · 💬 3 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2048210171252576547) — @oran_ge (Orange AI)
-[2] [Author page](/entities/authors/oran-ge.md)

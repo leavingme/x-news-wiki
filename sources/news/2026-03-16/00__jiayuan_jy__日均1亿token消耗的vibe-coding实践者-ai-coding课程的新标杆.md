@@ -54,10 +54,6 @@ x_source: "crawler"
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 208 · 🔄 10 · 💬 64 · 🔖 0 · 👁 0
-- **关联主题**: [vibe-coding-methodology](/concepts/vibe-coding-methodology.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2032295211389637094) — @jiayuan_jy (Jiayuan (JY) Zhang)
-[2] [Author page](/entities/authors/jiayuan-jy.md)
-[3] [Related topic](/concepts/vibe-coding-methodology.md)

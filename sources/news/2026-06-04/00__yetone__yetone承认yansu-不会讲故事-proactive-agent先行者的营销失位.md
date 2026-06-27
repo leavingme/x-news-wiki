@@ -54,8 +54,6 @@ yetone自嘲Yansu（可能是Yansu项目）是最早实现Proactive Agent和Pers
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 19 · 🔄 0 · 💬 9 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2062408792973906415) — @yetone (yetone)
-[2] [Author page](/entities/authors/yetone.md)

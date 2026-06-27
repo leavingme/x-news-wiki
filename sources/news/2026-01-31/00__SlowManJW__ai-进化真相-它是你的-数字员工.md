@@ -148,8 +148,6 @@ AI 从“你用它”变成“它替你”。
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 0 · 🔄 0 · 💬 0 · 🔖 0 · 👁 33
-
 ## Citations
 
 [1] [Tweet on X](https://twitter.com/SlowManJW/status/2015599047453876665) — @SlowManJW (一个慢交易的人TraderMan)
-[2] [Author page](/entities/authors/slowmanjw.md)

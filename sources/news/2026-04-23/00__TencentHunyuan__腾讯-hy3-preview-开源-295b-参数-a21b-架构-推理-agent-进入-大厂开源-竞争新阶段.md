@@ -58,10 +58,6 @@ Give us feedback to help improve Hy3 official!
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 1050 · 🔄 109 · 💬 50 · 🔖 0 · 👁 0
-- **关联主题**: [reasoning-and-model-architecture](/concepts/reasoning-and-model-architecture.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/TencentHunyuan/status/2047347774501634251) — @TencentHunyuan (Tencent Hy)
-[2] [Author page](/entities/authors/tencenthunyuan.md)
-[3] [Related topic](/concepts/reasoning-and-model-architecture.md)

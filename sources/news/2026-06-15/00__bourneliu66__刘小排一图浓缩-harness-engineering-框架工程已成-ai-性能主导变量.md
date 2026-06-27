@@ -50,10 +50,6 @@ Gakki 锐评：模型趋同、框架分化——AI 下半场的话语权不在�
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 3 · 🔄 0 · 💬 0 · 🔖 0 · 👁 0
-- **关联主题**: [harness-engineering](/concepts/harness-engineering.md)
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/i/status/2066366629362180283) — @bourneliu66 (刘小排)
-[2] [Author page](/entities/authors/bourneliu66.md)
-[3] [Related topic](/concepts/harness-engineering.md)

@@ -45,8 +45,6 @@ The future of Obsidian plugins
 - **精选类别**: 📰 头条
 - **优先级**: 0
 - **互动**: ❤️ 1612 · 🔄 143 · 💬 35 · 🔖 0 · 👁 0
-
 ## Citations
 
 [1] [Tweet on X](https://x.com/obsdmd/status/2054234821875146898) — @obsdmd (Obsidian)
-[2] [Author page](/entities/authors/obsdmd.md)
