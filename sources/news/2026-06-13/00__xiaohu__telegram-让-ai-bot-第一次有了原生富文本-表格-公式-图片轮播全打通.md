@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Telegram 让 AI Bot 第一次有了原生富文本：表格、公式、图片轮播全打通"
 description: "**AI 内容分发第一次有了原生卡片载体。**  要点： - Telegram Bot API 升级：表格、清单、嵌套引用块、行内插图、图片轮播、拼图、可折叠段落、脚注、标题锚点、数学公式、上下标全部支持 - 单条消息上限 32768 字符，超过 8000 字自动折叠为「显示更多」 - 同时上线 AI 群聊管理与手表端支持   gakki 锐评：AI Bot 的「输出格式」从纯文本跃迁为富文本，长"
 resource: "https://x.com/i/status/2065614907425591681"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2065614907425591681"
+created: "2026-06-13"
+updated: "2026-06-26"
+sha256: "0a5d6e54db412049e5d2439a181d37f2c4b1941010eeac8b3b061a8665c36971"
+sources:
+  - "/sources/news/2026-06-13/00__xiaohu__telegram-让-ai-bot-第一次有了原生富文本-表格-公式-图片轮播全打通.md"
 ---
 
 # Telegram 让 AI Bot 第一次有了原生富文本：表格、公式、图片轮播全打通

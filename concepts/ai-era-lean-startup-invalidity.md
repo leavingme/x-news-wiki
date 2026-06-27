@@ -1,5 +1,5 @@
 ---
-type: "Concept"
+type: "concept"
 title: "ai-era-lean-startup-invalidity"
 description: "跨日主题 \"ai-era-lean-startup-invalidity\"，共 1 条相关精选推文。"
 tags:
@@ -11,6 +11,12 @@ x_topic_slug: "ai-era-lean-startup-invalidity"
 x_tweet_count: 1
 x_first_seen: "2026-06-22T04:18:45.199Z"
 x_last_seen: "2026-06-22T04:18:45.199Z"
+type_okf: "Concept"
+created: "2026-06-22"
+updated: "2026-06-26"
+sha256: "a6c86edee51bdb9b90e07d4e7c1c3f0738af4f3ad98205b551c27da3570ec00f"
+sources:
+  - "/sources/highlights/2026-06-22/00__lifesinger__玉伯把创业者分成四阶-从-讲功能-到-讲故事-最后一类叫骗子.md"
 ---
 
 # 主题: ai-era-lean-startup-invalidity

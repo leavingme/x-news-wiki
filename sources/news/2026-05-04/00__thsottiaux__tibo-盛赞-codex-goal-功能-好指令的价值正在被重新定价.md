@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Tibo 盛赞 Codex /goal 功能：好指令的价值正在被重新定价"
 description: "**Codex 新增 /goal 指令，提示词工程正在从「技巧」变成「产品原语」。**  - TweetHunter 创始人 Tibo 称 /goal 可能是 Codex 发布以来最具影响力的功能 - 核心信号：好指令（good instructions）的价值从未如此之高——Agent 时代，意图表达本身就是生产力 - 这与 Skills 生态、Harness Engineering 等趋势形成"
 resource: "https://x.com/thsottiaux/status/2050811900062286168"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "ai-trend-digest"
+type_okf: "X Tweet"
+source_url: "https://x.com/thsottiaux/status/2050811900062286168"
+created: "2026-05-03"
+updated: "2026-06-26"
+sha256: "60eeb5e972020bdb539f0e64b16654203001c884f7e157102ce9e9b98b6772b0"
+sources:
+  - "/sources/news/2026-05-04/00__thsottiaux__tibo-盛赞-codex-goal-功能-好指令的价值正在被重新定价.md"
 ---
 
 # Tibo 盛赞 Codex /goal 功能：好指令的价值正在被重新定价

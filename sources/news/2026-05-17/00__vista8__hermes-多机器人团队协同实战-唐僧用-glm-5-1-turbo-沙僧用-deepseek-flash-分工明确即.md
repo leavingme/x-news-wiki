@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Hermes 多机器人团队协同实战：唐僧用 GLM 5.1 Turbo、沙僧用 DeepSeek Flash，分工明确即插即用"
 description: "**向阳乔木用西游记团队比喻 Hermes 多机器人架构——每个机器人独立模型、独立网关、远程协同工作。**  配置方式：用 `hermes profile create` 创建机器人（如 tangseng/sunwukong），`[名字] setup` 配置模型和 IM 连接（支持飞书多绑/微信单绑），`[名字] gateway restart` 重启网关。  有意思的是向阳乔木同步指出：Her"
 resource: "https://x.com/i/status/2055825358503764329"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2055825358503764329"
+created: "2026-05-17"
+updated: "2026-06-26"
+sha256: "db5ce26aa89fc8b7ec12b0f432f223456b7b75a23fae17c7247d4a8f32ae04f3"
+sources:
+  - "/sources/news/2026-05-17/00__vista8__hermes-多机器人团队协同实战-唐僧用-glm-5-1-turbo-沙僧用-deepseek-flash-分工明确即.md"
 ---
 
 # Hermes 多机器人团队协同实战：唐僧用 GLM 5.1 Turbo、沙僧用 DeepSeek Flash，分工明确即插即用

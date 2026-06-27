@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "玉伯：AI消费品逻辑已定，「感性拿捏」比参数战争更能打穿C端"
 description: "**「AI就是手机摄像头」的本质是门槛消亡与需求爆发。**  · 摄像头没有让摄影师变多，但让拍照需求指数级上升；AI同样，不会让多数人变成生产者，但会让「用AI」变成日常消费品。 · 理科生买衬衣看支数（参数思维），女生看好不好看（体验思维）——两种购买逻辑对应两种AI路线：参数派 vs 消费品派。 · 玉伯由此导出核心结论：AI消费品的商业模式要纯粹，谁能做出「让人本能想用」的AI，谁赢。  "
 resource: "https://x.com/i/status/2040681520139276587"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2040681520139276587"
+created: "2026-04-05"
+updated: "2026-06-26"
+sha256: "3f6a9c8940f5816222f8e8c537d10d4e5dca1296e87db4fbee2644037aa5c4b8"
+sources:
+  - "/sources/highlights/2026-04-05/00__lifesinger__玉伯-ai消费品逻辑已定-感性拿捏-比参数战争更能打穿c端.md"
 ---
 
 # 玉伯：AI消费品逻辑已定，「感性拿捏」比参数战争更能打穿C端

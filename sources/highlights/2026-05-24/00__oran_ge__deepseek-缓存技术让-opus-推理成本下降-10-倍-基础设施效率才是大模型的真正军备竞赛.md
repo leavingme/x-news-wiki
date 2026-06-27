@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "DeepSeek 缓存技术让 Opus 推理成本下降 10 倍：基础设施效率才是大模型的真正军备竞赛"
 description: "**DeepSeek v4 Pro 的缓存机制虽非最强模型，却做到了\"缓存基本不要钱\"——这是所有大模型都必须具备的基础设施能力。**  关键信息： - 缓存成本趋近于零，意味着大模型的单位推理成本可以被系统性压缩 - 以 Opus 为例，同等技术叠加缓存可降本 10 倍，颠覆\"模型越强越贵\"的线性定价逻辑 - v4.1 引入真实 harness 数据训练后能力快速提升，验证了\"部署数据反哺模型\""
 resource: "https://x.com/i/status/2058430850006667527"
@@ -22,6 +22,13 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "ai-training-cost-collapse"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2058430850006667527"
+created: "2026-05-24"
+updated: "2026-06-26"
+sha256: "5bec613d4d3e29228957658861172fb01153a099f25e36669a07d8b5c778759a"
+sources:
+  - "/sources/highlights/2026-05-24/00__oran_ge__deepseek-缓存技术让-opus-推理成本下降-10-倍-基础设施效率才是大模型的真正军备竞赛.md"
 ---
 
 # DeepSeek 缓存技术让 Opus 推理成本下降 10 倍：基础设施效率才是大模型的真正军备竞赛

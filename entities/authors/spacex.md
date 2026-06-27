@@ -1,5 +1,5 @@
 ---
-type: "Author"
+type: "entity"
 title: "SpaceX (@SpaceX)"
 description: "X/Twitter 作者 @SpaceX。共收录 1 条 AI 精选推文。"
 tags:
@@ -12,6 +12,12 @@ x_author_name: "SpaceX"
 x_tweet_count: 1
 x_first_seen: "2026-06-16T16:18:48.809Z"
 x_last_seen: "2026-06-16T16:18:48.809Z"
+type_okf: "Author"
+created: "2026-06-16"
+updated: "2026-06-26"
+sha256: "91d6e2dd825ba7049e9ab5835b2bcb0b4542b4bb1bbc129056c366be8317f71b"
+sources:
+  - "/sources/highlights/2026-06-16/00__SpaceX__spacex-全股票收购-cursor-ai-编程工具赛道被跨界巨头正式收编.md"
 ---
 
 # SpaceX (@SpaceX)

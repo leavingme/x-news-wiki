@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "yetone 把 macOS 26 大圆角 + 浮动 Sidebar 写进 Agent 产品基因"
 description: "OpenClaw 作者 yetone 公开表态：macOS 26 的大圆角与浮动 sidebar 是他心中最契合的产品设计语言，将作为其 Agent 产品的「臻藏元素」长期复用。  • yetone 是国内 Agent 工程化代表开发者之一，其设计选型具有风向标意义 • 大圆角 + 浮动 sidebar 呼应 Apple Liquid Glass 设计语言，意味着 Agent 产品形态正在主动向消"
 resource: "https://x.com/i/status/2065728832762785859"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2065728832762785859"
+created: "2026-06-13"
+updated: "2026-06-26"
+sha256: "5b09d8402a6fb70ee9a5ccf12ed53736cfb976f0ae2939e8cd2a258efe947eb4"
+sources:
+  - "/sources/news/2026-06-13/00__yetone__yetone-把-macos-26-大圆角-浮动-sidebar-写进-agent-产品基因.md"
 ---
 
 # yetone 把 macOS 26 大圆角 + 浮动 Sidebar 写进 Agent 产品基因

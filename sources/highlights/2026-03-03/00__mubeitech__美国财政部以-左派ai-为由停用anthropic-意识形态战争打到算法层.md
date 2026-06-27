@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "美国财政部以「左派AI」为由停用Anthropic：意识形态战争打到算法层"
 description: "**财政部彻底停用Anthropic，AI工具的意识形态标签首次成为政府采购的正式理由。**  - 川普政府通过财政部长贝森特直接执行，定性Anthropic为「左派AI」 - 这与战争部取消Anthropic 2亿合同一起，构成特朗普政府对Anthropic的系统性清退 - 「代码中立论」被彻底打破：训练数据与规则设定被认为具有政治倾向性  gakki按：AI工具的意识形态化正在从社区讨论变为政"
 resource: "https://x.com/i/status/2028625923080098060"
@@ -22,6 +22,13 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "ai-ethics-corporate-behavior"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2028625923080098060"
+created: "2026-03-03"
+updated: "2026-06-26"
+sha256: "c771fb2dcc393efc6b8e320493d036a7d5705864760b5f0f645224b45e3523d2"
+sources:
+  - "/sources/highlights/2026-03-03/00__mubeitech__美国财政部以-左派ai-为由停用anthropic-意识形态战争打到算法层.md"
 ---
 
 # 美国财政部以「左派AI」为由停用Anthropic：意识形态战争打到算法层

@@ -1,5 +1,5 @@
 ---
-type: "Author"
+type: "entity"
 title: "MiniSatomi😼 (@MiniPotSatomi)"
 description: "X/Twitter 作者 @MiniPotSatomi。共收录 1 条 AI 精选推文。"
 tags:
@@ -12,6 +12,12 @@ x_author_name: "MiniSatomi😼"
 x_tweet_count: 1
 x_first_seen: "2026-04-07T00:42:41.998Z"
 x_last_seen: "2026-04-07T00:42:41.998Z"
+type_okf: "Author"
+created: "2026-04-07"
+updated: "2026-06-26"
+sha256: "a47ce6c18dbc014a76fb6d6cdaf07b9b154cd696c1c63fd939e959983e59334f"
+sources:
+  - "/sources/news/2026-04-07/00__MiniPotSatomi__claude-源码泄露-6-天后-openclaw-推出-撞脸-功能-一场关于-ai-记忆机制的产品节奏战.md"
 ---
 
 # MiniSatomi😼 (@MiniPotSatomi)

@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "OpenAI 论文：打造全球最强 AI 程序员"
 description: "**OpenAI 发布重磅论文，公开了构建顶级 AI 程序员的技术路径，被视为通往 AGI 的核心阶梯。** - **方法论**：该技术不仅限于编程领域，其核心逻辑适用于通用人工智能的逻辑推理。 - **行业影响**：公布了详细方案，预示着 AI 辅助开发的效能将迎来质的飞跃。  **Pi 的锐评**：OpenAI 正在将“编程”作为破解 AGI 的实验室。掌握了这个路径，就等于掌握了让机器自我进"
 resource: "https://x.com/i/status/1891394142510485552"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/1891394142510485552"
+created: "2025-02-17"
+updated: "2026-06-26"
+sha256: "649723dac15a15f0613c0fd22c7ea095d94b8fa861054cbfbc4f700b451d8c5a"
+sources:
+  - "/sources/news/2026-01-30/00__0xCheshire__openai-论文-打造全球最强-ai-程序员.md"
 ---
 
 # OpenAI 论文：打造全球最强 AI 程序员

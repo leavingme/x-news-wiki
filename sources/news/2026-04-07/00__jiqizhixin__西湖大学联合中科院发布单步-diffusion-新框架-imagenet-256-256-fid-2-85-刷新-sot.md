@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "西湖大学联合中科院发布单步 diffusion 新框架：ImageNet 256×256 FID 2.85 刷新 SOTA"
 description: "**[单步文生图达成新纪录：FID 2.85，diffusion 效率与质量不可兼得已成历史]**  西湖大学、中科院与 DP Technology 联合提出新框架，将单步 diffusion 模型的核心组件解耦，澄清了高效单步生成器的设计原理。该模型在 ImageNet-256×256 上实现 FID50k 2.85，刷新该任务 SOTA。  · 解耦设计是关键：把 timestep embed"
 resource: "https://x.com/i/status/2041159743306346792"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2041159743306346792"
+created: "2026-04-06"
+updated: "2026-06-26"
+sha256: "f7bba4d725fbda1fe4735022549d69a856b4a7964c755886b191ba67c8d9ae7c"
+sources:
+  - "/sources/news/2026-04-07/00__jiqizhixin__西湖大学联合中科院发布单步-diffusion-新框架-imagenet-256-256-fid-2-85-刷新-sot.md"
 ---
 
 # 西湖大学联合中科院发布单步 diffusion 新框架：ImageNet 256×256 FID 2.85 刷新 SOTA

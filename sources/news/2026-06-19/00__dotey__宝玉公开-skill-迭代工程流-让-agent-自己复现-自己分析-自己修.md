@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "宝玉公开 Skill 迭代工程流：让 Agent 自己复现、自己分析、自己修"
 description: "**Skills 不是一次写完，而是和软件一样靠用户量堆出迭代壁垒。**  - 宝玉披露典型问题：导出样式表只占半页、渐变色被图片遮没——纯靠人手调试极难定位 - 关键工作流：自己用 → 发现问题 → 让 Agent 重现 → 让 Agent 分析根因 → Agent 出方案 → 确认后写入 Skill 并加测试覆盖 → 再用 - Skill 相较软件的最大优势是「Agent 自己就是最好的测试员"
 resource: "https://x.com/i/status/2068042001895809420"
@@ -22,6 +22,13 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "skill-automation-engineering"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2068042001895809420"
+created: "2026-06-19"
+updated: "2026-06-26"
+sha256: "e3dd4778b076247cb90a5ecd0067db16dfe0f948ee36b2acd7266a26ad4fcf56"
+sources:
+  - "/sources/news/2026-06-19/00__dotey__宝玉公开-skill-迭代工程流-让-agent-自己复现-自己分析-自己修.md"
 ---
 
 # 宝玉公开 Skill 迭代工程流：让 Agent 自己复现、自己分析、自己修

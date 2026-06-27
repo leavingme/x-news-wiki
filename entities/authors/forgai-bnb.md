@@ -1,5 +1,5 @@
 ---
-type: "Author"
+type: "entity"
 title: "Forg AI (@ForgAI_bnb)"
 description: "X/Twitter 作者 @ForgAI_bnb。共收录 1 条 AI 精选推文。"
 tags:
@@ -12,6 +12,12 @@ x_author_name: "Forg AI"
 x_tweet_count: 1
 x_first_seen: "2026-03-29T01:37:51.795Z"
 x_last_seen: "2026-03-29T01:37:51.795Z"
+type_okf: "Author"
+created: "2026-03-29"
+updated: "2026-06-26"
+sha256: "98a5e19d099c04237e1c564c1369d0666534daf765ea2720ab5d6696610bf554"
+sources:
+  - "/sources/highlights/2026-03-29/00__ForgAI_bnb__bnb-chain-agent生态全景图-经济基础设施的-协议堆栈-已成型.md"
 ---
 
 # Forg AI (@ForgAI_bnb)

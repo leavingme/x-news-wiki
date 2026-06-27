@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "宝玉确认图灵出版社电子书配套销售机制，出版业数字分发仍在以SKU级精细化运营"
 description: "**[图灵出版社延续纸书+电子版捆绑销售传统，数字出版物增值服务仍是出版社核心变现路径之一]**  - 图灵出版社对技术类书籍采用「买纸书送电子版」的配套策略，这是一种出版社主导的数字化过渡方案而非彻底电子书订阅模式 - 该模式意味着出版社在AI时代仍掌握部分内容分发控制权，而非完全让渡给平台 - 反映出专业技术出版物的读者仍存在「实体书收藏+数字检索」的双重需求  宝玉的确认说明该信息需要作者本"
 resource: "https://x.com/i/status/2061455315560743180"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2061455315560743180"
+created: "2026-06-01"
+updated: "2026-06-26"
+sha256: "4c0cba192432feea522f1059b62ed06385060175a6cee264dd0c27bf11454902"
+sources:
+  - "/sources/news/2026-06-01/00__dotey__宝玉确认图灵出版社电子书配套销售机制-出版业数字分发仍在以sku级精细化运营.md"
 ---
 
 # 宝玉确认图灵出版社电子书配套销售机制，出版业数字分发仍在以SKU级精细化运营

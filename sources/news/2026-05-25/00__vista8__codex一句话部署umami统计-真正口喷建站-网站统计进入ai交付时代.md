@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Codex一句话部署umami统计：真正口喷建站，网站统计进入AI交付时代"
 description: "**网站部署的门槛已降至「口喷」级别。**  向阳乔木用Codex通过SSH在VPS上部署了一套umami统计系统，自部署版本不受官方网站数量限制。想给哪个网站加统计只需告诉Codex。网站搭建、域名配置、流量统计全部口喷完成——「口喷建站」从概念进入实用阶段。"
 resource: "https://x.com/i/status/2058928106858332658"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2058928106858332658"
+created: "2026-05-25"
+updated: "2026-06-26"
+sha256: "9a40a3d019b4e00aed12bdf7f4f865275979d185cd5b873dca2a66212347695b"
+sources:
+  - "/sources/news/2026-05-25/00__vista8__codex一句话部署umami统计-真正口喷建站-网站统计进入ai交付时代.md"
 ---
 
 # Codex一句话部署umami统计：真正口喷建站，网站统计进入AI交付时代

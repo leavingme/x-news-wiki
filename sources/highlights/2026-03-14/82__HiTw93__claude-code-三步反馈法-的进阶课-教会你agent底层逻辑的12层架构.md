@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Claude Code「三步反馈法」的进阶课：教会你Agent底层逻辑的12层架构"
 description: "**[理解Agent的第一步是亲手搭一个]** - 项目以12节课渐进式构建：从30行代码的核心循环，叠加规划、子Agent、上下文压缩、多Agent协作等12层机制 - 关键洞察：所有AI编程Agent共享同一套底层循环——调用模型→执行工具→反馈结果→迭代，差异仅在层数 - 这不是教程，是「祛魅」：让使用者理解为什么Claude Code会「跑偏」、为什么需要「三步反馈法」  **gakki "
 resource: "https://x.com/i/status/2032594555099308056"
@@ -22,6 +22,13 @@ x_selected: 2
 x_priority: 82
 x_related_topic: "agent-fundamentals-education"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2032594555099308056"
+created: "2026-03-13"
+updated: "2026-06-26"
+sha256: "8cfe28dd1d6b07f3119edfcbf3722753d50f05f67614dcfdb2aa957f82123956"
+sources:
+  - "/sources/highlights/2026-03-14/82__HiTw93__claude-code-三步反馈法-的进阶课-教会你agent底层逻辑的12层架构.md"
 ---
 
 # Claude Code「三步反馈法」的进阶课：教会你Agent底层逻辑的12层架构

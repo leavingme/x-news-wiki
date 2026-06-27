@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Anthropic 官方下场教「零员工公司」：CEO 是人，员工全是 Claude Code"
 description: "**Anthropic 把「一个人+AI」从亚文化实验推向了官方认证的创业范式。**  - Anthropic 发布了用 Claude Code 构建公司的官方指南，核心架构：1 名人类 CEO + AI 智能体员工 + 全自动运营 - 这不是第三方 hack，而是模型厂商亲自下场定义「公司」的最小单位——从工具提供者升级为方法论布道者 - 信号意义大于指南本身：Anthropic 在赌「Agen"
 resource: "https://x.com/i/status/2051044296154042415"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
+
 x_source: "bookmark"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2051044296154042415"
+created: "2026-05-03"
+updated: "2026-06-26"
+sha256: "9fa7be41c8395907d3d06a188f6c401e619355d46149a4f3ee4f8110a9c66a0b"
+sources:
+  - "/sources/highlights/2026-05-04/00__billtheinvestor__anthropic-官方下场教-零员工公司-ceo-是人-员工全是-claude-code.md"
 ---
 
 # Anthropic 官方下场教「零员工公司」：CEO 是人，员工全是 Claude Code

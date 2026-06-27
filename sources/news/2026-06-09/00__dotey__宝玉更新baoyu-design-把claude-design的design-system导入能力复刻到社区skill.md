@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "宝玉更新baoyu-design:把Claude Design的Design System导入能力复刻到社区Skill"
 description: "**[社区Skill正在反向\"复刻\"官方产品能力,Skills生态从效率工具演化为产品平权运动]** - baoyu-design新增Design System导入功能,新建项目时可通过对话选择已导入的设计系统 - 保留了Claude Design原始的\"导入+编译\"两段式流程,降低使用门槛 - 一行安装:`npx skills add JimLiu/baoyu-design` - 关键信号:官方"
 resource: "https://x.com/i/status/2064182459718091202"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2064182459718091202"
+created: "2026-06-09"
+updated: "2026-06-26"
+sha256: "10369246418d231f5fbacd624a7f254bbd9dcff018bda1a012a1b2ea2c50d46c"
+sources:
+  - "/sources/news/2026-06-09/00__dotey__宝玉更新baoyu-design-把claude-design的design-system导入能力复刻到社区skill.md"
 ---
 
 # 宝玉更新baoyu-design:把Claude Design的Design System导入能力复刻到社区Skill

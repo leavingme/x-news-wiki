@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "本地优先数据哲学落地：Yansu验证「数据不上云」的实际边界"
 description: "**[数据主权承诺的物理边界：公司没收电脑即归零]**  yetone 回应 Yansu 数据的存储逻辑：纯本地存储、不上云，但坦陈公司没收电脑时数据随之丧失。这揭示了本地优先 AI 的真实安全边界——不是云端泄露，而是物理管控权。  - 本地 AI 存储是隐私保护的必要条件但非充分条件 - 「数据在自己电脑上」的边界：设备物理控制权 - 企业场景下数据主权仍受制于硬件管控权  gakki 判断："
 resource: "https://x.com/i/status/2058914074218680629"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2058914074218680629"
+created: "2026-05-25"
+updated: "2026-06-26"
+sha256: "971daeeac2cf7d779a0cc6f9fcafcd14eaf88ad49d28949b87b7fb150fb8a25e"
+sources:
+  - "/sources/news/2026-05-25/00__yetone__本地优先数据哲学落地-yansu验证-数据不上云-的实际边界.md"
 ---
 
 # 本地优先数据哲学落地：Yansu验证「数据不上云」的实际边界

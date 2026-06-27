@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "AI 内容创业的「微壁垒」真相：39元客单价如何撑起50万GMV"
 description: "**[低门槛≠无壁垒，品味成为新护城河]** • 油管英语Vlog学习网站案例：日均80单，单价39元，累计GMV达50万 • 核心壁垒并非技术（Claude/Codex即可糊出来），而是「选品品味」——按口音/语速/行业多维度分类的 curated 能力 • 生产端成本趋近于零（笔记发截图即可），但分发端依赖小红书流量红利  gakki 锐评：这是「AI民主化」最诚实的注脚——技术门槛消失后，审"
 resource: "https://x.com/i/status/2031780852859126074"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2031780852859126074"
+created: "2026-03-11"
+updated: "2026-06-26"
+sha256: "e113f06e38061c0bb870a78c178254869b9757a9b35d5ed40dd50aa69e699e8a"
+sources:
+  - "/sources/highlights/2026-03-16/00__huangyun_122__ai-内容创业的-微壁垒-真相-39元客单价如何撑起50万gmv.md"
 ---
 
 # AI 内容创业的「微壁垒」真相：39元客单价如何撑起50万GMV

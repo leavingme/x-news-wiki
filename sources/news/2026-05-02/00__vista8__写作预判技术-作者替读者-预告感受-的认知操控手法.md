@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "写作预判技术：作者替读者「预告感受」的认知操控手法"
 description: "**内容创作者用形容词提前锚定读者情绪预期，本质上是一种认知框架预设。**  - 「先用形容词告诉读者接下来这段很厉害」——这是一种经典的修辞预判（rhetorical priming） - 对 AI 内容生成的启示：结构化的情感锚点比直接输出内容更能影响用户感知质量 - 这一手法在 AI 写作中被频繁使用但很少被显性讨论，属于 prompt 工程的隐性知识  gakki 锐评：看似写作技巧，实则"
 resource: "https://x.com/i/status/2050685140725317748"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2050685140725317748"
+created: "2026-05-02"
+updated: "2026-06-26"
+sha256: "cbbb0c8cf827cbe1e13966636fbb1c7701c5f20f4209ce47a21f373b7e6a60af"
+sources:
+  - "/sources/news/2026-05-02/00__vista8__写作预判技术-作者替读者-预告感受-的认知操控手法.md"
 ---
 
 # 写作预判技术：作者替读者「预告感受」的认知操控手法

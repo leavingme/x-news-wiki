@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "书籍解读口播脚本 Skill 开源：把「多 Subagent 分角写、主 LLM 收口」做成了一键安装"
 description: "**多 Subagent 编排终于有了可直接复用的开源样本。**  - 一行命令 `npx skills add joeseesun/qiaomu-book-script` 即可安装，调用方式极其简单：直接说「解读《被讨厌的勇气》」 - Skill 内部调度多个 Subagent 从不同角度并行写口播脚本，最后由主 LLM 收口整理成终稿 - 体现了 Skills 生态从「单点 prompt」向「"
 resource: "https://x.com/i/status/2064709239810191647"
@@ -22,6 +22,13 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "sub-agents-multi-expert"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2064709239810191647"
+created: "2026-06-10"
+updated: "2026-06-26"
+sha256: "1c3d7d41c8b756cd3c9a172fc4ec64be623c8a57e831812f6f0d3a59af68f788"
+sources:
+  - "/sources/highlights/2026-06-10/00__vista8__书籍解读口播脚本-skill-开源-把-多-subagent-分角写-主-llm-收口-做成了一键安装.md"
 ---
 
 # 书籍解读口播脚本 Skill 开源：把「多 Subagent 分角写、主 LLM 收口」做成了一键安装

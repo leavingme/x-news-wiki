@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Hindsight 把 Agent 记忆从「存档」变成「经验积累」：LongMemEval SOTA，两行代码接入"
 description: "**【Hindsight 重新定义 Agent 记忆：不是存档，是可生长的经验系统】**  传统 Agent 记忆本质是存档——存了历史，调用时还是从头理解。Hindsight 的创新在于仿生三层记忆架构（世界事实/个人经历/心智模型），并通过主动规律生成让 Agent「越用越聪明」。  三点影响： - 解决了长期记忆「存了等于没用」的行业痛点，结构化检索是关键 - 心智模型层让 Agent 能复"
 resource: "https://x.com/i/status/2041722658656862529"
@@ -22,6 +22,13 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "agent-memory-optimization"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2041722658656862529"
+created: "2026-04-08"
+updated: "2026-06-26"
+sha256: "d0e62efdf2fd3186a1fd1a78250cca41f2be42a2e323d1ef6a5332c07b97496f"
+sources:
+  - "/sources/news/2026-04-09/00__aigclink__hindsight-把-agent-记忆从-存档-变成-经验积累-longmemeval-sota-两行代码接入.md"
 ---
 
 # Hindsight 把 Agent 记忆从「存档」变成「经验积累」：LongMemEval SOTA，两行代码接入

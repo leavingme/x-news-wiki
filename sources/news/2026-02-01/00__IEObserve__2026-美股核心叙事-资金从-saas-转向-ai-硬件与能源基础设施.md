@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "2026 美股核心叙事：资金从 SaaS 转向 AI 硬件与能源基础设施"
 description: "[核心逻辑] 市场不再争论 AI 增长，而是聚焦于“算力、存储、电力谁先不够用”。 - 硬件爆发：存储厂商（SanDisk、Micron）及半导设备受益于模型训练转商用带来的结构性跳升。 - 电力瓶颈：AI 缺电成为新瓶颈，核能复兴与 Bloom Energy 等分布式供电方案受追捧。 - SaaS 承压：由于 AI Agent 开始取代传统软件模组，传统按用户收费模式面临巨大挑战。  Pi 的锐"
 resource: "https://x.com/i/status/2017919208542413270"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2017919208542413270"
+created: "2026-02-01"
+updated: "2026-06-26"
+sha256: "0711b7f287d4d7a3c36f26ddbfb6f3fb3c80e04836a6143b7dab5fba9eb1b638"
+sources:
+  - "/sources/news/2026-02-01/00__IEObserve__2026-美股核心叙事-资金从-saas-转向-ai-硬件与能源基础设施.md"
 ---
 
 # 2026 美股核心叙事：资金从 SaaS 转向 AI 硬件与能源基础设施

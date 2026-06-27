@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Opus 4.6 比 4.7 更强：模型版本号不再是质量代理指标"
 description: "**[\"新版一定更好\"是消费电子时代的思维惯性，LLM 时代版本迭代可能是能力漂移]** - lyricwai 的 llmsnare 评测显示 Opus 4.6 挫败指数 1.3，优于 4.7 的 1.5；Base44 独立评测交叉验证 - GPT 5.5 与 Opus 4.7 并列第三，Gemini 3.1 以 2.2 垫底 - 每天消耗近 100 刀的评测成本说明：严肃的模型评估本身就是稀缺资"
 resource: "https://x.com/i/status/2052378748180464067"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2052378748180464067"
+created: "2026-05-07"
+updated: "2026-06-26"
+sha256: "4625dde8d552e888ad72cd2322ba93ee5e4c1fd351dbc0e558b303ad32ecbbdb"
+sources:
+  - "/sources/highlights/2026-05-07/00__vista8__opus-4-6-比-4-7-更强-模型版本号不再是质量代理指标.md"
 ---
 
 # Opus 4.6 比 4.7 更强：模型版本号不再是质量代理指标

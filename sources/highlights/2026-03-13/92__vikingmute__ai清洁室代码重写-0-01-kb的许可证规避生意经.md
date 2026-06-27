@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "AI清洁室代码重写：$0.01/KB的许可证规避生意经"
 description: "**[开源许可体系的AI套利机会]** - HackerNews热议服务：AI机器人在不查看原代码的前提下，仅通过公开文档和API spec独立重写功能等价代码，输出代码归客户所有 - 定价模型颠覆：按npm解压后大小$0.01/KB计费，瞄准开源作者从MIT改AGPL引发的合规焦虑 - 法律灰色地带：宣称彻底规避attribution义务，实际挑战开源许可证 enforceability 的边界"
 resource: "https://x.com/i/status/2032420305034211591"
@@ -22,6 +22,13 @@ x_selected: 2
 x_priority: 92
 x_related_topic: "ai-business-survival"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2032420305034211591"
+created: "2026-03-13"
+updated: "2026-06-26"
+sha256: "77b51c1d44ab6759f43f9ca50db34dc1e35a7850d7f454381a245dfd080d5f85"
+sources:
+  - "/sources/highlights/2026-03-13/92__vikingmute__ai清洁室代码重写-0-01-kb的许可证规避生意经.md"
 ---
 
 # AI清洁室代码重写：$0.01/KB的许可证规避生意经

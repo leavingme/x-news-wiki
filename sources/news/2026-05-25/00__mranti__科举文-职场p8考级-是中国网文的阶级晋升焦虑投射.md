@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "科举文=职场P8考级：是中国网文的阶级晋升焦虑投射"
 description: "**[网文是小镇做题家的精神出口，而非全球性叙事母题]**  Michael Anti分析穿越文中的科举文与修仙文，结论是：本质上是职场P6/P7/P8等级制的小镇做题家爱好，\"我不觉得在全球小说中有普遍受众\"。  这个判断对AI内容创业者极其重要：如果中国网文的深层心理结构是特定的阶层焦虑产物，那\"AI翻译出海\"和\"AI原生内容出海\"都面临同一个陷阱——你以为在输出故事，其实只输出了文化特定的情"
 resource: "https://x.com/i/status/2058817175591493909"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2058817175591493909"
+created: "2026-05-25"
+updated: "2026-06-26"
+sha256: "e134b57a3a26e8fbe7bd9ff749db9fd875645de2db3cea818caa2d18d268b0b9"
+sources:
+  - "/sources/news/2026-05-25/00__mranti__科举文-职场p8考级-是中国网文的阶级晋升焦虑投射.md"
 ---
 
 # 科举文=职场P8考级：是中国网文的阶级晋升焦虑投射

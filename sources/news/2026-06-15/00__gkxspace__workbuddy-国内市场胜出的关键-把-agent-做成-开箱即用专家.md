@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "WorkBuddy 国内市场胜出的关键：把 Agent 做成'开箱即用专家'"
 description: "**企业 Agent 的护城河正在从'Agent 框架能力'转向'行业 know-how 内置'。**  1. 余温判断对国内市场而言，WorkBuddy 比同类产品更优，核心是'开箱就能用专家'——把认知能力直接打包成即插即用的办公场景能力 2. 与通用 Agent + Skills 生态路径形成对比，WorkBuddy 以'专家角色'形态直接交付，省去用户的 prompt 工程与角色配置成本 "
 resource: "https://x.com/i/status/2066535814364823898"
@@ -22,6 +22,13 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "enterprise-agent-product"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2066535814364823898"
+created: "2026-06-15"
+updated: "2026-06-26"
+sha256: "7ed956eb6df6f9ebc5716c14b2aa8689867a9f07b9332198d8b1b9de538e79a5"
+sources:
+  - "/sources/news/2026-06-15/00__gkxspace__workbuddy-国内市场胜出的关键-把-agent-做成-开箱即用专家.md"
 ---
 
 # WorkBuddy 国内市场胜出的关键：把 Agent 做成'开箱即用专家'

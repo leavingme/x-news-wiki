@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "铁锤人揭示Skill工作流框架：收集→消化→产出→汇报的AI知识管理闭环"
 description: "**【一句话核心判断】**  Skill不是终点，Skill工作流框架才是——收集→消化→产出→汇报的四步闭环，才是AI时代知识管理的真正骨架。  **要点：** 1. **收集层**：推荐Web Access Skill覆盖任意网页爬取，但有封号风险，文末引出免费替代方案作为低门槛入口 2. **消化层**：引入Karpathy的LLM Wiki方法，将知识系统存入第二大脑——这本质上是RAG失"
 resource: "https://x.com/i/status/2061064521389842678"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2061064521389842678"
+created: "2026-05-31"
+updated: "2026-06-26"
+sha256: "2dd062ae144aaa24172df4fd9629a8af3236ba392c5bed6ba749864abf303b7c"
+sources:
+  - "/sources/news/2026-05-31/00__lxfater__铁锤人揭示skill工作流框架-收集-消化-产出-汇报的ai知识管理闭环.md"
 ---
 
 # 铁锤人揭示Skill工作流框架：收集→消化→产出→汇报的AI知识管理闭环

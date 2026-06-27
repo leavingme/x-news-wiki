@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "yetone 自承写不了Tauri：Agent工程师的「底层能力天花板」被照见"
 description: "**Vibe Coding红利的边界，是工程师对底层Bug的消化能力。**  - yetone承认Tauri写不下去的根因是「没有能力解决底层bug」——这是头部Agent工程师的诚实剖白 - 推论：当下Agent工具链（Tauri/Electron/原生GUI）的生产可用性，本质卡在「谁懂底层」而不是「AI能不能写」 - 对应「Harness工程框架」的另一面：AI扩写能力极强，但bug消化回路"
 resource: "https://x.com/i/status/2068767602680397924"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2068767602680397924"
+created: "2026-06-21"
+updated: "2026-06-26"
+sha256: "73348a4759b76007e1d3060d8453ae1237e416e6956216249b16fd59c6c1a1c9"
+sources:
+  - "/sources/news/2026-06-21/00__yetone__yetone-自承写不了tauri-agent工程师的-底层能力天花板-被照见.md"
 ---
 
 # yetone 自承写不了Tauri：Agent工程师的「底层能力天花板」被照见

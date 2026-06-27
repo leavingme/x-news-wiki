@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "海外中文教育的隐性成本：凯恩外公线的失败与三语困境的经济学解法"
 description: "**[中文习得在海外华裔群体中正从文化命题变为纯经济学计算]**  Michael Anti 披露其加拿大华裔亲戚的孩子学中文极为吃力，最终选择了\"凯恩外公线上教学\"这一低成本方案。他本人因此将孩子送入国内外国语学校，以避免海外三语培育的天价成本。  关键信号：海外华裔中文教育正在从\"身份认同\"叙事撤退为\"成本收益\"决策。AI辅助语言学习虽有突破，但真人跨代际教学的情感溢价仍是算法难以替代的节点。"
 resource: "https://x.com/i/status/2057285896266023229"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2057285896266023229"
+created: "2026-05-21"
+updated: "2026-06-26"
+sha256: "8c29f8e4f451970babfc0d71ab50f1bfac0a4983a7c2e0deac4c0727f7e38bea"
+sources:
+  - "/sources/news/2026-05-21/00__mranti__海外中文教育的隐性成本-凯恩外公线的失败与三语困境的经济学解法.md"
 ---
 
 # 海外中文教育的隐性成本：凯恩外公线的失败与三语困境的经济学解法

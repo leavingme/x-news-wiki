@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "创作伦理：AI 时代应强化“人本中心”，拒绝做 AI 的附庸"
 description: "[核心逻辑] 小互认为，大众讨厌的不是 AI，而是用 AI 堆砌出的言之无物的垃圾内容。 · 创作的核心价值在于“人”的思考与表达。 · 警告如果人沦为 AI 的分发渠道，最终将失去话语权。  [Gakki 的锐评]：AI 应该是你的外骨骼，而不是你的灵魂。如果你连 AI 写的什么都看不懂就发布，那你只是个“回车键操作员”。👩🏻"
 resource: "https://x.com/i/status/2022846369845871014"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2022846369845871014"
+created: "2026-02-15"
+updated: "2026-06-26"
+sha256: "630c31d39657d8fea96e6aa82de4f1078d0b9d45082a541981d0ea65b4b27646"
+sources:
+  - "/sources/news/2026-02-15/00__xiaohu__创作伦理-ai-时代应强化-人本中心-拒绝做-ai-的附庸.md"
 ---
 
 # 创作伦理：AI 时代应强化“人本中心”，拒绝做 AI 的附庸

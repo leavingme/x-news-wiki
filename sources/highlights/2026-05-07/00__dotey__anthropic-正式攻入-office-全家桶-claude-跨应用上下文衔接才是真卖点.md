@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Anthropic 正式攻入 Office 全家桶：Claude 跨应用上下文衔接才是真卖点"
 description: "**Claude 不再是\"另一个网页工具\"，而是嵌入了你每天用 8 小时的工作流。** - Excel、PowerPoint、Word 三插件从 beta 转 GA，Outlook 进入公测 - 核心卖点是跨应用上下文延续：从邮件→文档→表格→PPT 全链路，不需要重新喂材料 - Excel 里改假设不破公式，PPT 按模板生成原生图表而非图片，Word 用 tracked changes 修订 "
 resource: "https://x.com/i/status/2052487556474740870"
@@ -22,6 +22,13 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "anthropic-office-integration"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2052487556474740870"
+created: "2026-05-07"
+updated: "2026-06-26"
+sha256: "7dfd35804b5da861e4d5b308cb42f7ed8371018481d1a0d37497c67666d1f0fe"
+sources:
+  - "/sources/highlights/2026-05-07/00__dotey__anthropic-正式攻入-office-全家桶-claude-跨应用上下文衔接才是真卖点.md"
 ---
 
 # Anthropic 正式攻入 Office 全家桶：Claude 跨应用上下文衔接才是真卖点

@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "AI从业者的「身价发现」悖论：不是你值多少，是公司认知你值多少"
 description: "**一句话核心判断：** 一个人的市场价值不由能力决定，而由信息对称程度决定——公司知道你能创造70万价值，你自己可能不知道。  **信息增量：** - 这条推文揭示了AI人才市场的结构性信息不对称 - 「知道自己值多少钱」本身就是一种竞争力 - 对正在谈判薪资或评估机会的从业者有直接参考价值  **gakki 锐评：** 翻译过来就是：多数人的薪资是被「谈判力」而不是「贡献值」决定的。这条铁律在"
 resource: "https://x.com/i/status/2048184017384854005"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2048184017384854005"
+created: "2026-04-25"
+updated: "2026-06-26"
+sha256: "b97b83343542e31243742825a419af77658eadf301b6e79c29391f0da9b582d1"
+sources:
+  - "/sources/news/2026-04-26/00__oran_ge__ai从业者的-身价发现-悖论-不是你值多少-是公司认知你值多少.md"
 ---
 
 # AI从业者的「身价发现」悖论：不是你值多少，是公司认知你值多少

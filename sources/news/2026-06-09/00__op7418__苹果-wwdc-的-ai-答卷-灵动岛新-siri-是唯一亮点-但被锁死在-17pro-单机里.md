@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "苹果 WWDC 的 AI 答卷：灵动岛新 Siri 是唯一亮点，但被锁死在 17Pro 单机里"
 description: "**苹果 WWDC 唯一的 AI 亮点是灵动岛新 Siri，端侧模型却只服务最新 Pro 一款机型，且欧美/中国市场双双缺位。**  - 灵动岛新 Siri AI 是本次发布会唯一值得关注的 AI 进展，端侧模型承担核心推理，对应苹果\"Private Cloud Compute + On-device\"的混合架构 - 本地端侧模型仅支持 iPhone 17Pro 一款机型，硬件门槛极高，存量设备与"
 resource: "https://x.com/i/status/2064154387879186760"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2064154387879186760"
+created: "2026-06-09"
+updated: "2026-06-26"
+sha256: "985df644a9ad17e454fb1b02ab514a267bb80d805cf5fe2b81c4cfe86e653961"
+sources:
+  - "/sources/news/2026-06-09/00__op7418__苹果-wwdc-的-ai-答卷-灵动岛新-siri-是唯一亮点-但被锁死在-17pro-单机里.md"
 ---
 
 # 苹果 WWDC 的 AI 答卷：灵动岛新 Siri 是唯一亮点，但被锁死在 17Pro 单机里

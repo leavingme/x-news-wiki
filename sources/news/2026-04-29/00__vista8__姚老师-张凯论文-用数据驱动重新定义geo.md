@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "姚老师×张凯论文：用数据驱动重新定义GEO"
 description: "**一句话核心判断：GEO（生成式引擎优化）正在从玄学走向科学，增长黑客的方法论正在被系统性引入AI搜索优化。**  - 姚老师与张凯的研究结合了论文方法论与一手实战经验，将数据洞察引入GEO； - 这标志着AI搜索优化进入「可测量、可复现」的工程化阶段，不再依赖黑箱直觉； - 与传统SEO的经验主义相比，数据驱动的GEO将成为AI Native内容分发的新基础设施。  gakki：当增长黑客的量"
 resource: "https://x.com/i/status/2049321467737960564"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2049321467737960564"
+created: "2026-04-29"
+updated: "2026-06-26"
+sha256: "c1b224d9f2b499e8687eeef461e7e56a38d3608d044f7ccbdaccb60386f43297"
+sources:
+  - "/sources/news/2026-04-29/00__vista8__姚老师-张凯论文-用数据驱动重新定义geo.md"
 ---
 
 # 姚老师×张凯论文：用数据驱动重新定义GEO

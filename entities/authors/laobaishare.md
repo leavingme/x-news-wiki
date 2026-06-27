@@ -1,5 +1,5 @@
 ---
-type: "Author"
+type: "entity"
 title: "老白（每日 AI 干货✊） (@laobaishare)"
 description: "X/Twitter 作者 @laobaishare。共收录 2 条 AI 精选推文。"
 tags:
@@ -12,6 +12,13 @@ x_author_name: "老白（每日 AI 干货✊）"
 x_tweet_count: 2
 x_first_seen: "2026-06-24T22:27:40.726Z"
 x_last_seen: "2026-06-24T22:27:50.716Z"
+type_okf: "Author"
+created: "2026-06-24"
+updated: "2026-06-26"
+sha256: "3af22fdd7453d07f7c1be9500bf05ab8718310562e8baac8048ad7d1e5852ea5"
+sources:
+  - "/sources/highlights/2026-06-24/00__laobaishare__skills-生态跨过分发门槛-npx-一行命令装-agent-mit-协议意味着-skill-即基础设施.md"
+  - "/sources/highlights/2026-06-24/00__laobaishare__小米-28-岁总监裸辞做-ai-算命-月入-30-万-情绪刚需才是-ai-消费品最深护城河.md"
 ---
 
 # 老白（每日 AI 干货✊） (@laobaishare)

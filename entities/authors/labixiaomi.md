@@ -1,5 +1,5 @@
 ---
-type: "Author"
+type: "entity"
 title: "蠟筆小mi (@labixiaomi)"
 description: "X/Twitter 作者 @labixiaomi。共收录 1 条 AI 精选推文。"
 tags:
@@ -12,6 +12,12 @@ x_author_name: "蠟筆小mi"
 x_tweet_count: 1
 x_first_seen: "2026-04-03T00:42:40.419Z"
 x_last_seen: "2026-04-03T00:42:40.419Z"
+type_okf: "Author"
+created: "2026-04-03"
+updated: "2026-06-26"
+sha256: "1ef6fa19c9514c9be1086e2157d5214323b4cf0280d12e127ff0ec5a2af91049"
+sources:
+  - "/sources/news/2026-04-03/00__labixiaomi__ai-交易-agent-落地信号-getclaw-入驻-telegram.md"
 ---
 
 # 蠟筆小mi (@labixiaomi)

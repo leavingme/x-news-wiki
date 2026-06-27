@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "AI内容过载的陷阱：生成即遗忘等于零"
 description: "**[一句话核心判断]** AI批量生成内容到常用工具后，信息过载使获取动力归零——生成一篇读一篇才是有效学习节奏。  **信息增量：** 1. Obsidian/博客等工具中AI内容过载后，实际打开率趋近于零 2. 核心经验：生成→阅读→加工，三步缺一不可，且顺序不能颠倒 3. 信息获取的摩擦感消失后，吸收率反而下降（反直觉但真实）  **gakki 锐评：** 这条经验的本质是\"消费节奏管理\""
 resource: "https://x.com/i/status/2059789377761681440"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2059789377761681440"
+created: "2026-05-28"
+updated: "2026-06-26"
+sha256: "0c4cc9ddc3f73d8480b3c752b869419e2642e8fbc18469dd1be8bc21733b8b12"
+sources:
+  - "/sources/news/2026-05-28/00__vista8__ai内容过载的陷阱-生成即遗忘等于零.md"
 ---
 
 # AI内容过载的陷阱：生成即遗忘等于零

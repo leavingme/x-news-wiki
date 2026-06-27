@@ -1,5 +1,5 @@
 ---
-type: "Author"
+type: "entity"
 title: "IREN (@IREN_Ltd)"
 description: "X/Twitter 作者 @IREN_Ltd。共收录 1 条 AI 精选推文。"
 tags:
@@ -12,6 +12,12 @@ x_author_name: "IREN"
 x_tweet_count: 1
 x_first_seen: "2026-05-01T22:17:34.399Z"
 x_last_seen: "2026-05-01T22:17:34.399Z"
+type_okf: "Author"
+created: "2026-05-01"
+updated: "2026-06-26"
+sha256: "8abd5750d68987abd494348487e357c2e20cafb05ce3573d4f606024d73fae54"
+sources:
+  - "/sources/news/2026-05-01/00__IREN_Ltd__2gw算力校园变电站按时通电-ai基建竞赛从ppt进入物理交付期.md"
 ---
 
 # IREN (@IREN_Ltd)

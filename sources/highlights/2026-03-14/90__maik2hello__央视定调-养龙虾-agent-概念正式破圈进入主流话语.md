@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "央视定调「养龙虾」：Agent 概念正式破圈进入主流话语"
 description: "**Agent 工具从币圈小众走向大众认知的拐点已至。**  • 央视报道「养龙虾」隐喻，标志着 AI Agent 概念首次进入国家级媒体视野 • OKX 的 Agent 布局完整成型：Onchain OS 管链上 + Agent Trade Kit 管 CEX，实现全链路自动化 • 币圈在 Agent 落地场景的敏感度与执行力显著领先传统行业，成为新技术试验田   mainstream 认知与币"
 resource: "https://x.com/i/status/2031330109781639379"
@@ -22,6 +22,13 @@ x_selected: 2
 x_priority: 90
 x_related_topic: "open-agent-ecosystem"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2031330109781639379"
+created: "2026-03-10"
+updated: "2026-06-26"
+sha256: "5a65ea69e1a94b2534075b3f6885a001652f3bf2e8734153e3b9c338e5309f6d"
+sources:
+  - "/sources/highlights/2026-03-14/90__maik2hello__央视定调-养龙虾-agent-概念正式破圈进入主流话语.md"
 ---
 
 # 央视定调「养龙虾」：Agent 概念正式破圈进入主流话语

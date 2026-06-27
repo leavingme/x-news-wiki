@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "200刀的Max也救不了：Dispatch和rc撼动不了Codex地位的实质判断"
 description: "**[即使订阅到最高档位，工具层的基础体验差距依然无法靠付费跨越]**  - 数字生命卡兹克直言不讳：200刀的Claude Max改变不了Dispatch和rc没有Codex好用的事实 - 这是国产AI Coding工具在实用层面与OpenAI Codex的真实差距——不是参数，不是价格，是工具链成熟度 - 用户愿意付高价，但工具若不好用，高价本身反而放大失望感  卡兹克的判断把订阅分层和工具可"
 resource: "https://x.com/i/status/2056760218135191912"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2056760218135191912"
+created: "2026-05-19"
+updated: "2026-06-26"
+sha256: "dcd73473793db367a81d41ef3afe6ed8ccef5a1905a415a44ef8b61f743b39e7"
+sources:
+  - "/sources/news/2026-05-19/00__Khazix0918__200刀的max也救不了-dispatch和rc撼动不了codex地位的实质判断.md"
 ---
 
 # 200刀的Max也救不了：Dispatch和rc撼动不了Codex地位的实质判断

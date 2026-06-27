@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Claude Fable 5 省钱实操：小互把官方文档压成「重度用户速查表」"
 description: "**[官方文档里 80% 的价值藏在 20% 的功能里，小互做了一次 Skill 化的二次提炼]**  - 主线是'省钱+有用'两条，砍掉官方文档的冗余 - 来自 AI 内容自动化生产线的实操拆解 - 适合 Claude 高频用户复用，定位明确   gakki 锐评：小互本人是公众号自动化生产线主理人，'文档二次提炼→Skill 化沉淀'本身就是 AI 工具使用成熟度的体现。比起工具本身，这种使用"
 resource: "https://x.com/i/status/2065398692128137525"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2065398692128137525"
+created: "2026-06-12"
+updated: "2026-06-26"
+sha256: "7c969a1266def6eb12f1950d44f3d8c5797b94fd62ebd45a5e2f6243a773f786"
+sources:
+  - "/sources/news/2026-06-12/00__xiaohu__claude-fable-5-省钱实操-小互把官方文档压成-重度用户速查表.md"
 ---
 
 # Claude Fable 5 省钱实操：小互把官方文档压成「重度用户速查表」

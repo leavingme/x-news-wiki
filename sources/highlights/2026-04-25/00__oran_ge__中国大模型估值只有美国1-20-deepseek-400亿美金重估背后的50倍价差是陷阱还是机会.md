@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "中国大模型估值只有美国1/20：DeepSeek 400亿美金重估背后的50倍价差是陷阱还是机会"
 description: "**[一句话核心判断]**  中国大模型公司估值显著低于美国同行的现象被Orange AI圈内在饭局上公开点名：DeepSeek最新估值400亿美金（非此前流传的100亿），智谱500亿、MiniMax 300亿、Kimi 200亿——而OpenAI 8500亿、Anthropic离谱地达到1兆美金。20-50倍的价差远超汇率因素。  **信息增量：** - DeepSeek估值从100亿修正至4"
 resource: "https://x.com/i/status/2047998810350334087"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2047998810350334087"
+created: "2026-04-25"
+updated: "2026-06-26"
+sha256: "efd946e56a88c80d1c0585972425d8a8e665d9086a3ea3805a11ece3ac706d9a"
+sources:
+  - "/sources/highlights/2026-04-25/00__oran_ge__中国大模型估值只有美国1-20-deepseek-400亿美金重估背后的50倍价差是陷阱还是机会.md"
 ---
 
 # 中国大模型估值只有美国1/20：DeepSeek 400亿美金重估背后的50倍价差是陷阱还是机会

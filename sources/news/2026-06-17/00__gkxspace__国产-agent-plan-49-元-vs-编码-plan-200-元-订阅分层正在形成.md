@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "国产 Agent Plan 49 元 vs 编码 Plan 200 元：订阅分层正在形成"
 description: "**国产 Agent 订阅定价出现显著分层，Agent 通用版走低价走量路线。**  - 某国产 Agent 通用 Plan 定价 49 元/月（被评论者评价「量还行」） - 同类 Coding 专用 Plan 多在 200 元/月量级 - 通用 Agent 与 Coding Agent 已被市场视为两个 SKU，价格带拉开约 4 倍   gakki 锐评：通用 Agent 走 49 元小刀模式是"
 resource: "https://x.com/i/status/2067239172197281920"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2067239172197281920"
+created: "2026-06-17"
+updated: "2026-06-26"
+sha256: "a639ed85a00bf7f3a6f9cc14e4baf9f209630b1b584d0a25f8b7031e32d4f234"
+sources:
+  - "/sources/news/2026-06-17/00__gkxspace__国产-agent-plan-49-元-vs-编码-plan-200-元-订阅分层正在形成.md"
 ---
 
 # 国产 Agent Plan 49 元 vs 编码 Plan 200 元：订阅分层正在形成

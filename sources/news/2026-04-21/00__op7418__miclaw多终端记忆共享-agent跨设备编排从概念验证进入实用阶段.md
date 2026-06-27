@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Miclaw多终端记忆共享：Agent跨设备编排从概念验证进入实用阶段"
 description: "**Miclaw更新支持PC/Mac与手机跨端记忆共享，小爱音箱可控制手机和电脑实现连续多轮对话。**  - 场景落地：跨端文件传输从\"手动操作\"变成\"自然语言指令\"，Agent开始接管设备间的协调层 - 记忆连贯性：多终端共享记忆意味着Agent的上下文不再孤立，单设备上的交互可以影响其他设备的行为 - 入口意义：小爱音箱作为语音入口，验证了\"音箱→手机→电脑\"的控制链可行性，为家庭场景Agen"
 resource: "https://x.com/i/status/2046415964456239304"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2046415964456239304"
+created: "2026-04-21"
+updated: "2026-06-26"
+sha256: "aa6ba0e1a624aa7322695c5077acabcd56a513057e295ef3110cdd2c2327ef8c"
+sources:
+  - "/sources/news/2026-04-21/00__op7418__miclaw多终端记忆共享-agent跨设备编排从概念验证进入实用阶段.md"
 ---
 
 # Miclaw多终端记忆共享：Agent跨设备编排从概念验证进入实用阶段

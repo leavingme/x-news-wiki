@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "小米 mimo-v2.5-pro 接 Claude Code 实测：基本活能干，debug 阶段被 DeepSeek V4 Pro 碾压"
 description: "**国产模型在 Agent 编码场景的真实分野正在显现：能用≠好用。**  - Michael Anti 用小米 mimo-v2.5-pro 接 Claude Code 实测数天，结论是基础编码可胜任，但 debug 时明显不如 DeepSeek V4 Pro - DeepSeek V4 Pro 被他当作实际 benchmark 来衡量其他模型——这本身就是一种行业信号：国产模型的「够用线」正在被"
 resource: "https://x.com/i/status/2051100173796102185"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2051100173796102185"
+created: "2026-05-04"
+updated: "2026-06-26"
+sha256: "32a42abed3a77379f2cb2065643a08fa7556749c338f3a8c5c4f53063d9778fa"
+sources:
+  - "/sources/news/2026-05-04/00__mranti__小米-mimo-v2-5-pro-接-claude-code-实测-基本活能干-debug-阶段被-deepseek-v.md"
 ---
 
 # 小米 mimo-v2.5-pro 接 Claude Code 实测：基本活能干，debug 阶段被 DeepSeek V4 Pro 碾压

@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Adobe 8 款工具打包接入 Claude：创意工具链正式进入「AI 总包」时代"
 description: "**[创意工具的 AI 集成从点对点进入平台捆绑模式]**  Adobe 将旗下 8 款创意工具（Photoshop、Premiere、Illustrator 等）统一接入 Claude，实现修图、做素材、剪辑、素材管理全链路 AI 控制。  - 关键变化：不是单点 API 对接，而是把创意工具链打包成「AI 可控资产包」，Claude 可以跨工具执行批量操作。 - 意味着 Agent 的执行范围"
 resource: "https://x.com/i/status/2049261865856041211"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2049261865856041211"
+created: "2026-04-28"
+updated: "2026-06-26"
+sha256: "dc66ddf42d1c8deb520c86249d6c45c11e5c8f0571830d43c804cf24513598e1"
+sources:
+  - "/sources/news/2026-04-29/00__xiaohu__adobe-8-款工具打包接入-claude-创意工具链正式进入-ai-总包-时代.md"
 ---
 
 # Adobe 8 款工具打包接入 Claude：创意工具链正式进入「AI 总包」时代

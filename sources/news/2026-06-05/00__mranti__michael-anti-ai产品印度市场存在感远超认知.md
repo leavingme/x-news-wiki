@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Michael Anti：AI产品印度市场存在感远超认知"
 description: "**[AI应用地理渗透：印度市场的隐性规模被严重低估]**  Michael Anti在回复中透露，某AI产品不仅进入了印度市场，且用户基础相当可观，只是品牌方没有刻意强调印度背景。这揭示了一个被多数AI从业者忽视的结构性事实：印度作为全球人口第一大国，正在成为AI工具增长最快的市场之一。  出海AI产品的地域叙事偏见需要被纠正。  **gakki 锐评：** 中文AI社区讨论来讨论去，默认用户全"
 resource: "https://x.com/i/status/2062718383095988680"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2062718383095988680"
+created: "2026-06-05"
+updated: "2026-06-26"
+sha256: "1fc1d0bc9aa127c94467503fac980e68363187abe3051d37e18cd9defe01d050"
+sources:
+  - "/sources/news/2026-06-05/00__mranti__michael-anti-ai产品印度市场存在感远超认知.md"
 ---
 
 # Michael Anti：AI产品印度市场存在感远超认知

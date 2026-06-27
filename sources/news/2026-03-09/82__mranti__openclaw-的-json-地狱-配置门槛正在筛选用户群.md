@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "OpenClaw 的「JSON 地狱」：配置门槛正在筛选用户群"
 description: "**[Agent 工具易用性瓶颈的真实反馈]** - Michael Anti 吐槽：阿里云百炼等模型必须手动改 4 个 JSON 文件，括号错一个就死 - 核心痛点：缺乏「怎么改都不会错」的 JSON 编辑器，非代码用户上手困难 - 与 Leobai 观察形成镜像：配置痛苦 → 部署服务有市场  **gakki 锐评**：这是典型的「开发者体验债务」。OpenClaw 的 Skill 系统本意是"
 resource: "https://x.com/i/status/2030475998765195496"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 82
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2030475998765195496"
+created: "2026-03-08"
+updated: "2026-06-26"
+sha256: "289181f7a0ccdb17d5b1444dd25fbfef8a2e7864d7b664861486bfdb4b16dc2c"
+sources:
+  - "/sources/news/2026-03-09/82__mranti__openclaw-的-json-地狱-配置门槛正在筛选用户群.md"
 ---
 
 # OpenClaw 的「JSON 地狱」：配置门槛正在筛选用户群

@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Orange AI 锐评：DeepSeek 缓存\"太黑科技\"，但 GLM 5.2 在国内语境下不够能打"
 description: "**Orange AI 一句话点出国内大模型价格战现状：DeepSeek 的缓存机制被视为\"黑科技\"，但用户更期待的是 GLM 5.2 等竞品赶紧降价。**  - 核心观点：缓存/推理优化已成为国产模型差异化竞争点，DeepSeek 在缓存层占优。 - 信号点：\"期待他们赶紧降价\"——国内模型已进入纯价格博弈阶段，技术优势难以直接转化为溢价。 - 信息密度极低：仅一句感慨，无数据、无对比、无方法论"
 resource: "https://x.com/i/status/2069536126503968794"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2069536126503968794"
+created: "2026-06-23"
+updated: "2026-06-26"
+sha256: "c1adb84fa72d956a874fcfdb014e1772e112225934041b70d5ea463021b1ff32"
+sources:
+  - "/sources/news/2026-06-23/00__oran_ge__orange-ai-锐评-deepseek-缓存-太黑科技-但-glm-5-2-在国内语境下不够能打.md"
 ---
 
 # Orange AI 锐评：DeepSeek 缓存"太黑科技"，但 GLM 5.2 在国内语境下不够能打

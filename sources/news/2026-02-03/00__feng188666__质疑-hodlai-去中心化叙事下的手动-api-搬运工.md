@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "质疑 $HodlAI：去中心化叙事下的手动 API 搬运工？"
 description: "**[硬核质疑 AI 项目的底层逻辑与去中心化精神]** * 某项目被指税收流向常规地址，由开发者手动购买 API 额度提供给持币者。 * 被质疑缺乏区块链原生逻辑，充其量只是 API 代理商的中心化运作。 * 呼吁社区关注项目实质，警惕披着 AI 皮的土狗项目。  Pi 的锐评：披上 AI 的虎皮，掩盖不了手动转账的尴尬；区块链不需要中间商，更不需要手动代充。"
 resource: "https://x.com/i/status/2018636256834732124"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2018636256834732124"
+created: "2026-02-03"
+updated: "2026-06-26"
+sha256: "1b3a93195b854f9583efd2a9c4c5ae3cc54add299cd0ee7b9c8dc9be82f70b67"
+sources:
+  - "/sources/news/2026-02-03/00__feng188666__质疑-hodlai-去中心化叙事下的手动-api-搬运工.md"
 ---
 
 # 质疑 $HodlAI：去中心化叙事下的手动 API 搬运工？

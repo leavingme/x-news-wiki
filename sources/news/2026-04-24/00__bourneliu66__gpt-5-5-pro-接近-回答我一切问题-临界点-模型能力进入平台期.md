@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "GPT-5.5 Pro 接近「回答我一切问题」临界点：模型能力进入平台期"
 description: "**GPT-5.5 Pro 逼近「通用问题解决者」临界点——但这恰恰是危险信号。**  刘小排实测后形容 GPT-5.5 Pro「可以解答我几乎一切问题」，并对 GPT-6 产生强烈好奇。这个评价的潜台词是：模型的「能力广度」正在接近天花板，但「能力深度」和「判断力」仍是黑箱。  当一个工具的回答能覆盖用户 95% 的问题时，剩下的 5% 反而决定了这个工具是否值得托付——目前所有模型都没通过这个"
 resource: "https://x.com/i/status/2047554511439527976"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2047554511439527976"
+created: "2026-04-24"
+updated: "2026-06-26"
+sha256: "27a02f989487417dce96bdef8e0fcab2ec78a7c2622c492550623280a0f96073"
+sources:
+  - "/sources/news/2026-04-24/00__bourneliu66__gpt-5-5-pro-接近-回答我一切问题-临界点-模型能力进入平台期.md"
 ---
 
 # GPT-5.5 Pro 接近「回答我一切问题」临界点：模型能力进入平台期

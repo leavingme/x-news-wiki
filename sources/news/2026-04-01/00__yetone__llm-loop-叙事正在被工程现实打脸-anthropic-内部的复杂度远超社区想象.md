@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "LLM Loop 叙事正在被工程现实打脸：Anthropic 内部的复杂度远超社区想象"
 description: "**[一句话核心判断]**  社区流行的「AI Agent = LLM Loop」叙事是对工程现实的严重简化——Anthropic 工程师为处理边界条件付出的代码复杂度，证明了 Agent 工程的真实壁垒不在于「Loop」，而在于 Loop 之外那些脏活。  **信息增量：** • yetone 引用 Anthropic 工程师的内部代码实例，展示为满足「各种奇奇怪怪的边界条件」所写的恶心代码 •"
 resource: "https://x.com/i/status/2039088998367588369"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2039088998367588369"
+created: "2026-03-31"
+updated: "2026-06-26"
+sha256: "bee9ce4b217fc14d32f527256fdd261e3278f8829529f0937f9857759e5a0f01"
+sources:
+  - "/sources/news/2026-04-01/00__yetone__llm-loop-叙事正在被工程现实打脸-anthropic-内部的复杂度远超社区想象.md"
 ---
 
 # LLM Loop 叙事正在被工程现实打脸：Anthropic 内部的复杂度远超社区想象

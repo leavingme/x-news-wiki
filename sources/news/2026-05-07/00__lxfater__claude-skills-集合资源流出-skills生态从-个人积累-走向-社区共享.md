@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Claude Skills 集合资源流出：Skills生态从「个人积累」走向「社区共享」"
 description: "**Skills生态正在经历从私有到公有的关键转折。**  - 铁锤人公开分享Claude Skills集合，意味着Skills开始具备可分发性 - 这是Skills生态成熟的标志：从「我自己用」到「你可以抄」 - 结合SKILL.md标准化趋势，Skills正在成为Agent能力的可交易单元  gakki锐评：Skills集合的公开分享，本质上是Agent能力的开源化。当Skills可以被复制、"
 resource: "https://x.com/i/status/2052384979364327772"
@@ -22,6 +22,13 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "skills-ecosystem-standards"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2052384979364327772"
+created: "2026-05-07"
+updated: "2026-06-26"
+sha256: "92981ebaff2fee9f36f47f9b92f1aa500333368552de4d9986e10b3be111dae0"
+sources:
+  - "/sources/news/2026-05-07/00__lxfater__claude-skills-集合资源流出-skills生态从-个人积累-走向-社区共享.md"
 ---
 
 # Claude Skills 集合资源流出：Skills生态从「个人积累」走向「社区共享」

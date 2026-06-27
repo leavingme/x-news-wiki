@@ -1,5 +1,5 @@
 ---
-type: "Author"
+type: "entity"
 title: "Indian Tech & Infra (@IndianTechGuide)"
 description: "X/Twitter 作者 @IndianTechGuide。共收录 1 条 AI 精选推文。"
 tags:
@@ -12,6 +12,12 @@ x_author_name: "Indian Tech & Infra"
 x_tweet_count: 1
 x_first_seen: "2026-05-12T22:17:50.615Z"
 x_last_seen: "2026-05-12T22:17:50.615Z"
+type_okf: "Author"
+created: "2026-05-12"
+updated: "2026-06-26"
+sha256: "19c4121ed1a5ac80172c21ac439e35575bfd6c18da7bf745b3d38889889aefb0"
+sources:
+  - "/sources/highlights/2026-05-12/00__IndianTechGuide__perceptron-mk1-凭-0-15-m-打价格战-具身推理模型的商品化时刻到了.md"
 ---
 
 # Indian Tech & Infra (@IndianTechGuide)

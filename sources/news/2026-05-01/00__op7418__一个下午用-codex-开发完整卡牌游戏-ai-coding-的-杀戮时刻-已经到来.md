@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "一个下午用 Codex 开发完整卡牌游戏：AI Coding 的「杀戮时刻」已经到来"
 description: "**歸藏用 Codex 一个下午完成类似《杀戮尖塔》的完整卡牌游戏开发，代码和客户端已开源。**  - 从游戏逻辑、UI 到客户端打包，全流程由 AI 完成，人类角色从「写代码」退化为「提需求」 - 开源地址已发布，可复现验证，不是 PPT 演示而是真实工程产出 - 标志着 AI Coding 从「辅助补全」进入「端到端交付」的新阶段  锐评：当「一个下午做一个游戏」变成常态，软件开发的稀缺性正在"
 resource: "https://x.com/i/status/2050024106578661458"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2050024106578661458"
+created: "2026-05-01"
+updated: "2026-06-26"
+sha256: "05eb3aa24dc069b03c170db7c7d5aa72870c94cfa4d7bebcc2a6ad2f48045f9f"
+sources:
+  - "/sources/news/2026-05-01/00__op7418__一个下午用-codex-开发完整卡牌游戏-ai-coding-的-杀戮时刻-已经到来.md"
 ---
 
 # 一个下午用 Codex 开发完整卡牌游戏：AI Coding 的「杀戮时刻」已经到来

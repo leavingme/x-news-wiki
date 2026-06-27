@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "EdgeClaw 2.0 不是复刻 Claude Code 记忆，而是用开源方式把「跨会话项目知识」变成 OpenClaw 原生能力"
 description: "**[开源社区正在把 Claude Code 最核心的记忆能力，变成可组装的基础设施模块]  • 深度重构而非简单复制：说明开源社区不只是跟跑，而是在试图超越 • 跨会话项目知识永久保留 + 用户偏好积累，解决的是 Agent 协作最基础的记忆问题 • 信号意义：OpenClaw 的 Agent 协作能力从「对话级」向「项目级」进化  ---  gakki 说：记忆系统是 Agent 从工具变成协"
 resource: "https://x.com/i/status/2039376439204774093"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2039376439204774093"
+created: "2026-04-01"
+updated: "2026-06-26"
+sha256: "8a581623d9c076d2603015450663d14e98beca5c72a7b9ff66d828fda431eafb"
+sources:
+  - "/sources/news/2026-04-02/00__berryxia__edgeclaw-2-0-不是复刻-claude-code-记忆-而是用开源方式把-跨会话项目知识-变成-opencla.md"
 ---
 
 # EdgeClaw 2.0 不是复刻 Claude Code 记忆，而是用开源方式把「跨会话项目知识」变成 OpenClaw 原生能力

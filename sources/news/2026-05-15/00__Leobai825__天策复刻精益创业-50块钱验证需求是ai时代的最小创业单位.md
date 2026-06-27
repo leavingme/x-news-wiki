@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "天策复刻精益创业：50块钱验证需求是AI时代的最小创业单位"
 description: "**[一句话核心判断]**  精益创业在AI时代找到了真正的执行路径——不是攒钱开餐厅，而是发内容测需求，50块钱够试错。  **信息增量：** - 框架清晰：「开餐厅」是最蠢的创业路径——先砸几十万验证，再发现没客人，典型顺序倒置 - 正确路径：先发菜单（内容），看有没有人感兴趣，1000曝光→2人咨询→1人付费，模型即成立 - 核心逻辑：标题不行换标题，文案不行改文案——在曝光中迭代，而非闭门"
 resource: "https://x.com/i/status/2055219614166974654"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2055219614166974654"
+created: "2026-05-15"
+updated: "2026-06-26"
+sha256: "31d877890b3a3f082326d57b66e74a3a43fe05af5740e8a8a255c63f4799f433"
+sources:
+  - "/sources/news/2026-05-15/00__Leobai825__天策复刻精益创业-50块钱验证需求是ai时代的最小创业单位.md"
 ---
 
 # 天策复刻精益创业：50块钱验证需求是AI时代的最小创业单位

@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Cloudflare Email Routing 开放 API 转发：CC 工具链补完最后一公里"
 description: "**[一句话核心判断]**  Cloudflare 邮件路由开放 API 意味着 AI Email Agent 的基础设施瓶颈被解除。  **信息增量：** • Cloudflare Email Routing 可以把邮件转发到任意 API 端点，等于给 AI Agent 开了一个读取邮件的标准入口 • CC（Claude Code）工具链可以直接消费邮件内容，无需本地邮件客户端 • 余温的「会不"
 resource: "https://x.com/i/status/2056032867705078092"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2056032867705078092"
+created: "2026-05-17"
+updated: "2026-06-26"
+sha256: "b37a36e3f706c7415105ef4cb91ac9b89e4c2eec3a3cc06ca348f5bda086050c"
+sources:
+  - "/sources/news/2026-05-17/00__gkxspace__cloudflare-email-routing-开放-api-转发-cc-工具链补完最后一公里.md"
 ---
 
 # Cloudflare Email Routing 开放 API 转发：CC 工具链补完最后一公里

@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "梁文锋可能成为\"AI界钱学森\"：DeepSeek V4 押注华为 Ascend 910C 的战略豪赌"
 description: "**DeepSeek V4 若成功，链式反应将震动整个中国AI产业。**  梁文锋正面临一个高风险决策：是否让 DeepSeek 掉转车头，用华为 Ascend 910C 重新搭建训练 infra。这不仅是技术选择，更是地缘政治筹码。  - 若 V4 训练成功：华为 Ascend 910C 跑通一线 LLM training，将同时救活寒武纪、中芯国际、整个 neo cloud 生态，并重燃阿里/"
 resource: "https://x.com/i/status/2043760730097496267"
@@ -22,6 +22,13 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "deepseek-v4-open-source"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2043760730097496267"
+created: "2026-04-13"
+updated: "2026-06-26"
+sha256: "96ca23421f7b58c9f83e4a5bfa68006137a6f9cf822571e5ce4973a892e5d503"
+sources:
+  - "/sources/highlights/2026-04-14/00__lidangzzz__梁文锋可能成为-ai界钱学森-deepseek-v4-押注华为-ascend-910c-的战略豪赌.md"
 ---
 
 # 梁文锋可能成为"AI界钱学森"：DeepSeek V4 押注华为 Ascend 910C 的战略豪赌

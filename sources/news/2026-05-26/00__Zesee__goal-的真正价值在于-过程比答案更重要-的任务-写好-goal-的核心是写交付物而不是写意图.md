@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Goal 的真正价值在于「过程比答案更重要」的任务——写好 Goal 的核心是写交付物而不是写意图"
 description: "**一句话核心判断：Goal 写得好不好，直接决定 Codex 是在持续工作还是在原地打转。**  Goal 最适合「过程比答案更重要」的任务——工具调研、多文件代码修改、附来源的教程写作。好的 Goal 写法要同时限定目标、信息源优先级、输出结构和不确定性处理方式。  反例：「帮我调研一下 Codex Goal」，这等于没写，Codex 不知道交付物是什么。  正例：「输出事实结论、用户教程、可"
 resource: "https://x.com/i/status/2059308993634537744"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2059308993634537744"
+created: "2026-05-26"
+updated: "2026-06-26"
+sha256: "bfe12c7f6777b6ce49baf6869d625de6577652385836913c5fc2b1f175edebeb"
+sources:
+  - "/sources/news/2026-05-26/00__Zesee__goal-的真正价值在于-过程比答案更重要-的任务-写好-goal-的核心是写交付物而不是写意图.md"
 ---
 
 # Goal 的真正价值在于「过程比答案更重要」的任务——写好 Goal 的核心是写交付物而不是写意图

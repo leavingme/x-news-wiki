@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "玉伯：富豪子女在MinMax工作很卷很谦卑，和你想象的不一样"
 description: "**[一句话核心判断]** 精英后代选择AI行业且极度谦卑——这说明AI创业正在成为「创三代」认可的「新贵族职业」，圈层认可本身就是行业成熟度的证明。  - 间接信号：有钱有能力的人选择卷AI而非躺平，说明行业预期回报与社会认可度仍然极高。 - 与「AI替代就业焦虑」形成对冲：真正的高配人才在主动涌入而非逃离。  gakki：这个观察虽然个人化，但传递了一个重要的市场信号：当「创三代」开始卷AI，"
 resource: "https://x.com/i/status/2061441268182573267"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2061441268182573267"
+created: "2026-06-01"
+updated: "2026-06-26"
+sha256: "75403a340dd3a0a4f7b540c5944726bdf06656a132cea19b2f27ceae2cc39734"
+sources:
+  - "/sources/news/2026-06-01/00__lifesinger__玉伯-富豪子女在minmax工作很卷很谦卑-和你想象的不一样.md"
 ---
 
 # 玉伯：富豪子女在MinMax工作很卷很谦卑，和你想象的不一样

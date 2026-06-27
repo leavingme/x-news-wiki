@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Michael Anti以SOTA标准评判AI儿童节目：成人化模仿失去童真是创作陷阱"
 description: "**【一句话核心判断】**  AI生成的儿童表演内容，正在陷入「成人化模仿」的创作陷阱——越是追求SOTA效果，越是丢失儿童表演最珍贵的质朴竞争力。  **要点：** 1. **评价标准**：「SOTA级别」和「小朋友味道」形成张力——顶级技术不等于好的儿童内容 2. **内容分野**：四川《玉盘》和北京《龟兔赛跑》胜出，因为只有小朋友才能如此表演，这是AI合成内容无法复制的本体性 3. **创作"
 resource: "https://x.com/i/status/2061004859567206791"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2061004859567206791"
+created: "2026-05-31"
+updated: "2026-06-26"
+sha256: "7984b770b12f678357e392cd7fdc7080b52066d16b5685100b32b7ac9568307e"
+sources:
+  - "/sources/news/2026-05-31/00__mranti__michael-anti以sota标准评判ai儿童节目-成人化模仿失去童真是创作陷阱.md"
 ---
 
 # Michael Anti以SOTA标准评判AI儿童节目：成人化模仿失去童真是创作陷阱

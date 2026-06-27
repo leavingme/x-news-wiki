@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "5分钟从细节图到悬浮缩放视差Demo：AI设计交付速度再破天花板"
 description: "**一句话核心判断：** AI设计工具的「分钟级交付」正在从静态图扩展到具备交互效果的完整Demo，设计师的生产力边界被重新划定。  **信息增量：** - 悬浮（hover）、缩放（zoom）、视差（parallax）、灯光效果（lighting）四项交互特性一次性生成，非拼接 - 全程5分钟，无需代码，实现路径未知但结果指向AI设计执行层突破 - 印证了DesignMD等「可执行设计协议」工具"
 resource: "https://x.com/i/status/2061001706758906026"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2061001706758906026"
+created: "2026-05-31"
+updated: "2026-06-26"
+sha256: "d9d0597cd7b718939719d997cef962cf9b4a208339574fd72c9ed395b5ed6fda"
+sources:
+  - "/sources/news/2026-05-31/00__Zesee__5分钟从细节图到悬浮缩放视差demo-ai设计交付速度再破天花板.md"
 ---
 
 # 5分钟从细节图到悬浮缩放视差Demo：AI设计交付速度再破天花板

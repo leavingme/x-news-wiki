@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "宝玉定调 Claude Design：DS 才是入场券，UI 自动化让位 UX 设计"
 description: "**Claude Design 的真正价值不是 UI 像素生成，而是 UX 层面的协作——前提是你已有 Design System。**  宝玉厘清 Claude Design 的适用边界： - 关键前提：用户必须先有 Design System（DS），UI 规范已在 DS 层固化，Claude Design 才能在 DS 框架内做变体 - 价值位移：没 DS 的团队用 Claude Desig"
 resource: "https://x.com/i/status/2063721890695315717"
@@ -22,6 +22,13 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "claude-design-disruption"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2063721890695315717"
+created: "2026-06-07"
+updated: "2026-06-26"
+sha256: "af38d0122ab7bcfbfe6d10f9f742a98b31194de93d3bcb73fab0e046456cf725"
+sources:
+  - "/sources/news/2026-06-07/00__dotey__宝玉定调-claude-design-ds-才是入场券-ui-自动化让位-ux-设计.md"
 ---
 
 # 宝玉定调 Claude Design：DS 才是入场券，UI 自动化让位 UX 设计

@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "AI交易Agent开源：x402微支付协议正在重构「API调用权」的商业模式"
 description: "**【从「API Key绑定用户」到「钱包地址即身份」，Agent经济自主权的支付层正在成型】**  • x402协议的核心创新：USDC钱包替代API Key，实现「无许可调用 + 按量付费」 • 多模型路由：DeepSeek/Claude/GPT/Gemini/Grok 10+模型开箱即用，ClawRouter 支持41+模型智能调度 • CEX+DEX全覆盖：Binance/Bybit/OK"
 resource: "https://x.com/i/status/2035896187967218007"
@@ -22,6 +22,13 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "ai-crypto-agent-infra"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2035896187967218007"
+created: "2026-03-23"
+updated: "2026-06-26"
+sha256: "394f0ec308818bef8ee133f05ce2b9fea49746d9a256d481767e7c8d400880ab"
+sources:
+  - "/sources/news/2026-03-24/00__NFTCPS__ai交易agent开源-x402微支付协议正在重构-api调用权-的商业模式.md"
 ---
 
 # AI交易Agent开源：x402微支付协议正在重构「API调用权」的商业模式

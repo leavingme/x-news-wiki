@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "X 平台算法反复推送已读内容：信息茧房正在从\"你爱看\"进化到\"强迫你看\""
 description: "**X 平台的算法正在把\"用户看过\"的内容当成\"用户想看\"反复置顶，这不是个性化，是强制复读。**  - 问题的本质不是\"推荐不准\"，而是平台把已读内容纳入权重后，导致信息面越来越窄——用户被动陷入\"复读陷阱\" - 从产品设计看，这更像是为了提升 DAU/时长的干预手段，而非真正的推荐优化 - 这个问题在中文内容生态里更严重：中文信源本来就相对封闭，加上算法复读，信息茧房效应会被指数级放大   当"
 resource: "https://x.com/i/status/2059476975618797673"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2059476975618797673"
+created: "2026-05-27"
+updated: "2026-06-26"
+sha256: "9f1da187f2fa3a8016ba7126a680ff6363b41ce2cbcf2bc96565ac971fe433f2"
+sources:
+  - "/sources/news/2026-05-27/00__mranti__x-平台算法反复推送已读内容-信息茧房正在从-你爱看-进化到-强迫你看.md"
 ---
 
 # X 平台算法反复推送已读内容：信息茧房正在从"你爱看"进化到"强迫你看"

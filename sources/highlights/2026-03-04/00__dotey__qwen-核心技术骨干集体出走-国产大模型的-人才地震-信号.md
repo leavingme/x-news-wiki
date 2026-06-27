@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Qwen 核心技术骨干集体出走：国产大模型的「人才地震」信号"
 description: "**[核心骨干非自愿离职，国产大模型「静默竞争」背后藏人事震荡]**  • Qwen 技术负责人 Junyang Lin 与核心成员 Binyuan Hui 同日离职，贡献者证实「并非自愿」，团队刚刚发布 Qwen3.5 小模型系列，时间线耐人寻味。 • 国产大模型「不声张」竞争策略下，头部团队人才稳定性成为关键变量，技术壁垒与组织能力的博弈进入新阶段。 • 蜂群战术式的产品矩阵打法，是否掩盖了核"
 resource: "https://x.com/i/status/2028904169986203703"
@@ -22,6 +22,13 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "domestic-model-competition"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2028904169986203703"
+created: "2026-03-03"
+updated: "2026-06-26"
+sha256: "919449deccf1d802d8c30def36cd20bdc0b6fe65e54cfec561db1afc49e3f86c"
+sources:
+  - "/sources/highlights/2026-03-04/00__dotey__qwen-核心技术骨干集体出走-国产大模型的-人才地震-信号.md"
 ---
 
 # Qwen 核心技术骨干集体出走：国产大模型的「人才地震」信号

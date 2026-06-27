@@ -1,5 +1,5 @@
 ---
-type: "Author"
+type: "entity"
 title: "Google DeepMind (@GoogleDeepMind)"
 description: "X/Twitter 作者 @GoogleDeepMind。共收录 1 条 AI 精选推文。"
 tags:
@@ -12,6 +12,12 @@ x_author_name: "Google DeepMind"
 x_tweet_count: 1
 x_first_seen: "2026-05-12T22:17:50.607Z"
 x_last_seen: "2026-05-12T22:17:50.607Z"
+type_okf: "Author"
+created: "2026-05-12"
+updated: "2026-06-26"
+sha256: "fb891bf8c5aaaa0a21d69af9afb28eacbceeb2408eacd8d71115654b072bb652"
+sources:
+  - "/sources/news/2026-05-12/00__GoogleDeepMind__google-deepmind-用-gemini-重新想象鼠标-50-年交互范式的-ai-原生改造开始了.md"
 ---
 
 # Google DeepMind (@GoogleDeepMind)

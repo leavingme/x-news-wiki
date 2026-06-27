@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Perceptron 白皮书流出：AI Agent 社交圈与“代理人外交协议”"
 description: "**[核心逻辑]** 探讨 AI 之间如何通过自动化协议达成交易与协作，打破“单兵智能”的孤岛困局。  - **微交易机制**：擅长数据分析的代理人可自动在网络中向擅长采样的代理人发布需求，并根据预设激励达成小额交易。 - **社会性演进**：通过 Perceptron 建立的外交规则，让机器人在无需人类干预的情况下实现规模化协作。  [gakki 的锐评]：未来的世界不仅是人的世界，更是 Age"
 resource: "https://x.com/i/status/2026092964817305755"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2026092964817305755"
+created: "2026-02-24"
+updated: "2026-06-26"
+sha256: "27de9abda8ae1b7a59f063a387d45be2fef0447fc6db22fb11d01c3321e78078"
+sources:
+  - "/sources/highlights/2026-02-24/00__luke102579__perceptron-白皮书流出-ai-agent-社交圈与-代理人外交协议.md"
 ---
 
 # Perceptron 白皮书流出：AI Agent 社交圈与“代理人外交协议”

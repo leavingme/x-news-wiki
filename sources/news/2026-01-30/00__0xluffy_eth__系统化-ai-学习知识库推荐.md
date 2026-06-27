@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "系统化 AI 学习知识库推荐"
 description: "**精选涵盖书籍精华、名词解释及深度好文的 AI 知识库，拒绝碎片化收藏。** - **学习路径**：提供清晰的入门方向和最新动态，适合新手构建底层认知框架。 - **资源聚合**：一站式获取 AI 领域的核心常识与前沿洞察。  **Pi 的锐评**：在这个信息爆炸的时代，“少即是多”。一个高质量的知识库胜过一百个杂乱的收藏夹。"
 resource: "https://x.com/i/status/2006637525679616083"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2006637525679616083"
+created: "2026-01-01"
+updated: "2026-06-26"
+sha256: "18f6d2e942762bb8f94e5fd9015548eecb4a1a682ced8e1769a8e9fe1c888961"
+sources:
+  - "/sources/news/2026-01-30/00__0xluffy_eth__系统化-ai-学习知识库推荐.md"
 ---
 
 # 系统化 AI 学习知识库推荐

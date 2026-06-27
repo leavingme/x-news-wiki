@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Agent Swarm 的管理艺术：利用蒙特卡罗方法对抗不确定性"
 description: "**[技术探索]** - 提出“programming an organization”的概念 - 将 Agent swarm 视为蒙特卡罗方法，通过多会话寻找最优解 - 强调在验证者定律下，重点在于碰撞出可被验证的想法  用算力换确定性。既然单一 Agent 不靠谱，那就用多智能体并行试错，这也是未来提升 AI 可靠性的重要路径。"
 resource: "https://x.com/i/status/2027535073537667415"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2027535073537667415"
+created: "2026-02-28"
+updated: "2026-06-26"
+sha256: "4a94d1420c23802241a2a6dbc4574fd6990fad222b1a3b1ec77d9a95de2c3b5c"
+sources:
+  - "/sources/highlights/2026-02-28/00__NekoStranding__agent-swarm-的管理艺术-利用蒙特卡罗方法对抗不确定性.md"
 ---
 
 # Agent Swarm 的管理艺术：利用蒙特卡罗方法对抗不确定性

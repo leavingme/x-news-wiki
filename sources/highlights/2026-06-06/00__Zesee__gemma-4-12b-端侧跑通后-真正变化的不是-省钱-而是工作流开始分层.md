@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Gemma 4 12B 端侧跑通后，真正变化的不是「省钱」，而是工作流开始分层"
 description: "**16GB 笔记本能跑多模态模型之后，AI 用法从「一个最强模型通吃」转向「按任务分级调度」。**  要点： - 云端大模型不是被替代，而是被重新定位为「专家判断」节点；本地小模型接管反复发生、隐私敏感、低成本环节（纪要整理、素材初筛、图片打标签、文档归类）。 - 隐性的浪费被点破：以前所有任务被当成同一种任务处理；真实工作里，助理工作和专家工作应该分给不同层级的「人」。 - 「少花 API 钱"
 resource: "https://x.com/i/status/2063131769600131109"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2063131769600131109"
+created: "2026-06-06"
+updated: "2026-06-26"
+sha256: "1f96a0659d4bfc5daa26521ad7f6b113296617e27d01a97768d464e6796ba1a3"
+sources:
+  - "/sources/highlights/2026-06-06/00__Zesee__gemma-4-12b-端侧跑通后-真正变化的不是-省钱-而是工作流开始分层.md"
 ---
 
 # Gemma 4 12B 端侧跑通后，真正变化的不是「省钱」，而是工作流开始分层

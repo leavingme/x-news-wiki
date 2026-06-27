@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "技术视角的反思：蒸馏是“能力汲取”还是正当的知识学习？"
 description: "**[核心逻辑]** 资深用户对“蒸馏即攻击”的叙事提出质疑，认为通过 API 获取高质量反馈与人类阅读书籍学习并无二致。  - 蒸馏行为并不消耗或破坏对方服务器的额外性能，未构成传统意义上的网络攻击。 - Meta 等美国公司同样存在蒸馏中国模型或抓取全球受版权保护作品的行为。 - AI 时代的版权与知识边界仍处于混沌状态，巨头的“安全指控”更多是商业利益的防御性话术。  [gakki 的锐评]"
 resource: "https://x.com/i/status/2026135206898643345"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2026135206898643345"
+created: "2026-02-24"
+updated: "2026-06-26"
+sha256: "3171a0add818f1a488a6d3c20225298ac109ea3aa55a6d77dfb41059d23a2b55"
+sources:
+  - "/sources/highlights/2026-02-25/00__mranti__技术视角的反思-蒸馏是-能力汲取-还是正当的知识学习.md"
 ---
 
 # 技术视角的反思：蒸馏是“能力汲取”还是正当的知识学习？

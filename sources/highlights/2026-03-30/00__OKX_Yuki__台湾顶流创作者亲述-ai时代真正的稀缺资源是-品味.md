@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "台湾顶流创作者亲述：AI时代真正的稀缺资源是「品味」"
 description: "**【当所有人能用AI，品味才是不可复制的壁垒】**  Joeman 做了十几年视频，从开箱到转型全透明公开，积累300万粉丝。他透露现在90%实拍+10% AI工具（Seedance），制作反而比纯实拍更高效。  • **核心洞察**：AI降低的是「制作门槛」，而非「内容判断力」。当剪辑、特效、配音都可以AI完成，观众想看的依然是「真实的人」和「不可替代的品味」。 • **台湾市场特殊性**：主"
 resource: "https://x.com/i/status/2038272331957858771"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2038272331957858771"
+created: "2026-03-29"
+updated: "2026-06-26"
+sha256: "0601d5a947ec6d797d823cc27e44658dfdd7e82cc24b0d69e2f528e642ecc85a"
+sources:
+  - "/sources/highlights/2026-03-30/00__OKX_Yuki__台湾顶流创作者亲述-ai时代真正的稀缺资源是-品味.md"
 ---
 
 # 台湾顶流创作者亲述：AI时代真正的稀缺资源是「品味」

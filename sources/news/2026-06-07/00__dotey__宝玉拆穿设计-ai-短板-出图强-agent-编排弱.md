@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "宝玉拆穿设计 AI 短板：出图强，agent 编排弱"
 description: "**设计类 AI 工具的核心能力断层被宝玉一句话点破**。 - \"设计能力不错，agent 能力不行\"——这是对当前一批可视化设计/前端生成工具的精准定性 - 工具能产出漂亮成品，但难以被嵌入多步骤工作流（接收上游需求、向下游交付、版本管理、协作） - 与 ID 2063447800482759107 \"本地可闭环修改设计\" 对照阅读：单点交互够用，但放进 agent pipeline 就掉链子 "
 resource: "https://x.com/i/status/2063459192820629941"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2063459192820629941"
+created: "2026-06-07"
+updated: "2026-06-26"
+sha256: "85ca64e2fd80dc64398cf336eaf06225e416b8dd41a2591cda3d0b7bb8fb908c"
+sources:
+  - "/sources/news/2026-06-07/00__dotey__宝玉拆穿设计-ai-短板-出图强-agent-编排弱.md"
 ---
 
 # 宝玉拆穿设计 AI 短板：出图强，agent 编排弱

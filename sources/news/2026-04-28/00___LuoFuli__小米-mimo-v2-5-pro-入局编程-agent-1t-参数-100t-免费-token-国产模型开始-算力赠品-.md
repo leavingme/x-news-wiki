@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "小米 MiMo-V2.5 Pro 入局编程 Agent：1T 参数 + 100T 免费 Token，国产模型开始「算力赠品」竞赛"
 description: "**[一句话核心判断]**  MiMo-V2.5-Pro（1T 总参数，Code Agent 定位）开源且附赠 100T 免费 Token，是国产大模型公司首次以「增长打法」正面进攻开发者工具市场——模型性能之外，生态锁定成为新战场。  **后续要点：** - 产品分层：MiMo-V2.5-Pro 专注射程 Agent，MiMo-V2.5 覆盖多模态 Agent，形成差异化场景覆盖 - 商业意图："
 resource: "https://x.com/_LuoFuli/status/2048851054662762618"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "ai-trend-digest"
+type_okf: "X Tweet"
+source_url: "https://x.com/_LuoFuli/status/2048851054662762618"
+created: "2026-04-27"
+updated: "2026-06-26"
+sha256: "a7d8a24c6157273c3ebb5370342610b4900820e910444e1b2540f0fa90395a89"
+sources:
+  - "/sources/news/2026-04-28/00___LuoFuli__小米-mimo-v2-5-pro-入局编程-agent-1t-参数-100t-免费-token-国产模型开始-算力赠品-.md"
 ---
 
 # 小米 MiMo-V2.5 Pro 入局编程 Agent：1T 参数 + 100T 免费 Token，国产模型开始「算力赠品」竞赛

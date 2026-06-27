@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Vibe Coding 过山车：被 AI 催着跑到「慢就是快」的反转"
 description: "**[Vibe Coding 的认知陷阱：速度幻觉是它的第一个受害者]**  小互的亲身体验很有代表性：第一阶段被 AI 带着飞，觉得人类睡觉是「愚蠢设定」；第二阶段做了一些小项目后，反而回归「慢就是快」「勿期必」——不制造垃圾，日拱一卒。  这是一个典型的技术采用心理周期，Vibe Coding 放大了这个cycle的振幅。  **gakki锐评：** 「不要做 AI 的奴隶」这句话听起来像警告"
 resource: "https://x.com/i/status/2044430488270700616"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2044430488270700616"
+created: "2026-04-15"
+updated: "2026-06-26"
+sha256: "b6993eaef32e7f46ea41b9f0e2f15ec6780385b0b9abc4a0311dfb6c7b681122"
+sources:
+  - "/sources/news/2026-04-16/00__xiaohu__vibe-coding-过山车-被-ai-催着跑到-慢就是快-的反转.md"
 ---
 
 # Vibe Coding 过山车：被 AI 催着跑到「慢就是快」的反转

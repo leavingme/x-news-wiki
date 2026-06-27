@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "高盛内部研讨会泄露：AI交易根本没结束，市场在切换淘汰逻辑"
 description: "**【AI叙事没有错，只是市场开始用尺子量了】**  高盛内部研讨会揭露当前市场真相：分歧不在「AI还行不行」，而在两件事——半导体CapEx有没有见顶、软件/云厂商何时能把AI变成实打实的ROI和GAAP盈利。  核心结论三连：1）钱正从「无差别追龙头」切换到「严苛要CapEx可见度、ROI证据」；2）半导体内部资金向memory/ASIC集中，因为这两个品类能立刻体现稀缺性或效率提升；3）软件"
 resource: "https://x.com/i/status/2034548461442404583"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2034548461442404583"
+created: "2026-03-19"
+updated: "2026-06-26"
+sha256: "0180f23989e3e4234817c4928a7077c33c58c6eeef97d72723e64f384248ba9b"
+sources:
+  - "/sources/highlights/2026-04-12/00__Ariston_Macro__高盛内部研讨会泄露-ai交易根本没结束-市场在切换淘汰逻辑.md"
 ---
 
 # 高盛内部研讨会泄露：AI交易根本没结束，市场在切换淘汰逻辑

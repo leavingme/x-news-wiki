@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Karpathy 给创业者的地图：大厂产品路线图可预测，留下的口袋正在显现"
 description: "**大厂 AI 产品路线越来越可预测，创业者反而有了「避坑地图」。**  - Karpathy 坦言看好一个产品方向，但判断 OAI 不会继续推（合理），希望创业团队克隆并迭代 - 核心洞察：大厂产品路线图已经「clear and predictable」，这恰恰给创业者留出大块机会窗 - 与「先发优势再审视」逻辑一致：当巨头路线透明时，后发者反而能用更少资源精准切入被忽视的细分 - 对当下的启示"
 resource: "https://x.com/i/status/2042615713219908059"
@@ -22,6 +22,13 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "first-mover-advantage-ai-era"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2042615713219908059"
+created: "2026-04-10"
+updated: "2026-06-26"
+sha256: "0e71f7c5a9c5206b40affeb7ced8b924e7d0d2de2e47ff4e398b723424405584"
+sources:
+  - "/sources/news/2026-06-25/00__karpathy__karpathy-给创业者的地图-大厂产品路线图可预测-留下的口袋正在显现.md"
 ---
 
 # Karpathy 给创业者的地图：大厂产品路线图可预测，留下的口袋正在显现

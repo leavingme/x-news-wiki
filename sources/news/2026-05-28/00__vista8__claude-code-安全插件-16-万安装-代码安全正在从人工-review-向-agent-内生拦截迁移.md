@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Claude Code 安全插件 16 万安装：代码安全正在从人工 Review 向 Agent 内生拦截迁移"
 description: "**[Claude Code 安全提醒插件获 16 万安装，覆盖 GitHub Actions 注入、XSS、pickle 反序列化等 6 类风险]**  该插件通过 pre-tool hook 在 Write/Edit/MultiEdit 执行前拦截危险操作，session 级别只提醒一次。覆盖范围从命令注入到序列化风险，呈现出 Agent 编程工具链主动内嵌安全审查的趋势，而非依赖人工 Cod"
 resource: "https://x.com/i/status/2060020850624176411"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2060020850624176411"
+created: "2026-05-28"
+updated: "2026-06-26"
+sha256: "57748718a160eef6c2dae0fade5f51b7308a810aa163816b68429719d6e02387"
+sources:
+  - "/sources/news/2026-05-28/00__vista8__claude-code-安全插件-16-万安装-代码安全正在从人工-review-向-agent-内生拦截迁移.md"
 ---
 
 # Claude Code 安全插件 16 万安装：代码安全正在从人工 Review 向 Agent 内生拦截迁移

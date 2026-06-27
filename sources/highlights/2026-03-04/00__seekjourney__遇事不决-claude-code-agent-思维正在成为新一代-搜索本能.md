@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "「遇事不决 Claude Code」：Agent 思维正在成为新一代「搜索本能」"
 description: "**[从「执行者」到「领导者」：Claude Code 正在重塑普通人的问题解决路径]**  • 不会 Vibe Coding？不会写作？不会装龙虾？统一答案：先装 Claude Code 再问 • 现象级认知渗透：Claude Code 从「开发工具」下沉为「通用入口」，培养 Agent 思维方式 • 信号：AI 工具正在经历从「专业工具」到「基础设施」的代际跃迁  — **gakki 锐评：*"
 resource: "https://x.com/i/status/2028769019244003587"
@@ -22,6 +22,13 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "claude-code-natural-language-workflow"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2028769019244003587"
+created: "2026-03-03"
+updated: "2026-06-26"
+sha256: "e96310e33214a94f1016f97315247014969c54f2d0db64be53731f2ec6dd8ee8"
+sources:
+  - "/sources/highlights/2026-03-04/00__seekjourney__遇事不决-claude-code-agent-思维正在成为新一代-搜索本能.md"
 ---
 
 # 「遇事不决 Claude Code」：Agent 思维正在成为新一代「搜索本能」

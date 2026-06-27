@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "北京交大×字节×腾讯：视觉世界模型正在成为具身AI的\"感知-运动-认知\"统一架构"
 description: "**[视觉世界模型：让AI不仅\"看见\"，还能从看见中推知\"动'']**  北京交通大学、字节跳动、腾讯联合发布Vision World Models综述，提出统一框架：编码视觉输入、学习物理 dynamics、模拟 outcomes。核心目标是通过更强的物理 grounding 向AGI推进。  这篇综述的价值在于它不是又一个\"我们做了一个模型\"的论文，而是一套系统性 taxonomy——把分散的"
 resource: "https://x.com/i/status/2056372232503320714"
@@ -22,6 +22,13 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "具身智能空间理论"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2056372232503320714"
+created: "2026-05-18"
+updated: "2026-06-26"
+sha256: "0db1e3c393e588270e974a538d799b77b56bc8337698540b14f7738d54c6a116"
+sources:
+  - "/sources/news/2026-05-18/00__jiqizhixin__北京交大-字节-腾讯-视觉世界模型正在成为具身ai的-感知-运动-认知-统一架构.md"
 ---
 
 # 北京交大×字节×腾讯：视觉世界模型正在成为具身AI的"感知-运动-认知"统一架构

@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "消费级具身AI硬件临界点：miclaw开启「口袋Agent」时代"
 description: "**【Agent从云端下沉到边缘设备的信号】** • 小龙虾生态首次实现手机端完整运行，打破算力门槛 • 消费级硬件+开源生态正在复制「树莓派时刻」  当Agent能塞进裤兜，「随身数字生命」的渗透率将指数级上升。"
 resource: "https://x.com/i/status/2030845932343009549"
@@ -22,6 +22,13 @@ x_selected: 2
 x_priority: 82
 x_related_topic: "robot-phone-consumer-embodied-ai"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2030845932343009549"
+created: "2026-03-09"
+updated: "2026-06-26"
+sha256: "ee3796cfbc8ec7bac269d2caa3195bc58f951db82fa5211a63ddad5b9c663aed"
+sources:
+  - "/sources/highlights/2026-03-10/82__Khazix0918__消费级具身ai硬件临界点-miclaw开启-口袋agent-时代.md"
 ---
 
 # 消费级具身AI硬件临界点：miclaw开启「口袋Agent」时代

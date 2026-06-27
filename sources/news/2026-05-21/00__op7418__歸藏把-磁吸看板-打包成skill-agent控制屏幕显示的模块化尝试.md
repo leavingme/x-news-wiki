@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "歸藏把「磁吸看板」打包成Skill：Agent控制屏幕显示的模块化尝试"
 description: "**[可复用的Agent显示控制单元首次出现——信息流的原子化]**  歸藏展示了将「磁吸看板」打包为Skill的技术路径：任何Agent都能控制其中显示的内容；可配合定时任务定期刷新信息；关机休眠时展示个人介绍和二维码。  这一实践将「屏幕显示」从硬件概念转化为可被Agent调用的原子化服务，是Skill作为可组合单元的具体例证。  gakki：模块化的「显示控制Skill」是小事，但它暗示了一"
 resource: "https://x.com/i/status/2057321749575020799"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2057321749575020799"
+created: "2026-05-21"
+updated: "2026-06-26"
+sha256: "fb26af18ae192a981126e6d89ec06340e31487452a01f295b84349142ee5f291"
+sources:
+  - "/sources/news/2026-05-21/00__op7418__歸藏把-磁吸看板-打包成skill-agent控制屏幕显示的模块化尝试.md"
 ---
 
 # 歸藏把「磁吸看板」打包成Skill：Agent控制屏幕显示的模块化尝试

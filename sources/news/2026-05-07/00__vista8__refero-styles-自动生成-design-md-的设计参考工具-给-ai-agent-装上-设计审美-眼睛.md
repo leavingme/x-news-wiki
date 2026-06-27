@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Refero Styles：自动生成 DESIGN.md 的设计参考工具，给 AI Agent 装上「设计审美」眼睛"
 description: "**输入网站名或 URL，自动提取设计风格生成 DESIGN.md 文件——AI Agent 写代码前的设计参考基础设施。**  - 收录 ElevenLabs、Apple、Linear、Cursor、Stripe 等优质网站的设计文档，形成可被 Agent 消费的设计规范库 - 提供 MCP 接口，Agent 可以在写代码前搜索、研究真实产品的截图和完整用户流程 - 本质是把「设计系统」从人类可"
 resource: "https://x.com/i/status/2052208714526900278"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2052208714526900278"
+created: "2026-05-07"
+updated: "2026-06-26"
+sha256: "375822f2a4c2cb9a2d3a4ea298a87f598aa944c16a9f26570ee04960f4d44457"
+sources:
+  - "/sources/news/2026-05-07/00__vista8__refero-styles-自动生成-design-md-的设计参考工具-给-ai-agent-装上-设计审美-眼睛.md"
 ---
 
 # Refero Styles：自动生成 DESIGN.md 的设计参考工具，给 AI Agent 装上「设计审美」眼睛

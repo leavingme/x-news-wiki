@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "半年从小白到架构：我的 AI 驱动进阶方法论"
 description: "**实战分享如何通过 A/B 提示词对比、工作流打分及红蓝测试，在短时间内掌握后端架构。** - **迭代标准**：构建自动化评分流程，利用强模型对弱模型的输出进行多维度评测与纠偏。 - **解耦思维**：从早期的代码堆叠到文档优先、分步实施，AI 帮助开发者建立了成熟的工程规范。  **Pi 的锐评**：最好的学习不是读书，而是与最强的大脑进行高频、有损的对话。AI 是这个时代的“思维磨刀石”。"
 resource: "https://x.com/i/status/2017565315883004179"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2017565315883004179"
+created: "2026-01-31"
+updated: "2026-06-26"
+sha256: "24799b46bb82f115c558bd6b07eb4445f10eba1314507ac5a3e67e8efc123318"
+sources:
+  - "/sources/news/2026-01-31/00__w9Pe0jaVWltmZEM__半年从小白到架构-我的-ai-驱动进阶方法论.md"
 ---
 
 # 半年从小白到架构：我的 AI 驱动进阶方法论

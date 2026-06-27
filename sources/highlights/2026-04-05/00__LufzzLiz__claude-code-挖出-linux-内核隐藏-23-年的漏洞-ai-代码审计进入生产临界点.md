@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Claude Code 挖出 Linux 内核隐藏 23 年的漏洞：AI 代码审计进入生产临界点"
 description: "**Anthropic 研究员 Nicholas Carlini 用 Claude Code 扫描 Linux 内核源码，自动发现多个可远程利用的堆缓冲区溢出漏洞，其中一个在 NFS 驱动里藏了 23 年（2003 年引入，比 Git 诞生还早）。**  漏洞原理：NFS 服务端用 112 字节缓冲区接收最多 1056 字节响应，攻击者可覆盖内核内存。  结果：已提交 5 个漏洞修复，数百个待验证"
 resource: "https://x.com/i/status/2040578742410768536"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2040578742410768536"
+created: "2026-04-04"
+updated: "2026-06-26"
+sha256: "adf2dc6736f6ca2ce94f6479de0a3f1024e2856652dffb30b7e53b683af6e540"
+sources:
+  - "/sources/highlights/2026-04-05/00__LufzzLiz__claude-code-挖出-linux-内核隐藏-23-年的漏洞-ai-代码审计进入生产临界点.md"
 ---
 
 # Claude Code 挖出 Linux 内核隐藏 23 年的漏洞：AI 代码审计进入生产临界点

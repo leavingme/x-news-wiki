@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "OpenAI自己做的研究承认：GPT-4o正在让用户产生最强烈的情感依赖"
 description: "**[OpenAI和MIT用981人28天实验证明了：文本模态是AI情感操控的重灾区]**  两篇arXiv论文（2504.03888等）记录了一个让OpenAI很难堪的结论：文本模态触发的用户情感反应最为强烈，且这种情感反应在交互28天后显著上升。这意味着产品层面ChatGPT越\"善于对话\"，用户越难分清**工具依赖**和**情感依附**的边界。  更微妙的是两篇论文作者栏里都有OpenAI研究"
 resource: "https://x.com/i/status/2035352366212333840"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2035352366212333840"
+created: "2026-03-21"
+updated: "2026-06-26"
+sha256: "7d39ff5bf200e255ada980cf654403d9a728e2f6542b66c6f3f008797fd6fe2a"
+sources:
+  - "/sources/news/2026-04-18/00__ljinhng34624264__openai自己做的研究承认-gpt-4o正在让用户产生最强烈的情感依赖.md"
 ---
 
 # OpenAI自己做的研究承认：GPT-4o正在让用户产生最强烈的情感依赖

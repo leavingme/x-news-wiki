@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "向阳乔木实测：Codex 接受模糊 Goal 也能跑 6 小时——Codex 的 Goal 容忍度被低估了"
 description: "**Codex 对 Goal 指令的精度门槛，比多数人想象的要低得多。**  - 向阳乔木给 Codex 的 Goal 是模糊的：\"迭代优化网站，让站长和用户都能用 AI 翻译/重写，沉淀有价值信息\"——没有 SMART 指标，没有验收标准 - Codex 自主跑了 6 小时，从 Claude Fable 5 生成的首版开始迭代，已经实装：内容自动更新、AI 转写、双语对照、用户配置大模型、翻译与"
 resource: "https://x.com/i/status/2064875019868725551"
@@ -22,6 +22,13 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "codex-cli-tool-encapsulation"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2064875019868725551"
+created: "2026-06-11"
+updated: "2026-06-26"
+sha256: "15a6432132442362d977fa2bdddc08f0efb2c43fdf7a72f8fdaf3f5a3a7a5422"
+sources:
+  - "/sources/highlights/2026-06-11/00__vista8__向阳乔木实测-codex-接受模糊-goal-也能跑-6-小时-codex-的-goal-容忍度被低估了.md"
 ---
 
 # 向阳乔木实测：Codex 接受模糊 Goal 也能跑 6 小时——Codex 的 Goal 容忍度被低估了

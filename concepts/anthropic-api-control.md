@@ -1,5 +1,5 @@
 ---
-type: "Concept"
+type: "concept"
 title: "anthropic-api-control"
 description: "跨日主题 \"anthropic-api-control\"，共 5 条相关精选推文。"
 tags:
@@ -11,6 +11,16 @@ x_topic_slug: "anthropic-api-control"
 x_tweet_count: 5
 x_first_seen: "2026-04-24T00:42:29.992Z"
 x_last_seen: "2026-06-11T16:19:07.665Z"
+type_okf: "Concept"
+created: "2026-04-24"
+updated: "2026-06-26"
+sha256: "3f32b87fac32eb3f1a2700dcc9817c2232b425215db301d4a8da24df46220fd1"
+sources:
+  - "/sources/highlights/2026-04-24/00__op7418__claude-桌面端解锁第三方模型-api-管控的裂缝已开.md"
+  - "/sources/highlights/2026-04-27/00__om_patel5__anthropic单方面封禁110人公司-平台治理-先斩后奏-成行业隐患.md"
+  - "/sources/highlights/2026-04-30/00__lxfater__claude-code-对-openclaw-的封杀升级-json-文件提及即拒绝-anthropic-正在系统性摧毁开.md"
+  - "/sources/highlights/2026-06-10/00__oran_ge__claude-fable-5-三道奇葩边界-逼-api-锁生物-禁竞品训练.md"
+  - "/sources/news/2026-06-11/00__gkxspace__anthropic反欺诈升级-余温用-住宅ip-独立vps中转-三层反制.md"
 ---
 
 # 主题: anthropic-api-control

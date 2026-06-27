@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Claude Opus 4.7回溯百大发明时间线：90%发明在条件成熟后50年内出现，真正瓶颈是工程而非科学"
 description: "**[AI正在成为人类认知历史的新工具——但这次是用统计视角重构「发明史」]** - 向阳乔木用Claude Opus 4.7分析百余项历史发明的时间窗口 - 核心发现：90%重大发明在技术条件成熟后50年内出现，人类并不怎么拖延 - 关键洞察：卡住发明的通常不是科学理论，是材料与工艺的工程瓶颈（飞机等轻型发动机、喷气发动机等高温合金） - 医疗领域是唯一例外——试错成本过高导致等待时间远超其他领"
 resource: "https://x.com/i/status/2053484686840881158"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2053484686840881158"
+created: "2026-05-10"
+updated: "2026-06-26"
+sha256: "0cb0562ebf6a3141347b8a14cb07b4914ddcd7bd726815f5c418fd33e1813edb"
+sources:
+  - "/sources/news/2026-05-10/00__vista8__claude-opus-4-7回溯百大发明时间线-90-发明在条件成熟后50年内出现-真正瓶颈是工程而非科学.md"
 ---
 
 # Claude Opus 4.7回溯百大发明时间线：90%发明在条件成熟后50年内出现，真正瓶颈是工程而非科学

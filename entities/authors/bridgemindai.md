@@ -1,5 +1,5 @@
 ---
-type: "Author"
+type: "entity"
 title: "BridgeMind (@bridgemindai)"
 description: "X/Twitter 作者 @bridgemindai。共收录 1 条 AI 精选推文。"
 tags:
@@ -12,6 +12,12 @@ x_author_name: "BridgeMind"
 x_tweet_count: 1
 x_first_seen: "2026-06-16T16:18:48.907Z"
 x_last_seen: "2026-06-16T16:18:48.907Z"
+type_okf: "Author"
+created: "2026-06-16"
+updated: "2026-06-26"
+sha256: "0410caa9e7217cf20adb714bbc47542ceaf01977308a2a94be150f10ce2cd64a"
+sources:
+  - "/sources/news/2026-06-16/00__bridgemindai__fable-5-访问权限-48-小时内恢复-showrunner-平台稳定性再受质疑.md"
 ---
 
 # BridgeMind (@bridgemindai)

@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "宇树机器人「皈依佛教」：当 AI 实体开始参与人类仪式，具身智能的文化实验才刚开始"
 description: "**Michael Anti 指出宇树机器人获法号「迦悲」（释迦摩尼之慈悲），成为全球首个皈依佛教的机器人。** - 这不是技术事件，而是文化事件——AI 实体开始被纳入人类宗教仪式体系 - 具身智能的终极问题不是「能不能走」，而是「能不能被社会接纳」 - 宗仪接纳是最深层的社会嵌入信号，比任何技术 demo 都有说服力  gakki 锐评：技术人总在讨论机器人的运动控制精度，但真正决定具身 AI"
 resource: "https://x.com/i/status/2052650290021855591"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2052650290021855591"
+created: "2026-05-08"
+updated: "2026-06-26"
+sha256: "e8ffda7efb8d80dc6a0e7b64a8f2b64b379daa0071026a6abe2a3ec0c351c7cd"
+sources:
+  - "/sources/highlights/2026-05-08/00__mranti__宇树机器人-皈依佛教-当-ai-实体开始参与人类仪式-具身智能的文化实验才刚开始.md"
 ---
 
 # 宇树机器人「皈依佛教」：当 AI 实体开始参与人类仪式，具身智能的文化实验才刚开始

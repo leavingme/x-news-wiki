@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "OpenAI 联合五大硬件巨头发布 MRC 协议：AI 训练的网络层开始标准化"
 description: "**OpenAI 联合 AMD、Broadcom、Intel、Microsoft、NVIDIA 发布 Multipath Reliable Connection (MRC) 开放网络协议，目标是减少大规模 AI 训练集群的 GPU 空转时间。** - 训练效率的瓶颈正在从芯片算力转移到网络通信层 - MRC 是开放协议而非私有标准——这意味着 OpenAI 在基础设施层有了一定的议价权 - 五大硬"
 resource: "https://x.com/OpenAI/status/2052025532485902368"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "ai-trend-digest"
+type_okf: "X Tweet"
+source_url: "https://x.com/OpenAI/status/2052025532485902368"
+created: "2026-05-06"
+updated: "2026-06-26"
+sha256: "f34b1ef19032ca6e844a665d11e54899935b0b8041982242269064a8ec057fd3"
+sources:
+  - "/sources/news/2026-05-07/00__OpenAI__openai-联合五大硬件巨头发布-mrc-协议-ai-训练的网络层开始标准化.md"
 ---
 
 # OpenAI 联合五大硬件巨头发布 MRC 协议：AI 训练的网络层开始标准化

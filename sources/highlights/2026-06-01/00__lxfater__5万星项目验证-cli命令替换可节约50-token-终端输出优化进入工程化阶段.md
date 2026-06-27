@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "5万星项目验证：CLI命令替换可节约50% Token，终端输出优化进入工程化阶段"
 description: "**[ Token 消耗优化的下一个突破口：CLI 命令层面的信息密度重构 ]**  一个 5 万星的项目揭示了被普遍忽视的优化路径：用返回信息精简的命令替代返回信息冗余的命令，从而实现 Token 消耗的显著降低。这一方案尚未进入主流工具的默认选项，意味着这是一片工程优化的蓝海。  在 Agent 经济性讨论中，Token 成本是核心变量。CLI 命令级优化比模型级优化更底层、更通用，具有跨模型"
 resource: "https://x.com/i/status/2061285306838774117"
@@ -22,6 +22,13 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "agent-browser-token-efficiency"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2061285306838774117"
+created: "2026-06-01"
+updated: "2026-06-26"
+sha256: "19e51af2acbad7c2c0d575e7137cdde95b0c7b5221fdb81b899e95df6540f50d"
+sources:
+  - "/sources/highlights/2026-06-01/00__lxfater__5万星项目验证-cli命令替换可节约50-token-终端输出优化进入工程化阶段.md"
 ---
 
 # 5万星项目验证：CLI命令替换可节约50% Token，终端输出优化进入工程化阶段

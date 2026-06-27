@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "语音AI终于学会\"等你说完再接话\"：动态判停进入生产级"
 description: "**动态判停（turn-taking）是端到端语音交互从\"能听懂\"跨到\"能用\"的分水岭。**  - 难点在时机拿捏：思考停顿、说完了、嗯嗯啊啊三种状态要精准区分 - 判停错就抢话或冷场，直接毁掉对话体验 - 这条能力意味着语音 Agent 从 demo 跨入生产可用区间  **gakki 锐评**：判停错一次用户就再也不会信任，比识别错还致命。能稳定做到\"等你真正说完\"是基础设施层硬指标，不是花活"
 resource: "https://x.com/i/status/2067851013621780837"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2067851013621780837"
+created: "2026-06-19"
+updated: "2026-06-26"
+sha256: "cff190f76db71bf40e55ee93538125abd196198aeec9ac76d17dea0bdd8ff29a"
+sources:
+  - "/sources/news/2026-06-19/00__xiaohu__语音ai终于学会-等你说完再接话-动态判停进入生产级.md"
 ---
 
 # 语音AI终于学会"等你说完再接话"：动态判停进入生产级

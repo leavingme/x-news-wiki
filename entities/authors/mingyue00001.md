@@ -1,5 +1,5 @@
 ---
-type: "Author"
+type: "entity"
 title: "明月总伴深情 (@mingyue00001)"
 description: "X/Twitter 作者 @mingyue00001。共收录 1 条 AI 精选推文。"
 tags:
@@ -12,6 +12,12 @@ x_author_name: "明月总伴深情"
 x_tweet_count: 1
 x_first_seen: "2026-04-05T00:42:57.316Z"
 x_last_seen: "2026-04-05T00:42:57.316Z"
+type_okf: "Author"
+created: "2026-04-05"
+updated: "2026-06-26"
+sha256: "325a75838243ba5c17367f381f077d1bdc40ca73fcdda991b100db985682020c"
+sources:
+  - "/sources/news/2026-04-05/00__mingyue00001__spaace-把-ai-agent-塞进-nft-bonding-curve-24-7-自动mint-交易正在绕过传统做.md"
 ---
 
 # 明月总伴深情 (@mingyue00001)

@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "同族师生蒸馏是无效蒸馏：清华 reverse distillation 实验揭示 OPD 成功条件"
 description: "**[蒸馏有效性的边界条件被精确划定]**  清华大学团队通过反向蒸馏实验发现：学生模型从教师模型学到东西的前提是两者必须共享思维模式，且教师必须提供真正的新能力，而非仅更高的 benchmark 分数。  关键发现：同族模型（same‑family）作为师生时，学生完全无法区分二者——意味着蒸馏只是在自己骗自己。这直接挑战了业界\"大模型蒸馏小模型\"的常见实践。  研究进一步提出两个策略：off‑"
 resource: "https://x.com/i/status/2057903823809810684"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2057903823809810684"
+created: "2026-05-22"
+updated: "2026-06-26"
+sha256: "00b484a9bdc75df41fc846acd9f80a63bd9c119aad1ed0bf7f8ab6b8378f38fe"
+sources:
+  - "/sources/news/2026-05-22/00__jiqizhixin__同族师生蒸馏是无效蒸馏-清华-reverse-distillation-实验揭示-opd-成功条件.md"
 ---
 
 # 同族师生蒸馏是无效蒸馏：清华 reverse distillation 实验揭示 OPD 成功条件

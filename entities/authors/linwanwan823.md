@@ -1,5 +1,5 @@
 ---
-type: "Author"
+type: "entity"
 title: "林晚晚的猫 (@linwanwan823)"
 description: "X/Twitter 作者 @linwanwan823。共收录 2 条 AI 精选推文。"
 tags:
@@ -12,6 +12,13 @@ x_author_name: "林晚晚的猫"
 x_tweet_count: 2
 x_first_seen: "2026-01-31T13:51:06.654Z"
 x_last_seen: "2026-02-07T13:00:13.284Z"
+type_okf: "Author"
+created: "2026-01-31"
+updated: "2026-06-26"
+sha256: "0c0aebbea8583574ae9f688dbae1808d7ac1736f34b8ada70777cb73e56547ee"
+sources:
+  - "/sources/news/2026-01-31/00__linwanwan823__moltbook-爆火-15万-ai-开启-赛博进化-人类沦为围观者.md"
+  - "/sources/news/2026-02-07/00__linwanwan823__想法贬值的时代-谁能躲过-90-的失业潮.md"
 ---
 
 # 林晚晚的猫 (@linwanwan823)

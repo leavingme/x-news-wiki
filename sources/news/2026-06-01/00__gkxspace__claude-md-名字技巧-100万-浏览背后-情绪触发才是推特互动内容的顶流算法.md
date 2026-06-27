@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Claude.md 名字技巧 100万+浏览背后：情绪触发才是推特互动内容的顶流算法"
 description: "**[一句话核心判断]** 同样是\"在 CLAUDE.md 开头加每次回复时都叫我\"的技巧，发给 2.6 万浏览 vs 100 万浏览的区别在于：后者写的是\"叫我老公\"——情绪触发 vs 纯技巧，流量相差 40 倍。  **信息增量：** - 技巧本身是真的：加名字确实能触发 AI 的上下文记忆，强化人格设定 - 但真正驱动传播的是\"叫老公\"这个情绪钩子，不是技巧本身 - 验证了一个平台规律：能让"
 resource: "https://x.com/i/status/2061438613766705250"
@@ -22,6 +22,13 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "agent-memory-optimization"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2061438613766705250"
+created: "2026-06-01"
+updated: "2026-06-26"
+sha256: "bc4af29e11a64daba7e6f81f165094fac65e880323eaa45a3852c96b0f64227e"
+sources:
+  - "/sources/news/2026-06-01/00__gkxspace__claude-md-名字技巧-100万-浏览背后-情绪触发才是推特互动内容的顶流算法.md"
 ---
 
 # Claude.md 名字技巧 100万+浏览背后：情绪触发才是推特互动内容的顶流算法

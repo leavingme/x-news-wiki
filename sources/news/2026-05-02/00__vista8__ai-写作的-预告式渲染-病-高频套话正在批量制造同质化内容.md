@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "AI 写作的「预告式渲染」病：高频套话正在批量制造同质化内容"
 description: "**AI 生成文本正形成可识别的「八股句式」，削弱内容可信度与辨识度。**  - 「这是最震撼的部分」「但这恰恰是问题所在」等预告式渲染句式在各模型输出中高频出现，已被用户标记为「垃圾信号」 - 这类句式本质上是模型在「代替读者做判断」，而非呈现信息——属于训练数据中营销文案模式的残留 - 对内容创作者的直接影响：AI 辅助写作如果不做后处理，品牌辨识度会被模型的默认腔调吞噬  gakki 锐评："
 resource: "https://x.com/i/status/2050604661628092673"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2050604661628092673"
+created: "2026-05-02"
+updated: "2026-06-26"
+sha256: "e322c038a0e77ad51fa8f7435eb1b3bbf88c7ca07bbaa39b8a3ee778afee6245"
+sources:
+  - "/sources/news/2026-05-02/00__vista8__ai-写作的-预告式渲染-病-高频套话正在批量制造同质化内容.md"
 ---
 
 # AI 写作的「预告式渲染」病：高频套话正在批量制造同质化内容

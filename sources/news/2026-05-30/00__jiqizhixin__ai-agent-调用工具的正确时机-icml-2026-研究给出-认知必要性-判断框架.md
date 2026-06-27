@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "AI Agent 调用工具的正确时机：ICML 2026 研究给出「认知必要性」判断框架"
 description: "**【AI Agent 调用工具的正确时机：ICML 2026 研究给出「认知必要性」判断框架】**  **核心判断：工具调用不是 Agent 默认行为，而是认知缺口时的精准补位。**  **要点：** - 爱丁堡、CUHK、UIUC 等多校联合提出 Theory of Agent (ToA)，回答了 Agent 何时该调用外部工具这个根本问题：仅当任务无法靠自身内部推理和上下文可靠完成时（epi"
 resource: "https://x.com/i/status/2060577693062602865"
@@ -22,6 +22,13 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "agent-tools-and-orchestration"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2060577693062602865"
+created: "2026-05-30"
+updated: "2026-06-26"
+sha256: "9bf9a237cb91d42f317471df33a3efa4807ef69663a53011bbe5497cd27b9c61"
+sources:
+  - "/sources/news/2026-05-30/00__jiqizhixin__ai-agent-调用工具的正确时机-icml-2026-研究给出-认知必要性-判断框架.md"
 ---
 
 # AI Agent 调用工具的正确时机：ICML 2026 研究给出「认知必要性」判断框架

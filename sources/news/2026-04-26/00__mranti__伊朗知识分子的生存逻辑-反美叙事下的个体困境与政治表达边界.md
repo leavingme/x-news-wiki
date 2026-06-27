@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "伊朗知识分子的生存逻辑：反美叙事下的个体困境与政治表达边界"
 description: "**一句话核心判断**： Michael Anti 披露伊朗知识分子对美国军事干预的反对逻辑——不是意识形态站队，而是对\"生存确定性\"的基本诉求，这种理性在极权语境下具有穿透力。  **信息增量**： - 德黑兰自由派知识分子的反战立场来自生活经验而非政治理论，这是极权社会里知识分子与政权博弈的真实切面 - \"美国过来都不让他们活了\"揭示了制裁/战争叙事下普通人的生存算术，区别于官方宣传机器的宏大"
 resource: "https://x.com/i/status/2048463729587900475"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2048463729587900475"
+created: "2026-04-26"
+updated: "2026-06-26"
+sha256: "fdb51ac36dbd1559b3d02b7c8f01b9dc6e9968920d2485dd6ccdc6511ccdad39"
+sources:
+  - "/sources/news/2026-04-26/00__mranti__伊朗知识分子的生存逻辑-反美叙事下的个体困境与政治表达边界.md"
 ---
 
 # 伊朗知识分子的生存逻辑：反美叙事下的个体困境与政治表达边界

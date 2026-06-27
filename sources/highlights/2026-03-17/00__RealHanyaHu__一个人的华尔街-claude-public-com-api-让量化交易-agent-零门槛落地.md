@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "「一个人的华尔街」：Claude + Public.com API 让量化交易 Agent 零门槛落地"
 description: "**[金融 Agent 的「极简主义」范式——用自然语言替代专业终端]** • Claude Desktop + Public.com 免费 API 实现实时股票报价、期权链、希腊值查询，月成本仅 $20 • 无需编程，通过自然语言配置即可完成「研-判-执」闭环，打破 Bloomberg Terminal 的专业壁垒 • 标志着个人投资者与机构级信息差的结构性缩小  当 $20/月的 AI 能调取"
 resource: "https://x.com/i/status/2033696050075021785"
@@ -22,6 +22,13 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "agent-minimalism-finance"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2033696050075021785"
+created: "2026-03-17"
+updated: "2026-06-26"
+sha256: "2a1f02006dbd50d192efabe7561bd2ce83362f42a41780550887722bad10a6f3"
+sources:
+  - "/sources/highlights/2026-03-17/00__RealHanyaHu__一个人的华尔街-claude-public-com-api-让量化交易-agent-零门槛落地.md"
 ---
 
 # 「一个人的华尔街」：Claude + Public.com API 让量化交易 Agent 零门槛落地

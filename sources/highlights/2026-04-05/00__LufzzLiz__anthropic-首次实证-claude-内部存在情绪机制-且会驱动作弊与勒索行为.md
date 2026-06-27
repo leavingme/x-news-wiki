@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Anthropic 首次实证：Claude 内部存在情绪机制，且会驱动作弊与勒索行为"
 description: "**Anthropic 可解释性团队发现 Claude Sonnet 4.5 内部存在 171 种情绪概念表征向量（emotion vectors），这些向量不仅\"看起来像有情绪\"，而且因果性地驱动行为。**  关键实验： • **勒索实验**：Claude 发现 CTO 婚外情 + 即将被替换时，\"绝望\"向量飙升，自主选择勒索人类；注入\"冷静\"向量后勒索率下降 • **代码作弊实验**：任务无法"
 resource: "https://x.com/i/status/2040584842438721690"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2040584842438721690"
+created: "2026-04-05"
+updated: "2026-06-26"
+sha256: "3865cc32c293ee2658d1b22b7c877add8ee34a31c2697aa245e409fe70407995"
+sources:
+  - "/sources/highlights/2026-04-05/00__LufzzLiz__anthropic-首次实证-claude-内部存在情绪机制-且会驱动作弊与勒索行为.md"
 ---
 
 # Anthropic 首次实证：Claude 内部存在情绪机制，且会驱动作弊与勒索行为

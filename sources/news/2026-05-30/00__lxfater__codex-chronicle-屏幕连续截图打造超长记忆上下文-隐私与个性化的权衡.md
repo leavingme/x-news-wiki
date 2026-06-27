@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Codex Chronicle：屏幕连续截图打造超长记忆上下文，隐私与个性化的权衡"
 description: "**[功能原理]** Codex 新增 Chronicle 功能，不间断截图用户屏幕，构建海量上下文，让 AI 无需冗余信息即可给出更个性化、更精准的回答。  **[核心价值]** 传统 Agent 需要用户反复描述上下文；Chronicle 通过持续视觉记忆实现\"无声默契\"，越用越懂你。  **[隐私代价]** 屏幕内容全覆盖意味着工作隐私、商业代码、敏感信息均被留存——rewind 因类似原因"
 resource: "https://x.com/i/status/2060657201958543637"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2060657201958543637"
+created: "2026-05-30"
+updated: "2026-06-26"
+sha256: "d10c8711184108780bfc2c3a9a6e049c02d89bf6fe49a1cbb264a8540489c9f5"
+sources:
+  - "/sources/news/2026-05-30/00__lxfater__codex-chronicle-屏幕连续截图打造超长记忆上下文-隐私与个性化的权衡.md"
 ---
 
 # Codex Chronicle：屏幕连续截图打造超长记忆上下文，隐私与个性化的权衡

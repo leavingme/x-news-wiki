@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "北邮+北大 STAGE：分镜式故事板让 AI 视频首次实现真正的叙事连贯性"
 description: "**【AI 多镜头视频终于有了叙事逻辑】**  北京邮电大学与北京大学联合提出的 STAGE 方法，核心突破在于用 start-to-end 帧对来规划完整分镜故事板，而非传统的单帧生成逻辑。  关键创新点： - 通过分镜级规划解决多镜头间的叙事断裂问题 - Smart Memory + Clever Encoding 双向保障角色与场景一致性 - 镜头内与镜头间视觉过渡首次被系统性解决  这意味"
 resource: "https://x.com/i/status/2040503418997932503"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2040503418997932503"
+created: "2026-04-04"
+updated: "2026-06-26"
+sha256: "bd794bdecb52d12ab6171a5e679dc8908cede61c128144b8384ea2251c2b861a"
+sources:
+  - "/sources/news/2026-04-05/00__jiqizhixin__北邮-北大-stage-分镜式故事板让-ai-视频首次实现真正的叙事连贯性.md"
 ---
 
 # 北邮+北大 STAGE：分镜式故事板让 AI 视频首次实现真正的叙事连贯性

@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "反KPI叙事正在成为AI产品的政治正确"
 description: "**[一句话核心判断]**  Michael Anti 敏锐捕捉到一个值得警惕的信号：AI 行业正在用\"反 KPI、反垄断\"的社会主义话语包装产品叙事，这不是偶然的修辞选择，而是某种集体转向。  - AI 工具的「去效率化」叙事（不强调产出、不强调指标）正在取代传统的生产力叙事 - 这种话语转换回避了一个核心问题：AI 真正的价值应该用可量化的结果衡量，而非政治正确的姿态 - 当「反 KPI」成为"
 resource: "https://x.com/i/status/2059446510228820465"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2059446510228820465"
+created: "2026-05-27"
+updated: "2026-06-26"
+sha256: "a6e28a1837d083710482542f4d398a32019d4db2e8fd4eb25c790593c43e71f3"
+sources:
+  - "/sources/news/2026-05-27/00__mranti__反kpi叙事正在成为ai产品的政治正确.md"
 ---
 
 # 反KPI叙事正在成为AI产品的政治正确

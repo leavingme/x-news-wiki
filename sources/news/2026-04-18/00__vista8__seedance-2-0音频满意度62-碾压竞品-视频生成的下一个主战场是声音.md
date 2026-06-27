@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Seedance 2.0音频满意度62%碾压竞品：视频生成的下一个主战场是声音"
 description: "**[视频生成技术差距正在扩大，音频成为新护城河]**  Seedance 2.0技术报告显示其音频质量满意度达62%，而竞品均低于10%。此外SD2支持20多种多模态输入，竞品最多13种。中国戏曲、说唱等中文内容提升幅度尤为显著。  信息增量：音频质量被严重低估——此前行业关注点集中在画面，但音频满意度差距（62% vs <10%）远比视频画面差距更具商业落地价值。  竞争格局：视频延伸得分略输"
 resource: "https://x.com/i/status/2045166796538540414"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2045166796538540414"
+created: "2026-04-17"
+updated: "2026-06-26"
+sha256: "8664241798d19951e71f16a929813b35a7b76109f161e0d4b6a288f20526e69f"
+sources:
+  - "/sources/news/2026-04-18/00__vista8__seedance-2-0音频满意度62-碾压竞品-视频生成的下一个主战场是声音.md"
 ---
 
 # Seedance 2.0音频满意度62%碾压竞品：视频生成的下一个主战场是声音

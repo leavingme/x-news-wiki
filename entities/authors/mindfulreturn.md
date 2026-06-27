@@ -1,5 +1,5 @@
 ---
-type: "Author"
+type: "entity"
 title: "MindfulReturn 身心修复局 (@MindfulReturn)"
 description: "X/Twitter 作者 @MindfulReturn。共收录 2 条 AI 精选推文。"
 tags:
@@ -12,6 +12,13 @@ x_author_name: "MindfulReturn 身心修复局"
 x_tweet_count: 2
 x_first_seen: "2026-03-28T18:35:19.085Z"
 x_last_seen: "2026-04-05T00:42:57.283Z"
+type_okf: "Author"
+created: "2026-03-28"
+updated: "2026-06-26"
+sha256: "abf4fabea197c5bbe75bdb7c296c3c6ed9988baa85acd8cdf9c025fba6b97343"
+sources:
+  - "/sources/highlights/2026-03-28/00__MindfulReturn__字节deerflow登顶github-企业级agent-harness的-安全沙箱-范式.md"
+  - "/sources/news/2026-04-05/00__MindfulReturn__oh-my-codex-给失控的-codex-cli-装上工作流安全带.md"
 ---
 
 # MindfulReturn 身心修复局 (@MindfulReturn)

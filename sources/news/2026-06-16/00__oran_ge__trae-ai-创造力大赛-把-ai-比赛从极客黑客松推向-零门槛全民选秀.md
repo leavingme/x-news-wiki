@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "TRAE AI 创造力大赛：把 AI 比赛从极客黑客松推向「零门槛全民选秀」"
 description: "**字节用零门槛 + 零 token + 百万奖池，把 AI 创作大赛做成大众内容生意** - TRAE 举办 AI 创造力大赛：0 门槛参赛、0 token 负担、全程课程培训，单项目最高 35 万、总奖池百万 - 评委阵容：胡彦斌、罗永浩、王兴兴、影视飓风 Tim——明星 IP 全面入场 AI 赛事 - 形式从 hacker 圈「黑客松」扩散到全民，Orange AI 现场玩梗把胡彦斌《你要的"
 resource: "https://x.com/i/status/2066826133421604880"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2066826133421604880"
+created: "2026-06-16"
+updated: "2026-06-26"
+sha256: "41ca98ab3bbd227b03776c3f32ce4bccb0212ab14ec1ef699b10db08ddf8a78e"
+sources:
+  - "/sources/news/2026-06-16/00__oran_ge__trae-ai-创造力大赛-把-ai-比赛从极客黑客松推向-零门槛全民选秀.md"
 ---
 
 # TRAE AI 创造力大赛：把 AI 比赛从极客黑客松推向「零门槛全民选秀」

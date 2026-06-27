@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Manus出海触礁：国家禁止向境外转移AI产品与服务"
 description: "**【一句话核心判断】**  出海可以，但不能出卖——中国AI产品的国际化路径正在被明确框定。  **关键要点：** - 投资者开展对外投资活动，不得出口、使用国家禁止出口的货物、技术、服务及相关数据 - 不得以跨境派遣技术人员、跨境提供技术指导、安排人员跨境培训等方式向其他国家（地区）转移国家禁止出口的AI相关服务 - 这意味着Cursor、Manus等中国背景AI产品的全球化路径面临明确的合规"
 resource: "https://x.com/i/status/2061285910411669596"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2061285910411669596"
+created: "2026-06-01"
+updated: "2026-06-26"
+sha256: "cad087fb1c8cc483aec62d621118e7713b4f689b10df8abdd4d3622b248dd73c"
+sources:
+  - "/sources/highlights/2026-06-01/00__xiaohu__manus出海触礁-国家禁止向境外转移ai产品与服务.md"
 ---
 
 # Manus出海触礁：国家禁止向境外转移AI产品与服务

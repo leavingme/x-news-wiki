@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "NTU MARS Lab 颠覆机器人控制范式：A2A 流匹配实现 0.56ms 单步动作生成"
 description: "**[机器人反应速度突破「实时」临界点]**  南洋理工大学 MARS Lab 提出了 Action-to-Action Flow Matching (A2A) 方法，用机器人自身历史动作直接预测下一步，完全跳过传统扩散模型的慢速随机噪声采样过程。  • **0.56ms** 单步动作生成，相比现有方法速度提升数量级 • 核心改进：用确定性的「动作到动作」流匹配替代随机的去噪扩散，消除了迭代采样延"
 resource: "https://x.com/i/status/2039772351416426895"
@@ -22,6 +22,13 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "textop-humanoid-robot"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2039772351416426895"
+created: "2026-04-02"
+updated: "2026-06-26"
+sha256: "4afaa111db5780ed139188476812cac09487ad984cc652774d836687a70d0a1f"
+sources:
+  - "/sources/news/2026-04-02/00__jiqizhixin__ntu-mars-lab-颠覆机器人控制范式-a2a-流匹配实现-0-56ms-单步动作生成.md"
 ---
 
 # NTU MARS Lab 颠覆机器人控制范式：A2A 流匹配实现 0.56ms 单步动作生成

@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "6.2k Stars的闲鱼Agent：多专家协同+阶梯议价+主动成交，AI自动化交易的工程标杆"
 description: "**XianyuAutoAgent：GitHub 6.2k Stars的闲鱼自动化工具，实现上下文感知智能对话+多专家动态路由+阶梯式议价+主动推动成交，已有人直接在闲鱼上卖这个开源项目的部署服务赚钱。**  - 多专家Agent协同决策已是成熟工程模式，而非实验性概念 - 「有人卖部署服务赚钱」是开源项目生态健康的金标准  AI自动化交易的工程路径已跑通，下一步是跨平台复制。"
 resource: "https://x.com/i/status/2039369538895053294"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2039369538895053294"
+created: "2026-04-01"
+updated: "2026-06-26"
+sha256: "86d43b3366635b75564a68dffeca8bf40d4f8a257040662f75b9525169eb48cb"
+sources:
+  - "/sources/news/2026-04-09/00__WEB3_furture__6-2k-stars的闲鱼agent-多专家协同-阶梯议价-主动成交-ai自动化交易的工程标杆.md"
 ---
 
 # 6.2k Stars的闲鱼Agent：多专家协同+阶梯议价+主动成交，AI自动化交易的工程标杆

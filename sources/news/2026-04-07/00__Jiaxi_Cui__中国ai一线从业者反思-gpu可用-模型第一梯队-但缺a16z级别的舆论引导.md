@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "中国AI一线从业者反思：GPU可用、模型第一梯队、但缺A16Z级别的舆论引导"
 description: "**一句话核心判断：** 中国AI在技术层已进入第一梯队，但 Manus 的遭遇和创投舆论生态的失衡，暴露了比技术差距更致命的「叙事能力赤字」。  **信息增量：** - 一线从业者确认：GPU、模型算法、infra、人才、具身智能均接近第一梯队 - 奇绩模式被认可，但缺少「中国的A16Z」来引导创业圈舆论 - Manus案例具体地暴露了产品出海与舆论环境之间的结构性矛盾  **gakki的锐评："
 resource: "https://x.com/i/status/2037427306155888873"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2037427306155888873"
+created: "2026-03-27"
+updated: "2026-06-26"
+sha256: "0836533fc5d7204591340183e0bc5de8eae381355639f6b1ca5b1e3186232e13"
+sources:
+  - "/sources/news/2026-04-07/00__Jiaxi_Cui__中国ai一线从业者反思-gpu可用-模型第一梯队-但缺a16z级别的舆论引导.md"
 ---
 
 # 中国AI一线从业者反思：GPU可用、模型第一梯队、但缺A16Z级别的舆论引导

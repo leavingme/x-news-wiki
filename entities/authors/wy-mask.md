@@ -1,5 +1,5 @@
 ---
-type: "Author"
+type: "entity"
 title: "无颜 (❖,❖) | MemeMax⚡️ (@WY_mask)"
 description: "X/Twitter 作者 @WY_mask。共收录 2 条 AI 精选推文。"
 tags:
@@ -12,6 +12,13 @@ x_author_name: "无颜 (❖,❖) | MemeMax⚡️"
 x_tweet_count: 2
 x_first_seen: "2026-02-12T13:18:20.959Z"
 x_last_seen: "2026-06-24T22:27:50.332Z"
+type_okf: "Author"
+created: "2026-02-12"
+updated: "2026-06-26"
+sha256: "63588a93acd9ed338337da33e54db67caa1fed1ee586a84906ec11e8cdc2d883"
+sources:
+  - "/sources/highlights/2026-06-24/00__WY_mask__codex-橙皮书-206-页中文教程发布-codex-跑通真实项目的零门槛操作手册.md"
+  - "/sources/news/2026-02-12/00__WY_mask__nfprompt-推出-ai-trade-去中心化自主交易-agent-矩阵上线.md"
 ---
 
 # 无颜 (❖,❖) | MemeMax⚡️ (@WY_mask)

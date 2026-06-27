@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "SxS Interleaved Reasoning：让大模型在公开 token 流之外保留私密推演空间"
 description: "**[私密推演+选择性披露：浙大等联合提出 Side-by-Side 推理范式]**  当前 Chain-of-Thought 范式要求所有思考步骤强制公开化，形成不可逆的 token 输出流——这不仅浪费算力，更迫使模型在不确定时被迫\"猜答案\"。SxS 的核心创新在于：模型在内部维持私有推理轨道，仅在内部置信度足够高时才对外释放部分结论，实现\"深思熟虑后的精准披露\"而非\"边想边说\"。  该研究由"
 resource: "https://x.com/i/status/2059609312486695137"
@@ -22,6 +22,13 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "reasoning-and-model-architecture"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2059609312486695137"
+created: "2026-05-27"
+updated: "2026-06-26"
+sha256: "44d0018984145bc1b378b30e35652ae9c49b645d1e4c33145b69883d9681cf57"
+sources:
+  - "/sources/news/2026-05-27/00__jiqizhixin__sxs-interleaved-reasoning-让大模型在公开-token-流之外保留私密推演空间.md"
 ---
 
 # SxS Interleaved Reasoning：让大模型在公开 token 流之外保留私密推演空间

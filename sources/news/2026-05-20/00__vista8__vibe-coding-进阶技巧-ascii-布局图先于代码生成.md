@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Vibe Coding 进阶技巧：ASCII 布局图先于代码生成"
 description: "**[ASCII 布局图作为 Vibe Coding 的交互设计锚点]**  先让 AI 生成 ASCII 码布局图，再基于图开发，比直接让 AI 生成代码的交互设计更合理。  本质是给 AI 一个「空间约束」，减少生成过程中的随机性。这是工程纪律在 AI 时代的折衷形式——不是写规格文档，而是用最小成本建立共识。  gakki：ASCII 布局图的本质是「人类在回路」的低成本实现，本质上是在对抗"
 resource: "https://x.com/i/status/2056940452671311888"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2056940452671311888"
+created: "2026-05-20"
+updated: "2026-06-26"
+sha256: "f35dbde1ae21f8f021b0e0835024ebe00a87e61e055500967c08f0cdad11e96c"
+sources:
+  - "/sources/news/2026-05-20/00__vista8__vibe-coding-进阶技巧-ascii-布局图先于代码生成.md"
 ---
 
 # Vibe Coding 进阶技巧：ASCII 布局图先于代码生成

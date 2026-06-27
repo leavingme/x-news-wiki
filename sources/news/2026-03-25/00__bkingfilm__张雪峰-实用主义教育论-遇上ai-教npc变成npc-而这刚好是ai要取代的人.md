@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "张雪峰「实用主义教育论」遇上AI：教NPC变成NPC，而这刚好是AI要取代的人"
 description: "**[AI替代的第一批人，是「被教成NPC」的人]** • 张雪峰理念：「喜欢什么不重要，梦想是扯淡，对找工作没作用的都是浪费时间」 • 批判者指出：这种极端利己主义教育在批量制造「可替代性极高」的标准化劳动力 • 讽刺闭环：AI最擅长的正是规则明确、目标单一的「NPC型工作」  这是 AI 社会影响讨论中极具穿透力的一个切面——教育目标与 AI 替代风险形成诡异共振。当教育系统在「优化就业」的名"
 resource: "https://x.com/i/status/2036430647066243093"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2036430647066243093"
+created: "2026-03-24"
+updated: "2026-06-26"
+sha256: "5f9e2034b1395e31e460bfa563962f14d5e2c456281cf6d28b150b954b332106"
+sources:
+  - "/sources/news/2026-03-25/00__bkingfilm__张雪峰-实用主义教育论-遇上ai-教npc变成npc-而这刚好是ai要取代的人.md"
 ---
 
 # 张雪峰「实用主义教育论」遇上AI：教NPC变成NPC，而这刚好是AI要取代的人

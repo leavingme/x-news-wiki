@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "玉伯：文人墨客的晦暗比农村更甚，认知阶层决定人性观察视角"
 description: "**[存量社会经验正在成为 AI 时代最大的认知债务]**  玉伯以自身经历反驳\"文人墨客高于生活\"的浪漫想象——指出学术界的斤斤两两、知识分子的小九九，实比农村大妈更晦暗。核心洞察是：人的道德水准与知识存量不相关，与其所处利益结构的博弈密度正相关。  这一判断对 AI 创业圈有特殊意义：当行业充斥着\"高学历精英叙事\"时，玉伯的观察直接点破了圈层内部的信息过滤机制——越懂的人越会包装自己的阴暗面。"
 resource: "https://x.com/i/status/2060730623858561454"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2060730623858561454"
+created: "2026-05-30"
+updated: "2026-06-26"
+sha256: "8e5608a6f23ab4e404172c2e735b34be22be690ab3782f88702ae69f0f4e3765"
+sources:
+  - "/sources/news/2026-05-30/00__lifesinger__玉伯-文人墨客的晦暗比农村更甚-认知阶层决定人性观察视角.md"
 ---
 
 # 玉伯：文人墨客的晦暗比农村更甚，认知阶层决定人性观察视角

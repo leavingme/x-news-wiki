@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "AI内容时代最稀缺的是删除能力：taste不是审美，是杀掉九版的判断力"
 description: "AI内容从产能稀缺转向筛选稀缺，taste的定义正从审美重构为删除资格。 AI能给十版标题、十张封面、一篇结构完整的文章；烂的你会重来，「差不多能用」才会被直接发出去。 稀缺的不是再加东西的产能，是判断什么没有资格存在的删除能力——做「高级感、科技风」封面，AI默认输出蓝紫渐变+代码屏+发光线条，第二眼就像见过一万次。  锐评：把「删除」定义为taste的核心动作，比「审美」这种黑话更有操作性；难"
 resource: "https://x.com/i/status/2067987563562897604"
@@ -22,6 +22,13 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "ai-content-entrepreneurship"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2067987563562897604"
+created: "2026-06-19"
+updated: "2026-06-26"
+sha256: "5c679a8c660e54f111bb4c1fb9f86bcd9ce5cfb3a0f590e9081a2e901c53ab49"
+sources:
+  - "/sources/highlights/2026-06-19/00__Zesee__ai内容时代最稀缺的是删除能力-taste不是审美-是杀掉九版的判断力.md"
 ---
 
 # AI内容时代最稀缺的是删除能力：taste不是审美，是杀掉九版的判断力

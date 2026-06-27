@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Capafy破解Skill生态死结：云端闭源让创作者真正吃上饭"
 description: "**【Skill云端闭源运行，产出可交付、代码永不泄露】**  当前Skill生态的核心悖论：创作者要么开源赚名声、要么私藏自己用，两条路都变不了现。Capafy的解法是云端闭源——用户拿到的是产出结果（代码/文件/逻辑），永远拿不到原始文件，调用即付费。  这不只是一个工具，而是一套Skill版权保护+商业化基础设施。创作者自主定价、保留know-how所有权，每次调用自动分账。  影响：若成规"
 resource: "https://x.com/i/status/2059292072830722231"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2059292072830722231"
+created: "2026-05-26"
+updated: "2026-06-26"
+sha256: "c061b49961d35fcbfb3705dbb080ebf836baa4b46af7bae9688fe92a6f4d1a36"
+sources:
+  - "/sources/highlights/2026-05-26/00__xiaohu__capafy破解skill生态死结-云端闭源让创作者真正吃上饭.md"
 ---
 
 # Capafy破解Skill生态死结：云端闭源让创作者真正吃上饭

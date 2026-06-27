@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "藏师傅的 PPT Skill 上央视：从「Hacker News 神器」到「CCTV 出圈」，Agent 完成全民化跃迁"
 description: "**「养虾」做 PPT 的 Skill 被央视报道，Agent 从极客玩具完成主流破圈。** - 归藏（藏师傅）的 PPT Skill 借腾讯云 workbuddy 触达央视渠道； - 这是一个标志性节点：当 Agent / Skill 产品从「技术圈玩具」被国家级媒体报道，意味着 ToB 销售路径和政府采购清单可能开始松动； - 也意味着头部大厂（腾讯、阿里）正把 Agent 当成拉新和获客的新"
 resource: "https://x.com/i/status/2064585238395920395"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2064585238395920395"
+created: "2026-06-10"
+updated: "2026-06-26"
+sha256: "8dc12bc4ccddc7f4447fd7c445744513c8c0e4b40a4ad0aa43e53000fe66bcf9"
+sources:
+  - "/sources/news/2026-06-10/00__op7418__藏师傅的-ppt-skill-上央视-从-hacker-news-神器-到-cctv-出圈-agent-完成全民化跃迁.md"
 ---
 
 # 藏师傅的 PPT Skill 上央视：从「Hacker News 神器」到「CCTV 出圈」，Agent 完成全民化跃迁

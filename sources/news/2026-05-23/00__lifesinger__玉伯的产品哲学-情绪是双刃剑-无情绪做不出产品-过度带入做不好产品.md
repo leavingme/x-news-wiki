@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "玉伯的产品哲学：情绪是双刃剑，无情绪做不出产品，过度带入做不好产品"
 description: "**一句话核心判断：产品创造需要情感投入，但情绪管理才是把产品做成的分界线。**  要点： - \"不带情绪，做不出产品\"——情感共鸣是产品判断力的底层燃料，没有投入就缺乏对用户痛点的真实感知 - \"带着情绪，做不好产品\"——过度代入会模糊理性决策边界，导致迭代方向被个人偏好绑架 - 这与 AI 辅助工具的定位形成微妙张力：AI 擅长消除情绪干扰，但真正的产品直觉恰恰需要情绪  玉伯这句话点出了 A"
 resource: "https://x.com/i/status/2058195494334312649"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2058195494334312649"
+created: "2026-05-23"
+updated: "2026-06-26"
+sha256: "1e36fd95c59b64263633736e8c61e5b47dad39c5a4e6ba04f9f5f5fa025ef476"
+sources:
+  - "/sources/news/2026-05-23/00__lifesinger__玉伯的产品哲学-情绪是双刃剑-无情绪做不出产品-过度带入做不好产品.md"
 ---
 
 # 玉伯的产品哲学：情绪是双刃剑，无情绪做不出产品，过度带入做不好产品

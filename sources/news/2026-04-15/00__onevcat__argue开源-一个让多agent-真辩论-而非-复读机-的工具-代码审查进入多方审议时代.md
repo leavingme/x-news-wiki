@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "argue开源：一个让多Agent\"真辩论\"而非\"复读机\"的工具，代码审查进入多方审议时代"
 description: "**一句话核心判断**：argue实现了多Agent先独立思考再交叉辩论的闭环，让AI决策从\"单点输出\"升级为\"可验证的群体智慧\"。  **信息增量**： - 支持Claude/Codex/Gemma/OpenCode任意组合配置，每个agent独立发表意见后再互相挑刺、合并立场、投票表决 - v0.3.0的\"argue view\"将辩论报告压缩进URL fragment，零后端分享链接=分享报告"
 resource: "https://x.com/i/status/2044021407714291792"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2044021407714291792"
+created: "2026-04-14"
+updated: "2026-06-26"
+sha256: "a6d9086e62b8041138a2555335e2433f803615596d48a3747aee4c869af95d7f"
+sources:
+  - "/sources/news/2026-04-15/00__onevcat__argue开源-一个让多agent-真辩论-而非-复读机-的工具-代码审查进入多方审议时代.md"
 ---
 
 # argue开源：一个让多Agent"真辩论"而非"复读机"的工具，代码审查进入多方审议时代

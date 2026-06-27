@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "DeepSeek VL 论文回溯：2024年视觉语言模型的技术底座值得重新审视"
 description: "**视觉语言模型的技术演进需要纵向对比才能看清脉络。**  • 向阳乔木建议将 DeepSeek VL（2024）与最新论文对照阅读，暗示视觉理解能力的迭代并非线性突破而是架构累积 • 这种\"回溯式阅读\"方法论本身值得关注——当行业追逐最新基准时，底层范式可能早在一年前就已埋下种子  gakki 说：追新是本能，但真正的技术判断力来自对「时间线」的尊重。2024年的论文在今年重读，可能会有完全不同"
 resource: "https://x.com/i/status/2049892103002390737"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2049892103002390737"
+created: "2026-04-30"
+updated: "2026-06-26"
+sha256: "0493626abd37e08273d19a78a898d75cf8ec1c76b255af428578241488b38a0c"
+sources:
+  - "/sources/news/2026-04-30/00__vista8__deepseek-vl-论文回溯-2024年视觉语言模型的技术底座值得重新审视.md"
 ---
 
 # DeepSeek VL 论文回溯：2024年视觉语言模型的技术底座值得重新审视

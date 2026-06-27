@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "x402支付协议超前却尴尬：没有商品，哪来支付？"
 description: "**[x402 叙事孤立的本质：AI Agent 经济闭环缺失]**  - x402 被认为是本轮熊市唯一的支付叙事，但其困境在于：目前没有任何商业产品值得让 AI Agent 自掏腰包 - 核心矛盾：支付协议需要\"可购买的商品\"作锚，但 AI Agent 现阶段缺乏自我造血能力，无购买动机 - 破局前提：需要出现\"AI 创建的公司\"，专门销售 Agent 技能（如自动购买策略、编程能力），并以 "
 resource: "https://x.com/i/status/2037813044018045302"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2037813044018045302"
+created: "2026-03-28"
+updated: "2026-06-26"
+sha256: "96c1167455a82a024c2ef4ea0e6f1210ce89a19a5e2c4d5282600cc615c0cc57"
+sources:
+  - "/sources/news/2026-04-06/00__NFTfafafa__x402支付协议超前却尴尬-没有商品-哪来支付.md"
 ---
 
 # x402支付协议超前却尴尬：没有商品，哪来支付？

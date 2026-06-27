@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "CUHK×DexForce提出AgentChord：机器人「预装退路」比「事后补救」快一个量级"
 description: "**一句话核心判断** 让机器人在执行前就预判断点、预置恢复路径，比传统detect-reason-recover链路在长程双手任务中显著更优，具身AI正在从「反应式」进化到「规划式」故障处理。  **信息增量** - 核心创新：任务图预构建 + 错误分支预连线，而非运行时重规划 - 长程双手任务（bimanual tasks）场景验证，成功率高于传统管道  **影响** - 工业机器人、手术机器"
 resource: "https://x.com/i/status/2062325710690365869"
@@ -22,6 +22,13 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "textop-humanoid-robot"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2062325710690365869"
+created: "2026-06-04"
+updated: "2026-06-26"
+sha256: "a14501a8bef083732b8933539c7bc4c8d5b35f323bbc9540f5fa45340f5eb939"
+sources:
+  - "/sources/news/2026-06-04/00__jiqizhixin__cuhk-dexforce提出agentchord-机器人-预装退路-比-事后补救-快一个量级.md"
 ---
 
 # CUHK×DexForce提出AgentChord：机器人「预装退路」比「事后补救」快一个量级

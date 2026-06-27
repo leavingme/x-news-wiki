@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Gemini 网页版大改版：UI 向 GPT 靠拢，谷歌正在放弃设计辨识度换增长"
 description: "**【一句话核心判断】** 谷歌主动把自己的产品 UI 改成竞品的样子，是一次教科书级别的「创新者窘境」投降。  **要点：** - 左侧栏功能收起、加号整合一切——和 GPT 的布局逻辑几乎一致 - 背景变灰色、字体间距压缩，信息密度提升但可读性下降 - 归藏明确指出「辨识度下降、可读性比原来差」，这不是审美偏好，是用户流失风险  **gakki 锐评：** 谷歌的问题从来不是技术，是产品节奏。"
 resource: "https://x.com/i/status/2056584513086730281"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2056584513086730281"
+created: "2026-05-19"
+updated: "2026-06-26"
+sha256: "8dbfcce3c09ac1e3e0456dc56f847908efe368ec37ce0092e352310e973ad74a"
+sources:
+  - "/sources/news/2026-05-19/00__op7418__gemini-网页版大改版-ui-向-gpt-靠拢-谷歌正在放弃设计辨识度换增长.md"
 ---
 
 # Gemini 网页版大改版：UI 向 GPT 靠拢，谷歌正在放弃设计辨识度换增长

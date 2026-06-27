@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "清华突破 Dijkstra 41年理论最优：最短路径算法的排序屏障被绕过"
 description: "**排序屏障被绕过，Dijkstra 不再是天花板。**  - 清华团队将 Bellman-Ford 与递归部分排序结合，实现 O(m log^{2/3} n) 复杂度，官方意义超越 Dijkstra - 突破点在于「找最短路径不必先排序」的思路转换，绕过了 40 年来被认为不可逾越的数学排序屏障 - 小图体感无差异，但在网页级、全球物流级大图场景下，差距是结构性的  这是理论计算机科学的真突破，"
 resource: "https://x.com/i/status/2053303652455182414"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2053303652455182414"
+created: "2026-05-10"
+updated: "2026-06-26"
+sha256: "28b27dc037e2b81d8f363a00edd52b144b985b1f811615df4fc43b39a0d1ecc8"
+sources:
+  - "/sources/highlights/2026-05-10/00__lxfater__清华突破-dijkstra-41年理论最优-最短路径算法的排序屏障被绕过.md"
 ---
 
 # 清华突破 Dijkstra 41年理论最优：最短路径算法的排序屏障被绕过

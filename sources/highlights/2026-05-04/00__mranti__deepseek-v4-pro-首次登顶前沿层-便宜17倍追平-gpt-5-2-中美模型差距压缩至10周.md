@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "DeepSeek V4 Pro 首次登顶前沿层：便宜17倍追平 GPT-5.2，中美模型差距压缩至10周"
 description: "**DeepSeek V4 Pro 成为首个在 FoodTruck Bench 上达到前沿层级的中国模型，与 GPT-5.2 持平。**  - 落后约 10 周，但成本约为 OpenAI 的 1/17（原文称 8 倍，Michael Anti 纠正为 17 倍） - 这是「开源追赶闭源」节奏的里程碑信号：前沿基准不再是西方独占 - 成本差意味着同等推理预算下，中国模型可以覆盖 17 倍调用量  g"
 resource: "https://x.com/i/status/2051220428191158536"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2051220428191158536"
+created: "2026-05-04"
+updated: "2026-06-26"
+sha256: "30c07c4953a59d2e2f9e552f85b6ae5d2c118a4ed1e92d4c5b2ebbfb7488888f"
+sources:
+  - "/sources/highlights/2026-05-04/00__mranti__deepseek-v4-pro-首次登顶前沿层-便宜17倍追平-gpt-5-2-中美模型差距压缩至10周.md"
 ---
 
 # DeepSeek V4 Pro 首次登顶前沿层：便宜17倍追平 GPT-5.2，中美模型差距压缩至10周

@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "英伟达 RTX Spark 落地：本地 PC AI 推理的个人化时代开启"
 description: "**[英伟达 RTX Spark 补完了从云端到桌面的最后一公里]**  RTX Spark 本质上是将 TensorRT 推理能力直接嵌入消费级 GPU 驱动层，这意味着 Windows/Mac 的本地 AI 任务（代码补全、文生图、推理加速）不再依赖云端 API，而是可以在个人 PC 上以接近原生的速度运行。英伟达正在把 AI 基础设施从数据中心往用户桌面拉。  对 Claude Code 这"
 resource: "https://x.com/i/status/2061362750954086699"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2061362750954086699"
+created: "2026-06-01"
+updated: "2026-06-26"
+sha256: "ed04b0c3cc0e903fcb8eb03ba6c2f75b9c8b29fa6631c2fb29b8f2fb25b10d78"
+sources:
+  - "/sources/news/2026-06-01/00__Khazix0918__英伟达-rtx-spark-落地-本地-pc-ai-推理的个人化时代开启.md"
 ---
 
 # 英伟达 RTX Spark 落地：本地 PC AI 推理的个人化时代开启

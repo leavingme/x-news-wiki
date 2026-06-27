@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Obsidian 公布插件未来路线图：知识管理基础设施的自我革新"
 description: "**一句话核心判断：** Obsidian 在 AI 知识管理基础设施的地位已无可撼动，这次路线图将决定下一个 Agent 记忆系统的标准接口形态。  Obsidian 的核心价值在于本地优先+双向链接+插件生态，在 AI 记忆系统浪潮中它是少数能做到「个人知识资产自主可控」的工具。插件路线图的任何变化都会影响整个个人 AI 记忆生态的接口标准。"
 resource: "https://x.com/obsdmd/status/2054234821875146898"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "ai-trend-digest"
+type_okf: "X Tweet"
+source_url: "https://x.com/obsdmd/status/2054234821875146898"
+created: "2026-05-12"
+updated: "2026-06-26"
+sha256: "8429203cbd273f1db630f227ea5a86e9f76aeb298f3867c5ef2e62a35b761145"
+sources:
+  - "/sources/news/2026-05-13/00__obsdmd__obsidian-公布插件未来路线图-知识管理基础设施的自我革新.md"
 ---
 
 # Obsidian 公布插件未来路线图：知识管理基础设施的自我革新

@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "玉伯 YouMind 创业「非共识选择」：知识工具赛道正在从工具层卷到认知层"
 description: "**[ 玉伯选择知识工具创业，且标题暗示其核心决策与主流认知相悖 ]**  • 玉伯（王博）在蚂蚁期间曾主导语雀等产品，对知识管理、文档工具有深刻认知，他的「非共识选择」本身即是一个信号——说明知识工具赛道存在被主流低估的结构性机会。 • YouMind 对标 NotebookLM 定位，结合玉伯的产品方法论，可能走的是「中文知识库 + AI-native 输出」的差异化路径。 • 结合查重参考中"
 resource: "https://x.com/i/status/2049074014727844246"
@@ -22,6 +22,13 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "ai-knowledge-tool-competition"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2049074014727844246"
+created: "2026-04-28"
+updated: "2026-06-26"
+sha256: "3efdcd1a578799fe270ed2e9a4cf5f624844086625fc421501718f13df9a02bb"
+sources:
+  - "/sources/news/2026-04-28/00__lifesinger__玉伯-youmind-创业-非共识选择-知识工具赛道正在从工具层卷到认知层.md"
 ---
 
 # 玉伯 YouMind 创业「非共识选择」：知识工具赛道正在从工具层卷到认知层

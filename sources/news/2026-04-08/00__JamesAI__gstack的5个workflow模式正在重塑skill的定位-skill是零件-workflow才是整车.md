@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "GStack的5个Workflow模式正在重塑Skill的定位：Skill是零件，Workflow才是整车"
 description: "**[Skill瓶颈的本质：单一工具思维无法支撑复杂任务流]**  从Garry Tan的GStack学到最关键的东西：Skill只是工作流的零件，可控的、步进式的、引导性的Workflow才是真正的产出单位。5个核心模式中，最值得重视的是\"统一的AskUserQuestion格式\"——4个固定板块（Re-ground→Simplify→Recommend→Options）本质上是在用结构化约束降"
 resource: "https://x.com/i/status/2035136034946912707"
@@ -22,6 +22,13 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "skill-automation-engineering"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2035136034946912707"
+created: "2026-03-20"
+updated: "2026-06-26"
+sha256: "a8be9f4d8cd5975139a8031d3a08c71cccbd20de7c62410bce081e7a3575362f"
+sources:
+  - "/sources/news/2026-04-08/00__JamesAI__gstack的5个workflow模式正在重塑skill的定位-skill是零件-workflow才是整车.md"
 ---
 
 # GStack的5个Workflow模式正在重塑Skill的定位：Skill是零件，Workflow才是整车

@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Claude Code\"口喷模式\"实战：零命令完成OpenClaw全链路部署"
 description: "**AI工作流正在从\"学习操作\"转向\"描述需求\"，命令行知识的价值正在归零。**  - 自然语言指令即可完成环境检查、依赖安装、配置初始化、API设置、功能测试 - 人类角色从执行者变为需求描述者与结果验证者 - 开发者时间分配发生根本转移：从\"如何配环境\"到\"验证三个实验\"  这不是偷懒，是杠杆。当\"配环境\"成为AI的默认能力，开发者的核心竞争力将彻底转向问题定义与结果判断——工具使用能力正在让"
 resource: "https://x.com/i/status/2029390556946915668"
@@ -22,6 +22,13 @@ x_selected: 2
 x_priority: 92
 x_related_topic: "claude-code-natural-language-workflow"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2029390556946915668"
+created: "2026-03-05"
+updated: "2026-06-26"
+sha256: "88ec1a098a5aa4cd1ccabcf93e7203a4e5d1e780de3c419cecc4c858829219a5"
+sources:
+  - "/sources/highlights/2026-03-05/92__ianneo_ai__claude-code-口喷模式-实战-零命令完成openclaw全链路部署.md"
 ---
 
 # Claude Code"口喷模式"实战：零命令完成OpenClaw全链路部署

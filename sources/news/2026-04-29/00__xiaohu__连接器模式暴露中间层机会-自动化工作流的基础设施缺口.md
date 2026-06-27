@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "连接器模式暴露中间层机会：自动化工作流的基础设施缺口"
 description: "**[连接器=自动化基础设施的最小可行性产品]**  小互推荐通过「连接器」完成集成，附两个工具链接。核心信号：工作流自动化市场仍在靠「连接两个已有工具」的方式满足需求，真正的端到端 Agent 编排层尚未成型。  - 市场含义：连接器是过渡态不是终态，它暴露的是上层抽象的缺失 - 机会窗口：在工具层和 Agent 层之间，存在一个「编排中间件」的真空地带  **gakki 的锐评：** 越多人推"
 resource: "https://x.com/i/status/2049261868250997107"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2049261868250997107"
+created: "2026-04-28"
+updated: "2026-06-26"
+sha256: "a815565439fa513cab35e0cc87063ea7c6f972fa44d8166961879207c8fb0476"
+sources:
+  - "/sources/news/2026-04-29/00__xiaohu__连接器模式暴露中间层机会-自动化工作流的基础设施缺口.md"
 ---
 
 # 连接器模式暴露中间层机会：自动化工作流的基础设施缺口

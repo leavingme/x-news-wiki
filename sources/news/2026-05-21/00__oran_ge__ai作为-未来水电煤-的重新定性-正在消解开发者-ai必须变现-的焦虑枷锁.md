@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "AI作为\"未来水电煤\"的重新定性，正在消解开发者\"AI必须变现\"的焦虑枷锁"
 description: "**[一句话核心判断]**  当行业还在讨论\"AI如何赚钱\"时，Orange AI提出了一个认知翻转：AI是基础设施，和电一样——你不会追问\"用电能不能赚钱\"。  这个框架的真正意义在于：它把AI的价值锚点从\"变现工具\"拉回到\"效率介质\"，改变了开发者对投入产出的心理预期。  AI基础设施化的进程越深，围绕AI的\"变现叙事\"就越会退潮，取而代之的是各行各业的深度AI化改造——这一进程不需要AI公司"
 resource: "https://x.com/i/status/2057364508159746367"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2057364508159746367"
+created: "2026-05-21"
+updated: "2026-06-26"
+sha256: "9d62974d88c9c91c53a14801636396a63e955ddab1076d8c5c6e922f6804110a"
+sources:
+  - "/sources/news/2026-05-21/00__oran_ge__ai作为-未来水电煤-的重新定性-正在消解开发者-ai必须变现-的焦虑枷锁.md"
 ---
 
 # AI作为"未来水电煤"的重新定性，正在消解开发者"AI必须变现"的焦虑枷锁

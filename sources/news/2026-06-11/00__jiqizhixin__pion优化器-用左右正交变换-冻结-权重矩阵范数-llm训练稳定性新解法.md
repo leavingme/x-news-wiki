@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Pion优化器：用左右正交变换\"冻结\"权重矩阵范数，LLM训练稳定性新解法"
 description: "**Pion走了一条\"不调标量、调几何\"的优化路线，绕开 Adam/Muon 的累加式补丁。**  -来自港中文、Max Planck、西湖大学的研究者提出 Pion：对每个权重矩阵施加左右正交变换，只重塑\"形状\"不改变\"大小\"，奇异值保持不变 - 与 Adam（动量累加）、Muon（Newton-Schulz迭代近似正交）等主流方案相比，Pion 是真正严格的正交化，理论性质更干净 - 在多项基"
 resource: "https://x.com/i/status/2065087409268650091"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2065087409268650091"
+created: "2026-06-11"
+updated: "2026-06-26"
+sha256: "d0fd8b2b7467f9f2efd724de3957c0d35e5803551d10661386e7480517a6c9d1"
+sources:
+  - "/sources/news/2026-06-11/00__jiqizhixin__pion优化器-用左右正交变换-冻结-权重矩阵范数-llm训练稳定性新解法.md"
 ---
 
 # Pion优化器：用左右正交变换"冻结"权重矩阵范数，LLM训练稳定性新解法

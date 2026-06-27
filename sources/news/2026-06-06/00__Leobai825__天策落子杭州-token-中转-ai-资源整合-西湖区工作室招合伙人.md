@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "天策落子杭州：Token 中转 + AI 资源整合，西湖区工作室招合伙人"
 description: "**[抖音 AI 博主天策从纯线上内容转型线下基建，6 月 9 日在杭州西湖区开 AI 工作室，主攻 Token 中转与后端架构。]**  - 业务定位明确：搭建维护 Token 中转（即 API 代理/分发链路），招募团队客服与合伙人 - 地点选择杭州西湖区，自喻'深圳的葱姜蒜'对决'杭州的刀枪炮'，明显对标本地 AI 创业圈层 - 同步释放 AI 资源对接信号：从百万播放的个人 IP 升级为 "
 resource: "https://x.com/i/status/2063135317603852666"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2063135317603852666"
+created: "2026-06-06"
+updated: "2026-06-26"
+sha256: "23440c191d437b8d583f704c6a7a600e4863833fbf4cee5716f118c1683fc95b"
+sources:
+  - "/sources/news/2026-06-06/00__Leobai825__天策落子杭州-token-中转-ai-资源整合-西湖区工作室招合伙人.md"
 ---
 
 # 天策落子杭州：Token 中转 + AI 资源整合，西湖区工作室招合伙人

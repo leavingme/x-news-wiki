@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "AI 视频商业化分水岭：从\"炫技 5 秒\"到\"追剧能力\"的较量"
 description: "**AI 视频商业化的真正挑战不是生成质量，而是持续叙事能力。**  横店短剧开机量暴跌 75%，但每天上线几百部新剧——这个剪刀差揭示了内容供给正在结构性转移。TopviewAI 的 Drama Studio 实现了单创作者从创意/大纲到剧本、导演、AI 演员、场景、对白、配音、剪辑的全链路覆盖。  短剧品类的护城河不在单个镜头，而在\"持续生产一套有冲突、悬念和追更意愿的故事系统\"。这意味着 A"
 resource: "https://x.com/i/status/2054926283788980360"
@@ -22,6 +22,13 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "ai-short-drama-industrialization"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2054926283788980360"
+created: "2026-05-14"
+updated: "2026-06-26"
+sha256: "cc8cd062716678f25e5e0f4ad9e83b29ff7bc45315b2bbc28e0949fd83a88b95"
+sources:
+  - "/sources/highlights/2026-05-14/00__gkxspace__ai-视频商业化分水岭-从-炫技-5-秒-到-追剧能力-的较量.md"
 ---
 
 # AI 视频商业化分水岭：从"炫技 5 秒"到"追剧能力"的较量

@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "AINFT 聚合产品上线：免费畅用 ChatGPT-5.2 与 Claude Opus 4.6"
 description: "**[核心逻辑]** - 推出无需注册、无月费的 AI 模型聚合平台，集成全球顶尖大模型矩阵。 - 试图通过流量分发和积分激励模式，打破主流模型的订阅壁垒。  [gakki 的锐评] 模型层面的“大锅饭”时代可能不远了。当顶级算力变成普惠资源，拼的就是谁的应用层更懂用户需求。"
 resource: "https://x.com/i/status/2021922408266182732"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2021922408266182732"
+created: "2026-02-12"
+updated: "2026-06-26"
+sha256: "ed77babd76b088b802aaf2082cc0c9ff9f015dd19dbe9b0bf09d25e6bc9a7af2"
+sources:
+  - "/sources/news/2026-02-12/00__lizi1618__ainft-聚合产品上线-免费畅用-chatgpt-5-2-与-claude-opus-4-6.md"
 ---
 
 # AINFT 聚合产品上线：免费畅用 ChatGPT-5.2 与 Claude Opus 4.6

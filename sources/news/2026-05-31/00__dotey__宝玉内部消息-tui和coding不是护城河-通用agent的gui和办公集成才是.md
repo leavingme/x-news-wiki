@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "宝玉内部消息：TUI和Coding不是护城河，通用Agent的GUI和办公集成才是"
 description: "**[来自一线开发者的判断：Kimi Code和DeepSeek Harness正站在错误的方向上狂奔]**  宝玉的原话很直接：「卷 TUI 卷 Coding 没前途」。这不是否定Coding能力，而是指出方向问题——当TUI/Coding成为标配而非差异化时，继续堆资源是在做「竞争必答题」而非「战略选择题」。  信息增量：宝玉同时给了出口——「做通用 Agent，尽早支持办公任务」。这是一个有"
 resource: "https://x.com/i/status/2060930283348562027"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2060930283348562027"
+created: "2026-05-31"
+updated: "2026-06-26"
+sha256: "aae37bf9f662fbead799ace775566be4b3b2e9104025fd5785df380f8f5f2aa4"
+sources:
+  - "/sources/news/2026-05-31/00__dotey__宝玉内部消息-tui和coding不是护城河-通用agent的gui和办公集成才是.md"
 ---
 
 # 宝玉内部消息：TUI和Coding不是护城河，通用Agent的GUI和办公集成才是

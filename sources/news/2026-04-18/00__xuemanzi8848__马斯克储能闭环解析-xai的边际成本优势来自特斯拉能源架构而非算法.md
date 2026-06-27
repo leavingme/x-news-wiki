@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "马斯克储能闭环解析：xAI的边际成本优势来自特斯拉能源架构而非算法"
 description: "**[特斯拉 Megapack 储能不只是能源业务，是 xAI 算力的低成本底牌]**  • 2026年数据确认：特斯拉Megapack储能装机量增长曲线陡峭，与xAI Colossus超级算力集群形成\"左手发绿电，右手跑AI\"协同 • 马斯克跨公司闭环的独特性：这种深度协同在硅谷无第二例，储能业务本质是算力成本对冲工具 • 核心逻辑：自给绿电→压低算力边际成本→AI竞争中的能源护城河，储能成了x"
 resource: "https://x.com/i/status/2045155865951633891"
@@ -22,6 +22,13 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "ai-energy-infrastructure"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2045155865951633891"
+created: "2026-04-17"
+updated: "2026-06-26"
+sha256: "afd94b1374d660023c02713d7c90b48f4ac8be3ee43429fc465ce13d0433c586"
+sources:
+  - "/sources/news/2026-04-18/00__xuemanzi8848__马斯克储能闭环解析-xai的边际成本优势来自特斯拉能源架构而非算法.md"
 ---
 
 # 马斯克储能闭环解析：xAI的边际成本优势来自特斯拉能源架构而非算法

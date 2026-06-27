@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Anthropic 托管 Agent API 开放公测：基础设施轮瞬间变公共服务"
 description: "**【一句话核心判断】** Anthropic 把「沙箱+状态管理+权限+链路追踪」这套基础设施打包成托管服务，意味着做 Agent 基础设施的第三方团队直接被降维打击——以前花几个月搭的东西，现在 API 调用就送。  **要点：** - Notion 用户可直接在工作区把任务丢给 Claude，并行跑几十个任务 - Sentry 把 bug 诊断到写补丁、提 PR 全链路自动化，集成几周就上线"
 resource: "https://x.com/i/status/2041949451053400353"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2041949451053400353"
+created: "2026-04-08"
+updated: "2026-06-26"
+sha256: "bb91a3a60e9998b0641b327cb97d094ef60917905dce84c66ac099b448a933eb"
+sources:
+  - "/sources/highlights/2026-04-09/00__dotey__anthropic-托管-agent-api-开放公测-基础设施轮瞬间变公共服务.md"
 ---
 
 # Anthropic 托管 Agent API 开放公测：基础设施轮瞬间变公共服务

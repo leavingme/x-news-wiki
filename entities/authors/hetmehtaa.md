@@ -1,5 +1,5 @@
 ---
-type: "Author"
+type: "entity"
 title: "Het Mehta (@hetmehtaa)"
 description: "X/Twitter 作者 @hetmehtaa。共收录 1 条 AI 精选推文。"
 tags:
@@ -12,6 +12,12 @@ x_author_name: "Het Mehta"
 x_tweet_count: 1
 x_first_seen: "2026-03-15T12:42:28.530Z"
 x_last_seen: "2026-03-15T12:42:28.530Z"
+type_okf: "Author"
+created: "2026-03-15"
+updated: "2026-06-26"
+sha256: "eed9fc648ce31b4b7c2920c62941015dcb28c1af2109390114ae406deee4f1ef"
+sources:
+  - "/sources/news/2026-03-15/88__hetmehtaa__claude-code杀入bug-bounty-ai安全测试的-四道门-质检工作流成型.md"
 ---
 
 # Het Mehta (@hetmehtaa)

@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Yansu App 的 Hand-off 正在演示真正的「上下文感知型 Agent 协作」长什么样"
 description: "**[Yansu 的 Hand-off 功能已展示出上下文状态继承与主动建议的 Agent 原生交互范式]**  1. Agent 主动监测用户行程，在检测到旅行场景后主动发出 Airbnb 调研邀请——这是\"预测式 Agent 协作\"而非响应式交互 2. Hand-off 时自动继承近期会议语言（中文/英文），跨语言场景无需用户显式指定上下文 3. 更关键的是：用户分享推文意图出现后，Agent"
 resource: "https://x.com/i/status/2055204767220355437"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2055204767220355437"
+created: "2026-05-15"
+updated: "2026-06-26"
+sha256: "ff105cea535e0608c19bc85af300879830594a50c87cb573d8ae57fbf8f55662"
+sources:
+  - "/sources/news/2026-05-15/00__yetone__yansu-app-的-hand-off-正在演示真正的-上下文感知型-agent-协作-长什么样.md"
 ---
 
 # Yansu App 的 Hand-off 正在演示真正的「上下文感知型 Agent 协作」长什么样

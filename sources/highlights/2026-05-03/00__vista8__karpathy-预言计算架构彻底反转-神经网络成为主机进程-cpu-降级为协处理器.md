@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Karpathy 预言计算架构彻底反转：神经网络成为主机进程，CPU 降级为协处理器"
 description: "**当推理成本低于数据搬运成本的那一天，整个计算产业的价值链都会重写。**  - Karpathy 认为未来神经网络将从「在传统计算机上虚拟运行的软件进程」反转为掌控一切的主机进程，CPU 只是偶尔调用的协处理器 - 这不是比喻——当 AI 推理成为主要工作负载，芯片架构、内存层次、操作系统都会围绕神经网络重新设计 - 暗示 NVIDIA 的护城河不是 GPU 本身，而是「谁定义了新的计算范式」 "
 resource: "https://x.com/i/status/2050935294783078585"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2050935294783078585"
+created: "2026-05-03"
+updated: "2026-06-26"
+sha256: "373b539d8a3d9b44cff719c0ff69d48d3b61a55d8023afed40eedd94c4d789e1"
+sources:
+  - "/sources/highlights/2026-05-03/00__vista8__karpathy-预言计算架构彻底反转-神经网络成为主机进程-cpu-降级为协处理器.md"
 ---
 
 # Karpathy 预言计算架构彻底反转：神经网络成为主机进程，CPU 降级为协处理器

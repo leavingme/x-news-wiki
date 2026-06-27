@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "微软摊牌：Anthropic贵50倍，Copilot考虑全面切换DeepSeek V4开源模型"
 description: "**大厂AI采购进入\"成本反叛\"周期：50倍价差让头部客户公开倒戈**  - 微软执行副总裁Charles Lamanna放话：Copilot Cowork正考虑用DeepSeek V4等开源模型替代Anthropic和OpenAI，原话直指Anthropic Fable 5贵50倍 - 同期砍掉30亿美元甲骨文云合同，原因是FedRAMP认证谈不拢；Crusoe被客户要求暂停1.8GW怀俄明数据"
 resource: "https://x.com/i/status/2067085746532708821"
@@ -22,6 +22,13 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "AI-API成本结构与本地部署"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2067085746532708821"
+created: "2026-06-17"
+updated: "2026-06-26"
+sha256: "27599730ca7a75252c478153dde611aca05939f1a68a0de19d3a2314ed4150df"
+sources:
+  - "/sources/highlights/2026-06-24/00__ssslumdunk__微软摊牌-anthropic贵50倍-copilot考虑全面切换deepseek-v4开源模型.md"
 ---
 
 # 微软摊牌：Anthropic贵50倍，Copilot考虑全面切换DeepSeek V4开源模型

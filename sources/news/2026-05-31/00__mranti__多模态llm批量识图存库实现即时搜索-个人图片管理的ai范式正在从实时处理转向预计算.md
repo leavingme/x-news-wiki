@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "多模态LLM批量识图存库实现即时搜索：个人图片管理的AI范式正在从实时处理转向预计算"
 description: "**[图片管理架构迁移：从实时LLM识图到预计算向量数据库的工程路径]**  Michael Anti提出了一个图片管理的工程方案：用多模态LLM一次性识别全部照片并存入数据库，实现即时搜索。这个方案的核心价值在于架构选择的工程合理性。  - 实时LLM识图的延迟（几秒/张）在大量图片场景不可接受 - 预计算+向量数据库的架构，将计算成本从使用时刻转移到存储时刻 - 这个方案已被专业图片库验证，说"
 resource: "https://x.com/i/status/2060900146523820508"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2060900146523820508"
+created: "2026-05-31"
+updated: "2026-06-26"
+sha256: "58dfef2ab1d761b4ced34afbb84ad8795ec3299d87fcbdc363f11a5c41628e9b"
+sources:
+  - "/sources/news/2026-05-31/00__mranti__多模态llm批量识图存库实现即时搜索-个人图片管理的ai范式正在从实时处理转向预计算.md"
 ---
 
 # 多模态LLM批量识图存库实现即时搜索：个人图片管理的AI范式正在从实时处理转向预计算

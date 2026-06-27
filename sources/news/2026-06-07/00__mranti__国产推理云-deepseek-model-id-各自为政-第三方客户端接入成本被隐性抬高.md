@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "国产推理云 DeepSeek model_ID 各自为政，第三方客户端接入成本被隐性抬高"
 description: "**[一句话核心判断]** Michael Anti 反馈：同一 DeepSeek 权重，国产推理云各自定义 model_ID，第三方 .deb 客户端做多 provider 路由要逐家维护映射表。  - 现象层：即便同样标榜提供 DeepSeek 推理服务，国内主流云 model_ID 命名仍未对齐，开发者切云等于重写一次配置。 - 成本层：模型同质化后，竞争从算法下沉到 ID/价格/限速，工程"
 resource: "https://x.com/i/status/2063530695621058704"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2063530695621058704"
+created: "2026-06-07"
+updated: "2026-06-26"
+sha256: "f2995d7bbf2fcc18daf0b31c8596ee3d88532ccfd2050d160740716b0e98c84d"
+sources:
+  - "/sources/news/2026-06-07/00__mranti__国产推理云-deepseek-model-id-各自为政-第三方客户端接入成本被隐性抬高.md"
 ---
 
 # 国产推理云 DeepSeek model_ID 各自为政，第三方客户端接入成本被隐性抬高

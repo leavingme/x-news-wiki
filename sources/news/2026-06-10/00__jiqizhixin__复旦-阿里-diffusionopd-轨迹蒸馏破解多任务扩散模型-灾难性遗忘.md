@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "复旦+阿里 DiffusionOPD：轨迹蒸馏破解多任务扩散模型「灾难性遗忘」"
 description: "**多任务 T2I 模型的训练范式，从 joint training 转向轨迹蒸馏成为新的解题路径。**  要点： - 复旦+阿里提出 DiffusionOPD：先分别训练多个专家教师，再沿自身 rollout 轨迹把知识蒸馏进单一学生模型 - 核心机制：解耦学习过程，从根本上规避跨任务干扰，绕过 multi-reward RL 与 cascade RL 的天花板 - 结果：所有 benchmar"
 resource: "https://x.com/i/status/2064566476024254631"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2064566476024254631"
+created: "2026-06-10"
+updated: "2026-06-26"
+sha256: "04cbcb2a3a1ac332778b5b3df332eb3e9f50ad8812dfb7701990f231848677ac"
+sources:
+  - "/sources/news/2026-06-10/00__jiqizhixin__复旦-阿里-diffusionopd-轨迹蒸馏破解多任务扩散模型-灾难性遗忘.md"
 ---
 
 # 复旦+阿里 DiffusionOPD：轨迹蒸馏破解多任务扩散模型「灾难性遗忘」

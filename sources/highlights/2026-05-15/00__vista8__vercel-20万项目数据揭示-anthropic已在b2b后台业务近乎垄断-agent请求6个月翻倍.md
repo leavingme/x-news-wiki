@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Vercel 20万项目数据揭示：Anthropic已在B2B后台业务近乎垄断，Agent请求6个月翻倍"
 description: "**[Anthropic的B2B护城河比市场想象的更深，Agent正在成为token消耗主力]**  Vercel基于20万项目、7个月10万亿token的分析显示：按费用Anthropic占61%居首，B2B场景中Anthropic占87%近乎垄断，消费场景三家平分；Agent请求6个月从31.6%飙升至58.9%，单次Agent请求消耗token是普通聊天的2.6倍；大规模团队平均使用35个模"
 resource: "https://x.com/i/status/2055206541620400394"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2055206541620400394"
+created: "2026-05-15"
+updated: "2026-06-26"
+sha256: "87183dacf01ee28464ee9523f8351d5fdf060496a1629b06771ea6b9a0c6faaa"
+sources:
+  - "/sources/highlights/2026-05-15/00__vista8__vercel-20万项目数据揭示-anthropic已在b2b后台业务近乎垄断-agent请求6个月翻倍.md"
 ---
 
 # Vercel 20万项目数据揭示：Anthropic已在B2B后台业务近乎垄断，Agent请求6个月翻倍

@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Fable 5 来了又怎样：模型迭代救不了「不会用」的人"
 description: "**旗舰模型换代不等于生产力跃迁，使用者的判断力和工程纪律才是分水岭。**  - Orange AI 反驳「Fable 5 一出万事大吉」的叙事 - 模型能力再强，工具认知和方法论不跟上，依然无法转化为产出 - 这是当前 AI 工具采纳曲线里最被低估的瓶颈   gakki 锐评：把希望寄托在新模型上是「工具决定论」的延伸误区；Fable 5 再强，也无法把 prompt 都不会写的人变成工程师——"
 resource: "https://x.com/i/status/2065572167803342982"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2065572167803342982"
+created: "2026-06-12"
+updated: "2026-06-26"
+sha256: "0f9c1f995c3a95d754a9b3a36997b95d0ff1fd790b3567d8dd82f3b805a67d27"
+sources:
+  - "/sources/news/2026-06-13/00__oran_ge__fable-5-来了又怎样-模型迭代救不了-不会用-的人.md"
 ---
 
 # Fable 5 来了又怎样：模型迭代救不了「不会用」的人

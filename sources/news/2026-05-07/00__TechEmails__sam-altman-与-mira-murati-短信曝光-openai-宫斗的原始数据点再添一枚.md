@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Sam Altman 与 Mira Murati 短信曝光：OpenAI 宫斗的原始数据点再添一枚"
 description: "**Internal Tech Emails 发布 2023 年 11 月 19 日 Altman 致 Murati 的短信——Altman 被解雇前 4 天。** - 时间点极度敏感：11 月 17 日 Altman 被董事会解雇，11 月 19 日正是混乱高峰期 - 每一次这类泄露都在为 OpenAI 治理危机的「历史定性」增加素材 - 对 OpenAI 当前品牌信任的影响是持续且累积的  我"
 resource: "https://x.com/TechEmails/status/2052160625586090215"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "ai-trend-digest"
+type_okf: "X Tweet"
+source_url: "https://x.com/TechEmails/status/2052160625586090215"
+created: "2026-05-06"
+updated: "2026-06-26"
+sha256: "bd4f7ab5f3e1285800e4a130e1e6479d318efaafcacf3030eeba3863e54a7be6"
+sources:
+  - "/sources/news/2026-05-07/00__TechEmails__sam-altman-与-mira-murati-短信曝光-openai-宫斗的原始数据点再添一枚.md"
 ---
 
 # Sam Altman 与 Mira Murati 短信曝光：OpenAI 宫斗的原始数据点再添一枚

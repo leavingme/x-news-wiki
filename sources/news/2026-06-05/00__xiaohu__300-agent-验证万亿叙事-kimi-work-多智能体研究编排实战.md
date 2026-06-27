@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "300 Agent 验证万亿叙事：Kimi work 多智能体研究编排实战"
 description: "**多 Agent 投研从概念到可观察的实证：300 个 Agent 同步跑同一市场命题。**  - 触发事件：COMPUTEX 上黄仁勋公开看好迈威尔为下一家万亿美元公司，MRVL 当日暴涨 32.52% - 编排方式：把\"万亿叙事\"作为研究命题分发给 300 个 Agent 并行执行，Kimi work 承担调度与结果聚合 - 价值点：展示了多 Agent 框架在金融叙事验证场景的可用性，结果"
 resource: "https://x.com/i/status/2062824762259411113"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2062824762259411113"
+created: "2026-06-05"
+updated: "2026-06-26"
+sha256: "48a6e3128e28135d5eb27d7954dc1e3b969f61722fa0360d24d909b024afdd84"
+sources:
+  - "/sources/news/2026-06-05/00__xiaohu__300-agent-验证万亿叙事-kimi-work-多智能体研究编排实战.md"
 ---
 
 # 300 Agent 验证万亿叙事：Kimi work 多智能体研究编排实战

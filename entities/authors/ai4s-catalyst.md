@@ -1,5 +1,5 @@
 ---
-type: "Author"
+type: "entity"
 title: "AI4Science Catalyst (@AI4S_Catalyst)"
 description: "X/Twitter 作者 @AI4S_Catalyst。共收录 1 条 AI 精选推文。"
 tags:
@@ -12,6 +12,12 @@ x_author_name: "AI4Science Catalyst"
 x_tweet_count: 1
 x_first_seen: "2026-05-07T07:17:35.829Z"
 x_last_seen: "2026-05-07T07:17:35.829Z"
+type_okf: "Author"
+created: "2026-05-07"
+updated: "2026-06-26"
+sha256: "efef3224df00a91592ceb81e4a2498a4f367810ae9a1e7257a42ed960c374661"
+sources:
+  - "/sources/news/2026-05-07/00__AI4S_Catalyst__labos-自主细胞培养作为长周期物理-ai-工作流-具身智能正式进入湿实验室.md"
 ---
 
 # AI4Science Catalyst (@AI4S_Catalyst)

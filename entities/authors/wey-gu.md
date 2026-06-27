@@ -1,5 +1,5 @@
 ---
-type: "Author"
+type: "entity"
 title: "Wey Gu 古思为 (@wey_gu)"
 description: "X/Twitter 作者 @wey_gu。共收录 1 条 AI 精选推文。"
 tags:
@@ -12,6 +12,12 @@ x_author_name: "Wey Gu 古思为"
 x_tweet_count: 1
 x_first_seen: "2026-04-15T00:44:45.732Z"
 x_last_seen: "2026-04-15T00:44:45.732Z"
+type_okf: "Author"
+created: "2026-04-15"
+updated: "2026-06-26"
+sha256: "3673de1f53b8e9623291e93c868b9470ff685a479b6c7dd7299004acb7e86672"
+sources:
+  - "/sources/news/2026-04-15/00__wey_gu__yohei-ai-memory-综述确认方向-working-memory-background-intelligenc.md"
 ---
 
 # Wey Gu 古思为 (@wey_gu)

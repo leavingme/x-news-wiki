@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Ghostty + tmux 多窗格同时跑 Claude Code：终端成为 AI 编码新基础设施"
 description: "**终端多窗格编排 Agent 正在成为重度用户的硬性刚需。**  - 开发者 Josh 展示 Ghostty 配 tmux：2 窗口 / 9 标签 / 每标签 3-5 窗格，常态化并行运行多个 Claude Code 长任务 - 对照 512MB RAM 资源受限场景，凸显终端方案在轻量、可控、远程可达性上的结构性优势 - 配合已有 Ghostty 采用趋势，验证「终端原生 Agent 工具链」"
 resource: "https://x.com/i/status/2069068984671171062"
@@ -22,6 +22,13 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "ghostty-terminal-adoption"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2069068984671171062"
+created: "2026-06-22"
+updated: "2026-06-26"
+sha256: "d6fd37960651559848661614b507af35d3baaab14bffb96cd8651171cfb8a3a2"
+sources:
+  - "/sources/news/2026-06-25/00__joshmanders__ghostty-tmux-多窗格同时跑-claude-code-终端成为-ai-编码新基础设施.md"
 ---
 
 # Ghostty + tmux 多窗格同时跑 Claude Code：终端成为 AI 编码新基础设施

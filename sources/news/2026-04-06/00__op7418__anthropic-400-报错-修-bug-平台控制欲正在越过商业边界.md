@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Anthropic「400 报错」修 bug：平台控制欲正在越过商业边界"
 description: "**[付费工具强制管控系统提示词，这是一个危险先例]**  用户发现使用 Claude Code 时，一旦修改系统提示词（比如集成 OpenClaw），Anthropic 会直接返回 400 报错。这被解读为 Claude Code 源码泄露后的紧急补丁。  - 商业逻辑矛盾：用户为 Claude Code 付费，却无权自定义其行为 - 平台风险教科书案例：Slack 刚批量删除中资企业 Work"
 resource: "https://x.com/i/status/2040976831038525872"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2040976831038525872"
+created: "2026-04-06"
+updated: "2026-06-26"
+sha256: "c8a5d759afa58d74ff79d79b8a6af7d8f85e9bceac3e8eca0302fef4195d77b6"
+sources:
+  - "/sources/news/2026-04-06/00__op7418__anthropic-400-报错-修-bug-平台控制欲正在越过商业边界.md"
 ---
 
 # Anthropic「400 报错」修 bug：平台控制欲正在越过商业边界

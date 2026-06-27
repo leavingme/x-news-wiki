@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Hermes Agent 四层记忆架构被逆向拆解：Agent 记忆设计的范式参考"
 description: "**Hermes 不是一套记忆系统，而是四套并行架构——这对所有 Agent 记忆设计都有参考价值。**  - 四层记忆：MEMORY.md/USER.md 浓缩提示词记忆、SQLite 历史会话存档（可搜索）、技能管理（程序性记忆）、可选 Honcho 层（深度用户建模） - 宝玉通过直接阅读开源代码而非黑盒 prompt 测试来逆向分析，方法论本身值得关注 - 核心发现：Hermes 的记忆不"
 resource: "https://x.com/i/status/2049534755729707205"
@@ -22,6 +22,13 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "agent-memory-optimization"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2049534755729707205"
+created: "2026-04-29"
+updated: "2026-06-26"
+sha256: "210ecc0b6814370b4d13073503e2e257a342c36b5f28385fd83874d904def396"
+sources:
+  - "/sources/news/2026-04-29/00__dotey__hermes-agent-四层记忆架构被逆向拆解-agent-记忆设计的范式参考.md"
 ---
 
 # Hermes Agent 四层记忆架构被逆向拆解：Agent 记忆设计的范式参考

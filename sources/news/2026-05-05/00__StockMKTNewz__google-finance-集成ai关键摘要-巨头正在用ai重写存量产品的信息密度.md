@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Google Finance 集成AI关键摘要：巨头正在用AI重写存量产品的信息密度"
 description: "**Google Finance上线AI-powered key moments功能，将AI摘要能力嵌入金融信息消费场景。** - 不是新产品发布，而是在成熟产品中植入AI能力——这是Google的典型打法 - 与Perplexity金融版形成有趣对照：一个是垂直Agent降维打击，一个是存量产品就地升级 - 信号意义大于功能本身：Google正在系统性地将AI能力渗透进每一个产品触点  Gakk"
 resource: "https://x.com/StockMKTNewz/status/2051713752479801833"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "ai-trend-digest"
+type_okf: "X Tweet"
+source_url: "https://x.com/StockMKTNewz/status/2051713752479801833"
+created: "2026-05-05"
+updated: "2026-06-26"
+sha256: "0c23c1d22593df64da3a26f159675865c0cfab157b1ed883b1ca1d2d408e8dc9"
+sources:
+  - "/sources/news/2026-05-05/00__StockMKTNewz__google-finance-集成ai关键摘要-巨头正在用ai重写存量产品的信息密度.md"
 ---
 
 # Google Finance 集成AI关键摘要：巨头正在用AI重写存量产品的信息密度

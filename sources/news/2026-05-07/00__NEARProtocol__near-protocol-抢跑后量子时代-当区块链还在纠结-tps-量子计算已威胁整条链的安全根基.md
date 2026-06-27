@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "NEAR Protocol 抢跑后量子时代：当区块链还在纠结 TPS，量子计算已威胁整条链的安全根基"
 description: "**量子计算对区块链的威胁不是理论假设，NEAR 已经在用工程手段抢时间窗口。**  - NEAR 声称其账户和资产架构在量子安全性上已优于多数公链 - 正在为 NEAR 及整个 Intents 生态添加后量子密码学支持 - 这是区块链行业少有的「主动防御」叙事，而非等到量子计算机成熟后再补救  锐评：后量子加密是个正确的长期赌注，但 NEAR 的问题从来不是技术前瞻性——是生态吸引力。量子安全能"
 resource: "https://x.com/NEARProtocol/status/2052056127349678503"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "ai-trend-digest"
+type_okf: "X Tweet"
+source_url: "https://x.com/NEARProtocol/status/2052056127349678503"
+created: "2026-05-06"
+updated: "2026-06-26"
+sha256: "fda3549002d2b734c985bc18e1cf1a35fdd2aff10156634dcee7957b1abbc3b1"
+sources:
+  - "/sources/news/2026-05-07/00__NEARProtocol__near-protocol-抢跑后量子时代-当区块链还在纠结-tps-量子计算已威胁整条链的安全根基.md"
 ---
 
 # NEAR Protocol 抢跑后量子时代：当区块链还在纠结 TPS，量子计算已威胁整条链的安全根基

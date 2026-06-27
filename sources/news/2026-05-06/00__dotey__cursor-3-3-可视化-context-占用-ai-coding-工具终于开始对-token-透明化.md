@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Cursor 3.3 可视化 Context 占用：AI Coding 工具终于开始对 Token 透明化"
 description: "**Context 可视化不是功能升级，是信任基础设施的补课。**  - Cursor 3.3 新增 Context 占用可视化，用户可以直观看到 Skills 等组件的 Token 消耗 - 宝玉实测 Skills 占 6.8K，这个数字对重度用户来说是隐性成本 - 对比 Claude Code 的 token 计费黑箱，Cursor 在开发者信任度上迈出了一步  gakki：当 AI Codi"
 resource: "https://x.com/i/status/2052069994372997377"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2052069994372997377"
+created: "2026-05-06"
+updated: "2026-06-26"
+sha256: "3d97b25a7fc7b259dc43b524276154ea4edf05e3705bd7f152b87d88e3f8a14e"
+sources:
+  - "/sources/news/2026-05-06/00__dotey__cursor-3-3-可视化-context-占用-ai-coding-工具终于开始对-token-透明化.md"
 ---
 
 # Cursor 3.3 可视化 Context 占用：AI Coding 工具终于开始对 Token 透明化

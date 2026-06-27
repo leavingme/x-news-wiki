@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "小互单点爆料：SpaceX 据传收购 Cursor，AI Coding 入口易主"
 description: "**[AI Coding 行业最大 M&A 传闻，若属实将重塑三足格局]**  要点： - 6 字爆料无来源链接，需警惕测试气球或戏仿 - Cursor 母公司 Anysphere 此前估值已超 290 亿美元，是 AI Coding 流量第一入口 - 若为真：Elon 体系（SpaceX/X/xAI/Grok）将拿下 Coding Agent 关键资产，与 Claude Code、Codex 形"
 resource: "https://x.com/i/status/2066890184931836165"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2066890184931836165"
+created: "2026-06-16"
+updated: "2026-06-26"
+sha256: "fcbfd1b50ab83efd10449e9a06ea869f71a3272a3e528c59cc20ffacb551c46a"
+sources:
+  - "/sources/highlights/2026-06-16/00__xiaohu__小互单点爆料-spacex-据传收购-cursor-ai-coding-入口易主.md"
 ---
 
 # 小互单点爆料：SpaceX 据传收购 Cursor，AI Coding 入口易主

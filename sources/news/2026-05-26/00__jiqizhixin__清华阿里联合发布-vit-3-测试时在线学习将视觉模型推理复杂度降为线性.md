@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "清华阿里联合发布 ViT^3：测试时在线学习将视觉模型推理复杂度降为线性"
 description: "**[测试时训练范式突破：ViT^3 用层内在线学习回路替代全量点积注意力，绕过二次复杂度障碍]**  清华与阿里提出 ViT^3，核心创新是在测试时从 key-value 对动态构建紧凑模型，而非计算完整点积注意力。结果：线性复杂度 + 可并行计算 + 无需额外数据或标签。  这意味着视觉模型在推理阶段可自我适应新场景，边缘部署的算力门槛显著降低。"
 resource: "https://x.com/i/status/2059319653717987404"
@@ -22,6 +22,13 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "model-capabilities"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2059319653717987404"
+created: "2026-05-26"
+updated: "2026-06-26"
+sha256: "74b5912ce1519c35d962669eb2aae4fa6b760f66a2b74692c6552ee3b18f15f0"
+sources:
+  - "/sources/news/2026-05-26/00__jiqizhixin__清华阿里联合发布-vit-3-测试时在线学习将视觉模型推理复杂度降为线性.md"
 ---
 
 # 清华阿里联合发布 ViT^3：测试时在线学习将视觉模型推理复杂度降为线性

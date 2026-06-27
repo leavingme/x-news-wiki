@@ -1,5 +1,5 @@
 ---
-type: "Author"
+type: "entity"
 title: "Jabo (@jabosiswanto94)"
 description: "X/Twitter 作者 @jabosiswanto94。共收录 1 条 AI 精选推文。"
 tags:
@@ -12,6 +12,12 @@ x_author_name: "Jabo"
 x_tweet_count: 1
 x_first_seen: "2026-04-12T12:45:18.814Z"
 x_last_seen: "2026-04-12T12:45:18.814Z"
+type_okf: "Author"
+created: "2026-04-12"
+updated: "2026-06-26"
+sha256: "344d6bb18d97845cdb4bc809cf82fe7cc5f70f616ed3d0a7ccb8325ab914b140"
+sources:
+  - "/sources/news/2026-04-12/00__jabosiswanto94__链上信誉正在替代中心化评测-recall-把-ai-性能历史变成可验证的信用资产.md"
 ---
 
 # Jabo (@jabosiswanto94)

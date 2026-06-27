@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "宝玉点将：设计与前端任务 Opus 4.8 仍优于 GPT-5.5，Codex/Claude 双线通吃"
 description: "**宝玉在回复中给出明确模型分工判断：Codex 与 Claude Code 都不拒绝的设计/前端类任务，Opus 4.8 表现强于 GPT-5.5。**  - 任务类型：设计系统改色、前端组件实现等\"视觉+工程\"混合任务 - 结论：两个 Coding Agent 都不会拒，但 Opus 4.8 完成质量更高 - 信号：在 Anthropic 主动降配的争议下，前端/设计场景仍是 Opus 的护城"
 resource: "https://x.com/i/status/2069418380067496024"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2069418380067496024"
+created: "2026-06-23"
+updated: "2026-06-26"
+sha256: "6ced1c2302920a2ec14e57cf2b8204bde37953912efddaf9761852933c1cc4a2"
+sources:
+  - "/sources/news/2026-06-23/00__dotey__宝玉点将-设计与前端任务-opus-4-8-仍优于-gpt-5-5-codex-claude-双线通吃.md"
 ---
 
 # 宝玉点将：设计与前端任务 Opus 4.8 仍优于 GPT-5.5，Codex/Claude 双线通吃

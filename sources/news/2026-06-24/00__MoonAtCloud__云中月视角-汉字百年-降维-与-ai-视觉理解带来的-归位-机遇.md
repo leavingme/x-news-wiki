@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "云中月视角：汉字百年'降维'与 AI 视觉理解带来的'归位'机遇"
 description: "**[云中月提出'汉字百年降维'叙事：计算机专为拼音设计，汉字被压缩成一维 Token 流，AI 视觉理解可能让汉字'归位'为二维象形]**  - 历史脉络：五笔字根拆字形、拼音让\"以音求形\"取代\"书写记忆\"，汉字在数字时代被迫降维成碎片化候选字 - 关键拐点：最新研究显示，即使是拼音文字，将其作为 2D 像素图像直接输入 LLM，效率也高于 Token 序列 - 推理意义：模型摆脱线性序列枷锁后"
 resource: "https://x.com/i/status/1981405544020922482"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/1981405544020922482"
+created: "2025-10-23"
+updated: "2026-06-26"
+sha256: "7177631c32c0f5736999c7d0ed77aba30dac02ac540c2a658fc99c5bea889059"
+sources:
+  - "/sources/news/2026-06-24/00__MoonAtCloud__云中月视角-汉字百年-降维-与-ai-视觉理解带来的-归位-机遇.md"
 ---
 
 # 云中月视角：汉字百年'降维'与 AI 视觉理解带来的'归位'机遇

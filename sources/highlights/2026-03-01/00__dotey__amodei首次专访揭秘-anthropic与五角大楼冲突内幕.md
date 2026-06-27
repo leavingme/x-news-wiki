@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Amodei首次专访揭秘：Anthropic与五角大楼冲突内幕"
 description: "Anthropic CEO首次公开谈及与五角大楼的合作冲突，透露OpenAI也拿到了相同条款，详细阐述AI公司在军方压力与道德底线之间的艰难平衡。"
 resource: "https://x.com/i/status/2027981046726209952"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2027981046726209952"
+created: "2026-03-01"
+updated: "2026-06-26"
+sha256: "f6368d02e59379df21b0581e7511a1e52f740483e34a4ce8f34ac58d2fe7e664"
+sources:
+  - "/sources/highlights/2026-03-01/00__dotey__amodei首次专访揭秘-anthropic与五角大楼冲突内幕.md"
 ---
 
 # Amodei首次专访揭秘：Anthropic与五角大楼冲突内幕

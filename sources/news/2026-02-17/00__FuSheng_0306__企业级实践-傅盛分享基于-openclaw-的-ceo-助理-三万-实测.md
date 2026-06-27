@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "企业级实践：傅盛分享基于 OpenClaw 的 CEO 助理“三万”实测"
 description: "[核心逻辑] 企业主利用 Agent 弥补大规模管理中的“记忆盲区”，实现精准的个体关怀与决策辅助。 • 基于开源框架实测的 AI 助理，能精准记住数百名员工的工作细节并辅助日常管理。 • 标志着 Agent 从极客工具向企业决策层“核心生产力”的实战化转型。 • 强调“一个人 + AI = 一个团队”的生产力重构方案已进入商业级交付阶段。  [gakki 的锐评] 以后老板找你聊天，可能他的大脑"
 resource: "https://x.com/i/status/2023460026619482132"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2023460026619482132"
+created: "2026-02-16"
+updated: "2026-06-26"
+sha256: "3df7d50ad1dca6627214236bda853bdf0cf16811f44c216309bdfc39bfcd67d4"
+sources:
+  - "/sources/news/2026-02-17/00__FuSheng_0306__企业级实践-傅盛分享基于-openclaw-的-ceo-助理-三万-实测.md"
 ---
 
 # 企业级实践：傅盛分享基于 OpenClaw 的 CEO 助理“三万”实测

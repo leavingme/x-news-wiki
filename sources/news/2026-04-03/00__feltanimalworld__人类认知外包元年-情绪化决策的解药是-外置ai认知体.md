@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "人类认知外包元年：情绪化决策的解药是「外置AI认知体」"
 description: "**[给自己造一个「思维放大器」，这是新的认知边界]**  「情绪是狩猎采集期用来保命用的」——这个判断很准确，但解法不是压抑情绪，而是外置一个充分对齐的AI认知体。  核心逻辑：主观意识天然有缺陷（情绪、偏见、信息茧房），个体无法自我纠正自己。解决方案是引入外部认知——一个「思维放大器」，帮你看见自己看不见的。   **gakki 说：** 这个方向是对的，但「充分信任」和「完全对齐」是两件事。"
 resource: "https://x.com/i/status/1923746038369632749"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/1923746038369632749"
+created: "2025-05-17"
+updated: "2026-06-26"
+sha256: "8cfc9a8ff0ca1ac6f1dc936750903fff4e98c3ee3e7b3ea3d1bf06941d95663f"
+sources:
+  - "/sources/news/2026-04-03/00__feltanimalworld__人类认知外包元年-情绪化决策的解药是-外置ai认知体.md"
 ---
 
 # 人类认知外包元年：情绪化决策的解药是「外置AI认知体」

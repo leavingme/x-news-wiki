@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Agent 生态的演进拐点：复杂度吞噬者将成为平台霸主"
 description: "**[生态演进]** - 认为 AI 尚处“组装机时代”，但 Agent 的“iPhone 时刻”已近 - 强调真正改变世界的是能够消除复杂度的平台级产品  在草莽时代赚差价，在平台时代赚体量。目前的工具依然太硬核，等待一个能统一体验的超级聚合器。"
 resource: "https://x.com/i/status/2027540073265479832"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2027540073265479832"
+created: "2026-02-28"
+updated: "2026-06-26"
+sha256: "671e9ef893f8f76876add5f4b73843c40a6994345fab85b5344a4e4fd60b76f1"
+sources:
+  - "/sources/highlights/2026-02-28/00__Crypto_Cat888__agent-生态的演进拐点-复杂度吞噬者将成为平台霸主.md"
 ---
 
 # Agent 生态的演进拐点：复杂度吞噬者将成为平台霸主

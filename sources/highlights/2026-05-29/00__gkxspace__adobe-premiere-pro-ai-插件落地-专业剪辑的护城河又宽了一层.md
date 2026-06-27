@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Adobe Premiere Pro AI 插件落地：专业剪辑的护城河又宽了一层"
 description: "**[Adobe 用插件把 GenAI 嵌进 Pr 时间线，专业剪刀手门槛再次拉升]**  Adobe 发布的 AI 视频编辑插件支持直接在 Premiere 内生成、编辑视频并放入时间线——图像生成、视频生成、重构图、去背景、4K 升级均可一键完成。Pr 仍是专业首选，AI 加持后「会 Pr 与不会 Pr 的差距」将进一步扩大。  gakki：Adobe 的策略很清楚——不赌 AI 颠覆自己，而"
 resource: "https://x.com/i/status/2060352133048766849"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2060352133048766849"
+created: "2026-05-29"
+updated: "2026-06-26"
+sha256: "e905928638e03ac99234e63416fad2659369414e85e0346a35993c44a94f0940"
+sources:
+  - "/sources/highlights/2026-05-29/00__gkxspace__adobe-premiere-pro-ai-插件落地-专业剪辑的护城河又宽了一层.md"
 ---
 
 # Adobe Premiere Pro AI 插件落地：专业剪辑的护城河又宽了一层

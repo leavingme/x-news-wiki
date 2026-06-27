@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "刷for you变刷list：中文AI圈正在用注意力投票对抗算法垃圾"
 description: "**[平台噪音倒逼用户自发建立信息分层]**  余温公开了几个高质量关注列表（AI机构key people、中文区AI影响力100人等），核心逻辑是：用「人肉策展」替代平台推荐，减少被 AI 垃圾内容污染的概率。这本质上是用户在平台信任崩塌前的自救行为。  信号意义：AI slop 泛滥已成公认事实，「靠谱本身就是定价权」正在从口号变成选择标准。"
 resource: "https://x.com/i/status/2058836422317269500"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2058836422317269500"
+created: "2026-05-25"
+updated: "2026-06-26"
+sha256: "682aa283519660d0b7abc53274a87052f0c2d4fc838ed2e0ef9d9c0644d7d558"
+sources:
+  - "/sources/news/2026-05-25/00__gkxspace__刷for-you变刷list-中文ai圈正在用注意力投票对抗算法垃圾.md"
 ---
 
 # 刷for you变刷list：中文AI圈正在用注意力投票对抗算法垃圾

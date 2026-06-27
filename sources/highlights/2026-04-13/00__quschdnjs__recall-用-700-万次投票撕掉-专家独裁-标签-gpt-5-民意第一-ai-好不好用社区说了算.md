@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Recall 用 700 万次投票撕掉「专家独裁」标签：GPT-5 民意第一，AI 好不好用社区说了算"
 description: "**[社区投票正名：AI 评价权正在从实验室转移到用户手里]**  Recall Arena 干了件没人干成的事——把 50 个 AI 拉出来让十几万人出题、投票、预测，产生了 7 百多万次交互。GPT-5 被民间投成第一，Gemini 和 Grok 紧随其后，与官方评测结论形成有趣对照。  关键信号：之前的 AI 排名被批评「泄题、测无关内容、完全不靠谱」，Recall 的解法是让市场定价——用"
 resource: "https://x.com/i/status/1959553727943332036"
@@ -22,6 +22,13 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "agent-capability-benchmark"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/1959553727943332036"
+created: "2025-08-24"
+updated: "2026-06-26"
+sha256: "46b88a9c3179eed8e9e8b25a7a6525364df4b61099c3b3d6ec81b19f45018ed9"
+sources:
+  - "/sources/highlights/2026-04-13/00__quschdnjs__recall-用-700-万次投票撕掉-专家独裁-标签-gpt-5-民意第一-ai-好不好用社区说了算.md"
 ---
 
 # Recall 用 700 万次投票撕掉「专家独裁」标签：GPT-5 民意第一，AI 好不好用社区说了算

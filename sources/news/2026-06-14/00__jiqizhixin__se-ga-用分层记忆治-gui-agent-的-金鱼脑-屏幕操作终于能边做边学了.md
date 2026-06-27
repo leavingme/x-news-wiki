@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "SE-GA 用分层记忆治 GUI Agent 的「金鱼脑」：屏幕操作终于能边做边学了"
 description: "**[GUI Agent 终于有了可进化的记忆系统，把「屏幕操作一次性执行器」推向可持续学习的智能体]** - SE-GA 引入分层记忆模块，Agent 能召回过去的步骤、动作和上下文，并在执行中自我迭代，而不是每一步从零开始 - 实测成绩亮眼：ScreenSpot 89%、AndroidControl-High 75.8%，在动态 AndroidWorld 上也有显著提升，多项 SOTA - 价"
 resource: "https://x.com/i/status/2065966450842702165"
@@ -22,6 +22,13 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "agent-memory-optimization"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2065966450842702165"
+created: "2026-06-14"
+updated: "2026-06-26"
+sha256: "b04818333761279439441b1732a3752b50e7341c3722d189d5d2dea27c329d8b"
+sources:
+  - "/sources/news/2026-06-14/00__jiqizhixin__se-ga-用分层记忆治-gui-agent-的-金鱼脑-屏幕操作终于能边做边学了.md"
 ---
 
 # SE-GA 用分层记忆治 GUI Agent 的「金鱼脑」：屏幕操作终于能边做边学了

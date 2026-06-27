@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "51K星开源神器：一键让任何Agent自由切换所有模型，路由层终于被开源攻破"
 description: "**51K星标开源工具实现跨模型无缝切换，Agent工作流编排的最后一块基础设施级壁垒被攻克。**  - 该工具支持任意Agent同时调用多模型，路由逻辑不再被商业平台锁定，开发者可自由组合GPT/Claude/国产模型 - 51K星的市场验证说明「模型切换」是真实痛点而非伪需求，huggingface式的开源分发逻辑正在向Agent编排层渗透 - 意味着多模型路由将从定制化工程变为开箱即用功能，"
 resource: "https://x.com/i/status/2048983462942789978"
@@ -22,6 +22,13 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "ai-multimodel-routing"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2048983462942789978"
+created: "2026-04-28"
+updated: "2026-06-26"
+sha256: "30c31293863b77a0a16a18e0a7ad3c631dcf390b617e3fd081537f75e0cda763"
+sources:
+  - "/sources/highlights/2026-04-28/00__Khazix0918__51k星开源神器-一键让任何agent自由切换所有模型-路由层终于被开源攻破.md"
 ---
 
 # 51K星开源神器：一键让任何Agent自由切换所有模型，路由层终于被开源攻破

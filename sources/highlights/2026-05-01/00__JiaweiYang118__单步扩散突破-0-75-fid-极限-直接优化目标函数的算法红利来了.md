@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "单步扩散突破 0.75 FID 极限：直接优化目标函数的算法红利来了"
 description: "**单步扩散生成的 FID 极限正在被重新定义，推理成本有望降一个数量级。**  - Jiawei Yang 两个月前公布 0.9 FID 的单步像素空间扩散，现在降至 0.75，且仍在优化中 - 核心方法是直接优化 FID 指标本身（FD-loss），而非依赖传统对抗训练或扩散步数堆叠 - 单步生成意味着图像/视频生成的推理成本可降一个数量级，对排队经济和实时生成场景有直接冲击  gakki 锐"
 resource: "https://x.com/JiaweiYang118/status/2050032859155734743"
@@ -22,6 +22,13 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "ai-video-queue-economy"
 x_source: "ai-trend-digest"
+type_okf: "X Tweet"
+source_url: "https://x.com/JiaweiYang118/status/2050032859155734743"
+created: "2026-05-01"
+updated: "2026-06-26"
+sha256: "43a35ebd3d5bc8609a3925781865730bcac852d3e813935de9c579425fd037eb"
+sources:
+  - "/sources/highlights/2026-05-01/00__JiaweiYang118__单步扩散突破-0-75-fid-极限-直接优化目标函数的算法红利来了.md"
 ---
 
 # 单步扩散突破 0.75 FID 极限：直接优化目标函数的算法红利来了

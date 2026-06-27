@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "OpenClaw「Dreaming」机制：让Agent像人一样睡觉巩固记忆"
 description: "**[记忆不是存储，是遗忘的艺术——OpenClaw终于承认了这一点]**  OpenClaw 2026.4.5 发布，核心是\"Dreaming\"记忆巩固机制。借鉴人类睡眠后的记忆巩固原理，通过Light/Deep/REM三阶段流水线，将短期记忆转化为长期记忆。  六个加权信号决定哪些记忆值得被提升：频率、相关度、查询多样性、时近度、跨天巩固度、概念丰富度。关键规则：只有Deep阶段能写入MEMO"
 resource: "https://x.com/i/status/2041143031555047780"
@@ -22,6 +22,13 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "agent-memory-optimization"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2041143031555047780"
+created: "2026-04-06"
+updated: "2026-06-26"
+sha256: "74f2e23cd89881cababf74d0394183f8995d61a648d133e22ca7232554d59aeb"
+sources:
+  - "/sources/highlights/2026-04-07/00__xiaohu__openclaw-dreaming-机制-让agent像人一样睡觉巩固记忆.md"
 ---
 
 # OpenClaw「Dreaming」机制：让Agent像人一样睡觉巩固记忆

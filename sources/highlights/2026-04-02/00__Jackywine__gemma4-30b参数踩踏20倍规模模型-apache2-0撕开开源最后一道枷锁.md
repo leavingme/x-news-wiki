@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Gemma4：30B参数踩踏20倍规模模型，Apache2.0撕开开源最后一道枷锁"
 description: "**【开源模型进入「小而美」屠杀时代，许可证壁垒已实质性消亡】**  谷歌Gemma4以30B参数规模超越百亿乃至千亿参数竞品，关键信号：  1. **Apache2.0许可证**：比Llama更宽松，商业使用几乎无限制，等同于宣告开源大模型许可证战争结束 2. **原生Agentic工作流**：不再需要复杂提示词工程，模型开箱即具备多步推理执行能力 3. **多模态原生集成**：视觉+音频低延时"
 resource: "https://x.com/i/status/2039791812601369062"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2039791812601369062"
+created: "2026-04-02"
+updated: "2026-06-26"
+sha256: "7d3cd2b1a5b1c516820e8611bf17c70e1bfc26057c90ce15f0fd91097c624aa3"
+sources:
+  - "/sources/highlights/2026-04-02/00__Jackywine__gemma4-30b参数踩踏20倍规模模型-apache2-0撕开开源最后一道枷锁.md"
 ---
 
 # Gemma4：30B参数踩踏20倍规模模型，Apache2.0撕开开源最后一道枷锁

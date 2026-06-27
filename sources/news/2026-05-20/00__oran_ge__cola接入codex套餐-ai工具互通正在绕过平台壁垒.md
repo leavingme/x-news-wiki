@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Cola接入Codex套餐：AI工具互通正在绕过平台壁垒"
 description: "**[具体产品动态：Orange AI的Cola接入了Codex登录功能，用户可用Codex配额驱动Cola，同时支持自定义GPT/Claude Key。]**  要点： - 工具互通在发生：Codex的套餐额度可跨产品使用，打破平台封锁 - 用户侧价值：降低使用成本，Codex配额不再闲置 - 行业信号：AI工具间的互操作性正在以民间方式快速实现，而非等待官方开放  [gakki] 当一个工具的"
 resource: "https://x.com/i/status/2056878350728351918"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2056878350728351918"
+created: "2026-05-19"
+updated: "2026-06-26"
+sha256: "2de1b05706bb13ef71008b426a68c63cd0653fdea2c5f477594da3a298cab3aa"
+sources:
+  - "/sources/news/2026-05-20/00__oran_ge__cola接入codex套餐-ai工具互通正在绕过平台壁垒.md"
 ---
 
 # Cola接入Codex套餐：AI工具互通正在绕过平台壁垒

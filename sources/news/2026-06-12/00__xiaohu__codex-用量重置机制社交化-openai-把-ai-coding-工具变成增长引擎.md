@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Codex 用量重置机制社交化：OpenAI 把 AI Coding 工具变成增长引擎"
 description: "**[OpenAI 把 Codex 用量重置绑到邀请关系上，本质是给 AI Coding 工具加了一层消费互联网级的增长杠杆]** - Plus 和 Pro 最多邀请 3 位朋友试用，对方发首条 Codex 消息即双方各获一次重置 - 重置机会可累积随时使用，等于给用户\"算力存款\"——把订阅价值从\"功能\"重新定义为\"可分享额度\" - 评论区\"vibe coding 为什么不自己写\"的反问本身就是一"
 resource: "https://x.com/i/status/2065238850998505767"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2065238850998505767"
+created: "2026-06-12"
+updated: "2026-06-26"
+sha256: "fe443014de330be8d4e1900cb0c8c8ec06264de957b44d0e78636ea7f9ed6b18"
+sources:
+  - "/sources/news/2026-06-12/00__xiaohu__codex-用量重置机制社交化-openai-把-ai-coding-工具变成增长引擎.md"
 ---
 
 # Codex 用量重置机制社交化：OpenAI 把 AI Coding 工具变成增长引擎

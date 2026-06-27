@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "OpenAI「收买」开源维护者：6个月Pro免费+API额度， Codex生态的阳谋"
 description: "**从100万美元基金到直接送账号，OpenAI正在抢占开源心智。**  - 核心维护者可获6个月ChatGPT Pro + API额度 + 安全工具 - 目标明确：让Codex成为开源项目PR审查、Issue处理的默认工作流 - 申请门槛宽松，本质是「用免费换习惯养成」的补贴策略  ---  **gakki锐评：** 这是典型的平台战争打法——先让关键意见领袖（KOL）用上，再靠网络效应扩散。如"
 resource: "https://x.com/i/status/2030044135542116646"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 82
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2030044135542116646"
+created: "2026-03-06"
+updated: "2026-06-26"
+sha256: "dd7e1b8e43f5d33236addde95e21c74d6a6f96c3e9ef56724b0a5557f49dd526"
+sources:
+  - "/sources/news/2026-03-07/82__dotey__openai-收买-开源维护者-6个月pro免费-api额度-codex生态的阳谋.md"
 ---
 
 # OpenAI「收买」开源维护者：6个月Pro免费+API额度， Codex生态的阳谋

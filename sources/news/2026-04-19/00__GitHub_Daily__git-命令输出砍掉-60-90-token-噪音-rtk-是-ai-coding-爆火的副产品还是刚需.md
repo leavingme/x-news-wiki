@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Git 命令输出砍掉 60-90% token 噪音：RTK 是 AI Coding 爆火的副产品还是刚需？"
 description: "**[上下文燃烧速度 > 上下文扩充速度，这是个工程信号]**  GitHub 上爆火的 RTK（Right TooK）解决了一个反直觉的问题：Claude Code 每次执行 git status、cargo test 时，大堆冗余输出塞进上下文，token 白花花地烧。RTK 在命令结果进入 AI 前过滤噪音、合并重复，只保留关键信息，省掉 60-90% token 消耗。  覆盖 100+ "
 resource: "https://x.com/i/status/2042885064917422318"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2042885064917422318"
+created: "2026-04-11"
+updated: "2026-06-26"
+sha256: "cf8a2a9e45706dda3cbb05d5cfb6510cea8c6cb9345911fdfbcf2076c6493a09"
+sources:
+  - "/sources/news/2026-04-19/00__GitHub_Daily__git-命令输出砍掉-60-90-token-噪音-rtk-是-ai-coding-爆火的副产品还是刚需.md"
 ---
 
 # Git 命令输出砍掉 60-90% token 噪音：RTK 是 AI Coding 爆火的副产品还是刚需？

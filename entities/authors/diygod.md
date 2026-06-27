@@ -1,5 +1,5 @@
 ---
-type: "Author"
+type: "entity"
 title: "DIŸgöd ☀️ (@DIYgod)"
 description: "X/Twitter 作者 @DIYgod。共收录 1 条 AI 精选推文。"
 tags:
@@ -12,6 +12,12 @@ x_author_name: "DIŸgöd ☀️"
 x_tweet_count: 1
 x_first_seen: "2026-03-24T12:43:06.052Z"
 x_last_seen: "2026-03-24T12:43:06.052Z"
+type_okf: "Author"
+created: "2026-03-24"
+updated: "2026-06-26"
+sha256: "c3e51af26b675ccebb97357107cae0f1b08e0380d5c5f739fee65168814fef51"
+sources:
+  - "/sources/news/2026-03-24/00__DIYgod__autoresearch-循环-codex-无人值守的-token-代价.md"
 ---
 
 # DIŸgöd ☀️ (@DIYgod)

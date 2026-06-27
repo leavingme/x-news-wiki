@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "SKILL.md 正在成为 AI 编码工具的「行业宪法」"
 description: "**一句话核心判断：Skills 不再是提示词，而是一个可测试、可版本控制的生产单元。**  Google Cloud 主导了 30+ Agent 工具（Claude Code、Gemini CLI、Cursor…）统一到 SKILL.md 格式，这意味着 Skill 的设计哲学正在收敛：内容大于格式，具体大于通用。Anthropic 工程师的实测进一步印证：测试驱动写 Skills 是解决 70"
 resource: "https://x.com/i/status/2034273448277536843"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2034273448277536843"
+created: "2026-03-18"
+updated: "2026-06-26"
+sha256: "5b18454bcf1262f48e977d5745a6542870a6dc780a7afdffdcf5ff567c4a1b2c"
+sources:
+  - "/sources/highlights/2026-04-11/00___0xKenny__skill-md-正在成为-ai-编码工具的-行业宪法.md"
 ---
 
 # SKILL.md 正在成为 AI 编码工具的「行业宪法」

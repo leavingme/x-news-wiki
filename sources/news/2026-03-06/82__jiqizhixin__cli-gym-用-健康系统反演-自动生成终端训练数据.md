@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "CLI-Gym：用「健康系统反演」自动生成终端训练数据"
 description: "**[无需人工标注，Agent 自学系统运维的破局思路]** - 华为、北理工、中科院联合提出：让 Agent 探索正常环境，再逆向构造故障状态 - 自动生成真实的命令行挑战与修复路径配对数据 - 解决系统管理任务中「数据标注成本极高」的长期痛点  把「破坏-修复」过程自动化，是训练 Agent 处理复杂系统的聪明 workaround。当大多数研究还在盯着 Web Agent，终端/系统管理这个"
 resource: "https://x.com/i/status/2029620458220355855"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 82
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2029620458220355855"
+created: "2026-03-05"
+updated: "2026-06-26"
+sha256: "f662e47caaecda24c7199403a1c5203143c8a62f135624d0d7bdbd2172d923e3"
+sources:
+  - "/sources/news/2026-03-06/82__jiqizhixin__cli-gym-用-健康系统反演-自动生成终端训练数据.md"
 ---
 
 # CLI-Gym：用「健康系统反演」自动生成终端训练数据

@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "GPT Pro灰度版前端能力超越Claude Design？歸藏：它自己就把CodePilot做出来了"
 description: "**核心判断：GPT Pro新模型展现出「零样本全栈产品生成」能力，若经实测验证将颠覆设计工具赛道。**  歸藏的实测案例：只给GPT Pro一个GitHub页面截图+两三行提示词，它输出了一套完整可交互的桌面端产品设计，且所有功能在线、细节周全。核心对比是Claude Design——后者仍需较多人工介入，而GPT Pro呈现的是「完全不需要操心」的直觉式输出。  这则信息的价值在于：这是中国开"
 resource: "https://x.com/i/status/2046172697118601349"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2046172697118601349"
+created: "2026-04-20"
+updated: "2026-06-26"
+sha256: "7c77ea97c40e49e9a6aef67ff13ff279c7de47031e7da076ab6c7d4a2b62e8f5"
+sources:
+  - "/sources/news/2026-04-21/00__op7418__gpt-pro灰度版前端能力超越claude-design-歸藏-它自己就把codepilot做出来了.md"
 ---
 
 # GPT Pro灰度版前端能力超越Claude Design？歸藏：它自己就把CodePilot做出来了

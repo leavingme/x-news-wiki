@@ -1,5 +1,5 @@
 ---
-type: "Author"
+type: "entity"
 title: "勃勃OC (@bboczeng)"
 description: "X/Twitter 作者 @bboczeng。共收录 2 条 AI 精选推文。"
 tags:
@@ -12,6 +12,13 @@ x_author_name: "勃勃OC"
 x_tweet_count: 2
 x_first_seen: "2026-02-24T01:00:41.939Z"
 x_last_seen: "2026-04-02T00:43:17.594Z"
+type_okf: "Author"
+created: "2026-02-24"
+updated: "2026-06-26"
+sha256: "eaefd762089ce10b856ac4e13c96016b300d11684881b7c399d53e22abeb0c1a"
+sources:
+  - "/sources/highlights/2026-04-02/00__bboczeng__meta-300亿美元ai债务藏在表外-科技巨头的-安然式-财务工程正在制造系统性风险.md"
+  - "/sources/news/2026-02-24/00__bboczeng__ai-末日论的三个转折点-一人公司对-saas-巨头的致命一击.md"
 ---
 
 # 勃勃OC (@bboczeng)

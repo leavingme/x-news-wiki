@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "复旦/上交/港大 GuidedVLA：把 VLA 动作解码器拆成\"专精头\"，机器人在视觉噪声里不再走神"
 description: "**视觉-语言-动作（VLA）模型在真实场景中最大的杀手不是推理能力，而是被背景干扰带偏注意力。**  - 复旦、上交、港大联合提出 GuidedVLA，核心改动：把传统 VLA 的单一动作解码器拆成多个专精 Attention Head，分别负责物体定位、空间几何、任务时序三件事 - 在仿真和真实机器人实验中，域内与域外任务的成功率均超过强基线 - 意义不在分数，而在把\"黑盒动作生成\"拆解成可解"
 resource: "https://x.com/i/status/2070142468033548479"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2070142468033548479"
+created: "2026-06-25"
+updated: "2026-06-26"
+sha256: "e48965f01e47da0dc2c73352c4df3f76ee50a3eb9cded86b82648f9aa8e4fa26"
+sources:
+  - "/sources/news/2026-06-25/00__jiqizhixin__复旦-上交-港大-guidedvla-把-vla-动作解码器拆成-专精头-机器人在视觉噪声里不再走神.md"
 ---
 
 # 复旦/上交/港大 GuidedVLA：把 VLA 动作解码器拆成"专精头"，机器人在视觉噪声里不再走神

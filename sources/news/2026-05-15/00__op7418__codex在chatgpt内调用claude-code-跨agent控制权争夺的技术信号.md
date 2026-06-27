@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Codex在ChatGPT内调用Claude Code：跨Agent控制权争夺的技术信号"
 description: "**一句话核心判断：** 当Codex可以通过computer use在ChatGPT里直接控制Claude Code，意味着\"哪个AI是入口\"的问题已经从产品层演化到了控制层，Agent之间的层级关系正在被代码化。  **信息增量：** - 技术路径确认：Codex调用Claude Code需要\"完整权限\"而非\"自动审查权限\"，权限模型决定控制权归属 - 自动审查会拒绝读取终端内容——这不是bu"
 resource: "https://x.com/i/status/2055135882290901063"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2055135882290901063"
+created: "2026-05-15"
+updated: "2026-06-26"
+sha256: "988399454f390f082278c248520fbf98efcbb1b1609c157b8945118fa3e6475b"
+sources:
+  - "/sources/news/2026-05-15/00__op7418__codex在chatgpt内调用claude-code-跨agent控制权争夺的技术信号.md"
 ---
 
 # Codex在ChatGPT内调用Claude Code：跨Agent控制权争夺的技术信号

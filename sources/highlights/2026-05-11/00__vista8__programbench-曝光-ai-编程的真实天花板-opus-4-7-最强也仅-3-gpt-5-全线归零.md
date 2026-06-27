@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "ProgramBench 曝光 AI 编程的真实天花板：Opus 4.7 最强也仅 3%，GPT-5 全线归零"
 description: "**AI 编程能力被严重高估——从二进制反推完整程序的 benchmark 揭示了当前模型的真实边界。** - Meta、Stanford、Harvard 联合发布的 ProgramBench，要求 AI 从编译产物 + 文档从零重建程序，无源码、无反编译、无网络 - 覆盖从 jq/ripgrep 到 FFmpeg/SQLite/PHP 编译器等多级难度，Opus 4.7 在「接近完成」指标仅 3"
 resource: "https://x.com/i/status/2053699722540712152"
@@ -22,6 +22,13 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "domestic-model-benchmark-performance"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2053699722540712152"
+created: "2026-05-11"
+updated: "2026-06-26"
+sha256: "2ed59d2d9993dbcd36a75ec982061099f198dc870867642db48d0995b767dfdc"
+sources:
+  - "/sources/highlights/2026-05-11/00__vista8__programbench-曝光-ai-编程的真实天花板-opus-4-7-最强也仅-3-gpt-5-全线归零.md"
 ---
 
 # ProgramBench 曝光 AI 编程的真实天花板：Opus 4.7 最强也仅 3%，GPT-5 全线归零

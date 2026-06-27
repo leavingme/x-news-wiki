@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "rtk：用 Rust 二进制解决 LLM 的上下文「垃圾过载」"
 description: "**[判断]** 开源项目 rtk 在 LLM 输入前过滤压缩 git diff / 测试日志 / 终端输出，可降低 60-90% token 消耗，30 分钟 Claude Code 会话实测节省约 80%。  • 核心洞察：AI Coding 效果不稳定往往不是模型不够强，而是喂进去的上下文太脏 • 覆盖 rgrep、cargo test、npm test 等高频场景，测试输出压缩最高达 -9"
 resource: "https://x.com/i/status/2034068299172970756"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2034068299172970756"
+created: "2026-03-18"
+updated: "2026-06-26"
+sha256: "eb95264c730e7ada04a5204352f951033b4f4b16e713a366a1f7b5a907bca507"
+sources:
+  - "/sources/news/2026-04-02/00__axiaisacat__rtk-用-rust-二进制解决-llm-的上下文-垃圾过载.md"
 ---
 
 # rtk：用 Rust 二进制解决 LLM 的上下文「垃圾过载」

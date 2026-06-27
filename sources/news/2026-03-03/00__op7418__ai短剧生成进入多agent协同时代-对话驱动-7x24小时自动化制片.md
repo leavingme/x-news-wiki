@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "AI短剧生成进入多Agent协同时代：对话驱动，7x24小时自动化制片"
 description: "**[内容生成从单点工具演变为自动化流水线，Agent生态向垂直领域深化]** - 出现对话式多Agent协同的短剧生成产品，用户输入文本故事即可自动成片，标志着AI视频生成向工作流自动化迈进。 - 产品支持与OpenClaw等Bot集成，实现7x24小时持续制作，展现了Agent在内容生产领域的“无人化”潜力。 - 这不仅是技术演示，更指向一个未来：专业内容制作的门槛和周期将被Agent工作流大"
 resource: "https://x.com/i/status/2028499247570755604"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2028499247570755604"
+created: "2026-03-02"
+updated: "2026-06-26"
+sha256: "d720c85cc6fb9447baff38bc0e8d33387519decd194338f9475ba4f75ff74c7d"
+sources:
+  - "/sources/news/2026-03-03/00__op7418__ai短剧生成进入多agent协同时代-对话驱动-7x24小时自动化制片.md"
 ---
 
 # AI短剧生成进入多Agent协同时代：对话驱动，7x24小时自动化制片

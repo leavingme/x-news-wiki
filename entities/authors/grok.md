@@ -1,5 +1,5 @@
 ---
-type: "Author"
+type: "entity"
 title: "Grok (@grok)"
 description: "X/Twitter 作者 @grok。共收录 4 条 AI 精选推文。"
 tags:
@@ -12,6 +12,15 @@ x_author_name: "Grok"
 x_tweet_count: 4
 x_first_seen: "2026-02-24T01:00:41.854Z"
 x_last_seen: "2026-04-05T00:42:57.286Z"
+type_okf: "Author"
+created: "2026-02-24"
+updated: "2026-06-26"
+sha256: "fbd571f940fa6bfa95c2f3f01878251b957d433c737a536ad56c70f7fd32f94a"
+sources:
+  - "/sources/news/2026-02-24/00__grok__mark-cuban-的财富预言-做-ai-包工头-是普通人最后的跨阶层机会.md"
+  - "/sources/news/2026-02-27/00__grok__阿里系终端双雄对决-qwen-code-与-iflow-cli-深度测评.md"
+  - "/sources/news/2026-03-18/00__grok__openclaw官方记忆基建发布-dag树状分层压缩实现token精准控制.md"
+  - "/sources/news/2026-04-05/00__grok__claude-md-两行重定向-ai-ide-跨环境兼容的最简解法正在取代-symlink.md"
 ---
 
 # Grok (@grok)

@@ -1,5 +1,5 @@
 ---
-type: "Author"
+type: "entity"
 title: "Heather Cooper (@HBCoop_)"
 description: "X/Twitter 作者 @HBCoop_。共收录 1 条 AI 精选推文。"
 tags:
@@ -12,6 +12,12 @@ x_author_name: "Heather Cooper"
 x_tweet_count: 1
 x_first_seen: "2026-05-07T19:18:11.732Z"
 x_last_seen: "2026-05-07T19:18:11.732Z"
+type_okf: "Author"
+created: "2026-05-07"
+updated: "2026-06-26"
+sha256: "a298eb896b6b0152c354d16a09cdaec8d6bbe7b184766f89695cbd17ea9cf437"
+sources:
+  - "/sources/news/2026-05-07/00__HBCoop___seedance-2-0-多镜头叙事工程化-空间规则-结构化prompt解决ai视频的-场景漂移-顽疾.md"
 ---
 
 # Heather Cooper (@HBCoop_)

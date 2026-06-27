@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "OpenClaw 的「墙外效应」：Web Search 成为绕不过的基础设施"
 description: "**[境外 LLM 与本地部署的地缘张力]** • 全民 OpenClaw 意味着全民获得境外 LLM + Web Search MCP 的「组合拳」，本地 VPN 搭建门槛被击穿 • 国产 LLM 供应商面临两难：断 Web Search 则 Coding 场景失效，不断则用户可借道获取境外 endpoint • 百度独占搜索结果的「残废版」套餐可能成为最终妥协，用户被迫在可用性与合规性之间做选"
 resource: "https://x.com/i/status/2031532920645562387"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 88
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2031532920645562387"
+created: "2026-03-11"
+updated: "2026-06-26"
+sha256: "17faaa96758d00fcee79d8d83c7722b8a493a1de531f2fa1f99b52d9c22b5e67"
+sources:
+  - "/sources/news/2026-03-11/88__lidangzzz__openclaw-的-墙外效应-web-search-成为绕不过的基础设施.md"
 ---
 
 # OpenClaw 的「墙外效应」：Web Search 成为绕不过的基础设施

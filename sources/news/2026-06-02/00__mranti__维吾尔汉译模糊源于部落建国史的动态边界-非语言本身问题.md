@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "维吾尔汉译模糊源于部落建国史的动态边界，非语言本身问题"
 description: "**[历史动态性是翻译不确定性的根因，而非中文表达能力不足]**  Michael Anti从历史人类学角度反驳了\"中文无法清晰翻译维吾尔相关概念\"的预设，指出真正原因在于维吾尔族群的形成过程本身缺乏清晰的部落/国家边界——人群和地域边界高度动态，与中原官方的交往记录也不连续，导致汉译层面产生系统性模糊。  他进一步以外国人对中国的称呼演变（契丹、秦、唐、汉、支那、中国）作类比：名称的多元并存本质"
 resource: "https://x.com/i/status/2061600509409300931"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2061600509409300931"
+created: "2026-06-02"
+updated: "2026-06-26"
+sha256: "b87291100f912fde28c01e53a0519b3204a4141f5d4a958ba6ef672b95433f77"
+sources:
+  - "/sources/news/2026-06-02/00__mranti__维吾尔汉译模糊源于部落建国史的动态边界-非语言本身问题.md"
 ---
 
 # 维吾尔汉译模糊源于部落建国史的动态边界，非语言本身问题

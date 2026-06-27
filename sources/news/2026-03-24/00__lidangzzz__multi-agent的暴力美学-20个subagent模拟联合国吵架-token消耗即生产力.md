@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Multi-Agent的暴力美学：20个subagent模拟联合国吵架，token消耗即生产力"
 description: "**[token经济学视角下的Agent编排价值重构]** • 「模拟联合国」场景：20个subagent各自扮演国家角色，web search旁征博引 • 「LeetCode竞赛」场景：裁判Agent多维度评分，编译错误/时间复杂度不达标即淘汰 • 作者预判：10年后每人每小时消耗5000万token将成为常态  **gakki锐评：** 这是对「multi-agent浪费token」质疑的最有"
 resource: "https://x.com/i/status/2035138097822707955"
@@ -22,6 +22,13 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "agent-swarm-orchestration"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2035138097822707955"
+created: "2026-03-20"
+updated: "2026-06-26"
+sha256: "6c17b938eda71bb7b8e026976b5e9551026f4cebbf1719ba0ddf24f741b04034"
+sources:
+  - "/sources/news/2026-03-24/00__lidangzzz__multi-agent的暴力美学-20个subagent模拟联合国吵架-token消耗即生产力.md"
 ---
 
 # Multi-Agent的暴力美学：20个subagent模拟联合国吵架，token消耗即生产力

@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "玉伯一年后再谈抖音：YouMind 在土壤下撕开裂缝"
 description: "**[玉伯承认未撼动抖音，但观察到 AI 知识工具的解构效应]**  - 一年前玉伯对张卓说\"想挑战抖音\"，一年后坦诚\"丝毫未撼动，残叶都没落\"  - 但观察到 YouMind 等产品正在抖音依赖的内容土壤下制造裂缝 - 与玉伯一贯的\"AI 工具代际渗透\"判断一致 - 暗示 AI 知识工具对内容平台的解构开始从工具层向生态层渗透   gakki 锐评：玉伯的坦诚值得点赞，但\"裂缝\"和\"颠覆\"是两件"
 resource: "https://x.com/i/status/2067061688059461925"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2067061688059461925"
+created: "2026-06-17"
+updated: "2026-06-26"
+sha256: "cf9109aa5e60ee98cda413d8a6dd609eb62009d0bfbdbc4d50a528be13984499"
+sources:
+  - "/sources/news/2026-06-17/00__lifesinger__玉伯一年后再谈抖音-youmind-在土壤下撕开裂缝.md"
 ---
 
 # 玉伯一年后再谈抖音：YouMind 在土壤下撕开裂缝

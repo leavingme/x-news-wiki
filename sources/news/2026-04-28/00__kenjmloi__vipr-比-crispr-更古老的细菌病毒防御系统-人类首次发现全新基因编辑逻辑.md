@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "VIPR：比 CRISPR 更古老的细菌病毒防御系统，人类首次发现全新基因编辑逻辑"
 description: "**一句话核心判断：科学家在噬菌体中发现了一套先于 CRISPR 存在的可编程 DNA 靶向系统，其工作原理完全独立于 CRISPR 家族，意味着基因编辑工具箱迎来第三极。**  - 该系统被命名为 VIPR（Viral Interference Programmable Repeat），使用全新的逻辑寻找靶标 - 早于 CRISPR 意味着它可能是细菌抵御病毒的更原始方案，进化历史更长 - 学术"
 resource: "https://x.com/kenjmloi/status/2048866792786055272"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "ai-trend-digest"
+type_okf: "X Tweet"
+source_url: "https://x.com/kenjmloi/status/2048866792786055272"
+created: "2026-04-27"
+updated: "2026-06-26"
+sha256: "25efd3101f624f4f0de65995d37e8b9a99c917e437d804a8c2199beb8353d770"
+sources:
+  - "/sources/news/2026-04-28/00__kenjmloi__vipr-比-crispr-更古老的细菌病毒防御系统-人类首次发现全新基因编辑逻辑.md"
 ---
 
 # VIPR：比 CRISPR 更古老的细菌病毒防御系统，人类首次发现全新基因编辑逻辑

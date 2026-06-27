@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "AI Slop 泛滥之后，\"靠谱\"本身就是定价权"
 description: "**当 AI 生成内容变成免费水货，\"靠谱\"成了稀缺品定价锚。**  - 内容洪泛导致信号噪声比恶化，甄别成本超过创作成本 - 靠谱意味着：可复现、可追责、可预期，这三点恰恰是当前 AI 生成最稀缺的品质 - 垂直赛道的小而美玩家，靠\"靠谱积累\"正在建立 AI 水货时代的新护城河  信息爆炸和知识贬值的反面，是信任资产的重新定价。"
 resource: "https://x.com/i/status/2057597821810090207"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2057597821810090207"
+created: "2026-05-21"
+updated: "2026-06-26"
+sha256: "777de765380d839ed40715e28e2e9c5d734a2121fbf63b5ed9ffde0ad1951a4d"
+sources:
+  - "/sources/news/2026-05-22/00__oran_ge__ai-slop-泛滥之后-靠谱-本身就是定价权.md"
 ---
 
 # AI Slop 泛滥之后，"靠谱"本身就是定价权

@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "向阳乔木兑现预告：Papr 正式开源，macOS 一键安装"
 description: "**[从预告到交付的 24 小时闭环，Agent/Skill 生态又添一件]**  要点： - GitHub 仓库已开，命名空间 `l0ng-ai/papr`，提供 `brew install --cask` 一键安装 - 与此前\"明日开源\"预告形成完整交付链路，体现独立开发者节奏感 - 工具定位（论文处理/Skill 库/Paper-to-Code）尚需源码解读才能定调  锐评：交付执行力到位，"
 resource: "https://x.com/i/status/2066902879462662310"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2066902879462662310"
+created: "2026-06-16"
+updated: "2026-06-26"
+sha256: "bf87109f5d606fc36bc79e7f20d57d653f394bce0a726f37e4c0bf7619ec9468"
+sources:
+  - "/sources/news/2026-06-16/00__vista8__向阳乔木兑现预告-papr-正式开源-macos-一键安装.md"
 ---
 
 # 向阳乔木兑现预告：Papr 正式开源，macOS 一键安装

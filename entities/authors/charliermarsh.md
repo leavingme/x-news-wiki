@@ -1,5 +1,5 @@
 ---
-type: "Author"
+type: "entity"
 title: "Charlie Marsh (@charliermarsh)"
 description: "X/Twitter 作者 @charliermarsh。共收录 8 条 AI 精选推文。"
 tags:
@@ -12,6 +12,19 @@ x_author_name: "Charlie Marsh"
 x_tweet_count: 8
 x_first_seen: "2026-06-25T19:20:30.047Z"
 x_last_seen: "2026-06-26T01:21:41.982Z"
+type_okf: "Author"
+created: "2026-06-25"
+updated: "2026-06-26"
+sha256: "e8605c41db255b3e7e3bf5fb02e137e48c6dbd42a73f8949a50e8e0bf52813dd"
+sources:
+  - "/sources/highlights/2026-06-25/00__charliermarsh__codex-不写代码改当实验员-uv-砍掉-1500-个-rust-derive-全程自主跑完前后对比.md"
+  - "/sources/highlights/2026-06-25/00__charliermarsh__我们是否还需要理解代码-ai-coding-时代工程师身份认同危机浮出水面.md"
+  - "/sources/news/2026-06-25/00__charliermarsh__astral-ceo-charlie-marsh-抛出反共识-发点-regression-才健康.md"
+  - "/sources/news/2026-06-25/00__charliermarsh__astral-团队给排期工具加-hydration-break-uv-创始人用幽默推销-python-工具链野心.md"
+  - "/sources/news/2026-06-25/00__charliermarsh__codex-帮点-74-个页面取消-linkedin-通知-ai-agent-接管-无聊到没人想做-的场景.md"
+  - "/sources/news/2026-06-25/00__charliermarsh__rust-创始人吐槽-一个-bool-本可以是-enum-类型设计的第一性原理.md"
+  - "/sources/news/2026-06-25/00__charliermarsh__代码评审出现新物种-charlie-marsh-一眼看穿-agent-was-here-的-ai-注释指纹.md"
+  - "/sources/news/2026-06-26/00__charliermarsh__block-goose-负责人暗示新进展-鹅与蛋不是隐喻-ai-coding-agent-或迎重要更新.md"
 ---
 
 # Charlie Marsh (@charliermarsh)

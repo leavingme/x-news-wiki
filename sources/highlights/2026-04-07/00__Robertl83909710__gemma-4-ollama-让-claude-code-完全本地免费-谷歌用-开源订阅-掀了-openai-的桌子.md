@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Gemma 4 + Ollama 让 Claude Code 完全本地免费：谷歌用「开源订阅」掀了 OpenAI 的桌子"
 description: "**[一句话核心判断]**  谷歌在 Ollama 上发布 Gemma 4，本地运行 Claude Code彻底免费——AI订阅制的商业模式根基被动摇了。  **信息增量：** - Gemma 4 通过 Ollama 无需API密钥即可驱动 Claude Code生态 - 本地推理绕过云端，API订阅费归零 - 谷歌用开源模型卡位\"免费本地Agent\"生态位  **影响评估：** - 对 Open"
 resource: "https://x.com/i/status/2041266248177340642"
@@ -22,6 +22,13 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "claude-code-ecosystem"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2041266248177340642"
+created: "2026-04-06"
+updated: "2026-06-26"
+sha256: "48c005914ddbb89e334ea415cfda5720891114fd9225bf523b59baae9deb269f"
+sources:
+  - "/sources/highlights/2026-04-07/00__Robertl83909710__gemma-4-ollama-让-claude-code-完全本地免费-谷歌用-开源订阅-掀了-openai-的桌子.md"
 ---
 
 # Gemma 4 + Ollama 让 Claude Code 完全本地免费：谷歌用「开源订阅」掀了 OpenAI 的桌子

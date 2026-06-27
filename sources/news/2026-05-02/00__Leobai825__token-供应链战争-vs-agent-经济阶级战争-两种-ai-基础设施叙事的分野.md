@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Token 供应链战争 vs Agent 经济阶级战争：两种 AI 基础设施叙事的分野"
 description: "**卖 Token 和做中转是两件完全不同的事——前者打的是供应链战争，后者只是搬运工。**  - 天策提出一个关键区分：「卖 Token ≠ 做中转」，中转是载体，Token 供应链才是战场 - 核心立场差异：孙哥阵营思考「如何让客户多付钱」，天策阵营思考「如何让小伙伴多赚钱」——这是两种截然不同的 Agent 经济哲学 - 暗示当前赛道无直接竞争者，差异化在于价值分配逻辑而非价格战  锐评：这"
 resource: "https://x.com/i/status/2050613138018709876"
@@ -22,6 +22,13 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "ai-compute-on-chain"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2050613138018709876"
+created: "2026-05-02"
+updated: "2026-06-26"
+sha256: "3c89dbcbc8df61e00b2b509f68362092955105a90589e249b8f63ca4a82333f1"
+sources:
+  - "/sources/news/2026-05-02/00__Leobai825__token-供应链战争-vs-agent-经济阶级战争-两种-ai-基础设施叙事的分野.md"
 ---
 
 # Token 供应链战争 vs Agent 经济阶级战争：两种 AI 基础设施叙事的分野

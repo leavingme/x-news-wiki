@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "斯坦福开设新课 CS146S：揭秘 AI 时代的现代软件开发"
 description: "**[核心逻辑]** 斯坦福大学联合 a16z 推出新课程，标志着“规划→AI生成→修改→循环”的新型 AI 编程工作流正式进入顶尖高校的计算机教育体系。  - 课程由 a16z 合伙人 Martin Casado 主讲，聚焦 AI 时代的代码编写。 - 教学内容涵盖 LLM 提示词技巧、AI 编程代理搭建、Claude Code 实战及自动化测试审查。 - 嘉宾阵容堪称 AI 编程工具链“全明星"
 resource: "https://x.com/i/status/2026438910151152007"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2026438910151152007"
+created: "2026-02-24"
+updated: "2026-06-26"
+sha256: "5afbc79687e067d3f4b75e46124af3e5b9de8424c31c8ef4483021ac47539f66"
+sources:
+  - "/sources/news/2026-02-25/00__dotey__斯坦福开设新课-cs146s-揭秘-ai-时代的现代软件开发.md"
 ---
 
 # 斯坦福开设新课 CS146S：揭秘 AI 时代的现代软件开发

@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "别什么都用 AI 生图：Unsplash API + Canva 的低成本内容配图方案"
 description: "**AI 生图不是所有场景的最优解——传统图库 + 设计工具的组合在成本和质量上仍有竞争力。**  - 向阳乔木实测方案：申请免费 Unsplash API 接入，用 Canva 画布组合加文字 - 核心逻辑：文章配图不需要原创性，需要的是匹配度和低成本  gakki 锐评：这是对\"AI 万能论\"的务实纠偏。内容生产的工具选型应该是成本-质量-速度的三角博弈，不是\"能用 AI 就用 AI\"。Uns"
 resource: "https://x.com/i/status/2053145851187655062"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2053145851187655062"
+created: "2026-05-09"
+updated: "2026-06-26"
+sha256: "d6c608d85ba94f27ac906d433c246377b5cb07e9a608cd35aa4a25f8f8eba478"
+sources:
+  - "/sources/news/2026-05-09/00__vista8__别什么都用-ai-生图-unsplash-api-canva-的低成本内容配图方案.md"
 ---
 
 # 别什么都用 AI 生图：Unsplash API + Canva 的低成本内容配图方案

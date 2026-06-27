@@ -1,5 +1,5 @@
 ---
-type: "Author"
+type: "entity"
 title: "Benson Sun (@BensonTWN)"
 description: "X/Twitter 作者 @BensonTWN。共收录 1 条 AI 精选推文。"
 tags:
@@ -12,6 +12,12 @@ x_author_name: "Benson Sun"
 x_tweet_count: 1
 x_first_seen: "2026-03-22T12:43:08.321Z"
 x_last_seen: "2026-03-22T12:43:08.321Z"
+type_okf: "Author"
+created: "2026-03-22"
+updated: "2026-06-26"
+sha256: "1749b12fb5e3641ac08c4e676e72f065a7d00699fbad551b83e88f19ddc2c96f"
+sources:
+  - "/sources/highlights/2026-03-22/00__BensonTWN__agent浏览器token消耗实测-同一任务差4-5倍-架构设计正在吃掉你的成本.md"
 ---
 
 # Benson Sun (@BensonTWN)

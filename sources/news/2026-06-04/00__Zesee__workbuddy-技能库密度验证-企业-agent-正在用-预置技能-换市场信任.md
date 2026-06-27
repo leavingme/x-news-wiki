@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Workbuddy 技能库密度验证：企业 Agent 正在用「预置技能」换市场信任"
 description: "**[一句话核心判断]** Workbuddy 内置技能库的丰富度传递了一个信号：企业 Agent 的竞争正在从「模型能力」转向「开箱即用的场景覆盖」。  **信息增量：** - 企业市场对 Agent 的核心诉求不是模型有多强，而是「能不能直接用」 - 预置技能库 = 将行业最佳实践封装为可调用单元，降低企业部署成本 - 技能即产品（Skills-as-Product）正在企业赛道复制消费者赛道"
 resource: "https://x.com/i/status/2062414145631211892"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2062414145631211892"
+created: "2026-06-04"
+updated: "2026-06-26"
+sha256: "85baed00cd25e988e97b2601235c7141088cf4ec38e9ae358694cb4746b4e2be"
+sources:
+  - "/sources/news/2026-06-04/00__Zesee__workbuddy-技能库密度验证-企业-agent-正在用-预置技能-换市场信任.md"
 ---
 
 # Workbuddy 技能库密度验证：企业 Agent 正在用「预置技能」换市场信任

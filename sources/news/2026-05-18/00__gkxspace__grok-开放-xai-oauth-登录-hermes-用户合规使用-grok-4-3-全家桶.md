@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Grok 开放 xAI OAuth 登录：Hermes 用户合规使用 Grok 4.3 全家桶"
 description: "**Grok 终于合规接入 Hermes。** 余温披露 Grok 允许通过 xAI OAuth 登陆 Hermes，支持 Grok 4.3 文本对话、高级推理、TTS 语音回复以及图像/视频生成。需推特蓝V认证。  这意味着 Hermes 用户无需额外配置即可使用 Grok 系列能力，是一次无缝的能力叠加。"
 resource: "https://x.com/i/status/2056258974559683016"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2056258974559683016"
+created: "2026-05-18"
+updated: "2026-06-26"
+sha256: "5cbe8946b32ecfeea0f4a57d660b262172cad6d8d8f74b23b964b082a2de71dd"
+sources:
+  - "/sources/news/2026-05-18/00__gkxspace__grok-开放-xai-oauth-登录-hermes-用户合规使用-grok-4-3-全家桶.md"
 ---
 
 # Grok 开放 xAI OAuth 登录：Hermes 用户合规使用 Grok 4.3 全家桶

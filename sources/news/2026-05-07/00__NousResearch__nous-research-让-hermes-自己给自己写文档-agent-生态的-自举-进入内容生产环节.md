@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Nous Research 让 Hermes 自己给自己写文档：Agent 生态的「自举」进入内容生产环节"
 description: "**Hermes Agent 用自身能力爬取互联网、整理用例并写入官方文档——Agent 的自我完善循环正在从代码延伸到知识库。**  - Nous Research 让 Hermes 自主爬取和归纳使用场景，补充到官方文档中 - 同时开放社区提交，形成「AI 生成 + 人工补充」的混合文档模式 - 这是 Agent 生态从「被使用」到「自我建设」的微小但重要的范式转变  锐评：让 Agent 给"
 resource: "https://x.com/NousResearch/status/2052140057222369541"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "ai-trend-digest"
+type_okf: "X Tweet"
+source_url: "https://x.com/NousResearch/status/2052140057222369541"
+created: "2026-05-06"
+updated: "2026-06-26"
+sha256: "c922c35549f61e8cb106e75130a0708e847dbf1222db8f12f7b314ca5d967d04"
+sources:
+  - "/sources/news/2026-05-07/00__NousResearch__nous-research-让-hermes-自己给自己写文档-agent-生态的-自举-进入内容生产环节.md"
 ---
 
 # Nous Research 让 Hermes 自己给自己写文档：Agent 生态的「自举」进入内容生产环节

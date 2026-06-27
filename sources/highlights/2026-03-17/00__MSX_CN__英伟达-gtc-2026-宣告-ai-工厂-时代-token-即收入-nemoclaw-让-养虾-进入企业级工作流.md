@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "英伟达 GTC 2026 宣告「AI 工厂」时代：Token 即收入，Nemoclaw 让「养虾」进入企业级工作流"
 description: "**英伟达正式从芯片商转型为 AI 基础设施运营商，定义「数据进、Token 出」的新经济模型。** • Nemoclaw 基于 OpenClaw 框架，将 Agent 调度封装为企业可理解的「Token 配额」资源管理 • 27 年算力基建需求预测突破 1 万亿美元，印证「算力即权力」的地缘逻辑 • DLSS 5 融合 3D 结构化数据与生成式 AI，虚拟世界生产管线迎来电影工业化拐点 • Th"
 resource: "https://x.com/i/status/2033740594758218151"
@@ -22,6 +22,13 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "open-agent-ecosystem"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2033740594758218151"
+created: "2026-03-17"
+updated: "2026-06-26"
+sha256: "460fdffeda51019af26bf8beb6d96516ceea7982b18431ae71213a308c61e9c2"
+sources:
+  - "/sources/highlights/2026-03-17/00__MSX_CN__英伟达-gtc-2026-宣告-ai-工厂-时代-token-即收入-nemoclaw-让-养虾-进入企业级工作流.md"
 ---
 
 # 英伟达 GTC 2026 宣告「AI 工厂」时代：Token 即收入，Nemoclaw 让「养虾」进入企业级工作流

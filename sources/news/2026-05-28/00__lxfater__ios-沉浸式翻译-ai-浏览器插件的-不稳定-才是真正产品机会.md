@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "iOS 沉浸式翻译：AI 浏览器插件的「不稳定」才是真正产品机会"
 description: "**[Safari 不稳定催生的 iOS App 迁移，正在重演桌面端插件到 App 的路径]**  铁锤人的经验：Safari 沉浸式插件「看着看着就变卡」，切换到 iOS App 版的沉浸式翻译反而稳定。这揭示了一个正在加速的趋势——AI 辅助阅读工具正在从浏览器插件向独立 App 迁移，以稳定性换取体验连续性。  这对 AI 产品经理的启示是：插件形态在移动端的体验瓶颈已到临界点，Nativ"
 resource: "https://x.com/i/status/2060041459135553594"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2060041459135553594"
+created: "2026-05-28"
+updated: "2026-06-26"
+sha256: "89e96016a07c070eb1dc6296c8832d995193c38afc81476ef83a6ece88e4685a"
+sources:
+  - "/sources/news/2026-05-28/00__lxfater__ios-沉浸式翻译-ai-浏览器插件的-不稳定-才是真正产品机会.md"
 ---
 
 # iOS 沉浸式翻译：AI 浏览器插件的「不稳定」才是真正产品机会

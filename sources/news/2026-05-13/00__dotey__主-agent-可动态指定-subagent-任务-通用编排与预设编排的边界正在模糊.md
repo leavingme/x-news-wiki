@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "主 Agent 可动态指定 Subagent 任务：通用编排与预设编排的边界正在模糊"
 description: "**[动态任务分配正在成为 Multi-Agent 编排的事实标准]**  - 宝玉指出主 Agent 既可以动态指定 subagent 任务，也可以预先写好固定流程——这意味着单 Agent 与多 Agent 的边界已不取决于「有几个 Agent」，而取决于「决策权是否集中」 - 通用 subagent 的任务分配从硬编码转向动态化，Agent 框架正在向「运行时协商」而非「编译时定义」演进 -"
 resource: "https://x.com/i/status/2054609694329606353"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2054609694329606353"
+created: "2026-05-13"
+updated: "2026-06-26"
+sha256: "936502936fce06b2877f95bf29e4f8180109b576b102642ac9bd95e546afedb6"
+sources:
+  - "/sources/news/2026-05-13/00__dotey__主-agent-可动态指定-subagent-任务-通用编排与预设编排的边界正在模糊.md"
 ---
 
 # 主 Agent 可动态指定 Subagent 任务：通用编排与预设编排的边界正在模糊

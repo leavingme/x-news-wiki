@@ -1,5 +1,5 @@
 ---
-type: "Concept"
+type: "concept"
 title: "ai-safety-and-governance"
 description: "跨日主题 \"ai-safety-and-governance\"，共 1 条相关精选推文。"
 tags:
@@ -11,6 +11,12 @@ x_topic_slug: "ai-safety-and-governance"
 x_tweet_count: 1
 x_first_seen: "2026-04-27T10:19:12.802Z"
 x_last_seen: "2026-04-27T10:19:12.802Z"
+type_okf: "Concept"
+created: "2026-04-27"
+updated: "2026-06-26"
+sha256: "40c0e01f1bb127066357c7d8b023ea7dc3eed45eff604ea7f62e6481df1d1bc0"
+sources:
+  - "/sources/highlights/2026-04-27/00__xiaohu__manus外胎收购案被国家发改委依法否决-ai-agent赛道首现外资安全审查判例.md"
 ---
 
 # 主题: ai-safety-and-governance

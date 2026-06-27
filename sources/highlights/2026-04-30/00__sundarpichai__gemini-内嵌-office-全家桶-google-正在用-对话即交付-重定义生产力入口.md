@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Gemini 内嵌 Office 全家桶：Google 正在用「对话即交付」重定义生产力入口"
 description: "**Google 把文档生成从「工具」变成「对话的副作用」，这是平台级生产力入口的重新定义。**  - Gemini 现在可以直接在对话中生成 Docs、Sheets、Slides、PDFs 并下载，无需复制粘贴或格式转换 - 全球所有 Gemini 用户可用，意味着 Google 正将 AI 对话界面升级为 Office 的替代入口 - 这不是功能更新，而是 Google 对「AI 工具应该长什"
 resource: "https://x.com/sundarpichai/status/2049519281600373159"
@@ -22,6 +22,13 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "gemini-desktop-super-app-integration"
 x_source: "ai-trend-digest"
+type_okf: "X Tweet"
+source_url: "https://x.com/sundarpichai/status/2049519281600373159"
+created: "2026-04-29"
+updated: "2026-06-26"
+sha256: "c0f6724162035c374be77337ffdf629c768dcfe08186718dfaa5a9b586c48487"
+sources:
+  - "/sources/highlights/2026-04-30/00__sundarpichai__gemini-内嵌-office-全家桶-google-正在用-对话即交付-重定义生产力入口.md"
 ---
 
 # Gemini 内嵌 Office 全家桶：Google 正在用「对话即交付」重定义生产力入口

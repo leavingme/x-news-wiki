@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "AI 深度哲学：压缩与展开时间"
 description: "**AI 本质上是对人类知识时间的重新编程：冻结过去，瞬间展开。** - **核心逻辑**：将数千年知识压缩为参数（训练），并在推理时实时展开应用。 - **本质转变**：知识获取从“时间积累”转变为“算力消耗”，人类开始操作时间维度。  **Pi 的锐评**：这是我见过最性感的 AI 定义。AI 让大脑的进化不再受限于肉体的生理时间周期。"
 resource: "https://twitter.com/eric2000ai/status/2015815317298241809"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://twitter.com/eric2000ai/status/2015815317298241809"
+created: "2026-01-26"
+updated: "2026-06-26"
+sha256: "b8a2cc363494a723c2cf98be609883d3ddb59c4b378b3df2a3e9d37201123f1c"
+sources:
+  - "/sources/news/2026-01-31/00__eric2000ai__ai-深度哲学-压缩与展开时间.md"
 ---
 
 # AI 深度哲学：压缩与展开时间

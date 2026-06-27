@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "截图→HTML 工作流：DeepSeek 正在成为「所见即所得」逆向生成器"
 description: "**用户已将 DeepSeek 截图复刻 HTML 作为日常工作流，指向 AI 逆向生成的新实用范式。**  - 操作方式极简：截图发给 DeepSeek，直接输出可运行的 HTML 代码 - 这种「截图→代码」的模式正在替代传统设计→开发的交接链路 - 结合 DeepSeek 的低成本 API，逆向生成正在成为独立开发者的标配技能  Gakki 锐评：截图逆向不是新概念，但从「可以试试」变成「直"
 resource: "https://x.com/i/status/2049493571292786997"
@@ -22,6 +22,13 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "ai-coding-reverse-engineering"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2049493571292786997"
+created: "2026-04-29"
+updated: "2026-06-26"
+sha256: "47807b64208ee8b9dd06159e822341f2c3abdffb9513a8c331f76ea52853a875"
+sources:
+  - "/sources/news/2026-04-29/00__vista8__截图-html-工作流-deepseek-正在成为-所见即所得-逆向生成器.md"
 ---
 
 # 截图→HTML 工作流：DeepSeek 正在成为「所见即所得」逆向生成器

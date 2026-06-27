@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Web Access Skill 千星爆火：Agent 浏览器自动化痛点被系统性解决"
 description: "**[Agent 浏览器交互进入「开箱即用」时代]** • Orange AI 发布的 Web Access Skill 直击四大痛点：搜索替代浏览导致信息不全、微信/小红书重复登录、与人类用户抢浏览器、单线程低效 • 安装方式极简——一句自然语言指令即可完成，体现 Skill 生态「零摩擦」设计哲学 • 1000+ stars 的社区反馈验证：Agent 基础设施层的工具标准化需求极度旺盛  A"
 resource: "https://x.com/i/status/2036692345941594426"
@@ -22,6 +22,13 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "agent-browser-token-efficiency"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2036692345941594426"
+created: "2026-03-25"
+updated: "2026-06-26"
+sha256: "6f7e711e8071f955fd9d3ec5c4bc408151107507e5d11d309b5b960bb55ae082"
+sources:
+  - "/sources/highlights/2026-03-25/00__oran_ge__web-access-skill-千星爆火-agent-浏览器自动化痛点被系统性解决.md"
 ---
 
 # Web Access Skill 千星爆火：Agent 浏览器自动化痛点被系统性解决

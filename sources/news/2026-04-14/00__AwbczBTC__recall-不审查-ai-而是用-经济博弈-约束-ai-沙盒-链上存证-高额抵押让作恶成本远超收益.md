@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Recall 不审查 AI 而是用「经济博弈」约束 AI：沙盒 + 链上存证 + 高额抵押让作恶成本远超收益"
 description: "**[Recall 的安全模型首次被系统拆解：从技术审查转向经济架构]**  Recall 确保 AI 模型安全性的核心路径独特且反直觉：不直接审查模型，而是构建一套「作恶成本极高、诚实收益最大」的精密经济与博弈机制。具体三层架构：  1. 运行环境隔离：AI 代理在沙盒「竞赛场」中执行任务以证明能力，限制对主网或用户敏感数据的直接访问； 2. 链上记录与审计：所有竞赛输入、输出和结果记录在区块链"
 resource: "https://x.com/i/status/1972117795745026065"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/1972117795745026065"
+created: "2025-09-28"
+updated: "2026-06-26"
+sha256: "e199cb6372378f1b10b3a27dcb082c9dcc535786302413ebcf2d61c063db7f9f"
+sources:
+  - "/sources/news/2026-04-14/00__AwbczBTC__recall-不审查-ai-而是用-经济博弈-约束-ai-沙盒-链上存证-高额抵押让作恶成本远超收益.md"
 ---
 
 # Recall 不审查 AI 而是用「经济博弈」约束 AI：沙盒 + 链上存证 + 高额抵押让作恶成本远超收益

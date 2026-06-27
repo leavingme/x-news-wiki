@@ -1,5 +1,5 @@
 ---
-type: "Author"
+type: "entity"
 title: "阿花说缠论 (@Cycle_King1913)"
 description: "X/Twitter 作者 @Cycle_King1913。共收录 1 条 AI 精选推文。"
 tags:
@@ -12,6 +12,12 @@ x_author_name: "阿花说缠论"
 x_tweet_count: 1
 x_first_seen: "2026-01-31T09:16:26.260Z"
 x_last_seen: "2026-01-31T09:16:26.260Z"
+type_okf: "Author"
+created: "2026-01-31"
+updated: "2026-06-26"
+sha256: "52690f3a237f297ba7a3df6024e38593a453fb2d04c6f243600ff6ef393fad80"
+sources:
+  - "/sources/news/2026-01-31/00__Cycle_King1913__2026-大-a-牛市推演-航天-半导体与算力的-天象-叙事.md"
 ---
 
 # 阿花说缠论 (@Cycle_King1913)

@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "宝玉定调：模型能力才是王道，Codex 与 Claude Code 之争本质是底层模型之争"
 description: "**宝玉给出一句可能让所有 Coding Agent 工具党沉默的工具选型公式。**  - 「模型能力差不多，自然是 Codex 胜出；模型能力有差距时，宁可麻烦一点手动操作」 - 把 Codex CLI 与 Claude Code 的产品体验差异，直接降维到底层模型的差距 - 这是 2026 年 Coding 工具讨论里少见的\"反工具主义\"立场   gakki 锐评：当 GPT-5.5 vs O"
 resource: "https://x.com/i/status/2065940990670614874"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2065940990670614874"
+created: "2026-06-13"
+updated: "2026-06-26"
+sha256: "f29511b84475f716e6846c1561313e2954ec98fa44a93ac9454eb09890e30b85"
+sources:
+  - "/sources/news/2026-06-14/00__dotey__宝玉定调-模型能力才是王道-codex-与-claude-code-之争本质是底层模型之争.md"
 ---
 
 # 宝玉定调：模型能力才是王道，Codex 与 Claude Code 之争本质是底层模型之争

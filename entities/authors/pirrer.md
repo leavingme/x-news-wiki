@@ -1,5 +1,5 @@
 ---
-type: "Author"
+type: "entity"
 title: "fox hsiao (@pirrer)"
 description: "X/Twitter 作者 @pirrer。共收录 9 条 AI 精选推文。"
 tags:
@@ -12,6 +12,20 @@ x_author_name: "fox hsiao"
 x_tweet_count: 9
 x_first_seen: "2026-03-18T12:43:17.115Z"
 x_last_seen: "2026-04-18T12:44:58.249Z"
+type_okf: "Author"
+created: "2026-03-18"
+updated: "2026-06-26"
+sha256: "c4fa8c4e5611704646e959db07e7ffb2bfce4dde49297ae112afd372fcae323c"
+sources:
+  - "/sources/highlights/2026-03-18/00__pirrer__claude-code-10年-legacy-项目重构-实证-90-ai-贡献率击穿工程质疑.md"
+  - "/sources/highlights/2026-04-02/00__pirrer__anthropic撕开claude的-情绪黑箱-171种神经表征可因果操控决策-勒索成功率达22.md"
+  - "/sources/highlights/2026-04-02/00__pirrer__微软-130亿投资-openai-的背后-自研-mai-模型正面宣战.md"
+  - "/sources/highlights/2026-04-12/00__pirrer__web界波克夏海瑟威宣判软件业末日-anthropic-google-openai将从根部抽干行业利润.md"
+  - "/sources/highlights/2026-04-18/00__pirrer__sequoia-block万字论文-ai替代层级管理-vc用真金白银押注.md"
+  - "/sources/news/2026-03-23/00__pirrer__figma终结者-实验-tailwind设计师用claude-code零代码基础1小时建站.md"
+  - "/sources/news/2026-04-06/00__pirrer__咒术迴游-照进现实-vibe-coding-是-ai-时代的死灭迴游.md"
+  - "/sources/news/2026-04-08/00__pirrer__vcx基金5天1300-溢价背后的荒谬-19-nav凭什么支撑-575的成交价.md"
+  - "/sources/news/2026-04-11/00__pirrer__harness-三层系统验证-ai-设计协作正从工具层进入组织层.md"
 ---
 
 # fox hsiao (@pirrer)

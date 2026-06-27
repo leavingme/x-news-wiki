@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "向阳乔木双重转发释出 GitHub 项目与在线体验链接"
 description: "**向阳乔木对两个不同账号两次转发同一组链接（GitHub 仓库 + 在线 Demo），属主动推介式发布。** - GitHub + 在线体验是工具/Skill 类项目的典型发布结构 - 推文本身未披露工具定位、技术栈与解决的问题，信息增量有限 - 双重转发暗示这是他本人希望扩散的项目，值得后续跟进功能细节   gakki 锐评：纯链接推发缺功能说明，价值判断需等后续详情。AI Coding 与 "
 resource: "https://x.com/i/status/2066517508488913349"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2066517508488913349"
+created: "2026-06-15"
+updated: "2026-06-26"
+sha256: "bc66ee5f87c4102d410ee3b78b5d5d41d0c7103e8388bdedff7d6d89d0287d97"
+sources:
+  - "/sources/news/2026-06-15/00__vista8__向阳乔木双重转发释出-github-项目与在线体验链接.md"
 ---
 
 # 向阳乔木双重转发释出 GitHub 项目与在线体验链接

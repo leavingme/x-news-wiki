@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "火山引擎FORCE大会全面进军Coding与Agent，字节云AI战略再升级"
 description: "**字节火山引擎明牌押注Coding工具与Agent平台，AI ToB云战再添变数。** - 大会现场拥挤，与去年相似热度延续 - 战略主线明确：Coding工具链 + Agent PaaS双轮驱动 - 与阿里云、百度智能云在AI云赛道正面竞争   gakki锐评：字节做云一直被诟病\"晚到者\"，但Coding+Agent是全新起跑线，火山引擎这次如果把TRAE和Agent PaaS捏到一起打，份额"
 resource: "https://x.com/i/status/2069301802642853911"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2069301802642853911"
+created: "2026-06-23"
+updated: "2026-06-26"
+sha256: "eaeff5312a8d904ceee426278a7d2614536d8e59890cc7707252088a99510cbc"
+sources:
+  - "/sources/news/2026-06-23/00__Khazix0918__火山引擎force大会全面进军coding与agent-字节云ai战略再升级.md"
 ---
 
 # 火山引擎FORCE大会全面进军Coding与Agent，字节云AI战略再升级

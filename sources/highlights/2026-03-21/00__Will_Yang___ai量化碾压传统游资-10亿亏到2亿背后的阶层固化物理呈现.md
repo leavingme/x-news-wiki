@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "AI量化碾压传统游资：10亿亏到2亿背后的阶层固化物理呈现"
 description: "**【金融市场正在发生悄无声息的权力转移】** • 头部量化私募配备超算中心，以毫秒级速度做海量回测，传统\"快刀砍头\"打法彻底失效 • 量化规模1.8万亿 vs A股日均数千亿交易量，美股1秒15笔、A股1秒300笔、Crypto 7x24h全天候收割 • 这不是技术升级，而是门槛的物理隔绝：没资金→买不起算力→抢不到先机→看不清趋势  AI不是工具，是新的生产关系。当交易成为算力军备竞赛，人类交"
 resource: "https://x.com/i/status/2035205958251819458"
@@ -22,6 +22,13 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "political-intelligence-arbitrage"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2035205958251819458"
+created: "2026-03-21"
+updated: "2026-06-26"
+sha256: "92d63a71e97eef5bffb7eaa3297821dbb6d3cf34baa30ceb941640cbedd6371a"
+sources:
+  - "/sources/highlights/2026-03-21/00__Will_Yang___ai量化碾压传统游资-10亿亏到2亿背后的阶层固化物理呈现.md"
 ---
 
 # AI量化碾压传统游资：10亿亏到2亿背后的阶层固化物理呈现

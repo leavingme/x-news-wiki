@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Karpathy 造词「Cozy Coding」：在 Vibe Coding 之外给出更温和的 AI 编程修辞"
 description: "**[Karpathy 给出「Vibe Coding」的反义词修辞]**  - Karpathy 用「cozy coding」形容与 AI 协作编程的舒适状态，与「Vibe Coding」形成正反语义轴 - 措辞柔软化、伴侣化（'code with someone you love'），折射出 AI Coding 在他叙事里从「氛围感」向「陪伴感」的情绪位移 - 同一硬币的两面：Vibe Codi"
 resource: "https://x.com/i/status/2049650641010921979"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2049650641010921979"
+created: "2026-04-30"
+updated: "2026-06-26"
+sha256: "8d3bc47fdf83aad1b737beb0f0a238c54c5a82263b0352b6c8844fd355acd0ea"
+sources:
+  - "/sources/news/2026-06-25/00__karpathy__karpathy-造词-cozy-coding-在-vibe-coding-之外给出更温和的-ai-编程修辞.md"
 ---
 
 # Karpathy 造词「Cozy Coding」：在 Vibe Coding 之外给出更温和的 AI 编程修辞

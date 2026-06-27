@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Ling-2.6-flash 开源：国产 MoE 模型把 Token 效率卷到 15M 基准线"
 description: "**[Token 效率成 Agent 工作流新计量单位]**  Ling-2.6-flash 正式开源，104B 总参、7.4B 活跃参数的 MoE 架构，在 Artificial Analysis 评测中仅消耗 15M tokens 即完成全套测试。输出速度达 215 tokens/s。  - 关键信号：Token 消耗量而非模型参数量正在成为 Agent 选型的新锚点。 - 开源+BF16/F"
 resource: "https://x.com/AntLingAGI/status/2049146440849707511"
@@ -22,6 +22,13 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "moe-edge-compute-monopoly"
 x_source: "ai-trend-digest"
+type_okf: "X Tweet"
+source_url: "https://x.com/AntLingAGI/status/2049146440849707511"
+created: "2026-04-28"
+updated: "2026-06-26"
+sha256: "792d36d5f3ba1f3b6c3421acf5790f63328740c559a266cc165dde6cc6a55d16"
+sources:
+  - "/sources/highlights/2026-04-29/00__AntLingAGI__ling-2-6-flash-开源-国产-moe-模型把-token-效率卷到-15m-基准线.md"
 ---
 
 # Ling-2.6-flash 开源：国产 MoE 模型把 Token 效率卷到 15M 基准线

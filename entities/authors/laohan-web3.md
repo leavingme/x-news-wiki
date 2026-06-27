@@ -1,5 +1,5 @@
 ---
-type: "Author"
+type: "entity"
 title: "币圈老韩 (@laohan_web3)"
 description: "X/Twitter 作者 @laohan_web3。共收录 1 条 AI 精选推文。"
 tags:
@@ -12,6 +12,12 @@ x_author_name: "币圈老韩"
 x_tweet_count: 1
 x_first_seen: "2026-02-24T01:00:41.900Z"
 x_last_seen: "2026-02-24T01:00:41.900Z"
+type_okf: "Author"
+created: "2026-02-24"
+updated: "2026-06-26"
+sha256: "9e705b64d186f2de0c13e41ba21ad1a3990c9f4d414aa5ca5e52d3b25886a1c4"
+sources:
+  - "/sources/news/2026-02-24/00__laohan_web3__meme-币-p0wned-的崛起-马斯克讽刺-ai-安全领袖引发的叙事狂欢.md"
 ---
 
 # 币圈老韩 (@laohan_web3)

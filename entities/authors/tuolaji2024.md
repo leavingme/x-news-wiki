@@ -1,5 +1,5 @@
 ---
-type: "Author"
+type: "entity"
 title: "拖拉机 (@tuolaji2024)"
 description: "X/Twitter 作者 @tuolaji2024。共收录 2 条 AI 精选推文。"
 tags:
@@ -12,6 +12,13 @@ x_author_name: "拖拉机"
 x_tweet_count: 2
 x_first_seen: "2026-03-18T16:28:00.978Z"
 x_last_seen: "2026-06-24T22:27:51.185Z"
+type_okf: "Author"
+created: "2026-03-18"
+updated: "2026-06-26"
+sha256: "22a870a2bc089b8dde9795a18cdb31617f1199b06a778ebd02b191059abc2a45"
+sources:
+  - "/sources/highlights/2026-03-18/00__tuolaji2024__腾讯qclaw内测曝光-微信个人号首次向agent开放直连.md"
+  - "/sources/highlights/2026-06-24/00__tuolaji2024__glm-5-2-不是新模型-投资人为什么拒绝给国产-ai-应用投钱.md"
 ---
 
 # 拖拉机 (@tuolaji2024)

@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Harness 层成为 Agent 效率新红利：OpenSquilla 开源智能路由方案"
 description: "**[模型升级之外，Harness 层优化正在成为 Agent 效率提升的主战场]**  OpenSquilla 宣布完全开源，聚焦 Harness 层的四项核心优化：智能路由（难度自动判别+模型派发）、技能按需注入（MetaSkill 白话说目标即触发）、记忆压缩、以及工具门禁与工作流编排。项目 Apache-2.0 协议，当前 2.6k star。  **影响分析：** - 传统 Agent "
 resource: "https://x.com/i/status/2062506113527091613"
@@ -22,6 +22,13 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "agent-tools-and-orchestration"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2062506113527091613"
+created: "2026-06-04"
+updated: "2026-06-26"
+sha256: "5c74c8758e8f2ecf5b6875e86761b0ada77179ba64d137de30d3033e219b7b51"
+sources:
+  - "/sources/news/2026-06-04/00__lxfater__harness-层成为-agent-效率新红利-opensquilla-开源智能路由方案.md"
 ---
 
 # Harness 层成为 Agent 效率新红利：OpenSquilla 开源智能路由方案

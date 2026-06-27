@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "黄仁勋呛声AI裁员论：没有想象力的管理层才拿AI当裁员借口"
 description: "**[GTC现场金句拆解：AI不是成本削减工具，而是能力放大器——关键看领导层的认知天花板]**  • 业绩反常识：OpenAI/Anthropic每周营收增长10-20亿美元，「AI公司不赚钱」叙事遭遇事实打脸 • 组织分化：英伟达5个月新增订单5000亿且持续扩招，与裁员潮公司形成「想象力温差」 • 管理批判：将裁员归因于AI的公司，「三年前就没有新想法了」，AI只是为决策无能找的替罪羊  *"
 resource: "https://x.com/i/status/2034884908133519407"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2034884908133519407"
+created: "2026-03-20"
+updated: "2026-06-26"
+sha256: "8bb673ccd06728e56210d90b92e273c18b0215dba6e97658dd5178c42e618e52"
+sources:
+  - "/sources/news/2026-03-20/00__PANews__黄仁勋呛声ai裁员论-没有想象力的管理层才拿ai当裁员借口.md"
 ---
 
 # 黄仁勋呛声AI裁员论：没有想象力的管理层才拿AI当裁员借口

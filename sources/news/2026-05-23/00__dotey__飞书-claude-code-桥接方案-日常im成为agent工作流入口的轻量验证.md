@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "飞书 + Claude Code 桥接方案：日常IM成为Agent工作流入口的轻量验证"
 description: "**[飞书正在成为国内团队接入Claude Code的最小摩擦入口]**  这个开源项目 feishu-claude-code-bridge 实现了飞书与Claude Code的双向连接：用户可以在飞书智能体中发送推文链接，触发Claude Code抓取并翻译内容，结果直接回写为飞书文档；也可以把飞书消息一键转发给智能体，Claude Code处理过程实时同步并以卡片形式展示确认节点。配置仅需两条"
 resource: "https://x.com/i/status/2058084478459826432"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2058084478459826432"
+created: "2026-05-23"
+updated: "2026-06-26"
+sha256: "dd8906416b43efa813db8cb0279b0554e29d6fd3a499524f5b88d5cdbe430378"
+sources:
+  - "/sources/news/2026-05-23/00__dotey__飞书-claude-code-桥接方案-日常im成为agent工作流入口的轻量验证.md"
 ---
 
 # 飞书 + Claude Code 桥接方案：日常IM成为Agent工作流入口的轻量验证

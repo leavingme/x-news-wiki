@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "DeepSeek被评价「legendary」，暗示开源模型社区地位"
 description: "**核心判断：DeepSeek 在开发者社区的口碑已形成「传奇」标签，这是开源路线积累的品牌资产。**  Orange AI 用「legendary」评价 DeepSeek，虽然信息量极低，但结合 DeepSeek V4 近期动态，这条简短评价折射出国产开源模型在技术圈层的认知状态——它已经是某种意义上的社区信仰符号。  gakki 锐评：社区口碑不等于商业成功。但对于开发者生态来说，「legen"
 resource: "https://x.com/i/status/2057955195855032534"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2057955195855032534"
+created: "2026-05-22"
+updated: "2026-06-26"
+sha256: "0abe17e815ff5070aadcdec286be5eb12638b6a3ca21e98833bc5bd1f445a3bd"
+sources:
+  - "/sources/news/2026-05-23/00__oran_ge__deepseek被评价-legendary-暗示开源模型社区地位.md"
 ---
 
 # DeepSeek被评价「legendary」，暗示开源模型社区地位

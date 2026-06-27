@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "微信Agent三连击：GUI Agent接管百万小程序改造成最大变量"
 description: "**[判断] 微信正以\"测试-A2A-开发者指引\"三步走完成Agent生态闭环，最大变量是用GUI Agent全自动改造百万级异构小程序——这是任何其他平台都复制不了的护城河。**  - 6月2日曝光：微信内嵌AI Agent，右滑唤出对话窗口，自然语言指令可调用小程序完成咖啡下单等任务 - 6月4日：A2A（Agent-to-Agent）能力落地，联动华为、荣耀、小米、OPPO、vivo五大手机"
 resource: "https://x.com/i/status/2063923890272051228"
@@ -22,6 +22,13 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "agent-multi-platform"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2063923890272051228"
+created: "2026-06-08"
+updated: "2026-06-26"
+sha256: "654a08197ed7fe9360e580ea847ccbc6d4f35f2818633de0d3d0602878070ac7"
+sources:
+  - "/sources/highlights/2026-06-08/00__Khazix0918__微信agent三连击-gui-agent接管百万小程序改造成最大变量.md"
 ---
 
 # 微信Agent三连击：GUI Agent接管百万小程序改造成最大变量

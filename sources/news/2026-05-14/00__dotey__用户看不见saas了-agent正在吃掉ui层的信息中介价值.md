@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "用户看不见SAAS了：Agent正在吃掉UI层的信息中介价值"
 description: "**[交互界面正在成为Agent的残渣]**  宝玉明确指出一个正在发生但鲜少被正面讨论的结构性变化：终端用户已经不感知SAAS产品了，他们只指挥Agent干活。这意味着SAAS的产品形态虽然还在，但用户直接「使用」这个动作已经被Agent替代。  **信息增量：** - 这不是「SAAS被取代」，而是「SAAS退居后台基础设施，用户注意力全部转移到Agent层」 - 背后逻辑：当Agent能理解"
 resource: "https://x.com/i/status/2054780284617228302"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2054780284617228302"
+created: "2026-05-14"
+updated: "2026-06-26"
+sha256: "b21eb2955da7003953915be416242dcc19c195c92f4c1ae5d58a4f714d2001e4"
+sources:
+  - "/sources/news/2026-05-14/00__dotey__用户看不见saas了-agent正在吃掉ui层的信息中介价值.md"
 ---
 
 # 用户看不见SAAS了：Agent正在吃掉UI层的信息中介价值

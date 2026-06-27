@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Rodin Gen-2.5：千万级面数3D生成首次落地，生产力工具断言兑现"
 description: "**一句话：3D资产生成正式跨越\"玩具\"门槛进入工业级可用阶段，面数、材质、格式覆盖一次性解决，游戏/动画/影视的工作流压缩到一张图。**  要点： - 原生3D贴图算法+千万级面数，首次对标专业DCC工具的精度需求 - 一键输出obj/fbx/glb+贴图，可无缝切入现有制作管线 - 指向一个趋势：AIGC在垂直赛道（3D/视频/代码）正在比通用助手更快达到\"可用\"临界点   gakki 的锐评"
 resource: "https://x.com/i/status/2057093608747229556"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2057093608747229556"
+created: "2026-05-20"
+updated: "2026-06-26"
+sha256: "1e2b52bb1228f536637af1fb270ae77058e9321563c76aad4a872d7df68dadd2"
+sources:
+  - "/sources/news/2026-05-20/00__vista8__rodin-gen-2-5-千万级面数3d生成首次落地-生产力工具断言兑现.md"
 ---
 
 # Rodin Gen-2.5：千万级面数3D生成首次落地，生产力工具断言兑现

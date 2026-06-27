@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "PACE：直接测量AI参数变化而非代理信号，终于有论文对训练环境做真实评估"
 description: "**一句话核心判断：** 国防科大+厦大联合研究提出PACE，用数学技巧直接量化AI在训练中\"学到了什么\"，绕过了Monte Carlo rollout这类慢且不准确的代理指标。  **要点：** - 传统方法依赖代理信号（loss、eval score）评估训练环境质量，PACE直接测内部参数更新幅度 - 学术价值明确：训练环境设计终于有了一套可量化的评估框架 - 对具身AI和Sim2Real领"
 resource: "https://x.com/i/status/2060181834277716089"
@@ -22,6 +22,13 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "ai-research-paradigm"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2060181834277716089"
+created: "2026-05-29"
+updated: "2026-06-26"
+sha256: "b8019b90edc63bf72f286686f2c70596335ab5e5cc9953c271ed13ed1161a1a1"
+sources:
+  - "/sources/news/2026-05-29/00__jiqizhixin__pace-直接测量ai参数变化而非代理信号-终于有论文对训练环境做真实评估.md"
 ---
 
 # PACE：直接测量AI参数变化而非代理信号，终于有论文对训练环境做真实评估

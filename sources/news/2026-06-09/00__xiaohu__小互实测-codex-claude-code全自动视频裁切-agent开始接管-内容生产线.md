@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "小互实测:Codex+Claude Code全自动视频裁切,Agent开始接管\"内容生产线\""
 description: "**[Agent的角色从\"写代码\"扩展到\"剪视频\",内容工业化的工序正在被Agent吞掉]** - 小互用自研工具链,让Codex/Claude Code自动分析WWDC2026视频并按内容片段精准裁切 - Agent能识别视频内容边界,自动拆分为多个独立片段(翻译+剪辑一步到位) - 真正的难点不是\"能不能剪\",而是\"Agent能不能听懂剪辑意图\"——这比纯生成视频更接近生产级 - 推论:翻译→"
 resource: "https://x.com/i/status/2064190407198875730"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2064190407198875730"
+created: "2026-06-09"
+updated: "2026-06-26"
+sha256: "66e7e10ef8a4a161f9f47248c0edd14ec1900b72161fe38232dde5dc7faebd90"
+sources:
+  - "/sources/news/2026-06-09/00__xiaohu__小互实测-codex-claude-code全自动视频裁切-agent开始接管-内容生产线.md"
 ---
 
 # 小互实测:Codex+Claude Code全自动视频裁切,Agent开始接管"内容生产线"

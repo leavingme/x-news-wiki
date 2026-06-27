@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "宝玉贡献代码让 Hermes Agent Desktop 支持中文：开源 Agent 桌面化向中文开发者进一步打开"
 description: "**开源 Agent 桌面化开始进入本地化补完阶段** - 宝玉向 Hermes Agent 提交 PR，使 Desktop GUI 客户端支持中文界面 - 继 Hermes Agent 推出 GUI 客户端后，社区驱动的本地化补丁迅速跟进 - 中文开发者从「能跑」到「能看」再到「能贡献」的角色升级   gakki 锐评：单看是一条 PR 合并，实质是开源 Agent 生态的「产品决策权在向中文社"
 resource: "https://x.com/i/status/2062952453398466819"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2062952453398466819"
+created: "2026-06-05"
+updated: "2026-06-26"
+sha256: "f740b30a0ab3c2518f26a2913047a9dc8009e9976700c1c3d46ca63f466be359"
+sources:
+  - "/sources/news/2026-06-05/00__dotey__宝玉贡献代码让-hermes-agent-desktop-支持中文-开源-agent-桌面化向中文开发者进一步打开.md"
 ---
 
 # 宝玉贡献代码让 Hermes Agent Desktop 支持中文：开源 Agent 桌面化向中文开发者进一步打开

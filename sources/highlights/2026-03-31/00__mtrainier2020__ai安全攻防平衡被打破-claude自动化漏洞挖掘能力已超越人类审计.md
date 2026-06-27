@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "AI安全攻防平衡被打破：Claude自动化漏洞挖掘能力已超越人类审计"
 description: "**[Anthropic研究证实：大模型可在关键软件中自动化发现零日漏洞]** • Nicholas Carlini在[un]prompted 2026披露：Claude在Linux内核中发现NFSv4.0等零日漏洞 • 已被无数专家审计过的代码仍被AI找出新漏洞，传统安全审计范式面临降维打击 • 攻防天平彻底倾斜：防守方必须引入同等AI能力才能维持基本安全水位  **gakki锐评：** 这不是"
 resource: "https://x.com/i/status/2038670996853715287"
@@ -22,6 +22,13 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "ai-native-code-security"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2038670996853715287"
+created: "2026-03-30"
+updated: "2026-06-26"
+sha256: "6845d172be41e3b8e8eaffd77d5bfacf8b070eefe22b50a6d10f3c09589b306d"
+sources:
+  - "/sources/highlights/2026-03-31/00__mtrainier2020__ai安全攻防平衡被打破-claude自动化漏洞挖掘能力已超越人类审计.md"
 ---
 
 # AI安全攻防平衡被打破：Claude自动化漏洞挖掘能力已超越人类审计

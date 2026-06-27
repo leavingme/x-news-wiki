@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "凯恩三小时做手势控制跑酷游戏夺冠：会「驾驭」AI 的孩子与烧 7000 元 tokens 失败的参赛者"
 description: "**7000 元烧完，AI 用得越多效果越差——这是今年 AI 编程竞赛最值钱的一课。**  Michael Anti 儿子凯恩在集团 AI 竞赛中三小时完成手势/色卡控制的跑酷游戏，分数远超第二名拿了编程冠军。与此同时，一位「很熟悉 AI」的参赛同学过去一年烧了 7000 元 tokens，这次因为「太依赖 AI」反而效果不好。  7000 元这个数字具体、可量化、有冲击力。它揭示了一个正在蔓延"
 resource: "https://x.com/i/status/2055822677554892927"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2055822677554892927"
+created: "2026-05-17"
+updated: "2026-06-26"
+sha256: "e90f29d8aeb77366da2504ddc16eef004e29760c649d885df0400bcc2ddb1c64"
+sources:
+  - "/sources/news/2026-05-17/00__mranti__凯恩三小时做手势控制跑酷游戏夺冠-会-驾驭-ai-的孩子与烧-7000-元-tokens-失败的参赛者.md"
 ---
 
 # 凯恩三小时做手势控制跑酷游戏夺冠：会「驾驭」AI 的孩子与烧 7000 元 tokens 失败的参赛者

@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "歸藏发现 Codex 内置 DOM 结构评论能力：AI 代码修改正从文本层向结构层迁移"
 description: "**Codex 已具备基于 DOM 结构的代码评论功能，AI 修改前端代码的粒度正在从「文本替换」进化为「结构理解」。**  - 歸藏指出 Codex 能对 DOM 结构进行评论，意味着 AI 在前端开发场景中不再只是字符串匹配，而是理解组件树 - 这类能力会让 AI 修改 HTML/CSS/JS 的准确率显著提升，减少「改错层级」的常见 bug  gakki 锐评：一个评论功能看似小，但它暗示 "
 resource: "https://x.com/i/status/2052261105972707721"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2052261105972707721"
+created: "2026-05-07"
+updated: "2026-06-26"
+sha256: "bc091bbdcab95c012cb3246df6f3b0dcc887d8a0e6c874e0acbfa4212cc9534f"
+sources:
+  - "/sources/news/2026-05-07/00__op7418__歸藏发现-codex-内置-dom-结构评论能力-ai-代码修改正从文本层向结构层迁移.md"
 ---
 
 # 歸藏发现 Codex 内置 DOM 结构评论能力：AI 代码修改正从文本层向结构层迁移

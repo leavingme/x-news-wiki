@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Codex CLI 订阅墙化：/goal 锁回订阅体系，codex++ 插件成 API 用户唯一通道"
 description: "**[OpenAI 在 Codex CLI 上用订阅墙切出'免费残血版'和'付费完整体'，API 用户被集体推向第三方 hack 插件]**  - 官方限制：/goal 等核心指令必须订阅 ChatGPT 账号才能用，纯 API Key 用户被挡在门外 - 破解路径：社区已出现 codex++ 这个 hack 插件，让 API 模式能解锁被订阅墙挡住的功能 - 生态信号：Codex CLI 的'开"
 resource: "https://x.com/i/status/2065095206559736092"
@@ -22,6 +22,13 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "codex-cli-tool-encapsulation"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2065095206559736092"
+created: "2026-06-11"
+updated: "2026-06-26"
+sha256: "46adb4a2cdf063da4b9104a0d181b521785cca9d693ae61d6a63a785fe34714b"
+sources:
+  - "/sources/news/2026-06-11/00__vista8__codex-cli-订阅墙化-goal-锁回订阅体系-codex-插件成-api-用户唯一通道.md"
 ---
 
 # Codex CLI 订阅墙化：/goal 锁回订阅体系，codex++ 插件成 API 用户唯一通道

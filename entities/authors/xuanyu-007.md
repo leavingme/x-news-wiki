@@ -1,5 +1,5 @@
 ---
-type: "Author"
+type: "entity"
 title: "Niuma_Xuan_OKX (@xuanyu_007)"
 description: "X/Twitter 作者 @xuanyu_007。共收录 1 条 AI 精选推文。"
 tags:
@@ -12,6 +12,12 @@ x_author_name: "Niuma_Xuan_OKX"
 x_tweet_count: 1
 x_first_seen: "2026-03-29T00:32:51.885Z"
 x_last_seen: "2026-03-29T00:32:51.885Z"
+type_okf: "Author"
+created: "2026-03-29"
+updated: "2026-06-26"
+sha256: "a4fb6362bab3be0506f4ad4245e85afcad4c1bf88e4d617cbbbeb8574c0a1f23"
+sources:
+  - "/sources/highlights/2026-03-29/00__xuanyu_007__okx-wallet-agentfi-范式转移-从手动操作到-意图表达-的链上交互革命.md"
 ---
 
 # Niuma_Xuan_OKX (@xuanyu_007)

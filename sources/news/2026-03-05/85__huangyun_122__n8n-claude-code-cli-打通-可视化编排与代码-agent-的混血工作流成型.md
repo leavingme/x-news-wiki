@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "n8n + Claude Code CLI 打通：可视化编排与代码 Agent 的混血工作流成型"
 description: "**[低代码编排平台与专业代码 Agent 的边界正在消融，\"混搭式\"工作流成为高阶玩家的新玩具]** • 通过 SSH 连接 Claude Code CLI + CNS 做多轮对话 + Slack 驱动执行，实现\"自然语言触发→Agent 执行→结果回流\"的完整闭环 • 500 万粉技术博主 NetworkChuck 的实战演示，标志着这种混血架构从极客实验走向主流视野 • n8n 的节点化编排"
 resource: "https://x.com/i/status/2029480487803298196"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 85
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2029480487803298196"
+created: "2026-03-05"
+updated: "2026-06-26"
+sha256: "106eef4bd69a40e817199c1cf2ae0ef7ca9df2b409ffd90555804cc57081c22c"
+sources:
+  - "/sources/news/2026-03-05/85__huangyun_122__n8n-claude-code-cli-打通-可视化编排与代码-agent-的混血工作流成型.md"
 ---
 
 # n8n + Claude Code CLI 打通：可视化编排与代码 Agent 的混血工作流成型

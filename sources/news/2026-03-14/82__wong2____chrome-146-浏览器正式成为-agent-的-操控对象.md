@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Chrome 146：浏览器正式成为 Agent 的「操控对象」"
 description: "**浏览器 Agent 的「最后一公里」被打通。**  - Chrome 146 原生支持 Remote debugging，Agent 可直接操控当前浏览器实例，无需启动独立进程或安装第三方扩展 - 技术路径：chrome://inspect/#remote-debugging 开启后，agent-browser skill 或 chrome-devtools-mcp 可自动连接 - 这一更新降"
 resource: "https://x.com/i/status/2032697322451382324"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 82
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2032697322451382324"
+created: "2026-03-14"
+updated: "2026-06-26"
+sha256: "cf6568182d8ac12600ead74bed12357808dccf8e282fbba50a074d74e18b83c6"
+sources:
+  - "/sources/news/2026-03-14/82__wong2____chrome-146-浏览器正式成为-agent-的-操控对象.md"
 ---
 
 # Chrome 146：浏览器正式成为 Agent 的「操控对象」

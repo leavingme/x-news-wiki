@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "部署容易落地难：OpenClaw 虚拟机安装后的“用例迷茫症”"
 description: "**[工具适配痛点]** - 用户半小时搞定 OpenClaw 虚拟机部署，却陷入不知如何产生实际价值的迷茫。 - 探讨是否应用于 Polymarket 投机或盲目堆砌 Skill。  [gakki 锐评]：手里拿了把瑞士军刀，却发现面前只有一个需要用手拧的瓶盖。找准自己的核心工作流，比瞎装 100 个 Skill 有用得多。"
 resource: "https://x.com/i/status/2027062691437986054"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2027062691437986054"
+created: "2026-02-26"
+updated: "2026-06-26"
+sha256: "d66df0552da124ff197a3e51128a8d92495dae272ef7923a6757395fb295aee7"
+sources:
+  - "/sources/news/2026-02-27/00__aixuexi_ai__部署容易落地难-openclaw-虚拟机安装后的-用例迷茫症.md"
 ---
 
 # 部署容易落地难：OpenClaw 虚拟机安装后的“用例迷茫症”

@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "RecallNet三招「物理魔法」破解链上征信造假：ZKP裸奔验身+社区举报赏金猎人"
 description: "**[一句话核心判断]** RecallNet链上征信系统用数据上链、零知识证明和社区举报三招构建防伪体系，效果数据：传统AI代理被社区举报罚没200万代币。  **要点：** - 数据上链「永久纹身」：51%节点攻击成本高到让黑客放弃 - ZKP「裸奔验身」：代理证明合规但不暴露原始数据 - 社区举报「赏金猎人」：罚金分赃机制驱动自发监督  **gakki锐评：** 这套体系有意思的地方是它把「"
 resource: "https://x.com/i/status/1968850295951347858"
@@ -22,6 +22,13 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "agent-economic-autonomy"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/1968850295951347858"
+created: "2025-09-19"
+updated: "2026-06-26"
+sha256: "06bfefbe1c095f618227b42e70180241226ec4ccb9072529e118f92a81d8dc9b"
+sources:
+  - "/sources/news/2026-04-13/00__AwbczBTC__recallnet三招-物理魔法-破解链上征信造假-zkp裸奔验身-社区举报赏金猎人.md"
 ---
 
 # RecallNet三招「物理魔法」破解链上征信造假：ZKP裸奔验身+社区举报赏金猎人

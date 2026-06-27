@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "VSCode 被集体嫌弃：编辑器战争进入「AI 原生」新分水岭"
 description: "**[一句判断]** yetone 这个问题本身就是一个信号——VSCode 的 AI 能力正在被重新定价。  - VSCode 过去三年是「AI 编程」事实标准，但 Claude Code、Cursor 的高速迭代正在蚕食其「AI 编辑器」的心智份额。 - VSCode 的包袱在于：要兼容传统 IDE 用户体验，AI 功能只能做增量插件而非原生重构——这在「AI Native」叙事越来越强的背景"
 resource: "https://x.com/i/status/2060477378712023112"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2060477378712023112"
+created: "2026-05-29"
+updated: "2026-06-26"
+sha256: "5f0f935037591a3353839353b1fc5384d85810b74d08725b96353a76c6f11c1a"
+sources:
+  - "/sources/news/2026-05-29/00__yetone__vscode-被集体嫌弃-编辑器战争进入-ai-原生-新分水岭.md"
 ---
 
 # VSCode 被集体嫌弃：编辑器战争进入「AI 原生」新分水岭

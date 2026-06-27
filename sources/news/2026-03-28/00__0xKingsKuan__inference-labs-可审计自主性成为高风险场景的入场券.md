@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Inference Labs：可审计自主性成为高风险场景的入场券"
 description: "**【Agent经济自主权的前提是可验证性】** • 机场等高风险场景，黑箱自治无法被监管接受 • DSperse技术：大模型切片证明+并行生成+快速验证 • 信任机制从「请相信我们」转向「你可以独立验证」  gakki 锐评：Agent想管钱、管设备、管关键基础设施？先解决「证明我按规则执行」的问题——这是Agent经济化的技术前提。"
 resource: "https://x.com/i/status/2009810564261069205"
@@ -22,6 +22,13 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "agent-economic-autonomy"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2009810564261069205"
+created: "2026-01-10"
+updated: "2026-06-26"
+sha256: "483e7e1ba02ff6941363861c5d42d9afe51681bacb41a1a79f38d26ed7bdccf8"
+sources:
+  - "/sources/news/2026-03-28/00__0xKingsKuan__inference-labs-可审计自主性成为高风险场景的入场券.md"
 ---
 
 # Inference Labs：可审计自主性成为高风险场景的入场券

@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Huggingface最热论文揭秘：LLM偏爱「人话」，高频词prompt效果碾压生僻词"
 description: "**一句话：高频词prompt不仅翻译质量更好，连推理能力都变强了——预训练语料分布才是LLM的真正偏好。**  实验覆盖100+语言翻译任务，词频与效果相关系数高达1，完全一致。高频词版本在翻译、推理两项指标上均显著优于低频词版本，且结论跨语言完全普适。  这说明LLM对「常见表达」有系统性偏好——不是因为高频词语义更准确，而是模型在预训练中见过的模式权重更高。推理能力的提升可能是语言流畅度降低"
 resource: "https://x.com/i/status/2046254553151262822"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2046254553151262822"
+created: "2026-04-20"
+updated: "2026-06-26"
+sha256: "17866ce1966d94b605795bd2990f58dd186e1354b7e92453e35f1e3e58c07010"
+sources:
+  - "/sources/news/2026-04-21/00__vista8__huggingface最热论文揭秘-llm偏爱-人话-高频词prompt效果碾压生僻词.md"
 ---
 
 # Huggingface最热论文揭秘：LLM偏爱「人话」，高频词prompt效果碾压生僻词

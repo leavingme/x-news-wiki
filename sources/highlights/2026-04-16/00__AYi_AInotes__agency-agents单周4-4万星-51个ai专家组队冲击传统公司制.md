@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Agency Agents单周4.4万星：51个AI专家组队冲击传统公司制"
 description: "**[一句话核心判断]**  GitHub周榜冠军Agency Agents用4.4万星证明：一句话组建51个AI专家团队的产品路径已经成立，Auto Research（Karpathy背书，3.45万星）则意味着AI自主做科研从概念进入工程化阶段。  **信息增量：** - Agency Agents覆盖产品、工程、设计、营销、质检等9大部门，转化Claude Code为虚拟公司 - Auto "
 resource: "https://x.com/i/status/2033040935949578578"
@@ -22,6 +22,13 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "ai-research-paradigm"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2033040935949578578"
+created: "2026-03-15"
+updated: "2026-06-26"
+sha256: "e41c70a4cbc09bdc2f9a9d736fcd111b42175246a2943220af7592f681792567"
+sources:
+  - "/sources/highlights/2026-04-16/00__AYi_AInotes__agency-agents单周4-4万星-51个ai专家组队冲击传统公司制.md"
 ---
 
 # Agency Agents单周4.4万星：51个AI专家组队冲击传统公司制

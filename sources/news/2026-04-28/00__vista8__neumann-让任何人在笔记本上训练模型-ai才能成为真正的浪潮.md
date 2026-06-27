@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Neumann：让任何人在笔记本上训练模型，AI才能成为真正的浪潮"
 description: "**【AI革命种子论：笔记本训练模型那天才算数】**  Neumann提出一个判断AI浪潮是否真实的标尺——当任何人都能在笔记本电脑上自由训练自己的模型时，AI才能成为下一轮浪潮的种子。类比Wozniak攒电脑、福特在厨房造内燃机、Trevithick在专利到期后立刻造蒸汽机。  这指向一个核心问题：当前AI发展的门槛依然太高，算力和资源集中在云端，个体实验自由度才是革命性爆发的前置条件。  ga"
 resource: "https://x.com/i/status/2049122258317365585"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2049122258317365585"
+created: "2026-04-28"
+updated: "2026-06-26"
+sha256: "7a208739f4594a18accd652cf41c7f63cbae161b1e286bcfea90efef0d864d7a"
+sources:
+  - "/sources/news/2026-04-28/00__vista8__neumann-让任何人在笔记本上训练模型-ai才能成为真正的浪潮.md"
 ---
 
 # Neumann：让任何人在笔记本上训练模型，AI才能成为真正的浪潮

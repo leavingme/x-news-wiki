@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Android 架构重写：Gemini 成为系统级大脑，App 从前台退场"
 description: "**一句话核心判断：** Google 把 Gemini 从聊天框拽进了 Android 的系统层，这是 iOS 以来最重要的平台架构变化。  Gemini 现在理解「你在做什么、可能想做什么、哪些 App 可以协同、下一步应该自动完成什么」——以前需要人打开 App、复制粘贴、切换页面的操作，现在 AI 直接跨 App 消化执行。这对 App 开发者的威胁是结构性的：如果 AI 能直接调起服务，"
 resource: "https://x.com/i/status/2054353278557929963"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2054353278557929963"
+created: "2026-05-13"
+updated: "2026-06-26"
+sha256: "0818f7f313eb59efec201c00c6147aade1f9dad45d32a00a4d9496488b927e12"
+sources:
+  - "/sources/highlights/2026-05-13/00__xiaohu__android-架构重写-gemini-成为系统级大脑-app-从前台退场.md"
 ---
 
 # Android 架构重写：Gemini 成为系统级大脑，App 从前台退场

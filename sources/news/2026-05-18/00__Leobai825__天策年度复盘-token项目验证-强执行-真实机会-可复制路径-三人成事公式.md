@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "天策年度复盘：Token项目验证「强执行+真实机会+可复制路径」三人成事公式"
 description: "**[从「自己想拿结果」到「带一群人拿结果」是执行力项目最关键的跃迁]**  天策回顾Token项目一年的核心洞察：真正能拿到结果的人，缺的不是一个方法论，而是一个具体项目、一个真实场景、一，一次开始行动的理由。\\n\\n要点：\\n• 教程和SOP本身不稀缺，稀缺的是「有人跟上、有人执行、有人出单」的正向循环\\n• 账号价值在于持续输出判断力而非单纯搬运信息\\n• 最兴奋的时刻不是自己赚钱，而是看到"
 resource: "https://x.com/i/status/2056264939212329217"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2056264939212329217"
+created: "2026-05-18"
+updated: "2026-06-26"
+sha256: "d2a3085ef7f888ab3e7507c463079b20142a7c56c1cdf900f5a6598c2540271d"
+sources:
+  - "/sources/news/2026-05-18/00__Leobai825__天策年度复盘-token项目验证-强执行-真实机会-可复制路径-三人成事公式.md"
 ---
 
 # 天策年度复盘：Token项目验证「强执行+真实机会+可复制路径」三人成事公式

@@ -1,5 +1,5 @@
 ---
-type: "Author"
+type: "entity"
 title: "Alex Finn (@AlexFinn)"
 description: "X/Twitter 作者 @AlexFinn。共收录 2 条 AI 精选推文。"
 tags:
@@ -12,6 +12,13 @@ x_author_name: "Alex Finn"
 x_tweet_count: 2
 x_first_seen: "2026-05-03T07:17:30.651Z"
 x_last_seen: "2026-05-07T16:18:14.032Z"
+type_okf: "Author"
+created: "2026-05-03"
+updated: "2026-06-26"
+sha256: "9c8a418f70adbb449f095ba7cbf32255eeabf0f6f0374ac722717f3e56a4fd86"
+sources:
+  - "/sources/news/2026-05-03/00__AlexFinn__codex-goal-功能实测-自主工作一小时构建完整游戏-agent循环范式落地.md"
+  - "/sources/news/2026-05-07/00__AlexFinn__hermes-agent-获开发者实名背书-0次崩溃更新-背后的开源agent稳定性信号.md"
 ---
 
 # Alex Finn (@AlexFinn)

@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "TapTap Maker的「大厂围剿」拷问：独立AI游戏工具的护城河幻觉"
 description: "**【黄一孟的AI工具创业面临终极拷问】** • 心动网络CEO黄一孟押注AI游戏开发工具TapTap Maker，但核心悖论在于：当大厂（腾讯、网易、字节）携流量与算力入场时，独立团队的先发优势能否转化为护城河？ • 这不仅是产品竞争，更是「工具平台化」与「平台工具化」的路线之争——TapTap作为分发渠道做AI工具，本质是在用大厂的逻辑打大厂，胜算取决于能否在巨头反应窗口期内建立开发者生态粘性"
 resource: "https://x.com/i/status/2037518665558708721"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2037518665558708721"
+created: "2026-03-27"
+updated: "2026-06-26"
+sha256: "132ff13d15e6e755858b48449f99b26acac7ff45e874800ea2d9bc3053ecc566"
+sources:
+  - "/sources/news/2026-03-29/00__bkingfilm__taptap-maker的-大厂围剿-拷问-独立ai游戏工具的护城河幻觉.md"
 ---
 
 # TapTap Maker的「大厂围剿」拷问：独立AI游戏工具的护城河幻觉

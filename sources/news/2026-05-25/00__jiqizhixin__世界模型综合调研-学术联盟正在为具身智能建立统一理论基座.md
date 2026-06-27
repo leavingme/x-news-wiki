@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "世界模型综合调研：学术联盟正在为具身智能建立统一理论基座"
 description: "**一句话核心判断** NTU、UC Berkeley、Stanford 等顶尖机构联合发布机器人世界模型综述，将环境预测、动作规划、仿真数据生成统一在同一架构框架下，标志着具身智能从碎片化研究走向系统化整合。  **信息增量** - 综述首次将机器人、导航、自动驾驶的世界模型架构统一梳理，填补了此前文献分散的空白 - 核心价值：机器人无需真实试错即可通过\"心理模拟\"完成规划，大幅降低具身 AI "
 resource: "https://x.com/i/status/2058983438108016805"
@@ -22,6 +22,13 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "textop-humanoid-robot"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2058983438108016805"
+created: "2026-05-25"
+updated: "2026-06-26"
+sha256: "38391f97e0349e2496a33553e3550d93791d1251c94ffec6680039507c829b14"
+sources:
+  - "/sources/news/2026-05-25/00__jiqizhixin__世界模型综合调研-学术联盟正在为具身智能建立统一理论基座.md"
 ---
 
 # 世界模型综合调研：学术联盟正在为具身智能建立统一理论基座

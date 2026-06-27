@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "姚老师微信读书Skill展示：知识管理AI化的「最后一公里」正在被打通"
 description: "**[垂直场景Skill涌现：微信读书数据成为个人知识管理的新战场]**  向阳乔木分享姚老师发布的微信读书Skill，可分析个人读书数据。信号意义：Skill正从通用工具向垂直场景渗透——读书数据天然适合做知识管理AI化的切入点（阅读时长、书目偏好、知识图谱）。  值得关注： - 这是dbskill在知识管理领域的延伸 - 个人阅读数据的结构化分析是一个被低估的Skill场景  **gakki锐"
 resource: "https://x.com/i/status/2056050473392902430"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2056050473392902430"
+created: "2026-05-17"
+updated: "2026-06-26"
+sha256: "df9d8ce1a53fbbb9982485e6afee99b69860d10423aad5bc4d85f7d5a358c690"
+sources:
+  - "/sources/news/2026-05-17/00__vista8__姚老师微信读书skill展示-知识管理ai化的-最后一公里-正在被打通.md"
 ---
 
 # 姚老师微信读书Skill展示：知识管理AI化的「最后一公里」正在被打通

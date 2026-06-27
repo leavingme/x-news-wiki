@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "OpenAI Codex方法论：从「写代码」到「指挥AI」的工程团队重构"
 description: "**【AI Native工程团队的组织范式确立】** • METR数据显示：前沿模型已能持续2h17m推理并保持50%正确率，任务处理能力每7个月翻倍 • 核心转移：工程师从「执行者」变为「任务分配者」，从「逐行检查」变为「架构评估」 • OpenAI首次给出SDLC各阶段的具体操作Checklist，而非泛泛的能力描述  这不是「AI取代工程师」，而是「工程师+AI」的新物种诞生——创造力被解放"
 resource: "https://x.com/i/status/2037875194765918718"
@@ -22,6 +22,13 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "claude-code-natural-language-workflow"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2037875194765918718"
+created: "2026-03-28"
+updated: "2026-06-26"
+sha256: "1f0bb09b7651fbaa14de490598039175c205eec045142ca362db52bf3e8e8363"
+sources:
+  - "/sources/news/2026-03-28/00__shao__meng__openai-codex方法论-从-写代码-到-指挥ai-的工程团队重构.md"
 ---
 
 # OpenAI Codex方法论：从「写代码」到「指挥AI」的工程团队重构

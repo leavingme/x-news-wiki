@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "DESIGN.md：设计系统写成纯文本，AI 照着跑就生成 UI——Figma 的最后护城河塌了"
 description: "**「不需要 Figma，不需要 JSON，一个 Markdown 文件直接生成完整设计系统。」**  Google Stitch 推出 DESIGN.md 范式：设计系统可以用纯文本描述，AI 读取后直接生成对应 UI。目前已收录 Vercel、Linear、Stripe、Figma、Notion、Cursor 等 55 个真实网站的设计规范，2300+ Stars。  核心逻辑：当设计规范变成"
 resource: "https://x.com/i/status/2040327016684364064"
@@ -22,6 +22,13 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "design-md-protocol"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2040327016684364064"
+created: "2026-04-04"
+updated: "2026-06-26"
+sha256: "74fb46ccf96429364d089d4b8b912632ee2a4dd6a0fe094f351bbdc8b4aa2146"
+sources:
+  - "/sources/news/2026-04-05/00__chuhaiqu__design-md-设计系统写成纯文本-ai-照着跑就生成-ui-figma-的最后护城河塌了.md"
 ---
 
 # DESIGN.md：设计系统写成纯文本，AI 照着跑就生成 UI——Figma 的最后护城河塌了

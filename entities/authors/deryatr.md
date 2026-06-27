@@ -1,5 +1,5 @@
 ---
-type: "Author"
+type: "entity"
 title: "Derya Unutmaz, MD (@DeryaTR_)"
 description: "X/Twitter 作者 @DeryaTR_。共收录 1 条 AI 精选推文。"
 tags:
@@ -12,6 +12,12 @@ x_author_name: "Derya Unutmaz, MD"
 x_tweet_count: 1
 x_first_seen: "2026-05-10T22:17:57.342Z"
 x_last_seen: "2026-05-10T22:17:57.342Z"
+type_okf: "Author"
+created: "2026-05-10"
+updated: "2026-06-26"
+sha256: "87abfa9dcbe17cad002284d2a2393cbeea407c42f2d75950105419d0f386c905"
+sources:
+  - "/sources/news/2026-05-10/00__DeryaTR___html取代markdown成为vibe-coding首选载体-结构化文档在ai协作中的信息密度优势被再次验证.md"
 ---
 
 # Derya Unutmaz, MD (@DeryaTR_)

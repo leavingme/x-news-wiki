@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Vibe Coding的「蜜月期」结束：规模膨胀触发维护性危机"
 description: "**[AI代码生成的隐性成本正在大型项目中暴露，提示词工程正在让位于文档工程]**  • 核心悖论：AI coding工具擅长快速实现功能，但缺乏对项目全局设计的上下文感知，导致重复造轮子和架构腐化 • 工程纪律回潮：资深开发者开始强制要求「先写PRD和系统设计文档，再生成代码」，人工重新接管架构决策权 • 技术债务加速器：未经严格设计的AI生成代码正在以「性能下降、变更复杂度飙升」的方式反噬团队"
 resource: "https://x.com/i/status/2030485706984874480"
@@ -22,6 +22,13 @@ x_selected: 2
 x_priority: 88
 x_related_topic: "vibe-coding-methodology"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2030485706984874480"
+created: "2026-03-08"
+updated: "2026-06-26"
+sha256: "f5dca7f1e4725a21d294375926c671da35f5c70ecd2124268cbb41502faa9df6"
+sources:
+  - "/sources/highlights/2026-03-09/88__Barret_China__vibe-coding的-蜜月期-结束-规模膨胀触发维护性危机.md"
 ---
 
 # Vibe Coding的「蜜月期」结束：规模膨胀触发维护性危机

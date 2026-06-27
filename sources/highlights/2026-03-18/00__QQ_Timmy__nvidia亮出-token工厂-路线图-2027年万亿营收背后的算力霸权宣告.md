@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "NVIDIA亮出「Token工厂」路线图：2027年万亿营收背后的算力霸权宣告"
 description: "**[AI基础设施进入「代币经济学」时代，算力即货币]** • 黄仁勋将数据中心重新定义为生产AI推理代币的「智慧工厂」，单位代币成本优化成为企业核心资产 • Blackwell+Vera Rubin两代芯片2027年累计营收预计达1万亿美元，较去年预测翻倍 • Vera Rubin专为Agentic AI设计，集成88核自研CPU与Groq LPU，推理吞吐量最高提升35倍 • AWS、GCP、"
 resource: "https://x.com/i/status/2033702769409081391"
@@ -22,6 +22,13 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "token-economics-infrastructure"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2033702769409081391"
+created: "2026-03-17"
+updated: "2026-06-26"
+sha256: "ffeb19b1d3e49cdd30a4fb60d0009983a3740ca0268b37c91e0075cbeee7aee6"
+sources:
+  - "/sources/highlights/2026-03-18/00__QQ_Timmy__nvidia亮出-token工厂-路线图-2027年万亿营收背后的算力霸权宣告.md"
 ---
 
 # NVIDIA亮出「Token工厂」路线图：2027年万亿营收背后的算力霸权宣告

@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "PancakeSwap榜单：OpenClaw成为BSC头号AI Agent概念币"
 description: "**【加密市场正在给AI Agent生态「定价」——但这个价格信号可靠吗？】**  PancakeSwap周交易量榜单显示OpenClaw位居榜首，前五中还有Binance AI Pro。加密市场对AI Agent的情绪温度可见一斑。  • **市场信号**：AI Agent概念在DeFi用户群中的渗透速度超预期。但$OpenClaw的真实采用率与币价是否匹配，需要独立核实。 • **值得关注**"
 resource: "https://x.com/i/status/2038512428510810346"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2038512428510810346"
+created: "2026-03-30"
+updated: "2026-06-26"
+sha256: "de3ede6134230d860541a782770f9b903db0c9ab0904bad85893fb9d8bacff1b"
+sources:
+  - "/sources/news/2026-03-30/00__PancakeSwap__pancakeswap榜单-openclaw成为bsc头号ai-agent概念币.md"
 ---
 
 # PancakeSwap榜单：OpenClaw成为BSC头号AI Agent概念币

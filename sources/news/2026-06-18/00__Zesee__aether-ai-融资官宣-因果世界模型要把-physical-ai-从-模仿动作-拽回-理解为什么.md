@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Aether AI 融资官宣：因果世界模型要把 Physical AI 从「模仿动作」拽回「理解为什么」"
 description: "**[Physical AI 的范式分水岭：从预测下一帧到反推因果链]**  - 黄碧薇教授官宣 Aether AI 融资，定位「因果世界模型」——让 AI 不仅预测结果，还能反推原因 - 现有 LLM/VLA 学到的是相关性，遇到桌子高 2cm、摩擦力变化等细节就会翻车 - 核心主张：动作是「改变环境状态的实验」，而非「一句回答」，把机器人行动重新定义为因果推理问题 - 这条路径与 LeCun "
 resource: "https://x.com/i/status/2067457853716058621"
@@ -22,6 +22,13 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "ai-research-paradigm"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2067457853716058621"
+created: "2026-06-18"
+updated: "2026-06-26"
+sha256: "c3580db2c5b46b42b714ae927083471f0f98a78a4717b0891d6819c643a3f986"
+sources:
+  - "/sources/news/2026-06-18/00__Zesee__aether-ai-融资官宣-因果世界模型要把-physical-ai-从-模仿动作-拽回-理解为什么.md"
 ---
 
 # Aether AI 融资官宣：因果世界模型要把 Physical AI 从「模仿动作」拽回「理解为什么」

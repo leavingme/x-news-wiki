@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "向阳乔木公开 agent.md 写法范本：Skill生态的基础设施价值初现"
 description: "**[中文开发者社区正在形成 Skill 文档的实践共识]**  - 向阳乔木分享了可学习的 agent.md 写法，指向 AI Agent 技能描述文件的标准化实践 - 这类范本传播代表 SKILL.md 正在从工具层面向知识传播层面渗透，成为开发者协作的中间语言 - 结合 SKILL.md 已成为行业标准的趋势，范本扩散将加速生态成熟  gakki 锐评：Skill 文档写法的传播价值远大于具"
 resource: "https://x.com/i/status/2059810030397038948"
@@ -22,6 +22,13 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "skills-ecosystem-standards"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2059810030397038948"
+created: "2026-05-28"
+updated: "2026-06-26"
+sha256: "ed03c16d3c0494cef9f8546ae98676e067747e7dbcefc3fa474dd227dccda936"
+sources:
+  - "/sources/news/2026-05-28/00__vista8__向阳乔木公开-agent-md-写法范本-skill生态的基础设施价值初现.md"
 ---
 
 # 向阳乔木公开 agent.md 写法范本：Skill生态的基础设施价值初现

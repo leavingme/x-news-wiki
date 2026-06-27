@@ -1,5 +1,5 @@
 ---
-type: "Author"
+type: "entity"
 title: "Unclestocknotes (@Unclestocknotes)"
 description: "X/Twitter 作者 @Unclestocknotes。共收录 2 条 AI 精选推文。"
 tags:
@@ -12,6 +12,13 @@ x_author_name: "Unclestocknotes"
 x_tweet_count: 2
 x_first_seen: "2026-01-31T09:52:31.774Z"
 x_last_seen: "2026-02-02T22:32:59.523Z"
+type_okf: "Author"
+created: "2026-01-31"
+updated: "2026-06-26"
+sha256: "094058cccd55208d90c57b073757c4fdb3a8e981bcc48549ad60a7814d930f28"
+sources:
+  - "/sources/news/2026-01-31/00__Unclestocknotes__ai-超级周期下的-金属之王-为什么是铜.md"
+  - "/sources/news/2026-02-02/00__Unclestocknotes__120-亿美元国家买盘加持-ai-铜荒引爆-2026-资源战队.md"
 ---
 
 # Unclestocknotes (@Unclestocknotes)

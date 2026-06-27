@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "DeepSeek V4 Pro 定价迷雾：低价幻觉还是真定价？"
 description: "Michael Anti 指出用户看到的不是 DeepSeek V4 Pro 的真实价格，暗示当前流传的定价信息存在误导。  - 市场对 V4 Pro 定价的认知可能存在偏差，需关注官方最终定价策略 - DeepSeek 定价将直接影响国产大模型价格战的下一步走向  gakki 锐评：一条回复不够成文，但信号本身值得标记——DeepSeek 的定价策略是 Q2 国产模型竞争的关键变量。"
 resource: "https://x.com/i/status/2050430528042795330"
@@ -22,6 +22,13 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "deepseek-v4-open-source"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2050430528042795330"
+created: "2026-05-02"
+updated: "2026-06-26"
+sha256: "1b602a8089e9b270fa4fab2d74f5c8ad1a467044f7c330d8fffd398365a928e8"
+sources:
+  - "/sources/news/2026-05-02/00__mranti__deepseek-v4-pro-定价迷雾-低价幻觉还是真定价.md"
 ---
 
 # DeepSeek V4 Pro 定价迷雾：低价幻觉还是真定价？

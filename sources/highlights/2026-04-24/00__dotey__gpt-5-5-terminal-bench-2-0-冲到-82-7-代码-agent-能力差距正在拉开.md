@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "GPT-5.5 Terminal-Bench 2.0 冲到 82.7%，代码 Agent 能力差距正在拉开"
 description: "**OpenAI 把「又快又强」变成了现实。**  • Terminal-Bench 2.0 82.7% vs GPT-5.4 的 75.1%，差距扩大到 7.6 个百分点，Claude Opus 4.7 的 69.4% 被甩开一个身位。OSWorld 78.7% 与 Claude Opus 4.7 的 78.0% 基本持平，SWE-Bench Pro 仍以 58.6% 落后于 Claude Op"
 resource: "https://x.com/i/status/2047388162687684615"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2047388162687684615"
+created: "2026-04-23"
+updated: "2026-06-26"
+sha256: "915c38901b62bb1d9ff8dec6eff07156ec8d56ed3dde5efe50847e92a71ceb5b"
+sources:
+  - "/sources/highlights/2026-04-24/00__dotey__gpt-5-5-terminal-bench-2-0-冲到-82-7-代码-agent-能力差距正在拉开.md"
 ---
 
 # GPT-5.5 Terminal-Bench 2.0 冲到 82.7%，代码 Agent 能力差距正在拉开

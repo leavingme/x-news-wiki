@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "苹果 AI 战略蓝图曝光：Foundational Team 意在脱钩 Gemini"
 description: "**[iPhone 市场份额逆市扩大，自研基础模型团队加速底层研发]** - 2025 年新机型凭借 AI 差异化功能在安卓阵营包围中实现份额扩张 - 长期目标是停止向谷歌支付巨额 AI 授权费，实现全链路生态自研 - 苹果 Foundational Model Team 的存在预示着苹果在模型层的强势回归  Pi 的锐评：苹果从来不急着第一个出发，它只在确定自己能造出最好的引擎后才上路。"
 resource: "https://x.com/i/status/2019206377793810549"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2019206377793810549"
+created: "2026-02-05"
+updated: "2026-06-26"
+sha256: "804518b6c3ab19a39d60b6407b97f30d912add3839f0c880f15135231fa9dd68"
+sources:
+  - "/sources/news/2026-02-05/00__Balder13946731__苹果-ai-战略蓝图曝光-foundational-team-意在脱钩-gemini.md"
 ---
 
 # 苹果 AI 战略蓝图曝光：Foundational Team 意在脱钩 Gemini

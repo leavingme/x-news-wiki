@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "MSA架构颠覆RAG范式：超长记忆不再是外挂，而是原生能力"
 description: "**[一句话核心判断]** 传统RAG的「开卷考试」模式即将被端到端训练的稀疏注意力架构终结，百万Token长上下文首次实现线性成本扩展。 • 核心突破：MSA通过稀疏注意力实现记忆量10倍增长而计算成本不指数爆炸，复杂度为线性 • 机制创新：document-wise RoPE位置编码让模型天然理解文档边界与时间顺序，Memory Interleaving支持跨文档多跳推理 • 性能跨越：从16"
 resource: "https://x.com/i/status/2034479369855590660"
@@ -22,6 +22,13 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "agent-memory-optimization"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2034479369855590660"
+created: "2026-03-19"
+updated: "2026-06-26"
+sha256: "2b841f6dc0f66bb4b096476171e9e938b5d7c8db55d66396ff305e86da5bf1c3"
+sources:
+  - "/sources/highlights/2026-03-19/00__elliotchen100__msa架构颠覆rag范式-超长记忆不再是外挂-而是原生能力.md"
 ---
 
 # MSA架构颠覆RAG范式：超长记忆不再是外挂，而是原生能力

@@ -1,5 +1,5 @@
 ---
-type: "Concept"
+type: "concept"
 title: "ai-coding-market-divergence"
 description: "跨日主题 \"ai-coding-market-divergence\"，共 6 条相关精选推文。"
 tags:
@@ -11,6 +11,17 @@ x_topic_slug: "ai-coding-market-divergence"
 x_tweet_count: 6
 x_first_seen: "2026-03-13T12:42:48.144Z"
 x_last_seen: "2026-06-17T07:18:57.838Z"
+type_okf: "Concept"
+created: "2026-03-13"
+updated: "2026-06-26"
+sha256: "db203d523f5ec1916738f4bec228ed00681d3b2f1160790a5b07cafcf02009ba"
+sources:
+  - "/sources/highlights/2026-03-13/90__dotey__claude-code-年收-25-亿美元碾压-codex-openai-在编程赛道首次沦为追赶者.md"
+  - "/sources/highlights/2026-04-05/00__grapeot__openai三人用codex五个月生成百万行代码-cursor数百agent并行造浏览器引擎-同一结论击中行业集体潜意识.md"
+  - "/sources/highlights/2026-06-13/00__dotey__宝玉拆解-codex-缺-design-产品的根因-模型层能力差距-harness-救不了.md"
+  - "/sources/highlights/2026-06-17/00__oran_ge__glm-5-2-开源-coding-首触-opus-水平-闭源护城河被撕开第一道口子.md"
+  - "/sources/highlights/2026-06-17/00__oran_ge__glm-5-2-开源-cola-接入-首个-coding-能力摸到-opus-天花板的国产开源模型跑通商业化闭环.md"
+  - "/sources/news/2026-06-07/00__dotey__cursor-composer-2-5-演示-agentic-coding-又一个-会干活-的选手入场.md"
 ---
 
 # 主题: ai-coding-market-divergence

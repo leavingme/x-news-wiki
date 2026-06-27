@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "小互的认知拐点：'完全自动化'是死胡同，'关键节点人工介入'才是人机协作正解"
 description: "**[全自动化是 AI 协作最大的认知陷阱——删掉规则、在关键节点保留人，反而更稳]**  - 小互复盘：之前追求 100% 自动化，不停和 AI 拉扯、改 Skill、改系统，结果越优化越崩 - 转折点：删光所有规则，只在关键判断节点人工介入，让人和 AI 一起完成——效率高了，'骂 AI 是傻逼'的次数也少了 - 这是一条从'用 AI 替代人'转向'用 AI 放大人的判断'的典型心路，对所有 "
 resource: "https://x.com/i/status/2063963156662358168"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2063963156662358168"
+created: "2026-06-08"
+updated: "2026-06-26"
+sha256: "62c5bf62ed3e313ae559e0c88e09e40217c3d0501c4d161e7d320524530b7bd4"
+sources:
+  - "/sources/highlights/2026-06-08/00__xiaohu__小互的认知拐点-完全自动化-是死胡同-关键节点人工介入-才是人机协作正解.md"
 ---
 
 # 小互的认知拐点：'完全自动化'是死胡同，'关键节点人工介入'才是人机协作正解

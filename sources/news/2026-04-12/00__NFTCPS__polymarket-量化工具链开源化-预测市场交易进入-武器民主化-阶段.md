@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Polymarket 量化工具链开源化：预测市场交易进入「武器民主化」阶段"
 description: "**[预测市场基础设施开源加速：11 个项目覆盖回测/舆情/自动化全链路]**  核心判断：Polymarket 相关的 11 个开源交易工具已形成完整工具链，涵盖回测框架、多智能体交易系统、舆情研究工具、网页数据清洗、MCP 检索服务等。  关键信息： - 工具链已从「单点」走向「全栈」：数据采集 → 策略回测 → 舆情分析 → 自动化执行 - MCP 协议（Model Context Prot"
 resource: "https://x.com/i/status/2042967386110988779"
@@ -22,6 +22,13 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "prediction-market-compliance"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2042967386110988779"
+created: "2026-04-11"
+updated: "2026-06-26"
+sha256: "8209ea0ed893e660e8db0218612ea22275e882fbf423da72092f4dcf1133d874"
+sources:
+  - "/sources/news/2026-04-12/00__NFTCPS__polymarket-量化工具链开源化-预测市场交易进入-武器民主化-阶段.md"
 ---
 
 # Polymarket 量化工具链开源化：预测市场交易进入「武器民主化」阶段

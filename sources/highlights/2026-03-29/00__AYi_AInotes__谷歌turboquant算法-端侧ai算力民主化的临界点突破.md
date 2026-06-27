@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "谷歌TurboQuant算法：端侧AI算力民主化的临界点突破"
 description: "**[16GB内存可流畅运行高质量本地大模型，边缘推理进入实用区间]** • 内存占用降6倍、速度提8倍且零精度损失，打破端侧部署的硬件门槛诅咒 • 苹果Mac Mini等产品受益，本地私有化部署的成本曲线陡峭下行 • 谷歌选择完全开源而非封闭生态，加速端侧AI从\"玩具\"向\"生产工具\"跃迁  当高质量模型可在消费级硬件上免费、私密地运行，云端的\"按需付费\"商业模式将面临结构性压力。"
 resource: "https://x.com/i/status/2036984363578253777"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2036984363578253777"
+created: "2026-03-26"
+updated: "2026-06-26"
+sha256: "90bee7702d686a8e29900828752c86859dc0d7e5d25a1e4d0b561713675f2461"
+sources:
+  - "/sources/highlights/2026-03-29/00__AYi_AInotes__谷歌turboquant算法-端侧ai算力民主化的临界点突破.md"
 ---
 
 # 谷歌TurboQuant算法：端侧AI算力民主化的临界点突破

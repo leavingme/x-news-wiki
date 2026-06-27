@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "境内订阅海外 AI 产品：三种无门槛支付路径实测清单"
 description: "**[实用工具帖，信息差明确，不含任何技术判断]**  余温整理了三条境内订阅海外 AI 服务的路径：礼品卡（Pockyt.io）、U 卡（Bitget）、国内全币种 + Google Pay。对 ChatGPT 验证可行，无风控门槛。  信息增量：这是已知路径的系统化整理，非新信息，但首次明确标注\"无门槛\"且经实测。  gakki：这帖子的价值不在方案本身——在于它折射出一个持续存在的结构性需求"
 resource: "https://x.com/i/status/2062007548836749726"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2062007548836749726"
+created: "2026-06-03"
+updated: "2026-06-26"
+sha256: "17eff947176e8270237427d4b17f329d2023d7b1e3c5ed0bb3c3b1b5843a7f75"
+sources:
+  - "/sources/news/2026-06-03/00__gkxspace__境内订阅海外-ai-产品-三种无门槛支付路径实测清单.md"
 ---
 
 # 境内订阅海外 AI 产品：三种无门槛支付路径实测清单

@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "World Liberty Financial 融资 5.5 亿后锁仓 80%：AI Agent 加密金融的信任结构正在被压力测试"
 description: "**特朗普家族关联项目 WLFI 在投资者 80% 锁仓状态下继续增发 59 亿代币，Agent 经济的信任基础设施亮红灯。** - 两轮融资超 5.5 亿美元，但早期投资者大部分无法退出 - 项目方从内部分配中增发 59 亿 WLFI 代币出售给合格投资者 - 这不是个案——它暴露了 Agent 加密金融基础设施中「流动性幻觉」的结构性问题  锐评：当 AI Agent 开始与 DeFi 深度耦"
 resource: "https://x.com/WuBlockchain/status/2050344607687577942"
@@ -22,6 +22,13 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "ai-agent-crypto-infra"
 x_source: "ai-trend-digest"
+type_okf: "X Tweet"
+source_url: "https://x.com/WuBlockchain/status/2050344607687577942"
+created: "2026-05-01"
+updated: "2026-06-26"
+sha256: "72b8ed9f22b76bea1198add7123a99b4ee5bd0e233f68971e02a868630b7a853"
+sources:
+  - "/sources/news/2026-05-02/00__WuBlockchain__world-liberty-financial-融资-5-5-亿后锁仓-80-ai-agent-加密金融的信任结构正在被.md"
 ---
 
 # World Liberty Financial 融资 5.5 亿后锁仓 80%：AI Agent 加密金融的信任结构正在被压力测试

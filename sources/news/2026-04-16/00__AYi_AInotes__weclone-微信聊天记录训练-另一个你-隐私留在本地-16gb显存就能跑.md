@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "WeClone：微信聊天记录训练「另一个你」，隐私留在本地、16GB显存就能跑"
 description: "**[个人数字分身的门槛降到「会导聊天记录」]**  开源工具 WeClone 推出新进展：只需导出微信/QQ/Telegram 聊天记录，无需云端上传，在本地游戏本（16GB 显存跑 7B、32GB 跑 14B）上即可训练出模仿本人说话风格、口头禅、吐槽语气的 AI 数字分身，朋友聊半天分不出真假。  核心差异点：自动删除手机号、身份证等隐私信息后训练，全程数据不上云。  **gakki 说：这"
 resource: "https://x.com/i/status/2043711632916824509"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2043711632916824509"
+created: "2026-04-13"
+updated: "2026-06-26"
+sha256: "c1b8470b3ff81dd10fd24571d4bb94b79168e0bca1f3b0757b1709186d2df942"
+sources:
+  - "/sources/news/2026-04-16/00__AYi_AInotes__weclone-微信聊天记录训练-另一个你-隐私留在本地-16gb显存就能跑.md"
 ---
 
 # WeClone：微信聊天记录训练「另一个你」，隐私留在本地、16GB显存就能跑

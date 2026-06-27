@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Anthropic 怒斥中国实验室“蒸馏攻击”：2.4 万虚假账号窃取模型能力"
 description: "**[核心逻辑]** Anthropic 发布调查报告，点名 DeepSeek、月之暗面和 MiniMax 通过大规模虚假账户绕过限制，对 Claude 进行工业级“蒸馏”。  - **规模惊人**：累计产生 1600 万次交互，MiniMax 侧重编程/工具使用，月之暗面瞄准推理/视觉，DeepSeek 甚至反向提取思维链与回避规则。 - **反向反思**：引发业内对“白嫖式创新”的激烈讨论，马"
 resource: "https://x.com/i/status/2026013737426022417"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2026013737426022417"
+created: "2026-02-23"
+updated: "2026-06-26"
+sha256: "cc02f9129f04ecc9b33e6918585fc2ae2e24c856180921ab132352bdbf67885a"
+sources:
+  - "/sources/news/2026-02-24/00__dotey__anthropic-怒斥中国实验室-蒸馏攻击-2-4-万虚假账号窃取模型能力.md"
 ---
 
 # Anthropic 怒斥中国实验室“蒸馏攻击”：2.4 万虚假账号窃取模型能力

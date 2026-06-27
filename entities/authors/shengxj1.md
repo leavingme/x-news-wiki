@@ -1,5 +1,5 @@
 ---
-type: "Author"
+type: "entity"
 title: "花果山大圣 (@shengxj1)"
 description: "X/Twitter 作者 @shengxj1。共收录 1 条 AI 精选推文。"
 tags:
@@ -12,6 +12,12 @@ x_author_name: "花果山大圣"
 x_tweet_count: 1
 x_first_seen: "2026-03-22T12:43:08.393Z"
 x_last_seen: "2026-03-22T12:43:08.393Z"
+type_okf: "Author"
+created: "2026-03-22"
+updated: "2026-06-26"
+sha256: "33524aab2cd4049da4f1258839706cbc9c15d7e333c291c8cfde9d5959039cea"
+sources:
+  - "/sources/news/2026-03-22/00__shengxj1__王自如48天vibe-coding实录-零技术背景产出10万行代码-自然语言编程-进入可验证阶段.md"
 ---
 
 # 花果山大圣 (@shengxj1)

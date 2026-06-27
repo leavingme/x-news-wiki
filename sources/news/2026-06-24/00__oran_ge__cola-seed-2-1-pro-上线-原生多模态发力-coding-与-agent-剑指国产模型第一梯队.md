@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Cola Seed 2.1 Pro 上线：原生多模态发力 Coding 与 Agent，剑指国产模型第一梯队"
 description: "**[Cola Seed 2.1 Pro 以原生多模态架构切入 Coding/Agent 能力，国产模型阵营再添变量]**  - 原生多模态设计（非后期拼装），定位\"目前多模态最强模型\"，相比 2.0 重点增强 coding 与 Agent 能力 - 由藏师傅发布评测，意味着有第三方基准背书而非纯自吹 - 体验已开放（https://t.co/DuylNtMLOE），属于可直接验证的产品级发布  "
 resource: "https://x.com/i/status/2069721885508870274"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2069721885508870274"
+created: "2026-06-24"
+updated: "2026-06-26"
+sha256: "4667bec619129402b577fb6d783e23cd83156aa8a239ff63434481395f94d602"
+sources:
+  - "/sources/news/2026-06-24/00__oran_ge__cola-seed-2-1-pro-上线-原生多模态发力-coding-与-agent-剑指国产模型第一梯队.md"
 ---
 
 # Cola Seed 2.1 Pro 上线：原生多模态发力 Coding 与 Agent，剑指国产模型第一梯队

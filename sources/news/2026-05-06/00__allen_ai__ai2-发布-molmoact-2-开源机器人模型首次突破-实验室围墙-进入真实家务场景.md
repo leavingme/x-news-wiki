@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Ai2 发布 MolmoAct 2：开源机器人模型首次突破「实验室围墙」进入真实家务场景"
 description: "**MolmoAct 2 是目前最大的开源双臂机器人数据集，首次在非受控环境中验证家务与实验任务能力。**  • 配套发布 Bimanual YAM 数据集，开源程度碾压同类闭源方案 • 从「实验室 demo」到「真实环境部署」的跨越，是具身 AI 商业化的关键拐点 • 对特斯拉 Optimus 等闭源路线形成开源社区的正面挑战  锐评：具身智能的真正瓶颈不是硬件，是「见过多少种真实场景」。开源数"
 resource: "https://x.com/allen_ai/status/2051708880455868501"
@@ -22,6 +22,13 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "embodied-ai-supply-chain"
 x_source: "ai-trend-digest"
+type_okf: "X Tweet"
+source_url: "https://x.com/allen_ai/status/2051708880455868501"
+created: "2026-05-05"
+updated: "2026-06-26"
+sha256: "99cd3f72facdd39229a3dae13c6e0ec87592d807d0be65e68df91c0eac82bb1d"
+sources:
+  - "/sources/news/2026-05-06/00__allen_ai__ai2-发布-molmoact-2-开源机器人模型首次突破-实验室围墙-进入真实家务场景.md"
 ---
 
 # Ai2 发布 MolmoAct 2：开源机器人模型首次突破「实验室围墙」进入真实家务场景

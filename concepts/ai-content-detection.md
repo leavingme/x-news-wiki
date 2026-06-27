@@ -1,5 +1,5 @@
 ---
-type: "Concept"
+type: "concept"
 title: "ai-content-detection"
 description: "跨日主题 \"ai-content-detection\"，共 1 条相关精选推文。"
 tags:
@@ -11,6 +11,12 @@ x_topic_slug: "ai-content-detection"
 x_tweet_count: 1
 x_first_seen: "2026-06-13T01:18:23.531Z"
 x_last_seen: "2026-06-13T01:18:23.531Z"
+type_okf: "Concept"
+created: "2026-06-13"
+updated: "2026-06-26"
+sha256: "88fedc81edf1eb3de31fbcf1677051fce9c8f505980ee8d878a15683108e90a4"
+sources:
+  - "/sources/news/2026-06-13/00__oran_ge__腾讯朱雀定位转向-ai-内容检测-大厂亲自下场做-反-aigc-基础设施.md"
 ---
 
 # 主题: ai-content-detection

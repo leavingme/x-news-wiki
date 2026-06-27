@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "DeepSeek Pro成本实测：一个小游戏调几次Skill，12块钱就没了"
 description: "**一句话核心判断：** DeepSeek Pro的Token消耗速度远超预期，\"便宜\"标签正在被实际使用成本撕碎。  **信息增量：** - 仅对话几轮+小游戏+调用多个Skill，已消耗近千万Token - 折合人民币约12元——对高频Agent用户，月度账单不可忽视 - 问题的根源在于：Skill调用和长Prompt本身是Token消耗黑洞  **gakki锐评：** \"12块做个游戏\"听起"
 resource: "https://x.com/i/status/2047595724549009608"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2047595724549009608"
+created: "2026-04-24"
+updated: "2026-06-26"
+sha256: "5181ababb84c90f13e31b6eaed022819f5e5c4c5d15084e33afc0f82b9c2f446"
+sources:
+  - "/sources/highlights/2026-04-24/00__vista8__deepseek-pro成本实测-一个小游戏调几次skill-12块钱就没了.md"
 ---
 
 # DeepSeek Pro成本实测：一个小游戏调几次Skill，12块钱就没了

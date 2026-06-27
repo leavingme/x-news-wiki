@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "王慧文：当年死于移动端的公司，今天会因 Agent 化太慢而死"
 description: "**王慧文与卡比卡比饭局对话核心：应用层的 Agent 化转型，已经是和当年移动化转型同级的人口。**  王慧文认为：今天绝大多数应用面临的不是「要不要做 AI」，而是「能不能赶上 Agent 化这班车」。这和 2010 年代网页到移动端的转型逻辑完全一致——慢一拍的公司直接被淘汰。  对话还透露 OpenCLI 的定位：做 AI Agent 的 read & action 基建，拥抱 AI na"
 resource: "https://x.com/i/status/2039744227547197947"
@@ -22,6 +22,13 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "industry-leader-agent-strategy"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2039744227547197947"
+created: "2026-04-02"
+updated: "2026-06-26"
+sha256: "dbfb3be2182a3664a8046e0a3582a2f9281308cb7c5e15a4af4f235d4139cafd"
+sources:
+  - "/sources/highlights/2026-04-04/00__jakevin7__王慧文-当年死于移动端的公司-今天会因-agent-化太慢而死.md"
 ---
 
 # 王慧文：当年死于移动端的公司，今天会因 Agent 化太慢而死

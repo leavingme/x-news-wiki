@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Claude Tag 常驻 Slack：Anthropic 把 AI 同事塞进企业协作流"
 description: "**Anthropic 把 Claude 从\"工具\"升级为\"团队成员\"，争夺企业协作入口**  - 多人共享同一对话上下文：一个人让 Claude 做一半的事，同事可接力，无需重新解释背景 - 持续学习机制：Claude 持续关注频道对话积累组织知识，管理员可授权它读取其他频道 - Ambient 模式主动干活：主动推送关键信息、跟进未回线程、提醒被遗忘的任务 - 仅对 Claude Enterp"
 resource: "https://x.com/i/status/2069477417278730536"
@@ -22,6 +22,13 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "claude-code-ecosystem"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2069477417278730536"
+created: "2026-06-23"
+updated: "2026-06-26"
+sha256: "01c5cb871a7974e4d9366fe8110ebc5cd644b452e53e58b76101133ec0b2fdea"
+sources:
+  - "/sources/highlights/2026-06-23/00__dotey__claude-tag-常驻-slack-anthropic-把-ai-同事塞进企业协作流.md"
 ---
 
 # Claude Tag 常驻 Slack：Anthropic 把 AI 同事塞进企业协作流

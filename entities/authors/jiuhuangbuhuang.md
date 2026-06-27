@@ -1,5 +1,5 @@
 ---
-type: "Author"
+type: "entity"
 title: "韭黄其实不太黄🤸😍 (@JiuHuangBuHuang)"
 description: "X/Twitter 作者 @JiuHuangBuHuang。共收录 1 条 AI 精选推文。"
 tags:
@@ -12,6 +12,12 @@ x_author_name: "韭黄其实不太黄🤸😍"
 x_tweet_count: 1
 x_first_seen: "2026-03-29T00:32:51.926Z"
 x_last_seen: "2026-03-29T00:32:51.926Z"
+type_okf: "Author"
+created: "2026-03-29"
+updated: "2026-06-26"
+sha256: "1ee256fad75889f451ad444c4dfa96a255d66445faa16cf1d093a2ea45dae0a7"
+sources:
+  - "/sources/news/2026-03-29/00__JiuHuangBuHuang__perle首日五所齐发-scale-ai系团队押注-ai数据链上验证-卡位战.md"
 ---
 
 # 韭黄其实不太黄🤸😍 (@JiuHuangBuHuang)

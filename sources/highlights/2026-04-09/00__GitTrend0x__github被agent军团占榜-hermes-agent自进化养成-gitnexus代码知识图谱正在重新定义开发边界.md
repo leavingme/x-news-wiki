@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "GitHub被Agent军团占榜：Hermes-agent自进化养成+GitNexus代码知识图谱正在重新定义开发边界"
 description: "**Hermes-agent（ NousResearch）：自进化AI Agent，能从对话中自主创造技能、跨会话构建用户模型，解决传统Agent'用完即忘'的致命痛点，当天新增1574星。**  **GitNexus：纯浏览器端零服务器代码智能引擎，把任意仓库秒变交互式知识图谱+内置Graph RAG Agent，支持14语言Tree-sitter解析和多Repo全局索引，AI盲编代码、漏依赖的"
 resource: "https://x.com/i/status/2041514094050828576"
@@ -22,6 +22,13 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "sub-agents-multi-expert"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2041514094050828576"
+created: "2026-04-07"
+updated: "2026-06-26"
+sha256: "0273ede9e8feb6d676607435282846bbf329221b406877dd6bdbd9e772371abe"
+sources:
+  - "/sources/highlights/2026-04-09/00__GitTrend0x__github被agent军团占榜-hermes-agent自进化养成-gitnexus代码知识图谱正在重新定义开发边界.md"
 ---
 
 # GitHub被Agent军团占榜：Hermes-agent自进化养成+GitNexus代码知识图谱正在重新定义开发边界

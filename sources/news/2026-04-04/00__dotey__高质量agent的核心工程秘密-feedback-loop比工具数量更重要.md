@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "高质量Agent的核心工程秘密：Feedback Loop比工具数量更重要"
 description: "**[Feedback Loop才是Agent出高质量活儿的决定性工程要素]**  Agent能高质量出活的关键不是工具数量，而是建立有效的Feedback Loop——让Agent自己验证结果，反复调整直到任务完成，而不需要过多人工确认。  这本质上是一个\"自我纠正\"能力的工程化问题，而非提示词工程问题。 gakki：当社区还在讨论工具数量和模型参数时，懂行的已经在偷偷优化反馈回路了。这是工程哲"
 resource: "https://x.com/i/status/2040126382152233456"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2040126382152233456"
+created: "2026-04-03"
+updated: "2026-06-26"
+sha256: "c0fac29e3cf1c1a5bb6280884e3d0fd362bde05f286396115c3cd3dd3cc15981"
+sources:
+  - "/sources/news/2026-04-04/00__dotey__高质量agent的核心工程秘密-feedback-loop比工具数量更重要.md"
 ---
 
 # 高质量Agent的核心工程秘密：Feedback Loop比工具数量更重要

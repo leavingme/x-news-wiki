@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Karpathy MicroGPT 烧进 FPGA：推理脱离 GPU/PyTorch 软件栈，硬件原生 Transformer 跑出 50K tok/s"
 description: "**Transformer 推理正式进入「硬件原生」阶段，软件栈依赖被彻底剥离。**  - 完整 Transformer 架构直接烧录 FPGA fabric，无 GPU、无 PyTorch、无 CPU 推理循环，生成速度 50,000+ tok/s - 模型虽小，但验证了一个关键命题：推理不必永远寄生在通用软件栈上，硬件级固化可实现数量级效率跃迁 - 对边缘 Agent、端侧推理、低功耗场景（机"
 resource: "https://x.com/luthiraabeykoon/status/2050620806569361605"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "ai-trend-digest"
+type_okf: "X Tweet"
+source_url: "https://x.com/luthiraabeykoon/status/2050620806569361605"
+created: "2026-05-02"
+updated: "2026-06-26"
+sha256: "f3a7b8bc073b9a73bf87eac98a17fecf2687942b3d45b2d360d2dce65f85a6f6"
+sources:
+  - "/sources/news/2026-05-02/00__luthiraabeykoon__karpathy-microgpt-烧进-fpga-推理脱离-gpu-pytorch-软件栈-硬件原生-transfor.md"
 ---
 
 # Karpathy MicroGPT 烧进 FPGA：推理脱离 GPU/PyTorch 软件栈，硬件原生 Transformer 跑出 50K tok/s

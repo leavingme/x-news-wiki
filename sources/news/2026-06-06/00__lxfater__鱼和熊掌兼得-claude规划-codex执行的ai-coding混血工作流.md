@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "鱼和熊掌兼得：Claude规划+Codex执行的AI Coding混血工作流"
 description: "**开发者已用工具链混搭打破'二选一'困境,AI Coding进入组合时代。**  - 具体操作:Codex打开侧边栏 → 选择终端 → 输入Claude Code,在一个IDE里同时调度两套Agent - 分工逻辑:Claude Code负责规划与对话式推理,Codex负责实际写代码与执行,形成'大脑+双手'的协作链 - 信号意义:此前'Codex vs Claude Code'的选边讨论失去意"
 resource: "https://x.com/i/status/2063089110265516450"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2063089110265516450"
+created: "2026-06-06"
+updated: "2026-06-26"
+sha256: "47b09998bca55fc1e6734febcc87879872a9bc8f267b393c48e02297dbc18d2f"
+sources:
+  - "/sources/news/2026-06-06/00__lxfater__鱼和熊掌兼得-claude规划-codex执行的ai-coding混血工作流.md"
 ---
 
 # 鱼和熊掌兼得：Claude规划+Codex执行的AI Coding混血工作流

@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Google I/O 2026 首日实测：向阳乔木 TodoList 泄露真实用家反馈"
 description: "**[Google I/O 2026 工具链已可上手，但尚无深度评测]**  向阳乔木的今日待办清单显示其已在测试谷歌昨天发布的模型和工具，包括快捷提示词 Chrome 插件上架、油猴脚本开源、以及谷歌发布模型评测。个人开发者已率先进入验证阶段。   **gakki：首批\"体验者\"反馈才是真正的压力测试——厂商发布会信息密度远不如真实用家的一条 TodoList。**"
 resource: "https://x.com/i/status/2056921572225724841"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2056921572225724841"
+created: "2026-05-20"
+updated: "2026-06-26"
+sha256: "7fd12fcd61cf8d7f4817e4cbe08ea9cb0eeb40ab4854fd0bd25fc90715586bef"
+sources:
+  - "/sources/news/2026-05-20/00__vista8__google-i-o-2026-首日实测-向阳乔木-todolist-泄露真实用家反馈.md"
 ---
 
 # Google I/O 2026 首日实测：向阳乔木 TodoList 泄露真实用家反馈

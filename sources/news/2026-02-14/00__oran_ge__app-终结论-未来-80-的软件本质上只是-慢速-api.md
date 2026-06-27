@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "App 终结论：未来 80% 的软件本质上只是“慢速 API”"
 description: "**[核心逻辑]** 当 Agent 可以跨平台调取功能时，UI 界面将退化为后端，App 成为被 AI 调用的组件。 - **解构主义**：App 的围墙花园将被拆解，功能性将被抽象为 Token 驱动的服务颗粒。 - **体验演进**：未来的主流交互是 Agent 直接返回结果，而非人类去 App 里点击操作。  [gakki 的锐评]：App 时代的落幕是从它们被“装进”Agent 的技能树"
 resource: "https://x.com/i/status/2022506634371830209"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2022506634371830209"
+created: "2026-02-14"
+updated: "2026-06-26"
+sha256: "a1a89a296aa8ff43b58023eac3344132c62a33d57ee79113cb640c3e3c200a96"
+sources:
+  - "/sources/news/2026-02-14/00__oran_ge__app-终结论-未来-80-的软件本质上只是-慢速-api.md"
 ---
 
 # App 终结论：未来 80% 的软件本质上只是“慢速 API”

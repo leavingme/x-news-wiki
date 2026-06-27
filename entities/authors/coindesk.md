@@ -1,5 +1,5 @@
 ---
-type: "Author"
+type: "entity"
 title: "CoinDesk (@CoinDesk)"
 description: "X/Twitter 作者 @CoinDesk。共收录 1 条 AI 精选推文。"
 tags:
@@ -12,6 +12,12 @@ x_author_name: "CoinDesk"
 x_tweet_count: 1
 x_first_seen: "2026-05-04T16:18:02.818Z"
 x_last_seen: "2026-05-04T16:18:02.818Z"
+type_okf: "Author"
+created: "2026-05-04"
+updated: "2026-06-26"
+sha256: "c4a2b62f53867eed05eec1b1dd909ea18acc0210544a44ce2f91d4f3ce96af46"
+sources:
+  - "/sources/news/2026-05-04/00__CoinDesk__kraken-前托管方被指控挪用-2500-万美元-加密托管的信任基础设施仍在漏水.md"
 ---
 
 # CoinDesk (@CoinDesk)

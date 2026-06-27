@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "cc-switch让Cloud Code+DeepSeek组合在本地运行：白嫖方案正在工具化"
 description: "**[一句话核心判断]** cc-switch作为Claude Code和DeepSeek之间的路由工具，正在把\"用国产模型替代Claude\"这件事从极客玩法变成普通用户可操作的标准化流程。  **要点：** - Cloud Code（可能是指Claude Code或某个云端方案）+ DeepSeek的组合，本质是用更低的成本获取接近Claude能力的推理效果 - Michael Anti的儿子\""
 resource: "https://x.com/i/status/2060634180980220223"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2060634180980220223"
+created: "2026-05-30"
+updated: "2026-06-26"
+sha256: "5c43362a06cbfeb7e4e3520bb563f753a453ec74516896ab54e8b1010c5e94c1"
+sources:
+  - "/sources/news/2026-05-30/00__mranti__cc-switch让cloud-code-deepseek组合在本地运行-白嫖方案正在工具化.md"
 ---
 
 # cc-switch让Cloud Code+DeepSeek组合在本地运行：白嫖方案正在工具化

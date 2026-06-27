@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Solana x402 全景：88+ 团队押注 Agent 支付基建，链上 AI 经济争夺白热化"
 description: "**Solana 基金会公布 x402 协议生态全景图，88+ 团队同时押注 Agent 基础设施，链上 AI 经济正式进入军备竞赛。**  - 代理支付层：Stripe、Fireblocks、MoonPay、Allium、Coingecko、Messari、Google Cloud 等头部基础设施全数入局 - 代理钱包与信贷层：Crossmint、PayAI、T54、paysponge、lobs"
 resource: "https://x.com/i/status/2059453858280071321"
@@ -22,6 +22,13 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "ai-agent-crypto-infra"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2059453858280071321"
+created: "2026-05-27"
+updated: "2026-06-26"
+sha256: "f81eb7c3384e9c075d16b0c0b39cdaa55b9268dfd87cf68ed094f691960b6ef9"
+sources:
+  - "/sources/news/2026-06-24/00__Solana_zh__solana-x402-全景-88-团队押注-agent-支付基建-链上-ai-经济争夺白热化.md"
 ---
 
 # Solana x402 全景：88+ 团队押注 Agent 支付基建，链上 AI 经济争夺白热化

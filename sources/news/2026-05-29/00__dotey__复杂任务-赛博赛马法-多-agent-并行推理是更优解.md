@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "复杂任务「赛博赛马法」：多 Agent 并行推理是更优解"
 description: "**[一句话核心判断]**  复杂任务让多个 AI 同时跑，再让结果互相竞争选出最优解——赛博赛马法。  **信息增量：** - 单 Agent 推理路径可能陷入局部最优，多 Agent 并行竞争反而能覆盖更多可能性 - 本质是进化算法的朴素实现  **影响：** - 为 Multi-Agent 架构提供了一种简单粗暴但有效的落地思路 - 推理成本翻倍，但换来了答案质量的显著提升   gakki "
 resource: "https://x.com/i/status/2060452705311523147"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2060452705311523147"
+created: "2026-05-29"
+updated: "2026-06-26"
+sha256: "2ed5732e06319676224de2eec425c2ad05b885715061de19851e19f2ab5bca8f"
+sources:
+  - "/sources/news/2026-05-29/00__dotey__复杂任务-赛博赛马法-多-agent-并行推理是更优解.md"
 ---
 
 # 复杂任务「赛博赛马法」：多 Agent 并行推理是更优解

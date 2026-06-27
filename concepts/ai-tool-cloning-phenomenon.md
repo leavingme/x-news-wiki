@@ -1,5 +1,5 @@
 ---
-type: "Concept"
+type: "concept"
 title: "ai-tool-cloning-phenomenon"
 description: "跨日主题 \"ai-tool-cloning-phenomenon\"，共 2 条相关精选推文。"
 tags:
@@ -11,6 +11,13 @@ x_topic_slug: "ai-tool-cloning-phenomenon"
 x_tweet_count: 2
 x_first_seen: "2026-06-15T16:18:49.182Z"
 x_last_seen: "2026-06-16T19:19:24.570Z"
+type_okf: "Concept"
+created: "2026-06-15"
+updated: "2026-06-26"
+sha256: "6b5e28895da10ca993b62d2dea02d2ff8afc9ee38b348906022ef464371f7489"
+sources:
+  - "/sources/news/2026-06-15/00__gkxspace__智谱-zcode-1-1-抄-codex-国产-coding-agent-进入-像素级复刻-阶段.md"
+  - "/sources/news/2026-06-16/00__dotey__宝玉补刀-claude-design-之外-baoyu-design-skill-已跑通本地逆向运行.md"
 ---
 
 # 主题: ai-tool-cloning-phenomenon

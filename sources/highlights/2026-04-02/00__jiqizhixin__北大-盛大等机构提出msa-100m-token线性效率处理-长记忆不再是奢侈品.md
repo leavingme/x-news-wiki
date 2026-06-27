@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "北大+盛大等机构提出MSA：100M Token线性效率处理，长记忆不再是奢侈品"
 description: "**[一句话核心判断]** Evermind、盛大集团、北大联合发布Memory Sparse Attention（MSA）框架，用稀疏注意力架构在2×A800上实现1亿Token线性效率处理，精度损失不足9%——这意味着「终身记忆」正式进入可工程化阶段。  - 传统长上下文方案的痛点：计算复杂度随Token数量平方增长，上下文窗口再大也是奢侈 - MSA的稀疏注意力架构实现线性效率，100M T"
 resource: "https://x.com/i/status/2039710695235698738"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2039710695235698738"
+created: "2026-04-02"
+updated: "2026-06-26"
+sha256: "65a74ae0951b2c1ba71ef100ac44084f8eaf4689b3024832dd214e4e82860a02"
+sources:
+  - "/sources/highlights/2026-04-02/00__jiqizhixin__北大-盛大等机构提出msa-100m-token线性效率处理-长记忆不再是奢侈品.md"
 ---
 
 # 北大+盛大等机构提出MSA：100M Token线性效率处理，长记忆不再是奢侈品

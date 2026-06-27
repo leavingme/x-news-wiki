@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "歸藏开源 PPT 生成 Skills：彻底解决 AI 生成 PPT 的配方化难题"
 description: "**PPT 生成从「调 prompt」进入「甩 Skills」阶段。**  歸藏在 PPT Skills 明天开源前预告：彻底解决 PPT 生成难题。他在 Xiaohongshu 上分享后反响热烈，多人求开源。这延续了 Skills 生态的核心逻辑——把高频调教结果固化封装为可复用的配方，而非一次次从零 prompt。  这与 SKILL.md 成为行业标准的趋势一致。PPT 作为一个高度结构化的"
 resource: "https://x.com/i/status/2047317436157026628"
@@ -22,6 +22,13 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "skills-ecosystem-standards"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2047317436157026628"
+created: "2026-04-23"
+updated: "2026-06-26"
+sha256: "473fd352cf51f97cb0223ee06ab35dc7d14628b03d4d29d2f2dcb98087606b8d"
+sources:
+  - "/sources/news/2026-04-24/00__op7418__歸藏开源-ppt-生成-skills-彻底解决-ai-生成-ppt-的配方化难题.md"
 ---
 
 # 歸藏开源 PPT 生成 Skills：彻底解决 AI 生成 PPT 的配方化难题

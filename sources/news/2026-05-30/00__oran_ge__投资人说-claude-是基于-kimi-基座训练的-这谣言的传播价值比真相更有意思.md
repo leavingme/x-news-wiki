@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "投资人说 Claude 是基于 Kimi 基座训练的：这谣言的传播价值比真相更有意思"
 description: "**一条未经证实的Twitter更正帖，声称Claude与Kimi存在训练层面的关联。**  • 原帖主先发了一条错误信息，随后更正称\"投资人说的是Claude基于Kimi基座训练\"。 • 无论真假，这条内容在中文AI圈传播极快——它触碰了行业最敏感的神经：模型血统论与训练数据主权。 • 实际意义：市场对\"谁训练了谁\"的关注度，已超过对模型实际能力的关注。  gakki：谣言的传播速度揭示了行业焦"
 resource: "https://x.com/i/status/2060546887158202420"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2060546887158202420"
+created: "2026-05-30"
+updated: "2026-06-26"
+sha256: "ba1df069a8ac4338316de6172bb66fd109609feb7c7c6b43e98ef420b3655e83"
+sources:
+  - "/sources/news/2026-05-30/00__oran_ge__投资人说-claude-是基于-kimi-基座训练的-这谣言的传播价值比真相更有意思.md"
 ---
 
 # 投资人说 Claude 是基于 Kimi 基座训练的：这谣言的传播价值比真相更有意思

@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "TI-DPO：让模型只关注那些“重要”的词"
 description: "**[核心逻辑]** 字节、微软等研究员提出“Token-Importance”引导的 DPO 方法。利用梯度归因优先处理对人类偏好关键的 Token，提升了对齐的稳定性和生成的样性。  *   **降噪对齐**：跳出基础训练的噪音，精准捕捉决定成败的关键字符。  [gakki 的锐评]：不再胡子眉毛一把抓，AI 终于学会了“抓重点”，这是向人类直觉迈进的一大步。"
 resource: "https://x.com/i/status/2024905388903338161"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2024905388903338161"
+created: "2026-02-20"
+updated: "2026-06-26"
+sha256: "4899351c2fdb6033b6d5fa3f0dac657e0aa2c9a7f1fd89d03610bda5dc2b7944"
+sources:
+  - "/sources/news/2026-02-21/00__jiqizhixin__ti-dpo-让模型只关注那些-重要-的词.md"
 ---
 
 # TI-DPO：让模型只关注那些“重要”的词

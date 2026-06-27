@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Anthropic官方Claude Code 101教程：理解底层机制才能解锁高阶用法"
 description: "**Anthropic官方发布Claude Code 101教程，将其定位从「代码工具」升级为「复杂编程任务精密系统」。**  - 官方教程强调理解Claude Code工作原理，而非简单的prompt使用技巧 - 定位转变：不只是编写代码，而是利用语言模型处理复杂编程任务的系统 - 对开发者的价值：理解底层机制是挖掘更有想象力任务的前提  gakki按：官方教程的发布本身是Claude Code"
 resource: "https://x.com/i/status/2028618678229754161"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2028618678229754161"
+created: "2026-03-02"
+updated: "2026-06-26"
+sha256: "c4463f808279a6169c2b0705b38e9f795db3d334cc550c2c1970064050da5413"
+sources:
+  - "/sources/news/2026-03-03/00__indigox__anthropic官方claude-code-101教程-理解底层机制才能解锁高阶用法.md"
 ---
 
 # Anthropic官方Claude Code 101教程：理解底层机制才能解锁高阶用法

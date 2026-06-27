@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "优秀模型加Skill正在成为翻译学习的终极形态"
 description: "**[一句话核心判断]**  Skill作为「可演化可分享的标准化制品」，与优秀模型结合后，正在颠覆传统翻译学习的闭环——不是学翻译，是用模型+技能实时翻译，在使用中学习。  **信息增量：** - 核心洞察：Skill的标准化可交付性（evolving + shareable）解决了翻译学习中「学了用不上」的悖论 - 价值点：学习行为本身变成了使用行为，边用边学是Skill经济最朴素的价值主张 "
 resource: "https://x.com/i/status/2055192888091496702"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2055192888091496702"
+created: "2026-05-15"
+updated: "2026-06-26"
+sha256: "de3713f5db2de078e60c033cc5b0594793284ca62fd5a3e743c713b197df0aff"
+sources:
+  - "/sources/news/2026-05-15/00__vista8__优秀模型加skill正在成为翻译学习的终极形态.md"
 ---
 
 # 优秀模型加Skill正在成为翻译学习的终极形态

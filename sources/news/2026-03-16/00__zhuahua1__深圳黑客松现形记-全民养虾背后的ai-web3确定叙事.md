@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "深圳黑客松现形记：全民养虾背后的AI+Web3确定叙事"
 description: "**[一句话核心判断]** OpenClaw黑客松的参与者结构（过半专业开发者）揭示了一个信号：Agent+Crypto已从概念验证进入工程落地期。  • **叙事收敛**：AI Trading Agents / AI Wallets / On-chain Analytics / DeFi Automation 四大方向已清晰定型 • **地域特征**：深圳的开发者密度和政府补贴土壤，使其成为Ag"
 resource: "https://x.com/i/status/2033016184795443260"
@@ -22,6 +22,13 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "ai-crypto-agent-infra"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2033016184795443260"
+created: "2026-03-15"
+updated: "2026-06-26"
+sha256: "30a6fe5ea710e3614a589c60ecf53dd3d1e355fe6e08a02c0ac037936e867339"
+sources:
+  - "/sources/news/2026-03-16/00__zhuahua1__深圳黑客松现形记-全民养虾背后的ai-web3确定叙事.md"
 ---
 
 # 深圳黑客松现形记：全民养虾背后的AI+Web3确定叙事

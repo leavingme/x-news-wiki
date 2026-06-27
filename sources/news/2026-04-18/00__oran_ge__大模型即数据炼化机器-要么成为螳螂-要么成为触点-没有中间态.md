@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "大模型即数据炼化机器：要么成为螳螂，要么成为触点，没有中间态"
 description: "**[大模型炼化一切数据的本质下，唯一的生存策略是掌握触点或成为被吃掉的猎物]**  • 核心洞察：大模型是炼化数据的机器，所有数据源都在被模型吞噬的航道上 • 二选一框架：个人/企业的选择只有\"成为螳螂\"（掌握模型）或\"成为触点\"（被模型接触数据的入口） • 时间维度：区别只是被炼化的速度，窗口期在收窄  这个框架有价值，但过于非黑即白"
 resource: "https://x.com/i/status/2045259070207390128"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2045259070207390128"
+created: "2026-04-17"
+updated: "2026-06-26"
+sha256: "6d344866766c33374290f3ac42ef5fa3291fd00fbdbd92fc225ee52403b09131"
+sources:
+  - "/sources/news/2026-04-18/00__oran_ge__大模型即数据炼化机器-要么成为螳螂-要么成为触点-没有中间态.md"
 ---
 
 # 大模型即数据炼化机器：要么成为螳螂，要么成为触点，没有中间态

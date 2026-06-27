@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "宝玉开源 Agent Skills 实战哲学：从提示词到可复用工程资产"
 description: "**[Skills 不是高级提示词，是 Agent 时代的可执行知识单元]**  • 零门槛起步：已有好用提示词直接用 /skill-creator 转化，关键是动手而非完美设计 • 原子化原则：拒绝万能Skill，单点功能通过 AGENTS.md 编排成工作流，灵活性 > 封装性 • 进化机制：git版本管理 + 现场调试 + 高质量样例对比，让Skill像随身小刀越用越顺 • Agent视角设"
 resource: "https://x.com/i/status/2036114136245969025"
@@ -22,6 +22,13 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "claude-code-ecosystem"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2036114136245969025"
+created: "2026-03-23"
+updated: "2026-06-26"
+sha256: "271bf89ecf23b30eeedc838975a5b85a570500c606deb2d9df33c1827c232132"
+sources:
+  - "/sources/highlights/2026-03-24/00__dotey__宝玉开源-agent-skills-实战哲学-从提示词到可复用工程资产.md"
 ---
 
 # 宝玉开源 Agent Skills 实战哲学：从提示词到可复用工程资产

@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "NaLaFormer：线性注意力机制的内存效率新突破"
 description: "**[长上下文推理的「存储瓶颈」正在被攻破]** 哈工大与鹏城实验室提出NaLaFormer，通过「范数-方向」分解重引入上下文稀疏性，在保持线性注意力速度优势的同时恢复关键信息保留能力，刷新线性注意力SOTA。 **关键突破：** 线性注意力从「速度快但精度损失」走向「速度与精度兼得」，百万Token长文本推理的内存墙正在被拆除。 **边界判断：** 这是基础设施层面的渐进式创新，真正落地到消费"
 resource: "https://x.com/i/status/2037894477805977872"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2037894477805977872"
+created: "2026-03-28"
+updated: "2026-06-26"
+sha256: "fe94e724110228b6fef1ff71ca0f11c39d02d539b6de1523a089a2e89bb09b42"
+sources:
+  - "/sources/news/2026-03-28/00__jiqizhixin__nalaformer-线性注意力机制的内存效率新突破.md"
 ---
 
 # NaLaFormer：线性注意力机制的内存效率新突破

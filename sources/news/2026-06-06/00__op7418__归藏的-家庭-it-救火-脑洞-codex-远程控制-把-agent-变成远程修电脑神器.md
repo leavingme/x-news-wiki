@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "归藏的\"家庭 IT 救火\"脑洞：Codex + 远程控制，把 Agent 变成远程修电脑神器"
 description: "**[一句话核心判断]** Codex 不只是开发者的编程工具，归藏给出了一个面向\"非技术家庭成员\"的新型 Agent 使用范式：本地静默安装 + 远程接管 + computer use，三件套把 Agent 变成家庭 IT 救火队。  - **场景创新**：跳过\"教父母用 AI\"这道鸿沟，直接把 Agent 装在对方机器上，开发者自己当\"远程运维\"，用 computer use 替长辈完成操作 "
 resource: "https://x.com/i/status/2063154662417866900"
@@ -22,6 +22,13 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "agent-mobile-orchestration"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2063154662417866900"
+created: "2026-06-06"
+updated: "2026-06-26"
+sha256: "de032729f5a282f0dafd42c83782f5dbc98204ae3325fcb5aead43529f32c5af"
+sources:
+  - "/sources/news/2026-06-06/00__op7418__归藏的-家庭-it-救火-脑洞-codex-远程控制-把-agent-变成远程修电脑神器.md"
 ---
 
 # 归藏的"家庭 IT 救火"脑洞：Codex + 远程控制，把 Agent 变成远程修电脑神器

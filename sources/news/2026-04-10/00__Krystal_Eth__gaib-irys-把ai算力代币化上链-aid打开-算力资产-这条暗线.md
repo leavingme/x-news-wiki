@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "GAIB+Irys：把AI算力代币化上链，$AID打开「算力资产」这条暗线"
 description: "**核心判断：算力作为链上可流通资产——这才是AI DeFi的正确打开方式，不是再做一个DEX。**  GAIB AI将原始算力代币化，推出$AID（AI合成美元），实现了算力到数字资产的映射；Irys提供高性能Layer-1数据链，承载算力交易的永久存证。两者协同：全球GPU持有者可将算力存入并获得链上证明，开发者可调用分布式算力并获得可验证的执行结果。  关键价值：从东京开发者到圣保罗节点运营"
 resource: "https://x.com/i/status/1952248425267019998"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/1952248425267019998"
+created: "2025-08-04"
+updated: "2026-06-26"
+sha256: "91ba580b1342280e8ce95932131eee415d87b299d126df52c3bcdee8d73ed042"
+sources:
+  - "/sources/news/2026-04-10/00__Krystal_Eth__gaib-irys-把ai算力代币化上链-aid打开-算力资产-这条暗线.md"
 ---
 
 # GAIB+Irys：把AI算力代币化上链，$AID打开「算力资产」这条暗线

@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "NanoBanana 2 vs GPT 同框对比：多模态生成差距正在肉眼可见地缩小"
 description: "歸藏放出 GPT 与 NanoBanana 2 的并排对比图，视觉差距已不再悬殊。  - NanoBanana 2 作为新一代图像生成模型，已在多个细节维度逼近 GPT 阵营 - 国产/独立模型追上头部闭源的速度在加快，多模态赛道的护城河持续变浅 - 视觉对比成为新基准，文字描述之外的'看图说话'正在成为默认评测方式   gakki 锐评：单图对比不构成系统性结论，但趋势信号明确——多模态生成已进"
 resource: "https://x.com/i/status/2068251392196915618"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2068251392196915618"
+created: "2026-06-20"
+updated: "2026-06-26"
+sha256: "196e00c201251592d14c50b7f504cdead3a852f2aaef2c7679e9fea74e5892e6"
+sources:
+  - "/sources/news/2026-06-20/00__op7418__nanobanana-2-vs-gpt-同框对比-多模态生成差距正在肉眼可见地缩小.md"
 ---
 
 # NanoBanana 2 vs GPT 同框对比：多模态生成差距正在肉眼可见地缩小

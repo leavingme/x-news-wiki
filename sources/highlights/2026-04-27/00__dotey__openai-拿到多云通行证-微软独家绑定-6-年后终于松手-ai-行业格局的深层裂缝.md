@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "OpenAI 拿到多云通行证：微软独家绑定 6 年后终于松手，AI 行业格局的深层裂缝"
 description: "**[OpenAI 不再被绑在 Azure 上，微软 6 年独家绑定正式解耦]**  OpenAI 与微软重新签订合作协议，核心变化：OpenAI 获得多云部署权，不再强制绑定 Azure；如果微软选择不支持某些能力，OpenAI 可部署到任意云平台。IP 授权从独家变为非独家，意味着 OpenAI 可将同等技术授权给其他公司。收益分配也重新理顺：微软不再向 OpenAI 支付分成，OpenAI "
 resource: "https://x.com/i/status/2048870296531128362"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2048870296531128362"
+created: "2026-04-27"
+updated: "2026-06-26"
+sha256: "8e6cc95a8a12939cd1854b4fbc849700e90c9bb76bbe6d5d569431eccd075c55"
+sources:
+  - "/sources/highlights/2026-04-27/00__dotey__openai-拿到多云通行证-微软独家绑定-6-年后终于松手-ai-行业格局的深层裂缝.md"
 ---
 
 # OpenAI 拿到多云通行证：微软独家绑定 6 年后终于松手，AI 行业格局的深层裂缝

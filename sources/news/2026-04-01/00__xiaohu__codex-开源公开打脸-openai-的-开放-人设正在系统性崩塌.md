@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Codex 开源公开打脸：OpenAI 的「开放」人设正在系统性崩塌"
 description: "**一句话核心判断：** OpenAI 一边用「安全」叙事建立闭源正当性，一边悄悄开源了 Codex——这种双重标准正在被开发者社区系统性记录。  - 很多人不知道 Codex 一直是开源的，这意味着 OpenAI 的品牌叙事（安全、负责任的闭源）与实际行动之间存在系统性裂缝。 - 当 Anthropic、OpenAI 同时高举安全大旗要求监管，它们的开源项目（Claude Code、Codex）"
 resource: "https://x.com/i/status/2039135152757153999"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2039135152757153999"
+created: "2026-04-01"
+updated: "2026-06-26"
+sha256: "bb214beff4d421112269a977f09c1f71cb335bd0d24108716f642863f170833f"
+sources:
+  - "/sources/news/2026-04-01/00__xiaohu__codex-开源公开打脸-openai-的-开放-人设正在系统性崩塌.md"
 ---
 
 # Codex 开源公开打脸：OpenAI 的「开放」人设正在系统性崩塌

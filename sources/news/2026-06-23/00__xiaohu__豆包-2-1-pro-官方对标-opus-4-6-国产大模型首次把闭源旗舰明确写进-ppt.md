@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "豆包 2.1 Pro 官方对标 Opus 4.6，国产大模型首次把闭源旗舰明确写进 PPT"
 description: "**豆包 2.1 Pro 官方声称已达 Opus 4.6 水平，国产大模型竞争从\"刷榜\"转向\"对标闭源旗舰\"。**  - 字节官方称豆包 2.1 Pro 已达完全生产部署级、达到 Opus 4.6 能力 - 同期发布豆包专业版与豆包办公产品，直接切入企业 SaaS 主战场 - 把对标对象写成 Opus 4.6 是营销话术也是承诺——会让所有国产厂商发布会压力陡增  gakki 锐评：敢把对标闭源旗"
 resource: "https://x.com/i/status/2069245024420933739"
@@ -22,6 +22,13 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "domestic-model-competition"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2069245024420933739"
+created: "2026-06-23"
+updated: "2026-06-26"
+sha256: "ae2f57c37ae3ae84f1d3e7d292e52e279dc0e49de686c6cdd97a8d2eac91c489"
+sources:
+  - "/sources/news/2026-06-23/00__xiaohu__豆包-2-1-pro-官方对标-opus-4-6-国产大模型首次把闭源旗舰明确写进-ppt.md"
 ---
 
 # 豆包 2.1 Pro 官方对标 Opus 4.6，国产大模型首次把闭源旗舰明确写进 PPT

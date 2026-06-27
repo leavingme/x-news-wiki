@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "DeepSeek V4-Pro 百万 Token 6 元：价格屠刀砍向的是整个行业的天花板"
 description: "**DeepSeek 将 V4-Pro 百万 Token 输出定价至 6 元，限时 2.5 折。**  - 以输出计，6 元/百万 Token 的价格已将 API 价格战拉到新底部，接近甚至低于多数厂商的成本线 - 折扣时限定价是经典的云厂商抢心智策略：先用低价锁住开发者和中间件层的迁移惯性 - 结合 V4 本身的能力表现，这一价格意味着\"能用+便宜\"正在取代\"最强\"成为中小开发者的选型依据  价"
 resource: "https://x.com/i/status/2048033423659557289"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2048033423659557289"
+created: "2026-04-25"
+updated: "2026-06-26"
+sha256: "c6dfb2d64c8e340b830eef1f32bc5ddcf7b1595eb1b7d906cb73661f703f26fc"
+sources:
+  - "/sources/news/2026-04-26/00__op7418__deepseek-v4-pro-百万-token-6-元-价格屠刀砍向的是整个行业的天花板.md"
 ---
 
 # DeepSeek V4-Pro 百万 Token 6 元：价格屠刀砍向的是整个行业的天花板

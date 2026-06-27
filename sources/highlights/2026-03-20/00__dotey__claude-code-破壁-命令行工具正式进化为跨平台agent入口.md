@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Claude Code「破壁」：命令行工具正式进化为跨平台Agent入口"
 description: "**[Claude Code从开发者工具升级为通用Agent交互层]** • Channels功能实质是将Telegram/Discord变成Agent的远程控制端，打破CLI的物理边界 • 支持图片/文件传输（TG 50MB、Discord 250MB）、消息编辑更新、历史消息拉取，功能完备度超预期 • 白名单+配对验证的安全设计，为企业级多用户协作铺路  Agent的交互界面正在从「专用客户端"
 resource: "https://x.com/i/status/2034775175414133127"
@@ -22,6 +22,13 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "agent-multi-platform"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2034775175414133127"
+created: "2026-03-19"
+updated: "2026-06-26"
+sha256: "4b2b0b99a22aa788705e0c475a49c0a8f795daa8ffcf9c407da754fe8d86b08b"
+sources:
+  - "/sources/highlights/2026-03-20/00__dotey__claude-code-破壁-命令行工具正式进化为跨平台agent入口.md"
 ---
 
 # Claude Code「破壁」：命令行工具正式进化为跨平台Agent入口

@@ -1,5 +1,5 @@
 ---
-type: "Author"
+type: "entity"
 title: "徐老猫 (@raycat2021)"
 description: "X/Twitter 作者 @raycat2021。共收录 1 条 AI 精选推文。"
 tags:
@@ -12,6 +12,12 @@ x_author_name: "徐老猫"
 x_tweet_count: 1
 x_first_seen: "2026-03-28T18:35:19.082Z"
 x_last_seen: "2026-03-28T18:35:19.082Z"
+type_okf: "Author"
+created: "2026-03-28"
+updated: "2026-06-26"
+sha256: "5d90a1f3db5495615471e2e303d91b243502ad6af9a9ec558f18538a8dd40363"
+sources:
+  - "/sources/news/2026-03-28/00__raycat2021__ai冷战叙事下的美国就业结构性崩塌-监管真空与阶层下沉.md"
 ---
 
 # 徐老猫 (@raycat2021)

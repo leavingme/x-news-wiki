@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Meta Agent 战略落地：Instagram 购物 Agent 2026 年底上线，Claude 做测试模型"
 description: "**Meta 正式将 Agent 定义为用户目标的「全天候执行者」，商业变现路径已经画好。**  - Zuckerberg 在财报电话会上明确 Agent 定位：「日夜不停地为用户实现目标」 - Instagram 单独部署购物 Agent，预计 2026 年底上线，用户不离开 Feed 即可完成购买 - 测试模型选用 Claude Opus 4.6 和 Sonnet 4.6，最终将切换至自研 M"
 resource: "https://x.com/i/status/2053760667304538158"
@@ -22,6 +22,13 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "agent-native-paradigm"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2053760667304538158"
+created: "2026-05-11"
+updated: "2026-06-26"
+sha256: "28250d713046b1c4154278648c4c7cf1d2c4fdb7f98494cb4ae29b66b899e31d"
+sources:
+  - "/sources/news/2026-05-11/00__vista8__meta-agent-战略落地-instagram-购物-agent-2026-年底上线-claude-做测试模型.md"
 ---
 
 # Meta Agent 战略落地：Instagram 购物 Agent 2026 年底上线，Claude 做测试模型

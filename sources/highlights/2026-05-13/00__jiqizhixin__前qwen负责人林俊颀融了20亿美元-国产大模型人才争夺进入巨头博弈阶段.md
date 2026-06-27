@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "前Qwen负责人林俊颀融了20亿美元：国产大模型人才争夺进入巨头博弈阶段"
 description: "**前Qwen负责人林俊颀据报新创立AI Lab，估值20亿美元，已从字节、腾讯及海外机构招募核心成员。**  - 这是继梁文锋（DeepSeek）、郭毅可（阶跃星辰）之后，又一头部玩家以超豪华背景入场 - 字节+腾讯+海外三重背景组合，意味着新 Lab 可能走「国际化人才+国内场景」的差异化路线 - 20亿美元估值在当前资本环境下属于顶级水位，反映VC对「下一个OpenAI级别创始人」的愿意下注"
 resource: "https://x.com/i/status/2054477836325699732"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2054477836325699732"
+created: "2026-05-13"
+updated: "2026-06-26"
+sha256: "e20d37852c786ff6853d5a499ea44245b509d467e0adde4015e6b03dc6c33dcf"
+sources:
+  - "/sources/highlights/2026-05-13/00__jiqizhixin__前qwen负责人林俊颀融了20亿美元-国产大模型人才争夺进入巨头博弈阶段.md"
 ---
 
 # 前Qwen负责人林俊颀融了20亿美元：国产大模型人才争夺进入巨头博弈阶段

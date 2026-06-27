@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "BNB Chain Agent生态全景图：经济基础设施的「协议堆栈」已成型"
 description: "**从单一Agent到协议层集群的跃迁信号。** • 完整栈覆盖：AI Oracle(Flap)→记忆层(Unibase)→身份验证(BAS)→社区发行(TagAI) • 关键拼图：ERC-8004注册表标准出现，Agent互操作性从口号进入协议实现 • 生态位分化：Oracle、记忆、身份、启动工具形成专业化分工  Gakki锐评：BNB Chain正在构建Agent经济的「TCP/IP协议栈」"
 resource: "https://x.com/i/status/2036235361740005422"
@@ -22,6 +22,13 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "agent-economic-autonomy"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2036235361740005422"
+created: "2026-03-24"
+updated: "2026-06-26"
+sha256: "6eae90e1c94fcf17f515e36d134c32fe8c4f0242f068f1244da092ede13c8e03"
+sources:
+  - "/sources/highlights/2026-03-29/00__ForgAI_bnb__bnb-chain-agent生态全景图-经济基础设施的-协议堆栈-已成型.md"
 ---
 
 # BNB Chain Agent生态全景图：经济基础设施的「协议堆栈」已成型

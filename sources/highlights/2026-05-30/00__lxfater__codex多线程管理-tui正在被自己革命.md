@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Codex多线程管理：TUI正在被自己革命"
 description: "**【一句话核心判断】** Codex刚上线的\"一个聊天管理其他聊天线程\"功能，本质上是让AI操控自己的界面，标志着TUI范式正在被GUI化的多线程交互所替代。  **要点：** - 新功能：一个Codex聊天可创建、检查、pin、归档、组织子线程，还能为并行任务拉起独立worktree - 使用场景：扫描GitHub bug报告→在不同worktree中创建线程修复→重要线程置顶，随时归档rev"
 resource: "https://x.com/i/status/2060538786417910193"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2060538786417910193"
+created: "2026-05-30"
+updated: "2026-06-26"
+sha256: "048ba9663661a31d52b480b07983f2b99582b874b1bcb12abe61ce053ac5fa78"
+sources:
+  - "/sources/highlights/2026-05-30/00__lxfater__codex多线程管理-tui正在被自己革命.md"
 ---
 
 # Codex多线程管理：TUI正在被自己革命

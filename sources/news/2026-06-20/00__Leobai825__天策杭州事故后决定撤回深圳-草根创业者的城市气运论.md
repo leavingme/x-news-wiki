@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "天策杭州事故后决定撤回深圳：草根创业者的城市气运论"
 description: "**一次小事故触发\"城市气运\"反思，天策放弃杭州撤回深圳。**  天策在杭州出差遇小事故，借此反思\"创业要学会降速\"，决定把业务从杭州搬回深圳——理由是\"深圳气运更好\"、更适合草根创业者。  无产品/技术/业务具体信息，纯个人决策与城市选择叙事。  信号：草根AI创业者仍把\"城市气运\"当作重要变量（深圳>杭州），但这只是感性归因，不是数据判断。  gakki锐评：撤城决策本质是供应链/客户/团队三"
 resource: "https://x.com/i/status/2068341908120781078"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2068341908120781078"
+created: "2026-06-20"
+updated: "2026-06-26"
+sha256: "7033e60c4f28eef5682de280093804ea6e7ef4655b9e95c4103ead80df587b0a"
+sources:
+  - "/sources/news/2026-06-20/00__Leobai825__天策杭州事故后决定撤回深圳-草根创业者的城市气运论.md"
 ---
 
 # 天策杭州事故后决定撤回深圳：草根创业者的城市气运论

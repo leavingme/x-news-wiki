@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Kimi K2.6开源：4000+工具调用、12小时长程执行，代码Agent进入「无人值守」阶段"
 description: "**核心判断：开源代码Agent首次在真实长程任务中验证了持续运行能力，而非仅在榜单上刷分。**  Kimi K2.6在HLE、SWEBench Pro、SWE-bench Multilingual等基准上均达开源SOTA，但真正值得关注的不是数字：它实现了4,000+工具调用、跨12小时连续执行，覆盖Rust/Go/Python多语言，以及前端/DevOps/性能优化多任务类型。这意味着开源Ag"
 resource: "https://x.com/Kimi_Moonshot/status/2046249571882500354"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
+
 x_source: "ai-trend-digest"
+type_okf: "X Tweet"
+source_url: "https://x.com/Kimi_Moonshot/status/2046249571882500354"
+created: "2026-04-20"
+updated: "2026-06-26"
+sha256: "e4e26fe9eb40461859c3866612b57a0304f81dc68078c932014c0f2c18f7559d"
+sources:
+  - "/sources/highlights/2026-04-20/00__Kimi_Moonshot__kimi-k2-6开源-4000-工具调用-12小时长程执行-代码agent进入-无人值守-阶段.md"
 ---
 
 # Kimi K2.6开源：4000+工具调用、12小时长程执行，代码Agent进入「无人值守」阶段

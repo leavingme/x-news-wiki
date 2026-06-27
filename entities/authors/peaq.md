@@ -1,5 +1,5 @@
 ---
-type: "Author"
+type: "entity"
 title: "peaq (@peaq)"
 description: "X/Twitter 作者 @peaq。共收录 1 条 AI 精选推文。"
 tags:
@@ -12,6 +12,12 @@ x_author_name: "peaq"
 x_tweet_count: 1
 x_first_seen: "2026-05-12T19:17:47.269Z"
 x_last_seen: "2026-05-12T19:17:47.269Z"
+type_okf: "Author"
+created: "2026-05-12"
+updated: "2026-06-26"
+sha256: "07f5ab92590bc30981eb3e3c0856933ce5c3b623fee071b28b3cf9f54f802e84"
+sources:
+  - "/sources/news/2026-05-12/00__peaq__peaqos-lg-cloi机器人-链上usdx自动结算的-机器人经济-首次实现商业场景验证.md"
 ---
 
 # peaq (@peaq)

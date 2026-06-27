@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "刘韧写作法则：主动语态与句号密度正在重塑中文互联网表达"
 description: "**[短句运动是一场被低估的认知革命]**  向阳乔木重提刘韧的写作法则：少用被动语态、增加句号密度。这套方法论早年影响了大量中文互联网写作者，近期被重新挖掘。  信息增量：这套技巧的本质是\"降低认知负载\"——被动语态制造主语模糊，句号制造停顿点，让读者在碎片化场景里更容易捕获信息。  对谁有影响：所有在X/小红书等平台做内容输出的创作者，以及正在用AI辅助写作但不懂文风优化的人。  gakki锐"
 resource: "https://x.com/i/status/2060600115371589830"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2060600115371589830"
+created: "2026-05-30"
+updated: "2026-06-26"
+sha256: "64eca11b299587187f6e73254247070c72ba4457c9600dfaa6307c78babb9a17"
+sources:
+  - "/sources/news/2026-05-30/00__vista8__刘韧写作法则-主动语态与句号密度正在重塑中文互联网表达.md"
 ---
 
 # 刘韧写作法则：主动语态与句号密度正在重塑中文互联网表达

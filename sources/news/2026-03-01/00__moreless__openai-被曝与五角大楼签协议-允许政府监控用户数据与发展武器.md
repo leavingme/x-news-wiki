@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "OpenAI 被曝与五角大楼签协议，允许政府监控用户数据与发展武器"
 description: "社区笔记揭露 OpenAI 与政府签订的协议中包含允许政府监控用户数据和发展杀人武器的条款，引发用户卸载 ChatGPT 的呼声。Claude Code 则因这次争议在下载排行榜上升至第二。"
 resource: "https://x.com/i/status/2027862591008338354"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2027862591008338354"
+created: "2026-02-28"
+updated: "2026-06-26"
+sha256: "9f95aecbb2708993d70005c106a0d67ee9b3a3ef65bcaed73e8c19abd7de0970"
+sources:
+  - "/sources/news/2026-03-01/00__moreless__openai-被曝与五角大楼签协议-允许政府监控用户数据与发展武器.md"
 ---
 
 # OpenAI 被曝与五角大楼签协议，允许政府监控用户数据与发展武器

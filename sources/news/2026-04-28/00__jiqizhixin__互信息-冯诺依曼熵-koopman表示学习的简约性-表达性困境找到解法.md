@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "互信息+冯诺依曼熵：Koopman表示学习的简约性-表达性困境找到解法"
 description: "**[一句话核心判断]** UCL、帝国理工、圣菲研究所联合提出信息论拉格朗日方法，为Koopman表示学习找到了「不过度压缩也不过度冗余」的理论边界。  **信息增量：** - 核心创新：抛弃传统启发式正则化，改用互信息（compactness）+ 冯诺依曼熵（expressiveness）的变分下界估计 - 解决了什么：AI模型在系统动力学学习中容易坍缩到少数主导模式，丢失隐变量细节 - 验证"
 resource: "https://x.com/i/status/2049175813283610916"
@@ -22,6 +22,13 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "reasoning-and-model-architecture"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2049175813283610916"
+created: "2026-04-28"
+updated: "2026-06-26"
+sha256: "13fceb53947d82707c05e97d98c0fa17b9ad8ef16a0a67f60f9fac830293c686"
+sources:
+  - "/sources/news/2026-04-28/00__jiqizhixin__互信息-冯诺依曼熵-koopman表示学习的简约性-表达性困境找到解法.md"
 ---
 
 # 互信息+冯诺依曼熵：Koopman表示学习的简约性-表达性困境找到解法

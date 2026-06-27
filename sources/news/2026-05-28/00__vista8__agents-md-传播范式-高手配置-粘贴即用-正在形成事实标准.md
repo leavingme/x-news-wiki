@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Agents.md 传播范式：高手配置「粘贴即用」正在形成事实标准"
 description: "**[Skill 文件正在成为可传播的认知资产]**  向阳乔木提出一个实操建议：把高手的 Agents 内容直接粘贴给 Codex 或 Claude Code 学习，「抄作业」式传播。这条 post 捕捉到一个正在形成的气候——Agents.md 文件具备可移植性，成为跨团队、跨项目的认知传递介质。  两条实用规则值得注意：①纠正时要提出 diff 而非直接修改，保留人类确认环节；②说话直接，不"
 resource: "https://x.com/i/status/2059809889472684061"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2059809889472684061"
+created: "2026-05-28"
+updated: "2026-06-26"
+sha256: "129a20922b67f9dfcf2277c1dfa7b00d49d7b47250ac0428cd12a5e5c3327827"
+sources:
+  - "/sources/news/2026-05-28/00__vista8__agents-md-传播范式-高手配置-粘贴即用-正在形成事实标准.md"
 ---
 
 # Agents.md 传播范式：高手配置「粘贴即用」正在形成事实标准

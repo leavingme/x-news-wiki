@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "DeepSeek V4 用三分钱修了 Claude Opus 4.7 的 8 个内存泄漏：跨模型调试的性价比叙事正在改写工具选型逻辑"
 description: "**便宜模型在「确定性修复任务」上的性价比碾压已不是传闻，而是可复现的工程事实。**  - Claude Opus 4.7 写的代码存在 8 个内存泄漏导致崩溃，DeepSeek V4 几分钟内全部定位并修复，成本约三分钱 - 这验证了「用贵模型写、用便宜模型修」的混合工作流模式，模型分工正在按任务确定性分层 - 对开发者而言，这动摇了「顶级模型=全能」的迷信，场景适配比模型等级更重要  gakk"
 resource: "https://x.com/HealthRanger/status/2049542351496814896"
@@ -22,6 +22,13 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "cheap-model-trap"
 x_source: "ai-trend-digest"
+type_okf: "X Tweet"
+source_url: "https://x.com/HealthRanger/status/2049542351496814896"
+created: "2026-04-29"
+updated: "2026-06-26"
+sha256: "aec263ba271d439e19d711f7ee5ef468b6548e3cc36220e9a0459bc60731636f"
+sources:
+  - "/sources/news/2026-04-29/00__HealthRanger__deepseek-v4-用三分钱修了-claude-opus-4-7-的-8-个内存泄漏-跨模型调试的性价比叙事正在改写.md"
 ---
 
 # DeepSeek V4 用三分钱修了 Claude Opus 4.7 的 8 个内存泄漏：跨模型调试的性价比叙事正在改写工具选型逻辑

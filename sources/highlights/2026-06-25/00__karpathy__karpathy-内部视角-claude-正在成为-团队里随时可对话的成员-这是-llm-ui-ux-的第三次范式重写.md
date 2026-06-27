@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Karpathy 内部视角：Claude 正在成为「团队里随时可对话的成员」，这是 LLM UI/UX 的第三次范式重写"
 description: "**Karpathy 描述了一种全新交互形态：Claude 不再是单独的聊天窗口，而是被「inline」嵌入到组织一切人类活动里，像同事一样被对话、被委派。**  - 他把 LLM UI 演进划成三段：1) Terminal/CLI 时代  2) Chatbot 网页/对话框时代  3) 现在 Anthropic 在推的「全员嵌入式」时代 - 关键工程前提是工具链、集成、算力环境、记忆、安全、权限"
 resource: "https://x.com/i/status/2069547676849557725"
@@ -22,6 +22,13 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "agent-native-paradigm"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2069547676849557725"
+created: "2026-06-23"
+updated: "2026-06-26"
+sha256: "07e9593ef624131250ce47ebfe4fbe66675738755e8c016c5912be3d1b9971ae"
+sources:
+  - "/sources/highlights/2026-06-25/00__karpathy__karpathy-内部视角-claude-正在成为-团队里随时可对话的成员-这是-llm-ui-ux-的第三次范式重写.md"
 ---
 
 # Karpathy 内部视角：Claude 正在成为「团队里随时可对话的成员」，这是 LLM UI/UX 的第三次范式重写

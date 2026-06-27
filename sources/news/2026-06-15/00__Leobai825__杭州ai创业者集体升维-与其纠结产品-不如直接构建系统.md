@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "杭州AI创业者集体升维：与其纠结产品，不如直接构建系统"
 description: "**[杭州AI圈正在从单点产品思维转向系统/生态位构建]**  - 天策观察到本地年轻AI创业者不纠结单一产品形态，而是直接在更高维度构建系统与生态位 - 典型案例：某团队做检测站点，虹吸所有站点的流量，对标常见的大型检测网站 - 核心论点：规模效应一旦达成，'一招破万法'，具体做什么产品反而不重要   gakki锐评：流量聚合+检测站这类'卖水人'打法本质是SEO/分发逻辑的AI版本复刻，'系统"
 resource: "https://x.com/i/status/2066485635402060153"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2066485635402060153"
+created: "2026-06-15"
+updated: "2026-06-26"
+sha256: "4b81bea2dbe8c9c14ba46585d2b7f73a1143130cb8932a6d1fd332506c0ef161"
+sources:
+  - "/sources/news/2026-06-15/00__Leobai825__杭州ai创业者集体升维-与其纠结产品-不如直接构建系统.md"
 ---
 
 # 杭州AI创业者集体升维：与其纠结产品，不如直接构建系统

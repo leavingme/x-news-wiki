@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Chrome工程负责人用19个强制工作流对抗AI\"跳步\"本能：工程纪律正在被编码成可执行规范"
 description: "**[一句话核心判断]** Addy Osmani（Google Chrome工程负责人）把高级工程师的工程纪律编码成19个强制工作流，首次系统性地解决了AI代理\"走捷径\"的根性问题。  **要点：** - XS任务=1文件、S=1-2文件、M=3-5文件、L=5-8文件——硬性指标切断\"大饼任务\"的退路 - 每个任务必须贯穿完整特性路径（DB+API+UI垂直切片），而非横向分层交付 - 100"
 resource: "https://x.com/i/status/2040808769899356527"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2040808769899356527"
+created: "2026-04-05"
+updated: "2026-06-26"
+sha256: "51a32bd54d2dfe0fea9340ae6e6e6f85f99f7508821c53d5e42b120e1a316b05"
+sources:
+  - "/sources/highlights/2026-04-08/00__chenchengpro__chrome工程负责人用19个强制工作流对抗ai-跳步-本能-工程纪律正在被编码成可执行规范.md"
 ---
 
 # Chrome工程负责人用19个强制工作流对抗AI"跳步"本能：工程纪律正在被编码成可执行规范

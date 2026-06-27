@@ -1,5 +1,5 @@
 ---
-type: "Author"
+type: "entity"
 title: "Kenny.eth (@_0xKenny)"
 description: "X/Twitter 作者 @_0xKenny。共收录 3 条 AI 精选推文。"
 tags:
@@ -12,6 +12,14 @@ x_author_name: "Kenny.eth"
 x_tweet_count: 3
 x_first_seen: "2026-03-14T00:42:37.870Z"
 x_last_seen: "2026-04-11T00:44:20.456Z"
+type_okf: "Author"
+created: "2026-03-14"
+updated: "2026-06-26"
+sha256: "ae027740ae45d3c4928845332846ff812968999744a19b7bd12d7ca6a7225c27"
+sources:
+  - "/sources/highlights/2026-03-17/00___0xKenny__okara-ai-cmo-当-获客-取代-开发-成为创业第一瓶颈.md"
+  - "/sources/highlights/2026-04-11/00___0xKenny__skill-md-正在成为-ai-编码工具的-行业宪法.md"
+  - "/sources/news/2026-03-14/80___0xKenny__睡后科研-成真-karpathy开源auto-research让ai替你跑实验.md"
 ---
 
 # Kenny.eth (@_0xKenny)

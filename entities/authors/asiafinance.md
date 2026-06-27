@@ -1,5 +1,5 @@
 ---
-type: "Author"
+type: "entity"
 title: "亚洲金融 Asia Finance (@AsiaFinance)"
 description: "X/Twitter 作者 @AsiaFinance。共收录 1 条 AI 精选推文。"
 tags:
@@ -12,6 +12,12 @@ x_author_name: "亚洲金融 Asia Finance"
 x_tweet_count: 1
 x_first_seen: "2026-04-18T00:47:03.850Z"
 x_last_seen: "2026-04-18T00:47:03.850Z"
+type_okf: "Author"
+created: "2026-04-18"
+updated: "2026-06-26"
+sha256: "233a546ec7811caedc0beb460cf645e0a9b1c66e52927844e1fed1a8be9f46bc"
+sources:
+  - "/sources/highlights/2026-04-18/00__AsiaFinance__黄仁勋罕见动气-逼中国自建技术栈才是美国最大战略失误.md"
 ---
 
 # 亚洲金融 Asia Finance (@AsiaFinance)

@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "融资入账但无产品名：AI消费品早期投资的一个危险信号"
 description: "**[某AI产品获融资但品牌名未披露，UI 风格成唯一线索]**  - 该推文在无任何上下文的情况下提及某产品获融资，仅凭\"UI 好看\"作为判断依据，暗示信息链条存在断裂 - 投资标的身份不明的现象在 AI 早期项目传播中愈发常见，或反映融资节奏快于产品公关的倒置现象 - UI 美观度成为投资者退出信心指标的概率正在上升，说明硬件指标和团队背景以外的可感知品质正在重塑早期评估维度  gakki：这"
 resource: "https://x.com/i/status/2057330693299212756"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2057330693299212756"
+created: "2026-05-21"
+updated: "2026-06-26"
+sha256: "54b11dd8650c0792ca7d81e081dc3aa70c47f563de19dec2424fbfec207a5050"
+sources:
+  - "/sources/news/2026-05-21/00__Zesee__融资入账但无产品名-ai消费品早期投资的一个危险信号.md"
 ---
 
 # 融资入账但无产品名：AI消费品早期投资的一个危险信号

@@ -1,5 +1,5 @@
 ---
-type: "Concept"
+type: "concept"
 title: "edgeclaw-memory-infrastructure"
 description: "跨日主题 \"edgeclaw-memory-infrastructure\"，共 7 条相关精选推文。"
 tags:
@@ -11,6 +11,18 @@ x_topic_slug: "edgeclaw-memory-infrastructure"
 x_tweet_count: 7
 x_first_seen: "2026-04-07T00:42:41.998Z"
 x_last_seen: "2026-06-10T10:18:58.276Z"
+type_okf: "Concept"
+created: "2026-04-07"
+updated: "2026-06-26"
+sha256: "2296bb2018cc2984e092e184c58370a58cc2571af4295b39d084ae01deef18cf"
+sources:
+  - "/sources/highlights/2026-04-09/00__shao__meng__hermes-agent-架构解析-学习闭环才是真正的记忆基础设施.md"
+  - "/sources/highlights/2026-04-11/00__shao__meng__mem9-ed-huang-一个周末写出的-openclaw-外置海马体-顺便把向量搜索做进了-tidb.md"
+  - "/sources/highlights/2026-06-10/00__Zesee__agent-共享大脑-一行命令打通跨实例记忆层.md"
+  - "/sources/news/2026-04-07/00__MiniPotSatomi__claude-源码泄露-6-天后-openclaw-推出-撞脸-功能-一场关于-ai-记忆机制的产品节奏战.md"
+  - "/sources/news/2026-04-09/00__GitTrend0x__hermes-agent-24小时8800星-记忆型-agent-开始-长脑子.md"
+  - "/sources/news/2026-04-30/00__vista8__beads-用-git-like-sql-数据库解决-agent-长任务失忆-22-6k-star-背后的架构选择.md"
+  - "/sources/news/2026-05-30/00__op7418__歸藏-ai-预告明日发测试版-开源记忆基础设施赛道又有新选手.md"
 ---
 
 # 主题: edgeclaw-memory-infrastructure

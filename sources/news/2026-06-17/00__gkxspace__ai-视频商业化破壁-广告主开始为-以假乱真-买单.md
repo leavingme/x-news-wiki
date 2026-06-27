@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "AI 视频商业化破壁：广告主开始为\"以假乱真\"买单"
 description: "[AI 视频已从\"流量噱头\"进入\"品效合一\"射程，广告主为渲染级效果付钱，真实性叙事被商业逻辑重写]  - 案例击穿认知：卡萨帝冰箱 AI 视频广告渲染效果与实拍无异，验证\"AI 接不到商单\"为过时判断 - 生产成本结构性坍塌：场地、设备、团队被 AI 抹平，传统广告片链路值得用 AI 重做一遍 - 真实性范式转移：互联网内容本就\"演\"出来，AI 在优质创作者手里反而更自然，\"真假\"边界进一步溶解"
 resource: "https://x.com/i/status/2067186864763621727"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2067186864763621727"
+created: "2026-06-17"
+updated: "2026-06-26"
+sha256: "9b6fee6fecfb74be9754cd3cc9c920e5679b24cb1c950a03fdb8eadad61e6c45"
+sources:
+  - "/sources/news/2026-06-17/00__gkxspace__ai-视频商业化破壁-广告主开始为-以假乱真-买单.md"
 ---
 
 # AI 视频商业化破壁：广告主开始为"以假乱真"买单

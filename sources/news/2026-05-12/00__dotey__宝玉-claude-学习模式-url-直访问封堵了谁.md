@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "宝玉：Claude 学习模式 URL 直访问封堵了谁"
 description: "**[工具封禁与绕过的持续猫鼠游戏]**  宝玉发现 Claude 的「学习模式」虽然网页端被封，但通过 URL 直访问仍然可用。这说明 Claude/Anthropic 的封禁策略存在执行漏洞——后端接口并未完全切断，只是前端入口被拦截。  实用价值： - 直访问路径意味着 API 调用或浏览器自动化工具仍可触达该功能 - 对需要调用 Claude 学习能力的开发者而言，这是可用的 workar"
 resource: "https://x.com/i/status/2054309878554894553"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2054309878554894553"
+created: "2026-05-12"
+updated: "2026-06-26"
+sha256: "13a622292bdb8e9e9385d11f0f5fc345dbd7e1de6df61c804025cfbbd83c3513"
+sources:
+  - "/sources/news/2026-05-12/00__dotey__宝玉-claude-学习模式-url-直访问封堵了谁.md"
 ---
 
 # 宝玉：Claude 学习模式 URL 直访问封堵了谁

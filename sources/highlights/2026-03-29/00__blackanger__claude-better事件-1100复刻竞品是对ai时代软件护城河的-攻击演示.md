@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Claude better事件：$1100复刻竞品是对AI时代软件护城河的「攻击演示」"
 description: "**[一句话核心判断]** Codex用$1100和一晚时间完整逆向Claude Code，暴露了闭源软件在AI时代的护城河正加速崩塌。  • **攻击维度**：不止性能优化，而是「用AI复刻AI工具」的可行性验证，连analytics header都原样复刻 • **法律真空**：作者选择不开源是明智的——AI生成的「复刻品」处于版权与专利的模糊地带 • **节奏悖论**：即便技术可行，能否跟上"
 resource: "https://x.com/i/status/2037943381654171743"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2037943381654171743"
+created: "2026-03-28"
+updated: "2026-06-26"
+sha256: "3882f5bdd9d661e1f5fe3554418d2e57ccb2cd854e1f052e4a67bc5dfda48ce4"
+sources:
+  - "/sources/highlights/2026-03-29/00__blackanger__claude-better事件-1100复刻竞品是对ai时代软件护城河的-攻击演示.md"
 ---
 
 # Claude better事件：$1100复刻竞品是对AI时代软件护城河的「攻击演示」

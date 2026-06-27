@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "mymind 接入 MCP：素材参考自动化进入 Agent 时代"
 description: "**个人素材管理工具 mymind 正式支持 MCP，参考搜集从手动搬运升级为 Agent 自动调用。**  - 找设计参考、案例库的过程可直接由 Agent 拉取，省去人肉搬运环节 - 体现了 MCP 协议正在渗透到个人生产力工具层，非开发者用户也能受益 - 与 Anthropic 推动的 MCP 大一统趋势共振：内容/素材类工具成为新一批被纳入的节点   gakki 锐评：单点工具支持 MCP"
 resource: "https://x.com/i/status/2069615413517062280"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2069615413517062280"
+created: "2026-06-24"
+updated: "2026-06-26"
+sha256: "5ad5c87e5de2a6753ca56ccf28a862fb3ba7fcafaf3ee395a20ab96f017ee144"
+sources:
+  - "/sources/news/2026-06-24/00__op7418__mymind-接入-mcp-素材参考自动化进入-agent-时代.md"
 ---
 
 # mymind 接入 MCP：素材参考自动化进入 Agent 时代

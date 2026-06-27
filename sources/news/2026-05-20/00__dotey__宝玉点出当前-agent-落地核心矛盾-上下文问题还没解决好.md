@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "宝玉点出当前 Agent 落地核心矛盾：上下文问题还没解决好"
 description: "**[ 上下文管理仍是制约 Agent 生产可用的决定性瓶颈 ]**  宝玉在回应 Sam 时指出「还没解决好上下文问题只能折中」，这句话精准点出了当前 Agent 落地最核心的技术卡点：  - 多轮对话、复杂任务、长程工具调用中的上下文衰减问题至今没有系统性解法 - 当前行业普遍以「折中方案」（工程 trick、模型选择、任务拆分）绕过而非解决 - 这个问题不突破，Agent 在 B 端复杂场景"
 resource: "https://x.com/i/status/2057118150798307752"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2057118150798307752"
+created: "2026-05-20"
+updated: "2026-06-26"
+sha256: "c51f41a858d2931927655aac3853113f903270751f641fdf4c710b1a7159fcf5"
+sources:
+  - "/sources/news/2026-05-20/00__dotey__宝玉点出当前-agent-落地核心矛盾-上下文问题还没解决好.md"
 ---
 
 # 宝玉点出当前 Agent 落地核心矛盾：上下文问题还没解决好

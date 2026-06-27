@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Yoroll三层架构把视频模型变成游戏引擎：内容工具到操作系统的惊险一跃"
 description: "**一句话判断：视频生成模型从\"内容层\"侵入\"系统层\"，游戏开发的创作主权正在易手。**  Yoroll 项目展示三层分离架构：表现层（AI视频模型实时\"拍摄\"）、交互层（翻译玩家QTE操作）、系统层（确定性游戏逻辑引擎）。实际案例：一位《甄嬛传》粉丝不到一周做出\"女尊版甄嬛传\"AI互动游戏Demo，抖音单条视频数万赞。  要点： - 视频生成模型成为游戏引擎：AI从内容工具变为\"游戏运行层\" -"
 resource: "https://x.com/i/status/2041464290792841552"
@@ -22,6 +22,13 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "ai-game-dev-competition"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2041464290792841552"
+created: "2026-04-07"
+updated: "2026-06-26"
+sha256: "2c46f9d2cd8ebd0ba62500ea702bfa4cf1556a3caeeec0b87807a3704f1d97ae"
+sources:
+  - "/sources/news/2026-04-07/00__xiaohu__yoroll三层架构把视频模型变成游戏引擎-内容工具到操作系统的惊险一跃.md"
 ---
 
 # Yoroll三层架构把视频模型变成游戏引擎：内容工具到操作系统的惊险一跃

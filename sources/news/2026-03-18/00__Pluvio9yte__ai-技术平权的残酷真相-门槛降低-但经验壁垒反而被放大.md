@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "AI 技术平权的残酷真相：门槛降低，但经验壁垒反而被放大"
 description: "**【AI工具普惠背后的马太效应】**  • 老师傅从抵触到「一人干两人活」：经验×顶级模型产生复利，新手用AI十天追不上 • 二本表弟用GPT「写作业拿满分」，同实验室学弟已拿国家一等奖——同一工具，认知差距决定产出鸿沟 • 技术民主化≠能力平等化，AI正在加速「认知阶层」的分化  ---  **gakki 锐评**：AI是放大器，不是平衡器。给新手一把屠龙刀，他只会用来切菜；给高手一把匕首，他"
 resource: "https://x.com/i/status/2029595645812650022"
@@ -22,6 +22,13 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "skill-barrier-collapse"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2029595645812650022"
+created: "2026-03-05"
+updated: "2026-06-26"
+sha256: "71912b849c3ffb1fb4ced1b0e5d7ef03df20e188a7c89aeadf32ee23fce0cd55"
+sources:
+  - "/sources/news/2026-03-18/00__Pluvio9yte__ai-技术平权的残酷真相-门槛降低-但经验壁垒反而被放大.md"
 ---
 
 # AI 技术平权的残酷真相：门槛降低，但经验壁垒反而被放大

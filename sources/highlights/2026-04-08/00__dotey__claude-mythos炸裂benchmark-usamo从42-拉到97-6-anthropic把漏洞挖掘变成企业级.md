@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Claude Mythos炸裂Benchmark：USAMO从42%拉到97.6%，Anthropic把漏洞挖掘变成企业级SaaS"
 description: "**【一句话核心判断】**  Anthropic发布Claude Mythos Preview，跑分在所有公开基准上断崖式领先；同步推出Project Glasswing，联姻苹果/微软/亚马逊等12家巨头，把模型当安全审计服务卖。  **【信息增量】**  • USAMO 2026数学证明从42.3%→97.6%，几乎满分，这个跳跃幅度在近年的模型迭代中前所未有 • SWE-bench Veri"
 resource: "https://x.com/i/status/2041608128022901233"
@@ -22,6 +22,13 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "anthropic-commercial-explosion"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2041608128022901233"
+created: "2026-04-07"
+updated: "2026-06-26"
+sha256: "38e36168b53c2daa6d78e263c58eec2bee0c6f28352c4a2dd9e62deed3856e97"
+sources:
+  - "/sources/highlights/2026-04-08/00__dotey__claude-mythos炸裂benchmark-usamo从42-拉到97-6-anthropic把漏洞挖掘变成企业级.md"
 ---
 
 # Claude Mythos炸裂Benchmark：USAMO从42%拉到97.6%，Anthropic把漏洞挖掘变成企业级SaaS

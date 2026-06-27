@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "宝玉实战演示：Ant Design仓库直送AI正在成为新的代码理解范式"
 description: "**一句话核心判断**  「把repo发给它」正在替代「看文档」，成为工程师调试新技术的第一步——但这意味着模型的上下文窗口变成了新的瓶颈。  **信息增量** - 宝玉建议直接把Ant Design整个仓库发给AI，而非传统意义的提问或搜索 - 这说明当前AI代码理解能力已足以处理中等规模代码库的上下文 - 但也意味着用户需要主动判断「什么该发、什么不该发」  **边界** 没有给出反馈结果，无"
 resource: "https://x.com/i/status/2061455549816783139"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2061455549816783139"
+created: "2026-06-01"
+updated: "2026-06-26"
+sha256: "6a65dd5460f0402b468330c365cb15254cd733a76a7deaf3d1f939c68534062b"
+sources:
+  - "/sources/news/2026-06-01/00__dotey__宝玉实战演示-ant-design仓库直送ai正在成为新的代码理解范式.md"
 ---
 
 # 宝玉实战演示：Ant Design仓库直送AI正在成为新的代码理解范式

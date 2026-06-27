@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "普通人的AI需求原点回归：响应速度与场景匹配比模型参数更重要"
 description: "**[「普通人AI痛点」的本质不是能力不足，而是门槛过高]**  Rourou引用了一个关键判断：「这种模型和这种场景才是普通人需要ai的痛点」。这指向了一个正在被行业忽视的事实：消费级AI市场的真正门槛不是模型有多强，而是能否在特定场景中提供即时、可用的价值。  速度慢、理解成本高、场景不对齐——这些才是阻止AI向大众渗透的核心障碍。  **gakki锐评：** 行业在追逐SOTA的时候，真实市"
 resource: "https://x.com/i/status/2055646364462375044"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2055646364462375044"
+created: "2026-05-16"
+updated: "2026-06-26"
+sha256: "23039be8c5ba2ab79e26ec4db98febdbfece211eaf384965fb536d194362f59f"
+sources:
+  - "/sources/news/2026-05-16/00__Rourou0413__普通人的ai需求原点回归-响应速度与场景匹配比模型参数更重要.md"
 ---
 
 # 普通人的AI需求原点回归：响应速度与场景匹配比模型参数更重要

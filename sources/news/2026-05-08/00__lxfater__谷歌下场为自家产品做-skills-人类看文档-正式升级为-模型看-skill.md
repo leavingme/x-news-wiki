@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "谷歌下场为自家产品做 Skills：「人类看文档」正式升级为「模型看 Skill」"
 description: "**谷歌将自家产品文档封装为机器可消费的 Skill，标志着 Skills 范式从开发者社区走向平台厂商。** - 此前 Skills 生态主要由第三方和社区驱动，谷歌的介入意味着「文档→Skill」正在成为平台级基础设施的标准动作 - 当大模型成为文档的第一读者，产品分发逻辑将从 SEO/AEO 延伸到 Skill 可发现性 - 这对 SKILL.md 标准化是强验证信号：谁的 Skill 先被"
 resource: "https://x.com/i/status/2052642153004974490"
@@ -22,6 +22,13 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "skills-ecosystem-standards"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2052642153004974490"
+created: "2026-05-08"
+updated: "2026-06-26"
+sha256: "dd2ec3ccf62333e71885cf13add30d58fe82c856f2ff58e9a2b611132f430bc8"
+sources:
+  - "/sources/news/2026-05-08/00__lxfater__谷歌下场为自家产品做-skills-人类看文档-正式升级为-模型看-skill.md"
 ---
 
 # 谷歌下场为自家产品做 Skills：「人类看文档」正式升级为「模型看 Skill」

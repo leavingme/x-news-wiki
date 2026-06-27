@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Agent One 3天完成6分钟Hachiko短片：AI视频从「生成」进入「导演」范式"
 description: "**AI视频正在从「素材生成」跃迁至「全流程导演」，prompt box 将被指挥台取代。**  - Agent One 用3天完成了从脚本到成片的6分钟Hachiko短片，标志着AI视频工具链从单点生成进化为端到端编排 - 作者的核心判断：还在「写提示词」的人 Q3 会被淘汰，未来是「导演」思维——指挥Agent而非调教prompt - 这是继 Seedance/HappyHorse 开源视频质"
 resource: "https://x.com/UrMeer289/status/2050075972515610931"
@@ -22,6 +22,13 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "ai-short-drama-industrialization"
 x_source: "ai-trend-digest"
+type_okf: "X Tweet"
+source_url: "https://x.com/UrMeer289/status/2050075972515610931"
+created: "2026-05-01"
+updated: "2026-06-26"
+sha256: "d1034a1ac861b7f1c8e9addb6e4ac34217ae42876df8e58553d62693224f2298"
+sources:
+  - "/sources/news/2026-05-01/00__UrMeer289__agent-one-3天完成6分钟hachiko短片-ai视频从-生成-进入-导演-范式.md"
 ---
 
 # Agent One 3天完成6分钟Hachiko短片：AI视频从「生成」进入「导演」范式

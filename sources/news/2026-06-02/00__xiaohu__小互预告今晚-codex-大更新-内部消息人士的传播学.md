@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "小互预告今晚 Codex 大更新：内部消息人士的传播学"
 description: "**一句话核心判断** \"今晚有大更新\"的模糊预告本身就是一种信息——说明发布者处于信息链上游，且愿意承担\"放话失败\"的风险来建立权威性。  **信息增量** - 小互作为 AI 圈 KOL 的信源可信度正在被这种预告强化 - 今晚具体更新内容待验证，可能是 Codex 新功能或 API 调整  **gakki 锐评** 这条的价值在于它展示了 AI 圈的\"内部消息\"生态：有的人靠发代码建立权威，"
 resource: "https://x.com/i/status/2061635096311202207"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2061635096311202207"
+created: "2026-06-02"
+updated: "2026-06-26"
+sha256: "1aaca31e0e300d6c2e7c9936337d17258c6df4dcd25768b010421040b8dd1fb7"
+sources:
+  - "/sources/news/2026-06-02/00__xiaohu__小互预告今晚-codex-大更新-内部消息人士的传播学.md"
 ---
 
 # 小互预告今晚 Codex 大更新：内部消息人士的传播学

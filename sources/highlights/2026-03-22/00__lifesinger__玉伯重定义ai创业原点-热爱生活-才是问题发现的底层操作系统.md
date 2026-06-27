@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "玉伯重定义AI创业原点：「热爱生活」才是问题发现的底层操作系统"
 description: "**【AI创业方法论迭代：从工具理性回归价值理性】** • 提出「发现问题→定义问题→解决问题→消灭问题」四阶模型，强调AI对后三点的杠杆放大 • 核心洞见：AI创业者若失去生活感知力，将丧失发现真问题的「问题雷达」 • 警示技术从业者避免「AI让生活更单调」的认知陷阱  Gakki锐评：当所有人都在卷模型能力和工程效率时，玉伯提醒我们——对生活的敏感度才是差异化竞争的稀缺资产。"
 resource: "https://x.com/i/status/2035621810335523057"
@@ -22,6 +22,13 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "ai-business-cognition-reconstruction"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2035621810335523057"
+created: "2026-03-22"
+updated: "2026-06-26"
+sha256: "2d1c1d91c9e5d00af3bb621468d64a204a7e3ea3ede6288ac50cd9c86395cb6f"
+sources:
+  - "/sources/highlights/2026-03-22/00__lifesinger__玉伯重定义ai创业原点-热爱生活-才是问题发现的底层操作系统.md"
 ---
 
 # 玉伯重定义AI创业原点：「热爱生活」才是问题发现的底层操作系统

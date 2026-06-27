@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Emad 爆料 OpenAI Codex 突破递归自我改进：AI Coding 的「自我造血」闭环正在闭合"
 description: "**如果递归自我改进在编码场景落地，意味着 Agent 可以用自己写的代码来训练自己变得更强——这是 AGI 路线上一个被长期低估的里程碑。**  - Emad（Stability AI 前 CEO）声称 OpenAI 已为 Codex 实现递归自我改进（recursive self-improvement），即模型能利用自身生成的代码作为训练信号持续迭代 - 若属实，这将使 Codex 从「工具"
 resource: "https://x.com/EMostaque/status/2050074699284054523"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
+
 x_source: "ai-trend-digest"
+type_okf: "X Tweet"
+source_url: "https://x.com/EMostaque/status/2050074699284054523"
+created: "2026-05-01"
+updated: "2026-06-26"
+sha256: "1248e2246b59e43c0dc6eda53961088d20c5d1a4a1413d1a6916f86927f7c5fc"
+sources:
+  - "/sources/highlights/2026-05-01/00__EMostaque__emad-爆料-openai-codex-突破递归自我改进-ai-coding-的-自我造血-闭环正在闭合.md"
 ---
 
 # Emad 爆料 OpenAI Codex 突破递归自我改进：AI Coding 的「自我造血」闭环正在闭合

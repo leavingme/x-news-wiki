@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "向阳乔木给 Codex 装了\"调 CC 干活\"的 MCP：多模型 N 轮讨论 + Codex 总结，AI 工作流编排进入日常实操"
 description: "**[MCP 当胶水把 Codex 与 Claude Code、国产便宜模型串成按任务路由的多模型工作流，Codex 担任调度+总结，多 Agent 编排从概念落到生产代码]**  - 自研 MCP 支持 Codex 直接调 CC：写作用 4.6 Sonnet、前端用 4.8，可随时调用智谱 GLM-5.2、DeepSeek V4 Flash 做开发/翻译 - 支持多模型 N 轮讨论，最后交回 C"
 resource: "https://x.com/i/status/2067812761711890900"
@@ -22,6 +22,13 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "ai-multimodel-routing"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2067812761711890900"
+created: "2026-06-19"
+updated: "2026-06-26"
+sha256: "69e61a61623b880191dd3464ba15ce45b1bfad2123b26e823333d55379672669"
+sources:
+  - "/sources/highlights/2026-06-19/00__vista8__向阳乔木给-codex-装了-调-cc-干活-的-mcp-多模型-n-轮讨论-codex-总结-ai-工作流编排进入日常.md"
 ---
 
 # 向阳乔木给 Codex 装了"调 CC 干活"的 MCP：多模型 N 轮讨论 + Codex 总结，AI 工作流编排进入日常实操

@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "创业痛苦期的本质是傲慢：不是缺渠道，是没想清楚「看得上」的需求"
 description: "**[一句话核心判断]**  创业初期的痛苦不是信息问题，不是产品问题，不是渠道问题——是傲慢，是行动力配不上认知的恐惧。  **信息增量：** - 框架价值：「需求→产品→渠道」的倒置思考——真正的问题是找不到「看得上」的需求 - 心理洞察：傲慢背后是「害怕浪费时间」的恐惧，信息过载导致行动瘫痪 - 适用范围：这个框架对已经排除法试错一圈、仍在迷惘的连续创业者最有价值   gakki锐评：能把这"
 resource: "https://x.com/i/status/2055253013648789627"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2055253013648789627"
+created: "2026-05-15"
+updated: "2026-06-26"
+sha256: "ef37c19c8258c9f6b51e936b0ff04e425ab0f2cdd36c57891e88fbb2325e7582"
+sources:
+  - "/sources/news/2026-05-15/00__Leobai825__创业痛苦期的本质是傲慢-不是缺渠道-是没想清楚-看得上-的需求.md"
 ---
 
 # 创业痛苦期的本质是傲慢：不是缺渠道，是没想清楚「看得上」的需求

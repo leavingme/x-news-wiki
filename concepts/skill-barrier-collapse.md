@@ -1,5 +1,5 @@
 ---
-type: "Concept"
+type: "concept"
 title: "skill-barrier-collapse"
 description: "跨日主题 \"skill-barrier-collapse\"，共 5 条相关精选推文。"
 tags:
@@ -11,6 +11,16 @@ x_topic_slug: "skill-barrier-collapse"
 x_tweet_count: 5
 x_first_seen: "2026-03-18T00:42:48.935Z"
 x_last_seen: "2026-06-25T19:20:30.843Z"
+type_okf: "Concept"
+created: "2026-03-18"
+updated: "2026-06-26"
+sha256: "c93a4bd9eba09cb9ba7f3cbeee0858b7f439969dbf6449b15adddad9237d66e3"
+sources:
+  - "/sources/highlights/2026-03-18/00__gefei55__vibe-coding颠覆企业开发-业务人员正在夺回工具定义权.md"
+  - "/sources/highlights/2026-05-06/00__JamesSurowiecki__非技术团队开始交付生产代码-ai-coding-的真正冲击波刚刚开始.md"
+  - "/sources/highlights/2026-06-25/00__charliermarsh__我们是否还需要理解代码-ai-coding-时代工程师身份认同危机浮出水面.md"
+  - "/sources/news/2026-03-18/00__Pluvio9yte__ai-技术平权的残酷真相-门槛降低-但经验壁垒反而被放大.md"
+  - "/sources/news/2026-03-18/00__lifesinger__玉伯警示-claude-code和古法coding都将成为非遗.md"
 ---
 
 # 主题: skill-barrier-collapse

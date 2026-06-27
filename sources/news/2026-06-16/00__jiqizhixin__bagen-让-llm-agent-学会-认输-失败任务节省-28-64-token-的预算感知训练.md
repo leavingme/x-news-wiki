@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "BAGEN：让 LLM Agent 学会'认输'，失败任务节省 28-64% token 的预算感知训练"
 description: "Northwestern、Michigan、Cornell、Stanford 等联合发布 BAGEN 框架，核心问题：Agent 怎么学会及时止损？  方法：训练 Agent 预测任务剩余预算区间并提前告警，而非盲目烧 token。  关键发现： - 强 Agent 普遍缺乏预算感知（r≈0.35） - 前沿模型过度乐观 - BAGEN 提前停止可在失败轨迹上节省 28-64% token - S"
 resource: "https://x.com/i/status/2066933826740535440"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2066933826740535440"
+created: "2026-06-16"
+updated: "2026-06-26"
+sha256: "4928cca6435d3776f680cf5a570be08c9be86c2efc9cf9c85a75eaa0a6f3ec2d"
+sources:
+  - "/sources/news/2026-06-16/00__jiqizhixin__bagen-让-llm-agent-学会-认输-失败任务节省-28-64-token-的预算感知训练.md"
 ---
 
 # BAGEN：让 LLM Agent 学会'认输'，失败任务节省 28-64% token 的预算感知训练

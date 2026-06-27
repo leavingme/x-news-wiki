@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "向阳乔木用 Goal Skill 一句话驱动 Codex 开发世界杯订阅站：模糊 Goal 容忍度从长跑测试走向产品交付"
 description: "**[一句话核心判断]** 继\"Codex 接受模糊 Goal 跑 6 小时\"之后，向阳乔木用\"Goal Skill + 一句话需求\"让 Codex 开发出可上线、可分享订阅的 2026 世界杯日程站——Goal 容忍度从长程测试走向短周期产品交付闭环。  - 需求仅一句话：\"让 Codex 开发一个 2026 世界杯日程信息网，方便自己看，也方便身边朋友订阅\"，无 PRD、无线框、无技术栈指定 "
 resource: "https://x.com/i/status/2065798316898885701"
@@ -22,6 +22,13 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "codex-cli-tool-encapsulation"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2065798316898885701"
+created: "2026-06-13"
+updated: "2026-06-26"
+sha256: "7b906298416685f53b37dde075af4db59526cf3001c0cfa3ef8af7a9776cbf73"
+sources:
+  - "/sources/news/2026-06-13/00__vista8__向阳乔木用-goal-skill-一句话驱动-codex-开发世界杯订阅站-模糊-goal-容忍度从长跑测试走向产品交付.md"
 ---
 
 # 向阳乔木用 Goal Skill 一句话驱动 Codex 开发世界杯订阅站：模糊 Goal 容忍度从长跑测试走向产品交付

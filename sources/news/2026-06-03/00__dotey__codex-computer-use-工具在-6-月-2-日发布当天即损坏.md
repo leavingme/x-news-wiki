@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Codex Computer Use 工具在 6 月 2 日发布当天即损坏"
 description: "**[OpenAI 官方桌面应用发布当日即出现故障]**  Codex Computer Use 客户端在 Jun 2, 2026 发布版本 26.601.21317 后即处于无法打开的状态。工具发布与工具损坏发生在同一天，属于典型的「发布即事故」。  要点： - 官方桌面工具发布质量存在验证漏洞，上线前测试覆盖不足 - Computer Use 能力目前仅支持桌面端访问，此问题直接阻断了实际使用"
 resource: "https://x.com/i/status/2062012342775251223"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2062012342775251223"
+created: "2026-06-03"
+updated: "2026-06-26"
+sha256: "bd2d257f133ad9b611284d2980ec26da5c73258c866a7963ffb48bd5953c7161"
+sources:
+  - "/sources/news/2026-06-03/00__dotey__codex-computer-use-工具在-6-月-2-日发布当天即损坏.md"
 ---
 
 # Codex Computer Use 工具在 6 月 2 日发布当天即损坏

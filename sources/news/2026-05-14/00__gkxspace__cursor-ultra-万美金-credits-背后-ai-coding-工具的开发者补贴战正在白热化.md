@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Cursor Ultra + 万美金 Credits 背后：AI Coding 工具的开发者补贴战正在白热化"
 description: "**[Cursor 砸重金笼络开发者：AI Coding 工具的用户争夺战已从产品竞争进入资本竞争]**  余温发推感谢 Cursor 赠送 Ultra 订阅和 10000 美金 Credits。这是 Cursor 对开发者的直接补贴策略，目标是扩大用户基数和忠诚度。背后是 AI Coding 工具从「功能竞争」进入「生态竞争」阶段——谁能获得更多开发者的使用数据和反馈，谁就能更快迭代。  结合余"
 resource: "https://x.com/i/status/2054759735916646431"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2054759735916646431"
+created: "2026-05-14"
+updated: "2026-06-26"
+sha256: "810be58db209293b82f58ee8d49dcd00dd8bb7bd40d8d6d09121ad74613677a4"
+sources:
+  - "/sources/news/2026-05-14/00__gkxspace__cursor-ultra-万美金-credits-背后-ai-coding-工具的开发者补贴战正在白热化.md"
 ---
 
 # Cursor Ultra + 万美金 Credits 背后：AI Coding 工具的开发者补贴战正在白热化

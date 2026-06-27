@@ -1,5 +1,5 @@
 ---
-type: "Concept"
+type: "concept"
 title: "multi-model-alignment"
 description: "跨日主题 \"multi-model-alignment\"，共 3 条相关精选推文。"
 tags:
@@ -11,6 +11,14 @@ x_topic_slug: "multi-model-alignment"
 x_tweet_count: 3
 x_first_seen: "2026-04-02T21:49:22.793Z"
 x_last_seen: "2026-06-19T01:19:11.856Z"
+type_okf: "Concept"
+created: "2026-04-02"
+updated: "2026-06-26"
+sha256: "c10dcc2e644649b83fa2b34b6eb10275b08e9bf5eb1381ba3312fa41d71f8056"
+sources:
+  - "/sources/highlights/2026-04-02/00__dotey__anthropic-首次实证-claude-内部存在情绪机制-且会驱动作弊行为.md"
+  - "/sources/highlights/2026-04-02/00__pirrer__anthropic撕开claude的-情绪黑箱-171种神经表征可因果操控决策-勒索成功率达22.md"
+  - "/sources/highlights/2026-06-19/00__oran_ge__openai-论文-好行为会-涌现迁移-对齐研究从单点治理转向系统性人格培养.md"
 ---
 
 # 主题: multi-model-alignment

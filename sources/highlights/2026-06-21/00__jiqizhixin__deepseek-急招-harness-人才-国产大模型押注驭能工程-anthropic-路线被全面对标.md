@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "DeepSeek 急招 Harness 人才：国产大模型押注驭能工程，Anthropic 路线被全面对标"
 description: "**DeepSeek 大举招 Harness 人才，国产大模型从卷参数转向卷工程框架。** - 宝玉转发 + 机器之心确认，DeepSeek 正在积极招募 Harness 方向人才 - 标志国产头部厂商从'参数军备'转向'工程框架军备'，与 Anthropic 路线正式接轨 - Harness Engineering 作为模型-产品之间的关键工程层，正成为头部厂商人才争夺的新焦点 - 对独立开发者"
 resource: "https://x.com/i/status/2068704837701870032"
@@ -22,6 +22,13 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "harness-engineering"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2068704837701870032"
+created: "2026-06-21"
+updated: "2026-06-26"
+sha256: "1123439741a2982872282fb886a4c8dea4d36e8156f151cf692732d30aef3fb2"
+sources:
+  - "/sources/highlights/2026-06-21/00__jiqizhixin__deepseek-急招-harness-人才-国产大模型押注驭能工程-anthropic-路线被全面对标.md"
 ---
 
 # DeepSeek 急招 Harness 人才：国产大模型押注驭能工程，Anthropic 路线被全面对标

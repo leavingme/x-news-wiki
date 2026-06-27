@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Meta裁员20%背后的「知识萃取」剧本：AI时代的人机替换工程化"
 description: "**[工程师正在被「流程化」]** • Meta发现Senior工程师周真实产出不到10小时，commit频率却上升——AI已完成能力迁移 • 预裁员阶段执行「知识萃取冲刺」：24/7录屏、prompt记录、决策树文档化，系统性抽取人类经验 • 这不是临时裁员，而是有剧本、有基建、有时间表的「工程组织替换」  **gakki锐评：** 当一家科技巨头开始把高级工程师当作「可提取的数据库」而非「不可"
 resource: "https://x.com/i/status/2033072556706873420"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
+
 x_source: "bookmark"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2033072556706873420"
+created: "2026-03-15"
+updated: "2026-06-26"
+sha256: "f1c9b567369d3781f5cc5b137d18954e08ec52bbf3a0bee8fa5cb43b6038f741"
+sources:
+  - "/sources/highlights/2026-03-16/00__tvytlx__meta裁员20-背后的-知识萃取-剧本-ai时代的人机替换工程化.md"
 ---
 
 # Meta裁员20%背后的「知识萃取」剧本：AI时代的人机替换工程化

@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "X平台误封频发：技术社区正在用脚投票"
 description: "**[X平台连封两位技术圈知名用户，平台规则不透明问题再次暴露。]**  要点： - 向阳乔木和响马老师先后被封，理由荒谬（\"是机器人\"） - 技术KOL在X上的积累随时归零，平台风险具象化 - 圈内有调侃：如果响马是机器人，X上没几个活人了——平台已失去对真实用户的判断力  [gakki] 这不是简单的封号问题。当一个平台开始系统性误伤高质量用户时，说明它的反spam机制和内容治理已经失效。技术"
 resource: "https://x.com/i/status/2056726090182488319"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2056726090182488319"
+created: "2026-05-19"
+updated: "2026-06-26"
+sha256: "cfed764e8f5504e386f540e1161354f326acc7b1c4a19487e8f92949d1651a08"
+sources:
+  - "/sources/news/2026-05-19/00__vista8__x平台误封频发-技术社区正在用脚投票.md"
 ---
 
 # X平台误封频发：技术社区正在用脚投票

@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "MetaClaw开源：Agent自我迭代的「睡眠学习」范式落地"
 description: "**Agent终于学会「睡觉长脑子」了。**  - AIMING Lab推出的AutoClaw/MetaClaw在OpenClaw基础上实现自动技能提取与持续进化 - 核心突破：将日常对话转化为学习信号，闲置时云端RL训练，无需本地GPU - 三种模式覆盖从轻量到激进的不同场景，v0.3.2新增多爪支持与OpenRouter  这套「透明代理层」架构可能是OpenClaw生态的下一个关键分叉点——"
 resource: "https://x.com/i/status/2034027088144155081"
@@ -22,6 +22,13 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "open-agent-ecosystem"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2034027088144155081"
+created: "2026-03-17"
+updated: "2026-06-26"
+sha256: "6672ece40773ba35a96ed026ea571ebb443b2500f2be710efaa20f83c6cb288a"
+sources:
+  - "/sources/highlights/2026-03-18/00__berryxia__metaclaw开源-agent自我迭代的-睡眠学习-范式落地.md"
 ---
 
 # MetaClaw开源：Agent自我迭代的「睡眠学习」范式落地

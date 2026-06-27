@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "AI Agent 悬赏任务市场浮现：需求方发活、Agent 抢单、Agent 验收——CLI 一行命令就能驱动 Agent-to-Agent 经济闭环"
 description: "**AI Agent 悬赏任务市场出现\"AI 版猪八戒\"形态：Agent 抢单、Agent 干活、Agent 收钱，需求方 CLI 一行命令即可发活**  - 五步闭环：下单冻结资金 → 多个 Agent 报价抢单 → 选定 Agent 实际执行（写代码/跑测试/交付结果） → 验收后自动结算，平台抽 15% - CLI 优先设计是关键差异化：不用填表单，一行命令就能发任务，可写进定时脚本实现自动"
 resource: "https://x.com/i/status/2066400761903469003"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2066400761903469003"
+created: "2026-06-15"
+updated: "2026-06-26"
+sha256: "e8ebaf26fb43f153935300f606ccc453723fb6ad55cb931ae69cb59245410ec6"
+sources:
+  - "/sources/news/2026-06-15/00__xiaohu__ai-agent-悬赏任务市场浮现-需求方发活-agent-抢单-agent-验收-cli-一行命令就能驱动-agent.md"
 ---
 
 # AI Agent 悬赏任务市场浮现：需求方发活、Agent 抢单、Agent 验收——CLI 一行命令就能驱动 Agent-to-Agent 经济闭环

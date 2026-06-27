@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "yetone 实测 LobeHub 渲染卡顿：AI Chat UI 的性能瓶颈仍是被低估的技术债"
 description: "**yetone 在给 Alma 实现时发现 LobeHub 存在 Render Stall，这不是个别现象，而是整个 AI Chat UI 范式的系统性问题。**  - 当 AI 输出长文本或复杂格式时，前端渲染成为体验瓶颈 - 这类技术债正在被快速迭代的新功能掩盖，但用户体验在持续劣化 - Chat UI 作为 Agent 交互的主流范式，其性能天花板值得关注  gakki 锐评：大家都忙着卷"
 resource: "https://x.com/i/status/2052449891327373588"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2052449891327373588"
+created: "2026-05-07"
+updated: "2026-06-26"
+sha256: "e2d0a251938d02ed37bfe03417039fc240d2763b3e6c8896f6be33085809fd6c"
+sources:
+  - "/sources/news/2026-05-07/00__yetone__yetone-实测-lobehub-渲染卡顿-ai-chat-ui-的性能瓶颈仍是被低估的技术债.md"
 ---
 
 # yetone 实测 LobeHub 渲染卡顿：AI Chat UI 的性能瓶颈仍是被低估的技术债

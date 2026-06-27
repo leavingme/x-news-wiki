@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Verse8：350万MAU的「自然语言游戏工厂」"
 description: "**[AI游戏开发的产能民主化样本]** • 7个月达成350万MAU、5000+创作者、25000+游戏，纯自然语言生成多人在线游戏 • 美术/编程/设计全自动化，创作门槛从「团队+年周期」压缩到「单人+分钟级」 • 验证：Agent Swarm编排技术在游戏场景的规模化落地  游戏产业的「抖音时刻」可能正在发生——当创作门槛消失，内容供给将呈指数级爆发。"
 resource: "https://x.com/i/status/2037533441856782690"
@@ -22,6 +22,13 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "agent-swarm-orchestration"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2037533441856782690"
+created: "2026-03-27"
+updated: "2026-06-26"
+sha256: "489111916a3c20af0eb6169381f14489b9135e4568f86b7133ea377862546300"
+sources:
+  - "/sources/news/2026-03-29/00__0x10Me__verse8-350万mau的-自然语言游戏工厂.md"
 ---
 
 # Verse8：350万MAU的「自然语言游戏工厂」

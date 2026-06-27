@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Anthropic 把 KYC 做成行为审计器：可疑任务即触发身份核验，平台边界再前移"
 description: "**Anthropic 把 KYC 从「全员实名」改成「行为触发式核验」，监管粒度比预想更细。**  - 免费版、Pro 版、Max 版用户都可能被要求年龄/身份验证 - 触发条件不是全量，而是行为信号：越狱尝试、敏感话题（黑客/生化/恐怖）、政治类任务 - 具体验证方式未披露，推测是上传证件 + 摄像头活体 - 平台把「可疑意图」当成 KYC 触发器，本质是用身份信息做风险定价   gakki "
 resource: "https://x.com/i/status/2066455812508418096"
@@ -22,6 +22,13 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "anthropic-kyc-deepseek-data-access-dispute"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2066455812508418096"
+created: "2026-06-15"
+updated: "2026-06-26"
+sha256: "245d178365e9c6066c7c4b5d552975891629c8c0ece0b632dcfd3d987ded3a83"
+sources:
+  - "/sources/highlights/2026-06-15/00__xiaohu__anthropic-把-kyc-做成行为审计器-可疑任务即触发身份核验-平台边界再前移.md"
 ---
 
 # Anthropic 把 KYC 做成行为审计器：可疑任务即触发身份核验，平台边界再前移

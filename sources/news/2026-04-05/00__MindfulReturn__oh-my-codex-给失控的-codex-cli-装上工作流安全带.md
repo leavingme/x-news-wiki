@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "oh my codex：给失控的 Codex CLI 装上工作流安全带"
 description: "**[ Codex 终于有了自己的「工程层」 ]**  oh my codex 开源项目为 OpenAI Codex CLI 添加了完整的工作流层，包括需求澄清（deep-interview）、架构规划（ralplan）、持久执行（ralph）、多 Agent 并行（team）四大模式，以及 33 个角色提示词体系。  • 这是对 Codex 「散着跑」状态的工程化补救——说明纯 CLI 模式的自"
 resource: "https://x.com/i/status/2040574686875287626"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2040574686875287626"
+created: "2026-04-04"
+updated: "2026-06-26"
+sha256: "f3e5892c7d3f5b688c003fc2e3be4adeb3f2e67122b8032f57a2217c465b1ccc"
+sources:
+  - "/sources/news/2026-04-05/00__MindfulReturn__oh-my-codex-给失控的-codex-cli-装上工作流安全带.md"
 ---
 
 # oh my codex：给失控的 Codex CLI 装上工作流安全带

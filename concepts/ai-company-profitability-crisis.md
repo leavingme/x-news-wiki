@@ -1,5 +1,5 @@
 ---
-type: "Concept"
+type: "concept"
 title: "ai-company-profitability-crisis"
 description: "跨日主题 \"ai-company-profitability-crisis\"，共 2 条相关精选推文。"
 tags:
@@ -11,6 +11,13 @@ x_topic_slug: "ai-company-profitability-crisis"
 x_tweet_count: 2
 x_first_seen: "2026-04-28T04:18:01.927Z"
 x_last_seen: "2026-06-11T07:19:02.501Z"
+type_okf: "Concept"
+created: "2026-04-28"
+updated: "2026-06-26"
+sha256: "001d1493673640cc642ba8099c90c4930851a6265b3759a9cdfd4daeccf95e06"
+sources:
+  - "/sources/highlights/2026-04-28/00__unusual_whales__openai-cfo-警告算力合同违约风险-ai-基础设施的财务压力已传导至头部玩家.md"
+  - "/sources/news/2026-06-11/00__dotey__ai-比员工还贵-企业算完账才发现-ai-不是降本神器.md"
 ---
 
 # 主题: ai-company-profitability-crisis

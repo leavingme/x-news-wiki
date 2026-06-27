@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Gemma 4 三年前iPhone上实时OCR翻译：端侧多模态推理进入「可用」阶段"
 description: "**【手机端 AI 的「暴力美学」时刻到了】**  Bill The Investor 实测 Gemma-4-E2B 在 iPhone 14 Pro Max 上同时做图片识别和翻译的速度——结果震撼：OCR 翻译软件可以废弃了。  **这不是 demo，这是产品级体验：全程离线、不联网、不上传数据、随时可用。** Google Play 和 App Store 已开放免费下载。  **意义：** "
 resource: "https://x.com/i/status/2040659624593179028"
@@ -22,6 +22,13 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "gemma-endpoint-multimodal"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2040659624593179028"
+created: "2026-04-05"
+updated: "2026-06-26"
+sha256: "4ccfea407ce2d27d65e8e189bc4180aac405126690da22f80d2f5336d9978da6"
+sources:
+  - "/sources/news/2026-04-05/00__billtheinvestor__gemma-4-三年前iphone上实时ocr翻译-端侧多模态推理进入-可用-阶段.md"
 ---
 
 # Gemma 4 三年前iPhone上实时OCR翻译：端侧多模态推理进入「可用」阶段

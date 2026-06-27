@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "DeepSeek-V4技术解密：90%显存削减+75%算力削减，压缩注意力反杀标准注意力"
 description: "**[一句话核心判断]**  DeepSeek-V4 Tech Report披露核心技术路线：用混合压缩注意力系统（Hybrid Compressed Attention）替代标准注意力，配合新Muon优化器，长任务场景 Pro模型显存占用削减90%、算力削减近75%，在开源推理模型中拿下SOTA。  **信息增量：** - Muon优化器是这次的核心变量——不是换架构，是换训练方式，这是工程层面"
 resource: "https://x.com/i/status/2047924239249121561"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2047924239249121561"
+created: "2026-04-25"
+updated: "2026-06-26"
+sha256: "8dbabc2bda7185333eabadb72f739d89dbd7377c6b166aa1cf871dd07809c399"
+sources:
+  - "/sources/news/2026-04-25/00__jiqizhixin__deepseek-v4技术解密-90-显存削减-75-算力削减-压缩注意力反杀标准注意力.md"
 ---
 
 # DeepSeek-V4技术解密：90%显存削减+75%算力削减，压缩注意力反杀标准注意力

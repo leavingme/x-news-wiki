@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Browser Use CLI 2.0：AI浏览器交互从「看图猜按钮」进化到结构化操作语义"
 description: "**[浏览器Agent体验跨越「可用」到「顺手」的临界点]** • 抛弃截图识别和整页HTML塞入，将页面翻译为精简、可操作的元素清单（编号化按钮/输入框/链接） • AI直接在命令行调浏览器，与ls、git一样自然，实现Claude Code/Cursor工作流的无缝衔接 • 结构化低噪音界面让Agent操作更稳、更省token，真正像\"操作页面\"而非\"与视觉误差搏斗\"  Gakki锐评：降低摩"
 resource: "https://x.com/i/status/2035944377336439098"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2035944377336439098"
+created: "2026-03-23"
+updated: "2026-06-26"
+sha256: "5db350594b022c1165126ae5a8ffe1e974dfae83436c121b2024fbd4f240071e"
+sources:
+  - "/sources/news/2026-03-23/00__sitinme__browser-use-cli-2-0-ai浏览器交互从-看图猜按钮-进化到结构化操作语义.md"
 ---
 
 # Browser Use CLI 2.0：AI浏览器交互从「看图猜按钮」进化到结构化操作语义

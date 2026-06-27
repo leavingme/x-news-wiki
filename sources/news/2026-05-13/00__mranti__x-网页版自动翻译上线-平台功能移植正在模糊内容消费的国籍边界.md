@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "X 网页版自动翻译上线：平台功能移植正在模糊内容消费的国籍边界"
 description: "**[平台级翻译正在成为事实上的信息屏障拆除工具]**  Michael Anti 亲测 X 网页版现已支持自动翻译，这对一直受限于语言墙的外语内容消费者是实质性体验升级。更值得关注的是，这不是 X 主动大推的功能，而是静默上线的——说明平台已经默认翻译能力是\"基础设施\"而非\"差异化功能\"。  **影响**：当平台内置翻译变成标配，依赖\"语言差\"进行内容分发的信息差生意会受到冲击；但对 AI 开发"
 resource: "https://x.com/i/status/2054381779570860303"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2054381779570860303"
+created: "2026-05-13"
+updated: "2026-06-26"
+sha256: "640cdb9cb05d8973353f920ec557ba0aadb59c8fb58250e4c88787e5908a881f"
+sources:
+  - "/sources/news/2026-05-13/00__mranti__x-网页版自动翻译上线-平台功能移植正在模糊内容消费的国籍边界.md"
 ---
 
 # X 网页版自动翻译上线：平台功能移植正在模糊内容消费的国籍边界

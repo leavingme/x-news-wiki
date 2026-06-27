@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "币安押注OpenClaw：金融巨头正式入场Agent基建"
 description: "**[交易所头部玩家开始用开源生态构建AI交易基础设施]** • 币安Ai Pro直接基于OpenClaw开源生态打造，而非自研封闭系统 • 支持ChatGPT/Claude/Qwen/Kimi多模型接入，展现「模型无关」架构思路 • 9.99 USDC/月的定价，标志着Agent服务从「实验玩具」走向「商用订阅」  **gakki锐评：** 当币安这种级别的玩家选择「站在OpenClaw肩膀上」"
 resource: "https://x.com/i/status/2036390592062824730"
@@ -22,6 +22,13 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "ai-crypto-agent-infra"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2036390592062824730"
+created: "2026-03-24"
+updated: "2026-06-26"
+sha256: "73a4a2013bfa0084039855211e2304424c6946952dfa48028e2d011e646ee2e6"
+sources:
+  - "/sources/highlights/2026-03-24/00__binancezh__币安押注openclaw-金融巨头正式入场agent基建.md"
 ---
 
 # 币安押注OpenClaw：金融巨头正式入场Agent基建

@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "中国否决 Meta 20亿美元收购 Manus：中阿 AI 地缘首例监管阻断"
 description: "**[中国首次动用投资审查否决海外 AI 平台收购案]**  中国监管机构正式否决 Meta 对 AI 平台 Manus 的 20亿美元收购案，审查焦点集中于北京投资规则与数据安全红线。这是中国首次对大型美企 AI 收购案动用否决权，而非审批通过。  - Manus 估值被中国监管锚定在「战略级 AI 资产」而非普通商业标的 - 审查触发点可能与 Manus 的 Agent 编排能力相关——而非单"
 resource: "https://x.com/FT/status/2048683139002765740"
@@ -22,6 +22,13 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "ai-technology-iron-curtain"
 x_source: "ai-trend-digest"
+type_okf: "X Tweet"
+source_url: "https://x.com/FT/status/2048683139002765740"
+created: "2026-04-27"
+updated: "2026-06-26"
+sha256: "44ec347b2749061303e2bcb1392ded82404666f2e9de5756dedb3ebfc0dbb6f6"
+sources:
+  - "/sources/highlights/2026-04-27/00__FT__中国否决-meta-20亿美元收购-manus-中阿-ai-地缘首例监管阻断.md"
 ---
 
 # 中国否决 Meta 20亿美元收购 Manus：中阿 AI 地缘首例监管阻断

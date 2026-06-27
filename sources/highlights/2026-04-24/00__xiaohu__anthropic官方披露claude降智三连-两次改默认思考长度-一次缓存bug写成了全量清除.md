@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Anthropic官方披露Claude降智三连：两次改默认思考长度，一次缓存bug写成了全量清除"
 description: "**[Claude变笨是「三明治式」连环故障，不是模型能力退化]**  Anthropic终于正面回应社区质疑，结论是三个独立变更叠加导致：3月4日将默认思考长度从「高」调为「中」以改善UI卡顿感，3月26日的缓存优化写成了每轮清空历史记忆的bug，4月16日又对Opus 4.7做了激进变更。三重debuff叠加，用户体验断崖下跌。  修复已于4月20日完成，但用户感知明显滞后——说明Anthro"
 resource: "https://x.com/i/status/2047457607628267755"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2047457607628267755"
+created: "2026-04-23"
+updated: "2026-06-26"
+sha256: "143126d9307458504b816cf02092e8542f6a3447a332bca6c44da15dbe62c74d"
+sources:
+  - "/sources/highlights/2026-04-24/00__xiaohu__anthropic官方披露claude降智三连-两次改默认思考长度-一次缓存bug写成了全量清除.md"
 ---
 
 # Anthropic官方披露Claude降智三连：两次改默认思考长度，一次缓存bug写成了全量清除

@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "北京卷 vs 上海卷：AI 时代高考在选「驾驭 AI 的人」还是「产出 AI 文案的人」"
 description: "**[Michael Anti 抛出一个被低估的判断：今年高考语文题本身，就是 AI 时代人才筛选的预演。]**  • 北京卷出题人被认定「懂行、懂 AI、懂教育现状」，命题导向是培养能控制 AI 的人。 • 上海卷则被反向参照——题目引导产出的，更像「豆包味」的通用 AI 文案，而非有判断力的表达。 • 隐含价值判断：当 AI 把「写出标准答案」的成本打到零，考试如果还在考这个，等于在批量生产可"
 resource: "https://x.com/i/status/2063486953853681740"
@@ -22,6 +22,13 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "ai-education-paradox"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2063486953853681740"
+created: "2026-06-07"
+updated: "2026-06-26"
+sha256: "6d2735669d5a98c1007df84dd24e702126cdcbb3bb158f9ac66ee8efbaaa2075"
+sources:
+  - "/sources/highlights/2026-06-07/00__mranti__北京卷-vs-上海卷-ai-时代高考在选-驾驭-ai-的人-还是-产出-ai-文案的人.md"
 ---
 
 # 北京卷 vs 上海卷：AI 时代高考在选「驾驭 AI 的人」还是「产出 AI 文案的人」

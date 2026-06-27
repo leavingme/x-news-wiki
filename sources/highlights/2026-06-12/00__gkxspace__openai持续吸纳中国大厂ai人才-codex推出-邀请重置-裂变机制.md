@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "OpenAI持续吸纳中国大厂AI人才，Codex推出\"邀请重置\"裂变机制"
 description: "**OpenAI在GPT-6空窗期打出\"人才+增长\"组合拳——一边吸纳国内大厂员工，一边把Codex的\"邀请重置\"做成Plu/Pro用户的裂变引擎。**  - 信号一：国内大厂员工入职OpenAI，\"逆地缘政治招聘\"仍在继续 - 信号二：Codex推出\"邀请3位朋友，双方都获得重置\"，把付费用户网络效应货币化 - 增长逻辑：用\"重置配额\"做钩子，逼迫Plu/Pro主动拉新，且新用户必须发首条消息才"
 resource: "https://x.com/i/status/2065268775650271552"
@@ -22,6 +22,13 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "ai-talent-flight"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2065268775650271552"
+created: "2026-06-12"
+updated: "2026-06-26"
+sha256: "7661e1fe107336190bfe22978d719a963dc52efeb2488a9b8898a4c6e482701f"
+sources:
+  - "/sources/highlights/2026-06-12/00__gkxspace__openai持续吸纳中国大厂ai人才-codex推出-邀请重置-裂变机制.md"
 ---
 
 # OpenAI持续吸纳中国大厂AI人才，Codex推出"邀请重置"裂变机制

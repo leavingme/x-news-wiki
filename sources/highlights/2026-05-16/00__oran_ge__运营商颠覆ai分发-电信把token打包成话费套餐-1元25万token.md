@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "运营商颠覆AI分发：电信把Token打包成话费套餐，1元25万token"
 description: "**[上海电信将Token服务写入经营主线的商业信号]**  上海电信推出\"额度点\"套餐，1元=25万token，话费账单直接扣款，覆盖30+主流大模型。这不是简单的渠道合作，而是运营商把AI算力正式纳入基础通信资费体系。  关键变化在于：AI入口从App下沉到运营商账单，意味着普通用户接触AI的摩擦成本趋近于零。手机厂商还在焦虑入口，运营商已经用话费扣款完成闭环。  \"Token服务是中国电信今"
 resource: "https://x.com/i/status/2055576259904819553"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2055576259904819553"
+created: "2026-05-16"
+updated: "2026-06-26"
+sha256: "6bb2c06e685045940c79b40f49a0f07be5a41287a1b6b6eabe67a91c10dda969"
+sources:
+  - "/sources/highlights/2026-05-16/00__oran_ge__运营商颠覆ai分发-电信把token打包成话费套餐-1元25万token.md"
 ---
 
 # 运营商颠覆AI分发：电信把Token打包成话费套餐，1元25万token

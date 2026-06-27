@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "DeepSeek 全员扩招一倍：国产 AGI 叙事正在用编制下注"
 description: "**[DeepSeek 用组织扩张为 AGI 叙事背书，扩招规模本身就是最贵的信心信号]**  - 所有部门扩招一倍，主要在北京和杭州，大规模接受实习岗——这不是精准补强，是系统性储备算力之外的人才弹药 - \"坐在时代前排见证新纪元\"这种话术，配合 DeepSeek V4 开源节奏，指向\"用模型开源换开发者心智、用团队扩张换下一轮模型迭代速度\"的双线推进 - 与同期大厂 AI 实验室收缩形成镜像："
 resource: "https://x.com/i/status/2070312460134047778"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2070312460134047778"
+created: "2026-06-26"
+updated: "2026-06-26"
+sha256: "478dd2cb8c042104756e46fa6636a9124cb8f71a2d1f599dbbb754be33bc519d"
+sources:
+  - "/sources/news/2026-06-26/00___FORAB__deepseek-全员扩招一倍-国产-agi-叙事正在用编制下注.md"
 ---
 
 # DeepSeek 全员扩招一倍：国产 AGI 叙事正在用编制下注

@@ -1,5 +1,5 @@
 ---
-type: "Author"
+type: "entity"
 title: "Atai Barkai (@ataiiam)"
 description: "X/Twitter 作者 @ataiiam。共收录 1 条 AI 精选推文。"
 tags:
@@ -12,6 +12,12 @@ x_author_name: "Atai Barkai"
 x_tweet_count: 1
 x_first_seen: "2026-05-05T22:17:58.122Z"
 x_last_seen: "2026-05-05T22:17:58.122Z"
+type_okf: "Author"
+created: "2026-05-05"
+updated: "2026-06-26"
+sha256: "bd32fde0cc2b0e51d090f19092935bc82533743c8e12790c02374317c1c3b77a"
+sources:
+  - "/sources/news/2026-05-05/00__ataiiam__copilotkit-融资2700万美元押注-agentic前端-所有ui都将被agent重构.md"
 ---
 
 # Atai Barkai (@ataiiam)

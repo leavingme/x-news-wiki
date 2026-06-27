@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "何恺明团队新作 Drifting Models：一步生成 SOTA 图像"
 description: "**[核心逻辑]** 放弃复杂的迭代推理，转向“漂移场”建模，实现高效且高质量的单步图像生成。 - **核心突破**：训练一个“漂移场（drifting field）”平滑地将样本推向真实数据分布的平衡态。 - **性能指标**：在 ImageNet 256x256 基准上实现一步生成，性能超越了许多复杂的传统多步模型。 - **技术意义**：大幅降低了高质量图像生成的算力成本和推理延迟，为实时生"
 resource: "https://x.com/i/status/2019308224223354936"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2019308224223354936"
+created: "2026-02-05"
+updated: "2026-06-26"
+sha256: "73b06456a02b70f5ef1f35ced945393a761ec815dc04683e35e02a6e83f06a9b"
+sources:
+  - "/sources/highlights/2026-02-11/00__jiqizhixin__何恺明团队新作-drifting-models-一步生成-sota-图像.md"
 ---
 
 # 何恺明团队新作 Drifting Models：一步生成 SOTA 图像

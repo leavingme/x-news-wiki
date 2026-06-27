@@ -1,5 +1,5 @@
 ---
-type: "Author"
+type: "entity"
 title: "梭哈｜超级个体 (@WEB3_furture)"
 description: "X/Twitter 作者 @WEB3_furture。共收录 1 条 AI 精选推文。"
 tags:
@@ -12,6 +12,12 @@ x_author_name: "梭哈｜超级个体"
 x_tweet_count: 1
 x_first_seen: "2026-04-09T10:17:45.194Z"
 x_last_seen: "2026-04-09T10:17:45.194Z"
+type_okf: "Author"
+created: "2026-04-09"
+updated: "2026-06-26"
+sha256: "619fc59cc79c574d88c4edbc84e6221d705499a85ccdce510e9f67c121ee9c8d"
+sources:
+  - "/sources/news/2026-04-09/00__WEB3_furture__6-2k-stars的闲鱼agent-多专家协同-阶梯议价-主动成交-ai自动化交易的工程标杆.md"
 ---
 
 # 梭哈｜超级个体 (@WEB3_furture)

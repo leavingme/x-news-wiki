@@ -1,5 +1,5 @@
 ---
-type: "Author"
+type: "entity"
 title: "Future Stacked (@FutureStacked)"
 description: "X/Twitter 作者 @FutureStacked。共收录 1 条 AI 精选推文。"
 tags:
@@ -12,6 +12,12 @@ x_author_name: "Future Stacked"
 x_tweet_count: 1
 x_first_seen: "2026-05-04T13:18:09.893Z"
 x_last_seen: "2026-05-04T13:18:09.893Z"
+type_okf: "Author"
+created: "2026-05-04"
+updated: "2026-06-26"
+sha256: "96e46cafa6ce598f669d1d3d876734c00aef6ca9d02e9871a594e606e6e0cddc"
+sources:
+  - "/sources/news/2026-05-04/00__FutureStacked__无名初创首投即进-ai-视频排行榜-top-6-preview-版本的降维打击.md"
 ---
 
 # Future Stacked (@FutureStacked)

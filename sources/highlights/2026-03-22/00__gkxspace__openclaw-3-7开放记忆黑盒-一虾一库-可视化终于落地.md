@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "OpenClaw 3.7开放记忆黑盒：一虾一库+可视化终于落地"
 description: "**[Agent记忆的「可编程时代」开启]** • ContextEngine接口首次开放，记忆管理从系统内置变为开发者可控 • 「一虾一库」架构实现多租户数据隔离，解决长期困扰的多Agent混用问题 • 记忆可视化功能上线，Agent决策路径首次可被人类审计  gakki锐评：记忆是Agent的「灵魂」，但之前连开发者都不知道自己养的龙虾在想什么。这次更新把黑箱变成了玻璃箱。"
 resource: "https://x.com/i/status/2035346143895302308"
@@ -22,6 +22,13 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "agent-memory-optimization"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2035346143895302308"
+created: "2026-03-21"
+updated: "2026-06-26"
+sha256: "7463a6ef13ca37d89682957854dedadd34c81c3a787562dd71113b926b45057f"
+sources:
+  - "/sources/highlights/2026-03-22/00__gkxspace__openclaw-3-7开放记忆黑盒-一虾一库-可视化终于落地.md"
 ---
 
 # OpenClaw 3.7开放记忆黑盒：一虾一库+可视化终于落地

@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Claude Design 默认产出 React 组件而非 HTML——Anthropic 把设计工具锚定在前端工程链上"
 description: "**[一句话核心判断]** Claude Design 的默认输出形态直接锁死在 React 小组件，意味着 Anthropic 不打算让它做静态设计稿生成器，而是要让它直接产出可集成的前端代码资产。  - 默认 React 而非 HTML：跳过了「设计稿 → 工程师还原」的中间损耗，输出直接进入组件库。 - 与传统 Figma/Sketch 思路分道扬镳：原型是次要的，生产级组件才是终点。 - "
 resource: "https://x.com/i/status/2063781767266373633"
@@ -22,6 +22,13 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "claude-design-tool"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2063781767266373633"
+created: "2026-06-08"
+updated: "2026-06-26"
+sha256: "45a622733556c9a61b0c9965eabb35fa1ed0fbb6bd6eb83f54d346739cef248d"
+sources:
+  - "/sources/news/2026-06-08/00__dotey__claude-design-默认产出-react-组件而非-html-anthropic-把设计工具锚定在前端工程链上.md"
 ---
 
 # Claude Design 默认产出 React 组件而非 HTML——Anthropic 把设计工具锚定在前端工程链上

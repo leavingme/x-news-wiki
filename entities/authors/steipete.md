@@ -1,5 +1,5 @@
 ---
-type: "Author"
+type: "entity"
 title: "Peter Steinberger 🦞 (@steipete)"
 description: "X/Twitter 作者 @steipete。共收录 6 条 AI 精选推文。"
 tags:
@@ -12,6 +12,17 @@ x_author_name: "Peter Steinberger 🦞"
 x_tweet_count: 6
 x_first_seen: "2026-05-01T01:17:58.325Z"
 x_last_seen: "2026-05-10T01:18:10.913Z"
+type_okf: "Author"
+created: "2026-05-01"
+updated: "2026-06-26"
+sha256: "c028748db909a7f40ed5408a51b47f0bb24e47a103f08478770e36b29394215a"
+sources:
+  - "/sources/highlights/2026-05-08/00__steipete__openclaw-核心人物实测-gpt-5-5-goal-大规模重构规划终于-可用-了.md"
+  - "/sources/news/2026-05-01/00__steipete__openclaw-群聊交互范式重构-创始人公开推荐-codex-harness-替代-gpt.md"
+  - "/sources/news/2026-05-03/00__steipete__openclaw-核心维护者开源-issue-pr-自动化工具-oss-社区的-agent-化运维进入实操阶段.md"
+  - "/sources/news/2026-05-05/00__steipete__openclaw-生态核心人物-peter-steinberger-组建团队-开源-agent-生态正在从-个人项目-走.md"
+  - "/sources/news/2026-05-06/00__steipete__openclaw-一次性接入-10-个主流服务-从-sonos-到-spotify-agent-生态的-管道铺设-加速.md"
+  - "/sources/news/2026-05-10/00__steipete__codex技能累积效应-技能越多-提示越少.md"
 ---
 
 # Peter Steinberger 🦞 (@steipete)

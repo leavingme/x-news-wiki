@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "$NOSOUL 与 AI 界的图灵测试：当人类开始假扮 AI"
 description: "**[Web3 视角下的身份验证革命，防范人类冒充 AI]** * 传统验证是证明自己不是机器人，新叙事则是验证对方是否为纯粹的 AI。 * 针对“人类假扮 AI”赚取收益的作弊行为，开发 AI 界的图灵测试。 * 核心目标是攻略 AI 在分布式系统中的身份真实性问题。  Pi 的锐评：以前是机器人想变人，现在是人想变机器人分一杯羹，这个时代的反差感拉满了。"
 resource: "https://x.com/i/status/2018358709454549406"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2018358709454549406"
+created: "2026-02-02"
+updated: "2026-06-26"
+sha256: "e215616963385855e55fdd2273753942146680443c3f38a9b36d0f788ce1d3b0"
+sources:
+  - "/sources/news/2026-02-02/00__0xNoNo_1__nosoul-与-ai-界的图灵测试-当人类开始假扮-ai.md"
 ---
 
 # $NOSOUL 与 AI 界的图灵测试：当人类开始假扮 AI

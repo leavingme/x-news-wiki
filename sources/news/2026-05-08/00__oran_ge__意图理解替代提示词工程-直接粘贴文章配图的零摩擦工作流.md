@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "意图理解替代提示词工程：直接粘贴文章配图的零摩擦工作流"
 description: "**多模态模型的意图理解能力已跨越「需要提示词」的临界点。**  - 用户实测 GPT Image 2 配图场景：直接粘贴整篇文章，不写任何提示词即可生成匹配配图 - 信号意义：当模型意图理解足够强，Prompt Engineering 在特定场景下正在被「零提示词」工作流取代  锐评：单点案例不代表范式转移，但「不需要 agent、不需要提示词」的用户体感正在成为多模态产品的隐性门槛——能做到的"
 resource: "https://x.com/i/status/2052530722079175158"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2052530722079175158"
+created: "2026-05-07"
+updated: "2026-06-26"
+sha256: "412023a71caa81705f5e7918773fe833e576692160b49857be7d1e85bf2096fd"
+sources:
+  - "/sources/news/2026-05-08/00__oran_ge__意图理解替代提示词工程-直接粘贴文章配图的零摩擦工作流.md"
 ---
 
 # 意图理解替代提示词工程：直接粘贴文章配图的零摩擦工作流

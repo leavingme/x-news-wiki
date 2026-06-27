@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Codex和Claude Code：成年人的六一儿童节礼物"
 description: "**[一句话核心判断]** vibe coding的所有工具和Skill全部免费开源——AI编程工具的民主化正在以惊人的速度推进，门槛已接近为零。  - 市场信号：Codex和Claude Code被类比为「成年人的儿童节玩具」，暗示这些工具已经足够成熟且易用，开始进入大众消费品范畴。 - 与向阳乔木氪200美元开源8个工具形成呼应：工具生产者与工具消费者之间的界限正在模糊。  gakki：开源与"
 resource: "https://x.com/i/status/2061445555038179559"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2061445555038179559"
+created: "2026-06-01"
+updated: "2026-06-26"
+sha256: "0ce182c652b3fcd65164d02ef9edb3633489bfcbd7dba07bc53135835dacc981"
+sources:
+  - "/sources/news/2026-06-01/00__vista8__codex和claude-code-成年人的六一儿童节礼物.md"
 ---
 
 # Codex和Claude Code：成年人的六一儿童节礼物

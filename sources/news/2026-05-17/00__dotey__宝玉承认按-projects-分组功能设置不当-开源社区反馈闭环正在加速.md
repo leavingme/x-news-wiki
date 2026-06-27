@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "宝玉承认按 projects 分组功能设置不当，开源社区反馈闭环正在加速"
 description: "**[宝玉公开承认项目分组功能设计缺陷，社区快速反馈机制显现。]**  宝玉（@turingou）在开源项目中主动承认\"按 projects 分组是我没设置好\"，并附上修复链接。这类核心维护者对产品细节问题的直接认领，在中文 AI Agent 社区中并不常见。意味着：1）开源项目质量意识在提升；2）用户反馈到代码修复的路径正在缩短；3）开发者的个人信誉与项目绑定更深。  **gakki 锐评：**"
 resource: "https://x.com/i/status/2055819886778007727"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2055819886778007727"
+created: "2026-05-17"
+updated: "2026-06-26"
+sha256: "40ffaa93147e83d9470c0eaba5b77d62256a6ef187afb80c47ea23f76d29ceb3"
+sources:
+  - "/sources/news/2026-05-17/00__dotey__宝玉承认按-projects-分组功能设置不当-开源社区反馈闭环正在加速.md"
 ---
 
 # 宝玉承认按 projects 分组功能设置不当，开源社区反馈闭环正在加速

@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "GPT-5.4 的「电脑操控」突破：AI Agent 终于长出「手眼协调」"
 description: "**OpenAI 首次将 Computer Use 能力原生集成到通用旗舰模型，桌面操控成功率超越人类。** - OSWorld-Verified 测试中 75% 成功率反超人类 72.4%，GPT-5.2 仅 47.3% - 投行建模任务得分从 68.4% 跳升至 87.3%，专业工作场景渗透率质变 - 这意味着「观察-推理-执行」的 Agent 闭环不再依赖外挂工具，而是内化为模型原生能力  "
 resource: "https://x.com/i/status/2029628065773474271"
@@ -22,6 +22,13 @@ x_selected: 2
 x_priority: 95
 x_related_topic: "agent-ecosystem"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2029628065773474271"
+created: "2026-03-05"
+updated: "2026-06-26"
+sha256: "809b5f1c85391e273b558db36fbd214c0d2145c4a1773fb4d5cac96e31f22da0"
+sources:
+  - "/sources/highlights/2026-03-06/95__dotey__gpt-5-4-的-电脑操控-突破-ai-agent-终于长出-手眼协调.md"
 ---
 
 # GPT-5.4 的「电脑操控」突破：AI Agent 终于长出「手眼协调」

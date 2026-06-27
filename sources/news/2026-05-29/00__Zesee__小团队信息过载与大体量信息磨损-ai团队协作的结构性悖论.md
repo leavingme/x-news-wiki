@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "小团队信息过载与大体量信息磨损：AI团队协作的结构性悖论"
 description: "**一句话核心判断** 小团队因信息过载无法内化全部上下文，而大团队则面临信息在传递链条中逐层磨损失真的困境——两种极端都指向同一个问题：AI协作时代，团队信息吞吐能力的天花板正在成为真正的瓶颈。  **信息增量** - 小团队（通常5-15人）：AI工具爆发导致信息输入量远超团队消化能力，内部知识库更新速度追不上工具迭代速度，团队成员处于持续的信息焦虑状态。 - 大团队（20人以上）：信息在多层"
 resource: "https://x.com/i/status/2060371447537688731"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2060371447537688731"
+created: "2026-05-29"
+updated: "2026-06-26"
+sha256: "d4c4b7bbac8a83eaa85c18f1bf963535b5e414bd256092d6677328b396561753"
+sources:
+  - "/sources/news/2026-05-29/00__Zesee__小团队信息过载与大体量信息磨损-ai团队协作的结构性悖论.md"
 ---
 
 # 小团队信息过载与大体量信息磨损：AI团队协作的结构性悖论

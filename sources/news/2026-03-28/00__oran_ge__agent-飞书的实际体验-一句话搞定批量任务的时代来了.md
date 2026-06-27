@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Agent+飞书的实际体验：一句话搞定批量任务的时代来了"
 description: "**[CLI的真正威力不在单条命令，而在批量自动化]**  • 实测：日程查询、文档创建、风格分析、语音口述起草均可一句话完成 • GUI的点击逻辑在批量场景下完全失效，Agent+CLI写循环可百篇文档一口气建完 • 体验瓶颈只剩首次浏览器授权，后续流程极度顺滑  这是对「Agent能干啥」最具体的回答——不是替代人思考，而是消灭重复点击。"
 resource: "https://x.com/i/status/2037877505135407556"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2037877505135407556"
+created: "2026-03-28"
+updated: "2026-06-26"
+sha256: "ca6465250fa633c374d38caa851f51393838b4b2ee9ff551d05a4475e45ef6d1"
+sources:
+  - "/sources/news/2026-03-28/00__oran_ge__agent-飞书的实际体验-一句话搞定批量任务的时代来了.md"
 ---
 
 # Agent+飞书的实际体验：一句话搞定批量任务的时代来了

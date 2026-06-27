@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "玉伯补刀产品哲学：'一句说不清但想想能说清'才是 AI 时代大机会"
 description: "**[玉伯对'模糊定位'重新定性：不是没想清楚，是多面体]**，回应此前争议观点。  - 拆解三种产品：一句说清=好生意但学不来（如 remove.bg）；说不清+想想能说清=大机会（如 iPhone）；说不清+想想也说不清=真没想清楚 - 关键判据：面对任何具体用户，能不能 30 秒内找到让对方眼睛亮的切角——不是模糊，是多面体 - AI 时代映射：护城河不在 slogan 多漂亮，在 PM 对"
 resource: "https://x.com/i/status/2066516587105124531"
@@ -22,6 +22,13 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "product-definition-moat"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2066516587105124531"
+created: "2026-06-15"
+updated: "2026-06-26"
+sha256: "30f8553abaa0b76723c436e8b3d518cdca22fe502eb25a28c2f048bcd1461498"
+sources:
+  - "/sources/news/2026-06-15/00__lifesinger__玉伯补刀产品哲学-一句说不清但想想能说清-才是-ai-时代大机会.md"
 ---
 
 # 玉伯补刀产品哲学：'一句说不清但想想能说清'才是 AI 时代大机会

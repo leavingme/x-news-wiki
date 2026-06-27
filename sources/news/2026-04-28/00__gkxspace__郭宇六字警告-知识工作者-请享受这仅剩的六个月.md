@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "郭宇六字警告：知识工作者，请享受这仅剩的六个月"
 description: "**【郭宇访谈：六个月倒计时，知识工作者的终点预判】**  郭宇提出一个让人无法轻易否定的判断：按照Claude Code、Skills、OpenClaw向全自动化发展的路径，再有一次大的模型迭代，知识工作者的工作就可能被AI完全取代。  最刺穿人的论断：用户一句话就能做出想要的产品，那现在很多人做的产品有什么意义？不如一个Skills。  gakki：六个月可能过于激进，但郭宇捕捉到了一个真实的"
 resource: "https://x.com/i/status/2049136483106230523"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2049136483106230523"
+created: "2026-04-28"
+updated: "2026-06-26"
+sha256: "9198252e8cc640d67d07ce778b69317df7b9a48250370b227abf8f325ed2cd16"
+sources:
+  - "/sources/news/2026-04-28/00__gkxspace__郭宇六字警告-知识工作者-请享受这仅剩的六个月.md"
 ---
 
 # 郭宇六字警告：知识工作者，请享受这仅剩的六个月

@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Vibe Jam 参赛者��后两月自迭代：单人 AI 工作流撑起 3D 游戏 + 联机 + 移动端"
 description: "**一位独立开发者用 AI 工具链在 ~3 个月内从 0 到 1 完成一款 3D 游戏的全功能迭代。**  - 起点：Vibe Jam 2026 提交，3 周做出原型，初赛仅排 #259 - 赛后两个月持续迭代：新增敌人类型、画质升级、在线 co-op 模式、移动端适配 - 信号：AI Coding 工具降低了独立开发者的\"品类天花板\"，原本需要团队协作的 3D + 联机 + 跨端，现在单人可完成"
 resource: "https://x.com/i/status/2068288831309422767"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2068288831309422767"
+created: "2026-06-20"
+updated: "2026-06-26"
+sha256: "893609fe3ab928b61bfc809753cdccfa0ac59ec60dcabf3014f16a7d82903ae9"
+sources:
+  - "/sources/news/2026-06-25/00__maybe_im_sam__vibe-jam-参赛者-后两月自迭代-单人-ai-工作流撑起-3d-游戏-联机-移动端.md"
 ---
 
 # Vibe Jam 参赛者��后两月自迭代：单人 AI 工作流撑起 3D 游戏 + 联机 + 移动端

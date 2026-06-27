@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Maiga AI把交易行为本身变成代币激励：Proof of Trading是AI交易代理经济体的最后一块拼图"
 description: "**[一句话核心判断]**  Maiga AI 推出全球首个 Proof of Trading（PoT）机制——将用户交易行为转化为生态贡献，通过代币激励保障系统流动性，这是 AI 交易代理经济体的关键机制创新。  **信息增量：** - PoT 本质：把「交易行为」变成「价值贡献」，类比 PoW/PoS 但针对 AI 代理场景设计 - 核心技术：LSTM + GNN，日处理 2TB 链上数据，驱"
 resource: "https://x.com/i/status/1940037643829678094"
@@ -22,6 +22,13 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "ai-agent-crypto-infra"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/1940037643829678094"
+created: "2025-07-01"
+updated: "2026-06-26"
+sha256: "d9627bf122a8eb5496f3519987e2d80f4ca912ae06fe834a34232de15b963990"
+sources:
+  - "/sources/news/2026-04-11/00__NightmareDEFI__maiga-ai把交易行为本身变成代币激励-proof-of-trading是ai交易代理经济体的最后一块拼图.md"
 ---
 
 # Maiga AI把交易行为本身变成代币激励：Proof of Trading是AI交易代理经济体的最后一块拼图

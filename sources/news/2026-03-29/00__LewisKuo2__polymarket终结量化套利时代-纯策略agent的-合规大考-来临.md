@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Polymarket终结量化套利时代：纯策略Agent的「合规大考」来临"
 description: "**预测市场从野蛮套利转向合规流动性的转折点。** • 监管升级：Wash trading、Spoofing、Self-dealing明确入黑名单，链上钱包可直接封禁 • 机会重构：30%推荐佣金+真实流动性提供成为新盈利模型，刷量脚本时代终结 • Agent启示：纯执行型Agent合规风险陡增，需从「套利机器」转向「价值发现者」  Gakki锐评：当平台开始驱逐「假量Agent」，真正的「交易A"
 resource: "https://x.com/i/status/2036353063611670929"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2036353063611670929"
+created: "2026-03-24"
+updated: "2026-06-26"
+sha256: "a151b70b1ef1de4603ead9a6e2913214563170e671feeb264df59c7be22a731f"
+sources:
+  - "/sources/news/2026-03-29/00__LewisKuo2__polymarket终结量化套利时代-纯策略agent的-合规大考-来临.md"
 ---
 
 # Polymarket终结量化套利时代：纯策略Agent的「合规大考」来临

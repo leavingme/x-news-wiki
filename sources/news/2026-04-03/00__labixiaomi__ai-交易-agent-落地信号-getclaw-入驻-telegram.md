@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "AI 交易 Agent 落地信号：GetClaw 入驻 Telegram"
 description: "**[Telegram 正在成为 AI 交易 Agent 的主战场——零门槛、手机端、一句话交互]**  • Bitget 官方 AI 交易工具 GetClaw 入驻 Telegram，搜索 @getclaw_official_bot 直接用。 • 核心功能：信息查询、定时推送 $BTC 涨跌幅、大白话指令自动解析交易逻辑。 • 相比 GateClaw 交互更简单，目前完全免费，官方暂无付费计划。"
 resource: "https://x.com/i/status/2039487139784872433"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2039487139784872433"
+created: "2026-04-01"
+updated: "2026-06-26"
+sha256: "6d942f56cba4c280fd84a83a5e49a8aa3098f56cb9bee644162e0a5b500483be"
+sources:
+  - "/sources/news/2026-04-03/00__labixiaomi__ai-交易-agent-落地信号-getclaw-入驻-telegram.md"
 ---
 
 # AI 交易 Agent 落地信号：GetClaw 入驻 Telegram

@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Anthropic两次范式转移：3.5解放Cursor、4.0发明Vibe Coding足以载入AI编程史"
 description: "**[AI编程史的关键一跃：Anthropic的两次范式统治]**  - yetone给出判断：Claude Sonnet 3.5让AI Coding从不可能变为可能，直接催生Cursor一年后的爆发；Claude Sonnet 4.0搭配Claude Code发明的Vibe Coding则完成了对人类编程范式的根本颠覆。 - 这一定位把Anthropic定性为\"范式定义者\"而非\"跟随者\"，与市场"
 resource: "https://x.com/i/status/2061353652976329091"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2061353652976329091"
+created: "2026-06-01"
+updated: "2026-06-26"
+sha256: "ecdb16f7530a04843cc1c6c439503f7a404cf8aef22e61c3a87f98e61196176d"
+sources:
+  - "/sources/news/2026-06-01/00__yetone__anthropic两次范式转移-3-5解放cursor-4-0发明vibe-coding足以载入ai编程史.md"
 ---
 
 # Anthropic两次范式转移：3.5解放Cursor、4.0发明Vibe Coding足以载入AI编程史

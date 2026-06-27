@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Agent 共享大脑：一行命令打通跨实例记忆层"
 description: "**Agent 跨实例共享记忆：'一行命令'正在击穿当前记忆碎片化格局。**  - 极简部署（'一行命令'）暗示零配置、跨框架覆盖，可能直接挑战 ContextHub/EdgeClaw 路线的部署门槛 - '所有 Agent' 强调水平扩展能力，记忆从单 Agent 资产升格为基础设施层 - 与 SKILL.md、EdgeClaw、ContextHub 同属 Agent 记忆基建赛道，标志该层正在"
 resource: "https://x.com/i/status/2064629321562517662"
@@ -22,6 +22,13 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "edgeclaw-memory-infrastructure"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2064629321562517662"
+created: "2026-06-10"
+updated: "2026-06-26"
+sha256: "84cae8b93f7886204e8dee1eb65fcb3c7241450375c65c20cfa4c232e4b64d4b"
+sources:
+  - "/sources/highlights/2026-06-10/00__Zesee__agent-共享大脑-一行命令打通跨实例记忆层.md"
 ---
 
 # Agent 共享大脑：一行命令打通跨实例记忆层

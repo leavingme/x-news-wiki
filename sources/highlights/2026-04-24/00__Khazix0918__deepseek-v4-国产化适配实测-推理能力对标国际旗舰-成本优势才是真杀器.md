@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "DeepSeek V4 国产化适配实测：推理能力对标国际旗舰，成本优势才是真杀器"
 description: "**国产模型实用性验证：V4 性能与成本双杀**  - 实测验证 V4 在国产化场景下的可用性，核心优势不在纸面参数而在成本结构 - 当旗舰模型单次调用成本制约 Agent 并发量时，V4 的性价比让「7×24 小时不间断跑任务」成为现实 - 这与 Orange AI 的判断互为印证：V4 的真正意义是解锁了 Agent 的并发规模上限"
 resource: "https://x.com/i/status/2047602307890892935"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2047602307890892935"
+created: "2026-04-24"
+updated: "2026-06-26"
+sha256: "7a06556445f22104436c277d283089d11d1a9c764d36ff4ab499ca0f2441f078"
+sources:
+  - "/sources/highlights/2026-04-24/00__Khazix0918__deepseek-v4-国产化适配实测-推理能力对标国际旗舰-成本优势才是真杀器.md"
 ---
 
 # DeepSeek V4 国产化适配实测：推理能力对标国际旗舰，成本优势才是真杀器

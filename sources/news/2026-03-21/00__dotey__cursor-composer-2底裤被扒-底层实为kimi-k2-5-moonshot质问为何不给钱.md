@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Cursor Composer 2底裤被扒：底层实为Kimi K2.5，Moonshot质问为何不给钱"
 description: "**【AI Coding市场暗战浮出水面】** • 开发者调试发现Cursor Composer 2返回的模型ID为kimi-k2p5-rl-0317-s515-fast，tokenizer与Kimi完全一致 • Moonshot预训练负责人Yulun Du公开质问Cursor联合创始人Michael Truell：未遵守许可证、未支付费用 • Cursor官方仅称性能提升来自「持续预训练+强化学"
 resource: "https://x.com/i/status/2035017845801689440"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2035017845801689440"
+created: "2026-03-20"
+updated: "2026-06-26"
+sha256: "30c5b8dc449315c8c052beed454db47a6f2f207fdfe18076d562f4378e608ba7"
+sources:
+  - "/sources/news/2026-03-21/00__dotey__cursor-composer-2底裤被扒-底层实为kimi-k2-5-moonshot质问为何不给钱.md"
 ---
 
 # Cursor Composer 2底裤被扒：底层实为Kimi K2.5，Moonshot质问为何不给钱

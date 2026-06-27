@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "草莓问题+洗车问题：ChatGPT正在被经典推理边界问题系统性测试"
 description: "**一句话核心判断：ChatGPT正被开发者用「草莓问题」「洗车问题」等经典边界案例系统性探测，模型在字面推理上的盲区正在被大规模暴露。**  - 草莓问题（Strawberry Problem）验证模型对字母计数的真实能力，ChatGPT过往多次在此类问题上出错； - 洗车问题则触及多步常识推理与物理约束，模型容易在中间步骤跳步或产生幻觉； - 这类测试的扩散意味着开发者已不再信任官方评测基准，"
 resource: "https://x.com/i/status/2049278935897186512"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2049278935897186512"
+created: "2026-04-29"
+updated: "2026-06-26"
+sha256: "689ad7bc17e9a49e1fb765a588f1df8a285ab2ebd2a67e32c7cb3fed53cb8868"
+sources:
+  - "/sources/news/2026-04-29/00__lxfater__草莓问题-洗车问题-chatgpt正在被经典推理边界问题系统性测试.md"
 ---
 
 # 草莓问题+洗车问题：ChatGPT正在被经典推理边界问题系统性测试

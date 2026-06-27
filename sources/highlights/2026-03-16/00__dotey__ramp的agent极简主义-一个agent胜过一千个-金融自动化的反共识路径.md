@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Ramp的Agent极简主义：一个Agent胜过一千个，金融自动化的反共识路径"
 description: "**[Agent设计哲学从\"大而全\"转向\"少而精\"]**  Ramp选择用单一Agent而非千个垂直Agent搞定金融自动化，这挑战了当前Agent赛道\"越多越好\"的堆料逻辑。  • 信息增量：金融场景（高合规要求+复杂状态机）成为验证\"单体Agent vs 多Agent架构\"的试金石 • 关键判断：Ramp的选型暗示——在强监管、高确定性的业务域，Agent的可靠性比扩展性更优先 • 下游影响："
 resource: "https://x.com/i/status/2033437609460891883"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2033437609460891883"
+created: "2026-03-16"
+updated: "2026-06-26"
+sha256: "d11a88f259a121008b6137734c83d5354e0246bb6917c33571b38a5388bcf621"
+sources:
+  - "/sources/highlights/2026-03-16/00__dotey__ramp的agent极简主义-一个agent胜过一千个-金融自动化的反共识路径.md"
 ---
 
 # Ramp的Agent极简主义：一个Agent胜过一千个，金融自动化的反共识路径

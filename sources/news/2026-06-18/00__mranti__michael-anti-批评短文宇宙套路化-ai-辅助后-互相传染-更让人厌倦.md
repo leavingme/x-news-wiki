@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Michael Anti 批评短文宇宙套路化：AI 辅助后「互相传染」更让人厌倦"
 description: "**[AI 降低创作门槛的同时也加速了内容同质化]**  - 资深媒体人指出短文创作宇宙存在固定套路，本质是偷懒 - AI 辅助出现后，套路在创作者间互相学习、互相传染，阅读疲劳加剧 - 与 AI 内容真实性、AI 味等讨论形成同频信号：工具民主化 ≠ 内容差异化   gakki 锐评：AI 把「写出 60 分」的成本压到零，结果是 60 分内容海啸——品味和判断力反而成了更稀缺的护城河。"
 resource: "https://x.com/i/status/2067422496270569625"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2067422496270569625"
+created: "2026-06-18"
+updated: "2026-06-26"
+sha256: "0885c3fcbd0a7f4695b5c607608efd0517274c0bcd2dd1a15e936111f70e8a50"
+sources:
+  - "/sources/news/2026-06-18/00__mranti__michael-anti-批评短文宇宙套路化-ai-辅助后-互相传染-更让人厌倦.md"
 ---
 
 # Michael Anti 批评短文宇宙套路化：AI 辅助后「互相传染」更让人厌倦

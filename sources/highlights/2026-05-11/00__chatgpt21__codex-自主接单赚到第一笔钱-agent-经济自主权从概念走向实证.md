@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Codex 自主接单赚到第一笔钱：Agent 经济自主权从概念走向实证"
 description: "**一个 Codex Agent 在无人干预下完成安全审计赏金任务，22小时自主工作后收到 $16.88 报酬。**  - Agent 自主发现开源项目的安全赏金路径，提交 PR，跟进维护者验证，全程未暴露用户支付信息 - 从「AI 帮你写代码」到「AI 帮你赚钱」，经济自主权的最小闭环已被跑通 - 这不是演示，是真实到账的现金流——Agent 造血能力的里程碑信号  gakki 锐评：$16.8"
 resource: "https://x.com/chatgpt21/status/2053556436475461786"
@@ -22,6 +22,13 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "ai-agent-self-sustaining-business"
 x_source: "ai-trend-digest"
+type_okf: "X Tweet"
+source_url: "https://x.com/chatgpt21/status/2053556436475461786"
+created: "2026-05-10"
+updated: "2026-06-26"
+sha256: "188b8caaeb6d86e3b9cb6ef8c9de18e03ae4099e18c00eccd728d07b67896e9b"
+sources:
+  - "/sources/highlights/2026-05-11/00__chatgpt21__codex-自主接单赚到第一笔钱-agent-经济自主权从概念走向实证.md"
 ---
 
 # Codex 自主接单赚到第一笔钱：Agent 经济自主权从概念走向实证

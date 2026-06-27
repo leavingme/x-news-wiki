@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "AI 升级不翻车指南：8 字段迁移账本的结构化思维价值"
 description: "**[一句话核心判断]** 「8 字段迁移账本」将 AI 模型升级的风险控制具象化为可执行清单，标志着 AI 运维正在从玄学走向工程化。  **信息增量：** - 8 字段覆盖：模型版本、Prompt 版本、输出格式、错误率、延迟、Token 消耗、回归测试结果、回滚触发条件 - 核心洞察：AI 升级翻车的主要风险不是模型能力退化，而是上下游依赖的隐式契约被打破 - 结构化账本的价值：将隐性经验显"
 resource: "https://x.com/i/status/2062427008752124166"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2062427008752124166"
+created: "2026-06-04"
+updated: "2026-06-26"
+sha256: "da242c010b1f27c6709fdefdfc397bf6a57994dee63a4389d5874794f5352e7c"
+sources:
+  - "/sources/news/2026-06-04/00__Zesee__ai-升级不翻车指南-8-字段迁移账本的结构化思维价值.md"
 ---
 
 # AI 升级不翻车指南：8 字段迁移账本的结构化思维价值

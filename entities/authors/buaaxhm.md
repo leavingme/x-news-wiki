@@ -1,5 +1,5 @@
 ---
-type: "Author"
+type: "entity"
 title: "supermao (@buaaxhm)"
 description: "X/Twitter 作者 @buaaxhm。共收录 1 条 AI 精选推文。"
 tags:
@@ -12,6 +12,12 @@ x_author_name: "supermao"
 x_tweet_count: 1
 x_first_seen: "2026-02-08T13:00:14.047Z"
 x_last_seen: "2026-02-08T13:00:14.047Z"
+type_okf: "Author"
+created: "2026-02-08"
+updated: "2026-06-26"
+sha256: "8e70865fe053d352534350d8b7b7d5aee5f33b0ee0003b5b9eb9aff21e42d885"
+sources:
+  - "/sources/news/2026-02-08/00__buaaxhm__开发者大逃亡-不满定价转投-codex-怀抱.md"
 ---
 
 # supermao (@buaaxhm)

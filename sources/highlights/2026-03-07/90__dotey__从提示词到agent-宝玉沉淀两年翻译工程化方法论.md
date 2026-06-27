@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "从提示词到Agent：宝玉沉淀两年翻译工程化方法论"
 description: "**[AI翻译进入「工业化生产」时代]** • 两步翻译（直译→意译）与三步翻译（+审校）成为质量基准 • 通用Skill需解决分块一致性、语言对适配、质量-速度权衡等工程难题 • 推理模型时代，翻译从「提示词艺术」转向「Agent流水线设计」  gakki锐评：翻译是Agent工程化的最佳试验场——输入不确定、输出要求高、流程可拆解。宝玉的两年踩坑史，就是中文AI工程化的缩影。"
 resource: "https://x.com/i/status/2029842320443519319"
@@ -22,6 +22,13 @@ x_selected: 2
 x_priority: 90
 x_related_topic: "claude-code-ecosystem"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2029842320443519319"
+created: "2026-03-06"
+updated: "2026-06-26"
+sha256: "b431cd87f75865f7dac963f404dd8af88718a4fa7f8f82ea2fc91605dc85b9ac"
+sources:
+  - "/sources/highlights/2026-03-07/90__dotey__从提示词到agent-宝玉沉淀两年翻译工程化方法论.md"
 ---
 
 # 从提示词到Agent：宝玉沉淀两年翻译工程化方法论

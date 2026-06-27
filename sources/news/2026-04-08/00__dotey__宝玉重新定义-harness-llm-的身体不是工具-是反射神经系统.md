@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "宝玉重新定义「Harness」：LLM 的身体不是工具，是反射神经系统"
 description: "**一句话核心判断：宝玉提出「Harness」概念框架，将 LLM 定位为「缸中之脑」，而 Agent 的工程复杂度在于为这个大脑构建完整的感知-运动-反射闭环——三层记忆系统是这个闭环的核心。**  - 核心框架：眼睛/耳朵（感知输入）→ 大脑（推理决策）→ 嘴巴（输出呈现）→ 手脚（执行操作）→ 小脑/反射（容错纠偏） - 三层记忆分层：短期记忆（当前对话窗口，约 7 个信息块容量）→ 跨对话"
 resource: "https://x.com/i/status/2041649498531791236"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2041649498531791236"
+created: "2026-04-07"
+updated: "2026-06-26"
+sha256: "3cf9a89f06e749211c23c3998ca29695aa2fed08a8c4f04a28c2277ab82071c5"
+sources:
+  - "/sources/news/2026-04-08/00__dotey__宝玉重新定义-harness-llm-的身体不是工具-是反射神经系统.md"
 ---
 
 # 宝玉重新定义「Harness」：LLM 的身体不是工具，是反射神经系统

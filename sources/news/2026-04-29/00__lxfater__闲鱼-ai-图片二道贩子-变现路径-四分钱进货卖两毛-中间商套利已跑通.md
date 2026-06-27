@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "闲鱼「AI 图片二道贩子」变现路径：四分钱进货卖两毛，中间商套利已跑通"
 description: "**一句话核心判断** GPT Image 2 的商业化路径，已被中国闲鱼玩家用「零成本套利」模式直接验证——不需要自己会出图，只需要会买图。  **后续要点** - 有人在闲鱼上批量采购 AI 生成图片（四分钱/张），转手卖两毛，毛利率约 500% - 铁锤人整理了 5 种有提示词的变现方式，但真正跑通的是「纯中间商」路径——套利即护城河 - 自动化流程 + 平台价差 = 最小闭环的商业验证，印"
 resource: "https://x.com/i/status/2049368609193926810"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2049368609193926810"
+created: "2026-04-29"
+updated: "2026-06-26"
+sha256: "f99d61cf23e0afd7ca8c4afb3c820a9519dffdb48c8aa4c6ce66bb3aba6d9c49"
+sources:
+  - "/sources/news/2026-04-29/00__lxfater__闲鱼-ai-图片二道贩子-变现路径-四分钱进货卖两毛-中间商套利已跑通.md"
 ---
 
 # 闲鱼「AI 图片二道贩子」变现路径：四分钱进货卖两毛，中间商套利已跑通

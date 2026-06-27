@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Origins Network 800万美元融资：把闲置GPU算力变成链上可验证AI训练力"
 description: "**[去中心化算力的故事，终于有了产品而不是PPT]**  Origins Network完成800万美元战略融资（投资方包括Animoca Brands），目标是成为AI×Web3模块化公链，把闲置GPU算力直接变成链上可验证的AI训练资源。  资金用于全球去中心化算力节点建设、开发者工具链完善，以及全球市场运营。  **gakki**：800万美元对Web3来说不算大，但关键在于「产品已经在跑"
 resource: "https://x.com/i/status/2038873908750008418"
@@ -22,6 +22,13 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "0g-labs-chain-ai-infrastructure"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2038873908750008418"
+created: "2026-03-31"
+updated: "2026-06-26"
+sha256: "c53025e8ae3b0c07ccff0f172b230059616b4aca6785a92f5a0fe72379950c9b"
+sources:
+  - "/sources/news/2026-04-11/00__0xYi666__origins-network-800万美元融资-把闲置gpu算力变成链上可验证ai训练力.md"
 ---
 
 # Origins Network 800万美元融资：把闲置GPU算力变成链上可验证AI训练力

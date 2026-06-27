@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Strudel：浏览器里的实时音乐编程现场"
 description: "**一句话核心判断** 一款基于 Web 的现场编程音乐平台 Strudel，无需安装任何软件，点开即玩，彻底降低了「音乐可编程」的门槛。  **要点** - 核心语法是链式 JavaScript：`s(\"bd sd\").fast(2).room(0.5)`，鼓机+效果器一条链搞定 - 多轨并联用 `stack()`，节拍和旋律可以同时跑在浏览器 Tab 里 - 输入提示词让 AI 帮你生成 St"
 resource: "https://x.com/i/status/2059322262369759620"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2059322262369759620"
+created: "2026-05-26"
+updated: "2026-06-26"
+sha256: "bb10af61a0bbbaac79216d0c095808a11cd0db412cf695068f59d1ca5497f4d5"
+sources:
+  - "/sources/news/2026-05-26/00__xiaohu__strudel-浏览器里的实时音乐编程现场.md"
 ---
 
 # Strudel：浏览器里的实时音乐编程现场

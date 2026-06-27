@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "AI PPT 生成进入「原生 OOXML 动画 + 多音轨旁白」阶段：文档到演示的最后一公里正在打通"
 description: "**AI 生成 PPT 的竞争焦点已从「排版」转移到「动画 + 旁白」的原生能力。**  - 支持 PDF/Word/Excel/网页/公众号/Markdown 等多格式输入，输出适配 16:9、小红书、抖音等多场景 - 动画是真正的 OOXML 原生动画，SVG 分组导出后自动级联播放，不是录屏式假动画 - 旁白默认 Edge-TTS 免费，支持 ElevenLabs/MiniMax 声音克隆，"
 resource: "https://x.com/i/status/2051272125961458016"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2051272125961458016"
+created: "2026-05-04"
+updated: "2026-06-26"
+sha256: "4df373664a592a7ea7839cfdd6c365950d0d412332da6aca8416624fe5e2904f"
+sources:
+  - "/sources/news/2026-05-04/00__gkxspace__ai-ppt-生成进入-原生-ooxml-动画-多音轨旁白-阶段-文档到演示的最后一公里正在打通.md"
 ---
 
 # AI PPT 生成进入「原生 OOXML 动画 + 多音轨旁白」阶段：文档到演示的最后一公里正在打通

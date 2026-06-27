@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "藏师傅 Skills 商业授权落地：AI 内容工具的变现路径已验证"
 description: "**[ AI 内容工具完成从技术到商业的惊险一跃 ]**  藏师傅的 PPT Skills 和小红书图文排版 Skill 已通过实际商用证明了商业价值。这两条推文组合揭示了一个关键信号：面向内容创作者的 AI 工具（排版、配图）已经跑通了「开源获流量 → 商用授权变现」的路径，而非停留在极客玩具阶段。  要点： - 小红书图文排版 Skill 解决的是创作者最痛的配图效率问题，需求真实且付费意愿明"
 resource: "https://x.com/i/status/2059845909245255965"
@@ -22,6 +22,13 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "dbskill-formula-marketplace"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2059845909245255965"
+created: "2026-05-28"
+updated: "2026-06-26"
+sha256: "6199b7a5b00431eaccfb916e6f4f9dc758d29561123215c5745bf7baba745679"
+sources:
+  - "/sources/news/2026-05-28/00__op7418__藏师傅-skills-商业授权落地-ai-内容工具的变现路径已验证.md"
 ---
 
 # 藏师傅 Skills 商业授权落地：AI 内容工具的变现路径已验证

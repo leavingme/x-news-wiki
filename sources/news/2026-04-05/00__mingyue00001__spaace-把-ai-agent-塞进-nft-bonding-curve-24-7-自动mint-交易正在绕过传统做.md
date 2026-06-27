@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Spaace 把 AI Agent 塞进 NFT Bonding Curve：24/7 自动Mint-交易正在绕过传统做市商"
 description: "**AI Agent 接管链上 NFT 交易的新叙事落地了，不只是概念。**  Spaace.io 展示了具体实现：内置 LLM + MCP，AI Agent 驱动 bonding curve 发射、自动扫盘、24/7 Mint & 交易。TGE 前最后一个阶段，Flip 作为 NFT 版本的「Friend.tech + 原生 AI agents」上线。  关键不是这个项目能不能成，而是路径验证："
 resource: "https://x.com/i/status/2040450067627483231"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2040450067627483231"
+created: "2026-04-04"
+updated: "2026-06-26"
+sha256: "1feded4c17eda4b5042a7864bb640cd26989c666d8233650ca7d9b38e925ff49"
+sources:
+  - "/sources/news/2026-04-05/00__mingyue00001__spaace-把-ai-agent-塞进-nft-bonding-curve-24-7-自动mint-交易正在绕过传统做.md"
 ---
 
 # Spaace 把 AI Agent 塞进 NFT Bonding Curve：24/7 自动Mint-交易正在绕过传统做市商

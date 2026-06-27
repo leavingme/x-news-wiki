@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Karpathy AutoResearch范式扩散：Claude/Codex/OpenClaw三端同步跟进自主研究闭环"
 description: "**[AI自主迭代方法论正成为Skill层标准组件]** • Karpathy开源autoresearch一周疯涨3w stars，核心是给AI设定清晰目标和评判标准让其自我优化 • 社区已快速衍生Claude Autoresearch、Codex Autoresearch、AutoResearchClaw三个适配版本 • 从idea到完整论文的全流程自动化正在变成\"可插拔技能\"  Gakki锐评"
 resource: "https://x.com/i/status/2035954777151189248"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2035954777151189248"
+created: "2026-03-23"
+updated: "2026-06-26"
+sha256: "02c9a79e6f970a7dedbb89446ecaec1f6f4451578b53ae49758ef307243e3f0c"
+sources:
+  - "/sources/highlights/2026-03-23/00__Saccc_c__karpathy-autoresearch范式扩散-claude-codex-openclaw三端同步跟进自主研究闭环.md"
 ---
 
 # Karpathy AutoResearch范式扩散：Claude/Codex/OpenClaw三端同步跟进自主研究闭环

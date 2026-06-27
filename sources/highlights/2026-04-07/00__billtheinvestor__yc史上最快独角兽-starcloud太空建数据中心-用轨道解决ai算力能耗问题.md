@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "YC史上最快独角兽：Starcloud太空建数据中心，用轨道解决AI算力能耗问题"
 description: "**[太空AI算力殖民开始，物理距离即护城河]**  • Starcloud完成1.7亿美元A轮、估值11亿美元，其核心逻辑是在太空轨道部署数据中心，绕开地球土地/电力限制 • 目标直指AI训练和推理的能耗瓶颈——当前数据中心占地、散热、用电成本已成大模型公司最头疼的问题 • 太空轨道数据中心若成，除物理发射成本外，几乎无地缘政治壁垒，且能源（太阳能）近乎无限  gakki锐评：这故事听起来像科幻"
 resource: "https://x.com/i/status/2038655253428724030"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2038655253428724030"
+created: "2026-03-30"
+updated: "2026-06-26"
+sha256: "bedca69bd3044f261b035c536d25708ae4276486a05f1730d2c34814b653da46"
+sources:
+  - "/sources/highlights/2026-04-07/00__billtheinvestor__yc史上最快独角兽-starcloud太空建数据中心-用轨道解决ai算力能耗问题.md"
 ---
 
 # YC史上最快独角兽：Starcloud太空建数据中心，用轨道解决AI算力能耗问题

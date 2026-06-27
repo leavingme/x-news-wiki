@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "SaaS已死？Orange AI断言「AI看不上这些老古董」"
 description: "**从「AI是SaaS新主人」到「AI根本看不上SaaS」的认知跃迁。** • Notion、Linear 等明星 SaaS 在 AI 原生工作流中快速失宠 • 即便它们做 CLI、做 MCP，也只是 Claude Code 与 GitHub 之间的「摩擦力」 • 新一代「操作系统」的边界正在重新定义，传统软件形态被排斥在外  这话刺耳，但可能是真的。当 Agent 可以直接操控代码、数据、基础设"
 resource: "https://x.com/i/status/2033847237550477662"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2033847237550477662"
+created: "2026-03-17"
+updated: "2026-06-26"
+sha256: "6ed4cb916d64e0527d5afaf911894b8fa7e65746fcc6fac38bd4929e10f75b33"
+sources:
+  - "/sources/highlights/2026-03-17/00__oran_ge__saas已死-orange-ai断言-ai看不上这些老古董.md"
 ---
 
 # SaaS已死？Orange AI断言「AI看不上这些老古董」

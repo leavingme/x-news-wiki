@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Gemini 3.1 Pro翻译夺魁：长上下文模型的结构性优势正在翻译场景率先兑现"
 description: "**[翻译是长上下文最直接的价值锚点——宝玉一句话，背后是模型能力差的客观排名]**  在多模型翻译横向对比中，Gemini 3.1 Pro被标记为最优，指向其在跨语言长文本理解和术语一致性上的结构性优势。  gakki锐评：翻译是个很诚实的指标——它不骗人，长上下文模型的结构性优势在这里率先拉开了差距。但翻译好不代表推理好，场景选择依然是模型选型的第一原则。"
 resource: "https://x.com/i/status/2062012895941067151"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2062012895941067151"
+created: "2026-06-03"
+updated: "2026-06-26"
+sha256: "ffa1bb8f04ab86083a2b83650fafe182ee3d1f99aa07f4443abe8bbce949e390"
+sources:
+  - "/sources/news/2026-06-03/00__dotey__gemini-3-1-pro翻译夺魁-长上下文模型的结构性优势正在翻译场景率先兑现.md"
 ---
 
 # Gemini 3.1 Pro翻译夺魁：长上下文模型的结构性优势正在翻译场景率先兑现

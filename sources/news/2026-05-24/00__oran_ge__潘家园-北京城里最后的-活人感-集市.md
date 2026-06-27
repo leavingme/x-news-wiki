@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "潘家园： 北京城里最后的「活人感」集市"
 description: "**一句话核心判断** 潘家园之所以成为北京最具活人感的地方，是因为它是一个完全由个体偏好驱动的市场——没有算法推荐，没有流量分配，只有真实的个人选择与价格博弈。  **要点** - 潘家园的本质是「品味达尔文主义」：不以流量衡量价值，每件物品的价格由买卖双方的直觉决定 - 「星星人」成为当下第一IP，折射出大众对逃离算法推荐的隐秘渴望——一个没有推荐噪音的真实市集 - 与电商的「猜你喜欢」逻辑相"
 resource: "https://x.com/i/status/2058346221518147682"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2058346221518147682"
+created: "2026-05-24"
+updated: "2026-06-26"
+sha256: "3731e5ecaf062fd532121afe03eb5594cd371e2af548289d5957654107dd2fc8"
+sources:
+  - "/sources/news/2026-05-24/00__oran_ge__潘家园-北京城里最后的-活人感-集市.md"
 ---
 
 # 潘家园： 北京城里最后的「活人感」集市

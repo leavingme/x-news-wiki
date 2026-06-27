@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Claude Design 精修工作流曝光：先生成网页版，再借浏览器标点微调，最后导出视频"
 description: "**[Claude Design 的精修要靠浏览器标点工具，绕开视频生成的不确定性]**  - 流程：先只生成网页版 → 在 Agent 内置浏览器打开 → 用标记工具选中要改的位置 → 调好再'导出为视频' - 价值：把视频生成分成'版式设计'与'动效渲染'两段，调试成本大幅下降 - 对照：Codex 也能做设计，但'效果差不少'   gakki 锐评：这本质是用'分阶段'换'可控性'——视频生"
 resource: "https://x.com/i/status/2067063352610758676"
@@ -22,6 +22,13 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "claude-design-tool"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2067063352610758676"
+created: "2026-06-17"
+updated: "2026-06-26"
+sha256: "7460c6621e1bc4b06c927d7070dd055865b2ff4c41e05552ffee58426a1053ec"
+sources:
+  - "/sources/news/2026-06-17/00__dotey__claude-design-精修工作流曝光-先生成网页版-再借浏览器标点微调-最后导出视频.md"
 ---
 
 # Claude Design 精修工作流曝光：先生成网页版，再借浏览器标点微调，最后导出视频

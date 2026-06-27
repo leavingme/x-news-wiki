@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "CLI成为Agent原生接口：--help正在取代SKILL.md的文档霸权"
 description: "**[软件正在被Agent反向定义架构]** • 趋势判断：越来越多的工具开始为Agent使用场景重新设计，而非让人类用户界面主导 • 技术洞察：CLI的--help机制天然适合Agent自发现，可能比专门的SKILL.md更高效 • 范式影响：这是MCP vs CLI工程范式之争的实战印证，简单可发现性优于复杂编排  #gakki锐评：当工具开始为Agent而不是为人类设计时，说明Agent已经"
 resource: "https://x.com/i/status/2033774136510583149"
@@ -22,6 +22,13 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "mcp-vs-cli-debate"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2033774136510583149"
+created: "2026-03-17"
+updated: "2026-06-26"
+sha256: "56b97e78af24b7d9c3535e750e0a957eb2367fe7a3258976f415d09eef3ec60a"
+sources:
+  - "/sources/highlights/2026-03-17/00__dotey__cli成为agent原生接口-help正在取代skill-md的文档霸权.md"
 ---
 
 # CLI成为Agent原生接口：--help正在取代SKILL.md的文档霸权

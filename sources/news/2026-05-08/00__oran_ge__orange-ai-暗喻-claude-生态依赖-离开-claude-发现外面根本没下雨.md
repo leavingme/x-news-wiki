@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Orange AI 暗喻 Claude 生态依赖：「离开 Claude，发现外面根本没下雨」"
 description: "**这句话的本质是对「工具依赖幻觉」的一次精准解构。**  - 暗示很多开发者高估了离开 Claude 生态的切换成本 - 实际上替代方案可能比想象中成熟得多，「下雨」的恐惧来自信息茧房而非真实壁垒 - 对正在评估 Agent 工具链选型的团队是一记清醒剂  Orange AI 原文：离开 Claude，发现外面根本没下雨"
 resource: "https://x.com/i/status/2052532414917104042"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2052532414917104042"
+created: "2026-05-07"
+updated: "2026-06-26"
+sha256: "a1ae7ab4c868cd6041badb1bc06c09ceecf3f22ff178ddd255bb86ef166b9ba6"
+sources:
+  - "/sources/news/2026-05-08/00__oran_ge__orange-ai-暗喻-claude-生态依赖-离开-claude-发现外面根本没下雨.md"
 ---
 
 # Orange AI 暗喻 Claude 生态依赖：「离开 Claude，发现外面根本没下雨」

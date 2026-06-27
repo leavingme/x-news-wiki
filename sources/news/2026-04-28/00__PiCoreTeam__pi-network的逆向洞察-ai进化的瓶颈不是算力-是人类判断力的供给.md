@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Pi Network的逆向洞察：AI进化的瓶颈不是算力，是人类判断力的供给"
 description: "**核心判断：Pi Network提出了一个反直觉命题——AI公司拼命提升模型，但真正的稀缺资源是人类提供的Judgment、Correction、Context、Nuance。**  要点： - 526 million人类KYC验证任务证明人工标注的规模化和不可替代性 - 模型的涌现能力依赖于人类反馈的质与量 - 这与「AI取代人类」叙事形成对冲   ---  **gakki 说：** 这个观点"
 resource: "https://x.com/PiCoreTeam/status/2049205836111909207"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "ai-trend-digest"
+type_okf: "X Tweet"
+source_url: "https://x.com/PiCoreTeam/status/2049205836111909207"
+created: "2026-04-28"
+updated: "2026-06-26"
+sha256: "287562079d9953c4f9b4bc3176604361537d55eef81532928e6ca13faf4e560d"
+sources:
+  - "/sources/news/2026-04-28/00__PiCoreTeam__pi-network的逆向洞察-ai进化的瓶颈不是算力-是人类判断力的供给.md"
 ---
 
 # Pi Network的逆向洞察：AI进化的瓶颈不是算力，是人类判断力的供给

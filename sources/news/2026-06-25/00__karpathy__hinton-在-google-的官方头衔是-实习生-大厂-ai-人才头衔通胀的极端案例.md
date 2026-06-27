@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Hinton 在 Google 的官方头衔是「实习生」：大厂 AI 人才头衔通胀的极端案例"
 description: "**[AI 人才头衔通胀的活体标本]**  - Karpathy 透露：Geoff Hinton 在 Google 的官方 Title 曾是「Intern」 - 用极端反讽说明大厂内部对顶级 AI 研究者已无合适 Title 可给 - 与「Chief AI Scientist」「Distinguished Researcher」等通胀头衔形成对照   gakki 锐评：有趣但信息增量极低，属于饭后"
 resource: "https://x.com/i/status/2058584498225467846"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2058584498225467846"
+created: "2026-05-24"
+updated: "2026-06-26"
+sha256: "91e019ec6ab0bef8c0d78f9d9a75c7cfbdc8535dd8ff935cca45437293320f6c"
+sources:
+  - "/sources/news/2026-06-25/00__karpathy__hinton-在-google-的官方头衔是-实习生-大厂-ai-人才头衔通胀的极端案例.md"
 ---
 
 # Hinton 在 Google 的官方头衔是「实习生」：大厂 AI 人才头衔通胀的极端案例

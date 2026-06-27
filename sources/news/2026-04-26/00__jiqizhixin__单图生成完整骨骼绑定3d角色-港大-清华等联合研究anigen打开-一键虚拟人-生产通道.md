@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "单图生成完整骨骼绑定3D角色：港大+清华等联合研究AniGen打开「一键虚拟人」生产通道"
 description: "**一句话核心判断：** AniGen 实现从单张照片同时生成3D形状、骨骼骨架和蒙皮权重的一体化系统，将虚拟角色制作流程压缩至\"一拍即得\"。  **信息增量：** - 传统3D角色生产需分步建模（形状→骨骼→蒙皮），AniGen将其统一为单一3D场问题，大幅降低生产门槛 - 参与机构含港大、VAST、港中文、清华，联合学术背景强 - 该技术直接影响 AI 3D内容民主化 (slug: ai-3d"
 resource: "https://x.com/i/status/2048112305607459176"
@@ -22,6 +22,13 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "ai-3d-content-democratization"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2048112305607459176"
+created: "2026-04-25"
+updated: "2026-06-26"
+sha256: "6366fac9dc983df237754a523b79fb4e6b6a37881a29413c9b35d7eb7f7bb5f3"
+sources:
+  - "/sources/news/2026-04-26/00__jiqizhixin__单图生成完整骨骼绑定3d角色-港大-清华等联合研究anigen打开-一键虚拟人-生产通道.md"
 ---
 
 # 单图生成完整骨骼绑定3D角色：港大+清华等联合研究AniGen打开「一键虚拟人」生产通道

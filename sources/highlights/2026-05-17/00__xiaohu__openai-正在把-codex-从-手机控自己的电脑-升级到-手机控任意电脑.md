@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "OpenAI 正在把 Codex 从「手机控自己的电脑」升级到「手机控任意电脑」"
 description: "**OpenAI 的「锁屏突破」正在重写远程控制范式。**  5月14日上线的 ChatGPT 手机 App 功能，允许用户在外地铁上审批 Mac 上 Codex 的命令、切换模型、派新任务。但核心限制是 Mac 必须醒着且解锁——锁屏一下整个远程控制就废了。  OpenAI 正在开发的新能力：让 Computer Use 在 Mac 锁着或睡眠时也能继续操作。这意味着「派任务给家里/公司的电脑让"
 resource: "https://x.com/i/status/2055808836074979576"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2055808836074979576"
+created: "2026-05-17"
+updated: "2026-06-26"
+sha256: "3af794fc2e6bfa5bf1192b19cc57c98e99e3d0403203c1a19ab3eb7bbb4ecacd"
+sources:
+  - "/sources/highlights/2026-05-17/00__xiaohu__openai-正在把-codex-从-手机控自己的电脑-升级到-手机控任意电脑.md"
 ---
 
 # OpenAI 正在把 Codex 从「手机控自己的电脑」升级到「手机控任意电脑」

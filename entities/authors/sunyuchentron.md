@@ -1,5 +1,5 @@
 ---
-type: "Author"
+type: "entity"
 title: "孙宇晨（去过太空版）🧑‍🚀 (@sunyuchentron)"
 description: "X/Twitter 作者 @sunyuchentron。共收录 1 条 AI 精选推文。"
 tags:
@@ -12,6 +12,12 @@ x_author_name: "孙宇晨（去过太空版）🧑‍🚀"
 x_tweet_count: 1
 x_first_seen: "2026-02-03T13:00:13.602Z"
 x_last_seen: "2026-02-03T13:00:13.602Z"
+type_okf: "Author"
+created: "2026-02-03"
+updated: "2026-06-26"
+sha256: "c7f4edf534ef486cb6af7e3a93f75595cced4e3ec947fdb3689a2e8e631121ec"
+sources:
+  - "/sources/news/2026-02-03/00__sunyuchentron__孙宇晨力推-ai-聚合神器-按次计费与-crypto-隐私登录.md"
 ---
 
 # 孙宇晨（去过太空版）🧑‍🚀 (@sunyuchentron)

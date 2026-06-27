@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "GPT-5.5重新登顶SOTA，但$5/$30价格让Token经济学彻底失控"
 description: "**[OpenAI用涨价换王座，但这个交易对大多数人并不划算]**  GPT-5.5在编程、Agent、文档处理等核心指标全面超越Claude Opus 4.7，社区口碑爆发。但代价是输入$5/百万token、输出$30/百万token——比GPT-5.4贵2倍，输出比特斯拉Opus 4.7还贵20%。  Token涨价已成行业主旋律，Anthropic先降智后修复的戏码反而给OpenAI送上了神"
 resource: "https://x.com/i/status/2047457880346128752"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2047457880346128752"
+created: "2026-04-23"
+updated: "2026-06-26"
+sha256: "100e1ab55dabab59d3997ed20443dedf51a842d2255baf30ff07521172896143"
+sources:
+  - "/sources/highlights/2026-04-24/00__Khazix0918__gpt-5-5重新登顶sota-但-5-30价格让token经济学彻底失控.md"
 ---
 
 # GPT-5.5重新登顶SOTA，但$5/$30价格让Token经济学彻底失控

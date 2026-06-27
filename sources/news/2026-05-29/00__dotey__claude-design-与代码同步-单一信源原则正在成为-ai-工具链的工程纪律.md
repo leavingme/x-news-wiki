@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Claude Design 与代码同步：单一信源原则正在成为 AI 工具链的工程纪律"
 description: "**[一句判断]** 把 Claude Design 当唯一信源、用 Changelog 同步代码，是 AI 辅助设计中少见的「工程化而非玄学化」实践。  - 核心方法论：Design → Changelog → Code 的单向链路，避免了「代码改了 Design 没同步」或「Design 改了代码乱套」的双向混乱。 - 「临时在代码中改了，事后同步到 Design」的逆向补救说明现有工具链还没"
 resource: "https://x.com/i/status/2060433841135772012"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2060433841135772012"
+created: "2026-05-29"
+updated: "2026-06-26"
+sha256: "ecfc56231df8ea0a2d10bb14d3bb20b18bc71813c32378dfa8822bec52c113c6"
+sources:
+  - "/sources/news/2026-05-29/00__dotey__claude-design-与代码同步-单一信源原则正在成为-ai-工具链的工程纪律.md"
 ---
 
 # Claude Design 与代码同步：单一信源原则正在成为 AI 工具链的工程纪律

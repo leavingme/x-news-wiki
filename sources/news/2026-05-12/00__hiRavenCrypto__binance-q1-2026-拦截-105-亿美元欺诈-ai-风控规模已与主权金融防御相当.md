@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Binance Q1 2026 拦截 105 亿美元欺诈：AI 风控规模已与主权金融防御相当"
 description: "**[加密平台 AI 风控进入「百亿美元级实战验证」阶段]  Binance 披露 Q1 2026 数据：100+ AI 模型驱动下，拦截 105.3 亿美元欺诈资金、阻止 5.4 万次钓鱼攻击、保护 5290 万用户。这套数字本身已是全球最大规模的实时 AI 金融风控部署之一，超过了多数主权国家的反洗钱系统吞吐量。  「AI 对冲 AI 欺诈」的逻辑在此得到规模验证——但 Binance 同时是"
 resource: "https://x.com/hiRavenCrypto/status/2054210994210242678"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "ai-trend-digest"
+type_okf: "X Tweet"
+source_url: "https://x.com/hiRavenCrypto/status/2054210994210242678"
+created: "2026-05-12"
+updated: "2026-06-26"
+sha256: "897499a7b1a7563f0ff5327c41d02181c48b255d0939e5c0aca9d0ea18a91046"
+sources:
+  - "/sources/news/2026-05-12/00__hiRavenCrypto__binance-q1-2026-拦截-105-亿美元欺诈-ai-风控规模已与主权金融防御相当.md"
 ---
 
 # Binance Q1 2026 拦截 105 亿美元欺诈：AI 风控规模已与主权金融防御相当

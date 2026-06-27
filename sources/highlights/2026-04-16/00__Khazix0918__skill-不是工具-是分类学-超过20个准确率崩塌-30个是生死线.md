@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Skill 不是工具，是分类学：超过20个准确率崩塌，30个是生死线"
 description: "**[Skill数量与准确率的非线性崩塌：实证数据戳破了「技能库越丰富越好」的幻觉]**   数字生命卡兹克在跟进 Harness Engineering 讨论后，用实验数据给出了 Skill 生态的核心约束：20个以下Skill准确率维持90%以上，30个开始失效，200个时仅剩20%且Token消耗爆炸。他的核心论点是——Skill的本质是「分类学和触发条件」，不是功能积木。  - **分类学"
 resource: "https://x.com/i/status/2044614662654984687"
@@ -22,6 +22,13 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "skills-ecosystem-standards"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2044614662654984687"
+created: "2026-04-16"
+updated: "2026-06-26"
+sha256: "7a3b3b34527a9589657b2d7f03709bf142f75b0549bcca6c55a4c4d9b2d736f4"
+sources:
+  - "/sources/highlights/2026-04-16/00__Khazix0918__skill-不是工具-是分类学-超过20个准确率崩塌-30个是生死线.md"
 ---
 
 # Skill 不是工具，是分类学：超过20个准确率崩塌，30个是生死线

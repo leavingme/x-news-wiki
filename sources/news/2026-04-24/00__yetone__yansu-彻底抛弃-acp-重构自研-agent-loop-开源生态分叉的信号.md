@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Yansu 彻底抛弃 ACP 重构自研 Agent Loop：开源生态分叉的信号"
 description: "**[Yansu 在 Alma 项目中彻底抛弃 ACP，实现自己的 Agent Loop 重构]**  yetone 透露 Yansu 正在进行一个「巨大重构」——完全抛弃 ACP（Agent Communication Protocol？）并从零构建自研的 Agent loop。这不是简单的技术选型调整，而是对当前开源 Agent 基础设施架构的批判性重构。  结合之前 Cloudflare 5"
 resource: "https://x.com/i/status/2047298865125278058"
@@ -22,6 +22,13 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "multi-agent-framework-ecosystem-comparison"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2047298865125278058"
+created: "2026-04-23"
+updated: "2026-06-26"
+sha256: "2a6c2ea60165ffdcac39767aa6ce24dd3f125680fc71fbf55c503fd5ba8f4703"
+sources:
+  - "/sources/news/2026-04-24/00__yetone__yansu-彻底抛弃-acp-重构自研-agent-loop-开源生态分叉的信号.md"
 ---
 
 # Yansu 彻底抛弃 ACP 重构自研 Agent Loop：开源生态分叉的信号

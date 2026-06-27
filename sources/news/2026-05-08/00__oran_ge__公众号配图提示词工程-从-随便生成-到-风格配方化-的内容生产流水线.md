@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "公众号配图提示词工程：从「随便生成」到「风格配方化」的内容生产流水线"
 description: "**[AI 图像生成正在从「试错式创作」进化为「提示词配方工程」]**  - Orange AI 分享了完整的配图提示词模板：指定风格（未来画报风）、质感（报纸）、媒介（钢笔）、构图（标题居中）、复杂度（简洁） - 这种结构化提示词本质上是把「审美判断」编码为可复用的参数组合，降低了内容创作者的风格一致性成本  当提示词从「描述」变成「配方」，AI 图像生成就从创意工具变成了生产线——这是内容工业"
 resource: "https://x.com/i/status/2052620062666916075"
@@ -22,6 +22,13 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "ai-aesthetic-style-agent"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2052620062666916075"
+created: "2026-05-08"
+updated: "2026-06-26"
+sha256: "2175acf228f34758efe351e30a63d2902d4bee222c11ef4ab6dc849032386f2d"
+sources:
+  - "/sources/news/2026-05-08/00__oran_ge__公众号配图提示词工程-从-随便生成-到-风格配方化-的内容生产流水线.md"
 ---
 
 # 公众号配图提示词工程：从「随便生成」到「风格配方化」的内容生产流水线

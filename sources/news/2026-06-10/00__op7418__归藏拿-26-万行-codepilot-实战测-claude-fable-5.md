@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "归藏拿 26 万行 CodePilot 实战测 Claude Fable 5"
 description: "**Fable 5 落地实测：在 26 万行真实代码库中压测。**  - Fable 5 已被部分用户拿到，Anthropic 灰度节奏比预期快 - 26 万行规模接近中型企业项目，比 Benchmark 跑分更有实战参考价值 - 测试对象是 CodePilot 自身代码库，相当于拿 AI Coding 旗舰产品验证同门新模型    gakki 锐评：模型能力的真问题从来不是 Benchmark "
 resource: "https://x.com/i/status/2064522814955368782"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2064522814955368782"
+created: "2026-06-10"
+updated: "2026-06-26"
+sha256: "f4dbc4bb69a0b38e716b0e529e5961745f59f3c70b39e6f2abc8cc932408f7c1"
+sources:
+  - "/sources/news/2026-06-10/00__op7418__归藏拿-26-万行-codepilot-实战测-claude-fable-5.md"
 ---
 
 # 归藏拿 26 万行 CodePilot 实战测 Claude Fable 5

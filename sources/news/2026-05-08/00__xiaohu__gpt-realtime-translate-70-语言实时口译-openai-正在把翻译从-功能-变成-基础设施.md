@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "GPT-Realtime-Translate：70 语言实时口译，OpenAI 正在把翻译从「功能」变成「基础设施」"
 description: "**实时语音翻译不再是锦上添花的 feature，而是 OpenAI 构建的跨语言通信基础设施层。** - Voice-to-voice 架构：A 说中文 B 听到英文，中间几乎无停顿，不是「说完再翻」而是「边说边翻」 - 支持 70+ 输入语言、13 种输出语言，能识别地区口音和方言变体 - 独立模型而非 Realtime-2 的子功能，说明 OpenAI 把翻译当作独立的基础设施赛道  当实时"
 resource: "https://x.com/i/status/2052646102835532181"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2052646102835532181"
+created: "2026-05-08"
+updated: "2026-06-26"
+sha256: "d0ffca3b214288b8756629a5b349a4d2e3d913720178ca179ddf9299cc89c6e4"
+sources:
+  - "/sources/news/2026-05-08/00__xiaohu__gpt-realtime-translate-70-语言实时口译-openai-正在把翻译从-功能-变成-基础设施.md"
 ---
 
 # GPT-Realtime-Translate：70 语言实时口译，OpenAI 正在把翻译从「功能」变成「基础设施」

@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "LeCun出走Meta创业：顶级AI科学家押注「反LLM」架构，隐含范式转向信号"
 description: "**LeCun从Meta离职创业，押注\"反LLM\"的架构方向**  **信息增量：** - LeCun作为Meta AI首席科学家、深度学习泰斗级人物，其离职本身就是标志性事件 - \"反LLM\"这一表述意味着其认为当前LLM路线存在根本性局限 - 结合LeCun一直以来的世界模型、具身智能立场，新方向很可能与V-JEPA一脉相承  **影响评估：** - 对Meta：失去核心人才，FAIR方向可能"
 resource: "https://x.com/i/status/2056798284065419622"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2056798284065419622"
+created: "2026-05-19"
+updated: "2026-06-26"
+sha256: "c906a60ce4500a9e7aebc42668543cae06307a324d6b6bb198b8e165f8a0b4b9"
+sources:
+  - "/sources/highlights/2026-05-19/00__vista8__lecun出走meta创业-顶级ai科学家押注-反llm-架构-隐含范式转向信号.md"
 ---
 
 # LeCun出走Meta创业：顶级AI科学家押注「反LLM」架构，隐含范式转向信号

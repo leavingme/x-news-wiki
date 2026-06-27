@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "乌克兰无人机产业链高度依赖中国工业供应链：地缘 AI 叙事的一个硬核注脚"
 description: "**[军事 AI 供应链的现实从来不讲故事，只讲供应链]**  Michael Anti 引用两篇深度报道，量化揭示乌克兰无人机产业对中国工业供应链的依赖程度——这不是观点，是可以被拆解的供应链事实。  这一信息与「AI 技术铁幕」叙事形成直接张力：芯片可以封禁，但工业制成品的全球化分工短期内无法脱钩。地缘政治与算力的关系在这里从「芯片出口管制」扩展到了更底层的工业基础件。  **gakki：每一"
 resource: "https://x.com/i/status/2056523234825425193"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2056523234825425193"
+created: "2026-05-18"
+updated: "2026-06-26"
+sha256: "15ea5653023900d0ae7d06c5029cee81bec615aa3fab444deb3b8cbe478a8162"
+sources:
+  - "/sources/news/2026-05-19/00__mranti__乌克兰无人机产业链高度依赖中国工业供应链-地缘-ai-叙事的一个硬核注脚.md"
 ---
 
 # 乌克兰无人机产业链高度依赖中国工业供应链：地缘 AI 叙事的一个硬核注脚

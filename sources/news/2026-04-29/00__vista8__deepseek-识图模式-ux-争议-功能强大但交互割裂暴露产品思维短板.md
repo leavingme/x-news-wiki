@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "DeepSeek 识图模式 UX 争议：功能强大但交互割裂暴露产品思维短板"
 description: "**DeepSeek 识图能力到位了，但「单独加 Tab」的交互设计暴露了功能优先于体验的产品惯性。**  - 向阳乔木实测确认识图模式速度和精度都不错，但质疑为什么需要单独一个 Tab - 期望：识图应该融入所有模式，而非作为独立功能入口 - 关键缺失：API 层面尚不支持识图，开发者无法集成  gakki 锐评：DeepSeek 的模式是「先把能力做出来，交互以后再说」——这在技术先行阶段没问"
 resource: "https://x.com/i/status/2049489225792532970"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2049489225792532970"
+created: "2026-04-29"
+updated: "2026-06-26"
+sha256: "ee4e84e1e5f9dd5e68b902f7605395b650bd054c71b6107c3bb1ad20dc1a742e"
+sources:
+  - "/sources/news/2026-04-29/00__vista8__deepseek-识图模式-ux-争议-功能强大但交互割裂暴露产品思维短板.md"
 ---
 
 # DeepSeek 识图模式 UX 争议：功能强大但交互割裂暴露产品思维短板

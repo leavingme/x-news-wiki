@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "宝玉再次祝贺 Teknium：中文 AI 评论圈持续「投喂」全球开源基建"
 description: "**[延续信号] 宝玉与 Unsloth 作者 Teknium保持高频互动，中文圈对全球开源 AI 基建的参与度在上升。** 要点： - 这是继宝玉向 Teknium 项目提 PR之后的又一次公开互动，关系在持续深化 - Unsloth 是端侧微调民主化的核心基建（4090/RTX3060跑 Qwen3.5 全参微调），中文用户对其依赖度极高 -反映中文 AI KOL 已从「消费海外项目」转向「反"
 resource: "https://x.com/i/status/2064061722214723663"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2064061722214723663"
+created: "2026-06-08"
+updated: "2026-06-26"
+sha256: "006d329b0d82a0e5c8a6c1379b18012a688301a1d2013b3f0e83e4229484ef3e"
+sources:
+  - "/sources/news/2026-06-08/00__dotey__宝玉再次祝贺-teknium-中文-ai-评论圈持续-投喂-全球开源基建.md"
 ---
 
 # 宝玉再次祝贺 Teknium：中文 AI 评论圈持续「投喂」全球开源基建

@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "「碰模型」的结果暗示 Agent 领域存在隐性失败者"
 description: "**[直接否定同行的背后是领域早期的生存者偏差]**  Orange AI 对 FeitengLi 说了「碰模型的没啥好结果」，并邀请对方来聊聊。这个语境很有意思——它暗示在 Agent 领域，「碰模型」（直接做 AI 模型层）可能已经是一个失败路径的标签。  这和当前行业的主流叙事相悖。行业里人人都在说「基座模型重要」，但真正在产品侧的人开始悄悄划清界限。   **gakki 判断：** 这句话"
 resource: "https://x.com/i/status/2054933262250946622"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2054933262250946622"
+created: "2026-05-14"
+updated: "2026-06-26"
+sha256: "c0f08eb13f72372371cbbe5d312ce9c6e27d23dfe52ecfc0195b00c315a23192"
+sources:
+  - "/sources/news/2026-05-14/00__oran_ge__碰模型-的结果暗示-agent-领域存在隐性失败者.md"
 ---
 
 # 「碰模型」的结果暗示 Agent 领域存在隐性失败者

@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "$200M 种子轮刷屏：AI 资本饥渴仍在催生\"反共识\"超量级早期融资"
 description: "**Daniel Lockyer 一句 \"$200M seed??\" 揭示 AI 早期融资尺度的又一次通胀。**  - $200M 量级的种子轮在传统 VC 框架里几乎不可想象——通常 Series A 才到这个体量，说明头部 AI 项目正在跳过中间轮次直接拿到\"准独角兽\"弹药。 - 紧随其后的 \"i have a guess\" 暗示圈内人已经能猜到是谁，说明这笔融资的指向性其实并不隐蔽。 - 这"
 resource: "https://x.com/i/status/2070082251522515420"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2070082251522515420"
+created: "2026-06-25"
+updated: "2026-06-26"
+sha256: "73246d76cd1f404b99d0408f2de1a76a83453e2f3cab4e8f9ee527c4bbb04bb7"
+sources:
+  - "/sources/news/2026-06-25/00__DanielLockyer__200m-种子轮刷屏-ai-资本饥渴仍在催生-反共识-超量级早期融资.md"
 ---
 
 # $200M 种子轮刷屏：AI 资本饥渴仍在催生"反共识"超量级早期融资

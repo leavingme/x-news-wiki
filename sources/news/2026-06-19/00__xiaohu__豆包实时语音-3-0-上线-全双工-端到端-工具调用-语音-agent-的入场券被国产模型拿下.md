@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "豆包实时语音 3.0 上线：全双工 + 端到端 + 工具调用，语音 Agent 的入场券被国产模型拿下"
 description: "**实时语音模型拼的不是「更像人」，是「能不能在语音流里把事办了」。**  豆包实时语音模型 3.0 API 上线，演示能力跨过三个门槛：  1. 全双工：边听边说、可随时插话，不再是回合制对话； 2. 端到端：语音进语音出，跳过转录链路，延迟与自然度同步提升； 3. 精准遵循 + 适时参与：可一句定规矩（多人聊天时「先别出声，聊到世界杯再加入」），模型安静待命、到点主动接话； 4. 关键升级：支"
 resource: "https://x.com/i/status/2067851008492052519"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2067851008492052519"
+created: "2026-06-19"
+updated: "2026-06-26"
+sha256: "e514b6c602c4cfae40d49232847998ae6a0ba36b4c117ea44fb09e95e655a7b9"
+sources:
+  - "/sources/news/2026-06-19/00__xiaohu__豆包实时语音-3-0-上线-全双工-端到端-工具调用-语音-agent-的入场券被国产模型拿下.md"
 ---
 
 # 豆包实时语音 3.0 上线：全双工 + 端到端 + 工具调用，语音 Agent 的入场券被国产模型拿下

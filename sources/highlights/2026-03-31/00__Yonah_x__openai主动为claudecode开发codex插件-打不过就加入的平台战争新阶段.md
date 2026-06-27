@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "OpenAI主动为ClaudeCode开发Codex插件：打不过就加入的平台战争新阶段"
 description: "**OpenAI放下身段主动适配竞争对手生态，标志着AI Coding工具从功能竞争进入生态互操作阶段。**  • 社区已有gstack等skill实现类似能力，OpenAI官方跟进验证了这一需求的真实性 • ClaudeCode额度稀缺（\"一句话10%\"）与Codex量大管饱形成互补，用户可能形成\"Claude规划+Codex执行\"的新工作流 • Anthropic官方不会主动接入Codex，O"
 resource: "https://x.com/i/status/2038835930493050892"
@@ -22,6 +22,13 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "codex-ecosystem-platform-war"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2038835930493050892"
+created: "2026-03-31"
+updated: "2026-06-26"
+sha256: "f38ed201a2ef21332d1d6eda98e59d3cfe7cd069ca266afceb9d49cab185b84f"
+sources:
+  - "/sources/highlights/2026-03-31/00__Yonah_x__openai主动为claudecode开发codex插件-打不过就加入的平台战争新阶段.md"
 ---
 
 # OpenAI主动为ClaudeCode开发Codex插件：打不过就加入的平台战争新阶段

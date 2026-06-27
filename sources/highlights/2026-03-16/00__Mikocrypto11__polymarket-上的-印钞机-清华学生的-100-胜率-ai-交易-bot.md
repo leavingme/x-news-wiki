@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Polymarket 上的「印钞机」：清华学生的 100% 胜率 AI 交易 bot"
 description: "**[AI 套利正在吞噬预测市场的无效定价区间]**  • 账号 k9Q2m：44,364 笔交易 100% 胜率，$1,430 → $1,550,750，单笔最大盈利 $23,600 • 核心武器：6 套对冲基金模块并行——LMSR 定价曲线预判、Kelly 仓位管理、EV 错价检测、KL  Divergence 跨周期套利 • 不是「判断」，是「计算」：每个 tick 同步跑 6 个模型，人类"
 resource: "https://x.com/i/status/2033408985970422221"
@@ -22,6 +22,13 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "ai-crypto-agent-infra"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2033408985970422221"
+created: "2026-03-16"
+updated: "2026-06-26"
+sha256: "f6c1746295c650aaa562ef21f740f99bf94e2dc6a0ff5d98a4d97ac883f51957"
+sources:
+  - "/sources/highlights/2026-03-16/00__Mikocrypto11__polymarket-上的-印钞机-清华学生的-100-胜率-ai-交易-bot.md"
 ---
 
 # Polymarket 上的「印钞机」：清华学生的 100% 胜率 AI 交易 bot

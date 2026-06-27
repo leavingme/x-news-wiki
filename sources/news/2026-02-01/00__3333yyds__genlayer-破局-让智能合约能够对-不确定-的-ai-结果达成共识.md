@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "GenLayer 破局：让智能合约能够对“不确定”的 AI 结果达成共识"
 description: "**[区块链与 AI 的最后桥梁]** GenLayer 解决了区块链死板的确定性限制，允许节点对不确定的互联网结果进行共识验证。 - **星星里程碑**：开发者对 GenLayer 的关注从“人气”转向真实的“运行”，标志着开发者对该技术的认可。 - **智能连接**：它让智能合约真正连接互联网，处理非结构化、不确定的 AI 输出，而不再局限于简单的数学计算。 - **范式打破**：打破了传统区"
 resource: "https://x.com/i/status/2017909624301842594"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2017909624301842594"
+created: "2026-02-01"
+updated: "2026-06-26"
+sha256: "000e571a2518f5d3e7264abf59ff5c3c8140699095d02f13138b1b4b20f8fa3e"
+sources:
+  - "/sources/news/2026-02-01/00__3333yyds__genlayer-破局-让智能合约能够对-不确定-的-ai-结果达成共识.md"
 ---
 
 # GenLayer 破局：让智能合约能够对“不确定”的 AI 结果达成共识

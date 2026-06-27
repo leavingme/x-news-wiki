@@ -1,5 +1,5 @@
 ---
-type: "Author"
+type: "entity"
 title: "Remotion (@Remotion)"
 description: "X/Twitter 作者 @Remotion。共收录 1 条 AI 精选推文。"
 tags:
@@ -12,6 +12,12 @@ x_author_name: "Remotion"
 x_tweet_count: 1
 x_first_seen: "2026-05-04T16:18:02.824Z"
 x_last_seen: "2026-05-04T16:18:02.824Z"
+type_okf: "Author"
+created: "2026-05-04"
+updated: "2026-06-26"
+sha256: "18cdec3c9ef8b009b8e167e449771e2dddcdc0ec6eac063c72ae61f602dd73c8"
+sources:
+  - "/sources/news/2026-05-04/00__Remotion__remotion-把-html-in-canvas-升级为一等原语-程序化视频生成的渲染范式迁移.md"
 ---
 
 # Remotion (@Remotion)

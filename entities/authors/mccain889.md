@@ -1,5 +1,5 @@
 ---
-type: "Author"
+type: "entity"
 title: "Andrew (@McCain889)"
 description: "X/Twitter 作者 @McCain889。共收录 1 条 AI 精选推文。"
 tags:
@@ -12,6 +12,12 @@ x_author_name: "Andrew"
 x_tweet_count: 1
 x_first_seen: "2026-03-30T00:43:26.034Z"
 x_last_seen: "2026-03-30T00:43:26.034Z"
+type_okf: "Author"
+created: "2026-03-30"
+updated: "2026-06-26"
+sha256: "0b27ff3a09e7f5959ef6aff9ad2575e8921867a23f354ca60f8299e32f9d5496"
+sources:
+  - "/sources/highlights/2026-03-30/00__McCain889__agent-从-工具层-跃入-经济层-链上生产闭环已不是概念.md"
 ---
 
 # Andrew (@McCain889)

@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "OpenAI 通用推理模型自主攻克 80 年数学难题：足够强的推理能力到了阈值后创造性自然涌现"
 description: "**OpenAI 内部通用推理模型解开了 Erdos 1946 年提出的平面单位距离问题，chain of thought 长 125 页。核心手法是从代数数论引入工具解离散几何问题——这个跨领域连接是人类 80 年没想到的。更重要的是：此模型并非专门为数学训练，是通用推理模型。  这意味着 AI 能力的跃升不是通过专项训练实现的，而是足够强的通用推理能力突破某个阈值后，创造性作为涌现特性自然出现"
 resource: "https://x.com/i/status/2057380350188482592"
@@ -22,6 +22,13 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "reasoning-and-model-architecture"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2057380350188482592"
+created: "2026-05-21"
+updated: "2026-06-26"
+sha256: "b929fdfab14c718c3dd602dfe08b3c2819335d9fdfe1a3740e1beb09998ea827"
+sources:
+  - "/sources/highlights/2026-05-21/00__oran_ge__openai-通用推理模型自主攻克-80-年数学难题-足够强的推理能力到了阈值后创造性自然涌现.md"
 ---
 
 # OpenAI 通用推理模型自主攻克 80 年数学难题：足够强的推理能力到了阈值后创造性自然涌现

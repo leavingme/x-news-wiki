@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "腾讯 Hy3 Preview 开源：295B 参数 A21B 架构，推理 Agent 进入「大厂开源」竞争新阶段"
 description: "**一句话核心判断：腾讯 Hy3 以 295B 参数、A21B 架构在同规模推理 Agent 模型中做到成本效率领先，标志大厂开源模型正式进入「好用+免费」阶段，中小玩家空间进一步收窄。**  - Hy3 preview 主打推理和 Agent 双重能力，295B 规模在同类产品中具备竞争力 - 强调成本效率，精准针对企业级部署痛点 - 大厂开源推理模型蔚然成风，Huggingface 生态加速洗"
 resource: "https://x.com/TencentHunyuan/status/2047347774501634251"
@@ -22,6 +22,13 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "reasoning-and-model-architecture"
 x_source: "ai-trend-digest"
+type_okf: "X Tweet"
+source_url: "https://x.com/TencentHunyuan/status/2047347774501634251"
+created: "2026-04-23"
+updated: "2026-06-26"
+sha256: "b12a5a011d263c86faf977c72e41980990992aaacdabdd30a31ef5387d6255c4"
+sources:
+  - "/sources/news/2026-04-23/00__TencentHunyuan__腾讯-hy3-preview-开源-295b-参数-a21b-架构-推理-agent-进入-大厂开源-竞争新阶段.md"
 ---
 
 # 腾讯 Hy3 Preview 开源：295B 参数 A21B 架构，推理 Agent 进入「大厂开源」竞争新阶段

@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "玉伯反直觉洞察：iPhone 不是第一个智能手机，为何大家还在抢「第一」的名义？"
 description: "**【一句话核心判断】** 「第一」是旧大陆的竞争规则，AI 时代的产品逻辑已经完全变了——先发优势不再等于市场主导权。  **信息增量：** • 玉伯列举的反例链：iPhone→Chrome→抖音→Google，全都不是各自领域的「第一」，但都成了终局玩家 • 核心设问：既然历史一次次证明「第一」并不重要，为何创业者和营销者仍然执着于这个叙事？ • 隐含判断：可能是因为「第一」是一个最容易记忆的"
 resource: "https://x.com/i/status/2040415276680806782"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2040415276680806782"
+created: "2026-04-04"
+updated: "2026-06-26"
+sha256: "960cdef01e759b4a09f698be7dfc291d6154edce5baa7a32b81ce1270819e0e5"
+sources:
+  - "/sources/news/2026-04-05/00__lifesinger__玉伯反直觉洞察-iphone-不是第一个智能手机-为何大家还在抢-第一-的名义.md"
 ---
 
 # 玉伯反直觉洞察：iPhone 不是第一个智能手机，为何大家还在抢「第一」的名义？

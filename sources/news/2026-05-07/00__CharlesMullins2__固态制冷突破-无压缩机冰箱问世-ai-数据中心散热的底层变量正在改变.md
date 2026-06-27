@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "固态制冷突破：无压缩机冰箱问世，AI 数据中心散热的底层变量正在改变"
 description: "**电卡效应固态制冷实现了 3-4.5K 温降、超千万次循环、无运动部件——这不只是家电革命，更是 AI 算力基础设施的潜在拐点。**  - 无需压缩机和制冷剂，仅靠电场驱动陶瓷电容器的温度变化 - 预计卡诺效率 70-90%，寿命远超传统压缩机 - 数据中心散热是 AI 算力扩张的硬约束之一，固态制冷若规模化将重塑机房设计  gakki 锐评：AI 行业天天卷模型参数，但真正卡脖子的可能是「谁能"
 resource: "https://x.com/CharlesMullins2/status/2052381241681514612"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "ai-trend-digest"
+type_okf: "X Tweet"
+source_url: "https://x.com/CharlesMullins2/status/2052381241681514612"
+created: "2026-05-07"
+updated: "2026-06-26"
+sha256: "7edbb771a57197926414c666cee8847ba0ff74726c4966a4b6f8688948e48bc3"
+sources:
+  - "/sources/news/2026-05-07/00__CharlesMullins2__固态制冷突破-无压缩机冰箱问世-ai-数据中心散热的底层变量正在改变.md"
 ---
 
 # 固态制冷突破：无压缩机冰箱问世，AI 数据中心散热的底层变量正在改变

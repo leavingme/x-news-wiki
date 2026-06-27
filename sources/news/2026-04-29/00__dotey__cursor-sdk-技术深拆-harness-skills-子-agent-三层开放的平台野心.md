@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Cursor SDK 技术深拆：harness + skills + 子 agent 三层开放的平台野心"
 description: "**Cursor SDK 不只是开放 API，而是把整套 Agent 编排基础设施商品化。**  - 宝玉详细拆解：SDK 包含代码库索引、语义搜索、即时 grep、MCP 工具接入、.cursor/skills/ 技能自动加载、agent 循环 hooks、子 agent 拆分 - 云端沙箱模式：每个 agent 独立 VM + 克隆仓库 + 完整开发环境，断网续跑，完成后自动开 PR - 官方"
 resource: "https://x.com/i/status/2049541257756811517"
@@ -22,6 +22,13 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "codex-ecosystem-platform-war"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2049541257756811517"
+created: "2026-04-29"
+updated: "2026-06-26"
+sha256: "82b51506608b85901b4cf1cf7d5408673bd2c7cfb3a3dc8deb3d24edc656f3dc"
+sources:
+  - "/sources/news/2026-04-29/00__dotey__cursor-sdk-技术深拆-harness-skills-子-agent-三层开放的平台野心.md"
 ---
 
 # Cursor SDK 技术深拆：harness + skills + 子 agent 三层开放的平台野心

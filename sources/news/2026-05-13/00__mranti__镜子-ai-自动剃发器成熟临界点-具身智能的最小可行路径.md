@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "镜子 + AI = 自动剃发器成熟临界点：具身智能的最小可行路径"
 description: "**[AI 剃发器的具身逻辑：镜子是视觉反馈，AI 是决策闭环]**  Michael Anti 提出「镜子 + AI + 自动剃发器」组合的核心洞察：镜子提供了视觉反馈回路，使 AI 能够纠正姿态和位置偏差。这个框架恰好是具身智能最朴素的标准范式——感知-决策-执行。疫情三年自动剃发器进步迅速，说明成熟硬件 + AI 就是消费级具身智能的最快落地路径，比特斯拉 Optimus 早了整整一个产业周"
 resource: "https://x.com/i/status/2053686033469067377"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2053686033469067377"
+created: "2026-05-11"
+updated: "2026-06-26"
+sha256: "14ce8521eb1d78231a1131c2c614f56fe3174a3f1b3457cdc32229d757cbfda7"
+sources:
+  - "/sources/news/2026-05-13/00__mranti__镜子-ai-自动剃发器成熟临界点-具身智能的最小可行路径.md"
 ---
 
 # 镜子 + AI = 自动剃发器成熟临界点：具身智能的最小可行路径

@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "反驳：Anthropic 表面工程师驱动，实为营销驱动"
 description: "**[对 Anthropic 文化基因的反面解读，值得并列观察]**  - 铁锤人认为 Anthropic 的「工程师驱动」只是表象，本质是精心设计的营销叙事 - 与小互的观察形成对立视角：同一组织被不同人解读为截然不同的驱动模式  gakki 锐评：能同时被解读为「太工程师」和「太营销」，恰恰说明 Anthropic 找到了一个甜蜜点——让工程师觉得自己在跟工程师对话，让市场觉得产品有技术深度。"
 resource: "https://x.com/i/status/2050770413777457651"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2050770413777457651"
+created: "2026-05-03"
+updated: "2026-06-26"
+sha256: "44fb0fbcdabbcd6811dd568f1289d0ba26d57a881759f5e74ad35d2da246beeb"
+sources:
+  - "/sources/news/2026-05-03/00__lxfater__反驳-anthropic-表面工程师驱动-实为营销驱动.md"
 ---
 
 # 反驳：Anthropic 表面工程师驱动，实为营销驱动

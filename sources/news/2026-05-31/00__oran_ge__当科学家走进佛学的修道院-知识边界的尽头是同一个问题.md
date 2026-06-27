@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "当科学家走进佛学的修道院：知识边界的尽头是同一个问题"
 description: "**[一句话核心判断]**  Orange AI 推荐了一篇文章，标题为「科学与佛学的十字路口」——一个在 AI 时代重新被激活的古老命题：人类最顶尖的理性思维与最古老的内观智慧，最终是否指向同一个实在？  - 对 AI 研究者的意义：当前大模型在「涌现」「意识」「对齐」上的困惑，与 100 年前哲学家和科学家共同的困境高度同构。 - 传播价值：这个话题在 X 上的讨论烈度，往往与 AI 能力突破"
 resource: "https://x.com/i/status/2061025993595420990"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2061025993595420990"
+created: "2026-05-31"
+updated: "2026-06-26"
+sha256: "0916eae46becc9881e4c98c17cc862deb1c65720180d51f02f480ef496cb6646"
+sources:
+  - "/sources/news/2026-05-31/00__oran_ge__当科学家走进佛学的修道院-知识边界的尽头是同一个问题.md"
 ---
 
 # 当科学家走进佛学的修道院：知识边界的尽头是同一个问题

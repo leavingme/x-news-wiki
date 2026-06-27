@@ -1,5 +1,5 @@
 ---
-type: "Author"
+type: "entity"
 title: "Stephen Duan (@sd_eigen)"
 description: "X/Twitter 作者 @sd_eigen。共收录 1 条 AI 精选推文。"
 tags:
@@ -12,6 +12,12 @@ x_author_name: "Stephen Duan"
 x_tweet_count: 1
 x_first_seen: "2026-04-02T21:49:23.000Z"
 x_last_seen: "2026-04-02T21:49:23.000Z"
+type_okf: "Author"
+created: "2026-04-02"
+updated: "2026-06-26"
+sha256: "ba68163c54d3f6703543968d34177379de0c75eeb769a9484092f9698d2c9514"
+sources:
+  - "/sources/highlights/2026-04-02/00__sd_eigen__goat升级为-经济主体-ziren可验证计算网络-x402支付-erc-8004声誉系统三位合体.md"
 ---
 
 # Stephen Duan (@sd_eigen)

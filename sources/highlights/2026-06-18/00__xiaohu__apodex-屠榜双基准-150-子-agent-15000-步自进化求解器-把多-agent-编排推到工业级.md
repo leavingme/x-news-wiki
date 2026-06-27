@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Apodex 屠榜双基准：150 子 Agent + 15000 步自进化求解器，把多 Agent 编排推到工业级"
 description: "**[Deep Research Agent 出新物种：自进化重型求解器在多 Agent 编排上做出工程级实证]** - 单任务最多派 150 个子 Agent 异步并行，总步数上限 15000；共享报告池 + 编排器异步读取，不被最慢的子任务拖垮 - 三层自我验证机制：冲突审查员、事实检查员、草稿审查员，最后全局把关；工作流为「深度研究—自我校验—撰写」 - 基准成绩亮眼：BrowseComp "
 resource: "https://x.com/i/status/2067487053953294574"
@@ -22,6 +22,13 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "deep-research-agent"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2067487053953294574"
+created: "2026-06-18"
+updated: "2026-06-26"
+sha256: "6416184eea1007b1f1d914a43af50c8be85b0b988492f9da9daf16248abf588c"
+sources:
+  - "/sources/highlights/2026-06-18/00__xiaohu__apodex-屠榜双基准-150-子-agent-15000-步自进化求解器-把多-agent-编排推到工业级.md"
 ---
 
 # Apodex 屠榜双基准：150 子 Agent + 15000 步自进化求解器，把多 Agent 编排推到工业级

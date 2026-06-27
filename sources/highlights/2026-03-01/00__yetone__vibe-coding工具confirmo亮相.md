@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Vibe Coding工具Confirmo亮相"
 description: "开发者yetone展示Vibe Coding与Confirmo的结合应用，进一步降低编程门槛，展现自然语言驱动开发的新可能。"
 resource: "https://x.com/i/status/2027749414450933880"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2027749414450933880"
+created: "2026-02-28"
+updated: "2026-06-26"
+sha256: "a10964f3ac8626048b2a3d80694701042dd8305899e9398a22738da6f0a01dfc"
+sources:
+  - "/sources/highlights/2026-03-01/00__yetone__vibe-coding工具confirmo亮相.md"
 ---
 
 # Vibe Coding工具Confirmo亮相

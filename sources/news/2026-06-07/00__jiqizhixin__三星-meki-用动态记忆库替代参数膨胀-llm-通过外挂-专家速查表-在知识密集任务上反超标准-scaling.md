@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "三星 MeKi：用动态记忆库替代参数膨胀，LLM 通过外挂「专家速查表」在知识密集任务上反超标准 scaling"
 description: "**MeKi 提出「Memory-based Expert Knowledge Injection」，把专家知识做成可动态检索的外挂记忆库，让模型去 reference 而不是 memorize。**  - 核心思路：不再靠堆参数让模型学会所有知识，而是给 LLM 一个动态 memory bank 作为 cheat sheet，按需查询。 - 在 reasoning 和 factual recal"
 resource: "https://x.com/i/status/2063695738417406075"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2063695738417406075"
+created: "2026-06-07"
+updated: "2026-06-26"
+sha256: "4b9649a80f998aca116185ea98a485f59607f37b69b7df6e8384e7459da517a9"
+sources:
+  - "/sources/news/2026-06-07/00__jiqizhixin__三星-meki-用动态记忆库替代参数膨胀-llm-通过外挂-专家速查表-在知识密集任务上反超标准-scaling.md"
 ---
 
 # 三星 MeKi：用动态记忆库替代参数膨胀，LLM 通过外挂「专家速查表」在知识密集任务上反超标准 scaling

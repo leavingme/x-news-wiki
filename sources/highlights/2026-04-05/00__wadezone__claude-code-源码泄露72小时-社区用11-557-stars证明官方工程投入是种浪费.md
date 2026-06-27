@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Claude Code 源码泄露72小时：社区用11,557 Stars证明官方工程投入是种浪费"
 description: "**[Anthropic雇了几百工程师做的工具，社区三天做出了更好用的版本]**  Claude Code 源码意外泄露后，Anthropic 官方保持沉默。开发者社区在72小时内完成拆解、改造、去限制、加搜索、修bug，最终产出开源版本——这个过程本应是官方工程师花几个月才能排上日程的工作。  核心信号：开源社区的分布式试错正在以数量级优势碾压官方集中式开发。当一个工具的代码泄露后社区比官方更快"
 resource: "https://x.com/i/status/2040387896541380876"
@@ -22,6 +22,13 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "claude-code-leaked-architecture"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2040387896541380876"
+created: "2026-04-04"
+updated: "2026-06-26"
+sha256: "0575f1449bf2aa8165dfa51a5573919b03f204ec75dda0e4a6b3d3f13a01d4e1"
+sources:
+  - "/sources/highlights/2026-04-05/00__wadezone__claude-code-源码泄露72小时-社区用11-557-stars证明官方工程投入是种浪费.md"
 ---
 
 # Claude Code 源码泄露72小时：社区用11,557 Stars证明官方工程投入是种浪费

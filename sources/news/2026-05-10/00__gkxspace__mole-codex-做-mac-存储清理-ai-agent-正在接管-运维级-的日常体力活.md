@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Mole + Codex 做 Mac 存储清理：AI Agent 正在接管「运维级」的日常体力活"
 description: "**Agent 的价值不只是写代码，而是把「想起来才做」的维护任务变成一行命令的事。**  - Mole 的 `mo clean` 做第一轮清理，Codex 再扫一遍大文件和缓存，两步清理 100G+ - 这种「工具链接力」模式正在成为开发者的新日常——Agent 不是替代人，是替代人懒得做的事 - 存储管理这类低创造性高重复性任务，是 Agent 最早产生实际体感价值的场景"
 resource: "https://x.com/i/status/2053482241771065732"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2053482241771065732"
+created: "2026-05-10"
+updated: "2026-06-26"
+sha256: "395b98b5f6225b687997d8fa00a9b4eb464b4ff3e72c5ef834a4ec976c8fc071"
+sources:
+  - "/sources/news/2026-05-10/00__gkxspace__mole-codex-做-mac-存储清理-ai-agent-正在接管-运维级-的日常体力活.md"
 ---
 
 # Mole + Codex 做 Mac 存储清理：AI Agent 正在接管「运维级」的日常体力活

@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "DeepSeek 比 Opus 4.8 便宜10倍还说人话？一场来自一线的模型选型证词"
 description: "**[ DeepSeek 的「性价比叙事」正在从技术圈扩散到实际工作流 ]**  有文案工作者明确表示 DeepSeek 相比 Opus 4.8「好得不是一点半点」，核心论点集中在两点：成本极低、输出更贴近人类自然语言。这条证词值得关注，因为它来自实际生产者，而非 benchmark 刷分。  这意味着在非推理类、长文本创作场景，更廉价的模型已经开始侵蚀 Claude Opus 的高端市场份额。价"
 resource: "https://x.com/i/status/2061307856285225370"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2061307856285225370"
+created: "2026-06-01"
+updated: "2026-06-26"
+sha256: "c9d280cea464460ab1b214d7c4a39bea1b5e4ccd4687ecb9cc79261c76997f2c"
+sources:
+  - "/sources/news/2026-06-01/00__lxfater__deepseek-比-opus-4-8-便宜10倍还说人话-一场来自一线的模型选型证词.md"
 ---
 
 # DeepSeek 比 Opus 4.8 便宜10倍还说人话？一场来自一线的模型选型证词

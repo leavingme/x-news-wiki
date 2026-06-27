@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "10 个开源项目正在逐个击碎你的付费订阅清单：SaaS 护城河被按场景拆解"
 description: "**一份 10 项开源清单覆盖交易、聊天、视频、设计全场景：按月订阅的护城河正在被场景化击穿。**  - TradingAgents：本地版「华尔街精英团队」，并行基本面/情绪/新闻/技术四类分析师 + 风控 + 执行 - LibreChat：统一界面切换 20+ 模型，自托管 + 原生 MCP，一把 API Key 顶掉 $20/月订阅 - HyperFrames：HeyGen 内部视频引擎开源"
 resource: "https://x.com/i/status/2068461138900050194"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2068461138900050194"
+created: "2026-06-20"
+updated: "2026-06-26"
+sha256: "d50316420dd2a3e42e3fe69bc3bbc0b6b37d78a67fc6327ce5029217d0286ab7"
+sources:
+  - "/sources/news/2026-06-24/00__XAMTO_AI__10-个开源项目正在逐个击碎你的付费订阅清单-saas-护城河被按场景拆解.md"
 ---
 
 # 10 个开源项目正在逐个击碎你的付费订阅清单：SaaS 护城河被按场景拆解

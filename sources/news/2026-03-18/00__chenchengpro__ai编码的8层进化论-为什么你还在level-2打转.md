@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "AI编码的8层进化论：为什么你还在Level 2打转？"
 description: "**[大多数开发者高估了模型能力，低估了工程层级]**  • Level 1-2是标配，Level 3-4才是分水岭（上下文工程+复利规则） • 「约束优于指令」：定义边界让Agent跑到通过测试，比写步骤清单更有效 • Level 8的自主Agent团队仍是研究前沿，多数人的机会在Level 4-6的工程闭环  这提供了一个清晰的自我评估框架：你现在的瓶颈不在模型，在工程层级没上去。"
 resource: "https://x.com/i/status/2033855941062606993"
@@ -22,6 +22,13 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "vibe-coding-methodology"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2033855941062606993"
+created: "2026-03-17"
+updated: "2026-06-26"
+sha256: "a06aca3db319bc2d5fda1244c9b062b2784bfefa16e5f7538bb41414fdc0d5c3"
+sources:
+  - "/sources/news/2026-03-18/00__chenchengpro__ai编码的8层进化论-为什么你还在level-2打转.md"
 ---
 
 # AI编码的8层进化论：为什么你还在Level 2打转？

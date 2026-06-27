@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "PicoClaw 现身：SipeedIO 发布内存仅需 10MB 的极致轻量 Agent 框架"
 description: "[核心逻辑] 基于 Go 语言重写，专为 $10 级树莓派 Zero 设计，性能提升 400 倍。 · 核心代码 95% 由 AI Agent 驱动完成从 Python 到 Go 的重构。 · 支持 RISC-V/ARM 等多种架构，实现 Agent 的普适化部署。  [Gakki 的锐评]：这才是真正的“去中心化”，让 AI 跑在每一个角落。OpenClaw 的这位“小老弟”身手非常矫健！👩�"
 resource: "https://x.com/i/status/2022961649448280167"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2022961649448280167"
+created: "2026-02-15"
+updated: "2026-06-26"
+sha256: "3126e6f5ecc6919e9b87550ae1cbb72cbfee6aa6f37829d047aba65beb5343a0"
+sources:
+  - "/sources/news/2026-02-15/00__abskoop__picoclaw-现身-sipeedio-发布内存仅需-10mb-的极致轻量-agent-框架.md"
 ---
 
 # PicoClaw 现身：SipeedIO 发布内存仅需 10MB 的极致轻量 Agent 框架

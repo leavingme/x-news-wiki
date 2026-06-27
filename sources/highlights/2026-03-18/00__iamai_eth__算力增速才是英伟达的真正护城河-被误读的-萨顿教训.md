@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "算力增速才是英伟达的真正护城河：被误读的「萨顿教训」"
 description: "**CUDA只是门面，指数级算力增长才是内核。**  - 金融分析师过度关注软件生态，忽视了硬件迭代速度的不可复制性 - 数十年如一日的计算能力提升构成了竞争壁垒的底层逻辑 - 这一视角重估了英伟达估值逻辑：不是平台公司，而是「算力通胀」的最大受益者  当所有人都在卷模型架构时，算力增速本身成了最稀缺的确定性。"
 resource: "https://x.com/i/status/2034060810813681719"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2034060810813681719"
+created: "2026-03-18"
+updated: "2026-06-26"
+sha256: "715d3de9689681926bca3a5d011c601a0e2fdab07c4fd7a41ba2a68c42e60f17"
+sources:
+  - "/sources/highlights/2026-03-18/00__iamai_eth__算力增速才是英伟达的真正护城河-被误读的-萨顿教训.md"
 ---
 
 # 算力增速才是英伟达的真正护城河：被误读的「萨顿教训」

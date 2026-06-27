@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "把 5 年聊天记录喂给 Claude Code：个人数据 → 自我心理分析的 AI 闭环"
 description: "**[一句话核心判断]** levelsio 提出一个被低估的个人 AI 用法：导出多年聊天日志丢进 Claude Code，让模型对你的说话模式、情绪波动、关注焦点做长程心理画像。  - **个人数据资产化**：用户沉淀的聊天记录从「隐私负担」变为「自我认知的原始语料」，本地导入 + Claude Code 即可完成 5 年回溯分析。 - **Agent 记忆平民化**：不需要专门的知识库、不需"
 resource: "https://x.com/i/status/2070219230398632123"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2070219230398632123"
+created: "2026-06-25"
+updated: "2026-06-26"
+sha256: "24102b398e6ca1c6e0bbe870e0d1bbb706a28db2230d6c29929b4d57e5bb75c2"
+sources:
+  - "/sources/news/2026-06-25/00__levelsio__把-5-年聊天记录喂给-claude-code-个人数据-自我心理分析的-ai-闭环.md"
 ---
 
 # 把 5 年聊天记录喂给 Claude Code：个人数据 → 自我心理分析的 AI 闭环

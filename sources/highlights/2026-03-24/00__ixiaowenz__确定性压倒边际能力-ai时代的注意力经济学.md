@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "确定性压倒边际能力：AI时代的注意力经济学"
 description: "**[模型能力≠工具表现，确定性才是稀缺资源]** • 作者基于完全自研 Agent 的实测经验，指出模型在工具中的表现与模型能力本身是两个维度 • Kimi 的核心优势是「平均意义上的确定性最足」——打回率最低、注意力浪费最少 • 在 AI 时代，人自己的注意力才是最稀缺资源，确定性直接等于效率与舒适度 • 建议：与其追求最贵最强的模型，不如先理解 LLM 原理，建立更可靠的确定性提取能力  g"
 resource: "https://x.com/i/status/2035912034450284712"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2035912034450284712"
+created: "2026-03-23"
+updated: "2026-06-26"
+sha256: "7159502715b810c0ad97d019a896b1e2802549534eca6564cb3eb08dacf3a4ca"
+sources:
+  - "/sources/highlights/2026-03-24/00__ixiaowenz__确定性压倒边际能力-ai时代的注意力经济学.md"
 ---
 
 # 确定性压倒边际能力：AI时代的注意力经济学

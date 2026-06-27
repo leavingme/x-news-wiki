@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "北大视觉定位新范式：置信度自检让 AI 「知其不知」"
 description: "**[一句话核心判断]**  北大团队提出视觉定位新方法，通过内建置信度评分和动态自纠正机制，让模型在训练阶段就能识别并修正不可靠的预测——这解决了视觉-语言模型中「错得自信」的核心难题。  **信息增量：** - 五大主流基准超越以往方法，证明自纠正路径在视觉定位任务上可工程化 - 核心创新是将「知道自己的不确定性」内置于训练过程，而非事后检测 - 对涉及安全关键的视觉 AI 应用（如自动驾驶、"
 resource: "https://x.com/i/status/2047530471416873249"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2047530471416873249"
+created: "2026-04-24"
+updated: "2026-06-26"
+sha256: "97ed803e958a15c91b3cf204f1f6cf371f43201975275c2cf0419eedebd81bc5"
+sources:
+  - "/sources/news/2026-04-24/00__jiqizhixin__北大视觉定位新范式-置信度自检让-ai-知其不知.md"
 ---
 
 # 北大视觉定位新范式：置信度自检让 AI 「知其不知」

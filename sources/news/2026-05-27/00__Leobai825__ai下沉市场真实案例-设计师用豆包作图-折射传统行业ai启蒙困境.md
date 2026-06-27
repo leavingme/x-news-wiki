@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "AI下沉市场真实案例：设计师用豆包作图，折射传统行业AI启蒙困境"
 description: "**AI下沉市场的真实瓶颈不是技术，是认知惯性。**  案例中设计师已用AI工具（豆包）替代传统设计流程，说明AI已渗透至最基础的创意岗位。但用户（天策）主动推广中转站并获得「忠实用户」，揭示了一个未被满足的需求——如何让传统从业者用上更专业的AI工具。  这个案例的信号意义大于商业价值：AI工具的渗透率在非技术人群中正在提升。  **gakki锐评：** 「你用豆包，我推中转站」——这种在地化的"
 resource: "https://x.com/i/status/2059572425218498747"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2059572425218498747"
+created: "2026-05-27"
+updated: "2026-06-26"
+sha256: "4862d44011fbe0798570f8c4098fe3d2b9b5217957caace54a8f5bf6962c566e"
+sources:
+  - "/sources/news/2026-05-27/00__Leobai825__ai下沉市场真实案例-设计师用豆包作图-折射传统行业ai启蒙困境.md"
 ---
 
 # AI下沉市场真实案例：设计师用豆包作图，折射传统行业AI启蒙困境

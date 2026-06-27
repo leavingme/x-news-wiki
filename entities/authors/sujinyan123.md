@@ -1,5 +1,5 @@
 ---
-type: "Author"
+type: "entity"
 title: "susun (@SuJinYan123)"
 description: "X/Twitter 作者 @SuJinYan123。共收录 1 条 AI 精选推文。"
 tags:
@@ -12,6 +12,12 @@ x_author_name: "susun"
 x_tweet_count: 1
 x_first_seen: "2026-04-19T00:45:06.245Z"
 x_last_seen: "2026-04-19T00:45:06.245Z"
+type_okf: "Author"
+created: "2026-04-19"
+updated: "2026-06-26"
+sha256: "efd197e04b7fe512356d187cc1c93fcd576e334c5a9a5276d16595092eb56494"
+sources:
+  - "/sources/news/2026-04-19/00__SuJinYan123__qwen3-5-4b推理从17秒暴降至235毫秒-国产小模型已触及工程极限.md"
 ---
 
 # susun (@SuJinYan123)

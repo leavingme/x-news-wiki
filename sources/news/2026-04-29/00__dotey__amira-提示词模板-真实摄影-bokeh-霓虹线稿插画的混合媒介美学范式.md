@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Amira 提示词模板：真实摄影 Bokeh + 霓虹线稿插画的混合媒介美学范式"
 description: "**一句话核心判断** 这组提示词模板的真正价值不在于「好看」，而在于它验证了一种新的 AI 图像生成范式——混合媒介风格比单一风格更难被 AI 味识别。  **后续要点** - 真实模糊背景（Bokeh）+ 霓虹线稿 + 涂鸦散件的组合，在视觉层面制造了「难以归类」的美学特征 - 这种混合媒介风格恰好绕过了 AI 图像的「恐怖谷」——当图像无法被定义为「AI 生成风格」，AI 味就消失了 - 提"
 resource: "https://x.com/i/status/2049350241816563945"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2049350241816563945"
+created: "2026-04-29"
+updated: "2026-06-26"
+sha256: "2a4b8b7bf2eb3615bec6068c373354028d580c4c4c61e4e0def4e12b79d12e43"
+sources:
+  - "/sources/news/2026-04-29/00__dotey__amira-提示词模板-真实摄影-bokeh-霓虹线稿插画的混合媒介美学范式.md"
 ---
 
 # Amira 提示词模板：真实摄影 Bokeh + 霓虹线稿插画的混合媒介美学范式

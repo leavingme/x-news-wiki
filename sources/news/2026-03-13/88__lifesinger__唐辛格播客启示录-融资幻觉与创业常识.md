@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "唐辛格播客启示录：融资幻觉与创业常识"
 description: "**融资很容易带来幻觉，常识是「意识到自己忘了的东西」。** • 融资放大贪嗔痴：5000万美元迅速烧光3000万，最后靠聚焦小点才活下来 • 改变世界容易骗自己，小事情（两三个月能盈利）才是可持续路径 • 不是所有问题都要解决，要基于资源、资金和长期兴趣谨慎选择  --- **Gakki锐评**：Agent创业同样适用——「我想做一个Agent平台」是改变世界，「我用Agent帮客户省30%客服"
 resource: "https://x.com/i/status/2031975332086161424"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 88
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2031975332086161424"
+created: "2026-03-12"
+updated: "2026-06-26"
+sha256: "4eee745f659c4efdcafa36f568d23904d0c2f2a1bddbbd0c3726055cd4e2906e"
+sources:
+  - "/sources/news/2026-03-13/88__lifesinger__唐辛格播客启示录-融资幻觉与创业常识.md"
 ---
 
 # 唐辛格播客启示录：融资幻觉与创业常识

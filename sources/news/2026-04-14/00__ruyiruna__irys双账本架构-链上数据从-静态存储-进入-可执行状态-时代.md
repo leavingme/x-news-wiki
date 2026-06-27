@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Irys双账本架构：链上数据从「静态存储」进入「可执行状态」时代"
 description: "**[存储与计算的边界正在消失，链上数据正在获得「行为能力」]  Irys的核心创新不是再造一条链，而是重构数据在链上的存在形态：  双账本分离验证与存储：Submit Ledger用轻量PoW+PoS做高速验证（号称10万TPS），Publish Ledger做长期存档，数据通过IrysVM直接被拿来跑逻辑。  对AI Agent的意义：当数据不再只是\"被存\"，而是可以\"被调用执行\"，链上AI工"
 resource: "https://x.com/i/status/1975170784239710681"
@@ -22,6 +22,13 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "ai-data-blockchain-verification"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/1975170784239710681"
+created: "2025-10-06"
+updated: "2026-06-26"
+sha256: "ef8402122191e8d43b97cfddedc0d0294ff0153478ddc18f94e7064a67985715"
+sources:
+  - "/sources/news/2026-04-14/00__ruyiruna__irys双账本架构-链上数据从-静态存储-进入-可执行状态-时代.md"
 ---
 
 # Irys双账本架构：链上数据从「静态存储」进入「可执行状态」时代

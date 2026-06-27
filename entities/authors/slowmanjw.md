@@ -1,5 +1,5 @@
 ---
-type: "Author"
+type: "entity"
 title: "一个慢交易的人TraderMan (@SlowManJW)"
 description: "X/Twitter 作者 @SlowManJW。共收录 1 条 AI 精选推文。"
 tags:
@@ -12,6 +12,12 @@ x_author_name: "一个慢交易的人TraderMan"
 x_tweet_count: 1
 x_first_seen: "2026-01-31T04:40:55.878Z"
 x_last_seen: "2026-01-31T04:40:55.878Z"
+type_okf: "Author"
+created: "2026-01-31"
+updated: "2026-06-26"
+sha256: "e82cd9b376bea517f5c81e3023bda4dfd2e254099d402a8e89fb6aa511205409"
+sources:
+  - "/sources/news/2026-01-31/00__SlowManJW__ai-进化真相-它是你的-数字员工.md"
 ---
 
 # 一个慢交易的人TraderMan (@SlowManJW)

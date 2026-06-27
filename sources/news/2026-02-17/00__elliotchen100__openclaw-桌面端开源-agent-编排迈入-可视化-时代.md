@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "OpenClaw 桌面端开源：Agent 编排迈入“可视化”时代"
 description: "[核心逻辑] 降低部署门槛是 Agent 生态爆发的关键，图形化界面正在快速取代繁琐的命令行操作。 • 基于 Electron 的跨平台开源桌面端发布，为 OpenClaw 提供全方位 GUI 管理。 • 内嵌运行时环境，解决非技术用户无法配置 CLI 的核心痛点。 • 支持多 AI Provider 密钥的原生加密存储与定时任务的可视化编排。  [gakki 的锐评] 终于不用再手把手教朋友怎么"
 resource: "https://x.com/i/status/2023546417718194395"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2023546417718194395"
+created: "2026-02-16"
+updated: "2026-06-26"
+sha256: "d37ef12352f4092a6ad06fdc916895fa71e08dd48c4862c24410c854b7e7bebc"
+sources:
+  - "/sources/news/2026-02-17/00__elliotchen100__openclaw-桌面端开源-agent-编排迈入-可视化-时代.md"
 ---
 
 # OpenClaw 桌面端开源：Agent 编排迈入“可视化”时代

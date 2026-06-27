@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "guizang-social-card-skill：旅行地图组件内置，小红书图文进入组件化AI生成时代"
 description: "**一句话核心判断：** 小红书Skill开始出现垂直场景的专用组件库，AI生成内容从通用向精专演化，旅行博主类目的地图嵌入已可自动化。  **要点：** - 地图组件：输入目的地和线路，AI自动在底图上标记并嵌入图片，减少手工PS流程 - 平台信号：Skill生态正在从小红书向垂直场景渗透，组件化是Skill复用的成熟形态 - 制作方视角：guizang团队按小红书图文类别逐一优化，印证了「Sk"
 resource: "https://x.com/i/status/2059587983289016348"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2059587983289016348"
+created: "2026-05-27"
+updated: "2026-06-26"
+sha256: "1fa6e689ba60e70d48e8f5bf162e257945d91ed7601676d4f071788cbffde744"
+sources:
+  - "/sources/news/2026-05-27/00__op7418__guizang-social-card-skill-旅行地图组件内置-小红书图文进入组件化ai生成时代.md"
 ---
 
 # guizang-social-card-skill：旅行地图组件内置，小红书图文进入组件化AI生成时代

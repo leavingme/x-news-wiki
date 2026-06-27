@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "波士顿动力 Atlas 新视频：人形机器人的「柔韧度天花板」被再次抬高"
 description: "**Atlas 的最新展示在平衡性、灵活性和柔韧度上达到了前所未有的高度，传统人形机器人设计范式正在被颠覆。**  - 波士顿动力持续拉高具身智能的物理执行上限，这是「AI 大脑」落地的关键硬件前提 - 从液压到电驱的转型后，Atlas 证明了新架构在动态性能上没有妥协 - 当硬件执行能力追上 AI 决策能力时，具身 Agent 的商业化窗口才真正打开  **gakki 锐评：** 硬件进步是具身"
 resource: "https://x.com/i/status/2051822517862780937"
@@ -22,6 +22,13 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "embodied-ai-supply-chain"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2051822517862780937"
+created: "2026-05-06"
+updated: "2026-06-26"
+sha256: "c5500634b6898d77be85a3f94171666f159f0131518d329b1f0149f6566efe81"
+sources:
+  - "/sources/news/2026-05-06/00__xiaohu__波士顿动力-atlas-新视频-人形机器人的-柔韧度天花板-被再次抬高.md"
 ---
 
 # 波士顿动力 Atlas 新视频：人形机器人的「柔韧度天花板」被再次抬高

@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Codex '/goal'功能实测：自主工作一小时构建完整游戏，Agent循环范式落地"
 description: "**Agent从「单次调用」进化到「持续目标驱动」的标志性功能。**  - Codex新推'/goal'功能：给定目标后自主工作直到完成，实测运行超一小时构建复杂提取射击游戏 - 启用图像生成skill后可全自动产出游戏资产，无需人工创建任何素材 - 用户将其类比为「Ralph loop」，可连续运行数天  锐评：这本质上是OpenAI在验证「无人值守Agent」的产品形态。关键问题不是能不能跑，"
 resource: "https://x.com/AlexFinn/status/2050775016669839865"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "ai-trend-digest"
+type_okf: "X Tweet"
+source_url: "https://x.com/AlexFinn/status/2050775016669839865"
+created: "2026-05-03"
+updated: "2026-06-26"
+sha256: "795b7bd28333c113cc4a6026026bbf70eb3fff27de791e02d3a1965879457921"
+sources:
+  - "/sources/news/2026-05-03/00__AlexFinn__codex-goal-功能实测-自主工作一小时构建完整游戏-agent循环范式落地.md"
 ---
 
 # Codex '/goal'功能实测：自主工作一小时构建完整游戏，Agent循环范式落地

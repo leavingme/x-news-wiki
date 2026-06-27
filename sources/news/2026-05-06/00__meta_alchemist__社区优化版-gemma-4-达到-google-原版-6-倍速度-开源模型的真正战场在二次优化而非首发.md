@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "社区优化版 Gemma 4 达到 Google 原版 6 倍速度：开源模型的真正战场在二次优化而非首发"
 description: "**[开源模型的价值不在首发 Benchmark，而在社区生态的优化深度。]**  • 社区开发者对 Gemma 4 做出 6 倍速度优化（Dflash），适用于旧笔记本和手机等低算力设备 • Gemma 4 本身已是「最优化的免费开源本地 AI」的代名词，社区二次优化进一步拉大差距 • 直接指向端侧 Agent 的实用性门槛——速度翻倍意味着 real-time 交互成为可能  **gakki "
 resource: "https://x.com/meta_alchemist/status/2051947620726382660"
@@ -22,6 +22,13 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "gemma-4-mobile-agent"
 x_source: "ai-trend-digest"
+type_okf: "X Tweet"
+source_url: "https://x.com/meta_alchemist/status/2051947620726382660"
+created: "2026-05-06"
+updated: "2026-06-26"
+sha256: "c76824365d51f2ba2f743f6495884c35d26a040061d84fbb41938837355dda96"
+sources:
+  - "/sources/news/2026-05-06/00__meta_alchemist__社区优化版-gemma-4-达到-google-原版-6-倍速度-开源模型的真正战场在二次优化而非首发.md"
 ---
 
 # 社区优化版 Gemma 4 达到 Google 原版 6 倍速度：开源模型的真正战场在二次优化而非首发

@@ -1,5 +1,5 @@
 ---
-type: "Author"
+type: "entity"
 title: "Siuwawa (@0xSiuwawa)"
 description: "X/Twitter 作者 @0xSiuwawa。共收录 1 条 AI 精选推文。"
 tags:
@@ -12,6 +12,12 @@ x_author_name: "Siuwawa"
 x_tweet_count: 1
 x_first_seen: "2026-02-27T01:00:44.663Z"
 x_last_seen: "2026-02-27T01:00:44.663Z"
+type_okf: "Author"
+created: "2026-02-27"
+updated: "2026-06-26"
+sha256: "4ffd57b08ec8991f3b9d1d0dd2f17935e9a8e01dbf87ddbb9995428bab9d298e"
+sources:
+  - "/sources/highlights/2026-02-27/00__0xSiuwawa__从-openclaw-到-aaas-展望-agent-将成为类似-4g-网络的标配基础设施.md"
 ---
 
 # Siuwawa (@0xSiuwawa)

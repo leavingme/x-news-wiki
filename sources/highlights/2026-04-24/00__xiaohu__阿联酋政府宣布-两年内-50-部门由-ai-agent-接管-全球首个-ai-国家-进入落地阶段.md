@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "阿联酋政府宣布：两年内 50% 部门由 AI Agent 接管，全球首个「AI 国家」进入落地阶段"
 description: "**国家主体亲自下场，AI 治理正式进入「政府主导」时代。**  • 目标不是试点，是系统性替换：联邦公务员全员接受 AI 培训，KPI 考核推进速度，50% 政府部门、服务和运营由 AI Agent 代理运行。最高层亲自挂帅。 • 关键定性：AI 被定义为「执行伙伴」而非工具——会分析、会决策、会执行、会持续优化。这是对传统政务自动化定义的降维打击。 • 当国内还在讨论 AI 进企业、进软件时，"
 resource: "https://x.com/i/status/2047321222267253074"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2047321222267253074"
+created: "2026-04-23"
+updated: "2026-06-26"
+sha256: "b3e803bcb76cb8450e5ddd2a4e3399309ea350032c5214427622b6dad90f858f"
+sources:
+  - "/sources/highlights/2026-04-24/00__xiaohu__阿联酋政府宣布-两年内-50-部门由-ai-agent-接管-全球首个-ai-国家-进入落地阶段.md"
 ---
 
 # 阿联酋政府宣布：两年内 50% 部门由 AI Agent 接管，全球首个「AI 国家」进入落地阶段

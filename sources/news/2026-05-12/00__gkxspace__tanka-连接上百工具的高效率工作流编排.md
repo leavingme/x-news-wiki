@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Tanka：连接上百工具的高效率工作流编排"
 description: "**[Tanka的亮点在于工具数量级，而非编排概念本身]**  Tanka能连接上百个Tools并整合常用工具链，实现高效率工作。对比主流Agent编排框架，Tanka的核心差异化在于：不强调多Agent协作概念，而是走工具集成路线，降低用户的使用心智负担。  目前多Agent编排赛道已有多个玩家（OpenClaw、Hermes等），Tanka选择工具数量作为卖点，差异化定位在\"即插即用\"而非\"智"
 resource: "https://x.com/i/status/2054242129015189507"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2054242129015189507"
+created: "2026-05-12"
+updated: "2026-06-26"
+sha256: "5d993fe785f34bdef6e36df07d40fbdfd460c5844e24f5a15026a4ce1820ecdb"
+sources:
+  - "/sources/news/2026-05-12/00__gkxspace__tanka-连接上百工具的高效率工作流编排.md"
 ---
 
 # Tanka：连接上百工具的高效率工作流编排

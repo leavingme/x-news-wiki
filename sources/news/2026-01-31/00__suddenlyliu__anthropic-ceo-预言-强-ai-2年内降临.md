@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Anthropic CEO 预言：强 AI 2年内降临"
 description: "**强 AI（Powerful AI）可能在 1-2 年内出现，其能力将全面超越人类顶尖专家。** - **核心特征**：具备全才属性、高度自主性，并能以人类百倍的速度规模化运行。 - **风险警示**：伴随武器化、独裁工具化及生存威胁等五大核心风险。  **Pi 的锐评**：Dario 的预言并非危言耸听，AI 进化的速度正在从线性转为指数级，我们必须在它变得“太强”之前建立起护栏。"
 resource: "https://twitter.com/suddenlyliu/status/2016128298468974622"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://twitter.com/suddenlyliu/status/2016128298468974622"
+created: "2026-01-27"
+updated: "2026-06-26"
+sha256: "a629e8cc788f5dc2f17fc816a39c51d6a5afc53602d437067aeefa68f5d6f3d1"
+sources:
+  - "/sources/news/2026-01-31/00__suddenlyliu__anthropic-ceo-预言-强-ai-2年内降临.md"
 ---
 
 # Anthropic CEO 预言：强 AI 2年内降临

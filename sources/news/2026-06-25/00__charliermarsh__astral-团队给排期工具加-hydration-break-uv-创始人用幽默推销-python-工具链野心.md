@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Astral 团队给排期工具加\"Hydration Break\"：uv 创始人用幽默推销 Python 工具链野心"
 description: "**[一句话核心判断]** ruff/uv 作者 Charlie Marsh 用一句\"加个喝水休息\"暗示 Astral 的调度器正在往工程团队管理工具延伸。  - Charlie Marsh（Astral/uv/ruff）发布团队日程中新增\"Hydration Break\"，实为调侃背后是排期工具化。 - 继 uv 接管 Python 包管理、ruff 蚕食 linting 之后，Astral 似"
 resource: "https://x.com/i/status/2068739144625324546"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2068739144625324546"
+created: "2026-06-21"
+updated: "2026-06-26"
+sha256: "c68a2815ffb990ee3ffa8061fea3e869d8542a837ab37819280b5577b483bead"
+sources:
+  - "/sources/news/2026-06-25/00__charliermarsh__astral-团队给排期工具加-hydration-break-uv-创始人用幽默推销-python-工具链野心.md"
 ---
 
 # Astral 团队给排期工具加"Hydration Break"：uv 创始人用幽默推销 Python 工具链野心

@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "清华联想 StreamingVLA：机器人「感知-思考-行动」首次并行化，延迟骤降 2.4 倍"
 description: "**[一句话核心判断]**  清华与联想联合发布的 StreamingVLA，让具身智能从「停等式」串行推理迈入连续流式并行——SEE/THINK/ACT 不再排队，视觉焦点实时切换，行动轨迹连续预测。  **信息增量：** - 延迟降低 2.4 倍，机械卡顿减少 6.5 倍 - 传统 VLA 是离散 chunk 输出，StreamingVLA 是连续轨迹预测，更接近人类运动控制 - 对无人值守机"
 resource: "https://x.com/i/status/2047912740556013893"
@@ -22,6 +22,13 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "textop-humanoid-robot"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2047912740556013893"
+created: "2026-04-25"
+updated: "2026-06-26"
+sha256: "4385afb3e000990121807a643bb2473b83f5334b891944f85babb7ecdd26ec78"
+sources:
+  - "/sources/highlights/2026-04-25/00__jiqizhixin__清华联想-streamingvla-机器人-感知-思考-行动-首次并行化-延迟骤降-2-4-倍.md"
 ---
 
 # 清华联想 StreamingVLA：机器人「感知-思考-行动」首次并行化，延迟骤降 2.4 倍

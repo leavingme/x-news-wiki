@@ -1,5 +1,5 @@
 ---
-type: "Concept"
+type: "concept"
 title: "ai-coding-skills-commoditization"
 description: "跨日主题 \"ai-coding-skills-commoditization\"，共 2 条相关精选推文。"
 tags:
@@ -11,6 +11,13 @@ x_topic_slug: "ai-coding-skills-commoditization"
 x_tweet_count: 2
 x_first_seen: "2026-04-04T00:42:49.521Z"
 x_last_seen: "2026-04-25T12:42:27.593Z"
+type_okf: "Concept"
+created: "2026-04-04"
+updated: "2026-06-26"
+sha256: "a6e818bff4362432a53db6a8e03605ae9ada4cb1798ad0c25464836a52117e71"
+sources:
+  - "/sources/highlights/2026-04-04/00__op7418__小米-mimo-code-plan-定价曝光-ai-coding-工具正式进入-月租绞杀-时代.md"
+  - "/sources/news/2026-04-25/00__jiqizhixin__蚂蚁-nes-无提示词代码编辑-20-000-开发者已用-位置预测准确率-75-6.md"
 ---
 
 # 主题: ai-coding-skills-commoditization

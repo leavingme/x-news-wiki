@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "千问年度Top10揭示AI消费真相：2C赛道只剩「搞钱」「省时」「情绪」三条路"
 description: "**一句话核心判断** 中国AI应用消费数据出炉，Top10提示词清一色是股票/八字/情感/朋友圈文案——证明AI在C端的商业化路径高度集中于「直接经济回报」「省时间」「情绪价值」三个象限，而非「能力提升」。  **信息增量** - 具体数字分布：股票、八字、情感咨询、朋友圈文案、景点推荐、双色球、失眠、解答题目、离婚财产分割、人生意义——构成「实用主义」需求光谱 - 2C付费逻辑清晰分层：①搞钱"
 resource: "https://x.com/i/status/2062352885804093503"
@@ -22,6 +22,13 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "prompt-engineering-democratization"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2062352885804093503"
+created: "2026-06-04"
+updated: "2026-06-26"
+sha256: "fb991155721e6f0f857601f599df8287035b42622dd2a8c21ec94a44cebd92a2"
+sources:
+  - "/sources/highlights/2026-06-04/00__vista8__千问年度top10揭示ai消费真相-2c赛道只剩-搞钱-省时-情绪-三条路.md"
 ---
 
 # 千问年度Top10揭示AI消费真相：2C赛道只剩「搞钱」「省时」「情绪」三条路

@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "制度性资源垄断才是王朝溃败根因：满清案例揭示技术精英阶层的结构性缺失"
 description: "**[技术专家阶层的缺席比军事失败更致命]**  Michael Anti 提出了一个反常识的历史观察：满清统治者并非单纯输给西方船坚炮利，而是输在制度层面——没有培养出本民族的资本家、技术专家和军事家。类比印度种姓制度，上等种姓往往是最早接触现代文明的主体。  关键信息增量：当技术革命需要大规模本土人才梯队时，依赖外部输入的统治集团必然遭遇能力断层。  **对谁有影响：** 研究制度学派商业史、"
 resource: "https://x.com/i/status/2060960910848778616"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2060960910848778616"
+created: "2026-05-31"
+updated: "2026-06-26"
+sha256: "22657c71a9565f9df7c43ce50d4d66b531b38b508a07a4ef98b2a311a35dca7b"
+sources:
+  - "/sources/news/2026-05-31/00__mranti__制度性资源垄断才是王朝溃败根因-满清案例揭示技术精英阶层的结构性缺失.md"
 ---
 
 # 制度性资源垄断才是王朝溃败根因：满清案例揭示技术精英阶层的结构性缺失

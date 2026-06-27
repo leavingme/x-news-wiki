@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Codex上线「宠物系统」：当AI编码工具开始做留存，说明获客战已结束"
 description: "**OpenAI在Codex中加入/pet虚拟宠物功能，这是开发者工具从生产力竞争转向情感留存的标志性事件。** - 开发者工具做游戏化并非新鲜事（GitHub贡献图、Discord Nitro），但AI编码工具做宠物是首次 - 与Altman「选你喜欢的」表态互为因果：当技术差异缩小时，情感粘性成为护城河 - Codex的策略转向暗示：OpenAI已接受编码工具市场不会赢家通吃  gakki 锐"
 resource: "https://x.com/OpenAIDevs/status/2050275713824211041"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "ai-trend-digest"
+type_okf: "X Tweet"
+source_url: "https://x.com/OpenAIDevs/status/2050275713824211041"
+created: "2026-05-01"
+updated: "2026-06-26"
+sha256: "45c756f6eb25f19648d009d5b5568a8a228a57db1b923d522273071a4ad9d834"
+sources:
+  - "/sources/news/2026-05-01/00__OpenAIDevs__codex上线-宠物系统-当ai编码工具开始做留存-说明获客战已结束.md"
 ---
 
 # Codex上线「宠物系统」：当AI编码工具开始做留存，说明获客战已结束

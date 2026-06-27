@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Markdown 与 HTML 之争：宝玉认为信息密度是核心，HTML 并不适合 LLM 阅读和生成"
 description: "**[AI 时代的文档格式之争，本质是信息密度与展示复杂度的权衡。]** - 宝玉明确反对\"HTML 是新的 Markdown\"的观点，指出 Markdown 信息密度最高，HTML 臃肿。 - 他认为即使 AI 生成 HTML，也需要借助 React 等技术拆分模块，大型 HTML 无法一次性生成。 - 这反映了开发者社区对 AI 工具使用习惯的深层分歧：效率优先还是展示优先？  gakki 的"
 resource: "https://x.com/i/status/2052930530329460881"
@@ -22,6 +22,13 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "markdown-ai-native-format"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2052930530329460881"
+created: "2026-05-09"
+updated: "2026-06-26"
+sha256: "70ff9b865114583b1ec8e1bf1404033eb091a0b48982926d12e9c4d1bf6c57b9"
+sources:
+  - "/sources/highlights/2026-05-09/00__dotey__markdown-与-html-之争-宝玉认为信息密度是核心-html-并不适合-llm-阅读和生成.md"
 ---
 
 # Markdown 与 HTML 之争：宝玉认为信息密度是核心，HTML 并不适合 LLM 阅读和生成

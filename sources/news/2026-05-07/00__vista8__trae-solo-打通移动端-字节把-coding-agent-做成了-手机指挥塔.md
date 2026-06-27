@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "TRAE SOLO 打通移动端：字节把 Coding Agent 做成了「手机指挥塔」"
 description: "**[字节正在用移动端+飞书生态绑定，把 AI Coding Agent 从「坐在电脑前」变成「随时随地调度」]**  - TRAE SOLO 新增移动端，可与桌面端 IDE 双向打通，远程下发执行任务 - 支持第三方模型配置和自定义 API key，不锁死字节自有模型 - 绑定飞书后移动端可执行复杂任务，本质上是在做 Agent 编排的「指挥塔」而非单纯的编辑器  这条路线的判断：字节的差异化不"
 resource: "https://x.com/i/status/2052189309499793489"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2052189309499793489"
+created: "2026-05-07"
+updated: "2026-06-26"
+sha256: "18e571aa85bbf2f681b52afa5fbad90c05a6b24449a593b8cbc55782555fad88"
+sources:
+  - "/sources/news/2026-05-07/00__vista8__trae-solo-打通移动端-字节把-coding-agent-做成了-手机指挥塔.md"
 ---
 
 # TRAE SOLO 打通移动端：字节把 Coding Agent 做成了「手机指挥塔」

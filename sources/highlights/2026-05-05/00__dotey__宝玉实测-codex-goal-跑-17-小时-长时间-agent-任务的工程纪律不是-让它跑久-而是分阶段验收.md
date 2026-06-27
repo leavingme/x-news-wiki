@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "宝玉实测 Codex /goal 跑 17 小时：长时间 Agent 任务的工程纪律不是「让它跑久」，而是分阶段验收"
 description: "**长时任务的关键不是 duration，而是 feedback loop 的工程化。**  - 宝玉用 Codex 逆向 Codex App 项目，/goal 连续运行 17 小时 - 核心方法：先与 Agent 共同制定计划 → 保存为文档 → 初始化 Agents.md → 分阶段执行 - 首次运行 30 分钟就跑偏，因为 Agent 没理解「代码质量标准」，手动写样板后更新计划才解决 - "
 resource: "https://x.com/i/status/2051673437727346838"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2051673437727346838"
+created: "2026-05-05"
+updated: "2026-06-26"
+sha256: "8c3003a94a6f18eb21665b574588190e201bbead62bc6cd9233b17048cafd2aa"
+sources:
+  - "/sources/highlights/2026-05-05/00__dotey__宝玉实测-codex-goal-跑-17-小时-长时间-agent-任务的工程纪律不是-让它跑久-而是分阶段验收.md"
 ---
 
 # 宝玉实测 Codex /goal 跑 17 小时：长时间 Agent 任务的工程纪律不是「让它跑久」，而是分阶段验收

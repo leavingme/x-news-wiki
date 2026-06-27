@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "OpenSquilla 用 Python 重写小龙虾：路由层让 Opus 4.7 成本从 6 美元跌到 6 毛 8"
 description: "**[本地路由器做模型路由层，复杂任务才上 Opus，便宜模型扛简单任务，成本差 10 倍]**  同一个测试集跑分 0.9251 vs 0.9255（对标 OpenClaw），但核心思路是把「模型选择权」从 Agent 框架层下放到一个本地路由器：简单任务自动路由到国产便宜模型，Opus 4.7 只处理真正需要它的复杂推理。  四层记忆（手头任务/历史任务/知识规则/原始日志）+ 按需添加工具（"
 resource: "https://x.com/i/status/2055299820215300380"
@@ -22,6 +22,13 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "ai-agent-self-sustaining-business"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2055299820215300380"
+created: "2026-05-15"
+updated: "2026-06-26"
+sha256: "9145d644b257273d0e4dbab3adb3514a22038ce39ffb4b46673e421986b0ae58"
+sources:
+  - "/sources/highlights/2026-05-15/00__xiaohu__opensquilla-用-python-重写小龙虾-路由层让-opus-4-7-成本从-6-美元跌到-6-毛-8.md"
 ---
 
 # OpenSquilla 用 Python 重写小龙虾：路由层让 Opus 4.7 成本从 6 美元跌到 6 毛 8

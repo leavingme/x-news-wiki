@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "余温分享「trash命令替代rm」：老工程师的朴素安全哲学正在被AI时代重新重视"
 description: "**[一句判断]** 一个存在数十年的 `trash` 命令，因 AI Agent 文件操作失误频发，正在从极客圈小众工具升级为防御性工程规范。  - 信息增量：余温分享的 trash CLI 实践获得社区广泛认同，\"用 trash 替代 rm\" 正在成为 AI 编程工作流的标配安全规范。 - 影响范围：所有 AI Coding 工具（Claude Code、Codex 等）的使用者，尤其在 Li"
 resource: "https://x.com/i/status/2056037833920458780"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2056037833920458780"
+created: "2026-05-17"
+updated: "2026-06-26"
+sha256: "fdc4e4b6b4c44ad31887f6b4d26d5afa3fde275cf559dc0c0de65bb195dc2ef6"
+sources:
+  - "/sources/news/2026-05-17/00__gkxspace__余温分享-trash命令替代rm-老工程师的朴素安全哲学正在被ai时代重新重视.md"
 ---
 
 # 余温分享「trash命令替代rm」：老工程师的朴素安全哲学正在被AI时代重新重视

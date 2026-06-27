@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "网易龙虾跻身国内Agent第一梯队：OpenClaw之父背书验证"
 description: "**[国产No-code Agent出现访问量层面的头部玩家]** • 有道龙虾从开源到流量验证仅用一个月，已进入国内Agent第一梯队 • 获得OpenClaw创始人Peter公开点赞，生态认可度提升 • 验证了「无门槛Agent入口」赛道的商业可行性  大厂资源+快速迭代正在挤压独立开发者的生存空间。当「养龙虾」这件事本身成为流量入口，工具层面的创新价值将被平台级玩家快速摊薄。"
 resource: "https://x.com/i/status/2036137730913231210"
@@ -22,6 +22,13 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "no-code-agent-entry"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2036137730913231210"
+created: "2026-03-23"
+updated: "2026-06-26"
+sha256: "c3f1bbf3878ae5b392370e224392f543a77678fe0df29c34fbed40a9f0c78883"
+sources:
+  - "/sources/highlights/2026-03-24/00__lxfater__网易龙虾跻身国内agent第一梯队-openclaw之父背书验证.md"
 ---
 
 # 网易龙虾跻身国内Agent第一梯队：OpenClaw之父背书验证

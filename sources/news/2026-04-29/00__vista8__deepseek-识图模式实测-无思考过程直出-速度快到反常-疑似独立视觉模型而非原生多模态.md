@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "DeepSeek 识图模式实测：无思考过程直出、速度快到反常——疑似独立视觉模型而非原生多模态"
 description: "**DeepSeek 的图像理解能力上线速度极快但行为异常，技术架构可能是独立视觉模型而非端到端多模态。**  - 实测上传图片反推提示词，响应速度快到「没有思考过程」，系统 1 级别直出 - 这种行为模式暗示底层可能是独立训练的视觉模型，而非与语言模型共享推理链的原生多模态架构 - 对需要复杂图文推理的 Agent 场景，独立视觉模型的上限会低于原生多模态  gakki 锐评：速度快不等于能力强"
 resource: "https://x.com/i/status/2049485853995712994"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2049485853995712994"
+created: "2026-04-29"
+updated: "2026-06-26"
+sha256: "4576e8d0f7d39e3a122e448a76598920ede07d99450dbfd01ad963b97244c9f0"
+sources:
+  - "/sources/news/2026-04-29/00__vista8__deepseek-识图模式实测-无思考过程直出-速度快到反常-疑似独立视觉模型而非原生多模态.md"
 ---
 
 # DeepSeek 识图模式实测：无思考过程直出、速度快到反常——疑似独立视觉模型而非原生多模态

@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "科幻悬疑电影推荐：《极限审判》探讨 AI 司法悖论"
 description: "**[影视文化]** - 推荐 2026 年最新 AI 法庭悬疑片《极限审判》 - 探讨 AI 司法系统 MERCY 带来的概率与正义冲突 - 讲述算法设计者被自身算法指控的极端情境  文艺作品永远是科技伦理的预警机。当算力等于正义时，人类还能否保有证明自身清白的权力？"
 resource: "https://x.com/i/status/2027428249169727511"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2027428249169727511"
+created: "2026-02-27"
+updated: "2026-06-26"
+sha256: "72d3bdd126a68aebaff772104a2b9117ff7e935e2405b3749dee0ec653f71d8e"
+sources:
+  - "/sources/news/2026-02-28/00__Zesee__科幻悬疑电影推荐-极限审判-探讨-ai-司法悖论.md"
 ---
 
 # 科幻悬疑电影推荐：《极限审判》探讨 AI 司法悖论

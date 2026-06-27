@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "微软重新上线 VibeVoice：10 秒克隆声音再次免费开放，语音身份验证面临存亡危机"
 description: "**[语音验证的「潘多拉魔盒」已重新打开，数字安全策略需要即刻重建]**  微软旗下危险声音 AI VibeVoice 在因安全风险下架后，添加水印与控制机制后重新免费发布。该工具仅需 10 秒音频即可克隆声线。语音验证可靠性受到直接冲击——身份盗用风险急剧上升。  **要点：** - 「安全下架→加限制→重新上线」的模式已成 AI 危险工具的标准路径 - 水印和控制机制的实际效力存疑：10 秒音"
 resource: "https://x.com/i/status/2038173185875775987"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2038173185875775987"
+created: "2026-03-29"
+updated: "2026-06-26"
+sha256: "1d594002c516a36f53cfc643a66d33c23c76eb68072296ae83f6f4f5985c1d37"
+sources:
+  - "/sources/news/2026-04-02/00__billtheinvestor__微软重新上线-vibevoice-10-秒克隆声音再次免费开放-语音身份验证面临存亡危机.md"
 ---
 
 # 微软重新上线 VibeVoice：10 秒克隆声音再次免费开放，语音身份验证面临存亡危机

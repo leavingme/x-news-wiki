@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Memoh-v2 正面硬刚 OpenClaw：真隔离容器 vs 「大通铺」架构的路线对决"
 description: "**[Agent 运行时架构出现两条技术路线]** - Memoh-v2 主打「真隔离」：每个 Bot 独立 containerd，故障爆炸半径可控 - 记忆层采用 Qdrant + BM25 + LLM 三层提取，替代 SQLite 向量搜索 - 强调 Bot「自我反思、实验、审查」的进化能力，而非静态 Skill 编排  Memoh 的容器化路线是工程洁癖的极致表达——「你的 Bot 想 rm"
 resource: "https://x.com/i/status/2025924101551145401"
@@ -22,6 +22,13 @@ x_selected: 2
 x_priority: 85
 x_related_topic: "open-agent-ecosystem"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2025924101551145401"
+created: "2026-02-23"
+updated: "2026-06-26"
+sha256: "00ca18c108e51944d902579e30447fa2e728bb1209336edf61d6a64b01b48c61"
+sources:
+  - "/sources/highlights/2026-03-10/85__QingQ77__memoh-v2-正面硬刚-openclaw-真隔离容器-vs-大通铺-架构的路线对决.md"
 ---
 
 # Memoh-v2 正面硬刚 OpenClaw：真隔离容器 vs 「大通铺」架构的路线对决

@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "向阳乔木推荐 goal 写作 skill：Agent 时代「会写」正在变成可复制的工程资产"
 description: "**[一句话核心判断]** goal 写作 skill 出现在 AI 评论圈 KOL 的推荐流，意味着「目标导向的写作」正在从个人方法论沉淀为可分发的 Agent 工具。  **要点：** - 向阳乔木将一个写作 skill 显式推荐给 enzyme_dev，目标感（goal-driven）取代泛泛写作成为新焦点 - 与近期 Skills 标准化、SKILL.md 范式扩散的趋势一致：个人写作经验"
 resource: "https://x.com/i/status/2065098604822643120"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2065098604822643120"
+created: "2026-06-11"
+updated: "2026-06-26"
+sha256: "c5071636478c0b9703bd951918e8052cb1c9f8131865901c9b7920f2cd3fb333"
+sources:
+  - "/sources/news/2026-06-11/00__vista8__向阳乔木推荐-goal-写作-skill-agent-时代-会写-正在变成可复制的工程资产.md"
 ---
 
 # 向阳乔木推荐 goal 写作 skill：Agent 时代「会写」正在变成可复制的工程资产

@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "AI 生图进入「架空历史」题材：当 Prompt 能构建完整反事实世界观，图像生成的叙事能力被低估了"
 description: "**Michael Anti 用一个复杂的架空历史 Prompt 测试 AI 生图——「日本赢得二战，美国人成为少数族裔」。**  - 这类 prompt 需要模型理解历史因果、文化符号和空间叙事，远超「画一只猫」的简单指令 - AI 图像生成正在从「视觉工具」进化为「世界观构建器」，但当前模型对历史细节的准确性仍有明显短板  Gakki 锐评：大多数人还在用 AI 生图画产品图和头像，但真正的叙"
 resource: "https://x.com/i/status/2051194330774376783"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2051194330774376783"
+created: "2026-05-04"
+updated: "2026-06-26"
+sha256: "3214bc3604ab11eeb9be4ce5b600e87e4a27561381602fba0a881ba6407402bf"
+sources:
+  - "/sources/news/2026-05-04/00__mranti__ai-生图进入-架空历史-题材-当-prompt-能构建完整反事实世界观-图像生成的叙事能力被低估了.md"
 ---
 
 # AI 生图进入「架空历史」题材：当 Prompt 能构建完整反事实世界观，图像生成的叙事能力被低估了

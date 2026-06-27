@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Codex 进浏览器：OpenAI 把编程 Agent 的触角伸到了\"必须登录才能干活\"的场景"
 description: "**编程 Agent 终于能碰那些需要登录态的活了——后台、CRM、复杂表单。** - Chrome 扩展让 Codex 在浏览器里执行任务，支持后台多标签并行运行 - 通过写代码/跑代码操作页面，能自动选择用插件还是走浏览器完成任务 - 欧盟和英国暂未开放，覆盖 Mac 和 Windows  Codex 从终端走向浏览器，本质上是在补齐 Agent 的\"最后一公里\"——那些需要人类登录态才能完成"
 resource: "https://x.com/i/status/2052492340892221800"
@@ -22,6 +22,13 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "codex-ecosystem-platform-war"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2052492340892221800"
+created: "2026-05-07"
+updated: "2026-06-26"
+sha256: "b65d40d666070d10b43a155e903aef71424d8c91acb5157002ead840709e6f39"
+sources:
+  - "/sources/highlights/2026-05-07/00__dotey__codex-进浏览器-openai-把编程-agent-的触角伸到了-必须登录才能干活-的场景.md"
 ---
 
 # Codex 进浏览器：OpenAI 把编程 Agent 的触角伸到了"必须登录才能干活"的场景

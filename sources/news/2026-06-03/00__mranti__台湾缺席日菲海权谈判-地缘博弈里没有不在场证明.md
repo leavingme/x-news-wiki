@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "台湾缺席日菲海权谈判：地缘博弈里没有不在场证明"
 description: "Michael Anti 披露台湾处理日菲海权谈判的态度转变：最初表态\"无影响\"，在北京压力下才改口\"不能甩掉台湾\"。核心判断是：在涉及多方主权争议的海上边界谈判中，不在谈判桌就意味着直接利益损失。  这不是新闻，是外交逻辑的教科书案例。三方重叠的海域权益，谁缺席谁吃亏，没有模糊空间。"
 resource: "https://x.com/i/status/2062174439157248161"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2062174439157248161"
+created: "2026-06-03"
+updated: "2026-06-26"
+sha256: "0aaa332ce243c036fc0bf65b310f9777070843ff5b0dfbacdda1bcd36166e193"
+sources:
+  - "/sources/news/2026-06-03/00__mranti__台湾缺席日菲海权谈判-地缘博弈里没有不在场证明.md"
 ---
 
 # 台湾缺席日菲海权谈判：地缘博弈里没有不在场证明

@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "GLM 5.2 在美国IT圈复刻 DeepSeek 时刻：国产模型进入「国际口碑可期」窗口，但国内访问仍是付费墙"
 description: "Michael Anti 观察到美国 IT 业界对 GLM 5.2 的吹捧程度已接近去年 DeepSeek 亮相时的状态，标志智谱模型首次进入「国际一线话题圈」。  真正的矛盾点：国际站开放购买，国内版贵且对国内开发者并不友好——这是国产模型「海外声誉先于国内可及性」的典型悖论。  对比此前 DeepSeek 走红路径，GLM 5.2 走的是 B 端企业付费（智谱商业化路径），而非 DeepSee"
 resource: "https://x.com/i/status/2068502724153667927"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2068502724153667927"
+created: "2026-06-21"
+updated: "2026-06-26"
+sha256: "3e8dfe24503b7e4e54390e26d9e36d0e89a25f66aa0f45789e78b761a15625a0"
+sources:
+  - "/sources/news/2026-06-21/00__mranti__glm-5-2-在美国it圈复刻-deepseek-时刻-国产模型进入-国际口碑可期-窗口-但国内访问仍是付费墙.md"
 ---
 
 # GLM 5.2 在美国IT圈复刻 DeepSeek 时刻：国产模型进入「国际口碑可期」窗口，但国内访问仍是付费墙

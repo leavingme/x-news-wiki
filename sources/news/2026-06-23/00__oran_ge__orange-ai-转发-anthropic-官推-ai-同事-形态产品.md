@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Orange AI 转发：Anthropic 官推'AI 同事'形态产品"
 description: "**Anthropic 官推被业内称为'AI 同事'的新形态产品，Agent 协作从工具层进入岗位层。**  - Orange AI 转发时直呼'终于来了'，语气暗示等了很久 - 配合 @dotey @Claude 的互动，可能是面向企业的 Agent 协作产品 - 距 Claude Code、Claude Design 之后，Anthropic 产品线再扩展   gakki 锐评：'AI 同事'"
 resource: "https://x.com/i/status/2069532073048871108"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2069532073048871108"
+created: "2026-06-23"
+updated: "2026-06-26"
+sha256: "438e276c64b6a7d0fd45c8906220bb396f6b5fe0cea861a774bdfeba1754a1ea"
+sources:
+  - "/sources/news/2026-06-23/00__oran_ge__orange-ai-转发-anthropic-官推-ai-同事-形态产品.md"
 ---
 
 # Orange AI 转发：Anthropic 官推'AI 同事'形态产品

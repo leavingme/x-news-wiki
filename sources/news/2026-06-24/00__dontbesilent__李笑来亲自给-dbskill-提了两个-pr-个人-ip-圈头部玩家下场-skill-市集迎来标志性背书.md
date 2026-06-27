@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "李笑来亲自给 dbskill 提了两个 PR：个人 IP 圈头部玩家下场，Skill 市集迎来标志性背书"
 description: "**dbskill 获得李笑来级别的 KOL 背书，Skill 市集开始突破小圈子**  - 李笑来以 PR 形式直接参与 dbskill 开发，信号远超普通转发推荐 - 结合 dontbeskill「dbskill 帮你搞流量选题」的方法论，dbskill 正形成「KOL 贡献 Skill + 流量方法论」的正循环 - 个人 IP/知识付费圈的头部玩家下场，验证 Skill 作为「可复用专业判断"
 resource: "https://x.com/i/status/2049509507730948389"
@@ -22,6 +22,13 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "dbskill-formula-marketplace"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2049509507730948389"
+created: "2026-04-29"
+updated: "2026-06-26"
+sha256: "3a3a29c69ec2f18e7a24432b9ce58b4c29b47fea9b8db00ff8260c7e90942b4e"
+sources:
+  - "/sources/news/2026-06-24/00__dontbesilent__李笑来亲自给-dbskill-提了两个-pr-个人-ip-圈头部玩家下场-skill-市集迎来标志性背书.md"
 ---
 
 # 李笑来亲自给 dbskill 提了两个 PR：个人 IP 圈头部玩家下场，Skill 市集迎来标志性背书

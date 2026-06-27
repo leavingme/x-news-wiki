@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "DeepSeek V4 Flash 的「不要钱」性价比正在被海外用户自发验证：沉浸式翻译已成标杆场景"
 description: "**V4 Flash 不是 Benchmark 怪物，是实际场景中的成本屠夫。** - 海外用户社区自发推荐将沉浸式翻译模型切换为 V4 Flash - 核心卖点不是智能上限，是「又快又便宜」的实际体验 - Benchmark 不等于疗效——用户用脚投票比排行榜更有说服力  gakki 锐评：DeepSeek 的策略很清晰——不跟 GPT-5.5 比智商，比「够用且便宜」。翻译这种高频低复杂度场景"
 resource: "https://x.com/i/status/2049648463022113233"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2049648463022113233"
+created: "2026-04-30"
+updated: "2026-06-26"
+sha256: "3b409376f161d7f394aed51da5b5d495377d7622a858e068105eaa9f01e7c5da"
+sources:
+  - "/sources/news/2026-04-30/00__vista8__deepseek-v4-flash-的-不要钱-性价比正在被海外用户自发验证-沉浸式翻译已成标杆场景.md"
 ---
 
 # DeepSeek V4 Flash 的「不要钱」性价比正在被海外用户自发验证：沉浸式翻译已成标杆场景

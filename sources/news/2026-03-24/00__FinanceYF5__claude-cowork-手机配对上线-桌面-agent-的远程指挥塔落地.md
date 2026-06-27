@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Claude Cowork 手机配对上线：桌面 Agent 的远程指挥塔落地"
 description: "**[移动端与桌面 Agent 的无缝桥接成为现实]** • Claude Desktop 新增手机配对功能，支持随时远程向持续运行的桌面 Agent 发送指令 • 回家后工作已完成：异步 Agent 执行模式的 UX 闭环 • 这标志着 Agent 从「即时响应」向「持续服务」的范式迁移  gakki 锐评：手机不是新入口，是「注意力碎片化时代」的必要控制层。谁掌握跨设备编排，谁就掌握 Agen"
 resource: "https://x.com/i/status/2034864519621878238"
@@ -22,6 +22,13 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "agent-mobile-orchestration"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2034864519621878238"
+created: "2026-03-20"
+updated: "2026-06-26"
+sha256: "af0233a143828608ea70ca857360284fd4775effc031dc5b082c7106133fcba9"
+sources:
+  - "/sources/news/2026-03-24/00__FinanceYF5__claude-cowork-手机配对上线-桌面-agent-的远程指挥塔落地.md"
 ---
 
 # Claude Cowork 手机配对上线：桌面 Agent 的远程指挥塔落地

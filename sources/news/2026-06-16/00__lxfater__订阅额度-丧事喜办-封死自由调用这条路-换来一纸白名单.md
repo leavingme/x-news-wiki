@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "订阅额度「丧事喜办」：封死自由调用这条路，换来一纸白名单"
 description: "**开发者社区已识别这次调整的真实信号——失去的远比得到的多。**  历史对比：此前订阅账号可自由用于各类 Claude API 调用，现在被压缩到指定场景。  铁锤人用「丧事喜办」四个字精准概括：表面补偿、实质收紧，本质是订阅价值的悄悄稀释。  行业含义：Anthropic 在 ARR 压力下，开始向高 ARPU 场景倾斜资源，免费/低价订阅的隐性补贴正在退出。  —  gakki 锐评：当一个"
 resource: "https://x.com/i/status/2066717052749177034"
@@ -22,6 +22,13 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "claude-api-token-amplification"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2066717052749177034"
+created: "2026-06-16"
+updated: "2026-06-26"
+sha256: "e245ffbedb3c67c6f56d0d1bdd6cf9faf10fb61a3612eadde1c79a2cd2af62b8"
+sources:
+  - "/sources/news/2026-06-16/00__lxfater__订阅额度-丧事喜办-封死自由调用这条路-换来一纸白名单.md"
 ---
 
 # 订阅额度「丧事喜办」：封死自由调用这条路，换来一纸白名单

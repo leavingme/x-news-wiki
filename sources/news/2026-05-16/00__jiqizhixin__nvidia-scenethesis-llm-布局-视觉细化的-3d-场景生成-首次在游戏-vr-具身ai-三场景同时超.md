@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "NVIDIA Scenethesis：LLM 布局 + 视觉细化的 3D 场景生成，首次在游戏/VR/具身AI 三场景同时超越现有方法"
 description: "**[一句话核心判断]**  Scenethesis 解决了 LLM 生成 3D 场景时\"物体悬浮、穿透、比例失调\"的空间物理一致性问题，在游戏、VR、具身AI三个场景同时取得 SOTA，是多模态生成从\"能看能用\"到\"能用且真实\"的分水岭。  • **架构亮点**：LLM 负责粗粒度场景布局（prompt → 结构），视觉模块负责细化物体位置（图像引导 + 优化），最终由判别器检验空间连贯性——三"
 resource: "https://x.com/i/status/2055523640498626838"
@@ -22,6 +22,13 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "textop-humanoid-robot"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2055523640498626838"
+created: "2026-05-16"
+updated: "2026-06-26"
+sha256: "92b8891bdd1d993e042e0e87ad820c72d1ae1816abdf783c547c41018f4dd0f9"
+sources:
+  - "/sources/news/2026-05-16/00__jiqizhixin__nvidia-scenethesis-llm-布局-视觉细化的-3d-场景生成-首次在游戏-vr-具身ai-三场景同时超.md"
 ---
 
 # NVIDIA Scenethesis：LLM 布局 + 视觉细化的 3D 场景生成，首次在游戏/VR/具身AI 三场景同时超越现有方法

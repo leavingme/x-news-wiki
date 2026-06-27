@@ -1,5 +1,5 @@
 ---
-type: "Author"
+type: "entity"
 title: "Cua (@trycua)"
 description: "X/Twitter 作者 @trycua。共收录 1 条 AI 精选推文。"
 tags:
@@ -12,6 +12,12 @@ x_author_name: "Cua"
 x_tweet_count: 1
 x_first_seen: "2026-04-23T18:32:48.000Z"
 x_last_seen: "2026-04-23T18:32:48.000Z"
+type_okf: "Author"
+created: "2026-04-23"
+updated: "2026-06-26"
+sha256: "fa83a663f6abe00ea22b8303c99dce2d4889a150631f834a083ab90db13eda96"
+sources:
+  - "/sources/highlights/2026-04-23/00__trycua__cua-driver-开源-macos-后台自动化驾驶协议-agent-进入-真-多玩家-时代.md"
 ---
 
 # Cua (@trycua)

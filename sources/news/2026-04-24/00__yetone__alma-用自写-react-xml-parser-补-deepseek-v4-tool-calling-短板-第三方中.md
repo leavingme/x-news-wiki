@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Alma 用自写 ReAct XML Parser 补 DeepSeek V4 Tool Calling 短板：第三方中间件的机会窗口"
 description: "**[一句话核心判断]**  DeepSeek V4 自身 API 的 Tool Calling 不稳定，被 Alma 通过外部手撸 ReAct XML Parser 方式绕过去——这揭示了一个正在形成的中间件市场。  **信息增量/影响：** - 模型能力≠产品能力：底层模型缺陷正在被第三方适配层填补，这是工程栈迁移的机会 - ReAct XML Parser 成为可复用组件，暗示 Tool C"
 resource: "https://x.com/i/status/2047573789794525210"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2047573789794525210"
+created: "2026-04-24"
+updated: "2026-06-26"
+sha256: "6de8f931cfe8518c03bee60b20903237acd0a51fcbf2fae0799117d6b9ba163f"
+sources:
+  - "/sources/news/2026-04-24/00__yetone__alma-用自写-react-xml-parser-补-deepseek-v4-tool-calling-短板-第三方中.md"
 ---
 
 # Alma 用自写 ReAct XML Parser 补 DeepSeek V4 Tool Calling 短板：第三方中间件的机会窗口

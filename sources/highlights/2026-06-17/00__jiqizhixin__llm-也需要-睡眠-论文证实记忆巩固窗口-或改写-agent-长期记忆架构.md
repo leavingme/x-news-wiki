@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "LLM 也需要「睡眠」：论文证实记忆巩固窗口，或改写 Agent 长期记忆架构"
 description: "**[机器之心报道：Nature 系论文证实 LLM 在持续对话/训练中存在类似人类的「睡眠-巩固」机制]** - 研究者类比认知科学中的睡眠记忆巩固理论，发现 LLM 在「离线」阶段会主动整合、压缩长上下文信息 - 该机制可显著提升长对话连续性与抗遗忘能力，对 Agent 长会话、持续学习场景是关键补丁 - 论文与同步解读报告均已公开，机器之心做了中文版    gakki 锐评：别急着当段子——"
 resource: "https://x.com/i/status/2067302000514211905"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2067302000514211905"
+created: "2026-06-17"
+updated: "2026-06-26"
+sha256: "4ed4b37ab2f0f5510dc3d00ac6edb9d505a344805219b7407ad4db09cd8311a5"
+sources:
+  - "/sources/highlights/2026-06-17/00__jiqizhixin__llm-也需要-睡眠-论文证实记忆巩固窗口-或改写-agent-长期记忆架构.md"
 ---
 
 # LLM 也需要「睡眠」：论文证实记忆巩固窗口，或改写 Agent 长期记忆架构

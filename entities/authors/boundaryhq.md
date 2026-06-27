@@ -1,5 +1,5 @@
 ---
-type: "Author"
+type: "entity"
 title: "boundary (@boundaryhq)"
 description: "X/Twitter 作者 @boundaryhq。共收录 1 条 AI 精选推文。"
 tags:
@@ -12,6 +12,12 @@ x_author_name: "boundary"
 x_tweet_count: 1
 x_first_seen: "2026-02-04T06:57:26.752Z"
 x_last_seen: "2026-02-04T06:57:26.752Z"
+type_okf: "Author"
+created: "2026-02-04"
+updated: "2026-06-26"
+sha256: "915ae6fca53f4250996f66d3586585a76f093a565a516a02a6a4a109a72174d5"
+sources:
+  - "/sources/news/2026-02-04/00__boundaryhq__软件护城河崩塌-ai-威胁下的轻资产模式估值回归.md"
 ---
 
 # boundary (@boundaryhq)

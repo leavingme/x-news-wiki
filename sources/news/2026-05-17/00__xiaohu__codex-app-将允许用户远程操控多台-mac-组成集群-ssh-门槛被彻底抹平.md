@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Codex App 将允许用户远程操控多台 Mac 组成集群，SSH 门槛被彻底抹平"
 description: "**[多设备远程调用从概念进入 UI 泄漏阶段]**  泄漏的 UI 显示 Codex App 支持跨设备远程操控：用户可在主力 Mac 上远程连接 Mac Mini build 服务器，组成协作集群。关键变化是「不走 SSH，任何人可用 Codex 操控任意多台设备」——这意味着多设备 Agent 编排的门槛从「懂系统配置」降到「会用自然语言」。  - 技术路径：手机/主设备作为控制端，Mac "
 resource: "https://x.com/i/status/2055808841695252773"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2055808841695252773"
+created: "2026-05-17"
+updated: "2026-06-26"
+sha256: "38e85b7b189b12eb539ebee9c338587c4e42c9849a242a1a7683b44f33c8974a"
+sources:
+  - "/sources/news/2026-05-17/00__xiaohu__codex-app-将允许用户远程操控多台-mac-组成集群-ssh-门槛被彻底抹平.md"
 ---
 
 # Codex App 将允许用户远程操控多台 Mac 组成集群，SSH 门槛被彻底抹平

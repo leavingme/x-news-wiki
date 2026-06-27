@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Agent记忆层不兼容多模型是结构性隐患：能力天花板将被记忆架构锁死"
 description: "**yetone指出Agent的记忆系统若不与模型解耦（model agnostic），会导致严重的可移植性危机。**  - 当记忆系统的设计强依赖特定模型的token处理方式、上下文窗口和推理特性时，换模型几乎等于清空记忆 - 这在多模型路由（Router架构）成为主流的背景下，是一个被严重低估的技术债务 - 模型选型从「能力决策」变成「记忆兼容性决策」，会反向绑架技术路线  这个问题在单模型场"
 resource: "https://x.com/i/status/2054477546763567188"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2054477546763567188"
+created: "2026-05-13"
+updated: "2026-06-26"
+sha256: "4fedca8036296afc2a51a64bdd82474ac13c672b54b0a68df65fa84344f358c4"
+sources:
+  - "/sources/news/2026-05-13/00__yetone__agent记忆层不兼容多模型是结构性隐患-能力天花板将被记忆架构锁死.md"
 ---
 
 # Agent记忆层不兼容多模型是结构性隐患：能力天花板将被记忆架构锁死

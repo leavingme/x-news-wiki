@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "宝玉自评：虽不如 yetone 强，勉强算实战派"
 description: "**核心判断：AI 工具领域存在「实战派」与「理论派」的隐性分层，宝玉主动选择了前者定位。**  宝玉在转发链中自我定位为「勉强算实战派」，并建议他人不要安装他所有的 skills（2057861927057998212）。这表明顶级 AI 开发者正在主动做减法——不是技能越多越好，而是有取舍的实战组合才是真正的壁垒。  gakki 锐评：在 SKILL.md 生态正在标准化的当下，宝玉的「不装全"
 resource: "https://x.com/i/status/2057834321340235863"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2057834321340235863"
+created: "2026-05-22"
+updated: "2026-06-26"
+sha256: "1c02085cd2545cd6fbc370b0b7d2bdcbce329515ab279a39bb4c4f6f2c845dd7"
+sources:
+  - "/sources/news/2026-05-22/00__dotey__宝玉自评-虽不如-yetone-强-勉强算实战派.md"
 ---
 
 # 宝玉自评：虽不如 yetone 强，勉强算实战派

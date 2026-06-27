@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Codex GOAL：一条指令的端到端执行，Codex CLI 开始长出「自动驾驶」骨架"
 description: "**一句话核心判断：** Codex GOAL mode 的本质是将「目标-子任务分解-执行-恢复」的 Agent Loop 内置进 CLI，意味着 AI 编程工具从「辅助驾驶」正式向「自动驾驶」阶段演进。  **要点：** - GOAL mode 支持 `/goal` 发起、查看状态（`/goal view`）、暂停（`/goal pause`）、恢复（`/goal resume`）、清除（`/"
 resource: "https://x.com/i/status/2059308967348834553"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2059308967348834553"
+created: "2026-05-26"
+updated: "2026-06-26"
+sha256: "c89770288402ea039fdd8d927c3ac95f7ba60bd9a4b1e26723dddb0794569ad3"
+sources:
+  - "/sources/news/2026-05-26/00__Zesee__codex-goal-一条指令的端到端执行-codex-cli-开始长出-自动驾驶-骨架.md"
 ---
 
 # Codex GOAL：一条指令的端到端执行，Codex CLI 开始长出「自动驾驶」骨架

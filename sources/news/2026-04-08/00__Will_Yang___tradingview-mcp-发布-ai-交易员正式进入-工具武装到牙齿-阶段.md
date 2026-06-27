@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "TradingView MCP 发布：AI 交易员正式进入「工具武装到牙齿」阶段"
 description: "**一句话核心判断：TradingView MCP 的出现将 AI 量化分析的门槛压到普通投资者触手可及的水平，技术分析+回测+情绪面+决策引擎的全链路整合，是 Agent 化交易的基础设施级事件。**  - 技术分析模块：RSI/MACD/Bollinger Band/Supertrend 多指标对比，附置信度评分——从「看指标」升级为「评估指标信号的可靠性」 - 回测引擎：支持 6 种经典策略"
 resource: "https://x.com/i/status/2041702447861919956"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2041702447861919956"
+created: "2026-04-08"
+updated: "2026-06-26"
+sha256: "9d892faa1e7f7799febf0d2aa90f89031172d9d46f2c3ffdb38df8ec45ad00ed"
+sources:
+  - "/sources/news/2026-04-08/00__Will_Yang___tradingview-mcp-发布-ai-交易员正式进入-工具武装到牙齿-阶段.md"
 ---
 
 # TradingView MCP 发布：AI 交易员正式进入「工具武装到牙齿」阶段

@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "AI视频工作流正在「套件化」：Flow内置图像视频工具意味着什么"
 description: "**Flow集成了图像和视频处理工具，标志着AI视频工具正在从单点能力向套件化工作流演进。**  这个信号值得关注：套件化意味着平台化的雏形出现，用户不需要在多个工具间跳转。但也意味着碎片化工具的整合窗口正在关闭。  对于工具开发者，这是差异化空间被压缩的信号；对于用户，这是效率提升但选择减少的开始。"
 resource: "https://x.com/i/status/2056759251658555508"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2056759251658555508"
+created: "2026-05-19"
+updated: "2026-06-26"
+sha256: "d68bf3e6ddfc3714eb46a29124447eccb07d56e9895a79c1b9bc1b3bbf83032c"
+sources:
+  - "/sources/news/2026-05-19/00__op7418__ai视频工作流正在-套件化-flow内置图像视频工具意味着什么.md"
 ---
 
 # AI视频工作流正在「套件化」：Flow内置图像视频工具意味着什么

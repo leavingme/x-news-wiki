@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "GPT 5.5+Image 2 联合训练把生图能力免费化：OpenAI 这次是真翻盘还是纸面自嗨？"
 description: "**[GPT 5.5\"图生一体\"试图终结生图赛道，但免费策略才是真正的杀招]**  • GPT 5.5 纸面指标达旗舰水准，且配套推出 5.5 Pro 版本，高低搭配意图明确 • 关键动作：GPT Image 2 与 5.5 联合训练而非分立模型，意味着生成与理解在同一认知架构内完成——这是从\"工具\"到\"能力\"的质变 • 免费生图直逼谷歌 Imagen，表明 OpenAI 不满足于对话入口，开始在"
 resource: "https://x.com/i/status/2047432432102920448"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2047432432102920448"
+created: "2026-04-23"
+updated: "2026-06-26"
+sha256: "9a5e3d291de54b579e8b93b006d03a8978f21ea79ab650520889e341c2a2ce17"
+sources:
+  - "/sources/highlights/2026-04-24/00__oran_ge__gpt-5-5-image-2-联合训练把生图能力免费化-openai-这次是真翻盘还是纸面自嗨.md"
 ---
 
 # GPT 5.5+Image 2 联合训练把生图能力免费化：OpenAI 这次是真翻盘还是纸面自嗨？

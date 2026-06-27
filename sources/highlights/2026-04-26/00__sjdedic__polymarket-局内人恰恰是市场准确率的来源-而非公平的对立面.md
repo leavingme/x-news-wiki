@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Polymarket 局内人恰恰是市场准确率的来源，而非公平的对立面"
 description: "**Simon Dedic 抛出反直觉观点：预测市场不能没有局内人，移除他们反而会让市场失效。**  - 大多数人批评 Polymarket 时聚焦于「局内人作弊」，但忽略了局内人本身是价格发现机制的核心资产 - 预测市场的本质是信息聚合，局内人的特权本质上是「高置信度信号」的溢价——这是市场运作所需，不是漏洞 - 对 AI Agent 交易策略设计者而言，这一洞察直接影响策略框架：不能简单将「信"
 resource: "https://x.com/sjdedic/status/2048318288959025471"
@@ -22,6 +22,13 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "prediction-market-compliance"
 x_source: "ai-trend-digest"
+type_okf: "X Tweet"
+source_url: "https://x.com/sjdedic/status/2048318288959025471"
+created: "2026-04-26"
+updated: "2026-06-26"
+sha256: "a2009713166e3479e8e00f33290f8ed8e4b8f9634d548d4a51e6c779e184f0a2"
+sources:
+  - "/sources/highlights/2026-04-26/00__sjdedic__polymarket-局内人恰恰是市场准确率的来源-而非公平的对立面.md"
 ---
 
 # Polymarket 局内人恰恰是市场准确率的来源，而非公平的对立面

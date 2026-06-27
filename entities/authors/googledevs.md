@@ -1,5 +1,5 @@
 ---
-type: "Author"
+type: "entity"
 title: "Google for Developers (@googledevs)"
 description: "X/Twitter 作者 @googledevs。共收录 1 条 AI 精选推文。"
 tags:
@@ -12,6 +12,12 @@ x_author_name: "Google for Developers"
 x_tweet_count: 1
 x_first_seen: "2026-05-05T19:17:35.539Z"
 x_last_seen: "2026-05-05T19:17:35.539Z"
+type_okf: "Author"
+created: "2026-05-05"
+updated: "2026-06-26"
+sha256: "d6d5bd59330cc77651486fea3287c7e0c70ae078958364f37103ff0a5b5e6bb3"
+sources:
+  - "/sources/highlights/2026-05-05/00__googledevs__gemma-4-多token预测推理提速3倍-端侧agent的速度瓶颈正在被架构级方案击穿.md"
 ---
 
 # Google for Developers (@googledevs)

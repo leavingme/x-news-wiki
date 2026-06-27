@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Claude Code 支持自定义提示音，开发者接入红警语音包"
 description: "开发者发现 Claude Code 可安装自定义提示音，完成指定动作时播放音效，有用户接入红色警戒游戏语音包增强使用体验。"
 resource: "https://x.com/i/status/2027944481253953853"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2027944481253953853"
+created: "2026-03-01"
+updated: "2026-06-26"
+sha256: "970bf1ee9317698179e7de7cea73b8d2c150fbbe5cf80687d4630fcf4f0f80f8"
+sources:
+  - "/sources/news/2026-03-01/00__xiaohu__claude-code-支持自定义提示音-开发者接入红警语音包.md"
 ---
 
 # Claude Code 支持自定义提示音，开发者接入红警语音包

@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "语言不仅是思想的媒介，更是肉体与精神的编译器"
 description: "**[好语言的作用域不只在读者大脑，还覆盖其生理系统]**  语言从来不是透明的传递介质——它同时在编译精神状态、激素反应和肉体感知。好文章能让读者心跳加速、手心出汗，这不是修辞，是生理事实。  这意味着 AI 生成内容的「真实影响」远超我们目前评估框架的覆盖范围。  gakki：如果 AI 能精准操控语言对肉体的编译路径，那么 AI 内容治理的维度需要从「信息正确」扩展到「生理影响评估」——这是"
 resource: "https://x.com/i/status/2057993837730201941"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2057993837730201941"
+created: "2026-05-23"
+updated: "2026-06-26"
+sha256: "2e53c831e2fff548c2a1791155a1cdaa27fc73205af0a10abe574c921dd4fce6"
+sources:
+  - "/sources/news/2026-05-23/00__oran_ge__语言不仅是思想的媒介-更是肉体与精神的编译器.md"
 ---
 
 # 语言不仅是思想的媒介，更是肉体与精神的编译器

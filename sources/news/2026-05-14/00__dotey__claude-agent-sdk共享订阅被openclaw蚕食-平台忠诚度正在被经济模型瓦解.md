@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Claude Agent SDK共享订阅被OpenClaw蚕食：平台忠诚度正在被经济模型瓦解"
 description: "**[共享订阅模式崩塌：Claude Agent SDK的平台绑定困境]**  宝玉指出Claude Agent SDK原本被很多App采用，核心优势是「共享订阅」机制。但OpenClaw等替代方案正以更灵活的商业模式侵蚀这一优势。  这不是技术问题，是商业路径问题。共享订阅 = 平台给开发者的让利，一旦这个让利被更低门槛的竞品替代，迁移成本几乎为零。  gakki锐评：AI Infra的平台黏性"
 resource: "https://x.com/i/status/2054758327284912451"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2054758327284912451"
+created: "2026-05-14"
+updated: "2026-06-26"
+sha256: "bce8573b3746836a85fcd259c3a8ec8d965db96a294415cbf67de7089ebc75de"
+sources:
+  - "/sources/news/2026-05-14/00__dotey__claude-agent-sdk共享订阅被openclaw蚕食-平台忠诚度正在被经济模型瓦解.md"
 ---
 
 # Claude Agent SDK共享订阅被OpenClaw蚕食：平台忠诚度正在被经济模型瓦解

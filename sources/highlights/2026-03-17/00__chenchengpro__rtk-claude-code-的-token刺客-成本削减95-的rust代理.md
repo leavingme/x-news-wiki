@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "rtk：Claude Code 的「Token刺客」，成本削减95%的Rust代理"
 description: "**规模化Agent部署的隐性成本被忽视了** • Rust 编写的 CLI 代理工具 rtk，通过预过滤和压缩终端输出，实现 cargo test -95%、git status -80%、grep -60~90% 的Token削减 • 实测数据：10人团队月省约 $1750 API 费用，brew install 两行命令即生效 • 工程意义：Agent 规模化部署的最大隐性成本不是模型费用，"
 resource: "https://x.com/i/status/2030616953983828456"
@@ -22,6 +22,13 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "agent-memory-optimization"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2030616953983828456"
+created: "2026-03-08"
+updated: "2026-06-26"
+sha256: "a5317692922aff30d053c6cbb29d89fc9e47244c28c61a4f889f7de906728d35"
+sources:
+  - "/sources/highlights/2026-03-17/00__chenchengpro__rtk-claude-code-的-token刺客-成本削减95-的rust代理.md"
 ---
 
 # rtk：Claude Code 的「Token刺客」，成本削减95%的Rust代理

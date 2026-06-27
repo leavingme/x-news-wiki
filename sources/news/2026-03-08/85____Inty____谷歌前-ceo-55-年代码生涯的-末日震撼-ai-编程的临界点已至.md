@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "谷歌前 CEO 55 年代码生涯的「末日震撼」：AI 编程的临界点已至"
 description: "**[行业老兵的失控感是最强信号]** • Eric Schmidt（55 年编程经验）对 AI 编程的震撼反应引发行业共鸣 • 技术权威的心理落差 = 变革真实发生的证据 • 从「怀疑」到「恐惧」的情绪拐点，往往先于市场拐点  当最资深的从业者都感到「完了」，说明范式转移已不可逆转。"
 resource: "https://x.com/i/status/2030444235783131589"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 85
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2030444235783131589"
+created: "2026-03-08"
+updated: "2026-06-26"
+sha256: "78b78bc6011c1b015060dc0b429e7f963e9ed901549cb5271740ad9f690322f3"
+sources:
+  - "/sources/news/2026-03-08/85____Inty____谷歌前-ceo-55-年代码生涯的-末日震撼-ai-编程的临界点已至.md"
 ---
 
 # 谷歌前 CEO 55 年代码生涯的「末日震撼」：AI 编程的临界点已至

@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "小红书AI静默视频判违规，抖音/x/视频号全放行——平台尺度不透明的典型案例"
 description: "**一句话核心判断** 同一AI生成的几秒无声视频，小红书判定违规而抖音、视频号、X均正常发布，暴露出内容平台AI审核标准混乱且缺乏一致性说明的问题。  **要点** - 时长仅几秒、无声音的视频被标记，规则边界不清晰 - 其他主流平台无此限制，说明不是行业通行标准 - 用户无法获知具体违规原因，申诉链路不透明  **gakki锐评** 这本质上是一个\"平台规则黑盒化\"的老问题在 AI 时代的新变"
 resource: "https://x.com/i/status/2056893035091468717"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2056893035091468717"
+created: "2026-05-20"
+updated: "2026-06-26"
+sha256: "55ecd6684fd3521666799d2a27bd4101f7c5d02beda63c066e0d4fa8f5848869"
+sources:
+  - "/sources/news/2026-05-20/00__vista8__小红书ai静默视频判违规-抖音-x-视频号全放行-平台尺度不透明的典型案例.md"
 ---
 
 # 小红书AI静默视频判违规，抖音/x/视频号全放行——平台尺度不透明的典型案例

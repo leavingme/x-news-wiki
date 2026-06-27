@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "AI 信仰溢出 A 股：溜溜梅蹭上 LLM 缩写，盘前暴涨 189% 的土味信号"
 description: "**A 股散户把'LLM'缩写玩成了投机暗号。**  - 溜溜梅（零食品牌）开盘暴涨 189%，被网友戏称'正宗 AI 大模型概念股'——只因公司简称拼音首字母与 Large Language Model 重合 - 折射 A 股 AI 概念炒作已脱离基本面，进入'谐音/缩写套利'阶段 - 与海外 PLTR、英伟达等 AI 投资标的形成鲜明对比：专业资金押注技术红利，国内散户押注符号巧合   gak"
 resource: "https://x.com/i/status/2066373174816825629"
@@ -22,6 +22,13 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "ai-stock-investment-analysis"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2066373174816825629"
+created: "2026-06-15"
+updated: "2026-06-26"
+sha256: "4a40db112bdbeb58f638c26bab72457d879a4232e8aa84c58a2019507965dd85"
+sources:
+  - "/sources/news/2026-06-15/00__xiaohu__ai-信仰溢出-a-股-溜溜梅蹭上-llm-缩写-盘前暴涨-189-的土味信号.md"
 ---
 
 # AI 信仰溢出 A 股：溜溜梅蹭上 LLM 缩写，盘前暴涨 189% 的土味信号

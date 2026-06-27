@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Warp终端开源：从闭源付费到AI协作开发平台的战略转型"
 description: "**一句话核心判断：Warp 开源不只是\"开源一款终端\"，而是把 AI Agent 协作开发模式（Oz 写代码 + 人类 Review）作为产品核心重新定位，工具化逻辑已变。**  三大产品变化：1. 支持更多开源模型（Kimi、MiniMax、Qwen）并加入自动选最优模型功能；2. 界面可定制化，支持纯终端到完整 AI 开发环境的灵活切换；3. 推出配置文件支持跨设备迁移和程序化控制。  Op"
 resource: "https://x.com/i/status/2049267433710686211"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2049267433710686211"
+created: "2026-04-28"
+updated: "2026-06-26"
+sha256: "0a214b3baba1fd0cf910f158c727ad01f42e4c11ec274ad30c7f3573976b5228"
+sources:
+  - "/sources/news/2026-04-29/00__xiaohu__warp终端开源-从闭源付费到ai协作开发平台的战略转型.md"
 ---
 
 # Warp终端开源：从闭源付费到AI协作开发平台的战略转型

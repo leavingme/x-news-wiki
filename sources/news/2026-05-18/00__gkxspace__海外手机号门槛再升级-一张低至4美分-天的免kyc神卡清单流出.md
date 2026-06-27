@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "海外手机号门槛再升级：一张低至4美分/天的免KYC神卡清单流出"
 description: "**[海外访问工具链正在加速商品化，入门门槛已低至4美分/天]**  余温整理了一份针对大陆用户的海外SIM卡清单，涵盖香港KiteSim（4美分/天免KYC）、荷兰Vodafone（9元/年）、德国O2（0.15元/年）等六个选项。值得注意的是，这份清单的目标用户非常明确——解决大陆用户注册海外AI服务的痛点，而非普通跨境通信需求。  运营商层面出现了明显的合规收紧信号：Giffgaff下架、德"
 resource: "https://x.com/i/status/2056354517629739404"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2056354517629739404"
+created: "2026-05-18"
+updated: "2026-06-26"
+sha256: "30ea10a290f58e4f257be576147950b9a4da3f6f3416301de48f14a750c9aa6a"
+sources:
+  - "/sources/news/2026-05-18/00__gkxspace__海外手机号门槛再升级-一张低至4美分-天的免kyc神卡清单流出.md"
 ---
 
 # 海外手机号门槛再升级：一张低至4美分/天的免KYC神卡清单流出

@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Claude绕过微软直接打通Excel & PPT：跨文件上下文贯通才是第三方包抄的正确姿势"
 description: "**[一句话核心判断]**  Claude 现在可以在 Excel 和 PowerPoint 之间共享完整对话上下文，一个对话可跨越多个文件，Skills 将工作流变为一键复用——微软该做的事，被第三方做了。  **信息增量：** - 跨文件上下文贯通：Excel 分析结果直接进入 PPT，无需重复解释数据集 - Skills 机制：把最佳实践（方差分析、公司模板）保存为一键操作，团队可复用 - "
 resource: "https://x.com/i/status/2031903269401084347"
@@ -22,6 +22,13 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "agent-tools-and-orchestration"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2031903269401084347"
+created: "2026-03-12"
+updated: "2026-06-26"
+sha256: "9e79328a187736ac7f1919f2e273a507494d5d7022bac341548d794109935309"
+sources:
+  - "/sources/news/2026-04-11/00__shao__meng__claude绕过微软直接打通excel-ppt-跨文件上下文贯通才是第三方包抄的正确姿势.md"
 ---
 
 # Claude绕过微软直接打通Excel & PPT：跨文件上下文贯通才是第三方包抄的正确姿势

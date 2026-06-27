@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Cider 框架补齐 Apple MLX 生态的量化推理空白：W8A8/W4A8 + INT8 TensorOps"
 description: "**Apple Silicon 本地推理的基建层正在被系统性补齐。**  - Cider 填补了 MLX 原生框架在 W8A8/W4A8 激活量化和 INT8 TensorOps 上的空白 - 目标不是「能跑」而是「跑得更快更省」——从可用到好用的工程跃迁 - 与 Mano-P 等模型配合，构成 Mac 端侧推理的完整栈  gakki：MLX 生态之前一直缺量化这一环，Cider 的出现意味着 A"
 resource: "https://x.com/i/status/2051975606980751703"
@@ -22,6 +22,13 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "edge-agent-local-compute"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2051975606980751703"
+created: "2026-05-06"
+updated: "2026-06-26"
+sha256: "1834aceff8f8206051a8e547f35a0f8c48084ba4bbafa65165e077b723ca690a"
+sources:
+  - "/sources/news/2026-05-06/00__xiaohu__cider-框架补齐-apple-mlx-生态的量化推理空白-w8a8-w4a8-int8-tensorops.md"
 ---
 
 # Cider 框架补齐 Apple MLX 生态的量化推理空白：W8A8/W4A8 + INT8 TensorOps

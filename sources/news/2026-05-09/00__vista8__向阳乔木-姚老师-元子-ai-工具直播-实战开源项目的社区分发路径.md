@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "向阳乔木 × 姚老师 × 元子 AI 工具直播：实战开源项目的社区分发路径"
 description: "**AI 工具的传播正从文档驱动转向直播驱动。** - 向阳乔木联合姚老师、元子直播分享近期 AI 工具与开源项目，评论区集中发放文档地址 - 直播成为 AI 工具分发的新渠道：降低使用门槛，实时演示建立信任 - 社区型 KOL 组合（开发者+产品+运营）形成工具推广的最小闭环  gakki 锐评：AI 工具的分发效率正在从「写 README」转向「开直播讲一遍」，但工具本身的易用性才是能否留住用"
 resource: "https://x.com/i/status/2053113291300540728"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2053113291300540728"
+created: "2026-05-09"
+updated: "2026-06-26"
+sha256: "c8ac666c3438c61970516b21f13b02accd687ff261c592abda226239a01ae1d1"
+sources:
+  - "/sources/news/2026-05-09/00__vista8__向阳乔木-姚老师-元子-ai-工具直播-实战开源项目的社区分发路径.md"
 ---
 
 # 向阳乔木 × 姚老师 × 元子 AI 工具直播：实战开源项目的社区分发路径

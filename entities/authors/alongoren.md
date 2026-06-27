@@ -1,5 +1,5 @@
 ---
-type: "Author"
+type: "entity"
 title: "Alon Gorenᴳᴹ ✌️ (@AlonGoren)"
 description: "X/Twitter 作者 @AlonGoren。共收录 1 条 AI 精选推文。"
 tags:
@@ -12,6 +12,12 @@ x_author_name: "Alon Gorenᴳᴹ ✌️"
 x_tweet_count: 1
 x_first_seen: "2026-03-12T00:42:31.379Z"
 x_last_seen: "2026-03-12T00:42:31.379Z"
+type_okf: "Author"
+created: "2026-03-12"
+updated: "2026-06-26"
+sha256: "15fa9dec3b31152f042d0e9c74f075fa4737a68a83766aeeeec7ba8afeaf4db8"
+sources:
+  - "/sources/highlights/2026-03-12/92__AlonGoren__agent直连交易所-执行层抽象化-控制权与审计成为新护城河.md"
 ---
 
 # Alon Gorenᴳᴹ ✌️ (@AlonGoren)

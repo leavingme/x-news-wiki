@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Orange AI Mole：512GB 小硬盘救星，付费转化验证了磁盘清理的刚需价值"
 description: "**[小工具的长尾胜利：512GB 硬盘清理这个「古老需求」被 AI 重新定义]**  Orange AI 的 Mole 工具清理了 39GB 空间，用户付费购买，解救 512GB 小硬盘于水火。这是一个看似微不足道但有明确付费验证的产品。  关键信息增量： - macOS 清理工具市场长期存在，但 AI 介入后\"智能识别无用文件\"的体验门槛大幅降低 - 付费行为本身就是最强产品价值信号——不是用"
 resource: "https://x.com/i/status/2058678690624791013"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2058678690624791013"
+created: "2026-05-24"
+updated: "2026-06-26"
+sha256: "3a4f2148b0db546875bac4c886f77e916f629805f70e738742a79c45416003b8"
+sources:
+  - "/sources/news/2026-05-25/00__oran_ge__orange-ai-mole-512gb-小硬盘救星-付费转化验证了磁盘清理的刚需价值.md"
 ---
 
 # Orange AI Mole：512GB 小硬盘救星，付费转化验证了磁盘清理的刚需价值

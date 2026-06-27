@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Agentic Economy 临界点：OKX Agentic Wallet 正在打通 AI 自动化执行的最后一公里"
 description: "**AI x Crypto 正从「叙事概念」进入「工作流闭环」阶段。** • 模型、钱包、CEX/DEX API、Skills、执行环境、安全托管等环节开始连成闭环 • Agentic Wallet 正在打开新可能：AI 可在更安全、结构化的环境中参与策略执行与复杂工作流 • 资产管理的分层架构正在形成：长期存储、自主掌控、AI 自动化执行将被分离处理  **gakki 锐评：** 这是 Agen"
 resource: "https://x.com/i/status/2034466267281912073"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2034466267281912073"
+created: "2026-03-19"
+updated: "2026-06-26"
+sha256: "3bd4bcf59b1097c1773e8f678e639fd96134830e32d480d936db9caa233c78c2"
+sources:
+  - "/sources/highlights/2026-03-24/00__Mercy_okx__agentic-economy-临界点-okx-agentic-wallet-正在打通-ai-自动化执行的最后一公里.md"
 ---
 
 # Agentic Economy 临界点：OKX Agentic Wallet 正在打通 AI 自动化执行的最后一公里

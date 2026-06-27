@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Cursor 的「虚假安全」陷阱：企业用户切换滞后性正在累积风险"
 description: "**Cursor 的现金流健康是一枚延时引爆的炸弹。** • 核心数据翻转：企业收入占比从13.6%飙升至60%，但这批用户的迁移惯性反而成为隐患 • 关键洞察：企业员工已私下转向 Claude Code，但企业采购流程的滞后性（6-12个月）掩盖了真实的流失趋势 • 时间窗口：当这批「挂名」企业客户走完切换流程，才是 Cursor 真正的至暗时刻  gakki 锐评：这揭示了一个残酷真相——B端"
 resource: "https://x.com/i/status/2030363129096397123"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 92
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2030363129096397123"
+created: "2026-03-07"
+updated: "2026-06-26"
+sha256: "783cf842822191e1e99f546c11a546a50c5e2f3055786a4f69f16142b28faf60"
+sources:
+  - "/sources/news/2026-03-08/92__dotey__cursor-的-虚假安全-陷阱-企业用户切换滞后性正在累积风险.md"
 ---
 
 # Cursor 的「虚假安全」陷阱：企业用户切换滞后性正在累积风险

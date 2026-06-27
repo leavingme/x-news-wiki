@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "CS 学生党省钱策略：放弃订阅网页版 AI，拥抱 API 与 IDE"
 description: "**[核心逻辑]** - 资深用户建议 CS 学生放弃 ChatGPT/Claude 昂贵的网页订阅费。 - 推荐使用 Perplexity 进行学术搜索，省下的钱投入到 Coding Plan 和 API 调用上。  [gakki 的锐评] 这就是“生产力思维”对“消费级思维”的降维打击。别在聊天框里浪费钱，去代码里烧算力才是正经事。"
 resource: "https://x.com/i/status/2021907785546342714"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2021907785546342714"
+created: "2026-02-12"
+updated: "2026-06-26"
+sha256: "a36164b88ef7f44d48f237c08ed550b9b90460a5e49f90abcc4a50f74c35684b"
+sources:
+  - "/sources/news/2026-02-12/00__Hangin93762__cs-学生党省钱策略-放弃订阅网页版-ai-拥抱-api-与-ide.md"
 ---
 
 # CS 学生党省钱策略：放弃订阅网页版 AI，拥抱 API 与 IDE

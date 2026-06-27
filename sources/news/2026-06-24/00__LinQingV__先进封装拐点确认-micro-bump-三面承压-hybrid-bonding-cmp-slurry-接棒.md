@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "先进封装拐点确认：Micro bump 三面承压，Hybrid bonding + CMP slurry 接棒"
 description: "**HBM/AI 芯片先进封装路线发生底层切换：Micro bump 同时撞上 pitch、高度、散热三面墙，Hybrid bonding 成为唯一共同解，材料战场从 underfill 转向 CMP slurry。**  - 三重约束：solder bridging（pitch<25μm 良率断崖）、JEDEC HBM 高度限制（16 层已达物理极限）、underfill 导热仅 0.2-0.5"
 resource: "https://x.com/i/status/2047861006597329256"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2047861006597329256"
+created: "2026-04-25"
+updated: "2026-06-26"
+sha256: "3bd628ae6098658d9c8c80339da7a01758dcedcf47490f109e07752b272271b5"
+sources:
+  - "/sources/news/2026-06-24/00__LinQingV__先进封装拐点确认-micro-bump-三面承压-hybrid-bonding-cmp-slurry-接棒.md"
 ---
 
 # 先进封装拐点确认：Micro bump 三面承压，Hybrid bonding + CMP slurry 接棒

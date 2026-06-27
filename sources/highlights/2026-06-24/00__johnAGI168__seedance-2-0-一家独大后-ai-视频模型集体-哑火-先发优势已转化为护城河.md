@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Seedance 2.0 一家独大后，AI 视频模型集体「哑火」：先发优势已转化为护城河"
 description: "**[AI 视频生成赛道进入「赢家通吃」观察期]**  - 现象：Seedance 2.0 发布后，可灵、海螺、Runway、Luma、Veo 等对手几个月内无实质迭代更新，市场从「轮番刷榜」变成「一家独大」。 - 解读：视频生成的工业化门槛（数据闭环 + 物理一致性 + 角色一致性）远高于图像生成，导致头部模型一旦建立壁垒，竞品追赶成本剧增。 - 后续变量：Seedance 2.5 即将发布，若"
 resource: "https://x.com/i/status/2069775882319692036"
@@ -22,6 +22,13 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "open-source-video-generation-leap"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2069775882319692036"
+created: "2026-06-24"
+updated: "2026-06-26"
+sha256: "5d2bdd612e16815105c186fae95a29f000dbf2432006d5d95c76603faa35a8fb"
+sources:
+  - "/sources/highlights/2026-06-24/00__johnAGI168__seedance-2-0-一家独大后-ai-视频模型集体-哑火-先发优势已转化为护城河.md"
 ---
 
 # Seedance 2.0 一家独大后，AI 视频模型集体「哑火」：先发优势已转化为护城河

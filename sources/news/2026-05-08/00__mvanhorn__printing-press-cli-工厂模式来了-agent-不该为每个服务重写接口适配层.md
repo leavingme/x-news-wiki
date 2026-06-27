@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Printing Press：CLI 工厂模式来了——Agent 不该为每个服务重写接口适配层"
 description: "**Matt Van Horn 和 @steipete 推出 Printing Press，一个可以为任意服务「打印」Agent 原生 CLI 的工厂 + 30+ 现成 CLI 库。**  - 痛点精准：Most APIs、MCPs、official CLIs 对 Agent 浪费 token 和时间 - 工厂模式：输入任意服务，输出 Agent 原生 CLI（token 效率优化、结构化输出） "
 resource: "https://x.com/mvanhorn/status/2052422567181611010"
@@ -22,6 +22,13 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "cli-toolchain-convergence"
 x_source: "ai-trend-digest"
+type_okf: "X Tweet"
+source_url: "https://x.com/mvanhorn/status/2052422567181611010"
+created: "2026-05-07"
+updated: "2026-06-26"
+sha256: "11333ba39bcbca416f3f2300008106f7af52599f05ecea100e1f80614a3729ce"
+sources:
+  - "/sources/news/2026-05-08/00__mvanhorn__printing-press-cli-工厂模式来了-agent-不该为每个服务重写接口适配层.md"
 ---
 
 # Printing Press：CLI 工厂模式来了——Agent 不该为每个服务重写接口适配层

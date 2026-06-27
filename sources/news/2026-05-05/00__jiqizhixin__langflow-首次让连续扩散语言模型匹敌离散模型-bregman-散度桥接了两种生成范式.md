@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "LangFlow 首次让连续扩散语言模型匹敌离散模型：Bregman 散度桥接了两种生成范式"
 description: "**扩散模型在语言生成上的「不可能」正在被数学工具打破。**  - UIUC 团队提出 LangFlow，首个在语言生成上匹敌顶级离散模型的连续扩散语言模型 - 技术关键：用 Bregman 散度建立嵌入空间扩散与 Flow Matching 的数学连接 - 额外创新：可学习噪声调度器 + 自条件化 - LM1B 困惑度 30.0，OpenWebText 24.6，与自回归模型持平甚至超越  ga"
 resource: "https://x.com/i/status/2051657415083405728"
@@ -22,6 +22,13 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "推理与模型架构"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2051657415083405728"
+created: "2026-05-05"
+updated: "2026-06-26"
+sha256: "98c1855b59e1abf2ad5d435c00cc47cd211c8d025404185e23e1868a778bb626"
+sources:
+  - "/sources/news/2026-05-05/00__jiqizhixin__langflow-首次让连续扩散语言模型匹敌离散模型-bregman-散度桥接了两种生成范式.md"
 ---
 
 # LangFlow 首次让连续扩散语言模型匹敌离散模型：Bregman 散度桥接了两种生成范式

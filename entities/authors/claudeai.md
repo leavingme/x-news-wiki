@@ -1,5 +1,5 @@
 ---
-type: "Author"
+type: "entity"
 title: "Claude (@claudeai)"
 description: "X/Twitter 作者 @claudeai。共收录 4 条 AI 精选推文。"
 tags:
@@ -12,6 +12,15 @@ x_author_name: "Claude"
 x_tweet_count: 4
 x_first_seen: "2026-03-18T16:28:00.981Z"
 x_last_seen: "2026-05-06T22:17:34.054Z"
+type_okf: "Author"
+created: "2026-03-18"
+updated: "2026-06-26"
+sha256: "d22a2ab98d2dec29b341b05e125c574f91f56b1acf305d0d9248543e1eca1f44"
+sources:
+  - "/sources/highlights/2026-05-06/00__claudeai__anthropic-从-spacex-买算力-ai-基础设施的供应商正在从云厂商扩展到太空公司.md"
+  - "/sources/news/2026-03-18/00__claudeai__claude-code-hackathon-收官-500-人用-opus-4-6-探索-agent-边界.md"
+  - "/sources/news/2026-04-23/00__claudeai__claude-接入生活服务生态-旅行-订餐-理财全覆盖-个人-ai-从工具升维为-生活管家.md"
+  - "/sources/news/2026-04-29/00__claudeai__claude-接入-blender-ai-编程工具首次进入专业-3d-创作工作流.md"
 ---
 
 # Claude (@claudeai)

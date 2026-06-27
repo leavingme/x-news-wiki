@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "SpaceX 重磅申请：打造百万卫星太空 AI 数据中心"
 description: "**SpaceX 已向 FCC 申请部署 100 万颗卫星，旨在利用 Starship 的低成本发射优势，在太空建立全球最大的 AI 算力中心。** - **核心逻辑**：太空是部署算力的“无脑选择”，利用高频低成本发射，3 年内可实现全球最低成本的 AI 算力节点。 - **产能匹配**：马斯克透露，100GW/年的太阳能 AI 卫星需匹配同规模的 AI 芯片产能，特斯拉超级芯片工厂呼之欲出。 "
 resource: "https://x.com/i/status/2017526212491624928"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2017526212491624928"
+created: "2026-01-31"
+updated: "2026-06-26"
+sha256: "cc9eba9224dca9fa9b5418f7cf9ae8b1669543e47ee67185d1d8e12263e8fa81"
+sources:
+  - "/sources/news/2026-01-31/00__XieJackie__spacex-重磅申请-打造百万卫星太空-ai-数据中心.md"
 ---
 
 # SpaceX 重磅申请：打造百万卫星太空 AI 数据中心

@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "QQ机器人+小龙虾：Agent入口的\"小白友好\"突破与平台下沉信号"
 description: "**【社交平台的Agent渗透】**LobsterAI（小龙虾）接入QQ机器人，用户通过点击按钮即可完成配置，大幅降低非技术用户的使用门槛。相比飞书、微信的复杂接入流程，QQ的\"按钮即服务\"体验显示出传统社交平台在Agent入口争夺中的独特优势。  gakki锐评：QQ的\"现金\"（先进）特性被低估了——当Agent入口战进入下沉市场，\"一键配置\"的体验优势可能比技术先进性更具穿透力。"
 resource: "https://x.com/i/status/2030873832110903786"
@@ -22,6 +22,13 @@ x_selected: 2
 x_priority: 78
 x_related_topic: "agent-multi-platform"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2030873832110903786"
+created: "2026-03-09"
+updated: "2026-06-26"
+sha256: "3be62243729386008f34b3767df5b94aea6588a31740e7bbb9c3dd6436e5f8fb"
+sources:
+  - "/sources/highlights/2026-03-10/78__oran_ge__qq机器人-小龙虾-agent入口的-小白友好-突破与平台下沉信号.md"
 ---
 
 # QQ机器人+小龙虾：Agent入口的"小白友好"突破与平台下沉信号

@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "老黄 GTC 闭门 Q&A 泄露：Token 消耗排行揭示模型市场「寡头+长尾」格局"
 description: "**【AI 基础设施付费意愿的真实分布首次浮出水面】**  • **市场座次**：OpenAI > 开源模型总和 > Anthropic > xAI——第一名的领先优势仍然显著 • **增速信号**：OpenAI 与 Anthropic 的「惊人增速」验证了顶层模型的规模经济护城河 • **投资逻辑**：「谁为 AI 资本支出付费」「铜缆 vs 光学时间表」等硬问题的回答，将直接影响数据中心供应链"
 resource: "https://x.com/i/status/2034186483863826754"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2034186483863826754"
+created: "2026-03-18"
+updated: "2026-06-26"
+sha256: "f414093d02385cce2cce0fbedf1e8342f8f1a012a58ad1a8ea9958d088a8574d"
+sources:
+  - "/sources/news/2026-03-18/00__IEObserve__老黄-gtc-闭门-q-a-泄露-token-消耗排行揭示模型市场-寡头-长尾-格局.md"
 ---
 
 # 老黄 GTC 闭门 Q&A 泄露：Token 消耗排行揭示模型市场「寡头+长尾」格局

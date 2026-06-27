@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "GPT-Image-2.0 提示词再度刷屏：AI 绘画的注意力周期已进入「模因化」阶段"
 description: "**GPT-Image-2.0 的提示词玩法周期性翻红，说明 AI 图像生成已从技术突破期转入模因传播期。**  - 「拉跨鼠标手绘图」这类低门槛、高反差的提示词模因具备强传播力 - 工具本身已不是新闻，围绕工具的内容消费才是持续流量入口 - 判断：AI 绘画的竞争维度正在从「模型能力」转向「提示词生态」"
 resource: "https://x.com/i/status/2050075020714815898"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2050075020714815898"
+created: "2026-05-01"
+updated: "2026-06-26"
+sha256: "053f7bf38137a6eebcf30ea6387f009a9b56c516e44f2b637d7ac9fa09ce88e9"
+sources:
+  - "/sources/news/2026-05-01/00__op7418__gpt-image-2-0-提示词再度刷屏-ai-绘画的注意力周期已进入-模因化-阶段.md"
 ---
 
 # GPT-Image-2.0 提示词再度刷屏：AI 绘画的注意力周期已进入「模因化」阶段

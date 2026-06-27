@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "开发者正在批量逃离Terminal：Codex App正在重新定义AI Coding入口"
 description: "**Codex App的普及揭示了一个被忽视的趋势：AI Coding正在「去命令行化」。**  向阳乔木已很少使用Terminal，原因是Codex App可以完成开发工作且集成了OpenAI订阅功能。朋友送的API甚至因此闲置。  Terminal曾是开发者的高地，当这个高地正在被App形态侵蚀，AI Coding的民主化进程已超出纯技术圈层。  **gakki锐评：** CLI的尽头是GUI"
 resource: "https://x.com/i/status/2059552984754004155"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2059552984754004155"
+created: "2026-05-27"
+updated: "2026-06-26"
+sha256: "57fddb5c67daae0b302501f92784b99e5e4d9ab848f812d5ac30cf094e3dd597"
+sources:
+  - "/sources/news/2026-05-27/00__vista8__开发者正在批量逃离terminal-codex-app正在重新定义ai-coding入口.md"
 ---
 
 # 开发者正在批量逃离Terminal：Codex App正在重新定义AI Coding入口

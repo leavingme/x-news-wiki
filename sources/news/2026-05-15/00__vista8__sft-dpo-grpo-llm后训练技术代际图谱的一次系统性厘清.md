@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "SFT→DPO→GRPO：LLM后训练技术代际图谱的一次系统性厘清"
 description: "**[一句话核心判断]**  LLM后训练技术已形成清晰的三层递进路径：SFT负责\"听话\"、DPO优化\"偏好对齐\"、GRPO专攻\"推理激发\"。  - 信息增量：GRPO被单独强调为激发思考能力的关键技术，与当下推理模型热潮高度共振 - 影响：降低非研究者理解RLHF技术族谱的认知门槛，但内容偏科普、增量有限 - 边界：适合扫盲，无法替代对各技术细节的深度工程理解  这波后训练技术的快速迭代，正在把"
 resource: "https://x.com/i/status/2055273954353537527"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2055273954353537527"
+created: "2026-05-15"
+updated: "2026-06-26"
+sha256: "be3b4eae27507c574a1ccff25539862e26a2d78dd4d77e7a5048a39155bf34e3"
+sources:
+  - "/sources/news/2026-05-15/00__vista8__sft-dpo-grpo-llm后训练技术代际图谱的一次系统性厘清.md"
 ---
 
 # SFT→DPO→GRPO：LLM后训练技术代际图谱的一次系统性厘清

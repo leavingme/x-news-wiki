@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "飞书 CLI GitHub Star 过万：企业工具的开源化正在重新定义 B 端生态"
 description: "**[飞书 CLI 万星里程碑：中国企业工具开源化的重要节点]**  飞书 CLI 在 GitHub 上的 star 数突破 10000。这个增长是在很短时间内完成的，标志着企业级工具的开源化正在获得开发者认可。飞书 CLI 提供了对标 Slack/Discord 的能力，但面向中文企业生态。  对 Agent 生态的暗示：CLI 工具是 Agent 调用工具链的基础设施，万星说明 Agent 开"
 resource: "https://x.com/i/status/2054902047766716476"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2054902047766716476"
+created: "2026-05-14"
+updated: "2026-06-26"
+sha256: "c6601724e6836926f6cd4f11f5a9ab4d9d8117c884f11fdc72fd2506c2729009"
+sources:
+  - "/sources/news/2026-05-14/00__Khazix0918__飞书-cli-github-star-过万-企业工具的开源化正在重新定义-b-端生态.md"
 ---
 
 # 飞书 CLI GitHub Star 过万：企业工具的开源化正在重新定义 B 端生态

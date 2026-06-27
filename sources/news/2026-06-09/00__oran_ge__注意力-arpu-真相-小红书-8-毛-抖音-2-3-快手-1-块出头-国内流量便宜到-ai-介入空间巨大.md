@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "注意力 ARPU 真相：小红书 8 毛、抖音 2.3、快手 1 块出头，国内流量便宜到 AI 介入空间巨大"
 description: "**[一句话核心判断]** 国内主流内容平台单日活 ARPU 仍处于「几毛钱到两块钱」区间，与海外差距悬殊——这恰是 AI Agent 自动化内容生产、套利低 ARPU 流量的窗口。  - 小红书 0.8 元、抖音 2.3 元、快手略高于 1 元（来源：Tomxu & 潘乱播客） - 平台之间 ARPU 差距近 3 倍，但绝对值都处于「AI 替代人力仍划算」的临界点之下 - 注意力经济越便宜，AI"
 resource: "https://x.com/i/status/2064144157900447837"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2064144157900447837"
+created: "2026-06-09"
+updated: "2026-06-26"
+sha256: "953e25c67fc70af1141bbd8da6b29a0be5fb4719edd58be9c972ff5b863916eb"
+sources:
+  - "/sources/news/2026-06-09/00__oran_ge__注意力-arpu-真相-小红书-8-毛-抖音-2-3-快手-1-块出头-国内流量便宜到-ai-介入空间巨大.md"
 ---
 
 # 注意力 ARPU 真相：小红书 8 毛、抖音 2.3、快手 1 块出头，国内流量便宜到 AI 介入空间巨大

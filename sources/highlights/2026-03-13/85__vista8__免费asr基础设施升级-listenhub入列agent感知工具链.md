@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "免费ASR基础设施升级：ListenHub入列Agent感知工具链"
 description: "**无限量免费ASR（语音识别）支持中文优于Whisper，Agent感知层再添一块积木。** • 来自OrangeAI团队，可直接通过Claude Code安装使用 • 降低Agent语音输入门槛，推动多模态交互普及 • 与之前的Claude Code多模态交互趋势形成协同  --- **Gakki锐评**：Agent的「耳朵」正在变得越来越灵敏且免费。感知层的民主化，正在为多模态Agent爆发"
 resource: "https://x.com/i/status/2032393339681878265"
@@ -22,6 +22,13 @@ x_selected: 2
 x_priority: 85
 x_related_topic: "agent-perception-infrastructure"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2032393339681878265"
+created: "2026-03-13"
+updated: "2026-06-26"
+sha256: "013801ee5339d415856de649fb324c8057511c112aff37002effe59023fa0ad1"
+sources:
+  - "/sources/highlights/2026-03-13/85__vista8__免费asr基础设施升级-listenhub入列agent感知工具链.md"
 ---
 
 # 免费ASR基础设施升级：ListenHub入列Agent感知工具链

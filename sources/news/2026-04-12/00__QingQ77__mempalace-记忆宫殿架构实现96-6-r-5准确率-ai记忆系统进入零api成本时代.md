@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "MemPalace：记忆宫殿架构实现96.6% R@5准确率，AI记忆系统进入零API成本时代"
 description: "**一句话核心判断：** AI记忆系统已完成从「能用」到「便宜用」的成本跨越，MemPalace的30倍无损压缩让零成本上下文唤醒成为现实。  - Wing→Room→Closet→Drawer 四层记忆宫殿架构，检索准确率提升34% - AAAK压缩方言：120 tokens替代1000 tokens无需解码器，LongMemEval评测96.6% R@5 - 四层记忆栈仅用~170 token"
 resource: "https://x.com/i/status/2041869167511662968"
@@ -22,6 +22,13 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "personal-knowledge-management-ai"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2041869167511662968"
+created: "2026-04-08"
+updated: "2026-06-26"
+sha256: "8030fc5b1e88ee03c5ba5c1ddd8bf4b9dad65ba079ee03e522c3a5f613f8aa2e"
+sources:
+  - "/sources/news/2026-04-12/00__QingQ77__mempalace-记忆宫殿架构实现96-6-r-5准确率-ai记忆系统进入零api成本时代.md"
 ---
 
 # MemPalace：记忆宫殿架构实现96.6% R@5准确率，AI记忆系统进入零API成本时代

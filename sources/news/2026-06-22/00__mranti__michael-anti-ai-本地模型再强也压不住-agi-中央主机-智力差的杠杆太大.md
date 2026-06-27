@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Michael Anti：AI 本地模型再强也压不住 AGI 中央主机，智力差的杠杆太大"
 description: "**[驳「AI 终端化 = PC 化」的历史类比]** · 核心论点：PC 时代中央主机被淘汰，AI 时代不会——AI 模型之间的智能差距对经济回报的杠杆是指数级的 · 弱模型被强模型碾压，本地推理的相对优势是延迟/隐私/成本，不是 AGI 替代 · 算力集中化在 AI 时代不是 PC 化的反面，而是被放大 · 部署策略含义：端侧 AI 的真实价值在场景补充，而非主战场  Michael Anti"
 resource: "https://x.com/i/status/2068937138457227404"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2068937138457227404"
+created: "2026-06-22"
+updated: "2026-06-26"
+sha256: "3ae3c13552d632d3a0cb7a4452a5bc885e5620a14dc7bd78057e3c6e4619e241"
+sources:
+  - "/sources/news/2026-06-22/00__mranti__michael-anti-ai-本地模型再强也压不住-agi-中央主机-智力差的杠杆太大.md"
 ---
 
 # Michael Anti：AI 本地模型再强也压不住 AGI 中央主机，智力差的杠杆太大

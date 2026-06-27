@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Codex 断联与推理慢的元凶：配置文件写死的参数和 MCP 在偷偷吃算力"
 description: "**[一句话核心判断]**  Codex 推理慢甚至断联很可能不是网络问题，而是配置文件里埋了硬编码参数和强制加载的 MCP，导致每次推理都在做无用功。  **信息增量：** - 归藏发现：同一网络环境下 Mac Studio 跑 Codex 飞快，另一台机器巨慢，最终定位到是 config 文件里写死了两个参数 + 两个必须加载的 MCP - 解法简单到反直觉：让 Codex 自己检查配置文件，"
 resource: "https://x.com/i/status/2061335964992323744"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2061335964992323744"
+created: "2026-06-01"
+updated: "2026-06-26"
+sha256: "071d6225e0bcaaac7991c35405ab29ab88a93fc18e1452b080b0819baf3e6ddd"
+sources:
+  - "/sources/news/2026-06-01/00__op7418__codex-断联与推理慢的元凶-配置文件写死的参数和-mcp-在偷偷吃算力.md"
 ---
 
 # Codex 断联与推理慢的元凶：配置文件写死的参数和 MCP 在偷偷吃算力

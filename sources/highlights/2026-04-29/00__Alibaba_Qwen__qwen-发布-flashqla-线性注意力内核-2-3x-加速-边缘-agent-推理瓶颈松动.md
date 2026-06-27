@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Qwen 发布 FlashQLA：线性注意力内核 2-3x 加速，边缘 Agent 推理瓶颈松动"
 description: "**边缘 AI 的真正瓶颈不是模型大小，而是注意力计算复杂度——FlashQLA 从内核层突破。**  - 基于 TileLang 构建的高性能线性注意力内核，前向 2-3x 加速，反向 2x 加速 - 三大技术亮点：Gate 驱动的自动卡内 CP、硬件友好代数重排、TileLang 融合 warp 专用内核 - 明确定位为「个人设备上的 agentic AI」，对 TP 配置、小模型、长上下文场"
 resource: "https://x.com/Alibaba_Qwen/status/2049462666734026923"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
+
 x_source: "ai-trend-digest"
+type_okf: "X Tweet"
+source_url: "https://x.com/Alibaba_Qwen/status/2049462666734026923"
+created: "2026-04-29"
+updated: "2026-06-26"
+sha256: "dc4b5cd9f42db80abd28f8aa6d23565525f51d5ad8abe56a753651ac282bbd73"
+sources:
+  - "/sources/highlights/2026-04-29/00__Alibaba_Qwen__qwen-发布-flashqla-线性注意力内核-2-3x-加速-边缘-agent-推理瓶颈松动.md"
 ---
 
 # Qwen 发布 FlashQLA：线性注意力内核 2-3x 加速，边缘 Agent 推理瓶颈松动

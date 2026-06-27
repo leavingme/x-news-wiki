@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Agent Skills实现7阶段懒加载：30个技能从150k tokens压缩到3k，懒才是工程美德"
 description: "**[30个技能150k tokens爆炸，Agent Skills懒加载后只需3k——这不是优化，是Agent记忆架构的分水岭]**  Agent Skills的7阶段懒加载机制揭示了一个核心事实：SKILL.md平时只存名字+描述于系统提示词，用时经过自动发现→智能挑选→按需激活→上下文注入→执行→卸载（dehydrate）六步，既省token又保持专注。  从150k到3k，压缩比50倍，意"
 resource: "https://x.com/i/status/2040044216487944602"
@@ -22,6 +22,13 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "agent-memory-optimization"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2040044216487944602"
+created: "2026-04-03"
+updated: "2026-06-26"
+sha256: "cbc1a815cdc9e9ec2eff561168b7de465446598f2e6b2edb82dba7a6263d40ee"
+sources:
+  - "/sources/highlights/2026-04-05/00__berryxia__agent-skills实现7阶段懒加载-30个技能从150k-tokens压缩到3k-懒才是工程美德.md"
 ---
 
 # Agent Skills实现7阶段懒加载：30个技能从150k tokens压缩到3k，懒才是工程美德

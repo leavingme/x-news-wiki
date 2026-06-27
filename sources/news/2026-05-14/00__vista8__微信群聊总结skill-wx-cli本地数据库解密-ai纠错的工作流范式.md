@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "微信群聊总结Skill：wx-cli本地数据库解密 + AI纠错的工作流范式"
 description: "**[技能固化新范式：微信数据库直读 + AI纠错闭环]**  宝玉老师基于卡比的wx-cli实现了微信群聊AI总结Skill，安装即用。技术链路清晰：wx-cli解密本地微信数据库 → 输出传给Claude Code/Codex → 自动解报错。这种「本地数据源 + LLM纠错」的解耦架构极具参考价值。  关键信号：相比直接调用微信API，本地数据库直读绕过平台限制，且SIP安全沙盒也不必关闭，"
 resource: "https://x.com/i/status/2054776695564145001"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2054776695564145001"
+created: "2026-05-14"
+updated: "2026-06-26"
+sha256: "bb841fab987d890c3be33811a865961a25c83e43ab046a473f92bda8bd31297a"
+sources:
+  - "/sources/news/2026-05-14/00__vista8__微信群聊总结skill-wx-cli本地数据库解密-ai纠错的工作流范式.md"
 ---
 
 # 微信群聊总结Skill：wx-cli本地数据库解密 + AI纠错的工作流范式

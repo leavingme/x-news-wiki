@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Polymarket 已成 AI Agent 试验田：8 个免费开源交易 Bot 暴露预测市场的工具链成熟度"
 description: "**预测市场的 Agent 化已经不是概念，而是工具链溢出阶段。**  - 8 个 Polymarket/Kalshi 开源 Bot 覆盖延迟套利���流动性做市、天气修正、DCA 等多种策略，Cambridge 黑客松项目 CloddsBot 单仓库即含 118+ 策略模板 - 天气模型用机器学习修正多源预报误差、再做预测，思路与量化对冲基金校准信号源同源 - 这一批 Bot 的真正意义不在策略"
 resource: "https://x.com/i/status/2069783953633157450"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2069783953633157450"
+created: "2026-06-24"
+updated: "2026-06-26"
+sha256: "4bdf2413dab71cff293bf6972cba3184f952afdff5385c0b9a8ac78439c79007"
+sources:
+  - "/sources/news/2026-06-24/00__waveking1314__polymarket-已成-ai-agent-试验田-8-个免费开源交易-bot-暴露预测市场的工具链成熟度.md"
 ---
 
 # Polymarket 已成 AI Agent 试验田：8 个免费开源交易 Bot 暴露预测市场的工具链成熟度

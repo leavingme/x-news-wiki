@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "「Alien」词源逆转：太空外星人叙事不过是1950年代的例外，陌生人才是本体"
 description: "**[语言学家才知道的词源反转]**  Michael Anti 指出「Alien」一词在 1950 年代前从未指代外星人，其拉丁词根源自「陌生人、外乡人」，本质是\"outsider\"的哲学定位。这一词义演变揭示了一个深层逻辑：人类对\"非我族类\"的恐惧，最初指向的是社会层面的他者，而非宇宙层面的未知。  - 词源学证据链完整：「alien」源自拉丁语「alienus」，核心义为\"不属于此处\" - "
 resource: "https://x.com/i/status/2058400815019409567"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2058400815019409567"
+created: "2026-05-24"
+updated: "2026-06-26"
+sha256: "7048e6886c291e8f9fead2b8665da20b3d72341917862d8cb277601715b4c4ec"
+sources:
+  - "/sources/news/2026-05-24/00__mranti__alien-词源逆转-太空外星人叙事不过是1950年代的例外-陌生人才是本体.md"
 ---
 
 # 「Alien」词源逆转：太空外星人叙事不过是1950年代的例外，陌生人才是本体

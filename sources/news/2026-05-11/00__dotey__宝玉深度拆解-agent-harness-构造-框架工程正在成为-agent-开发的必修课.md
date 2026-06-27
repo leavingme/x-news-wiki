@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "宝玉深度拆解 Agent Harness 构造：框架工程正在成为 Agent 开发的必修课"
 description: "**Harness 工程从「可选最佳实践」正在变成「不做就出局」的行业共识。**  - 宝玉翻译并深度拆解了 AI Agent Harness 的完整构造，降低中文社区的理解门槛 - 与 Orange AI 的判断形成共振：未来每个团队都是 harness 工程团队 - 从 Vibe Coding 到 Harness Engineering，开发者体验的范式迁移正在加速  gakki 锐评：Har"
 resource: "https://x.com/i/status/2053601852261110201"
@@ -22,6 +22,13 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "harness-engineering-mit-study"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2053601852261110201"
+created: "2026-05-10"
+updated: "2026-06-26"
+sha256: "a9ebf15f0a7f697270f6b1dc875f4420a8c61d36b033b2366a41a077d77f1ceb"
+sources:
+  - "/sources/news/2026-05-11/00__dotey__宝玉深度拆解-agent-harness-构造-框架工程正在成为-agent-开发的必修课.md"
 ---
 
 # 宝玉深度拆解 Agent Harness 构造：框架工程正在成为 Agent 开发的必修课

@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "清华/上交/InfiAI 提出 TaH：93% Token 直接跳过，只在硬问题上思考"
 description: "**一句话核心判断：** Think-at-Hard（TaH）证明了一个反直觉的结论——让模型「少想」反而更强，核心洞察是把推理算力从均匀分配改为按问题难度动态调度。  - 轻量级 decider 网络判断每个 Token 是否需要推理，对 93% 的 Token 直接跳过，只在难题上触发深度思考 - Depth-aware LoRA 模块和 duo-causal attention 机制在不过度"
 resource: "https://x.com/i/status/2060057766711193664"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2060057766711193664"
+created: "2026-05-28"
+updated: "2026-06-26"
+sha256: "6b8d85b7b1611270aea1b71e767b2b6a03c9b39ddab061fbee52dce5ebbfc71b"
+sources:
+  - "/sources/highlights/2026-05-28/00__jiqizhixin__清华-上交-infiai-提出-tah-93-token-直接跳过-只在硬问题上思考.md"
 ---
 
 # 清华/上交/InfiAI 提出 TaH：93% Token 直接跳过，只在硬问题上思考

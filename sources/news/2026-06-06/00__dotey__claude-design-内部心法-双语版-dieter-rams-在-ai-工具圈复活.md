@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Claude Design 内部心法：双语版 Dieter Rams 在 AI 工具圈复活"
 description: "**Claude Design 把产品设计当语言学教：5 条 EN/CN 双语对照的设计心法曝光。**  精选金句： - \"没人点击交互的产品原型，充其量只是一幅画\"（A prototype nobody clicks is just a painting） - \"最好的设计系统，是自然到让人察觉不到它的存在\" - \"糟糕的字体搭配一旦入眼，就再也忘不掉了\" - \"屏幕上的每一个像素都在疯狂争夺注"
 resource: "https://x.com/i/status/2063291945972060525"
@@ -22,6 +22,13 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "claude-design-tool"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2063291945972060525"
+created: "2026-06-06"
+updated: "2026-06-26"
+sha256: "0884675a1daaca42cdd1a01af0b08128d81fd926469eb43a3fbb5b6c96933c3b"
+sources:
+  - "/sources/news/2026-06-06/00__dotey__claude-design-内部心法-双语版-dieter-rams-在-ai-工具圈复活.md"
 ---
 
 # Claude Design 内部心法：双语版 Dieter Rams 在 AI 工具圈复活

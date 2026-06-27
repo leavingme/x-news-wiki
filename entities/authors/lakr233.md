@@ -1,5 +1,5 @@
 ---
-type: "Author"
+type: "entity"
 title: "砍砍.ᐟ (@Lakr233)"
 description: "X/Twitter 作者 @Lakr233。共收录 1 条 AI 精选推文。"
 tags:
@@ -12,6 +12,12 @@ x_author_name: "砍砍.ᐟ"
 x_tweet_count: 1
 x_first_seen: "2026-04-04T00:42:49.668Z"
 x_last_seen: "2026-04-04T00:42:49.668Z"
+type_okf: "Author"
+created: "2026-04-04"
+updated: "2026-06-26"
+sha256: "ac5d96213f5b409587114a83d4cfedc8a96328ea8595caa61d757860eb734c4f"
+sources:
+  - "/sources/news/2026-04-04/00__Lakr233__两小时抄完一个软件一个月全上架鸿蒙-开源才是终极-深根-策略.md"
 ---
 
 # 砍砍.ᐟ (@Lakr233)

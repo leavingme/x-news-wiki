@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "LoGeR 打破长视频 3D 重建瓶颈：混合内存架构实现小时级视频的一致性建模"
 description: "**[长视频 3D 重建的内存瓶颈被攻破]**  • Google DeepMind 与 UC Berkeley 联合发布 LoGeR，采用全局+局部混合内存系统，首次实现从短视频学习到小时级长视频扩展的 3D 一致性重建 • 核心突破在于双内存机制：全局内存保证场景整体一致性，局部内存确保片段间无缝过渡，解决了长视频 3D 建模的时序漂移难题 • 性能大幅超越 SOTA， tracking er"
 resource: "https://x.com/i/status/2037910332015042608"
@@ -22,6 +22,13 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "3d-visualization-model-capabilities"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2037910332015042608"
+created: "2026-03-28"
+updated: "2026-06-26"
+sha256: "18db20d17aeb68a8df0e4afe5de57a3e5836a57e6b2386ce72b17f2bf013c457"
+sources:
+  - "/sources/highlights/2026-03-28/00__jiqizhixin__loger-打破长视频-3d-重建瓶颈-混合内存架构实现小时级视频的一致性建模.md"
 ---
 
 # LoGeR 打破长视频 3D 重建瓶颈：混合内存架构实现小时级视频的一致性建模

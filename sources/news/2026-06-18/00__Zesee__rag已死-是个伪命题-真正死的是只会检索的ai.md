@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "「RAG已死」是个伪命题：真正死的是只会检索的AI"
 description: "**[检索增强不是过时，过时的是把RAG当万能膏药贴的产品思维]**  • 提出「只会检索的AI」已死，暗示下一代必须是检索+推理+记忆的复合体 • 与Manus上下文工程、Agent记忆基建形成同一信号 • 呼应LLM知识库RAG失效边界讨论   gakki锐评：观点正确但论据太薄——「RAG已死」是营销话术不是技术判断，真正分水岭在「检索是不是Agent的脚手架」而不是RAG本身。"
 resource: "https://x.com/i/status/2067545141888352261"
@@ -22,6 +22,13 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "llm-knowledge-base-rag-boundary"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2067545141888352261"
+created: "2026-06-18"
+updated: "2026-06-26"
+sha256: "e6e0a567d5f628de8f4be0e137a49f548556e521afdad1564aee62b8ae4f6680"
+sources:
+  - "/sources/news/2026-06-18/00__Zesee__rag已死-是个伪命题-真正死的是只会检索的ai.md"
 ---
 
 # 「RAG已死」是个伪命题：真正死的是只会检索的AI

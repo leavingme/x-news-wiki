@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Flow-OPD：单学生模型蒸馏多教师专家，GenEval 63→92 同时保真度不降"
 description: "**[一句话核心判断]**  Flow-OPD 通过 on-policy  learning 将多个专精教师的知识蒸馏进单一学生模型，在 GenEval 基准上从 63 提升至 92，OCR 从 59 提升至 94，且图像保真度维持不变。  **信息增量：** - 解决了 text-to-image 模型「多任务必取舍」的传统困境，one student 顶多个 specialized teach"
 resource: "https://x.com/i/status/2062723331065778438"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2062723331065778438"
+created: "2026-06-05"
+updated: "2026-06-26"
+sha256: "45546136c93a05f5099c26b5147bf5caa50d9146dc222cfb837c66ba4d28975d"
+sources:
+  - "/sources/news/2026-06-05/00__jiqizhixin__flow-opd-单学生模型蒸馏多教师专家-geneval-63-92-同时保真度不降.md"
 ---
 
 # Flow-OPD：单学生模型蒸馏多教师专家，GenEval 63→92 同时保真度不降

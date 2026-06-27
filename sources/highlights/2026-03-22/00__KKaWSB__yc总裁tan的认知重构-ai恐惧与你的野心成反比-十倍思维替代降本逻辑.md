@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "YC总裁Tan的认知重构：AI恐惧与你的野心成反比，十倍思维替代降本逻辑"
 description: "**【AI战略判断的分水岭：降本派 vs 十倍派】** • 核心论断：恐惧AI者多是「老本行守成者」，野心家视AI为需求创造的杠杆 • 杰文斯悖论再诠释：AI将像蒸汽机之于煤炭一样，指数级放大智力与劳动力消耗 • 投资逻辑迁移：从「如何用AI省成本」转向「如何让回报从10%变成50%」  Gakki锐评：这是典型的YC叙事——用极端对比制造认知冲击。但背后的信号是真实的：AI正在重塑「可行」的定义"
 resource: "https://x.com/i/status/2035611936700657790"
@@ -22,6 +22,13 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "ai-business-cognition-reconstruction"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2035611936700657790"
+created: "2026-03-22"
+updated: "2026-06-26"
+sha256: "5c35fdc7a818920d762098e865afd12eaf6ddd09b6e5262dda49b490225c1c50"
+sources:
+  - "/sources/highlights/2026-03-22/00__KKaWSB__yc总裁tan的认知重构-ai恐惧与你的野心成反比-十倍思维替代降本逻辑.md"
 ---
 
 # YC总裁Tan的认知重构：AI恐惧与你的野心成反比，十倍思维替代降本逻辑

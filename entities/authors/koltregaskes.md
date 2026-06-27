@@ -1,5 +1,5 @@
 ---
-type: "Author"
+type: "entity"
 title: "Kol Tregaskes (@koltregaskes)"
 description: "X/Twitter 作者 @koltregaskes。共收录 1 条 AI 精选推文。"
 tags:
@@ -12,6 +12,12 @@ x_author_name: "Kol Tregaskes"
 x_tweet_count: 1
 x_first_seen: "2026-05-02T13:17:57.356Z"
 x_last_seen: "2026-05-02T13:17:57.356Z"
+type_okf: "Author"
+created: "2026-05-02"
+updated: "2026-06-26"
+sha256: "493854ffc175152947f2cdea6112d2c4967c2d940f41e2cb4a66fc01cd62734b"
+sources:
+  - "/sources/highlights/2026-05-02/00__koltregaskes__google-cosmo-偷跑-1-13gb-端侧-ai-助手内置-14-项主动能力-i-o-大会前的火力侦察.md"
 ---
 
 # Kol Tregaskes (@koltregaskes)

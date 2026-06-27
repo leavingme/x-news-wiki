@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Nano Banana 给 GPT-Image 擦屁股：AI 生图的二阶段后处理已成新工种"
 description: "**GPT-Image 的\"毛躁破碎感\"有救了，Nano Banana 正在成为 AI 生图流水线的标配后处理。**  - 歸藏指出 GPT-Image-2.0 在非写实图片上常见破碎纹理与无意义细节，\"一眼 AI\"感强烈 - 用 Nano Banana 重绘+超分后，文字和细节更锐利，有意义细节增加，杂乱纹路被清理 - 附可直接复用的提示词：\"帮我将这张图片重绘和清晰化，让他细节更丰富，同时去掉"
 resource: "https://x.com/i/status/2068239294372987378"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2068239294372987378"
+created: "2026-06-20"
+updated: "2026-06-26"
+sha256: "77f88ea8dd157b60ebf915a72c8b2fb34fa02e2746e71bb5ef43b565e9694e47"
+sources:
+  - "/sources/news/2026-06-20/00__op7418__nano-banana-给-gpt-image-擦屁股-ai-生图的二阶段后处理已成新工种.md"
 ---
 
 # Nano Banana 给 GPT-Image 擦屁股：AI 生图的二阶段后处理已成新工种

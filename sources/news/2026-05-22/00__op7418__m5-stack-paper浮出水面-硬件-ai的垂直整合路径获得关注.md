@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "M5 Stack Paper浮出水面：硬件+AI的垂直整合路径获得关注"
 description: "**[硬件端AI的又一信号]**  - guizang.ai 向 @XCaptaincc 推荐 M5 Stack Paper，说明这个硬件组合在 AI 开发者圈已有一定认知度 - M5 Stack 是模块化硬件生态，Paper 是其电子纸显示屏模块——硬件+AI的垂直组合正在被更多开发者尝试 - 与 Raspberry Pi + e-ink 的极客路线不同，M5 Stack 提供更完整的工业封装 "
 resource: "https://x.com/i/status/2057700307329810925"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2057700307329810925"
+created: "2026-05-22"
+updated: "2026-06-26"
+sha256: "f14af164a70e0bd5e02841e1e21c7a3e87228549fd268097f49b4bfac7a93e20"
+sources:
+  - "/sources/news/2026-05-22/00__op7418__m5-stack-paper浮出水面-硬件-ai的垂直整合路径获得关注.md"
 ---
 
 # M5 Stack Paper浮出水面：硬件+AI的垂直整合路径获得关注

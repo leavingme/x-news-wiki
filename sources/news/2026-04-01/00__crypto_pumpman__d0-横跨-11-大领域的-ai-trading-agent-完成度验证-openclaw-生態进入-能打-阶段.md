@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "D0 横跨 11 大领域的 AI Trading Agent 完成度验证：OpenClaw 生態进入「能打」阶段"
 description: "**一句话核心判断：** Donut D0 在 OpenClaw 上完成了 200 个工具 × 11 领域的一站式覆盖，证明了 OpenClaw 生态的产品化深度已经足够支撑专业级金融 Agent——不只是 demo，是可以上桌的武器。  - D0 覆盖 Research、Perp、DeFi、回测、预测市场等 11 大领域，200 个工具，是目前见过的最完整的 AI Trading Agent 技"
 resource: "https://x.com/i/status/2039202745773920370"
@@ -22,6 +22,13 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "agent-tools-and-orchestration"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2039202745773920370"
+created: "2026-04-01"
+updated: "2026-06-26"
+sha256: "9381648d9c79d0449ace44826fc863a8cd931909bae88f4171236334144bdb2e"
+sources:
+  - "/sources/news/2026-04-01/00__crypto_pumpman__d0-横跨-11-大领域的-ai-trading-agent-完成度验证-openclaw-生態进入-能打-阶段.md"
 ---
 
 # D0 横跨 11 大领域的 AI Trading Agent 完成度验证：OpenClaw 生態进入「能打」阶段

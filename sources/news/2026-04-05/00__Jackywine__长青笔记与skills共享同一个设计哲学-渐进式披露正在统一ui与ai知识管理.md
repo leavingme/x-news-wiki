@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "长青笔记与Skills共享同一个设计哲学：渐进式披露正在统一UI与AI知识管理"
 description: "**「渐进式披露」从UI设计术语变成了AI知识管理的核心隐喻。**  · Jackywine发现长青笔记（标题+内容+引用）与Skills的共同结构——不是为了全量加载，而是为了AI能快速搜索定位。 · Progressive Disclosure本是交互设计经典概念，用于减少认知过载；现在它同时支配着现代UI和AI知识组织两条路径。 · 这不是巧合：当工具需要同时服务人类和AI两种读者时，同一个"
 resource: "https://x.com/i/status/2032282666486423643"
@@ -22,6 +22,13 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "llm-knowledge-base-rag-boundary"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2032282666486423643"
+created: "2026-03-13"
+updated: "2026-06-26"
+sha256: "8bc2543144482fcfaa90fe38d2d67e2bd91dab95b48c8c6d744d4bd4334a0018"
+sources:
+  - "/sources/news/2026-04-05/00__Jackywine__长青笔记与skills共享同一个设计哲学-渐进式披露正在统一ui与ai知识管理.md"
 ---
 
 # 长青笔记与Skills共享同一个设计哲学：渐进式披露正在统一UI与AI知识管理

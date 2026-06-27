@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "宝玉吐槽「重新发明轮子」，归藏认同：Skill 需要被重新定义"
 description: "**[Agent工具标准化之争] 中文 Agent圈开始争夺 Skill概念定义权**  -宝玉：「什么都要自己重新'发明'一套」——矛头指向 Agent工具链的重复造轮子 -归藏回应 dotey 的判断，认为 Skill 需要重新定义边界 -争议焦点：Skill究竟是 prompt模板、技能包、还是 API协议？   gakki锐评：当 Agent生态最资深的一批实践者开始争论「Skill是什么"
 resource: "https://x.com/i/status/2064029622304710955"
@@ -22,6 +22,13 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "skills-ecosystem-standards"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2064029622304710955"
+created: "2026-06-08"
+updated: "2026-06-26"
+sha256: "1458499b19eadd4fcd9e5e2f29fc71713a33c488fe513f350785170143782909"
+sources:
+  - "/sources/news/2026-06-08/00__op7418__宝玉吐槽-重新发明轮子-归藏认同-skill-需要被重新定义.md"
 ---
 
 # 宝玉吐槽「重新发明轮子」，归藏认同：Skill 需要被重新定义

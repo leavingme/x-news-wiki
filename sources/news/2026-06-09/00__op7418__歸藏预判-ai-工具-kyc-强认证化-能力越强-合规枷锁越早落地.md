@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "歸藏预判 AI 工具 KYC 强认证化：能力越强，合规枷锁越早落地"
 description: "**头部 AI 工具正在用\"强制 KYC 才能解锁高级能力\"做用户筛选。**  要点： - 歸藏观察到部分 AI 工具要求 KYC 实名后才允许使用 - 趋势与 Anthropic KYC、Claude 高阶功能门槛、API 实名收紧一脉相承 - 反映 AI 平台在能力通胀与监管压力之间，开始用合规做用户分层  gakki 锐评：KYC 化是 AI 工具走向\"金融级\"的必经之路——能力越强，平台越"
 resource: "https://x.com/i/status/2064260089385713841"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2064260089385713841"
+created: "2026-06-09"
+updated: "2026-06-26"
+sha256: "23e13f8913c81d7a60cb007b4d21cc0f1c169487ae1fbf7355cc694408bcfd0a"
+sources:
+  - "/sources/news/2026-06-09/00__op7418__歸藏预判-ai-工具-kyc-强认证化-能力越强-合规枷锁越早落地.md"
 ---
 
 # 歸藏预判 AI 工具 KYC 强认证化：能力越强，合规枷锁越早落地

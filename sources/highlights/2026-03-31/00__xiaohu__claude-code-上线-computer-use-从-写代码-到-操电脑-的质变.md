@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Claude Code 上线 Computer Use：从「写代码」到「操电脑」的质变"
 description: "**[Anthropic 补全 Agent 闭环最后一环：代码→编译→运行→验证全自动化]**  • Computer use 功能登陆 Claude Code，支持自动启动 App、点击 UI、找 bug、修复、验证 • 覆盖 SwiftUI、Electron 等无 CLI 的 GUI 工具，突破纯代码 Agent 的能力边界 • 与 Dispatch 联动实现「手机派任务→电脑自动执行」的跨端"
 resource: "https://x.com/i/status/2038790407568642223"
@@ -22,6 +22,13 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "claude-code-natural-language-workflow"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2038790407568642223"
+created: "2026-03-31"
+updated: "2026-06-26"
+sha256: "726fb38667cf32ab149d94b3bd8e8312475d49c4a3109ccada8ddb21ce07419d"
+sources:
+  - "/sources/highlights/2026-03-31/00__xiaohu__claude-code-上线-computer-use-从-写代码-到-操电脑-的质变.md"
 ---
 
 # Claude Code 上线 Computer Use：从「写代码」到「操电脑」的质变

@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Multica 开源：Devin理念本地化后终于让AI Agent成为看板「一等公民」"
 description: "**Coding Agent编排痛点催生新物种：本地多Agent协作工具正式商用级开源。**  · Devin是云上数字员工，Multica是本地自托管——把Vibe Kanban的多Agent并行思路+Devin自治理念落地。 · 核心突破：Issue甩给Agent，它能自己领任务、跑代码、更新状态、发评论，所有人一个看板实时可见，Agent不再是躲在终端里的黑盒。 · Devv_ai踩过坑后迅"
 resource: "https://x.com/i/status/2040721368187281457"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2040721368187281457"
+created: "2026-04-05"
+updated: "2026-06-26"
+sha256: "8ad056a3f02dc40face31dd8e1879e9bced3c64b785f4f9c200a9e1c11358e84"
+sources:
+  - "/sources/news/2026-04-05/00__wquguru__multica-开源-devin理念本地化后终于让ai-agent成为看板-一等公民.md"
 ---
 
 # Multica 开源：Devin理念本地化后终于让AI Agent成为看板「一等公民」

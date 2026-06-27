@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Clearly：砍掉双向链接和插件系统的极简 Markdown 编辑器，对 Agent 上下文更友好"
 description: "**轻量化 Markdown 工具正在回潮，Agent 友好性成为新的选型标准。** - 开源免费，支持 KaTeX、Mermaid、Callout，有 iOS 版和全局快捷键唤起 - 刻意不做 Obsidian 的双向链接和插件生态，降低认知负荷和文件格式复杂度 - 纯 Markdown 意味着 Agent 可以零成本读写，没有私有格式的解析税  锐评：Obsidian 的插件生态是优势也是包袱"
 resource: "https://x.com/i/status/2053477050942730743"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2053477050942730743"
+created: "2026-05-10"
+updated: "2026-06-26"
+sha256: "60ad850e5321380afa3986dab506ad9df57ddb316ac1fac488e55743d6e0f7cf"
+sources:
+  - "/sources/news/2026-05-10/00__vista8__clearly-砍掉双向链接和插件系统的极简-markdown-编辑器-对-agent-上下文更友好.md"
 ---
 
 # Clearly：砍掉双向链接和插件系统的极简 Markdown 编辑器，对 Agent 上下文更友好

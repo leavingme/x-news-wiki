@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "微信ClawBot插件上线：Agent入口层战争的「管道化」战略"
 description: "**[微信首次开放外部Agent管道，入口层逻辑发生质变]** • 不同于元宝的自建生态，ClawBot只做「管道」——不限制模型、不限制后端，唯一目标是锁定交互发生在微信内 • 这是微信历史上罕见的「去中心化」开放：公众号/小程序/视频号时代都要求遵守微信协议，Agent时代却主动放权 • 对开发者意味：Agent部署的「最后一公里」被打通，但也意味着所有Agent将直面微信的十亿级用户竞争  "
 resource: "https://x.com/i/status/2035760405797347735"
@@ -22,6 +22,13 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "agent-multi-platform"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2035760405797347735"
+created: "2026-03-22"
+updated: "2026-06-26"
+sha256: "8c84cd98c45fffbb330ac1693f211afa2bfa354cb40fdde8d70f19ee28593639"
+sources:
+  - "/sources/highlights/2026-03-23/00__Khazix0918__微信clawbot插件上线-agent入口层战争的-管道化-战略.md"
 ---
 
 # 微信ClawBot插件上线：Agent入口层战争的「管道化」战略

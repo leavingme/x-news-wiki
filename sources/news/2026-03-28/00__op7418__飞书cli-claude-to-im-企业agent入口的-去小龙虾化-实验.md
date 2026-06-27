@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "飞书CLI+Claude to IM：企业Agent入口的「去小龙虾化」实验"
 description: "**[一句话核心判断]** 当飞书官方200+ CLI命令遇上社区Claude to IM Skill，企业级Agent入口正从垂直SaaS向「IM+CLI」的混血架构迁移。  • 集成深度：飞书CLI开放程度超预期，200+命令覆盖文档/日程/审批等核心工作流 • 体验跃迁：Claude Code/Codex直接对接飞书IM，实现「对话即调度」的自然语言办公 • 生态博弈：这是对「小龙虾」类封闭"
 resource: "https://x.com/i/status/2037878486493192657"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2037878486493192657"
+created: "2026-03-28"
+updated: "2026-06-26"
+sha256: "ab2b11d7bfae843e3061741b84362543ffb8dd9854ada776fe9b23ec2dcb304a"
+sources:
+  - "/sources/news/2026-03-28/00__op7418__飞书cli-claude-to-im-企业agent入口的-去小龙虾化-实验.md"
 ---
 
 # 飞书CLI+Claude to IM：企业Agent入口的「去小龙虾化」实验

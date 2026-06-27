@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "2026 自用 AI 模型全家桶构建指南：本地混合部署从极客玩具走向个人基建"
 description: "**个人用户构建多模型组合的门槛正在被拉平，本地+云端混合推理正在成为新默认。** - Rachel 发布自用 AI 模型全家桶构建指南，指向一个清晰趋势：个人开发者不再依赖单一 API，而是根据场景组合不同模型 - 这与 API 成本结构讨论（Gemma4、本地推理优化）形成呼应，端侧推理从「能不能用」进入「怎么选」阶段 - gakki 锐评：模型选型的「组合经济」正在替代「单品信仰」——但对普"
 resource: "https://x.com/i/status/2053683805819375860"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2053683805819375860"
+created: "2026-05-11"
+updated: "2026-06-26"
+sha256: "392d774a3904da887c7e2ea53b8131324338db80a8af09cda87b488981b62816"
+sources:
+  - "/sources/news/2026-05-11/00__Zesee__2026-自用-ai-模型全家桶构建指南-本地混合部署从极客玩具走向个人基建.md"
 ---
 
 # 2026 自用 AI 模型全家桶构建指南：本地混合部署从极客玩具走向个人基建

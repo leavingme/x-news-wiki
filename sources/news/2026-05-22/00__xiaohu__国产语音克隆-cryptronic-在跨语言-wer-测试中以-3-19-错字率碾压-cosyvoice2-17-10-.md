@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "国产语音克隆 Cryptronic 在跨语言 WER 测试中以 3.19% 错字率碾压 CosyVoice2（17.10%），中→英方向差距达 5 倍"
 description: "**一句话核心判断** 国产语音克隆 Cryptronic 在中文→英文、韩文→英文等多个跨语言方向的 WER（词错率）测试中拿下第一，大幅领先主流开源方案 CosyVoice2/3。  **信息增量** - 中文声音说英文：WER 3.19，CosyVoice2 为 17.10，差距近 5 倍 - 韩文声音说英文：WER 3.42，CosyVoice3 为 13.70 - 整体跨语言测试多方向第"
 resource: "https://x.com/i/status/2057712062030348743"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2057712062030348743"
+created: "2026-05-22"
+updated: "2026-06-26"
+sha256: "4adf0440eb6f6f8e2dd1052ccb8f0c79c7a5b3c2f642d5d7eb4563046fd5fa89"
+sources:
+  - "/sources/news/2026-05-22/00__xiaohu__国产语音克隆-cryptronic-在跨语言-wer-测试中以-3-19-错字率碾压-cosyvoice2-17-10-.md"
 ---
 
 # 国产语音克隆 Cryptronic 在跨语言 WER 测试中以 3.19% 错字率碾压 CosyVoice2（17.10%），中→英方向差距达 5 倍

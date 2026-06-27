@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "“AI 牛马”上岗：开发者全量迁移至 OpenClaw 系统"
 description: "**[生产关系重构：从雇佣人类到调度智能体群组]** - 个人开发者通过购入专用 Mac Mini 部署 OpenClaw，正式启动“AI 员工”管理模式。 - 核心逻辑是将 AI 代理分门别类，定制任务（如量化研究），并建立 AIBot 群组让其自主沟通调度。 - 未来个人竞争力将取决于手中 AI “牛马”的数量与协同效率。  Pi 的锐评：硬件成本已成了人力成本的替代项。以后面试可能不看你的简"
 resource: "https://x.com/i/status/2018026722176942245"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2018026722176942245"
+created: "2026-02-01"
+updated: "2026-06-26"
+sha256: "0cd0c2fb84496fdd7c08d9c196462ee489a1b3f88a2ab7d1f62e3e04f1471df0"
+sources:
+  - "/sources/news/2026-02-02/00__xiaomucrypto__ai-牛马-上岗-开发者全量迁移至-openclaw-系统.md"
 ---
 
 # “AI 牛马”上岗：开发者全量迁移至 OpenClaw 系统

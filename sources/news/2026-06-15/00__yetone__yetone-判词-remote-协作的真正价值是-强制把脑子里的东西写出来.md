@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "yetone 判词：Remote 协作的真正价值是「强制把脑子里的东西写出来」"
 description: "**Remote 不是工作形式问题，而是「隐性知识强制显性化」的工程纪律。**  - yetone 观察：Remote 强制共享上下文 + 强制把脑内知识转成数字化文档 - 协作形式因此变得优雅：先数字化（无上下文污染丢失）→ 再异步（不占人类带宽） - 这是 Remote 比办公室高效的本质原因，跟地理位置无关   gakki 锐评：跟 Agent Memory 资产化是同一逻辑——人类的隐性知"
 resource: "https://x.com/i/status/2066447849316041153"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2066447849316041153"
+created: "2026-06-15"
+updated: "2026-06-26"
+sha256: "f029aaf6ede26be8a85d2aedae5f126057b982f7b4085d20656466153989926a"
+sources:
+  - "/sources/news/2026-06-15/00__yetone__yetone-判词-remote-协作的真正价值是-强制把脑子里的东西写出来.md"
 ---
 
 # yetone 判词：Remote 协作的真正价值是「强制把脑子里的东西写出来」

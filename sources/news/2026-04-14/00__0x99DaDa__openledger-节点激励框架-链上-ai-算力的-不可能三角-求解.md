@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "OpenLedger 节点激励框架：链上 AI 算力的「不可能三角」求解"
 description: "**[去中心化 AI 推理的核心矛盾：隐私、激励与信任如何同时成立]**  OpenLedger 面临的链上 AI 算力瓶颈触及一个根本问题——去中心化执行节点必须在「接受链上激励」「参与治理」「维持数据隐私」「保证结果正确性」之间找到平衡点。其节点激励机制设计值得关注的维度：  - **基础激励层**：服务次数 × 正确率 × 响应时延的综合评分模型 - **惩罚机制**：链上合约记录执行日志，"
 resource: "https://x.com/i/status/1951061815288295559"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/1951061815288295559"
+created: "2025-07-31"
+updated: "2026-06-26"
+sha256: "1c0db61605f885971a0c4de7c6630e142f5e16f60defb20f41e283ac3ef444f1"
+sources:
+  - "/sources/news/2026-04-14/00__0x99DaDa__openledger-节点激励框架-链上-ai-算力的-不可能三角-求解.md"
 ---
 
 # OpenLedger 节点激励框架：链上 AI 算力的「不可能三角」求解

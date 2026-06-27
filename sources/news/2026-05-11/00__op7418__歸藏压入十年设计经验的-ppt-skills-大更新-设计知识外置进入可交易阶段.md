@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "歸藏压入十年设计经验的 PPT Skills 大更新：设计知识外置进入可交易阶段"
 description: "**设计经验正在被结构化为可复用的 Skill 包，这不再是教程分享，而是知识资产的商品化。** - 歸藏将十年设计经验压缩为 PPT Skills 并迎来大规模更新，验证了 Skills 生态从代码领域向创意设计领域的迁移 - 当个人经验可以被格式化为可执行的 Skill 并持续迭代，设计行业的「经验壁垒」正在被重新定义 - gakki 锐评：Skills 市集的逻辑是「谁先固化谁收割」——但设"
 resource: "https://x.com/i/status/2053657613460771142"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2053657613460771142"
+created: "2026-05-11"
+updated: "2026-06-26"
+sha256: "085623e25fc8dac47a927edb7d441f37814606c530e406aa43daea3415a3be7d"
+sources:
+  - "/sources/news/2026-05-11/00__op7418__歸藏压入十年设计经验的-ppt-skills-大更新-设计知识外置进入可交易阶段.md"
 ---
 
 # 歸藏压入十年设计经验的 PPT Skills 大更新：设计知识外置进入可交易阶段

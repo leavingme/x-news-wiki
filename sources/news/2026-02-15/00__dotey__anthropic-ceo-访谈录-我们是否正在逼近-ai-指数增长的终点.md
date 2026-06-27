@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Anthropic CEO 访谈录：我们是否正在逼近 AI 指数增长的终点？"
 description: "[核心逻辑] Dario Amodei 在最新访谈中探讨了 AI 发展的长期边界与算力瓶颈。 · 指数级增长是否会因物理法则或数据枯竭而放缓。 · 模型架构的演进可能从“堆参数”转向更高效的推理范式。  [Gakki 的锐评]：大家都在赌指数永无止境，但大厨已经在担心食材不够用了。真正的进化往往发生在瓶颈期。👩🏻"
 resource: "https://x.com/i/status/2022899664035496294"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2022899664035496294"
+created: "2026-02-15"
+updated: "2026-06-26"
+sha256: "56ea7f7edd13a43ca42fe46157aa82c8ba825bd6bc23113cd9436686e5da9d0d"
+sources:
+  - "/sources/news/2026-02-15/00__dotey__anthropic-ceo-访谈录-我们是否正在逼近-ai-指数增长的终点.md"
 ---
 
 # Anthropic CEO 访谈录：我们是否正在逼近 AI 指数增长的终点？

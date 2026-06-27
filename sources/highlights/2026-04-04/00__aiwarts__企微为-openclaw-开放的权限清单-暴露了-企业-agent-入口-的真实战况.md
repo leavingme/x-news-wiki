@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "企微为 OpenClaw 开放的权限清单，暴露了「企业 Agent 入口」的真实战况"
 description: "**[企业 IM 平台正在成为 Agent 落地的主战场，权限开放程度成关键变量]**  1. 企微（WeChat Work）向 OpenClaw 开放了群聊、会议、日程、待办、通讯录等核心企业功能权限，配合 Skill 可实现文件读取、公众号/小红书/B站/Github 内容抓取。 2. 这意味着 Agent 已经渗透进企业工作流的「信息枢纽」层，而非仅停留在个人助手层面。 3. 微信 mark"
 resource: "https://x.com/i/status/2039704070085087446"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2039704070085087446"
+created: "2026-04-02"
+updated: "2026-06-26"
+sha256: "df0b7530636b8f1e4b1af8a1b06922011fa4074b3db7cbe5c641473ac293c69b"
+sources:
+  - "/sources/highlights/2026-04-04/00__aiwarts__企微为-openclaw-开放的权限清单-暴露了-企业-agent-入口-的真实战况.md"
 ---
 
 # 企微为 OpenClaw 开放的权限清单，暴露了「企业 Agent 入口」的真实战况

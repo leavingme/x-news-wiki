@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "信誉资产不是人设：tw93式开发者的品牌靠一次次靠谱交付堆出来"
 description: "**个人品牌的真正护城河是交付履历的复利，不是profile包装**  要点： - 向阳乔木评 tw93 出品：开发者信誉本质是\"一次次靠谱输出\"的累积复利 - \"人设靠profile打造\"与\"人设靠靠谱交付\"是两种截然不同的品牌建设范式 - 在 AI 工具同质化、复制成本崩塌的当下，开发者个人信誉是更难被复制的资产  空一行 gakki 锐评：当 Claude Code 源码能泄露、Cursor"
 resource: "https://x.com/i/status/2063450662344757297"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2063450662344757297"
+created: "2026-06-07"
+updated: "2026-06-26"
+sha256: "f7f2ec8d5b0fb16dd59aa5024d18902162e41bd453f06988c95f5147b188ba67"
+sources:
+  - "/sources/news/2026-06-07/00__vista8__信誉资产不是人设-tw93式开发者的品牌靠一次次靠谱交付堆出来.md"
 ---
 
 # 信誉资产不是人设：tw93式开发者的品牌靠一次次靠谱交付堆出来

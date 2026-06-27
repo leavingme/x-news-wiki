@@ -1,5 +1,5 @@
 ---
-type: "Author"
+type: "entity"
 title: "tangjinzhou (@tangjinzhou)"
 description: "X/Twitter 作者 @tangjinzhou。共收录 1 条 AI 精选推文。"
 tags:
@@ -12,6 +12,12 @@ x_author_name: "tangjinzhou"
 x_tweet_count: 1
 x_first_seen: "2026-01-30T12:00:00.000Z"
 x_last_seen: "2026-01-30T12:00:00.000Z"
+type_okf: "Author"
+created: "2026-01-30"
+updated: "2026-06-26"
+sha256: "1dd5f08d86c95e293a36220f9dbbbe894110149bdbe412d37499177584e6d3c0"
+sources:
+  - "/sources/news/2026-01-30/00__tangjinzhou__零基础-ai-编程-1-小时跑通实战课.md"
 ---
 
 # tangjinzhou (@tangjinzhou)

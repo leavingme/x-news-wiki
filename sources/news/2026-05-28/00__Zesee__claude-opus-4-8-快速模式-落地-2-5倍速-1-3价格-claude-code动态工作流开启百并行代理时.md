@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Claude Opus 4.8「快速模式」落地：2.5倍速+1/3价格，Claude Code动态工作流开启百并行代理时代"
 description: "**一句话：Claude Opus 4.8推出快速模式，通过同一模型实现2.5倍速度提升并降至原价1/3，同时Claude Code引入动态工作流——对复杂任务可调度数百个并行子代理并验证结果。**  信息增量： - 快速模式本质是同一模型的质量分级，不是蒸馏版本，价格战正式开打 - 动态工作流意味着Claude Code从「单代理执行」升级为「元代理编排」，百级并行子代理是工程层面的质变  影响"
 resource: "https://x.com/i/status/2060065426709885233"
@@ -22,6 +22,13 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "claude-code-ecosystem"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2060065426709885233"
+created: "2026-05-28"
+updated: "2026-06-26"
+sha256: "a49372e18a5a4b80454b0fbcf78e1b7bd5add346b136873c5533f55d73fa02ae"
+sources:
+  - "/sources/news/2026-05-28/00__Zesee__claude-opus-4-8-快速模式-落地-2-5倍速-1-3价格-claude-code动态工作流开启百并行代理时.md"
 ---
 
 # Claude Opus 4.8「快速模式」落地：2.5倍速+1/3价格，Claude Code动态工作流开启百并行代理时代

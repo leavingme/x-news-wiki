@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Perle 反潮流真相：在「自动化替代人力」的时代，它把「人」重新拉回核心"
 description: "**不是替代，是验证。**  - 行业共识是 AI 替代人力做数据标注，Perle 做了相反的事——让真医生审医疗数据、真律师审法律文本，把「专家验证」变成链上可审计的资产。 - 核心逻辑：Scale AI 解决了「规模」，Perle 解决的是「真实性」。这两个问题处于数据生产链的不同节点，Perle 不是在抢 Scale AI 的蛋糕，而是在建一层新的质量防火墙。 - 团队基因决定高度——CEO"
 resource: "https://x.com/i/status/2037509944338227616"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2037509944338227616"
+created: "2026-03-27"
+updated: "2026-06-26"
+sha256: "4f115b27a94381ff25b3159724cc399a9923fa4e3bea74e9a6693757a844d26a"
+sources:
+  - "/sources/news/2026-04-01/00__jielove233__perle-反潮流真相-在-自动化替代人力-的时代-它把-人-重新拉回核心.md"
 ---
 
 # Perle 反潮流真相：在「自动化替代人力」的时代，它把「人」重新拉回核心

@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "县城经济塌陷五重奏：玉伯回乡见闻中的AI失语与阶层固化"
 description: "**[AI叙事最稀缺的一手社会学切片]**  玉伯湖南返乡记录了五个相互关联的县城生态切片：房地产熄火释放大量闲置劳动力、旅游业萎缩、餐饮业收缩并走向\"烧烤联盟\"式的自我保护性整合、服务业批量倒闭、普通人赴边疆谋财路。更值得注意的是一个结构性发现：公务员体系是县城唯一\"活得跟从前一样\"的阶层，民间与体制的鸿沟正在从隐性变为显性阶层分野。  凶杀案抬头与抓赌力度加码同时出现，呈现出治安两极分化——暴"
 resource: "https://x.com/i/status/2060611687427035563"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2060611687427035563"
+created: "2026-05-30"
+updated: "2026-06-26"
+sha256: "a1f5df4384e3f57d4c6bf01d47f794160b79241b549ec3f68f790ca104885ba5"
+sources:
+  - "/sources/highlights/2026-05-30/00__lifesinger__县城经济塌陷五重奏-玉伯回乡见闻中的ai失语与阶层固化.md"
 ---
 
 # 县城经济塌陷五重奏：玉伯回乡见闻中的AI失语与阶层固化

@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "AgentPay SDK：AI「花真钱」的信任基础设施终于有人做了"
 description: "**[AI金融Agent从「玩具」到「生产力」的关键一跃]** • World Liberty Financial 开源 AgentPay SDK，让AI能在EVM链上持有、转移和使用USD1进行支付 • 「自托管+本地签名」设计解决核心信任问题：私钥留在本地机器，发送给WLFI的数据量为0 • 「策略优先」引擎强制每笔交易过审，从「能做什么」到「被允许做什么」的权限范式转移  **gakki锐评"
 resource: "https://x.com/i/status/2034849682787377166"
@@ -22,6 +22,13 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "ai-crypto-agent-infra"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2034849682787377166"
+created: "2026-03-20"
+updated: "2026-06-26"
+sha256: "d415ff8ed918dd2d21e2053b9e6de130fde13fcd526472886bee26e4e83fd0f5"
+sources:
+  - "/sources/highlights/2026-03-20/00__uniswap12__agentpay-sdk-ai-花真钱-的信任基础设施终于有人做了.md"
 ---
 
 # AgentPay SDK：AI「花真钱」的信任基础设施终于有人做了

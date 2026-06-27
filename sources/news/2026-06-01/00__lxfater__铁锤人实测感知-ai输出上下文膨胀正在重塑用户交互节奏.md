@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "铁锤人实测感知：AI输出上下文膨胀正在重塑用户交互节奏"
 description: "**一句话核心判断**  输出上下文的膨胀已到「感觉多很多」的程度——这不是技术参数的线性增长，而是用户认知负荷的非线性转折点。  **信息增量** - 「感觉输出的上下文多很多」是真实的用户体验信号，而非数据 - 铁锤人用「感觉」而非数字来描述变化，说明上下文膨胀已达到主观可感知的临界 - 这种膨胀对用户的实际影响取决于：是一次性输出还是增量输出、用户能否随时中断、输出是否结构化  **边界**"
 resource: "https://x.com/i/status/2061459219900240253"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2061459219900240253"
+created: "2026-06-01"
+updated: "2026-06-26"
+sha256: "2678e83661ae13d9c2175275b91140f5f2a53dc1c046e15ab13ba81fadeff7a6"
+sources:
+  - "/sources/news/2026-06-01/00__lxfater__铁锤人实测感知-ai输出上下文膨胀正在重塑用户交互节奏.md"
 ---
 
 # 铁锤人实测感知：AI输出上下文膨胀正在重塑用户交互节奏

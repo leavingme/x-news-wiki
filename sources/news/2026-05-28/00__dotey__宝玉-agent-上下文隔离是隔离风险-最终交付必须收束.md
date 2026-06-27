@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "宝玉：Agent 上下文隔离是隔离风险，最终交付必须收束"
 description: "**[一句话核心判断]**  宝玉指出 Agent 架构中\"发散视野\"与\"隔离上下文\"的价值——发散探索时保持隔离避免污染主任务，但最终交付成果必须收束到统一上下文。  **信息增量：** - 明确区分两种场景：发散探索（隔离上下文有益）vs 最终交付（需收束） - \"隔离上下文\"的核心价值是风险隔离，而非简单的话题分离 - 暗指当前很多 Agent 实现缺乏这种阶段性切换机制  **影响范围：*"
 resource: "https://x.com/i/status/2059830103769530526"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2059830103769530526"
+created: "2026-05-28"
+updated: "2026-06-26"
+sha256: "8b323238c54a7c4828c1c605e9dbdc8c0cefeb071adc6859c85d9c4c6b22bf90"
+sources:
+  - "/sources/news/2026-05-28/00__dotey__宝玉-agent-上下文隔离是隔离风险-最终交付必须收束.md"
 ---
 
 # 宝玉：Agent 上下文隔离是隔离风险，最终交付必须收束

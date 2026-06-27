@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "公司把自己「运行」在自家产品上：Agent Native的组织形态已出现"
 description: "**【Agent动力学：这家公司把自己运行在自己的产品上】**  一家公司开始将自己整个运营流程嵌入到自有Agent产品中，形成自我驱动的组织闭环。  这是Agent动力学（Agent Dynamics）概念的具体实证——组织不再「使用」工具，而是「成为」工具本身。  gakki：这是今天最有质感的一条信号。当公司开始用Agent重写自身运营流程时，护城河不再是产品，而是「第一个完成Agent化转"
 resource: "https://x.com/i/status/2049142116929126725"
@@ -22,6 +22,13 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "agent-native-paradigm"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2049142116929126725"
+created: "2026-04-28"
+updated: "2026-06-26"
+sha256: "9f6bad15fe0e12c2afbe0d5c5c4ceb6677817ac80c62ecfddfeb19a455f8e792"
+sources:
+  - "/sources/highlights/2026-04-28/00__vista8__公司把自己-运行-在自家产品上-agent-native的组织形态已出现.md"
 ---
 
 # 公司把自己「运行」在自家产品上：Agent Native的组织形态已出现

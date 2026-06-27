@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Clawdbot实战方法论：子代理分工+模型路由的「项目经理」模式"
 description: "**[单体Agent的瓶颈与分层解耦实践]**  • 模型分层策略：费脑任务用Opus/Claude，资料检索用廉价模型，长文档用Gemini Pro(100万上下文省60%成本) • 竞品分析实战：拆分为3个子代理并行处理，5分钟完成原本30分钟的工作，主代理只看摘要避免信息过载 • 角色定位反转：让Clawd当「项目经理」而非「程序员」，通过SOUL.md规则触发专用代理执行编码任务  关键洞"
 resource: "https://x.com/i/status/2015639040251535484"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "bookmark"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2015639040251535484"
+created: "2026-01-26"
+updated: "2026-06-26"
+sha256: "10b3dc15a5b1ddccf69dd3f5c5a35267bd734f597bdc67a3b22cb0cda8b63044"
+sources:
+  - "/sources/news/2026-03-18/00__ruiapp__clawdbot实战方法论-子代理分工-模型路由的-项目经理-模式.md"
 ---
 
 # Clawdbot实战方法论：子代理分工+模型路由的「项目经理」模式

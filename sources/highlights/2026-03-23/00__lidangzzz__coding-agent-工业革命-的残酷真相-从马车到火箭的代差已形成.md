@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Coding Agent「工业革命」的残酷真相：从马车到火箭的代差已形成"
 description: "**[Coding Agent的技术代差已达不可逆的鸿沟]** • lidang指出从初代SWE Agent到Claude Code/Codex，短短两三年已历经「马车→火车→汽车→飞机→火箭」级别的四次工业革命 • 手搓初代Agent有教学意义，但要追上第一梯队必须深入研读Codex/Claude Code的复杂架构代码 • Roo Coder、Cline、Aider等昔日明星开源产品已与头部工"
 resource: "https://x.com/i/status/2035870534534144132"
@@ -22,6 +22,13 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "claude-code-ecosystem"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2035870534534144132"
+created: "2026-03-23"
+updated: "2026-06-26"
+sha256: "98cc2830894d569ad18c35caf72619aa5c3b923810d3a147f21c029fa954a498"
+sources:
+  - "/sources/highlights/2026-03-23/00__lidangzzz__coding-agent-工业革命-的残酷真相-从马车到火箭的代差已形成.md"
 ---
 
 # Coding Agent「工业革命」的残酷真相：从马车到火箭的代差已形成

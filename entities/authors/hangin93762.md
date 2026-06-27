@@ -1,5 +1,5 @@
 ---
-type: "Author"
+type: "entity"
 title: "Han Wu (@Hangin93762)"
 description: "X/Twitter 作者 @Hangin93762。共收录 1 条 AI 精选推文。"
 tags:
@@ -12,6 +12,12 @@ x_author_name: "Han Wu"
 x_tweet_count: 1
 x_first_seen: "2026-02-12T13:18:21.100Z"
 x_last_seen: "2026-02-12T13:18:21.100Z"
+type_okf: "Author"
+created: "2026-02-12"
+updated: "2026-06-26"
+sha256: "1aae8c224ca97f5ce14ffc63d96b1a7a4fae793a40987f9df66840cec2c14b87"
+sources:
+  - "/sources/news/2026-02-12/00__Hangin93762__cs-学生党省钱策略-放弃订阅网页版-ai-拥抱-api-与-ide.md"
 ---
 
 # Han Wu (@Hangin93762)

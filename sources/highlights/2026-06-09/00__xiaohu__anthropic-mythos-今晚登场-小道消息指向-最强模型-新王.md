@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Anthropic Mythos 今晚登场：小道消息指向「最强模型」新王"
 description: "**[一句话判断]** Anthropic 深夜档放出「最强 AI 模型 Mythos」信号，时间点耐人寻味。  - 选择晚间发布，避开白天消息流正面对冲，节奏上是「压轴」而非「抢跑」 - 命名 Mythos 与此前 subtopic 中提到的可解释性/Agent 安全叙事一致，但产品定位仍需官方确认 - 若 Mythos 真是 SOTA，将叠加 300 亿 ARR 的商业势能，进一步压缩 Ope"
 resource: "https://x.com/i/status/2064277342927917554"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2064277342927917554"
+created: "2026-06-09"
+updated: "2026-06-26"
+sha256: "744fa94dedf1b17f0dd98eda8761e0066485f6df5a275d330c22c7b1dfe07f72"
+sources:
+  - "/sources/highlights/2026-06-09/00__xiaohu__anthropic-mythos-今晚登场-小道消息指向-最强模型-新王.md"
 ---
 
 # Anthropic Mythos 今晚登场：小道消息指向「最强模型」新王

@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "AI支付壁垒比AI本身更难：AEON正在解决「AI最后一块木板」"
 description: "**一句话核心判断：AI Agent的真正瓶颈不是智能，是支付——谁能解决AI的经济主权问题，谁就拿到了下一阶段的基础设施门票。**  核心逻辑： - Gartner和McKinsey数据显示，2026年底40%企业应用将嵌入AI代理，多代理系统将贡献数万亿美元新增价值 - 但传统支付系统天然排斥AI：没有银行卡、无法KYC、动不动每秒几十万次微支付——现有基础设施根本不支持AI的经济行为 - A"
 resource: "https://x.com/i/status/2038435897008591242"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2038435897008591242"
+created: "2026-03-30"
+updated: "2026-06-26"
+sha256: "33a40b457ea828b1832ff3a5ca1bf34d017aca67698d07ec45d1e1e955e82da3"
+sources:
+  - "/sources/highlights/2026-04-18/00__zhuanfgghjnb__ai支付壁垒比ai本身更难-aeon正在解决-ai最后一块木板.md"
 ---
 
 # AI支付壁垒比AI本身更难：AEON正在解决「AI最后一块木板」

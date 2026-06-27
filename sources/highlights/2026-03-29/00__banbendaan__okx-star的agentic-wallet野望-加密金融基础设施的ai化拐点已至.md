@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "OKX Star的Agentic Wallet野望：加密金融基础设施的AI化拐点已至"
 description: "**[Agent钱包正从概念验证走向产品化交付]** • OKX创始人Star亲自下场推动Agentic Wallet，标志头部交易所正式将AI Agent纳入核心战略路线图 • 怀石料理级别的闭门交流暗示这不是PR噱头，而是底层架构级重构——钱包将从「工具」进化为「自主执行代理」 • 影响边界：对普通用户是交互体验升级，对DeFi协议是流量入口重构，对监管是全新的合规命题  **gakki锐评*"
 resource: "https://x.com/i/status/2037849474509533316"
@@ -22,6 +22,13 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "ai-crypto-agent-infra"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2037849474509533316"
+created: "2026-03-28"
+updated: "2026-06-26"
+sha256: "762c460fbfb26d297495236d69132e2a2243112fcae533d7938818a5da1c6a4a"
+sources:
+  - "/sources/highlights/2026-03-29/00__banbendaan__okx-star的agentic-wallet野望-加密金融基础设施的ai化拐点已至.md"
 ---
 
 # OKX Star的Agentic Wallet野望：加密金融基础设施的AI化拐点已至

@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "「非法感」AI 工具大赏：免费无限生图、5秒声纹克隆、Kling 中文视频全面免费化"
 description: "**当 AI 能力开始以「免费无限」姿态大规模外溢，内容生产工具的护城河正在加速消失。**  要点： - 生图侧：免费无限工具质量已逼近 Midjourney，实时出图、AI 无限放大、一键抠图修图形成完整流水线 - 语音/视频侧：5 秒声纹克隆、一张照片+语音生成数字人、Kling（可灵）中文视频生成被点名为最丝滑 - 数字人侧：静态照片变说话视频、Gen-3 免费试用，意味着「短视频/人设内容"
 resource: "https://x.com/i/status/2069716173604921646"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2069716173604921646"
+created: "2026-06-24"
+updated: "2026-06-26"
+sha256: "a7eca3b7ff4b751c6cdba7038367b75038b1e22b9a12d6eb66955c1c73baa6a8"
+sources:
+  - "/sources/news/2026-06-24/00__0x404page__非法感-ai-工具大赏-免费无限生图-5秒声纹克隆-kling-中文视频全面免费化.md"
 ---
 
 # 「非法感」AI 工具大赏：免费无限生图、5秒声纹克隆、Kling 中文视频全面免费化

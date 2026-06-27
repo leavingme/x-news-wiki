@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "GLM 5.2 已上线，Kimi K2.7 即将跟进——国产模型进入周更节奏"
 description: "**国产大模型静默进入「周更」节奏，GLM 与 Kimi 双线推进。**  - 智谱 GLM 5.2 已正式上线（被对话间接确认） - 月之暗面 Kimi K2.7 尚未发布，但「估计也快了」 - 一个月内两个 SOTA 级国产模型迭代，节奏显著加快   gakki 锐评：信息源是闲聊回复、缺乏官方公告佐证，属于听风而非实证，转载前建议蹲一手官号确认。"
 resource: "https://x.com/i/status/2067239032757625193"
@@ -22,6 +22,13 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "domestic-model-competition"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2067239032757625193"
+created: "2026-06-17"
+updated: "2026-06-26"
+sha256: "6987e5c05e421d6777f41a03cf96620a2ede78b660f9960c012d7f1f3e4673a8"
+sources:
+  - "/sources/news/2026-06-17/00__gkxspace__glm-5-2-已上线-kimi-k2-7-即将跟进-国产模型进入周更节奏.md"
 ---
 
 # GLM 5.2 已上线，Kimi K2.7 即将跟进——国产模型进入周更节奏

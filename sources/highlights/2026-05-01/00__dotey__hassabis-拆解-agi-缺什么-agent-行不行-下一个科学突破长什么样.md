@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Hassabis 拆解 AGI 缺什么、Agent 行不行、下一个科学突破长什么样"
 description: "**DeepMind CEO 公开拆解 AGI 路径与科学发现机遇，在 OpenAI 全力做产品的当下坚持差异化赛道。**  - Hassabis 讨论 AGI 还缺什么、智能体到底行不行、下一个科学突破在哪里——三个关键问题一次回答 - 这是继 Demis 获诺奖后，对 AI for Science 方向的最新战略表态 - 在行业集体向 Agent 产品倾斜时，DeepMind 仍在科学发现赛道"
 resource: "https://x.com/i/status/2050014278019588405"
@@ -22,6 +22,13 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "ai-research-paradigm"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2050014278019588405"
+created: "2026-05-01"
+updated: "2026-06-26"
+sha256: "fcd033b0b77b310519d8964cc697140f1bf81575b751fe747644121218d7c0d6"
+sources:
+  - "/sources/highlights/2026-05-01/00__dotey__hassabis-拆解-agi-缺什么-agent-行不行-下一个科学突破长什么样.md"
 ---
 
 # Hassabis 拆解 AGI 缺什么、Agent 行不行、下一个科学突破长什么样

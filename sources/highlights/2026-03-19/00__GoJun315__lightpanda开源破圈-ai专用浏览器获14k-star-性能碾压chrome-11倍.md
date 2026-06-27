@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Lightpanda开源破圈：AI专用浏览器获14K Star，性能碾压Chrome 11倍"
 description: "**【一句话核心判断】** 为AI Agent从零构建的浏览器底层正在获得开源社区用脚投票的认可，这标志着「AI原生基础设施」从概念验证进入生态扩张阶段。  • 性能数据：比Chrome快11倍，内存占用减少9倍，完全摒弃Chromium包袱从零构建 • 开源信号：14000+ Star的社区热度，反映出Agent开发者对「浏览器即API」这一范式的真实需求 • 生态位卡位：Lightpanda正"
 resource: "https://x.com/i/status/2032381157271343546"
@@ -22,6 +22,13 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "agent-browser-token-efficiency"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2032381157271343546"
+created: "2026-03-13"
+updated: "2026-06-26"
+sha256: "218acfede0c8c76b9197d5049726c141d56fa3408737f386d6862d5531c7e04b"
+sources:
+  - "/sources/highlights/2026-03-19/00__GoJun315__lightpanda开源破圈-ai专用浏览器获14k-star-性能碾压chrome-11倍.md"
 ---
 
 # Lightpanda开源破圈：AI专用浏览器获14K Star，性能碾压Chrome 11倍

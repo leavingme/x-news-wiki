@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Codex 的「拼图式」素材管理：AI Agent 开始展现非人类直觉的问题解决方式"
 description: "**面对上千张游戏素材，Codex 自主发明了「拼大图」策略来高效浏览和选择资源。**  - 没有人指示具体方法，Agent 自己把所有小图拼成一张大图并标注文件名，实现「一图览全局」 - 这种解法不是人类的直觉路径——人类会逐个翻阅或用文件管理器筛选 - 揭示了一个重要趋势：AI Agent 的问题解决方式可能比人类更高效，但路径完全不同  锐评：这才是 Agent 最值得关注的能力——不是复制"
 resource: "https://x.com/i/status/2050030364018819581"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2050030364018819581"
+created: "2026-05-01"
+updated: "2026-06-26"
+sha256: "fd5c2d4df42040927b491d3f068f9d188eec123973f6a27ef0395541082af783"
+sources:
+  - "/sources/news/2026-05-01/00__op7418__codex-的-拼图式-素材管理-ai-agent-开始展现非人类直觉的问题解决方式.md"
 ---
 
 # Codex 的「拼图式」素材管理：AI Agent 开始展现非人类直觉的问题解决方式

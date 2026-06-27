@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "余温三周OpenClaw踩坑实录：多Agent协作的核心问题是\"身份缺失\""
 description: "**【一句话核心判断】**  多Agent协作失败的根因不是技术，是没有给Agent建立独立身份边界。  **信息增量：** - OpenClaw多Agent Discord方案失败：token燃烧、Agent间冲突、无限互相@调用 - 尝试过的约束手段（prompt限制、裁判机制、轮次限制）均无效 - helioim_ai解决方案：每个AI有独立身份（名字+邮箱+职责范围），分工而非对话 - 意"
 resource: "https://x.com/i/status/2059245277102411914"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2059245277102411914"
+created: "2026-05-26"
+updated: "2026-06-26"
+sha256: "af520ad91c7a4f27c15618a617f3cc36f5b9dc86f82674ffcf66c25275e6a287"
+sources:
+  - "/sources/highlights/2026-05-26/00__gkxspace__余温三周openclaw踩坑实录-多agent协作的核心问题是-身份缺失.md"
 ---
 
 # 余温三周OpenClaw踩坑实录：多Agent协作的核心问题是"身份缺失"

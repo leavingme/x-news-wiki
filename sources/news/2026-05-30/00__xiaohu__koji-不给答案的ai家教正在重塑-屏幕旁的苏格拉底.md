@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Koji：不给答案的AI家教正在重塑\"屏幕旁的苏格拉底\""
 description: "**【一句话核心判断】** MIT/哈佛团队训练的Koji代表了AI家教产品的一个根本转向——从\"给你答案\"到\"逼你自己想\"，用屏幕感知+Socratic追问替代传统的步骤清单式辅导。  **要点：** - Koji能看见用户屏幕，不需要用户描述题目，它自己趴在你旁边看着你卡在哪一步 - 核心机制：不直接给答案，而是通过提问引导你自己推导出来，保护学习机会 - 图形化是关键：能在用户的题上直接高亮"
 resource: "https://x.com/i/status/2060545269025190247"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2060545269025190247"
+created: "2026-05-30"
+updated: "2026-06-26"
+sha256: "463ba9aa60b8ffe6499f195c5b51165281b0d4352ee6fceded6088ec51733558"
+sources:
+  - "/sources/news/2026-05-30/00__xiaohu__koji-不给答案的ai家教正在重塑-屏幕旁的苏格拉底.md"
 ---
 
 # Koji：不给答案的AI家教正在重塑"屏幕旁的苏格拉底"

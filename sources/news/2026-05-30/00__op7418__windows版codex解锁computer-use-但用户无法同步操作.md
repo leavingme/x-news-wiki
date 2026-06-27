@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Windows版Codex解锁Computer Use：但用户无法同步操作"
 description: "**【一句话核心判断】** Codex在Windows上落地Computer Use以及ChatGPT远程控制功能，但实现逻辑与Mac版不同——Windows上AI控制时用户无法操作，这暴露了跨平台Agent能力落地的关键差异。  **要点：** - Windows支持Codex的Computer Use，以及通过移动端ChatGPT远程控制Windows - Windows版Computer U"
 resource: "https://x.com/i/status/2060549911960293704"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2060549911960293704"
+created: "2026-05-30"
+updated: "2026-06-26"
+sha256: "9a9a4b3751f14faec3c89375107e3919a2c3bd7b28d805420474d97b90947b47"
+sources:
+  - "/sources/news/2026-05-30/00__op7418__windows版codex解锁computer-use-但用户无法同步操作.md"
 ---
 
 # Windows版Codex解锁Computer Use：但用户无法同步操作

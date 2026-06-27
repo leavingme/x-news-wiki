@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "向阳乔木发布提示词Chrome插件：集成姚老师、苍何500+套提示词，支持任意AI平台一键复用"
 description: "**[提示词从个人工具演变为可分发商品，但分发渠道仍在浏览器层而非模型层]**  发布了Chrome插件，将姚老师、苍何等创作者积累的500+套提示词打包为可搜索、一键复制的产品。核心价值：提示词资产化+跨平台分发+自动补全。  信号意义：提示词商品化的分发载体从模型平台（GPTs）迁移到了浏览器插件层——工具层先于平台层成熟。  gakki锐评：这套插件证明了提示词资产可以被「套件化」并独立流通"
 resource: "https://x.com/i/status/2057820198502068399"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2057820198502068399"
+created: "2026-05-22"
+updated: "2026-06-26"
+sha256: "05472b85bf94a178f1758039025c4c45cebb06407fb068c62b5d5d3e767b7bd5"
+sources:
+  - "/sources/news/2026-05-22/00__vista8__向阳乔木发布提示词chrome插件-集成姚老师-苍何500-套提示词-支持任意ai平台一键复用.md"
 ---
 
 # 向阳乔木发布提示词Chrome插件：集成姚老师、苍何500+套提示词，支持任意AI平台一键复用

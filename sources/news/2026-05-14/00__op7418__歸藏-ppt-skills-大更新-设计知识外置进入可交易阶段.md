@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "歸藏 PPT Skills 大更新：设计知识外置进入可交易阶段"
 description: "**[一句话核心判断]** 歸藏公开演示 Skill 调用能力，配合十年设计经验封装的 PPT Skills，表明设计知识资产化/商品化路径已从概念进入可调用阶段。  **信息增量：** - 这是 2026-05-15 Subtopic「dbskill：小红书标题配方化与Skill市集演进」的本地进展，屬性相同但主體不同 - 调用 Skill 的自由度提升，意味着垂直领域知识封装正在脱离\"模板\"形"
 resource: "https://x.com/i/status/2054904223788351918"
@@ -22,6 +22,13 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "dbskill-formula-marketplace"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2054904223788351918"
+created: "2026-05-14"
+updated: "2026-06-26"
+sha256: "a19128fb096b6cb91992c50d15304936d8dac37483191b4acfa209a5ef18301c"
+sources:
+  - "/sources/news/2026-05-14/00__op7418__歸藏-ppt-skills-大更新-设计知识外置进入可交易阶段.md"
 ---
 
 # 歸藏 PPT Skills 大更新：设计知识外置进入可交易阶段

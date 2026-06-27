@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "中国否决Meta 20亿美元收购Manus：AI投资审查进入「防御性收紧」新阶段"
 description: "**中国监管首次以国家安全为由否决大型跨国AI收购案。**  - Manus是一款通用AI Agent产品，Meta出价20亿美元意图将其纳入旗下 - 中国监管部门援引数据安全与AI基础设施控制权理由否决该交易 - 这是继TikTok谈判之后，中国首次对大型美国科技公司AI资产收购动用否决权 - 信号意义：中国的AI监管框架已从「被动审批」转向「主动防御」，未来跨境AI并购将面临系统性障碍  Ma"
 resource: "https://x.com/spectatorindex/status/2048711936595128448"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "ai-trend-digest"
+type_okf: "X Tweet"
+source_url: "https://x.com/spectatorindex/status/2048711936595128448"
+created: "2026-04-27"
+updated: "2026-06-26"
+sha256: "c40c9ec12aaa7dd8a702bc2cfc26ecee2c881e5156fa94317c6cb38b1c31c835"
+sources:
+  - "/sources/news/2026-04-27/00__spectatorindex__中国否决meta-20亿美元收购manus-ai投资审查进入-防御性收紧-新阶段.md"
 ---
 
 # 中国否决Meta 20亿美元收购Manus：AI投资审查进入「防御性收紧」新阶段

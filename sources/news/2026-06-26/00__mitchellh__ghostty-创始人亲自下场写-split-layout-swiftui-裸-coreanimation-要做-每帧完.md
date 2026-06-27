@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Ghostty 创始人亲自下场写 Split Layout：SwiftUI + 裸 CoreAnimation，要做\"每帧完美\"动画"
 description: "**Mitchell Hashimoto 公开 Ghostty 跨平台 Split Layout 框架雏形，目标\"每帧完美\"动画。**  - 跨 Apple 全平台（macOS / iOS 等）通用，纯 SwiftUI + 裸 CoreAnimation 混写，绕过系统默认动画的妥协 - 目前仍是 WIP，但作者明确表态要\"bring it back to Ghostty eventually\"—"
 resource: "https://x.com/i/status/2070273858154987537"
@@ -22,6 +22,13 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "ghostty-terminal-adoption"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2070273858154987537"
+created: "2026-06-25"
+updated: "2026-06-26"
+sha256: "2b9619d955504a17c349a9f27d94b449cd8dc0cb1bd3583a09417c1ec825d171"
+sources:
+  - "/sources/news/2026-06-26/00__mitchellh__ghostty-创始人亲自下场写-split-layout-swiftui-裸-coreanimation-要做-每帧完.md"
 ---
 
 # Ghostty 创始人亲自下场写 Split Layout：SwiftUI + 裸 CoreAnimation，要做"每帧完美"动画

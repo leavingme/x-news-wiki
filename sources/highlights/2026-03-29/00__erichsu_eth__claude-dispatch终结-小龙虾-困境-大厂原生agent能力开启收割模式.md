@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Claude Dispatch终结「小龙虾」困境：大厂原生Agent能力开启收割模式"
 description: "**[大厂Agent原生化的死亡宣判]** • Anthropic推出Dispatch实现手机远程向桌面Claude派活，持续对话+异步任务执行一气呵成 • 独立Agent项目的技术护城河被击穿：用户无需再为「跨设备编排」支付第三方溢价 • Web3 Agent叙事的底层逻辑遭质疑——当中间件能力被模型厂商原生集成，协议层价值捕获何从？  大厂不跟你竞争，直接定义赛道规则。留给第三方Agent窗口"
 resource: "https://x.com/i/status/2034105207194542399"
@@ -22,6 +22,13 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "agent-mobile-orchestration"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2034105207194542399"
+created: "2026-03-18"
+updated: "2026-06-26"
+sha256: "debfbfa308d834ddbe8ad28bd8730787505624bcc13125670f23770afd908c41"
+sources:
+  - "/sources/highlights/2026-03-29/00__erichsu_eth__claude-dispatch终结-小龙虾-困境-大厂原生agent能力开启收割模式.md"
 ---
 
 # Claude Dispatch终结「小龙虾」困境：大厂原生Agent能力开启收割模式

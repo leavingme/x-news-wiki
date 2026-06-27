@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "向阳乔木点出开源数据「高风亮节」背后的训练隐患"
 description: "**当一个项目/团队公开释放数据或资源刷口碑，真正的代价可能是「被免费拿去训练」。**  - 「赚口碑」与「喂对手」的边界在 AI 时代变得模糊 - 指向 AI 蒸馏伦理与开源数据治理的结构性矛盾 - 反映开发者对「善意释放」被薅羊毛的普遍焦虑   gakki 锐评：这条虽短，但戳中的是 AI 时代的道德套利——开放数据的成本谁来承担，目前没人有答案。"
 resource: "https://x.com/i/status/2067291199581606238"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2067291199581606238"
+created: "2026-06-17"
+updated: "2026-06-26"
+sha256: "731f3e45eeb10b8f8bb99dda1880299d04e374f01c7247bce7544d2741f2e210"
+sources:
+  - "/sources/news/2026-06-17/00__vista8__向阳乔木点出开源数据-高风亮节-背后的训练隐患.md"
 ---
 
 # 向阳乔木点出开源数据「高风亮节」背后的训练隐患

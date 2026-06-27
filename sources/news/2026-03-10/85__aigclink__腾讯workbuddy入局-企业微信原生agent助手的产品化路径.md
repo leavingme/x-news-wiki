@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "腾讯WorkBuddy入局：企业微信原生Agent助手的产品化路径"
 description: "**【大厂的企业Agent策略】**腾讯发布WorkBuddy，定位\"AI原生桌面助手\"，内置代码、文档、研究、数据分析模板，支持一分钟接入企业微信完成全流程交付。多Agents并行架构+MCP/Skill内置，显示其选择\"免搭建开箱即用\"路线切入企业场景。  gakki锐评：腾讯的入场验证了企业Agent市场的确定性，但\"企业微信独占\"策略也暴露出大厂对入口控制的焦虑——这与OpenClaw的开"
 resource: "https://x.com/i/status/2030924113020109299"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 85
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2030924113020109299"
+created: "2026-03-09"
+updated: "2026-06-26"
+sha256: "cd0cc32194bed1e479844ea10e5d6f9485d4ceda80858e438fec0bc0e4151791"
+sources:
+  - "/sources/news/2026-03-10/85__aigclink__腾讯workbuddy入局-企业微信原生agent助手的产品化路径.md"
 ---
 
 # 腾讯WorkBuddy入局：企业微信原生Agent助手的产品化路径

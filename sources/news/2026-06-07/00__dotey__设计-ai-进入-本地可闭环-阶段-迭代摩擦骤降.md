@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "设计 AI 进入\"本地可闭环\"阶段，迭代摩擦骤降"
 description: "**\"本地就能方便地修改调整设计\"——设计 AI 的迭代成本临界点已被越过**。 - 宝玉确认：设计生成→本地修改→再生成 的闭环不再依赖云端往返或外发协作 - 这意味着设计 AI 真正进入\"个人工具\"形态，而非过去那种\"云端一次性出图\"的体验 - 配合 ID 2063461804550897858 的 Cursor+Skill 链路，个人开发者可独立完成从设计到修改到落地的全流程   gakki"
 resource: "https://x.com/i/status/2063447800482759107"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2063447800482759107"
+created: "2026-06-07"
+updated: "2026-06-26"
+sha256: "818cc162c031773fb9560f203212821cbd6efe1b7b6ea8fa0909a400f8118ddc"
+sources:
+  - "/sources/news/2026-06-07/00__dotey__设计-ai-进入-本地可闭环-阶段-迭代摩擦骤降.md"
 ---
 
 # 设计 AI 进入"本地可闭环"阶段，迭代摩擦骤降

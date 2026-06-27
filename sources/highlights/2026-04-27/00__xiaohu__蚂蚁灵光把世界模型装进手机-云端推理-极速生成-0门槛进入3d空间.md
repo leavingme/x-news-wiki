@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "蚂蚁灵光把世界模型装进手机：云端推理+极速生成，0门槛进入3D空间"
 description: "**一句话核心判断：世界模型正式进入「手机+云端」的轻量化范式，标志性事件。**  关键事实：蚂蚁灵泉 App 上线「体验世界模型」功能，用户上传任意图片，等待数秒至数十秒即可生成一个可操控摇杆进入的 3D 世界。手机本地算力不足不是瓶颈——云端生成是答案，但生成速度之快令人意外。  技术逻辑：上传图片→云端推理构建3D空间语义→实时流式返回→手机端渲染交互。这条链路意味着世界模型的能力不再依赖高"
 resource: "https://x.com/i/status/2048626362316214652"
@@ -22,6 +22,13 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "ev-as-embodied-agent"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2048626362316214652"
+created: "2026-04-27"
+updated: "2026-06-26"
+sha256: "702fcce745f652d38e247bbc75fa46c0ad80860cfbcbf6fa95345be36f8472ab"
+sources:
+  - "/sources/highlights/2026-04-27/00__xiaohu__蚂蚁灵光把世界模型装进手机-云端推理-极速生成-0门槛进入3d空间.md"
 ---
 
 # 蚂蚁灵光把世界模型装进手机：云端推理+极速生成，0门槛进入3D空间

@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Orange AI 观察：技术、文明、政策三条线正在失调，变革期的耦合是系统性工程"
 description: "**技术迭代速度已远超文明适应和政策响应的节奏，三条线的「失调」正在成为 AI 时代的核心张力。**  - 这不是哪一方的错，而是变革期的结构性特征——技术先行、文明滞后、政策被动 - 隐含判断：当前的 AI 争议（安全、就业、伦理）本质上都是「耦合失败」的表征 - 暗示解法不在单点突破，而在系统性地推动三条线的逐步对齐  一句话点出了 AI 行业最大的结构性风险：不是技术不够快，而是配套系统跟不"
 resource: "https://x.com/i/status/2053461292749619634"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2053461292749619634"
+created: "2026-05-10"
+updated: "2026-06-26"
+sha256: "0baba0ba59fa300457cb203f9f635e0d04467a809697f5127ae3366580abbabf"
+sources:
+  - "/sources/news/2026-05-10/00__oran_ge__orange-ai-观察-技术-文明-政策三条线正在失调-变革期的耦合是系统性工程.md"
 ---
 
 # Orange AI 观察：技术、文明、政策三条线正在失调，变革期的耦合是系统性工程

@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Anthropic单方面封禁110人公司：平台治理「先斩后奏」成行业隐患"
 description: "**[Anthropic封禁110人公司暴露平台治理危机]**  一家农业科技公司周一上班后全体员工同时收到账号停用邮件，且邮件伪装成个人申诉链接，10分钟后才发现是全公司被集体封禁，甚至连管理员都未收到预警告知。这种「黑箱式集体处罚」暴露了AI平台治理的严重失衡——平台握有随时终止服务的权力，却无需承担企业业务连续性的任何义务。  **影响：** 对企业级Agent部署而言，最大风险不再是模型能"
 resource: "https://x.com/om_patel5/status/2048594208345227497"
@@ -22,6 +22,13 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "anthropic-api-control"
 x_source: "ai-trend-digest"
+type_okf: "X Tweet"
+source_url: "https://x.com/om_patel5/status/2048594208345227497"
+created: "2026-04-27"
+updated: "2026-06-26"
+sha256: "c84257b349345a4d9abcb3e66a92b45231c6721cd9f7b53ae211d69735d5e961"
+sources:
+  - "/sources/highlights/2026-04-27/00__om_patel5__anthropic单方面封禁110人公司-平台治理-先斩后奏-成行业隐患.md"
 ---
 
 # Anthropic单方面封禁110人公司：平台治理「先斩后奏」成行业隐患

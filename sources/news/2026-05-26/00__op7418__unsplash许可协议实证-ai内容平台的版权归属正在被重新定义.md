@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Unsplash许可协议实证：AI内容平台的版权归属正在被重新定义"
 description: "**一句话核心判断** 归藏用亲身经历+协议原文双重举证，直指行业对图片署名要求的\"习惯性过度合规\"，这是AI内容时代对版权边界的一次有效纠偏。  **要点：** - Unsplash License明确允许免费、免许可、免署名商业使用，主流AI图片平台普遍存在过度要求的合规焦虑 - Figma等工具内置Unsplash并无署名强制，但设计师圈层对此习以为常——说明要求本身并非刚性法律义务 - 对"
 resource: "https://x.com/i/status/2059267717543469379"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2059267717543469379"
+created: "2026-05-26"
+updated: "2026-06-26"
+sha256: "c07318795d5507c795cf39ee548dfb42bb80f272de711553e83abb470895832f"
+sources:
+  - "/sources/news/2026-05-26/00__op7418__unsplash许可协议实证-ai内容平台的版权归属正在被重新定义.md"
 ---
 
 # Unsplash许可协议实证：AI内容平台的版权归属正在被重新定义

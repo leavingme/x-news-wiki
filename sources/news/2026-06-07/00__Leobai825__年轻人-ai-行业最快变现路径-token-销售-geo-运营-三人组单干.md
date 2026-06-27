@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "年轻人 AI 行业最快变现路径：Token 销售 + Geo 运营 + 三人组单干"
 description: "【天策的 AI 行业\"野路子\"指南：先偷师再背刺】 - 给无背景毕业生的建议：优先进入 AI 行业的 Token（算力转售）和 Geo（地推/增长）两个细分赛道 - 操作模板：面 30 个运营岗 → 5-6 家摸清行业全貌 → 选最优入职 → 拉销售 + 后端三人组 → 离职单干 - 反映当下 AI 小公司岗位边界模糊、销售/运营/后端三合一的人力现状 - 与\"22 岁月入 120 万的 Toke"
 resource: "https://x.com/i/status/2063494016457404905"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2063494016457404905"
+created: "2026-06-07"
+updated: "2026-06-26"
+sha256: "948073ecbb0f3ace040cba18537ec661cc2db53f325d4242236bb3666eacf27b"
+sources:
+  - "/sources/news/2026-06-07/00__Leobai825__年轻人-ai-行业最快变现路径-token-销售-geo-运营-三人组单干.md"
 ---
 
 # 年轻人 AI 行业最快变现路径：Token 销售 + Geo 运营 + 三人组单干

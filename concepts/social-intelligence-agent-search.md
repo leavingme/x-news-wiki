@@ -1,5 +1,5 @@
 ---
-type: "Concept"
+type: "concept"
 title: "social-intelligence-agent-search"
 description: "跨日主题 \"social-intelligence-agent-search\"，共 1 条相关精选推文。"
 tags:
@@ -11,6 +11,12 @@ x_topic_slug: "social-intelligence-agent-search"
 x_tweet_count: 1
 x_first_seen: "2026-05-09T19:18:40.794Z"
 x_last_seen: "2026-05-09T19:18:40.794Z"
+type_okf: "Concept"
+created: "2026-05-09"
+updated: "2026-06-26"
+sha256: "5772a09b0ee3730d84c62577c73fffe1399138e95402aab10a37c4f19d248aa7"
+sources:
+  - "/sources/news/2026-05-09/00__bourneliu66__agent-读微信-从-不敢想-到-随便做-的距离-就是一个-hermes.md"
 ---
 
 # 主题: social-intelligence-agent-search

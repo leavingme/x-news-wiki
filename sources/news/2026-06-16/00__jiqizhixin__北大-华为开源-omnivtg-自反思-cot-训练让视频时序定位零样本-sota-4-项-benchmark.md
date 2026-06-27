@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "北大×华为开源 OmniVTG：自反思 CoT 训练让视频时序定位零样本 SOTA 4 项 benchmark"
 description: "**北大+华为联合发布 OmniVTG：大规模数据集 + Self-Correction CoT 训练范式，把视频时序定位的零样本能力推到 4 项 benchmark SOTA。**  - 核心方法：扩充语义鸿沟 + caption AI 生成时间戳 + 让模型反思自己的预测，形成 self-correction 闭环 - 开放世界 grounding 表现尤其突出，能定位长尾罕见概念在视频中的位"
 resource: "https://x.com/i/status/2066747849757356339"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2066747849757356339"
+created: "2026-06-16"
+updated: "2026-06-26"
+sha256: "f55e3aff99aaf38f7fb225cc8418c10c7bac23d0fad31fe2a89a0036cf7c7759"
+sources:
+  - "/sources/news/2026-06-16/00__jiqizhixin__北大-华为开源-omnivtg-自反思-cot-训练让视频时序定位零样本-sota-4-项-benchmark.md"
 ---
 
 # 北大×华为开源 OmniVTG：自反思 CoT 训练让视频时序定位零样本 SOTA 4 项 benchmark

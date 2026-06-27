@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "《圣经》词频分析：Sam Altman 的「神学背书」与硅谷叙事构建"
 description: "**当圣经成为品牌营销的「反向指标」**  Michael Anti 抛出一个荒诞却精妙的数据：《圣经》提及 Sam 175 次、Anthropic 创始人 Dario 28 次、Elon 8 次——结论是「上帝支持哪家公司已有答案」。  这个分析当然不是字面意义上的「神学论断」，而是对硅谷「叙事即资产」的辛辣解构：Sam Altman 在 OpenAI 的叙事构建中，已经将个人IP与组织IP深度"
 resource: "https://x.com/i/status/2049053670369792254"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2049053670369792254"
+created: "2026-04-28"
+updated: "2026-06-26"
+sha256: "855e8529ea153a7753bb5e8a1d4fd0c5cfe63a084bf14becbda605367f865058"
+sources:
+  - "/sources/news/2026-04-28/00__mranti__圣经-词频分析-sam-altman-的-神学背书-与硅谷叙事构建.md"
 ---
 
 # 《圣经》词频分析：Sam Altman 的「神学背书」与硅谷叙事构建

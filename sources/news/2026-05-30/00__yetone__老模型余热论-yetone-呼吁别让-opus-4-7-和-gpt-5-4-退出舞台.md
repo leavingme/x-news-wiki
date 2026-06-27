@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "老模型余热论：yetone 呼吁别让 Opus 4.7 和 GPT 5.4 退出舞台"
 description: "**「老模型余热」背后是推理成本分层的真实需求**[2](https://x.com/yetone/status/2060630692443353389)  - yetone 公开表示自己在日常事务中仍主动使用 Opus 4.7、GPT 5.4 等老一辈模型，核心逻辑是「让旧模型发挥余热」——这折射出一个被忽视的事实：轻量任务不需要动用最新旗舰模型，边缘用例的成本敏感度更高 - 「中年危机」的类比"
 resource: "https://x.com/i/status/2060630692443353389"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2060630692443353389"
+created: "2026-05-30"
+updated: "2026-06-26"
+sha256: "b7e3c892170b4df0a1259adafc179e30c215d3f5a803ed804900454fe48e989c"
+sources:
+  - "/sources/news/2026-05-30/00__yetone__老模型余热论-yetone-呼吁别让-opus-4-7-和-gpt-5-4-退出舞台.md"
 ---
 
 # 老模型余热论：yetone 呼吁别让 Opus 4.7 和 GPT 5.4 退出舞台

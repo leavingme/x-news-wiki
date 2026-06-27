@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "AI 数据基础设施的逆向逻辑：模型越强，越需要「人类验证」"
 description: "**[高质量人类验证数据正成为 AI 时代的稀缺资源]**  YuChen 在「养虾」实践中发现：大模型普及后，「AI 训练 AI」产生的合成数据正形成死循环，会导致模型质量螺旋下降——即学术界的「模型坍塌」问题。对普通用户而言只是 Token 损失，但对医疗、国防等高风险领域，来源不明的数据等于定时炸弹。  核心结论：AI 越发展，对「高质量人类验证数据」的需求越强烈，这不仅是叙事，更已有真实采"
 resource: "https://x.com/i/status/2037491171791130954"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2037491171791130954"
+created: "2026-03-27"
+updated: "2026-06-26"
+sha256: "932a3d6f7b8a4c958ed3fc950eea6e024227296544ad17023a21a257fa2a830c"
+sources:
+  - "/sources/news/2026-04-01/00__YuChen__ai-数据基础设施的逆向逻辑-模型越强-越需要-人类验证.md"
 ---
 
 # AI 数据基础设施的逆向逻辑：模型越强，越需要「人类验证」

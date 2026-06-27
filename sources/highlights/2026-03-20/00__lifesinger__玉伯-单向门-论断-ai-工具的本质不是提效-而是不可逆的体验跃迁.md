@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "玉伯「单向门」论断：AI 工具的本质不是提效，而是不可逆的体验跃迁"
 description: "**[AI 工具的认知价值被严重低估——它们正在重塑人类的「能力基准线」]** • 玉伯列举的工作流（Claude Code + NotebookLM/YouMind + Stitch + OpenClaw）代表了一种「无缝外包认知」的新范式 • 类比「熟食 vs 生食」的进化隐喻，指出 AI 工具的价值在于「体验过就回不去」的不可逆性 • 核心洞察：人类与 AI 是协同进化关系，而非简单的人机分"
 resource: "https://x.com/i/status/2034615815933448310"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2034615815933448310"
+created: "2026-03-19"
+updated: "2026-06-26"
+sha256: "7c7d028b3e70f2361b034e8dba39a2ac81614a80a5b20f3ca94119b8bc1ffddd"
+sources:
+  - "/sources/highlights/2026-03-20/00__lifesinger__玉伯-单向门-论断-ai-工具的本质不是提效-而是不可逆的体验跃迁.md"
 ---
 
 # 玉伯「单向门」论断：AI 工具的本质不是提效，而是不可逆的体验跃迁

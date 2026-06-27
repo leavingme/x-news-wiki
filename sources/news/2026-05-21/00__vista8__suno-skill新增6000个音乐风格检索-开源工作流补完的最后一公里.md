@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Suno Skill新增6000个音乐风格检索：开源工作流补完的最后一公里"
 description: "**一句话核心判断：向阳乔木的Suno Skill升级意味着AI音乐创作正在从「能生成」进化到「能精准生成」。**  • 新增近6000个音乐风格标签检索，精准度大幅提升。 • 集成谷歌CDP刷新登录Token，实现完全后台化——用户无需打开网站即可创作。 • 开源+Skill化的路径正在为AI音乐建立一套可复用的工程标准。  **gakki锐评：6000个标签不是噱头，是精准度的量变到质变。当A"
 resource: "https://x.com/i/status/2057286020735864903"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2057286020735864903"
+created: "2026-05-21"
+updated: "2026-06-26"
+sha256: "6e510d1f16a4e58a5ac6b2f56541a8985a0ae50f9c1b4fd460403954e5a59bed"
+sources:
+  - "/sources/news/2026-05-21/00__vista8__suno-skill新增6000个音乐风格检索-开源工作流补完的最后一公里.md"
 ---
 
 # Suno Skill新增6000个音乐风格检索：开源工作流补完的最后一公里

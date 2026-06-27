@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "黄仁勋揭秘TSMC真正护城河：不是晶体管，是制造奇迹"
 description: "**[半导体供应链的地缘政治韧性，来自「动态协调」而非静态技术]** • TSMC核心竞争力被重新定义为「面对数百家客户变形的制造系统协调能力」 • 技术（晶体管/封装/硅光子）只是第一层，第二层是「晶圆承诺几点到就几点到」的信任资产 • 英伟达CEO亲口背书，揭示美国「制造业回流」战略的认知盲区  **gakki锐评：** 当华盛顿以为砸钱就能复制TSMC，黄仁勋的访谈泼了冷水——芯片制造的壁垒"
 resource: "https://x.com/i/status/2036289915466768464"
@@ -22,6 +22,13 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "semiconductor-supply-chain-geopolitics"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2036289915466768464"
+created: "2026-03-24"
+updated: "2026-06-26"
+sha256: "49f935075059a9aa390f369d9ded6b736123637cb864122c8b06a17fc0ed4cde"
+sources:
+  - "/sources/news/2026-03-24/00__IEObserve__黄仁勋揭秘tsmc真正护城河-不是晶体管-是制造奇迹.md"
 ---
 
 # 黄仁勋揭秘TSMC真正护城河：不是晶体管，是制造奇迹

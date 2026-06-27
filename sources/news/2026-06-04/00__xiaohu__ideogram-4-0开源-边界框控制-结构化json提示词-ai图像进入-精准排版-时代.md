@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Ideogram 4.0开源：边界框控制+结构化JSON提示词，AI图像进入「精准排版」时代"
 description: "**一句话核心判断** Ideogram 4.0 开源版本引入 bounding box 坐标控制和结构化 JSON 提示词格式，图像生成从「祈祷模型放对位置」进化到「精确指定每个元素的画面坐标」，是多模态可控性的一次实质提升。  **信息增量** - 核心创新：bounding box 控制——用坐标精确指定每个元素放在哪个区域，不再依赖 prompt 抽奖 - 结构化 JSON 提示词：支持非"
 resource: "https://x.com/i/status/2062348355787956717"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2062348355787956717"
+created: "2026-06-04"
+updated: "2026-06-26"
+sha256: "c76824736078e49ae515dda917a0d7929b1a35b3690bf76f380dd33bd7892590"
+sources:
+  - "/sources/news/2026-06-04/00__xiaohu__ideogram-4-0开源-边界框控制-结构化json提示词-ai图像进入-精准排版-时代.md"
 ---
 
 # Ideogram 4.0开源：边界框控制+结构化JSON提示词，AI图像进入「精准排版」时代

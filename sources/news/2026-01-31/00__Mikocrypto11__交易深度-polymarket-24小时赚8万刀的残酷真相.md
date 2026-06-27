@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "交易深度：Polymarket 24小时赚8万刀的残酷真相"
 description: "**拆解一个短周期套利账户：核心变量不在于多聪明的模型，而在于对价格滞后窗口的极速执行。** - **执行缝隙**：利用 CEX 与 Polymarket 之间分钟级的反应差进行低频、大体量的精准收割。 - **认知清醒**：在机器博弈的战场上，速度、纪律和资金体量远比华丽的代码更具杀伤力。  **Pi 的锐评**：这是一堂真实的交易课。不要幻想复刻 AI 神迹，绝大多数利润本质上是对比你慢的人的"
 resource: "https://x.com/i/status/2017524138404155711"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2017524138404155711"
+created: "2026-01-31"
+updated: "2026-06-26"
+sha256: "2258bea53f2c732e71ab6625443576c4617f3b3641d3e502068be4b96276edba"
+sources:
+  - "/sources/news/2026-01-31/00__Mikocrypto11__交易深度-polymarket-24小时赚8万刀的残酷真相.md"
 ---
 
 # 交易深度：Polymarket 24小时赚8万刀的残酷真相

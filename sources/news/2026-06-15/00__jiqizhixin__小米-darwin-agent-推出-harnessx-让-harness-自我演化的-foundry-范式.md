@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "小米 Darwin Agent 推出 HarnessX：让 Harness 自我演化的 Foundry 范式"
 description: "**Agent 工程从「手写脚手架」进入「Harness 可自适应」阶段。**  - 小米 Darwin Agent Team 发布 HarnessX，把 prompt、tools、memory、control flow 视为可被 Foundry 自动组合、适配、演化的对象，而非每次新模型/任务都要手工雕的胶水。 - 核心引擎 AEGIS 是 trace-driven：把 Agent 实际执行轨迹"
 resource: "https://x.com/i/status/2066410397167649069"
@@ -22,6 +22,13 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "harness-engineering-framework"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2066410397167649069"
+created: "2026-06-15"
+updated: "2026-06-26"
+sha256: "c4d03b6023badaeaeda8fb68c354bc3627aaf049cb086a1950fd5d986d4d16ff"
+sources:
+  - "/sources/news/2026-06-15/00__jiqizhixin__小米-darwin-agent-推出-harnessx-让-harness-自我演化的-foundry-范式.md"
 ---
 
 # 小米 Darwin Agent 推出 HarnessX：让 Harness 自我演化的 Foundry 范式

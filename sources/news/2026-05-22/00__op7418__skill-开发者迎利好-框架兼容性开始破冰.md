@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "SKILL 开发者迎利好：框架兼容性开始破冰"
 description: "**一句话核心判断：** 开发者对 SKILL 的跨框架兼容性评价转向积极，SKILL 作为 Agent 时代的「通用技能单元」正在获得生态验证。  **信息增量：** - 「好消息」来自开发者视角，意味着某处 SKILL 兼容性问题近期有实质性突破 - 受益群体明确指向 SKILL 开发者，而非终端用户  **行业影响：** SKILL 生态的框架互操作性若成熟，将加速 AI Agent 开发的"
 resource: "https://x.com/i/status/2057736429166575805"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2057736429166575805"
+created: "2026-05-22"
+updated: "2026-06-26"
+sha256: "0497308d7b88321bdc29fd407a80635880e2677eef22bd00750551214b4a2a2b"
+sources:
+  - "/sources/news/2026-05-22/00__op7418__skill-开发者迎利好-框架兼容性开始破冰.md"
 ---
 
 # SKILL 开发者迎利好：框架兼容性开始破冰

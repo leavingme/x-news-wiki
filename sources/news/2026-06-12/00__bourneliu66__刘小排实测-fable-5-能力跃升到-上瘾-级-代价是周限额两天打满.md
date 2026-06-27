@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "刘小排实测 Fable 5：能力跃升到「上瘾」级，代价是周限额两天打满"
 description: "**刘小排实测称 Fable 5 能力「强得有点过分」，出现重度用户级别的使用上瘾**  1、能力对标：大量 GPT-5.5 做不到的任务，Fable 5 能瞬间完成 2、价格信号：两个 20x Max 账号均在 2 天内打到周限额，暴露高单价 + 强限额的组合 3、用户行为：用 Fable 5 让重度用户「又无法早睡」，呈现 AI 工具的「成瘾性」拐点  当最强模型开始让用户「打到限额才罢休」，"
 resource: "https://x.com/i/status/2065279487219310981"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2065279487219310981"
+created: "2026-06-12"
+updated: "2026-06-26"
+sha256: "d93c5f31b2b99d0457c7ac410436b6ba7510635c4a78a8c52ef4fe215de018b6"
+sources:
+  - "/sources/news/2026-06-12/00__bourneliu66__刘小排实测-fable-5-能力跃升到-上瘾-级-代价是周限额两天打满.md"
 ---
 
 # 刘小排实测 Fable 5：能力跃升到「上瘾」级，代价是周限额两天打满

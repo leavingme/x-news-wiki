@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "玉伯提前剧透：YouMind 桌面端过几天发布，杀入 AI 知识工具主战场"
 description: "**玉伯亲自站台 YouMind 桌面端，过几天正式发布。**  要点： - YouMind 在 NotebookLM / Perplexity 已经把 AI 知识工具赛道烧热的节点上，押注桌面端而非 Web 优先，姿态与玉伯一贯的「工具即产品」哲学一致 - 桌面端路线避开了 NotebookLM 的纯网页体验，也绕开了 Perplexity 的搜索入口依赖，转而把研究/收藏/整理的全流程压进一个"
 resource: "https://x.com/i/status/2069055475275243709"
@@ -22,6 +22,13 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "ai-knowledge-tool-competition"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2069055475275243709"
+created: "2026-06-22"
+updated: "2026-06-26"
+sha256: "43d7c107d0f5975c36d46f7d9f739e75f3cf9be713c20edf152301f45dc8ecb5"
+sources:
+  - "/sources/highlights/2026-06-22/00__lifesinger__玉伯提前剧透-youmind-桌面端过几天发布-杀入-ai-知识工具主战场.md"
 ---
 
 # 玉伯提前剧透：YouMind 桌面端过几天发布，杀入 AI 知识工具主战场

@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Cursor CEO 描绘\"代码之后\"：不写代码也不聊代码，而是指着伪代码改"
 description: "**[Cursor 想占据的第三范式：可执行的伪代码]**  - Michael Truell 明确反对两种主流设想：\"一切照旧\"派（继续敲 TypeScript/Rust）和\"纯聊天机器人\"派（脱离整体地改） - 提出第三种范式：高层级伪代码式表达，可写、可读、可\"指着\"具体位置改 - 未来开发工具的核心交互是\"指+说\"，既不是 Vibe Coding 的纯对话，也不是传统 IDE 的代码编辑 "
 resource: "https://x.com/i/status/2067062859784466464"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2067062859784466464"
+created: "2026-06-17"
+updated: "2026-06-26"
+sha256: "9215a9441a533948676ab238ee2b01308dc12772c847271bb71cd78316269c1d"
+sources:
+  - "/sources/news/2026-06-17/00__xiaohu__cursor-ceo-描绘-代码之后-不写代码也不聊代码-而是指着伪代码改.md"
 ---
 
 # Cursor CEO 描绘"代码之后"：不写代码也不聊代码，而是指着伪代码改

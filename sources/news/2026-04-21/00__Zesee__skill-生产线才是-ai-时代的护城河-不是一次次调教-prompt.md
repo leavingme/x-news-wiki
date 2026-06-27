@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Skill 生产线才是 AI 时代的护城河，不是一次次调教 Prompt"
 description: "**[ 把经验固化进 Skill，而不是把时间浪费在重复调教 ]**  Rachel 分享的核心洞察：AI 时代「调教派」的本质是低水平勤奋——每次开新窗口重复喂 Prompt，是在消耗生命而非创造资产。真正的效率来自把经验固化成可复用的 Skill，Kollab 的逻辑是调用「大脑模具」而非对话。  她的闭环：5 分钟热点抓取 → 10 分钟生成+诊断（口播 Skill + dbs 诊断 Ski"
 resource: "https://x.com/i/status/2046535978026697160"
@@ -22,6 +22,13 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "agent-tools-and-orchestration"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2046535978026697160"
+created: "2026-04-21"
+updated: "2026-06-26"
+sha256: "9a128ce0396c7553cb8897561ed14bb8f9d925dee236c8972f82e839e293c1c1"
+sources:
+  - "/sources/news/2026-04-21/00__Zesee__skill-生产线才是-ai-时代的护城河-不是一次次调教-prompt.md"
 ---
 
 # Skill 生产线才是 AI 时代的护城河，不是一次次调教 Prompt

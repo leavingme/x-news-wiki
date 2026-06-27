@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Codex 普通模式缺失 ask_user_question tool：一个小功能暴露的开发者体验盲区"
 description: "**[一句话核心判断]**  Codex 在普通模式下长期不支持 ask_user_question tool，Agent 需要澄清时只能手动回复——这个小缺口反映了 AI 编程工具对「人机协同」理解的不完整。  **信息增量：** - Agent 主动提问时需要手动写回复，体验割裂 - 这个功能在官方 Plugin 模式（Build macOS Apps）可能存在，但普通模式缺失  **影响：*"
 resource: "https://x.com/i/status/2060443252285734916"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2060443252285734916"
+created: "2026-05-29"
+updated: "2026-06-26"
+sha256: "64884e3b84b83717079d1753f1967f3fdc79d4cd495ae087cd676d3053c08873"
+sources:
+  - "/sources/news/2026-05-29/00__dotey__codex-普通模式缺失-ask-user-question-tool-一个小功能暴露的开发者体验盲区.md"
 ---
 
 # Codex 普通模式缺失 ask_user_question tool：一个小功能暴露的开发者体验盲区

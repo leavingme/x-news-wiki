@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "某新模型架构能力被认可但 RL 训练未适配 Agent Harness，4.1 版本才是关键窗口"
 description: "**模型架构的上限和 RL 训练的落地之间存在显著断层。**  - 该模型底层架构被评价为「很牛」，但强化学习阶段完全未考虑 Agent harness 类场景的适配 - 这意味着当前版本在工具调用、多步推理等 Agent 核心能力上可能表现不佳 - 4.1 版本被期待补齐这一短板，暗示模型团队已意识到 Agent 能力是下一阶段竞争的关键  gakki 锐评：架构强但 RL 未对齐 Agent "
 resource: "https://x.com/i/status/2052506068891381824"
@@ -22,6 +22,13 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "model-capabilities"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2052506068891381824"
+created: "2026-05-07"
+updated: "2026-06-26"
+sha256: "4d4e583ba491a492f7224ac490faef1d969a8ce58e68efc0fb540ebc8c402888"
+sources:
+  - "/sources/news/2026-05-07/00__oran_ge__某新模型架构能力被认可但-rl-训练未适配-agent-harness-4-1-版本才是关键窗口.md"
 ---
 
 # 某新模型架构能力被认可但 RL 训练未适配 Agent Harness，4.1 版本才是关键窗口

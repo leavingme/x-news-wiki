@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Orange AI：结构是 AI 时代的产品哲学元命题——从 Agent harness 到组织变革"
 description: "**结构是一切产品、Agent、模型乃至组织的底层密码。**  - Orange AI 将\"结构\"从产品设计延伸至 Agent harness 设计、大模型语料质量、人际关系、公司组织，提出\"结构能\"概念：好的语料自带结构能，不好的语料训再多也没用 - 核心洞察：大模型是水，harness 是河床，同样的模型在不同 harness 中输出天差别 - 组织层面的判断：AI 转型若仅逼中层学 AI 而"
 resource: "https://x.com/i/status/2050006324856127587"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2050006324856127587"
+created: "2026-05-01"
+updated: "2026-06-26"
+sha256: "9387cb4e54721da1adf9477c5a556b7635a67d577e204ccd4ccc619ab01b8329"
+sources:
+  - "/sources/news/2026-05-01/00__oran_ge__orange-ai-结构是-ai-时代的产品哲学元命题-从-agent-harness-到组织变革.md"
 ---
 
 # Orange AI：结构是 AI 时代的产品哲学元命题——从 Agent harness 到组织变革

@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Kimi Work 撞脸 Codex：国产 Agent 赛道进入「像素级对标」阶段"
 description: "**[一句话核心判断]**  余温发现 Kimi Work 与 Codex 在产品界面、交互逻辑上高度相似——项目管理、浏览器自动化、定时任务后台运行等功能一应俱全，被形容为「国产 Codex」。  **信息增量：** - 产品形态对标已从「功能借鉴」演进到「交互范式借鉴」，说明 Agent 工具的产品形态正在收敛 - Kimi K2 模型被评价为国内日常体验最接近 Claude 的模型，有实质性"
 resource: "https://x.com/i/status/2062399007947681825"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2062399007947681825"
+created: "2026-06-04"
+updated: "2026-06-26"
+sha256: "002c6726c46481a4be8bc57f96bbc596fa11b3af04369f1f42cc0a438e691c2c"
+sources:
+  - "/sources/highlights/2026-06-04/00__gkxspace__kimi-work-撞脸-codex-国产-agent-赛道进入-像素级对标-阶段.md"
 ---
 
 # Kimi Work 撞脸 Codex：国产 Agent 赛道进入「像素级对标」阶段

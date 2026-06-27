@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "GPT Image 2 生成「准真实」身份证：照片真实性已死，身份信认体系正在重构"
 description: "**[AI 生成图像突破「照片真实性」的最后一道护城河]**  GPT Image 2 能够生成符合中国身份证号码规则（除校验位外）的图像。评论指出「照片的真实性不存在了」——这不只是调侃，而是对身份证核验、图像证据、在线 KYC 等一系列依赖「照片真实性」体系的根本性质疑。  核心影响：对 KYC/AML、图像证据法律效力、数字身份体系的影响远超 meme 生成层面，且监管层面尚无应对方案。  "
 resource: "https://x.com/i/status/2044734306434842696"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2044734306434842696"
+created: "2026-04-16"
+updated: "2026-06-26"
+sha256: "d6d185bcdb4f9b657e271b4e984e92ae71da0e8f201d81a234aeb1c33156dead"
+sources:
+  - "/sources/news/2026-04-16/00__oran_ge__gpt-image-2-生成-准真实-身份证-照片真实性已死-身份信认体系正在重构.md"
 ---
 
 # GPT Image 2 生成「准真实」身份证：照片真实性已死，身份信认体系正在重构

@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "DesignMD把设计系统变成了可执行的「抄作业」工具"
 description: "**[设计系统从审美语言变成了可编译的代码]**  DesignMD.supply的出现解决了一个实际问题：设计师的视觉语言和开发者的实现之间永远有翻译损耗。  核心价值：输入任意网站→输出design.md→拿着文档开发≈获得相同设计风格。实质是把「品味」可编程化了。  对谁的冲击最大？不是专业设计师，而是需要快速搭建界面的AI coding工作流。   gakki：Figma的问题是它需要设计"
 resource: "https://x.com/i/status/2059644285088075893"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2059644285088075893"
+created: "2026-05-27"
+updated: "2026-06-26"
+sha256: "d6e0374d06f7d5c8975a65ee994550c3f5e2ea14b65846c952d0e641d60e28c9"
+sources:
+  - "/sources/news/2026-05-27/00__gkxspace__designmd把设计系统变成了可执行的-抄作业-工具.md"
 ---
 
 # DesignMD把设计系统变成了可执行的「抄作业」工具

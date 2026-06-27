@@ -1,5 +1,5 @@
 ---
-type: "Author"
+type: "entity"
 title: "Laughing🪁 (@0xLaughing)"
 description: "X/Twitter 作者 @0xLaughing。共收录 2 条 AI 精选推文。"
 tags:
@@ -12,6 +12,13 @@ x_author_name: "Laughing🪁"
 x_tweet_count: 2
 x_first_seen: "2026-03-22T12:43:08.397Z"
 x_last_seen: "2026-04-13T12:45:22.276Z"
+type_okf: "Author"
+created: "2026-03-22"
+updated: "2026-06-26"
+sha256: "4c703659e75af30bc980d9de1d7f3f74f3a2545f2aa57a1fe8afed8d02cbb219"
+sources:
+  - "/sources/highlights/2026-03-22/00__0xLaughing__minimax-skills开源-cursor们的-武器库-终于标准化了.md"
+  - "/sources/highlights/2026-04-13/00__0xLaughing__11k-star-的-pentagi-正在证明-ai-自动化渗透测试比人便宜-20-倍-红队专家-失业-不是狼来了.md"
 ---
 
 # Laughing🪁 (@0xLaughing)

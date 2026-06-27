@@ -1,5 +1,5 @@
 ---
-type: "Author"
+type: "entity"
 title: "独立开发者William (@DLKFZWilliam2)"
 description: "X/Twitter 作者 @DLKFZWilliam2。共收录 2 条 AI 精选推文。"
 tags:
@@ -12,6 +12,13 @@ x_author_name: "独立开发者William"
 x_tweet_count: 2
 x_first_seen: "2026-03-18T00:42:49.110Z"
 x_last_seen: "2026-04-28T16:19:10.079Z"
+type_okf: "Author"
+created: "2026-03-18"
+updated: "2026-06-26"
+sha256: "0e26d09b70c59ccdd798125fc91a53cbb6acddaff25f3b3b7e63686906b50495"
+sources:
+  - "/sources/news/2026-03-18/00__DLKFZWilliam2__claude-code官方工程手册泄露-skill编写的-渐进式披露-心法.md"
+  - "/sources/news/2026-04-28/00__DLKFZWilliam2__独立开发者视角-symphony-演示自动-pr-全流程-全自动化-ai-的一大步.md"
 ---
 
 # 独立开发者William (@DLKFZWilliam2)

@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Tempus AI的「特斯拉模式」：检测生意背后的数据闭环野心"
 description: "**检测只是入口，数据主权才是终局。** Tempus 复制了特斯拉的飞轮路径：检测业务获取分子数据 + 医院合作获取临床数据 → 训练诊疗预测模型 → 药物反应/靶点分析应用。患者为检测付费，公司却拥有了数据资产。  关键洞察：医疗AI的冷启动难题（医院不愿共享敏感数据）迫使企业先成为检测服务商，这一步是「被迫的」，但恰好构建了护城河。  **gakki锐评**：不是所有检测公司都能变成AI公司"
 resource: "https://x.com/i/status/2033338433167667565"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2033338433167667565"
+created: "2026-03-16"
+updated: "2026-06-26"
+sha256: "991fd1850fb6ec2f953712f6ce67203044dba8707c1d5aaea08e2a10b3820d1b"
+sources:
+  - "/sources/highlights/2026-03-16/00__CyberCatX__tempus-ai的-特斯拉模式-检测生意背后的数据闭环野心.md"
 ---
 
 # Tempus AI的「特斯拉模式」：检测生意背后的数据闭环野心

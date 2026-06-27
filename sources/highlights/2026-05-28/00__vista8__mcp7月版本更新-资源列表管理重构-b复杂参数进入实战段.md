@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "MCP7月版本更新：资源列表管理重构，B复杂参数进入实战段"
 description: "**[一行核心判断]** MCP7月的更新方向很清晰——从「能不能用」进入「好不好用」的工程化阶段，尤其是列表管理和复杂参数控制的改进，标志着MCP协议正在从玩具阶段走向生产级工具链。  - **信息增量**：详细更新说明覆盖了资源列表的语义化管理，以及涉及B参数的实战配置——这些在之前版本中要么缺失要么文档不足。 - **影响范围**：所有基于MCP构建Agent工具链的开发者，尤其是做多工具编"
 resource: "https://x.com/i/status/2059812722758590526"
@@ -22,6 +22,13 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "mcp-vs-cli-debate"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2059812722758590526"
+created: "2026-05-28"
+updated: "2026-06-26"
+sha256: "b69b3f3709de6252cd9d23f14a71a25add4a1da0d7d1951b9c36396b60d466f6"
+sources:
+  - "/sources/highlights/2026-05-28/00__vista8__mcp7月版本更新-资源列表管理重构-b复杂参数进入实战段.md"
 ---
 
 # MCP7月版本更新：资源列表管理重构，B复杂参数进入实战段

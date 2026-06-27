@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Boris Cherny 判断：Claude Code 之后，写代码正在变成「管理 Agent」"
 description: "**开发者角色正在从执行者退化为监督者。**  - Boris Cherny 提出核心观察：编程正在从「写代码」转向「管理写代码的 Agent」 - 这不是修辞——当 Agent 能自主执行长时间任务，开发者的输入频率和颗粒度都在改变 - 与宝玉 17 小时 Codex 实操形成互文：工程纪律的核心变成了任务分解和验收标准  gakki 锐评：「管理 Agent」这个框架精准但危险——它暗示了一种"
 resource: "https://x.com/i/status/2051688341519609897"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2051688341519609897"
+created: "2026-05-05"
+updated: "2026-06-26"
+sha256: "05c0ed9565f8b8b170fa8a7f2c6a5eb18ba3dedc1e2ddc57a862963fc90fcfbd"
+sources:
+  - "/sources/news/2026-05-05/00__dotey__boris-cherny-判断-claude-code-之后-写代码正在变成-管理-agent.md"
 ---
 
 # Boris Cherny 判断：Claude Code 之后，写代码正在变成「管理 Agent」

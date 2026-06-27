@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Anthropic 启动 IPO 冲刺，MiniMax 与智谱同步申请科创板——AI 独角兽上市潮真正开始了"
 description: "**一句话核心判断** Anthropic 赴美 IPO 与中国头部模型公司抢滩科创板同步推进，标志 AI 行业从融资驱动转向二级市场定价的关键节点。  **信息增量** - Anthropic 确认进入 IPO 筹备阶段，追赶 OpenAI 上市节奏 - MiniMax（海内AI）和智谱同时提交 A 股/科创板申请，已进入上市辅导期 - 三家头部公司同步寻求流动性出口，意味着私募融资窗口可能正在"
 resource: "https://x.com/i/status/2061645513964003631"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2061645513964003631"
+created: "2026-06-02"
+updated: "2026-06-26"
+sha256: "2775f9e5620207fcd88168738058bbff6546080f71a32573236b7de85bbd77f3"
+sources:
+  - "/sources/highlights/2026-06-02/00__op7418__anthropic-启动-ipo-冲刺-minimax-与智谱同步申请科创板-ai-独角兽上市潮真正开始了.md"
 ---
 
 # Anthropic 启动 IPO 冲刺，MiniMax 与智谱同步申请科创板——AI 独角兽上市潮真正开始了

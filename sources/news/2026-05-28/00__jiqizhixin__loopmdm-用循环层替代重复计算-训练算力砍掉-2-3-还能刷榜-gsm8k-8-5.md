@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "LoopMDM：用循环层替代重复计算，训练算力砍掉 2/3 还能刷榜 GSM8K +8.5"
 description: "**[一句话核心判断]**  KAIST、KRAFTON、UC Berkeley 联合发布 LoopMDM，在 Masked Diffusion 语言模型中选择性循环重复早期-中期 Transformer 层，实现无新增参数的计算复用。  **信息增量：** - 训练算力直降 3.3x（同等性能下） - GSM8K 推理基准提升 8.5 分 - 架构思路类似 LoRA 但作用于扩散模型的中间层  "
 resource: "https://x.com/i/status/2059843990435078276"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2059843990435078276"
+created: "2026-05-28"
+updated: "2026-06-26"
+sha256: "212421a2ff4a6996b29e3df5255607ca3a22a0eec10b926d9f13fad8a168adab"
+sources:
+  - "/sources/news/2026-05-28/00__jiqizhixin__loopmdm-用循环层替代重复计算-训练算力砍掉-2-3-还能刷榜-gsm8k-8-5.md"
 ---
 
 # LoopMDM：用循环层替代重复计算，训练算力砍掉 2/3 还能刷榜 GSM8K +8.5

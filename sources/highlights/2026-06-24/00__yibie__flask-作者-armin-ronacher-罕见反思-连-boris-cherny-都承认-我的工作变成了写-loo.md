@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Flask 作者 Armin Ronacher 罕见反思：连 Boris Cherny 都承认「我的工作变成了写 loop」，但这值得骄傲吗？"
 description: "**连最顶级的 loop 工程师都开始对自己写的代码感到难堪。**  - Boris Cherny 公开表示「我不再给 Claude 写 prompt，我跑着一些 loop，它们负责给 Claude 写 prompt」 - Armin Ronacher 直指痛点：loop 在模型本该说「我做完」的那个点之后还让任务继续活着，harness 注入新消息、开新 session、转给另一台机器——「这种"
 resource: "https://x.com/i/status/2069646862349680650"
@@ -22,6 +22,13 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "harness-engineering"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2069646862349680650"
+created: "2026-06-24"
+updated: "2026-06-26"
+sha256: "d7a7ffba294fc39dbdffaab3b536679476bf213af15b78656dc7fd6c28b73010"
+sources:
+  - "/sources/highlights/2026-06-24/00__yibie__flask-作者-armin-ronacher-罕见反思-连-boris-cherny-都承认-我的工作变成了写-loo.md"
 ---
 
 # Flask 作者 Armin Ronacher 罕见反思：连 Boris Cherny 都承认「我的工作变成了写 loop」，但这值得骄傲吗？

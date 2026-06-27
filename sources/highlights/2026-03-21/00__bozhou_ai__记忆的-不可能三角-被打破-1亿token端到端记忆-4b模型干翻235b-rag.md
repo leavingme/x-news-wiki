@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "记忆的「不可能三角」被打破：1亿token端到端记忆，4B模型干翻235B RAG"
 description: "**记忆架构的范式级跃迁：端到端训练正在终结检索增强时代。**  • **数据颠覆认知**：4B参数小模型在长上下文任务上击败235B级别的RAG方案，证明「大参数+检索」并非记忆的唯一解 • **Scaling Law新维度**：从16K到1亿token，精度损失不到9%，且仅需2张A800即可推理——这意味着长记忆的算力成本骤降两个数量级 • **工程落地信号**：论文与代码已开源，Agent"
 resource: "https://x.com/i/status/2035033044831400166"
@@ -22,6 +22,13 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "agent-memory-optimization"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2035033044831400166"
+created: "2026-03-20"
+updated: "2026-06-26"
+sha256: "b9bb5cb827948dd582feb62d25cb3886feb47e8c7efe1791e0afcfbbee377360"
+sources:
+  - "/sources/highlights/2026-03-21/00__bozhou_ai__记忆的-不可能三角-被打破-1亿token端到端记忆-4b模型干翻235b-rag.md"
 ---
 
 # 记忆的「不可能三角」被打破：1亿token端到端记忆，4B模型干翻235B RAG

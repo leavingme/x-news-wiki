@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "企业 AI 资产化萌芽：Skill Hub 实现版本同步与订阅分发机制"
 description: "**[个人工具分享进化为组织知识沉淀系统，AI 时代的「内部 Wiki」有了活的形态]**  • Skill Hub 解决的核心痛点：企业内部 AI 工具版本混乱、更新无法同步，实质上是 AI 原生时代的 IT 资产管理问题 • 订阅机制使个人贡献的 Skill 能自动推送给需求方，完成了从「工具」到「服务」的转化 • 配合应用入口和服务器部署助手，构成了一套完整的企业 AI 能力分发基础设施  "
 resource: "https://x.com/i/status/2049066945677566074"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2049066945677566074"
+created: "2026-04-28"
+updated: "2026-06-26"
+sha256: "e407b8bd3875aba337ced11e59425088ed705172541665ab47fe6a41df65c190"
+sources:
+  - "/sources/news/2026-04-28/00__Khazix0918__企业-ai-资产化萌芽-skill-hub-实现版本同步与订阅分发机制.md"
 ---
 
 # 企业 AI 资产化萌芽：Skill Hub 实现版本同步与订阅分发机制

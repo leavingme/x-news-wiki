@@ -1,5 +1,5 @@
 ---
-type: "Author"
+type: "entity"
 title: "Stripe (@stripe)"
 description: "X/Twitter 作者 @stripe。共收录 1 条 AI 精选推文。"
 tags:
@@ -12,6 +12,12 @@ x_author_name: "Stripe"
 x_tweet_count: 1
 x_first_seen: "2026-04-29T22:17:30.657Z"
 x_last_seen: "2026-04-29T22:17:30.657Z"
+type_okf: "Author"
+created: "2026-04-29"
+updated: "2026-06-26"
+sha256: "adbd0e429388661e76bcb09e51fb04e6ac51289f8978960cddaeb4c452e2c23e"
+sources:
+  - "/sources/news/2026-04-29/00__stripe__stripe-managed-payments-上线-195-个市场-agent-经济基础设施的-水管-正式接通.md"
 ---
 
 # Stripe (@stripe)

@@ -1,5 +1,5 @@
 ---
-type: "Author"
+type: "entity"
 title: "CHOI (@arrakis_ai)"
 description: "X/Twitter 作者 @arrakis_ai。共收录 1 条 AI 精选推文。"
 tags:
@@ -12,6 +12,12 @@ x_author_name: "CHOI"
 x_tweet_count: 1
 x_first_seen: "2026-05-01T01:17:58.348Z"
 x_last_seen: "2026-05-01T01:17:58.348Z"
+type_okf: "Author"
+created: "2026-05-01"
+updated: "2026-06-26"
+sha256: "cff0409c89cf52a39d0c495d93dc1589f5c25db052c1cb13bb2c26d94c519a32"
+sources:
+  - "/sources/news/2026-05-01/00__arrakis_ai__gpt-image-2-故意画丑-prompt-病毒传播-ai-图像生成已进入文化自嘲阶段.md"
 ---
 
 # CHOI (@arrakis_ai)

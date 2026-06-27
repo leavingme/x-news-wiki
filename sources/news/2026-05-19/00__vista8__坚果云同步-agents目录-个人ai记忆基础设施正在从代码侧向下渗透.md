@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "坚果云同步.agents目录：个人AI记忆基础设施正在从代码侧向下渗透"
 description: "**一句话核心判断：当用户开始用云盘同步 Skill 配置而非复制粘贴，说明 AI 工具的个人数据管理需求已经溢出到通用基础设施层。**  - .agents 目录同步本质是把 AI 的\"技能记忆\"当成第二大脑文件——这不是极客行为，而是普通用户开始依赖的结构化数据管理。 - 坚果云 WebDAV 打通 CC Switch 等 API 工具，形成\"本地配置→云端同步→多设备复用\"闭环，降低了 AI"
 resource: "https://x.com/i/status/2056743785024147712"
@@ -22,6 +22,13 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "agent-context-asset-management"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2056743785024147712"
+created: "2026-05-19"
+updated: "2026-06-26"
+sha256: "d25bcc236040c2ca1a1af527959647c3df748bb9d7e1e9ee5c00339b4607a76e"
+sources:
+  - "/sources/news/2026-05-19/00__vista8__坚果云同步-agents目录-个人ai记忆基础设施正在从代码侧向下渗透.md"
 ---
 
 # 坚果云同步.agents目录：个人AI记忆基础设施正在从代码侧向下渗透

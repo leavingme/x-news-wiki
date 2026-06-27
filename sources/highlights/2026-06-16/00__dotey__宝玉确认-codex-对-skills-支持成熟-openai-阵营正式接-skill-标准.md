@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "宝玉确认：Codex 对 Skills 支持成熟，OpenAI 阵营正式接 Skill 标准"
 description: "**宝玉在回复中明确「Codex 对 Skills 支持很好」，意味着 SKILL.md 不再只是 Anthropic 系的内部规范。**  - Codex 端到端兼容 Skills 体系，打通了 Anthropic Claude Code 与 OpenAI Codex 之间的能力互操作层。 - 同一份 SKILL.md 可以在两个生态间复用，Skill 作者不再需要为不同 Agent 维护多份 "
 resource: "https://x.com/i/status/2066886995083674100"
@@ -22,6 +22,13 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "skills-ecosystem-standards"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2066886995083674100"
+created: "2026-06-16"
+updated: "2026-06-26"
+sha256: "0451a4ae78cadb4d9acc24c05d068021ab88a1dedd2f64c70274678a8cd23dab"
+sources:
+  - "/sources/highlights/2026-06-16/00__dotey__宝玉确认-codex-对-skills-支持成熟-openai-阵营正式接-skill-标准.md"
 ---
 
 # 宝玉确认：Codex 对 Skills 支持成熟，OpenAI 阵营正式接 Skill 标准

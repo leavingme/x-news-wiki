@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Orange AI 谈 ColaOS 被抄袭：AI 时代的竞争壁垒是「思考速度」而非「执行速度」"
 description: "**抄袭还成立吗？当你的 3.0 已经在思考时，别人还在抄你的 1.0。**  - ColaOS 被大量项目抄袭，但 Orange AI 认为在高速迭代时代抄袭已失去意义 - 「做出来的是 2 个月前的 1.0，正在开发上个月想的 2.0，正在思考下个月的 3.0」——三层时间差构成动态护城河 - 核心观点：朝着笃定信仰走，速度最快  gakki 锐评：这不只是鸡汤，而是一个精确的竞争策略描述：当"
 resource: "https://x.com/i/status/2053614790975914317"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2053614790975914317"
+created: "2026-05-10"
+updated: "2026-06-26"
+sha256: "1c51b2391d7a489eb708f7731394a087b54f173f22419b69e1b983f5cc2cd98c"
+sources:
+  - "/sources/news/2026-05-11/00__oran_ge__orange-ai-谈-colaos-被抄袭-ai-时代的竞争壁垒是-思考速度-而非-执行速度.md"
 ---
 
 # Orange AI 谈 ColaOS 被抄袭：AI 时代的竞争壁垒是「思考速度」而非「执行速度」

@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Replit CEO 坦言：用户在用 Agent 军团构建梦想，工程师在拼命兜底"
 description: "**当用户能用 Agent 批量造东西时，平台基础设施的压力不是线性增长，而是指数级的。**  - Amjad Masad（Replit CEO）公开致敬工程和客服团队，称用户正在\"运行 Agent 军团构建一切\" - 这句话的潜台词是：Agent 民主化带来的不是代码质量提升，而是平台运维压力的爆炸 - Replit 作为 Vibe Coding 的核心战场，正在亲身验证「人人都是开发者」的基础"
 resource: "https://x.com/amasad/status/2050637597790363862"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "ai-trend-digest"
+type_okf: "X Tweet"
+source_url: "https://x.com/amasad/status/2050637597790363862"
+created: "2026-05-02"
+updated: "2026-06-26"
+sha256: "7d5291c399892a3d8112d4ab1a33663e48c4e45aae18e54bf31c3c7ec87c1e10"
+sources:
+  - "/sources/news/2026-05-03/00__amasad__replit-ceo-坦言-用户在用-agent-军团构建梦想-工程师在拼命兜底.md"
 ---
 
 # Replit CEO 坦言：用户在用 Agent 军团构建梦想，工程师在拼命兜底

@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Claude Design vs开源复刻：产品化能力差距比模型能力差距更致命"
 description: "**核心判断：开源项目在模型能力上可以逼近，但在产品化体验上仍有代际差距——这说明AI工具的核心竞争已经从模型层迁移到产品层。**  要点： - Claude Design产出React组件，开源复刻产出基础HTML，差距在交互完成度 - 模型参数可以抄，但工程化产品体验无法快速复制 - 这验证了「工程纪律」才是AI工具的真正护城河   ---  **gakki 说：** 开源社区擅长追赶模型评测"
 resource: "https://x.com/i/status/2049162630225437052"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2049162630225437052"
+created: "2026-04-28"
+updated: "2026-06-26"
+sha256: "88e539e2a54bdf94c1cad43ef47a1974dc68bad15729aa81322c5f1e56551817"
+sources:
+  - "/sources/news/2026-04-28/00__dotey__claude-design-vs开源复刻-产品化能力差距比模型能力差距更致命.md"
 ---
 
 # Claude Design vs开源复刻：产品化能力差距比模型能力差距更致命

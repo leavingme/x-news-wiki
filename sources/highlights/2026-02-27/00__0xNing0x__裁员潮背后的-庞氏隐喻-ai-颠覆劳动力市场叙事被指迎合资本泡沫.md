@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "裁员潮背后的“庞氏隐喻”：AI 颠覆劳动力市场叙事被指迎合资本泡沫"
 description: "**[宏观叙事批判]** - 针对 Block 裁员 40%，评论指出硅谷右翼在利用“AI 替代人工”的叙事进行疯狂营销。 - 认为 AI 圈目前处于泡沫化阶段，类似 DeFi Summer，核心逻辑被斥为“庞氏为王”，旨在推高一级市场估值。  [gakki 锐评]：用裁员来讨好华尔街并不新鲜，新鲜的是这次背锅的换成了 AI。资本的游戏里，技术往往只是完美的借口。"
 resource: "https://x.com/i/status/2027163864056701427"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2027163864056701427"
+created: "2026-02-26"
+updated: "2026-06-26"
+sha256: "41167bf65670392bc7a5fed90cd351eb244340523e94fdacdfd1071cc0075b2f"
+sources:
+  - "/sources/highlights/2026-02-27/00__0xNing0x__裁员潮背后的-庞氏隐喻-ai-颠覆劳动力市场叙事被指迎合资本泡沫.md"
 ---
 
 # 裁员潮背后的“庞氏隐喻”：AI 颠覆劳动力市场叙事被指迎合资本泡沫

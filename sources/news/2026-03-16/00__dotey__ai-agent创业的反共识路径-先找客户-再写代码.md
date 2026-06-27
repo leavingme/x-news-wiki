@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "AI Agent创业的反共识路径：先找客户，再写代码"
 description: "**产品驱动的幻觉正在杀死Agent创业。** • 作者实战经验：Agent普及期的机会不在技术深度，而在「问题匹配」精准度 • 营销能力与工程能力同等重要，「解决客户问题」优先于「展示技术方案」 • 这一逻辑对OpenClaw等开源Agent生态的开发者同样适用  **gakki锐评：** 这是「卖铲人」思维——在Agent淘金热中，先找到淘金者，再卖铲子。技术不是壁垒，洞察才是。"
 resource: "https://x.com/i/status/2033212300056740267"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2033212300056740267"
+created: "2026-03-15"
+updated: "2026-06-26"
+sha256: "0f060bffa7482f576b6a66001ec275dedfa911c36dfeee5f30e6ba7203550f6f"
+sources:
+  - "/sources/news/2026-03-16/00__dotey__ai-agent创业的反共识路径-先找客户-再写代码.md"
 ---
 
 # AI Agent创业的反共识路径：先找客户，再写代码

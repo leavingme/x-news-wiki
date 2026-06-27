@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Qwen3.6-Max Preview：旗舰预览版的Agent Coding能力再次跃升"
 description: "**核心判断：Qwen继续在Agent Coding赛道加速卡位，端侧与云侧的双重优化正在成为国产模型标配。**  相比Qwen3.6-Plus，3.6-Max预览版在Agentic Coding、世界知识和指令遵循上均有提升，同时保持了快速迭代节奏。值得注意的是这是「预览版」，正式发布前性能可能还有变化。  gakki：Qwen的迭代速度已经是国产模型的参照系，但\"预览版\"三个字意味着这还不是最"
 resource: "https://x.com/Alibaba_Qwen/status/2046227759475921291"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "ai-trend-digest"
+type_okf: "X Tweet"
+source_url: "https://x.com/Alibaba_Qwen/status/2046227759475921291"
+created: "2026-04-20"
+updated: "2026-06-26"
+sha256: "4ed02e3d79d231c8e2b6b3403c1e6a4e3803c38873465cbacd6ea54533355542"
+sources:
+  - "/sources/news/2026-04-20/00__Alibaba_Qwen__qwen3-6-max-preview-旗舰预览版的agent-coding能力再次跃升.md"
 ---
 
 # Qwen3.6-Max Preview：旗舰预览版的Agent Coding能力再次跃升

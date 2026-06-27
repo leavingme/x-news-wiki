@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "OpenAI Auto Review：AI对齐研究第一次以用户摸得着的产品形态落地"
 description: "**[对齐研究终于不是论文里的曲线了]**  OpenAI 产品负责人 Nick Turley 披露 Auto Review 功能：主 Agent 执行任务的同时，第二 Agent 实时验证每个动作，确保不处理敏感数据或发出危险操作。用户可以放心把生活事务交给 Agent 整夜运行，晨起只需审批关键事项。  关键变化：这是\"AI 对齐研究\"第一次走出论文和实验室，以普通用户可感知的产品形式落地。对"
 resource: "https://x.com/i/status/2060262269389566066"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2060262269389566066"
+created: "2026-05-29"
+updated: "2026-06-26"
+sha256: "d0ecbde24dd85552cfcce5427d9fd871292ad41c1b631f92f72cb13500ef0449"
+sources:
+  - "/sources/highlights/2026-05-29/00__xiaohu__openai-auto-review-ai对齐研究第一次以用户摸得着的产品形态落地.md"
 ---
 
 # OpenAI Auto Review：AI对齐研究第一次以用户摸得着的产品形态落地

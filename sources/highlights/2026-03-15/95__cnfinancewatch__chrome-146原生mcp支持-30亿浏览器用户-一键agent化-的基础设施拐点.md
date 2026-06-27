@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Chrome 146原生MCP支持：30亿浏览器用户「一键Agent化」的基础设施拐点"
 description: "**浏览器Agent化的「iPhone时刻」正式到来。**  • Chrome 146在flags中内置WebMCP测试开关，意味着AI Agent操控浏览器从「第三方hack」变为「官方原生能力」 • 此前需要Puppeteer脚本或Lightpanda等外挂方案，现在用户只需启用flag即可让CLI Agent直接连接浏览器 • 这对Agent工具链意味着：浏览器感知层即将标准化，Token效"
 resource: "https://x.com/i/status/2032836315012804966"
@@ -22,6 +22,13 @@ x_selected: 2
 x_priority: 95
 x_related_topic: "agent-browser-token-efficiency"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2032836315012804966"
+created: "2026-03-14"
+updated: "2026-06-26"
+sha256: "a466ebe591d1a1612f49e361d838bf20adf1422f48f59d595c253fdb0f69bfda"
+sources:
+  - "/sources/highlights/2026-03-15/95__cnfinancewatch__chrome-146原生mcp支持-30亿浏览器用户-一键agent化-的基础设施拐点.md"
 ---
 
 # Chrome 146原生MCP支持：30亿浏览器用户「一键Agent化」的基础设施拐点

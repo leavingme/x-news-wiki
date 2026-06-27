@@ -1,5 +1,5 @@
 ---
-type: "Author"
+type: "entity"
 title: "0x鸣人 (@LuBtc888)"
 description: "X/Twitter 作者 @LuBtc888。共收录 1 条 AI 精选推文。"
 tags:
@@ -12,6 +12,12 @@ x_author_name: "0x鸣人"
 x_tweet_count: 1
 x_first_seen: "2026-04-13T00:45:08.527Z"
 x_last_seen: "2026-04-13T00:45:08.527Z"
+type_okf: "Author"
+created: "2026-04-13"
+updated: "2026-06-26"
+sha256: "413b73ad1254fe79da757d81d30187ffb77c9905f70594790ee71dbfb6e6923d"
+sources:
+  - "/sources/highlights/2026-04-13/00__LuBtc888__26个skill揭开-蒸馏一切-时代-女娲自己-老板-前任皆可蒸.md"
 ---
 
 # 0x鸣人 (@LuBtc888)

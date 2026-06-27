@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "GPT Image 2「故意画丑」prompt 病毒传播：AI 图像生成已进入文化自嘲阶段"
 description: "**一个要求「画得尽可能糟糕」的 GPT Image 2 prompt 疯传，揭示 AI 图像工具的文化渗透已从惊艳进入玩梗。**  - 用户探索的不是 AI 画得多好，而是画得多差——这是对能力边界的反向探测 - MS Paint 风格的怀旧审美与 AI 生成能力形成有趣的张力 - AI 图像工具的 adoption 已从「惊艳」进入「玩梗」阶段，技术成熟的标志  锐评：当用户开始用 AI 故意"
 resource: "https://x.com/arrakis_ai/status/2049689793118998717"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "ai-trend-digest"
+type_okf: "X Tweet"
+source_url: "https://x.com/arrakis_ai/status/2049689793118998717"
+created: "2026-04-30"
+updated: "2026-06-26"
+sha256: "ae08ad82cc842cc9cacc79699be51a993b4ea4e7a6dd46fb813ee49fbb872c54"
+sources:
+  - "/sources/news/2026-05-01/00__arrakis_ai__gpt-image-2-故意画丑-prompt-病毒传播-ai-图像生成已进入文化自嘲阶段.md"
 ---
 
 # GPT Image 2「故意画丑」prompt 病毒传播：AI 图像生成已进入文化自嘲阶段

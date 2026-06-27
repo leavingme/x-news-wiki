@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "情商之巅：GPT-4.5 以“非 AI 味”逻辑成功说服人类"
 description: "**[核心逻辑]** 用户反馈 GPT-4.5 在处理回京改签等生活决策时表现出极高情商，通过自然且具说服力的句式（如“不是...而是...”）替代了机械化的指令输出，体现了模型在对齐人类动机层面的进化。  *   **沟通艺术**：消解了“AI 建议”的生硬感，实现了更具共情力的交互。 *   **决策辅助**：在复杂且带情绪的日常选择中，模型开始扮演更可靠的“数字大脑”。  [gakki 的锐"
 resource: "https://x.com/i/status/2024907974498812381"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2024907974498812381"
+created: "2026-02-20"
+updated: "2026-06-26"
+sha256: "3014c1c985477b7261202533cda9a3a45734c50dc0019ea9be720f311ce2bed7"
+sources:
+  - "/sources/highlights/2026-02-21/00__Khazix0918__情商之巅-gpt-4-5-以-非-ai-味-逻辑成功说服人类.md"
 ---
 
 # 情商之巅：GPT-4.5 以“非 AI 味”逻辑成功说服人类

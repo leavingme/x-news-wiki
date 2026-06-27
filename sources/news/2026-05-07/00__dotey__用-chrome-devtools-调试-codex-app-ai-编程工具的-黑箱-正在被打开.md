@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "用 Chrome DevTools 调试 Codex App：AI 编程工具的「黑箱」正在被打开"
 description: "**通过 remote-debugging-port 参数启动 Codex App，即可用 Chrome DevTools 检查其内部状态。**  - 启动命令：`open /Applications/Codex.app --args --remote-debugging-port=8315 --remote-allow-origins=http://localhost:8315` - 然后在 C"
 resource: "https://x.com/i/status/2052200047278739457"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2052200047278739457"
+created: "2026-05-07"
+updated: "2026-06-26"
+sha256: "9687e29880c6fee2921a38c9170b1e521e2310659437df682bd882e7148744b5"
+sources:
+  - "/sources/news/2026-05-07/00__dotey__用-chrome-devtools-调试-codex-app-ai-编程工具的-黑箱-正在被打开.md"
 ---
 
 # 用 Chrome DevTools 调试 Codex App：AI 编程工具的「黑箱」正在被打开

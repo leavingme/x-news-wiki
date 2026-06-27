@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Codex 拆解小红书爆款标题公式：32 字、感叹号八成、数字过半、英文名刷脸"
 description: "**向阳乔木用 Codex 反向蒸馏出小红书高互动标题的统计规律，本质是把\"内容感觉\"变成可复制的 prompt 模板。**  - 标题中位长度 32 字；「！」与「，」出现率均接近 80% - 数字出现率 56.7%；英文模型/公司名出现率 90.8%（平台调性使然） - 高频结构：「实体/数字/刚刚 + 动作/冲突 + 后果/榜单/人群影响」   gakki 锐评：把爆款拆成统计规律本身不稀奇"
 resource: "https://x.com/i/status/2069434073752502500"
@@ -22,6 +22,13 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "dbskill-formula-marketplace"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2069434073752502500"
+created: "2026-06-23"
+updated: "2026-06-26"
+sha256: "623732ab4d3bb4db9a7fcd31b8b06db7def7b7e2a3fa8aa1c26afca1f8d471d1"
+sources:
+  - "/sources/highlights/2026-06-23/00__vista8__codex-拆解小红书爆款标题公式-32-字-感叹号八成-数字过半-英文名刷脸.md"
 ---
 
 # Codex 拆解小红书爆款标题公式：32 字、感叹号八成、数字过半、英文名刷脸

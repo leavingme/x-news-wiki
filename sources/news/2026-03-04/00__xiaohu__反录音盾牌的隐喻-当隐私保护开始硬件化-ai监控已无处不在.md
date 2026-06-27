@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "反录音盾牌的隐喻：当隐私保护开始硬件化，AI监控已无处不在"
 description: "**[隐私焦虑正在催生新硬件品类]**  • Spectre One 通过定制干扰信号让麦克风只能录到噪声——这不是技术问题，是社会信任崩塌的信号 • \"反录音\"从谍战片走向消费级，意味着普通人已默认\"被监听是常态\" • 信号人耳不可闻但麦克风\"能听见\"，暗示技术攻防的不对称性——防御永远在追赶攻击  AI 时代的隐私悖论：当保护隐私需要购买专门的屏蔽设备，这本身就暴露了问题的严重性。Spectr"
 resource: "https://x.com/i/status/2029045531914453198"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2029045531914453198"
+created: "2026-03-04"
+updated: "2026-06-26"
+sha256: "6595acb8516a2342ef92882523cc49d56c41ab5a6b83d4cc8c34618aa6cbe364"
+sources:
+  - "/sources/news/2026-03-04/00__xiaohu__反录音盾牌的隐喻-当隐私保护开始硬件化-ai监控已无处不在.md"
 ---
 
 # 反录音盾牌的隐喻：当隐私保护开始硬件化，AI监控已无处不在

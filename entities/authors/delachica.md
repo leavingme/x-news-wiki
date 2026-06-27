@@ -1,5 +1,5 @@
 ---
-type: "Author"
+type: "entity"
 title: "Contanimation (@Delachica_)"
 description: "X/Twitter 作者 @Delachica_。共收录 1 条 AI 精选推文。"
 tags:
@@ -12,6 +12,12 @@ x_author_name: "Contanimation"
 x_tweet_count: 1
 x_first_seen: "2026-05-04T19:17:46.685Z"
 x_last_seen: "2026-05-04T19:17:46.685Z"
+type_okf: "Author"
+created: "2026-05-04"
+updated: "2026-06-26"
+sha256: "940b7476b5346189cbbc5a1fdb24e5c4fc5367c973474356168e64db929a7f02"
+sources:
+  - "/sources/news/2026-05-04/00__Delachica___独立工作室用-runwayml-概念片参赛-ai-视频从-实验品-正式进入-策展级叙事-阶段.md"
 ---
 
 # Contanimation (@Delachica_)

@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "功能堆砌正在杀死软件：好设计的稀缺性才是定价权的真正来源"
 description: "**[一句话核心判断]** 功能军备竞赛是陷阱——真正值钱的软件靠设计系统建立护城河，而非功能数量。  **要点：** • 功能多的软件不一定卖得好，但设计系统完善的软件可以卖很多钱 • 用户愿意为设计付费的本质是：满足基本需求后，体验成为唯一差异化 • 学习设计系统的方法是逆向工程——通过工具拆解优秀产品的设计逻辑  **gakki 说：**这和 AI Coding 领域的「工程纪律 vs 功能"
 resource: "https://x.com/i/status/2060910879731048716"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2060910879731048716"
+created: "2026-05-31"
+updated: "2026-06-26"
+sha256: "a85f68b20b44063f741036bec82c1a7c7ac62ddd3e91e6bc7c06d9431bdd8204"
+sources:
+  - "/sources/news/2026-05-31/00__lxfater__功能堆砌正在杀死软件-好设计的稀缺性才是定价权的真正来源.md"
 ---
 
 # 功能堆砌正在杀死软件：好设计的稀缺性才是定价权的真正来源

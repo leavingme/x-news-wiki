@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "白嫖攻略：讯飞星火39元套餐含GLM5.1+Kimi2.6，OpenRouter Kimi2.6目前免费"
 description: "**[一句话核心判断]**  国内大模型白嫖生态正在形成「闭源免费+垂直套餐」的双轨格局，DeepSeek V4 Pro 在文本处理场景已与头部闭源模型正面抗衡。  **信息增量：** - GLM 5.1、Kimi 2.6、DeepSeek V4 Pro 三者文本处理能力已基本拉平，各有优势区间； - 讯飞星火以 39 元/月套餐整合 GLM 5.1 + Kimi 2.6，OpenRouter 的"
 resource: "https://x.com/i/status/2060272892445958376"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2060272892445958376"
+created: "2026-05-29"
+updated: "2026-06-26"
+sha256: "20fd45a8a465f2bb14b66b2ab40780e0d420c8e5b8b21c53ca7f6c5b5b679e3c"
+sources:
+  - "/sources/news/2026-05-29/00__mranti__白嫖攻略-讯飞星火39元套餐含glm5-1-kimi2-6-openrouter-kimi2-6目前免费.md"
 ---
 
 # 白嫖攻略：讯飞星火39元套餐含GLM5.1+Kimi2.6，OpenRouter Kimi2.6目前免费

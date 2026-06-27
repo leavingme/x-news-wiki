@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Rust 创始人吐槽：一个 bool 本可以是 enum——类型设计的第一性原理"
 description: "**Charie Marsh 一句话点破类型设计浪费：用 bool 表达本应是有限状态集合的语义，是 API 设计的隐性技术债。**  - bool 只能表达 true/false，但业务语义往往是多状态（如 tri-state、error 类型、permission 模式），强转 bool 会丢失信息 - 这类小决策在大型代码库中累积成\"模糊 API\"——调用方被迫依赖注释或外部文档理解真实意图"
 resource: "https://x.com/i/status/2069796668506042584"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2069796668506042584"
+created: "2026-06-24"
+updated: "2026-06-26"
+sha256: "bae59017a2d92e5bdfeb0d052fd616a635586512059b2c36de5c608b8f5b53ac"
+sources:
+  - "/sources/news/2026-06-25/00__charliermarsh__rust-创始人吐槽-一个-bool-本可以是-enum-类型设计的第一性原理.md"
 ---
 
 # Rust 创始人吐槽：一个 bool 本可以是 enum——类型设计的第一性原理

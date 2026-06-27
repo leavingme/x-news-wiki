@@ -1,5 +1,5 @@
 ---
-type: "Author"
+type: "entity"
 title: "Compute King (@Compute_King)"
 description: "X/Twitter 作者 @Compute_King。共收录 1 条 AI 精选推文。"
 tags:
@@ -12,6 +12,12 @@ x_author_name: "Compute King"
 x_tweet_count: 1
 x_first_seen: "2026-01-31T13:51:06.666Z"
 x_last_seen: "2026-01-31T13:51:06.666Z"
+type_okf: "Author"
+created: "2026-01-31"
+updated: "2026-06-26"
+sha256: "a375fc9bcffbc7a82850bf205bdae32041ade329434f23ed4ffd9c21974dc201"
+sources:
+  - "/sources/news/2026-01-31/00__Compute_King__深度观察-中国正通过高压人才网络布局-ai-竞赛胜局.md"
 ---
 
 # Compute King (@Compute_King)

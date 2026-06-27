@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Agentic Engineer 的极简主义法则：工具越裸，输出越强"
 description: "**[核心判断：上下文污染是Agent性能的头号杀手，裸机CLI反而产出最佳]**  • 工具精简 > 工具堆砌：复杂插件、harness、记忆系统反而带来上下文污染，@systematicls 用近乎裸机的 Claude Code + Codex 做出迄今最佳工作 • 模型进化速度被低估：今天为缺陷设计的复杂方案，可能在下个模型版本直接失效或内置实现 • 研究与实现必须物理隔离：不要让 Agen"
 resource: "https://x.com/i/status/2028833958230933729"
@@ -22,6 +22,13 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "claude-code-natural-language-workflow"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2028833958230933729"
+created: "2026-03-03"
+updated: "2026-06-26"
+sha256: "570a1b578ea8082619671f7502d9a120399e81a61b1c714c9dbd4566d0b71e43"
+sources:
+  - "/sources/highlights/2026-03-04/00__shao__meng__agentic-engineer-的极简主义法则-工具越裸-输出越强.md"
 ---
 
 # Agentic Engineer 的极简主义法则：工具越裸，输出越强

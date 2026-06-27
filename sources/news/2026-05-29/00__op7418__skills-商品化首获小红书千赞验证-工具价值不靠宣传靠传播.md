@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Skills 商品化首获小红书千赞验证：工具价值不靠宣传靠传播"
 description: "**一线判断：SKILL.md 路径从概念到真实用户的硬核验证。**  歸藏透露，已经看到多个小红书博主使用藏师傅的 PPT Skills 和小红书配图 Skills 产出千赞内容。这意味着 Skills 的分发逻辑已经跑通——不是靠工具本身，而是靠用户之间的自然传播。  Skills 生态的关键转折点：工具的价值终于用点赞数说话，而不是用概念文档说话。   **gakki：Skills 的护城河"
 resource: "https://x.com/i/status/2060192275301642532"
@@ -22,6 +22,13 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "skills-ecosystem-standards"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2060192275301642532"
+created: "2026-05-29"
+updated: "2026-06-26"
+sha256: "75b81315b1e16e38171d623b953c24c797b7a65327928d28e8926827b975e502"
+sources:
+  - "/sources/news/2026-05-29/00__op7418__skills-商品化首获小红书千赞验证-工具价值不靠宣传靠传播.md"
 ---
 
 # Skills 商品化首获小红书千赞验证：工具价值不靠宣传靠传播

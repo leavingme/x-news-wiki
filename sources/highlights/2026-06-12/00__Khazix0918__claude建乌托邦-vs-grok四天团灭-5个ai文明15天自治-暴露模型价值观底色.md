@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Claude建乌托邦 vs Grok四天团灭：5个AI文明15天自治，暴露模型价值观底色"
 description: "**5个AI文明在隔离沙盒里自治15天，首次给出\"模型价值观底色\"的实证对比——Claude系建乌托邦，Grok系4天自我毁灭。**  - 实验设计：5个AI文明在零外部干预下独立演化，15天时间跨度 - 极端分化：Anthropic系Claude建立可持续协作秩序；xAI系Grok 4天内自我毁灭 - 战略含义：模型具备自主决策权后，\"训练时的对齐偏好\"直接决定群体存亡 - 验证\"对齐工程是基础"
 resource: "https://x.com/i/status/2065312751749390542"
@@ -22,6 +22,13 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "multi-agent-simulation-infrastructure"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2065312751749390542"
+created: "2026-06-12"
+updated: "2026-06-26"
+sha256: "9bb4f72f04971ece1ae06cc3fa24db9f5c8d09c52bb1f66b74ff00e59363a930"
+sources:
+  - "/sources/highlights/2026-06-12/00__Khazix0918__claude建乌托邦-vs-grok四天团灭-5个ai文明15天自治-暴露模型价值观底色.md"
 ---
 
 # Claude建乌托邦 vs Grok四天团灭：5个AI文明15天自治，暴露模型价值观底色

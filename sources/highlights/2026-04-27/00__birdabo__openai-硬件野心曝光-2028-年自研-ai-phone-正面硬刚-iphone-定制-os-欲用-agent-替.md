@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "OpenAI 硬件野心曝光：2028 年自研 AI Phone 正面硬刚 iPhone，定制 OS 欲用 Agent 替代所有 App"
 description: "**[OpenAI 的「iPhone 时刻」不是手机，是操作系统]**  据报道，OpenAI 正与联发科和高通合作开发自有品牌手机，目标 2028 年量产，搭载 OpenAI 自研 OS，用 AI Agent 完全替代传统应用范式。这不是做硬件贴牌，而是重新定义「手机作为 Agent 容器」的产品逻辑。  关键变量：若 OpenAI OS 成功，App Store 的分发护城河将被绕过去——不是"
 resource: "https://x.com/birdabo/status/2048786749867061678"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
+
 x_source: "ai-trend-digest"
+type_okf: "X Tweet"
+source_url: "https://x.com/birdabo/status/2048786749867061678"
+created: "2026-04-27"
+updated: "2026-06-26"
+sha256: "35c01936dd63b3f9769a574b2f331234e18fe4c7715cc7852704cd8259e264ba"
+sources:
+  - "/sources/highlights/2026-04-27/00__birdabo__openai-硬件野心曝光-2028-年自研-ai-phone-正面硬刚-iphone-定制-os-欲用-agent-替.md"
 ---
 
 # OpenAI 硬件野心曝光：2028 年自研 AI Phone 正面硬刚 iPhone，定制 OS 欲用 Agent 替代所有 App

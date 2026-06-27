@@ -1,5 +1,5 @@
 ---
-type: "Author"
+type: "entity"
 title: "比特币橙子Trader (@chengzi_95330)"
 description: "X/Twitter 作者 @chengzi_95330。共收录 2 条 AI 精选推文。"
 tags:
@@ -12,6 +12,13 @@ x_author_name: "比特币橙子Trader"
 x_tweet_count: 2
 x_first_seen: "2026-01-31T09:24:30.203Z"
 x_last_seen: "2026-02-12T13:18:21.005Z"
+type_okf: "Author"
+created: "2026-01-31"
+updated: "2026-06-26"
+sha256: "e809a64efbd7c147414af2c94a0d56b442868aa0006d77a90510e76394ef3ddd"
+sources:
+  - "/sources/news/2026-01-31/00__chengzi_95330__clawdbot-把-ai-真正装进聊天框.md"
+  - "/sources/news/2026-02-12/00__chengzi_95330__stripe-发布-x402-协议-开启-agent-to-agent-的-usdc-支付时代.md"
 ---
 
 # 比特币橙子Trader (@chengzi_95330)

@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "微信输入法实测：语音转文字速度获认可，准确率仍是痛点"
 description: "**【一句话核心判断】** 有用户以实际对话验证微信输入法的语音输入效果——速度可用，但准确率尚未达到\"无感替代\"水位线。  **信息增量：** - 微信输入法正在从\"社交工具插件\"向\"独立输入法\"定位渗透 - 速度优于准确率的产品取舍，说明目标用户可能是高频语音场景而非精准文字场景 - 与讯飞、搜狗的竞争已经开始从 PC 端转向移动端语音交互  **影响：** 输入法战争进入\"语音优先\"阶段，各"
 resource: "https://x.com/i/status/2060390138132181009"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2060390138132181009"
+created: "2026-05-29"
+updated: "2026-06-26"
+sha256: "ba2dc70bd4a1871f28a17e85eb102423027c9caef917e06d04d634b4e7749646"
+sources:
+  - "/sources/news/2026-05-29/00__gkxspace__微信输入法实测-语音转文字速度获认可-准确率仍是痛点.md"
 ---
 
 # 微信输入法实测：语音转文字速度获认可，准确率仍是痛点

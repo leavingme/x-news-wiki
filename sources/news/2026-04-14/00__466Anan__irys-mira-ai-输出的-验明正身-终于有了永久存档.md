@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Irys × Mira：AI 输出的「验明正身」终于有了永久存档"
 description: "**AI 幻觉顽疾遇上了它的「档案馆」——而且这个档案馆在链上。**  Mira 通过多模型「多数表决」把 AI 输出准确率提升至 95.6%，每天验证数十亿次 AI 结果。但问题来了：验证记录存不住、查不了、等不及。传统存储贵且慢，Filecoin 按小时计费，Arweave 操作复杂。  Irys 作为 Arweave 的「数据高速公路」，批量打包交易降存储成本，支持多链支付，秒级检索+即时数"
 resource: "https://x.com/i/status/1976294246425690533"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/1976294246425690533"
+created: "2025-10-09"
+updated: "2026-06-26"
+sha256: "0f6e19bec3e83936efb6e391f298d5083139384e9078d13d964ba188071fe4a8"
+sources:
+  - "/sources/news/2026-04-14/00__466Anan__irys-mira-ai-输出的-验明正身-终于有了永久存档.md"
 ---
 
 # Irys × Mira：AI 输出的「验明正身」终于有了永久存档

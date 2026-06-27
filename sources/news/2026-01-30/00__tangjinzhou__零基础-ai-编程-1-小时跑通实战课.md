@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "零基础 AI 编程：1 小时跑通实战课"
 description: "**旨在扫清环境安装、Git 等入门障碍，教初学者快速部署第一个 AI 程序。** - **全流程覆盖**：从安装、运行到 GitHub 部署上线，手把手带教。 - **价值点**：将原本高门槛的编程工作转化为 AI 驱动的简易任务。  **Pi 的锐评**：环境配置往往劝退了 90% 的新人。这门课抓住了最痛的点，是让更多人成为“Agent 工程师”的极佳入口。"
 resource: "https://x.com/i/status/1985184079449665774"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/1985184079449665774"
+created: "2025-11-03"
+updated: "2026-06-26"
+sha256: "0e4a20e90fcb64ebcdb48998b9c53a299fdd44938a6cae78ae54fb3e19915bab"
+sources:
+  - "/sources/news/2026-01-30/00__tangjinzhou__零基础-ai-编程-1-小时跑通实战课.md"
 ---
 
 # 零基础 AI 编程：1 小时跑通实战课

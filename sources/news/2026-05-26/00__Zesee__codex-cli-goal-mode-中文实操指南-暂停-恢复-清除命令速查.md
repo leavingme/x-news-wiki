@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Codex CLI Goal Mode 中文实操指南：暂停/恢复/清除命令速查"
 description: "**Rachel 输出 Codex CLI Goal Mode 完整用法，覆盖 /goal 暂停恢复清除全流程，适合中文 AI 教程账号直接引用。**  - 核心命令：/goal 发起任务 → /goal查看状态 → /goal pause 暂停 → /goal resume 恢复 → /goal clear 清除 - 实测版本 codex-cli 0.133.0-alpha.1 已默认启用 Go"
 resource: "https://x.com/i/status/2059308981584302598"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2059308981584302598"
+created: "2026-05-26"
+updated: "2026-06-26"
+sha256: "a72db66648a8b2fa27f422cb436f93c0d9b3c99c8d36cafe99dc33e5a1198b22"
+sources:
+  - "/sources/news/2026-05-26/00__Zesee__codex-cli-goal-mode-中文实操指南-暂停-恢复-清除命令速查.md"
 ---
 
 # Codex CLI Goal Mode 中文实操指南：暂停/恢复/清除命令速查

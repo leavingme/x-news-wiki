@@ -1,5 +1,5 @@
 ---
-type: "Author"
+type: "entity"
 title: "鹿 𝕟𝕠𝕜𝕚𝕟𝕠𝕜𝕚 祥子 DucKDE (@IIInoki)"
 description: "X/Twitter 作者 @IIInoki。共收录 1 条 AI 精选推文。"
 tags:
@@ -12,6 +12,12 @@ x_author_name: "鹿 𝕟𝕠𝕜𝕚𝕟𝕠𝕜𝕚 祥子 DucKDE"
 x_tweet_count: 1
 x_first_seen: "2026-04-03T00:42:40.433Z"
 x_last_seen: "2026-04-03T00:42:40.433Z"
+type_okf: "Author"
+created: "2026-04-03"
+updated: "2026-06-26"
+sha256: "dc0404e57a4602f713d4276f97217e8cfed6bf09d5559bfd6b40f28e5f3d58e2"
+sources:
+  - "/sources/news/2026-04-03/00__IIInoki__gemma移动端多模态一声炮响-端侧ai的-民主化拐点-来了.md"
 ---
 
 # 鹿 𝕟𝕠𝕜𝕚𝕟𝕠𝕜𝕚 祥子 DucKDE (@IIInoki)

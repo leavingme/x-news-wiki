@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "roadness > harness：玉伯点破AI工具价值链的真正分水岭"
 description: "**【harness让人爽，roadness让人富】**  harness（工具链、框架、加速基础设施）决定了开发体验的上限，但roadness（变现路径、商业闭环、生态持续性）才决定创造者能不能真正赚到钱。  这条推文精准戳中了当前AI工具生态的结构性矛盾：大量开发者沉迷于造harness，但这些harness最终都在给平台引流、自己却变不了现。玉伯用\"要想富先修路\"的本土隐喻，把这个问题讲透了"
 resource: "https://x.com/i/status/2059278154716586147"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2059278154716586147"
+created: "2026-05-26"
+updated: "2026-06-26"
+sha256: "c5cba1be36a71a25dc52bb89bf3909ee93f24f6444fbd9951272cf1a0c7040bc"
+sources:
+  - "/sources/highlights/2026-05-26/00__lifesinger__roadness-harness-玉伯点破ai工具价值链的真正分水岭.md"
 ---
 
 # roadness > harness：玉伯点破AI工具价值链的真正分水岭

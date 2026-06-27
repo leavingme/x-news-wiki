@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Steer向量可在当前Turn注入，Queue验证决定能否跨Turn衔接"
 description: "**[Steer可在同Turn生效，但跨Turn衔接仍需Queue验证]**  宝玉正在验证Steer功能的边界：Steer能直接加入当前Turn（turn-injected），但下一个Turn能否加入取决于Queue的验证结果。这意味着Steer是即时控制手段，而Queue是跨轮次状态一致性的守门人。  对Agent工程而言，这是一个关键发现：不是所有控制指令都有相同的生效时机，开发者需要区分「"
 resource: "https://x.com/i/status/2058614809956856158"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2058614809956856158"
+created: "2026-05-24"
+updated: "2026-06-26"
+sha256: "3bbac52a53394d4e74e457a71720570054848bf66ae324e06b79740461b8737f"
+sources:
+  - "/sources/news/2026-05-24/00__dotey__steer向量可在当前turn注入-queue验证决定能否跨turn衔接.md"
 ---
 
 # Steer向量可在当前Turn注入，Queue验证决定能否跨Turn衔接

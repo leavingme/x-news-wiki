@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "台湾政治博弈暴露 AI 军事化现实：C5ISR 与 AI 指管系统成为国防预算核心筹码"
 description: "**[AI 军事应用已从实验室进入地缘博弈前线]** - 台湾民众党删减国防预算中的 C5ISR 及 AI 辅助指挥系统，被批「摘除防空网的眼睛与大脑」 - 信号：AI 指挥控制系统在现代战争中的战略地位已获共识，成为跨党派争夺的预算焦点  当 AI 系统成为国防议价的核心议题，说明军事 AI 不再是概念验证，而是即战力。这背后是全球范围内 AI 国防军备竞赛的缩影。"
 resource: "https://x.com/i/status/2028349045115433215"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2028349045115433215"
+created: "2026-03-02"
+updated: "2026-06-26"
+sha256: "ee41b47ac46251f4263b37d724607bd0b1de32f37754fbcc85dda32088399761"
+sources:
+  - "/sources/highlights/2026-03-02/00__in_somewhere__台湾政治博弈暴露-ai-军事化现实-c5isr-与-ai-指管系统成为国防预算核心筹码.md"
 ---
 
 # 台湾政治博弈暴露 AI 军事化现实：C5ISR 与 AI 指管系统成为国防预算核心筹码

@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "IBM 股价重挫 13%：Claude Code 开启古老 COBOL 代码的现代化“拆迁”"
 description: "**[核心逻辑]** Anthropic 宣布 Claude Code 具备重构 COBOL 代码的能力，直接动了 IBM 咨询业务的“养老命根”。  - **护城河崩塌**：过去金融系统依赖 IBM 高价维护老旧 COBOL 系统，现 AI 可在几天内梳理清几十年的业务逻辑，成本骤降 90%。 - **咨询巨头危机**：不仅是 IBM，Accenture 等依赖“人头费”的高端草台班子正面临 A"
 resource: "https://x.com/i/status/2026025615460270378"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2026025615460270378"
+created: "2026-02-23"
+updated: "2026-06-26"
+sha256: "4d97143694320d428ce7cd1b7f1d3c629e2b80604538ed31d921a8a3abf37b4b"
+sources:
+  - "/sources/news/2026-02-24/00__KKaWSB__ibm-股价重挫-13-claude-code-开启古老-cobol-代码的现代化-拆迁.md"
 ---
 
 # IBM 股价重挫 13%：Claude Code 开启古老 COBOL 代码的现代化“拆迁”

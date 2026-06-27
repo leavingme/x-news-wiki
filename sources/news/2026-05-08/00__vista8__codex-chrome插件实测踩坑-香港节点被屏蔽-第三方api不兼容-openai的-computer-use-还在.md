@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Codex Chrome插件实测踩坑：香港节点被屏蔽、第三方API不兼容——OpenAI的「Computer Use」还在找地理边界"
 description: "**OpenAI Codex的浏览器控制能力正式落地，但地区限制和认证门槛暴露了产品成熟度的短板。**  - Chrome插件不支持第三方API模式，强制切换为官方订阅登录，意味着OpenAI在收紧生态控制权 - 香港地区节点被屏蔽，暗示Computer Use功能存在地区合规或算力调度的未解决问题 - 必须在Codex对话中用@Chrome调用，Terminal版找不到node_repl——跨形"
 resource: "https://x.com/i/status/2052647425832329358"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2052647425832329358"
+created: "2026-05-08"
+updated: "2026-06-26"
+sha256: "270dbe7bd90f3294e6855125a18dce18edd51a366a696fcffabfd68ffcefa490"
+sources:
+  - "/sources/news/2026-05-08/00__vista8__codex-chrome插件实测踩坑-香港节点被屏蔽-第三方api不兼容-openai的-computer-use-还在.md"
 ---
 
 # Codex Chrome插件实测踩坑：香港节点被屏蔽、第三方API不兼容——OpenAI的「Computer Use」还在找地理边界

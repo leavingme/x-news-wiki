@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "OpenDoor 一刀切裁掉 200 人印度团队，AI 原生小团队接管：离岸外包的护城河正在塌方"
 description: "**[一句话]** 房产科技公司 OpenDoor 把印度整个离岸团队（200+ 人）全裁，换上美国本土规模更小的 AI 原生团队——\"AI 替外包\"从 PPT 真正走到了裁员清单。  - OpenDoor 作为美股上市公司，把\"AI 提效\"从口号落到组织重塑层面，是首批\"AI 替代离岸\"的公开样本 - 离岸外包的护城河（时区差 + 人力成本差）正在被 AI 抹平：Agent 可以 7×24 在岗"
 resource: "https://x.com/i/status/2064950294711013807"
@@ -22,6 +22,13 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "ai-employment-replacement-narrative"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2064950294711013807"
+created: "2026-06-11"
+updated: "2026-06-26"
+sha256: "3366f187c3726dc05e3efc09b30f44dd38994e0c31d73ee1db728064b78cbc4e"
+sources:
+  - "/sources/highlights/2026-06-11/00__dotey__opendoor-一刀切裁掉-200-人印度团队-ai-原生小团队接管-离岸外包的护城河正在塌方.md"
 ---
 
 # OpenDoor 一刀切裁掉 200 人印度团队，AI 原生小团队接管：离岸外包的护城河正在塌方

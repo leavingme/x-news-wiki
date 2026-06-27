@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Agentic Detection 把视觉检测从'标注训练'推向'语言推理'：零样本一句话圈出图中的物理因果"
 description: "**一句话核心判断：Agentic Detection 把视觉检测从'先标注后训练'推到'语言即检测'阶段，零样本即可完成需要物理推理的复杂定位。**  要点： - 用一句话描述目标，模型直接在原图精确圈出对应区域，无需任何预训练或微调 - 关键突破在'推理式定位'：输入'烟的来源'可反推森林火灾起火点，输入'需要维修的电线杆'能挑出变形的电力设施，输入'空着的停车位'自动标记 - 这类能力的本质"
 resource: "https://x.com/i/status/2066467115880837500"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2066467115880837500"
+created: "2026-06-15"
+updated: "2026-06-26"
+sha256: "402f02e7b68dee7a874070ddf1e2867012fcb71c889bffc1ec01dd23ac03f3ac"
+sources:
+  - "/sources/news/2026-06-15/00__xiaohu__agentic-detection-把视觉检测从-标注训练-推向-语言推理-零样本一句话圈出图中的物理因果.md"
 ---
 
 # Agentic Detection 把视觉检测从'标注训练'推向'语言推理'：零样本一句话圈出图中的物理因果

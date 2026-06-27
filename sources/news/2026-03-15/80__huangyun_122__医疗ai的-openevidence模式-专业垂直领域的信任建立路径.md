@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "医疗AI的「OpenEvidence模式」：专业垂直领域的信任建立路径"
 description: "**[基于3500万篇同行评审文献的医疗AI，用「证据链」而非「生成力」建立专业信任]**  • 融资与定位：2亿美元，专注「搜索+分析+自动写研究报告」，与11本顶级医学期刊合作 • 渗透数据：40%美国医生在用，月咨询量从35.8万暴增至1650万次，首个通过美国医师执照考试满分的AI • 关键差异：所有能力基于真实医学文献和临床指南，AI幻觉率行业最低  gakki 锐评：通用大模型在玩「角"
 resource: "https://x.com/i/status/1983480507112550673"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 80
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/1983480507112550673"
+created: "2025-10-29"
+updated: "2026-06-26"
+sha256: "c2f5c0976cd508dc848fcfefe378767473bc660a01f0c55bcdad4db4e1ad30dd"
+sources:
+  - "/sources/news/2026-03-15/80__huangyun_122__医疗ai的-openevidence模式-专业垂直领域的信任建立路径.md"
 ---
 
 # 医疗AI的「OpenEvidence模式」：专业垂直领域的信任建立路径

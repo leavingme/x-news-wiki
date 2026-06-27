@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Codex 对 Claude Code 的「屠杀」已成共识，但大众认知仍滞后三个月"
 description: "**开发者社区的共识已经形成：Codex 正在杀死 Claude Code。**  - 「consensus is pretty clear; codex is killing cc right now」——不是观点，是社区观察到的事实陈述 - 关键洞察：「normies」的认知还停留在「Claude 在技术领域碾压 GPT」的旧叙事里 - 认知差 = 机会窗口——先意识到的人已经在切换工具链  "
 resource: "https://x.com/adonis_singh/status/2050176037888164306"
@@ -22,6 +22,13 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "codex-ecosystem-platform-war"
 x_source: "ai-trend-digest"
+type_okf: "X Tweet"
+source_url: "https://x.com/adonis_singh/status/2050176037888164306"
+created: "2026-05-01"
+updated: "2026-06-26"
+sha256: "77631c91ed0032ad38308adea94f46cc3db9ada96d8bde7ea7ab8efc69d677c1"
+sources:
+  - "/sources/news/2026-05-01/00__adonis_singh__codex-对-claude-code-的-屠杀-已成共识-但大众认知仍滞后三个月.md"
 ---
 
 # Codex 对 Claude Code 的「屠杀」已成共识，但大众认知仍滞后三个月

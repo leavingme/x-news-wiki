@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Karpathy AI知识库方案详细版发布：个人知识管理进入\"模型即第二大脑\"阶段"
 description: "**[Karpathy的AI知识库方案详细版：LLM正在从工具变成认知外设]**  Karpathy针对个人AI知识库方案给出了更详细的实现版本——这是继他提出\"Software 2.0\"之后对\"个人知识管理\"范式的最新思考。  核心逻辑：用LLM作为外部记忆系统的检索和推理层，个人知识库不再只是文档索引，而是能主动关联、推理、生成的\"第二大脑\"。   **gakki锐评：** Karpathy的"
 resource: "https://x.com/i/status/2040471456820408449"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2040471456820408449"
+created: "2026-04-04"
+updated: "2026-06-26"
+sha256: "8991ec7906cfd6ece2b0579611512d146a78864165159a49b0981811976bb0be"
+sources:
+  - "/sources/news/2026-04-05/00__op7418__karpathy-ai知识库方案详细版发布-个人知识管理进入-模型即第二大脑-阶段.md"
 ---
 
 # Karpathy AI知识库方案详细版发布：个人知识管理进入"模型即第二大脑"阶段

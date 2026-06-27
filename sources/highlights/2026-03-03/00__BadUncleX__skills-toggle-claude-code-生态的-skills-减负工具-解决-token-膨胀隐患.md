@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "skills-toggle：Claude Code 生态的「Skills 减负工具」，解决 Token 膨胀隐患"
 description: "**随着 Claude Code Skills 目录膨胀，每个 skill 消耗 ~100 tokens 的问题已成为实际工程痛点，skills-toggle 给出了最小化干预的解法。** - TUI 界面支持单个勾选启用/禁用，也支持通配符批量操作（如 `disable 'actix-*'`） - 原理极简：将不用的 skill 目录移至 `.disabled/`，Claude Code 不扫描"
 resource: "https://x.com/i/status/2028506485387649151"
@@ -22,6 +22,13 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "claude-code-ecosystem"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2028506485387649151"
+created: "2026-03-02"
+updated: "2026-06-26"
+sha256: "987577357504536d73a8aebda03e38fae5c82e18c13593cb7ac98bcbb4cfa85e"
+sources:
+  - "/sources/highlights/2026-03-03/00__BadUncleX__skills-toggle-claude-code-生态的-skills-减负工具-解决-token-膨胀隐患.md"
 ---
 
 # skills-toggle：Claude Code 生态的「Skills 减负工具」，解决 Token 膨胀隐患

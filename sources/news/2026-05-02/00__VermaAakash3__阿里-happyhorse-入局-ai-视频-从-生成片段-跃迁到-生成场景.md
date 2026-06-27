@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "阿里 HappyHorse 入局 AI 视频：从「生成片段」跃迁到「生成场景」"
 description: "**阿里试图用场景级连贯性重新定义 AI 视频的生成标准。**  - HappyHorse 不是又一个 Sora 跟风者，它瞄准的是「场景」而非「片段」——镜头语言、角色一致性、环境逻辑的系统性生成 - 从 Qwen 生态孵化而来，意味着阿里在多模态生成上的投入正从模型层延伸到产品层 - 但「场景级生成」的工程复杂度远超片段拼接，目前尚无公开评测数据证明其连贯性上限  gakki 锐评：阿里终于在"
 resource: "https://x.com/VermaAakash3/status/2050565705385537935"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "ai-trend-digest"
+type_okf: "X Tweet"
+source_url: "https://x.com/VermaAakash3/status/2050565705385537935"
+created: "2026-05-02"
+updated: "2026-06-26"
+sha256: "9f503ab70108c7fe421b29adfbf01c7c59485e962d3baf545d738fbf2cc732da"
+sources:
+  - "/sources/news/2026-05-02/00__VermaAakash3__阿里-happyhorse-入局-ai-视频-从-生成片段-跃迁到-生成场景.md"
 ---
 
 # 阿里 HappyHorse 入局 AI 视频：从「生成片段」跃迁到「生成场景」

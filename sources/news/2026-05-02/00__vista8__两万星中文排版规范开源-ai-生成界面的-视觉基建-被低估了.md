@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "两万星中文排版规范开源：AI 生成界面的「视觉基建」被低估了"
 description: "**中文网页排版的规范化工具链正在成熟，但 AI 生成内容的排版适配仍是盲区。**  - chinese-copywriting-guidelines（15k Star）定义了中英文混排的空格、标点规范 - 赫蹏（hétí）提供了基于通行中文排版规范的 CSS 样式增强方案 - 随着 AI Coding Agent 大量生成前端页面，中文排版规范的自动化遵循将成为质量分水岭  gakki 锐评：A"
 resource: "https://x.com/i/status/2050585451686138147"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2050585451686138147"
+created: "2026-05-02"
+updated: "2026-06-26"
+sha256: "73a0f9dd8b941c6b50cf40aad529cf0739def17eb50cf093d822c2df19690394"
+sources:
+  - "/sources/news/2026-05-02/00__vista8__两万星中文排版规范开源-ai-生成界面的-视觉基建-被低估了.md"
 ---
 
 # 两万星中文排版规范开源：AI 生成界面的「视觉基建」被低估了

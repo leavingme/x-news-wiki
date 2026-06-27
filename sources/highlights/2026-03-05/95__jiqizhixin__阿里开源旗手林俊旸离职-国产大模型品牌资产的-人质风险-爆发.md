@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "阿里开源旗手林俊旸离职：国产大模型品牌资产的「人质风险」爆发"
 description: "**【核心判断】** 开源明星负责人的离职暴露了国产AI厂商的结构性脆弱——当个人IP与产品品牌深度绑定，人才流失即品牌资产流失。  - 阿里CEO吴泳铭内部邮件确认离职，并紧急宣布「加大开源投入」以稳定市场信心 - 此前Google DeepMind、GLM等已开始挖角动作，国产大模型人才外流进入加速期 - 阿里将成立「基础模型支持小组」统筹资源，暗示原组织架构已无法支撑战略连续性  gakki"
 resource: "https://x.com/i/status/2029406228343046520"
@@ -22,6 +22,13 @@ x_selected: 2
 x_priority: 95
 x_related_topic: "ai-brand-talent-risk"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2029406228343046520"
+created: "2026-03-05"
+updated: "2026-06-26"
+sha256: "125c786be82d0da3f2fca1d12b08e2c908eb429862efc558739f15f3f041a17e"
+sources:
+  - "/sources/highlights/2026-03-05/95__jiqizhixin__阿里开源旗手林俊旸离职-国产大模型品牌资产的-人质风险-爆发.md"
 ---
 
 # 阿里开源旗手林俊旸离职：国产大模型品牌资产的「人质风险」爆发

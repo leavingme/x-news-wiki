@@ -1,5 +1,5 @@
 ---
-type: "Concept"
+type: "concept"
 title: "big-tech-ai-lab-consolidation"
 description: "跨日主题 \"big-tech-ai-lab-consolidation\"，共 1 条相关精选推文。"
 tags:
@@ -11,6 +11,12 @@ x_topic_slug: "big-tech-ai-lab-consolidation"
 x_tweet_count: 1
 x_first_seen: "2026-06-13T19:18:19.217Z"
 x_last_seen: "2026-06-13T19:18:19.217Z"
+type_okf: "Concept"
+created: "2026-06-13"
+updated: "2026-06-26"
+sha256: "650ad0c093f42dcf4f887f493f81354aec6e875ef9440d483ac4cf8efd308c63"
+sources:
+  - "/sources/news/2026-06-13/00__yetone__yetone-一句话提醒-五年前的-meta-就是今天的镜子.md"
 ---
 
 # 主题: big-tech-ai-lab-consolidation

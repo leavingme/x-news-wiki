@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "氦气断供危机：地缘政治正在以「原子级精度」卡死AI算力咽喉"
 description: "**[一句话核心判断]** 伊朗袭击卡塔尔设施导致全球30%氦气停摆，7nm以下制程的晶圆冷却无替代方案，2026年Q3将现实质性供应缺口。  • **连锁反应**：三星/SK海力士已启动「节约协议」，优先保障HBM3e/HBM4，传统DRAM产线暂缓——AI芯片 vs 消费级芯片的「优先级鸿沟」首次显性化 • **价格信号**：氦气现货14天翻倍，合约附加费超30%，韩国芯片股市值本月蒸发200"
 resource: "https://x.com/i/status/2035760198887891247"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2035760198887891247"
+created: "2026-03-22"
+updated: "2026-06-26"
+sha256: "36333f3b388161f0901f089a0cf063a688326cc34d36e9b1177327c428fa4b43"
+sources:
+  - "/sources/highlights/2026-03-23/00__TheMarketMemo__氦气断供危机-地缘政治正在以-原子级精度-卡死ai算力咽喉.md"
 ---
 
 # 氦气断供危机：地缘政治正在以「原子级精度」卡死AI算力咽喉

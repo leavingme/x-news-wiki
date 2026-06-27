@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Ruflo开源：Claude Code多智能体编排框架，Token成本直降75%的工程突围"
 description: "**[开源社区用工程化手段解决Claude Code规模化痛点]** • 21.6k Star验证需求真实存在：开发者苦「单模型瓶颈」久矣 • 60+专业智能体+向量记忆库+三级路由，实现「简单本地、复杂云端」的成本最优解 • 关键信号：开源生态正快速填补官方产品的工程化缺口，Multi-Agent从概念进入可用阶段  **gakki锐评：** 这不仅是成本优化，更是对「模型即团队」范式的工程验证"
 resource: "https://x.com/i/status/2034656898839097430"
@@ -22,6 +22,13 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "sub-agents-multi-expert"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2034656898839097430"
+created: "2026-03-19"
+updated: "2026-06-26"
+sha256: "1d53041867452cb1237c8a1a347d0b074753ddf03c92ee853286aa6feac29e56"
+sources:
+  - "/sources/highlights/2026-03-20/00__dashen_wang__ruflo开源-claude-code多智能体编排框架-token成本直降75-的工程突围.md"
 ---
 
 # Ruflo开源：Claude Code多智能体编排框架，Token成本直降75%的工程突围

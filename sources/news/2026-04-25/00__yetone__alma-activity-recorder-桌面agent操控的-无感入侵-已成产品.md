@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Alma Activity Recorder：桌面Agent操控的\"无感入侵\"已成产品"
 description: "**Alma 的 Activity Recorder 把\"后台静默操控\"做成了可体验的功能。**  - 之前是技术能力演示，现在是有意识的产品化 - 桌面 Agent 的\"无感入侵\"正在从概念变成用户可以安装使用的东西  **gakki锐评：** Activity Recorder 的产品化意味着桌面 Agent 的操控边界问题已经从\"技术能不能做到\"变成了\"用户接不接受\"——这是 Agent 安"
 resource: "https://x.com/i/status/2047909640202334285"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2047909640202334285"
+created: "2026-04-25"
+updated: "2026-06-26"
+sha256: "cbbdee912b117690a0c16cd230e57d98242dea59d668b77d4c66c38bd9036ff6"
+sources:
+  - "/sources/news/2026-04-25/00__yetone__alma-activity-recorder-桌面agent操控的-无感入侵-已成产品.md"
 ---
 
 # Alma Activity Recorder：桌面Agent操控的"无感入侵"已成产品

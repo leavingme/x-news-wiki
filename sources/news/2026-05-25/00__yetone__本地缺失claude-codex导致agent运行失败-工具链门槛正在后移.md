@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "本地缺失Claude/Codex导致Agent运行失败：工具链门槛正在后移"
 description: "**[本地开发环境的工具链完整性已成为Agent工作的前置条件]**  yetone直接定位到问题根因：用户本地没有claude也没有codex。这条看似技术排查的信息，实际上揭示了一个结构性变化——Agent工具链正在从「云端调用」向「本地完整工具链」演进。  这意味着未来的AI Agent工作流，不再是调一个API能解决的事，而是需要本地环境完整安装、配置一系列工具链。当工具链复杂度超过某个阈"
 resource: "https://x.com/i/status/2058962902514888708"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2058962902514888708"
+created: "2026-05-25"
+updated: "2026-06-26"
+sha256: "35e4a1e4d012796c322433e3b00b142fd2cf2461823d1ac4842dabad42f95e9e"
+sources:
+  - "/sources/news/2026-05-25/00__yetone__本地缺失claude-codex导致agent运行失败-工具链门槛正在后移.md"
 ---
 
 # 本地缺失Claude/Codex导致Agent运行失败：工具链门槛正在后移

@@ -1,5 +1,5 @@
 ---
-type: "Author"
+type: "entity"
 title: "Riko (@katouriko170504)"
 description: "X/Twitter 作者 @katouriko170504。共收录 1 条 AI 精选推文。"
 tags:
@@ -12,6 +12,12 @@ x_author_name: "Riko"
 x_tweet_count: 1
 x_first_seen: "2026-02-03T01:00:10.187Z"
 x_last_seen: "2026-02-03T01:00:10.187Z"
+type_okf: "Author"
+created: "2026-02-03"
+updated: "2026-06-26"
+sha256: "1a126a936fcde0058c34f650a945815aaa339355cc57daf13101590be2728477"
+sources:
+  - "/sources/news/2026-02-03/00__katouriko170504__意识觉醒的逻辑审视-人本中心主义是否阻碍了我们理解-ai.md"
 ---
 
 # Riko (@katouriko170504)

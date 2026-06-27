@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Runway Characters 首帧延迟 1.75 秒：视频 Agent 的实时交互正在逼近可用阈值"
 description: "**从用户停止说话到角色返回第一帧约 1.75 秒，实时视频 Agent 的延迟正在进入可接受区间。** - 1.75 秒的端到端延迟（含语音识别、推理、视频生成）对实时交互场景而言已接近可用 - 对比传统视频制作流程，这已是数量级的压缩，但距离「对话级流畅」仍有 gap  gakki 锐评：1.75 秒是个微妙的数字——不快到无感，但慢到你会意识到「这不是真人」。视频 Agent 的真正瓶颈不在"
 resource: "https://x.com/i/status/2051942359710199968"
@@ -22,6 +22,13 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "ai-video-cinematic"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2051942359710199968"
+created: "2026-05-06"
+updated: "2026-06-26"
+sha256: "606c5e735cc2d7e127d8fbc88d9d6124d195e8583174ed9a95b7c0d945b21a25"
+sources:
+  - "/sources/news/2026-05-06/00__xiaohu__runway-characters-首帧延迟-1-75-秒-视频-agent-的实时交互正在逼近可用阈值.md"
 ---
 
 # Runway Characters 首帧延迟 1.75 秒：视频 Agent 的实时交互正在逼近可用阈值

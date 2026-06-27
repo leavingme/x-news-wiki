@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "3D资产告别压缩损失：NTU+ACE Robotics打通可仿真物体生成全链路"
 description: "一句话核心判断：南洋理工×ACE Robotics 把刚体/可形变/铰接三类可仿真3D资产统一一套系统，VL模型直读，几何不再因压缩掉精度。  要点： • 新几何表示避免传统压缩损失，视觉-语言模型可端到端消化 • 六维属性（几何/尺度/材质/可供性/运动学/描述）全面超越现有方法 • 既是生成也是理解——同一系统双向打通，对机器人/具身训练数据链路意义大   Gakki 锐评：从\"看起来像\"跨到"
 resource: "https://x.com/i/status/2067533023630024732"
@@ -22,6 +22,13 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "ai-3d-content-democratization"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2067533023630024732"
+created: "2026-06-18"
+updated: "2026-06-26"
+sha256: "48491b029e25f45a042cf5bdbcf5dec6b02b416335d108e30fe8ea3978e8c501"
+sources:
+  - "/sources/highlights/2026-06-18/00__jiqizhixin__3d资产告别压缩损失-ntu-ace-robotics打通可仿真物体生成全链路.md"
 ---
 
 # 3D资产告别压缩损失：NTU+ACE Robotics打通可仿真物体生成全链路

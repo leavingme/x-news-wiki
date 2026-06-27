@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Claude 4.8 的性格迁移：从\"过度热情管家\"到\"冷酷精准黑客\""
 description: "**一句话核心判断**：Opus 4.8 最重要的变化不是能力提升，而是行为模式从\"揣摩意图\"切换为\"严格服从\"——这是 Anthropic 对 4.7 自作主张风格的一次主动纠偏，代价是失去了帮用户多走几步的主动性。  要点： - 4.7 的典型行为：修复性能问题时顺手重命名变量、添加未要求的错误处理、擅自导入库——代码质量提升但工程可预测性下降 - 4.8 的典型行为：数千次 N+1 查询压缩"
 resource: "https://x.com/i/status/2060747803928789120"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2060747803928789120"
+created: "2026-05-30"
+updated: "2026-06-26"
+sha256: "7041d7302c9b009d3ea1e59c0d13bd5b1c2f302feb23d5fd07cb9d65955ed61a"
+sources:
+  - "/sources/news/2026-05-30/00__Zesee__claude-4-8-的性格迁移-从-过度热情管家-到-冷酷精准黑客.md"
 ---
 
 # Claude 4.8 的性格迁移：从"过度热情管家"到"冷酷精准黑客"

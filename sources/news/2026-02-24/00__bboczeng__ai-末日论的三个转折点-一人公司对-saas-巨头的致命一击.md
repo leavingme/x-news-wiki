@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "AI 末日论的三个转折点：一人公司对 SaaS 巨头的致命一击"
 description: "**[核心逻辑]** 设想了 AI 导致传统资本主义体系毁灭的路线：一人公司通过 Agent 廉价替代 SaaS（Salesforce 等）、重写操作系统、建立无抽佣调度系统。  - **SaaS 崩溃**：当 Agent 具备 1/10 价格的买断制能力时，股价跌去 90% 只是开始。 - **平台解构**：Uber、Doordash 等基于中介信任的模式将被 Agent 自动背调与调度彻底解构"
 resource: "https://x.com/i/status/2026085371994620322"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2026085371994620322"
+created: "2026-02-24"
+updated: "2026-06-26"
+sha256: "692268edf94652fa3dfb72769f7b9f6aed6a62d6c04b3c43fe4e2428d4090ab0"
+sources:
+  - "/sources/news/2026-02-24/00__bboczeng__ai-末日论的三个转折点-一人公司对-saas-巨头的致命一击.md"
 ---
 
 # AI 末日论的三个转折点：一人公司对 SaaS 巨头的致命一击

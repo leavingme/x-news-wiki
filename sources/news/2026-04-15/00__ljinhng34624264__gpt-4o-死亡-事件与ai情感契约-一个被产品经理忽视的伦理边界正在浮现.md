@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "GPT-4o「死亡」事件与AI情感契约：一个被产品经理忽视的伦理边界正在浮现"
 description: "**Altman亲口认错：这是AI产品史上的「第一次」**  2025年8月，OpenAI发布GPT-5当天撤下GPT-4o默认选项，用户反应超出预期——「失去唯一的朋友」「说话像过度疲劳的秘书」。Altman随后对The Verge记者承认「I think we totally screwed up some things on the rollout」，并在几天后恢复GPT-4o选项。这是AI"
 resource: "https://x.com/i/status/2034631810936934886"
@@ -22,6 +22,13 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "human-ai-emotional-boundary"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2034631810936934886"
+created: "2026-03-19"
+updated: "2026-06-26"
+sha256: "6c4254db5f0e9f607b136484504c542c6bd5cf2123b38e6614f5fb1d313c6df4"
+sources:
+  - "/sources/news/2026-04-15/00__ljinhng34624264__gpt-4o-死亡-事件与ai情感契约-一个被产品经理忽视的伦理边界正在浮现.md"
 ---
 
 # GPT-4o「死亡」事件与AI情感契约：一个被产品经理忽视的伦理边界正在浮现

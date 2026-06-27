@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "GPT-5.4 百万上下文登陆：Claude 的护城河正在被填平"
 description: "**[OpenAI 以「context + reasoning」双升级反击，Agent 基建格局生变]** • 1M 上下文窗口直接对标 Claude，长文档处理与代码库理解进入新维度 • 代码能力合并入主模型，Codex 原生集成意味着「AI 编程助理」成为默认配置 • 「不说人话」问题缓解暗示对齐策略调整，或影响开发者迁移决策  模型能力边界持续外扩，但真正的胜负手在于：谁能把「长上下文 + "
 resource: "https://x.com/i/status/2029640270023905474"
@@ -22,6 +22,13 @@ x_selected: 2
 x_priority: 95
 x_related_topic: "gpt54-long-context-reasoning"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2029640270023905474"
+created: "2026-03-05"
+updated: "2026-06-26"
+sha256: "f98c83e98fb0b3c4794e1d134e52472db54e45c50c60067d624e8d4358d8932d"
+sources:
+  - "/sources/highlights/2026-03-06/95__bourneliu66__gpt-5-4-百万上下文登陆-claude-的护城河正在被填平.md"
 ---
 
 # GPT-5.4 百万上下文登陆：Claude 的护城河正在被填平

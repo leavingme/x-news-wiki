@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Codex 上下文窗口频繁溢出：长会话工程纪律仍是未解痛点"
 description: "**Codex 在实际使用中频繁触发上下文溢出，甚至几轮对话就爆窗。**  - 用户反馈明确：Codex 上下文管理不如 Claude Code 稳定，已有回退意愿 - 暴露了 Agent 工具在「长会话状态管理」上的工程短板——不是模型能力问题，是上下文窗口调度策略问题 - 与宝玉此前实测 Codex /goal 跑 17 小时的结论呼应：长时间 Agent 任务的核心瓶颈不是跑多久，而是上下文"
 resource: "https://x.com/i/status/2053084728329118089"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2053084728329118089"
+created: "2026-05-09"
+updated: "2026-06-26"
+sha256: "438ee977806c514eed1c10293e46e05c14b500a0ae6fd799f8fe0d929824fbbb"
+sources:
+  - "/sources/news/2026-05-09/00__gkxspace__codex-上下文窗口频繁溢出-长会话工程纪律仍是未解痛点.md"
 ---
 
 # Codex 上下文窗口频繁溢出：长会话工程纪律仍是未解痛点

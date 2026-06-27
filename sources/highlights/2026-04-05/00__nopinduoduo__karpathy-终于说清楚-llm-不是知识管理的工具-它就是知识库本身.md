@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Karpathy 终于说清楚：LLM 不是知识管理的工具，它就是知识库本身"
 description: "**「LLM 应该成为知识库的唯一维护者，而不是人类的工具。」**  Karpathy 公开了他用 LLM 搭建个人知识库的完整工作流：人只负责「投喂原料」和「提出好问题」，其余全部交给 LLM 自动执行——采集、编译、输出、linting、自我修复。  核心三步：① 建「垃圾场」raw/ 目录，无脑丢入所有原始材料（论文、截图、PDF、网页）；② 让 LLM 当唯一的管理者和维护者，把 raw/"
 resource: "https://x.com/i/status/2039930310243373254"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2039930310243373254"
+created: "2026-04-03"
+updated: "2026-06-26"
+sha256: "39faca4dc09bbfa768572e62ab75e9d3c1e0e952461fd370df025885ea2a1bbf"
+sources:
+  - "/sources/highlights/2026-04-05/00__nopinduoduo__karpathy-终于说清楚-llm-不是知识管理的工具-它就是知识库本身.md"
 ---
 
 # Karpathy 终于说清楚：LLM 不是知识管理的工具，它就是知识库本身

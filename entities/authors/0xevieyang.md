@@ -1,5 +1,5 @@
 ---
-type: "Author"
+type: "entity"
 title: "Evie | JE Labs🦄🍀 (@0xEvieYang)"
 description: "X/Twitter 作者 @0xEvieYang。共收录 1 条 AI 精选推文。"
 tags:
@@ -12,6 +12,12 @@ x_author_name: "Evie | JE Labs🦄🍀"
 x_tweet_count: 1
 x_first_seen: "2026-03-09T00:42:17.338Z"
 x_last_seen: "2026-03-09T00:42:17.338Z"
+type_okf: "Author"
+created: "2026-03-09"
+updated: "2026-06-26"
+sha256: "9e14ce697736242be76b386d8b74eb6dd470a950d880c6edb6017f0ba119b067"
+sources:
+  - "/sources/news/2026-03-09/92__0xEvieYang__claude-code正在瓦解硅谷工程师的-协作契约.md"
 ---
 
 # Evie | JE Labs🦄🍀 (@0xEvieYang)

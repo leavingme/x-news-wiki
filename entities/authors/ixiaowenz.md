@@ -1,5 +1,5 @@
 ---
-type: "Author"
+type: "entity"
 title: "Xiaowen (@ixiaowenz)"
 description: "X/Twitter 作者 @ixiaowenz。共收录 1 条 AI 精选推文。"
 tags:
@@ -12,6 +12,12 @@ x_author_name: "Xiaowen"
 x_tweet_count: 1
 x_first_seen: "2026-03-24T00:42:54.080Z"
 x_last_seen: "2026-03-24T00:42:54.080Z"
+type_okf: "Author"
+created: "2026-03-24"
+updated: "2026-06-26"
+sha256: "519a062b6515520ddd92ddcdc0588d96242ebbbc1b0fa44e9d18930107eb6710"
+sources:
+  - "/sources/highlights/2026-03-24/00__ixiaowenz__确定性压倒边际能力-ai时代的注意力经济学.md"
 ---
 
 # Xiaowen (@ixiaowenz)

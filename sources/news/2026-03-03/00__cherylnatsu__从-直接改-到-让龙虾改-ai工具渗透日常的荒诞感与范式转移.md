@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "从“直接改”到“让龙虾改”：AI工具渗透日常的荒诞感与范式转移"
 description: "**[一个配置文件的修改，折射出AI工具对开发者心智的深度渗透]** - 行为演变：从“用编辑器直接改”到“启动Claude Code让AI改”，再到计划“装个龙虾（AI Agent）让龙虾改”。 - 深层信号：这并非效率最优解，而是开发者对“AI原生工作流”的无意识追求和身份认同。 - 范式转移：简单的任务正被赋予复杂的AI工具链，反映出“用AI做事”本身正在成为一种新的习惯和仪式。  当使用A"
 resource: "https://x.com/i/status/2028618295256236103"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2028618295256236103"
+created: "2026-03-02"
+updated: "2026-06-26"
+sha256: "a08c579472d34d2a1a069d33e3befbdb04a77ec1ad43622b72dea91c3bb10dde"
+sources:
+  - "/sources/news/2026-03-03/00__cherylnatsu__从-直接改-到-让龙虾改-ai工具渗透日常的荒诞感与范式转移.md"
 ---
 
 # 从“直接改”到“让龙虾改”：AI工具渗透日常的荒诞感与范式转移

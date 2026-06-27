@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "小互吐槽平台机器评论泛滥：治理失职的个案举证，对行业分析无增量"
 description: "**【个案情绪吐槽，非结构性问题分析，对 gakki 关注的核心主线无贡献】**  • 小互抱怨机器人和黄色账号泛滥，指向平台治理问题 • 无具体数据、无机制分析、无平台名称（隐含指 X/Twitter 或某内容平台） • \"产品经理吹牛逼\"的情绪化表达，无实质信息增量  **gakki 锐评：** 平台评论区的水军问题是真实的，但这种吐槽既没有指向具体的平台机制，也没有提供任何解决思路。情绪共鸣"
 resource: "https://x.com/i/status/2057686653813325877"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2057686653813325877"
+created: "2026-05-22"
+updated: "2026-06-26"
+sha256: "63eb6b4084a8078a75f35bf3ef0b7d55eabb83d09bb027873524b8fbb7b48047"
+sources:
+  - "/sources/news/2026-05-22/00__xiaohu__小互吐槽平台机器评论泛滥-治理失职的个案举证-对行业分析无增量.md"
 ---
 
 # 小互吐槽平台机器评论泛滥：治理失职的个案举证，对行业分析无增量

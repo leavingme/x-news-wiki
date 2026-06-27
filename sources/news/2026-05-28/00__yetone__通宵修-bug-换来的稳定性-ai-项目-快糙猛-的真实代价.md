@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "通宵修 bug 换来的稳定性：AI 项目「快糙猛」的真实代价"
 description: "**[正面反馈是 AI 项目从 0 到 1 的稀缺燃料]**  yetone 披露 BYOA 为了提前出 Waitlist 赶工上架，导致 bug 爆炸，连续通宵修复。这条推文的价值不在于 yetone 的辛苦，而在于它撕开了 AI 项目快糙猛模式的真实代价：技术债务的利息比本金涨得快。  「给了我很多信心」这句话揭示了 AI 项目早期最稀缺的资源不是代码能力，而是外部验证的正反馈。社区的一句肯定"
 resource: "https://x.com/i/status/2060016327948169250"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2060016327948169250"
+created: "2026-05-28"
+updated: "2026-06-26"
+sha256: "6a604135324f19ac47be3bfd9dd608efb22174b141b307f8a2d33ee5080abebe"
+sources:
+  - "/sources/news/2026-05-28/00__yetone__通宵修-bug-换来的稳定性-ai-项目-快糙猛-的真实代价.md"
 ---
 
 # 通宵修 bug 换来的稳定性：AI 项目「快糙猛」的真实代价

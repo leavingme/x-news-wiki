@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "yetone：一群人在蒸馏Skills，其实不过是ChatGPT五年前的GPTs——人类毫无进步"
 description: "**【Skills狂热不过是GPTs的复古轮回】**  yetone的锐评捅破了一层窗户纸：当下一窝蜂的Skills/Copilot蒸馏玩法，ChatGPT早在多年前就玩过了。「蒸馏Skills」本质是平台功能搬运而非技术创新，同质化程度令人窒息。  - Skills生态正在重蹈GPTs覆辙——用户以为在「定制」，实则在平台预设框架内打转 - 真正的进步缺席太久：当一个生态主要产出是互相搬运而非差"
 resource: "https://x.com/i/status/2042448407470752083"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2042448407470752083"
+created: "2026-04-10"
+updated: "2026-06-26"
+sha256: "d5c63c641112e33203ff7444f0109c357cc037a601e26900fdff593374f8cac4"
+sources:
+  - "/sources/news/2026-04-10/00__yetone__yetone-一群人在蒸馏skills-其实不过是chatgpt五年前的gpts-人类毫无进步.md"
 ---
 
 # yetone：一群人在蒸馏Skills，其实不过是ChatGPT五年前的GPTs——人类毫无进步

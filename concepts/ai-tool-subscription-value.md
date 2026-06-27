@@ -1,5 +1,5 @@
 ---
-type: "Concept"
+type: "concept"
 title: "ai-tool-subscription-value"
 description: "跨日主题 \"ai-tool-subscription-value\"，共 9 条相关精选推文。"
 tags:
@@ -11,6 +11,20 @@ x_topic_slug: "ai-tool-subscription-value"
 x_tweet_count: 9
 x_first_seen: "2026-05-01T13:18:38.986Z"
 x_last_seen: "2026-06-24T04:18:50.132Z"
+type_okf: "Concept"
+created: "2026-05-01"
+updated: "2026-06-26"
+sha256: "ce734ca6db9befe6c27c7f6e717f552bb23ad0494c3f21727a800f5945476b4d"
+sources:
+  - "/sources/highlights/2026-05-04/00__oran_ge__豆包年费-5000-元上线-字节用定价宣判-ai-免费时代-终结.md"
+  - "/sources/highlights/2026-05-20/00__op7418__google-ai-studio-内置安卓模拟器-浏览器即-ide-边界彻底模糊.md"
+  - "/sources/highlights/2026-06-16/00__xiaohu__anthropic-拆订阅-agent-sdk-和-claude-p-有了独立预算池.md"
+  - "/sources/highlights/2026-06-19/00__Zesee__github-copilot-切到-ai-credits-ai-编程进入-水电表时代.md"
+  - "/sources/highlights/2026-06-24/00__xiaohu__豆包专业版68元起-500封顶-字节用三级阶梯把agent生产力明码标价.md"
+  - "/sources/news/2026-05-01/00__gkxspace__gemini会员隐藏福利-订阅费变gcp额度-google正在用云补贴重构ai工具定价逻辑.md"
+  - "/sources/news/2026-05-03/00__gkxspace__chatgpt-土区订阅套利教程流出-ai-工具定价的-区域剪刀差-正在被系统性利用.md"
+  - "/sources/news/2026-05-29/00__gkxspace__higgsfield-ai-订阅计费模式曝光-专业-ai-工具正在形成明确的定价分层.md"
+  - "/sources/news/2026-06-17/00__mranti__好模型4-5倍计费让人受不了-ai定价分层已成续费决策真痛点.md"
 ---
 
 # 主题: ai-tool-subscription-value

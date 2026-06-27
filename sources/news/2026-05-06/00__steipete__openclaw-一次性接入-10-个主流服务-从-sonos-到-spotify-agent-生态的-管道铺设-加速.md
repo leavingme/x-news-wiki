@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "OpenClaw 一次性接入 10 个主流服务：从 Sonos 到 Spotify，Agent 生态的「管道铺设」加速"
 description: "**OpenClaw 的集成矩阵正在从「能用」走向「全面接管」。**  - 单次更新接入 Sonos、WhatsApp、X 存档、GitHub 存档、Discord 存档、Spotify、iMessage、MCP 转 CLI、ElevenLabs 语音、二次意见等 10 个服务 - 核心价值不是数量，而是覆盖维度：通信（WhatsApp/iMessage）、媒体（Spotify/Sonos）、开发"
 resource: "https://x.com/steipete/status/2051900143339704730"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "ai-trend-digest"
+type_okf: "X Tweet"
+source_url: "https://x.com/steipete/status/2051900143339704730"
+created: "2026-05-06"
+updated: "2026-06-26"
+sha256: "8a93a3bf31773e708984bd7fd5fb197d2356adc05aa53a73bddf3e9ed9b250ad"
+sources:
+  - "/sources/news/2026-05-06/00__steipete__openclaw-一次性接入-10-个主流服务-从-sonos-到-spotify-agent-生态的-管道铺设-加速.md"
 ---
 
 # OpenClaw 一次性接入 10 个主流服务：从 Sonos 到 Spotify，Agent 生态的「管道铺设」加速

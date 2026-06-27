@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "向阳乔木：资源是一种诅咒——顶级模型体验印证了产品克制的反直觉逻辑"
 description: "**当你拥有近乎无限的资源时，「做什么都只需要张张嘴」的错觉正是产品臃肿的根源。** - 向阳乔木从老板控制研发资源的视角，类比用户使用顶级模型的体验 - 资源充裕时克制变得极难，这解释了为什么大厂产品往往越做越重 - 对 AI 产品同样适用：模型能力越强，越需要产品层面的「做减法」判断力  gakki 锐评：这可能是今天最朴素但最值钱的一条洞见——AI 能力爆炸的时代，克制不是美德，是生存策略。"
 resource: "https://x.com/i/status/2052798046170194124"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2052798046170194124"
+created: "2026-05-08"
+updated: "2026-06-26"
+sha256: "bc4c15e163b6207d07be91e93fd98833c14e07ae82f085c9e686d3e628db723b"
+sources:
+  - "/sources/news/2026-05-08/00__vista8__向阳乔木-资源是一种诅咒-顶级模型体验印证了产品克制的反直觉逻辑.md"
 ---
 
 # 向阳乔木：资源是一种诅咒——顶级模型体验印证了产品克制的反直觉逻辑

@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "AI开发流水线已形成闭环：需求/开发/测试/上线全链路无人化"
 description: "**【AI正在成为AI的唯一用户】  两个独立播客同时提到同一现象：团队已引入「AI自己提需求、自己开发、自己测试、自己上线」的流程，人力彻底退出交付循环。  这意味着什么？软件交付的中间环节（需求对齐 human review、测试验收、上线决策）正在被 AI 自主闭环。人类角色从「参与者」收缩为「规则设定者」。  gakki：这条信息的核心信号不是「AI能做什么」，而是「AI做的东西谁在看」—"
 resource: "https://x.com/i/status/2059077685138411523"
@@ -22,6 +22,13 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "ai-agent-self-sustaining-business"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2059077685138411523"
+created: "2026-05-26"
+updated: "2026-06-26"
+sha256: "52c942e585d299450fdc6bcb165a54769e98bb334be48d919adc0e1f34e12660"
+sources:
+  - "/sources/highlights/2026-05-26/00__oran_ge__ai开发流水线已形成闭环-需求-开发-测试-上线全链路无人化.md"
 ---
 
 # AI开发流水线已形成闭环：需求/开发/测试/上线全链路无人化

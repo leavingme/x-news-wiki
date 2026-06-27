@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "豆包输入法 Mac 版实测：中英文混输和克制优化让它成为 AI 输入法天花板"
 description: "**[AI 输入法的产品分水岭：克制比智能更重要]**  歸藏实测豆包 Mac 版输入法，核心发现两条： 1. 多语言混合输入场景（市面上未翻译的技术词如 Claude Code、AntiGravity）中表现顶级，中英文切换流畅无痕 2. 对比竞品的「过度优化」问题（强行加 Markdown 格式、批量添加列表），豆包选择克制——不改用户的原始表达意图 3. 实时预览机制解决了长语音输入（500"
 resource: "https://x.com/i/status/2057123946039058618"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2057123946039058618"
+created: "2026-05-20"
+updated: "2026-06-26"
+sha256: "753d1fbb05526c259922c074c7193c1115179338f46f58ebbb82d7e0243004c9"
+sources:
+  - "/sources/news/2026-05-20/00__op7418__豆包输入法-mac-版实测-中英文混输和克制优化让它成为-ai-输入法天花板.md"
 ---
 
 # 豆包输入法 Mac 版实测：中英文混输和克制优化让它成为 AI 输入法天花板

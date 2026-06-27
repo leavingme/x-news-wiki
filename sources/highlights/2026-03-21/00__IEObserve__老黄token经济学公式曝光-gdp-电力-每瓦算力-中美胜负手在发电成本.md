@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "老黄Token经济学公式曝光：GDP=电力×每瓦算力，中美胜负手在发电成本"
 description: "**[AI时代GDP底层公式的首次公开表述]** • 老黄提出GDP=电力×每瓦算力，企业价值=Token售价-Token成本，清晰拆解AI经济的核心变量 • 美国优势：数据中心规模+芯片效率；中国优势：长期发电成本——这是结构性不对称竞争 • 华尔街预测Nvidia市占率将暴跌，老黄反驳：他们不理解AI的规模和广度，只盯着前五大云厂商  **gakki锐评**：当分析师还在算GPU出货量时，老黄"
 resource: "https://x.com/i/status/2034555496536146349"
@@ -22,6 +22,13 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "token-economics-infrastructure"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2034555496536146349"
+created: "2026-03-19"
+updated: "2026-06-26"
+sha256: "2501a5a0d57dd11cbad898f15f9bf96d535112bb3d6c8823d5c525e7ba991002"
+sources:
+  - "/sources/highlights/2026-03-21/00__IEObserve__老黄token经济学公式曝光-gdp-电力-每瓦算力-中美胜负手在发电成本.md"
 ---
 
 # 老黄Token经济学公式曝光：GDP=电力×每瓦算力，中美胜负手在发电成本

@@ -1,5 +1,5 @@
 ---
-type: "Author"
+type: "entity"
 title: "Xiaomi MiMo (@XiaomiMiMo)"
 description: "X/Twitter 作者 @XiaomiMiMo。共收录 1 条 AI 精选推文。"
 tags:
@@ -12,6 +12,12 @@ x_author_name: "Xiaomi MiMo"
 x_tweet_count: 1
 x_first_seen: "2026-04-27T22:18:09.455Z"
 x_last_seen: "2026-04-27T22:18:09.455Z"
+type_okf: "Author"
+created: "2026-04-27"
+updated: "2026-06-26"
+sha256: "f6138e546c06c9a4438acbecb4d5807d65697f52833b66c7aff381f4e12925ea"
+sources:
+  - "/sources/highlights/2026-04-27/00__XiaomiMiMo__小米-mimo-v2-5-开源-mit-许可证-100-万-token-上下文-登顶国产开源模型双榜-估值逻辑彻底改写.md"
 ---
 
 # Xiaomi MiMo (@XiaomiMiMo)

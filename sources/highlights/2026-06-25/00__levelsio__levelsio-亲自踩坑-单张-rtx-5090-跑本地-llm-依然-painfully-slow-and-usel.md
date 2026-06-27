@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "levelsio 亲自踩坑：单张 RTX 5090 跑本地 LLM 依然「painfully slow and useless」"
 description: "**顶级独立开发者用真金白银给边缘 AI 泼了一盆冷水。**  - levelsio 作为 levelsio.com / Nomad List 的创始人、长期本地推理布道者，明确表态：即便升级到消费级旗舰 RTX 5090，本地 LLM 仍是「painfully slow and useless」。 - 这与近期 Gemma 4、Qwen3.5 等端侧模型宣传的「本地替代云端」叙事直接冲突，暴露了"
 resource: "https://x.com/i/status/2070218827904790891"
@@ -22,6 +22,13 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "edge-inference-optimization"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2070218827904790891"
+created: "2026-06-25"
+updated: "2026-06-26"
+sha256: "39439cd485f3079963f6e1181bd79bd11d21c24d162bd5ee1e4e60aaaaea4afc"
+sources:
+  - "/sources/highlights/2026-06-25/00__levelsio__levelsio-亲自踩坑-单张-rtx-5090-跑本地-llm-依然-painfully-slow-and-usel.md"
 ---
 
 # levelsio 亲自踩坑：单张 RTX 5090 跑本地 LLM 依然「painfully slow and useless」

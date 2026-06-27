@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "浙大 EasySteer：无重训练即可实时「 steer 」LLM 行为，隐藏态调整打破微调成本壁垒"
 description: "**[不是改模型参数，是直接拧模型的「内心想法」，成本从 GPU 集群降到 CPU]**  • **隐藏态引导（Hidden State Steering）**：通过调整 LLM 内部推理路径而非参数实现行为控制，无需梯度回传，规避了昂贵微调。 • **预计算 steering 选项**：可插拔、可组合，部署成本接近于零，与 Gemma 4 的端侧化形成技术共振——廉价本地微调成为可能。 • **"
 resource: "https://x.com/i/status/2040442517850914912"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2040442517850914912"
+created: "2026-04-04"
+updated: "2026-06-26"
+sha256: "f91c70a7e339d81646d90bf947d4b080c08626e781d1152c7c656b0aba9098cf"
+sources:
+  - "/sources/news/2026-04-05/00__jiqizhixin__浙大-easysteer-无重训练即可实时-steer-llm-行为-隐藏态调整打破微调成本壁垒.md"
 ---
 
 # 浙大 EasySteer：无重训练即可实时「 steer 」LLM 行为，隐藏态调整打破微调成本壁垒

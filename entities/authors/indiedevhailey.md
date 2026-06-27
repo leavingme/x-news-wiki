@@ -1,5 +1,5 @@
 ---
-type: "Author"
+type: "entity"
 title: "开发者Hailey (@IndieDevHailey)"
 description: "X/Twitter 作者 @IndieDevHailey。共收录 8 条 AI 精选推文。"
 tags:
@@ -12,6 +12,19 @@ x_author_name: "开发者Hailey"
 x_tweet_count: 8
 x_first_seen: "2026-03-06T04:17:50.131Z"
 x_last_seen: "2026-06-24T22:28:05.963Z"
+type_okf: "Author"
+created: "2026-03-06"
+updated: "2026-06-26"
+sha256: "390346512d9ccaff5c60fd258936226e60d07fb09ee3268a6003e2ec863b62c4"
+sources:
+  - "/sources/highlights/2026-03-06/85__IndieDevHailey__pencil-mcp-上架-设计即代码-正在杀死-figma-ide-的往返切换.md"
+  - "/sources/highlights/2026-03-23/00__IndieDevHailey__yc-ceo-garry-tan开源gstack-claude-code从-个人玄学-进化为-团队操作系统.md"
+  - "/sources/highlights/2026-03-31/00__IndieDevHailey__everything-claude-code-开源-12万星背后的生产级-agent-工程范式.md"
+  - "/sources/highlights/2026-04-01/00__IndieDevHailey__2天复刻claude-cowork-开源ai劳动力的-离线平权-时刻.md"
+  - "/sources/highlights/2026-04-19/00__IndieDevHailey__微信支付官方下场做skill-ai-ide支付接入进入-官方兜底-时代.md"
+  - "/sources/highlights/2026-06-24/00__IndieDevHailey__阿里云万镜一刻正面刚-seedance2-全链路一站式把-ai-视频工业化门槛砸到一个人.md"
+  - "/sources/news/2026-06-24/00__IndieDevHailey__markitdown-138k-star-霸榜-微软开源文档-markdown-转换器-把-rag-数据准备的脏活彻底标.md"
+  - "/sources/news/2026-06-24/00__IndieDevHailey__openmontage-拿下-github-16k-star-开源-agentic-视频生产线-把-claude-cur.md"
 ---
 
 # 开发者Hailey (@IndieDevHailey)

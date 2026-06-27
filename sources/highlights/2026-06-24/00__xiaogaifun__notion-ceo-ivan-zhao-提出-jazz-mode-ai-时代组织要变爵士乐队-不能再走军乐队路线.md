@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Notion CEO Ivan Zhao 提出'Jazz Mode'：AI 时代组织要变爵士乐队，不能再走军乐队路线"
 description: "**[Notion CEO Ivan Zhao 在红杉播客系统化提出 AI 时代组织应从'marching band'切换到'jazz band'，即兴协作成为新范式]**  - Jazz Mode 三要素：高主动性 + 好奇心 + 互相接住的即兴，取代指挥说什么大家做什么的层级节奏 - 关键前提：主旋律必须清楚（愿景、产品方向、几个不可妥协的判断），否则即兴会变成噪音 - 选人标准：Notion"
 resource: "https://x.com/i/status/2060298550123385304"
@@ -22,6 +22,13 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "ai-management-philosophy"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2060298550123385304"
+created: "2026-05-29"
+updated: "2026-06-26"
+sha256: "6d18694da8ad853de8399503a7ae9c3d8df73b10f96b3f2b10436c99add7f365"
+sources:
+  - "/sources/highlights/2026-06-24/00__xiaogaifun__notion-ceo-ivan-zhao-提出-jazz-mode-ai-时代组织要变爵士乐队-不能再走军乐队路线.md"
 ---
 
 # Notion CEO Ivan Zhao 提出'Jazz Mode'：AI 时代组织要变爵士乐队，不能再走军乐队路线

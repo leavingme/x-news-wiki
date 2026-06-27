@@ -1,5 +1,5 @@
 ---
-type: "Concept"
+type: "concept"
 title: "ai-energy-infrastructure"
 description: "跨日主题 \"ai-energy-infrastructure\"，共 4 条相关精选推文。"
 tags:
@@ -11,6 +11,15 @@ x_topic_slug: "ai-energy-infrastructure"
 x_tweet_count: 4
 x_first_seen: "2026-04-18T00:47:03.857Z"
 x_last_seen: "2026-06-24T22:27:40.872Z"
+type_okf: "Concept"
+created: "2026-04-18"
+updated: "2026-06-26"
+sha256: "7aa9bdbfb8826a0a4c50905784bbadbbd7bcd8fba096a7764e1a3d9543c1f429"
+sources:
+  - "/sources/highlights/2026-06-24/00__lidangzzz__lidang-锐评-全球-ai-算力耗电总量-比德州一个州白天空调浪费还低一个数量级.md"
+  - "/sources/news/2026-04-18/00__xuemanzi8848__马斯克储能闭环解析-xai的边际成本优势来自特斯拉能源架构而非算法.md"
+  - "/sources/news/2026-05-01/00__IREN_Ltd__2gw算力校园变电站按时通电-ai基建竞赛从ppt进入物理交付期.md"
+  - "/sources/news/2026-05-04/00__elonmusk__musk-画饼月球质量驱动器-ai-算力的终极瓶颈是能源-而能源的答案在太空.md"
 ---
 
 # 主题: ai-energy-infrastructure

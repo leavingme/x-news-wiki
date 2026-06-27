@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "创业失败的核心逻辑拆解：闭环未跑通与扩展困境"
 description: "**[创投观点]** - 总结创业失败的两大类型：闭环未跑通和跑通难扩展 - 强调初期验证与后期运营、资源支撑的各自挑战  这也是目前无数 AI 工具的死穴：做个 Demo 很容易，跑通商业闭环很难，实现规模化盈利更是难如登天。"
 resource: "https://x.com/i/status/2027449525141688634"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2027449525141688634"
+created: "2026-02-27"
+updated: "2026-06-26"
+sha256: "66af70621f14bdebfbb6fde3d90ab07c71edcd4cfba3458ce6aec4ee8e38367b"
+sources:
+  - "/sources/news/2026-02-28/00__Zesee__创业失败的核心逻辑拆解-闭环未跑通与扩展困境.md"
 ---
 
 # 创业失败的核心逻辑拆解：闭环未跑通与扩展困境

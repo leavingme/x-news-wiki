@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "tweet2skill 开源：上下文压缩层如何让 Agent Token 成本下降 90%"
 description: "**[RAG 和 Agent 的「预处理层」正在成为新的工程焦点，多模态信息强制摘要化是破局点]**  • 解决核心痛点：冗长推特串、杂乱视频字幕直接丢给OpenClaw导致幻觉和高Token账单 • 技术方案：图文/视频先压缩成高密度语义摘要，再传给底层模型，Pipeline更优雅 • 实测节省90% Token成本，同时降低幻觉风险  这是典型的「中间件层」创新——不碰大模型本身，但在数据入口"
 resource: "https://x.com/i/status/2032487038180905040"
@@ -22,6 +22,13 @@ x_selected: 2
 x_priority: 88
 x_related_topic: "agent-memory-optimization"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2032487038180905040"
+created: "2026-03-13"
+updated: "2026-06-26"
+sha256: "e6b60a268f7049081cdfddd8fc3e6c8eed569024ffa5fea3615a0f136c7814e8"
+sources:
+  - "/sources/highlights/2026-03-14/88__laodi888__tweet2skill-开源-上下文压缩层如何让-agent-token-成本下降-90.md"
 ---
 
 # tweet2skill 开源：上下文压缩层如何让 Agent Token 成本下降 90%

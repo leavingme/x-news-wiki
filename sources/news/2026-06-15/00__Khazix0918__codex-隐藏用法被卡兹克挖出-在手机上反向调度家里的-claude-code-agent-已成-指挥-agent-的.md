@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Codex 隐藏用法被卡兹克挖出：在手机上反向调度家里的 Claude Code，Agent 已成「指挥 Agent」的指挥塔"
 description: "**[卡兹克实测揭示 Agent 工具链的真实使用形态：Codex 已从「编码工具」退化为「Agent 指挥入口」，Claude 官方客户端体验反成短板]**  - 数字生命卡兹克公开用法：手机端用 Codex 远程启动家里电脑上的 Claude Code，并开启远程控制继续 coding。 - 顺带吐槽：Claude 官方 Dispatch 客户端体验极差，整个客户端做得很垃圾。 - 信号：用户"
 resource: "https://x.com/i/status/2066401470485057976"
@@ -22,6 +22,13 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "agent-mobile-orchestration"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2066401470485057976"
+created: "2026-06-15"
+updated: "2026-06-26"
+sha256: "26062d09d2c8473bb31bd184a643cd1287a95de3b10c1b8b882afe503a784142"
+sources:
+  - "/sources/news/2026-06-15/00__Khazix0918__codex-隐藏用法被卡兹克挖出-在手机上反向调度家里的-claude-code-agent-已成-指挥-agent-的.md"
 ---
 
 # Codex 隐藏用法被卡兹克挖出：在手机上反向调度家里的 Claude Code，Agent 已成「指挥 Agent」的指挥塔

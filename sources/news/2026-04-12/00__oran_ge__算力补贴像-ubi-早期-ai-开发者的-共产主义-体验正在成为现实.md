@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "算力补贴像 UBI：早期 AI 开发者的「共产主义」体验正在成为现实"
 description: "**[早期 AI 开发者的算力 UBI 时代：门槛低到违反直觉]**  核心判断：真格基金和十字路口的算力补贴体验被描述为「填表格 + 深度沟通一次就搞定」，协议只有几百字，五万算力轻松到账，且无奇怪条款。  关键信息： - 算力补贴从「大企业特权」下沉到「早期 AI OPC」 - 体验描述的关键词：「轻轻松松」「没有奇怪条款」「提前享受 UBI 感」 - 后续还有 waytoagi 和观猹的补贴"
 resource: "https://x.com/i/status/2043114409443422259"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2043114409443422259"
+created: "2026-04-11"
+updated: "2026-06-26"
+sha256: "87f600c48868d91d61eba3471149f87551c43ea4b8f6d9b2f9126323374793c0"
+sources:
+  - "/sources/news/2026-04-12/00__oran_ge__算力补贴像-ubi-早期-ai-开发者的-共产主义-体验正在成为现实.md"
 ---
 
 # 算力补贴像 UBI：早期 AI 开发者的「共产主义」体验正在成为现实

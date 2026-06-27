@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "HydraDB图记忆：向量数据库的「相似≠相关」原罪被颠覆"
 description: "**[Agent记忆架构从「碎片化检索」进化为「关系型图谱」]** • 核心洞察：向量数据库「找相似」的根本缺陷——返回格式完美但属于另一个客户的合同 • 新范式：不存碎片存关系图（知道「你在A公司工作」和「你住在纽约」是同一个人的事） • Git式版本追踪：信息变更不覆盖，保留旧地址与搬迁原因，每条记忆自带上下文补全  **gakki锐评**：RAG的「相似性幻觉」是Agent犯蠢的主要源头——"
 resource: "https://x.com/i/status/2033063306332876945"
@@ -22,6 +22,13 @@ x_selected: 2
 x_priority: 85
 x_related_topic: "agent-memory-optimization"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2033063306332876945"
+created: "2026-03-15"
+updated: "2026-06-26"
+sha256: "162d9aeb70aab2c1bbdcc29a8ee85ac149cb582f38f862b8be6420df9267b3e0"
+sources:
+  - "/sources/highlights/2026-03-15/85__xiaohu__hydradb图记忆-向量数据库的-相似-相关-原罪被颠覆.md"
 ---
 
 # HydraDB图记忆：向量数据库的「相似≠相关」原罪被颠覆

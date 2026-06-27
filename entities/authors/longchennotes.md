@@ -1,5 +1,5 @@
 ---
-type: "Author"
+type: "entity"
 title: "Long Chen (@LongChenNotes)"
 description: "X/Twitter 作者 @LongChenNotes。共收录 1 条 AI 精选推文。"
 tags:
@@ -12,6 +12,12 @@ x_author_name: "Long Chen"
 x_tweet_count: 1
 x_first_seen: "2026-02-24T01:00:41.879Z"
 x_last_seen: "2026-02-24T01:00:41.879Z"
+type_okf: "Author"
+created: "2026-02-24"
+updated: "2026-06-26"
+sha256: "f4e5a521725a17f5a4f668c09f2578535577664bcb835a7003abc90cc657ca53"
+sources:
+  - "/sources/news/2026-02-24/00__LongChenNotes__2026-职场灰犀牛-ai-逻辑链条闭环引发的白领生存危机.md"
 ---
 
 # Long Chen (@LongChenNotes)

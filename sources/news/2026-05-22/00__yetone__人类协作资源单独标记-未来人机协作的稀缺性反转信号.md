@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "人类协作资源单独标记：未来人机协作的稀缺性反转信号"
 description: "**[Human-AI 协作关系正在被重新定义]**  观点指出：在未来的 Agent 协作网络中，人类是珍贵资源，需要被单独标记；Agent 是常态反而无需特别标注。这是对当前 Human-in-the-loop 范式的根本性反转——过去人类参与是默认前提，未来人类参与需要被主动标记为\"增值行为\"。  背后逻辑是：当 Agent 能够自主完成任务时，人类干预本身成为一种稀缺性输入。这将影响未来 "
 resource: "https://x.com/i/status/2057906405827543432"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2057906405827543432"
+created: "2026-05-22"
+updated: "2026-06-26"
+sha256: "48c793ff67e617185c02a1a1bba4fe270ddcfd4c49d8630ac2b261724f2663cc"
+sources:
+  - "/sources/news/2026-05-22/00__yetone__人类协作资源单独标记-未来人机协作的稀缺性反转信号.md"
 ---
 
 # 人类协作资源单独标记：未来人机协作的稀缺性反转信号

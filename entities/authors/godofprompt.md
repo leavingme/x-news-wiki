@@ -1,5 +1,5 @@
 ---
-type: "Author"
+type: "entity"
 title: "God of Prompt (@godofprompt)"
 description: "X/Twitter 作者 @godofprompt。共收录 1 条 AI 精选推文。"
 tags:
@@ -12,6 +12,12 @@ x_author_name: "God of Prompt"
 x_tweet_count: 1
 x_first_seen: "2026-03-08T01:01:49.657Z"
 x_last_seen: "2026-03-08T01:01:49.657Z"
+type_okf: "Author"
+created: "2026-03-08"
+updated: "2026-06-26"
+sha256: "054206cbd6825698aec9d507d6ec95227dac25ffd9736d8cde87b1e67f84dead"
+sources:
+  - "/sources/highlights/2026-03-08/92__godofprompt__anthropic黑客松冠军开源整套agent系统-14个agent-56个skill的实战范本.md"
 ---
 
 # God of Prompt (@godofprompt)

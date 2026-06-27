@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "罗福莉：Agent 时代 Token 消耗是伪命题，第三方框架的上下文管理才是真实漏洞"
 description: "**【一句话核心判断】** Anthropic 的价格战其实在补贴第三方框架的低效——每一次「便宜 Token + 垃圾上下文管理」的组合，都在帮竞对烧钱。  **后续要点：** • OpenClaw 类框架每次请求携带超 10 万 Token 上下文，实际 API 消耗是订阅价的几十倍，且多数是无意义的低价值工具调用 • 罗福莉警告：大模型厂商在未理清定价模型前打价格战，等于给第三方框架的浪费买"
 resource: "https://x.com/i/status/2040854097838952598"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2040854097838952598"
+created: "2026-04-05"
+updated: "2026-06-26"
+sha256: "92a256415db7e84c69e3d2b7622deef45b4ae240888831395c815b3290aa4afd"
+sources:
+  - "/sources/highlights/2026-04-06/00__dotey__罗福莉-agent-时代-token-消耗是伪命题-第三方框架的上下文管理才是真实漏洞.md"
 ---
 
 # 罗福莉：Agent 时代 Token 消耗是伪命题，第三方框架的上下文管理才是真实漏洞

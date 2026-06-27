@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "宝玉点出 Codex 团队技术内幕内容稀缺：OpenAI 编码生态的传播缺口"
 description: "**[信号捕捉] 宝玉主动推荐关注 Codex 团队 jason，暗示 OpenAI 编码工具的真实技术细节仍处于'黑盒'状态。**  - Codex 作为 OpenAI 对标 Claude Code 的核心产品，缺少第一手技术写作，开发者只能从表面 CLI 行为反推架构 - 宝玉作为重度 Codex 用户背书，意味着 jason 的内容质量在他看来值得放大传播 - 这与 Claude Code "
 resource: "https://x.com/i/status/2066684608226165232"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2066684608226165232"
+created: "2026-06-16"
+updated: "2026-06-26"
+sha256: "49046f587b74c924ad1d541254728ce924e7cb55d5ebe6c8cf33ca2d92fe4030"
+sources:
+  - "/sources/news/2026-06-16/00__dotey__宝玉点出-codex-团队技术内幕内容稀缺-openai-编码生态的传播缺口.md"
 ---
 
 # 宝玉点出 Codex 团队技术内幕内容稀缺：OpenAI 编码生态的传播缺口

@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "宝玉：长跑 Agent 的生死线不是 Token，是自我验证能力"
 description: "**长时间运行的 Agent，真正决定成败的不是调用链多长、Token 花多少，而是 Agent 能否自己验证自己的中间结果。**  - 宝玉点出当前 Agent 工程的盲点：把\"长任务执行\"等同于\"步数多\"，但缺乏 self-check 机制的任务，每多走一步都在放大错误漂移 - 对应到工程范式上，这是 Harness Engineering 强调的 Verification Layer——没有"
 resource: "https://x.com/i/status/2063800780050608603"
@@ -22,6 +22,13 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "harness-engineering"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2063800780050608603"
+created: "2026-06-08"
+updated: "2026-06-26"
+sha256: "248f50e2da8a19575b453cecd297133f1deb8fe122be908709388e0aa51575d4"
+sources:
+  - "/sources/highlights/2026-06-08/00__dotey__宝玉-长跑-agent-的生死线不是-token-是自我验证能力.md"
 ---
 
 # 宝玉：长跑 Agent 的生死线不是 Token，是自我验证能力

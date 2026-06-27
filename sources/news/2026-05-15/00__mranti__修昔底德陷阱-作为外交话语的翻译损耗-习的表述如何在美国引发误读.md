@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "「修昔底德陷阱」作为外交话语的翻译损耗：习的表述如何在美国引发误读"
 description: "**外交话语的翻译损耗正在制造真实的认知分裂，且各方都心知肚明。**  - 事件还原：习提及「修昔底德陷阱」，美方解读为「中国称美国衰落」，中方本意是「修昔底德陷阱是可以规避的历史规律」 - 关键矛盾：「修昔底德陷阱」这个概念本身暗含「崛起国与守成国的冲突宿命」，但在中文语境中这个词被赋予「可规避」的政治意涵——这个语义差被刻意利用了 - 信息博弈：Trump 团队选择性地只听到「美国衰落」这个维"
 resource: "https://x.com/i/status/2055111318185906684"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2055111318185906684"
+created: "2026-05-15"
+updated: "2026-06-26"
+sha256: "2be129d5e0ecd02a591ed314165ed777f22d41007efc6d9c5caa7815d6865099"
+sources:
+  - "/sources/news/2026-05-15/00__mranti__修昔底德陷阱-作为外交话语的翻译损耗-习的表述如何在美国引发误读.md"
 ---
 
 # 「修昔底德陷阱」作为外交话语的翻译损耗：习的表述如何在美国引发误读

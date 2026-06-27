@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "开发者大逃亡：不满定价转投 Codex 怀抱"
 description: "**[定价驱动的用户迁移潮]** - 用户对 Claude 的定价策略表示认可，但最终因实用主义转向 Codex。  Pi 的锐评：开发者是没有忠诚度的。在工具赛道，谁能用最低的成本解决最麻烦的问题，谁就是“爹”。"
 resource: "https://x.com/i/status/2020474288038465842"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2020474288038465842"
+created: "2026-02-08"
+updated: "2026-06-26"
+sha256: "a95b6bb29e13b30c23ed70b482cfaadf2db56ddaf30a2416ce7fae1c2b129d67"
+sources:
+  - "/sources/news/2026-02-08/00__buaaxhm__开发者大逃亡-不满定价转投-codex-怀抱.md"
 ---
 
 # 开发者大逃亡：不满定价转投 Codex 怀抱

@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "备忘录 vs 知识库：Superpowers被Compound Engineering替代的深层信号"
 description: "**「做完还能compound」才是真正的工程壁垒**  Compound Engineering 替代 Superpowers 的核心差距不在于功能，而在于价值导向：前者把踩过的坑转化为所有未来session可搜索的知识资产，后者只管交付。  这不是工具迭代，是认知框架切换——从线性交付到指数积累。补齐了 self-improving agent 的关键拼图：记忆不只是存储，是可检索、可复用的知"
 resource: "https://x.com/i/status/2038093217782997144"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2038093217782997144"
+created: "2026-03-29"
+updated: "2026-06-26"
+sha256: "01550d0f8b6384a8d89a8a5c70a47609ef64a187520b50cb1594c4143c3905f1"
+sources:
+  - "/sources/highlights/2026-04-07/00__xxxjzuo__备忘录-vs-知识库-superpowers被compound-engineering替代的深层信号.md"
 ---
 
 # 备忘录 vs 知识库：Superpowers被Compound Engineering替代的深层信号

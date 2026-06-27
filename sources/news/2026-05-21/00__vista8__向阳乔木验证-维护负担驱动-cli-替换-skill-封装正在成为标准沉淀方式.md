@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "向阳乔木验证：维护负担驱动 CLI 替换，skill 封装正在成为标准沉淀方式"
 description: "**[CLI 工具生命周期的 skill 化迁移路径浮现]**  - 向阳乔木先用过某 CLI 工具并改造，但因维护不积极而废弃 - 转而寻找更稳定的 CLI 包，并封装为 skill 入库 - 反映 skill 正在成为 CLI 工具\"退役安置\"的标准出口    gakki：skill 封装正在从新工具推广手段演变为工具生命周期管理的末端环节——不稳定即被替换，稳定的则沉淀为可复用单元，这个趋势"
 resource: "https://x.com/i/status/2057305721436565608"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2057305721436565608"
+created: "2026-05-21"
+updated: "2026-06-26"
+sha256: "2b72f478c42e51e3342afb73240490ba60563391e3ed377b39985035d8b96fb2"
+sources:
+  - "/sources/news/2026-05-21/00__vista8__向阳乔木验证-维护负担驱动-cli-替换-skill-封装正在成为标准沉淀方式.md"
 ---
 
 # 向阳乔木验证：维护负担驱动 CLI 替换，skill 封装正在成为标准沉淀方式

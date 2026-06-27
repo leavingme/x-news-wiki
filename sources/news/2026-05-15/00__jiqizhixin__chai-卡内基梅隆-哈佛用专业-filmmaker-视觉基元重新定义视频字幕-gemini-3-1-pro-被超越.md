@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "CHAI：卡内基梅隆×哈佛用专业 filmmaker 视觉基元重新定义视频字幕，Gemini 3.1 Pro 被超越"
 description: "**CHAI 用结构化视频语言重新定义 AI 视频理解。**  数百个由专业 filmmaker 定义的视觉基元（visual primitives）构建了底层描述体系，而非让模型自由发挥。  训练流程引入「专家批判-模型迭代」闭环：专业字幕员反复校正 AI 输出，模型从中学习微妙的叙事语法。  结果：击败 Gemini 3.1 Pro，且能让 Wan 等视频生成模型遵循 400 词 prompt"
 resource: "https://x.com/i/status/2055371890638696542"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2055371890638696542"
+created: "2026-05-15"
+updated: "2026-06-26"
+sha256: "db64ae47628186006760cfb22468c0c66209b0048134a3121a0c3983253d0974"
+sources:
+  - "/sources/news/2026-05-15/00__jiqizhixin__chai-卡内基梅隆-哈佛用专业-filmmaker-视觉基元重新定义视频字幕-gemini-3-1-pro-被超越.md"
 ---
 
 # CHAI：卡内基梅隆×哈佛用专业 filmmaker 视觉基元重新定义视频字幕，Gemini 3.1 Pro 被超越

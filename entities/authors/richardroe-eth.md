@@ -1,5 +1,5 @@
 ---
-type: "Author"
+type: "entity"
 title: "Richard.eth (@richardroe_eth)"
 description: "X/Twitter 作者 @richardroe_eth。共收录 1 条 AI 精选推文。"
 tags:
@@ -12,6 +12,12 @@ x_author_name: "Richard.eth"
 x_tweet_count: 1
 x_first_seen: "2026-03-13T15:36:17.941Z"
 x_last_seen: "2026-03-13T15:36:17.941Z"
+type_okf: "Author"
+created: "2026-03-13"
+updated: "2026-06-26"
+sha256: "02e432b32cd7f12d30f708757124b5e9fddfdc9b0d7f69b0e3193c08d0bca157"
+sources:
+  - "/sources/highlights/2026-03-13/82__richardroe_eth__virtual协议月撒-1m-ai-agent经济的补贴战争开打.md"
 ---
 
 # Richard.eth (@richardroe_eth)

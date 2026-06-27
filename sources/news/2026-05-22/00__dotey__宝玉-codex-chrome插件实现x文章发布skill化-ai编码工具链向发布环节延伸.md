@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "宝玉：Codex Chrome插件实现X文章发布Skill化，AI编码工具链向发布环节延伸"
 description: "**[Codex的Chrome插件将发布工作流Skill化，意味着AI编码工具开始接管「写完之后的最后一公里」]**  宝玉针对Codex优化了X文章发送的Skill，配合Chrome插件可用@chrome命令直接发布。这是AI Coding工具链从「写代码」向「发布与分发」延伸的信号。  产品逻辑：Claude Code是编辑台，Codex是发布通道——两者组合覆盖了内容生产的完整链路。  ga"
 resource: "https://x.com/i/status/2057833292708122672"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2057833292708122672"
+created: "2026-05-22"
+updated: "2026-06-26"
+sha256: "8a688bceed17ecc656fb480dfaaeae2486baa1cccf96bdf75b598abf62c52a91"
+sources:
+  - "/sources/news/2026-05-22/00__dotey__宝玉-codex-chrome插件实现x文章发布skill化-ai编码工具链向发布环节延伸.md"
 ---
 
 # 宝玉：Codex Chrome插件实现X文章发布Skill化，AI编码工具链向发布环节延伸

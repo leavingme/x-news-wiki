@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Agent 首次实现主流平台「无限制抓取」：互联网数据民主化的新基础设施"
 description: "**[一句话核心判断]**  Agent Reach 将主流平台内容获取能力（YouTube、GitHub、X、Reddit、小红书、B站、微信公众号）封装为即装即用的工具链，是 Agent 数据获取「去屏障化」的关键节点。  **信息增量：** • 无需配置，发送自然语言指令即可触发 yt-dlp 等工具提取内容 • GitHub 仓库已开源，安装门槛低 • 与\"数据孤岛\"困境形成对冲——内容生"
 resource: "https://x.com/i/status/2038610287566479678"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2038610287566479678"
+created: "2026-03-30"
+updated: "2026-06-26"
+sha256: "c6ca6e2c5ad70af2878877ad550352006ed1a323a2a176ea9161a1841000aae6"
+sources:
+  - "/sources/highlights/2026-04-01/00__GoJun315__agent-首次实现主流平台-无限制抓取-互联网数据民主化的新基础设施.md"
 ---
 
 # Agent 首次实现主流平台「无限制抓取」：互联网数据民主化的新基础设施

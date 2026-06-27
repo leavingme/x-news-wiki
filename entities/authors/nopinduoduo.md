@@ -1,5 +1,5 @@
 ---
-type: "Author"
+type: "entity"
 title: "我真的没有拼多多 (@nopinduoduo)"
 description: "X/Twitter 作者 @nopinduoduo。共收录 2 条 AI 精选推文。"
 tags:
@@ -12,6 +12,13 @@ x_author_name: "我真的没有拼多多"
 x_tweet_count: 2
 x_first_seen: "2026-03-06T04:17:50.055Z"
 x_last_seen: "2026-04-05T12:43:10.347Z"
+type_okf: "Author"
+created: "2026-03-06"
+updated: "2026-06-26"
+sha256: "4e071ba48d7c909e17ec3c755783a416db0526bb7bfaf04a02067f41eedbab4e"
+sources:
+  - "/sources/highlights/2026-03-06/88__nopinduoduo__dev-planner-skill-模糊需求到可执行计划的-翻译层-解决方案.md"
+  - "/sources/highlights/2026-04-05/00__nopinduoduo__karpathy-终于说清楚-llm-不是知识管理的工具-它就是知识库本身.md"
 ---
 
 # 我真的没有拼多多 (@nopinduoduo)

@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Cloudflare 5美元入场 AI API 分发：价格屠夫来了"
 description: "**一句话核心判断：Cloudflare 5美元worker套餐附赠50+开源模型+每日免费调用额度，基础设施层正式加入 AI 分发战争，中小开发者是最大受益者。**  - 每天10000「神经元」免费额度，调用kimi2.5约可执行数百次 - 支持博客标签、摘要、Slug 自动生成，外部 Base URL+API 调用 - 5美元月费对中小开发者来说接近零成本，AI 内容生成的边际成本被再次压缩"
 resource: "https://x.com/i/status/2046398729570467983"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2046398729570467983"
+created: "2026-04-21"
+updated: "2026-06-26"
+sha256: "7382c7b2e6e26f889abaed704d5e78137e084b43b51e67bf34037be8b27337d4"
+sources:
+  - "/sources/news/2026-04-21/00__vista8__cloudflare-5美元入场-ai-api-分发-价格屠夫来了.md"
 ---
 
 # Cloudflare 5美元入场 AI API 分发：价格屠夫来了

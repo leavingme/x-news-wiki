@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Claude Fable 5 三道奇葩边界：逼 API、锁生物、禁竞品训练"
 description: "Anthropic 给 Fable 5 设了多道商业+安全+条款护城河，把自己越包越紧。  - 6/22 之后 Fable 5 退出 Token Plan，只能走 API，强制高额付费 - 安全护栏过严，连「线粒体是什么」这种初中生物问题都拒答，深度研究被锁进 Mythos - 服务条款禁止用 Fable 训练竞品模型，官方理由是「模型已能加速自身发展」  锐评：Anthropic 一边想卖得贵一"
 resource: "https://x.com/i/status/2064496537036800114"
@@ -22,6 +22,13 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "anthropic-api-control"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2064496537036800114"
+created: "2026-06-09"
+updated: "2026-06-26"
+sha256: "8e108bd8fecd525e23e2f89b5690fc16487c66836ce1d4a7a5c78074275a44fb"
+sources:
+  - "/sources/highlights/2026-06-10/00__oran_ge__claude-fable-5-三道奇葩边界-逼-api-锁生物-禁竞品训练.md"
 ---
 
 # Claude Fable 5 三道奇葩边界：逼 API、锁生物、禁竞品训练

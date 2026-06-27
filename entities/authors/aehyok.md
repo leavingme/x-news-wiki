@@ -1,5 +1,5 @@
 ---
-type: "Author"
+type: "entity"
 title: "AI少年 (@aehyok)"
 description: "X/Twitter 作者 @aehyok。共收录 1 条 AI 精选推文。"
 tags:
@@ -12,6 +12,12 @@ x_author_name: "AI少年"
 x_tweet_count: 1
 x_first_seen: "2026-03-28T18:12:50.436Z"
 x_last_seen: "2026-03-28T18:12:50.436Z"
+type_okf: "Author"
+created: "2026-03-28"
+updated: "2026-06-26"
+sha256: "eeadc1bfbbecaae1a1903dd0d31916f5499a9573a3de94f4776477ed4830e5a6"
+sources:
+  - "/sources/highlights/2026-03-28/00__aehyok__大学生2天手搓claude-code-7条生产级agent工程铁律.md"
 ---
 
 # AI少年 (@aehyok)

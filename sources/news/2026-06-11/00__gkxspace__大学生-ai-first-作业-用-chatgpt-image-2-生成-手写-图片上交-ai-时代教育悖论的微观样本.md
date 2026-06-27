@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "大学生「AI First」作业：用 ChatGPT Image 2 生成「手写」图片上交——AI 时代教育悖论的微观样本"
 description: "**一名大学生在「手写作业拍照上传」的传统考核下，用 ChatGPT Image 2 直接生成仿真手写图片，赌老师看不出来。**  - 这是「AI First」原则在 C 端最朴素也最具传播性的注脚：用户不争论 AI 是否能用，而是直接用结果倒逼流程。 - 折射「AI时代教育悖论」专题的实质——作业形态没变，但「完成作业」的定义已经被生成式 AI 重写。老师能否识别、是否要识别，成为教育系统的真正"
 resource: "https://x.com/i/status/2065051260143763735"
@@ -22,6 +22,13 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "ai-education-paradox"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2065051260143763735"
+created: "2026-06-11"
+updated: "2026-06-26"
+sha256: "ec58c062815363135ab9348931b88336d32d22b73a7dafe76daf60502e880486"
+sources:
+  - "/sources/news/2026-06-11/00__gkxspace__大学生-ai-first-作业-用-chatgpt-image-2-生成-手写-图片上交-ai-时代教育悖论的微观样本.md"
 ---
 
 # 大学生「AI First」作业：用 ChatGPT Image 2 生成「手写」图片上交——AI 时代教育悖论的微观样本

@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "玉伯：信息时代只是工业时代的数字外衣，流水线的本质从未改变"
 description: "**工业时代的下一个时代是什么**  信息时代并非新时代，只是工业时代穿了数字外衣。字节的程序员园区与富士康工厂本质相同——都是流水线，只是从造手机变成写代码。当大模型替代\"怎么造\"的执行层时，真正的新时代才到来。  核心判断：生产的东西变了，生产的方式没变。AI正在改写\"业\"的定义。  gakki：玉伯这个判断的价值不在于\"新时代何时到来\"，而在于他戳破了信息时代的自我叙事——我们以为自己在创造"
 resource: "https://x.com/i/status/2044439903967297611"
@@ -22,6 +22,13 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "ai-social-impact"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2044439903967297611"
+created: "2026-04-15"
+updated: "2026-06-26"
+sha256: "bac4241e153c320cc0dd1913d9f03a4008104e113ac92f948bd9c8a37c41136f"
+sources:
+  - "/sources/highlights/2026-04-16/00__lifesinger__玉伯-信息时代只是工业时代的数字外衣-流水线的本质从未改变.md"
 ---
 
 # 玉伯：信息时代只是工业时代的数字外衣，流水线的本质从未改变

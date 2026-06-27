@@ -1,5 +1,5 @@
 ---
-type: "Author"
+type: "entity"
 title: "Andrej Karpathy (@karpathy)"
 description: "X/Twitter 作者 @karpathy。共收录 16 条 AI 精选推文。"
 tags:
@@ -12,6 +12,27 @@ x_author_name: "Andrej Karpathy"
 x_tweet_count: 16
 x_first_seen: "2026-06-25T08:39:48.172Z"
 x_last_seen: "2026-06-25T08:39:50.273Z"
+type_okf: "Author"
+created: "2026-06-25"
+updated: "2026-06-26"
+sha256: "3c2a6524078f3b3a00eed28daba08128b661b5eaccb9a0d8af19c94750c3af48"
+sources:
+  - "/sources/highlights/2026-06-25/00__karpathy__karpathy-内部视角-claude-正在成为-团队里随时可对话的成员-这是-llm-ui-ux-的第三次范式重写.md"
+  - "/sources/highlights/2026-06-25/00__karpathy__karpathy-官宣加入-anthropic-顶级独立声音押注-闭源-强对齐-路线.md"
+  - "/sources/highlights/2026-06-25/00__karpathy__karpathy-拨乱反正-这不是-slack-机器人-是-组织级-harness.md"
+  - "/sources/highlights/2026-06-25/00__karpathy__karpathy-罕见详解企业级-ai-coding-成熟形态是-人人都是经理.md"
+  - "/sources/highlights/2026-06-25/00__karpathy__karpathy-重新框定社交媒体内容劣化-创作者本质在做-对参与度的强化学习.md"
+  - "/sources/news/2026-06-25/00__karpathy__hinton-在-google-的官方头衔是-实习生-大厂-ai-人才头衔通胀的极端案例.md"
+  - "/sources/news/2026-06-25/00__karpathy__karpathy-三字箴言-爱-逻辑-ai-时代决策范式正在被常识反噬.md"
+  - "/sources/news/2026-06-25/00__karpathy__karpathy-复盘-openclaw-现象-非技术人群第一次-亲眼-见识-agentic-ai-这是-chatgpt.md"
+  - "/sources/news/2026-06-25/00__karpathy__karpathy-把-数字永生-降级为-几天视频采访-llm-微调-脑机上传的可落地版本来了.md"
+  - "/sources/news/2026-06-25/00__karpathy__karpathy-拍-nanochat-教程才意识到-开一台-8-h100-挡住了所有人.md"
+  - "/sources/news/2026-06-25/00__karpathy__karpathy-提示词小技巧-一个被低估的判断-ai-的-最优输出-是视觉而非文本.md"
+  - "/sources/news/2026-06-25/00__karpathy__karpathy-点破硅谷潜规则-金钱与价值创造的相关性远比想象的弱.md"
+  - "/sources/news/2026-06-25/00__karpathy__karpathy-站台-fdm1-vpt-范式从游戏扩展到-知识工作-电脑使用.md"
+  - "/sources/news/2026-06-25/00__karpathy__karpathy-给创业者的地图-大厂产品路线图可预测-留下的口袋正在显现.md"
+  - "/sources/news/2026-06-25/00__karpathy__karpathy-观察-enneagram-5-型人格遇上-llm-知识库-秒进-ai-精神病.md"
+  - "/sources/news/2026-06-25/00__karpathy__karpathy-造词-cozy-coding-在-vibe-coding-之外给出更温和的-ai-编程修辞.md"
 ---
 
 # Andrej Karpathy (@karpathy)

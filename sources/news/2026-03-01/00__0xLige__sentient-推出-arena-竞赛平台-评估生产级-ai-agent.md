@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Sentient 推出 Arena 竞赛平台，评估生产级 AI Agent"
 description: "Sentient 开源 AI 实验室推出实时、生产级可用的 Arena 平台，模拟真实企业工作流评估 AI Agent，获 Founders Fund、Pantera Capital 等机构支持。"
 resource: "https://x.com/i/status/2028047228313690241"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2028047228313690241"
+created: "2026-03-01"
+updated: "2026-06-26"
+sha256: "f1f8b3496be7bf1525d40dc0b713a211829148dddf52ca23a4ce8cc566c01ce7"
+sources:
+  - "/sources/news/2026-03-01/00__0xLige__sentient-推出-arena-竞赛平台-评估生产级-ai-agent.md"
 ---
 
 # Sentient 推出 Arena 竞赛平台，评估生产级 AI Agent

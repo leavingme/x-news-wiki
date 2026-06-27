@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "OpenAI实战指南流出：Skills是Agent的大脑，Shell是它的双手"
 description: "**[AI Agent开发正在从「玄学调优」迁移到「工程化标准」，这是2026年最关键的范式转折]**  OpenAI官方指南明确了三个核心组件：Skills（业务SOP模块化，按需加载，解决提示词膨胀导致的智商下降）、Hosted Shell（给Agent真实Linux终端，让它从「只会动嘴」变成能安装依赖、写代码、产出结果文件的数字化员工）、Compaction（自动管理长任务Token损耗，"
 resource: "https://x.com/i/status/2021961435996361015"
@@ -22,6 +22,13 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "claude-code-ecosystem"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2021961435996361015"
+created: "2026-02-12"
+updated: "2026-06-26"
+sha256: "0a9a35259cb1bb537f0c778e4db28f95aa18e7e02439c518242a94e86532321e"
+sources:
+  - "/sources/highlights/2026-04-05/00__stellarlinkAI__openai实战指南流出-skills是agent的大脑-shell是它的双手.md"
 ---
 
 # OpenAI实战指南流出：Skills是Agent的大脑，Shell是它的双手

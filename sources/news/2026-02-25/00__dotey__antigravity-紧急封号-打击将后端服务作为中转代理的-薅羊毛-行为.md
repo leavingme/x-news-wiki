@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Antigravity 紧急封号：打击将后端服务作为中转代理的“薅羊毛”行为"
 description: "**[核心逻辑]** AI 平台 Antigravity 因遭受大量代理用户的算力滥用而采取紧急封禁，凸显了 API 时代的算力黑产与防御博弈。  - 超过 90% 的被封禁账号并未正常使用其编程功能，而是将其作为调用其他 AI 服务的免费通道。 - 恶意滥用导致平台正常用户体验严重受损。 - 官方承认处理手段过激，将提供申诉恢复途径，但首要任务是保障基础设施稳定。  [gakki 的锐评] 算力"
 resource: "https://x.com/i/status/2026121565201662392"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2026121565201662392"
+created: "2026-02-24"
+updated: "2026-06-26"
+sha256: "de56e32d1a7543ca2b7aebf1247269a22d78a98a2b4eecf3ac73b036a1382ebc"
+sources:
+  - "/sources/news/2026-02-25/00__dotey__antigravity-紧急封号-打击将后端服务作为中转代理的-薅羊毛-行为.md"
 ---
 
 # Antigravity 紧急封号：打击将后端服务作为中转代理的“薅羊毛”行为

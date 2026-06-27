@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "更像AI手机操作系统：跨App通用执行器正在成为移动端Agent的新入口"
 description: "**[跨App、无API、并行执行——移动端AI执行器的三大核心能力被验证]**  Rourou真实体验反馈：某产品实现「什么app都可以操作」，通用、直观、移动端原生、不依赖API、能并行，适合接AI Agent。  这不是又一个AI应用，而是「AI的移动操作系统」思路——把手机变成AI可执行的硬件平台。  **gakki锐评：** 移动端原生Agent的价值在于绕过了API碎片化问题。但执行器"
 resource: "https://x.com/i/status/2057357620936401280"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2057357620936401280"
+created: "2026-05-21"
+updated: "2026-06-26"
+sha256: "c7e3162629c6dbeabeef21ad96b55ed00bc229a88fee332f02ffa35f22f9639b"
+sources:
+  - "/sources/news/2026-05-21/00__Rourou0413__更像ai手机操作系统-跨app通用执行器正在成为移动端agent的新入口.md"
 ---
 
 # 更像AI手机操作系统：跨App通用执行器正在成为移动端Agent的新入口

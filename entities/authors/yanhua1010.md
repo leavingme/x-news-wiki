@@ -1,5 +1,5 @@
 ---
-type: "Author"
+type: "entity"
 title: "Yanhua (@yanhua1010)"
 description: "X/Twitter 作者 @yanhua1010。共收录 3 条 AI 精选推文。"
 tags:
@@ -12,6 +12,14 @@ x_author_name: "Yanhua"
 x_tweet_count: 3
 x_first_seen: "2026-03-03T01:07:04.733Z"
 x_last_seen: "2026-04-05T02:14:39.777Z"
+type_okf: "Author"
+created: "2026-03-03"
+updated: "2026-06-26"
+sha256: "ccb9ab9a8960c8a8ce731e089a2bc001081e36a98de6c92ce77ff23de99c11c0"
+sources:
+  - "/sources/highlights/2026-03-03/00__yanhua1010__ai-记忆主权争夺战打响-claude-开启一键导入-用户数据成为生态粘性核心.md"
+  - "/sources/highlights/2026-03-31/00__yanhua1010__claude-code-原生-computer-use-ai-从-写代码-到-操控电脑-的范式跃迁.md"
+  - "/sources/news/2026-04-05/00__yanhua1010__obsidian-类笔记工具复兴的真正推手-claude-code-和-openclaw-把-markdown-变成了-.md"
 ---
 
 # Yanhua (@yanhua1010)

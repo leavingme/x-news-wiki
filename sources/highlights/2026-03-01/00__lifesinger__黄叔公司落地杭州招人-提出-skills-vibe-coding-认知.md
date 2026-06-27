@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "黄叔公司落地杭州招人，提出「Skills > Vibe Coding」认知"
 description: "有赞创始人白鸦（黄叔）创业公司在杭州落地招聘，其最新认知指出：对大众用户 Skills 比 Vibe Coding 更重要，对企业 Skills+LLM 近似垂类应用。"
 resource: "https://x.com/i/status/2027893689344004522"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2027893689344004522"
+created: "2026-02-28"
+updated: "2026-06-26"
+sha256: "3103f1669af4570624c84d002eb33276ff5ca61821883279166b34880bf48828"
+sources:
+  - "/sources/highlights/2026-03-01/00__lifesinger__黄叔公司落地杭州招人-提出-skills-vibe-coding-认知.md"
 ---
 
 # 黄叔公司落地杭州招人，提出「Skills > Vibe Coding」认知

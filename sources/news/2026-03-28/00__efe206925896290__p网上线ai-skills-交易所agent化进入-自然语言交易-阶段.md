@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "P网上线AI Skills：交易所Agent化进入「自然语言交易」阶段"
 description: "**【金融Agent入口的合规化探索】** • 现货/合约均支持自然语言交互，一句话完成市价/限价/开多开空 • 完美适配OpenClaw/Claude Code/Cursor等主流工具 • MCP Server、CLI工具即将上线，生态扩张意图明显  gakki 锐评：交易所是Agent经济自主权落地的第一战场——P网此举是在抢「Agent原生金融入口」的先发位置。"
 resource: "https://x.com/i/status/2035279336031629725"
@@ -22,6 +22,13 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "ai-crypto-agent-infra"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2035279336031629725"
+created: "2026-03-21"
+updated: "2026-06-26"
+sha256: "43e5b33e8ca039be798ca0549ebdc0781d898fa7b0bea21d44025206434512e6"
+sources:
+  - "/sources/news/2026-03-28/00__efe206925896290__p网上线ai-skills-交易所agent化进入-自然语言交易-阶段.md"
 ---
 
 # P网上线AI Skills：交易所Agent化进入「自然语言交易」阶段

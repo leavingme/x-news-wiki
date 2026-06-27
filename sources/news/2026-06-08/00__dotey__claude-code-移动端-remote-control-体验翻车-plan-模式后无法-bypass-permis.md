@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Claude Code 移动端 Remote Control 体验翻车：Plan 模式后无法 Bypass Permission，频繁确认击穿移动场景"
 description: "**[一句话核心判断]** Claude Code 的桌面端哲学（plan → confirm → execute）直接搬到移动端 Remote Control 上，是一次典型的「场景错配」暴露。  要点： - 移动端操作的核心痛点：人在路上，无法承担高密度确认交互 - Plan 之后必须逐条 bypass permission，把 Agent 自主性压回 0，本质上把移动端降级为「带屏幕的 CL"
 resource: "https://x.com/i/status/2063758466573795692"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2063758466573795692"
+created: "2026-06-07"
+updated: "2026-06-26"
+sha256: "0c6e371a714201084a86597fccc9673b10b582ebfd428c6747fccf9e8daec679"
+sources:
+  - "/sources/news/2026-06-08/00__dotey__claude-code-移动端-remote-control-体验翻车-plan-模式后无法-bypass-permis.md"
 ---
 
 # Claude Code 移动端 Remote Control 体验翻车：Plan 模式后无法 Bypass Permission，频繁确认击穿移动场景

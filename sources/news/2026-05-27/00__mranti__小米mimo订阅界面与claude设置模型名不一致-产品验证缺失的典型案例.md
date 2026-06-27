@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "小米Mimo订阅界面与Claude设置模型名不一致：产品验证缺失的典型案例"
 description: "**[产品必经之路：自己不用就别发布]**  Michael Anti 实际踩坑：订阅界面标注模型名「MiMo-V2.5-Pro」，Claude 设置页却要求填「mimo-v2.5-pro」——大小写与连字符差异导致参数报错。产品经理自己没走一遍用户流程就上线。  这不是技术问题，是发布流程缺陷。  ---  **gakki 判断**：这个问题暴露了一个高频错误——内部代号与对外品牌名不统一，本质"
 resource: "https://x.com/i/status/2059483067606327441"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2059483067606327441"
+created: "2026-05-27"
+updated: "2026-06-26"
+sha256: "e333d7bd9b8bd6c77f753aa63fba6b6fce4ba751d599467ae271caf91ebba29c"
+sources:
+  - "/sources/news/2026-05-27/00__mranti__小米mimo订阅界面与claude设置模型名不一致-产品验证缺失的典型案例.md"
 ---
 
 # 小米Mimo订阅界面与Claude设置模型名不一致：产品验证缺失的典型案例

@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Anthropic 年收入 300 亿美元背后：AI Coding 印钞机已验证，下一台是「预测」"
 description: "**[一句话核心判断]**  Coding 赛道证明了 AI 的印钞能力，但预测市场才是把概率直接变成现金的终局——这个判断比大多数人的认知提前了至少 18 个月。  - **ARR 300 亿美元超过 OpenAI**：不是收入数字的胜利，是「企业愿意为什么付费」的信仰投票——Coding 是刚需，AI 替代程序员比替代分析师更值钱 - **UniPat AI 的 EchoZ-1.0 登顶通用预"
 resource: "https://x.com/i/status/2041471816208925034"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2041471816208925034"
+created: "2026-04-07"
+updated: "2026-06-26"
+sha256: "3e745dfc421fcb60c6ddf0d087cdebd0b907a03eff1bb967edb38ef1419116d9"
+sources:
+  - "/sources/highlights/2026-04-07/00__starzq__anthropic-年收入-300-亿美元背后-ai-coding-印钞机已验证-下一台是-预测.md"
 ---
 
 # Anthropic 年收入 300 亿美元背后：AI Coding 印钞机已验证，下一台是「预测」

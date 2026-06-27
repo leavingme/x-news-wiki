@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Genesis AI 沉默一年后发布 GENE-26.5：从数据手套到仿真器的全栈机器人方案"
 description: "**Genesis AI 用一年时间从零搭建机器人学习全链路，核心突破在数据采集而非算法。**  - GENE-26.5 是机器人原生基础模型，非通用 LLM 改造 - 四件套方案：机器人大脑 + 1:1 人手 + 非侵入式数据手套 + 仿真加速器 - 直指行业最大痛点：机器人学习的人类数据获取成本极高  真正值得关注的不是模型本身，而是「数据-仿真-硬件」垂直整合的工程决策。这与特斯拉 Opti"
 resource: "https://x.com/gs_ai_/status/2052050956272230577"
@@ -22,6 +22,13 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "embodied-ai-and-robotics"
 x_source: "ai-trend-digest"
+type_okf: "X Tweet"
+source_url: "https://x.com/gs_ai_/status/2052050956272230577"
+created: "2026-05-06"
+updated: "2026-06-26"
+sha256: "8198b2da95156073e8d78b5207cfa40dbc5ee5f55cf83365068f6c8bb162c428"
+sources:
+  - "/sources/news/2026-05-06/00__gs_ai___genesis-ai-沉默一年后发布-gene-26-5-从数据手套到仿真器的全栈机器人方案.md"
 ---
 
 # Genesis AI 沉默一年后发布 GENE-26.5：从数据手套到仿真器的全栈机器人方案

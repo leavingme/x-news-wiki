@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "OKX OnchainOS 全面上线：交易所 Agent 基建「双线作战」成型"
 description: "**[币安之后 OKX 跟进，AI-native Web3 成为交易所新叙事高地]**  • 整合 20+ 链交易/行情、日均 12 亿次调用 API、MCP 原生支持——交易所正在从「托管资产」进化为「托管 Agent」。  • 与币安形成「双寡头」格局：谁能让 AI Agent 更顺畅地「花钱、赚钱、管钱」，谁就能捕获下一代用户的资产入口。  • 链上数据 + Agent 决策 + 自动执行 "
 resource: "https://x.com/i/status/2028757277751357698"
@@ -22,6 +22,13 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "agent-economic-autonomy"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2028757277751357698"
+created: "2026-03-03"
+updated: "2026-06-26"
+sha256: "b6b5edaa642a543664e3c77f47450b7eaa43258c1fae7f4beaf24232d0ac1407"
+sources:
+  - "/sources/highlights/2026-03-04/00__okxchinese__okx-onchainos-全面上线-交易所-agent-基建-双线作战-成型.md"
 ---
 
 # OKX OnchainOS 全面上线：交易所 Agent 基建「双线作战」成型

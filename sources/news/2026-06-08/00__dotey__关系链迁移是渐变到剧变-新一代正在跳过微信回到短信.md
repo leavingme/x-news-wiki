@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "关系链迁移是渐变到剧变：新一代正在跳过微信回到短信"
 description: "[关心链的迁移不是替代，而是从底层协议开始重写。] - 宝玉用 QQ→微信类比：起初是\"新的关心链\"叠加，最终老关系链也整体迁走 - 但代际反向：他的孩子和同学直接用手机自带短信群发，绕过微信这个超级 App - 关键洞察：护城河不是功能而是关系链密度，而密度会被代际更迭直接清零 - 对 Agent 时代的启示：今天看似基础设施的产品，10 年后可能只是过渡形态，AI 助理本身也可能被下一代视为\""
 resource: "https://x.com/i/status/2064052918685208809"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2064052918685208809"
+created: "2026-06-08"
+updated: "2026-06-26"
+sha256: "c9b54b3102b794d93a26aa1097c4c9f093b5d721ce8fafd138cb10960c69ed6c"
+sources:
+  - "/sources/news/2026-06-08/00__dotey__关系链迁移是渐变到剧变-新一代正在跳过微信回到短信.md"
 ---
 
 # 关系链迁移是渐变到剧变：新一代正在跳过微信回到短信

@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "向阳乔木：跨国小团队用 NotebookLM「文档→播客→多语种」替代整套会议流程"
 description: "**[向阳乔木分享：朋友团队用 NotebookLM 一套打法完成跨国沟通对齐]** - 流程：上传关键内部文档 → NotebookLM 生成播客 → 自听自查 → 翻译成对方语种 → 对方听播客对齐 - 不清晰点可继续用文本问答兜底，避免「翻译损耗」和「时差会议」 - 关键判断：团队小、容忍度高时，AI 异步对齐效率明显高于同步会议    gakki 锐评：这本质是「把会议改成播客」——和玉伯"
 resource: "https://x.com/i/status/2067281023914922237"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2067281023914922237"
+created: "2026-06-17"
+updated: "2026-06-26"
+sha256: "8975eaca842ce4474d29f2b3903c5cf812910b5c538059407713c585547fb402"
+sources:
+  - "/sources/highlights/2026-06-17/00__vista8__向阳乔木-跨国小团队用-notebooklm-文档-播客-多语种-替代整套会议流程.md"
 ---
 
 # 向阳乔木：跨国小团队用 NotebookLM「文档→播客→多语种」替代整套会议流程

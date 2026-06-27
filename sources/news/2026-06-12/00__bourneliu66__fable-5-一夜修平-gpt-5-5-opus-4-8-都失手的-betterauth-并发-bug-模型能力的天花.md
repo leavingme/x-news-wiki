@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Fable 5 一夜修平 GPT-5.5/Opus 4.8 都失手的 BetterAuth 并发 Bug：模型能力的天花板正被生产环境重写"
 description: "**旗舰模型的'刷榜优势'在生产级并发场景中并不自动迁移。**  要点： - 流行开源鉴权库 BetterAuth 被发现一处教科书级并发 Bug，GPT-5.5 与 Opus 4.8 均未定位 - 刘小排报告称 Fable 5 用一晚时间复现并定性该问题，强调'只有高并发生产环境才会现形' - 事件本身指向一个新维度：模型对真实生产压力（并发、状态机竞争、长尾竞态）的感知能力，可能比静态 ben"
 resource: "https://x.com/i/status/2065329731801927844"
@@ -22,6 +22,13 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "ai-real-world-model-evaluation"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2065329731801927844"
+created: "2026-06-12"
+updated: "2026-06-26"
+sha256: "42cccd4afeadec5d642a543543830d0310da332a830181b8b279ebee5933f9d9"
+sources:
+  - "/sources/news/2026-06-12/00__bourneliu66__fable-5-一夜修平-gpt-5-5-opus-4-8-都失手的-betterauth-并发-bug-模型能力的天花.md"
 ---
 
 # Fable 5 一夜修平 GPT-5.5/Opus 4.8 都失手的 BetterAuth 并发 Bug：模型能力的天花板正被生产环境重写

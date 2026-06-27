@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Claude 的 fast 模式开始额外收费，API 分层定价进入实质阶段"
 description: "**[ Claude fast mode 悄然走向付费分层 ]**  宝玉转发了关于 Claude fast 模式额外收费的信息，说明 Anthropic 已在 API 层面推进更细粒度的分层变现策略。fast 模式通常对应低延迟推理，此次单独收费意味着：  - 推理速度不再只是模型能力的副产品，而是独立可变现的服务项 - 对高频调用场景（Agent 循环、实时交互）的成本结构产生直接压力 - 开"
 resource: "https://x.com/i/status/2062172954113282399"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2062172954113282399"
+created: "2026-06-03"
+updated: "2026-06-26"
+sha256: "7ca51a701c609845ac0994b70b0a95cecb2ecd815519820b882fb70e7cd0fae6"
+sources:
+  - "/sources/news/2026-06-03/00__dotey__claude-的-fast-模式开始额外收费-api-分层定价进入实质阶段.md"
 ---
 
 # Claude 的 fast 模式开始额外收费，API 分层定价进入实质阶段

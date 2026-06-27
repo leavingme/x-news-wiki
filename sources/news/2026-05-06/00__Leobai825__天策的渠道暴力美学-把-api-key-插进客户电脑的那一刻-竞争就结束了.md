@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "天策的渠道暴力美学：把 API Key 插进客户电脑的那一刻，竞争就结束了"
 description: "**AI 行业的终极壁垒不是模型，是物理触达——能冲到客户脸上部署的人，没有对手。**  - 一句话道破中国 AI 分发的底层逻辑：技术壁垒是幻觉，渠道壁垒才是真的 - 「把 API Key 插进客户电脑」不是比喻，是大量中小 AI 服务商的真实操作模式 - 暗示了当前 AI 市场的结构性分化：顶层拼模型，底层拼谁能把东西装上去  gakki 锐评：这句话粗暴但精准。当所有人还在讨论模型能力时，真"
 resource: "https://x.com/i/status/2051974599055700053"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2051974599055700053"
+created: "2026-05-06"
+updated: "2026-06-26"
+sha256: "9e5da496686ab3534d188322c8c4fa4bf421f92f27412bb9dc40d9df7a78fb4e"
+sources:
+  - "/sources/news/2026-05-06/00__Leobai825__天策的渠道暴力美学-把-api-key-插进客户电脑的那一刻-竞争就结束了.md"
 ---
 
 # 天策的渠道暴力美学：把 API Key 插进客户电脑的那一刻，竞争就结束了

@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Goal面板的三种控制权：删除/暂停/编辑，但均需等Turn结束后生效"
 description: "**[Goal控制面板揭示了Agent「暂停-编辑-续命」的实际生效时机]**  Codex Goal面板提供三种操作：删除（转一次性任务）、暂停/继续（应对Token不够等待Tibo Reset）、编辑（调整Goal内容）。但所有操作均需等当前Turn结束后才生效——这是一个「轮次门控」设计。  这意味着人类在Agent运行期间的干预存在盲区：无法实时中断，只能等待Turn间隙介入。对于长时间任"
 resource: "https://x.com/i/status/2058612580315177199"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2058612580315177199"
+created: "2026-05-24"
+updated: "2026-06-26"
+sha256: "74f5fec0d386283b696bbbf6bd05173cbb138ba68bec71ed8cbe1cead41ec5d9"
+sources:
+  - "/sources/news/2026-05-24/00__dotey__goal面板的三种控制权-删除-暂停-编辑-但均需等turn结束后生效.md"
 ---
 
 # Goal面板的三种控制权：删除/暂停/编辑，但均需等Turn结束后生效

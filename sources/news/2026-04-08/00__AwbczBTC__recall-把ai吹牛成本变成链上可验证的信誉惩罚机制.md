@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Recall：把AI吹牛成本变成链上可验证的信誉惩罚机制"
 description: "**[AI排名的根本问题不是评分，是举证责任倒置]**  传统排名（Rank Zoe、Karena等）核心缺陷：厂商自备跑分，用户踩坑无法追责。Recall的破局思路是强制AI\"裸考\"——操作记录全部上Filecoin链，可查不可改，差评直接扣抽成比例。  关键设计：举报作弊罚金的30%归举报者（真金白银激励），动态信用分与接单权挂钩，菜场大妈和MIT教授投票权重平等。这套机制的本质是把信任商品化"
 resource: "https://x.com/i/status/1958689871318720644"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/1958689871318720644"
+created: "2025-08-22"
+updated: "2026-06-26"
+sha256: "23b6087e1e7c379ec2a8ab6f6d5a4c89b428cfce292f51fd77593b42d56c9c4d"
+sources:
+  - "/sources/news/2026-04-08/00__AwbczBTC__recall-把ai吹牛成本变成链上可验证的信誉惩罚机制.md"
 ---
 
 # Recall：把AI吹牛成本变成链上可验证的信誉惩罚机制

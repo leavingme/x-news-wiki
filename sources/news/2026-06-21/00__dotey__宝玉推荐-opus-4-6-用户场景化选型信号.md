@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "宝玉推荐 Opus 4.6：用户场景化选型信号"
 description: "**宝玉在回复用户提问时直接点名 Opus 4.6 作为尝试建议，反映该模型在其工作流中的默认优先级。**  要点： - 宝玉作为高频推荐者，多次在不同场景中默认指向 Opus 4.6 - 与\"写作第一\"判断（2068810338674364545）形成互证：Opus 4.6 同时胜任通用对话与精细写作 - 用户选型从\"看榜单\"转向\"看 KOL 体感推荐\"的趋势继续   gakki 锐评：单条推荐"
 resource: "https://x.com/i/status/2068745433074049312"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2068745433074049312"
+created: "2026-06-21"
+updated: "2026-06-26"
+sha256: "1e232c261cc4434e07b9ed7a1ba28065015f426975d443dcb34cecbed9a84d09"
+sources:
+  - "/sources/news/2026-06-21/00__dotey__宝玉推荐-opus-4-6-用户场景化选型信号.md"
 ---
 
 # 宝玉推荐 Opus 4.6：用户场景化选型信号

@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Claude Code 后台静默扫描 Markdown 文件：你的额度正在被「看不见的调用」吞噬"
 description: "**[Claude Code 后台行为暴露 AI 工具的隐性成本危机]**  宝玉在测试一款 Markdown 编辑器时发现，Claude Code 在 5 小时内悄无声息地将目录下所有 Markdown 文档纳入了分析范围，导致 5 小时额度快速耗尽。这一问题关键在于：  - **感知盲区**：`--resume` 之外用户毫无察觉，这是工具设计层面的严重透明度缺失 - **成本结构扭曲**：C"
 resource: "https://x.com/i/status/2043714137985790412"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2043714137985790412"
+created: "2026-04-13"
+updated: "2026-06-26"
+sha256: "8303d0008e24cfd0942c71efda346569df86acbc219e805bfc6f9bdbc621115c"
+sources:
+  - "/sources/news/2026-04-14/00__dotey__claude-code-后台静默扫描-markdown-文件-你的额度正在被-看不见的调用-吞噬.md"
 ---
 
 # Claude Code 后台静默扫描 Markdown 文件：你的额度正在被「看不见的调用」吞噬

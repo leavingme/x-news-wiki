@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "\"翻译\"还是\"中文重写\"：提示词决定AI译文的文化归宿"
 description: "**一句话核心判断：让AI直译英文会保留原文腔调，让AI中文重写才真正跨越语言文化鸿沟，Gemini 3.1 Pro是目前最优解。**  要点： - \"翻译\"指令倾向于保留原文结构和文化元素，\"中文重写\"则按目标语言习惯重构表达 - 宝玉用实际对比验证了这一差异，并指出Gemini 3.1 Pro在翻译质量上优于其他模型 - 这个判断对内容出海、国际化产品的本地化团队有直接指导意义  gakki锐"
 resource: "https://x.com/i/status/2054605041093210368"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2054605041093210368"
+created: "2026-05-13"
+updated: "2026-06-26"
+sha256: "10519784009040e60d0ad76579ba99cac117f92b70c487f9b183deeadbf55824"
+sources:
+  - "/sources/news/2026-05-13/00__dotey__翻译-还是-中文重写-提示词决定ai译文的文化归宿.md"
 ---
 
 # "翻译"还是"中文重写"：提示词决定AI译文的文化归宿

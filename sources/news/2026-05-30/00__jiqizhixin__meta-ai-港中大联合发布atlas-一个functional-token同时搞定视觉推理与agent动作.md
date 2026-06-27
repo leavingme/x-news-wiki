@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Meta AI+港中大联合发布ATLAS：一个functional token同时搞定视觉推理与Agent动作"
 description: "**核心判断：视觉推理的token化路径收敛——无需生成图像、无需额外架构，一个离散token兼具隐式推理与动作执行能力。**  - 核心创新：单一functional token在tokenizer层面统一视觉感知与动作规划，打破传统视觉推理需先生成再执行的二阶段范式 - 技术路径：无视觉监督信号 + 无新增模型结构，仅改造tokenizer词汇表 - 可解释性收益：推理过程以离散token为载"
 resource: "https://x.com/i/status/2060788079129211065"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2060788079129211065"
+created: "2026-05-30"
+updated: "2026-06-26"
+sha256: "60b3c5a5ffdcfe38bd840168d0bc3572dc4fa7b3822c7de82f64ade72f6372b4"
+sources:
+  - "/sources/news/2026-05-30/00__jiqizhixin__meta-ai-港中大联合发布atlas-一个functional-token同时搞定视觉推理与agent动作.md"
 ---
 
 # Meta AI+港中大联合发布ATLAS：一个functional token同时搞定视觉推理与Agent动作

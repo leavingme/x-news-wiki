@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "WebMCP：Google 正在把网页变成 AI 可调用的 API"
 description: "**[网站「AI 适配」将成生死线，流量迁移拐点已现]**  • Chrome 146 实验性推出 WebMCP，网站主动以结构化工具形式暴露能力，AI agent 直接调用而非截图猜按钮 • 联合微软推进 W3C 标准草案，支持 HTML 表单属性标注或 JS 注册复杂工具接口 • 类比移动互联网初期：不做移动适配的网站流量腰斩，AI agent 流量迁移正在重演  **gakki 锐评**：这"
 resource: "https://x.com/i/status/2033360499509969165"
@@ -22,6 +22,13 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "agent-browser-token-efficiency"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2033360499509969165"
+created: "2026-03-16"
+updated: "2026-06-26"
+sha256: "698a77a6d8116f7095e8a0081e8cc949ddb1998463f873f4ccca2add9e7e1893"
+sources:
+  - "/sources/highlights/2026-03-16/00__xiaohu__webmcp-google-正在把网页变成-ai-可调用的-api.md"
 ---
 
 # WebMCP：Google 正在把网页变成 AI 可调用的 API

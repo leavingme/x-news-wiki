@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "王自如48天Vibe Coding实录：零技术背景产出10万行代码，「自然语言编程」进入可验证阶段"
 description: "**[前数码博主王自如用AI在48天内独立构建10万行代码级应用，成为Vibe Coding范式的标志性案例]**  • 项目涵盖DDD领域驱动设计、可观测性监控、自动化测试、Multi-Agent架构等企业级工程实践，架构设计逻辑清晰 • 证明了「非技术人员+AI工具」组合可以跨越传统编程的学习曲线，直接交付生产级复杂系统 • 案例折射出AI编程的「能力跃迁」：从「辅助写代码」到「全程托管工程化"
 resource: "https://x.com/i/status/2035153189201486190"
@@ -22,6 +22,13 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "vibe-coding-cognition-inflection"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2035153189201486190"
+created: "2026-03-21"
+updated: "2026-06-26"
+sha256: "6399d03e28f65c2e5e8d4d26c53789b4c3b45b6fca75e1f56316e3d9cc5ddd2f"
+sources:
+  - "/sources/news/2026-03-22/00__shengxj1__王自如48天vibe-coding实录-零技术背景产出10万行代码-自然语言编程-进入可验证阶段.md"
 ---
 
 # 王自如48天Vibe Coding实录：零技术背景产出10万行代码，「自然语言编程」进入可验证阶段

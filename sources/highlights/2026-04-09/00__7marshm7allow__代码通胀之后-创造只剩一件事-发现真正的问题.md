@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "代码通胀之后，创造只剩一件事：发现真正的问题"
 description: "**[代码通胀正在重置创造者价值排序]**  当 Anthropic 内部 90% 代码由 Claude Code 生成、Ryan Dahl 宣称手写代码时代终结、高中生 48 小时可完成过去 8 周的 MVP——代码能力已从稀缺资产变为基础设施。  这一轮转变的真正影响是：创造的核心瓶颈从「如何实现」转移到「发现什么值得解决」。今年全球 AI 黑客松的评判标准已悄然改变——赢的不是代码，是那个「"
 resource: "https://x.com/i/status/2037523640540147764"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2037523640540147764"
+created: "2026-03-27"
+updated: "2026-06-26"
+sha256: "d326cb1dcc1b5a0a40c2e534c86b8d2f857be00274166220219a5aacf70f8917"
+sources:
+  - "/sources/highlights/2026-04-09/00__7marshm7allow__代码通胀之后-创造只剩一件事-发现真正的问题.md"
 ---
 
 # 代码通胀之后，创造只剩一件事：发现真正的问题

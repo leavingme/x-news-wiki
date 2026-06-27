@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "7-Prompt 健身系统：Claude 从「聊天工具」进化为「私人教练 OS」"
 description: "**[垂直场景深度编排正在取代通用对话]** • 7 个专业 prompt 系统 + 持续交互迭代，10 分钟产出 12 周个性化健身计划 • 核心洞察：单次 prompt 只能出「能用的方案」，系统级 prompt 才能出「专业级交付」 • 可模板化、可复用、可内容化——这是 AI 原生服务的标准交付范式  健身只是切口，这种「专业系统 prompt 化」的方法论正在吞噬所有知识服务行业。"
 resource: "https://x.com/i/status/2037717749208862899"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2037717749208862899"
+created: "2026-03-28"
+updated: "2026-06-26"
+sha256: "38304c9d3f51f9c939acd1eb3d75753f354346b35473d790905f4e742e6049e7"
+sources:
+  - "/sources/highlights/2026-03-28/00__AYi_AInotes__7-prompt-健身系统-claude-从-聊天工具-进化为-私人教练-os.md"
 ---
 
 # 7-Prompt 健身系统：Claude 从「聊天工具」进化为「私人教练 OS」

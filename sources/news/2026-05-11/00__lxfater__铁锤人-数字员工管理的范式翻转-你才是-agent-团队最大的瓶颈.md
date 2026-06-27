@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "铁锤人：数字员工管理的范式翻转——你才是 Agent 团队最大的瓶颈"
 description: "**从\"人协调 Agent\"到\"人设定规则、Agent 自治\"，Agent 编排正在经历去中心化拐点。**  - 传统模式：人协调 Agent → Agent 既蠢又不断打扰你，Token 花了不少，产出寥寥 - 新范式：设定规则 + 配置环境 + 放手 → 触发 LLM 涌现特性，出现更聪明的协作行为 - 核心洞察：人类协调者本身是数字员工团队最大的瓶颈  gakki 锐评：\"涌现\"这个词被用滥"
 resource: "https://x.com/i/status/2053733194311319905"
@@ -22,6 +22,13 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "multi-agent-framework-ecosystem-comparison"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2053733194311319905"
+created: "2026-05-11"
+updated: "2026-06-26"
+sha256: "1bb3c21b93694c1da052d5204f58d1b5ecfa76abe3475319137d2a93037dbb6f"
+sources:
+  - "/sources/news/2026-05-11/00__lxfater__铁锤人-数字员工管理的范式翻转-你才是-agent-团队最大的瓶颈.md"
 ---
 
 # 铁锤人：数字员工管理的范式翻转——你才是 Agent 团队最大的瓶颈

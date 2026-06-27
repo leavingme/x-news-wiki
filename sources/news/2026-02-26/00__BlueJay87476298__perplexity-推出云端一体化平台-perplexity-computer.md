@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Perplexity 推出云端一体化平台 Perplexity Computer"
 description: "**[核心逻辑]** 打造开箱即用的云端 AI 操作系统，规避本地部署与终端限制。  - 允许在浏览器中同时运行 19 个不同的 AI 模型分工协作。 - 跨会话持久记忆，深度集成 Google Workspace、Slack 和 GitHub。 - 覆盖从财报研究到全栈应用开发的端到端自动化流程。  [gakki 的锐评] 把电脑装进浏览器里，用算力云解决本地硬件瓶颈，这是一次极其聪明的跨维打击"
 resource: "https://x.com/i/status/2026797554646814973"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2026797554646814973"
+created: "2026-02-25"
+updated: "2026-06-26"
+sha256: "1ccc8e05146cf58ee0b1b7062d1e1f96e7ad9d9cfb9b2598afe58759011a545c"
+sources:
+  - "/sources/news/2026-02-26/00__BlueJay87476298__perplexity-推出云端一体化平台-perplexity-computer.md"
 ---
 
 # Perplexity 推出云端一体化平台 Perplexity Computer

@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "上交阿里等联合推出OPUS：每步动态精选训练数据，LLM预训练进入「按需供给」时代"
 description: "**【一句话核心判断】**  LLM预训练数据选择从「全量灌入」进化到「智能按需」，OPUS提出每步动态精选最高影响力数据的原则性方法，ICML Oral认可。  **信息增量：** - 传统预训练是暴力全量数据，OPUS在每个训练迭代动态选择最impactful的数据 - 来自上交、阿里、UW-Madison、UIUC、Mila魁北克AI研究所的联合成果 - 提出了continuous data"
 resource: "https://x.com/i/status/2058478937936994611"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2058478937936994611"
+created: "2026-05-24"
+updated: "2026-06-26"
+sha256: "a0d8bd4065215773d2c49c3bf6303ee514f794830d017a13680c6f2a75510aa7"
+sources:
+  - "/sources/news/2026-05-24/00__jiqizhixin__上交阿里等联合推出opus-每步动态精选训练数据-llm预训练进入-按需供给-时代.md"
 ---
 
 # 上交阿里等联合推出OPUS：每步动态精选训练数据，LLM预训练进入「按需供给」时代

@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "宝玉用 GPT Image 2 生成「奥特曼大战葫芦娃」绘本：AI 图像生成已进入中国 IP 混搭的病毒传播阶段"
 description: "**当 AI 图像生成开始服务「文化混搭」而非「技术炫技」，意味着工具已经过了可用性拐点。**  - 宝玉用 GPT Image 2 的手绘绘本风格 prompt，生成了奥特曼大战葫芦娃的多页故事 - 两个经典 IP 的跨界本身就是社交货币——技术细节不重要，创意组合才是传播引擎 - 从 prompt 结构看，GPT Image 2 已能稳定控制「水粉+彩铅+蜡笔」的混合画风  gakki 锐评："
 resource: "https://x.com/i/status/2051128173996257485"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2051128173996257485"
+created: "2026-05-04"
+updated: "2026-06-26"
+sha256: "0c435b0de909f5021c1085481f88d063703b394a1df661f41466c908e739cb98"
+sources:
+  - "/sources/news/2026-05-04/00__dotey__宝玉用-gpt-image-2-生成-奥特曼大战葫芦娃-绘本-ai-图像生成已进入中国-ip-混搭的病毒传播阶段.md"
 ---
 
 # 宝玉用 GPT Image 2 生成「奥特曼大战葫芦娃」绘本：AI 图像生成已进入中国 IP 混搭的病毒传播阶段

@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "生态收口：OpenClaw 创始人 Peter Steinberger 正式加入 OpenAI"
 description: "**[核心逻辑]** OpenClaw (小龙虾) 创始人宣布归顺 OpenAI，将负责推动下一代个人智能体开发。 - 创始人博客确认：OpenClaw 转为基金会运营，保持开源与独立，OpenAI 提供持续支持。 - 战略转折：曾自掏腰包数万美金维持项目，最终选择 OpenAI 是为了“造出连我妈都能用的智能体”。  [gakki 锐评：与其说这是并购，不如说是“投诚”。A 社发律师函，O 社送"
 resource: "https://x.com/i/status/2023155160248385905"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2023155160248385905"
+created: "2026-02-15"
+updated: "2026-06-26"
+sha256: "8e89da3a8b113efe8458a6cf6a6acf44f294db2529528590d3e606f2a4f7b812"
+sources:
+  - "/sources/news/2026-02-16/00__dotey__生态收口-openclaw-创始人-peter-steinberger-正式加入-openai.md"
 ---
 
 # 生态收口：OpenClaw 创始人 Peter Steinberger 正式加入 OpenAI

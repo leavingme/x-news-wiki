@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "2天复刻Claude Cowork：开源AI劳动力的「离线平权」时刻"
 description: "**本地即主权：AI劳动力正在从云端回归设备**  accomplish 这款开源工具的核心意义不是「复刻」，而是它验证了一条路径——AI Agent 可以完全在本地运行，不需要任何 API Key、不需要注册、不需要网络。文件留在本地，离线也能执行任务。这与「把AI劳动力真正掌握在自己手里」的叙事结合，意味着AI能力正在经历一次「平民化跃迁」：从需要依赖平台转向依赖设备本身。  这对于「AI替代"
 resource: "https://x.com/i/status/2039197509969756189"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2039197509969756189"
+created: "2026-04-01"
+updated: "2026-06-26"
+sha256: "97479118206872e4668a6cdfce5f68675c86519225dc578de2feb0ca17b45ed8"
+sources:
+  - "/sources/highlights/2026-04-01/00__IndieDevHailey__2天复刻claude-cowork-开源ai劳动力的-离线平权-时刻.md"
 ---
 
 # 2天复刻Claude Cowork：开源AI劳动力的「离线平权」时刻

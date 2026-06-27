@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "宝玉顺手做了 baoyu-design skill：测试即产出的 Skill 流水线"
 description: "**宝玉在测试中顺手产出一个 baoyu-design skill，从需求到发布仍走「测试即产出」节奏。**  - baoyu-skills 体系继续扩张：design skill 补齐可视化设计/排版的可复用能力 - 延续宝玉一贯的「测试顺手做、发现可用就发」路径，降低 Skill 的发布摩擦 - 与 dbskill、long-form-illustrator 等形成 baoyu Skill 矩"
 resource: "https://x.com/i/status/2067288835520692455"
@@ -22,6 +22,13 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "dbskill-formula-marketplace"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2067288835520692455"
+created: "2026-06-17"
+updated: "2026-06-26"
+sha256: "20741c1d000f435550f3af3481d219fea8f3352150889915e8d65f82c013a738"
+sources:
+  - "/sources/news/2026-06-17/00__dotey__宝玉顺手做了-baoyu-design-skill-测试即产出的-skill-流水线.md"
 ---
 
 # 宝玉顺手做了 baoyu-design skill：测试即产出的 Skill 流水线

@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "GitHub稳定性危机正在孕育AI时代Git服务的超级机会"
 description: "**一句话核心判断：GitHub 在 AI 时代的基建地位与其实际服务能力之间出现了结构性裂缝，这为替代平台打开了窗口。**  Ghostty 负责人的离开不是情绪化吐槽，而是基于数据的判断：Actions/PR/Issues 等配套服务频繁故障，已影响代码评审和 CI 合并流程。他每天有提交、重度使用 GitHub——这类用户流失信号最强。  关键数据：5 万粉丝的重度用户迁移成本极高，但他认为"
 resource: "https://x.com/i/status/2049320408881709464"
@@ -22,6 +22,13 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "ai-platform-integration-risk"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2049320408881709464"
+created: "2026-04-29"
+updated: "2026-06-26"
+sha256: "85978eb3f1d7762ee3d189e136546a6fa12793744cf160d2fd36cea1299da660"
+sources:
+  - "/sources/highlights/2026-04-29/00__op7418__github稳定性危机正在孕育ai时代git服务的超级机会.md"
 ---
 
 # GitHub稳定性危机正在孕育AI时代Git服务的超级机会

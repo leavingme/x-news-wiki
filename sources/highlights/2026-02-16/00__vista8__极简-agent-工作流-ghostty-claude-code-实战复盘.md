@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "极简 Agent 工作流：Ghostty + Claude Code 实战复盘"
 description: "**[核心逻辑]** 揭秘 OpenClaw 作者 Peter Steinberger 的主力开发组合。 - 核心配置：抛弃 Zed 终端，回归 Ghostty，配合大分辨率屏幕同时监控 4 个 Claude Code 窗口。 - 进阶技巧：删除所有 MCP 插件以保证上下文纯净，优先使用 CLI 工具（Vercel, PSQL）提高 AI 执行效率。"
 resource: "https://x.com/i/status/2023187723528679578"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2023187723528679578"
+created: "2026-02-16"
+updated: "2026-06-26"
+sha256: "03db3c9023d5527a0b2ed73fd7c16d092e461a797290912331bf68a882aa5254"
+sources:
+  - "/sources/highlights/2026-02-16/00__vista8__极简-agent-工作流-ghostty-claude-code-实战复盘.md"
 ---
 
 # 极简 Agent 工作流：Ghostty + Claude Code 实战复盘

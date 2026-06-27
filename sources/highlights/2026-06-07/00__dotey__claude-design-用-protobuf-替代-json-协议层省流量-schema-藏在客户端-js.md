@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Claude Design 用 Protobuf 替代 JSON：协议层省流量，schema 藏在客户端 JS"
 description: "**宝玉披露 Claude Design 与服务器通信采用 Protocol Buffers 而非 JSON，传输更省、更快；schema 仅存于客户端 JS，可作为协议逆向入口。**  • 架构选择：二进制序列化替代文本 JSON，传输效率显著提升 • 封闭性：协议无 schema 公开，普通用户难以观察通信内容 • 逆向路径：客户端 JS 保留 schema，是少有的协议层分析样本  设计工具"
 resource: "https://x.com/i/status/2063480178362224725"
@@ -22,6 +22,13 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "claude-design-disruption"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2063480178362224725"
+created: "2026-06-07"
+updated: "2026-06-26"
+sha256: "f2307e4fdce6e35c52181d7e53532e95fca5ebae93ca5c1b4e359d477d7c8fd0"
+sources:
+  - "/sources/highlights/2026-06-07/00__dotey__claude-design-用-protobuf-替代-json-协议层省流量-schema-藏在客户端-js.md"
 ---
 
 # Claude Design 用 Protobuf 替代 JSON：协议层省流量，schema 藏在客户端 JS

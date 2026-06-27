@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "天策戳破创业幻觉：多数人用「缺本金」掩盖「不会卖」"
 description: "**【一句话核心判断】**  真正的创业壁垒不是资本门槛，而是找到第一个愿意付钱的人——这句话把创业去神秘化，同时揭穿了大多数人用\"缺钱\"作为借口回避核心能力缺失的心理防御机制。  **信息增量：** - 列举了6个常见误区：租办公室/招团队/注册公司/做APP/囤货/包装品牌——这些都是幻觉起点 - 真正需要的5件事：找有现金流领域 → 找到真实需求 → 最低成本可交付 → 找第一个付费用户 →"
 resource: "https://x.com/i/status/2058956289607078261"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2058956289607078261"
+created: "2026-05-25"
+updated: "2026-06-26"
+sha256: "0e11eb3a43b05a03a03363d44472640f99c74e38b1eab4c1745b5c2bbfbcf640"
+sources:
+  - "/sources/news/2026-05-25/00__Leobai825__天策戳破创业幻觉-多数人用-缺本金-掩盖-不会卖.md"
 ---
 
 # 天策戳破创业幻觉：多数人用「缺本金」掩盖「不会卖」

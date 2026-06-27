@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "OmniDocBench v1.5 文档解析新模型：以93%准确率超DeepSeek-OCR基线6个点"
 description: "**单条推文披露的文档解析模型在 OmniDocBench v1.5 上拿到93%准确率，比 DeepSeek-OCR 基线高6个百分点，主打单次处理数百页文档且不丢速度。**  - 关键增量：OmniDocBench v1.5 是该领域较受关注的评测基准，新模型在此拿下93%、相对 DeepSeek-OCR +6 的差距，属明确能力信号。 - 覆盖能力：单次解析\"数百页文档\"，并强调速度不掉——"
 resource: "https://x.com/i/status/2069630326641758518"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2069630326641758518"
+created: "2026-06-24"
+updated: "2026-06-26"
+sha256: "b6c11b825a1748bb163fb1dc267eb8e2a11d5b409e594f13bcfd6bd06d23757d"
+sources:
+  - "/sources/news/2026-06-24/00__xiaohu__omnidocbench-v1-5-文档解析新模型-以93-准确率超deepseek-ocr基线6个点.md"
 ---
 
 # OmniDocBench v1.5 文档解析新模型：以93%准确率超DeepSeek-OCR基线6个点

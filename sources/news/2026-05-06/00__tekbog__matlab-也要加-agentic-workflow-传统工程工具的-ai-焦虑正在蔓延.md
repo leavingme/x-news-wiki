@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "MATLAB 也要加 Agentic Workflow：传统工程工具的 AI 焦虑正在蔓延"
 description: "**一位工程师吐槽「在 MATLAB 里加 agentic workflows 感觉很不神圣」——这种不适感恰恰说明 AI Agent 正在渗透到最保守的工程工具链。**  - MATLAB 代表的是传统工程/科研领域，这个群体对「AI 化」的接受度最低 - 当连 MATLAB 都在追 Agent 概念时，说明 AI 工具化已经过了「要不要做」的阶段，进入「怎么做好」 - 工程师的「unholy "
 resource: "https://x.com/tekbog/status/2051741454348013994"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "ai-trend-digest"
+type_okf: "X Tweet"
+source_url: "https://x.com/tekbog/status/2051741454348013994"
+created: "2026-05-05"
+updated: "2026-06-26"
+sha256: "a0634284b49eb49e1f87f34e30d3500d96048fe171d8b60b0ea7b20eaec791fd"
+sources:
+  - "/sources/news/2026-05-06/00__tekbog__matlab-也要加-agentic-workflow-传统工程工具的-ai-焦虑正在蔓延.md"
 ---
 
 # MATLAB 也要加 Agentic Workflow：传统工程工具的 AI 焦虑正在蔓延

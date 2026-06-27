@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "GPT 5.5 性价比被喊出「无出其右」：模型定价战的信号还是噪音？"
 description: "**GPT 5.5 的性价比叙事正在形成社区共识，但缺乏硬数据支撑。**  - Orange AI 直接喊出「没有比 GPT 5.5 性价比更高的模型」，措辞极端但指向明确 - 这类判断通常基于 token 价格 × 能力的综合评估，暗示 OpenAI 在定价策略上可能有激进动作 - 但作为纯观点输出，缺乏具体 benchmark 或价格对比数据  gakki 锐评：「性价比之王」的判断需要场景锚"
 resource: "https://x.com/i/status/2052497941672419638"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2052497941672419638"
+created: "2026-05-07"
+updated: "2026-06-26"
+sha256: "b9909f2bd3348651b2ff10d5a3f295c7df2028ab98d2290cba85503738c7ba9f"
+sources:
+  - "/sources/news/2026-05-07/00__oran_ge__gpt-5-5-性价比被喊出-无出其右-模型定价战的信号还是噪音.md"
 ---
 
 # GPT 5.5 性价比被喊出「无出其右」：模型定价战的信号还是噪音？

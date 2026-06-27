@@ -1,5 +1,5 @@
 ---
-type: "Author"
+type: "entity"
 title: "Tradinator (@Tradinator33)"
 description: "X/Twitter 作者 @Tradinator33。共收录 1 条 AI 精选推文。"
 tags:
@@ -12,6 +12,12 @@ x_author_name: "Tradinator"
 x_tweet_count: 1
 x_first_seen: "2026-03-12T00:42:31.394Z"
 x_last_seen: "2026-03-12T00:42:31.394Z"
+type_okf: "Author"
+created: "2026-03-12"
+updated: "2026-06-26"
+sha256: "1f081accd1d38e920e49ff55b6a9fc7f154f935a9ce939802b5ceb20d875ee19"
+sources:
+  - "/sources/highlights/2026-03-12/85__Tradinator33__crypto-agent的幻觉危机-heu用一份skill-md实现70-工具调用削减.md"
 ---
 
 # Tradinator (@Tradinator33)

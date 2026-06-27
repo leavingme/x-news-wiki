@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "宝玉：测试重要，但谁来测试在领导眼里没那么重要——技术债务积累的根源性认知"
 description: "**[一句话核心判断]** 这句话的洞察在于：领导层对\"测试\"的理解停留在\"有没有\"而非\"谁来测\"，是工程团队质量下滑的元叙事。  **信息增量：** - 技术判断 vs 管理判断的错位：领导认为只要有测试动作就算完成，质量意识缺位 - 映射到 AI 编程场景：AI 生成代码如果没有严格测试覆盖，技术债务积累速度会比人工编码快一个数量级 - 对应了之前\"AI工程纪律瓶颈\"的讨论——测试覆盖是真实门"
 resource: "https://x.com/i/status/2061474553591734548"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2061474553591734548"
+created: "2026-06-01"
+updated: "2026-06-26"
+sha256: "acf7d3bf74641c23013bef11ad50834400157142cc9be3f5b50be3f5ba249f4c"
+sources:
+  - "/sources/news/2026-06-01/00__dotey__宝玉-测试重要-但谁来测试在领导眼里没那么重要-技术债务积累的根源性认知.md"
 ---
 
 # 宝玉：测试重要，但谁来测试在领导眼里没那么重要——技术债务积累的根源性认知

@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "字节火山全家桶：Seedance 2.5 单挑 Sora，AI 版权分成平台撕开 C 端变现口"
 description: "**字节火山大会一次性甩出视频+图像+版权三件套，AI 内容工业化进入\"短链路分成\"阶段。**  - Seedance 2.5 一次直出 30 秒、原生 4K、50 路参考素材、3D 白模——视频生成首次正面卡位\"工业可用\" - 配套发布 AI 版权商业化平台，官方 IP 分成机制直接撕开 C 端变现口子 - 与豆包 2.1 Pro（对标 Opus 4.6）、Seeddream 5.0 同日发布，"
 resource: "https://x.com/i/status/2069267306182762907"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2069267306182762907"
+created: "2026-06-23"
+updated: "2026-06-26"
+sha256: "f0ccab0bde2b71c9591b4e0a6cbb38a740640e273c2963c65425513377521e18"
+sources:
+  - "/sources/highlights/2026-06-23/00__xiaohu__字节火山全家桶-seedance-2-5-单挑-sora-ai-版权分成平台撕开-c-端变现口.md"
 ---
 
 # 字节火山全家桶：Seedance 2.5 单挑 Sora，AI 版权分成平台撕开 C 端变现口

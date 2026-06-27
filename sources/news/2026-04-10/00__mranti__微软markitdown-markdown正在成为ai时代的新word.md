@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "微软MarkItDown：Markdown正在成为AI时代的新Word"
 description: "**[微软推出文件转Markdown工具——格式战争的终局不是PDF，是纯文本]**  微软发布MarkItDown工具，将各类文件格式统一转换为Markdown。这意味着继HTML之后，Markdown成为AI时代信息交换的通用层——AI能读Markdown，AI能写Markdown，Markdown是唯一能让AI和人类都「读得舒服」的格式。  这不是微软的选择，是整个AI行业基础设施演进的必然"
 resource: "https://x.com/i/status/1868495003464687619"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/1868495003464687619"
+created: "2024-12-16"
+updated: "2026-06-26"
+sha256: "8405980306bf7eb4f69b680f37e7b542b235bce4658b7250ad460236ba27a87d"
+sources:
+  - "/sources/news/2026-04-10/00__mranti__微软markitdown-markdown正在成为ai时代的新word.md"
 ---
 
 # 微软MarkItDown：Markdown正在成为AI时代的新Word

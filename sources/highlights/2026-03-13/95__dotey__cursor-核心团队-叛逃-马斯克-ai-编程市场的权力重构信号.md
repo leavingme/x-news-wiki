@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Cursor 核心团队「叛逃」马斯克：AI 编程市场的权力重构信号"
 description: "**[当产品灵魂人物集体出走，Cursor 的高增长神话面临真实考验]**  • Cursor 工程与产品双负责人跳槽 xAI，直接向马斯克汇报，从零搭建 AI 编程产品——这意味着 xAI 正式入局 AI Coding 赛道，手握 10 万张 H100 却缺「从 0 到 1」产品能力的历史缺口被补上 • AI 编程市场规模已超 50 亿美元（Cursor 20 亿、Claude Code 25 "
 resource: "https://x.com/i/status/2032242549574758636"
@@ -22,6 +22,13 @@ x_selected: 2
 x_priority: 95
 x_related_topic: "ai-talent-flight"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2032242549574758636"
+created: "2026-03-12"
+updated: "2026-06-26"
+sha256: "232a25363fcc58e036c082bcf50051385c23123c9d4d480c007b81371ab10a8e"
+sources:
+  - "/sources/highlights/2026-03-13/95__dotey__cursor-核心团队-叛逃-马斯克-ai-编程市场的权力重构信号.md"
 ---
 
 # Cursor 核心团队「叛逃」马斯克：AI 编程市场的权力重构信号

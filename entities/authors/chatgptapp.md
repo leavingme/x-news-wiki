@@ -1,5 +1,5 @@
 ---
-type: "Author"
+type: "entity"
 title: "ChatGPT (@ChatGPTapp)"
 description: "X/Twitter 作者 @ChatGPTapp。共收录 1 条 AI 精选推文。"
 tags:
@@ -12,6 +12,12 @@ x_author_name: "ChatGPT"
 x_tweet_count: 1
 x_first_seen: "2026-05-06T04:17:50.463Z"
 x_last_seen: "2026-05-06T04:17:50.463Z"
+type_okf: "Author"
+created: "2026-05-06"
+updated: "2026-06-26"
+sha256: "27a4c80799a1fb47a3c89b341d575c22ae03682fe0c315604c611892673dc4e4"
+sources:
+  - "/sources/highlights/2026-05-06/00__ChatGPTapp__gpt-5-5-驱动-chatgpt-入驻-excel-sheets-ai-agent-正在吞噬办公套件的入口层.md"
 ---
 
 # ChatGPT (@ChatGPTapp)

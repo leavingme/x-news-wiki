@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "SpaceX/Anthropic/OpenAI IPO狂潮：散户合法参与路径与泡沫风险的严肃拷问"
 description: "**[AI巨头IPO窗口临近，散户在泡沫前夜如何自处？]**  - SpaceX、Anthropic、OpenAI 均处于 IPO 前期或传闻阶段，预期将释放大量富豪阶层，但二级市场合法参与路径极为有限 - 核心矛盾：这些公司估值已高度政治化，一级市场定价与公开市场预期存在巨大信息不对称 - 参与方式讨论指向 ETF 间接持仓、pre-IPO 份额（合规门槛极高）、以及机构配售资格  AI 造富神"
 resource: "https://x.com/i/status/2059844611992846792"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2059844611992846792"
+created: "2026-05-28"
+updated: "2026-06-26"
+sha256: "888f2769d65e1f1129e3039898e1005da164cb519c11e5ddd475ca676acf99b1"
+sources:
+  - "/sources/news/2026-05-28/00__lxfater__spacex-anthropic-openai-ipo狂潮-散户合法参与路径与泡沫风险的严肃拷问.md"
 ---
 
 # SpaceX/Anthropic/OpenAI IPO狂潮：散户合法参与路径与泡沫风险的严肃拷问

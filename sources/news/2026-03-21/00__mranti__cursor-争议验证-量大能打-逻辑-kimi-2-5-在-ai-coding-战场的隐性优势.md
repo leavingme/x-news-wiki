@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Cursor 争议验证「量大能打」逻辑：Kimi 2.5 在 AI Coding 战场的隐性优势"
 description: "**[模型能力正在重塑工具选择标准]** • Cursor 近期授权风波引发开发者对「模型绑定」风险的重新审视 • Kimi 2.5 以「量大能打」的务实定位，成为反脆弱选择的代表 • 信号：AI Coding 工具竞争正从「IDE 体验」转向「底层模型自主可控性」  当工具方与模型方利益冲突时，开发者开始用脚投票。这不是 Cursor 的危机，而是整个「闭源工具+闭源模型」双绑定模式的信任裂缝。"
 resource: "https://x.com/i/status/2035190773650792783"
@@ -22,6 +22,13 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "ai-coding-licensing-dispute"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2035190773650792783"
+created: "2026-03-21"
+updated: "2026-06-26"
+sha256: "3842bea2ea5161a830fbb120cb1cf1771b49d02595dd238649b50f00745c7fe3"
+sources:
+  - "/sources/news/2026-03-21/00__mranti__cursor-争议验证-量大能打-逻辑-kimi-2-5-在-ai-coding-战场的隐性优势.md"
 ---
 
 # Cursor 争议验证「量大能打」逻辑：Kimi 2.5 在 AI Coding 战场的隐性优势

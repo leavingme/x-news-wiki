@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "GPT-Image-2.0 提示词在抖音走红：AI 工具从「生产工具」渗透为「社交货币」"
 description: "**当 AI 图像生成开始被用来晒照片而非做设计，它才真正进入了大众视野。**  - GPT-Image-2.0 的手绘标注提示词在抖音病毒式传播，用户为日常照片添加日系手写注解 - 这不是专业创作场景，而是社交分享场景——AI 工具普及的真正信号是无目的使用 - 提示词本身以开源方式在用户间自发传播，形成去中心化的内容生产范式  gakki 锐评：工具的终极形态是让人忘记它是工具。当 AI 图像"
 resource: "https://x.com/i/status/2050079838179135746"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2050079838179135746"
+created: "2026-05-01"
+updated: "2026-06-26"
+sha256: "b44f1117804d7a7c8df790aa1858396d3be3c35c0e69b5ab4a031835c35aa451"
+sources:
+  - "/sources/news/2026-05-01/00__op7418__gpt-image-2-0-提示词在抖音走红-ai-工具从-生产工具-渗透为-社交货币.md"
 ---
 
 # GPT-Image-2.0 提示词在抖音走红：AI 工具从「生产工具」渗透为「社交货币」

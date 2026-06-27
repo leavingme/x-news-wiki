@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "宝玉：ChatGPT 审美已掉队，Claude Design + Opus 4.8 成审美新默认"
 description: "**[宝玉直接站队：ChatGPT 审美不行，Claude Design + Opus 4.8 明显更好]** - 同一类设计需求下，ChatGPT 生成物的「AI 味」更重 - Claude Design 配合 Opus 4.8 在版式、留白、字体层级上更接近设计师直觉 - 来自 ChatGPT 高频用户的迁移表态，信号强度高于普通测评    gakki 锐评：当核心用户开始「用脚投票」时，审美"
 resource: "https://x.com/i/status/2067300175438078160"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2067300175438078160"
+created: "2026-06-17"
+updated: "2026-06-26"
+sha256: "74cc00337d3e43407a7ce8f73074095d4c4a4c96d4531f26e5ad2c67485695dc"
+sources:
+  - "/sources/news/2026-06-17/00__dotey__宝玉-chatgpt-审美已掉队-claude-design-opus-4-8-成审美新默认.md"
 ---
 
 # 宝玉：ChatGPT 审美已掉队，Claude Design + Opus 4.8 成审美新默认

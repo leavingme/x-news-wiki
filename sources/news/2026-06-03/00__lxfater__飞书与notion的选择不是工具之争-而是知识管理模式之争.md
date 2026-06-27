@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "飞书与Notion的选择不是工具之争，而是知识管理模式之争"
 description: "**[协作工具的选择本质是组织认知框架的外化]**  铁锤人的困扰揭示了一个普遍的企业工具迁移困境：飞书和Notion代表了两种截然不同的知识管理哲学——前者是过程导向的协作流，后者是卡片式的独立知识节点。  在AI时代，这个选择的影响被放大了：Notion的结构化块文档更利于RAG检索和上下文注入，而飞书的即时协作属性更利于动态知识生产。  gakki锐评：选飞书还是Notion没有标准答案，但"
 resource: "https://x.com/i/status/2062014417353797722"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2062014417353797722"
+created: "2026-06-03"
+updated: "2026-06-26"
+sha256: "44b93a958755a6ad76403e4edad3f9035fcf3bc73669a8f65429d38d447850d1"
+sources:
+  - "/sources/news/2026-06-03/00__lxfater__飞书与notion的选择不是工具之争-而是知识管理模式之争.md"
 ---
 
 # 飞书与Notion的选择不是工具之争，而是知识管理模式之争

@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "宝玉：多模型并行日常任务跑出体感，拒绝相信Benchmark的操盘手逻辑"
 description: "**实战派的宣言：Benchmark是给投资人看的，体感才是自己的**  知名技术KOL宝玉分享了他评估模型的真实方法：同一任务多个模型并行跑，用实际输出质量而非评分卡判断高下。这不是技术洁癖，是专业操盘手的风险管理逻辑。  当模型能力差距在特定任务上已经缩小到误差范围，\"谁在跑\"比\"谁更强\"更有价值。  gakki：宝玉的逻辑本质上说了一个事实——模型能力已经开始高度场景化。选模型不是选冠军，是"
 resource: "https://x.com/i/status/2060171663325458900"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2060171663325458900"
+created: "2026-05-29"
+updated: "2026-06-26"
+sha256: "ff223ca172f941bb583ca0b5fe0ad200503c8f31dad9f2a1b5387a8f91b15c2e"
+sources:
+  - "/sources/news/2026-05-29/00__dotey__宝玉-多模型并行日常任务跑出体感-拒绝相信benchmark的操盘手逻辑.md"
 ---
 
 # 宝玉：多模型并行日常任务跑出体感，拒绝相信Benchmark的操盘手逻辑

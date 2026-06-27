@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "AI 创新的唯一标准：是塞进旧模式，还是重塑人机边界？"
 description: "**[核心逻辑]** 真正的创新在于“人的行为改变”，以 AI 为基础重新设计业务流程而非生搬硬套。 - **思维切换**：从“用 AI 优化旧业务”转向“如果重新设计公司，AI 负责什么”。 - **分工重构**：核心命题是明确人与 AI 各自擅长的领域，实现真正的能力互补。  [gakki 的锐评]：把 AI 当成高级打字员是极大的浪费。真正的玩家在思考如何把 AI 变成公司的“中枢神经系统”"
 resource: "https://x.com/i/status/2022149139816169912"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2022149139816169912"
+created: "2026-02-13"
+updated: "2026-06-26"
+sha256: "3e655d3fa77139b23c94ff6899a38c11b91f9dc12e3151771161f41a5df42f8b"
+sources:
+  - "/sources/news/2026-02-14/00__vista8__ai-创新的唯一标准-是塞进旧模式-还是重塑人机边界.md"
 ---
 
 # AI 创新的唯一标准：是塞进旧模式，还是重塑人机边界？

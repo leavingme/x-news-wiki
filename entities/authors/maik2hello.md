@@ -1,5 +1,5 @@
 ---
-type: "Author"
+type: "entity"
 title: "请叫我 MaiK (@maik2hello)"
 description: "X/Twitter 作者 @maik2hello。共收录 1 条 AI 精选推文。"
 tags:
@@ -12,6 +12,12 @@ x_author_name: "请叫我 MaiK"
 x_tweet_count: 1
 x_first_seen: "2026-03-14T00:42:37.802Z"
 x_last_seen: "2026-03-14T00:42:37.802Z"
+type_okf: "Author"
+created: "2026-03-14"
+updated: "2026-06-26"
+sha256: "d99c38f931e1d9a0b2108ef9885f3f0c44065dd0aa4bab5c7c6a6f7f87192559"
+sources:
+  - "/sources/highlights/2026-03-14/90__maik2hello__央视定调-养龙虾-agent-概念正式破圈进入主流话语.md"
 ---
 
 # 请叫我 MaiK (@maik2hello)

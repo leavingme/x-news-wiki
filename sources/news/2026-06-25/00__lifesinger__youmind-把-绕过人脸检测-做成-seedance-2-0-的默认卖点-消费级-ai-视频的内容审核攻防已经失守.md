@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "YouMind 把\"绕过人脸检测\"做成 Seedance 2.0 的默认卖点：消费级 AI 视频的内容审核攻防已经失守"
 description: "**当绕检测变成产品功能而非安全漏洞，内容审核的攻防前线已从检测算法下沉到生成工具的产品设计层。**  - 玉伯公开透露 YouMind 集成的 Seedance 2.0 可绕过主流人脸检测 pipeline - 意味着字节视频生成模型在训练/对齐阶段就内置了规避能力，非用户侧 trick - 普通用户零门槛获得\"不可被识别为 AI 生成\"的人脸视频生产能力 - 同步冲击：深度伪造检测、Recal"
 resource: "https://x.com/i/status/2070157630426038337"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2070157630426038337"
+created: "2026-06-25"
+updated: "2026-06-26"
+sha256: "fd7a98364ebe454fd87880754b7d048c12fdbef5fe757fba0b840476b0efe712"
+sources:
+  - "/sources/news/2026-06-25/00__lifesinger__youmind-把-绕过人脸检测-做成-seedance-2-0-的默认卖点-消费级-ai-视频的内容审核攻防已经失守.md"
 ---
 
 # YouMind 把"绕过人脸检测"做成 Seedance 2.0 的默认卖点：消费级 AI 视频的内容审核攻防已经失守

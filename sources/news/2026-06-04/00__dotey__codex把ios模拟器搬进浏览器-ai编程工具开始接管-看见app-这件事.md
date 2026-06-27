@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Codex把iOS模拟器搬进浏览器：AI编程工具开始接管「看见App」这件事"
 description: "**【一句话核心判断】**  Codex新插件通过视频流传、神操控通道两条技术路径，把iOS模拟器画面实时投射到浏览器侧边栏——AI不只是读代码，它开始能「看见」并操控正在运行的App。  **【信息增量】**  • 技术原理：npm serve-sim持续截取iOS Simulator画面转为视频流（浏览器只做显示），同时建立控制通道将浏览器点击/拖动/输入换算为模拟器触摸坐标（浏览器是远程屏幕"
 resource: "https://x.com/i/status/2062629786283864504"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2062629786283864504"
+created: "2026-06-04"
+updated: "2026-06-26"
+sha256: "d281e9a802a6a1ef841acf0fff22aa3c5e5102d88157bd52d4496e55fb73ced6"
+sources:
+  - "/sources/news/2026-06-04/00__dotey__codex把ios模拟器搬进浏览器-ai编程工具开始接管-看见app-这件事.md"
 ---
 
 # Codex把iOS模拟器搬进浏览器：AI编程工具开始接管「看见App」这件事

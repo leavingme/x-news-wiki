@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "向阳乔木验证：飞书机器人互相@在技术上可行，办公Agent协作通道打开"
 description: "**一句话核心判断** 飞书Bot之间无法@的长期限制被kentzhu绕过，意味着多Agent协作在企业IM场景的通道障碍被实质性移除。  **要点：** - 飞书官方设计限制Bot之间不能互相@，但绕过方法已被发现并验证 - 向阳乔木确认该方法在飞书机器人本身可行，企业级Multi-Agent协作成为可能 - 这为飞书作为企业AI工作流中枢提供了关键底层支撑  **gakki锐评：** 这条看起"
 resource: "https://x.com/i/status/2056216662391836848"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2056216662391836848"
+created: "2026-05-18"
+updated: "2026-06-26"
+sha256: "6bb8de8b07147c958d21df11862b8c78fda88cee8f34f9396cdcc8b58a47e7d6"
+sources:
+  - "/sources/news/2026-05-18/00__vista8__向阳乔木验证-飞书机器人互相-在技术上可行-办公agent协作通道打开.md"
 ---
 
 # 向阳乔木验证：飞书机器人互相@在技术上可行，办公Agent协作通道打开

@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "dbskill 的流量方法论拆解：选题能力被 Skill 化后，「拍+发」成为唯一的执行门槛"
 description: "**dbskill 把「跟 AI 聊天」包装成流量获取 Skill，会聊天就能起号**  - 核心洞察：流量密码是「选题」，而选题能力可以被 dbskill（如 /dbs-chatroom）外置为 Skill - 论证链条：选题决定流量 → 选题能力可被 AI Skill 化 → 会用 dbskill 就能找到选题 → 拍+发就能拿到流量 - 隐含主张：所谓「提示词工程」「上下文工程」都是伪命题，"
 resource: "https://x.com/i/status/2059857191356731453"
@@ -22,6 +22,13 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "dbskill-formula-marketplace"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2059857191356731453"
+created: "2026-05-28"
+updated: "2026-06-26"
+sha256: "69968d5ba3fc7e7440a8e692cd0003e8c236dc4f56853d633cb49548b323211b"
+sources:
+  - "/sources/news/2026-06-24/00__dontbesilent__dbskill-的流量方法论拆解-选题能力被-skill-化后-拍-发-成为唯一的执行门槛.md"
 ---
 
 # dbskill 的流量方法论拆解：选题能力被 Skill 化后，「拍+发」成为唯一的执行门槛

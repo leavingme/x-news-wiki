@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "多角色聊天解决Context Management是伪命题——宝玉"
 description: "**[多角色聊天解决Context Management是低效甚至无效的方法]**  Context management领域存在一种误区，认为让不同角色参与聊天能有效解决上下文管理问题。宝玉直接指出这是「低效甚至无用的方法」——多角色对话并不能真正处理上下文，反而增加噪音和复杂度。  这一判断对当前Multi-Agent系统设计有重要警示意义：当开发者试图用「增加Agent数量」来弥补上下文管理"
 resource: "https://x.com/i/status/2059714974855974933"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2059714974855974933"
+created: "2026-05-27"
+updated: "2026-06-26"
+sha256: "e257f800475c209cfcd5dbf3ad92640b44a9514ff238b4dc0b297056f38d22db"
+sources:
+  - "/sources/news/2026-05-27/00__dotey__多角色聊天解决context-management是伪命题-宝玉.md"
 ---
 
 # 多角色聊天解决Context Management是伪命题——宝玉

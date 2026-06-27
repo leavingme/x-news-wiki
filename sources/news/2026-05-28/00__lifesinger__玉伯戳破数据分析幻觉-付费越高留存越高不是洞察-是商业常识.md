@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "玉伯戳破数据分析幻觉：付费越高留存越高不是洞察，是商业常识"
 description: "**[玉伯从 YouMind 多维数据分析中「顿悟」，发现付费越多的用户留存越高——随即自我否定：这是常识]**  这个从「东边分析到西边」得出的「重要规律」，本质上说明两件事：第一，数据分析在某些场景下是确认已知而非发现未知；第二，在工具已经极大降低分析门槛的时代，「分析能力」本身正在贬值，发现什么反而比怎么分析更重要。  这句话对 AI 时代的「数据驱动」信仰是一次温和的解构。"
 resource: "https://x.com/i/status/2060016950848426028"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2060016950848426028"
+created: "2026-05-28"
+updated: "2026-06-26"
+sha256: "b63b3ffba64879b636d867fe58434908c1e24f80ad4e188c9ff13ec4e8bfa8cc"
+sources:
+  - "/sources/news/2026-05-28/00__lifesinger__玉伯戳破数据分析幻觉-付费越高留存越高不是洞察-是商业常识.md"
 ---
 
 # 玉伯戳破数据分析幻觉：付费越高留存越高不是洞察，是商业常识

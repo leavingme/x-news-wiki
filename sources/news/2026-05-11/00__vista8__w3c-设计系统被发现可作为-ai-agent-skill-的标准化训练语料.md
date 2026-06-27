@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "W3C 设计系统被发现可作为 AI Agent Skill 的标准化训练语料"
 description: "**一套完整的 Web 组件规范，可能成为 AI Agent 学习「最佳实践」的低成本路径。**  - 向阳乔木在让 AI 开发界面功能时，发现 W3C 提供了从面包屑到 Footer 的完整设计系统规范 - 建议将这套规范封装为 AI Agent Skill，实现「全面学习后自动生成」 - 这与 SKILL.md 生态标准化的趋势不谋而合  gakki 锐评：设计系统的价值正在从「人类开发者参考"
 resource: "https://x.com/i/status/2053776047427211477"
@@ -22,6 +22,13 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "skills-ecosystem-standards"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2053776047427211477"
+created: "2026-05-11"
+updated: "2026-06-26"
+sha256: "a29f0a7ea16ae15aaaa984f0349c1042cd2becb5c1f1a697bfbb5c7335c5c6eb"
+sources:
+  - "/sources/news/2026-05-11/00__vista8__w3c-设计系统被发现可作为-ai-agent-skill-的标准化训练语料.md"
 ---
 
 # W3C 设计系统被发现可作为 AI Agent Skill 的标准化训练语料

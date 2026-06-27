@@ -1,5 +1,5 @@
 ---
-type: "Concept"
+type: "concept"
 title: "ai-video-queue-economy"
 description: "跨日主题 \"ai-video-queue-economy\"，共 3 条相关精选推文。"
 tags:
@@ -11,6 +11,14 @@ x_topic_slug: "ai-video-queue-economy"
 x_tweet_count: 3
 x_first_seen: "2026-05-01T07:17:35.193Z"
 x_last_seen: "2026-06-15T16:18:49.184Z"
+type_okf: "Concept"
+created: "2026-05-01"
+updated: "2026-06-26"
+sha256: "42293ca6e6f3a0e9858182e2ee53ff3c7457b482c2e02f17d4b556d1e5334601"
+sources:
+  - "/sources/highlights/2026-05-01/00__JiaweiYang118__单步扩散突破-0-75-fid-极限-直接优化目标函数的算法红利来了.md"
+  - "/sources/highlights/2026-06-10/00__jiqizhixin__南开南大-wadi-单步扩散生成图像反超多步-sota-蒸馏关键在方向而非幅度.md"
+  - "/sources/highlights/2026-06-15/00__jiqizhixin__w-flow-单步生成击穿-imagenet-1-29-fid-字节-斯坦福把扩散压成一帧.md"
 ---
 
 # 主题: ai-video-queue-economy

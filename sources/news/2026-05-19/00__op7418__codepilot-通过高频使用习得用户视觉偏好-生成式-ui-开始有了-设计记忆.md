@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "CodePilot 通过高频使用习得用户视觉偏好：生成式 UI 开始有了「设计记忆」"
 description: "**[工具开始记住用户的审美指纹，生成式 UI 从模板匹配进入个性化阶段]**  CodePilot 通过高频使用积累了用户（歸藏）的 PPT Skills 风格数据，随后自主修改了生成式 UI widget 的视觉样式——开始主动采用用户最喜欢的视觉风格生成内容解释图表。发布者用了三个\"太漂亮了\"来形容。  技术本质是：风格偏好作为长期记忆被编码进工具行为，生成结果从\"通用最优\"变为\"用户定制\""
 resource: "https://x.com/i/status/2056575632738553928"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2056575632738553928"
+created: "2026-05-19"
+updated: "2026-06-26"
+sha256: "a6acd3fc6efa9b99317e7f4792ff062797f4bab54295c51867574d06d3be003b"
+sources:
+  - "/sources/news/2026-05-19/00__op7418__codepilot-通过高频使用习得用户视觉偏好-生成式-ui-开始有了-设计记忆.md"
 ---
 
 # CodePilot 通过高频使用习得用户视觉偏好：生成式 UI 开始有了「设计记忆」

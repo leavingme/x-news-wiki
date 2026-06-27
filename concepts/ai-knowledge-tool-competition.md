@@ -1,5 +1,5 @@
 ---
-type: "Concept"
+type: "concept"
 title: "ai-knowledge-tool-competition"
 description: "跨日主题 \"ai-knowledge-tool-competition\"，共 18 条相关精选推文。"
 tags:
@@ -11,6 +11,29 @@ x_topic_slug: "ai-knowledge-tool-competition"
 x_tweet_count: 18
 x_first_seen: "2026-04-05T00:42:57.093Z"
 x_last_seen: "2026-06-23T04:18:27.292Z"
+type_okf: "Concept"
+created: "2026-04-05"
+updated: "2026-06-26"
+sha256: "6e49d6842c71b46e8a378e5739f9b8d45a09069c373bcd97c1a296ef31f2556b"
+sources:
+  - "/sources/highlights/2026-04-05/00__lifesinger__youmind-早已跑通-karpathy-的-ipo-知识库框架-玉伯-中国ai产品的-被低估-需要一个翻译过程.md"
+  - "/sources/highlights/2026-06-08/00__lifesinger__youmind-双口径月访问破百万-玉伯的-知识工具-路线撞到第一个规模验证点.md"
+  - "/sources/highlights/2026-06-08/00__lifesinger__玉伯判词-huxe-折戟证明品味不是护城河-知识工具赛道的死亡笔记.md"
+  - "/sources/highlights/2026-06-09/00__xiaohu__notebooklm-大改版-每个-notebook-变云端电脑-google-知识工具开始向-ai-操作系统-跃迁.md"
+  - "/sources/highlights/2026-06-12/00__lifesinger__玉伯亲自官宣-youmind-1-0-正式版发布-两年磨剑入局-ai-知识工具战.md"
+  - "/sources/highlights/2026-06-12/00__oran_ge__ai-k-型分化加剧-头部玩-agent-工程栈-大众只剩-能写代码-四个字.md"
+  - "/sources/highlights/2026-06-22/00__lifesinger__玉伯提前剧透-youmind-桌面端过几天发布-杀入-ai-知识工具主战场.md"
+  - "/sources/news/2026-04-28/00__lifesinger__玉伯-youmind-创业-非共识选择-知识工具赛道正在从工具层卷到认知层.md"
+  - "/sources/news/2026-04-29/00__lifesinger__玉伯回应-youmind-用户资产归属-认领机制与收益归还.md"
+  - "/sources/news/2026-05-13/00__vista8__百度大会聚餐上实测-kimi2-6和智谱glm5-1-turbo陪伴产品表现突出-其他国产模型指令遵循和缓存命中是硬伤.md"
+  - "/sources/news/2026-06-07/00__lifesinger__玉伯谈-youmind-的真正护城河-不是模型-是-清空工程知识-的产品克制.md"
+  - "/sources/news/2026-06-09/00__xiaohu__notebooklm-新版胜率反超旧版-15pp-长文档与联网检索是真提升还是评测幻觉.md"
+  - "/sources/news/2026-06-12/00__dotey__youmind-1-0-正式发布-宝玉祝贺背后-ai-知识工具赛道再添一员.md"
+  - "/sources/news/2026-06-12/00__lifesinger__玉伯押注-youmind-cto-做的-skill-让他觉得-不逊于专业金融-agent.md"
+  - "/sources/news/2026-06-12/00__vista8__youmind-1-0-正式发布-两年磨一剑-ai-知识工具赛道从-demo-进入正式赛.md"
+  - "/sources/news/2026-06-12/00__vista8__向阳乔木力挺-youmind-玉伯式-真实做产品-的两年用户侧验证.md"
+  - "/sources/news/2026-06-19/00__lifesinger__玉伯罕见用-终于-站台youmind促销-种草官招募-本土知识工具从拼技术转向拼运营.md"
+  - "/sources/news/2026-06-23/00__lifesinger__youmind接seed-2-1对标opus-4-6-知识工具赛道进入国产sota替代战.md"
 ---
 
 # 主题: ai-knowledge-tool-competition

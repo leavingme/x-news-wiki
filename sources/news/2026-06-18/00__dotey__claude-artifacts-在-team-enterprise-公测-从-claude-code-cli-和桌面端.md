@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Claude Artifacts 在 Team/Enterprise 公测：从 Claude Code CLI 和桌面端都能开"
 description: "**[Anthropic 把 Artifacts 从消费端拉到了企业订阅和 Claude Code CLI/桌面端，Agent 工作流的可分享交付面正在扩大]**  - Artifacts beta 已对 Claude Team / Enterprise 开放，触发入口覆盖 Claude Code CLI 和桌面 App - 生成的页面可在任意浏览器查看，意味着 Artifacts 不再是 Cha"
 resource: "https://x.com/i/status/2067708464424460673"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2067708464424460673"
+created: "2026-06-18"
+updated: "2026-06-26"
+sha256: "676d8517e535dbdb8e0382f5e9cf45f7ddf02ca4f4000f6072d4805ee60427b6"
+sources:
+  - "/sources/news/2026-06-18/00__dotey__claude-artifacts-在-team-enterprise-公测-从-claude-code-cli-和桌面端.md"
 ---
 
 # Claude Artifacts 在 Team/Enterprise 公测：从 Claude Code CLI 和桌面端都能开

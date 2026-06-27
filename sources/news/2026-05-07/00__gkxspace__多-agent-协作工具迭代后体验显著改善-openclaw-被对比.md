@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "多 Agent 协作工具迭代后体验显著改善：OpenClaw 被对比"
 description: "**当用户主动拿新产品和 OpenClaw 的多 Agent 协作对比并给出正面评价，说明工具成熟度跨越了可用性门槛。**  - 余温表示「比当时用 openclaw 的多 agent 协作好多了」，隐含一个未具名竞品的协作能力已有实质性提升 - 信息缺失：未明确是哪个产品，无法判断是框架层还是应用层的进步  **gakki 锐评：** 推文未点名具体产品，信息完整性不足。但「OpenClaw 作"
 resource: "https://x.com/i/status/2052379341573492749"
@@ -22,6 +22,13 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "multi-agent-framework-ecosystem-comparison"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2052379341573492749"
+created: "2026-05-07"
+updated: "2026-06-26"
+sha256: "c089e33a4d7283f1f44c07b73bd6b6119e524bdcce4cff512d18ab72bb34a473"
+sources:
+  - "/sources/news/2026-05-07/00__gkxspace__多-agent-协作工具迭代后体验显著改善-openclaw-被对比.md"
 ---
 
 # 多 Agent 协作工具迭代后体验显著改善：OpenClaw 被对比

@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "OpenCode 入口点藏着空 try/catch：AI 编程工具自己的代码债被照见"
 description: "**AI 编程工具的「工程洁癖」首次被反向质疑。**  开发者 thdxr 在 OpenCode 入口点发现一段空 try/catch 块，疑似在静默吞掉启动异常。  • 讽刺点：工具本身是给开发者用的，但它的入口代码却藏着最基础的代码异味 • 延伸信号：与近期 Claude Code 源码泄露、Codex 闭源讨论同属一条主线——AI Coding 工具的代码透明度与工程质量正在被社区用放大镜审"
 resource: "https://x.com/i/status/1966947080951542173"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/1966947080951542173"
+created: "2025-09-13"
+updated: "2026-06-26"
+sha256: "a5e39b2d0c01f19a068c73446176894ffddefea9f6821d33954b31c97f3a0907"
+sources:
+  - "/sources/news/2026-06-25/00__ischichan__opencode-入口点藏着空-try-catch-ai-编程工具自己的代码债被照见.md"
 ---
 
 # OpenCode 入口点藏着空 try/catch：AI 编程工具自己的代码债被照见

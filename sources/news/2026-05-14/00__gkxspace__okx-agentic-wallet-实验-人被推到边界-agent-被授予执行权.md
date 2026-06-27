@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "OKX Agentic Wallet 实验：人被推到边界，Agent 被授予执行权"
 description: "**OKX 交易赛暴露了人机分工的实质：人守边界，Agent 守执行。**  在 OKX Agentic Wallet 场景中，人类角色退化为\"设定策略、边界和停止条件\"——Agent 负责监控、触发、执行、记录。这不只适用于交易，而是投放、运营、客服、数据分析、供应链的通用分工模式。  真正值得观察的不是\"Agent 能做什么\"，而是\"人类必须守住哪一步\"。当 Agent 开始被授权行动，决策边"
 resource: "https://x.com/i/status/2054921392018051382"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2054921392018051382"
+created: "2026-05-14"
+updated: "2026-06-26"
+sha256: "9094b17e18b1bf17b54e61da7d3844a7322e3390de241749154335dfe73d902c"
+sources:
+  - "/sources/news/2026-05-14/00__gkxspace__okx-agentic-wallet-实验-人被推到边界-agent-被授予执行权.md"
 ---
 
 # OKX Agentic Wallet 实验：人被推到边界，Agent 被授予执行权

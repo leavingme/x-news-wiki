@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "「坏孩子浏览器」bb-browser：用 CDP 劫持真实浏览器，Agent 数据抓取的终极作弊器"
 description: "**不是无头浏览器，不是偷 Cookie，而是直接操控你的真实浏览器。**  • bb-browser 通过 Chrome 插件 + CDP（Chrome DevTools Protocol）直接在用户已登录的浏览器中执行 eval，绕过所有登录态和鉴权反爬机制 • 支持 Reddit、Twitter、GitHub、小红书、知乎、B站等 50+ 平台，将「已登录用户」变成 Agent 的数据接口 "
 resource: "https://x.com/i/status/2032858943874281782"
@@ -22,6 +22,13 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "agent-data-intelligence-infra"
 x_source: "bookmark"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2032858943874281782"
+created: "2026-03-14"
+updated: "2026-06-26"
+sha256: "658a227f5dfb7d534ef9906bb67557a7b0d5b00cae50adc7e71fc1242b06ffb6"
+sources:
+  - "/sources/news/2026-03-18/00__yan5xu__坏孩子浏览器-bb-browser-用-cdp-劫持真实浏览器-agent-数据抓取的终极作弊器.md"
 ---
 
 # 「坏孩子浏览器」bb-browser：用 CDP 劫持真实浏览器，Agent 数据抓取的终极作弊器

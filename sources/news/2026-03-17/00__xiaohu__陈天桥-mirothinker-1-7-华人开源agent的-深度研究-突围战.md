@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "陈天桥 MiroThinker-1.7：华人开源Agent的「深度研究」突围战"
 description: "**Agent 任务执行的深度与广度正在被重新定义** • MiroThinker-1.7 单任务支持最多 300 次工具调用（搜索→爬虫→摘要→再搜索的迭代闭环），远超常规 Agent 的 10-50 次调用上限 • 中文研究能力在开源模型中排名第一，H1 闭源版评分 88.2 登顶所有AI模型 • 技术路径：Google 搜索 + Jina 爬虫 + 小模型摘要的「模块化工具链」设计 • 商业"
 resource: "https://x.com/i/status/2033532696950169992"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2033532696950169992"
+created: "2026-03-16"
+updated: "2026-06-26"
+sha256: "b57bd8886ed6e1d5135f3dc81e10bc82e12de83b4d131900983f88fd148d7a0d"
+sources:
+  - "/sources/news/2026-03-17/00__xiaohu__陈天桥-mirothinker-1-7-华人开源agent的-深度研究-突围战.md"
 ---
 
 # 陈天桥 MiroThinker-1.7：华人开源Agent的「深度研究」突围战

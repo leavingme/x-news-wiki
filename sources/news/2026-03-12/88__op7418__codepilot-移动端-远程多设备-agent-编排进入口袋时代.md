@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "CodePilot 移动端：远程多设备 Agent 编排进入口袋时代"
 description: "**桌面 Agent 的移动端遥控器终于出现。**  • 支持同时控制多个桌面端 Code Pilot / Claude Code / Codex 实例，实现跨设备并发 • 桥接稳定性优于 Web 方案，可远程查看进度、切换模型与工作目录 • 把手机变成 Agent 群的「指挥塔」，填补了移动端入口的关键空白  这意味着 Agent 不再被绑死在工位前，随时随地的「轻量干预」成为可能。"
 resource: "https://x.com/i/status/2031766688279224511"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 88
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2031766688279224511"
+created: "2026-03-11"
+updated: "2026-06-26"
+sha256: "5e2561a959b4f6650d9dcd6a430c0d3a2ae5bd0f2d3c0e63aec928835fbd27ce"
+sources:
+  - "/sources/news/2026-03-12/88__op7418__codepilot-移动端-远程多设备-agent-编排进入口袋时代.md"
 ---
 
 # CodePilot 移动端：远程多设备 Agent 编排进入口袋时代

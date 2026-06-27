@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Claude Code 源码被写成 18 章书：又一次 100% AI 读代码的知识生产"
 description: "**[Claude Code 源码解读书籍出现，意味着什么]**  Claude Code 源码意外\"开源\"后，Github 出现几十个复刻版本，有人整理成 DeepWiki 风格文档，但把源码写成书的还是首次。18 章内容 100% 由 AI 生成后人工整理。  • 这验证了一个新范式：代码理解正在从「人读」迁移到「AI 生成结构化文档，人做验证」 • Claude Code 工程架构的复杂度（"
 resource: "https://x.com/i/status/2042888972678938753"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2042888972678938753"
+created: "2026-04-11"
+updated: "2026-06-26"
+sha256: "11e874b9c3064cc8ed64042d800654011d6072130903518c96d4de7cb96b0325"
+sources:
+  - "/sources/news/2026-04-16/00__shao__meng__claude-code-源码被写成-18-章书-又一次-100-ai-读代码的知识生产.md"
 ---
 
 # Claude Code 源码被写成 18 章书：又一次 100% AI 读代码的知识生产

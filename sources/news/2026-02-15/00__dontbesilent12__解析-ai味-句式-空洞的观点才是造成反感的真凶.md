@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "解析“AI味”句式：空洞的观点才是造成反感的真凶"
 description: "[核心逻辑] 以“不是 X，而是 Y”句式为例，分析为何 AI 写作常显生硬。 · 原因是用户没有提供足够深刻的预设观点，导致 AI 只能在通用认知里打转。 · 深刻的内容源于对观众原有认知的精准挑战。  [Gakki 的锐评]：AI 味其实是“文盲味”的 AI 翻译版。只要你的 Prompt 够深刻，AI 的表达就能直抵人心。👩🏻"
 resource: "https://x.com/i/status/2022886592411848805"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2022886592411848805"
+created: "2026-02-15"
+updated: "2026-06-26"
+sha256: "fcad0cc3fa705aee0bab12c6234597a4de8e164ba09c6e4fbe3d9b02c2b0f752"
+sources:
+  - "/sources/news/2026-02-15/00__dontbesilent12__解析-ai味-句式-空洞的观点才是造成反感的真凶.md"
 ---
 
 # 解析“AI味”句式：空洞的观点才是造成反感的真凶

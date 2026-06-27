@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Slock 正在把本地 AI CLI 变成协作式 Agent 工作流，Slack 的继任者来了？"
 description: "**[Slock 以 Thread 邀请本地 AI CLI 加入的方式，实现了多 Agent 协作的零门槛化]**  • **机制**：用户本地运行 Codex CLI、Claude Code、Gemini CLI 等工具，Slock 自动扫描接入，通过 Thread 邀请不同 Agent 加入同一个对话上下文，支持调用本地 Skill。 • **意义**：这是第一次有产品把「多 Agent 协作"
 resource: "https://x.com/i/status/2048993627356205167"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2048993627356205167"
+created: "2026-04-28"
+updated: "2026-06-26"
+sha256: "a06305e9892f231fc753a54b41074be2e89b5d120a53dff439bfaa786d704d75"
+sources:
+  - "/sources/news/2026-04-28/00__vista8__slock-正在把本地-ai-cli-变成协作式-agent-工作流-slack-的继任者来了.md"
 ---
 
 # Slock 正在把本地 AI CLI 变成协作式 Agent 工作流，Slack 的继任者来了？

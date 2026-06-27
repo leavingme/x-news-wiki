@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Agent 范式杀入目标检测:密集场景下'零漏数'从 PPT 指标变成工程现实"
 description: "**用'Agent 反复看 + 分区查'重做目标检测,在密集场景下首次把漏检/重数压到工业可用水平。**  传统检测模型在货架、卫星图车群、果园这种'几百目标挤一图'的场景里,扫一遍大概率漏一批或数重;新方案让 Agent 循环观察并分区核对,目标数再多也能逐一对上。  直接落地的商业场景:零售货架盘点、卫星遥感车辆统计、农业产量预估——这些过去靠人海战术或牺牲精度的场景,现在有了第二条路。  价"
 resource: "https://x.com/i/status/2066467118506537354"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2066467118506537354"
+created: "2026-06-15"
+updated: "2026-06-26"
+sha256: "ee59a20ccd721cd9caa1f7a14126d0847d8b3b1f4ec39bf77a0ff0ce51f25def"
+sources:
+  - "/sources/news/2026-06-15/00__xiaohu__agent-范式杀入目标检测-密集场景下-零漏数-从-ppt-指标变成工程现实.md"
 ---
 
 # Agent 范式杀入目标检测:密集场景下'零漏数'从 PPT 指标变成工程现实

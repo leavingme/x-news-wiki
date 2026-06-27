@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Cat Wu面试几百个PM后的灵魂拷问：AI产品经理到底该干什么？"
 description: "**[AI PM的核心职责根本不是做功能，而是定义「AI能做什么、边界在哪」]**  Cat Wu面试几百个PM候选人后发现：绝大多数人答不上来这个问题。传统PM擅长需求分析、项目管理、跨部门协调，但这些在AI Native时代正在被工具替代。AI PM真正的稀缺能力是——判断AI现在能可靠地完成什么任务、在什么边界外会失控，以及如何设计人机协同流程让AI的不可靠性不伤害产品体验。  这暴露了一个"
 resource: "https://x.com/i/status/2047537778959778209"
@@ -22,6 +22,13 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "product-manager-role-shift"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2047537778959778209"
+created: "2026-04-24"
+updated: "2026-06-26"
+sha256: "61ae9e10779aca54b245005643e3b6a5dc315ba3a485f061b6feb254770c26e7"
+sources:
+  - "/sources/highlights/2026-04-24/00__dotey__cat-wu面试几百个pm后的灵魂拷问-ai产品经理到底该干什么.md"
 ---
 
 # Cat Wu面试几百个PM后的灵魂拷问：AI产品经理到底该干什么？

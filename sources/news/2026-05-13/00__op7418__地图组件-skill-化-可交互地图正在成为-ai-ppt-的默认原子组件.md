@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "地图组件 Skill 化：可交互地图正在成为 AI PPT 的默认原子组件"
 description: "**[ 地理信息组件化代表 AI 内容原子单元的又一次细化]**  鐵錘人紧接着将地图组件 Skill 化：支持放大缩小、拖动、AI 任意标记，并在 Skills 生态里流通。这意味着地图交互能力不再需要定制开发，而是可以一键装配到任何 AI 助手的 PPT 技能里。  结合上一条，地理信息正在从\"一次性定制\"变成\"可复用组件\"，与知识管理领域的 Skill 市集逻辑同构——组件越细、流通性越强，"
 resource: "https://x.com/i/status/2054433146532479266"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2054433146532479266"
+created: "2026-05-13"
+updated: "2026-06-26"
+sha256: "681141774fc3f131382d66176d83784288964d77b8ca54e0c60d395c1b11612e"
+sources:
+  - "/sources/news/2026-05-13/00__op7418__地图组件-skill-化-可交互地图正在成为-ai-ppt-的默认原子组件.md"
 ---
 
 # 地图组件 Skill 化：可交互地图正在成为 AI PPT 的默认原子组件

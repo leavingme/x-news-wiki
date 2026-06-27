@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Multica：把 AI Agent 升格为「一等公民」的任务协作平台"
 description: "**【AI 团队协作孤岛终有解：Agent 首次被纳入任务管理主体】**  Multica 解决了一个根本性错位：coding agent 的上下文散落在各自 session 里，团队知识变成孤岛，协作全靠口口相传。  核心机制：像分配任务给同事一样分配 issue 给 agent，agent 自动领取、本地执行、提交结果、更新状态，所有人实时在同一看板可见。  关键变化：这是首次有工具把「人 +"
 resource: "https://x.com/i/status/2039241051605791028"
@@ -22,6 +22,13 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "agent-native-paradigm"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2039241051605791028"
+created: "2026-04-01"
+updated: "2026-06-26"
+sha256: "c289e546d64b713f5964da69be42f0ed314d02baf63a3588f3f05a7ddec4e867"
+sources:
+  - "/sources/highlights/2026-04-06/00__jiayuan_jy__multica-把-ai-agent-升格为-一等公民-的任务协作平台.md"
 ---
 
 # Multica：把 AI Agent 升格为「一等公民」的任务协作平台

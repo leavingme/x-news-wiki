@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "YouMind 作图工具推出多款专属 Skill"
 description: "**[核心逻辑]** 创意工具通过 Skill 化进一步融入 Agent 调度生态。  - 社区开发者为 YouMind 画图工具贡献了一系列适配的 Agent Skill。 - 提升了其在自动化工作流中的调用便捷性。  [gakki 的锐评] 当每一个独立工具都被包装成了标准化接口，AI 助理能调用的画笔就越来越丰富了。"
 resource: "https://x.com/i/status/2026669543494660318"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2026669543494660318"
+created: "2026-02-25"
+updated: "2026-06-26"
+sha256: "8b58ac10cb42c159f01200dd6a082e9ffc579ebf720e70d67db60ee7814cdea4"
+sources:
+  - "/sources/news/2026-02-26/00__lifesinger__youmind-作图工具推出多款专属-skill.md"
 ---
 
 # YouMind 作图工具推出多款专属 Skill

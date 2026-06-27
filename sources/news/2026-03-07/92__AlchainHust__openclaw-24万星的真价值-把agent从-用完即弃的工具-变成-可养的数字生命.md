@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "OpenClaw 24万星的真价值：把Agent从「用完即弃的工具」变成「可养的数字生命」"
 description: "**Claude Code与OpenClaw并非竞品，而是两条路径。**  - CC定位是「代码仓库的终端助手」，OpenClaw定位是「数字生活的常驻管家」 - Soul.md人格定义 + Memory.md偏好记忆 + Heartbeat持续在线，构建了可感知的「养成系」体验 - 真正的突破不是技术代差，而是把Agent的可配置权交还给普通人  ---  **gakki锐评：** OpenCl"
 resource: "https://x.com/i/status/2029832852528058502"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 92
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2029832852528058502"
+created: "2026-03-06"
+updated: "2026-06-26"
+sha256: "51b00d2ba03904e79d017bb695a2d848b75bd276a43fd23bd67dffb0376acc24"
+sources:
+  - "/sources/news/2026-03-07/92__AlchainHust__openclaw-24万星的真价值-把agent从-用完即弃的工具-变成-可养的数字生命.md"
 ---
 
 # OpenClaw 24万星的真价值：把Agent从「用完即弃的工具」变成「可养的数字生命」

@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "xiaolai的self-talk戒断法：潜意识劫持背后的「神经可塑性商业化」"
 description: "[用「身份认同」替代「意志力」，这是认知科学的产品化]  xiaolai通过self-talk劫持潜意识，戒掉了烟、咖啡、碳水。方法论内核：不说「我要戒烟」，而是说「I'm a person who never smoke because it stinks」——把行为描述换成身份认同，让潜意识接受「我就是这样的人」。  这个方法论的价值在于它可迁移：任何习惯养成或戒断，本质都是「在潜意识的循环里"
 resource: "https://x.com/i/status/2038401647546950061"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2038401647546950061"
+created: "2026-03-29"
+updated: "2026-06-26"
+sha256: "32e6f58f5ee0a8796bddda92e3ac9b2f7f41c2b316a1fb32be5a56bc09580642"
+sources:
+  - "/sources/news/2026-03-30/00__oran_ge__xiaolai的self-talk戒断法-潜意识劫持背后的-神经可塑性商业化.md"
 ---
 
 # xiaolai的self-talk戒断法：潜意识劫持背后的「神经可塑性商业化」

@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "提示词优化大师 Skill 收获 6k Star：Prompt Engineering 正在工具化和场景碎片化"
 description: "**提示词优化不再是通用技能，而是按工具链和场景分化的专业能力包。**  - 该 Skill 区分了 Claude Code 与 Cursor、Midjourney 与其他生图工具的不同提示词策略，承认了「一个 Prompt 打天下」时代的终结。 - 6k+ Star 说明社区对结构化 Prompt 知识的刚需——这不再是玄学，而是可复用的工程资产。 - 纯文本 Skill 形态意味着低门槛分发，"
 resource: "https://x.com/i/status/2049414122404819018"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2049414122404819018"
+created: "2026-04-29"
+updated: "2026-06-26"
+sha256: "bf6c2fe0f9e1d91be23d8dedeb257472dd0d98c0b86ea68ab329f337dc69c730"
+sources:
+  - "/sources/news/2026-04-29/00__vista8__提示词优化大师-skill-收获-6k-star-prompt-engineering-正在工具化和场景碎片化.md"
 ---
 
 # 提示词优化大师 Skill 收获 6k Star：Prompt Engineering 正在工具化和场景碎片化

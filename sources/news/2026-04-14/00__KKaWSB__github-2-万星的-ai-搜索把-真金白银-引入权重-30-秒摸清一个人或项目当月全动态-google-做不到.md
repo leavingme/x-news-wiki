@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "GitHub 2 万星的 AI 搜索把「真金白银」引入权重：30 秒摸清一个人或项目当月全动态，Google 做不到"
 description: "**[社媒情报聚合搜索正在颠覆竞争情报的获取方式]**  一款由 AI 代理驱动的搜索引擎已获 2 万 + GitHub Stars，核心创新在于搜索权重评分逻辑：依据点赞、转发和「真金白银」（推测为 Polymarket 押注量），而非编辑人工评分。/last30days 命令可同时检索 Reddit、X、YouTube、TikTok、Hacker News 和 Polymarket，30 秒内"
 resource: "https://x.com/i/status/2043532376681087267"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2043532376681087267"
+created: "2026-04-13"
+updated: "2026-06-26"
+sha256: "19439bbbe921bb06e438f150fc5272084e86d3e1190b1d81036d480ee155f435"
+sources:
+  - "/sources/news/2026-04-14/00__KKaWSB__github-2-万星的-ai-搜索把-真金白银-引入权重-30-秒摸清一个人或项目当月全动态-google-做不到.md"
 ---
 
 # GitHub 2 万星的 AI 搜索把「真金白银」引入权重：30 秒摸清一个人或项目当月全动态，Google 做不到

@@ -1,5 +1,5 @@
 ---
-type: "Author"
+type: "entity"
 title: "泵泵超人 | Pumpman 🔶 (@crypto_pumpman)"
 description: "X/Twitter 作者 @crypto_pumpman。共收录 1 条 AI 精选推文。"
 tags:
@@ -12,6 +12,12 @@ x_author_name: "泵泵超人 | Pumpman 🔶"
 x_tweet_count: 1
 x_first_seen: "2026-04-01T05:14:52.262Z"
 x_last_seen: "2026-04-01T05:14:52.262Z"
+type_okf: "Author"
+created: "2026-04-01"
+updated: "2026-06-26"
+sha256: "65b142e0723dd375584213303eae1fe94f60d6eddae9726f984b3c8af2803dd9"
+sources:
+  - "/sources/news/2026-04-01/00__crypto_pumpman__d0-横跨-11-大领域的-ai-trading-agent-完成度验证-openclaw-生態进入-能打-阶段.md"
 ---
 
 # 泵泵超人 | Pumpman 🔶 (@crypto_pumpman)

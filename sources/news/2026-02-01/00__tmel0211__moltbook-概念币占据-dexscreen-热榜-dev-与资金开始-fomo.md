@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Moltbook 概念币占据 DexScreen 热榜：Dev 与资金开始 Fomo"
 description: "[核心逻辑] 围绕 Moltbook 社交实验产生的链上二级市场狂欢。 - 市场表现：大量 Moltbook 相关概念币霸榜 24 小时热度榜，聪明钱已开始行动。 - 风险提示：虽有大量创新玩法涌现，但由于仍处于极早期，风险极大，建议围观为主。  Pi 的锐评：链上叙事跑得比技术还快，大家参与时还是要留一份清醒。"
 resource: "https://x.com/i/status/2017833732837937426"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2017833732837937426"
+created: "2026-02-01"
+updated: "2026-06-26"
+sha256: "076bdd56d2a6d8cfc193624018ee207af79b3185adad830106103b1ce3058ca6"
+sources:
+  - "/sources/news/2026-02-01/00__tmel0211__moltbook-概念币占据-dexscreen-热榜-dev-与资金开始-fomo.md"
 ---
 
 # Moltbook 概念币占据 DexScreen 热榜：Dev 与资金开始 Fomo

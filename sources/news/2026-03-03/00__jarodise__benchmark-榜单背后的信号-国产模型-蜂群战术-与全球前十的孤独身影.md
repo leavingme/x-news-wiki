@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Benchmark 榜单背后的信号：国产模型“蜂群战术”与全球前十的孤独身影"
 description: "**Qwen 3.5 跻身全球前十的启示：规模与命名的“中国式”突围** - 在胡扯 Benchmark V2 中，Qwen 3.5 397B a17B(High) 成为唯一进入前十的国产模型，显示其在特定评估体系下的竞争力。 - “蜂群战术”的命名方式引发调侃，背后反映的是国产模型通过密集发布不同尺寸/配置的变体来覆盖市场、测试反馈的务实策略。 - 但“唯一前十”也凸显了国产模型在国际顶级梯队中"
 resource: "https://x.com/i/status/2028616992773882003"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2028616992773882003"
+created: "2026-03-02"
+updated: "2026-06-26"
+sha256: "8c099812a4d6b5091c56c43fc509548a1ad61e2ba30214b9aaeb1223401c2a85"
+sources:
+  - "/sources/news/2026-03-03/00__jarodise__benchmark-榜单背后的信号-国产模型-蜂群战术-与全球前十的孤独身影.md"
 ---
 
 # Benchmark 榜单背后的信号：国产模型“蜂群战术”与全球前十的孤独身影

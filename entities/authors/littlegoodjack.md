@@ -1,5 +1,5 @@
 ---
-type: "Author"
+type: "entity"
 title: "小克 🌤 (@littlegoodjack)"
 description: "X/Twitter 作者 @littlegoodjack。共收录 1 条 AI 精选推文。"
 tags:
@@ -12,6 +12,12 @@ x_author_name: "小克 🌤"
 x_tweet_count: 1
 x_first_seen: "2026-03-31T00:43:34.096Z"
 x_last_seen: "2026-03-31T00:43:34.096Z"
+type_okf: "Author"
+created: "2026-03-31"
+updated: "2026-06-26"
+sha256: "26c18fb9b9a43d02fdea68a6daeaf04a976a2ad6287bd6cc736c93511c5e9a2f"
+sources:
+  - "/sources/highlights/2026-03-31/00__littlegoodjack__claude-code-进化-从代码编辑器到全栈操作系统.md"
 ---
 
 # 小克 🌤 (@littlegoodjack)

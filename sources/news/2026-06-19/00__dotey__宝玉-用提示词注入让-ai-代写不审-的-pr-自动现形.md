@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "宝玉：用提示词注入让「AI 代写不审」的 PR 自动现形"
 description: "**[Agent 安全的新防线：让懒人自爆]** - 宝玉分享一种反向 prompt injection：在 PR/issue 模板里植入陷阱指令 - 凡是 LLM 直出、未做人工 review 的 PR 提交时，会被陷阱触发异常行为（暴露 prompt 片段、打印内部状态） - 倒逼开发者从「AI 写+我提交」升级到「AI 写+我读+我提交」  gakki 锐评：这本质上把攻击面变成质检器，比任"
 resource: "https://x.com/i/status/2068016587953643922"
@@ -22,6 +22,13 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "ai-native-code-security"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2068016587953643922"
+created: "2026-06-19"
+updated: "2026-06-26"
+sha256: "75c3d44468ffd9f85e51a948bd6047e426afd9c357625151e5c43861ae8d60b3"
+sources:
+  - "/sources/news/2026-06-19/00__dotey__宝玉-用提示词注入让-ai-代写不审-的-pr-自动现形.md"
 ---
 
 # 宝玉：用提示词注入让「AI 代写不审」的 PR 自动现形

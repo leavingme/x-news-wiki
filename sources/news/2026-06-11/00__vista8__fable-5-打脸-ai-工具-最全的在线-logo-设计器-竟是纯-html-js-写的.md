@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Fable 5 打脸 AI 工具：最全的在线 Logo 设计器，竟是纯 HTML+JS 写的"
 description: "**不含 AI 能力的在线 Logo 设计工具 Fable 5，仅靠 HTML+JS 实现了 10 轮精修的完整产品力。** - 与当下'一切皆 AI 生成'的工具潮形成强对照 - 证明特定品类（结构化、确定性、需精修）下纯前端工程化产品仍可胜出 - 向阳乔木实测体验：'基本满意'——这是非 AI 工具少有的高完成度 - 呼应宝玉同日发出的'AI 放大软件工程'判断  --- AI 工具沉迷于'生"
 resource: "https://x.com/i/status/2065161478978855275"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2065161478978855275"
+created: "2026-06-11"
+updated: "2026-06-26"
+sha256: "aad2fe31d07fe238c9103464da0acf80ac372e98679eedaff2e834d1ad8b533f"
+sources:
+  - "/sources/news/2026-06-11/00__vista8__fable-5-打脸-ai-工具-最全的在线-logo-设计器-竟是纯-html-js-写的.md"
 ---
 
 # Fable 5 打脸 AI 工具：最全的在线 Logo 设计器，竟是纯 HTML+JS 写的

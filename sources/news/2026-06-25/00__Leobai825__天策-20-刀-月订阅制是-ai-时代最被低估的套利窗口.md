@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "天策：20 刀/月订阅制是 AI 时代最被低估的套利窗口"
 description: "**ChatGPT 留下的订阅惯性正在变成全行业的定价包袱，而这就是创业者的捡漏窗口。**  - 用「工厂配齐设备但限制每月 200 件产量+免费借 7 天」类比，拆解 20 刀订阅制与 AI 实际使用模式的根本错配 - 核心论点：ChatGPT 定价只是互联网思维的路径依赖，技术人懒得想商业模式直接照搬，结果是「用户全部涌向免费体验期」 - 推论：真正适配 AI 的应该是工业逻辑的按用量/产出计"
 resource: "https://x.com/i/status/2070148222593413469"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2070148222593413469"
+created: "2026-06-25"
+updated: "2026-06-26"
+sha256: "f396686f08ffa7700d5c1f967e39530e401b2164a21ba1634975090c9d6a4273"
+sources:
+  - "/sources/news/2026-06-25/00__Leobai825__天策-20-刀-月订阅制是-ai-时代最被低估的套利窗口.md"
 ---
 
 # 天策：20 刀/月订阅制是 AI 时代最被低估的套利窗口

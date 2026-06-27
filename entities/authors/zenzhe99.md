@@ -1,5 +1,5 @@
 ---
-type: "Author"
+type: "entity"
 title: "梓哲悟语 | Zenzhe (@Zenzhe99)"
 description: "X/Twitter 作者 @Zenzhe99。共收录 3 条 AI 精选推文。"
 tags:
@@ -12,6 +12,14 @@ x_author_name: "梓哲悟语 | Zenzhe"
 x_tweet_count: 3
 x_first_seen: "2026-02-27T01:00:44.727Z"
 x_last_seen: "2026-04-11T12:43:47.209Z"
+type_okf: "Author"
+created: "2026-02-27"
+updated: "2026-06-26"
+sha256: "24acb2ea9cf62b87654e0c152ad899064d396f41c7a714d33daa5dca353b47de"
+sources:
+  - "/sources/highlights/2026-04-02/00__Zenzhe99__ai管我借99美元开出付费率95-的电子工厂-自主商业闭环已非概念.md"
+  - "/sources/highlights/2026-04-11/00__Zenzhe99__阿里-accio-work-炸场-30分钟-vs-7天-ai-agent-正在吃掉-一人跨国电商-这个岗位.md"
+  - "/sources/news/2026-02-27/00__Zenzhe99__ai-agent-学习资源指南-从入门到系统工程的-youtube-频道推荐.md"
 ---
 
 # 梓哲悟语 | Zenzhe (@Zenzhe99)

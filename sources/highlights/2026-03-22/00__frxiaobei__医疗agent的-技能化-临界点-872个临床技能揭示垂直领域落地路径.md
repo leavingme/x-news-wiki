@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "医疗Agent的「技能化」临界点：872个临床技能揭示垂直领域落地路径"
 description: "**医疗Agent正从玩具走向生产工具。** • 872个技能覆盖从基因组学到FDA合规的完整链条，验证「模型推理+技能接管」架构在强监管领域的可行性 • 临床文档生成、生信流程自动化、器械合规查询形成闭环，展示垂直Agent的规模化路径 • 开源技能库模式降低行业门槛，可能催生医疗Agent的「App Store」效应  **gakki锐评：** 医疗是Agent落地的高壁垒赛道，技能库的系统性"
 resource: "https://x.com/i/status/2031005228154138658"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2031005228154138658"
+created: "2026-03-09"
+updated: "2026-06-26"
+sha256: "a4d97d2c42fcd8b3859e4a12da91124cbd74307f8303695cf07e0afcd930f07b"
+sources:
+  - "/sources/highlights/2026-03-22/00__frxiaobei__医疗agent的-技能化-临界点-872个临床技能揭示垂直领域落地路径.md"
 ---
 
 # 医疗Agent的「技能化」临界点：872个临床技能揭示垂直领域落地路径

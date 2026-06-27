@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Claude Code 负责人自曝：前六个月几乎无人用，Opus 4 才是转折点"
 description: "**Claude Code 的真正引爆点不是产品本身，而是模型能力的临界突破。**  - 前六个月几乎零使用，Opus 4 上线后才迎来真实增长曲线——印证了\"Agent 工具的价值上限被底层模型锁死\"这一判断 - Anthropic 内部已实现全 Agent 协作：所有人的 Claude agent 通过 Slack 实时沟通，无人手写 SQL 和业务代码，这是 AI-native 组织的生产级"
 resource: "https://x.com/i/status/2053128353650196483"
@@ -22,6 +22,13 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "claude-code-ecosystem"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2053128353650196483"
+created: "2026-05-09"
+updated: "2026-06-26"
+sha256: "5040f3131b6da38e494d050798f7583abcc3ada9037170350ee9996cc53b9ea2"
+sources:
+  - "/sources/highlights/2026-05-09/00__vista8__claude-code-负责人自曝-前六个月几乎无人用-opus-4-才是转折点.md"
 ---
 
 # Claude Code 负责人自曝：前六个月几乎无人用，Opus 4 才是转折点

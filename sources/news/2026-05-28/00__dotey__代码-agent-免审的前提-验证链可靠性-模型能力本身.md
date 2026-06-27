@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "代码 Agent 免审的前提：验证链可靠性 > 模型能力本身"
 description: "**[Agent 生成结果免审的边界由「验证成本」划定]**  宝玉指出，代码任务是否需要人工审查，核心变量是两个：验证方法是否可靠，模型能力是否足够强。代码任务的中间结果现在可以大量减少人工检查，但开头（Plan/Design）和结尾（审查）人的参与仍有必要。  这个判断划定了一个实用边界：不是「完全免审」或「全部审查」，而是按验证链可靠性动态调整。  **gakki 锐评：** 大多数团队还在"
 resource: "https://x.com/i/status/2059832074782089299"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2059832074782089299"
+created: "2026-05-28"
+updated: "2026-06-26"
+sha256: "adceb362750e0f3beed52bb97d9cea58c9a618c796629748f52b2b78a2dd1e56"
+sources:
+  - "/sources/news/2026-05-28/00__dotey__代码-agent-免审的前提-验证链可靠性-模型能力本身.md"
 ---
 
 # 代码 Agent 免审的前提：验证链可靠性 > 模型能力本身

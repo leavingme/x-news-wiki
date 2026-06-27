@@ -1,5 +1,5 @@
 ---
-type: "Author"
+type: "entity"
 title: "机灵的杰尼君🔶BNB (@Meta8Mate)"
 description: "X/Twitter 作者 @Meta8Mate。共收录 2 条 AI 精选推文。"
 tags:
@@ -12,6 +12,13 @@ x_author_name: "机灵的杰尼君🔶BNB"
 x_tweet_count: 2
 x_first_seen: "2026-03-18T12:43:17.015Z"
 x_last_seen: "2026-03-28T18:35:19.120Z"
+type_okf: "Author"
+created: "2026-03-18"
+updated: "2026-06-26"
+sha256: "e4f7773fc680b288c9ec2ab59198b54f58488efff2915c996e36e71e4f30bf84"
+sources:
+  - "/sources/highlights/2026-03-28/00__Meta8Mate__anthropic-52天73个产品的速度碾压-估值只有openai一半-产品迭代速度却甩出三条街.md"
+  - "/sources/news/2026-03-18/00__Meta8Mate__ai解码川普truth-social与美股关系-6-2小时套利窗口与反向交易信号.md"
 ---
 
 # 机灵的杰尼君🔶BNB (@Meta8Mate)

@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Garry Tan 开源 GBrain：把 10,000+ Markdown 文件炼成 Agent 记忆系统的工程实践"
 description: "**[一句话核心判断]** Garry Tan 的 GBrain 展示了一条「个人知识资产→Agent 大脑」的可执行路径，但其工程门槛（3000+人物档案、13年日历、5800条笔记）决定了它目前只是 high agency 个体的特权玩具，而非大众方案。  **信息增量：** - **Dream Cycle 机制**：Agent 每晚自动扫描对话，识别新人名/公司/想法，追加到对应 Markd"
 resource: "https://x.com/i/status/2042763887435714794"
@@ -22,6 +22,13 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "personal-knowledge-management-ai"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2042763887435714794"
+created: "2026-04-11"
+updated: "2026-06-26"
+sha256: "b72576872540d7d68c755a1c898156adaf5eeee222719e1f9161d431314a3175"
+sources:
+  - "/sources/news/2026-04-11/00__elliotchen100__garry-tan-开源-gbrain-把-10-000-markdown-文件炼成-agent-记忆系统的工程实践.md"
 ---
 
 # Garry Tan 开源 GBrain：把 10,000+ Markdown 文件炼成 Agent 记忆系统的工程实践

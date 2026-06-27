@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "玉伯深夜发文：中国 AI 创业的营商环境，是一场对「赤子之心」的压力测试"
 description: "**[中国 AI 订阅经济的「恶意用户」正在系统性消耗创业生态]**  玉伯披露三个真实案例：用户订阅后用 Opus 4.6 猛刷积分→用完→向市场监管局投诉要求退款；某鱼平台的折扣码套利生态；以及大量「拿资本造数据→下一轮接盘」的循环。他直言「Manus 能杀出来，是真心开心」，背后是整个 AI 创业圈的苦涩共鸣。  - 核心矛盾：20 美元/月的国际定价与中国用户的「积分消耗即损失」认知存在根"
 resource: "https://x.com/i/status/2048758900057686443"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2048758900057686443"
+created: "2026-04-27"
+updated: "2026-06-26"
+sha256: "d3d1567ad65eacaf4f888368946b78aab27d867e3c1ee5bd8afce243e1bc172c"
+sources:
+  - "/sources/highlights/2026-04-27/00__lifesinger__玉伯深夜发文-中国-ai-创业的营商环境-是一场对-赤子之心-的压力测试.md"
 ---
 
 # 玉伯深夜发文：中国 AI 创业的营商环境，是一场对「赤子之心」的压力测试

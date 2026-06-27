@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "开源 Agent 框架里程碑：Hermes Agent GitHub 仓库活跃度超越 Claude Code，社区选择正在改写生态格局"
 description: "**[开源 Agent 框架完成了一次「民间超越官方」的真实投票]**  Teknium 宣布 Hermes Agent 仓库在活跃度指标上已超越 Anthropic 的 Claude Code 仓库。这是一次完全由社区驱动的非官方超越——不是论文宣称，不是 benchmark 刷榜，而是开发者用脚投票的实际行为数据。  意义拆解：Claude Code 是 Anthropic 的旗舰产品级 Ag"
 resource: "https://x.com/Teknium/status/2048710115885523444"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "ai-trend-digest"
+type_okf: "X Tweet"
+source_url: "https://x.com/Teknium/status/2048710115885523444"
+created: "2026-04-27"
+updated: "2026-06-26"
+sha256: "67d6348891b6eb3ff0ab2bf5f22ebf4060f8c1811f4689026141deb91df47cae"
+sources:
+  - "/sources/news/2026-04-27/00__Teknium__开源-agent-框架里程碑-hermes-agent-github-仓库活跃度超越-claude-code-社区选择正.md"
 ---
 
 # 开源 Agent 框架里程碑：Hermes Agent GitHub 仓库活跃度超越 Claude Code，社区选择正在改写生态格局

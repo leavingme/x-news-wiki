@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "x-collect：用四阶段结构强制AI做深度调研而非表面搜索"
 description: "x-collect提出了一个生产级研究流程：验证源头数据→解析内在机制→多维对比视角→自动化增量填补。核心价值在于「强制执行」——而非依赖模型自行探索。  这反映了当前AI编码工具正在向「研究工作流」渗透的结构性趋势。"
 resource: "https://x.com/i/status/2056618954840498672"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2056618954840498672"
+created: "2026-05-19"
+updated: "2026-06-26"
+sha256: "5e9bf624d7c05ef51eb0d16f4393ef8272a759c7f001f50e9db0f98eec1652e9"
+sources:
+  - "/sources/news/2026-05-19/00__Zesee__x-collect-用四阶段结构强制ai做深度调研而非表面搜索.md"
 ---
 
 # x-collect：用四阶段结构强制AI做深度调研而非表面搜索

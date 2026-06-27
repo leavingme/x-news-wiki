@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "俞浩戳破美团模式：资源稀缺时代的「安分守己」在丰饶时代变成了最大束缚"
 description: "**当行业从资源稀缺切换到资源丰饶，旧有的「做好自己的事」策略反而成为认知牢笼。**  - 俞浩将美团的问题定义为 pattern（模式）而非 problem（问题），这是一种更精准的诊断框架 - 中国企业家在资源稀缺时代形成的生存本能——安分守己、聚焦本业——在 AI 丰饶时代正在变成战略惰性 - Orange AI 的转发暗示：这种模式困境不只属于美团，而是整个中国互联网巨头在 AI 转型期的"
 resource: "https://x.com/i/status/2051584248268886476"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2051584248268886476"
+created: "2026-05-05"
+updated: "2026-06-26"
+sha256: "d820dae6a2509ab4188f4e688c7c3d8c53119a93013eda6b2d9ae992681d6fa3"
+sources:
+  - "/sources/news/2026-05-05/00__oran_ge__俞浩戳破美团模式-资源稀缺时代的-安分守己-在丰饶时代变成了最大束缚.md"
 ---
 
 # 俞浩戳破美团模式：资源稀缺时代的「安分守己」在丰饶时代变成了最大束缚

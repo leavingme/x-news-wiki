@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "AI订阅的「亏损悖论」：用越频繁亏越多，toC订阅制是天然的死局"
 description: "**[AI订阅制的数学在结构上无法支撑toC盈利]**  核心洞察：AI订阅和传统SaaS的本质区别在于——用户用得越频繁，公司亏得越厉害，而且是指数级的。这天然决定了这个行业 toB/toG 远优于 toC。  Claude Code 在 toC 层面本质上是拿个人开发者当小白鼠的「甜点产品」——最新功能优先向个人订阅开放，大企业客户则需要通过采购（SOC2合规）获取，Chrome MCP、远程"
 resource: "https://x.com/i/status/2040296545669832970"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2040296545669832970"
+created: "2026-04-04"
+updated: "2026-06-26"
+sha256: "58bf27b132cdbb7b3c98e08b26a2bd34409e1140bf050d611f8b3737cd9e39c0"
+sources:
+  - "/sources/highlights/2026-04-04/00__himself65__ai订阅的-亏损悖论-用越频繁亏越多-toc订阅制是天然的死局.md"
 ---
 
 # AI订阅的「亏损悖论」：用越频繁亏越多，toC订阅制是天然的死局

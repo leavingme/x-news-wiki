@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Visa 稳定币试点扩至 9 条链：传统金融的链上触角比 Agent 跑得更快"
 description: "**[Visa 把稳定币试点从 4 条链扩展到 9 条，传统金融的链上基建速度正在超越 AI Agent 的金融接入速度。]**  - 新增 ETH、SOL、Avalanche、Stellar、Arc、Base、Canton、Polygon、Tempo - XRP Ledger 未入选，说明 Visa 的选择标准是「开发者生态和合规成熟度」而非市值 - 对 Agent 经济自主权的启示：支付基建已"
 resource: "https://x.com/WKahneman/status/2049838534702563433"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "ai-trend-digest"
+type_okf: "X Tweet"
+source_url: "https://x.com/WKahneman/status/2049838534702563433"
+created: "2026-04-30"
+updated: "2026-06-26"
+sha256: "c30ca882f996edff2b78255155dd7ed3a33596ef695447ec7620f83460562577"
+sources:
+  - "/sources/news/2026-04-30/00__WKahneman__visa-稳定币试点扩至-9-条链-传统金融的链上触角比-agent-跑得更快.md"
 ---
 
 # Visa 稳定币试点扩至 9 条链：传统金融的链上触角比 Agent 跑得更快

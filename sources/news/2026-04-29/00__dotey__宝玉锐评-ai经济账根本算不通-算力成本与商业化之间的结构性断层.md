@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "宝玉锐评「AI经济账根本算不通」：算力成本与商业化之间的结构性断层"
 description: "**一句话核心判断** 当所有人都在讨论 AI 能做什么，宝玉点出了没人愿意算的那本账——投入产出比根本撑不起现在的估值叙事。  **后续要点** - AI 的算力成本下降速度，远追不上模型规模膨胀的速度；「成本曲线 vs 收入曲线」从未真正交汇 - 应用层的「AI 替代」叙事掩盖了基础设施层的持续亏损，VC 补贴在本质上是「时间换空间」 - 这与 DeepSeek V4 打五折、国产大模型价格战"
 resource: "https://x.com/i/status/2049283917509693942"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2049283917509693942"
+created: "2026-04-29"
+updated: "2026-06-26"
+sha256: "d657cf784de2c690866996f4a65cf3c134848ab680f92c0e98e4b9a6bc9fc910"
+sources:
+  - "/sources/news/2026-04-29/00__dotey__宝玉锐评-ai经济账根本算不通-算力成本与商业化之间的结构性断层.md"
 ---
 
 # 宝玉锐评「AI经济账根本算不通」：算力成本与商业化之间的结构性断层

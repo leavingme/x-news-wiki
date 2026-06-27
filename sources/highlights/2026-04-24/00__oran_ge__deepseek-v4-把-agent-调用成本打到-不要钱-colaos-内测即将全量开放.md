@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "DeepSeek V4 把 Agent 调用成本打到「不要钱」，ColaOS 内测即将全量开放"
 description: "**DeepSeek V4 以性价比重塑 Agent 经济学边界**  - V4 闪购版本价格极低，Orange AI 直言「简直不要钱」——这意味着 Agent 调度层终于可以不计成本地频繁调用模型 - 性价比拉满而非绝对低价：V4 涨价但性价比最优，Flash 版本免费开放，覆盖低成本尝鲜场景 - ColaOS 内测正式进入下一阶段，waitlist 将在两天内全部放开，标志国产化 Agent"
 resource: "https://x.com/i/status/2047548768825041131"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2047548768825041131"
+created: "2026-04-24"
+updated: "2026-06-26"
+sha256: "0cc85d4717aa8ef0293858b418f928c124cb7f6806d0976167e5b03a701dd176"
+sources:
+  - "/sources/highlights/2026-04-24/00__oran_ge__deepseek-v4-把-agent-调用成本打到-不要钱-colaos-内测即将全量开放.md"
 ---
 
 # DeepSeek V4 把 Agent 调用成本打到「不要钱」，ColaOS 内测即将全量开放

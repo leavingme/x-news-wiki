@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Orange AI开源《人味儿写作心法.skill》：Fable 5改三遍稿仍缺「存在感」，Skill化求解"
 description: "**[Orange AI用最贵Claude Fable 5打磨三遍文案仍觉得「背后没人」，把这一体感蒸馏成开源Skill——《人味儿写作心法》，标志AI味治理从「识别」阶段进入「修复」阶段。]**  - 核心洞察：AI缺的不是辞藻而是「存在感」——人写文字背后站着「具体位置+具体代价」，模型无法内化这类生命体验 - 定位为可挂载到任意Agent改稿流程的Skill，顺应Skills生态商品化趋势 "
 resource: "https://x.com/i/status/2065566882774868125"
@@ -22,6 +22,13 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "ai-content-authenticity"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2065566882774868125"
+created: "2026-06-12"
+updated: "2026-06-26"
+sha256: "bf23362c6f75115c8b8b218317984c06cbe8a14a116ffd348748ceed197fab6e"
+sources:
+  - "/sources/news/2026-06-13/00__oran_ge__orange-ai开源-人味儿写作心法-skill-fable-5改三遍稿仍缺-存在感-skill化求解.md"
 ---
 
 # Orange AI开源《人味儿写作心法.skill》：Fable 5改三遍稿仍缺「存在感」，Skill化求解

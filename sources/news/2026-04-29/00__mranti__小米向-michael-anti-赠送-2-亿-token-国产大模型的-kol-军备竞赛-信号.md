@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "小米向 Michael Anti 赠送 2 亿 Token：国产大模型的「KOL 军备竞赛」信号"
 description: "**小米 AI 主动向高影响力用户赠送大量 Token 用于对标测试，暴露了国产大模型在 C 端认知战中的焦虑。**  - Michael Anti 是中文圈最有影响力的科技意见领袖之一，其对比测试结果（MiMo vs DeepSeek V4 Pro）将直接影响开发者社区的模型选型判断。 - 2 亿 Token 的赠送规模暗示小米对自家模型的信心——或者至少愿意承担被公开对比的风险。 - 这种「K"
 resource: "https://x.com/i/status/2049447119258534205"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2049447119258534205"
+created: "2026-04-29"
+updated: "2026-06-26"
+sha256: "ac2b366563c3184f1ace09a3cd002277f3e99217702f26e7bbfebee86bd8fd21"
+sources:
+  - "/sources/news/2026-04-29/00__mranti__小米向-michael-anti-赠送-2-亿-token-国产大模型的-kol-军备竞赛-信号.md"
 ---
 
 # 小米向 Michael Anti 赠送 2 亿 Token：国产大模型的「KOL 军备竞赛」信号

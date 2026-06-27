@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "百度大会聚餐上实测：Kimi2.6和智谱GLM5.1 turbo陪伴产品表现突出，其他国产模型指令遵循和缓存命中是硬伤"
 description: "**[国产陪伴模型的第一梯队已成型]**  向阳乔木在百度开发者大会后的20人聚餐中分享了一个实战观察：Kimi2.6和智谱GLM5.1 turbo在陪伴类产品中表现相对突出，主要优势在于指令遵循和缓存命中。其他国产模型则存在明显短板。  - 聚会背景本身就是一个信号：线下餐饮供过于求，包厢随便订，印证消费环境的压力 - 这是少数来自一线实战用户的国产模型横向对比数据，而非benchmark数字 "
 resource: "https://x.com/i/status/2054585244008022398"
@@ -22,6 +22,13 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "ai-knowledge-tool-competition"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2054585244008022398"
+created: "2026-05-13"
+updated: "2026-06-26"
+sha256: "0a77ff3b5e0320d55ad3544a5b0664bd1ce149e93b00276579ab3534811338ca"
+sources:
+  - "/sources/news/2026-05-13/00__vista8__百度大会聚餐上实测-kimi2-6和智谱glm5-1-turbo陪伴产品表现突出-其他国产模型指令遵循和缓存命中是硬伤.md"
 ---
 
 # 百度大会聚餐上实测：Kimi2.6和智谱GLM5.1 turbo陪伴产品表现突出，其他国产模型指令遵循和缓存命中是硬伤

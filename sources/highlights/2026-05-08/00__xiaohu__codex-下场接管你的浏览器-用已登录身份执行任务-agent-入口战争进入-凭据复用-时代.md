@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Codex 下场接管你的浏览器：用已登录身份执行任务，Agent 入口战争进入「凭据复用」时代"
 description: "**OpenAI Codex Chrome 扩展让 Agent 直接操作你已登录的网站，无需重新认证——这是 Agent 工程从「工具调用」到「身份接管」的关键跃迁。**  - 核心机制：复用 Chrome 已有会话，无需密码或 API key，直接操作 CRM、后台、内部系统 - SubAgent 并行架构：多个子 Agent 同时操作不同标签页，不干扰用户正常浏览 - 安全边界设计：敏感操作（"
 resource: "https://x.com/i/status/2052564516362498321"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2052564516362498321"
+created: "2026-05-08"
+updated: "2026-06-26"
+sha256: "97f5a33fb9337dce48d8afa08580313c41019cd3594a36fd2e57cfa27aba815c"
+sources:
+  - "/sources/highlights/2026-05-08/00__xiaohu__codex-下场接管你的浏览器-用已登录身份执行任务-agent-入口战争进入-凭据复用-时代.md"
 ---
 
 # Codex 下场接管你的浏览器：用已登录身份执行任务，Agent 入口战争进入「凭据复用」时代

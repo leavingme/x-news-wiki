@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "yetone 一句话点破 Raft 取巧位：不碰 Agent 本体，专做周边"
 description: "yetone 指出 Raft 做得好的关键是它'不做 Agent 本身'。  - Agent 生态的分工正在细化：有人造 Agent 引擎，有人造 Agent 配套 - Raft 选择做 Agent 周边的策略，本质是规避与 Claude Code / Codex / Hermes 的正面竞争 - 这条路径对独立开发者有借鉴意义——Agent 时代不是只有造 Agent 一种活法   gakki "
 resource: "https://x.com/i/status/2068166696658194502"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2068166696658194502"
+created: "2026-06-20"
+updated: "2026-06-26"
+sha256: "7061410d7e5c9de598a1c30b38bef32f92d7f7640e9ea5765972f8a972923c19"
+sources:
+  - "/sources/news/2026-06-20/00__yetone__yetone-一句话点破-raft-取巧位-不碰-agent-本体-专做周边.md"
 ---
 
 # yetone 一句话点破 Raft 取巧位：不碰 Agent 本体，专做周边

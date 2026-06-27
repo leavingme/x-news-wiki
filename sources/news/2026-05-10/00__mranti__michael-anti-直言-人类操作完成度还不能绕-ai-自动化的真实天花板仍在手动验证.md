@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Michael Anti 直言「人类操作完成度还不能绕」：AI 自动化的真实天花板仍在手动验证"
 description: "**在 Agent 编排热浪中，一句冷水泼在了「全自动」叙事上。** - Michael Anti 判断：当前 AI 工具链的关键瓶颈不在模型能力，而在「人类操作完成度」——即端到端流程中仍需人工兜底的环节 - 这与近期 Agent 工程社区的共识呼应：即使 Claude Code 等工具能力飙升，生产级部署仍依赖 human-in-the-loop - 边界明确：AI 擅长生成与初筛，但在「确认"
 resource: "https://x.com/i/status/2053512935235076488"
@@ -22,6 +22,13 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "agent-tools-and-orchestration"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2053512935235076488"
+created: "2026-05-10"
+updated: "2026-06-26"
+sha256: "697a77cd5f9d4249383a5e53644a024109fe6aa9fdafd5360ca651551b829f18"
+sources:
+  - "/sources/news/2026-05-10/00__mranti__michael-anti-直言-人类操作完成度还不能绕-ai-自动化的真实天花板仍在手动验证.md"
 ---
 
 # Michael Anti 直言「人类操作完成度还不能绕」：AI 自动化的真实天花板仍在手动验证

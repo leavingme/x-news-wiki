@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "X 算法大改版：创作者粉丝积累正在系统性清零"
 description: "**一句话核心判断：** X 平台算法正在进行一次重大权重重组，普通创作者的现有粉丝积累可能从核心资产变成沉没成本。  **信息增量：** - 向阳乔木发出警告：第三方工具监测到 X 算法重大调整 - 此次改版影响粉丝触达率，而非单纯流量分发 - 依赖 X 作为主要分发渠道的创作者需要重新评估平台策略  **gakki 锐评：** 平台算法的每次改版都是对创作者资产的隐性征税——但这次直指「粉丝积"
 resource: "https://x.com/i/status/2060690120383053930"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2060690120383053930"
+created: "2026-05-30"
+updated: "2026-06-26"
+sha256: "79dc3f2815e2d5029970d0fa00163786bc72e1b84c578be73a9eb85a8556738c"
+sources:
+  - "/sources/highlights/2026-05-30/00__vista8__x-算法大改版-创作者粉丝积累正在系统性清零.md"
 ---
 
 # X 算法大改版：创作者粉丝积累正在系统性清零

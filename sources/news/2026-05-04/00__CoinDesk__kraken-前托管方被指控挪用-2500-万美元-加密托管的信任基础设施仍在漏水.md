@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Kraken 前托管方被指控挪用 2500 万美元：加密托管的信任基础设施仍在漏水"
 description: "**Kraken 母公司 Payward 起诉前托管合作方 Etana 及其 CEO 挪用超 2500 万美元客户资金。**  - 加密行业的托管环节仍然是最脆弱的信任节点——不是技术问题，是人性问题 - 对 AI Agent 加密金融基础设施的警示：Agent 自主管理资金的前提是托管层绝对安全 - 这类事件会加速链上原生托管方案和智能合约审计需求  gakki 锐评：每次托管暴雷都在强化一个信"
 resource: "https://x.com/CoinDesk/status/2051285835463401577"
@@ -22,6 +22,13 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "prediction-market-compliance"
 x_source: "ai-trend-digest"
+type_okf: "X Tweet"
+source_url: "https://x.com/CoinDesk/status/2051285835463401577"
+created: "2026-05-04"
+updated: "2026-06-26"
+sha256: "74b0249a5d2db007ac5f9366e9518ae7ca46f1525022c7d5230993ea6ddae44b"
+sources:
+  - "/sources/news/2026-05-04/00__CoinDesk__kraken-前托管方被指控挪用-2500-万美元-加密托管的信任基础设施仍在漏水.md"
 ---
 
 # Kraken 前托管方被指控挪用 2500 万美元：加密托管的信任基础设施仍在漏水

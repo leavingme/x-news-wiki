@@ -1,5 +1,5 @@
 ---
-type: "Author"
+type: "entity"
 title: "断浪 (@waveking1314)"
 description: "X/Twitter 作者 @waveking1314。共收录 2 条 AI 精选推文。"
 tags:
@@ -12,6 +12,13 @@ x_author_name: "断浪"
 x_tweet_count: 2
 x_first_seen: "2026-03-23T00:43:10.354Z"
 x_last_seen: "2026-06-24T22:27:46.423Z"
+type_okf: "Author"
+created: "2026-03-23"
+updated: "2026-06-26"
+sha256: "03738b24671e0ea70ba78ac24542eea3cd2311c1296d932e3d11c3a5ccdb3c19"
+sources:
+  - "/sources/highlights/2026-03-23/00__waveking1314__时区套利实战-ai-agent如何让polymarket从-熬夜盯盘-变成-睡后收入.md"
+  - "/sources/news/2026-06-24/00__waveking1314__polymarket-已成-ai-agent-试验田-8-个免费开源交易-bot-暴露预测市场的工具链成熟度.md"
 ---
 
 # 断浪 (@waveking1314)

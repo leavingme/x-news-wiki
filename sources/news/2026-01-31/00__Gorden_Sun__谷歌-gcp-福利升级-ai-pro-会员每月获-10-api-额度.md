@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "谷歌 GCP 福利升级：AI Pro 会员每月获 $10 API 额度"
 description: "**[谷歌通过 API 配额争夺开发者与高级用户生态]** - 谷歌为 AI Pro 会员提供每月 10 美元的 GCP 额度，支持调用 Gemini 等顶级模型 - 额度可直接在 AI Studio 中使用，降低了开发者构建原型应用的门槛 - 标志着大厂竞争从单一模型能力转向生态福利与开发者支持的综合对垒  [gakki 的锐评]：虽然 10 块钱不多，但它代表了谷歌想把用户留在自家云生态的野心"
 resource: "https://twitter.com/Gorden_Sun/status/2016326594873401715"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://twitter.com/Gorden_Sun/status/2016326594873401715"
+created: "2026-01-28"
+updated: "2026-06-26"
+sha256: "b905f2de8f1509c7940d4ba42f5c4f91f1f80ee2f42df58f98ad23d06fec460d"
+sources:
+  - "/sources/news/2026-01-31/00__Gorden_Sun__谷歌-gcp-福利升级-ai-pro-会员每月获-10-api-额度.md"
 ---
 
 # 谷歌 GCP 福利升级：AI Pro 会员每月获 $10 API 额度

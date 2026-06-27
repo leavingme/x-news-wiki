@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Agent 编码进入下一程：从\"全仓乱搜\"到\"语义导航\"，代码理解基建决定 Token 效率"
 description: "**[一句话]** Rachel 戳中 Agent 编码的真瓶颈——不是模型，是\"信息检索\"，下一步必须给 Agent 装上语义导航。  - 当前 Agent 编码普遍依赖仓库级暴力 grep / 文件读取，Token 浪费巨大、上下文噪音严重 - 解法方向：构建 AST 解析 + 知识图谱 + 语义索引，让 Agent 像 GPS 一样按图索骥（精准定位调用链、影响范围） - 与 GitNexu"
 resource: "https://x.com/i/status/2064994135602286765"
@@ -22,6 +22,13 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "gitnexus-code-knowledge-graph"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2064994135602286765"
+created: "2026-06-11"
+updated: "2026-06-26"
+sha256: "2860b26d097bce7fcfa17e113e6c441e22262a112a8edd626f39320c3a9d4be0"
+sources:
+  - "/sources/news/2026-06-11/00__Zesee__agent-编码进入下一程-从-全仓乱搜-到-语义导航-代码理解基建决定-token-效率.md"
 ---
 
 # Agent 编码进入下一程：从"全仓乱搜"到"语义导航"，代码理解基建决定 Token 效率

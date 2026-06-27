@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "小模型逼近26B跑分但内存砍半：推理效率正成为新竞技场"
 description: "**一句话核心判断** 更小内存占用 + 接近大模型跑分 = 推理侧洗牌信号，模型能力评价体系正从「参数量」向「效率比」迁移。  **信息增量** - 内存占用不到26B大模型一半，意味着同等硬件可并发推理数量翻倍 - 边缘设备友好度提升，部署成本曲线下移  **影响** - 对需要本地部署的Agent场景（车载、机器人）意义直接 - 重新定义「小模型」的实用边界  gakki：跑分接近谁、内存砍"
 resource: "https://x.com/i/status/2062329022533808461"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2062329022533808461"
+created: "2026-06-04"
+updated: "2026-06-26"
+sha256: "1e0ea658fec2a07bf5b2f163718a7fee786b763b6de58613cb1955a22dc92583"
+sources:
+  - "/sources/news/2026-06-04/00__xiaohu__小模型逼近26b跑分但内存砍半-推理效率正成为新竞技场.md"
 ---
 
 # 小模型逼近26B跑分但内存砍半：推理效率正成为新竞技场

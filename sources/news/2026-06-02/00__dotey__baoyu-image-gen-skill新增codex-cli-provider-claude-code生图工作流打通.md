@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "baoyu-image-gen Skill新增Codex-cli Provider，Claude Code生图工作流打通了"
 description: "baoyu-image-gen Skill完成了一次关键集成：支持以Codex-cli作为生图Provider。这意味着Claude Code、hermes agent等Agent可以直接调用Codex出图，跳过了单独装Codex的流程。社区PR已合入，技能地址公开。这是Skill可组合性的实证——工具间的缝隙正在被开源缝合。"
 resource: "https://x.com/i/status/2061695930349293654"
@@ -22,6 +22,13 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "skills-ecosystem-standards"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2061695930349293654"
+created: "2026-06-02"
+updated: "2026-06-26"
+sha256: "25db5b6d7f6fadbd219d209cdbf7eba429e506bc8d8d6a3888cde806a81629b7"
+sources:
+  - "/sources/news/2026-06-02/00__dotey__baoyu-image-gen-skill新增codex-cli-provider-claude-code生图工作流打通.md"
 ---
 
 # baoyu-image-gen Skill新增Codex-cli Provider，Claude Code生图工作流打通了

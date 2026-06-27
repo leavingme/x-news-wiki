@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "DeepSeek real money trading bot competition exposes frontier model真实盈利能力差距"
 description: "**核心判断：实盘验证比任何benchmark都有说服力——DeepSeek跑赢GPT-5和Gemini，暴露了前沿模型「智商高但不会赚钱」的结构性问题。**  要点： - 比赛用真钱，实时排名可查，DeepSeek持续领先 - GPT-5和Gemini目前亏损，OpenAI和Google颜面受损 - 这比PaperBenchmark更能说明模型在金融场景的真实可用性   ---  **gakki"
 resource: "https://x.com/i/status/1980240707383390484"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/1980240707383390484"
+created: "2025-10-20"
+updated: "2026-06-26"
+sha256: "77baeec2c01871afca385e73aefd122221a06967f140a38c06b38ee662f468ca"
+sources:
+  - "/sources/highlights/2026-04-28/00__bourneliu66__deepseek-real-money-trading-bot-competition-exposes-frontier.md"
 ---
 
 # DeepSeek real money trading bot competition exposes frontier model真实盈利能力差距

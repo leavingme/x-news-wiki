@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "airtap_ai：无API依赖的跨App通用直观比价方案"
 description: "**[跨App操作比价的Agentic路径：屏幕理解而非API接入]**  airtap_ai实现了跨App通用比价，核心特性：直观、跨App、移动端原生、不依赖API。这意味着它走的是屏幕理解/视觉方案而非API对接路线。任何App只要有界面就能操作，绕过API封闭的问题。  这与Browser Agent的技术路径高度一致——用视觉理解替代结构化数据获取。对比依赖API的方案，视觉方案的鲁棒性"
 resource: "https://x.com/i/status/2054247483883319415"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2054247483883319415"
+created: "2026-05-12"
+updated: "2026-06-26"
+sha256: "c9a82065de5585227f5fe9e8b8b017ab7c2cc70e48fc306c0589896dcab4e962"
+sources:
+  - "/sources/news/2026-05-12/00__Zesee__airtap-ai-无api依赖的跨app通用直观比价方案.md"
 ---
 
 # airtap_ai：无API依赖的跨App通用直观比价方案

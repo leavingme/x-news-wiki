@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "TradingView MCP 发布：Claude Code / OpenClaw 直接跑股票技术分析和回测，零 API 成本"
 description: "**【一句话核心判断】** 开源社区把 TradingView 数据接入 MCP 协议，Claude Code 直接做股票技术分析、跑回测、情绪扫描，且不需要任何付费 API。  **信息增量：** - Yahoo Finance 数据直连，绕过付费墙 - 技术分析、回测、情绪面、市场扫描已全部实现 - MCP 协议让 OpenClaw/Claude Code 的金融 Agent 生态开箱即用  "
 resource: "https://x.com/i/status/2041496750935204241"
@@ -22,6 +22,13 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "ai-agent-crypto-infra"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2041496750935204241"
+created: "2026-04-07"
+updated: "2026-06-26"
+sha256: "4491bcba4c668f5bf5020d546fab6af79404c44d9886bfefa88de19f02c399f8"
+sources:
+  - "/sources/news/2026-04-08/00__innomad_io__tradingview-mcp-发布-claude-code-openclaw-直接跑股票技术分析和回测-零-api-成.md"
 ---
 
 # TradingView MCP 发布：Claude Code / OpenClaw 直接跑股票技术分析和回测，零 API 成本

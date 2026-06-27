@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "SOX半导体18连涨+150%YoY：算力超级周期已不只是叙事"
 description: "**[AI算力超级周期进入自我实现阶段]**  - $SOX（费城半导体指数）年内涨幅150%，超越2020年疫情复苏涨幅，为2000年Dot-Com泡沫以来最强年度表现；连续18个交易日收涨，创历史最长连胜纪录 - 半导体股价作为ISM制造业PMI领先指标，其持续强势往往预示AI基础设施资本开支将持续扩张12-18个月 - 这意味着当前布局AI算力赛道的投资人已不只是在赌模型能力进步，而是在押注"
 resource: "https://x.com/KobeissiLetter/status/2048424361267220807"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
+
 x_source: "ai-trend-digest"
+type_okf: "X Tweet"
+source_url: "https://x.com/KobeissiLetter/status/2048424361267220807"
+created: "2026-04-26"
+updated: "2026-06-26"
+sha256: "9ccef99299b072de354a5b72185f6d55e4b77eaf2715eb855caf2513017e297d"
+sources:
+  - "/sources/highlights/2026-04-26/00__KobeissiLetter__sox半导体18连涨-150-yoy-算力超级周期已不只是叙事.md"
 ---
 
 # SOX半导体18连涨+150%YoY：算力超级周期已不只是叙事

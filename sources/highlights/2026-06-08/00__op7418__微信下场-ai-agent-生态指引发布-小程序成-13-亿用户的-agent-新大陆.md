@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "微信下场：AI Agent 生态指引发布，小程序成 13 亿用户的 Agent 新大陆"
 description: "**[微信正式向 AI Agent 开放小程序生态，超级 App 入口战从概念进入实操阶段]**  - 微信罕见以官方指引形式（《开发者接入微信 AI 生态的指引》）引导小程序开发者接入 AI Agent 能力，核心是让 AI 接管和控制小程序，而非仅作为对话框内的助手 - 这意味着 Agent 在中国拿到了真正的「履约层」——AI 不只能推荐、回答问题，还能直接调用国民级应用完成支付、预约、点单"
 resource: "https://x.com/i/status/2063900613990371759"
@@ -22,6 +22,13 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "agent-multi-platform"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2063900613990371759"
+created: "2026-06-08"
+updated: "2026-06-26"
+sha256: "23d5e31ff94ea7d13b9a670ae803d4d27bca9e51a335c9cb6b7cf91d1e8ec63f"
+sources:
+  - "/sources/highlights/2026-06-08/00__op7418__微信下场-ai-agent-生态指引发布-小程序成-13-亿用户的-agent-新大陆.md"
 ---
 
 # 微信下场：AI Agent 生态指引发布，小程序成 13 亿用户的 Agent 新大陆

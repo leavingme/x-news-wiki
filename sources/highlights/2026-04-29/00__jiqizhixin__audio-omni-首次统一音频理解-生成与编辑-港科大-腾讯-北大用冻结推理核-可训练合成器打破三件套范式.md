@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Audio-Omni 首次统一音频理解、生成与编辑：港科大+腾讯+北大用冻结推理核+可训练合成器打破三件套范式"
 description: "**一个模型同时理解、生成和编辑所有类型音频——这是音频多模态的「GPT-4 时刻」。**  - 港科大、腾讯、北大联合提出 Audio-Omni 端到端框架，覆盖通用声音、音乐、语音三大类 - 架构核心：冻结的 Multimodal LLM 作为推理大脑 + 可训练的 Diffusion Transformer 作为合成器 - 在多个 benchmark 上达到 SOTA，首次证明音频任务可以在"
 resource: "https://x.com/i/status/2049542227840389449"
@@ -22,6 +22,13 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "content-generation-and-multimodal"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2049542227840389449"
+created: "2026-04-29"
+updated: "2026-06-26"
+sha256: "d6d67a506ecb95c334a5f3eaeb54a04ba7935cadc6570cd54fae6ec7af99a68f"
+sources:
+  - "/sources/highlights/2026-04-29/00__jiqizhixin__audio-omni-首次统一音频理解-生成与编辑-港科大-腾讯-北大用冻结推理核-可训练合成器打破三件套范式.md"
 ---
 
 # Audio-Omni 首次统一音频理解、生成与编辑：港科大+腾讯+北大用冻结推理核+可训练合成器打破三件套范式

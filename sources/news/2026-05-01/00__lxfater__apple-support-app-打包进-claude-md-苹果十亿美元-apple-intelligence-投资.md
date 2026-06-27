@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Apple Support App 打包进 Claude.md：苹果十亿美元 Apple Intelligence 投资正在被第三方工具链静默替代"
 description: "**苹果内部工程团队已实际采用 Claude Code 工作流，而非自研 Apple Intelligence。**  - Apple Support App 的发布包中被发现包含 Claude.md 文件，这是 Claude Code 的标准项目配置标识 - 苹果此前投入超 10 亿美元建设 Apple Intelligence 基础设施，但一线工程团队的实际工具选择已发生偏移 - 这是继多家大"
 resource: "https://x.com/i/status/2050240636020732015"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2050240636020732015"
+created: "2026-05-01"
+updated: "2026-06-26"
+sha256: "7ea8855cf3f4acc01a3b59c627458863e1b4d9c27aad556b04185ab87c4d8d3d"
+sources:
+  - "/sources/news/2026-05-01/00__lxfater__apple-support-app-打包进-claude-md-苹果十亿美元-apple-intelligence-投资.md"
 ---
 
 # Apple Support App 打包进 Claude.md：苹果十亿美元 Apple Intelligence 投资正在被第三方工具链静默替代

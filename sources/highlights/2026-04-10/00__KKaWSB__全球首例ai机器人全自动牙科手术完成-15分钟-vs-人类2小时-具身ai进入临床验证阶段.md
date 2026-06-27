@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "全球首例AI机器人全自动牙科手术完成：15分钟 vs 人类2小时，具身AI进入临床验证阶段"
 description: "**核心判断：具身AI的医疗临床落地比预期更快，Y Combinator已入场验证。**  Perceptive，波士顿AI医疗创业公司，完成了全球首例AI机器人全自动牙冠预备手术——15分钟，人类牙医需要两次就诊、总计约2小时。流程为：OCT光学扫描（精度20微米，比X光准确率高一倍）→ AI规划切割路径→ 机械臂自主执行，全程无需人类介入。  哈佛牙学院背书，YC孵化，融资3000万美元。投资"
 resource: "https://x.com/i/status/2035249352999150033"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2035249352999150033"
+created: "2026-03-21"
+updated: "2026-06-26"
+sha256: "92689e03d2d303cd89df6d0fb2a689344e7385db87778618ce063b38a643ed7a"
+sources:
+  - "/sources/highlights/2026-04-10/00__KKaWSB__全球首例ai机器人全自动牙科手术完成-15分钟-vs-人类2小时-具身ai进入临床验证阶段.md"
 ---
 
 # 全球首例AI机器人全自动牙科手术完成：15分钟 vs 人类2小时，具身AI进入临床验证阶段

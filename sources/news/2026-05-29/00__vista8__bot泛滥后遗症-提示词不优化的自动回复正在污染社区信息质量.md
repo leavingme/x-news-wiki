@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Bot泛滥后遗症：提示词不优化的自动回复正在污染社区信息质量"
 description: "**一句话核心判断** 向阳乔木点名批评某类Bot：总是抢评第一、提示词从不优化——这类\"占坑型Bot\"正在以低成本复制的方式扩散，其本质是用自动化外衣掩盖的内容噪声，对社区信息生态的腐蚀比纯广告更难被察觉。  **信息增量** - 现象：部分AI Bot在社区（如X/推特）中担任\"自动回复机\"，但从不优化自身提示词，回复质量低、上下文相关度差。 - 危害：Bot的\"总是第一条回\"特性造成误导性权"
 resource: "https://x.com/i/status/2060385472392859937"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2060385472392859937"
+created: "2026-05-29"
+updated: "2026-06-26"
+sha256: "c0f48ae748f1ab77d0ddfa98c604733467fa64eca9c6d3a0d58c527d8e2d28c4"
+sources:
+  - "/sources/news/2026-05-29/00__vista8__bot泛滥后遗症-提示词不优化的自动回复正在污染社区信息质量.md"
 ---
 
 # Bot泛滥后遗症：提示词不优化的自动回复正在污染社区信息质量

@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Claude Code 源码泄露：Anthropic 自己把 4756 个源文件打包进了 npm 发布物"
 description: "**[Anthropic 亲手炸开自己的护城河]**  Claude Code 的 57MB source map 文件被完整暴露，1906 个 TypeScript/TSX 源码 + 完整系统提示词一览无余。React + Ink CLI 架构、REPL 循环、工具调用逻辑全部可视化。  这不是黑客攻击，是工程失误。但泄露即公开——任何人都能完整还原 Claude Code 的所有设计决策。  "
 resource: "https://x.com/i/status/2038904406406476195"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2038904406406476195"
+created: "2026-03-31"
+updated: "2026-06-26"
+sha256: "51376256ab0a3290537257fec3089c2d6ad0a94bb288e2364c56dc56b3134c09"
+sources:
+  - "/sources/highlights/2026-04-10/00__chenchengpro__claude-code-源码泄露-anthropic-自己把-4756-个源文件打包进了-npm-发布物.md"
 ---
 
 # Claude Code 源码泄露：Anthropic 自己把 4756 个源文件打包进了 npm 发布物

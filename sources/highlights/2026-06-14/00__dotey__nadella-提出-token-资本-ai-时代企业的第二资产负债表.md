@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Nadella 提出「Token 资本」：AI 时代企业的第二资产负债表"
 description: "**[一句话核心判断]** 微软 CEO 把企业 AI 能力定义为可与人力资本并列的「Token 资本」，并给出可换模型的可验证检验标准，标志大厂 AI 战略叙事从「调用 API」转向「构建自有资产」。  - 核心论断：AI 时代每家公司需同时经营人力资本与 Token 资本；判断力越强，Token 资本复利越快，否则算力只是在空转 - **可验证检验标准**：能否随时替换底层通用大模型而不丢失专"
 resource: "https://x.com/i/status/2066280904725836283"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2066280904725836283"
+created: "2026-06-14"
+updated: "2026-06-26"
+sha256: "2ee86ce56c2ca49af8edfd3cf5d04e56a9f3ed05855a00dfa59cf366717fd828"
+sources:
+  - "/sources/highlights/2026-06-14/00__dotey__nadella-提出-token-资本-ai-时代企业的第二资产负债表.md"
 ---
 
 # Nadella 提出「Token 资本」：AI 时代企业的第二资产负债表

@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "宝玉把 baoyu-design 升级成 PPT 全流程编辑器：本地生成 + Cursor/Codex 浏览器预览 + 可编辑 PPTX 导出"
 description: "**baoyu-design 从'设计稿生成器'升级为'本地 PPT 工作台'** - 新增 PPT 本地生成能力，可在 Cursor、Codex 内置浏览器直接预览和标记修改 - 支持 F 键全屏播放，导出为可二次编辑的 PPTX 文件 - 让 Claude Design 的能力脱离官方平台，在本地 IDE 流程里完整闭环   gakki 锐评：这是把 Claude Design 从'云端体验'"
 resource: "https://x.com/i/status/2066736451404923109"
@@ -22,6 +22,13 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "claude-design-tool"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2066736451404923109"
+created: "2026-06-16"
+updated: "2026-06-26"
+sha256: "25957ed7368b1d0c6397e8136a0991e07cb63bbb7fdb7f772f6fcfe93b35e3d1"
+sources:
+  - "/sources/highlights/2026-06-16/00__dotey__宝玉把-baoyu-design-升级成-ppt-全流程编辑器-本地生成-cursor-codex-浏览器预览-可编辑-.md"
 ---
 
 # 宝玉把 baoyu-design 升级成 PPT 全流程编辑器：本地生成 + Cursor/Codex 浏览器预览 + 可编辑 PPTX 导出

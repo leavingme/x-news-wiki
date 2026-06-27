@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Coding Agent的tmux感知能力：终端多路复用环境或成Agent标配"
 description: "**一句话核心判断：Agent正在从「单会话操作」向「环境感知型」进化，tmux等终端多路复用工具可能成为Agent的标准感知层。**  - yetone提出在tmux里面启动Coding Agent，让Agent能够aware tmux环境 - 这意味着Agent可以感知会话状态、窗口管理、历史命令上下文，而不是每次都从空白状态开始 - 推理：如果Agent能理解tmux，它就能理解更复杂的终端"
 resource: "https://x.com/i/status/2056275946576220362"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2056275946576220362"
+created: "2026-05-18"
+updated: "2026-06-26"
+sha256: "39eb3ca983f37ec04251ae2fd6dc70be01f9030f8ac1afa4de6d978aa5d4d913"
+sources:
+  - "/sources/news/2026-05-18/00__yetone__coding-agent的tmux感知能力-终端多路复用环境或成agent标配.md"
 ---
 
 # Coding Agent的tmux感知能力：终端多路复用环境或成Agent标配

@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "LLM 创业进入「做出来比想清楚重要」阶段，knowhow 让位于执行密度"
 description: "**[LLM 赛点已从技术储备转移到工程密度]**  Orange AI 播客核心判断：大模型技术本身已无护城河，个人英雄主义失效，knowhow 让位于「踏踏实实把事做出来」。  · 技术平权化：LLM 供给充裕到不再构成竞争优势 · 组织英雄主义崛起：能把多个 knowhow 整合并持续执行的组织比明星创始人更稀缺 · Talk is cheap，靠谱 is not——成了当前 AI 创业圈最"
 resource: "https://x.com/i/status/2054367986472116588"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2054367986472116588"
+created: "2026-05-13"
+updated: "2026-06-26"
+sha256: "173312a838e281348a3e5673a596d0222a11ad0a1eaaa52063e5ffb37c356770"
+sources:
+  - "/sources/news/2026-05-13/00__oran_ge__llm-创业进入-做出来比想清楚重要-阶段-knowhow-让位于执行密度.md"
 ---
 
 # LLM 创业进入「做出来比想清楚重要」阶段，knowhow 让位于执行密度

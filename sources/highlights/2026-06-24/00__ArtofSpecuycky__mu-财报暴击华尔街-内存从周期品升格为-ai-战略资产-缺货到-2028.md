@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "MU 财报暴击华尔街：内存从周期品升格为 AI 战略资产，缺货到 2028"
 description: "**Micron 用一份 Q3 营收 414.6 亿（超预期 58 亿）、Q4 指引 490-510 亿的成绩单，把存储从'周期博弈'拽进了'AI 战略资源'赛道。**  要点： - CEO 原话「AI 系统性能本质取决于内存子系统的性能和容量」，Agentic AI、多智能体、超长上下文正在把内存变成 AI 基础设施的真正瓶颈 - DRAM/NAND 供给紧张将持续到 2028 年以后，客户采购"
 resource: "https://x.com/i/status/2069883068312400355"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2069883068312400355"
+created: "2026-06-24"
+updated: "2026-06-26"
+sha256: "cf9537e47fcd467bb7501a8cf34d825033766719780abb13f010107901d9989b"
+sources:
+  - "/sources/highlights/2026-06-24/00__ArtofSpecuycky__mu-财报暴击华尔街-内存从周期品升格为-ai-战略资产-缺货到-2028.md"
 ---
 
 # MU 财报暴击华尔街：内存从周期品升格为 AI 战略资产，缺货到 2028

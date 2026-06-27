@@ -1,5 +1,5 @@
 ---
-type: "Author"
+type: "entity"
 title: "AI贺贺 (@eric2000ai)"
 description: "X/Twitter 作者 @eric2000ai。共收录 1 条 AI 精选推文。"
 tags:
@@ -12,6 +12,12 @@ x_author_name: "AI贺贺"
 x_tweet_count: 1
 x_first_seen: "2026-01-31T04:40:55.921Z"
 x_last_seen: "2026-01-31T04:40:55.921Z"
+type_okf: "Author"
+created: "2026-01-31"
+updated: "2026-06-26"
+sha256: "2ef1b5167e10099b98fb1ae48981eaf5a0f4e9a6c07126742337998e6ea25854"
+sources:
+  - "/sources/news/2026-01-31/00__eric2000ai__ai-深度哲学-压缩与展开时间.md"
 ---
 
 # AI贺贺 (@eric2000ai)

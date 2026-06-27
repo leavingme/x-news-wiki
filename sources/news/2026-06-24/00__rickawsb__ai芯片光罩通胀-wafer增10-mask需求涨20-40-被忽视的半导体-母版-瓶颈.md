@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "AI芯片光罩通胀：Wafer增10%，Mask需求涨20-40%，被忽视的半导体\"母版\"瓶颈"
 description: "**AI芯片复杂度传导：Photomask正在从\"玻璃板\"升级为半导体\"母版\"，需求弹性远超晶圆**  - 过去Wafer使用量+10%、Mask需求+10%同步增长；AI时代演变为Wafer+10%、Mask value+20-40%的非线性放大 - 增量来自mask层数、EUV层数、multi-patterning复杂度、advanced packaging mask、RDL/interpos"
 resource: "https://x.com/i/status/2057571970099859759"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2057571970099859759"
+created: "2026-05-21"
+updated: "2026-06-26"
+sha256: "85299b6a76dc72992f381d9af3d9706e18b8b4f4859fce08a821cafb8ebe69cc"
+sources:
+  - "/sources/news/2026-06-24/00__rickawsb__ai芯片光罩通胀-wafer增10-mask需求涨20-40-被忽视的半导体-母版-瓶颈.md"
 ---
 
 # AI芯片光罩通胀：Wafer增10%，Mask需求涨20-40%，被忽视的半导体"母版"瓶颈

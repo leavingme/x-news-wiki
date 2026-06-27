@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Claude Code配置文件让iFlytek Kimi 2.6可用：端到端工具链整合正在绕过官方壁垒"
 description: "**一句话核心判断** Michael Anti验证了Claude Code可通过配置文件接入非官方提供商（iFlytek Kimi 2.6），绕过官方支持列表的限制——这是工具链可组合性的实证胜利，但也意味着稳定性依赖社区维护。  **信息增量** - 官方不支持不代表不可用：配置文件机制是事实上的开放接口 - 门槛降低但护城河也降低：任何有API能力的模型都可被Claude Code驱动 - "
 resource: "https://x.com/i/status/2060022138334245237"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2060022138334245237"
+created: "2026-05-28"
+updated: "2026-06-26"
+sha256: "063275b1db4997174ae19a95483eda1f173c5b62b7c936be76dc7bdfb15eceb9"
+sources:
+  - "/sources/news/2026-05-28/00__mranti__claude-code配置文件让iflytek-kimi-2-6可用-端到端工具链整合正在绕过官方壁垒.md"
 ---
 
 # Claude Code配置文件让iFlytek Kimi 2.6可用：端到端工具链整合正在绕过官方壁垒

@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Nature 2022 论文被翻出：人类语言大脑也是「下一个词预测器」"
 description: "**神经科学反向验证 LLM 假说：大脑预测词的方式与注意力机制高度同构。**  2022 年 Nature 发表的神经科学研究显示，人类大脑在听到词之前就在预测下一个词，并生成类似上下文嵌入的表征，在词到达时产生误差信号。这一发现与 Transformer 的 next-token prediction 机制形成惊人的对称。  - 大脑的预测误差信号 = LLMs 的 loss function"
 resource: "https://x.com/Hesamation/status/2048490333311217674"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "ai-trend-digest"
+type_okf: "X Tweet"
+source_url: "https://x.com/Hesamation/status/2048490333311217674"
+created: "2026-04-26"
+updated: "2026-06-26"
+sha256: "5622d55b1edc7c29d9797167e87382fa691c0e2fc78b9942afd28684a35492a4"
+sources:
+  - "/sources/news/2026-04-27/00__Hesamation__nature-2022-论文被翻出-人类语言大脑也是-下一个词预测器.md"
 ---
 
 # Nature 2022 论文被翻出：人类语言大脑也是「下一个词预测器」

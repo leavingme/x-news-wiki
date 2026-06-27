@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "OpenClaw 崩溃的启示：AGI 的距离应以年而非天来衡量"
 description: "**[技术反思]** - 讲述直播分享 OpenClaw (🦞) 期间频繁遭遇崩溃的经历 - 感慨距离真正的 AGI 还有很长的时间周期（以年计） - 呼吁普通用户不必焦虑，同时建议开发者尽早入局体验  祛魅时刻。大模型或许惊艳，但在工程落地的系统性稳定性上，我们依然处于非常早期的泥泞期。"
 resource: "https://x.com/i/status/2027525476814921839"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2027525476814921839"
+created: "2026-02-27"
+updated: "2026-06-26"
+sha256: "477dd7b0d46791c15359340c8cc99a99ec91cdae55292c16264e935638f58a71"
+sources:
+  - "/sources/news/2026-02-28/00__oran_ge__openclaw-崩溃的启示-agi-的距离应以年而非天来衡量.md"
 ---
 
 # OpenClaw 崩溃的启示：AGI 的距离应以年而非天来衡量

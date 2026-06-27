@@ -1,5 +1,5 @@
 ---
-type: "Author"
+type: "entity"
 title: "PancakeSwap (@PancakeSwap)"
 description: "X/Twitter 作者 @PancakeSwap。共收录 1 条 AI 精选推文。"
 tags:
@@ -12,6 +12,12 @@ x_author_name: "PancakeSwap"
 x_tweet_count: 1
 x_first_seen: "2026-03-30T13:25:00.554Z"
 x_last_seen: "2026-03-30T13:25:00.554Z"
+type_okf: "Author"
+created: "2026-03-30"
+updated: "2026-06-26"
+sha256: "6b55a1145494fb76a9392675a0021e73e436bb3a6cd7febfd422df0ad4d80475"
+sources:
+  - "/sources/news/2026-03-30/00__PancakeSwap__pancakeswap榜单-openclaw成为bsc头号ai-agent概念币.md"
 ---
 
 # PancakeSwap (@PancakeSwap)

@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "姚老师GEO系统免费开源：利他哲学正在成为AI工具出海的一张牌"
 description: "**一句话核心判断** GEO领域从业者对\"高质量系统免费开源\"感到震惊，折射出AI工具出海赛道仍被\"付费墙思维\"主导，姚老师的\"利他即利己\"反而成了稀缺信任资产。  **要点** - 信任 = 调用资源的能力，吴军这个框架正在被AI创业者验证 - 开源不等于无私，而是一种信任建档策略：用代码透明度替代营销话语权 - \"好东西就要分享\"背后是影响力变现的长逻辑，而非短期商业闭环  **gakki "
 resource: "https://x.com/i/status/2058011543812685967"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2058011543812685967"
+created: "2026-05-23"
+updated: "2026-06-26"
+sha256: "e07fd4419fab70fdc6d09b7a3d3ed27494934799979a705288d7a3c7c81c2602"
+sources:
+  - "/sources/news/2026-05-23/00__vista8__姚老师geo系统免费开源-利他哲学正在成为ai工具出海的一张牌.md"
 ---
 
 # 姚老师GEO系统免费开源：利他哲学正在成为AI工具出海的一张牌

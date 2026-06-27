@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Binance「金融包容性」叙事背后的信号：加密交易平台开始为 AI Agent 经济权铺设用户认知"
 description: "**核心判断:** Binance 的「人人可及」叙事表面是品牌营销，底层是为 Agent 经济自主权做用户心智铺垫。\\n\\n- 当交易平台强调「包容性」时，下一步往往是开放更细粒度的 API 权限\\n- 结合近期 MoonPay 收购 DFlow 等动态，加密支付基础设施正在为 AI Agent 的微支付场景做准备\\n- 但 Binance 的合规枷锁意味着 Agent 经济权的真正突破口更可能"
 resource: "https://x.com/binance/status/2052644707079962833"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "ai-trend-digest"
+type_okf: "X Tweet"
+source_url: "https://x.com/binance/status/2052644707079962833"
+created: "2026-05-08"
+updated: "2026-06-26"
+sha256: "960526ce8014a44bc1e4f0787e6525637e4baee5b289e615d41f7228dcb71879"
+sources:
+  - "/sources/news/2026-05-08/00__binance__binance-金融包容性-叙事背后的信号-加密交易平台开始为-ai-agent-经济权铺设用户认知.md"
 ---
 
 # Binance「金融包容性」叙事背后的信号：加密交易平台开始为 AI Agent 经济权铺设用户认知

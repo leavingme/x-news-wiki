@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Claude Code「代码债」曝光：51万行面条代码背后的AI编程范式危机"
 description: "**\"AI时代就是这样写代码吗？\"——代码可读性崩盘实录**  Cyandev 实测 Claude Code 源码后投出多枚深水炸弹：(1) main 函数堆叠数千行调用，无模块解耦；(2) Agent Loop 全局面条式串行，无状态管理可言；(3) 代码可维护性接近放弃治疗状态。  这不是孤例——开源社区已有多个案例证明：当 AI 以「跑通即正义」为目标时，生产代码与工程债务同步膨胀。问题的本"
 resource: "https://x.com/i/status/2039190949587472451"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2039190949587472451"
+created: "2026-04-01"
+updated: "2026-06-26"
+sha256: "d7963d9e253661ea69535b3ae9570fcc37a169ed7a5e6e6054120e943e85935d"
+sources:
+  - "/sources/news/2026-04-01/00__unixzii__claude-code-代码债-曝光-51万行面条代码背后的ai编程范式危机.md"
 ---
 
 # Claude Code「代码债」曝光：51万行面条代码背后的AI编程范式危机

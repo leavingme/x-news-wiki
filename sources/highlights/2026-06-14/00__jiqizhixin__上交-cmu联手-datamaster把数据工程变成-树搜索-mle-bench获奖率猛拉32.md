@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "上交+CMU联手：DataMaster把数据工程变成「树搜索」，MLE-Bench获奖率猛拉32%"
 description: "**当数据工程被当作 tree search 来解：自主 Agent 在 MLE-Bench Lite 上把奖牌率拉高 32.27%**  - 上海交大 + CMU 等机构发布 DataMaster：把数据工程拆成「分支探索外部数据集 → 筛选清洗 → 共享记忆复用」的树搜索结构 - 在 MLE-Bench Lite 上比起点分数提升 32.27%，PostTrainBench 上也有显著增益——"
 resource: "https://x.com/i/status/2066165260998811704"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2066165260998811704"
+created: "2026-06-14"
+updated: "2026-06-26"
+sha256: "680165b320521cf55a5608bbade423ab3cd495e17b741b11015a9e2b6c1cf5b1"
+sources:
+  - "/sources/highlights/2026-06-14/00__jiqizhixin__上交-cmu联手-datamaster把数据工程变成-树搜索-mle-bench获奖率猛拉32.md"
 ---
 
 # 上交+CMU联手：DataMaster把数据工程变成「树搜索」，MLE-Bench获奖率猛拉32%

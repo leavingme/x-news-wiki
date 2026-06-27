@@ -1,5 +1,5 @@
 ---
-type: "Author"
+type: "entity"
 title: "深海 (@kk_shinkai)"
 description: "X/Twitter 作者 @kk_shinkai。共收录 1 条 AI 精选推文。"
 tags:
@@ -12,6 +12,12 @@ x_author_name: "深海"
 x_tweet_count: 1
 x_first_seen: "2026-03-30T00:43:26.141Z"
 x_last_seen: "2026-03-30T00:43:26.141Z"
+type_okf: "Author"
+created: "2026-03-30"
+updated: "2026-06-26"
+sha256: "d5ab2f63f8c137d44c811ace6df8b2ef99892dd6f1c136970dc4f091d1171b30"
+sources:
+  - "/sources/news/2026-03-30/00__kk_shinkai__你别问对不对-你就说快不快-js-排版方案的暴力美学反思.md"
 ---
 
 # 深海 (@kk_shinkai)

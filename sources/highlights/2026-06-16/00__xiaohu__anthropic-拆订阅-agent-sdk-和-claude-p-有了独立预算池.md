@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Anthropic 拆订阅：Agent SDK 和 claude -p 有了独立预算池"
 description: "【Anthropic 把 Agent SDK / claude -p 用量从主订阅池子里拆出，按订阅档位发\"专用津贴\"，等于官方给 Agent 玩家开了独立预算池。】  要点 1：Pro 用户 $20、Max 5x $100，按档位定档；用完才扣主套餐，不滚存，需一次性手动领取后自动续期。 要点 2：核心痛点是批量跑 Agent 把日常对话配额吃光，\"用 Claude 写代码\"和\"用 Claude"
 resource: "https://x.com/i/status/2066696714917126614"
@@ -22,6 +22,13 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "ai-tool-subscription-value"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2066696714917126614"
+created: "2026-06-16"
+updated: "2026-06-26"
+sha256: "016cfe6451d1cc6dfe018e4b626c6cfa8bb1e711ceddfb883503a22c2bac8904"
+sources:
+  - "/sources/highlights/2026-06-16/00__xiaohu__anthropic-拆订阅-agent-sdk-和-claude-p-有了独立预算池.md"
 ---
 
 # Anthropic 拆订阅：Agent SDK 和 claude -p 有了独立预算池

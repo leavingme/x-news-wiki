@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Z.ai 正式发布 GLM-5.2：1M 上下文 + MIT 开源 + 双推理档位同价升级"
 description: "**[Z.ai 推出 GLM-5.2，国产前沿开源模型再添重磅选手]**  - 1M token 长上下文窗口，长程 Agent 任务承载力显著提升 - MIT 许可开源权重（区别于多数国产模型的自定义许可条款） - 双推理档位：GLM-5.2（max）极限性能，GLM-5.2（high）兼顾效率 - API 价格与 GLM-5.1 持平——开源旗舰 + 价格稳定的组合   gakki 锐评：在国"
 resource: "https://x.com/Zai_org/status/2066938937344495629"
@@ -22,6 +22,13 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "domestic-model-competition"
 x_source: "ai-trend-digest"
+type_okf: "X Tweet"
+source_url: "https://x.com/Zai_org/status/2066938937344495629"
+created: "2026-06-16"
+updated: "2026-06-26"
+sha256: "8f99a1982a5a5875275c6c0e05038717fd13c5544e97b36028bd7b3a195b22d5"
+sources:
+  - "/sources/news/2026-06-16/00__Zai_org__z-ai-正式发布-glm-5-2-1m-上下文-mit-开源-双推理档位同价升级.md"
 ---
 
 # Z.ai 正式发布 GLM-5.2：1M 上下文 + MIT 开源 + 双推理档位同价升级

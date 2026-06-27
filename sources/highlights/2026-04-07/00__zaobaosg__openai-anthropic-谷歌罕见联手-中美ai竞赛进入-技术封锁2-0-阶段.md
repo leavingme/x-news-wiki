@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "OpenAI、Anthropic、谷歌罕见联手：中美AI竞赛进入「技术封锁2.0」阶段"
 description: "**[三大AI巨头搁置竞争联合防华，技术铁幕正在升级]**  • 据联合早报，OpenAI、Anthropic PBC与Alphabet旗下谷歌已展开合作，试图遏制中国竞争对手从美国先进AI模型中提取结果 • 这标志着美国AI企业从竞争转向「联合抗中」的战略转变，区别于此前各自为战的封锁状态 • 封锁手段从硬件（芯片）扩展到模型输出层面，意味着中国AI公司的数据获取和模型蒸馏路径将受到更大约束  "
 resource: "https://x.com/i/status/2041303859960635661"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2041303859960635661"
+created: "2026-04-06"
+updated: "2026-06-26"
+sha256: "89efa9d36d4cbbbaff2d265de3571aa115b65f2e1ba2e421c3f5bb4e8ba4beca"
+sources:
+  - "/sources/highlights/2026-04-07/00__zaobaosg__openai-anthropic-谷歌罕见联手-中美ai竞赛进入-技术封锁2-0-阶段.md"
 ---
 
 # OpenAI、Anthropic、谷歌罕见联手：中美AI竞赛进入「技术封锁2.0」阶段

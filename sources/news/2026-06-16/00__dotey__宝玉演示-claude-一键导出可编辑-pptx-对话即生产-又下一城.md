@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "宝玉演示 Claude 一键导出可编辑 PPTX：'对话即生产' 又下一城"
 description: "**[Claude 把 '对话即生产' 推到 Office 原生格式层]**  · 在 Claude 同一会话中说 '导出 PPTX' 即可生成 .pptx 文件 · 导出文件可被 PowerPoint 直接打开二次编辑，零模板、零转换 · 这是继 Markdown 后 Claude 拿下的第二个 Office 原生格式  gakki 锐评：'聊完即可交付' 的体验是当前国内 AI 工具最缺的最后"
 resource: "https://x.com/i/status/2066737885798175022"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2066737885798175022"
+created: "2026-06-16"
+updated: "2026-06-26"
+sha256: "f542013a5d20f3d09cb9a1c59cb0f4704ea79e3f33c43474fda9d92624098a96"
+sources:
+  - "/sources/news/2026-06-16/00__dotey__宝玉演示-claude-一键导出可编辑-pptx-对话即生产-又下一城.md"
 ---
 
 # 宝玉演示 Claude 一键导出可编辑 PPTX：'对话即生产' 又下一城

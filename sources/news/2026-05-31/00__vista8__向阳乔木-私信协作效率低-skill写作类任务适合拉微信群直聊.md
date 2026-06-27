@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "向阳乔木：私信协作效率低，Skill写作类任务适合拉微信群直聊"
 description: "**[私信不如群聊——协作媒介选择的工程直觉]**  向阳乔木提出一个实操判断：涉及Skill编写和写作的多方协作，私信效率极低，正确姿势是拉一个微信群直接聊。这个观察本质上是「工具选择」问题——异步书面沟通在模糊需求对齐上远不如同步口头交流。  这与他在推文生态中的定位一致：内容工业化实战派。   **gakki 判断：** 协作效率是Skill工作流中的真痛点，但解法不新鲜——问题在于为什么S"
 resource: "https://x.com/i/status/2060910697723404669"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2060910697723404669"
+created: "2026-05-31"
+updated: "2026-06-26"
+sha256: "d9dc4aeed3a7a68abd3a6cd88f468c9bfad29fd292de2d3cfc24eeca6460f148"
+sources:
+  - "/sources/news/2026-05-31/00__vista8__向阳乔木-私信协作效率低-skill写作类任务适合拉微信群直聊.md"
 ---
 
 # 向阳乔木：私信协作效率低，Skill写作类任务适合拉微信群直聊

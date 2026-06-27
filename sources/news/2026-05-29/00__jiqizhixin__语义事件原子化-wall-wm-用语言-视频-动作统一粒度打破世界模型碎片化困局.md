@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "语义事件原子化：WALL-WM 用语言-视频-动作统一粒度打破世界模型碎片化困局"
 description: "**[一句话核心判断]**  X Square Robot 发布的 WALL-WM（World Action Model）提出以语义事件为原子单元，在语言、视频、动作三层模态间建立粒度对齐——这是具身智能从「感知碎片」走向「统一时空推理」的关键路径。  **信息增量：** - 现有世界模型多为单模态（视觉预测或动作规划），WALL-WM 首次将语义事件作为跨模态对齐的桥梁； - 对机器人操作（拿取"
 resource: "https://x.com/i/status/2060294185643810858"
@@ -22,6 +22,13 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "world-model-paradigm"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2060294185643810858"
+created: "2026-05-29"
+updated: "2026-06-26"
+sha256: "2d7166444d5e0ce1d85764e9a969ff3afd14bf0d297100edf9d32fcd7793bc9a"
+sources:
+  - "/sources/news/2026-05-29/00__jiqizhixin__语义事件原子化-wall-wm-用语言-视频-动作统一粒度打破世界模型碎片化困局.md"
 ---
 
 # 语义事件原子化：WALL-WM 用语言-视频-动作统一粒度打破世界模型碎片化困局

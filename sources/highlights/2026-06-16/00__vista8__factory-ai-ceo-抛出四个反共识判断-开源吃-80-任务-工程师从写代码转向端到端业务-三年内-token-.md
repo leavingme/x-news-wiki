@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Factory AI CEO 抛出四个反共识判断：开源吃 80% 任务、工程师从写代码转向端到端业务、三年内 Token 支出追平薪资"
 description: "**顶级模型做规划决策，开源模型执行 80%-90% 任务，AI 杠杆向本就有杠杆的人倾斜**  - 80%-90% 任务用开源模型即可完成，顶级模型最适合做规划和决策——开源性价比拐点已被头部工程团队确认 - AI 给高杠杆的人更高杠杆，给低杠杆的人帮助相对有限——马太效应在算力层被结构性放大 - 未来三年最值钱的工程师不是快速写代码的人，而是能端到端拥有业务结果的人 - 三年内 Token 支"
 resource: "https://x.com/i/status/2066899718689673540"
@@ -22,6 +22,13 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "product-definition-moat"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2066899718689673540"
+created: "2026-06-16"
+updated: "2026-06-26"
+sha256: "1b112cbac94f8b8c58ced1e9dfdd94f25e6120b79d100da1723b8dbc75ae9d37"
+sources:
+  - "/sources/highlights/2026-06-16/00__vista8__factory-ai-ceo-抛出四个反共识判断-开源吃-80-任务-工程师从写代码转向端到端业务-三年内-token-.md"
 ---
 
 # Factory AI CEO 抛出四个反共识判断：开源吃 80% 任务、工程师从写代码转向端到端业务、三年内 Token 支出追平薪资

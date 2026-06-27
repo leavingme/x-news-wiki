@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "AI模拟「不同人」思考的能力被高估了"
 description: "**[一句话核心判断]**  Michael Anti 认为 AI 在模拟不同人思考方面很强大——这个判断在直觉上吸引人，但禁不起推敲。  - AI 模拟的是「表达风格」，不是「思维结构」——不同人的外在输出可以相似，但背后的决策逻辑、经验权重、情绪变量无法被 token 序列还原 - 当前 AI 的「多视角」本质上是训练数据中人类表达的统计混合，而非真正的认知切换 - 这种混淆正在导致 AI 应"
 resource: "https://x.com/i/status/2059509104486568331"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2059509104486568331"
+created: "2026-05-27"
+updated: "2026-06-26"
+sha256: "ee012be0fc4065925e19bbfb49a9cbe4447270f85c9c2cd51fc8b52fdf6082f7"
+sources:
+  - "/sources/news/2026-05-27/00__mranti__ai模拟-不同人-思考的能力被高估了.md"
 ---
 
 # AI模拟「不同人」思考的能力被高估了

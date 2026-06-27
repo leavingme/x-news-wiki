@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "宝玉点出Agent协作隐藏盲区：人类与Agent并行修改冲突是工具链的空白"
 description: "**一句话核心判断**：Agent工程化的最大盲区浮出水面——'我改了A，Agent改了B，合并时互相覆盖'，主流工具链完全没解决。  **要点**： - 来源：宝玉推荐dongxi_nlp的文章，看完'脊背发寒' - 痛点：Agent执行长任务时人类不会干等，但人一动手就埋下冲突 - 现状：Claude Code、Codex等Agent工具都没有事务性的并发保护   gakki锐评：这暴露了Ag"
 resource: "https://x.com/i/status/2065091509876088861"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2065091509876088861"
+created: "2026-06-11"
+updated: "2026-06-26"
+sha256: "a978139c4181b5949bfc2d8ace5057c14addd40e03be4b1d5837bdc1673ad1ec"
+sources:
+  - "/sources/news/2026-06-11/00__dotey__宝玉点出agent协作隐藏盲区-人类与agent并行修改冲突是工具链的空白.md"
 ---
 
 # 宝玉点出Agent协作隐藏盲区：人类与Agent并行修改冲突是工具链的空白

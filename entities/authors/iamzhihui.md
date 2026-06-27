@@ -1,5 +1,5 @@
 ---
-type: "Author"
+type: "entity"
 title: "志辉 (@iamzhihui)"
 description: "X/Twitter 作者 @iamzhihui。共收录 1 条 AI 精选推文。"
 tags:
@@ -12,6 +12,12 @@ x_author_name: "志辉"
 x_tweet_count: 1
 x_first_seen: "2026-06-24T22:27:57.067Z"
 x_last_seen: "2026-06-24T22:27:57.067Z"
+type_okf: "Author"
+created: "2026-06-24"
+updated: "2026-06-26"
+sha256: "2b02008a0cba9588a1620772a1b3a864d7482cfdb12eb6b663da8ef6c05e7ea5"
+sources:
+  - "/sources/news/2026-06-24/00__iamzhihui__社区自发-终于讲明白-gstack-yc-工作流操作系统正在破圈.md"
 ---
 
 # 志辉 (@iamzhihui)

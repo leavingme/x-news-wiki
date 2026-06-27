@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Codex Chrome 插件已能跑通真实购物流程：Agent 从「辅助编码」滑向「生活代办」"
 description: "**订阅登录后切 API 仍可用，说明 Codex 的身份验证与能力边界正在松绑。** - 实测走到下单环节，意味着浏览器 Agent 的商品识别→加购→支付链路已基本闭合 - 从写代码到买牙膏，Agent 的「任务域」正在从开发者场景溢出到消费场景  gakki 锐评：单条实操案例，离「人人可用」还有距离，但信号清晰——浏览器 Agent 的杀手级应用不在 IDE，在生活。"
 resource: "https://x.com/i/status/2052953667817578581"
@@ -22,6 +22,13 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "ai-browser-platform-war"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2052953667817578581"
+created: "2026-05-09"
+updated: "2026-06-26"
+sha256: "968e5ba38e330f803f0bc8cee4f8ff29238aed854b38cd29d29b3c05c0c2c626"
+sources:
+  - "/sources/news/2026-05-09/00__vista8__codex-chrome-插件已能跑通真实购物流程-agent-从-辅助编码-滑向-生活代办.md"
 ---
 
 # Codex Chrome 插件已能跑通真实购物流程：Agent 从「辅助编码」滑向「生活代办」

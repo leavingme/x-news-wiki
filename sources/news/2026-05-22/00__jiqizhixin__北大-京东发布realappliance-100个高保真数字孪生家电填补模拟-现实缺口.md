@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "北大+京东发布RealAppliance：100个高保真数字孪生家电填补模拟-现实缺口"
 description: "**[具身AI的\"沙盘\"终于对准了真实家庭]**  北大与京东联合发布RealAppliance数据集，包含100个精确匹配真实产品手册的高保真数字家电孪生体，并配套RealAppliance-Bench基准测试，涵盖手册检索、部件定位、操控规划三项能力。核心价值在于填补了当前具身AI研究中\"模拟器里的机器人 vs 真实家电\"的落差——此前多模态模型在仿真环境表现优异，但落地时连洗衣机面板都读不懂"
 resource: "https://x.com/i/status/2057633544542044535"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2057633544542044535"
+created: "2026-05-22"
+updated: "2026-06-26"
+sha256: "da3a64a5bb216256ac4ad41404f2e952eadafc4b836433d3bdac0f3d787fef8a"
+sources:
+  - "/sources/news/2026-05-22/00__jiqizhixin__北大-京东发布realappliance-100个高保真数字孪生家电填补模拟-现实缺口.md"
 ---
 
 # 北大+京东发布RealAppliance：100个高保真数字孪生家电填补模拟-现实缺口

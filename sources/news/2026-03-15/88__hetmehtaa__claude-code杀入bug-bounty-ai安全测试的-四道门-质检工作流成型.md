@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Claude Code杀入Bug Bounty：AI安全测试的「四道门」质检工作流成型"
 description: "**AI白帽的「自动驾驶」模式初见端倪。**  • 单轮对话即可完成攻击面测绘→扫描器执行→四道门验证→报告生成的完整闭环 • 关键突破不在于「能找到漏洞」，而在于「四道门验证机制」解决了AI安全扫描的误报率问题 • 这标志着Claude Code从「代码助手」向「安全分析师」的角色跃迁  当AI开始系统性地挖掘安全漏洞，攻防双方的武器代差正在拉开。值得关注的不是技术本身，而是这种「单会话闭环」工"
 resource: "https://x.com/i/status/2033116046312472713"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 88
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2033116046312472713"
+created: "2026-03-15"
+updated: "2026-06-26"
+sha256: "4bb5ebae481849fda4d92b771fc7b6c5a33b6d9b7970c80c77ae232d6525ec2d"
+sources:
+  - "/sources/news/2026-03-15/88__hetmehtaa__claude-code杀入bug-bounty-ai安全测试的-四道门-质检工作流成型.md"
 ---
 
 # Claude Code杀入Bug Bounty：AI安全测试的「四道门」质检工作流成型

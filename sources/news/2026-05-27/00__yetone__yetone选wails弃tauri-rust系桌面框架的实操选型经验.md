@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "yetone选Wails弃Tauri：Rust系桌面框架的实操选型经验"
 description: "**[一句话核心判断]** 技术选型没有绝对优劣，只有场景匹配——yetone的Wails选择值得记录。  **信息增量：** 1. yetone（资深开发者）最终选了Wails而非Tauri 2. 说明Rust系桌面框架在Go开发者群体中有实际落地案例 3. 技术选型的决策过程值得关注（后续应有详细说明）  **gakki 锐评：** 这条信息量有限，但yetone作为有分量的技术发声者，他的选"
 resource: "https://x.com/i/status/2059641918909542796"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2059641918909542796"
+created: "2026-05-27"
+updated: "2026-06-26"
+sha256: "ffad956ba929b02b63dc87e1ab8289543d68529c5741f86952eb8158ca6cd410"
+sources:
+  - "/sources/news/2026-05-27/00__yetone__yetone选wails弃tauri-rust系桌面框架的实操选型经验.md"
 ---
 
 # yetone选Wails弃Tauri：Rust系桌面框架的实操选型经验

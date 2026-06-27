@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Claude-Mem 开源：跨会话记忆终于有人「治本」了"
 description: "**[Token 成本暴跌 95%、工具调用提升 20 倍，记忆痛点迎来工程级解法]**  • 通过持久化记忆层，Claude Code 摆脱「每会话失忆」困境，上下文压缩与编码习惯抽离成为核心机制。  • 与 Anthropic 黑客松冠军 everything-claude-code 形成社区共振：记忆优化正从「问题」变成「赛道」。  • 开源路线意味着这不是 Anthropic 官方方案，而"
 resource: "https://x.com/i/status/2028732614811763060"
@@ -22,6 +22,13 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "agent-memory-optimization"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2028732614811763060"
+created: "2026-03-03"
+updated: "2026-06-26"
+sha256: "cfc5fb0c81e94febfb69739d341f7203a42c9bb8e98f9e9b1e4cd1b719ddb144"
+sources:
+  - "/sources/highlights/2026-03-04/00__0xCheshire__claude-mem-开源-跨会话记忆终于有人-治本-了.md"
 ---
 
 # Claude-Mem 开源：跨会话记忆终于有人「治本」了

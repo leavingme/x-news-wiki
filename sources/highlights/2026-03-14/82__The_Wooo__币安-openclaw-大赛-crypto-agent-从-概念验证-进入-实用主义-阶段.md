@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "币安 OpenClaw 大赛：Crypto Agent 从「概念验证」进入「实用主义」阶段"
 description: "**[当链上分析从「手动翻网站 30 分钟」变成「一句话 3 分钟」，Agent 的金融场景开始真正跑通]**  • 币安提供标准化 Skills（市场排名、交易信号、合约检测、地址查询等），降低链上分析门槛 • 核心场景：资金流入监控 + 合约风险扫描 + 叙事追踪的自动化工作流 • 标志着 Crypto 数据工具从「专业分析师」向「个人投资者」下沉  gakki：Crypto 是 Agent "
 resource: "https://x.com/i/status/2032378445024346289"
@@ -22,6 +22,13 @@ x_selected: 2
 x_priority: 82
 x_related_topic: "ai-crypto-agent-infra"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2032378445024346289"
+created: "2026-03-13"
+updated: "2026-06-26"
+sha256: "05e2a0fe6f0f2698e8a8322faa6a37a2449d5cc624ccfeedba1626455acb70ad"
+sources:
+  - "/sources/highlights/2026-03-14/82__The_Wooo__币安-openclaw-大赛-crypto-agent-从-概念验证-进入-实用主义-阶段.md"
 ---
 
 # 币安 OpenClaw 大赛：Crypto Agent 从「概念验证」进入「实用主义」阶段

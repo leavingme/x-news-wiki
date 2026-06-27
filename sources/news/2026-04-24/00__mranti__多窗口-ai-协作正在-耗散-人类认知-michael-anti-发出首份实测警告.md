@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "多窗口 AI 协作正在\"耗散\"人类认知：Michael Anti 发出首份实测警告"
 description: "**[AI 效率狂飙与人类认知进化速度严重失配，\"合作方式\"本身需要被重新设计]**  • Michael Anti（知名科技评论人）亲身验证：同时开多个 AI 窗口处理任务，最终\"人被耗散光了\" • 核心洞察：人类尚未进化出适应 AI 效率的认知模式，至少他这一代不行——这是来自实践者的第一声警报 • 隐含命题：当 AI 能并发处理无限任务时，人类作为协调者的认知带宽成了真正的瓶颈  这不是矫情"
 resource: "https://x.com/i/status/2047635923995910440"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2047635923995910440"
+created: "2026-04-24"
+updated: "2026-06-26"
+sha256: "35720b4438eb392b4e86f1412dde86d8edc71402ad93cf7696cefe4b89bac986"
+sources:
+  - "/sources/news/2026-04-24/00__mranti__多窗口-ai-协作正在-耗散-人类认知-michael-anti-发出首份实测警告.md"
 ---
 
 # 多窗口 AI 协作正在"耗散"人类认知：Michael Anti 发出首份实测警告

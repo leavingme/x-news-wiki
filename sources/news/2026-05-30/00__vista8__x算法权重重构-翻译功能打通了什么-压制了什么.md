@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "X算法权重重构：翻译功能打通了什么、压制了什么"
 description: "**[翻译打通不等于平权——X新算法让帖子间内耗更剧烈]**  向阳乔木揭露X平台算法两个关键变化：一是翻译功能上线后跨语言互动权重有变，二是帖子之间的竞争权重被重新分配，意味着你的旧帖子会持续抢新帖子的流量。  信息增量：算法内卷逻辑首次被明确描述——这不是平台变大变公平了，而是存量竞争的零和博弈加剧。  对谁有影响：依赖X做分发の中文创作者，特别是多帖子、高频输出者，受冲击最大。  gakki"
 resource: "https://x.com/i/status/2060586304577102058"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2060586304577102058"
+created: "2026-05-30"
+updated: "2026-06-26"
+sha256: "e3be2be7133f58b89280f9ad42163060b414c82dc55387ca3fae48e3e42ed73a"
+sources:
+  - "/sources/news/2026-05-30/00__vista8__x算法权重重构-翻译功能打通了什么-压制了什么.md"
 ---
 
 # X算法权重重构：翻译功能打通了什么、压制了什么

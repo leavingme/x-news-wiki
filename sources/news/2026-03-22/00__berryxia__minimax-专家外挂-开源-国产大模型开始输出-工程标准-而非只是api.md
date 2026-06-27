@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "MiniMax「专家外挂」开源：国产大模型开始输出「工程标准」而非只是API"
 description: "**[Skills标准化正在成为国内大模型竞争的新战场]** • 内容增量：覆盖全栈开发（React/Next.js/Tailwind）、移动端原生、GLSL Shader、办公自动化（PPTX/PDF/Excel）的完整技能矩阵 • 信号意义：MiniMax从「卖模型」转向「卖工程范式」，与Claude Skills、OpenClaw Skill生态形成正面竞争 • 开发者价值：直接对接Curs"
 resource: "https://x.com/i/status/2035623099538997402"
@@ -22,6 +22,13 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "skill-automation-engineering"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2035623099538997402"
+created: "2026-03-22"
+updated: "2026-06-26"
+sha256: "c511707eb4a81ffb6173afe0b6503dd659d22b822b18127991c80d39109753e4"
+sources:
+  - "/sources/news/2026-03-22/00__berryxia__minimax-专家外挂-开源-国产大模型开始输出-工程标准-而非只是api.md"
 ---
 
 # MiniMax「专家外挂」开源：国产大模型开始输出「工程标准」而非只是API

@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "中美具身智能产品矩阵对照：硬件代差正在显形"
 description: "**美国具身智能有 Tesla 擎天柱、波士顿动力等明星硬件；中国在消费级/工业级人形机器人上仍缺同量级产品符号。**  - 软件层中美已经对位（ChatGPT/Claude/Gemini vs 豆包/千问/元宝），但硬件载体上中国缺乏可对标的明星产品 - 这一缺位不只是 PR 问题，更深层是中国机器人产业链缺乏特斯拉那样的\"汽车制造能力外溢\"路径 - 对关注 embodied-ai 的人来说，2"
 resource: "https://x.com/i/status/2065278450190188638"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2065278450190188638"
+created: "2026-06-12"
+updated: "2026-06-26"
+sha256: "3a143f2565bc0dfd4fca6762f5b3593fbcc5644d0f92e0e683fd8eb028d8adae"
+sources:
+  - "/sources/news/2026-06-12/00__lxfater__中美具身智能产品矩阵对照-硬件代差正在显形.md"
 ---
 
 # 中美具身智能产品矩阵对照：硬件代差正在显形

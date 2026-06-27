@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "GPT Image 2 文字理解实测：提示词改造后「刺绣风」图像生成精度突破预期"
 description: "**Prompt 工程再次证明：不是模型不够强，是输入框架还没到位。**  经过宝玉改造的 GPT Image 2 刺绣风插画 Prompt 展示出超预期的文字理解与风格还原能力——从「蚕丝白 + 奶白」底色到丝线质感的层次表达，模型对中文提示词的空间结构理解出现明显提升。  - Prompt 结构化程度直接影响生成质量，「深度解析 + 视觉隐喻 + 色彩约束」三层框架比简单描述有效得多 - 国产"
 resource: "https://x.com/i/status/2048595905436324255"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2048595905436324255"
+created: "2026-04-27"
+updated: "2026-06-26"
+sha256: "3c817ea78a6a87844e353ad0e1a8f896757628664ad47a2c8278ed5743914081"
+sources:
+  - "/sources/news/2026-04-27/00__xiaohu__gpt-image-2-文字理解实测-提示词改造后-刺绣风-图像生成精度突破预期.md"
 ---
 
 # GPT Image 2 文字理解实测：提示词改造后「刺绣风」图像生成精度突破预期

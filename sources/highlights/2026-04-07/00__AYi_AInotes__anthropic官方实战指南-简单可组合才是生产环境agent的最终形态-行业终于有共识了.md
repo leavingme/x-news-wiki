@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Anthropic官方实战指南：简单可组合才是生产环境Agent的最终形态，行业终于有共识了"
 description: "**一句话判断：Anthropic 用官方指南定义了 Agent 的工程标准，跟风复杂框架的人可以散了。**  Anthropic 官方发布《Building Effective AI Agents》实战指南，核心观点：做 AI 智能体，别搞复杂框架，\"简单、可组合的模式才是生产环境里最能打的\"。这篇指南被多个从业者评价为\"点透生产环境 Agent 的核心构建原则\"。  要点： - 官方认证简单架"
 resource: "https://x.com/i/status/2041458487679726027"
@@ -22,6 +22,13 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "agent-engineering-vs-product"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2041458487679726027"
+created: "2026-04-07"
+updated: "2026-06-26"
+sha256: "46def805f8648977868af75a8d06b7a3b4f8b3af31c93c1896a11dc00f7216cd"
+sources:
+  - "/sources/highlights/2026-04-07/00__AYi_AInotes__anthropic官方实战指南-简单可组合才是生产环境agent的最终形态-行业终于有共识了.md"
 ---
 
 # Anthropic官方实战指南：简单可组合才是生产环境Agent的最终形态，行业终于有共识了

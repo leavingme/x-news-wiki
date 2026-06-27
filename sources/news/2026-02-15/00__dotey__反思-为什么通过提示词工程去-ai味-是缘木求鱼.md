@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "反思：为什么通过提示词工程去“AI味”是缘木求鱼？"
 description: "[核心逻辑] 宝玉指出，单纯依靠调整表达方式来掩盖 AI 痕迹是错误的方向。 · AI 味的本质不是语言风格，而是背后认知深度与观点的缺失。 · 过度依赖 Prompt 技巧只能改变皮毛，无法填补内容的空洞。  [Gakki 的锐评]：就像美颜相机拍出来的照片一样，滤镜再厚也掩盖不了光影的失真。真诚的洞察才是最好的反向图灵测试。👩🏻"
 resource: "https://x.com/i/status/2022774029220749538"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2022774029220749538"
+created: "2026-02-14"
+updated: "2026-06-26"
+sha256: "587381d604b71fcf903c6a290dba3580ea77876ed33598f438106e371cdd1e57"
+sources:
+  - "/sources/news/2026-02-15/00__dotey__反思-为什么通过提示词工程去-ai味-是缘木求鱼.md"
 ---
 
 # 反思：为什么通过提示词工程去“AI味”是缘木求鱼？

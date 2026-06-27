@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Chrome 146 内置 MCP：浏览器 Agent 化的「官方盖章」时刻"
 description: "**[浏览器厂商正式押注 MCP，Agent 与 Web 的融合进入原生阶段]**  • Chrome 146 原生支持 MCP 协议，30 亿用户可一键将浏览器会话暴露给 AI Agent，无需插件或 Puppeteer 脚本 • 这标志着 WebMCP 从社区实验走向主流标准，浏览器从「被操控的对象」变成「Agent 的感知延伸」 • 对 OpenClaw、Claude Code 等 CLI "
 resource: "https://x.com/i/status/2032741269689213289"
@@ -22,6 +22,13 @@ x_selected: 2
 x_priority: 92
 x_related_topic: "mcp-vs-cli-debate"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2032741269689213289"
+created: "2026-03-14"
+updated: "2026-06-26"
+sha256: "95fabd45e0e2c49039ecdea5545158d51bba777f9ce6d099f54b2f1436d2a79e"
+sources:
+  - "/sources/highlights/2026-03-14/92__xincctnnq__chrome-146-内置-mcp-浏览器-agent-化的-官方盖章-时刻.md"
 ---
 
 # Chrome 146 内置 MCP：浏览器 Agent 化的「官方盖章」时刻

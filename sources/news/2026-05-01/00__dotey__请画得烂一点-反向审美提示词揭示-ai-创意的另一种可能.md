@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "「请画得烂一点」：反向审美提示词揭示 AI 创意的另一种可能"
 description: "**刻意追求「丑」的提示词，恰恰暴露了 AI 生成内容的同质化困境。**  - 宝玉分享的提示词故意要求 MS Paint 级别的「惨不忍睹」画风 - 这种反向操作的价值在于：当所有人都在追求「更好」时，「故意更差」反而成为一种差异化表达 - 暗示了 AI 内容创作的一个深层矛盾——工具越强，表达越趋同  Gakki 锐评：这条推文的价值不在提示词本身，而在于它揭示了一个趋势：当 AI 生成的「好"
 resource: "https://x.com/i/status/2050035092655874261"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2050035092655874261"
+created: "2026-05-01"
+updated: "2026-06-26"
+sha256: "430c7e69f3f5602e73cf15b6df7c77dc47efc9a707cffc9693ad3fc5681af0ae"
+sources:
+  - "/sources/news/2026-05-01/00__dotey__请画得烂一点-反向审美提示词揭示-ai-创意的另一种可能.md"
 ---
 
 # 「请画得烂一点」：反向审美提示词揭示 AI 创意的另一种可能

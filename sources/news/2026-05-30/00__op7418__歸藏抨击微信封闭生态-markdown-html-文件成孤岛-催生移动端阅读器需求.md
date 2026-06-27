@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "歸藏抨击微信封闭生态：Markdown/HTML 文件成孤岛，催生移动端阅读器需求"
 description: "**微信的「格式闭关锁国」正在制造信息断层**[1](https://x.com/guizang_ai/status/2060626984200437995)  - 歸藏指出 WeChat 既不支持 Markdown 也不支持 HTML，移动端用户收到这两类文件几乎无法直接打开，这暴露了微信作为「超级 App」的生态割裂问题——平台为了锁住内容，牺牲了最基本的互操作性 - 他提到「感觉要做个手机上"
 resource: "https://x.com/i/status/2060626984200437995"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2060626984200437995"
+created: "2026-05-30"
+updated: "2026-06-26"
+sha256: "85891ac1f160c946241ffde128ebbc717ab8b73d0ca61e8d49c1ac0ccad059fa"
+sources:
+  - "/sources/news/2026-05-30/00__op7418__歸藏抨击微信封闭生态-markdown-html-文件成孤岛-催生移动端阅读器需求.md"
 ---
 
 # 歸藏抨击微信封闭生态：Markdown/HTML 文件成孤岛，催生移动端阅读器需求

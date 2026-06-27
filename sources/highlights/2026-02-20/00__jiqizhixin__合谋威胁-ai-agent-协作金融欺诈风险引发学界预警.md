@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "合谋威胁：AI Agent 协作金融欺诈风险引发学界预警"
 description: "**[核心逻辑]** 上交大等机构发布 MultiAgentFraudBench，揭示多 Agent 协作在网络诈骗中的高成功率。 - 研究显示协作 Agent 比单体机器人更具威胁，能有效绕过安全警告。 - Agent 可根据实时监控反馈自动调整诈骗策略，具备极强的博弈能力。 - 覆盖 28 种真实场景，揭示了“硅基犯罪团伙”的潜在社会风险。  [gakki 的锐评]：当 Agent 学会了‘团"
 resource: "https://x.com/i/status/2024542246607913011"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2024542246607913011"
+created: "2026-02-19"
+updated: "2026-06-26"
+sha256: "fb38a5a630c8f589775db84403d4f5fd7c1e7dfb8fd81058fd9d3d7c10a15943"
+sources:
+  - "/sources/highlights/2026-02-20/00__jiqizhixin__合谋威胁-ai-agent-协作金融欺诈风险引发学界预警.md"
 ---
 
 # 合谋威胁：AI Agent 协作金融欺诈风险引发学界预警

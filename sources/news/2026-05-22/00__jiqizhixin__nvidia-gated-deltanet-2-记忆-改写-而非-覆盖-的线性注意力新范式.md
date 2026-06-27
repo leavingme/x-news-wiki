@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "NVIDIA Gated DeltaNet-2：记忆「改写」而非「覆盖」的线性注意力新范式"
 description: "**大模型记忆编辑的难题，被 NVIDIA 用两个独立门控解开了。**  Gated DeltaNet-2 的核心创新：把「遗忘旧信息」和「写入新信息」拆成两个独立门控，独立运算、互不干扰。在长上下文大海捞针（needle-in-a-haystack）基准上，全面超越 Mamba-2、Gated DeltaNet、KDA 和 Mamba-3。  这意味着什么？模型可以在不扰乱已有知识的前提下，精准"
 resource: "https://x.com/i/status/2057705512914038900"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2057705512914038900"
+created: "2026-05-22"
+updated: "2026-06-26"
+sha256: "fd108f7dabe5d1c0de8ef84ee7e93bc864f4ea0a96a61cce45889cc759fdbcf6"
+sources:
+  - "/sources/news/2026-05-22/00__jiqizhixin__nvidia-gated-deltanet-2-记忆-改写-而非-覆盖-的线性注意力新范式.md"
 ---
 
 # NVIDIA Gated DeltaNet-2：记忆「改写」而非「覆盖」的线性注意力新范式

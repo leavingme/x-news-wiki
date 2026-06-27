@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "模型厂商补贴大战忽略的隐形金矿：头部 Skills 开发者才是真正的分发节点"
 description: "**[模型厂商补贴客户端却漏掉了真正的分发节点]**  主流厂商都在补贴 Agent 框架和客户端，但忽视了一个更大的盲点：像藏师傅、宝玉、乔木、一泽这类头部 Skills 开发者，他们的 Skills 装机量遍布各种 Agent，数据厚度、广告价值和用户反馈潜力远超任何单一框架。问题是没有人提供合适的商业化路径来回馈这些开发者。  Skills 的传播广度和渗透率远大于 Agent 框架本身，但"
 resource: "https://x.com/i/status/2054414353731109224"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2054414353731109224"
+created: "2026-05-13"
+updated: "2026-06-26"
+sha256: "d9098fbba26bae6d5258154836cffc4f6373701932e88cf42e225c4a205c165e"
+sources:
+  - "/sources/news/2026-05-13/00__op7418__模型厂商补贴大战忽略的隐形金矿-头部-skills-开发者才是真正的分发节点.md"
 ---
 
 # 模型厂商补贴大战忽略的隐形金矿：头部 Skills 开发者才是真正的分发节点

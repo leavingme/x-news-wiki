@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "δ-mem：8×8 矩阵+Delta 规则，让冻结 LLM 外挂一个「不烧钱」的记忆模块"
 description: "[NTU×复旦×Mind Lab 给出 Agent 记忆的轻量新解]  - δ-mem 是一个独立小模块，把历史信息压缩进固定大小矩阵，通过 delta 规则增量更新 - 矩阵再通过调整 LLM 的 attention 召回相关历史，无需重训模型 - 8×8 状态就能在 MemoryAgent 任务上比冻结基线提升 1.31x，比其他记忆方法也高出 1.15x  锐评：比 RAG 和上下文摘要都更"
 resource: "https://x.com/i/status/2068189599504175262"
@@ -22,6 +22,13 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "agent-memory-optimization"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2068189599504175262"
+created: "2026-06-20"
+updated: "2026-06-26"
+sha256: "94d89cbd461b38e2eb4276856ba6c19f1ae9d094be5c47c7f695d1b0161636cb"
+sources:
+  - "/sources/news/2026-06-20/00__jiqizhixin__mem-8-8-矩阵-delta-规则-让冻结-llm-外挂一个-不烧钱-的记忆模块.md"
 ---
 
 # δ-mem：8×8 矩阵+Delta 规则，让冻结 LLM 外挂一个「不烧钱」的记忆模块

@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "AnySearch免费接入专业数据源：AI搜索的工具化竞争正在从「模型能力」转向「数据质量」"
 description: "**[AI搜索竞争维度迁移：从模型博弈到数据源争夺]**  铁锤人测试AnySearch后给出正面反馈，核心差异在于接入了专业数据源而非仅依赖通用AI搜索。免费使用进一步降低了企业用户的试用门槛。  - 当前AI搜索普遍存在「搜索多次、结果混乱」问题，根源在于数据源不可控 - 专业数据源接入意味着AI搜索正在从通用能力竞争转向垂直场景深耕 - 免费策略是在抢占企业市场的早期教育窗口  gakki："
 resource: "https://x.com/i/status/2060970565763256800"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2060970565763256800"
+created: "2026-05-31"
+updated: "2026-06-26"
+sha256: "96820c0cea9b5a7a02e26b882aaed24a578c590633cefb05ca0ed07cb3feb062"
+sources:
+  - "/sources/news/2026-05-31/00__lxfater__anysearch免费接入专业数据源-ai搜索的工具化竞争正在从-模型能力-转向-数据质量.md"
 ---
 
 # AnySearch免费接入专业数据源：AI搜索的工具化竞争正在从「模型能力」转向「数据质量」

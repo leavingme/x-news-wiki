@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "别再吹AI First了：真正的瓶颈是软件工程纪律，不是AI"
 description: "**[一句话核心判断]**  AI First是个伪命题，自动化测试覆盖率才是这条流水线能否跑起来的第一道门槛。  **要点：** - AI写代码2小时，PM做需求要几周——人成了链条里最慢的环节，但解决方案不是更多AI，而是把人从链条里拿掉 - 测试覆盖不足时，AI每次提交代码都需要人工回归，所谓的\"一天部署多次\"根本是幻觉 - 文中描述的整套自动化流水线，逻辑自洽，但前置条件是测试覆盖率，没有"
 resource: "https://x.com/i/status/2043936713618104582"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2043936713618104582"
+created: "2026-04-14"
+updated: "2026-06-26"
+sha256: "8409ae85f869df8b1192aaa9f671538d852e6e2a4c3715a424c4effabe6c5cbb"
+sources:
+  - "/sources/highlights/2026-04-14/00__dotey__别再吹ai-first了-真正的瓶颈是软件工程纪律-不是ai.md"
 ---
 
 # 别再吹AI First了：真正的瓶颈是软件工程纪律，不是AI

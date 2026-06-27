@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "DeepSeek V4-Pro/Flash 紧急上线：1M上下文+OpenAI兼容接口，三月后旧API强制下线"
 description: "**[DeepSeek V4系列正式登陆API，1M上下文+双接口兼容意味着什么]**  • V4-Pro 与 V4-Flash 同步上线，最大上下文1M，同时支持 OpenAI ChatCompletions 与 Anthropic 接口，迁移成本几乎为零 • 思考模式支持 reasoning_effort 参数（high/max），复杂Agent场景建议直接拉满，释放了\"推理强度可弹性调节\"的"
 resource: "https://x.com/i/status/2047514944158020048"
@@ -22,6 +22,13 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "deepseek-v4-open-source"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2047514944158020048"
+created: "2026-04-24"
+updated: "2026-06-26"
+sha256: "1cb1f8ec2adb82c13afdc49134d4bdf0426d4f578f7bf47ee5c9b44ae0e125dd"
+sources:
+  - "/sources/highlights/2026-04-24/00__dotey__deepseek-v4-pro-flash-紧急上线-1m上下文-openai兼容接口-三月后旧api强制下线.md"
 ---
 
 # DeepSeek V4-Pro/Flash 紧急上线：1M上下文+OpenAI兼容接口，三月后旧API强制下线

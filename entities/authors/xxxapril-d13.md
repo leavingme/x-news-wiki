@@ -1,5 +1,5 @@
 ---
-type: "Author"
+type: "entity"
 title: "April (@xxxApril_D13)"
 description: "X/Twitter 作者 @xxxApril_D13。共收录 1 条 AI 精选推文。"
 tags:
@@ -12,6 +12,12 @@ x_author_name: "April"
 x_tweet_count: 1
 x_first_seen: "2026-03-03T01:07:04.780Z"
 x_last_seen: "2026-03-03T01:07:04.780Z"
+type_okf: "Author"
+created: "2026-03-03"
+updated: "2026-06-26"
+sha256: "8e0bbce8f35fc4679061252056d444935f5d8f5cb17d5f0f224b9c2c083ffda5"
+sources:
+  - "/sources/news/2026-03-03/00__xxxApril_D13__ai正从-新技术-变为-国家级基础设施-企业身份面临根本性重塑.md"
 ---
 
 # April (@xxxApril_D13)

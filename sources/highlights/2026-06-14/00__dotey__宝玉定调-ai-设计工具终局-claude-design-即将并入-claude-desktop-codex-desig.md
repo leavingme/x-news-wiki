@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "宝玉定调 AI 设计工具终局：Claude Design 即将并入 Claude Desktop，Codex Design 走 Plugin 路线"
 description: "**[核心判断]** 宝玉判断：模型能力是根基，Harness 层好补，Claude Design 很快会并入 Claude Desktop，Codex 未来会通过 Plugin 集成 Codex Design。  - 垂直领域 Harness 不需要做太多：模型升级是真正决定设计类 Agent 上限的变量 - Anthropic 路线：Claude Design → Claude Desktop"
 resource: "https://x.com/i/status/2065991056261312674"
@@ -22,6 +22,13 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "claude-design-disruption"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2065991056261312674"
+created: "2026-06-14"
+updated: "2026-06-26"
+sha256: "be7e9217da2385767306c176c260cc144fe42b923c906c33975a9875a7d1e44c"
+sources:
+  - "/sources/highlights/2026-06-14/00__dotey__宝玉定调-ai-设计工具终局-claude-design-即将并入-claude-desktop-codex-desig.md"
 ---
 
 # 宝玉定调 AI 设计工具终局：Claude Design 即将并入 Claude Desktop，Codex Design 走 Plugin 路线

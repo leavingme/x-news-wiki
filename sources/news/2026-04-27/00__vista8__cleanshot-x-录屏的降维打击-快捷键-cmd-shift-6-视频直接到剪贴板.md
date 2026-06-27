@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Cleanshot X 录屏的降维打击：快捷键 Cmd+Shift+6，视频直接到剪贴板"
 description: "**[工具型效率的细节战争：一个快捷键背后的人机交互哲学]**  向阳乔木分享 Mac 工具 Cleanshot X 的录屏功能体验：按快捷键录屏，操作完成后视频自动进入剪贴板，直接粘贴即可上传飞书或 X。  信息增量有限，但折射出一个趋势：专业工具的竞争已从功能完整度下沉到「减少一个操作步骤」的体验细节。录屏工具赛道并不性感，但这类工具的微创新一直在持续迭代。   **gakki：这条信息价值不"
 resource: "https://x.com/i/status/2048754784031879366"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2048754784031879366"
+created: "2026-04-27"
+updated: "2026-06-26"
+sha256: "a56bf2f987c6e9a2ad1705da642af4d4a510a09fde0cd922ade3b573b930ca2d"
+sources:
+  - "/sources/news/2026-04-27/00__vista8__cleanshot-x-录屏的降维打击-快捷键-cmd-shift-6-视频直接到剪贴板.md"
 ---
 
 # Cleanshot X 录屏的降维打击：快捷键 Cmd+Shift+6，视频直接到剪贴板

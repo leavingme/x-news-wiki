@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "微软MarkItDown+MCP：文档格式大一统背后的「工具即入口」战略"
 description: "**[微软在用「格式通吃」的方式把MCP协议刻进开发者工作流]**  MarkItDown一行命令把PDF/Word/Excel/PPT/HTML/图片/音频/YouTube全转Markdown，还自带官方MCP Server。对AI编程的实际意义：在对话流程里直接让Claude读取并转换本地文件，对话不中断，文件处理在后台完成。这意味着「读取→理解→操作」的全链路第一次在MCP生态里被官方原生支"
 resource: "https://x.com/i/status/2042142334088048906"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2042142334088048906"
+created: "2026-04-09"
+updated: "2026-06-26"
+sha256: "8c2e4e99b6cba8bf1c214d2ab6061b008e2ea20e1c1784e41fa074519e2d7254"
+sources:
+  - "/sources/news/2026-04-09/00__xiaohu__微软markitdown-mcp-文档格式大一统背后的-工具即入口-战略.md"
 ---
 
 # 微软MarkItDown+MCP：文档格式大一统背后的「工具即入口」战略

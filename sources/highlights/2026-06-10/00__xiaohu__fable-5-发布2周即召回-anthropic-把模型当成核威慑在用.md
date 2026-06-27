@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Fable 5 发布2周即召回：Anthropic 把模型当成核威慑在用"
 description: "**Fable 5 注定是次短命发布：上线即意味着 2 周后撤回。**  - 模型发布被武器化，意义不在用户使用，而在向竞品和市场宣示算力储备 - 渠道方（CodePilot v0.56.0 等）刚接入新模型，2 周后又要适配回退版本，生态成本被转嫁 - 与 Michael Anti 的'实习生击败 Fable'判断形成共振：贵的模型被当烟花放，便宜的才是真正干活的   gakki 锐评：当模型供"
 resource: "https://x.com/i/status/2064480229939413200"
@@ -22,6 +22,13 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "cheap-model-trap"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2064480229939413200"
+created: "2026-06-09"
+updated: "2026-06-26"
+sha256: "c67c685911c37fdc1d0d12ce9e8b31ccab2319015275b2917d04f651f91d5e31"
+sources:
+  - "/sources/highlights/2026-06-10/00__xiaohu__fable-5-发布2周即召回-anthropic-把模型当成核威慑在用.md"
 ---
 
 # Fable 5 发布2周即召回：Anthropic 把模型当成核威慑在用

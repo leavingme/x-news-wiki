@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "币安Alpha涨幅100%背后：AI数据上链已从概念进入实战叙事"
 description: "**AI数据链上验证从「PPT叙事」进化到「实盘验证」**  Perle Labs ($PRL) 在币安Alpha上线后涨幅超100%，其核心定位「AI主权智能层——人类专家标注上链」首次在CX层面得到市场验证。关键信号：1）区块链+AI数据的组合不再是空气，而是有真实资金追随；2）Scale AI背景团队+1750万美元融资给出了基本面支撑；3）这个名字被four故意蹭「币安AI」营销，恰好证明"
 resource: "https://x.com/i/status/2037083618032652627"
@@ -22,6 +22,13 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "ai-data-blockchain-verification"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2037083618032652627"
+created: "2026-03-26"
+updated: "2026-06-26"
+sha256: "430950320505599668db0a8cdb1822b19a1ea1a8c622c5b9c6cd0af3e8d10086"
+sources:
+  - "/sources/news/2026-04-01/00__BeiDao_98__币安alpha涨幅100-背后-ai数据上链已从概念进入实战叙事.md"
 ---
 
 # 币安Alpha涨幅100%背后：AI数据上链已从概念进入实战叙事

@@ -1,5 +1,5 @@
 ---
-type: "Concept"
+type: "concept"
 title: "theory-of-space-embodied-ai"
 description: "跨日主题 \"theory-of-space-embodied-ai\"，共 3 条相关精选推文。"
 tags:
@@ -11,6 +11,14 @@ x_topic_slug: "theory-of-space-embodied-ai"
 x_tweet_count: 3
 x_first_seen: "2026-05-09T19:18:40.836Z"
 x_last_seen: "2026-06-22T22:18:47.465Z"
+type_okf: "Concept"
+created: "2026-05-09"
+updated: "2026-06-26"
+sha256: "8011acff1c5bd090ae0344dccd522aa7e905266800cd8516ea4b52d2cad2e98b"
+sources:
+  - "/sources/highlights/2026-05-10/00__dotey__jim-fan宣告vla时代终结-wam登场-具身智能从-看懂-转向-物理交互.md"
+  - "/sources/news/2026-05-09/00__jiqizhixin__leader-让机器人在噪声中-知道自己在哪-的新方法-错误率降-24.md"
+  - "/sources/news/2026-06-22/00__jiqizhixin__中科院-北航-南洋理工联合综述-用-认知地图-统一具身空间智能.md"
 ---
 
 # 主题: theory-of-space-embodied-ai

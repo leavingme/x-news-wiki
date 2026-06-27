@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "C 端陪伴类 AI 产品验证：星野证明情感陪伴是穿越周期的稳定需求"
 description: "**[星野式陪伴产品验证了一个冷酷假设：C 端 AI 存活路径是情感稀缺性，而非工具效率]**  余温指出「C 端陪伴类产品活得比较好，比如星野」。这句话信息量很大： - 陪伴是反周期品类——经济下行期，用户对情感慰藉的付费意愿不降反升 - 星野与工具型 AI 产品走的是完全不同的路：工具型面临严重的价值锚定困境，陪伴型却靠情绪价值建立壁垒 - 这与 AI Coding 市场的分化形成有趣对照：同"
 resource: "https://x.com/i/status/2059298046991589694"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2059298046991589694"
+created: "2026-05-26"
+updated: "2026-06-26"
+sha256: "1bf2448fb2abcd697ef671aca4ec247db49b8d15af8fe5848b90bfabde846180"
+sources:
+  - "/sources/news/2026-05-26/00__gkxspace__c-端陪伴类-ai-产品验证-星野证明情感陪伴是穿越周期的稳定需求.md"
 ---
 
 # C 端陪伴类 AI 产品验证：星野证明情感陪伴是穿越周期的稳定需求

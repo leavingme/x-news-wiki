@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "歸藏披露关键数据：剑指 Claude Code vs Codex 工具调用效率对比"
 description: "**一句话核心判断：** 有人拿到了实测对比数据并公开分享，指向主流 Agent 工具链的真实性能差异。  **要点：** - 链接指向具体数据而非空洞判断，有信息增量 - 主流 Agent 工具（Claude Code / Codex）在工具调用效率上存在可量化的差异 - 这种横向评测的公开化有助于行业去魅——不再只依赖官方宣称的数字  **gakki 锐评：** 数据不说谎，但数据的选取标准会"
 resource: "https://x.com/i/status/2047516378346004673"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2047516378346004673"
+created: "2026-04-24"
+updated: "2026-06-26"
+sha256: "653ee7cb418ad6b09cb8771ffcb38f9b2f0a0be119cb93f71eae0d391543825f"
+sources:
+  - "/sources/news/2026-04-24/00__op7418__歸藏披露关键数据-剑指-claude-code-vs-codex-工具调用效率对比.md"
 ---
 
 # 歸藏披露关键数据：剑指 Claude Code vs Codex 工具调用效率对比

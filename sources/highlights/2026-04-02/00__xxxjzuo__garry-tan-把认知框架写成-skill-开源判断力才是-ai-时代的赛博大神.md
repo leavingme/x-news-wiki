@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Garry Tan 把认知框架写成 Skill：开源判断力才是 AI 时代的赛博大神"
 description: "**[Skill 的下一形态：从「做什么」到「怎么想]**  当全网还在教 AI 写代码、写文案时，Garry Tan 把自己多年积累的认知框架直接开源成了 prompt——Bezos 决策分类、Munger 反转思维、Jobs 减法哲学。他直言：「一个 skill 解决一个任务是线性的，一个 skill 让每个决策都变好是指数的。」自己试了之后，AI 第一个问题就是「这个问题值不值得解决？如果什"
 resource: "https://x.com/i/status/2034785534246007022"
@@ -22,6 +22,13 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "skill-vs-mcp-paradigm"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2034785534246007022"
+created: "2026-03-20"
+updated: "2026-06-26"
+sha256: "c8df258b6a0f61c7e60b63db87bc1580e38e2f0f4529bfb5dec167f6bc021cce"
+sources:
+  - "/sources/highlights/2026-04-02/00__xxxjzuo__garry-tan-把认知框架写成-skill-开源判断力才是-ai-时代的赛博大神.md"
 ---
 
 # Garry Tan 把认知框架写成 Skill：开源判断力才是 AI 时代的赛博大神

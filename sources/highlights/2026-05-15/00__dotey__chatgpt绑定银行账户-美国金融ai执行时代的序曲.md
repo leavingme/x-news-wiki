@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "ChatGPT绑定银行账户：美国金融AI执行时代的序曲"
 description: "**一句话核心判断** ChatGPT首次将\"建议权\"升级为\"执行权\"——通过Plaid接入12000+金融机构，让AI直接查看你的资产负债表、帮你算过审概率、替你提交信用卡申请。  **信息增量：** 1. 覆盖余额、交易记录、投资、负债四大维度，但AI无转账权限——受控执行权，不是全权代理 2. 评测体系首次引入50+金融专业人士打分，5.5 Pro拿82.5/100，建立垂直领域AI能力量化"
 resource: "https://x.com/i/status/2055365342445322385"
@@ -22,6 +22,13 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "ai-agent-crypto-infra"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2055365342445322385"
+created: "2026-05-15"
+updated: "2026-06-26"
+sha256: "1df59b5a7ad8f2bb1ba07c8dad22fd5a7be6c4efa773eaba451be328efda74c0"
+sources:
+  - "/sources/highlights/2026-05-15/00__dotey__chatgpt绑定银行账户-美国金融ai执行时代的序曲.md"
 ---
 
 # ChatGPT绑定银行账户：美国金融AI执行时代的序曲

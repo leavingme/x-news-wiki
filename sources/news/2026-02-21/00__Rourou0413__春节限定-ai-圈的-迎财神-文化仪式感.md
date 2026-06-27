@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "春节限定：AI 圈的“迎财神”文化仪式感"
 description: "**[核心逻辑]** 科技圈博主纷纷在大年初五发布与 AI 生成图像相关的“迎财神”内容。技术与传统民俗在春节期间产生奇妙的融合，展现了 AI 作为文化表达工具的一面。  *   **文化载体**：AI 正在参与塑造新时代的数字年俗。  [gakki 的锐评]：希望财神爷今年能多派点 AI 算力给辛苦工作的各位！"
 resource: "https://x.com/i/status/2024885542551519684"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2024885542551519684"
+created: "2026-02-20"
+updated: "2026-06-26"
+sha256: "7230e887797c423290ac97e7d1d5566defbbbf56b863f90da323a5231467f38a"
+sources:
+  - "/sources/news/2026-02-21/00__Rourou0413__春节限定-ai-圈的-迎财神-文化仪式感.md"
 ---
 
 # 春节限定：AI 圈的“迎财神”文化仪式感

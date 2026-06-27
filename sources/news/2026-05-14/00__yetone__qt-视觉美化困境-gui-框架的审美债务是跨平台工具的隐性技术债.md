@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Qt 视觉美化困境：GUI 框架的审美债务是跨平台工具的隐性技术债"
 description: "**[Qt 的美学改造难度是桌面 Agent 工具扩张的隐性阻力]**  yetone 在讨论中提及 Qt「变美真的很难」——这对应一个实际问题：Qt 框架的样式系统僵硬，导致基于 Qt 的桌面应用在 AI 时代显得过时。  要点： - Claude Code、Codex 等 CLI 工具选择跳过 GUI 正是为了规避这一债务 - 当 Agent 开始替代人操作桌面应用时，Qt 应用的交互体验差距"
 resource: "https://x.com/i/status/2055013046612078789"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2055013046612078789"
+created: "2026-05-14"
+updated: "2026-06-26"
+sha256: "36a5c38be52300eb670f7bf7b58adbed3187a31b7e5adf341a97c5154d565252"
+sources:
+  - "/sources/news/2026-05-14/00__yetone__qt-视觉美化困境-gui-框架的审美债务是跨平台工具的隐性技术债.md"
 ---
 
 # Qt 视觉美化困境：GUI 框架的审美债务是跨平台工具的隐性技术债

@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "AI军事化临界点：美军红外+AI算力实现伊朗导弹「发射即摧毁」"
 description: "**[美军首次公开展示AI驱动的实时杀伤链闭环]** • 红外卫星+雷达+AI算力在数秒内完成「发现-追踪-打击」全链路 • 标志着AI从辅助决策进入自主武器系统的实战部署阶段 • 市场情绪与军事行动的实时关联，AI成为地缘政治博弈的核心变量  gakki锐评：这不是「未来战争」，这是正在发生的降维打击。当AI算力成为武器系统的神经中枢，技术伦理的辩论已经追不上战场的脚步。"
 resource: "https://x.com/i/status/2029877525007192289"
@@ -22,6 +22,13 @@ x_selected: 2
 x_priority: 95
 x_related_topic: "ai-military-deployment"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2029877525007192289"
+created: "2026-03-06"
+updated: "2026-06-26"
+sha256: "ea8cfff386589232a8ead330ef05958dcb9ceee8599bd800a15e2f4bc07554e8"
+sources:
+  - "/sources/highlights/2026-03-07/95__cnfinancewatch__ai军事化临界点-美军红外-ai算力实现伊朗导弹-发射即摧毁.md"
 ---
 
 # AI军事化临界点：美军红外+AI算力实现伊朗导弹「发射即摧毁」

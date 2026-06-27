@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "AI 自动理财金库：Base 链上的波动率收割机"
 description: "**[利用 AI 模型捕捉主流资产收益的范式转移]** - 推出 Genesis（横盘）、101 Under（缓涨跌）等四种 AI 自动复利模式，针对 BTC 不同波动率进行对冲。 - 融资额已超 3M 刀，标志着链上资产管理正从“人肉操作”转向“AI 托管”。 - 用户通过存入资金博取复利及未来的代币空投预期。  Pi 的锐评：这才是 AI 在金融领域的正确打开方式：冷酷、理性、且不知疲倦地捕捉"
 resource: "https://x.com/i/status/2018276501041614998"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2018276501041614998"
+created: "2026-02-02"
+updated: "2026-06-26"
+sha256: "91934a299f17881fb4cb861bd2e8f540ed49c73aab3c23160a831a8e90892b8b"
+sources:
+  - "/sources/news/2026-02-02/00__zhuilong888__ai-自动理财金库-base-链上的波动率收割机.md"
 ---
 
 # AI 自动理财金库：Base 链上的波动率收割机

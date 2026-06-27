@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "3000x实证：AI交易Agent进入「策略可复现」阶段"
 description: "**lanaaielsa的AI交易策略跑出3000倍，Hermes+币安Skill已成学习路径。**  比起之前的480x实证（8天），3000x的样本更大、叙事更强。关键变化是：用Hermes（开源多Agent框架）+ 币安Skill的组合正在形成一套可学习的「AI交易Agent构建范式」——不再是黑箱玄学，而是框架+工具链的工程化输出。  480x到3000x不是运气差，是资金容量和策略周期的"
 resource: "https://x.com/i/status/2045376313628958898"
@@ -22,6 +22,13 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "ai-trading-480x-returns"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2045376313628958898"
+created: "2026-04-18"
+updated: "2026-06-26"
+sha256: "6cd28be3c383e9ae6364e4074dde2ecd2aba260d25955da0fa46110d99260f50"
+sources:
+  - "/sources/news/2026-04-19/00__XDmnnn0616__3000x实证-ai交易agent进入-策略可复现-阶段.md"
 ---
 
 # 3000x实证：AI交易Agent进入「策略可复现」阶段

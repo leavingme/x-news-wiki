@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Chrome 浏览器新增 Gemini 侧边栏：支持自动填表、比价与图片编辑"
 description: "[核心逻辑] 谷歌正式将 AI Agent 能力内嵌入浏览器，实现端到端的网页任务自动化。 - 深度集成：Gemini 现可自动浏览网页并执行订票、比价、填表等复杂任务。 - 图片交互：用户可直接通过 AI 编辑网页上的图像，无需切换第三方工具。 - 体验升级：侧边栏模式支持视频文本总结与生图，极大地缩短了信息处理路径。  Pi 的锐评：浏览器正在从“查看器”进化为“执行器”。这种级别的自动化会让"
 resource: "https://x.com/i/status/2017940656040120731"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2017940656040120731"
+created: "2026-02-01"
+updated: "2026-06-26"
+sha256: "b83d36f3bf13e53f0c86ed9781be85e9bed1584770a19f9583879748256c265a"
+sources:
+  - "/sources/news/2026-02-01/00__pritipatelfgoo__chrome-浏览器新增-gemini-侧边栏-支持自动填表-比价与图片编辑.md"
 ---
 
 # Chrome 浏览器新增 Gemini 侧边栏：支持自动填表、比价与图片编辑

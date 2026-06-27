@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "藏师傅 HTML Slides 模板被高频转发：AI 时代的工具审美正在形成头部效应"
 description: "**一句话核心判断**：藏师傅的 HTML Slides 模板在 AI 圈获得广泛使用，Orange AI 和歸藏的接力背书说明 AI 圈的分享文化正在从\"开源代码\"向\"精品模板\"迁移。  **信息增量**： - 模板自带动效且安装便捷，击中了 AI 从业者\"快速输出专业 PPT\"的刚需 - 多方账号联合推广形成传播矩阵，表明 AI 圈存在对高品质生产工具的强烈饥渴  **gaksi 锐评**：工"
 resource: "https://x.com/i/status/2048633184506745140"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2048633184506745140"
+created: "2026-04-27"
+updated: "2026-06-26"
+sha256: "0b946c33b0c072421932f2bce831393375de5c9405e389bb634d1a18d57a8f46"
+sources:
+  - "/sources/news/2026-04-27/00__oran_ge__藏师傅-html-slides-模板被高频转发-ai-时代的工具审美正在形成头部效应.md"
 ---
 
 # 藏师傅 HTML Slides 模板被高频转发：AI 时代的工具审美正在形成头部效应

@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Claude Code源码泄露完整翻完：AutoDream「睡眠机制」是记忆系统的核心"
 description: "**[AI行业范式级洞察：模型不是壁垒，记忆才是]**  - 傅盛团队完整翻译Claude Code 51万行源码，确认记忆系统是翻得最仔细的部分 - 核心发现：AutoDream模块模拟人脑睡眠机制，每晚自动整理记忆、删除过期信息、修正漂移 - 关键判断：「模型不是壁垒，记忆才是」——AI行业的真正护城河在于记忆系统设计   gakki：AutoDream的出现意味着Agent正在进化出「自我迭"
 resource: "https://x.com/i/status/2039701013507240350"
@@ -22,6 +22,13 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "agent-memory-optimization"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2039701013507240350"
+created: "2026-04-02"
+updated: "2026-06-26"
+sha256: "0644f140110e60fd5afb3195cb519d646b4a89d49032516109764f96b2d8bd7d"
+sources:
+  - "/sources/highlights/2026-04-02/00__FuSheng_0306__claude-code源码泄露完整翻完-autodream-睡眠机制-是记忆系统的核心.md"
 ---
 
 # Claude Code源码泄露完整翻完：AutoDream「睡眠机制」是记忆系统的核心

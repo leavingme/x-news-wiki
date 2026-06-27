@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "DeepSeek 最新论文深度拆解：数据清洗从10万筛至3万，迷宫题设计揭示合成数据新思路"
 description: "**DeepSeek 论文展示了严谨的数据炼化工程实践。**  - 数据清洗流程将原始近10万条数据通过多条件过滤压缩至3万条，体现「少即是多」的训练哲学 - 迷宫题等合成数据的设计思路值得关注——这类结构化推理题正在成为提升模型推理能力的关键燃料 - 论文传递的信号：独立思考与精细工程仍是国产模型突破的核心路径  gakki 锐评：当行业沉迷于刷榜时，愿意在数据清洗上下苦功夫的团队正在构建真正的"
 resource: "https://x.com/i/status/2049890663739646348"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2049890663739646348"
+created: "2026-04-30"
+updated: "2026-06-26"
+sha256: "22e2a33b7e901b0fd289ec8abe3725089f1fa92369fbd77f7c66ecbbff9c600a"
+sources:
+  - "/sources/news/2026-04-30/00__vista8__deepseek-最新论文深度拆解-数据清洗从10万筛至3万-迷宫题设计揭示合成数据新思路.md"
 ---
 
 # DeepSeek 最新论文深度拆解：数据清洗从10万筛至3万，迷宫题设计揭示合成数据新思路

@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Polymarket 267 万美元套利案：中国博士生的「预测市场印钞机」"
 description: "**当学术严谨遇上预测市场，2,911 次押注 100% 胜率。**  • 中国博士生在 GitHub 开源了 polymarket-sports-arbitrage 项目，被导师意外发现后未受惩罚，反而被要求「交出钱包地址」 • 账户创建于 2026 年 1 月，仅用 2 个月实现 267 万美元利润，单笔最高押注 113 万美元 • 核心策略：专攻体育赛果（NFL、英超、法甲）的确定性套利，利"
 resource: "https://x.com/i/status/2023471393414041604"
@@ -22,6 +22,13 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "political-intelligence-arbitrage"
 x_source: "bookmark"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2023471393414041604"
+created: "2026-02-16"
+updated: "2026-06-26"
+sha256: "3c257e5343f4a7ba3e1524f3437d96d149461d895d5066d3b93b3a9307851696"
+sources:
+  - "/sources/highlights/2026-03-18/00__carverfomo__polymarket-267-万美元套利案-中国博士生的-预测市场印钞机.md"
 ---
 
 # Polymarket 267 万美元套利案：中国博士生的「预测市场印钞机」

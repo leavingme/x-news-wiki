@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "AI Search Hub：七引擎并发的「信息套利」基础设施，Agent时代的搜索套利工具"
 description: "**Agent数据获取的边际成本正在归零。**  • 单次查询同时调用Gemini/Grok/豆包/元宝等7个引擎，将多源信息搜集从「串行爬虫」变成「并行API调用」，省去自建爬虫的维护负担 • 本质是「搜索即服务」的聚合层：利用各平台原生搜索能力（Grok抓推特、豆包抓抖音、元宝抓公众号），用别人的基础设施做自己的数据情报 • 一周新生的早期项目，但切中Agent工作流的刚需——科技趋势追踪、舆"
 resource: "https://x.com/i/status/2034896679137419568"
@@ -22,6 +22,13 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "agent-data-intelligence-infra"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2034896679137419568"
+created: "2026-03-20"
+updated: "2026-06-26"
+sha256: "fc2b9f5236e0692ac6b85d4d7f443a82b6fed3f9c1501ad0d3d2fd6098c69830"
+sources:
+  - "/sources/highlights/2026-03-20/00__NFTCPS__ai-search-hub-七引擎并发的-信息套利-基础设施-agent时代的搜索套利工具.md"
 ---
 
 # AI Search Hub：七引擎并发的「信息套利」基础设施，Agent时代的搜索套利工具

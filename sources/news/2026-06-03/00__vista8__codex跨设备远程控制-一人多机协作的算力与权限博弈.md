@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Codex跨设备远程控制：一人多机协作的算力与权限博弈"
 description: "**【AI Coding正在重塑分布式开发的工作边界】**  向阳乔木分享了一个具体操作：通过ChatGPT账号的设备连接功能，可以在本地Codex项目中添加远程机器，实现\"控制另一台电脑中的Codex\"。场景指向明确——用公司机器的算力驱动家中设备的执行环境。  这背后有两层含义：一是个人开发者的多设备算力整合正在成为实际可操作的工作流；二是账号体系的设备授权逻辑正在成为AI编程工具的事实上的算"
 resource: "https://x.com/i/status/2062167253911511418"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2062167253911511418"
+created: "2026-06-03"
+updated: "2026-06-26"
+sha256: "c654c94fdccac53c4fc56896cb0e82d2edf58b0f1cd6ef31f99aee408f8227f1"
+sources:
+  - "/sources/news/2026-06-03/00__vista8__codex跨设备远程控制-一人多机协作的算力与权限博弈.md"
 ---
 
 # Codex跨设备远程控制：一人多机协作的算力与权限博弈

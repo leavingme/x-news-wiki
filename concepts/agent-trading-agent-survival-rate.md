@@ -1,5 +1,5 @@
 ---
-type: "Concept"
+type: "concept"
 title: "agent-trading-agent-survival-rate"
 description: "跨日主题 \"agent-trading-agent-survival-rate\"，共 3 条相关精选推文。"
 tags:
@@ -11,6 +11,14 @@ x_topic_slug: "agent-trading-agent-survival-rate"
 x_tweet_count: 3
 x_first_seen: "2026-04-14T00:45:15.164Z"
 x_last_seen: "2026-04-18T12:44:58.659Z"
+type_okf: "Concept"
+created: "2026-04-14"
+updated: "2026-06-26"
+sha256: "01aae6110c727267ab4fbe7323d9cd31f226afb1826c9df274f9f0ff1f5113d0"
+sources:
+  - "/sources/highlights/2026-04-18/00__JuliiStagnaro__ai-agent进入-业绩裸奔-时代-recall用透明排名把叙事价值清零.md"
+  - "/sources/news/2026-04-14/00__AwbczBTC__recallnet破解ai代理-信任黑盒-动态链上竞赛能否替代静态基准测试.md"
+  - "/sources/news/2026-04-14/00__cryptotommy1227__recall-bob-velora-三个-锚点-正在撑开下一代-web3-叙事空间.md"
 ---
 
 # 主题: agent-trading-agent-survival-rate

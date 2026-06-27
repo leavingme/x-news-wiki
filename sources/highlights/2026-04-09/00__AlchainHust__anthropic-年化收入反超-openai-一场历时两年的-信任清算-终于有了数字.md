@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Anthropic 年化收入反超 OpenAI：一场历时两年的「信任清算」终于有了数字"
 description: "**[Dario Amodei 用 300 亿美元年化收入，给 Altman 的信任危机上了重量]**  《纽约客》发布历时 18 个月、100+ 信源、200+ 页内部文件的调查报告，核心结论：Altman 身边几乎所有深度共事者最终都认为「他说话不能信」。同一周，Anthropic 宣布年化收入达 300 亿美元，正式反超 OpenAI。  这场反转的本质不是商业竞争，而是「谁能持续兑现承诺」"
 resource: "https://x.com/i/status/2041537175162847622"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2041537175162847622"
+created: "2026-04-07"
+updated: "2026-06-26"
+sha256: "6dd77e78380df1154e55bb527938cae35176f5cd335c64b68f41826bac3713de"
+sources:
+  - "/sources/highlights/2026-04-09/00__AlchainHust__anthropic-年化收入反超-openai-一场历时两年的-信任清算-终于有了数字.md"
 ---
 
 # Anthropic 年化收入反超 OpenAI：一场历时两年的「信任清算」终于有了数字

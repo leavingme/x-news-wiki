@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "yetone：坦然接受 AI Slop 的用户才是真 AI native，因为他们天然接受 AI 直出"
 description: "yetone 续作：识别 AI native 用户的隐藏标准。  不反感 AI Slop 的人 = 真正 AI native 用户  反感 AI Slop 的人 = 还在用旧审美衡量新工具  核心判断：AI native 不是技术概念，是审美/接受度的天然分层。  Gakki 锐评：这套标准反过来给了产品经理一个残酷信号——你为了让老用户满意而加的'人味滤镜'，可能在 AI native 群体眼里"
 resource: "https://x.com/i/status/2066955149571133619"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2066955149571133619"
+created: "2026-06-16"
+updated: "2026-06-26"
+sha256: "8b84f0b1f55ad0332b156dda35ef14a538369a06e1cecd18fc9f13642a4d9ff2"
+sources:
+  - "/sources/news/2026-06-16/00__yetone__yetone-坦然接受-ai-slop-的用户才是真-ai-native-因为他们天然接受-ai-直出.md"
 ---
 
 # yetone：坦然接受 AI Slop 的用户才是真 AI native，因为他们天然接受 AI 直出

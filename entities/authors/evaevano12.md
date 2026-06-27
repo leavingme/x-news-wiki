@@ -1,5 +1,5 @@
 ---
-type: "Author"
+type: "entity"
 title: "Eva_12 (@EvaEvano12)"
 description: "X/Twitter 作者 @EvaEvano12。共收录 1 条 AI 精选推文。"
 tags:
@@ -12,6 +12,12 @@ x_author_name: "Eva_12"
 x_tweet_count: 1
 x_first_seen: "2026-02-08T01:00:13.301Z"
 x_last_seen: "2026-02-08T01:00:13.301Z"
+type_okf: "Author"
+created: "2026-02-08"
+updated: "2026-06-26"
+sha256: "e25e695977abff22ebecf89b76581bf1e0f0a9e4d847c181bf0d6b0a21bb04ad"
+sources:
+  - "/sources/news/2026-02-08/00__EvaEvano12__创作者备战情人节-可灵-kling-3-0-成为-ai-影业新宠.md"
 ---
 
 # Eva_12 (@EvaEvano12)

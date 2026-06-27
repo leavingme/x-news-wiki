@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "MP-MoE：人民大学×华为×天津大学联手，用共现模式选择多样化专家，训练开销仅增3%且零推理延迟"
 description: "**【一句话核心判断】** MoE路由打破\"精英专家\"惯性——选对的，不如选不一样的。  **【信息增量】** - 传统MoE路由偏好高共现专家，导致专家同质化——MP-MoE引入共现模式聚类，强制路由器选择互补专家 - 人民大学×华为×天津大学联合团队提出动态剪枝视角，打破回声室效应 - Benchmark提升1-3%，训练开销仅增3%，推理延迟零额外成本  **【影响评估】** 对做MoE架构"
 resource: "https://x.com/i/status/2059931479329951947"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2059931479329951947"
+created: "2026-05-28"
+updated: "2026-06-26"
+sha256: "dfe5132db60b2e85847f7b3af0b6ace879390f2f7749e053246a54d155558ee4"
+sources:
+  - "/sources/news/2026-05-28/00__jiqizhixin__mp-moe-人民大学-华为-天津大学联手-用共现模式选择多样化专家-训练开销仅增3-且零推理延迟.md"
 ---
 
 # MP-MoE：人民大学×华为×天津大学联手，用共现模式选择多样化专家，训练开销仅增3%且零推理延迟

@@ -1,5 +1,5 @@
 ---
-type: "Author"
+type: "entity"
 title: "0x小师妹 (@0xshimei)"
 description: "X/Twitter 作者 @0xshimei。共收录 1 条 AI 精选推文。"
 tags:
@@ -12,6 +12,12 @@ x_author_name: "0x小师妹"
 x_tweet_count: 1
 x_first_seen: "2026-03-29T00:32:51.931Z"
 x_last_seen: "2026-03-29T00:32:51.931Z"
+type_okf: "Author"
+created: "2026-03-29"
+updated: "2026-06-26"
+sha256: "881fd06973fb06b8755e06a5d607e8d88823d5069d3c25eb8af78dd977a19254"
+sources:
+  - "/sources/highlights/2026-03-29/00__0xshimei__okx-onchain-os-agent链上操作系统把-聪明钱-安全审计-自动执行-封装为可调用模块.md"
 ---
 
 # 0x小师妹 (@0xshimei)

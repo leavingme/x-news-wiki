@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "专家讲不清专业能力：知识表达失效正在倒逼 AI 替代路径重构"
 description: "**专业判断无法被显性化，恰恰说明 AI 替代的路径不是「复制答案」，而是「接管决策框架」。**  核心信息增量：宝玉提出的这个悖论直指知识管理领域最核心的问题——真正的专业能力很大一部分是隐性的（tacit knowledge），无法通过文字完整传递。这解释了为什么传统的知识库、RAG 方案在专业领域始终效果有限：它们只能处理已经说清楚的部分。  这同时也是对「AI 替代就业」叙事的深层挑战：如"
 resource: "https://x.com/i/status/2055097242755706984"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2055097242755706984"
+created: "2026-05-15"
+updated: "2026-06-26"
+sha256: "f2cc5585987c362c4e79c7830db24b955b594b0d9036fe14803c1ba93b531423"
+sources:
+  - "/sources/news/2026-05-15/00__dotey__专家讲不清专业能力-知识表达失效正在倒逼-ai-替代路径重构.md"
 ---
 
 # 专家讲不清专业能力：知识表达失效正在倒逼 AI 替代路径重构

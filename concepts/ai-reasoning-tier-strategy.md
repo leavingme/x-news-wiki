@@ -1,5 +1,5 @@
 ---
-type: "Concept"
+type: "concept"
 title: "ai-reasoning-tier-strategy"
 description: "跨日主题 \"ai-reasoning-tier-strategy\"，共 1 条相关精选推文。"
 tags:
@@ -11,6 +11,12 @@ x_topic_slug: "ai-reasoning-tier-strategy"
 x_tweet_count: 1
 x_first_seen: "2026-05-10T13:21:25.309Z"
 x_last_seen: "2026-05-10T13:21:25.309Z"
+type_okf: "Concept"
+created: "2026-05-10"
+updated: "2026-06-26"
+sha256: "fdc72f760ba017dbd0b4cb5f420d3b53f09bbd791dc0883b3d671927e5cc7565"
+sources:
+  - "/sources/news/2026-05-10/00__Zesee__可调节思考-机制引发关注-模型推理透明度正成为用户选择的新变量.md"
 ---
 
 # 主题: ai-reasoning-tier-strategy

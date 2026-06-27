@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Hermes-agent 24小时8800星：记忆型 Agent 开始「长脑子」"
 description: "**【一句话核心判断】** NousResearch 的 Hermes-agent 通过动态 patch 机制实现跨会话记忆积累，程序员吐槽的「老年痴呆」痛点终于有了解法，24h 狂揽 8800 星说明需求真实存在。  **要点：** - 自我进化记忆 Agent，多 Agent 委托 + 持久记忆 - 解决传统 Agent「用完就忘、永不成长」的核心痛点 - 伴随用户成长，越用越懂偏好 - 同场"
 resource: "https://x.com/i/status/2040772348450910517"
@@ -22,6 +22,13 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "edgeclaw-memory-infrastructure"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2040772348450910517"
+created: "2026-04-05"
+updated: "2026-06-26"
+sha256: "2fe78d8a32c6bf24f9df81f5831cac13dc2835db1669fea66e8390320a3bd476"
+sources:
+  - "/sources/news/2026-04-09/00__GitTrend0x__hermes-agent-24小时8800星-记忆型-agent-开始-长脑子.md"
 ---
 
 # Hermes-agent 24小时8800星：记忆型 Agent 开始「长脑子」

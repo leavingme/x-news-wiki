@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "OpenClaw控制中心：开源Agent生态的「可观测性基础设施」补齐"
 description: "**[从「黑盒运行」到「全链路透视」的本地Agent运维工具]** • 实时监控：Token消耗百分比、Agent健康状态、任务执行进度、模型/目录/权限配置 • 记忆管理：直接查看和修改Agent人设、任务文档——解决本地Agent「失忆无法干预」痛点 • 定时任务可视化：心跳任务、定时任务运行状态一览  **gakki锐评**：Agent运维的可观测性长期被忽视——当大家还在卷模型能力时，Op"
 resource: "https://x.com/i/status/2032805037756297671"
@@ -22,6 +22,13 @@ x_selected: 2
 x_priority: 78
 x_related_topic: "open-agent-ecosystem"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2032805037756297671"
+created: "2026-03-14"
+updated: "2026-06-26"
+sha256: "ce09f01b5df2adec291781127c487e74bba0be962ce951ba146bc9548fd86fab"
+sources:
+  - "/sources/highlights/2026-03-15/78__gkxspace__openclaw控制中心-开源agent生态的-可观测性基础设施-补齐.md"
 ---
 
 # OpenClaw控制中心：开源Agent生态的「可观测性基础设施」补齐

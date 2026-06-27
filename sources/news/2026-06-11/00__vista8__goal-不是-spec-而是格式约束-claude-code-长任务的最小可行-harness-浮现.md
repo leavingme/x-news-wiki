@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "/goal 不是 spec 而是格式约束：Claude Code 长任务的最小可行 harness 浮现"
 description: "**/goal 是官方推荐的最佳实践格式，把一句话需求结构化为目标，而非复杂 spec 设计。**  要点： - 向阳乔木公开 /goal 写法截图，强调其本质是「格式约束」而非重设计 spec - 同步流通 /goal 写作 skill，进一步降低使用门槛 - 与宝玉的稳定性背书形成社区共识   gakki 锐评：harness engineering 的最小可行形态正在收敛到「格式约束 + 上"
 resource: "https://x.com/i/status/2065098353332163002"
@@ -22,6 +22,13 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "harness-engineering"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2065098353332163002"
+created: "2026-06-11"
+updated: "2026-06-26"
+sha256: "9e25c5ed72d54edaf4f3278df90ff67e066462e082e8a7629fe2eca8aaf0bcef"
+sources:
+  - "/sources/news/2026-06-11/00__vista8__goal-不是-spec-而是格式约束-claude-code-长任务的最小可行-harness-浮现.md"
 ---
 
 # /goal 不是 spec 而是格式约束：Claude Code 长任务的最小可行 harness 浮现

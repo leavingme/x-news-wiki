@@ -1,5 +1,5 @@
 ---
-type: "Author"
+type: "entity"
 title: "Nikhil Gupta (@nikhilro_)"
 description: "X/Twitter 作者 @nikhilro_。共收录 1 条 AI 精选推文。"
 tags:
@@ -12,6 +12,12 @@ x_author_name: "Nikhil Gupta"
 x_tweet_count: 1
 x_first_seen: "2026-05-12T16:18:13.884Z"
 x_last_seen: "2026-05-12T16:18:13.884Z"
+type_okf: "Author"
+created: "2026-05-12"
+updated: "2026-06-26"
+sha256: "2ee1a5c2664d55f1f9a6fc14cb40838391e69d08a4b064cb58f20bcd79872847"
+sources:
+  - "/sources/highlights/2026-05-12/00__nikhilro___vapi-ai融资5000万美元-企业级语音agent基础设施的工程护城河首次被资本验证.md"
 ---
 
 # Nikhil Gupta (@nikhilro_)

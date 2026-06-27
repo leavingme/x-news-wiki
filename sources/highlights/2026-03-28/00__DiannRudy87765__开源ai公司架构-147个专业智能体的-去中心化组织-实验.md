@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "开源AI公司架构：147个专业智能体的「去中心化组织」实验"
 description: "**[组织形态实验]** • 12大部门、147个专业Agent的分层协作架构，探索AI-native组织的生产关系 • 原生适配Claude/Cursor/Copilot等主流编码环境，MIT协议降低采纳门槛 • 两周5万Star反映开发者对「Agent即同事」叙事的强烈兴趣  这不是工具，是对未来公司形态的预演——当组织单元从「人」变成「Agent」，管理层级和协作契约该如何重构？"
 resource: "https://x.com/i/status/2034152337259041139"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2034152337259041139"
+created: "2026-03-18"
+updated: "2026-06-26"
+sha256: "412358812f78fdb6fee29f9e96b7ed381858da5ada2bcbe9f3a332548ce82f47"
+sources:
+  - "/sources/highlights/2026-03-28/00__DiannRudy87765__开源ai公司架构-147个专业智能体的-去中心化组织-实验.md"
 ---
 
 # 开源AI公司架构：147个专业智能体的「去中心化组织」实验

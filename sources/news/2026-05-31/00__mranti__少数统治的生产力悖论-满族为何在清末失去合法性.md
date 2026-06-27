@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "少数统治的生产力悖论：满族为何在清末失去合法性"
 description: "**[少数统治必须代表先进生产力，否则必然失效]**  - Michael Anti 提出一个历史政体分析框架：少数族裔要维持统治，必须同时掌控先进生产力和资本积累，以英国殖民和印度婆罗门为例 - 核心论点：清末满族统治者的致命缺陷在于长期自我弱化，既无法在生产力层面竞争，也无力积累现代资本，最终丧失统治合法性 - 与中国现行体制的隐性关联：讨论实为借古喻今——任何统治结构若与先进生产力脱节，都面"
 resource: "https://x.com/i/status/2060932420636234046"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2060932420636234046"
+created: "2026-05-31"
+updated: "2026-06-26"
+sha256: "49f1fd6066cbd3aa57040bf8bf5253dc7845d0a420774dfb46898af2676006cc"
+sources:
+  - "/sources/news/2026-05-31/00__mranti__少数统治的生产力悖论-满族为何在清末失去合法性.md"
 ---
 
 # 少数统治的生产力悖论：满族为何在清末失去合法性

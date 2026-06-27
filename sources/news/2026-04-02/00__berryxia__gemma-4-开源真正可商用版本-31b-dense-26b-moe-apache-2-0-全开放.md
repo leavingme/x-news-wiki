@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Gemma 4 开源真正可商用版本：31B Dense + 26B MoE，Apache 2.0 全开放"
 description: "**[Google 终于拿出开源大动作，不是 Demo 是武器]**  Gemma 4 定位为本地可跑的生产级开源模型家族，专为 Agentic 工作流优化：  • 31B Dense + 26B MoE 双版本，本地跑自定义编码助手、科学数据分析达 SOTA • E4B/E2B Edge 版支持手机/边缘设备实时处理文本+视觉+音频 • 原生 Tool Use + 256K 超长上下文，支持多步"
 resource: "https://x.com/i/status/2039736979219464246"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2039736979219464246"
+created: "2026-04-02"
+updated: "2026-06-26"
+sha256: "bf82b34fcc8b3a966ca3d8effec01e8678166d74b6550fa2f49bd3e70b41e92a"
+sources:
+  - "/sources/news/2026-04-02/00__berryxia__gemma-4-开源真正可商用版本-31b-dense-26b-moe-apache-2-0-全开放.md"
 ---
 
 # Gemma 4 开源真正可商用版本：31B Dense + 26B MoE，Apache 2.0 全开放

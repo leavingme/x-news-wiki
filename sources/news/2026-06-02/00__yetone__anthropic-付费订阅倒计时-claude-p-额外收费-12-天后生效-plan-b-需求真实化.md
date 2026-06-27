@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Anthropic 付费订阅倒计时：claude-p 额外收费 12 天后生效，Plan B 需求真实化"
 description: "**一句话核心判断** Anthropic 对 claude-p（编程 Agent 模式）单独收费的靴子即将落地，12 天窗口期意味着依赖该接口的开发者/产品必须在本周内锁定替代方案。  **信息增量** - yetone 率先确认这是一条真实倒计时而非谣言，时间节点清晰（12 天） - 额外收费意味着 Claude Code 这类基于 claude-p 构建的产品将面临直接成本冲击 - \"Pla"
 resource: "https://x.com/i/status/2061843964790255849"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2061843964790255849"
+created: "2026-06-02"
+updated: "2026-06-26"
+sha256: "5f788a13f33e237e2b95019e5adcf50559506f1c997bf1c3888aaee25d50e3c5"
+sources:
+  - "/sources/news/2026-06-02/00__yetone__anthropic-付费订阅倒计时-claude-p-额外收费-12-天后生效-plan-b-需求真实化.md"
 ---
 
 # Anthropic 付费订阅倒计时：claude-p 额外收费 12 天后生效，Plan B 需求真实化

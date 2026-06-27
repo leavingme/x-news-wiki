@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "OpenSquilla 三步上手验证：自然语言驱动的 Agent 路由正在降低企业部署门槛"
 description: "**[自然语言触发 skill + 智能路由派发，Harness 层正在把 Agent 部署变成「说人话」的事]**  上手路径极简：1）一行 uv 命令安装；2）onboard 向导配置 API key 和模型档位；3）大白话说目标，MetaSkill 自动挑 skill 拼工作流。默认省 token 路由按难度自动判别派发，无需人工干预。  **信息增量：** - 验证了「Harness as"
 resource: "https://x.com/i/status/2062506110679200183"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2062506110679200183"
+created: "2026-06-04"
+updated: "2026-06-26"
+sha256: "f645a595b170a5c35633a9ecbd176fd29b1ec5d5f6da257dc4869f0b0d413874"
+sources:
+  - "/sources/news/2026-06-04/00__lxfater__opensquilla-三步上手验证-自然语言驱动的-agent-路由正在降低企业部署门槛.md"
 ---
 
 # OpenSquilla 三步上手验证：自然语言驱动的 Agent 路由正在降低企业部署门槛

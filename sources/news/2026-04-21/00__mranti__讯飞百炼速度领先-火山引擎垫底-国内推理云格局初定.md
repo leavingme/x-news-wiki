@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "讯飞百炼速度领先，火山引擎垫底：国内推理云格局初定"
 description: "**[ Michael Anti 实测五家推理云：讯飞百炼快、火山垃圾 ]**  在同样的 Coding Plan 场景下，讯飞（iFlytek）和百炼（阿里云）响应速度快，火山引擎（ByteDance/字节）速度拖后腿。这是国内云厂商 AI 推理服务的首个公开横向测评。  信号价值：国内大厂推理云第一次有了来自 C 端用户的真实口碑数据，而非厂商自带的白皮书营销。火山引擎被点名垫底，对字节的 A"
 resource: "https://x.com/i/status/2046430344291963083"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2046430344291963083"
+created: "2026-04-21"
+updated: "2026-06-26"
+sha256: "9b970f70eda0f1947259e1dfe174bcfe33467a7fab4303fbfed05ea323447b72"
+sources:
+  - "/sources/news/2026-04-21/00__mranti__讯飞百炼速度领先-火山引擎垫底-国内推理云格局初定.md"
 ---
 
 # 讯飞百炼速度领先，火山引擎垫底：国内推理云格局初定

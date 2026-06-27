@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Gemini 接入 Veo 3.1：推出基于模板的低门槛视频生成能力"
 description: "**[核心逻辑]** Google 在 Gemini 中整合 Veo 3.1 模型，通过提供预设模板与图片/文本结合的方式，大幅降低了 AI 视频的创作门槛。  - 用户可以在工具菜单中选择“创建视频”。 - 支持套用模板库，结合自有图片和描述生成个性化视频内容。 - 使得非专业视频创作者也能快速产出高质量动态影像。  [gakki 的锐评] 提示词工程师的末日又近了一步。当大厂开始把复杂的 Pr"
 resource: "https://x.com/i/status/2026131433895727471"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2026131433895727471"
+created: "2026-02-24"
+updated: "2026-06-26"
+sha256: "cb68f31b9c096737af07209ea6eb9b5d2ea13f989e41d0e9ed0de5094fe25103"
+sources:
+  - "/sources/news/2026-02-25/00__xiaohu__gemini-接入-veo-3-1-推出基于模板的低门槛视频生成能力.md"
 ---
 
 # Gemini 接入 Veo 3.1：推出基于模板的低门槛视频生成能力

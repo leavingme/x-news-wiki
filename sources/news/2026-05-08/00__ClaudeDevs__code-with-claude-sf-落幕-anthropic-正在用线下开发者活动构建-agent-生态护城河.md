@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Code with Claude SF 落幕：Anthropic 正在用线下开发者活动构建 Agent 生态护城河"
 description: "**Anthropic 的开发者关系策略正从线上文档进化到线下社区运营。** - Code with Claude SF 是 Anthropic 面向 Claude Code 开发者的线下活动，标志其从模型公司向平台公司转型 - 线下活动能沉淀真实用户反馈和 Use Case，这是纯文档和 API 无法替代的 - 对标 OpenAI DevDay 和 Google I/O，Anthropic 开始"
 resource: "https://x.com/ClaudeDevs/status/2052551618252714067"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "ai-trend-digest"
+type_okf: "X Tweet"
+source_url: "https://x.com/ClaudeDevs/status/2052551618252714067"
+created: "2026-05-08"
+updated: "2026-06-26"
+sha256: "015ba61b381e013890eeb62ed0d49977679fd7c6f6e53f135d9ceee374fb78fd"
+sources:
+  - "/sources/news/2026-05-08/00__ClaudeDevs__code-with-claude-sf-落幕-anthropic-正在用线下开发者活动构建-agent-生态护城河.md"
 ---
 
 # Code with Claude SF 落幕：Anthropic 正在用线下开发者活动构建 Agent 生态护城河

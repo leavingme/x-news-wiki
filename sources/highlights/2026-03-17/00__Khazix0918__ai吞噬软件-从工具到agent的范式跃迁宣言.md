@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "AI吞噬软件：从工具到Agent的范式跃迁宣言"
 description: "**[软件正在被重新定义，不再是人类操作的静态工具，而是具备自主决策能力的动态Agent]**  • Andreessen「软件吞噬世界」的AI时代变体：过去十年软件数字化一切，现在AI正在「Agent化」一切软件 • 核心信号：传统SaaS的菜单式交互让位于自然语言指令，软件边界从「功能集合」扩展为「可自主执行任务的数字员工」 • 投资/创业 implication：评估软件公司价值的标准正在从"
 resource: "https://x.com/i/status/2033750706910597627"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2033750706910597627"
+created: "2026-03-17"
+updated: "2026-06-26"
+sha256: "7c768ba6740b8eb7ea4ac4d081a746bc2f79fd20c9d24098c4b355cf0dc79111"
+sources:
+  - "/sources/highlights/2026-03-17/00__Khazix0918__ai吞噬软件-从工具到agent的范式跃迁宣言.md"
 ---
 
 # AI吞噬软件：从工具到Agent的范式跃迁宣言

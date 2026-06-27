@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "X 推荐算法跨语种推送已落地：中文 AI 创作者拿到隐形分发红利"
 description: "**Orange AI 的一条推文被 X 英文/日文/韩文世界的多语言推荐系统同时捕捉，本质是平台级跨语种分发机制已稳定运转。**  - 信息增量：X 的推荐算法不再只服务中文母语用户池，中文优质内容正在被自动翻译/分发到 EN/JA/KO 用户面前 - 隐性影响：中文 AI 从业者（尤其 KOL）的内容触达半径一夜放大，但前提是内容本身具备跨语种穿透力 - 边界：算法跨语种 ≠ 内容自动本地化，"
 resource: "https://x.com/i/status/2068346716747960405"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2068346716747960405"
+created: "2026-06-20"
+updated: "2026-06-26"
+sha256: "d87a5274b7adad18d6e6f49d4e502783ebd9901e822e3a996675785f34e32eae"
+sources:
+  - "/sources/news/2026-06-20/00__oran_ge__x-推荐算法跨语种推送已落地-中文-ai-创作者拿到隐形分发红利.md"
 ---
 
 # X 推荐算法跨语种推送已落地：中文 AI 创作者拿到隐形分发红利

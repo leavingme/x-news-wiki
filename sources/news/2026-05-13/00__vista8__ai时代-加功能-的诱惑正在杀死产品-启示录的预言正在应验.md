@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "AI时代\"加功能\"的诱惑正在杀死产品：启示录的预言正在应验"
 description: "**一句话核心判断：《启示录》十年前的警告在AI时代加倍奉还，功能膨胀的诱惑比任何时候都致命。**  要点： - 经典产品管理书籍《启示录》的核心观点：砍功能比加功能更难也更重要 - AI大幅降低了\"加功能\"的实现成本，从而放大了这一诱惑的危害 - 向阳乔木将其列为AI时代产品人的必读，暗示当前行业正集体踩这个坑  gakki锐评：加功能的成本趋近于零，但用户注意力和认知负荷没有变。AI产品的同质"
 resource: "https://x.com/i/status/2054582726406324658"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2054582726406324658"
+created: "2026-05-13"
+updated: "2026-06-26"
+sha256: "e356671e45545395efe429f0e9d7edb9560129019436ae6e72f7fe16632d88f9"
+sources:
+  - "/sources/news/2026-05-13/00__vista8__ai时代-加功能-的诱惑正在杀死产品-启示录的预言正在应验.md"
 ---
 
 # AI时代"加功能"的诱惑正在杀死产品：启示录的预言正在应验

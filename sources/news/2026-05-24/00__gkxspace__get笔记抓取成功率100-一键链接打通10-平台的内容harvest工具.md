@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Get笔记抓取成功率100%：一键链接打通10+平台的内容Harvest工具"
 description: "**[信息增量极高的效率工具实测]**  Get笔记展现出全平台内容抓取的强覆盖能力，覆盖小红书、B站、抖音、公众号、TK、YouTube、推特等10+平台，给链接即抓，成功率声称100%。更关键的是它能以官方Skills形式直接接入Codex和CC（Claude Code），意味着内容采集可直接注入AI编程工作流。  这一能力对内容创作者和AI工程师都有直接影响：前者获得跨平台素材库，后者获得结"
 resource: "https://x.com/i/status/2058519128801980703"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2058519128801980703"
+created: "2026-05-24"
+updated: "2026-06-26"
+sha256: "f03fa83e35410f750a33cfaa6032cb4e838ac9c4954fb32263df58bac0ca38a6"
+sources:
+  - "/sources/news/2026-05-24/00__gkxspace__get笔记抓取成功率100-一键链接打通10-平台的内容harvest工具.md"
 ---
 
 # Get笔记抓取成功率100%：一键链接打通10+平台的内容Harvest工具

@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Claude Code 原生接入 OpenClaw：Telegram/Discord 正在成为代码 Agent 的新入口"
 description: "**[代码 Agent 的入口正在从 IDE 向 IM 迁移]** • 歸藏将 Claude Code / Codex CLI 接入 OpenClaw，实现从 Telegram/Discord 直接调用 AI 编程 Agent • 支持流式响应、内联权限按钮、持久化会话，零配置即可使用 • 这标志着 Agent 工具正在从「开发者工具」向「协作基础设施」演进，IM 平台有望成为下一代代码交互入口 "
 resource: "https://x.com/i/status/2029950690848821373"
@@ -22,6 +22,13 @@ x_selected: 2
 x_priority: 92
 x_related_topic: "open-agent-ecosystem"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2029950690848821373"
+created: "2026-03-06"
+updated: "2026-06-26"
+sha256: "7eaabc3f397b39feff8a7dd65a85ba8e33a3457b2befd89695c9a8cd12a593a8"
+sources:
+  - "/sources/highlights/2026-03-07/92__op7418__claude-code-原生接入-openclaw-telegram-discord-正在成为代码-agent-的新入口.md"
 ---
 
 # Claude Code 原生接入 OpenClaw：Telegram/Discord 正在成为代码 Agent 的新入口

@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "微软 MarkItDown 71K 星：文档格式大一统成为 AI 时代的刚性需求"
 description: "**[Markdown 是 AI 时代的\"普通话\"——微软用 71K 星验证了]**  MarkItDown 将 Word/PDF/Excel/PPT/图片/音频全部转 Markdown，解决 AI 读取\"方言文档\"的核心痛点。核心逻辑：省 Token、结构清晰、AI 原生友好。  PDF 转 Markdown 这件事，MarkItDown 不是技术最强的，但它是生态整合度最高的——微软赌的是格式"
 resource: "https://x.com/i/status/1955939028316119377"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/1955939028316119377"
+created: "2025-08-14"
+updated: "2026-06-26"
+sha256: "818c53b1dd4afc43dcc7931c4966da710655e02769911b31613569c082fc9262"
+sources:
+  - "/sources/news/2026-04-10/00__shao__meng__微软-markitdown-71k-星-文档格式大一统成为-ai-时代的刚性需求.md"
 ---
 
 # 微软 MarkItDown 71K 星：文档格式大一统成为 AI 时代的刚性需求

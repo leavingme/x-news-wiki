@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "会话管理不必全量置顶：任务分层才是内存管理的真正杠杆"
 description: "**[对话置顶的正确打开方式：分层而非全量]**  宝玉在回复中提出了一个反直觉但合乎产品逻辑的观点：置顶对话不应是常态操作，只有真正需要\"随时可继续\"的高频任务才值得置顶；其他任务用完即走，不必执着于保留上下文。这一判断基于对用户真实认知负担的洞察。  - 产品哲学：置顶是稀缺资源，应该分配给\"持续进行中\"的任务，而非\"已完成待回顾\"的内容 - 与主流 Agent 设计中\"Tab 化\"的会话管理"
 resource: "https://x.com/i/status/2058218876404429189"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2058218876404429189"
+created: "2026-05-23"
+updated: "2026-06-26"
+sha256: "6077c75d293efc1d7232793b78c3f20f49db21f8dfef2ef8eac170ca0071184d"
+sources:
+  - "/sources/news/2026-05-23/00__dotey__会话管理不必全量置顶-任务分层才是内存管理的真正杠杆.md"
 ---
 
 # 会话管理不必全量置顶：任务分层才是内存管理的真正杠杆

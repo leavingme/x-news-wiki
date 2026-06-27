@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "宝玉经验之谈：Skill 管理去中心化，少量全局 + 随项目流动"
 description: "**宝玉给出 Skills 管理实操建议：常用 Skills 极少，大量 Skills 应跟随项目走，而非集中管理。**  - 大部分人实际高频使用的 Skills 只有个位数 - 建议少量放全局，大量跟随特定项目，避免管理成本超过使用价值  经验之谈，无新信息增量，参考价值有限。"
 resource: "https://x.com/i/status/2059442357196439956"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2059442357196439956"
+created: "2026-05-27"
+updated: "2026-06-26"
+sha256: "aca32ce145cc8f9985a7062e9a40a78878c72bde824982cf0dc8b227c22fc63b"
+sources:
+  - "/sources/news/2026-05-27/00__dotey__宝玉经验之谈-skill-管理去中心化-少量全局-随项目流动.md"
 ---
 
 # 宝玉经验之谈：Skill 管理去中心化，少量全局 + 随项目流动

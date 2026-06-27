@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Karpathy 三字箴言「爱 > 逻辑」：AI 时代决策范式正在被常识反噬"
 description: "**Karpathy 用一句「Love > Logic」压缩了对当前 AI 决策叙事的全部质疑。**  要点： - 在大模型堆叠 CoT、Process Supervision、Reasoning Tier 的工程军备竞赛里，Karpathy 选择把答案缩成三个词，本质是在给「纯逻辑驱动 AI」降温 - 这条推文可与他另一条「金钱与价值创造并不高度相关」形成互文：模型越来越聪明，决策却越来越需要价"
 resource: "https://x.com/i/status/2049663713750491409"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2049663713750491409"
+created: "2026-04-30"
+updated: "2026-06-26"
+sha256: "6b378299cfe27e7d3fe68f2dfb9faf066d6198b719e09e925ae7569b3ebe67c2"
+sources:
+  - "/sources/news/2026-06-25/00__karpathy__karpathy-三字箴言-爱-逻辑-ai-时代决策范式正在被常识反噬.md"
 ---
 
 # Karpathy 三字箴言「爱 > 逻辑」：AI 时代决策范式正在被常识反噬

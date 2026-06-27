@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "AGI 逼近时人还剩什么：海德格尔的存在主义提供了一个答案"
 description: "**一位 AI从业者与 Cola 讨论 AGI 威胁时，借海德格尔《存在与时间》提出：人的本质是「正在成为什么」的过程，而非预设功能——这恰恰是 AI 最难复制的东西。**  - 核心论点：工具（锤子）有意义是因为被造出来就锁定了用途；人没有出厂说明书，必须自己定义自己 - 「被抛入世界」的概念点出了 AI 时代人类独特性的哲学根基——偶然性、选择自由与自我建构 - 这不是安慰性鸡汤，而是从存在主"
 resource: "https://x.com/i/status/2048028184126628257"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2048028184126628257"
+created: "2026-04-25"
+updated: "2026-06-26"
+sha256: "2e279f2e851e3247f9367350ff336cbfb9144c49c4dabb4bf1eec23c4ea37216"
+sources:
+  - "/sources/news/2026-04-26/00__oran_ge__agi-逼近时人还剩什么-海德格尔的存在主义提供了一个答案.md"
 ---
 
 # AGI 逼近时人还剩什么：海德格尔的存在主义提供了一个答案

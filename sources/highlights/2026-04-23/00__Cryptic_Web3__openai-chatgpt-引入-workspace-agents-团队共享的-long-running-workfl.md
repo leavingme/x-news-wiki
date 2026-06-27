@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "OpenAI ChatGPT 引入 Workspace Agents：团队共享的 long-running workflow 管理时代开启"
 description: "**[一句话核心判断]**  OpenAI 在 ChatGPT 中推出 Workspace Agents，允许团队共享能管理复杂长程工作流的 Agent——这是 Agent 从个人工具向组织协作基础设施迁移的关键信号。  **信息增量/影响：** - 跨团队 Agent 复用打破\"一人一个 Agent\"的孤岛模式，企业级工作流自动化成本骤降 - 长程执行（long running）能力的支持意味着"
 resource: "https://x.com/Cryptic_Web3/status/2047326124557144320"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
+
 x_source: "ai-trend-digest"
+type_okf: "X Tweet"
+source_url: "https://x.com/Cryptic_Web3/status/2047326124557144320"
+created: "2026-04-23"
+updated: "2026-06-26"
+sha256: "91bf5dee1844f28a958a5f0c725a5e702a1735727d2511b3f9ea2ceb09171b93"
+sources:
+  - "/sources/highlights/2026-04-23/00__Cryptic_Web3__openai-chatgpt-引入-workspace-agents-团队共享的-long-running-workfl.md"
 ---
 
 # OpenAI ChatGPT 引入 Workspace Agents：团队共享的 long-running workflow 管理时代开启

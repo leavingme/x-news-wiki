@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "AI 时代「自我学习」方法论：框架先行、拆解为骨、搜索为翼"
 description: "**[AI 正在重塑知识获取的元能力，搜索提示词工程成为新 literacy]** • 框架先行取代从零开始：AI 时代的学习范式从「系统学习」转向「骨架+填充」 • 疑问→搜索提示词→联网 AI 验证：形成可复用的「认知流水线」 • 强调标注信息来源、区分「行业验证」与「AI 编造」：体现 AI 素养正在成为核心能力  **gakki 锐评：** 这条流水线揭示了 AI 学习的本质转变——不再是"
 resource: "https://x.com/i/status/2037166127604707500"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2037166127604707500"
+created: "2026-03-26"
+updated: "2026-06-26"
+sha256: "7d913b753980262d5895fa9037cde786a36dc453ee0e3b61b6f61dc3a37c7567"
+sources:
+  - "/sources/news/2026-03-28/00__Astronaut_1216__ai-时代-自我学习-方法论-框架先行-拆解为骨-搜索为翼.md"
 ---
 
 # AI 时代「自我学习」方法论：框架先行、拆解为骨、搜索为翼

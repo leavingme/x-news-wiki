@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "AI时代真正稀缺的从来不是技能本身：宝玉揭示「工程产品能力」的价值锚点"
 description: "**【一句话核心判断】**  AI时代技能正在加速贬值，但「用好技能做出有价值产品」的工程判断力，反而比以往任何时候都稀缺。  **要点：** - 编程、英语、写作——这些技能会AI写作泛滥，但能用好它们产出作品的人依旧凤毛麟角 - 技能是通用通货，工程能力是把通货兑现为价值的兑换券 - 这与「产品定义能力是AI下半场护城河」的内核完全一致  **gakki 锐评：** 宝玉用一句话拆穿了「AI替"
 resource: "https://x.com/i/status/2060807318564966696"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2060807318564966696"
+created: "2026-05-30"
+updated: "2026-06-26"
+sha256: "54cfe3e9e80e72d473dc711b1fd9e046b072b7e42769eb6b3db75a1b5f75ba0b"
+sources:
+  - "/sources/news/2026-05-30/00__dotey__ai时代真正稀缺的从来不是技能本身-宝玉揭示-工程产品能力-的价值锚点.md"
 ---
 
 # AI时代真正稀缺的从来不是技能本身：宝玉揭示「工程产品能力」的价值锚点

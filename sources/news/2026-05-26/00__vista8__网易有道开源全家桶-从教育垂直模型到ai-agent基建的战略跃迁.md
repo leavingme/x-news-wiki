@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "网易有道开源全家桶：从教育垂直模型到AI Agent基建的战略跃迁"
 description: "**[一句话核心判断]**  网易有道其实一直在开源低调布局，子曰-o1轻量推理模型、子曰3数学模型均主打消费级单卡运行，基于此已构建有道龙虾LobsterAI、有道同传Agent、Thinkflow等AI Agent产品线。  **要点：** - 子曰-o1：轻量级推理模型，专为消费级GPU优化 - 子曰3：数学专项模型，单卡部署 - 已落地产品：有道龙虾LobsterAI（AI Agent）、"
 resource: "https://x.com/i/status/2059154882133893562"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2059154882133893562"
+created: "2026-05-26"
+updated: "2026-06-26"
+sha256: "cd6ab0aab87e1f00f77ae6837bcd7388ce1a67d6319d4da68e8c618d4c955aa9"
+sources:
+  - "/sources/news/2026-05-26/00__vista8__网易有道开源全家桶-从教育垂直模型到ai-agent基建的战略跃迁.md"
 ---
 
 # 网易有道开源全家桶：从教育垂直模型到AI Agent基建的战略跃迁

@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Rourou 从 007 转向自媒体：个体创作者将内容视为数字资产的战略选择"
 description: "**个体创业者正从「卖时间」转向「建资产」，自媒体成为 AI 时代的基础设施思维。** - Rourou 结束高强度项目周期后，选择投入抖音和小红书自媒体 - 明确将自媒体定义为「数字资产」和「产品宣发渠道」，而非流量变现 - 反映出个体开发者/创业者对「可积累性」的重新认知  gakki 锐评：「自媒体是数字资产」这个判断本身不新，但当一个经历过 007 的实干者选择它时，说明 AI 工具已经把"
 resource: "https://x.com/i/status/2053424159808479545"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2053424159808479545"
+created: "2026-05-10"
+updated: "2026-06-26"
+sha256: "fa44d91802e5e814098c0a7f373839aa9fb3e6bbcc9fa2f27a85da6a5496aea7"
+sources:
+  - "/sources/news/2026-05-10/00__Rourou0413__rourou-从-007-转向自媒体-个体创作者将内容视为数字资产的战略选择.md"
 ---
 
 # Rourou 从 007 转向自媒体：个体创作者将内容视为数字资产的战略选择

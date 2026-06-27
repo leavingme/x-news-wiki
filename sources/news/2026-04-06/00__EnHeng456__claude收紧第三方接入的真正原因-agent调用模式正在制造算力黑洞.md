@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Claude收紧第三方接入的真正原因：Agent调用模式正在制造算力黑洞"
 description: "**[一句话核心判断]** Token放大效应才是模型厂商收紧API的真正原因——不是商业策略，是算力经济学倒逼的必然。  **信息增量：** - 很多Agent的调用方式把简单请求放大成多轮调用+超长上下文，算力消耗被迅速放大 - 这直接解释了为什么Claude开始收紧第三方接入：低效调用在消耗有上限的算力 - 未来竞争的关键在于谁能更高效地使用模型，而非模型本身多强 - 马斯克太空电站的逻辑："
 resource: "https://x.com/i/status/2041070081241977114"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2041070081241977114"
+created: "2026-04-06"
+updated: "2026-06-26"
+sha256: "f3e4e1fb5f550daf3bb30baa952aa000781ed062109d6c01e2030cd8af34021e"
+sources:
+  - "/sources/news/2026-04-06/00__EnHeng456__claude收紧第三方接入的真正原因-agent调用模式正在制造算力黑洞.md"
 ---
 
 # Claude收紧第三方接入的真正原因：Agent调用模式正在制造算力黑洞

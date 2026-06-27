@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Codex 上线 Handoff：一句自然语言，把任务+完整 Git 状态跨设备整体搬走"
 description: "[Codex 从「单设备编码工具」升级为「跨设备编码工作流」]  - 迁移通过聊天框自然语言触发，不靠 UI 按钮——直接说「我要离开了，把线程迁到远程主机」即可 - 迁移对象是完整 Git 状态（未提交改动、当前分支、对话上下文），不是简单的对话同步 - 前置门槛：SSH 配好远程主机 + 同一 ChatGPT 账号 + 远程有相同仓库的 clone  锐评：OpenAI 阵营补齐了「终端 → "
 resource: "https://x.com/i/status/2068183780938985827"
@@ -22,6 +22,13 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "codex-ecosystem-platform-war"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2068183780938985827"
+created: "2026-06-20"
+updated: "2026-06-26"
+sha256: "85b0e5df1f5a45c8b88e97820fa4eaada6de52b7253669dc09195a045b780fe1"
+sources:
+  - "/sources/highlights/2026-06-20/00__dotey__codex-上线-handoff-一句自然语言-把任务-完整-git-状态跨设备整体搬走.md"
 ---
 
 # Codex 上线 Handoff：一句自然语言，把任务+完整 Git 状态跨设备整体搬走

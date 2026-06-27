@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Claude Code逆向Rust二进制：AI正在抹平「编译后秘密」的最后边界"
 description: "**【应用安全假设的彻底崩塌】** • Claude Code通过分析编译后的二进制文件，反推出完整源码架构 • 即便是Rust这种编译后难以逆向的语言，也不再构成技术壁垒 • 这对商业软件的保护模型是毁灭性冲击  当AI能读懂机器码，「代码即壁垒」的逻辑彻底失效——未来的护城河只能是业务闭环，而非技术黑箱。"
 resource: "https://x.com/i/status/2033807671107981737"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2033807671107981737"
+created: "2026-03-17"
+updated: "2026-06-26"
+sha256: "4b2a146680d4f7e3574c34da9af9f048ce5e22e55eb2bb8ddf402d8be07a052d"
+sources:
+  - "/sources/highlights/2026-03-17/00__nash_su__claude-code逆向rust二进制-ai正在抹平-编译后秘密-的最后边界.md"
 ---
 
 # Claude Code逆向Rust二进制：AI正在抹平「编译后秘密」的最后边界

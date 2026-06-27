@@ -1,5 +1,5 @@
 ---
-type: "Author"
+type: "entity"
 title: "Christopher Gwinn | Grindhouse Glitch (@ChrisGwinnLA)"
 description: "X/Twitter 作者 @ChrisGwinnLA。共收录 1 条 AI 精选推文。"
 tags:
@@ -12,6 +12,12 @@ x_author_name: "Christopher Gwinn | Grindhouse Glitch"
 x_tweet_count: 1
 x_first_seen: "2026-05-01T22:17:34.407Z"
 x_last_seen: "2026-05-01T22:17:34.407Z"
+type_okf: "Author"
+created: "2026-05-01"
+updated: "2026-06-26"
+sha256: "d9cb1e28a32b3a44320c01487a6ba535f2e98a83e1cbd68459e99c3a18455b92"
+sources:
+  - "/sources/news/2026-05-01/00__ChrisGwinnLA__seedance-2审查机制正在杀死长视频工作流-开源视频模型的-最优解-悖论.md"
 ---
 
 # Christopher Gwinn | Grindhouse Glitch (@ChrisGwinnLA)

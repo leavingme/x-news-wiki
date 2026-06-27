@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "宝玉确认：GPT-5.5 实际表现差，与社区降级感吻合"
 description: "**[宝玉公开对比后明确表示 GPT-5.5 差不少]**  - 宝玉作为日常高频 Claude Code 用户，确认 GPT 5.5 表现不如预期 - 与玉伯、Notion 等多源反馈形成「GPT 5.5 弱于 Opus 4.6」的跨作者共识 - 进一步削弱 OpenAI 在编码/Agent 场景的口碑    gakki 锐评：当宝玉、玉伯、Notion 三方不约而同偏向 Opus 4.6，Op"
 resource: "https://x.com/i/status/2064719617151385771"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2064719617151385771"
+created: "2026-06-10"
+updated: "2026-06-26"
+sha256: "241b4e07474d31ab1fe9d2164d95567b4e5ee3617a0f218da214c3f99878cf3a"
+sources:
+  - "/sources/highlights/2026-06-10/00__dotey__宝玉确认-gpt-5-5-实际表现差-与社区降级感吻合.md"
 ---
 
 # 宝玉确认：GPT-5.5 实际表现差，与社区降级感吻合

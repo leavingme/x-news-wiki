@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Midjourney 下场做硬件：AI 内容公司跨向物理世界的第一枪"
 description: "**[Midjourney 跨界的时机选择耐人寻味]**  - 继 Sora/Veo/Runway 之后，AI 视觉巨头首次跨界硬件 - 具体形态尚未披露，但 Midjourney 的创作者生态和品牌力是真实筹码 - 与 Pika/Higgsfield/Synthesia 等纯软件竞品形成差异化 - 硬件是内容公司的护城河还是坟墓，OpenAI/苹果/Rabbit 都趟过坑   gakki 锐评："
 resource: "https://x.com/i/status/2067066053465927871"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2067066053465927871"
+created: "2026-06-17"
+updated: "2026-06-26"
+sha256: "81e6a8d51f29f1e385bcc0e3b3c1f392e3406c45bea72380b04c0b32d8bef7ff"
+sources:
+  - "/sources/news/2026-06-17/00__op7418__midjourney-下场做硬件-ai-内容公司跨向物理世界的第一枪.md"
 ---
 
 # Midjourney 下场做硬件：AI 内容公司跨向物理世界的第一枪

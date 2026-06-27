@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "敲键盘的速度正在成为AI交互的新瓶颈"
 description: "**[语音才是AI时代输入形态的正确答案？]**  余温提出，打字表达的速度跟不上思维的速度，建议给自己的AI工作流加上麦克风。这映射出一个正在浮现的趋势：随着AI响应速度越来越快，人机交互的瓶颈正从\"AI太慢\"转移到\"人类输出太慢\"。  - AI推理与生成已进入毫秒级响应，人类的打字速度成为新的限速步骤 - 语音输入的采用率将在AI工具中显著上升  **gakki：当AI的响应延迟趋近于零，输入"
 resource: "https://x.com/i/status/2058928865427222864"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2058928865427222864"
+created: "2026-05-25"
+updated: "2026-06-26"
+sha256: "de7dab4437bb476ea9e2f774c6621dba6b876d5d1cac18117ad403217a03b5d0"
+sources:
+  - "/sources/news/2026-05-25/00__gkxspace__敲键盘的速度正在成为ai交互的新瓶颈.md"
 ---
 
 # 敲键盘的速度正在成为AI交互的新瓶颈

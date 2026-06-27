@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "\"Black\" 全民监控正在成为现实：dystopia 的非虚构化比 AI 幻觉更可怕"
 description: "**一句话核心判断**：Andy 警示 surveillance dystopia 正在非虚构化——这是 AI 安全与社会治理领域被严重低估的灰犀牛，而非单纯的科幻叙事。  **信息增量**： - 该推文是对现实 surveillance 项目的直接指控，而非泛泛的末世论 - 当 surveillance 系统的部署速度超过监管框架的建立速度，全民监控将从边缘议题跃升为 AI 治理的核心命题  *"
 resource: "https://x.com/Andy68580664/status/2048586636988919881"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "ai-trend-digest"
+type_okf: "X Tweet"
+source_url: "https://x.com/Andy68580664/status/2048586636988919881"
+created: "2026-04-27"
+updated: "2026-06-26"
+sha256: "6f148c1cb7130dbf6dadda4b56cca5334a6e09afd2d4f340367de7053e031fbb"
+sources:
+  - "/sources/news/2026-04-27/00__Andy68580664__black-全民监控正在成为现实-dystopia-的非虚构化比-ai-幻觉更可怕.md"
 ---
 
 # "Black" 全民监控正在成为现实：dystopia 的非虚构化比 AI 幻觉更可怕

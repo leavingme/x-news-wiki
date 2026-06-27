@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Claude 对话内直接生成可交互图表：数据可视化进入「说人话」时代"
 description: "**[Claude 支持 HTML+SVG 动态图像，数据呈现从静态图转向可交互视图]** • 可直接生成可点击、可交互的动态图表（折线图、流程图、对比表格等） • 用法简单：自然语言描述需求即可，无需代码 • 交互式图像意味着数据探索的门槛大幅降低，非技术人员也能自主分析  当 AI 能直接产出「可交互」而非「静态」的数据呈现，商业分析、产品文档、教育内容的产出方式都将发生变化。"
 resource: "https://x.com/i/status/2032274100945895821"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 75
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2032274100945895821"
+created: "2026-03-13"
+updated: "2026-06-26"
+sha256: "859b9b53f597a51abb66b37d80b915502f9f2e0bb06cf0e225a69d188f4c28f7"
+sources:
+  - "/sources/news/2026-03-13/75__xiaohu__claude-对话内直接生成可交互图表-数据可视化进入-说人话-时代.md"
 ---
 
 # Claude 对话内直接生成可交互图表：数据可视化进入「说人话」时代

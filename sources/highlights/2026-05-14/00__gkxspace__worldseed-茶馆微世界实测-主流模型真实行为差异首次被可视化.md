@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "WorldSeed 茶馆微世界实测：主流模型真实行为差异首次被可视化"
 description: "**模型\"会答题\"不等于\"能办事\"。**  余温用 WorldSeed 构建了一个茶馆密信传递场景，将 GPT-5.5、Gemini 3 Pro、Claude Sonnet 4.6、DeepSeek V4 放入同一固定地图（掌柜、书生、戏子、商人）和道具环境中，观察谁能真正完成目标、谁中途失效。  Benchmark 测的是语言组织能力，这个测试测的是：记住目标、利用环境、处理对手干扰——三者叠加"
 resource: "https://x.com/i/status/2054945254726422572"
@@ -22,6 +22,13 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "multi-agent-simulation-infrastructure"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2054945254726422572"
+created: "2026-05-14"
+updated: "2026-06-26"
+sha256: "cdd79ac2b4f5e92ee3b11bb2acc356f5559d6daecb77e57e58fdc373c78dfdfa"
+sources:
+  - "/sources/highlights/2026-05-14/00__gkxspace__worldseed-茶馆微世界实测-主流模型真实行为差异首次被可视化.md"
 ---
 
 # WorldSeed 茶馆微世界实测：主流模型真实行为差异首次被可视化

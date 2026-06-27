@@ -1,5 +1,5 @@
 ---
-type: "Author"
+type: "entity"
 title: "howie.serious (@howie_serious)"
 description: "X/Twitter 作者 @howie_serious。共收录 1 条 AI 精选推文。"
 tags:
@@ -12,6 +12,12 @@ x_author_name: "howie.serious"
 x_tweet_count: 1
 x_first_seen: "2026-02-18T01:00:36.291Z"
 x_last_seen: "2026-02-18T01:00:36.291Z"
+type_okf: "Author"
+created: "2026-02-18"
+updated: "2026-06-26"
+sha256: "dee01330be9d82873a568d7c8f3c39505b495c51a4ab50ea359ec535cf1d5ac0"
+sources:
+  - "/sources/news/2026-02-18/00__howie_serious__三大-llm-场景化避坑指南-教育用-gemini-agent-用-claude.md"
 ---
 
 # howie.serious (@howie_serious)

@@ -1,5 +1,5 @@
 ---
-type: "Author"
+type: "entity"
 title: "Emma (@syh2026by)"
 description: "X/Twitter 作者 @syh2026by。共收录 1 条 AI 精选推文。"
 tags:
@@ -12,6 +12,12 @@ x_author_name: "Emma"
 x_tweet_count: 1
 x_first_seen: "2026-02-08T13:00:14.052Z"
 x_last_seen: "2026-02-08T13:00:14.052Z"
+type_okf: "Author"
+created: "2026-02-08"
+updated: "2026-06-26"
+sha256: "0fd8c774b71504c4d9337c1359210f867bfca5a866c20250096b769f2c95689e"
+sources:
+  - "/sources/news/2026-02-08/00__syh2026by__最后的呐喊-4o-是-ai-开发者的唯一不可替代.md"
 ---
 
 # Emma (@syh2026by)

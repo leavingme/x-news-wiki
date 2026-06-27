@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Codex 0.128.0 上线 /goal：把社区 Ralph Loop 做成官方特性，Agent 终于能「跨会话放养」"
 description: "**[Codex 将社区最佳实践「Ralph Loop」官方化，Agent 自主执行的工程范式正式落地]**  - 新增 /goal 功能：给 Codex 一个长期目标，它会跨多回合持续规划→执行→验证→迭代，直到达成或触达 token 预算上限 - 配置极简：`codex features enable goals` 或 config.toml 一行开关，零摩擦启用 - 适用场景：项目重构、框架"
 resource: "https://x.com/i/status/2050425899221147864"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2050425899221147864"
+created: "2026-05-02"
+updated: "2026-06-26"
+sha256: "1269f2f3f5730d519d2160efba7a9a84fd2c10cf4196e4d25e531830255b666f"
+sources:
+  - "/sources/highlights/2026-05-02/00__gkxspace__codex-0-128-0-上线-goal-把社区-ralph-loop-做成官方特性-agent-终于能-跨会话放养.md"
 ---
 
 # Codex 0.128.0 上线 /goal：把社区 Ralph Loop 做成官方特性，Agent 终于能「跨会话放养」

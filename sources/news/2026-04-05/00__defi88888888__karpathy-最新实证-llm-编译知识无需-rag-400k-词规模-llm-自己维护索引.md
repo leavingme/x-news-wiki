@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Karpathy 最新实证：LLM 编译知识无需 RAG，400K 词规模 LLM 自己维护索引"
 description: "**Karpathy 提出 LLM 是「编译知识」而非「写代码」的工具——原始资料投喂给 LLM，编译成结构化 Markdown wiki，实际效果超出预期。**  核心发现： • 400K 词（约 200 万 token）规模根本不需要 RAG，LLM 自己维护索引已经够用 • Linting（定期扫描知识库找矛盾、补空白、连接孤立概念）ROI 最高，每次跑完都能挖出之前没看到的东西 • Kar"
 resource: "https://x.com/i/status/2040269152997494980"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2040269152997494980"
+created: "2026-04-04"
+updated: "2026-06-26"
+sha256: "b6d31287050631f402f5f17e1a0813aabbe9c40b6329a83401b73a13f63104d7"
+sources:
+  - "/sources/news/2026-04-05/00__defi88888888__karpathy-最新实证-llm-编译知识无需-rag-400k-词规模-llm-自己维护索引.md"
 ---
 
 # Karpathy 最新实证：LLM 编译知识无需 RAG，400K 词规模 LLM 自己维护索引

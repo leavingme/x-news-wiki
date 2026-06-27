@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Anthropic 战略失误：发给 OpenClaw 的律师函成了 OpenAI 的助攻"
 description: "**[核心逻辑]** 反思 A 社法律维权导致的生态流失。OpenClaw 原本高度绑定 Claude 生态，却因商标投诉被 OpenAI 借势收编。  [gakki 锐评：法务赢了面子，业务丢了里子，A 社这波操作堪称年度‘资敌’典范。]"
 resource: "https://x.com/i/status/2023164822045540750"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2023164822045540750"
+created: "2026-02-15"
+updated: "2026-06-26"
+sha256: "775ee7200906846f3c75006c1bacee93e568e9596d873add293586eea96d9864"
+sources:
+  - "/sources/highlights/2026-02-16/00__dotey__anthropic-战略失误-发给-openclaw-的律师函成了-openai-的助攻.md"
 ---
 
 # Anthropic 战略失误：发给 OpenClaw 的律师函成了 OpenAI 的助攻

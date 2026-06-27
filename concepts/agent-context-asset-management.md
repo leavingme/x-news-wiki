@@ -1,5 +1,5 @@
 ---
-type: "Concept"
+type: "concept"
 title: "agent-context-asset-management"
 description: "跨日主题 \"agent-context-asset-management\"，共 4 条相关精选推文。"
 tags:
@@ -11,6 +11,15 @@ x_topic_slug: "agent-context-asset-management"
 x_tweet_count: 4
 x_first_seen: "2026-04-24T11:32:27.897Z"
 x_last_seen: "2026-05-30T07:18:55.118Z"
+type_okf: "Concept"
+created: "2026-04-24"
+updated: "2026-06-26"
+sha256: "8c9fe4440f9bfc7f4ee778add21c17e1db1a8f1584ad2fc9931ff36e23d38a85"
+sources:
+  - "/sources/highlights/2026-05-30/00__Rourou0413__上下文重建成本才是企业ai采纳的真凶-而非模型能力.md"
+  - "/sources/news/2026-04-24/00__op7418__codepilot展示agent记忆资产化威力-3行需求-完整ppt氛围稿-提示词工程已进入-结果推理-阶段.md"
+  - "/sources/news/2026-05-19/00__vista8__坚果云同步-agents目录-个人ai记忆基础设施正在从代码侧向下渗透.md"
+  - "/sources/news/2026-05-30/00__dotey__宝玉群聊总结skill进化-bot追问上下文成真-静态总结走向动态知识交互.md"
 ---
 
 # 主题: agent-context-asset-management

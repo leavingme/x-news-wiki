@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "ZeroClaw 平替登场：本地 LLM + 零架构 Agent 的「去平台化」实验"
 description: "**[本地 Agent 执行栈的极简主义宣言]** • 零权重、零费用、零麻烦的「三零」定位，击中云端 Agent 的订阅疲劳痛点 • 本地 LLM + 安全执行环境，回应了企业场景的数据主权焦虑 • OpenClaw 生态的平替竞品出现，标志着 Agent 基建层的竞争进入「可替代性验证」阶段  gakki：当「去平台化」成为卖点本身，说明 Agent 用户的成熟度已足以支撑多极格局——这对生态"
 resource: "https://x.com/i/status/2037194615472767372"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2037194615472767372"
+created: "2026-03-26"
+updated: "2026-06-26"
+sha256: "68356f062b214cde59644af8ba357aba15056af310fb659f21beb0f0984601c6"
+sources:
+  - "/sources/highlights/2026-03-28/00__QingQ77__zeroclaw-平替登场-本地-llm-零架构-agent-的-去平台化-实验.md"
 ---
 
 # ZeroClaw 平替登场：本地 LLM + 零架构 Agent 的「去平台化」实验

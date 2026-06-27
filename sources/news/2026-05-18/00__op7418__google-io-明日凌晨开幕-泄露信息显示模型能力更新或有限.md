@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Google IO 明日凌晨开幕，泄露信息显示模型能力更新或有限"
 description: "**一句话核心判断**  谷歌 IO 大会将于明晚凌晨 1 点举行，但泄露信息显示若模型无重大更新，本届大会在能力层面难有惊喜。  要点： - 大会时间：5月20日凌晨1点 - 泄露信息指向硬件/生态更新为主，模型能力突破存疑 - 结合近期 Google 在 Gemini 推理基准上的竞争压力，本次大会有战略定调意义  gakki 锐评：Google 的 AI 发布会越来越像苹果 WWDC ——期"
 resource: "https://x.com/i/status/2056385525007909272"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2056385525007909272"
+created: "2026-05-18"
+updated: "2026-06-26"
+sha256: "4c33d80349658be940dc23da17814adecfe1fceaa0ade91d24249e75a9072574"
+sources:
+  - "/sources/news/2026-05-18/00__op7418__google-io-明日凌晨开幕-泄露信息显示模型能力更新或有限.md"
 ---
 
 # Google IO 明日凌晨开幕，泄露信息显示模型能力更新或有限

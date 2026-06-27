@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Framer 终于补齐 Agent 能力：网页构建赛道的防御性进化"
 description: "**[传统建站工具的 AI 补课，能救命但难突围]**  - 知名网页构建工具 Framer 上线 Agent 能力，被归藏评价\"如果跟 AI 结合好还是很有竞争力\"但\"搞得太慢了\" - 基建优势（设计资产+工作流）是真实护城河，但补课时间明显落后于 v0/Lovable/Replit 等 AI 原生玩家 - 与 Webflow/Typedream 等竞品的 AI 化形成时间赛跑 - 体现\"传统工"
 resource: "https://x.com/i/status/2067073608393109651"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2067073608393109651"
+created: "2026-06-17"
+updated: "2026-06-26"
+sha256: "079dd54dd00b1b8d912baa342e14a531ef87deaf5aeff92668d2fe11a7e635e5"
+sources:
+  - "/sources/news/2026-06-17/00__op7418__framer-终于补齐-agent-能力-网页构建赛道的防御性进化.md"
 ---
 
 # Framer 终于补齐 Agent 能力：网页构建赛道的防御性进化

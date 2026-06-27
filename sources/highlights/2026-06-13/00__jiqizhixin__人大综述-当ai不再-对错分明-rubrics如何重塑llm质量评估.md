@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "人大综述：当AI不再\"对错分明\"，Rubrics如何重塑LLM质量评估"
 description: "**[人民大学Liu et al.系统综述Rubrics作为LLM评测新范式：用结构化清单替代二元对错判定]**  **要点：** - 将LLM质量拆解为factuality / safety / reasoning / utility等可训练维度 - 覆盖direct、contrastive、iterative等Rubrics构建方法全景 - 为AI写论文、医疗诊断、Agent工具调用等\"无单一"
 resource: "https://x.com/i/status/2065779720587788615"
@@ -22,6 +22,13 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "agent-evaluation-frontier"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2065779720587788615"
+created: "2026-06-13"
+updated: "2026-06-26"
+sha256: "320bf986bf7ec3d02da604b36d59c8ba75e9863d2d24cccc62101b6fa4dfa4c1"
+sources:
+  - "/sources/highlights/2026-06-13/00__jiqizhixin__人大综述-当ai不再-对错分明-rubrics如何重塑llm质量评估.md"
 ---
 
 # 人大综述：当AI不再"对错分明"，Rubrics如何重塑LLM质量评估

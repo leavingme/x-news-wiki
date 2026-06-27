@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "宝玉用 Codex 反编译 Codex App 源码，AI 逆向工程从黑产工具变成日常能力"
 description: "**用官方自家模型反拆官方 App，AI Coding 工具复刻进入秒级时代。** - 宝玉演示用 Codex 反向拆解 Codex 官方 App 源码 - 与 Claude Code 源码泄露、AI 工具复刻潮形成同向印证 - 软件护城河被 AI 进一步压缩已成定势  当模型复刻自家产品的速度追上迭代速度，护城河就不再是代码本身，而是数据闭环与场景理解。"
 resource: "https://x.com/i/status/2066721468742881532"
@@ -22,6 +22,13 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "ai-coding-reverse-engineering"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2066721468742881532"
+created: "2026-06-16"
+updated: "2026-06-26"
+sha256: "7c1bb24993c3e236989dce1fdf3363733ea0cd8787c6f5016fe3333cfda0f43b"
+sources:
+  - "/sources/news/2026-06-16/00__dotey__宝玉用-codex-反编译-codex-app-源码-ai-逆向工程从黑产工具变成日常能力.md"
 ---
 
 # 宝玉用 Codex 反编译 Codex App 源码，AI 逆向工程从黑产工具变成日常能力

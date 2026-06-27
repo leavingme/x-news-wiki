@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Claude推理加速体感确认：模型端优化正在被用户直接感知"
 description: "**推理速度提升已从Benchmark下沉到用户体感层面。** - 铁锤人明确反馈Claude推理速度变快，属于第一手使用感知而非第三方评测 - 推理速度是Agent场景的核心体验指标，直接影响工具调用链路的完成效率 - 对比此前Claude降级争议，速度提升可能是Anthropic平衡成本与体验的新路径  gakki：一条体感反馈不能当benchmark看，但当用户主动说\"变快了\"，说明优化已经"
 resource: "https://x.com/i/status/2052417775294152993"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2052417775294152993"
+created: "2026-05-07"
+updated: "2026-06-26"
+sha256: "065de780650282e98788821fc74ce9ba266aab20d0f05f8f03c597189beb8ab4"
+sources:
+  - "/sources/news/2026-05-07/00__lxfater__claude推理加速体感确认-模型端优化正在被用户直接感知.md"
 ---
 
 # Claude推理加速体感确认：模型端优化正在被用户直接感知

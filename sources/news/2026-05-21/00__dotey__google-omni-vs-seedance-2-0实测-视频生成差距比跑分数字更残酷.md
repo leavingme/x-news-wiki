@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Google Omni vs Seedance 2.0实测：视频生成差距比跑分数字更残酷"
 description: "**【一句话核心判断】** 当实测对比视频比官方 benchmark 更诚实，Google Omni 的视频生成能力与 Seedance 2.0 的差距已不只是纸面数字。  **信息增量：** - 博主系列对比视频提供了难得的第三方主观评测视角（非官方软文） - 视频生成领域开源与闭源的差距正在以「用户可感知」的速度收窄 - Seedance 作为国产方案在特定场景的竞争力被持续验证  **gak"
 resource: "https://x.com/i/status/2057245845964181593"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2057245845964181593"
+created: "2026-05-20"
+updated: "2026-06-26"
+sha256: "dfde0154d3b7b4f037b5befd9f133ad70484ea70149a2be89cd3f1513c1fccbb"
+sources:
+  - "/sources/news/2026-05-21/00__dotey__google-omni-vs-seedance-2-0实测-视频生成差距比跑分数字更残酷.md"
 ---
 
 # Google Omni vs Seedance 2.0实测：视频生成差距比跑分数字更残酷

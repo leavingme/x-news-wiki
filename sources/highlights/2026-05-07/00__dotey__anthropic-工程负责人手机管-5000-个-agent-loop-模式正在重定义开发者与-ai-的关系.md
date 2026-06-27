@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Anthropic 工程负责人手机管 5000 个 Agent：「Loop」模式正在重定义开发者与 AI 的关系"
 description: "**Boris Cherny（Anthropic 工程负责人）揭示了一种已在生产环境运行的工作范式：手机端常驻 5-10 个 session、数百个 Agent，夜间数千个 Agent 通过 cron 自主执行深度任务。** - 他将此称为「Loop」——用 Claude 的 cron 能力按分钟/小时/天频率自驱任务 - TRAE SOLO 首次实现移动端/Web/桌面三端同步，Agent 场景"
 resource: "https://x.com/i/status/2052172481650159690"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2052172481650159690"
+created: "2026-05-06"
+updated: "2026-06-26"
+sha256: "7074c0a074fd40311fe6b4f9af66f426b95b56994ff0018ffa5c02c0914ea335"
+sources:
+  - "/sources/highlights/2026-05-07/00__dotey__anthropic-工程负责人手机管-5000-个-agent-loop-模式正在重定义开发者与-ai-的关系.md"
 ---
 
 # Anthropic 工程负责人手机管 5000 个 Agent：「Loop」模式正在重定义开发者与 AI 的关系

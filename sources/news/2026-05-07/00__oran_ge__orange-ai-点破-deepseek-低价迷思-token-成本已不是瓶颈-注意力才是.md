@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Orange AI 点破 DeepSeek 低价迷思：token 成本已不是瓶颈，注意力才是"
 description: "**[当所有人都在比 token 价格时，真正的成本结构已经从「算力」转移到了「认知带宽」]**  - DeepSeek 的金钱性价比确实高，但这不是当前 AI 工具选择的核心约束 - 真正昂贵的是时间和注意力——便宜模型的「隐性成本」在于验证输出质量的认知消耗 - 这解释了为什么 Claude Code 用户宁可付高价也不切到更便宜的模型：确定性比单价重要  Orange AI 的观察指向一个更"
 resource: "https://x.com/i/status/2052178327327359456"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2052178327327359456"
+created: "2026-05-07"
+updated: "2026-06-26"
+sha256: "b64ec659e1c022ce6e81351b2ba3bd00b5682eb12afac9b069eed8b775e8b4fd"
+sources:
+  - "/sources/news/2026-05-07/00__oran_ge__orange-ai-点破-deepseek-低价迷思-token-成本已不是瓶颈-注意力才是.md"
 ---
 
 # Orange AI 点破 DeepSeek 低价迷思：token 成本已不是瓶颈，注意力才是

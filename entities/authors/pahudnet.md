@@ -1,5 +1,5 @@
 ---
-type: "Author"
+type: "entity"
 title: "Pahud Hsieh (@pahudnet)"
 description: "X/Twitter 作者 @pahudnet。共收录 1 条 AI 精选推文。"
 tags:
@@ -12,6 +12,12 @@ x_author_name: "Pahud Hsieh"
 x_tweet_count: 1
 x_first_seen: "2026-02-24T01:00:41.911Z"
 x_last_seen: "2026-02-24T01:00:41.911Z"
+type_okf: "Author"
+created: "2026-02-24"
+updated: "2026-06-26"
+sha256: "aa3acb88c44fc5d42e28d0354f24da9dd09330ceb7168c3ae31f24809a908ec8"
+sources:
+  - "/sources/highlights/2026-02-24/00__pahudnet__口袋型-ai-助理-pi-zero-w-openclaw-的边缘侧突破.md"
 ---
 
 # Pahud Hsieh (@pahudnet)

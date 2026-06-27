@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "宝玉：Claude Design 配合 Design System 使用，焦点从 UI 转向 UX——AI 设计红利属于有体系沉淀的团队"
 description: "**Claude Design 的真正价值，不在替代设计师，而在配合 Design System 把人从 UI 执行中解放。**  - 当 Claude Design 与既有 Design System 配合，组件复用与一致性由系统兜底 - 设计师与 PM 的精力可以聚焦在 UX 决策（流程、信息架构、交互逻辑） - 这呼应「产品定义能力是 AI 下半场护城河」的判断——AI 越能干，越要人定义清"
 resource: "https://x.com/i/status/2063793327393145266"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2063793327393145266"
+created: "2026-06-08"
+updated: "2026-06-26"
+sha256: "33e1fc7b39bd154ded70ee085bbf278ba5a6616b0985e42af570c68a96d67bef"
+sources:
+  - "/sources/news/2026-06-08/00__dotey__宝玉-claude-design-配合-design-system-使用-焦点从-ui-转向-ux-ai-设计红利属于有.md"
 ---
 
 # 宝玉：Claude Design 配合 Design System 使用，焦点从 UI 转向 UX——AI 设计红利属于有体系沉淀的团队

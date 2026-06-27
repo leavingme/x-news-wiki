@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "开源传奇用18年情分投票：GitHub已不适合「严肃开发工作」"
 description: "**Ghostty 创始人 Mitchell Hashimoto 宣布将项目迁出 GitHub。**  作为 GitHub 第 1299 号用户（2008 年注册，用了 18 年），Hashimoto 在过去一个月开始在日记本标记每次宕机影响工作的日子，结果几乎每天都有 X。写公告当天 GitHub Actions 又挂了两小时做不了代码审查。他说：一个每天把你挡在外面的平台，已经不适合做严肃开发"
 resource: "https://x.com/i/status/2049219569445732851"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2049219569445732851"
+created: "2026-04-28"
+updated: "2026-06-26"
+sha256: "28752608cc5227b0a6d291e1fbcb4058c921dd89aac6cbcba7633c1f098977d7"
+sources:
+  - "/sources/highlights/2026-04-28/00__dotey__开源传奇用18年情分投票-github已不适合-严肃开发工作.md"
 ---
 
 # 开源传奇用18年情分投票：GitHub已不适合「严肃开发工作」

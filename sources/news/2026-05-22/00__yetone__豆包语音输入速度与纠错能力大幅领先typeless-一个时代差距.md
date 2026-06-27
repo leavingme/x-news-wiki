@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "豆包语音输入速度与纠错能力大幅领先Typeless，一个时代差距"
 description: "**[一句话核心判断]**  豆包在语音输入场景下的实际表现，对Typeless形成了代际级碾压。  **信息增量：** - yetone 亲测：豆包语音输入又快、纠错能力又好；Typeless 又慢、纠错能力又差 - 差距被描述为「一个时代的差距」，而非简单的性能差异 - 测试场景为实际产品使用，而非benchmark对比  **影响分析：** - 对语音输入赛道的现有玩家（Typeless等）"
 resource: "https://x.com/i/status/2057758696013508885"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2057758696013508885"
+created: "2026-05-22"
+updated: "2026-06-26"
+sha256: "e70f896e3a1e1bff4e9bfe38f2cffe120f95b9c964fcc7a76931b51d19f976eb"
+sources:
+  - "/sources/news/2026-05-22/00__yetone__豆包语音输入速度与纠错能力大幅领先typeless-一个时代差距.md"
 ---
 
 # 豆包语音输入速度与纠错能力大幅领先Typeless，一个时代差距

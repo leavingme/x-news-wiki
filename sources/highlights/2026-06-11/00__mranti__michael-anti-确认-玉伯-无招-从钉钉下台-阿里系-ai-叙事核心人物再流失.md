@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Michael Anti 确认：玉伯（无招）从钉钉下台——阿里系 AI 叙事核心人物再流失"
 description: "**Michael Anti 用「置身钉内的无招下台」一语，确认玉伯（无招）从钉钉体系离开。**  - 玉伯作为钉钉创始人、阿里系最具产品哲学输出能力的 AI 时代思考者，过去两年持续在「产品克制」「精益创业失效」「AI 工具不可逆体验」等议题上输出核心判断。 - 这是继阿里 AI 人才俊旸离职后，又一标志性人物离开阿里体系，叠加此前「阿里 AI 品牌资产风险」「AI 人才与品牌资产风险」专题——"
 resource: "https://x.com/i/status/2064902523878773220"
@@ -22,6 +22,13 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "ai-talent-flight"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2064902523878773220"
+created: "2026-06-11"
+updated: "2026-06-26"
+sha256: "b03cdd8bd9b027aaf7cf216fb714e6218db725b431661c2a36bb0ccbe562a9c2"
+sources:
+  - "/sources/highlights/2026-06-11/00__mranti__michael-anti-确认-玉伯-无招-从钉钉下台-阿里系-ai-叙事核心人物再流失.md"
 ---
 
 # Michael Anti 确认：玉伯（无招）从钉钉下台——阿里系 AI 叙事核心人物再流失

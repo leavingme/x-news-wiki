@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "玉伯明确反对「for Agents 做产品」：产品经理正在面临一个范式陷阱"
 description: "**[一句话核心判断]** 玉伯公开表态反对为 Agent 做产品——这个判断触及当前 AI 产品设计领域最核心的路线分歧。  **信息增量：** - 玉伯的立场暗示：当前大量「Agent Native」产品可能是在用旧思维做新形态——把 Agent 当作另一种用户来设计，而不是重新思考人与工具的关系 - 「for agents 做产品」和「with agents 做产品」是两种截然不同的范式，前"
 resource: "https://x.com/i/status/2058164798400131574"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2058164798400131574"
+created: "2026-05-23"
+updated: "2026-06-26"
+sha256: "ee89e1108b5e95442d81afbf4d48bd29559ca23a1771b95acce62fb962745229"
+sources:
+  - "/sources/news/2026-05-23/00__lifesinger__玉伯明确反对-for-agents-做产品-产品经理正在面临一个范式陷阱.md"
 ---
 
 # 玉伯明确反对「for Agents 做产品」：产品经理正在面临一个范式陷阱

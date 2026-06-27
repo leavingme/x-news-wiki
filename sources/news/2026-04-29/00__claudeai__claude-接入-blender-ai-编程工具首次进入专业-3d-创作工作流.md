@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Claude 接入 Blender：AI 编程工具首次进入专业 3D 创作工作流"
 description: "**一句话核心判断** Claude 通过 Blender MCP 插件进入专业创作工具链，意味着 AI 编程工具的价值锚点已从「写代码」扩展到「操控专业软件」。  **后续要点** - Blender 拥有完整的 Python API，Claude 可直接调试场景、批量修改物体属性——这是 AI Agent 操作专业工具的生产级验证 - 从「写代码」到「操控专业软件」的能力迁移，代表 AI 工具"
 resource: "https://x.com/claudeai/status/2049143438281445811"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "ai-trend-digest"
+type_okf: "X Tweet"
+source_url: "https://x.com/claudeai/status/2049143438281445811"
+created: "2026-04-28"
+updated: "2026-06-26"
+sha256: "406751119baf36462542bdcf322ebda2b8a37cacf65d82b9e052cd4588464863"
+sources:
+  - "/sources/news/2026-04-29/00__claudeai__claude-接入-blender-ai-编程工具首次进入专业-3d-创作工作流.md"
 ---
 
 # Claude 接入 Blender：AI 编程工具首次进入专业 3D 创作工作流

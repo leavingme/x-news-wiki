@@ -1,5 +1,5 @@
 ---
-type: "Author"
+type: "entity"
 title: "Tibo (@thsottiaux)"
 description: "X/Twitter 作者 @thsottiaux。共收录 4 条 AI 精选推文。"
 tags:
@@ -12,6 +12,15 @@ x_author_name: "Tibo"
 x_tweet_count: 4
 x_first_seen: "2026-04-28T13:17:53.090Z"
 x_last_seen: "2026-06-16T22:17:58.961Z"
+type_okf: "Author"
+created: "2026-04-28"
+updated: "2026-06-26"
+sha256: "7926e303df6e858ccaf1b2491606f0379198daf8a897a9addf18d9663306f1b2"
+sources:
+  - "/sources/highlights/2026-06-16/00__thsottiaux__tibo-致歉-codex-全套餐速率限制-24-小时内重置-资源饥渴仍是产品化瓶颈.md"
+  - "/sources/news/2026-04-28/00__thsottiaux__codex-全面解除费率限制-gpt-5-5-节点已过-gpt-5-5-全面放量的信号.md"
+  - "/sources/news/2026-05-04/00__thsottiaux__tibo-盛赞-codex-goal-功能-好指令的价值正在被重新定价.md"
+  - "/sources/news/2026-05-08/00__thsottiaux__tibo-暗示-codex-进入-chrome-openai-的浏览器入口战正式打响.md"
 ---
 
 # Tibo (@thsottiaux)

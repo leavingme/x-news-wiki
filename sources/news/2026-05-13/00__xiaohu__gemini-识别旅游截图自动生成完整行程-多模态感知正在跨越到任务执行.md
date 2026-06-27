@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Gemini 识别旅游截图自动生成完整行程：多模态感知正在跨越到任务执行"
 description: "**[AI 从「看懂」到「替你做」的关键一跃]**  用户截一张旅游图，Gemini 能识别内容并自动生成完整行程——天气、地图、航班、酒店整合成动态主页。这已超出「视觉理解」范畴，进入「任务规划与执行」区间。  关键信号： - 输入模态：图片（截图） - 输出模态：结构化任务（行程 + 多源信息整合） - 中间层：意图识别 → 工具调用 → 信息聚合  这是 AI Agent 行为的雏形，只是目"
 resource: "https://x.com/i/status/2054353280940314702"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2054353280940314702"
+created: "2026-05-13"
+updated: "2026-06-26"
+sha256: "d0b3ea58ae435c515c88f2d53cc28a71a2ac24b2ae5459e21e2c92af8a737a2c"
+sources:
+  - "/sources/news/2026-05-13/00__xiaohu__gemini-识别旅游截图自动生成完整行程-多模态感知正在跨越到任务执行.md"
 ---
 
 # Gemini 识别旅游截图自动生成完整行程：多模态感知正在跨越到任务执行

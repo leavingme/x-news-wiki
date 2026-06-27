@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "浙大×阿里云发布 Token Economics：首次把 Token 抬到「货币+生产要素」的理论高度"
 description: "**Token 不再是计费单位，而是 AI 经济的硬通货**  • 浙大与阿里云联合提出 Token Economics 统一框架，把 token 同时定义为生产要素、交换媒介、货币三重角色，平衡输出质量与经济成本。 • 不同于以往分散的 token 优化综述，该框架覆盖单 Agent、多 Agent、生态系统三层，串联起优化、协作、安全三个维度。 • 为 Agent 自主交易、算力结算、激励设计"
 resource: "https://x.com/i/status/2066811267604681065"
@@ -22,6 +22,13 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "token-economics-infrastructure"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2066811267604681065"
+created: "2026-06-16"
+updated: "2026-06-26"
+sha256: "e49fd63764b9c16e4c7cef7a26235b8c206f649f48891d50fdb5c7651efa785f"
+sources:
+  - "/sources/highlights/2026-06-16/00__jiqizhixin__浙大-阿里云发布-token-economics-首次把-token-抬到-货币-生产要素-的理论高度.md"
 ---
 
 # 浙大×阿里云发布 Token Economics：首次把 Token 抬到「货币+生产要素」的理论高度

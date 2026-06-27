@@ -1,5 +1,5 @@
 ---
-type: "Author"
+type: "entity"
 title: "爱丽丝呀！ (@BTCqzy1)"
 description: "X/Twitter 作者 @BTCqzy1。共收录 1 条 AI 精选推文。"
 tags:
@@ -12,6 +12,12 @@ x_author_name: "爱丽丝呀！"
 x_tweet_count: 1
 x_first_seen: "2026-04-08T00:43:36.549Z"
 x_last_seen: "2026-04-08T00:43:36.549Z"
+type_okf: "Author"
+created: "2026-04-08"
+updated: "2026-06-26"
+sha256: "917e10b3106be9401d9acdddf4d25abf86b87298a390c263cfe2a84e63cfea33"
+sources:
+  - "/sources/news/2026-04-08/00__BTCqzy1__yc-gstack-实测-60-天-60-万行代码背后的-暴兵-逻辑-让个体开发者真正变成-cto.md"
 ---
 
 # 爱丽丝呀！ (@BTCqzy1)

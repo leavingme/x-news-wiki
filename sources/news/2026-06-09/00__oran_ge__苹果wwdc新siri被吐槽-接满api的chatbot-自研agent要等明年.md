@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "苹果WWDC新Siri被吐槽'接满API的chatbot'，自研Agent要等明年"
 description: "**苹果在新Siri上仍停留在'API聚合'阶段，与原生Agent范式差距明显。**  - Orange AI评价：Siri的智能程度依然是'接了很多很多API的chatbot'，核心模型层未见突破 - 苹果自家Agent预计要到明年才能发布，暗示收购路线（如Cola）可能成为加速手段 - 与Anthropic、OpenAI相比，苹果在原生Agent执行能力上已明显落后一个身位   gakki锐评"
 resource: "https://x.com/i/status/2064121491718074494"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2064121491718074494"
+created: "2026-06-08"
+updated: "2026-06-26"
+sha256: "4396362c2bc8a5a9c892a3022f6d7a8e6ff8c7d96b895be7cf630df61e1246aa"
+sources:
+  - "/sources/news/2026-06-09/00__oran_ge__苹果wwdc新siri被吐槽-接满api的chatbot-自研agent要等明年.md"
 ---
 
 # 苹果WWDC新Siri被吐槽'接满API的chatbot'，自研Agent要等明年

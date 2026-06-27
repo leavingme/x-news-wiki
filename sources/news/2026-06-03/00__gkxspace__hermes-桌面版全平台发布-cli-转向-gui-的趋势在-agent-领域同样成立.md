@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Hermes 桌面版全平台发布：CLI 转向 GUI 的趋势在 Agent 领域同样成立"
 description: "**[开发者工具的 GUI 回归不是复古，而是 Agent 交互范式成熟的信号]**  Hermes 桌面版支持 macOS、Windows、Linux，结束了纯 CLI 的使用形态。观察者注意到：即便是深度 CLI 用户，在长期使用 Codex 后仍转向 GUI——原因指向 GUI 在复杂 Agent 场景下的认知负担优势。  同期观察到 OpenClaw 用户在向 Hermes 迁移。  ga"
 resource: "https://x.com/i/status/2061947217334718721"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2061947217334718721"
+created: "2026-06-02"
+updated: "2026-06-26"
+sha256: "627dd24ce9d8713bd5654b940bc5e926be8e2476e475e375865c80d718fb3095"
+sources:
+  - "/sources/news/2026-06-03/00__gkxspace__hermes-桌面版全平台发布-cli-转向-gui-的趋势在-agent-领域同样成立.md"
 ---
 
 # Hermes 桌面版全平台发布：CLI 转向 GUI 的趋势在 Agent 领域同样成立

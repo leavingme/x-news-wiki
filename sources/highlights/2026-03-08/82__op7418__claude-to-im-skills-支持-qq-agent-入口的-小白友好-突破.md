@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Claude-to-IM-Skills 支持 QQ：Agent 入口的「小白友好」突破"
 description: "**[一次降低门槛的平台扩展]** • Codepilot 和 Claude-to-IM-Skills 新增 QQ 支持，一步获取 ID • 对比 Telegram/Discord 的开发者后台授权流程，QQ 的简化设计降低入门门槛 • Agent 多平台入口争夺进入「用户体验」决胜阶段  入口战争的关键不是功能，是「第一次使用」的 friction。"
 resource: "https://x.com/i/status/2030317806689120577"
@@ -22,6 +22,13 @@ x_selected: 2
 x_priority: 82
 x_related_topic: "agent-multi-platform"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2030317806689120577"
+created: "2026-03-07"
+updated: "2026-06-26"
+sha256: "9ef0341ad6ca259546517273823e90e36a4a2178bfb6d41739adf9d562bc3a7c"
+sources:
+  - "/sources/highlights/2026-03-08/82__op7418__claude-to-im-skills-支持-qq-agent-入口的-小白友好-突破.md"
 ---
 
 # Claude-to-IM-Skills 支持 QQ：Agent 入口的「小白友好」突破

@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "yetone 正名 Harness：这个词从诞生起就是为了回答\"Claude Code 是什么\""
 description: "**Harness 不是一个工程方法论标签，而是对 Claude Code 这类工具本质的定义性解释。**  - yetone 澄清：\"启用 Harness 这个词起初就是为了解释 Claude Code 这种东西是什么\" - 暗示 Harness 不是从实践归纳出的方法，而是从工具本质出发的概念抽象  gakki 锐评：概念溯源比概念本身更有价值——如果 Harness 的原始语境是\"定义 Cl"
 resource: "https://x.com/i/status/2053699044321677522"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2053699044321677522"
+created: "2026-05-11"
+updated: "2026-06-26"
+sha256: "19cfb50ec3f18c309244089704c5635de2d4679cb32d9908fff1694035bbf95f"
+sources:
+  - "/sources/news/2026-05-11/00__yetone__yetone-正名-harness-这个词从诞生起就是为了回答-claude-code-是什么.md"
 ---
 
 # yetone 正名 Harness：这个词从诞生起就是为了回答"Claude Code 是什么"

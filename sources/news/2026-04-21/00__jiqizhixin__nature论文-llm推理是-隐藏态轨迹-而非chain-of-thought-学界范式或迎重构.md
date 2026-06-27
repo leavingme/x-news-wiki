@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Nature论文：LLM推理是「隐藏态轨迹」而非Chain of Thought，学界范式或迎重构"
 description: "**核心判断：Chain of Thought可能只是推理的「输出终端」而非推理本身，内隐状态轨迹才是理解LLM推理的关键。**  研究员Wenshuo Wang的论文核心论点：当前学界将CoT文本视为LLM推理的核心介质，但实验证据更支持「推理是隐性的内隐状态形成过程」。这意味着：1）可解释性研究瞄错了目标；2）Benchmark评估体系建立在错误假设上；3）干预推理过程应瞄向隐藏态而非修改Co"
 resource: "https://x.com/i/status/2046113509210222790"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2046113509210222790"
+created: "2026-04-20"
+updated: "2026-06-26"
+sha256: "340c7c8b40ba8b0edef0fc79046dfed4a91587546f69a2034b59181330c1a979"
+sources:
+  - "/sources/news/2026-04-21/00__jiqizhixin__nature论文-llm推理是-隐藏态轨迹-而非chain-of-thought-学界范式或迎重构.md"
 ---
 
 # Nature论文：LLM推理是「隐藏态轨迹」而非Chain of Thought，学界范式或迎重构

@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "婚礼短视频让古典乐手知道《枪火》：AI内容正在以意外方式渗透主流文化"
 description: "**一句话核心判断：** 一个婚礼短视频意外带火宝石Gem的《枪火》，揭示了AI内容生产与主流文化消费场景的融合路径正在多元化。  **要点：** - AI生成内容通过社交场景实现「非刻意传播」，绕过传统内容分发逻辑 - 音乐/视觉内容的AI化渗透开始进入「文化无感」阶段，即用户不刻意感知AI - 内容工业化与文化消费日常化的边界正在模糊  **gakki锐评：** AI内容最成功的渗透不是被讨论"
 resource: "https://x.com/i/status/2061822331291635994"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2061822331291635994"
+created: "2026-06-02"
+updated: "2026-06-26"
+sha256: "aff6838202a5d87c6e1d4b12b50747ccdec3ec0355cf9324a3c6ea7c56bbe3c5"
+sources:
+  - "/sources/news/2026-06-02/00__mranti__婚礼短视频让古典乐手知道-枪火-ai内容正在以意外方式渗透主流文化.md"
 ---
 
 # 婚礼短视频让古典乐手知道《枪火》：AI内容正在以意外方式渗透主流文化

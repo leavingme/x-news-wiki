@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Claude 桌面端解锁第三方模型：API 管控的裂缝已开"
 description: "**[Anthropic 的\"自家人\"护城河正在被自己凿穿]**  通过开发者模式，Claude 桌面端现已支持接入任意 OpenAI 兼容 API——意味着 Code Plan 用户和第三方用户之间的大门不再是铁板一块。这不只是漏洞，是产品边界决策失误。  - 触发路径：Help → Troubleshooting → Enable developer mode → Configure thir"
 resource: "https://x.com/i/status/2047297968743874586"
@@ -22,6 +22,13 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "anthropic-api-control"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2047297968743874586"
+created: "2026-04-23"
+updated: "2026-06-26"
+sha256: "7d769665256f93fa1b88243ea3edfeae4629ae8f50560205a971a443cc05fcd6"
+sources:
+  - "/sources/highlights/2026-04-24/00__op7418__claude-桌面端解锁第三方模型-api-管控的裂缝已开.md"
 ---
 
 # Claude 桌面端解锁第三方模型：API 管控的裂缝已开

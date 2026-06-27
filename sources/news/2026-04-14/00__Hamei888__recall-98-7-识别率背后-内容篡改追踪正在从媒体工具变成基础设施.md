@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Recall 98.7% 识别率背后：内容篡改追踪正在从媒体工具变成基础设施"
 description: "**假新闻的「编辑履历」终于无处可藏了——而且比人类编辑更准确。**  Recall 把新闻稿件、社交媒体帖子的每次修改、删除、转发铸造成不可篡改的时间戳，路透社和《纽约时报》已接入，错误识别率达 98.7%。语义搜索框三秒出结果，造谣账号销号也没用，链上痕迹铁证如山。  这不是一个 Web3 小众工具，而是正在成为媒体与读者标配的「内容考古层」。  gakki：当一个 Web3 工具被路透社当成"
 resource: "https://x.com/i/status/1966693557370319227"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/1966693557370319227"
+created: "2025-09-13"
+updated: "2026-06-26"
+sha256: "122246da77bc888f78f96243d3137d0a8bd611f9fe1674651c03547b9563bf7b"
+sources:
+  - "/sources/news/2026-04-14/00__Hamei888__recall-98-7-识别率背后-内容篡改追踪正在从媒体工具变成基础设施.md"
 ---
 
 # Recall 98.7% 识别率背后：内容篡改追踪正在从媒体工具变成基础设施

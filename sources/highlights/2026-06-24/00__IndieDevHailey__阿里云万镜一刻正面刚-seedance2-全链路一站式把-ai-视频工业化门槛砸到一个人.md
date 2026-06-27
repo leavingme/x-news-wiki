@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "阿里云万镜一刻正面刚 Seedance2：全链路一站式把 AI 视频工业化门槛砸到一个人"
 description: "**阿里云在 2026 峰会甩出全链��� AI 视频平台「万镜一刻」，集成 HappyHorse / Wan / Qwen-image 全家桶，目标是把'主题→成片'压成单人几分钟的事。**  要点： - 核心打法是'全链路一站式 + 工业级主体一致性'，与 Seedance2 的多模态控制形成差异化定位 - 从剧本解析、角色/场景主体创建、运镜分镜到配音字幕全自动化，每一步可干预 - 国风短剧"
 resource: "https://x.com/i/status/2058555041456566314"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2058555041456566314"
+created: "2026-05-24"
+updated: "2026-06-26"
+sha256: "63675630f233d4dcc57686dd008c92a97a72edc2ff8b62e63fc23775dbfb4e52"
+sources:
+  - "/sources/highlights/2026-06-24/00__IndieDevHailey__阿里云万镜一刻正面刚-seedance2-全链路一站式把-ai-视频工业化门槛砸到一个人.md"
 ---
 
 # 阿里云万镜一刻正面刚 Seedance2：全链路一站式把 AI 视频工业化门槛砸到一个人

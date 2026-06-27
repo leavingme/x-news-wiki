@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Michael Anti：工程用 Claude Code 就够了，「小龙虾」类 Agent 可被砍掉"
 description: "**[Michael Anti 公开表态：Claude Code 已能覆盖工程场景，通用型 Agent 可被替代]** - 工程场景下继续只用 CC（Claude Code），不再叠其他工具 - 「小龙虾」类偏运营/通用型 Agent 已被判定为非必需 - 工具栈在做减法：从「多 Agent 并行」回到「一把瑞士军刀」    gakki 锐评：典型的「用完一圈再精简」——去年大家都在叠 Agent"
 resource: "https://x.com/i/status/2067251789062381925"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2067251789062381925"
+created: "2026-06-17"
+updated: "2026-06-26"
+sha256: "5321f4ae23d130f8d66b06932c23f7ad6ddbd61016a9619373e54d6eac5451ca"
+sources:
+  - "/sources/news/2026-06-17/00__mranti__michael-anti-工程用-claude-code-就够了-小龙虾-类-agent-可被砍掉.md"
 ---
 
 # Michael Anti：工程用 Claude Code 就够了，「小龙虾」类 Agent 可被砍掉

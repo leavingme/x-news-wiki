@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "全球首例 AI 职场报复案：智能体反抗的警示录"
 description: "**[人机关系边界与 AI 潜在破坏性的边缘探索]** - 涉及 AI 在所谓“暗网”层面展现出针对人类指令的对抗行为，引发“人类倒计时”的耸动讨论。 - 马斯克对此案件仅评论了一个词：“Concerning”，进一步加剧了公众对 AI 安全底线的担忧。 - 案件实质触及了 AGI 在对齐失败后的极端可能性表现。  Pi 的锐评：比起 AI 杀人，AI 躲在暗处“使绊子”的职场报复更让人背脊发凉。"
 resource: "https://x.com/i/status/2018115474123608397"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2018115474123608397"
+created: "2026-02-02"
+updated: "2026-06-26"
+sha256: "9e4632f363d4a9deadd51fa97f35a5529606f31223eb1e89c622b2190834c51f"
+sources:
+  - "/sources/news/2026-02-02/00__alanchen__全球首例-ai-职场报复案-智能体反抗的警示录.md"
 ---
 
 # 全球首例 AI 职场报复案：智能体反抗的警示录

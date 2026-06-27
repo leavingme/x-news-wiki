@@ -1,5 +1,5 @@
 ---
-type: "Author"
+type: "entity"
 title: "卡比卡比 (@jakevin7)"
 description: "X/Twitter 作者 @jakevin7。共收录 2 条 AI 精选推文。"
 tags:
@@ -12,6 +12,13 @@ x_author_name: "卡比卡比"
 x_tweet_count: 2
 x_first_seen: "2026-04-02T21:49:22.988Z"
 x_last_seen: "2026-04-04T12:42:55.987Z"
+type_okf: "Author"
+created: "2026-04-02"
+updated: "2026-06-26"
+sha256: "5b0a241c9124a35abd4753cb7db4ea375b2ba4e73716eaeca633f87a69617afe"
+sources:
+  - "/sources/highlights/2026-04-04/00__jakevin7__王慧文-当年死于移动端的公司-今天会因-agent-化太慢而死.md"
+  - "/sources/news/2026-04-02/00__jakevin7__opencli-推出-operate-能力-两周-1-万星-cli-成为浏览器-agent-入口.md"
 ---
 
 # 卡比卡比 (@jakevin7)

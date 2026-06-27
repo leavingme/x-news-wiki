@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "OpenClaw生产力之辩：Python前20年也是胶水，谁有资格定义玩具？"
 description: "**[工具的生产力由使用者能力边界定义，而非社区共识]**  立党用一组硬史料反击「OpenClaw是玩具」的论调：Python诞生20年内都是胶水脚本，Facebook花10亿美元收购Instagram时后端全是Python，早期知乎用Python/tornado从零搭起来。  关键信息增量： - 「生产力工具」的定义权在个体，不在社区舆论 - 同一工具在能力有限者手中产生商业价值 = 生产力已"
 resource: "https://x.com/i/status/2036237470698729523"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2036237470698729523"
+created: "2026-03-24"
+updated: "2026-06-26"
+sha256: "a64ba79459ece1ff1f769e269bfb00c9828ad293ffb75b0835e38181bdb5eccc"
+sources:
+  - "/sources/highlights/2026-04-10/00__lidangzzz__openclaw生产力之辩-python前20年也是胶水-谁有资格定义玩具.md"
 ---
 
 # OpenClaw生产力之辩：Python前20年也是胶水，谁有资格定义玩具？

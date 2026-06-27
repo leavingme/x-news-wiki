@@ -1,5 +1,5 @@
 ---
-type: "Author"
+type: "entity"
 title: "Shishir (@ShishirShelke1)"
 description: "X/Twitter 作者 @ShishirShelke1。共收录 1 条 AI 精选推文。"
 tags:
@@ -12,6 +12,12 @@ x_author_name: "Shishir"
 x_tweet_count: 1
 x_first_seen: "2026-05-05T10:18:00.693Z"
 x_last_seen: "2026-05-05T10:18:00.693Z"
+type_okf: "Author"
+created: "2026-05-05"
+updated: "2026-06-26"
+sha256: "2c00590965090cef2bd82b164bfe022d2e15f18cf47ded76c18ae2c4389a60bf"
+sources:
+  - "/sources/highlights/2026-05-05/00__ShishirShelke1__openai-智能手机细节曝光-mediatek-定制芯片-双-npu-架构-2027年量产目标3000万台.md"
 ---
 
 # Shishir (@ShishirShelke1)

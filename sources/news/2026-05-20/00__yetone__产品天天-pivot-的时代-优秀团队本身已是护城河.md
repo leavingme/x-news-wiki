@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "产品天天 pivot 的时代，优秀团队本身已是护城河"
 description: "**[AI 创业的隐形资产从「想法」转移到「执行层沉淀」]**  在 AI 产品路线 monthly 都在变的当下，yetone 点出了一个被低估的变量：成熟团队比成熟产品更稀缺。当 Model Layer 的迭代速度远超产品层时，真正难以复制的是「在高频变动中保持凝聚力的组织」。  这个判断的深层逻辑：AI 产品的差异化窗口正在极速收窄，但团队的快速迭代能力、组织学习速度是真正的时间累积壁垒——"
 resource: "https://x.com/i/status/2057177105348313512"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2057177105348313512"
+created: "2026-05-20"
+updated: "2026-06-26"
+sha256: "9906c26f639da64783c5db3177c82d7cdc05414743a9198401918140faf38b00"
+sources:
+  - "/sources/news/2026-05-20/00__yetone__产品天天-pivot-的时代-优秀团队本身已是护城河.md"
 ---
 
 # 产品天天 pivot 的时代，优秀团队本身已是护城河

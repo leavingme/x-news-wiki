@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "宝玉实测定调：Codex 交互体验压过 Claude Code，工具竞争进入 UX 决胜期"
 description: "**AI Coding 工具的差异化正从模型能力转向交互设计。**  - 高活跃度技术博主宝玉明确表态「用下来还是 Codex 交互做的最好」，代表一类真实用户侧的工具选型信号 - 这与近期 Claude Code 因 Opus 降级、上下文限制等问题引发的用户流失形成对照  gakki 锐评：当模型层趋于同质化，交互层就成了唯一可感知的差异。Codex 的交互优势是否可持续，取决于 OpenAI"
 resource: "https://x.com/i/status/2050037203800031525"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2050037203800031525"
+created: "2026-05-01"
+updated: "2026-06-26"
+sha256: "c49582ed54f221d2039686164c386e048b2fcd06a7c7873a37e29422b42e8ce6"
+sources:
+  - "/sources/news/2026-05-01/00__dotey__宝玉实测定调-codex-交互体验压过-claude-code-工具竞争进入-ux-决胜期.md"
 ---
 
 # 宝玉实测定调：Codex 交互体验压过 Claude Code，工具竞争进入 UX 决胜期

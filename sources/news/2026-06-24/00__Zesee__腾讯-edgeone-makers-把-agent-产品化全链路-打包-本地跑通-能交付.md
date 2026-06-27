@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "腾讯 EdgeOne Makers 把 Agent「产品化全链路」打包：本地跑通≠能交付"
 description: "**[Agent 产品化的最后一公里被平台化接管]**  - 腾讯 EdgeOne Makers 把 Agent 从 Template 创建 → 本地 dev 调试 → agent-metrics 调用链路追踪 → 一键 deploy 的全流程打包，解决的不是\"怎么想 Agent\"，而是\"怎么把 Agent 交付出去\"。 - 内置对话记忆、沙箱工具调用、Web 与 Agent 同项目管理等生产级能"
 resource: "https://x.com/i/status/2069772320726515923"
@@ -22,6 +22,13 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "agent-deployment-service"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2069772320726515923"
+created: "2026-06-24"
+updated: "2026-06-26"
+sha256: "5d09e4a1b5780e91887af7fd62f34b565205fef480f53e78ac0d372a434f0f02"
+sources:
+  - "/sources/news/2026-06-24/00__Zesee__腾讯-edgeone-makers-把-agent-产品化全链路-打包-本地跑通-能交付.md"
 ---
 
 # 腾讯 EdgeOne Makers 把 Agent「产品化全链路」打包：本地跑通≠能交付

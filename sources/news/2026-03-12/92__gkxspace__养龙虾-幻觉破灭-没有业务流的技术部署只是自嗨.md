@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "「养龙虾」幻觉破灭：没有业务流的技术部署只是自嗨"
 description: "**[一句话核心判断]** OpenClaw/OPC 热潮的本质是一场由算力补贴和培训产业链驱动的虚假繁荣，真正的价值创造在于业务闭环而非技术堆砌。  - 大厂卖 Token 和云服务成为最大受益者，API 调用量暴涨背后是大量无效调用 - 「一人公司」概念被过度美化，缺乏用户基础的技术基建只是成本中心 - 这波炒作客观上「解决」了就业焦虑，但可能制造更大的资源错配  gakki 锐评：余温戳破了"
 resource: "https://x.com/i/status/2031870282538086546"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 92
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2031870282538086546"
+created: "2026-03-11"
+updated: "2026-06-26"
+sha256: "1afb868b9709f4b40a19be954e7f7442f868ab77f1adb4f3994061457a19e081"
+sources:
+  - "/sources/news/2026-03-12/92__gkxspace__养龙虾-幻觉破灭-没有业务流的技术部署只是自嗨.md"
 ---
 
 # 「养龙虾」幻觉破灭：没有业务流的技术部署只是自嗨

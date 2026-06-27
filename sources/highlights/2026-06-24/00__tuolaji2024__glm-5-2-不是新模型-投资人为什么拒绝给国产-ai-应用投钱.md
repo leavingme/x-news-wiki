@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "GLM-5.2 不是新模型：投资人为什么拒绝给国产 AI 应用投钱"
 description: "**[同一模型家族的工程优化 + 「模型会吃掉一切」的投资恐惧 = 国产 AI 应用的融资末日]**  - 技术定位：GLM-5.2 是 GLM-5.1 的 RL 调优+训练后优化版本，参数规模与底层架构未变，成本基本不变但任务完成率提升 - 投资逻辑：投资人认为国产 AI 应用没人投——大模型版本迭代就可能把一个细分 AI 软件内化掉，一个 Skill 就能取代几十人团队，靠信息差赚小钱可以，靠"
 resource: "https://x.com/i/status/2068566597057626425"
@@ -22,6 +22,13 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "domestic-model-benchmark-performance"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2068566597057626425"
+created: "2026-06-21"
+updated: "2026-06-26"
+sha256: "7f70e7612c19fc144e611a1cfd1a1138973850dbb0cb552ab3abc7b3d786bfcd"
+sources:
+  - "/sources/highlights/2026-06-24/00__tuolaji2024__glm-5-2-不是新模型-投资人为什么拒绝给国产-ai-应用投钱.md"
 ---
 
 # GLM-5.2 不是新模型：投资人为什么拒绝给国产 AI 应用投钱

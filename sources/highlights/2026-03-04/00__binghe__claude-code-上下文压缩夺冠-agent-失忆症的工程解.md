@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Claude Code 上下文压缩夺冠：Agent 失忆症的工程解"
 description: "**[上下文管理成为 Agent 工程的核心战场]**  • everything-claude-code 通过脚本记录并压缩上下文，抽离编码习惯——这是对「窗口溢出」问题的系统级回应 • 「建议不启用全部 MCP 简化上下文」直指痛点：工具多 ≠ 能力强，Token 效率才是硬指标 • 冠军作品聚焦「上下文管理」而非功能堆叠，预示 Agent 工程范式从「拼功能」转向「拼效率」  当大家都在加功"
 resource: "https://x.com/i/status/2027755506115416376"
@@ -22,6 +22,13 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "agent-memory-optimization"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2027755506115416376"
+created: "2026-02-28"
+updated: "2026-06-26"
+sha256: "3697ec26167c801f9654356d5e73cf965a1bb8160ed5918d22c194b4a1ce84cf"
+sources:
+  - "/sources/highlights/2026-03-04/00__binghe__claude-code-上下文压缩夺冠-agent-失忆症的工程解.md"
 ---
 
 # Claude Code 上下文压缩夺冠：Agent 失忆症的工程解

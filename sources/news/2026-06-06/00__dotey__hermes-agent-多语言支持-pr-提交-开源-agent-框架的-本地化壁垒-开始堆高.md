@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Hermes Agent 多语言支持 PR 提交：开源 Agent 框架的「本地化壁垒」开始堆高"
 description: "**宝玉向 NousResearch 提交 Hermes Agent 的日语和繁体中文支持 PR，开源 Agent 的国际化门槛正在被一点点垫起来。**  要点： - 表面上是个小 PR，实质是 Hermes 生态第一次由中文社区主动反哺上游多语言能力。 - 这类「小到不会出现在新闻里」的贡献，恰恰是开源 Agent 框架构建「非技术护城河」的关键：文档、提示词、错误信息的本地化质量，直接决定海外"
 resource: "https://x.com/i/status/2063119655795847397"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2063119655795847397"
+created: "2026-06-06"
+updated: "2026-06-26"
+sha256: "9b50b59bd49678d3fccb4cd80edee1612f8e1a4c3d780b96d27a42f24dba230c"
+sources:
+  - "/sources/news/2026-06-06/00__dotey__hermes-agent-多语言支持-pr-提交-开源-agent-框架的-本地化壁垒-开始堆高.md"
 ---
 
 # Hermes Agent 多语言支持 PR 提交：开源 Agent 框架的「本地化壁垒」开始堆高

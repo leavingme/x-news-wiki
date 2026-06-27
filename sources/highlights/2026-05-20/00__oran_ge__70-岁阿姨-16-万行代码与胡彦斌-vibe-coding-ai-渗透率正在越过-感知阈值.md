@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "70 岁阿姨 16 万行代码与胡彦斌 vibe coding：AI 渗透率正在越过「感知阈值」"
 description: "**【AI 渗透率爆表的临界信号：老人用系统做公益网站，明星用 vibe coding 写 APP 内测】**  量子位圆桌会上一位 70 岁阿姨用 ColaOS 做了儿童公益网站，写了 16 万行代码，孩子喜欢。同一天胡彦斌发微博说自己在 vibe coding，用 AI 写代码做了粉丝社区 APP「彦火」已进 TestFlight。  这不是两个孤立的「AI 普及」案例，而是渗透率越过感知阈值"
 resource: "https://x.com/i/status/2057213771337347174"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2057213771337347174"
+created: "2026-05-20"
+updated: "2026-06-26"
+sha256: "cf0e54face87abb3a34530d06039177c2b86dcfeed8abb8498e50993bb54177e"
+sources:
+  - "/sources/highlights/2026-05-20/00__oran_ge__70-岁阿姨-16-万行代码与胡彦斌-vibe-coding-ai-渗透率正在越过-感知阈值.md"
 ---
 
 # 70 岁阿姨 16 万行代码与胡彦斌 vibe coding：AI 渗透率正在越过「感知阈值」

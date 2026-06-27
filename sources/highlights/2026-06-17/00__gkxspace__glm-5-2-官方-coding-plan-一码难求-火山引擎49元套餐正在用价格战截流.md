@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "GLM 5.2 官方 Coding Plan 一码难求，火山引擎49元套餐正在用价格战截流"
 description: "GLM 5.2 官方 Coding Plan 抢不到，云厂商聚合套餐已经把国产 AI Coding 拉到 49 元时代。 - 火山引擎 Coding Plan Pro 49 元（原 200），内含 DeepSeek V4 Pro、Kimi k2.6、GLM5.2、Doubao 等多个模型 - 用户实测：3 小时稳定可用，速度一般但比官方算力断流时体验好；Lite 套餐 40 元，速度慢且不稳 - "
 resource: "https://x.com/i/status/2067218305656443302"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2067218305656443302"
+created: "2026-06-17"
+updated: "2026-06-26"
+sha256: "983c253e111e44b4fd5b1cbded177246af3ecd4e94d0537da13e591bae092f97"
+sources:
+  - "/sources/highlights/2026-06-17/00__gkxspace__glm-5-2-官方-coding-plan-一码难求-火山引擎49元套餐正在用价格战截流.md"
 ---
 
 # GLM 5.2 官方 Coding Plan 一码难求，火山引擎49元套餐正在用价格战截流

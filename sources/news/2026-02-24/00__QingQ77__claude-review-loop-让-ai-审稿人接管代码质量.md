@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "claude-review-loop：让 AI 审稿人接管代码质量"
 description: "**[核心逻辑]** 引入 AI 自动审稿机制，让不同模型相互制衡，提升 Claude Code 的输出稳定性。  - **内斗生产力**：让 Claude 写的代码由 Codex 评审，通过交叉验证消除单模型的幻觉与逻辑盲区。 - **全自动闭环**：实现从代码生成到自动修复的无人值守工作流。  [gakki 的锐评]：最强的监督就是“让 AI 抓 AI 的 Bug”。当审稿人也是 AI 时，人"
 resource: "https://x.com/i/status/2025955055359131998"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2025955055359131998"
+created: "2026-02-23"
+updated: "2026-06-26"
+sha256: "d05be78c757ef8357e3934358143d6b75fd5d24ae0da4352997d825a49ddf52e"
+sources:
+  - "/sources/news/2026-02-24/00__QingQ77__claude-review-loop-让-ai-审稿人接管代码质量.md"
 ---
 
 # claude-review-loop：让 AI 审稿人接管代码质量

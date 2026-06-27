@@ -1,5 +1,5 @@
 ---
-type: "Author"
+type: "entity"
 title: "Ant Ling (@AntLingAGI)"
 description: "X/Twitter 作者 @AntLingAGI。共收录 2 条 AI 精选推文。"
 tags:
@@ -12,6 +12,13 @@ x_author_name: "Ant Ling"
 x_tweet_count: 2
 x_first_seen: "2026-04-23T17:59:42.000Z"
 x_last_seen: "2026-04-29T04:17:44.601Z"
+type_okf: "Author"
+created: "2026-04-23"
+updated: "2026-06-26"
+sha256: "9277492bdda0df02dc58e40678c021c82f34568d0e448296fedb5b227fab338a"
+sources:
+  - "/sources/highlights/2026-04-29/00__AntLingAGI__ling-2-6-flash-开源-国产-moe-模型把-token-效率卷到-15m-基准线.md"
+  - "/sources/news/2026-04-23/00__AntLingAGI__ant-group-ling-2-6-1t-万亿参数-fast-thinking-快思考-首次被提升为模型设计一级公民.md"
 ---
 
 # Ant Ling (@AntLingAGI)

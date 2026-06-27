@@ -1,5 +1,5 @@
 ---
-type: "Author"
+type: "entity"
 title: "Serena (@369Serena)"
 description: "X/Twitter 作者 @369Serena。共收录 1 条 AI 精选推文。"
 tags:
@@ -12,6 +12,12 @@ x_author_name: "Serena"
 x_tweet_count: 1
 x_first_seen: "2026-06-24T22:28:08.690Z"
 x_last_seen: "2026-06-24T22:28:08.690Z"
+type_okf: "Author"
+created: "2026-06-24"
+updated: "2026-06-26"
+sha256: "589d2cd0bb6a4dec2f252f8f65f2da3f2bf6b7d9512ca06237ea45402da47352"
+sources:
+  - "/sources/news/2026-06-24/00__369Serena__agent-爬虫工具箱定型-agent-reach-firecrawl-crawl4ai-重新定义-agent-接入真实.md"
 ---
 
 # Serena (@369Serena)

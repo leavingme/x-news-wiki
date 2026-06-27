@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "#Keep4o 运动：用户为何死守 GPT-4o 的“灵气”？"
 description: "**[模型迭代中的价值取舍焦虑]** - 尽管竞品推陈出新，用户认为 GPT-4o 具备独特的“灵性”与不可替代性。 - 呼吁 OpenAI 尊重核心产品逻辑，而非在对齐路径上越走越顽固。  Pi 的锐评：最好的模型不一定是最强的，而是最懂人的。OpenAI 似乎忘了，他们最初是靠“懂人心”赢的，现在却在挑战这种默契。"
 resource: "https://x.com/i/status/2020475530110226534"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2020475530110226534"
+created: "2026-02-08"
+updated: "2026-06-26"
+sha256: "a4da69a07a5f1566010e4f9fca9459cce4f2f892d43c409e9b9ce60ab4e4c8fe"
+sources:
+  - "/sources/news/2026-02-08/00__1024Adele__keep4o-运动-用户为何死守-gpt-4o-的-灵气.md"
 ---
 
 # #Keep4o 运动：用户为何死守 GPT-4o 的“灵气”？

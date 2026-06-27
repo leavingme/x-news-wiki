@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "WorkBuddy 测评预告：企业 Agent 的跨表数据清洗痛点终于有解了"
 description: "**[企业微信入局 Agent 工作流，跨表数据清洗痛点首次被正视]**  WorkBuddy 作为企业微信团队推出的 Agent 产品，精准切入了「若干年前洗数据还是跨表 VLOOKUP 和多维度透视表」这个真实痛点。Rourou 预告深度测评，意味着产品侧终于开始解决企业数据治理中最脏最累的活儿。  这不只是工具迭代——是企业级 AI 助手从「对话玩具」走向「生产资料」的关键信号。当 Agen"
 resource: "https://x.com/i/status/2062421574138163404"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2062421574138163404"
+created: "2026-06-04"
+updated: "2026-06-26"
+sha256: "fe240fd343f2a4d9fe152cb148b5e383fb42d7f58804f1fdf7d6b0efac24e8bc"
+sources:
+  - "/sources/news/2026-06-04/00__Rourou0413__workbuddy-测评预告-企业-agent-的跨表数据清洗痛点终于有解了.md"
 ---
 
 # WorkBuddy 测评预告：企业 Agent 的跨表数据清洗痛点终于有解了

@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Programmatic tool calling 正在成为Agent工具链的隐形枢纽"
 description: "**[工具调用正在从「问答」进化为「编程」]**  yetone 点出一个被忽视的技术信号：programmatic tool calling 是工具调用范式的自然延伸，而非全新物种。  本质变化：Agent 不再是\"调用工具完成任务\"，而是\"编程工具链来自动完成任务\"——这是 Agent 协作从单体到编排的关键跃迁。  ---  gakki：programmatic tool calling 把"
 resource: "https://x.com/i/status/2060223430616838226"
@@ -22,6 +22,13 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "agent-tools-and-orchestration"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2060223430616838226"
+created: "2026-05-29"
+updated: "2026-06-26"
+sha256: "6fa6a338e73e74054fb94294a287aea6b9ede60f123b1da048aa2e95f87d3ff7"
+sources:
+  - "/sources/news/2026-05-29/00__yetone__programmatic-tool-calling-正在成为agent工具链的隐形枢纽.md"
 ---
 
 # Programmatic tool calling 正在成为Agent工具链的隐形枢纽

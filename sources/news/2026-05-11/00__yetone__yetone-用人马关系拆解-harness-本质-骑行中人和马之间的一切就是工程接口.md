@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "yetone 用人马关系拆解 Harness 本质：骑行中人和马之间的一切就是工程接口"
 description: "**Harness 的定义被进一步具象化——它不是模型，不是 prompt，是人与模型之间整个交互协议层。** - yetone 用「人骑马到目的地」的比喻定义 Harness：人和马之间的所有东西（缰绳、马鞍、指令方式）就是 Harness - Claude Code 的 CLAUDE.md、skills、MCP 都属于这一层——它们不改变马的能力，改变的是骑手的控制精度 - 这个框架把 Age"
 resource: "https://x.com/i/status/2053718999033389520"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2053718999033389520"
+created: "2026-05-11"
+updated: "2026-06-26"
+sha256: "56539ae070dd908f0d8fb53cd42853d28f8f495b6427d6799fcdb67fdb81f376"
+sources:
+  - "/sources/news/2026-05-11/00__yetone__yetone-用人马关系拆解-harness-本质-骑行中人和马之间的一切就是工程接口.md"
 ---
 
 # yetone 用人马关系拆解 Harness 本质：骑行中人和马之间的一切就是工程接口

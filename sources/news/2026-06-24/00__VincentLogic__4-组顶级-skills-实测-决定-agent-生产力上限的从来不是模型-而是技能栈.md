@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "4 组顶级 Skills 实测：决定 Agent 生产力上限的从来不是模型，而是技能栈"
 description: "**测了数十个 Agent 后发现，工具本身不构成上限，配置的 Skills 才是——4 组顶级 Skills 覆盖「造-找-写-审-上」全链路。**  - 元能力层：Skill Creator（零代码造技能）、Find Skills（全网搜索 + 安装量评估 + 一键安装） - 工程化层：Superpowers（强制 TDD，红绿重构循环）、GStack（YC 总裁 Garry Tan 亲做的 "
 resource: "https://x.com/i/status/2052919852541878626"
@@ -22,6 +22,13 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "skills-ecosystem-standards"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2052919852541878626"
+created: "2026-05-09"
+updated: "2026-06-26"
+sha256: "9d0bde21ff1bfc271ca534f400ce40245dd8ada511e6bf4ce0afedfc64798335"
+sources:
+  - "/sources/news/2026-06-24/00__VincentLogic__4-组顶级-skills-实测-决定-agent-生产力上限的从来不是模型-而是技能栈.md"
 ---
 
 # 4 组顶级 Skills 实测：决定 Agent 生产力上限的从来不是模型，而是技能栈

@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "语音驱动的「无App」手机系统：UI即时生成正在绕过苹果税的护城河"
 description: "**[一句话核心判断]**  OpenAI Voice Hack Night上展示的「agentic操作系统」代表了一种范式转移：手机没有传统App，界面由端侧本地模型实时生成（on the fly），重推理甩给云端。  **信息增量：** - 核心交互逻辑是「UI即系统」——语音指挥直接生成对应界面，而非调用App - 开发者全程用语音完成订机票、删日历、查新闻、发邮件等任务 - 演示翻车点在于"
 resource: "https://x.com/i/status/2061414052916547705"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2061414052916547705"
+created: "2026-06-01"
+updated: "2026-06-26"
+sha256: "9e4b141895291afd2ecd3a1c342d8238b0e9e2738e88a5644d57f8922c8d996b"
+sources:
+  - "/sources/highlights/2026-06-01/00__xiaohu__语音驱动的-无app-手机系统-ui即时生成正在绕过苹果税的护城河.md"
 ---
 
 # 语音驱动的「无App」手机系统：UI即时生成正在绕过苹果税的护城河

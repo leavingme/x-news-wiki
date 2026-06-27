@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "全模态测试的客户端真空：开源 Chatbot UI 正成为 Agent 产品的试验田"
 description: "**一句话核心判断**：主流 Chatbot 客户端集体忽视音视频上传功能，暴露了\"全模态\"承诺与产品实现之间的严重脱节，开源社区正在填补这个空缺。  **信息增量**： - 现有客户端（ChatGPT、Grok、Gemini、Perplexity）均不支持音视频对话上传，对全模态模型测试极不友好 - 开源替代方案已获近 10k Star，说明需求真实且未被满足 - 向阳乔木计划用 Codex 改"
 resource: "https://x.com/i/status/2048609259735355862"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2048609259735355862"
+created: "2026-04-27"
+updated: "2026-06-26"
+sha256: "0d28fb2a4fccefce4170da444c17d6e13598d366db9cb873874f50becbbc1973"
+sources:
+  - "/sources/news/2026-04-27/00__vista8__全模态测试的客户端真空-开源-chatbot-ui-正成为-agent-产品的试验田.md"
 ---
 
 # 全模态测试的客户端真空：开源 Chatbot UI 正成为 Agent 产品的试验田

@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Michael Anti：「这事我看了，就是废大爷，无法规模化、流程化」"
 description: "**[Michael Anti 给出极简判断：某类 AI 操作无法规模化]**  · 直指某类 AI 操作路径的本质问题：依赖人工干预，无法形成可复制的机器流程 · 「废大爷」是中文互联网黑话，意指「花大力气做低效事」——暗合当前大量 AI 工具落地困境 · 这个问题在 2026 年 Agent 落地潮中极具普遍性：Demo 好做，Production 难落地  AI 落地真实瓶颈从来不是模型能力"
 resource: "https://x.com/i/status/2055153297649262879"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2055153297649262879"
+created: "2026-05-15"
+updated: "2026-06-26"
+sha256: "ccae71260b83e4d80b1e43900bd002ee7c0b4f61796ba07b2e749b04005d1fb9"
+sources:
+  - "/sources/news/2026-05-15/00__mranti__michael-anti-这事我看了-就是废大爷-无法规模化-流程化.md"
 ---
 
 # Michael Anti：「这事我看了，就是废大爷，无法规模化、流程化」

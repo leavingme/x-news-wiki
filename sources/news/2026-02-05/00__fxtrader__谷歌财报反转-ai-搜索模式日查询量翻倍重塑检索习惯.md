@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "谷歌财报反转：AI 搜索模式日查询量翻倍重塑检索习惯"
 description: "**[皮查伊确认 AI 搜索已成核心增长引擎，26 年资本支出计划激进]** - 自推出以来，每位用户的每日 AI 模式查询量实现翻倍增长 - 财报超预期，且 2026 年预计支出将达去年两倍，坚定 All-in AI 策略 - 股价经历剧烈波动后反弹，反映出市场对搜索护城河的信心重构  Pi 的锐评：查询量翻倍就是对“谷歌将被取代”最好的反驳。只要用户还没戒掉谷歌，广告费就依然是它的印钞机。"
 resource: "https://x.com/i/status/2019169429020635509"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2019169429020635509"
+created: "2026-02-04"
+updated: "2026-06-26"
+sha256: "724767ce71a8a415276c28fbafc596973726267f25d46a1c45a38dace81c5755"
+sources:
+  - "/sources/news/2026-02-05/00__fxtrader__谷歌财报反转-ai-搜索模式日查询量翻倍重塑检索习惯.md"
 ---
 
 # 谷歌财报反转：AI 搜索模式日查询量翻倍重塑检索习惯

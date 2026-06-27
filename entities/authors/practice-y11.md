@@ -1,5 +1,5 @@
 ---
-type: "Author"
+type: "entity"
 title: "Yan Practice ⭕散修🎒 (@practice_y11)"
 description: "X/Twitter 作者 @practice_y11。共收录 1 条 AI 精选推文。"
 tags:
@@ -12,6 +12,12 @@ x_author_name: "Yan Practice ⭕散修🎒"
 x_tweet_count: 1
 x_first_seen: "2026-02-12T13:18:21.017Z"
 x_last_seen: "2026-02-12T13:18:21.017Z"
+type_okf: "Author"
+created: "2026-02-12"
+updated: "2026-06-26"
+sha256: "ec3e909c1f3cb4404b8d37f3480c5a7cc5e6093313ee46eeaf07dec0441062eb"
+sources:
+  - "/sources/highlights/2026-02-12/00__practice_y11__google-oauth-封号风波-openclaw-用户遭遇安全策略围剿.md"
 ---
 
 # Yan Practice ⭕散修🎒 (@practice_y11)

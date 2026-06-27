@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "可灵 Kling API 定价遭质疑：个人开发者被忽视了？"
 description: "**[API 准入门槛与套餐混淆]** - 官方缺乏针对个人开发者 API 使用场景的直观指引。 - 用户对“黄金”与“铂金”方案的资源包划分感到困惑，转化路径不清晰。  Pi 的锐评：工具做得再好，如果商业化逻辑像迷宫，只会把最有活力的独立开发者推向对手。"
 resource: "https://x.com/i/status/2020090071790342298"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2020090071790342298"
+created: "2026-02-07"
+updated: "2026-06-26"
+sha256: "0cf9ef77de1ceda84fe0ffea6119708c091873e4e58c712626d0033973301b4a"
+sources:
+  - "/sources/news/2026-02-08/00__CoooolXyh__可灵-kling-api-定价遭质疑-个人开发者被忽视了.md"
 ---
 
 # 可灵 Kling API 定价遭质疑：个人开发者被忽视了？

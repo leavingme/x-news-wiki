@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "上海交大联合上海AI Lab提出DVD增强框架：每token训练价值可被量化筛选"
 description: "**【一句话核心判断】**  数据高效训练成为新方向——不是堆数据，而是让每个token发挥更大价值。  **【信息增量】** - 上海交大与上海AI Lab联合提出\"数据价值密度（DVD）增强\"统一框架 - 突破\"无脑堆语料\"的惯性思维，从质量与影响量两个维度筛选训练样本 - 五种核心策略被系统分类，实验证明在语言任务上优于naive数据扩展 - 同时揭示了当前方法仍存在的短板，为后续研究指出方"
 resource: "https://x.com/i/status/2058253628981526659"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2058253628981526659"
+created: "2026-05-23"
+updated: "2026-06-26"
+sha256: "a18466c0ab327437241b31ccf8c2801c93cb5517deb62e30494a33503f094b71"
+sources:
+  - "/sources/news/2026-05-23/00__jiqizhixin__上海交大联合上海ai-lab提出dvd增强框架-每token训练价值可被量化筛选.md"
 ---
 
 # 上海交大联合上海AI Lab提出DVD增强框架：每token训练价值可被量化筛选

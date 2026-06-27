@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Polymarket交易Agent「裸奔教程」：2小时录屏背后的套利民主化"
 description: "**[预测市场AI套利从暗池走向公开可复制]** • Moon发布2小时完整录屏，展示用Claude构建Polymarket 5分钟预测市场策略Bot的全过程 • 意味着此前机构级别的量化+AI套利能力，现在单个开发者几小时内即可复制 • 信号意义大于技术本身：当套利策略被大规模开源，预测市场的Alpha将快速收敛至数据质量和执行速度  这本质上是一场「算力平权」运动——当所有人都能用Claude"
 resource: "https://x.com/i/status/2034170736550809750"
@@ -22,6 +22,13 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "ai-crypto-agent-infra"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2034170736550809750"
+created: "2026-03-18"
+updated: "2026-06-26"
+sha256: "35d999484c93710ff449ccb844d5e03de50efaa425745b59c33f35eee3ba3bca"
+sources:
+  - "/sources/highlights/2026-03-18/00__oragnes__polymarket交易agent-裸奔教程-2小时录屏背后的套利民主化.md"
 ---
 
 # Polymarket交易Agent「裸奔教程」：2小时录屏背后的套利民主化

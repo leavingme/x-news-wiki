@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Seedance 2.0 爆款频出：AI 视频叙事进入工业化前夜"
 description: "**[核心逻辑]** Seedance 2.0 在海外引发病毒式传播，单个视频播放量突破 1300 万： · 展现了极高的视觉一致性与电影感逻辑。 · 创作者开始尝试制作《楚门的世界》这类经典 IP 的 AI 续集，引发热议。 · AI 视频已从简单的动效展示转向具有完整叙事能力的短片创作。"
 resource: "https://x.com/i/status/2023776616237945067"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2023776616237945067"
+created: "2026-02-17"
+updated: "2026-06-26"
+sha256: "6244a8dcca001ff9a32c42984d2f61f5b6a55e79d6dd6e23f136ef5318121cb9"
+sources:
+  - "/sources/highlights/2026-02-18/00__op7418__seedance-2-0-爆款频出-ai-视频叙事进入工业化前夜.md"
 ---
 
 # Seedance 2.0 爆款频出：AI 视频叙事进入工业化前夜

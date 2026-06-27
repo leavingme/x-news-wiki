@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "微博首次遭遇未知异常：国内大平台对 AI 生成内容/账号的边界事件"
 description: "**[微博平台首次出现某种异常（具体类型未说明），属国内大平台 AI/账号治理边缘事件]** - 「第一次遇到」暗示这是新类型现象（可能是 AIGC 内容识别、机器人账号、AI 创作新形态等） - 缺少上下文无法判断具体事件性质，仅作为平台侧信号存档   gakki锐评：信息密度太低，没有事故描述就没有判断价值——只标注为待跟进。"
 resource: "https://x.com/i/status/2067247092930892210"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2067247092930892210"
+created: "2026-06-17"
+updated: "2026-06-26"
+sha256: "658876a22a0ea0eb79d560863a04779891bef1d9d837a8d6c58abd2cc8f7d339"
+sources:
+  - "/sources/news/2026-06-17/00__xiaohu__微博首次遭遇未知异常-国内大平台对-ai-生成内容-账号的边界事件.md"
 ---
 
 # 微博首次遭遇未知异常：国内大平台对 AI 生成内容/账号的边界事件

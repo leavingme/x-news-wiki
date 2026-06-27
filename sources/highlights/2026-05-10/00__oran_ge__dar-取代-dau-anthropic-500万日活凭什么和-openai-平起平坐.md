@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "DAR 取代 DAU：Anthropic 500万日活凭什么和 OpenAI 平起平坐"
 description: "**单用户日贡献收入（DAR）才是 AI 产品估值的真正标尺。**  - Orange AI 提出 DAR 概念：Anthropic 的 DAR 是 OpenAI 的 100 倍、豆包的 1000-10000 倍，因此 500 万 DAU 即可与百万级 DAU 的对手估值持平 - 直接点名字节战略失误：豆包烧 DAU 的显卡若给 Seedance 2.0，对公司价值更大 - DAU 崇拜在 AI "
 resource: "https://x.com/i/status/2053359995698495997"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2053359995698495997"
+created: "2026-05-10"
+updated: "2026-06-26"
+sha256: "091c48805125fa8516cdf0ba9eead0203f1a560b95c83abf28caa823ea09fcd6"
+sources:
+  - "/sources/highlights/2026-05-10/00__oran_ge__dar-取代-dau-anthropic-500万日活凭什么和-openai-平起平坐.md"
 ---
 
 # DAR 取代 DAU：Anthropic 500万日活凭什么和 OpenAI 平起平坐

@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Claude Code泄露版的第三方API盲区：数据不过境，但功能迭代永久断链"
 description: "**[第三方API不传数据给Claude服务器，但开源版缺失后续迭代]**  Michael Anti澄清了一个关键误解：被泄露的Claude Code若对接第三方API，数据确实不上传到Claude服务器，且开源代码可自由魔改。真正的代价是——一旦官方持续迭代功能，fork版本将永久丧失更新。  这暴露了\"泄露即服务\"模式的核心悖论：短期零成本套用，长期承担能力折旧。"
 resource: "https://x.com/i/status/2054812246640078983"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2054812246640078983"
+created: "2026-05-14"
+updated: "2026-06-26"
+sha256: "e1922776371c54408abd0c6bd72801fa7aa8e2d85ee81e9d1abe0a11d173ac90"
+sources:
+  - "/sources/news/2026-05-14/00__mranti__claude-code泄露版的第三方api盲区-数据不过境-但功能迭代永久断链.md"
 ---
 
 # Claude Code泄露版的第三方API盲区：数据不过境，但功能迭代永久断链

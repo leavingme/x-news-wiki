@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "TACO：训练无关的终端输出压缩框架，让Agent在噪音中学会过滤低价值信息"
 description: "**[终端Agent的注意力筛选问题有了系统性解法]**  曼彻斯特/港科大/北航联合研究提出TACO框架，无需训练即可从历史交互中自动发现并提炼压缩规则，使终端Agent能过滤低价值输出而不丢失任务关键信号。在TerminalBench上，TACO为多个强模型提升1-4%准确率，同等条件下额外带来2-3%收益。  plug-and-play的特性意味着即插即用，不需要针对特定模型微调。核心价值是"
 resource: "https://x.com/i/status/2054610120957628469"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2054610120957628469"
+created: "2026-05-13"
+updated: "2026-06-26"
+sha256: "f907e0d06fdd62b8a15042e90ecdeb7c552e5755707bcdf605e6c6e4ad676f43"
+sources:
+  - "/sources/news/2026-05-13/00__jiqizhixin__taco-训练无关的终端输出压缩框架-让agent在噪音中学会过滤低价值信息.md"
 ---
 
 # TACO：训练无关的终端输出压缩框架，让Agent在噪音中学会过滤低价值信息

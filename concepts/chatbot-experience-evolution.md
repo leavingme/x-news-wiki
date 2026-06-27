@@ -1,5 +1,5 @@
 ---
-type: "Concept"
+type: "concept"
 title: "chatbot-experience-evolution"
 description: "跨日主题 \"chatbot-experience-evolution\"，共 2 条相关精选推文。"
 tags:
@@ -11,6 +11,13 @@ x_topic_slug: "chatbot-experience-evolution"
 x_tweet_count: 2
 x_first_seen: "2026-03-28T18:12:50.464Z"
 x_last_seen: "2026-05-07T19:19:15.337Z"
+type_okf: "Concept"
+created: "2026-03-28"
+updated: "2026-06-26"
+sha256: "f04dc2b3cdd8b863c8992e310e7281108eec68e27260e116b6d85e178205a98c"
+sources:
+  - "/sources/highlights/2026-03-28/00__REI30327536__gpt-4o-下架风波暴露情感依赖深渊-用户将-ai-视为-人格化陪伴者-而非工具.md"
+  - "/sources/highlights/2026-05-07/00__dotey__openai-realtime-api-三连发-gpt-5级推理进入实时语音-128k上下文撑起agent长任务编排.md"
 ---
 
 # 主题: chatbot-experience-evolution

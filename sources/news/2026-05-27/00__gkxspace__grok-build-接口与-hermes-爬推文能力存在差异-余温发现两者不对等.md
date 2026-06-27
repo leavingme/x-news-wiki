@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Grok Build 接口与 Hermes 爬推文能力存在差异，余温发现两者不对等"
 description: "**Grok Build 提供的可用接口与 Hermes 在推文爬取和搜索能力上存在差异，两者并非等价替代。**  要点： - Hermes 可以登录并爬/搜索推文 - Grok Build 的接口范围与 Hermes 不同 - 具体差异尚待进一步确认，但两者定位不同是事实  gakki：「Grok Build 和 Hermes 抢的是同一类开发者，但接口能力不对称——选哪个取决于你要的是 Gro"
 resource: "https://x.com/i/status/2059634409205109130"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2059634409205109130"
+created: "2026-05-27"
+updated: "2026-06-26"
+sha256: "9eac67262d3859b0badbb8eef02879aece9d12a85aeca3f6805e4165ff8dcf27"
+sources:
+  - "/sources/news/2026-05-27/00__gkxspace__grok-build-接口与-hermes-爬推文能力存在差异-余温发现两者不对等.md"
 ---
 
 # Grok Build 接口与 Hermes 爬推文能力存在差异，余温发现两者不对等

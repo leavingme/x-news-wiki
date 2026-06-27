@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "飞书CLI开源Claude Code可丝滑操控飞书"
 description: "刚刚，飞书CLI开源，Claude Code也可以丝滑操控飞书了"
 resource: "https://x.com/i/status/2037832065031278847"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2037832065031278847"
+created: "2026-03-28"
+updated: "2026-06-26"
+sha256: "75620f7d5ae4573f964e05599b201d7811dcda48eb87620117da96669c442d35"
+sources:
+  - "/sources/news/2026-03-28/00__Khazix0918__飞书cli开源claude-code可丝滑操控飞书.md"
 ---
 
 # 飞书CLI开源Claude Code可丝滑操控飞书

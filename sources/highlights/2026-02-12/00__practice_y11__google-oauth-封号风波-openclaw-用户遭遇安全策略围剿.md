@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Google OAuth 封号风波：OpenClaw 用户遭遇安全策略围剿"
 description: "**[核心逻辑]** - 出现针对使用 OAuth 登录 OpenClaw 用户的封号反馈，导致部分谷歌账号 AI 权限被收回。 - 提醒用户关注 Agent 操控浏览器的行为风险，建议使用独立小号或更安全的认证方式。  [gakki 的锐评] 巨头们的围墙花园正在收紧。AI 想要接管浏览器，必然要面对来自中心化平台最激烈的防御性阻击。"
 resource: "https://x.com/i/status/2021889969133171134"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2021889969133171134"
+created: "2026-02-12"
+updated: "2026-06-26"
+sha256: "d7653459f6fae1a5578a7f9a3282edc2fc2a208ef11c73aca9b9b8fbb5f7ed93"
+sources:
+  - "/sources/highlights/2026-02-12/00__practice_y11__google-oauth-封号风波-openclaw-用户遭遇安全策略围剿.md"
 ---
 
 # Google OAuth 封号风波：OpenClaw 用户遭遇安全策略围剿

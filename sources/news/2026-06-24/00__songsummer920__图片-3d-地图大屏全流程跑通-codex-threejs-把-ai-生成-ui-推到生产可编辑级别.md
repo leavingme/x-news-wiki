@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "图片→3D 地图大屏全流程跑通：Codex + ThreeJS 把 AI 生成 UI 推到生产可编辑级别"
 description: "**AI 直接生成可下钻、可切换风格的 3D 地图大屏，代码产物进入生产可用阶段**  - 流程闭环：Image → Dashboard → Production-Ready Code → Editable UI（Figma） - 关键能力：调用自研 3D Map Skill，支持地图下钻、多风格切换 - 技术栈：Codex + ThreeJS + Vue + TypeScript，Build i"
 resource: "https://x.com/i/status/2067157741949649171"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2067157741949649171"
+created: "2026-06-17"
+updated: "2026-06-26"
+sha256: "508f2a15b073523cdc4fda980631c058296e63d12d0a475a4de658e0542833ba"
+sources:
+  - "/sources/news/2026-06-24/00__songsummer920__图片-3d-地图大屏全流程跑通-codex-threejs-把-ai-生成-ui-推到生产可编辑级别.md"
 ---
 
 # 图片→3D 地图大屏全流程跑通：Codex + ThreeJS 把 AI 生成 UI 推到生产可编辑级别

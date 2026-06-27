@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Agent读完整本书是伪需求：长上下文能力的工程浪漫与产品现实的错位"
 description: "**[上下文窗口的工程极限不等于用户真实需求]**  Orange AI指出\"让Agent读完整本书实在太梦幻\"，这个判断点出了当前AI工具的一个核心矛盾：厂商宣传的百万token上下文窗口，在实际产品体验中并不能转化为\"Agent真的能理解并运用整本书\"的能力。  信息增量：这不是对长上下文的否定，而是对\"能力宣传\"与\"可用性\"之间落差的精准吐槽。  **gakki：当模型上下文窗口成为营销数字"
 resource: "https://x.com/i/status/2055909028728012925"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2055909028728012925"
+created: "2026-05-17"
+updated: "2026-06-26"
+sha256: "e84da0cfd564821885bb751abc0c7a1f4ae8742f3e38e8f17098526b389411ad"
+sources:
+  - "/sources/news/2026-05-17/00__oran_ge__agent读完整本书是伪需求-长上下文能力的工程浪漫与产品现实的错位.md"
 ---
 
 # Agent读完整本书是伪需求：长上下文能力的工程浪漫与产品现实的错位

@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "M4 24G内存渲染13分钟MTV：AI视频生产的硬件瓶颈正在从算力转向内存容量"
 description: "**[AI视频创作的硬件瓶颈右移：内存取代算力成为新瓶颈]**  向阳乔木实测M4 24G内存在制作MTV时需要13分钟渲染，24G已是「捉襟见肘」状态。这揭示了AI视频生成的一个被低估的硬件约束。  - 当前AI视频工具的宣传重点都在模型能力，硬件约束被长期忽视 - M4 24G已是苹果面向AI工作的高配机型，它的瓶颈意味着整个行业还未到硬件自由阶段 - 13分钟单次渲染的等待成本，会直接影响创"
 resource: "https://x.com/i/status/2060904422709055817"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2060904422709055817"
+created: "2026-05-31"
+updated: "2026-06-26"
+sha256: "e7b1de6c81dcc3da835f204b231a4afe042980fcae4f80325b9a0345aa85629f"
+sources:
+  - "/sources/news/2026-05-31/00__vista8__m4-24g内存渲染13分钟mtv-ai视频生产的硬件瓶颈正在从算力转向内存容量.md"
 ---
 
 # M4 24G内存渲染13分钟MTV：AI视频生产的硬件瓶颈正在从算力转向内存容量

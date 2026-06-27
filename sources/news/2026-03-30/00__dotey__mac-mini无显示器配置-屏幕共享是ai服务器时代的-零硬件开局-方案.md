@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Mac Mini无显示器配置：屏幕共享是AI服务器时代的「零硬件开局」方案"
 description: "[屏幕共享替代实体显示器，本质是「远程控制权」的基础设施化]  用macOS自带屏幕共享功能远程操控Mac Mini，无需额外显示器。这是AI服务器时代的实用技巧，但背后有一个更大的趋势：随着AI算力设备（Mac Mini、迷你主机）普及，「如何最低成本接入一个永远在线的AI工作站」会成为新的基础设施问题。  屏幕共享只是解法之一，SSH、VNC、甚至浏览器远程桌面都在争夺这个场景。胜负手在于：哪"
 resource: "https://x.com/i/status/2038441251037434192"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2038441251037434192"
+created: "2026-03-30"
+updated: "2026-06-26"
+sha256: "5a8ee14d550493f09e4b799b64ffd948166a0ba2598aff5f19616c2849987de7"
+sources:
+  - "/sources/news/2026-03-30/00__dotey__mac-mini无显示器配置-屏幕共享是ai服务器时代的-零硬件开局-方案.md"
 ---
 
 # Mac Mini无显示器配置：屏幕共享是AI服务器时代的「零硬件开局」方案

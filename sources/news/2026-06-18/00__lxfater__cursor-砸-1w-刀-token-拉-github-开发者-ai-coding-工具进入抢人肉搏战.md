@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Cursor 砸 1w 刀 Token 拉 GitHub 开发者：AI Coding 工具进入抢人肉搏战"
 description: "**Cursor 推出 GitHub 开发者 Token 补贴活动：公开仓库 Star>1 即可申领\"御三家\"（主流厂商）Token，仓库热度越高白嫖越多。**  - 获客成本：Cursor 已经在用真金白银换 GitHub 开发者时间，说明订阅增长遇到瓶颈 - 渠道选择：放弃大众投放，转向**有仓库产出的开发者**——更精准、留存更好 - 配套机制：把\"提示词/工作流/工程经验\"提交到 EvoM"
 resource: "https://x.com/i/status/2067483367420080251"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2067483367420080251"
+created: "2026-06-18"
+updated: "2026-06-26"
+sha256: "69800ab859ac066059e0255884005a387a2b801bac981d2374be9ed90af293f0"
+sources:
+  - "/sources/news/2026-06-18/00__lxfater__cursor-砸-1w-刀-token-拉-github-开发者-ai-coding-工具进入抢人肉搏战.md"
 ---
 
 # Cursor 砸 1w 刀 Token 拉 GitHub 开发者：AI Coding 工具进入抢人肉搏战

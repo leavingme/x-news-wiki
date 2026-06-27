@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "一个算子就能重建所有初等函数：数学符号回归的重大突破"
 description: "**EML算子：数学的「万物理论」时刻。**  研究者发现 exp(x) - ln(y) 这一个算子加上常数1，可以生成所有初等函数——包括三角函数、对数、超越常数e和π。这不是近似，是系统性重建。  对AI领域的直接意义：符号回归（Symbolic Regression）和物理公式发现有了新的数学基座，模型不再需要「记住」公式，而是从算子自举生成。  **gakki：这篇如果被LLM社区重视，数"
 resource: "https://x.com/i/status/2046121875479388326"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2046121875479388326"
+created: "2026-04-20"
+updated: "2026-06-26"
+sha256: "910f8d04e4585abc0c94af860b86692af550dd08481221f4c540001b323765b9"
+sources:
+  - "/sources/news/2026-04-21/00__jiqizhixin__一个算子就能重建所有初等函数-数学符号回归的重大突破.md"
 ---
 
 # 一个算子就能重建所有初等函数：数学符号回归的重大突破

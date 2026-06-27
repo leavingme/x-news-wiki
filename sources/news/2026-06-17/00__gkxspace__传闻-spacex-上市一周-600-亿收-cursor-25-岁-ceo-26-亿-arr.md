@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "传闻：SpaceX 上市一周 600 亿收 Cursor，25 岁 CEO 26 亿 ARR"
 description: "**[未经主流媒体证实的重磅传闻：SpaceX 上市后 600 亿美元收购 Cursor，AI Coding 工具估值天花板再次刷新。]** - 余温披露：Cursor CEO Michael Truell 25 岁，自研 Composer 2.5 模型号称编程能力对标 Opus 4.7，成本仅 Claude Code 的 1/10，速度更快 - Cursor 26 亿 ARR、600 亿被收，溢"
 resource: "https://x.com/i/status/2067009573945315617"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2067009573945315617"
+created: "2026-06-16"
+updated: "2026-06-26"
+sha256: "a1a6d49fe6c07241be629389f01e385ea1427d1f6b6facff789c501be835e056"
+sources:
+  - "/sources/news/2026-06-17/00__gkxspace__传闻-spacex-上市一周-600-亿收-cursor-25-岁-ceo-26-亿-arr.md"
 ---
 
 # 传闻：SpaceX 上市一周 600 亿收 Cursor，25 岁 CEO 26 亿 ARR

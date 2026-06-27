@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Karpathy 拍 nanochat 教程才意识到：'开一台 8×H100'挡住了所有人"
 description: "**nanochat 教程的第一行代码就把观众卡死了。**  - Karpathy 在录制 nanochat 教程时临时改掉了开场白——原计划是'从你最喜欢的供应商那里启动一台 8×H100'，但他意识到这会让绝大多数人在视频第 1 步就放弃。 - 这不是硬件吐槽，而是一次对**LLM 训练民主化边界**的清醒标注：即便是 Karpathy 这种级别的布道者，默认假设的最小可行算力也仍是 8 卡 "
 resource: "https://x.com/i/status/2056214387980193909"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2056214387980193909"
+created: "2026-05-18"
+updated: "2026-06-26"
+sha256: "bb8c9d96c6499b181aceaf208d473b4a6076abadfe216bd291531faa4ebe428a"
+sources:
+  - "/sources/news/2026-06-25/00__karpathy__karpathy-拍-nanochat-教程才意识到-开一台-8-h100-挡住了所有人.md"
 ---
 
 # Karpathy 拍 nanochat 教程才意识到：'开一台 8×H100'挡住了所有人

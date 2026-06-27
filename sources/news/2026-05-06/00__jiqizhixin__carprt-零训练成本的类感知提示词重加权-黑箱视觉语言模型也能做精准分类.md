@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "CARPRT：零训练成本的类感知提示词重加权，黑箱视觉语言模型也能做精准分类"
 description: "**[提示词工程正在从「经验艺术」走向「可计算优化」——这次连训练都不需要了]**  - 墨尔本大学+东南大学+RIKEN 提出 CARPRT，核心思路：不同类别应使用不同提示词权重，而非一刀切 - 通过对预测图像取均值来评估每个提示词与各类别的相关性，零训练即插即用 - 在多个基准测试上超越 class-independent 方法，证明 prompt-class 依赖关系是被严重低估的信号  "
 resource: "https://x.com/i/status/2051869562937680289"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2051869562937680289"
+created: "2026-05-06"
+updated: "2026-06-26"
+sha256: "1dbcba149a70668521c528cc46d22c5bb9addb983d7182c7733ae7bbfe71af99"
+sources:
+  - "/sources/news/2026-05-06/00__jiqizhixin__carprt-零训练成本的类感知提示词重加权-黑箱视觉语言模型也能做精准分类.md"
 ---
 
 # CARPRT：零训练成本的类感知提示词重加权，黑箱视觉语言模型也能做精准分类

@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "GPT 5.5翻译质量获宝玉实测认可：LLM「写东西」进入可用状态"
 description: "**一句话核心判断**：GPT 5.5在长文本写作/翻译任务上跨过「可用」门槛，多模态仍是短板。  后续要点： - 宝玉实测翻译整篇文章，确认质量「挺好的」，这是头部模型玩家中少有的非官宣实测反馈 - 与Orange AI「GPT 5.5可能debug出了」的暗示形成关联：5.5版可能在某些核心能力上有实质提升 - 翻译质量先于其他能力被认可，指向一个规律：LLM的「结构化输出」能力优于「开放式创"
 resource: "https://x.com/i/status/2047577058415448505"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2047577058415448505"
+created: "2026-04-24"
+updated: "2026-06-26"
+sha256: "00e302bf19f67e3ea8ba90052ebb4bca5a87ef5903e5c77f6d7c14c24b401726"
+sources:
+  - "/sources/news/2026-04-24/00__dotey__gpt-5-5翻译质量获宝玉实测认可-llm-写东西-进入可用状态.md"
 ---
 
 # GPT 5.5翻译质量获宝玉实测认可：LLM「写东西」进入可用状态

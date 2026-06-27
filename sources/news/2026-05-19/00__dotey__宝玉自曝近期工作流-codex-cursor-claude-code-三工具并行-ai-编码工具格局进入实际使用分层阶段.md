@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "宝玉自曝近期工作流：Codex、Cursor、Claude Code 三工具并行，AI 编码工具格局进入实际使用分层阶段"
 description: "**[头部开发者的真实工具选型揭示 AI Coding 市场的实质分化]**  宝玉透露近期使用频次最高的工具是 Codex、Cursor 和 Claude Code三家。三者并行使用而非单一依赖，说明当前 AI 编码工具市场并非赢家通吃，而是按场景分层——每个工具在头部用户心里都有其不可替代的舒适区。  信息增量：没有工具能通吃，恰恰说明 AI Coding 工具市场的成熟度比表面看到的更复杂。"
 resource: "https://x.com/i/status/2056747698150130149"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2056747698150130149"
+created: "2026-05-19"
+updated: "2026-06-26"
+sha256: "3202689a4f53fe84b1b2899e3f67321018f2d9dcc79880c5471b6ac76e16a0ec"
+sources:
+  - "/sources/news/2026-05-19/00__dotey__宝玉自曝近期工作流-codex-cursor-claude-code-三工具并行-ai-编码工具格局进入实际使用分层阶段.md"
 ---
 
 # 宝玉自曝近期工作流：Codex、Cursor、Claude Code 三工具并行，AI 编码工具格局进入实际使用分层阶段

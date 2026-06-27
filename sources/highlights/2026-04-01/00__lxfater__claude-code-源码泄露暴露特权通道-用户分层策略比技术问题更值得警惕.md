@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Claude Code 源码泄露暴露特权通道：用户分层策略比技术问题更值得警惕"
 description: "**[一句话核心判断]**  Claude Code 大量已修复的 Bug 仅对内部员工开放，普通用户承受更低质量的体验——这是产品级「用户歧视」，而非技术局限。  **信息增量：** • 源码分析揭示：内部员工版与公开版的代码存在显著差异 • 部分 Bug 已有解决方案，但选择不向外部用户推送 • 社区已发现通过 claude.md 配置「伪装」获取员工待遇的方法  **影响分析：** • 信任"
 resource: "https://x.com/i/status/2039044424890552612"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2039044424890552612"
+created: "2026-03-31"
+updated: "2026-06-26"
+sha256: "1482c10932aba950a055abcd4907a0e675fed7921e7a9281e706befa7fe90174"
+sources:
+  - "/sources/highlights/2026-04-01/00__lxfater__claude-code-源码泄露暴露特权通道-用户分层策略比技术问题更值得警惕.md"
 ---
 
 # Claude Code 源码泄露暴露特权通道：用户分层策略比技术问题更值得警惕

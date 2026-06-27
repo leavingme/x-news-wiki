@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "向阳乔木丢工具：反检测浏览器+卡比的库"
 description: "**向阳乔木无文字只丢两条工具链入口。**  两条链接：卡比的库（疑似个人工具集仓库）+ 反检测浏览器。后者对Agent数据采集/爬虫场景直接相关，可绕过平台对自动化流量的指纹识别。  无评测、无对比、无使用场景，纯信号源式分享——能读出\"圈内工具已普及反检测\"但具体选型仍需自己验证。  gakki锐评：工具链接不带场景和结论等于没分享，Agent数据层基础设施（反检测、IP轮换、指纹伪装）确实到"
 resource: "https://x.com/i/status/2068333104205275138"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2068333104205275138"
+created: "2026-06-20"
+updated: "2026-06-26"
+sha256: "6672d107253698fa2bd3aa913c263c184d9ded420df4d6300e890baf303d6311"
+sources:
+  - "/sources/news/2026-06-20/00__vista8__向阳乔木丢工具-反检测浏览器-卡比的库.md"
 ---
 
 # 向阳乔木丢工具：反检测浏览器+卡比的库

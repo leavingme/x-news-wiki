@@ -1,5 +1,5 @@
 ---
-type: "Author"
+type: "entity"
 title: "Kimi.ai (@Kimi_Moonshot)"
 description: "X/Twitter 作者 @Kimi_Moonshot。共收录 1 条 AI 精选推文。"
 tags:
@@ -12,6 +12,12 @@ x_author_name: "Kimi.ai"
 x_tweet_count: 1
 x_first_seen: "2026-04-20T15:28:10.000Z"
 x_last_seen: "2026-04-20T15:28:10.000Z"
+type_okf: "Author"
+created: "2026-04-20"
+updated: "2026-06-26"
+sha256: "87f7e64e97b5e953403aeabfa849d430deb66ab5484b572919a3cc5285275f7a"
+sources:
+  - "/sources/highlights/2026-04-20/00__Kimi_Moonshot__kimi-k2-6开源-4000-工具调用-12小时长程执行-代码agent进入-无人值守-阶段.md"
 ---
 
 # Kimi.ai (@Kimi_Moonshot)

@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "公众号 URL 一键转 PPT：向阳乔木卡比工具链下周开源"
 description: "**[公众号内容→PPT 自动化：图随文走，pptx 可二次编辑]**  要点： - 只需一个公众号文章 URL，自动转 PPT 并引用文中图片 - 导出支持 pptx / html / pdf，pptx 格式可任意修改 - 项目仍在迭代，下周开源，排版美观度有待提升   锐评：把公众号当 source-of-truth 输出 PPT，这套打法直击中文内容生产痛点。开源前排版是短板，但方向正确——"
 resource: "https://x.com/i/status/2068335094436114488"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2068335094436114488"
+created: "2026-06-20"
+updated: "2026-06-26"
+sha256: "10cebe476885b97932fcb3526fb356647e32560f6ddee7b859e119d7f288b4c5"
+sources:
+  - "/sources/news/2026-06-20/00__vista8__公众号-url-一键转-ppt-向阳乔木卡比工具链下周开源.md"
 ---
 
 # 公众号 URL 一键转 PPT：向阳乔木卡比工具链下周开源

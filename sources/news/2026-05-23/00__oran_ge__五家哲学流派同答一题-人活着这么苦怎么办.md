@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "五家哲学流派同答一题：人活着这么苦怎么办"
 description: "**核心判断：东方哲学群体性虚无与硅谷尼采精神的根源分野，藏在各自对「苦」的定义里。**  佛家指向退出（灭执着），道家指向顺势（柔克刚），儒家指向承担（扛使命），基督教指向忍耐（来世救赎），尼采指向超越（痛苦即燃料）。有趣推论：人在累到极限时倾向佛家，缓过来找巧劲时倾向道家，扛责任时倾向儒家，没想通时倾向基督教，决定做成事时倾向尼采。  中国受佛家影响深，虚无感是群体性倾向；硅谷偏尼采精神，重新"
 resource: "https://x.com/i/status/2057967885163868662"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2057967885163868662"
+created: "2026-05-22"
+updated: "2026-06-26"
+sha256: "fa9d22a8d40719f971ecd61163f1d403eb47944d5068331155d99bcbf6a182e8"
+sources:
+  - "/sources/news/2026-05-23/00__oran_ge__五家哲学流派同答一题-人活着这么苦怎么办.md"
 ---
 
 # 五家哲学流派同答一题：人活着这么苦怎么办

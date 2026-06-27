@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Skills 设计的反直觉：核心价值是「不写」"
 description: "**[Skill 的本质不是塞知识，而是画边界——把确定性逻辑全部下沉到脚本，让 Agent 只做理解决策]**  • Skill ≠ 长 Prompt：它是业务团队在 AI 时代的新交付形态，过去交付页面接口，现在交付「让 Agent 稳定完成某件事的方法论包」。 • 签名计算、渠道映射、错误分类、重试策略——全部从 Agent 手里拿回来，写成脚本。 • SKILL.md 是写给 Agent "
 resource: "https://x.com/i/status/2039707154371018930"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2039707154371018930"
+created: "2026-04-02"
+updated: "2026-06-26"
+sha256: "9755009c4fa48b81026dae1945cbafb599475b9285b131e9836317b7b0291d46"
+sources:
+  - "/sources/highlights/2026-04-03/00__chenchengpro__skills-设计的反直觉-核心价值是-不写.md"
 ---
 
 # Skills 设计的反直觉：核心价值是「不写」

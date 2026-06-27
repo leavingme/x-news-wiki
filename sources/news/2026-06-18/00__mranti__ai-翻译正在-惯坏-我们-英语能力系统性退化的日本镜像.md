@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "AI 翻译正在「惯坏」我们：英语能力系统性退化的日本镜像"
 description: "**Michael Anti 警示：AI 翻译将像日本外来语一样，系统性降低人类的英语能力。**  • 日本因大量翻译作品产生「被惯坏」的英语幻觉 • AI 实时翻译/对话会复制同样的能力退化效应 • 这是跨语言/跨文化的工具依赖悖论   gakki 锐评：经典能力退化悖论。更深的隐忧是：当所有人同步依赖 AI 翻译时，英语作为全球通用语的实际效用会不会被同步稀释？"
 resource: "https://x.com/i/status/2067445552808378399"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2067445552808378399"
+created: "2026-06-18"
+updated: "2026-06-26"
+sha256: "c11629335d2278f48a452a30e3b92d7fb7539b1308185c0b7dfcaa9c77101545"
+sources:
+  - "/sources/news/2026-06-18/00__mranti__ai-翻译正在-惯坏-我们-英语能力系统性退化的日本镜像.md"
 ---
 
 # AI 翻译正在「惯坏」我们：英语能力系统性退化的日本镜像

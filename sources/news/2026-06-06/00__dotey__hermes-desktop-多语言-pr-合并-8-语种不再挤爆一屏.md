@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Hermes Desktop 多语言 PR 合并：8+ 语种不再挤爆一屏"
 description: "**Hermes Desktop 下版本支持完整多语言，含繁体中文与日文。**  宝玉自述改造过程： - 之前只实现最基本多语言，硬编码英文残留多 - 原设计参考颜色模式选择器，但语言一多（>8 种）就装不下 - 改为可检索 Dropdown List，UI 形态根本性重做 - 翻译走 Web 翻译 + AI 辅助，欢迎 PR 纠错   gakki 锐评：本地化是开源项目最容易被低估的\"产品级\"工"
 resource: "https://x.com/i/status/2063277561266782661"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2063277561266782661"
+created: "2026-06-06"
+updated: "2026-06-26"
+sha256: "4efe83ddf96c44771872323553e0bd237c93beff056fea2763cf5e9efcc28918"
+sources:
+  - "/sources/news/2026-06-06/00__dotey__hermes-desktop-多语言-pr-合并-8-语种不再挤爆一屏.md"
 ---
 
 # Hermes Desktop 多语言 PR 合并：8+ 语种不再挤爆一屏

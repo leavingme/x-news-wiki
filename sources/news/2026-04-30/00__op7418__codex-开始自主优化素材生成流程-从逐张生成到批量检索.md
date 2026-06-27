@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Codex 开始自主优化素材生成流程：从逐张生成到批量检索"
 description: "**AI 编码工具开始展现「成本意识」自主决策能力。**  - Codex 主动判断逐张生成素材效率过低，自行转向批量检索方案 - 这不是预设的工作流，而是 Agent 在执行过程中自主优化决策路径 - 体现了「驭能工程」的核心：AI 不只是执行指令，而是理解意图后优化实现方式  gakki 锐评：当 Agent 开始有「效率直觉」，人类的 Prompt Engineering 就要升级为「意图表"
 resource: "https://x.com/i/status/2049701942679699559"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2049701942679699559"
+created: "2026-04-30"
+updated: "2026-06-26"
+sha256: "9ebe1ac3811374b91d41175243570b2e2a2a7bbc3246ac5147c763aaeeca8b02"
+sources:
+  - "/sources/news/2026-04-30/00__op7418__codex-开始自主优化素材生成流程-从逐张生成到批量检索.md"
 ---
 
 # Codex 开始自主优化素材生成流程：从逐张生成到批量检索

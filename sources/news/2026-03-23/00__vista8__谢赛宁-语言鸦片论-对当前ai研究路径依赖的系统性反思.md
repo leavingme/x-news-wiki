@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "谢赛宁「语言鸦片论」：对当前AI研究路径依赖的系统性反思"
 description: "**[7小时访谈的核心命题——语言是否是通向AGI的唯一通道？]** • 语言作为人类智能的「压缩表示」，可能正在限制AI对物理世界和具身认知的建模能力 • 这一观点与LeCun的「世界模型」路线形成呼应，对当前LLM主导的研究范式提出挑战 • 对Agent开发者而言，意味着「纯文本交互」可能存在本质天花板，多模态感知或许是必经之路  **gakki 锐评：** 当整个行业All in语言模型时，"
 resource: "https://x.com/i/status/2035909538436776320"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2035909538436776320"
+created: "2026-03-23"
+updated: "2026-06-26"
+sha256: "8b8c5f0ed7d034307ad8047ff4eb19555810cd3e083fa75997fce4b86052ce3d"
+sources:
+  - "/sources/news/2026-03-23/00__vista8__谢赛宁-语言鸦片论-对当前ai研究路径依赖的系统性反思.md"
 ---
 
 # 谢赛宁「语言鸦片论」：对当前AI研究路径依赖的系统性反思

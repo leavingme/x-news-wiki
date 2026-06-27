@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "OpenAI 发布「一键迁移到 Codex」：从 Claude Code/Cursor 抢人的最激进动作"
 description: "**OpenAI 直接把竞品用户迁移做成了一键功能，这是平台战争进入存量争夺阶段的标志。**  - 支持从 Claude Code、Cursor 导入配置、规则、技能、MCP、hooks、subagents 及近 30 天会话 - instruction files → AGENTS.md，settings.json → config.toml，自动映射后剩余部分由 Agent 线程接管 - 这不"
 resource: "https://x.com/i/status/2051858358567833926"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2051858358567833926"
+created: "2026-05-06"
+updated: "2026-06-26"
+sha256: "6cadd0ae74c7331e5405c22865ff94a9ce619fad834723e5fee9b33f041cc0de"
+sources:
+  - "/sources/highlights/2026-05-06/00__xiaohu__openai-发布-一键迁移到-codex-从-claude-code-cursor-抢人的最激进动作.md"
 ---
 
 # OpenAI 发布「一键迁移到 Codex」：从 Claude Code/Cursor 抢人的最激进动作

@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Workspace Agent 开源版：终于有一个不被任何模型商绑定的 Agent 部署方案"
 description: "**一句话核心判断：Workspace Agent 开源版解决了 Agent 落地最大的痛点——厂商锁定，Docker 沙箱 + 凭证隔离让每个用户跑在独立环境里。**  • 任意模型：Claude / GPT / Gemini / Kimi / DeepSeek 都能接，不被任何一家绑定。 • 独立 Docker 沙箱：每个会话隔离运行，一个崩了不影响其他，企业级可靠性。 • 终端用户凭证隔离："
 resource: "https://x.com/i/status/2047521587122106376"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2047521587122106376"
+created: "2026-04-24"
+updated: "2026-06-26"
+sha256: "2b388464ded631bfcc50ffed8f720655432f0fb6cc5b794950103445f983d2cf"
+sources:
+  - "/sources/news/2026-04-24/00__xiaohu__workspace-agent-开源版-终于有一个不被任何模型商绑定的-agent-部署方案.md"
 ---
 
 # Workspace Agent 开源版：终于有一个不被任何模型商绑定的 Agent 部署方案

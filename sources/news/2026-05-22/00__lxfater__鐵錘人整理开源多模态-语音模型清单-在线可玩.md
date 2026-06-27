@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "鐵錘人整理开源多模态+语音模型清单，在线可玩"
 description: "**一句话核心判断：** 鐵錘人梳理了两个可玩性较高的开源多模态模型和语音模型，提供在线试玩链接，降低了普通用户接触门槛。  **信息增量：** - 多模态模型（Cosochat/Visocraft 等开源实现）+ 语音模型组合 - 语音模型支持「传一段你的声音让它说外语」，即个人声音克隆 + 多语言生成 - 两条 GitHub 链接 + 两个在线 Demo，实用性强  **行业影响：** 开源多"
 resource: "https://x.com/i/status/2057716233613558037"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2057716233613558037"
+created: "2026-05-22"
+updated: "2026-06-26"
+sha256: "0553ba3da1ce51f46d1510e7275c394a392bde5501859ccf01ce1a418708049c"
+sources:
+  - "/sources/news/2026-05-22/00__lxfater__鐵錘人整理开源多模态-语音模型清单-在线可玩.md"
 ---
 
 # 鐵錘人整理开源多模态+语音模型清单，在线可玩

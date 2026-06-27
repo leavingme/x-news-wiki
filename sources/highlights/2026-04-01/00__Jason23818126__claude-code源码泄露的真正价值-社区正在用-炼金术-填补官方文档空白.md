@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Claude Code源码泄露的真正价值：社区正在用「炼金术」填补官方文档空白"
 description: "**[一句话核心判断]**  源码泄露是引子，社区自发的教程工业化才是质变——这标志着Claude Code正在从工具进化为「AI编程操作系统」。  - 三个教程覆盖零基础到高阶自动化，形成完整的「上手-进阶-个性化」学习路径 - 核心矛盾从「会不会用」转移到「用得多深」，教程质量开始分化用户体验 - oh-my-claudecode的出现类比oh-my-zsh，意味着Claude Code已具备"
 resource: "https://x.com/i/status/2039191204370493943"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2039191204370493943"
+created: "2026-04-01"
+updated: "2026-06-26"
+sha256: "70832a56c70bc1f8e23bfe3e63b29ca87cd31caef011b06f190b18dd28cbf333"
+sources:
+  - "/sources/highlights/2026-04-01/00__Jason23818126__claude-code源码泄露的真正价值-社区正在用-炼金术-填补官方文档空白.md"
 ---
 
 # Claude Code源码泄露的真正价值：社区正在用「炼金术」填补官方文档空白

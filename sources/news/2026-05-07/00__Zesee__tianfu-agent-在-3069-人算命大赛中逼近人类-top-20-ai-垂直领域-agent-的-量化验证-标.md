@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Tianfu Agent 在 3069 人算命大赛中逼近人类 Top-20：AI 垂直领域 Agent 的「量化验证」标杆"
 description: "**用 AI 方法论重构紫微斗数，Tianfu Agent 在全球算命师大赛中准确率接近人类顶尖选手。**  - 核心不是「AI 算命」的噱头，而是展示了垂直领域 Agent 的工程化路径：排盘可视化、多流派权衡、最多 500 次工具调用的深度推理 - 关键设计：遇到复杂矛盾时会坦诚「不确定」，比通用大模型的幻觉输出更可靠 - 3069 人参赛的量化验证，给出了可衡量的性能基线——这在 Agent"
 resource: "https://x.com/i/status/2052228410571640899"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2052228410571640899"
+created: "2026-05-07"
+updated: "2026-06-26"
+sha256: "662a30b0e71300d3b5cdddb5d965b1a886b97f026c1928e1624cb7664b789860"
+sources:
+  - "/sources/news/2026-05-07/00__Zesee__tianfu-agent-在-3069-人算命大赛中逼近人类-top-20-ai-垂直领域-agent-的-量化验证-标.md"
 ---
 
 # Tianfu Agent 在 3069 人算命大赛中逼近人类 Top-20：AI 垂直领域 Agent 的「量化验证」标杆

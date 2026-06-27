@@ -1,5 +1,5 @@
 ---
-type: "Author"
+type: "entity"
 title: "GitTrend (@GitTrend0x)"
 description: "X/Twitter 作者 @GitTrend0x。共收录 4 条 AI 精选推文。"
 tags:
@@ -12,6 +12,15 @@ x_author_name: "GitTrend"
 x_tweet_count: 4
 x_first_seen: "2026-04-09T00:44:24.995Z"
 x_last_seen: "2026-04-10T00:44:38.977Z"
+type_okf: "Author"
+created: "2026-04-09"
+updated: "2026-06-26"
+sha256: "0683b69259a0ccb6ec3587ae191f7e067e416d66de0a816136692358235b8e1c"
+sources:
+  - "/sources/highlights/2026-04-09/00__GitTrend0x__github被agent军团占榜-hermes-agent自进化养成-gitnexus代码知识图谱正在重新定义开发边界.md"
+  - "/sources/news/2026-04-09/00__GitTrend0x__camel-ai-owl-24小时暴增1287星-单agent崩溃难题被多智能体军团解法终结.md"
+  - "/sources/news/2026-04-09/00__GitTrend0x__hermes-agent-24小时8800星-记忆型-agent-开始-长脑子.md"
+  - "/sources/news/2026-04-10/00__GitTrend0x__github-被-agent-军团屠榜-oh-my-claudecode-开创团队协作编程新范式.md"
 ---
 
 # GitTrend (@GitTrend0x)

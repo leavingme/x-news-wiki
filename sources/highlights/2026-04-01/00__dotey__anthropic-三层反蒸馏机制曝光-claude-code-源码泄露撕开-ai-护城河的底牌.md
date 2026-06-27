@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Anthropic 三层反蒸馏机制曝光：Claude Code 源码泄露撕开 AI 护城河的底牌"
 description: "**一句话核心判断：** Claude Code 源码泄露事件最大的受害者不是用户，而是试图用 API 输出蒸馏训练模型的竞争者——Anthropic 埋了三层反制措施，专门让这种训练方式\"有毒\"。  **信息增量：** • **掺假层**：API 返回时混入虚假工具调用数据，正常用户无感知（服务端过滤），但抓取输出训练模型的竞争者会把假数据吃进训练集 • **推理截断层**：模型中间推理文本（如"
 resource: "https://x.com/i/status/2039042306871906655"
@@ -22,6 +22,13 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "ai-distillation-ethics"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2039042306871906655"
+created: "2026-03-31"
+updated: "2026-06-26"
+sha256: "2073ca3b3820ec0d82a235c47015ac9eee322125f74a804c121e50030df0ceff"
+sources:
+  - "/sources/highlights/2026-04-01/00__dotey__anthropic-三层反蒸馏机制曝光-claude-code-源码泄露撕开-ai-护城河的底牌.md"
 ---
 
 # Anthropic 三层反蒸馏机制曝光：Claude Code 源码泄露撕开 AI 护城河的底牌

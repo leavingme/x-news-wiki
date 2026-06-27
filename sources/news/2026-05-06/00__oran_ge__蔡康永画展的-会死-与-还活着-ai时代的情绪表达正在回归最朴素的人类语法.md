@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "蔡康永画展的\"会死\"与\"还活着\"：AI时代的情绪表达正在回归最朴素的人类语法"
 description: "**[当AI能生成一切精美内容，朴素的\"人味\"反而成了稀缺品]** - 画廊老板最先卖掉的，不是技巧最好的画，而是写满\"会死\"中间夹着\"还活着\"的那张 - 买画的企业老板说：这就是他每天开公司的感觉 - 艺术的价值不在技法，在精准击中情绪的共鸣点  gakki锐评：这个故事的深意是——AI可以模拟风格，但很难模拟\"真实的疲惫与韧性\"。当技术门槛消失，真诚本身就成了护城河。"
 resource: "https://x.com/i/status/2051852828600344973"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2051852828600344973"
+created: "2026-05-06"
+updated: "2026-06-26"
+sha256: "0155b3bbd4b95873c378addcf2e399bba819a50377d7368e05f07a46d7fd8ea3"
+sources:
+  - "/sources/news/2026-05-06/00__oran_ge__蔡康永画展的-会死-与-还活着-ai时代的情绪表达正在回归最朴素的人类语法.md"
 ---
 
 # 蔡康永画展的"会死"与"还活着"：AI时代的情绪表达正在回归最朴素的人类语法

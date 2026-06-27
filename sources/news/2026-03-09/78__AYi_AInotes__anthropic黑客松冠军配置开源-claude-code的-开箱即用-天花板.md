@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Anthropic黑客松冠军配置开源：Claude Code的「开箱即用」天花板"
 description: "**[一套预配置方案将Claude Code从工具升级为可运行的Agent系统]**  • 配置即产品：涵盖预配置智能体、完整技能库、MCP服务器、PM2进程管理与多智能体编排的完整生态 • 降低准入门槛：新手可直接克隆运行，老手可基于夺冠级架构二次开发 • 社区知识沉淀信号：个体开发者的最佳实践正在通过开源方式成为公共基础设施  **gakki锐评：** 这不是简单的「配置文件分享」，而是Cla"
 resource: "https://x.com/i/status/2030633094840025150"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 78
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2030633094840025150"
+created: "2026-03-08"
+updated: "2026-06-26"
+sha256: "f89a7185b29c880ca53d196c25efa547eabfdc23796c5c4c716df0e4c498df5b"
+sources:
+  - "/sources/news/2026-03-09/78__AYi_AInotes__anthropic黑客松冠军配置开源-claude-code的-开箱即用-天花板.md"
 ---
 
 # Anthropic黑客松冠军配置开源：Claude Code的「开箱即用」天花板

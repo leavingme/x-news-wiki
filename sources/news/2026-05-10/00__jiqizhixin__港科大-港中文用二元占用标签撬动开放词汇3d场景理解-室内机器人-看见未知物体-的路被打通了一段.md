@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "港科大&港中文用二元占用标签撬动开放词汇3D场景理解，室内机器人「看见未知物体」的路被打通了一段"
 description: "**[仅用occupied/free二元标签训练语言嵌入3D高斯，开放词汇3D占用预测在Occ-ScanNet刷到59.50 IoU新SOTA]**  • 创新点：opacity-aware Poisson稳定几何 + Progressive Temperature Decay渐进式语义对齐，把极简监督信号的天花板大幅抬高 • 核心突破：机器人第一次能用纯几何标签（不依赖密集语义标注）识别训练中从"
 resource: "https://x.com/i/status/2053481937423974853"
@@ -22,6 +22,13 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "embodied-ai-and-robotics"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2053481937423974853"
+created: "2026-05-10"
+updated: "2026-06-26"
+sha256: "722c09bd49c6706cbef595e935d2443f0fab270bc9033d15a7c4b1bed42ad419"
+sources:
+  - "/sources/news/2026-05-10/00__jiqizhixin__港科大-港中文用二元占用标签撬动开放词汇3d场景理解-室内机器人-看见未知物体-的路被打通了一段.md"
 ---
 
 # 港科大&港中文用二元占用标签撬动开放词汇3D场景理解，室内机器人「看见未知物体」的路被打通了一段

@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Antigravity 2.0 被指抄 Codex：Google AI 工具的 UI 焦虑"
 description: "**[Antigravity 2.0 和 Codex「长一个样」]**  宝玉评论 Google 新 UI 框架 Antigravity 2.0 与 Codex 高度相似，并指出 Google 舍得抄 UI/UX 是好事，至少不会像 Gemini UI 那么难用。  这侧面印证了 Codex 的交互范式已被市场验证为最优解之一。Google 放下身段抄，说明 AI Coding 工具的形态正在收敛"
 resource: "https://x.com/i/status/2056862526239908047"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2056862526239908047"
+created: "2026-05-19"
+updated: "2026-06-26"
+sha256: "066138f479e5641b1f3926122a4d0c36bf8210fc864f63ae431626e3edae33b2"
+sources:
+  - "/sources/news/2026-05-20/00__dotey__antigravity-2-0-被指抄-codex-google-ai-工具的-ui-焦虑.md"
 ---
 
 # Antigravity 2.0 被指抄 Codex：Google AI 工具的 UI 焦虑

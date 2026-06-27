@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Perceptron Mk1 凭 $0.15/M 打价格战：具身推理模型的商品化时刻到了"
 description: "**[一句话核心判断]**  Perceptron Mk1 以每百万输入 $0.15 的价格切入视频理解与具身推理赛道，直接对标 Gemini Flash Lite——这不是价格战，是具身 AI 基础设施层的商品化预告片。  **信息增量：** - 结构化输出覆盖时码、片段、点和边界框，可规模化解析，瞄准机器人、制造质检、体育媒体三大场景 - 定价低于 Gemini Flash Lite 但功能集"
 resource: "https://x.com/IndianTechGuide/status/2054250992976453955"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
+
 x_source: "ai-trend-digest"
+type_okf: "X Tweet"
+source_url: "https://x.com/IndianTechGuide/status/2054250992976453955"
+created: "2026-05-12"
+updated: "2026-06-26"
+sha256: "f52285311fd357ccc1c5b45fb3869b87cb9adae1c98000052557777b87461905"
+sources:
+  - "/sources/highlights/2026-05-12/00__IndianTechGuide__perceptron-mk1-凭-0-15-m-打价格战-具身推理模型的商品化时刻到了.md"
 ---
 
 # Perceptron Mk1 凭 $0.15/M 打价格战：具身推理模型的商品化时刻到了

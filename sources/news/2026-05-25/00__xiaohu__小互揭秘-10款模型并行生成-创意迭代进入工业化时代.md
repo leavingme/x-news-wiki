@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "小互揭秘：10款模型并行生成，创意迭代进入工业化时代"
 description: "**[单次调用并行生成10款模型，创意探索从串行走向批量]**  据小互分享，现代AI生成工具已支持单次请求并行生成10款模型，高效实现大规模创意探索与迭代。  这一能力意味着设计师/开发者可以在同一prompt下批量产出多风格变体，将创意的「探索阶段」压缩至毫秒级。    **gakki：** 并行生成不是新概念，但「10款」这个数字把工业化门槛摆到了台面上——当单次调用能覆盖一个设计团队一天的"
 resource: "https://x.com/i/status/2058779284567900299"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2058779284567900299"
+created: "2026-05-25"
+updated: "2026-06-26"
+sha256: "cd8d8ee0ea14759f8d655d8957bbaae8273deb2af9d7d96088795758fe015080"
+sources:
+  - "/sources/news/2026-05-25/00__xiaohu__小互揭秘-10款模型并行生成-创意迭代进入工业化时代.md"
 ---
 
 # 小互揭秘：10款模型并行生成，创意迭代进入工业化时代

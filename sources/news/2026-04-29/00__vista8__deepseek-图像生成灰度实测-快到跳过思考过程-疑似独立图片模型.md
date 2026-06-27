@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "DeepSeek 图像生成灰度实测：快到跳过思考过程，疑似独立图片模型"
 description: "**DeepSeek 正在灰度测试独立图像生成能力，速度极快且无 CoT 思考链路。**  - 实测反馈：生成速度「快到不行」，无推理过程，系统1直觉式输出，与现有 DeepSeek 文本推理模型的思维链风格截然不同 - 疑似独立训练的图片模型，而非文本模型的多模态扩展 - 目前仅网页版灰度测试中，API 尚不可用  Gakki 锐评：DeepSeek 选了一条和 GPT Image 2 截然不同"
 resource: "https://x.com/i/status/2049493456452813241"
@@ -22,6 +22,13 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "domestic-model-competition"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2049493456452813241"
+created: "2026-04-29"
+updated: "2026-06-26"
+sha256: "6d711a68f17d49d20143c108f569ec56355c941ddbd65ca2efb2e3b0edbf2551"
+sources:
+  - "/sources/news/2026-04-29/00__vista8__deepseek-图像生成灰度实测-快到跳过思考过程-疑似独立图片模型.md"
 ---
 
 # DeepSeek 图像生成灰度实测：快到跳过思考过程，疑似独立图片模型

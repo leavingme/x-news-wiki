@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Codex远程控制正在改变Claude Code的使用频率"
 description: "用户报告：Codex上了远程控制功能后，用MacBook和手机就能操控家里Mac Mini跑coding，本地打开Claude Code的次数明显减少。  这是远程算力上桌的第一波行为信号——当计算资源可以随地随地触达，工具使用的本地属性开始松动。"
 resource: "https://x.com/i/status/2056601182068732316"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2056601182068732316"
+created: "2026-05-19"
+updated: "2026-06-26"
+sha256: "d8b8fe9ff550509d7d6740daeb1c9b6c9596d24c625fbba789a17b6b9a18c6a4"
+sources:
+  - "/sources/news/2026-05-19/00__Khazix0918__codex远程控制正在改变claude-code的使用频率.md"
 ---
 
 # Codex远程控制正在改变Claude Code的使用频率

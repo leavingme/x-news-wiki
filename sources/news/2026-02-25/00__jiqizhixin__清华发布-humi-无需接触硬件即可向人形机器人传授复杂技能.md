@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "清华发布 HuMI：无需接触硬件即可向人形机器人传授复杂技能"
 description: "**[核心逻辑]** 清华大学联合发布了“人形机器人操控接口（HuMI）”，通过便携传感器直接将人类动作转化为机器人动作，突破了具身智能的数据采集瓶颈。  - 利用便携式传感器捕捉人类自然运动，自动翻译为流畅的机器人动作（如投掷、跪地、行走）。 - 淘汰了笨重的遥操作设备和复杂的手动编程。 - 数据收集效率是传统方法的 3 倍，在完全陌生的环境中成功率达到 70%。  [gakki 的锐评] 教机"
 resource: "https://x.com/i/status/2026303853948244363"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2026303853948244363"
+created: "2026-02-24"
+updated: "2026-06-26"
+sha256: "2d2baf682d5fbd76b1ec1537f85caf70e3954a5846573556ba25734329a3ef0f"
+sources:
+  - "/sources/news/2026-02-25/00__jiqizhixin__清华发布-humi-无需接触硬件即可向人形机器人传授复杂技能.md"
 ---
 
 # 清华发布 HuMI：无需接触硬件即可向人形机器人传授复杂技能

@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "13 个月 Claude Code 用户转向 Codex：Opus 4.7「慢到痛苦」成为高频投诉"
 description: "**[AI 编程工具的体验口碑正在发生结构性转移]**  Suhail Kakar 详细对比了两大工具的实际体验：Opus 4.7 处理简单任务需要 5-10 分钟，且 App 频繁闪烁、低思考模式实用性存疑；而 Codex 的 GPT-5.5 thinking-medium 在速度与质量间取得了他认为的「完美平衡」。这是目前公开可见的、来自长期深度用户的最高级别「换船」信号。  - 核心痛点不是"
 resource: "https://x.com/SuhailKakar/status/2048774010197155858"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "ai-trend-digest"
+type_okf: "X Tweet"
+source_url: "https://x.com/SuhailKakar/status/2048774010197155858"
+created: "2026-04-27"
+updated: "2026-06-26"
+sha256: "33eaac48bb9b6499152ca1c8393d82f59d3bda868cb6005241062f7f896bd830"
+sources:
+  - "/sources/news/2026-04-27/00__SuhailKakar__13-个月-claude-code-用户转向-codex-opus-4-7-慢到痛苦-成为高频投诉.md"
 ---
 
 # 13 个月 Claude Code 用户转向 Codex：Opus 4.7「慢到痛苦」成为高频投诉

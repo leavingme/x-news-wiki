@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Google 泄露「Omni」模型：Gemini 正在从聊天助手变成全模态生产力入口"
 description: "**Google I/O 前夕，Omni 模型泄露暴露了 Gemini 的终极野心——一个入口完成所有内容生产。**  - Omni 模型疑似支持原生视频生成，Gemini 不再只是文字+图片，而是要接管写作、图片、视频、长上下文记忆和复杂任务流的全链路 - Gemini 3.2/3.5 正在测试中，重点放在更快更高效的推理体验；Ultra 版本则瞄准长上下文+重记忆+多步骤工作流的高价值任务 -"
 resource: "https://x.com/i/status/2051284584197992639"
@@ -22,6 +22,13 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "gemini-desktop-super-app-integration"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2051284584197992639"
+created: "2026-05-04"
+updated: "2026-06-26"
+sha256: "a51afff1df90539d4ed05231ef84932681909696d1d155cc19f48450f72e14f9"
+sources:
+  - "/sources/highlights/2026-05-04/00__xiaohu__google-泄露-omni-模型-gemini-正在从聊天助手变成全模态生产力入口.md"
 ---
 
 # Google 泄露「Omni」模型：Gemini 正在从聊天助手变成全模态生产力入口

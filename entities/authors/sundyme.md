@@ -1,5 +1,5 @@
 ---
-type: "Author"
+type: "entity"
 title: "sundyme (@sundyme)"
 description: "X/Twitter 作者 @sundyme。共收录 1 条 AI 精选推文。"
 tags:
@@ -12,6 +12,12 @@ x_author_name: "sundyme"
 x_tweet_count: 1
 x_first_seen: "2026-03-18T16:28:00.977Z"
 x_last_seen: "2026-03-18T16:28:00.977Z"
+type_okf: "Author"
+created: "2026-03-18"
+updated: "2026-06-26"
+sha256: "b7baafade3a57b86dd420325248832200b5a4d2f08764eda270f570848b342a5"
+sources:
+  - "/sources/news/2026-03-18/00__sundyme__openclaw商业落地案例曝光-养龙虾-进入生产力阶段.md"
 ---
 
 # sundyme (@sundyme)

@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Supermemory ASMR技术把AI记忆准确率刷到99%：向量数据库路径被抛弃"
 description: "**【AI记忆接近彻底解决】**  一个叫 Supermemory 的团队在 X 扔出核弹：他们用全新 ASMR 技术，在 LongMemEval（AI 记忆界最难考试）上刷到 99% 准确率。  核心突破：完全抛弃向量数据库和 Embedding，全程用多 Agent 并行推理替代传统 RAG 路线。具体操作：3 个观察者 Agent 分工提取聊天记录 → 3 个搜索 Agent 分别挖直接证据"
 resource: "https://x.com/i/status/2035710528753119740"
@@ -22,6 +22,13 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "agent-memory-optimization"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2035710528753119740"
+created: "2026-03-22"
+updated: "2026-06-26"
+sha256: "30ca5c565ae69ebf905557c978f88b8acd3ed83b059054becaa2fa4f1eef377c"
+sources:
+  - "/sources/highlights/2026-04-15/00__0xKingsKuan__supermemory-asmr技术把ai记忆准确率刷到99-向量数据库路径被抛弃.md"
 ---
 
 # Supermemory ASMR技术把AI记忆准确率刷到99%：向量数据库路径被抛弃

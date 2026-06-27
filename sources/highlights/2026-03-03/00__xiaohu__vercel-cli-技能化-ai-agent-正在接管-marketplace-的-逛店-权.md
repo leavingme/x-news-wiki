@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Vercel CLI 技能化：AI Agent 正在接管 Marketplace 的「逛店」权"
 description: "**Vercel 推出 CLI 技能集成，标志着 AI Agent 从「使用工具」升级为「自主采购服务」。** - 一行命令 `npx skills add vercel/vercel` 即可让 Agent 访问整个 Marketplace，自动选服务、装配、配置环境变量 - 数据库、Redis、日志、监控——过去工程师的手动点击流程被压缩为一句自然语言指令 - 作者提问「MCP 过时了？」背后是"
 resource: "https://x.com/i/status/2028631159647952906"
@@ -22,6 +22,13 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "mcp-vs-cli-debate"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2028631159647952906"
+created: "2026-03-03"
+updated: "2026-06-26"
+sha256: "ff65e9851414886537eede24029ffc8cfa45bc5c0a6aa676e1881d1522b02329"
+sources:
+  - "/sources/highlights/2026-03-03/00__xiaohu__vercel-cli-技能化-ai-agent-正在接管-marketplace-的-逛店-权.md"
 ---
 
 # Vercel CLI 技能化：AI Agent 正在接管 Marketplace 的「逛店」权

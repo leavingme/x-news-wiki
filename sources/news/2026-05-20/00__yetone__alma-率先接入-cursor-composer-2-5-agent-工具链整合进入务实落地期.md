@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Alma 率先接入 Cursor Composer 2.5：Agent 工具链整合进入务实落地期"
 description: "**[ AI 工具链正在绕过叙事直接进入生产整合阶段 ]**  yetone 透露 Alma 已支持调用 Cursor 最新发布的 Composer 2.5 模型。这条信息的价值不在于 Alma 本身，而在于它揭示了一个趋势：开源 Agent 框架正在快速吸纳各家最新模型能力，不再等待官方集成。  **信息增量：** - Composer 2.5 才发布不久，Alma 已完成对接，说明第三方集成周"
 resource: "https://x.com/i/status/2056998017828638870"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2056998017828638870"
+created: "2026-05-20"
+updated: "2026-06-26"
+sha256: "0c2f2f953e2b36b0ae999b7d8976a7101e0452ce52648558f7c85696341aa2c7"
+sources:
+  - "/sources/news/2026-05-20/00__yetone__alma-率先接入-cursor-composer-2-5-agent-工具链整合进入务实落地期.md"
 ---
 
 # Alma 率先接入 Cursor Composer 2.5：Agent 工具链整合进入务实落地期

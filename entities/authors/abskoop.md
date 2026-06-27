@@ -1,5 +1,5 @@
 ---
-type: "Author"
+type: "entity"
 title: "ahhhhfs (@abskoop)"
 description: "X/Twitter 作者 @abskoop。共收录 5 条 AI 精选推文。"
 tags:
@@ -12,6 +12,16 @@ x_author_name: "ahhhhfs"
 x_tweet_count: 5
 x_first_seen: "2026-02-02T22:32:59.619Z"
 x_last_seen: "2026-03-12T00:42:31.337Z"
+type_okf: "Author"
+created: "2026-02-02"
+updated: "2026-06-26"
+sha256: "d2e01096a5f774adbb5f272a02a8ae27b1554dee930effd1d22b8fea5632a9e6"
+sources:
+  - "/sources/highlights/2026-03-08/88__abskoop__金融背景文科生72小时冲上github全球前30-ai组队的-一人公司-样本.md"
+  - "/sources/highlights/2026-03-12/82__abskoop__百度duclaw入局-openclaw云服务化与-零门槛agent-路线确认.md"
+  - "/sources/news/2026-02-02/00__abskoop__腾讯元宝的群聊尴尬-社交与-ai-的生硬结合引发吐槽.md"
+  - "/sources/news/2026-02-15/00__abskoop__picoclaw-现身-sipeedio-发布内存仅需-10mb-的极致轻量-agent-框架.md"
+  - "/sources/news/2026-03-12/82__abskoop__大厂-贴膜服务-内卷-从-教你自己装-到-官方帮你装.md"
 ---
 
 # ahhhhfs (@abskoop)

@@ -1,5 +1,5 @@
 ---
-type: "Author"
+type: "entity"
 title: "Amjad Masad (@amasad)"
 description: "X/Twitter 作者 @amasad。共收录 1 条 AI 精选推文。"
 tags:
@@ -12,6 +12,12 @@ x_author_name: "Amjad Masad"
 x_tweet_count: 1
 x_first_seen: "2026-05-03T16:17:38.603Z"
 x_last_seen: "2026-05-03T16:17:38.603Z"
+type_okf: "Author"
+created: "2026-05-03"
+updated: "2026-06-26"
+sha256: "2d06cb562d2a7a4fbf84ae95632e7d83736124e934a849fe97f5a9bdedbf3859"
+sources:
+  - "/sources/news/2026-05-03/00__amasad__replit-ceo-坦言-用户在用-agent-军团构建梦想-工程师在拼命兜底.md"
 ---
 
 # Amjad Masad (@amasad)

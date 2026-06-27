@@ -1,5 +1,5 @@
 ---
-type: "Author"
+type: "entity"
 title: "Domingo_gou | 🦅 🐬 (@Domingo_gou)"
 description: "X/Twitter 作者 @Domingo_gou。共收录 4 条 AI 精选推文。"
 tags:
@@ -12,6 +12,15 @@ x_author_name: "Domingo_gou | 🦅 🐬"
 x_tweet_count: 4
 x_first_seen: "2026-02-04T13:01:02.169Z"
 x_last_seen: "2026-06-24T22:27:51.258Z"
+type_okf: "Author"
+created: "2026-02-04"
+updated: "2026-06-26"
+sha256: "2e3774cd5710985bb20f424a22f24301da5f898f9083ac64d15cad1f9d19760c"
+sources:
+  - "/sources/news/2026-02-04/00__Domingo_gou__实战拆解-ai-如何在极端行情中替人类纠正-冲动.md"
+  - "/sources/news/2026-03-13/80__Domingo_gou__链上研究-轻量化-临界点-ai-agent-开始替代加密货币分析师的体力劳动.md"
+  - "/sources/news/2026-04-01/00__Domingo_gou__ai-熵增危机的解药-真理主权才是-ai-时代的最终确定性.md"
+  - "/sources/news/2026-06-24/00__Domingo_gou__justlend上线ai-support-llms-txt-openapi-abi成defi协议agent可读化标配.md"
 ---
 
 # Domingo_gou | 🦅 🐬 (@Domingo_gou)

@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "宝玉灵魂拷问 Codex：Rate Limit 后任务能否自动续命，暴露 Agent \"无人值守\"的核心缺口"
 description: "**【Rate Limit 断点续传之谜：Codex /goal 的\"无人值守\"能力尚未验证】**  • 宝玉直接提问：任务达到限额后，5小时恢复时能否自动继续，无需人工介入？ • 这是评判一个 Agent 工具是否\"真正无人值守\"的核心指标 • 目前无明确答案，需要实测验证——而这个答案会直接影响生产级使用场景的选择  **gakki 锐评：** \"需要人手动输入 continue\"和\"自动续命"
 resource: "https://x.com/i/status/2057647214957117873"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2057647214957117873"
+created: "2026-05-22"
+updated: "2026-06-26"
+sha256: "16f99317eeedad11a82402cc95a9cdb59fb7588a94f96ead1cc7776ca3a98fc3"
+sources:
+  - "/sources/news/2026-05-22/00__dotey__宝玉灵魂拷问-codex-rate-limit-后任务能否自动续命-暴露-agent-无人值守-的核心缺口.md"
 ---
 
 # 宝玉灵魂拷问 Codex：Rate Limit 后任务能否自动续命，暴露 Agent "无人值守"的核心缺口

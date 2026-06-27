@@ -1,5 +1,5 @@
 ---
-type: "Author"
+type: "entity"
 title: "Stellarlink AI (@stellarlinkAI)"
 description: "X/Twitter 作者 @stellarlinkAI。共收录 1 条 AI 精选推文。"
 tags:
@@ -12,6 +12,12 @@ x_author_name: "Stellarlink AI"
 x_tweet_count: 1
 x_first_seen: "2026-04-05T00:42:57.352Z"
 x_last_seen: "2026-04-05T00:42:57.352Z"
+type_okf: "Author"
+created: "2026-04-05"
+updated: "2026-06-26"
+sha256: "af55dd928e1cf85ead259516f15fa0e400bf4001aed46fca791dfa98bcb25bc3"
+sources:
+  - "/sources/highlights/2026-04-05/00__stellarlinkAI__openai实战指南流出-skills是agent的大脑-shell是它的双手.md"
 ---
 
 # Stellarlink AI (@stellarlinkAI)

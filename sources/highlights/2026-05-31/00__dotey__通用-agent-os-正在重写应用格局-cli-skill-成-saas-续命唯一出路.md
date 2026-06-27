@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "通用 Agent OS 正在重写应用格局：CLI+Skill 成 SaaS 续命唯一出路"
 description: "**一句话：通用 Agent 就是未来的操作系统。**  三条应用结局已清晰：1）消亡——Agent 自身能力直接满足需求，无需独立 App；2）CLI/MCP 化——搭配 Skill 让 Agent 调取，用户不再直接操作；3）GUI 插件化——仅在 Agent 无法覆盖的边界由人临时手工操作。  关键信号：现有 SaaS 在 Agent OS 成型前窗口期已开启，谁先推出 CLI+Skill "
 resource: "https://x.com/i/status/2060949916256460894"
@@ -22,6 +22,13 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "agent-native-paradigm"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2060949916256460894"
+created: "2026-05-31"
+updated: "2026-06-26"
+sha256: "a5acf72658b0b13c65ef9342f49efa5507c4e60e1f22e33caff870b7f0c7f14e"
+sources:
+  - "/sources/highlights/2026-05-31/00__dotey__通用-agent-os-正在重写应用格局-cli-skill-成-saas-续命唯一出路.md"
 ---
 
 # 通用 Agent OS 正在重写应用格局：CLI+Skill 成 SaaS 续命唯一出路

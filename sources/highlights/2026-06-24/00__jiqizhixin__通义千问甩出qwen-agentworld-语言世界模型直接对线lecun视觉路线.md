@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "通义千问甩出Qwen-AgentWorld：语言世界模型直接对线LeCun视觉路线"
 description: "**阿里通义千问发布首个纯语言世界模型Qwen-AgentWorld，证明世界动态不一定要靠视觉表征来预测。**  - 35B/397B双规格模型，在7个领域（工具/终端/OS任务等）的10M+真实交互轨迹上训练 - 三阶段训练流水线：通用世界建模→下一状态推理→强化学习保真度 - 核心突破：用长CoT推理直接预测环境动态，开辟语言世界模型新范式 - 与LeCun V-JEPA视觉世界模型形成路线"
 resource: "https://x.com/i/status/2069688035097129217"
@@ -22,6 +22,13 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "world-model-paradigm"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2069688035097129217"
+created: "2026-06-24"
+updated: "2026-06-26"
+sha256: "b2513ce526175c8cc074d09dbc10e25630ce8de64e62dc6b5e78689aad0723d5"
+sources:
+  - "/sources/highlights/2026-06-24/00__jiqizhixin__通义千问甩出qwen-agentworld-语言世界模型直接对线lecun视觉路线.md"
 ---
 
 # 通义千问甩出Qwen-AgentWorld：语言世界模型直接对线LeCun视觉路线

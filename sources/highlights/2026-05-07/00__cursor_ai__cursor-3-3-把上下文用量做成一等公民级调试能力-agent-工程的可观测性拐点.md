@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Cursor 3.3 把上下文用量做成一等公民级调试能力：Agent 工程的可观测性拐点"
 description: "**[上下文可观测性是 Agent 工程的基础设施级能力，Cursor 率先破局]** - Cursor 3.3 推出 Agent 上下文用量分解，可查看 rules、skills、MCPs、subagents 各自的 token 占比 - \"上下文工程\"从黑盒走向可量化，开发者第一次能诊断\"为什么 Agent 变笨了\" - 与 Manus 上下文工程法则形成呼应：可观测性是可优化性的前提  上下"
 resource: "https://x.com/cursor_ai/status/2052059748544249918"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
+
 x_source: "ai-trend-digest"
+type_okf: "X Tweet"
+source_url: "https://x.com/cursor_ai/status/2052059748544249918"
+created: "2026-05-06"
+updated: "2026-06-26"
+sha256: "57d85de411942f14ce61abf1f712fff3d6bc5b29f8b5b1d7a3fe1d42013bf062"
+sources:
+  - "/sources/highlights/2026-05-07/00__cursor_ai__cursor-3-3-把上下文用量做成一等公民级调试能力-agent-工程的可观测性拐点.md"
 ---
 
 # Cursor 3.3 把上下文用量做成一等公民级调试能力：Agent 工程的可观测性拐点

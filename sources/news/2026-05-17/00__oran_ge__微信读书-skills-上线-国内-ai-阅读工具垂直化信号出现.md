@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "微信读书 Skills 上线：国内 AI 阅读工具垂直化信号出现"
 description: "**一句话核心判断** 微信读书 Skills 插件正式发布安装地址，虽有小 bug（需刷新页面才能获取 key），但标志着国内主流阅读平台开始接入 Agent Skills 生态。  **要点** - 微信读书 + Skills 组合：阅读场景的 AI 工具链正在从浏览器插件向平台原生集成演进 - Bug 说明产品处于早期阶段，但已具备可用性 - 安装地址：https://t.co/SZtIC6"
 resource: "https://x.com/i/status/2055906003766612144"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2055906003766612144"
+created: "2026-05-17"
+updated: "2026-06-26"
+sha256: "36e7bac1822d8d3194bc38be97800cdc2f9336442464766bce249b277f12f253"
+sources:
+  - "/sources/news/2026-05-17/00__oran_ge__微信读书-skills-上线-国内-ai-阅读工具垂直化信号出现.md"
 ---
 
 # 微信读书 Skills 上线：国内 AI 阅读工具垂直化信号出现

@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Orange AI 重提'短剧悖论'：AI 普及可能复制下沉曲线，精英判断再次被大众市场打脸"
 description: "**[AI 大众化路径或重走'短剧式'下沉曲线，专家共识可能再次低估规模]**  - Orange AI 引用'人们也曾说不需要短视频/短剧'的历史先例，类比当前对 AI 工具普及的保守判断 - 暗示 AI 工具的爆发性增长可能来自尝鲜用户与下沉市场，而非精英/技术决策者 - 与此前'AI 工具代际渗透''AI 应用文化中西方鸿沟'两条主线形成跨日呼应   gakki 锐评：这是有传播力的金句但缺"
 resource: "https://x.com/i/status/2065567199818117231"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2065567199818117231"
+created: "2026-06-12"
+updated: "2026-06-26"
+sha256: "5c5dac5de308bde9c02c7bedcf7ac662ba40deff2d794ec758b2a961a955f635"
+sources:
+  - "/sources/news/2026-06-13/00__oran_ge__orange-ai-重提-短剧悖论-ai-普及可能复制下沉曲线-精英判断再次被大众市场打脸.md"
 ---
 
 # Orange AI 重提'短剧悖论'：AI 普及可能复制下沉曲线，精英判断再次被大众市场打脸

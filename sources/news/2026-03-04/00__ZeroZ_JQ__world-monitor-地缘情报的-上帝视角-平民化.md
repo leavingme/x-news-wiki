@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "World Monitor：地缘情报的「上帝视角」平民化"
 description: "**[170+ 新闻源 + 40+ 数据层 + 本地 LLM = 地缘监控的民主化]**  • 军事/能源/金融/卫星火点实时聚合在同一张 3D globe，这不是仪表盘，是「局势推演沙盘」 • 支持本地 LLM（Ollama/LM Studio）+ RAG headline memory——离线也能做情报分析 • 「国家 instability index」的自动生成，意味着风险量化从机构专属走"
 resource: "https://x.com/i/status/2029056587239956559"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2029056587239956559"
+created: "2026-03-04"
+updated: "2026-06-26"
+sha256: "7a9fb8aabd06103e36445fae79b1345ae022b8b6013b7dc1d247f17ef2e1a786"
+sources:
+  - "/sources/news/2026-03-04/00__ZeroZ_JQ__world-monitor-地缘情报的-上帝视角-平民化.md"
 ---
 
 # World Monitor：地缘情报的「上帝视角」平民化

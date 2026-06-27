@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "ACP 协议冷启动延迟成瓶颈：多 Agent 协作的「第一英里」问题浮现"
 description: "**一句话核心判断：** ACP（Agent Communication Protocol）在多 Agent 协同场景下的冷启动耗时过长，成为实际部署的隐性墙。  **要点：** - yetone 明确指出 ACP 冷启动慢影响协作效率，这是协议层的工程问题而非模型能力问题 - 多 Agent 协作时，每个 Agent 初始化成本会随规模放大，「第一英里」延迟会级联放大 - 协议层的优化优先级应高"
 resource: "https://x.com/i/status/2047354070764290480"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2047354070764290480"
+created: "2026-04-23"
+updated: "2026-06-26"
+sha256: "284baee042d13f9147b86778a6d884e69a82099032ac0dbd339faa97ec996f61"
+sources:
+  - "/sources/news/2026-04-24/00__yetone__acp-协议冷启动延迟成瓶颈-多-agent-协作的-第一英里-问题浮现.md"
 ---
 
 # ACP 协议冷启动延迟成瓶颈：多 Agent 协作的「第一英里」问题浮现

@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Runway Characters 不只是数字人：视频生成公司正在悄悄长出 Agent 能力"
 description: "**视频生成工具正在从「画面产出」跃迁到「角色行为编排」，Runway Characters 具备类似 Agent 的交互与响应能力。** - Runway Characters 并非传统 TTS 头像，而是融合了实时对话、场景感知与角色行为编排的多模态系统 - 这意味着视频生成公司正在从工具层向 Agent 层渗透，角色不再是素材而是执行单元  gakki 锐评：Runway 选择在「角色」这个"
 resource: "https://x.com/i/status/2051942361832542406"
@@ -22,6 +22,13 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "ai-video-cinematic"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2051942361832542406"
+created: "2026-05-06"
+updated: "2026-06-26"
+sha256: "b48d3d39e5a76fa670aefd4efb0a9ee88e090ead09704f2c66f25fbf90f5f62e"
+sources:
+  - "/sources/news/2026-05-06/00__xiaohu__runway-characters-不只是数字人-视频生成公司正在悄悄长出-agent-能力.md"
 ---
 
 # Runway Characters 不只是数字人：视频生成公司正在悄悄长出 Agent 能力

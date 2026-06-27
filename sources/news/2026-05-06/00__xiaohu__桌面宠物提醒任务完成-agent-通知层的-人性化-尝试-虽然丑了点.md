@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "桌面宠物提醒任务完成：Agent 通知层的「人性化」尝试，虽然丑了点"
 description: "**Agent 的任务通知正在探索新的交互形态。**  - 宠物气泡提醒任务完成、点击跳转到对话——解决了 Agent 异步执行后「用户忘了看结果」的常见问题 - 但作者自己也承认「太丑」，说明产品打磨还停留在功能验证阶段 - 值得关注的信号：Agent 通知从系统弹窗走向常驻 UI 元素，是交互层的小幅进化  gakki 锐评：功能思路没错——异步 Agent 需要「被看见」的机制。但桌面宠物这"
 resource: "https://x.com/i/status/2052021732379402367"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2052021732379402367"
+created: "2026-05-06"
+updated: "2026-06-26"
+sha256: "fccaac7e992642af4581015f97d1bd4a39a723667071fc3bb90453476e229d28"
+sources:
+  - "/sources/news/2026-05-06/00__xiaohu__桌面宠物提醒任务完成-agent-通知层的-人性化-尝试-虽然丑了点.md"
 ---
 
 # 桌面宠物提醒任务完成：Agent 通知层的「人性化」尝试，虽然丑了点

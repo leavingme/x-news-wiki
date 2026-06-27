@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "流量管控思路转变：击破 VPN 节点优先，AI 分级提取让 T 级检测变为可能"
 description: "**【一句话核心判断】**  这波管控的逻辑已从「封协议」升级为「打节点」——用 AI 分析文件重要性（.docx/.cpp > 通用数据），将检测目标从 P 级压缩到 T 级，机场翻墙难度实质性上升。  **要点：** - 攻击方思路：model 文件比生成内容重要，AI 会优先提取结构化文档再降级检测 - 防御方（有关部门）两步走：定位 Botnet 肉鸡 + 主动境内扫描，比封协议更精准 -"
 resource: "https://x.com/i/status/2041009803120812432"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2041009803120812432"
+created: "2026-04-06"
+updated: "2026-06-26"
+sha256: "6e092e824dea370461b459ace458ad6469212e76537b426995e16a804e08a485"
+sources:
+  - "/sources/highlights/2026-04-09/00__mtrainier2020__流量管控思路转变-击破-vpn-节点优先-ai-分级提取让-t-级检测变为可能.md"
 ---
 
 # 流量管控思路转变：击破 VPN 节点优先，AI 分级提取让 T 级检测变为可能

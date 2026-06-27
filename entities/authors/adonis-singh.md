@@ -1,5 +1,5 @@
 ---
-type: "Author"
+type: "entity"
 title: "adi (@adonis_singh)"
 description: "X/Twitter 作者 @adonis_singh。共收录 1 条 AI 精选推文。"
 tags:
@@ -12,6 +12,12 @@ x_author_name: "adi"
 x_tweet_count: 1
 x_first_seen: "2026-05-01T16:17:49.105Z"
 x_last_seen: "2026-05-01T16:17:49.105Z"
+type_okf: "Author"
+created: "2026-05-01"
+updated: "2026-06-26"
+sha256: "7598f0f4178632a392a5079f33dd88c93935658fef454b982a877b00e000dbdf"
+sources:
+  - "/sources/news/2026-05-01/00__adonis_singh__codex-对-claude-code-的-屠杀-已成共识-但大众认知仍滞后三个月.md"
 ---
 
 # adi (@adonis_singh)

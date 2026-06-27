@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "玉伯 CLI 化批判：参数爆炸与商业模式的双重陷阱"
 description: "**【Agent 工具范式的冷思考】** • 玉伯直指 CLI 化的根本困境：GUI 功能压缩成 CLI 参数必然导致疯狂减法，用户按 GUI 习惯描述需求时 Agent 却无法交付 • 更深层的商业模式困境：CLI 化难以跑通商业闭环，API 化才是正解——既考验接口易用性，也考验商业模式设计 • 流量逻辑 vs 产品逻辑：传统工具 CLI 化更多是为迎合「for agents」的硅谷叙事，而非"
 resource: "https://x.com/i/status/2035010592981852213"
@@ -22,6 +22,13 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "mcp-vs-cli-debate"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2035010592981852213"
+created: "2026-03-20"
+updated: "2026-06-26"
+sha256: "bb429dc1121b58e23ce8bac3a18db5c4423d9352bc827178dae42078273e8241"
+sources:
+  - "/sources/highlights/2026-03-21/00__lifesinger__玉伯-cli-化批判-参数爆炸与商业模式的双重陷阱.md"
 ---
 
 # 玉伯 CLI 化批判：参数爆炸与商业模式的双重陷阱

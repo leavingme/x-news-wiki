@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "清朝改革失败与AI市场格局：少数族裔统治困境的现代映射"
 description: "**「成功的治理结构都有相似的脆弱性」——Michael Anti用历史案例揭示了AI市场格局中的结构性张力。**  核心判断：满汉关系与AI市场的类比指向一个被忽视的问题：任何依赖「少数核心」构建的护城河，都面临「同意最大化」与「统治力持续」之间的根本矛盾。AI公司的全球化扩张同样遇到类似的本地化困境。  要点： - 政治同意最大化与少数集团统治力之间存在张力 - 市场化与科技发展无法绕过人才和"
 resource: "https://x.com/i/status/2060880576962502750"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2060880576962502750"
+created: "2026-05-31"
+updated: "2026-06-26"
+sha256: "60fe5a3f4a132c2c17418893eb42e093e58dbc56255060f6d9c0f710b4d94dfe"
+sources:
+  - "/sources/news/2026-05-31/00__mranti__清朝改革失败与ai市场格局-少数族裔统治困境的现代映射.md"
 ---
 
 # 清朝改革失败与AI市场格局：少数族裔统治困境的现代映射

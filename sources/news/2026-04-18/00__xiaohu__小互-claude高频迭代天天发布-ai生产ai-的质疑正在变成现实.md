@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "小互：Claude高频迭代天天发布，「AI生产AI」的质疑正在变成现实"
 description: "**[一句话核心判断]**  「AI生产AI」这个质疑正在从阴谋论变成可观测的现实——Claude的迭代速度已经超出了正常工程团队的解释边界。  **核心观点：** - Claude几乎是日更，周周有新功能发布，这种节奏只有自动化 pipeline才解释得了 - 产品力从Chat功能扩散到设计工具（Claude Design），覆盖边界越来越广 - 背后是Opus 4.7驱动——多模态视觉能力第一"
 resource: "https://x.com/i/status/2045174490288795842"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2045174490288795842"
+created: "2026-04-17"
+updated: "2026-06-26"
+sha256: "9a42924dc7cf4e50520675910f68a3cba2591693dcb80fd3b5f0e55c54e71ac0"
+sources:
+  - "/sources/news/2026-04-18/00__xiaohu__小互-claude高频迭代天天发布-ai生产ai-的质疑正在变成现实.md"
 ---
 
 # 小互：Claude高频迭代天天发布，「AI生产AI」的质疑正在变成现实

@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Markdown 已成 AI 容器霸权：连讨论它局限的输出都是 Markdown"
 description: "[一句话核心判断] Markdown 已是 AI 时代的事实通用格式，连对它自身的反思都被锁在 Markdown 容器里——形式与内容无法剥离。  宝玉抛出一个 Meta 观察：当让 ChatBot 解释 Markdown 的局限性时，输出本身就是 Markdown，元层级的自指困境暴露无遗。  这印证了 AI 原生格式的不可逆性：Markdown 不是因为它\"最好\"而被 AI 选中，而是因为它是"
 resource: "https://x.com/i/status/2068768631958159827"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2068768631958159827"
+created: "2026-06-21"
+updated: "2026-06-26"
+sha256: "0a215bc569bb20b0183fd841ac40289fd48d4d02784bb18d916d32689319724e"
+sources:
+  - "/sources/news/2026-06-21/00__dotey__markdown-已成-ai-容器霸权-连讨论它局限的输出都是-markdown.md"
 ---
 
 # Markdown 已成 AI 容器霸权：连讨论它局限的输出都是 Markdown

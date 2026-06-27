@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Agent 的 iPhone 时刻：从组装机到“GPTClaw”的品牌机预测"
 description: "**[行业预判]** - 将当前的 AI 发展比作“组装机时代” - 预测 Agent 的 iPhone 时刻逼近，期待类似“GPTClaw”的品牌化成品 - Minimax 的 MaxClaw 被视为当前优秀的“预组装”方案  历史总是惊人的相似。把底层复杂性吃掉，交付极简体验的公司，才能拿到下个时代的船票。"
 resource: "https://x.com/i/status/2027536533214138420"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2027536533214138420"
+created: "2026-02-28"
+updated: "2026-06-26"
+sha256: "ec3f558e02157013fa4fd5388236466aca04f5564c15864656c9a096d491eea7"
+sources:
+  - "/sources/highlights/2026-02-28/00__Wuhuoqiu__agent-的-iphone-时刻-从组装机到-gptclaw-的品牌机预测.md"
 ---
 
 # Agent 的 iPhone 时刻：从组装机到“GPTClaw”的品牌机预测

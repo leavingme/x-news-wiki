@@ -1,5 +1,5 @@
 ---
-type: "Author"
+type: "entity"
 title: "indigo (@indigox)"
 description: "X/Twitter 作者 @indigox。共收录 3 条 AI 精选推文。"
 tags:
@@ -12,6 +12,14 @@ x_author_name: "indigo"
 x_tweet_count: 3
 x_first_seen: "2026-02-05T01:00:11.376Z"
 x_last_seen: "2026-04-08T05:41:10.245Z"
+type_okf: "Author"
+created: "2026-02-05"
+updated: "2026-06-26"
+sha256: "2c512b5c57c5e5ea3df451751d0e47685ba7ba477e1e13de230306e33fa6205c"
+sources:
+  - "/sources/news/2026-02-05/00__indigox__anthropic-超级碗广告-ai-时代的-可口可乐-vs-百事-大战.md"
+  - "/sources/news/2026-03-03/00__indigox__anthropic官方claude-code-101教程-理解底层机制才能解锁高阶用法.md"
+  - "/sources/news/2026-04-08/00__indigox__jquery作者做impeccable-设计词汇民主化是消灭-ai味-的最优解.md"
 ---
 
 # indigo (@indigox)

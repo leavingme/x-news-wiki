@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "AI 评论的 prompt 为何总是一样的：「不是而是」和破折号是标配"
 description: "**[ AI 评论的模板病：翻译腔正在污染中文互联网 ]**  Orange AI 吐槽 AI 生成的评论内容存在固定模板：把原文翻译腔重述、滥用破折号、坚持「不是 X 而是 Y」句式，篇幅冗长却毫无增量。批评指向 AI 输出的同质化和不走心。  gakki：模板化是 LLM RLHF 训练的副作用—— Reward Model 学会的是「看起来专业」，而不是「有观点」。这种评论会在各平台大量繁殖"
 resource: "https://x.com/i/status/2059091443659214853"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2059091443659214853"
+created: "2026-05-26"
+updated: "2026-06-26"
+sha256: "a5e3e794de1e5d1ada162116495d3de6a9820883fc227e839980358e60e4ac56"
+sources:
+  - "/sources/news/2026-05-26/00__oran_ge__ai-评论的-prompt-为何总是一样的-不是而是-和破折号是标配.md"
 ---
 
 # AI 评论的 prompt 为何总是一样的：「不是而是」和破折号是标配

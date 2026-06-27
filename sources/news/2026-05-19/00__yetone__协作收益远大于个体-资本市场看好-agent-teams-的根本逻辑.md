@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "协作收益远大于个体：资本市场看好 Agent Teams 的根本逻辑"
 description: "**[协作产生的收益远大于个体，在正确协作前提下，这是资本市场押注 Agent Teams 的核心依据]**  协作产生增益的核心前提是「正确协作」——并非简单的 1+1，而是要有机制保证协作质量。yetone 点出了这层：协作的收益上限远高于个体天花板，资本市场看的正是这个乘数效应，而非单 Agent 的线性产出。  这背后隐含的问题是：当前大多数 Agent 团队缺乏有效的协作治理机制（任务分"
 resource: "https://x.com/i/status/2056651471534616635"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2056651471534616635"
+created: "2026-05-19"
+updated: "2026-06-26"
+sha256: "67e94fca262deed0deb614aec2259d96e41254378d71b478d0a9ee3f3e42de72"
+sources:
+  - "/sources/news/2026-05-19/00__yetone__协作收益远大于个体-资本市场看好-agent-teams-的根本逻辑.md"
 ---
 
 # 协作收益远大于个体：资本市场看好 Agent Teams 的根本逻辑

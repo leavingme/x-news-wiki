@@ -1,5 +1,5 @@
 ---
-type: "Author"
+type: "entity"
 title: "Viper Alpha (@noexcuse555)"
 description: "X/Twitter 作者 @noexcuse555。共收录 2 条 AI 精选推文。"
 tags:
@@ -12,6 +12,13 @@ x_author_name: "Viper Alpha"
 x_tweet_count: 2
 x_first_seen: "2026-03-25T12:44:14.030Z"
 x_last_seen: "2026-03-28T18:35:19.119Z"
+type_okf: "Author"
+created: "2026-03-25"
+updated: "2026-06-26"
+sha256: "76c21d0ea7bfafee1bfbcb3afca22082d7f75d0a3a836a1e6825b08da0771e57"
+sources:
+  - "/sources/highlights/2026-03-28/00__noexcuse555__阿里aidc出海爆火-跨境电商ai工具的-内外信息差-暴露生态失衡.md"
+  - "/sources/news/2026-03-25/00__noexcuse555__b站源码泄露事件-大厂技术护城河在-ai-开源-双重夹击下加速崩塌.md"
 ---
 
 # Viper Alpha (@noexcuse555)

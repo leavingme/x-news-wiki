@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "QClaw 海外版实测：手机端调用本地 Claude Code 技能，跨设备 Agent 工作流成为现实"
 description: "**在咖啡店用手机发起任务，Agent 自动调用本地 Claude Code 技能完成写作全流程，结果自动存入 Obsidian。**  - 跨设备调度：手机端发起 → 本地 Claude Code 执行 → Obsidian 输出，端到端无人值守 - 核心能力：直接复用本地已有的 SKILL.md 写作工作流，无需重新配置 - 这是 Agent 移动端多设备编排的一个真实生产案例  gakki "
 resource: "https://x.com/i/status/2052016259282477095"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2052016259282477095"
+created: "2026-05-06"
+updated: "2026-06-26"
+sha256: "73388f6c56888f7352714bafb0012c5e85b743d58760ec0660191d30adb72cc7"
+sources:
+  - "/sources/news/2026-05-06/00__xiaohu__qclaw-海外版实测-手机端调用本地-claude-code-技能-跨设备-agent-工作流成为现实.md"
 ---
 
 # QClaw 海外版实测：手机端调用本地 Claude Code 技能，跨设备 Agent 工作流成为现实

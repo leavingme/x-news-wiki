@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Chronicle + Codex：用操作轨迹反哺 AI 工作流优化的元认知实践"
 description: "**宝玉提出了一个被忽视的 AI Coding 增效路径：让 Agent 回溯分析你的操作习惯，而非只盯着代码本身。**  - Chronicle 记录电脑操作轨迹，Codex 分析效率瓶颈——这不是代码补全，而是「工作方式补全」 - 核心洞察：AI Coding 工具的价值上限不在代码质量，而在开发者行为模式的优化 - 这种「操作数据 → AI 分析 → 行为改进」的闭环，本质是将 Agent "
 resource: "https://x.com/i/status/2050638634399764575"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2050638634399764575"
+created: "2026-05-02"
+updated: "2026-06-26"
+sha256: "786a5bb63a3792ca92c0f7d941315a1bd9e87dfdd7d84c6349b6818d432980cc"
+sources:
+  - "/sources/news/2026-05-02/00__dotey__chronicle-codex-用操作轨迹反哺-ai-工作流优化的元认知实践.md"
 ---
 
 # Chronicle + Codex：用操作轨迹反哺 AI 工作流优化的元认知实践

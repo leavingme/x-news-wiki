@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "网易有道语音克隆：从 demo 玩具到生产级工具的临界信号"
 description: "**准确、无口音、情感保留——语音克隆的 demo 时代结束了。**  小互实测已验证：跨语言输出不带口音，情感韵律保留完整。这不是 demo 级别的演示，是可以上线的生产级能力。用户可以上传自己的声音，让它说任意外语。  这个临界点意味着：语音克隆从技术可行性验证，正式进入可用性竞争阶段。  **个人声纹资产化、多语言内容批量生产、外语学习反馈——这些场景的落地成本正在被大幅压低。**  gak"
 resource: "https://x.com/i/status/2057712109363061101"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2057712109363061101"
+created: "2026-05-22"
+updated: "2026-06-26"
+sha256: "a1c337727667163b7c51e46a926e8d3419e65f2edbb00aff8c9d71bbf3c9acf7"
+sources:
+  - "/sources/highlights/2026-05-22/00__xiaohu__网易有道语音克隆-从-demo-玩具到生产级工具的临界信号.md"
 ---
 
 # 网易有道语音克隆：从 demo 玩具到生产级工具的临界信号

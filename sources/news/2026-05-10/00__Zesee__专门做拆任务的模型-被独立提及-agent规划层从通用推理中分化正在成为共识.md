@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "「专门做拆任务的模型」被独立提及：Agent规划层从通用推理中分化正在成为共识"
 description: "**[Task Decomposition正在被社区识别为独立的能力层，而非主模型的附庸]**  • Rachel观察到存在专门做任务拆解的模型，类比Claude的plan模式 • 隐含信号：当「拆得好」和「做得好」被识别为两种不同能力，架构分层的共识在形成 • 市场空白：任务拆解质量的评估标准仍未建立，谁先定义评测谁先占位  gakki：一条薄信号，但指向的方向值得注意。Agent编排层的进一步"
 resource: "https://x.com/i/status/2053465692402221422"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2053465692402221422"
+created: "2026-05-10"
+updated: "2026-06-26"
+sha256: "8bf929b325b5f5ec6959c621be667b3632231af955932eed991bdce52e7a664f"
+sources:
+  - "/sources/news/2026-05-10/00__Zesee__专门做拆任务的模型-被独立提及-agent规划层从通用推理中分化正在成为共识.md"
 ---
 
 # 「专门做拆任务的模型」被独立提及：Agent规划层从通用推理中分化正在成为共识

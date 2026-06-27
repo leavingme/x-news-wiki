@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Tesla 宣告 KITT 已来：车载 Agent 的\"具身化\"从概念进入可量产状态"
 description: "**[特斯拉把科幻电影变成了工信部目录，这是一次 AI 硬件能力的时间戳确认]**  Tesla 官方推文\"KITT is real. Any new Tesla can do this\"——将《霹雳车》的人工智能主角 KITT 直接等价于当前 Tesla 车型的 AI 能力。这不是营销修辞，是一次可验证的能力声明。  值得关注的不是 KITT 本身，而是\"Any new Tesla\"这个量级——"
 resource: "https://x.com/Tesla/status/2048848754858770646"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "ai-trend-digest"
+type_okf: "X Tweet"
+source_url: "https://x.com/Tesla/status/2048848754858770646"
+created: "2026-04-27"
+updated: "2026-06-26"
+sha256: "5ce409088fbc45348f065db08cf91a0136737806eda4c42ace9a876baa6e1588"
+sources:
+  - "/sources/news/2026-04-28/00__Tesla__tesla-宣告-kitt-已来-车载-agent-的-具身化-从概念进入可量产状态.md"
 ---
 
 # Tesla 宣告 KITT 已来：车载 Agent 的"具身化"从概念进入可量产状态

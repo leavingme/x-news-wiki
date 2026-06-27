@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "一句话生成电商全链路 Agent：CREAO AI 撕开了「零门槛 Agent 部署」的时代裂口"
 description: "**CREAO AI 展示用一句话 prompt 完成从选品、供应商对接、详情页生成、产品图、广告文案到定价的全流程电商 Agent，云端一键部署，无需折腾 API Key。**  - 「小白福音」这个词精准命中当前 Agent 落地的核心矛盾：技术门槛 vs 使用门槛 - 内嵌 API + 云端部署 = 消除了 AI 工具到 AI 产品之间最后一公里的工程摩擦 - 对中间件层和垂直 SaaS 而"
 resource: "https://x.com/i/status/2048035527459319854"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2048035527459319854"
+created: "2026-04-25"
+updated: "2026-06-26"
+sha256: "0ce215478fb385bf558be3eb135c53ffd4d6f5cf3c79dd1529c9a95849638679"
+sources:
+  - "/sources/news/2026-04-26/00__gkxspace__一句话生成电商全链路-agent-creao-ai-撕开了-零门槛-agent-部署-的时代裂口.md"
 ---
 
 # 一句话生成电商全链路 Agent：CREAO AI 撕开了「零门槛 Agent 部署」的时代裂口

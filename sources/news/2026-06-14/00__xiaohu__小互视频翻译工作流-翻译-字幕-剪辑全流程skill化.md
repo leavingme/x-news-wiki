@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "小互视频翻译工作流：翻译/字幕/剪辑全流程Skill化"
 description: "**小互把「完整视频翻译+字幕+剪影」做成了一键工作流，所有环节交给AI完成。**  - 完整视频的翻译、字幕、剪影三个工序全部由工作流串联执行，无需人工介入 - 工作流以脚本形式开源（链接附在推文），可复用、可改造 - 体现「内容生产工序 Skill 化」的成熟趋势——单一创作者也能跑通工业化流水线   gakki锐评：单条推文信息密度偏低，工作流细节缺失，但从「小互级创作者都在沉淀工作流」这一"
 resource: "https://x.com/i/status/2065991821898195172"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2065991821898195172"
+created: "2026-06-14"
+updated: "2026-06-26"
+sha256: "de6e5094618aa882d2c219de386bf7d3a7932b03062f7d673c8c22b1fc6460b5"
+sources:
+  - "/sources/news/2026-06-14/00__xiaohu__小互视频翻译工作流-翻译-字幕-剪辑全流程skill化.md"
 ---
 
 # 小互视频翻译工作流：翻译/字幕/剪辑全流程Skill化

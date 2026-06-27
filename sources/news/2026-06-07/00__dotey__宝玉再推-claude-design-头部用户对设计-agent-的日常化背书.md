@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "宝玉再推 Claude Design：头部用户对设计 Agent 的日常化背书"
 description: "**[宝玉在回复中持续推荐 Claude Design]**  1. 建议在工作流中「多用 Claude Design」，语气已偏向日常工具而非尝鲜 2. 与已有 subtopic `claude-design-tool` / `claude-design-disruption` 形成持续背书 3. 体现头部 KOL 对 Anthropic 设计工具的「默认选项」级认可   一条回复级推荐，信息密"
 resource: "https://x.com/i/status/2063470721884368990"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2063470721884368990"
+created: "2026-06-07"
+updated: "2026-06-26"
+sha256: "ef850b11eb6840d7c0943114a37f12fd62026bd627e3b9b154624cab3b6faf92"
+sources:
+  - "/sources/news/2026-06-07/00__dotey__宝玉再推-claude-design-头部用户对设计-agent-的日常化背书.md"
 ---
 
 # 宝玉再推 Claude Design：头部用户对设计 Agent 的日常化背书

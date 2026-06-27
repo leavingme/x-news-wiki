@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "OKX Agent Trade Kit：AI交易顾虑的「结构化回应」"
 description: "**[Agent金融基础设施的合规叙事升级]** • OKX将用户顾虑转化为产品卖点，每条担忧都有对应设计，从「技术可行」转向「信任基建」 • Safe in Agent不是口号，而是交易所与用户共同把控的安全框架 • 信号：头部交易所开始用「安全设计」而非「收益率」来争夺Agent交易用户  交易所的竞争已从「功能有无」进入「信任基建」阶段。OKX这套叙事结构值得所有Agent金融产品借鉴——承"
 resource: "https://x.com/i/status/2037860737666908566"
@@ -22,6 +22,13 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "ai-crypto-agent-infra"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2037860737666908566"
+created: "2026-03-28"
+updated: "2026-06-26"
+sha256: "6b2dfd7d76bcb9c85bf3f030bc3c92f26133aaf0ca6e4832244ed8f2352fb766"
+sources:
+  - "/sources/highlights/2026-03-29/00__okxchinese__okx-agent-trade-kit-ai交易顾虑的-结构化回应.md"
 ---
 
 # OKX Agent Trade Kit：AI交易顾虑的「结构化回应」

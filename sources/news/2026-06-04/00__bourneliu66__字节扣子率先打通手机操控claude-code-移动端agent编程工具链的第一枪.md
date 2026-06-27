@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "字节扣子率先打通手机操控Claude Code：移动端Agent编程工具链的第一枪"
 description: "**【一句话核心判断】** 扣子（Coze）实现手机端直接操控电脑上的Claude Code和Codex，这是大厂首次将AI编程工具链延伸至移动端的工程化落地，意味着真正的「随身Agent工位」从概念进入可用状态。  **【信息增量】** 1. 字节是第一个头部大厂做这个功能，竞品尚未跟进； 2. 功能免费，且面向个人用户直接开放，非企业定制； 3. 移动端操控Agent编程工具，改变了远程/多设"
 resource: "https://x.com/i/status/2062433480404042119"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2062433480404042119"
+created: "2026-06-04"
+updated: "2026-06-26"
+sha256: "06c5ba29fb22d6e12c79421459e5951e72cf03753b934bb9568e477b563a0cdb"
+sources:
+  - "/sources/news/2026-06-04/00__bourneliu66__字节扣子率先打通手机操控claude-code-移动端agent编程工具链的第一枪.md"
 ---
 
 # 字节扣子率先打通手机操控Claude Code：移动端Agent编程工具链的第一枪

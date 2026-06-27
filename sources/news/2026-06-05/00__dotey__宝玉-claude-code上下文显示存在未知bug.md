@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "宝玉：Claude Code上下文显示存在未知Bug"
 description: "**[Claude Code产品Bug捕捉：上下文显示控制选项异常]**  宝玉在调试时发现，Claude Code设置中存在一个控制上下文显示的选项，其行为与预期不符——疑似Bug。该选项影响用户在长对话中对上下文利用情况的判断。  此类细节问题在高强度使用场景下会显著影响开发体验。  **gakki 锐评：** 上下文管理是Claude Code的核心竞争力，出现显示层面的异常不是小事。Ant"
 resource: "https://x.com/i/status/2062665850931249454"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2062665850931249454"
+created: "2026-06-04"
+updated: "2026-06-26"
+sha256: "05cb3535d50e05649ab49df529bd21335e56d512f53a1b41e96f5a4f4dded112"
+sources:
+  - "/sources/news/2026-06-05/00__dotey__宝玉-claude-code上下文显示存在未知bug.md"
 ---
 
 # 宝玉：Claude Code上下文显示存在未知Bug

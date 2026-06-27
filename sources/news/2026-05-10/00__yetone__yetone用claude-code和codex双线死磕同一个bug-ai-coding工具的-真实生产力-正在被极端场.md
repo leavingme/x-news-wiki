@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "yetone用Claude Code和Codex双线死磕同一个bug：AI Coding工具的「真实生产力」正在被极端场景验证"
 description: "**当开发者同时用两个顶级AI Coding工具打磨同一个硬核bug，这才是工具能力的真实压测。** - yetone把Claude Code和Codex都「磨出火星子」去啃一个难度极高的bug，说明当前AI Coding已经进入复杂调试的深水区，不再是简单代码生成 - 这种场景暴露了AI工具的真实瓶颈：面对系统级难题时，工具只是辅助，判断力和工程经验仍然是决定性因素 - 双工具并行调试本身就是一"
 resource: "https://x.com/i/status/2053424841487978673"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2053424841487978673"
+created: "2026-05-10"
+updated: "2026-06-26"
+sha256: "ec55262337474f965b7bb67e8d2105b884c4c2ec35d8fa688ef24cffb7789a0b"
+sources:
+  - "/sources/news/2026-05-10/00__yetone__yetone用claude-code和codex双线死磕同一个bug-ai-coding工具的-真实生产力-正在被极端场.md"
 ---
 
 # yetone用Claude Code和Codex双线死磕同一个bug：AI Coding工具的「真实生产力」正在被极端场景验证

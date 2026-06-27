@@ -1,5 +1,5 @@
 ---
-type: "Author"
+type: "entity"
 title: "Star@Day1Global Podcast (@starzq)"
 description: "X/Twitter 作者 @starzq。共收录 2 条 AI 精选推文。"
 tags:
@@ -12,6 +12,13 @@ x_author_name: "Star@Day1Global Podcast"
 x_tweet_count: 2
 x_first_seen: "2026-03-05T09:52:48.749Z"
 x_last_seen: "2026-04-07T12:44:24.769Z"
+type_okf: "Author"
+created: "2026-03-05"
+updated: "2026-06-26"
+sha256: "654d3c4a40c3d282e560e29e2d5fbe17f9e4bef7136bcc796e05da805cd0151f"
+sources:
+  - "/sources/highlights/2026-03-05/95__starzq__openclaw-4-个月超越-react-10-年-github-25-万-star-背后的-agent-基础设施需求.md"
+  - "/sources/highlights/2026-04-07/00__starzq__anthropic-年收入-300-亿美元背后-ai-coding-印钞机已验证-下一台是-预测.md"
 ---
 
 # Star@Day1Global Podcast (@starzq)

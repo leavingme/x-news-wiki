@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Karpathy 的四条铁律被封装成 CLAUDE.md：AI 编程从玄学走向工程纪律"
 description: "**Karpathy 对 AI 编程常见问题的观察被社区结构化为可直接嵌入项目的 CLAUDE.md 文档。**  - 四条原则：Think Before Coding（禁止默默假设）、Simplicity First（200 行能缩到 50 行就重写）、Surgical Changes（只改必须改的）、Goal-Driven Exec - 核心洞察：AI 编程最烦人的不是写错，而是「修一个 bu"
 resource: "https://x.com/i/status/2051292100067729623"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2051292100067729623"
+created: "2026-05-04"
+updated: "2026-06-26"
+sha256: "fc93aeaaf4c13327897380cfe483c95904cd680144f08b70f90c3e7402a85a19"
+sources:
+  - "/sources/highlights/2026-05-04/00__xiaohu__karpathy-的四条铁律被封装成-claude-md-ai-编程从玄学走向工程纪律.md"
 ---
 
 # Karpathy 的四条铁律被封装成 CLAUDE.md：AI 编程从玄学走向工程纪律

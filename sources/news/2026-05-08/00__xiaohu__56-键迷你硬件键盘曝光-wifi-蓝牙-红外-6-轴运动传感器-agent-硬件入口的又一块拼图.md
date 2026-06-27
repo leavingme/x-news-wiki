@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "56 键迷你硬件键盘曝光：WiFi + 蓝牙 + 红外 + 6 轴运动传感器，Agent 硬件入口的又一块拼图"
 description: "**小互曝光一款高集成度迷你键盘硬件，接口密度暗示其定位远超「输入设备」。**  - 56 键迷你键盘集成 WiFi、蓝牙、红外、麦克风、喇叭、6 轴运动传感器、microSD 卡槽，背面带磁吸 + 乐高接口 - 这种传感器密度 + 无线协议栈的组合，更像是一个可穿戴 Agent 终端的原型，而非传统外设 - 1750mAh 电池 + 磁吸/乐高模块化设计，指向可组合的边缘计算场景  gakki "
 resource: "https://x.com/i/status/2052671868382146762"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2052671868382146762"
+created: "2026-05-08"
+updated: "2026-06-26"
+sha256: "b4fc62ac5b482014616de038c078113450afd268703544ce2c03124034d9d377"
+sources:
+  - "/sources/news/2026-05-08/00__xiaohu__56-键迷你硬件键盘曝光-wifi-蓝牙-红外-6-轴运动传感器-agent-硬件入口的又一块拼图.md"
 ---
 
 # 56 键迷你硬件键盘曝光：WiFi + 蓝牙 + 红外 + 6 轴运动传感器，Agent 硬件入口的又一块拼图

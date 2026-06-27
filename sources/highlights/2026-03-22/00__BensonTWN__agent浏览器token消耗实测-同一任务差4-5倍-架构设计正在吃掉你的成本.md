@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Agent浏览器Token消耗实测：同一任务差4.5倍，架构设计正在吃掉你的成本"
 description: "**浏览器 Agent 的 Token 效率差距被首次量化，Vercel 的 agent-browser 以 13.5KB 完胜 Chrome DevTools MCP（32KB）和 Playwright（58KB）。**  • 设计哲学分野：Vercel 只返回可交互元素，过滤静态文本；Google/Microsoft 坚持「工程师视角」的完整 DOM，导致 2-4 倍冗余 • 成本敏感场景下，"
 resource: "https://x.com/i/status/2035554628830700000"
@@ -22,6 +22,13 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "agent-browser-token-efficiency"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2035554628830700000"
+created: "2026-03-22"
+updated: "2026-06-26"
+sha256: "9b86c0f1ac716f44bed81d5606c8ed4a55f6a0d0537e65269393a961df7e4d41"
+sources:
+  - "/sources/highlights/2026-03-22/00__BensonTWN__agent浏览器token消耗实测-同一任务差4-5倍-架构设计正在吃掉你的成本.md"
 ---
 
 # Agent浏览器Token消耗实测：同一任务差4.5倍，架构设计正在吃掉你的成本

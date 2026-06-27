@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Tinder式Meme币自动止损：feen把土狗交易变成「左滑即卖」的轮椅体验"
 description: "**[15秒自动卖出机制背后：交易决策权正在被AI彻底接管] **  • feen定位为「crypto版Tinder」：AI Agent扫描链上pumping代币推荐首页，用户右划买入、左划跳过，15秒后自动止损——将土狗冲浪压缩为极低摩擦的娱乐化操作。 • 核心变革不是「方便」，而是「交易决策外包」——用户只保留审美判断，算法承担所有风险计算。 • @virtuals_io生态路演信号明显：AI"
 resource: "https://x.com/i/status/1935669127773143040"
@@ -22,6 +22,13 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "trading-agent-definition"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/1935669127773143040"
+created: "2025-06-19"
+updated: "2026-06-26"
+sha256: "94949f57ff14918cf452f9a8758d4d39a78e3fbab886e7ab58a45a604b6ff8ad"
+sources:
+  - "/sources/highlights/2026-04-01/00__0xzagen__tinder式meme币自动止损-feen把土狗交易变成-左滑即卖-的轮椅体验.md"
 ---
 
 # Tinder式Meme币自动止损：feen把土狗交易变成「左滑即卖」的轮椅体验

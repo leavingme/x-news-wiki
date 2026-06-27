@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "「一人公司」也被 Skill 范式覆盖：Skill 生态的边界正在外扩"
 description: "**Skill 作为 AI 工作流封装单元的适用场景，比预想的更广。** - 铁锤人发现“一人公司”相关的 Skill 已经存在，感叹“万事皆可 Skill” - 这意味着 Skills 不再只是开发者工具链的一环，正在向独立工作者/创业者的工作流渗透 - 当非技术角色也开始用 Skill 组织自己的业务流程，Skill 市集的 TAM 会显著放大  gakki 锐评：从 Claude Code "
 resource: "https://x.com/i/status/2053001894491283809"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2053001894491283809"
+created: "2026-05-09"
+updated: "2026-06-26"
+sha256: "6361e0945276aede1affb4e604778d1a10de6912aff2d4035f10edc73ce80020"
+sources:
+  - "/sources/news/2026-05-09/00__lxfater__一人公司-也被-skill-范式覆盖-skill-生态的边界正在外扩.md"
 ---
 
 # 「一人公司」也被 Skill 范式覆盖：Skill 生态的边界正在外扩

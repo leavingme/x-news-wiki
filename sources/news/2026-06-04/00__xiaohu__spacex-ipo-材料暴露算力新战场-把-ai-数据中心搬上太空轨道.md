@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "SpaceX IPO 材料暴露算力新战场：把 AI 数据中心搬上太空轨道"
 description: "**[一句话核心判断]** SpaceX 财务曝光揭示了一个被低估的信号：太空正在成为 AI 基础设施的新边疆。  - Starlink 用户一年翻倍至 890 万（Q1 已达 1030 万），覆盖 164 国 30 亿人口，手握全球最大的一体化超算中心 Colossus 2 - 营收 190 亿美元（+30% YoY）， EBITDA 78 亿，毛利率目标 70%、净利率 45%，财务数据碾压大"
 resource: "https://x.com/i/status/2062560594784616566"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2062560594784616566"
+created: "2026-06-04"
+updated: "2026-06-26"
+sha256: "c20b889d3b490e5d6dfdfe031bc2a8e9997c61021aa098169b0fc34cba5a2eae"
+sources:
+  - "/sources/news/2026-06-04/00__xiaohu__spacex-ipo-材料暴露算力新战场-把-ai-数据中心搬上太空轨道.md"
 ---
 
 # SpaceX IPO 材料暴露算力新战场：把 AI 数据中心搬上太空轨道

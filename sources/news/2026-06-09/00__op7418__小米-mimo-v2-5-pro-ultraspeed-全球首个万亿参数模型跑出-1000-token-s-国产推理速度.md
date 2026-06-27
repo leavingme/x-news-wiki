@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "小米 MiMo V2.5 Pro UltraSpeed：全球首个万亿参数模型跑出 1000 Token/s，国产推理速度竞赛卷到万亿级"
 description: "**国产推理速度军备竞赛正式跨入万亿参数门槛。**  要点： - MiMo V2.5 Pro UltraSpeed 全球首个万亿（1T）参数模型实现 1000+ Token/s 输出 - 实测峰值 1426 Token/s，首响 0.83 秒，32 秒吐 25624 Token（约 1000 行代码） - 复杂 3D 采矿游戏、官网 Header 3D 地球效果一次性代码生成可行，Agent Co"
 resource: "https://x.com/i/status/2064257622803710463"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2064257622803710463"
+created: "2026-06-09"
+updated: "2026-06-26"
+sha256: "4b33ffb2ea17e07680472fd68f5f657d6ac60486188a7a5f675215b28e604953"
+sources:
+  - "/sources/news/2026-06-09/00__op7418__小米-mimo-v2-5-pro-ultraspeed-全球首个万亿参数模型跑出-1000-token-s-国产推理速度.md"
 ---
 
 # 小米 MiMo V2.5 Pro UltraSpeed：全球首个万亿参数模型跑出 1000 Token/s，国产推理速度竞赛卷到万亿级

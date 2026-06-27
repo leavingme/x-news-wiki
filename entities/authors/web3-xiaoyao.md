@@ -1,5 +1,5 @@
 ---
-type: "Author"
+type: "entity"
 title: "鳌拜🦄 (@web3_xiaoyao)"
 description: "X/Twitter 作者 @web3_xiaoyao。共收录 1 条 AI 精选推文。"
 tags:
@@ -12,6 +12,12 @@ x_author_name: "鳌拜🦄"
 x_tweet_count: 1
 x_first_seen: "2026-04-02T00:43:17.574Z"
 x_last_seen: "2026-04-02T00:43:17.574Z"
+type_okf: "Author"
+created: "2026-04-02"
+updated: "2026-06-26"
+sha256: "f06048450478129f5fe629d74eff4276e59733c3a7fc2442db5d009d6bf096e2"
+sources:
+  - "/sources/highlights/2026-04-02/00__web3_xiaoyao__perle-labs-把专家标注上链-ai-数据化肥从此有根可循.md"
 ---
 
 # 鳌拜🦄 (@web3_xiaoyao)

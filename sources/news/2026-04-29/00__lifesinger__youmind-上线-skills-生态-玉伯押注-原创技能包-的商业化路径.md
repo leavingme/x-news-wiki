@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "YouMind 上线 Skills 生态：玉伯押注「原创技能包」的商业化路径"
 description: "**玉伯宣布 YouMind 正式开放 Skills 生态，原创性 Skills 可获得真金白银回报。**  - YouMind 已有数百个免费 Skills 可直接使用 - 这是继 Claude Code Skills 之后，又一个尝试将「技能包」商品化的平台 - 玉伯的策略是「免费引流 + 优质付费」，试图建立 Skills 的双边市场  Gakki：Skills 生态的核心问题不是「有多少个"
 resource: "https://x.com/i/status/2049402354114707925"
@@ -22,6 +22,13 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "skills-ecosystem-standards"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2049402354114707925"
+created: "2026-04-29"
+updated: "2026-06-26"
+sha256: "34aa74e00f095cbf0852cc36e4f51abe7a49888b32d48cb06b65e1b34fe27d58"
+sources:
+  - "/sources/news/2026-04-29/00__lifesinger__youmind-上线-skills-生态-玉伯押注-原创技能包-的商业化路径.md"
 ---
 
 # YouMind 上线 Skills 生态：玉伯押注「原创技能包」的商业化路径

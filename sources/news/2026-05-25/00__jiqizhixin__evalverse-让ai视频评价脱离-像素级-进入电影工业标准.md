@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "EvalVerse：让AI视频评价脱离\"像素级\"，进入电影工业标准"
 description: "**[评测范式升级：从Prompt遵循到美学判断]**  港科大×腾讯×斯坦福团队推出EvalVerse，用专家校准的视觉-语言模型评判AI视频的 cinematography quality、acting、aesthetics，超越仅看\"是否符合指令\"的传统Benchmark。  • 覆盖多镜头序列和音视频整合，填补复杂视频评估空白 • 将电影工业的专业标准引入AI评测，消除\"肉眼主观\"的争议 "
 resource: "https://x.com/i/status/2058793572493832506"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2058793572493832506"
+created: "2026-05-25"
+updated: "2026-06-26"
+sha256: "d18b7b36b2e6b6d65d1901a1a5b4337f42d6e8f8a02e6b3b53e52e56dee513d9"
+sources:
+  - "/sources/news/2026-05-25/00__jiqizhixin__evalverse-让ai视频评价脱离-像素级-进入电影工业标准.md"
 ---
 
 # EvalVerse：让AI视频评价脱离"像素级"，进入电影工业标准

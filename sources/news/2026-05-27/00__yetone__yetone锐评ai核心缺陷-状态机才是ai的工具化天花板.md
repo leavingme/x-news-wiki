@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "yetone锐评AI核心缺陷：状态机才是AI的工具化天花板"
 description: "**「AI遇到状态机就废了」——这句话戳破了AI Agent化最核心的工程难题。**  状态机代表的是可预测、可追溯、可控制的状态管理，而当前AI的核心机制是概率生成，两者存在根本性冲突。yetone的判断指向一个被忽视的技术瓶颈：多数AI编程工具在处理需要严格状态管理的场景时会失效。  这为SKILL.md和MCP等工程框架的价值提供了另一种解读：它们本质上是给AI打补丁。  **gakki锐评"
 resource: "https://x.com/i/status/2059544920566960352"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2059544920566960352"
+created: "2026-05-27"
+updated: "2026-06-26"
+sha256: "5c185365c9a4c937356677343cf5ac4606fc893bf401138759d7924a234bbafb"
+sources:
+  - "/sources/news/2026-05-27/00__yetone__yetone锐评ai核心缺陷-状态机才是ai的工具化天花板.md"
 ---
 
 # yetone锐评AI核心缺陷：状态机才是AI的工具化天花板

@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "MemOS CLI 把记忆总线标准化：Agent 开始有了「职业素养」级基础设施"
 description: "**MemOS CLI 在补 Agent 时代最后一块拼图——持久化状态管理的「标准记忆总线」。**  - 一行命令完成记忆操作标准化，覆盖存储 + 初始化行为注入（事前检索、事后记录）。 - 关键设计：把「让 AI 养成习惯」这件事从 prompt 提到基础设施层，本质是用工程演进模拟人类职业素养。 - 对标价值：推理引擎与工具接口已相对成熟，记忆层长期是痛点，MemOS 直接做总线抽象。  g"
 resource: "https://x.com/i/status/2064644924323102798"
@@ -22,6 +22,13 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "agent-memory-optimization"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2064644924323102798"
+created: "2026-06-10"
+updated: "2026-06-26"
+sha256: "ce6d378bd76f9994459dfb9dbbb4f79ffbc8ea45295b3e57ad8a7fb2b7429947"
+sources:
+  - "/sources/news/2026-06-10/00__Zesee__memos-cli-把记忆总线标准化-agent-开始有了-职业素养-级基础设施.md"
 ---
 
 # MemOS CLI 把记忆总线标准化：Agent 开始有了「职业素养」级基础设施

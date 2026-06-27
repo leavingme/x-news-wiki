@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "本地Agent调用Web服务的新范式：Claude通过AppleScript直连Grok实现零摩擦交叉验证"
 description: "**[跨模型协作的「无API化」突破]**  • 不依赖官方API，通过AppleScript控制已登录网页实现「伪API调用」，打破免费用户的使用壁垒 • 验证流程内嵌编码工作流：写完内容直接让Claude交叉检查，无需切换窗口或复制粘贴 • 技术原理极简但体验颠覆：本地服务桥接→浏览器自动化→结果回传，为Agent调用第三方Web服务提供可复用的工程范式  AppleScript这个「被遗忘的"
 resource: "https://x.com/i/status/2033442961074340294"
@@ -22,6 +22,13 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "claude-code-ecosystem"
 x_source: "bookmark"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2033442961074340294"
+created: "2026-03-16"
+updated: "2026-06-26"
+sha256: "b7de534eefb0de418d264cdbc57933cfe2f74ceca8406d787e4f8851ad50412b"
+sources:
+  - "/sources/highlights/2026-03-18/00__runes_leo__本地agent调用web服务的新范式-claude通过applescript直连grok实现零摩擦交叉验证.md"
 ---
 
 # 本地Agent调用Web服务的新范式：Claude通过AppleScript直连Grok实现零摩擦交叉验证

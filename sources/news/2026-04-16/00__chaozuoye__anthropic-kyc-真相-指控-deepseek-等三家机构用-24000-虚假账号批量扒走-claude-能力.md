@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Anthropic KYC 真相：指控 DeepSeek 等三家机构用 24000 虚假账号批量扒走 Claude 能力"
 description: "**[AI 模型防护战升级：批量账号窃取能力成行业新战线]**  - Anthropic 披露 DeepSeek、月之暗面、MiniMax 三家被指控利用约 24000 个虚假账号大规模高频访问 Claude，疑似用于自研训练 - KYC 本质是防御性措施，但引发\"AI 闭源与开源数据获取边界\"的讨论 - 24000 账号规模说明这不是个人行为，而是有组织的系统性资源竞争  gakki：\"窃取能力"
 resource: "https://x.com/i/status/2044398425605853664"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2044398425605853664"
+created: "2026-04-15"
+updated: "2026-06-26"
+sha256: "bd4530b31e402aa94c48a153f0b574f07ec741945334ea173d4a717ae4f5c8a3"
+sources:
+  - "/sources/news/2026-04-16/00__chaozuoye__anthropic-kyc-真相-指控-deepseek-等三家机构用-24000-虚假账号批量扒走-claude-能力.md"
 ---
 
 # Anthropic KYC 真相：指控 DeepSeek 等三家机构用 24000 虚假账号批量扒走 Claude 能力

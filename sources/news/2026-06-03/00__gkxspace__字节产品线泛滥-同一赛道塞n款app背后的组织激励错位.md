@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "字节产品线泛滥：同一赛道塞N款App背后的组织激励错位"
 description: "**[字节产品复数布局的本质是赛马机制而非战略规划]**  余温的疑问触及了一个长期被外部忽视的结构性问题：字节跳动多条并行产品线的根源并非需求导向，而是内部竞争激励驱动的自然结果。这种「同一个坑种N棵树」的模式在移动时代是流量攫取利器，但在Agent时代可能导致用户认知分散和资源摊薄。  真正值得追问的是：当AI Native产品的核心竞争力转向模型能力和工作流整合时，字节这种App工厂模式是否"
 resource: "https://x.com/i/status/2062002770735981000"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2062002770735981000"
+created: "2026-06-03"
+updated: "2026-06-26"
+sha256: "ba3ece03050ba2af4efe658afebd72b3285e50648373c9497f4f11986605edb2"
+sources:
+  - "/sources/news/2026-06-03/00__gkxspace__字节产品线泛滥-同一赛道塞n款app背后的组织激励错位.md"
 ---
 
 # 字节产品线泛滥：同一赛道塞N款App背后的组织激励错位

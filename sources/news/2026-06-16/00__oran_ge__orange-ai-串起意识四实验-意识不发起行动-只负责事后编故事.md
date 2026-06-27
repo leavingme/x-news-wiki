@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Orange AI 串起意识四实验：意识不发起行动，只负责事后编故事"
 description: "**[一句话核心判断]** Libet 实验、Danquah 修正、Jarrett 神经噪声累积、Gazzaniga 裂脑——四个经典实验合在一起指向同一个结论：意识不是指挥官，是事后编剧。  **要点：** - Libet 经典实验：大脑比\"意识到自己要按\"早 350ms 启动 - Danquah 修正方法学后，意识最多与行动同时发生 - Jarrett 提出所谓\"准备信号\"可能只是神经噪声随机"
 resource: "https://x.com/i/status/2066883226883527110"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2066883226883527110"
+created: "2026-06-16"
+updated: "2026-06-26"
+sha256: "0789e0206fbc26c4046c8bde710f4e7eef5c52278d8c974efee77c575b29ed8f"
+sources:
+  - "/sources/news/2026-06-16/00__oran_ge__orange-ai-串起意识四实验-意识不发起行动-只负责事后编故事.md"
 ---
 
 # Orange AI 串起意识四实验：意识不发起行动，只负责事后编故事

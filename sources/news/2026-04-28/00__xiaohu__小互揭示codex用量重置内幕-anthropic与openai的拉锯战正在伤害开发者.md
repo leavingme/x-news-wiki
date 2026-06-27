@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "小互揭示Codex用量重置内幕：Anthropic与OpenAI的拉锯战正在伤害开发者"
 description: "**Codex频繁重置用量与Anthropic收紧Claude Code订阅形成对冲，开发者正成为两大平台战略博弈的承受者。**  - CodexCLI作为OpenAI的Agent产品，用量却被系统性重置，与Anthropic加大订阅消耗形成讽刺对比 - 用户选择用「竞争」来合理化这种双重标准，说明市场尚未形成对平台行为的有效约束 - OpenAI与Anthropic各自收紧用量的时间点高度相关，"
 resource: "https://x.com/i/status/2049001245227299004"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2049001245227299004"
+created: "2026-04-28"
+updated: "2026-06-26"
+sha256: "f2a5da2ac04cc3e096a125fe90dbd9b59e3ae479a81c3f40a0724127403cbcff"
+sources:
+  - "/sources/news/2026-04-28/00__xiaohu__小互揭示codex用量重置内幕-anthropic与openai的拉锯战正在伤害开发者.md"
 ---
 
 # 小互揭示Codex用量重置内幕：Anthropic与OpenAI的拉锯战正在伤害开发者

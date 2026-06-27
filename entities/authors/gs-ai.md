@@ -1,5 +1,5 @@
 ---
-type: "Author"
+type: "entity"
 title: "Genesis AI (@gs_ai_)"
 description: "X/Twitter 作者 @gs_ai_。共收录 1 条 AI 精选推文。"
 tags:
@@ -12,6 +12,12 @@ x_author_name: "Genesis AI"
 x_tweet_count: 1
 x_first_seen: "2026-05-06T22:17:34.078Z"
 x_last_seen: "2026-05-06T22:17:34.078Z"
+type_okf: "Author"
+created: "2026-05-06"
+updated: "2026-06-26"
+sha256: "882109f731c9df4b186554bc28a522a8366c5f037e59ec9adae46d4c64953bdb"
+sources:
+  - "/sources/news/2026-05-06/00__gs_ai___genesis-ai-沉默一年后发布-gene-26-5-从数据手套到仿真器的全栈机器人方案.md"
 ---
 
 # Genesis AI (@gs_ai_)

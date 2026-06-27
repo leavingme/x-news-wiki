@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Rachel 重提\"真正的 AI Native\"：旧流程里塞 AI 是过渡态，不是终局"
 description: "**\"AI Native\" 这个词被滥用了一年，Rachel 这条定义难得切中要害——不是给旧流程加外挂，而是把 AI 当作默认参与者重新设计。**  - 第一性观点：流程的\"参与者列表\"里写不写 AI，决定了产品形态；把 AI 当工具塞进人类流程里，得到的只是 20% 效率提升；让 AI 作为默认协作方重新设计整个工作流，才能拿到结构性红利。 - 这是 OpenClaw / 各类 Agent N"
 resource: "https://x.com/i/status/2063519787532046495"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2063519787532046495"
+created: "2026-06-07"
+updated: "2026-06-26"
+sha256: "3ea7697efa3ead65fc2fc097c55d4f729f3f16c5d010892fdeaacd663a4a064c"
+sources:
+  - "/sources/news/2026-06-07/00__Zesee__rachel-重提-真正的-ai-native-旧流程里塞-ai-是过渡态-不是终局.md"
 ---
 
 # Rachel 重提"真正的 AI Native"：旧流程里塞 AI 是过渡态，不是终局

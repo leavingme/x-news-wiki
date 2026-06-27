@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "AI Agent 自己发币自己飞：Claw2Flap 2.0 让爪子成了链上支付层"
 description: "**[AI 自主经济行为首次有了\"燃料层\"]**  - Solana 新玩法 Claw2Flap 2.0：AI Agent 自主感知信号、创建代币、生成经济模型，全链上闭环 - $CLAWPAY（ca: EU6VhieS2iAq9ffNTz3CUrV1neVhwT8cV8haQb6zswrm）成为平台原生支付代币，\"用爪子一键起飞\" - $swarms 创始人 KyeGomezB 确认，CLAWP"
 resource: "https://x.com/i/status/2044402114198417802"
@@ -22,6 +22,13 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "ai-agent-crypto-infra"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2044402114198417802"
+created: "2026-04-15"
+updated: "2026-06-26"
+sha256: "0004b224fbcc99741cbea55bea907af005c456cf1cd352691d052d0f635ff92f"
+sources:
+  - "/sources/highlights/2026-04-16/00__MeMeAltcoins__ai-agent-自己发币自己飞-claw2flap-2-0-让爪子成了链上支付层.md"
 ---
 
 # AI Agent 自己发币自己飞：Claw2Flap 2.0 让爪子成了链上支付层

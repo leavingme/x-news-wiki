@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "CodePilot 0.52.0把预览战场从终端拉进侧栏：AI生成从「盲写」进入「所见即所得」时代"
 description: "**CodePilot v0.52.0实现侧栏实时预览，React组件可聊天内渲染，表格支持交互排序，HTML一键导出长图。**  - 工作流压缩：开发者无需在生成结果和预览之间反复横跳，AI输出直接可验证，大幅降低debug循环成本 - 文件类型覆盖：React/表格/Markdown/HTML全部覆盖，意味着AI生成物从\"半成品\"升级为\"可交付物\" - 工程信号：预览能力下放至IDE侧栏是典型"
 resource: "https://x.com/i/status/2046441960471396652"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2046441960471396652"
+created: "2026-04-21"
+updated: "2026-06-26"
+sha256: "c885a2274a30e63cfaa19ff4b0a790b8428645f6d0ae2e3c218e9d9715987b1d"
+sources:
+  - "/sources/news/2026-04-21/00__op7418__codepilot-0-52-0把预览战场从终端拉进侧栏-ai生成从-盲写-进入-所见即所得-时代.md"
 ---
 
 # CodePilot 0.52.0把预览战场从终端拉进侧栏：AI生成从「盲写」进入「所见即所得」时代

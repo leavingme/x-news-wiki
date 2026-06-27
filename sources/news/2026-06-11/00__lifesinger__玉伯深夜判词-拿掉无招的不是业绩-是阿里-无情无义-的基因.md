@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "玉伯深夜判词：拿掉无招的不是业绩，是阿里『无情无义』的基因"
 description: "**阿里用「唯结果论」处理钉钉一号位，玉伯连发两条帖指出这暴露的是公司基因问题。** - 玉伯两帖（2065082139297853581 + 2065083644809748577）拼出完整判断：钉钉调整不是个案，是阿里对「有情有义」的系统性拒绝 - 把字节作为对照：「无情无义的公司，才有机会超越字节」——这是产品人对组织文化最锋利的判词 - 背后信号：AI 时代企业胜负手不只是产品，更是组织能"
 resource: "https://x.com/i/status/2065082139297853581"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2065082139297853581"
+created: "2026-06-11"
+updated: "2026-06-26"
+sha256: "e2afec14b07072c8baebdff24f340113f90b239469fd258ef7fa61399d8f0399"
+sources:
+  - "/sources/news/2026-06-11/00__lifesinger__玉伯深夜判词-拿掉无招的不是业绩-是阿里-无情无义-的基因.md"
 ---
 
 # 玉伯深夜判词：拿掉无招的不是业绩，是阿里『无情无义』的基因

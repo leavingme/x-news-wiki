@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "AI 算力链上游 MLCC 拆解：单台 AI 服务器 1.5-2.5 万颗电容器背后的国产替代窗口"
 description: "**AI 服务器引爆 MLCC 量质双升，本土龙头正在啃下高端市场**  - 关键数据：单台 AI 服务器需 1.5-2.5 万颗 MLCC，对高频、高容、高压、耐高温要求陡升 - 竞争格局：日韩（村田、三星电机）仍主导高端，但三环集团等本土玩家已推出 0805-105-100V 等对标产品 - 国产替代逻辑：AI 算力国产化带动 MLCC 国产化，本土厂商从网通/服务器切入   gakki 锐评"
 resource: "https://x.com/i/status/2058070143419449730"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2058070143419449730"
+created: "2026-05-23"
+updated: "2026-06-26"
+sha256: "cd0f6706130df73ee10bcd86e8e9e039b6558d3a8d50e757fd4a0d9115e74a1d"
+sources:
+  - "/sources/news/2026-06-24/00__roger9949__ai-算力链上游-mlcc-拆解-单台-ai-服务器-1-5-2-5-万颗电容器背后的国产替代窗口.md"
 ---
 
 # AI 算力链上游 MLCC 拆解：单台 AI 服务器 1.5-2.5 万颗电容器背后的国产替代窗口

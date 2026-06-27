@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Hyperframes 开源社区上线：AI 视频创作从「单打独斗」走向「Agent 可消费的资产交换」"
 description: "**HeyGen 推出 Hyperframes 社区，用户可发布、下载项目 zip 并直接交给 Agent 处理——AI 视频工作流正在从「工具链」进化为「资产市场」。** - `npx hyperframes publish` 一行命令即可发布，Agent 可直接读取项目文件，无需人工适配 - 社区驱动的项目交换意味着 AI 视频制作的知识和最佳实践正在被结构化沉淀 - 这是「Agent 原生内"
 resource: "https://x.com/HeyGen/status/2051338576068333738"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "ai-trend-digest"
+type_okf: "X Tweet"
+source_url: "https://x.com/HeyGen/status/2051338576068333738"
+created: "2026-05-04"
+updated: "2026-06-26"
+sha256: "4045a80d0c18059562837f1be1c1bf36b5d41fa329d7c3f6457a0429feeb6ef3"
+sources:
+  - "/sources/news/2026-05-04/00__HeyGen__hyperframes-开源社区上线-ai-视频创作从-单打独斗-走向-agent-可消费的资产交换.md"
 ---
 
 # Hyperframes 开源社区上线：AI 视频创作从「单打独斗」走向「Agent 可消费的资产交换」

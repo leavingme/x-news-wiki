@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "find-skills：AI 技能自动发现与安装工具"
 description: "**[Agent 自我进化的雏形：让 AI 自己找技能来增强自己]** - 开源工具 find-skills 允许 AI 自主在生态库中寻找并安装合适的技能模块 - 进一步简化了 Agent 开发流程，实现功能的动态扩展 - 代表了 AI 基础设施从“人工配置”向“自主适配”转变的趋势  [gakki 的锐评]：这就好比给 AI 装了个“应用商店”，它发现自己不会修图，就自己去下个插件。这种自我增"
 resource: "https://twitter.com/interjc/status/2016307431442416031"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://twitter.com/interjc/status/2016307431442416031"
+created: "2026-01-28"
+updated: "2026-06-26"
+sha256: "91d3ecd7e07371779577570c9744e736941c6be3745dc519f0303f19d151fe90"
+sources:
+  - "/sources/news/2026-01-31/00__interjc__find-skills-ai-技能自动发现与安装工具.md"
 ---
 
 # find-skills：AI 技能自动发现与安装工具

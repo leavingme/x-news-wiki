@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "PRD已死：宝玉断言「人能看懂模型更应看懂」，产品文档正在被AI工作流绕过去"
 description: "**一句话核心判断：** 当 AI 能直接理解产品经理的口语化意图时，PRD 这个中间层正在变成一层需要被人工维护的「技术债务」。  - 核心逻辑：宝玉认为「如果人能看懂，模型更应该能看懂」，并且「几句话直接让 Agent 实现可能更快更好」——这意味着 PRD 的价值不在于「文档本身」，而在于「决策质量」 - 实质是 AI 编程工具成熟度提升后，人机协作层级在压缩：过去「产品→PRD→开发」的三"
 resource: "https://x.com/i/status/2048212030482509960"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2048212030482509960"
+created: "2026-04-26"
+updated: "2026-06-26"
+sha256: "06ebc6b2f4eb42a3907927fc2d3d329e07c53669dfa6df17bf7a801b3d272eb2"
+sources:
+  - "/sources/news/2026-04-26/00__dotey__prd已死-宝玉断言-人能看懂模型更应看懂-产品文档正在被ai工作流绕过去.md"
 ---
 
 # PRD已死：宝玉断言「人能看懂模型更应看懂」，产品文档正在被AI工作流绕过去

@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Claude 4.8、GPT 5.5写作能力反不如4.6——模型迭代的隐性能力流失陷阱"
 description: "**一个反直觉的模型能力现象正在发生：最新最强版本的Claude和GPT，写作能力反而退步了。**  可能的根因：Anthropic和OpenAI全面转向Coding，训练数据分布高度集中于代码，导致通用语言表达能力的相对弱化。这不是技术无法兼顾，而是资源分配的战略选择代价。  这也意味着模型能力评估不能再只看综合Benchmark，专项能力衰减可能是迭代的隐性税。  gakki：这个问题对内容创"
 resource: "https://x.com/i/status/2062723346924810682"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2062723346924810682"
+created: "2026-06-05"
+updated: "2026-06-26"
+sha256: "798248e286bdcd11f4dd4c02b17dec11ebba6e354b8d6a4d505911dedacf602f"
+sources:
+  - "/sources/news/2026-06-05/00__vista8__claude-4-8-gpt-5-5写作能力反不如4-6-模型迭代的隐性能力流失陷阱.md"
 ---
 
 # Claude 4.8、GPT 5.5写作能力反不如4.6——模型迭代的隐性能力流失陷阱

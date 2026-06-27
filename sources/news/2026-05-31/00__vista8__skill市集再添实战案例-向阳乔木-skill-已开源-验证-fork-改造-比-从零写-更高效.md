@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Skill市集再添实战案例：向阳乔木 Skill 已开源，验证「fork 改造」比「从零写」更高效"
 description: "**[Skill 正在从工具演变为可传播的工件单位]**  向阳乔木发布已写好的 Skill 并开源，提供 npx 安装指令。这一动作比代码本身更有意义——它验证了 Skill 作为「可分发工作流单元」的可行性：发布者写好模板，用户 fork 改造，而不是从零构建。  关键信号：Skills 生态正在形成「模板市场」雏形，而不是封闭的工具库。  gakki：「Skill 的价值不在于工具本身，而在"
 resource: "https://x.com/i/status/2061128902266007802"
@@ -22,6 +22,13 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "skill-ecosystem-standards"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2061128902266007802"
+created: "2026-05-31"
+updated: "2026-06-26"
+sha256: "77e5b59ee3d30cca7d6c6cc3e92277befc31f43434699630c9dd05c7486c7ae9"
+sources:
+  - "/sources/news/2026-05-31/00__vista8__skill市集再添实战案例-向阳乔木-skill-已开源-验证-fork-改造-比-从零写-更高效.md"
 ---
 
 # Skill市集再添实战案例：向阳乔木 Skill 已开源，验证「fork 改造」比「从零写」更高效

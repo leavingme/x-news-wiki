@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Copilot里Gemini 3.5 Flash按14倍token计费，定价黑洞浮出水面"
 description: "**【一句话核心判断】** GitHub Copilot内部Gemini 3.5 Flash Token消耗按14倍算，与Claude Sonnet 1x、Opus 15x形成诡异对比，暴露出AI编程工具定价与实际成本之间的严重错位。  **要点：** - Gemini 3.5 Flash在Copilot内：14x倍率 - Claude Sonnet 4.6：1x（基准） - Claude Opu"
 resource: "https://x.com/i/status/2060541910570197016"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2060541910570197016"
+created: "2026-05-30"
+updated: "2026-06-26"
+sha256: "e6c65147a84b871ad71a72d44f6b8709333fa8e5c48209fe73698aa11b019332"
+sources:
+  - "/sources/news/2026-05-30/00__dotey__copilot里gemini-3-5-flash按14倍token计费-定价黑洞浮出水面.md"
 ---
 
 # Copilot里Gemini 3.5 Flash按14倍token计费，定价黑洞浮出水面

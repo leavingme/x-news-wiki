@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "宝玉一语道破 Agent 工程核心：没有校验方法，Agent 必然走偏"
 description: "**Agent 的可靠性瓶颈不在模型能力，而在校验方法论。** - 所有 Agent 架构面临同一本质问题：缺乏验证手段就会偏离目标 - 这与当前 Agent 工程实践高度吻合——测试覆盖、Harness Engineering 的核心正是「可验证性设计」 - 隐含观点：Agent 的工程纪律比模型能力更重要  gakki 锐评：宝玉这句话看似朴素，实则戳中了当前 Agent 生态最大的泡沫——大"
 resource: "https://x.com/i/status/2050280011492466862"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2050280011492466862"
+created: "2026-05-01"
+updated: "2026-06-26"
+sha256: "6dd9800c1cd6e9e33c89d2ad35c100317332624a79f624e1693e51039c0c761e"
+sources:
+  - "/sources/news/2026-05-01/00__dotey__宝玉一语道破-agent-工程核心-没有校验方法-agent-必然走偏.md"
 ---
 
 # 宝玉一语道破 Agent 工程核心：没有校验方法，Agent 必然走偏

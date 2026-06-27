@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "AI 时代的内容伦理：一个中文系导演拒绝拍狗血三角恋的平等主义情怀"
 description: "**Michael Anti 描述了一次「好电影」的体验：导演是中文系高材生，有平等主义情怀，克制住了拍成商业烂片的冲动。他的结论是：对于好电影，「不看盗版，然后催自己所有的朋友都去影院贡献真票房」。**  这条推文的核心增量不在于电影本身，而在于**Michael Anti 把「支持好内容」的行为上升为一种 AI 时代的隐喻**——当 AI 能批量生产内容时，「真人创作者的专业判断」和「愿意为优"
 resource: "https://x.com/i/status/2055833305942302933"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2055833305942302933"
+created: "2026-05-17"
+updated: "2026-06-26"
+sha256: "6e0d93758018568457c53496ff813df249d7b67ef573162c2a34a83d6df79130"
+sources:
+  - "/sources/news/2026-05-17/00__mranti__ai-时代的内容伦理-一个中文系导演拒绝拍狗血三角恋的平等主义情怀.md"
 ---
 
 # AI 时代的内容伦理：一个中文系导演拒绝拍狗血三角恋的平等主义情怀

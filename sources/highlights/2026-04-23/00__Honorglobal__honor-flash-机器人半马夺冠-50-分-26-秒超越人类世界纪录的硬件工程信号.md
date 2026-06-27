@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "HONOR Flash 机器人半马夺冠：50 分 26 秒超越人类世界纪录的硬件工程信号"
 description: "**[荣耀自研人形机器人 Flash 首次参赛即打破人类半马世界纪录]**  HONOR 官方宣布其自研人形机器人「Flash」以 50 分 26 秒完赛，超越人类半马世界纪录，成为首个完赛并夺冠的智能手机厂商。HONOR 将其归因于硬件可靠性与热管理经验的迁移——这正是手机厂商切入机器人赛道的核心差异化路径。  这是具身智能从实验室走向真实体能耐力测试的首个公开 benchmark，意义不只是 "
 resource: "https://x.com/Honorglobal/status/2047225226300432400"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
+
 x_source: "ai-trend-digest"
+type_okf: "X Tweet"
+source_url: "https://x.com/Honorglobal/status/2047225226300432400"
+created: "2026-04-23"
+updated: "2026-06-26"
+sha256: "ba33f3037eced9c5a467d8ed361d21785228fe9fd6aea0f649518f6b9e2a856e"
+sources:
+  - "/sources/highlights/2026-04-23/00__Honorglobal__honor-flash-机器人半马夺冠-50-分-26-秒超越人类世界纪录的硬件工程信号.md"
 ---
 
 # HONOR Flash 机器人半马夺冠：50 分 26 秒超越人类世界纪录的硬件工程信号

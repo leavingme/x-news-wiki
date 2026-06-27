@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "DeepSeek 公开招募 Agent 产品与研发：战略重心转移的明确信号"
 description: "**一句话：DeepSeek 此前以模型性能著称，现在开始建Agent团队，意味着开源模型厂商的角色从\"供芯片\"转向\"下场做应用\"，这是今年最值得关注的格局变量之一。**  要点： - 招募PM+研发，规格指向产品化团队正在组建，而非停留在API供应 - 结合DeepSeek开源策略，Agent产品大概率会复用开源生态的打法 - 对标OpenAI、Anthropic的Agent平台战略，DeepS"
 resource: "https://x.com/i/status/2057090684306276524"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2057090684306276524"
+created: "2026-05-20"
+updated: "2026-06-26"
+sha256: "61494ee73f6434eadbe8f3e563260ca20bfa66ef59e31e610b0b746cf194d81d"
+sources:
+  - "/sources/highlights/2026-05-20/00__dotey__deepseek-公开招募-agent-产品与研发-战略重心转移的明确信号.md"
 ---
 
 # DeepSeek 公开招募 Agent 产品与研发：战略重心转移的明确信号

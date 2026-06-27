@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "AI 骂醒完美主义：余温国内首条视频 24 小时数据，公众号 2.6w vs B站 20 浏览的算法启示"
 description: "**一句话核心判断** 同一内容在微信生态 vs 算法平台的表现差异揭示了 AI 创作工具的真正价值：不是消灭分发门槛，而是消灭\"完美主义拖延\"。  **信息增量** - 公众号（社交裂变）vs 抖音/小红书（算法分发）vs B站（社区积累）形成了鲜明的能力分层 - B站 20 浏览量的数据说明内容质量与平台匹配度是两回事 - AI 的核心作用是\"骂你立刻发\"而非\"替你写出完美内容\"  **影响分"
 resource: "https://x.com/i/status/2057459518485729454"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2057459518485729454"
+created: "2026-05-21"
+updated: "2026-06-26"
+sha256: "96d99b57bb127a23142898512bf45dd986fc1cbb6b4fa022ef436b57a5bc095c"
+sources:
+  - "/sources/news/2026-05-21/00__gkxspace__ai-骂醒完美主义-余温国内首条视频-24-小时数据-公众号-2-6w-vs-b站-20-浏览的算法启示.md"
 ---
 
 # AI 骂醒完美主义：余温国内首条视频 24 小时数据，公众号 2.6w vs B站 20 浏览的算法启示

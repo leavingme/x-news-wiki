@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "AI变现路径：与其造Token不如做分销"
 description: "**核心判断：Token 分销是 AI 时代非技术背景者最可行的变现路径。**  天策团队两个月验证结论：AI 变现核心围绕 Token 分发——做不了制造商就做分销商。无论 Skill 还是 Agent，源头都在 Token 层面。  这提供了一个清晰的决策框架：与其在模型层红海竞争，不如在应用层建立分发能力。  gakki 锐评：这套框架把复杂的 AI 商业化简化成了「造」与「卖」的选择。很聪"
 resource: "https://x.com/i/status/2057905409264963855"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2057905409264963855"
+created: "2026-05-22"
+updated: "2026-06-26"
+sha256: "40e859d80d4dac8a143178cf1611a96c9250513662025e268065fb2e2f669ca2"
+sources:
+  - "/sources/highlights/2026-05-22/00__Leobai825__ai变现路径-与其造token不如做分销.md"
 ---
 
 # AI变现路径：与其造Token不如做分销

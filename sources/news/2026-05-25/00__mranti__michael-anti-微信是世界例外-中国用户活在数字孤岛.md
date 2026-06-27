@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Michael Anti：微信是世界例外，中国用户活在数字孤岛"
 description: "**[微信≠全球主流，跨文化数字习惯鸿沟比想象中更深]**  Michael Anti指出\"西方社会用邮件、日本也用邮件，微信才是真正的世界例外\"。这个判断的价值不在于批评微信，而在于揭示了一个被从业者普遍忽视的结构性事实：中国用户的数字生活路径与全球主流路径在底层就已分叉。  这意味着任何希望出海的AI产品或内容平台，默认假设的\"用户习惯\"可能从起点就是错的——我们在跟一个非常小的全球少数派讲故"
 resource: "https://x.com/i/status/2058843743130935775"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2058843743130935775"
+created: "2026-05-25"
+updated: "2026-06-26"
+sha256: "2b15070418d52343d28b2494ab4d9f1201ef76fd1d6f6dd725199e65152d6d99"
+sources:
+  - "/sources/news/2026-05-25/00__mranti__michael-anti-微信是世界例外-中国用户活在数字孤岛.md"
 ---
 
 # Michael Anti：微信是世界例外，中国用户活在数字孤岛

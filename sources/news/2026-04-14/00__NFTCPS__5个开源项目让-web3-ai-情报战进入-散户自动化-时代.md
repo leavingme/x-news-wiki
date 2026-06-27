@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "5个开源项目让 Web3/AI 情报战进入「散户自动化」时代"
 description: "**[信息差套利正在从机构特权变成开源可复制的日常工具]**  这5个项目构建了一套完整的 Web3/AI 情报 pipeline：  - 600+ RSS 源覆盖全网 Web3 动态 - 免费加密新闻 API，66万+篇，13种SDK - 35平台热搜一键监控（微博/B站/抖音/知乎） - 400+ 高质量源聚合，AI自动打分提炼  关键变化：情报系统的搭建成本从「专业团队」变成「Fork一下」"
 resource: "https://x.com/i/status/2041111515282248118"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2041111515282248118"
+created: "2026-04-06"
+updated: "2026-06-26"
+sha256: "7a8b6e95ab7d9ab3728590203e00756b1b4a5246fdd43d60e23b2db5549fd1ee"
+sources:
+  - "/sources/news/2026-04-14/00__NFTCPS__5个开源项目让-web3-ai-情报战进入-散户自动化-时代.md"
 ---
 
 # 5个开源项目让 Web3/AI 情报战进入「散户自动化」时代

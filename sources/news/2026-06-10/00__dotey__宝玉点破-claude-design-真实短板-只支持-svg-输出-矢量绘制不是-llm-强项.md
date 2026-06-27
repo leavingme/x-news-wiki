@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "宝玉点破 Claude Design 真实短板：只支持 SVG 输出，矢量绘制不是 LLM 强项"
 description: "**[边界]**  - 宝玉明确 Claude Design 当前仅支持 SVG 路径输出 - 矢量绘制（坐标、曲线、渐变）对当前主流 LLM 仍是不擅长领域 - 实操建议：与其让 Claude Design 直接出完整矢量稿，不如让它先出文本设计稿再由前端实现   gakki 锐评：宝玉给 Claude Design 划了一条真实能力边界——这比官方营销页有用，也呼应了\"先 Design 出文本"
 resource: "https://x.com/i/status/2064718773492293903"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2064718773492293903"
+created: "2026-06-10"
+updated: "2026-06-26"
+sha256: "e04e015b21acca14462c89a1493723e4875bca5757dc10e1c3ef74b5e5185399"
+sources:
+  - "/sources/news/2026-06-10/00__dotey__宝玉点破-claude-design-真实短板-只支持-svg-输出-矢量绘制不是-llm-强项.md"
 ---
 
 # 宝玉点破 Claude Design 真实短板：只支持 SVG 输出，矢量绘制不是 LLM 强项

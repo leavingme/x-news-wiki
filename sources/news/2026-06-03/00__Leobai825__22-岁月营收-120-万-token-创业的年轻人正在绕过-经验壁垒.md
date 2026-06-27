@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "22 岁月营收 120 万：Token 创业的年轻人正在绕过「经验壁垒」"
 description: "**[一句话核心判断]**  22 岁开发者依靠 Token 相关创业实现月营收 120 万，验证了 AI 时代「轻资产 + 年轻化」创业模式的可行性。  **信息增量：** - 典型独立开发者路径：不依赖大厂背书，不依赖传统资源积累，靠 AI 工具链实现快速变现 - 120 万月营收说明 Token 创业（推测为 API 转售/算力套利/模型服务）在特定窗口期有真实需求 - 独立开发者的「轻资产"
 resource: "https://x.com/i/status/2062212527870669216"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2062212527870669216"
+created: "2026-06-03"
+updated: "2026-06-26"
+sha256: "1aa1363d4fba4f58141b65e03ef109d24bacf7fc2b36f8f7dcdd76ff312c4fe9"
+sources:
+  - "/sources/news/2026-06-03/00__Leobai825__22-岁月营收-120-万-token-创业的年轻人正在绕过-经验壁垒.md"
 ---
 
 # 22 岁月营收 120 万：Token 创业的年轻人正在绕过「经验壁垒」

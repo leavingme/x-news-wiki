@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "向阳乔木警告微信生态风险：第三方工具正游走在平台红线边缘"
 description: "**一句话核心判断** 微信对第三方工具的封禁正在从\"事后惩罚\"变成\"预防性警告\"，平台主动划线的时代来了。  **信息增量** - 向阳乔木主动提示\"微信对这个很敏感\"，说明他对平台边界有系统认知 - 这类警告在中文开发圈正在形成隐性知识库，但没人公开整理 - 折射出 Agent 工具开发者在平台生态里处于极度信息不对称的弱势地位  **gakki 锐评** 平台风险提示正在成为中文 Agent"
 resource: "https://x.com/i/status/2059274552367317268"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2059274552367317268"
+created: "2026-05-26"
+updated: "2026-06-26"
+sha256: "edd5bc747032dae4b7cfc097157f0787af9062d9398aad99e5b1276e089089e5"
+sources:
+  - "/sources/news/2026-05-26/00__vista8__向阳乔木警告微信生态风险-第三方工具正游走在平台红线边缘.md"
 ---
 
 # 向阳乔木警告微信生态风险：第三方工具正游走在平台红线边缘

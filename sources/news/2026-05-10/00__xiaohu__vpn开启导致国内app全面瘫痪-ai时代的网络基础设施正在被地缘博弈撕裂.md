@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "VPN开启导致国内APP全面瘫痪：AI时代的网络基础设施正在被地缘博弈撕裂"
 description: "**VPN与国内APP的冲突不再是技术问题，而是数字基础设施割裂的日常化。** - 开启VPN后国内APP网页加载失败、评论无法浏览、扫码失效——这不是个别现象，而是GFW与应用生态深度耦合的副作用 - 对AI开发者和Agent工具链而言，这意味着跨境数据访问的摩擦成本正在持续上升，本地化部署和混合架构的价值进一步凸显 - 网络基础设施的割裂正在成为AI全球化落地的最大隐形障碍之一  锐评：当「开"
 resource: "https://x.com/i/status/2053290389533331629"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2053290389533331629"
+created: "2026-05-10"
+updated: "2026-06-26"
+sha256: "ca44eb80b8864ec3c9e324d6c809bda467660c3a812a0592f3362460235579ea"
+sources:
+  - "/sources/news/2026-05-10/00__xiaohu__vpn开启导致国内app全面瘫痪-ai时代的网络基础设施正在被地缘博弈撕裂.md"
 ---
 
 # VPN开启导致国内APP全面瘫痪：AI时代的网络基础设施正在被地缘博弈撕裂

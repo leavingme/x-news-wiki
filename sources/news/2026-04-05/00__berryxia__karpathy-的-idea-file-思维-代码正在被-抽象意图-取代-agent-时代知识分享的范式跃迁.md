@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Karpathy 的 Idea File 思维：代码正在被「抽象意图」取代，Agent 时代知识分享的范式跃迁"
 description: "**「在 Agent 时代，不分享具体代码了——直接分享『意图』，让对方 Agent 自己定制实现。」**  Karpathy 将 LLM Wiki 的完整思路抽象成 Idea File，用纯文本描述需求而非实现细节，喂给任何 Agent（Claude、Grok 等）后即可生成定制化的个人知识库。  核心转变：代码 → 意图描述 → Agent 自主实现。这是知识分享方式的根本性转变——从「给你看"
 resource: "https://x.com/i/status/2040554947415244831"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2040554947415244831"
+created: "2026-04-04"
+updated: "2026-06-26"
+sha256: "1c22879b1e035dc5f0ce291a98a420309ccc4e32024cd41d0f2da4766a40c829"
+sources:
+  - "/sources/news/2026-04-05/00__berryxia__karpathy-的-idea-file-思维-代码正在被-抽象意图-取代-agent-时代知识分享的范式跃迁.md"
 ---
 
 # Karpathy 的 Idea File 思维：代码正在被「抽象意图」取代，Agent 时代知识分享的范式跃迁

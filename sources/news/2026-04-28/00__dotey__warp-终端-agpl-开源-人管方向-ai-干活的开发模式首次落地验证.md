@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Warp 终端 AGPL 开源：人管方向、AI 干活的开发模式首次落地验证"
 description: "**Warp 终端正式开放客户端代码（AGPL），OpenAI 是创始赞助商。**  70 万开发者在用，把 AI 能力直接塞进终端，支持 Claude Code、Codex、Gemini CLI。  最值得关注的是其「AI-first」社区流程：Warp 自家云端 AI 平台 Oz 负责写代码、做规划、跑测试，社区成员负责提想法、定方向、做验证。Hashimoto 式的原话：人管方向，AI 干活"
 resource: "https://x.com/i/status/2049179379737960669"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2049179379737960669"
+created: "2026-04-28"
+updated: "2026-06-26"
+sha256: "8ee7961ecfb1d230d2ecf56666ca531e8895a7bfe23c53f94bd1778282d00b9d"
+sources:
+  - "/sources/news/2026-04-28/00__dotey__warp-终端-agpl-开源-人管方向-ai-干活的开发模式首次落地验证.md"
 ---
 
 # Warp 终端 AGPL 开源：人管方向、AI 干活的开发模式首次落地验证

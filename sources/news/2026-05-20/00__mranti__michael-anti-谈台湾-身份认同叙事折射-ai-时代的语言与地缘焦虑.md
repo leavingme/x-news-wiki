@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Michael Anti 谈台湾：身份认同叙事折射 AI 时代的语言与地缘焦虑"
 description: "**[台海表态背后是一个南京人的双语教育观]**  Michael Anti 从个人家族史出发，解释其国家认同立场，同时强调在 AI 已打通语言的今天，仍坚持送孩子学法语——这是一种在技术平权时代主动保留语言阶级壁垒的明确选择。   **gakki：他说「其他技能孩子已自己把握」——这句话比任何 AI 发布会都更能说明问题。当语言成为最后的阶级护城河，AI 反而在帮它加固。**"
 resource: "https://x.com/i/status/2056987925485949011"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2056987925485949011"
+created: "2026-05-20"
+updated: "2026-06-26"
+sha256: "162f1b8279a267e97d300adf2d3ffafbb392cebde964b8087bd0290b453f10ba"
+sources:
+  - "/sources/news/2026-05-20/00__mranti__michael-anti-谈台湾-身份认同叙事折射-ai-时代的语言与地缘焦虑.md"
 ---
 
 # Michael Anti 谈台湾：身份认同叙事折射 AI 时代的语言与地缘焦虑

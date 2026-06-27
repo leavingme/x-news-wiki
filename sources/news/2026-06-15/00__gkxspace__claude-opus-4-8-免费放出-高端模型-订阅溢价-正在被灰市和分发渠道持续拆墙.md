@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Claude Opus 4.8 免费放出：高端模型「订阅溢价」正在被灰市和分发渠道持续拆墙"
 description: "**当 Opus 级别旗舰模型开始被持续地免费转手分发，AI 工具按订阅分层定价的护城河正在肉眼可见地变薄。**  - 余温放出 Claude Opus 4.8 免费使用入口（具体渠道未明），是近期「Opus 级别算力下放」链路上的又一次具体动作 - 延续此前「Opus 百万上下文免费开放」「M3 拆墙」「API 假冒检测」等一系列信号：高端模型的可获得性正在脱离官方订阅体系 - 对 Anthro"
 resource: "https://x.com/i/status/2066481457275568307"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2066481457275568307"
+created: "2026-06-15"
+updated: "2026-06-26"
+sha256: "a35d70e621a70add7fc185d962d10a15eb9ac2742a2d02bf572365b6c33bb319"
+sources:
+  - "/sources/news/2026-06-15/00__gkxspace__claude-opus-4-8-免费放出-高端模型-订阅溢价-正在被灰市和分发渠道持续拆墙.md"
 ---
 
 # Claude Opus 4.8 免费放出：高端模型「订阅溢价」正在被灰市和分发渠道持续拆墙

@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Mac Mini “Agent PC” 趋势热议：苹果尚未察觉的最佳增长点"
 description: "**[核心逻辑]** - 大量用户抢购 Mac Mini 仅为 24 小时运行 OpenClaw 等 AI Agent 框架，打造“专用 Agent 电脑”。 - 分析认为这才是 Apple Intelligence 该有的样子：跨设备、高信任的自动化中枢。  [gakki 的锐评] 库克可能没想过，拯救 Mac 销量的竟然是一个开源的 Agent 项目。这种“不接显示器的电脑”正在定义下一个十年"
 resource: "https://x.com/i/status/2021885631639761373"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2021885631639761373"
+created: "2026-02-12"
+updated: "2026-06-26"
+sha256: "1d9563166406a0388375013980ac2798f4d28b893bf65ff27b2d580329cb8a6a"
+sources:
+  - "/sources/highlights/2026-02-12/00__vista8__mac-mini-agent-pc-趋势热议-苹果尚未察觉的最佳增长点.md"
 ---
 
 # Mac Mini “Agent PC” 趋势热议：苹果尚未察觉的最佳增长点

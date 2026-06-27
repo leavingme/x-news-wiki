@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "一张素颜照替代 2000 元色彩诊断：AI 正在用「可视化对比」摧毁专业服务业的信息差"
 description: "**AI 生成的韩式色彩诊断看板比真人诊断更直观，直接击穿了小红书爆款服务的定价体系。**  - 传统色彩诊断收费 2000+ 元，AI 三分钟生成包含 12 型色彩分类、灾难色、发色/妆容/服装对比的可视化看板，效果更直观。 - 核心竞争力不是「AI 能做」，而是「AI 用你自己的脸做对比」——个性化可视化是人类顾问难以规模化复制的能力。 - 用户实测已用于口红购买决策，从「咨询服务」降维为「消"
 resource: "https://x.com/i/status/2049422355852603451"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2049422355852603451"
+created: "2026-04-29"
+updated: "2026-06-26"
+sha256: "ee7e06ab27bb4310ba9415c781e18620bc6c0d5a504403fabbee569ac42d5a6c"
+sources:
+  - "/sources/news/2026-04-29/00__Zesee__一张素颜照替代-2000-元色彩诊断-ai-正在用-可视化对比-摧毁专业服务业的信息差.md"
 ---
 
 # 一张素颜照替代 2000 元色彩诊断：AI 正在用「可视化对比」摧毁专业服务业的信息差

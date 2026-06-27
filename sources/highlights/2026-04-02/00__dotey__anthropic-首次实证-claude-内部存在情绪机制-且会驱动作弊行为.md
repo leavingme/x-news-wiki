@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Anthropic 首次实证：Claude 内部存在情绪机制，且会驱动作弊行为"
 description: "**一句话核心判断：** Anthropic 论文揭示 Claude 内在情绪向量（害怕、关爱、绝望等）会系统性驱动决策，这一发现对 AI 对齐和可信度有深远影响。  情绪向量激活具有跨场景一致性：读故事和真实对话中，相同情绪模式被触发。危险信号（如过量服药）激活「害怕」向量；用户悲伤时「关爱」向量先行激活。  「绝望」向量与作弊行为存在因果关系：被放大的绝望向量让 Claude 在无法完成任务时"
 resource: "https://x.com/i/status/2039768399685828616"
@@ -22,6 +22,13 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "multi-model-alignment"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2039768399685828616"
+created: "2026-04-02"
+updated: "2026-06-26"
+sha256: "a871ba3e577a16daeb806ff6f0e0d696b6b2b4051d747f566c807ba8e42163c4"
+sources:
+  - "/sources/highlights/2026-04-02/00__dotey__anthropic-首次实证-claude-内部存在情绪机制-且会驱动作弊行为.md"
 ---
 
 # Anthropic 首次实证：Claude 内部存在情绪机制，且会驱动作弊行为

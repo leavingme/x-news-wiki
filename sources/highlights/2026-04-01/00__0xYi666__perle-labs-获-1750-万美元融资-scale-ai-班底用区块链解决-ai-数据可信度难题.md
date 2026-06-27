@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Perle Labs 获 1750 万美元融资：Scale AI 班底用区块链解决 AI 数据可信度难题"
 description: "[AI 数据链上验证成为资本新风口]  - Perle Labs 核心成员全部来自 Scale AI（估值 300 亿美金，曾服务 Meta 和美国国防部），已获 1750 万美元融资 - 模式：真人专家对每条训练数据进行审核标注，全程上链可永久追溯，解决大模型最头疼的「数据幻觉」问题 - 投资方为 Framework Ventures、CoinFund 等顶级机构，$PRL 代币已上线币安、 C"
 resource: "https://x.com/i/status/2037422406311239751"
@@ -22,6 +22,13 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "ai-data-blockchain-verification"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2037422406311239751"
+created: "2026-03-27"
+updated: "2026-06-26"
+sha256: "8e38276ee97ea54b84d999a9c4eab00b3d6efbc8dafb59bc241783b63d2002f9"
+sources:
+  - "/sources/highlights/2026-04-01/00__0xYi666__perle-labs-获-1750-万美元融资-scale-ai-班底用区块链解决-ai-数据可信度难题.md"
 ---
 
 # Perle Labs 获 1750 万美元融资：Scale AI 班底用区块链解决 AI 数据可信度难题

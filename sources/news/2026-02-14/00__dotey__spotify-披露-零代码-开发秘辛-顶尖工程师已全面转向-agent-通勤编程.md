@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Spotify 披露“零代码”开发秘辛：顶尖工程师已全面转向 Agent 通勤编程"
 description: "**[核心逻辑]** Spotify 内部系统“Honk”集成 Claude Code，实现从 Slack 指令到远程实时部署的闭环。 - **通勤编程**：工程师在通勤路上通过 Slack 即可修复 Bug 或新增功能，进办公室前即可完成测试发布。 - **数据壁垒**：构建了关于音乐主观偏好的独特数据集，通过持续训练提升模型对复杂上下文的理解。 - **效率神话**：2025 年发布超 50 "
 resource: "https://x.com/i/status/2022084975898558590"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2022084975898558590"
+created: "2026-02-12"
+updated: "2026-06-26"
+sha256: "63620da1688d0f744ec1267bfd0c588c9fc861f2772f8928ed16fd89c9027812"
+sources:
+  - "/sources/news/2026-02-14/00__dotey__spotify-披露-零代码-开发秘辛-顶尖工程师已全面转向-agent-通勤编程.md"
 ---
 
 # Spotify 披露“零代码”开发秘辛：顶尖工程师已全面转向 Agent 通勤编程

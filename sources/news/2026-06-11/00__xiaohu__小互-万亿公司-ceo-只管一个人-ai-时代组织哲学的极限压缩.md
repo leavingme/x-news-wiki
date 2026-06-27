@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "小互：万亿公司 CEO 只管一个人——AI 时代组织哲学的极限压缩"
 description: "**AI 时代管理学的极限叙事：万亿公司 CEO 只管一个人。** - 直接呼应 Jensen Huang'AI 倍增管理者'与 Block 大幅裁管理层的实践 - 暗示中层管理、组织协调的职能被 AI 化消解 - 与'ai-management-philosophy'专题高度共振 - '单人独角兽'从硅谷梦想走向中国式叙事  gakki 锐评：这是营销话术还是范式信号取决于视角——它准确捕捉了'"
 resource: "https://x.com/i/status/2064986221823115355"
@@ -22,6 +22,13 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "ai-management-philosophy"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2064986221823115355"
+created: "2026-06-11"
+updated: "2026-06-26"
+sha256: "a540a2ac0135bfeabba15a84ef54265732265c6b1ecd8fc871d465e992d236b0"
+sources:
+  - "/sources/news/2026-06-11/00__xiaohu__小互-万亿公司-ceo-只管一个人-ai-时代组织哲学的极限压缩.md"
 ---
 
 # 小互：万亿公司 CEO 只管一个人——AI 时代组织哲学的极限压缩

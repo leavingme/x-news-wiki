@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "文科生的「AI暴力美学」：不懂技术边界反而突破边界"
 description: "**[一句话核心判断]** 当技术人还在纠结模型能力边界时，非技术用户用「任务必达」的粗暴逻辑正在解锁AI的隐藏潜力。  • **范式反转**：技术背景者常被「可能性认知」束缚，而文科生的「结果导向」迫使AI穷尽路径，反而触发更激进的工具调用链 • **提示工程新解**：有效提示可能不是精确描述，而是设定不可协商的目标约束，让模型自行探索实现路径 • **产品启示**：AI工具的下一代交互设计，或"
 resource: "https://x.com/i/status/2033352584778674438"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2033352584778674438"
+created: "2026-03-16"
+updated: "2026-06-26"
+sha256: "a31886171d246ebfae6d3fcb4b8f56e07cb3e494c8e8e96d3fcd9e3420d4449a"
+sources:
+  - "/sources/highlights/2026-03-16/00__mranti__文科生的-ai暴力美学-不懂技术边界反而突破边界.md"
 ---
 
 # 文科生的「AI暴力美学」：不懂技术边界反而突破边界

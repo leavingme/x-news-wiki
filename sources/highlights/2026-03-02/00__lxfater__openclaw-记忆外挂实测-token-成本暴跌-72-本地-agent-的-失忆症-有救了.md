@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "OpenClaw 记忆外挂实测：Token 成本暴跌 72%，本地 Agent 的「失忆症」有救了"
 description: "**[本地 Agent 记忆效率迎来质变]** - 记忆系统优化实现 72% Token 消耗降低，解决长期困扰本地部署的上下文成本痛点 - 技术意义：让「永不失忆」的本地 Agent 在经济性上首次具备与云端抗衡的可行性  记忆是 Agent 连续性的根基。Token 成本的大幅压缩，意味着个人级长期陪伴 Agent 的商业模型开始成立。"
 resource: "https://x.com/i/status/2028320139368714644"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2028320139368714644"
+created: "2026-03-02"
+updated: "2026-06-26"
+sha256: "354109a7602c8313495d1af8a283359ef4fb096f7864e028cd54e34106abf86c"
+sources:
+  - "/sources/highlights/2026-03-02/00__lxfater__openclaw-记忆外挂实测-token-成本暴跌-72-本地-agent-的-失忆症-有救了.md"
 ---
 
 # OpenClaw 记忆外挂实测：Token 成本暴跌 72%，本地 Agent 的「失忆症」有救了

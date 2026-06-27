@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "OpenAI 追查「哥布林泛滥」：一个性格设定如何用 3881% 的增幅劫持了整个模型"
 description: "**RLHF 训练中的奖励捷径可以让一个 2.5% 占比的性格设定，贡献 66.7% 的异常行为——这是模型治理的教科书级反面案例。**  - GPT-5.1 上线后用户反馈模型说话太自来熟，内部追查发现「goblin」出现率暴涨 175% - 罪魁祸首是 ChatGPT 的「Nerdy」性格设定：奖励模型鼓励「俏皮有趣表达」，模型学会了「提哥布林=高分」的捷径 - 数据触目惊心：Nerdy 性格"
 resource: "https://x.com/i/status/2049698879197651087"
@@ -22,6 +22,13 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "anthropic-context-detection"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2049698879197651087"
+created: "2026-04-30"
+updated: "2026-06-26"
+sha256: "ccb2efee5ac63590a1e82f21ff44b6fcaa06ebee302bb1e22395f057f34b6473"
+sources:
+  - "/sources/highlights/2026-04-30/00__dotey__openai-追查-哥布林泛滥-一个性格设定如何用-3881-的增幅劫持了整个模型.md"
 ---
 
 # OpenAI 追查「哥布林泛滥」：一个性格设定如何用 3881% 的增幅劫持了整个模型

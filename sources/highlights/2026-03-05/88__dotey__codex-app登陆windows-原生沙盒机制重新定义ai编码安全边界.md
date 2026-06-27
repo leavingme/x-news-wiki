@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Codex App登陆Windows：原生沙盒机制重新定义AI编码安全边界"
 description: "**OpenAI以操作系统级权限控制回应AI编码安全争议，Windows开发者市场迎来正式角逐者。**  - 原生支持Windows与WSL，兼容PowerShell、Git Bash等主流终端 - 沙盒机制限制AI仅在指定目录写文件，默认阻断对外网络请求 - 新增WinUI技能与Windows全栈工程师招聘暴露生态扩张意图  安全不再是功能列表上的勾选框，而是需要操作系统级重构的基础设施。Cod"
 resource: "https://x.com/i/status/2029308744795082981"
@@ -22,6 +22,13 @@ x_selected: 2
 x_priority: 88
 x_related_topic: "claude-code-ecosystem"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2029308744795082981"
+created: "2026-03-04"
+updated: "2026-06-26"
+sha256: "68acf359c96c7bc73eeabf90a132501d17e91f1e36ae28859ada2593c894d547"
+sources:
+  - "/sources/highlights/2026-03-05/88__dotey__codex-app登陆windows-原生沙盒机制重新定义ai编码安全边界.md"
 ---
 
 # Codex App登陆Windows：原生沙盒机制重新定义AI编码安全边界

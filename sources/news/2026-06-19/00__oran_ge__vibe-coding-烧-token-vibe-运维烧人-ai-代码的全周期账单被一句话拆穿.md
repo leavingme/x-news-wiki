@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Vibe Coding 烧 token，Vibe 运维烧人：AI 代码的全周期账单被一句话拆穿"
 description: "**Vibe Coding 的真实成本不在生成端，在维护端。**  Orange AI 一句吐槽点穿两层账单： - 写代码阶段：AI 生成速度快，但 token 消耗是显性成本（按调用付费） - 运维阶段：人类接管 AI 写的「屎山」，工程师注意力变成稀缺资源（按人头付费） - 价值转移：组织成本结构从「capex 工具采购」位移到「opex 人力维持」  **gakki 锐评**：金句级别的元吐"
 resource: "https://x.com/i/status/2067756023671316727"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2067756023671316727"
+created: "2026-06-18"
+updated: "2026-06-26"
+sha256: "7c3b8d1383812db5088632d10cbcdc7442f24270d3ed6601190661e582926da3"
+sources:
+  - "/sources/news/2026-06-19/00__oran_ge__vibe-coding-烧-token-vibe-运维烧人-ai-代码的全周期账单被一句话拆穿.md"
 ---
 
 # Vibe Coding 烧 token，Vibe 运维烧人：AI 代码的全周期账单被一句话拆穿

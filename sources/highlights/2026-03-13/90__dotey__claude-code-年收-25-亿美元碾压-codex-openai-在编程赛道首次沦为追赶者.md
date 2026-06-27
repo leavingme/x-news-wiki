@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Claude Code 年收 25 亿美元碾压 Codex：OpenAI 在编程赛道首次沦为追赶者"
 description: "**[Anthropic 在 AI 编程领域建立起实质性领先]** • 关键数据：Claude Code 年化收入超 25 亿美元（占 Anthropic 近 1/5 营收），Codex 仅 10 亿；9 月时 Codex 使用量只有 Claude Code 的 5%，1 月追至 40% • OpenAI 战略失误：2021 年推出初代 Codex 后资源全部砸向消费级产品，认为编程领域已被 Gi"
 resource: "https://x.com/i/status/2032266652893790437"
@@ -22,6 +22,13 @@ x_selected: 2
 x_priority: 90
 x_related_topic: "ai-coding-market-divergence"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2032266652893790437"
+created: "2026-03-13"
+updated: "2026-06-26"
+sha256: "c42f860154e6335b922c0fe54faa24d3c7a028f6646770c1fa1a65ade1973e7f"
+sources:
+  - "/sources/highlights/2026-03-13/90__dotey__claude-code-年收-25-亿美元碾压-codex-openai-在编程赛道首次沦为追赶者.md"
 ---
 
 # Claude Code 年收 25 亿美元碾压 Codex：OpenAI 在编程赛道首次沦为追赶者

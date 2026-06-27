@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "所见即所得Markdown编辑开源库调研：需求没说清楚，选库就无意义"
 description: "**[调研结论比工具本身更有价值]**  调研最好的所见即所得Markdown编辑开源库，最终结论是\"需求没提清楚，选好数据模型，库的选择才有意义\"。这是一个典型的技术选型陷阱——从业者常跳过数据模型设计直接选库，导致后续重构成本远大于初期的调研投入。  这份报告的实际价值在于提供了一个可复用的技术评估框架：先定义内容模型和操作语义，再做库选型，而不是被GitHub星数绑架决策。  gakki 的"
 resource: "https://x.com/i/status/2054234613846086043"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2054234613846086043"
+created: "2026-05-12"
+updated: "2026-06-26"
+sha256: "432f28d60dd11b29f375740e5cfcaa807f9bf828339ae4a960a552a2654468c7"
+sources:
+  - "/sources/news/2026-05-12/00__vista8__所见即所得markdown编辑开源库调研-需求没说清楚-选库就无意义.md"
 ---
 
 # 所见即所得Markdown编辑开源库调研：需求没说清楚，选库就无意义

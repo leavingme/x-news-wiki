@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Mira Network用250万测试网用户证明：去中心化区块链可以修复AI的\"信任裂缝\""
 description: "**一句话核心判断**：AI幻觉问题靠AI自己解决不了——Mira用分布式节点验证AI输出，正在验证\"人机信任\"能否被区块链修复。  **信息增量**： - Mira Network定位为\"AI真相卫士\"，用去中心化区块链召集分布式节点验证AI输出，解决AI\"幻觉\"和\"偏见\"问题 - 2025年测试网已跑250万用户、每天处理大量请求——已经不是理论阶段，是有实际规模的验证 - 核心叙事不是\"AI"
 resource: "https://x.com/i/status/1940201252354453801"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/1940201252354453801"
+created: "2025-07-02"
+updated: "2026-06-26"
+sha256: "f5b387a8856fb30f3fff879fbaeeeb8c09e9b1007c464484068d8b1143b62583"
+sources:
+  - "/sources/news/2026-04-15/00__one_snowball__mira-network用250万测试网用户证明-去中心化区块链可以修复ai的-信任裂缝.md"
 ---
 
 # Mira Network用250万测试网用户证明：去中心化区块链可以修复AI的"信任裂缝"

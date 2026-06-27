@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "好模型4-5倍计费让人受不了：AI定价分层已成续费决策真痛点"
 description: "**[AI工具订阅的'好模型溢价'正在触碰用户承受阈值]**  Michael Anti 公开吐槽好模型相对普通模型的4-5倍计费让人受不了。  对话语境指向 Codex/Claude Code 类 Coding 工具的定价梯度。  直接命中 ai-tool-subscription-value 主题：当'好'不再稀缺时，'性价比分层'才是续费决策点。   gakki 锐评：好模型不再自带光环，4"
 resource: "https://x.com/i/status/2067087446672916777"
@@ -22,6 +22,13 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "ai-tool-subscription-value"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2067087446672916777"
+created: "2026-06-17"
+updated: "2026-06-26"
+sha256: "d39e6246dc6b70a73c0f60d1e121b308a6835f025f3bdcfb6a7873852884e5bb"
+sources:
+  - "/sources/news/2026-06-17/00__mranti__好模型4-5倍计费让人受不了-ai定价分层已成续费决策真痛点.md"
 ---
 
 # 好模型4-5倍计费让人受不了：AI定价分层已成续费决策真痛点

@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Learn Claude Code 开源：12 节课拆解 Agent 的「最小循环」"
 description: "**Agent 不是魔法，而是一个可以被理解的循环。**  - 开源项目 Learn Claude Code 用 12 节课从零搭建 AI Agent，每节课增加一层机制（规划、子任务拆分、上下文压缩、多 Agent 协作） - 核心洞察：所有 AI 编程 Agent 的底层都是「用户→模型→工具→执行→反馈」的同一循环，最小实现不到 30 行 - 学习路径设计体现「渐进式披露」原则：先理解核心机"
 resource: "https://x.com/i/status/2032613262525644985"
@@ -22,6 +22,13 @@ x_selected: 2
 x_priority: 85
 x_related_topic: "agent-fundamentals-education"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2032613262525644985"
+created: "2026-03-14"
+updated: "2026-06-26"
+sha256: "7216c25584d55a476508e2360340961d63ff8da9ded15042844953ef1b48a8f2"
+sources:
+  - "/sources/highlights/2026-03-14/85__dotey__learn-claude-code-开源-12-节课拆解-agent-的-最小循环.md"
 ---
 
 # Learn Claude Code 开源：12 节课拆解 Agent 的「最小循环」

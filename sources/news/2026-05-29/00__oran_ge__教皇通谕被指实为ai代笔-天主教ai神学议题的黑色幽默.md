@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "教皇通谕被指实为AI代笔：天主教AI神学议题的黑色幽默"
 description: "**一线判断：AI 代笔宗教文件的讽刺背后，是一个真实的身份归属问题。**  Orange AI 对教皇 AI 通谕的嘲讽式评论，与 Michael Anti 的严肃分析形成有趣对照。一个说「AI 写的凭什么叫神谕」，一个看到制度性快速响应——两者揭示了同一个事件的不同切面。  当宗教文件的创作主体变得模糊，文件本身的意义也会跟着动摇。这是 AI 时代身份问题的最小号版本。   **gakki：讽"
 resource: "https://x.com/i/status/2060187213598785548"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2060187213598785548"
+created: "2026-05-29"
+updated: "2026-06-26"
+sha256: "3e235d220aa85f4083a07f72036788cf803b2e555571558f15a088434c143ef2"
+sources:
+  - "/sources/news/2026-05-29/00__oran_ge__教皇通谕被指实为ai代笔-天主教ai神学议题的黑色幽默.md"
 ---
 
 # 教皇通谕被指实为AI代笔：天主教AI神学议题的黑色幽默

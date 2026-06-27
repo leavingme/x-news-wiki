@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Yansu App 自我实现 Dream 功能：Proactive Agent 的第一个产品级证据"
 description: "**「Yansu 基于记录的 activities 自动创建了 daily-memory-cleanup Automation，且运行效果比预设的 Dream 功能更好。」**  • 关键不是「功能更强」，而是「机制自发生成」：Agent 在没有明确指令的情况下，自主发现了解决问题的方式，并给出了比工程师预设更优的方案 • Yansu 的 Slogan「Other AIs waits, Yansu"
 resource: "https://x.com/i/status/2056452387171430672"
@@ -22,6 +22,13 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "personal-ai-skill-package-commoditization"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2056452387171430672"
+created: "2026-05-18"
+updated: "2026-06-26"
+sha256: "76c05b321983ac703ca0a265ad75dec5f8994e7fb0ad2dade60fb12d31c0278c"
+sources:
+  - "/sources/highlights/2026-05-18/00__yetone__yansu-app-自我实现-dream-功能-proactive-agent-的第一个产品级证据.md"
 ---
 
 # Yansu App 自我实现 Dream 功能：Proactive Agent 的第一个产品级证据

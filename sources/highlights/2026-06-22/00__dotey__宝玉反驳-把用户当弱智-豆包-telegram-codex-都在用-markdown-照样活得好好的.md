@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "宝玉反驳「把用户当弱智」：豆包/Telegram/Codex 都在用 Markdown，照样活得好好的"
 description: "**[Markdown 在 C 端并未被判死刑]** · 反对「为普通用户简化就是为他们好」的家长式产品哲学 · 三个反例：豆包、Telegram、Codex 都支持 Markdown，用户体量并未因此塌缩 · 潜台词：把 Markdown 当工程师专属是技术中心主义，普通用户的容错与学习能力被严重低估 · 关键命题：UX 护城河不在隐藏复杂度，而在尊重用户的学习曲线  宝玉把 chat-ui-d"
 resource: "https://x.com/i/status/2068942077455405399"
@@ -22,6 +22,13 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "markdown-ai-native-format"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2068942077455405399"
+created: "2026-06-22"
+updated: "2026-06-26"
+sha256: "f9920c4a72d550b1dbc4676b51c479ebb7ff581e72dcc034f1db8a3c9a041e07"
+sources:
+  - "/sources/highlights/2026-06-22/00__dotey__宝玉反驳-把用户当弱智-豆包-telegram-codex-都在用-markdown-照样活得好好的.md"
 ---
 
 # 宝玉反驳「把用户当弱智」：豆包/Telegram/Codex 都在用 Markdown，照样活得好好的

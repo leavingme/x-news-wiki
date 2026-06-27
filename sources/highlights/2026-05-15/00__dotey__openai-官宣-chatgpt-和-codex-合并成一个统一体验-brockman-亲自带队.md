@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "OpenAI 官宣：ChatGPT 和 Codex 合并成一个统一体验，Brockman 亲自带队"
 description: "**[OpenAI 内部权力重组，Greg Brockman 正式接管产品，ChatGPT+Codex+API 三线合一，Brockman 主内]**  这是 OpenAI 史上第二次重要产品整合。Tibo（Codex 原负责人）升任核心产品和平台主管，Nick Turley 调岗企业改版。Greg Brockman 从临时接管变为正式执掌，且这次调整据说是和正在病休的 Fidji Simo 共同"
 resource: "https://x.com/i/status/2055357875262730608"
@@ -22,6 +22,13 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "codex-ecosystem-platform-war"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2055357875262730608"
+created: "2026-05-15"
+updated: "2026-06-26"
+sha256: "5d096e3d9bef2a0276c435f6856e83e54190911dc7391b051b1ecf3b6b7d1c1b"
+sources:
+  - "/sources/highlights/2026-05-15/00__dotey__openai-官宣-chatgpt-和-codex-合并成一个统一体验-brockman-亲自带队.md"
 ---
 
 # OpenAI 官宣：ChatGPT 和 Codex 合并成一个统一体验，Brockman 亲自带队

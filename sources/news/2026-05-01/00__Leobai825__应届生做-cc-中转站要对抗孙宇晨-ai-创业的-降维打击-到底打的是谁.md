@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "应届生做 CC 中转站要对抗孙宇晨：AI 创业的「降维打击」到底打的是谁"
 description: "**一个刚毕业的大学生用大半年攒了 5 万粉、做出了 CC 中转项目，现在要面对的竞争对手是孙宇晨——这个画面本身就是 AI 创业门槛坍塌的最佳注脚。**  - 天策描述了一个典型的 indie dev 路径：积累社交资本 → 做出第一个产品 → 进入红海竞争 - CC 中转（Claude Code API 中转）是当前 AI 工具生态中一个真实的套利窗口，但护城河极薄 - 竞争对手从「其他独立开"
 resource: "https://x.com/i/status/2050121542688776295"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2050121542688776295"
+created: "2026-05-01"
+updated: "2026-06-26"
+sha256: "fcb3a91957c4f056080e3d80d21a427f61cc185e2e35cc64a226f203e493dcd1"
+sources:
+  - "/sources/news/2026-05-01/00__Leobai825__应届生做-cc-中转站要对抗孙宇晨-ai-创业的-降维打击-到底打的是谁.md"
 ---
 
 # 应届生做 CC 中转站要对抗孙宇晨：AI 创业的「降维打击」到底打的是谁

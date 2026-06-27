@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Vibecoding成本可被砍掉51%：工具链层存在量化降本空间"
 description: "**Vibecoding经济学开始有解，单点数据显示工具链优化可削掉一半成本。**  - 铁锤人推荐工具将Vibecoding成本削减51%，意味着当前成本有相当比例是工具效率损耗 - 这是Vibecoding从「能不能用」转向「用得起」的拐点信号 - 落到agent-tools与developer-experience交叉点：成本可压缩 → 场景可扩展  gakki锐评：单点数据无法判断通用性，"
 resource: "https://x.com/i/status/2068523914637238687"
@@ -22,6 +22,13 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "ai-coding-token-optimization"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2068523914637238687"
+created: "2026-06-21"
+updated: "2026-06-26"
+sha256: "bed21fefa1c058bd67fa61402767c37880cd603a48f97c8a233e1d57b3726c92"
+sources:
+  - "/sources/news/2026-06-21/00__lxfater__vibecoding成本可被砍掉51-工具链层存在量化降本空间.md"
 ---
 
 # Vibecoding成本可被砍掉51%：工具链层存在量化降本空间

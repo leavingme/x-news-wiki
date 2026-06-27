@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Codex Desktop 发送按钮转圈：产品稳定性低于开发者容忍阈值"
 description: "**[一句话核心判断]** yetone 公开吐槽 Codex Desktop App 发送消息时按钮转圈、消息延迟上屏，看似小Bug实则是 OpenAI 桌面端产品成熟度的又一次公开信号。  yetone（OpenClaw作者、知名Agent工程领域KOL）主动发问，说明这不是个别现象而是普遍体验。发送按钮转圈 + 延迟上屏 = 网络请求未即时确认，是典型WebView/IM协议层未做乐观更新的"
 resource: "https://x.com/i/status/2065278963933700458"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2065278963933700458"
+created: "2026-06-12"
+updated: "2026-06-26"
+sha256: "db8ee23b409f4e6e5ed5b837bb2fb7c02d996a3420a6f34e105c9c9ed69506b4"
+sources:
+  - "/sources/news/2026-06-12/00__yetone__codex-desktop-发送按钮转圈-产品稳定性低于开发者容忍阈值.md"
 ---
 
 # Codex Desktop 发送按钮转圈：产品稳定性低于开发者容忍阈值

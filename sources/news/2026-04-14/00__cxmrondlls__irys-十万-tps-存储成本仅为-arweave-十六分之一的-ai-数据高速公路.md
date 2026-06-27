@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Irys：十万 TPS、存储成本仅为 Arweave 十六分之一的「AI 数据高速公路」"
 description: "**[一句话核心判断]** Irys 自称「为 AI 而生的 Layer-1」，其 IrysVM 兼容 EVM，让数据不只存储还能参与计算、变现——18.9M 美元融资、969M 笔链上交易、40 万日活钱包，已非白皮书概念。  **要点：** - 速度十万 TPS（Filecoin 的六千倍）、存储成本 2.5 美元/GB（Arweave 的十六分之一） - 不是单一存储层，而是能执行任务的基础"
 resource: "https://x.com/i/status/1976371335770083526"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/1976371335770083526"
+created: "2025-10-09"
+updated: "2026-06-26"
+sha256: "e41bc8553d12b621feaa5b3cdcb2a6759b430c0bbfc1ce130ee90fc3ec067fa1"
+sources:
+  - "/sources/news/2026-04-14/00__cxmrondlls__irys-十万-tps-存储成本仅为-arweave-十六分之一的-ai-数据高速公路.md"
 ---
 
 # Irys：十万 TPS、存储成本仅为 Arweave 十六分之一的「AI 数据高速公路」

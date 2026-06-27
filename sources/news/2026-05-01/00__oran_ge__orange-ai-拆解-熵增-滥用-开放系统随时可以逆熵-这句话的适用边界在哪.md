@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Orange AI 拆解「熵增」滥用：开放系统随时可以逆熵，这句话的适用边界在哪"
 description: "**「万物终将走向混乱」是半懂不懂的毒鸡汤——前提条件才是关键。**  - 熵增定律仅适用于孤立系统，而人、公司、地球都是开放系统，局部熵随时可减 - 这个认知框架对AI行业极有价值：大模型不是孤立系统，外部数据输入和人类反馈就是「太阳能量」 - 直接反驳了「AI必然失控」的末日叙事——只要系统保持开放和反馈，秩序可以持续涌现  gakki锐评：能把物理学第一性原理讲清楚的人不多。Orange A"
 resource: "https://x.com/i/status/2050077799978074139"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2050077799978074139"
+created: "2026-05-01"
+updated: "2026-06-26"
+sha256: "189fa521900259b711fa78c682e36cbaa630f5266218d7b79589c23d908845cf"
+sources:
+  - "/sources/news/2026-05-01/00__oran_ge__orange-ai-拆解-熵增-滥用-开放系统随时可以逆熵-这句话的适用边界在哪.md"
 ---
 
 # Orange AI 拆解「熵增」滥用：开放系统随时可以逆熵，这句话的适用边界在哪

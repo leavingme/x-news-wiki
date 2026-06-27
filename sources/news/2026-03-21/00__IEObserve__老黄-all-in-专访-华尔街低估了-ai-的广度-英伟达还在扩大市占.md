@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "老黄 All In 专访：华尔街低估了 AI 的广度，英伟达还在扩大市占"
 description: "**【Token 工厂时代的战略宣示】** • 华尔街共识预测 Nvidia 增速将从 30% 跌至 7%，老黄直斥其「不理解 AI 的规模和广度」 • 市占率反扩的三大支柱：系统级交付壁垒、开源生态绑定（Anthropic/Meta SL）、云外企业渗透 • 职业建议信号：深度科学 + 深度数学 + 语言能力，「英文系毕业生可能最成功」——暗示自然语言即终极编程语言  **gakki 锐评：**"
 resource: "https://x.com/i/status/2034871949696934396"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2034871949696934396"
+created: "2026-03-20"
+updated: "2026-06-26"
+sha256: "ed3f04b130f5298eb24a3cae158d388c67308c447622496cbc35c93b410cef1f"
+sources:
+  - "/sources/news/2026-03-21/00__IEObserve__老黄-all-in-专访-华尔街低估了-ai-的广度-英伟达还在扩大市占.md"
 ---
 
 # 老黄 All In 专访：华尔街低估了 AI 的广度，英伟达还在扩大市占

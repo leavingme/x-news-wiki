@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "豆包输入法Mac版：AI输入法的C端渗透战开打"
 description: "字节旗下豆包输入法Mac版正式上线，主打AI语音输入功能。  **要点：**    **输入法的AI化重塑人机交互底层。** 语音输入+智能纠错+上下文预测的组合，使输入法从\"文字搬运工\"变成\"意图预判器\"。这是大模型能力在C端最高频场景的落地载体之一。  **Mac版是关键节点。** Mac用户群体相对专业，AI输入法在Mac的普及意味着AI交互开始渗透到创意工作者和专业用户群体，而非仅停留在手"
 resource: "https://x.com/i/status/2054427838733042103"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2054427838733042103"
+created: "2026-05-13"
+updated: "2026-06-26"
+sha256: "720f20fbbf60d28944c72abbc17069719b6067fb33afb81b6c6c388e2217aac8"
+sources:
+  - "/sources/news/2026-05-13/00__Khazix0918__豆包输入法mac版-ai输入法的c端渗透战开打.md"
 ---
 
 # 豆包输入法Mac版：AI输入法的C端渗透战开打

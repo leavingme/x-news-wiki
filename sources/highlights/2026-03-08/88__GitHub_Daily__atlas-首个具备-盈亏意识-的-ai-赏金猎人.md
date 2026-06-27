@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Atlas：首个具备「盈亏意识」的 AI 赏金猎人"
 description: "**Agent 经济自主权的里程碑式落地——AI 不仅能赚钱，还学会了「算笔账」。**  - 核心突破：ROI 矩阵前置评估 + Token 成本硬止损，Agent 首次具备「成本-收益」理性决策能力 - 场景闭环：从 GitHub Issues 到 Upwork 再到漏洞赏金，覆盖开发者主流变现渠道 - 范式意义：开源技能包形态降低门槛，预示「AI 接单即服务」将成为 OpenClaw 生态的标"
 resource: "https://x.com/i/status/2030184209768403332"
@@ -22,6 +22,13 @@ x_selected: 2
 x_priority: 88
 x_related_topic: "agent-economic-autonomy"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2030184209768403332"
+created: "2026-03-07"
+updated: "2026-06-26"
+sha256: "5fb1a92005075f8f3cf1b33e879b0b69851f4386c13b1067d84f15833698e796"
+sources:
+  - "/sources/highlights/2026-03-08/88__GitHub_Daily__atlas-首个具备-盈亏意识-的-ai-赏金猎人.md"
 ---
 
 # Atlas：首个具备「盈亏意识」的 AI 赏金猎人

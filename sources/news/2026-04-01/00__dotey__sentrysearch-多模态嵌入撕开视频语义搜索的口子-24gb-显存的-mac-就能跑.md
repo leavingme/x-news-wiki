@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "SentrySearch：多模态嵌入撕开视频语义搜索的口子，24GB 显存的 Mac 就能跑"
 description: "**一句话核心判断：** Google Gemini Embedding 2 和 Qwen3-VL-Embedding 这类原生多模态嵌入模型，把视频像素直接映射到文字向量空间——无需转录，直接语义匹配，这是真正的视频语义搜索突破。  **信息增量：** • 把视频切成重叠片段，用多模态模型编码为向量存 ChromaDB，搜索时文字 query 在同一向量空间匹配，直接裁剪原文件片段 • 云端 A"
 resource: "https://x.com/i/status/2039147493355634989"
@@ -22,6 +22,13 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "ai-data-blockchain-verification"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2039147493355634989"
+created: "2026-04-01"
+updated: "2026-06-26"
+sha256: "e6cc6eec5511b7bf5a86766c652a6adc008f031cb69e1cf120f002f2a34fb2c5"
+sources:
+  - "/sources/news/2026-04-01/00__dotey__sentrysearch-多模态嵌入撕开视频语义搜索的口子-24gb-显存的-mac-就能跑.md"
 ---
 
 # SentrySearch：多模态嵌入撕开视频语义搜索的口子，24GB 显存的 Mac 就能跑

@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Claude Code 限额双轨制：官方吃肉，Agent SDK 开发者喝风"
 description: "**[Anthropic 用额度杠杆做了一次生态站队]**  Claude Code 每周限额增加 50% 到 7 月 13 日，但 6 月 15 日起悄悄切换双轨制：只有 Claude Code 原生应用享受正常额度，Agent SDK 构建的第三方产品额度被折算成对应金额的 API Credits，歸藏团队估算实际降幅达十几倍。  关键变量：Max 账户 200 美元额度用 Agent SDK"
 resource: "https://x.com/i/status/2054725474493067482"
@@ -22,6 +22,13 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "claude-code-ecosystem"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2054725474493067482"
+created: "2026-05-14"
+updated: "2026-06-26"
+sha256: "6c4a0126450643f81fa94ccbd3c0307fbea6f3c342968a13f73d420105339a59"
+sources:
+  - "/sources/highlights/2026-05-14/00__op7418__claude-code-限额双轨制-官方吃肉-agent-sdk-开发者喝风.md"
 ---
 
 # Claude Code 限额双轨制：官方吃肉，Agent SDK 开发者喝风

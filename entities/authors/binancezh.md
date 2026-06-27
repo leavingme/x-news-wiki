@@ -1,5 +1,5 @@
 ---
-type: "Author"
+type: "entity"
 title: "币安Binance华语 (@binancezh)"
 description: "X/Twitter 作者 @binancezh。共收录 1 条 AI 精选推文。"
 tags:
@@ -12,6 +12,12 @@ x_author_name: "币安Binance华语"
 x_tweet_count: 1
 x_first_seen: "2026-03-24T12:43:06.100Z"
 x_last_seen: "2026-03-24T12:43:06.100Z"
+type_okf: "Author"
+created: "2026-03-24"
+updated: "2026-06-26"
+sha256: "0a96f72af2cfea1aadd4c3a87bcb2a81e778aaa548239c68a7c3ea2611c45c9b"
+sources:
+  - "/sources/highlights/2026-03-24/00__binancezh__币安押注openclaw-金融巨头正式入场agent基建.md"
 ---
 
 # 币安Binance华语 (@binancezh)

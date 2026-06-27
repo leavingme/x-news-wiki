@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "RaylsLabs：传统金融与DeFi的桥接者——隐私计算+混合层+量子安全能否撬动百万亿流动性"
 description: "**【区块链正在用「合规外衣」招安传统金融】**  RaylsLabs展示了区块链进入传统金融机构的完整技术路径：兼容EVM的「公链+私有子网」混合架构 + 零知识证明 + 同态加密，实现隐私与合规并行。其隐私框架Enygma甚至具备量子安全防护，已与巴西央行、摩根大通、万事达、G20及国际清算银行达成合作。2025年测试网和主网陆续上线，开源计划推进中。  - 技术亮点：打破TradFi进入De"
 resource: "https://x.com/i/status/1961040090022736023"
@@ -22,6 +22,13 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "rayls-blockchain-tradfi-bridge"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/1961040090022736023"
+created: "2025-08-28"
+updated: "2026-06-26"
+sha256: "0d798cfd4ba06d9f0d4c6774707c2538883b316d55b808a369af08ee7fa4cbe7"
+sources:
+  - "/sources/news/2026-04-10/00__Dami_btc__raylslabs-传统金融与defi的桥接者-隐私计算-混合层-量子安全能否撬动百万亿流动性.md"
 ---
 
 # RaylsLabs：传统金融与DeFi的桥接者——隐私计算+混合层+量子安全能否撬动百万亿流动性

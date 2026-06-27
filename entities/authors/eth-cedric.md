@@ -1,5 +1,5 @@
 ---
-type: "Author"
+type: "entity"
 title: "Cedric 🦋 (@eth_cedric)"
 description: "X/Twitter 作者 @eth_cedric。共收录 1 条 AI 精选推文。"
 tags:
@@ -12,6 +12,12 @@ x_author_name: "Cedric 🦋"
 x_tweet_count: 1
 x_first_seen: "2026-04-18T12:44:58.420Z"
 x_last_seen: "2026-04-18T12:44:58.420Z"
+type_okf: "Author"
+created: "2026-04-18"
+updated: "2026-06-26"
+sha256: "079d664116f0645088a6de4aeda4a9d735fa2834897e721b2d8523c08a5ab3e1"
+sources:
+  - "/sources/news/2026-04-18/00__eth_cedric__meme币开始-长脑子-ai策略接管三种经典机制.md"
 ---
 
 # Cedric 🦋 (@eth_cedric)

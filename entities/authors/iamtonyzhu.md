@@ -1,5 +1,5 @@
 ---
-type: "Author"
+type: "entity"
 title: "Tony出海 (@iamtonyzhu)"
 description: "X/Twitter 作者 @iamtonyzhu。共收录 1 条 AI 精选推文。"
 tags:
@@ -12,6 +12,12 @@ x_author_name: "Tony出海"
 x_tweet_count: 1
 x_first_seen: "2026-04-05T12:43:10.336Z"
 x_last_seen: "2026-04-05T12:43:10.336Z"
+type_okf: "Author"
+created: "2026-04-05"
+updated: "2026-06-26"
+sha256: "ba4a8360ab4f89e2b15acdcfe18b22886b36d92c7832e8336bcd994fb34698b5"
+sources:
+  - "/sources/highlights/2026-04-05/00__iamtonyzhu__karpathy-开源-llm-个人知识库-赛博离职员工正在批量搭建自己的-ai-系统.md"
 ---
 
 # Tony出海 (@iamtonyzhu)

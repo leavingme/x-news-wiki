@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Google I/O 前线快报：无人出租车成 Google 秀肌肉主战场"
 description: "**[Google 把 I/O 变成了 Waymo 的 CES，不是开发者大会，是产品展会]**  小互在前线透露 Google I/O 的重要信号：Google 的无人出租车体验成为主推项目。对于 Google 而言，AI 的落地出口正在从云端走向物理世界——这与微软的 Copilot 战略、苹果的端侧 AI 形成了截然不同的路径选择。  这次 I/O 可能是一个分水岭：Google 的 AI "
 resource: "https://x.com/i/status/2056495809345261641"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2056495809345261641"
+created: "2026-05-18"
+updated: "2026-06-26"
+sha256: "b587153ab038a31ff59f0ef3e11cbf6cf3da9ce8812624370b61e274afedb809"
+sources:
+  - "/sources/news/2026-05-18/00__xiaohu__google-i-o-前线快报-无人出租车成-google-秀肌肉主战场.md"
 ---
 
 # Google I/O 前线快报：无人出租车成 Google 秀肌肉主战场

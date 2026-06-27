@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "yt-dlp 方案被淘汰：NotebookLM CLI 递归提问正在成为长视频摘要的工程最优解"
 description: "**YouTube 长视频摘要的工程实践正在收敛：从 yt-dlp 直接喂文本转向 NotebookLM CLI 递归提问 + 轻量模型总结的两阶段方案。**  • yt-dlp 三重痛点：频繁需要更新（YouTube 持续升级反爬）、转录文本超长溢出上下文、总结质量不稳定 • 替代方案：NotebookLM CLI 递归提问获取要点，再交给 Claude Sonnet 4.6 或 GPT 5.5"
 resource: "https://x.com/i/status/2049486844359053600"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2049486844359053600"
+created: "2026-04-29"
+updated: "2026-06-26"
+sha256: "2e58ad8265345cd7d411519680d87df07fd2a0d9ebb8dcae7b1ae640e9b4632e"
+sources:
+  - "/sources/news/2026-04-29/00__vista8__yt-dlp-方案被淘汰-notebooklm-cli-递归提问正在成为长视频摘要的工程最优解.md"
 ---
 
 # yt-dlp 方案被淘汰：NotebookLM CLI 递归提问正在成为长视频摘要的工程最优解

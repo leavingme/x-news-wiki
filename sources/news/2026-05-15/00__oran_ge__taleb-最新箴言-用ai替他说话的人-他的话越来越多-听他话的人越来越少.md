@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Taleb 最新箴言：\"用AI替他说话的人，他的话越来越多，听他话的人越来越少\""
 description: "**【AI 表达冗余化预言：音量上升、听众萎缩】**  塔勒布在最新箴言集中写下这句：「用AI替他说话的人，他的话越来越多，听他话的人越来越少。」这是迄今为止对 AI 辅助表达最锐利的批判之一——不是否定 AI 能力，而是指出当表达被外包给 AI，输出量与影响力之间的正相关会被系统性打破。  · 话多→ai替说，听少→真实连接断裂，逻辑自洽 · 暗示 AI 写作工具的边际效用递减：越依赖，越不被信"
 resource: "https://x.com/i/status/2055077390968345006"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2055077390968345006"
+created: "2026-05-15"
+updated: "2026-06-26"
+sha256: "7f31e7a609932f19bc54aaf385e7c978593531e523e5aafff52b3ba64d8e7a37"
+sources:
+  - "/sources/news/2026-05-15/00__oran_ge__taleb-最新箴言-用ai替他说话的人-他的话越来越多-听他话的人越来越少.md"
 ---
 
 # Taleb 最新箴言："用AI替他说话的人，他的话越来越多，听他话的人越来越少"

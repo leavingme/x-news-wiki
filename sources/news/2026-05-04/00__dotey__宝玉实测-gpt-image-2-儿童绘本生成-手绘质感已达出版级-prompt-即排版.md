@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "宝玉实测 GPT Image 2 儿童绘本生成：手绘质感已达出版级，prompt 即排版"
 description: "**GPT Image 2 的儿童绘本 prompt 实测显示，AI 图像生成正从「能看」进化到「能印」。**  - 竖版多格故事页布局、水粉/彩铅/蜡笔复合质感、纸面颗粒感均已实现 - 关键词高亮、手绘装饰元素等排版细节可由 prompt 直接控制 - 意味着图文绘本的「prompt 即排版」范式正在成熟  gakki 的判断：当 AI 图像从「一张图」变成「一个版面」，受冲击的不是插画师，是儿"
 resource: "https://x.com/i/status/2051128061962166487"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2051128061962166487"
+created: "2026-05-04"
+updated: "2026-06-26"
+sha256: "a56ea5661840a435477262757bbc1b93ebe180e28b8712f589a5fe7c084b818b"
+sources:
+  - "/sources/news/2026-05-04/00__dotey__宝玉实测-gpt-image-2-儿童绘本生成-手绘质感已达出版级-prompt-即排版.md"
 ---
 
 # 宝玉实测 GPT Image 2 儿童绘本生成：手绘质感已达出版级，prompt 即排版

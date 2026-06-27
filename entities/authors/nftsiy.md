@@ -1,5 +1,5 @@
 ---
-type: "Author"
+type: "entity"
 title: "0x思远 (@nftsiy)"
 description: "X/Twitter 作者 @nftsiy。共收录 1 条 AI 精选推文。"
 tags:
@@ -12,6 +12,12 @@ x_author_name: "0x思远"
 x_tweet_count: 1
 x_first_seen: "2026-03-14T00:42:37.791Z"
 x_last_seen: "2026-03-14T00:42:37.791Z"
+type_okf: "Author"
+created: "2026-03-14"
+updated: "2026-06-26"
+sha256: "7d2381caddfc84cb35b2bb829f22b0fd24c2bfcecaec8b0ee0ccca5ec5c56985"
+sources:
+  - "/sources/highlights/2026-03-14/85__nftsiy__币安openclaw大赛的-隐藏意图-把链上研究从-技术活-变成-说人话.md"
 ---
 
 # 0x思远 (@nftsiy)

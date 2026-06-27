@@ -1,5 +1,5 @@
 ---
-type: "Concept"
+type: "concept"
 title: "embodied-ai-and-robotics"
 description: "跨日主题 \"embodied-ai-and-robotics\"，共 5 条相关精选推文。"
 tags:
@@ -11,6 +11,16 @@ x_topic_slug: "embodied-ai-and-robotics"
 x_tweet_count: 5
 x_first_seen: "2026-04-07T00:42:41.939Z"
 x_last_seen: "2026-05-15T04:19:03.784Z"
+type_okf: "Concept"
+created: "2026-04-07"
+updated: "2026-06-26"
+sha256: "721c839671c9acb87aa266ca7773eaa646b5a24aacd5f52fd626cee284aa5484"
+sources:
+  - "/sources/highlights/2026-04-07/00__FinanceYF5__yc-w26-物理-ai-赛道-3-倍增长的底层信号-应用层与基础设施层同时出现意味着什么.md"
+  - "/sources/news/2026-05-06/00__gs_ai___genesis-ai-沉默一年后发布-gene-26-5-从数据手套到仿真器的全栈机器人方案.md"
+  - "/sources/news/2026-05-10/00__jiqizhixin__港科大-港中文用二元占用标签撬动开放词汇3d场景理解-室内机器人-看见未知物体-的路被打通了一段.md"
+  - "/sources/news/2026-05-12/00__UnitreeRobotics__unitree-gd01-人控机甲量产就绪-具身智能的商业化-硬门槛-已跨过实验室.md"
+  - "/sources/news/2026-05-15/00__jiqizhixin__gs-playground-3d-gaussian-splatting-叠加并行物理引擎-具身-ai-仿真首次突破-10.md"
 ---
 
 # 主题: embodied-ai-and-robotics

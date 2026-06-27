@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Gemma 4 开启「飞机上跑 AI」时代：隐私计算从云端下沉到终端"
 description: "**[ Google 在开源模型排行第三的 Gemma 4，已支持完全离线的端侧部署 ]**  • Google AI Edge Gallery 手机 App 发布，可在 iOS/Android 设备本地运行 Gemma 4，全程不联网、不上传数据； • 支持拍照问答（Ask Image）、带推理过程的 Thinking Mode 聊天，以及 Wikipedia Agent 知识库接入； • 对于"
 resource: "https://x.com/i/status/2040360314185916758"
@@ -22,6 +22,13 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "gemma端侧多模态"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2040360314185916758"
+created: "2026-04-04"
+updated: "2026-06-26"
+sha256: "643aeea7eb933f233aa9217fc559e2e4057363fefe5e8f9d4b27a2b02cb6adfe"
+sources:
+  - "/sources/highlights/2026-04-04/00__xincctnnq__gemma-4-开启-飞机上跑-ai-时代-隐私计算从云端下沉到终端.md"
 ---
 
 # Gemma 4 开启「飞机上跑 AI」时代：隐私计算从云端下沉到终端

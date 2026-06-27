@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Cursor Composer 2.5 训练细节曝光：Kimi K2.5 底座、万卡集群、十万 Token 轨迹学习"
 description: "**一句话核心判断：Cursor 联手 SpaceX 豪赌超算长任务，Moonshot Kimi K2.5 二训底座正式公开透明度补课。**  - Composer 2.5 仍基于 Moonshot Kimi K2.5 二次训练（之前被开发者从 API 请求头挖出模型 ID 引发争议，这次直接写进博客，算是把透明度补回来） - 核心训练亮点：文本反馈信用分配机制，让模型在十万 Token 量级、连"
 resource: "https://x.com/i/status/2056432162635731438"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2056432162635731438"
+created: "2026-05-18"
+updated: "2026-06-26"
+sha256: "bc39d3dfd6da0ba7e9714a9cbfdd14f401ada76d25b968925406335e22622370"
+sources:
+  - "/sources/highlights/2026-05-18/00__dotey__cursor-composer-2-5-训练细节曝光-kimi-k2-5-底座-万卡集群-十万-token-轨迹学习.md"
 ---
 
 # Cursor Composer 2.5 训练细节曝光：Kimi K2.5 底座、万卡集群、十万 Token 轨迹学习

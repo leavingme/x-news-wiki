@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Topview Canvas：AI视频进入「先画故事板再出片」的Figma时刻"
 description: "**【故事板画布让AI视频从\"盲猜\"进入\"可见即可得\"范式】**  AI视频当前最大痛点：Prompt→生成循环中，\"让AI理解脑子里的画面\"消耗了大部分时间和Token。Topview Canvas的解法是加入故事板中间层：GPT-image-2先画分镜→Figma风格画布编辑（逐帧调整/改图）→Seedance 2.0出片。  核心逻辑：先规划后动手，边做边猜永远比先想清楚再执行效率低——这是"
 resource: "https://x.com/i/status/2059291610265931803"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2059291610265931803"
+created: "2026-05-26"
+updated: "2026-06-26"
+sha256: "d8d61bab117559566f0ec62099303c715a20bce7cfc07c0d89cf03111b53e812"
+sources:
+  - "/sources/news/2026-05-26/00__gkxspace__topview-canvas-ai视频进入-先画故事板再出片-的figma时刻.md"
 ---
 
 # Topview Canvas：AI视频进入「先画故事板再出片」的Figma时刻

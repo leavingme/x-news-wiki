@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "YC Garry Tan忠告：别把社交平台的点赞当需求，「极窄切口」才是真正的产品护城河"
 description: "**[一句话核心判断]**  YC CEO Garry Tan 最新Office Hours内容直指AI创业最常见的认知陷阱：代码先行、用户画像模糊、把社交反馈当需求验证。  **信息增量：** - \"模糊群体\"不是客户，必须定位到\"某公司某运营每天浪费2小时的具体环节\" - 点赞/填邮箱≠需求，真正的需求是有人为粗糙半成品掏现金 - YC逻辑逼团队找到最窄切口：极简版没人用就别想上线  **影响"
 resource: "https://x.com/i/status/2037428419181662649"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2037428419181662649"
+created: "2026-03-27"
+updated: "2026-06-26"
+sha256: "494d129e430f070dc9a8552c9e2bc0c7541d9d2178f92073c7040ad871855ddc"
+sources:
+  - "/sources/news/2026-04-07/00__chuhaiqu__yc-garry-tan忠告-别把社交平台的点赞当需求-极窄切口-才是真正的产品护城河.md"
 ---
 
 # YC Garry Tan忠告：别把社交平台的点赞当需求，「极窄切口」才是真正的产品护城河

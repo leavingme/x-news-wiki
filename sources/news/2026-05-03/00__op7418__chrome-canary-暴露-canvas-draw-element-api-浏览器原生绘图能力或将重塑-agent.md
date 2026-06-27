@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Chrome Canary 暴露 Canvas Draw Element API：浏览器原生绘图能力或将重塑 Agent 交互层"
 description: "**Chrome 正在内测 Canvas Draw Element API，浏览器原生绘图能力即将解封。** - 目前处于 Developer Trial 阶段，需在 Chrome Canary 手动开启 Flag - API 随时可能变更，但信号明确：浏览器正在补全「可编程画布」这块拼图 - 对 Agent 生态的影响：一旦稳定，浏览器自动化可绕过 DOM 直接操作视觉层  gakki 锐评：这"
 resource: "https://x.com/i/status/2050916947970404617"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2050916947970404617"
+created: "2026-05-03"
+updated: "2026-06-26"
+sha256: "24c8af79251fc8dfd0e954c0fbeeebddb4accfaaf4d26df0e023cc21cc81a886"
+sources:
+  - "/sources/news/2026-05-03/00__op7418__chrome-canary-暴露-canvas-draw-element-api-浏览器原生绘图能力或将重塑-agent.md"
 ---
 
 # Chrome Canary 暴露 Canvas Draw Element API：浏览器原生绘图能力或将重塑 Agent 交互层

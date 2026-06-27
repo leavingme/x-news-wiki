@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "YouMind 5天跑通 Skills 创作者激励闭环：$1000 可兑换收益验证「技能即商品」"
 description: "**YouMind 用真金白银验证了 AI Skills 商品化的 PMF。**  - 5月1日启动 Skills 创作者激励计划，截至5月6日已有用户取得 $1000 可兑换收益 - 这是「个人AI技能包商品化」赛道中第一个公开披露创作者实际收入数据的平台 - 相比 OpenAI GPTs 生态的分润迟迟未落地，YouMind 用「先跑通现金流」的方式抢占心智  玉伯的判断：Skills 创作者"
 resource: "https://x.com/i/status/2052003218293678427"
@@ -22,6 +22,13 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "personal-ai-skill-package-commoditization"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2052003218293678427"
+created: "2026-05-06"
+updated: "2026-06-26"
+sha256: "ccd32499476a78ca6f38b8c54a34bbbc47ad78c57f948a5d466eb868422deb62"
+sources:
+  - "/sources/news/2026-05-06/00__lifesinger__youmind-5天跑通-skills-创作者激励闭环-1000-可兑换收益验证-技能即商品.md"
 ---
 
 # YouMind 5天跑通 Skills 创作者激励闭环：$1000 可兑换收益验证「技能即商品」

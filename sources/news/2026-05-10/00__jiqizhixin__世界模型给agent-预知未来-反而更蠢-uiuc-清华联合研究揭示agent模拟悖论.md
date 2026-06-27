@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "世界模型给Agent「预知未来」反而更蠢：UIUC/清华联合研究揭示Agent模拟悖论"
 description: "**[Agent不会用「先见之明」，强制预演反而降低5%表现]**  - 四校联合实验给Agent接入生成式世界模型（外部模拟器），可在行动前预测结果 - 关键数据：不到1%的Agent会主动模拟，约15%误用预测输出，强制使用foresight后性能反降5% - 根因诊断：Agent缺乏三个关键能力——何时该模拟、如何解读模拟结果、如何将结果整合进决策链  gakki锐评：这篇研究的价值不在于「"
 resource: "https://x.com/i/status/2053314332482793809"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2053314332482793809"
+created: "2026-05-10"
+updated: "2026-06-26"
+sha256: "269cbcf36ab756b7bb09fdafb152acc3685b785fa0d72f3946dd2af31dc8023e"
+sources:
+  - "/sources/news/2026-05-10/00__jiqizhixin__世界模型给agent-预知未来-反而更蠢-uiuc-清华联合研究揭示agent模拟悖论.md"
 ---
 
 # 世界模型给Agent「预知未来」反而更蠢：UIUC/清华联合研究揭示Agent模拟悖论

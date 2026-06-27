@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "宝玉：Codex 也能做 Claude Design 的活儿，但效果差不少——差距在模型不在 Harness"
 description: "**[宝玉：Codex 也能做 Claude Design 同款活儿，但效果差不少]**  - 同一应用案例对比，Codex 输出在设计语言、可读性、精致度上明显落后 - 印证宝玉此前判断：Codex 缺 Design 不是 Harness 问题，是底层模型审美与代码生成能力差距 - 对用户意味着：现阶段 Claude Design 类任务，模型选择 > 工程化包装   gakki 锐评：Harn"
 resource: "https://x.com/i/status/2067076930273182195"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2067076930273182195"
+created: "2026-06-17"
+updated: "2026-06-26"
+sha256: "1d6c77c8dfaf12caa8c9bf70a8f9773a2feffe31b5ed95640764c98586b6d16e"
+sources:
+  - "/sources/news/2026-06-17/00__dotey__宝玉-codex-也能做-claude-design-的活儿-但效果差不少-差距在模型不在-harness.md"
 ---
 
 # 宝玉：Codex 也能做 Claude Design 的活儿，但效果差不少——差距在模型不在 Harness

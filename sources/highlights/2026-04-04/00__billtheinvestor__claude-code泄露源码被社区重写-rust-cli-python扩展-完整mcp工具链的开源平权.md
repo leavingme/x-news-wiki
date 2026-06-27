@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Claude Code泄露源码被社区重写：Rust CLI+Python扩展+完整MCP工具链的开源平权"
 description: "**[泄露代码的真正价值不是抄作业，而是开源平权]**  社区基于Claude Code泄露源码发起的重写项目冲刺GitHub，核心特点：Rust CLI高性能层+Python扩展层双语言架构，完整MCP工具编排+插件系统+REPL+Markdown TUI，兼容Anthropic API（MiniMax等），本地运行无限制，强调Harness工程。  关键变化：oh-my-codex驱动开发，目"
 resource: "https://x.com/i/status/2039544844486676807"
@@ -22,6 +22,13 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "claude-code-leaked-architecture"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2039544844486676807"
+created: "2026-04-02"
+updated: "2026-06-26"
+sha256: "c9d0896a4512b1ea8a20140d0e6fe1b710da0edca30a0795c70dd103695ba7ad"
+sources:
+  - "/sources/highlights/2026-04-04/00__billtheinvestor__claude-code泄露源码被社区重写-rust-cli-python扩展-完整mcp工具链的开源平权.md"
 ---
 
 # Claude Code泄露源码被社区重写：Rust CLI+Python扩展+完整MCP工具链的开源平权

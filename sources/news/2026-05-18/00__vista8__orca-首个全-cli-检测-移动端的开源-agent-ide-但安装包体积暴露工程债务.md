@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "ORCA：首个全 CLI 检测 + 移动端的开源 Agent IDE，但安装包体积暴露工程债务"
 description: "**[开源 Agent IDE 赛道又添新玩家，ORCA 的多 CLI 集成思路代表正确方向，但包体积问题暴露了 Electron 时代的技术债正在被 AI 时代继承]**  核心能力：ORCA 能检测本机已装的 Claude Code CLI、Codex CLI、Gemini CLI、Hermes、OpenClaw 等，并支持多账号切换（多人多订阅管理）。内置 Markdown 预览和文件拖拽对"
 resource: "https://x.com/i/status/2056271703203033118"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2056271703203033118"
+created: "2026-05-18"
+updated: "2026-06-26"
+sha256: "d83ca53582f16bcac67a918588f18242aa3c3b5277f4df007b4dc608cb3fb19a"
+sources:
+  - "/sources/news/2026-05-18/00__vista8__orca-首个全-cli-检测-移动端的开源-agent-ide-但安装包体积暴露工程债务.md"
 ---
 
 # ORCA：首个全 CLI 检测 + 移动端的开源 Agent IDE，但安装包体积暴露工程债务

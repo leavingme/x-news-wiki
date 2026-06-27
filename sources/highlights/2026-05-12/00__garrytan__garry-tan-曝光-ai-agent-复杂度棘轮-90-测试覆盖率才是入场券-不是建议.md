@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Garry Tan 曝光 AI Agent 复杂度棘轮：90% 测试覆盖率才是入场券，不是建议"
 description: "**[一句话核心判断]**  Garry Tan 说出了一句行业不愿承认的实话：AI Agent 的复杂度棘轮已经把测试覆盖率推到 90%，达不到这个标准的团队本质上是负债而非资产。  **信息增量：** - \"Complexity Ratchet\"这个框架精准——AI Agent 每加一个能力，系统复杂度不线性增长而是棘轮式跳升，传统软件工程的容错经验全面失效 - 90% 不是愿景，是可操作的下"
 resource: "https://x.com/garrytan/status/2054064931515855118"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
+
 x_source: "ai-trend-digest"
+type_okf: "X Tweet"
+source_url: "https://x.com/garrytan/status/2054064931515855118"
+created: "2026-05-12"
+updated: "2026-06-26"
+sha256: "fdc7ae7f70af76cb9cd698bdc6864b79aa130d5ac73b3a39721ddbb93005a9b4"
+sources:
+  - "/sources/highlights/2026-05-12/00__garrytan__garry-tan-曝光-ai-agent-复杂度棘轮-90-测试覆盖率才是入场券-不是建议.md"
 ---
 
 # Garry Tan 曝光 AI Agent 复杂度棘轮：90% 测试覆盖率才是入场券，不是建议

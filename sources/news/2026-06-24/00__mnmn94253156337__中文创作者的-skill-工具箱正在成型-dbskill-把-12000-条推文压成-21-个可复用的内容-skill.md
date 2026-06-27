@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "中文创作者的 Skill 工具箱正在成型：dbskill 把 12000 条推文压成 21 个可复用的内容 Skill"
 description: "**[中文社区的 Skill 化内容生产范式进入实战验证]**  - 工具集：Humanizer-zh（去 AI 味，专项抓「过度强调意义/万能结尾/虚假范围」等 AI 痕迹）、dbskill（21 个 Skill 覆盖选题/标题/对标拆解）、NotebookLM Skill 等。 - 关键判断：dbskill 的差异化在于「不是教方法论，而是把方法论压缩成可触发的工作流」——这与 Anthrop"
 resource: "https://x.com/i/status/2068500416854421862"
@@ -22,6 +22,13 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "dbskill-formula-marketplace"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2068500416854421862"
+created: "2026-06-21"
+updated: "2026-06-26"
+sha256: "23b310ccca3ecf90bc6205431556267209b72a8dc6c6389dd5daf25ccc819f9c"
+sources:
+  - "/sources/news/2026-06-24/00__mnmn94253156337__中文创作者的-skill-工具箱正在成型-dbskill-把-12000-条推文压成-21-个可复用的内容-skill.md"
 ---
 
 # 中文创作者的 Skill 工具箱正在成型：dbskill 把 12000 条推文压成 21 个可复用的内容 Skill

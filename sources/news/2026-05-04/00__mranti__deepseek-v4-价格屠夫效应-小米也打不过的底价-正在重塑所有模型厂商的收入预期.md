@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "DeepSeek V4 价格屠夫效应：小米也打不过的底价，正在重塑所有模型厂商的收入预期"
 description: "**DeepSeek V4 的定价策略正在成为全行业的收入天花板。**  - Michael Anti 判断小米这轮模型在价格上大概率打不过 DeepSeek，暗示国产大模型价格战已进入 DeepSeek 定义规则的阶段 - 更关键的是后半句：V4 一出，对所有模型厂家的收入都是巨大影响——这不是竞争问题，是定价权转移 - 当一个开源模型的推理成本低到让「便宜」失去意义时，商业化路径必须从价格竞争"
 resource: "https://x.com/i/status/2051150329639747626"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2051150329639747626"
+created: "2026-05-04"
+updated: "2026-06-26"
+sha256: "aaa735ddd02d52c73a8212182f74a05021ae387711845df302875e7642c4e423"
+sources:
+  - "/sources/news/2026-05-04/00__mranti__deepseek-v4-价格屠夫效应-小米也打不过的底价-正在重塑所有模型厂商的收入预期.md"
 ---
 
 # DeepSeek V4 价格屠夫效应：小米也打不过的底价，正在重塑所有模型厂商的收入预期

@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "王兴系 AI 浏览器 Tabbit 公测：多模型聚合入口的免费跑马圈地"
 description: "**光年之外推出 Tabbit，以垂直侧边栏聚合 GPT/Claude/Gemini/DeepSeek 等主流模型，公测期全免费，是一次典型的流量入口卡位战。** - 核心差异化：模型切换在对话框下方直接完成，不需要多标签页跳转，降低多模型使用门槛 - 内置 Agent 模式支持跨页搬数据、自动填表、深度调研汇总，向「浏览器原生 Agent」演进 - 美团王兴系背书 + 免费策略，典型的中国互联网"
 resource: "https://x.com/i/status/2028620871120605470"
@@ -22,6 +22,13 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "ai-multimodel-routing"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2028620871120605470"
+created: "2026-03-02"
+updated: "2026-06-26"
+sha256: "6b0d60ad6f465eedda6a69ba75b69b57f9b3029e0972cc128c4332474bf11612"
+sources:
+  - "/sources/highlights/2026-03-03/00__cnyzgkc__王兴系-ai-浏览器-tabbit-公测-多模型聚合入口的免费跑马圈地.md"
 ---
 
 # 王兴系 AI 浏览器 Tabbit 公测：多模型聚合入口的免费跑马圈地

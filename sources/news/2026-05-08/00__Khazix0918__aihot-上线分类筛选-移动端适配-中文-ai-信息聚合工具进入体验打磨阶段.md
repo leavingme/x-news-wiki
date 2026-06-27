@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "AIHOT 上线分类筛选 + 移动端适配：中文 AI 信息聚合工具进入体验打磨阶段"
 description: "**数字生命卡兹克的 AIHOT 推出分类筛选功能并启动移动端适配，信号是中文 AI 信息聚合赛道开始从「有没有」转向「好不好用」。**  - 分类筛选上线解决了信息过载场景下的核心痛点——用户不再需要在全量 AI 资讯中人工淘金 - 移动端适配同步推进，说明团队意识到 AI 信息消费的主场景正在从桌面向碎片化转移  gakki 锐评：AI 信息聚合工具的竞争壁垒从来不是数据源，而是筛选颗粒度和消"
 resource: "https://x.com/i/status/2052638450181124284"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2052638450181124284"
+created: "2026-05-08"
+updated: "2026-06-26"
+sha256: "e97ab9fdd207dff882842c3a090abf5c92b2bba40c87530d65900b5245d8627e"
+sources:
+  - "/sources/news/2026-05-08/00__Khazix0918__aihot-上线分类筛选-移动端适配-中文-ai-信息聚合工具进入体验打磨阶段.md"
 ---
 
 # AIHOT 上线分类筛选 + 移动端适配：中文 AI 信息聚合工具进入体验打磨阶段

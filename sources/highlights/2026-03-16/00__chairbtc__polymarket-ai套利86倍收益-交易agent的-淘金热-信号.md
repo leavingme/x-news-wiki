@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Polymarket AI套利86倍收益：交易Agent的「淘金热」信号"
 description: "**[链上Agent正在从实验走向套利实战]** • 5分钟预测周期+自动化执行，证明AI在快节奏金融场景中已具备超越人工的决策效率 • 86倍月收益虽属极端个案，但揭示了Crypto与Agent结合的第一波落地场景——量化套利 • 风险警示：高杠杆高波动环境下的Agent决策可靠性尚无验证框架  这是「把交易交给AI躺着赚钱」幻想的第一块真实拼图，但别忘了——赚86倍的另一面，可能是爆仓归零的无"
 resource: "https://x.com/i/status/2033361701652058285"
@@ -22,6 +22,13 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "ai-crypto-agent-infra"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2033361701652058285"
+created: "2026-03-16"
+updated: "2026-06-26"
+sha256: "ff582c7c6dfd3f57b62a4272dc0dccecd4fa1b8390ac18bf0dc73ee16b916550"
+sources:
+  - "/sources/highlights/2026-03-16/00__chairbtc__polymarket-ai套利86倍收益-交易agent的-淘金热-信号.md"
 ---
 
 # Polymarket AI套利86倍收益：交易Agent的「淘金热」信号

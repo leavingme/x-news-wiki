@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "天策的 Token 经济学锐评：觉得 Token 贵的人，本质是 ROI 为负"
 description: "**Token 单价不是问题，问题是用 Token 的人赚不回来。**  - 天策断言：所有抱怨 Token 贵的人，是自己的 ROI 为负；一旦 ROI 转正，越用越上瘾 - 这是用\"单位经济性\"取代\"绝对成本\"的视角——贵/便宜是结果，不是输入 - 对应判断：AI 工具真正的护城河不是把 Token 做便宜，而是让用户场景的 ROI 跑正   gakki 锐评：和 Sequoia 的\"杠杆 1"
 resource: "https://x.com/i/status/2066105240022098050"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2066105240022098050"
+created: "2026-06-14"
+updated: "2026-06-26"
+sha256: "6f9cb62479c302b71f807a64acbea4895303391a8070738733eb445ae6abebf8"
+sources:
+  - "/sources/news/2026-06-14/00__Leobai825__天策的-token-经济学锐评-觉得-token-贵的人-本质是-roi-为负.md"
 ---
 
 # 天策的 Token 经济学锐评：觉得 Token 贵的人，本质是 ROI 为负

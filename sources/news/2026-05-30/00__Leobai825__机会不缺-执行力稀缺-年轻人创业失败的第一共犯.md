@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "机会不缺，执行力稀缺：年轻人创业失败的第一共犯"
 description: "**【一句话核心判断】**  真正困住年轻人的不是缺乏好项目，而是持续深耕同一件事的执行力缺口——机会遍地，抓住一次就够，但多数人用找下一个来逃避当下的积累。  **信息增量：** - 接触上万人后的一手观察：想做AI/自媒体/跨境的人，都在研究外部机会而非研究自己 - 核心悖论：机会不是稀缺资源，执行力才是 - 结论反直觉：不需要找到\"最好的\"机会，只需要持续做一个机会足够久  **gakki "
 resource: "https://x.com/i/status/2060718247838634301"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2060718247838634301"
+created: "2026-05-30"
+updated: "2026-06-26"
+sha256: "8d89b3593a7e31095dc301f02f2a23a2e276025d3b76c88ad95b5549706d5209"
+sources:
+  - "/sources/news/2026-05-30/00__Leobai825__机会不缺-执行力稀缺-年轻人创业失败的第一共犯.md"
 ---
 
 # 机会不缺，执行力稀缺：年轻人创业失败的第一共犯

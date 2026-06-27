@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Invideo让AI Agent「读完」David Fincher电影学院并拍出短片：风格迁移正在工业化"
 description: "**AI Agent不再只是生成素材，而是开始系统化学习大师的视觉语言——内容生成从「技术demo」进入「风格传承」阶段。**  - Invideo演示了AI Agent完整学习David Fincher电影方法论后制作短片《Mirror》的全流程。 - 标志着AI内容创作从随机生成向有意识的风格模仿转变，这是「AI审美风格决策代理」的实际落地。 - 当AI能够解构并复现大师的视觉语法，电影教育的"
 resource: "https://x.com/invideoOfficial/status/2050269488512466993"
@@ -22,6 +22,13 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "ai-aesthetic-style-agent"
 x_source: "ai-trend-digest"
+type_okf: "X Tweet"
+source_url: "https://x.com/invideoOfficial/status/2050269488512466993"
+created: "2026-05-01"
+updated: "2026-06-26"
+sha256: "fedd007c9851dd7b77cad7f36285a3d5ace34e9e0484361da9e0138f496ebb56"
+sources:
+  - "/sources/news/2026-05-01/00__invideoOfficial__invideo让ai-agent-读完-david-fincher电影学院并拍出短片-风格迁移正在工业化.md"
 ---
 
 # Invideo让AI Agent「读完」David Fincher电影学院并拍出短片：风格迁移正在工业化

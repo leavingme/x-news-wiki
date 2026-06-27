@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "AI解码川普Truth Social与美股关系：6.2小时套利窗口与反向交易信号"
 description: "**[政治情报AI化的实战范本]** • 7400+条推文分析发现：Truth Social 比 X 早发 6.2 小时，存在显著信息套利空间 • 「川普沉默」信号80%概率看涨，「关税」推文反向做多胜率达70% • 中国相关信号100%仅在 Truth Social 发布，X 平台存在「自我审查」式内容过滤  **gakki锐评**：这不是预测市场，是地缘政治情报的量化工程化。当 AI 能捕捉 "
 resource: "https://x.com/i/status/2033868942851379689"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2033868942851379689"
+created: "2026-03-17"
+updated: "2026-06-26"
+sha256: "bfa309b9869765dd7c8e142014fea8bdca4281f258fcec4a1e7a6bc42d225e08"
+sources:
+  - "/sources/news/2026-03-18/00__Meta8Mate__ai解码川普truth-social与美股关系-6-2小时套利窗口与反向交易信号.md"
 ---
 
 # AI解码川普Truth Social与美股关系：6.2小时套利窗口与反向交易信号

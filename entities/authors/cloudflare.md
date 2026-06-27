@@ -1,5 +1,5 @@
 ---
-type: "Author"
+type: "entity"
 title: "Cloudflare (@Cloudflare)"
 description: "X/Twitter 作者 @Cloudflare。共收录 1 条 AI 精选推文。"
 tags:
@@ -12,6 +12,12 @@ x_author_name: "Cloudflare"
 x_tweet_count: 1
 x_first_seen: "2026-04-29T22:17:30.645Z"
 x_last_seen: "2026-04-29T22:17:30.645Z"
+type_okf: "Author"
+created: "2026-04-29"
+updated: "2026-06-26"
+sha256: "89a3121458a55bc65f8869be8a9ca004e9211f0a12d6e03ee0995f7e5cd4f9ba"
+sources:
+  - "/sources/highlights/2026-04-29/00__Cloudflare__cloudflare-正式赋予-agent-客户身份-注册账号-订阅付费-部署代码-agent-经济自主权的关键基建缺口.md"
 ---
 
 # Cloudflare (@Cloudflare)

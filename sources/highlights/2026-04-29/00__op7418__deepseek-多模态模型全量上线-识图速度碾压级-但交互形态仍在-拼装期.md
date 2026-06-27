@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "DeepSeek 多模态模型全量上线：识图速度碾压级，但交互形态仍在「拼装期」"
 description: "**DeepSeek 多模态识图能力正式全量上线网页版，用户实测反推提示词、前端复刻等场景均表现强劲，速度成为最大记忆点。**  - 多个独立用户反馈识图速度「快到震惊」，反推提示词秒出，网页复刻还原度高 - 当前以独立「识图模式」Tab 呈现，未与文本对话融合，交互体验仍有拼接感 - API 端是否支持识图尚未确认，开发者生态接入是下一步关键  gakki 锐评：DeepSeek 的多模态是「先"
 resource: "https://x.com/i/status/2049488861836013616"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2049488861836013616"
+created: "2026-04-29"
+updated: "2026-06-26"
+sha256: "b47fa505360530755304aa1b5ab4e6f68ca9397fb3da3537be57f545081154e7"
+sources:
+  - "/sources/highlights/2026-04-29/00__op7418__deepseek-多模态模型全量上线-识图速度碾压级-但交互形态仍在-拼装期.md"
 ---
 
 # DeepSeek 多模态模型全量上线：识图速度碾压级，但交互形态仍在「拼装期」

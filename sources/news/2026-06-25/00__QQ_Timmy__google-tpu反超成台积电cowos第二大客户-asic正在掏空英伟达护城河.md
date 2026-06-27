@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Google TPU反超成台积电CoWoS第二大客户：ASIC正在掏空英伟达护城河"
 description: "**美系大行最新通路调研：TPU v8预订18万片CoWoS-S产能，自研芯片吃掉360万颗出货**  - Google TPU ASIC成为台积电CoWoS第二大客户，预订18万片产能对应TPU v8约360万颗出货量，高于原预估250万 - 联发科3nm TPU关键ABF载板供应商除欣兴外新增臻鼎；Broadcom预订36.5万片含TPU v7/v8及Tomahawk v5/v6 - 非台积电"
 resource: "https://x.com/i/status/2069575251353330078"
@@ -22,6 +22,13 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "semiconductor-supply-chain-geopolitics"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2069575251353330078"
+created: "2026-06-24"
+updated: "2026-06-26"
+sha256: "ca560db3bd694e46311500a8caa282b833d50daefe30c2e77d4fdef6b9eea08a"
+sources:
+  - "/sources/news/2026-06-25/00__QQ_Timmy__google-tpu反超成台积电cowos第二大客户-asic正在掏空英伟达护城河.md"
 ---
 
 # Google TPU反超成台积电CoWoS第二大客户：ASIC正在掏空英伟达护城河

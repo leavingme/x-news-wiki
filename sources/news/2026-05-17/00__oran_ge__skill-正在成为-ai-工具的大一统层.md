@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Skill 正在成为 AI 工具的大一统层"
 description: "**[Orange AI 确认 Skill 体系打通了工具孤岛——这可能是 SKILL.md 生态扩张的实际信号]**  - 通过 Skill 实现跨工具协同，意味着 Agent 的工具调用正在从硬编码 API 转向可组合的 Skill 层 - 与 SKILL.md 成为行业标准的判断相互印证：Skill 作为原子化能力单元正在被广泛采用 - 值得追踪：Skill 层的标准化是否会导致工具差异化重"
 resource: "https://x.com/i/status/2055908865976541445"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2055908865976541445"
+created: "2026-05-17"
+updated: "2026-06-26"
+sha256: "c8eeaebac243a4c34ea22ac1af9b9357f59f9e5824e4fd2f6ccd9f17601054b2"
+sources:
+  - "/sources/news/2026-05-17/00__oran_ge__skill-正在成为-ai-工具的大一统层.md"
 ---
 
 # Skill 正在成为 AI 工具的大一统层

@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "铁锤人重返工作状态：技术 KOL 的身体管理与持续输出能力挂钩"
 description: "**[技术内容创作者的「结石复出」——身体管理本身就是一种 Harness 工程]**  铁锤人排出结石后宣布重返工作状态，并持续输出了 OpenSquilla 的深度使用教程。  **锐评：** 健康管理与内容产出的节奏控制，是独立技术 KOL 最容易被忽视的基础设施——机器有 CI/CD，人没有。这个复出节奏本身也是内容策略的一部分。"
 resource: "https://x.com/i/status/2062362997121822909"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2062362997121822909"
+created: "2026-06-04"
+updated: "2026-06-26"
+sha256: "71a446b7e9d639066aca9abaf9f7b1f6f8a05adf6ec36af55bcdadbbc64e8565"
+sources:
+  - "/sources/news/2026-06-04/00__lxfater__铁锤人重返工作状态-技术-kol-的身体管理与持续输出能力挂钩.md"
 ---
 
 # 铁锤人重返工作状态：技术 KOL 的身体管理与持续输出能力挂钩

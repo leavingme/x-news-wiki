@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "GLM 5.2 开源 + Cola 接入：首个 Coding 能力摸到 Opus 天花板的国产开源模型跑通商业化闭环"
 description: "**首个开源 Coding 模型站上 Opus 水平线，'国产开源+第三方产品化'快速通道跑通。**  - 智谱 GLM 5.2 今日开源，主打编程能力对标 Anthropic Opus 4 级别，是目前已知首个在该维度接近 Opus 的开源模型。 - Orange AI 旗下 Cola 已第一时间接入作为 beta 模型，按官方定价计费——意味着模型从发布到工具化交付几乎没有窗口期。 - Cla"
 resource: "https://x.com/i/status/2067108369018827153"
@@ -22,6 +22,13 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "ai-coding-market-divergence"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2067108369018827153"
+created: "2026-06-17"
+updated: "2026-06-26"
+sha256: "0ee74e8378d99468acd4d689345eb27b1a2a0790e63f39f584258322d97c14a8"
+sources:
+  - "/sources/highlights/2026-06-17/00__oran_ge__glm-5-2-开源-cola-接入-首个-coding-能力摸到-opus-天花板的国产开源模型跑通商业化闭环.md"
 ---
 
 # GLM 5.2 开源 + Cola 接入：首个 Coding 能力摸到 Opus 天花板的国产开源模型跑通商业化闭环

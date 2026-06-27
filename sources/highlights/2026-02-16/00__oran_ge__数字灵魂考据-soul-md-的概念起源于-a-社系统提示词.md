@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "数字灵魂考据：Soul.md 的概念起源于 A 社系统提示词"
 description: "**[核心逻辑]** 溯源发现，赋予 AI 独立人格的 Soul.md 最初源自人们对 Claude 系统提示词的逆向工程研究。"
 resource: "https://x.com/i/status/2023188310177566974"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2023188310177566974"
+created: "2026-02-16"
+updated: "2026-06-26"
+sha256: "d7134b931bf26d095b2b051d0972d929d256803bc0aa3ac2e9cd42f3b12e9e56"
+sources:
+  - "/sources/highlights/2026-02-16/00__oran_ge__数字灵魂考据-soul-md-的概念起源于-a-社系统提示词.md"
 ---
 
 # 数字灵魂考据：Soul.md 的概念起源于 A 社系统提示词

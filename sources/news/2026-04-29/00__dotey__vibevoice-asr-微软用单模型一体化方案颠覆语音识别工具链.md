@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "VibeVoice-ASR：微软用单模型一体化方案颠覆语音识别工具链"
 description: "**一句话核心判断：VibeVoice-ASR 将 60 分钟连续音频处理、50+语言支持、说话人分离做成单模型输出，替代了 Whisper + pyannote 的拼装方案，工具链复杂度大幅下降。**  Simon Willison 实测数据：M5 Max MacBook Pro（128GB）转写 1 小时播客耗时 8 分 45 秒；4-bit 量化版 5.71GB（原模型 17.3GB）；pr"
 resource: "https://x.com/i/status/2049279099454292283"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2049279099454292283"
+created: "2026-04-29"
+updated: "2026-06-26"
+sha256: "005505aa6f7ae17de7ad203487c8f81e8fcc2bb649e361764a443ef60e16f87b"
+sources:
+  - "/sources/news/2026-04-29/00__dotey__vibevoice-asr-微软用单模型一体化方案颠覆语音识别工具链.md"
 ---
 
 # VibeVoice-ASR：微软用单模型一体化方案颠覆语音识别工具链

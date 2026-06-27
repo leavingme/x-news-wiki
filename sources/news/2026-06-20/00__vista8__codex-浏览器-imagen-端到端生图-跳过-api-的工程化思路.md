@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Codex 浏览器+Imagen 端到端生图：跳过 API 的工程化思路"
 description: "**向阳乔木点赞一条 Codex 端到端生图工作流：直接用 Codex 内置浏览器读素材 + 内置 Imagen 模型出图，全程不接外部 API。**  要点： - 浏览器读取：素材采集免去额外抓取链路 - Imagen 直出：跳过 API key、配额与计费 - 体现 Codex 作为 Agent 容器正在承担「自带工具+自带模型」双重职责 - 与 vibe coding 的「零配置自闭环」方向"
 resource: "https://x.com/i/status/2068333691902833072"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2068333691902833072"
+created: "2026-06-20"
+updated: "2026-06-26"
+sha256: "6c39438ec8ecf628d55108b2909472c19a0b0b46a30f9222b9769a88155f2a6d"
+sources:
+  - "/sources/news/2026-06-20/00__vista8__codex-浏览器-imagen-端到端生图-跳过-api-的工程化思路.md"
 ---
 
 # Codex 浏览器+Imagen 端到端生图：跳过 API 的工程化思路

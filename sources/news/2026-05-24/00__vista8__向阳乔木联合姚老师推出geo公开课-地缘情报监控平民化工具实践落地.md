@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "向阳乔木联合姚老师推出GEO公开课：地缘情报监控平民化工具实践落地"
 description: "**【一句话核心判断】**  GEO（地缘情报）正在从政府/军方专用工具向独立开发者/创业者群体下沉，AI工具平民化浪潮中出现了新的垂直赛道。  **信息增量：** - GEO课程内容涵盖地缘政治监控与AI工具结合，意味着信息差套利正在从概念走向可交付技能 - 独立AI社区开始系统性引入地缘情报视角，AI信息消费层次从技术层扩展到战略层 - 向阳乔木作为AI工具推优KOL切入GEO赛道，侧面印证该"
 resource: "https://x.com/i/status/2058411571890758087"
@@ -22,6 +22,13 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "ai-geointelligence-democratization"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2058411571890758087"
+created: "2026-05-24"
+updated: "2026-06-26"
+sha256: "fe8a562ef7cb6344792f6da0a8f73397cecc7a06bc97b64ed878430256eb1b61"
+sources:
+  - "/sources/news/2026-05-24/00__vista8__向阳乔木联合姚老师推出geo公开课-地缘情报监控平民化工具实践落地.md"
 ---
 
 # 向阳乔木联合姚老师推出GEO公开课：地缘情报监控平民化工具实践落地

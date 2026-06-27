@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "宝玉验证工作流直觉：Markdown 文档作为 Agent 间传递媒介已形成社区共识"
 description: "**[ Markdown 作为 Agent 间传递媒介的共识正在强化，宝玉的背书是重要节点]**  - 宝玉明确表态\"大部分场景写 markdown 文档传递最好\"，这是实战派开发者对工作流的最优解判断 - 区别于代码片段或截图，Markdown 兼具结构化、可溯源、LLM 原生友好的三重特性 - 趋势信号：Agent 协作协议正在收敛到少数几种\"可验证、可组合\"的中间格式，Markdown 是目"
 resource: "https://x.com/i/status/2059718825017327732"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2059718825017327732"
+created: "2026-05-27"
+updated: "2026-06-26"
+sha256: "fc5f5f42eaa8de7a0daf5edf04c6699f5d10110cd347dd567613fb2384aa5df4"
+sources:
+  - "/sources/news/2026-05-27/00__dotey__宝玉验证工作流直觉-markdown-文档作为-agent-间传递媒介已形成社区共识.md"
 ---
 
 # 宝玉验证工作流直觉：Markdown 文档作为 Agent 间传递媒介已形成社区共识

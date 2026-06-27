@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "MoonPay 收购 DFlow：加密支付基础设施开始为 AI Agent 的「经济自主权」铺设底层通道"
 description: "**MoonPay 收购 DFlow 是一个信号：加密支付正在从「人用工具」向「Agent 可调用基础设施」迁移。** - DFlow 专注订单流和 DeFi 路由，MoonPay 是法币-加密桥接巨头 - 收购意味着支付通道正在整合，为 Agent 自主交易提供更完整的基础设施  gakki 锐评：当 AI Agent 需要自己付钱、自己收款、自己结算时，它需要的不是「用户授权后执行」的支付 A"
 resource: "https://x.com/moonpay/status/2051686819167629412"
@@ -22,6 +22,13 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "ai-agent-crypto-infra"
 x_source: "ai-trend-digest"
+type_okf: "X Tweet"
+source_url: "https://x.com/moonpay/status/2051686819167629412"
+created: "2026-05-05"
+updated: "2026-06-26"
+sha256: "4cbb1c829c9e7543593811cc520050e41e78430391ab15afb5b22fd944ddf82e"
+sources:
+  - "/sources/news/2026-05-05/00__moonpay__moonpay-收购-dflow-加密支付基础设施开始为-ai-agent-的-经济自主权-铺设底层通道.md"
 ---
 
 # MoonPay 收购 DFlow：加密支付基础设施开始为 AI Agent 的「经济自主权」铺设底层通道

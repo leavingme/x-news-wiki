@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "AI时代护城河重构：产品同质化后，信任正在成为新的流量分配权"
 description: "**【护城河正在从「功能壁垒」转向「人格背书」】**  Rourou分享了一个值得记录的判断：AI时代产品不再是护城河，流量和信任才是。变现逻辑从卖产品变成卖信任，信任的核心是人设。  这个观点的信息增量在于点出了AI生产力爆发后的「价值转移路径」——当制作成本趋近于零，真正稀缺的是「谁来做信用担保」。这和「IP化」「个人品牌」的趋势一致，但把它放在了AI替代的背景下来谈。  对谁有影响？AI内容"
 resource: "https://x.com/i/status/2060247002378842529"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2060247002378842529"
+created: "2026-05-29"
+updated: "2026-06-26"
+sha256: "37252193fba83869fd78bacd3b3c02b3026325b955d51ceb394d4d4fb132810f"
+sources:
+  - "/sources/news/2026-05-29/00__Rourou0413__ai时代护城河重构-产品同质化后-信任正在成为新的流量分配权.md"
 ---
 
 # AI时代护城河重构：产品同质化后，信任正在成为新的流量分配权

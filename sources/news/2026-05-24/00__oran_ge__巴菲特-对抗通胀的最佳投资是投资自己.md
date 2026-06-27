@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "巴菲特：对抗通胀的最佳投资是投资自己"
 description: "**一句话核心判断：** 当 AI 把技术技能商品化后，\"成为对社会有用的人\"将成为唯一不被贬值的资产。  巴菲特最新表态：将自我投资视为对抗高通胀的核心策略。他认为做自己擅长的事、成为对社会有价值的人，人们会用他们生产的东西交换你能提供的东西——这绕过了货币贬值的风险。  AI 语境下这条原则正在反向成立：当 AI 让\"技术技能\"供应量暴增、边际成本趋零，纯粹执行层面的壁垒最先消失。真正抗通胀的"
 resource: "https://x.com/i/status/2058451030959104311"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2058451030959104311"
+created: "2026-05-24"
+updated: "2026-06-26"
+sha256: "8d8b0712865498e5075efa90371c05eb64f08339864d867934a04c725244c43e"
+sources:
+  - "/sources/news/2026-05-24/00__oran_ge__巴菲特-对抗通胀的最佳投资是投资自己.md"
 ---
 
 # 巴菲特：对抗通胀的最佳投资是投资自己

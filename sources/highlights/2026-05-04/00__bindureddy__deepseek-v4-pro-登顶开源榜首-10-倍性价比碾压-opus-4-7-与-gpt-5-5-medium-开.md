@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "DeepSeek V4 Pro 登顶开源榜首：10 倍性价比碾压 Opus 4.7 与 GPT 5.5 Medium，开源与闭源的差距正在以月为单位收窄"
 description: "**开源模型首次在综合能力上全面超越同期闭源旗舰，且价格仅为十分之一。**  - DeepSeek V4 Pro 在多项基准上击败 Opus 4.7 和 GPT 5.5 Medium，并超越 Kimi 2.6 Thinking，推理速度也显著领先 - 与 GPT-5.5 xHigh 的差距被评估为「数月」而非「代际」，开源追赶曲线陡峭 - 对 Anthropic 和 OpenAI 的订阅定价体系构"
 resource: "https://x.com/bindureddy/status/2051142381752517114"
@@ -22,6 +22,13 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "deepseek-v4-open-source"
 x_source: "ai-trend-digest"
+type_okf: "X Tweet"
+source_url: "https://x.com/bindureddy/status/2051142381752517114"
+created: "2026-05-04"
+updated: "2026-06-26"
+sha256: "66237b2ae45371bd647d32b776e4422134ea15a7cb54c34e33b924b620059506"
+sources:
+  - "/sources/highlights/2026-05-04/00__bindureddy__deepseek-v4-pro-登顶开源榜首-10-倍性价比碾压-opus-4-7-与-gpt-5-5-medium-开.md"
 ---
 
 # DeepSeek V4 Pro 登顶开源榜首：10 倍性价比碾压 Opus 4.7 与 GPT 5.5 Medium，开源与闭源的差距正在以月为单位收窄

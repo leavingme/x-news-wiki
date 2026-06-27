@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "字节跳动 Seed 颠覆机器人灵巧手：100% 仿真训练直接迁移到现实，sim-to-real 瓶颈被突破"
 description: "**[机器人具身智能的「传送门」被打开]**  字节跳动 Seed 最新 RL 框架解决了五指灵巧手的 sim-to-real 迁移难题：通过快速虚拟触觉模拟、电流-扭矩校准（无需额外传感器）和执行器动力学随机化，100% 仿真训练的策略可直接部署到现实机械手上完成精准控制。  · 关键创新：电流-扭矩标定替代传感器方案，大幅降低硬件门槛 · 覆盖真实世界 Quirks 的随机化策略是迁移成功的核"
 resource: "https://x.com/i/status/2041328857773441323"
@@ -22,6 +22,13 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "textop-humanoid-robot"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2041328857773441323"
+created: "2026-04-07"
+updated: "2026-06-26"
+sha256: "1ed457cca7dd8a94487a1cba9fe2534ac0da660fc54c9ca8cde7a373ca450570"
+sources:
+  - "/sources/highlights/2026-04-07/00__jiqizhixin__字节跳动-seed-颠覆机器人灵巧手-100-仿真训练直接迁移到现实-sim-to-real-瓶颈被突破.md"
 ---
 
 # 字节跳动 Seed 颠覆机器人灵巧手：100% 仿真训练直接迁移到现实，sim-to-real 瓶颈被突破

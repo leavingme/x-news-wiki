@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "宝玉验证：官方模型仍是 Agent 工具调用效果的最终仲裁者"
 description: "**[非官方模型在复杂 Agent 任务中存在能力天花板已被业内默认]**  - 宝玉在讨论中明确表态：\"暂时没打算（用非官方模型），可以肯定的是官方模型肯定效果最好\" - 这个判断来自宝玉长期在 Claude Code 生态的一线验证经验，具备较高的置信度 - 意味着第三方模型供应商在 Agent 工具调用这个赛道上的真实差距可能比 benchmark 显示的更大，尤其是多步推理串联场景  这不"
 resource: "https://x.com/i/status/2060795892580466797"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2060795892580466797"
+created: "2026-05-30"
+updated: "2026-06-26"
+sha256: "78da0c123a16264f6ad1094b9533d90ac7d8752b412a41be00c15cca466442c5"
+sources:
+  - "/sources/news/2026-05-30/00__dotey__宝玉验证-官方模型仍是-agent-工具调用效果的最终仲裁者.md"
 ---
 
 # 宝玉验证：官方模型仍是 Agent 工具调用效果的最终仲裁者

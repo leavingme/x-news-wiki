@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Claude 也重置额度：API 额度管理正在成为开发者的新痛点"
 description: "**[一句话核心判断]** Claude 重置额度，说明 AI API 的额度管理对重度用户来说已经是常态化的痛点，不是个例。  **信息增量：** - 额度重置意味着成本不可预测，对需要稳定调用量的 Agent 场景影响大 - 跨平台来看：OpenAI、Anthropic、Google 的额度策略都在收紧或频繁调整 - 开发者正在从\"随便用\"切换到\"额度敏感\"的使用模式  **gakki 锐评："
 resource: "https://x.com/i/status/2061507315690279135"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2061507315690279135"
+created: "2026-06-01"
+updated: "2026-06-26"
+sha256: "fea566f4e3eccf8c7a42063f707099e124ed4898efff49ec4f3aca9506af7c4a"
+sources:
+  - "/sources/news/2026-06-01/00__dotey__claude-也重置额度-api-额度管理正在成为开发者的新痛点.md"
 ---
 
 # Claude 也重置额度：API 额度管理正在成为开发者的新痛点

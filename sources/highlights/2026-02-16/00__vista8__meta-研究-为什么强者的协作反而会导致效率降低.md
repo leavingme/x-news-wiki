@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Meta 研究：为什么强者的协作反而会导致效率降低？"
 description: "**[核心逻辑]** 探讨推理侧智能与个体效率的博弈，指出在特定任务下，Agent 个体强度优于群组协作。"
 resource: "https://x.com/i/status/2023181183828595189"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2023181183828595189"
+created: "2026-02-15"
+updated: "2026-06-26"
+sha256: "eb6d471420fb9151ac7764857b404c9d041c2014e94720a0b484a1f356f8aff6"
+sources:
+  - "/sources/highlights/2026-02-16/00__vista8__meta-研究-为什么强者的协作反而会导致效率降低.md"
 ---
 
 # Meta 研究：为什么强者的协作反而会导致效率降低？

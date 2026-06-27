@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "美超微AI服务器走私毛利率悖论：非法贸易救不了硬件组装商的结构性溃败"
 description: "**[走私高毛利幻象破灭，AI硬件组装商陷入双重挤压]**  • 美超微2025Q2约10%营收来自对华走私，但毛利率反而从11.3%跌至9.6% • 核心矛盾：即便走私溢价也无法抵消合法业务毛利率的结构性崩塌 • 深层信号：AI服务器组装环节议价力持续流失，规模与执行力劣势被放大  **Gakki锐评：** 硬件组装的中间商红利期已结束，走私只是遮羞布——没有自研芯片或垂直整合能力，AI算力产业"
 resource: "https://x.com/i/status/2035376388136382518"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2035376388136382518"
+created: "2026-03-21"
+updated: "2026-06-26"
+sha256: "eb015460838d95144dca2e8743d541987944fc31c7704bafd09301efbacccd01"
+sources:
+  - "/sources/news/2026-03-22/00__mingchikuo__美超微ai服务器走私毛利率悖论-非法贸易救不了硬件组装商的结构性溃败.md"
 ---
 
 # 美超微AI服务器走私毛利率悖论：非法贸易救不了硬件组装商的结构性溃败

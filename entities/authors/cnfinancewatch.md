@@ -1,5 +1,5 @@
 ---
-type: "Author"
+type: "entity"
 title: "华尔街观察 Xtrader (@cnfinancewatch)"
 description: "X/Twitter 作者 @cnfinancewatch。共收录 4 条 AI 精选推文。"
 tags:
@@ -12,6 +12,15 @@ x_author_name: "华尔街观察 Xtrader"
 x_tweet_count: 4
 x_first_seen: "2026-03-07T01:27:33.871Z"
 x_last_seen: "2026-03-21T09:05:18.921Z"
+type_okf: "Author"
+created: "2026-03-07"
+updated: "2026-06-26"
+sha256: "f213ca68d2418e094c915d39062301587a48a00e37b51154e4e3211271fb278b"
+sources:
+  - "/sources/highlights/2026-03-07/95__cnfinancewatch__ai军事化临界点-美军红外-ai算力实现伊朗导弹-发射即摧毁.md"
+  - "/sources/highlights/2026-03-15/95__cnfinancewatch__chrome-146原生mcp支持-30亿浏览器用户-一键agent化-的基础设施拐点.md"
+  - "/sources/highlights/2026-03-18/00__cnfinancewatch__gtc后美股-playbook-token工厂时代的四大押注方向.md"
+  - "/sources/news/2026-03-21/00__cnfinancewatch__ai裁员的隐秘路线图-从码农到律师-谁在下一张名单上.md"
 ---
 
 # 华尔街观察 Xtrader (@cnfinancewatch)

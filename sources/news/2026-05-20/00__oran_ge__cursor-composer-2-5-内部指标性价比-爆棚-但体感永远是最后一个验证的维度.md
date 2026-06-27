@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Cursor Composer 2.5 内部指标性价比「爆棚」：但体感永远是最后一个验证的维度"
 description: "**[一句话核心判断]**  Cursor 官方透露 Composer 2.5 内部性价比指标爆棚，但这本质上是工程视角的自嗨——用户体感永远滞后于内部指标，而 AI 编程工具的真正验证周期是「真实项目中的连续三天」。  **信息增量：** - Cursor 内部数据显示 Composer 2.5 在成本效益上表现突出，但未披露具体数字 - 「体感」和「内部指标」之间存在时间差，工具再好也需要真实"
 resource: "https://x.com/i/status/2057207731162091807"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2057207731162091807"
+created: "2026-05-20"
+updated: "2026-06-26"
+sha256: "1a42fda2bf306c88efde275c6c5a3940bcaafbd298fa52d162fa1ccae153a1e4"
+sources:
+  - "/sources/news/2026-05-20/00__oran_ge__cursor-composer-2-5-内部指标性价比-爆棚-但体感永远是最后一个验证的维度.md"
 ---
 
 # Cursor Composer 2.5 内部指标性价比「爆棚」：但体感永远是最后一个验证的维度

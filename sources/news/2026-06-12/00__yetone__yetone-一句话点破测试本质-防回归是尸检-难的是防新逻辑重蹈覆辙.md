@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "yetone 一句话点破测试本质：防回归是尸检，难的是防新逻辑重蹈覆辙"
 description: "**测试用例的核心矛盾不是覆盖已有逻辑，而是给未来新代码留下\"病历\"。**  要点： - yetone 区分两种测试视角——回归测试是\"尸检报告\"，记录已发生的问题；真正难的是为新添加的逻辑准备\"病历\"，防止历史问题在未知路径上复现 - 呼应 harness engineering 的核心命题：测试覆盖只是基础门槛，AI Coding 时代真正的瓶颈是\"前瞻性测试设计\"——把过去的 bug 模式编"
 resource: "https://x.com/i/status/2065284999923061186"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2065284999923061186"
+created: "2026-06-12"
+updated: "2026-06-26"
+sha256: "d737e5efb43d59c2353ed9af8bc31ce1dd8f3ad668dab7a559ebbbcb7fb2e021"
+sources:
+  - "/sources/news/2026-06-12/00__yetone__yetone-一句话点破测试本质-防回归是尸检-难的是防新逻辑重蹈覆辙.md"
 ---
 
 # yetone 一句话点破测试本质：防回归是尸检，难的是防新逻辑重蹈覆辙

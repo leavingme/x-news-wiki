@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Karpathy 把「数字永生」降级为「几天视频采访 + LLM 微调」：脑机上传的可落地版本来了"
 description: "**Karpathy 抛出一个比 WeClone、GPT4o 更朴素的脑机上传范式：花几天做高密度视频访谈 → 用访谈数据做 LLM 微调 → 拿到一个「自己」的 API 端点。**  - 他称之为「可处理的（tractable）脑机上传」——绕开脑扫描和神经模拟这些 sci-fi 技术，只用现有 LLM 流水线就能交付「有损但近似」的版本 - 关键洞察：LLM 微调本身已经是一种「人格压缩」，个"
 resource: "https://x.com/i/status/2042626702459674801"
@@ -22,6 +22,13 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "personal-digital-twin-identity"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2042626702459674801"
+created: "2026-04-10"
+updated: "2026-06-26"
+sha256: "b2f767890207dfdcaed7582d363bbf73eb721bb4bcf5e8928df7485e3a3c5e68"
+sources:
+  - "/sources/news/2026-06-25/00__karpathy__karpathy-把-数字永生-降级为-几天视频采访-llm-微调-脑机上传的可落地版本来了.md"
 ---
 
 # Karpathy 把「数字永生」降级为「几天视频采访 + LLM 微调」：脑机上传的可落地版本来了

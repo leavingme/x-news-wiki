@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "《Codex 橙皮书》206 页中文教程发布：Codex 跑通真实项目的零门槛操作手册"
 description: "**OpenAI Codex 终于有了系统性中文教材，零基础也能跑通生产级项目**  - 全程中文、面向小白，覆盖 App/CLI/IDE/Web 四端安装配置到首次跑通 - 核心功能章节拆解自动化、插件、Skill、MCP、Git/GitHub、云端运行、AGENTS.md 记忆系统，配套六步法标准工作流 - 五个实战案例（宠物零食官网、管理后台、招商 PPT、宣传视频等）可直接复用复制 - 关"
 resource: "https://x.com/i/status/2069556107970797625"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2069556107970797625"
+created: "2026-06-23"
+updated: "2026-06-26"
+sha256: "65d657fba3d75fcd76b4986744d3e5b115a041f0d29936f3accfb39b842c56a2"
+sources:
+  - "/sources/highlights/2026-06-24/00__WY_mask__codex-橙皮书-206-页中文教程发布-codex-跑通真实项目的零门槛操作手册.md"
 ---
 
 # 《Codex 橙皮书》206 页中文教程发布：Codex 跑通真实项目的零门槛操作手册

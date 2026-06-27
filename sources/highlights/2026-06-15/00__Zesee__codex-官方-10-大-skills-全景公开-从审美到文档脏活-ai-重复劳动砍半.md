@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Codex 官方 10 大 Skills 全景公开：从审美到文档脏活，AI 重复劳动砍半"
 description: "**[官方 Skills 矩阵首次完整曝光]**，覆盖前端审美、Office 文档、PPT、Web 测试等高频生产场景。  - Frontend Design 直接对治 AI 蓝紫渐变、模板卡片的审美陋习 - docx/xlsx/pdf/pptx 四件套补齐'AI 能写但排不出正经文档'的最后一公里，含目录/批注/模板/页眉 - webapp-testing 用 Playwright 真打开页面截"
 resource: "https://x.com/i/status/2066512424665055431"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2066512424665055431"
+created: "2026-06-15"
+updated: "2026-06-26"
+sha256: "45d4408ee01fe739eee0ba2b3cbc70ae858d5bcfddb6e6ef2621c3033c7234bc"
+sources:
+  - "/sources/highlights/2026-06-15/00__Zesee__codex-官方-10-大-skills-全景公开-从审美到文档脏活-ai-重复劳动砍半.md"
 ---
 
 # Codex 官方 10 大 Skills 全景公开：从审美到文档脏活，AI 重复劳动砍半

@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Lovable 设计负责人：AI 时代资深管理者重新变 builder，\"态度>简历\"成招聘新基准"
 description: "**AI 杠杆正在把\"管理者\"打回 builder 身份，而团队筛选标准正在经历一次静默重置。**  来自增速最快的 AI 创业公司 Lovable 设计负责人 Felix Haas 的七条内部观察：  - **资深管理者重新动手**：AI 让个体贡献者的杠杆效应急剧放大，一个深度使用 AI 的资深工程师或设计师，可能是当下公司里最强大的组合——这是对中层管理价值的隐性否定。 - **招聘看态度不"
 resource: "https://x.com/i/status/2066349458904744224"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2066349458904744224"
+created: "2026-06-15"
+updated: "2026-06-26"
+sha256: "0429dc49f2a3391e770ab446dd17fbba13679eeaef62ec161b73197cc3b952a1"
+sources:
+  - "/sources/highlights/2026-06-15/00__dotey__lovable-设计负责人-ai-时代资深管理者重新变-builder-态度-简历-成招聘新基准.md"
 ---
 
 # Lovable 设计负责人：AI 时代资深管理者重新变 builder，"态度>简历"成招聘新基准

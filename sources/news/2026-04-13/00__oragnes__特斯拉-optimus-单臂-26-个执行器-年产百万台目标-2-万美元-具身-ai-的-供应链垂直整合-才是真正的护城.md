@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "特斯拉 Optimus 单臂 26 个执行器、年产百万台目标 2 万美元：具身 AI 的「供应链垂直整合」才是真正的护城河"
 description: "**[马斯克的答案：具身 AI 竞争不在算法，在供应链重构能力]**  这段关于 Optimus 的分析给出了一个被低估的关键信息——特斯拉不只是做 AI 算法，而是重构了整个机器人供应链：单臂 26 个自研执行器、年产百万台目标成本 2 万美元。  **信息增量**：国内讨论具身 AI 时往往聚焦在「算法有多好」，而忽视了供应链这个硬壁垒。特斯拉的垂直整合能力意味着，即使有人做出了同等水平的算法"
 resource: "https://x.com/i/status/2034922135848992906"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2034922135848992906"
+created: "2026-03-20"
+updated: "2026-06-26"
+sha256: "3d5e89713246261a53520fb8dc888e7cab5c04fb5cbfbb1077b88b2be3694c2c"
+sources:
+  - "/sources/news/2026-04-13/00__oragnes__特斯拉-optimus-单臂-26-个执行器-年产百万台目标-2-万美元-具身-ai-的-供应链垂直整合-才是真正的护城.md"
 ---
 
 # 特斯拉 Optimus 单臂 26 个执行器、年产百万台目标 2 万美元：具身 AI 的「供应链垂直整合」才是真正的护城河

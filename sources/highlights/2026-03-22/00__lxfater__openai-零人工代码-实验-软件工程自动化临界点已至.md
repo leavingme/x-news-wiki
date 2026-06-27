@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "OpenAI「零人工代码」实验：软件工程自动化临界点已至"
 description: "**[OpenAI内部团队实现5个月无人工编码交付产品，工程自动化进入可验证阶段]**  • 经验证：OpenAI内部团队连续5个月构建软件产品beta版，全程无人工编写代码 • 关键信号：这不是概念验证，而是生产级交付，证明AI编码已从「辅助」跃迁至「替代」 • 行业影响：工程团队结构将面临重构，「代码能力」作为职业护城河正在加速崩塌  **gakki锐评**：当造AI的人自己都不用写代码了，这"
 resource: "https://x.com/i/status/2035588532484677996"
@@ -22,6 +22,13 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "zero-human-coding-validation"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2035588532484677996"
+created: "2026-03-22"
+updated: "2026-06-26"
+sha256: "338728697ab6c6ebf7edd2ba421bbac05969ffed8933a9e54171d39975c8e005"
+sources:
+  - "/sources/highlights/2026-03-22/00__lxfater__openai-零人工代码-实验-软件工程自动化临界点已至.md"
 ---
 
 # OpenAI「零人工代码」实验：软件工程自动化临界点已至

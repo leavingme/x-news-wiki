@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "AI的真正瓶颈不是智力，是没有学习曲线"
 description: "**[一句话核心判断]** 模型在很多任务上的起点已高于普通人类员工，但聪明却不成长——这才是AI应用落地的真正卡点。  • Dwarkesh 指出：当前AI在众多任务上的起点已经高于普通人类员工，问题在于AI没有学习曲线，只有水平线。 • 人类员工会随任务积累经验并持续优化，AI每次任务执行之间相互独立，无法形成personalized learning。 • 这一瓶颈对AI编程、AI写作等「越"
 resource: "https://x.com/i/status/2049002291718717615"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2049002291718717615"
+created: "2026-04-28"
+updated: "2026-06-26"
+sha256: "d6e4d98c5795be4c05618d63d5a7f0519836737f6c0430fbde60cb9eb21f4d42"
+sources:
+  - "/sources/news/2026-04-28/00__vista8__ai的真正瓶颈不是智力-是没有学习曲线.md"
 ---
 
 # AI的真正瓶颈不是智力，是没有学习曲线

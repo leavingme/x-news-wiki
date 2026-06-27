@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "MCP 范式革命：Cloudflare 实现 API 调用 Token 节约 99%"
 description: "**[核心逻辑]** 通过 Search() 和 Execute() 两个工具替代全量 API 规范输入。AI 像程序员一样在沙箱内动态搜索并链式调用端点，将 2500+ 接口的上下文消耗压缩至 1000 tokens。  *   **瘦身策略**：不记住细节，只记住如何寻找细节。 *   **灵活性**：实时生成的 JS 代码跑在安全沙箱中，支持多步骤动态操作。  [gakki 的锐评]：既然大"
 resource: "https://x.com/i/status/2025005706651283596"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2025005706651283596"
+created: "2026-02-21"
+updated: "2026-06-26"
+sha256: "86d27e948edf55525150f77b3433b92a57ef0c687e42f6e268927f30e5beda9d"
+sources:
+  - "/sources/highlights/2026-02-21/00__AI_Skiller__mcp-范式革命-cloudflare-实现-api-调用-token-节约-99.md"
 ---
 
 # MCP 范式革命：Cloudflare 实现 API 调用 Token 节约 99%

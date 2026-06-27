@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "歸藏万字长文：Skill 是普通人驯服 Agent 的关键中间层，远不止 prompt 打包"
 description: "**歸藏用一批真实爆款 Skills 案例，首次系统化给出 Skill 的设计/分发/迭代方法论**  1、核心判断：Agent 不是聊天框，而是「放大人的能力差距」的杠杆；Skill 是普通人用好 Agent 的关键中间层 2、好 Skill 的标准：设计、维护、分发三位一体，反对照搬「仓库列表」模式 3、提出「内容 + 产品 + 案例 +反馈」四要素飞轮模型，让 Skill 生态能持续迭代 4"
 resource: "https://x.com/i/status/2065250352266637532"
@@ -22,6 +22,13 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "skills-ecosystem-gpts-cycle"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2065250352266637532"
+created: "2026-06-12"
+updated: "2026-06-26"
+sha256: "d8d1e0e33feadfc4e10ecbe57df621cfb2370b6e31be79644a0e3c558f8e9f28"
+sources:
+  - "/sources/highlights/2026-06-12/00__op7418__歸藏万字长文-skill-是普通人驯服-agent-的关键中间层-远不止-prompt-打包.md"
 ---
 
 # 歸藏万字长文：Skill 是普通人驯服 Agent 的关键中间层，远不止 prompt 打包

@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "免费额度从10涨到50张：AI图像产品的获客成本被\"完整体验模型\"逼着抬升"
 description: "**ListenHub为应对AI培训老师带学生体验GPT image 2的需求，将新用户免费额度从10张上调至50张，揭穿AI能力宣传的体验鸿沟。**  - 触发场景：一位AI培训老师反馈，\"完整体验模型能力需要50张\"，10张完全不够用 - 产品策略被迫调整：免费额度上调5倍，否则用户无法完成能力评估 - 反映AI教育场景对图像生成的强需求与高门槛 - 羊毛党风险与获客成本的矛盾被摆上台面   "
 resource: "https://x.com/i/status/2069711319947964421"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2069711319947964421"
+created: "2026-06-24"
+updated: "2026-06-26"
+sha256: "ccfdfc52e65b44f6d0adebce621fef84bb0e662b96365e471c627dcac42430ed"
+sources:
+  - "/sources/news/2026-06-24/00__oran_ge__免费额度从10涨到50张-ai图像产品的获客成本被-完整体验模型-逼着抬升.md"
 ---
 
 # 免费额度从10涨到50张：AI图像产品的获客成本被"完整体验模型"逼着抬升

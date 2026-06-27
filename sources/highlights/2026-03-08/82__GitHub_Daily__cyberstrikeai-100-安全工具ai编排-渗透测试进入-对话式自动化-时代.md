@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "CyberStrikeAI：100+安全工具AI编排，渗透测试进入\"对话式自动化\"时代"
 description: "**[Agent在垂直安全领域的深度整合]** • 自然语言调度 100+ 安全工具，自动生成攻击链图谱与审计日志 • 12种预定义角色+20+技能库，覆盖 SQL 注入、XSS、云安全等场景 • 支持钉钉/飞书机器人，实现移动端指令下发  **gakki 锐评**：安全测试的复杂性天然适合 Agent 编排——攻击链的生成、追溯、协作，正是多 Agent 架构的典型用武之地。"
 resource: "https://x.com/i/status/2030275534567899446"
@@ -22,6 +22,13 @@ x_selected: 2
 x_priority: 82
 x_related_topic: "agent-security-infrastructure"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2030275534567899446"
+created: "2026-03-07"
+updated: "2026-06-26"
+sha256: "9ef8b6c364faadcb736599910185e329df1a2e1c37e09707eb0760d6dcb493c2"
+sources:
+  - "/sources/highlights/2026-03-08/82__GitHub_Daily__cyberstrikeai-100-安全工具ai编排-渗透测试进入-对话式自动化-时代.md"
 ---
 
 # CyberStrikeAI：100+安全工具AI编排，渗透测试进入"对话式自动化"时代

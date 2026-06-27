@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "RTX 3060跑Qwen 3.5 9B：开源Agent的「1块钱GPU」效率革命"
 description: "**[边缘Agent算力民主化]** Hermes Agent项目在RTX 3060上运行Qwen 3.5 9B，每秒处理50 token，配置31个工具+85个技能，实现跨会话记忆保持。用消费级硬件跑出企业级效率。  **信息增量：** • 24GB显存即可跑通顶级开源模型+Unsloth微调，本地部署门槛实质性降低 • 单设备多任务并行架构（共享模型与内存）挑战云厂商定价模型 • 开源生态正在"
 resource: "https://x.com/i/status/2031798384885915915"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 80
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2031798384885915915"
+created: "2026-03-11"
+updated: "2026-06-26"
+sha256: "7ace108fa81796470b29c9c2598f88a9814e646f210dfa3197521941af01975c"
+sources:
+  - "/sources/news/2026-03-12/80__billtheinvestor__rtx-3060跑qwen-3-5-9b-开源agent的-1块钱gpu-效率革命.md"
 ---
 
 # RTX 3060跑Qwen 3.5 9B：开源Agent的「1块钱GPU」效率革命

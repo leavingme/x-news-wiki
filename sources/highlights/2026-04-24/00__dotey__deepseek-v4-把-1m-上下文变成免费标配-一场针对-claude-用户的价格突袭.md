@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "DeepSeek V4 把 1M 上下文变成免费标配：一场针对 Claude 用户的价格突袭"
 description: "**一句话核心判断：DeepSeek V4 用「全员 1M 上下文」打出了最强的差异化定位，但真正值得关注的不是数字，是「主动承认与 Opus 4.6 思考模式的差距」这种发布姿态。**  • 1M 上下文不再区分版本和价位，全部官方服务标配——这是目前行业最激进的长上下文策略，直接冲击 Claude Opus 的百万 Token 收费模式。 • V4-Pro 推理能力追平顶级闭源模型，世界知识仅"
 resource: "https://x.com/i/status/2047513320094044673"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2047513320094044673"
+created: "2026-04-24"
+updated: "2026-06-26"
+sha256: "20d6f4ed19efac6179d50b00ca8fe4e4653e49b5696b522f0bc0839d0959cee2"
+sources:
+  - "/sources/highlights/2026-04-24/00__dotey__deepseek-v4-把-1m-上下文变成免费标配-一场针对-claude-用户的价格突袭.md"
 ---
 
 # DeepSeek V4 把 1M 上下文变成免费标配：一场针对 Claude 用户的价格突袭

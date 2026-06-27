@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "京东MoE训练全链路拆解：国产厂商终于开始啃工程硬骨头"
 description: "**一句话核心判断** 京东自研LLM用了Muon优化器、FiberPO RL、MTP投机解码、Prefill/Decode分离部署——这不只是在复刻开源方案，而是在每个节点上做工程差异化的堆料。  **要点** - MoE+MLA KV压缩+Muon优化器的组合拳，说明团队在Architecture和Training效率两条线上同时发力，不是简单的\"拿来主义\" - FiberPO RL是GRPO"
 resource: "https://x.com/i/status/2041174526852297100"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2041174526852297100"
+created: "2026-04-06"
+updated: "2026-06-26"
+sha256: "b7daf779f9a6aee86b6424d83252421c7597996f60a595fb22a51880b2f3e649"
+sources:
+  - "/sources/news/2026-04-19/00__linexjlin__京东moe训练全链路拆解-国产厂商终于开始啃工程硬骨头.md"
 ---
 
 # 京东MoE训练全链路拆解：国产厂商终于开始啃工程硬骨头

@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "宝玉：Claude Code /btw 与 /side 功能重叠，命名分化是工程洁癖还是用户认知税？"
 description: "**功能复用 + 命名分化 = 工具生态的认知负担正在累积。**  - 宝玉指出 Claude Code 的 /side 功能与已有 /btw 高度重叠，质疑命名分化的必要性 - 这不是个案——Agent 工具链正在经历\"功能膨胀期\"，每个框架都在用新名词包装已有能力 - 用户端的真实问题：当两个工具做同一件事但叫不同名字时，学习成本线性增加  gakki 锐评：工具命名的\"方言化\"是生态割裂的前"
 resource: "https://x.com/i/status/2050016917373469079"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2050016917373469079"
+created: "2026-05-01"
+updated: "2026-06-26"
+sha256: "b315e81e03486628526d41699b952e9812eddc9c77db0abc38d8408fc8efa269"
+sources:
+  - "/sources/news/2026-05-01/00__dotey__宝玉-claude-code-btw-与-side-功能重叠-命名分化是工程洁癖还是用户认知税.md"
 ---
 
 # 宝玉：Claude Code /btw 与 /side 功能重叠，命名分化是工程洁癖还是用户认知税？

@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Skill 工作流让『躺床 Coding』成为可能：AI 编程的物理边界正在消失"
 description: "**核心判断：Skill 化工作流正在将 AI 编程从桌面姿势中解放出来，这不仅是效率提升，更是人机协作界面的范式跃迁。**  - 向阳乔木演示了躺在床上用 ChatGPT Codex 开发 Suno 音乐播放器的完整链路 - 核心价值：Skill 将工具配置固化为可共享的行为单元，大幅降低环境依赖和姿势门槛 - 与『摇一摇即可调用』的 ChatGPT Plugin 逻辑同构，但更去中心化  **"
 resource: "https://x.com/i/status/2058362811122852341"
@@ -22,6 +22,13 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "skills-ecosystem-standards"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2058362811122852341"
+created: "2026-05-24"
+updated: "2026-06-26"
+sha256: "bb810fead362541f06140c365ae1eb75545b0e9b649dc07708126d5ca558be9d"
+sources:
+  - "/sources/news/2026-05-24/00__vista8__skill-工作流让-躺床-coding-成为可能-ai-编程的物理边界正在消失.md"
 ---
 
 # Skill 工作流让『躺床 Coding』成为可能：AI 编程的物理边界正在消失

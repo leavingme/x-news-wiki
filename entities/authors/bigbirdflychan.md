@@ -1,5 +1,5 @@
 ---
-type: "Author"
+type: "entity"
 title: "Pike时政财经分析 (@BigbirdflyChan)"
 description: "X/Twitter 作者 @BigbirdflyChan。共收录 1 条 AI 精选推文。"
 tags:
@@ -12,6 +12,12 @@ x_author_name: "Pike时政财经分析"
 x_tweet_count: 1
 x_first_seen: "2026-02-02T01:00:19.155Z"
 x_last_seen: "2026-02-02T01:00:19.155Z"
+type_okf: "Author"
+created: "2026-02-02"
+updated: "2026-06-26"
+sha256: "79778180212a357c90cb5e4ebffcacf435d470366717d3e58008aa4d4af8b3d1"
+sources:
+  - "/sources/news/2026-02-02/00__BigbirdflyChan__科技派-美联储主席人选-warsh-的-ai-生产力叙事.md"
 ---
 
 # Pike时政财经分析 (@BigbirdflyChan)

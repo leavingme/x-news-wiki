@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "数据清洗终结者：多校联合发布 Agentic 数据准备综述"
 description: "**[核心逻辑]** 范式转移：从硬编码规则转向通过自然语言理解复杂、凌乱数据集的智能工作流。"
 resource: "https://x.com/i/status/2023114085739487721"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2023114085739487721"
+created: "2026-02-15"
+updated: "2026-06-26"
+sha256: "6364b203bb9e732698447e6ea6a3501361074a4269e0b80c21ccb87ba0b50b90"
+sources:
+  - "/sources/highlights/2026-02-16/00__jiqizhixin__数据清洗终结者-多校联合发布-agentic-数据准备综述.md"
 ---
 
 # 数据清洗终结者：多校联合发布 Agentic 数据准备综述

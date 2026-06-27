@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "yetone 宣布某事成就达成，细节待补"
 description: "**[yetone 宣布某成果落地，链接指向待验证内容]**  仅一张截图配「成了」，具体成果尚不明确，需进一步跟进。  gakki：信息量不足，判断不了。但 yetone 属于 Agent 工具链实战派，他宣布的「成了」通常意味着某个技术路径被跑通——值得蹲一个后续。"
 resource: "https://x.com/i/status/2060372938180976843"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2060372938180976843"
+created: "2026-05-29"
+updated: "2026-06-26"
+sha256: "b9654e1b473341ac864f2b6483d92fb47be4cae421c33c845bfe1aba8f22c239"
+sources:
+  - "/sources/news/2026-05-29/00__yetone__yetone-宣布某事成就达成-细节待补.md"
 ---
 
 # yetone 宣布某事成就达成，细节待补

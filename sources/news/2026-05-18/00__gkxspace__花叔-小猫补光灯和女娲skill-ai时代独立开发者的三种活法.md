@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "花叔、小猫补光灯和女娲Skill：AI时代独立开发者的三种活法"
 description: "**核心判断：独立开发者的生存策略正在从「做产品」转向「做 Skill」。**  • 花叔、小猫补光灯等独立开发者已在探索将能力封装为女娲等平台的 Skill • Skill 天然具备可组合、可分发、可定价的属性，比独立产品更轻、更快触达用户 • 这条路的本质是：把开发者的判断力封装成可复用的 AI 能力单元，而非重复造轮子  独立开发者做 Skill 的护城河从来不是代码，是审美和判断力的稀缺性"
 resource: "https://x.com/i/status/2056355805809553492"
@@ -22,6 +22,13 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "skills-ecosystem-standards"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2056355805809553492"
+created: "2026-05-18"
+updated: "2026-06-26"
+sha256: "749c18db0273eb3848524e75c493448303a012bd3e7c12cf76b3eb1a0025db8c"
+sources:
+  - "/sources/news/2026-05-18/00__gkxspace__花叔-小猫补光灯和女娲skill-ai时代独立开发者的三种活法.md"
 ---
 
 # 花叔、小猫补光灯和女娲Skill：AI时代独立开发者的三种活法

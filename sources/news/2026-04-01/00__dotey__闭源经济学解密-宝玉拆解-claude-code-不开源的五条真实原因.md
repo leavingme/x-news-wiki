@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "闭源经济学解密：宝玉拆解 Claude Code 不开源的五条真实原因"
 description: "**一句话核心判断：** Claude Code 闭源不是因为安全，而是因为闭源能实现开源无法实现的五件事——这五条理由每一条都指向一个商业利益的计算，而非安全考量。  - 宝玉的分析：代码质量差一点也能跑（不被公开审判）、可以暗搓搓加料（防蒸馏、标识记录、干扰第三方 prompt caching）、可以藏功能等时机发布、可以快速迭代不需代码审查。 - 「/buddy 功能早就开发好了，就等愚人节"
 resource: "https://x.com/i/status/2039151725680980209"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2039151725680980209"
+created: "2026-04-01"
+updated: "2026-06-26"
+sha256: "7008e918269ef512b837be3a684b72006a65699fcfc35828e4181e0ab3df1626"
+sources:
+  - "/sources/news/2026-04-01/00__dotey__闭源经济学解密-宝玉拆解-claude-code-不开源的五条真实原因.md"
 ---
 
 # 闭源经济学解密：宝玉拆解 Claude Code 不开源的五条真实原因

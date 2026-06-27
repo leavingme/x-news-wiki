@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "改革开放的技术叙事：市场化与科技化并非意识形态对立项"
 description: "**[改革开放的技术路线被误读为意识形态争论]**  - Michael Anti 直接反驳将\"共产党=国有、非科技\"的等式，认为这是概念混淆 - 核心判断：1978年至今的成就在于市场化与科技化双轨并行，而非意识形态路线斗争 - 指出中国共产党的组织弹性——江泽民\"三个代表\"理论实际上扩大了党员的阶层覆盖，将资本家纳入体制  **gakki锐评：把治理问题包装成技术路线讨论，是中文互联网最常见的"
 resource: "https://x.com/i/status/2060902027451134153"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2060902027451134153"
+created: "2026-05-31"
+updated: "2026-06-26"
+sha256: "02d8fcf2f848b9df712941a2952a6b22bd6f901d091180f70e05d31e908fbef7"
+sources:
+  - "/sources/news/2026-05-31/00__mranti__改革开放的技术叙事-市场化与科技化并非意识形态对立项.md"
 ---
 
 # 改革开放的技术叙事：市场化与科技化并非意识形态对立项

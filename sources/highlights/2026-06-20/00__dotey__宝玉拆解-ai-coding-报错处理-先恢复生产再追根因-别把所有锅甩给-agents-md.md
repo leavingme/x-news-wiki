@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "宝玉拆解 AI Coding 报错处理：先恢复生产再追根因，别把所有锅甩给 AGENTS.md"
 description: "**[AI Coding 报错处理不应一上来就改 AGENTS.md，要先按\"恢复生产→找根因→对症下药\"的工程顺序走]**  - 三层顺序：恢复生产（回滚/补丁 + 保留日志现场）→ 追 Root Cause（区分逻辑错误、边界条件缺失、需求理解偏差）→ 对症下药 - 预防手段必须随根因变化：边界条件→补测试用例；架构缺陷→重构；Review 漏洞→改流程；只有 AI 对项目特有约定缺乏了解时才"
 resource: "https://x.com/i/status/2068231396015890449"
@@ -22,6 +22,13 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "ai-engineering-discipline-bottleneck"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2068231396015890449"
+created: "2026-06-20"
+updated: "2026-06-26"
+sha256: "a61d9ba2043739ceba34734ea84c71bf116dcda4bb7f282c8540c1f6afb0907f"
+sources:
+  - "/sources/highlights/2026-06-20/00__dotey__宝玉拆解-ai-coding-报错处理-先恢复生产再追根因-别把所有锅甩给-agents-md.md"
 ---
 
 # 宝玉拆解 AI Coding 报错处理：先恢复生产再追根因，别把所有锅甩给 AGENTS.md

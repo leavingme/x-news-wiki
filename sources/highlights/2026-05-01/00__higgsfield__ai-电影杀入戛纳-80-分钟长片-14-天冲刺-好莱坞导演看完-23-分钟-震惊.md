@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "AI 电影杀入戛纳：80 分钟长片 + 14 天冲刺，好莱坞导演看完 23 分钟「震惊」"
 description: "**AI 内容生产正式冲击传统电影工业的最高殿堂。**  - Higgsfield AI 携 80 分钟 AI 长片《Hell Grind》入围戛纳，14 天完成制作，消耗 10M credits - 《变相怪杰》导演 Chuck Russell 观看 23 分钟后「visibly stunned」——这是好莱坞一线创作者对 AI 电影的首次公开正面反馈 - 不是短片、不是 demo、不是 MV，"
 resource: "https://x.com/higgsfield/status/2050207709874589968"
@@ -22,6 +22,13 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "ai-short-drama-industrialization"
 x_source: "ai-trend-digest"
+type_okf: "X Tweet"
+source_url: "https://x.com/higgsfield/status/2050207709874589968"
+created: "2026-05-01"
+updated: "2026-06-26"
+sha256: "f7e1225fe953fd6c612db43cdd3fb7cd1407b3ae14804e1bb98ad09f7182c481"
+sources:
+  - "/sources/highlights/2026-05-01/00__higgsfield__ai-电影杀入戛纳-80-分钟长片-14-天冲刺-好莱坞导演看完-23-分钟-震惊.md"
 ---
 
 # AI 电影杀入戛纳：80 分钟长片 + 14 天冲刺，好莱坞导演看完 23 分钟「震惊」

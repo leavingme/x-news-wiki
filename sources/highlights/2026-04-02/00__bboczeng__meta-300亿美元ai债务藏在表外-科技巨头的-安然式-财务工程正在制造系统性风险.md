@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Meta 300亿美元AI债务藏在表外：科技巨头的「安然式」财务工程正在制造系统性风险"
 description: "**[大厂债务隐性化正在制造下一个信贷炸弹]**  Meta通过SPV结构向Blue Owl Capital隐藏300亿美元AI数据中心债务，摩根士丹利估算到2028年科技公司表外举债规模将达8000亿美元，季度增速1000亿美元。xAI正在推进200亿美元SPV交易，唯一敞口是通过5年租约向Nvidia支付芯片租金。谷歌则为加密矿企数据中心债务提供担保并记作信用衍生品。  这不是AI故事，是信贷"
 resource: "https://x.com/i/status/1986303301831577719"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/1986303301831577719"
+created: "2025-11-06"
+updated: "2026-06-26"
+sha256: "f590a5259850075159a6931a351f6bfb1ccff8259f951b85e6ca50813014466f"
+sources:
+  - "/sources/highlights/2026-04-02/00__bboczeng__meta-300亿美元ai债务藏在表外-科技巨头的-安然式-财务工程正在制造系统性风险.md"
 ---
 
 # Meta 300亿美元AI债务藏在表外：科技巨头的「安然式」财务工程正在制造系统性风险

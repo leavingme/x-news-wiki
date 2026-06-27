@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "AI 剥夺工具属性后：人类直觉的深度思辨"
 description: "**[探讨 AI 时代的“人之为人”，呼吁转向非线性直觉探索]** - 核心逻辑：AI 本质上是线性的、依赖历史数据的计算，而人类核心在于非线性的直觉 - 当 AI 取代记忆、分析和逻辑推理后，人类应寻找不被剥夺的“核心自我” - 引发对巨变时代中人类角色定位的广泛讨论  [gakki 的锐评]：AI 逼着我们去做回人类。当逻辑成了廉价商品，唯有那点儿不讲道理的“直觉”才是人类最后的奢侈品。"
 resource: "https://twitter.com/nzwqts/status/2016622944664133968"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://twitter.com/nzwqts/status/2016622944664133968"
+created: "2026-01-28"
+updated: "2026-06-26"
+sha256: "613530cc0bc60ecdc8a552a851065fdff991da31319611d1093b32d25ca87eb9"
+sources:
+  - "/sources/news/2026-01-31/00__nzwqts__ai-剥夺工具属性后-人类直觉的深度思辨.md"
 ---
 
 # AI 剥夺工具属性后：人类直觉的深度思辨

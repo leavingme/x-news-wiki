@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "为什么是「harness产品经理」而不是「harness工程师」？"
 description: "**[工具哲学的终极追问：谁在驾驭谁？]**  Orange AI提出一个反直觉的产品问题：harness这个岗位为什么叫「产品经理」而非「工程师」？  这个提问暗含一个深层逻辑——harness的本质不是写代码，而是定义「人与AI之间的边界在哪里」，这是一种产品决策而非技术实现。  gakki：当一个岗位的title从「工程师」变成「产品经理」，意味着这个行业终于承认：真正稀缺的不是执行能力，而"
 resource: "https://x.com/i/status/2057277103884906587"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2057277103884906587"
+created: "2026-05-21"
+updated: "2026-06-26"
+sha256: "be1f0c651ab4346145dff4d32dbf2705190ff9b0af6a6e1d1b627621ce042cf5"
+sources:
+  - "/sources/news/2026-05-21/00__oran_ge__为什么是-harness产品经理-而不是-harness工程师.md"
 ---
 
 # 为什么是「harness产品经理」而不是「harness工程师」？

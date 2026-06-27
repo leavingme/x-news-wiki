@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "AI 公司全面亏损成定局：Anthropic 年收 300 亿美元仍不盈利，订阅涨价只是时间问题"
 description: "**[一句话核心判断]** 即使强如 Anthropic（年化收入 300 亿美元），依然无法覆盖大模型训练成本。ChatGPT 近 9 亿周活仅 5% 付费，这个结构性问题决定了 AI 订阅涨价不是阴谋，而是数学上的必然。  **信息增量：** - OpenAI、Anthropic、Google Gemini 全部尚未盈利，且 pro 订阅价还要翻倍 - ChatGPT 周活 9 亿，但付费转化"
 resource: "https://x.com/i/status/2042790546285170739"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2042790546285170739"
+created: "2026-04-11"
+updated: "2026-06-26"
+sha256: "69c668383258d07931836693a3810426cca2fd10b5b32c3c4e815df9e0d8b41e"
+sources:
+  - "/sources/highlights/2026-04-11/00__web3annie__ai-公司全面亏损成定局-anthropic-年收-300-亿美元仍不盈利-订阅涨价只是时间问题.md"
 ---
 
 # AI 公司全面亏损成定局：Anthropic 年收 300 亿美元仍不盈利，订阅涨价只是时间问题

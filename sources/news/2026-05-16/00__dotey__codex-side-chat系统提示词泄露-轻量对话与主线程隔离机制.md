@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Codex Side Chat系统提示词泄露：轻量对话与主线程隔离机制"
 description: "**[Side Chat的隔离设计揭示了多任务Agent的核心工程挑战]**  Codex Side Chat的系统提示词流出，核心逻辑是\"不干扰主线程的轻量探索\"——子对话有自己的上下文历史，但不能继承主任务的活跃指令。  这暴露了一个重要产品设计选择：多Agent协作时，上下文继承 vs 上下文隔离之间的边界在哪里。Side Chat选择了严格隔离，只在\"参考上下文\"层面提供历史引用。  这个"
 resource: "https://x.com/i/status/2055551934317122014"
@@ -22,6 +22,13 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "claude-code-ecosystem"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2055551934317122014"
+created: "2026-05-16"
+updated: "2026-06-26"
+sha256: "9e2d35af6b979a1c52d78df9c853e0a353abd162ccf19c71f48a516f48c24eb7"
+sources:
+  - "/sources/news/2026-05-16/00__dotey__codex-side-chat系统提示词泄露-轻量对话与主线程隔离机制.md"
 ---
 
 # Codex Side Chat系统提示词泄露：轻量对话与主线程隔离机制

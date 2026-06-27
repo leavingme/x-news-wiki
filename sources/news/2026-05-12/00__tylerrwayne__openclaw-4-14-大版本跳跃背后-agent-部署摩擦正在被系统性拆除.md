@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "OpenClaw 4.14 大版本跳跃背后：Agent 部署摩擦正在被系统性拆除"
 description: "**[一句话核心判断]**  OpenClaw 从 4.x 直接发 4.14，版本号跳跃背后是 Agent 部署摩擦被系统性拆除的信号——setup pain 不再是行业默契的痛，而是被拿出来公开\"杀掉\"的靶子。  **信息增量：** - \"Everyone's building AI agents. Nobody's talking about how painful the setup act"
 resource: "https://x.com/tylerrwayne/status/2054220482388672843"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "ai-trend-digest"
+type_okf: "X Tweet"
+source_url: "https://x.com/tylerrwayne/status/2054220482388672843"
+created: "2026-05-12"
+updated: "2026-06-26"
+sha256: "bd131952e7ef8e3c5d5d82bae8df274a952ac25e9d579f8eb05a9ad445c3cfc3"
+sources:
+  - "/sources/news/2026-05-12/00__tylerrwayne__openclaw-4-14-大版本跳跃背后-agent-部署摩擦正在被系统性拆除.md"
 ---
 
 # OpenClaw 4.14 大版本跳跃背后：Agent 部署摩擦正在被系统性拆除

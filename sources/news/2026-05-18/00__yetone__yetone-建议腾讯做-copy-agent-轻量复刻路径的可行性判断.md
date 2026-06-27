@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "yetone 建议腾讯做 Copy Agent：轻量复刻路径的可行性判断"
 description: "**一句话核心判断：Copy Agent 作为产品形态的可行性已经被市场初步验证，但腾讯做它的独特优势是数据壁垒而非技术。**  - yetone 建议腾讯做\"Copy Agent\"（轻量级内容复刻/改写 Agent） - 隐含前提：这类工具在微信/公众号生态里有天然需求——从竞品内容快速改写适配到多账号分发 - 腾讯可能的差异化路径：基于微信公众号数据的私域内容理解，而非通用内容改写  **ga"
 resource: "https://x.com/i/status/2056409163987882228"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2056409163987882228"
+created: "2026-05-18"
+updated: "2026-06-26"
+sha256: "6885eaf0a789326e7d0ae59449a5d1a2715c1245c314d969a6c603902b6b0d6e"
+sources:
+  - "/sources/news/2026-05-18/00__yetone__yetone-建议腾讯做-copy-agent-轻量复刻路径的可行性判断.md"
 ---
 
 # yetone 建议腾讯做 Copy Agent：轻量复刻路径的可行性判断

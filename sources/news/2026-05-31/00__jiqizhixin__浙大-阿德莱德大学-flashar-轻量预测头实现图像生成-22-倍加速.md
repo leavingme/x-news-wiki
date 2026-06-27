@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "浙大+阿德莱德大学 FlashAR：轻量预测头实现图像生成 22 倍加速"
 description: "**一句话核心判断** 现有自回归图像生成模型无需重训练，通过追加轻量垂直预测头实现并行双向 token 预测，512×512 生成速度提升最高 22.9 倍，仅增加 0.05% 参数量。  **要点** - 核心创新：垂直预测头（vertical prediction head）动态组合水平+垂直预测，保持原始训练目标不变 - 加速比：22.9 倍（512×512），远超同期扩散模型优化方案 -"
 resource: "https://x.com/i/status/2061157010121617743"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2061157010121617743"
+created: "2026-05-31"
+updated: "2026-06-26"
+sha256: "18e6d0f8a49cf97353c4c18ac9cb20c1295a82999ff392cd368b69599260164a"
+sources:
+  - "/sources/news/2026-05-31/00__jiqizhixin__浙大-阿德莱德大学-flashar-轻量预测头实现图像生成-22-倍加速.md"
 ---
 
 # 浙大+阿德莱德大学 FlashAR：轻量预测头实现图像生成 22 倍加速

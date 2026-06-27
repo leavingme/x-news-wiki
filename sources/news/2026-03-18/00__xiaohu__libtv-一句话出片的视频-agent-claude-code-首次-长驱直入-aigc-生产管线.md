@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "LibTV：一句话出片的视频 Agent，Claude Code 首次「长驱直入」AIGC 生产管线"
 description: "**[Agent 接管内容生产最后一环]** • 无限画布节点编排 + Claude Code Skill 接口，实现「剧本→节点搭建→成片」全自动闭环 • 首次将视频生成的「创意层」与「工程层」解耦：人类提创意，Agent 做编排 • 关键突破：Skill 让 Claude Code 能直接驱动专业视频工作流，无需人肉复制粘贴  这意味着 AIGC 工具从「单点生成」迈向「端到端生产」，Clau"
 resource: "https://x.com/i/status/2034207007151153280"
@@ -22,6 +22,13 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "claude-code-multimodal-interaction"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2034207007151153280"
+created: "2026-03-18"
+updated: "2026-06-26"
+sha256: "2f0423d21cd5908405603431629432f17b134e899793000f71883a15f16b011f"
+sources:
+  - "/sources/news/2026-03-18/00__xiaohu__libtv-一句话出片的视频-agent-claude-code-首次-长驱直入-aigc-生产管线.md"
 ---
 
 # LibTV：一句话出片的视频 Agent，Claude Code 首次「长驱直入」AIGC 生产管线

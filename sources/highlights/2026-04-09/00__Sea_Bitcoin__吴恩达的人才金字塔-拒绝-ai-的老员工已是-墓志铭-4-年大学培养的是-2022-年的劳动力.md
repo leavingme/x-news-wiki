@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "吴恩达的人才金字塔：拒绝 AI 的老员工已是「墓志铭」，4 年大学培养的是 2022 年的劳动力"
 description: "**[AI 时代人才金字塔已成型，拒绝使用 AI 者正在成为「即将消失的物种」]**  吴恩达在论坛中提出 AI 时代人才四层金字塔： - Tier 1（最贵）：行业老兵 + 擅用 AI，既懂业务又能极速执行 - Tier 2（性价比最高）：应届生 + 精通 AI，生产力能吊打不用 AI 的老员工 - Tier 3（最危险）：老员工「凭经验搞定」，吴恩达明确表示「绝不会再雇佣这样的人」 - Tie"
 resource: "https://x.com/i/status/2038889989392761243"
@@ -22,6 +22,13 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "ai-hiring-class-system"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2038889989392761243"
+created: "2026-03-31"
+updated: "2026-06-26"
+sha256: "8f4033657a5cdeb3dffe47398e5d55cf4a9ce6f385ba41d5916597cf855c0e6e"
+sources:
+  - "/sources/highlights/2026-04-09/00__Sea_Bitcoin__吴恩达的人才金字塔-拒绝-ai-的老员工已是-墓志铭-4-年大学培养的是-2022-年的劳动力.md"
 ---
 
 # 吴恩达的人才金字塔：拒绝 AI 的老员工已是「墓志铭」，4 年大学培养的是 2022 年的劳动力

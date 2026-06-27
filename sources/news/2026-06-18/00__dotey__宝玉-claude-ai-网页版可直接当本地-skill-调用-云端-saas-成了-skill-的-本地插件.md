@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "宝玉：Claude.ai 网页版可直接当本地 Skill 调用——云端 SaaS 成了 Skill 的「本地插件」"
 description: "宝玉实测发现 Claude.ai 网页版本身可作为本地 Skill 复用，反转了「本地 Skill 调用云端」的常规路径。  • 调用方向被打破：传统是本地 Agent → 调云端 API，宝玉发现云端 Chat 产品（Claude.ai）反向被当成本地 Skill 直接挂载。 • 套利空间：SaaS 厂商投入巨大做的 web 产品（Canvas / Artifacts / 文件上传等），被第三方"
 resource: "https://x.com/i/status/2067432062873673914"
@@ -22,6 +22,13 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "skill-vs-mcp-paradigm"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2067432062873673914"
+created: "2026-06-18"
+updated: "2026-06-26"
+sha256: "476280f05dd5a3618ab18c2a6023e2505ae3629bba4b066cb3cbb62f2c5ebfa0"
+sources:
+  - "/sources/news/2026-06-18/00__dotey__宝玉-claude-ai-网页版可直接当本地-skill-调用-云端-saas-成了-skill-的-本地插件.md"
 ---
 
 # 宝玉：Claude.ai 网页版可直接当本地 Skill 调用——云端 SaaS 成了 Skill 的「本地插件」

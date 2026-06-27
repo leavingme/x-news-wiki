@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "GitHub Copilot CLI 转向「克制」：Sub-Agent 委派不是免费的"
 description: "**[一句话核心判断]** GitHub 官方发文确认 Copilot CLI 的演化方向不是「更会写代码」而是「更少乱派活」，这与当前多 Agent 框架追求「角色分工」的潮流形成正面冲突。  - **核心论点**：「delegation isn't free」——每一次委派都伴随协调成本、工具调用、等待时间与误解空间，简单的改文案任务拆给三个子 Agent 会从一步变三步 - 现象批判：开发者"
 resource: "https://x.com/i/status/2066208856334643324"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2066208856334643324"
+created: "2026-06-14"
+updated: "2026-06-26"
+sha256: "22363b98221bc6026f62c7806be845695eb8aa25f55d22a97ca149503a5b2bc0"
+sources:
+  - "/sources/highlights/2026-06-14/00__Zesee__github-copilot-cli-转向-克制-sub-agent-委派不是免费的.md"
 ---
 
 # GitHub Copilot CLI 转向「克制」：Sub-Agent 委派不是免费的

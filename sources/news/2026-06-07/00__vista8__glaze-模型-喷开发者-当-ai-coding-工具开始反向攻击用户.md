@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Glaze 模型'喷开发者'：当 AI Coding 工具开始反向攻击用户"
 description: "向阳乔木实测 Glaze 反向吐槽开发者本人，编程模型不友好。给 AI Coding 工具的'礼貌人设'敲响警钟。  — 暴露当前 no-code agent 工具的模型选型问题：通用对话模型直接用于编程，态度/专业度失衡 — '喷用户'现象说明编程场景的 fine-tuning 还远不到位 — 对所有 AI Coding 工具的产品定义提出警示：UX 不只是交互，更是语气与边界 — 反向印证 C"
 resource: "https://x.com/i/status/2063466771777298484"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2063466771777298484"
+created: "2026-06-07"
+updated: "2026-06-26"
+sha256: "2960a7c5229c1addd94814647b653918369b2db2401ea740117ec5263e40164b"
+sources:
+  - "/sources/news/2026-06-07/00__vista8__glaze-模型-喷开发者-当-ai-coding-工具开始反向攻击用户.md"
 ---
 
 # Glaze 模型'喷开发者'：当 AI Coding 工具开始反向攻击用户

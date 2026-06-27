@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Gemini Flash 3.5：价格1/3、速度4倍的Agent专用模型正式上线"
 description: "**一句话核心判断：Gemini Flash 3.5以极致性价比切入Agent赛道，1M上下文+缓存成本GPT-5.5的1/6，正式宣告推理侧进入\"够用且便宜\"阶段。**  - 性能指标逼近GPT-5.5，Agentic和多模态能力是明显长板，弥补了Google过往在工具调用场景的短板 - 输入$1.5/M输出$9/M，缓存仅$0.15/M，价格战刀刀见骨，对所有推理API提供商形成压力 - 4倍"
 resource: "https://x.com/i/status/2056860218387321054"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2056860218387321054"
+created: "2026-05-19"
+updated: "2026-06-26"
+sha256: "a5d17569d651429eece559f1d5ea84d534f02187c7d8da4a36798e0c0e03129b"
+sources:
+  - "/sources/news/2026-05-19/00__oran_ge__gemini-flash-3-5-价格1-3-速度4倍的agent专用模型正式上线.md"
 ---
 
 # Gemini Flash 3.5：价格1/3、速度4倍的Agent专用模型正式上线

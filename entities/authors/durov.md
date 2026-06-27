@@ -1,5 +1,5 @@
 ---
-type: "Author"
+type: "entity"
 title: "Pavel Durov (@durov)"
 description: "X/Twitter 作者 @durov。共收录 2 条 AI 精选推文。"
 tags:
@@ -12,6 +12,13 @@ x_author_name: "Pavel Durov"
 x_tweet_count: 2
 x_first_seen: "2026-05-04T16:18:02.806Z"
 x_last_seen: "2026-05-08T01:18:06.660Z"
+type_okf: "Author"
+created: "2026-05-04"
+updated: "2026-06-26"
+sha256: "d447ba69737b3432603abeeaadcbf65058d144329e9fa33c5b6b4c887e4bead6"
+sources:
+  - "/sources/highlights/2026-05-04/00__durov__telegram-亲自下场接管-ton-从赞助方变最大验证者-费用降-6-倍.md"
+  - "/sources/news/2026-05-08/00__durov__telegram-大版本更新-10-重大功能-agent-生态基础设施悄然加固.md"
 ---
 
 # Pavel Durov (@durov)

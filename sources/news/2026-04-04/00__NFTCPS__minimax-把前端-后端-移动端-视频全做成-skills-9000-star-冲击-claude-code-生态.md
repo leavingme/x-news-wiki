@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "MiniMax 把前端/后端/移动端/视频全做成 Skills，9000+ Star 冲击 Claude Code 生态"
 description: "**[技能包商品化浪潮：AI Coding 的「乐高化」正在加速]**  MiniMax 开源了一套 14 个 AI Skills 集合，覆盖开发类（React/Next.js 全栈、Kotlin、Android、Flutter、React Native）、创意类（Shader）等场景，已获 9000+ Star，且可直装进 Claude Code、Cursor、Codex 使用。  这背后是 A"
 resource: "https://x.com/i/status/2039999650493874603"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2039999650493874603"
+created: "2026-04-03"
+updated: "2026-06-26"
+sha256: "b1a721ba396dcab124a235e0ae69c31df08ce0bccf7fb1f1204f68baae0176e1"
+sources:
+  - "/sources/news/2026-04-04/00__NFTCPS__minimax-把前端-后端-移动端-视频全做成-skills-9000-star-冲击-claude-code-生态.md"
 ---
 
 # MiniMax 把前端/后端/移动端/视频全做成 Skills，9000+ Star 冲击 Claude Code 生态

@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Claude Code的/btw机制：单循环Agent如何实现「插嘴模式」"
 description: "**[交互范式突破]** /btw在不破坏ReAct单循环简洁性的前提下，通过「降级调用」（无工具、单次响应）实现轻量级侧信道交互——这是sub-agent的「逆运算」。  **信息增量：** • 该功能最早出现于2025年12月二进制中（v2.0.73），2026年3月正式完善 • /btw能看到完整对话上下文，但无工具访问权限，形成「只读并行认知」 • 为长任务执行中的即时干预提供了优雅的架构"
 resource: "https://x.com/i/status/2031737194910761396"
@@ -22,6 +22,13 @@ x_selected: 2
 x_priority: 88
 x_related_topic: "claude-code-ecosystem"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2031737194910761396"
+created: "2026-03-11"
+updated: "2026-06-26"
+sha256: "e188ccd34fd3c2fc3b33eaa7d34ab0b1789b9c906778ba394462fcfbd32720c9"
+sources:
+  - "/sources/highlights/2026-03-12/88__blackanger__claude-code的-btw机制-单循环agent如何实现-插嘴模式.md"
 ---
 
 # Claude Code的/btw机制：单循环Agent如何实现「插嘴模式」

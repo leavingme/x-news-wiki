@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Claude写下80% Anthropic 代码：AI造 AI 已经悄悄过临界点"
 description: "**Claude Code 发布15 个月后，Anthropic内部代码贡献比例从个位数飙到80%——\"AI 生产 AI\"不再是一句口号，而是可量化的工程现实。**  -截至2026 年5 月，Anthropic合并进主干的代码超过80% 由 Claude撰写 -2025 年2 月 Claude Code 发布前这一比例仅个位数，斜率极陡 - \"AI工具不可逆体验\"的最强样本：亲手造出 Claud"
 resource: "https://x.com/i/status/2063801609042427972"
@@ -22,6 +22,13 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "claude-code-ecosystem"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2063801609042427972"
+created: "2026-06-08"
+updated: "2026-06-26"
+sha256: "e98a6b8c4e4c483516f4d006c536fe182a0f94e5301e0d227a7c93bd4df7e548"
+sources:
+  - "/sources/highlights/2026-06-08/00__xiaohu__claude写下80-anthropic-代码-ai造-ai-已经悄悄过临界点.md"
 ---
 
 # Claude写下80% Anthropic 代码：AI造 AI 已经悄悄过临界点

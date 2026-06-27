@@ -1,5 +1,5 @@
 ---
-type: "Concept"
+type: "concept"
 title: "ai-coding-reverse-engineering"
 description: "跨日主题 \"ai-coding-reverse-engineering\"，共 3 条相关精选推文。"
 tags:
@@ -11,6 +11,14 @@ x_topic_slug: "ai-coding-reverse-engineering"
 x_tweet_count: 3
 x_first_seen: "2026-04-29T16:19:06.061Z"
 x_last_seen: "2026-06-16T04:18:54.926Z"
+type_okf: "Concept"
+created: "2026-04-29"
+updated: "2026-06-26"
+sha256: "d7ade1fcbfd703bc3901acdd55af7de7bf4c79e167b0d39046d577e57f898066"
+sources:
+  - "/sources/news/2026-04-29/00__vista8__截图-html-工作流-deepseek-正在成为-所见即所得-逆向生成器.md"
+  - "/sources/news/2026-06-14/00__dotey__ai-逆向工程并非万能-编译型语言-swift-比脚本语言-js-难啃一个量级.md"
+  - "/sources/news/2026-06-16/00__dotey__宝玉用-codex-反编译-codex-app-源码-ai-逆向工程从黑产工具变成日常能力.md"
 ---
 
 # 主题: ai-coding-reverse-engineering

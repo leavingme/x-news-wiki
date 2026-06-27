@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Orange AI提出AGI的自证预言悖论：信仰本身是否是实现的必要条件？"
 description: "**[「只有相信AGI才能实现AGI」——这不是技术判断，是认知经济学的结构性描述]** - Orange AI将AGI研发重新框定为人类集体信念的自证预言机制 - 隐含逻辑：资本流向、人才选择、政策倾斜都以「AGI可达」为前提，不相信者自动退出资源配置 - 这与Dario Amodei、Hassabis等人的公开表态形成共振——AGI叙事正在从技术愿景变为产业基础设施  锐评：这句话的真正锋利之"
 resource: "https://x.com/i/status/2053592584262717661"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2053592584262717661"
+created: "2026-05-10"
+updated: "2026-06-26"
+sha256: "9bd1025a813cd074c37da11409ce43048a312b4da5203db26a7aa4b0b2ca212b"
+sources:
+  - "/sources/news/2026-05-10/00__oran_ge__orange-ai提出agi的自证预言悖论-信仰本身是否是实现的必要条件.md"
 ---
 
 # Orange AI提出AGI的自证预言悖论：信仰本身是否是实现的必要条件？

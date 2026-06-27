@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "ListenHub 一周年复盘：细分赛道「小而美」产品如何活过淘汰赛"
 description: "**【一句话核心判断】** AI 播客工具全线溃败只有 ListenHub 存活，这不完全是产品好，而是创始人做了正确的时间判断和现金管理。  **要点：** - AI 播客赛道已死，竞品全部消失，ListenHub 是唯一健康活下来的 - ColaOS 1.0 即将发布，听觉 OS 概念正在从工具升级为平台 - 「一口一口吃饭、一步一步走路」——创始人反思说明 2024 年 AI 创业的「快」字"
 resource: "https://x.com/i/status/2056558371076256198"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2056558371076256198"
+created: "2026-05-19"
+updated: "2026-06-26"
+sha256: "540bcc1c9104d4d5618d01d3e58795da6fab0cd7593fc0e4eaf0e3b9eb33c890"
+sources:
+  - "/sources/news/2026-05-19/00__oran_ge__listenhub-一周年复盘-细分赛道-小而美-产品如何活过淘汰赛.md"
 ---
 
 # ListenHub 一周年复盘：细分赛道「小而美」产品如何活过淘汰赛

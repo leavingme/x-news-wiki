@@ -1,5 +1,5 @@
 ---
-type: "Author"
+type: "entity"
 title: "onevcat (@onevcat)"
 description: "X/Twitter 作者 @onevcat。共收录 1 条 AI 精选推文。"
 tags:
@@ -12,6 +12,12 @@ x_author_name: "onevcat"
 x_tweet_count: 1
 x_first_seen: "2026-04-15T00:44:45.955Z"
 x_last_seen: "2026-04-15T00:44:45.955Z"
+type_okf: "Author"
+created: "2026-04-15"
+updated: "2026-06-26"
+sha256: "2e09b980e1a5a5231f064f4d29290859964c7f4393e681df16c6692a41add4a7"
+sources:
+  - "/sources/news/2026-04-15/00__onevcat__argue开源-一个让多agent-真辩论-而非-复读机-的工具-代码审查进入多方审议时代.md"
 ---
 
 # onevcat (@onevcat)

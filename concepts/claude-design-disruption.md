@@ -1,5 +1,5 @@
 ---
-type: "Concept"
+type: "concept"
 title: "claude-design-disruption"
 description: "跨日主题 \"claude-design-disruption\"，共 10 条相关精选推文。"
 tags:
@@ -11,6 +11,21 @@ x_topic_slug: "claude-design-disruption"
 x_tweet_count: 10
 x_first_seen: "2026-04-26T22:17:29.223Z"
 x_last_seen: "2026-06-18T01:18:58.250Z"
+type_okf: "Concept"
+created: "2026-04-26"
+updated: "2026-06-26"
+sha256: "0bda0544c8d122c6d2c84a1e60442081c3bc8670c455812e0884f585be33872f"
+sources:
+  - "/sources/highlights/2026-06-07/00__dotey__claude-design-用-protobuf-替代-json-协议层省流量-schema-藏在客户端-js.md"
+  - "/sources/highlights/2026-06-11/00__dotey__宝玉科普-claude-design-早支持-claude-md-多数设计师还没用上.md"
+  - "/sources/highlights/2026-06-14/00__dotey__宝玉定调-ai-设计工具终局-claude-design-即将并入-claude-desktop-codex-desig.md"
+  - "/sources/highlights/2026-06-14/00__dotey__宝玉实操claude-design-code-git-diff-做桥梁-一句话完成-swift-ui-同步.md"
+  - "/sources/highlights/2026-06-18/00__xiaohu__claude-code-claude-design-双向打通-ai-读懂-设计系统后-设计外包时代正式落幕.md"
+  - "/sources/news/2026-04-26/00__liu8in__claude-design-原生支持-hyperframes-ai-设计工具首次打通-运动设计-环节.md"
+  - "/sources/news/2026-06-07/00__dotey__claude-design-桌面端独立运行-脱离网页依赖-opus-4-8-体验最佳-设计系统导入在路上.md"
+  - "/sources/news/2026-06-07/00__dotey__宝玉定调-claude-design-ds-才是入场券-ui-自动化让位-ux-设计.md"
+  - "/sources/news/2026-06-10/00__dotey__宝玉-claude-design-实战五条-用-adobe-spectrum-2-压住-ai-味.md"
+  - "/sources/news/2026-06-10/00__dotey__宝玉拆解-claude-design-架构-本质是浏览器-vm-上跑的完整-agent-harness.md"
 ---
 
 # 主题: claude-design-disruption

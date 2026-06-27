@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "飞书CLI开源：中国协作平台的Agent-Native转折"
 description: "**[飞书率先将核心业务能力全面CLI化，等于向所有Agent敞开了大门]**  • 11个业务域、200+命令全量开放，日历/文档/消息/任务皆可命令调用 • 标志着中国企业软件从GUI向Agent-Native架构的战略迁移 • 与Claude Code/Codex的潜在组合，可能诞生比「小龙虾」更强大的飞书原生Agent体验  飞书这次走在了钉钉和企业微信前面——当美国还在吵MCP协议时，中"
 resource: "https://x.com/i/status/2037897720980197491"
@@ -22,6 +22,13 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "agent-native-paradigm"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2037897720980197491"
+created: "2026-03-28"
+updated: "2026-06-26"
+sha256: "56dd50b375e8b619a9561cb804612d658516dbf4b55915c24d654ac1634069d6"
+sources:
+  - "/sources/highlights/2026-03-28/00__xiaohu__飞书cli开源-中国协作平台的agent-native转折.md"
 ---
 
 # 飞书CLI开源：中国协作平台的Agent-Native转折

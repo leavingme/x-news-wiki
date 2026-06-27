@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "DeepSeek V4 Pro 几轮对话生成 Xbox 手柄控制工具：端侧 Agent 的「遥控器化」趋势"
 description: "**DeepSeek V4 Pro 在几轮对话内实现 Xbox 手柄控制电脑应用和浏览器的工具，展示了模型实用化落地速度。**  - 躺床上用手柄刷小说、看视频——低门槛的「物理交互 Agent」场景 - 几轮对话即交付可用工具，印证了 Vibe Coding 在日常生活场景的可行性 - 与同期 DeepSeek 前沿基准表现形成呼应：模型能力向上，应用门槛向下  gakki 的判断：手柄控制电脑"
 resource: "https://x.com/i/status/2051233746779791549"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2051233746779791549"
+created: "2026-05-04"
+updated: "2026-06-26"
+sha256: "51c386544bd17c2640b67cc775c53955103f33c270875dabd7b5659241bda5ff"
+sources:
+  - "/sources/news/2026-05-04/00__vista8__deepseek-v4-pro-几轮对话生成-xbox-手柄控制工具-端侧-agent-的-遥控器化-趋势.md"
 ---
 
 # DeepSeek V4 Pro 几轮对话生成 Xbox 手柄控制工具：端侧 Agent 的「遥控器化」趋势

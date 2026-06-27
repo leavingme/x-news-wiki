@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "宝玉自嘲 Prompt Engineering 过气：工程师人设的反向宣言"
 description: "**Prompt Engineering 作为独立技能品类，被原作者点名为\"过时\"——这不是技术退步，而是工程范式迁移。**  -宝玉（dotey）作为中文圈推 Prompt 工程最具代表性的 KOL，反讽式宣告其过期 -朋友语境下用\"过气了🤪\"自嘲，实际承认 Agent 已接管\"如何提问\"这件事 -行业意义：Vibe Coding / Harness Engineering 把\"提问技巧\"内化"
 resource: "https://x.com/i/status/2063808524086288543"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2063808524086288543"
+created: "2026-06-08"
+updated: "2026-06-26"
+sha256: "d6035eb322b95d6b503b81c8df07747342f9e707d4d23e13ef586c1938f9cdf5"
+sources:
+  - "/sources/news/2026-06-08/00__dotey__宝玉自嘲-prompt-engineering-过气-工程师人设的反向宣言.md"
 ---
 
 # 宝玉自嘲 Prompt Engineering 过气：工程师人设的反向宣言

@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Codex 五路齐发：OpenAI 正式将「浏览器操控」变成 Agent 标配能力"
 description: "**一句话核心判断：OpenAI 通过 Codex 将 Browser Agent 从 Demo 演示变成生产级标配，Auto-review 安全阀让无人值守成为可能。**  • 浏览器操控：Codex 能自主点击页面、填表单、截图看结果，再根据视觉反馈自己迭代——等于给 AI 装了一双「眼睛」和一只手。 • 文档全家桶：直接打通 Microsoft Office 和 Google Drive，生"
 resource: "https://x.com/i/status/2047403459717320819"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2047403459717320819"
+created: "2026-04-23"
+updated: "2026-06-26"
+sha256: "f1da8d72e26a0ddcb6519d7838c9db8dcdc9f07d3e371b11c8a4521334f5ee92"
+sources:
+  - "/sources/highlights/2026-04-24/00__dotey__codex-五路齐发-openai-正式将-浏览器操控-变成-agent-标配能力.md"
 ---
 
 # Codex 五路齐发：OpenAI 正式将「浏览器操控」变成 Agent 标配能力

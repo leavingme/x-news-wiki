@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "DeepSeek 多模态识图模型上线灰度测试：速度快到像 System 1 直觉输出，但推理能力缺席"
 description: "**DeepSeek 的视觉多模态能力正式进入灰度测试，但形态与预期不同。**  - 模型已在网页端对部分用户开放，可上传图片反推提示词，响应速度极快 - 独立测试者确认：无思考过程，属于「System 1 凭感觉直出」模式，推理能力弱 - 推测为独立训练的专用视觉模型，非 V4 基座的多模态扩展，API 尚未开放 - 开源与否悬念留到明天，若开源将直接冲击 Qwen-VL 和 InternVL "
 resource: "https://x.com/i/status/2049487620720533509"
@@ -22,6 +22,13 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "model-capabilities"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2049487620720533509"
+created: "2026-04-29"
+updated: "2026-06-26"
+sha256: "22ab386195841bb0acdcc072819ce5507a511b6893751e83ff7ae69246d7c3f1"
+sources:
+  - "/sources/highlights/2026-04-29/00__jiqizhixin__deepseek-多模态识图模型上线灰度测试-速度快到像-system-1-直觉输出-但推理能力缺席.md"
 ---
 
 # DeepSeek 多模态识图模型上线灰度测试：速度快到像 System 1 直觉输出，但推理能力缺席

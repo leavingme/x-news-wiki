@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Apify Agent Skills：近2万个专业爬虫Actor构建的互联网情报基础设施"
 description: "**[Agent的数据获取能力正从\"通用抓取\"走向\"领域专用\"]** • 覆盖2万个垂直平台的专用爬虫 Actor，自动匹配需求与执行器 • 结构化 JSON 输出替代原始网页，直接喂给 LLM 做下游处理 • 12个预置 Skill 覆盖竞品分析、品牌监控、趋势追踪等商业场景  **gakki 锐评**：当数据获取从\"技术问题\"变成\"配置问题\"，情报工作的门槛被大幅拉低——这不是替代分析师，而是"
 resource: "https://x.com/i/status/2030209176052633742"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 84
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2030209176052633742"
+created: "2026-03-07"
+updated: "2026-06-26"
+sha256: "cf3c117c9298c7dcd08f829daca04977d62e483c9b28e7336068e67a89b7ea10"
+sources:
+  - "/sources/news/2026-03-08/84__Saccc_c__apify-agent-skills-近2万个专业爬虫actor构建的互联网情报基础设施.md"
 ---
 
 # Apify Agent Skills：近2万个专业爬虫Actor构建的互联网情报基础设施

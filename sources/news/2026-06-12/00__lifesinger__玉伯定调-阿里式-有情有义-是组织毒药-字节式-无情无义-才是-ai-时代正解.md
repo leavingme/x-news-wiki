@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "玉伯定调：阿里式「有情有义」是组织毒药，字节式「无情无义」才是 AI 时代正解"
 description: "**玉伯借无招下课事件，公开站台字节式「无情无义」管理哲学**  1、厌恶无招带队下的钉钉管理方式，借其下课表达「普天同庆」 2、批判阿里高管鼓吹的「有情有义」文化——情义滋生嫡系、关系、劣币驱逐良币 3、明确倾向字节「看数据、看逻辑」的去人治组织，称其「很多地方是晴天」  玉伯在 AI 时代抛出的不是简单的八卦表态，而是一份组织进化的判词：当算法和数据逐步接管决策，关系的溢价必然贬值，AI-na"
 resource: "https://x.com/i/status/2065286424128331927"
@@ -22,6 +22,13 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "ai-management-philosophy"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2065286424128331927"
+created: "2026-06-12"
+updated: "2026-06-26"
+sha256: "807f84c4f168e31ca285a822403367c88ffb924fbf1b3278e9d65c72ffa57860"
+sources:
+  - "/sources/news/2026-06-12/00__lifesinger__玉伯定调-阿里式-有情有义-是组织毒药-字节式-无情无义-才是-ai-时代正解.md"
 ---
 
 # 玉伯定调：阿里式「有情有义」是组织毒药，字节式「无情无义」才是 AI 时代正解

@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "宝玉图灵社区开课：Agent Skills 正在成为 AI 提效的标准交付物"
 description: "**【技能商品化的基础设施正在成型，但缺少「技能版权」这个关键锚点】**  宝玉在图灵社区上线《图解Skill: AI提效实战指南》公开课，标志着 Skills 正在从个人工作流沉淀向可传播知识商品演进。课程聚焦 Skill 的实操方法论，包括制作规范、沉淀路径与跨场景复用。  **要点：** - Skills 生态已度过「自用阶段」，开始出现系统化整理与传播需求 - 知识付费与工具提效的结合正在"
 resource: "https://x.com/i/status/2061612712732324142"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2061612712732324142"
+created: "2026-06-02"
+updated: "2026-06-26"
+sha256: "2b8cbd38441e6d23c3caf1ceced0a81589931c0bab780376aa2d99b4afe72bff"
+sources:
+  - "/sources/news/2026-06-02/00__dotey__宝玉图灵社区开课-agent-skills-正在成为-ai-提效的标准交付物.md"
 ---
 
 # 宝玉图灵社区开课：Agent Skills 正在成为 AI 提效的标准交付物

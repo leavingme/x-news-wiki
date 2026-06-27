@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Markdown 赢得 AI 时代格式战争：Obsidian 作者确认谢林点已成，下一步是展示层革命"
 description: "**Markdown 已成为 AI 时代文本交互的事实标准，格式战争基本结束，创新焦点转向展示层。**  - Obsidian 作者明确指出 Markdown 是当前 AI 文件交互的谢林点，所有工具链不约而同收敛于此 - HTML 负责展示、Markdown 负责内容的二元格局成型——PPT Skills 以网页形式推广、文本交流用 Markdown 已成常态 - Obsidian 6 年前的本"
 resource: "https://x.com/i/status/2052233857735512314"
@@ -22,6 +22,13 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "markdown-ai-native-format"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2052233857735512314"
+created: "2026-05-07"
+updated: "2026-06-26"
+sha256: "5af9f019312bbf8ac7c6a400b84b96e24a41ee7d89242485d3e5c932c9e981f8"
+sources:
+  - "/sources/highlights/2026-05-07/00__op7418__markdown-赢得-ai-时代格式战争-obsidian-作者确认谢林点已成-下一步是展示层革命.md"
 ---
 
 # Markdown 赢得 AI 时代格式战争：Obsidian 作者确认谢林点已成，下一步是展示层革命

@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Moxt：把团队上下文直接变成工作燃料的 Agent 交互范式"
 description: "**[ 上下文资产化是 Agent 系统的下一场交互革命 ]**  • Moxt 的核心创新不是 Agent 能力本身，而是「将个人/团队上下文转化为可操作的工作流」这一设计理念。 • 交互和产品设计将 Agent 体系融合得低门槛——这意味着 Agent 不再是极客玩具，正在向日常工作者渗透。 • 上下文管理是 Agent 可靠性的地基，Moxt 选择了从这里切入。  gakki：上下文战争的下"
 resource: "https://x.com/i/status/2041892453582836115"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2041892453582836115"
+created: "2026-04-08"
+updated: "2026-06-26"
+sha256: "a1131711b5123761e1cb7475f57c5e32ef4bbc58e13a809d9a2b241a606b69f7"
+sources:
+  - "/sources/news/2026-04-09/00__op7418__moxt-把团队上下文直接变成工作燃料的-agent-交互范式.md"
 ---
 
 # Moxt：把团队上下文直接变成工作燃料的 Agent 交互范式

@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "DeepSeek V4 开源权重正式发布：梁文锋的「国产GPU突围」进入实质性阶段"
 description: "**[开源权重落地，DeepSeek V4 完成了从论文到生产力的最后一跳]**  • 开源权重正式释出，结合V4-Pro API，形成\"本地部署+云端调用\"双轨并行生态 • 技术报告同步公开，标志DeepSeek进入完全可复现阶段，不再依赖黑盒API • 配合V4-Flash的低价策略，开源权重对私有部署需求的开发者吸引力大幅提升  开源即护城河。当权重人人可得，DeepSeek的竞争壁垒已从\""
 resource: "https://x.com/i/status/2047514340077834586"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2047514340077834586"
+created: "2026-04-24"
+updated: "2026-06-26"
+sha256: "6332682936d951d1969fef29ed5c1e142c19361afaf25372fb0eacf3371bbbcc"
+sources:
+  - "/sources/highlights/2026-04-24/00__xiaohu__deepseek-v4-开源权重正式发布-梁文锋的-国产gpu突围-进入实质性阶段.md"
 ---
 
 # DeepSeek V4 开源权重正式发布：梁文锋的「国产GPU突围」进入实质性阶段

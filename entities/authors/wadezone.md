@@ -1,5 +1,5 @@
 ---
-type: "Author"
+type: "entity"
 title: "Koda (@wadezone)"
 description: "X/Twitter 作者 @wadezone。共收录 1 条 AI 精选推文。"
 tags:
@@ -12,6 +12,12 @@ x_author_name: "Koda"
 x_tweet_count: 1
 x_first_seen: "2026-04-05T00:42:57.267Z"
 x_last_seen: "2026-04-05T00:42:57.267Z"
+type_okf: "Author"
+created: "2026-04-05"
+updated: "2026-06-26"
+sha256: "bbb9670d839c63db0c06afe2ee19e2119c008cba543aa4ac444dcb2fdf94fc91"
+sources:
+  - "/sources/highlights/2026-04-05/00__wadezone__claude-code-源码泄露72小时-社区用11-557-stars证明官方工程投入是种浪费.md"
 ---
 
 # Koda (@wadezone)

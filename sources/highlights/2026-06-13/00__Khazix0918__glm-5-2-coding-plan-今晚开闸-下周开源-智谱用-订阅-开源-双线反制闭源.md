@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "GLM 5.2 Coding Plan 今晚开闸、下周开源：智谱用「订阅+开源」双线反制闭源"
 description: "**智谱 GLM 5.2 Coding Plan 上线在即，下周开源——国产模型首次把 Coding 订阅和开源节奏做到同一周内。**  - 数字生命卡兹克定位为「国产之光，无愧于此」，意味着这不是普通版本号而是对外信号 - 「Coding Plan + 开源」组合直接对标 Claude Fable 订阅模式：先抢国内开发者付费，再以开源反哺全球 - 在 Fable 5 被下架的同一天发布，时机耐"
 resource: "https://x.com/i/status/2065710147931087298"
@@ -22,6 +22,13 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "domestic-model-competition"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2065710147931087298"
+created: "2026-06-13"
+updated: "2026-06-26"
+sha256: "75c29b6616f0c771dc0c879e5e208d435d8e74adf054984a743df9b12f6eceb4"
+sources:
+  - "/sources/highlights/2026-06-13/00__Khazix0918__glm-5-2-coding-plan-今晚开闸-下周开源-智谱用-订阅-开源-双线反制闭源.md"
 ---
 
 # GLM 5.2 Coding Plan 今晚开闸、下周开源：智谱用「订阅+开源」双线反制闭源

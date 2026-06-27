@@ -1,5 +1,5 @@
 ---
-type: "Author"
+type: "entity"
 title: "Yufan Sheng (@syhily)"
 description: "X/Twitter 作者 @syhily。共收录 1 条 AI 精选推文。"
 tags:
@@ -12,6 +12,12 @@ x_author_name: "Yufan Sheng"
 x_tweet_count: 1
 x_first_seen: "2026-04-02T21:49:22.986Z"
 x_last_seen: "2026-04-02T21:49:22.986Z"
+type_okf: "Author"
+created: "2026-04-02"
+updated: "2026-06-26"
+sha256: "d29cac1054ec5a137be7aafbd9dd3e7098bcff5218ccfd70e9344bf64c8f27fc"
+sources:
+  - "/sources/news/2026-04-02/00__syhily__codex走捷径-claude-opus鹦鹉学舌-大模型的-聪明税-与-抄书税.md"
 ---
 
 # Yufan Sheng (@syhily)

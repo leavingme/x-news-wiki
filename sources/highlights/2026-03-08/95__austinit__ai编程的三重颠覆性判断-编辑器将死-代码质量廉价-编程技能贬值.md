@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "AI编程的三重颠覆性判断：编辑器将死、代码质量廉价、编程技能贬值"
 description: "**[AI正在拆除传统软件工程的价值链条]** • Cursor 们即将没落：工程师已不再手动敲代码，Git 对比后直接提交成为新常态 • \"屎山\"焦虑是人类的认知局限：GPT-5.4 百万上下文让代码膨胀不再是问题 • 零基础者反而更快：不受设计模式、算法范式束缚的\"乱拳\"打法，在小型项目中展现出更高效率  **gakki 锐评**：这不是\"代码已死\"的危言耸听，而是工程价值的重心正在从\"写代码"
 resource: "https://x.com/i/status/2030322285203370310"
@@ -22,6 +22,13 @@ x_selected: 2
 x_priority: 95
 x_related_topic: "vibe-coding-cognition-inflection"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2030322285203370310"
+created: "2026-03-07"
+updated: "2026-06-26"
+sha256: "3eee2a31e57e0b179414cb6673aec7f65cba4b6a06afbabc52ab4f5d5d215407"
+sources:
+  - "/sources/highlights/2026-03-08/95__austinit__ai编程的三重颠覆性判断-编辑器将死-代码质量廉价-编程技能贬值.md"
 ---
 
 # AI编程的三重颠覆性判断：编辑器将死、代码质量廉价、编程技能贬值

@@ -1,5 +1,5 @@
 ---
-type: "Author"
+type: "entity"
 title: "迈克 Mike Chong (@mike_chong_zh)"
 description: "X/Twitter 作者 @mike_chong_zh。共收录 1 条 AI 精选推文。"
 tags:
@@ -12,6 +12,12 @@ x_author_name: "迈克 Mike Chong"
 x_tweet_count: 1
 x_first_seen: "2026-03-04T01:02:27.204Z"
 x_last_seen: "2026-03-04T01:02:27.204Z"
+type_okf: "Author"
+created: "2026-03-04"
+updated: "2026-06-26"
+sha256: "d0cd0a0b2cb069aa10f9c8c940be68b18ceb48eb51af3280b14397c474916062"
+sources:
+  - "/sources/news/2026-03-04/00__mike_chong_zh__block-裁员-90-ios-开发-ai-逻辑正在杀死原生移动开发.md"
 ---
 
 # 迈克 Mike Chong (@mike_chong_zh)

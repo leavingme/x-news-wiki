@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "火山引擎大会：Seedance 2.5七月见，Seedream 5.0 Pro把Photoshop级别编辑权交还创作者"
 description: "向阳乔木现场报道火山引擎大会：Seedance 2.5 将于7月上线（价格未公布），Seedream 5.0 Pro 支持箭头/高亮区块精修。 - Seedance 2.5 时间点首次明确，字节系视频模型进入「半年一代」节奏 - Seedream 5.0 Pro 从「文生图」升级为「局部精修」，把Photoshop级别操作交给非专业用户 - 火山引擎继续走「全家桶+活动营销」打法，AI视频进入「工"
 resource: "https://x.com/i/status/2069264047816511636"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2069264047816511636"
+created: "2026-06-23"
+updated: "2026-06-26"
+sha256: "f3ea144a067e2042eb2f4aa268a608b98c5b18cf5d8fe384adc581ad58cea115"
+sources:
+  - "/sources/news/2026-06-23/00__vista8__火山引擎大会-seedance-2-5七月见-seedream-5-0-pro把photoshop级别编辑权交还创作者.md"
 ---
 
 # 火山引擎大会：Seedance 2.5七月见，Seedream 5.0 Pro把Photoshop级别编辑权交还创作者

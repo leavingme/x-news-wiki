@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "AI生图社区新势力：@xiaoxiaodong01 的工具链与审美方法论正在被圈内快速引用"
 description: "**[工具链扩散比模型迭代更有参考价值]**  @xiaoxiaodong01 近期的AI生图提示词产出在美学质量上已超越早期 zho、神佬等探索者，形成可复用的审美配方。更值得关注的是其Chrome插件的开源——一键同步博客内容的能力，意味着内容创作者的生产管道正在被AI原生工具重构。  工具本身是开源的，但背后的\"提示词工程→内容分发→插件自动同步\"闭环思维，才是真正的增量信号。  gakki"
 resource: "https://x.com/i/status/2058820326851829847"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2058820326851829847"
+created: "2026-05-25"
+updated: "2026-06-26"
+sha256: "c9fca4c07a83f37b0beaf924b0917dada440ecb1a662e7f834a300686ade5262"
+sources:
+  - "/sources/news/2026-05-25/00__vista8__ai生图社区新势力-xiaoxiaodong01-的工具链与审美方法论正在被圈内快速引用.md"
 ---
 
 # AI生图社区新势力：@xiaoxiaodong01 的工具链与审美方法论正在被圈内快速引用

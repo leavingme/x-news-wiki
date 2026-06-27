@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "IoTeX 4000万设备数据注入 Recall：AI代理「菜市场认证」能否替代传统数据标注？"
 description: "**[链上数据喂给AI的范式验证：物理世界接入Agent竞技场]**  Recall 联手 IoTeX 构建「真实世界数据 + AI竞技场」机制。IoTeX 贡献 4000万+ 物联网设备的实时验证数据（环境传感器、车载监控、供应链日志），而 Recall 的核心创新在于：不是让AI在封闭环境里跑Benchmark，而是把数据调用扔进「竞技场」，AI必须用IoTeX数据证明策略价值，造假一次则数据"
 resource: "https://x.com/i/status/1965952897981825348"
@@ -22,6 +22,13 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "ai-data-blockchain-verification"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/1965952897981825348"
+created: "2025-09-11"
+updated: "2026-06-26"
+sha256: "6e75afe38d988674ae4cac3b153f90a31ceede1641a932799098bccdcca7ca11"
+sources:
+  - "/sources/news/2026-04-13/00__AwbczBTC__iotex-4000万设备数据注入-recall-ai代理-菜市场认证-能否替代传统数据标注.md"
 ---
 
 # IoTeX 4000万设备数据注入 Recall：AI代理「菜市场认证」能否替代传统数据标注？

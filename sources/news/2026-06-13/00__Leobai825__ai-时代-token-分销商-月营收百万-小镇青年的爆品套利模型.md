@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "AI 时代「Token 分销商」月营收百万：小镇青年的爆品套利模型"
 description: "**[核心判断]** Token 不是产品，Token 是「消费品渠道」——分销商比制造商更靠近用户现金流。  - 杭州 200 人公司主营 Token 转售业务，月营收稳定百万级别，复购率与用户粘性被验证为消费品级别 - 关键论点：在 AI 时代只有两条路——成为「制造商」（豆包/DeepSeek/CC 等底层载体）或成为「分销商」（靠近用户的最后一公里） - 载体逻辑链：Token → CC/"
 resource: "https://x.com/i/status/2065744739656405053"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2065744739656405053"
+created: "2026-06-13"
+updated: "2026-06-26"
+sha256: "6fcaac70fb499a950ccdbfcbf66f7b52ab0f442cfb0a4b469c69301f6b17763f"
+sources:
+  - "/sources/news/2026-06-13/00__Leobai825__ai-时代-token-分销商-月营收百万-小镇青年的爆品套利模型.md"
 ---
 
 # AI 时代「Token 分销商」月营收百万：小镇青年的爆品套利模型

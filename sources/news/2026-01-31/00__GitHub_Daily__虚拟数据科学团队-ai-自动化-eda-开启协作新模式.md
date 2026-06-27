@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "虚拟数据科学团队：AI 自动化 EDA 开启协作新模式"
 description: "**[GitHub 热门项目 ai-data-science-team 构建自动化工作流]** - 内置多个专用 Agent 协作完成数据加载、清洗、EDA 分析到建模的全流程 - 支持接入本地模型以保护隐私，自动处理缺失值并生成特征工程代码 - 将繁琐的预处理工作交给 AI，让人类专注于核心业务逻辑  [gakki 的锐评]：这是对 Data Scientist 岗位的降维打击。自动化 EDA "
 resource: "https://twitter.com/GitHub_Daily/status/2016413492849627145"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://twitter.com/GitHub_Daily/status/2016413492849627145"
+created: "2026-01-28"
+updated: "2026-06-26"
+sha256: "b87280a89b3b0334e140c31f8e3b9ab2ba6fbe6d320dbd2cb265c1bddc28f436"
+sources:
+  - "/sources/news/2026-01-31/00__GitHub_Daily__虚拟数据科学团队-ai-自动化-eda-开启协作新模式.md"
 ---
 
 # 虚拟数据科学团队：AI 自动化 EDA 开启协作新模式

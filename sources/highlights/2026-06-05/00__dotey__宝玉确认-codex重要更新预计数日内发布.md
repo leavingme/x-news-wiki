@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "宝玉确认：Codex重要更新预计数日内发布"
 description: "**[Codex生态即将变天：宝玉暗示重大更新在即]**  宝玉对用户等待Codex更新的疑问给出时间暗示——「还要等几天，应该很快了」。结合此前「Codex和OpenAI platform明日有重要更新」的预告传播轨迹，本次更新大概率指向上下文管理、工具调用效率或订阅机制优化。  作为中文AI编程社区的核心节点，宝玉的预告本身已成为传播事件。  **gakki 锐评：** 「悬念本身就是传播」—"
 resource: "https://x.com/i/status/2062789721537892401"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2062789721537892401"
+created: "2026-06-05"
+updated: "2026-06-26"
+sha256: "5524fd3fd30b87a06c88158d01d3f784000005ce4c10ea7fbfc2714716140682"
+sources:
+  - "/sources/highlights/2026-06-05/00__dotey__宝玉确认-codex重要更新预计数日内发布.md"
 ---
 
 # 宝玉确认：Codex重要更新预计数日内发布

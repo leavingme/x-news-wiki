@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "自媒体变现天花板法则：盯住同行的商品数量×单价而非粉丝数"
 description: "**判断：变现能力的真实锚点是电商数据，而非流量指标。**  核心逻辑：粉丝量是虚荣指标，商品售卖数量和单价才是天花板。 影响：内容从业者评估竞品时，优先看变现路径的「可触感」—— SKU 分布与定价策略比播放量更有预测力。 边界：此方法适用于实物/数字商品类账号，知识付费和广告主导账号需调整维度。  gakki：这是一条被严重低估的朴素常识，却极少被系统性地说出来。"
 resource: "https://x.com/i/status/2061124376360108438"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2061124376360108438"
+created: "2026-05-31"
+updated: "2026-06-26"
+sha256: "be5dd3f9ff3439cc97785a4bbd7bb5436f2b00664107c07f88ac2cf8cb45fd18"
+sources:
+  - "/sources/news/2026-05-31/00__Leobai825__自媒体变现天花板法则-盯住同行的商品数量-单价而非粉丝数.md"
 ---
 
 # 自媒体变现天花板法则：盯住同行的商品数量×单价而非粉丝数

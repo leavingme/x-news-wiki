@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "上交 MINT 把模仿学习从「轨迹」顶到「意图」层：频率Token解耦让机器人 one-shot 技能迁移上真机"
 description: "**上交+上海创智学院的 MINT 把模仿学习的天花板从轨迹层顶到意图层——用多尺度频率Token解耦全局意图与细粒度执行，操作基准 SOTA + 真机一次性技能迁移，论文/代码/项目全开源。**  要点 1：从 trajectory imitation 转向 intent imitation，用频域分离意图/执行两个表征层 要点 2：SOTA 跨任务泛化 + 真机 one-shot 技能迁移，填"
 resource: "https://x.com/i/status/2069360314391388671"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2069360314391388671"
+created: "2026-06-23"
+updated: "2026-06-26"
+sha256: "c1e6379e27a54be54514df5b2059ebf36bfc4db961f6c2af58eb2636b38b7d15"
+sources:
+  - "/sources/highlights/2026-06-23/00__jiqizhixin__上交-mint-把模仿学习从-轨迹-顶到-意图-层-频率token解耦让机器人-one-shot-技能迁移上真机.md"
 ---
 
 # 上交 MINT 把模仿学习从「轨迹」顶到「意图」层：频率Token解耦让机器人 one-shot 技能迁移上真机

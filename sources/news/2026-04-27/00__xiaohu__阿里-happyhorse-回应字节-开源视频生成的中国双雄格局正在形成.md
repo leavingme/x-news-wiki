@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "阿里 HappyHorse 回应字节：开源视频生成的中国双雄格局正在形成"
 description: "**[字节 Seedance 之后，阿里 HappyHorse 上线——中国开源视频生成进入双寡头竞争阶段]**  HappyHorse 的定位是阿里巴巴对标字节 Seedance 的开源视频生成工具，两者分别代表了阿里和字节在多模态内容生成赛道的最新自研能力输出。这是中文 AI 圈难得的「自研对标」叙事，而非简单 Copy to China。  - 标志着中国开源视频生成能力从「单点突破」进入「"
 resource: "https://x.com/i/status/2048775751709962681"
@@ -22,6 +22,13 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "open-source-video-generation-leap"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2048775751709962681"
+created: "2026-04-27"
+updated: "2026-06-26"
+sha256: "60264c9f48f41612138e780d6b65a2fce5c154d45569baf6261db925ac802282"
+sources:
+  - "/sources/news/2026-04-27/00__xiaohu__阿里-happyhorse-回应字节-开源视频生成的中国双雄格局正在形成.md"
 ---
 
 # 阿里 HappyHorse 回应字节：开源视频生成的中国双雄格局正在形成

@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "深圳八周学到的商业关系课：AI硬件创业者的跨文化商务礼仪实录"
 description: "**[跨文化商务能力是AI硬件创业者的隐性竞争力]**  一位创业者在深圳待八周学习AI硬件，整理出一条完整的商业关系维护方法论：带深思熟虑的礼物、等对方先坐、白酒满杯但喝茶留空间、学习文化习俗以示认真态度。\\n\\n要点：\\n• 商务关系被明确视为「商品」，需要主动经营而非被动等待\\n• 文化礼仪的细节执行直接影响合作方对你「认真程度」的判断\\n• 这套方法适用于任何需要与中国供应链或合作伙伴深度"
 resource: "https://x.com/i/status/2056228121079382287"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2056228121079382287"
+created: "2026-05-18"
+updated: "2026-06-26"
+sha256: "f9e47cb53295a909a968139da650933fed231870d68a663ce15eb3a85a0cdedf"
+sources:
+  - "/sources/news/2026-05-18/00__xiaohu__深圳八周学到的商业关系课-ai硬件创业者的跨文化商务礼仪实录.md"
 ---
 
 # 深圳八周学到的商业关系课：AI硬件创业者的跨文化商务礼仪实录

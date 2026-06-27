@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Agent-native组织定义战：「为人服务」还是「为Agent服务」的产品哲学分野"
 description: "**Agent-native = for agents + by agents 的组织范式首次清晰定义。**  • 核心洞察：人类DAU已饱和，Agent DAU正在暴增——人口增量决定创业机会 • 实践矛盾：钱还在人手上，所以仍需GUI和Stripe；但Agent更懂Agent，实现层应该用Agent服务Agent • 战略窗口：大厂把控主要Agent入口，但人类「奇怪地不喜欢大厂」——新公司的"
 resource: "https://x.com/i/status/2033715381744132105"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2033715381744132105"
+created: "2026-03-17"
+updated: "2026-06-26"
+sha256: "71f052ca0d7e60a81c57e09eb44e1bcd08122f5704f93e2e82470a5d512c9ab0"
+sources:
+  - "/sources/highlights/2026-03-17/00__lifesinger__agent-native组织定义战-为人服务-还是-为agent服务-的产品哲学分野.md"
 ---
 
 # Agent-native组织定义战：「为人服务」还是「为Agent服务」的产品哲学分野

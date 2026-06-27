@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "我们需要「不要脸的前沿评测」：Agent 能力的真实上限被严重低估"
 description: "**评测机构的保守正在掩盖 Agent 的真实能力。**  • METR 等机构的稳健中位数评测虽然合理，但无法反映 Claude Code/Codex 在多日干线任务中的实际表现 • 作者亲历：Agent 可持续执行端到端 ML 研究任务数天无需干预——这已发生，只是不够「鲁棒」 • 呼吁建立「cherry-picked frontier eval」：展示最佳 case 而非 average c"
 resource: "https://x.com/i/status/2031878995906793912"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 87
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2031878995906793912"
+created: "2026-03-11"
+updated: "2026-06-26"
+sha256: "fe39fd0de29f09da2624bd1de9a62d1401a0b91db37a37e929d623d5af5205f6"
+sources:
+  - "/sources/news/2026-03-12/87__DimitrisPapail__我们需要-不要脸的前沿评测-agent-能力的真实上限被严重低估.md"
 ---
 
 # 我们需要「不要脸的前沿评测」：Agent 能力的真实上限被严重低估

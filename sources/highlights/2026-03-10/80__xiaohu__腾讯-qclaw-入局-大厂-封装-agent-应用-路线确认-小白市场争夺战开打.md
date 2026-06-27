@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "腾讯 QClaw 入局：大厂「封装 Agent 应用」路线确认，小白市场争夺战开打"
 description: "**[国内大厂 Agent 产品化策略浮现]** - 腾讯 QClaw 采用「封装应用」形态，与网易龙虾策略一致，指向非技术用户市场 - 邀请码先行、安装包滞后的节奏，暗示产品仍在内测打磨阶段 - 大厂入场意味着「一键即用」的 Agent 消费级产品赛道正式开启  腾讯的入场验证了「Agent 入口平民化」是确定性趋势。但封装应用的代价是灵活性——当 Lobster/OpenClaw 用户在写 S"
 resource: "https://x.com/i/status/2030903927961690395"
@@ -22,6 +22,13 @@ x_selected: 2
 x_priority: 80
 x_related_topic: "agent-multi-platform"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2030903927961690395"
+created: "2026-03-09"
+updated: "2026-06-26"
+sha256: "a267f51f4d07a26148898703834a9bb3d38e11aefb0916ca2d1ed4f9d7df2aef"
+sources:
+  - "/sources/highlights/2026-03-10/80__xiaohu__腾讯-qclaw-入局-大厂-封装-agent-应用-路线确认-小白市场争夺战开打.md"
 ---
 
 # 腾讯 QClaw 入局：大厂「封装 Agent 应用」路线确认，小白市场争夺战开打

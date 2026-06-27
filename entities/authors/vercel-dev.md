@@ -1,5 +1,5 @@
 ---
-type: "Author"
+type: "entity"
 title: "Vercel Developers (@vercel_dev)"
 description: "X/Twitter 作者 @vercel_dev。共收录 1 条 AI 精选推文。"
 tags:
@@ -12,6 +12,12 @@ x_author_name: "Vercel Developers"
 x_tweet_count: 1
 x_first_seen: "2026-05-05T01:17:40.565Z"
 x_last_seen: "2026-05-05T01:17:40.565Z"
+type_okf: "Author"
+created: "2026-05-05"
+updated: "2026-06-26"
+sha256: "e046a9fb62f01b214ccc2d15b92b8d5ea3569b32493a615b72d799b57808d2cc"
+sources:
+  - "/sources/highlights/2026-05-05/00__vercel_dev__vercel-开源-deepsec-代码-agent-安全终于有了-cli-原生的沙箱解耦方案.md"
 ---
 
 # Vercel Developers (@vercel_dev)

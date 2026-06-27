@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "GPT-5.5 Instant 悄悄替换 5.3 成为 ChatGPT 默认档：幻觉降 52%，回答变短，但开始主动翻你的聊天记录"
 description: "**OpenAI 把几亿人的日常模型静默升级了，这是「隐形基建」层面的能力跃迁。** - 幻觉降幅显著：高风险场景（医疗/法律/金融）编造事实概率降 52.5%，用户标记错误对话降 37.3% - 跑分跳涨：GPQA 78.5→85.6，AIME 2025 65.4→81.2，多模态 MMMU-Pro 69.2→76 - 新增主动调用历史对话和外部数据（Gmail、文件）的能力  gakki 锐评"
 resource: "https://x.com/i/status/2051720198403596715"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2051720198403596715"
+created: "2026-05-05"
+updated: "2026-06-26"
+sha256: "11bfc9fcd69f5011675fa6a9be4d0dec8ba3dcf7c43179f948050fb95da786f0"
+sources:
+  - "/sources/highlights/2026-05-05/00__dotey__gpt-5-5-instant-悄悄替换-5-3-成为-chatgpt-默认档-幻觉降-52-回答变短-但开始主动翻你的.md"
 ---
 
 # GPT-5.5 Instant 悄悄替换 5.3 成为 ChatGPT 默认档：幻觉降 52%，回答变短，但开始主动翻你的聊天记录

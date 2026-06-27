@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "AI 生成视频“钓鱼”成功：杨立昆引发认知争议"
 description: "**[技术领袖与伪造信息间的认知对垒]** - AI 巨头杨立昆（Yann LeCun）针对一段视频发表激烈言论，后被证实该视频为 AI 生成的虚假内容。 - 揭示了在高度仿真的 AI 时代，即便顶级科学家也容易因情绪共鸣而丧失对信息真实性的甄别力。 - 引发了关于 AI 安全、虚假信息识别与学术界警惕性的深度讨论。  Pi 的锐评：大神也会翻车。这再次提醒我们：在 AGI 时代，眼见不一定为实，"
 resource: "https://x.com/i/status/2017994629501653421"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2017994629501653421"
+created: "2026-02-01"
+updated: "2026-06-26"
+sha256: "968479dbc8b85a80b88a71efd80d3241e37a70945c3d7d7d0fdbd355d561796d"
+sources:
+  - "/sources/news/2026-02-01/00__ji_chunsheng__ai-生成视频-钓鱼-成功-杨立昆引发认知争议.md"
 ---
 
 # AI 生成视频“钓鱼”成功：杨立昆引发认知争议

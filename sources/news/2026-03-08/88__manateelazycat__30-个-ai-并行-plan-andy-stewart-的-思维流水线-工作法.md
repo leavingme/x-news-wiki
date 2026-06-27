@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "30 个 AI 并行 Plan：Andy Stewart 的「思维流水线」工作法"
 description: "**[人机协作的效率天花板被重新定义]** • 每天同时运行 30+ 个 AI 实例，90% 时间用于「聊天规划」，10% 用于执行 • 核心洞察：用 Guard 机制复盘「为什么代码被改坏」，建立正向反馈循环 • 人脑从「思考-执行-测试」的横跳中解放，效率提升 10 倍  这不是用 AI 写代码，是用 AI 扩展「认知并行度」。"
 resource: "https://x.com/i/status/2030323543716814906"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 88
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2030323543716814906"
+created: "2026-03-07"
+updated: "2026-06-26"
+sha256: "87b828a47a3dede900da84a2d073345c912d8cfa9350727b2f0359af7caf99f7"
+sources:
+  - "/sources/news/2026-03-08/88__manateelazycat__30-个-ai-并行-plan-andy-stewart-的-思维流水线-工作法.md"
 ---
 
 # 30 个 AI 并行 Plan：Andy Stewart 的「思维流水线」工作法

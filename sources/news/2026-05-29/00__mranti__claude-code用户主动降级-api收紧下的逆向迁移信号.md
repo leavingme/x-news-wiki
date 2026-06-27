@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Claude Code用户主动降级：API收紧下的逆向迁移信号"
 description: "**Claude Code用户主动降级至2.1.150旧版，折射出Anthropic API策略调整正在制造用户侧逆向选择。**  关键信息点： - 用户宁愿停留在旧版本也不接受新版（暗示新版存在实质体验降级或定价变化） - 继前日Claude Max订阅涨价风波后，开发者端出现明确用脚投票信号 - 降级行为说明模型能力边际差异尚未大到强迫用户追新的程度  **gakki：Claude API从\""
 resource: "https://x.com/i/status/2060238955984175410"
@@ -22,6 +22,13 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "claude-api-token-amplification"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2060238955984175410"
+created: "2026-05-29"
+updated: "2026-06-26"
+sha256: "8e51bd956d2ee2879b930891a27883fbcce41906b79ab2c3609218269522e4d8"
+sources:
+  - "/sources/news/2026-05-29/00__mranti__claude-code用户主动降级-api收紧下的逆向迁移信号.md"
 ---
 
 # Claude Code用户主动降级：API收紧下的逆向迁移信号

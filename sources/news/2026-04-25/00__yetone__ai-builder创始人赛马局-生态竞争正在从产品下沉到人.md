@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "AI Builder创始人赛马局：生态竞争正在从产品下沉到人"
 description: "**yetone 建群让 AI Builder 创始人\"赛马\"，背后是生态位争夺的新逻辑。**  - 创始人群体本身成了被观察和被分发的资产 - 这种机制比产品对比更能暴露谁能持续迭代、谁只会 Demo  **gakki锐评：** 当产品趋于同质化，创始人的进化速度成为稀缺变量——这个\"赛马\"逻辑本质上是把生态竞争压缩到了一个更原始的维度。"
 resource: "https://x.com/i/status/2047916755406966844"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2047916755406966844"
+created: "2026-04-25"
+updated: "2026-06-26"
+sha256: "362720dcef365c225418ab4840f0a2fdda8d1fbf3a0f49218d5e5737be62e735"
+sources:
+  - "/sources/news/2026-04-25/00__yetone__ai-builder创始人赛马局-生态竞争正在从产品下沉到人.md"
 ---
 
 # AI Builder创始人赛马局：生态竞争正在从产品下沉到人

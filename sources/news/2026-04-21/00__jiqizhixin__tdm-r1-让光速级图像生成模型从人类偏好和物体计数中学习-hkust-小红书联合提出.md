@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "TDM-R1：让光速级图像生成模型从人类偏好和物体计数中学习，HKUST+小红书联合提出"
 description: "** diffusion模型学人类喜好，终于不用复杂的数学了。**  HKUST、CUHK深圳、小红书联合提出TDM-R1，现有快速图像生成模型无法有效利用真实世界反馈（因为数学太复杂），TDM-R1通过构建替代奖励系统引导每一步图像生成，让模型能从简单的人类偏好和物体计数中学习。这是将强化学习思想引入图像生成的又一次推进。  关键价值：把「用户喜不喜欢」这个主观反馈变成了可优化的训练信号。  g"
 resource: "https://x.com/i/status/2046158934147575899"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2046158934147575899"
+created: "2026-04-20"
+updated: "2026-06-26"
+sha256: "db2a2812188146077ac8861817b0dccb31869ff976fb95417df9e6cf3c2c0f5f"
+sources:
+  - "/sources/news/2026-04-21/00__jiqizhixin__tdm-r1-让光速级图像生成模型从人类偏好和物体计数中学习-hkust-小红书联合提出.md"
 ---
 
 # TDM-R1：让光速级图像生成模型从人类偏好和物体计数中学习，HKUST+小红书联合提出

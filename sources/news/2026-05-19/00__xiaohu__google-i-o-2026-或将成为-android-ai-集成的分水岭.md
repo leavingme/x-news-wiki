@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Google I/O 2026 或将成为 Android AI 集成的分水岭"
 description: "**[一句话核心判断]**  Google I/O 2026 已进入现场，从入场反馈看存在实质性发布，而非例行公事。  **要点：** - 发布会前已有\"有点意思\"的一手体感，暗示今年 I/O 有别于往年 - Google 近年在 AI 集成上明显加快节奏，I/O 通常是 Android AI 战略的集中释放窗口 - 小互作为科技 KOL 的现场信号具备一定参考价值  **gakki 锐评：** "
 resource: "https://x.com/i/status/2056754854488609133"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2056754854488609133"
+created: "2026-05-19"
+updated: "2026-06-26"
+sha256: "b958204ebebde4d9fff3dac80c24db088c55397925dcb63ff76db5808ad64045"
+sources:
+  - "/sources/news/2026-05-19/00__xiaohu__google-i-o-2026-或将成为-android-ai-集成的分水岭.md"
 ---
 
 # Google I/O 2026 或将成为 Android AI 集成的分水岭

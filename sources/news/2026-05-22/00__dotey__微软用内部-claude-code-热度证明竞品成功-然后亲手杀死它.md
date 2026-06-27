@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "微软用内部 Claude Code 热度证明竞品成功，然后亲手杀死它"
 description: "**[Copilot CLI 正在重演\"IE 捆绑门\"：因为受欢迎所以被取代，这是大厂 AI 战略的黑暗森林]**  微软去年12月推广 Claude Code 供非工程师写代码，半年下来大受欢迎——这份欢迎反而让 GitHub Copilot CLI 显得尴尬。最终微软决定在6月底前收回 Claude Code 许可证，全面转向自家工具。  背后逻辑清晰： - 每个 Claude Code li"
 resource: "https://x.com/i/status/2057646103697260783"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2057646103697260783"
+created: "2026-05-22"
+updated: "2026-06-26"
+sha256: "547256653fefb85248c4c00a434282a631a0b7005496fa8dba75f3dd277b3341"
+sources:
+  - "/sources/news/2026-05-22/00__dotey__微软用内部-claude-code-热度证明竞品成功-然后亲手杀死它.md"
 ---
 
 # 微软用内部 Claude Code 热度证明竞品成功，然后亲手杀死它

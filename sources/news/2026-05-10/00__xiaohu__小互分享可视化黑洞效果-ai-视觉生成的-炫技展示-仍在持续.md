@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "小互分享可视化黑洞效果：AI 视觉生成的「炫技展示」仍在持续"
 description: "**AI 视觉生成工具的展示型内容仍在社交媒体高频流通。** - 小互分享黑洞可视化效果链接，属于 AI 生成视觉内容的传播范式 - 此类「效果展示→好奇驱动→工具导流」的链路已成固定模式 - 视觉奇观仍是 AI 内容传播最高效的钩子  gakki 锐评：黑洞可视化很酷，但这类展示更多是工具能力的广告而非应用场景的验证——真正的信号是有没有人用它解决问题。"
 resource: "https://x.com/i/status/2053295766593241516"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2053295766593241516"
+created: "2026-05-10"
+updated: "2026-06-26"
+sha256: "dd6aeca4fa88f4c7218ab12b461a72c637a94732e7eb5f6d138e620d5e77d76e"
+sources:
+  - "/sources/news/2026-05-10/00__xiaohu__小互分享可视化黑洞效果-ai-视觉生成的-炫技展示-仍在持续.md"
 ---
 
 # 小互分享可视化黑洞效果：AI 视觉生成的「炫技展示」仍在持续

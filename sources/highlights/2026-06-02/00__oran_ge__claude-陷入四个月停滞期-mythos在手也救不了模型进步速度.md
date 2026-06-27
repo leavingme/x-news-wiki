@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Claude 陷入四个月停滞期：Mythos在手也救不了模型进步速度"
 description: "**[Claude 模型迭代进入平台期，四个月无实质进步]**  Opus 4.7、4.8 连续两代效果持平甚至负优化，价格却更贵。即便是内部已拥有 Mythos 开发利器，模型进步仍未加速，仍维持半年一次大版本节奏。  这说明：即便掌握训练方法，Scaling Law 的边际收益正在急速递减，大模型的迭代瓶颈可能不是工程问题，而是接近某种资源上限。    gakki：Claude 的停滞是个危险"
 resource: "https://x.com/i/status/2061934587350335566"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2061934587350335566"
+created: "2026-06-02"
+updated: "2026-06-26"
+sha256: "1eba5c056be2be0e63a4c8d3cddb4e1b31a568d1d3909ed2e3358b44137e6c5c"
+sources:
+  - "/sources/highlights/2026-06-02/00__oran_ge__claude-陷入四个月停滞期-mythos在手也救不了模型进步速度.md"
 ---
 
 # Claude 陷入四个月停滞期：Mythos在手也救不了模型进步速度

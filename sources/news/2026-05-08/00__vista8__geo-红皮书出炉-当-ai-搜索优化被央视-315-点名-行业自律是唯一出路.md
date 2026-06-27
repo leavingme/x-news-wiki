@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "GEO 红皮书出炉：当 AI 搜索优化被央视 315 点名，行业自律是唯一出路"
 description: "**黑帽 GEO 横行到被央视点名，标志着 AI 搜索优化赛道从野蛮生长进入合规淘汰期。**  - 向阳乔木基于 21 万字白皮书 + 一年实战，整理出 10 万字《GEO 红皮书》 - 核心内容：拆解黑帽手段、服务商甄别框架、风险自查清单——本质上是行业自律指南 - 央视 315 点名是关键催化事件，倒逼行业从「割韭菜」转向「可验证的服务能力」  锐评：GEO（Generative Engine"
 resource: "https://x.com/i/status/2052696088826798246"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2052696088826798246"
+created: "2026-05-08"
+updated: "2026-06-26"
+sha256: "752c4e40747746949d7b74dee01022cbd6c4262618dc0c94e5c7337f2f49a441"
+sources:
+  - "/sources/news/2026-05-08/00__vista8__geo-红皮书出炉-当-ai-搜索优化被央视-315-点名-行业自律是唯一出路.md"
 ---
 
 # GEO 红皮书出炉：当 AI 搜索优化被央视 315 点名，行业自律是唯一出路

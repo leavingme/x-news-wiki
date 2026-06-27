@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "宝玉：AI Agent 不需要新通信软件，短信等现有通道就是入口"
 description: "**[一句话核心判断]**Agent 入口之争的「反基础设施」立场——复用现有通道优于新建 AI 通信软件。  - 宝玉明确表态：AI Agent 入口不需要专门的 AI 通信软件，沿用手机自带短信等现有通信系统即可 - 隐含工程哲学：用户不会为 AI 单独装一个新 IM，Agent 必须降维寄生在已有通道上 - 与 Telegram Bot、微信生态、小红书 DM 等多入口争夺形成对照，呼应「A"
 resource: "https://x.com/i/status/2064156628430025118"
@@ -22,6 +22,13 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "agent-multi-platform"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2064156628430025118"
+created: "2026-06-09"
+updated: "2026-06-26"
+sha256: "6db26146d437648b414e8b9ed3f0839ae29e952c8b7808b8b3b78f66ec99f44e"
+sources:
+  - "/sources/news/2026-06-09/00__dotey__宝玉-ai-agent-不需要新通信软件-短信等现有通道就是入口.md"
 ---
 
 # 宝玉：AI Agent 不需要新通信软件，短信等现有通道就是入口

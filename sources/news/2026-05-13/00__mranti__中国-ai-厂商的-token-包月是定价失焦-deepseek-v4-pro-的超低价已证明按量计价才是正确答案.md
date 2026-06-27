@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "中国 AI 厂商的 token 包月是定价失焦：Deepseek V4 Pro 的超低价已证明按量计价才是正确答案"
 description: "**[包月制是 AI 定价的倒退，按量才是正道]**  Michael Anti 观察到一个被普遍忽视的结构性问题：火山引擎等中国 AI 服务商的\"token plan\"本质是包月制，但这没有意义——token 是消耗品，包月是订阅制，两者的经济逻辑互相矛盾。Deepseek V4 Pro 五月底前的超低价已经把各路包月 plan 压死，证明按量打折的批发模式更有竞争力。  他尤其点名火山 Cod"
 resource: "https://x.com/i/status/2054389321315332325"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2054389321315332325"
+created: "2026-05-13"
+updated: "2026-06-26"
+sha256: "ce9c7c34b07a9b24d75c2cbab0da947733fbe3bd858b0dbee4ffe66ebe211976"
+sources:
+  - "/sources/news/2026-05-13/00__mranti__中国-ai-厂商的-token-包月是定价失焦-deepseek-v4-pro-的超低价已证明按量计价才是正确答案.md"
 ---
 
 # 中国 AI 厂商的 token 包月是定价失焦：Deepseek V4 Pro 的超低价已证明按量计价才是正确答案

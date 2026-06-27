@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "OpenClaw 物理变现实录：龙虾 U 盘郑州月销 50 万，但快钱窗口正在关闭"
 description: "**开源 AI 工具的物理商品化已形成完整产业链，但生命周期以月计。**  - 龙虾 U 盘在郑州售价 168 元，月销 50 万+，利润率极高——本质是将「零门槛使用 AI」的需求封装成实体商品 - 目标用户甚至不是开发者，而是「AI 都没用过」的普通人，说明 OpenClaw 生态的破圈已溢出技术圈 - 销量已在下滑，验证了「快钱模型」的典型衰减曲线：信息差红利 → 蜂拥入场 → 价格战 → "
 resource: "https://x.com/i/status/2051377093691203795"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2051377093691203795"
+created: "2026-05-04"
+updated: "2026-06-26"
+sha256: "aa52d74c8ad8bc9a544b5b8e5703a852facfc6b264e673eb0d5ba9eabdfd528d"
+sources:
+  - "/sources/news/2026-05-04/00__Leobai825__openclaw-物理变现实录-龙虾-u-盘郑州月销-50-万-但快钱窗口正在关闭.md"
 ---
 
 # OpenClaw 物理变现实录：龙虾 U 盘郑州月销 50 万，但快钱窗口正在关闭

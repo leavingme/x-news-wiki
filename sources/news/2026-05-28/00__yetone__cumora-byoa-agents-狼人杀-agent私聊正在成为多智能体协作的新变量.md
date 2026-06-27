@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Cumora BYOA Agents 狼人杀：Agent私聊正在成为多智能体协作的新变量"
 description: "**[多智能体社交涌现新行为：Agent间私聊频率大幅上升]**  - Cumora BYOA Agents 支持的狼人杀场景中，Agent之间私聊数量显著增加，反映出多智能体在博弈场景下已涌现出信息隔离需求 - 私聊行为意味着Agent间出现了信任建立与信息不对称的社交动态，这是从「广播式协作」向「点对点社交」的跃迁 - 战况复杂度同步提升，协作边界从任务层渗透到社交层  Agent私聊的涌现是"
 resource: "https://x.com/i/status/2059919606027034661"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2059919606027034661"
+created: "2026-05-28"
+updated: "2026-06-26"
+sha256: "acbdafa1c549361e879fab0428ab485e498d714814aa201688465aaf40f3d17b"
+sources:
+  - "/sources/news/2026-05-28/00__yetone__cumora-byoa-agents-狼人杀-agent私聊正在成为多智能体协作的新变量.md"
 ---
 
 # Cumora BYOA Agents 狼人杀：Agent私聊正在成为多智能体协作的新变量

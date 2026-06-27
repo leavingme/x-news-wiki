@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "宝玉：多角色聊天是伪方向，一流Agent都在走单Agent+Skills路线"
 description: "**[单 Agent 架构已是行业共识，多角色聊天被头部团队放弃]**  宝玉直言多角色聊天（multi-role chat）不是正确方向：大部分场景下单 Agent 足够，所有问题问同一个 Agent，让它自主通过 Skills 和工具获取上下文。  判断依据：如果多角色协作真的靠谱，Codex 和 Claude Code 这些头部 Agent 产品早就做了。  大的方向是单 Agent + 可"
 resource: "https://x.com/i/status/2059776323699007493"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2059776323699007493"
+created: "2026-05-27"
+updated: "2026-06-26"
+sha256: "efaa0f5dcf88143599afc3756ca6761db7d6311ecc5686576efaecccd22e70db"
+sources:
+  - "/sources/news/2026-05-28/00__dotey__宝玉-多角色聊天是伪方向-一流agent都在走单agent-skills路线.md"
 ---
 
 # 宝玉：多角色聊天是伪方向，一流Agent都在走单Agent+Skills路线

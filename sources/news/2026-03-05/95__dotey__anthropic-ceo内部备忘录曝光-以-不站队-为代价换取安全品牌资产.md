@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Anthropic CEO内部备忘录曝光：以\"不站队\"为代价换取安全品牌资产"
 description: "**Anthropic选择原则性立场作为差异化护城河，与OpenAI的政治套利形成鲜明对比。**  - 明确拒绝向特朗普捐款，点名批评OpenAI总裁夫妇2500万美元政治献金 - 用\"安全剧场\"形容OpenAI的五角大楼合同安全保障，指责其表演性质 - 公开支持AI监管、如实陈述失业风险等政策立场，与现政府格格不入  当对手押注政治套利时，Anthropic对\"长期主义\"的押注正在重塑AI公司的"
 resource: "https://x.com/i/status/2029330655633363452"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 95
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2029330655633363452"
+created: "2026-03-04"
+updated: "2026-06-26"
+sha256: "ea12ce81bb4632dc573dfa16c7f43acadc2789afa3e44611e35a9834a8318aad"
+sources:
+  - "/sources/news/2026-03-05/95__dotey__anthropic-ceo内部备忘录曝光-以-不站队-为代价换取安全品牌资产.md"
 ---
 
 # Anthropic CEO内部备忘录曝光：以"不站队"为代价换取安全品牌资产

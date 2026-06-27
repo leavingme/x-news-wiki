@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Michael Anti 质疑国内外 Agent 生态割裂：模型接入能力比身份标签更重要"
 description: "**[ Michael Anti 点出一个被忽视的结构性问题：AI Harness 没有国内外之分]**  - 他的核心论点：开源 AI Harness 已普及，国内 Agent 的差异化不在于\"属地\"而在于\"接了什么模型\" - 这个视角与当前\"国产 Agent 叙事\"形成张力——当工具链本身已同质化，护城河在哪里？ - 隐含的批判：国内 Agent 生态过度强调场景包装，而非底层模型能力与工作流"
 resource: "https://x.com/i/status/2059869017809285279"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2059869017809285279"
+created: "2026-05-28"
+updated: "2026-06-26"
+sha256: "d81c49a5d2c82eaaa597ae28dc77ea7f372cde8cd330c20869246bbe429cd08e"
+sources:
+  - "/sources/news/2026-05-28/00__mranti__michael-anti-质疑国内外-agent-生态割裂-模型接入能力比身份标签更重要.md"
 ---
 
 # Michael Anti 质疑国内外 Agent 生态割裂：模型接入能力比身份标签更重要

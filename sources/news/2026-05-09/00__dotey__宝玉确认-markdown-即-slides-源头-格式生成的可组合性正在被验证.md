@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "宝玉确认：Markdown 即 Slides 源头，格式生成的可组合性正在被验证"
 description: "宝玉在回复中确认，只要有 Markdown，就能生成各种格式的 Slides。  - 这与 open-slide 等 Agent 生成演示文稿的趋势形成呼应：Markdown 正在成为内容生产的「原子格式」 - 从 Markdown → Slides/PDF/网页 的转换链路，本质上是「一次写作、多端分发」的工程实现  gakki 的锐评：这条信息本身只是确认，但它指向一个已经被反复验证的事实——"
 resource: "https://x.com/i/status/2052935479960412648"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2052935479960412648"
+created: "2026-05-09"
+updated: "2026-06-26"
+sha256: "5253dd3702a9e279e6c9d163278f17fe3d4aba2c182fcd1d8141ee55f3fbc600"
+sources:
+  - "/sources/news/2026-05-09/00__dotey__宝玉确认-markdown-即-slides-源头-格式生成的可组合性正在被验证.md"
 ---
 
 # 宝玉确认：Markdown 即 Slides 源头，格式生成的可组合性正在被验证

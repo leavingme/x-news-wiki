@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Obsidian 标签页分组功能缺失的代价：一场被低估的效率损耗"
 description: "**[笔记工具的细节债务：标签分组问题被社区迭代了多少年]**  余温在同一天连发两条 Obsidian 标签管理内容，揭示了一个被长期忽视的效率损耗——Chrome 标签组在浏览器里是标配，而 Obsidian 笔记多开场景更需要一个意思的东西，却长期缺位。  Vertical Tabs 是解法，但「应该是官方标配才对」这句话的潜台词是：Obsidian 在核心 UX 上的迭代速度，已经落后于用"
 resource: "https://x.com/i/status/2062467971344204149"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2062467971344204149"
+created: "2026-06-04"
+updated: "2026-06-26"
+sha256: "f2cef5ef33e7a479710093a15571385d0e5dc1367c3c434695ca770e50a7042c"
+sources:
+  - "/sources/news/2026-06-04/00__gkxspace__obsidian-标签页分组功能缺失的代价-一场被低估的效率损耗.md"
 ---
 
 # Obsidian 标签页分组功能缺失的代价：一场被低估的效率损耗

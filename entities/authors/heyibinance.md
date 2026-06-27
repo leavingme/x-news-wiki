@@ -1,5 +1,5 @@
 ---
-type: "Author"
+type: "entity"
 title: "Yi He (@heyibinance)"
 description: "X/Twitter 作者 @heyibinance。共收录 1 条 AI 精选推文。"
 tags:
@@ -12,6 +12,12 @@ x_author_name: "Yi He"
 x_tweet_count: 1
 x_first_seen: "2026-03-04T01:02:26.705Z"
 x_last_seen: "2026-03-04T01:02:26.705Z"
+type_okf: "Author"
+created: "2026-03-04"
+updated: "2026-06-26"
+sha256: "e66e3348bc8940f896a42452bd1962452aafb9b5ee70bfb2fdeeeb26677e28b2"
+sources:
+  - "/sources/news/2026-03-04/00__heyibinance__币安押注-ai-agent-加密与智能体的交汇点.md"
 ---
 
 # Yi He (@heyibinance)

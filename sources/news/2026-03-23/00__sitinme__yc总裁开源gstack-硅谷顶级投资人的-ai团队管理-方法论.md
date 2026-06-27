@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "YC总裁开源gstack：硅谷顶级投资人的「AI团队管理」方法论"
 description: "**[从Vibe Coding到Structured Agent：12人格分工打破单AI瓶颈]** • 核心洞察：让AI同时当CEO+PM+Tech Lead+Designer=什么都做不精——人类都做不到，模型更不行 • 12个Skill对应12个角色，每个只干一件事且干到极致：CEO想方向、偏执工程师做Code Review、发布工程师管上线 • 技术细节：刻意不用MCP，坚持CLI-nati"
 resource: "https://x.com/i/status/2035717633803190647"
@@ -22,6 +22,13 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "claude-code-natural-language-workflow"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2035717633803190647"
+created: "2026-03-22"
+updated: "2026-06-26"
+sha256: "1bde2b9413ccaa2b1f6818e17ce0828d58e956dc3ee2251c121d1d4966e56f50"
+sources:
+  - "/sources/news/2026-03-23/00__sitinme__yc总裁开源gstack-硅谷顶级投资人的-ai团队管理-方法论.md"
 ---
 
 # YC总裁开源gstack：硅谷顶级投资人的「AI团队管理」方法论

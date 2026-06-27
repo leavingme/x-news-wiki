@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Wan2.7-Video「元素级剪辑」背后的工业逻辑：AI 视频从生成期进入后期期"
 description: "**一句话核心判断：元素级增删改功能意味着 AI 视频工具正式进入「专业工作流」阶段，而非仅停留在演示 Demo。**  - 一句话删改视频元素（火车、道具、人影）替代重新生成，精准度已接近商用门槛 - 风格/环境秒切换（晴天变雨雪）不是滤镜叠加，而是场景级重新渲染 - 角色台词修改自动匹配口型音色，漫改/译制场景的效率工具链已成型  AI 视频正在复刻「从能跑到能用」的正确路径，而非继续堆砌演示"
 resource: "https://x.com/i/status/2041146931737727311"
@@ -22,6 +22,13 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "ai-video-story-coherence"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2041146931737727311"
+created: "2026-04-06"
+updated: "2026-06-26"
+sha256: "fdc3f32b6450bd22f31179aab6b8777a2ac712866284fc651b17aba37b45c5b8"
+sources:
+  - "/sources/highlights/2026-04-11/00__joshesye__wan2-7-video-元素级剪辑-背后的工业逻辑-ai-视频从生成期进入后期期.md"
 ---
 
 # Wan2.7-Video「元素级剪辑」背后的工业逻辑：AI 视频从生成期进入后期期

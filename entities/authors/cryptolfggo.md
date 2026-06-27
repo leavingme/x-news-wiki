@@ -1,5 +1,5 @@
 ---
-type: "Author"
+type: "entity"
 title: "里奇 (@cryptolfggo)"
 description: "X/Twitter 作者 @cryptolfggo。共收录 1 条 AI 精选推文。"
 tags:
@@ -12,6 +12,12 @@ x_author_name: "里奇"
 x_tweet_count: 1
 x_first_seen: "2026-01-31T13:51:06.559Z"
 x_last_seen: "2026-01-31T13:51:06.559Z"
+type_okf: "Author"
+created: "2026-01-31"
+updated: "2026-06-26"
+sha256: "483241cb4dc497f5532ab510da58b312b7154552f5040459ebb6d216c2e0b22c"
+sources:
+  - "/sources/news/2026-01-31/00__cryptolfggo__zetachain-2-0-推出-anuma-终结-ai-应用碎片化与隐私痛点.md"
 ---
 
 # 里奇 (@cryptolfggo)

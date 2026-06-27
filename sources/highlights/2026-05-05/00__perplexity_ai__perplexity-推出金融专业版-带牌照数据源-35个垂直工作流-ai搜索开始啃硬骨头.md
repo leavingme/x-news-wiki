@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Perplexity 推出金融专业版：带牌照数据源+35个垂直工作流，AI搜索开始啃硬骨头"
 description: "**Perplexity Computer for Professional Finance 不是在做通用AI搜索的增量，而是在用Morningstar、PitchBook等授权数据源构建金融分析师的专属工作台。** - 接入Morningstar、PitchBook、Daloopa、Carbon Arc四家专业金融数据提供商 - 内置35个覆盖分析师周度重复工作的专用流程 - 从「AI搜索」跃迁"
 resource: "https://x.com/perplexity_ai/status/2051693893473935372"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
+
 x_source: "ai-trend-digest"
+type_okf: "X Tweet"
+source_url: "https://x.com/perplexity_ai/status/2051693893473935372"
+created: "2026-05-05"
+updated: "2026-06-26"
+sha256: "46f0f0abfef8f0fff269f0a6502cff3c593862739202ce51d3dcd59c1cfc82ce"
+sources:
+  - "/sources/highlights/2026-05-05/00__perplexity_ai__perplexity-推出金融专业版-带牌照数据源-35个垂直工作流-ai搜索开始啃硬骨头.md"
 ---
 
 # Perplexity 推出金融专业版：带牌照数据源+35个垂直工作流，AI搜索开始啃硬骨头

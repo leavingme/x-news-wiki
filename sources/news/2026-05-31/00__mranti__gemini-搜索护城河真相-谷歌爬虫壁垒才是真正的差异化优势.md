@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Gemini 搜索护城河真相：谷歌爬虫壁垒才是真正的差异化优势"
 description: "**[一句话核心判断]** Michael Anti 点出了一个被忽视的事实：Gemini 能做 AI 搜索，不是因为模型能力，而是因为谷歌搜索索引的爬虫壁垒——别人要自己做，需要从爬虫基建开始重新投入。  **要点：** - 搜索质量的核心不在于模型，而在于搜索库的覆盖度和鲜度 - 爬虫是重资产投入，中小团队难以复制 - Gemini 的优势是系统性的，不是单点模型能力  **gakki 锐评："
 resource: "https://x.com/i/status/2061114201628987614"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2061114201628987614"
+created: "2026-05-31"
+updated: "2026-06-26"
+sha256: "e84e61d3a49db6d041bd10d85238637baddd7b16f423bfaab1ca544c106b117c"
+sources:
+  - "/sources/news/2026-05-31/00__mranti__gemini-搜索护城河真相-谷歌爬虫壁垒才是真正的差异化优势.md"
 ---
 
 # Gemini 搜索护城河真相：谷歌爬虫壁垒才是真正的差异化优势

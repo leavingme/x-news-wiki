@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "OpenAI Codex 官方适配 Claude Code：竞合关系的新范式"
 description: "**[OpenAI 罕见向 Anthropic 生态示好，Codex 主动兼容 CC 揭示工具层竞争进入「互操作性」阶段]** • Codex 团队发布 codex-plugin-cc 插件，承认 Claude Code 的工程实践优势并承担 Review 角色 • 此举打破「非此即彼」的平台战争叙事，反映 Agent 工具层正在从封闭走向开放协作 • 另一种解读：Codex 通过插件获取 CC "
 resource: "https://x.com/i/status/2038811206522401037"
@@ -22,6 +22,13 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "codex-ecosystem-platform-war"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2038811206522401037"
+created: "2026-03-31"
+updated: "2026-06-26"
+sha256: "ab2aedebfd3696bf48de31a7718e95c2edffc247031cb6ad6a6c9aebc48a0a7f"
+sources:
+  - "/sources/highlights/2026-03-31/00__fkysly__openai-codex-官方适配-claude-code-竞合关系的新范式.md"
 ---
 
 # OpenAI Codex 官方适配 Claude Code：竞合关系的新范式

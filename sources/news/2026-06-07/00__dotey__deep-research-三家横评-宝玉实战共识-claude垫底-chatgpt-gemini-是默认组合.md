@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Deep Research 三家横评:宝玉实战共识 — Claude垫底,ChatGPT + Gemini 是默认组合"
 description: "**宝玉在 Deep Research能力上给出明确分层:ChatGPT > Gemini > Claude。**  -实战工作流:通常用 ChatGPT 和 Gemini 同时跑 Deep Research,再对比结果 - Claude 的 Deep Research 被点名\"不怎么样\",这与多数 Claude优先派的认知形成反差 - Gemini 的优势点被归结为搜索能力强,这是底层能力的体现"
 resource: "https://x.com/i/status/2063629577495167436"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2063629577495167436"
+created: "2026-06-07"
+updated: "2026-06-26"
+sha256: "8a5f479927aea98eb3582e75f26e7a34049c1fd0847c4e267adb1f5ad37d08e2"
+sources:
+  - "/sources/news/2026-06-07/00__dotey__deep-research-三家横评-宝玉实战共识-claude垫底-chatgpt-gemini-是默认组合.md"
 ---
 
 # Deep Research 三家横评:宝玉实战共识 — Claude垫底,ChatGPT + Gemini 是默认组合

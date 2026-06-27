@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "前OpenAI研究员声称中国掌握美AI实验室全部代码，社区集体嘲讽其「被迫害妄想」"
 description: "**前OpenAI研究员Will Depue声称中国已完整获取OpenAI、Anthropic所有GitHub代码库、Slack记录与内部文档，但拿不出任何实锤。** - Nathan Lambert直接反驳：前沿技术本就通过人才流动、缺乏竞业限制在硅谷自发流转，真正护城河是算力与工程资源，而非Slack聊天记录 - Elie Bakouch用镜像格式反讽，称美实验室同样掌握DeepSeek、Ki"
 resource: "https://x.com/i/status/2068525119287492748"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2068525119287492748"
+created: "2026-06-21"
+updated: "2026-06-26"
+sha256: "3983e8d15dbe8e308a1b5a2e72327c5b3f221ee8371b96d149e8741c4697a47b"
+sources:
+  - "/sources/highlights/2026-06-24/00__0xLogicrw__前openai研究员声称中国掌握美ai实验室全部代码-社区集体嘲讽其-被迫害妄想.md"
 ---
 
 # 前OpenAI研究员声称中国掌握美AI实验室全部代码，社区集体嘲讽其「被迫害妄想」

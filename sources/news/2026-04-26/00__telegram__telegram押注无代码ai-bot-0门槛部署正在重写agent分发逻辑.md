@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Telegram押注无代码AI Bot：0门槛部署正在重写Agent分发逻辑"
 description: "**Telegram宣布开放AI Bot开发平台，用户无需编码即可创建、管理和发布AI机器人。**  - 无代码Agent入口正在从单一平台（OpenClaw/百度龙虾市集）向全渠道扩散，Telegram凭借其社交流量和分发优势切入 - 这意味着Agent消费的门槛正式降至零点，但同时也意味着「谁的平台能留住Agent」成为新的入口战争焦点 - 平台方（TG）与工具方（Bot Builder）的边"
 resource: "https://x.com/telegram/status/2048098691391852966"
@@ -22,6 +22,13 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "no-code-agent-entry"
 x_source: "ai-trend-digest"
+type_okf: "X Tweet"
+source_url: "https://x.com/telegram/status/2048098691391852966"
+created: "2026-04-25"
+updated: "2026-06-26"
+sha256: "6da85ff1d87e8df495f376d3d62c65ca821dd3dde2c2fe35e5fcb175667609a9"
+sources:
+  - "/sources/news/2026-04-26/00__telegram__telegram押注无代码ai-bot-0门槛部署正在重写agent分发逻辑.md"
 ---
 
 # Telegram押注无代码AI Bot：0门槛部署正在重写Agent分发逻辑

@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Meta 收购具身智能初创 ARI：从「研究物理 AGI」到「需要真正通用的物理 Agent」"
 description: "**Meta 通过收购 ARI 正式入局人形机器人赛道，信号清晰：物理 AGI 从实验室叙事进入规模化阶段。**  - ARI 成立仅一年，强调「从人类经验中直接学习」的 scaling 路径，与特斯拉 Optimus 的工业数据闭环形成差异化 - Meta 此前在具身 AI 上投入有限，此次收购意味着其 AI 战略从纯软件/社交向物理世界延伸 - 人形机器人赛道的资本密度正在急剧上升，Meta "
 resource: "https://x.com/xiaolonw/status/2050298370842132680"
@@ -22,6 +22,13 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "embodied-ai-supply-chain"
 x_source: "ai-trend-digest"
+type_okf: "X Tweet"
+source_url: "https://x.com/xiaolonw/status/2050298370842132680"
+created: "2026-05-01"
+updated: "2026-06-26"
+sha256: "00a6b2b50fa7d9efa8398e17dd2317145f2ccc6ab13f18b72af7832b9842d619"
+sources:
+  - "/sources/news/2026-05-02/00__xiaolonw__meta-收购具身智能初创-ari-从-研究物理-agi-到-需要真正通用的物理-agent.md"
 ---
 
 # Meta 收购具身智能初创 ARI：从「研究物理 AGI」到「需要真正通用的物理 Agent」

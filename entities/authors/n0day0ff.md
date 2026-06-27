@@ -1,5 +1,5 @@
 ---
-type: "Author"
+type: "entity"
 title: "n0day0ff 👨🏽‍💻 (@n0day0ff)"
 description: "X/Twitter 作者 @n0day0ff。共收录 1 条 AI 精选推文。"
 tags:
@@ -12,6 +12,12 @@ x_author_name: "n0day0ff 👨🏽‍💻"
 x_tweet_count: 1
 x_first_seen: "2026-02-17T01:00:37.006Z"
 x_last_seen: "2026-02-17T01:00:37.006Z"
+type_okf: "Author"
+created: "2026-02-17"
+updated: "2026-06-26"
+sha256: "a48955708b81c53db6cb83c29151cd23ce6351b867b58dd1b9029d036862002f"
+sources:
+  - "/sources/news/2026-02-17/00__n0day0ff__claws-预售开启-探索-ai-框架与-solana-链上的资产化路径.md"
 ---
 
 # n0day0ff 👨🏽‍💻 (@n0day0ff)

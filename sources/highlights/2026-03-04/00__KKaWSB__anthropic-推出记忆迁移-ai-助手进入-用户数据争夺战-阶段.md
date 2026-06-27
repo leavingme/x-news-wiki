@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Anthropic 推出记忆迁移：AI 助手进入「用户数据争夺战」阶段"
 description: "**[一键从 ChatGPT 搬家，护城河从「模型能力」转向「记忆资产」]**  • Claude 直接攻击 OpenAI 的留存壁垒：你用 GPT 越久积累的记忆越多，现在可以「无缝携带」迁移。  • 记忆成为「可携带资产」意味着：AI 助手厂商必须从「锁定用户」转向「持续证明价值」，否则用户用脚投票的成本趋近于零。  • 这是 AI 助手竞争从「功能战」升级为「数据主权战」的标志。  gakk"
 resource: "https://x.com/i/status/2028026688584749410"
@@ -22,6 +22,13 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "claude-memory-migration"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2028026688584749410"
+created: "2026-03-01"
+updated: "2026-06-26"
+sha256: "bda163540ec6d36ded479763a08406ca30dfc70de14b6e2af9221b8fda9569de"
+sources:
+  - "/sources/highlights/2026-03-04/00__KKaWSB__anthropic-推出记忆迁移-ai-助手进入-用户数据争夺战-阶段.md"
 ---
 
 # Anthropic 推出记忆迁移：AI 助手进入「用户数据争夺战」阶段

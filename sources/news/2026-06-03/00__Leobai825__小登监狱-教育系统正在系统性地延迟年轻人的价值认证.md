@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "「小登监狱」：教育系统正在系统性地延迟年轻人的价值认证"
 description: "天策的系统性批判：现代教育与职场的本质是一座\"小登监狱\"——不直接禁止创造，但强制要求所有创造必须通过系统认证渠道。学历→实习→基层→KPI→汇报链，每一步都在将价值交付给中间商。  对 AI 行业的直接意义：当 AI 降低了内容生产门槛，这套\"延迟认证\"结构面临根本性挑战——但结构本身不会轻易崩溃，它会找到新的控制形式。"
 resource: "https://x.com/i/status/2062169923711885656"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2062169923711885656"
+created: "2026-06-03"
+updated: "2026-06-26"
+sha256: "321ea52b7c82d77b6c274a26846952d2be05ed188ed5da5365e311b8137c3364"
+sources:
+  - "/sources/news/2026-06-03/00__Leobai825__小登监狱-教育系统正在系统性地延迟年轻人的价值认证.md"
 ---
 
 # 「小登监狱」：教育系统正在系统性地延迟年轻人的价值认证

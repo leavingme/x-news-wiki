@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "FastClaw入局：自托管Agent框架的「轻量反叛」与生态位战争"
 description: "**[一句话核心判断]** 当OpenClaw用Node生态建立护城河时，Go语言实现的FastClaw以「单二进制零依赖」发起侧翼包抄，Agent基建层进入多极竞争。  • 技术路线之争：Go的单二进制部署 vs Node的npm生态，本质是「运维友好」与「开发者友好」的取舍 • 功能对标：MCP、sandbox、cron等核心能力全面对标，说明Agent框架能力集正在收敛 • 生态信号：自托管"
 resource: "https://x.com/i/status/2037409783423078796"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2037409783423078796"
+created: "2026-03-27"
+updated: "2026-06-26"
+sha256: "ef28edd581ad28fb63ae5ae0532f030d2100335f36a229a0fda788885b718401"
+sources:
+  - "/sources/highlights/2026-03-28/00__QingQ77__fastclaw入局-自托管agent框架的-轻量反叛-与生态位战争.md"
 ---
 
 # FastClaw入局：自托管Agent框架的「轻量反叛」与生态位战争

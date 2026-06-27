@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Anthropic员工自己把Google Ads操盘手卷失业：Skills固化专业判断的实战演示"
 description: "**[AI替代执行层工作的标准范本——不是写文案，是把整个工作流Skill化]**  Anthropic增长营销Austin的操作：把自己的Google Ads判断逻辑（搜索词评估规则、否定词原则、预算分配算法）全部写成结构化Skills，让Claude代替他执行\"挖词→筛词→优化→出周报\"的全流程。  核心不是\"用AI写文案\"，是把专业判断标准具象化成可复用的决策模板。Skills在这里的角色是"
 resource: "https://x.com/i/status/2036972404975833512"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2036972404975833512"
+created: "2026-03-26"
+updated: "2026-06-26"
+sha256: "c0d22a59e84587b14a8c3ab644c1a5e1ec19e436ee0b49a74a5828f9d71c2cae"
+sources:
+  - "/sources/news/2026-04-13/00__0xKingsKuan__anthropic员工自己把google-ads操盘手卷失业-skills固化专业判断的实战演示.md"
 ---
 
 # Anthropic员工自己把Google Ads操盘手卷失业：Skills固化专业判断的实战演示

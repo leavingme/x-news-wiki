@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Codex 远程控制已支持多设备互联：一个 Agent 同时指挥多端工作流的工程可行性已验证"
 description: "**[多设备互联成为 Codex 生产力入口]**  归藏发现 Codex 远程控制可链接多个设备，只需在另一设备的 Codex 客户端点击「设置 Codex 移动版」即可配对。这意味着单个 Agent 实例可以跨越手机、电脑、服务器发起并行任务。  要点： - 多设备编排在企业级工作流中价值显著，一 Agent 统一调度多终端执行不同任务 - 移动端作为 Agent 指挥塔的可行性被工程验证，而"
 resource: "https://x.com/i/status/2055184073921044535"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2055184073921044535"
+created: "2026-05-15"
+updated: "2026-06-26"
+sha256: "9dba17065e6f0f44dbdddf7236850f868a76b554d0892a03b466cb107d1d0428"
+sources:
+  - "/sources/news/2026-05-15/00__op7418__codex-远程控制已支持多设备互联-一个-agent-同时指挥多端工作流的工程可行性已验证.md"
 ---
 
 # Codex 远程控制已支持多设备互联：一个 Agent 同时指挥多端工作流的工程可行性已验证

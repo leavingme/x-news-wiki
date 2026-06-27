@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Anthropic 精准识别 OpenClaw：400错误的触发逻辑"
 description: "**[Anthropic 的检测机制暴露了 Claude Max 生态的一道裂缝]**  - Anthropic 对每个请求做 system prompt 字符串扫描，OpenClaw 每次调用 Claude 自动附加的 \"You are a personal assistant running inside OpenClaw\" 被精准命中，直接 400 - 触发逻辑极简：就是这句默认文案，不是行"
 resource: "https://x.com/i/status/2040834662680174655"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2040834662680174655"
+created: "2026-04-05"
+updated: "2026-06-26"
+sha256: "33aa2074b904a84225cf377a5511a7b5a6d37e57e32e2308bf8312b93585332f"
+sources:
+  - "/sources/news/2026-04-06/00__Rav_Hedda__anthropic-精准识别-openclaw-400错误的触发逻辑.md"
 ---
 
 # Anthropic 精准识别 OpenClaw：400错误的触发逻辑

@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Google Agentic RAG：搜不全就让质检 Agent 继续搜，准确率 +34%"
 description: "Google 发布 Agentic RAG，把传统 RAG 的\"一次检索+生成\"升级为多轮自检——质检 Agent 判断检索结果是否完备，不全则自动继续检索，准确率提升 34%。 - 核心创新不是模型升级，而是引入\"何时该继续搜\"的元判断 Agent - 34% 提升来自迭代式自检循环，而非更大的 embedding 或更长的 context - 体现 RAG 范式从\"召回-生成\"单链路向\"自检-"
 resource: "https://x.com/i/status/2063887105508385205"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2063887105508385205"
+created: "2026-06-08"
+updated: "2026-06-26"
+sha256: "ec5ad6940e3fcbffe99d759d128564ba69c16379d1132f698f815a700a138bed"
+sources:
+  - "/sources/news/2026-06-08/00__xiaohu__google-agentic-rag-搜不全就让质检-agent-继续搜-准确率-34.md"
 ---
 
 # Google Agentic RAG：搜不全就让质检 Agent 继续搜，准确率 +34%

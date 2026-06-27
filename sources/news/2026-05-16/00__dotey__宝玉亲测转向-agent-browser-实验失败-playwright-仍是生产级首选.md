@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "宝玉亲测转向：Agent Browser 实验失败，Playwright 仍是生产级首选"
 description: "**[Agent 浏览器工具链收敛信号：概念验证败给工程成熟度]**  - 宝玉实测后明确转向：从 Agent Browser 回退到 Playwright，说明浏览器自动化在 Agent 场景的工程可靠性仍未达标 - Playwright 的 XPath 稳定性和社区生态正在形成事实标准，而 Agent Browser 的 DX 优势不足以弥补可靠性差距 - 映射更大问题：浏览器 Agent 的"
 resource: "https://x.com/i/status/2055511801236746717"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2055511801236746717"
+created: "2026-05-16"
+updated: "2026-06-26"
+sha256: "86000357ecc2e5a2b9b9cfbe0aac0cc6e6ca4d96116eabd28c8f35d3972b6a91"
+sources:
+  - "/sources/news/2026-05-16/00__dotey__宝玉亲测转向-agent-browser-实验失败-playwright-仍是生产级首选.md"
 ---
 
 # 宝玉亲测转向：Agent Browser 实验失败，Playwright 仍是生产级首选

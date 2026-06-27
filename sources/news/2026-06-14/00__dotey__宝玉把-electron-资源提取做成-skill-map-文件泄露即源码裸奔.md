@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "宝玉把 Electron 资源提取做成 Skill：.map 文件泄露即源码裸奔"
 description: "**宝玉把'还原 Electron 代码'封装成了可复用的 Skill，揭示 .map 文件是源码泄露的隐形通道。**  - 他已写好一个 Skill，专门处理 Electron 资源提取场景：只要发布产物里带了 .map 文件，理论上就能还原前端代码。 - 这条工具链的价值在于把'反编译/源码还原'从一次性操作变成了标准化的 Skill 资产，进一步印证 SKILL.md 正在成为经验固化的载体"
 resource: "https://x.com/i/status/2066223394341740766"
@@ -22,6 +22,13 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "code-obfuscation-anti-decompile"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2066223394341740766"
+created: "2026-06-14"
+updated: "2026-06-26"
+sha256: "2bac986e7d70393122d3ed21c751449b65319abfc917b5a35f89a1a6f06404c1"
+sources:
+  - "/sources/news/2026-06-14/00__dotey__宝玉把-electron-资源提取做成-skill-map-文件泄露即源码裸奔.md"
 ---
 
 # 宝玉把 Electron 资源提取做成 Skill：.map 文件泄露即源码裸奔

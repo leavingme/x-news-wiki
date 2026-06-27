@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "创始人集体疲惫：AI时代的高效率正在制造存在主义倦怠"
 description: "**一句话核心判断** AI让做事变快了，但选择变难了、焦虑变深了——效率提升没有转化为焦虑缓解，反而让决策疲劳更显性化。  **要点：** - 创始人活动现场感知到\"大家都累累的\"，不是体力累，是认知负荷过载 - AI大幅降低了执行成本，让更多精力涌向\"该做什么\"这个更难的命题 - 执行门槛下降让竞争维度转移到判断力，而判断力没有AI捷径  工具变强大了，人却更累了——这不是个体问题，是AI效率"
 resource: "https://x.com/i/status/2059295438856155172"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2059295438856155172"
+created: "2026-05-26"
+updated: "2026-06-26"
+sha256: "d7f97da650ef5ba2234fa947d514bce21f6a19ff7ca0bcd6dbcce366f80d77bb"
+sources:
+  - "/sources/news/2026-05-26/00__Rourou0413__创始人集体疲惫-ai时代的高效率正在制造存在主义倦怠.md"
 ---
 
 # 创始人集体疲惫：AI时代的高效率正在制造存在主义倦怠

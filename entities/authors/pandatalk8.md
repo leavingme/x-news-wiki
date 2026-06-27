@@ -1,5 +1,5 @@
 ---
-type: "Author"
+type: "entity"
 title: "Mr Panda (@PandaTalk8)"
 description: "X/Twitter 作者 @PandaTalk8。共收录 2 条 AI 精选推文。"
 tags:
@@ -12,6 +12,13 @@ x_author_name: "Mr Panda"
 x_tweet_count: 2
 x_first_seen: "2026-02-12T13:18:20.983Z"
 x_last_seen: "2026-03-16T12:43:05.894Z"
+type_okf: "Author"
+created: "2026-02-12"
+updated: "2026-06-26"
+sha256: "7c8fbcfa00a2d64b16c4eecbcf035a667bf023d1023c3c03618d920bebe28442"
+sources:
+  - "/sources/highlights/2026-02-12/00__PandaTalk8__pi-agent-框架走红-openclaw-背后的架构范式引发转型.md"
+  - "/sources/highlights/2026-03-16/00__PandaTalk8__claude-opus-4-6-vs-codex-ai-coding市场的分层定局.md"
 ---
 
 # Mr Panda (@PandaTalk8)

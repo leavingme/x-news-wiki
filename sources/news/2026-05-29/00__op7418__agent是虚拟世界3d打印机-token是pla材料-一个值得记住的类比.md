@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Agent是虚拟世界3D打印机，Token是PLA材料——一个值得记住的类比"
 description: "**[当所有Agent都能打印时，材料（Token）的成本和效率才是真正的竞争维度]**  歸藏的类比：Agent是3D打印机，Token是PLA材料——通用但打印结果完全不同。这个框架点出了一个被忽视的事实：在Agent能力趋同的未来，Token的获取成本、压缩效率、调用方式才是差异化的底层变量。  这个类比的价值在于：它把抽象的Agent经济问题具象化了。当人们还在争论哪个Agent更强时，真"
 resource: "https://x.com/i/status/2060270365549670447"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2060270365549670447"
+created: "2026-05-29"
+updated: "2026-06-26"
+sha256: "4cae2f2b664970a0377b2e34f390a7e40384774158907cddede3ed4bbd8a1223"
+sources:
+  - "/sources/news/2026-05-29/00__op7418__agent是虚拟世界3d打印机-token是pla材料-一个值得记住的类比.md"
 ---
 
 # Agent是虚拟世界3D打印机，Token是PLA材料——一个值得记住的类比

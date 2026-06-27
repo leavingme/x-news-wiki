@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Rodin生成模型「先出高精度初版再让用户选」：游戏/动画工作流的 Democrat 时刻"
 description: "**[模型商用的体验范式：确认环节即产品力]**  Rodin没有走一步到位的生成路线，而是分两阶段交付：先出高精度初版，再让用户确认/选择版本。关键在于它能智能输出一个轻量版——面数少但细节保留，同时支持动画用的四方块面和游戏引擎用的三角面，按需切换。  这个设计解决了一个实际问题：AI生成3D内容的试错成本太高，介入节点前移让用户参与决策，能显著降低返工率。    **gakki锐评：** 3"
 resource: "https://x.com/i/status/2058779273222385793"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2058779273222385793"
+created: "2026-05-25"
+updated: "2026-06-26"
+sha256: "6a73481b814ea4dcee46df28f1b5963e14cd3dc1f79796b86c2c6a7519da8221"
+sources:
+  - "/sources/news/2026-05-25/00__xiaohu__rodin生成模型-先出高精度初版再让用户选-游戏-动画工作流的-democrat-时刻.md"
 ---
 
 # Rodin生成模型「先出高精度初版再让用户选」：游戏/动画工作流的 Democrat 时刻

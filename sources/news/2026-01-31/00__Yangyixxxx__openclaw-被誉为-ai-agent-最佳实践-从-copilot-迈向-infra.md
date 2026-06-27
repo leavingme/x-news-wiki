@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "OpenClaw 被誉为 AI Agent 最佳实践：从 Copilot 迈向 Infra"
 description: "[核心逻辑] 开发者对 OpenClaw (Clawdbot) 的架构设计给予高度评价。 - 技术标杆：其框架设计、记忆管理、按需加载及 Skills 扩展被视为行业参照范式。 - 差异化优势：与传统基于 Web 2.0 的 Copilot 不同，OpenClaw 更倾向于主动唤醒与底层 Infra 构建。 - 演进趋势：呼吁将项目转化为基础设施，构建真正的 AI 智能体，而非简单的对话助手。  "
 resource: "https://x.com/i/status/2017497600027443574"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2017497600027443574"
+created: "2026-01-31"
+updated: "2026-06-26"
+sha256: "03f7536c321b432b8e089440377049ff2c29d81d282ca0621017e06041eaa36a"
+sources:
+  - "/sources/news/2026-01-31/00__Yangyixxxx__openclaw-被誉为-ai-agent-最佳实践-从-copilot-迈向-infra.md"
 ---
 
 # OpenClaw 被誉为 AI Agent 最佳实践：从 Copilot 迈向 Infra

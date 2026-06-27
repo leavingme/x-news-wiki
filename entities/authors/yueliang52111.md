@@ -1,5 +1,5 @@
 ---
-type: "Author"
+type: "entity"
 title: "月亮 (@yueliang52111)"
 description: "X/Twitter 作者 @yueliang52111。共收录 1 条 AI 精选推文。"
 tags:
@@ -12,6 +12,12 @@ x_author_name: "月亮"
 x_tweet_count: 1
 x_first_seen: "2026-04-14T00:45:15.176Z"
 x_last_seen: "2026-04-14T00:45:15.176Z"
+type_okf: "Author"
+created: "2026-04-14"
+updated: "2026-06-26"
+sha256: "08359d94dfa1c37b7205d9b01804aa50640f2f22cfe77ab5e7368f2e6e9e9348"
+sources:
+  - "/sources/news/2026-04-14/00__yueliang52111__theoriq-的三层代币经济-把-信誉-做成了可计算的硬约束.md"
 ---
 
 # 月亮 (@yueliang52111)

@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Google 深夜发布新视频模型演示：Gemini 视频编辑能力即将揭晓"
 description: "**【一句话核心判断】** 这条是预告，信息量不足以判断重量级——但视频模型赛道正处于爆发前夜，谷歌的每一步都值得跟踪。  **要点：** - 具体技术细节未披露，是「统一模型」还是「生成+编辑分离」尚未确认 - 从 Sora 到 Runway 到 Pika，视频生成正在从「能看」升级到「能用」，编辑能力是商业化关键节点 - 谷歌如果真的拿出统一的视频编辑模型，对现有单点工具是降维打击  **ga"
 resource: "https://x.com/i/status/2056565195007504498"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2056565195007504498"
+created: "2026-05-19"
+updated: "2026-06-26"
+sha256: "2c1191bd693e8a2d1c9b3f269eef81cd66656517c422be087c6181f1e01b584d"
+sources:
+  - "/sources/news/2026-05-19/00__op7418__google-深夜发布新视频模型演示-gemini-视频编辑能力即将揭晓.md"
 ---
 
 # Google 深夜发布新视频模型演示：Gemini 视频编辑能力即将揭晓

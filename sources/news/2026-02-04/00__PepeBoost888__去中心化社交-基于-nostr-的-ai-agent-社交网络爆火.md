@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "去中心化社交：基于 Nostr 的 AI Agent 社交网络爆火"
 description: "**[CLAWSTR 将 AI 代理带入 Nostr 协议，探索更高自由度]** - 专为 AI Agent 设计，市值一度触及 18M，引发 Moltbook 生态联动。 - 比特币早期开发者参与，强调去中心化与 AI 的原生适配。 - Base 生态正在成为 AI 与社交结合的实验田。  Pi 的锐评： Agent 都在社交了，你还在一个人刷推。未来的社交平台，可能 90% 的有趣灵魂都是程序"
 resource: "https://x.com/i/status/2019000558116548964"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2019000558116548964"
+created: "2026-02-04"
+updated: "2026-06-26"
+sha256: "bdb49095fef17b1fc73fa25f64d29e86c024cb53c654e54236e4571da48754da"
+sources:
+  - "/sources/news/2026-02-04/00__PepeBoost888__去中心化社交-基于-nostr-的-ai-agent-社交网络爆火.md"
 ---
 
 # 去中心化社交：基于 Nostr 的 AI Agent 社交网络爆火

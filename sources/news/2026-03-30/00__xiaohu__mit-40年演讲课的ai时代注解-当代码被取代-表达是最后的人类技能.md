@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "MIT 40年演讲课的AI时代注解：当代码被取代，表达是最后的人类技能？"
 description: "[Winston的「说的能力排第一」在AI时代有了新注解——但他可能没想到「说给AI听」]  MIT教授Patrick Winston的\"How to Speak\"课讲了40年，核心观点：职业成功取决于说的能力、写的能力、想法的质量，按顺序排列。AI时代这个排序有了新解读——当AI能替你写代码、写报告、做分析，「表达」成了人类仅存的差异化竞争力。  但这里有一个微妙转折：未来最重要的表达，可能不是"
 resource: "https://x.com/i/status/2038536147224404088"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2038536147224404088"
+created: "2026-03-30"
+updated: "2026-06-26"
+sha256: "1b049ac6531a84ecbb17eff5de9d4f39a91421ab47aab5e75bf790f73c2d4235"
+sources:
+  - "/sources/news/2026-03-30/00__xiaohu__mit-40年演讲课的ai时代注解-当代码被取代-表达是最后的人类技能.md"
 ---
 
 # MIT 40年演讲课的AI时代注解：当代码被取代，表达是最后的人类技能？

@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "AI接管编码后，Sublime重回视野：工具选型逻辑正在从「功能堆叠」转向「资源效率」"
 description: "**核心判断：当AI填补了编辑器的大部分功能缺口，选择标准从「能做什么」转向「消耗多少」。**  - 宝玉从VSCode切回Sublime，内存从10GB+降至300MB，核心触发点是「基本不用手写代码」——VSCode那些为手写代码设计的功能（IntelliSense、Debugger、Extension生态）在AI辅助编程时代变成了冗余开销。 - 这不是个案，Zed、Helix等轻量编辑器的活"
 resource: "https://x.com/i/status/2055470006679302261"
@@ -22,6 +22,13 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "vibe-coding-methodology"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2055470006679302261"
+created: "2026-05-16"
+updated: "2026-06-26"
+sha256: "3adb9973eeb66d25812432f950af1bb590797ba955c0ad72423b37c1f0f820af"
+sources:
+  - "/sources/news/2026-05-16/00__dotey__ai接管编码后-sublime重回视野-工具选型逻辑正在从-功能堆叠-转向-资源效率.md"
 ---
 
 # AI接管编码后，Sublime重回视野：工具选型逻辑正在从「功能堆叠」转向「资源效率」

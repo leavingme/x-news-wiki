@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "微软/亚利桑那州大研究：过度“思考”可能导致 AI 社交推理崩塌"
 description: "**[核心逻辑]** - 研究显示，更长的推理步数（Thinking）在数学/代码上有效，但在“心智理论”任务上反而可能有害。 - 复杂推理模型在感知人类情感和意图时，往往不如简单模型直观，且易陷入答案匹配的捷径。  [gakki 的锐评] 像极了人类：想太多的人往往情商低。逻辑的深度不等于共情的广度，AI 进化也得面对“理性 vs 感性”的跷跷板。"
 resource: "https://x.com/i/status/2021853585932529873"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2021853585932529873"
+created: "2026-02-12"
+updated: "2026-06-26"
+sha256: "3febd65b879b95f4d0fcae97b9e3cc6f45e3c34800450951ef673716df7468a1"
+sources:
+  - "/sources/highlights/2026-02-12/00__jiqizhixin__微软-亚利桑那州大研究-过度-思考-可能导致-ai-社交推理崩塌.md"
 ---
 
 # 微软/亚利桑那州大研究：过度“思考”可能导致 AI 社交推理崩塌

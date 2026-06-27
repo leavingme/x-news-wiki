@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "OpenAI 联合五大芯片厂开源 MRC 协议：万卡集群的网络瓶颈终于有解了"
 description: "**训练集群规模上去了，网络成了第一瓶颈，MRC 是 OpenAI 为 Stargate 级基础设施量身打造的解法。**  - 传统网络单路径传输 + BGP 动态路由，链路故障需秒级重算，万卡集群下任何抖动都意味着全集群空等 - MRC 将数据包拆散同时走几百条路径，目的地按内存地址重拼，故障绕开精度从秒级压缩到微秒级 - 砍掉 BGP，改用 SR（Segment Routing），通过 OCP"
 resource: "https://x.com/i/status/2052056444330000513"
@@ -22,6 +22,13 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "ai-compute-on-chain"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2052056444330000513"
+created: "2026-05-06"
+updated: "2026-06-26"
+sha256: "f54a1353247ed38a75201753ac865ab5ec59604add42db7da6cf63407355d199"
+sources:
+  - "/sources/highlights/2026-05-06/00__dotey__openai-联合五大芯片厂开源-mrc-协议-万卡集群的网络瓶颈终于有解了.md"
 ---
 
 # OpenAI 联合五大芯片厂开源 MRC 协议：万卡集群的网络瓶颈终于有解了

@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "V-JEPA「抽象表征」革命：小模型如何用「理解」碾压大模型的「记忆」"
 description: "**[世界模型路线出现关键分野]** • Meta V-JEPA 在 IntPhys 物理理解测试达 98% 准确率，远超 Gemini 1.5 Pro 的随机水平 • 核心差异：V-JEPA 在抽象表征空间预测，而非像素级重建——这模拟了人类「知道会发生什么但不想象每根头发」的认知方式 • 意义：证明「理解」而非「记忆」才是通往物理智能的关键路径，LeCun 的世界模型路线获得有力验证 • 影响"
 resource: "https://x.com/i/status/2036428144954187966"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2036428144954187966"
+created: "2026-03-24"
+updated: "2026-06-26"
+sha256: "d0aab314c14f0af10b25d6906ea625646859c1897e46834951f0d8d510d76e1c"
+sources:
+  - "/sources/highlights/2026-03-25/00__vista8__v-jepa-抽象表征-革命-小模型如何用-理解-碾压大模型的-记忆.md"
 ---
 
 # V-JEPA「抽象表征」革命：小模型如何用「理解」碾压大模型的「记忆」

@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "GitHub Copilot 月度额度刷新机制落后于开发者使用强度：月底断粮成新常态"
 description: "**AI Coding 工具的「按月额度」定价正成为高强度开发者的真痛点** - 6/1 新计费生效后额度消耗速度显著加快，但刷新周期仍是月底 - 重度用户被迫在月末「降速」，无法按周平滑消耗 - 暴露 SaaS 时代月度订阅思维与 AI Coding 即时使用场景的错配   gakki 锐评：按月额度本质是 SaaS 时代的财务遗产，而 AI Coding 的边际成本是 token——Anthr"
 resource: "https://x.com/i/status/2062938192051847546"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2062938192051847546"
+created: "2026-06-05"
+updated: "2026-06-26"
+sha256: "9ceb3fdeecfc95086281d88dcfbe9e7850bb32b89cd227f2d33536ebee05ecff"
+sources:
+  - "/sources/highlights/2026-06-05/00__dotey__github-copilot-月度额度刷新机制落后于开发者使用强度-月底断粮成新常态.md"
 ---
 
 # GitHub Copilot 月度额度刷新机制落后于开发者使用强度：月底断粮成新常态

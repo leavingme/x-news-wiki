@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "HTX AI Skills落地：交易Agent从\"分析行情\"到\"执行交易\"的闭环跃迁"
 description: "**[加密交易所首次实现生产级交易Agent，MCP协议成为金融Agent的事实标准]**  • 从\"解读\"到\"行动\"：AI可直接执行现货与合约交易，Agent获得真实资金操作权限 • MCP Server协议支持：3分钟接入Cursor/Claude Code，开发者生态闭环成型 • 交互范式迁移：K线界面→自然语言对话，\"帮我用1000 USDT买入BTC，10倍杠杆\"成为新交互标准  gak"
 resource: "https://x.com/i/status/2032848740076368214"
@@ -22,6 +22,13 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "agent-economic-autonomy"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2032848740076368214"
+created: "2026-03-14"
+updated: "2026-06-26"
+sha256: "fcdd3d3672c239d36ead9ad75b07bbbec73c0b692c111f562e64a569169ec91e"
+sources:
+  - "/sources/highlights/2026-03-28/00__MEJ50749__htx-ai-skills落地-交易agent从-分析行情-到-执行交易-的闭环跃迁.md"
 ---
 
 # HTX AI Skills落地：交易Agent从"分析行情"到"执行交易"的闭环跃迁

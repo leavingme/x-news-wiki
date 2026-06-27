@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Google证明图像生成器是通用视觉学习器：Vision Banana击败SAM"
 description: "**一句话核心判断：** Google用\"生成即计算\"的思路重构视觉任务，专用模型的专业壁垒正在被生成式范式瓦解。  **信息增量：** - Vision Banana将分割、深度估计等所有视觉任务统一为\"图像生成\"问题 - 指令微调后的图像生成器在多项任务上超越Segment Anything等专用专家模型 - 意味着视觉AI的\"专家系统\"路线可能走进死胡同，生成式大一统才是正确答案  **ga"
 resource: "https://x.com/i/status/2047321360112992628"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2047321360112992628"
+created: "2026-04-23"
+updated: "2026-06-26"
+sha256: "117c05c29031e6610e2d37a18039be528546ffccc2d08abbbe23d73ed2b03bb5"
+sources:
+  - "/sources/news/2026-04-24/00__jiqizhixin__google证明图像生成器是通用视觉学习器-vision-banana击败sam.md"
 ---
 
 # Google证明图像生成器是通用视觉学习器：Vision Banana击败SAM

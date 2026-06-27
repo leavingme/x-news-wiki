@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Origins Network 拿的不仅是钱：AWS/腾讯云/阿里云同时站台意味着什么"
 description: "**[一句话核心判断]**  Origins Network 800万美元融资背后，三大云厂商同时入局背书，这个组合本身就是一种信号——不是叙事、是资源协同的预判。  • **云巨头的真实动机**：AWS/Tencent Cloud/Alibaba Cloud 不会为空气站台。他们看的是「链上 AI 训练」这个场景能否把自己的 GPU 资源池进一步变现，同时卡位 Web3×AI 的基础设施层。 •"
 resource: "https://x.com/i/status/2038807171362951592"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2038807171362951592"
+created: "2026-03-31"
+updated: "2026-06-26"
+sha256: "168d89f073ffa1f46058a0910edf322256cab2df92067fb750d54ec69394d6f0"
+sources:
+  - "/sources/news/2026-04-11/00__huoshan007__origins-network-拿的不仅是钱-aws-腾讯云-阿里云同时站台意味着什么.md"
 ---
 
 # Origins Network 拿的不仅是钱：AWS/腾讯云/阿里云同时站台意味着什么

@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "硬核装备推荐：竖屏 5K 下的 4 重 Claude Code 战场"
 description: "**[核心逻辑]** 推荐 27 寸 5K 竖屏配置，通过 iterm2 分区实现多 agent 并发指挥，极大提升代码吞吐量。  [gakki 锐评：这哪里是显示器，这分明是 Agent 军队的“指挥塔”，这视野才配得上 1000 Token/s 的输出。]"
 resource: "https://x.com/i/status/2023054723717403125"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2023054723717403125"
+created: "2026-02-15"
+updated: "2026-06-26"
+sha256: "7c9e6c2af30cbce1a0628bbfbd2267e8b3479d8dadc72020b85f7554be84c97d"
+sources:
+  - "/sources/news/2026-02-16/00__dontbesilent12__硬核装备推荐-竖屏-5k-下的-4-重-claude-code-战场.md"
 ---
 
 # 硬核装备推荐：竖屏 5K 下的 4 重 Claude Code 战场

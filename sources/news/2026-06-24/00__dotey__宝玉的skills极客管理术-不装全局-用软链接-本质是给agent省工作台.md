@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "宝玉的Skills极客管理术：不装全局、用软链接，本质是给Agent省工作台"
 description: "**宝玉把Skills管理类比成\"Agent的桌面空间\"——装得多不等于用得好，结构化才是关键。**  - 只在项目内安装Skills，核心逻辑是全局Skills积少成多会撑爆上下文窗口，且增加误触发概率。 - 用软链接（symlink）作为管理核心：本体只有一份，可以被多个项目\"指向引用\"，避免重复占用+同步噩梦。 - 强调Skill默认只加载摘要、按需才加载全文，揭示了一个常被忽视的Token"
 resource: "https://x.com/i/status/2069632132431929651"
@@ -22,6 +22,13 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "agent-skill-usage-patterns"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2069632132431929651"
+created: "2026-06-24"
+updated: "2026-06-26"
+sha256: "04729d1e6b029d708d7d49919e0912d524458c1051682a2557b53b11b3d3f7fe"
+sources:
+  - "/sources/news/2026-06-24/00__dotey__宝玉的skills极客管理术-不装全局-用软链接-本质是给agent省工作台.md"
 ---
 
 # 宝玉的Skills极客管理术：不装全局、用软链接，本质是给Agent省工作台

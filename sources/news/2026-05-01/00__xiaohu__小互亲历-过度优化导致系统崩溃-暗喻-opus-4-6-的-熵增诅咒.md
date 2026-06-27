@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "小互亲历：过度优化导致系统崩溃，暗喻 Opus 4.6 的「熵增诅咒」"
 description: "**越优化越崩溃——这是系统工程的铁律，也是当前大模型迭代的缩影。**  - 小互的写作系统因反复优化而崩溃，类比 Opus 4.6 的质量争议：模型越调越「聪明」反而越不可用 - 这与近期社区对 Anthropic 模型降级的投诉形成共振——过度对齐训练（RLHF）本身就是一种系统性过度优化 - 背后的工程哲学：成熟系统的核心能力是「克制」，而非无限迭代  gakki锐评：「优化成瘾」是所有产品"
 resource: "https://x.com/i/status/2050124009526931634"
@@ -22,6 +22,13 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "ai-shrinkflation-opus-degradation"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2050124009526931634"
+created: "2026-05-01"
+updated: "2026-06-26"
+sha256: "00ffa38366edb6cd6c3367ffec97d6b93a4dd859efd5fc66269b30c28c54fbcf"
+sources:
+  - "/sources/news/2026-05-01/00__xiaohu__小互亲历-过度优化导致系统崩溃-暗喻-opus-4-6-的-熵增诅咒.md"
 ---
 
 # 小互亲历：过度优化导致系统崩溃，暗喻 Opus 4.6 的「熵增诅咒」

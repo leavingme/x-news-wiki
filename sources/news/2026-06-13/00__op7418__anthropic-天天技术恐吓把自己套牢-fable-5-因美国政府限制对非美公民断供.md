@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Anthropic 天天技术恐吓把自己套牢：Fable 5 因美国政府限制对非美公民断供"
 description: "**最讽刺的 AI 合规反噬：安全叙事越强，自家枷锁越紧。**  要点： - 美国政府要求 Anthropic 禁止向任何非美国公民（含在美的）提供 Fable 5 访问 - Anthropic 无法技术上保证地理隔离，只能一刀切下掉所有人访问 - 海外员工同样被波及，连「美国 IP+美国手机号+美国信用卡」组合也未必稳   gakki 锐评：技术恐吓的因果闭环——当 AI 安全成为国家议程，「我"
 resource: "https://x.com/i/status/2065602682644250862"
@@ -22,6 +22,13 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "ai-infrastructure-governance"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2065602682644250862"
+created: "2026-06-13"
+updated: "2026-06-26"
+sha256: "21ebd9acc9d7f7bc8d1c789f3f7bd7cfdce51b87b0c72ab71fdc7190fe67d407"
+sources:
+  - "/sources/news/2026-06-13/00__op7418__anthropic-天天技术恐吓把自己套牢-fable-5-因美国政府限制对非美公民断供.md"
 ---
 
 # Anthropic 天天技术恐吓把自己套牢：Fable 5 因美国政府限制对非美公民断供

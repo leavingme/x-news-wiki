@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "华为北大 SHAPE：推理奖励不再奖励「废话长度」，数学准确率提升 3% 省 30% Token"
 description: "**推理模型的效率瓶颈不在「想多久」，而在「是否在真正推进」。**  - SHAPE 引入双层奖励机制：段级阶段感知优势（鼓励突破）+ Token 级熵驱动重分配（精准执行） - 数学推理准确率提升 3%，同时 Token 消耗降低 30%，打破了「更长推理 = 更好结果」的迷思 - 华为 + 北大 + 上财的跨机构组合，暗示国产推理优化正在形成产学研闭环  gakki 锐评：当所有人都在卷「推理"
 resource: "https://x.com/i/status/2051248722256793646"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2051248722256793646"
+created: "2026-05-04"
+updated: "2026-06-26"
+sha256: "78c18f7401d961fd69099dc2f0c663a11d9d6f1ac46ab3aa17989b1d1fdf161e"
+sources:
+  - "/sources/highlights/2026-05-04/00__jiqizhixin__华为北大-shape-推理奖励不再奖励-废话长度-数学准确率提升-3-省-30-token.md"
 ---
 
 # 华为北大 SHAPE：推理奖励不再奖励「废话长度」，数学准确率提升 3% 省 30% Token

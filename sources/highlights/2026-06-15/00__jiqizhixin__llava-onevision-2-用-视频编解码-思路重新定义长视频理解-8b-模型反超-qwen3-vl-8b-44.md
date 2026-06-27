@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "LLaVA-OneVision-2 用「视频编解码」思路重新定义长视频理解：8B 模型反超 Qwen3-VL-8B 44.8 分"
 description: "**LLaVA-OneVision-2 把视频当作「比特流」来处理，token 只花在事件密集的关键帧上，是长视频理解的架构级突破。**  - Glint Lab + AIM for Health Lab + MVP Lab 提出 Codec-Stream Tokenization：基于运动线索动态分配视觉 token 预算，事件密集处多分配，无关帧大幅压缩，从根源解决 token 浪费。 - 8"
 resource: "https://x.com/i/status/2066319527286366241"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2066319527286366241"
+created: "2026-06-15"
+updated: "2026-06-26"
+sha256: "22836973a3cd9b80283c07eedf8b663a1b69fb60ae110993a6c453f396a6e789"
+sources:
+  - "/sources/highlights/2026-06-15/00__jiqizhixin__llava-onevision-2-用-视频编解码-思路重新定义长视频理解-8b-模型反超-qwen3-vl-8b-44.md"
 ---
 
 # LLaVA-OneVision-2 用「视频编解码」思路重新定义长视频理解：8B 模型反超 Qwen3-VL-8B 44.8 分

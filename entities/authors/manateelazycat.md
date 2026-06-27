@@ -1,5 +1,5 @@
 ---
-type: "Author"
+type: "entity"
 title: "Andy Stewart (@manateelazycat)"
 description: "X/Twitter 作者 @manateelazycat。共收录 1 条 AI 精选推文。"
 tags:
@@ -12,6 +12,12 @@ x_author_name: "Andy Stewart"
 x_tweet_count: 1
 x_first_seen: "2026-03-08T01:01:49.750Z"
 x_last_seen: "2026-03-08T01:01:49.750Z"
+type_okf: "Author"
+created: "2026-03-08"
+updated: "2026-06-26"
+sha256: "289a1dad2856d74a40989db0d3378c01e351608d5c97a24abf17618f52e28350"
+sources:
+  - "/sources/news/2026-03-08/88__manateelazycat__30-个-ai-并行-plan-andy-stewart-的-思维流水线-工作法.md"
 ---
 
 # Andy Stewart (@manateelazycat)

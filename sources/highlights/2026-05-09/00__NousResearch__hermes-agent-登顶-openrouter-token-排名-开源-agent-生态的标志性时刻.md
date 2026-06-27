@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Hermes Agent 登顶 OpenRouter Token 排名：开源 Agent 生态的标志性时刻"
 description: "**[开源 Agent 首次在商业级 Token 排行中击败闭源对手，标志着 Agent 生态进入新阶段。]** - Nous Research 的 Hermes Agent 在 OpenRouter 全球 Token 消耗排名中位列第一，这是开源 Agent 项目首次达到此里程碑。 - 该排名反映了开发者社区对开源 Agent 工具的实际采用率和依赖度正在快速提升。 - 开源 Agent 在性能"
 resource: "https://x.com/NousResearch/status/2052904761087729897"
@@ -22,6 +22,13 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "hermes-agent-stability-comparison"
 x_source: "ai-trend-digest"
+type_okf: "X Tweet"
+source_url: "https://x.com/NousResearch/status/2052904761087729897"
+created: "2026-05-09"
+updated: "2026-06-26"
+sha256: "d97aab68608a3d399bc393927a146322fde9f258b83b2a1296aa6cc5eb9a5ff6"
+sources:
+  - "/sources/highlights/2026-05-09/00__NousResearch__hermes-agent-登顶-openrouter-token-排名-开源-agent-生态的标志性时刻.md"
 ---
 
 # Hermes Agent 登顶 OpenRouter Token 排名：开源 Agent 生态的标志性时刻

@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "开源 BDX Droid 克隆机落地：3D 打印 + 可训练，具身 AI 硬件民主化再下一城"
 description: "**[一句话核心判断]**  迪士尼 BDX Droid 小机器人开源克隆方案正式发布任可任何人自行 3D 打印、组装和训练，标志着具身 AI 硬件从 B 端研发走向 C 端 DIY 的临界点正在到来。  **信息增量：** - 完全开源，硬件图纸与训练方法公开 - 3D 打印降低硬件获取门槛，非专业玩家可参与 - 训练框架开放意味着社区可以针对不同任务场景做垂直微调  **影响分析：** - 对"
 resource: "https://x.com/i/status/2057180625581572571"
@@ -22,6 +22,13 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "robot-phone-consumer-embodied-ai"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2057180625581572571"
+created: "2026-05-20"
+updated: "2026-06-26"
+sha256: "5d920648b2eb432259e12a12d74854292e8f003cbdbdc062616d808411b0c1f5"
+sources:
+  - "/sources/news/2026-05-20/00__xiaohu__开源-bdx-droid-克隆机落地-3d-打印-可训练-具身-ai-硬件民主化再下一城.md"
 ---
 
 # 开源 BDX Droid 克隆机落地：3D 打印 + 可训练，具身 AI 硬件民主化再下一城

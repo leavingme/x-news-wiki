@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Tesla Cybercab $30K 定价锚点：无方向盘设计正式进入量产倒计时，具身 Agent 载体从概念走向交付"
 description: "**$30K 无方向盘自动驾驶出租车开始构建大众预期，具身 Agent 载体的商业化路径越来越清晰。**  - 取消方向盘和踏板是设计上的「断代」——不是辅助驾驶，是完全接管，法律框架和用户心智同时被重写 - 双座大空间设计暗示：座舱即工作站/休息舱，人在车里的身份从「驾驶者」变为「乘客/用户」 - 适老化和无障碍场景是政策叙事的绝佳切入点，叠加 Robotaxi 落地城市的政策窗口  gakki"
 resource: "https://x.com/niccruzpatane/status/2050676554079019460"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "ai-trend-digest"
+type_okf: "X Tweet"
+source_url: "https://x.com/niccruzpatane/status/2050676554079019460"
+created: "2026-05-02"
+updated: "2026-06-26"
+sha256: "b543717a2e79ccba05694abf35f6583e8d0aa8da2e07ff33fd306b8426701219"
+sources:
+  - "/sources/news/2026-05-02/00__niccruzpatane__tesla-cybercab-30k-定价锚点-无方向盘设计正式进入量产倒计时-具身-agent-载体从概念走向交付.md"
 ---
 
 # Tesla Cybercab $30K 定价锚点：无方向盘设计正式进入量产倒计时，具身 Agent 载体从概念走向交付

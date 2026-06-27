@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "模型参数对比已死：用户评论正在成为新的评测基准"
 description: "**一句话核心判断：** 当benchmark永远跑不过新版本，数据好看的模型和用户实际感知正在成为两个平行世界——这不是评测失真，是AI评估体系正在经历结构性崩溃。  - 铁锤人的判断：看参数没意义，看用户评论才是真实信号 - 这个转变的本质是：模型能力提升速度已超过独立评测机构的验证周期 - 用户口碑正在取代技术指标，成为事实上的市场准入门槛   benchmark跑分对普通用户的说服力已趋近"
 resource: "https://x.com/i/status/2060190444584366563"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2060190444584366563"
+created: "2026-05-29"
+updated: "2026-06-26"
+sha256: "8eed5219b8ab6b7683531c3453327a0e80e4db52981843bea2581f30fa4b25c6"
+sources:
+  - "/sources/news/2026-05-29/00__lxfater__模型参数对比已死-用户评论正在成为新的评测基准.md"
 ---
 
 # 模型参数对比已死：用户评论正在成为新的评测基准

@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Codex 不再是 CLI 工具，而是 OpenAI 的\"平台护城河\"——能力组合比单点更强"
 description: "**Codex 已经从代码生成工具演化为\"能力组合平台\"，单点能力都有竞品但组合后无对手。**  基于 tldraw 构建本地无限画布，通过 MCP 让 Codex 原生读写画布元素、按比例生图、自动插入。  作者梳理 Codex 当前能力栈：编程、Image 2 最强生图、内置浏览器、Computer Use、Record & Replay（录操作→Skill）、Sites 一句话部署带数据库网"
 resource: "https://x.com/i/status/2068546908360999331"
@@ -22,6 +22,13 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "codex-ecosystem-platform-war"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2068546908360999331"
+created: "2026-06-21"
+updated: "2026-06-26"
+sha256: "b58e0ff10dd88ab2019adc53b6d71eac096d1364fb84a1b3b697eb1b53c966b5"
+sources:
+  - "/sources/highlights/2026-06-21/00__gkxspace__codex-不再是-cli-工具-而是-openai-的-平台护城河-能力组合比单点更强.md"
 ---
 
 # Codex 不再是 CLI 工具，而是 OpenAI 的"平台护城河"——能力组合比单点更强

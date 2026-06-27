@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "从「不会玩预测市场」到「自动根据新闻下单」，只隔了一次 Claude 对话"
 description: "**用户 Yuki 在 24 小时内完成 Polymarket 自动化交易搭建，验证了「想法 + 行动力 = 超级个体」的低门槛现实。**  • 启发来自 OKX Onchain OS 的语音交互体验，用户直接向 Claude 提出需求即完成实现 • 预测市场长期被视为复杂金融工具，AI 将其转化为「自然语言指令」即可触达的能力 • 关键不是技术难度，而是「心理门槛」的消除——AI 承担了从「想学"
 resource: "https://x.com/i/status/2033585906326900928"
@@ -22,6 +22,13 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "ai-crypto-agent-infra"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2033585906326900928"
+created: "2026-03-16"
+updated: "2026-06-26"
+sha256: "9cee62896fb65cb5a086e49eceb07fcb0a565115dfa224b6624d98bee79a4a99"
+sources:
+  - "/sources/news/2026-03-17/00__OKX_Yuki__从-不会玩预测市场-到-自动根据新闻下单-只隔了一次-claude-对话.md"
 ---
 
 # 从「不会玩预测市场」到「自动根据新闻下单」，只隔了一次 Claude 对话

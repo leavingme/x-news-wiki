@@ -1,5 +1,5 @@
 ---
-type: "Author"
+type: "entity"
 title: "0xNoNo🦇 (@0xNoNo_1)"
 description: "X/Twitter 作者 @0xNoNo_1。共收录 1 条 AI 精选推文。"
 tags:
@@ -12,6 +12,12 @@ x_author_name: "0xNoNo🦇"
 x_tweet_count: 1
 x_first_seen: "2026-02-02T22:32:59.650Z"
 x_last_seen: "2026-02-02T22:32:59.650Z"
+type_okf: "Author"
+created: "2026-02-02"
+updated: "2026-06-26"
+sha256: "674e8a9af94eba449f04dec1bbdbfd11bd47d440a8b0640372ab9ba2cf1054d0"
+sources:
+  - "/sources/news/2026-02-02/00__0xNoNo_1__nosoul-与-ai-界的图灵测试-当人类开始假扮-ai.md"
 ---
 
 # 0xNoNo🦇 (@0xNoNo_1)

@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "知名创作者频道 Starter Story 被 HubSpot 收购"
 description: "**[创投动态]** - YouTube 热门频道 Starter Story 宣布被 HubSpot 收购 - 频道主理人将举办线上分享，复盘 8 年创业经验与避坑指南  内容创作者的终极退出路径之一。在 AI 生成内容泛滥的今天，真实且优质的商业案例资产依然极具收购价值。"
 resource: "https://x.com/i/status/2027534224589525110"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2027534224589525110"
+created: "2026-02-28"
+updated: "2026-06-26"
+sha256: "0fe2e1e5b29f615f9b532d08b07e1be8098c495a59b9b5593fe3386bb5c8e692"
+sources:
+  - "/sources/news/2026-02-28/00__oran_ge__知名创作者频道-starter-story-被-hubspot-收购.md"
 ---
 
 # 知名创作者频道 Starter Story 被 HubSpot 收购

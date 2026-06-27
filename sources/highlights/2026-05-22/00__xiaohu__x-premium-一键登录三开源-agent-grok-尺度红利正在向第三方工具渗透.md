@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "X Premium 一键登录三开源 Agent：Grok 尺度红利正在向第三方工具渗透"
 description: "**[平台授权打通背后的算力分发格局变化]**  X Premium 会员现已支持直接授权登录 Hermes、OpenClaw、OpenCode 三款开源 Agent 产品，用户可使用 Grok 额度驱动这些工具。由于 Grok 尺度远大于主流模型，实际可操作空间显著提升。  这一打通意味着：X 平台正在从社交入口演变为 AI 工具的分发与算力供给中心，Premium 会员的 Grok 用量从平台"
 resource: "https://x.com/i/status/2057921944025235611"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2057921944025235611"
+created: "2026-05-22"
+updated: "2026-06-26"
+sha256: "f0821801118fddd91ad97e631e027aa09aeeb905cf89fc658689a6b1454b5f8b"
+sources:
+  - "/sources/highlights/2026-05-22/00__xiaohu__x-premium-一键登录三开源-agent-grok-尺度红利正在向第三方工具渗透.md"
 ---
 
 # X Premium 一键登录三开源 Agent：Grok 尺度红利正在向第三方工具渗透

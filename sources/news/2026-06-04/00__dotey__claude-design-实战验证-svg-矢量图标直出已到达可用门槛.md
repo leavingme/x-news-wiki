@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Claude Design 实战验证：SVG 矢量图标直出已到达可用门槛"
 description: "**[一句话核心判断]** Claude Design 生成的 SVG 图标已达到生产可用水准，标志 AI 设计工具从\"演示玩具\"到\"交付物\"的边界正在突破。  **信息增量：** - 宝玉实测：Claude Design 直接输出 SVG 格式，无需经过 raster 转矢量流程 - 矢量特性意味着可无限缩放、代码可复用，相比 AI 生成 PNG 是本质差异 - 验证路径：设计 → 代码 → 工"
 resource: "https://x.com/i/status/2062330943931662710"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2062330943931662710"
+created: "2026-06-04"
+updated: "2026-06-26"
+sha256: "c3d948a1e8bfda73d86c3e36e809c83fbfa614e5a7dc5ea14cc7a328bb18c4db"
+sources:
+  - "/sources/news/2026-06-04/00__dotey__claude-design-实战验证-svg-矢量图标直出已到达可用门槛.md"
 ---
 
 # Claude Design 实战验证：SVG 矢量图标直出已到达可用门槛

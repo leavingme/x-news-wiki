@@ -1,5 +1,5 @@
 ---
-type: "Author"
+type: "entity"
 title: "roger (@AI_Skiller)"
 description: "X/Twitter 作者 @AI_Skiller。共收录 1 条 AI 精选推文。"
 tags:
@@ -12,6 +12,12 @@ x_author_name: "roger"
 x_tweet_count: 1
 x_first_seen: "2026-02-21T01:00:40.582Z"
 x_last_seen: "2026-02-21T01:00:40.582Z"
+type_okf: "Author"
+created: "2026-02-21"
+updated: "2026-06-26"
+sha256: "cf074a99edcd21489f7aa2a39b4829e5af8b7efd8daf84063a1cd059a965650b"
+sources:
+  - "/sources/highlights/2026-02-21/00__AI_Skiller__mcp-范式革命-cloudflare-实现-api-调用-token-节约-99.md"
 ---
 
 # roger (@AI_Skiller)

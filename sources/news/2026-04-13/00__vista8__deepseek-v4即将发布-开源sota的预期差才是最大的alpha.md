@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "DeepSeek V4即将发布：开源SOTA的预期差才是最大的Alpha"
 description: "**核心判断：DeepSeek的真正价值不是技术本身，而是它对整个AI行业打破算力垄断的象征意义。**  知情人士透露，DeepSeek V4已随时可发布，出手必定是开源SOTA。配合国产显卡适配的战略选择虽然短期内耽误了进度，但长期视角下，绕过英伟达生态的技术路径对整个行业更有意义。V3发布时的震撼还历历在目，V4即使「不再如V3版本震撼」，也依然值得期待。  身边投资圈的朋友普遍看好智谱，但D"
 resource: "https://x.com/i/status/2043542270243414499"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2043542270243414499"
+created: "2026-04-13"
+updated: "2026-06-26"
+sha256: "58e41dba0bfb0886934e0edbeb02a200cc9334e7ec3301d55d41cf9343d428df"
+sources:
+  - "/sources/news/2026-04-13/00__vista8__deepseek-v4即将发布-开源sota的预期差才是最大的alpha.md"
 ---
 
 # DeepSeek V4即将发布：开源SOTA的预期差才是最大的Alpha

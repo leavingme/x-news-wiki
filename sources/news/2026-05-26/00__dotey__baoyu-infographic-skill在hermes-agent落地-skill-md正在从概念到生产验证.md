@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "baoyu-infographic Skill在Hermes Agent落地：SKILL.md正在从概念到生产验证"
 description: "**【Skill作为AI工作流原子单元的生产级验证】  宝玉演示了Hermes Agent内置的baoyu-infographic Skill生成信息图的效果。这是SKILL.md规范在真实多Agent协作场景中的实际落地。  相比单纯的skill定义文档，这说明Skills生态正在从「编写规范」进化到「生产验证」阶段——可组合性、跨Agent调用、标准化接口开始接受真实场景检验。  gakki："
 resource: "https://x.com/i/status/2059063249753043358"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2059063249753043358"
+created: "2026-05-26"
+updated: "2026-06-26"
+sha256: "8eed9b571001241791d677932fcc2f4a338e393736379fdb62ed4b7f12c63365"
+sources:
+  - "/sources/news/2026-05-26/00__dotey__baoyu-infographic-skill在hermes-agent落地-skill-md正在从概念到生产验证.md"
 ---
 
 # baoyu-infographic Skill在Hermes Agent落地：SKILL.md正在从概念到生产验证

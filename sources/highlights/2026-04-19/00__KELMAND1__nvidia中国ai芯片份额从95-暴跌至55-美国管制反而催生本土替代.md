@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "NVIDIA中国AI芯片份额从95%暴跌至55%：美国管制反而催生本土替代"
 description: "**[华为吃下20%国内市场，美国芯片战自伤利益]**  路透社引援IDC数据，2025年中国AI芯片市场格局剧变：NVIDIA份额从2024年前的95%腰斩至55%，全年出货约220万块。本土厂商合计拿下41%份额，交付165万块。  华为最为突出，出货81.2万块（约20%份额），上周发布的Atlas 350性能号称接近NVIDIA H20三倍。阿里平头哥26.5万块排第二，百度与寒武纪各11"
 resource: "https://x.com/i/status/2039699203216277796"
@@ -22,6 +22,13 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "nvidia-compute-moat"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2039699203216277796"
+created: "2026-04-02"
+updated: "2026-06-26"
+sha256: "ad2a578b77188a76206a0541e562cde1af4bff6b2f8b60752e952e51596bdc80"
+sources:
+  - "/sources/highlights/2026-04-19/00__KELMAND1__nvidia中国ai芯片份额从95-暴跌至55-美国管制反而催生本土替代.md"
 ---
 
 # NVIDIA中国AI芯片份额从95%暴跌至55%：美国管制反而催生本土替代

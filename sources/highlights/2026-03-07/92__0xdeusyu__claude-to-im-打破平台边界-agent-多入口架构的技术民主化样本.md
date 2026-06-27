@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Claude-to-IM 打破平台边界：Agent 多入口架构的技术民主化样本"
 description: "**[长轮询架构颠覆「公网依赖」迷思]**  藏师傅的 Claude-to-IM Skill 用本地 spawn + 长轮询实现 Telegram↔Claude Code 的无缝对接，全程无需公网 IP、NAT 穿透或额外云服务——这意味着任何用户都能在 5 分钟内将自己的 Claude Code 变成「跨平台 Agent」。  **关键突破：** • 通信层：长轮询取代传统 Webhook，绕过"
 resource: "https://x.com/i/status/2029922289408692314"
@@ -22,6 +22,13 @@ x_selected: 2
 x_priority: 92
 x_related_topic: "agent-multi-platform"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2029922289408692314"
+created: "2026-03-06"
+updated: "2026-06-26"
+sha256: "ba081337a2968766ed6cee762a577e0aea85fef431bd879a10067a042cc1e73c"
+sources:
+  - "/sources/highlights/2026-03-07/92__0xdeusyu__claude-to-im-打破平台边界-agent-多入口架构的技术民主化样本.md"
 ---
 
 # Claude-to-IM 打破平台边界：Agent 多入口架构的技术民主化样本

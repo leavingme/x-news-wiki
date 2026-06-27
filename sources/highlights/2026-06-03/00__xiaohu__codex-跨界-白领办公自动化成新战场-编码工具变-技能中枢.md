@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Codex 跨界：白领办公自动化成新战场，编码工具变「技能中枢」"
 description: "**[一次战略重置：编码工具正式成为办公自动化中枢]**  Codex 从开发者工具延伸为白领生产力平台，捆绑 62 个应用和 110 个自动化技能。核心变化在于：AI 编程工具的角色定义从「写代码」迁移到「替代白领工作流」。这对 Copilot、Claude Code 的定位都构成参照压力。  - 工具属性转变：不再是 IDE 插件，而是跨应用的自动化调度层 - 白领市场的争夺：SaaS 工作流"
 resource: "https://x.com/i/status/2062004505915670997"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2062004505915670997"
+created: "2026-06-03"
+updated: "2026-06-26"
+sha256: "115ebad2c45a3a73b13c045182c88fc153f72c005853f3698c9844fe86b9a16e"
+sources:
+  - "/sources/highlights/2026-06-03/00__xiaohu__codex-跨界-白领办公自动化成新战场-编码工具变-技能中枢.md"
 ---
 
 # Codex 跨界：白领办公自动化成新战场，编码工具变「技能中枢」

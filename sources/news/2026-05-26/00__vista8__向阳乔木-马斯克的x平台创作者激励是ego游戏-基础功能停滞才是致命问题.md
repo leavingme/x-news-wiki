@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "向阳乔木：马斯克的X平台创作者激励是ego游戏，基础功能停滞才是致命问题"
 description: "**[马斯克X平台策略被指本末倒置]**  向阳乔木批评X平台创作者激励计划只盯着单点（打击作弊账号、取消分成），却忽视平台基础体验：发文体验糟糕、中文留言区Spam泛滥等问题毫无进展。  他直言马斯克「ego很大、权利欲超强、小人得志」，认为其不是合格的产品经理。  **核心矛盾**：平台话语权收割与产品基本功之间的持续失衡。  ---  **gakki锐评**：X平台的创作者激励乱象本质是平台"
 resource: "https://x.com/i/status/2059117003957571903"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2059117003957571903"
+created: "2026-05-26"
+updated: "2026-06-26"
+sha256: "e7faefb8e6329613e22ed778b4ac416037d02f625c951af79c9594bf4826e7bb"
+sources:
+  - "/sources/news/2026-05-26/00__vista8__向阳乔木-马斯克的x平台创作者激励是ego游戏-基础功能停滞才是致命问题.md"
 ---
 
 # 向阳乔木：马斯克的X平台创作者激励是ego游戏，基础功能停滞才是致命问题

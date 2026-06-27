@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "程序员的「隐性 Skill」：好奇心驱动的代码质量保险"
 description: "**[Vibe Coding 时代的「人味儿」护城河]**  yetone 提出关键洞察：程序员与非程序员在 Vibe Coding 中的核心差异，在于前者对代码实现天然抱有「根源性好奇心」——追问 Bug 本质、Edge Case 边界、设计细节，这种好奇心本身成为保障软件质量的 steerability-skill。  **行为模式对比：** • 非程序员：「帮我实现 X」→ 接受结果 → 遇"
 resource: "https://x.com/i/status/2030003014678020240"
@@ -22,6 +22,13 @@ x_selected: 2
 x_priority: 86
 x_related_topic: "vibe-coding-methodology"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2030003014678020240"
+created: "2026-03-06"
+updated: "2026-06-26"
+sha256: "75b3c7e14b308d24977196d9053bbc8e737c563738128d8500b0e1e53b534632"
+sources:
+  - "/sources/highlights/2026-03-07/86__yetone__程序员的-隐性-skill-好奇心驱动的代码质量保险.md"
 ---
 
 # 程序员的「隐性 Skill」：好奇心驱动的代码质量保险

@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Google AI Studio 吞进 Pro/Ultra 套餐：订阅即入口，API 末日已至"
 description: "**[ AI Studio 不用单独 API key 了，订阅制把开发者工作流彻底锁进 Google 生态 ]**  Google 宣布 AI Studio 并入 Gemini Pro/Ultra 订阅体系——买了会员就能直接用 AI Studio，且额度比单独 API key 更高。Nano Banana 画图和开发小应用也在套餐内。  这意味着 API key 作为独立付费入口的价值被进一步侵"
 resource: "https://x.com/i/status/2046522220458217909"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2046522220458217909"
+created: "2026-04-21"
+updated: "2026-06-26"
+sha256: "8976b9abd4ab24adcc068bf240e647ca9d2f4c162bf784fad70c14004246d1ad"
+sources:
+  - "/sources/news/2026-04-21/00__xiaohu__google-ai-studio-吞进-pro-ultra-套餐-订阅即入口-api-末日已至.md"
 ---
 
 # Google AI Studio 吞进 Pro/Ultra 套餐：订阅即入口，API 末日已至

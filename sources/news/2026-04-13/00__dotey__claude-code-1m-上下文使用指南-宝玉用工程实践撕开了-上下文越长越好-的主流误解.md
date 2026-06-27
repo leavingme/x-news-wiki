@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Claude Code 1M 上下文使用指南：宝玉用工程实践撕开了「上下文越长越好」的主流误解"
 description: "**[Claude Code 的 token 效率革命：长上下文是把双刃剑，用错场景等于烧钱]**  宝玉给出了 Claude Code 实际工程中最重要的一个反直觉结论：不开新会话和总是开新会话都不对，正确姿势是「有节制地使用 1M 上下文」。  **信息增量**：当前 AI  Coding 社区普遍存在「上下文越长越厉害」的叙事惯性，但实际生产环境中，长上下文带来的 token 成本和推理延迟"
 resource: "https://x.com/i/status/2043463546025992494"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2043463546025992494"
+created: "2026-04-12"
+updated: "2026-06-26"
+sha256: "9e1aefa695923c968ff92383ec1974f968af72237bae6eca7c3a13b56c4dbdd2"
+sources:
+  - "/sources/news/2026-04-13/00__dotey__claude-code-1m-上下文使用指南-宝玉用工程实践撕开了-上下文越长越好-的主流误解.md"
 ---
 
 # Claude Code 1M 上下文使用指南：宝玉用工程实践撕开了「上下文越长越好」的主流误解

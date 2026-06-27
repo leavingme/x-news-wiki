@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Coinbase+Binance 双所联动上 $PRL：这不是散户行为，是机构定价权的转移"
 description: "**两大所同日官告，叙事已被机构接管。**  - $PRL 上线 Binance Alpha 当日涨幅 50%+，Coinbase 同步上线合约+现货——两大顶级交易所协同动作极为罕见，说明背后有协调机制或共同信息源。 - 白皮书扒出的核心切入点是「真人专家链上审核」，不是传统兼职标注，而是不可篡改的专业签名，本质是「真理上链」。 - 团队背景是最大催化剂：Scale AI 核心高管亲自下场，等于"
 resource: "https://x.com/i/status/2037055324377801180"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2037055324377801180"
+created: "2026-03-26"
+updated: "2026-06-26"
+sha256: "384a44a5b4fee31a6ef2908c32b3fefa500b19d6b6aeba2c614444d02768c7e8"
+sources:
+  - "/sources/highlights/2026-04-01/00__ohouhou717__coinbase-binance-双所联动上-prl-这不是散户行为-是机构定价权的转移.md"
 ---
 
 # Coinbase+Binance 双所联动上 $PRL：这不是散户行为，是机构定价权的转移

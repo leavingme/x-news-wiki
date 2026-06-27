@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Deepseek Pro 降价真相：Flash 口碑崩盘导致被迫价格内卷"
 description: "**[Deepseek 主动降 Pro 价的底层逻辑是产品口碑止损，而非单纯价格战]**  - Michael Anti 指出 Deepseek 对 Pro 降价的原因在于 Flash 版本体验不如 V3.2，口碑拖累导致必须用 Pro 降价来弥补用户预期差。 - 这是国内大模型厂商首次公开承认「低价产品影响高端产品定位」的定价困境。 - 意味着 Flash/Pro 双产品线策略在国内厂商中开始出"
 resource: "https://x.com/i/status/2048590216655692094"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2048590216655692094"
+created: "2026-04-27"
+updated: "2026-06-26"
+sha256: "83d9c004f86f41baca9c03b620b1f860123ab0d4f932bdbdfcc4a09ec80e812b"
+sources:
+  - "/sources/highlights/2026-04-27/00__mranti__deepseek-pro-降价真相-flash-口碑崩盘导致被迫价格内卷.md"
 ---
 
 # Deepseek Pro 降价真相：Flash 口碑崩盘导致被迫价格内卷

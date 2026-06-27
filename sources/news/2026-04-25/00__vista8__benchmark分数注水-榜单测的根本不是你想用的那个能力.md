@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Benchmark分数注水：榜单测的根本不是你想用的那个能力"
 description: "**LLM榜单分数与实际应用价值之间，存在一个系统性欺骗。**  - MMLU、GPQA、HumanEval、HLE……每家发布都有更高的数字和更漂亮的图表 - 但这些分数测的是模型在标准化考试场景下的表现，而非真实工作流中的连贯性、可靠性、错误恢复能力 - 对普通用户和企业选型来说，Benchmark 是最差参考指标之一  Benchmark 榜单正在变成一场数字军备竞赛，用户需要的是体感坐标系"
 resource: "https://x.com/i/status/2047870136212979770"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2047870136212979770"
+created: "2026-04-25"
+updated: "2026-06-26"
+sha256: "617eb8b9fa2308a2c909f8f481b40260f1c29238c9e8ceda52ee5886ba78512b"
+sources:
+  - "/sources/news/2026-04-25/00__vista8__benchmark分数注水-榜单测的根本不是你想用的那个能力.md"
 ---
 
 # Benchmark分数注水：榜单测的根本不是你想用的那个能力

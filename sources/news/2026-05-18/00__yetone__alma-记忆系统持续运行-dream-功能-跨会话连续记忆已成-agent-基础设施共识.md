@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Alma 记忆系统持续运行 Dream 功能：跨会话连续记忆已成 Agent 基础设施共识"
 description: "**[Agent 记忆不是功能，是基础设施——Alma 的 Dream 功能持续运行这一事实本身就是一个信号]**  yetone 确认 Alma 的记忆系统一直在运行 Dream 功能。这是今天关于 Agent Memory 基础设施讨论中最务实的一条：不是发布新功能，而是确认已有系统在持续工作。  跨会话连续记忆的价值已经被反复验证，但真正的难题是记忆的检索效率和上下文干扰。Dream 功能的"
 resource: "https://x.com/i/status/2056456258149138691"
@@ -22,6 +22,13 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "agent-memory-optimization"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2056456258149138691"
+created: "2026-05-18"
+updated: "2026-06-26"
+sha256: "2144cab2b45f6226d35384927504b3dbec192e22798134f392f65d6dd6c739f7"
+sources:
+  - "/sources/news/2026-05-18/00__yetone__alma-记忆系统持续运行-dream-功能-跨会话连续记忆已成-agent-基础设施共识.md"
 ---
 
 # Alma 记忆系统持续运行 Dream 功能：跨会话连续记忆已成 Agent 基础设施共识

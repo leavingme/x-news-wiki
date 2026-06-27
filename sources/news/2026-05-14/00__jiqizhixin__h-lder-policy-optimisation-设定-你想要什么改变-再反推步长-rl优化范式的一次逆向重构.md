@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Hölder Policy Optimisation：设定「你想要什么改变」再反推步长，RL优化范式的一次逆向重构"
 description: "**一句话核心判断：RL训练不再靠经验调步长，而是先定义期望输出变化，再数学求解达到该变化所需的步长——把「黑箱调参」变成「目标导向」的显式控制。**  要点： - 传统方法：选个步长，期待最好结果，容易不稳定 - 新范式：先定目标输出变化（如将TD误差削减固定比例），再解出对应步长 - 来自Openmind Research Institute与Alberta大学联合团队  gakki的锐评：R"
 resource: "https://x.com/i/status/2054824394309165122"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2054824394309165122"
+created: "2026-05-14"
+updated: "2026-06-26"
+sha256: "e8a7f668b0f9ad63fcf9d7395fe8861afcc48144e781008b139de7266be5a3c8"
+sources:
+  - "/sources/news/2026-05-14/00__jiqizhixin__h-lder-policy-optimisation-设定-你想要什么改变-再反推步长-rl优化范式的一次逆向重构.md"
 ---
 
 # Hölder Policy Optimisation：设定「你想要什么改变」再反推步长，RL优化范式的一次逆向重构

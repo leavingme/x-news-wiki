@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "yetone 的 Agent 界面亲和度排行：CLI > GUI with a11y >> TUI"
 description: "**[一个不等式揭示了 Agent 时代的界面哲学]**  yetone 给出了一个简洁的判断框架：Agent 对不同界面的亲和度 CLI > GUI with accessibility > TUI。核心逻辑是 CLI 最透明、最可控；带无障碍支持的 GUI 其次；纯 TUI（文本用户界面）反而最差，因为它在「可见性」和「可操控性」上都介于中间，不如前两者纯粹。  这个框架的价值在于：它不是技术"
 resource: "https://x.com/i/status/2044485583704387709"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2044485583704387709"
+created: "2026-04-15"
+updated: "2026-06-26"
+sha256: "41e76fbd827bae9206719f81e4a6e59de76b1820b22aa5c30915792e241b8bbb"
+sources:
+  - "/sources/news/2026-04-16/00__yetone__yetone-的-agent-界面亲和度排行-cli-gui-with-a11y-tui.md"
 ---
 
 # yetone 的 Agent 界面亲和度排行：CLI > GUI with a11y >> TUI

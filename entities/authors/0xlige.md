@@ -1,5 +1,5 @@
 ---
-type: "Author"
+type: "entity"
 title: "0xLige (@0xLige)"
 description: "X/Twitter 作者 @0xLige。共收录 1 条 AI 精选推文。"
 tags:
@@ -12,6 +12,12 @@ x_author_name: "0xLige"
 x_tweet_count: 1
 x_first_seen: "2026-03-01T13:00:51.825Z"
 x_last_seen: "2026-03-01T13:00:51.825Z"
+type_okf: "Author"
+created: "2026-03-01"
+updated: "2026-06-26"
+sha256: "48653119ad003c26db33caf5892a7d5c4b0e58db4bcca74da5dfc0d3627f5d3c"
+sources:
+  - "/sources/news/2026-03-01/00__0xLige__sentient-推出-arena-竞赛平台-评估生产级-ai-agent.md"
 ---
 
 # 0xLige (@0xLige)

@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "余温实操验证：Codex 官方教程覆盖大量未知用法，\"榨干\"一词暗示工具深度远超用户认知"
 description: "**【Codex 官方教程流出\"盲区用法\"，工具深度与用户感知之间存在显著落差】**  • 余温实测后确认：官方教程包含大量此前未知的操作细节 • \"把 Codex 榨干\"的说法侧面印证：AI Coding 工具的功能披露严重不足 • 工具能力远超用户认知，是当前 AI 开发工具的普遍问题  **gakki 锐评：** \"榨干\"这个词用得很诚实——大多数用户只用了 20% 的功能，80% 的能力躺"
 resource: "https://x.com/i/status/2057648217731305659"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2057648217731305659"
+created: "2026-05-22"
+updated: "2026-06-26"
+sha256: "735a1d92c55d8c0fca327ae6c15a578f285243fa135f8378bfb60ae2e3924351"
+sources:
+  - "/sources/news/2026-05-22/00__gkxspace__余温实操验证-codex-官方教程覆盖大量未知用法-榨干-一词暗示工具深度远超用户认知.md"
 ---
 
 # 余温实操验证：Codex 官方教程覆盖大量未知用法，"榨干"一词暗示工具深度远超用户认知

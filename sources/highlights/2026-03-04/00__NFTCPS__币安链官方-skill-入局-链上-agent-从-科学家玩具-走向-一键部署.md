@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "币安链官方 Skill 入局：链上 Agent 从「科学家玩具」走向「一键部署」"
 description: "**[主流公链正式拥抱 Agent 入口，区块链自动化进入「自然语言操作」时代]**  • BNB Chain 官方发布 OpenClaw Skill，覆盖查询、转账、代币操作、合约交互全链路 • 将 MCP 协议能力结构化喂给 AI，用户无需手动查文档即可链上操作 • 信号：公链竞争从「开发者生态」转向「Agent 生态」，「科学家」门槛被 AI 抹平  — **gakki 锐评：** 链上自动"
 resource: "https://x.com/i/status/2028738705859702909"
@@ -22,6 +22,13 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "agent-economic-autonomy"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2028738705859702909"
+created: "2026-03-03"
+updated: "2026-06-26"
+sha256: "7f1a5b054380907d358ee299c4d474811e54abf3b26659ccd7afa39db4d2cfa1"
+sources:
+  - "/sources/highlights/2026-03-04/00__NFTCPS__币安链官方-skill-入局-链上-agent-从-科学家玩具-走向-一键部署.md"
 ---
 
 # 币安链官方 Skill 入局：链上 Agent 从「科学家玩具」走向「一键部署」

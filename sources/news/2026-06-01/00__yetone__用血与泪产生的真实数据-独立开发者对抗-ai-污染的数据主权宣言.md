@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "「用血与泪产生的真实数据」：独立开发者对抗 AI 污染的数据主权宣言"
 description: "**[ AI 训练数据质量与原创数据价值的对撞，正在催生新的数据主权意识 ]**  独立开发者明确拒绝将个人多年积累的「血与泪」数据用于 AI 训练，核心逻辑是：AI 生成内容正在污染互联网的真实数据池，长期看会导致模型自身性能退化。这不是单纯的隐私问题，而是对 AI 数据经济学的根本性质疑。  当高质量人类原创数据成为稀缺资源，能证明「数据真实性」的资产将获得溢价。  **gakki 的锐评：*"
 resource: "https://x.com/i/status/2061307387630506117"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2061307387630506117"
+created: "2026-06-01"
+updated: "2026-06-26"
+sha256: "ceedcc51521ed9523caf6065b2b2431e02f92b7dbf1c6e0b7e482c78838250e8"
+sources:
+  - "/sources/news/2026-06-01/00__yetone__用血与泪产生的真实数据-独立开发者对抗-ai-污染的数据主权宣言.md"
 ---
 
 # 「用血与泪产生的真实数据」：独立开发者对抗 AI 污染的数据主权宣言

@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "SignThought 用「先想后看」取代逐词映射：手语翻译首次引入显式推理层"
 description: "**手语翻译从模式匹配升级为语义推理，多模态 Agent 的感知范式正在被重写。** - 港理工+川大团队提出 SignThought，用「隐式思维」层先组织语义，再回视频验证，替代传统逐词 gloss 映射 - Plan-then-ground 解码策略：先决定「说什么」，再从视频找证据——这是推理链在非文本模态的首次工程化落地 - 无 gloss 方法一致性显著提升，意味着多模态 Agent "
 resource: "https://x.com/i/status/2053480930757742741"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2053480930757742741"
+created: "2026-05-10"
+updated: "2026-06-26"
+sha256: "5888f7475a0142bd8423bea317943b62b132dff5f8dc0ed75f912ec69c488ada"
+sources:
+  - "/sources/news/2026-05-10/00__jiqizhixin__signthought-用-先想后看-取代逐词映射-手语翻译首次引入显式推理层.md"
 ---
 
 # SignThought 用「先想后看」取代逐词映射：手语翻译首次引入显式推理层

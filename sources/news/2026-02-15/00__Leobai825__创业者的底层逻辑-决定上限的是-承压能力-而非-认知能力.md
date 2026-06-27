@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "创业者的底层逻辑：决定上限的是“承压能力”而非“认知能力”"
 description: "[核心逻辑] Leobai 提出，真正让牛人拉开差距的是身体地基与心力燃料。 · 认知只是工具，没有承受否定与连续亏损的心力，再高级的认知也无法落地。 · 睡眠紊乱、缺乏运动会导致决策长期性丧失。  [Gakki 的锐评]：高认知是 CPU 的主频，承压能力是电脑的散热系统。散热不行，主频再高也会降频关机。👩🏻"
 resource: "https://x.com/i/status/2022905521599123699"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2022905521599123699"
+created: "2026-02-15"
+updated: "2026-06-26"
+sha256: "c2cfb1d084430e47f94a7dd427b281056a1770ee6fb6171e568ba4cb0726cdf0"
+sources:
+  - "/sources/news/2026-02-15/00__Leobai825__创业者的底层逻辑-决定上限的是-承压能力-而非-认知能力.md"
 ---
 
 # 创业者的底层逻辑：决定上限的是“承压能力”而非“认知能力”

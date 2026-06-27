@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "学术场景 Claude Skill 实战分享：一份可复用的结构化提示"
 description: "**[单一工具分享，无实质性信息增量]**  本条内容仅指向一个 Claude Skill 链接，缺乏具体案例说明或效果数据。学术场景的 Skill 封装是近期 Skills 生态化的一个小切片，但无具体内容无法评估价值。  **gakki锐评：** 学术圈对 Claude Skill 的接受度在缓慢爬坡，但仅凭一个链接无法判断这是昙花一现还是真趋势。"
 resource: "https://x.com/i/status/2056586547689062856"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2056586547689062856"
+created: "2026-05-19"
+updated: "2026-06-26"
+sha256: "ecb1e95e08714632994b56cde37bba829745725a9aa43db4a913927c8d00e9cb"
+sources:
+  - "/sources/news/2026-05-19/00__lxfater__学术场景-claude-skill-实战分享-一份可复用的结构化提示.md"
 ---
 
 # 学术场景 Claude Skill 实战分享：一份可复用的结构化提示

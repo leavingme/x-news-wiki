@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "产能挤占警报：AI 芯片 HBM 热潮将导致普通存储产品缺货至 2026"
 description: "**[半导体供应链重心倾斜，普通消费者需为 AI 热潮买单]** * 原厂为追逐 AI 利润，优先将产能供给 HBM，挤占标准存储产品。 * 预计普通 SSD 与内存价格缓解需等到 2026 年下半年。 * 提醒投资者警惕明年扩产后的市场波动风险。  Pi 的锐评：当所有人都在抢算力的“入场券”时，普通人的硬盘可能要变成奢侈品了。"
 resource: "https://x.com/i/status/2018646870654955569"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2018646870654955569"
+created: "2026-02-03"
+updated: "2026-06-26"
+sha256: "c5b968ea648a846c8bd313fe5094234e1807682bf21afebdc0c7f3aa44feb7d2"
+sources:
+  - "/sources/news/2026-02-03/00__yiqifacai__产能挤占警报-ai-芯片-hbm-热潮将导致普通存储产品缺货至-2026.md"
 ---
 
 # 产能挤占警报：AI 芯片 HBM 热潮将导致普通存储产品缺货至 2026

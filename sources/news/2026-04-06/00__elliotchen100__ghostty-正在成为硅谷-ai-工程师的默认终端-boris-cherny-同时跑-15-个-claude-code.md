@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Ghostty 正在成为硅谷 AI 工程师的默认终端：Boris Cherny 同时跑 15 个 Claude Code 实例选它不是偶然"
 description: "**【一句话核心判断】** 当 OpenAI 的发布会和 Anthropic 的创始团队同时选了 Ghostty，这不是 UX 品味问题，而是性能敏感型用户对 terminal 本质功能的一次集体投票。  **后续要点：** • Boris Cherny 对 terminal 性能要求极度变态（10-15 个并发 Claude Code session），他选 Ghostty 是压力测试后的结论 "
 resource: "https://x.com/i/status/2040799136367477189"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2040799136367477189"
+created: "2026-04-05"
+updated: "2026-06-26"
+sha256: "17f68595531a5170ba3d81ef9ce4ed71a187fd94a63e1e77b849c5b8a7c7403c"
+sources:
+  - "/sources/news/2026-04-06/00__elliotchen100__ghostty-正在成为硅谷-ai-工程师的默认终端-boris-cherny-同时跑-15-个-claude-code.md"
 ---
 
 # Ghostty 正在成为硅谷 AI 工程师的默认终端：Boris Cherny 同时跑 15 个 Claude Code 实例选它不是偶然

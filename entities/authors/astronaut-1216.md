@@ -1,5 +1,5 @@
 ---
-type: "Author"
+type: "entity"
 title: "叫我阿杭 (@Astronaut_1216)"
 description: "X/Twitter 作者 @Astronaut_1216。共收录 1 条 AI 精选推文。"
 tags:
@@ -12,6 +12,12 @@ x_author_name: "叫我阿杭"
 x_tweet_count: 1
 x_first_seen: "2026-03-28T18:35:19.072Z"
 x_last_seen: "2026-03-28T18:35:19.072Z"
+type_okf: "Author"
+created: "2026-03-28"
+updated: "2026-06-26"
+sha256: "a6ce5cd5b132dc6b911d4a0d5fdc100cfb8213713923a65210a4350698c5aa53"
+sources:
+  - "/sources/news/2026-03-28/00__Astronaut_1216__ai-时代-自我学习-方法论-框架先行-拆解为骨-搜索为翼.md"
 ---
 
 # 叫我阿杭 (@Astronaut_1216)

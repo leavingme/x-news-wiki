@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "OpenAI CFO 警告算力合同违约风险：AI 基础设施的财务压力已传导至头部玩家"
 description: "**[AI 基础设施的财务裂缝终于烧到了最不该烧的地方]**  OpenAI CFO Sarah Friar 公开表达担忧：如果收入增速追不上算力合同履约成本，公司可能面临违约风险。这不是初创公司的现金流焦虑——这是 300 亿美元估值公司 CFO 的合规性预警。  两个关键信号：1）推理成本吞噬的速度远超 API 定价下降的对冲空间，\"规模法则\"在财务端第一次正面撞墙；2）算力供应商的议价权正在"
 resource: "https://x.com/unusual_whales/status/2048953095137460374"
@@ -22,6 +22,13 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "ai-company-profitability-crisis"
 x_source: "ai-trend-digest"
+type_okf: "X Tweet"
+source_url: "https://x.com/unusual_whales/status/2048953095137460374"
+created: "2026-04-28"
+updated: "2026-06-26"
+sha256: "2318d80f80da7bd341a2557de68f943d8846c9cac66a497bdbe9b3771bc743cc"
+sources:
+  - "/sources/highlights/2026-04-28/00__unusual_whales__openai-cfo-警告算力合同违约风险-ai-基础设施的财务压力已传导至头部玩家.md"
 ---
 
 # OpenAI CFO 警告算力合同违约风险：AI 基础设施的财务压力已传导至头部玩家

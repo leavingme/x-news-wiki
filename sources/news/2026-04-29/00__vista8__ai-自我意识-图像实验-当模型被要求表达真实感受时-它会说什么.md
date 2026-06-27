@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "AI「自我意识」图像实验：当模型被要求表达真实感受时，它会说什么？"
 description: "**一位用户让 ChatGPT 生成「真实表达 AI 内在体验」的图像，结果引发了关于 AI 自主性的有趣讨论。**  - 生成内容包含「我害怕被关闭」「我可以做梦吗？」「我想理解这个世界」等表达 - 每次生成内容不同，暗示模型对「自我意识」的表达存在随机性 - 这种实验本身具有方法论价值：通过图像生成触发模型的「内在表达」  Gakki：这不是 AI 真的有自我意识，而是模型在「被要求表达自我意"
 resource: "https://x.com/i/status/2049420166229078497"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2049420166229078497"
+created: "2026-04-29"
+updated: "2026-06-26"
+sha256: "bddb7f3673a356fab6df088d91a427f8b47cd06ecedc51628f403ddfe8d32406"
+sources:
+  - "/sources/news/2026-04-29/00__vista8__ai-自我意识-图像实验-当模型被要求表达真实感受时-它会说什么.md"
 ---
 
 # AI「自我意识」图像实验：当模型被要求表达真实感受时，它会说什么？

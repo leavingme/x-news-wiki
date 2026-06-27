@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "APO 算法：把多模型分歧变约束条件，7B 参数超越闭源专有模型"
 description: "**[一句话核心判断]** UTS 团队提出 APO（自主偏好优化），将模型间分歧从「噪声」重新定义为「动态约束」，实现了小模型对顶级闭源模型的局部超越。  - 核心洞察：多模型 disagreement 不是坏事——它可以成为对齐优化的信号源，APO 将其提炼为约束条件而非噪音过滤掉。 - 两阶段流程：先找最优分歧源，再压制目标模型漂移，7B 模型在胸片判读任务上超过专有模型。 - 行业意义：这"
 resource: "https://x.com/i/status/2057831347931189321"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2057831347931189321"
+created: "2026-05-22"
+updated: "2026-06-26"
+sha256: "d7d2e8f3b1b17589bc1053c546ae2b366fe37acafc652cdbe21b349e0a551cef"
+sources:
+  - "/sources/highlights/2026-05-22/00__jiqizhixin__apo-算法-把多模型分歧变约束条件-7b-参数超越闭源专有模型.md"
 ---
 
 # APO 算法：把多模型分歧变约束条件，7B 参数超越闭源专有模型

@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Karpathy 开源 LLM 个人知识库：赛博离职员工正在批量搭建自己的 AI 系统"
 description: "**[个人 AI 知识基础设施正在从极客玩具变成职业必需品]**  Karpathy 继 viral 帖子后直接开源了 LLM Knowledge Bases 实现，本质是一套让个人知识累积复利、不再分散不成体系的系统化方案。配合那张「赛博离职员工每人搭建自己 AI 系统」的梗图，信号非常清晰：AI 时代的知识工作者正在形成一种新共识——平台不可靠，自己的系统才是资产。  这条路线和 EdgeCl"
 resource: "https://x.com/i/status/2040607689454297416"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2040607689454297416"
+created: "2026-04-05"
+updated: "2026-06-26"
+sha256: "11c49154d07e464a5332a28f177acb341792584155a9779c9b3515680d773ed2"
+sources:
+  - "/sources/highlights/2026-04-05/00__iamtonyzhu__karpathy-开源-llm-个人知识库-赛博离职员工正在批量搭建自己的-ai-系统.md"
 ---
 
 # Karpathy 开源 LLM 个人知识库：赛博离职员工正在批量搭建自己的 AI 系统

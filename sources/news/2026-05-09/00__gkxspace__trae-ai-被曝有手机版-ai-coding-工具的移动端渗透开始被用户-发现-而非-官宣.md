@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Trae AI 被曝有手机版：AI Coding 工具的移动端渗透开始被用户「发现」而非「官宣」"
 description: "**用户惊讶于 Trae_ai 居然有手机版，说明移动端 AI 编程工具的供给已跑在用户认知前面。** - 当用户还在讨论「AI 能不能写代码」时，工具已经在手机上等着了 - 移动端 Agent 的入口争夺正在静默展开  gakki 锐评：信息差本身就是信号——当「居然有」成为反应，说明分发和教育还没跟上产品。"
 resource: "https://x.com/i/status/2052940326541647989"
@@ -22,6 +22,13 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "agent-multi-platform"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2052940326541647989"
+created: "2026-05-09"
+updated: "2026-06-26"
+sha256: "73f7d753b54ed1739b6eb525c23e77c635f4768fe018f81dc9d9afc16564fc16"
+sources:
+  - "/sources/news/2026-05-09/00__gkxspace__trae-ai-被曝有手机版-ai-coding-工具的移动端渗透开始被用户-发现-而非-官宣.md"
 ---
 
 # Trae AI 被曝有手机版：AI Coding 工具的移动端渗透开始被用户「发现」而非「官宣」

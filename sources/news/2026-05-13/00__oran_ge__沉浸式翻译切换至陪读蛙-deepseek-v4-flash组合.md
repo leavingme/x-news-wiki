@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "沉浸式翻译切换至陪读蛙+DeepSeek V4 Flash组合"
 description: "**[一句话核心判断]** 翻译工具链正在经历一次悄然的主流方案替换。  **信息增量：** - 「陪读蛙」作为翻译中间层首次被明确提及为DeepSeek V4 Flash的前置应用，而非直接调用API - DeepSeek V4 Flash的端侧友好特性在翻译场景落地，Flash版本指向推理成本压缩 - 沉浸式翻译作为高日活插件，其方案替换行为本身是信号——开发者已开始系统性测试DeepSeek"
 resource: "https://x.com/i/status/2054676131815793072"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2054676131815793072"
+created: "2026-05-13"
+updated: "2026-06-26"
+sha256: "6712da92ac3636e2189c72ff5b5396400ec9f30bd1dd4dd3a9bf5e8ff0984077"
+sources:
+  - "/sources/news/2026-05-13/00__oran_ge__沉浸式翻译切换至陪读蛙-deepseek-v4-flash组合.md"
 ---
 
 # 沉浸式翻译切换至陪读蛙+DeepSeek V4 Flash组合

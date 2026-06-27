@@ -1,5 +1,5 @@
 ---
-type: "Author"
+type: "entity"
 title: "Lipa 🍡（专注投研过冬版 (@softlipa1018)"
 description: "X/Twitter 作者 @softlipa1018。共收录 1 条 AI 精选推文。"
 tags:
@@ -12,6 +12,12 @@ x_author_name: "Lipa 🍡（专注投研过冬版"
 x_tweet_count: 1
 x_first_seen: "2026-01-31T13:09:31.722Z"
 x_last_seen: "2026-01-31T13:09:31.722Z"
+type_okf: "Author"
+created: "2026-01-31"
+updated: "2026-06-26"
+sha256: "205ffb3c35468758df2080b64667b89aca7a3be1001b058044a67473c26dc984"
+sources:
+  - "/sources/news/2026-01-31/00__softlipa1018__链上角斗场-base-solana-与-bsc-的-ai-叙事大乱斗.md"
 ---
 
 # Lipa 🍡（专注投研过冬版 (@softlipa1018)

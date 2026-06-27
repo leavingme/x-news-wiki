@@ -1,5 +1,5 @@
 ---
-type: "Author"
+type: "entity"
 title: "泊舟 (@bozhou_ai)"
 description: "X/Twitter 作者 @bozhou_ai。共收录 1 条 AI 精选推文。"
 tags:
@@ -12,6 +12,12 @@ x_author_name: "泊舟"
 x_tweet_count: 1
 x_first_seen: "2026-03-21T12:43:07.789Z"
 x_last_seen: "2026-03-21T12:43:07.789Z"
+type_okf: "Author"
+created: "2026-03-21"
+updated: "2026-06-26"
+sha256: "fce874404d03f29452dd4bd740b98b946f10fe529e0341b1790de70fb032a211"
+sources:
+  - "/sources/highlights/2026-03-21/00__bozhou_ai__记忆的-不可能三角-被打破-1亿token端到端记忆-4b模型干翻235b-rag.md"
 ---
 
 # 泊舟 (@bozhou_ai)

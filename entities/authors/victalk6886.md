@@ -1,5 +1,5 @@
 ---
-type: "Author"
+type: "entity"
 title: "Vic TALK (@victalk6886)"
 description: "X/Twitter 作者 @victalk6886。共收录 1 条 AI 精选推文。"
 tags:
@@ -12,6 +12,12 @@ x_author_name: "Vic TALK"
 x_tweet_count: 1
 x_first_seen: "2026-04-09T10:17:45.087Z"
 x_last_seen: "2026-04-09T10:17:45.087Z"
+type_okf: "Author"
+created: "2026-04-09"
+updated: "2026-06-26"
+sha256: "f72739c026e68d71c068cd9aaa3ed498d75262534bc8bc8400dc2da5e85a16bb"
+sources:
+  - "/sources/highlights/2026-04-09/00__victalk6886__claude-code-手机端控制电脑-openclaw-最强竞品终于补上了入口短板.md"
 ---
 
 # Vic TALK (@victalk6886)

@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Anthropic Opus降智迷雾：Mythos发布背后的产品力算计"
 description: "**一句话：Opus降智不是技术问题，是Anthropic商业定价体系与产品分层的人为干预，向市场发出了一个危险信号。**  - Opus比Mythos贵5倍却疑似被降智，说明Anthropic在用「资质门槛」人为制造产品等级，API客户花更多钱买到更少能力——这是平台权力的滥用； - 社区已感知到这一变化（\"A公司太会玩了\"），信任损伤的累积效应会在明年GPT-6发布时集中爆发，届时用户迁移成本"
 resource: "https://x.com/i/status/2041661731798446119"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2041661731798446119"
+created: "2026-04-07"
+updated: "2026-06-26"
+sha256: "8bf33160cfb67d74c9d814018cfebba36fae06eca7882ad425b0e9e63f1beed7"
+sources:
+  - "/sources/highlights/2026-04-08/00__oran_ge__anthropic-opus降智迷雾-mythos发布背后的产品力算计.md"
 ---
 
 # Anthropic Opus降智迷雾：Mythos发布背后的产品力算计

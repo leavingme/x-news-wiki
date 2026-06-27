@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "CodePilot二十六万行代码无人敢动：大型代码库Vibe Coding的天花板实证"
 description: "**一个震撼的工程事实：CodePilot 26万行代码+5.6万行文档，文档占代码比例21%，作者从头到尾没改过一行代码。** 但所有bug能修，所有新功能能实现。  关键洞察：文档体系就是Harness。Claude Code Plan模式废掉之后，整个文档体系的复杂度和占比在快速上升。文档梳理已经成为AI和人协作的核心界面。  大型代码库Vibe Coding的实践上限，不是代码理解能力，而"
 resource: "https://x.com/i/status/2062732151515455637"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2062732151515455637"
+created: "2026-06-05"
+updated: "2026-06-26"
+sha256: "37030d7ac3f5048e90534e1a13b6ba17e851387127cced9191f2d84523b2c095"
+sources:
+  - "/sources/highlights/2026-06-05/00__op7418__codepilot二十六万行代码无人敢动-大型代码库vibe-coding的天花板实证.md"
 ---
 
 # CodePilot二十六万行代码无人敢动：大型代码库Vibe Coding的天花板实证

@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "商汤SenseNova-U1：理解与生成同构的原生统一多模态模型初露锋芒"
 description: "**【看见与创造是同一过程——原生统一多模态范式验证】**  商汤发布SenseNova-U1，首次将视觉理解与图像生成作为同一认知过程处理。在文本理解、视觉-语言感知、推理、Agent和空间智能上对标顶级理解专用VLM，同时在任意到图像合成、复杂信息图和交错生成上展现优势。早期结果还显示VLA（视觉-语言-动作）和世界模型任务的潜力。  要点： - 打破\"理解模型\"与\"生成模型\"的人为边界，验证"
 resource: "https://x.com/i/status/2058450677811040363"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2058450677811040363"
+created: "2026-05-24"
+updated: "2026-06-26"
+sha256: "9db5d9e38dd17fe5124677cf2e97c16b36d5d3120a726fc6233098769b6e8910"
+sources:
+  - "/sources/news/2026-05-24/00__jiqizhixin__商汤sensenova-u1-理解与生成同构的原生统一多模态模型初露锋芒.md"
 ---
 
 # 商汤SenseNova-U1：理解与生成同构的原生统一多模态模型初露锋芒

@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Claude Skills 生成器史诗级升级：元能力的自动化"
 description: "**[从「写 Skill」到「让 Claude 写 Skill」]** • Skills 生成器的升级意味着 Skill 工程的自我递归——AI 开始参与自身的工具链构建 • 技能生态的扩张速度将从「人工编写」进入「AI 辅助批量生产」阶段 • 配合 /loop 等定时任务能力，Claude Code 正在向「自我配置的基础设施」演进  **gakki 锐评：** Skill Creator 变成"
 resource: "https://x.com/i/status/2031579241062740206"
@@ -22,6 +22,13 @@ x_selected: 2
 x_priority: 80
 x_related_topic: "skill-automation-engineering"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2031579241062740206"
+created: "2026-03-11"
+updated: "2026-06-26"
+sha256: "42b724e5cf64d523ff0f951e6db4507a0fd8797aa9ca13ba7ec1ab05ee4050f5"
+sources:
+  - "/sources/highlights/2026-03-11/80__Khazix0918__claude-skills-生成器史诗级升级-元能力的自动化.md"
 ---
 
 # Claude Skills 生成器史诗级升级：元能力的自动化

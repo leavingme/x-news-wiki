@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Vercel 开源 deepsec：代码 Agent 安全终于有了 CLI 原生的沙箱解耦方案"
 description: "**Agent 安全基础设施从「事后审计」走向「运行时沙箱」。**  - CLI-first 设计，支持沙箱隔离与可插拔 Agent 架构，针对大规模代码仓库场景 - 内置 AI Gateway 或自有订阅双通道，不强制绑定特定模型提供商 - 已在 Vercel 内部大规模验证后开源，意味着生产级质量而非 POC  gakki：Agent Coding 赛道的安全层一直是「能用就行」的状态，dee"
 resource: "https://x.com/vercel_dev/status/2051381241283539255"
@@ -22,6 +22,13 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "agent-security-infrastructure"
 x_source: "ai-trend-digest"
+type_okf: "X Tweet"
+source_url: "https://x.com/vercel_dev/status/2051381241283539255"
+created: "2026-05-04"
+updated: "2026-06-26"
+sha256: "7ffa3884a446b4678dfa27bc299cfa88daf3379e32238570506efce52bfc7c2f"
+sources:
+  - "/sources/highlights/2026-05-05/00__vercel_dev__vercel-开源-deepsec-代码-agent-安全终于有了-cli-原生的沙箱解耦方案.md"
 ---
 
 # Vercel 开源 deepsec：代码 Agent 安全终于有了 CLI 原生的沙箱解耦方案

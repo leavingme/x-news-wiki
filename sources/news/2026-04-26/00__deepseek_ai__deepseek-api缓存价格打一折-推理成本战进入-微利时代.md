@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "DeepSeek API缓存价格打一折：推理成本战进入「微利时代」"
 description: "**[DeepSeek缓存命中价格降至1/10，推理成本战再掀价格战]**  DeepSeek宣布全系列API输入缓存命中价格立即降至原价的1/10，同时DeepSeek-V4-Pro 75%折扣促销持续至5月5日。这不是寻常的定价调整，而是对「缓存复用」这一推理效率赛道的激进定价突袭——通过降低缓存成本，鼓励开发者更多利用已计算的中间结果，从根本上压缩Token消耗。  **影响：** 当缓存成"
 resource: "https://x.com/deepseek_ai/status/2048440764368347611"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "ai-trend-digest"
+type_okf: "X Tweet"
+source_url: "https://x.com/deepseek_ai/status/2048440764368347611"
+created: "2026-04-26"
+updated: "2026-06-26"
+sha256: "f893b2b2d1122c6bbedd515531ec0a1b3951162bf148d6564292e1eb34f20c4d"
+sources:
+  - "/sources/news/2026-04-26/00__deepseek_ai__deepseek-api缓存价格打一折-推理成本战进入-微利时代.md"
 ---
 
 # DeepSeek API缓存价格打一折：推理成本战进入「微利时代」

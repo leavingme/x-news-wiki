@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Codepilot 重构引入 Hermes：开源 Agent 编排层进入收尾阶段"
 description: "**[开源 Agent 整合进入生产闭环节点]**  - 歸藏透露 Codepilot 重构接近收尾，Hermes（爱马仕）被纳入集成范围，意味着开源 Agent 编排层正在标准化 - Hermes 作为 Nous Research 的旗舰 Agent 框架，其工具调用和记忆架构正在被外部项目引用验证 - 这是开源 Agent 生态从自研走向互操作的关键里程碑：框架价值需要被外部项目「用脚投票」才"
 resource: "https://x.com/i/status/2055496585191280894"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2055496585191280894"
+created: "2026-05-16"
+updated: "2026-06-26"
+sha256: "ba39b4f25fcf85c0b669096e57e0e92ca352080e7ddc7d39789eee68e0b3f846"
+sources:
+  - "/sources/news/2026-05-16/00__op7418__codepilot-重构引入-hermes-开源-agent-编排层进入收尾阶段.md"
 ---
 
 # Codepilot 重构引入 Hermes：开源 Agent 编排层进入收尾阶段

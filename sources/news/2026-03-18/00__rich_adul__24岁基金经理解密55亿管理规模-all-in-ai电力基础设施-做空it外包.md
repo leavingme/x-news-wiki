@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "24岁基金经理解密55亿管理规模：All-in AI电力基础设施，做空IT外包"
 description: "**【AI算力瓶颈的资本市场定价权转移】** • 仓位曝光：8.85亿美元单押Bloom Energy（便携发电机），3亿加仓Coreweave，清仓英伟达/英特尔 • 核心判断：AI最大瓶颈已从GPU算力转向电力与能源基建，提前布局基础设施层 • 做空逻辑：Claude Code/Codex将替代Infosys等IT外包，代码生成直接冲击人力密集型服务 • 业绩验证：6个月跑赢标普8倍，过去3个"
 resource: "https://x.com/i/status/2029386980728160400"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "bookmark"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2029386980728160400"
+created: "2026-03-05"
+updated: "2026-06-26"
+sha256: "b4b8ed58c1ded54a2af160b830d525dcb61b7d3163fd95192eb0d6dd63d86c5c"
+sources:
+  - "/sources/news/2026-03-18/00__rich_adul__24岁基金经理解密55亿管理规模-all-in-ai电力基础设施-做空it外包.md"
 ---
 
 # 24岁基金经理解密55亿管理规模：All-in AI电力基础设施，做空IT外包

@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Composer 2.5 用户请升级Cursor插件以避免报错"
 description: "**[技术陷阱：Alma Cursor插件版本兼容性警示]**  yetone 提醒：使用 Composer 2.5 模型时如遇报错，需将 Alma 的 Cursor 插件升级至最新版。这是一个典型的版本碎片化导致的工作流中断问题。  **gakki锐评：** 这类插件版本问题看似琐碎，但恰恰是AI编程工具链进入生产环境后最常见的\"摩擦成本\"——单个插件的兼容性问题可以让整个团队的AI辅助编程中断"
 resource: "https://x.com/i/status/2057169902356836376"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2057169902356836376"
+created: "2026-05-20"
+updated: "2026-06-26"
+sha256: "142a2625539d65993f48fddd27c6459e9eba535e476965e8871eaf9b8d97f6bc"
+sources:
+  - "/sources/news/2026-05-20/00__yetone__composer-2-5-用户请升级cursor插件以避免报错.md"
 ---
 
 # Composer 2.5 用户请升级Cursor插件以避免报错

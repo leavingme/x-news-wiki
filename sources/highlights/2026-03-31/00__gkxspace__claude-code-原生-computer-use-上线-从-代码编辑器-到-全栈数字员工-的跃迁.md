@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Claude Code 原生 Computer Use 上线：从「代码编辑器」到「全栈数字员工」的跃迁"
 description: "**[Anthropic 正在重新定义 Agent 的能力边界]**  • **Computer Use 原生集成**：Claude Code 现已支持直接从 CLI 打开应用程序、点击 UI 并测试构建内容，实现「写代码-运行-验证」闭环 • **OpenClaw 替代效应显现**：Claude Code 正从「代码助手」进化为「通用数字员工」，对现有 Agent 框架形成降维打击 • **技能"
 resource: "https://x.com/i/status/2038667546820260017"
@@ -22,6 +22,13 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "claude-code-natural-language-workflow"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2038667546820260017"
+created: "2026-03-30"
+updated: "2026-06-26"
+sha256: "b38aef4265feaab313b901377daee708a1f40d11b6f6cbe7608b9818a0ca1d1d"
+sources:
+  - "/sources/highlights/2026-03-31/00__gkxspace__claude-code-原生-computer-use-上线-从-代码编辑器-到-全栈数字员工-的跃迁.md"
 ---
 
 # Claude Code 原生 Computer Use 上线：从「代码编辑器」到「全栈数字员工」的跃迁

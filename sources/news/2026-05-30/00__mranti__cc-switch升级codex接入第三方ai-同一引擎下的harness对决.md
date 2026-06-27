@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "cc-switch升级Codex接入第三方AI：同一引擎下的Harness对决"
 description: "**【一句话核心判断】** cc-switch v3.16.0支持Codex接入第三方AI引擎，首次提供了在同一AI基座上横向对比Claude Code和Codex两套Harness工程能力的可能性。  **要点：** - cc-switch升级到v3.16.0，Codex可接入任意第三方AI - 测试场景：在相同AI引擎（如Kimi 2.6）下对比Codex vs Claude Code - 核"
 resource: "https://x.com/i/status/2060560984453070926"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2060560984453070926"
+created: "2026-05-30"
+updated: "2026-06-26"
+sha256: "0c6699b1f0b8876fdf25e5ddfb676b25abfa78b23826222b8f8bf8e631221f7d"
+sources:
+  - "/sources/news/2026-05-30/00__mranti__cc-switch升级codex接入第三方ai-同一引擎下的harness对决.md"
 ---
 
 # cc-switch升级Codex接入第三方AI：同一引擎下的Harness对决

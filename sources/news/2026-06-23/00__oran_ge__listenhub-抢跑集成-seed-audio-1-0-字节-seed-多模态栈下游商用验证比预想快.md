@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "ListenHub 抢跑集成 Seed Audio 1.0：字节 Seed 多模态栈下游商用验证比预想快"
 description: "**Seed Audio 1.0 拿到第一个具名产品集成，AI 音频创作 Agent 进入商用验证阶段。**  - Orange AI 的 ListenHub（播客/音频内容工具）宣布即将接入 Seed Audio 1.0，定位\"用声音智能创造有趣且有用的内容\" - 团队透露去年做 ListenHub 时\"最想要的就是这样一个模型\"——验证 Seed Audio 补足了市场长期缺失的一环 - 字节"
 resource: "https://x.com/i/status/2069289000708501753"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2069289000708501753"
+created: "2026-06-23"
+updated: "2026-06-26"
+sha256: "0396b26d23560218b70fee71d8632d4f22d9f5e008bee449d667565784990100"
+sources:
+  - "/sources/news/2026-06-23/00__oran_ge__listenhub-抢跑集成-seed-audio-1-0-字节-seed-多模态栈下游商用验证比预想快.md"
 ---
 
 # ListenHub 抢跑集成 Seed Audio 1.0：字节 Seed 多模态栈下游商用验证比预想快

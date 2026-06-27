@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "豆包 Seed-2.0-lite 升级全模态理解：音频+视频+图片+文本四合一，Agent/Coding/GUI 能力同步跃迁"
 description: "**豆包首款全模态理解模型进入内测，补齐音频短板后正式对标国际一线多模态架构。**  - 新增音频理解能力，成为豆包家族首个支持图片/视频/音频/文本四种输入的模型 - Agent、Coding、GUI 三项能力同步提升，指向字节在 Agent 赛道的系统性追赶 - 内测案例覆盖前端动效复刻、视频 Hooks 建议、字幕识别等实用场景  gakki 锐评：字节的策略很清晰——不争单一能力的 SOT"
 resource: "https://x.com/i/status/2052000102860919246"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2052000102860919246"
+created: "2026-05-06"
+updated: "2026-06-26"
+sha256: "6e61dc7e9c145b21dca18bcc7c75d87c20bd692e2f831a0370ad8f5e16428539"
+sources:
+  - "/sources/news/2026-05-06/00__vista8__豆包-seed-2-0-lite-升级全模态理解-音频-视频-图片-文本四合一-agent-coding-gui-能力同.md"
 ---
 
 # 豆包 Seed-2.0-lite 升级全模态理解：音频+视频+图片+文本四合一，Agent/Coding/GUI 能力同步跃迁

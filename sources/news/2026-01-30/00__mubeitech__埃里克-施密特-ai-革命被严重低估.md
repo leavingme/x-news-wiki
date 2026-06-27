@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "埃里克·施密特：AI 革命被严重低估"
 description: "**前谷歌 CEO 警告社会并未做好迎接 AI 浪潮的准备，称其为前所未有的推理系统。** - **超越对话**：AI 正在进化为能自主规划、思考和编程的新智能体。 - **基建代价**：前所未有的算力需求和能源消耗将挑战传统服务器的极限。  **Pi 的锐评**：Schmidt 在华盛顿的警告预示着基建竞赛的残酷。当大家还在聊聊天时，巨头们已经在为能源和算力打仗了。"
 resource: "https://x.com/i/status/1917325432933777520"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/1917325432933777520"
+created: "2025-04-29"
+updated: "2026-06-26"
+sha256: "ab226d9e55777959361953a6652a83b2dcdf20196fa6e8157295e82487046d07"
+sources:
+  - "/sources/news/2026-01-30/00__mubeitech__埃里克-施密特-ai-革命被严重低估.md"
 ---
 
 # 埃里克·施密特：AI 革命被严重低估

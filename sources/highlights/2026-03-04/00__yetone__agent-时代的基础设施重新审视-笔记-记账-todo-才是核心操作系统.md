@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Agent 时代的基础设施重新审视：笔记、记账、Todo 才是核心操作系统"
 description: "**[独立开发者的\"三件套\"实则是 Agent 经济的底层基础设施]** • 笔记系统成为 Agent 的外部记忆载体，解决上下文窗口的\"失忆症\" • 记账工具本质是 Token 消耗的可观测性系统，是 Agent 经济的\"成本会计\" • TodoList 承载 mission 而非 task，纠正了当前 Coding Agent 把\"提 PR\"误作目标的系统性偏差 • 当前 Agent 生态缺失"
 resource: "https://x.com/i/status/2029062266956742748"
@@ -22,6 +22,13 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "agent-memory-optimization"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2029062266956742748"
+created: "2026-03-04"
+updated: "2026-06-26"
+sha256: "2568a1f4ba7f84639563cd8d7d5e740201a99fb373692b570859346e7d221771"
+sources:
+  - "/sources/highlights/2026-03-04/00__yetone__agent-时代的基础设施重新审视-笔记-记账-todo-才是核心操作系统.md"
 ---
 
 # Agent 时代的基础设施重新审视：笔记、记账、Todo 才是核心操作系统

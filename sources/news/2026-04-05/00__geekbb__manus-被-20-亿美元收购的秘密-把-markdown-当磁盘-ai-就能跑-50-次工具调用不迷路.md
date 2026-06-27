@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Manus 被 20 亿美元收购的秘密：把 Markdown 当磁盘，AI 就能跑 50 次工具调用不迷路"
 description: "**「Manus 的核心竞争力不是 AI 能力本身，而是对 AI『工作记忆』的工程化设计。」**  Manus AI 被 Meta 收购的真正原因曝光：他们的 Agent 使用持久化 Markdown 文件来管理任务规划和知识存储，将「文件系统」直接作为 AI 的外部记忆系统。这种模式使得 AI 能够处理 50 次以上工具调用而不迷失方向。  关键机制：AI 在任何重大决定前读取 task_pla"
 resource: "https://x.com/i/status/2008038811616555394"
@@ -22,6 +22,13 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "agent-memory-optimization"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2008038811616555394"
+created: "2026-01-05"
+updated: "2026-06-26"
+sha256: "8a03eb87b34898443a82f42e87736f2ab4725337d78ee7fdb4655e0a226da15e"
+sources:
+  - "/sources/news/2026-04-05/00__geekbb__manus-被-20-亿美元收购的秘密-把-markdown-当磁盘-ai-就能跑-50-次工具调用不迷路.md"
 ---
 
 # Manus 被 20 亿美元收购的秘密：把 Markdown 当磁盘，AI 就能跑 50 次工具调用不迷路

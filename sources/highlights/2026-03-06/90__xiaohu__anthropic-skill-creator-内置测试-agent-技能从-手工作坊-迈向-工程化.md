@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Anthropic Skill Creator 内置测试：Agent 技能从「手工作坊」迈向「工程化」"
 description: "**[技能可靠性工程进入官方工具链]** • 内置 Evals：自动跑测试、追踪通过率/耗时/token 用量，模型更新时自动发现「技能退化」 • 多 Agent 并行测试：独立执行互不干扰，每条用例有独立统计 • A/B 对比 + 触发率优化：盲测版本差异，智能建议描述改进以减少误触发  这是 Anthropic 对 Skill 生态的「官方贴膜」——当技能测试成为基础设施，Skill 才能从玩"
 resource: "https://x.com/i/status/2029548875263176877"
@@ -22,6 +22,13 @@ x_selected: 2
 x_priority: 90
 x_related_topic: "claude-code-ecosystem"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2029548875263176877"
+created: "2026-03-05"
+updated: "2026-06-26"
+sha256: "a92af4be50f80b0802796714fe0503a21cfa49b28585e48fd384fd7d6fd9f83c"
+sources:
+  - "/sources/highlights/2026-03-06/90__xiaohu__anthropic-skill-creator-内置测试-agent-技能从-手工作坊-迈向-工程化.md"
 ---
 
 # Anthropic Skill Creator 内置测试：Agent 技能从「手工作坊」迈向「工程化」

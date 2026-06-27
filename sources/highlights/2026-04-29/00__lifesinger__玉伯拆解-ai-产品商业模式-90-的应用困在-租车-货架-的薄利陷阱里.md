@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "玉伯拆解 AI 产品商业模式：90% 的应用困在「租车+货架」的薄利陷阱里"
 description: "**AI 产品的商业模式正在快速趋同为「会员租金+Costco 货架」双轮结构，长期利润空间极其有限。**  - 会员套餐本质是「租车/租房」式的租金收入，竞争激烈导致价格互卷甚至出现买断制和免费策略。 - 货架电商模式将模型能力封装为消费品（面包、石油），用完即复购，赚的是信息差带来的短期溢价，长期趋向薄利。 - 剩余 9% 有机会走互联网逻辑（ChatGPT、豆包），通过用户规模+习惯黏性切入"
 resource: "https://x.com/i/status/2049416668154397143"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2049416668154397143"
+created: "2026-04-29"
+updated: "2026-06-26"
+sha256: "fa1ea31b3ee8a5aa2d4d60e24498f76abc7126d228aa6479c4993595550467b6"
+sources:
+  - "/sources/highlights/2026-04-29/00__lifesinger__玉伯拆解-ai-产品商业模式-90-的应用困在-租车-货架-的薄利陷阱里.md"
 ---
 
 # 玉伯拆解 AI 产品商业模式：90% 的应用困在「租车+货架」的薄利陷阱里

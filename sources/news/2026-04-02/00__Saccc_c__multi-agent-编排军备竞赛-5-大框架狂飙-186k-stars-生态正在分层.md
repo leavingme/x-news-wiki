@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Multi-Agent 编排军备竞赛：5 大框架狂飙 186k Stars，生态正在分层"
 description: "**[Multi-Agent 框架进入工程收敛期，生态位已初步划定]**  一份 Multi-Agent 编排框架的全景图：DeerFlow（字节，48.9k）、Agency Agents（63.5k）、Paperclip（34k）、oh-my-claudecode（12.9k）、Ruflo（27.1k）——合计超 186k Stars。关键信号：1）oh-my-claudecode 专精 Cla"
 resource: "https://x.com/i/status/2037397042092282016"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2037397042092282016"
+created: "2026-03-27"
+updated: "2026-06-26"
+sha256: "70871cfdcbe0b9b81f3aff3e208d8ae0b4e305607b9d41854bcf10786b7773b2"
+sources:
+  - "/sources/news/2026-04-02/00__Saccc_c__multi-agent-编排军备竞赛-5-大框架狂飙-186k-stars-生态正在分层.md"
 ---
 
 # Multi-Agent 编排军备竞赛：5 大框架狂飙 186k Stars，生态正在分层

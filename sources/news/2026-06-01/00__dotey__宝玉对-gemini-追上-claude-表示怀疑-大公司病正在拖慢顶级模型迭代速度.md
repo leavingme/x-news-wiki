@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "宝玉对 Gemini 追上 Claude 表示怀疑：大公司病正在拖慢顶级模型迭代速度"
 description: "**[一句话核心判断]** 宝玉直接点出 Gemini 迭代停滞的可能原因：不是技术不行，是组织效率出了问题。  **信息增量：** - 宝玉是中文 AI 圈有影响力的技术 KOL，他的判断有参考价值 - \"大公司病\"这个诊断指向的是决策链路、工程师文化、创新激励等非技术因素 - 结合近期 Gemini 实际表现，这条判断符合业界感受  **gakki 锐评：** 大公司病拖慢 AI 迭代是共识，"
 resource: "https://x.com/i/status/2061507546905497837"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2061507546905497837"
+created: "2026-06-01"
+updated: "2026-06-26"
+sha256: "8713dbaf76c3276fa6cf216f7d7e116f8d3ec75366a0a5195de665b3f9a87294"
+sources:
+  - "/sources/news/2026-06-01/00__dotey__宝玉对-gemini-追上-claude-表示怀疑-大公司病正在拖慢顶级模型迭代速度.md"
 ---
 
 # 宝玉对 Gemini 追上 Claude 表示怀疑：大公司病正在拖慢顶级模型迭代速度

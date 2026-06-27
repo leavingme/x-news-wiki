@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "国产视频大模型可灵 Kling 3.0：定义原生 4K 与全流程标准"
 description: "**[多镜头协同与音画同步的终极整合]** - 核心迭代：原生支持 4K 图像与 15 秒视频生成，具备极强的角色一致性和复杂的镜头运动控制（如“吊装”运动）。 - 全链路能力：集成了脚本、图像、参考图及音频的端到端转化，标志着电影级视频序列的生成门槛降至冰点。 - 市场反馈：在人脸情绪、细节连贯性上表现惊人，被视为目前最接近甚至部分超越 Sora 实际表现的国产力量。  Pi 的锐评：快手正在用"
 resource: "https://x.com/i/status/2020406551635472820"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2020406551635472820"
+created: "2026-02-08"
+updated: "2026-06-26"
+sha256: "21b6936974737d4e8f35cb5aff8a7c229a75d407b614ec0dd6df91d8d40e7f80"
+sources:
+  - "/sources/news/2026-02-09/00__uniswap12__国产视频大模型可灵-kling-3-0-定义原生-4k-与全流程标准.md"
 ---
 
 # 国产视频大模型可灵 Kling 3.0：定义原生 4K 与全流程标准

@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Antigravit 2.0 更像 Codex，但权限审批和预览体验仍是早期玩具"
 description: "**一句话核心判断** 谷歌将 Antigravit 生态深度整合进 Gemini，CLI 更名并发布 SDK，但用 PPT Skills 实测发现权限审批繁琐（需逐个审批而非自动授权）、缺少内置浏览器预览（输出网页需手动打开文件夹）两大硬伤。  **要点** - Antigravit 2.0 定位明确向 Codex 靠拢而非继续走 Cursor 老路，功能方向已收敛 - Gemini 3.5 F"
 resource: "https://x.com/i/status/2056904254175281353"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2056904254175281353"
+created: "2026-05-20"
+updated: "2026-06-26"
+sha256: "6b1c48c555c448ee49d6d715ae18b462b8924920eac50634abe8a6b67313c6c4"
+sources:
+  - "/sources/highlights/2026-05-20/00__op7418__antigravit-2-0-更像-codex-但权限审批和预览体验仍是早期玩具.md"
 ---
 
 # Antigravit 2.0 更像 Codex，但权限审批和预览体验仍是早期玩具

@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "OpenClaw 核心维护者开源 Issue/PR 自动化工具，OSS 社区的 Agent 化运维进入实操阶段"
 description: "**开源维护者的重复劳动正在被 Agent 工具链系统性接管。** - Peter Steinberger（OpenClaw 核心贡献者）开源了一套基于 Codex 的 Issue/PR 自动化处理工具，可 fork 到任意仓库直接使用 - 精准切中开源社区最痛的瓶颈：维护者被 issue 淹没导致项目停滞，这正是「Agent 做辅助」的最佳落地场景 - 工具选择跑在 Codex 而非独立 Age"
 resource: "https://x.com/steipete/status/2051020548335874369"
@@ -22,6 +22,13 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "open-agent-ecosystem"
 x_source: "ai-trend-digest"
+type_okf: "X Tweet"
+source_url: "https://x.com/steipete/status/2051020548335874369"
+created: "2026-05-03"
+updated: "2026-06-26"
+sha256: "92007a6c65f5d5f4d5a4a20c1c32bbe9155ada84a6dd1c612b3e493c02f88237"
+sources:
+  - "/sources/news/2026-05-03/00__steipete__openclaw-核心维护者开源-issue-pr-自动化工具-oss-社区的-agent-化运维进入实操阶段.md"
 ---
 
 # OpenClaw 核心维护者开源 Issue/PR 自动化工具，OSS 社区的 Agent 化运维进入实操阶段

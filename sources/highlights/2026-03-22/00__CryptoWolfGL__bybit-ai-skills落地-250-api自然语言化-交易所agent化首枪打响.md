@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Bybit AI Skills落地：250+API自然语言化，交易所Agent化首枪打响"
 description: "**[金融Agent从「概念验证」进入「生产就绪」]** • 交易终端自然语言化：现货/合约/理财250+API全量开放，密钥脱敏+测试网验证解决安全顾虑 • 关键突破：「端对端」AI驱动交易流程首次在主流交易所落地，非技术人员也能完成复杂策略执行 • 行业连锁：币安、OKX或将被迫跟进，加密交易所竞争维度从「费率战」转向「Agent体验战」  **gakki锐评**：交易所API Skills化"
 resource: "https://x.com/i/status/2035385352215838932"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2035385352215838932"
+created: "2026-03-21"
+updated: "2026-06-26"
+sha256: "6a4050a6a009ee0d620b55697b8548cfbd0a105a16f2141ed5066764abed1eb0"
+sources:
+  - "/sources/highlights/2026-03-22/00__CryptoWolfGL__bybit-ai-skills落地-250-api自然语言化-交易所agent化首枪打响.md"
 ---
 
 # Bybit AI Skills落地：250+API自然语言化，交易所Agent化首枪打响

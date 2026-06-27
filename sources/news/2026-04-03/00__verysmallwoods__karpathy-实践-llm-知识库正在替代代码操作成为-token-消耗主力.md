@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Karpathy 实践：LLM 知识库正在替代代码操作成为 Token 消耗主力"
 description: "**[一句话核心判断]** LLM 的 Token 消耗重心正在从「代码操作」迁移到「知识操作」，Obsidian + LLM 编译 wiki 是新一代个人知识管理的主流范式。  - 流程：raw/ 目录 → LLM「编译」为 wiki（总结 + 反向链接 + 概念归类 + 互链） - Obsidian Web Clipper + 本地图片抓取，实现完整上下文保留 - 意义：LLM 从「编程工具」"
 resource: "https://x.com/i/status/2039825154478326131"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2039825154478326131"
+created: "2026-04-02"
+updated: "2026-06-26"
+sha256: "fd8a84150953296a27af888e5dfd2045d9725a8d8a3a9b56eccc5bec57a51941"
+sources:
+  - "/sources/news/2026-04-03/00__verysmallwoods__karpathy-实践-llm-知识库正在替代代码操作成为-token-消耗主力.md"
 ---
 
 # Karpathy 实践：LLM 知识库正在替代代码操作成为 Token 消耗主力

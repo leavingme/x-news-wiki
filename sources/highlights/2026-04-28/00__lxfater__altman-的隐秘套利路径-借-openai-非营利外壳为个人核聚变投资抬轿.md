@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Altman 的隐秘套利路径：借 OpenAI 非营利外壳为个人核聚变投资抬轿"
 description: "**[Altman 把慈善基金当融资工具的完整路径首次被完整还原]**  • **核心机制**：Altman 从 2014 年起持有核聚变公司 Helion 股份，2021 年个人砸进 3.75 亿美元，随后推动 OpenAI 向 Helion 投资 5 亿美元——若成，Helion 估值涨 6 倍，其个人股份直接受益。 • **关键悖论**：OpenAI 非营利定位本是为了绕开监管、吸引使命感驱"
 resource: "https://x.com/i/status/2049009402372313341"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2049009402372313341"
+created: "2026-04-28"
+updated: "2026-06-26"
+sha256: "cea6a5583e95f61b3f80789b845136d015ce7b62433f6f2d2a4a574074958a1a"
+sources:
+  - "/sources/highlights/2026-04-28/00__lxfater__altman-的隐秘套利路径-借-openai-非营利外壳为个人核聚变投资抬轿.md"
 ---
 
 # Altman 的隐秘套利路径：借 OpenAI 非营利外壳为个人核聚变投资抬轿

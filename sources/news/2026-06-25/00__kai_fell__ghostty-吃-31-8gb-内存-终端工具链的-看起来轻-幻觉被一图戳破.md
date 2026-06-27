@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Ghostty 吃 31.8GB 内存？终端工具链的\"看起来轻\"幻觉被一图戳破"
 description: "**[一句话核心判断]** 当大家在比谁终端更轻量时，Ghostty 真实内存占用 31.8GB，终端软件\"轻\"的标尺正在失效。  - 表面\"几十 MB\"的终端 vs 实际 31.8GB 进程内存，开发者对\"轻量\"的感知与现实出现严重割裂。 - 与此前 Ghostty 终端采用热度形成对照：是否真\"生产级轻量\"需要从内存、进程树、运行时依赖整体评估。 - 暗示新一代 AI 工程师偏好 Electr"
 resource: "https://x.com/i/status/2069449681445269690"
@@ -22,6 +22,13 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "ghostty-terminal-adoption"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2069449681445269690"
+created: "2026-06-23"
+updated: "2026-06-26"
+sha256: "fd83983becb7944c7d8515a53ee3d2ea7192cba3257a61a86cab323e59a75451"
+sources:
+  - "/sources/news/2026-06-25/00__kai_fell__ghostty-吃-31-8gb-内存-终端工具链的-看起来轻-幻觉被一图戳破.md"
 ---
 
 # Ghostty 吃 31.8GB 内存？终端工具链的"看起来轻"幻觉被一图戳破

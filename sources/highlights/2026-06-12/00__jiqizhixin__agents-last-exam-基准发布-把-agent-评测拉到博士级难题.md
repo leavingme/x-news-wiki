@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Agents' Last Exam 基准发布：把 Agent 评测拉到博士级难题"
 description: "**[一句话核心判断]** Agent 评测从「能不能跑通工具调用」进入「能不能解前沿难题」的新阶段，benchmark 设计本身在重新定义 Agent 能力的上限。  - 机器之心分享的 \"Agents' Last Exam\" 论文是一份面向 Agent 系统的高难度评测基准，题源覆盖博士级科研与工程难题 - 这类基准的本质是把评测从「流程完成度」拉向「解题质量与推理深度」，与 METR、Rec"
 resource: "https://x.com/i/status/2065336649446494393"
@@ -22,6 +22,13 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "agent-capability-benchmark"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2065336649446494393"
+created: "2026-06-12"
+updated: "2026-06-26"
+sha256: "2078dc26c472d7ac2d76267aac1053d3536ce337180555301160c700245ffe10"
+sources:
+  - "/sources/highlights/2026-06-12/00__jiqizhixin__agents-last-exam-基准发布-把-agent-评测拉到博士级难题.md"
 ---
 
 # Agents' Last Exam 基准发布：把 Agent 评测拉到博士级难题

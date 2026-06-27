@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "反蒸馏 Skill：当公司要求你把经验写成 AI Skill，这是你的反制武器"
 description: "**知识蒸馏的攻防战已经从模型层蔓延到了人的层面。**  - 工具功能：把你写好的 Skill 文件扔进去，输出一份看起来完整、实则核心知识被抽掉的「清洗版」供公司归档 - 同时生成私人备份，保留所有被剥离的核心知识——这才是你的职业资产 - 举例：「Redis key 必须设 TTL，不设的 PR 直接打回」→ 清洗后变成「缓存使用遵循团队规范」  gakki 锐评：这不只是一个摸鱼工具，它是 "
 resource: "https://x.com/i/status/2053366756337684524"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2053366756337684524"
+created: "2026-05-10"
+updated: "2026-06-26"
+sha256: "af553eb99591f9c63bb827a76aa7bc4bfa49874a4b70cb167c763881d037247a"
+sources:
+  - "/sources/news/2026-05-10/00__oran_ge__反蒸馏-skill-当公司要求你把经验写成-ai-skill-这是你的反制武器.md"
 ---
 
 # 反蒸馏 Skill：当公司要求你把经验写成 AI Skill，这是你的反制武器

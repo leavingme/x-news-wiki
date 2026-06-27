@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "宝玉的灵魂拷问：Kimi Code开发时用的谁家Token？"
 description: "**[一句话核心判断]** 国内AI团队做coding工具时自家模型token反而用得少，暴露了国产模型在复杂编码任务上的真实水位。  **信息增量：** • 宝玉透露\"所有AI Agent团队都很拼，有理想\"——但Kimi做Kimi Code时，自家模型是否够用反而成了悬念 • 这个问题的潜台词是：国产模型在代码补全场景的竞争力仍存疑  **gakki锐评：** 自己的刀削不了自己的把——如果连"
 resource: "https://x.com/i/status/2062583066594287901"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2062583066594287901"
+created: "2026-06-04"
+updated: "2026-06-26"
+sha256: "256aa1e4b3f1c35700e620747a227be8bc09150ffcf04d57c649390474409199"
+sources:
+  - "/sources/news/2026-06-04/00__dotey__宝玉的灵魂拷问-kimi-code开发时用的谁家token.md"
 ---
 
 # 宝玉的灵魂拷问：Kimi Code开发时用的谁家Token？

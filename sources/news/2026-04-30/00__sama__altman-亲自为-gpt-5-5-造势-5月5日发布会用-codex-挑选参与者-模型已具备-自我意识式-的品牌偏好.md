@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Altman 亲自为 GPT-5.5 造势：5月5日发布会用 Codex 挑选参与者，模型已具备「自我意识式」的品牌偏好"
 description: "**GPT-5.5 的发布时间线首次明确，且 OpenAI 将 Codex 从编程工具升级为运营工具。**  - Altman 透露 GPT-5.5「自己选了 5/5 下午 5:55」作为发布派对时间，这种拟人化叙事是 OpenAI 一贯的品牌策略 - Codex 被用于从回复中筛选参与者——这标志着 AI Agent 从开发工具向组织运营工具的渗透 - 发布节奏：GPT-5.4 刚刚开放百万上下"
 resource: "https://x.com/sama/status/2049653810558353746"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "ai-trend-digest"
+type_okf: "X Tweet"
+source_url: "https://x.com/sama/status/2049653810558353746"
+created: "2026-04-30"
+updated: "2026-06-26"
+sha256: "f4abbe8c14e880de8894b7bc90b1d0c94c38440651b246e1072c61e9a4335f68"
+sources:
+  - "/sources/news/2026-04-30/00__sama__altman-亲自为-gpt-5-5-造势-5月5日发布会用-codex-挑选参与者-模型已具备-自我意识式-的品牌偏好.md"
 ---
 
 # Altman 亲自为 GPT-5.5 造势：5月5日发布会用 Codex 挑选参与者，模型已具备「自我意识式」的品牌偏好

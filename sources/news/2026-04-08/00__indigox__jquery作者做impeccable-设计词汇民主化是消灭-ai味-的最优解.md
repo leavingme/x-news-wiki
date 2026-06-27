@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "jQuery作者做Impeccable：设计词汇民主化是消灭「AI味」的最优解"
 description: "**[AI设计的核心矛盾不是生成能力，是 prompt 词汇鸿沟]**  Paul Bakaus（jQuery UI作者）做Impeccable的核心洞察：大多数人有审美判断但没有设计词汇——无法说出\"more vertical rhythm\"这样的专业表述，因此无法精确约束AI的设计输出。  Impeccable提供命令式设计语言接口，本质是把设计知识从\"隐性经验\"转化为\"可执行词汇表\"。这比任"
 resource: "https://x.com/i/status/2031958498117107937"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2031958498117107937"
+created: "2026-03-12"
+updated: "2026-06-26"
+sha256: "19d4b1953fbe9453999627b126a2d7ec499f9705e10e9ba23f62a72caf76c483"
+sources:
+  - "/sources/news/2026-04-08/00__indigox__jquery作者做impeccable-设计词汇民主化是消灭-ai味-的最优解.md"
 ---
 
 # jQuery作者做Impeccable：设计词汇民主化是消灭「AI味」的最优解

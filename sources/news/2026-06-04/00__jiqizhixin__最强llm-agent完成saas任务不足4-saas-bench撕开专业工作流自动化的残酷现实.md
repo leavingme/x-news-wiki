@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "最强LLM Agent完成SaaS任务不足4%：SaaS-Bench撕开专业工作流自动化的残酷现实"
 description: "**【一句话核心判断】** AI Agent在真实SaaS工作流面前暴露系统性短板，即便头部模型端到端完成率也不足4%。  **【信息增量】** • 基准覆盖6大专业领域、23套可部署SaaS系统、106个长时序任务，比既有测试集更贴近真实场景 • 核心失败点集中在：任务规划、状态追踪、跨应用上下文传递、错误恢复四个维度 • 说明当前Agent架构对「结构化工具调用」之外的复杂业务流程编排能力严重"
 resource: "https://x.com/i/status/2062601025140470083"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2062601025140470083"
+created: "2026-06-04"
+updated: "2026-06-26"
+sha256: "8dfbabff3de4b7cd83d0a23df08a0bee09ea6d7ba5164a47c9d8b099f3313054"
+sources:
+  - "/sources/news/2026-06-04/00__jiqizhixin__最强llm-agent完成saas任务不足4-saas-bench撕开专业工作流自动化的残酷现实.md"
 ---
 
 # 最强LLM Agent完成SaaS任务不足4%：SaaS-Bench撕开专业工作流自动化的残酷现实

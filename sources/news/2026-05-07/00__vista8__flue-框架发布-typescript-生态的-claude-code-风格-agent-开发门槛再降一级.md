@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Flue 框架发布：TypeScript 生态的 Claude Code 风格 Agent 开发门槛再降一级"
 description: "**又一个基于 TypeScript 的 Agent 开发框架出现，安装只需要一条 fetch 命令——Agent 开发工具链的「前端化」趋势在加速。**  - Flue 定位为开发 Claude Code 风格智能体的框架，面向 TypeScript 开发者 - 安装极简：一条 fetch 命令 + 官方 Prompt 即可启动 - 属于 Agent 工具链民主化的又一个信号，与 Python "
 resource: "https://x.com/i/status/2052199176218259752"
@@ -22,6 +22,13 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "no-code-agent-entry"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2052199176218259752"
+created: "2026-05-07"
+updated: "2026-06-26"
+sha256: "d1aa6d74ba6a66acac00d329c946254a802a521353ae177c4ab1b17669bed7b7"
+sources:
+  - "/sources/news/2026-05-07/00__vista8__flue-框架发布-typescript-生态的-claude-code-风格-agent-开发门槛再降一级.md"
 ---
 
 # Flue 框架发布：TypeScript 生态的 Claude Code 风格 Agent 开发门槛再降一级

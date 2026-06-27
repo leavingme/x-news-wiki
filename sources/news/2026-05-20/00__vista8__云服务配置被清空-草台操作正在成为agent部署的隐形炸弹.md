@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "云服务配置被清空：草台操作正在成为Agent部署的隐形炸弹"
 description: "**[云厂商基础管控能力遭质疑]**  向阳乔木反映其云服务配置被平台方直接清空，操作粗糙且无预警。这并非个案——当Agent经济依赖云基础设施时，平台方的运维失误将直接转化为用户的确定性损失。  - 风险不在于Agent本身，而在于承载Agent运行的基础设施管控水平 - 用户对云厂商的信任成本正在累积，尤其是面向生产环境的部署场景    gakki 锐评：配置清空这种事，小团队是运维事故，大平"
 resource: "https://x.com/i/status/2056922633464369290"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2056922633464369290"
+created: "2026-05-20"
+updated: "2026-06-26"
+sha256: "efb5e5882b7e9c7a44a6b3aa85a17210d265f1bc2df12905fc6e3c5dc837f6e1"
+sources:
+  - "/sources/news/2026-05-20/00__vista8__云服务配置被清空-草台操作正在成为agent部署的隐形炸弹.md"
 ---
 
 # 云服务配置被清空：草台操作正在成为Agent部署的隐形炸弹

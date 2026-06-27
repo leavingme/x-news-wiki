@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "CopilotKit 融资2700万美元押注「Agentic前端」：所有UI都将被Agent重构"
 description: "**CopilotKit获得Glilot Capital、NfX、SignalFire联合领投的2700万美元，定位为连接人类与Agent的前端基础设施层。** - 核心叙事：「All UI will be AI」——不是在现有UI上叠加AI，而是用Agent范式重写交互层 - 投资方阵容暗示市场判断：Agent前端栈将成为独立赛道，而非后端能力的附属品 - 2700万美元的规模说明VC认为这个方"
 resource: "https://x.com/ataiiam/status/2051683035310137353"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "ai-trend-digest"
+type_okf: "X Tweet"
+source_url: "https://x.com/ataiiam/status/2051683035310137353"
+created: "2026-05-05"
+updated: "2026-06-26"
+sha256: "02a4a069efe26a07ef342fb7ba96b98dd7a29979380c474a40079e46a31a8030"
+sources:
+  - "/sources/news/2026-05-05/00__ataiiam__copilotkit-融资2700万美元押注-agentic前端-所有ui都将被agent重构.md"
 ---
 
 # CopilotKit 融资2700万美元押注「Agentic前端」：所有UI都将被Agent重构

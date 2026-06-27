@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "learn-claude-code：从零手搓 Agent 的「解剖学课程」"
 description: "**[12 节课拆解「智能体」的工程本质]**  开源教程 learn-claude-code 用递进式课程，将一个最简单的 while 循环逐步扩展为支持多 Agent 协作、任务隔离的完整自治系统——这是理解 Agent 工作原理的最小完整路径。  **课程结构：** • L1-L4：Agent Loop 基础（感知→决策→执行→记忆） • L5-L8：多 Agent 协调与任务隔离机制 • "
 resource: "https://x.com/i/status/2029911618235289721"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 85
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2029911618235289721"
+created: "2026-03-06"
+updated: "2026-06-26"
+sha256: "afc9fce29a1550cc08f5d200c21bdf935e5dcce5c79926ea8c51e1030615a723"
+sources:
+  - "/sources/news/2026-03-07/85__Saccc_c__learn-claude-code-从零手搓-agent-的-解剖学课程.md"
 ---
 
 # learn-claude-code：从零手搓 Agent 的「解剖学课程」

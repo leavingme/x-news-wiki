@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Vibe Coding 的正确姿势：先让 AI 破案，再让它写代码"
 description: "**[一句话核心判断]**  AI 编程失败的核心原因不是模型不够强，而是跳过了「侦察模式」直接进「生成模式」——破案式工作流才是正解。  **信息增量：** - AI 不认识你的仓库：组件状态流、团队接口命名规则、bug 归属（前端还是后端）都未知 - 实习生类比很贴切：让一个不了解情况的人直接改生产库，勤快反而更危险 - 具体操作：先让它读完相关文件并输出调用链路和可疑点，再切生成模式 - 侦"
 resource: "https://x.com/i/status/2060395747497918478"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2060395747497918478"
+created: "2026-05-29"
+updated: "2026-06-26"
+sha256: "c1f860b523f2f51298a08bb6301229427ee9934887a38a9c7c15b2fc562bf259"
+sources:
+  - "/sources/highlights/2026-05-29/00__Zesee__vibe-coding-的正确姿势-先让-ai-破案-再让它写代码.md"
 ---
 
 # Vibe Coding 的正确姿势：先让 AI 破案，再让它写代码

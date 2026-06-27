@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "铁锤人踩坑：Claude Code 思考 6 小时写一篇文章，AI 原创不如洗稿"
 description: "**[一篇 8 小时产出的文章，6 小时是 Claude Code 在 thinking——这是 Vibe Coding 写作工作流的负面实证。]**  - 3 个月前搭建的'写文章工作流'，因一个认知错误导致单篇耗时 8h - Claude Code 的 thinking 阶段吃掉 6h，token 燃烧严重但产出质量反而不如'洗稿' - 暴露出 Harness Engineering 的失败模"
 resource: "https://x.com/i/status/2063977925792399462"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2063977925792399462"
+created: "2026-06-08"
+updated: "2026-06-26"
+sha256: "6268b2dced89e9b56a269d864a90a4c47294d760a29fa54fc3263f42719f5403"
+sources:
+  - "/sources/news/2026-06-08/00__lxfater__铁锤人踩坑-claude-code-思考-6-小时写一篇文章-ai-原创不如洗稿.md"
 ---
 
 # 铁锤人踩坑：Claude Code 思考 6 小时写一篇文章，AI 原创不如洗稿

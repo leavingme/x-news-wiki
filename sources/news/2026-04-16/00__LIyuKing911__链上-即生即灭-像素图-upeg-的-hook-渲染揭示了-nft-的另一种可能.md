@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "链上「即生即灭」像素图：uPEG 的 Hook 渲染揭示了 NFT 的另一种可能"
 description: "**[Uniswap V4 Hook 的图腾实验：叙事价值先于使用价值]**  $uPEG 使用 Uniswap V4 Hook 机制，在每次买入瞬间链上实时生成独角兽像素图——不存 IPFS，不靠服务器，图「活在链上」。与 ERC-404（Pandora）的「持币自动绑定 NFT」不同，uPEG 的图「卖出即消失」，没有持久所有权和独立流通性。  当前涨幅来自「V4 Hook 链上渲染全球首例」"
 resource: "https://x.com/i/status/2044562259733549519"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2044562259733549519"
+created: "2026-04-15"
+updated: "2026-06-26"
+sha256: "ba9b17c8973b539f2667677e2dfcf7553e2dbaa1c4a0c4f125268b924312d570"
+sources:
+  - "/sources/news/2026-04-16/00__LIyuKing911__链上-即生即灭-像素图-upeg-的-hook-渲染揭示了-nft-的另一种可能.md"
 ---
 
 # 链上「即生即灭」像素图：uPEG 的 Hook 渲染揭示了 NFT 的另一种可能

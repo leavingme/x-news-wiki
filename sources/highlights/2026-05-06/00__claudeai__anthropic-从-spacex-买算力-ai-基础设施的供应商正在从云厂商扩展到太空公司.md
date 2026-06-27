@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Anthropic 从 SpaceX 买算力：AI 基础设施的供应商正在从云厂商扩展到太空公司"
 description: "**Anthropic 与 SpaceX 达成算力合作，Claude Code 和 API 用量限制同步提升。**  - SpaceX 作为算力供应商进入 AI 赛道，打破了 AWS/GCP/Azure 三家垄断的叙事 - Anthropic 连续签下多笔算力协议（此前已有 Google、Amazon），说明算力饥渴远未缓解 - Claude Code 用户可直接感知到限额提升，算力瓶颈正在被转化"
 resource: "https://x.com/claudeai/status/2052060691893227611"
@@ -22,6 +22,13 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "geopolitics-and-compute"
 x_source: "ai-trend-digest"
+type_okf: "X Tweet"
+source_url: "https://x.com/claudeai/status/2052060691893227611"
+created: "2026-05-06"
+updated: "2026-06-26"
+sha256: "68f252cbcbe807446a405bc2858581be54d75572d2cf7291581c378b15c1a968"
+sources:
+  - "/sources/highlights/2026-05-06/00__claudeai__anthropic-从-spacex-买算力-ai-基础设施的供应商正在从云厂商扩展到太空公司.md"
 ---
 
 # Anthropic 从 SpaceX 买算力：AI 基础设施的供应商正在从云厂商扩展到太空公司

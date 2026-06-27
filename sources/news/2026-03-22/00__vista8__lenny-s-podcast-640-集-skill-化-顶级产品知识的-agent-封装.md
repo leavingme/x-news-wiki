@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Lenny's Podcast 640 集 Skill 化：顶级产品知识的 Agent 封装"
 description: "**[产品智囊团的个人化部署]**  • 将 640 个 Markdown 文件封装为 Skill，实现「搜索即咨询」——如「如何提升设计审美」直接召回 Krithika Shankarraman 和 Karina Nguyen 的观点 • 验证了一个趋势：高质量内容资产 + Skill 封装 = 可复用的认知增强工具 • 潜在影响：个人知识库正在从「存档式存储」转向「Agent 可调用」的活性接"
 resource: "https://x.com/i/status/2035424581520068808"
@@ -22,6 +22,13 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "agent-knowledge-sharing-infra"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2035424581520068808"
+created: "2026-03-21"
+updated: "2026-06-26"
+sha256: "208fc19cd2ff0fa45cbb263b7d199f3c86a185a578df6245124e29420c2f2040"
+sources:
+  - "/sources/news/2026-03-22/00__vista8__lenny-s-podcast-640-集-skill-化-顶级产品知识的-agent-封装.md"
 ---
 
 # Lenny's Podcast 640 集 Skill 化：顶级产品知识的 Agent 封装

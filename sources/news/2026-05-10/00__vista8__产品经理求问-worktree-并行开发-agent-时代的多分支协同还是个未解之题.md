@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "产品经理求问 worktree 并行开发：Agent 时代的多分支协同还是个未解之题"
 description: "**Git worktree 作为多 Agent 并行开发的基础设施，实践成熟度远低于预期。**  - 产品经理开始意识到「让 AI 同时改一个代码库的多个功能」是真实需求，但工具链还没跟上 - worktree 理论上是正解，但实际使用中「迷迷糊糊」的反馈说明文档和 UX 仍有空白 - Agent 编排从「单任务串行」走向「多任务并行」，版本管理是绕不开的底层问题"
 resource: "https://x.com/i/status/2053474012823736588"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2053474012823736588"
+created: "2026-05-10"
+updated: "2026-06-26"
+sha256: "a0406240aba55d75940b2e9572c158e11d9a483f5936659f4d3c0fd7016f86e7"
+sources:
+  - "/sources/news/2026-05-10/00__vista8__产品经理求问-worktree-并行开发-agent-时代的多分支协同还是个未解之题.md"
 ---
 
 # 产品经理求问 worktree 并行开发：Agent 时代的多分支协同还是个未解之题

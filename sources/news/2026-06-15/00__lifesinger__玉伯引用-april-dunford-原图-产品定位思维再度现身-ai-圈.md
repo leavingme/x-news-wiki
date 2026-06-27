@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "玉伯引用 April Dunford 原图：产品定位思维再度现身 AI 圈"
 description: "**玉伯公开引用定位专家 April Dunford 的原图，定位 (Positioning) 概念正在回归 AI 产品讨论。**  April Dunford 是《Obviously Awesome》作者，专攻 B2B SaaS 定位方法论，她的引用意味着玉伯在思考 AI 产品的差异化锚点。  背后是 AI 下半场'产品定义能力才是真正护城河'这条线的延续——当模型能力被抹平，定位与品类选择反而"
 resource: "https://x.com/i/status/2066530511280029858"
@@ -22,6 +22,13 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "product-definition-moat"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2066530511280029858"
+created: "2026-06-15"
+updated: "2026-06-26"
+sha256: "88491119c856bfbd67b9ae253d273b454d4589c48b59a83b637760f383a125ba"
+sources:
+  - "/sources/news/2026-06-15/00__lifesinger__玉伯引用-april-dunford-原图-产品定位思维再度现身-ai-圈.md"
 ---
 
 # 玉伯引用 April Dunford 原图：产品定位思维再度现身 AI 圈

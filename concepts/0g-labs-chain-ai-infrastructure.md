@@ -1,5 +1,5 @@
 ---
-type: "Concept"
+type: "concept"
 title: "0g-labs-chain-ai-infrastructure"
 description: "跨日主题 \"0g-labs-chain-ai-infrastructure\"，共 1 条相关精选推文。"
 tags:
@@ -11,6 +11,12 @@ x_topic_slug: "0g-labs-chain-ai-infrastructure"
 x_tweet_count: 1
 x_first_seen: "2026-04-11T00:44:20.571Z"
 x_last_seen: "2026-04-11T00:44:20.571Z"
+type_okf: "Concept"
+created: "2026-04-11"
+updated: "2026-06-26"
+sha256: "7fa9ea585a32c94ca630f5523f2fabefb5a1222f2cae87f7bf1997c0057e45e0"
+sources:
+  - "/sources/news/2026-04-11/00__0xYi666__origins-network-800万美元融资-把闲置gpu算力变成链上可验证ai训练力.md"
 ---
 
 # 主题: 0g-labs-chain-ai-infrastructure

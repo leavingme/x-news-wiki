@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "AI数据主权危机催生链上验证新范式：Perle Labs的「干净饲料」生意"
 description: "**Perle Labs ($PRL) 切中AI训练数据污染痛点，构建Sovereign Intelligence Layer主权智能层。**  • 模型崩塌危机：互联网已被AI生成内容淹没，新一代模型抓取「机器废料」将导致智商退化 • 链上验证刚需：Scale AI+Meta背景团队提供可信数据溯源，解决「AI吃什么」的基础设施短板 • 双所同步背书：Binance Alpha与Coinbase"
 resource: "https://x.com/i/status/2037821628076404773"
@@ -22,6 +22,13 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "agent-economic-autonomy"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2037821628076404773"
+created: "2026-03-28"
+updated: "2026-06-26"
+sha256: "e1619f4377c635f4b0b52a7c77a3a52cfefcb04447bcde226f9ebea135f062ea"
+sources:
+  - "/sources/highlights/2026-03-29/00__PWenzhen76938__ai数据主权危机催生链上验证新范式-perle-labs的-干净饲料-生意.md"
 ---
 
 # AI数据主权危机催生链上验证新范式：Perle Labs的「干净饲料」生意

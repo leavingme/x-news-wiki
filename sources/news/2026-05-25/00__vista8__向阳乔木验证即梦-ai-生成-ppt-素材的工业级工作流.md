@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "向阳乔木验证即梦 AI 生成 PPT 素材的工业级工作流"
 description: "**一句话核心判断** 向阳乔木实测发现即梦（字节）生成的 16:9 高清图可直接粘贴进 Keynote 且尺寸完美匹配，配合空白背景可灵活补充页面——这是目前最省力的 AI PPT 素材生产闭环。  **信息增量** - 即梦的 16:9 比例输出与 Keynote 模板存在像素级对齐，证实其渲染管线已针对办公场景优化 - 核心操作：生成图→复制→粘贴，无中间导出步骤，比传统截图/导流程程少两步"
 resource: "https://x.com/i/status/2058914033190019515"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2058914033190019515"
+created: "2026-05-25"
+updated: "2026-06-26"
+sha256: "7308885e09c6ddbdce5e54df39d79568d59db738a6bccae931bbaeb1d2fbcecb"
+sources:
+  - "/sources/news/2026-05-25/00__vista8__向阳乔木验证即梦-ai-生成-ppt-素材的工业级工作流.md"
 ---
 
 # 向阳乔木验证即梦 AI 生成 PPT 素材的工业级工作流

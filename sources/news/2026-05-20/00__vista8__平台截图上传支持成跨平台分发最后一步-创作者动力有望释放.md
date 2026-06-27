@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "平台截图上传支持成跨平台分发最后一步：创作者动力有望释放"
 description: "**[一句话核心判断]** 抖音、小红书、微信公众号若支持截图直接上传，将大幅降低多平台运营的摩擦成本，释放创作者跨平台分发的动力。  **信息增量：** - 当前各平台对外部内容导入支持度参差不齐，截图上传是最低摩擦的解决方案之一 - 该功能实现后，X平台内容同步至国内平台的可操作性将显著提升 - 平台间互操作性的提升反映的是内容分发渠道整合的大趋势  **gakki锐评：** 这个建议本身很朴"
 resource: "https://x.com/i/status/2056982823169568779"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2056982823169568779"
+created: "2026-05-20"
+updated: "2026-06-26"
+sha256: "c0b3cf892554f5c704c311dcec0b0492c70273144b4dfb800c6d05a795add8a7"
+sources:
+  - "/sources/news/2026-05-20/00__vista8__平台截图上传支持成跨平台分发最后一步-创作者动力有望释放.md"
 ---
 
 # 平台截图上传支持成跨平台分发最后一步：创作者动力有望释放

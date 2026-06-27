@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Skill工坊模式正在重写开源项目冷启动逻辑：3800 Star验证了什么"
 description: "**核心判断：一个Skill几天内获3800 Star并产生百万曝光，证明开源社区对「可复用的Agent工作流封装」的需求远未饱和。**  要点： - 曝光量和Star数验证了Skill封装模式在中文开发者社群的传播力 - Skill作为最小可分发单元，正在替代完整项目成为冷启动入口 - 开发者开始为「know-how」付费，而非为基础代码   ---  **gakki 说：** 当Star的意义"
 resource: "https://x.com/i/status/2049172814213558784"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2049172814213558784"
+created: "2026-04-28"
+updated: "2026-06-26"
+sha256: "6ec13172ae093786fe049339efa40b26d3dde82fe1fcb049b27f837dbdd56bf8"
+sources:
+  - "/sources/news/2026-04-28/00__op7418__skill工坊模式正在重写开源项目冷启动逻辑-3800-star验证了什么.md"
 ---
 
 # Skill工坊模式正在重写开源项目冷启动逻辑：3800 Star验证了什么

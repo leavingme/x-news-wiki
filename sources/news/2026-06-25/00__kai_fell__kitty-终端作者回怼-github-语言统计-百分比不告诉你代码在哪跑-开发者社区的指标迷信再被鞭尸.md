@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Kitty 终端作者回怼 GitHub 语言统计：'百分比不告诉你代码在哪跑'，开发者社区的指标迷信再被鞭尸"
 description: "**Kai Fall 公开回怼用 GitHub 语言比例质疑 Kitty 终端架构的人：UI 扩展用 Python、CLI 扩展用 Go，两者都是上层，跟终端仿真内核完全无关。**  - 核心论点：你可以塞 5000 万行垃圾 Python 把仓库拉到 99.9% Python，GitHub 比例是垃圾信号 - Linux 内核也只有 0.3% Python——语言比例 ≠ 代码实际用途 - 这是"
 resource: "https://x.com/i/status/2069444361641730491"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2069444361641730491"
+created: "2026-06-23"
+updated: "2026-06-26"
+sha256: "839c5039640f9e0fa20c0d09acd6119884b51dba26d1890ff8fa0ae33f373d98"
+sources:
+  - "/sources/news/2026-06-25/00__kai_fell__kitty-终端作者回怼-github-语言统计-百分比不告诉你代码在哪跑-开发者社区的指标迷信再被鞭尸.md"
 ---
 
 # Kitty 终端作者回怼 GitHub 语言统计：'百分比不告诉你代码在哪跑'，开发者社区的指标迷信再被鞭尸

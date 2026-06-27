@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Google 开源扩散架构 DiffusionGemma：18GB 显存跑 26B，1000+ tokens/s 改写 Transformer 逐字范式"
 description: "**[核心判断]** Google 开源扩散架构 DiffusionGemma，用\"先打草稿再通读改错\"取代 Transformer 逐字生成，26B 模型 18GB 显存即可跑出 1000+ tokens/s。  - H100 跑出 1000+ tokens/s，RTX 5090 也有 700+，相对自回归生成是数量级提升 - 每轮迭代都会重新审视整块文本并修订，避免 Transformer 写"
 resource: "https://x.com/i/status/2064898950986133832"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2064898950986133832"
+created: "2026-06-11"
+updated: "2026-06-26"
+sha256: "ff87b170be68d52c7c7a97c11abd3d27937d7435b9b534e1e0553d4591cc9ee6"
+sources:
+  - "/sources/news/2026-06-11/00__xiaohu__google-开源扩散架构-diffusiongemma-18gb-显存跑-26b-1000-tokens-s-改写-t.md"
 ---
 
 # Google 开源扩散架构 DiffusionGemma：18GB 显存跑 26B，1000+ tokens/s 改写 Transformer 逐字范式

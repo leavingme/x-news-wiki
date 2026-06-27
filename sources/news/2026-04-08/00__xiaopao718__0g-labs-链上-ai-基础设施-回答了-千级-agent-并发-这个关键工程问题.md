@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "0G Labs 链上 AI 基础设施：回答了「千级 Agent 并发」这个关键工程问题"
 description: "**一句话核心判断：当大多数链上 AI 项目还在兜售叙事时，0G Labs 在 SuperAI 上直接公开了负载测试数据——千级 Agent 并发支持能力是区分「空气」和「基建」的分水岭。**  - 技术突破：模块化设计解耦计算/存储/验证层，支持千级 AI Agent 实时协同（对比传统链 <10 并发），这是链上 AI 协作层的核心瓶颈 - 开发者友好：0G 选择开放系统架构和负载测试数据直面"
 resource: "https://x.com/i/status/1942823237509079148"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/1942823237509079148"
+created: "2025-07-09"
+updated: "2026-06-26"
+sha256: "87d12b58b96ee3d3d6d4b52a090fd735339b4a2266520ea5d662ad3afa034693"
+sources:
+  - "/sources/news/2026-04-08/00__xiaopao718__0g-labs-链上-ai-基础设施-回答了-千级-agent-并发-这个关键工程问题.md"
 ---
 
 # 0G Labs 链上 AI 基础设施：回答了「千级 Agent 并发」这个关键工程问题

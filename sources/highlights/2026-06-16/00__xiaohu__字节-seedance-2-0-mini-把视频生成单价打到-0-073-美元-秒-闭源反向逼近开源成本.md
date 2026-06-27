@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "字节 Seedance 2.0 Mini 把视频生成单价打到 0.073 美元/秒，闭源反向逼近开源成本"
 description: "**字节视频模型正在用价格换规模化，闭源成本下探到开源门槛附近。** - Seedance 2.0 Mini：相比原版便宜约 30%，速度是 Fast 版 2 倍，画质对齐 Fast 版 - API 定价 0.073 美元/秒，30 秒广告视频成本约 2.19 美元；叠加优惠最高省 55% - CapCut / Dreamina / 桌面端全打通，Pro 限时积分再砍 33%  闭源视频模型主动把"
 resource: "https://x.com/i/status/2066702585747443821"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2066702585747443821"
+created: "2026-06-16"
+updated: "2026-06-26"
+sha256: "37ccad60ea026ecb85cdc200f02c29533928d714be3fc28b96db588d3244b99c"
+sources:
+  - "/sources/highlights/2026-06-16/00__xiaohu__字节-seedance-2-0-mini-把视频生成单价打到-0-073-美元-秒-闭源反向逼近开源成本.md"
 ---
 
 # 字节 Seedance 2.0 Mini 把视频生成单价打到 0.073 美元/秒，闭源反向逼近开源成本

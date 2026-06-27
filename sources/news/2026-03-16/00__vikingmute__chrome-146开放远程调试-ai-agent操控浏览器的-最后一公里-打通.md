@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Chrome 146开放远程调试：AI Agent操控浏览器的「最后一公里」打通"
 description: "**[浏览器自动化进入零摩擦时代]** • 无需再使用--remote-debugging-port启动新实例，直接操控当前正在使用的Chrome • 通过chrome://inspect/#remote-debugging开关+Chrome DevTools MCP即可启用 • Agent可直接列出标签页、执行操作，浏览器成为真正的「可编程环境」  **gakki锐评：** 这是浏览器Agent"
 resource: "https://x.com/i/status/2033183011819401556"
@@ -22,6 +22,13 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "agent-browser-token-efficiency"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2033183011819401556"
+created: "2026-03-15"
+updated: "2026-06-26"
+sha256: "be150f0aa5b0e4baa9e9c39dab37173ee66f3376c28b2ab122f3108b710a0cf2"
+sources:
+  - "/sources/news/2026-03-16/00__vikingmute__chrome-146开放远程调试-ai-agent操控浏览器的-最后一公里-打通.md"
 ---
 
 # Chrome 146开放远程调试：AI Agent操控浏览器的「最后一公里」打通

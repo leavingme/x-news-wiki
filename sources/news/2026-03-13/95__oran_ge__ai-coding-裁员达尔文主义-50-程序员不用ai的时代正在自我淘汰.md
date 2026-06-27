@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "AI Coding「裁员达尔文主义」：50%程序员不用AI的时代正在自我淘汰"
 description: "**[AI Coding的残酷分层已到来，不会用Claude Code的人正在被 silently replaced]** • 行业出现极端分化：会用的「火力全开」，不会用的连工具名字都没听过 • 这不是技术差距，是生存差距——裁员成为唯一的「教育手段」 • Boss直聘数据揭示：AI Coding工具的普及率被严重高估，市场存在巨大认知盲区  gakki 锐评：这不是技术迭代，是劳动力市场的「沉"
 resource: "https://x.com/i/status/2032228807562969559"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 95
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2032228807562969559"
+created: "2026-03-12"
+updated: "2026-06-26"
+sha256: "067d8f6e701312c17dec367dc4d3b7b73cf3a5a9d2f3e9a4f7b28efb20644696"
+sources:
+  - "/sources/news/2026-03-13/95__oran_ge__ai-coding-裁员达尔文主义-50-程序员不用ai的时代正在自我淘汰.md"
 ---
 
 # AI Coding「裁员达尔文主义」：50%程序员不用AI的时代正在自我淘汰

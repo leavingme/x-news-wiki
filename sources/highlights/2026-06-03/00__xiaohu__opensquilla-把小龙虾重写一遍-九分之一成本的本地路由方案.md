@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "OpenSquilla：把小龙虾重写一遍，九分之一成本的本地路由方案"
 description: "**[token分诊台逻辑：简单任务本地跑，复杂任务再上顶级模型]**  本地小模型先对请求极速向量化，判断简单还是复杂，再决定派哪个模型。25个任务实测：纯Claude Opus成本$6.2，OpenSquilla混用Opus+GLM5.1+DS4 Flash，成本仅$0.68，分数几乎一样。token节省不仅在模型调用，还在于90多个Skill的加载优化。  gakki锐评：本地路由层是Age"
 resource: "https://x.com/i/status/2062112308126761353"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2062112308126761353"
+created: "2026-06-03"
+updated: "2026-06-26"
+sha256: "c78f9384a4b1a5aa4964f113140fcec22574225e555bde573ddc8d9661afe30d"
+sources:
+  - "/sources/highlights/2026-06-03/00__xiaohu__opensquilla-把小龙虾重写一遍-九分之一成本的本地路由方案.md"
 ---
 
 # OpenSquilla：把小龙虾重写一遍，九分之一成本的本地路由方案

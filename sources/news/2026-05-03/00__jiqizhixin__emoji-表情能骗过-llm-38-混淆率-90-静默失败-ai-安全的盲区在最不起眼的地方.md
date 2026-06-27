@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Emoji 表情能骗过 LLM：38% 混淆率 + 90% 静默失败，AI 安全的盲区在最不起眼的地方"
 description: "**当攻击面藏在一个微笑表情里，安全团队的威胁模型需要重写了。**\\n\\n- 西安交大、NTU、UMass 联合研究：ASCII 表情符号（如 :-)）可触发 LLM 语义混淆，6 个模型 3757 个测试用例中混淆率超 38%\\n- 更危险的是 90% 以上混淆响应是「静默失败」——语法正确但语义偏离，且可迁移到 Agent 框架\\n- 这不是边缘案例：表情符号在企业邮件、客服对话、社交媒体中无"
 resource: "https://x.com/i/status/2050929623572140227"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2050929623572140227"
+created: "2026-05-03"
+updated: "2026-06-26"
+sha256: "a943f0441c8709aa0cb70ac026a446531b74ed0424b7913c6a4a2db9470e9b36"
+sources:
+  - "/sources/news/2026-05-03/00__jiqizhixin__emoji-表情能骗过-llm-38-混淆率-90-静默失败-ai-安全的盲区在最不起眼的地方.md"
 ---
 
 # Emoji 表情能骗过 LLM：38% 混淆率 + 90% 静默失败，AI 安全的盲区在最不起眼的地方

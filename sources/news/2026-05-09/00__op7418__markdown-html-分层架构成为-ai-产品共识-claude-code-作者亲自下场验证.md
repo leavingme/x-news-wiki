@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Markdown + HTML 分层架构成为 AI 产品共识：Claude Code 作者亲自下场验证"
 description: "**AI 原生格式之争正在收敛为一个清晰的分层方案。**  - 歸藏梳理了一个正在成型的行业共识：Markdown 负责底层逻辑与记忆的纯净存储，HTML 接管表现层的高密度交互与展示 - Claude Code 作者近日发文印证了这一路径，表示自己的对外分享形式已全面转向 HTML，与 Obsidian 作者此前提出的「Markdown 是 AI 内容谢林点」形成闭环 - Markdown 的短"
 resource: "https://x.com/i/status/2052943672556274040"
@@ -22,6 +22,13 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "markdown-ai-native-format"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2052943672556274040"
+created: "2026-05-09"
+updated: "2026-06-26"
+sha256: "6fb194f39d9e5130e1bd9195d216d121ee590e5a22340b6d8058e31beabe5953"
+sources:
+  - "/sources/news/2026-05-09/00__op7418__markdown-html-分层架构成为-ai-产品共识-claude-code-作者亲自下场验证.md"
 ---
 
 # Markdown + HTML 分层架构成为 AI 产品共识：Claude Code 作者亲自下场验证

@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "复旦等联合发布具身AI安全全景综述：500篇论文缝合的攻击防御 taxonomy 意味着什么"
 description: "**【一句话核心判断】** 复旦大学、香港城市大学、UIUC等联合发布首个具身AI安全综合综述，将感知、认知、规划、动作、人机交互全链路的攻击防御统一为一套taxonomy，填补了该领域长期碎片化的空白。  **【信息增量】** 1. 首次跨感知-认知-动作全链路梳理安全威胁，而非单一模块； 2. 对抗patch到jailbreak prompt，覆盖面超500篇相关文献； 3. 具身AI安全从「"
 resource: "https://x.com/i/status/2062434427217784902"
@@ -22,6 +22,13 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "embodied-ai-robotics"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2062434427217784902"
+created: "2026-06-04"
+updated: "2026-06-26"
+sha256: "71d99bcf93c75d125932407aa63ffa912c1a3dda3085079eff2c0a628ed33006"
+sources:
+  - "/sources/news/2026-06-04/00__jiqizhixin__复旦等联合发布具身ai安全全景综述-500篇论文缝合的攻击防御-taxonomy-意味着什么.md"
 ---
 
 # 复旦等联合发布具身AI安全全景综述：500篇论文缝合的攻击防御 taxonomy 意味着什么

@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Claude 1M 上下文让「AI 技能复利」首次成为可能"
 description: "**[长上下文是 Agent 持续进化的基础设施]** • 过去复杂任务中模型会因上下文压缩而「失忆」，无法沉淀经验 • 1M 窗口使数小时任务后仍能自我复盘、写入持久化文件 • 用户开始真正享受「AI 技能增长」的复利效应，而非每次从零开始  — 这不是简单的「能处理更长文档」，而是让 Agent 具备了「长期记忆」和「迭代进化」的能力。 Claude Code 正在从「一次性工具」变成「可培养"
 resource: "https://x.com/i/status/2032725693222817985"
@@ -22,6 +22,13 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "claude-code-ecosystem"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2032725693222817985"
+created: "2026-03-14"
+updated: "2026-06-26"
+sha256: "67c47d3186954ff59770c227bb4593601db9048cc08a7abe683dffef4482112f"
+sources:
+  - "/sources/highlights/2026-03-21/00__wshuyi__claude-1m-上下文让-ai-技能复利-首次成为可能.md"
 ---
 
 # Claude 1M 上下文让「AI 技能复利」首次成为可能

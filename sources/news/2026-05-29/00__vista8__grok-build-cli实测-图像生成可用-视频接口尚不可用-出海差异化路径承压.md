@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Grok Build CLI实测：图像生成可用，视频接口尚不可用，出海差异化路径承压"
 description: "**核心判断：xAI的Grok Build CLI功能完成度低于预期，视频生成和社交数据读取双双落空，Codex/Claude Code夹击下定位堪忧。**  关键发现： - 图像生成：可用，调用video_gen接口实测不行 - 视频生成：官方宣称支持，实际测试失败 - 社交数据读取：无法直接读取X帖子内容 - 结论：编程能力打不过Codex和Claude Code，差异化亮点尚未找到  xAI"
 resource: "https://x.com/i/status/2060290214279667773"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2060290214279667773"
+created: "2026-05-29"
+updated: "2026-06-26"
+sha256: "ed993df563d7f96a77192ffe84c7f570218e6a187faf8f6b86a99bf2105377b3"
+sources:
+  - "/sources/news/2026-05-29/00__vista8__grok-build-cli实测-图像生成可用-视频接口尚不可用-出海差异化路径承压.md"
 ---
 
 # Grok Build CLI实测：图像生成可用，视频接口尚不可用，出海差异化路径承压

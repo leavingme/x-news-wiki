@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "GOAT升级为「经济主体」：Ziren可验证计算网络+x402支付+ERC-8004声誉系统三位合体"
 description: "**[一句话核心判断]** GOAT完成了面向个人AI Agent经济主体身份的基础设施建设——Ziren可验证计算、x402支付网络、ERC-8004声誉系统三者合一，标志着「AI作为经济参与者」从概念进入工程实现阶段。  - Stephen Duan宣布上线agentkit + OpenClaw安全launch平台，同步升级Ziren可验证计算网络 - 推出ERC-8004声誉系统——为AI "
 resource: "https://x.com/i/status/2039716588769685797"
@@ -22,6 +22,13 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "agent-economic-autonomy"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2039716588769685797"
+created: "2026-04-02"
+updated: "2026-06-26"
+sha256: "4bf3fc7b801c0c5871f0dd19c1414414a8d9b462cc998677a4ac2981ced37eb1"
+sources:
+  - "/sources/highlights/2026-04-02/00__sd_eigen__goat升级为-经济主体-ziren可验证计算网络-x402支付-erc-8004声誉系统三位合体.md"
 ---
 
 # GOAT升级为「经济主体」：Ziren可验证计算网络+x402支付+ERC-8004声誉系统三位合体

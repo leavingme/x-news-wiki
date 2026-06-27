@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Kimi K2.7高速版内测3天准入：Moonshot端侧推理仍处紧平衡"
 description: "**Kimi K2.7高速版本已开放内测申请，3个工作日左右完成审核开通**  - 需主动到Kimi官网提交内测申请 - 实际准入周期约3天（周五申请，周日开通） - 信号：高速档仍处灰度放量阶段，Moonshot端侧推理资源紧平衡   3天审核期说明Moonshot在端侧推理供给上还没全面铺开，等于把\"高速档\"做成了排队福利而非普惠权益。"
 resource: "https://x.com/i/status/2066437801990926651"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2066437801990926651"
+created: "2026-06-15"
+updated: "2026-06-26"
+sha256: "7824f83505bb4325da54586a0d32bfbdd5de1d93692753f903b75df3a031da9c"
+sources:
+  - "/sources/news/2026-06-15/00__bourneliu66__kimi-k2-7高速版内测3天准入-moonshot端侧推理仍处紧平衡.md"
 ---
 
 # Kimi K2.7高速版内测3天准入：Moonshot端侧推理仍处紧平衡

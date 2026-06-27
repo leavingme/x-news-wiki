@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Anthropic 订阅改 API 路线确认：6月15日全面转向计量计费"
 description: "**一句话核心判断** Anthropic 确认 6 月 15 日所有订阅套餐 token 不再可用于第三方，第三方调用全部转 API 计费——大模型公司的盈利压力正式传导到生态层。  **信息增量** 1. 这不是临时政策调整，而是明确的商业路线切换，意味着 Anthropic 正在系统性地收紧 API 边界 2. 订阅转 API 后，成本从「月费固定」变为「按量弹性」，对高频调用者影响最大 3"
 resource: "https://x.com/i/status/2062506101468205281"
@@ -22,6 +22,13 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "ai-agent-crypto-infra"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2062506101468205281"
+created: "2026-06-04"
+updated: "2026-06-26"
+sha256: "5e43c724da250b44ca78fda2f7342ac49fcfe3b57169c5894221bb3bfc3a066b"
+sources:
+  - "/sources/news/2026-06-04/00__lxfater__anthropic-订阅改-api-路线确认-6月15日全面转向计量计费.md"
 ---
 
 # Anthropic 订阅改 API 路线确认：6月15日全面转向计量计费

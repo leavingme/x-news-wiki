@@ -1,5 +1,5 @@
 ---
-type: "Author"
+type: "entity"
 title: "Alexander Whedon (@alex_whedon)"
 description: "X/Twitter 作者 @alex_whedon。共收录 1 条 AI 精选推文。"
 tags:
@@ -12,6 +12,12 @@ x_author_name: "Alexander Whedon"
 x_tweet_count: 1
 x_first_seen: "2026-05-05T16:17:38.606Z"
 x_last_seen: "2026-05-05T16:17:38.606Z"
+type_okf: "Author"
+created: "2026-05-05"
+updated: "2026-06-26"
+sha256: "39b0953270fa9cdcef6ad053f1bf6a57dcda7b393a60eaf9c6cd5d563bb723b9"
+sources:
+  - "/sources/highlights/2026-05-05/00__alex_whedon__subq-首个亚二次稀疏注意力模型-12m-上下文窗口-比-flashattention-快-52-倍-成本不到-opu.md"
 ---
 
 # Alexander Whedon (@alex_whedon)

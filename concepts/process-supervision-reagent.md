@@ -1,5 +1,5 @@
 ---
-type: "Concept"
+type: "concept"
 title: "process-supervision-reagent"
 description: "跨日主题 \"process-supervision-reagent\"，共 2 条相关精选推文。"
 tags:
@@ -11,6 +11,13 @@ x_topic_slug: "process-supervision-reagent"
 x_tweet_count: 2
 x_first_seen: "2026-05-02T19:19:13.295Z"
 x_last_seen: "2026-05-03T04:18:31.843Z"
+type_okf: "Concept"
+created: "2026-05-02"
+updated: "2026-06-26"
+sha256: "f82e06673294c94f3cb98bf379ca93f784aa1633089e253733889840da7b7a96"
+sources:
+  - "/sources/highlights/2026-05-03/00__jiqizhixin__stanford-llm-as-a-verifier-框架-让模型自我验证推理-terminal-bench-86-4-.md"
+  - "/sources/news/2026-05-02/00__jiqizhixin__rebalance-哈工深-华为-清华用实时置信度驯服推理冗余-训练-free-的-plug-and-play-方案覆盖.md"
 ---
 
 # 主题: process-supervision-reagent

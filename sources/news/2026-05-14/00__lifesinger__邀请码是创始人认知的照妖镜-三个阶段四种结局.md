@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "邀请码是创始人认知的照妖镜：三个阶段四种结局"
 description: "**邀请码策略的本质是创始人心理的自我投射，不是产品传播工具。**  玉伯拆解了一个常见的创始人心智模型：从\"我是下一个乔布斯\"的愚昧之巅，到\"用户像雪花飘来又像雪融化\"的幻灭，再到\"运营比产品更重要\"的谷底，最后才是找到自己节奏的开悟之坡。  邀请码本身不重要，重要的是创始人对\"产品-用户-传播\"三角关系的认知阶段。这个框架可迁移到任何一个\"以为产品好就能自然传播\"的 AI 工具创始人。  ga"
 resource: "https://x.com/i/status/2054936746639729089"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2054936746639729089"
+created: "2026-05-14"
+updated: "2026-06-26"
+sha256: "17dccd974c90d47012418ee76172f5cff75286c245573b8d643edd000373617c"
+sources:
+  - "/sources/news/2026-05-14/00__lifesinger__邀请码是创始人认知的照妖镜-三个阶段四种结局.md"
 ---
 
 # 邀请码是创始人认知的照妖镜：三个阶段四种结局

@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "UCLA/斯坦福联合推出Fishbone框架：任意3D模型「骨架编辑」实现百万级变体实时操控"
 description: "**一句话核心判断** 3D内容创作迎来「骨架可编辑化」突破，Rib-Spine双层控制结构让局部形变与全局动作解耦操控。  **信息增量** - 传统3D变形方法依赖全局操作，局部编辑极难；Fishbone在任意3D形状内部构建「rib-spine」控制结构 - Rib处理局部编辑（厚度、截面），Spine控制全局动作（弯曲、扭转、拉伸），用户通过滑块实时操控 - 动画生成、物理仿真等下游任务可"
 resource: "https://x.com/i/status/2059570600612704321"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2059570600612704321"
+created: "2026-05-27"
+updated: "2026-06-26"
+sha256: "2a971b55b0284232ebdfcc484f6ab198e163abf6fe17ae14d67b3707ba5c05f3"
+sources:
+  - "/sources/news/2026-05-27/00__jiqizhixin__ucla-斯坦福联合推出fishbone框架-任意3d模型-骨架编辑-实现百万级变体实时操控.md"
 ---
 
 # UCLA/斯坦福联合推出Fishbone框架：任意3D模型「骨架编辑」实现百万级变体实时操控

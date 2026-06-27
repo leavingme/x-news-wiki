@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "飞书aily「开箱即用」：大厂开始收割「养虾焦虑」背后的部署服务市场"
 description: "**[Agent部署服务从「自托管」向「官方贴膜」跃迁]** • 飞书推出预配置Agent服务，用户无需安装、配置、调优，直接对话即可使用 • 精准击中「全民养虾」痛点：安装只是第一步，80%用户卡在使用门槛 • 与百度「龙虾市集」形成对标，企业级Agent托管成为大厂新战场 • 预示Agent经济从「DIY工具」向「SaaS化服务」的形态收敛"
 resource: "https://x.com/i/status/2034635831865160148"
@@ -22,6 +22,13 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "agent-deployment-service"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2034635831865160148"
+created: "2026-03-19"
+updated: "2026-06-26"
+sha256: "09179c5e6e05715ec951b5d680cc9bf5fd90dfdbac951a16e610e010f9c0b784"
+sources:
+  - "/sources/news/2026-03-20/00__xiaohu__飞书aily-开箱即用-大厂开始收割-养虾焦虑-背后的部署服务市场.md"
 ---
 
 # 飞书aily「开箱即用」：大厂开始收割「养虾焦虑」背后的部署服务市场

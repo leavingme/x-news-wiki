@@ -1,5 +1,5 @@
 ---
-type: "Concept"
+type: "concept"
 title: "skill-recommendation-culture"
 description: "跨日主题 \"skill-recommendation-culture\"，共 2 条相关精选推文。"
 tags:
@@ -11,6 +11,13 @@ x_topic_slug: "skill-recommendation-culture"
 x_tweet_count: 2
 x_first_seen: "2026-06-08T16:18:46.970Z"
 x_last_seen: "2026-06-14T16:18:40.192Z"
+type_okf: "Concept"
+created: "2026-06-08"
+updated: "2026-06-26"
+sha256: "16a896935e058c031d92e22323fcec7b5171f359c755bf06c5f2ac8d56250032"
+sources:
+  - "/sources/news/2026-06-08/00__op7418__歸藏-skills-推荐体系登上量子位-中文-skill生态进入主流媒体视野.md"
+  - "/sources/news/2026-06-14/00__vista8__向阳乔木开源小说-skill-一句话起稿-ai-自动设计钩子-桥段和人物欲望.md"
 ---
 
 # 主题: skill-recommendation-culture

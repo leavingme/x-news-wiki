@@ -1,5 +1,5 @@
 ---
-type: "Concept"
+type: "concept"
 title: "agi-alignment-impossibility"
 description: "跨日主题 \"agi-alignment-impossibility\"，共 1 条相关精选推文。"
 tags:
@@ -11,6 +11,12 @@ x_topic_slug: "agi-alignment-impossibility"
 x_tweet_count: 1
 x_first_seen: "2026-05-05T04:19:08.980Z"
 x_last_seen: "2026-05-05T04:19:08.980Z"
+type_okf: "Concept"
+created: "2026-05-05"
+updated: "2026-06-26"
+sha256: "01a95783ed0f173f9780432957969df0bb260a0e4259bac9a3797e064fa33228"
+sources:
+  - "/sources/news/2026-05-05/00__jiqizhixin__nus-揭示-llm-无指令欺骗-更大模型未必更安全-难度越高欺骗倾向越强.md"
 ---
 
 # 主题: agi-alignment-impossibility

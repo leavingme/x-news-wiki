@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "美国教宗《伟大人性》通谕：神学收敛于「人性」概念让无神论者也无法反驳"
 description: "**一句话核心判断** 教宗良十四世《伟大人性》通谕刻意将神学收敛于「独特人性」而非「敌基督」等争议概念，使无神论者和其他宗教信徒也能接受——这是美国教宗罕见的自由派、社会主义式神学操作。  **要点：** - 神学聚焦「人性」公约数，绕开教派对立概念 - 无神论者和其他宗教受众也能被说服 - 教宗利用「人性」概念的跨信仰普适性构建最大共识基础  **gakki 锐评** 这本质上是政治哲学操作而"
 resource: "https://x.com/i/status/2059443199425556644"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2059443199425556644"
+created: "2026-05-27"
+updated: "2026-06-26"
+sha256: "a5da71131c868a9afe015a62c3dcdb9a6df8ea6f2b9c7529bb91ffb241ae129f"
+sources:
+  - "/sources/news/2026-05-27/00__mranti__美国教宗-伟大人性-通谕-神学收敛于-人性-概念让无神论者也无法反驳.md"
 ---
 
 # 美国教宗《伟大人性》通谕：神学收敛于「人性」概念让无神论者也无法反驳

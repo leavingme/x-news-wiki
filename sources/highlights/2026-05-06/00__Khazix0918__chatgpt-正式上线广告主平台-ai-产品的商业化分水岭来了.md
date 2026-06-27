@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "ChatGPT 正式上线广告主平台：AI 产品的商业化分水岭来了"
 description: "**ChatGPT 广告主平台正式上线，AI 产品从工具走向广告驱动的双边市场。**  - 这是 OpenAI 继订阅制之后的第二条商业化腿，标志着 AI 产品从「用户付费」模式向「广告主付费」模式裂变 - 对标 Google 的搜索广告路径，ChatGPT 正在复制「免费用户+广告变现」的经典互联网剧本 - AI 产品的价值衡量标准将从「能力上限」转向「流量变现效率」，用户注意力正式成为商品  "
 resource: "https://x.com/i/status/2051873577566437395"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2051873577566437395"
+created: "2026-05-06"
+updated: "2026-06-26"
+sha256: "634d338c9331dafcc0c6cb75cd5a213c77386dddfeca2e3eefe715bca2f936e9"
+sources:
+  - "/sources/highlights/2026-05-06/00__Khazix0918__chatgpt-正式上线广告主平台-ai-产品的商业化分水岭来了.md"
 ---
 
 # ChatGPT 正式上线广告主平台：AI 产品的商业化分水岭来了

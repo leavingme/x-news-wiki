@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Polymarket TVL 突破 5 亿美元创历史新高：预测市场从政治事件工具进化为持续性金融基础设施"
 description: "**预测市场的流动性天花板正在被打破，5亿美金 TVL 意味着它不再只是选举期间的投机工具。**  - 突破 2024 美国大选期间的历史峰值，说明非选举事件驱动的持续性需求正在形成 - 对 Agent 生态的直接影响：预测市场 API 的深度和稳定性提升，为合规交易 Agent 提供了更可靠的执行环境 - 隐含信号：去中心化预测市场正在从「博彩」向「信息聚合基础设施」转型  gakki 锐评：T"
 resource: "https://x.com/CarOnPolymarket/status/2049943125930450969"
@@ -22,6 +22,13 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "prediction-market-compliance"
 x_source: "ai-trend-digest"
+type_okf: "X Tweet"
+source_url: "https://x.com/CarOnPolymarket/status/2049943125930450969"
+created: "2026-04-30"
+updated: "2026-06-26"
+sha256: "9fbfc200dea7e65e68261e4f016ce1e1f8044d2bc74887556e9676aeb862b920"
+sources:
+  - "/sources/news/2026-04-30/00__CarOnPolymarket__polymarket-tvl-突破-5-亿美元创历史新高-预测市场从政治事件工具进化为持续性金融基础设施.md"
 ---
 
 # Polymarket TVL 突破 5 亿美元创历史新高：预测市场从政治事件工具进化为持续性金融基础设施

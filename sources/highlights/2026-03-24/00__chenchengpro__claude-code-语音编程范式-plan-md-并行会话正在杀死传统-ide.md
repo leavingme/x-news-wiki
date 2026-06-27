@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Claude Code 语音编程范式：plan.md + 并行会话正在杀死传统 IDE"
 description: "**[语音编程与规划优先的开发范式已成熟]**  • 方法论颠覆：70个plan文件 vs 263次提交的配比，证明「规划驱动」替代「编码驱动」的可行性 • 多会话并行：4-6个Claude Code会话同时运行（规划/实现/研究/debug），MacBook续航成为新瓶颈 • 语音输入可用性突破：转录不完美但Claude上下文理解补偿，特斯拉自动驾驶时口述完成技术文章 • 会议录音→产品需求→代"
 resource: "https://x.com/i/status/2036073673623585267"
@@ -22,6 +22,13 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "claude-code-natural-language-workflow"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2036073673623585267"
+created: "2026-03-23"
+updated: "2026-06-26"
+sha256: "5c7012dcb3d55fa98b368a8c10c068fe439125a65c6fbf8ac5628e082ea4c7fa"
+sources:
+  - "/sources/highlights/2026-03-24/00__chenchengpro__claude-code-语音编程范式-plan-md-并行会话正在杀死传统-ide.md"
 ---
 
 # Claude Code 语音编程范式：plan.md + 并行会话正在杀死传统 IDE

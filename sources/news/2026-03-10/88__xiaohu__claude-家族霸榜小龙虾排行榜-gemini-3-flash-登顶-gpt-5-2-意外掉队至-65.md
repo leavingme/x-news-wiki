@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Claude 家族霸榜小龙虾排行榜：Gemini 3 Flash 登顶，GPT-5.2 意外掉队至 65%"
 description: "**[模型 Agent 能力出现显著分层]** - Gemini 3 Flash Preview、MiniMax M2.1、Kimi K2.5 前三，Claude 全家桶（Sonnet/Haiku/Opus）均超 90% - GPT-5.2 仅 65.6% 排名靠后，与 Claude 家族差距近 30 个百分点 - 暗示「基础模型性能 ≠ Agent 任务成功率」，工具调用、上下文管理、指令遵循是"
 resource: "https://x.com/i/status/2030820977513463987"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 88
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2030820977513463987"
+created: "2026-03-09"
+updated: "2026-06-26"
+sha256: "295c8a8154993c69da979d4ee7b5df9fab0a73f65e13b357853d561a2660404e"
+sources:
+  - "/sources/news/2026-03-10/88__xiaohu__claude-家族霸榜小龙虾排行榜-gemini-3-flash-登顶-gpt-5-2-意外掉队至-65.md"
 ---
 
 # Claude 家族霸榜小龙虾排行榜：Gemini 3 Flash 登顶，GPT-5.2 意外掉队至 65%

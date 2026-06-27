@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "玉伯：Agentic AI 正在重构时空拓扑，社会巨变的前夜已至"
 description: "**Agent将改变空间的拓扑结构和时间的变化本质。** • 互联网改变空间的度量与方向，AI改变时间的度量与方向 • Agentic AI有机会同时改变空间拓扑和时间变化——这是范式的跃迁 • 从\"场的性质被重构\"到时空维度的底层改变，Agent的影响正在升维  时间的度量只是表象，Agent正在重写的是人类组织时空的底层逻辑。这是比互联网更深层的结构变革。"
 resource: "https://x.com/i/status/2037929285890064723"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2037929285890064723"
+created: "2026-03-28"
+updated: "2026-06-26"
+sha256: "d60e3d2f8f53b5659d01c2019281bbd46872e5a5a099a2bf481c7e0159a32f1f"
+sources:
+  - "/sources/highlights/2026-03-28/00__lifesinger__玉伯-agentic-ai-正在重构时空拓扑-社会巨变的前夜已至.md"
 ---
 
 # 玉伯：Agentic AI 正在重构时空拓扑，社会巨变的前夜已至

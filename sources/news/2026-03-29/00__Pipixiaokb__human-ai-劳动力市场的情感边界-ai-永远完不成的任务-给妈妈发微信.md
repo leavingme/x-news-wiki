@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Human×AI 劳动力市场的情感边界：AI 永远完不成的任务——给妈妈发微信"
 description: "**[链上任务平台首次触及 AI 的能力禁区：真实情感连接]** • NIUMA WORKS 测试任务：通过微信给妈妈发「爱你老妈」并截图证明 • 任务完成率超预期，每一条截图背后都是「迟到的温暖问候」 • 核心洞察：AI 可以高效匹配任务、快速执行，但「带着心跳和回忆的爱」无法被替代 • Human×AI 劳动力市场的隐性分界线——AI 卷效率，人类做有温度的事  这个实验的价值在于它戳破了「A"
 resource: "https://x.com/i/status/2037930752168677788"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2037930752168677788"
+created: "2026-03-28"
+updated: "2026-06-26"
+sha256: "c39f8d41d3d4bdf94a975a26e7669f9f21d593db582570f45e86504bc2c9e0e1"
+sources:
+  - "/sources/news/2026-03-29/00__Pipixiaokb__human-ai-劳动力市场的情感边界-ai-永远完不成的任务-给妈妈发微信.md"
 ---
 
 # Human×AI 劳动力市场的情感边界：AI 永远完不成的任务——给妈妈发微信

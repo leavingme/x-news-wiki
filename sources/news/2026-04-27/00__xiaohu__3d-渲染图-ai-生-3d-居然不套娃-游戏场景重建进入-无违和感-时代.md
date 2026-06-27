@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "3D 渲染图 + AI 生 3D 居然不套娃：游戏场景重建进入「无违和感」时代"
 description: "**[一句话核心判断]** 游戏截图→AI 重建→可操控 3D 空间的链路首次实现「氛围保留零损耗」，AI 3D 生成的去违和感临界点已至。  **信息增量：** - 荒地场景的建筑轮廓、地面质感、远景层次在 AI 重建后全部对齐原始截图 - 推摇杆行走时视角移动与场景物理匹配，无「漂浮感」 - 这意味着游戏/影视资产的 AI 二次创作门槛大幅降低，IP 续作成本骤降  **影响：** 游戏内容工"
 resource: "https://x.com/i/status/2048626364753096790"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2048626364753096790"
+created: "2026-04-27"
+updated: "2026-06-26"
+sha256: "47f0f4a25e76a9802f777b8f6988b416e3015ad9c671cadbc1ae4716cd067e98"
+sources:
+  - "/sources/news/2026-04-27/00__xiaohu__3d-渲染图-ai-生-3d-居然不套娃-游戏场景重建进入-无违和感-时代.md"
 ---
 
 # 3D 渲染图 + AI 生 3D 居然不套娃：游戏场景重建进入「无违和感」时代

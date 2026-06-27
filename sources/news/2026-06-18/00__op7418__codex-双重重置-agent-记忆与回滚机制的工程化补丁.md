@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Codex 双重重置：Agent 记忆与回滚机制的工程化补丁"
 description: "**Codex 升级引入双重重置机制：除了手动重置还会自动保存一次重置快照。**  • 歸藏发现 Codex 实际帮你额外存了一次重置记录 • 可能意味着 Codex 增强了会话状态快照与回滚能力 • 工程化 Agent 的记忆管理在持续补齐   gakki 锐评：Agent 记忆管理终于被当作一等公民来做，但具体机制仍不清晰，建议结合官方更新日志交叉验证细节。"
 resource: "https://x.com/i/status/2067426345693622675"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2067426345693622675"
+created: "2026-06-18"
+updated: "2026-06-26"
+sha256: "3e5148dab4cf84a95fc381e6565744c7b0504f6a606e6eebe8f8305c55c6b73b"
+sources:
+  - "/sources/news/2026-06-18/00__op7418__codex-双重重置-agent-记忆与回滚机制的工程化补丁.md"
 ---
 
 # Codex 双重重置：Agent 记忆与回滚机制的工程化补丁

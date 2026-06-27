@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "余温：Cursor composer 2.5代码能力超国产模型，差距仍在"
 description: "**一句话核心判断**  国产AI编程工具在代码任务上与Cursor、Codex的差距被实战用户体感确认。  **信息增量**  - 实战对比：Codex + Cursor composer 2.5组合 vs 国产模型，前者胜出 - 用户背景：此前对K2.5体验不错，但国产模型整体仍差一截 - 揭示了国产模型在复杂代码任务上的实际短板  **gakki锐评**  国产模型的Benchmark数字和"
 resource: "https://x.com/i/status/2057128096671613212"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2057128096671613212"
+created: "2026-05-20"
+updated: "2026-06-26"
+sha256: "30ae728eea2ae67b74625ac8c886aee4970924a01509ea47ac0c67e06d0150cf"
+sources:
+  - "/sources/news/2026-05-20/00__gkxspace__余温-cursor-composer-2-5代码能力超国产模型-差距仍在.md"
 ---
 
 # 余温：Cursor composer 2.5代码能力超国产模型，差距仍在

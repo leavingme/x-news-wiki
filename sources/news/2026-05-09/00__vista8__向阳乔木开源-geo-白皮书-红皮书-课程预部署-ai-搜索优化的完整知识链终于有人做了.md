@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "向阳乔木开源 GEO 白皮书+红皮书+课程预部署：AI 搜索优化的完整知识链终于有人做了"
 description: "**GEO（生成式引擎优化）的完整知识体系被开源出来了。**  - 白皮书+红皮书双版本，覆盖理论框架和实操指南 - NotebookLM 技能+飞书 CLI 文档+课程预部署项目，从知识到工具链路完整 - 向阳乔木、元子、姚老师三人联合开源，社区协作模式  GEO 正在成为 SEO 的 AI 时代继任者，这份开源资源的稀缺性在于它不是碎片化的经验帖，而是有体系的知识基础设施。对内容创作者和 SE"
 resource: "https://x.com/i/status/2053113579898044865"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2053113579898044865"
+created: "2026-05-09"
+updated: "2026-06-26"
+sha256: "f1e73db60183dde68d32eea440c23fc62698959b24c817ae37138f7c6f1ce0c5"
+sources:
+  - "/sources/news/2026-05-09/00__vista8__向阳乔木开源-geo-白皮书-红皮书-课程预部署-ai-搜索优化的完整知识链终于有人做了.md"
 ---
 
 # 向阳乔木开源 GEO 白皮书+红皮书+课程预部署：AI 搜索优化的完整知识链终于有人做了

@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Flue：第一个「Agent Harness」框架诞生，Claude Code架构被抽象成可编程基础设施"
 description: "**Flue将Claude Code的核心交互范式（自主规划→执行→反馈）抽象为纯TypeScript框架，无TUI/GUI，100% headless可编程。** - 直接命名「Harness」概念，验证了Harness Engineering从方法论到工程实现的演进路径 - 「No baked-in assumption like requiring a human operator」——这是"
 resource: "https://x.com/FredKSchott/status/2050274923852210397"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "ai-trend-digest"
+type_okf: "X Tweet"
+source_url: "https://x.com/FredKSchott/status/2050274923852210397"
+created: "2026-05-01"
+updated: "2026-06-26"
+sha256: "70e52d27285d675211f6e8e39657097587e5750974cb628b1423e231d98d7b75"
+sources:
+  - "/sources/news/2026-05-02/00__FredKSchott__flue-第一个-agent-harness-框架诞生-claude-code架构被抽象成可编程基础设施.md"
 ---
 
 # Flue：第一个「Agent Harness」框架诞生，Claude Code架构被抽象成可编程基础设施

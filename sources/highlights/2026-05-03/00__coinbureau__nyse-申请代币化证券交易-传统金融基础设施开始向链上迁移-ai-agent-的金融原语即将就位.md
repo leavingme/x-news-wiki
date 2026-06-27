@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "NYSE 申请代币化证券交易：传统金融基础设施开始向链上迁移，AI Agent 的金融原语即将就位"
 description: "**传统金融的结算层正在被重写，而 Agent 经济还没准备好接住它。**  - NYSE 向 SEC 提交代币化证券提案，允许股票和 ETF 以代币形式在 DTC 三年试点中交易，同一代码、同一权利、T+1 结算 - 这不是 DeFi 的胜利，而是 TradFi 主动把链上结算纳入自己的基础设施——中心化机构在「收编」区块链 - 对 Agent 经济的信号：当证券变成可编程资产，AI Agent"
 resource: "https://x.com/coinbureau/status/2050952415919341841"
@@ -22,6 +22,13 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "agent-economic-autonomy"
 x_source: "ai-trend-digest"
+type_okf: "X Tweet"
+source_url: "https://x.com/coinbureau/status/2050952415919341841"
+created: "2026-05-03"
+updated: "2026-06-26"
+sha256: "89baccafdf1ae23f966a872ce440e35de29ac1334ed400e23299decf9bc2eb16"
+sources:
+  - "/sources/highlights/2026-05-03/00__coinbureau__nyse-申请代币化证券交易-传统金融基础设施开始向链上迁移-ai-agent-的金融原语即将就位.md"
 ---
 
 # NYSE 申请代币化证券交易：传统金融基础设施开始向链上迁移，AI Agent 的金融原语即将就位

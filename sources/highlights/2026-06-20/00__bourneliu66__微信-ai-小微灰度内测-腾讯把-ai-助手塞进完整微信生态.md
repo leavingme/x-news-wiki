@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "微信 AI 小微灰度内测：腾讯把 AI 助手塞进完整微信生态"
 description: "微信 AI \"小微\" 开始灰度内测，打通发消息、打电话、朋友圈、视频号、小程序等全部微信生态功能。  这是国内首个真正意义上的\"超级应用 AI 助手\"——不是单一插件，而是把 AI 接入一个 13 亿月活的完整操作系统层。  与 OpenAI Atlas 浏览器战略、Google Gemini 桌面整合形成同构竞争：AI 入口之争从\"独立 App\"转向\"寄生于既有超级 App 的内嵌层\"。  对 "
 resource: "https://x.com/i/status/2068281908782563747"
@@ -22,6 +22,13 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "openai-super-app-strategy"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2068281908782563747"
+created: "2026-06-20"
+updated: "2026-06-26"
+sha256: "85c27422eab5d458378ac8bac13db06ceae5d8ecfa064bfff32c44440130b77d"
+sources:
+  - "/sources/highlights/2026-06-20/00__bourneliu66__微信-ai-小微灰度内测-腾讯把-ai-助手塞进完整微信生态.md"
 ---
 
 # 微信 AI 小微灰度内测：腾讯把 AI 助手塞进完整微信生态

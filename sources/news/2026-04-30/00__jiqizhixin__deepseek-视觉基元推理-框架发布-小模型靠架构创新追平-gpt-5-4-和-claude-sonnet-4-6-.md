@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "DeepSeek「视觉基元推理」框架发布：小模型靠架构创新追平 GPT-5.4 和 Claude-Sonnet-4.6 的视觉推理能力"
 description: "**[DeepSeek 证明了视觉推理的突破口不在参数量，而在推理范式本身的重构]** - 核心机制：让模型在链式推理过程中直接用视觉标记（点、边界框）「指向」图像坐标，而非用自然语言描述空间位置 - 结果：使用更少图像 token 的前提下，在视觉问答任务上追平甚至超越 GPT-5.4、Claude-Sonnet-4.6、Gemini-3-Flash - 意义：这是继 Chain-of-Thou"
 resource: "https://x.com/i/status/2049805018619060388"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2049805018619060388"
+created: "2026-04-30"
+updated: "2026-06-26"
+sha256: "9e4fa0426ac8c28c905493921954dfdb86f3a6e7dd79ede9d4c4c2d038e321af"
+sources:
+  - "/sources/news/2026-04-30/00__jiqizhixin__deepseek-视觉基元推理-框架发布-小模型靠架构创新追平-gpt-5-4-和-claude-sonnet-4-6-.md"
 ---
 
 # DeepSeek「视觉基元推理」框架发布：小模型靠架构创新追平 GPT-5.4 和 Claude-Sonnet-4.6 的视觉推理能力

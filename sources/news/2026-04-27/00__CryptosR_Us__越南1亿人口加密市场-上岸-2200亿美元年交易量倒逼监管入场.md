@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "越南1亿人口加密市场「上岸」：2200亿美元年交易量倒逼监管入场"
 description: "**[新兴市场加密监管合规化的亚洲样本]  • 越南正式推出受监管加密市场，预计2200亿美元年交易量从离岸平台转向本土交易所——东南亚最大加密市场之一完成监管转型 • 与发达国家不同，越南选择「收编」而非「禁止」，为其他新兴市场提供了加密资产纳入监管的路径参考 • 越南的做法与中国对加密资产的严格限制形成对比，亚洲不同监管路线的竞争格局正在形成  gakki：越南的逻辑是「税基留境内」，而中国的"
 resource: "https://x.com/CryptosR_Us/status/2048360188256879074"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "ai-trend-digest"
+type_okf: "X Tweet"
+source_url: "https://x.com/CryptosR_Us/status/2048360188256879074"
+created: "2026-04-26"
+updated: "2026-06-26"
+sha256: "f55f37c52a0fe6b68d8022c42b267594809afc7a4e4d6b8f6b0aa6319c240368"
+sources:
+  - "/sources/news/2026-04-27/00__CryptosR_Us__越南1亿人口加密市场-上岸-2200亿美元年交易量倒逼监管入场.md"
 ---
 
 # 越南1亿人口加密市场「上岸」：2200亿美元年交易量倒逼监管入场

@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Claude Code「进阶心法」流出：从入门到高玩的认知断层"
 description: "**深度用户的「隐性知识」开始显性化。**  • 来自实战派的经验沉淀：不是功能手册，而是「什么场景该用什么模式」的决策框架 • 初级玩家关注「能做什么」，高级玩家关注「什么时候不做」——这种元认知差距决定了使用上限 • 社区正在形成Claude Code的「最佳实践共识」，这对工具采纳曲线的后段用户至关重要  工具的民主化往往遵循「20%的人掌握80%价值」的规律。这类深度经验贴的流传，正在加速"
 resource: "https://x.com/i/status/2033089591998119981"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 78
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2033089591998119981"
+created: "2026-03-15"
+updated: "2026-06-26"
+sha256: "447b81cb06f0e9ec4f3d1ac53a1d5686c68fc00501fcc54f0299a7746a20a88c"
+sources:
+  - "/sources/news/2026-03-15/78__gkxspace__claude-code-进阶心法-流出-从入门到高玩的认知断层.md"
 ---
 
 # Claude Code「进阶心法」流出：从入门到高玩的认知断层

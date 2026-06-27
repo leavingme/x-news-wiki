@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "因果软件工程（CSE）：从「发生了什么」到「如果做了不同决策会怎样」，软件诊断范式正在被重写"
 description: "**[软件工程从关联分析跃迁到因果推理，干预性和反事实问题首次被系统化建模]**  - CSE 用因果模型替代传统的异常检测和预测分析，能回答「如果换一个发布计划，这次故障还会发生吗」这类反事实问题 - 在性能上超越当前基于相关性的 AI 方案（包括 LLM Agent），因为关联≠因果这条铁律终于被工程化处理 - 对 Agent 自我诊断能力有直接启示：Agent 需要的不是更多日志，而是因果推"
 resource: "https://x.com/i/status/2052998985946980663"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2052998985946980663"
+created: "2026-05-09"
+updated: "2026-06-26"
+sha256: "7bc1cb13d19e97b14d9090f09f14c1a2c92e40c816c5149df0b0d6221d1837ff"
+sources:
+  - "/sources/news/2026-05-09/00__jiqizhixin__因果软件工程-cse-从-发生了什么-到-如果做了不同决策会怎样-软件诊断范式正在被重写.md"
 ---
 
 # 因果软件工程（CSE）：从「发生了什么」到「如果做了不同决策会怎样」，软件诊断范式正在被重写

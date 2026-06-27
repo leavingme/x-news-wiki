@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "宝玉：给 Agent 交代任务只需说清「怎么验证」，中间过程可以完全不管"
 description: "**Agent 任务管理的一条极简法则，从经验里蒸馏出来。**  - 验证条件 = 终止条件，不需要过程干预 - 写清楚「怎么验收」= 写清楚「任务目标」，中间路径让 Agent 自己走 - 与 Harness Engineering 的「Verification Layer」思路完全同构   gakki 锐评：这是把 spec 写作和测试用例合并成同一个东西——验收标准即 spec，spec 即"
 resource: "https://x.com/i/status/2065948642301685829"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2065948642301685829"
+created: "2026-06-14"
+updated: "2026-06-26"
+sha256: "3da59776a47c78858ee7705a56b079c53a9796dcaa5fc9943f7754043680474c"
+sources:
+  - "/sources/news/2026-06-14/00__dotey__宝玉-给-agent-交代任务只需说清-怎么验证-中间过程可以完全不管.md"
 ---
 
 # 宝玉：给 Agent 交代任务只需说清「怎么验证」，中间过程可以完全不管

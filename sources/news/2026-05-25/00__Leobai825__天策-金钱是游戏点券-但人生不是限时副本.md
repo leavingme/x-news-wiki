@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "天策：金钱是游戏点券，但人生不是限时副本"
 description: "**【一句话核心判断】**  赚钱是手段而非目的，但多数人把赚钱过程活成了\"每天都在逃命\"——第一桶金之后的世界观重塑，是创业者独有的认知跃迁。  **信息增量：** - \"地球online\"框架：金钱=点券，越多越好，但玩游戏的核心是幸福/快乐/松弛 - 两年零收入缓冲期的可行性论证——有积蓄+不乱花，足够支撑探索 - 核心批判对象：\"总想在1-2年里完成大跃迁，慢一点就被时代抛下\"的同龄人焦虑"
 resource: "https://x.com/i/status/2058960270718841190"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2058960270718841190"
+created: "2026-05-25"
+updated: "2026-06-26"
+sha256: "b3fd80f3d98c74fc0252ef1da8f9dbb9f0cf16fdbdabc23dce13572dec5e40d5"
+sources:
+  - "/sources/news/2026-05-25/00__Leobai825__天策-金钱是游戏点券-但人生不是限时副本.md"
 ---
 
 # 天策：金钱是游戏点券，但人生不是限时副本

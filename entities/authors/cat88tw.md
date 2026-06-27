@@ -1,5 +1,5 @@
 ---
-type: "Author"
+type: "entity"
 title: "Jeremy Lu (@cat88tw)"
 description: "X/Twitter 作者 @cat88tw。共收录 1 条 AI 精选推文。"
 tags:
@@ -12,6 +12,12 @@ x_author_name: "Jeremy Lu"
 x_tweet_count: 1
 x_first_seen: "2026-04-14T00:45:15.500Z"
 x_last_seen: "2026-04-14T00:45:15.500Z"
+type_okf: "Author"
+created: "2026-04-14"
+updated: "2026-06-26"
+sha256: "deb634cf0da81183248369ab10e35e0316b8988cfb6a1e57e3361df87d8e7bbe"
+sources:
+  - "/sources/highlights/2026-04-14/00__cat88tw__美国老板跪求员工用ai-vs-台湾员工自掏腰包-ai采纳率背后是组织激励的生死鸿沟.md"
 ---
 
 # Jeremy Lu (@cat88tw)

@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "统一图像迁移新范式：DRDD 解耦噪声与残差扩散，用更少数据跑赢主流模型"
 description: "**港大与中科院等团队提出 DRDD：把图像迁移任务拆成「噪声扩散对齐域」+「确定��映射学核心」两阶段，避免过早擦除有效信号。**  - 关键设计：用丰富的无配对数据做噪声扩散做域对齐，再用确定性阶段学习核心映射，不再做「贪心」一步到位 - 在统一、低数据量的图像到图像迁移场景下，DRDD 优于主流扩散模型 - 对多任务统一模型和少样本微调路径有方法论参考价值   gakki 锐评：把 diff"
 resource: "https://x.com/i/status/2069481865027654036"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2069481865027654036"
+created: "2026-06-23"
+updated: "2026-06-26"
+sha256: "fd847431da64e7c05bc4178525d6f4d89c7f035ae0ef606b14d53c4e0e403fba"
+sources:
+  - "/sources/news/2026-06-23/00__jiqizhixin__统一图像迁移新范式-drdd-解耦噪声与残差扩散-用更少数据跑赢主流模型.md"
 ---
 
 # 统一图像迁移新范式：DRDD 解耦噪声与残差扩散，用更少数据跑赢主流模型

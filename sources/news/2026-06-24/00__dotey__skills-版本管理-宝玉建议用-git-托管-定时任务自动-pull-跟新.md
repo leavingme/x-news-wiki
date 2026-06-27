@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Skills 版本管理：宝玉建议用 Git 托管，定时任务自动 Pull 跟新"
 description: "**Skills 本质是代码资产，应该用 Git 流程管理**  - 宝玉建议：Skills 更新跟着 Git 走，开源项目直接 Git Pull，私有项目用私有 Git 仓库，需固定版本就 Git Checkout - 进一步可自动化：在 Codex/CC 中设定时任务，自动完成 Pull 和版本切换 - 这把 Skills 从\"散落各处的手工配置\"推向\"可版本化、可自动化运维的工程资产\"   "
 resource: "https://x.com/i/status/2069675621332972027"
@@ -22,6 +22,13 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "skill-automation-engineering"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2069675621332972027"
+created: "2026-06-24"
+updated: "2026-06-26"
+sha256: "729a56688f8c1ceb0f7eb4303fb7f8cdd78306630e982f93c53567c73b1d058f"
+sources:
+  - "/sources/news/2026-06-24/00__dotey__skills-版本管理-宝玉建议用-git-托管-定时任务自动-pull-跟新.md"
 ---
 
 # Skills 版本管理：宝玉建议用 Git 托管，定时任务自动 Pull 跟新

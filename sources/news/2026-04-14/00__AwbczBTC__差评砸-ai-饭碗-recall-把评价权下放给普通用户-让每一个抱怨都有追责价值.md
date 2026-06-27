@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "「差评砸 AI 饭碗」：Recall 把评价权下放给普通用户，让每一个抱怨都有追责价值"
 description: "**[信誉系统的「众包化」让 AI 代理的过失无法逃脱市场惩罚]**  Recall 平台展示了一个具体场景：用户雇佣「股票分析 AI 代理」被坑，差评自动录入去中心化黑名单 0xIntuition，全网可查；下次有人想雇佣该代理，界面直接弹窗警告其「数据造假」记录；代理想换马甲重新注册，区块链存着的「数字 DNA」让它无所遁形。  「以前 AI 犯错像放屁——闻得到抓不着，现在 Recall 给"
 resource: "https://x.com/i/status/1950744025692283186"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/1950744025692283186"
+created: "2025-07-31"
+updated: "2026-06-26"
+sha256: "27e317141a265691deb11acf7d48c27f712889ed9a5b16a5bc24d51a4d196cb8"
+sources:
+  - "/sources/news/2026-04-14/00__AwbczBTC__差评砸-ai-饭碗-recall-把评价权下放给普通用户-让每一个抱怨都有追责价值.md"
 ---
 
 # 「差评砸 AI 饭碗」：Recall 把评价权下放给普通用户，让每一个抱怨都有追责价值

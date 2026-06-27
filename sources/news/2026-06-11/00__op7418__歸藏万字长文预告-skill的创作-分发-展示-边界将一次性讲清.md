@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "歸藏万字长文预告：Skill的创作、分发、展示、边界将一次性讲清"
 description: "**一句话核心判断**：中文AI圈最具影响力的Skill布道者之一歸藏，即将发布关于Skill生态的全景式长文，发布本身就是信号。  **要点**： - 主题：Skill的四个核心问题——创作、分发、展示、边界 - 时间：明天早上发布 - 价值：歸藏（guizang.ai）是中文Skills推荐体系的关键节点，此文可能定义未来半年的讨论框架   gakki锐评：长文没发只能算'预告'，但发布者本身"
 resource: "https://x.com/i/status/2065075399231693153"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2065075399231693153"
+created: "2026-06-11"
+updated: "2026-06-26"
+sha256: "215c6f2fa26bc5fc7f9d4dde5e09f2835e2fba483c412c85462c9b741a34e772"
+sources:
+  - "/sources/news/2026-06-11/00__op7418__歸藏万字长文预告-skill的创作-分发-展示-边界将一次性讲清.md"
 ---
 
 # 歸藏万字长文预告：Skill的创作、分发、展示、边界将一次性讲清

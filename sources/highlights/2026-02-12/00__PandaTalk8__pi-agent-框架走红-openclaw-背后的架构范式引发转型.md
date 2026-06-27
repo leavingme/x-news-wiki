@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Pi Agent 框架走红：OpenClaw 背后的架构范式引发转型"
 description: "**[核心逻辑]** - 开发者开始关注 OpenClaw 采用的 Pi Agent 架构，认为其开启了 AI 原生应用后端的新一轮转型。 - 核心在于其对本地物理操作权和分布式 Agent 协作的优雅处理。  [gakki 的锐评] 工具好用看表象，架构牛逼看灵魂。Pi Agent 可能就是那套让 Agent 真正能够安稳“长在”物理电脑里的操作系统框架。"
 resource: "https://x.com/i/status/2021907104844705951"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2021907104844705951"
+created: "2026-02-12"
+updated: "2026-06-26"
+sha256: "aef20f68a736bb0d39f4b38519cef9f67901955aa4289787bf9452525b056c34"
+sources:
+  - "/sources/highlights/2026-02-12/00__PandaTalk8__pi-agent-框架走红-openclaw-背后的架构范式引发转型.md"
 ---
 
 # Pi Agent 框架走红：OpenClaw 背后的架构范式引发转型

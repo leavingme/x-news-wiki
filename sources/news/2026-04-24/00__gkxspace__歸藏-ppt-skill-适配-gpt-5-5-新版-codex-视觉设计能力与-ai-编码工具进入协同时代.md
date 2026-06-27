@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "歸藏 PPT Skill 适配 GPT-5.5 + 新版 Codex：视觉设计能力与 AI 编码工具进入协同时代"
 description: "**PPT Skill 补全 GPT-5.5/Codex 工作流最后一块短板**  - 歸藏的 PPT Skill 以审美著称，此前没有适配新版 GPT-5.5 和 Codex，这次更新填补了空缺 - GPT-5.5 推理能力 + 新版 Codex 代码生成 + 归藏 PPT Skill 视觉呈现，三个环节首次无缝串联 - 意味着 AI 完成「理解→生成→美化」全链路的能力整合，单人全栈输出成为可"
 resource: "https://x.com/i/status/2047494444857913663"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2047494444857913663"
+created: "2026-04-24"
+updated: "2026-06-26"
+sha256: "3c597a6ce934de29a9d593f3e549ad715f5ef7bab5c08bf365b1037c44d66b99"
+sources:
+  - "/sources/news/2026-04-24/00__gkxspace__歸藏-ppt-skill-适配-gpt-5-5-新版-codex-视觉设计能力与-ai-编码工具进入协同时代.md"
 ---
 
 # 歸藏 PPT Skill 适配 GPT-5.5 + 新版 Codex：视觉设计能力与 AI 编码工具进入协同时代

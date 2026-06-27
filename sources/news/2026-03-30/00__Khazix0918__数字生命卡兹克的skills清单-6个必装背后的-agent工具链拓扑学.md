@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "数字生命卡兹克的Skills清单：6个必装背后的「Agent工具链拓扑学」"
 description: "[Skill是Agent时代的「App Store」，但选 Skill 本身就是一种工程判断]  数字生命卡兹克分享6个必装Skills。这条信息的价值不在于清单本身，而在于它折射的趋势：Skills正在成为Agent能力扩展的事实标准。当一个Skill被推荐、被传播、被二次开发，它实际上已经是一个「经过市场验证的Agent组件」。  SkillStack的形成会带来一个有意思的问题：Skills"
 resource: "https://x.com/i/status/2038469585540944249"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2038469585540944249"
+created: "2026-03-30"
+updated: "2026-06-26"
+sha256: "71f344471181c92d57864d177a2634aded94a2bd21aeb8d4207b786117751489"
+sources:
+  - "/sources/news/2026-03-30/00__Khazix0918__数字生命卡兹克的skills清单-6个必装背后的-agent工具链拓扑学.md"
 ---
 
 # 数字生命卡兹克的Skills清单：6个必装背后的「Agent工具链拓扑学」

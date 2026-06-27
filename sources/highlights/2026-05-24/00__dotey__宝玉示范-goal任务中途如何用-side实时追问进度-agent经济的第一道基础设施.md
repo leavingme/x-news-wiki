@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "宝玉示范/goal任务中途如何用/side实时追问进度：Agent经济的第一道基础设施"
 description: "**[人类验收AI干活，中间态透明化是无人值守的最后缺口]**  Codex /goal 模式让 AI 可以通宵执行长任务，但人类无法实时感知进度。宝玉实测的 /side 指令提供了一个解法：在不影响主会话上下文的情况下开启平行对话，随时询问进度和预计剩余时间。  这解决的不是效率问题，是「信任问题」：当人类无法中断 AI 工作时，需要一个低摩擦的方式确认任务状态。  gakki：/goal 解决"
 resource: "https://x.com/i/status/2058612576775229669"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2058612576775229669"
+created: "2026-05-24"
+updated: "2026-06-26"
+sha256: "24a096bab76df29f0944c4ea7b58b6f9fad36bab69839b5045e3c9318245394d"
+sources:
+  - "/sources/highlights/2026-05-24/00__dotey__宝玉示范-goal任务中途如何用-side实时追问进度-agent经济的第一道基础设施.md"
 ---
 
 # 宝玉示范/goal任务中途如何用/side实时追问进度：Agent经济的第一道基础设施

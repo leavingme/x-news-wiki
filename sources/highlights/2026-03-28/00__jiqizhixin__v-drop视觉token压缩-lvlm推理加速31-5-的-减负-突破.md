@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "V²Drop视觉Token压缩：LVLM推理加速31.5%的「减负」突破"
 description: "**视觉Token冗余问题迎来系统性解法。**  川大、上交、浙大联合团队提出V²Drop，通过动态剪枝低变异视觉Token，在不改动模型架构的前提下将LLM生成延迟降低31.5%。  • **核心洞察**：视觉Token中存在大量信息冗余，「少即是多」原则首次在LVLM推理侧得到验证 • **工程价值**：零架构改动意味着可即插即用，现有模型无需重训即可收益 • **趋势信号**：端侧部署压力下"
 resource: "https://x.com/i/status/2037955630829363647"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2037955630829363647"
+created: "2026-03-28"
+updated: "2026-06-26"
+sha256: "5ba4ccb821b8b69b079028d971522557b4f7d5d4c52fc18db5d5632bec838c1f"
+sources:
+  - "/sources/highlights/2026-03-28/00__jiqizhixin__v-drop视觉token压缩-lvlm推理加速31-5-的-减负-突破.md"
 ---
 
 # V²Drop视觉Token压缩：LVLM推理加速31.5%的「减负」突破

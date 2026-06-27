@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "宋夏天演示'Image → Dashboard'：一张截图直通生产级代码 + 可编辑 Figma 设计稿"
 description: "**[宋夏天公开'图片直出可视化大屏'工作流：从截图到生产代码再到可编辑 Figma 设计稿，反向工作流上线]**  - 三步链路：图片（截图/参考图）→ 生产级代码（Vue/TypeScript）→ Figma 可编辑 UI - 关键创新：不是单次\"图片转代码\"，而是\"代码 + 逆向设计稿\"双向产出，形成设计-开发闭环 - 应用场景：可视化大屏快速复刻、设计稿→代码→设计稿的迭代、A/B 版面秒"
 resource: "https://x.com/i/status/2064911970638475273"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2064911970638475273"
+created: "2026-06-11"
+updated: "2026-06-26"
+sha256: "3fffdc3e42abbbb9de47067dbcdff87c0c0948b66442748c12c6fef3f454fbd1"
+sources:
+  - "/sources/news/2026-06-24/00__songsummer920__宋夏天演示-image-dashboard-一张截图直通生产级代码-可编辑-figma-设计稿.md"
 ---
 
 # 宋夏天演示'Image → Dashboard'：一张截图直通生产级代码 + 可编辑 Figma 设计稿

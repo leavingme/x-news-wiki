@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "一人公司基建成本清单：20美元/月 = 完整商业闭环的技术杠杆"
 description: "**[AI工具栈正在将创业固定成本压缩两个数量级]**  • 全栈能力成本：Claude($20) + 域名($1/月) + Stripe(按交易) = 传统团队几十万/月的替代方案 • 免费层饱和：Supabase/Vercel/GitHub/Cloudflare/Pinecone等核心infra均提供免费额度 • 游戏规则重写：无需团队、无需融资、无需服务器预付费，启动门槛从「组织行为」变成「"
 resource: "https://x.com/i/status/2035695044011929945"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2035695044011929945"
+created: "2026-03-22"
+updated: "2026-06-26"
+sha256: "339b420ed57f57ddc50badbc0d9a1c852fdff2415253586757e89657c999e4c7"
+sources:
+  - "/sources/news/2026-03-24/00__AYi_AInotes__一人公司基建成本清单-20美元-月-完整商业闭环的技术杠杆.md"
 ---
 
 # 一人公司基建成本清单：20美元/月 = 完整商业闭环的技术杠杆

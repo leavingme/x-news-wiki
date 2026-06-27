@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "ChatGPT 与 Codex 本是同根生：差距不在模型，在默认系统提示词"
 description: "**[一句话核心判断]**  ChatGPT 与 Codex 的核心差异不在底层模型，而在于系统提示词默认值与用户引导策略的不同。  **要点：** - 两者底层模型相同，差距主要来自默认系统提示词设计 - 内容处理场景 ChatGPT 默认效果更优 - Codex 可通过 Skill 或自定义提示词弥补，在编程场景甚至可以超越  **gakki 锐评：**系统提示词即产品——OpenAI 和 A"
 resource: "https://x.com/i/status/2049166672339112350"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2049166672339112350"
+created: "2026-04-28"
+updated: "2026-06-26"
+sha256: "0163debbab6aceb4a73fb55f3776b6a78bfd785221c8b106bf55357212dd493d"
+sources:
+  - "/sources/news/2026-04-28/00__dotey__chatgpt-与-codex-本是同根生-差距不在模型-在默认系统提示词.md"
 ---
 
 # ChatGPT 与 Codex 本是同根生：差距不在模型，在默认系统提示词

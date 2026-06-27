@@ -1,5 +1,5 @@
 ---
-type: "Author"
+type: "entity"
 title: "AlexZ 🦀 (@blackanger)"
 description: "X/Twitter 作者 @blackanger。共收录 3 条 AI 精选推文。"
 tags:
@@ -12,6 +12,14 @@ x_author_name: "AlexZ 🦀"
 x_tweet_count: 3
 x_first_seen: "2026-03-12T00:42:31.340Z"
 x_last_seen: "2026-04-05T00:42:57.265Z"
+type_okf: "Author"
+created: "2026-03-12"
+updated: "2026-06-26"
+sha256: "593db84ac5363ef2c84dfea6ef72ca4a93ceea52bb2c1f127fabe5e44bfdbe4e"
+sources:
+  - "/sources/highlights/2026-03-12/88__blackanger__claude-code的-btw机制-单循环agent如何实现-插嘴模式.md"
+  - "/sources/highlights/2026-03-29/00__blackanger__claude-better事件-1100复刻竞品是对ai时代软件护城河的-攻击演示.md"
+  - "/sources/news/2026-04-05/00__blackanger__800-行-rust-终结-agent-框架崇拜-六层架构的生产级示范.md"
 ---
 
 # AlexZ 🦀 (@blackanger)

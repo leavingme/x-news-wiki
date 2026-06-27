@@ -1,5 +1,5 @@
 ---
-type: "Author"
+type: "entity"
 title: "潜龙勿用 (@wwwqlwyxyz)"
 description: "X/Twitter 作者 @wwwqlwyxyz。共收录 1 条 AI 精选推文。"
 tags:
@@ -12,6 +12,12 @@ x_author_name: "潜龙勿用"
 x_tweet_count: 1
 x_first_seen: "2026-02-12T13:18:20.964Z"
 x_last_seen: "2026-02-12T13:18:20.964Z"
+type_okf: "Author"
+created: "2026-02-12"
+updated: "2026-06-26"
+sha256: "fe2daf7d6544c50ccc35dbbbd64dbf24a0ac0cdefb67bd5e81ee25c144bef819"
+sources:
+  - "/sources/news/2026-02-12/00__wwwqlwyxyz__签灵-qianling-上线-将传统签文转化为具备意志的链上-agent.md"
 ---
 
 # 潜龙勿用 (@wwwqlwyxyz)

@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Polymarket + AI 策略实战：200U Bot 单日 800%+ 收益的「运气还是信号」"
 description: "**[加密金融 Agent 从概念验证进入实战化临界点]** • 策略从构想到部署仅 2 天，验证 AI 交易代理的开发周期已压缩至「周末级」 • 800%+ 收益暗示链上预测市场可能存在 AI 可捕获的结构性 Alpha • 缺少止盈策略暴露当前 Agent 金融系统的风险控制缺口  — 这不是运气，而是早期信号。当 AI 能低成本跑通链上套利逻辑，PVP 模式即将从「人机对战」变成「机机对战」"
 resource: "https://x.com/i/status/2033562860484481365"
@@ -22,6 +22,13 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "ai-crypto-agent-infra"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2033562860484481365"
+created: "2026-03-16"
+updated: "2026-06-26"
+sha256: "f8d4d13eeb620f3f70a5c930fc4aa132bbd9d92a28fc169c0020d8b8325660eb"
+sources:
+  - "/sources/highlights/2026-03-17/00__passluo__polymarket-ai-策略实战-200u-bot-单日-800-收益的-运气还是信号.md"
 ---
 
 # Polymarket + AI 策略实战：200U Bot 单日 800%+ 收益的「运气还是信号」

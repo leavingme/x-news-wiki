@@ -1,5 +1,5 @@
 ---
-type: "Concept"
+type: "concept"
 title: "gemma端侧多模态"
 description: "跨日主题 \"gemma端侧多模态\"，共 6 条相关精选推文。"
 tags:
@@ -11,6 +11,17 @@ x_topic_slug: "gemma端侧多模态"
 x_tweet_count: 6
 x_first_seen: "2026-04-04T00:42:49.501Z"
 x_last_seen: "2026-04-07T12:44:24.833Z"
+type_okf: "Concept"
+created: "2026-04-04"
+updated: "2026-06-26"
+sha256: "5e28feb2ddd2951aad211dd9d78c2c92751d06fb0f341b9ac6939d84d2ff8ef6"
+sources:
+  - "/sources/highlights/2026-04-04/00__op7418__gemma-4-四款端侧模型炸场-apache-2-0-才是真正的开源-agency-能力被列为第一优先级.md"
+  - "/sources/highlights/2026-04-04/00__xiaohu__gemma-4-全链路开源-手机到工作站四尺寸覆盖-apache-2-0-彻底打开商用大门.md"
+  - "/sources/highlights/2026-04-04/00__xincctnnq__gemma-4-开启-飞机上跑-ai-时代-隐私计算从云端下沉到终端.md"
+  - "/sources/highlights/2026-04-05/00__EnHeng456__gemma-4-开源本地化-ai-商业模式的-成本基础-正在被重构.md"
+  - "/sources/highlights/2026-04-07/00__edwordkaru__gemma-4手机免费离线agent-q2开端即确立端侧霸主地位-第三方api模式遭受根本性质疑.md"
+  - "/sources/news/2026-04-05/00__vvkka100__google-把-gemma-4-塞进-iphone-端侧多模态-agent-进入-应用市场-时代.md"
 ---
 
 # 主题: gemma端侧多模态

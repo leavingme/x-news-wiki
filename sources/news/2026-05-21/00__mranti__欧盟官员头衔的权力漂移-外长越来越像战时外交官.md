@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "欧盟官员头衔的权力漂移：外长越来越像战时外交官"
 description: "**[欧盟政府架构正在发生静默的权力语义重构]**  Michael Anti 敏锐捕捉到一个结构性变化：欧盟各成员国首相正在更像欧盟外长，而欧盟外交与安全政策高级代表则越来越像战时国防部长。  这一语言学观察背后是欧盟一体化程度的实质演进——当小国的外交与国防决策权向布鲁塞尔集中，成员国首脑的国内职能就被稀释为\"欧盟外长\"角色。  gakki：这个观察的锐度在于它把一个制度性变化翻译成了职位语义"
 resource: "https://x.com/i/status/2057338943893618815"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2057338943893618815"
+created: "2026-05-21"
+updated: "2026-06-26"
+sha256: "c8701af9835b5d7b12045af516794c0afe58066c1aa8924949b76873aeed6a71"
+sources:
+  - "/sources/news/2026-05-21/00__mranti__欧盟官员头衔的权力漂移-外长越来越像战时外交官.md"
 ---
 
 # 欧盟官员头衔的权力漂移：外长越来越像战时外交官

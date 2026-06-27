@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Claude 又炸了：地藏抱怨背后是\"关键任务依赖闭源模型\"的稳定性焦虑"
 description: "**【Claude 再次服务中断，暴露 Agent 关键任务依赖闭源模型的系统性风险】**  • 歸藏报告\"时间到了 Claude 又炸了\"，语气已带麻木 • 地藏的\"完全体\"工作流（ID: 2057696111360651724）高度依赖 Claude，在关键时刻中断 • 反复故障但仍无法迁移，说明 Claude 在特定工作流中不可替代性极强  **gakki 锐评：** \"又炸了\"三个字背后是"
 resource: "https://x.com/i/status/2057680792013394036"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2057680792013394036"
+created: "2026-05-22"
+updated: "2026-06-26"
+sha256: "73a18142135d313fa72bb9211a684aafd3b5a68909a8e8254bfbf8d33ec25133"
+sources:
+  - "/sources/news/2026-05-22/00__op7418__claude-又炸了-地藏抱怨背后是-关键任务依赖闭源模型-的稳定性焦虑.md"
 ---
 
 # Claude 又炸了：地藏抱怨背后是"关键任务依赖闭源模型"的稳定性焦虑

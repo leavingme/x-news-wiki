@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "GPT-5.5 vs Opus 4.8 同题设计横评：审美差距肉眼可见，Opus 仍是设计 AI 的天花板"
 description: "**[一句话判断]：当模型能力逼近同分后，设计这种主观维度的差距反而被放大，Opus 在审美上的领先正在变成结构性壁垒。**  要点： - 宝玉用同一提示词（含 RSS、社交订阅、AI 总结、Markdown 编辑等需求）让 GPT-5.5 和 Opus 4.8 分别设计 Reader Mac App，前者被评价\"我这种审美水平都能看出差距\" - 通过 Skill（baoyu-design）加持的"
 resource: "https://x.com/i/status/2063464057647075379"
@@ -22,6 +22,13 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "design-model-evaluation"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2063464057647075379"
+created: "2026-06-07"
+updated: "2026-06-26"
+sha256: "9d4196b687d82704d746005cac497c8aa419e8942f927e1ad5ddb38c4f9b37f7"
+sources:
+  - "/sources/highlights/2026-06-07/00__dotey__gpt-5-5-vs-opus-4-8-同题设计横评-审美差距肉眼可见-opus-仍是设计-ai-的天花板.md"
 ---
 
 # GPT-5.5 vs Opus 4.8 同题设计横评：审美差距肉眼可见，Opus 仍是设计 AI 的天花板

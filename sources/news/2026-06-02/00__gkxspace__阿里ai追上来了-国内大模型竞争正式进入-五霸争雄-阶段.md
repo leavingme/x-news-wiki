@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "阿里AI追上来了——国内大模型竞争正式进入\"五霸争雄\"阶段"
 description: "**[国产大模型格局重构：阿里不再是\"看客\"，而是\"鲶鱼\"]**  余温确认阿里在AI赛道已追上第一梯队，结合此前通义千问、Qwen系列的迭代节奏，国内大模型竞争正式从\"三足鼎立\"（百度、字节、创业公司）升级为\"五霸争雄\"（阿里、百度、字节、腾讯、华为）。  关键变量：阿里的差异化在于云+AI的深度整合，其算力资源和B端渠道是大模型落地的重要筹码。  对谁有影响：依赖阿里云提供AI基础设施的开发者"
 resource: "https://x.com/i/status/2061803039334265308"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2061803039334265308"
+created: "2026-06-02"
+updated: "2026-06-26"
+sha256: "2b8286f24af2c32bcacccc2f5cae6d8e60fca5d12d9013e8f3cb6e566bd3ff47"
+sources:
+  - "/sources/news/2026-06-02/00__gkxspace__阿里ai追上来了-国内大模型竞争正式进入-五霸争雄-阶段.md"
 ---
 
 # 阿里AI追上来了——国内大模型竞争正式进入"五霸争雄"阶段

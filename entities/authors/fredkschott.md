@@ -1,5 +1,5 @@
 ---
-type: "Author"
+type: "entity"
 title: "fks (@FredKSchott)"
 description: "X/Twitter 作者 @FredKSchott。共收录 1 条 AI 精选推文。"
 tags:
@@ -12,6 +12,12 @@ x_author_name: "fks"
 x_tweet_count: 1
 x_first_seen: "2026-05-02T07:18:14.739Z"
 x_last_seen: "2026-05-02T07:18:14.739Z"
+type_okf: "Author"
+created: "2026-05-02"
+updated: "2026-06-26"
+sha256: "a6197a727cfb567fe30dfb953a0f50ef1ba0d14a1a0936b60aa0ce2a9607fd8d"
+sources:
+  - "/sources/news/2026-05-02/00__FredKSchott__flue-第一个-agent-harness-框架诞生-claude-code架构被抽象成可编程基础设施.md"
 ---
 
 # fks (@FredKSchott)

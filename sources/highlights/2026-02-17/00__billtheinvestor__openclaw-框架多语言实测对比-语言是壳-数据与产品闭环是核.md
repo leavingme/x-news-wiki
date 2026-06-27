@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "OpenClaw 框架多语言实测对比：语言是壳，数据与产品闭环是核"
 description: "[核心逻辑] Agent 框架的底层语言之争正在演化为性能、生态与具体场景的生态位博弈。 • 横向对比 TypeScript、Rust、Go、Python 等多版本 OpenClaw 的优劣特征。 • 明确了从 SaaS 产品化到边缘设备部署的不同技术选型路径。 • 达成行业共识：真正的壁垒不在于开发语言，而在于数据流与产品闭环。  [gakki 的锐评] 别再纠结用什么语言写 Agent 了，用"
 resource: "https://x.com/i/status/2023479084198879519"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2023479084198879519"
+created: "2026-02-16"
+updated: "2026-06-26"
+sha256: "c5381fdc922a7e2bc4ecc641846af2139bc212e8084996adb25dd08371132f36"
+sources:
+  - "/sources/highlights/2026-02-17/00__billtheinvestor__openclaw-框架多语言实测对比-语言是壳-数据与产品闭环是核.md"
 ---
 
 # OpenClaw 框架多语言实测对比：语言是壳，数据与产品闭环是核

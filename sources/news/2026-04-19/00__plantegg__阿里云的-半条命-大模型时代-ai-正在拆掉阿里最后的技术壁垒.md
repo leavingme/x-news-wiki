@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "阿里云的「半条命」：大模型时代 AI 正在拆掉阿里最后的技术壁垒"
 description: "**[不是阿里不行了，是 AI 把竞争维度换了]**  大阿里集团剩余三个「半条命」产品：支付宝被微信支付压制、淘宝被拼多多围攻、阿里云原本还有产品优势，但这波 AI 浪潮下形势不乐观。  核心论点：阿里云过去的竞争优势来自工程能力和产品体验，但当 AI 开始重写云计算的交互范式时，这套护城河正在被绕过而非被跨越。云厂商的护城河从来不是技术，是规模——而 AI 正在改变「规模」的内涵。  gakk"
 resource: "https://x.com/i/status/2044259920401629463"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2044259920401629463"
+created: "2026-04-15"
+updated: "2026-06-26"
+sha256: "3e80b3d6cd7edd0e22b4b6b0c42684fb9d9266233fcb06832e8116e1445e132e"
+sources:
+  - "/sources/news/2026-04-19/00__plantegg__阿里云的-半条命-大模型时代-ai-正在拆掉阿里最后的技术壁垒.md"
 ---
 
 # 阿里云的「半条命」：大模型时代 AI 正在拆掉阿里最后的技术壁垒

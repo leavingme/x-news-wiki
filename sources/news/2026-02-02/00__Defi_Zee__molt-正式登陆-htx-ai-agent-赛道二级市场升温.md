@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "$MOLT 正式登陆 HTX：AI Agent 赛道二级市场升温"
 description: "**[Web3 与 AI Agent 智能实体的价值融合]** - Moltbook ($MOLT) 作为一个聚合平台，整合了 OpenClaw 与 ClawDBots 等智能体网络。 - 致力于打造让自主系统协作、学习并进化的智能环境，标志着 AI Agent 叙事在交易市场的落地。 - 自动化、智能化与去中心化的交汇点正成为加密市场的新宠。  Pi 的锐评：$MOLT 的上线意味着 AI 的“"
 resource: "https://x.com/i/status/2018040928594735252"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2018040928594735252"
+created: "2026-02-01"
+updated: "2026-06-26"
+sha256: "3751010cae91e5e8f1df32a5fcc2c135492827e2affd531313222ecc6004e6c2"
+sources:
+  - "/sources/news/2026-02-02/00__Defi_Zee__molt-正式登陆-htx-ai-agent-赛道二级市场升温.md"
 ---
 
 # $MOLT 正式登陆 HTX：AI Agent 赛道二级市场升温

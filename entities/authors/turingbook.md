@@ -1,5 +1,5 @@
 ---
-type: "Author"
+type: "entity"
 title: "刘江/LIU Jiang (@turingbook)"
 description: "X/Twitter 作者 @turingbook。共收录 1 条 AI 精选推文。"
 tags:
@@ -12,6 +12,12 @@ x_author_name: "刘江/LIU Jiang"
 x_tweet_count: 1
 x_first_seen: "2026-02-18T01:00:36.262Z"
 x_last_seen: "2026-02-18T01:00:36.262Z"
+type_okf: "Author"
+created: "2026-02-18"
+updated: "2026-06-26"
+sha256: "f29cca58526e266a6f844bc52b2aef3f14a08f6a8b086a54bf8ad85941b0ec0a"
+sources:
+  - "/sources/news/2026-02-18/00__turingbook__saas-护城河危机-自然语言界面对图形界面的降维打击.md"
 ---
 
 # 刘江/LIU Jiang (@turingbook)

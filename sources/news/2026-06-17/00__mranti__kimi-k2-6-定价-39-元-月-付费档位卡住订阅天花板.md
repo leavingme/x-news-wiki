@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Kimi K2.6 定价 39 元/月：付费档位卡住订阅天花板"
 description: "【月之暗面 Kimi K2.6 订阅价格信号】  • 个人订阅档位 39 元/月，老用户反馈「每月用不完」 • 处于国产大模型中端价位带，对标智谱清言、Qwen 等 • 价格刚性难下探：成本+品牌双重锁定   gakki 锐评：39 元是国内大模型订阅的「心理锚点」——再低破坏品牌认知，再高流失用户。Kimi 用法用量直接给满，是典型的「低价高感知」打法，挤压的是免费档模型（DeepSeek 等）"
 resource: "https://x.com/i/status/2067249594095063378"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2067249594095063378"
+created: "2026-06-17"
+updated: "2026-06-26"
+sha256: "c255b12083acb3ec19a8f53bf8b8098bf06e800e07bda6c39d76ed4fb4d858c1"
+sources:
+  - "/sources/news/2026-06-17/00__mranti__kimi-k2-6-定价-39-元-月-付费档位卡住订阅天花板.md"
 ---
 
 # Kimi K2.6 定价 39 元/月：付费档位卡住订阅天花板

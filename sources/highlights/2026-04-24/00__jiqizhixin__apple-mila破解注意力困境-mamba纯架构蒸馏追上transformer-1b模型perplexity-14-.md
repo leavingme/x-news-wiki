@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Apple+MILA破解注意力困境：Mamba纯架构蒸馏追上Transformer，1B模型Perplexity 14.11"
 description: "**一句话核心判断** 无需注意力机制的纯Mamba架构，通过两阶段蒸馏（线性化Attention→蒸馏至Mamba）即可匹配Transformer性能，困惑度达14.11，证明架构选择并非性能瓶颈。  **信息增量** - 传统观点认为Attention是Transformer性能核心，但这项研究用数学技巧将Attention转为线性形式再蒸馏，绕过了硬性需求 - 1B参数规模验证了\"小模型+大"
 resource: "https://x.com/i/status/2047589950133289417"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2047589950133289417"
+created: "2026-04-24"
+updated: "2026-06-26"
+sha256: "b757d6680c1a91dbadf8f695c31f941c4a7c4f04615f72cfa6cdf8d43bba4cf4"
+sources:
+  - "/sources/highlights/2026-04-24/00__jiqizhixin__apple-mila破解注意力困境-mamba纯架构蒸馏追上transformer-1b模型perplexity-14-.md"
 ---
 
 # Apple+MILA破解注意力困境：Mamba纯架构蒸馏追上Transformer，1B模型Perplexity 14.11

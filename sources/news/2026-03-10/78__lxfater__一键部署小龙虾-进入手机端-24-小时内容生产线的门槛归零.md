@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "「一键部署小龙虾」进入手机端：24 小时内容生产线的门槛归零"
 description: "**[Agent 部署体验持续下探]** - 无需配置飞书，手机端即可操作，内置联网/生图/视频全能力 - 「一键模板搭出 24 小时文章生产线」暗示自动化内容工厂正在民主化 - 部署门槛的消失意味着「个人媒体矩阵」的启动成本趋近于零  当部署比注册邮箱还简单，Agent 就真正进入了「基础设施」阶段。这不是技术进步，是「生产关系」的变化——一个人可以干的活，不再需要一个小组。"
 resource: "https://x.com/i/status/2030901914519646563"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 78
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2030901914519646563"
+created: "2026-03-09"
+updated: "2026-06-26"
+sha256: "b89987df03c275c1e946f2ab8e4b694509927c687caeda66ef0f81896a95b390"
+sources:
+  - "/sources/news/2026-03-10/78__lxfater__一键部署小龙虾-进入手机端-24-小时内容生产线的门槛归零.md"
 ---
 
 # 「一键部署小龙虾」进入手机端：24 小时内容生产线的门槛归零

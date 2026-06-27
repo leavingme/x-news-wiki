@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "多 Agent 记忆同步成产品力新指标：用户开始把「跨 Agent 记忆」当卖点"
 description: "**[「多 Agent 同步记忆」从工程概念变成用户能感知的差异化卖点]** - 余温评价某产品「多个 agent 之间能同步记忆」确实不错，说明这条能力已被外部用户识别为关键体验 - 记忆同步属于 Agent 落地最难的一环（一致性、上下文污染、读写冲突），能拿出来讲说明已有产品级实现 - 呼应 agent-memory-optimization 主题，验证「跨会话/跨 Agent 记忆」是 2"
 resource: "https://x.com/i/status/2067263813863215339"
@@ -22,6 +22,13 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "agent-memory-optimization"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2067263813863215339"
+created: "2026-06-17"
+updated: "2026-06-26"
+sha256: "3902e1464b30f02e01899186184e02ec5d1ad984a36dbafe9e1aef820e644f32"
+sources:
+  - "/sources/news/2026-06-17/00__gkxspace__多-agent-记忆同步成产品力新指标-用户开始把-跨-agent-记忆-当卖点.md"
 ---
 
 # 多 Agent 记忆同步成产品力新指标：用户开始把「跨 Agent 记忆」当卖点

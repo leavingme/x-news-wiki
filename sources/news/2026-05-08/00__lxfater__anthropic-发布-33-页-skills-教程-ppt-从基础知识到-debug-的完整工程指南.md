@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Anthropic 发布 33 页 Skills 教程 PPT：从基础知识到 Debug 的完整工程指南"
 description: "**Skills 正在从社区实践升级为官方工程规范。** - Anthropic 发布 33 页 PPT 教程，覆盖 Skills 基础知识、设计、测试、Debug 四大模块 - 这是 Anthropic 首次以官方文档形式系统化 Skills 工程实践，信号明确：Skills 不是社区 hack，而是平台级能力 - 对标此前 SKILL.md 成为行业标准的趋势，官方教程将大幅降低 Skills"
 resource: "https://x.com/i/status/2052643776435515443"
@@ -22,6 +22,13 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "skills-ecosystem-standards"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2052643776435515443"
+created: "2026-05-08"
+updated: "2026-06-26"
+sha256: "87b05b11633c8ae2923f3df9e9857c52395e8072471adfce52b9773b4157c683"
+sources:
+  - "/sources/news/2026-05-08/00__lxfater__anthropic-发布-33-页-skills-教程-ppt-从基础知识到-debug-的完整工程指南.md"
 ---
 
 # Anthropic 发布 33 页 Skills 教程 PPT：从基础知识到 Debug 的完整工程指南

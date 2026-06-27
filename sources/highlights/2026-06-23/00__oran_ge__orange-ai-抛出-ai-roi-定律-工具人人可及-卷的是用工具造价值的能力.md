@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Orange AI 抛出 AI ROI 定律：工具人人可及，卷的是用工具造价值的能力"
 description: "**大模型训练与使用本质是 ROI 博弈，而非能力普及问题。**  - 用 GDP 占比排序解释 RL 训练方向选择：算力、精力、时间有限，RL 必然优先攻克价值密度最高的场景（coding、短剧），冷门领域不会被主动覆盖。 - 即梦新模型定价贵背后是同一定律：模型使用成本高，只有 ROI 算得过来才有人持续付费。 - 工具门槛崩塌后，真正的护城河是\"用工具创造真实价值的能力\"，纯粹玩耍式使用无法"
 resource: "https://x.com/i/status/2069540524101652915"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2069540524101652915"
+created: "2026-06-23"
+updated: "2026-06-26"
+sha256: "3608e214e21acee0d679db2d4b40d29d5b26b581a18902e0150ce1d33417d6e7"
+sources:
+  - "/sources/highlights/2026-06-23/00__oran_ge__orange-ai-抛出-ai-roi-定律-工具人人可及-卷的是用工具造价值的能力.md"
 ---
 
 # Orange AI 抛出 AI ROI 定律：工具人人可及，卷的是用工具造价值的能力

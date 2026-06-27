@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "OpenClaw 社区大爆发：700+ 本地技能覆盖生产力全场景"
 description: "**[Agent 赋能全生态]** 奶爸整理 OpenClaw 社区技能合集，展示了本地 AI 助手的无限可能。 - **全能管家**：涵盖从代码分析、云端运维到智能家居控制（Tesla/Home Assistant）的所有领域。 - **隐私优先**：所有技能均支持本地运行，用户可以通过简单的命令一键安装扩展自己的 AI 实力。 - **技能长廊**：从 Stable Diffusion 生图到"
 resource: "https://x.com/i/status/2017904314300424269"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2017904314300424269"
+created: "2026-02-01"
+updated: "2026-06-26"
+sha256: "5994cb0eafa9556a66a9074ca4c7249a13b56054d8089e00f4f8c4e173b48991"
+sources:
+  - "/sources/news/2026-02-01/00__zstmfhy__openclaw-社区大爆发-700-本地技能覆盖生产力全场景.md"
 ---
 
 # OpenClaw 社区大爆发：700+ 本地技能覆盖生产力全场景

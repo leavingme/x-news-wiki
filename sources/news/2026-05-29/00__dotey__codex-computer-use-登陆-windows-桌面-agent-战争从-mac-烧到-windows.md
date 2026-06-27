@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Codex Computer Use 登陆 Windows：桌面 Agent 战争从 Mac 烧到 Windows"
 description: "**[一句判断]** OpenAI 把「AI 像人一样操作桌面」的战火烧到了 Windows，标志性意义在于终于打破了 macOS 的独占窗口。  - 4月中旬 macOS 首发时市场还在观望「这是 Demo 还是真实场景」，现在 Windows 接入意味着覆盖了绝对主力 PC 生态，证明了这是战略级投入而非实验性功能。 - 手机远程控制终于能连 Windows 主机——「人在外面用手机盯家里电脑"
 resource: "https://x.com/i/status/2060436685037682896"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2060436685037682896"
+created: "2026-05-29"
+updated: "2026-06-26"
+sha256: "d7dedf63695608b1ae37661fa3ed0ed9275b1ef7d0aa3f1b90896b528765ba4e"
+sources:
+  - "/sources/news/2026-05-29/00__dotey__codex-computer-use-登陆-windows-桌面-agent-战争从-mac-烧到-windows.md"
 ---
 
 # Codex Computer Use 登陆 Windows：桌面 Agent 战争从 Mac 烧到 Windows

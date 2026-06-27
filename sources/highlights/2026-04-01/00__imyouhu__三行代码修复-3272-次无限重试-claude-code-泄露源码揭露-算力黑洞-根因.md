@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "三行代码修复 3272 次无限重试：Claude Code 泄露源码揭露「算力黑洞」根因"
 description: "**一句话核心判断：** Claude Code 的 token 消耗异常不是模型贵，是 bug——autoCompact 机制在失败后无限重试，最高记录 3272 次，这是典型的工程债务外化给用户的案例。  - 泄露源码被丢给 Codex 分析，找到了元凶：autoCompact 机制失败后无上限重试，没有任何熔断机制。 - 修复方法：三行代码，加一个 MAX_CONCURRENT_FAILUR"
 resource: "https://x.com/i/status/2039191460256612770"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2039191460256612770"
+created: "2026-04-01"
+updated: "2026-06-26"
+sha256: "51d31b1ab93a17e9da8aac8ceb6e164ea663ccd30f5fac87a84160a94c5e5fb1"
+sources:
+  - "/sources/highlights/2026-04-01/00__imyouhu__三行代码修复-3272-次无限重试-claude-code-泄露源码揭露-算力黑洞-根因.md"
 ---
 
 # 三行代码修复 3272 次无限重试：Claude Code 泄露源码揭露「算力黑洞」根因

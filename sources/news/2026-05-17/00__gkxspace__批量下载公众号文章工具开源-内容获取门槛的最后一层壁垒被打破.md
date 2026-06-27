@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "批量下载公众号文章工具开源：内容获取门槛的最后一层壁垒被打破"
 description: "**一款开源工具实现批量下载公众号文章，解决长期以来抓取单个公众号文章费劲的痛点。**  - 内容创作者、数据分析从业者的采集效率工具链补全 - 结合 AI 阅读/总结工具，可快速构建特定垂类的知识库 - 与上一条微信读书 Skills 形成对比：前者是平台主动开放数据，后者是社区自发破解平台封锁  平台数据永远在「开放」与「封闭」之间摇摆，工具开源是对这种摇摆的永久性对冲。"
 resource: "https://x.com/i/status/2055993627629781080"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2055993627629781080"
+created: "2026-05-17"
+updated: "2026-06-26"
+sha256: "1e727813651e3319a98f26ecdc0690026011377621faf2c665a5d97f7c0a7b46"
+sources:
+  - "/sources/news/2026-05-17/00__gkxspace__批量下载公众号文章工具开源-内容获取门槛的最后一层壁垒被打破.md"
 ---
 
 # 批量下载公众号文章工具开源：内容获取门槛的最后一层壁垒被打破

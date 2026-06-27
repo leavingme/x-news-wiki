@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "GEO公开课首播验证：飞书+视频号双端获几千人参与，提示词开源生态正在向教育场景渗透"
 description: "**[提示词开源生态向教育场景延伸的价值信号]**  第一期GEO公开课在飞书和视频号双端获得几千人观看，说明提示词工程的教学需求已具备真实受众规模。姚老师+AJ的组合形成了知识输出+工具落地的路径。PPT、GEOflow系统和提示词全套开源，降低了学习门槛。  - 公开课模式验证了「免费内容引流+工具落地」的AI教育商业闭环可行性 - 双端并行（飞书/视频号）说明AI学习者分布在协作工具和短视频"
 resource: "https://x.com/i/status/2060884449211150420"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2060884449211150420"
+created: "2026-05-31"
+updated: "2026-06-26"
+sha256: "4e055926476ee3d9ab1a66ab712d0c42b308cd2b198c17a5c7ac15a1639d01fc"
+sources:
+  - "/sources/news/2026-05-31/00__vista8__geo公开课首播验证-飞书-视频号双端获几千人参与-提示词开源生态正在向教育场景渗透.md"
 ---
 
 # GEO公开课首播验证：飞书+视频号双端获几千人参与，提示词开源生态正在向教育场景渗透

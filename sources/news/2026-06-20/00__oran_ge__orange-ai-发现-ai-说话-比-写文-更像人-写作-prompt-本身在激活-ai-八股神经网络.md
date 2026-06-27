@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Orange AI 发现：AI\"说话\"比\"写文\"更像人，写作 prompt 本身在激活 AI 八股神经网络"
 description: "**\"说\"和\"写\"两种 prompt 范式可能在底层激活了不同的模型行为模式，AI 味并非不可避免，而是被\"写\"这个指令本身系统性唤起。**  观察增量： - 同一段内容，让 AI 用对话语气输出（人味）vs 改写成推文（AI 味），质量差异显著且难以通过改写消除 - 暗示训练阶段\"对话语料\"与\"书面语料\"在 RLHF / SFT 中已被打上不同风格印记 - 用户最终解决方案：放弃改写，直接复用 "
 resource: "https://x.com/i/status/2068111802882568370"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2068111802882568370"
+created: "2026-06-19"
+updated: "2026-06-26"
+sha256: "4af33552c20e9361071c1c97ac64a71a4b917d71c81e97a7d4d5d9b4acf8f138"
+sources:
+  - "/sources/news/2026-06-20/00__oran_ge__orange-ai-发现-ai-说话-比-写文-更像人-写作-prompt-本身在激活-ai-八股神经网络.md"
 ---
 
 # Orange AI 发现：AI"说话"比"写文"更像人，写作 prompt 本身在激活 AI 八股神经网络

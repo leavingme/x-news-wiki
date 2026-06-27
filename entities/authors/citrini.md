@@ -1,5 +1,5 @@
 ---
-type: "Author"
+type: "entity"
 title: "Citrini (@citrini)"
 description: "X/Twitter 作者 @citrini。共收录 1 条 AI 精选推文。"
 tags:
@@ -12,6 +12,12 @@ x_author_name: "Citrini"
 x_tweet_count: 1
 x_first_seen: "2026-05-04T01:17:29.631Z"
 x_last_seen: "2026-05-04T01:17:29.631Z"
+type_okf: "Author"
+created: "2026-05-04"
+updated: "2026-06-26"
+sha256: "535b2beb8c62eff44b49da407fd5b45c63cd517a0cc042070462bd79c4fa2031"
+sources:
+  - "/sources/highlights/2026-05-04/00__citrini__optimus-执行器占-bom-成本-56-具身智能的真正战场在供应链而非算法.md"
 ---
 
 # Citrini (@citrini)

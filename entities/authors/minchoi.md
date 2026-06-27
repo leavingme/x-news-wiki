@@ -1,5 +1,5 @@
 ---
-type: "Author"
+type: "entity"
 title: "Min Choi (@minchoi)"
 description: "X/Twitter 作者 @minchoi。共收录 1 条 AI 精选推文。"
 tags:
@@ -12,6 +12,12 @@ x_author_name: "Min Choi"
 x_tweet_count: 1
 x_first_seen: "2026-05-06T19:18:13.629Z"
 x_last_seen: "2026-05-06T19:18:13.629Z"
+type_okf: "Author"
+created: "2026-05-06"
+updated: "2026-06-26"
+sha256: "d895f932a5ff7950504ead4e8d25091a86edbc8748da7882f39edd35aabb0934"
+sources:
+  - "/sources/news/2026-05-06/00__minchoi__ai-游戏进入创作者经济时代-prompt-生成游戏-积累受众-按游玩量变现的闭环已通.md"
 ---
 
 # Min Choi (@minchoi)

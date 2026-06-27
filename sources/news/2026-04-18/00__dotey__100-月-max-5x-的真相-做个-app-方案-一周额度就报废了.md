@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "$100/月 Max 5x 的真相：做个 App 方案，一周额度就报废了"
 description: "**[AI 工具定价的体验悖论：贵不等于够用]**  宝玉披露 Gemini Max 订阅（$100/月，5x 加速）在实际场景中的额度消耗：仅「生成一套 slides + 设计一个 App 方案」，一周内额度就见底。这意味着专业用户每月实际成本远不止订阅价，而是需要反复购买额外额度。  - **信息增量**：AI 工具的「订阅幻觉」正在破灭——厂商宣传的「无限」「Max」与真实使用体验之间存在巨"
 resource: "https://x.com/i/status/2045257161421316449"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2045257161421316449"
+created: "2026-04-17"
+updated: "2026-06-26"
+sha256: "077b77ad54eb499901c9fd392a200ba676d19a2e32844b618c3d99526364f2e2"
+sources:
+  - "/sources/news/2026-04-18/00__dotey__100-月-max-5x-的真相-做个-app-方案-一周额度就报废了.md"
 ---
 
 # $100/月 Max 5x 的真相：做个 App 方案，一周额度就报废了

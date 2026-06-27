@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "SOLO内测：语音交互从「回合制」进入「边说边讨论」时代"
 description: "**[语音交互范式切换信号：AI从「听话工具」变成「对话参与者」]**  - 现有语音输入本质是「回合制」：说一段→等AI处理→看结果，每次交互有等待断层 - SOLO将上线实时问答：边说边讨论，说一句AI接一句，模拟「旁边坐了个工程师」的自然讨论感 - 配合语音直接调起 /Plan、/Skills 等命令，语音层正在成为 Agent 控制平面的新入口 - 这不仅是交互效率提升，而是「LLM语音化"
 resource: "https://x.com/i/status/2049332886835454207"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2049332886835454207"
+created: "2026-04-29"
+updated: "2026-06-26"
+sha256: "20d7bf318db260c1dcc05504465769127a199c0f42033285c7ba7af252e66e3f"
+sources:
+  - "/sources/news/2026-04-29/00__xiaohu__solo内测-语音交互从-回合制-进入-边说边讨论-时代.md"
 ---
 
 # SOLO内测：语音交互从「回合制」进入「边说边讨论」时代

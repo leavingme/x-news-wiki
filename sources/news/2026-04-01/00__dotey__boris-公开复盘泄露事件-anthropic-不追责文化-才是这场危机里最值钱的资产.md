@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Boris 公开复盘泄露事件：Anthropic「不追责文化」才是这场危机里最值钱的资产"
 description: "**[一句话核心判断]**  Anthropic 工程师 Boris 正面回应源码泄露，明确归因于「流程设计缺陷」而非个人错误，并公布自动化改进措施——这是一次教科书级的危机公关，也是其文化建设价值观的体现。  **信息增量：** • 问题根源：应该自动化的部署环节仍由人工手动操作 • 团队反应：立即归因于系统和流程，而非找人背锅 • 已实施多项自动化改进，更多措施推进中 • 正面驳斥「刚加入就搞"
 resource: "https://x.com/i/status/2039230364925698531"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2039230364925698531"
+created: "2026-04-01"
+updated: "2026-06-26"
+sha256: "ec07b431d286a5cdf41b661b7d1563a60600c6ebb077f3dbf08961c670456996"
+sources:
+  - "/sources/news/2026-04-01/00__dotey__boris-公开复盘泄露事件-anthropic-不追责文化-才是这场危机里最值钱的资产.md"
 ---
 
 # Boris 公开复盘泄露事件：Anthropic「不追责文化」才是这场危机里最值钱的资产

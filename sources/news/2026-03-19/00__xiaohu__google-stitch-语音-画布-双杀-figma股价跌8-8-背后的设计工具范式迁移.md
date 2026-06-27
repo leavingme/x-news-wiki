@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Google Stitch「语音+画布」双杀：Figma股价跌8.8%背后的设计工具范式迁移"
 description: "**[一句话核心判断]** Vibe Design时代正式开启，Stitch的语音实时修改+无限画布上下文协作，标志着设计工具从「软件界面」向「自然语言协作空间」的质变。 • 核心升级：无限画布支持参考图/文字/代码混合输入，AI基于完整上下文设计而非单点生成 • 交互革命：语音指令实时修改（「这个按钮大一点」「配色换暖色调」），打断成本趋近于零 • 工程衔接：DESIGN.md规范文件打通Sti"
 resource: "https://x.com/i/status/2034434502349734366"
@@ -22,6 +22,13 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "vibe-coding-methodology"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2034434502349734366"
+created: "2026-03-19"
+updated: "2026-06-26"
+sha256: "f2ef2215a6ed39c808488f19b9e98d7739882bf11b4eb1ff0244ae7cafb7a4e6"
+sources:
+  - "/sources/news/2026-03-19/00__xiaohu__google-stitch-语音-画布-双杀-figma股价跌8-8-背后的设计工具范式迁移.md"
 ---
 
 # Google Stitch「语音+画布」双杀：Figma股价跌8.8%背后的设计工具范式迁移

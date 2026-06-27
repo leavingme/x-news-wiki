@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "数字生命卡兹克回归：Claude 200刀Max双号就位，Chrome插件生态正式解锁"
 description: "**[核心判断]** 头部创作者账号解禁+双重订阅叠加,标志 Claude Chrome 浏览器插件从内测灰度进入创作者主流工具栈。  - 卡兹克 24 年初被封 Google 账号突然解封,可正常登录 Claude 订阅体系,怒氪 200 刀 - 现拥有 2 个 200 刀 Max 账号,可全功能使用 Claude 原生 Chrome 浏览器操控插件 - Anthropic 对历史封号用户的「大"
 resource: "https://x.com/i/status/2068642377926050254"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2068642377926050254"
+created: "2026-06-21"
+updated: "2026-06-26"
+sha256: "64ef324c0df08d377c35edab1c5737e1aee0039952a18f4891a55a06ff576daa"
+sources:
+  - "/sources/news/2026-06-21/00__Khazix0918__数字生命卡兹克回归-claude-200刀max双号就位-chrome插件生态正式解锁.md"
 ---
 
 # 数字生命卡兹克回归：Claude 200刀Max双号就位，Chrome插件生态正式解锁

@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "音视频上传解析成第三方 AI 客户端共同盲区，GPT-4o 实时视觉优势被变相削弱"
 description: "**[一句话核心判断]**  向阳乔木指出第三方 AI Chat 客户端集体不支持音视频上传解析，GPT-4o 等多模态能力在实际工作流中打了折扣。  - CherryStudio、Chatwise 等主流第三方客户端均未支持音视频上传 - 暴露了 OpenAI API 生态与第三方客户端之间的能力断层 - 用户若需音视频解析需绕回官方界面    gakki 的锐评：厂商通过官方界面构建能力护城河"
 resource: "https://x.com/i/status/2054763589492469830"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2054763589492469830"
+created: "2026-05-14"
+updated: "2026-06-26"
+sha256: "a2794042ac10e73cb88ca53625ae5846f1129ce0cb121010b848e2e4eb665c4f"
+sources:
+  - "/sources/news/2026-05-14/00__vista8__音视频上传解析成第三方-ai-客户端共同盲区-gpt-4o-实时视觉优势被变相削弱.md"
 ---
 
 # 音视频上传解析成第三方 AI 客户端共同盲区，GPT-4o 实时视觉优势被变相削弱

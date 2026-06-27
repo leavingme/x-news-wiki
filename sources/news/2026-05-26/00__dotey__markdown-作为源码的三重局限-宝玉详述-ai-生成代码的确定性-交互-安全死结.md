@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Markdown 作为源码的三重局限：宝玉详述 AI 生成代码的确定性/交互/安全死结"
 description: "**[Markdown 无法替代确定性编程语言，AI 生成工作流的确定性、UI 描述精度与安全性三大问题至今无解]**  宝玉指出 Markdown 作为\"AI 源码\"存在根本性缺陷：首先，同一份 Markdown 经不同模型/Agent/人操作后，生成物差距巨大，缺乏编程语言应有的确定性；其次，Markdown 极难精确描述 UI 交互细节，最终产出\"说不上难看但绝对卖不出钱\"；其三，安全性问题"
 resource: "https://x.com/i/status/2059303747327500758"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2059303747327500758"
+created: "2026-05-26"
+updated: "2026-06-26"
+sha256: "67617d96ac66c9243b91ee7c3659e8a6bb4d3ac3116b6431791f9ce0c564dfa6"
+sources:
+  - "/sources/news/2026-05-26/00__dotey__markdown-作为源码的三重局限-宝玉详述-ai-生成代码的确定性-交互-安全死结.md"
 ---
 
 # Markdown 作为源码的三重局限：宝玉详述 AI 生成代码的确定性/交互/安全死结

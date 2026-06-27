@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Gemini iOS质感优秀但CJK排版翻车：大厂也有本地化盲区"
 description: "Gemini iOS应用整体UI水平获得正向评价，但中文、日文、韩文排版出现字间空格问题，被指「完全没有为CJK做适配」。大厂移动端产品力提升的同时，细节本地化仍是系统性短板。"
 resource: "https://x.com/i/status/2056609161287458913"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2056609161287458913"
+created: "2026-05-19"
+updated: "2026-06-26"
+sha256: "031cb84014cb767e1205fb389863fbc17192a0e8f92d316e61b59567b617302e"
+sources:
+  - "/sources/news/2026-05-19/00__op7418__gemini-ios质感优秀但cjk排版翻车-大厂也有本地化盲区.md"
 ---
 
 # Gemini iOS质感优秀但CJK排版翻车：大厂也有本地化盲区

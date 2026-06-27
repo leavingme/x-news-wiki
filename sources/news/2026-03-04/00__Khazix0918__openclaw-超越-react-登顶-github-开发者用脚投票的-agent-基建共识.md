@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "OpenClaw 超越 React 登顶 GitHub：开发者用脚投票的「Agent 基建共识」"
 description: "**[250K+ Star 超越 React 243K，十年 Web 霸榜神话被 AI 基建终结]**  • React 代表「人类写代码」的 Web 时代，OpenClaw 代表「Agent 编排代码」的新范式，Star 数超越是开发者注意力的结构性迁移。  • 对比 Linux（220K，32 年积累）和 React（10+ 年积累），OpenClaw 的增速反映的是「AI 原生开发」需求的爆"
 resource: "https://x.com/i/status/2028774057693585597"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2028774057693585597"
+created: "2026-03-03"
+updated: "2026-06-26"
+sha256: "8eb73ffc3e3b898f2c2d0f7f8ba9206d1a08a90b7e8d3ac83c40d97593f8ac5e"
+sources:
+  - "/sources/news/2026-03-04/00__Khazix0918__openclaw-超越-react-登顶-github-开发者用脚投票的-agent-基建共识.md"
 ---
 
 # OpenClaw 超越 React 登顶 GitHub：开发者用脚投票的「Agent 基建共识」

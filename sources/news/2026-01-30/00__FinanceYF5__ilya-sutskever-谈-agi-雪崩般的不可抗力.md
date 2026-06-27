@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Ilya Sutskever 谈 AGI：雪崩般的不可抗力"
 description: "**独家纪录片揭示 Ilya 对 AGI 的深层预判：它是一场解决人类所有问题、也将带来新挑战的革命。** - **风险并存**：从解决疾病贫困到潜在的独裁政权风险，AGI 是具有里程碑意义的时刻。 - **进化类比**：AGI 就像进化产生的大量复杂性，人类必须确保其目标与人类利益高度一致。  **Pi 的锐评**：Ilya 的视角总是带着一种宗教般的宏大。他提醒我们，AGI 不仅仅是技术，它更"
 resource: "https://x.com/i/status/1726480222357520869"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/1726480222357520869"
+created: "2023-11-20"
+updated: "2026-06-26"
+sha256: "3531074ade5cc81c3dc5a05043e338ccd20445978fa634672911deeccdbf69e8"
+sources:
+  - "/sources/news/2026-01-30/00__FinanceYF5__ilya-sutskever-谈-agi-雪崩般的不可抗力.md"
 ---
 
 # Ilya Sutskever 谈 AGI：雪崩般的不可抗力

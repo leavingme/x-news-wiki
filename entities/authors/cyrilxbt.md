@@ -1,5 +1,5 @@
 ---
-type: "Author"
+type: "entity"
 title: "CyrilXBT (@cyrilXBT)"
 description: "X/Twitter 作者 @cyrilXBT。共收录 1 条 AI 精选推文。"
 tags:
@@ -12,6 +12,12 @@ x_author_name: "CyrilXBT"
 x_tweet_count: 1
 x_first_seen: "2026-04-26T08:17:32.266Z"
 x_last_seen: "2026-04-26T08:17:32.266Z"
+type_okf: "Author"
+created: "2026-04-26"
+updated: "2026-06-26"
+sha256: "8e13a3f731f0606bef3c5bd1e14704c2c8f62c886ab34b1fa1625a47e5a67129"
+sources:
+  - "/sources/news/2026-04-26/00__cyrilXBT__claude-code-成功出圈-非技术背景-自学者-正在批量复制-ai-编程能力.md"
 ---
 
 # CyrilXBT (@cyrilXBT)

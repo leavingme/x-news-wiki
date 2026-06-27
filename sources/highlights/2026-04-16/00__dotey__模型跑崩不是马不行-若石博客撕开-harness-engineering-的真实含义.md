@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "模型跑崩不是马不行：若石博客撕开「Harness Engineering」的真实含义"
 description: "**[模型崩溃的根因不在模型，在缰绳]**  若石博客提出核心论点：AI Agent 多步执行中途崩溃（如第七步开始胡编、第十步输出残破 JSON），大多数人的第一反应是模型太蠢，但真正的问题是 Harness（安全带/缰绳）没配好。  Harness Engineering 的四个原则：1）能用代码约束就别指望模型自觉，如用 Schema 验证器替代苦口婆心的提示词；2）关键状态必须外置，不让模"
 resource: "https://x.com/i/status/2044660793153655205"
@@ -22,6 +22,13 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "harness-engineering-framework"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2044660793153655205"
+created: "2026-04-16"
+updated: "2026-06-26"
+sha256: "5de7f2f730b7b859a193d6e59cd201c610ca3b3a364ffaa516dac2052b9cf168"
+sources:
+  - "/sources/highlights/2026-04-16/00__dotey__模型跑崩不是马不行-若石博客撕开-harness-engineering-的真实含义.md"
 ---
 
 # 模型跑崩不是马不行：若石博客撕开「Harness Engineering」的真实含义

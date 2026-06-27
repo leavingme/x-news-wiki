@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Beads 用 Git-like SQL 数据库解决 Agent 长任务失忆：22.6k Star 背后的架构选择"
 description: "**Agent 记忆问题正在从「上下文窗口工程」转向「结构化任务数据库」。** - 底层用 Dolt（Git-like SQL 数据库），支持分支、合并、版本回溯、单元格级 merge - 哈希 ID 避免多 Agent 并发写入冲突，语义记忆衰减压缩关闭任务摘要 - 完全脱离 Git 独立运行，面向任何需要跨会话保持任务连续性的场景  这是「EdgeClaw 开源记忆基础设施」专题的新进展——从"
 resource: "https://x.com/i/status/2049651974317191464"
@@ -22,6 +22,13 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "edgeclaw-memory-infrastructure"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2049651974317191464"
+created: "2026-04-30"
+updated: "2026-06-26"
+sha256: "9268067124a8b492ad8241c29f303540f308260a9f7de69d4fbfd73b05776c81"
+sources:
+  - "/sources/news/2026-04-30/00__vista8__beads-用-git-like-sql-数据库解决-agent-长任务失忆-22-6k-star-背后的架构选择.md"
 ---
 
 # Beads 用 Git-like SQL 数据库解决 Agent 长任务失忆：22.6k Star 背后的架构选择

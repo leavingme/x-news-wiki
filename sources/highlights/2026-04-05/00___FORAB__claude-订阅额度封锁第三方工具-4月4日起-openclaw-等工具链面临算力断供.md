@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Claude 订阅额度封锁第三方工具：4月4日起 OpenClaw 等工具链面临算力断供"
 description: "**【Anthropic 亲手关上「套壳 Claude」的商业大门】**  从 4 月 4 日起，Claude 订阅额度将不再支持第三方工具调用，OpenClaw 等依赖 Claude 算力的 Agent 工具链将被强制切换至按量付费模式。Anthropic 官方理由是「这类用法对算力资源造成过度负担」——说白了就是亏本买卖不做了。  **影响链条：** - 固定月费覆盖范围大幅收窄，仅限 Cla"
 resource: "https://x.com/i/status/2040304999905824833"
@@ -22,6 +22,13 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "anthropic-boundary-decisions-moat"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2040304999905824833"
+created: "2026-04-04"
+updated: "2026-06-26"
+sha256: "839116e1f97738ac8943fbc9b767955ed2e7db7207c741121716d66f52847ee7"
+sources:
+  - "/sources/highlights/2026-04-05/00___FORAB__claude-订阅额度封锁第三方工具-4月4日起-openclaw-等工具链面临算力断供.md"
 ---
 
 # Claude 订阅额度封锁第三方工具：4月4日起 OpenClaw 等工具链面临算力断供

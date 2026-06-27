@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "黄仁勋「自己人」玩笑背后：AI 算力寡头正在成为中美博弈的直接当事人"
 description: "**算力寡头的身份政治已介入地缘博弈，而非单纯的技术供应商角色。**  - 事件：NVIDIA CEO 黄仁勋与特朗普互动，玩笑称「幸亏没给他喝豆汁」——将个人关系嵌入中美博弈叙事 - 实质：这不是私人玩笑，而是释放信号——黄仁勋在试图维持「中美之间最中立的技术桥梁」人设，但现实是无论 GPU 卖到哪边，都已被地缘政治穿透 - 隐含逻辑：豆汁是 Chinese 特供笑话的核心意象，用它开玩笑等于在"
 resource: "https://x.com/i/status/2055243686209016223"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2055243686209016223"
+created: "2026-05-15"
+updated: "2026-06-26"
+sha256: "92b2b164b451a81946e188347a50789139716ac33e16213e543ffa463eb363ac"
+sources:
+  - "/sources/news/2026-05-15/00__mranti__黄仁勋-自己人-玩笑背后-ai-算力寡头正在成为中美博弈的直接当事人.md"
 ---
 
 # 黄仁勋「自己人」玩笑背后：AI 算力寡头正在成为中美博弈的直接当事人

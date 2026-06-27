@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "PPT Skill 25天万星：竞争激烈的工具市场里，质量仍是决定性壁垒"
 description: "**[一句话核心判断]**  在 PPT 生成 Skills 已有数十个竞品的情况下，藏师傅的 PPT Skills 仅用 25 天突破 10,000 Star，证明 AI 工具市场并非赢者通吃。  **信息增量：** - 25 天破万星，速度超过很多大厂知名项目 - 核心工作：确保 Skill 在任何模型、任何 Agent 下都有稳定效果——即跨模型一致性 - 质量 × 体验 = 决定性要素，在"
 resource: "https://x.com/i/status/2056658831221080255"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2056658831221080255"
+created: "2026-05-19"
+updated: "2026-06-26"
+sha256: "d80e5df43525fe1c78674baf77e32d7337825cb44ef89b34103f6f831a918ad0"
+sources:
+  - "/sources/news/2026-05-19/00__op7418__ppt-skill-25天万星-竞争激烈的工具市场里-质量仍是决定性壁垒.md"
 ---
 
 # PPT Skill 25天万星：竞争激烈的工具市场里，质量仍是决定性壁垒

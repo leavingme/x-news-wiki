@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "深圳AI创业\"新试验田\"叙事：零VC门槛是机会还是幻觉？"
 description: "**[政策红利与技术民主化的交汇点]** - 深圳模式：政府补贴+开源大模型+本地云部署+开发者生态，23岁普通人可\"直接起飞\" - 去中介化特征：无需VC、无需名校学历、无需关系网络 - 深层问题：当门槛降到\"几乎为零\"，竞争将瞬间红海化，先发优势窗口极短  这不是改革开放的重演，而是AI时代\"散户创业\"的首次大规模实验——有人起飞，但更多人会成为燃料。"
 resource: "https://x.com/i/status/2032410392497209554"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 82
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2032410392497209554"
+created: "2026-03-13"
+updated: "2026-06-26"
+sha256: "205cea6b0352a83a1991375280c96b3554eb620a73e305392a06fa21527087ad"
+sources:
+  - "/sources/news/2026-03-13/82__Stanleysobest__深圳ai创业-新试验田-叙事-零vc门槛是机会还是幻觉.md"
 ---
 
 # 深圳AI创业"新试验田"叙事：零VC门槛是机会还是幻觉？

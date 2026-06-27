@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "贝叶斯+凯利公式：Polymarket 交易机器人的「量化思维」平民化"
 description: "**[AI 正在把机构级的量化框架变成个人开发者三小时可部署的工具]**  • 四步逻辑：贝叶斯更新概率→计算正期望值→凯利公式定仓位→LMSR看市场深度 • 核心洞察：EV = 你算的概率 - 市场价，有差价才动手，没机会就趴着不动 • 教授级量化知识 + Claude = 可运行的交易机器人，门槛从「数年学习」降到「几小时实现」  当复杂金融工程可以被一个教授课后20分钟讲解、被Claude三"
 resource: "https://x.com/i/status/2032000510870634700"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 85
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2032000510870634700"
+created: "2026-03-12"
+updated: "2026-06-26"
+sha256: "f1d88341cccbe1d4a83100e9882940cc4af272de9db4ba234ee9e8e60d567da7"
+sources:
+  - "/sources/news/2026-03-14/85__qkl2058__贝叶斯-凯利公式-polymarket-交易机器人的-量化思维-平民化.md"
 ---
 
 # 贝叶斯+凯利公式：Polymarket 交易机器人的「量化思维」平民化

@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "宝玉戳破 Agent 入口幻觉：超级助理的前提是用户先信任一个入口"
 description: "**[单一 Agent 入口是产品终态，但用户信任路径是反的]**  宝玉提出：用户倾向统一入口，未来「什么事都跟超级助理 Agent 说」而非打开独立 App。这是对的方向，但忽略了一个现实——目前用户信任的入口是微信，不是某个 AI Agent。  信息增量：宝玉点出了入口收敛与用户信任之间的张力——Agent 要成为入口，先要解决「为什么我要把所有事交给它」，而不是「它能做什么」。  gak"
 resource: "https://x.com/i/status/2061126576108970055"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2061126576108970055"
+created: "2026-05-31"
+updated: "2026-06-26"
+sha256: "e0f9dd76567257f6d68d5e238d2635703b1a6a93d92483c793d7887cd3ce3f1c"
+sources:
+  - "/sources/news/2026-05-31/00__dotey__宝玉戳破-agent-入口幻觉-超级助理的前提是用户先信任一个入口.md"
 ---
 
 # 宝玉戳破 Agent 入口幻觉：超级助理的前提是用户先信任一个入口

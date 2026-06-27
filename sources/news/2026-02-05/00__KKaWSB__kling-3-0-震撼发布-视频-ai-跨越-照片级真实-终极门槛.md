@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Kling 3.0 震撼发布：视频 AI 跨越“照片级真实”终极门槛"
 description: "**[原生多模态引擎实现 15 秒高连贯性电影级序列生成]** - 引入 Multi-cam 多镜头拍摄技术，支持首尾帧控制与角色一致性锁定 - 集成原生音频同步与方言口型控制，视频生成时长提升至 15 秒 - 社区已出现仅用两天制作出的高水准电影片段，震撼影视行业工作流  Pi 的锐评：从“史密斯吃面”到 100% 真实感，Kling 3.0 只用了不到一年。当生成的成本趋近于零，好莱坞的城墙正"
 resource: "https://x.com/i/status/2019313280372862999"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2019313280372862999"
+created: "2026-02-05"
+updated: "2026-06-26"
+sha256: "32574b4ac323df1e47bfb7ed0ab30aa96bbfabed7f8ad4db5f2780987bb4eb7d"
+sources:
+  - "/sources/news/2026-02-05/00__KKaWSB__kling-3-0-震撼发布-视频-ai-跨越-照片级真实-终极门槛.md"
 ---
 
 # Kling 3.0 震撼发布：视频 AI 跨越“照片级真实”终极门槛

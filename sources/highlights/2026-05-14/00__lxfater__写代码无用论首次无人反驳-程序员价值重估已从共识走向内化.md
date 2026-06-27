@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "写代码无用论首次无人反驳：程序员价值重估已从共识走向内化"
 description: "**[一线程序员自述：写代码正在变成「低价值技能」]**  铁锤人以亲身经历佐证一个正在扩散的行业共识：AI让代码写作本身急速贬值。两年前抛出此论会被程序员群体围攻，如今发出后「没有程序员喷我」——这种沉默本身就是信号。  关键变化不是AI能写代码，而是「程序员对自己被替代的预期」已经完成心理建构。当高薪程序员也开始接受「投AI对冲风险」比坚守技术更有吸引力，人才市场的定价逻辑已经在重构。  ga"
 resource: "https://x.com/i/status/2054831419848008184"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2054831419848008184"
+created: "2026-05-14"
+updated: "2026-06-26"
+sha256: "c8b44f42f067b022252eb2555e4b76a869bea88af11b2267d334232e06dc8945"
+sources:
+  - "/sources/highlights/2026-05-14/00__lxfater__写代码无用论首次无人反驳-程序员价值重估已从共识走向内化.md"
 ---
 
 # 写代码无用论首次无人反驳：程序员价值重估已从共识走向内化

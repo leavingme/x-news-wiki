@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "GPT-5.5 Instant 成为 ChatGPT 默认模型：幻觉下降、废话变少、记忆来源可视化"
 description: "**OpenAI 用「减法」而非「加法」来定义这次升级——少说废话比多说能力更难。**  - 法律、金融、医学领域幻觉率显著下降，图片理解和文档解析提升 - 回答更紧凑聚焦，减少无用铺垫——承认了 5.5 版本「废话太多」的问题 - 新增记忆来源可视化功能，用户可追溯并编辑 memory 来源  gakki 锐评：幻觉率下降是基本面修复，记忆来源可视化才是真正的信任基建。当用户能看到「AI 为什么"
 resource: "https://x.com/i/status/2051845335501455605"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2051845335501455605"
+created: "2026-05-06"
+updated: "2026-06-26"
+sha256: "f2334fda76ff79ec37add512a9455add9f4cd519f84159e873af559f402a6a19"
+sources:
+  - "/sources/highlights/2026-05-06/00__op7418__gpt-5-5-instant-成为-chatgpt-默认模型-幻觉下降-废话变少-记忆来源可视化.md"
 ---
 
 # GPT-5.5 Instant 成为 ChatGPT 默认模型：幻觉下降、废话变少、记忆来源可视化

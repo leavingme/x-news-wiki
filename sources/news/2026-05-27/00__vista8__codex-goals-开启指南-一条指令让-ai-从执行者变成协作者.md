@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Codex Goals 开启指南：一条指令让 AI 从执行者变成协作者"
 description: "**Codex 的 /goal 功能是当前 AI 编程工具里最被低估的协作接口。**  - Goals 本质上是把任务拆解和进度追踪从人脑外部化到 AI 记忆里，减少重复 Prompt 的上下文损耗 - 开启方式极其隐蔽（需手动改 config.toml），说明这不是产品优先级功能，而是给高级用户的\"后门\" - 配合 subagent 状态可见性，Codex 在任务分解和状态管理上的设计已领先很多"
 resource: "https://x.com/i/status/2059474429604925946"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2059474429604925946"
+created: "2026-05-27"
+updated: "2026-06-26"
+sha256: "7f5f9821d279da0fedb5eb035532d10e173275e17622faf1c1b3ae2e7c49d7b5"
+sources:
+  - "/sources/news/2026-05-27/00__vista8__codex-goals-开启指南-一条指令让-ai-从执行者变成协作者.md"
 ---
 
 # Codex Goals 开启指南：一条指令让 AI 从执行者变成协作者

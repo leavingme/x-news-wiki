@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "中国政府的VC模式：支持广泛竞争、容忍失败，等待少数赢家弥补"
 description: "**[理解中国AI战略的新框架：政府是最大LP，不是裁判]**  亚瑟·克罗伯（Arthur Kroeber）的核心观点：中国政府更像风险投资基金，而非传统中央计划者——广泛支持行业部门，鼓励无情竞争，即便知道国企会失败，也相信少数赢家能弥补损失。  对AI行业的启示：这一模式解释了中国在制造领域的主导地位如何实现，也意味着国内AI政策环境可能比表面看起来更具创业友好性——不是指令性规划，而是赛道"
 resource: "https://x.com/i/status/2060266800689099028"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2060266800689099028"
+created: "2026-05-29"
+updated: "2026-06-26"
+sha256: "16e77bedbc89482e88f93c3262a053c780151c2c9730e30b9df176f78021ba20"
+sources:
+  - "/sources/news/2026-05-29/00__xiaohu__中国政府的vc模式-支持广泛竞争-容忍失败-等待少数赢家弥补.md"
 ---
 
 # 中国政府的VC模式：支持广泛竞争、容忍失败，等待少数赢家弥补

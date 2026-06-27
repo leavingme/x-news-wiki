@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Codex 项目原理图：看图理解 Agent 工作流的正确姿势"
 description: "**[ 宝玉放出 Codex 工作流原理图：mermaid 正在成为 Agent 文档的事实标准 ]**  宝玉分享了一个项目工作原理图，配合 Codex 阅读项目后自动生成说明文档的 prompt 模板。mermaid 图表正在成为 Agent 可读的文档格式——因为它既是文本（可被 LLM 解析）、又是图（人类可读）。  关键信号：Codex/Claude Code 类工具正在驱动「自文档化」"
 resource: "https://x.com/i/status/2058091470066753579"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2058091470066753579"
+created: "2026-05-23"
+updated: "2026-06-26"
+sha256: "4844035f348530407b8a198950a9a0ea3a87958b873de8798eb1c95eaddc295f"
+sources:
+  - "/sources/news/2026-05-23/00__dotey__codex-项目原理图-看图理解-agent-工作流的正确姿势.md"
 ---
 
 # Codex 项目原理图：看图理解 Agent 工作流的正确姿势

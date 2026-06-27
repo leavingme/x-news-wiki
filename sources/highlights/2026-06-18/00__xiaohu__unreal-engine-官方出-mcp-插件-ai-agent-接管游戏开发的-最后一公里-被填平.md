@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Unreal Engine 官方出 MCP 插件：AI Agent 接管游戏开发的「最后一公里」被填平"
 description: "**[一句话核心判断]** Unreal Engine 推出官方 MCP 插件，AI Agent 原生支持蓝图、资产、关卡、材质、网格体五大核心系统的读写和修改——MCP 范式正式侵入专业创作工具的底层。  **要点：** - 零配置接入：装好插件后 AI 可直接「看到」和操作 UE 内部对象 - 自然语言命令直接落地：「把这个关卡里所有红色材质换成蓝色」已经可跑 - 留出扩展点：工作室可把自有系"
 resource: "https://x.com/i/status/2067430289920643301"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2067430289920643301"
+created: "2026-06-18"
+updated: "2026-06-26"
+sha256: "91e4a6dfbd2475c2533b3ad0240c467604b0476980d8883538d19fd5294b55a0"
+sources:
+  - "/sources/highlights/2026-06-18/00__xiaohu__unreal-engine-官方出-mcp-插件-ai-agent-接管游戏开发的-最后一公里-被填平.md"
 ---
 
 # Unreal Engine 官方出 MCP 插件：AI Agent 接管游戏开发的「最后一公里」被填平

@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Alma 后台静默操控国产 Electron：桌面 Agent 的「无感入侵」成真"
 description: "**[国产软件的后门正在成为 Agent 控制的标配入口]**  Alma 新版实现后台静默操控国产 Electron 应用（网易云音乐等），无需前台窗口。这意味着 Agent 操作本地软件真正进入\"无感\"阶段——用户不知道 Agent 在干什么，应用也不知道被谁在操作。  - 技术路径：Electron 的 IPC 机制 - 突破点：国产软件的 Electron 化反而成了入口 - 风险：无声控"
 resource: "https://x.com/i/status/2047359377162797536"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2047359377162797536"
+created: "2026-04-23"
+updated: "2026-06-26"
+sha256: "09760131ed1dd0978068f214585b4a3f7c6069d3bdcfefd135b0dbf3f0c62c7a"
+sources:
+  - "/sources/news/2026-04-24/00__yetone__alma-后台静默操控国产-electron-桌面-agent-的-无感入侵-成真.md"
 ---
 
 # Alma 后台静默操控国产 Electron：桌面 Agent 的「无感入侵」成真

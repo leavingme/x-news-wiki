@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "宝玉实测：Fable 5 设计能力反不如 Opus 4.8，旗舰不一定是设计首选"
 description: "大量测试 Claude Design 后发现，Fable 5 在 UI/UX 任务上没体现更强的设计能力，甚至弱于 Claude 4.8。  - 宝玉判定 Fable 5 的设计输出不如 Opus 4.8 - Fable 5 的「先进」集中在推理与 Agent，不在审美/设计 - 设计类任务当前更稳的工程选择仍是 Opus 4.8  锐评：旗舰模型不一定是「处处最强」,Fable 5 把 toke"
 resource: "https://x.com/i/status/2064581575711260827"
@@ -22,6 +22,13 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "design-model-evaluation"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2064581575711260827"
+created: "2026-06-10"
+updated: "2026-06-26"
+sha256: "2b40211e355892ff5a3a8c7f8e6d4b494f64e133f80e660797a528f091cf0761"
+sources:
+  - "/sources/news/2026-06-10/00__dotey__宝玉实测-fable-5-设计能力反不如-opus-4-8-旗舰不一定是设计首选.md"
 ---
 
 # 宝玉实测：Fable 5 设计能力反不如 Opus 4.8，旗舰不一定是设计首选

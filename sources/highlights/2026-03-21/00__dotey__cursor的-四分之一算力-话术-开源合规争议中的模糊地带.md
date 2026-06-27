@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Cursor的「四分之一算力」话术：开源合规争议中的模糊地带"
 description: "**[Cursor承认Composer 2基于开源基座但未点名Kimi，许可证标识缺失仍是核心质疑]** • 官方将「套壳」指控转化为「算力比例」问题，回避Kimi品牌提及 • 「推理合作伙伴条款」未能解释界面为何缺失开源模型标识这一许可证硬性要求 • 信号：商业化AI工具在开源合规上的「擦边球」策略正被放大审视  Cursor的回应是典型的危机修辞——用技术细节转移焦点，但核心问题（用户知情权与"
 resource: "https://x.com/i/status/2035041073798459876"
@@ -22,6 +22,13 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "ai-distillation-ethics"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2035041073798459876"
+created: "2026-03-20"
+updated: "2026-06-26"
+sha256: "d0a070e292ac09dd18b88c9df0d29c606c9fb6c37671d14ce484f496adabe8d6"
+sources:
+  - "/sources/highlights/2026-03-21/00__dotey__cursor的-四分之一算力-话术-开源合规争议中的模糊地带.md"
 ---
 
 # Cursor的「四分之一算力」话术：开源合规争议中的模糊地带

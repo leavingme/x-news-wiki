@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "图拉鼎定义了Vibe Coding的边界：陌生领域用Vibe，熟悉领域用Harness"
 description: "**一句话核心判断**：Vibe Coding不是能力不足的妥协，而是对认知分工的清醒认知——知道自己不知道什么，才是Harness Engineering的前提。  **信息增量**： - 提出了一个实操性极强的判断框架：做不熟悉的领域叫Vibe Coding，做熟悉的才叫Harness Coding/Engineer - 这个分界的真正意义在于：当你对某个领域足够熟悉，你才能判断agent给的"
 resource: "https://x.com/i/status/2042229458695000550"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2042229458695000550"
+created: "2026-04-09"
+updated: "2026-06-26"
+sha256: "151f69de5a29912e950fabe29727c65ca07c3f4783a6a56a934a57f0e511d13a"
+sources:
+  - "/sources/news/2026-04-15/00__tualatrix__图拉鼎定义了vibe-coding的边界-陌生领域用vibe-熟悉领域用harness.md"
 ---
 
 # 图拉鼎定义了Vibe Coding的边界：陌生领域用Vibe，熟悉领域用Harness

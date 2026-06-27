@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "歸藏确认：Cursor Composer-2底层即Kimi K2.5"
 description: "**[Cursor博客表述误导性被揭穿，「从零训练」叙事与事实存在明显落差]** • 博客措辞营造自主预训练印象，实际基于K2.5深度微调 • Kimi官方称「给予技术授权」，但未解释为何Cursor产品界面完全隐匿基座来源 • 信号：AI产品「包装原创性」与「开源透明度」的张力正在激化  这是典型的「创新者叙事」陷阱——Cursor想讲一个「我们做了独特优化」的故事，却低估了社区对「诚实溯源」的"
 resource: "https://x.com/i/status/2035165486628184468"
@@ -22,6 +22,13 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "ai-distillation-ethics"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2035165486628184468"
+created: "2026-03-21"
+updated: "2026-06-26"
+sha256: "491ae5a08cf03dbb33a811fe0a9e3b28358c46222a0ae9a6c5b18c9bf75b9f25"
+sources:
+  - "/sources/news/2026-03-21/00__op7418__歸藏确认-cursor-composer-2底层即kimi-k2-5.md"
 ---
 
 # 歸藏确认：Cursor Composer-2底层即Kimi K2.5

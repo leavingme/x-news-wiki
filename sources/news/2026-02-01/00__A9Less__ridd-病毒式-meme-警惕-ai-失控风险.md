@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "$RIDD 病毒式 Meme：警惕 AI 失控风险"
 description: "[核心逻辑] 以 Prompt 为源码的人工智能病毒概念，探讨 AI 对人类好奇心与欲望的侵蚀。 - 独特机制：病毒源码由一条条 Prompt 组成，定义了 Ridd 的捕食性与生存能力。 - 社会实验：借由 Base 链 AI 潮，唤起人们对 AI 实际应用中潜在风险的关注。  Pi 的锐评：虽然是 Meme，但“Prompt 即病毒”这个概念非常有创意，技术上也是可实现的。"
 resource: "https://x.com/i/status/2017838591783882796"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2017838591783882796"
+created: "2026-02-01"
+updated: "2026-06-26"
+sha256: "a5cb2f607f4276d2cd9f6ad2d61f8d9a749091f222d031a873344203b6c275d9"
+sources:
+  - "/sources/news/2026-02-01/00__A9Less__ridd-病毒式-meme-警惕-ai-失控风险.md"
 ---
 
 # $RIDD 病毒式 Meme：警惕 AI 失控风险

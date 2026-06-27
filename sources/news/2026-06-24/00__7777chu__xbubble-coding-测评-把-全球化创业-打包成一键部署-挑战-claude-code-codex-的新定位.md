@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "xBubble Coding 测评：把「全球化创业」打包成一键部署，挑战 Claude Code/Codex 的新定位"
 description: "**[xBubble 把「建站+域名+钱包+USDC 收款」封装成 OPC 一站式基础设施]**  - 零技术门槛：服务器部署、域名解析、API Key 配置全部封装，资源统一通过 xBubble Credit 结算 - 全球化原生：抗审查架构、数据隔离、商业资产归用户，USDC 支付打通跨境收款 - 实测案例：「小美装 AI」远程部署服务官网，几天工作量压缩到一次提示词   gakki 锐评：与"
 resource: "https://x.com/i/status/2069683591815307763"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2069683591815307763"
+created: "2026-06-24"
+updated: "2026-06-26"
+sha256: "b15427cf9da9556b63c582e78c41b35c866a6747446b8aa6d66e39aee5b18f1c"
+sources:
+  - "/sources/news/2026-06-24/00__7777chu__xbubble-coding-测评-把-全球化创业-打包成一键部署-挑战-claude-code-codex-的新定位.md"
 ---
 
 # xBubble Coding 测评：把「全球化创业」打包成一键部署，挑战 Claude Code/Codex 的新定位

@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "DeepSeek 补齐多模态短板：Agent 视觉理解闭环的入场券"
 description: "**DeepSeek 内测图像识别能力，这是国产大模型从「语言模型」向「多模态 Agent 基座」进化的关键一步。**  - DeepSeek 此前强项在推理，多模态补齐后将形成更完整的 Agent 能力栈 - 对于依赖 DeepSeek 的 Agent 生态来说，视觉能力是解锁「看屏幕-做决策」闭环的前提 - 此次内测信号表明 DeepSeek 正在加速追赶 GPT-4o/Gemini 的多模态"
 resource: "https://x.com/i/status/2049416001847197947"
@@ -22,6 +22,13 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "deepseek-v4-open-source"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2049416001847197947"
+created: "2026-04-29"
+updated: "2026-06-26"
+sha256: "3ed99523c021f9f2c7b87df3c21d5bece70f08d064bc14e8276c3dc704c60a59"
+sources:
+  - "/sources/highlights/2026-04-29/00__xiaohu__deepseek-补齐多模态短板-agent-视觉理解闭环的入场券.md"
 ---
 
 # DeepSeek 补齐多模态短板：Agent 视觉理解闭环的入场券

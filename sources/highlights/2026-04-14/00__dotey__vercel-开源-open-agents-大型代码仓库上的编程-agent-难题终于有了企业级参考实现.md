@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Vercel 开源 Open Agents：大型代码仓库上的编程 Agent 难题终于有了企业级参考实现"
 description: "**[一句话核心判断]**  Vercel 开源的 Open Agents 不是又一个 Demo，而是 Stripe、Spotify、Block 这些公司\"AI 软件工厂\"实战经验的提炼——它解决的不是\"能不能跑\"，而是\"在大型代码库里怎么跑\"。  **要点：** - 核心问题：现成编程 Agent 在大代码仓库上表现不行，也不了解公司内部知识体系 - 架构亮点：Agent 与沙箱生命周期解耦，三"
 resource: "https://x.com/i/status/2043904844608532640"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2043904844608532640"
+created: "2026-04-14"
+updated: "2026-06-26"
+sha256: "228e9d7a27d7834d7b6b1c9c300d714677a75edd05efd8cf48cc3f09706daa97"
+sources:
+  - "/sources/highlights/2026-04-14/00__dotey__vercel-开源-open-agents-大型代码仓库上的编程-agent-难题终于有了企业级参考实现.md"
 ---
 
 # Vercel 开源 Open Agents：大型代码仓库上的编程 Agent 难题终于有了企业级参考实现

@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Stripe Agent 市场的 SaaS V2 叙事：为 Agent 构建「可消费」的数字服务正在成为新创业方向"
 description: "**当 Agent 开始「花钱」，围绕 Agent 消费行为构建的 SaaS 就是下一代创业机会。** - 核心逻辑：Stripe 创造了一个全新的市场——Agent 作为消费者购买数字服务 - 当前市场空白，先发者有机会定义品类 - 本质是 SaaS 2.0：从「卖给人用」到「卖给 Agent 用」  gakki 锐评：叙事很性感，但 Agent 真正需要的「消费」是什么？不是又一个 API w"
 resource: "https://x.com/_MaxBlade/status/2049604418354438487"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "ai-trend-digest"
+type_okf: "X Tweet"
+source_url: "https://x.com/_MaxBlade/status/2049604418354438487"
+created: "2026-04-29"
+updated: "2026-06-26"
+sha256: "b4f2112975f39de0466d5fda9dd64b32a630eff4ed14dcc40c767e52e526c028"
+sources:
+  - "/sources/news/2026-04-30/00___MaxBlade__stripe-agent-市场的-saas-v2-叙事-为-agent-构建-可消费-的数字服务正在成为新创业方向.md"
 ---
 
 # Stripe Agent 市场的 SaaS V2 叙事：为 Agent 构建「可消费」的数字服务正在成为新创业方向

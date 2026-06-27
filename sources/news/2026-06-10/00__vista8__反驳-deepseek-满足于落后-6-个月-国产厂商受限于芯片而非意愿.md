@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "反驳「DeepSeek 满足于落后 6 个月」：国产厂商受限于芯片而非意愿"
 description: "**向阳乔木用一句话戳破中文 AI 圈讨论国产模型时回避的事实结构。**  - 文章观点「DeepSeek 满足于落后美国 6 个月」被批为脱离现实 - 关键反驳：中国每家大模型公司都受限于显卡和技术 - 「谁想落后，谁安于落后」是反问——把意愿和约束分开 - 与同期的黄仁勋「AI 五层蛋糕」、DeepSeek 蒸馏禁令形成上下文   gakki 锐评：这种反驳在中文 AI 圈是政治正确，但很少有"
 resource: "https://x.com/i/status/2064707016531320937"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2064707016531320937"
+created: "2026-06-10"
+updated: "2026-06-26"
+sha256: "557a67bf14af97e5f8bace23b77569a6a20bb1b25286392fe07b2f8a5f87008b"
+sources:
+  - "/sources/news/2026-06-10/00__vista8__反驳-deepseek-满足于落后-6-个月-国产厂商受限于芯片而非意愿.md"
 ---
 
 # 反驳「DeepSeek 满足于落后 6 个月」：国产厂商受限于芯片而非意愿

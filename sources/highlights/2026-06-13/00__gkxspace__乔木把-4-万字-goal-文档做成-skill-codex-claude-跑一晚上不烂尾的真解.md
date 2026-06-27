@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "乔木把 4 万字 goal 文档做成 Skill：Codex/Claude 跑一晚上不烂尾的真解"
 description: "**Agent 烂尾的根因不在模型，而在 goal 不可验证。**  要点： - 「帮我做个 App」「修一下 bug」这类 goal 人能听懂、Agent 不知道怎么验证，几时该停、几时该重试全靠运气 - 乔木把 4 万字 goal 方法论封装成 skill：把一句话需求翻译成完整任务合同，含验证方式、约束、写入边界、迭代策略、完成条件、暂停条件 - 安装命令：`npx skills add j"
 resource: "https://x.com/i/status/2065632499926257866"
@@ -22,6 +22,13 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "claude-code-engineering-discipline"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2065632499926257866"
+created: "2026-06-13"
+updated: "2026-06-26"
+sha256: "3a602392a906e4240c953f679f9981ce574e8716f379ed4e14b9dad53913618d"
+sources:
+  - "/sources/highlights/2026-06-13/00__gkxspace__乔木把-4-万字-goal-文档做成-skill-codex-claude-跑一晚上不烂尾的真解.md"
 ---
 
 # 乔木把 4 万字 goal 文档做成 Skill：Codex/Claude 跑一晚上不烂尾的真解

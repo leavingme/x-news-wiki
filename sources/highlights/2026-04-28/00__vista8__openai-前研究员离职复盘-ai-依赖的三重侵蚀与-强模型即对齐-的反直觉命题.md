@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "OpenAI 前研究员离职复盘：AI 依赖的三重侵蚀与「强模型即对齐」的反直觉命题"
 description: "**一位 OpenAI 25 人研究团队离职成员的内部视角。**  核心判断：基础模型能力已足够强，下一个真正的前沿在后训练阶段；创建正确的评估方法，有时比创建在该评估上得分高的模型更有影响力。  最反直觉的观点：「更强的模型，反而可能更不容易出现对齐问题，提升模型能力本身就是在解决对齐问题」——这与 Anthropic 的主流叙事（能力越强越危险）直接相左。  还提出了 AI 依赖的三层侵蚀：心"
 resource: "https://x.com/i/status/2049161509931307313"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2049161509931307313"
+created: "2026-04-28"
+updated: "2026-06-26"
+sha256: "89acbbba2f0782e66a985780d16934016a420891a26aaa670b6ff5cc0bd2a73e"
+sources:
+  - "/sources/highlights/2026-04-28/00__vista8__openai-前研究员离职复盘-ai-依赖的三重侵蚀与-强模型即对齐-的反直觉命题.md"
 ---
 
 # OpenAI 前研究员离职复盘：AI 依赖的三重侵蚀与「强模型即对齐」的反直觉命题

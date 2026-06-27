@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Zed获宝玉验证：轻量编辑器的「Token共用」机制正在解决多平台协作的隐性摩擦"
 description: "**核心判断：轻量编辑器的竞争维度正在从「性能」扩展到「账户体系」，多平台Token共享成了新的差异化点。**  - 宝玉实测Zed：内存占用小，且能登录OpenAI和GitHub账户体系，共用Token——这解决了一个实际痛点：在多设备/多工具间切换时，不再需要反复管理API Key。 - 这是个产品细节，但指向了一个更大的问题：在AI编程工具爆发之前，账户和计费的割裂是真实存在的摩擦点。能统一"
 resource: "https://x.com/i/status/2055489040531570740"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2055489040531570740"
+created: "2026-05-16"
+updated: "2026-06-26"
+sha256: "d2da8f2e06e134fd86c01438ac324fd2d2ccf2e4df2d91f33b1e1e390e5cb440"
+sources:
+  - "/sources/news/2026-05-16/00__dotey__zed获宝玉验证-轻量编辑器的-token共用-机制正在解决多平台协作的隐性摩擦.md"
 ---
 
 # Zed获宝玉验证：轻量编辑器的「Token共用」机制正在解决多平台协作的隐性摩擦

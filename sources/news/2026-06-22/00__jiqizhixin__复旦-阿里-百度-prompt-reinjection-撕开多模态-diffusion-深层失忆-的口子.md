@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "复旦+阿里+百度：Prompt Reinjection 撕开多模态 Diffusion '深层失忆'的口子"
 description: "**多模态 Diffusion Transformer 在深层会'忘记'长 prompt，复旦/阿里/百度提出零训练方案：把早期文本特征重新注入到深层。**  - 现象：DiT 类模型随层数加深，文本-图像对齐信号被稀释，导致长 prompt 指令遵循度下降。 - 方案：Prompt Reinjection——在训练-free 前提下，把浅层已提取的文本条件重新注入到中后段 Transformer"
 resource: "https://x.com/i/status/2069052283866988797"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2069052283866988797"
+created: "2026-06-22"
+updated: "2026-06-26"
+sha256: "d5e1127c0fe096afa96f7e268b74b1e1d28f11c21ab69f82bc96696a8a34fdd8"
+sources:
+  - "/sources/news/2026-06-22/00__jiqizhixin__复旦-阿里-百度-prompt-reinjection-撕开多模态-diffusion-深层失忆-的口子.md"
 ---
 
 # 复旦+阿里+百度：Prompt Reinjection 撕开多模态 Diffusion '深层失忆'的口子

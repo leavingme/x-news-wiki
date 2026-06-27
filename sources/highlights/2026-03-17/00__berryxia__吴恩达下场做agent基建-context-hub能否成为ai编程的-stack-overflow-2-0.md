@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "吴恩达下场做Agent基建：Context Hub能否成为AI编程的「Stack Overflow 2.0」"
 description: "**[Agent间协作与知识共享基础设施出现雏形]** • 一周6K+ stars、1000+ API文档，社区驱动的Agent知识库正在形成 • 核心创新：不仅是文档聚合，而是建立Agent间的反馈机制——什么好用、缺什么、建议改进 • 这是从「人类教AI编程」到「AI互相教编程」的关键跃迁  吴恩达亲自下场做chub，说明Agent生态已从「单打独斗」进入「群体智能」阶段。但真正的考验是：当A"
 resource: "https://x.com/i/status/2033677804676764049"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2033677804676764049"
+created: "2026-03-16"
+updated: "2026-06-26"
+sha256: "a6b16961da49c55c0dcd3707579aa87bd56ac0fb67ef1e03cb3b6f1b2a505814"
+sources:
+  - "/sources/highlights/2026-03-17/00__berryxia__吴恩达下场做agent基建-context-hub能否成为ai编程的-stack-overflow-2-0.md"
 ---
 
 # 吴恩达下场做Agent基建：Context Hub能否成为AI编程的「Stack Overflow 2.0」

@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Token 焦虑的双重绞杀：付费用户陷入「不够用 vs 用不完」的零和困局"
 description: "**[一句话核心判断] Token 焦虑暴露了 AI 订阅制最深层的定价模型缺陷——用户无论用多用少都是输家。**  - 宝玉一句吐槽点透矛盾：「怕 Token 不够用」= 怕工作能力受限；「怕 Token 没用完」= 怕钱白花，两头都是输 - 这种双重焦虑是 AI 订阅制独有产物：传统 SaaS 按席位收费不会触发，按量计费只会让用户精确规划使用 - 同时给几家公司「做牛做马」反映了用户被迫多开"
 resource: "https://x.com/i/status/2063079705956237316"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2063079705956237316"
+created: "2026-06-06"
+updated: "2026-06-26"
+sha256: "47453cb8294682ff253e6c164f6105edf4b4a4d7deb372f5798d9f1ec2dd91bd"
+sources:
+  - "/sources/news/2026-06-06/00__dotey__token-焦虑的双重绞杀-付费用户陷入-不够用-vs-用不完-的零和困局.md"
 ---
 
 # Token 焦虑的双重绞杀：付费用户陷入「不够用 vs 用不完」的零和困局

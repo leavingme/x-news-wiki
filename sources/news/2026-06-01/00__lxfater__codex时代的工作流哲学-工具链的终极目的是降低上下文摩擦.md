@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Codex时代的工作流哲学：工具链的终极目的是降低上下文摩擦"
 description: "**[一句话核心判断]**  Codex配套工具的核心价值不是工具本身，而是它们共同构成了一套「无痛提供大量上下文」的上下文管理哲学。  **信息增量：** - 豆包输入法解决中英混杂的语音输入痛点 - Paste一键粘贴检查清单和固定格式 - Obsidian Web Clipper做知识沉淀，后续可喂给AI - Excalidraw让AI先生成草稿再人工修改  **影响：** - 「上下文质量"
 resource: "https://x.com/i/status/2061405018893459791"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2061405018893459791"
+created: "2026-06-01"
+updated: "2026-06-26"
+sha256: "a42f4035c1b207637db64d961ccc645d4d08fdfbe4481843d002aa68f7009e5f"
+sources:
+  - "/sources/news/2026-06-01/00__lxfater__codex时代的工作流哲学-工具链的终极目的是降低上下文摩擦.md"
 ---
 
 # Codex时代的工作流哲学：工具链的终极目的是降低上下文摩擦

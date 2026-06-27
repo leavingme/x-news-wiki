@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "美国生育率再创新低 53.1：AI 自动化的「人口红利」前提正在坍塌"
 description: "**当劳动力供给持续萎缩，AI 不是「替代人类」的威胁，而是「填补缺口」的刚需——叙事框架需要彻底翻转。**  - 2025 年美国总和生育率降至 53.1（每千名育龄妇女），创历史新低；日本、韩国、德国早已进入人口负增长 - 英国预计 2026 年起死亡人数将每年超过出生人数，发达国家劳动力收缩已从个别现象变为系统性趋势 - 这组数据的 AI 含义：当「人不够用」成为结构性约束，AI 自动化从就"
 resource: "https://x.com/XFreeze/status/2050132867519250472"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "ai-trend-digest"
+type_okf: "X Tweet"
+source_url: "https://x.com/XFreeze/status/2050132867519250472"
+created: "2026-05-01"
+updated: "2026-06-26"
+sha256: "35f7135bbc714c2f19266260bbaa4a3cd88f606d94902f6b205af129f14df93a"
+sources:
+  - "/sources/news/2026-05-01/00__XFreeze__美国生育率再创新低-53-1-ai-自动化的-人口红利-前提正在坍塌.md"
 ---
 
 # 美国生育率再创新低 53.1：AI 自动化的「人口红利」前提正在坍塌

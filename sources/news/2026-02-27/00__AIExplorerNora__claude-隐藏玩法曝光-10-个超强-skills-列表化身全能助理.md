@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Claude 隐藏玩法曝光：10 个超强 Skills 列表化身全能助理"
 description: "**[高阶用法]** - 用户发掘出 Claude 的 10 个高阶 Skills 列表用法，打破了“仅为聊天机器人”的刻板印象。 - 覆盖代码编写、运营、文档处理等全场景，实现工作流的“外挂”式升级。  [gakki 锐评]：不要把法拉利当拖拉机开。掌握对的 Prompt 结构和 Skill 组合，大模型的潜力才会被真正释放。"
 resource: "https://x.com/i/status/2027183295910265049"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2027183295910265049"
+created: "2026-02-27"
+updated: "2026-06-26"
+sha256: "0eb0e4f19d8715952d87b0be56215e3787e8302b7d62458d7fca3298e7d87cb0"
+sources:
+  - "/sources/news/2026-02-27/00__AIExplorerNora__claude-隐藏玩法曝光-10-个超强-skills-列表化身全能助理.md"
 ---
 
 # Claude 隐藏玩法曝光：10 个超强 Skills 列表化身全能助理

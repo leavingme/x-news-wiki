@@ -1,5 +1,5 @@
 ---
-type: "Author"
+type: "entity"
 title: "Department of War 🇺🇸 (@DeptofWar)"
 description: "X/Twitter 作者 @DeptofWar。共收录 1 条 AI 精选推文。"
 tags:
@@ -12,6 +12,12 @@ x_author_name: "Department of War 🇺🇸"
 x_tweet_count: 1
 x_first_seen: "2026-05-08T16:17:39.666Z"
 x_last_seen: "2026-05-08T16:17:39.666Z"
+type_okf: "Author"
+created: "2026-05-08"
+updated: "2026-06-26"
+sha256: "9c0d12bc4cde9dadfb7efa99df8052534944f4342b6b2f0b31ca694b893f91bb"
+sources:
+  - "/sources/news/2026-05-08/00__DeptofWar__美国国防部发布-uap-解密文件-ai-时代的-信息透明-正在成为政治筹码.md"
 ---
 
 # Department of War 🇺🇸 (@DeptofWar)

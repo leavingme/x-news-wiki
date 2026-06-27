@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Sato Token 深度拆解：2100 万硬顶 + 自锁机制，用智能合约复刻 BTC 减半时间表"
 description: "**这不是又一个 Meme 币，而是一次用合约逻辑「压缩」BTC 经济模型的链上实验。**  - 2100 万总供给精确映射 BTC 上限，99% 自锁阈值（2079 万）对应 BTC 约 2035 年第六次减半临界点 - 基于 Uniswap v4 hook 构建指数型 bonding curve，每笔买入抬高下一价格，到硬上限永久自锁 - 项目方一字未提 BTC 对应关系，白皮书无注脚——「映"
 resource: "https://x.com/798_eth/status/2051127322124988479"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "ai-trend-digest"
+type_okf: "X Tweet"
+source_url: "https://x.com/798_eth/status/2051127322124988479"
+created: "2026-05-04"
+updated: "2026-06-26"
+sha256: "98406e28a3cef194c2242abc702f834c520dff03b5d94d7c05be44b9cc8ae9ec"
+sources:
+  - "/sources/news/2026-05-04/00__798_eth__sato-token-深度拆解-2100-万硬顶-自锁机制-用智能合约复刻-btc-减半时间表.md"
 ---
 
 # Sato Token 深度拆解：2100 万硬顶 + 自锁机制，用智能合约复刻 BTC 减半时间表

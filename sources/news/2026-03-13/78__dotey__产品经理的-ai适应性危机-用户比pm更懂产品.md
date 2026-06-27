@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "产品经理的「AI适应性危机」：用户比PM更懂产品"
 description: "**[传统产品经理正在失去「需求翻译」的核心价值]** • 用户直接当产品经理的趋势加速，中间层的「需求洞察」职能被AI稀释 •  implications：产品角色从「定义需求」转向「搭建AI工作流」  gakki 锐评：产品经理的黄昏不是AI取代人，是用户直接对话AI。未来的PM可能是「AI工作流架构师」，而不是写PRD的人。"
 resource: "https://x.com/i/status/2032260011309584737"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 78
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2032260011309584737"
+created: "2026-03-13"
+updated: "2026-06-26"
+sha256: "a002c404fa98597f62a8fc9c4e0c6f9473fa44c45fdfd1cc06d4207e508f3a99"
+sources:
+  - "/sources/news/2026-03-13/78__dotey__产品经理的-ai适应性危机-用户比pm更懂产品.md"
 ---
 
 # 产品经理的「AI适应性危机」：用户比PM更懂产品

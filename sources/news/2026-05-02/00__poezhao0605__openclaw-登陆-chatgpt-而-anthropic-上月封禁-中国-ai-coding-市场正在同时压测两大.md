@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "OpenClaw 登陆 ChatGPT 而 Anthropic 上月封禁：中国 AI Coding 市场正在同时压测两大阵营的 Agent 生态策略"
 description: "**OpenClaw 成为 OpenAI 与 Anthropic Agent 生态路线之争的活体试剂。**  - Sam Altman 亲自欢迎 OpenClaw 入驻 ChatGPT，而 Anthropic 上月刚将其封禁——同一开源项目，两种截然相反的平台态度 - 中国 AI Coding 市场成为天然对照组，开发者同时在两个生态中跑 OpenClaw，形成罕见的 A/B 压力测试 - Poe"
 resource: "https://x.com/poezhao0605/status/2050576077614141783"
@@ -22,6 +22,13 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "open-agent-ecosystem"
 x_source: "ai-trend-digest"
+type_okf: "X Tweet"
+source_url: "https://x.com/poezhao0605/status/2050576077614141783"
+created: "2026-05-02"
+updated: "2026-06-26"
+sha256: "67409810914c142118dab75a291786330936e63e0e0f689c6096bc28431e3ca6"
+sources:
+  - "/sources/news/2026-05-02/00__poezhao0605__openclaw-登陆-chatgpt-而-anthropic-上月封禁-中国-ai-coding-市场正在同时压测两大.md"
 ---
 
 # OpenClaw 登陆 ChatGPT 而 Anthropic 上月封禁：中国 AI Coding 市场正在同时压测两大阵营的 Agent 生态策略

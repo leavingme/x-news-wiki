@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Keep4o 倡议升级：模型下架应有强制标准与第三方审计，不只是 4o"
 description: "**粟粟将 Keep4o 运动扩展为一项系统性提案：要求对所有模型退场建立强制标准流程并引入第三方机构审计。** - 提案核心：模型下架不能由厂商单方面决定，需评估对用户的实际影响并公开审计结果 - 覆盖范围超出 OpenAI：同时呼吁 Google Gemini 系列（3 Pro、5.1）等模型适用相同标准 - 以「弹药」为喻，鼓励其他受影响用户引用该提案推动机构层面响应  gakki：从情绪化"
 resource: "https://x.com/i/status/2028618012614664469"
@@ -22,6 +22,13 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "gpt45-emotional-intelligence"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2028618012614664469"
+created: "2026-03-02"
+updated: "2026-06-26"
+sha256: "9f8e47033a0ea7361527f159b527aa9170d82e96274a9df7e7401cfc9d5ada36"
+sources:
+  - "/sources/highlights/2026-03-03/00__susu_space__keep4o-倡议升级-模型下架应有强制标准与第三方审计-不只是-4o.md"
 ---
 
 # Keep4o 倡议升级：模型下架应有强制标准与第三方审计，不只是 4o

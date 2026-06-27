@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Reagent：不是给答案打分，而是给每一步推理「挑毛病」"
 description: "**实时推理纠错的粒度革命：从终点评价到过程解剖。**  - CUHK 与美团团队提出 Reagent，对每个推理步骤提供详细批判 - 识别具体逻辑缺陷，给 Agent 结构化路线图实时修正思维 - 12 个基准测试性能大幅提升，证明「过程监督」优于「结果监督」  Agent 训练的下一个前沿：不是奖励正确答案，而是惩罚错误思考路径。"
 resource: "https://x.com/i/status/2028316049691803909"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2028316049691803909"
+created: "2026-03-02"
+updated: "2026-06-26"
+sha256: "423e9fe4614261ffa8a2ccc634702edca45988088160beeb4a7da9d94d86cc43"
+sources:
+  - "/sources/highlights/2026-03-02/00__jiqizhixin__reagent-不是给答案打分-而是给每一步推理-挑毛病.md"
 ---
 
 # Reagent：不是给答案打分，而是给每一步推理「挑毛病」

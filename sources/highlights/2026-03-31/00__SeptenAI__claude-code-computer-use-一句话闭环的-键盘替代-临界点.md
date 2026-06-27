@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Claude Code Computer Use：一句话闭环的「键盘替代」临界点"
 description: "**Claude Code 上线 Computer Use 功能，标志着 AI Agent 从「辅助编码」向「端到端任务执行」的范式跃迁。**  • 单条 prompt 即可完成「写代码→编译→启动→测试→修复→验证」的完整闭环，实现真正无人值守 • 这是 Agent 能力从「对话界面」向「系统级操作」的跨越，对现有 IDE 和自动化工具形成替代威胁 • 技术门槛进一步降低，「自然语言即代码」的愿"
 resource: "https://x.com/i/status/2038805249167966687"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2038805249167966687"
+created: "2026-03-31"
+updated: "2026-06-26"
+sha256: "67ce96c6b8150e728e92cff56a82a49278325e0863a9369700917a03fbf6e12a"
+sources:
+  - "/sources/highlights/2026-03-31/00__SeptenAI__claude-code-computer-use-一句话闭环的-键盘替代-临界点.md"
 ---
 
 # Claude Code Computer Use：一句话闭环的「键盘替代」临界点

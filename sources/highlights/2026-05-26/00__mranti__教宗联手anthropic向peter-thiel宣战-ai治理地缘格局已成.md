@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "教宗联手Anthropic向Peter Thiel宣战：AI治理地缘格局已成"
 description: "**【一句话核心判断】** 教宗良十四世已从精神符号转化为AI地缘政治玩家，其 encyclical 正在构建一个以梵蒂冈为锚点、联合 Anthropic 制衡科技寡头（Peter Thiel 系）的新叙事轴线。  **信息增量：** - Michael Anti 指出教廷\"上了 Anthropic 公关的当\"后迅速调整：encyclical 文本多处与 Anthropic 橙皮书存在根本冲突，反"
 resource: "https://x.com/i/status/2059118028537868577"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2059118028537868577"
+created: "2026-05-26"
+updated: "2026-06-26"
+sha256: "ac981dac8efda68e11b2ed602e18f20f0aed977e18dc5feef8d6a0d380069798"
+sources:
+  - "/sources/highlights/2026-05-26/00__mranti__教宗联手anthropic向peter-thiel宣战-ai治理地缘格局已成.md"
 ---
 
 # 教宗联手Anthropic向Peter Thiel宣战：AI治理地缘格局已成

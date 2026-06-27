@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Claude Code 链上研报流水线：四工具串联的 Alpha 工业化生产"
 description: "**从 Token 发现到研报输出，链上研究的端到端自动化已成现实。**  • 四工具闭环：onchainos（链上数据）+ opentwitter-mcp（情报）+ deep-research（方法论）+ excalidraw-diagram（可视化） • 全程单句指令驱动，实现「原始信号→专业研报」的零摩擦转化 • 已开源，降低同类工作流复制成本   这是「Agent 数据情报基础设施」专题的"
 resource: "https://x.com/i/status/2031369127789510804"
@@ -22,6 +22,13 @@ x_selected: 2
 x_priority: 85
 x_related_topic: "ai-crypto-agent-infra"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2031369127789510804"
+created: "2026-03-10"
+updated: "2026-06-26"
+sha256: "6a1fec81511cc4721e3acc83a67e5a004db8997c02489550ae4d2f8fb87ff8ff"
+sources:
+  - "/sources/highlights/2026-03-14/85__GoSailGlobal__claude-code-链上研报流水线-四工具串联的-alpha-工业化生产.md"
 ---
 
 # Claude Code 链上研报流水线：四工具串联的 Alpha 工业化生产

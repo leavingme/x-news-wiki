@@ -1,5 +1,5 @@
 ---
-type: "Author"
+type: "entity"
 title: "maxl (@heismaxl)"
 description: "X/Twitter 作者 @heismaxl。共收录 1 条 AI 精选推文。"
 tags:
@@ -12,6 +12,12 @@ x_author_name: "maxl"
 x_tweet_count: 1
 x_first_seen: "2026-02-03T11:53:47.481Z"
 x_last_seen: "2026-02-03T11:53:47.481Z"
+type_okf: "Author"
+created: "2026-02-03"
+updated: "2026-06-26"
+sha256: "60eab845923ad72b8cd29f3e16e2238d90a9aac84176814b9bec5f37ce951719"
+sources:
+  - "/sources/news/2026-02-03/00__heismaxl__数字文明的反思-chatandbuild-dgrid-与-permawebdao-的自我审视.md"
 ---
 
 # maxl (@heismaxl)

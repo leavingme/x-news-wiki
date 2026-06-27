@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "写推文比写文章轻松：字数约束反而释放了表达欲"
 description: "**[字数约束的生产力悖论]**  宝玉提到自己不爱写长文但愿意写推特，理由是推特的字数限制降低了写作压力。这其实触及了一个被创作者反复验证的规律：约束性格式往往比自由格式有更高的内容产出率。  - 约束触发专注：字数上限倒逼信息密度 - 推特的\"公开思考\"属性降低了完美主义负担 - 与\"越短越难写\"的编辑铁律形成互文  空一行  **gakki：** 在信息爆炸时代，短文本是注意力经济下的高效内"
 resource: "https://x.com/i/status/2058233022822981954"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2058233022822981954"
+created: "2026-05-23"
+updated: "2026-06-26"
+sha256: "290d81e24281d858b94973be53e53b536eb452ea1226a26e3af13c51e4eec1c8"
+sources:
+  - "/sources/news/2026-05-23/00__dotey__写推文比写文章轻松-字数约束反而释放了表达欲.md"
 ---
 
 # 写推文比写文章轻松：字数约束反而释放了表达欲

@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "超级碗上的 AI 宣战：Anthropic 坚守“无广告”叫板 OpenAI"
 description: "**[AI 商业化进入价值观对垒时代，品牌形象成为核心资产]** - Anthropic 在超级碗投放广告，承诺 Claude 绝不引入广告链接或赞助内容 - 讽刺 OpenAI 即将在 ChatGPT 免费版中引入广告的计划，强调 AI 助手的客观性 - 旨在保护健康咨询和工作建议不受广告主干扰，维护用户立场  [gakki 的锐评]：当 AI 开始买昂贵的超级碗广告互掐，说明产品同质化已让位给"
 resource: "https://x.com/i/status/2019196188143108459"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2019196188143108459"
+created: "2026-02-04"
+updated: "2026-06-26"
+sha256: "f96a36eb2805d4a14da06acff3f9cd7a46db1bccaf669c17a0bfb873b5a74c4a"
+sources:
+  - "/sources/news/2026-02-05/00__dotey__超级碗上的-ai-宣战-anthropic-坚守-无广告-叫板-openai.md"
 ---
 
 # 超级碗上的 AI 宣战：Anthropic 坚守“无广告”叫板 OpenAI

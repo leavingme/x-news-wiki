@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "飞书+Codex工作流验证：Zara Zhang开源项目已支持GPT Image 2画图，Claude订阅独立计费的绕过方案"
 description: "**一句话核心判断**  Zara Zhang维护的feishu-claude-code-bridge项目在6月15日Claude订阅独立计费前紧急升级，追加Codex支持，用户可用飞书控制Codex调用GPT Image 2完成「抓取翻译→生成中文手绘信息图→落地飞书文档」的全流程。  **信息增量** - 绕过Claude订阅涨价的新路径：Codex CLI + 飞书bridge可完全替代Cl"
 resource: "https://x.com/i/status/2062415262893134321"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2062415262893134321"
+created: "2026-06-04"
+updated: "2026-06-26"
+sha256: "3820f64e87e08bac00f68e46c25c49646ee6be3fbe56adccfb391eaeff2448f0"
+sources:
+  - "/sources/news/2026-06-04/00__dotey__飞书-codex工作流验证-zara-zhang开源项目已支持gpt-image-2画图-claude订阅独立计费的绕过.md"
 ---
 
 # 飞书+Codex工作流验证：Zara Zhang开源项目已支持GPT Image 2画图，Claude订阅独立计费的绕过方案

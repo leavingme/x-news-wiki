@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Claude Code变飞书机器人：本地AI工具与超级IM平台整合的节点信号"
 description: "**[飞书正在成为AI Agent的「操作系统级」入口]**  Zara开源的lark-channel-bridge让Claude Code直接在飞书里跑，这意味着：IM平台从「聊天工具」升级为「Agent调度界面」，手机端用飞书操控本地Claude Code完成复杂任务成为现实。  四大体验优势全切中痛点：消息转Agent处理、可交互卡片、生成的图片/文件直接渲染、全量搜索不怕上下文压缩。这不是"
 resource: "https://x.com/i/status/2057751033615700128"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2057751033615700128"
+created: "2026-05-22"
+updated: "2026-06-26"
+sha256: "64b80fa30d93a3661437147a4f49a09dac6320b719bfbf049e048ccc8da0f206"
+sources:
+  - "/sources/news/2026-05-22/00__vista8__claude-code变飞书机器人-本地ai工具与超级im平台整合的节点信号.md"
 ---
 
 # Claude Code变飞书机器人：本地AI工具与超级IM平台整合的节点信号

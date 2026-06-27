@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "阿里AIDC出海爆火：跨境电商AI工具的「内外信息差」暴露生态失衡"
 description: "**[大厂AI工具出海暴露国内信息差]** • 阿里AIDC整合选品、利润计算、文案生成、视觉素材一站式自动化，让零背景用户可直接上线运营 • 上千万海外用户已使用，国内卖家却鲜为人知，技术平权红利分配不均 • 大厂优先投放海外市场的策略，正在重构跨境电商竞争维度  阿里把最锋利的刀先递给了海外竞争对手，国内卖家的认知滞后本身就是最大的商业风险。"
 resource: "https://x.com/i/status/2037481815405998466"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2037481815405998466"
+created: "2026-03-27"
+updated: "2026-06-26"
+sha256: "f42126fde90590e7afe02e63a03169db626ba96e7c8236e13f76ba97ed67e6f3"
+sources:
+  - "/sources/highlights/2026-03-28/00__noexcuse555__阿里aidc出海爆火-跨境电商ai工具的-内外信息差-暴露生态失衡.md"
 ---
 
 # 阿里AIDC出海爆火：跨境电商AI工具的「内外信息差」暴露生态失衡

@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "OpenAI 开源 Symphony：「一个任务一个 AI 员工」的编排范式浮出水面"
 description: "**OpenAI 开源 Symphony 框架，核心理念是为每个任务配置一个持久化的 AI 工作单元，从单次调用走向持续执行的 Agent 编排。**  - 将任务粒度与 Agent 实例一一绑定，简化了多任务并行的认知模型 - 开源释放意味着 OpenAI 在 Agent 编排层不再试图独占，而是拉生态  gakki 锐评：Symphony 的哲学很清晰——复杂度应该在编排层而非模型层消化。但开"
 resource: "https://x.com/i/status/2049484504444834126"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2049484504444834126"
+created: "2026-04-29"
+updated: "2026-06-26"
+sha256: "ca02fa7119c69536acb9294f1fb2dddc94db1fd537b1ee62dcf6f2f293ba64b1"
+sources:
+  - "/sources/news/2026-04-29/00__vista8__openai-开源-symphony-一个任务一个-ai-员工-的编排范式浮出水面.md"
 ---
 
 # OpenAI 开源 Symphony：「一个任务一个 AI 员工」的编排范式浮出水面

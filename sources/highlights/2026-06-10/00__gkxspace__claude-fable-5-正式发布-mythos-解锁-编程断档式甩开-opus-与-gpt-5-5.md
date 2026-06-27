@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Claude Fable 5 正式发布：Mythos 解锁，编程断档式甩开 Opus 与 GPT-5.5"
 description: "**Anthropic 端出 Claude 史上最强模型 Fable 5，编程维度对 Opus 4.8 / GPT-5.5 形成代差。**  - Every 高级工程师实测：Fable 5 拿 91 分逼近人类水平，Opus 4.8 与 GPT-5.5 卡在 60 出头，任务越长领先越大，能连续跑好几天。 - 真实用例：清生产环境 bug 积压、一次性交付可玩的 3D 游戏，长程任务能力是核心增量"
 resource: "https://x.com/i/status/2064474117068231083"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2064474117068231083"
+created: "2026-06-09"
+updated: "2026-06-26"
+sha256: "90d13df0d973b620242f5a4bb403dcfd0aa2321db5fbb240c4999252aa549cba"
+sources:
+  - "/sources/highlights/2026-06-10/00__gkxspace__claude-fable-5-正式发布-mythos-解锁-编程断档式甩开-opus-与-gpt-5-5.md"
 ---
 
 # Claude Fable 5 正式发布：Mythos 解锁，编程断档式甩开 Opus 与 GPT-5.5

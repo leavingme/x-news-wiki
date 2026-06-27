@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "yuxin 被加密课程蹭热度诋毁，线下交集者披露真实一面"
 description: "**[AI Agent 创业圈层矛盾：技术圈内部对 OpenClaw 生态路线的分歧具象化]**  Rourou 讲述与 yuxin（OpenClaw 创始人）的线下交集：yuxin 在身体不适迟到的情况下主动买所有人的单，聊以太坊和工作时「眼睛里有光」，对 OpenClaw 事业有真实的热情。Rourou 批评加密课程方蹭热度和诋毁。  要点： - OpenClaw 生态近期遭到加密课程圈攻击，"
 resource: "https://x.com/i/status/2062071775421427768"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2062071775421427768"
+created: "2026-06-03"
+updated: "2026-06-26"
+sha256: "a54200aafe6500bce0ee4b960e868798989c7b7473d950060b7358a5d5cca75b"
+sources:
+  - "/sources/news/2026-06-03/00__Rourou0413__yuxin-被加密课程蹭热度诋毁-线下交集者披露真实一面.md"
 ---
 
 # yuxin 被加密课程蹭热度诋毁，线下交集者披露真实一面

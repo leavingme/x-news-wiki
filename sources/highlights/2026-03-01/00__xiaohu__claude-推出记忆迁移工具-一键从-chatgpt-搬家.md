@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Claude 推出记忆迁移工具，一键从 ChatGPT 搬家"
 description: "Anthropic 上线 Memory Import 工具，支持将 ChatGPT、Gemini 等 AI 助手的个人偏好和上下文记忆一键导入 Claude，直接写入系统无需插件，三步完成迁移。"
 resource: "https://x.com/i/status/2027988341938122846"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2027988341938122846"
+created: "2026-03-01"
+updated: "2026-06-26"
+sha256: "3ad76dac666b4b32e04168beb7c18c3993c15acd965571e7d9d6d3741d839814"
+sources:
+  - "/sources/highlights/2026-03-01/00__xiaohu__claude-推出记忆迁移工具-一键从-chatgpt-搬家.md"
 ---
 
 # Claude 推出记忆迁移工具，一键从 ChatGPT 搬家

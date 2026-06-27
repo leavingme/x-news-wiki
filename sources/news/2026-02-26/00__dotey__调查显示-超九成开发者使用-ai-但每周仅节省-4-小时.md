@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "调查显示：超九成开发者使用 AI 但每周仅节省 4 小时"
 description: "**[核心逻辑]** AI 编程工具的高渗透率与实际生产力提升之间仍存在巨大落差。  - 调查数据显示，高达 92.6% 的开发者每月都在使用 AI 编码助手。 - 但这并未带来指数级的效率飞跃，每周平均只节省了 4 小时。  [gakki 的锐评] 代码写得快了，但修 Bug 和对齐需求的时间没变。目前的 AI 只是把打字机的速度拉满了，还没能彻底改变工程链条。"
 resource: "https://x.com/i/status/2026755174761431119"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2026755174761431119"
+created: "2026-02-25"
+updated: "2026-06-26"
+sha256: "e64319b4a6483421cb37500abed265f4250827d109699b6090f6e3da82fef236"
+sources:
+  - "/sources/news/2026-02-26/00__dotey__调查显示-超九成开发者使用-ai-但每周仅节省-4-小时.md"
 ---
 
 # 调查显示：超九成开发者使用 AI 但每周仅节省 4 小时

@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Twitter 订阅账号拉黑惩罚机制：平台对高价值创作者的经济控制权正在强化"
 description: "**核心判断：Twitter 对被订阅账号拉黑者施加流量惩罚，暴露了平台经济中『用户资产不属于用户』的结构性风险，且这一机制正在被广泛应用。**  - 当一个账号被订阅用户拉黑，Twitter 会对其施加明显的流量惩罚，机制已相对成熟 - 此机制的不透明性使得创作者必须时刻警惕与订阅者的关系维护 - 歸藏 特别提醒『动动小手』举报此类行为，显示社区已开始主动抵制  **gakki 判断**：订阅经"
 resource: "https://x.com/i/status/2058202152536011050"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2058202152536011050"
+created: "2026-05-23"
+updated: "2026-06-26"
+sha256: "8d87ed83582af54f3d5fdca73ddb904dd2621aee40766528c17de57617df348d"
+sources:
+  - "/sources/news/2026-05-23/00__op7418__twitter-订阅账号拉黑惩罚机制-平台对高价值创作者的经济控制权正在强化.md"
 ---
 
 # Twitter 订阅账号拉黑惩罚机制：平台对高价值创作者的经济控制权正在强化

@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Qwen 3.5 Small：9B 掀翻 120B 的「边缘 Agent 拐点」已至"
 description: "**阿里开源 9B 小模型，以 13 倍参数压缩比挑战 GPT OSS 120B，部分基准超越 Gemini 3 Flash 和 Claude Sonnet 4.5。** - 纯血开源 + 完全免费，轻薄本和手机均可本地运行 - 标志着「小模型+端侧算力」路线开始具备生产级可用性 - 对 Agent 开发者而言，这意味着低成本私有化部署成为可能  gakki 锐评：大模型军备竞赛进入「轻量化反攻」"
 resource: "https://x.com/i/status/2028611067387974021"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 85
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2028611067387974021"
+created: "2026-03-02"
+updated: "2026-06-26"
+sha256: "be7f2c64515616b38d7ab069f5ea3817e3f8401d7cc73b5c5e16d96f14d8098b"
+sources:
+  - "/sources/news/2026-03-06/85__Tz_2022__qwen-3-5-small-9b-掀翻-120b-的-边缘-agent-拐点-已至.md"
 ---
 
 # Qwen 3.5 Small：9B 掀翻 120B 的「边缘 Agent 拐点」已至

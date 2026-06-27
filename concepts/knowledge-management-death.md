@@ -1,5 +1,5 @@
 ---
-type: "Concept"
+type: "concept"
 title: "knowledge-management-death"
 description: "跨日主题 \"knowledge-management-death\"，共 1 条相关精选推文。"
 tags:
@@ -11,6 +11,12 @@ x_topic_slug: "knowledge-management-death"
 x_tweet_count: 1
 x_first_seen: "2026-04-04T00:42:49.523Z"
 x_last_seen: "2026-04-04T00:42:49.523Z"
+type_okf: "Concept"
+created: "2026-04-04"
+updated: "2026-06-26"
+sha256: "22d8e9b607608e262b4fc8752803525ad90caf7617be132d7f8c855093964cd8"
+sources:
+  - "/sources/news/2026-04-04/00__op7418__karpathy-本地-ai-知识库方法论-raw-目录-markdown-wiki-的-第二大脑-范式.md"
 ---
 
 # 主题: knowledge-management-death

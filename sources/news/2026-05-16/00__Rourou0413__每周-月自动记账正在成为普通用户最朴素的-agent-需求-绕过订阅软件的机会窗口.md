@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "每周/月自动记账正在成为普通用户最朴素的 Agent 需求：绕过订阅软件的机会窗口"
 description: "**【一句话核心判断】**  Rourou 提出用 Agent 做每周/月定期记账这一场景，指向 AI 在C端「替代订阅软件」的高频入口。  **信息增量：** - 用户实际需要的不是 AI 记账能力本身，而是一个「定期自动执行、输出结构化结果」的执行单元 - 这与现有记账 App 的根本区别：用户无需打开 App，Agent 主动推送结果 - 该需求与定时任务（cron）+自然语言处理结合，可形"
 resource: "https://x.com/i/status/2055658804814213210"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2055658804814213210"
+created: "2026-05-16"
+updated: "2026-06-26"
+sha256: "90501bf5c2c29c0ce055fb8b2a0db2ebd9a19da7138bbdefcfee710cb82f4cdb"
+sources:
+  - "/sources/news/2026-05-16/00__Rourou0413__每周-月自动记账正在成为普通用户最朴素的-agent-需求-绕过订阅软件的机会窗口.md"
 ---
 
 # 每周/月自动记账正在成为普通用户最朴素的 Agent 需求：绕过订阅软件的机会窗口

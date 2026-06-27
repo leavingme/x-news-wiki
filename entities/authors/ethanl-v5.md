@@ -1,5 +1,5 @@
 ---
-type: "Author"
+type: "entity"
 title: "Ethan L (@EthanL_v5)"
 description: "X/Twitter 作者 @EthanL_v5。共收录 1 条 AI 精选推文。"
 tags:
@@ -12,6 +12,12 @@ x_author_name: "Ethan L"
 x_tweet_count: 1
 x_first_seen: "2026-02-27T01:00:44.625Z"
 x_last_seen: "2026-02-27T01:00:44.625Z"
+type_okf: "Author"
+created: "2026-02-27"
+updated: "2026-06-26"
+sha256: "593de7402b9a03999d8ff140d95b5c0e3db391922d7887432788035d1904ce3a"
+sources:
+  - "/sources/news/2026-02-27/00__EthanL_v5__二合一-ai-工作台新形态-claude-code-融合小龙虾-bot.md"
 ---
 
 # Ethan L (@EthanL_v5)

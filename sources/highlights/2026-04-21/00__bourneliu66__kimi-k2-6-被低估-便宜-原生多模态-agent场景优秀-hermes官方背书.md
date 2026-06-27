@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Kimi K2.6 被低估：便宜+原生多模态+Agent场景优秀，Hermes官方背书"
 description: "**一句话核心判断：Kimi K2.6 在开源 Agent 生态里跑出了被严重低估的成绩，便宜+不排队+原生多模态+Agent适配优秀，这是一张被忽视的牌。**  - 价格低、不用抢、能力强，原生多模态设计 - 在 Agent 场景里表现优秀，被 Hermes Agent 官方点名表扬 - 性价比路线在国产模型里走出了差异化，Agent 生态正在成为模型能力的新战场  刘小排的判断有一定道理：Ki"
 resource: "https://x.com/i/status/2046479442713924037"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2046479442713924037"
+created: "2026-04-21"
+updated: "2026-06-26"
+sha256: "d5f40ff539017944ebe08efc5b1d8d7bd9476019248383f8bb49c79c1ae56f75"
+sources:
+  - "/sources/highlights/2026-04-21/00__bourneliu66__kimi-k2-6-被低估-便宜-原生多模态-agent场景优秀-hermes官方背书.md"
 ---
 
 # Kimi K2.6 被低估：便宜+原生多模态+Agent场景优秀，Hermes官方背书

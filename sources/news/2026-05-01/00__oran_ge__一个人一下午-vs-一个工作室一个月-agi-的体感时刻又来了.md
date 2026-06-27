@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "一个人一下午 vs 一个工作室一个月：AGI 的体感时刻又来了"
 description: "**当「一个工作室一个月的产出」被压缩到「一个人一下午」，这不是效率提升，是生产关系的断裂。**  - 藏师傅的录屏演示让资深从业者被「彻底震撼」，说明 AI 创作工具已跨越专业门槛 - 这类体感案例比任何 Benchmark 都有传播力——「Feel the AGI」正在从口号变成可复现的体验 - 边界：震撼来自视觉类创意工作，工程复杂度更高的场景尚未出现同等压缩比"
 resource: "https://x.com/i/status/2050027932954022392"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2050027932954022392"
+created: "2026-05-01"
+updated: "2026-06-26"
+sha256: "6cf225277e4d2be3520c17a7ce83b0927116f39f4a03c81154c28a238737a978"
+sources:
+  - "/sources/news/2026-05-01/00__oran_ge__一个人一下午-vs-一个工作室一个月-agi-的体感时刻又来了.md"
 ---
 
 # 一个人一下午 vs 一个工作室一个月：AGI 的体感时刻又来了

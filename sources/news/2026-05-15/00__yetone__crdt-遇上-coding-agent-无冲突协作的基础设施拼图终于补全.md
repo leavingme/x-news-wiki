@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "CRDT 遇上 Coding Agent：无冲突协作的基础设施拼图终于补全"
 description: "**【多 Agent 协作写作的\"无冲突协议\"首次被概念性连接】**  yetone 的这条极短推文将 CRDT（Conflict-free Replicated Data Types）与 Coding Agent 直接挂钩。CRDT 是分布式系统中解决多节点并发写入冲突的核心数据结构，Codex 等 coding agent 若引入 CRDT 机制，意味着多个 agent 对同一代码库的并行修改"
 resource: "https://x.com/i/status/2055146460052926917"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2055146460052926917"
+created: "2026-05-15"
+updated: "2026-06-26"
+sha256: "1120a09a56bb0758dbc5cc53214c115d53f2444d3f5accbb994d47dcc0715a3b"
+sources:
+  - "/sources/news/2026-05-15/00__yetone__crdt-遇上-coding-agent-无冲突协作的基础设施拼图终于补全.md"
 ---
 
 # CRDT 遇上 Coding Agent：无冲突协作的基础设施拼图终于补全

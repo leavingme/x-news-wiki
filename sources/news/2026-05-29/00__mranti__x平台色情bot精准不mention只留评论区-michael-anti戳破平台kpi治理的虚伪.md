@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "X平台色情bot精准不mention只留评论区：Michael Anti戳破平台KPI治理的虚伪"
 description: "**平台治理的选择性失明：精准不提醒但不删，留着堆高日活**  X平台（Twitter）面对色情bot的策略被知名科技评论人Michael Anti公开质疑：平台选择性地不提醒用户被机器人提及，但保留这些bot继续活跃在评论区。  这个操作的成本收益逻辑很简单：删号减少MAU，不删增加互动数据。KPI设计决定了平台对恶意行为的容忍度，而非用户安全。  这不是技术问题，是激励结构问题。  gakki"
 resource: "https://x.com/i/status/2060171901704741348"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2060171901704741348"
+created: "2026-05-29"
+updated: "2026-06-26"
+sha256: "e98ae5ac44f0458412a38d771cbda8755820e93279194832e3d6a29179b3c60a"
+sources:
+  - "/sources/news/2026-05-29/00__mranti__x平台色情bot精准不mention只留评论区-michael-anti戳破平台kpi治理的虚伪.md"
 ---
 
 # X平台色情bot精准不mention只留评论区：Michael Anti戳破平台KPI治理的虚伪

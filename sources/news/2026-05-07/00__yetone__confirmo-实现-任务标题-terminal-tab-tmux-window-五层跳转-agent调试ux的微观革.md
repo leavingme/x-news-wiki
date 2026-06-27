@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Confirmo 实现「任务标题→Terminal→Tab→Tmux→Window」五层跳转：Agent调试UX的微观革命"
 description: "**开发者工具的竞争已经深入到「第五层嵌套」的细节。**  - 点击任务标题自动跳转到对应Terminal中的Tab、Tmux中的Window——五层上下文精准定位 - 这解决了Agent多任务并行时最痛苦的「我的代码跑哪去了」问题 - 微观UX改进，但反映的是Agent工具链从「能用」到「好用」的质变  gakki锐评：当开发者工具开始优化「第五层嵌套的跳转体验」，说明Agent开发已经进入了「"
 resource: "https://x.com/i/status/2052392875191861544"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2052392875191861544"
+created: "2026-05-07"
+updated: "2026-06-26"
+sha256: "2bf4e118c1e20e11f3b10c62c52e7521729b05c7fa63fab04f3985ec86fc3295"
+sources:
+  - "/sources/news/2026-05-07/00__yetone__confirmo-实现-任务标题-terminal-tab-tmux-window-五层跳转-agent调试ux的微观革.md"
 ---
 
 # Confirmo 实现「任务标题→Terminal→Tab→Tmux→Window」五层跳转：Agent调试UX的微观革命

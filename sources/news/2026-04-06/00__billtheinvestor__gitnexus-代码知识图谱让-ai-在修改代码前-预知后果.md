@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "GitNexus：代码知识图谱让 AI 在修改代码前「预知后果」"
 description: "**[代码智能层的新基建——影响范围分析取代盲改]**  GitNexus 开源的代码知识图谱引擎不是文档工具，而是完整的代码智能层：通过 Tree-sitter AST 解析将整个代码库索引为图，映射所有调用链、依赖和接口，并在修改前执行影响范围分析。  - 解决 AI Coding 的核心焦虑：改了 A，会不会坏 B - MCP 直接集成 Claude Code、Cursor、Windsurf"
 resource: "https://x.com/i/status/2040885343407501440"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2040885343407501440"
+created: "2026-04-05"
+updated: "2026-06-26"
+sha256: "ce2eb62d5efa3869340ab91746f4401c9e429adb76ee7e99e097fcd79c960618"
+sources:
+  - "/sources/news/2026-04-06/00__billtheinvestor__gitnexus-代码知识图谱让-ai-在修改代码前-预知后果.md"
 ---
 
 # GitNexus：代码知识图谱让 AI 在修改代码前「预知后果」

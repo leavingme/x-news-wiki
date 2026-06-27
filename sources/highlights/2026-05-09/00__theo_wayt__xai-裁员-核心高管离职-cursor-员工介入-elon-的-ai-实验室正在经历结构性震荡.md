@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "xAI 裁员+核心高管离职+Cursor 员工介入：Elon 的 AI 实验室正在经历结构性震荡"
 description: "**xAI 内部动荡信号密集：Grok 团队裁员、Cursor 员工被叫来「解释工作」、3 月加入的核心高管一个月即离职。**  - Grok 多个团队合计裁减约 10 人，覆盖范围超出预期 - 3 月加入、直接向 Elon 汇报的 Devendra Chaplot 仅一个月后离职——这比裁员本身更致命 - Cursor 员工被安排与 xAI 员工开会「解释工作」，暗示 xAI 可能在评估工具链整"
 resource: "https://x.com/theo_wayt/status/2052861439409357001"
@@ -22,6 +22,13 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "ai-talent-flight"
 x_source: "ai-trend-digest"
+type_okf: "X Tweet"
+source_url: "https://x.com/theo_wayt/status/2052861439409357001"
+created: "2026-05-08"
+updated: "2026-06-26"
+sha256: "a571c45e396179b7f621be2875e23b859850e17f4ad182b141225fc76018e3c5"
+sources:
+  - "/sources/highlights/2026-05-09/00__theo_wayt__xai-裁员-核心高管离职-cursor-员工介入-elon-的-ai-实验室正在经历结构性震荡.md"
 ---
 
 # xAI 裁员+核心高管离职+Cursor 员工介入：Elon 的 AI 实验室正在经历结构性震荡

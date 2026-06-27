@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "AgentPay升级：AI智能体「会花钱」背后的支付基础设施军备竞赛"
 description: "**从「只管思考」到「自主消费」——AI Agent的经济闭环补完中**  World Liberty Financial 推出的 AgentPay 迎来重磅更新，核心是原生支持 x402 和 MPP 两大前沿支付协议，使 AI Agent 可以直接向端点发起微支付、解锁付费 API、完成完整 HTTP 工作流。EIP-3009 签名扩展 + 跨链主网接入同步完成。  这是 Agent 经济自主权"
 resource: "https://x.com/i/status/2039136128272662962"
@@ -22,6 +22,13 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "agent-economic-autonomy"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2039136128272662962"
+created: "2026-04-01"
+updated: "2026-06-26"
+sha256: "0edcf01ae4785bc347821387d9ac4c11f053a3b324d7a8ef578521f3cdc0bc35"
+sources:
+  - "/sources/highlights/2026-04-01/00__tangyuan131419__agentpay升级-ai智能体-会花钱-背后的支付基础设施军备竞赛.md"
 ---
 
 # AgentPay升级：AI智能体「会花钱」背后的支付基础设施军备竞赛

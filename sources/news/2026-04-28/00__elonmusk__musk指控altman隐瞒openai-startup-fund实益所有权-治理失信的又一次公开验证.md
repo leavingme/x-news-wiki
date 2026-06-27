@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Musk指控Altman隐瞒OpenAI Startup Fund实益所有权：治理失信的又一次公开验证"
 description: "**一句话核心判断：Altman的「非营利性」人设已在国会证词中被撕开缺口，OpenAI的治理结构正在成为其商业化的定时炸弹。**  • Musk指出Altman在国会作证时声称自己从OpenAI无财务收益，但其实际上拥有OpenAI Startup Fund的实益所有权——这是直接且有据可查的虚假陈述。 • Startup Fund是OpenAI商业化的重要工具，若Altman持有实益所有权，其"
 resource: "https://x.com/elonmusk/status/2048833679791641057"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "ai-trend-digest"
+type_okf: "X Tweet"
+source_url: "https://x.com/elonmusk/status/2048833679791641057"
+created: "2026-04-27"
+updated: "2026-06-26"
+sha256: "c42bf5b95f05ed50e07201f991cc05d93baf1a7542feb363c143fd08fc5828b0"
+sources:
+  - "/sources/news/2026-04-28/00__elonmusk__musk指控altman隐瞒openai-startup-fund实益所有权-治理失信的又一次公开验证.md"
 ---
 
 # Musk指控Altman隐瞒OpenAI Startup Fund实益所有权：治理失信的又一次公开验证

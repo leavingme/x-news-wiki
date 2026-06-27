@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Google Gemma 4 全面转向 Apache 2.0：开源大模型最后一道商业枷锁解除"
 description: "**一句话核心判断：** Google 将 Gemma 4 整体切换至 Apache 2.0 许可，消除了企业使用开源模型的最大合规障碍，端侧小模型（E2B/E4B）联合高通/联发科开发，移动端离线 AI Agent 成为可落地的产品路径。  许可证变化是本质突破：Gemma 3 的 Google 自有许可存在使用限制灰色地带，Gemma 4 切换 Apache 2.0 后，商用、修改、分发均无障"
 resource: "https://x.com/i/status/2039751290897518907"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2039751290897518907"
+created: "2026-04-02"
+updated: "2026-06-26"
+sha256: "1ad2716ae53a7dee38fc8deed29c9c14b09ac5e309966d028b3d595f083ea861"
+sources:
+  - "/sources/highlights/2026-04-02/00__dotey__google-gemma-4-全面转向-apache-2-0-开源大模型最后一道商业枷锁解除.md"
 ---
 
 # Google Gemma 4 全面转向 Apache 2.0：开源大模型最后一道商业枷锁解除

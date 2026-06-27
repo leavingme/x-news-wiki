@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "AnySearch 多源融合排序算法：信息提纯而非堆砌，消除单一信源偏见"
 description: "**[全球信源投票后的共识才是真信息]**  AnySearch 核心算法机制：来自不同信源的相同观点会被算法加权，多个权威信源共同指向的信息置信度提升至最高。该多源融合机制避免单一新闻源的滞后或片面性，确保输出经过全球信源「投票」后的共识而非噪声。  去伪存真 + 消除偏见 = 专业度保障。  **gakki锐评：** 当多数 AI 搜索还在做「信息堆砌」，这种「共识提纯」思路重新定义了「可信」"
 resource: "https://x.com/i/status/2060269219954962656"
@@ -22,6 +22,13 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "agent-data-intelligence-infra"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2060269219954962656"
+created: "2026-05-29"
+updated: "2026-06-26"
+sha256: "b4bb143472939e3d0961f1cad849116e056e41687848b4322424d7ba24c527df"
+sources:
+  - "/sources/highlights/2026-05-29/00__Zesee__anysearch-多源融合排序算法-信息提纯而非堆砌-消除单一信源偏见.md"
 ---
 
 # AnySearch 多源融合排序算法：信息提纯而非堆砌，消除单一信源偏见

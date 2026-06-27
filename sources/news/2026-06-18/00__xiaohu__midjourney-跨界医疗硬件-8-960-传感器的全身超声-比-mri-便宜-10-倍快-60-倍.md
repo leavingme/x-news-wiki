@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Midjourney 跨界医疗硬件：8,960 传感器的全身超声，比 MRI 便宜 10 倍快 60 倍"
 description: "**[AIGC 公司的第二次创业：从生成图片到扫描人体]**  - Midjourney 成立全新部门「Midjourney 医疗」，发布首款硬件：全身超声波计算断层扫描仪 - 设备由 8,960 个独立传感器环绕排列，运动分辨精度达皮米级；初代原型机比 MRI 便宜 10 倍、快 60 倍 - 商业模式直接面向 C 端：开 Spa 店走进去泡个澡完成全身扫描，无辐射 - 含义比硬件本身更大：Mi"
 resource: "https://x.com/i/status/2067435552631394364"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2067435552631394364"
+created: "2026-06-18"
+updated: "2026-06-26"
+sha256: "959ab6db0acf4d849be0622e872862f654c806a592838db3e1cfe2600efeb5a0"
+sources:
+  - "/sources/news/2026-06-18/00__xiaohu__midjourney-跨界医疗硬件-8-960-传感器的全身超声-比-mri-便宜-10-倍快-60-倍.md"
 ---
 
 # Midjourney 跨界医疗硬件：8,960 传感器的全身超声，比 MRI 便宜 10 倍快 60 倍

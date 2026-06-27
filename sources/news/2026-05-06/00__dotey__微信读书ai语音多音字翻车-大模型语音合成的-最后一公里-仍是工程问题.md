@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "微信读书AI语音多音字翻车：大模型语音合成的「最后一公里」仍是工程问题"
 description: "**AI语音合成的音色已经逼近真人，但多音字识别这个「低级错误」正在成为用户体验的致命短板。**  - 宝玉对比喜马拉雅真人版与微信读书AI版，体验差距核心不在音色而在准确性 - 多音字识别是NLP+TTS管线的经典工程问题，理论上大模型有能力解决，但工程落地明显滞后  这暴露了一个普遍现象：AI产品在「惊艳感」上已经及格，但在「不出戏」的基础准确性上仍有明显短板。产品级AI的真正门槛不是能力上限"
 resource: "https://x.com/i/status/2051808036763664442"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2051808036763664442"
+created: "2026-05-05"
+updated: "2026-06-26"
+sha256: "efa1ffc370152a164108bbcedcaa88255e350929c9d9226167a6632edc1ee7fd"
+sources:
+  - "/sources/news/2026-05-06/00__dotey__微信读书ai语音多音字翻车-大模型语音合成的-最后一公里-仍是工程问题.md"
 ---
 
 # 微信读书AI语音多音字翻车：大模型语音合成的「最后一公里」仍是工程问题

@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "anysearch 实战案例库流出，搜索增强工具正在被系统性沉淀"
 description: "**[一句话核心判断]**  anysearch 的实操案例流出，折射出搜索增强工具正从技术极客圈层向更广泛用户群扩散。  - 搜索增强（Search Augmentation）是 AI 应用层最稳定的场景之一，有持续的信息增量需求 - 案例库的流出说明产品已度过\"早期采用者验证期\"，进入\"文档完善与口碑传播\"阶段   **gakki：** 搜索增强是 Agent 工具链中的基础设施，案例库的流出"
 resource: "https://x.com/i/status/2060370700041641990"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2060370700041641990"
+created: "2026-05-29"
+updated: "2026-06-26"
+sha256: "af715cbe169301fd8bf68f4d3d0d57c6aba8c8d0e0dbad0d371cd4deac16527f"
+sources:
+  - "/sources/news/2026-05-29/00__Rourou0413__anysearch-实战案例库流出-搜索增强工具正在被系统性沉淀.md"
 ---
 
 # anysearch 实战案例库流出，搜索增强工具正在被系统性沉淀

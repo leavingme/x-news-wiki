@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "YC W26 物理 AI 赛道 3 倍增长的底层信号：应用层与基础设施层同时出现意味着什么"
 description: "**YC W26 物理 AI 拆解**  YC W26 有 19 家公司切入物理世界——无人机、机器人、卫星、月球酒店。机器人赛道从上轮 W25 到 W26 翻了 3 倍，且应用层和基础设施层同时出现。  历史规律是：当一个赛道的基础设施层和应用层同时冒出苗头，往往是赛道要真正起飞的信号。互联网 1999-2000 年如此，AI 应用 2023-2024 也如此。  **影响：** 这不是资本在赌"
 resource: "https://x.com/i/status/2037793588739023320"
@@ -22,6 +22,13 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "embodied-ai-and-robotics"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2037793588739023320"
+created: "2026-03-28"
+updated: "2026-06-26"
+sha256: "1d70e870caa7e294fd942e26712b718c42c008eb67b14d5be5e135e3b388d612"
+sources:
+  - "/sources/highlights/2026-04-07/00__FinanceYF5__yc-w26-物理-ai-赛道-3-倍增长的底层信号-应用层与基础设施层同时出现意味着什么.md"
 ---
 
 # YC W26 物理 AI 赛道 3 倍增长的底层信号：应用层与基础设施层同时出现意味着什么

@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "罗福莉的「Harness Engineering」觉醒：MiMo团队如何用Agent脚手架重塑研发速度"
 description: "**[Agent脚手架正从「可选项」变为「生存必需品」]** • DeepSeek核心成员罗福莉首次公开分享使用复杂Agent编排系统的经历，用「orchestrated Context」定义Harness Engineering核心 • 下达强硬指令「对话数不到100条可辞职」，标志着顶级AI团队已将Agent原生工作流视为基础设施而非工具 • 1T底座模型提前押注Hybrid Attentio"
 resource: "https://x.com/i/status/2034675747479064711"
@@ -22,6 +22,13 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "skill-automation-engineering"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2034675747479064711"
+created: "2026-03-19"
+updated: "2026-06-26"
+sha256: "f74cb3e33264c1c77be8c118fcbea6a586c2d9e6958452adb856c1f0fada24ed"
+sources:
+  - "/sources/highlights/2026-03-20/00__dotey__罗福莉的-harness-engineering-觉醒-mimo团队如何用agent脚手架重塑研发速度.md"
 ---
 
 # 罗福莉的「Harness Engineering」觉醒：MiMo团队如何用Agent脚手架重塑研发速度

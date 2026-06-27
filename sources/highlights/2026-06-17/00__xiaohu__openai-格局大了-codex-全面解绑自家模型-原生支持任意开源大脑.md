@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "OpenAI 格局大了：Codex 全面解绑自家模型，原生支持任意开源大脑"
 description: "**OpenAI 把 Codex 从'GPT 的壳'变成'任意开源模型的壳'，是一次客户端霸权战略的明确信号。**  - Codex（App / CLI / SDK）支持直接接入任何开源大模型，不再强制绑定 OpenAI 自家模型 - 官方放出换脑文档，手把手教开发者把客户端底层模型替换成免费开源版本 - 战略意义：OpenAI 主动放弃模型绑定，从「模型霸权」转向「客户端/工作流霸权」，与 Cl"
 resource: "https://x.com/i/status/2067244558765998261"
@@ -22,6 +22,13 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "codex-ecosystem-platform-war"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2067244558765998261"
+created: "2026-06-17"
+updated: "2026-06-26"
+sha256: "391d4cc6cfb4959b965f63c75acb203663e1fa55b77679149e27bfbf1eda9fb3"
+sources:
+  - "/sources/highlights/2026-06-17/00__xiaohu__openai-格局大了-codex-全面解绑自家模型-原生支持任意开源大脑.md"
 ---
 
 # OpenAI 格局大了：Codex 全面解绑自家模型，原生支持任意开源大脑

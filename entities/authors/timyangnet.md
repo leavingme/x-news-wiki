@@ -1,5 +1,5 @@
 ---
-type: "Author"
+type: "entity"
 title: "Tim✨ (@timyangnet)"
 description: "X/Twitter 作者 @timyangnet。共收录 1 条 AI 精选推文。"
 tags:
@@ -12,6 +12,12 @@ x_author_name: "Tim✨"
 x_tweet_count: 1
 x_first_seen: "2026-04-05T02:14:39.778Z"
 x_last_seen: "2026-04-05T02:14:39.778Z"
+type_okf: "Author"
+created: "2026-04-05"
+updated: "2026-06-26"
+sha256: "55d600864646dd90b84991780b7b068e277c2c99a4826d0023d00f8e4d3d0c8e"
+sources:
+  - "/sources/news/2026-04-05/00__timyangnet__实测-karpathy-的-llm-纯文本知识库-1000-文件规模下-embedding-根本不需要.md"
 ---
 
 # Tim✨ (@timyangnet)

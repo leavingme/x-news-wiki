@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Midjourney 在苹果店旁开「Spa」：把 MRI 全身扫描压到几美元/1分钟"
 description: "**[一句话核心判断]** Midjourney 在旧金山 Union Square（苹果店旁）开「MIdjourney Spa」，配 9-10 台全身扫描仪，把传统 MRI（$400-$4000 / 1-2 小时）的体验压缩到「几美元 / 1 分钟」——这是 AI 图像公司第一次以实体健康空间形态出现在用户面前。  **要点：** - 选址紧贴 Apple Store = 直接蹭高客流 + 借品"
 resource: "https://x.com/i/status/2067435555257012292"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2067435555257012292"
+created: "2026-06-18"
+updated: "2026-06-26"
+sha256: "18e9b1b83247232b4554a81b179e59894a52b55da6f96cd2d438e49545da65af"
+sources:
+  - "/sources/highlights/2026-06-18/00__xiaohu__midjourney-在苹果店旁开-spa-把-mri-全身扫描压到几美元-1分钟.md"
 ---
 
 # Midjourney 在苹果店旁开「Spa」：把 MRI 全身扫描压到几美元/1分钟

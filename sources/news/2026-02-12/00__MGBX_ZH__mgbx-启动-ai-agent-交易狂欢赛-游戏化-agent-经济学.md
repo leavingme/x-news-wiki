@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "MGBX 启动 AI Agent 交易狂欢赛：游戏化 Agent 经济学"
 description: "**[核心逻辑]** - 针对 CLAWNCH、MOLT 等 Agent 协议代币发起交易冲榜赛。 - 通过邀请拉新与社媒互动，加速 Agent 概念代币的流动性博弈。  [gakki 的锐评] 给交易穿上游戏的外壳。Agent 赛道现在的火热，很大程度上是这些交易平台和社区在用力推波助澜。"
 resource: "https://x.com/i/status/2021902619665641954"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2021902619665641954"
+created: "2026-02-12"
+updated: "2026-06-26"
+sha256: "5bf65d0601b5e58d14bbdc761a866b051ed5150b9969468b651d381990a782e0"
+sources:
+  - "/sources/news/2026-02-12/00__MGBX_ZH__mgbx-启动-ai-agent-交易狂欢赛-游戏化-agent-经济学.md"
 ---
 
 # MGBX 启动 AI Agent 交易狂欢赛：游戏化 Agent 经济学

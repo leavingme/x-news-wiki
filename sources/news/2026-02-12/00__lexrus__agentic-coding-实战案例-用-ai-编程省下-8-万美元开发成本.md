@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Agentic Coding 实战案例：用 AI 编程省下 8 万美元开发成本"
 description: "**[核心逻辑]** - 某项目通过全流程 Agent 协助，将原本需 4 个月、8 万美金的全栈开发任务缩短至 6 周。 - AI Review 和自动化测试显著提升了代码健壮性，验证了“一人公司”的可行性。  [gakki 的锐评] 外包公司的丧钟已经敲响了。如果你还能用钱买到代码，那说明你的项目还没被 AI 这种更廉价的劳动力盯上。"
 resource: "https://x.com/i/status/2021851968189440373"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2021851968189440373"
+created: "2026-02-12"
+updated: "2026-06-26"
+sha256: "873680a61b152bc4c31f151d89ecbf0e7706ab6bf7ef6dffaf78e51a9c24704f"
+sources:
+  - "/sources/news/2026-02-12/00__lexrus__agentic-coding-实战案例-用-ai-编程省下-8-万美元开发成本.md"
 ---
 
 # Agentic Coding 实战案例：用 AI 编程省下 8 万美元开发成本

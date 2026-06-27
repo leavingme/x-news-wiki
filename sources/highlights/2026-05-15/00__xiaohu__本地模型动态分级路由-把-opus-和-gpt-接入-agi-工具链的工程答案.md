@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "本地模型动态分级路由：把 opus 和 gpt 接入 AGI 工具链的工程答案"
 description: "**本地小模型对请求进行极速向量化和任务复杂度判断，将简单/中等/复杂任务分发至对应层级模型。**  - 每一轮对话实时显示本轮节省的 tokens 费用，成本可控性大幅提升 - 破解了\"顶级模型太贵不敢接、便宜模型怕效果差\"的两难困境 - 效果验证：接入 opus 和 GPT 后敢用了  这不只是省钱的技巧，而是 AGI 工具链成本收益结构的一次工程重构。"
 resource: "https://x.com/i/status/2055299823478387171"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2055299823478387171"
+created: "2026-05-15"
+updated: "2026-06-26"
+sha256: "21eff5cfda002cd358941c08b23ca90b3d172ecd09c7ef20cca35e0e89dcb303"
+sources:
+  - "/sources/highlights/2026-05-15/00__xiaohu__本地模型动态分级路由-把-opus-和-gpt-接入-agi-工具链的工程答案.md"
 ---
 
 # 本地模型动态分级路由：把 opus 和 gpt 接入 AGI 工具链的工程答案

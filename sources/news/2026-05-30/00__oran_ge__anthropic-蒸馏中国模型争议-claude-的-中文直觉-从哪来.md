@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Anthropic 蒸馏中国模型争议：Claude 的「中文直觉」从哪来"
 description: "**Claude 被指蒸馏了 Kimi 和 Qwen，产业链质疑声正在扩大。**  - 最早由投资人在非公开场合提出，称 Claude 蒸馏了国产模型 - 目前证据链在逐渐积累，但尚无定论 - 核心争议：Claude 在中文场景的「直觉」是否来自对国产模型的蒸馏  这场争论触及了 AI 行业最敏感的边界问题：模型蒸馏的监管空白与知识主权的灰色地带。  **gakki 说：蒸馏与借鉴的边界从来模糊，"
 resource: "https://x.com/i/status/2060522594227625999"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2060522594227625999"
+created: "2026-05-30"
+updated: "2026-06-26"
+sha256: "0333b1ee52c10b8c4d2fbb1274891c2ecc5b64216cad7c469daf68af4ca4c6d4"
+sources:
+  - "/sources/news/2026-05-30/00__oran_ge__anthropic-蒸馏中国模型争议-claude-的-中文直觉-从哪来.md"
 ---
 
 # Anthropic 蒸馏中国模型争议：Claude 的「中文直觉」从哪来

@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Pencil MCP 上架：「设计即代码」正在杀死 Figma → IDE 的往返切换"
 description: "**[VibeCoding 向设计层蔓延，MCP 协议成为 AI 理解图形意图的新标准]** • 设计画布直接驻留 Cursor/Claude Code/VS Code，消除「设计-导出-开发」断点 • 设计文件存代码库、Git 统一管理，意味着设计师也要开始写 commit message 了 • MCP 协议让 AI 能「读懂」视觉意图，20 分钟 vs 1 小时的效率比不是噱头  这是「意图"
 resource: "https://x.com/i/status/2017425760118858140"
@@ -22,6 +22,13 @@ x_selected: 2
 x_priority: 85
 x_related_topic: "vibe-coding-methodology"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2017425760118858140"
+created: "2026-01-31"
+updated: "2026-06-26"
+sha256: "734a4e83f10c705239de3e3dbbf3e3fc2ed2c567d2687979c002dbe891023c20"
+sources:
+  - "/sources/highlights/2026-03-06/85__IndieDevHailey__pencil-mcp-上架-设计即代码-正在杀死-figma-ide-的往返切换.md"
 ---
 
 # Pencil MCP 上架：「设计即代码」正在杀死 Figma → IDE 的往返切换

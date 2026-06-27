@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "\"给我写个 Zoom 出来\"——99%的人连定义问题的能力都没有，AI 时代更暴露认知空缺"
 description: "**[AI  Coding 的能力幻觉，正在被复杂系统工程的现实暴击]**  立党点名了一个广泛存在的认知谬误：以为有了 LLM Agent 就能做\"所有软件\"。他以 Zoom 为例——encoder/decoder 跨架构适配、streaming 流畅度、全球分布式处理、滤镜与背景同步，每一个模块都是十年以上的工程积累。  更深的论点是：99%的人如果不深入从事某个行业，连提出问题、定义问题的能"
 resource: "https://x.com/i/status/2043179464700420451"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2043179464700420451"
+created: "2026-04-12"
+updated: "2026-06-26"
+sha256: "9a6a8d2cefda948325ca16cc482ced9d5a9b19a4c96569441093cf597b0f1b9b"
+sources:
+  - "/sources/highlights/2026-04-18/00__lidangzzz__给我写个-zoom-出来-99-的人连定义问题的能力都没有-ai-时代更暴露认知空缺.md"
 ---
 
 # "给我写个 Zoom 出来"——99%的人连定义问题的能力都没有，AI 时代更暴露认知空缺

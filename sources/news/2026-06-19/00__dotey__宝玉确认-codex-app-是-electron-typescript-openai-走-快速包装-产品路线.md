@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "宝玉确认 Codex App 是 Electron+TypeScript：OpenAI 走\"快速包装\"产品路线"
 description: "**Codex App 技术栈揭晓：与 Claude Code 的原生 CLI 路线形成鲜明对比。**  - Electron 跨平台 + TypeScript = 快速 UI 包装，本质是把 Codex CLI 套上 App 外壳 - 与 Anthropic 选择\"克制\"做 CLI 工具相反，OpenAI 押注\"全民级 App 入口\" - 验证之前判断：Codex App 价值不在技术深度，而在"
 resource: "https://x.com/i/status/2067831616131497993"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2067831616131497993"
+created: "2026-06-19"
+updated: "2026-06-26"
+sha256: "6e11999094d2128ebed5da4f6d91df5cf4e09a70d24acba41cc6670286a31f4c"
+sources:
+  - "/sources/news/2026-06-19/00__dotey__宝玉确认-codex-app-是-electron-typescript-openai-走-快速包装-产品路线.md"
 ---
 
 # 宝玉确认 Codex App 是 Electron+TypeScript：OpenAI 走"快速包装"产品路线

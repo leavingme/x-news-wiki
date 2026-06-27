@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "语音编程从「噱头」进入「任务闭环」：命令识别+技能调用成标配"
 description: "**[语音交互正在重写 Agent 输入范式]**  TRAE AI 推出内置语音功能，核心突破不是语音转文字，而是将自然语言直接映射为「命令+技能调用」——用户口述需求，模型理解并执行对应操作，而非仅填充文本框。Insta360 联名 Mic Air 作为硬件载体，进一步将语音交互拓展到户外、移动办公场景。  **信息增量：** - 从「语音输入法」到「语音编程」的跃迁：语音不仅是输入方式，更是"
 resource: "https://x.com/i/status/2049332871199166830"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2049332871199166830"
+created: "2026-04-29"
+updated: "2026-06-26"
+sha256: "869623ce8550812f18e49d16ca3fec2c2444246df43fd6a3c152579d116a13d0"
+sources:
+  - "/sources/news/2026-04-29/00__xiaohu__语音编程从-噱头-进入-任务闭环-命令识别-技能调用成标配.md"
 ---
 
 # 语音编程从「噱头」进入「任务闭环」：命令识别+技能调用成标配

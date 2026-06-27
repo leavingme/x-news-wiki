@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Vibe Coding颠覆企业开发：业务人员正在夺回工具定义权"
 description: "**[提效基建的生产关系正在重构]**  • 问题本质：传统模式下产品经理→程序员的需求传递链路存在信息损耗，导致工具脱离实际工作流 • 解决方案：Vibe Coding让业务人员直接参与开发，消除需求翻译层 • 价值重估：只有真正参与业务的人，才能做出符合实际需求的提效工具  技术门槛的崩塌不是让程序员失业，而是让最懂业务的人重新掌握工具的定义权。这或许是企业内部效率革命的真正的起点。"
 resource: "https://x.com/i/status/2033913707466527146"
@@ -22,6 +22,13 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "skill-barrier-collapse"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2033913707466527146"
+created: "2026-03-17"
+updated: "2026-06-26"
+sha256: "ac2b31c12c834a1de8f060615f4b50085da4c5d0533db2fbfb08627249b97e2b"
+sources:
+  - "/sources/highlights/2026-03-18/00__gefei55__vibe-coding颠覆企业开发-业务人员正在夺回工具定义权.md"
 ---
 
 # Vibe Coding颠覆企业开发：业务人员正在夺回工具定义权

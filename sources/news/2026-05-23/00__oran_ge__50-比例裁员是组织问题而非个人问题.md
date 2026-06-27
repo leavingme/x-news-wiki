@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "50%比例裁员是组织问题而非个人问题"
 description: "**核心判断：大规模裁员受害者的自我怀疑是认知陷阱——50% 这种比例下，问题几乎必定在组织侧。**  裁员是人生最痛苦的节点之一，容易让人怀疑自己。但当比例达到 50% 时，应该反过来问：这个组织出了什么问题，而不是自己哪里不够好。  gakki 锐评：这个观察对裁员亲历者有安慰作用，但在 AI 替代的大叙事下，这种安慰本身可能是危险的——它让人倾向于把结构性失业归咎于组织，从而回避对自身技能适"
 resource: "https://x.com/i/status/2057963353809826019"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2057963353809826019"
+created: "2026-05-22"
+updated: "2026-06-26"
+sha256: "45b3b8a5eda118737e0ac510fb2d3d66d3bf7150c44dc237bd0db6b30a365f6f"
+sources:
+  - "/sources/news/2026-05-23/00__oran_ge__50-比例裁员是组织问题而非个人问题.md"
 ---
 
 # 50%比例裁员是组织问题而非个人问题

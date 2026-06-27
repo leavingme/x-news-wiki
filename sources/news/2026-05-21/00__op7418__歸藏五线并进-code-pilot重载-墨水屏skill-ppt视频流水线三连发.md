@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "歸藏五线并进：Code Pilot重载、墨水屏Skill、PPT视频流水线三连发"
 description: "**一句话核心判断：歸藏的项目矩阵正在从「单点Skill」向「Skill流水线」进化，内容工业化链路初现。**  • Code Pilot重构即将完成，墨水屏Skills进入收尾，PPT→HTML→视频的自动化链路正在进行。 • PPT Skills同时支撑小红书封面、微信图文封面的多形态内容生成，说明Skill复用正在从工具层向内容层渗透。 • 多项目并行推进，但核心都是围绕「PPT Skill"
 resource: "https://x.com/i/status/2057326833499295978"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2057326833499295978"
+created: "2026-05-21"
+updated: "2026-06-26"
+sha256: "20faa340d1281fae164defba1bd2769c2d19330000db7aa24250bf731b2f0540"
+sources:
+  - "/sources/news/2026-05-21/00__op7418__歸藏五线并进-code-pilot重载-墨水屏skill-ppt视频流水线三连发.md"
 ---
 
 # 歸藏五线并进：Code Pilot重载、墨水屏Skill、PPT视频流水线三连发

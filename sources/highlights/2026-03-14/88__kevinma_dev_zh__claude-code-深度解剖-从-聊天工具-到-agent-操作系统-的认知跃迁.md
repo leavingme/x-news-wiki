@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Claude Code 深度解剖：从「聊天工具」到「Agent 操作系统」的认知跃迁"
 description: "**[中文社区最系统的 Claude Code 工程实践总结，揭示了 Agent 编排的底层逻辑]**  • 文章深入拆解 Claude Code 的底层机制、上下文治理策略、Skills/Hooks 设计模式与 Agents 正确用法 • 核心洞察：Claude Code 的价值不止于 Coding，而在于其作为通用型 Agent 平台的编排能力 • 对团队而言，这是一份可直接落地的「Agent"
 resource: "https://x.com/i/status/2032716540307714403"
@@ -22,6 +22,13 @@ x_selected: 2
 x_priority: 88
 x_related_topic: "claude-code-ecosystem"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2032716540307714403"
+created: "2026-03-14"
+updated: "2026-06-26"
+sha256: "40c1a0cc3ae806cb21da5648c3ca98e4ca31342ce50a3ad945e4b7ec4c29ffb3"
+sources:
+  - "/sources/highlights/2026-03-14/88__kevinma_dev_zh__claude-code-深度解剖-从-聊天工具-到-agent-操作系统-的认知跃迁.md"
 ---
 
 # Claude Code 深度解剖：从「聊天工具」到「Agent 操作系统」的认知跃迁

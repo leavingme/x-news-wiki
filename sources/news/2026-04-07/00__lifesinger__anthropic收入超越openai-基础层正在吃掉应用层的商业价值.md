@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Anthropic收入超越OpenAI：基础层正在吃掉应用层的商业价值"
 description: "**一句话判断：Anthropic 做的是\"卖水\"的生意，OpenAI 做的是\"淘金\"的生意——水比金贵的时候到了。**  王慧文引用数据：Anthropic 的收入已超越 OpenAI。评价：\"新时代的微软已诞生\"，\"Anthropic 做到了：让每台计算机都拥有写 microsoft 的能力\"，而 OpenAI 的 AGI 愿景仍在寻找商业化锚点。  要点： - 商业模式验证：订阅制+API "
 resource: "https://x.com/i/status/2041454533025599902"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2041454533025599902"
+created: "2026-04-07"
+updated: "2026-06-26"
+sha256: "ff89ca157a7a61f3653de0fa65c9bfba24591a22477fd759fca670d05ae1cb5d"
+sources:
+  - "/sources/news/2026-04-07/00__lifesinger__anthropic收入超越openai-基础层正在吃掉应用层的商业价值.md"
 ---
 
 # Anthropic收入超越OpenAI：基础层正在吃掉应用层的商业价值

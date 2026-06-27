@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Palmier 把视频编辑器变成 MCP Server：AI Agent 直接操作时间轴"
 description: "Palmier 开源 Mac 原生视频编辑器，核心架构是把整个编辑器做成 MCP server——Claude、Cursor、Codex 可直接操作时间轴。  配套能力全开源：多轨时间轴、on-device 语义搜索素材、本地语音转文字；AI 生成模型部分按需付费。  这是\"编辑器即工具\"范式的样板：未来所有 GUI 软件都可能 MCP 化，让 Agent 像调用函数一样调用 Photoshop、"
 resource: "https://x.com/i/status/2068307221847449985"
@@ -22,6 +22,13 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "agent-lego-composable-toolchain"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2068307221847449985"
+created: "2026-06-20"
+updated: "2026-06-26"
+sha256: "755a7090406ce80a2998e7808d3a9e95930c70e6dd94c5c65e2684f4b67b0110"
+sources:
+  - "/sources/news/2026-06-20/00__gkxspace__palmier-把视频编辑器变成-mcp-server-ai-agent-直接操作时间轴.md"
 ---
 
 # Palmier 把视频编辑器变成 MCP Server：AI Agent 直接操作时间轴

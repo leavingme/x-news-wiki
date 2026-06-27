@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Seedance 2.0 4K 上线即梦：AI 视频首次按商业短剧产能明码标价"
 description: "**Seedance 2.0 4K 分辨率落地即梦，15 秒 1200 积分、码率 50Mbps，归藏直接点名目标客户是商业片与商业短剧公司。**  要点： - 4K + 50Mbps 码率已对齐商业级交付标准，告别 demo 演示 - 1200 积分 / 15s 定价意味着 AI 视频从「按次试用」转向「按产能采购」 - 锁定商业短剧赛道，补齐 AI 短剧工业化的「最后一块定价表」  gakki"
 resource: "https://x.com/i/status/2069272992664924426"
@@ -22,6 +22,13 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "ai-short-drama-industrialization"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2069272992664924426"
+created: "2026-06-23"
+updated: "2026-06-26"
+sha256: "dd86adef53d39516b468a69e3650919cb588c01b2a5582ee6dc3b095cb751566"
+sources:
+  - "/sources/highlights/2026-06-23/00__op7418__seedance-2-0-4k-上线即梦-ai-视频首次按商业短剧产能明码标价.md"
 ---
 
 # Seedance 2.0 4K 上线即梦：AI 视频首次按商业短剧产能明码标价

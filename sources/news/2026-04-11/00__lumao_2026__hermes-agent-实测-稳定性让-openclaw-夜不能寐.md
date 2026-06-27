@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Hermes Agent 实测：稳定性让 OpenClaw 夜不能寐"
 description: "**「同为开源 Agent，Hermes 跑一天一夜不带崩，OpenClaw 偶尔还得重启」**  用户@小飞 的一天：早上让 Hermes 在 BOSS直聘上搜岗、筛选、根据 JD 定制招呼语，一口气聊了 3 家；下午配闲鱼客服机器人，从装环境、写 Cookie、定制 prompt 到后台跑起来，全程只说了几句话。  关键对比维度——稳定性：Hermes cron 任务准点执行，多平台同时在线稳"
 resource: "https://x.com/i/status/2042431200279871879"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2042431200279871879"
+created: "2026-04-10"
+updated: "2026-06-26"
+sha256: "ce196f95aae26e45bf4c85f6b5de5d14ee9a7e321e7c0a0d66e9ce5e5985b5e6"
+sources:
+  - "/sources/news/2026-04-11/00__lumao_2026__hermes-agent-实测-稳定性让-openclaw-夜不能寐.md"
 ---
 
 # Hermes Agent 实测：稳定性让 OpenClaw 夜不能寐

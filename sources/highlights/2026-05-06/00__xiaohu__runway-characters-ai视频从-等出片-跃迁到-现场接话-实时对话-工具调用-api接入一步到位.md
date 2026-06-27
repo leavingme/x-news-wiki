@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Runway Characters：AI视频从「等出片」跃迁到「现场接话」，实时对话+工具调用+API接入一步到位"
 description: "**Runway 把视频生成从离线内容变成了实时交互界面，这是多模态Agent的关键里程碑。**  - 上传一张图即可生成支持HD/24fps实时对话的视频角色，能看摄像头和屏幕共享 - 支持声音克隆、知识库接入、工具调用（高亮按钮、查订单库存），不是「数字人读稿」而是「Agent具象化」 - 提供API/React SDK/Web Widget，可直接嵌入产品——定位是基础设施而非独立应用  g"
 resource: "https://x.com/i/status/2051942357491462434"
@@ -22,6 +22,13 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "ai-video-cinematic"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2051942357491462434"
+created: "2026-05-06"
+updated: "2026-06-26"
+sha256: "7022afb3faf1696ad7f70a71675a3db9b208d8e000ad98e3e7b364da345ee6eb"
+sources:
+  - "/sources/highlights/2026-05-06/00__xiaohu__runway-characters-ai视频从-等出片-跃迁到-现场接话-实时对话-工具调用-api接入一步到位.md"
 ---
 
 # Runway Characters：AI视频从「等出片」跃迁到「现场接话」，实时对话+工具调用+API接入一步到位

@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "OpenAI正式启动 IPO 法律与监管程序，时间表仍未确定"
 description: "**OpenAI 从'烧钱叙事'转入'合规叙事'，AGI信仰开始接受 SEC审视。**  -启动法律与监管程序意味着公司已锁定上市路径，但官方留出\"时间不确定\"的口子——典型的大型科技公司 IPO 前奏节奏（参照2019 年 Slack、Palantir 的 direct listing路径）。 - 时间点耐人寻味：Anthropic ARR 据传已逼近300亿美元、Claude Code商业化爆"
 resource: "https://x.com/i/status/2064194929421865300"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2064194929421865300"
+created: "2026-06-09"
+updated: "2026-06-26"
+sha256: "a6b582aa1a55f5434cf84e25b22fad820f4f9b3a190120afdfcd170928d8e944"
+sources:
+  - "/sources/highlights/2026-06-09/00__op7418__openai正式启动-ipo-法律与监管程序-时间表仍未确定.md"
 ---
 
 # OpenAI正式启动 IPO 法律与监管程序，时间表仍未确定

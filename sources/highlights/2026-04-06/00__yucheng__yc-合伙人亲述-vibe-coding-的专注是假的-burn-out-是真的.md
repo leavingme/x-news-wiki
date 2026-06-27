@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "YC 合伙人亲述：Vibe Coding 的专注是假的，burn out 是真的"
 description: "**【Vibe Coding 的认知税终于被量化：上下文切换 + 预估失准是元凶】**  YC (Yucheng) 披露了一个反直觉的观察：开十几个 Claude Code session 的 vibe coding 专注状态，表面高效，实际比传统心流更累——stressful，甚至触发智能设备警报。  两大根源：高频上下文切换（费脑力）+ AI 表现波动导致工作时间预估失准（30 分钟的任务可能"
 resource: "https://x.com/i/status/2039853939210748106"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2039853939210748106"
+created: "2026-04-02"
+updated: "2026-06-26"
+sha256: "81c71d2afd91edc126e725c4c500c57149c47df7a335bb8c5a45e67b69e5ff46"
+sources:
+  - "/sources/highlights/2026-04-06/00__yucheng__yc-合伙人亲述-vibe-coding-的专注是假的-burn-out-是真的.md"
 ---
 
 # YC 合伙人亲述：Vibe Coding 的专注是假的，burn out 是真的

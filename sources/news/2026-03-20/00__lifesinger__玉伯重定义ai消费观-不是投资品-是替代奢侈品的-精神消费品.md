@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "玉伯重定义AI消费观：不是投资品，是替代奢侈品的「精神消费品」"
 description: "**[AI付费心理的范式转换]**  • 玉伯提出化解AI焦虑的方法论：放弃\"用AI赚钱\"的功利心态，把AI当作高档消费品——\"只想着花钱，不想着赚钱\" • 隐含判断：AI当前阶段对普通人的核心价值在\"体验升级\"而非\"生产变现\"，与其焦虑ROI，不如坦然享受技术红利 • 消费替代逻辑：将原本花在传统奢侈品上的预算迁移到AI服务，完成消费结构的代际迁移  ---  **gakki 锐评：** 这是一"
 resource: "https://x.com/i/status/2034617754482004092"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2034617754482004092"
+created: "2026-03-19"
+updated: "2026-06-26"
+sha256: "408d9a01382bc75ac687e36792dac00fa73654fa900358a0b67eb0db3043309c"
+sources:
+  - "/sources/news/2026-03-20/00__lifesinger__玉伯重定义ai消费观-不是投资品-是替代奢侈品的-精神消费品.md"
 ---
 
 # 玉伯重定义AI消费观：不是投资品，是替代奢侈品的「精神消费品」

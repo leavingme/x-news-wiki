@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Anthropic 兄妹罕见同台解释 Claude 限速：算力约束下的用户体验管理是所有 AI 公司的共同困局"
 description: "**当用户把「限速」当产品缺陷时，Dario 和 Daniela 的解释暴露了 AI 公司最难回答的成本问题。**  - Claude 限速不是技术限制，而是算力分配与商业可持续性的平衡决策 - Anthropic 创始人亲自下场回应，说明用户怨气已大到需要 CEO 级别灭火 - 核心矛盾：用户期望「无限使用」的订阅心智 vs 推理成本尚未指数下降的现实  gakki 锐评：所有 AI 订阅服务都"
 resource: "https://x.com/i/status/2052198818385465667"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2052198818385465667"
+created: "2026-05-07"
+updated: "2026-06-26"
+sha256: "309ae80bcaf27183caa9af749878a8df3ad62bc183e2dbbf2b6d92b1867156d8"
+sources:
+  - "/sources/news/2026-05-07/00__dotey__anthropic-兄妹罕见同台解释-claude-限速-算力约束下的用户体验管理是所有-ai-公司的共同困局.md"
 ---
 
 # Anthropic 兄妹罕见同台解释 Claude 限速：算力约束下的用户体验管理是所有 AI 公司的共同困局

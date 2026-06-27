@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Codex /goal 官方指南泄露：暂停/编辑/删除控制权在手，但Rate Limit断点续传仍是谜"
 description: "**【Codex /goal 用法官方指南来了，但 Rate Limit 断点续传问题悬而未决】**  • 开启方式：命令行运行 `codex features enable goals` 或手动修改 `~/.codex/config.toml` • 支持暂停、编辑、删除，可通过输入框上方 UI 操作 • 最大悬念：任务达到限额后，5小时后自动恢复还是需要手动输入\"continue\"？宝玉已提出此"
 resource: "https://x.com/i/status/2057672416071987378"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2057672416071987378"
+created: "2026-05-22"
+updated: "2026-06-26"
+sha256: "7237d1109d84f50c518153b1ae6ab9fb337a76e7791fdf3efc6fc0eb4908d38f"
+sources:
+  - "/sources/news/2026-05-22/00__dotey__codex-goal-官方指南泄露-暂停-编辑-删除控制权在手-但rate-limit断点续传仍是谜.md"
 ---
 
 # Codex /goal 官方指南泄露：暂停/编辑/删除控制权在手，但Rate Limit断点续传仍是谜

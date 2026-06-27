@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Gemini iOS 端全新设计曝光：Google 正在把移动端做成 Agent 超级入口"
 description: "**Google 不是在做聊天 App，是在把 Gemini 变成移动端的操作系统层。**  - TestingCatalog 曝光 Gemini iOS 端全新 UI 设计，视觉风格大幅刷新 - 结合近期 Gemini 桌面端整合 NotebookLM 等动作，Google 的 Agent 入口策略正在跨平台同步推进 - iOS 端发力意味着 Google 不打算把 Agent 生态锁在 And"
 resource: "https://x.com/testingcatalog/status/2050976509855138022"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "ai-trend-digest"
+type_okf: "X Tweet"
+source_url: "https://x.com/testingcatalog/status/2050976509855138022"
+created: "2026-05-03"
+updated: "2026-06-26"
+sha256: "a3d91b4198f3fe7ae2c3619877eac1acb1e72b91e000d9a34f91aa18580ba048"
+sources:
+  - "/sources/news/2026-05-03/00__testingcatalog__gemini-ios-端全新设计曝光-google-正在把移动端做成-agent-超级入口.md"
 ---
 
 # Gemini iOS 端全新设计曝光：Google 正在把移动端做成 Agent 超级入口

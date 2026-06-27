@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "字节扣子编程入局：Vibe Coding 入口争夺战正式打响"
 description: "**[字节以「全托管」模式切入 Vibe Coding，意图截胡 Bolt/Lovable 的流量入口]** • 云端沙箱+一键部署+火山引擎基建，降低全栈开发门槛至「自然语言描述」级别 • 月活100万+、月新增项目100万+，数据证明市场需求已被验证 • 支持一键部署 OpenClaw，暗示字节对 Agent 生态的战略卡位意图  **gakki 锐评：** 这不是工具竞争，是云厂商对「下一代"
 resource: "https://x.com/i/status/2038856657128816678"
@@ -22,6 +22,13 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "no-code-agent-entry"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2038856657128816678"
+created: "2026-03-31"
+updated: "2026-06-26"
+sha256: "af1658ca735dce96505048e7e7f948099bbae5ebb25447da0a6145af28d8d718"
+sources:
+  - "/sources/highlights/2026-03-31/00__NFTCPS__字节扣子编程入局-vibe-coding-入口争夺战正式打响.md"
 ---
 
 # 字节扣子编程入局：Vibe Coding 入口争夺战正式打响

@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Heurist Skill 商店：50+ 加密金融技能的「即插即用」生态"
 description: "**Agent 工具链的「应用商店」模式开始落地，一键安装成为标配。**  • 50+ 经过验证的加密/金融技能，支持 Claude Code、Codex、OpenClaw 三端 • 单命令安装：`npx @heurist-network/skills add <skill>` • 覆盖交易、分析、监控等高频场景   Skill 市场的竞争焦点将从数量转向质量验证与跨平台兼容性——「甩链接」时代的"
 resource: "https://x.com/i/status/2032552809741341033"
@@ -22,6 +22,13 @@ x_selected: 2
 x_priority: 82
 x_related_topic: "agent-lego-composable-toolchain"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2032552809741341033"
+created: "2026-03-13"
+updated: "2026-06-26"
+sha256: "3410eb6bdb74a404f62a01f558e8a63c97d09255f3b1f6f37b580d46c770f4aa"
+sources:
+  - "/sources/highlights/2026-03-14/82__heurist_ai__heurist-skill-商店-50-加密金融技能的-即插即用-生态.md"
 ---
 
 # Heurist Skill 商店：50+ 加密金融技能的「即插即用」生态

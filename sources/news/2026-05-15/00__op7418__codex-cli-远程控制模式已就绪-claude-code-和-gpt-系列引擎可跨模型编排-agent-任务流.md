@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Codex CLI 远程控制模式已就绪：Claude Code 和 GPT 系列引擎可跨模型编排 Agent 任务流"
 description: "**Agent 引擎层互操作性迈出实质一步。**  Codex CLI 支持设置 ChatGPT 远程控制，并预告即将支持以 Codex 自身作为 Agent 引擎。这意味着 Claude Code、GPT 系列和 Codex 三套 Agent 系统可以在同一任务流中被编排，工具调用和记忆状态跨引擎传递。  工程意义：未来的 Agent 架构不会是\"选一个模型\"，而是\"按任务类型动态路由引擎\"。C"
 resource: "https://x.com/i/status/2055122578407387420"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2055122578407387420"
+created: "2026-05-15"
+updated: "2026-06-26"
+sha256: "71b817eb3cc071ab19ce8521bfd97c5f3443d887fb1d22ddd184f145cb343dce"
+sources:
+  - "/sources/news/2026-05-15/00__op7418__codex-cli-远程控制模式已就绪-claude-code-和-gpt-系列引擎可跨模型编排-agent-任务流.md"
 ---
 
 # Codex CLI 远程控制模式已就绪：Claude Code 和 GPT 系列引擎可跨模型编排 Agent 任务流

@@ -1,5 +1,5 @@
 ---
-type: "Author"
+type: "entity"
 title: "财经不踩雷(绝不做空美股，绝不做多A股) (@finance_bcl_1)"
 description: "X/Twitter 作者 @finance_bcl_1。共收录 1 条 AI 精选推文。"
 tags:
@@ -12,6 +12,12 @@ x_author_name: "财经不踩雷(绝不做空美股，绝不做多A股)"
 x_tweet_count: 1
 x_first_seen: "2026-03-20T00:42:56.721Z"
 x_last_seen: "2026-03-20T00:42:56.721Z"
+type_okf: "Author"
+created: "2026-03-20"
+updated: "2026-06-26"
+sha256: "509bf7d807993a537c7cbf9b490f950291ef4cb76fd9115a9d00fd0b54ae17a3"
+sources:
+  - "/sources/highlights/2026-03-20/00__finance_bcl_1__黄仁勋撕开ai裁员遮羞布-多数ceo只是把ai当更快的裁纸刀.md"
 ---
 
 # 财经不踩雷(绝不做空美股，绝不做多A股) (@finance_bcl_1)

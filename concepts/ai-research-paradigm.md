@@ -1,5 +1,5 @@
 ---
-type: "Concept"
+type: "concept"
 title: "ai-research-paradigm"
 description: "跨日主题 \"ai-research-paradigm\"，共 9 条相关精选推文。"
 tags:
@@ -11,6 +11,20 @@ x_topic_slug: "ai-research-paradigm"
 x_tweet_count: 9
 x_first_seen: "2026-03-24T12:43:05.844Z"
 x_last_seen: "2026-06-23T10:18:41.435Z"
+type_okf: "Concept"
+created: "2026-03-24"
+updated: "2026-06-26"
+sha256: "948b09d85e6f3755c6aa7921a300d6c8f38de5144c53921d755951396bc27b3d"
+sources:
+  - "/sources/highlights/2026-03-24/00__xiaohu__陶哲轩断言-ai正在扫荡数学界的-矮墙-但黎曼猜想需-尚未发明的协作模式.md"
+  - "/sources/highlights/2026-04-16/00__AYi_AInotes__agency-agents单周4-4万星-51个ai专家组队冲击传统公司制.md"
+  - "/sources/highlights/2026-05-01/00__dotey__hassabis-拆解-agi-缺什么-agent-行不行-下一个科学突破长什么样.md"
+  - "/sources/highlights/2026-05-10/00__jiqizhixin__agent-world-自进化训练场让-8b-14b-小模型在-23-项-agent-基准上碾压闭源大模型.md"
+  - "/sources/highlights/2026-06-17/00__jiqizhixin__25-顶级实验室联名推ara-论文为ai-agent而写-qa从72-跳到94.md"
+  - "/sources/highlights/2026-06-23/00__jiqizhixin__bota-bpl-ai首次编译验证地运行生物实验-生物学eda时刻-到来.md"
+  - "/sources/news/2026-04-24/00__jiqizhixin__浙大-蚂蚁联合提出kmlp-用可学习前端网络自动化-脏数据特征工程.md"
+  - "/sources/news/2026-05-29/00__jiqizhixin__pace-直接测量ai参数变化而非代理信号-终于有论文对训练环境做真实评估.md"
+  - "/sources/news/2026-06-18/00__Zesee__aether-ai-融资官宣-因果世界模型要把-physical-ai-从-模仿动作-拽回-理解为什么.md"
 ---
 
 # 主题: ai-research-paradigm

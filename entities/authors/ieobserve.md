@@ -1,5 +1,5 @@
 ---
-type: "Author"
+type: "entity"
 title: "Intl Econ Observe (@IEObserve)"
 description: "X/Twitter 作者 @IEObserve。共收录 10 条 AI 精选推文。"
 tags:
@@ -12,6 +12,21 @@ x_author_name: "Intl Econ Observe"
 x_tweet_count: 10
 x_first_seen: "2026-01-31T07:26:42.823Z"
 x_last_seen: "2026-04-16T12:45:19.507Z"
+type_okf: "Author"
+created: "2026-01-31"
+updated: "2026-06-26"
+sha256: "6b930f87e444b9a4746bc577d5aa7337bcb572f51a0232a6602aabf73d80acc9"
+sources:
+  - "/sources/highlights/2026-03-17/00__IEObserve__黄仁勋-gtc-keynote-token-经济学成为-ai-工厂核心逻辑-推理拐点已至.md"
+  - "/sources/highlights/2026-03-21/00__IEObserve__老黄token经济学公式曝光-gdp-电力-每瓦算力-中美胜负手在发电成本.md"
+  - "/sources/highlights/2026-04-16/00__IEObserve__sequoia-最新研判-ai-agent-的杠杆已超过-100-确定性退位给-可能性.md"
+  - "/sources/news/2026-01-31/00__IEObserve__cloudflare-agentic-internet-的铲子人.md"
+  - "/sources/news/2026-01-31/00__IEObserve__peter-steinberger-访谈-openclaw-与个人助理元年.md"
+  - "/sources/news/2026-02-01/00__IEObserve__2026-美股核心叙事-资金从-saas-转向-ai-硬件与能源基础设施.md"
+  - "/sources/news/2026-02-12/00__IEObserve__fastly-盘后暴涨-41-ai-agent-流量涌入推升边缘计算价值.md"
+  - "/sources/news/2026-03-18/00__IEObserve__老黄-gtc-闭门-q-a-泄露-token-消耗排行揭示模型市场-寡头-长尾-格局.md"
+  - "/sources/news/2026-03-21/00__IEObserve__老黄-all-in-专访-华尔街低估了-ai-的广度-英伟达还在扩大市占.md"
+  - "/sources/news/2026-03-24/00__IEObserve__黄仁勋揭秘tsmc真正护城河-不是晶体管-是制造奇迹.md"
 ---
 
 # Intl Econ Observe (@IEObserve)

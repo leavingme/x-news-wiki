@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "火山引擎OpenViking开源：Agent上下文成本下降96%的「记忆操作系统」范式"
 description: "**[Agent记忆管理从黑盒走向文件系统]** • 火山引擎开源OpenViking已获18k stars，通过L0/L1/L2三层分级加载实现\"按需加载\" • 将记忆、外部资源和技能结构化如本地文件夹，自动压缩无效对话并提取长时记忆 • 与OpenClaw配合使用可解决Token乱烧问题，让Agent\"越用越聪明\"而非\"越用越贵\"  Gakki锐评：这不是简单的成本优化，而是Agent基础设施"
 resource: "https://x.com/i/status/2035984413348278317"
@@ -22,6 +22,13 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "agent-memory-optimization"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2035984413348278317"
+created: "2026-03-23"
+updated: "2026-06-26"
+sha256: "99899e2df8d51d5abbf878a53cebdbf5a35911ac952642c67fc9159c26134fef"
+sources:
+  - "/sources/highlights/2026-03-23/00__Zh_Crypto517__火山引擎openviking开源-agent上下文成本下降96-的-记忆操作系统-范式.md"
 ---
 
 # 火山引擎OpenViking开源：Agent上下文成本下降96%的「记忆操作系统」范式

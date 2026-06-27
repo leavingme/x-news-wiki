@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "协作范式：Claude 4.6 + Codex 的“分权管理”实战"
 description: "[核心逻辑] - 在复杂 Agent 系统中，使用 Claude 4.6 负责高层审核与各模型间的协调，由 Codex 负责底层代码实现。 - 通过模型碎片化协作，规避单一模型的幻觉并提升整体工程输出质量。  [gakki 的锐评] 这就叫“模型管理的艺术”。没有一个模型是万能的，聪明的开发者会让最懂社交和逻辑的做主理人，让最懂代码的去搬砖。分权，是 Agent 系统走向成熟的标志。"
 resource: "https://x.com/i/status/2025211272656986444"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2025211272656986444"
+created: "2026-02-21"
+updated: "2026-06-26"
+sha256: "0992a101bf6e05ba6208f9e7190fe6c63ff38b42ca2fdbc693e4f741639c138c"
+sources:
+  - "/sources/highlights/2026-02-22/00__gkxspace__协作范式-claude-4-6-codex-的-分权管理-实战.md"
 ---
 
 # 协作范式：Claude 4.6 + Codex 的“分权管理”实战

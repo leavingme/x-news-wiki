@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Warp 终端开源：从闭源效率工具到开发者基础设施的开源献祭"
 description: "**[一句话核心判断]**   Warp 终端宣布完全开源，标志性闭源 AI 效率工具正式向社区交出代码主权。  **要点：** - Warp 以「21 世纪终端」定位积累了明确的高端开发者口碑，开源意味着它主动放弃了对体验层的垄断 - 开源后竞争将从「体验层」转向「集成层」——谁能把 Warp 集成得更好，谁就赢 - 这是开发者工具从「产品护城河」向「生态基础设施」退守的典型路径，类似 VS C"
 resource: "https://x.com/warpdotdev/status/2049153766977421444"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "ai-trend-digest"
+type_okf: "X Tweet"
+source_url: "https://x.com/warpdotdev/status/2049153766977421444"
+created: "2026-04-28"
+updated: "2026-06-26"
+sha256: "334b0a5c0754ab1c0e6a87fbd3f6bd5d33b8d01abd6335afd0fbf44329a0aa0b"
+sources:
+  - "/sources/news/2026-04-28/00__warpdotdev__warp-终端开源-从闭源效率工具到开发者基础设施的开源献祭.md"
 ---
 
 # Warp 终端开源：从闭源效率工具到开发者基础设施的开源献祭

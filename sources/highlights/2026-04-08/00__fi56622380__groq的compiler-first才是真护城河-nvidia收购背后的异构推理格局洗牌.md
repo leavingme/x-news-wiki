@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Groq的Compiler First才是真护城河：Nvidia收购背后的异构推理格局洗牌"
 description: "**[推理硬件重新定义：compiler路线压倒 SRAM路线]**  Groq的核心不是SRAM，而是compiler first理念——AI推理workload的确定性（无data-dependent branching、tensor shape固定）允许极度激进的硬件-软件界面优化。SRAM只是这个思路的副产品。  Nvidia整合Groq LPU，不是简单产品线补充，而是要把确定性推理纳入"
 resource: "https://x.com/i/status/2031233421884928283"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2031233421884928283"
+created: "2026-03-10"
+updated: "2026-06-26"
+sha256: "a673f3d5fc6ebccaab759b47a68a9740f58183c22990c0906c6a13eaab84b504"
+sources:
+  - "/sources/highlights/2026-04-08/00__fi56622380__groq的compiler-first才是真护城河-nvidia收购背后的异构推理格局洗牌.md"
 ---
 
 # Groq的Compiler First才是真护城河：Nvidia收购背后的异构推理格局洗牌

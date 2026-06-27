@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Claude Code创建者Boris揭秘：并行5-10个会话+Plan Mode才是正确打开方式"
 description: "**[Claude Code的工程化用法被官方「认证」]** • Boris 同时开 5-10 个 Claude 跑不同任务，在它们之间来回切换——第一个 Tab 出计划时跳去第二个开新任务，「不等做完就跳」的并行策略颠覆单线程使用惯性 • 每个 session 强制从 Plan Mode 开始：先出计划 → 人工审一遍 → 满意了再切自动执行，「计划对了，代码就对了」 • Cowork 与 Cl"
 resource: "https://x.com/i/status/2036424206385029468"
@@ -22,6 +22,13 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "claude-code-ecosystem"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2036424206385029468"
+created: "2026-03-24"
+updated: "2026-06-26"
+sha256: "06d976ce6b386a856fad4de190c0cdf1531b923f53175c0fcc38b4efea881690"
+sources:
+  - "/sources/highlights/2026-03-25/00__xiaohu__claude-code创建者boris揭秘-并行5-10个会话-plan-mode才是正确打开方式.md"
 ---
 
 # Claude Code创建者Boris揭秘：并行5-10个会话+Plan Mode才是正确打开方式

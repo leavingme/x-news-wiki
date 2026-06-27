@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "企业 AI 的本质不是工具，是「工作的外包承接方」"
 description: "**【企业 AI 的本质不是工具，是「工作的外包承接方」】**  **核心判断：工具 vs 承接方的一字之差，决定了企业 AI 部署的核心逻辑。**  **要点：** - 推文指出了一个微妙的认知错位：大多数企业把 AI 当「工具」采购（锤子逻辑），但真正的价值释放在于把工作「持续交出去」（外包逻辑） - 工具思维导致企业在边缘场景反复微调；外包思维要求企业重新设计工作流和责任边界 - 这两种逻辑"
 resource: "https://x.com/i/status/2060618047891873882"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2060618047891873882"
+created: "2026-05-30"
+updated: "2026-06-26"
+sha256: "12022ec7f6be64a7200b3ff29b3362eeb10637cb4a3e34ed12bcaf7e20d310c3"
+sources:
+  - "/sources/news/2026-05-30/00__Rourou0413__企业-ai-的本质不是工具-是-工作的外包承接方.md"
 ---
 
 # 企业 AI 的本质不是工具，是「工作的外包承接方」

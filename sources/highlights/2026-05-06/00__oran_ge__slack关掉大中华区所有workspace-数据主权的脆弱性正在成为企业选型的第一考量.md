@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Slack关掉大中华区所有workspace：数据主权的脆弱性正在成为企业选型的第一考量"
 description: "**[企业协作工具的\"数据可迁移性\"从nice-to-have变成must-have]** - Slack关闭大中华区workspace，消息记录、文件、决策上下文全部封锁，90天后永久删除，官方不提供数据导出 - 4月涌现大量AI native workspace产品，切入点都是替代Slack+Linear+Notion组合 - Tanka相对成熟：团队协作+自带Agent+Google全家桶连"
 resource: "https://x.com/i/status/2051889623442563312"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2051889623442563312"
+created: "2026-05-06"
+updated: "2026-06-26"
+sha256: "832df3756e5beb53914209bd7fe25081ff3e8e3ad870c8f6e906a4aa5c5e0c22"
+sources:
+  - "/sources/highlights/2026-05-06/00__oran_ge__slack关掉大中华区所有workspace-数据主权的脆弱性正在成为企业选型的第一考量.md"
 ---
 
 # Slack关掉大中华区所有workspace：数据主权的脆弱性正在成为企业选型的第一考量

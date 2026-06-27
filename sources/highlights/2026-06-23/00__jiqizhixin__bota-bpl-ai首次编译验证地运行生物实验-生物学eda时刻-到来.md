@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Bota BPL：AI首次编译验证地运行生物实验，\"生物学EDA时刻\"到来"
 description: "**自然语言实验步骤被形式化为可机器校验的代码，AI for Science从论文走向湿实验室。** - Bota Biosciences推出BPL协议语言与BPL-COGEN编译器，编译期捕获不可能操作 - 300个Nature Protocols基准达到95.1%保真度 - 类比EDA（电子设计自动化），让生物实验具备形式化、可复用、可审计的工程属性   gakki锐评：95.1%的Natur"
 resource: "https://x.com/i/status/2069323728232788418"
@@ -22,6 +22,13 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "ai-research-paradigm"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2069323728232788418"
+created: "2026-06-23"
+updated: "2026-06-26"
+sha256: "2ca43d10d928df04c4fdb2ca525dc9e0de85da4c13654ffc0d73e48d5b0ce723"
+sources:
+  - "/sources/highlights/2026-06-23/00__jiqizhixin__bota-bpl-ai首次编译验证地运行生物实验-生物学eda时刻-到来.md"
 ---
 
 # Bota BPL：AI首次编译验证地运行生物实验，"生物学EDA时刻"到来

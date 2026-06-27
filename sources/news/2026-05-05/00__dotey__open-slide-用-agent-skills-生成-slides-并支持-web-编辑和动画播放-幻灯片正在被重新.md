@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "open-slide：用 Agent + Skills 生成 Slides 并支持 Web 编辑和动画播放，幻灯片正在被重新定义为「可执行内容」"
 description: "**当 Slides 可以用 Agent 生成、用 Skills 装配、用 Web 直接播放，「演示文稿」这个品类的定义正在被改写。** - 开源方案：Agent + Skills 驱动生成 Slides，附带 Web 编辑器和直接播放能力 - 支持动画，但编辑体验和 PPTX 导出仍待完善 - 代表一种趋势：内容格式正在从「人类手工排版」转向「AI 生成 + 人类微调」  gakki 锐评：Sl"
 resource: "https://x.com/i/status/2051704609299701821"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2051704609299701821"
+created: "2026-05-05"
+updated: "2026-06-26"
+sha256: "95a64df9f4aebbb87e983cc9e1614ac54c21eca77b32b40f9b5344dbb8bc809e"
+sources:
+  - "/sources/news/2026-05-05/00__dotey__open-slide-用-agent-skills-生成-slides-并支持-web-编辑和动画播放-幻灯片正在被重新.md"
 ---
 
 # open-slide：用 Agent + Skills 生成 Slides 并支持 Web 编辑和动画播放，幻灯片正在被重新定义为「可执行内容」

@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Orange AI 的 35 岁招聘观：AI 公司的年龄歧视正在被「成长空间」重新定义"
 description: "**「我们喜欢 35 岁的年轻人」——一句话撕开了 AI 行业年龄焦虑的另一面。**  - Orange AI 用「内心相信成长空间还有 100 倍」重新定义年轻，而非生理年龄 - 直指「35 岁就认命」的心态才是真正的衰老，与年龄无关 - 在 AI 行业疯狂内卷的背景下，这种人才观是对「青春崇拜」叙事的有力反拨  gakki 锐评：AI 行业的人才讨论通常聚焦技术能力，Orange AI 把视角"
 resource: "https://x.com/i/status/2053635727943164100"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2053635727943164100"
+created: "2026-05-11"
+updated: "2026-06-26"
+sha256: "2cb8b70646a8c19babe44bae25dd9a4f2cf31d9a26cb8343fc4cc7c10a10026e"
+sources:
+  - "/sources/news/2026-05-11/00__oran_ge__orange-ai-的-35-岁招聘观-ai-公司的年龄歧视正在被-成长空间-重新定义.md"
 ---
 
 # Orange AI 的 35 岁招聘观：AI 公司的年龄歧视正在被「成长空间」重新定义

@@ -1,5 +1,5 @@
 ---
-type: "Author"
+type: "entity"
 title: "NEAR Protocol (@NEARProtocol)"
 description: "X/Twitter 作者 @NEARProtocol。共收录 1 条 AI 精选推文。"
 tags:
@@ -12,6 +12,12 @@ x_author_name: "NEAR Protocol"
 x_tweet_count: 1
 x_first_seen: "2026-05-07T10:18:11.969Z"
 x_last_seen: "2026-05-07T10:18:11.969Z"
+type_okf: "Author"
+created: "2026-05-07"
+updated: "2026-06-26"
+sha256: "91e8a70a91592df61590b5e53bdc7a2e1bd5fa8be91219add4907263f455bab3"
+sources:
+  - "/sources/news/2026-05-07/00__NEARProtocol__near-protocol-抢跑后量子时代-当区块链还在纠结-tps-量子计算已威胁整条链的安全根基.md"
 ---
 
 # NEAR Protocol (@NEARProtocol)

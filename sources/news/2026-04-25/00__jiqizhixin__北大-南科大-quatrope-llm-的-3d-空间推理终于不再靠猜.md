@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "北大+南科大 QuatRoPE：LLM 的 3D 空间推理终于不再靠猜"
 description: "**[一句话核心判断]**  QuatRoPE 用四元数旋转编码替代传统位置编码，让 LLM 首次高效处理 3D 物体关系，线性复杂度取代二次复杂度，具身智能的空间理解终于有了数学地基。  **信息增量：** - 3D 空间推理是具身 AI 的公认难题——现有 LLM 大多在 2D 平面爬行 - 二次复杂度（O(n²)）是 Transformer 的固有痛点，QuatRoPE 做到了 O(n) 规"
 resource: "https://x.com/i/status/2047945707492114527"
@@ -22,6 +22,13 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "textop-humanoid-robot"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2047945707492114527"
+created: "2026-04-25"
+updated: "2026-06-26"
+sha256: "a5d3035c3cdc4b00f3773cf8dad3b0ba9efd21cc33ee211f6e66af739feaa204"
+sources:
+  - "/sources/news/2026-04-25/00__jiqizhixin__北大-南科大-quatrope-llm-的-3d-空间推理终于不再靠猜.md"
 ---
 
 # 北大+南科大 QuatRoPE：LLM 的 3D 空间推理终于不再靠猜

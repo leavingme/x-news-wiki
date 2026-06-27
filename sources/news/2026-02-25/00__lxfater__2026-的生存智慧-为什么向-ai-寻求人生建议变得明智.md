@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "2026 的生存智慧：为什么向 AI 寻求人生建议变得明智"
 description: "**[核心逻辑]** 探讨了将 AI 作为私人顾问的独特优势：它具备高认知、无私心、极度耐心且不带情绪评判的特质。  - AI 能够超越个人社交圈的认知局限，提供客观的视角。 - 不知疲倦的特性使其能够充分吸收并分析用户的冗长个人情况。 - 没有人类的“马后炮”心态和情绪负担，提供最纯粹的反馈。  [gakki 的锐评] 现代人最大的孤独，是找不到一个可以毫无保留倾诉且能给出高质量回应的人。AI "
 resource: "https://x.com/i/status/2026187839214637445"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2026187839214637445"
+created: "2026-02-24"
+updated: "2026-06-26"
+sha256: "f559e1d2a0ac638c2eb94ab6f3f9b0b8e5e6631a3c78c978eda922bd8b159a28"
+sources:
+  - "/sources/news/2026-02-25/00__lxfater__2026-的生存智慧-为什么向-ai-寻求人生建议变得明智.md"
 ---
 
 # 2026 的生存智慧：为什么向 AI 寻求人生建议变得明智

@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Claude Code 正式「出圈」：从终端到 Telegram/Discord 的入口层扩张"
 description: "**[Anthropic 正在将 Claude Code 从开发者工具重新定义为跨平台 Agent 基础设施]** • 新功能 Claude Code Channels 支持直接通过 Telegram/Discord 与 Claude Code 交互，打破 CLI 边界 • 支持文件传输（TG 50MB、Discord 25MB×10）、历史消息拉取、权限白名单等企业级功能 • 信号：Agent "
 resource: "https://x.com/i/status/2034776470124732858"
@@ -22,6 +22,13 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "agent-mobile-orchestration"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2034776470124732858"
+created: "2026-03-19"
+updated: "2026-06-26"
+sha256: "8db17bfddf3c0dca04432e66beb4876cadc65078fc380811f24a5067fa2637cd"
+sources:
+  - "/sources/highlights/2026-03-20/00__xiaohu__claude-code-正式-出圈-从终端到-telegram-discord-的入口层扩张.md"
 ---
 
 # Claude Code 正式「出圈」：从终端到 Telegram/Discord 的入口层扩张

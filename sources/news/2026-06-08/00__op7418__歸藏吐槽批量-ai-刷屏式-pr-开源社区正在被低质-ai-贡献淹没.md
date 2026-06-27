@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "歸藏吐槽批量 AI 刷屏式 PR：开源社区正在被低质 AI 贡献淹没"
 description: "**AI Coding 工具普及后，开源维护者正面临 AI 批量生成的「同质化 PR」污染。**  - 歸藏（guizang.ai）直接开喷：有人把所有 PR 都写成一样，然后批量提交、用 AI 刷屏，污染整个项目。 - 这不是孤例——AI Coding 降低了\"提 PR\"的门槛，但也让\"用 AI 制造提交量\"成为新的 spam 形态，维护者审核成本陡增。 - 信号：AI 时代的开源协作规则需要重"
 resource: "https://x.com/i/status/2064015225788174646"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2064015225788174646"
+created: "2026-06-08"
+updated: "2026-06-26"
+sha256: "ebe78252d6d6e42cc713328c81fd35b36459491e1d89629e25aaddde7cb257cb"
+sources:
+  - "/sources/news/2026-06-08/00__op7418__歸藏吐槽批量-ai-刷屏式-pr-开源社区正在被低质-ai-贡献淹没.md"
 ---
 
 # 歸藏吐槽批量 AI 刷屏式 PR：开源社区正在被低质 AI 贡献淹没

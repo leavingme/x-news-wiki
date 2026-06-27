@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "WorkOS 获1亿融资：藏在所有AI巨头登录页背后的“隐形冠军”"
 description: "**AI 繁荣的隐形赢家：WorkOS 揭示企业服务基础设施的确定性机会** - WorkOS 完成 1 亿美元 C 轮融资（投后估值 20 亿），其身份认证服务被 OpenAI、Anthropic、xAI、Cursor 等主流 AI 公司广泛采用。 - 其增长逻辑清晰：AI 公司企业版激活常伴随 WorkOS 服务，使其增长与 AI 企业市场扩张深度绑定。 - 这表明在 AI 应用层厮杀激烈时，"
 resource: "https://x.com/i/status/2028632766951113152"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2028632766951113152"
+created: "2026-03-03"
+updated: "2026-06-26"
+sha256: "9255e8db3e12382a0b5e2a6f01713f140507884a21170d5c23821e2557d99a00"
+sources:
+  - "/sources/news/2026-03-03/00__zhangjintao9020__workos-获1亿融资-藏在所有ai巨头登录页背后的-隐形冠军.md"
 ---
 
 # WorkOS 获1亿融资：藏在所有AI巨头登录页背后的“隐形冠军”

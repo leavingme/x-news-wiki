@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "免费 + 能打：Michael Anti 亲测免费模型干活能力，验证实用价值"
 description: "**[免费模型「可用性」拐点已至]**  Michael Anti 接入某免费模型并用 Claude Code 实测，明确评价「比上次那个什么免费模型好太多了，至少能干活」。核心信号：免费层模型的 Agentic 能力正在突破「玩具」阈值，具备实际生产力。  - 量化锚点：「1T 参数量在这里」，免费模型已触及实用性能基准 - 渠道信号：通过 Claude Code 验证而非直接对话，说明工具层集"
 resource: "https://x.com/i/status/2049288937961832950"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2049288937961832950"
+created: "2026-04-29"
+updated: "2026-06-26"
+sha256: "ebabe31ef7af9af37e24d47873fef7605312d69dde087709bb5478ddfa2c004a"
+sources:
+  - "/sources/news/2026-04-29/00__mranti__免费-能打-michael-anti-亲测免费模型干活能力-验证实用价值.md"
 ---
 
 # 免费 + 能打：Michael Anti 亲测免费模型干活能力，验证实用价值

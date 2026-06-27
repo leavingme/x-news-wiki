@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "宝玉：模型公司做Harness是白干，垂直工作流重构才是真正价值洼地"
 description: "**模型层终将commoditize，护城河在别处。**  宝玉指出基础Agent Harness已无投资价值——模型公司自带升级直接抹平中间层工作量。真正的机会是垂直领域：AI Native工作流重新设计、Human In Loop的UX交互重构、垂直高质量数据整理。这些是模型公司不愿意干、也干不了的事。  **价值正在从「连接层」向「领域层」迁移。**"
 resource: "https://x.com/i/status/2058929615058477106"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2058929615058477106"
+created: "2026-05-25"
+updated: "2026-06-26"
+sha256: "e93889e9cbd0bfcd16c9fc07c03835153b7feb8e52480100476f6dd754cbed54"
+sources:
+  - "/sources/highlights/2026-05-25/00__dotey__宝玉-模型公司做harness是白干-垂直工作流重构才是真正价值洼地.md"
 ---
 
 # 宝玉：模型公司做Harness是白干，垂直工作流重构才是真正价值洼地

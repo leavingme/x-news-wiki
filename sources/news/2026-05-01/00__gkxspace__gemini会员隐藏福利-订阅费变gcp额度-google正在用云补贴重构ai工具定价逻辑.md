@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Gemini会员隐藏福利：订阅费变GCP额度，Google正在用云补贴重构AI工具定价逻辑"
 description: "**Google把AI订阅和云服务额度打通了，这是一次定价策略的信号级变化。**  - Gemini Pro（$10/月）可领$10/月GCP额度，Ultra（$100/月）可领$100/月，有效期一年 - 实质是用AI工具订阅绑定云生态——开发者用不完的额度会自然流向GCP其他服务 - 对比其他AI订阅的纯消费模式，Google在用「算力返还」做用户留存  gakki锐评：这笔账Google算得"
 resource: "https://x.com/i/status/2050183561316016186"
@@ -22,6 +22,13 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "ai-tool-subscription-value"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2050183561316016186"
+created: "2026-05-01"
+updated: "2026-06-26"
+sha256: "7775c62cdf753fed5f7101f21b6b6a196e01d4f913e2aa7a8af33cfe76954000"
+sources:
+  - "/sources/news/2026-05-01/00__gkxspace__gemini会员隐藏福利-订阅费变gcp额度-google正在用云补贴重构ai工具定价逻辑.md"
 ---
 
 # Gemini会员隐藏福利：订阅费变GCP额度，Google正在用云补贴重构AI工具定价逻辑

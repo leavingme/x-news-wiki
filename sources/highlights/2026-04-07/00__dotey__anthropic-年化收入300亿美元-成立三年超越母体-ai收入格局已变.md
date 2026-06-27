@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Anthropic 年化收入300亿美元：成立三年超越母体，AI收入格局已变"
 description: "**[Anthropic 正式登顶，AI 商业史最短路径的极端案例]**  Anthropic 官方确认年化收入突破 300 亿美元，正式超越 OpenAI（240亿）。这家 2021 年成立、不到三年前才赚第一美元的公司，以连续三年10倍增长的速度跑赢了它的\"母体\"。  关键数字：190亿到300亿仅用一个月，单月新增110亿年化收入。企业客户（年消费超百万美元）从500家翻倍至1000家，财富"
 resource: "https://x.com/i/status/2041307413777883484"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2041307413777883484"
+created: "2026-04-07"
+updated: "2026-06-26"
+sha256: "b2082e9aa8545bc5f2c29f923a50f53bfe04fa78677b078ee87b026f996425d9"
+sources:
+  - "/sources/highlights/2026-04-07/00__dotey__anthropic-年化收入300亿美元-成立三年超越母体-ai收入格局已变.md"
 ---
 
 # Anthropic 年化收入300亿美元：成立三年超越母体，AI收入格局已变

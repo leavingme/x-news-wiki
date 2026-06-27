@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Gemini 3.1 3D 网页生成断档领先：多模态模型能力出现代差"
 description: "**[Gemini 3.1 在 3D Web 生成上与同类拉开'前端技术断档级'差距]**  - 向阳乔木实测：上次 Gemini 3.1 勉强完成的任务，现在表现提升巨大，3D 网页生成尤为明显 - 该场景同时考验空间推理 + 代码生成 + 渲染输出，是多模态融合的硬指标 - 与 3D 可视化模型能力子专题（GPT-5.4、Opus 4.6 对比）形成新数据点   Gakki 锐评：3D 生成是"
 resource: "https://x.com/i/status/2065082121564360811"
@@ -22,6 +22,13 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "3d-visualization-model-capabilities"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2065082121564360811"
+created: "2026-06-11"
+updated: "2026-06-26"
+sha256: "debc80c6a5b40d2886051582a8211b51c481a1912cf3e14ccc31baf17c41bb1e"
+sources:
+  - "/sources/highlights/2026-06-11/00__vista8__gemini-3-1-3d-网页生成断档领先-多模态模型能力出现代差.md"
 ---
 
 # Gemini 3.1 3D 网页生成断档领先：多模态模型能力出现代差

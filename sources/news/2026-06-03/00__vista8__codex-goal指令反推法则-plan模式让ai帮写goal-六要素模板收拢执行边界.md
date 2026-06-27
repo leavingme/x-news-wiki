@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Codex Goal指令反推法则：plan模式让AI帮写Goal，六要素模板收拢执行边界"
 description: "**【AI Coding工具的工程化方法论正在固化】**  向阳乔木从OpenAI官方文档中提炼出两个高价值技巧：其一，当goal表述模糊时，先切plan模式让AI反问收敛需求，实质是把\"需求澄清\"这个认知工作外包给模型；其二，六要素模板（结果/验证/约束/边界/迭代/阻塞条件）本质上是把SRE发布准出标准结构化注入提示词层，是工程纪律向AI工作流的主动渗透。  这不是提示词优化技巧，而是AI C"
 resource: "https://x.com/i/status/2062189983096557995"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2062189983096557995"
+created: "2026-06-03"
+updated: "2026-06-26"
+sha256: "4e43a4caedd45f30ce4cb63d8597d48347fcb47070c135a7a5a54b2290715d40"
+sources:
+  - "/sources/news/2026-06-03/00__vista8__codex-goal指令反推法则-plan模式让ai帮写goal-六要素模板收拢执行边界.md"
 ---
 
 # Codex Goal指令反推法则：plan模式让AI帮写Goal，六要素模板收拢执行边界

@@ -1,5 +1,5 @@
 ---
-type: "Author"
+type: "entity"
 title: "Z大诗 (@Zh_Crypto517)"
 description: "X/Twitter 作者 @Zh_Crypto517。共收录 1 条 AI 精选推文。"
 tags:
@@ -12,6 +12,12 @@ x_author_name: "Z大诗"
 x_tweet_count: 1
 x_first_seen: "2026-03-23T12:43:25.586Z"
 x_last_seen: "2026-03-23T12:43:25.586Z"
+type_okf: "Author"
+created: "2026-03-23"
+updated: "2026-06-26"
+sha256: "8abfa1552fe935bde11f758d34dd55ab4e53ccb4321d8956ec3f1beed382522d"
+sources:
+  - "/sources/highlights/2026-03-23/00__Zh_Crypto517__火山引擎openviking开源-agent上下文成本下降96-的-记忆操作系统-范式.md"
 ---
 
 # Z大诗 (@Zh_Crypto517)

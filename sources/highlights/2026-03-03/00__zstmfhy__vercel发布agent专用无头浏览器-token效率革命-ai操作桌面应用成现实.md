@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Vercel发布Agent专用无头浏览器：Token效率革命，AI操作桌面应用成现实"
 description: "**[Token效率与操作范围双重突破，Agent自动化能力迎来关键基础设施]** - Vercel Labs开源`agent-browser`，采用快照+元素引用模式，号称可节省80%以上Token，极大降低Agent网页交互成本。 - 提供直观的CLI命令，使AI能直接执行点击、填表、截图等复杂浏览器操作，并支持B站、Discord、Figma、VS Code等桌面应用控制。 - 基于Rust"
 resource: "https://x.com/i/status/2028620238821204297"
@@ -22,6 +22,13 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "agent-browser-token-efficiency"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2028620238821204297"
+created: "2026-03-02"
+updated: "2026-06-26"
+sha256: "1b3d6dfaa3eab9ba4e84867625bc0d91ccf9fb007f055f76baaad10848c4d580"
+sources:
+  - "/sources/highlights/2026-03-03/00__zstmfhy__vercel发布agent专用无头浏览器-token效率革命-ai操作桌面应用成现实.md"
 ---
 
 # Vercel发布Agent专用无头浏览器：Token效率革命，AI操作桌面应用成现实

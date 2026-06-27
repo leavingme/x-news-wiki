@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Goal指令调研报告发布：向阳乔木系统性验证/goal工作流实战效果"
 description: "**[一句话核心判断]**  Goal指令作为Claude Code高阶用法终于有了系统性调研支撑，而非停留于KOL口头安利。  **信息增量：** - 调研覆盖实际使用场景，非概念罗列 - 向阳乔木素以务实著称，其出品有别于空洞的方法论分享 - 可能验证「分批Commit是Agent工程化最小单位」的前期论断  **影响：** - 为Skill市集提供实战案例支撑 - 降低独立开发者学习/goa"
 resource: "https://x.com/i/status/2062190082350612867"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2062190082350612867"
+created: "2026-06-03"
+updated: "2026-06-26"
+sha256: "8cb2e1d66204c2f698dcb26b91eb26287e9398536550ff9a5488f239acb075cf"
+sources:
+  - "/sources/news/2026-06-03/00__vista8__goal指令调研报告发布-向阳乔木系统性验证-goal工作流实战效果.md"
 ---
 
 # Goal指令调研报告发布：向阳乔木系统性验证/goal工作流实战效果

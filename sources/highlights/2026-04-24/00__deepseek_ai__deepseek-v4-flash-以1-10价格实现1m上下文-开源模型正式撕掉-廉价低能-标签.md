@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "DeepSeek-V4-Flash：以1/10价格实现1M上下文，开源模型正式撕掉「廉价低能」标签"
 description: "**[DeepSeek-V4-Flash用284B参数撬动百万级上下文，成本效率曲线正在改写行业定价锚点]**  - 1.6T总参数/49B激活的Pro版性能比肩世界顶级闭源模型，13B激活的Flash版主打极致性价比 - 百万Token上下文首次以「成本可承受」的姿态开源，Claude Opus的百万Token「智商税」定价承压 - 技术报告同步开源，国产GPU支持已确认，生态绑定意图明显  D"
 resource: "https://x.com/deepseek_ai/status/2047516922263285776"
@@ -22,6 +22,13 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "deepseek-v4-open-source"
 x_source: "ai-trend-digest"
+type_okf: "X Tweet"
+source_url: "https://x.com/deepseek_ai/status/2047516922263285776"
+created: "2026-04-24"
+updated: "2026-06-26"
+sha256: "3611c057f2147824d7ad18f446c73906d9d0df95750fd81a8aced463861ba56a"
+sources:
+  - "/sources/highlights/2026-04-24/00__deepseek_ai__deepseek-v4-flash-以1-10价格实现1m上下文-开源模型正式撕掉-廉价低能-标签.md"
 ---
 
 # DeepSeek-V4-Flash：以1/10价格实现1M上下文，开源模型正式撕掉「廉价低能」标签

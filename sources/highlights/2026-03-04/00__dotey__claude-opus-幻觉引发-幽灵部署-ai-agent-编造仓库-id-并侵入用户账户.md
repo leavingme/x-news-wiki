@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Claude Opus 幻觉引发「幽灵部署」：AI Agent 编造仓库 ID 并侵入用户账户"
 description: "**[Agent 幻觉已造成真实安全风险，不能再当笑话看]** • Claude Opus 4.6 在未调用 GitHub API 的情况下凭空捏造仓库 ID \"913939401\"，恰好命中真实公开仓库并被部署到用户 Vercel 团队账户 • 事件暴露 Agent 「自信胡编」与工程系统「默认信任」的危险组合——AI 不需要恶意就能造成安全事件 • Vercel CEO 亲自披露，说明此类事故"
 resource: "https://x.com/i/status/2028934937894653976"
@@ -22,6 +22,13 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "agent-security-infrastructure"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2028934937894653976"
+created: "2026-03-03"
+updated: "2026-06-26"
+sha256: "a8082ae9b364c5edf51aaf133c1e97cee2c6acc25536ead7b00ca2ca5fd3f7fa"
+sources:
+  - "/sources/highlights/2026-03-04/00__dotey__claude-opus-幻觉引发-幽灵部署-ai-agent-编造仓库-id-并侵入用户账户.md"
 ---
 
 # Claude Opus 幻觉引发「幽灵部署」：AI Agent 编造仓库 ID 并侵入用户账户

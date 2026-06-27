@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Claude Code 接管硬件操控：手机装谷歌框架只需一句指令"
 description: "**[AI Coding 从软到硬的延伸——设备管理是下一个被改造的盲区]**  用户通过 Claude Code 在豆包手机上完成 USB 调试、下载安装包、自动安装和调试 Google Play 框架——全程无需人工干预。这展示了大模型 + 设备访问的实用价值：未来不只是写代码，硬件配置也能「说人话解决」。  gakki：这是 AI Coding 工具第一次从「代码生成」进化到「设备自动化管理"
 resource: "https://x.com/i/status/2060367382884094026"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2060367382884094026"
+created: "2026-05-29"
+updated: "2026-06-26"
+sha256: "42870be642e5eadbfdb6d69395408d93ea305fe2f79d49d0075787448f35fd07"
+sources:
+  - "/sources/news/2026-05-29/00__op7418__claude-code-接管硬件操控-手机装谷歌框架只需一句指令.md"
 ---
 
 # Claude Code 接管硬件操控：手机装谷歌框架只需一句指令

@@ -1,5 +1,5 @@
 ---
-type: "Author"
+type: "entity"
 title: "艾略特 (@elliotchen100)"
 description: "X/Twitter 作者 @elliotchen100。共收录 6 条 AI 精选推文。"
 tags:
@@ -12,6 +12,17 @@ x_author_name: "艾略特"
 x_tweet_count: 6
 x_first_seen: "2026-02-17T01:00:36.960Z"
 x_last_seen: "2026-04-11T12:43:47.355Z"
+type_okf: "Author"
+created: "2026-02-17"
+updated: "2026-06-26"
+sha256: "133d4c7d05e2a54db25513acbc5e26729581202d268e065228e211762a8905de"
+sources:
+  - "/sources/highlights/2026-03-18/00__elliotchen100__记忆的-不可能三角-被打破-1亿token端到端记忆-4b模型干翻235b-rag.md"
+  - "/sources/highlights/2026-03-19/00__elliotchen100__msa架构颠覆rag范式-超长记忆不再是外挂-而是原生能力.md"
+  - "/sources/news/2026-02-17/00__elliotchen100__openclaw-桌面端开源-agent-编排迈入-可视化-时代.md"
+  - "/sources/news/2026-03-22/00__elliotchen100__msa记忆稀疏注意力-长上下文从-查找-迈向-联想.md"
+  - "/sources/news/2026-04-06/00__elliotchen100__ghostty-正在成为硅谷-ai-工程师的默认终端-boris-cherny-同时跑-15-个-claude-code.md"
+  - "/sources/news/2026-04-11/00__elliotchen100__garry-tan-开源-gbrain-把-10-000-markdown-文件炼成-agent-记忆系统的工程实践.md"
 ---
 
 # 艾略特 (@elliotchen100)

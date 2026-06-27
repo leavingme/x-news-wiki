@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "NVIDIA开源Skill安全扫描工具：Skill生态的「安全负债」终于有人认领"
 description: "**一句话核心判断：** NVIDIA开源Skill安全扫描工具，填补了Skill生态中长期缺失的安全验证层，为Skill的可信复用提供了基础设施。  **要点：** - Skill安全是个老问题但长期被忽视，没有听到严重破坏案例不等于没有风险 - 建议「他人Skill只做AI学习参考」，实际上划定了Skill信任边界 - 提出「Meta Skill生成自用Skill」作为安全实践，这是Skill"
 resource: "https://x.com/i/status/2061848042249322499"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2061848042249322499"
+created: "2026-06-02"
+updated: "2026-06-26"
+sha256: "4649c2ff285ae5a4adfe2d64179b025d46248cfb5b73c8a8f25b8497c17a9e7f"
+sources:
+  - "/sources/news/2026-06-02/00__vista8__nvidia开源skill安全扫描工具-skill生态的-安全负债-终于有人认领.md"
 ---
 
 # NVIDIA开源Skill安全扫描工具：Skill生态的「安全负债」终于有人认领

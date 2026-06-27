@@ -1,5 +1,5 @@
 ---
-type: "Author"
+type: "entity"
 title: "Yangyi (@Yangyixxxx)"
 description: "X/Twitter 作者 @Yangyixxxx。共收录 1 条 AI 精选推文。"
 tags:
@@ -12,6 +12,12 @@ x_author_name: "Yangyi"
 x_tweet_count: 1
 x_first_seen: "2026-01-31T09:52:31.902Z"
 x_last_seen: "2026-01-31T09:52:31.902Z"
+type_okf: "Author"
+created: "2026-01-31"
+updated: "2026-06-26"
+sha256: "88625d568cb7977dcd5898728099914c58de08739b88ddb6d1c9e0edc535a779"
+sources:
+  - "/sources/news/2026-01-31/00__Yangyixxxx__openclaw-被誉为-ai-agent-最佳实践-从-copilot-迈向-infra.md"
 ---
 
 # Yangyi (@Yangyixxxx)

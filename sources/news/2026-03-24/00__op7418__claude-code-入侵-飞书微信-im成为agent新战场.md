@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Claude Code「入侵」飞书微信：IM成为Agent新战场"
 description: "**[编码Agent正在突破IDE边界，向企业协作核心渗透]** • Claude-to-IM-Skills插件实现Claude Code/Codex与飞书、微信的无缝对接 • 配置极简：扫码即可连接，大幅降低企业部署门槛 • 信号：Agent入口正在从专用工具向「人在哪里，Agent就在哪里」迁移  当编码Agent可以直接在IM里响应需求，「提需求→出代码」的链路被压缩到极限。这不仅是技术集成"
 resource: "https://x.com/i/status/2036260385490346133"
@@ -22,6 +22,13 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "agent-multi-platform"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2036260385490346133"
+created: "2026-03-24"
+updated: "2026-06-26"
+sha256: "2636b21da1977a24c1a0b1bec05d9819bf0b2a1e15d5dd38469012d935cce30c"
+sources:
+  - "/sources/news/2026-03-24/00__op7418__claude-code-入侵-飞书微信-im成为agent新战场.md"
 ---
 
 # Claude Code「入侵」飞书微信：IM成为Agent新战场

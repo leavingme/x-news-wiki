@@ -1,5 +1,5 @@
 ---
-type: "Author"
+type: "entity"
 title: "Colin Wu (@colinwu)"
 description: "X/Twitter 作者 @colinwu。共收录 1 条 AI 精选推文。"
 tags:
@@ -12,6 +12,12 @@ x_author_name: "Colin Wu"
 x_tweet_count: 1
 x_first_seen: "2026-03-22T12:43:08.432Z"
 x_last_seen: "2026-03-22T12:43:08.432Z"
+type_okf: "Author"
+created: "2026-03-22"
+updated: "2026-06-26"
+sha256: "305ea89e123ba227954601b1d7333a1a90a69f2be7ab7a897e03b7e2b2761faa"
+sources:
+  - "/sources/highlights/2026-03-22/00__colinwu__大厂-应届生换血-真相-ai培训正在消灭传统师徒制最后的护城河.md"
 ---
 
 # Colin Wu (@colinwu)

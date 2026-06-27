@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "宝玉拆解 Codex 缺 Design 产品的根因：模型层能力差距，Harness 救不了"
 description: "**[Claude Design 看似是产品创新，本质是 Opus 4.8 的模型能力 + Harness 工程的合谋]  - 关键区分：Agent 分为模型层（大脑）与 Harness 层（产品+工具链+提示词）。Claude Design 之所以能一句话生成可交互原型，根因是 Opus 4.8 的多模态生成与代码能力已越过了「设计可执行」的门槛 - 网友追问 Codex 何时出 Design "
 resource: "https://x.com/i/status/2065874894563463660"
@@ -22,6 +22,13 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "ai-coding-market-divergence"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2065874894563463660"
+created: "2026-06-13"
+updated: "2026-06-26"
+sha256: "d7da0daed49f2f38943c09e61d04978c47edb1d13d8de1ef3063f30acd3e9da3"
+sources:
+  - "/sources/highlights/2026-06-13/00__dotey__宝玉拆解-codex-缺-design-产品的根因-模型层能力差距-harness-救不了.md"
 ---
 
 # 宝玉拆解 Codex 缺 Design 产品的根因：模型层能力差距，Harness 救不了

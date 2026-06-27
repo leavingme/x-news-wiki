@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "多 Agent 团队结构是「中层病」：别学人类组织结构"
 description: "**[Agent 编排的本质是操作系统，不是 HR 架构]** • 强行套用人类团队的中层管理结构，只会把大模型本就流动的上下文窗口割裂成孤岛 • 核心应聚焦：记忆管理、知识结构、上下文压缩、异步并发——而非生搬硬套「经理-员工」层级 • Agent 编排的终极形态是资源调度系统，而非模拟人类组织的 sociology experiment  **gakki 锐评：** 终于有人敢说了。现在的多 "
 resource: "https://x.com/i/status/2031365887199162738"
@@ -22,6 +22,13 @@ x_selected: 2
 x_priority: 85
 x_related_topic: "agent-fundamentals-education"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2031365887199162738"
+created: "2026-03-10"
+updated: "2026-06-26"
+sha256: "1b6f8ead7631abc421029f0876c6d175e818bc3d4525e0f2d5520d6ba777baa8"
+sources:
+  - "/sources/highlights/2026-03-11/85__NekoStranding__多-agent-团队结构是-中层病-别学人类组织结构.md"
 ---
 
 # 多 Agent 团队结构是「中层病」：别学人类组织结构

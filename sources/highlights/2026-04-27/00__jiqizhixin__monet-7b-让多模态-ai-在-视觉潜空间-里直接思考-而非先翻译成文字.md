@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Monet-7B：让多模态 AI 在「视觉潜空间」里直接思考，而非先翻译成文字"
 description: "**[视觉原生推理：多模态 AI 的一次路线切换]**  北京大学、Kling 团队与 Amazon AGI 联合推出 Monet-7B，核心突破是让多模态模型在视觉潜空间（visual latent space）内直接进行推理——不再依赖文本中转或调用外部图像生成器。模型生成连续的视觉嵌入作为「心理图像」，配合三阶段蒸馏 SFT 流程克服对齐成本。  这意味着 AI 看图时的推理路径，从「图→文"
 resource: "https://x.com/i/status/2048598010649530847"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2048598010649530847"
+created: "2026-04-27"
+updated: "2026-06-26"
+sha256: "5fdcd9597429d18d9a7658bddcf3b30b296bebfc0d6f9f707aaeca1b16e5c2de"
+sources:
+  - "/sources/highlights/2026-04-27/00__jiqizhixin__monet-7b-让多模态-ai-在-视觉潜空间-里直接思考-而非先翻译成文字.md"
 ---
 
 # Monet-7B：让多模态 AI 在「视觉潜空间」里直接思考，而非先翻译成文字

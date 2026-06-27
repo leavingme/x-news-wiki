@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "正版 Minecraft 与破解版：一个普通家庭的软件版权意识启蒙"
 description: "**一句话核心判断**：向阳乔木给孩子买正版 Minecraft 的背后，是 AI/技术从业者对\"数字产品价值\"的认知已经与其受众群体产生了严重割裂——而这恰恰是 AI 内容大众化传播的核心障碍。  **信息增量**： - 孩子和同学长期使用破解版是下沉市场的真实写照，与 AI 圈对版权的重视形成鲜明对比 - 与 rey 老师直播后采取行动，说明 KOL 带货对技术从业者依然有效  **gakki"
 resource: "https://x.com/i/status/2048714852605255869"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2048714852605255869"
+created: "2026-04-27"
+updated: "2026-06-26"
+sha256: "f298cf06d40819871e0496d4b91ceeba7e25b841dc0e26fa46043f942f8e19d0"
+sources:
+  - "/sources/news/2026-04-27/00__vista8__正版-minecraft-与破解版-一个普通家庭的软件版权意识启蒙.md"
 ---
 
 # 正版 Minecraft 与破解版：一个普通家庭的软件版权意识启蒙

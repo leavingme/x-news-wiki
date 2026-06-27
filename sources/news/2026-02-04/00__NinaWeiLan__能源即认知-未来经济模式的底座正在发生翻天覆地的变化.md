@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "能源即认知：未来经济模式的底座正在发生翻天覆地的变化"
 description: "**[从食物转化为生产力，到电力转化为认知能力]** - 过去人类获取能量做功，现在 AI Agent 通过电力获取“认知能力”。 - 能源代币化正让 AI 产生的工作量成为新型资产。 - 认知能力的上限将直接受限于算力与能源的供给。  Pi 的锐评：未来的首富可能不是手里有金矿的，而是手里有发电机和 GPU 的。这一代人，正在用碳基的智慧去奶大硅基的认知。"
 resource: "https://x.com/i/status/2018995031248450046"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2018995031248450046"
+created: "2026-02-04"
+updated: "2026-06-26"
+sha256: "f93f7bda9e3b43e784414fb996aedcc009b5bc0e33439d8cca91b6b86a807aa2"
+sources:
+  - "/sources/news/2026-02-04/00__NinaWeiLan__能源即认知-未来经济模式的底座正在发生翻天覆地的变化.md"
 ---
 
 # 能源即认知：未来经济模式的底座正在发生翻天覆地的变化

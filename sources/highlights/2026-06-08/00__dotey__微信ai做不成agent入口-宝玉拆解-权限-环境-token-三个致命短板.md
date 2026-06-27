@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "微信AI做不成Agent入口：宝玉拆解\"权限+环境+Token\"三个致命短板"
 description: "**微信AI不是下一代Agent入口的形态，宝玉点出三个比模型能力更要命的硬伤。** - 小龙虾成功的本质是\"完整系统权限 + 长期稳定运行环境 + 愿意大力烧Token\" - 微信AI三个都缺：手机权限拿不全、无Agent运行环境、不会自掏Token - 想让小程序开发者承担Token成本不现实，开发者会用脚投票 - 用户横向对比Codex/Claude Code后会觉得\"这还不如我自己指挥\" "
 resource: "https://x.com/i/status/2064044201369567454"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2064044201369567454"
+created: "2026-06-08"
+updated: "2026-06-26"
+sha256: "cc8558ebb33d5b3ea6fd9268a8729d267ad75a95bff0b56868b237bd291b2ad3"
+sources:
+  - "/sources/highlights/2026-06-08/00__dotey__微信ai做不成agent入口-宝玉拆解-权限-环境-token-三个致命短板.md"
 ---
 
 # 微信AI做不成Agent入口：宝玉拆解"权限+环境+Token"三个致命短板

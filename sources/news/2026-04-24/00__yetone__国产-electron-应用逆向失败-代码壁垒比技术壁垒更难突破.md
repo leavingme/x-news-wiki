@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "国产 Electron 应用逆向失败：代码壁垒比技术壁垒更难突破"
 description: "**[信息安全的地缘分化正在从硬件延伸到软件层]**  yetone 逆向国产 Electron 应用宣告失败。这是一个值得注意的信号：  - 国产应用正在系统性加固逆向壁垒，从代码混淆到加密签名 - 与「算力封锁」平行，软件层的「逆向封锁」正在形成 - 意味着未来基于 AI 的代码理解、自动化测试、多 Agent 协作等场景，对国产应用的渗透成本将显著上升  **gakki 锐评：** 如果连 "
 resource: "https://x.com/i/status/2047313685945929932"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2047313685945929932"
+created: "2026-04-23"
+updated: "2026-06-26"
+sha256: "6fc58c5a9d6fe89e010d48c36e795150fb775cceb8cd844c4c40201848ad5a50"
+sources:
+  - "/sources/news/2026-04-24/00__yetone__国产-electron-应用逆向失败-代码壁垒比技术壁垒更难突破.md"
 ---
 
 # 国产 Electron 应用逆向失败：代码壁垒比技术壁垒更难突破

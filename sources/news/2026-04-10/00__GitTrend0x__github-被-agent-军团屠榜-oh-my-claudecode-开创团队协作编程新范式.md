@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "GitHub 被 Agent 军团屠榜：oh-my-claudecode 开创团队协作编程新范式"
 description: "**[多 Agent 协作编程从极客玩具进入 GitHub 主流]**  三个 Agent 项目同时爆发：last30days-skill（7×24 全网情报官）、oh-my-claudecode（Claude 团队群聊）、dexter（金融财报 Agent）。单日 2685 星，Agent 编程工具链已脱离 Demo 阶段。  oh-my-claudecode 的核心价值：让 AI 互相 rev"
 resource: "https://x.com/i/status/2037352914227011868"
@@ -22,6 +22,13 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "sub-agents-multi-expert"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2037352914227011868"
+created: "2026-03-27"
+updated: "2026-06-26"
+sha256: "747d9500ab8e24b829be42b623941dd81024b3267f742c5593e86aa22df900f5"
+sources:
+  - "/sources/news/2026-04-10/00__GitTrend0x__github-被-agent-军团屠榜-oh-my-claudecode-开创团队协作编程新范式.md"
 ---
 
 # GitHub 被 Agent 军团屠榜：oh-my-claudecode 开创团队协作编程新范式

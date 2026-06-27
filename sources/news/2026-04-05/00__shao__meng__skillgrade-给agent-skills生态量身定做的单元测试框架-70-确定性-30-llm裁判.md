@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Skillgrade：给Agent Skills生态量身定做的单元测试框架，70%确定性+30% LLM裁判"
 description: "**[Skillgrade让Agent Skills从手工试错升级为可量化、可CI集成的工程闭环]**  @mgechev发布的Skillgrade是Agent Skills生态的第一个官方测试框架：混合评分（70%确定性代码检查+30% LLM裁判工作流质量）、Docker沙盒隔离防止Agent误操作、一键AI初始化支持三种测试粒度（烟雾5次、可靠15次、回归30次）。  这意味着SKILL.m"
 resource: "https://x.com/i/status/2033704407129542798"
@@ -22,6 +22,13 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "skill-automation-engineering"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2033704407129542798"
+created: "2026-03-17"
+updated: "2026-06-26"
+sha256: "c7a5198931bf2a62f01413d39fed48228a3391502f35f54e011b539c40f204ac"
+sources:
+  - "/sources/news/2026-04-05/00__shao__meng__skillgrade-给agent-skills生态量身定做的单元测试框架-70-确定性-30-llm裁判.md"
 ---
 
 # Skillgrade：给Agent Skills生态量身定做的单元测试框架，70%确定性+30% LLM裁判

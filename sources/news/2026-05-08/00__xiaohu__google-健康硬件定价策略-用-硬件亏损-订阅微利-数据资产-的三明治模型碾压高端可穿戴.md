@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Google 健康硬件定价策略：用「硬件亏损 + 订阅微利 + 数据资产」的三明治模型碾压高端可穿戴"
 description: "**$99 硬件价格不是低价策略，是 Google 进入可穿戴市场的「流量采买」。**  - 硬件 $99 一次性 + $9.99/月订阅，对比 Whoop 年费便宜一半、Oura 硬件便宜三分之二，传感器配置相当——定价精准对标存量用户的迁移成本 - 可穿戴赛道的经济模型正在从「硬件溢价」转向「订阅 + 数据资产」，Google 用广告业务补贴硬件的逻辑与 Pixel 手机一脉相承 - 当硬件变"
 resource: "https://x.com/i/status/2052584543618732442"
@@ -22,6 +22,13 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "robot-phone-consumer-embodied-ai"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2052584543618732442"
+created: "2026-05-08"
+updated: "2026-06-26"
+sha256: "4d885e7d4351779460a3cb26da95b3dd4f6ad463e4eb15175b580ff2a7755e3f"
+sources:
+  - "/sources/news/2026-05-08/00__xiaohu__google-健康硬件定价策略-用-硬件亏损-订阅微利-数据资产-的三明治模型碾压高端可穿戴.md"
 ---
 
 # Google 健康硬件定价策略：用「硬件亏损 + 订阅微利 + 数据资产」的三明治模型碾压高端可穿戴

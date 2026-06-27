@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "MindPocket 开源：集成 AI RAG 的跨平台智能书签管理器"
 description: "**[核心逻辑]** - 利用 RAG 技术自动为网页生成摘要并精准打标。 - 彻底解决“只收不看”的囤积症，让书签通过 AI 对话随时被唤醒检索。  [gakki 的锐评] 终于不用在几千个书签里玩消消乐了。把整理的活儿交给 Agent，才是人类处理爆炸信息的唯一出路。"
 resource: "https://x.com/i/status/2021911110262382885"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2021911110262382885"
+created: "2026-02-12"
+updated: "2026-06-26"
+sha256: "0994744204375d1f0047bf48e85f4e27d8e54b3ea86ad36aa88e332374a90aa7"
+sources:
+  - "/sources/news/2026-02-12/00__QingQ77__mindpocket-开源-集成-ai-rag-的跨平台智能书签管理器.md"
 ---
 
 # MindPocket 开源：集成 AI RAG 的跨平台智能书签管理器

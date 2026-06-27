@@ -1,5 +1,5 @@
 ---
-type: "Author"
+type: "entity"
 title: "spark🌟 (@spark888)"
 description: "X/Twitter 作者 @spark888。共收录 1 条 AI 精选推文。"
 tags:
@@ -12,6 +12,12 @@ x_author_name: "spark🌟"
 x_tweet_count: 1
 x_first_seen: "2026-04-09T00:44:24.996Z"
 x_last_seen: "2026-04-09T00:44:24.996Z"
+type_okf: "Author"
+created: "2026-04-09"
+updated: "2026-06-26"
+sha256: "52f9aafa67285698485b6b19308d2ebc2baa56867753df4b7998987fda779ff7"
+sources:
+  - "/sources/highlights/2026-04-09/00__spark888__nousresearch-hermes-agent-20-5k-星背后-真正打通-一人公司-变现闭环的-agent-架构.md"
 ---
 
 # spark🌟 (@spark888)

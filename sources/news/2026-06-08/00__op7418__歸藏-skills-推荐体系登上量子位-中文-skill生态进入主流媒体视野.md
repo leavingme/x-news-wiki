@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "歸藏 Skills 推荐体系登上量子位：中文 Skill生态进入主流媒体视野"
 description: "**[生态传播信号] 个人 Skill 方法论获得主流科技媒体背书**  -量子位报道了歸藏的 Skills 推荐体系，多个媒体和账号同步传播 -标志性节点：Agent实践者的方法论从极客圈层跨入大众科技读者视野 -含义：Skill 不再是工程师私货，开始具备大众认知基础   gakki锐评：当 Skill 从「个人工作流」变成「媒体内容」，它的传播范式已经跑通。但要警惕：一旦进入大众视野，开源共"
 resource: "https://x.com/i/status/2063991326132383988"
@@ -22,6 +22,13 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "skill-recommendation-culture"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2063991326132383988"
+created: "2026-06-08"
+updated: "2026-06-26"
+sha256: "e47da47ce7ec53b5eb6d5a677cbe65468b6ac1454f47c864955fdfbed4683c18"
+sources:
+  - "/sources/news/2026-06-08/00__op7418__歸藏-skills-推荐体系登上量子位-中文-skill生态进入主流媒体视野.md"
 ---
 
 # 歸藏 Skills 推荐体系登上量子位：中文 Skill生态进入主流媒体视野

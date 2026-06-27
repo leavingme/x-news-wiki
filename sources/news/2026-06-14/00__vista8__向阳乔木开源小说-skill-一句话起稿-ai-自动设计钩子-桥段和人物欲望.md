@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "向阳乔木开源小说 Skill：一句话起稿，AI 自动设计钩子、桥段和人物欲望"
 description: "**写小说也被 Skill 化：乔木把钩子、冲突升级、人物欲望模板封装成一条指令**  - 输入「我想写一个小说」或「类似 xxx 的小说」，AI 自动生成剧情梗概、人物设定 - 钩子、经典桥段、人物欲望、冲突升级、结尾——全部内置模板，用户与 AI 讨论修改后再生成完整版本 - 安装方式：`npx skills add joeseesun/qiaomu-novel-generator`——延续 "
 resource: "https://x.com/i/status/2066165703443726749"
@@ -22,6 +22,13 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "skill-recommendation-culture"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2066165703443726749"
+created: "2026-06-14"
+updated: "2026-06-26"
+sha256: "52795029f7ad4bde0810d93ce73d7b94c206d24d01e6646f830f9d69347811fc"
+sources:
+  - "/sources/news/2026-06-14/00__vista8__向阳乔木开源小说-skill-一句话起稿-ai-自动设计钩子-桥段和人物欲望.md"
 ---
 
 # 向阳乔木开源小说 Skill：一句话起稿，AI 自动设计钩子、桥段和人物欲望

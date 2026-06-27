@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Tanka：让任务直接坍缩为Workflow的AI-native工作区"
 description: "**[一句话核心判断]** Tanka展示了AI-native workspace的范式样本：用户输入评估任务，系统直接将其展开为可执行的workflow，而非等待进一步澄清。  - **信息增量**：Tanka能连接上百个常用Tools，将自然语言任务自动结构化为工作流——这比传统AI助手\"你说我做\"的模式向前迈了一步，是\"你说什么我就知道做什么\"。 - **对谁有影响**：知识工作者和独立开发"
 resource: "https://x.com/i/status/2054241199913910694"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2054241199913910694"
+created: "2026-05-12"
+updated: "2026-06-26"
+sha256: "3a7d15918b52105684c8dfec96c8bd894b9d93923b0a9d677dc2445ce182c500"
+sources:
+  - "/sources/news/2026-05-12/00__gkxspace__tanka-让任务直接坍缩为workflow的ai-native工作区.md"
 ---
 
 # Tanka：让任务直接坍缩为Workflow的AI-native工作区

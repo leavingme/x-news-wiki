@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "RouteMoA：轻量路由砍掉多 Agent 协作 90% 成本，MoA 架构迎来工程化拐点"
 description: "**多 Agent 协作的成本瓶颈正在被轻量路由策略打破，而不是靠堆更多模型。**  - 上海交大、港中文、腾讯、南洋理工联合提出 RouteMoA：用轻量打分器预判每个模型对当前 query 的潜力，再用混合裁判精炼结果，无需额外推理 - 相比标准 Mixture-of-Agents，成本降低 89.8%，延迟降低 63.6%——这不是渐进优化，是架构级重构 - 核心洞察：Agent 编排的效率"
 resource: "https://x.com/i/status/2053125337270407620"
@@ -22,6 +22,13 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "multi-agent-framework-ecosystem-comparison"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2053125337270407620"
+created: "2026-05-09"
+updated: "2026-06-26"
+sha256: "23cdc2ef51939bf3e8fda493ba8752546e1cf37a3f2ca6ec68fad69a604c9b7f"
+sources:
+  - "/sources/highlights/2026-05-09/00__jiqizhixin__routemoa-轻量路由砍掉多-agent-协作-90-成本-moa-架构迎来工程化拐点.md"
 ---
 
 # RouteMoA：轻量路由砍掉多 Agent 协作 90% 成本，MoA 架构迎来工程化拐点

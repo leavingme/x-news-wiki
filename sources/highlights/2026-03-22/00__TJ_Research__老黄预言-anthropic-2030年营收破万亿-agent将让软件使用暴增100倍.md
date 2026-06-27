@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "老黄预言：Anthropic 2030年营收破万亿，Agent将让软件使用暴增100倍"
 description: "**[Jensen Huang押注Agent经济，Chamath的「AI无ROI」论调被当面打脸]**  • 黄仁勋预测Anthropic 2030年营收将达1万亿美元 • Agent架构将使企业软件使用率提升100倍，催生「二级代码销售商」生态 • 同场Chamath此前声称AI无投资回报，采访中对老黄观点频频点头  **Gakki锐评：** 这是「算力军火商」对「Agent经济」的背书——当G"
 resource: "https://x.com/i/status/2035424599153037351"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2035424599153037351"
+created: "2026-03-21"
+updated: "2026-06-26"
+sha256: "d9d40eae7b76f07692b68260641f468312d7f39871aaf1f4a0f8922a7173af8a"
+sources:
+  - "/sources/highlights/2026-03-22/00__TJ_Research__老黄预言-anthropic-2030年营收破万亿-agent将让软件使用暴增100倍.md"
 ---
 
 # 老黄预言：Anthropic 2030年营收破万亿，Agent将让软件使用暴增100倍

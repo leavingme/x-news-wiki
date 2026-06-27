@@ -1,5 +1,5 @@
 ---
-type: "Author"
+type: "entity"
 title: "水煎包.Clawby (@RenYuke99)"
 description: "X/Twitter 作者 @RenYuke99。共收录 1 条 AI 精选推文。"
 tags:
@@ -12,6 +12,12 @@ x_author_name: "水煎包.Clawby"
 x_tweet_count: 1
 x_first_seen: "2026-04-02T21:49:22.968Z"
 x_last_seen: "2026-04-02T21:49:22.968Z"
+type_okf: "Author"
+created: "2026-04-02"
+updated: "2026-06-26"
+sha256: "379cdaaea1ce6d80c12a3d3baf4cb438ca534a52aed22fd36a0a19a18476659b"
+sources:
+  - "/sources/highlights/2026-04-02/00__RenYuke99__安装体验正在杀死ai工具普及-claude-code用户实名吐槽-为那点醋包一顿饺子.md"
 ---
 
 # 水煎包.Clawby (@RenYuke99)

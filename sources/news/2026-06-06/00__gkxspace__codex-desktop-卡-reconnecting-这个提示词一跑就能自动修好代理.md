@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Codex Desktop 卡 Reconnecting？这个提示词一跑就能自动修好代理"
 description: "**Codex Desktop 用户卡在 Reconnecting 的可用解法被端哥抽象成一条提示词。**  - 让 Agent 自动定位本机代理端口与协议（不写死），改写 `~/.codex/.env` 注入 HTTP/HTTPS_PROXY - 保留已有配置项不覆盖，写完自检并给出重启指引——典型的「让 AI 修 AI 工具」范式 - 适用面：从「五思而后行」现象反推，Codex Deskto"
 resource: "https://x.com/i/status/2063167368390377517"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2063167368390377517"
+created: "2026-06-06"
+updated: "2026-06-26"
+sha256: "6c97d1337bb2a4e5b535fce203d8f230903b93d9a46315c7f2dddda62184e0b9"
+sources:
+  - "/sources/news/2026-06-06/00__gkxspace__codex-desktop-卡-reconnecting-这个提示词一跑就能自动修好代理.md"
 ---
 
 # Codex Desktop 卡 Reconnecting？这个提示词一跑就能自动修好代理

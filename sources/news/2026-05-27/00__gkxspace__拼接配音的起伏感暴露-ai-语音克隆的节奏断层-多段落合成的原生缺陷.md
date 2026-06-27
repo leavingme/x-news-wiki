@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "拼接配音的起伏感暴露 AI 语音克隆的节奏断层：多段落合成的原生缺陷"
 description: "**[AI 克隆了你的声音，但克隆不了你的呼吸节奏]**  余温这条吐槽揭示了一个当前 TTS 语音克隆的硬伤：多段落内容拼接后，用原声听起来「起起伏伏」，不够自然。这不是音色的问题，而是节奏、停顿、语调连贯性的问题。  本质原因是：AI 克隆的是音色特征，而非真实的语言节奏模型。人类说话时的停顿、语速变化、重音分布，是语境驱动的动态过程，不是固定模板。把几段分别生成的内容拼接起来，每段的节奏是独"
 resource: "https://x.com/i/status/2059642883557175460"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2059642883557175460"
+created: "2026-05-27"
+updated: "2026-06-26"
+sha256: "21dae9cf7c24d4d59c8b4ca78bd43f0b88c31c7bf194d7b4d805e9ce60b5c578"
+sources:
+  - "/sources/news/2026-05-27/00__gkxspace__拼接配音的起伏感暴露-ai-语音克隆的节奏断层-多段落合成的原生缺陷.md"
 ---
 
 # 拼接配音的起伏感暴露 AI 语音克隆的节奏断层：多段落合成的原生缺陷

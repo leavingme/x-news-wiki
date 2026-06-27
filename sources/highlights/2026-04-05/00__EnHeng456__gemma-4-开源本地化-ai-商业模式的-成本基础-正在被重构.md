@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Gemma 4 开源本地化：AI 商业模式的「成本基础」正在被重构"
 description: "**[Google 首次把函数调用能力装进开源端侧模型，不是功能迭代，是范式转移]**  • **Agent 能力下放临界点**：Gemma 4 带函数调用开源，意味着手机/电脑上的本地模型不再是「哑巴助手」，可以直接调用工具、执行任务。AI 从「聊天」进化到「做事」，且无需云端计费。 • **推理成本趋近于零的冲击**：从按调用次数收费（订阅制）变为一次性硬件成本。现有 AI 公司的 SaaS "
 resource: "https://x.com/i/status/2040574768764870792"
@@ -22,6 +22,13 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "gemma端侧多模态"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2040574768764870792"
+created: "2026-04-04"
+updated: "2026-06-26"
+sha256: "2e96951ba3a4a828664efcd2d2a6b168b360b9200258002108fe7990374de871"
+sources:
+  - "/sources/highlights/2026-04-05/00__EnHeng456__gemma-4-开源本地化-ai-商业模式的-成本基础-正在被重构.md"
 ---
 
 # Gemma 4 开源本地化：AI 商业模式的「成本基础」正在被重构

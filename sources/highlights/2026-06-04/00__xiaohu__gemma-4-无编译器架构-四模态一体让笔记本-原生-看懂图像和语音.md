@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Gemma 4 无编译器架构：四模态一体让笔记本「原生」看懂图像和语音"
 description: "**一句话核心判断** Google 发布 Gemma 4 12B，用 Unified 无编码器架构彻底替代传统多模态的「翻译员」模式——文字、图像、音频、视频共用同一个 Transformer 主干，不再需要视觉编码器和音频编码器层层转译。  **要点** - 架构本质：把「老板配翻译」的级联结构，变成老板自己直接看原文。计算量和延迟骤降，显存占用砍掉翻译器本身 - 实测数字：16GB 显存跑全"
 resource: "https://x.com/i/status/2062329020273000882"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2062329020273000882"
+created: "2026-06-04"
+updated: "2026-06-26"
+sha256: "d567b013d12621d684eb256be7dd4523ff1034d5b1363af18fdb586ca837da0d"
+sources:
+  - "/sources/highlights/2026-06-04/00__xiaohu__gemma-4-无编译器架构-四模态一体让笔记本-原生-看懂图像和语音.md"
 ---
 
 # Gemma 4 无编译器架构：四模态一体让笔记本「原生」看懂图像和语音

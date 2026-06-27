@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "14天造AI Native计算机：Happycapy能否定义下一代人机协作范式"
 description: "**[AI硬件创业进入「快速原型」时代]** • Happycapy以极短开发周期打造AI Native计算机，暗示硬件创业门槛正在发生结构性下降 • 下一代人机协作可能不再依赖传统操作系统层，而是Agent直接调度硬件资源 • 需关注其实际交互范式创新点，而非仅停留在概念叙事  这是一个值得追踪的实验：如果AI Native硬件真能在两周内从0到1，传统PC/手机架构的护城河还剩多久？"
 resource: "https://x.com/i/status/2037912915916030171"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2037912915916030171"
+created: "2026-03-28"
+updated: "2026-06-26"
+sha256: "3c42e0edc6ab9dbd5c565a5cec6f0144a9b7f3fef187e2be4d4ee0823c518102"
+sources:
+  - "/sources/highlights/2026-03-28/00__vista8__14天造ai-native计算机-happycapy能否定义下一代人机协作范式.md"
 ---
 
 # 14天造AI Native计算机：Happycapy能否定义下一代人机协作范式

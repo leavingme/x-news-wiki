@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Orange AI实测GLM 5.2：从安装Android Studio到APK跑通，移动端Vibe Coding首次端到端跑通"
 description: "GLM 5.2首次在Android原生开发场景下跑通完整链路，但调试边界已显。 Orange AI称在GLM 5.2指导下从安装Android Studio开始一直做到APK跑完，大部分问题可解决。 承认遇到安卓系统层疑难杂症未解；vibe coding目前最顺的仍是电脑和web，调试门槛显著高于桌面端。  锐评：移动端vibe coding首次有完整链路报告是信号，但作者自己点出调试仍依赖桌面/"
 resource: "https://x.com/i/status/2067970469563933181"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2067970469563933181"
+created: "2026-06-19"
+updated: "2026-06-26"
+sha256: "74f7706ddb4c365aceff11a29fb9b4f12760275b35c126de18960e60b2b50a25"
+sources:
+  - "/sources/news/2026-06-19/00__oran_ge__orange-ai实测glm-5-2-从安装android-studio到apk跑通-移动端vibe-coding首次端.md"
 ---
 
 # Orange AI实测GLM 5.2：从安装Android Studio到APK跑通，移动端Vibe Coding首次端到端跑通

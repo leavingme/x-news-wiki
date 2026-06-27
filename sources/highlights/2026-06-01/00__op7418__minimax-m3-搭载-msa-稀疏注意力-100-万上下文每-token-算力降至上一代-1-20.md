@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "MiniMax M3 搭载 MSA 稀疏注意力：100 万上下文每 Token 算力降至上一代 1/20"
 description: "**[一句话核心判断]**  MiniMax M3 终于把上下文做到了真正的实用级别——不是数字上的 1M，而是工程上\"跑得动\"的 1M。  **信息增量：** - MSA（MoE with Segment-wise Attention）稀疏注意力架构在 100 万 token 下，每 token 计算量只有上一代的约 1/20，这意味着长上下文不再是算力黑洞 - 原生多模态从训练阶段融合，文本、"
 resource: "https://x.com/i/status/2061327301644861608"
@@ -22,6 +22,13 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "reasoning-and-model-architecture"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2061327301644861608"
+created: "2026-06-01"
+updated: "2026-06-26"
+sha256: "e9d3e96c576cd6b82637d602fec04c61f5061ce2f53dfe8063e3ace406a03d14"
+sources:
+  - "/sources/highlights/2026-06-01/00__op7418__minimax-m3-搭载-msa-稀疏注意力-100-万上下文每-token-算力降至上一代-1-20.md"
 ---
 
 # MiniMax M3 搭载 MSA 稀疏注意力：100 万上下文每 Token 算力降至上一代 1/20

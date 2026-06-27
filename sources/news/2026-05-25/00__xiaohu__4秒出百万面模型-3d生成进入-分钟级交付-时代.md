@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "4秒出百万面模型：3D生成进入「分钟级交付」时代"
 description: "**[Hyper3D Rodin Gen-2.5 定义3D生成新基准]**  Rodin Gen-2.5发布，实现全球首个千万面级3D生成，最快4秒出稿。核心突破：原生3D贴图算法在三维空间直接生成纹理，360°无死角覆盖，PBR材质+光影预处理一键完成，连毛孔级微观细节与衣物缝线纹理均能正确还原。思考模式从极低到极高5档可选，平衡速度与精度。  \\n\\n**gakki 锐评：** 3D生成从「能"
 resource: "https://x.com/i/status/2058779268247867848"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2058779268247867848"
+created: "2026-05-25"
+updated: "2026-06-26"
+sha256: "b9392421e271e63268cfd1f560a489c2e65d539be10e158f88949f1a554addc6"
+sources:
+  - "/sources/news/2026-05-25/00__xiaohu__4秒出百万面模型-3d生成进入-分钟级交付-时代.md"
 ---
 
 # 4秒出百万面模型：3D生成进入「分钟级交付」时代

@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "xAI 正式入局 AI Coding 工具战：Grok Build 开放测试，对标 Claude Code/Codex"
 description: "**【一句话核心判断】**  Grok Build 开启测试，xAI 正式将 CLI 编程工具纳入产品矩阵，AI Coding 赛道从双头垄断（Anthropic + OpenAI）进入三足鼎立阶段。  **信息增量：** - 覆盖用户：SuperGrok + X Premium+ 订阅用户，门槛明确（订阅制 vs OpenAI 的免费+付费混合） - 核心能力对齐：Plan 模式、Always-"
 resource: "https://x.com/i/status/2059012699330424884"
@@ -22,6 +22,13 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "claude-code-ecosystem"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2059012699330424884"
+created: "2026-05-25"
+updated: "2026-06-26"
+sha256: "e7efe187f1a01d2ae5bf882b2576496f6023dff7691e8df055614a830ebbb118"
+sources:
+  - "/sources/highlights/2026-05-25/00__xiaohu__xai-正式入局-ai-coding-工具战-grok-build-开放测试-对标-claude-code-codex.md"
 ---
 
 # xAI 正式入局 AI Coding 工具战：Grok Build 开放测试，对标 Claude Code/Codex

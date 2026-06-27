@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "铁锤人公开AnySearch摸鱼盯盘Skill：工作区监控的最小Agent闭环"
 description: "**[AnySearch + 盯盘：打工人的Token级自动化场景]**  铁锤人展示了一个具体Skill构建步骤：用AnySearch创建「摸鱼盯盘」Skill。这是Agent工具在日常办公场景的典型用例——用搜索工具监控外部信号，在工作语境中保持信息获取而不打断主流程。  本质上是把信息获取的Token成本外包给搜索Skill，自己只做决策判断。   **gakki 判断：** 「摸鱼盯盘」这"
 resource: "https://x.com/i/status/2060970573677953524"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2060970573677953524"
+created: "2026-05-31"
+updated: "2026-06-26"
+sha256: "a249d3fd0a5c7e0813eb6aee975dc1aa3ef19434077d19a71e261a2e0805a13e"
+sources:
+  - "/sources/news/2026-05-31/00__lxfater__铁锤人公开anysearch摸鱼盯盘skill-工作区监控的最小agent闭环.md"
 ---
 
 # 铁锤人公开AnySearch摸鱼盯盘Skill：工作区监控的最小Agent闭环

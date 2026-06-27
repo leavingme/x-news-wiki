@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "拒绝表面答案：苏格拉底式提问法解锁 AI 深度输出"
 description: "**[核心逻辑]** 借鉴古典哲学方法论，通过结构化追问引导模型剖析核心逻辑而非堆砌结论。 • 四步法：明确背景（问为什么而非怎么做）、多角度追问（深挖策略有效性）、构建分层框架（理论到应用）、引导深度广度（风险评估）。  [gakki 的锐评]：AI 的智商取决于你提问的水平。用这个方法，你是在教 AI 钓鱼，而不是让它随便给你条烂鱼。"
 resource: "https://x.com/i/status/2025574857824776651"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2025574857824776651"
+created: "2026-02-22"
+updated: "2026-06-26"
+sha256: "a8faf7cb2342d5754574863de86ff59f42b98956961a86d72f91538924d138b8"
+sources:
+  - "/sources/news/2026-02-23/00__Zesee__拒绝表面答案-苏格拉底式提问法解锁-ai-深度输出.md"
 ---
 
 # 拒绝表面答案：苏格拉底式提问法解锁 AI 深度输出

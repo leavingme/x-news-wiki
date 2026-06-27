@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "AI工具生态三层架构图谱：90个精选工具重构Claude能力边界"
 description: "**[Claude生态进入「乐高化」组装时代]** • 首次系统性梳理Skills（教AI做事）、MCP（接入外部）、Repo（底层引擎）三层架构，打破工具选型混乱 • 官方Skills安装量揭示真实需求：Frontend Design 277k+、Superpowers 96k+，「审美修复」和「系统调试」成最大痛点 • 隐藏信号：Context Optimizationskill（13.9k "
 resource: "https://x.com/i/status/2035337032915206596"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2035337032915206596"
+created: "2026-03-21"
+updated: "2026-06-26"
+sha256: "e432baeaafc42e8862d5672b57c50545c71a6464d357e4d432dada1d714303c8"
+sources:
+  - "/sources/highlights/2026-03-22/00__NFTCPS__ai工具生态三层架构图谱-90个精选工具重构claude能力边界.md"
 ---
 
 # AI工具生态三层架构图谱：90个精选工具重构Claude能力边界

@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Gemini TTS 英式口音实验：端侧语音合成的自然度正在逼近可接受阈值"
 description: "**[语音 Agent 的口音工程正在成为多模态 Agent 落地的前哨问题]**  歸藏(guizang.ai) 测试 Gemini TTS 并指出：忽略口音因素，表现不算差，但口音本身破坏了自然度。他将口音问题归因于选择了内置的英式口音模型。  信息增量：暴露了当前端侧 TTS 在口音适配层面仍需人工选择模型，尚未实现「语调节奏的本地自适应」——这对于语音 Agent 的落地体验是关键细节。 "
 resource: "https://x.com/i/status/2056766209698464020"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2056766209698464020"
+created: "2026-05-19"
+updated: "2026-06-26"
+sha256: "a856599f26cdc50bd509c9df02bffd1dbd3dcc32b449095434ad06cdf8751690"
+sources:
+  - "/sources/news/2026-05-19/00__op7418__gemini-tts-英式口音实验-端侧语音合成的自然度正在逼近可接受阈值.md"
 ---
 
 # Gemini TTS 英式口音实验：端侧语音合成的自然度正在逼近可接受阈值

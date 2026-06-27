@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "数字员工对管理者而言是春药而非工具：Agent落地的认知错位"
 description: "**[Agent采纳的结构性动机正在偏离实用价值]**  铁锤人直言数字员工对某些管理者\"如同春药\"——批评Agent落地正在被面子需求驱动，而非真实业务价值。这一观察揭示了一个危险趋势：当Agent采购决策权掌握在非最终使用者手中，技术采纳就容易沦为组织内部的政治信号。  - Agent项目的立项动机与实际使用价值正在系统性地分离 - 这种错位最终会导致预算撤出后的第一波Agent寒冬    g"
 resource: "https://x.com/i/status/2056928168947421646"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2056928168947421646"
+created: "2026-05-20"
+updated: "2026-06-26"
+sha256: "73cbc3d235f230af4b8a51a4ce94f02c7ce662d85ad7630b665b365e25f057bd"
+sources:
+  - "/sources/news/2026-05-20/00__lxfater__数字员工对管理者而言是春药而非工具-agent落地的认知错位.md"
 ---
 
 # 数字员工对管理者而言是春药而非工具：Agent落地的认知错位

@@ -1,5 +1,5 @@
 ---
-type: "Concept"
+type: "concept"
 title: "llm-knowledge-operations"
 description: "跨日主题 \"llm-knowledge-operations\"，共 1 条相关精选推文。"
 tags:
@@ -11,6 +11,12 @@ x_topic_slug: "llm-knowledge-operations"
 x_tweet_count: 1
 x_first_seen: "2026-06-08T04:19:11.297Z"
 x_last_seen: "2026-06-08T04:19:11.297Z"
+type_okf: "Concept"
+created: "2026-06-08"
+updated: "2026-06-26"
+sha256: "866921a25cc1cb9f1e235e743f307283582dd2ffecd79ac5049c1a9e016506be"
+sources:
+  - "/sources/highlights/2026-06-08/00__gkxspace__openwiki-把-karpathy-llm-wiki-思想产品化-本地-markdown-mcp-ai-整理-取代-.md"
 ---
 
 # 主题: llm-knowledge-operations

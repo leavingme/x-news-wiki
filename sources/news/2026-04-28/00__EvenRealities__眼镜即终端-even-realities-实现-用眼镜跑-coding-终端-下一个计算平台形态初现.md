@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "眼镜即终端：Even Realities 实现「用眼镜跑 Coding 终端」，下一个计算平台形态初现"
 description: "**[一句话核心判断]**  Even Realities 发布的 Terminal Mode 让用户可以直接用眼镜设备运行编码终端，这是可穿戴设备首次在「生产力工具」层面实现场景落地，而非健身或通知类轻应用。  **后续要点：** - 技术突破：眼镜设备原生支持命令行操作，跳过了手机/电脑的中转，真正实现「随身工作空间」 - 场景验证：coding terminal 是一个极端考验输入效率和显示"
 resource: "https://x.com/EvenRealities/status/2048740192241291405"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "ai-trend-digest"
+type_okf: "X Tweet"
+source_url: "https://x.com/EvenRealities/status/2048740192241291405"
+created: "2026-04-27"
+updated: "2026-06-26"
+sha256: "888fa3a65ffa17dd5dc53a8148560711277205c8e3d0d986f6483538d70408b4"
+sources:
+  - "/sources/news/2026-04-28/00__EvenRealities__眼镜即终端-even-realities-实现-用眼镜跑-coding-终端-下一个计算平台形态初现.md"
 ---
 
 # 眼镜即终端：Even Realities 实现「用眼镜跑 Coding 终端」，下一个计算平台形态初现

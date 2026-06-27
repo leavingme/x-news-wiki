@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Claude Design来了：Anthropic终于对设计工具下手，Opus 4.7驱动的新入口正在改写产品生产链条"
 description: "**[一句话核心判断]**  Claude Design的本质是Anthropic把「审美判断」封装成可调用的API接口——这不是设计工具的升级，是设计权力的重新分配。  **信息增量：** - 背后是Opus 4.7，视觉能力最强模型，首次落地即面向消费者场景 - 首次使用自动扫描代码库和设计文件，生成定制化设计系统，之后每个项目自动套用 - 输入支持文字/图片/DOCX/PPTX/XLSX/代"
 resource: "https://x.com/i/status/2045185966399435053"
@@ -22,6 +22,13 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "anthropic-office-integration"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2045185966399435053"
+created: "2026-04-17"
+updated: "2026-06-26"
+sha256: "0e8ab34620a30c14e0323011fae6412e96632bf5453cac43e8ff46944b3ea5c4"
+sources:
+  - "/sources/highlights/2026-04-18/00__dotey__claude-design来了-anthropic终于对设计工具下手-opus-4-7驱动的新入口正在改写产品生产链条.md"
 ---
 
 # Claude Design来了：Anthropic终于对设计工具下手，Opus 4.7驱动的新入口正在改写产品生产链条

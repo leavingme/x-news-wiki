@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Claude Fable 5 的 15 分钟思考不是 bug，是产品定位"
 description: "**[Fable 5 的 15 分钟思考不是 bug，可能是产品定位]** - 独立于宝玉的另一观察者报出 Fable 5「思考 15 分钟才开始行动」——多用户同向反馈意味着非偶发 - 与宝玉「爱验证」观察互相印证：长思考 + 强验证是该模型的稳定行为标签 - 倒逼用户重新校准「模型成本/价值评估」曲线  锐评：思考时长本身正在成为模型差异化的新维度。Fable 5 把「慢」做成可识别的产品特征"
 resource: "https://x.com/i/status/2065117514393358544"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2065117514393358544"
+created: "2026-06-11"
+updated: "2026-06-26"
+sha256: "94350d70a2d2eb92c06cc23c19aabfbc94b63a5e5c612da2d0d153b10677bd9b"
+sources:
+  - "/sources/news/2026-06-11/00__vista8__claude-fable-5-的-15-分钟思考不是-bug-是产品定位.md"
 ---
 
 # Claude Fable 5 的 15 分钟思考不是 bug，是产品定位

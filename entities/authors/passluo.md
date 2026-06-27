@@ -1,5 +1,5 @@
 ---
-type: "Author"
+type: "entity"
 title: "𝙋𝙖𝙨𝙨𝙡𝙪𝙤 (@passluo)"
 description: "X/Twitter 作者 @passluo。共收录 1 条 AI 精选推文。"
 tags:
@@ -12,6 +12,12 @@ x_author_name: "𝙋𝙖𝙨𝙨𝙡𝙪𝙤"
 x_tweet_count: 1
 x_first_seen: "2026-03-17T00:43:09.530Z"
 x_last_seen: "2026-03-17T00:43:09.530Z"
+type_okf: "Author"
+created: "2026-03-17"
+updated: "2026-06-26"
+sha256: "8b61260415384f4792b40fbce1d808bf9604250195d92fd227c3f4ab0ecf2c60"
+sources:
+  - "/sources/highlights/2026-03-17/00__passluo__polymarket-ai-策略实战-200u-bot-单日-800-收益的-运气还是信号.md"
 ---
 
 # 𝙋𝙖𝙨𝙨𝙡𝙪𝙤 (@passluo)

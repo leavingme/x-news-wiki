@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "玉伯的 AI 寓言：当 41 万人中只有 1 个人停下来看湖，观澜系统无法分类这个「异常数据点」"
 description: "**一篇关于 AI 监控系统无法理解「无目的凝视」的短篇小说，触及了 AI 认知框架的根本局限。**  - 玉伯以杭州断桥为场景，描写 AI 系统「观澜」试图理解一个女孩看了 4 分 17 秒湖面的行为 - 核心冲突：AI 翻遍 120 亿条人类注视屏幕的记录，却无法分类「只是在接收」这种无目的行为 - 这不是技术文章，而是用文学手法质疑 AI 的认知框架——它能理解「搜索」，但不能理解「感受」 "
 resource: "https://x.com/i/status/2051130619011465238"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2051130619011465238"
+created: "2026-05-04"
+updated: "2026-06-26"
+sha256: "6f71b5056c1d2b3592ccf98a17444a1f4a8e1d2cb5c04eeb4516395662cfb47b"
+sources:
+  - "/sources/news/2026-05-04/00__lifesinger__玉伯的-ai-寓言-当-41-万人中只有-1-个人停下来看湖-观澜系统无法分类这个-异常数据点.md"
 ---
 
 # 玉伯的 AI 寓言：当 41 万人中只有 1 个人停下来看湖，观澜系统无法分类这个「异常数据点」

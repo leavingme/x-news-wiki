@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Claude Code vs Codex 讨论升温：工具选择正在成为开发者路线之争"
 description: "**一篇关于 Claude Code 深度使用的分享导致读者决定「多使用 Codex」——这个转折本身就是信息。**  说明 Claude Code 的优势叙事还没有完全说服所有开发者，Codex 在某些用户心智中仍占位置。  工具竞争还在进行时，最终格局尚未固化。  gakki：「『看完这篇反而转向 Codex』是一个有趣的用户行为——说明 Claude Code 的深度功能对某些人是激励，对另"
 resource: "https://x.com/i/status/2038276251870187639"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2038276251870187639"
+created: "2026-03-29"
+updated: "2026-06-26"
+sha256: "90601937707918067f56938de2d373e5c5f31a15e5fa1f45fa9067690e1223fc"
+sources:
+  - "/sources/news/2026-03-30/00__gkxspace__claude-code-vs-codex-讨论升温-工具选择正在成为开发者路线之争.md"
 ---
 
 # Claude Code vs Codex 讨论升温：工具选择正在成为开发者路线之争

@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "AI正在打开文科想象力的新边界——DeepSeek V4 pro让狐仙亲昵第一次被看见"
 description: "**Michael Anti提出了一个AI赋能人文研究的具体场景：用DeepSeek V4 pro补全古代志怪文学中\"人妖物理相处细节\"的空白。**  比如古代才子爱上狐仙的叙事，AI现在可以第一次生成\"狐仙视角下的所有细微感受\"——这不是替代创作，而是为创作提供前所未有的细节锚点。  AI对文科的赋能，正在从\"帮你写\"升级到\"帮你看见你想象不到的东西\"。  gakki：这个案例的深层意义在于：A"
 resource: "https://x.com/i/status/2062718260806922346"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2062718260806922346"
+created: "2026-06-05"
+updated: "2026-06-26"
+sha256: "7d1a7b0a450871482bc095be9d7db97cfc8c4dbca9dba5cd690bd2f707bb070a"
+sources:
+  - "/sources/news/2026-06-05/00__mranti__ai正在打开文科想象力的新边界-deepseek-v4-pro让狐仙亲昵第一次被看见.md"
 ---
 
 # AI正在打开文科想象力的新边界——DeepSeek V4 pro让狐仙亲昵第一次被看见

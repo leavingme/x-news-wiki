@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "宝玉转Agent产品设计研究：Agent的产品化路径正在被系统性研究"
 description: "**[一句话核心判断]**  Agent产品设计作为独立研究方向开始获得有分量的研究者关注。  **信息增量：** - 宝玉是国内最早系统关注AI Coding工具的KOL之一，其转发具有筛选信号 - 研究对象指向Agent的产品设计而非技术架构，属于用户侧视角  **影响范围：** - 产品设计研究往往晚于工程实现6-12个月，此信号意味着Agent产品化已进入第二阶段 - 开发者工具的产品设计"
 resource: "https://x.com/i/status/2054415688610070951"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2054415688610070951"
+created: "2026-05-13"
+updated: "2026-06-26"
+sha256: "b638dde1ddb05189efee59382f6e4fbb48bbf877caceafdf9ae60236ad9188db"
+sources:
+  - "/sources/news/2026-05-13/00__dotey__宝玉转agent产品设计研究-agent的产品化路径正在被系统性研究.md"
 ---
 
 # 宝玉转Agent产品设计研究：Agent的产品化路径正在被系统性研究

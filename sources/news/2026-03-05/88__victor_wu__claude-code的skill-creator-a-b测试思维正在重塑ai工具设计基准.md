@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Claude Code的Skill-Creator：A/B测试思维正在重塑AI工具设计基准"
 description: "**【核心判断】** Claude Code新上线的Skill-Creator功能，将「变量控制」和「对照组思维」产品化，这标志着AI工具设计从「功能堆叠」转向「科学验证」。  - 支持创建「经过Skill处理」vs「原始Prompt」的双路输出对比 - 直接提供修改基准参考，降低Skill调优的认知门槛 - 产品设计层面远超Codex等竞品，将工程思维内化为产品逻辑  gakki 锐评：这不是一"
 resource: "https://x.com/i/status/2029381909575577852"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 88
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2029381909575577852"
+created: "2026-03-05"
+updated: "2026-06-26"
+sha256: "405f09856dd93ceec56cf462017f78e12597b3698e52d89d407f2aa0b19e360b"
+sources:
+  - "/sources/news/2026-03-05/88__victor_wu__claude-code的skill-creator-a-b测试思维正在重塑ai工具设计基准.md"
 ---
 
 # Claude Code的Skill-Creator：A/B测试思维正在重塑AI工具设计基准

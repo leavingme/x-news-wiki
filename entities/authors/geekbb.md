@@ -1,5 +1,5 @@
 ---
-type: "Author"
+type: "entity"
 title: "Geek (@geekbb)"
 description: "X/Twitter 作者 @geekbb。共收录 2 条 AI 精选推文。"
 tags:
@@ -12,6 +12,13 @@ x_author_name: "Geek"
 x_tweet_count: 2
 x_first_seen: "2026-04-02T00:43:17.683Z"
 x_last_seen: "2026-04-05T12:43:10.401Z"
+type_okf: "Author"
+created: "2026-04-02"
+updated: "2026-06-26"
+sha256: "df25b37a8bbed6a00c8d0515d2937789f75542bf60d295249c4d04eab7b47694"
+sources:
+  - "/sources/highlights/2026-04-02/00__geekbb__claude-code源码泄露背后-44个功能开关正在打开一个被低估的竞争维度.md"
+  - "/sources/news/2026-04-05/00__geekbb__manus-被-20-亿美元收购的秘密-把-markdown-当磁盘-ai-就能跑-50-次工具调用不迷路.md"
 ---
 
 # Geek (@geekbb)

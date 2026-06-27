@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Google AI Edge Gallery 登陆 macOS：桌面端成为端侧 AI 的新战场"
 description: "**一句话核心判断** Google AI Edge Gallery 从手机端扩展到 macOS 桌面，提供可下载安装的 Gemma 4 12B 本地运行环境，内置沙盒 Python 环境 + Eloquent 语音交互。这意味着 Google 正在用桌面应用作为端侧 AI 的分发入口，与 Cursor、Claude Code 等 AI 编程工具争夺开发者桌面。  **要点** - 产品形态：原生"
 resource: "https://x.com/i/status/2062329025079702010"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2062329025079702010"
+created: "2026-06-04"
+updated: "2026-06-26"
+sha256: "5b6fd6ec87b9d05ac4c6a37047896b591ba12b73d272ef91c1a7e6804b123172"
+sources:
+  - "/sources/news/2026-06-04/00__xiaohu__google-ai-edge-gallery-登陆-macos-桌面端成为端侧-ai-的新战场.md"
 ---
 
 # Google AI Edge Gallery 登陆 macOS：桌面端成为端侧 AI 的新战场

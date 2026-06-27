@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Get笔记：99元/年解锁全平台内容解读，Skill化后的定价锚定价值被低估"
 description: "**[99元/年的全平台内容理解工具，是目前性价比最高的AI信息摄取入口]**  向阳乔木深度评测了 Get 笔记：支持小宇宙、B站、抖音、YouTube、TikTok 等主流平台，只需提供链接即可解读内容并返回原始转写文本。他还透露促销期年费仅99元，并已开放 Skill/CLI 供 Codex 接入自有网站。  这个工具的价值不在于功能独特性，而在于它的定价策略：99元/年相当于用一个入门级工"
 resource: "https://x.com/i/status/2054767836409872618"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2054767836409872618"
+created: "2026-05-14"
+updated: "2026-06-26"
+sha256: "f338988d38d4e922d770a2e7cb1a379c3cd5ebebc95c1eb7be8b55bb4491599a"
+sources:
+  - "/sources/news/2026-05-14/00__vista8__get笔记-99元-年解锁全平台内容解读-skill化后的定价锚定价值被低估.md"
 ---
 
 # Get笔记：99元/年解锁全平台内容解读，Skill化后的定价锚定价值被低估

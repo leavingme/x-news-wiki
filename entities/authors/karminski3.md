@@ -1,5 +1,5 @@
 ---
-type: "Author"
+type: "entity"
 title: "karminski-牙医 (@karminski3)"
 description: "X/Twitter 作者 @karminski3。共收录 2 条 AI 精选推文。"
 tags:
@@ -12,6 +12,13 @@ x_author_name: "karminski-牙医"
 x_tweet_count: 2
 x_first_seen: "2026-03-18T16:28:00.973Z"
 x_last_seen: "2026-03-24T00:42:54.047Z"
+type_okf: "Author"
+created: "2026-03-18"
+updated: "2026-06-26"
+sha256: "4ef55cab683f87a24974bd6bbce0622d4bf4389983612d7e5a751f12eb51ed9b"
+sources:
+  - "/sources/highlights/2026-03-18/00__karminski3__qwen3-5-系列归一化评测-27b-dense-模型逼近旗舰-94-性能的视觉-agent-黑马.md"
+  - "/sources/highlights/2026-03-24/00__karminski3__observer-ai-ai监工框架终结-盯着屏幕等ai干活-的荒诞场景.md"
 ---
 
 # karminski-牙医 (@karminski3)

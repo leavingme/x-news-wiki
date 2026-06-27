@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Michael Anti 刺破AI视频幻觉：角色同质化是审美疲劳的根源，技术进步不等于内容价值"
 description: "**AI视频和AI短剧的真正瓶颈不在生成质量，而在角色辨识度——技术越强，同质化越明显。**  - Anti 点出核心矛盾：模型能力提升了，但生成的角色「太像」，观众看着累 - 这不是工程问题，是审美多样性问题——当前模型缺乏「角色设计」的语义控制层  gakki 锐评：这条观察比 Runway Characters 的发布会更有穿透力。再强的实时交互能力，如果角色千人一面，用户三分钟就会倦。下一"
 resource: "https://x.com/i/status/2051934314498339315"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2051934314498339315"
+created: "2026-05-06"
+updated: "2026-06-26"
+sha256: "255637af4df85b71761d5798146668b9346334208b7f61291501589d5da0f537"
+sources:
+  - "/sources/news/2026-05-06/00__mranti__michael-anti-刺破ai视频幻觉-角色同质化是审美疲劳的根源-技术进步不等于内容价值.md"
 ---
 
 # Michael Anti 刺破AI视频幻觉：角色同质化是审美疲劳的根源，技术进步不等于内容价值

@@ -1,5 +1,5 @@
 ---
-type: "Author"
+type: "entity"
 title: "Udon🍜うどん(🌸, 🌿) (@egyptk6)"
 description: "X/Twitter 作者 @egyptk6。共收录 1 条 AI 精选推文。"
 tags:
@@ -12,6 +12,12 @@ x_author_name: "Udon🍜うどん(🌸, 🌿)"
 x_tweet_count: 1
 x_first_seen: "2026-04-18T12:44:58.621Z"
 x_last_seen: "2026-04-18T12:44:58.621Z"
+type_okf: "Author"
+created: "2026-04-18"
+updated: "2026-06-26"
+sha256: "86def3243621f5203322ff29babe6bc1d21a739d9fdae4429a024d3fc293943a"
+sources:
+  - "/sources/news/2026-04-18/00__egyptk6__把闲置游戏pc变算力节点-bless用wasm撕开-去中心化算力-的入场壁垒.md"
 ---
 
 # Udon🍜うどん(🌸, 🌿) (@egyptk6)

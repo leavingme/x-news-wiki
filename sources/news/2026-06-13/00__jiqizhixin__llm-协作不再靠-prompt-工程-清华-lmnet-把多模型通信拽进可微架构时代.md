@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "LLM 协作不再靠 prompt 工程：清华 LMNet 把多模型通信拽进可微架构时代"
 description: "**LMNet 把 LLM 节点化、边可训练，用稠密向量替代文本协议，实现端到端梯度调优。**  - 节点为 stripped-down LLM，边是 trainable seq2seq 映射，整张网络在「数学语言」层面通信 - 监督效率显著提升，少样本下性能逼近手工协议方案 - 把 LLM-to-LLM 协作从「文本协议工程」拽进「可微架构」范畴  锐评：短期落地难，但「多模型非对话协作」的研究"
 resource: "https://x.com/i/status/2065658169096065226"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2065658169096065226"
+created: "2026-06-13"
+updated: "2026-06-26"
+sha256: "de0ba51d5f18823ddeb0888e13545fb6c50bf4ff545cc9a310457e9245244f1d"
+sources:
+  - "/sources/news/2026-06-13/00__jiqizhixin__llm-协作不再靠-prompt-工程-清华-lmnet-把多模型通信拽进可微架构时代.md"
 ---
 
 # LLM 协作不再靠 prompt 工程：清华 LMNet 把多模型通信拽进可微架构时代

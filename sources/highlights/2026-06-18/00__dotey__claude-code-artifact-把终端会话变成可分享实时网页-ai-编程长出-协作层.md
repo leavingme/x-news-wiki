@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Claude Code Artifact：把终端会话变成可分享实时网页，AI 编程长出「协作层」"
 description: "Claude Code 新功能 Artifact 把工作过程生成实时更新的网页：PR 走查、系统架构、调试时间线、发布清单都能用链接分享，团队成员无需登录直接打开。  Artifact 自动整合当前会话的代码库、已接入的外部工具（如监控系统）和对话内容，同一链接持续更新，可回溯历史版本。  Anthropic 内部最高频场景是事故排查——早会前启动调试，链接丢群里，开会时 Artifact 已自动"
 resource: "https://x.com/i/status/2067708784106160322"
@@ -22,6 +22,13 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "claude-code-ecosystem"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2067708784106160322"
+created: "2026-06-18"
+updated: "2026-06-26"
+sha256: "0f8560ee4794b0fa37248161c76d8634f7906593beb8886c3c97382f25e051e8"
+sources:
+  - "/sources/highlights/2026-06-18/00__dotey__claude-code-artifact-把终端会话变成可分享实时网页-ai-编程长出-协作层.md"
 ---
 
 # Claude Code Artifact：把终端会话变成可分享实时网页，AI 编程长出「协作层」

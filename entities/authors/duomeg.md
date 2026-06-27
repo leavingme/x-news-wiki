@@ -1,5 +1,5 @@
 ---
-type: "Author"
+type: "entity"
 title: "0xMeg (@DuoMeg)"
 description: "X/Twitter 作者 @DuoMeg。共收录 1 条 AI 精选推文。"
 tags:
@@ -12,6 +12,12 @@ x_author_name: "0xMeg"
 x_tweet_count: 1
 x_first_seen: "2026-03-16T02:56:01.965Z"
 x_last_seen: "2026-03-16T02:56:01.965Z"
+type_okf: "Author"
+created: "2026-03-16"
+updated: "2026-06-26"
+sha256: "ca02e37cc613008e1541d3ed24a53d7c49c0cf002b338ebc6f8f44877bfe30d1"
+sources:
+  - "/sources/news/2026-03-16/00__DuoMeg__技能门槛的-雪崩时刻-ai正在复刻dos到windows的范式迁移.md"
 ---
 
 # 0xMeg (@DuoMeg)

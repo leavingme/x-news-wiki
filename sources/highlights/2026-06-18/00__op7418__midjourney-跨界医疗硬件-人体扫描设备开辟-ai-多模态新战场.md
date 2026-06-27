@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Midjourney 跨界医疗硬件：人体扫描设备开辟 AI 多模态新战场"
 description: "**Midjourney 跨界发布人体扫描硬件，从纯图像生成跨入医疗影像物理层。**  • 成立全新部门「Midjourney 医疗」 • 首款硬件是一款人体扫描设备，进入消费级医疗影像赛道 • 意味着从纯软件 AI 图像生成转向 AI + 医疗硬件的硬科技路径   gakki 锐评：硬件化是跳出卷模型的差异化路径，但医疗设备的合规、临床验证、销售渠道与互联网图像产品完全不是一回事，能不能撑住要打"
 resource: "https://x.com/i/status/2067426863308591523"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2067426863308591523"
+created: "2026-06-18"
+updated: "2026-06-26"
+sha256: "e6dedaff7ba41584352c6bb0e545e0460e8681719636f24b7571feeb7e23be58"
+sources:
+  - "/sources/highlights/2026-06-18/00__op7418__midjourney-跨界医疗硬件-人体扫描设备开辟-ai-多模态新战场.md"
 ---
 
 # Midjourney 跨界医疗硬件：人体扫描设备开辟 AI 多模态新战场

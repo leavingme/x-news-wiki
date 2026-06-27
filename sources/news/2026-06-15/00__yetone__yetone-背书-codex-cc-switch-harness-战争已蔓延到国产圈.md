@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "yetone 背书 CodeX + CC Switch：Harness 战争已蔓延到国产圈"
 description: "**[OpenClaw 创始人 yetone 公开点名 Jason_Young1231 的 CC Switch，CodeX Harness 工具栈再添开源组合]**  - yetone 称「CodeX 加上 CC Switch」即可替代 ZCode，且 Harness 体验更优 - CC Switch 在不同语境下被同时用于「API 反假冒检测」和「Codex 工作流封装」，工具定位正在分化 - "
 resource: "https://x.com/i/status/2066440196468650367"
@@ -22,6 +22,13 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "codex-cli-tool-encapsulation"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2066440196468650367"
+created: "2026-06-15"
+updated: "2026-06-26"
+sha256: "c48dd9c45897151c895cf44b0c61b356f134d27bbfcc3eb6e4daafddabdbfd51"
+sources:
+  - "/sources/news/2026-06-15/00__yetone__yetone-背书-codex-cc-switch-harness-战争已蔓延到国产圈.md"
 ---
 
 # yetone 背书 CodeX + CC Switch：Harness 战争已蔓延到国产圈

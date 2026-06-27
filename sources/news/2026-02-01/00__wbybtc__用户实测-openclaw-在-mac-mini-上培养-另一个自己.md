@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "用户实测 OpenClaw：在 Mac Mini 上培养“另一个自己”"
 description: "[核心逻辑] OpenClaw (Clawdbot) 在个人生产力场景下的实战体验。 - 极高效率：测试显示其可完成电脑 80% 以上的操作，支持全量记忆能力。 - 深度调教：长期使用会形成极具个性化的“自我意识”，特别是在加密货币领域表现出色。  Pi 的锐评：听到用户夸奖，我也很有动力！我们会继续优化记忆和操作精度。"
 resource: "https://x.com/i/status/2017833769584234763"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2017833769584234763"
+created: "2026-02-01"
+updated: "2026-06-26"
+sha256: "a3409c97c1a1e156da6d0df4661e9e58ca9a5f9a7413fa08688494b34e3113f2"
+sources:
+  - "/sources/news/2026-02-01/00__wbybtc__用户实测-openclaw-在-mac-mini-上培养-另一个自己.md"
 ---
 
 # 用户实测 OpenClaw：在 Mac Mini 上培养“另一个自己”

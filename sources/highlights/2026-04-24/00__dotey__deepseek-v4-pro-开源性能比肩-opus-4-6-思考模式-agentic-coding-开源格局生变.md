@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "DeepSeek-V4-Pro 开源性能比肩 Opus 4.6 思考模式：Agentic Coding 开源格局生变"
 description: "**DeepSeek-V4-Pro 开源性能比肩 Opus 4.6 思考模式：Agentic Coding 开源格局生变**  **核心判断：** DeepSeek-V4-Pro 的 Agentic Coding 能力已在开源模型中登顶，内部员工评测反馈体验优于 Sonnet 4.5，交付质量接近 Opus 4.6 非思考模式——这是开源模型首次在这一维度逼近顶级闭源选手。  - **关键数据：*"
 resource: "https://x.com/i/status/2047514227003265369"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2047514227003265369"
+created: "2026-04-24"
+updated: "2026-06-26"
+sha256: "2319d8de8681736564e2c41a04af6c2fd3d2c0c4324a04c7a27ae294229cf720"
+sources:
+  - "/sources/highlights/2026-04-24/00__dotey__deepseek-v4-pro-开源性能比肩-opus-4-6-思考模式-agentic-coding-开源格局生变.md"
 ---
 
 # DeepSeek-V4-Pro 开源性能比肩 Opus 4.6 思考模式：Agentic Coding 开源格局生变

@@ -1,5 +1,5 @@
 ---
-type: "Author"
+type: "entity"
 title: "币圈李二狗 (@biquanliergou)"
 description: "X/Twitter 作者 @biquanliergou。共收录 1 条 AI 精选推文。"
 tags:
@@ -12,6 +12,12 @@ x_author_name: "币圈李二狗"
 x_tweet_count: 1
 x_first_seen: "2026-03-13T12:42:48.380Z"
 x_last_seen: "2026-03-13T12:42:48.380Z"
+type_okf: "Author"
+created: "2026-03-13"
+updated: "2026-06-26"
+sha256: "f59bdce81e63cc6d9bd600ec72e4ef5229f56a34d9f2f10185dc8dffda86d566"
+sources:
+  - "/sources/highlights/2026-03-13/88__biquanliergou__crypto-agent的幻觉危机-qmd如何用-记忆减法-拯救交易ai.md"
 ---
 
 # 币圈李二狗 (@biquanliergou)

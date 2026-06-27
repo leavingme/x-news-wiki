@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "OpenAI 把 GPT-5 推理能力塞进语音：实时对话不再是「语音版 ChatGPT」，而是第一个能边听边想的语音 Agent"
 description: "**语音模型首次获得 GPT-5 级推理能力，意味着实时语音交互从「问答传声筒」跃迁为「可推理的 Agent 入口」。** - 三个模型齐发：GPT-Realtime-2（推理+语音）、GPT-Realtime-Translate（70+语言实时口译）、GPT-Realtime-Whisper（流式转写） - 上下文从 32K 扩至 128K，支持并行工具调用、打断纠错、失败兜底——这些是 Age"
 resource: "https://x.com/i/status/2052646097525555626"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2052646097525555626"
+created: "2026-05-08"
+updated: "2026-06-26"
+sha256: "0b3be2ecf3153923c0eb7239c165b5f1d6ac823ec2378da40b6f222fa6396c06"
+sources:
+  - "/sources/highlights/2026-05-08/00__xiaohu__openai-把-gpt-5-推理能力塞进语音-实时对话不再是-语音版-chatgpt-而是第一个能边听边想的语音-ag.md"
 ---
 
 # OpenAI 把 GPT-5 推理能力塞进语音：实时对话不再是「语音版 ChatGPT」，而是第一个能边听边想的语音 Agent

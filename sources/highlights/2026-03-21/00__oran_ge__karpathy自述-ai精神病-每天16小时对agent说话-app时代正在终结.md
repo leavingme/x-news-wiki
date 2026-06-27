@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Karpathy自述「AI精神病」：每天16小时对Agent说话，App时代正在终结"
 description: "**[顶级KOL的认知跃迁信号]** • Karpathy从12月起未手写一行代码，日均16小时Agent对话，token焦虑成为新型职业病 • 核心论断：客户不再是人类，而是替人类行事的Agent；软件需求将因成本下降而爆发（杰文斯悖论） • 终极预测：研究组织=markdown文件，给人类写文档的时代结束，文档应面向Agent编写  Karpathy这番话不是在预测未来，而是在描述他已经活进去"
 resource: "https://x.com/i/status/2035121401754263768"
@@ -22,6 +22,13 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "agent-native-paradigm"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2035121401754263768"
+created: "2026-03-20"
+updated: "2026-06-26"
+sha256: "f0ddc0fca9aff2dbfb869ea94f0eb4b2d1c5c97409205276c9cd7ad4c7a853a1"
+sources:
+  - "/sources/highlights/2026-03-21/00__oran_ge__karpathy自述-ai精神病-每天16小时对agent说话-app时代正在终结.md"
 ---
 
 # Karpathy自述「AI精神病」：每天16小时对Agent说话，App时代正在终结

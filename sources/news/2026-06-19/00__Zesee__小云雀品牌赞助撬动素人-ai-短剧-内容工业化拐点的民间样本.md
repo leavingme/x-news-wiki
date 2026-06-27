@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "小云雀品牌赞助撬动素人 AI 短剧：内容工业化拐点的民间样本"
 description: "**品牌愿意为 AI 内容买单，比技术门槛被击穿更具拐点意义。**  - Rachel 获小云雀品牌方赞助完成首个 AI 短剧尝试，个人创作者即可端到端完成 - 技术上 AI 视频生成已不是障碍，难点转向「品牌方愿不愿意持续付费」 - 这是工业化拐点的真实样本：不是技术成熟，而是商业模式开始跑通   gakki 锐评：技术门槛被吃掉是迟早的事，真正的拐点是「钱进来了」。一次个人尝试不能算拐点，但品"
 resource: "https://x.com/i/status/2068023064571281535"
@@ -22,6 +22,13 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "ai-short-drama-industrialization"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2068023064571281535"
+created: "2026-06-19"
+updated: "2026-06-26"
+sha256: "39cf7fc580ce1a9b5cc00e1a826e5ffe993813130e3d9cce584d942a9710e6a9"
+sources:
+  - "/sources/news/2026-06-19/00__Zesee__小云雀品牌赞助撬动素人-ai-短剧-内容工业化拐点的民间样本.md"
 ---
 
 # 小云雀品牌赞助撬动素人 AI 短剧：内容工业化拐点的民间样本

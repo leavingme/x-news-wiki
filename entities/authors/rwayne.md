@@ -1,5 +1,5 @@
 ---
-type: "Author"
+type: "entity"
 title: "Roland的思考日记 (@rwayne)"
 description: "X/Twitter 作者 @rwayne。共收录 2 条 AI 精选推文。"
 tags:
@@ -12,6 +12,13 @@ x_author_name: "Roland的思考日记"
 x_tweet_count: 2
 x_first_seen: "2026-03-12T00:42:31.336Z"
 x_last_seen: "2026-04-06T00:42:54.788Z"
+type_okf: "Author"
+created: "2026-03-12"
+updated: "2026-06-26"
+sha256: "07a5411cb50e5ebaa298901636ca0a2ff1a29b6c6fab064ba08bc258ae7221b7"
+sources:
+  - "/sources/news/2026-03-12/88__rwayne__openclaw-赢家图谱-一场让所有人-感觉赢了-的集体幻觉.md"
+  - "/sources/news/2026-04-06/00__rwayne__你和老板的区别不是能力-是种性-ai时代的认知种姓制度正在形成.md"
 ---
 
 # Roland的思考日记 (@rwayne)

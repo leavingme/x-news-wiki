@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Grok 推出跨平台 TUI 工具：交互式与无人值守双模式，支持任意自定义模型"
 description: "[x-crawl 背后的 x-crawl 项目推出 grok 工具，实现交互式 TUI 与 Headless 无人值守两种运行模式，支持 macOS/Linux/Windows 并可切换任意自定义模型]  • 工具链向发布环节延伸：grok-build-0.1 单独开放 API，覆盖从开发到部署完整流程 • 不绑死模型：与 OpenClaw 等闭源工具形成差异化，强调开放性 • 无人值守模式配合脚"
 resource: "https://x.com/i/status/2059012701205180435"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2059012701205180435"
+created: "2026-05-25"
+updated: "2026-06-26"
+sha256: "26d229438d43ade9a6f3e770ebaf63a8245a6e0f8b3d4e4516544cbc3e7077eb"
+sources:
+  - "/sources/news/2026-05-25/00__xiaohu__grok-推出跨平台-tui-工具-交互式与无人值守双模式-支持任意自定义模型.md"
 ---
 
 # Grok 推出跨平台 TUI 工具：交互式与无人值守双模式，支持任意自定义模型

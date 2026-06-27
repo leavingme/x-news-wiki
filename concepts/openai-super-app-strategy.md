@@ -1,5 +1,5 @@
 ---
-type: "Concept"
+type: "concept"
 title: "openai-super-app-strategy"
 description: "跨日主题 \"openai-super-app-strategy\"，共 7 条相关精选推文。"
 tags:
@@ -11,6 +11,18 @@ x_topic_slug: "openai-super-app-strategy"
 x_tweet_count: 7
 x_first_seen: "2026-04-16T00:43:36.366Z"
 x_last_seen: "2026-06-20T13:18:10.950Z"
+type_okf: "Concept"
+created: "2026-04-16"
+updated: "2026-06-26"
+sha256: "6b18a043610b4d4441919c0e3cf6b50c30d47b5b042a78d52092b2faedb233cd"
+sources:
+  - "/sources/highlights/2026-04-16/00__dotey__openai-agents-sdk-内置沙箱-harness-开发者终于不用自己搭底层环境了.md"
+  - "/sources/highlights/2026-04-29/00__dotey__openai-联姻-aws-codex-400万周活把-工具化-从口号变成格局.md"
+  - "/sources/highlights/2026-06-07/00__dotey__openai-高管直言-chat-is-dead-chatgpt-正在变-agentgpt-codex-与第三方应用统一.md"
+  - "/sources/highlights/2026-06-07/00__xiaohu__openai-押注-超级应用-chatgpt-启动史上最大改版-整合编码-agent.md"
+  - "/sources/highlights/2026-06-12/00__gkxspace__openai-收购-ona-摊牌-codex-不再是编码工具-而是要吃掉所有-ai-应用的超级入口.md"
+  - "/sources/highlights/2026-06-20/00__bourneliu66__微信-ai-小微灰度内测-腾讯把-ai-助手塞进完整微信生态.md"
+  - "/sources/news/2026-06-19/00__vista8__chatgpt-网页版开启开发模式-第三方-mcp-可读本地文件-变向获得双倍-codex-额度.md"
 ---
 
 # 主题: openai-super-app-strategy

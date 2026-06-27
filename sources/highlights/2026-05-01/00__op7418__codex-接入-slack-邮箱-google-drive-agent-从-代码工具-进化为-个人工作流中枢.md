@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Codex 接入 Slack/邮箱/Google Drive：Agent 从「代码工具」进化为「个人工作流中枢」"
 description: "**Codex 正在从编码代理向全栈工作流 Agent 跃迁。**  - 新增连接 Slack、邮箱、Google Drive 的能力，Agent 可直接从这些数据源获取内容执行任务 - 支持将信息自动添加到 Google Calendar，完成从「感知」到「行动」的闭环 - 这意味着 Codex 的定位从「帮你写代码」变成了「帮你管理一切」，直接对标 Claude Code + MCP 生态  "
 resource: "https://x.com/i/status/2050041028510708086"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2050041028510708086"
+created: "2026-05-01"
+updated: "2026-06-26"
+sha256: "dfa7abab543550fb89ed9b79881851ba60a780e3db6324f1407adea4cfefa039"
+sources:
+  - "/sources/highlights/2026-05-01/00__op7418__codex-接入-slack-邮箱-google-drive-agent-从-代码工具-进化为-个人工作流中枢.md"
 ---
 
 # Codex 接入 Slack/邮箱/Google Drive：Agent 从「代码工具」进化为「个人工作流中枢」

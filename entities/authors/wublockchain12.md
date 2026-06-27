@@ -1,5 +1,5 @@
 ---
-type: "Author"
+type: "entity"
 title: "吴说区块链 (@wublockchain12)"
 description: "X/Twitter 作者 @wublockchain12。共收录 1 条 AI 精选推文。"
 tags:
@@ -12,6 +12,12 @@ x_author_name: "吴说区块链"
 x_tweet_count: 1
 x_first_seen: "2026-03-18T00:42:49.145Z"
 x_last_seen: "2026-03-18T00:42:49.145Z"
+type_okf: "Author"
+created: "2026-03-18"
+updated: "2026-06-26"
+sha256: "15b737c3df858bfb32979b06564c160439aac8957a8b865f62e8f8796ae806fe"
+sources:
+  - "/sources/highlights/2026-03-18/00__wublockchain12__arthur-hayes-比特币腰斩是ai信用崩塌的末日钟声.md"
 ---
 
 # 吴说区块链 (@wublockchain12)

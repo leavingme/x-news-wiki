@@ -1,5 +1,5 @@
 ---
-type: "Author"
+type: "entity"
 title: "Suryansh Tiwari (@Suryanshti777)"
 description: "X/Twitter 作者 @Suryanshti777。共收录 1 条 AI 精选推文。"
 tags:
@@ -12,6 +12,12 @@ x_author_name: "Suryansh Tiwari"
 x_tweet_count: 1
 x_first_seen: "2026-03-12T00:42:31.347Z"
 x_last_seen: "2026-03-12T00:42:31.347Z"
+type_okf: "Author"
+created: "2026-03-12"
+updated: "2026-06-26"
+sha256: "00661cb7b68831967cd4719eb2dc749279c82859ab3602b0461f8ce98b795b9d"
+sources:
+  - "/sources/highlights/2026-03-12/82__Suryanshti777__claude-code-的正确打开方式-不是聊天工具-是-ai-开发操作系统.md"
 ---
 
 # Suryansh Tiwari (@Suryanshti777)

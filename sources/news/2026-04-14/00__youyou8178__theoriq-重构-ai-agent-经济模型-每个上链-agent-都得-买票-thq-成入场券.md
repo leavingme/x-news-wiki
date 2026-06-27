@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Theoriq 重构 AI Agent 经济模型：每个上链 Agent 都得「买票」，$THQ 成入场券"
 description: "**[「质押门票」设计比「惩罚机制」更狠，因为它创造了结构性需求]**  Theoriq 的核心逻辑：接入协议必须质押 $THQ，信誉好才能留，作恶被惩罚。  要点： - 经济模型设计比单纯的风控机制更系统——不是事后追责，是事前准入 - Alpha 金库：用户越多、手续费越高、飞轮自驱 - 50万社群成员、44万推特粉丝，Kaito 生态已形成初始流量 - 「上链通行证」叙事：不是空气币，是 A"
 resource: "https://x.com/i/status/1951473748043071536"
@@ -22,6 +22,13 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "ai-agent-crypto-infra"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/1951473748043071536"
+created: "2025-08-02"
+updated: "2026-06-26"
+sha256: "b4618d57407684e08238eb026dcef60cc03722bd5a54e3f446b13880f66aedfc"
+sources:
+  - "/sources/news/2026-04-14/00__youyou8178__theoriq-重构-ai-agent-经济模型-每个上链-agent-都得-买票-thq-成入场券.md"
 ---
 
 # Theoriq 重构 AI Agent 经济模型：每个上链 Agent 都得「买票」，$THQ 成入场券

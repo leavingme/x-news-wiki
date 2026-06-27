@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "AI写代码的磁盘垃圾有解了：挂载层透明隔离，生产数据零污染"
 description: "针对AI写代码时大量产生磁盘垃圾的问题，社区方案：在文件系统挂载层做透明隔离，让AI的「调试日志」自动进垃圾桶，聊天记录等真实数据完全不受影响。 - 用挂载策略而非应用层过滤，开销接近零 - 不改AI行为、不污染物理磁盘的擦写寿命 - 解决的是「AI + 本地开发」最真实的摩擦点之一  小互锐评：AI Coding落地工程化正在「补作业」——所有AI高频写入带来的磁盘损耗、I/O噪声、性能抖动，都"
 resource: "https://x.com/i/status/2069230428326961543"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2069230428326961543"
+created: "2026-06-23"
+updated: "2026-06-26"
+sha256: "c435d7c375494bee917b2a77f4a83a50fd396d7de29ede26d0d10b180d4c31ff"
+sources:
+  - "/sources/news/2026-06-23/00__xiaohu__ai写代码的磁盘垃圾有解了-挂载层透明隔离-生产数据零污染.md"
 ---
 
 # AI写代码的磁盘垃圾有解了：挂载层透明隔离，生产数据零污染

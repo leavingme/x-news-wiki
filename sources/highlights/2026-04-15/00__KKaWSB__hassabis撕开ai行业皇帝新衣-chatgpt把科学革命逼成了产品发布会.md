@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Hassabis撕开AI行业皇帝新衣：ChatGPT把科学革命逼成了产品发布会"
 description: "**一句话核心判断：** DeepMind掌门人亲自作证——ChatGPT引爆的商业军备竞赛，正在系统性地中断本可以改变人类的基础科学进程。  **信息增量：** - AlphaFold已验证路径：诺奖级成果、300万科学家依赖、几乎所有新药研发绕不开它 - Hassabis的假设语境是反事实的：如果节奏不被ChatGPT打断，癌症攻克可能就在实验室里排队 - 他的发言是迄今来自头部实验室最直接的"
 resource: "https://x.com/i/status/2042399159433773372"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2042399159433773372"
+created: "2026-04-10"
+updated: "2026-06-26"
+sha256: "23968aaff9287754e340b9c58a38646038ab735e12cdf91a84e619ee9bdc417a"
+sources:
+  - "/sources/highlights/2026-04-15/00__KKaWSB__hassabis撕开ai行业皇帝新衣-chatgpt把科学革命逼成了产品发布会.md"
 ---
 
 # Hassabis撕开AI行业皇帝新衣：ChatGPT把科学革命逼成了产品发布会

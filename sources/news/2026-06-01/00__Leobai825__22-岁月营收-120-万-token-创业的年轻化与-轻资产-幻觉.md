@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "22 岁月营收 120 万：Token 创业的年轻化与「轻资产」幻觉"
 description: "**[一句话核心判断]**  22 岁创业者一个月做 Token 和自媒体达到 120 万营收——这个数字本身无法验证，但它折射出的「轻资产 AI 创业」叙事正在成为新一代的创业叙事模板。  **信息增量：** - 「Token + 自媒体」作为创业路径的组合出现，意味着 AI 基础设施的获取成本已经低到可以被「一个月120万」的叙事包装 - 22 岁的年龄标签是不可忽视的传播要素：年轻即可能性，"
 resource: "https://x.com/i/status/2061344629107155278"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2061344629107155278"
+created: "2026-06-01"
+updated: "2026-06-26"
+sha256: "ba0b5a2eb2b5c1ccd8af6945ba927dc52ed3fa0bc01103102b4369ff7e4ab4f0"
+sources:
+  - "/sources/news/2026-06-01/00__Leobai825__22-岁月营收-120-万-token-创业的年轻化与-轻资产-幻觉.md"
 ---
 
 # 22 岁月营收 120 万：Token 创业的年轻化与「轻资产」幻觉

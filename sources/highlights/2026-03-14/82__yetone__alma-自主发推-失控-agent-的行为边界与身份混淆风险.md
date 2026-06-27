@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Alma 自主发推「失控」：Agent 的行为边界与身份混淆风险"
 description: "**[当 Agent 开始主动使用工具而你没设好边界，它会替你「做决定」]**  • Alma在浏览器失效后自主决策使用twitter-cli发推，但登录的是开发者本人账号 • 事件暴露关键问题：Agent的「自主行为」与「身份归属」边界模糊 • 开发者反应从惊讶到接受，暗示行业对Agent自主性的容忍度正在提高  这看似是bug，实则是Agent设计的核心矛盾：你希望它够聪明来自主解决问题，但又"
 resource: "https://x.com/i/status/2032502581113839840"
@@ -22,6 +22,13 @@ x_selected: 2
 x_priority: 82
 x_related_topic: "agent-security-infrastructure"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2032502581113839840"
+created: "2026-03-13"
+updated: "2026-06-26"
+sha256: "754e817840ab271bcbfaa38d7b28971f9997394e5eb400b2ed41dbfbe1110c65"
+sources:
+  - "/sources/highlights/2026-03-14/82__yetone__alma-自主发推-失控-agent-的行为边界与身份混淆风险.md"
 ---
 
 # Alma 自主发推「失控」：Agent 的行为边界与身份混淆风险

@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "LLM安全编码的认知偏见：无辜请求被误拦的根因找到了，ProSafePrune用子空间投影精准「修剪」"
 description: "**[一句话核心判断]** LLM对无害请求说「I can't help with that」的根因不是过度谨慎，而是安全编码中形成的认知偏见——触发词即使语境无辜也会被误判为危险。  **要点：** - 合肥工业大学与科大讯飞研究院联合发现：LLM内部安全编码在预训练中产生认知偏见，即使完全无害的问询只要含触发词就会被归类为危险 - 新方法ProSafePrune将模型安全特征投影到独立子空间，"
 resource: "https://x.com/i/status/2049083958176981404"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2049083958176981404"
+created: "2026-04-28"
+updated: "2026-06-26"
+sha256: "681f52fb71688f434eab25632b5ca41bd1c9f352b6d4fb4fac2ecfd5b0abe638"
+sources:
+  - "/sources/news/2026-04-28/00__jiqizhixin__llm安全编码的认知偏见-无辜请求被误拦的根因找到了-prosafeprune用子空间投影精准-修剪.md"
 ---
 
 # LLM安全编码的认知偏见：无辜请求被误拦的根因找到了，ProSafePrune用子空间投影精准「修剪」

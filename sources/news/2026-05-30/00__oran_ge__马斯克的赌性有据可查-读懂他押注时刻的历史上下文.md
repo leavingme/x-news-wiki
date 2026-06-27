@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "马斯克的赌性有据可查：读懂他押注时刻的历史上下文"
 description: "**【一句话核心判断】**  读历史人物最忌讳'事后诸葛亮'，马斯克当年押注PayPal/X的股权结构，恰恰体现的是敢于all-in的执行魄力，而非事后被神话的先知光环。  **信息增量：** - Orange AI指出：即便今天重读这段历史，仍需佩服马斯克的赌性 - 关键细节：马斯克是PayPal的创始人兼股东，但并非CEO——这意味着他选择了高风险高收益的股权路径而非稳健的管理岗 - 引发的思"
 resource: "https://x.com/i/status/2060723768541208789"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2060723768541208789"
+created: "2026-05-30"
+updated: "2026-06-26"
+sha256: "41aa7a232f7ababc6255d26a208b7374a97b635c4b75c27d9f9f67af3a3f270d"
+sources:
+  - "/sources/news/2026-05-30/00__oran_ge__马斯克的赌性有据可查-读懂他押注时刻的历史上下文.md"
 ---
 
 # 马斯克的赌性有据可查：读懂他押注时刻的历史上下文

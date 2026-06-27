@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "ColaOS 突破 ChatGPT 图片生成边界：动态 HTML 可视化进入对话式 AI 标配功能集"
 description: "**[动态 HTML 生成从概念到对话标配的临界点信号]**  ColaOS 在 ChatGPT 对话中成功调用图片生成能力后，进一步尝试让 AI 生成动态 HTML 可视化。这一尝试证明了\"多模态输出\"正在从单纯生图向\"可交互内容\"延伸。核心信息增量：(1) HTML/SVG 等代码类动态内容生成开始进入对话 AI 的能力圈；(2) 提示词设计方式正在分化——\"有图就画图\"正向\"有图+动态需求还"
 resource: "https://x.com/i/status/2048535200469270672"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2048535200469270672"
+created: "2026-04-26"
+updated: "2026-06-26"
+sha256: "5c4d62f138d4bed1688422dbca603e2e3f3568fbb5707ec9ed120a5acd771e8d"
+sources:
+  - "/sources/news/2026-04-27/00__oran_ge__colaos-突破-chatgpt-图片生成边界-动态-html-可视化进入对话式-ai-标配功能集.md"
 ---
 
 # ColaOS 突破 ChatGPT 图片生成边界：动态 HTML 可视化进入对话式 AI 标配功能集

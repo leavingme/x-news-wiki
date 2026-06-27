@@ -1,5 +1,5 @@
 ---
-type: "Author"
+type: "entity"
 title: "sui ☄️ (@birdabo)"
 description: "X/Twitter 作者 @birdabo。共收录 1 条 AI 精选推文。"
 tags:
@@ -12,6 +12,12 @@ x_author_name: "sui ☄️"
 x_tweet_count: 1
 x_first_seen: "2026-04-27T19:17:37.820Z"
 x_last_seen: "2026-04-27T19:17:37.820Z"
+type_okf: "Author"
+created: "2026-04-27"
+updated: "2026-06-26"
+sha256: "d71e02cfcaee2d240ce47967979448ec7dc834fa77e07cd708dddebea83160d3"
+sources:
+  - "/sources/highlights/2026-04-27/00__birdabo__openai-硬件野心曝光-2028-年自研-ai-phone-正面硬刚-iphone-定制-os-欲用-agent-替.md"
 ---
 
 # sui ☄️ (@birdabo)

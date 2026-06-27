@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Cursor 20亿 ARR 背后：个人开发者正在「叛逃」到 Claude Code"
 description: "**[AI Coding 市场出现结构性分化]** • Cursor 企业客户占比升至 60%，但个人开发者持续流失给 Claude Code/OpenClaw • 开发者工作流演进：从 Tab 补全 → Cursor Agent → Claude Code → OpenClaw 编排，代码本身正沦为「中间产物」 • 国内大厂今年目标集体押注 AI Coding，赛道从尝鲜进入必争阶段  个人开发"
 resource: "https://x.com/i/status/2029414346552688854"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 95
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2029414346552688854"
+created: "2026-03-05"
+updated: "2026-06-26"
+sha256: "95250f567faea77cc041328d067941d09138c0419b8a376a0c7189a23849c929"
+sources:
+  - "/sources/news/2026-03-08/95__frxiaobei__cursor-20亿-arr-背后-个人开发者正在-叛逃-到-claude-code.md"
 ---
 
 # Cursor 20亿 ARR 背后：个人开发者正在「叛逃」到 Claude Code

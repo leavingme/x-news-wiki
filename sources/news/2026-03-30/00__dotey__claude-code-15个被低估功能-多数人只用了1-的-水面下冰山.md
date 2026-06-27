@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Claude Code 15个被低估功能：多数人只用了1%的「水面下冰山」"
 description: "[Claude Code的真正价值藏在Boris Cherny的私人清单里]  Claude Code创造者Boris Cherny亲自列了15个被低估的功能：移动端写代码（iOS/Android）、跨设备会话 teleport、远程控制本地会话、自动代码审查、5分钟定时任务……这些功能普通用户几乎不知道，但它们解决的是「真实工作流中的卡点」。  关键洞察：Claude Code的手机端不是让你在"
 resource: "https://x.com/i/status/2038481514732691940"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2038481514732691940"
+created: "2026-03-30"
+updated: "2026-06-26"
+sha256: "d7e06e5aa2028b80eb686ec53a9bb3c249c4b2fb215020af7fd7a3d1dbaea351"
+sources:
+  - "/sources/news/2026-03-30/00__dotey__claude-code-15个被低估功能-多数人只用了1-的-水面下冰山.md"
 ---
 
 # Claude Code 15个被低估功能：多数人只用了1%的「水面下冰山」

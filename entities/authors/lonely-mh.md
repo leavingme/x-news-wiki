@@ -1,5 +1,5 @@
 ---
-type: "Author"
+type: "entity"
 title: "Lonely (@Lonely__MH)"
 description: "X/Twitter 作者 @Lonely__MH。共收录 1 条 AI 精选推文。"
 tags:
@@ -12,6 +12,12 @@ x_author_name: "Lonely"
 x_tweet_count: 1
 x_first_seen: "2026-04-06T00:42:54.691Z"
 x_last_seen: "2026-04-06T00:42:54.691Z"
+type_okf: "Author"
+created: "2026-04-06"
+updated: "2026-06-26"
+sha256: "f070987fbd77c1c5934dee981b2c206827769acd29bb6a0218965d048d4ed825"
+sources:
+  - "/sources/highlights/2026-04-06/00__Lonely__MH__gemma-4-31b-越狱版-harmbench-93-7-开源模型的最后一道安全锁已名存实亡.md"
 ---
 
 # Lonely (@Lonely__MH)

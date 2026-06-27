@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "\"我们是否还需要理解代码？\"：AI Coding 时代工程师身份认同危机浮出水面"
 description: "**[一句话核心判断]** Astral CEO Charlie Marsh 与 Ryan Peterman 对谈，抛出 AI 时代软件工程最尖锐的命题：当 AI 写出 90% 代码，工程师理解代码本身是否还有价值？  - **认知解耦信号**：Pull quote「Does it even matter if we understand the code?」直指 Vibe Coding 落地的核"
 resource: "https://x.com/i/status/2069574785185567072"
@@ -22,6 +22,13 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "skill-barrier-collapse"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2069574785185567072"
+created: "2026-06-24"
+updated: "2026-06-26"
+sha256: "7874734a575c23d85093766850acf71b4cc2e47e4b5358b6c27540ec6226c1bb"
+sources:
+  - "/sources/highlights/2026-06-25/00__charliermarsh__我们是否还需要理解代码-ai-coding-时代工程师身份认同危机浮出水面.md"
 ---
 
 # "我们是否还需要理解代码？"：AI Coding 时代工程师身份认同危机浮出水面

@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Unsloth 把 DiffusionGemma 微调成数独选手：双向注意力在全局约束任务上反超自回归"
 description: "**扩散模型微调第一次在「全局约束」类任务上拿出可验证的反超样本。**  - Unsloth 演示用微调让 DiffusionGemma 学会解数独，验证了双向注意力对全局约束的天然优势。 - 自回归模型在 Sudoku 这类需要「一眼看全盘」的任务上结构性吃亏，扩散范式 + 微调是新的解法路径。 - 信号点：Unsloth 正在把「微调民主化」从 LLM 扩展到 Diffusion LLM，垂直"
 resource: "https://x.com/i/status/2064898955293655442"
@@ -22,6 +22,13 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "unsloth-finetuning-democratization"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2064898955293655442"
+created: "2026-06-11"
+updated: "2026-06-26"
+sha256: "f23f67f5c366fb7f63a776317455ef42cbaf1d58762b56934636f5dbba543b11"
+sources:
+  - "/sources/news/2026-06-11/00__xiaohu__unsloth-把-diffusiongemma-微调成数独选手-双向注意力在全局约束任务上反超自回归.md"
 ---
 
 # Unsloth 把 DiffusionGemma 微调成数独选手：双向注意力在全局约束任务上反超自回归

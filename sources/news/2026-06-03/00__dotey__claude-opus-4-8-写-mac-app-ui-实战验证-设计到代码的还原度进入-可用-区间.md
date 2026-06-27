@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Claude Opus 4.8 写 Mac App UI 实战验证：设计到代码的还原度进入「可用」区间"
 description: "**[Claude Design + Opus 4.8 的组合正在将设计-代码还原这件事工程化]**  宝玉 实测：Claude Design 产出 UI 设计稿，Opus 4.8 实现后还原度「相当不错」，并宣布要做 Mac App for X。这条推文的核心价值在于它是一个真实可交付的生产力案例，而非演示 Demo。  - 验证了一个关键命题：当前 Claude 4.8 的多模态能力已能支撑「"
 resource: "https://x.com/i/status/2062043155579453715"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2062043155579453715"
+created: "2026-06-03"
+updated: "2026-06-26"
+sha256: "1dac8769bc2c0380a3ca36d54b3d1c0cbece840d9e36ab9cbbe628176c672234"
+sources:
+  - "/sources/news/2026-06-03/00__dotey__claude-opus-4-8-写-mac-app-ui-实战验证-设计到代码的还原度进入-可用-区间.md"
 ---
 
 # Claude Opus 4.8 写 Mac App UI 实战验证：设计到代码的还原度进入「可用」区间

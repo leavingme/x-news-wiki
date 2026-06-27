@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "“甩链接”成新交互范式：开发者暗示 Agent 生态的“即插即用”化趋势"
 description: "**[一句“把这个链接发给AI让他适配”，揭示了Agent工具链正走向极简、可组合的“乐高化”]** - 开发者归藏分享了一个链接，暗示用户可直接将其抛给AI进行适配，无需复杂配置。 - 这反映了当前Agent生态的一种理想状态：工具与能力可以通过简单的自然语言指令快速集成。 - 这种“甩链接”模式若普及，将极大降低Agent的使用和开发门槛，加速个性化工作流的构建。  当复杂的技术适配被简化成“"
 resource: "https://x.com/i/status/2028529762113880493"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2028529762113880493"
+created: "2026-03-02"
+updated: "2026-06-26"
+sha256: "01d7864ac44e8fdb931880ca750efce5cd888bdfda6a5a37a6215694ba405163"
+sources:
+  - "/sources/news/2026-03-03/00__op7418__甩链接-成新交互范式-开发者暗示-agent-生态的-即插即用-化趋势.md"
 ---
 
 # “甩链接”成新交互范式：开发者暗示 Agent 生态的“即插即用”化趋势

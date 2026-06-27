@@ -1,5 +1,5 @@
 ---
-type: "Author"
+type: "entity"
 title: "薛蛮子Charles (@xuemanzi8848)"
 description: "X/Twitter 作者 @xuemanzi8848。共收录 1 条 AI 精选推文。"
 tags:
@@ -12,6 +12,12 @@ x_author_name: "薛蛮子Charles"
 x_tweet_count: 1
 x_first_seen: "2026-04-18T00:47:03.857Z"
 x_last_seen: "2026-04-18T00:47:03.857Z"
+type_okf: "Author"
+created: "2026-04-18"
+updated: "2026-06-26"
+sha256: "fa5cbdf7c4725e8a4f772a1797b547d6bb13298ffd6392685c506b0511a4afa3"
+sources:
+  - "/sources/news/2026-04-18/00__xuemanzi8848__马斯克储能闭环解析-xai的边际成本优势来自特斯拉能源架构而非算法.md"
 ---
 
 # 薛蛮子Charles (@xuemanzi8848)

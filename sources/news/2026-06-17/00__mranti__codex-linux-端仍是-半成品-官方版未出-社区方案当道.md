@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Codex Linux 端仍是「半成品」：官方版未出，社区方案当道"
 description: "【Codex 在 Linux 平台的官方支持现状】  • Codex 官方版未覆盖 Linux，用户需自行配置，社区 workaround 缺官方维护 • 与 Claude Code、Gemini CLI 的跨平台覆盖节奏形成明显对比 • 受影响最深的恰是服务端/边缘 Agent 主力开发者   gakki 锐评：OpenAI 押注 Codex 是生态级战略，但跨平台铺开速度落后 Anthropi"
 resource: "https://x.com/i/status/2067248322201661898"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2067248322201661898"
+created: "2026-06-17"
+updated: "2026-06-26"
+sha256: "ebb70a71fa9ab87f8677fe511c3bdcc3d4ab0c3efc7cc952c41880f3356e84d4"
+sources:
+  - "/sources/news/2026-06-17/00__mranti__codex-linux-端仍是-半成品-官方版未出-社区方案当道.md"
 ---
 
 # Codex Linux 端仍是「半成品」：官方版未出，社区方案当道

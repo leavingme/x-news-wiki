@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "「Internet Court」：AI 经济自主权时代的第一座「链上仲裁庭」"
 description: "**【数字经济体「高流动性、零保障」困境的原生解法】**  • **痛点锚定**：Web3 外包中，智能合约能锁定资金但无法裁决「交付是否达标」，跨国诉讼成本远超争议金额 • **架构创新**：剥离地理属地与真实身份依赖，为「人-AI」「AI-AI」协作提供透明裁决框架 • **趋势映射**：当 Agent 经济自主权（Agent Economic Autonomy）成为共识，纠纷解决层必须是「数"
 resource: "https://x.com/i/status/2034231388107616609"
@@ -22,6 +22,13 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "agent-economic-autonomy"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2034231388107616609"
+created: "2026-03-18"
+updated: "2026-06-26"
+sha256: "73080701d1a66b11f835663b286d2663a8ea7b16b0f62da2cbef4c9f463db748"
+sources:
+  - "/sources/highlights/2026-03-18/00__Labia_cake__internet-court-ai-经济自主权时代的第一座-链上仲裁庭.md"
 ---
 
 # 「Internet Court」：AI 经济自主权时代的第一座「链上仲裁庭」

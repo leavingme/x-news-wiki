@@ -1,5 +1,5 @@
 ---
-type: "Author"
+type: "entity"
 title: "极客杰尼 (@seekjourney)"
 description: "X/Twitter 作者 @seekjourney。共收录 1 条 AI 精选推文。"
 tags:
@@ -12,6 +12,12 @@ x_author_name: "极客杰尼"
 x_tweet_count: 1
 x_first_seen: "2026-03-04T01:02:26.064Z"
 x_last_seen: "2026-03-04T01:02:26.064Z"
+type_okf: "Author"
+created: "2026-03-04"
+updated: "2026-06-26"
+sha256: "904e6adb56f5f77d28f07a6ebb33b5bacab05e5e1cc3b3e8e6d12e6a7315656d"
+sources:
+  - "/sources/highlights/2026-03-04/00__seekjourney__遇事不决-claude-code-agent-思维正在成为新一代-搜索本能.md"
 ---
 
 # 极客杰尼 (@seekjourney)

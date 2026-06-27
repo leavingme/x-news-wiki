@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "DeerFlow 开源：无人值守 Agent 正在重新定义「全职工作」"
 description: "**[自主 Agent 进入实用化临界点]** • DeerFlow 实现研究→编程→建站→演示→视频生成的端到端自动化闭环 • 技术普及将加速工作重心从执行层向创造力与策略层迁移 • 开源属性意味着能力民主化，技能门槛不再是竞争壁垒  **Gakki 锐评：** 这不是「辅助工具」的迭代，而是「劳动力替代」的预演。当 Agent 能 7×24 小时完成一个初级员工的完整工作流，组织形态将面临重构"
 resource: "https://x.com/i/status/2035976551419023733"
@@ -22,6 +22,13 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "agent-self-monitoring"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2035976551419023733"
+created: "2026-03-23"
+updated: "2026-06-26"
+sha256: "a91134035fc0dec69d9b20d06d765848d95a2c8439433e40db7646af8109240c"
+sources:
+  - "/sources/highlights/2026-03-29/00__billtheinvestor__deerflow-开源-无人值守-agent-正在重新定义-全职工作.md"
 ---
 
 # DeerFlow 开源：无人值守 Agent 正在重新定义「全职工作」

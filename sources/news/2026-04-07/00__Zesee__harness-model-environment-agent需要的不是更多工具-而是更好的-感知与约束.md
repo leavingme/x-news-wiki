@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Harness = Model + Environment：Agent需要的不是更多工具，而是更好的「感知与约束」"
 description: "**[一句话核心判断]**  Harness工程理念的核心不是模型本身，而是前馈控制（Guides）和反馈控制（Sensors）的闭环设计——强类型语言和模块边界是最好的传感器。  **信息增量：** - Guides在行动前引导，提高首次成功率 - Sensors在行动后检测，让Agent在人工介入前自我纠正 - 传统工程好习惯（强类型、模块边界）成了Agent的感知层  **影响评估：** -"
 resource: "https://x.com/i/status/2041154139720192339"
@@ -22,6 +22,13 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "harness-engineering"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2041154139720192339"
+created: "2026-04-06"
+updated: "2026-06-26"
+sha256: "23fbe5ff28beb2f092f23e1001e5ac9467d4a41a0e163af64f1904036e2b71f8"
+sources:
+  - "/sources/news/2026-04-07/00__Zesee__harness-model-environment-agent需要的不是更多工具-而是更好的-感知与约束.md"
 ---
 
 # Harness = Model + Environment：Agent需要的不是更多工具，而是更好的「感知与约束」

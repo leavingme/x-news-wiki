@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "国行 iPhone 满血 AI 的套利路径正在形成灰色但真实的 AI 平权窗口"
 description: "**监管套利正在创造一种非常规的 AI 普惠路径，且这个路径正在被规模化复制。**  - 操作路径：国行 iPhone → 解锁 → 满血 AI 功能 → 通过 X 平台发布套利内容 → 变现 - 本质：这是监管限制与技术可获得性之间缺口的套利，和当年「科学上网」的逻辑完全一致 - 传播信号：闲鱼+小红书+X 的三位一体套利路径，说明 AI 工具的获取不平等正在被有技术敏感度的人群主动抹平  监管"
 resource: "https://x.com/i/status/2055158166778687844"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2055158166778687844"
+created: "2026-05-15"
+updated: "2026-06-26"
+sha256: "aa9b2e6f8dc6ed350f67e25be5662c7265ccdda1ddc333bc749b7a7ef220d1f6"
+sources:
+  - "/sources/news/2026-05-15/00__Leobai825__国行-iphone-满血-ai-的套利路径正在形成灰色但真实的-ai-平权窗口.md"
 ---
 
 # 国行 iPhone 满血 AI 的套利路径正在形成灰色但真实的 AI 平权窗口

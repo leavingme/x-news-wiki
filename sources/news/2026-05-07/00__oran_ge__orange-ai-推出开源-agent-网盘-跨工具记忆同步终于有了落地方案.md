@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Orange AI 推出开源 Agent 网盘：跨工具记忆同步终于有了落地方案"
 description: "**不同 Agent 之间各存各的记忆、skill、文件，这个碎片化问题终于有人动手解决了。** - 支持 Claude Code/Codex/Cursor 等主流工具及网页应用的记忆、skill、文件自动同步 - 开源方案，免费版已覆盖绝大多数场景 - 解决的是 Agent 生态的\"记忆孤岛\"问题  Agent 记忆的跨工具同步是整个生态的基础设施级痛点。谁先把\"记忆可携带\"做成默认体验，谁就有"
 resource: "https://x.com/i/status/2052497363043049662"
@@ -22,6 +22,13 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "agent-memory-optimization"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2052497363043049662"
+created: "2026-05-07"
+updated: "2026-06-26"
+sha256: "d398d6ba9f63b8c2a50b0a27ad444506dcd84a82c826582e98e7cb5adb7b67c6"
+sources:
+  - "/sources/news/2026-05-07/00__oran_ge__orange-ai-推出开源-agent-网盘-跨工具记忆同步终于有了落地方案.md"
 ---
 
 # Orange AI 推出开源 Agent 网盘：跨工具记忆同步终于有了落地方案

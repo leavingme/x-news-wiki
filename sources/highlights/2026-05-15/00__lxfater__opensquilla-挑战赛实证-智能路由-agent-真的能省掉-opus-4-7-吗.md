@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "OpenSquilla 挑战赛实证：智能路由 Agent 真的能省掉 Opus 4.7 吗？"
 description: "**硬核对照实验拆穿营销叙事。**  铁锤人设计了 18 次对照（3 技能 × 3 任务 × 3 轮），OpenSquilla 智能路由 vs Hermes Agent 强制 Opus 4.7，控制变量覆盖相同 prompt 和技能链。结果显示路由策略并未在各维度全面胜出——便宜模型省了 token，但复杂任务的准确率损耗才是隐性成本。  关键发现：SquillaRouter 毫秒级路由、记忆蒸馏"
 resource: "https://x.com/i/status/2055096819831730684"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2055096819831730684"
+created: "2026-05-15"
+updated: "2026-06-26"
+sha256: "b680afc3813c296fac4101a1e5a5b7dd2f61cc312c5c3776a8f4ec09ecb2d98e"
+sources:
+  - "/sources/highlights/2026-05-15/00__lxfater__opensquilla-挑战赛实证-智能路由-agent-真的能省掉-opus-4-7-吗.md"
 ---
 
 # OpenSquilla 挑战赛实证：智能路由 Agent 真的能省掉 Opus 4.7 吗？

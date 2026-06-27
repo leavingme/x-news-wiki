@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "OpenHuman：个人知识库的正确打开方式，还是Agent外壳的过度包装"
 description: "**[个人记忆系统终于有了\"预设上下文\"这个产品思路]**  OpenHuman解决的核心问题：大多数AI Agent需要用户长期使用、反复喂信息后才开始好用。OpenHuman的方案是直接把你的已有文档、Slack、GitHub、Notion、日历等历史资料整理成本地优先的AI记忆系统——Memory Tree切分+SQLite+Obsidian风格vault+三层摘要。  产品成熟度一般，本质"
 resource: "https://x.com/i/status/2056380213743821270"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2056380213743821270"
+created: "2026-05-18"
+updated: "2026-06-26"
+sha256: "f090f7fd9799ac586d74ebdab43fbab5655e4b0ba840e776573bc999416176f7"
+sources:
+  - "/sources/news/2026-05-18/00__gkxspace__openhuman-个人知识库的正确打开方式-还是agent外壳的过度包装.md"
 ---
 
 # OpenHuman：个人知识库的正确打开方式，还是Agent外壳的过度包装

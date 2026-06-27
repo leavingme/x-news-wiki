@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "老黄GTC定调：Token工厂即国力，AI基建进入「最后通牒」时刻"
 description: "**[英伟达将AI基础设施上升到国家战略博弈维度]** • 老黄将数据中心重新定义为「Token工厂」，2027年仅旗舰芯片就能贡献1万亿美元营收，指引翻倍 • 核心信号：AI不是应用而是新时代的电力+发动机，不建AI工厂就等于19世纪不建电厂 • 这是给全球CEO和国家元首的最后通牒——你们不投，我们就帮竞争对手建  老黄的野心不止于卖芯片，他在定义AI时代的「石油输出国」规则。当算力成为能源，"
 resource: "https://x.com/i/status/2033686742742798680"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2033686742742798680"
+created: "2026-03-16"
+updated: "2026-06-26"
+sha256: "fad34c4e29afaacefe9d6eda3af2ad8dbbbf0e2e3ea421e48f63d7a6edb3428f"
+sources:
+  - "/sources/highlights/2026-03-17/00__qinbafrank__老黄gtc定调-token工厂即国力-ai基建进入-最后通牒-时刻.md"
 ---
 
 # 老黄GTC定调：Token工厂即国力，AI基建进入「最后通牒」时刻

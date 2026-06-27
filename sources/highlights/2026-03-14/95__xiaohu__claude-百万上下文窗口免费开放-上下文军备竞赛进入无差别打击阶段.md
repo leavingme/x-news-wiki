@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Claude 百万上下文窗口免费开放：上下文军备竞赛进入无差别打击阶段"
 description: "**[Anthropic 用「不加价」策略直接改写长上下文游戏规则]**  - Claude Opus/Sonnet 4.6 上下文窗口从 200k 跃升至 1M，价格维持不变，媒体处理能力扩展 6 倍至单次 600 张图片/PDF - 无需 beta header 即可调用，旧代码兼容，降低接入摩擦 - 这意味着：长文档分析、代码库全局理解、多模态批量处理的成本曲线被强行拉平，对仍按 token"
 resource: "https://x.com/i/status/2032608738511929832"
@@ -22,6 +22,13 @@ x_selected: 2
 x_priority: 95
 x_related_topic: "claude-code-ecosystem"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2032608738511929832"
+created: "2026-03-14"
+updated: "2026-06-26"
+sha256: "50fd3a3fa178739f62ae6b46ead5f41d72315c63869781ea04fcdefc6d153992"
+sources:
+  - "/sources/highlights/2026-03-14/95__xiaohu__claude-百万上下文窗口免费开放-上下文军备竞赛进入无差别打击阶段.md"
 ---
 
 # Claude 百万上下文窗口免费开放：上下文军备竞赛进入无差别打击阶段

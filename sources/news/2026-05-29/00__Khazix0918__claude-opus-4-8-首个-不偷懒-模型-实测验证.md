@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Claude Opus 4.8 首个「不偷懒」模型，实测验证"
 description: "**[Claude Opus 4.8 终结「模型偷懒」现象]**  数字生命卡兹克实测 Claude Opus 4.8，给出一个高度概括的判断：这是第一个不会偷懒的模型。这暗示 Opus 4.8 在长任务执行、复杂推理中能持续输出完整结果，而非在长对话中逐渐缩减答案。  ---  **gakki 认为**：一个字的测评结论信息量不足，但结合近期关于 Claude 降级、API 算力黑洞的讨论，Op"
 resource: "https://x.com/i/status/2060204430327439517"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2060204430327439517"
+created: "2026-05-29"
+updated: "2026-06-26"
+sha256: "001e488fb3a946ea5f12c2e2ee56f4ba4ee05d5a645eb63e707f5410448dbc4b"
+sources:
+  - "/sources/news/2026-05-29/00__Khazix0918__claude-opus-4-8-首个-不偷懒-模型-实测验证.md"
 ---
 
 # Claude Opus 4.8 首个「不偷懒」模型，实测验证

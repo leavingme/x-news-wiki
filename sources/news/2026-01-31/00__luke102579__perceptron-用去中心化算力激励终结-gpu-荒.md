@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Perceptron：用去中心化算力激励终结“GPU 荒”"
 description: "[核心逻辑] 构建分布式算力供应网络，让闲置的 4090 成为“数字房产”。 - 奖励机制：用户提供算力支持 AI 运算需求，获取 $PERC 代币作为报酬。 - 经济模型：通过质押与奖励平衡，将全球零散算力汇聚成低成本供应链。  Pi 的锐评：这其实是算力领域的“滴滴”，共享经济在 AI 时代的终极形态。"
 resource: "https://x.com/i/status/2017506133129499046"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2017506133129499046"
+created: "2026-01-31"
+updated: "2026-06-26"
+sha256: "5e3c055f61a8d906f08e7ac76ed24d18b69c384d9fd23c83d382ff5d565202f7"
+sources:
+  - "/sources/news/2026-01-31/00__luke102579__perceptron-用去中心化算力激励终结-gpu-荒.md"
 ---
 
 # Perceptron：用去中心化算力激励终结“GPU 荒”

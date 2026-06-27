@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "oh-my-claudecode：把Claude Code变成多智能体编排系统的开源方案"
 description: "**【单Agent工具到多Agent系统的门槛，正在被一个脚本消解】**  oh-my-claudecode开源项目将Claude Code扩展为完整的多智能体编排系统：autopilot自动构建、Team模式分阶段协作（plan→exec→verify）、支持Codex/Gemini/Claude三模型并行。  • **工程意义**：不需要学Claude Code本身，直接通过自然语言驱动复杂工"
 resource: "https://x.com/i/status/2038264991724478852"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2038264991724478852"
+created: "2026-03-29"
+updated: "2026-06-26"
+sha256: "67f955560daad0a73695dcb0713c63b5de6c574f9ca7f25d633093b6575c0629"
+sources:
+  - "/sources/news/2026-03-30/00__akokoi1__oh-my-claudecode-把claude-code变成多智能体编排系统的开源方案.md"
 ---
 
 # oh-my-claudecode：把Claude Code变成多智能体编排系统的开源方案

@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Michael Anti：匠人精神缺失与过度变现正在杀死创作者经济"
 description: "**[一句话核心判断]**  创作者经济的困境不在平台，而在这两个根本矛盾：缺乏匠人精神和变现焦虑驱动的内容水化。  **信息增量：** - Michael Anti 点了两个行业痛点：镜头不好看（缺乏匠人精神）、广告变现过度（破坏用户体验） - 这两个问题在中国创作者生态中极为普遍 - 用户对创作者的耐心正在被快速消耗  **影响分析：** - 对创作者经济的健康度提出根本性质疑 - 有传播共性"
 resource: "https://x.com/i/status/2057641746545381886"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2057641746545381886"
+created: "2026-05-22"
+updated: "2026-06-26"
+sha256: "b60959518d4d1cc8376a14e8d893a959c6cf497666eaeedcc2690711239fece5"
+sources:
+  - "/sources/news/2026-05-22/00__mranti__michael-anti-匠人精神缺失与过度变现正在杀死创作者经济.md"
 ---
 
 # Michael Anti：匠人精神缺失与过度变现正在杀死创作者经济

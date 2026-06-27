@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "中文 AI 圈的时间差焦虑：信息翻译工具正在成为认知套利的基础设施"
 description: "**中文 AI 圈的信息时差不是语言问题，是认知套利窗口的量化指标。**  - Rachel 拿 Karpathy 长推做案例：英文前沿观点从发出到中文圈讨论，时间差可达数月 - 她的创业朋友已经把招聘重心从「精通某语言」转到「理解 Agent 编排」——说明信息差正在真实影响组织决策 - 沉浸式翻译作为广告载体出现在这里，恰恰验证了「双语信息流」是一个有商业价值的场景  锐评：这条推文本质上是一"
 resource: "https://x.com/i/status/2052690394580738446"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2052690394580738446"
+created: "2026-05-08"
+updated: "2026-06-26"
+sha256: "2f4acec4e88aedba50630c5b20f769838b81e6e4398a3bcadb99ec1c84add874"
+sources:
+  - "/sources/news/2026-05-08/00__Zesee__中文-ai-圈的时间差焦虑-信息翻译工具正在成为认知套利的基础设施.md"
 ---
 
 # 中文 AI 圈的时间差焦虑：信息翻译工具正在成为认知套利的基础设施

@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Skills团队共享终于有产品落地：开源生态正在填补协作基础设施空白"
 description: "**【一句话核心判断】** 卡兹克折腾许久的\"Skills 团队共享\"需求被某个产品解决了——这意味着 Skills 范式从个人工具向团队协作的第一条生产链路已经打通，Agent 工作流的碎片化问题正在被生态解决。  **信息增量：** - 需求真实性：\"折腾好久\"说明这是真实痛点而非臆想 - 产品出现意味着需求已经被验证到可商业化阶段 - Skills 团队共享一旦产品化，将加速 Agent 工"
 resource: "https://x.com/i/status/2059111830111617150"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2059111830111617150"
+created: "2026-05-26"
+updated: "2026-06-26"
+sha256: "dcdcf2cd059a81fb3173a8595aa8076b6125b093cc3b54f8806ece49ffae75b7"
+sources:
+  - "/sources/news/2026-05-26/00__Khazix0918__skills团队共享终于有产品落地-开源生态正在填补协作基础设施空白.md"
 ---
 
 # Skills团队共享终于有产品落地：开源生态正在填补协作基础设施空白

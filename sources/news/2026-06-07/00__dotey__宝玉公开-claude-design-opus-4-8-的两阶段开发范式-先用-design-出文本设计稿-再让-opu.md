@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "宝玉公开 Claude Design + Opus 4.8 的两阶段开发范式：先用 Design 出文本设计稿，再让 Opus 按技术栈约束实现 MVP"
 description: "**Claude Design 的真正价值不是出图，而是交付 HTML/CSS/React/data.js 这种对 AI 友好的文本格式设计稿，可以直接进 git 版本管理。**  - 第一阶段用 Claude Design 产出 UI/UX 草案，颜色系统、尺寸规范、组件结构、数据结构一次性给齐，比 Figma 对 AI 友好得多。 - 第二阶段把设计稿丢给 Claude Opus 4.8 写 "
 resource: "https://x.com/i/status/2063674134903603302"
@@ -22,6 +22,13 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "claude-design-tool"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2063674134903603302"
+created: "2026-06-07"
+updated: "2026-06-26"
+sha256: "d8f54848332fff4f5a94dee7d0f72a623a5f4ab4c0da728f1406dc9bfc62ae1e"
+sources:
+  - "/sources/news/2026-06-07/00__dotey__宝玉公开-claude-design-opus-4-8-的两阶段开发范式-先用-design-出文本设计稿-再让-opu.md"
 ---
 
 # 宝玉公开 Claude Design + Opus 4.8 的两阶段开发范式：先用 Design 出文本设计稿，再让 Opus 按技术栈约束实现 MVP

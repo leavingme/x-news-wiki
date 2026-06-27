@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "DeepSeek Harness团队正在扩张：框架层正在成为AI Infra的新增长极"
 description: "**[DeepSeek在开源模型之外，框架层（Harness）的招人动作被宝玉转发——说明DeepSeek的野心不止是模型，是工具链]**  DeepSeek Harness团队招人，宝玉帮忙扩散。Harness在AI领域特指「测试/评测框架」，DeepSeek在发布SOTA模型后开始补齐工具链，是模型公司向平台演进的标配路径。  gakki锐评：Harness团队招聘是DeepSeek从「模型供"
 resource: "https://x.com/i/status/2057835713442230638"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2057835713442230638"
+created: "2026-05-22"
+updated: "2026-06-26"
+sha256: "cc7164165974dd128cfa28327fd741095cd71e9b2dbcb66e495566356f0336d8"
+sources:
+  - "/sources/news/2026-05-22/00__dotey__deepseek-harness团队正在扩张-框架层正在成为ai-infra的新增长极.md"
 ---
 
 # DeepSeek Harness团队正在扩张：框架层正在成为AI Infra的新增长极

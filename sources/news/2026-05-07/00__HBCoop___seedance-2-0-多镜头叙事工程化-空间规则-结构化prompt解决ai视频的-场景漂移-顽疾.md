@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Seedance 2.0 多镜头叙事工程化：空间规则+结构化Prompt解决AI视频的「场景漂移」顽疾"
 description: "**AI视频从「单镜头惊艳」进化到「多镜头可控」，关键突破在工程化约束。**  - 用单一视觉生产图（visual production graph）作为多镜头叙事的锚点，而非每帧独立生成 - 结构化文本Prompt定义镜头序列、运镜轨迹、角色一致性，把创意意图翻译成生成指令 - 显式空间规则（门层级+运动方向）防止场景重置和连续性断裂——这是AI视频工业化的核心痛点  gakki锐评：Heath"
 resource: "https://x.com/HBCoop_/status/2052058355321967069"
@@ -22,6 +22,13 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "ai-video-story-coherence"
 x_source: "ai-trend-digest"
+type_okf: "X Tweet"
+source_url: "https://x.com/HBCoop_/status/2052058355321967069"
+created: "2026-05-06"
+updated: "2026-06-26"
+sha256: "8ae6278d12093a7728d8b7b2977b16c2aa9e9cdc83eec7073f7b4c409d868e6e"
+sources:
+  - "/sources/news/2026-05-07/00__HBCoop___seedance-2-0-多镜头叙事工程化-空间规则-结构化prompt解决ai视频的-场景漂移-顽疾.md"
 ---
 
 # Seedance 2.0 多镜头叙事工程化：空间规则+结构化Prompt解决AI视频的「场景漂移」顽疾

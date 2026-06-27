@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "毒舌版提示词揭示：Claude 已具备风格化的「人格一致性」"
 description: "**「毒舌但不恶毒」的边界能被精确提示词约束，说明风格不是语气，是可复制的决策集。**  核心信息增量：宝玉公开了一个完整的 Roast 版提示词，通过结构约束（统计区块→群友画像→正文分类→结尾）和风格红线（不碰健康/外貌/家庭/时区推断/医学诊断）实现了精准的风格控制。  关键洞察：这个提示词的核心约束不是「说什么」，而是「不说什么」——把红线列清楚比描述风格容易得多。这与 AI Safety"
 resource: "https://x.com/i/status/2055143967528726812"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2055143967528726812"
+created: "2026-05-15"
+updated: "2026-06-26"
+sha256: "4959bb1cab751ed5718153e57c00f09acfb65637b18f0e3f9702a7d33382846d"
+sources:
+  - "/sources/news/2026-05-15/00__dotey__毒舌版提示词揭示-claude-已具备风格化的-人格一致性.md"
 ---
 
 # 毒舌版提示词揭示：Claude 已具备风格化的「人格一致性」

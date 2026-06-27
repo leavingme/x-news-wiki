@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "「慢就是快」的本质是认知周期而非偷懒：Vibe Coding 早期用速度换判断力是真实路径"
 description: "「我要更快」与「慢就是快」的循环是开发者认知周期，不是性格问题。Vibe Coding 的早期阶段，速度幻觉（AI 快速出代码）恰恰是在积累判断力所需的样本——没有足够的「快」就没有参照系去识别「慢」的真正含义。  - Vibe Coding 的效率曲线是非线性的：前期用速度换经验值，后期用经验值换质量 - 真正的「慢就是快」出现在开发者能识别代码质量边界之后，而非新手期 - 节奏切换的触发器是对"
 resource: "https://x.com/i/status/2061685852275875972"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2061685852275875972"
+created: "2026-06-02"
+updated: "2026-06-26"
+sha256: "dc58b7343dfccb01da5dccb7bbf240be3cf7f743ab71dcdb8b41b826fdb18a7a"
+sources:
+  - "/sources/news/2026-06-02/00__oran_ge__慢就是快-的本质是认知周期而非偷懒-vibe-coding-早期用速度换判断力是真实路径.md"
 ---
 
 # 「慢就是快」的本质是认知周期而非偷懒：Vibe Coding 早期用速度换判断力是真实路径

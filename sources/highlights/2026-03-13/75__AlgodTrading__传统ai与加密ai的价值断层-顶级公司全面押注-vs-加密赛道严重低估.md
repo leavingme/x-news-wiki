@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "传统AI与加密AI的价值断层：顶级公司全面押注 vs 加密赛道严重低估"
 description: "**[全球顶级公司全面聚焦AI，但加密AI赛道在前50项目中仅占2席，形成显著的价值认知断层]**  • 传统科技巨头与加密市场之间存在明显的AI价值定价错位，加密AI被视为\"ridiculously undervalued\" • 这种断层可能预示着加密AI基础设施（如AI Agent的链上交互、经济自主权）存在爆发窗口 • 若AI Agent开始追求经济自主权（链上交易、收益管理），加密AI将成"
 resource: "https://x.com/i/status/2032431474687750265"
@@ -22,6 +22,13 @@ x_selected: 2
 x_priority: 75
 x_related_topic: "ai-crypto-agent-infra"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2032431474687750265"
+created: "2026-03-13"
+updated: "2026-06-26"
+sha256: "9ce9747356d2025f2197b97b5b992e9fcbebd072b804793a3e43365ad3534c7c"
+sources:
+  - "/sources/highlights/2026-03-13/75__AlgodTrading__传统ai与加密ai的价值断层-顶级公司全面押注-vs-加密赛道严重低估.md"
 ---
 
 # 传统AI与加密AI的价值断层：顶级公司全面押注 vs 加密赛道严重低估

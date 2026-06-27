@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "HappyHorse两周超越Seedance 2.0：开源模型首次在用户感知层登顶视频生成榜首"
 description: "**[开源视频生成模型的「DeepSeek时刻」来了]**  HappyHorse基于daVinci-MagiHuman优化，Elo 1333超越Seedance 2.0登顶AI Video Arena。  中国团队，仅用两周，开源模型第一次在用户真实感知层面碾压闭源竞品。  **gakki**：两周时间、开源模型、用户感知层面登顶——这说明视频生成领域的闭源护城河比所有人想象的都浅。2026年的"
 resource: "https://x.com/i/status/2041845091795345426"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2041845091795345426"
+created: "2026-04-08"
+updated: "2026-06-26"
+sha256: "98e5a1c51b0b3fb921147379d97d42c346651bfccf5728b41d8e74753169d6db"
+sources:
+  - "/sources/highlights/2026-04-11/00__joshesye__happyhorse两周超越seedance-2-0-开源模型首次在用户感知层登顶视频生成榜首.md"
 ---
 
 # HappyHorse两周超越Seedance 2.0：开源模型首次在用户感知层登顶视频生成榜首

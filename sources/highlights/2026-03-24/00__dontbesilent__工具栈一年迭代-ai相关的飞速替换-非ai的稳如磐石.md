@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "工具栈一年迭代：AI相关的飞速替换，非AI的稳如磐石"
 description: "**【AI工具 Adoption Curve 的残酷现实：90%的尝鲜者活不过12个月】**  • 核心工具变迁：Perplexity → Claude Code /search Skill（Perplexity MCP + Tavily MCP）；Monica/Coze 已弃用 • 非AI工具粘性极强：Arc浏览器、剪映、DJI Mic、iPhone——功能稳定，体验不可逆 • 关键洞察：AI工"
 resource: "https://x.com/i/status/2036094544983499228"
@@ -22,6 +22,13 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "agent-economic-autonomy"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2036094544983499228"
+created: "2026-03-23"
+updated: "2026-06-26"
+sha256: "16a70de2643324ec48cd15b7581ccdad2b3767912378503ff36c559ef10c64f7"
+sources:
+  - "/sources/highlights/2026-03-24/00__dontbesilent__工具栈一年迭代-ai相关的飞速替换-非ai的稳如磐石.md"
 ---
 
 # 工具栈一年迭代：AI相关的飞速替换，非AI的稳如磐石

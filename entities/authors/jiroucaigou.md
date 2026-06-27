@@ -1,5 +1,5 @@
 ---
-type: "Author"
+type: "entity"
 title: "努力赚钱的菜狗 (@jiroucaigou)"
 description: "X/Twitter 作者 @jiroucaigou。共收录 1 条 AI 精选推文。"
 tags:
@@ -12,6 +12,12 @@ x_author_name: "努力赚钱的菜狗"
 x_tweet_count: 1
 x_first_seen: "2026-03-24T00:42:54.078Z"
 x_last_seen: "2026-03-24T00:42:54.078Z"
+type_okf: "Author"
+created: "2026-03-24"
+updated: "2026-06-26"
+sha256: "7cd60357e40030f16efa5197a3c404c6c738638afa1614c838f9eb85713e3dc7"
+sources:
+  - "/sources/news/2026-03-24/00__jiroucaigou__superpowers-106k-star-多-agent-并行的工程化纪律正在成型.md"
 ---
 
 # 努力赚钱的菜狗 (@jiroucaigou)

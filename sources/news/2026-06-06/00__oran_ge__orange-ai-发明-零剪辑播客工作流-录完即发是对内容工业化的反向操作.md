@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Orange AI 发明\"零剪辑播客工作流\"：录完即发是对内容工业化的反向操作"
 description: "**\"录完就发，一秒不剪\"是一种反 AI 时代过度制作的内容生产宣言。**  要点： - Orange AI 和歸藏的播客拒绝后期剪辑、拒绝脚本打磨，直接发布原声对话 - 明确表态\"不聊 AI\"——因为 AI 话题迭代太快、容易过时，转而聊审美/创作/恋爱等\"永恒不变\"的主题 - 工作流核心：用最快速度把对话转化为可消费内容，对抗内容工厂的同质化生产   gakki 锐评：当所有人都在用 AI 把"
 resource: "https://x.com/i/status/2063029261901144557"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2063029261901144557"
+created: "2026-06-05"
+updated: "2026-06-26"
+sha256: "087ba6828cc4bce3458b2e044a919e680ffcdeb45c5ad0135cfdea0d1bbc039f"
+sources:
+  - "/sources/news/2026-06-06/00__oran_ge__orange-ai-发明-零剪辑播客工作流-录完即发是对内容工业化的反向操作.md"
 ---
 
 # Orange AI 发明"零剪辑播客工作流"：录完即发是对内容工业化的反向操作

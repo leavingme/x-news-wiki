@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Figma 推出 Chrome 插件：任意网页元素「框选即图层」，仿站与素材采集降维打击"
 description: "**Figma 用浏览器插件把「截图→可编辑图层」压缩成一步操作，独立设计师和小团队受益最大**  - 安装插件后点 icon，框选任意网页元素即可变成可编辑 Figma 图层 - 支持粘贴到 Figma 继续编辑，仿站从「截图+临摹」变成「框选+微调」 - 同步充当精准元素截图工具，设计师素材采集链路被进一步压缩  Gakki 锐评：Figma 终于把浏览器变成自己的延伸，这比 Claude D"
 resource: "https://x.com/i/status/2066917959151620289"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2066917959151620289"
+created: "2026-06-16"
+updated: "2026-06-26"
+sha256: "4b182320efd85503e05d6e24a862c7324c77cb072bc329128e9910bce005dbed"
+sources:
+  - "/sources/news/2026-06-16/00__vista8__figma-推出-chrome-插件-任意网页元素-框选即图层-仿站与素材采集降维打击.md"
 ---
 
 # Figma 推出 Chrome 插件：任意网页元素「框选即图层」，仿站与素材采集降维打击

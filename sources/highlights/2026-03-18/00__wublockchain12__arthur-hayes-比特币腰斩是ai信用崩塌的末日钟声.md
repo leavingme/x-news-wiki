@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Arthur Hayes：比特币腰斩是AI信用崩塌的末日钟声"
 description: "**【AI颠覆的第一张多米诺骨牌已经倒下】**  • Hayes提出AI替代SaaS和高薪岗位将引发失业潮→债务违约→银行危机的连锁反应 • 比特币与软件股(IGV)联动下跌，而非跟随AI硬件巨头，暗示市场对\"纯软件\"商业模式的系统性担忧 • 这一判断与\"丰饶GDP假说\"形成呼应：AI带来的效率革命可能以传统金融体系的信用收缩为代价  Hayes的框架揭示了一个被忽视的真相：AI不仅是技术革命，更"
 resource: "https://x.com/i/status/2032039273478963511"
@@ -22,6 +22,13 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "abundant-gdp-hypothesis"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2032039273478963511"
+created: "2026-03-12"
+updated: "2026-06-26"
+sha256: "afe32b0904914a9774d4e94e6774c409f185f3e42a088c154e58f6eabde23b41"
+sources:
+  - "/sources/highlights/2026-03-18/00__wublockchain12__arthur-hayes-比特币腰斩是ai信用崩塌的末日钟声.md"
 ---
 
 # Arthur Hayes：比特币腰斩是AI信用崩塌的末日钟声

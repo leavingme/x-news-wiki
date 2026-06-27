@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "OpenAI 智能手机细节曝光：MediaTek 定制芯片 + 双 NPU 架构，2027年量产目标3000万台"
 description: "**OpenAI 正式进军硬件，从 AI 模型公司向终端设备平台演进。**  - 芯片方案锁定 MediaTek Dimensity 9600 定制版，采用台积电 N2P 先进制程，双 NPU 配置专为 AI 推理优化 - 影像系统（ISP）升级为重点方向，结合视觉 AI 能力，暗示 OpenAI 的多模态战略向端侧延伸 - 安全架构引入 pKVM + inline hashing，为 Agent"
 resource: "https://x.com/ShishirShelke1/status/2051531431793574310"
@@ -22,6 +22,13 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "openai-product-strategy-shift"
 x_source: "ai-trend-digest"
+type_okf: "X Tweet"
+source_url: "https://x.com/ShishirShelke1/status/2051531431793574310"
+created: "2026-05-05"
+updated: "2026-06-26"
+sha256: "760f8536da692962e54ff86561779186620f84c7922a5bca2c46c1a6d922822d"
+sources:
+  - "/sources/highlights/2026-05-05/00__ShishirShelke1__openai-智能手机细节曝光-mediatek-定制芯片-双-npu-架构-2027年量产目标3000万台.md"
 ---
 
 # OpenAI 智能手机细节曝光：MediaTek 定制芯片 + 双 NPU 架构，2027年量产目标3000万台

@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "央企AI一号位的日常：靠公众号做技术决策"
 description: "**【主流化顶点的标志信号——非技术力量开始主导AI叙事】**  在遥遥领先从事AI的朋友透露：领导经常转发民科公众号文章问「能实现吗」；某央企AI负责人每日信息源就是公众号。这在业内已成笑谈，但何小鹏抄马斯克错题本的做法反而被重新评估——至少方向是对的。  • **信号解读**：AI的主流化已经到达「外行指挥内行」的阶段。这是每一波技术革命周期中后期的典型症状。 • **隐含风险**：技术判断力"
 resource: "https://x.com/i/status/2035848393004916851"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2035848393004916851"
+created: "2026-03-22"
+updated: "2026-06-26"
+sha256: "d1ef551eab35a8df8cf12a58602fe9f0986edcde90fff7e9f52369db3d48a177"
+sources:
+  - "/sources/news/2026-03-30/00__Tsla99T__央企ai一号位的日常-靠公众号做技术决策.md"
 ---
 
 # 央企AI一号位的日常：靠公众号做技术决策

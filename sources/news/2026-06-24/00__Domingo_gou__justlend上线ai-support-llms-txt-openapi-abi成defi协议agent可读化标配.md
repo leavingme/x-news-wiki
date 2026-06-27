@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "JustLend上线AI Support：llms.txt+OpenAPI+ABI成DeFi协议Agent可读化标配"
 description: "**TRON生态JustLend推出AI Support，把DeFi协议从「给人看」改造为「让Agent准确读取」，llms.txt、OpenAPI规范、合约地址和ABI一应俱全。** - 协议为Agent提供结构化说明：实时APY、兑换比例、利率模型等关键数据可直接调用，杜绝「拿昨天的答案做今天的交易」 - OpenAPI负责公开只读查询（市场列表、供应借款利率、资金利用率等），sTRX 7日A"
 resource: "https://x.com/i/status/2068532690467623105"
@@ -22,6 +22,13 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "ai-crypto-agent-infra"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2068532690467623105"
+created: "2026-06-21"
+updated: "2026-06-26"
+sha256: "577f3c99144b788a6e619ba6845d2331d868a2e49f6965cb229a0a0adbb0deca"
+sources:
+  - "/sources/news/2026-06-24/00__Domingo_gou__justlend上线ai-support-llms-txt-openapi-abi成defi协议agent可读化标配.md"
 ---
 
 # JustLend上线AI Support：llms.txt+OpenAPI+ABI成DeFi协议Agent可读化标配

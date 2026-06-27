@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "黄仁勋：中国算力过剩而非短缺，芯片管制是「算力地理错配」而非供应问题"
 description: "**[中国AI算力的真实状态：过剩，不是匮乏]**   Jensen Huang 在 Dwarkesh Patel 播客中给出了与主流叙事完全相反的判断：中国不是缺芯片，而是芯片过剩、产能过剩、已建数据中心空着但电力充足。他把「中国无法拥有AI芯片」定性为「无稽之谈」，认为AI本质是并行计算问题，通过堆叠更多落后制程芯片完全可弥补单芯片性能差距。  - **反常识核心**：出口管制没拦住中国算力，"
 resource: "https://x.com/i/status/2044624894739235159"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2044624894739235159"
+created: "2026-04-16"
+updated: "2026-06-26"
+sha256: "da3563686cc7b780e66eed66fadf82029054688ea3ff0c171a3a61c6d26abd54"
+sources:
+  - "/sources/news/2026-04-16/00__KELMAND1__黄仁勋-中国算力过剩而非短缺-芯片管制是-算力地理错配-而非供应问题.md"
 ---
 
 # 黄仁勋：中国算力过剩而非短缺，芯片管制是「算力地理错配」而非供应问题

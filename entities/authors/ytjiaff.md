@@ -1,5 +1,5 @@
 ---
-type: "Author"
+type: "entity"
 title: "YT Jia 贾跃亭 (@YTJiaFF)"
 description: "X/Twitter 作者 @YTJiaFF。共收录 1 条 AI 精选推文。"
 tags:
@@ -12,6 +12,12 @@ x_author_name: "YT Jia 贾跃亭"
 x_tweet_count: 1
 x_first_seen: "2026-04-12T12:45:19.364Z"
 x_last_seen: "2026-04-12T12:45:19.364Z"
+type_okf: "Author"
+created: "2026-04-12"
+updated: "2026-06-26"
+sha256: "cdff2611dd8aa6b49a12d4cc01a61eb82c026209c6424717bdb7d4d80ae3c0d5"
+sources:
+  - "/sources/news/2026-04-12/00__YTJiaFF__a16z投的-ai义务警察-正在制造一个无解的社会悖论.md"
 ---
 
 # YT Jia 贾跃亭 (@YTJiaFF)

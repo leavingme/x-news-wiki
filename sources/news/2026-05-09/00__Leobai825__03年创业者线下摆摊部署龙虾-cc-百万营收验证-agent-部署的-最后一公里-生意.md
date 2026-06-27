@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "03年创业者线下摆摊部署龙虾+CC，百万营收验证 Agent 部署的「最后一公里」生意"
 description: "**Agent 工具的普及瓶颈不在技术，在于有人帮你装上并教会你用。**  - 天策团队线下摆摊免费部署 OpenClaw 和 Claude Code，通过 API Key 分销实现百万营收——这是 Agent 生态的地推模式 - 三万人装机规模意味着 Agent 部署服务已出现真实规模化需求，而非纯社区自嗨 - 全流程公开、鼓励复制的策略本身就是一个信号：Agent 部署正在从\"技术活\"变成\"服"
 resource: "https://x.com/i/status/2053122002836156647"
@@ -22,6 +22,13 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "agent-deployment-service"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2053122002836156647"
+created: "2026-05-09"
+updated: "2026-06-26"
+sha256: "938ddd85866aaa8f4e8b9eda8938fec17438aaa647b220792dd85ae35a783c45"
+sources:
+  - "/sources/news/2026-05-09/00__Leobai825__03年创业者线下摆摊部署龙虾-cc-百万营收验证-agent-部署的-最后一公里-生意.md"
 ---
 
 # 03年创业者线下摆摊部署龙虾+CC，百万营收验证 Agent 部署的「最后一公里」生意

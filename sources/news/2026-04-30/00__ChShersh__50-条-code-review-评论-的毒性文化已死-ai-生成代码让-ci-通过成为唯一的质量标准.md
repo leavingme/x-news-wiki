@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "「50 条 Code Review 评论」的毒性文化已死：AI 生成代码让 CI 通过成为唯一的质量标准"
 description: "**资深开发者怀念收到 50+ 条 code review 评论的年代，现在大家推 AI 生成的代码只要 CI 绿了就不管了。**  - 这不是怀旧情绪——而是 AI Coding 工具在工程纪律层面的真实副作用：review 文化被「CI 通过即可」的最低标准替代 - Vibe Coding 的隐性成本不仅是代码质量，还有团队知识传递和工程传承的断裂  gakki：代码 review 从来不是为"
 resource: "https://x.com/ChShersh/status/2049833776012775558"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "ai-trend-digest"
+type_okf: "X Tweet"
+source_url: "https://x.com/ChShersh/status/2049833776012775558"
+created: "2026-04-30"
+updated: "2026-06-26"
+sha256: "f41b4cd6bf00c343d03de31aa14cddc612d820e338fd97ea0dac71a99e8b39c6"
+sources:
+  - "/sources/news/2026-04-30/00__ChShersh__50-条-code-review-评论-的毒性文化已死-ai-生成代码让-ci-通过成为唯一的质量标准.md"
 ---
 
 # 「50 条 Code Review 评论」的毒性文化已死：AI 生成代码让 CI 通过成为唯一的质量标准

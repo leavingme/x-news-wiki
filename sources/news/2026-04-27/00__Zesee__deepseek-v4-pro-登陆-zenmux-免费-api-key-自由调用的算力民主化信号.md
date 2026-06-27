@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "DeepSeek V4 Pro 登陆 ZenMux：免费 + API Key 自由调用的算力民主化信号"
 description: "**一句话核心判断**：ZenMux 平台免费开放 DeepSeek V4 Pro 及 Flash 版，网页直达、支持 API Key 本地调用，代码/Agent/长文档能力获推荐，14.4 美元/年定价极具侵略性。  **信息增量**： - 速度、代码、Agent 能力均获正面验证，而非单纯营销宣称 - API Key 本地调用意味着用户数据不经过平台中转——隐私合规属性叠加 - 14.4 美元"
 resource: "https://x.com/i/status/2048655279093342696"
@@ -22,6 +22,13 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "deepseek-v4-open-source"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2048655279093342696"
+created: "2026-04-27"
+updated: "2026-06-26"
+sha256: "df327f41382b0b0961d05d69df4b39512d63f9e60abcf63c08d40cc7c1273b68"
+sources:
+  - "/sources/news/2026-04-27/00__Zesee__deepseek-v4-pro-登陆-zenmux-免费-api-key-自由调用的算力民主化信号.md"
 ---
 
 # DeepSeek V4 Pro 登陆 ZenMux：免费 + API Key 自由调用的算力民主化信号

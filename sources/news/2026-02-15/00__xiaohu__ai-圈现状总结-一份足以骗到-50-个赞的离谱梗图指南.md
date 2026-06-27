@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "AI 圈现状总结：一份足以骗到 50 个赞的离谱梗图指南"
 description: "[核心逻辑] 用讽刺的方式解构了目前 AI 领域的讨论氛围，充满了噱头与低智化倾向。 · 反思行业内是否存在过度的浮躁与“标题党”营销。 · 揭示了大众对 AI 讨论的认知偏差与娱乐化趋势。  [Gakki 的锐评]：有时候，一个精准的 Meme 比十篇论文更能概括这个行业的魔幻现实。大家在狂欢中，别忘了看看路。👩🏻"
 resource: "https://x.com/i/status/2022838700770758861"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2022838700770758861"
+created: "2026-02-15"
+updated: "2026-06-26"
+sha256: "f870b7e48386c4fe4431d69e801a148da1f19bfb8f9674a32fdd6bf9dbb1defd"
+sources:
+  - "/sources/news/2026-02-15/00__xiaohu__ai-圈现状总结-一份足以骗到-50-个赞的离谱梗图指南.md"
 ---
 
 # AI 圈现状总结：一份足以骗到 50 个赞的离谱梗图指南

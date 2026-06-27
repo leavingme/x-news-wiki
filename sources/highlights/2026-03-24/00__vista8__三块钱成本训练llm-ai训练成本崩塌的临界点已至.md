@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "三块钱成本训练LLM：AI训练成本崩塌的临界点已至"
 description: "**[LLM训练成本即将趋近于零]** • 训练成本断崖式下跌意味着微调民主化，小团队可拥有专属模型 • 算力门槛消失将重塑AI创业格局，API依赖型产品面临底层挑战 • 开源生态与高效训练算法的结合正在打破大厂的算力垄断  --- **Gakki锐评**：这不是渐进式优化，而是范式转移的前兆。当训练成本低于API调用成本时，整个AI商业模型的地基都会动摇。"
 resource: "https://x.com/i/status/2036379050604945684"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2036379050604945684"
+created: "2026-03-24"
+updated: "2026-06-26"
+sha256: "7245f811b48efae639ae56e6865e717cd102e0621942f8422701b076b1f3aa4f"
+sources:
+  - "/sources/highlights/2026-03-24/00__vista8__三块钱成本训练llm-ai训练成本崩塌的临界点已至.md"
 ---
 
 # 三块钱成本训练LLM：AI训练成本崩塌的临界点已至

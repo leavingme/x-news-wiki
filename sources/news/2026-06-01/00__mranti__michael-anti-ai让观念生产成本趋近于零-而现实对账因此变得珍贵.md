@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Michael Anti：AI让观念生产成本趋近于零，而现实对账因此变得珍贵"
 description: "**【一句话核心判断】**  Michael Anti提出了一个关于AI时代信息生态的核心矛盾——当观念生产变得极廉价，观念与现实的对齐反而成了稀缺品。  **关键要点：** - AI使得观念的生产和传播成本近乎为零 - 这使得与现实对齐的观念变得更加珍贵，而不是更廉价 - 在信息过载时代，事实核查和实地验证将成为新的价值高地  **gakki锐评：** 这个逻辑的本质是：AI降低了信息生产成本，"
 resource: "https://x.com/i/status/2061304086071554161"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2061304086071554161"
+created: "2026-06-01"
+updated: "2026-06-26"
+sha256: "27ef44336cc12509a4ff15e371f15e2ab5a6030709eae0ad3b9e15e21d07143a"
+sources:
+  - "/sources/news/2026-06-01/00__mranti__michael-anti-ai让观念生产成本趋近于零-而现实对账因此变得珍贵.md"
 ---
 
 # Michael Anti：AI让观念生产成本趋近于零，而现实对账因此变得珍贵

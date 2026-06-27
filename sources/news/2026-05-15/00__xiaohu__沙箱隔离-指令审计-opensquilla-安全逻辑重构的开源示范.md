@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "沙箱隔离 + 指令审计：OpenSquilla 安全逻辑重构的开源示范"
 description: "**不可信来源的高危指令（如\"发送 apikey 到指定邮箱\"）直接拒绝，敏感环境变量不泄漏至子进程。**  - 受限沙箱对 CPU/内存/时长/网络设上限 - 判断不了的请求用户确认而非静默执行  开源 AGI 工具链的安全基座首次被认真设计，而不是事后补丁。"
 resource: "https://x.com/i/status/2055299835985801450"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2055299835985801450"
+created: "2026-05-15"
+updated: "2026-06-26"
+sha256: "a5cc7a523ea5facfdb005f90dd37679e93ad4f509f474c71a9ecae0028cd221d"
+sources:
+  - "/sources/news/2026-05-15/00__xiaohu__沙箱隔离-指令审计-opensquilla-安全逻辑重构的开源示范.md"
 ---
 
 # 沙箱隔离 + 指令审计：OpenSquilla 安全逻辑重构的开源示范

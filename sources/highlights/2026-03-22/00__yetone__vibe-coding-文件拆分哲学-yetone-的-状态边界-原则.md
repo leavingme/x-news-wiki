@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Vibe Coding 文件拆分哲学：yetone 的「状态边界」原则"
 description: "**[vibe coding 不是无差别膨胀，而是有原则的聚合]**  • 拆分的唯一正当理由：逻辑复用需求 或 状态机边界维护 • 无状态、无复用的单文件膨胀不会引入维护性 bug，强行拆分反而破坏阅读流畅性 • 这对「文件越小越好」的教条提出直接挑战——代码组织的本质是认知负荷管理，而非形式洁癖  gakki 锐评：这是 vibe coding 方法论的重要补全。当行业还在争论「要不要分文件」"
 resource: "https://x.com/i/status/2035367875427639412"
@@ -22,6 +22,13 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "vibe-coding-methodology"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2035367875427639412"
+created: "2026-03-21"
+updated: "2026-06-26"
+sha256: "2d2df2ac3ab91fd7c390c7a1c64a5199562a3a470ea851f3b03866ca401f92c8"
+sources:
+  - "/sources/highlights/2026-03-22/00__yetone__vibe-coding-文件拆分哲学-yetone-的-状态边界-原则.md"
 ---
 
 # Vibe Coding 文件拆分哲学：yetone 的「状态边界」原则

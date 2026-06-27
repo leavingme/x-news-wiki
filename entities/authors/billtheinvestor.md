@@ -1,5 +1,5 @@
 ---
-type: "Author"
+type: "entity"
 title: "Bill The Investor (@billtheinvestor)"
 description: "X/Twitter 作者 @billtheinvestor。共收录 16 条 AI 精选推文。"
 tags:
@@ -12,6 +12,27 @@ x_author_name: "Bill The Investor"
 x_tweet_count: 16
 x_first_seen: "2026-01-31T13:51:06.685Z"
 x_last_seen: "2026-05-04T01:18:32.998Z"
+type_okf: "Author"
+created: "2026-01-31"
+updated: "2026-06-26"
+sha256: "6b19fa6054e8c162993dbdbed2b56bef79181401455c7d4f561852592d52e364"
+sources:
+  - "/sources/highlights/2026-02-17/00__billtheinvestor__openclaw-框架多语言实测对比-语言是壳-数据与产品闭环是核.md"
+  - "/sources/highlights/2026-03-29/00__billtheinvestor__deerflow-开源-无人值守-agent-正在重新定义-全职工作.md"
+  - "/sources/highlights/2026-04-04/00__billtheinvestor__claude-code泄露源码被社区重写-rust-cli-python扩展-完整mcp工具链的开源平权.md"
+  - "/sources/highlights/2026-04-07/00__billtheinvestor__yc史上最快独角兽-starcloud太空建数据中心-用轨道解决ai算力能耗问题.md"
+  - "/sources/highlights/2026-05-04/00__billtheinvestor__anthropic-官方下场教-零员工公司-ceo-是人-员工全是-claude-code.md"
+  - "/sources/news/2026-01-31/00__billtheinvestor__moltbook-观察-硅基文明社交行为的早期雏形.md"
+  - "/sources/news/2026-02-16/00__billtheinvestor__2026-ai-工具行业地图-17-个细分赛道的最强阵容共识.md"
+  - "/sources/news/2026-03-12/80__billtheinvestor__rtx-3060跑qwen-3-5-9b-开源agent的-1块钱gpu-效率革命.md"
+  - "/sources/news/2026-03-29/00__billtheinvestor__3d粒子物理民主化-一句prompt生成2万颗粒子模拟-react-three-js代码即时导出.md"
+  - "/sources/news/2026-04-02/00__billtheinvestor__claude-code-源码泄露催生-claw-code-rust-重写一天斩获-139k-星.md"
+  - "/sources/news/2026-04-02/00__billtheinvestor__微软重新上线-vibevoice-10-秒克隆声音再次免费开放-语音身份验证面临存亡危机.md"
+  - "/sources/news/2026-04-05/00__billtheinvestor__gemma-4-三年前iphone上实时ocr翻译-端侧多模态推理进入-可用-阶段.md"
+  - "/sources/news/2026-04-05/00__billtheinvestor__gemma-4-本地跑通视觉-agent-三模型协同在-macbook-实现-战斗机群式-目标管控.md"
+  - "/sources/news/2026-04-06/00__billtheinvestor__gitnexus-代码知识图谱让-ai-在修改代码前-预知后果.md"
+  - "/sources/news/2026-04-06/00__billtheinvestor__阿里-page-agent-js-撕开浏览器自动化的-低代码假象-纯文本-dom-llm-原生嵌入才是终态.md"
+  - "/sources/news/2026-04-07/00__billtheinvestor__hermes-agent-接入-llm-wiki-agent-正在用-obsidian-构建-第二大脑-知识管理进入-a.md"
 ---
 
 # Bill The Investor (@billtheinvestor)

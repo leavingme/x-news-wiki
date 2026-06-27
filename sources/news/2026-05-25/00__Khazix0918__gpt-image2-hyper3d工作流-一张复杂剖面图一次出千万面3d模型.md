@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "GPT-image2+hyper3D工作流：一张复杂剖面图一次出千万面3D模型"
 description: "**[结构图生3D的极限已被商业模型突破]**  hyper3D 发布 Gen-2.5，号称全球首个千万级面数3D生成模型。配合 GPT-image2 出复杂结构图再丢进 hyper3D，Extreme-High 档位做雕塑级细节还原，线粒体、细胞核等微观结构与原图高度一致。有嘴就行的门槛意味着3D内容生产正在从专业工具向消费级工作流迁移。  下一步观察：开源社区是否会跟进复现这个面数级别，以及是"
 resource: "https://x.com/i/status/2058725487812514036"
@@ -22,6 +22,13 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "ai-3d-content-democratization"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2058725487812514036"
+created: "2026-05-25"
+updated: "2026-06-26"
+sha256: "a2b2b564f7c65e8565c5a45807b345f997ae24320479a644e29ae40bf293c6eb"
+sources:
+  - "/sources/news/2026-05-25/00__Khazix0918__gpt-image2-hyper3d工作流-一张复杂剖面图一次出千万面3d模型.md"
 ---
 
 # GPT-image2+hyper3D工作流：一张复杂剖面图一次出千万面3D模型

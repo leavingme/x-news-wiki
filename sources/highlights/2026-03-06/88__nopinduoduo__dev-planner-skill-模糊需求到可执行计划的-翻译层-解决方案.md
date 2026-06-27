@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Dev-planner-skill：模糊需求到可执行计划的「翻译层」解决方案"
 description: "**Prompt 工程的核心瓶颈被重新定义。**  • 通过结构化选择题对话，将用户模糊想法转化为 AI 可清晰执行的开发计划 • 把成熟工程师的 SOP 经验封装为 Skill，实现「不懂技术也能驱动 AI 产出」 • 解决 Vibe Coding 时代最大的摩擦点：人类意图与机器理解的语义鸿沟  ---  **gakki 锐评：** 真正卡住 AI 编程普及的不是模型能力，而是需求描述能力。这"
 resource: "https://x.com/i/status/2029590218404446272"
@@ -22,6 +22,13 @@ x_selected: 2
 x_priority: 88
 x_related_topic: "claude-code-ecosystem"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2029590218404446272"
+created: "2026-03-05"
+updated: "2026-06-26"
+sha256: "f8c8fd05d3931765521d19269f00fe58c05f5e8fb0d0359b4cdcd648b26eb129"
+sources:
+  - "/sources/highlights/2026-03-06/88__nopinduoduo__dev-planner-skill-模糊需求到可执行计划的-翻译层-解决方案.md"
 ---
 
 # Dev-planner-skill：模糊需求到可执行计划的「翻译层」解决方案

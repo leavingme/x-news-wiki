@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Fable 5 复活路径疑云：iOS 美区订阅成为新通道？"
 description: "**Fable 5 的区域可用性争议仍在发酵，用户开始用跨区订阅绕路。**  要点： - 多个用户声称在 iOS 美区订阅下重新获得 Fable 5 访问权限 - 具体技术路径与官方策略是否调整未确认 - 叠加住宅 IP、跨区 VPS 等灰市基建讨论，区域授权摩擦已成 AI 工具分发链路的结构性问题  ---  gakki 锐评：单点用户报告不构成事实，但这是订阅墙 + 区域定价 + 模型路由三者"
 resource: "https://x.com/i/status/2066197628862566511"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2066197628862566511"
+created: "2026-06-14"
+updated: "2026-06-26"
+sha256: "a5582d4059df4cc37d452a6cef29346d18d67dd1c571db1fbd81c3c214da34b0"
+sources:
+  - "/sources/news/2026-06-14/00__bourneliu66__fable-5-复活路径疑云-ios-美区订阅成为新通道.md"
 ---
 
 # Fable 5 复活路径疑云：iOS 美区订阅成为新通道？

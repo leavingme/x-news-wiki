@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Codex开始操控自己的界面：工具使用者的自我指涉"
 description: "**【一句话核心判断】** Codex新增通过对话指令创建会话、搜索、整理归档、置顶及拉起独立worktree的功能，意味着AI编程工具第一次具备了操作自身界面的能力——工具开始操作自己。  **要点：** - 支持指令：创建会话、搜索会话、整理归档、置顶重要会话、并行任务拉起独立worktree - 全部通过自然语言对话完成，无需手动操作 - 意味着Agent开始具备\"元操作\"能力——不仅完成任"
 resource: "https://x.com/i/status/2060545640552104112"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2060545640552104112"
+created: "2026-05-30"
+updated: "2026-06-26"
+sha256: "f10b5ecb6970c591b80eaff68485c05274053c939e77e15ea74bd59bab231ab1"
+sources:
+  - "/sources/news/2026-05-30/00__dotey__codex开始操控自己的界面-工具使用者的自我指涉.md"
 ---
 
 # Codex开始操控自己的界面：工具使用者的自我指涉

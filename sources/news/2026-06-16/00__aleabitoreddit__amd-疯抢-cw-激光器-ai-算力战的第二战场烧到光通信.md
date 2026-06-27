@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "AMD 疯抢 CW 激光器：AI 算力战的第二战场烧到光通信"
 description: "**CW 激光器成为 AI 算力链的隐形胜负手，AMD 提前卡位 NVIDIA 供应链。**  - Trendforce 消息：AMD 正紧急谈判 CW 激光器大单，确保产能不被 NVIDIA 锁死。 - Lumentum / Coherent 这两家核心供应商已被 2028 年订单占满，AI 光通信需求远超传统电信周期。 - 受益方集中在 SIVE（GFS 间接受益）和 AAOI（Rosenbl"
 resource: "https://x.com/aleabitoreddit/status/2066707573139763211"
@@ -22,6 +22,13 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "nvidia-compute-moat"
 x_source: "ai-trend-digest"
+type_okf: "X Tweet"
+source_url: "https://x.com/aleabitoreddit/status/2066707573139763211"
+created: "2026-06-16"
+updated: "2026-06-26"
+sha256: "fc04dc00a47662995fa351ba2f7360ef3faa42768ccc32027a3cbb51ef9f15cc"
+sources:
+  - "/sources/news/2026-06-16/00__aleabitoreddit__amd-疯抢-cw-激光器-ai-算力战的第二战场烧到光通信.md"
 ---
 
 # AMD 疯抢 CW 激光器：AI 算力战的第二战场烧到光通信

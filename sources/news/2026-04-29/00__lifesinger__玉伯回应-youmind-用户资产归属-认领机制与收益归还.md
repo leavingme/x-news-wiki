@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "玉伯回应 YouMind 用户资产归属：认领机制与收益归还"
 description: "**AI 知识工具开始处理用户数据主权问题。**  - 玉伯公开承诺 YouMind 用户可通过证明身份找回属于自己的内容与收益 - 这是 AI 知识管理产品中少见的「数据主权归还」表态  gakki 锐评：多数 AI 工具对用户资产归属含糊其辞，YouMind 主动表态是个好信号，但「只要能证明」的门槛细节才是关键。"
 resource: "https://x.com/i/status/2049411009367191876"
@@ -22,6 +22,13 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "ai-knowledge-tool-competition"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2049411009367191876"
+created: "2026-04-29"
+updated: "2026-06-26"
+sha256: "48ee98a6a6ff594d253b318b4259323b4c694e6f512f754c9c755b9699d68d36"
+sources:
+  - "/sources/news/2026-04-29/00__lifesinger__玉伯回应-youmind-用户资产归属-认领机制与收益归还.md"
 ---
 
 # 玉伯回应 YouMind 用户资产归属：认领机制与收益归还

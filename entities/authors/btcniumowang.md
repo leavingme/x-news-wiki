@@ -1,5 +1,5 @@
 ---
-type: "Author"
+type: "entity"
 title: "牛魔王🔶OP_CAT (@Btcniumowang)"
 description: "X/Twitter 作者 @Btcniumowang。共收录 1 条 AI 精选推文。"
 tags:
@@ -12,6 +12,12 @@ x_author_name: "牛魔王🔶OP_CAT"
 x_tweet_count: 1
 x_first_seen: "2026-04-16T00:43:36.717Z"
 x_last_seen: "2026-04-16T00:43:36.717Z"
+type_okf: "Author"
+created: "2026-04-16"
+updated: "2026-06-26"
+sha256: "a4730a68dfe622b5d141b257a7f73bf97e9ff1a153aa2689427cc3cd59f0dbab"
+sources:
+  - "/sources/news/2026-04-16/00__Btcniumowang__ai主导的市场将终结-盯价格-链上金融正在从交易市场演化为利率市场.md"
 ---
 
 # 牛魔王🔶OP_CAT (@Btcniumowang)

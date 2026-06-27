@@ -1,5 +1,5 @@
 ---
-type: "Concept"
+type: "concept"
 title: "skills-vs-vibe-coding"
 description: "跨日主题 \"skills-vs-vibe-coding\"，共 1 条相关精选推文。"
 tags:
@@ -11,6 +11,12 @@ x_topic_slug: "skills-vs-vibe-coding"
 x_tweet_count: 1
 x_first_seen: "2026-03-04T01:02:26.409Z"
 x_last_seen: "2026-03-04T01:02:26.409Z"
+type_okf: "Concept"
+created: "2026-03-04"
+updated: "2026-06-26"
+sha256: "6f9de1b148094ecbd61af07baa8225af7cdec37bde4fc3e1717602f11bcf916b"
+sources:
+  - "/sources/highlights/2026-03-04/00__0xNing0x__naval-的-反共识-ai-agent-不会替代程序员-vibecoding-仍是半成品.md"
 ---
 
 # 主题: skills-vs-vibe-coding

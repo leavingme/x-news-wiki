@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "向阳乔木开源乔木Tab：一键链接打通10+平台的内容Harvest工具"
 description: "**[Chrome插件实现多平台内容一键Harvest]  - 乔木Tab Chrome插件开源，支持多平台内容聚合抓取 - 定位为知识工作流工具，而非单纯的RSS阅读器替代品 - 开源地址已公开，后续有计划上架Chrome商店  gakki：Get笔记抓取成功率100%在前，这条链路打通10+平台的内容Harvest工具紧随其后。内容采集工具正在从「能抓到」进化到「抓得干净」，但工具本身的易用性"
 resource: "https://x.com/i/status/2059504498440380790"
@@ -22,6 +22,13 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "agent-data-intelligence-infra"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2059504498440380790"
+created: "2026-05-27"
+updated: "2026-06-26"
+sha256: "c617ea0d1db2d0f17146dad885f5ca193630868fc42aa699ede59c4dde94785c"
+sources:
+  - "/sources/news/2026-05-27/00__vista8__向阳乔木开源乔木tab-一键链接打通10-平台的内容harvest工具.md"
 ---
 
 # 向阳乔木开源乔木Tab：一键链接打通10+平台的内容Harvest工具

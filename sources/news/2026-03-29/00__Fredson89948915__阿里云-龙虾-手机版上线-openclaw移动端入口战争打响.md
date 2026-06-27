@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "阿里云「龙虾」手机版上线：OpenClaw移动端入口战争打响"
 description: "**【一句话核心判断】** 阿里以「龙虾」命名跟进OpenClaw手机版，标志着Agent入口争夺从桌面端正式蔓延至移动原生场景。  • **产品定位**：JVSClaw瞄准「手机端养虾」体验，补齐OpenClaw生态在移动端碎片化场景的覆盖短板，与「小龙虾」等竞品形成正面交锋。 • **用户迁移**：中国移动用户规模优势将加速Agent从「开发者玩具」向「大众工具」的跃迁，可能催生不同于欧美「桌"
 resource: "https://x.com/i/status/2033823178020241662"
@@ -22,6 +22,13 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "no-code-agent-entry"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2033823178020241662"
+created: "2026-03-17"
+updated: "2026-06-26"
+sha256: "dd6a440d5f41b00056d1430fdc3112bf582d21d19f98c589ae423352af92d43a"
+sources:
+  - "/sources/news/2026-03-29/00__Fredson89948915__阿里云-龙虾-手机版上线-openclaw移动端入口战争打响.md"
 ---
 
 # 阿里云「龙虾」手机版上线：OpenClaw移动端入口战争打响

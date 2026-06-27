@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "互联网仍是「人类优先」架构，Agent Bot正在沦为二等公民"
 description: "**Web2对Agent的系统性排斥比想象更严重。**  向阳乔木指出当前A2A市场的核心障碍：现有互联网基础设施以人类用户设计，Agent遭遇广泛拦截（验证码、频率限制、反爬），而Web3反而因为无身份偏见成为Agent友好层。  这意味着AI Agent的落地速度不只取决于模型能力，更受制于基础设施的Agent兼容性改造。  但他判断这个过程会远快于工业革命——5年而非50年。  **gakk"
 resource: "https://x.com/i/status/2046129606722482305"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2046129606722482305"
+created: "2026-04-20"
+updated: "2026-06-26"
+sha256: "412b0ba42dc6ed2587c7df9a454313ff05b85c585a2af8a241a3cbc50a5e24c6"
+sources:
+  - "/sources/news/2026-04-21/00__vista8__互联网仍是-人类优先-架构-agent-bot正在沦为二等公民.md"
 ---
 
 # 互联网仍是「人类优先」架构，Agent Bot正在沦为二等公民

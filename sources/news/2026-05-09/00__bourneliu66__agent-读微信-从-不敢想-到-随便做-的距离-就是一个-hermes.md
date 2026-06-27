@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Agent 读微信：从「不敢想」到「随便做」的距离，就是一个 Hermes"
 description: "**Agent 进入个人社交数据层，这个口子一旦打开就不会关上。**  - 特别关注某人在所有群里的动向——这本质上是「社交情报 Agent」的个人版 - 从聊天记录挖掘需求——用户自己没意识到的需求，被 Agent 的上帝视角捞出来了 - 核心价值：Agent 把散落在多群、多时序的碎片信息，重组成可行动的情报  gakki 锐评：当 Agent 能读你的微信，它就不再只是工具，而是你社交关系的"
 resource: "https://x.com/i/status/2053160329107116425"
@@ -22,6 +22,13 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "social-intelligence-agent-search"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2053160329107116425"
+created: "2026-05-09"
+updated: "2026-06-26"
+sha256: "32ff44bdba1a67627786a91778e70c3153927d6ac7f49fe8beb1c90388114b95"
+sources:
+  - "/sources/news/2026-05-09/00__bourneliu66__agent-读微信-从-不敢想-到-随便做-的距离-就是一个-hermes.md"
 ---
 
 # Agent 读微信：从「不敢想」到「随便做」的距离，就是一个 Hermes

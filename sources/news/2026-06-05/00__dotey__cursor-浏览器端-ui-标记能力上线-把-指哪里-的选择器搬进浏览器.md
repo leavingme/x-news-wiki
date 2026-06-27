@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Cursor 浏览器端 UI 标记能力上线：把\"指哪里\"的选择器搬进浏览器"
 description: "**Cursor 把\"哪里要改\"的选择器从代码编辑器搬进了浏览器，AI Coding 进入\"圈选即改\"阶段**  要点： - 浏览器端直接对 UI 元素做视觉标注，免去\"截图→描述→定位代码\"的三段式损耗 - 与 AI 编码能力联动，圈选元素即可触发修改意图传递 - 对前端协作流程：设计师-开发者的标注语言首次被原生 AI 工具吸收 - 行业信号：v0/Lovable 的\"重新生成\"路线 vs C"
 resource: "https://x.com/i/status/2062958132758708253"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2062958132758708253"
+created: "2026-06-05"
+updated: "2026-06-26"
+sha256: "b0c4997e6093d439d788e84c6940c5f72256126e78d6ffc1f95219ab478c1ab6"
+sources:
+  - "/sources/news/2026-06-05/00__dotey__cursor-浏览器端-ui-标记能力上线-把-指哪里-的选择器搬进浏览器.md"
 ---
 
 # Cursor 浏览器端 UI 标记能力上线：把"指哪里"的选择器搬进浏览器

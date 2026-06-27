@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "玉伯拆解记忆 Agent 的真正壁垒：所有可捕获的信息加起来，都不如用户「发呆时的想法」"
 description: "**记忆 Agent 的护城河不在数据量，而在对用户「灵魂层」意图的猜测能力。**  - 玉伯梳理了记忆的六层来源：产品对话、主动记录、行为数据、工作流、传感器——以及最容易被忽略的「发呆时的信息」 - 核心判断：基于记忆的 Agent 几乎没有迁移壁垒，用户一咬牙就能换产品 - 推荐 FateTell 作为「深层记忆捕获」的优秀雏形——仅需八字即可触达带灵魂标记的记忆  玉伯的洞察本质是在说：当"
 resource: "https://x.com/i/status/2052765059232026730"
@@ -22,6 +22,13 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "personal-knowledge-management-ai"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2052765059232026730"
+created: "2026-05-08"
+updated: "2026-06-26"
+sha256: "5940e264e103624bf28c724e12041d4e26b73d2b0f80acda6c9836d87e12ee93"
+sources:
+  - "/sources/highlights/2026-05-08/00__lifesinger__玉伯拆解记忆-agent-的真正壁垒-所有可捕获的信息加起来-都不如用户-发呆时的想法.md"
 ---
 
 # 玉伯拆解记忆 Agent 的真正壁垒：所有可捕获的信息加起来，都不如用户「发呆时的想法」

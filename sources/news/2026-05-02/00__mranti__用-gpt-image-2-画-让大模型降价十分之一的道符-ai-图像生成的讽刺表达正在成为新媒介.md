@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "用 GPT-image-2 画「让大模型降价十分之一的道符」：AI 图像生成的讽刺表达正在成为新媒介"
 description: "**[AI 生成图像正从工具属性转向文化表达载体]**  - Michael Anti 用 GPT-image-2 生成了一张具有讽刺意味的「道符」，调侃 AI 模型定价 - 代表了一种趋势：AI 图像生成不再只是「画图」，而是成为观点表达和文化讽刺的工具  gakki 锐评：当 AI 工具开始被用来讽刺 AI 行业本身，说明工具已经过了「惊叹期」进入了「日常化」。这对内容生成赛道的信号是：用户需"
 resource: "https://x.com/i/status/2050597111125942595"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2050597111125942595"
+created: "2026-05-02"
+updated: "2026-06-26"
+sha256: "67dffca99f5fec1ab04a7a6a5c56dd1029e12588a20b09ea278e41cdd841fa2d"
+sources:
+  - "/sources/news/2026-05-02/00__mranti__用-gpt-image-2-画-让大模型降价十分之一的道符-ai-图像生成的讽刺表达正在成为新媒介.md"
 ---
 
 # 用 GPT-image-2 画「让大模型降价十分之一的道符」：AI 图像生成的讽刺表达正在成为新媒介

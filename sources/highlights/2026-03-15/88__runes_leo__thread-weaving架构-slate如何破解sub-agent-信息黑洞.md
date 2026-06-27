@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Thread Weaving架构：Slate如何破解Sub-agent「信息黑洞」"
 description: "**[Sub-agent通信从「字符串传递」进化为「记忆共享」]** • 现有方案（包括Claude Code）的痛点：子agent干完活只返回字符串，中间状态全丢，复杂任务信息损耗肉眼可见 • Slate解法：子线程每动作生成Episode（压缩摘要），直接共享给主线程且可作为下一线程输入，实现「共享而非隔离」 • 提出「Knowledge Overhang」概念：模型知道怎么做，但战术层面访问"
 resource: "https://x.com/i/status/2033022122017382728"
@@ -22,6 +22,13 @@ x_selected: 2
 x_priority: 88
 x_related_topic: "sub-agents-multi-expert"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2033022122017382728"
+created: "2026-03-15"
+updated: "2026-06-26"
+sha256: "9e384732310b9ee18be1d845229c7260aa72e592d1b343d74640c191234c6430"
+sources:
+  - "/sources/highlights/2026-03-15/88__runes_leo__thread-weaving架构-slate如何破解sub-agent-信息黑洞.md"
 ---
 
 # Thread Weaving架构：Slate如何破解Sub-agent「信息黑洞」

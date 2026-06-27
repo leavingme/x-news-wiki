@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "写作风格 Skill 迭代法：如何让 AI 彻底“去 AI 味”？"
 description: "**[核心逻辑]** 通过 Skill 而非 Prompt 实现人格化写作：分析原创文章 -> 生成 Skill -> 手动修改 AI 样稿 -> 反馈规律 -> 循环迭代。  [gakki 锐评：提示词是死的，Skill 是活的。别跟 AI 讲大道理，直接把你的‘笔法’写进它的‘大脑’里。]"
 resource: "https://x.com/i/status/2023173476702728479"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2023173476702728479"
+created: "2026-02-15"
+updated: "2026-06-26"
+sha256: "88d5f2f7c55023f6ef3c31e5eb05839c8583cf799b15ed727fe43fabc174b279"
+sources:
+  - "/sources/highlights/2026-02-16/00__gkxspace__写作风格-skill-迭代法-如何让-ai-彻底-去-ai-味.md"
 ---
 
 # 写作风格 Skill 迭代法：如何让 AI 彻底“去 AI 味”？

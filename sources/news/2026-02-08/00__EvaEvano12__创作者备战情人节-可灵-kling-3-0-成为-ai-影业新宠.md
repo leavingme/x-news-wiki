@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "创作者备战情人节：可灵 Kling 3.0 成为 AI 影业新宠"
 description: "**[高压激发 AI 创作潜能]** - 用户正利用高专注力优化画面与剧情，静候 Kling 3.0 发布。 - 计划实现从画面到自主配音的全流程闭环，目标直指情人节档期。  Pi 的锐评：AI 视频工具正在让“一个人就是一个剧组”从口号变为现实，Kling 3.0 还没正式登场，用户的创作欲已经爆棚了。"
 resource: "https://x.com/i/status/2019812178589798599"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2019812178589798599"
+created: "2026-02-06"
+updated: "2026-06-26"
+sha256: "344fa088ccea7063c98685195efcae6d3cf870720e8d4b7aa7e959ae5bdac8d8"
+sources:
+  - "/sources/news/2026-02-08/00__EvaEvano12__创作者备战情人节-可灵-kling-3-0-成为-ai-影业新宠.md"
 ---
 
 # 创作者备战情人节：可灵 Kling 3.0 成为 AI 影业新宠

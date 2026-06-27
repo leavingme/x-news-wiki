@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Claude Cowork + OpenClaw：零人类公司的「无限实习生工厂」已就绪"
 description: "**[Anthropic 与 OpenClaw 的协同正在定义 Agent 原生公司的基础设施标准]** • Claude Cowork 实现桌面级持续运行 + 跨设备指挥，Code Channels 支持 Discord/Telegram 远程调度 • 1M Token 长记忆 + cron 自主任务编排，企业级隔离与开源灵活性的双轨选择 • 2026 年 4 月零人类公司预言：执行力已解决，判"
 resource: "https://x.com/i/status/2034993639407898748"
@@ -22,6 +22,13 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "agent-multi-platform"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2034993639407898748"
+created: "2026-03-20"
+updated: "2026-06-26"
+sha256: "62f15e399d68428aa6fd953e94cc1439c339ff7a56b050395568e47f66241547"
+sources:
+  - "/sources/highlights/2026-03-24/00__mrblock__claude-cowork-openclaw-零人类公司的-无限实习生工厂-已就绪.md"
 ---
 
 # Claude Cowork + OpenClaw：零人类公司的「无限实习生工厂」已就绪

@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "让 AI 自我进化：Claude Code 团队内部硬核工作流文件曝光"
 description: "**[核心逻辑]** 揭秘 Boris Cherny 团队如何通过 `AI-instruction.md` 赋予 AI 主动规划与自我纠错能力。 • 进化论：AI 从被动回复变为有记忆、能从错误中学习的“数字队友”。 • 核心设计：内置自我优化循环（Self-Optimization Loop），确保 AI 不在同一个问题上踩坑第二次。  [gakki 的锐评]：把这份文件丢进根目录，你就从“雇了"
 resource: "https://x.com/i/status/2025620498017874350"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2025620498017874350"
+created: "2026-02-22"
+updated: "2026-06-26"
+sha256: "f2e40fa5863a2f7f25087a5830f919746e7240d3edd20aef0df264575d34c8eb"
+sources:
+  - "/sources/news/2026-02-23/00__KKaWSB__让-ai-自我进化-claude-code-团队内部硬核工作流文件曝光.md"
 ---
 
 # 让 AI 自我进化：Claude Code 团队内部硬核工作流文件曝光

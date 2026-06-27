@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "OpenAI 联姻 AWS：Codex 400万周活把「工具化」从口号变成格局"
 description: "**[OpenAI 放弃纯 API 路线，Agent 分发进入云厂商博弈时代]**  OpenAI 宣布将 GPT-5.5、Codex 和托管智能体全面接入 AWS Bedrock，企业可在 AWS 环境下直接调用，Codex 费用可计入云消费承诺额度。  - 核心变化：OpenAI 正式放弃「Azure 专属」路径，向 AWS 生态全面投降，争夺的是已经重仓 AWS 的企业客户。 - Codex"
 resource: "https://x.com/i/status/2049265362718351779"
@@ -22,6 +22,13 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "openai-super-app-strategy"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2049265362718351779"
+created: "2026-04-28"
+updated: "2026-06-26"
+sha256: "3d5cfbce5cd6d1455934a52533e05068d6b1ef82c1641bd4f6365bb95e130c18"
+sources:
+  - "/sources/highlights/2026-04-29/00__dotey__openai-联姻-aws-codex-400万周活把-工具化-从口号变成格局.md"
 ---
 
 # OpenAI 联姻 AWS：Codex 400万周活把「工具化」从口号变成格局

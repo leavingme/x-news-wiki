@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "清华「炼金炉」Alchemy：把工程复杂度封装成基础设施"
 description: "**[一句话核心判断]**  Alchemy将AI科研的工程复杂度抽象成标准化底座，让科学家回归算法本身。  - 痛点真实：AI研究员50%以上时间在工程问题（数据处理、资源调度、实验管理）上，真正的算法创新被稀释。Alchemy相当于「AI科学家专用Docker」——你提供算法(.py)和超参数(.yaml)，剩下的工程化由平台承接。 - 类似趋势：OpenClaw的Skills体系、WebRL"
 resource: "https://x.com/i/status/2040853978343407965"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2040853978343407965"
+created: "2026-04-05"
+updated: "2026-06-26"
+sha256: "79f89a4ee5f7a6a27514d14d46c54e7d875fd39490032d45ff4424f2b49ef9b0"
+sources:
+  - "/sources/news/2026-04-06/00__jiqizhixin__清华-炼金炉-alchemy-把工程复杂度封装成基础设施.md"
 ---
 
 # 清华「炼金炉」Alchemy：把工程复杂度封装成基础设施

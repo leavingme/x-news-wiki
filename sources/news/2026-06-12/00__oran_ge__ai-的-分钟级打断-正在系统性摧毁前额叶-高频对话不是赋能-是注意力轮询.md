@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "AI 的\"分钟级打断\"正在系统性摧毁前额叶：高频对话不是赋能，是注意力轮询"
 description: "**AI 把人脑逼成了\"被轮询的进程\"——心流几近消亡，ADHD 成为时代流行病。**  - 每 2-3 分钟一次人机对话 = 一次\"集中-涣散\"切换循环，与传统深度工作的\"沉浸单任务\"完全相反。 - 关通知、独自做一件大事的能力在退化，对细小琐事过度敏感、对大问题反而失明。 - AI 越快、越能秒回，副作用越重——执行效率提升与注意力崩溃是同一枚硬币。   gakki 锐评：把\"AI 焦虑\"翻译"
 resource: "https://x.com/i/status/2065549365452927432"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2065549365452927432"
+created: "2026-06-12"
+updated: "2026-06-26"
+sha256: "58e16740ef630439dd431e0cd34ba5fbd18d46682f855dd9098d6a1b743d2eba"
+sources:
+  - "/sources/news/2026-06-12/00__oran_ge__ai-的-分钟级打断-正在系统性摧毁前额叶-高频对话不是赋能-是注意力轮询.md"
 ---
 
 # AI 的"分钟级打断"正在系统性摧毁前额叶：高频对话不是赋能，是注意力轮询

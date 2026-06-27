@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "GitHub Copilot 取消「高级请求次数」，重度用户的好日子到头了"
 description: "**[Copilot 全面转向 Token 计费，\"用完降级\"这条退路被封死]**  6 月 1 日起 GitHub Copilot 取消按请求次数计费，改为 AI 积分（AI Credits）制。积分按 Token 消耗计费，包括输入、输出和缓存 Token，费率与各模型 API 定价挂钩。订阅价不变，但取消了\"用完降级到便宜模型\"的选项——积分花完就是花完，除非额外购买。  背后的逻辑：Cop"
 resource: "https://x.com/i/status/2048849524739977672"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2048849524739977672"
+created: "2026-04-27"
+updated: "2026-06-26"
+sha256: "adba80809028034660cde02c91a63f245489ce7602991edb32957b925ab03f60"
+sources:
+  - "/sources/highlights/2026-04-27/00__dotey__github-copilot-取消-高级请求次数-重度用户的好日子到头了.md"
 ---
 
 # GitHub Copilot 取消「高级请求次数」，重度用户的好日子到头了

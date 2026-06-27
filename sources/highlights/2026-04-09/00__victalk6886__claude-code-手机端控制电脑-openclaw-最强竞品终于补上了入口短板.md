@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Claude Code 手机端控制电脑：OpenClaw 最强竞品终于补上了入口短板"
 description: "**【一句话核心判断】**  Anthropic 凌晨放大招，Claude Code 支持手机端远程指挥电脑端完成任务，并配备三重安全护栏——权限确认、安全看板、一键关停。这意味着 OpenClaw 先发优势的时间窗口正在被加速压缩。  **要点：** - 手机作为语音/指令入口，电脑作为执行沙盒，完美分割了「感知层」与「执行层」 - 安全看板设计让用户对 Agent 行为有完整可视性，缓解信任焦"
 resource: "https://x.com/i/status/2036314236146843903"
@@ -22,6 +22,13 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "openclaw-digital-life-philosophy"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2036314236146843903"
+created: "2026-03-24"
+updated: "2026-06-26"
+sha256: "9d217904c020ffa917c435c72f2cc79bc0cfc18e1317ba13302e4b1896bb4d25"
+sources:
+  - "/sources/highlights/2026-04-09/00__victalk6886__claude-code-手机端控制电脑-openclaw-最强竞品终于补上了入口短板.md"
 ---
 
 # Claude Code 手机端控制电脑：OpenClaw 最强竞品终于补上了入口短板

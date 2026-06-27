@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "CLI Relay：一统多 Agent 入口的「API 代理层」出现"
 description: "**【Agent 工具整合进入「中间件」阶段】**  - 打破各 AI CLI 工具（Claude Code、Gemini CLI、Codex、Amp）的接入孤岛，统一本地 API 入口 - 支持 OAuth 与 API Key 双模式，可复用现有账号体系与订阅配额 - 为多账号、高并发调用场景提供工程化解决方案，降低 Agent 基础设施的碎片化成本  这种「统一代理层」的出现，标志着 Agen"
 resource: "https://x.com/i/status/2029907339311206569"
@@ -22,6 +22,13 @@ x_selected: 2
 x_priority: 82
 x_related_topic: "claude-code-ecosystem"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2029907339311206569"
+created: "2026-03-06"
+updated: "2026-06-26"
+sha256: "17fa50610bae1b1af4d6a732e8b66610c3c83e39ed66840a997aaac7697c9904"
+sources:
+  - "/sources/highlights/2026-03-07/82__QingQ77__cli-relay-一统多-agent-入口的-api-代理层-出现.md"
 ---
 
 # CLI Relay：一统多 Agent 入口的「API 代理层」出现

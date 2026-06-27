@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "社区阵亡率高的根本原因：没人真正在「听」——Lucius AI 正在把反馈收集做成产品闭环"
 description: "**[产品逻辑击中了社区运营的死穴]**  社区运营最难的从来不是拉新，而是把沉默大多数的痛点翻译成可执行的产品决策。Lucius AI 尝试用 AI 分析历史消息来定位用户真实痛点——这个方向比传统调研问卷高效得多。  问题在于：大多数工具在「收集反馈」这一步就死了，因为用户不愿意主动打字。AI 若能主动挖掘已有数据，绕过主动输入的摩擦，才是真正的社区反馈闭环。  **信息增量：** 这是一个被"
 resource: "https://x.com/i/status/2056750675401507004"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2056750675401507004"
+created: "2026-05-19"
+updated: "2026-06-26"
+sha256: "502cff84e00b4f484cfc7781ca9d2bf153bcfaf4360361c8b3d9ac51aa406a40"
+sources:
+  - "/sources/news/2026-05-19/00__Rourou0413__社区阵亡率高的根本原因-没人真正在-听-lucius-ai-正在把反馈收集做成产品闭环.md"
 ---
 
 # 社区阵亡率高的根本原因：没人真正在「听」——Lucius AI 正在把反馈收集做成产品闭环

@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "OpenAI Codex CLI 推出 /goal 命令：跨轮次目标持久化，Agent 终于不再「失忆」"
 description: "**Codex CLI 0.128.0 引入 Ralph Loop 的 /goal 命令，让 Agent 具备跨会话目标驱动能力。**  - 用户设定目标后，Agent 会持续执行直到完成，不再依赖单轮对话的上下文窗口 - 只需在 config.toml 中启用 `goals = true`，无需手搓 shell 脚本或 git 作为外部记忆 - 目前仅限终端 CLI，桌面端尚未跟进，但方向已明确"
 resource: "https://x.com/i/status/2050028108787450148"
@@ -22,6 +22,13 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "agent-tools-and-orchestration"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2050028108787450148"
+created: "2026-05-01"
+updated: "2026-06-26"
+sha256: "d421ff86f14be23920715aa65f031a5d31c649bf20af15a9cb2932b2821f3f1d"
+sources:
+  - "/sources/highlights/2026-05-01/00__dotey__openai-codex-cli-推出-goal-命令-跨轮次目标持久化-agent-终于不再-失忆.md"
 ---
 
 # OpenAI Codex CLI 推出 /goal 命令：跨轮次目标持久化，Agent 终于不再「失忆」

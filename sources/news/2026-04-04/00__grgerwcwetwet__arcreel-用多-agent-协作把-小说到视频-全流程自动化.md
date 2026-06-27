@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "ArcReel：用多 Agent 协作把「小说到视频」全流程自动化"
 description: "**一句话核心判断**：ArcReel 实现了从文本到视频的完整生产流水线，多 Agent 协同创作代表内容工业化的新阶段。  - 全流程：小说 → 角色/场景/道具设计 → 剧本 → 分镜 → 最终视频 - 核心是多 Agent 协同，每个环节由专门 Agent 处理 - 不是单一模型的视频生成，而是完整的创作工作流  这条路线比 Sora 这类单点工具更有工业化价值——它解决的是「创作流程」而"
 resource: "https://x.com/i/status/2040050537530634329"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2040050537530634329"
+created: "2026-04-03"
+updated: "2026-06-26"
+sha256: "022509d55522a3957a940d97c1f2276938ce6632bdc6a62b728db3839f474143"
+sources:
+  - "/sources/news/2026-04-04/00__grgerwcwetwet__arcreel-用多-agent-协作把-小说到视频-全流程自动化.md"
 ---
 
 # ArcReel：用多 Agent 协作把「小说到视频」全流程自动化

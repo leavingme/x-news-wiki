@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "华尔街误判 Anthropic：不拿军方订单，反而赢得大众市场的记忆护城河"
 description: "**华尔街的短视与消费者的长情：Anthropic 正用免费记忆构筑切换成本的终极壁垒** - 华尔街因 Anthropic 拒绝五角大楼合作而看衰，但其“记忆”功能免费化后，App Store 排名登顶，验证了消费者市场的强大需求。 - 核心价值在于：AI 记忆（代码风格、写作语气、生活背景）一旦形成，用户切换成本将无限增大，这是软件时代未曾有过的深度锁定。 - 这标志着 AI 竞争的焦点正从技"
 resource: "https://x.com/i/status/2028632411190559094"
@@ -22,6 +22,13 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "claude-memory-migration"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2028632411190559094"
+created: "2026-03-03"
+updated: "2026-06-26"
+sha256: "8b1cdcc223eb5e926124926a862d95b814502313820d56dcb4745777b6cb8099"
+sources:
+  - "/sources/highlights/2026-03-03/00__alanchen__华尔街误判-anthropic-不拿军方订单-反而赢得大众市场的记忆护城河.md"
 ---
 
 # 华尔街误判 Anthropic：不拿军方订单，反而赢得大众市场的记忆护城河

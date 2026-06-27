@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Anthropic Academy 免费开放：Claude 生态的「官方护城河」开始浇筑"
 description: "**[Anthropic 首次系统化输出官方教育资产，意图锁定开发者心智与长期生态位]**  • 13门免费课程覆盖从入门到 MCP/Skill 进阶的完整路径，直接对标 OpenAI/谷歌的开发者教育缺口 • 「Claude Code in Action」与「Building with the Claude API」两门课实质是官方「最佳实践」说明书，可降低社区摸索成本 • 证书体系的出现意味着"
 resource: "https://x.com/i/status/2033334933268086897"
@@ -22,6 +22,13 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "ai-learning-resources"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2033334933268086897"
+created: "2026-03-16"
+updated: "2026-06-26"
+sha256: "c8a0b0ea68f8b2781c93994d11ba1a569d5a8a5e07a54464bb45ffd7d5ca46cf"
+sources:
+  - "/sources/highlights/2026-03-16/00__kevinma_dev_zh__anthropic-academy-免费开放-claude-生态的-官方护城河-开始浇筑.md"
 ---
 
 # Anthropic Academy 免费开放：Claude 生态的「官方护城河」开始浇筑

@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Tauri 实现质量再遭质疑：性能代价是否换来了跨平台收益的合理溢价"
 description: "**Tauri 的\"轻量\"叙事遭遇实际性能拷问。**  结合 yetone 的评价，Tauri 在实际 Agent 工具调用场景中的性能表现与其宣称的\"现代化替代 Electron\"定位存在落差。WebView 渲染层和 Rust 后端之间的通信开销，在高频工具调用场景下被放大。  这不是 Tauri 本身有问题，而是技术选型与业务场景匹配度的经典命题：跨平台便利性是否值得牺牲毫秒级的响应延迟，取"
 resource: "https://x.com/i/status/2055100001764913509"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2055100001764913509"
+created: "2026-05-15"
+updated: "2026-06-26"
+sha256: "2b1d58dabc0a90f2ac8a5f293efa9656a06a3c23db9f611fb7f212ad80c65fd6"
+sources:
+  - "/sources/news/2026-05-15/00__yetone__tauri-实现质量再遭质疑-性能代价是否换来了跨平台收益的合理溢价.md"
 ---
 
 # Tauri 实现质量再遭质疑：性能代价是否换来了跨平台收益的合理溢价

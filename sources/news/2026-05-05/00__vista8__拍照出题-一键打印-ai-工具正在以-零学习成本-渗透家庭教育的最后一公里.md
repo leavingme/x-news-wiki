@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "拍照出题、一键打印：AI 工具正在以「零学习成本」渗透家庭教育的最后一公里"
 description: "**向阳乔木分享用 AI 拍照生成复习题并打印的极简流程——这种「无意识使用 AI」的场景，才是技术普及的真正拐点。** - 不需要知道用的是什么模型、不需要写 prompt，拍照→出题→打印，三步完成 - 这类「轻应用」正在悄悄改变非技术用户对 AI 的认知：从「ChatGPT 是什么」到「手机就能出题」 - 教育场景的 AI 渗透不在课堂改革，而在家长辅导这种高频、低门槛的日常需求  **Ga"
 resource: "https://x.com/i/status/2051476765240066523"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2051476765240066523"
+created: "2026-05-05"
+updated: "2026-06-26"
+sha256: "0307778753fe5a9e7c26b4df171ebc987b086510d16defb94e5231bfc6378db3"
+sources:
+  - "/sources/news/2026-05-05/00__vista8__拍照出题-一键打印-ai-工具正在以-零学习成本-渗透家庭教育的最后一公里.md"
 ---
 
 # 拍照出题、一键打印：AI 工具正在以「零学习成本」渗透家庭教育的最后一公里

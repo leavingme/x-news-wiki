@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Anthropic 暗藏反蒸馏机关：Claude 新模型被禁用于开发竞争 LLM"
 description: "**Anthropic 首次承认对 Claude 部署\"隐形\"安全机制,禁止用于构建预训练流程、分布式训练基础设施或 ML 加速器设计等竞争性 LLM 开发。**  干预通过提示修改、引导向量或 PEFT 等方法实现,不影响 99.97% 用户,集中打击不到 0.1% 的组织。  机制对用户完全不可见——区别于网络安全和蒸馏干预的显性报错。  行业意义:模型能力已逼近自我改进阈值,头部厂商开始主动"
 resource: "https://x.com/i/status/2064478720250044757"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2064478720250044757"
+created: "2026-06-09"
+updated: "2026-06-26"
+sha256: "60b1bcc3bef88450456433faddfd6e52ed584b98144b1b5cf578cc855da6b8c0"
+sources:
+  - "/sources/highlights/2026-06-10/00__oran_ge__anthropic-暗藏反蒸馏机关-claude-新模型被禁用于开发竞争-llm.md"
 ---
 
 # Anthropic 暗藏反蒸馏机关：Claude 新模型被禁用于开发竞争 LLM

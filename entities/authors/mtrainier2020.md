@@ -1,5 +1,5 @@
 ---
-type: "Author"
+type: "entity"
 title: "Rainier (@mtrainier2020)"
 description: "X/Twitter 作者 @mtrainier2020。共收录 3 条 AI 精选推文。"
 tags:
@@ -12,6 +12,14 @@ x_author_name: "Rainier"
 x_tweet_count: 3
 x_first_seen: "2026-03-31T00:43:34.100Z"
 x_last_seen: "2026-06-25T01:24:40.693Z"
+type_okf: "Author"
+created: "2026-03-31"
+updated: "2026-06-26"
+sha256: "029488ddf87427079407fbba138c577aa96a575125ce5f8f2df455cb3e8b7a5c"
+sources:
+  - "/sources/highlights/2026-03-31/00__mtrainier2020__ai安全攻防平衡被打破-claude自动化漏洞挖掘能力已超越人类审计.md"
+  - "/sources/highlights/2026-04-09/00__mtrainier2020__流量管控思路转变-击破-vpn-节点优先-ai-分级提取让-t-级检测变为可能.md"
+  - "/sources/news/2026-06-25/00__mtrainier2020__中美-ai-capex-互相消耗-韩台吃饱-开源正在成为中国的-不对等竞争-武器.md"
 ---
 
 # Rainier (@mtrainier2020)

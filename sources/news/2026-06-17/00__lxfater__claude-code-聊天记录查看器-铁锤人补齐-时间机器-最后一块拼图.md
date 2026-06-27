@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Claude Code 聊天记录查看器：铁锤人补齐「时间机器」最后一块拼图"
 description: "**Claude Code 长期缺一个原生能力——回看历史会话，铁锤人用第三方 viewer 补上。**  - Claude Code 原生会话检索不友好，老会话翻找成本高 - Viewer 工具让历史对话可结构化浏览、定位关键节点 - 反映社区自驱动补全官方缺位的常态：基础设施层的小工具往往来自用户而非厂商   hakki 锐评：这类「治不了根但治了症」的小工具，往往是 Agent 真正进入工作"
 resource: "https://x.com/i/status/2067138368677531973"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2067138368677531973"
+created: "2026-06-17"
+updated: "2026-06-26"
+sha256: "a686728439de7409136d1e37709cbda427f7bcd2a42ec0266ee1e59ebf9c0de2"
+sources:
+  - "/sources/news/2026-06-17/00__lxfater__claude-code-聊天记录查看器-铁锤人补齐-时间机器-最后一块拼图.md"
 ---
 
 # Claude Code 聊天记录查看器：铁锤人补齐「时间机器」最后一块拼图

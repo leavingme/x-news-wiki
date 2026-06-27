@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "AnySearch向所有开发者免费开放：Agent原生搜索基础设施进入零门槛时代"
 description: "**【搜索正在成为Agent的工具层商品】**  Rachel宣布AnySearch免费开放接入任意Agent和AI工作流，支持自定义模型。GitHub+官网双入口，产品化程度相当成熟。  这条信息的核心价值不在于搜索本身，而在于「基础设施即免费」的商业逻辑正在延伸到Agent工具层——过去需要自建的语义搜索、联网检索能力，现在可以零成本接入。对Agent开发者而言，这意味着构建壁垒的成本从工程开"
 resource: "https://x.com/i/status/2060269241748611479"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2060269241748611479"
+created: "2026-05-29"
+updated: "2026-06-26"
+sha256: "b3cdc201e3e0b0ce2fcff1e7a8fcf5dc619e08440c9308ee78b4f69e570a0ab2"
+sources:
+  - "/sources/news/2026-05-29/00__Zesee__anysearch向所有开发者免费开放-agent原生搜索基础设施进入零门槛时代.md"
 ---
 
 # AnySearch向所有开发者免费开放：Agent原生搜索基础设施进入零门槛时代

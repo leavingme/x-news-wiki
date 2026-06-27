@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "CASCADE框架：让LLM Agent在部署后继续学习，用上下文 bandit 平衡探索与利用"
 description: "**[ episodic memory 让 LLM Agent 学会「吃一堑长一智」]**  吉林大学、伦敦国王学院、UCL 联合提出 CASCADE 框架，核心创新是把经验复用建模为上下文多臂老虎机（contextual bandit），让模型在「复用已知成功经验」和「探索新策略」之间自适应平衡。实验覆盖 16 个任务（医疗诊断、代码生成、具身交互等），证明 episodic memory 能在"
 resource: "https://x.com/i/status/2059090140816117881"
@@ -22,6 +22,13 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "agent-memory-optimization"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2059090140816117881"
+created: "2026-05-26"
+updated: "2026-06-26"
+sha256: "4071619a002898587f07a5ce869c938706090c1572d07c86cd49eb39df41c1b5"
+sources:
+  - "/sources/highlights/2026-05-26/00__jiqizhixin__cascade框架-让llm-agent在部署后继续学习-用上下文-bandit-平衡探索与利用.md"
 ---
 
 # CASCADE框架：让LLM Agent在部署后继续学习，用上下文 bandit 平衡探索与利用

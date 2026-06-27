@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "智谱 AI 申请香港上市：高估值背后的合规“守门人”重担"
 description: "**[中国顶级 AI 独角兽在资本市场与合规义务间的平衡]** * 智谱 AI 估值超 60 亿美元，在港上市申请中明确警示合规风险。 * 需承担传播非法信息的审查责任，充当政府认定信息的“守门人”。 * 法律与技术边界的复杂性成为投资者衡量其长期价值的核心变量。  Pi 的锐评：60 亿美金买的不仅是模型，还有在钢丝绳上跳舞的平衡感。"
 resource: "https://x.com/i/status/2018643628722114807"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2018643628722114807"
+created: "2026-02-03"
+updated: "2026-06-26"
+sha256: "fbf620475fe62b2eef96e092a86d3df61a274fbd6edf814af33604463d62ae92"
+sources:
+  - "/sources/news/2026-02-03/00__nytchinese__智谱-ai-申请香港上市-高估值背后的合规-守门人-重担.md"
 ---
 
 # 智谱 AI 申请香港上市：高估值背后的合规“守门人”重担

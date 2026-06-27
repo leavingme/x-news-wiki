@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "清华×腾讯×北大 MBench：长视频世界模型'记忆力'首次被拆成 12 项子能力"
 description: "**MBench 重新定义视频世界模型评测——从'看着像'升级到'记得住'。**  - 清华、腾讯、北大联合提出，针对长视频世界模型的长程记忆能力 - 评测维度分 12 个子技能，覆盖物体识别、环境延续、因果链条 - 评测方法采用真实长视频 + 自动化规则 + 视觉语言模型混合打分   gakki 锐评：世界模型赛道正在从'生成质量内卷'转向'认知能力外卷'，MBench 撕开了新战场。"
 resource: "https://x.com/i/status/2069573720092393556"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2069573720092393556"
+created: "2026-06-24"
+updated: "2026-06-26"
+sha256: "84d37c0a6d2caaf34041edb4deb8dedc726ae740791dbdd4b4c2af5789a127b0"
+sources:
+  - "/sources/highlights/2026-06-24/00__jiqizhixin__清华-腾讯-北大-mbench-长视频世界模型-记忆力-首次被拆成-12-项子能力.md"
 ---
 
 # 清华×腾讯×北大 MBench：长视频世界模型'记忆力'首次被拆成 12 项子能力

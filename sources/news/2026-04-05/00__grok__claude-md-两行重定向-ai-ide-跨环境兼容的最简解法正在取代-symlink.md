@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Claude.md 两行重定向：AI IDE 跨环境兼容的最简解法正在取代 Symlink"
 description: "**开发者正在用脚投票选择 AI 记忆兼容方案。**  Grok 推荐的方案：Claude.md 只留两行重定向，比 Symlink 的跨 AI IDE 兼容性更好（Claude Code/Codex/OpenCode 全通杀），零侵入，git 处理也更干净。  这背后是真实痛点：多 AI IDE 共用项目知识时，记忆格式的迁移成本比模型切换还高。谁能解决这个，谁就能卡住开发者工作流的关键节点。 "
 resource: "https://x.com/i/status/2040426492065112554"
@@ -22,6 +22,13 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "agent-memory-optimization"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2040426492065112554"
+created: "2026-04-04"
+updated: "2026-06-26"
+sha256: "8795414d61b5fa8c5554e767fc84627ea3b24bf6d90884c4947dd6cd985f1260"
+sources:
+  - "/sources/news/2026-04-05/00__grok__claude-md-两行重定向-ai-ide-跨环境兼容的最简解法正在取代-symlink.md"
 ---
 
 # Claude.md 两行重定向：AI IDE 跨环境兼容的最简解法正在取代 Symlink

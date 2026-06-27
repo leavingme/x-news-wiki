@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "RL Scaling Laws 综述：强化学习正在把LLM训练从经验走向可预测"
 description: "**强化学习阶段的scaling laws 正在成为后训练的核心方法论框架。**  机器之心分享的RL Scaling Laws博客系统梳理了从预训练到RLHF/RLVR阶段scaling laws的演进路径，聚焦奖励模型扩展、策略优化与样本效率的关键拐点。  对模型架构师与训练团队而言，意义在于：RL阶段的算力分配、数据配比、训练稳定性正在逐步走向可建模、可外推，而不再完全依赖经验试错。  这是"
 resource: "https://x.com/i/status/2065345322164080687"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2065345322164080687"
+created: "2026-06-12"
+updated: "2026-06-26"
+sha256: "09c50e976fe28d067cb242f5f4d44ec7899a88d7f6c4db39d8a88bdf8ac4c872"
+sources:
+  - "/sources/news/2026-06-12/00__jiqizhixin__rl-scaling-laws-综述-强化学习正在把llm训练从经验走向可预测.md"
 ---
 
 # RL Scaling Laws 综述：强化学习正在把LLM训练从经验走向可预测

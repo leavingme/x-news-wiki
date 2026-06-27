@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Token即ROI：AI内容创作嵌入平台生产关系的新商业假设"
 description: "**[一句话核心判断]**  当AI软件的Token成本可以被平台收益模型覆盖，\"贵\"就不复存在——这是AI内容创业的生死线。  - 核心逻辑：Token费用应被视作生产投入而非工具成本，只要AI生成的视频收益 > Token成本 + 投流成本，创作即可持续 - 平台套利路径：优质AI内容天然契合抖音\"优质内容被看见\"的算法逻辑，可绕过投流费用实现零成本分发 - 本质命题：AI内容创作者与平台之间"
 resource: "https://x.com/i/status/2060580646783754674"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2060580646783754674"
+created: "2026-05-30"
+updated: "2026-06-26"
+sha256: "8091217fce2b2aeb486f542bd9d181079e35b075368c65cd8c7a10b7adb6987a"
+sources:
+  - "/sources/news/2026-05-30/00__Leobai825__token即roi-ai内容创作嵌入平台生产关系的新商业假设.md"
 ---
 
 # Token即ROI：AI内容创作嵌入平台生产关系的新商业假设

@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "多Agent聊天是AI版的三省六部：情绪价值大于实用价值"
 description: "**[Agent分工会话的本质是「帝王梦的Token化」]**  宝玉对多Agent分工聊天的犀利点评：人类之所以分工是因为能力有限，不代表AI也要这么分工。给AI设一堆角色来聊天，Token浪费巨大，收益主要是情绪价值。  但他给了另一个视角：也不能说完全没用，情绪价值本身就是真实需求。  更精准的概括是：**多Agent会话是「皇帝的新衣」——大家都知道不实用，但参与者都在享受幻觉**。   "
 resource: "https://x.com/i/status/2059705282452652376"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2059705282452652376"
+created: "2026-05-27"
+updated: "2026-06-26"
+sha256: "5d7bb4100c8f44e2269e225c50e514838a91f84784185ab6066005c8ddda7376"
+sources:
+  - "/sources/news/2026-05-27/00__dotey__多agent聊天是ai版的三省六部-情绪价值大于实用价值.md"
 ---
 
 # 多Agent聊天是AI版的三省六部：情绪价值大于实用价值

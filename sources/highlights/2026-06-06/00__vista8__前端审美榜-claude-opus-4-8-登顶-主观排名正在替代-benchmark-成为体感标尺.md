@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "前端审美榜 Claude Opus 4.8 登顶：主观排名正在替代 Benchmark 成为体感标尺"
 description: "**Claude Opus 4.8 在前端审美主观榜中位列第一，Kimi 2.6 反超 GPT 5.5 排第二，国产 GLM 5.1 也进入前五。**  - 向阳乔木与 Tom 直播中给出的完整排序：Claude Opus 4.8 > Kimi 2.6 > GPT 5.5 > DeepSeek V4 Pro > GLM 5.1 > DeepSeek V4 Flash - 明确声明「都是大家的主观看"
 resource: "https://x.com/i/status/2063264223879389431"
@@ -22,6 +22,13 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "design-model-evaluation"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2063264223879389431"
+created: "2026-06-06"
+updated: "2026-06-26"
+sha256: "43b31d9858a025298d67e2c7b43490b4ef0449c444e67587b8fd3e60198a59a4"
+sources:
+  - "/sources/highlights/2026-06-06/00__vista8__前端审美榜-claude-opus-4-8-登顶-主观排名正在替代-benchmark-成为体感标尺.md"
 ---
 
 # 前端审美榜 Claude Opus 4.8 登顶：主观排名正在替代 Benchmark 成为体感标尺

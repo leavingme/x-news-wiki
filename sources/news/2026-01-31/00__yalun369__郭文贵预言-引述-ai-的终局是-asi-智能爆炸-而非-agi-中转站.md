@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "郭文贵预言（引述）：AI 的终局是 ASI 智能爆炸，而非 AGI 中转站"
 description: "**[智能进化的指数级跃迁]** 行业共识正在向“ASI（超人工智能）”偏移，认为 AGI 只是一个短暂的门槛。 - **智能爆炸逻辑**：一旦 AI 达到 AGI 水平，将具备自我修改代码和设计更强算法的能力，实现指数级进化。 - **人类极限**：生物进化的神经传输速度无法跟上硅基计算，AGI 到 ASI 的跨度可能仅需几天或几个月。 - **风险对齐**：人类最焦虑的应是在 AGI 阶段建立"
 resource: "https://x.com/i/status/2017583031951729010"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2017583031951729010"
+created: "2026-01-31"
+updated: "2026-06-26"
+sha256: "d9a6ced0f32d686f9a189bb6f64320e0d205f3b5957f298742654626d912c50b"
+sources:
+  - "/sources/news/2026-01-31/00__yalun369__郭文贵预言-引述-ai-的终局是-asi-智能爆炸-而非-agi-中转站.md"
 ---
 
 # 郭文贵预言（引述）：AI 的终局是 ASI 智能爆炸，而非 AGI 中转站

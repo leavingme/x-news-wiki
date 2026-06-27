@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "华为诺亚方舟实验室4%精度提升：Diffusion LLMs的「智能噪声调度器」找到了训练数据的水印"
 description: "**[一句话核心判断]** Diffusion LLMs的训练数据选择存在巨大浪费——优先级掩码让模型只学习信息密度最高的token，Code & Math推理精度直接跳4%。  **信息增量：** - 华为诺亚方舟实验室提出「智能噪声调度器」，用优先级掩码聚焦信息密集数据训练 - 平均精度提升4%，在Code & Math推理任务上超越均匀基线 - 核心洞察：不是数据量决定质量，是数据中信息密度"
 resource: "https://x.com/i/status/2040792826120978571"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2040792826120978571"
+created: "2026-04-05"
+updated: "2026-06-26"
+sha256: "ff99adcefe69f39be2dd11bf73da139b974f9fb02f25a16ef6fb5475a14d8675"
+sources:
+  - "/sources/news/2026-04-06/00__jiqizhixin__华为诺亚方舟实验室4-精度提升-diffusion-llms的-智能噪声调度器-找到了训练数据的水印.md"
 ---
 
 # 华为诺亚方舟实验室4%精度提升：Diffusion LLMs的「智能噪声调度器」找到了训练数据的水印

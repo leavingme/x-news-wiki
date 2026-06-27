@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "手机操控远程项目功能已上线，AI 编程工具的设备边界正在消融"
 description: "**[设备边界消融的临界信号]**  「这个已经上线了」——配合链接指向的是手机端操控远程项目的能力。这与上条泄漏的 Codex 路线图形成呼应：远程设备控制不是规划中的功能，而是正在发生的产品现实。移动端与桌面端的能力落差正在被 AI 抹平，设备从「执行终端」变成「调用入口」。  - 信号意义：开发工作流的场所绑定正在松动 - 受益群体：移动办公场景下的独立开发者 - 待观察：企业安全策略如何适"
 resource: "https://x.com/i/status/2055808838985711854"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2055808838985711854"
+created: "2026-05-17"
+updated: "2026-06-26"
+sha256: "3b67f1b04024b72400959cc6569fa2fdac71135b4734fa77272faf796326045b"
+sources:
+  - "/sources/news/2026-05-17/00__xiaohu__手机操控远程项目功能已上线-ai-编程工具的设备边界正在消融.md"
 ---
 
 # 手机操控远程项目功能已上线，AI 编程工具的设备边界正在消融

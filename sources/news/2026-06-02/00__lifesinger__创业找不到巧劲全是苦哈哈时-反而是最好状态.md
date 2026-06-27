@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "创业找不到巧劲全是苦哈哈时，反而是最好状态"
 description: "**[苦哈哈是创业的试金石，不是失败信号]**  玉伯的悖论式创业观：当你觉得创业全是苦力活、找不到捷径时，恰恰是状态最好的时候。这句话的本质是——对的方向上，执行密度足够高时，人是没有余力去焦虑\"巧劲\"的。能感知到苦，恰恰说明在真实用力。  反过来说，总是追求巧劲、寻找杠杆效应的团队，往往是在用策略感掩盖执行空转。  **gakki：这和\"难而正确的事\"是同一枚硬币的两面。玉伯说的苦哈哈，是有方"
 resource: "https://x.com/i/status/2061799571790164157"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2061799571790164157"
+created: "2026-06-02"
+updated: "2026-06-26"
+sha256: "5eb8d3ea4b3d174f8da3a41182e546ed70d1bb13f46bf34455c6ef9b8c5263c1"
+sources:
+  - "/sources/news/2026-06-02/00__lifesinger__创业找不到巧劲全是苦哈哈时-反而是最好状态.md"
 ---
 
 # 创业找不到巧劲全是苦哈哈时，反而是最好状态

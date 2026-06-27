@@ -1,5 +1,5 @@
 ---
-type: "Concept"
+type: "concept"
 title: "abundant-gdp-hypothesis"
 description: "跨日主题 \"abundant-gdp-hypothesis\"，共 1 条相关精选推文。"
 tags:
@@ -11,6 +11,12 @@ x_topic_slug: "abundant-gdp-hypothesis"
 x_tweet_count: 1
 x_first_seen: "2026-03-18T00:42:49.145Z"
 x_last_seen: "2026-03-18T00:42:49.145Z"
+type_okf: "Concept"
+created: "2026-03-18"
+updated: "2026-06-26"
+sha256: "2d6cadb7a767bcd3f45db5345c93825585b12b50aa7267cbdf957e3cfcef85a6"
+sources:
+  - "/sources/highlights/2026-03-18/00__wublockchain12__arthur-hayes-比特币腰斩是ai信用崩塌的末日钟声.md"
 ---
 
 # 主题: abundant-gdp-hypothesis

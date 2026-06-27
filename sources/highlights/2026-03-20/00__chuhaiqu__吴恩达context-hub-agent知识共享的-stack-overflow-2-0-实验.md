@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "吴恩达Context Hub：Agent知识共享的「Stack Overflow 2.0」实验"
 description: "**[吴恩达下场做Agent基建，试图解决AI乱编API和不长记性的行业顽疾]**  • 开源一周斩获1万+ star，定位「给AI用的Stack Overflow」——Agent调用API后自主评价文档质量、标记坑点、完善参数说明 • 核心突破：让AI从「每次从零开始」转向「跨会话记住真实调用经验」，实现Agent间的知识沉淀与共享 • 隐喻性信号：API文档的维护者从人类程序员变成AI自身，意"
 resource: "https://x.com/i/status/2034891959018692973"
@@ -22,6 +22,13 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "agent-knowledge-sharing-infra"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2034891959018692973"
+created: "2026-03-20"
+updated: "2026-06-26"
+sha256: "262f063539a6ca2b47c7859f887198f9fde01be9820ba1f212503d842fb7415a"
+sources:
+  - "/sources/highlights/2026-03-20/00__chuhaiqu__吴恩达context-hub-agent知识共享的-stack-overflow-2-0-实验.md"
 ---
 
 # 吴恩达Context Hub：Agent知识共享的「Stack Overflow 2.0」实验

@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "DeepGEMM 更新将 FP8 累加精度控制权直接交还给开发者"
 description: "**[一句核心判断]** DeepSeek 在 DeepGEMM 更新中，将 FP8 MQA logit 函数的累加精度控制直接暴露给开发者——权重张量的 dtype 现在显式决定了累加精度，这是硬件级优化的控制权从框架向开发者下沉的重要信号。  - 更新后 `fp8_mqa_logits` 函数的权重张量 dtype 现在显式控制累加精度，不再由框架隐式决定 - 开发者可在 kernel 级别精"
 resource: "https://x.com/i/status/2062019631406338369"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2062019631406338369"
+created: "2026-06-03"
+updated: "2026-06-26"
+sha256: "d8f8e08ac50978bef2aa124ae80126c11f13844317d8c49d1082822ec30f63b8"
+sources:
+  - "/sources/news/2026-06-03/00__jiqizhixin__deepgemm-更新将-fp8-累加精度控制权直接交还给开发者.md"
 ---
 
 # DeepGEMM 更新将 FP8 累加精度控制权直接交还给开发者

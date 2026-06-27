@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "体感信号：Claude 和 OpenAI 订阅额度疑似下调 90%，Shrinkflation 已从争议变体感"
 description: "**用户体感显示 Claude 与 OpenAI 套餐额度在近期被大幅压缩，约 90% 的降幅。**  - 信号来源是开发者个人的使用感受而非官方公告，证据偏弱但与近期模型降配、订阅涨价舆论方向一致。 - 若属实，意味着头部 AI 公司正在用「隐形降级」替代「明面涨价」，以维持订阅价位不动的叙事。 - 对重度 Agent / Coding 用户影响最大：原本按月计费可跑满的工作流，可能在月中就被截"
 resource: "https://x.com/i/status/2070176673430114521"
@@ -22,6 +22,13 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "ai-shrinkflation-opus-degradation"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2070176673430114521"
+created: "2026-06-25"
+updated: "2026-06-26"
+sha256: "dd01b96ba472d4e9fe066e089339a985651133dcb9797f761622624e1ec37775"
+sources:
+  - "/sources/news/2026-06-25/00__0xAA_Science__体感信号-claude-和-openai-订阅额度疑似下调-90-shrinkflation-已从争议变体感.md"
 ---
 
 # 体感信号：Claude 和 OpenAI 订阅额度疑似下调 90%，Shrinkflation 已从争议变体感

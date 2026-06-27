@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "「睡后科研」成真：Karpathy开源Auto Research让AI替你跑实验"
 description: "**[科研范式的无人化拐点]** - Auto Research实现「目标→规划→改代码→训练→评估→优化」的完整闭环，醒来即得最优版本 - Agency Agents项目把Claude Code扩展为51位AI专家+9部门的「虚拟AI公司」，覆盖全流程 - Lightpanda专为AI设计的无头浏览器：速度是Chrome的11倍、内存减少9倍，Agent爬虫基建升级  **gakki 锐评：**"
 resource: "https://x.com/i/status/2032557322078400527"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 80
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2032557322078400527"
+created: "2026-03-13"
+updated: "2026-06-26"
+sha256: "b3cb51c3aed4b26fa26545c3d97648173d102078e6be74462da29e5e0acf9e91"
+sources:
+  - "/sources/news/2026-03-14/80___0xKenny__睡后科研-成真-karpathy开源auto-research让ai替你跑实验.md"
 ---
 
 # 「睡后科研」成真：Karpathy开源Auto Research让AI替你跑实验

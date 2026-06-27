@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "GPT Image 2.0 被低估的深水区能力：不用参考图直出指定 IP 二次元，文字海报玩法持续涌现"
 description: "**GPT Image 2.0 的能力边界仍在被社区持续挖掘，而非发布即见底。**  - 发布两周后仍有新玩法涌现：文字海报、指定 IP 二次元直出（无需参考图），说明模型的指令跟随和风格泛化能力远超竞品预期 - 竞品对比结论明确：Banana 2 在文字和二次元两项均不如 Pro，Grok 除尺度外无优势 - Labnana 将 GPT Images 2.0 免费体验作为长期引流福利，说明平台已"
 resource: "https://x.com/i/status/2052505187953344707"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2052505187953344707"
+created: "2026-05-07"
+updated: "2026-06-26"
+sha256: "e5261e7f7636fcc0c4947762f318d207d418a8b620603b364d56a909bdb84850"
+sources:
+  - "/sources/news/2026-05-07/00__oran_ge__gpt-image-2-0-被低估的深水区能力-不用参考图直出指定-ip-二次元-文字海报玩法持续涌现.md"
 ---
 
 # GPT Image 2.0 被低估的深水区能力：不用参考图直出指定 IP 二次元，文字海报玩法持续涌现

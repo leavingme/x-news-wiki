@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Codex 后台狂写日志\"烧\"SSD：AI Coding 工具的隐性硬件成本首次被点破"
 description: "**Codex 即便空挂机也在后台高频写日志，SSD 寿命被持续消耗——AI Coding 工具的隐性硬件成本首次浮出水面。**  - 有用户实测：Codex 即便电脑挂机也在后台持续写入，文件体积小但底层 IO 行为异常 - 写入放大系数被\"针扎式擦写\"放大，写入量远超实际日志所需 - 本地 AI 编程工具首次暴露出\"长会话/后台 Agent\"的硬件成本不可忽视  gakki 锐评：本地 AI "
 resource: "https://x.com/i/status/2069230412816416909"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2069230412816416909"
+created: "2026-06-23"
+updated: "2026-06-26"
+sha256: "fbca20f1ff20d52e44a272bb8a8ee1569fd9fe611afcbce4e3c38ef143e9977c"
+sources:
+  - "/sources/news/2026-06-23/00__xiaohu__codex-后台狂写日志-烧-ssd-ai-coding-工具的隐性硬件成本首次被点破.md"
 ---
 
 # Codex 后台狂写日志"烧"SSD：AI Coding 工具的隐性硬件成本首次被点破

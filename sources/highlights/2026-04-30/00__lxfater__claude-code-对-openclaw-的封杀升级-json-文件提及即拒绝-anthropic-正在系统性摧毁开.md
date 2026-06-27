@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Claude Code 对 OpenClaw 的封杀升级：JSON 文件提及即拒绝，Anthropic 正在系统性摧毁开发者信任"
 description: "**Anthropic 正在用技术手段将商战伪装成安全策略，开发者信任崩塌的速度远超封杀速度。**  - Theo（32 万粉硅谷 YouTuber）实测发现：Git 提交中只要包含提及 OpenClaw 的 JSON 文件，Claude Code 即拒绝请求或额外收费，封杀粒度已从 system prompt 下探到文件内容级别 - 此前 Claude Code 负责人 Boris Cherny"
 resource: "https://x.com/i/status/2049796253471453564"
@@ -22,6 +22,13 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "anthropic-api-control"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2049796253471453564"
+created: "2026-04-30"
+updated: "2026-06-26"
+sha256: "d260ca76cb450708a6394f60534731327343426c47da0e09f89836fa6ee0b2d7"
+sources:
+  - "/sources/highlights/2026-04-30/00__lxfater__claude-code-对-openclaw-的封杀升级-json-文件提及即拒绝-anthropic-正在系统性摧毁开.md"
 ---
 
 # Claude Code 对 OpenClaw 的封杀升级：JSON 文件提及即拒绝，Anthropic 正在系统性摧毁开发者信任

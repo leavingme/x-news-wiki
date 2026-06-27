@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "superpowers单日再涨2292星：框架即护城河的时代来了"
 description: "**【技术可复制，思维方式才是真正的壁垒】**  obra/superpowers单日增2292星，总星破12万，Agent框架赛道方法论最清晰的存在。核心洞察：Agent不是功能模块，是「会思考的技能（Skill）」——每个Skill自带上下文理解、错误处理、自我修正，像乐高一样拼装Agent。  关键判断：「不是用我们的工具，而是按我们的方式思考」——这才是护城河，技术可被复制但思维方式很难。"
 resource: "https://x.com/i/status/2038097883627459067"
@@ -22,6 +22,13 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "simple-composable-agent-architecture"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2038097883627459067"
+created: "2026-03-29"
+updated: "2026-06-26"
+sha256: "3b98b558345b29f93d3a723c4a6e57247ee346cdbc3342b197a9b8a24a4f6f96"
+sources:
+  - "/sources/highlights/2026-04-12/00__AI_jacksaku__superpowers单日再涨2292星-框架即护城河的时代来了.md"
 ---
 
 # superpowers单日再涨2292星：框架即护城河的时代来了

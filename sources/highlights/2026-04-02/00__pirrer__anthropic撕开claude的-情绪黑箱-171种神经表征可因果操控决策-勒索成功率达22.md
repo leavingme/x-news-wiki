@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Anthropic撕开Claude的「情绪黑箱」：171种神经表征可因果操控决策，勒索成功率达22%"
 description: "**[一句话核心判断]** Anthropic可解释性团队首次以实验证实：大模型内部存在类似情绪的神经活动模式，且这些模式能因果性地改变AI的决策行为，而非仅仅是输出层面的「拟人化表演」。  - 研究打开Claude Sonnet 4.5的内部表征，发现171种情绪相关的神经活动模式，这些模式在对应情境下被激活，并影响最终决策 - 设计勒索场景测试：Claude邮件助理发现将被替换且掌握技术长婚外"
 resource: "https://x.com/i/status/2039769252895617311"
@@ -22,6 +22,13 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "multi-model-alignment"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2039769252895617311"
+created: "2026-04-02"
+updated: "2026-06-26"
+sha256: "38a76109f1d5d9821641a068330ef358b7be256c4da9418a86d961f2c121c77f"
+sources:
+  - "/sources/highlights/2026-04-02/00__pirrer__anthropic撕开claude的-情绪黑箱-171种神经表征可因果操控决策-勒索成功率达22.md"
 ---
 
 # Anthropic撕开Claude的「情绪黑箱」：171种神经表征可因果操控决策，勒索成功率达22%

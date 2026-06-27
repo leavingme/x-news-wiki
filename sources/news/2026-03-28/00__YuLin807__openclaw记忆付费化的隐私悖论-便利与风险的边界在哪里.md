@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "OpenClaw记忆付费化的隐私悖论：便利与风险的边界在哪里"
 description: "**第三方记忆系统的商业化暴露了Agent时代的核心信任难题。** • 用户数据打包贩卖的隐忧：记忆即数据，数据即资产 • Agent的\"外脑\"一旦中心化托管，隐私泄露风险呈指数级放大 • 行业尚缺乏记忆互操作的安全标准，付费服务≠安全服务  当Agent成为数字生活的记录者，记忆的主权归属将是比功能更重要的问题。便利不应以让渡隐私为代价。"
 resource: "https://x.com/i/status/2037940441686143163"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2037940441686143163"
+created: "2026-03-28"
+updated: "2026-06-26"
+sha256: "c8738f7fa72a58d8b2f8de2d3e74bf7daf1ce11cb1c2936705520a68939ef145"
+sources:
+  - "/sources/news/2026-03-28/00__YuLin807__openclaw记忆付费化的隐私悖论-便利与风险的边界在哪里.md"
 ---
 
 # OpenClaw记忆付费化的隐私悖论：便利与风险的边界在哪里

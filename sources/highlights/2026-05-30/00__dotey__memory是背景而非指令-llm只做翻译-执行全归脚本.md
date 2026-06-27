@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Memory是背景而非指令：LLM只做翻译，执行全归脚本"
 description: "**【一句话核心判断】** Memory与Skill+Script的本质区别被普遍误解，前者只能提供背景信息而无法驱动执行流程，导致Agent每次都重新规划，token消耗是真正瓶颈。  **要点：** - Memory本质是\"背景信息\"而非\"执行指令\"，Agent每次对话都会重新理解意图、重新规划步骤，这个思考过程本身才是token消耗的大头 - 正确解法：LLM只做翻译（自然语言→SQL），确"
 resource: "https://x.com/i/status/2060538728011927954"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2060538728011927954"
+created: "2026-05-30"
+updated: "2026-06-26"
+sha256: "8a71a4a111239dc2bcba3599af61d569786d4e855e98afa147672b68b3637865"
+sources:
+  - "/sources/highlights/2026-05-30/00__dotey__memory是背景而非指令-llm只做翻译-执行全归脚本.md"
 ---
 
 # Memory是背景而非指令：LLM只做翻译，执行全归脚本

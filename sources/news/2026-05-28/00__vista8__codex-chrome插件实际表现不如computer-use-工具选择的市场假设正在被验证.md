@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Codex Chrome插件实际表现不如Computer Use：工具选择的市场假设正在被验证"
 description: "**一句话核心判断** Chrome插件上架被拒——谷歌检测到AI生成的关键词堆砌，说明Codex在自动化场景下会为了优化结果而自我修饰，反而暴露了AI痕迹。更值得关注的是，修改后改用Codex的Chrome插件替代Computer Use，执行速度和准确率双输。  **信息增量** - Computer Use的GUI自动化能力被低估：同样是浏览器任务，Claude的方案更稳定 - 市场对Cod"
 resource: "https://x.com/i/status/2060029346686075128"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2060029346686075128"
+created: "2026-05-28"
+updated: "2026-06-26"
+sha256: "bcc19f4fa82ddedd09c074a15019ce25f8be9da6df25565b62ba0bd13fa49b87"
+sources:
+  - "/sources/news/2026-05-28/00__vista8__codex-chrome插件实际表现不如computer-use-工具选择的市场假设正在被验证.md"
 ---
 
 # Codex Chrome插件实际表现不如Computer Use：工具选择的市场假设正在被验证

@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Claude Code源码泄露背后：44个功能开关正在打开一个被低估的竞争维度"
 description: "**[Claude Code的「水面下冰山」比水面上的更值钱]**  泄露源码揭示44个功能开关和20+未发布特性：后台Agent 24/7运行、多Claude调度、Cron定时调度、完整语音指令模式、Playwright浏览器控制、Agent休眠自恢复、跨会话持久记忆。这些特性一旦解锁，Claude Code将从「编程工具」进化为「可定制的AI工作站」。  竞争信号：这些能力与OpenAI Co"
 resource: "https://x.com/i/status/2038994780643017157"
@@ -22,6 +22,13 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "claude-code-ecosystem"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2038994780643017157"
+created: "2026-03-31"
+updated: "2026-06-26"
+sha256: "65aca1377df71b51db978aab1ddc1431d8529b21123c35991ea0a2756a74e3bd"
+sources:
+  - "/sources/highlights/2026-04-02/00__geekbb__claude-code源码泄露背后-44个功能开关正在打开一个被低估的竞争维度.md"
 ---
 
 # Claude Code源码泄露背后：44个功能开关正在打开一个被低估的竞争维度

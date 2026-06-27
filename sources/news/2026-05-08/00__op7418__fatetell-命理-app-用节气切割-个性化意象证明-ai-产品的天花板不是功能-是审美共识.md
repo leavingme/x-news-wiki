@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "FateTell 命理 App 用节气切割+个性化意象证明：AI 产品的天花板不是功能，是审美共识"
 description: "**命理 App FateTell 的设计案例揭示了一个被低估的产品逻辑：文化符号的视觉化比功能堆砌更有用户粘性。** - 以二十四节气而非阳历月份切割运程，体现中式时间观的差异化设计 - 根据个人八字生成专属界面（属鸡显示印章、树木随季节变色），每个用户的 UI 本身就是产品价值 - 玻璃拟态+液态玻璃效果在小众品类中做到顶级质感，说明设计品味与技术栈无关  gakki 锐评：当所有人都在卷 A"
 resource: "https://x.com/i/status/2052788859164086589"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2052788859164086589"
+created: "2026-05-08"
+updated: "2026-06-26"
+sha256: "b07a69a2ddf6e29b1f58227ee696a8ed9cb011075fae1d1b58fd37d58a2ab201"
+sources:
+  - "/sources/news/2026-05-08/00__op7418__fatetell-命理-app-用节气切割-个性化意象证明-ai-产品的天花板不是功能-是审美共识.md"
 ---
 
 # FateTell 命理 App 用节气切割+个性化意象证明：AI 产品的天花板不是功能，是审美共识

@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "课外班老师比大厂员工更适合创业？——非技术背景的隐性优势正在被验证"
 description: "**[一句话核心判断]**  铁锤人发问：为什么课外班老师比大厂员工更适合创业？问题本身比答案更有价值，因为它指向一个被忽视的结构性现象。  **信息增量：** - 课外班老师的核心能力是「把复杂的东西讲给外行听」——这本质上是一种产品能力（Product-Led） - 大厂员工的优势是执行确定性和专业深度，但在「从零到一」的阶段，这种优势往往变成包袱 - 这个问题暗示：AI 时代「产品定义能力」"
 resource: "https://x.com/i/status/2061371899545113068"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2061371899545113068"
+created: "2026-06-01"
+updated: "2026-06-26"
+sha256: "5299f9cbfb7e05dc8e474ca9c1196a7b66fc6a5f29c88fcd48036f01d35fdbbe"
+sources:
+  - "/sources/news/2026-06-01/00__lxfater__课外班老师比大厂员工更适合创业-非技术背景的隐性优势正在被验证.md"
 ---
 
 # 课外班老师比大厂员工更适合创业？——非技术背景的隐性优势正在被验证

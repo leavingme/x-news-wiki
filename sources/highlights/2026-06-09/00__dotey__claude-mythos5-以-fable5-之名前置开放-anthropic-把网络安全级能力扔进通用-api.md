@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Claude Mythos5 以「Fable5」之名前置开放：Anthropic 把网络安全级能力扔进通用 API"
 description: "**Anthropic罕见地把内部最高安全级别的 Mythos 模型，以「带护栏」版本 Fable5 直接对 Pro/Max/Team/企业全量开放，输入价砍半（$10/M tokens）。**  - 同底座双胞胎架构：Mythos5仍锁给200+ 网络安全/生命科学合作方；Fable5 用同一基座 + 安全分类器覆盖通用用户。 - 安全机制从「拒绝回答」转向「降级」：触发网络攻击/生化/蒸馏请求"
 resource: "https://x.com/i/status/2064397772103528771"
@@ -22,6 +22,13 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "agent-security-governance"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2064397772103528771"
+created: "2026-06-09"
+updated: "2026-06-26"
+sha256: "63e69e6d7e041f5f23b193ea22b876807f5fe3bbf091524691dfe8b523353070"
+sources:
+  - "/sources/highlights/2026-06-09/00__dotey__claude-mythos5-以-fable5-之名前置开放-anthropic-把网络安全级能力扔进通用-api.md"
 ---
 
 # Claude Mythos5 以「Fable5」之名前置开放：Anthropic 把网络安全级能力扔进通用 API

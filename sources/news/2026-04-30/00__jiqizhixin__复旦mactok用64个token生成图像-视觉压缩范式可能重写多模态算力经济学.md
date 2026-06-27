@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "复旦MacTok用64个Token生成图像：视觉压缩范式可能重写多模态算力经济学"
 description: "**连续Token化可能是图像生成领域成本压缩的下一条主线。**  - 复旦团队提出MacTok，用掩码增强+表征对齐的1D连续Token化方案，将图像Token用量压缩64倍 - ImageNet 256×256 gFID达1.44，512×512达1.52（SiT-XL），在大幅压缩的同时保持SOTA质量 - 核心思路是用不完整数据强迫模型学习鲁棒视觉表征——这与当前主流离散VQ范式形成路线分"
 resource: "https://x.com/i/status/2049708825318748500"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2049708825318748500"
+created: "2026-04-30"
+updated: "2026-06-26"
+sha256: "b2a9bc7c323fb41aadd93d2dd295688fd5efcc1dffc91bb1e80a8e8efbbfd157"
+sources:
+  - "/sources/news/2026-04-30/00__jiqizhixin__复旦mactok用64个token生成图像-视觉压缩范式可能重写多模态算力经济学.md"
 ---
 
 # 复旦MacTok用64个Token生成图像：视觉压缩范式可能重写多模态算力经济学

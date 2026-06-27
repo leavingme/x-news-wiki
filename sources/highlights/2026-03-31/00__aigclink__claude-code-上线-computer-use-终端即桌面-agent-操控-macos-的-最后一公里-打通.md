@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Claude Code 上线 Computer Use：终端即桌面，Agent 操控 macOS 的「最后一公里」打通"
 description: "**[终端 Agent 首次获得原生 GUI 操控能力，开发调试闭环彻底无人化]**  • Claude Code 现可直接在 CLI 内打开 macOS 应用、点击、输入、截图验证，无需离开终端即可完成「写代码→编译→启动→测试→定位 bug→修复→验证」全链路 • 视觉 bug 复现从「手工调窗口截图发 issue」变为「一句话指令自动操作+截图+分析」，开发效率质变 • 安全设计：终端窗口不"
 resource: "https://x.com/i/status/2038760017470620095"
@@ -22,6 +22,13 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "claude-code-ecosystem"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2038760017470620095"
+created: "2026-03-30"
+updated: "2026-06-26"
+sha256: "77755341ad1081529c74e6083364ab205f1b920b7613f54e1510d3318db6f360"
+sources:
+  - "/sources/highlights/2026-03-31/00__aigclink__claude-code-上线-computer-use-终端即桌面-agent-操控-macos-的-最后一公里-打通.md"
 ---
 
 # Claude Code 上线 Computer Use：终端即桌面，Agent 操控 macOS 的「最后一公里」打通

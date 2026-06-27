@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "宝玉反驳「Claude Design 选 HTML 而非 React」：设计即交互，树形结构才是 Coding Agent 的真接口"
 description: "**[一句话核心判断]** Claude Design 的技术选型之争，本质是「设计稿」与「交互稿」的范式分歧——HTML 是像素，React 才是可被 Agent 操作的语义结构。  要点： - 设计稿不是静态图纸，需要根据数据动态变化 UI（UX 交互设计），HTML 难以承载，React 的组件化天然契合 - 巨型 HTML 文件上下文不可拆、不可复用，复杂场景下重构成本爆炸；React 把"
 resource: "https://x.com/i/status/2063779728360698168"
@@ -22,6 +22,13 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "claude-design-tool"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2063779728360698168"
+created: "2026-06-08"
+updated: "2026-06-26"
+sha256: "7fdd29a1d43a8479236086b932c97e1d33f50c7d75247677b9352713fe2621a1"
+sources:
+  - "/sources/highlights/2026-06-08/00__dotey__宝玉反驳-claude-design-选-html-而非-react-设计即交互-树形结构才是-coding-agent.md"
 ---
 
 # 宝玉反驳「Claude Design 选 HTML 而非 React」：设计即交互，树形结构才是 Coding Agent 的真接口

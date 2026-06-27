@@ -1,5 +1,5 @@
 ---
-type: "Author"
+type: "entity"
 title: "巴菲森20x (@bfs20x)"
 description: "X/Twitter 作者 @bfs20x。共收录 1 条 AI 精选推文。"
 tags:
@@ -12,6 +12,12 @@ x_author_name: "巴菲森20x"
 x_tweet_count: 1
 x_first_seen: "2026-02-24T01:00:41.895Z"
 x_last_seen: "2026-02-24T01:00:41.895Z"
+type_okf: "Author"
+created: "2026-02-24"
+updated: "2026-06-26"
+sha256: "6b3105ab1f3a8dc46a4153b693e81ab99ee602e5846a36ffc977d491f6fdba23"
+sources:
+  - "/sources/highlights/2026-02-24/00__bfs20x__部署-openclaw-的三重境界-从工具通才到系统架构师.md"
 ---
 
 # 巴菲森20x (@bfs20x)

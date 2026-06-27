@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "AI 让个体创作者击穿影视公司：Cuimao 一人产出黑镜级别内容"
 description: "**AI 工具链把单人创作者的内容产能天花板抹到了影视公司水平。**  - Michael Anti 观察到 Cuimao 一己之力在产出黑镜新季级别内容 - 痛点：传统影视公司组织响应速度反而落后于个人 - 信号：内容工业的边际产能差距被 AI 大幅压缩   影视公司慢的本质是组织决策链路慢，不是技术能力慢。AI 抹平的是产能差，不是商业化差——这两件事别混为一谈。"
 resource: "https://x.com/i/status/2068970193980973295"
@@ -22,6 +22,13 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "ai-short-drama-industrialization"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2068970193980973295"
+created: "2026-06-22"
+updated: "2026-06-26"
+sha256: "c0baafa1edd89fe03ef8db2571d2b320809b15a34b93445c29d4afea5c5051e3"
+sources:
+  - "/sources/news/2026-06-22/00__mranti__ai-让个体创作者击穿影视公司-cuimao-一人产出黑镜级别内容.md"
 ---
 
 # AI 让个体创作者击穿影视公司：Cuimao 一人产出黑镜级别内容

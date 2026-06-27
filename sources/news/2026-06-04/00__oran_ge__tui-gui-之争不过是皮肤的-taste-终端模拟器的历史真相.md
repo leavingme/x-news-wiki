@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "TUI/GUI 之争不过是皮肤的 taste：终端模拟器的历史真相"
 description: "**[「终端模拟器」这个名字本身就说明了一切]**  终端模拟器（terminal emulator）之所以叫「模拟器」，是因为它们最初是模仿独立计算机终端的程序——那些通过线缆连接至主机的专用显示器和键盘设备。今天的 TUI/GUI 之争，追溯到底层其实只是「皮肤」的风格差异，而非本质不同。  gakki 的锐评：这个冷知识揭示了一个更深的隐喻：当我们在争论 Terminal 的 UI 层时，真"
 resource: "https://x.com/i/status/2062376545906495952"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2062376545906495952"
+created: "2026-06-04"
+updated: "2026-06-26"
+sha256: "649f25f5c9dd4d7ea63de6275d36edf085f6136e00642901b838479201678f82"
+sources:
+  - "/sources/news/2026-06-04/00__oran_ge__tui-gui-之争不过是皮肤的-taste-终端模拟器的历史真相.md"
 ---
 
 # TUI/GUI 之争不过是皮肤的 taste：终端模拟器的历史真相

@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "宝玉开源 info-digest Skill：把\"AI 资讯编辑\"做成一键复用模板"
 description: "**[宝玉把日常 AI 资讯编辑流程固化为 info-digest Skill，开源给《图解Skill》读者]** - 来自《图解Skill》配套 Repo，默认用 Claude 网页 + Opus 4.6，宝玉大部分 AI 资讯初稿出自此 Skill - 四条可借鉴原则：① 站在读者关心角度写（拒绝自嗨）② 联网检索做事实核查 ③ 交代清楚背景信息 ④ 按 X/微博格式生成 - 核心选型逻辑：选"
 resource: "https://x.com/i/status/2066621150395015310"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2066621150395015310"
+created: "2026-06-15"
+updated: "2026-06-26"
+sha256: "1eeb6a3a4da7271eb89bddd591ec43215408979461c6b821e9714a44162a9be4"
+sources:
+  - "/sources/highlights/2026-06-15/00__dotey__宝玉开源-info-digest-skill-把-ai-资讯编辑-做成一键复用模板.md"
 ---
 
 # 宝玉开源 info-digest Skill：把"AI 资讯编辑"做成一键复用模板

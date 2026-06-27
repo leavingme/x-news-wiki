@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "OpenAI 解除云绑定：微软仍是首发合作伙伴，但 Agent 已可自由部署至任意云"
 description: "**[微软与 OpenAI 关系重构：从独占到「主合作伙伴」]**  Sam Altman 亲自确认双方合作更新：微软保持「主要云合作伙伴」地位，但 OpenAI 正式获得向所有云厂商分发产品的自主权。这意味着 Anthropic、Mistral、Groq 等推理平台，以及 AWS、阿里云等竞争者，都能以商业方式接入 OpenAI 的模型能力。  - 收入分成延续至 2030 年，产品供给延续至 "
 resource: "https://x.com/sama/status/2048755148361707946"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
+
 x_source: "ai-trend-digest"
+type_okf: "X Tweet"
+source_url: "https://x.com/sama/status/2048755148361707946"
+created: "2026-04-27"
+updated: "2026-06-26"
+sha256: "de029680e1ddbb308539ef6fea3f82d615d1e2dda3c160f31133f53d4c1f1537"
+sources:
+  - "/sources/highlights/2026-04-27/00__sama__openai-解除云绑定-微软仍是首发合作伙伴-但-agent-已可自由部署至任意云.md"
 ---
 
 # OpenAI 解除云绑定：微软仍是首发合作伙伴，但 Agent 已可自由部署至任意云

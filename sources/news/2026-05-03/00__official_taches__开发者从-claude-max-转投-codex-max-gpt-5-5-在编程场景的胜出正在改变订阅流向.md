@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "开发者从 Claude Max 转投 Codex Max：GPT-5.5 在编程场景的胜出正在改变订阅流向"
 description: "**当用户开始用脚投票，模型能力差距就从 Benchmark 变成了现金流。**  - 开发者公开宣布取消两个 Claude Max 订阅、切换到两个 Codex Max，直指 GPT-5.5 是最强编程模型 - 这不是个别偏好——当头部开发者开始公开站队，平台迁移的社交证明效应会指数级放大 - Anthropic 的护城河正在被侵蚀：Claude Code 的「克制设计」哲学在绝对能力差距面前能"
 resource: "https://x.com/official_taches/status/2050917754782330957"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "ai-trend-digest"
+type_okf: "X Tweet"
+source_url: "https://x.com/official_taches/status/2050917754782330957"
+created: "2026-05-03"
+updated: "2026-06-26"
+sha256: "3e069c361b033fdc6325934c357d6e3ea88cdeeaed64ba4910d66ab4cf429e50"
+sources:
+  - "/sources/news/2026-05-03/00__official_taches__开发者从-claude-max-转投-codex-max-gpt-5-5-在编程场景的胜出正在改变订阅流向.md"
 ---
 
 # 开发者从 Claude Max 转投 Codex Max：GPT-5.5 在编程场景的胜出正在改变订阅流向

@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "DeepSeek V4 实测数据曝光：国产模型与美国前沿差距约 8 个月，且在扩大"
 description: "**中国头部开源模型与美国前沿的代际差正在被量化——约 8 个月，且差距未收敛。** - 多位独立研究者基于能力评测交叉验证，DeepSeek V4 在推理、多模态、长上下文等维度落后于 Claude/GPT 最新版本约 8 个月 - 值得注意的是，这并非算力差距的直接映射，而是模型架构与训练方法论的综合落后 - 查重参照中摩根士丹利报告聚焦芯片/算力侧，本条补充了模型能力侧的差距数据  锐评：8"
 resource: "https://x.com/scaling01/status/2050395242663223751"
@@ -22,6 +22,13 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "deepseek-v4-open-source"
 x_source: "ai-trend-digest"
+type_okf: "X Tweet"
+source_url: "https://x.com/scaling01/status/2050395242663223751"
+created: "2026-05-02"
+updated: "2026-06-26"
+sha256: "f662c6a447002e6f6749d896f068922012f72232f6c98458d0f559559cd09c13"
+sources:
+  - "/sources/news/2026-05-02/00__scaling01__deepseek-v4-实测数据曝光-国产模型与美国前沿差距约-8-个月-且在扩大.md"
 ---
 
 # DeepSeek V4 实测数据曝光：国产模型与美国前沿差距约 8 个月，且在扩大

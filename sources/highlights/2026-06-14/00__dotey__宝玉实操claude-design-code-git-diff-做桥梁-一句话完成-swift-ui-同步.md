@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "宝玉实操Claude Design→Code：git diff 做桥梁，一句话完成 Swift UI 同步"
 description: "**Claude Design 与 Claude Code 之间的 git diff 工作流首次有了完整可复现的工程样例。**  - 视频字幕编辑器：标题文字从单行改两行，设计稿修改后导出 zip 即可在项目中 git diff 看到精确变更 - 给 Claude Code 一句提示：「参考 design 目录下的相关变更，对 UI 进行变更」，Claude 自动读 diff、定位修改点、改 Sw"
 resource: "https://x.com/i/status/2065940342264770589"
@@ -22,6 +22,13 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "claude-design-disruption"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2065940342264770589"
+created: "2026-06-13"
+updated: "2026-06-26"
+sha256: "0ae2ce649cf6b471a10ace349d99e6feb80b7f31775d787ed11e8e01583deae6"
+sources:
+  - "/sources/highlights/2026-06-14/00__dotey__宝玉实操claude-design-code-git-diff-做桥梁-一句话完成-swift-ui-同步.md"
 ---
 
 # 宝玉实操Claude Design→Code：git diff 做桥梁，一句话完成 Swift UI 同步

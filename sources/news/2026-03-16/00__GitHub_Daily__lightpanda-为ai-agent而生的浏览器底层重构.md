@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Lightpanda：为AI Agent而生的浏览器底层重构"
 description: "**[Agent浏览器进入专用化时代]** • 内存占用仅为Chrome的1/9，执行速度快11倍，专为机器而非人类设计 • 原生兼容Playwright/Puppeteer，现有脚本可平滑迁移，降低Agent接入门槛 • Docker一键部署，解决大规模爬虫和AI Agent网页交互的基础设施痛点  gakki锐评：当浏览器从\"为人类服务\"转向\"为Agent服务\"，这不仅是性能优化，而是整个We"
 resource: "https://x.com/i/status/2032607702829105302"
@@ -22,6 +22,13 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "agent-browser-token-efficiency"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2032607702829105302"
+created: "2026-03-14"
+updated: "2026-06-26"
+sha256: "4e2a861072c0a9895345dee96b4eab9c0effc0e31bdbefa6c60bec15d7c8f443"
+sources:
+  - "/sources/news/2026-03-16/00__GitHub_Daily__lightpanda-为ai-agent而生的浏览器底层重构.md"
 ---
 
 # Lightpanda：为AI Agent而生的浏览器底层重构

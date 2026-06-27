@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Anthropic CEO「死亡倒计时」：程序员职业的终结时间表"
 description: "**[AI接管编码的时间表已被公开量化]** • Anthropic内部顶级工程师已停止写代码，仅做AI输出校对 • 给出明确窗口：6-12个月内AI将包揽绝大部分软件开发工作 • 信号意义：这不是未来叙事，而是正在发生的组织内部变革  这不再是「AI能否写代码」的技术问题，而是「人类工程师角色如何重新定义」的结构性质变。当顶级实验室率先放弃编码，行业跟随只是时间问题。"
 resource: "https://x.com/i/status/2036351905819963859"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2036351905819963859"
+created: "2026-03-24"
+updated: "2026-06-26"
+sha256: "b6ee0356f76196c2bc940d1c5a1a09ada9b25f9b1a5f5055b283251768b16d24"
+sources:
+  - "/sources/highlights/2026-03-24/00__oragnes__anthropic-ceo-死亡倒计时-程序员职业的终结时间表.md"
 ---
 
 # Anthropic CEO「死亡倒计时」：程序员职业的终结时间表

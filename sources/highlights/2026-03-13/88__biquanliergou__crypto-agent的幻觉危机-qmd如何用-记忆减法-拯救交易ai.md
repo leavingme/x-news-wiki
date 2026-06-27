@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Crypto Agent的幻觉危机：QMD如何用「记忆减法」拯救交易AI"
 description: "**[币安AI交易Agent的致命伤不是策略，是上下文过载导致的幻觉胡编]** • 实测：长上下文输入让AI生成「充满Bug、连基础回测都跑不通的半成品」 • QMD（Shopify创始人开发的本地语义搜索引擎）方案：BM25+向量+LLM重排序，只喂2-3段精华 • 效果：Token消耗降低95%，提速5-50倍，成本砍掉90%  gakki 锐评：Agent金融化的瓶颈不在交易所API，在记忆"
 resource: "https://x.com/i/status/2032301129204449622"
@@ -22,6 +22,13 @@ x_selected: 2
 x_priority: 88
 x_related_topic: "ai-crypto-agent-infra"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2032301129204449622"
+created: "2026-03-13"
+updated: "2026-06-26"
+sha256: "d36410f62e7e8ab6fb8205e5254b4b133ae8e94badf0a814ba2bbd67605d65fc"
+sources:
+  - "/sources/highlights/2026-03-13/88__biquanliergou__crypto-agent的幻觉危机-qmd如何用-记忆减法-拯救交易ai.md"
 ---
 
 # Crypto Agent的幻觉危机：QMD如何用「记忆减法」拯救交易AI

@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "藏师傅PPT Skills即将破万Star：Skills生态正从工具向「可交易制品」跃迁"
 description: "**[万Star背后：Skills不是功能，是可演化、可分享的标准化交付物]**  藏师傅的 PPT Skills 通过 Codex 分析安装数据，发现即将突破万 Star。这是一个信号：Skills 作为一种可交付制品的概念正在被开发者社区认可——它不是某个 AI 工具的附属功能，而是一个独立可分发、可版本演进的知识单元。  信息增量：Skills 的本质价值在于**标准化+可演化+可分享三位一"
 resource: "https://x.com/i/status/2055121582776021079"
@@ -22,6 +22,13 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "skills-ecosystem-standards"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2055121582776021079"
+created: "2026-05-15"
+updated: "2026-06-26"
+sha256: "71b1d58b8ffc24db52ad9700d825bb3638efa95b00a0ad4f8b15e08181ac3a53"
+sources:
+  - "/sources/news/2026-05-15/00__op7418__藏师傅ppt-skills即将破万star-skills生态正从工具向-可交易制品-跃迁.md"
 ---
 
 # 藏师傅PPT Skills即将破万Star：Skills生态正从工具向「可交易制品」跃迁

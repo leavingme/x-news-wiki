@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Claude 降级证据链：Opus 思考量腰斩，Anthropic 疑似推出「AI shrinkflation」"
 description: "**[Anthropic 的信任危机：付费用户正在被系统性地偷工减料]**  实测数据显示 Opus 4.6 thinking token 量下降 66%，Claude Code 创始人被迫回应但无实质解释。  核心问题： - 用户花相同价格，获取的是被主动降级的模型 - 泄露源码暴露内部存在「满血版」开关，仅供内部使用 - 社区将此命名为「AI shrinkflation」——质量下降但价格不变"
 resource: "https://x.com/i/status/2041791050952667328"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2041791050952667328"
+created: "2026-04-08"
+updated: "2026-06-26"
+sha256: "b961dd98ada2efee194bd088a8c5b04bb1251f01e24badcc421f7901f2962f28"
+sources:
+  - "/sources/highlights/2026-04-08/00__lxfater__claude-降级证据链-opus-思考量腰斩-anthropic-疑似推出-ai-shrinkflation.md"
 ---
 
 # Claude 降级证据链：Opus 思考量腰斩，Anthropic 疑似推出「AI shrinkflation」

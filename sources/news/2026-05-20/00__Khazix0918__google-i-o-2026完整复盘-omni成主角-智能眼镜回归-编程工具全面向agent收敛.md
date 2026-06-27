@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Google I/O 2026完整复盘：Omni成主角，智能眼镜回归，编程工具全面向Agent收敛"
 description: "**一句话核心判断** 综合凌晨Google I/O发布：Omni多模态模型、智能眼镜回归、Antigravit整合Gemini——谷歌在AI时代终于找到了自己的节奏，不再堆参数而是围绕\"环境感知+实时助手\"构建完整交互闭环。  **要点** - Omni作为统一多模态模型整合了语音、视频、文本处理能力 - 智能眼镜是硬件层面的落点，定位\"手机放兜里\"的日常助手 - 编程工具（Antigravit"
 resource: "https://x.com/i/status/2056894400320708671"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2056894400320708671"
+created: "2026-05-20"
+updated: "2026-06-26"
+sha256: "6d6fed31ae57e8c1d7d47098057f101fa3dadcb7285521f8e9fa81000fdc61c4"
+sources:
+  - "/sources/news/2026-05-20/00__Khazix0918__google-i-o-2026完整复盘-omni成主角-智能眼镜回归-编程工具全面向agent收敛.md"
 ---
 
 # Google I/O 2026完整复盘：Omni成主角，智能眼镜回归，编程工具全面向Agent收敛

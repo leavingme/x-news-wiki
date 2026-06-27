@@ -1,5 +1,5 @@
 ---
-type: "Author"
+type: "entity"
 title: "XDmnnn不淡 (@XDmnnn0616)"
 description: "X/Twitter 作者 @XDmnnn0616。共收录 1 条 AI 精选推文。"
 tags:
@@ -12,6 +12,12 @@ x_author_name: "XDmnnn不淡"
 x_tweet_count: 1
 x_first_seen: "2026-04-19T00:45:05.739Z"
 x_last_seen: "2026-04-19T00:45:05.739Z"
+type_okf: "Author"
+created: "2026-04-19"
+updated: "2026-06-26"
+sha256: "5ce67fd1f73faa3a8b88d1acd78d1a186a11b6069a7e3e69ddf4187946e285b9"
+sources:
+  - "/sources/news/2026-04-19/00__XDmnnn0616__3000x实证-ai交易agent进入-策略可复现-阶段.md"
 ---
 
 # XDmnnn不淡 (@XDmnnn0616)

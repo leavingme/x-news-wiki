@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "代码混淆的极限：50 万行代码的 AI 还原存在三重不可逾越壁垒"
 description: "**[混淆代码的反逆向工程价值远超预期]**  宝玉指出，即便混淆后的 JS 代码最终能被还原，仍存在三重壁垒：1）50万行代码还原代价极大，AI 让其还原后还能运行目前做不到；2）注释必然丢失；3）代码结构和组织方式完全不可见。  这直接回答了一个工程实践中的关键问题：代码混淆在 AI 时代是否还有意义？答案是有，且其核心价值不在于「绝对不可破解」，而在于「提高逆向成本」和「保留信息差」。  g"
 resource: "https://x.com/i/status/2039100369108603136"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2039100369108603136"
+created: "2026-03-31"
+updated: "2026-06-26"
+sha256: "547cf9c14ca780a4fa1e2dfb027da4ad0d972e9e97a8587cc3bda001edcc4061"
+sources:
+  - "/sources/news/2026-04-01/00__dotey__代码混淆的极限-50-万行代码的-ai-还原存在三重不可逾越壁垒.md"
 ---
 
 # 代码混淆的极限：50 万行代码的 AI 还原存在三重不可逾越壁垒

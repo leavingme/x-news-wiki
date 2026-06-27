@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "AGI Bar上海：AI行业的物理地标意味着什么"
 description: "**[线下空间正在成为AI文化的符号载体]**  Orange AI在上海开了AGI Bar，并制作了0号会员卡（不锈钢+红外激光烧灼工艺）。定位是「上海AI行业的新地标」， slogan是「where the bar is AGI」。  信息增量有限——更像是一个行业社交空间的开业 announcement。但值得关注的信号：AI行业开始出现「线下圣地」文化，类似于互联网时代的「车库创业」物理符"
 resource: "https://x.com/i/status/2060573618451685386"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2060573618451685386"
+created: "2026-05-30"
+updated: "2026-06-26"
+sha256: "bbf90249431914608843bd41d7c64ce632bd25c299965043180c77dc3165f4fb"
+sources:
+  - "/sources/news/2026-05-30/00__oran_ge__agi-bar上海-ai行业的物理地标意味着什么.md"
 ---
 
 # AGI Bar上海：AI行业的物理地标意味着什么

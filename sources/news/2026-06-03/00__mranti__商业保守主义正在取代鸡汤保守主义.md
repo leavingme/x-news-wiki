@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "商业保守主义正在取代鸡汤保守主义"
 description: "**[「商业保守主义」与「鸡汤保守主义」的对立正在成为新的认知框架]**  Michael Anti对「商业保守主义」和「鸡汤保守主义」做出了区分。这个分类本身有价值——前者是务实的、基于商业逻辑的保守，后者是情绪性的、自我安慰式的保守。在AI创业语境下，这个区分指向一个正在发生的事：太多创业者用「鸡汤保守主义」来掩盖自己的战略懒惰，而真正的幸存者靠的是冷硬的商业保守主义——控制边际成本、拒绝宏大"
 resource: "https://x.com/i/status/2062186431435673797"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2062186431435673797"
+created: "2026-06-03"
+updated: "2026-06-26"
+sha256: "2f05091a7db5bd4c91e6f9f95fba474f90f9f9dd56c1ea6f13a46b95bd05bad9"
+sources:
+  - "/sources/news/2026-06-03/00__mranti__商业保守主义正在取代鸡汤保守主义.md"
 ---
 
 # 商业保守主义正在取代鸡汤保守主义

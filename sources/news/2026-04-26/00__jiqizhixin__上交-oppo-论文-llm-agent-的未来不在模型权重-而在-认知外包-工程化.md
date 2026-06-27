@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "上交 + OPPO 论文：LLM Agent 的未来不在模型权重，而在「认知外包」工程化"
 description: "**一句话核心判断：LLM Agent 的下一代竞争是外部工具链的工程深度，而非模型参数规模。**  - 上海交大与 OPPO 联合团队提出「外部化（externalization）」概念——将记忆、技能、会话规则等认知负担从模型内部转移到可靠的外部工具箱。 - 核心逻辑：复杂认知问题（如长程记忆、多技能编排）用内部权重解决是低效的，将其转化为结构化的外部操作步骤，成本更低、可靠性更高。 - 论文"
 resource: "https://x.com/i/status/2048415805273247992"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2048415805273247992"
+created: "2026-04-26"
+updated: "2026-06-26"
+sha256: "ba30346c06278657cb782f2f5ef44774a0c93f45745991f4c0a9e8eb9f5fb960"
+sources:
+  - "/sources/news/2026-04-26/00__jiqizhixin__上交-oppo-论文-llm-agent-的未来不在模型权重-而在-认知外包-工程化.md"
 ---
 
 # 上交 + OPPO 论文：LLM Agent 的未来不在模型权重，而在「认知外包」工程化

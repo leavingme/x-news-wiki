@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "输入法即入口：豆包能否用场景整合打败Typeless的简约哲学"
 description: "**一句话核心判断** 余温从Typeless+微信输入法的\"不想多开窗口\"逻辑，切换到豆包输入法——输入法作为AI入口的争夺正在从\"功能叠加\"转向\"场景融合\"，窗口数即用户认知负担的成本曲线。  **信息增量** - 用户现状：余温用Typeless（ChatGPT UI）配合微信输入法，但微信输入法准确率不足，核心痛点是不想引入额外窗口。 - 豆包输入机的测试逻辑：通过在输入法层面集成AI能力"
 resource: "https://x.com/i/status/2060390503112147378"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2060390503112147378"
+created: "2026-05-29"
+updated: "2026-06-26"
+sha256: "4d938d8c83632692772a2704f4c8529dc1f77a2a1b27946c1cdd984e07ea0cc7"
+sources:
+  - "/sources/news/2026-05-29/00__gkxspace__输入法即入口-豆包能否用场景整合打败typeless的简约哲学.md"
 ---
 
 # 输入法即入口：豆包能否用场景整合打败Typeless的简约哲学

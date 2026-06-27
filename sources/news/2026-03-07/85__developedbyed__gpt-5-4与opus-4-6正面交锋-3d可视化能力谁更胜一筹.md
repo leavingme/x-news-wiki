@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "GPT-5.4与Opus 4.6正面交锋：3D可视化能力谁更胜一筹？"
 description: "**[生产级3D应用成为大模型能力试金石]** • GPT-5.4在光效后处理上表现更优，Opus 4.6架构更稳健 • React+Three.js技术栈成为「全栈Agent」的标配能力 • 实时数据可视化场景揭示模型在复杂交互中的工程化差异  gakki锐评：当模型能生成「可旋转的地球+实时飞机」，coding Agent的想象力边界已经被彻底打破。"
 resource: "https://x.com/i/status/2030061779737530760"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 85
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2030061779737530760"
+created: "2026-03-06"
+updated: "2026-06-26"
+sha256: "ac87481b07067a14cfc5a2ee4d32bc7eb3fc2f9c4d5bc67298b73068e2b44231"
+sources:
+  - "/sources/news/2026-03-07/85__developedbyed__gpt-5-4与opus-4-6正面交锋-3d可视化能力谁更胜一筹.md"
 ---
 
 # GPT-5.4与Opus 4.6正面交锋：3D可视化能力谁更胜一筹？

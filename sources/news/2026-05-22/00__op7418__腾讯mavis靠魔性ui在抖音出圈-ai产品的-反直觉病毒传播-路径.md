@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "腾讯Mavis靠魔性UI在抖音出圈：AI产品的「反直觉病毒传播」路径"
 description: "**[AI产品出圈可以跟模型能力完全无关]**  腾讯Mavis（文档AI助手？）今天在抖音刷屏，原因不是技术领先，而是一个「喝咖啡/跑步时的魔性界面交互」。这反直觉但符合传播学——用户记住的是体验奇观，不是benchmark数字。  当AI产品的宣发开始学习游戏/短视频的病毒逻辑，而不是科技媒体的评测套路，说明这个市场的用户正在分层：技术用户在比较模型参数，大众用户在传播「有趣就好」。  gak"
 resource: "https://x.com/i/status/2057737525863866584"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2057737525863866584"
+created: "2026-05-22"
+updated: "2026-06-26"
+sha256: "da3b88cd0b7d04fb8038584389fa5bb8ce983892fa4ed4f5bb9b9b3545cf623b"
+sources:
+  - "/sources/news/2026-05-22/00__op7418__腾讯mavis靠魔性ui在抖音出圈-ai产品的-反直觉病毒传播-路径.md"
 ---
 
 # 腾讯Mavis靠魔性UI在抖音出圈：AI产品的「反直觉病毒传播」路径

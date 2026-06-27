@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "mimo 2.5 Agentic 能力获口碑传播：端侧 Agent 正在从概念验证进入社交验证阶段"
 description: "**[端侧 Agent 口碑扩散：社交层验证正在替代官方宣布]**  向阳乔木转述「身边朋友都说 mimo 2.5 的 Agentic 能力不错」，并主动申请试用。核心信号：端侧 Agent 的评价维度正在从技术指标转向社交口碑，「朋友说好」成为分发信任锚。  - 信息结构：弱声明（朋友说）+ 强行为（主动申请），说明口碑已越过「听说过」进入「要试试」的决策阶段 - 渠道价值：这种推文本质是自然发"
 resource: "https://x.com/i/status/2049185893026783341"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2049185893026783341"
+created: "2026-04-28"
+updated: "2026-06-26"
+sha256: "c7f82e08303acaf15d2a658245f31dc3466ce1c3ade9479e9d1f027469bf8b99"
+sources:
+  - "/sources/news/2026-04-28/00__vista8__mimo-2-5-agentic-能力获口碑传播-端侧-agent-正在从概念验证进入社交验证阶段.md"
 ---
 
 # mimo 2.5 Agentic 能力获口碑传播：端侧 Agent 正在从概念验证进入社交验证阶段

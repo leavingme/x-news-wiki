@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "上下文重建成本才是企业AI采纳的真凶，而非模型能力"
 description: "**AI在组织的价值落地取决于「上下文复用率」，而非单次输出质量。**  Lucius实践验证：AI要成为组织劳动单元而非辅助工具，需要解决的不是信任问题，而是渐进式授权和可追溯验证的制度设计。AI输出要被组织吸收，才能完成从个人提速到组织提效的关键跃迁。  核心洞察：上下文重建成本拖慢企业速度，这比模型本身的能力瓶颈更隐蔽、更致命。当企业发现AI在个人端效率惊人但组织端收效甚微，病因往往不是AI"
 resource: "https://x.com/i/status/2060616473991958822"
@@ -22,6 +22,13 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "agent-context-asset-management"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2060616473991958822"
+created: "2026-05-30"
+updated: "2026-06-26"
+sha256: "6c758b3da545cddfea6159b62faeae7cd5fcc72375b12fc3408bedff6edb9a63"
+sources:
+  - "/sources/highlights/2026-05-30/00__Rourou0413__上下文重建成本才是企业ai采纳的真凶-而非模型能力.md"
 ---
 
 # 上下文重建成本才是企业AI采纳的真凶，而非模型能力

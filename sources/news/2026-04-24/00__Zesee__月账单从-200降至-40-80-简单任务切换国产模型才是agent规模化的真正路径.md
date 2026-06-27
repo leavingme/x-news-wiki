@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "月账单从$200降至$40：80%简单任务切换国产模型才是Agent规模化的真正路径"
 description: "**[不是国产模型变强了，是Claude做简单分类太奢侈——成本结构决定Agent架构选择]**  • 80%简单任务切换到国产模型后，月账单从$200+降到$40，降幅80%  • 同样的简单分类任务：Claude收费$0.12/次，Elephant Alpha收费$0.008/次——15倍差价  • 这不是技术能力问题，是任务与模型匹配度的经济学问题。只有模型成本不再是负担，Agent才能真正"
 resource: "https://x.com/i/status/2047622983603143064"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2047622983603143064"
+created: "2026-04-24"
+updated: "2026-06-26"
+sha256: "c84c80f221f87765e8e32f76e67944c195a26827c7f617179f6f221720c101e9"
+sources:
+  - "/sources/news/2026-04-24/00__Zesee__月账单从-200降至-40-80-简单任务切换国产模型才是agent规模化的真正路径.md"
 ---
 
 # 月账单从$200降至$40：80%简单任务切换国产模型才是Agent规模化的真正路径

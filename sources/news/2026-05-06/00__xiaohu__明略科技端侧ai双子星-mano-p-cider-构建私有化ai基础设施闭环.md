@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "明略科技端侧AI双子星：Mano-P+Cider 构建私有化AI基础设施闭环"
 description: "**明略科技正用「看懂界面+端侧加速」组合拳，试图定义端侧私有化 AI 的基础设施标准。**  - Mano-P 解决端侧 Agent 的感知-执行-验证全链路，Cider 解决 Apple Silicon 上的推理加速与内存优化 - 两者合在一起形成完整闭环：从「能跑」到「跑得快」，覆盖端侧 AI 从模型能力到工程效率的完整栈 - 端侧私有化正在从「能用」走向「好用」，这是对云端 API 依赖的"
 resource: "https://x.com/i/status/2051975627386044580"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2051975627386044580"
+created: "2026-05-06"
+updated: "2026-06-26"
+sha256: "bab69a8d62af447f573907cf4269b44c9c857e29e27d85c0b40c1a546cc61219"
+sources:
+  - "/sources/news/2026-05-06/00__xiaohu__明略科技端侧ai双子星-mano-p-cider-构建私有化ai基础设施闭环.md"
 ---
 
 # 明略科技端侧AI双子星：Mano-P+Cider 构建私有化AI基础设施闭环

@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "AI模型从\"互联网产品\"升级为\"军民两用战略资产\"：Anthropic正在重写全球模型分发规则"
 description: "**模型发布已经不再是互联网产品上线逻辑，而是进入了类似网络武器级别的战略管控阶段。**  - **分发逻辑彻底改变**：OpenAI 等头部模型已不能正常推送上线，必须先向合规 B 端客户交付，由美国政府逐一审核——这意味着\"先发布、再迭代\"的互联网节奏被废止。 - **护城河从\"模型最强\"转向\"可被安全合法持续交付\"**：美国模型公司的竞���壁垒正在从技术领先变成准入许可 + 政府关系，模型"
 resource: "https://x.com/i/status/2070336764620026339"
@@ -22,6 +22,13 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "ai-technology-iron-curtain"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2070336764620026339"
+created: "2026-06-26"
+updated: "2026-06-26"
+sha256: "8474ab12f4053a7220f4648afce5f6d99217447b726cf9d15434aa66d319b0a1"
+sources:
+  - "/sources/highlights/2026-06-26/00__op7418__ai模型从-互联网产品-升级为-军民两用战略资产-anthropic正在重写全球模型分发规则.md"
 ---
 
 # AI模型从"互联网产品"升级为"军民两用战略资产"：Anthropic正在重写全球模型分发规则

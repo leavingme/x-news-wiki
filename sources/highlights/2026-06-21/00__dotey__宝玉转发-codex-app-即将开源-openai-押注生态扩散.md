@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "宝玉转发：Codex App 即将开源，OpenAI 押注生态扩散"
 description: "**OpenAI 选择把 Codex App 源代码放出，押注生态扩散而非闭源护城河。**  - @thsottiaux（OpenAI 成员）确认 Codex App 走向开源路径，宝玉转发背书 - 此前已确认 Codex App 走 Electron+TypeScript 快速包装路线，闭源价值有限，开源可加速社区共建 - 与 Codex CLI、Codex Sites、Record & Rep"
 resource: "https://x.com/i/status/2068748392532975942"
@@ -22,6 +22,13 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "codex-ecosystem-platform-war"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2068748392532975942"
+created: "2026-06-21"
+updated: "2026-06-26"
+sha256: "f1252f99410baff72267ceec52f16ab549eaa8d655621c08d88c12ef53377c0d"
+sources:
+  - "/sources/highlights/2026-06-21/00__dotey__宝玉转发-codex-app-即将开源-openai-押注生态扩散.md"
 ---
 
 # 宝玉转发：Codex App 即将开源，OpenAI 押注生态扩散

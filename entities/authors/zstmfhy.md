@@ -1,5 +1,5 @@
 ---
-type: "Author"
+type: "entity"
 title: "AI奶爸 (@zstmfhy)"
 description: "X/Twitter 作者 @zstmfhy。共收录 4 条 AI 精选推文。"
 tags:
@@ -12,6 +12,15 @@ x_author_name: "AI奶爸"
 x_tweet_count: 4
 x_first_seen: "2026-02-01T12:53:16.289Z"
 x_last_seen: "2026-04-08T00:43:36.670Z"
+type_okf: "Author"
+created: "2026-02-01"
+updated: "2026-06-26"
+sha256: "666d757e457e5dc01aa6a0fed8dd4804f7bac8c2f35659b4315697afdfdce931"
+sources:
+  - "/sources/highlights/2026-03-03/00__zstmfhy__vercel发布agent专用无头浏览器-token效率革命-ai操作桌面应用成现实.md"
+  - "/sources/highlights/2026-03-31/00__zstmfhy__claude-code-15个隐藏功能曝光-从-聊天工具-到-生产力操作系统-的跃迁.md"
+  - "/sources/news/2026-02-01/00__zstmfhy__openclaw-社区大爆发-700-本地技能覆盖生产力全场景.md"
+  - "/sources/news/2026-04-08/00__zstmfhy__xcrawl把自然语言爬虫塞进openclaw-数据采集从-技术活-变成-说人话.md"
 ---
 
 # AI奶爸 (@zstmfhy)

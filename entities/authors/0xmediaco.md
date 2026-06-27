@@ -1,5 +1,5 @@
 ---
-type: "Author"
+type: "entity"
 title: "0xMedia (@0xmediaco)"
 description: "X/Twitter 作者 @0xmediaco。共收录 1 条 AI 精选推文。"
 tags:
@@ -12,6 +12,12 @@ x_author_name: "0xMedia"
 x_tweet_count: 1
 x_first_seen: "2026-04-07T12:44:24.963Z"
 x_last_seen: "2026-04-07T12:44:24.963Z"
+type_okf: "Author"
+created: "2026-04-07"
+updated: "2026-06-26"
+sha256: "0bdcc49e610ebd45e27e80fe3ee5b1ae542cc9d33ccaf9eed3f22b54425103e7"
+sources:
+  - "/sources/news/2026-04-07/00__0xmediaco__virtuals-console-openclaw-60-秒无代码部署链上-agent-平民化-agent-部署进入现实.md"
 ---
 
 # 0xMedia (@0xmediaco)

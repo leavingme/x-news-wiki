@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "多Agent编排中动态注入的系统提示词已成为无法溯源的黑箱"
 description: "**[上下文层叠后有效系统指令不可重建，已成为多Agent编排的结构性隐患]**  多轮对话中，初始 system prompt 叠加对话中途动态注入的 override 后，实际生效的指令集已无法从 API 层直接观测。Orchestrator 基于子 Agent 输出动态注入内容时，这一问题会被指数级放大——没人知道某一轮决策背后真正的 \"系统意图\" 是什么。  当前行业普遍回避这一问题的代价"
 resource: "https://x.com/i/status/2060825655462216142"
@@ -22,6 +22,13 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "multi-agent-framework-ecosystem-comparison"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2060825655462216142"
+created: "2026-05-30"
+updated: "2026-06-26"
+sha256: "c2f4447e1a07e1cf1982ca4b8cc0adf6e14e290a5c36c412084ee613e74816ec"
+sources:
+  - "/sources/news/2026-05-30/00__dotey__多agent编排中动态注入的系统提示词已成为无法溯源的黑箱.md"
 ---
 
 # 多Agent编排中动态注入的系统提示词已成为无法溯源的黑箱

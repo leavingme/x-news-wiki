@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Spotify 把语音 Agent 装进听歌流：音乐 App 范式被重写"
 description: "Spotify 上线语音 Agent：说需求→AI 思考选歌→返回歌单。把搜索/推荐从滑动点击改写为对话流。  — 全球最大音乐流媒体把 Agent 入口放在最高频场景（听歌），验证 consumer Agent 落地路径 — 语音→意图理解→曲库匹配，把 DJ 推荐的体验门槛降到说一句 — 对中文音乐 App（网易云/QQ 音乐）是清晰的范式预警 — 不是新模型，而是 Agent 形态在垂类的成"
 resource: "https://x.com/i/status/2063422532385161381"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2063422532385161381"
+created: "2026-06-07"
+updated: "2026-06-26"
+sha256: "0f531bfb25a56cad6fbebacafc59f00ef4f42b74197523bb6ea0bb360fff7754"
+sources:
+  - "/sources/news/2026-06-07/00__vista8__spotify-把语音-agent-装进听歌流-音乐-app-范式被重写.md"
 ---
 
 # Spotify 把语音 Agent 装进听歌流：音乐 App 范式被重写

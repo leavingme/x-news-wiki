@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Claude Code官方MCP直连Telegram/Discord：移动端Agent指挥塔正式登场"
 description: "**[Agent多设备编排从「民间技巧」升级为「官方能力」]** • Anthropic官方推出Telegram/Discord远程控制MCP，终结第三方workaround时代 • 手机端成为Agent「遥控器+监视器」双重角色，大幅降低使用门槛与响应延迟 • 标志Agent入口从桌面端向移动端迁移的加速，多平台入口争夺战白热化 • 与此前社区流传的`/config`远程控制技巧形成「官方盖章」"
 resource: "https://x.com/i/status/2034771704313250096"
@@ -22,6 +22,13 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "agent-mobile-orchestration"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2034771704313250096"
+created: "2026-03-19"
+updated: "2026-06-26"
+sha256: "dd6c4ce0ea52baadf48d9d77274810b426732bca63a0ed7b848e067b3122195b"
+sources:
+  - "/sources/highlights/2026-03-20/00__op7418__claude-code官方mcp直连telegram-discord-移动端agent指挥塔正式登场.md"
 ---
 
 # Claude Code官方MCP直连Telegram/Discord：移动端Agent指挥塔正式登场

@@ -1,5 +1,5 @@
 ---
-type: "Author"
+type: "entity"
 title: "OpenArt (@openart_ai)"
 description: "X/Twitter 作者 @openart_ai。共收录 1 条 AI 精选推文。"
 tags:
@@ -12,6 +12,12 @@ x_author_name: "OpenArt"
 x_tweet_count: 1
 x_first_seen: "2026-04-23T18:54:49.000Z"
 x_last_seen: "2026-04-23T18:54:49.000Z"
+type_okf: "Author"
+created: "2026-04-23"
+updated: "2026-06-26"
+sha256: "d51eacbc31886c318ac6afa3ce688b09e47f045b169c7d359a9e9f06251a5ea6"
+sources:
+  - "/sources/news/2026-04-23/00__openart_ai__kling-3-0-原生-4k-视频生成上线-ai-视频进入-无放大-的生产级标准时代.md"
 ---
 
 # OpenArt (@openart_ai)

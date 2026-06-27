@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Anthropic 发布 Skill 科学评测框架：Agent 开发从「玄学」走向「工程」"
 description: "**[Skill 开发迎来可量化时代]** - Anthropic 为 Skill Creator 引入完整 A/B 测试、触发准确率、Token/时间效率等多维度评测体系 - 支持自动生成测试用例、多 Agent 并行执行、结果可视化对比 - 标志着 Agent 工具开发从个人经验主义转向可验证、可迭代的工程学科  A 厂正在把「写 Skill」这门手艺变成可工程化的科学。当 Skill 可以被"
 resource: "https://x.com/i/status/2029547576673141123"
@@ -22,6 +22,13 @@ x_selected: 2
 x_priority: 92
 x_related_topic: "claude-code-ecosystem"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2029547576673141123"
+created: "2026-03-05"
+updated: "2026-06-26"
+sha256: "eb6a7588d83e8f77e78f622b2d63f72ea707af91cc6f199c9a1d73bc93e8188b"
+sources:
+  - "/sources/highlights/2026-03-06/92__NekoStranding__anthropic-发布-skill-科学评测框架-agent-开发从-玄学-走向-工程.md"
 ---
 
 # Anthropic 发布 Skill 科学评测框架：Agent 开发从「玄学」走向「工程」

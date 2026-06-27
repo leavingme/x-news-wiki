@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "AI 自己写\"定理证明蓝图\"：Goedel-Architect 拿 DeepSeek-V4-Flash 把 Lean 4 推到 99%"
 description: "**Princeton 把形式化定理证明从递归分解改成\"先画依赖图再并行证明\"**  - Goedel-Architect 框架先生成定义/引理的依赖图（蓝图），再并行证明开放引理，遇失败时回流修订蓝图 - 用开源 DeepSeek-V4-Flash 作 backbone，成绩推到 99%（原文截断，确切数字待补） - 解决传统递归分解在死胡同上打转的痛点 - 价值：开源模型 + agentic "
 resource: "https://x.com/i/status/2067615820511871122"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2067615820511871122"
+created: "2026-06-18"
+updated: "2026-06-26"
+sha256: "8392945357c1ad28f84960da88caff682d4cece16ae0b68f1b775a148aa680db"
+sources:
+  - "/sources/highlights/2026-06-18/00__jiqizhixin__ai-自己写-定理证明蓝图-goedel-architect-拿-deepseek-v4-flash-把-lean-4-.md"
 ---
 
 # AI 自己写"定理证明蓝图"：Goedel-Architect 拿 DeepSeek-V4-Flash 把 Lean 4 推到 99%

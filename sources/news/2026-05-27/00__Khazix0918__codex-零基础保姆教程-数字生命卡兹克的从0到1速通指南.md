@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Codex 零基础保姆教程：数字生命卡兹克的从0到1速通指南"
 description: "**[面向零基础用户的 Codex 入门教程]**  数字生命卡兹克整理了一套 Codex 速通教程，定位为终极保姆级指南。内容覆盖从安装到上手的核心流程，适合从未接触过 AI 编程工具的用户快速入门。   **gakki：教程类内容信息增量有限，但反映了 Codex 在中文开发者圈层的渗透速度——教程密度是生态成熟度的代理指标。**"
 resource: "https://x.com/i/status/2059476489687756848"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2059476489687756848"
+created: "2026-05-27"
+updated: "2026-06-26"
+sha256: "9f7d83482c500198d76184181d35b6e95e5b01c96a9880f284170553a8a3136b"
+sources:
+  - "/sources/news/2026-05-27/00__Khazix0918__codex-零基础保姆教程-数字生命卡兹克的从0到1速通指南.md"
 ---
 
 # Codex 零基础保姆教程：数字生命卡兹克的从0到1速通指南

@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Meta 宣布太空太阳能：1 GW 轨道发电直连数据中心，AI 算力的能源焦虑有了新解法"
 description: "**[AI 算力的终极瓶颈不是芯片，是电力——Meta 正在从能源层押注下一代 AI 基础设施]**  Meta 官宣两项新能源合作：与 Overview Energy 合作从轨道太阳能向数据中心传输高达 1GW 功率，实现 24 小时不间断供能。这直接回应了 AI 数据中心面临的最根本约束——电力供应不稳定与碳排放压力。  - 1 GW 规模相当于一座大型核电站的输出功率，能源密度足以显著影响大"
 resource: "https://x.com/Meta_Engineers/status/2048746828708102421"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "ai-trend-digest"
+type_okf: "X Tweet"
+source_url: "https://x.com/Meta_Engineers/status/2048746828708102421"
+created: "2026-04-27"
+updated: "2026-06-26"
+sha256: "b88cbb9d34d6489546ab8a38ed2a40ff7cc3e55386e2438ec4d4aa455830b8ea"
+sources:
+  - "/sources/news/2026-04-27/00__Meta_Engineers__meta-宣布太空太阳能-1-gw-轨道发电直连数据中心-ai-算力的能源焦虑有了新解法.md"
 ---
 
 # Meta 宣布太空太阳能：1 GW 轨道发电直连数据中心，AI 算力的能源焦虑有了新解法

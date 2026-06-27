@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "AI 剪纸画生成提示词：传统文化形式正在成为 AIGC 的差异化内容资产"
 description: "**剪纸风格提示词生成效果出色，可直接用于儿童绘本创作。** - 剪纸作为高度风格化的传统艺术形式，AI 生成质量已达到「可直接使用」的水平 - 实际应用场景明确：家长自制儿童绘本、传统文化教育内容 - 提示词可复用，意味着风格资产可以被封装和分发  gakki 锐评：当所有人都在追求「AI 味」的赛博朋克美学时，传统风格反而是差异化的内容壁垒。剪纸、水墨、皮影——这些才是 AI 内容的蓝海。"
 resource: "https://x.com/i/status/2052657252511670667"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2052657252511670667"
+created: "2026-05-08"
+updated: "2026-06-26"
+sha256: "b39fe1b0f9054d0ec0b6960a281e5a82320ad82996aca343095ded33f09c8d98"
+sources:
+  - "/sources/news/2026-05-08/00__lxfater__ai-剪纸画生成提示词-传统文化形式正在成为-aigc-的差异化内容资产.md"
 ---
 
 # AI 剪纸画生成提示词：传统文化形式正在成为 AIGC 的差异化内容资产

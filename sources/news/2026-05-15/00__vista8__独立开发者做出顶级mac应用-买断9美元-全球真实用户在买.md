@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "独立开发者做出顶级Mac应用：买断9美元，全球真实用户在买"
 description: "**[优秀独立开发者+产品力=全球市场竞争力]**  汤兄开发的Mole此前为CLI工具，现推出Mac原生版，集磁盘分析清理、软件卸载、电脑优化、状态查看、进程管理于一体，易用性和美感均达顶级。买断仅9美元，已产生真实全球订单。  - 这是独立开发者在AI时代「小而美」产品路径的实证：先用CLI验证，再凭产品力跃迁到原生应用 - 定价策略克制但有效，买断制降低了全球用户门槛  gakki锐评：独立"
 resource: "https://x.com/i/status/2055223070562844833"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2055223070562844833"
+created: "2026-05-15"
+updated: "2026-06-26"
+sha256: "1e36fa4daeaf7830460b13a5b0f2c7a0096986be9ed1d8335d440c727140f5ef"
+sources:
+  - "/sources/news/2026-05-15/00__vista8__独立开发者做出顶级mac应用-买断9美元-全球真实用户在买.md"
 ---
 
 # 独立开发者做出顶级Mac应用：买断9美元，全球真实用户在买

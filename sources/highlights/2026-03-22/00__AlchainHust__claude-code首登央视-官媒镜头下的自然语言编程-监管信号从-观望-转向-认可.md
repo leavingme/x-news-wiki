@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Claude Code首登央视：官媒镜头下的自然语言编程，监管信号从「观望」转向「认可」"
 description: "**[央视新闻频道首次在公开报道中演示Claude Code，标志着AI编程工具进入主流舆论视野]**  • 受访者在央视镜头前现场使用Claude Code演示AI快速构建产品的全过程，这是国内官媒首次正面展示海外AI编程工具 • 报道角度聚焦「AI降低产品开发门槛」，而非「技术替代」或「安全风险」，暗示监管层对AI生产力工具的定性趋于积极 • 从「未报备不可用」到「上电视演示」，Claude "
 resource: "https://x.com/i/status/2035550777398444086"
@@ -22,6 +22,13 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "claude-code-ecosystem"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2035550777398444086"
+created: "2026-03-22"
+updated: "2026-06-26"
+sha256: "8d6dd4e043002e738ff8361c93ae9abed2833b7506a9d923be98235b61184e72"
+sources:
+  - "/sources/highlights/2026-03-22/00__AlchainHust__claude-code首登央视-官媒镜头下的自然语言编程-监管信号从-观望-转向-认可.md"
 ---
 
 # Claude Code首登央视：官媒镜头下的自然语言编程，监管信号从「观望」转向「认可」

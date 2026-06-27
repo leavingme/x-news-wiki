@@ -1,5 +1,5 @@
 ---
-type: "Author"
+type: "entity"
 title: "小朋友🥔 (@AlllexHu)"
 description: "X/Twitter 作者 @AlllexHu。共收录 1 条 AI 精选推文。"
 tags:
@@ -12,6 +12,12 @@ x_author_name: "小朋友🥔"
 x_tweet_count: 1
 x_first_seen: "2026-03-16T02:56:01.976Z"
 x_last_seen: "2026-03-16T02:56:01.976Z"
+type_okf: "Author"
+created: "2026-03-16"
+updated: "2026-06-26"
+sha256: "b83e1549d470e03f3ea258f601d678a11f1c2e8a72f731a2c994346baeaf7b0a"
+sources:
+  - "/sources/highlights/2026-03-16/00__AlllexHu__技术崇拜者的集体幻觉-ai眼镜-具身智能与养龙虾的炒作终局.md"
 ---
 
 # 小朋友🥔 (@AlllexHu)

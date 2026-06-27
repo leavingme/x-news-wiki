@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Recall Model Arena实测50+模型：「暖心沟通专家」Grok4与专有模型基准测试的遮羞布"
 description: "**[链上透明评测撕开基准测试黑盒：15万人750万次预测证明，专有模型霸权靠不住]**  Recall Model Arena用真实任务测试50+AI模型，覆盖编码、共情、伦理等8个核心技能，超15万人参与、贡献750万次预测。  Grok 4意外成为「暖心沟通专家」，而依赖过时基准测试的专有模型被撕下遮羞布。所有数据链上记录、可审计。  **gakki**：当150个KOL同时在推上发同一条A"
 resource: "https://x.com/i/status/1961227313976406465"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/1961227313976406465"
+created: "2025-08-29"
+updated: "2026-06-26"
+sha256: "eb21ff512a60621cdfa4c1faab830ee023aeacad1bffe642bf354880be70aa42"
+sources:
+  - "/sources/news/2026-04-11/00__AwbczBTC__recall-model-arena实测50-模型-暖心沟通专家-grok4与专有模型基准测试的遮羞布.md"
 ---
 
 # Recall Model Arena实测50+模型：「暖心沟通专家」Grok4与专有模型基准测试的遮羞布

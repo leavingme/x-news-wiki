@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "11k Star 的 PentAGI 正在证明：AI 自动化渗透测试比人便宜 20 倍，红队专家「失业」不是狼来了"
 description: "**[AI 红队已越过可用的临界点：2.5 万到 15 万美元的外部测试，AI 正在替代]**  周末刷屏的开源安全项目 PentAGI 提出了一个简单粗暴的价值主张：把整个安全公司的能力压缩进多 Agent 协作系统。GitHub 11k 星背后是真实的需求——传统渗透测试贵、慢、依赖稀缺专家（OSCP 证书持有者），而 PentAGI 用 Orchestrator + Researcher +"
 resource: "https://x.com/i/status/2035618330342494459"
@@ -22,6 +22,13 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "multi-agent-fraud-risk"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2035618330342494459"
+created: "2026-03-22"
+updated: "2026-06-26"
+sha256: "8a3d37e551406bef498266d4927c7d7c5b4dc998268789bcc1eed3d7b7164a85"
+sources:
+  - "/sources/highlights/2026-04-13/00__0xLaughing__11k-star-的-pentagi-正在证明-ai-自动化渗透测试比人便宜-20-倍-红队专家-失业-不是狼来了.md"
 ---
 
 # 11k Star 的 PentAGI 正在证明：AI 自动化渗透测试比人便宜 20 倍，红队专家「失业」不是狼来了

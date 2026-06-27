@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Seedance 2.5发布会配中英双语字幕：民间翻译暴露国产视频模型的国际化窗口"
 description: "**字节Seedance 2.5发布会因民间双语字幕而意外破圈。**  - 小互自发为Seedance 2.5发布会配中英双语字幕供海外社区观看 - 海外AI社区对国产视频生成模型兴趣持续升温 - 字节持续押注视频生成赛道，2.5版本进一步提升能力   锐评：官方不做国际化、民间自发补位——这种自下而上的传播恰恰是真实口碑验证，比任何PR稿都有说服力。"
 resource: "https://x.com/i/status/2069655846896935269"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2069655846896935269"
+created: "2026-06-24"
+updated: "2026-06-26"
+sha256: "1b52ed05685f40c1d8440daece26427654b71b6c0722327a11dedbcd2866ee5f"
+sources:
+  - "/sources/news/2026-06-24/00__xiaohu__seedance-2-5发布会配中英双语字幕-民间翻译暴露国产视频模型的国际化窗口.md"
 ---
 
 # Seedance 2.5发布会配中英双语字幕：民间翻译暴露国产视频模型的国际化窗口

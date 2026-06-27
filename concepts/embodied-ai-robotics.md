@@ -1,5 +1,5 @@
 ---
-type: "Concept"
+type: "concept"
 title: "embodied-ai-robotics"
 description: "跨日主题 \"embodied-ai-robotics\"，共 1 条相关精选推文。"
 tags:
@@ -11,6 +11,12 @@ x_topic_slug: "embodied-ai-robotics"
 x_tweet_count: 1
 x_first_seen: "2026-06-04T10:18:23.175Z"
 x_last_seen: "2026-06-04T10:18:23.175Z"
+type_okf: "Concept"
+created: "2026-06-04"
+updated: "2026-06-26"
+sha256: "fcb76d9401c5ace7f30429d190032d3052c7944afe6f4b333d565ba4fbbced79"
+sources:
+  - "/sources/news/2026-06-04/00__jiqizhixin__复旦等联合发布具身ai安全全景综述-500篇论文缝合的攻击防御-taxonomy-意味着什么.md"
 ---
 
 # 主题: embodied-ai-robotics

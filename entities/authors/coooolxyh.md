@@ -1,5 +1,5 @@
 ---
-type: "Author"
+type: "entity"
 title: "Yuhang (@CoooolXyh)"
 description: "X/Twitter 作者 @CoooolXyh。共收录 1 条 AI 精选推文。"
 tags:
@@ -12,6 +12,12 @@ x_author_name: "Yuhang"
 x_tweet_count: 1
 x_first_seen: "2026-02-08T13:00:14.107Z"
 x_last_seen: "2026-02-08T13:00:14.107Z"
+type_okf: "Author"
+created: "2026-02-08"
+updated: "2026-06-26"
+sha256: "493cd999c8f66e7fbf4d6cf1903bb6aa87332828fa2fc127276319537810b1a0"
+sources:
+  - "/sources/news/2026-02-08/00__CoooolXyh__可灵-kling-api-定价遭质疑-个人开发者被忽视了.md"
 ---
 
 # Yuhang (@CoooolXyh)

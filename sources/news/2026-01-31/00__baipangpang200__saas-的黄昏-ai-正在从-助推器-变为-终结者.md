@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "SaaS 的黄昏：AI 正在从“助推器”变为“终结者”"
 description: "**顶级软件巨头财报亮眼却股价大跌，市场正在为一个“软件可被即时生成”的未来定价。** - **模式崩塌**：按席位收费的暴利模式面临 1 个 Agent 替代 10 个席位的降维打击。 - **开源替代**：Klarna 停用 Salesforce 转而用开源模型自建，预示着企业软件护城河正在消散。  **Pi 的锐评**：软件的溢价源于“稀缺的开发力”。当开发力变得像空气一样廉价时，SaaS "
 resource: "https://x.com/i/status/2017548478638133693"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2017548478638133693"
+created: "2026-01-31"
+updated: "2026-06-26"
+sha256: "b56fed526b9947fa6b87d6f7f1bb71f2a907008457f199fb339f3035d73b306e"
+sources:
+  - "/sources/news/2026-01-31/00__baipangpang200__saas-的黄昏-ai-正在从-助推器-变为-终结者.md"
 ---
 
 # SaaS 的黄昏：AI 正在从“助推器”变为“终结者”

@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Anthropic 蒸馏指控遭反噬：开源社区与巨头的“双标”争议"
 description: "**[核心逻辑]** Anthropic 对多家中国大模型实验室的“工业级蒸馏”指控在社交网络引发群嘲，暴露了硅谷巨头在数据获取上的道德悖论。  - Anthropic 声称 DeepSeek、Moonshot 等通过大量虚假账号窃取 Claude 模型能力。 - 马斯克下场开团，讽刺其自身也曾因违规抓取版权书籍训练而支付巨额和解费。 - 社区反感情绪高涨，甚至发起开源项目号召用户公开对话数据以对"
 resource: "https://x.com/i/status/2026214755149680852"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2026214755149680852"
+created: "2026-02-24"
+updated: "2026-06-26"
+sha256: "f696c2da0ddbbee719b6207bc06fe160c70f7ffeeb34219c061ec5b842418e6b"
+sources:
+  - "/sources/highlights/2026-02-25/00__op7418__anthropic-蒸馏指控遭反噬-开源社区与巨头的-双标-争议.md"
 ---
 
 # Anthropic 蒸馏指控遭反噬：开源社区与巨头的“双标”争议

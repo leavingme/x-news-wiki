@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Karpathy 公开个人知识系统：让 LLM 既是图书馆员又是清洁工"
 description: "**[AI 知识管理的「自我循环」范式：知识越查越厚的工程实现]**  Karpathy 展示了一套用大模型驱动本地知识库的系统：原始资料进 raw/ 目录 → LLM 自动编译成有结构的 Markdown Wiki（摘要、概念、链接、索引全自动生成）→ Obsidian 可视化浏览 → LLM 问答时自己查索引读文档 → 输出不是聊天记录，而是 .md/幻灯片/图表等可复用文件 → 归档回流让知"
 resource: "https://x.com/i/status/2039902366624010494"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2039902366624010494"
+created: "2026-04-03"
+updated: "2026-06-26"
+sha256: "fb1b284403f55d04e97f2a06acd74c60d5794943092c8b2dd777ddfe7d596d3c"
+sources:
+  - "/sources/news/2026-04-04/00__lxfater__karpathy-公开个人知识系统-让-llm-既是图书馆员又是清洁工.md"
 ---
 
 # Karpathy 公开个人知识系统：让 LLM 既是图书馆员又是清洁工

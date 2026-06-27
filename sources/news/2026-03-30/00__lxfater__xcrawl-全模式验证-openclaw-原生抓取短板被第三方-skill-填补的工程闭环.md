@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "XCrawl 全模式验证：OpenClaw 原生抓取短板被第三方 Skill 填补的工程闭环"
 description: "**XCrawl 的 scrape/crawl/map/search 四模式完整覆盖了 OpenClaw 数据采集的痛点，验证了 Skill 生态的自组织补全能力。**  用户反馈抓取成功率显著提升，素材收集速度大幅改善，且提供 1000 积分试用。  与 Berryxia 的推文形成互补：技术层是 Berryxia 的安装配置，操作层是铁锤人的场景验证。  gakki：「OpenClaw 的数据"
 resource: "https://x.com/i/status/2038449412452892693"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2038449412452892693"
+created: "2026-03-30"
+updated: "2026-06-26"
+sha256: "44de420fed3bf6663dcb47b158612ecb3bf58f411e6c6bf0ae88b282a865f278"
+sources:
+  - "/sources/news/2026-03-30/00__lxfater__xcrawl-全模式验证-openclaw-原生抓取短板被第三方-skill-填补的工程闭环.md"
 ---
 
 # XCrawl 全模式验证：OpenClaw 原生抓取短板被第三方 Skill 填补的工程闭环

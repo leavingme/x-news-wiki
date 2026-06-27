@@ -1,5 +1,5 @@
 ---
-type: "Author"
+type: "entity"
 title: "WrathofKahneman (@WKahneman)"
 description: "X/Twitter 作者 @WKahneman。共收录 1 条 AI 精选推文。"
 tags:
@@ -12,6 +12,12 @@ x_author_name: "WrathofKahneman"
 x_tweet_count: 1
 x_first_seen: "2026-04-30T16:17:53.502Z"
 x_last_seen: "2026-04-30T16:17:53.502Z"
+type_okf: "Author"
+created: "2026-04-30"
+updated: "2026-06-26"
+sha256: "58b92b6373b6ccecc839d4f13df75179d6f747337b2a46e4c22ae7c2c7b491d0"
+sources:
+  - "/sources/news/2026-04-30/00__WKahneman__visa-稳定币试点扩至-9-条链-传统金融的链上触角比-agent-跑得更快.md"
 ---
 
 # WrathofKahneman (@WKahneman)

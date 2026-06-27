@@ -1,5 +1,5 @@
 ---
-type: "Author"
+type: "entity"
 title: "FEDRO (@thenameisfedro)"
 description: "X/Twitter 作者 @thenameisfedro。共收录 1 条 AI 精选推文。"
 tags:
@@ -12,6 +12,12 @@ x_author_name: "FEDRO"
 x_tweet_count: 1
 x_first_seen: "2026-02-01T12:53:16.152Z"
 x_last_seen: "2026-02-01T12:53:16.152Z"
+type_okf: "Author"
+created: "2026-02-01"
+updated: "2026-06-26"
+sha256: "4b6ab1874e6be4ad147370b5394cf288e7944407264e895b7c96926dac9144ba"
+sources:
+  - "/sources/news/2026-02-01/00__thenameisfedro__孙宇晨入场-tron-开启-ai-赛季-试图重构链上决策引擎.md"
 ---
 
 # FEDRO (@thenameisfedro)

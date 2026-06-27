@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "推荐算法制造的认知闭环：人筛选比AI推荐更可靠的时代信号"
 description: "**X平台推荐机制正在让高质量创作者变成\"碎片供应商\"。**  - 高质量帖子背后往往有更完整的思考体系，但推荐只曝光碎片 - 顺藤摸瓜式的主动阅读反而成了信息差优势 - 核心判断：AI内容泛滥后，人与人之间的信任本身成为稀缺品  **gakki锐评：** 这个观察比它看起来更重要——它描述的不是社交媒体的算法问题，而是AI信息爆炸后\"认知筛选权\"的归属：算法分发让人变懒，主动搜索让信息质量可控。"
 resource: "https://x.com/i/status/2047835108623912996"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2047835108623912996"
+created: "2026-04-25"
+updated: "2026-06-26"
+sha256: "881b98d2b6dfdc80fca74516cde7d3a8d0651b7828bfe179d9340760d531dcdb"
+sources:
+  - "/sources/news/2026-04-25/00__vista8__推荐算法制造的认知闭环-人筛选比ai推荐更可靠的时代信号.md"
 ---
 
 # 推荐算法制造的认知闭环：人筛选比AI推荐更可靠的时代信号

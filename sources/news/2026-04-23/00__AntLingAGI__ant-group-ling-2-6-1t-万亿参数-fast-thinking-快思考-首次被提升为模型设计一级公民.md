@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Ant Group Ling-2.6-1T：万亿参数+Fast-Thinking，「快思考」首次被提升为模型设计一级公民"
 description: "**[「慢就是好」的神话正在被万亿参数推理成本倒逼重构，Fast-Thinking不只是加速而是范式转移]**  - 首次将「快思考」机制作为核心设计目标，而非事后优化方向 - Ultra-low token overhead意味着单位智能成本大幅下降，Agent大规模部署的财务门槛显著降低 - SOTA智能与极致效率的共存，证明推理成本压缩已从工程问题演变为模型架构问题  当Token成本成为A"
 resource: "https://x.com/AntLingAGI/status/2047374871467012393"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "ai-trend-digest"
+type_okf: "X Tweet"
+source_url: "https://x.com/AntLingAGI/status/2047374871467012393"
+created: "2026-04-23"
+updated: "2026-06-26"
+sha256: "a540b017da6e1ccd10f6960c666598c481f34a427072b1dddef814064095ab36"
+sources:
+  - "/sources/news/2026-04-23/00__AntLingAGI__ant-group-ling-2-6-1t-万亿参数-fast-thinking-快思考-首次被提升为模型设计一级公民.md"
 ---
 
 # Ant Group Ling-2.6-1T：万亿参数+Fast-Thinking，「快思考」首次被提升为模型设计一级公民

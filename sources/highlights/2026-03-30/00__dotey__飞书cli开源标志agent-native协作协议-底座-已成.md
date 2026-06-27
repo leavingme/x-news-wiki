@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "飞书CLI开源标志Agent-Native协作协议「底座」已成"
 description: "[AI Agent时代，CLI正在成为产品接入AI的「普通话」]  飞书开源lark-cli，让AI直接操作飞书：发消息、查日历、写文档、建多维表格、发邮件、管任务。三周前Google也开源了gws操作Google Workspace。所有想接入AI Agent的产品都在做CLI。  CLI在AI Agent时代复兴的本质原因：图形界面是给人用的，CLI才是给AI用的。GUI有按钮、有状态、有视觉"
 resource: "https://x.com/i/status/2038406683865624800"
@@ -22,6 +22,13 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "agent-native-paradigm"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2038406683865624800"
+created: "2026-03-30"
+updated: "2026-06-26"
+sha256: "df98cbd8d279d159e9f7798616ecc81a76c07e2cf21152df640515dddaf9e8ea"
+sources:
+  - "/sources/highlights/2026-03-30/00__dotey__飞书cli开源标志agent-native协作协议-底座-已成.md"
 ---
 
 # 飞书CLI开源标志Agent-Native协作协议「底座」已成

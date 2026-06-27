@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Anthropic 封堵 Agent SDK 共享订阅口子：第三方工具被精准降权"
 description: "**[Anthropic 正在系统性地收紧 API 共享边界，第三方 Agent 工具成为代价]**  Anthropic 新政策封堵了 Agent SDK、claude -p 等渠道共享 Claude 订阅的最后一个口子。名义上提供「额外额度」用于程序化调用，Pro 仅 20 美元/Max 20x 仅 200 美元——相比 200 美元月订阅费，这个「额外」额度简直是嘲讽。按自定价算，Pro 的"
 resource: "https://x.com/i/status/2054664841412092392"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2054664841412092392"
+created: "2026-05-13"
+updated: "2026-06-26"
+sha256: "a3a18bc4769b1aceab436d94074e8d197790cce4c58cefaf2490731ae8b88e0d"
+sources:
+  - "/sources/highlights/2026-05-13/00__dotey__anthropic-封堵-agent-sdk-共享订阅口子-第三方工具被精准降权.md"
 ---
 
 # Anthropic 封堵 Agent SDK 共享订阅口子：第三方工具被精准降权

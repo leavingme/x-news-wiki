@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "GenAC：用思维链替代单步价值预测，北大&微软让RL奖励分配更精准"
 description: "**[LLM强化学习奖励估计的范式升级：CoT推理先于价值预测]**  北京大学与微软亚洲研究院联合发布GenAC，提出用生成式批评家替代单步价值预测——在估计奖励前先进行链式思维推理。这一设计解决了传统actor-critic架构中 critic 与不断演化的 actor 对齐难、排名可靠性差的问题。  关键突破： - 价值近似更强，排名可靠性提升，下游RL任务泛化性改善 - 将CoT推理嵌入奖"
 resource: "https://x.com/i/status/2056072003921285188"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2056072003921285188"
+created: "2026-05-17"
+updated: "2026-06-26"
+sha256: "0bf946678027fb93d207d505c996859a790f23d4c0a26bc376ac394e39751e4f"
+sources:
+  - "/sources/news/2026-05-17/00__jiqizhixin__genac-用思维链替代单步价值预测-北大-微软让rl奖励分配更精准.md"
 ---
 
 # GenAC：用思维链替代单步价值预测，北大&微软让RL奖励分配更精准

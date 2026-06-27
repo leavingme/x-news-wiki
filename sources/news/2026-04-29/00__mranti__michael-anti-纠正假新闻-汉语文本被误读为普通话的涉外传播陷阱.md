@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Michael Anti 纠正假新闻：汉语文本被误读为普通话的涉外传播陷阱"
 description: "**[海外传播中的\"语言裁剪\"陷阱：韩语文本被当作普通话二次创作]**  Michael Anti 澄清：网传视频中朗读的并非普通话，而是一段韩语汉字混写文本（2020 年独立庆典宣言），原文使用韩、英、日、中、俄及手语多语言读出。原始文本涉及\"四万万中国人对日本的态度\"等历史语境，经剪辑后被断章取义传播。  - 揭示了跨语言内容在传播中极易被\"裁剪-重新语境化\"的风险 - 原始文本的历史政治语境"
 resource: "https://x.com/i/status/2049354699800039463"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2049354699800039463"
+created: "2026-04-29"
+updated: "2026-06-26"
+sha256: "72617c4836a02f8a1e03d2a58b24dfe5d2762f834d58fe2af3e6579a2920a73f"
+sources:
+  - "/sources/news/2026-04-29/00__mranti__michael-anti-纠正假新闻-汉语文本被误读为普通话的涉外传播陷阱.md"
 ---
 
 # Michael Anti 纠正假新闻：汉语文本被误读为普通话的涉外传播陷阱

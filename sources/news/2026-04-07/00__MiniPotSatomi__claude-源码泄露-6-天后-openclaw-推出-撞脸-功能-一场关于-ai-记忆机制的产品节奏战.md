@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Claude 源码泄露 6 天后 OpenClaw 推出「撞脸」功能：一场关于 AI 记忆机制的产品节奏战"
 description: "**Claude 源码泄露后的 OpenClaw 响应**  3 月 31 日 Claude 源码泄露，4 月 5 日 OpenClaw 即推出「Dreaming」记忆增强功能。节奏快得可疑——要么是早有预谋的同步，要么是快速跟进的产品决策。  关键问题是：Claude 泄露揭示的自动化记忆机制，和 OpenClaw Dreaming 的实现路径是否真的高度相似？如果是，这说明开源社区的「复制能力"
 resource: "https://x.com/i/status/2041187669028565172"
@@ -22,6 +22,13 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "edgeclaw-memory-infrastructure"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2041187669028565172"
+created: "2026-04-06"
+updated: "2026-06-26"
+sha256: "485aefc5e918c8a572230b4e0e6519b9de82c0cf96b33473780673cec6c8e85e"
+sources:
+  - "/sources/news/2026-04-07/00__MiniPotSatomi__claude-源码泄露-6-天后-openclaw-推出-撞脸-功能-一场关于-ai-记忆机制的产品节奏战.md"
 ---
 
 # Claude 源码泄露 6 天后 OpenClaw 推出「撞脸」功能：一场关于 AI 记忆机制的产品节奏战

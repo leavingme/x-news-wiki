@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Claude Code爆火后Anthropic估值飙涨：2025年底开启🚀模式"
 description: "**核心判断：Claude Code成为Anthropic商业化的关键拐点，估值启动快速拉升。**  关键信号： - 2025年底，Claude Code爆火后Anthropic估值进入增长通道 - 这一时间线印证了工具类产品对模型公司商业化的放大效应 - 播客中宝玉表示\"对我收获很大\"，暗示工具层与模型层协同价值开始被从业者感知  Claude Code不只是一款工具，它的成功验证了\"模型+终端"
 resource: "https://x.com/i/status/2060252950296170844"
@@ -22,6 +22,13 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "claude-code-ecosystem"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2060252950296170844"
+created: "2026-05-29"
+updated: "2026-06-26"
+sha256: "204aeeefe9f24286eabe94bcb2699bb988c1ebcb3f83d9a51d8ded4ac58f356a"
+sources:
+  - "/sources/news/2026-05-29/00__xiaohu__claude-code爆火后anthropic估值飙涨-2025年底开启-模式.md"
 ---
 
 # Claude Code爆火后Anthropic估值飙涨：2025年底开启🚀模式

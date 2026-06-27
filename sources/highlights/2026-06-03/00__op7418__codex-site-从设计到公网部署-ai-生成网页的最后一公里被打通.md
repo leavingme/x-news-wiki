@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Codex Site：从设计到公网部署，AI 生成网页的最后一公里被打通"
 description: "**[「设计即上线」成为现实，但 Pro 用户被排除在外]**  Codex Site 插件实现设计→生成→部署一体化，本质上是 Claude Design 的翻版——用户无需本地环境即可获得可访问的公网页面。限制条件揭示了平台战略分化：Pro（个人用户）无法使用，只有 Business 和有组织账户可以使用。  - 这不是技术问题，是商业分层的制度设计 - OpenAI 此前关闭公网分享功能的背"
 resource: "https://x.com/i/status/2062005183090233773"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2062005183090233773"
+created: "2026-06-03"
+updated: "2026-06-26"
+sha256: "f3cf7f3821bcfb27a3073ce8fdc474454d51ed060052b395bd0557487495c308"
+sources:
+  - "/sources/highlights/2026-06-03/00__op7418__codex-site-从设计到公网部署-ai-生成网页的最后一公里被打通.md"
 ---
 
 # Codex Site：从设计到公网部署，AI 生成网页的最后一公里被打通

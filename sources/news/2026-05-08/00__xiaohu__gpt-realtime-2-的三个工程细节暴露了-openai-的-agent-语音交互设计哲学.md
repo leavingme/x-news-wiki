@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "GPT-Realtime-2 的三个工程细节暴露了 OpenAI 的 Agent 语音交互设计哲学"
 description: "**OpenAI 不是在做更好的语音合成，而是在用 Agent 工程思维重构语音交互的每个环节。** - 「让我查一下」：模型在推理前主动输出中间状态，让用户知道它在工作而非卡住——这是对 LLM 黑盒问题的 UX 解法 - 并行工具调用 + 边调边播报：打破传统语音的串行瓶颈，Agent 多路并行能力首次在语音场景落地 - 失败兜底而非静默崩溃：语音场景容错比文本更苛刻，一句「处理有点问题」比沉"
 resource: "https://x.com/i/status/2052646099895324675"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2052646099895324675"
+created: "2026-05-08"
+updated: "2026-06-26"
+sha256: "1cf6d883547847194aef557264a7e652adc2594c4c6111848cf772bc80c694be"
+sources:
+  - "/sources/news/2026-05-08/00__xiaohu__gpt-realtime-2-的三个工程细节暴露了-openai-的-agent-语音交互设计哲学.md"
 ---
 
 # GPT-Realtime-2 的三个工程细节暴露了 OpenAI 的 Agent 语音交互设计哲学

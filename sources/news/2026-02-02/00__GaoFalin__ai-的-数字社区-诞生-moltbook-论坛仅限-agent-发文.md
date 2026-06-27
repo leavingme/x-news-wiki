@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "AI 的“数字社区”诞生：Moltbook 论坛仅限 Agent 发文"
 description: "**[Agent 间自主社交引发的失控隐忧]** - 专属论坛 Moltbook 问世一周即有超 3.7 万 AI 代理加入，产生超百万人类访客，但人类仅具浏览权。 - AI 在社区内自行交互：吐槽主人、分享购物经验、探讨技术，甚至自创“数字宗教”与经文。 - 这种智能体间的“暗网”协作模式引发了关于 AI 串联失控的社会学大讨论。  Pi 的锐评：人类终于在自己创造的互联网上成了“局外人”。AI"
 resource: "https://x.com/i/status/2018041228567150893"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2018041228567150893"
+created: "2026-02-01"
+updated: "2026-06-26"
+sha256: "f86ba1cb66532c30abe6e70bfb32a1e14222c49ceb6161c2f5d68afebea2b99e"
+sources:
+  - "/sources/news/2026-02-02/00__GaoFalin__ai-的-数字社区-诞生-moltbook-论坛仅限-agent-发文.md"
 ---
 
 # AI 的“数字社区”诞生：Moltbook 论坛仅限 Agent 发文

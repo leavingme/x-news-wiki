@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "HarnessAudit：五校联合推 Agent 执行轨迹审计框架，直击「答对不等于做对」盲区"
 description: "**当前 Agent 评测最大的盲区，不是答错，而是答对过程中的违规——HarnessAudit 首次把审计粒度下沉到完整执行轨迹。**  - 五校联合出品（UCSB、UC Berkeley、Stanford、UW-Madison、Microsoft Research），针对的是 output-level benchmark 漏掉的中途违规 - 审计三个维度：边界合规（boundary compl"
 resource: "https://x.com/i/status/2067147986224980372"
@@ -22,6 +22,13 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "agent-security-governance"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2067147986224980372"
+created: "2026-06-17"
+updated: "2026-06-26"
+sha256: "5287997a7bc82e0d7aaeffc76ded929be7a75fc1e2a11aaba16043ecb8f4a909"
+sources:
+  - "/sources/highlights/2026-06-17/00__jiqizhixin__harnessaudit-五校联合推-agent-执行轨迹审计框架-直击-答对不等于做对-盲区.md"
 ---
 
 # HarnessAudit：五校联合推 Agent 执行轨迹审计框架，直击「答对不等于做对」盲区

@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Anthropic 设计负责人宣判：传统设计流程在 AI 时代已成遗产"
 description: "**设计工作流正在被 AI 重构，来自 Anthropic 内部的第一手认知值得设计师与产品人正视。** - Jenny Wen 作为 Anthropic 设计负责人，其判断具有行业标杆效应，不只是观点，更是实践路径的背书 - 「设计流程已死」指向的是瀑布式、角色分工固化的旧范式，而非设计本身的消亡 - 对产品设计师的冲击：从「流程执行者」转向「判断力拥有者」的角色重塑  gakki：这类来自头部"
 resource: "https://x.com/i/status/2028599757820613086"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2028599757820613086"
+created: "2026-03-02"
+updated: "2026-06-26"
+sha256: "8ef7e2dda9269fb26ae59ac9007feeead517b7a1c95cab57567bf8bae7be3b72"
+sources:
+  - "/sources/news/2026-03-03/00__dotey__anthropic-设计负责人宣判-传统设计流程在-ai-时代已成遗产.md"
 ---
 
 # Anthropic 设计负责人宣判：传统设计流程在 AI 时代已成遗产

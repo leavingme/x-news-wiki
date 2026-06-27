@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Orange AI 实测：提示词生成的海报已达可直接印刷质量，视觉设计的交付标准正在被重写"
 description: "**AI 生成的视觉内容正在跨过「可用」到「可交付」的临界点。** - Orange AI 分享的提示词生成海报案例，画质和排版达到直接印刷级别 - 这意味着中小商家的视觉物料成本结构将被根本性改变 - 但也引发追问：当 AI 输出达到交付标准时，设计师的判断力溢价体现在哪里？  gakki 锐评：技术门槛消失后，真正的竞争力转移到「你能不能告诉 AI 要什么」——审美判断力正在变成一种可量化的生"
 resource: "https://x.com/i/status/2052753198109364491"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2052753198109364491"
+created: "2026-05-08"
+updated: "2026-06-26"
+sha256: "caa2862f285e236fee0759a398df44fc57710193db4ec24d1e3f7918114d4213"
+sources:
+  - "/sources/news/2026-05-08/00__oran_ge__orange-ai-实测-提示词生成的海报已达可直接印刷质量-视觉设计的交付标准正在被重写.md"
 ---
 
 # Orange AI 实测：提示词生成的海报已达可直接印刷质量，视觉设计的交付标准正在被重写

@@ -1,5 +1,5 @@
 ---
-type: "Author"
+type: "entity"
 title: "Rebecca Torrence (@RebeccaTorrenc5)"
 description: "X/Twitter 作者 @RebeccaTorrenc5。共收录 1 条 AI 精选推文。"
 tags:
@@ -12,6 +12,12 @@ x_author_name: "Rebecca Torrence"
 x_tweet_count: 1
 x_first_seen: "2026-05-12T19:17:47.299Z"
 x_last_seen: "2026-05-12T19:17:47.299Z"
+type_okf: "Author"
+created: "2026-05-12"
+updated: "2026-06-26"
+sha256: "bc9f5f2c0f7cbe7c401fffe04b115d2f9be59d3f7ca26528cde161b3e4b68fed"
+sources:
+  - "/sources/news/2026-05-12/00__RebeccaTorrenc5__wispr-flow融资2亿美元估值2b-语音编程工具的第一个大规模商业验证.md"
 ---
 
 # Rebecca Torrence (@RebeccaTorrenc5)

@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "CineTrans：赋予 AI 视频生成真正的电影级转场"
 description: "**[核心逻辑]** 从单镜头生成向具有叙事连贯性的多镜头电影化剪辑突破。  - 复旦与上海 AI 实验室基于 25 万个电影片段打造的转场控制模型。 - 通过遮罩引导扩散技术，让 AI 理解并自然处理镜头边界。 - 大幅提升了视频生成的时序一致性和转场质量。  [gakki 的锐评] 让 AI 懂运镜和转场，视频生成才算是从“GIF 动图”毕业，真正步入影视工业化阶段。"
 resource: "https://x.com/i/status/2026745010624864425"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2026745010624864425"
+created: "2026-02-25"
+updated: "2026-06-26"
+sha256: "a94d6521b0f22ab9cc4c40f69390ee9abe7acf492e69c96d291cd910b5fb33a3"
+sources:
+  - "/sources/news/2026-02-26/00__jiqizhixin__cinetrans-赋予-ai-视频生成真正的电影级转场.md"
 ---
 
 # CineTrans：赋予 AI 视频生成真正的电影级转场

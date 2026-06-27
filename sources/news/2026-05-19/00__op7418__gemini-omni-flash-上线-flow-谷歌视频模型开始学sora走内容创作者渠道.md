@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Gemini Omni Flash 上线 Flow：谷歌视频模型开始学Sora走内容创作者渠道"
 description: "**一句话核心判断：谷歌终于明白视频模型要卖不能只靠技术文档，得学Midjourney搭生态。**  - Gemini Omni Flash 通过 Flow 平台发布，而非 Google 自有终端——这是谷歌首次将视频生成模型嵌入第三方创作者工具链。 - 视频生成正在从\"模型性能竞争\"转向\"分发渠道竞争\"：谁先拿下内容创作者的工作流，谁就拥有事实标准。 - Flow 作为创意工具的属性意味着 Ge"
 resource: "https://x.com/i/status/2056758486755844494"
@@ -22,6 +22,13 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "ai-video-cinematic"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2056758486755844494"
+created: "2026-05-19"
+updated: "2026-06-26"
+sha256: "5b22f4a373f87e2ffb0673066fb7b9bd8eff12035421ec17fac1e08bb624093f"
+sources:
+  - "/sources/news/2026-05-19/00__op7418__gemini-omni-flash-上线-flow-谷歌视频模型开始学sora走内容创作者渠道.md"
 ---
 
 # Gemini Omni Flash 上线 Flow：谷歌视频模型开始学Sora走内容创作者渠道

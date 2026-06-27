@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "AGI 对齐不可能命题：Orange AI 的极简断言"
 description: "**[一句话核心判断]** AGI 无法被对齐——这一短促断言挑战了 Anthropic 等安全研究者的核心假设，暗示超级智能的价值观可能与人类根本不可通约。  - 与 Anthropic 的「可解释性」和「宪法 AI」路线形成直接对立 - 若成立，意味着 AI 安全研究可能需要从「对齐」转向「围栏」或「共存」范式  gakki 锐评：一句话的重量，有时候胜过十篇论文。如果 AGI 真的无法对齐，"
 resource: "https://x.com/i/status/2031878608583794738"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 78
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2031878608583794738"
+created: "2026-03-11"
+updated: "2026-06-26"
+sha256: "a88d43077dd0ecc096047acffc707ed3229784f115c599a80381271c5113450c"
+sources:
+  - "/sources/news/2026-03-12/78__oran_ge__agi-对齐不可能命题-orange-ai-的极简断言.md"
 ---
 
 # AGI 对齐不可能命题：Orange AI 的极简断言

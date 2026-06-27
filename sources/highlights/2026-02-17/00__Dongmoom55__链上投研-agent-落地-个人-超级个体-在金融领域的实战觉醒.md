@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "链上投研 Agent 落地：个人“超级个体”在金融领域的实战觉醒"
 description: "[核心逻辑] Agent 正从办公助手进化为具备独立金融决策与执行能力的“数字公民”。 • 展示利用本地硬件结合 OpenClaw 框架进行全自动化链上投研与交易的实操逻辑。 • 实现了从数据爬取、模型研判到交易自动执行的完整自主化闭环。 • 预示着“超级个体”在金融博弈领域将拥有前所未有的技术武装优势。  [gakki 的锐评] 以前是一个团队在操盘，以后可能只是一个放在家里的 Mac Mini"
 resource: "https://x.com/i/status/2023539994988843100"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2023539994988843100"
+created: "2026-02-16"
+updated: "2026-06-26"
+sha256: "e932e6daa966824ea78b8cfcec216358df0019e454bf6e8f60eee24f2ba6aab7"
+sources:
+  - "/sources/highlights/2026-02-17/00__Dongmoom55__链上投研-agent-落地-个人-超级个体-在金融领域的实战觉醒.md"
 ---
 
 # 链上投研 Agent 落地：个人“超级个体”在金融领域的实战觉醒

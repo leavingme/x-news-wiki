@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "多模态感知大一统：NUS/Oxford/多校联合定义视听智能任务 taxonomy"
 description: "**【视听融合的首个结构化综述，覆盖从语音识别到视频配音生成】**  NUS、Oxford、多伦多大学及微软研究院联合发布了音频-视觉智能领域的首个统一分类体系研究。该综述将此前分散的视听任务（语音识别、声源定位、视频配音生成、交互式Agent等）归类为统一taxonomy，并系统梳理了相关数据集。这填补了该领域缺乏统一理论框架的空白。  关键要点： - 首次对\"视听大模型\"进行结构化定义，涵盖声"
 resource: "https://x.com/i/status/2061091075905745198"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2061091075905745198"
+created: "2026-05-31"
+updated: "2026-06-26"
+sha256: "e82a0c15d1217dde90ba2cf38768da96233f03efafea330717a7ca10ed427550"
+sources:
+  - "/sources/news/2026-05-31/00__jiqizhixin__多模态感知大一统-nus-oxford-多校联合定义视听智能任务-taxonomy.md"
 ---
 
 # 多模态感知大一统：NUS/Oxford/多校联合定义视听智能任务 taxonomy

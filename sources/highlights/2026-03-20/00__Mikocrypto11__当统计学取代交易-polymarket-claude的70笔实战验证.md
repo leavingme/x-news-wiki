@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "当统计学取代交易：Polymarket+Claude的70笔实战验证"
 description: "**[AI量化交易从玩具走向系统性工具]** • $1,500→$3,900，58%胜率，核心不是预测而是「edge明确时才入场」 • 关键机制：Bot每周自训练+自动rollback，消除ego和情绪干扰 • 从「盯K线」到「Data→edge→exe」的认知跃迁  这不是交易，是可验证的概率执行系统。当人类还在争论「市场是否被操控」，Agent已经在算力中找到了稳定的α。"
 resource: "https://x.com/i/status/2034651796753588605"
@@ -22,6 +22,13 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "political-intelligence-arbitrage"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2034651796753588605"
+created: "2026-03-19"
+updated: "2026-06-26"
+sha256: "4708b09025336b99f97cbc812b859e3e3d35b5e5896804457eced65256c918dd"
+sources:
+  - "/sources/highlights/2026-03-20/00__Mikocrypto11__当统计学取代交易-polymarket-claude的70笔实战验证.md"
 ---
 
 # 当统计学取代交易：Polymarket+Claude的70笔实战验证

@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "NYT两千年亚太报道关键词变迁：美国的「威胁」与中国的「崛起」叙事轮回"
 description: "**[媒体叙事的周期律正在亚太重演]**  将2000年来《纽约时报》亚太报道做量化分析，每个国家提取最高频关键词——结果呈现出明显的叙事轮回：美国媒体对华叙事在不同历史周期反复切换「威胁」与「接触」两种框架，当前正处于新一轮「威胁」叙事上升期。  关键信号：这个分析揭示了西方主流媒体对亚太地区的报道并非客观记录，而是存在显著的叙事惯性。关键词的更替往往滞后于现实变化5-10年，说明国际舆论场存在"
 resource: "https://x.com/i/status/2057351408131956848"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2057351408131956848"
+created: "2026-05-21"
+updated: "2026-06-26"
+sha256: "aea604ba47cb887d774e7962a326144bd7ffdd9d308d752277f0612a61616d1b"
+sources:
+  - "/sources/news/2026-05-21/00__mranti__nyt两千年亚太报道关键词变迁-美国的-威胁-与中国的-崛起-叙事轮回.md"
 ---
 
 # NYT两千年亚太报道关键词变迁：美国的「威胁」与中国的「崛起」叙事轮回

@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "AI 基础设施股持续碾压预期：市场在用真金白银投票「算力 > 应用」"
 description: "**市场正在结构性地奖励 AI 基础设施层，即使估值倍数已经很高。**  - SOFI、HOOD 等零售概念股遭遇重挫，而 BE、STX、NXP 等 AI 基础设施股持续交出亮眼财报 - 关键信号：在当前从低点反弹的阶段，市场更倾向于追涨赢家而非抄底输家 - 「输家」（基本面没问题但股价弱）的传统抄底逻辑正在失效  gakki 锐评：这不是简单的「AI 概念炒作」，而是市场在重新定价「谁在 AI "
 resource: "https://x.com/amitisinvesting/status/2049542991107256569"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "ai-trend-digest"
+type_okf: "X Tweet"
+source_url: "https://x.com/amitisinvesting/status/2049542991107256569"
+created: "2026-04-29"
+updated: "2026-06-26"
+sha256: "8ae7df82408e0b641b287d573e04da75f3a14f4e95501e68bbe7bd4626dcce6b"
+sources:
+  - "/sources/news/2026-04-29/00__amitisinvesting__ai-基础设施股持续碾压预期-市场在用真金白银投票-算力-应用.md"
 ---
 
 # AI 基础设施股持续碾压预期：市场在用真金白银投票「算力 > 应用」

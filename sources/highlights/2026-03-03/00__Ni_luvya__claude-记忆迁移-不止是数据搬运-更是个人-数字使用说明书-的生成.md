@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Claude 记忆迁移：不止是数据搬运，更是个人“数字使用说明书”的生成"
 description: "**记忆迁移的深层隐喻：AI 正在帮我们编写属于自己的“操作手册”** - Claude 的记忆导入功能，本质是将用户在其他平台（如 ChatGPT）形成的交互习惯和经验“资产化”，实现跨平台技能包复用。 - 其价值超越便捷性，在于帮助用户梳理和固化自己的最佳实践（“项目的使用说明书”），让 AI 更懂如何配合用户独特的工作流。 - 这标志着 AI 从“通用工具”向“个性化协作者”演进的关键一步，"
 resource: "https://x.com/i/status/2028632690665336866"
@@ -22,6 +22,13 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "claude-memory-migration"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2028632690665336866"
+created: "2026-03-03"
+updated: "2026-06-26"
+sha256: "6166aaf01766d77328feaa79b1e154711779782f38298a32b477dbeaf64686c2"
+sources:
+  - "/sources/highlights/2026-03-03/00__Ni_luvya__claude-记忆迁移-不止是数据搬运-更是个人-数字使用说明书-的生成.md"
 ---
 
 # Claude 记忆迁移：不止是数据搬运，更是个人“数字使用说明书”的生成

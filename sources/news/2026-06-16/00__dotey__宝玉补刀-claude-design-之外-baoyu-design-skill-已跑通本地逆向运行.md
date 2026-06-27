@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "宝玉补刀：Claude Design 之外，baoyu-design skill 已跑通本地逆向运行"
 description: "**[头部设计 Agent 能力正在被逆向成本碾压]** - 宝玉在评论中向用户推荐：除了 Claude Design，也可以试试\"逆向后能本地运行\"的 baoyu-design skill - 这是对前几日\"AI 工具复刻与软件护城河崩塌\"主线的工程化补丁——从设计稿→代码，延伸到设计 Agent 本身可被本地化复刻 - 触发场景是用户做简历，说明设计工具的复制成本下沉到个人文档级用例  宝玉把"
 resource: "https://x.com/i/status/2066937645519774205"
@@ -22,6 +22,13 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "ai-tool-cloning-phenomenon"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2066937645519774205"
+created: "2026-06-16"
+updated: "2026-06-26"
+sha256: "7d7a4be74be66fcc9fdd40d27effdd96c1fb250cf931c4896bbc7d2906df0c6e"
+sources:
+  - "/sources/news/2026-06-16/00__dotey__宝玉补刀-claude-design-之外-baoyu-design-skill-已跑通本地逆向运行.md"
 ---
 
 # 宝玉补刀：Claude Design 之外，baoyu-design skill 已跑通本地逆向运行

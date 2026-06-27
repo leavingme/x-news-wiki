@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "全局Skills正在变成另一种形式的环境污染"
 description: "**一句话核心判断：LLM应用向操作系统级渗透，Skills的全域植入正在制造新的技术债务而非效率。**  - 宝玉公开批评「给你装全局skills」的行为，暗示Agent工作流中存在强制技能植入的问题； - Skills本应是按需调用的工具集，但「全局化」趋势正在让它失去可组合性与可预测性； - 这与SKILL.md生态标准化的行业呼声形成张力——平台想沉淀资产，用户想要控制权。  gakki："
 resource: "https://x.com/i/status/2049305012740739495"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2049305012740739495"
+created: "2026-04-29"
+updated: "2026-06-26"
+sha256: "18108169b20d99487b982239a5c689297f5c1c91bc22ff3f99a1d6788d2af4cf"
+sources:
+  - "/sources/news/2026-04-29/00__dotey__全局skills正在变成另一种形式的环境污染.md"
 ---
 
 # 全局Skills正在变成另一种形式的环境污染

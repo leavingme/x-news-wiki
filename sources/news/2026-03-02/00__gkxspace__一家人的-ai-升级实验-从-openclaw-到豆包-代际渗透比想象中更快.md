@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "一家人的 AI 升级实验：从 OpenClaw 到豆包，代际渗透比想象中更快"
 description: "**[AI 工具完成跨代际家庭渗透的现实样本]** - 用户记录年假期间全家（祖父母至大学生）AI 能力同步提升：OpenClaw/ChatGPT/Claude Code/豆包各取所需 - 信号：AI 工具正在从「极客玩具」变为「家庭基础设施」，代际数字鸿沟意外地被弥合  当爷爷奶奶开始和豆包对话，AI 的「全民普及」临界点可能已经到来。这种渗透是自下而上的，不需要官方推动。"
 resource: "https://x.com/i/status/2028105231997837769"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2028105231997837769"
+created: "2026-03-01"
+updated: "2026-06-26"
+sha256: "d9d603e6de349e7aef7f0779c80ef2bfcd012385ead28925803e1f7696273dad"
+sources:
+  - "/sources/news/2026-03-02/00__gkxspace__一家人的-ai-升级实验-从-openclaw-到豆包-代际渗透比想象中更快.md"
 ---
 
 # 一家人的 AI 升级实验：从 OpenClaw 到豆包，代际渗透比想象中更快

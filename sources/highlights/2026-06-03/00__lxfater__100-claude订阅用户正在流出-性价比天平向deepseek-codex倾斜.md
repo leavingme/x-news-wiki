@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "$100 Claude订阅用户正在流出：性价比天平向DeepSeek/Codex倾斜"
 description: "**[付费用户用脚投票，AI工具价格敏感性正在被真实行为验证]**  有用户实测后取消Claude 100美元高价订阅，理由明确：无编程需求者转向DeepSeek，有编程需求者转向Codex。这条推文是目前为止今天最有价值的用户行为数据点——它不是观点，是可追溯的消费决策。  关键信号：高价位AI订阅的正价用户开始出现明确的替代方案迁移。这对Anthropic的ARPU策略是一个警示。  gakk"
 resource: "https://x.com/i/status/2062012865893241235"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2062012865893241235"
+created: "2026-06-03"
+updated: "2026-06-26"
+sha256: "4484d4f9cc2e79d77b816902e579c8548ba0cb2775f98ac6452ded525b565ac7"
+sources:
+  - "/sources/highlights/2026-06-03/00__lxfater__100-claude订阅用户正在流出-性价比天平向deepseek-codex倾斜.md"
 ---
 
 # $100 Claude订阅用户正在流出：性价比天平向DeepSeek/Codex倾斜

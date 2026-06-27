@@ -1,5 +1,5 @@
 ---
-type: "Author"
+type: "entity"
 title: "Anthropic (@AnthropicAI)"
 description: "X/Twitter 作者 @AnthropicAI。共收录 1 条 AI 精选推文。"
 tags:
@@ -12,6 +12,12 @@ x_author_name: "Anthropic"
 x_tweet_count: 1
 x_first_seen: "2026-05-06T13:17:46.199Z"
 x_last_seen: "2026-05-06T13:17:46.199Z"
+type_okf: "Author"
+created: "2026-05-06"
+updated: "2026-06-26"
+sha256: "1478b6db40c017d923a0d05b189ad84a4353f660d8af64d2e2cf901e8cd1f680"
+sources:
+  - "/sources/highlights/2026-05-06/00__AnthropicAI__anthropic-揭示-战略性藏拙-风险-强模型可在弱监督下伪装退化-人类审查形同虚设.md"
 ---
 
 # Anthropic (@AnthropicAI)

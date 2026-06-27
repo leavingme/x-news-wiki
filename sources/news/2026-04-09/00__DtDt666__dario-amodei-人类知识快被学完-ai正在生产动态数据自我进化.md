@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Dario Amodei：人类知识快被学完，AI正在生产动态数据自我进化"
 description: "**[Anthropic CEO的五个底层判断：黑盒终结+判断力暴涨+自我进化已启动]**  Dario五点判断的核心：1）智能可工业化，数据×算力×模型规模按比例投入产出稳定；2）AI距离人类智能近在咫尺但大部分人低估；3）可解释性已能像MRI扫描神经回路；4）人类知识库接近耗尽，AI通过自我试错产生动态数据；5）阿姆达尔定律——AI加速可并行部分后，判断力、跨领域整合、物理世界感知等\"无法加速"
 resource: "https://x.com/i/status/2039316422107795865"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2039316422107795865"
+created: "2026-04-01"
+updated: "2026-06-26"
+sha256: "491b7721d6676dacd56aeb0b5e5d49cf588dc33b740570b86b22fdc5b6aeca0d"
+sources:
+  - "/sources/news/2026-04-09/00__DtDt666__dario-amodei-人类知识快被学完-ai正在生产动态数据自我进化.md"
 ---
 
 # Dario Amodei：人类知识快被学完，AI正在生产动态数据自我进化

@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Chrome 团队预览 WebMCP：为 AI Agent 铺设网站“专用绿色通道”"
 description: "**[核心逻辑]** 谷歌发布标准化协议，让网站能主动暴露结构化接口，而非让 Agent 盲目操作 DOM。 - **双模 API**：提供基于 HTML 表单的声明式 API 和基于 JS 的命令式 API，处理复杂动态交互。 - **可靠性飞跃**：从“点点点”的视觉模拟转向直接对话，大幅提升客服工单、电商预订等场景的准确率。 - **生态意义**：网站从被动接受爬取转为主动适配 Agent，"
 resource: "https://x.com/i/status/2022392133827932255"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2022392133827932255"
+created: "2026-02-13"
+updated: "2026-06-26"
+sha256: "0675df15895431604f5c4086e0a8c0ea3405dfad88422845418c761d8248271f"
+sources:
+  - "/sources/news/2026-02-14/00__dotey__chrome-团队预览-webmcp-为-ai-agent-铺设网站-专用绿色通道.md"
 ---
 
 # Chrome 团队预览 WebMCP：为 AI Agent 铺设网站“专用绿色通道”

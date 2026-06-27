@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "歸藏实测 Nano Banana Pro：指令遵循与文字渲染双优，已可替代 Nano Banana 2"
 description: "**Nano Banana Pro 相对前代在指令遵循和文字错误率上有可见提升，实用性达到可投产水平。**  要点： - 指令遵循明显优于 Nano Banana 2，过度优化（over-optimization）减少 - 文字渲染错误率显著下降，不再「离谱」 - 视觉对比中，Nano Banana Pro 在文字密度高的场景下表现更稳  gakki 锐评：单点测试不能定生死，但 Pro 版的提升"
 resource: "https://x.com/i/status/2068245684474819015"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2068245684474819015"
+created: "2026-06-20"
+updated: "2026-06-26"
+sha256: "255c23714ec302382ce54952b014281d14e4a04069f674bf4c8e3251e7b4bf91"
+sources:
+  - "/sources/news/2026-06-20/00__op7418__歸藏实测-nano-banana-pro-指令遵循与文字渲染双优-已可替代-nano-banana-2.md"
 ---
 
 # 歸藏实测 Nano Banana Pro：指令遵循与文字渲染双优，已可替代 Nano Banana 2

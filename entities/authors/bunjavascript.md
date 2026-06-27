@@ -1,5 +1,5 @@
 ---
-type: "Author"
+type: "entity"
 title: "Bun (@bunjavascript)"
 description: "X/Twitter 作者 @bunjavascript。共收录 1 条 AI 精选推文。"
 tags:
@@ -12,6 +12,12 @@ x_author_name: "Bun"
 x_tweet_count: 1
 x_first_seen: "2026-05-02T13:17:57.363Z"
 x_last_seen: "2026-05-02T13:17:57.363Z"
+type_okf: "Author"
+created: "2026-05-02"
+updated: "2026-06-26"
+sha256: "4f0be0c60ecf9c52feb1021019dd0653f52873b2e5a481f041e86b0d7c68509c"
+sources:
+  - "/sources/news/2026-05-02/00__bunjavascript__bun-内置-bun-image-js-运行时开始原生吞噬图像处理能力.md"
 ---
 
 # Bun (@bunjavascript)

@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Michael Anti：电梯工工种消亡的静默见证者"
 description: "**【基础设施工种的消失从未停止，只是从未被记录】**  Michael Anti分享初到北京时目睹电梯工（唯一工作：按楼层按钮）的震惊——这一工种在当时仍大规模存在。隐含命题：重复性基础设施劳动的自动化替代，早于LLM时代就已静默发生。  要点： - 电梯工的消失是工业自动化替代的微观切片，比AI替代更早、更静默 - 揭示\"技术性失业\"的非均匀分布：低技能基础设施岗位最先消失，但无人关注 - 暗"
 resource: "https://x.com/i/status/2058430071623569765"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2058430071623569765"
+created: "2026-05-24"
+updated: "2026-06-26"
+sha256: "c553de598621bd5cfdc917e889cb397efecd1aab5a21a78dff3225a3d6027425"
+sources:
+  - "/sources/news/2026-05-24/00__mranti__michael-anti-电梯工工种消亡的静默见证者.md"
 ---
 
 # Michael Anti：电梯工工种消亡的静默见证者

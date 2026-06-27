@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "宝玉吐槽 Claude Code Desktop 四大 UX 灾难：Cowork 和 Code 根本不该拆成两个产品"
 description: "**Anthropic 的产品线正在用 UX 复杂度惩罚自己的开发者。**  宝玉列出 Claude Code Desktop 的四个设计缺陷：Plan mode 记忆上次会话导致简单任务强制写 plan、sidebar 不按 Projects 分组、Panel 列表挤成一团，以及——最核心的批评——**Cowork 和 Code 根本没必要分成两套不同的产品**。  「Cowork vs Cod"
 resource: "https://x.com/i/status/2055777343222808744"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2055777343222808744"
+created: "2026-05-16"
+updated: "2026-06-26"
+sha256: "653703e1e4ecdbf19747f65ecb34507f0b5698df031c8fa873c0f1e49344f6c7"
+sources:
+  - "/sources/news/2026-05-17/00__dotey__宝玉吐槽-claude-code-desktop-四大-ux-灾难-cowork-和-code-根本不该拆成两个产品.md"
 ---
 
 # 宝玉吐槽 Claude Code Desktop 四大 UX 灾难：Cowork 和 Code 根本不该拆成两个产品

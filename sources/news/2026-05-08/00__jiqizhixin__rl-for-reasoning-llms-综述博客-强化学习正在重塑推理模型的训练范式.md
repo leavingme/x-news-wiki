@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "RL for Reasoning LLMs 综述博客：强化学习正在重塑推理模型的训练范式"
 description: "**RL 从「对齐工具」升级为「推理引擎」，训练范式正在分化。** - 机器之心推荐的综述博客，系统梳理 RL 在推理型 LLM 中的应用现状 - 覆盖 GRPO、DPO、Process Supervision 等关键方法，是理解当前推理模型训练路线的参考文献 - 对关注 AI 科研范式的读者具有情报价值，尤其是 RLHF → RL for Reasoning 的范式迁移  锐评：这篇综述的价值不"
 resource: "https://x.com/i/status/2052607424260198542"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2052607424260198542"
+created: "2026-05-08"
+updated: "2026-06-26"
+sha256: "4df33dca4cc99ab84f45f17151a801371090b1d74df6b7f884f2d753a6e019aa"
+sources:
+  - "/sources/news/2026-05-08/00__jiqizhixin__rl-for-reasoning-llms-综述博客-强化学习正在重塑推理模型的训练范式.md"
 ---
 
 # RL for Reasoning LLMs 综述博客：强化学习正在重塑推理模型的训练范式

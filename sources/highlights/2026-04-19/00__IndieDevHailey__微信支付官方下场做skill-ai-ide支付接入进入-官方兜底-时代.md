@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "微信支付官方下场做Skill：AI IDE支付接入进入「官方兜底」时代"
 description: "**微信支付出了个AI Native的Skill，AI代码里直接调支付成为现实。**  微信支付Skills正式开源，支持在Cursor、Claude等AI IDE里直接调用。能自动判断JSAPI/APP/H5/小程序最合适的方式，生成带签名的标准代码，做配置/参数/签名质检，错误一键定位。  核心价值：AI生成支付代码的最大痛点——签名错、回调漏、参数不对——第一次有了官方解决方案而非社区野路子"
 resource: "https://x.com/i/status/2044029056807759897"
@@ -22,6 +22,13 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "ai-agent-crypto-infra"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2044029056807759897"
+created: "2026-04-14"
+updated: "2026-06-26"
+sha256: "8df03ffdf01ff0d86ad20582b1d8ef1e4e3a576ec4bf6901271e6c71ef2eb9d8"
+sources:
+  - "/sources/highlights/2026-04-19/00__IndieDevHailey__微信支付官方下场做skill-ai-ide支付接入进入-官方兜底-时代.md"
 ---
 
 # 微信支付官方下场做Skill：AI IDE支付接入进入「官方兜底」时代

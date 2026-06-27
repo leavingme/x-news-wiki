@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "玉伯重新定义API：Agent Program Interface 是下一代应用的底层语法"
 description: "**【从Application到Agent的范式跃迁】** • API正在被重新诠释——不再是程序调用程序，而是Agent编排Agent • Skill + API = New APP，揭示Agent时代的应用组装逻辑：原子能力是Skill，连接协议是API • 这与MCP范式形成互文：API是语法，Skill是词汇，Agent是句法  这不是修辞游戏。当API的定义从\"程序接口\"转向\"Agent"
 resource: "https://x.com/i/status/2035016939819487569"
@@ -22,6 +22,13 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "skill-vs-mcp-paradigm"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2035016939819487569"
+created: "2026-03-20"
+updated: "2026-06-26"
+sha256: "0963eefdf969572a90ad4bfc3b2ad271c604bf462c41b355e0d651e62ff3d997"
+sources:
+  - "/sources/highlights/2026-03-21/00__lifesinger__玉伯重新定义api-agent-program-interface-是下一代应用的底层语法.md"
 ---
 
 # 玉伯重新定义API：Agent Program Interface 是下一代应用的底层语法

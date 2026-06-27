@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Omni2Sound：清华/蒙纳士/盛数AI联合发布统一音视频生成模型，DiT架构首次实现「看视频或文字都能出音频」且无任务冲突"
 description: "**【一句话核心判断】**  清华、蒙纳士与盛数 AI 联合发布 Omni2Sound，首次通过标准 DiT 架构统一视频/文本转音频任务，声称在离屏音频生成等多个任务上达到 SOTA。  **信息增量：** - 训练数据 SoundAtlas 含 47 万高质量对齐样本（视频-文本-音频三联），解决多任务联合训练冲突问题 - 采用三阶段训练调度（three-stage training sche"
 resource: "https://x.com/i/status/2055645946399338816"
@@ -22,6 +22,13 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "ai-video-cinematic"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2055645946399338816"
+created: "2026-05-16"
+updated: "2026-06-26"
+sha256: "fe0b110c4593176c6274bbf11cee2960e6dc047a681ef45bb4fd774e55e3d02f"
+sources:
+  - "/sources/highlights/2026-05-16/00__jiqizhixin__omni2sound-清华-蒙纳士-盛数ai联合发布统一音视频生成模型-dit架构首次实现-看视频或文字都能出音频-且无.md"
 ---
 
 # Omni2Sound：清华/蒙纳士/盛数AI联合发布统一音视频生成模型，DiT架构首次实现「看视频或文字都能出音频」且无任务冲突

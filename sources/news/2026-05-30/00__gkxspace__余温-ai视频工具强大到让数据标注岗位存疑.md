@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "余温：AI视频工具强大到让数据标注岗位存疑"
 description: "**[AI工具替代正在向内容生产上游侵蚀]**  余温观察到某AI视频编辑工具的能力后，直接抛出一个职业存亡问题：数据标注这个岗位现在还存在吗？  信息增量在于：这不只是视频剪辑，而是整个内容生产流水线上的「清洗-标注-编辑」环节正在被端到端AI压缩。数据标注曾是AI训练的数据基础，现在连这个基础本身也在被AI自动化。  gakki锐评：数据标注的消失是AI替代层级推进的必然——从执行层向感知层的"
 resource: "https://x.com/i/status/2060593976109912555"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2060593976109912555"
+created: "2026-05-30"
+updated: "2026-06-26"
+sha256: "a3c867556344325d27df904fb698c23597e63dc05560f37284b28dbd85b1e7c8"
+sources:
+  - "/sources/news/2026-05-30/00__gkxspace__余温-ai视频工具强大到让数据标注岗位存疑.md"
 ---
 
 # 余温：AI视频工具强大到让数据标注岗位存疑

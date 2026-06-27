@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Google AI Studio 内置安卓模拟器：浏览器即 IDE 边界彻底模糊"
 description: "**[AI Studio 连续更新，浏览器内开发安卓应用成为现实]**  昨晚 AI Studio 两个重要能力：直接拉取 Google Docs/Sheets 作数据库；网页内开发安卓应用并内置模拟器。  博主实测 3.1 Pro 前端能力强于安卓开发，但内置模拟器这一动作本身是信号——Google 正在抹平「开发环境」与「消费界面」的最后一层纱。  数据库直连 + 模拟器内嵌，两件事叠加意味着"
 resource: "https://x.com/i/status/2056913908489937395"
@@ -22,6 +22,13 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "ai-tool-subscription-value"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2056913908489937395"
+created: "2026-05-20"
+updated: "2026-06-26"
+sha256: "67026ffb0fe630aa8e61d902dbf28e61a4990a0f22a329966ac3b1fc1e9b2dcf"
+sources:
+  - "/sources/highlights/2026-05-20/00__op7418__google-ai-studio-内置安卓模拟器-浏览器即-ide-边界彻底模糊.md"
 ---
 
 # Google AI Studio 内置安卓模拟器：浏览器即 IDE 边界彻底模糊

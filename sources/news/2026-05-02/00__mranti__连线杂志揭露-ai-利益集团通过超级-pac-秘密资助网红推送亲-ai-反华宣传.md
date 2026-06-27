@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "连线杂志揭露：AI 利益集团通过超级 PAC 秘密资助网红推送亲 AI 反华宣传"
 description: "**AI 产业的政治游说从国会山延伸到 TikTok，信息战的形态正在被 AI 自身重塑。**  - 与 Palantir 和 OpenAI 高管关联的超级 PAC 资金，流向 TikTok/IG 网红用于亲 AI、反中国的宣传内容 - Michael Anti 指出内在矛盾：用 AI 工具制作反 AI 威胁的宣传，逻辑自噬 - 这不是阴谋论，而是 AI 利益集团的「软性认知战」基础设施  gak"
 resource: "https://x.com/i/status/2050409403170558193"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2050409403170558193"
+created: "2026-05-02"
+updated: "2026-06-26"
+sha256: "a85a0ba10bdb00c6385e6914768038670b310f3b3b25f99cd5f5f6edc1ca12d4"
+sources:
+  - "/sources/news/2026-05-02/00__mranti__连线杂志揭露-ai-利益集团通过超级-pac-秘密资助网红推送亲-ai-反华宣传.md"
 ---
 
 # 连线杂志揭露：AI 利益集团通过超级 PAC 秘密资助网红推送亲 AI 反华宣传

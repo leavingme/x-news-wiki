@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Gemini 3.2 Flash 已悄然上线：Google 正在用「静默部署」策略抢占模型迭代节奏"
 description: "**Google 正在将模型更新从「发布会事件」降级为「日常部署」，这本身就是一种竞争策略。**  - Gemini 3.2 Flash 已在客户端被用户发现，但 Google 尚未官宣，说明 Flash 级模型已进入「持续交付」模式 - 主力版本（如 Gemini 3.2 Pro/Ultra）大概率会留给 I/O 大会作为战略发布节点 - 这种「先让小模型跑起来、大模型留作品牌事件」的节奏，正在"
 resource: "https://x.com/kimmonismus/status/2051630990456660044"
@@ -22,6 +22,13 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "model-capabilities"
 x_source: "ai-trend-digest"
+type_okf: "X Tweet"
+source_url: "https://x.com/kimmonismus/status/2051630990456660044"
+created: "2026-05-05"
+updated: "2026-06-26"
+sha256: "b9be706f269d29f27f0366d9a7934169aceebd1db74577ebdb058072b3046724"
+sources:
+  - "/sources/news/2026-05-05/00__kimmonismus__gemini-3-2-flash-已悄然上线-google-正在用-静默部署-策略抢占模型迭代节奏.md"
 ---
 
 # Gemini 3.2 Flash 已悄然上线：Google 正在用「静默部署」策略抢占模型迭代节奏

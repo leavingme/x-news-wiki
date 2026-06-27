@@ -1,5 +1,5 @@
 ---
-type: "Author"
+type: "entity"
 title: "Tw93 (@HiTw93)"
 description: "X/Twitter 作者 @HiTw93。共收录 1 条 AI 精选推文。"
 tags:
@@ -12,6 +12,12 @@ x_author_name: "Tw93"
 x_tweet_count: 1
 x_first_seen: "2026-03-14T00:42:37.912Z"
 x_last_seen: "2026-03-14T00:42:37.912Z"
+type_okf: "Author"
+created: "2026-03-14"
+updated: "2026-06-26"
+sha256: "fe86ac56530c008cfd6c8fe9e06eea890e3b710b7efac345b56ac080766b0989"
+sources:
+  - "/sources/highlights/2026-03-14/82__HiTw93__claude-code-三步反馈法-的进阶课-教会你agent底层逻辑的12层架构.md"
 ---
 
 # Tw93 (@HiTw93)

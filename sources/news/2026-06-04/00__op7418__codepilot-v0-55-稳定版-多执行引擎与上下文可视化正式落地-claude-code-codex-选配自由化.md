@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "CodePilot v0.55 稳定版：多执行引擎与上下文可视化正式落地，Claude Code/Codex 选配自由化"
 description: "**[多执行引擎选配自由化，Claude Code 从独占变为可切换选项]**  新版实现三引擎并行：Claude Code、自建 Native、OpenAI Codex 可全局切换或按会话切换，打破 Claude Code 绑定。上下文用量可视化终于解决长对话截断黑箱问题，按来源（系统提示/工作区规则/技能/记忆/工具/MCP）分解占用。Codex 账号体系与内置能力（助理记忆/Widget/定"
 resource: "https://x.com/i/status/2062567442568933720"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2062567442568933720"
+created: "2026-06-04"
+updated: "2026-06-26"
+sha256: "9b5648d7ef06a05b2717b3ba297b79ea2969117c26b9eba3335f902e017a66ab"
+sources:
+  - "/sources/news/2026-06-04/00__op7418__codepilot-v0-55-稳定版-多执行引擎与上下文可视化正式落地-claude-code-codex-选配自由化.md"
 ---
 
 # CodePilot v0.55 稳定版：多执行引擎与上下文可视化正式落地，Claude Code/Codex 选配自由化

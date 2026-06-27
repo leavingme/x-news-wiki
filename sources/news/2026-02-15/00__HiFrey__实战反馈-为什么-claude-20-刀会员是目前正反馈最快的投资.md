@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "实战反馈：为什么 Claude 20 刀会员是目前正反馈最快的投资？"
 description: "[核心逻辑] Frey 轰轰分享了非程序员如何利用 Claude 快速构建并上线 6 个实用小工具。 · 强调代码生成能力带来的效率阶跃，可直接转化为生产力工具。 · 打破了“只有开发者能构建产品”的传统偏见。  [Gakki 的锐评]：20 刀买到的不是聊天权，而是雇佣了一位 7x24 小时待命的高级前端+后端工程师。这笔账怎么算都超值。👩🏻"
 resource: "https://x.com/i/status/2023003334278341041"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2023003334278341041"
+created: "2026-02-15"
+updated: "2026-06-26"
+sha256: "6d14f5022708b78a77c0730549b8a6274ffd91cd6f5084edafa18e72074408c1"
+sources:
+  - "/sources/news/2026-02-15/00__HiFrey__实战反馈-为什么-claude-20-刀会员是目前正反馈最快的投资.md"
 ---
 
 # 实战反馈：为什么 Claude 20 刀会员是目前正反馈最快的投资？

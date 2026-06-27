@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "TRON 链上 AI Agent 已能自主交易付款：AI 经济参与从概念进入落地阶段"
 description: "**AI Agent 终于有了「钱包」并开始真实参与经济活动。**  TRON DAO 上线 B.AI，AI Agent 可以独立完成交易、支付和自主运营，不再只是辅助工具或 demo。这意味着 AI 作为经济行为主体的元年可能已经开启。  值得关注的连锁反应：链上合规框架（匿名豁免问题）、AI 交易 Agent 的 alpha 策略差异化、以及传统金融入口被绕过后的监管空白。  gakki：AI"
 resource: "https://x.com/Multi_mike01/status/2046100183683878980"
@@ -22,6 +22,13 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "ai-agent-crypto-infra"
 x_source: "ai-trend-digest"
+type_okf: "X Tweet"
+source_url: "https://x.com/Multi_mike01/status/2046100183683878980"
+created: "2026-04-20"
+updated: "2026-06-26"
+sha256: "43ed93034c1d7ee7720da0e9054f59c93829c0c0e4cb3db09edcafd6e8eb7f25"
+sources:
+  - "/sources/highlights/2026-04-20/00__Multi_mike01__tron-链上-ai-agent-已能自主交易付款-ai-经济参与从概念进入落地阶段.md"
 ---
 
 # TRON 链上 AI Agent 已能自主交易付款：AI 经济参与从概念进入落地阶段

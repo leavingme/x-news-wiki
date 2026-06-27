@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Google 给 Gemma 4 开源 MTP 草稿模型：推测解码 3 倍提速，本地 26B MoE 实测 2.2 倍，端侧推理瓶颈从算力转向带宽"
 description: "**Gemma 4 的 MTP drafter 是 Google 对端侧推理效率的一次精准手术。** - 推测解码机制：轻量小模型一次猜多个 token，大模型并行验证，把闲置算力利用起来 - Apple Silicon 跑 26B MoE，batch 4-8 时本地实测约 2.2 倍提速 - 核心洞察：LLM 推理瓶颈不在算力而在内存带宽，推测解码恰好切在这个痛点上  gakki 锐评：这不只是"
 resource: "https://x.com/i/status/2051717367164518467"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2051717367164518467"
+created: "2026-05-05"
+updated: "2026-06-26"
+sha256: "e5380515a5a67e377184708701d26e254996df1f721110473267582744da0820"
+sources:
+  - "/sources/news/2026-05-05/00__dotey__google-给-gemma-4-开源-mtp-草稿模型-推测解码-3-倍提速-本地-26b-moe-实测-2-2-倍-.md"
 ---
 
 # Google 给 Gemma 4 开源 MTP 草稿模型：推测解码 3 倍提速，本地 26B MoE 实测 2.2 倍，端侧推理瓶颈从算力转向带宽

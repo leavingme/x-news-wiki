@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "API 中转站灰色地带收紧：免费午餐的法律成本开始显性化"
 description: "**AI 工具链的合规阴影正在从「大家都知道」变成「真的有人被抓」。**  - 铁锤人抛出「中转站为什么会被抓」的疑问，暗示 API 中转/转发服务的法律风险已从理论变成现实 - 中转站本质是用低合规成本绕过平台定价和 KYC，随着各大模型厂商收紧 API 管控，这类服务的法律风险急剧上升 - 对依赖中转站获取廉价算力的独立开发者和小团队，这是一个明确的信号：基础设施选择要开始算合规成本了  ga"
 resource: "https://x.com/i/status/2050975987983114638"
@@ -22,6 +22,13 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "ai-agent-tool-call-tax"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2050975987983114638"
+created: "2026-05-03"
+updated: "2026-06-26"
+sha256: "61a9a32752d0710d8bfd85ac4359d59f4f314a795d2bf34c7eb11c773b4f4daf"
+sources:
+  - "/sources/news/2026-05-03/00__lxfater__api-中转站灰色地带收紧-免费午餐的法律成本开始显性化.md"
 ---
 
 # API 中转站灰色地带收紧：免费午餐的法律成本开始显性化

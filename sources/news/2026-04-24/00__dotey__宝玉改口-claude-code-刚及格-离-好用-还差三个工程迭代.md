@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "宝玉改口：Claude Code 刚及格，离「好用」还差三个工程迭代"
 description: "**[Claude Code 的真实水位：期望值正在系统性回调]**  宝玉在用过一段时间后修正了之前的乐观评价：「夸早了点，只能说比以前好多了」。  - 之前属于「兴奋期」判断，现在进入「日常使用」阶段 - 说明 Claude Code 在核心场景的稳定性仍未完全过关 - 社区里「好用到封神」和「就是不行」的评价共存，说明这是一款高度场景依赖的产品  **gakki 锐评：** 工具评测最怕的就"
 resource: "https://x.com/i/status/2047396679679090994"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2047396679679090994"
+created: "2026-04-23"
+updated: "2026-06-26"
+sha256: "0ca4866992292edc97490527131f1ff0755058c9c9bcb5fa6d6bc3a8573d0596"
+sources:
+  - "/sources/news/2026-04-24/00__dotey__宝玉改口-claude-code-刚及格-离-好用-还差三个工程迭代.md"
 ---
 
 # 宝玉改口：Claude Code 刚及格，离「好用」还差三个工程迭代

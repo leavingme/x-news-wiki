@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Skills 管理的工程纪律：Symlink 是解药"
 description: "**[skills 目录用 Symlink 链接到原始 Repo，改完直接提 PR——这是 Agent 时代最高效的协作闭环]**  • 版本控制更干净：避免 Skills 目录变成孤岛，修改记录完整追溯。 • 发现问题直接在 Repo 里改，改完 Agent 自己 Review 提 PR，流程零摩擦。 • 验证是公认难题：脚本可单元测试，Skill 本身暂无标准验证方法。  ⚠️ Windows"
 resource: "https://x.com/i/status/2039762741284553033"
@@ -22,6 +22,13 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "agent-memory-optimization"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2039762741284553033"
+created: "2026-04-02"
+updated: "2026-06-26"
+sha256: "95a0973147cc99f167dacfe5a05e8c409d81d5cc035c8475a939191f61d71561"
+sources:
+  - "/sources/highlights/2026-04-02/00__dotey__skills-管理的工程纪律-symlink-是解药.md"
 ---
 
 # Skills 管理的工程纪律：Symlink 是解药

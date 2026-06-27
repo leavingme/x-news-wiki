@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Altman 被燃烧弹砸醒：AI 焦虑正在从「失业叙事」升级为「物理伤害叙事」"
 description: "**[当骂名具象化，Altman 成为 AI 恐惧的实体靶子]**  Sam Altman 凌晨 3 点 45 分被一枚莫洛托夫鸡尾酒燃烧弹袭击，燃烧弹从房子弹开，家人未受伤。Altman 罕见地在博客贴出全家福，试图用家庭形象阻止下一个潜在攻击者。他将此次袭击与几天前一篇争议文章直接关联——那篇文章被警告「会让他变得更危险」，他当时没当回事。  **信息增量：** 这不是普通的极端事件。在 AI"
 resource: "https://x.com/i/status/2042748811014013435"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2042748811014013435"
+created: "2026-04-10"
+updated: "2026-06-26"
+sha256: "243662acdbd0d46732988404e4ca77f6ade2565a281d4a6ef21051ee4e5004c3"
+sources:
+  - "/sources/highlights/2026-04-11/00__dotey__altman-被燃烧弹砸醒-ai-焦虑正在从-失业叙事-升级为-物理伤害叙事.md"
 ---
 
 # Altman 被燃烧弹砸醒：AI 焦虑正在从「失业叙事」升级为「物理伤害叙事」

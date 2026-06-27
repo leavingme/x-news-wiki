@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Anthropic 上市前夜，Dario 把 Mythos 威胁论与文明崩溃概率打包定价"
 description: "**[Anthropic 上市前夜的密集叙事：Dario 把 Mythos、军用 Claude 与 10-25% 文明崩溃概率一次性打包销售给资本市场]**  - Mythos 模型自承上千漏洞、能黑银行、撬国家机密，NSA 抢着用——Anthropic 选择不发布这款自研最强模型 - 1-5 年内砍掉 50% 入门级白领工作的预测首次明确化，配合\"飞机会坠毁\"的类比把概率论证做实 - 美军用 C"
 resource: "https://x.com/i/status/2065991805238497732"
@@ -22,6 +22,13 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "anthropic-commercial-explosion"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2065991805238497732"
+created: "2026-06-14"
+updated: "2026-06-26"
+sha256: "7f3164da22ea846367313932759f5ffa583ad4eedb4131c95dd1733f8fb3492a"
+sources:
+  - "/sources/highlights/2026-06-14/00__xiaohu__anthropic-上市前夜-dario-把-mythos-威胁论与文明崩溃概率打包定价.md"
 ---
 
 # Anthropic 上市前夜，Dario 把 Mythos 威胁论与文明崩溃概率打包定价

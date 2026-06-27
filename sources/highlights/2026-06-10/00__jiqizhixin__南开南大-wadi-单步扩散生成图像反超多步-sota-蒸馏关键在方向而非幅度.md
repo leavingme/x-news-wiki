@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "南开南大 WaDi：单步扩散生成图像反超多步 SOTA，蒸馏关键在方向而非幅度"
 description: "**单步扩散首次在图像生成上系统性追平并超越多步 SOTA，蒸馏范式正被重写。**  - 南开大学、南京大学、NKIARI 联合发布 WaDi，发现扩散模型蒸馏过程中**权重方向变化比幅度更关键** - 设计 LoRaD（低秩旋转适配器）专门建模方向漂移，仅用约 10% 可训练参数 - 在 COCO 2014/2017 上 FID 达到 SOTA，且泛化性得到验证   gakki 锐评：单步生成一"
 resource: "https://x.com/i/status/2064687775702483122"
@@ -22,6 +22,13 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "ai-video-queue-economy"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2064687775702483122"
+created: "2026-06-10"
+updated: "2026-06-26"
+sha256: "c930f6bac8e5c7611749fb4e2bfc5b379fb6b9f88b7892029ed1d3ca8d8cc1ea"
+sources:
+  - "/sources/highlights/2026-06-10/00__jiqizhixin__南开南大-wadi-单步扩散生成图像反超多步-sota-蒸馏关键在方向而非幅度.md"
 ---
 
 # 南开南大 WaDi：单步扩散生成图像反超多步 SOTA，蒸馏关键在方向而非幅度

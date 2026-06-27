@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Claude Code「能调通但配置诡异」：Anthropic工具链的隐性复杂度正在浮出水面"
 description: "**[Anthropic的工具链正在经历\"好用但不可知\"的成熟期困境]**  • 歸藏反馈Claude Code\"能调通但怀疑配置有问题\"，且无法自行排查——这是工具隐性复杂度的典型症状 • Claude Code的闭源经济学（宝玉帖子已分析）在用户侧体现为\"黑盒调试\"的无力感 • 当工具足够好用但底层逻辑不透明，用户进入\"信任但无法掌控\"的薛定谔状态  Claude Code的「克制哲学」是护城"
 resource: "https://x.com/i/status/2047549595803430993"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2047549595803430993"
+created: "2026-04-24"
+updated: "2026-06-26"
+sha256: "8dc914e308c6cf26fced16db85ee6377d9bbfd1e1cf52efc80fa779ca7025a73"
+sources:
+  - "/sources/news/2026-04-24/00__op7418__claude-code-能调通但配置诡异-anthropic工具链的隐性复杂度正在浮出水面.md"
 ---
 
 # Claude Code「能调通但配置诡异」：Anthropic工具链的隐性复杂度正在浮出水面

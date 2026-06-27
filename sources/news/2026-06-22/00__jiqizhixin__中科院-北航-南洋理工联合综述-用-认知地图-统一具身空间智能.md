@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "中科院/北航/南洋理工联合综述：用「认知地图」统一具身空间智能"
 description: "**具身空间智能首次被「认知地图」框架统一拆解，三能力闭环为感知-推理-生成。**  要点： 1. 把 cognitive map 定义为「内部、持久、抽象且全局」的世界模型，与 LeCun 的世界模型路线形成中文学界的同频回应 2. 框架把空间 AI 拆成 building the map（感知）、thinking inside it（推理）、bringing it to life（生成）三层，"
 resource: "https://x.com/i/status/2069161000360649070"
@@ -22,6 +22,13 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "theory-of-space-embodied-ai"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2069161000360649070"
+created: "2026-06-22"
+updated: "2026-06-26"
+sha256: "79040ba28d42eef717fb6f1848011a3c11f9b17ecd2be25985b8944958f43976"
+sources:
+  - "/sources/news/2026-06-22/00__jiqizhixin__中科院-北航-南洋理工联合综述-用-认知地图-统一具身空间智能.md"
 ---
 
 # 中科院/北航/南洋理工联合综述：用「认知地图」统一具身空间智能

@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Orange AI 提醒：当生产力暴增的景象超出集体经验时，多数人的本能反应是判它为泡沫"
 description: "**AI 生产力指数级增长的「认知时差」正在制造系统性误判。** - 当产出增速超过观察者的经验框架时，「泡沫」成为默认解释——这不是分析结论，是认知防御机制。 - 这个信号对投资者、开发者和政策制定者都成立：你对 AI 工具链产出的直觉，大概率是滞后的。 - gakki 锐评：Orange AI 说的现象是真的，但「大部分人都没见过」本身也是幸存者偏差——见过的人正在闷声赚钱，没空纠正你的世界观"
 resource: "https://x.com/i/status/2052158756683948093"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2052158756683948093"
+created: "2026-05-06"
+updated: "2026-06-26"
+sha256: "fb6b5894203bc09c92ac7ba9d4289e3bed7d5502bbaaeb9f228659d954990a1a"
+sources:
+  - "/sources/news/2026-05-07/00__oran_ge__orange-ai-提醒-当生产力暴增的景象超出集体经验时-多数人的本能反应是判它为泡沫.md"
 ---
 
 # Orange AI 提醒：当生产力暴增的景象超出集体经验时，多数人的本能反应是判它为泡沫

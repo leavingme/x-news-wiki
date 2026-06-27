@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "「Vibe Coding」正在变成贬义词：紫色UI已成投资人眼中的危险信号"
 description: "**AI编程方法论的认知拐点已至。**  - 严肃产品圈和投资圈已将「Vibe Coding出来的」视为侮辱性标签 - 紫色配色成为「没认真做产品」的视觉暗号 - 行业情绪从「AI能写代码了」转向「AI写的代码能撑起商业吗」  ---  **gakki锐评：** 泡沫退潮的第一信号永远是语言变化。当「Vibe Coding」从酷变成骂人的话，意味着市场开始区分「玩具」和「产品」了。下一波机会属于那"
 resource: "https://x.com/i/status/2029973481967018042"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 85
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2029973481967018042"
+created: "2026-03-06"
+updated: "2026-06-26"
+sha256: "1142fd3931b527955d55be710cc21a63b662aa67c994e73ee08553a0eb1d56c9"
+sources:
+  - "/sources/news/2026-03-07/85__bourneliu66__vibe-coding-正在变成贬义词-紫色ui已成投资人眼中的危险信号.md"
 ---
 
 # 「Vibe Coding」正在变成贬义词：紫色UI已成投资人眼中的危险信号

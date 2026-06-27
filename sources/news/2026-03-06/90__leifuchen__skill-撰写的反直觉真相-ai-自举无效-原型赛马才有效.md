@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Skill 撰写的反直觉真相：AI 自举无效，原型赛马才有效"
 description: "**[Skill 工程的核心方法论被验证：蒸馏不如迭代]**  • Anthropic Skill-Creator 的实践揭示：AI 自发生成的 Skill 只是训练数据重述，信息增益趋近于零 • 有效路径是：人工草拟思路 → 批量生成 10-20 个原型 → AI 筛选迭代 → 择优固化 • 这与 Claude Code「用几十组原型验证代替需求说明」的开发哲学一致  **gakki 锐评**："
 resource: "https://x.com/i/status/2029538793552789916"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 90
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2029538793552789916"
+created: "2026-03-05"
+updated: "2026-06-26"
+sha256: "c10ebd4f3c074203f6d5f396be487f3c7655f1e0560860a6a90e4a1c82a587a5"
+sources:
+  - "/sources/news/2026-03-06/90__leifuchen__skill-撰写的反直觉真相-ai-自举无效-原型赛马才有效.md"
 ---
 
 # Skill 撰写的反直觉真相：AI 自举无效，原型赛马才有效

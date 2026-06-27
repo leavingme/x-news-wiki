@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "乌克兰能获得中国无人机供应链，根源是坚持一中政策——地缘政治博弈的结构性洞察"
 description: "**一句话核心判断：** 乌克兰维持一中政策换取中国对俄乌问题睁```json"
 resource: "https://x.com/i/status/2056256981095285229"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2056256981095285229"
+created: "2026-05-18"
+updated: "2026-06-26"
+sha256: "f6c258dbd082dd9912d3b772feb13f0d507798606951c3a3132d7f22b23421b6"
+sources:
+  - "/sources/news/2026-05-18/00__mranti__乌克兰能获得中国无人机供应链-根源是坚持一中政策-地缘政治博弈的结构性洞察.md"
 ---
 
 # 乌克兰能获得中国无人机供应链，根源是坚持一中政策——地缘政治博弈的结构性洞察

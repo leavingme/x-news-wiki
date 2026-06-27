@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Stripe Treasury 上线：Agent 支付基础设施从「借道加密货币」走向「正统银行账户」"
 description: "**Stripe Treasury 为 Agent 提供原生银行级资金管理能力，削弱了加密货币作为 Agent 支付唯一通道的叙事。**  - Stripe Treasury 提供银行账户详情、余额转账、信用卡等功能，所有操作基于 Stripe 余额完成 - 这意味着 AI Agent 可以通过 Stripe 生态获得正规的金融基础设施，无需依赖加密货币通道 - 对 Agent 经济而言，传统金融"
 resource: "https://x.com/marclou/status/2049541496630575541"
@@ -22,6 +22,13 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "ai-agent-crypto-infra"
 x_source: "ai-trend-digest"
+type_okf: "X Tweet"
+source_url: "https://x.com/marclou/status/2049541496630575541"
+created: "2026-04-29"
+updated: "2026-06-26"
+sha256: "303f345d26ce1dadb95f1ff8ea7fbdd3fdf85fd78b669bcd186684f4a5d9a355"
+sources:
+  - "/sources/news/2026-04-29/00__marclou__stripe-treasury-上线-agent-支付基础设施从-借道加密货币-走向-正统银行账户.md"
 ---
 
 # Stripe Treasury 上线：Agent 支付基础设施从「借道加密货币」走向「正统银行账户」

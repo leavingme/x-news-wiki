@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "宝玉主观体感：Codex 在稳定性上略胜 Claude Code"
 description: "**[宝玉在对比体验中给出 Codex「更稳」的主观判定]**  - 宝玉在回复中明确表示\"目前 codex 的感觉稳一点\"，延续其此前 Codex CLI 封装与 Agent 工具工程系列观察。 - 与既有\"Codex 接受模糊 Goal 能跑 6 小时\"的工程化表现形成呼应，验证了 Codex 在长程任务中的可靠性优势。 - 与 Claude Code 高频迭代但偶发降级的体验形成对比，进一步"
 resource: "https://x.com/i/status/2065830383015407646"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2065830383015407646"
+created: "2026-06-13"
+updated: "2026-06-26"
+sha256: "fcd913609fd58832be0fe9e8d86080fd08564a76d8d92e90a177762ef5c8df99"
+sources:
+  - "/sources/news/2026-06-13/00__dotey__宝玉主观体感-codex-在稳定性上略胜-claude-code.md"
 ---
 
 # 宝玉主观体感：Codex 在稳定性上略胜 Claude Code

@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "OpenAI Agents SDK 内置沙箱 + Harness：开发者终于不用自己搭底层环境了"
 description: "**[一键部署梦碎？OpenAI 开始「收编」Agent 运行环境]**  OpenAI Agents SDK 最新升级加入两个关键组件：内置沙箱执行环境（支持 Cloudflare/Vercel/Modal/E2B 等主流厂商）和 Manifest 统一配置层（S3/GCS/Azure Blob 挂载）。这意味着文件读写、代码执行、依赖安装、状态保存这些底层能力，SDK 自己包圆了。  以前开发"
 resource: "https://x.com/i/status/2044474625510318235"
@@ -22,6 +22,13 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "openai-super-app-strategy"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2044474625510318235"
+created: "2026-04-15"
+updated: "2026-06-26"
+sha256: "15a643fec62389e6652491806713e4f99dacbfcef17b083f066be13f5d85ac07"
+sources:
+  - "/sources/highlights/2026-04-16/00__dotey__openai-agents-sdk-内置沙箱-harness-开发者终于不用自己搭底层环境了.md"
 ---
 
 # OpenAI Agents SDK 内置沙箱 + Harness：开发者终于不用自己搭底层环境了

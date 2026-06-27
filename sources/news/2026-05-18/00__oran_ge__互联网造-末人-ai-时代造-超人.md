@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "互联网造「末人」，AI 时代造「超人」"
 description: "**【一句话核心判断】** AI 时代将人类从欲望循环中拽出，迫使直面「我要什么」的存在命题。  **信息增量：** - 互联网产品设计逻辑：缩短「欲望→满足→空虚」循环，人被推着走，是叔本华式的盲目意志驱动 - AI 时代权力意志反转：执行力外包后，瓶颈从「能不能」变为「要什么」——方向、判断、承担成为新稀缺 - 批判性洞察：互联网造「末人」（被算法支配的消费者），AI 时代逼人做「超人」（主动"
 resource: "https://x.com/i/status/2056140767580807563"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2056140767580807563"
+created: "2026-05-17"
+updated: "2026-06-26"
+sha256: "31ac44d5153be3b386af9e2719a7dcba1f698fc1154d61706454f51b02711750"
+sources:
+  - "/sources/news/2026-05-18/00__oran_ge__互联网造-末人-ai-时代造-超人.md"
 ---
 
 # 互联网造「末人」，AI 时代造「超人」

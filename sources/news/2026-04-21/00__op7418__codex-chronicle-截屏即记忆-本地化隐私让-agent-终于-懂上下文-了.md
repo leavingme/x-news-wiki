@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Codex Chronicle：截屏即记忆，本地化隐私让 Agent 终于「懂上下文」了"
 description: "**[ 本地截屏替代手动喂文档，Codex 用 Chronicle 补上了 Agent 记忆的短板 ]**  歸藏实测 Codex 新功能 Chronicle：自动持续截屏构建上下文记忆，用户无需手动交代「你说的是哪个文档、哪个 Bug」。截屏全部本地存储，Pro 用户独占。  这补上了 Codex 作为 Agent 的关键缺口——上下文感知。在长线开发中，Agent 频繁「失忆」是最大痛点，Ch"
 resource: "https://x.com/i/status/2046421860896907422"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2046421860896907422"
+created: "2026-04-21"
+updated: "2026-06-26"
+sha256: "3c2b042e57ac48a2eca9fe2ca3c6dbdc478b932b157273e275cbff2aaf0687dd"
+sources:
+  - "/sources/news/2026-04-21/00__op7418__codex-chronicle-截屏即记忆-本地化隐私让-agent-终于-懂上下文-了.md"
 ---
 
 # Codex Chronicle：截屏即记忆，本地化隐私让 Agent 终于「懂上下文」了

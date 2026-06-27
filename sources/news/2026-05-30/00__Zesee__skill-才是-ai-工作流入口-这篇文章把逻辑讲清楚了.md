@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Skill 才是 AI 工作流入口：这篇文章把逻辑讲清楚了"
 description: "**一篇系统性论述 Skill 作为 AI 入口价值的文章在圈内流传。**  • 核心论点：相比聊天式交互，Skill（技能封装）提供了更可复用、可解释、可组合的工作流单元。 • 与传统聊天式 prompt 相比，Skill 具有版本化、参数化、可分享的结构化优势。 • 这是对 GPTs 路径的延续与修正——从\"对话\"到\"调用\"的认知升级。  gakki：Skill 作为入口这件事逻辑上成立，但门"
 resource: "https://x.com/i/status/2060624545829081371"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2060624545829081371"
+created: "2026-05-30"
+updated: "2026-06-26"
+sha256: "c66ee7a52c5fd8f0070c6b4472f8e558e59bff2ff9615147662ca4a2c326beb3"
+sources:
+  - "/sources/news/2026-05-30/00__Zesee__skill-才是-ai-工作流入口-这篇文章把逻辑讲清楚了.md"
 ---
 
 # Skill 才是 AI 工作流入口：这篇文章把逻辑讲清楚了

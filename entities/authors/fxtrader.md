@@ -1,5 +1,5 @@
 ---
-type: "Author"
+type: "entity"
 title: "外汇交易员 (@fxtrader)"
 description: "X/Twitter 作者 @fxtrader。共收录 10 条 AI 精选推文。"
 tags:
@@ -12,6 +12,21 @@ x_author_name: "外汇交易员"
 x_tweet_count: 10
 x_first_seen: "2026-02-05T01:00:11.452Z"
 x_last_seen: "2026-04-08T05:41:10.127Z"
+type_okf: "Author"
+created: "2026-02-05"
+updated: "2026-06-26"
+sha256: "040b317002761835fe57c20290a6c43fd4e8423c47f84a75e56940ac076c73e8"
+sources:
+  - "/sources/highlights/2026-03-01/00__fxtrader__华尔街日报确认-美军空袭行动调用anthropic-ai技术.md"
+  - "/sources/highlights/2026-03-17/00__fxtrader__国安部定调-龙虾-养殖-agent-安全正式进入监管话语.md"
+  - "/sources/highlights/2026-03-19/00__fxtrader__苹果的-躺赚-ai战略-零芯片投入-一年收割9亿美元app-store税.md"
+  - "/sources/highlights/2026-03-20/00__fxtrader__小米mimo-v2-pro正式亮剑-万亿参数模型api定价仅为claude-opus-1-5.md"
+  - "/sources/highlights/2026-04-08/00__fxtrader__谷歌turboquant-内存压缩6倍背后的-deepseek时刻-是市场误读.md"
+  - "/sources/news/2026-02-05/00__fxtrader__谷歌财报反转-ai-搜索模式日查询量翻倍重塑检索习惯.md"
+  - "/sources/news/2026-02-06/00__fxtrader__anthropic-引发-saas-末日论-ai-正在重塑软件价值链.md"
+  - "/sources/news/2026-02-06/00__fxtrader__openai-推出-gpt-5-3-codex-从代码助手进化为桌面-数字员工.md"
+  - "/sources/news/2026-03-13/85__fxtrader__美团王兴重估ai冲击-agent对生产力的颠覆将超越chatgpt.md"
+  - "/sources/news/2026-03-20/00__fxtrader__openai-桌面超级应用-战略浮出水面-atlas浏览器-chatgpt-codex三合一.md"
 ---
 
 # 外汇交易员 (@fxtrader)

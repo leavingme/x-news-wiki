@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Fable 5 把「爱验证」做成差异，但用户开始精打细算思考成本"
 description: "**[Fable 5 把『爱验证』做成产品差异，但也成了 Token 黑洞]** - 宝玉反馈：以前推理无脑选 Max，现在对 Fable 5 要精打细算——「它足够聪明不需要」加上「验证耗时长 token 消耗大」 - 模型行为特征：偏好「多走一步再交卷」，把过程监督内化进默认行为 - 用户使用模式正在分化：允许模型想多久、值不值得用 Max，本身就是新工程问题  锐评：当「会验证」从加分项变成"
 resource: "https://x.com/i/status/2065124409203994688"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2065124409203994688"
+created: "2026-06-11"
+updated: "2026-06-26"
+sha256: "d757b41e46c4d3117f8831988e6e64398e45daf7f7e0d4a820ec30043029980d"
+sources:
+  - "/sources/news/2026-06-11/00__dotey__fable-5-把-爱验证-做成差异-但用户开始精打细算思考成本.md"
 ---
 
 # Fable 5 把「爱验证」做成差异，但用户开始精打细算思考成本

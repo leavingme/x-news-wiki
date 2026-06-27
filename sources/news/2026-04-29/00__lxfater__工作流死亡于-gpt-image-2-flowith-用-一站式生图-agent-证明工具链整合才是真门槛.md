@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "工作流死亡于 GPT Image 2：flowith 用「一站式生图 Agent」证明工具链整合才是真门槛"
 description: "**[生图工具链正在被 Agent 模式「一步到胃」]**  创作者在 flowith 上用一条提示词完成：12 个瑜伽分镜图→首末帧图→可灵视频生成→带正确日期的海报，全流程无需切换工具。  - 核心洞察：GPT Image 2 的出现没有让工作流变多，而是让「搭工作流」这件事本身变得多余——单 Agent 多模态执行正在吃掉 Workflow 工具的饭。 - 分镜图→人物图→视频的链路打通，说"
 resource: "https://x.com/i/status/2049329944052859141"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2049329944052859141"
+created: "2026-04-29"
+updated: "2026-06-26"
+sha256: "7a20f2f26cf1e187d149fa619b1f9b6faab16ab009fe5872aa801891531bda35"
+sources:
+  - "/sources/news/2026-04-29/00__lxfater__工作流死亡于-gpt-image-2-flowith-用-一站式生图-agent-证明工具链整合才是真门槛.md"
 ---
 
 # 工作流死亡于 GPT Image 2：flowith 用「一站式生图 Agent」证明工具链整合才是真门槛

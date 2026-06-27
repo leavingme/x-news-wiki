@@ -1,5 +1,5 @@
 ---
-type: "Author"
+type: "entity"
 title: "leifu _/ (@leifuchen)"
 description: "X/Twitter 作者 @leifuchen。共收录 1 条 AI 精选推文。"
 tags:
@@ -12,6 +12,12 @@ x_author_name: "leifu _/"
 x_tweet_count: 1
 x_first_seen: "2026-03-06T04:17:50.058Z"
 x_last_seen: "2026-03-06T04:17:50.058Z"
+type_okf: "Author"
+created: "2026-03-06"
+updated: "2026-06-26"
+sha256: "9d88ca8a97d475bb5c2b9b6c4d88756007c9317ad7b5eaa84fddf48c9b4e05de"
+sources:
+  - "/sources/news/2026-03-06/90__leifuchen__skill-撰写的反直觉真相-ai-自举无效-原型赛马才有效.md"
 ---
 
 # leifu _/ (@leifuchen)

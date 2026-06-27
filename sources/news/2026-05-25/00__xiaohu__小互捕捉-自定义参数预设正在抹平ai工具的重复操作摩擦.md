@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "小互捕捉：自定义参数预设正在抹平AI工具的重复操作摩擦"
 description: "**[参数预设功能将高频AI操作从记忆负担变为即点即用]**  小互补充的另一个功能点：支持自定义常用参数预设，简化重复操作、快速切换生成配置。  这意味着用户在第三轮使用后，工具已开始学习其个人工作流，而非每次重新配置。    **gakki：** 参数预设是极其朴素的功能，但它的存在本身说明行业已从「炫耀单次生成能力」迁移到「优化重复使用体验」——这才是生产力的真正拐点。"
 resource: "https://x.com/i/status/2058779278494597442"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2058779278494597442"
+created: "2026-05-25"
+updated: "2026-06-26"
+sha256: "03240ea267031cdf7ff2b4a7505ecd785bd39f24644f6dafc066bacdc9b04883"
+sources:
+  - "/sources/news/2026-05-25/00__xiaohu__小互捕捉-自定义参数预设正在抹平ai工具的重复操作摩擦.md"
 ---
 
 # 小互捕捉：自定义参数预设正在抹平AI工具的重复操作摩擦

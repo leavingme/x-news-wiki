@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Skill 范式的稳定性悖论：Python 固定流正在反噬 Skill 驱动的工作流"
 description: "**在实际项目中 Skill 的不稳定性已经让一位资深工程师放弃 Skill 驱动范式，全部改用 Python 固定流。**  核心矛盾：Skill 抽象层级高但黑盒不可控，Python 流透明、可微调且行为确定。  这与 Skill 驱动的愿景形成了鲜明对比——工具越抽象，调试成本越高。  gakki：「Skill 的本质是牺牲确定性换效率。但当 Skill 本身成为不稳定源时，这个交易就不划算"
 resource: "https://x.com/i/status/2038569750192943265"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2038569750192943265"
+created: "2026-03-30"
+updated: "2026-06-26"
+sha256: "dd21cefc4a29767001e8c5e166b3f58d0276428af9de654ca010e435635b9e16"
+sources:
+  - "/sources/news/2026-03-30/00__mranti__skill-范式的稳定性悖论-python-固定流正在反噬-skill-驱动的工作流.md"
 ---
 
 # Skill 范式的稳定性悖论：Python 固定流正在反噬 Skill 驱动的工作流

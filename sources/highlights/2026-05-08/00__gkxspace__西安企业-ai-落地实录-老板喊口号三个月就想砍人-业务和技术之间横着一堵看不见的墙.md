@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "西安企业 AI 落地实录：老板喊口号三个月就想砍人，业务和技术之间横着一堵看不见的墙"
 description: "**企业 AI 落地的最大障碍不是技术，是认知错位和组织隔阂。**  - 老板层：PPT 写「AI 赋能」去融资，但真实投入耐心以周计而非月计，签完项目幻想后天砍一半人力 - 业务层：不愿/不懂把完整工作流和真实痛点全盘托出，导致外部技术团队只能做表面功夫 - 认知层：默认「一句 Prompt 就能搞定」，严重低估流程梳理、数据治理、组织协同的系统工程量  这篇实录的价值在于它来自一线而非分析师。"
 resource: "https://x.com/i/status/2052760135408177232"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2052760135408177232"
+created: "2026-05-08"
+updated: "2026-06-26"
+sha256: "2600b46af79bedd5985d62eb65ec4846d32d6061e96b052072af3bff956f94f0"
+sources:
+  - "/sources/highlights/2026-05-08/00__gkxspace__西安企业-ai-落地实录-老板喊口号三个月就想砍人-业务和技术之间横着一堵看不见的墙.md"
 ---
 
 # 西安企业 AI 落地实录：老板喊口号三个月就想砍人，业务和技术之间横着一堵看不见的墙

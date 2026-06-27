@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Confirmo接入codex pets：AI工具的\"娱乐化皮肤\"正在成为用户粘性的新抓手"
 description: "**[严肃工具的\"玩具化\"设计正在验证一个假设：愉悦感也是生产力]** - Confirmo最新版支持codex pets，用户可在设置页面选择宠物陪伴coding - 这不是核心功能，但可能影响用户的工具选择偏好 - AI工具竞争正在从\"能力维度\"扩展到\"体验维度\"  gakki锐评：当所有IDE都能调用同样的模型，差异化的战场就转移到了\"用起来爽不爽\"。codex pets是小功能，但背后是工"
 resource: "https://x.com/i/status/2051696977734488376"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2051696977734488376"
+created: "2026-05-05"
+updated: "2026-06-26"
+sha256: "e71c4503eb532c4c0bbe9f8b9b06de36451564ea8a0aa0d102e8691b978719f1"
+sources:
+  - "/sources/news/2026-05-05/00__yetone__confirmo接入codex-pets-ai工具的-娱乐化皮肤-正在成为用户粘性的新抓手.md"
 ---
 
 # Confirmo接入codex pets：AI工具的"娱乐化皮肤"正在成为用户粘性的新抓手

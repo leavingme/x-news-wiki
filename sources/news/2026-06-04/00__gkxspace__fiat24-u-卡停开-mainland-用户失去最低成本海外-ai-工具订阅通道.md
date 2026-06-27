@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Fiat24 U 卡停开： mainland 用户失去最低成本海外 AI 工具订阅通道"
 description: "**一句话核心判断** Fiat24 明日停收大陆新用户，Bitget Wallet 联营的 U 卡这条「USDT 日常消费 + 海外 AI 工具订阅」的通道即将关闭——这不是金融监管动作，但对 AI 工具可得性的影响是实质性的。  **信息增量** 1. U 卡的核心价值是：USDT 充值 → 绑微信/支付宝直接花 + 订阅 Claude/ChatGPT 等海外服务，绕过了换汇和跨境支付两道坎 "
 resource: "https://x.com/i/status/2062438202632184098"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2062438202632184098"
+created: "2026-06-04"
+updated: "2026-06-26"
+sha256: "ddd37be97ac73268daea3ab580ae85643f8dda5daa38c527c24e0d21b50cd143"
+sources:
+  - "/sources/news/2026-06-04/00__gkxspace__fiat24-u-卡停开-mainland-用户失去最低成本海外-ai-工具订阅通道.md"
 ---
 
 # Fiat24 U 卡停开： mainland 用户失去最低成本海外 AI 工具订阅通道

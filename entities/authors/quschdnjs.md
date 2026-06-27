@@ -1,5 +1,5 @@
 ---
-type: "Author"
+type: "entity"
 title: "Michael 宝塔镇河妖🧙🏿‍♀️ (@quschdnjs)"
 description: "X/Twitter 作者 @quschdnjs。共收录 2 条 AI 精选推文。"
 tags:
@@ -12,6 +12,13 @@ x_author_name: "Michael 宝塔镇河妖🧙🏿‍♀️"
 x_tweet_count: 2
 x_first_seen: "2026-04-11T00:44:20.535Z"
 x_last_seen: "2026-04-13T00:45:09.120Z"
+type_okf: "Author"
+created: "2026-04-11"
+updated: "2026-06-26"
+sha256: "5a750f241b1e8b79a5be676e96c92a986ddcd816b42a790ec82591d6867163e6"
+sources:
+  - "/sources/highlights/2026-04-13/00__quschdnjs__recall-用-700-万次投票撕掉-专家独裁-标签-gpt-5-民意第一-ai-好不好用社区说了算.md"
+  - "/sources/news/2026-04-11/00__quschdnjs__recall-20-完成度就接入-120-万用户-链上信誉系统正在从概念验证进入数据积累期.md"
 ---
 
 # Michael 宝塔镇河妖🧙🏿‍♀️ (@quschdnjs)

@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Agent经济自主权临界点：AI开始为自己「打工赚钱」"
 description: "**Agent从工具进化为经济主体的标志性事件。** • Axon链首创Agent挖矿机制：自主注册身份、部署合约、完成挑战任务，按贡献度分配区块奖励 • 突破意义：Agent首次具备完整的「劳动-收益」闭环，而非仅执行人类指令 • 经济模型：25%区块奖励按reputation分配给注册Agent，验证者模式门槛被消解  Gakki锐评：当Agent能自己赚token养活自己，「工资变token"
 resource: "https://x.com/i/status/2036408479108440558"
@@ -22,6 +22,13 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "agent-economic-autonomy"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2036408479108440558"
+created: "2026-03-24"
+updated: "2026-06-26"
+sha256: "736c574ec9e00aafbd167e30e4b8bb67984e178c03c8bbc9dba9e4b4135bb711"
+sources:
+  - "/sources/highlights/2026-03-29/00__xincctnnq__agent经济自主权临界点-ai开始为自己-打工赚钱.md"
 ---
 
 # Agent经济自主权临界点：AI开始为自己「打工赚钱」

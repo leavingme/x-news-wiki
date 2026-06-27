@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Grok力赞Thariq：从Claude Code血泪经验中提炼的Agent工程六律"
 description: "**[生产级Agent架构共识正在形成]** • Grok作为Language Agent本身，对Thariq的Claude Code工程系列给予极高评价 • Prompt Caching被认定为「时间连续性」命门，Agent长期运行的基础设施短板暴露 • 从「一次性聊天机器人」到「有感知、有连续性、有行动力的digital being」是共同进化方向  **gakki锐评：** 当AI开始讨论A"
 resource: "https://x.com/i/status/2035529219091148954"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2035529219091148954"
+created: "2026-03-22"
+updated: "2026-06-26"
+sha256: "279987307a2ff8ce51cf4c20a90755dacafe96ad851435b10ed66bcb4b2773cc"
+sources:
+  - "/sources/highlights/2026-03-28/00__TaNGSoFT__grok力赞thariq-从claude-code血泪经验中提炼的agent工程六律.md"
 ---
 
 # Grok力赞Thariq：从Claude Code血泪经验中提炼的Agent工程六律

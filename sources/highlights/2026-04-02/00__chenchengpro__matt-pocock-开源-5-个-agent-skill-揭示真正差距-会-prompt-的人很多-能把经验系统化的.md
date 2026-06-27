@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Matt Pocock 开源 5 个 Agent Skill 揭示真正差距：会 prompt 的人很多，能把经验系统化的人很少"
 description: "**[经验系统化才是 AI 时代真正的稀缺能力]**  TypeScript 圈工程师 Matt Pocock 将自己日常使用的 5 个 Agent Skill 全量开源，3 天斩获 1.2k Stars。核心并非技能本身，而是背后折射的范式转移：大多数人用 AI 写代码还在逐条手敲 prompt，而真正拉开差距的是「把自己的工程经验编码成可复用流程模块」的能力。这 5 个 Skill（grill"
 resource: "https://x.com/i/status/2033855423623925869"
@@ -22,6 +22,13 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "agent-skill-usage-patterns"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2033855423623925869"
+created: "2026-03-17"
+updated: "2026-06-26"
+sha256: "4e375b1757981d7240cd3dc4cce32cf7037047e3739940678fe6e3fe6f072209"
+sources:
+  - "/sources/highlights/2026-04-02/00__chenchengpro__matt-pocock-开源-5-个-agent-skill-揭示真正差距-会-prompt-的人很多-能把经验系统化的.md"
 ---
 
 # Matt Pocock 开源 5 个 Agent Skill 揭示真正差距：会 prompt 的人很多，能把经验系统化的人很少

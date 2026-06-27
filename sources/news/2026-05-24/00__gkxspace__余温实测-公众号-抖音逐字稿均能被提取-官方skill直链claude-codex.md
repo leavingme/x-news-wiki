@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "余温实测：公众号、抖音逐字稿均能被提取，官方Skill直链Claude/Codex"
 description: "**[数据获取能力已不是瓶颈，瓶颈是提取后的语义理解层]**  余温实测证明：国内平台的完整内容（笔记+原文+配图、逐字稿）均可被抓取，且官方 Skill 已支持直链 Claude/Codex。这意味着数据源壁垒已大幅降低，Agent 获取信息的能力正在趋同。  真正有差异化的不再是「能否拿到数据」，而是拿到之后的理解质量、摘要结构和知识组织方式。  gakki：当数据不再被平台垄断，内容理解力才"
 resource: "https://x.com/i/status/2058550790734631369"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2058550790734631369"
+created: "2026-05-24"
+updated: "2026-06-26"
+sha256: "90054c0e24e4d5dc6c73b3078b265810bb5db9dc41870faad3df110721dbcca6"
+sources:
+  - "/sources/news/2026-05-24/00__gkxspace__余温实测-公众号-抖音逐字稿均能被提取-官方skill直链claude-codex.md"
 ---
 
 # 余温实测：公众号、抖音逐字稿均能被提取，官方Skill直链Claude/Codex

@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Anthropic黑客松冠军开源整套Agent系统：14个Agent、56个Skill的实战范本"
 description: "**[Claude Code生态正从个人技巧走向可复制的方法论]** • 8小时从零构建完整产品并斩获$15K奖金，证明AI编程已进入\"单兵作战即可交付\"阶段 • 开源 repo 包含 AgentShield 安全扫描、持续学习系统、跨平台支持等生产级组件 • 56+ Skills 的沉淀表明：有效的 Skill 设计来自实战迭代，而非AI自举生成  **gakki 锐评**：这是 Skill C"
 resource: "https://x.com/i/status/2030434516397891732"
@@ -22,6 +22,13 @@ x_selected: 2
 x_priority: 92
 x_related_topic: "claude-code-ecosystem"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2030434516397891732"
+created: "2026-03-08"
+updated: "2026-06-26"
+sha256: "98810c02964fe1d9253394c39a0ff61fd81751f62196698ca75ab7236ad9767f"
+sources:
+  - "/sources/highlights/2026-03-08/92__godofprompt__anthropic黑客松冠军开源整套agent系统-14个agent-56个skill的实战范本.md"
 ---
 
 # Anthropic黑客松冠军开源整套Agent系统：14个Agent、56个Skill的实战范本

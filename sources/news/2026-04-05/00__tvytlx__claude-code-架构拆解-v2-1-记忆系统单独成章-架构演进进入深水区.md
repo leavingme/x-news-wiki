@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Claude Code 架构拆解 v2.1：记忆系统单独成章，架构演进进入深水区"
 description: "**[ Claude Code 的记忆系统终于被文档化了 ]**  Xiao Tan 发布的 Claude Code 架构拆解 v2.1 将记忆系统单独作为第八章，标志着 Claude Code 的架构已经从「功能堆叠」进入「系统化工程」阶段。记忆系统的独立章节意味着它不再是旁路功能，而是核心架构模块。  • 记忆系统单独成章说明其设计复杂度已达到需要专门解释的程度 • 结合之前泄漏的 44 个功"
 resource: "https://x.com/i/status/2040354951143346424"
@@ -22,6 +22,13 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "claude-code-ecosystem"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2040354951143346424"
+created: "2026-04-04"
+updated: "2026-06-26"
+sha256: "6d44fb09a1b313d83f1615775d965bed908921fe7d25f601e2b408ceff96135c"
+sources:
+  - "/sources/news/2026-04-05/00__tvytlx__claude-code-架构拆解-v2-1-记忆系统单独成章-架构演进进入深水区.md"
 ---
 
 # Claude Code 架构拆解 v2.1：记忆系统单独成章，架构演进进入深水区

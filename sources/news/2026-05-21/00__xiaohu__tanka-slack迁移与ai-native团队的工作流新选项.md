@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Tanka：Slack迁移与AI Native团队的工作流新选项"
 description: "**[工具价值：Slack替代方案进入AI团队视野]**  Tanka 作为新一代团队协作工具，正在吸引从 Slack 迁移的 AI Native 团队关注。注册链接显示提供一个月 $29 Plus plan 白嫖体验。  这类工具的出现反映了一个趋势：AI 驱动的团队协作产品正在从概念验证走向商业化推广。  **gakki锐评：** 工具促销帖本身的传播价值有限，但\"Slack迁移\"这个动作值得"
 resource: "https://x.com/i/status/2057259629282034027"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2057259629282034027"
+created: "2026-05-21"
+updated: "2026-06-26"
+sha256: "2ee01aac22ef7b0eff6420a5336280703144d1507a7285bb4076d72278c96424"
+sources:
+  - "/sources/news/2026-05-21/00__xiaohu__tanka-slack迁移与ai-native团队的工作流新选项.md"
 ---
 
 # Tanka：Slack迁移与AI Native团队的工作流新选项

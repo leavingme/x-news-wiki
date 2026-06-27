@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "铁锤人质疑智谱榜单数据：开发者用脚投票，国产模型进入口碑深水区"
 description: "**榜单可以刷，「愿不愿意每天打开」才是最硬的指标。**  - 铁锤人公开表示智谱一次都没用过，而 Kimi、MiniMax 都已经亲测过 - 反映国产大模型用户心智正在分层，「听过」与「用过」之间形成认知鸿沟 - 真实写代码的开发者对榜单数据已普遍脱敏   gakki 锐评：榜单战是给投资人看的，体感战才是给用户打的。智谱要破的不是排名位置，是「听说但没动力装」这道墙——一旦进入\"没用过\"清单，"
 resource: "https://x.com/i/status/2067971019542004178"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2067971019542004178"
+created: "2026-06-19"
+updated: "2026-06-26"
+sha256: "9eba9b983314b63f9d531bf6614c8b497f17c7462a9b7713a6e910298eadf3d9"
+sources:
+  - "/sources/news/2026-06-19/00__lxfater__铁锤人质疑智谱榜单数据-开发者用脚投票-国产模型进入口碑深水区.md"
 ---
 
 # 铁锤人质疑智谱榜单数据：开发者用脚投票，国产模型进入口碑深水区

@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Perle首日五所齐发：Scale AI系团队押注\"AI数据链上验证\"卡位战"
 description: "**Perle ($PRL) 同日登陆Binance Alpha、Coinbase等五大平台，AI训练数据的链上验证叙事获得市场共识。**  • 卡位精准：AI赛道\"最不缺模型，最缺好数据\"——Perle用区块链解决数据质量溯源痛点 • 团队背景：Scale AI出身，1750万美元融资，具备数据标注领域的一线经验 • 交易所共识：五所同步上线说明\"AI+数据+Crypto\"三角叙事已获主流认可 "
 resource: "https://x.com/i/status/2037769251575001407"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2037769251575001407"
+created: "2026-03-28"
+updated: "2026-06-26"
+sha256: "befe1750e3fa8216382f2bc63b755e7cf79c4a23aa47a374c204498a379ed08e"
+sources:
+  - "/sources/news/2026-03-29/00__JiuHuangBuHuang__perle首日五所齐发-scale-ai系团队押注-ai数据链上验证-卡位战.md"
 ---
 
 # Perle首日五所齐发：Scale AI系团队押注"AI数据链上验证"卡位战

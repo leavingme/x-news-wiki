@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "「小龙虾即AI OS」：地方政府推广背后的生态基建逻辑"
 description: "**[AI Agent普及路径的「Windows盗版盘」类比：下沉市场的决定性战役]**  - 小龙虾被视为最原始形态的AI操作系统，AI编程是应用层生态 - 地方政府鼓励部署的本质：在PC端完成AI OS的普及，类比当年Windows盗版光盘的生态建设路径 - 暗示Agent竞争的终极战场不在技术栈，而在「装机量」和「开发者心智」   这个视角揭示了Agent赛道的一个被低估维度：技术领先性可能"
 resource: "https://x.com/i/status/2031539092425683381"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 88
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2031539092425683381"
+created: "2026-03-11"
+updated: "2026-06-26"
+sha256: "4fc27b5cbf51907afd357b617986f243a206e1679ee10377ac5a24535e76bcf6"
+sources:
+  - "/sources/news/2026-03-11/88__mranti__小龙虾即ai-os-地方政府推广背后的生态基建逻辑.md"
 ---
 
 # 「小龙虾即AI OS」：地方政府推广背后的生态基建逻辑

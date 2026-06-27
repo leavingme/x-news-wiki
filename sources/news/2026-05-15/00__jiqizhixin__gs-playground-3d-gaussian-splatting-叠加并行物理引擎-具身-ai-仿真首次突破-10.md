@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "GS-Playground：3D Gaussian Splatting 叠加并行物理引擎，具身 AI 仿真首次突破 100FPS 实时瓶颈"
 description: "**具身智能基础设施升级，sim-to-real 闭环提速一个量级。**  清华大学、Motphys、Dexmal 等联合发布 GS-Playground，将 3D Gaussian Splatting（高保真视觉渲染）与高速并行物理引擎融合，在 640×480 分辨率下达 104 FPS——比现有方案快数倍，同时在 locomotion、navigation、manipulation 三个维度均"
 resource: "https://x.com/i/status/2055112682521719088"
@@ -22,6 +22,13 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "embodied-ai-and-robotics"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2055112682521719088"
+created: "2026-05-15"
+updated: "2026-06-26"
+sha256: "a18600854f6c0f7aeb8a8327e860877ae68cd7af8e6275e26da56ec8fc36711e"
+sources:
+  - "/sources/news/2026-05-15/00__jiqizhixin__gs-playground-3d-gaussian-splatting-叠加并行物理引擎-具身-ai-仿真首次突破-10.md"
 ---
 
 # GS-Playground：3D Gaussian Splatting 叠加并行物理引擎，具身 AI 仿真首次突破 100FPS 实时瓶颈

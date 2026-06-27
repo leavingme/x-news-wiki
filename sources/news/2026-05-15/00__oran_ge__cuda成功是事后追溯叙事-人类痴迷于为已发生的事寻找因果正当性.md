@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "CUDA成功是事后追溯叙事：人类痴迷于为已发生的事寻找因果正当性"
 description: "**[一句话核心判断]**  CUDA成为AI计算基础设施核心，并非因为黄仁勋有预知未来的战略眼光，而是路径依赖与历史叙事的共同塑造。  **信息增量/影响：** - 技术史往往是\"倒放电影\"——人们用结果倒推原因，赋予历史决定论的光环 - CUDA早期本质是游戏GPU的副产物，黄仁勋的决策动机与后来AI革命毫无关系 - 这揭示了一个更普遍的问题：业界对\"成功经验\"的归纳往往是选择性叙事，而非真实"
 resource: "https://x.com/i/status/2055408473417101474"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2055408473417101474"
+created: "2026-05-15"
+updated: "2026-06-26"
+sha256: "708c0cb7abf497cf58b35911504080446bf43e9a143e774e892c3b91c6ac0165"
+sources:
+  - "/sources/news/2026-05-15/00__oran_ge__cuda成功是事后追溯叙事-人类痴迷于为已发生的事寻找因果正当性.md"
 ---
 
 # CUDA成功是事后追溯叙事：人类痴迷于为已发生的事寻找因果正当性

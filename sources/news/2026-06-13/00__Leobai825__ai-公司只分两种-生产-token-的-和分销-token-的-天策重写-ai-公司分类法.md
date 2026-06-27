@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "「AI 公司只分两种：生产 Token 的，和分销 Token 的」——天策重写 AI 公司分类法"
 description: "**天策给出一个干净的 AI 公司二分法：上游做 Token 产能，下游做 Token 分发，中间没有第三类。**  - 核心论断：Skill、Agent、Workflow 这些当前最热的概念，单独看都不赚钱 - 真正的钱从 Token 流过：模型厂商、推理云、分发平台、订阅渠道才是利润中心 - 对应「工业时代」的分销-制造框架，类比传统消费品链路   gakki 锐评：这个框架是给「想做 Age"
 resource: "https://x.com/i/status/2065709790257348840"
@@ -22,6 +22,13 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "token-economics-infrastructure"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2065709790257348840"
+created: "2026-06-13"
+updated: "2026-06-26"
+sha256: "b8e5574839de8283962f5b1337108064c76cf11fa4917e5b788e41b3313d393c"
+sources:
+  - "/sources/news/2026-06-13/00__Leobai825__ai-公司只分两种-生产-token-的-和分销-token-的-天策重写-ai-公司分类法.md"
 ---
 
 # 「AI 公司只分两种：生产 Token 的，和分销 Token 的」——天策重写 AI 公司分类法

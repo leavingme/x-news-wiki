@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Vibe Coding 热潮退潮：时间线已无人讨论，赚钱能力与 Vibecoding 无相关性"
 description: "**[一句话判断]：Vibe Coding 的\"造神叙事\"正在被真实商业回报证伪，AI Coding 风口从\"会做\"切换到\"能卖\"。**  要点： - 铁锤人观察到推特时间线已罕见 Vibe Coding 讨论，与年初全民刷屏形成鲜明对比 - 核心论点：能不能赚钱与会不会 Vibe Coding 没关系，且不赚钱的人研究越多越穷（机会成本陷阱） - 风向转变：行业关注点从\"AI 写代码多快\"回归到"
 resource: "https://x.com/i/status/2063452323607965967"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2063452323607965967"
+created: "2026-06-07"
+updated: "2026-06-26"
+sha256: "88e01c9a2e2de88b086d3af72c8a114a40b88f3f81e13039522d453831e6745f"
+sources:
+  - "/sources/news/2026-06-07/00__lxfater__vibe-coding-热潮退潮-时间线已无人讨论-赚钱能力与-vibecoding-无相关性.md"
 ---
 
 # Vibe Coding 热潮退潮：时间线已无人讨论，赚钱能力与 Vibecoding 无相关性

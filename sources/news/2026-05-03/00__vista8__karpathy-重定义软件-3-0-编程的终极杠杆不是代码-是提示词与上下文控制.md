@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Karpathy 重定义软件 3.0：编程的终极杠杆不是代码，是提示词与上下文控制"
 description: "**从写代码到写提示词，编程的定义正在被重写——但「上下文工程」才是真正的稀缺技能。**  - 软件 1.0（人写代码）→ 2.0（数据训练权重）→ 3.0（提示词 + 上下文控制），Karpathy 在红杉访谈中给出了最清晰的范式演进框架 - 核心洞察：软件 3.0 的编程杠杆是两件事——prompt engineering 和 context engineering，后者被严重低估 - 暗示了"
 resource: "https://x.com/i/status/2050935065107181950"
@@ -22,6 +22,13 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "推理与模型架构"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2050935065107181950"
+created: "2026-05-03"
+updated: "2026-06-26"
+sha256: "b1b92324997d014372cf0a12dc28128bb547a7ea2741830b97ed052f8f921666"
+sources:
+  - "/sources/news/2026-05-03/00__vista8__karpathy-重定义软件-3-0-编程的终极杠杆不是代码-是提示词与上下文控制.md"
 ---
 
 # Karpathy 重定义软件 3.0：编程的终极杠杆不是代码，是提示词与上下文控制

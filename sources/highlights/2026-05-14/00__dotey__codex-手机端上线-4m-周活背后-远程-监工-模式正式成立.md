@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Codex 手机端上线：4M 周活背后，远程\"监工\"模式正式成立"
 description: "**OpenAI 把 Codex 装进了 ChatGPT 手机 App，iOS/安卓同步开启 preview，免费版和 Go 套餐均可用。**  关键设计：手机只是远程窗口，代码和凭证留在原设备上，通过 secure relay 保持跨设备可达而不直接暴露公网。文件、上下文、会话状态随登录账号迁移。  当前硬限制：手机端仅支持连接 macOS 上的 Codex，Windows 支持\"据说\"在路线图"
 resource: "https://x.com/i/status/2055029251762422196"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2055029251762422196"
+created: "2026-05-14"
+updated: "2026-06-26"
+sha256: "2d9fdbdba6c72029e02636edac065e1d50121b2a21e207002a055d1158c2d879"
+sources:
+  - "/sources/highlights/2026-05-14/00__dotey__codex-手机端上线-4m-周活背后-远程-监工-模式正式成立.md"
 ---
 
 # Codex 手机端上线：4M 周活背后，远程"监工"模式正式成立

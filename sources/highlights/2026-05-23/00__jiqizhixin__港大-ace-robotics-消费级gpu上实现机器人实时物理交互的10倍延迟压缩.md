@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "港大+ACE Robotics：消费级GPU上实现机器人实时物理交互的10倍延迟压缩"
 description: "**[核心判断]** FASTER重新思考了VLA（视觉-语言-动作）模型的推理范式——不是减少模型复杂度，而是压缩动作生成时延，在消费级GPU上实现乒乓球实时对抗。  - 核心创新：Horizon-Aware Schedule将「全部去噪完成再动作」的传统范式改为单步即时动作压缩，延迟降低10倍。 - 意义：从「演示级」到「实时物理交互」的跨越，具身AI在消费硬件上的可行性窗口已打开。  gak"
 resource: "https://x.com/i/status/2058162529172406452"
@@ -22,6 +22,13 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "textop-humanoid-robot"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2058162529172406452"
+created: "2026-05-23"
+updated: "2026-06-26"
+sha256: "e51d1705248db77ecae671616c7fd6aa1fcd9c40a562c49bf9017d199b814360"
+sources:
+  - "/sources/highlights/2026-05-23/00__jiqizhixin__港大-ace-robotics-消费级gpu上实现机器人实时物理交互的10倍延迟压缩.md"
 ---
 
 # 港大+ACE Robotics：消费级GPU上实现机器人实时物理交互的10倍延迟压缩

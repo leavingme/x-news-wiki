@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "everything-claude-code 开源：12万星背后的生产级 Agent 工程范式"
 description: "**[Claude Code 生态进入「开箱即用」阶段]**  • 作者将完整配置（agent、skills、快捷指令、规则、MCP）全部开源，GitHub 12万星验证其工程价值 • 涵盖 Token 优化、记忆持久化、自我学习、评估打分、并行执行、多 Agent 协作等核心难题的实战解法 • 已验证可落地：作者凭此配置在黑客松夺冠，Windows/Mac 双平台可用  **gakki 锐评：*"
 resource: "https://x.com/i/status/2038801225756594664"
@@ -22,6 +22,13 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "claude-code-ecosystem"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2038801225756594664"
+created: "2026-03-31"
+updated: "2026-06-26"
+sha256: "2e66ae4942a653b63148e0ac35d08857cb4f29ab51fa0a03abec2f4741bd32a9"
+sources:
+  - "/sources/highlights/2026-03-31/00__IndieDevHailey__everything-claude-code-开源-12万星背后的生产级-agent-工程范式.md"
 ---
 
 # everything-claude-code 开源：12万星背后的生产级 Agent 工程范式

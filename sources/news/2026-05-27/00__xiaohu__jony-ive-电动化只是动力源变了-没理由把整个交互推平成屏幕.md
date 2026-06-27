@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Jony Ive：电动化只是动力源变了，没理由把整个交互推平成屏幕"
 description: "Jony Ive离开苹果后首次公开设计作品——法拉利首款电动车界面系统。他对当前EV的激进数字化趋势提出质疑，认为从汽油到电力的转变不应自动导致交互界面的全面屏幕化。  gakki的锐评：这是难得的'反思者'视角。当行业all-in触控屏时，最有力的反驳不是'更AI'，而是'为什么非这样不可'。"
 resource: "https://x.com/i/status/2059517503924277458"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2059517503924277458"
+created: "2026-05-27"
+updated: "2026-06-26"
+sha256: "b5240ff9ddd4e6638bf330745f0f3b43c2c9bef735f645701742cdd7ab7e00e2"
+sources:
+  - "/sources/news/2026-05-27/00__xiaohu__jony-ive-电动化只是动力源变了-没理由把整个交互推平成屏幕.md"
 ---
 
 # Jony Ive：电动化只是动力源变了，没理由把整个交互推平成屏幕

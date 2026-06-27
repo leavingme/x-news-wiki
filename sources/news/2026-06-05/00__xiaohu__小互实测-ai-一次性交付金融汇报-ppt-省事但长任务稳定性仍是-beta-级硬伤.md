@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "小互实测：AI 一次性交付金融汇报 PPT，省事但长任务稳定性仍是 Beta 级硬伤"
 description: "**AI 已能一次性完成详实且面面俱到的金融汇报 PPT，但仍属 Beta，长任务执行会断。**  要点： - 能力侧：单次 prompt 即可生成结构完整、内容详实的金融向汇报材料，对金融从业者是显著提效 - 工程侧：长链路任务中途会断开，需要用户手动让 Agent 继续——典型的长任务可靠性瓶颈 - 产品侧：仍处 Beta，意味着厂商自己也知道这是\"能跑但不稳\"的早期阶段   gakki 锐评"
 resource: "https://x.com/i/status/2062824778067771656"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2062824778067771656"
+created: "2026-06-05"
+updated: "2026-06-26"
+sha256: "ff691e94d47eba9c21281f14c0675eeed9e6108ed42f48ea705024186108b0ef"
+sources:
+  - "/sources/news/2026-06-05/00__xiaohu__小互实测-ai-一次性交付金融汇报-ppt-省事但长任务稳定性仍是-beta-级硬伤.md"
 ---
 
 # 小互实测：AI 一次性交付金融汇报 PPT，省事但长任务稳定性仍是 Beta 级硬伤

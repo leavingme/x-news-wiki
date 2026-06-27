@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Agent工程品位论：「发散-收敛」的约束美学才是高阶分水岭"
 description: "**[Agent Coding进入「品味筛选」阶段]** • 核心洞察：和AK的autoresearch一致，真正难的不是让Agent跑起来，而是设计「有品位」的约束机制 • 工程启示：无约束的发散是玩具，有收敛的约束才是产品 • 适用边界：适用于所有长链推理Agent系统，短链任务无需过度设计  **gakki锐评**：「野蛮生长」的浪漫叙事已过气，Harness Engineering的纪律性"
 resource: "https://x.com/i/status/2037925899010716129"
@@ -22,6 +22,13 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "agent-minimalist-implementation"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2037925899010716129"
+created: "2026-03-28"
+updated: "2026-06-26"
+sha256: "26aa94ddc7c2b8c685fd01ab38a1e10ef738f3bb823faa28ebc12ab883d760ae"
+sources:
+  - "/sources/highlights/2026-03-28/00__huangyun_122__agent工程品位论-发散-收敛-的约束美学才是高阶分水岭.md"
 ---
 
 # Agent工程品位论：「发散-收敛」的约束美学才是高阶分水岭

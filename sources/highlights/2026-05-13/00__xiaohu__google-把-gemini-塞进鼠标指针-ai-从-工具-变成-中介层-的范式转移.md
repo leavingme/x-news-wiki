@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Google 把 Gemini 塞进鼠标指针：AI 从「工具」变成「中介层」的范式转移"
 description: "**一句话核心判断：** Googlebook 不是硬件，是 Google 对「AI 作为 OS 默认管理层」的总押注。  光标悬停即触发 Gemini 上下文理解——邮件日期自动建会议、图片选区自动生成搭配效果、内容指向自动摘要改写。这意味着 AI 不再是人主动打开的功能，而是「理解人在做什么」并主动组织跨 App 协作的感知层。Google 官方已明确使用「proactive AI featu"
 resource: "https://x.com/i/status/2054347652918362597"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2054347652918362597"
+created: "2026-05-12"
+updated: "2026-06-26"
+sha256: "c6d3cf5a6a74f598fbfdac8b349ee7597c5db8360beeb781eb327c802e6eb62b"
+sources:
+  - "/sources/highlights/2026-05-13/00__xiaohu__google-把-gemini-塞进鼠标指针-ai-从-工具-变成-中介层-的范式转移.md"
 ---
 
 # Google 把 Gemini 塞进鼠标指针：AI 从「工具」变成「中介层」的范式转移

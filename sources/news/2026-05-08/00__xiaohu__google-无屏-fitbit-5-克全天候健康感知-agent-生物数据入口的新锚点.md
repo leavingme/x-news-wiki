@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Google 无屏 Fitbit：5 克全天候健康感知，Agent 生物数据入口的新锚点"
 description: "**可穿戴设备正在从「屏幕交互」回归「纯感知」，为 Agent 健康数据基建提供基础设施。** - 无屏幕设计，5 克重量，一周续航，5 分钟快充回血一整天 - 24 小时自动采集：心率、房颤警报、血氧、皮肤温度、睡眠分期、HRV、运动数据，无需手动操作 - 50 米防水，全天候无感佩戴  gakki 锐评：去屏化是正确方向——Agent 不需要你盯着它看，它只需要你身上的数据。Fitbit 这条"
 resource: "https://x.com/i/status/2052584541387444496"
@@ -22,6 +22,13 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "agent-perception-infrastructure"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2052584541387444496"
+created: "2026-05-08"
+updated: "2026-06-26"
+sha256: "ca1da60c552f1d2f22090981f5dbb5790faf0be07996d37f7c0c9744fcff7241"
+sources:
+  - "/sources/news/2026-05-08/00__xiaohu__google-无屏-fitbit-5-克全天候健康感知-agent-生物数据入口的新锚点.md"
 ---
 
 # Google 无屏 Fitbit：5 克全天候健康感知，Agent 生物数据入口的新锚点

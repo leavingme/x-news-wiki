@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "OpenClaw 核心引擎 Pi 的创建者：软件的终态是「自我修改」而非「等官方更新」"
 description: "**Pi 引擎创建者 Mario Zner 提出「自我修改软件」范式，OpenClaw 是第一个生产级验证。**\\n\\n- Mario Zner（Pi 创建者、OpenClaw 核心引擎开发者）判断未来软件不是静态等待官方更新，而是能根据用户需求动态自我改造和扩展。\\n- Pi 作为 OpenClaw 的核心引擎，支持极简架构下的自我修改能力，这与「Agent Native」的组织形态和「个人 A"
 resource: "https://x.com/i/status/2050374294165725250"
@@ -22,6 +22,13 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "openclaw-digital-life-philosophy"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2050374294165725250"
+created: "2026-05-02"
+updated: "2026-06-26"
+sha256: "5837cb0e2b36bd891ad5b01c9a4a77bdef8b2f2acb70aede9e73c94de3a5e7b7"
+sources:
+  - "/sources/news/2026-05-02/00__vista8__openclaw-核心引擎-pi-的创建者-软件的终态是-自我修改-而非-等官方更新.md"
 ---
 
 # OpenClaw 核心引擎 Pi 的创建者：软件的终态是「自我修改」而非「等官方更新」

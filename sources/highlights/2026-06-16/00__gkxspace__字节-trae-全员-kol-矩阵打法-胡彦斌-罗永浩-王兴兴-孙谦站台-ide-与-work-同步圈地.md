@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "字节 Trae 全员 KOL 矩阵打法：胡彦斌/罗永浩/王兴兴/孙谦站台，IDE 与 Work 同步圈地"
 description: "**[字节 AI 已从拼模型进入拼营销密度的下半场]**  · Trae IDE 抓开发者、Trae Work 抓办公用户，线下高校活动全国铺开 · KOL 阵容横跨娱乐圈（胡彦斌、罗永浩）、具身智能（王兴兴/宇树、孙谦/智元）、投资圈（Tim） · 王兴兴+孙谦站台暗示 Trae 正在拉拢机器人/具身智能开发者生态  gakki 锐评：字节把 '抖音式地推' 复制到了 AI 工具赛道——这套打法"
 resource: "https://x.com/i/status/2066785419153350949"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2066785419153350949"
+created: "2026-06-16"
+updated: "2026-06-26"
+sha256: "81bc9e2d4e927d5bea94a8e9a7a566fe7f08cedcd67e73b6c9167a2360208d4e"
+sources:
+  - "/sources/highlights/2026-06-16/00__gkxspace__字节-trae-全员-kol-矩阵打法-胡彦斌-罗永浩-王兴兴-孙谦站台-ide-与-work-同步圈地.md"
 ---
 
 # 字节 Trae 全员 KOL 矩阵打法：胡彦斌/罗永浩/王兴兴/孙谦站台，IDE 与 Work 同步圈地

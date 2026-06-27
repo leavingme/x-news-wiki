@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Claude Design「Knobs mode」实操：点击元素弹出 KnobsPanel，拖拽即可改 CSS"
 description: "**Claude Design 把「所见即改」做成一个独立 Knobs 模式——点击画布元素后左侧出 KnobsPanel，可以直接拖拽/输入调整 CSS，等于把 Figma 的设计面板思路搬进了 AI 生成流程。**  - Knobs mode 对应普通 HTML 预览的 Edit 模式入口，启用后画布元素可点，CSS 参数被外置为可视化控件。 - 这一步的关键不是「能改 CSS」——以前也能改"
 resource: "https://x.com/i/status/2063310214569295968"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2063310214569295968"
+created: "2026-06-06"
+updated: "2026-06-26"
+sha256: "556a8bd0ddf1f5d447300c09a1df1b8394ff0ec5de377b22e390144e146ef180"
+sources:
+  - "/sources/news/2026-06-06/00__dotey__claude-design-knobs-mode-实操-点击元素弹出-knobspanel-拖拽即可改-css.md"
 ---
 
 # Claude Design「Knobs mode」实操：点击元素弹出 KnobsPanel，拖拽即可改 CSS

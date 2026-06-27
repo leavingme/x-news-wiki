@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "用户口碑验证：WorkBuddy 凭\"零门槛\"内嵌功能被称国内企业 Agent 第一"
 description: "**国内企业 Agent 赛道用户口碑首次出现明确\"排第一\"信号。**  - 用户余温直接给出判断：WorkBuddy 在国内企业 Agent 中绝对排第一 - 关键卖点不是模型能力，而是\"内置各种\"——把原本需要配置的能力封装成开箱即用 - 对应\"小白也能玩起来\"的低门槛定位，与企业微信生态绑定的开箱即用路径吻合   gakki 锐评：单条用户评价证据等级有限，但与此前\"企业 Agent 产品化"
 resource: "https://x.com/i/status/2066524244633104567"
@@ -22,6 +22,13 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "enterprise-agent-product"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2066524244633104567"
+created: "2026-06-15"
+updated: "2026-06-26"
+sha256: "f45ffd52d22fb431306858e9ac97ece186adf442a06bc030139da2675b5e7f42"
+sources:
+  - "/sources/news/2026-06-15/00__gkxspace__用户口碑验证-workbuddy-凭-零门槛-内嵌功能被称国内企业-agent-第一.md"
 ---
 
 # 用户口碑验证：WorkBuddy 凭"零门槛"内嵌功能被称国内企业 Agent 第一

@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "《Harness Engineering 从0到1》拿下 6.8k stars：把 Agent 从「偶尔能用」逼到「生产可靠」的实战手册"
 description: "**中文社区少有的体系化 Harness 教程上线，6.8k stars：以 Electron 知识库 App 为载体，从纯 Prompt 一步步迭代到完整 Harness。**  - 12 节系统性理论课：环境构建、状态管理、验证机制、会话连续性、范围控制 - 6 个递进式实战项目，配套可复用的 harness-creator 技能与资源模板 - 适配 Claude Code、Cursor、Co"
 resource: "https://x.com/i/status/2059786733886054542"
@@ -22,6 +22,13 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "harness-engineering"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2059786733886054542"
+created: "2026-05-28"
+updated: "2026-06-26"
+sha256: "3d392b07bcab90436e3274f7596ec42f1daf4cf6671c7517285ff590604e9da3"
+sources:
+  - "/sources/news/2026-06-24/00__Xudong07452910__harness-engineering-从0到1-拿下-6-8k-stars-把-agent-从-偶尔能用-逼到-生产可.md"
 ---
 
 # 《Harness Engineering 从0到1》拿下 6.8k stars：把 Agent 从「偶尔能用」逼到「生产可靠」的实战手册

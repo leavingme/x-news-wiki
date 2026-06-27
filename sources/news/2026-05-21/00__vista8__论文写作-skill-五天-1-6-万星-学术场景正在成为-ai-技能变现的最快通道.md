@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "论文写作 Skill 五天 1.6 万星：学术场景正在成为 AI 技能变现的最快通道"
 description: "**[一句话核心判断]** 一个开源论文写作 Skill（Imbad0202/academic-research-skills）在 5 天内狂揽 16k GitHub Star，验证了「垂直场景封装」比通用工具更精准地击中开发者焦虑。  **信息增量：** - 需求来自真实痛点：论文写作涉及文献检索、润色、格式、查重等长链路，非单一模型能搞定 - 16k Star 速度超越绝大多数开源 AI 项目"
 resource: "https://x.com/i/status/2057309148493336751"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2057309148493336751"
+created: "2026-05-21"
+updated: "2026-06-26"
+sha256: "4d4b18c08a3473a4499b5e6df02c620ad53b08f6fa11e7b5a35b047fa1b78cf9"
+sources:
+  - "/sources/news/2026-05-21/00__vista8__论文写作-skill-五天-1-6-万星-学术场景正在成为-ai-技能变现的最快通道.md"
 ---
 
 # 论文写作 Skill 五天 1.6 万星：学术场景正在成为 AI 技能变现的最快通道

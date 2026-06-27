@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Kimi K2.7 上线：云端 Coding 模型同步延迟，反而把官方订阅续费率顶起来"
 description: "**[Kimi K2.7 推出后，云推理第三方平台的版本同步存在时间差，Kimi 官方订阅用户为抢鲜体验提前续费——产品节奏的\"时间差\"反而成为订阅黏性的隐性护城河。]**  - 云端第三方推理平台版本同步滞后，制造出官方渠道的\"首发窗口\"溢价 - Coding 模型升级是付费用户最高频的续费触发点，明显高于普通 Chat 用户 - 印证 K2 路线在 Agent Coding 场景的口碑验证，国"
 resource: "https://x.com/i/status/2065622984472289288"
@@ -22,6 +22,13 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "ai-multimodel-routing"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2065622984472289288"
+created: "2026-06-13"
+updated: "2026-06-26"
+sha256: "548b3b19686871a9e017651c6a5ddd3a2d006d2642a7cca9c2cd532290b02a37"
+sources:
+  - "/sources/news/2026-06-13/00__mranti__kimi-k2-7-上线-云端-coding-模型同步延迟-反而把官方订阅续费率顶起来.md"
 ---
 
 # Kimi K2.7 上线：云端 Coding 模型同步延迟，反而把官方订阅续费率顶起来

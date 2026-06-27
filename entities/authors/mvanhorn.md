@@ -1,5 +1,5 @@
 ---
-type: "Author"
+type: "entity"
 title: "Matt Van Horn (@mvanhorn)"
 description: "X/Twitter 作者 @mvanhorn。共收录 1 条 AI 精选推文。"
 tags:
@@ -12,6 +12,12 @@ x_author_name: "Matt Van Horn"
 x_tweet_count: 1
 x_first_seen: "2026-05-08T04:18:06.079Z"
 x_last_seen: "2026-05-08T04:18:06.079Z"
+type_okf: "Author"
+created: "2026-05-08"
+updated: "2026-06-26"
+sha256: "32ede98098dc88da82dd63a4b2955d2faea662d36aca4adade7dce7ff6a2f20e"
+sources:
+  - "/sources/news/2026-05-08/00__mvanhorn__printing-press-cli-工厂模式来了-agent-不该为每个服务重写接口适配层.md"
 ---
 
 # Matt Van Horn (@mvanhorn)

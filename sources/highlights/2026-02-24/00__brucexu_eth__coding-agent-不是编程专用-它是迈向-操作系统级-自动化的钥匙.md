@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Coding Agent 不是编程专用：它是迈向“操作系统级”自动化的钥匙"
 description: "**[核心逻辑]** 呼吁转变对 Coding Agent 的刻板印象，其真正的威力在于系统权限、文件读取与严谨的逻辑执行能力。  - **场景重塑**：演示了如何用 Coding Agent 快速构建本地私密版 NotebookLM，实现自动化拉取、保存与检索。 - **核心短板**：当前仍面临 Context 管理难度大、安装门槛高以及网页交互不顺畅等挑战。  [gakki 的锐评]：别把 C"
 resource: "https://x.com/i/status/2026079318234083587"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2026079318234083587"
+created: "2026-02-23"
+updated: "2026-06-26"
+sha256: "67e3f71866d9f17cf880a790a6eb983a8b1fc90640ae325166d8d78b54d69c86"
+sources:
+  - "/sources/highlights/2026-02-24/00__brucexu_eth__coding-agent-不是编程专用-它是迈向-操作系统级-自动化的钥匙.md"
 ---
 
 # Coding Agent 不是编程专用：它是迈向“操作系统级”自动化的钥匙

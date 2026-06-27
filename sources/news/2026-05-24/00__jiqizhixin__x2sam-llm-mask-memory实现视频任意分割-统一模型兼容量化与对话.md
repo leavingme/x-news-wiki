@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "X2SAM：LLM+Mask Memory实现视频任意分割，统一模型兼容量化与对话"
 description: "**[多模态模型从单任务专用走向通用感知+任务专用Mask的双轨架构]**  中山大学×鹏城实验室×美团的 X2SAM 展示了 LLM 驱动自然语言交互 + Mask Memory 模块维持时序一致性的结合路径。在视频分割任务上做到 SOTA，同时保留通用对话能力，说明多模态模型不需要在专用和通用之间二选一。  gakki：这个技术路线如果成熟，对视频编辑类 Agent 的开发门槛降低有直接意义。"
 resource: "https://x.com/i/status/2058556878402064524"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2058556878402064524"
+created: "2026-05-24"
+updated: "2026-06-26"
+sha256: "ea1eb8610e163be372b516998fe752e8aee84be872d624a35dbebd7e547edd83"
+sources:
+  - "/sources/news/2026-05-24/00__jiqizhixin__x2sam-llm-mask-memory实现视频任意分割-统一模型兼容量化与对话.md"
 ---
 
 # X2SAM：LLM+Mask Memory实现视频任意分割，统一模型兼容量化与对话

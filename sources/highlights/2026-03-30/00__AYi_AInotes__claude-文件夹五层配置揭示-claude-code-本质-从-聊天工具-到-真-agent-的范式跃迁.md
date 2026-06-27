@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: ".claude 文件夹五层配置揭示 Claude Code 本质：从「聊天工具」到「真 Agent」的范式跃迁"
 description: "**Claude Code 的护城河不在模型能力，而在于 .claude 文件夹一整套极简约束系统：CLAUDE.md 规范控制、rules 路径分发、skills 自动化触发、hooks 守门、MCP 外部连接。**  作者 2 个月深度使用、200 美元学费验证的核心结论：Claude Code 是真正的 Agent 而非 Copilot——读懂整个项目、自主规划、多文件并发修改、测试失败自修"
 resource: "https://x.com/i/status/2038308145697890416"
@@ -22,6 +22,13 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "claude-code-ecosystem"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2038308145697890416"
+created: "2026-03-29"
+updated: "2026-06-26"
+sha256: "8acdf9be78c8791225eedd874fe1c1f05c29936b391245e566f8374801132cd5"
+sources:
+  - "/sources/highlights/2026-03-30/00__AYi_AInotes__claude-文件夹五层配置揭示-claude-code-本质-从-聊天工具-到-真-agent-的范式跃迁.md"
 ---
 
 # .claude 文件夹五层配置揭示 Claude Code 本质：从「聊天工具」到「真 Agent」的范式跃迁

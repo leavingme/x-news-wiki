@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "AI 时代的日记革命：当记忆外包给算法，人类为何反而更需要书写？"
 description: "**[数字记忆主权与自我认知的再平衡]** - 观点：AI 时代写日记的意义从「记录」升维为「与自我的对话」，抵抗算法推荐塑造的被动信息消费 - 隐含命题：当 AI 能完美存储一切，人类的主动反思与意义建构反而成为稀缺能力  在记忆可以无限外包的时代，书写成为一种「认知主权」的声明。这是对抗数字异化的微小但有力的姿态。"
 resource: "https://x.com/i/status/2028319597498368003"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2028319597498368003"
+created: "2026-03-02"
+updated: "2026-06-26"
+sha256: "b4cf5292abe0e5d0c0f02256ae23b0c89ce295e8e4354effaff40ab8450b1e67"
+sources:
+  - "/sources/news/2026-03-02/00__Khazix0918__ai-时代的日记革命-当记忆外包给算法-人类为何反而更需要书写.md"
 ---
 
 # AI 时代的日记革命：当记忆外包给算法，人类为何反而更需要书写？

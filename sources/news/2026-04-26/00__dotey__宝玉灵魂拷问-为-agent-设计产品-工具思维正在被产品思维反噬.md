@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "宝玉灵魂拷问\"为 Agent 设计产品\"：工具思维正在被产品思维反噬"
 description: "**宝玉（@baoyu_x）抛出问题：如何为 Agent 设计产品？**  这个问题本身就揭示了一个深刻的范式错位——过去十年互联网产品设计的核心假设是\"用户会看、会点、会等\"。而 Agent 的交互单元是 Tool + Task，不是 Page + Click。  Agent-Native 产品设计的核心命题是：如何把\"用户意图\"翻译成\"Agent 可执行的最小可组合工具集\"。这不是 UX 重构"
 resource: "https://x.com/i/status/2048135262606393777"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2048135262606393777"
+created: "2026-04-25"
+updated: "2026-06-26"
+sha256: "7ed1371af8b36c29268644dea3c3574e90798dd01bb75379685592114f56bf82"
+sources:
+  - "/sources/news/2026-04-26/00__dotey__宝玉灵魂拷问-为-agent-设计产品-工具思维正在被产品思维反噬.md"
 ---
 
 # 宝玉灵魂拷问"为 Agent 设计产品"：工具思维正在被产品思维反噬

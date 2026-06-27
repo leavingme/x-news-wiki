@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Obsidian 被重新定义为「免费的运营总监」：知识管理工具的 AI 叙事正在升级"
 description: "**Obsidian 正在从笔记工具被重新包装为 AI 时代的个人操作系统，这背后是知识管理赛道的叙事焦虑。** - 推文将 Obsidian 类比为 Vannevar Bush 1945 年描述的「记忆扩展机」，声称一个 Vault 可替代运营总监、分析师、内容策略师、项目经理四角色 - 这种夸张叙事本身是信号——当工具开始被赋予「替代人」的隐喻时，说明用户对 AI Agent 记忆系统的预期正"
 resource: "https://x.com/noisyb0y1/status/2053597485935784193"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "ai-trend-digest"
+type_okf: "X Tweet"
+source_url: "https://x.com/noisyb0y1/status/2053597485935784193"
+created: "2026-05-10"
+updated: "2026-06-26"
+sha256: "b2eba1d1ce4ac86c1fa506bd510e2d19b514bf5cf5b2ed29395d917237939e13"
+sources:
+  - "/sources/news/2026-05-11/00__noisyb0y1__obsidian-被重新定义为-免费的运营总监-知识管理工具的-ai-叙事正在升级.md"
 ---
 
 # Obsidian 被重新定义为「免费的运营总监」：知识管理工具的 AI 叙事正在升级

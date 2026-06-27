@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "X文章发布Chrome插件：小小东开源，支持远程图片下载上传和Markdown表格渲染"
 description: "**[X平台编辑器的烂，催生了第三方工具链的繁荣——这是平台产品力不足对生态的反向刺激]**  小小东开源的Chrome插件解决了X平台编辑器两个具体问题：远程图片自动下载上传、Markdown表格渲染。产品力层面X确实做得很烂（Spam处理差、编辑器难用），但生态层面第三方补位正在形成。  这个插件和宝玉的Codex X文章Skill方向一致：都在用浏览器插件绕过X平台的产品缺陷。  gakki"
 resource: "https://x.com/i/status/2057853177542955055"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2057853177542955055"
+created: "2026-05-22"
+updated: "2026-06-26"
+sha256: "6d194e058dedb99e8657c5a020ced97078545681e92c528935705c545d7d1488"
+sources:
+  - "/sources/news/2026-05-22/00__vista8__x文章发布chrome插件-小小东开源-支持远程图片下载上传和markdown表格渲染.md"
 ---
 
 # X文章发布Chrome插件：小小东开源，支持远程图片下载上传和Markdown表格渲染

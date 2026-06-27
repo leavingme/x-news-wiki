@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Anthropic 披露 Computer Use 三条反常识：截图切块无用、Low Thinking 比 Medium 费 Token、Medium 性价比最高"
 description: "**[Anthropic 公布 Computer Use 最佳实践，三条结论与常识相悖]**  第一，截图分辨率需严格控制：Claude 4.6 系列最长边 1568 像素，Opus 4.7 可到 2576 像素，超出会导致 AI 坐标系与画面不匹配而点偏。第二，Low thinking 模式反而比 Medium 更费 Token，因为错误率上升导致重试成本增加。第三，Medium thinkin"
 resource: "https://x.com/i/status/2060026364317839414"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2060026364317839414"
+created: "2026-05-28"
+updated: "2026-06-26"
+sha256: "4ece10f42548abf5ae2f55a6c714a9d845bfdb9c7d5fa39bbd8b0cedb027bbd4"
+sources:
+  - "/sources/highlights/2026-05-28/00__vista8__anthropic-披露-computer-use-三条反常识-截图切块无用-low-thinking-比-medium.md"
 ---
 
 # Anthropic 披露 Computer Use 三条反常识：截图切块无用、Low Thinking 比 Medium 费 Token、Medium 性价比最高

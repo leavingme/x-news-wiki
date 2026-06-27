@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "飞书正在成为Claude Code企业工作流的中台枢纽"
 description: "**[飞书文档历史留档需求正在驱动Claude Code集成决策]**  宝玉透露飞书与Claude Code的深度绑定逻辑：用户习惯飞书操作界面是表象，真正驱动力是将消息历史留档在飞书，以及需要以飞书为中心向Claude Code转发内容进行编排。这意味着企业AI落地的关键摩擦不是模型能力，而是组织已有工具链的粘性。  飞书正在从协同工具进化为AI工作流的控制平面。"
 resource: "https://x.com/i/status/2058583137316131213"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2058583137316131213"
+created: "2026-05-24"
+updated: "2026-06-26"
+sha256: "a777dbbd77d6507354acf04d04d0fee1afea8d00b4d27a0a6347d6352d43b8d3"
+sources:
+  - "/sources/news/2026-05-24/00__dotey__飞书正在成为claude-code企业工作流的中台枢纽.md"
 ---
 
 # 飞书正在成为Claude Code企业工作流的中台枢纽

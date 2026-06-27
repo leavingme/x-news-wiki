@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "智谱 GLM-5.2 开源：百万上下文稳了，IndexShare 把长任务算力砍到 1/2.9"
 description: "**智谱把'长任务稳定可用'立成新战场，GLM-5.2 用 IndexShare 架构把百万上下文的每 token 成本压到原来的 1/3。** - 核心发布：智谱正式开源 GLM-5.2，主打长周期任务与稳定 100 万上下文，新增思考力度控制 - 架构亮点：IndexShare 机制——每四层稀疏注意力共享一个 indexer，百万 token 下每 token 计算量降低约 2.9 倍 - "
 resource: "https://x.com/i/status/2067077537721954542"
@@ -22,6 +22,13 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "domestic-model-benchmark-performance"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2067077537721954542"
+created: "2026-06-17"
+updated: "2026-06-26"
+sha256: "a4d4a4c6b155bd1f140ee8975804f8852a58f284883d36561dc1a3c310070a9b"
+sources:
+  - "/sources/highlights/2026-06-17/00__op7418__智谱-glm-5-2-开源-百万上下文稳了-indexshare-把长任务算力砍到-1-2-9.md"
 ---
 
 # 智谱 GLM-5.2 开源：百万上下文稳了，IndexShare 把长任务算力砍到 1/2.9

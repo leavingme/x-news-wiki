@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Token 中转站商业真相：供应链压价是死路，「高售价高复购」才是 Token 世界的正确模型"
 description: "**[一句话核心判断]** 操盘过亿营收的实战派点出当前 AI 中转站市场的核心认知错误——把传统电商「拿更低价格给顾客」的供应链思维套到 Token 经济上，正在系统性压垮利润率。  - **战略级洞察**：正确路径应是「先虹吸所有站点流量，再做分配」，成为 Token 流量的中央调度者，而非单一中转 - **错位判断**：绝大多数中转站陷入「供应链战争」红海，靠低价抢客户的结果是利润率归零；真"
 resource: "https://x.com/i/status/2066217791343218692"
@@ -22,6 +22,13 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "ai-grey-market"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2066217791343218692"
+created: "2026-06-14"
+updated: "2026-06-26"
+sha256: "4aff06eb98dc95c8a23c63dc23473b170e891d4ef92651fcd45504f7076c402a"
+sources:
+  - "/sources/news/2026-06-14/00__Leobai825__token-中转站商业真相-供应链压价是死路-高售价高复购-才是-token-世界的正确模型.md"
 ---
 
 # Token 中转站商业真相：供应链压价是死路，「高售价高复购」才是 Token 世界的正确模型

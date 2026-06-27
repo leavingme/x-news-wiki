@@ -1,5 +1,5 @@
 ---
-type: "Author"
+type: "entity"
 title: "川沐｜Trumoo🐮 (@xiaomucrypto)"
 description: "X/Twitter 作者 @xiaomucrypto。共收录 1 条 AI 精选推文。"
 tags:
@@ -12,6 +12,12 @@ x_author_name: "川沐｜Trumoo🐮"
 x_tweet_count: 1
 x_first_seen: "2026-02-02T01:00:19.249Z"
 x_last_seen: "2026-02-02T01:00:19.249Z"
+type_okf: "Author"
+created: "2026-02-02"
+updated: "2026-06-26"
+sha256: "41393a4a89de0df62ae7f117eba7de076062d9e3c4552c94441172bedbb4ec64"
+sources:
+  - "/sources/news/2026-02-02/00__xiaomucrypto__ai-牛马-上岗-开发者全量迁移至-openclaw-系统.md"
 ---
 
 # 川沐｜Trumoo🐮 (@xiaomucrypto)

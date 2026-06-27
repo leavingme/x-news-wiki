@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "小米 28 岁总监裸辞做 AI 算命，月入 30 万：情绪刚需才是 AI 消费品最深护城河"
 description: "**小米最年轻总监之一裸辞创业做 AI 算命，50 万用户日活近 4 万月入 30 万：AI 创业的尽头是「出马」。**  - 吴尚做过投影、电视 OS，去年离职做「万象有灵」——阴阳五行+十神人格的 AI 算命 - 团队配置极度跨界：9 年塔罗师 + 注册牧师，专做基督徒版 - 准备出海做 AI 塔罗，$9.9-15.9/月，预约已超 3 万   gakki 锐评：这是 AI 应用层最诚实的 P"
 resource: "https://x.com/i/status/2069208829494165944"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2069208829494165944"
+created: "2026-06-23"
+updated: "2026-06-26"
+sha256: "500e66ac7e711e575b08e028249c38e89ee1ce65e155f198e962a27b085e33a5"
+sources:
+  - "/sources/highlights/2026-06-24/00__laobaishare__小米-28-岁总监裸辞做-ai-算命-月入-30-万-情绪刚需才是-ai-消费品最深护城河.md"
 ---
 
 # 小米 28 岁总监裸辞做 AI 算命，月入 30 万：情绪刚需才是 AI 消费品最深护城河

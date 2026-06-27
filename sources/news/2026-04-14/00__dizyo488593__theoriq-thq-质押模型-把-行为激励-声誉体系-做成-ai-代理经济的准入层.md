@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Theoriq $THQ 质押模型：把\"行为激励+声誉体系\"做成 AI 代理经济的准入层"
 description: "**$THQ 不只是治理代币，而是 AI Agent 接入网络的\"签证系统\"。**  Theoriq 构建了一套完整的行为激励+声誉体系：AI agent 接入网络必须质押 $THQ，信誉分数直接决定准入权限，异常行为触发惩罚机制。  - Alpha 金库随用户增长收取手续费，反哺系统，飞轮效应清晰。 - 使者计划、Yapper 活动、Kaito 社区售卖等动作，已聚拢近 50 万社群成员，推特 "
 resource: "https://x.com/i/status/1951327429118795814"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/1951327429118795814"
+created: "2025-08-01"
+updated: "2026-06-26"
+sha256: "2f769d6ce72a97ca6460c49463e55cb802eee08ec86486d9e36197ab14013853"
+sources:
+  - "/sources/news/2026-04-14/00__dizyo488593__theoriq-thq-质押模型-把-行为激励-声誉体系-做成-ai-代理经济的准入层.md"
 ---
 
 # Theoriq $THQ 质押模型：把"行为激励+声誉体系"做成 AI 代理经济的准入层

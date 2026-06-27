@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "向阳乔木力荐 Markdown 开源项目：AI 原生格式的生态正在自我强化"
 description: "**Markdown 从「写作用的格式」变成「AI 时代的通用协议」，生态加速。**  - 被认为是「目前最强大的 Markdown 开源项目」，思路值得学习 - Markdown 在 Agent 生态中的地位持续上升：可解析、可 diff、可语义化 - 格式标准化 → 工具链成熟 → 更多场景采用，正反馈循环已形成  gakki 锐评：Markdown 之所以能在 AI 时代胜出，不是因为它最好"
 resource: "https://x.com/i/status/2053134912035971289"
@@ -22,6 +22,13 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "markdown-ai-native-format"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2053134912035971289"
+created: "2026-05-09"
+updated: "2026-06-26"
+sha256: "62bffa4d3d9e3c5fd61ef445b9782ae276a66c954d67ae047742b1b052b71af0"
+sources:
+  - "/sources/news/2026-05-09/00__vista8__向阳乔木力荐-markdown-开源项目-ai-原生格式的生态正在自我强化.md"
 ---
 
 # 向阳乔木力荐 Markdown 开源项目：AI 原生格式的生态正在自我强化

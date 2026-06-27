@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "微信读书 CLI 版 Skill 全攻略：Codex/Claude Code 用户可直接调用「查看被讨厌勇气的高亮划线」"
 description: "**向阳乔木给出了微信读书 CLI 的完整配置路径：官方 Skill 或优化版 jerlinn/jerlin-weread，API key 获取地址，以及一条指令调用的示例。**  这条推文的增量在于**Skill 市集正在从 AI 编程工具向个人知识管理延伸**——微信读书这个垂类场景，天然适配「与 AI 对话查询个人知识库」的形态。它的实际可用性远高于大多数 Skill 宣传。   [gakk"
 resource: "https://x.com/i/status/2055830488011735519"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2055830488011735519"
+created: "2026-05-17"
+updated: "2026-06-26"
+sha256: "624fe4cc867944a83b47b2a56320dd6527814e13c5ccd1a8bba7fdc75d5c348b"
+sources:
+  - "/sources/news/2026-05-17/00__vista8__微信读书-cli-版-skill-全攻略-codex-claude-code-用户可直接调用-查看被讨厌勇气的高亮划线.md"
 ---
 
 # 微信读书 CLI 版 Skill 全攻略：Codex/Claude Code 用户可直接调用「查看被讨厌勇气的高亮划线」

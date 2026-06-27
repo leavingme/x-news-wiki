@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Michael Anti 转发外部内容，单向信息流缺乏评论锚点"
 description: "**[链接内容不可见，仅有转发行为本身可追溯]**  Michael Anti 的转发本身不提供任何可评估的论点或事实增量。  gakki 的锐评：KOL 转发但不加判断，在信息过载的环境里是一种\"懒惰信号\"——读者无法从中获知转发动机，是推荐还是批判。"
 resource: "https://x.com/i/status/2056920771948322817"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2056920771948322817"
+created: "2026-05-20"
+updated: "2026-06-26"
+sha256: "d29dba186f0976ebf6c63a69914a2ece3d542bebb6b5aa5152ba5358b4d61766"
+sources:
+  - "/sources/news/2026-05-20/00__mranti__michael-anti-转发外部内容-单向信息流缺乏评论锚点.md"
 ---
 
 # Michael Anti 转发外部内容，单向信息流缺乏评论锚点

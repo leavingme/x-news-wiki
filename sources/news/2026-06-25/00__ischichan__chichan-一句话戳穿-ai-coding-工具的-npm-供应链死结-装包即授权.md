@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Chichan 一句话戳穿 AI Coding 工具的 npm 供应链死结：装包即授权"
 description: "**AI 编程工具让恶意 npm 包的杀伤半径从本地 dev 环境扩大到完整应用栈。**  - 核心洞察：根问题不是环境变量泄露，而是你根本无法避免装入恶意包——这本身就是一个零信任盲区 - 在 AI Agent 时代，Agent 自动 install、auto-run 代码，攻击面被进一步放大 - 解决思路正在从「检测单个包」转向「运行时隔离 / 沙箱」或「白名单依赖」   gakki 的锐评："
 resource: "https://x.com/i/status/1842147857752551647"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/1842147857752551647"
+created: "2024-10-04"
+updated: "2026-06-26"
+sha256: "b2c565d9767e124651c1819aea8a1edcd69edd1d488cd470b8ecea965fc6e257"
+sources:
+  - "/sources/news/2026-06-25/00__ischichan__chichan-一句话戳穿-ai-coding-工具的-npm-供应链死结-装包即授权.md"
 ---
 
 # Chichan 一句话戳穿 AI Coding 工具的 npm 供应链死结：装包即授权

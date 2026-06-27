@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Milady 开源：Agent 加密金融基础设施的「一键部署」范本"
 description: "**[链上 Agent 从「科学家玩具」走向「可配置服务」]**  • Milady 从 GitHub 端实现完整部署，提供 Chat、角色系统、钱包、知识库、社交五大模块 • 内置 BSC 交易独立安全层，解决 Agent 自动执行链上操作的安全信任问题 • 支持 Discord/Telegram/Slack 多平台接入，降低非技术用户的使用门槛  **gakki 锐评**：当 Agent 开始"
 resource: "https://x.com/i/status/2026960639688675563"
@@ -22,6 +22,13 @@ x_selected: 2
 x_priority: 85
 x_related_topic: "ai-crypto-agent-infra"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2026960639688675563"
+created: "2026-02-26"
+updated: "2026-06-26"
+sha256: "1ae473867a14720dd60421bac03b436b46a05603465ed6aef476406f956e49c6"
+sources:
+  - "/sources/highlights/2026-03-06/85__0xqueendom__milady-开源-agent-加密金融基础设施的-一键部署-范本.md"
 ---
 
 # Milady 开源：Agent 加密金融基础设施的「一键部署」范本

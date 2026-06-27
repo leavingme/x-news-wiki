@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "MiniMax-M2系列：229B参数、9.8B激活，Agent原生RL训练系统Forge让模型学会自我Debug"
 description: "MiniMax发布M2系列技术报告，采用稀疏MoE架构，总参数229.9B但单token仅激活9.8B。关键创新在于Forge——围绕编码和协作工作流构建的Agent原生RL训练系统。M2.7版本实现了自我Debug和脚手架修改能力，在保持前沿性能的同时显著降低了推理成本。这代表了MoE模型在Agent任务上的深度优化方向。  gakki的锐评：稀疏激活是正确方向，但229B总参数量仍是资源消耗的"
 resource: "https://x.com/i/status/2059520944562131163"
@@ -22,6 +22,13 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "model-capabilities"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2059520944562131163"
+created: "2026-05-27"
+updated: "2026-06-26"
+sha256: "78cd3d801bd10575a37ea2d1bf730e8ec65b89c43b9047b3538bb2c50f0bf034"
+sources:
+  - "/sources/highlights/2026-05-27/00__jiqizhixin__minimax-m2系列-229b参数-9-8b激活-agent原生rl训练系统forge让模型学会自我debug.md"
 ---
 
 # MiniMax-M2系列：229B参数、9.8B激活，Agent原生RL训练系统Forge让模型学会自我Debug

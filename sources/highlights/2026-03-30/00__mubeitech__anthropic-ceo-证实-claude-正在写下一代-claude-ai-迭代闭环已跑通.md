@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Anthropic CEO 证实：Claude 正在写下一代 Claude，AI 迭代闭环已跑通"
 description: "**[ Anthropic 内部代码流程已全面 AI 化 ]**  Anthropic CEO 近日披露：工程师已停止手写核心代码，Claude 承担了绝大部分生产工作，人类角色收缩至「审阅 + 修改」。这意味着 Claude 当前正在设计的正是下一代 Claude。  - 代码生产主体易主：Anthropic 工程师已从「写代码」退至「审代码」 - AI 迭代闭环跑通：从工具使用者到工具生产者，"
 resource: "https://x.com/i/status/2038326818160197753"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2038326818160197753"
+created: "2026-03-29"
+updated: "2026-06-26"
+sha256: "3288647274f5ea6f19ed8c9f2023a60daaf9b66ac17314fcb6b9b5b3d25192cf"
+sources:
+  - "/sources/highlights/2026-03-30/00__mubeitech__anthropic-ceo-证实-claude-正在写下一代-claude-ai-迭代闭环已跑通.md"
 ---
 
 # Anthropic CEO 证实：Claude 正在写下一代 Claude，AI 迭代闭环已跑通

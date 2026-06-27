@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "豆包输入法 Mac 版正式上线：字节 AI 正在用输入法切桌面场景"
 description: "**[一句话核心判断]**  豆包输入法 Mac 版正式上线，字节跳动正通过输入法这一高频入口向桌面端渗透 AI 能力。  **要点：** - 豆包输入法已从移动端扩展至 Mac 平台，覆盖更多桌面场景 - 输入法作为底层交互入口，具备高频触达用户的独特优势 - 字节跳动在 C 端 AI 入口的布局进一步深化   **gakki 锐评：** 输入法是 AI 入口战争中最低调但最危险的选手——用户无"
 resource: "https://x.com/i/status/2060396443425263777"
@@ -22,6 +22,13 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "domestic-model-benchmark-performance"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2060396443425263777"
+created: "2026-05-29"
+updated: "2026-06-26"
+sha256: "3c9a0d65a43ebe4b895a0444556001b49a57ff5aba3ecb85073a19b1ab2c3499"
+sources:
+  - "/sources/news/2026-05-29/00__gkxspace__豆包输入法-mac-版正式上线-字节-ai-正在用输入法切桌面场景.md"
 ---
 
 # 豆包输入法 Mac 版正式上线：字节 AI 正在用输入法切桌面场景

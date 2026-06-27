@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Codex修Shadowrocket配置：AI从\"回答问题\"到\"操作系统级操作\"的跨越"
 description: "**[网络调试交给AI的时代信号]**  用户遇到Shadowrocket+Tailscale的网络配置冲突问题：关掉火箭能用远程桌面，打开就连不上。最终由Codex自主做网络联通测试，完成本地规则数据库修改，修复了问题。  经验总结：电脑网络问题可以交给AI，未来甚至可以直接写Shadowrocket配置规则。  这个案例的意义不在于\"修网络\"本身，而在于AI的操作边界从信息层（读文档、写代码）"
 resource: "https://x.com/i/status/2056403393485369720"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2056403393485369720"
+created: "2026-05-18"
+updated: "2026-06-26"
+sha256: "acf257377799df7d29fb27c7100a3d47ee64cc9c6dd45b52acdeeae8bfac8f92"
+sources:
+  - "/sources/highlights/2026-05-18/00__vista8__codex修shadowrocket配置-ai从-回答问题-到-操作系统级操作-的跨越.md"
 ---
 
 # Codex修Shadowrocket配置：AI从"回答问题"到"操作系统级操作"的跨越

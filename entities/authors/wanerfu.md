@@ -1,5 +1,5 @@
 ---
-type: "Author"
+type: "entity"
 title: "摆烂程序媛 (@wanerfu)"
 description: "X/Twitter 作者 @wanerfu。共收录 1 条 AI 精选推文。"
 tags:
@@ -12,6 +12,12 @@ x_author_name: "摆烂程序媛"
 x_tweet_count: 1
 x_first_seen: "2026-06-24T22:28:18.506Z"
 x_last_seen: "2026-06-24T22:28:18.506Z"
+type_okf: "Author"
+created: "2026-06-24"
+updated: "2026-06-26"
+sha256: "a57a3028a68359bda53383897841367695a396c0a0750be666594972ce0575a3"
+sources:
+  - "/sources/news/2026-06-24/00__wanerfu__notebooklm-的-8-个高阶用法-最强免费学习工具被-95-的人严重低估.md"
 ---
 
 # 摆烂程序媛 (@wanerfu)

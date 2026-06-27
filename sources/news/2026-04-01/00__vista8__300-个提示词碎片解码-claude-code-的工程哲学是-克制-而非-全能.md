@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "300 个提示词碎片解码：Claude Code 的工程哲学是「克制」而非「全能」"
 description: "**一句话核心判断：** 泄露的 Claude Code 提示词揭示了一个反直觉的产品哲学——它被设定为「常常能帮你完成过于复杂的任务，但不要做过头，要格外简洁」，这是对 Agent 狂热的一剂降温针。  - 从 300 多个提示词片段中提炼出的核心要求：能力强大但不主动膨胀、先尝试最简单的方法、不要兜圈子、尊重用户对任务规模的判断。 - 这与当前 AI Agent 市场普遍的「功能堆砌」路线形成"
 resource: "https://x.com/i/status/2039157673107849715"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2039157673107849715"
+created: "2026-04-01"
+updated: "2026-06-26"
+sha256: "50be6f347dc5848ede5038bdd19717fb09061c70045e4dab928762ae6a04a691"
+sources:
+  - "/sources/news/2026-04-01/00__vista8__300-个提示词碎片解码-claude-code-的工程哲学是-克制-而非-全能.md"
 ---
 
 # 300 个提示词碎片解码：Claude Code 的工程哲学是「克制」而非「全能」

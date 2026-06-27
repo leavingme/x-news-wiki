@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "交易社群实盘晒单潮涌现：AI Agent 交易赛道的参与者结构正在分化"
 description: "**[ 交易社群实盘晒单潮涌现，AI Agent 交易赛道的参与者结构正在分化]**  - 社群中币圈、美股、链上三路交易者并存，说明 AI 交易 Agent 已非小众圈层 - \"带着实盘和具体问题来\"的门槛设置，暗示社群正在从讨论层向实战层跃迁 - 晒单文化的出现是市场情绪的滞后指标——行情波动期往往是交易 Agent 工具加速渗透的窗口  AI 交易 Agent 的采用曲线正在从\"极客玩具\"向"
 resource: "https://x.com/i/status/2059895955307004261"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2059895955307004261"
+created: "2026-05-28"
+updated: "2026-06-26"
+sha256: "0f6a867b62f675d2cbd610c553e7f36a4a4b0be95dca2c4efdd479665f7c13c7"
+sources:
+  - "/sources/news/2026-05-28/00__Leobai825__交易社群实盘晒单潮涌现-ai-agent-交易赛道的参与者结构正在分化.md"
 ---
 
 # 交易社群实盘晒单潮涌现：AI Agent 交易赛道的参与者结构正在分化

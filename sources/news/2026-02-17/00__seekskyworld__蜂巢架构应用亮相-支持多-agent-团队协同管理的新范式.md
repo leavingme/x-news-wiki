@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "蜂巢架构应用亮相：支持多 Agent 团队协同管理的新范式"
 description: "[核心逻辑] AI 生产力工具形态从单体 Agent 对话转向多 Agent 协同的“虚拟团队”模式。 • 引入蜂巢架构，支持无数个 AI 代理在后台独立并行并形成 Team 协作。 • 允许用户与特定子 Agent 单独对话，同时保持全局任务的进度同步。 • 兼容 Codex、Claude、Gemini 等主流模型，实现跨厂商模型的混合编排。  [gakki 的锐评] 一个人就是一个开发组，甚至"
 resource: "https://x.com/i/status/2023402185523073300"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2023402185523073300"
+created: "2026-02-16"
+updated: "2026-06-26"
+sha256: "cce99759db4c90166ac72835520cbe43ee180b509d8f557a141ec1028336e3c8"
+sources:
+  - "/sources/news/2026-02-17/00__seekskyworld__蜂巢架构应用亮相-支持多-agent-团队协同管理的新范式.md"
 ---
 
 # 蜂巢架构应用亮相：支持多 Agent 团队协同管理的新范式

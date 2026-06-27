@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "OpenAI「做梦」架构：ChatGPT记忆从笔记本进化为持续提炼的动态体"
 description: "**【一句话核心判断】**  OpenAI悄悄上线的Dreaming架构，将ChatGPT的记忆系统从被动笔记本彻底转变为后台持续运行的主动提炼引擎——它不再等你命令，而是跨对话综合更新你的数字画像。  **【信息增量】**  • 事实记忆准确率两年三跃：41.5%→67.9%→82.8%，素食偏好遵循率从31.4%升至71.3%，时效性判断从个位数大幅提升——量化指标显示系统质变 • 核心机制："
 resource: "https://x.com/i/status/2062616573790265543"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2062616573790265543"
+created: "2026-06-04"
+updated: "2026-06-26"
+sha256: "e9d00fcc302e2e453b846b3370a58c6fa31f4af0c485d8634a3a1c3f0bbfb8b3"
+sources:
+  - "/sources/highlights/2026-06-04/00__dotey__openai-做梦-架构-chatgpt记忆从笔记本进化为持续提炼的动态体.md"
 ---
 
 # OpenAI「做梦」架构：ChatGPT记忆从笔记本进化为持续提炼的动态体

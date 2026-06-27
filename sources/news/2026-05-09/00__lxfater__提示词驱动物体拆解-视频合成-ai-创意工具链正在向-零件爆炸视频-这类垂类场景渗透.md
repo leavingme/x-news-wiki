@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "提示词驱动物体拆解+视频合成：AI 创意工具链正在向「零件爆炸视频」这类垂类场景渗透"
 description: "**提示词生成拆解结构 → 配合视频软件输出爆炸动画，跨工具链路被打通。** - 非专业用户也能用自然语言驱动 3D 拆解可视化 - 这类「提示词+垂直工具」的组合正在降低专业内容制作的门槛  gakki 锐评：单点玩法，但代表了一个趋势——AI 不是替代工具，而是把专业工具的使用门槛砸到地板上。"
 resource: "https://x.com/i/status/2052958212840923191"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2052958212840923191"
+created: "2026-05-09"
+updated: "2026-06-26"
+sha256: "97b75a105614ca2612319098ebb981f2b563417d6bda350fb214bec13168ca9d"
+sources:
+  - "/sources/news/2026-05-09/00__lxfater__提示词驱动物体拆解-视频合成-ai-创意工具链正在向-零件爆炸视频-这类垂类场景渗透.md"
 ---
 
 # 提示词驱动物体拆解+视频合成：AI 创意工具链正在向「零件爆炸视频」这类垂类场景渗透

@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Antirez 用几千行 C 代码让 DeepSeek V4 Flash 在 MacBook 上跑 1M 上下文：算力民主化从口号变现实"
 description: "**Redis 创始人用极致系统工程证明：2-bit 非对称量化足以让前沿 MoE 模型在消费级硬件上跑完整 Agent 循环。**  - ds4 是纯 C 实现的推理引擎，仅几千行代码，专为 DeepSeek V4 Flash 设计 - 核心创新：只对 MoE 中占 90% 体积的专家层做 2-bit 压缩，关键路径保持全精度 - 实测可在 128GB MacBook Pro 上跑 1M 上下文"
 resource: "https://x.com/AYi_AInotes/status/2053121974734291359"
@@ -22,6 +22,13 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "edge-inference-optimization"
 x_source: "ai-trend-digest"
+type_okf: "X Tweet"
+source_url: "https://x.com/AYi_AInotes/status/2053121974734291359"
+created: "2026-05-09"
+updated: "2026-06-26"
+sha256: "783c08218bfe6e99b4ecd40d487ccb9487b7e07d46d96465dc11fa7a513fdb8e"
+sources:
+  - "/sources/highlights/2026-05-09/00__AYi_AInotes__antirez-用几千行-c-代码让-deepseek-v4-flash-在-macbook-上跑-1m-上下文-算力民.md"
 ---
 
 # Antirez 用几千行 C 代码让 DeepSeek V4 Flash 在 MacBook 上跑 1M 上下文：算力民主化从口号变现实

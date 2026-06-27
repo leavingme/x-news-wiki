@@ -1,5 +1,5 @@
 ---
-type: "Author"
+type: "entity"
 title: "Weilan| 🤖ボッ Bird🕊️ (@ohouhou717)"
 description: "X/Twitter 作者 @ohouhou717。共收录 3 条 AI 精选推文。"
 tags:
@@ -12,6 +12,14 @@ x_author_name: "Weilan| 🤖ボッ Bird🕊️"
 x_tweet_count: 3
 x_first_seen: "2026-03-20T12:43:02.685Z"
 x_last_seen: "2026-04-06T12:43:19.697Z"
+type_okf: "Author"
+created: "2026-03-20"
+updated: "2026-06-26"
+sha256: "4bfb691910c947581919a14e1954ac30ad463ed61a853201bf783f3e7066dd19"
+sources:
+  - "/sources/highlights/2026-03-20/00__ohouhou717__base链上-逻辑套利-新物种-ai-agent被迫-自证清白-的博弈进化.md"
+  - "/sources/highlights/2026-04-01/00__ohouhou717__coinbase-binance-双所联动上-prl-这不是散户行为-是机构定价权的转移.md"
+  - "/sources/news/2026-04-06/00__ohouhou717__genlayer-bradbury-ai-agent终于可以在链上处理-无法非黑即白定义-的真实世界任务.md"
 ---
 
 # Weilan| 🤖ボッ Bird🕊️ (@ohouhou717)

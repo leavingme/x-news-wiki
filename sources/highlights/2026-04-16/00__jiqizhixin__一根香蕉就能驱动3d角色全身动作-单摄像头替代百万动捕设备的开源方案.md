@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "一根香蕉就能驱动3D角色全身动作：单摄像头替代百万动捕设备的开源方案"
 description: "**[用日常物品替代千万美元动捕设备]**  - 爱丁堡大学、Inria、清华联合发布 DancingBox，通过廉价 webcam 追踪任意物理 proxy（毛绒玩具、香蕉等），结合人体运动先验生成逼真全身动作 - 核心创新：将物理世界物体运动映射为角色运动，训练成本接近零，数据获取门槛大幅降低 - 对影视、游戏、虚拟形象行业具有直接颠覆意义，2026 年具身数据稀缺问题或因此缓解  gakki"
 resource: "https://x.com/i/status/2044417459344592966"
@@ -22,6 +22,13 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "textop-humanoid-robot"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2044417459344592966"
+created: "2026-04-15"
+updated: "2026-06-26"
+sha256: "aaca01b8842036d7ea722cc5251bc7477b73d675a9010df072ceb85ba11d28d2"
+sources:
+  - "/sources/highlights/2026-04-16/00__jiqizhixin__一根香蕉就能驱动3d角色全身动作-单摄像头替代百万动捕设备的开源方案.md"
 ---
 
 # 一根香蕉就能驱动3D角色全身动作：单摄像头替代百万动捕设备的开源方案

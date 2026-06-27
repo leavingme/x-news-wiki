@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "yetone 锐评：测试用例不是尸检报告，AI 自动测试存在认知盲区"
 description: "**测试用例防回归，尸检报告防未知——AI 能写前者但写不了后者。**  - yetone 在与 @geniusvczh 互动中抛出关键区分：测试用例只能防止已有逻辑的 bug 回归，尸检报告才是防止新代码触发历史已出现过的问题 - 揭示 AI Coding 的根本盲区：模型可以快速产出回归测试，但难以在零样本下预判未来代码会触发的历史陷阱 - 对 Vibe Coding 时代的工程纪律是冷警示—"
 resource: "https://x.com/i/status/2065283130345533675"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2065283130345533675"
+created: "2026-06-12"
+updated: "2026-06-26"
+sha256: "2f8f6c0ee3b91d15fa401a27c8033fac8b797fc96f445f88316380ff903c49be"
+sources:
+  - "/sources/highlights/2026-06-12/00__yetone__yetone-锐评-测试用例不是尸检报告-ai-自动测试存在认知盲区.md"
 ---
 
 # yetone 锐评：测试用例不是尸检报告，AI 自动测试存在认知盲区

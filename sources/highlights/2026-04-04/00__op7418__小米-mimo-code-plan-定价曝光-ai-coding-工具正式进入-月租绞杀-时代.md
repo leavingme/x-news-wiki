@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "小米 MIMO Code Plan 定价曝光：AI Coding 工具正式进入「月租绞杀」时代"
 description: "**[ 小米推出 MIMO Code Plan，39 元/月起，Credit 点数体系无时长限制 ]**  • 最低档 39 元/月，最贵 659 元/月，统一 Credit 点数计费，无 Claude Code 那样的 5 小时限额； • CodePilot 0.45.1 版本将支持该套餐，价格战正式从互联网大厂蔓延到 AI Coding 工具； • 点数制 vs 时长制：更灵活的计费方式正在动"
 resource: "https://x.com/i/status/2039951231758876756"
@@ -22,6 +22,13 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "ai-coding-skills-commoditization"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2039951231758876756"
+created: "2026-04-03"
+updated: "2026-06-26"
+sha256: "20dc8075af49a56b36b09a47a9c5dd0d1ace20b534a0ced4f508177c10d056c0"
+sources:
+  - "/sources/highlights/2026-04-04/00__op7418__小米-mimo-code-plan-定价曝光-ai-coding-工具正式进入-月租绞杀-时代.md"
 ---
 
 # 小米 MIMO Code Plan 定价曝光：AI Coding 工具正式进入「月租绞杀」时代

@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "天策落子杭州：Token 中转 + AI 资源整合，团队公开目标「干掉所有白领岗位」"
 description: "**[一句话核心判断]** 天策团队从深圳迁杭，公开定位已不再是「AI 工具开发」，而是「白领岗位替代服务商」——这是 AI 创业从「提效」走向「取代」的关键信号。  - 团队核心成员聚集杭州，目标极简：「干掉所有白领岗位」 - 业务以 Token 中转 + AI 资源整合为主线，深圳仅留 3-4 人维持 - 创始人对节奏不焦虑，承认「刚刚开始」——典型的 Token 套利 + 长期替代叙事组合 "
 resource: "https://x.com/i/status/2064227482878857705"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2064227482878857705"
+created: "2026-06-09"
+updated: "2026-06-26"
+sha256: "ed540a270f99de91162b7c25c4910ce1314086f711adab2981a65c24b48dcbc6"
+sources:
+  - "/sources/news/2026-06-09/00__Leobai825__天策落子杭州-token-中转-ai-资源整合-团队公开目标-干掉所有白领岗位.md"
 ---
 
 # 天策落子杭州：Token 中转 + AI 资源整合，团队公开目标「干掉所有白领岗位」

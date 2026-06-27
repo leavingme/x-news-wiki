@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "75条/天：短视频矩阵的「人体工学」正在被AI重新定义"
 description: "**[AI驱动的内容工业化门槛已降至单日75条]**  天策转发的这条实战案例揭示了一个质变信号：当AI可以支撑单账号日均75条视频的自动化生产，传统的「内容规模化」定义已被颠覆。  这不是效率提升，而是生产范式的切换——从一个需要「创作灵感」的内容模型，切换到一个「输入原材料即可24/7运转」的工业模型。  gakki：门槛降低从来都是双刃剑。当人人都能日产75条，「内容供给量」这个维度就彻底失"
 resource: "https://x.com/i/status/2056036662891749575"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2056036662891749575"
+created: "2026-05-17"
+updated: "2026-06-26"
+sha256: "0e84d2fb0bb90590aa756a0edcccdadc4af13012d7c5a776f8b111e931bebc41"
+sources:
+  - "/sources/news/2026-05-17/00__Leobai825__75条-天-短视频矩阵的-人体工学-正在被ai重新定义.md"
 ---
 
 # 75条/天：短视频矩阵的「人体工学」正在被AI重新定义

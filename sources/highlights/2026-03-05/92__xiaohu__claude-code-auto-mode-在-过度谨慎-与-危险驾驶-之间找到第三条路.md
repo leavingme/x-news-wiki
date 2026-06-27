@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Claude Code Auto Mode：在\"过度谨慎\"与\"危险驾驶\"之间找到第三条路"
 description: "**权限策略的分层智能化是 Agent 从\"玩具\"走向\"生产工具\"的关键跃迁。**  - Auto Mode 引入风险自评估机制，将人工介入点从\"每一步\"压缩到\"关键决策点\" - 这一设计直接回应了生产环境的核心痛点：无人值守与可控性之间的张力 - 暗示 Anthropic 正在将\"安全对齐\"能力产品化，而非仅停留在研究论文  **gakki 锐评**：\"每次都问\"和\"--dangerously-"
 resource: "https://x.com/i/status/2029452211923894450"
@@ -22,6 +22,13 @@ x_selected: 2
 x_priority: 92
 x_related_topic: "claude-code-natural-language-workflow"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2029452211923894450"
+created: "2026-03-05"
+updated: "2026-06-26"
+sha256: "c6300fc94e25e5032e524f9284f5ae06761139be7577d27117ddde585239f3f7"
+sources:
+  - "/sources/highlights/2026-03-05/92__xiaohu__claude-code-auto-mode-在-过度谨慎-与-危险驾驶-之间找到第三条路.md"
 ---
 
 # Claude Code Auto Mode：在"过度谨慎"与"危险驾驶"之间找到第三条路

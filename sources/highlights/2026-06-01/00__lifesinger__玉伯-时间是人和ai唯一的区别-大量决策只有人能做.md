@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "玉伯：时间是人和AI唯一的区别，大量决策只有人能做"
 description: "**[一句话核心判断]** AI可以加速学习与执行，但「应该学什么、应该做什么」依然只属于人类——因为决策源自人的感受，而感受需要时间。  - 核心判断：时间感是人和AI唯一的区别；只有与时间无关的少量决策AI可以替代。 - 关键补充：AI太贵、想象力与能力还是太弱，人造物很难超越人——这是对「AI替代论」最清醒的反驳之一。 - 边界划定：AI擅长的是时间无关的重复执行，人的不可替代性在于时间积累"
 resource: "https://x.com/i/status/2061452332223844564"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2061452332223844564"
+created: "2026-06-01"
+updated: "2026-06-26"
+sha256: "f29665db09bb30ef7a6f1d75742f2762b864ff3fee3a2763c492219a31a13a70"
+sources:
+  - "/sources/highlights/2026-06-01/00__lifesinger__玉伯-时间是人和ai唯一的区别-大量决策只有人能做.md"
 ---
 
 # 玉伯：时间是人和AI唯一的区别，大量决策只有人能做

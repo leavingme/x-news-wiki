@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Yohei AI Memory 综述确认方向：Working Memory + Background Intelligence 是 SOTA 组合"
 description: "**[AI 记忆系统正在形成明确的架构分野：瞬时记忆 vs 结构性记忆]**  Yohei（babyagi 作者）在 KCD/vLLM meetup 的分享与 NowledgeMem 的设计高度吻合，指向一个正在收敛的技术方向：  - **Working Memory**：处理即时上下文、高频推理状态 - **Background Intelligence**：结构化的长期知识、跨场景语义  这与"
 resource: "https://x.com/i/status/2037209615767921058"
@@ -22,6 +22,13 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "agent-memory-optimization"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2037209615767921058"
+created: "2026-03-26"
+updated: "2026-06-26"
+sha256: "d014f8b594972357802bb0bf34fc36e74bb13c2ffb748fd80f837cb8fc091c35"
+sources:
+  - "/sources/news/2026-04-15/00__wey_gu__yohei-ai-memory-综述确认方向-working-memory-background-intelligenc.md"
 ---
 
 # Yohei AI Memory 综述确认方向：Working Memory + Background Intelligence 是 SOTA 组合

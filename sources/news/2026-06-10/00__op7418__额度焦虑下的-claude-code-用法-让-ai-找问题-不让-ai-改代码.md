@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "额度焦虑下的 Claude Code 用法：让 AI 找问题，不让 AI 改代码"
 description: "**AI 找问题的速度与准确度，比写代码更值得被授权。**  要点： - 歸藏实测分享：担心订阅额度吃紧，所以只让 Claude Code 做诊断+写计划，不让它直接改代码 - 结果：AI 找问题又快又准，定位效率超预期 - 隐含工作流：把 AI 锁在「只读/建议」边界比「全权执行」更经济，也更不容易翻车   这其实是 harness engineering 的一个具体落点——给 AI 划定 na"
 resource: "https://x.com/i/status/2064525619581657195"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2064525619581657195"
+created: "2026-06-10"
+updated: "2026-06-26"
+sha256: "41be1b7a117ff3fc53b52919a554c9488db10ceaf2bcc7a88b964bc4b6d8fe25"
+sources:
+  - "/sources/news/2026-06-10/00__op7418__额度焦虑下的-claude-code-用法-让-ai-找问题-不让-ai-改代码.md"
 ---
 
 # 额度焦虑下的 Claude Code 用法：让 AI 找问题，不让 AI 改代码

@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Codex多设备控制实测：上下文跨机器共享，入口切换变项目切换"
 description: "**[多设备控制让AI编程从单点操作进化到跨设备协作]**  Codex新增\"控制其他设备\"功能：在一台MacBook的ChatGPT里，可以直接读取另一台Mac Mini的上下文和文件，无需切换设备。操作路径：设置→连接→控制其他设备→选择工作区。  本质变化是：多台设备的项目上下文被打通，AI不再受限于本地硬件。这对同时维护多个开发环境或需要在不同机器间协作的工程师来说，减少了设备切换带来的上"
 resource: "https://x.com/i/status/2055561525633642762"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2055561525633642762"
+created: "2026-05-16"
+updated: "2026-06-26"
+sha256: "d2af3591801828ad4ee6f0fc3063ed011b120266d8a65ddcf62c8447b89d732b"
+sources:
+  - "/sources/news/2026-05-16/00__op7418__codex多设备控制实测-上下文跨机器共享-入口切换变项目切换.md"
 ---
 
 # Codex多设备控制实测：上下文跨机器共享，入口切换变项目切换

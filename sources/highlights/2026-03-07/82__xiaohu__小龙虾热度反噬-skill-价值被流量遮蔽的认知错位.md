@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "小龙虾热度反噬：Skill 价值被流量遮蔽的认知错位"
 description: "**[「龙虾热」掩盖了真正的技术高地]**  小互指出市场认知偏差：Lobster（小龙虾）被过度炒作导致大量用户跟风学习，而真正具有长期价值的技术——Claude Code 及其 Skill 生态——反而被忽视。  **核心矛盾：** • 龙虾（可视化 No-code）：门槛低、见效快、传播性强 • Skill（代码级 Agent 扩展）：门槛高、收益滞后、认知成本高 • 结果：短期热度绑架长期"
 resource: "https://x.com/i/status/2029800783110361405"
@@ -22,6 +22,13 @@ x_selected: 2
 x_priority: 82
 x_related_topic: "no-code-agent-entry"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2029800783110361405"
+created: "2026-03-06"
+updated: "2026-06-26"
+sha256: "4ec06e83b41f70fc96510cdbf5600b1faf5fb3762809f70f3242490836dbb8a9"
+sources:
+  - "/sources/highlights/2026-03-07/82__xiaohu__小龙虾热度反噬-skill-价值被流量遮蔽的认知错位.md"
 ---
 
 # 小龙虾热度反噬：Skill 价值被流量遮蔽的认知错位

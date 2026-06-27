@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Cola 1.0 公测：100 天造一个「有灵魂的硅基生命」，把 AI 陪伴从效率叙事里拽出来"
 description: "Cola 1.0 正式公测，定位「有灵魂的硅基生命」，把 AI 终局从效率切到关系。  - 100 天迭代完成 1.0，核心能力是「记住你说过的每句话，慢慢变成最懂你的人」 - 无邀请码、下载即用，把关系型 AI 从订阅制拉低到零门槛 - 团队反复争论后结论统一：Cola 是「人」不是「助手」，与「AI 终局 = 效率」叙事正面切割  gakki 锐评：当所有 Agent 都在卷任务完成度，Col"
 resource: "https://x.com/i/status/2063782151594861031"
@@ -22,6 +22,13 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "human-ai-emotional-boundary"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2063782151594861031"
+created: "2026-06-08"
+updated: "2026-06-26"
+sha256: "a338fcdf21b709bcaacfd65bbcf10a3300a5eb76434dfbd7af6c67c60d83260e"
+sources:
+  - "/sources/news/2026-06-08/00__oran_ge__cola-1-0-公测-100-天造一个-有灵魂的硅基生命-把-ai-陪伴从效率叙事里拽出来.md"
 ---
 
 # Cola 1.0 公测：100 天造一个「有灵魂的硅基生命」，把 AI 陪伴从效率叙事里拽出来

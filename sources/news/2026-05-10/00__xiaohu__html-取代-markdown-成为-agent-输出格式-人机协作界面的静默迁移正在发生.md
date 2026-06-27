@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "HTML 取代 Markdown 成为 Agent 输出格式：人机协作界面的静默迁移正在发生"
 description: "**当 Agent 输出从 Markdown 迁移到 HTML，本质是「给机器看」转向「给人看」的交互哲学切换。** - 小互指出 HTML 比 Markdown 更适合人类阅读 Agent 的工作过程，更适合人机协作 - 让 Codex 用 HyperFrames 制作解说视频，验证了 HTML 作为 Agent 输出层的可行性 - 这与 Claude Code 的 artifacts、Manu"
 resource: "https://x.com/i/status/2053308895901442241"
@@ -22,6 +22,13 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "claude-code-multimodal-interaction"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2053308895901442241"
+created: "2026-05-10"
+updated: "2026-06-26"
+sha256: "92acffc1b8951ec3bef62170d158469faf9ee4276076a9b1ce377343423cfacb"
+sources:
+  - "/sources/news/2026-05-10/00__xiaohu__html-取代-markdown-成为-agent-输出格式-人机协作界面的静默迁移正在发生.md"
 ---
 
 # HTML 取代 Markdown 成为 Agent 输出格式：人机协作界面的静默迁移正在发生

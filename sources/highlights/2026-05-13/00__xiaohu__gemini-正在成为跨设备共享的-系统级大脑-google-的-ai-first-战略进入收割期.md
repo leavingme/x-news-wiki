@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Gemini 正在成为跨设备共享的「系统级大脑」，Google 的 AI First 战略进入收割期"
 description: "**[Google 终结「聊天框 AI」时代，系统层大一统开启]**  Google 正在将 Gemini 直接嵌入手机、浏览器、电脑、汽车、手表、XR 眼镜的系统底层，所有设备共享同一个 AI 大脑和上下文。这意味着 AI 不再是你主动打开的应用，而是无处不在的背景智能。  · 手机端截图 → 自动生成行程、调用日历/地图/航班/酒店 · 跨设备上下文接力：手机看完的页面，汽车端无缝续上 · 桌"
 resource: "https://x.com/i/status/2054353283234541835"
@@ -22,6 +22,13 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "ai-browser-platform-war"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2054353283234541835"
+created: "2026-05-13"
+updated: "2026-06-26"
+sha256: "9415ad0c314709af4a0cfa4514ddc712df93ca5a247d7e779e4d2da0cc928768"
+sources:
+  - "/sources/highlights/2026-05-13/00__xiaohu__gemini-正在成为跨设备共享的-系统级大脑-google-的-ai-first-战略进入收割期.md"
 ---
 
 # Gemini 正在成为跨设备共享的「系统级大脑」，Google 的 AI First 战略进入收割期

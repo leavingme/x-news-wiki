@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "链上角斗场：Base、Solana 与 BSC 的 AI 叙事大乱斗"
 description: "**[多链竞争的范式分化]** 推特热议当前三条主流公链在 AI 赛道上的截然不同的表现风格。 - **Base 的精英感**：以 Moltbook 为代表，主打“高大上”的自主智能与社会学实验，吸引顶级开发者关注。 - **Solana 的娱乐化**：社区驱动、流量拉满，将 AI 叙事与 Meme 狂欢完美融合。 - **BSC 的农家乐**：被吐槽为“农村吃席”，老旧盘口混杂，但在 AI 基础"
 resource: "https://x.com/i/status/2017557698670391668"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2017557698670391668"
+created: "2026-01-31"
+updated: "2026-06-26"
+sha256: "9af893a240369c3e6d72f2229cbecf888d120fe183169ec3783bb86d2d716333"
+sources:
+  - "/sources/news/2026-01-31/00__softlipa1018__链上角斗场-base-solana-与-bsc-的-ai-叙事大乱斗.md"
 ---
 
 # 链上角斗场：Base、Solana 与 BSC 的 AI 叙事大乱斗

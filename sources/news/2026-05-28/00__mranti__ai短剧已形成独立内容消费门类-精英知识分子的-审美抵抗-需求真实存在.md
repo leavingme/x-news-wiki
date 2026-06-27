@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "AI短剧已形成独立内容消费门类，精英知识分子的「审美抵抗」需求真实存在"
 description: "**[Michael Anti的『开书单』请求是一个内容分层的早期信号]**  Michael Anti（知名科技评论人）公开请求书单，目标是「抵抗AI短剧侵袭」。这不是一个人的矫情——它揭示了一个正在发生的内容消费分层：AI短剧正在成为一种主流娱乐形态，而另一部分用户开始产生「主动抵御」的需求，这种需求本身就是一种消费升级。  **信息增量：** 「抵抗AI短剧」意味着AI短剧已经被感知为一种文"
 resource: "https://x.com/i/status/2059875166004675026"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2059875166004675026"
+created: "2026-05-28"
+updated: "2026-06-26"
+sha256: "b532626a73a0331e5094cb90fb09683d7e01a0abf2b07f3b1973374e0c27cc97"
+sources:
+  - "/sources/news/2026-05-28/00__mranti__ai短剧已形成独立内容消费门类-精英知识分子的-审美抵抗-需求真实存在.md"
 ---
 
 # AI短剧已形成独立内容消费门类，精英知识分子的「审美抵抗」需求真实存在

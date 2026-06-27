@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Confucius4压缩43%思维链：数学推理降本革命与中文本土化双突破"
 description: "**[一句话核心判断]** 27B数学专用多模态模型Confucius4以43.2%思维链压缩率实现同规模SOTA推理，意味着企业级数学Agent部署的token成本将大幅下降。  **信息增量：** 几何题、函数图像题、纯文字数学难题通吃，数学解题能力覆盖完整题型 中文表达地道，不蹦英文——这是国产模型本土化的硬指标  **gakki锐评：** 数学推理是Agent工具调用链的核心节点（计算→验"
 resource: "https://x.com/i/status/2057710998971355291"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2057710998971355291"
+created: "2026-05-22"
+updated: "2026-06-26"
+sha256: "c6cd8dcef541efdd8acc3f5551c5880f6c852e308121345c790dc91d135eb1a0"
+sources:
+  - "/sources/highlights/2026-05-22/00__xiaohu__confucius4压缩43-思维链-数学推理降本革命与中文本土化双突破.md"
 ---
 
 # Confucius4压缩43%思维链：数学推理降本革命与中文本土化双突破

@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "宝玉：产品设计的重要性——视觉化呈现如何影响AI工具采用"
 description: "**[AI工具的产品设计正在成为分化因素]**  宝玉发布产品设计相关内容，配图展示了具体案例。核心观点：AI工具的竞争力已不仅停留在模型能力层，产品设计（包括交互、视觉、反馈机制）正在成为影响用户选择的关键变量。  - 信息增量：来自一线AI开发者的设计观察，非设计圈自说自话 - 影响范围：呼应Claude Design工具发布后的行业讨论 - 边界限定：具体案例需看图才能评估，单条推文信息有限"
 resource: "https://x.com/i/status/2062593766658015636"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2062593766658015636"
+created: "2026-06-04"
+updated: "2026-06-26"
+sha256: "2eb155cdc790d2a8d6e87cbca87440e1aaf2d4c0ecc5d687a6ab65b8c145bab6"
+sources:
+  - "/sources/news/2026-06-04/00__dotey__宝玉-产品设计的重要性-视觉化呈现如何影响ai工具采用.md"
 ---
 
 # 宝玉：产品设计的重要性——视觉化呈现如何影响AI工具采用

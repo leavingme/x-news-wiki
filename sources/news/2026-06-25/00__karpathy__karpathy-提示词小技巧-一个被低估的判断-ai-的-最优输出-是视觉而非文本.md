@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Karpathy 提示词小技巧 + 一个被低估的判断：AI 的「最优输出」是视觉而非文本"
 description: "**Karpathy 推荐在 prompt 末尾加「structure your response as HTML」并在浏览器打开，并提出一个值得产品团队重新审视的模态论断。**  - 实操技巧：让 LLM 输出 HTML 文件再浏览器渲染，对长报告、slides、对比表特别有效，比 Markdown 在终端里干读体验好一个量级 - 理论判断：人类输入 AI 的最佳模态是音频（说话最自然），但 A"
 resource: "https://x.com/i/status/2053872850101285137"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2053872850101285137"
+created: "2026-05-11"
+updated: "2026-06-26"
+sha256: "d1fd01ee4c38c451545d30764f05ce1397ae1bf9ce322f66e9955fbb1ef6eee1"
+sources:
+  - "/sources/news/2026-06-25/00__karpathy__karpathy-提示词小技巧-一个被低估的判断-ai-的-最优输出-是视觉而非文本.md"
 ---
 
 # Karpathy 提示词小技巧 + 一个被低估的判断：AI 的「最优输出」是视觉而非文本

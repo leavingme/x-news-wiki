@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "开源代码被宣称为自研：AI工具圈的「界面工程化」正在制造信任危机"
 description: "**[开源合规问题正在成为AI工具圈的信誉雷区]**  向阳乔木的质问指向一个正在蔓延的现象：当 AI 工具的代码生成能力与开源合规产生交集，「谁写的代码」变得前所未有的模糊。模型蒸馏、数据回流的争议尚未平息，代码来源的诚信问题已开始侵蚀开发者信任。  对采购方而言，开源合规审计将成为企业级 AI 工具的入场券，而非可选项。"
 resource: "https://x.com/i/status/2058125117591519515"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2058125117591519515"
+created: "2026-05-23"
+updated: "2026-06-26"
+sha256: "9372e67ef69192989e5fa08cef5650570861afdc87810e13b85a3d093596310f"
+sources:
+  - "/sources/news/2026-05-23/00__vista8__开源代码被宣称为自研-ai工具圈的-界面工程化-正在制造信任危机.md"
 ---
 
 # 开源代码被宣称为自研：AI工具圈的「界面工程化」正在制造信任危机

@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "宇树机器人「出家」韩国寺庙：具身智能的文化实验正在突破工业叙事"
 description: "**具身 AI 正在从工厂流水线走进人类精神空间，这是产品叙事的重大转向。**  - 宇树机器人出现在韩国寺庙场景，无论企业行为还是寺庙自发，都指向一个信号：人形机器人正在被接纳为「社会角色」而非纯工具 - 对比特斯拉 Optimus 的工业路径，宇树选择文化/宗教场景做曝光，本质上是在测试公众对机器人的心理接受阈值 - 这类「软着陆」策略比硬推生产力叙事更容易建立情感连接，可能成为具身 AI 产"
 resource: "https://x.com/i/status/2052604674151506355"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2052604674151506355"
+created: "2026-05-08"
+updated: "2026-06-26"
+sha256: "f0d87136b789db676e10736816a5f7c21b45f1ee6dad4d1971ab6fd186f9706e"
+sources:
+  - "/sources/news/2026-05-08/00__mranti__宇树机器人-出家-韩国寺庙-具身智能的文化实验正在突破工业叙事.md"
 ---
 
 # 宇树机器人「出家」韩国寺庙：具身智能的文化实验正在突破工业叙事

@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "美国禁令落地：Fable 5 / Mythos 5 禁止外国用户使用，AI 模型出海撞上主权墙"
 description: "**[美国以\"国家安全\"为由要求 Anthropic 切断外国用户对 Fable 5 / Mythos 5 的访问权限，Anthropic 最高阶模型出海通道被行政命令按下暂停键。]**  - 这是 Claude Fable 系列发布以来首次遭遇国家级合规切割，Anthropic 商业化全球化扩张撞上地缘天花板 - 在\"逼 API / 锁生物 / 禁竞品训练\"三道产品边界之外，第四道边界——**主"
 resource: "https://x.com/i/status/2065618689618309612"
@@ -22,6 +22,13 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "ai-technology-iron-curtain"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2065618689618309612"
+created: "2026-06-13"
+updated: "2026-06-26"
+sha256: "0eaba8af0e765b4fdc9dfddc37104a484b36651a57a7d2661849ff20a7505dc4"
+sources:
+  - "/sources/highlights/2026-06-13/00__jiqizhixin__美国禁令落地-fable-5-mythos-5-禁止外国用户使用-ai-模型出海撞上主权墙.md"
 ---
 
 # 美国禁令落地：Fable 5 / Mythos 5 禁止外国用户使用，AI 模型出海撞上主权墙

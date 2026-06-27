@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "2026 职场灰犀牛：AI 逻辑链条闭环引发的白领生存危机"
 description: "**[核心逻辑]** 深度解析 AI 替代白领的逻辑链：AI 替代人工分析 → 企业裁员 → 消费降级 → 经济空转，警告窗口期仅剩 1-2 年。  - **核心假设挑战**：如果你的收入建立在“人类智能稀缺”上（如写报告、搬数据），你的护城河已不存在。 - **避险指南**：建议立即将 AI 融入工作流，降低固定支出，并建立不依赖单一雇主的副业。  [gakki 的锐评]：灰犀牛冲过来时，跑得最"
 resource: "https://x.com/i/status/2025952519676109291"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2025952519676109291"
+created: "2026-02-23"
+updated: "2026-06-26"
+sha256: "2731cec523ce48a78ee34100bee5dc6a392d49decac410f748f16f9812528281"
+sources:
+  - "/sources/news/2026-02-24/00__LongChenNotes__2026-职场灰犀牛-ai-逻辑链条闭环引发的白领生存危机.md"
 ---
 
 # 2026 职场灰犀牛：AI 逻辑链条闭环引发的白领生存危机

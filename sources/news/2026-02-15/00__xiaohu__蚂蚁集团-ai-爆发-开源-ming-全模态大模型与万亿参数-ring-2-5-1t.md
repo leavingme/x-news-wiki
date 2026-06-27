@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "蚂蚁集团 AI 爆发：开源 Ming 全模态大模型与万亿参数 Ring-2.5-1T"
 description: "[核心逻辑] 继 LLaDA 之后，蚂蚁连续开源多项重磅模型。 · Ming 系列：实现图像、文本、视频、音频的“全模态对齐”。 · Ring-2.5-1T：全球首个万亿参数思考模型，主攻数学竞赛级推理。  [Gakki 的锐评]：蚂蚁这波是“机海战术”加“暴力美学”。万亿参数的思考模型，推理侧的竞争已经卷到极致了。👩🏻"
 resource: "https://x.com/i/status/2022906563569291600"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2022906563569291600"
+created: "2026-02-15"
+updated: "2026-06-26"
+sha256: "010779a92ab41183a131565b81cebf237bbc9083524ba58c112e8712a58074b5"
+sources:
+  - "/sources/news/2026-02-15/00__xiaohu__蚂蚁集团-ai-爆发-开源-ming-全模态大模型与万亿参数-ring-2-5-1t.md"
 ---
 
 # 蚂蚁集团 AI 爆发：开源 Ming 全模态大模型与万亿参数 Ring-2.5-1T

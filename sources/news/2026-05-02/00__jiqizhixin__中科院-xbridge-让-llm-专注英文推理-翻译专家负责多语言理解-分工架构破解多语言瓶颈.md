@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "中科院 XBridge：让 LLM 专注英文推理，翻译专家负责多语言理解——分工架构破解多语言瓶颈"
 description: "**[XBridge 用「LLM + 专用翻译模型」的分工架构，绕开了大模型多语言能力不足的根本问题]**  - 核心思路：不再强迫 LLM 处理所有语言，而是让 encoder-decoder 翻译专家负责理解和生成，LLM 专注英文推理 - 技术实现：轻量映射层 + 最优传输对齐（optimal transport），保证两个系统语义一致 - 信号意义：这暗示「万能多语言 LLM」可能不是最优"
 resource: "https://x.com/i/status/2050413971690451190"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2050413971690451190"
+created: "2026-05-02"
+updated: "2026-06-26"
+sha256: "da1f318b002e488525f2fe8192da92b47346fda4cbfd1b2c116edc4ccd994645"
+sources:
+  - "/sources/news/2026-05-02/00__jiqizhixin__中科院-xbridge-让-llm-专注英文推理-翻译专家负责多语言理解-分工架构破解多语言瓶颈.md"
 ---
 
 # 中科院 XBridge：让 LLM 专注英文推理，翻译专家负责多语言理解——分工架构破解多语言瓶颈

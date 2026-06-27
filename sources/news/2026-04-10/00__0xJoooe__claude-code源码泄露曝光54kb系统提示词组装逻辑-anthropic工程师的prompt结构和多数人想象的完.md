@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Claude Code源码泄露曝光54KB系统提示词组装逻辑：Anthropic工程师的prompt结构和多数人想象的完全相反"
 description: "**[Claude Code被泄露的system prompt揭示了一个多数人不知道的prompt工程原理]**  54KB的system prompt不是一整段文字，而是由getSimpleSystemSection()、getSimpleDoingTasksSection()、getSimpleToneAndStyleSection()等十几个独立函数分别生成后拼接的。每个section用#标"
 resource: "https://x.com/i/status/2038962572519723317"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2038962572519723317"
+created: "2026-03-31"
+updated: "2026-06-26"
+sha256: "1cb9054f47c074958c2412a5dec2be305da21c19b1394186c49607cc39432b0d"
+sources:
+  - "/sources/news/2026-04-10/00__0xJoooe__claude-code源码泄露曝光54kb系统提示词组装逻辑-anthropic工程师的prompt结构和多数人想象的完.md"
 ---
 
 # Claude Code源码泄露曝光54KB系统提示词组装逻辑：Anthropic工程师的prompt结构和多数人想象的完全相反

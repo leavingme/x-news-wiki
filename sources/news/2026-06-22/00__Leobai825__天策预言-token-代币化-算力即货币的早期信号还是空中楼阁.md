@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "天策预言 Token 代币化：算力即货币的早期信号还是空中楼阁？"
 description: "**天策抛出'Token 将被代币化'的预言，把 AI 时代的稀缺资源（推理 Token）直接推到了货币候选位。**  - 论点：未来某天 Token 会像算力期货一样被定价、交易、衍生化——因为它是所有 Agent 行为的最小计价单位。 - 背景：呼应 Jensen Huang 的 'Token Economics' 叙事（NVIDIA 把算力定价锚定到 token），与 recall / 0G"
 resource: "https://x.com/i/status/2069079141706604593"
@@ -22,6 +22,13 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "token-economics-infrastructure"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2069079141706604593"
+created: "2026-06-22"
+updated: "2026-06-26"
+sha256: "d1ab5acfd6d917bebf32130c7d556c13fd0652fcd0c8b0c37cb6d261c3f419a1"
+sources:
+  - "/sources/news/2026-06-22/00__Leobai825__天策预言-token-代币化-算力即货币的早期信号还是空中楼阁.md"
 ---
 
 # 天策预言 Token 代币化：算力即货币的早期信号还是空中楼阁？

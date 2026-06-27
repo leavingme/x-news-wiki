@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "GPT Image 2 终结大规模商稿的「字符地狱」：从业余到专业的临界点"
 description: "**一句话核心判断：GPT Image 2 在大规模图像生成中已解决字符错误导致的反复重做问题，质量提升从业余跨越至专业级别。**  要点： - banana-2（可能是 DALL-E 3 或某版本）在大规模商稿场景中字符错误率极高，每页都可能因拼写/字符问题重做，成为规模化生产瓶颈 - GPT Image 2 显著改善了这一问题，大规模做图不再需要逐页人工校对字符正确性 - 这意味着 AI 图像"
 resource: "https://x.com/i/status/2047306612055138384"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2047306612055138384"
+created: "2026-04-23"
+updated: "2026-06-26"
+sha256: "9d9206e3d75a5b11a9cb0b35a0906875e803241fd8f18b85a7179ed03c3a5d34"
+sources:
+  - "/sources/news/2026-04-24/00__mranti__gpt-image-2-终结大规模商稿的-字符地狱-从业余到专业的临界点.md"
 ---
 
 # GPT Image 2 终结大规模商稿的「字符地狱」：从业余到专业的临界点

@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Hermes 官方客户端上线：开源 Agent 生态进入「正规化」阶段"
 description: "**[开源 Agent 平台的分化信号：有人还在玩概念，有人已在建护城河]**  歸藏 明确判断 Hermes 官方客户端的推出节奏领先于 OpenClaw（龙虾）。这并非小事——开源 Agent 生态长期缺乏「开箱即用」的客户端，而 Hermes 正在填补这个空缺。OpenClaw 过去以生态概念著称，但 Hermes 的推进速度正在暴露后者重心偏移的问题。  - 客户端是用户体验的最后一道门槛"
 resource: "https://x.com/i/status/2062002323786985825"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2062002323786985825"
+created: "2026-06-03"
+updated: "2026-06-26"
+sha256: "a65caaa8942535e6f36849cf36d7312b35a09208d90422d6d3bc3d55899481df"
+sources:
+  - "/sources/news/2026-06-03/00__op7418__hermes-官方客户端上线-开源-agent-生态进入-正规化-阶段.md"
 ---
 
 # Hermes 官方客户端上线：开源 Agent 生态进入「正规化」阶段

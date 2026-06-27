@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "积分漏打卡成历史：AI 正在将\"低价值日常\"变成粘性入口"
 description: "**[星巴克打卡积分提醒场景，揭示 AI 嵌入生活的新路径——从工具到习惯]**  核心观察：用户发现 AI 可以不定时提醒星巴克、App 打卡积分这类\"漏了也不在乎，用时很可惜\"的微小行为。这个场景看似 trivial，但它的价值在于——AI 正在接管一类人脑不愿意持续消耗注意力、但又有负外部性的日常事务。  信息增量：这类场景不会出现在发布会 keynotes 里，但它们是 AI 真正渗透日常"
 resource: "https://x.com/i/status/2055644472999108731"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2055644472999108731"
+created: "2026-05-16"
+updated: "2026-06-26"
+sha256: "9f576543f43e25ef1a4b5e50c48a72a59802ad0dc06db92421ef20a4cafc1cc3"
+sources:
+  - "/sources/news/2026-05-16/00__Zesee__积分漏打卡成历史-ai-正在将-低价值日常-变成粘性入口.md"
 ---
 
 # 积分漏打卡成历史：AI 正在将"低价值日常"变成粘性入口

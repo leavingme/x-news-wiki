@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Colossus 内访长文：Notion 和 Cursor 的「内部焦虑与挣扎」"
 description: "**大厂内部视角披露：AI 编程工具的「焦虑真实」比产品发布更可信**  向阳乔木推荐了 Colossus 网站上关于 Notion 和 Cursor 的深度访谈文章，强调能看见「内部的焦虑和挣扎」——这与官方博客的「增长叙事」形成反差。  这类内访的价值在于：它揭示的是公司战略选择的「为什么」，而非「是什么」。例如 Cursor 在 AI 编程赛道的定位调整、Notion 在 AI 冲击下的产品"
 resource: "https://x.com/i/status/2049106921144344886"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2049106921144344886"
+created: "2026-04-28"
+updated: "2026-06-26"
+sha256: "de9c3666c5440e380cd8d52cfbd640a03437a38b4e72d9ea81773d47432fec90"
+sources:
+  - "/sources/news/2026-04-28/00__vista8__colossus-内访长文-notion-和-cursor-的-内部焦虑与挣扎.md"
 ---
 
 # Colossus 内访长文：Notion 和 Cursor 的「内部焦虑与挣扎」

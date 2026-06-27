@@ -1,5 +1,5 @@
 ---
-type: "Author"
+type: "entity"
 title: "qinbafrank (@qinbafrank)"
 description: "X/Twitter 作者 @qinbafrank。共收录 5 条 AI 精选推文。"
 tags:
@@ -12,6 +12,16 @@ x_author_name: "qinbafrank"
 x_tweet_count: 5
 x_first_seen: "2026-01-30T12:00:00.000Z"
 x_last_seen: "2026-04-09T10:17:45.031Z"
+type_okf: "Author"
+created: "2026-01-30"
+updated: "2026-06-26"
+sha256: "394c6b47478057ac9bf5a63334dd35522a8d560ae7643b66a9e39a752afdb52b"
+sources:
+  - "/sources/highlights/2026-03-17/00__qinbafrank__老黄gtc定调-token工厂即国力-ai基建进入-最后通牒-时刻.md"
+  - "/sources/highlights/2026-04-04/00__qinbafrank__谷歌-组织革命-翻身-vs-meta-收购依赖-失速-两大巨头ai路径分化已见分晓.md"
+  - "/sources/highlights/2026-04-09/00__qinbafrank__claude-code源码泄露-anthropic的-决策权-边界正在被市场教育.md"
+  - "/sources/news/2026-01-30/00__qinbafrank__新时代科技经济学-买铲子与挖黄金.md"
+  - "/sources/news/2026-01-31/00__qinbafrank__谷歌-project-genie-虚拟世界的-ai-代理革命.md"
 ---
 
 # qinbafrank (@qinbafrank)

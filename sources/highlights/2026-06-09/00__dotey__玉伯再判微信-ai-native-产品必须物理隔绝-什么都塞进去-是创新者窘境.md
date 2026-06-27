@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "玉伯再判微信：AI native 产品必须物理隔绝，'什么都塞进去'是创新者窘境"
 description: "**玉伯用 Christensen 的 RPV框架给微信 AI化判了'死刑'——除非分拆团队，否则做不出 AI native 产品。**  -核心论点：微信的资源/流程/价值（RPV）是为社交图谱、消息、支付优化的，与 AI native产品的需求根本不同路，硬塞只会让用户心生厌恶甚至恐惧。 -给出路径：物理+财务隔绝的独立团队、一键授权搬运社交网络——**本质是让 AI app 成为微信的'外挂"
 resource: "https://x.com/i/status/2064168615495016943"
@@ -22,6 +22,13 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "ai-business-cognition-reconstruction"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2064168615495016943"
+created: "2026-06-09"
+updated: "2026-06-26"
+sha256: "d80834e0e2e1bb777e99e359728dd9f1da489162eefdae59591bd5afcb0622da"
+sources:
+  - "/sources/highlights/2026-06-09/00__dotey__玉伯再判微信-ai-native-产品必须物理隔绝-什么都塞进去-是创新者窘境.md"
 ---
 
 # 玉伯再判微信：AI native 产品必须物理隔绝，'什么都塞进去'是创新者窘境

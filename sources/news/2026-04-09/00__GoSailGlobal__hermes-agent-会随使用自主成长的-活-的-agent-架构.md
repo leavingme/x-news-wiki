@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Hermes Agent：会随使用自主成长的「活」的 Agent 架构"
 description: "**[nous research 推出自主进化的 hermes-agent]**  NousResearch 发布 Hermes Agent，核心定位是「The agent that grows with you」——一个在使用中自主进化的 Agent。与传统静态 Agent 不同，它通过持续学习用户行为模式实现能力增长。  关键信息： - Hermes-agent 在 Skills 精选中增速 "
 resource: "https://x.com/i/status/2032357072734749079"
@@ -22,6 +22,13 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "sub-agents-multi-expert"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2032357072734749079"
+created: "2026-03-13"
+updated: "2026-06-26"
+sha256: "cbb1460f46fd6075d5e50bbdf45ae7f7ce11c8e92ee6bae6846f9a692ee04c1e"
+sources:
+  - "/sources/news/2026-04-09/00__GoSailGlobal__hermes-agent-会随使用自主成长的-活-的-agent-架构.md"
 ---
 
 # Hermes Agent：会随使用自主成长的「活」的 Agent 架构

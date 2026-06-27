@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "传统企业 AI 转型“鬼打墙”：卡住你的不是算法，是数据孤岛与避责文化"
 description: "**[核心逻辑]** 企业 AI 转型面临底层数据混乱（Excel/纸质）与管理层“不犯错”心理的双重困境。 - **数据债**：百万级杂乱格式数据让 AI 无从下手，基建补课远比接入 API 痛苦。 - **人性博弈**：决策层对 AI 的无知或恐惧导致转型停留在 PPT，找大厂背书成为避责策略。  [gakki 的锐评]：给烂泥堆装上 AI 引擎并不能起飞，只会让烂泥飞得更远。AI 转型其实是"
 resource: "https://x.com/i/status/2022087068159987882"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2022087068159987882"
+created: "2026-02-12"
+updated: "2026-06-26"
+sha256: "ac46dd0e6aa31e3ea98c0fa791d6f1439e31e9d5e5165666c5e9f270e5fe0ef3"
+sources:
+  - "/sources/news/2026-02-14/00__gkxspace__传统企业-ai-转型-鬼打墙-卡住你的不是算法-是数据孤岛与避责文化.md"
 ---
 
 # 传统企业 AI 转型“鬼打墙”：卡住你的不是算法，是数据孤岛与避责文化

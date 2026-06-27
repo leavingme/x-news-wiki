@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Anthropic 连环松绑 Claude Code 限额：留人战役正式打响"
 description: "**[Anthropic 正在用配额换用户粘性，短期窗口期已开]**  Anthropic 本周第二次上调 Claude Code 用量上限，50% 增幅叠加上周的 5 小时窗口翻倍，双维度天花板同步抬高，覆盖 Pro/Max/Team/Enterprise 全层级，即刻生效至 7 月 13 日。Pro 用户最痛的「一下午撞顶」痛点被直接针对。  这是 Claude Code 面对 Cursor、"
 resource: "https://x.com/i/status/2054651679786914278"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2054651679786914278"
+created: "2026-05-13"
+updated: "2026-06-26"
+sha256: "04dfb9d558319f63afa0ee669e0f02a0ed23d5964520215275c2d8842d3b0711"
+sources:
+  - "/sources/highlights/2026-05-13/00__dotey__anthropic-连环松绑-claude-code-限额-留人战役正式打响.md"
 ---
 
 # Anthropic 连环松绑 Claude Code 限额：留人战役正式打响

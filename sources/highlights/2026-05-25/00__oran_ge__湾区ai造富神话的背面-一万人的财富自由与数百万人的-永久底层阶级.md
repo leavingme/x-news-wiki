@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "湾区AI造富神话的背面：一万人的财富自由与数百万人的「永久底层阶级」"
 description: "**[AI繁荣的结构性代价：少数人跃迁，多数人被锁定]**  湾区AI行业过去5年催生了约1万人、财富超2000万美元的超级富裕群体（Anthropic/OpenAI/xAI/Nvidia员工及创始人），但这个群体之外，即使收入不错的从业者，也面临晋升通道实质关闭的困境——「爬一座错误的大楼」。  更值得警惕的是「永久底层阶级」叙事正在年轻人中扩散：中层管理者因缺乏创业资源和人脉而动弹不得，裁员失"
 resource: "https://x.com/i/status/2058693961917911294"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2058693961917911294"
+created: "2026-05-24"
+updated: "2026-06-26"
+sha256: "abdf428d4bbc4477e6dddf42807df72fd994b20d05f94e971faefa80396e337a"
+sources:
+  - "/sources/highlights/2026-05-25/00__oran_ge__湾区ai造富神话的背面-一万人的财富自由与数百万人的-永久底层阶级.md"
 ---
 
 # 湾区AI造富神话的背面：一万人的财富自由与数百万人的「永久底层阶级」

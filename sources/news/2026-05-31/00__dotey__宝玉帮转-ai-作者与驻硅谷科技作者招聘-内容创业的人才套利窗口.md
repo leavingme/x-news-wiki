@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "宝玉帮转：AI 作者与驻硅谷科技作者招聘——内容创业的人才套利窗口"
 description: "**[一句话核心判断]**  宝玉发布 AI 作者和驻硅谷科技作者招聘信息，内容创业正在从「个体表达」进入「机构化生产」阶段。  **信息增量：** - 「驻硅谷」标签意味着稀缺一手信息的机构化获取正在成为内容产品的核心差异点 - AI 作者的招聘需求，暗示 AI 辅助写作已经从极客圈扩散到商业内容生产 - 这是知识平权的另一面：不是所有人能用 AI，而是能用 AI 的人开始组织起来生产  **影"
 resource: "https://x.com/i/status/2061131307761930697"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2061131307761930697"
+created: "2026-05-31"
+updated: "2026-06-26"
+sha256: "42bc809420ff86cea98fd82092c689c2aca51078a67989f3ad44990bdf9a9a3a"
+sources:
+  - "/sources/news/2026-05-31/00__dotey__宝玉帮转-ai-作者与驻硅谷科技作者招聘-内容创业的人才套利窗口.md"
 ---
 
 # 宝玉帮转：AI 作者与驻硅谷科技作者招聘——内容创业的人才套利窗口

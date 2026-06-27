@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "中转站 Claude Code 又贵又慢，Codex 正在成为国内开发者的性价比拐点"
 description: "**[一句话核心判断]**  当国内开发者绕过官方 API 使用中转站时，Claude Code 的高成本与低速度正在反向推动 Codex 成为更务实的选择。  **要点：** - 中转站的 Claude Code 定价高、响应慢，实际体验倒逼用户迁移 - Codex 作为替代方案在中文开发者圈的实际口碑正在积累 - 折射出国内开发者面临的 API 定价与访问成本的结构性困境  **gakki 锐"
 resource: "https://x.com/i/status/2049161831785332885"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2049161831785332885"
+created: "2026-04-28"
+updated: "2026-06-26"
+sha256: "7f1ab44536e52512c5f126834b218b57b21b761f0ae40e393e97c41a33571fe2"
+sources:
+  - "/sources/news/2026-04-28/00__vista8__中转站-claude-code-又贵又慢-codex-正在成为国内开发者的性价比拐点.md"
 ---
 
 # 中转站 Claude Code 又贵又慢，Codex 正在成为国内开发者的性价比拐点

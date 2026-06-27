@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "日均1亿Token消耗的Vibe Coding实践者：AI Coding课程的新标杆"
 description: "**[规模化Vibe Coding的实战经验首次系统输出]** • TikTok架构背景+Devv创业验证+全员AI写代码的组织设计，构成完整的「AI原生开发」案例 • 日均100m+ token消耗量揭示了Vibe Coding的真实成本门槛——这不是零成本革命 • 课程形式的选择本身值得关注：视频？Workshop？交互式教程？每种形式对应不同的学习曲线  当AI Coding进入「人均10亿"
 resource: "https://x.com/i/status/2032295211389637094"
@@ -22,6 +22,13 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "vibe-coding-methodology"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2032295211389637094"
+created: "2026-03-13"
+updated: "2026-06-26"
+sha256: "0d038d4fae0910728f8af92135c7210b90a077129c045c7f1d33a1faf33f8e5c"
+sources:
+  - "/sources/news/2026-03-16/00__jiayuan_jy__日均1亿token消耗的vibe-coding实践者-ai-coding课程的新标杆.md"
 ---
 
 # 日均1亿Token消耗的Vibe Coding实践者：AI Coding课程的新标杆

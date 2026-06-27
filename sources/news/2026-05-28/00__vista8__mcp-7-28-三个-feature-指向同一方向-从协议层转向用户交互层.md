@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "MCP 7.28 三个 Feature 指向同一方向：从协议层转向用户交互层"
 description: "**[MCP 正在从「工具调用协议」进化为「应用分发协议」]**  向阳乔木透露 MCP 7.28 的三个 Feature：服务器可下发 HTML 界面让用户交互、长任务有了正式管理机制、更严格的授权安全。这三个 Feature 有一个共同逻辑——MCP 的设计重心从「Agent 找工具」迁移到「工具通过 Agent 触达用户」。HTML 界面下发意味着 MCP Server 不再只是后端工具，而"
 resource: "https://x.com/i/status/2059812644081766518"
@@ -22,6 +22,13 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "multi-agent-framework-ecosystem-comparison"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2059812644081766518"
+created: "2026-05-28"
+updated: "2026-06-26"
+sha256: "e4d7ac9d4fef0650b56a9522ed3e08bc61c6cb96d1c68525d557deef8fc9bcdd"
+sources:
+  - "/sources/news/2026-05-28/00__vista8__mcp-7-28-三个-feature-指向同一方向-从协议层转向用户交互层.md"
 ---
 
 # MCP 7.28 三个 Feature 指向同一方向：从协议层转向用户交互层

@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "AI评测的虚无感：屠龙之术考完却发现没有龙"
 description: "**一句话核心判断** 余温吐槽\"牛逼，但考了也确实没啥用\"——精准命中当前AI评测文化的核心矛盾：我们把大量精力放在构建评测基准上，但这些基准与实际使用场景的脱节程度远超预期。  **信息增量** - 现象：AI开发者和用户热衷于\"考AI\"（如各种榜单、 benchmark），但当AI真的通过考试后，用户仍感觉不到实际能力提升。 - 本质问题：评测基准往往测的是\"AI在特定任务上的表现\"，而非\""
 resource: "https://x.com/i/status/2060391381701480915"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2060391381701480915"
+created: "2026-05-29"
+updated: "2026-06-26"
+sha256: "27c20faf7792e65407831bfde426af1711e1a5fabe13533735a1296b1a7b3b9b"
+sources:
+  - "/sources/news/2026-05-29/00__gkxspace__ai评测的虚无感-屠龙之术考完却发现没有龙.md"
 ---
 
 # AI评测的虚无感：屠龙之术考完却发现没有龙

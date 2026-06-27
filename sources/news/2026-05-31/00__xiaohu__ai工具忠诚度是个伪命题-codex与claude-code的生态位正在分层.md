@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "AI工具忠诚度是个伪命题：Codex与Claude Code的生态位正在分层"
 description: "**Vibe Coding 群体展现出典型的工具流动性——不是渣男，是现实主义者。**  Claude Code 和 Codex 解决的是不同层次的问题：前者强在工程纪律，后者强在上下文长度与场景覆盖。当工具切换成本足够低，忠诚度就是个伪概念。  真正的信号是：开发者不再把工具当能力延伸，而是当可替换的资源。这意味着 AI coding 工具的护城河不在功能本身，在于生态锁定（skill 系统、M"
 resource: "https://x.com/i/status/2061010800010268917"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2061010800010268917"
+created: "2026-05-31"
+updated: "2026-06-26"
+sha256: "cfcc1814e02779a5a5846c89b809fb4110cb69fb0f0578da1a96265b5f301600"
+sources:
+  - "/sources/news/2026-05-31/00__xiaohu__ai工具忠诚度是个伪命题-codex与claude-code的生态位正在分层.md"
 ---
 
 # AI工具忠诚度是个伪命题：Codex与Claude Code的生态位正在分层

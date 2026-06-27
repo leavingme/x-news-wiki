@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "开源EPUB漫改书流水线：DeepSeek V4-Flash+免费图模型的角色提取自动化"
 description: "**个人AI内容创作进入\"扔原料、取成品\"阶段。**  - Michael Anti 开源了 epub-to-illustrated-book 流水线：扔入 epub，自动生成带角色出场头像的绘图本 - 找角色用 DeepSeek V4-Flash，做图用硅谷快手免费模型 - 核心不是技术突破，而是把多模型协作编排成了一个零门槛的工具链  **gakki锐评：** 这个工具的本质是\"AI流水线即消"
 resource: "https://x.com/i/status/2047947604957479269"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2047947604957479269"
+created: "2026-04-25"
+updated: "2026-06-26"
+sha256: "9838938aa0e5d2aace94948eef8df082fad56390b9b7a4bf96f2320efaa01f14"
+sources:
+  - "/sources/news/2026-04-25/00__mranti__开源epub漫改书流水线-deepseek-v4-flash-免费图模型的角色提取自动化.md"
 ---
 
 # 开源EPUB漫改书流水线：DeepSeek V4-Flash+免费图模型的角色提取自动化

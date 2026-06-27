@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "字节的分发神话遮蔽了它的产品直觉：当 AI 抹平流量，\"做对产品\"才是新护城河"
 description: "**分发是杠杆，产品是支点——业界普遍把字节的杠杆当成了支点。**  - 抖音/今日头条时代，外界把字节的成功归因于\"流量分发能力\"，遮蔽了其产品判断力。 - 进入 AI 时代，流量入口被 ChatGPT/Claude/Agent 重构，分发优势被摊薄。 - 真正的护城河反而是\"对产品形态的精准判断\"——这恰恰是字节长期被低估的能力。   gakki 锐评：这一判断对所有\"渠道型巨头\"都是个警告—"
 resource: "https://x.com/i/status/2065555595768521103"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2065555595768521103"
+created: "2026-06-12"
+updated: "2026-06-26"
+sha256: "6aa11acfade2d1584cbee9a7dfaa44399d768a6a60f778846f4371fd4c439b5d"
+sources:
+  - "/sources/news/2026-06-12/00__oran_ge__字节的分发神话遮蔽了它的产品直觉-当-ai-抹平流量-做对产品-才是新护城河.md"
 ---
 
 # 字节的分发神话遮蔽了它的产品直觉：当 AI 抹平流量，"做对产品"才是新护城河

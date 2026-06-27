@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "HashiCorp 创始人：Agent 让 Nix 的「脚枪」消失，隔离保证成为复杂工具的护城河"
 description: "**Mitchell Hashimoto（HashiCorp 联合创始人）公开背书 Nix + Agent 组合：过去五年他作为 Nix 用户一直容忍其各种坑，但 Agent 出现后一切变了。**  要点： - 核心洞察：Agent 解决了 Nix 的「脚枪」问题，因为 Nix 的隔离保证让 Agent 无法搞坏宿主系统 - 范式含义：复杂、强大的声明式工具（Nix/K8s/Terraform）在"
 resource: "https://x.com/i/status/2069951860149207476"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2069951860149207476"
+created: "2026-06-25"
+updated: "2026-06-26"
+sha256: "5d6cc41cd74c2ad3ad7eb58557ac64d1bc7f99b6bee74c87dfa9b3265d34728d"
+sources:
+  - "/sources/news/2026-06-25/00__mitchellh__hashicorp-创始人-agent-让-nix-的-脚枪-消失-隔离保证成为复杂工具的护城河.md"
 ---
 
 # HashiCorp 创始人：Agent 让 Nix 的「脚枪」消失，隔离保证成为复杂工具的护城河

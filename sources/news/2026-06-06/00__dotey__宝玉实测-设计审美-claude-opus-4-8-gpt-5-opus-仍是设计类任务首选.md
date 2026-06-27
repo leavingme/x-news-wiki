@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "宝玉实测：设计审美 Claude Opus 4.8 > GPT-5，Opus 仍是设计类任务首选"
 description: "**宝玉把设计审美这一最主观的维度也判定为 Opus 4.8 压 GPT-5 一头，等于把 Opus 的领先从「推理/代码」延伸到「视觉/审美」全栈。**  - 宝玉作为高产 AI 圈 KOL，结论指向「设计相关任务还是得 Opus」——这与此前 Gemini Design 横评、Claude Design 工具链推广形成同向证据。 - 在 GPT-5 和 Opus 4.8 都被定位为顶级模型的情"
 resource: "https://x.com/i/status/2063314623613337822"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2063314623613337822"
+created: "2026-06-06"
+updated: "2026-06-26"
+sha256: "bffd325911a466095e07eedd0e1931c2341b527bdaf61511f461eddc66c0c28a"
+sources:
+  - "/sources/news/2026-06-06/00__dotey__宝玉实测-设计审美-claude-opus-4-8-gpt-5-opus-仍是设计类任务首选.md"
 ---
 
 # 宝玉实测：设计审美 Claude Opus 4.8 > GPT-5，Opus 仍是设计类任务首选

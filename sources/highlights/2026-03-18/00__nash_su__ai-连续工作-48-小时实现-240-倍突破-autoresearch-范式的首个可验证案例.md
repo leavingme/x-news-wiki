@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "AI 连续工作 48 小时实现 240 倍突破：Autoresearch 范式的首个可验证案例"
 description: "**Karpathy 预言的「AI 自主科研」首次被完整验证。**  • 一位开发者基于 Karpathy 的 autoresearch 思路编写 program.md，让 Claude Code 在单卡 GTX 4090 上连续运行近 48 小时，自动执行近 70 组实验 • 关键转折点来自人类一句「/btw 大胆一点」的介入，AI 随即突破原有约束重构底层架构，将 MSE 降低 240 倍 •"
 resource: "https://x.com/i/status/2031919086679273836"
@@ -22,6 +22,13 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "ai-autonomous-scientific-discovery"
 x_source: "bookmark"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2031919086679273836"
+created: "2026-03-12"
+updated: "2026-06-26"
+sha256: "dd88f17ea48c137d5c84ea6456c680fd9269a19c7d5fb0e2173cf45527fb41de"
+sources:
+  - "/sources/highlights/2026-03-18/00__nash_su__ai-连续工作-48-小时实现-240-倍突破-autoresearch-范式的首个可验证案例.md"
 ---
 
 # AI 连续工作 48 小时实现 240 倍突破：Autoresearch 范式的首个可验证案例

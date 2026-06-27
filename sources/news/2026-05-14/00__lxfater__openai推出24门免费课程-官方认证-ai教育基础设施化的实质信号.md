@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "OpenAI推出24门免费课程+官方认证：AI教育基础设施化的实质信号"
 description: "**一线判断：免费课程体系+认证的组合，本质是把「AI使用能力」变成可量化、可流通的资质证明。**  • 结构设计有分层：入门（101）→提示工程→应用实战，14周路径清晰，对应的是职业技能培训市场而非兴趣市场 • 认证绑定意味着AI工具能力开始进入求职市场定价体系，与传统IT认证逻辑类似 • 课程由OpenAI团队亲自讲授，隐含了对自身产品使用方式的规范性定义——这是另一种形态的文档统治力  A"
 resource: "https://x.com/i/status/2054765044433616970"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2054765044433616970"
+created: "2026-05-14"
+updated: "2026-06-26"
+sha256: "1e1e49bfab42113f3e782ea5dfb7623550e225f3ac962dd965e93499bb350336"
+sources:
+  - "/sources/news/2026-05-14/00__lxfater__openai推出24门免费课程-官方认证-ai教育基础设施化的实质信号.md"
 ---
 
 # OpenAI推出24门免费课程+官方认证：AI教育基础设施化的实质信号

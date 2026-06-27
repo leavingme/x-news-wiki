@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Happyhorse 1.1 R2V 缩小与 Seedance 2 差距：开源视频模型的「追赶窗口」可能只剩一个季度"
 description: "**开源视频模型 Happyhorse 1.1 追平了 Seedance 2，但这个领先期可能活不过 Seedance 2.5 发布那天。**  - Happyhorse 1.1 版本的 R2V（图生视频）模式提升巨大，与 Seedance 2 差距已不明显 - 但闭源模型 Seedance 2.5 一旦上线，差距会「突然拉得很大」 - 开源 vs 闭源视频模型的「追赶-反超」循环节奏正在加快  "
 resource: "https://x.com/i/status/2069724776525177309"
@@ -22,6 +22,13 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "open-source-video-generation-leap"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2069724776525177309"
+created: "2026-06-24"
+updated: "2026-06-26"
+sha256: "1b643539c97b338058d9078129fb10e5561554706e321516862ff797235d5e07"
+sources:
+  - "/sources/news/2026-06-24/00__CuiMao__happyhorse-1-1-r2v-缩小与-seedance-2-差距-开源视频模型的-追赶窗口-可能只剩一个季度.md"
 ---
 
 # Happyhorse 1.1 R2V 缩小与 Seedance 2 差距：开源视频模型的「追赶窗口」可能只剩一个季度

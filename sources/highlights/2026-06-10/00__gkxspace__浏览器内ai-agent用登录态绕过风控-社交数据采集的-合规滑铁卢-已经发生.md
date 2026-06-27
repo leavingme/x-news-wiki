@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "浏览器内AI Agent用登录态绕过风控：社交数据采集的'合规滑铁卢'已经发生"
 description: "**浏览器原生Agent+用户登录态=平台风控形同虚设，数据采集民主化进入新阶段**  - 余温实测一款浏览器内AI工具，模拟真人鼠标键盘操作打开X/小红书/Reddit - 用用户自身登录态访问，绕开API风控限制，可触达所有用户能访问的页面 - 价格仅为Manus 1/10，数据能力10倍：推特KOL深度研究、小红书痛点扫描等场景已验证 - 平台与Agent的攻防格局重构：传统API权限模型对"
 resource: "https://x.com/i/status/2064552523642421253"
@@ -22,6 +22,13 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "agent-data-intelligence-infra"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2064552523642421253"
+created: "2026-06-10"
+updated: "2026-06-26"
+sha256: "63471e2d671722e03f8ef67590cc90b736ba39b25d049586e78c90083dc7175a"
+sources:
+  - "/sources/highlights/2026-06-10/00__gkxspace__浏览器内ai-agent用登录态绕过风控-社交数据采集的-合规滑铁卢-已经发生.md"
 ---
 
 # 浏览器内AI Agent用登录态绕过风控：社交数据采集的'合规滑铁卢'已经发生

@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "CodePilot 0.55 Preview重构发布：Codex引擎整合背后的工具链收敛信号"
 description: "**[CodePilot终于支持Codex作为引擎——工具层整合正在加速]**  CodePilot 0.55.0-preview.5完成UI整体重构，支持将Codex作为Agent引擎，可使用内置模型或自定义模型。这是工具层整合的又一个信号：单一的模型绑定正在被架构层面的灵活性替代。  值得关注的是自定义模型支持——意味着CodePilot可能正在从「AI编码工具」向「AI编码平台」迁移，开发者"
 resource: "https://x.com/i/status/2061426771267125649"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2061426771267125649"
+created: "2026-06-01"
+updated: "2026-06-26"
+sha256: "bbf558882edc7ef02fb04c608d3d1e297bf14b51ff2086a8f38e17a9b1e0e119"
+sources:
+  - "/sources/news/2026-06-01/00__op7418__codepilot-0-55-preview重构发布-codex引擎整合背后的工具链收敛信号.md"
 ---
 
 # CodePilot 0.55 Preview重构发布：Codex引擎整合背后的工具链收敛信号

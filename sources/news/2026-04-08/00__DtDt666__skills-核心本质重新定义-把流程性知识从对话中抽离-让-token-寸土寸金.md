@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Skills 核心本质重新定义：把流程性知识从对话中抽离，让 Token 寸土寸金"
 description: "**【一句话核心判断】** Skills 的本质价值不是工具集成，而是把「不想一遍遍重新解释」的知识从对话窗口抽离，按需调取，永久复用。  **信息增量：** - Token 节省是 Skills 的隐性红利，不是主要卖点 - 职场版 Skills 结构：SKILL.md（岗位定义）+ scripts/ + references/ + assets/ - 判断标准：任何不想重复解释的工作流，都值得"
 resource: "https://x.com/i/status/2030817117847818270"
@@ -22,6 +22,13 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "skill-vs-mcp-paradigm"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2030817117847818270"
+created: "2026-03-09"
+updated: "2026-06-26"
+sha256: "d7f76504b3e3c5f42fa8a705619ee36f6cfa4b90f71a00e562fd001bbed818a0"
+sources:
+  - "/sources/news/2026-04-08/00__DtDt666__skills-核心本质重新定义-把流程性知识从对话中抽离-让-token-寸土寸金.md"
 ---
 
 # Skills 核心本质重新定义：把流程性知识从对话中抽离，让 Token 寸土寸金

@@ -1,5 +1,5 @@
 ---
-type: "Author"
+type: "entity"
 title: "Noah (@Noahhh1005)"
 description: "X/Twitter 作者 @Noahhh1005。共收录 1 条 AI 精选推文。"
 tags:
@@ -12,6 +12,12 @@ x_author_name: "Noah"
 x_tweet_count: 1
 x_first_seen: "2026-02-27T01:00:44.714Z"
 x_last_seen: "2026-02-27T01:00:44.714Z"
+type_okf: "Author"
+created: "2026-02-27"
+updated: "2026-06-26"
+sha256: "68b92ca7c633f6d6282ff51c5dfb4799efbca5b48c655cc3e61556da642d963d"
+sources:
+  - "/sources/highlights/2026-02-27/00__Noahhh1005__harness-engineering-深度解析-中文圈定名-驭能工程-强调可验证性.md"
 ---
 
 # Noah (@Noahhh1005)

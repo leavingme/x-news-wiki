@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "29800 元 AI 营销获客系统热销：中国 AI 商业化的真正战场在「不会写代码的人」手里"
 description: "**豆包 + 即梦 + 开拍，零技术成本的 AI 营销系统卖出近三万单价——AI 商业化的利润不在模型层，在信息差和渠道。**  - 「AI 营销获客系统」售价 29800 元，已售出多份，交付模式为现场演示+销售 - 技术栈极简（豆包+即梦+开拍），核心壁垒是营销包装和渠道能力 - 观察者直言「佩服得五体投地」——说明变现效率确实可观  锐评：这是中国 AI 商业化的真实切面。模型厂商在烧钱，中"
 resource: "https://x.com/i/status/2052289588685623374"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2052289588685623374"
+created: "2026-05-07"
+updated: "2026-06-26"
+sha256: "fc2cbe22842facebbfa16e0081df16e2cacb1f46312b3736e1d580ed8b4ceb07"
+sources:
+  - "/sources/news/2026-05-07/00__gkxspace__29800-元-ai-营销获客系统热销-中国-ai-商业化的真正战场在-不会写代码的人-手里.md"
 ---
 
 # 29800 元 AI 营销获客系统热销：中国 AI 商业化的真正战场在「不会写代码的人」手里

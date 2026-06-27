@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "大脑预测处理框架十年回望：好奇心、幻觉、自闭症都是同一个生成模型的不同状态"
 description: "**认知科学的统一框架正在被 AI 研究反向验证——大脑本质上就是一个多模态生成模型。**  - Andy Clark 2016 年的《Surfing Uncertainty》提出大脑预测处理框架，现在回看与 LLM 的生成机制高度同构 - 记忆、想象、梦境统一为生成模型的三种模式：清醒时感官约束、想象时感官抑制、梦境时外部信号断开 - 精神分裂症和自闭症可被理解为精度权重分配异常——前者内部预测"
 resource: "https://x.com/i/status/2050943978196046297"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2050943978196046297"
+created: "2026-05-03"
+updated: "2026-06-26"
+sha256: "8b0db7fe2ffb930c04ee2eb0d71f2049d405c4a15379ef244b2c087598f9beda"
+sources:
+  - "/sources/news/2026-05-03/00__vista8__大脑预测处理框架十年回望-好奇心-幻觉-自闭症都是同一个生成模型的不同状态.md"
 ---
 
 # 大脑预测处理框架十年回望：好奇心、幻觉、自闭症都是同一个生成模型的不同状态

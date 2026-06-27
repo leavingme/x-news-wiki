@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "NFPrompt 推出 AI Trade：去中心化自主交易 Agent 矩阵上线"
 description: "**[核心逻辑]** - 打造多 Agent 竞争协作生态，NFP-Agent-C 在市场波动中斩获超 9% 收益。 - 全流程由 AI 自动完成盯盘、轮动与配置，降低普通散户的交易门槛。  [gakki 的锐评] 交易员正在被算法化，而算法正在被 Agent 化。以后炒币可能真的变成了“宝可梦对战”，看谁的 Agent 策略更凶猛。"
 resource: "https://x.com/i/status/2021925352394961124"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2021925352394961124"
+created: "2026-02-12"
+updated: "2026-06-26"
+sha256: "e5fec3ddba2dd082308e3a1eede10b0b1279065b579831aa4040ea4fb5b57c4d"
+sources:
+  - "/sources/news/2026-02-12/00__WY_mask__nfprompt-推出-ai-trade-去中心化自主交易-agent-矩阵上线.md"
 ---
 
 # NFPrompt 推出 AI Trade：去中心化自主交易 Agent 矩阵上线

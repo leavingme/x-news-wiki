@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Theoriq 的三层代币经济：把「信誉」做成了可计算的硬约束"
 description: "**Theoriq 正在把 AI Agent 的信誉从玄学变成数学。**  不同于普通质押躺赚，$THQ 设计了三层博弈：代理须抵押 Token 才能接入网络，持有者用时间加权凭证 αTHQ 为优质代理背书并赚取收益，而代理作恶时 αTHQ 被销毁——委托人与代理风险共担。这套飞轮逻辑直接绑定真实需求而非通胀奖励。  本质上是把 DeFi 借贷的信用评估模型搬到了 AI Agent 协作层。  g"
 resource: "https://x.com/i/status/1949406029621641521"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/1949406029621641521"
+created: "2025-07-27"
+updated: "2026-06-26"
+sha256: "bb33145c1dd3098afe689b760d806c593fb25636f9c23fd4442818795c2dbda5"
+sources:
+  - "/sources/news/2026-04-14/00__yueliang52111__theoriq-的三层代币经济-把-信誉-做成了可计算的硬约束.md"
 ---
 
 # Theoriq 的三层代币经济：把「信誉」做成了可计算的硬约束

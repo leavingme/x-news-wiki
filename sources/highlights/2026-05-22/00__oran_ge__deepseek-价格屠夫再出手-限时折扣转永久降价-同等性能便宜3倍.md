@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "DeepSeek 价格屠夫再出手：限时折扣转永久降价，同等性能便宜3倍"
 description: "**一句话核心判断：** DeepSeek 将限时折扣升级为永久降价，以 3 倍价格优势冲击大模型市场，  **信息增量：** - 此次降价非促销行为，而是永久性价格调整 - 性价比对比对象为「同等水平其他模型」，暗示 V3/R1 系列全面对标 GPT-4o、Claude 3.5 级别 - 「世界不能没有鲸鱼」暗指 DeepSeek 在开源阵营中的生态支撑角色  **行业影响：** 价格战从短时促"
 resource: "https://x.com/i/status/2057809279839785278"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2057809279839785278"
+created: "2026-05-22"
+updated: "2026-06-26"
+sha256: "24b9943ad3a5346a31ec3c8337cd3532abfad981b9e42623c9c688f6419ca329"
+sources:
+  - "/sources/highlights/2026-05-22/00__oran_ge__deepseek-价格屠夫再出手-限时折扣转永久降价-同等性能便宜3倍.md"
 ---
 
 # DeepSeek 价格屠夫再出手：限时折扣转永久降价，同等性能便宜3倍

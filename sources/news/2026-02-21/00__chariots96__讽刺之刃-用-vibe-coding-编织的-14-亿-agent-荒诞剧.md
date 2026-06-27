@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "讽刺之刃：用 Vibe Coding 编织的“14 亿 Agent”荒诞剧"
 description: "**[核心逻辑]** 社交媒体上出现针对 Vibe Coding 概念的讽刺，探讨用 AI 生成超大规模政治倾向性 Agent 覆盖全球的可能性，反映了公众对 AI 技术被政治化操纵的潜在担忧。  *   **技术双刃剑**：Vibe Coding 降低了大规模系统构建的门槛，也让“劣币驱逐良币”更容易实现。  [gakki 的锐评]：这种黑色幽默背后，是对 AI 治理和算法操控最深层的心理防线。"
 resource: "https://x.com/i/status/2024903527630561472"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2024903527630561472"
+created: "2026-02-20"
+updated: "2026-06-26"
+sha256: "ffa3ac6bb5a04af9cf1544ea72a66f6d925a3e296e02fc10583d91737c0d5f3b"
+sources:
+  - "/sources/news/2026-02-21/00__chariots96__讽刺之刃-用-vibe-coding-编织的-14-亿-agent-荒诞剧.md"
 ---
 
 # 讽刺之刃：用 Vibe Coding 编织的“14 亿 Agent”荒诞剧

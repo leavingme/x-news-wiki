@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "小米 MiMo-V2 偷袭 OpenRouter：国产大模型的「影子发布」战术"
 description: "**【国产模型的 stealth launch 启示】** • 小米以 Hunter Alpha / Healer Alpha 匿名身份登陆 OpenRouter，万亿参数+百万上下文，一周登顶调用量榜首 • 官宣前后的舆论反转：匿名期被誉为「DeepSeek V4」，官宣后评价骤降——反映市场对「小米品牌」的潜意识偏见 • 战术意义：通过第三方平台获取真实用户反馈，规避官宣后的舆论风险与对标压力"
 resource: "https://x.com/i/status/2034664278620537242"
@@ -22,6 +22,13 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "domestic-model-competition"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2034664278620537242"
+created: "2026-03-19"
+updated: "2026-06-26"
+sha256: "aa1e6b63946f46f8cebccf35bdda39f5378e8e3d773c80aa844e0358126e11b5"
+sources:
+  - "/sources/highlights/2026-03-21/00__jlxc2001__小米-mimo-v2-偷袭-openrouter-国产大模型的-影子发布-战术.md"
 ---
 
 # 小米 MiMo-V2 偷袭 OpenRouter：国产大模型的「影子发布」战术

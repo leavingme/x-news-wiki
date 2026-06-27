@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "DeepSeek 识图模式实测：网页复刻速度惊人，前端开发范式再变"
 description: "**DeepSeek 识图模式的速度和复刻精度，正在把「截图→代码」推向生产可用。**  - 向阳乔木实测：DeepSeek 识图模式速度极快，网页复刻还原度相当不错 - 直接影响：前端开发的「设计稿→代码」环节可能被进一步压缩 - 潜在信号：国产模型在多模态实用场景上正在形成差异化竞争力  gakki 锐评：截图复刻网页不新鲜，但「快到震惊」这个体感反馈值得重视——它意味着从 demo 到日常使"
 resource: "https://x.com/i/status/2049491607356080580"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2049491607356080580"
+created: "2026-04-29"
+updated: "2026-06-26"
+sha256: "3301cfb2ca802224412a3c135dbfad362dd20065447d0122122463fd8e59d433"
+sources:
+  - "/sources/news/2026-04-29/00__vista8__deepseek-识图模式实测-网页复刻速度惊人-前端开发范式再变.md"
 ---
 
 # DeepSeek 识图模式实测：网页复刻速度惊人，前端开发范式再变

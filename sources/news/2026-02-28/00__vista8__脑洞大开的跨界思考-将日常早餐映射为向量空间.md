@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "脑洞大开的跨界思考：将日常早餐映射为向量空间"
 description: "**[趣味发现]** - 网友分享将早餐元素想象为向量空间的奇特文章 - 探讨鸡蛋、面饭、牛奶等食物的搭配组合逻辑 - 引发对人脑联想能力与 AI 关联性的思考  万物皆可 Embedding。用 AI 的底层逻辑去解构生活日常，这种“职业病”也是数字时代的浪漫。"
 resource: "https://x.com/i/status/2027393369207632349"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2027393369207632349"
+created: "2026-02-27"
+updated: "2026-06-26"
+sha256: "1601dd4ab30041ad528b73d0b9334cc07db5c0732cc9df8136235686ee4f0610"
+sources:
+  - "/sources/news/2026-02-28/00__vista8__脑洞大开的跨界思考-将日常早餐映射为向量空间.md"
 ---
 
 # 脑洞大开的跨界思考：将日常早餐映射为向量空间

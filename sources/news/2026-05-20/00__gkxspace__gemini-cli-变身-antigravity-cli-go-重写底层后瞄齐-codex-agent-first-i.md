@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Gemini CLI 变身 Antigravity CLI：Go 重写底层后瞄齐 Codex，Agent-First IDE 方向确立"
 description: "**[多代理编排工具竞争格局生变，Google 终于有了对标 Codex 的正经武器]**  1. Gemini CLI 退役并以 Antigravity CLI 重生，Go 重写底层意味着性能与跨平台能力的根本性提升。 2. 新增多代理编排和异步工作流能力——这是此前 Gemini CLI 最大短板，现在补齐。 3. 终端可直接调用 Claude Opus 4.6，且网络问题已修复；意味着 Go"
 resource: "https://x.com/i/status/2056957066808361014"
@@ -22,6 +22,13 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "claude-code-ecosystem"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2056957066808361014"
+created: "2026-05-20"
+updated: "2026-06-26"
+sha256: "488676d5a7c48f2ece5ae408269ddf034736209b2023a885b44830c4891330ba"
+sources:
+  - "/sources/news/2026-05-20/00__gkxspace__gemini-cli-变身-antigravity-cli-go-重写底层后瞄齐-codex-agent-first-i.md"
 ---
 
 # Gemini CLI 变身 Antigravity CLI：Go 重写底层后瞄齐 Codex，Agent-First IDE 方向确立

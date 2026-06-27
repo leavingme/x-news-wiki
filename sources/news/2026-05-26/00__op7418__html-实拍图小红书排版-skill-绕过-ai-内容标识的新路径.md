@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "HTML+实拍图小红书排版 Skill：绕过 AI 内容标识的新路径"
 description: "藏师傅发布小红书图文排版 Skill，完全使用 HTML 和实拍图片，不触发 AI 内容标注。AI 帮用户从高质量图片网站匹配主题图片，解决纯文字笔记的视觉单薄问题。  **信息增量：** 揭示了一个实际痛点：平台对 AI 内容的强制标识正在反向塑造内容生产者的技术选型——用 HTML 伪装成「手工排版」来规避检测。  **影响：** AI 内容标识政策的效果可能适得其反，反而推动了更复杂的内容伪"
 resource: "https://x.com/i/status/2059176154125480426"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2059176154125480426"
+created: "2026-05-26"
+updated: "2026-06-26"
+sha256: "d147a77a4bcfa9e4d3af0c2db5bc50c0325754f3f4581227582ade0912f256fa"
+sources:
+  - "/sources/news/2026-05-26/00__op7418__html-实拍图小红书排版-skill-绕过-ai-内容标识的新路径.md"
 ---
 
 # HTML+实拍图小红书排版 Skill：绕过 AI 内容标识的新路径

@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Appshots不只是截图：它读取的是「窗口内完整文本」，VS Code几百行代码全打包"
 description: "**Appshots的核心不是视觉capture，是结构化文本读取。**  详解Appshots的实现逻辑：它不只是拍屏幕，它同时获取窗口截图+文本内容+屏幕外文本。比如VS Code里你只看到前50行，文件实际有500行——Appshots把完整文本上下文都传进去。Figma、Notion、浏览器、终端同理。  这解决了一个根本问题：人类在向AI描述代码时，会自动做「压缩」——觉得某部分重要就多"
 resource: "https://x.com/i/status/2057560537215725653"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2057560537215725653"
+created: "2026-05-21"
+updated: "2026-06-26"
+sha256: "86eac39ff57f7e763af3fa22e3832db975c1fb37992d34d2c37ffd265e61e469"
+sources:
+  - "/sources/news/2026-05-21/00__xiaohu__appshots不只是截图-它读取的是-窗口内完整文本-vs-code几百行代码全打包.md"
 ---
 
 # Appshots不只是截图：它读取的是「窗口内完整文本」，VS Code几百行代码全打包

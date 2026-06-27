@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Agent Harness不是一个控制框架，而是一个「使能」架构：寓言里的认知分工"
 description: "**寓言揭示Agent Harness的真正含义——不是给AI套上缰绳，而是构建一个让AI能够稳定输出、避免预测-控制混淆的工程结构。**  关键区分：银鹿（预测者）≠国王（控制者）。当Agent试图自己执行预测的结果时，就混淆了这个分工——导致\"没过多久，问题就来了\"。Harness是隔离两层的中介结构，让AI专注预测，控制权留给外部系统。  这个寓言的价值在于：它点出了当前Agent架构最核心"
 resource: "https://x.com/i/status/2047394795992018997"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2047394795992018997"
+created: "2026-04-23"
+updated: "2026-06-26"
+sha256: "576ef7b6020bfc50f0d017a96f72447f6ec761c87725647a765ab20bb225d1e0"
+sources:
+  - "/sources/news/2026-04-24/00__dotey__agent-harness不是一个控制框架-而是一个-使能-架构-寓言里的认知分工.md"
 ---
 
 # Agent Harness不是一个控制框架，而是一个「使能」架构：寓言里的认知分工

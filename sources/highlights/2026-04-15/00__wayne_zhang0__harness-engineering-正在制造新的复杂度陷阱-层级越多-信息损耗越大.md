@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Harness Engineering 正在制造新的复杂度陷阱：层级越多，信息损耗越大"
 description: "**[信息损耗才是AI工程化的真正敌人，不是框架本身]**  Harness 框架的核心假设是\"封装即效率\"，但实践者 Wayne Zhang 揭示了一个反直觉的真相：当每增加一层抽象，信息就被极大稀释，细节管控能力随之崩塌。这不是工具问题，而是 AI 工程化路线图的范式级矛盾——越是追求系统性，越是丢失微观控制力。  关键矛盾点在于，CoT（思维链）推理依赖的是\"实时上下文精确性\"，而 Harn"
 resource: "https://x.com/i/status/2042371132993782087"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2042371132993782087"
+created: "2026-04-09"
+updated: "2026-06-26"
+sha256: "4624c598d1ed14dcfdb760664d53e644f171b184d6018783686f8b7d90b9a761"
+sources:
+  - "/sources/highlights/2026-04-15/00__wayne_zhang0__harness-engineering-正在制造新的复杂度陷阱-层级越多-信息损耗越大.md"
 ---
 
 # Harness Engineering 正在制造新的复杂度陷阱：层级越多，信息损耗越大

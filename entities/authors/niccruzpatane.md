@@ -1,5 +1,5 @@
 ---
-type: "Author"
+type: "entity"
 title: "Nic Cruz Patane (@niccruzpatane)"
 description: "X/Twitter 作者 @niccruzpatane。共收录 1 条 AI 精选推文。"
 tags:
@@ -12,6 +12,12 @@ x_author_name: "Nic Cruz Patane"
 x_tweet_count: 1
 x_first_seen: "2026-05-02T22:18:13.334Z"
 x_last_seen: "2026-05-02T22:18:13.334Z"
+type_okf: "Author"
+created: "2026-05-02"
+updated: "2026-06-26"
+sha256: "328168d72aaadb0360b100a6b3ac1d46e1e1f9328af1905135ba957ba6d032c9"
+sources:
+  - "/sources/news/2026-05-02/00__niccruzpatane__tesla-cybercab-30k-定价锚点-无方向盘设计正式进入量产倒计时-具身-agent-载体从概念走向交付.md"
 ---
 
 # Nic Cruz Patane (@niccruzpatane)

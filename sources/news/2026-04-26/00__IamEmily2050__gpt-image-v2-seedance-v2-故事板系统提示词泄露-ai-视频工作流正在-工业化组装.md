@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "GPT Image V2 + Seedance V2 故事板系统提示词泄露：AI 视频工作流正在\"工业化组装\""
 description: "**Emily 披露 GPT Image Gen V2 的故事板系统提示词，用于驱动 Seedance V2 视频生成，并预告将发布完整 GitHub Skill。**  这代表一个重要趋势：AI 视频生成正在从\"单点模型\"进化到\"多模型流水线\"——Keyframe Generation → Storyboard → Video Generation 的分工正在固化。MDJ V8.1 + Nano"
 resource: "https://x.com/IamEmily2050/status/2048147198869946855"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "ai-trend-digest"
+type_okf: "X Tweet"
+source_url: "https://x.com/IamEmily2050/status/2048147198869946855"
+created: "2026-04-25"
+updated: "2026-06-26"
+sha256: "49a143c1f676729d9cce1b2600166151f65c00d732ea82fe0b65ab2b3baabb4d"
+sources:
+  - "/sources/news/2026-04-26/00__IamEmily2050__gpt-image-v2-seedance-v2-故事板系统提示词泄露-ai-视频工作流正在-工业化组装.md"
 ---
 
 # GPT Image V2 + Seedance V2 故事板系统提示词泄露：AI 视频工作流正在"工业化组装"

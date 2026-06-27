@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Anthropic「认证体系」落子：咨询公司集体押注Claude背后的生态野心"
 description: "**[AI工具竞争进入「人才认证」深水区]** • 规模信号：埃森哲3万+、Cognizant 35万+、德勤47万员工纳入Claude培训体系 • 认证门槛：60题/2小时/全程监考，考的是「生产系统构建」而非提示工程 • 战略意图：通过咨询公司渗透企业决策层，建立B端心智壁垒 • 行业影响：OpenAI/Codex尚未跟进，Anthropic率先定义「企业级AI人才」标准  **gakki锐评"
 resource: "https://x.com/i/status/2035732065921200145"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2035732065921200145"
+created: "2026-03-22"
+updated: "2026-06-26"
+sha256: "0f980a702951fb33219176399ba20b302177f65606cdac03c3da89260a865734"
+sources:
+  - "/sources/highlights/2026-03-23/00__KKaWSB__anthropic-认证体系-落子-咨询公司集体押注claude背后的生态野心.md"
 ---
 
 # Anthropic「认证体系」落子：咨询公司集体押注Claude背后的生态野心

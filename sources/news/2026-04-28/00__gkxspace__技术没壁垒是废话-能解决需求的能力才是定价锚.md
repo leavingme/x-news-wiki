@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "技术没壁垒是废话，能解决需求的能力才是定价锚"
 description: "**[一句话核心判断]** 技术本身从未是护城河——能落地解决真实需求的技术执行才是。这句话把AI从业者最常见的认知误区一剑封喉。  **信息增量：** - \"技术没壁垒\"不是悲观陈述，而是对当前AI竞争本质的客观描述：开源扩散使技术快速同质化 - 护城河来源重新锚定在\"需求理解+执行整合\"而非\"模型精度\"本身 - 对AI创业者的直接批判：拿着SOTA模型当核心竞争力，是在沙上建塔  **影响对象"
 resource: "https://x.com/i/status/2049137451004784718"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2049137451004784718"
+created: "2026-04-28"
+updated: "2026-06-26"
+sha256: "ab3470a8db4e549866d2f64cf5fa884156d61320e96d331ddd5d6840850ce8ed"
+sources:
+  - "/sources/news/2026-04-28/00__gkxspace__技术没壁垒是废话-能解决需求的能力才是定价锚.md"
 ---
 
 # 技术没壁垒是废话，能解决需求的能力才是定价锚

@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "飞书 CLI 成 AI 工作流枢纽：Codex/Claude Code 的文档/日历/会议串联实践"
 description: "**[Feishu CLI 已成 AI Agent 工作流的隐形基础设施]**  ① 突破万星里程碑，开发者普及度进入主流工具区间。② 最核心的价值在于：它把飞书文档/日历/妙记这些「碎片化企业数据」以 CLI 方式暴露给 AI Agent，使 Codex/Claude Code 的工作流起点从「纯代码」扩展到「文档写作+日程管理+会议总结」全链路。③ 推荐的三个场景（资料整理/出差安排/会议纪要"
 resource: "https://x.com/i/status/2055095176293659123"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2055095176293659123"
+created: "2026-05-15"
+updated: "2026-06-26"
+sha256: "3f0c54b9bb4be59bcb23055b1ff5c4ced716cbf39abd1431514c3c7512d6b453"
+sources:
+  - "/sources/news/2026-05-15/00__vista8__飞书-cli-成-ai-工作流枢纽-codex-claude-code-的文档-日历-会议串联实践.md"
 ---
 
 # 飞书 CLI 成 AI 工作流枢纽：Codex/Claude Code 的文档/日历/会议串联实践

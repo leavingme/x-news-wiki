@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "AI 记忆主权争夺战打响：Claude 开启一键导入，用户数据成为生态粘性核心"
 description: "**[AI生态的竞争焦点正从模型能力转向用户记忆与数据主权]** - Claude 推出“一键导入记忆”功能，允许用户从 ChatGPT、Gemini、Kimi 等平台迁移个人对话历史与偏好。 - 此举降低了用户切换成本，但也将AI助手的竞争升级为对用户“数字自我”的争夺。 - 记忆可移植性成为新的用户体验标准，倒逼所有平台思考如何留住用户的“数据资产”。  Claude 此举看似是便利功能，实则"
 resource: "https://x.com/i/status/2028626225888145591"
@@ -22,6 +22,13 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "claude-memory-migration"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2028626225888145591"
+created: "2026-03-03"
+updated: "2026-06-26"
+sha256: "8a9eb7aaa8eb490e04fc9c52f17e4f732e16a800b8f38dfa6de806fc847bf73e"
+sources:
+  - "/sources/highlights/2026-03-03/00__yanhua1010__ai-记忆主权争夺战打响-claude-开启一键导入-用户数据成为生态粘性核心.md"
 ---
 
 # AI 记忆主权争夺战打响：Claude 开启一键导入，用户数据成为生态粘性核心

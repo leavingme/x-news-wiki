@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "解析“蒸馏攻击”报告：大模型能力提取的实战战术与靶点"
 description: "**[核心逻辑]** 从 Anthropic 的调查报告中，可以清晰地看出竞争对手在模型蒸馏上的核心目标与实现手段。  - 被蒸馏的最核心能力：Agentic Reasoning（代理推理）、Tool/Computer Use（工具调用）、Coding 以及 Agent 编排。 - 战术手段：通过特定提示词（如“资深数据分析师”）强制 Claude 显式输出其“元思考”和推理过程，以供学习。 - "
 resource: "https://x.com/i/status/2026220334681334022"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2026220334681334022"
+created: "2026-02-24"
+updated: "2026-06-26"
+sha256: "2a5672bb7a62e391c913b8831e6ec7726c9fcbae06b355d2b54972319ad595c6"
+sources:
+  - "/sources/highlights/2026-02-25/00__vista8__解析-蒸馏攻击-报告-大模型能力提取的实战战术与靶点.md"
 ---
 
 # 解析“蒸馏攻击”报告：大模型能力提取的实战战术与靶点

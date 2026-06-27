@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "美国国会正式把AI芯片出口比作武器销售：中国AI追赶被定性为\"国家紧急状态\""
 description: "**一句话：美国外委会已明确将AI军备竞赛定性为零和博弈，芯片出口审查从商业行为升级为武器级管控。**  美国众议院外委会发布报告，将AI竞争定性为\"决定中美军事胜负的关键\"，并推动《AI监督法案》（AI Oversight Act），要求对先进芯片出口实施类似武器级的严厉国会审查。  报告点名阿里巴巴、DeepSeek等中国实体，明确将AI芯片流通等同于武器扩散。这是迄今为止美国在AI领域最直接"
 resource: "https://x.com/i/status/2035529278327279994"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2035529278327279994"
+created: "2026-03-22"
+updated: "2026-06-26"
+sha256: "440d3689de0a1a35a99dcc89be27f93f84798efd589a510aa9d25bc4e1a7b653"
+sources:
+  - "/sources/news/2026-04-18/00__xiuhongxh__美国国会正式把ai芯片出口比作武器销售-中国ai追赶被定性为-国家紧急状态.md"
 ---
 
 # 美国国会正式把AI芯片出口比作武器销售：中国AI追赶被定性为"国家紧急状态"

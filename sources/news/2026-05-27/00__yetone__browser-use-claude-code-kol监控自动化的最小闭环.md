@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Browser Use+Claude Code：KOL监控自动化的最小闭环"
 description: "**[把「大V动态监控」变成可配置的Agent工作流]**  yetone展示了用Claude Code + Browser Use + luolei插件，实现定时巡检特定大V最新推文的自动化方案——本质上是一个最小化的「信息情报Agent」。  关键点不是技术，而是工作流设计：输入（大V列表）→定时触发→内容抓取→结构化输出。  这和Manus这类「全才Agent」的区别是：只做一件事，但做到无"
 resource: "https://x.com/i/status/2059689660411261162"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2059689660411261162"
+created: "2026-05-27"
+updated: "2026-06-26"
+sha256: "460fa7d6668e419ce832669cebaffe99f3cca207a4346a1d9c52e2ddc85c51e2"
+sources:
+  - "/sources/news/2026-05-27/00__yetone__browser-use-claude-code-kol监控自动化的最小闭环.md"
 ---
 
 # Browser Use+Claude Code：KOL监控自动化的最小闭环

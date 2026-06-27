@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "DeepSeek V4 预览版低调官宣：梁文锋再次搅动开源格局"
 description: "**[国产开源大模型进入新一轮军备竞赛]**  DeepSeek V4 预览版正式官宣。作为国内最具技术锐气的团队，梁文锋再次选择「先发布再详细说」的开源节奏。  - V4 采用全新架构，在推理效率和多模态能力上预计有显著提升 - 开源 SOTA 的定位延续了 V3 路线，对标 GPT-4o、Claude 3.5 的意味明显 - 国产 GPU 适配仍是重要看点，算力自主化叙事在模型层落地  梁文锋"
 resource: "https://x.com/i/status/2047510905047671187"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2047510905047671187"
+created: "2026-04-24"
+updated: "2026-06-26"
+sha256: "742beaf648f792a04c93b3774f663016097022acf7eafcdbe27f35ccbb5f057b"
+sources:
+  - "/sources/highlights/2026-04-24/00__vista8__deepseek-v4-预览版低调官宣-梁文锋再次搅动开源格局.md"
 ---
 
 # DeepSeek V4 预览版低调官宣：梁文锋再次搅动开源格局

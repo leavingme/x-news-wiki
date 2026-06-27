@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "开源录屏工具Clips：把视频URL丢给AI，Agent就能精准定位任意时间戳画面"
 description: "**开源录屏工具Clips让AI能像读文本一样理解视频内容——只需一个URL，Agent可边听边看、精准识别任意时间戳画面和Bug。** - 解决了「视频链接发给AI看不懂」的传统痛点，把视频内容转化为Agent可操作的结构化资产 - 完全开源免费，支持Agent自主扩展代码，是典型的「Agent工具链平民化」项目 - 这类工具预示着：录屏、教程、Bug复现视频将从「人看的资料」升级为「Agent"
 resource: "https://x.com/i/status/2069705593271799932"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2069705593271799932"
+created: "2026-06-24"
+updated: "2026-06-26"
+sha256: "d975fef13dc4c85c3d28b340a4b22f5a81e213682c17966b030b781f928a0da5"
+sources:
+  - "/sources/news/2026-06-24/00__oragnes__开源录屏工具clips-把视频url丢给ai-agent就能精准定位任意时间戳画面.md"
 ---
 
 # 开源录屏工具Clips：把视频URL丢给AI，Agent就能精准定位任意时间戳画面

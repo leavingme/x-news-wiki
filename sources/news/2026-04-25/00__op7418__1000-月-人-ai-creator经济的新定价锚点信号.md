@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "$1000/月/人：AI Creator经济的新定价锚点信号"
 description: "**\"老马\"给 AI Builder 发$1000/月的模式若成规模，将重塑 Creator 经济定价逻辑。**  - $1000/月高于绝大多数 SaaS 订阅，若形成稳定案例，说明 AI 原生内容生产的 ROI 已经跑通 - 同时也意味着顶级 Creator 的时间正在被明码标价地\"规模化\"  **gakki锐评：** $1000/月是测试市场愿意为\"AI增强型 Creator\"付多少的探测气"
 resource: "https://x.com/i/status/2047837372767940678"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2047837372767940678"
+created: "2026-04-25"
+updated: "2026-06-26"
+sha256: "3a216bf6cd73dc3ce9e231a1ae0a45702199d04752de5383f2fc15bca7b47806"
+sources:
+  - "/sources/news/2026-04-25/00__op7418__1000-月-人-ai-creator经济的新定价锚点信号.md"
 ---
 
 # $1000/月/人：AI Creator经济的新定价锚点信号

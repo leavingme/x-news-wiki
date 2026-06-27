@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "飞书划线 + Agent 读取 = 个人偏好学习的新数据管线"
 description: "**阅读行为的结构化捕获，正在成为 Agent 个性化的新范式。** - 向阳乔木提出一个可操作的思路：将日常阅读内容放入飞书，通过划线/评论/点评产生结构化标注 - 然后让 Agent 读取这些标记，反向推断用户偏好，用于优化 Skill - 这本质上是“用户行为即训练数据”的轻量化实现——不需要 fine-tune，只需要结构化的表达  gakki 锐评：这个思路的价值在于它绕开了传统推荐系统"
 resource: "https://x.com/i/status/2052985117547917535"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2052985117547917535"
+created: "2026-05-09"
+updated: "2026-06-26"
+sha256: "26ec0d11fbbdb7c7639451f648658dd4bd07b02b722761f7b8a77f0191f1b91d"
+sources:
+  - "/sources/news/2026-05-09/00__vista8__飞书划线-agent-读取-个人偏好学习的新数据管线.md"
 ---
 
 # 飞书划线 + Agent 读取 = 个人偏好学习的新数据管线

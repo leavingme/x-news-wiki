@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Orange AI 毒舌：AGI 的第一性原理是 coding，Elon 却去搞瑟瑟 DAU——方向错配才是最大的资源浪费"
 description: "**AGI 竞赛的核心战场是代码生成能力，不是用户活跃度。**  - Orange AI 点评某位类 Elon 创始人 miss 掉了 coding 这个 AGI 真正的「第一性原理」，转而去追求低质量 DAU。 - 暗含判断：AGI 的衡量标准应该是「能否自主编写和维护复杂软件」，而非「有多少人每天打开 App」。  锐评：这个观点有信息增量——它把 AGI 竞争从「模型参数」拉回到「实际生产力"
 resource: "https://x.com/i/status/2052754724361994737"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2052754724361994737"
+created: "2026-05-08"
+updated: "2026-06-26"
+sha256: "4b973260ded4871a0f1465af9b7f11061ec4336a620dcc6a52b3a7274bd0cfc0"
+sources:
+  - "/sources/news/2026-05-08/00__oran_ge__orange-ai-毒舌-agi-的第一性原理是-coding-elon-却去搞瑟瑟-dau-方向错配才是最大的资源浪费.md"
 ---
 
 # Orange AI 毒舌：AGI 的第一性原理是 coding，Elon 却去搞瑟瑟 DAU——方向错配才是最大的资源浪费

@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Codex 正式支持 Sub-agents：单智能体向多专家编排的架构跃迁"
 description: "**[Codex 补齐最后一块拼图：从「独立编码 Agent」到「可编排 Agent 平台」]** • Sub-agent 支持意味着复杂任务可被分解为多个专业子 Agent 协作完成 • 与 Claude Code / OpenClaw 的多 Agent 能力形成正面竞争 • 生态平台战争进入「编排能力」维度，单一模型性能优势正在被系统架构能力稀释  — 一句话：Codex 从「工具」变成了「操"
 resource: "https://x.com/i/status/2033646439838912682"
@@ -22,6 +22,13 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "sub-agents-multi-expert"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2033646439838912682"
+created: "2026-03-16"
+updated: "2026-06-26"
+sha256: "d8c96845c40823b61aed514de2021fba4c448bf18e134285b2507db938dbc74a"
+sources:
+  - "/sources/news/2026-03-17/00__dotey__codex-正式支持-sub-agents-单智能体向多专家编排的架构跃迁.md"
 ---
 
 # Codex 正式支持 Sub-agents：单智能体向多专家编排的架构跃迁

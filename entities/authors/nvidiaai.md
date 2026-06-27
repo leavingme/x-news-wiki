@@ -1,5 +1,5 @@
 ---
-type: "Author"
+type: "entity"
 title: "NVIDIA AI (@NVIDIAAI)"
 description: "X/Twitter 作者 @NVIDIAAI。共收录 1 条 AI 精选推文。"
 tags:
@@ -12,6 +12,12 @@ x_author_name: "NVIDIA AI"
 x_tweet_count: 1
 x_first_seen: "2026-04-28T22:17:50.494Z"
 x_last_seen: "2026-04-28T22:17:50.494Z"
+type_okf: "Author"
+created: "2026-04-28"
+updated: "2026-06-26"
+sha256: "185dd29ad0f6375cd8efe4dec0d48183bb7921740616fd85e64fff13310e1d42"
+sources:
+  - "/sources/news/2026-04-28/00__NVIDIAAI__nvidia-nemotron-3-nano-30b参数多模态模型在端侧的场景定位.md"
 ---
 
 # NVIDIA AI (@NVIDIAAI)

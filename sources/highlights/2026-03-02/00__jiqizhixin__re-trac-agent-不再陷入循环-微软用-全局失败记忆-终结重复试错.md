@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Re-TRAC：Agent 不再陷入循环，微软用「全局失败记忆」终结重复试错"
 description: "**Agent 推理困局的破局点在于让机器「记住自己怎么错的」。**  - 微软与东南大学、清华团队推出 Re-TRAC，将每次搜索尝试压缩为结构化证据与失败摘要 - 构建全局记忆让 Agent 从错误中学习，而非简单重复同一工作 - 方法论标志着从「线性执行」到「反思迭代」的范式迁移，对深度研究场景意义重大  Agent 终于开始长记性了——这不是优化，是认知架构的升维。"
 resource: "https://x.com/i/status/2028172165145854218"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2028172165145854218"
+created: "2026-03-01"
+updated: "2026-06-26"
+sha256: "d3cec8f58036c4c9ec6da298d48ab81872f106f1ad3bd4224645d9f918b1cc72"
+sources:
+  - "/sources/highlights/2026-03-02/00__jiqizhixin__re-trac-agent-不再陷入循环-微软用-全局失败记忆-终结重复试错.md"
 ---
 
 # Re-TRAC：Agent 不再陷入循环，微软用「全局失败记忆」终结重复试错

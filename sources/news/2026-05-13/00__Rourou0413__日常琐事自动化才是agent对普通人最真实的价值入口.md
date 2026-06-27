@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "日常琐事自动化才是Agent对普通人最真实的价值入口"
 description: "**[普通人与Agent的距离，不在技术，在于「琐事成本」]**  传统Agent叙事聚焦复杂任务替代，但真实痛点是：邮件检查、包裹追踪、订阅监控这类单步简单却消耗注意力的日常事务。Routine自动化才是最高频、最普惠的落地场景，而非替代决策。  Airtap将AI置于云端手机，通过「观察→理解→决策→执行」完成真实App流程，而非硬编码，大幅提升对UI迭代的鲁棒性。SKILL.md工作流接口让"
 resource: "https://x.com/i/status/2054436563845804051"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2054436563845804051"
+created: "2026-05-13"
+updated: "2026-06-26"
+sha256: "51a409a59068146d2e3d1fbd92a5f79f8e550ba3b05762c9b6fddeba1f1f276d"
+sources:
+  - "/sources/news/2026-05-13/00__Rourou0413__日常琐事自动化才是agent对普通人最真实的价值入口.md"
 ---
 
 # 日常琐事自动化才是Agent对普通人最真实的价值入口

@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "隐私优先浏览器集体爆发：AI 浏览器战争的暗线是「数据主权」"
 description: "**[当 AI 浏览器争夺用户注意力时，隐私优先型浏览器正在争夺的是「数据不被采集」的权利。]**  - Chubby 指出隐私浏览器正在「having a moment」，用户对数据采集的焦虑在 AI 浏览器浪潮中被放大 - Claude Chrome、Gemini Desktop 等 AI 浏览器天然需要读取用户行为数据 - 隐私浏览器的崛起本质上是对 AI 平台入口扩张的反弹  gakki "
 resource: "https://x.com/kimmonismus/status/2051814274151145731"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "ai-trend-digest"
+type_okf: "X Tweet"
+source_url: "https://x.com/kimmonismus/status/2051814274151145731"
+created: "2026-05-06"
+updated: "2026-06-26"
+sha256: "cc10e76cf1be8582f89b7e571dfa3589c2edad8c4fbea9e1bff0ca0f4bf9a603"
+sources:
+  - "/sources/news/2026-05-06/00__kimmonismus__隐私优先浏览器集体爆发-ai-浏览器战争的暗线是-数据主权.md"
 ---
 
 # 隐私优先浏览器集体爆发：AI 浏览器战争的暗线是「数据主权」

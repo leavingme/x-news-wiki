@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Michael Anti：中国从不做「真老大」，所以会永远模仿美国创新——日本当年的骄傲是反面教材"
 description: "**「中国人从来没一分钟希望做真老大」——这是 Michael Anti 对中国创新模式最直白的定性。**  他将中国与日本对比：日本人有真心觉得可以打败美国的时刻（二战、1980 年代），而中国无论美国怎么创新都会尝试效仿。在他看来，这是中国的好处——**骄傲会让人拒绝模仿，而模仿是追赶期最有效的学习路径**。  这个判断的地缘政治含义清晰：AI 领域的中国创新，在相当长的时间内将是「应用层复制"
 resource: "https://x.com/i/status/2055841704436175185"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2055841704436175185"
+created: "2026-05-17"
+updated: "2026-06-26"
+sha256: "a7be8aff3d9d326ca3ba6a96a194087e7b0b26662620d7b8b317e93860b233e3"
+sources:
+  - "/sources/news/2026-05-17/00__mranti__michael-anti-中国从不做-真老大-所以会永远模仿美国创新-日本当年的骄傲是反面教材.md"
 ---
 
 # Michael Anti：中国从不做「真老大」，所以会永远模仿美国创新——日本当年的骄傲是反面教材

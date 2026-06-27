@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Skill市集又添新工具：监控Codex模型重置状态的自动切换方案"
 description: "**[快速切换模型省用量，Skill已成Agent工具链标配]**  向阳乔木分享了一个自用Skill，核心功能是监控Codex重置消息并第一时间自动切换到fast模型、同时记录用量。这个工具解决的是一个真实痛点：Codex重置后模型响应质量/速度下降，用户需要手动操作切换，消耗不必要的用量。  这个Skill的安装方式较为复杂（安装指令在评论区），说明Skill生态目前仍有一定门槛，但传播路径清"
 resource: "https://x.com/i/status/2062020880381993218"
@@ -22,6 +22,13 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "skills-ecosystem-standards"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2062020880381993218"
+created: "2026-06-03"
+updated: "2026-06-26"
+sha256: "c632e359010df1da7c3a2bc02c7563da945d77b334ff050258c3932577406ceb"
+sources:
+  - "/sources/news/2026-06-03/00__vista8__skill市集又添新工具-监控codex模型重置状态的自动切换方案.md"
 ---
 
 # Skill市集又添新工具：监控Codex模型重置状态的自动切换方案

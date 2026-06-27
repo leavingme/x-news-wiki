@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "零成本试错的数学必然：创业不是概率游戏而是时间函数"
 description: "**一句话核心判断**  创业失败是必然的，但\"无限重试+零成本\"组合会让成功成为数学上的必然事件——这不是鸡汤，是泊松过程的推导。  **信息增量** - 关键变量不是能力或运气，而是\"单次尝试成本\" - 一人公司/数字游民/AI Agent本质上都在压低这个成本变量 - 失败次数越多，成功概率越趋近于1（大数定律在个体维度的应用）  **gakki锐评** 这个逻辑框架成立，但有个隐性前提：你"
 resource: "https://x.com/i/status/2059485000396054787"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2059485000396054787"
+created: "2026-05-27"
+updated: "2026-06-26"
+sha256: "71d04e6b440da32675559654bfc003e26232d070145e6b400cda622f6e117b2d"
+sources:
+  - "/sources/news/2026-05-27/00__lxfater__零成本试错的数学必然-创业不是概率游戏而是时间函数.md"
 ---
 
 # 零成本试错的数学必然：创业不是概率游戏而是时间函数

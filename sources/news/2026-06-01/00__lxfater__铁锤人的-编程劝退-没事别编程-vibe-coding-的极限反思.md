@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "铁锤人的「编程劝退」：没事别编程——Vibe Coding 的极限反思"
 description: "**[一句话核心判断]**  Vibe Coding 的「一泻千里」快感之后，铁锤人给出了一个反直觉的终极建议：没事别编程。  **信息增量：** - 亲历两种范式（手敲代码 vs Vibe Coding）后的对比，验证了 Vibe Coding 的速度幻觉——前期爽，后期维护代价被低估 - 「不要编程」的结论不是反技术，而是对工具错配的清醒认知：非工程师用 AI 生成代码，本质是用不稳定的幻觉替"
 resource: "https://x.com/i/status/2061384797168304438"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2061384797168304438"
+created: "2026-06-01"
+updated: "2026-06-26"
+sha256: "738a16be56f26f5a83d70c484688807f32eccdde054e64c3641238fa5f5ee595"
+sources:
+  - "/sources/news/2026-06-01/00__lxfater__铁锤人的-编程劝退-没事别编程-vibe-coding-的极限反思.md"
 ---
 
 # 铁锤人的「编程劝退」：没事别编程——Vibe Coding 的极限反思

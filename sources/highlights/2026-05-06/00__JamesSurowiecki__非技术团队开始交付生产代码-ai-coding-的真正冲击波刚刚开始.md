@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "非技术团队开始交付生产代码：AI Coding 的真正冲击波刚刚开始"
 description: "**金融服务公司 CEO 宣称非技术团队已在交付生产代码——这是 AI 编程工具渗透到业务一线的里程碑信号。**  - 当非技术人员能直接产出可运行的生产代码，传统「技术门槛」正在被 AI 工具链彻底消解 - 这不是 Vibe Coding 的玩具 Demo，而是金融服务这种对代码质量有严格要求的行业 - 意味着「谁来写代码」的权力结构正在重组：产品经理、业务分析师可能成为新的代码生产者  **g"
 resource: "https://x.com/JamesSurowiecki/status/2051722934041886870"
@@ -22,6 +22,13 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "skill-barrier-collapse"
 x_source: "ai-trend-digest"
+type_okf: "X Tweet"
+source_url: "https://x.com/JamesSurowiecki/status/2051722934041886870"
+created: "2026-05-05"
+updated: "2026-06-26"
+sha256: "8288f4ebde9f8cc7d6a85639c30e94ccc9b28918f7943674c91470d05c43af82"
+sources:
+  - "/sources/highlights/2026-05-06/00__JamesSurowiecki__非技术团队开始交付生产代码-ai-coding-的真正冲击波刚刚开始.md"
 ---
 
 # 非技术团队开始交付生产代码：AI Coding 的真正冲击波刚刚开始

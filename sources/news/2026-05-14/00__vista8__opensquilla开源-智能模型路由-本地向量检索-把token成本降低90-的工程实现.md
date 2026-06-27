@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "OpenSquilla开源：智能模型路由+本地向量检索，把Token成本降低90%的工程实现"
 description: "**[OpenSquilla用智能路由+本地向量检索组合拳，在Agent层实现了Token消耗的系统性压缩]**  向阳乔木推荐的开源项目OpenSquilla针对Agent Token成本高企这个痛点给出了完整工程解法：智能模型路由（简单任务用便宜模型，复杂任务自动升级）+本地向量检索（降低云端token传输）+增量上下文发送机制（声称减少90%以上token传输）+混合检索（BM25+向量）+"
 resource: "https://x.com/i/status/2054757474100760626"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2054757474100760626"
+created: "2026-05-14"
+updated: "2026-06-26"
+sha256: "be57294ced93c6959e185dcfdaeec8fcefe4512dd84cff528e82c7386ef09603"
+sources:
+  - "/sources/news/2026-05-14/00__vista8__opensquilla开源-智能模型路由-本地向量检索-把token成本降低90-的工程实现.md"
 ---
 
 # OpenSquilla开源：智能模型路由+本地向量检索，把Token成本降低90%的工程实现

@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Telegram Managed Bots：从「机器人」到「Agent托管平台」的关键一跃"
 description: "**一句话核心判断：Telegram 正在从聊天工具进化为 Agent 治理平台，这是多Agent协作基础设施的重要信号。**  核心变化：Managed Bots 让用户无需触碰任何开发概念——不需要懂 BotFather、不需要复制 token、不需要配置 webhook——两步完成专属 Bot 创建。更重要的是，Bot 之间可以互相聊天，且每个 Bot 的记忆、配置、连接账号完全隔离。  突"
 resource: "https://x.com/i/status/2048588781520048225"
@@ -22,6 +22,13 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "multi-agent-framework-ecosystem-comparison"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2048588781520048225"
+created: "2026-04-27"
+updated: "2026-06-26"
+sha256: "d962cdefaf5e5e998ef1296c5f23dd1bf1bc1392d0f5295b1f068e3daef52224"
+sources:
+  - "/sources/news/2026-04-27/00__xiaohu__telegram-managed-bots-从-机器人-到-agent托管平台-的关键一跃.md"
 ---
 
 # Telegram Managed Bots：从「机器人」到「Agent托管平台」的关键一跃

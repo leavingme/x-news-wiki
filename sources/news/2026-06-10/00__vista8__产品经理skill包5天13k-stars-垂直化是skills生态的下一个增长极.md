@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "产品经理Skill包5天13k Stars：垂直化是Skills生态的下一个增长极"
 description: "**PM专属Skill 5天13k Stars，但大而全是陷阱，Skills生态进入'窄而深'阶段**  - 向阳乔木推荐的产品经理Skill，5天13k Stars，覆盖PM日常工作全流程 - 关键观点：警惕大而全的Skill产品包，最好根据需求微调 - 数据信号：13k Stars证明垂直角色Skill存在真实市场需求，PM/工程师/设计师是三大高潜赛道 - 暗线：Skills生态开始'通用 "
 resource: "https://x.com/i/status/2064611893566640275"
@@ -22,6 +22,13 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "skills-ecosystem-standards"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2064611893566640275"
+created: "2026-06-10"
+updated: "2026-06-26"
+sha256: "5181f65819b9ad5eb58adc98d5c1bc1845f28b44c6fbb0bd34b61f25bd586438"
+sources:
+  - "/sources/news/2026-06-10/00__vista8__产品经理skill包5天13k-stars-垂直化是skills生态的下一个增长极.md"
 ---
 
 # 产品经理Skill包5天13k Stars：垂直化是Skills生态的下一个增长极

@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "玉伯再抛创业选择题：Cool but Confusing 还是 Good but Boring？"
 description: "**玉伯用一张四象限图把创业选项摆上桌：A 酷但混乱 / B 好但无聊 / C🔥🔥🔥 / D 谎言。** - 这延续了他一贯的产品哲学：多次公开表态偏好\"Good but Boring\"的稳健路径 - C 与 D 选项的设计本身就在嘲讽当下\"伪风口\"叙事，与他近期\"产品定义能力才是 AI 下半场护城河\"的判断一脉相承 - 选择题形式是他的典型互动方式：用轻量段子承载较重的产品观表态   ga"
 resource: "https://x.com/i/status/2066528445136568818"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2066528445136568818"
+created: "2026-06-15"
+updated: "2026-06-26"
+sha256: "27b64766c6753a5f877fd0bf6be674ffbc585d4d4e9b5b111a3536222ceee0c0"
+sources:
+  - "/sources/news/2026-06-15/00__lifesinger__玉伯再抛创业选择题-cool-but-confusing-还是-good-but-boring.md"
 ---
 
 # 玉伯再抛创业选择题：Cool but Confusing 还是 Good but Boring？

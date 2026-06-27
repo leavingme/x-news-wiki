@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "yetone为Yansu App的本地脱敏技术做视觉UI：隐私处理正在从后端走向用户体验层"
 description: "**【一句话核心判断】** 本地AI脱敏从\"能跑\"到\"能用\"：一个功能的产品化程度，看它有没有独立的视觉表达层。  **【信息增量】** - Yansu App已实现完全本地模型驱动的自动脱敏——数据不出终端 - yetone专门为这套脱敏机制做了用户视觉传达层——意味着脱敏结果对用户可见、可理解 - 链接中附有Demo演示，产品完成度指向可对外展示阶段  **【影响评估】** 本地脱敏技术的UI"
 resource: "https://x.com/i/status/2059941536952201504"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2059941536952201504"
+created: "2026-05-28"
+updated: "2026-06-26"
+sha256: "35bc47d1468a5efa960fc936948fb0e86736ba5e4589c3fddbdb753d36adcba0"
+sources:
+  - "/sources/news/2026-05-28/00__yetone__yetone为yansu-app的本地脱敏技术做视觉ui-隐私处理正在从后端走向用户体验层.md"
 ---
 
 # yetone为Yansu App的本地脱敏技术做视觉UI：隐私处理正在从后端走向用户体验层

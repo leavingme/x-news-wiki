@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "μ_0：可扩展 3D 交互追踪世界模型，World Model 阵营再添新丁"
 description: "**AK 公布 μ_0——一个面向 3D 交互追踪的可扩展世界模型。**  要点： - 与 V-JEPA、AMI 同一赛道：抛弃语言生成范式，主张「世界通过交互被理解」 - 3D 交互追踪（Interaction-Trace）作为新表征：模型学习的不是像素或文本，而是动作—状态—反馈链 - 对具身智能的意义：为 Sim-to-Real、机器人策略学习提供更直接的训练信号   gakki 锐评：Wo"
 resource: "https://x.com/i/status/2066927000564978054"
@@ -22,6 +22,13 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "world-model-paradigm"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2066927000564978054"
+created: "2026-06-16"
+updated: "2026-06-26"
+sha256: "1a57f2d31db330649facf3285c83a08eb36b85eb7445e66f5528e898b865fa80"
+sources:
+  - "/sources/news/2026-06-25/00___akhaliq__0-可扩展-3d-交互追踪世界模型-world-model-阵营再添新丁.md"
 ---
 
 # μ_0：可扩展 3D 交互追踪世界模型，World Model 阵营再添新丁

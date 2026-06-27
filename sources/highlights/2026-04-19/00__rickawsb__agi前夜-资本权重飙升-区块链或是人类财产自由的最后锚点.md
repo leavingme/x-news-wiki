@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "AGI前夜：资本权重飙升，区块链或是人类财产自由的最后锚点"
 description: "**一句话核心判断** 当AI足以替代劳动，\"人\"对国家的价值大幅下降，民主自由的历史窗口可能正在关闭——这不是危言耸听，是劳动力相对资本权重结构性塌陷的前兆。  **要点** - AGI实现后，工厂、数据中心等实物资本的重要性将远超人力劳动，国家对个体的依赖降低，社会契约面临重写 - 贫富差距与阶层固化将从概率问题变成确定性结果，因为权力结构会因AI变得更高效且更难撼动 - @myanToken"
 resource: "https://x.com/i/status/1948349054812905699"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/1948349054812905699"
+created: "2025-07-24"
+updated: "2026-06-26"
+sha256: "74e9400595739fd45e4a68a2d0f5991572251cef532113d1e5027963baffc46f"
+sources:
+  - "/sources/highlights/2026-04-19/00__rickawsb__agi前夜-资本权重飙升-区块链或是人类财产自由的最后锚点.md"
 ---
 
 # AGI前夜：资本权重飙升，区块链或是人类财产自由的最后锚点

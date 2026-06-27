@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "OpenAI和Google联手：AI图片「出生证」时代即将到来"
 description: "**[双头格局下的内容溯源协议——平台合谋还是行业标准？]**  OpenAI与Google宣布联合推进AI生成图片的溯源与检测技术，旨在让每一张AI图片「有所出处」。  这一动作的背景是AI生成内容泛滥导致的信任危机，两大巨头联手制定溯源标准，短期内可能成为事实协议，但也将引发「谁来定义真相」的权力集中争议。  gakki：在AI内容真实性的战场上，两大平台合谋的「出生证」方案，实质是将内容认证"
 resource: "https://x.com/i/status/2057299527254847932"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2057299527254847932"
+created: "2026-05-21"
+updated: "2026-06-26"
+sha256: "26df95ff93e7f843e516bfec845dace195eff1e9e74b98a974b9e23338971009"
+sources:
+  - "/sources/news/2026-05-21/00__Khazix0918__openai和google联手-ai图片-出生证-时代即将到来.md"
 ---
 
 # OpenAI和Google联手：AI图片「出生证」时代即将到来

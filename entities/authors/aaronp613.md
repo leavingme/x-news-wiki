@@ -1,5 +1,5 @@
 ---
-type: "Author"
+type: "entity"
 title: "Aaron (@aaronp613)"
 description: "X/Twitter 作者 @aaronp613。共收录 1 条 AI 精选推文。"
 tags:
@@ -12,6 +12,12 @@ x_author_name: "Aaron"
 x_tweet_count: 1
 x_first_seen: "2026-05-01T04:18:11.336Z"
 x_last_seen: "2026-05-01T04:18:11.336Z"
+type_okf: "Author"
+created: "2026-05-01"
+updated: "2026-06-26"
+sha256: "eab0fa3cc125b19f4b73cfb8e5ffd4c27f15a184c3331d82f18ee77f507672c4"
+sources:
+  - "/sources/highlights/2026-05-01/00__aaronp613__apple-support-更新意外暴露-claude-md-苹果内部-ai-工具链正在用-anthropic.md"
 ---
 
 # Aaron (@aaronp613)

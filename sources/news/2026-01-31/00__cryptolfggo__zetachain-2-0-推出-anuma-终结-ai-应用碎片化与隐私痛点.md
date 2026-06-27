@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "ZetaChain 2.0 推出 Anuma：终结 AI 应用碎片化与隐私痛点"
 description: "**[全链智能交互层]** 作为 ZetaChain 推出的首款消费级应用，Anuma 通过私有记忆层（PML）实现跨模型意图共享。 - **AI 门户**：将 GPT、Gemini、Claude 等多个模型聚合到统一入口，解决不同平台频繁切换的低效。 - **私有记忆层**：在保证隐私的前提下，让不同会话、模型之间可以传输记忆。 - **跨链运行**：利用 ZetaChain 的全链能力，实现 "
 resource: "https://x.com/i/status/2017584380106182758"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2017584380106182758"
+created: "2026-01-31"
+updated: "2026-06-26"
+sha256: "ba8390b5709df1ac44c3c76c0482a666fee9fae5279b2350374ba7c133167b5c"
+sources:
+  - "/sources/news/2026-01-31/00__cryptolfggo__zetachain-2-0-推出-anuma-终结-ai-应用碎片化与隐私痛点.md"
 ---
 
 # ZetaChain 2.0 推出 Anuma：终结 AI 应用碎片化与隐私痛点

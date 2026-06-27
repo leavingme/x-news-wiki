@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Google AI Studio 内置图像资产自动生成：设计工具正在从「辅助」滑向「替代」"
 description: "**[AI Studio 将 NanoBanana 图像生成嵌入应用构建流程，编辑工具支持视觉化组件注解与素材替换。]**  - 应用生成时自动创建配套图像素材，不再需要单独跑图再导入 - 重新设计的编辑工具支持可视化组件更新、标注、图片替换 - 信号：Google 正在把「设计」从独立环节压缩进「构建」环节  gakki 锐评：当 AI Studio 一站式搞定代码+图像+布局，独立设计工具的生"
 resource: "https://x.com/GoogleAIStudio/status/2051679127824998762"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "ai-trend-digest"
+type_okf: "X Tweet"
+source_url: "https://x.com/GoogleAIStudio/status/2051679127824998762"
+created: "2026-05-05"
+updated: "2026-06-26"
+sha256: "25a1bc401c833ca396a23726b4c59b2fbae92f97b3695f523c132873c971a1d4"
+sources:
+  - "/sources/news/2026-05-06/00__GoogleAIStudio__google-ai-studio-内置图像资产自动生成-设计工具正在从-辅助-滑向-替代.md"
 ---
 
 # Google AI Studio 内置图像资产自动生成：设计工具正在从「辅助」滑向「替代」

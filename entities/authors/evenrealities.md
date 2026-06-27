@@ -1,5 +1,5 @@
 ---
-type: "Author"
+type: "entity"
 title: "Even Realities (@EvenRealities)"
 description: "X/Twitter 作者 @EvenRealities。共收录 1 条 AI 精选推文。"
 tags:
@@ -12,6 +12,12 @@ x_author_name: "Even Realities"
 x_tweet_count: 1
 x_first_seen: "2026-04-28T16:17:54.694Z"
 x_last_seen: "2026-04-28T16:17:54.694Z"
+type_okf: "Author"
+created: "2026-04-28"
+updated: "2026-06-26"
+sha256: "2212d1483bfdf0bf11f6cbbd1e46fb205859fbbaf84537b98e4d4b545a968a46"
+sources:
+  - "/sources/news/2026-04-28/00__EvenRealities__眼镜即终端-even-realities-实现-用眼镜跑-coding-终端-下一个计算平台形态初现.md"
 ---
 
 # Even Realities (@EvenRealities)

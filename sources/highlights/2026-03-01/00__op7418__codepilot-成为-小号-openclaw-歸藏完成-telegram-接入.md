@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Codepilot 成为「小号 OpenClaw」：歸藏完成 Telegram 接入"
 description: "开发者歸藏在一晚上完成 Telegram 连接开发，其 Agent 客户端 Codepilot 实现类似 OpenClaw 的功能，展示 Agent 开发体系的高效率。"
 resource: "https://x.com/i/status/2027788772281356370"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2027788772281356370"
+created: "2026-02-28"
+updated: "2026-06-26"
+sha256: "88f92385a82d4f4ad3c3afe6e592e9e47338d71bf63641d6c319cdb05c6bd2d4"
+sources:
+  - "/sources/highlights/2026-03-01/00__op7418__codepilot-成为-小号-openclaw-歸藏完成-telegram-接入.md"
 ---
 
 # Codepilot 成为「小号 OpenClaw」：歸藏完成 Telegram 接入

@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "荣耀 Robot Phone 亮相 MWC：手机硬件创新停滞多年后，Agent 终于长出「物理四肢」"
 description: "**[软件 Agent 向物理世界延伸的标志性硬件]** - 荣耀在 MWC2026 发布 Robot Phone，实机引发围观，被评价为「久违的硬件层面创新」 - 信号：智能手机从「计算终端」向「具身 Agent 载体」演进，Agent 不再只是屏幕上的对话框  当手机学会物理移动和主动感知，AI 助手才算真正「进入」了你的生活空间。这可能是消费级机器人落地的 Trojan Horse。"
 resource: "https://x.com/i/status/2028118638708793517"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2028118638708793517"
+created: "2026-03-01"
+updated: "2026-06-26"
+sha256: "af925f982c4d331327ceaea7e75f4e4302984af12024c4c1c277f2782170c26d"
+sources:
+  - "/sources/highlights/2026-03-02/00__Khazix0918__荣耀-robot-phone-亮相-mwc-手机硬件创新停滞多年后-agent-终于长出-物理四肢.md"
 ---
 
 # 荣耀 Robot Phone 亮相 MWC：手机硬件创新停滞多年后，Agent 终于长出「物理四肢」

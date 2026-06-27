@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "PageIndex 用树索引替代向量检索：RAG 的「反 Embedding」范式正在动摇整个向量数据库行业"
 description: "**[向量数据库不是 RAG 的必要条件，树索引 + LLM 推理链路在金融基准上跑出 98.7% 准确率。]**  - PageIndex 完全跳过 Embedding、Chunking、相似度搜索三件套，改用文档树索引让 LLM 像人翻书一样逐层推理 - 在 FinanceBench 上 98.7% 准确率，超越所有向量 RAG 方案登顶 - 架构极简：零向量库依赖，意味着 RAG 基础设施成"
 resource: "https://x.com/HowToAI_/status/2051527272675651923"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
+
 x_source: "ai-trend-digest"
+type_okf: "X Tweet"
+source_url: "https://x.com/HowToAI_/status/2051527272675651923"
+created: "2026-05-05"
+updated: "2026-06-26"
+sha256: "d92a1680a9b5391750e2b2b2d8bede680e8dc80f50b63ba3e71b466aef9c1134"
+sources:
+  - "/sources/highlights/2026-05-06/00__HowToAI___pageindex-用树索引替代向量检索-rag-的-反-embedding-范式正在动摇整个向量数据库行业.md"
 ---
 
 # PageIndex 用树索引替代向量检索：RAG 的「反 Embedding」范式正在动摇整个向量数据库行业

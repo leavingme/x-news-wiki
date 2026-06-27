@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "AI 交易的价值锚点：清仓提醒比自动下单更实用"
 description: "**交易 AI 的真正杀手锏是\"风控提醒\"而非\"全权代理\"。**  - 把 AI 用作止损/清仓预警，比让它直接下单交易的容错空间大得多 - 反映一类用户心理：AI 做\"第二大脑\"比做\"执行手\"更易被接受 - 与当下 AI Agent 自主交易叙事形成对照——多数人更想要 AI 兜底而非替决策   gakki 锐评：这位观察点出了 AI 进入金融场景的真实节奏——风控类\"负向决策\"比正向交易更容易"
 resource: "https://x.com/i/status/2063967171655459027"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2063967171655459027"
+created: "2026-06-08"
+updated: "2026-06-26"
+sha256: "8322a1ad86df1119cf8285d836ea6b5b9b07025e26e7dd9cbdffae39c028551b"
+sources:
+  - "/sources/news/2026-06-08/00__Zesee__ai-交易的价值锚点-清仓提醒比自动下单更实用.md"
 ---
 
 # AI 交易的价值锚点：清仓提醒比自动下单更实用

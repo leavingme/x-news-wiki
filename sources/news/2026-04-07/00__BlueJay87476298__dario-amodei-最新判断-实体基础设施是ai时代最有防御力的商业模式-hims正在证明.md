@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Dario Amodei 最新判断：实体基础设施是AI时代最有防御力的商业模式，HIMS正在证明"
 description: "**[AI时代护城河不在代码层，在物理世界的专业化壁垒]**  • HIMS CEO引用Anthropic CEO观点：AI时代最有防御力的生意=实体基础设施+专业化（药房履约中心+医生执照+配送网络） • HIMS日服务数万名患者、千名医生、百万平方英尺药房履约中心、机器人自动化调配——形成「医生+药房+配送」三合一闭环 • 与纯软件公司相比，这类实体基础设施难以被AI复制，因为需要物理存在、专"
 resource: "https://x.com/i/status/2041133938761236658"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2041133938761236658"
+created: "2026-04-06"
+updated: "2026-06-26"
+sha256: "dc17d5a95535bd2e10d42c6225bd3bb9040783b7c2af2a5a529aac498e83c825"
+sources:
+  - "/sources/news/2026-04-07/00__BlueJay87476298__dario-amodei-最新判断-实体基础设施是ai时代最有防御力的商业模式-hims正在证明.md"
 ---
 
 # Dario Amodei 最新判断：实体基础设施是AI时代最有防御力的商业模式，HIMS正在证明

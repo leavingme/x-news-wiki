@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "赚钱的本质是自我博弈而非竞争对手多少：AI放大了个体的分化"
 description: "**[AI时代个体竞争力公式正在被改写：比较基准从横向竞争转向纵向自我迭代]**  天策的核心洞察：赚钱和高考一样，本质是自我比较而非与竞争对手博弈。在AI时代，这个逻辑被进一步强化——AI放大了个体之间的能力差距，使得「跟自己做比较」这句话有了新的技术含义：AI工具使用能力的差异，使得同样背景下的人，产出差距可以高达数倍。  转化率、复购率、现金流——这些指标的改善速度，取决于一个人将AI整合进"
 resource: "https://x.com/i/status/2055719135468744926"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2055719135468744926"
+created: "2026-05-16"
+updated: "2026-06-26"
+sha256: "1f1873223808823caf5b240974a8f1bad744de849df564e7db9c83e6965a2793"
+sources:
+  - "/sources/news/2026-05-16/00__Leobai825__赚钱的本质是自我博弈而非竞争对手多少-ai放大了个体的分化.md"
 ---
 
 # 赚钱的本质是自我博弈而非竞争对手多少：AI放大了个体的分化

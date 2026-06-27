@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "玉伯定义 SaaS 终局判断：Agent 赢不赢，看运行时在哪"
 description: "**SaaS 的胜负手不在功能，在运行时归属——Agent 时代这个判断依然成立。**  - 玉伯给出简洁判定标准：SaaS 赢的条件是运行时在云端，Agent 本质上也是 SaaS 的子集 - 即使本地 Agent 存在，\"背后那根线还是通向云\"——当前所有 Agent 架构都未逃离云依赖 - 唯一输的场景：每个人口袋里揣一个微型数据中心，云彻底废弃  gakki 锐评：这个框架比\"Agent "
 resource: "https://x.com/i/status/2053141133765779706"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2053141133765779706"
+created: "2026-05-09"
+updated: "2026-06-26"
+sha256: "59a65f07baebe3d420cd30d746a19a0bd4a04e7835c2bd25634faf2629c34c3f"
+sources:
+  - "/sources/news/2026-05-09/00__lifesinger__玉伯定义-saas-终局判断-agent-赢不赢-看运行时在哪.md"
 ---
 
 # 玉伯定义 SaaS 终局判断：Agent 赢不赢，看运行时在哪

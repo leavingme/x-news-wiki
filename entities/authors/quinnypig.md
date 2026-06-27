@@ -1,5 +1,5 @@
 ---
-type: "Author"
+type: "entity"
 title: "Corey Quinn (@QuinnyPig)"
 description: "X/Twitter 作者 @QuinnyPig。共收录 2 条 AI 精选推文。"
 tags:
@@ -12,6 +12,13 @@ x_author_name: "Corey Quinn"
 x_tweet_count: 2
 x_first_seen: "2026-06-25T08:42:25.964Z"
 x_last_seen: "2026-06-25T08:42:26.111Z"
+type_okf: "Author"
+created: "2026-06-25"
+updated: "2026-06-26"
+sha256: "2b35a4b6953d9653414d00fca8ddd1a07c74434e1c1bd3e7a8eb166e36232444"
+sources:
+  - "/sources/news/2026-06-25/00__QuinnyPig__corey-quinn-锐评-aws-内部三组团队互不通气-lambda-microvm-安全行为-令人警觉.md"
+  - "/sources/news/2026-06-25/00__QuinnyPig__lastpass-已被攻破-2-5-次-一个密码管理器凭什么还有客户.md"
 ---
 
 # Corey Quinn (@QuinnyPig)

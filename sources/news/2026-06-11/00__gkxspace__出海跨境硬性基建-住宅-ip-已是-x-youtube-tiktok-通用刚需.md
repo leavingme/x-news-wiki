@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "出海跨境硬性基建：住宅 IP 已是 X/YouTube/TikTok 通用刚需"
 description: "**[余温的隐性成本观察：流量合规是被严重低估的出海护城河]**  - 平台风控趋严下，机房 IP 失效加速，住宅 IP 已成覆盖 X、YouTube、TikTok 等所有主流平台的不可替代基建 - 不限于电商，AI 内容生产、Agent 抓取、海外账号养号同样依赖 - 跨境创业者最常踩坑的隐性成本：账号稳定性背后的 IP 投入与合规风险   gakki 锐评：AI 出海工具讨论热闹，但底层流量基"
 resource: "https://x.com/i/status/2065063717880872993"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2065063717880872993"
+created: "2026-06-11"
+updated: "2026-06-26"
+sha256: "d7157c0cd77964b7d8a681c21d37711c90001e6049114c2cb82980a5e0c1f291"
+sources:
+  - "/sources/news/2026-06-11/00__gkxspace__出海跨境硬性基建-住宅-ip-已是-x-youtube-tiktok-通用刚需.md"
 ---
 
 # 出海跨境硬性基建：住宅 IP 已是 X/YouTube/TikTok 通用刚需

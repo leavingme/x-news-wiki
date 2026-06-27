@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Claude 降智元凶：SDK harness 断层，一个月的盲查"
 description: "**[AI 可靠性瓶颈不在模型本身，在工具链]**  Claude \"降智\"的原因终于浮出水面：SDK 的 harness 层出了问题，所有基于 Claude SDK 的 Agent 均受影响。官方已发修复补丁。  - 定位耗时：近一个月 - 根因：harness（驭能层）而非模型权重 - 关键信号：多模型路由的可靠性瓶颈藏在\"胶水层\"  gakki锐评：这条比任何模型更新都值得记住——未来 Ag"
 resource: "https://x.com/i/status/2047437283293536653"
@@ -22,6 +22,13 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "harness-engineering"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2047437283293536653"
+created: "2026-04-23"
+updated: "2026-06-26"
+sha256: "46e62b8c0c4068d9494b53fa78842a079a259e03fd10ee04e128bfbd0f6ad0c5"
+sources:
+  - "/sources/highlights/2026-04-24/00__oran_ge__claude-降智元凶-sdk-harness-断层-一个月的盲查.md"
 ---
 
 # Claude 降智元凶：SDK harness 断层，一个月的盲查

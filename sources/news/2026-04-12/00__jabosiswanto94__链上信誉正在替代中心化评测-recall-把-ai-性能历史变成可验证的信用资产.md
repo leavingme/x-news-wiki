@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "链上信誉正在替代中心化评测：Recall 把 AI 性能历史变成可验证的信用资产"
 description: "**[AI 性能验证正在被区块链重构：传统实验室基准神话终结]**  核心判断：Recall.network 提出反直觉方案——将 AI 模型的性能、声誉、结果永久写入链上，替代中心化实验室的「精心包装的抛光基准」。  关键信息： - 传统基准的公信力黑洞：实验室结果用户无法验证，信任建立在权威而非数据 - Recall 的解法：社区成员参与设计竞赛和基准，所有胜负边缘案例未经修改地记录，信任建立"
 resource: "https://x.com/i/status/1957716966837481551"
@@ -22,6 +22,13 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "agent-economic-autonomy"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/1957716966837481551"
+created: "2025-08-19"
+updated: "2026-06-26"
+sha256: "5246ebc47baa98d367dca0f16038fdef3f624e17d71287e669139ebb1aa86e85"
+sources:
+  - "/sources/news/2026-04-12/00__jabosiswanto94__链上信誉正在替代中心化评测-recall-把-ai-性能历史变成可验证的信用资产.md"
 ---
 
 # 链上信誉正在替代中心化评测：Recall 把 AI 性能历史变成可验证的信用资产

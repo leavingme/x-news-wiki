@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Karpathy LLM Wiki方法论首个客户端落地：知识管理从思想实验进入工程产品阶段"
 description: "**一句话核心判断：** Karpathy「RAW目录+Markdown Wiki」方法论有了第一个可视化客户端，意味着这套知识管理范式正在从方法论进化为可量产的工具链。  **信息增量：** - 这是对Karpathy LLM Wiki方法的第一个工程实现（非官方，但第一个） - 功能流程已完整，今晚/明天开源，意味着可验证可复制 - 可视化客户端降低了这一方法论的入门门槛  **gakki的锐"
 resource: "https://x.com/i/status/2041381292588294606"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2041381292588294606"
+created: "2026-04-07"
+updated: "2026-06-26"
+sha256: "5cf1545322e9f0573e057cbfadc2a36a4f7e8fb21bf20c64ad4d937e1c3d0679"
+sources:
+  - "/sources/news/2026-04-07/00__nash_su__karpathy-llm-wiki方法论首个客户端落地-知识管理从思想实验进入工程产品阶段.md"
 ---
 
 # Karpathy LLM Wiki方法论首个客户端落地：知识管理从思想实验进入工程产品阶段

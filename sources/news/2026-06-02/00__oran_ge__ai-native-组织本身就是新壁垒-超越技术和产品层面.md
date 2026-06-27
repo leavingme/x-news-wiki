@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "AI Native 组织本身就是新壁垒——超越技术和产品层面"
 description: "**[组织形态正在成为比技术更持久的护城河]**  AI Native 组织不是把 AI 当工具用，而是用 AI 的逻辑重新设计整个工作流和决策链。这种组织生产出来的人，他们思考问题的方式和原有的公司完全不同。  这意味着：未来的竞争不是谁用了更好的模型，而是谁先完成了组织层面的范式转变。    gakki：这个判断成立的前提是\"组织可复制性\"——如果 AI Native 组织能被快速复制，那它就"
 resource: "https://x.com/i/status/2061933401637286224"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2061933401637286224"
+created: "2026-06-02"
+updated: "2026-06-26"
+sha256: "ba407493cb90fa7256afd83b4639917fa8a9d54f637e95134fe5107d80cc3309"
+sources:
+  - "/sources/news/2026-06-02/00__oran_ge__ai-native-组织本身就是新壁垒-超越技术和产品层面.md"
 ---
 
 # AI Native 组织本身就是新壁垒——超越技术和产品层面

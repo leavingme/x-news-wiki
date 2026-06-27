@@ -1,5 +1,5 @@
 ---
-type: "Concept"
+type: "concept"
 title: "anthropic-commercial-explosion"
 description: "跨日主题 \"anthropic-commercial-explosion\"，共 2 条相关精选推文。"
 tags:
@@ -11,6 +11,13 @@ x_topic_slug: "anthropic-commercial-explosion"
 x_tweet_count: 2
 x_first_seen: "2026-04-08T00:43:36.098Z"
 x_last_seen: "2026-06-14T04:18:25.897Z"
+type_okf: "Concept"
+created: "2026-04-08"
+updated: "2026-06-26"
+sha256: "f4e3323745d07f99e277634cb08192680386cdb1b264a8c0148061eed444fead"
+sources:
+  - "/sources/highlights/2026-04-08/00__dotey__claude-mythos炸裂benchmark-usamo从42-拉到97-6-anthropic把漏洞挖掘变成企业级.md"
+  - "/sources/highlights/2026-06-14/00__xiaohu__anthropic-上市前夜-dario-把-mythos-威胁论与文明崩溃概率打包定价.md"
 ---
 
 # 主题: anthropic-commercial-explosion

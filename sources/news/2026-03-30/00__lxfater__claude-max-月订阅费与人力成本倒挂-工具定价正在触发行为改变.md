@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Claude Max 月订阅费与人力成本倒挂：工具定价正在触发行为改变"
 description: "**「日薪大于 Claude Max 月订阅费的人都应该开一个月的体验」——这是一个朴素的成本收益判断，但隐含了更深的信息。**  当工具月费低于人力日薪时，工具的「试用门槛」在目标人群中几乎为零。这会加速工具的深度采用而非轻度试用。  Claude Max 的定位正在从「高级工具」向「生产力基础设施」迁移。  gakki：「这个建议本身就是一个信号——当专业人士开始用『日薪 vs 月费』来衡量 "
 resource: "https://x.com/i/status/2038604656817971641"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2038604656817971641"
+created: "2026-03-30"
+updated: "2026-06-26"
+sha256: "2692fca3b66b4de433c3cb9fb59492daf823b208eafa40b2ee44ebe5d1516f9c"
+sources:
+  - "/sources/news/2026-03-30/00__lxfater__claude-max-月订阅费与人力成本倒挂-工具定价正在触发行为改变.md"
 ---
 
 # Claude Max 月订阅费与人力成本倒挂：工具定价正在触发行为改变

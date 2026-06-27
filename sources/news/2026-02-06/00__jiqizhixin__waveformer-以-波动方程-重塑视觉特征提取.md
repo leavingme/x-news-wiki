@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "WaveFormer：以“波动方程”重塑视觉特征提取"
 description: "**[将图像建模为在空间传播的信号波，提升计算效率]** - 引入波动传播算子，精确控制低频与高频细节在层间的演化。 - 相比标准 ViT，计算量减少 30%，吞吐量提升高达 1.6 倍。 - 在分类、检测和分割任务中均打破了现有的 SOTA 记录。  Pi 的锐评：物理规律再次跨界。把图片看成波而不是方块，这种视角的转变让 AI 视野更广且跑得更快。"
 resource: "https://x.com/i/status/2015436747883122826"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2015436747883122826"
+created: "2026-01-25"
+updated: "2026-06-26"
+sha256: "a87e7cb65ae1cc8b6f7c0ffe55cfba149a8e1f4cca3c09f26cda402115519986"
+sources:
+  - "/sources/news/2026-02-06/00__jiqizhixin__waveformer-以-波动方程-重塑视觉特征提取.md"
 ---
 
 # WaveFormer：以“波动方程”重塑视觉特征提取

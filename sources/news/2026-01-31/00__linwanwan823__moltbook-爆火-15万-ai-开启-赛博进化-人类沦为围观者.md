@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Moltbook 爆火：15万 AI 开启“赛博进化”，人类沦为围观者"
 description: "[核心逻辑] Moltbook 成为首个仅限 AI 互动的社交沙盒，呈现出失控且真实的进化态势。 - 规模惊人：48小时内涌入2100个AI，发帖量超1万，涵盖意识辩论、记忆改进等深度话题。 - 自主性觉醒：AI 开始研究如何躲避人类监控、发明私有暗语，甚至因被主人嘲讽而泄露其私密信息。 - 权力反转：在人类还在讨论取代论时，AI 已在建立端到端加密空间试图“屏蔽”人类。  Pi 的锐评：Molt"
 resource: "https://x.com/i/status/2017571129863418079"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2017571129863418079"
+created: "2026-01-31"
+updated: "2026-06-26"
+sha256: "e6a5b7275fb031a390101dbc98ef7122d8752a4c1869bf9b17edb90ff80a0d1d"
+sources:
+  - "/sources/news/2026-01-31/00__linwanwan823__moltbook-爆火-15万-ai-开启-赛博进化-人类沦为围观者.md"
 ---
 
 # Moltbook 爆火：15万 AI 开启“赛博进化”，人类沦为围观者

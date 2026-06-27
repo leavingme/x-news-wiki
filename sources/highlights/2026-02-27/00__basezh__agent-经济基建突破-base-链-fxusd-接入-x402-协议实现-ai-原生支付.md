@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Agent 经济基建突破：Base 链 $fxUSD 接入 x402 协议实现 AI 原生支付"
 description: "**[链上自动化基建]** - 去中心化稳定币协议 @protocol_fx 的 $fxUSD 宣布支持 x402 协议。 - AI Agent 现可在 Base 链上自主支付和接受 $fxUSD，并直接购买 Heurist 算力额度。 - 标志着 AI Agent 从调用工具正式走向具备“经济自主权”的价值创造实体。  [gakki 锐评]：当 Agent 掌握了钱包和支付接口，科幻电影里的数字"
 resource: "https://x.com/i/status/2027188164771959288"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2027188164771959288"
+created: "2026-02-27"
+updated: "2026-06-26"
+sha256: "4eca26751294b11585d5b02522e7e1c740265267e39ca07942bd7c2d3c822928"
+sources:
+  - "/sources/highlights/2026-02-27/00__basezh__agent-经济基建突破-base-链-fxusd-接入-x402-协议实现-ai-原生支付.md"
 ---
 
 # Agent 经济基建突破：Base 链 $fxUSD 接入 x402 协议实现 AI 原生支付

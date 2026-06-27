@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Claude Code源码泄露的核心价值：揭示产品工程层而非模型推理层"
 description: "**[源码泄露撕开的是产品工程层，不是模型护城河]**  Claude Code架构的完整解析：多Agent协作、MCP协议集成、LSP语言服务器、Skill技能系统、插件扩展机制——这套工程体系比很多公司自研AI编程产品都完整。  泄露揭示的内容包括：CLI入口、命令注册、工具注册、LLM查询引擎、上下文收集、成本跟踪等模块；以及40+工具、多代理编排系统、后台记忆整理引擎（待官方确认）。  g"
 resource: "https://x.com/i/status/2038963435271323791"
@@ -22,6 +22,13 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "claude-code-leaked-architecture"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2038963435271323791"
+created: "2026-03-31"
+updated: "2026-06-26"
+sha256: "03831085fa2539aa769248ee22777a7011d3aba9a28669fae77fe08e054537a8"
+sources:
+  - "/sources/news/2026-04-04/00__MMMusol__claude-code源码泄露的核心价值-揭示产品工程层而非模型推理层.md"
 ---
 
 # Claude Code源码泄露的核心价值：揭示产品工程层而非模型推理层

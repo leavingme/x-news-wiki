@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Vanta 增长反常识加速：$10M→$300M ARR 复利效应验证合规 SaaS 天花板"
 description: "**合规自动化赛道正在打破「大公司增长必然减速」的常识。**  - Vanta 从 $10M 到 $100M ARR 花了 2 年，$100M 到 $200M 花了 15 个月，$200M 到 $300M 只花了 9 个月 - 增长率连续四个季度加速——在 B2B SaaS 中极为罕见 - 「叙事违抗」（Narrative Violation）：市场默认 pre-2022 公司增速会放缓，Vant"
 resource: "https://x.com/christinacaci/status/2049488924569923633"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "ai-trend-digest"
+type_okf: "X Tweet"
+source_url: "https://x.com/christinacaci/status/2049488924569923633"
+created: "2026-04-29"
+updated: "2026-06-26"
+sha256: "1e1e61cd0b328561a8420715ddad2abc2d3de2db35a71245eb70d573e878bab6"
+sources:
+  - "/sources/news/2026-04-29/00__christinacaci__vanta-增长反常识加速-10m-300m-arr-复利效应验证合规-saas-天花板.md"
 ---
 
 # Vanta 增长反常识加速：$10M→$300M ARR 复利效应验证合规 SaaS 天花板

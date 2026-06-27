@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "向阳乔木预告开源 X 内容过滤方案：公开场合的尴尬内容有解了"
 description: "**[过滤逻辑开源：X 平台内容可见性的工程化解决方案]**  向阳乔木分享了原始 GitHub 方案并预告优化后将开源。该项目解决的核心问题是：X 平台自动翻译后，公开场合阅读某些内容可能引发尴尬——通过手动标记「不感兴趣」来训练推荐过滤，配合 Telegram 渠道实现更精准的内容消费。  工程路径：GitHub fork → 本地化过滤规则 → 开源发布。  这是少数将用户行为数据与平台推荐"
 resource: "https://x.com/i/status/2061126634946896337"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2061126634946896337"
+created: "2026-05-31"
+updated: "2026-06-26"
+sha256: "c258a4d00cf809f01d705ccd5a864e2e692c9accbcaf0d4758ee19b41ed256a7"
+sources:
+  - "/sources/news/2026-05-31/00__vista8__向阳乔木预告开源-x-内容过滤方案-公开场合的尴尬内容有解了.md"
 ---
 
 # 向阳乔木预告开源 X 内容过滤方案：公开场合的尴尬内容有解了

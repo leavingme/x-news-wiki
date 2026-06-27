@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Codex 推出 Record & Replay：演示一遍就替你干，提示词工程的下一站是演示工程"
 description: "**提示词工程的终局不是写得更长，而是「演示一次就够」。**  Codex 上线 Record & Replay：用户把日常电脑操作完整演示一遍，Codex 旁观后自动把整套流程沉淀为可复用 Skill，下次直接按你的流程独立执行。  官方用例是「发 YouTube 视频」：从拉元数据、配缩略图英文字幕、上传私密、逐项核对，Codex 看完就能在新对话里照着全做完，一步不差。  覆盖场景包括每月报"
 resource: "https://x.com/i/status/2067834974519115804"
@@ -22,6 +22,13 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "skill-automation-engineering"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2067834974519115804"
+created: "2026-06-19"
+updated: "2026-06-26"
+sha256: "57215d4fdf88cf43cfa085b1408e88708c97fa149a2d0473ab6cd9f8e0ec9ce2"
+sources:
+  - "/sources/highlights/2026-06-19/00__xiaohu__codex-推出-record-replay-演示一遍就替你干-提示词工程的下一站是演示工程.md"
 ---
 
 # Codex 推出 Record & Replay：演示一遍就替你干，提示词工程的下一站是演示工程

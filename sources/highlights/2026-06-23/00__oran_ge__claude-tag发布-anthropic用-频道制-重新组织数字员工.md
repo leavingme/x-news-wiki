@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Claude Tag发布：Anthropic用\"频道制\"重新组织数字员工"
 description: "**Anthropic的AI数字员工Claude Tag选择了channel-based context来界定多Agent边界，区别于身份制和团队上下文模式。**  - 这不是给Agent分配\"三省六部\"式的身份角色，也不是让Agent共享team context来获取全局信息 - 频道制让Agent通过channel来界定协作边界，呼应Slack式的沟通架构 - 反映Anthropic内部组织数"
 resource: "https://x.com/i/status/2069534869047447920"
@@ -22,6 +22,13 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "multi-agent-framework-ecosystem-comparison"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2069534869047447920"
+created: "2026-06-23"
+updated: "2026-06-26"
+sha256: "e419a8709bb7a04eebaf4ee8b7e706b4a6d709aa55379d432d182ff2b1399f47"
+sources:
+  - "/sources/highlights/2026-06-23/00__oran_ge__claude-tag发布-anthropic用-频道制-重新组织数字员工.md"
 ---
 
 # Claude Tag发布：Anthropic用"频道制"重新组织数字员工

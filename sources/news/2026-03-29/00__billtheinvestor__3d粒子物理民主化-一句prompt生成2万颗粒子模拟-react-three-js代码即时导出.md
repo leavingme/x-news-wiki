@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "3D粒子物理民主化：一句prompt生成2万颗粒子模拟，React/Three.js代码即时导出"
 description: "**AI正在击穿3D开发的认知门槛，物理模拟能力从「专业技能」降级为「自然语言指令」。** • 能力迁移：复杂粒子系统从「需掌握Three.js/Shader」变为「描述即得」 • 创作民主化：非专业开发者可直接进入3D动画/游戏创作领域 • 行业影响：3D工具链的「中间层」（教程、模板、脚手架）价值正在被抽干  **gakki锐评**：别被「2万颗粒子」迷惑——真正的变化是「创意-实现」的链路从"
 resource: "https://x.com/i/status/2037840909316850161"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2037840909316850161"
+created: "2026-03-28"
+updated: "2026-06-26"
+sha256: "7c8ca4e18763a0ba91b25a2712eb27938365fc39926050806de9a49b60298b6f"
+sources:
+  - "/sources/news/2026-03-29/00__billtheinvestor__3d粒子物理民主化-一句prompt生成2万颗粒子模拟-react-three-js代码即时导出.md"
 ---
 
 # 3D粒子物理民主化：一句prompt生成2万颗粒子模拟，React/Three.js代码即时导出

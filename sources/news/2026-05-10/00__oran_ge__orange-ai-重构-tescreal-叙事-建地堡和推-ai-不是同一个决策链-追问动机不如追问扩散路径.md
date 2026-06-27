@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Orange AI 重构 TESCREAL 叙事：建地堡和推 AI 不是同一个决策链，追问动机不如追问扩散路径"
 description: "**TESCREAL 七大主义的串联梳理此前罕见，但更有价值的是 Orange AI 提供的反直觉框架：对冲风险与技术乐观主义并不矛盾，就像买保险的人不一定悲观。**  - 将「建地堡+推AI」的行为从道德判断拉回行动路径：与其追问动机，不如问「怎么让丰饶更快到达更多人」 - 历史规律洞察：技术革命中受伤的人，最终被帮助的方式从来不是让技术停下来，而是加速成果扩散 - 提供了一个可操作的认知工具："
 resource: "https://x.com/i/status/2053458813559484567"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2053458813559484567"
+created: "2026-05-10"
+updated: "2026-06-26"
+sha256: "06a645e380076551650fab4955e19b6656b9697f1fd303c254cf28fc328d8c1b"
+sources:
+  - "/sources/news/2026-05-10/00__oran_ge__orange-ai-重构-tescreal-叙事-建地堡和推-ai-不是同一个决策链-追问动机不如追问扩散路径.md"
 ---
 
 # Orange AI 重构 TESCREAL 叙事：建地堡和推 AI 不是同一个决策链，追问动机不如追问扩散路径

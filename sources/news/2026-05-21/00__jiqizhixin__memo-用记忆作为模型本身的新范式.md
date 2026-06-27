@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "MeMo：用记忆作为模型本身的新范式"
 description: "**[Memory as a Model：把记忆本身建模为推理资源的思路值得重视]**  机器之心报道的MeMo论文提出用记忆替代传统模型参数的新架构。这是继RAG、知识库之后，对「LLM知识存储」问题的又一次路径重构。  将记忆本身视为模型的输入而非外挂，可能改变Agent跨会话一致性的根本解决思路。  **gakki锐评：** 从外挂知识库到内化记忆模型，是从检索到推理的认知升级。但记忆建模的"
 resource: "https://x.com/i/status/2057273864909119559"
@@ -22,6 +22,13 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "agent-memory-optimization"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2057273864909119559"
+created: "2026-05-21"
+updated: "2026-06-26"
+sha256: "2bd090827334f1397fcdc8b9394fb2add4941cce621762cb8cb200a3bad13e60"
+sources:
+  - "/sources/news/2026-05-21/00__jiqizhixin__memo-用记忆作为模型本身的新范式.md"
 ---
 
 # MeMo：用记忆作为模型本身的新范式

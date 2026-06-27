@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "宝玉推出 baoyu-image-gen：在 Claude Code 里直接调 Codex 画图，跨 IDE 协作 Skill 化"
 description: "**宝玉公开 baoyu-image-gen Skill，让 Claude Code 用户无需切换工具即可调用 Codex 图像生成能力。**  - 核心价值：解决了 Claude Code 当前无原生画图能力的痛点，把 Codex 包装成可被 Claude Code 直接调用的图像后端 - 工程含义：这是\"Skill 作为跨工具胶水\"的典型案例——不再争论 Claude Code vs Code"
 resource: "https://x.com/i/status/2067136930152665474"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2067136930152665474"
+created: "2026-06-17"
+updated: "2026-06-26"
+sha256: "056d43ed36baf3d061b970de8975b57697ba60bfebf560c628ec5be60fb6d870"
+sources:
+  - "/sources/news/2026-06-17/00__dotey__宝玉推出-baoyu-image-gen-在-claude-code-里直接调-codex-画图-跨-ide-协作-sk.md"
 ---
 
 # 宝玉推出 baoyu-image-gen：在 Claude Code 里直接调 Codex 画图，跨 IDE 协作 Skill 化

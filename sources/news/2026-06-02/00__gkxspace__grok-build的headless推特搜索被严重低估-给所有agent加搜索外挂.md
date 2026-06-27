@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Grok Build的headless推特搜索被严重低估：给所有Agent加搜索外挂"
 description: "Grok CLI的headless模式一行命令直接搜推特，完全合规且无API限制，可封装成Skill供ClaudeCode/Codex调用。测试者还发现它自写的提示词过不了Grok审核——说明Grok的内容过滤比想象中严。作者用它尝试生图，结论是'太权威了'。这不是赞美。"
 resource: "https://x.com/i/status/2061685817454551210"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2061685817454551210"
+created: "2026-06-02"
+updated: "2026-06-26"
+sha256: "30e8572dc0886222f7459e3f4f3dd9ac801cbe9de81bf7bc68c2f336f8f5677e"
+sources:
+  - "/sources/news/2026-06-02/00__gkxspace__grok-build的headless推特搜索被严重低估-给所有agent加搜索外挂.md"
 ---
 
 # Grok Build的headless推特搜索被严重低估：给所有Agent加搜索外挂

@@ -1,5 +1,5 @@
 ---
-type: "Author"
+type: "entity"
 title: "Gas留在链上 (@cevenif)"
 description: "X/Twitter 作者 @cevenif。共收录 1 条 AI 精选推文。"
 tags:
@@ -12,6 +12,12 @@ x_author_name: "Gas留在链上"
 x_tweet_count: 1
 x_first_seen: "2026-06-24T22:27:34.948Z"
 x_last_seen: "2026-06-24T22:27:34.948Z"
+type_okf: "Author"
+created: "2026-06-24"
+updated: "2026-06-26"
+sha256: "2ea93af3725952038a6402e3c5ad2358122b6781c243cea17361cef6b44f64d1"
+sources:
+  - "/sources/news/2026-06-24/00__cevenif__omnivoice-studio开源-3秒克隆-视频全自动配音本地化-声纹ai全面平民化.md"
 ---
 
 # Gas留在链上 (@cevenif)

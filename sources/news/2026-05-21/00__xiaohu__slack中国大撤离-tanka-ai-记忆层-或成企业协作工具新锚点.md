@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Slack中国大撤离：Tanka AI「记忆层」或成企业协作工具新锚点"
 description: "**Slack大中华区workspace关停，暴露了企业协作工具的「上下文脆弱性」。**  Tanka AI这波升级真正值得关注的不是功能覆盖（聊天/语音/文件这些Slack早就有了），而是它额外叠加的「AI长期记忆层」——对话、决策、文件自动沉淀，而不是用完即丢。这在Slack历史上是结构性缺失，Tanka用记忆层补上了。  100+办公应用接入+基于记忆的AI资产生成（slides/repor"
 resource: "https://x.com/i/status/2057259620817862744"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2057259620817862744"
+created: "2026-05-21"
+updated: "2026-06-26"
+sha256: "67f9f4feab1ef8a4784a5529dc30ccaf9c37166e580c93c19a9712f4d773f3ed"
+sources:
+  - "/sources/news/2026-05-21/00__xiaohu__slack中国大撤离-tanka-ai-记忆层-或成企业协作工具新锚点.md"
 ---
 
 # Slack中国大撤离：Tanka AI「记忆层」或成企业协作工具新锚点

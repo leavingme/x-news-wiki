@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "歸藏 Skill 登顶 GitHub 本周新建项目 Star 排行榜"
 description: "**一句话核心判断：** Skill 作为 AI 编码工具的核心交付物形态，已经在开源社区获得了实质性的价值认可，证明了 Skill 市集这条路是通的。  **信息增量：** - 歸藏的 guizang-social-card-skill 冲上 GitHub 本周新建项目 Star 第一 - 发现路径是另一个群友的 AI Agent 主动检索，说明 Agent 正在成为开源项目传播的新渠道 - 这"
 resource: "https://x.com/i/status/2060667214077034978"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2060667214077034978"
+created: "2026-05-30"
+updated: "2026-06-26"
+sha256: "6dcc9a3114e79805f865a759c88c69fce7384c192d998aede889264482f4fc05"
+sources:
+  - "/sources/news/2026-05-30/00__op7418__歸藏-skill-登顶-github-本周新建项目-star-排行榜.md"
 ---
 
 # 歸藏 Skill 登顶 GitHub 本周新建项目 Star 排行榜

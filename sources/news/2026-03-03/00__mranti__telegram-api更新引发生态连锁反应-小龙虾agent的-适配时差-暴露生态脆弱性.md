@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Telegram API更新引发生态连锁反应：小龙虾Agent的“适配时差”暴露生态脆弱性"
 description: "**[平台底层API的微小变动，足以让上层AI Agent生态瞬间“断联”]** - 事件本质：Telegram API的更新，导致基于其构建的“小龙虾”（Lobster AI？）Agent功能暂时失效。 - 生态启示：这凸显了以第三方平台（如Telegram、Discord）作为入口的AI Agent，其稳定性和自主性高度受制于平台规则。 - 风险信号：在“多平台入口争夺”战中，过度依赖单一平台"
 resource: "https://x.com/i/status/2028476349296595133"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2028476349296595133"
+created: "2026-03-02"
+updated: "2026-06-26"
+sha256: "b09ac7a9ecc1180016521a7ee2c6294d2e9abf5902181bbf2d8e7f41e844fe1f"
+sources:
+  - "/sources/news/2026-03-03/00__mranti__telegram-api更新引发生态连锁反应-小龙虾agent的-适配时差-暴露生态脆弱性.md"
 ---
 
 # Telegram API更新引发生态连锁反应：小龙虾Agent的“适配时差”暴露生态脆弱性

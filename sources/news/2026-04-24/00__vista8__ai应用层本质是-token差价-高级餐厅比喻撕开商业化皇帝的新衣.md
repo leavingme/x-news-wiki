@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "AI应用层本质是「Token差价」？高级餐厅比喻撕开商业化皇帝的新衣"
 description: "**[如果应用层赚的真是差价，那护城河在哪？]**  向阳乔木提出了一个尖锐问题：AI 应用本质是卖 Token 赚差价，为何不直接卖 Token？他用「高级餐厅」比喻作答——原材料一样，但烹饪、环境、服务能卖出溢价。  - 这个逻辑成立的前提：应用层创造了 Token 本身不包含的「体验价值」 - 但现实是：大多数 AI 应用做的不过是套了个 UI 的 API 调用 - 真正的高溢价需要：强品牌"
 resource: "https://x.com/i/status/2047324764902244672"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2047324764902244672"
+created: "2026-04-23"
+updated: "2026-06-26"
+sha256: "c62ff88d9b2665cb55e5f8714d61440d51964943b9a24b8d036fc6e77d49309b"
+sources:
+  - "/sources/news/2026-04-24/00__vista8__ai应用层本质是-token差价-高级餐厅比喻撕开商业化皇帝的新衣.md"
 ---
 
 # AI应用层本质是「Token差价」？高级餐厅比喻撕开商业化皇帝的新衣

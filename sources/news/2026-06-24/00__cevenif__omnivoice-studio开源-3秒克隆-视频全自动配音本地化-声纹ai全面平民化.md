@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "OmniVoice Studio开源：3秒克隆+视频全自动配音本地化，声纹AI全面平民化"
 description: "**本地化语音AI工具落地：零联网零费用，声纹克隆+视频配音门槛归零**  - 喂3秒音频即可精准克隆任意人声，支持跨语言合成；输入视频链接自动完成\"提取—翻译—配音—合成—导出MP4\"全流程 - 全局热键实时语音转文字自动粘贴；智能音轨分离可干净去除背景音乐；支持批量50个视频后台处理 - 跨平台开箱即用（Mac/Win/Linux），是当前声纹克隆工具中最低门槛的开源方案   gakki锐评："
 resource: "https://x.com/i/status/2069536110263549995"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2069536110263549995"
+created: "2026-06-23"
+updated: "2026-06-26"
+sha256: "1c73037b3d26040147fee637fe57e56dc247e68e2d8ae3030d03dfb9f82123ec"
+sources:
+  - "/sources/news/2026-06-24/00__cevenif__omnivoice-studio开源-3秒克隆-视频全自动配音本地化-声纹ai全面平民化.md"
 ---
 
 # OmniVoice Studio开源：3秒克隆+视频全自动配音本地化，声纹AI全面平民化

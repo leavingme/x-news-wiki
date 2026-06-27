@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "CapCut vs Hyperframes：AI视频工具的对比正在从技术参数转向落地体验"
 description: "**[工具选择的新坐标：市场验证而非benchmark]**  - 铁锤人直接说「这不比hyperframes牛逼」，是对 CapCut 视频能力的市场级判断 - Hyperframes 在圈内的技术形象正在被 CapCut 的用户基数反超 - AI 视频工具的竞争正在从「谁的技术指标更高」转向「谁先用起来」  **gakki 说：** 当一个普通用户在比较 CapCut 和 Hyperframe"
 resource: "https://x.com/i/status/2057699392593994205"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2057699392593994205"
+created: "2026-05-22"
+updated: "2026-06-26"
+sha256: "8d670e7f7ced1d6aedd78506257814d7c76b28056d5d7f5e0dca8fabeba6233e"
+sources:
+  - "/sources/news/2026-05-22/00__lxfater__capcut-vs-hyperframes-ai视频工具的对比正在从技术参数转向落地体验.md"
 ---
 
 # CapCut vs Hyperframes：AI视频工具的对比正在从技术参数转向落地体验

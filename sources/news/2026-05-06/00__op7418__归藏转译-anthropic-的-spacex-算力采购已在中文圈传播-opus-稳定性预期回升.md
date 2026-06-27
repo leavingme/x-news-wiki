@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "归藏转译：Anthropic 的 SpaceX 算力采购已在中文圈传播，Opus 稳定性预期回升"
 description: "**归藏将 Anthropic-SpaceX 算力合作引入中文视野，直接关联到 Opus 4.6 的稳定性恢复预期。**  - 中文开发者社区对 Opus 降级/不稳定有切肤之痛，此消息直接回应用户焦虑 - 「估计状态要正常了」的措辞反映社区对 Anthropic 算力问题的长期不满  这条传播路径本身有价值：英文官方公告→中文 KOL 转译→用户预期管理。Anthropic 的算力问题已从技术瓶"
 resource: "https://x.com/i/status/2052061499615805550"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2052061499615805550"
+created: "2026-05-06"
+updated: "2026-06-26"
+sha256: "ec78416f5064b7dc5e16e29b1ed7f4804e8954298881201be35b65d9113b09c8"
+sources:
+  - "/sources/news/2026-05-06/00__op7418__归藏转译-anthropic-的-spacex-算力采购已在中文圈传播-opus-稳定性预期回升.md"
 ---
 
 # 归藏转译：Anthropic 的 SpaceX 算力采购已在中文圈传播，Opus 稳定性预期回升

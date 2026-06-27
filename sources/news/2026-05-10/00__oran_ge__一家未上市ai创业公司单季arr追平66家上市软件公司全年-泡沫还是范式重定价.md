@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "一家未上市AI创业公司单季ARR追平66家上市软件公司全年：泡沫还是范式重定价？"
 description: "**AI创业公司的收入增速正在用传统SaaS的估值框架失效。** - 一家未上市AI公司单季度干出66家上市软件公司一整年的ARR，这不是泡沫指标，而是需求侧真实爆发的信号 - 如果数据属实，说明AI工具的付费意愿和企业采购节奏远超市场预期，传统SaaS的「慢增长长周期」逻辑不再适用 - 市场对「泡沫」的恐惧本质上是对新范式缺乏估值锚点，而非基本面问题  锐评：当「泡沫」二字成为质疑者唯一的词汇时"
 resource: "https://x.com/i/status/2053426514583277618"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2053426514583277618"
+created: "2026-05-10"
+updated: "2026-06-26"
+sha256: "2b1053eca1282138a493ee3984213d9c1875121b2ad643986f242643f05499ee"
+sources:
+  - "/sources/news/2026-05-10/00__oran_ge__一家未上市ai创业公司单季arr追平66家上市软件公司全年-泡沫还是范式重定价.md"
 ---
 
 # 一家未上市AI创业公司单季ARR追平66家上市软件公司全年：泡沫还是范式重定价？

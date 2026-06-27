@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Perle 上线 Coinbase：Web3 版 Scale AI 的链上数据验证逻辑已通过市场检验"
 description: "**[数据可信性问题的 Web3 解法首次获得主流交易所背书]**  PerleLabs 的 $PRL 已上线 Coinbase，其核心逻辑是把人类多模态数据标注、审核、验证全程记录在 Solana 链上，形成可审计的数据来源和链上声誉系统。团队来自 Scale AI、Meta、MIT、Berkeley，已融资 1750 万美元。  • 关键差异：不同于传统 Web3 项目的\"叙事先于落地\"，Pe"
 resource: "https://x.com/i/status/2036844255935947163"
@@ -22,6 +22,13 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "ai-data-blockchain-verification"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2036844255935947163"
+created: "2026-03-25"
+updated: "2026-06-26"
+sha256: "efcf2f0539f7c247a2d57aca1fe67170d77d9f760ef03a42d45e3cfb2d325d93"
+sources:
+  - "/sources/highlights/2026-04-02/00__Steam_Diary123__perle-上线-coinbase-web3-版-scale-ai-的链上数据验证逻辑已通过市场检验.md"
 ---
 
 # Perle 上线 Coinbase：Web3 版 Scale AI 的链上数据验证逻辑已通过市场检验

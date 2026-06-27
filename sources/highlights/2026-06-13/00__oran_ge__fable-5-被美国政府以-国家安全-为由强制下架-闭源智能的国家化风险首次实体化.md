@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Fable 5 被美国政府以「国家安全」为由强制下架：闭源智能的国家化风险首次实体化"
 description: "**Anthropic Fable 5 突然全球下架，传闻由美国政府以国家安全理由要求执行，闭源模型第一次遭遇政府强制干预。**  - 关键细节：传闻不是企业主动召回，而是「政府以国家安全为由」要求下架；海外账号也无法使用 - 业内已出现 1000 美元求购账号的二手市场，Token 从「商品」正式退化为「限购战略物资」 - Orange AI 借此呼吁转向 DeepSeek/Kimi/GLM 开"
 resource: "https://x.com/i/status/2065717828557377624"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2065717828557377624"
+created: "2026-06-13"
+updated: "2026-06-26"
+sha256: "22f4caf16b6c77809470c1981a46de747f85a699fcb7244cffe60024b861d134"
+sources:
+  - "/sources/highlights/2026-06-13/00__oran_ge__fable-5-被美国政府以-国家安全-为由强制下架-闭源智能的国家化风险首次实体化.md"
 ---
 
 # Fable 5 被美国政府以「国家安全」为由强制下架：闭源智能的国家化风险首次实体化

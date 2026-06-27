@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "OpenAI 政变之夜内部短信首次曝光：Murati 称继任者为「不知名 Twitch 哥们」，Altman 曾提议微软直接收购"
 description: "**硅谷史上最戏剧化的权力斗争，一份内部短信把实时决策现场还原到了法庭。**  - Mira Murati 与 Altman 的短信首次公开：董事会周日深夜态度彻底翻转，Murati 直接告知「他们已经决定了，就是不要你」 - 前 Twitch CEO Emmett Shear 被选为继任者，Murati 用「rando twitch guy」形容，暴露对仓促决定的荒谬感 - Altman 当晚提"
 resource: "https://x.com/i/status/2052255174706479349"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2052255174706479349"
+created: "2026-05-07"
+updated: "2026-06-26"
+sha256: "23353a479fa54874927f74dc6f4fb308e772ab006a19ff31a673b5d13bf77d8b"
+sources:
+  - "/sources/highlights/2026-05-07/00__dotey__openai-政变之夜内部短信首次曝光-murati-称继任者为-不知名-twitch-哥们-altman-曾提议微软直.md"
 ---
 
 # OpenAI 政变之夜内部短信首次曝光：Murati 称继任者为「不知名 Twitch 哥们」，Altman 曾提议微软直接收购

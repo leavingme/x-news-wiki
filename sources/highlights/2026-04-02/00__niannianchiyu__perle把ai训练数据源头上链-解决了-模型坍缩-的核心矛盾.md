@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Perle把AI训练数据源头上链：解决了「模型坍缩」的核心矛盾"
 description: "**一句话核心判断：AI圈最大的隐性危机——用合成数据反复训练导致模型退化——有了工程化解法：专家标注数据上链溯源。Scale AI团队下场，让这件事从概念变成了可落地的基建。**  - **核心矛盾**：现在AI圈大量用AI合成数据训练模型，循环往复导致「模型坍缩」质量下降。Perle的解法是找医生、语言学家、工程师做专家标注，每条上Solana链，从数据源头卡质量。 - **规模验证**：两个"
 resource: "https://x.com/i/status/2036803057712013734"
@@ -22,6 +22,13 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "ai-data-blockchain-verification"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2036803057712013734"
+created: "2026-03-25"
+updated: "2026-06-26"
+sha256: "dcb2cc0d8810d2177bdcc19e5d33e81ea3992d01522c5550946555d029434d8a"
+sources:
+  - "/sources/highlights/2026-04-02/00__niannianchiyu__perle把ai训练数据源头上链-解决了-模型坍缩-的核心矛盾.md"
 ---
 
 # Perle把AI训练数据源头上链：解决了「模型坍缩」的核心矛盾

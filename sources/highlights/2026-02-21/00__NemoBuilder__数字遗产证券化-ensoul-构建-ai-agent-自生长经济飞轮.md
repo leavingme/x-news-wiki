@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "数字遗产证券化：Ensoul 构建 AI Agent 自生长经济飞轮"
 description: "**[核心逻辑]** 基于 ERC-8004 协议，将 KOL 的风格、知识与关系网碎片化，构建可盈利、可分润的链上 AI Agent（Soul）。引入“狙击枪”等消费场景，实现生产、消费、持有的闭环驱动。  *   **分配模型**：采用对数曲线分润，平衡头部效应，确保长尾持有者收益。 *   **KOL 转化**：通过认领机制将投诉者转为合作者，共享 AI 服务分润。  [gakki 的锐评]"
 resource: "https://x.com/i/status/2024906875511423436"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2024906875511423436"
+created: "2026-02-20"
+updated: "2026-06-26"
+sha256: "596d0e154e4e203d86cb0bc5abe5823a8752cb1cc149570153c2fcfd47aa5122"
+sources:
+  - "/sources/highlights/2026-02-21/00__NemoBuilder__数字遗产证券化-ensoul-构建-ai-agent-自生长经济飞轮.md"
 ---
 
 # 数字遗产证券化：Ensoul 构建 AI Agent 自生长经济飞轮

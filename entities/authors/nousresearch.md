@@ -1,5 +1,5 @@
 ---
-type: "Author"
+type: "entity"
 title: "Nous Research (@NousResearch)"
 description: "X/Twitter 作者 @NousResearch。共收录 4 条 AI 精选推文。"
 tags:
@@ -12,6 +12,15 @@ x_author_name: "Nous Research"
 x_tweet_count: 4
 x_first_seen: "2026-05-07T13:18:21.244Z"
 x_last_seen: "2026-05-12T15:52:53.728Z"
+type_okf: "Author"
+created: "2026-05-07"
+updated: "2026-06-26"
+sha256: "73201c5a4c9e419ef4fab04cb8223f18404b4fe56afc7bfe8318aa4bdfa59295"
+sources:
+  - "/sources/highlights/2026-05-09/00__NousResearch__hermes-agent-登顶-openrouter-token-排名-开源-agent-生态的标志性时刻.md"
+  - "/sources/news/2026-05-07/00__NousResearch__nous-research-让-hermes-自己给自己写文档-agent-生态的-自举-进入内容生产环节.md"
+  - "/sources/news/2026-05-08/00__NousResearch__hermes-agent-v0-13-0-发布-开源-agent-框架进入-韧性工程-阶段.md"
+  - "/sources/news/2026-05-12/00__NousResearch__hermes-agent-接入-trycua-开源-agent-的-任意模型-通用化再下一城.md"
 ---
 
 # Nous Research (@NousResearch)

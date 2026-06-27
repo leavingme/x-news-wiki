@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Claude Design 可作本地项目 Skill 运行：设计 Agent 进入工作流内嵌阶段"
 description: "**Claude Design 不再是独立工具，开始嵌入 Agent 工具链。** - 宝玉提示：可在本地项目中以 Skill 形式加载 Claude Design，进而调用其他 Skills - 配合 baoyu-design 的\"本地生成 + Cursor/Codex 浏览器预览 + 可编辑 PPTX 导出\"升级，设计生成能力开始与项目工作流深度耦合 - 内置浏览器标记功能支持二次修改，闭环\""
 resource: "https://x.com/i/status/2067674894649696429"
@@ -22,6 +22,13 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "claude-design-tool"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2067674894649696429"
+created: "2026-06-18"
+updated: "2026-06-26"
+sha256: "b9ef3271df1daf425b98e0abea93e7e0abbc98a7440816a70e780067d3e08cf0"
+sources:
+  - "/sources/news/2026-06-18/00__dotey__claude-design-可作本地项目-skill-运行-设计-agent-进入工作流内嵌阶段.md"
 ---
 
 # Claude Design 可作本地项目 Skill 运行：设计 Agent 进入工作流内嵌阶段

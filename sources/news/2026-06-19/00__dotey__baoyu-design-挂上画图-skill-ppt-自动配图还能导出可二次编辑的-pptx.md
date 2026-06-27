@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "baoyu-design 挂上画图 Skill：PPT 自动配图还能导出可二次编辑的 PPTX"
 description: "**宝玉把设计 Skill 拆成「画图+排版」两条可组合管线**  - baoyu-design 升级：可在制作 PPT/动画/网站时自动调用 AI 生图配图 - Codex 用户走内置画图工具，Claude Code 用户配 baoyu-image-gen Skill 调用 Codex CLI - 关键能力：图片跟着 PPT 一起导出为 .pptx，可在 PowerPoint/Keynote 二"
 resource: "https://x.com/i/status/2067876611873964284"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2067876611873964284"
+created: "2026-06-19"
+updated: "2026-06-26"
+sha256: "241a899fe3aba5a0480d4f33d2ba63f1d333eddf6da9509c5915c1a4253abd41"
+sources:
+  - "/sources/news/2026-06-19/00__dotey__baoyu-design-挂上画图-skill-ppt-自动配图还能导出可二次编辑的-pptx.md"
 ---
 
 # baoyu-design 挂上画图 Skill：PPT 自动配图还能导出可二次编辑的 PPTX

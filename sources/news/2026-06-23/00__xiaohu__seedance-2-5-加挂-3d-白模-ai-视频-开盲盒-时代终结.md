@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Seedance 2.5 加挂 3D 白模：AI 视频「开盲盒」时代终结"
 description: "**[Seedance 2.5 支持 3D 白模输入，AI 视频生成可控性补完]** - 3D 白模作为输入意味着姿态/构图/运动轨迹可精确指定 - 解决了「AI 视频抽卡」核心痛点，创作者首次拥有「可导演」能力 - 与 Sora 2 Character Consistency / 可灵 1.6 进入同代可控性竞争  gakki 锐评：白模是工业级管线语言，Seedance 接住它意味着对接 Ma"
 resource: "https://x.com/i/status/2069242538498851114"
@@ -22,6 +22,13 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "open-source-video-generation-leap"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2069242538498851114"
+created: "2026-06-23"
+updated: "2026-06-26"
+sha256: "cbad1a8d3013c301dcad34e5cb67af702442f78b3c312a730f82eecacf2d037a"
+sources:
+  - "/sources/news/2026-06-23/00__xiaohu__seedance-2-5-加挂-3d-白模-ai-视频-开盲盒-时代终结.md"
 ---
 
 # Seedance 2.5 加挂 3D 白模：AI 视频「开盲盒」时代终结

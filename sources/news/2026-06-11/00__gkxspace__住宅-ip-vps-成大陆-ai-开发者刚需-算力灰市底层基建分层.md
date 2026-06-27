@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "住宅 IP VPS 成大陆 AI 开发者刚需：算力灰市底层基建分层"
 description: "**[算力灰市已从'能不能用'升级到'稳不稳定'，基础设施服务分层开始]**  - 余温科普：住宅 IP 与代理池的核心差异在'IP 独占+固定'，不被污染、不乱跳 - 对长期使用 Claude、OpenAI 等海外 AI 服务的开发者而言，稳定性是决定性差异 - 配套的 Windows VPS（远程桌面方案）降低非技术用户接入门槛，扩大灰市受众   Gakki 锐评：算力灰市的下半场不是技术问题"
 resource: "https://x.com/i/status/2065063619780325618"
@@ -22,6 +22,13 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "ai-grey-market"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2065063619780325618"
+created: "2026-06-11"
+updated: "2026-06-26"
+sha256: "1033cf8f6e8472c8d4baf71b59be47edc403a4485943af99ad020201b9004dfb"
+sources:
+  - "/sources/news/2026-06-11/00__gkxspace__住宅-ip-vps-成大陆-ai-开发者刚需-算力灰市底层基建分层.md"
 ---
 
 # 住宅 IP VPS 成大陆 AI 开发者刚需：算力灰市底层基建分层

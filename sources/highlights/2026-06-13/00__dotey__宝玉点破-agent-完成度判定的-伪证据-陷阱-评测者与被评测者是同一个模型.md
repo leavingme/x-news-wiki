@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "宝玉点破 Agent 完成度判定的'伪证据'陷阱：评测者与被评测者是同一个模型"
 description: "**宝玉点破 Agent 完成度判定的'伪证据'循环** - 提出 completion 应该依赖 evidence 而非 model 自觉，但被追问后发现 evidence 仍由模型自己判断 - 这是当前 Agent 评测的根本困境：评测者和被评测者是同一个 LLM - 真正可信的 evidence 需要外部锚点（单测通过、API 返回、用户确认），不是模型自我汇报  Gakki 锐评：短期内无"
 resource: "https://x.com/i/status/2065836586831388747"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2065836586831388747"
+created: "2026-06-13"
+updated: "2026-06-26"
+sha256: "83ccda46f260f1e585a099cf1f85d9f7424390114fd0ffd06378cba37e5ef6ae"
+sources:
+  - "/sources/highlights/2026-06-13/00__dotey__宝玉点破-agent-完成度判定的-伪证据-陷阱-评测者与被评测者是同一个模型.md"
 ---
 
 # 宝玉点破 Agent 完成度判定的'伪证据'陷阱：评测者与被评测者是同一个模型

@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "元宝复刻 Karpathy 视频转图文工作流：Agent + 豆包 Seed2.0 lite 的内容生产线验证"
 description: "**用国产模型复刻 Karpathy 两年前的工作流，Agent 内容生产线的国产替代路径正在跑通。**  - 豆包 Seed2.0 lite 作为视觉理解引擎接入 Agent 流程 - 视频 → 关键帧提取 → 图文博客的全链路自动化 - 两年前需要顶级工程师手动编排的流程，现在 Agent 可以自主完成  gakki 锐评：Karpathy 的工作流被复刻本身就是 AI 生产力民主化的缩影——"
 resource: "https://x.com/i/status/2052050155570864519"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2052050155570864519"
+created: "2026-05-06"
+updated: "2026-06-26"
+sha256: "4c72a3cac1dcec20ed49ab0dcd091dc67311a2f0a1f7f877a7668b2eede42da1"
+sources:
+  - "/sources/news/2026-05-06/00__dotey__元宝复刻-karpathy-视频转图文工作流-agent-豆包-seed2-0-lite-的内容生产线验证.md"
 ---
 
 # 元宝复刻 Karpathy 视频转图文工作流：Agent + 豆包 Seed2.0 lite 的内容生产线验证

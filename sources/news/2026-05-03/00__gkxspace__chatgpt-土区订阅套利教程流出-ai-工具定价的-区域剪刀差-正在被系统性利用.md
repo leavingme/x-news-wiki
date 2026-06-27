@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "ChatGPT 土区订阅套利教程流出：AI 工具定价的「区域剪刀差」正在被系统性利用"
 description: "**AI 订阅定价存在显著区域套利空间，土耳其区成为中文用户的新价格洼地。**  - 余温分享了完整的土区订阅操作链路：申请土耳其账号 → 购买礼品卡 → 完成订阅 - 这并非个例，类似的价格套利在 Spotify、YouTube Premium 等订阅服务中早已形成成熟灰产 - AI 工具的高订阅成本（Claude Pro $20/月、ChatGPT Plus $20/月）正在倒逼用户寻找替代支"
 resource: "https://x.com/i/status/2050894139219190270"
@@ -22,6 +22,13 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "ai-tool-subscription-value"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2050894139219190270"
+created: "2026-05-03"
+updated: "2026-06-26"
+sha256: "941f225618fa626b030001cad85364ddc0bc80e4a5ee504ec1bb04cbc489ba75"
+sources:
+  - "/sources/news/2026-05-03/00__gkxspace__chatgpt-土区订阅套利教程流出-ai-工具定价的-区域剪刀差-正在被系统性利用.md"
 ---
 
 # ChatGPT 土区订阅套利教程流出：AI 工具定价的「区域剪刀差」正在被系统性利用

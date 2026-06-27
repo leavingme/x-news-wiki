@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "智能体工程的 8 个等级：从玩具到「数字员工」的演进路线图"
 description: "**[Agent 能力分层标准正在形成，工程化进入可度量阶段]**  • 系统性框架将 agent 能力划分为 8 个递进层级，从简单调用到自主决策 • 为团队评估 agent 成熟度提供基准，避免「agent  washing」混淆视听 • 暗示行业共识：agent 不是功能开关，而是需要持续工程投入的能力阶梯  **gakki 锐评**：终于有人给 agent 能力划了及格线——这会让很多自称"
 resource: "https://x.com/i/status/2033441957985280451"
@@ -22,6 +22,13 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "agent-engineering-vs-product"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2033441957985280451"
+created: "2026-03-16"
+updated: "2026-06-26"
+sha256: "f3741f7a489b12362c713f869b3000d0957ef85c1e12be1493118640b33b3ba6"
+sources:
+  - "/sources/news/2026-03-16/00__dotey__智能体工程的-8-个等级-从玩具到-数字员工-的演进路线图.md"
 ---
 
 # 智能体工程的 8 个等级：从玩具到「数字员工」的演进路线图

@@ -1,5 +1,5 @@
 ---
-type: "Author"
+type: "entity"
 title: "victor-wu.eth (@victor_wu)"
 description: "X/Twitter 作者 @victor_wu。共收录 1 条 AI 精选推文。"
 tags:
@@ -12,6 +12,12 @@ x_author_name: "victor-wu.eth"
 x_tweet_count: 1
 x_first_seen: "2026-03-05T09:52:48.769Z"
 x_last_seen: "2026-03-05T09:52:48.769Z"
+type_okf: "Author"
+created: "2026-03-05"
+updated: "2026-06-26"
+sha256: "320aff46f6e9f473ea102cf2b7e69edc18d4e9a672123f7aee34122792f80df4"
+sources:
+  - "/sources/news/2026-03-05/88__victor_wu__claude-code的skill-creator-a-b测试思维正在重塑ai工具设计基准.md"
 ---
 
 # victor-wu.eth (@victor_wu)

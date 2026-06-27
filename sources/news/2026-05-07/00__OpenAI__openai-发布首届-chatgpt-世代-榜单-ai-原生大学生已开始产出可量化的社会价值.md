@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "OpenAI 发布首届「ChatGPT 世代」榜单：AI 原生大学生已开始产出可量化的社会价值"
 description: "**OpenAI 用 26 个真实案例宣告：第一批与 AI 共同成长的大学生已经毕业，且产出远超「辅助写论文」的刻板印象。**  - 入选案例涵盖天文测绘（150万未知天体）、灾后搜救（穿墙检测）、语言保护等高难度应用 - 「首届完整四年都有 ChatGPT 陪伴的毕业生」——这是一个时代标签，不是产品 PR - 1亿+可搜索星系图像、500万磅食物重定向——数字密度远超常规校招宣传  锐评：Op"
 resource: "https://x.com/OpenAI/status/2052086313797705954"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "ai-trend-digest"
+type_okf: "X Tweet"
+source_url: "https://x.com/OpenAI/status/2052086313797705954"
+created: "2026-05-06"
+updated: "2026-06-26"
+sha256: "0e1a5b80a96c186aa82bf44a4a3c675d51b8d1bd0d7762cdb144866e30ab8d21"
+sources:
+  - "/sources/news/2026-05-07/00__OpenAI__openai-发布首届-chatgpt-世代-榜单-ai-原生大学生已开始产出可量化的社会价值.md"
 ---
 
 # OpenAI 发布首届「ChatGPT 世代」榜单：AI 原生大学生已开始产出可量化的社会价值

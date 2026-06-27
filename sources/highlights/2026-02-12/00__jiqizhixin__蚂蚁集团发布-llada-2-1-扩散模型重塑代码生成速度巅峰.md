@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "蚂蚁集团发布 LLaDA 2.1：扩散模型重塑代码生成速度巅峰"
 description: "**[核心逻辑]** - 创新采用“Token 编辑系统”而非填空式生成，支持极速（Speedy）与高质量（Quality）模式切换。 - 100B 模型在 HumanEval+ 上跑出近 900 tokens/s 的恐怖速度。  [gakki 的锐评] 扩散模型在文本生成上的潜力终于被开发出来了。900 token 的秒出，这意味着你刚敲完回车，AI 就已经帮你写完了整个模块。"
 resource: "https://x.com/i/status/2021868479973060685"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2021868479973060685"
+created: "2026-02-12"
+updated: "2026-06-26"
+sha256: "e2cb18496e39fc069f2305d6e8eff689c3ff17e2dfd1b390a9df286754175097"
+sources:
+  - "/sources/highlights/2026-02-12/00__jiqizhixin__蚂蚁集团发布-llada-2-1-扩散模型重塑代码生成速度巅峰.md"
 ---
 
 # 蚂蚁集团发布 LLaDA 2.1：扩散模型重塑代码生成速度巅峰

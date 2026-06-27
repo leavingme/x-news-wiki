@@ -1,5 +1,5 @@
 ---
-type: "Author"
+type: "entity"
 title: "Fuli Luo (@_LuoFuli)"
 description: "X/Twitter 作者 @_LuoFuli。共收录 1 条 AI 精选推文。"
 tags:
@@ -12,6 +12,12 @@ x_author_name: "Fuli Luo"
 x_tweet_count: 1
 x_first_seen: "2026-04-28T16:17:54.687Z"
 x_last_seen: "2026-04-28T16:17:54.687Z"
+type_okf: "Author"
+created: "2026-04-28"
+updated: "2026-06-26"
+sha256: "bf5b57e2c90df5bc1fab37e7a093d2fafa10a80afa25a1d06a2f8afce9e7fcb2"
+sources:
+  - "/sources/news/2026-04-28/00___LuoFuli__小米-mimo-v2-5-pro-入局编程-agent-1t-参数-100t-免费-token-国产模型开始-算力赠品-.md"
 ---
 
 # Fuli Luo (@_LuoFuli)

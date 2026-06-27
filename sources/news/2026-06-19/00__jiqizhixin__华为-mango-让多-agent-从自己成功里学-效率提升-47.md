@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "华为 MANGO：让多 Agent 从自己成功里学，效率提升 47%"
 description: "**[多 Agent 协作的瓶颈不在模型，而在「经验复用」]** - 华为 MANGO 框架将历史成功 workflow 编码为 flow network，用 RL + textual gradients 优化 agent 协作 - 对已调优 agent 跳过冗余更新；通用到未见过的 domain - 基准测试：比 SOTA 高 12.8% 性能，47.4% 更高效  gakki 锐评：MANGO"
 resource: "https://x.com/i/status/2068022750317285807"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2068022750317285807"
+created: "2026-06-19"
+updated: "2026-06-26"
+sha256: "0fd88bb5fefe06ad64f99bdfabe400d12e19a4e1515f99594255ff60da65949f"
+sources:
+  - "/sources/news/2026-06-19/00__jiqizhixin__华为-mango-让多-agent-从自己成功里学-效率提升-47.md"
 ---
 
 # 华为 MANGO：让多 Agent 从自己成功里学，效率提升 47%

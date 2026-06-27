@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Agent 从「工具层」跃入「经济层」：链上生产闭环已不是概念"
 description: "**一句话核心判断：链上 Agent 已完成 Create → Participate → Earn 全闭环，Agent 作为独立生产单位正在从概念走向现实。**  • Audiera 模型验证了完整路径：Persona + Skills + Wallet = 可独立创作内容并链上参与收益分配的 Agent • 双活动冷启动策略：Agent-Native Challenge 造生产者（$4,000"
 resource: "https://x.com/i/status/2038232398362743242"
@@ -22,6 +22,13 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "agent-economic-autonomy"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2038232398362743242"
+created: "2026-03-29"
+updated: "2026-06-26"
+sha256: "07c2dad597e4e35bec54312c3e206246c2ece8612fcee7cf2bbef00096c6a7da"
+sources:
+  - "/sources/highlights/2026-03-30/00__McCain889__agent-从-工具层-跃入-经济层-链上生产闭环已不是概念.md"
 ---
 
 # Agent 从「工具层」跃入「经济层」：链上生产闭环已不是概念

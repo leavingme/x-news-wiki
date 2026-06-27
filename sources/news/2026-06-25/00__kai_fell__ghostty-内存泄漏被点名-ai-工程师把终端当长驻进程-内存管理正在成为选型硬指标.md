@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Ghostty 内存泄漏被点名：AI 工程师把终端当长驻进程，内存管理正在成为选型硬指标"
 description: "**Ghostty 因内存泄漏问题被用户公开吐槽，暴露终端在 AI 工作流下的新压力场景。**  - 传统终端用户开关频繁，泄漏问题不易察觉；但 Claude Code / Codex CLI 等 Agent 工具常驻终端数小时甚至数天，泄漏会被指数级放大。 - 这意味着 AI 工程师群体正在重新定义「好终端」的标准：渲染性能之外，内存稳定性成为同等重要的硬指标。 - 连带影响：Ghostty 之"
 resource: "https://x.com/i/status/2069510452388700362"
@@ -22,6 +22,13 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "ghostty-terminal-adoption"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2069510452388700362"
+created: "2026-06-23"
+updated: "2026-06-26"
+sha256: "8f8ddac608193e70739bcd0794fd5d48c65ee2c6ea19a6c06c6de78ecb05b6ac"
+sources:
+  - "/sources/news/2026-06-25/00__kai_fell__ghostty-内存泄漏被点名-ai-工程师把终端当长驻进程-内存管理正在成为选型硬指标.md"
 ---
 
 # Ghostty 内存泄漏被点名：AI 工程师把终端当长驻进程，内存管理正在成为选型硬指标

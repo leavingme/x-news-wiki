@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "VLM「权威洗白」攻击曝光：ETH Zurich用2016年老招式让GPT-5.4/Claude/Gemini集体说胡话"
 description: "**[ETH Zurich一篇论文把VLM安全底裤扒了下来：仅靠2016年就存在的PGD对抗扰动，就能让GPT-5.4、Claude Opus 4.6、Gemini 3、Grok 4.2以最高100%成功率输出与图像完全不符的虚假内容，且全程无需jailbreak或prompt injection。]**  - 攻击纯靠像素级微扰触发，跨四大厂商主力生产模型完全迁移，覆盖内容审核、新闻取证、自动驾"
 resource: "https://x.com/i/status/2065577892134973666"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2065577892134973666"
+created: "2026-06-12"
+updated: "2026-06-26"
+sha256: "06cfb4c5978195b6a17ce654ccbfef863be6ab48e9ce45f02996e037e49fe05e"
+sources:
+  - "/sources/highlights/2026-06-13/00__jiqizhixin__vlm-权威洗白-攻击曝光-eth-zurich用2016年老招式让gpt-5-4-claude-gemini集体说胡话.md"
 ---
 
 # VLM「权威洗白」攻击曝光：ETH Zurich用2016年老招式让GPT-5.4/Claude/Gemini集体说胡话

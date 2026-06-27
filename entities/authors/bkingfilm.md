@@ -1,5 +1,5 @@
 ---
-type: "Author"
+type: "entity"
 title: "导演BK｜游戏行业幕后 (@bkingfilm)"
 description: "X/Twitter 作者 @bkingfilm。共收录 3 条 AI 精选推文。"
 tags:
@@ -12,6 +12,14 @@ x_author_name: "导演BK｜游戏行业幕后"
 x_tweet_count: 3
 x_first_seen: "2026-03-25T12:44:14.093Z"
 x_last_seen: "2026-06-24T22:27:29.931Z"
+type_okf: "Author"
+created: "2026-03-25"
+updated: "2026-06-26"
+sha256: "e9465aa3ed635c2112e638670d2a8258336b2f1f6911e6d56cd62482a4d34a2c"
+sources:
+  - "/sources/news/2026-03-25/00__bkingfilm__张雪峰-实用主义教育论-遇上ai-教npc变成npc-而这刚好是ai要取代的人.md"
+  - "/sources/news/2026-03-29/00__bkingfilm__taptap-maker的-大厂围剿-拷问-独立ai游戏工具的护城河幻觉.md"
+  - "/sources/news/2026-06-24/00__bkingfilm__中国ai视频领先背后-语料丰富是盗版红利-内容生态反噬已经显现.md"
 ---
 
 # 导演BK｜游戏行业幕后 (@bkingfilm)

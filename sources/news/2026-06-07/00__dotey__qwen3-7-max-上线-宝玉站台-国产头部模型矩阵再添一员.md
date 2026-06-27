@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Qwen3.7-Max 上线:宝玉站台,国产头部模型矩阵再添一员"
 description: "**Qwen3.7-Max正式发布,宝玉作为多模型路由资深用户亲自站台。**  -国产头部模型矩阵持续扩容,Qwen 系列在宝玉的日常工具栈中已具备实战权重 -配合此前 Qwen3.6 Max / Qwen Preview 的迭代节奏,Qwen正在从\"备选项\"走向\"默认路由之一\" -宝玉转发意味着该模型在 Claude Code / Agent Coding场景的可替代性已被头部 KOL认可   "
 resource: "https://x.com/i/status/2063643814934290810"
@@ -22,6 +22,13 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "ai-multimodel-routing"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2063643814934290810"
+created: "2026-06-07"
+updated: "2026-06-26"
+sha256: "291e18def2f982c4534dc35572419635afeef3ab9ed4a8942a29a7851176696e"
+sources:
+  - "/sources/news/2026-06-07/00__dotey__qwen3-7-max-上线-宝玉站台-国产头部模型矩阵再添一员.md"
 ---
 
 # Qwen3.7-Max 上线:宝玉站台,国产头部模型矩阵再添一员

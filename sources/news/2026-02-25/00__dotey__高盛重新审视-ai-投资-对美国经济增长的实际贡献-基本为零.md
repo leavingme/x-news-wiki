@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "高盛重新审视 AI 投资：对美国经济增长的实际贡献“基本为零”"
 description: "**[核心逻辑]** 华尔街投行指出，尽管科技巨头在 AI 基础设施上掷以重金，但由于核心硬件依赖进口以及生产力提升尚未规模化，AI 暂未成为拉动 GDP 的实质引擎。  - 美国公司今年预计投资超 7000 亿美元用于数据中心和模型训练。 - 由于大量 GPU 等设备从海外（如台湾）进口，这部分支出在 GDP 核算中被扣除，未留在美国本土。 - NBER 调查显示，80% 的积极使用 AI 的企"
 resource: "https://x.com/i/status/2026115426061865230"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2026115426061865230"
+created: "2026-02-24"
+updated: "2026-06-26"
+sha256: "109429ed0450fe2b2048be8ecbaade1e783e0f11f8ff000afde29902409f0afe"
+sources:
+  - "/sources/news/2026-02-25/00__dotey__高盛重新审视-ai-投资-对美国经济增长的实际贡献-基本为零.md"
 ---
 
 # 高盛重新审视 AI 投资：对美国经济增长的实际贡献“基本为零”

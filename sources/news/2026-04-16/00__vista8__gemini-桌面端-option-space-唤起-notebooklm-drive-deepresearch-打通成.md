@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Gemini 桌面端 Option+Space 唤起：NotebookLM+Drive+DeepResearch 打通成超级入口"
 description: "**[Google 正在把 Gemini 做成 AI 原生桌面 OS 的雏形]**  - Gemini 桌面客户端可用快捷键唤起小窗口，调用 NotebookLM、云端硬盘、DeepResearch，同时支持生图/生视频/生音乐 - 整合 Youtube、搜索实现个性化，数据流转比竞品更顺畅；屏幕共享仅支持窗口级别（暂不支持全局） - 评测者评价\"除了界面粗糙，好产品\"——Google 在 AI "
 resource: "https://x.com/i/status/2044565458154885528"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2044565458154885528"
+created: "2026-04-15"
+updated: "2026-06-26"
+sha256: "77f7d099a0ceb080251c4ec9eb53e8f8bb423b525ae80ff3ed877843a2eb6bf7"
+sources:
+  - "/sources/news/2026-04-16/00__vista8__gemini-桌面端-option-space-唤起-notebooklm-drive-deepresearch-打通成.md"
 ---
 
 # Gemini 桌面端 Option+Space 唤起：NotebookLM+Drive+DeepResearch 打通成超级入口

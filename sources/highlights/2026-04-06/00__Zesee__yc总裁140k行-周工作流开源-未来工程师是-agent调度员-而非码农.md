@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "YC总裁140K行/周工作流开源：未来工程师是「Agent调度员」而非码农"
 description: "**[Garry Tan gst 工具开源：高频Agent调度的工程方法论首次完整披露]**  YC总裁Garry Tan开源私藏脚本gstack，核心设计：①内置CEO视角（/plan-ceo-review强制作业从产品策略出发，而非逻辑细节）；②记忆化Chromium状态维持（AI携带Cookie持续debug，免重复登录）；③固化顶级工程师审美标准的自动化review。他用这套工作流创下单周"
 resource: "https://x.com/i/status/2040841926123925763"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2040841926123925763"
+created: "2026-04-05"
+updated: "2026-06-26"
+sha256: "e729d3e61b56a93f56ce3abc6591a5d9017d9372315ce6169720d9fa4d07277f"
+sources:
+  - "/sources/highlights/2026-04-06/00__Zesee__yc总裁140k行-周工作流开源-未来工程师是-agent调度员-而非码农.md"
 ---
 
 # YC总裁140K行/周工作流开源：未来工程师是「Agent调度员」而非码农

@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Multica：Trello 看板任务分类从「人」变「Agent」，多 Agent 编排的视觉化尝试"
 description: "**[看板工具正在成为多 Agent 协作的标准入口，不是聊天界面]**  Multica 将类 Trello 的看板任务管理引入多 Agent 场景——任务分类从人变成了 Agent 智能体。亮点在于它直接集成 Claude Code、Codex CLI、Hermes 等本地 AI Coding 工具，用户无需额外付费即可驱动并行 AI 提效。执行细节可见的特性保留了人类掌控感，这是当前 Age"
 resource: "https://x.com/i/status/2056970184104301018"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2056970184104301018"
+created: "2026-05-20"
+updated: "2026-06-26"
+sha256: "1820a8a0c4973678ac22f431b71387294ed40eadab8b6164dd39e8d7b27487a9"
+sources:
+  - "/sources/news/2026-05-20/00__vista8__multica-trello-看板任务分类从-人-变-agent-多-agent-编排的视觉化尝试.md"
 ---
 
 # Multica：Trello 看板任务分类从「人」变「Agent」，多 Agent 编排的视觉化尝试

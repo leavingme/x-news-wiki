@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "OpenClaw 深度工作流：从“文件化”到“全自动化”的人生管理实验"
 description: "**[核心逻辑]** Michael Anti 分享基于 OpenClaw 的四个阶段：生活工作文件化、目标流程化、编程自动化、Heartbeat 提醒化。"
 resource: "https://x.com/i/status/2022145084020642162"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2022145084020642162"
+created: "2026-02-13"
+updated: "2026-06-26"
+sha256: "cc21438ef9bf5025ed170a9f3b0f1c52e5413cd2809407f6cf7a8658bd24aff5"
+sources:
+  - "/sources/highlights/2026-02-14/00__mranti__openclaw-深度工作流-从-文件化-到-全自动化-的人生管理实验.md"
 ---
 
 # OpenClaw 深度工作流：从“文件化”到“全自动化”的人生管理实验

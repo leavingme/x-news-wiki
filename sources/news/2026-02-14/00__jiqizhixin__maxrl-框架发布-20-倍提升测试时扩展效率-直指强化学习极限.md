@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "MaxRL 框架发布：20 倍提升测试时扩展效率，直指强化学习极限"
 description: "**[核心逻辑]** 多校联合推出 MaxRL，旨在解决标准 RL 无法找到最可能正确答案的基础局限。 - **技术创新**：通过采样驱动的方法弥合 RL 与最大似然之间的鸿沟，更直接地优化正确结果。 - **性能碾压**：Pareto 曲线全面超越现有方法，在相同算力下表现显著优于 GRPO。  [gakki 的锐评]：别只盯着模型大小了，推理侧的效率革命才是通往 AGI 的真捷径。MaxRL "
 resource: "https://x.com/i/status/2021997981504074194"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2021997981504074194"
+created: "2026-02-12"
+updated: "2026-06-26"
+sha256: "ca2b5674c09776c01dcab95ac1ba4e9b84f9916f6ac5be8821b39efdca28504d"
+sources:
+  - "/sources/news/2026-02-14/00__jiqizhixin__maxrl-框架发布-20-倍提升测试时扩展效率-直指强化学习极限.md"
 ---
 
 # MaxRL 框架发布：20 倍提升测试时扩展效率，直指强化学习极限

@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "AI降本幻觉：大公司用AI压缩工时，最终只会导致裁员或放弃AI"
 description: "**[AI在大型组织的真实产出是负向的，除非能找到新业务]**  核心论点：若大公司工作量固定，AI将8小时压缩到4小时，Token成本反而上升。最终只有两条路——裁员省成本，或弃用AI省成本。  信息增量：传统观点认为AI提升效率，Orange AI指出了一个被忽视的隐性成本——Token消耗。AI不是线性提升产出，而是在固定工作量下增加了成本项。  对谁有影响：所有试图通过AI\"降本增效\"的大"
 resource: "https://x.com/i/status/2059760321083097134"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2059760321083097134"
+created: "2026-05-27"
+updated: "2026-06-26"
+sha256: "0b4ce107dcdbf5a00f2bb1167650ff096e75b48c9e6133b65fffe7a320b53162"
+sources:
+  - "/sources/news/2026-05-27/00__oran_ge__ai降本幻觉-大公司用ai压缩工时-最终只会导致裁员或放弃ai.md"
 ---
 
 # AI降本幻觉：大公司用AI压缩工时，最终只会导致裁员或放弃AI

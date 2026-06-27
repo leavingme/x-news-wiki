@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "同一模型、同一Benchmark，换个Harness从42%暴涨到78%——AI工程的真正变量浮出水面"
 description: "**[一句话核心判断]** MIT/Harvard联合研究发现：包裹在模型外的规则、工具、技能文件和反馈循环（即「Harness」）才是决定AI表现的关键变量，而非模型本身。  **要点：** - 核心发现：Harness Engineering是AI工程的新学科，不完全依赖模型能力 - 五个配置杠杆：系统提示(60行以内硬规则)、Skills(渐进式知识披露)、MCP(≤3个)、Sub-agen"
 resource: "https://x.com/i/status/2037332209003282747"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2037332209003282747"
+created: "2026-03-27"
+updated: "2026-06-26"
+sha256: "090cea4ac8f06a53b2e2d3b176e1a4b9e4ed4a04f8fd74b9a9b87f57fc488a75"
+sources:
+  - "/sources/highlights/2026-04-13/00__chenchengpro__同一模型-同一benchmark-换个harness从42-暴涨到78-ai工程的真正变量浮出水面.md"
 ---
 
 # 同一模型、同一Benchmark，换个Harness从42%暴涨到78%——AI工程的真正变量浮出水面

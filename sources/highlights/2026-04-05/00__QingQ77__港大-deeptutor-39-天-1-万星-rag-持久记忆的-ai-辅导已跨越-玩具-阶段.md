@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "港大 DeepTutor 39 天 1 万星：RAG+持久记忆的 AI 辅导已跨越「玩具」阶段"
 description: "**[一句话核心判断]**  DeepTutor 证明 AI 个性化辅导不再是概念——5 种模式共享同一上下文、TutorBot 独立记忆人格、Guided Learning 自动生成路径，39 天破万星说明市场对「真可用」教育 Agent 的饥渴。  - **信息增量**：RAG 知识库 + Persistent Memory 跨功能画像实现，真正让 AI 记住学生学习曲线而非每次从零开始 - "
 resource: "https://x.com/i/status/2040697950150537302"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2040697950150537302"
+created: "2026-04-05"
+updated: "2026-06-26"
+sha256: "468bd98c77ec8732e1f434b4c880743fe9e6b83f8fb4d016240de76443e5d8ae"
+sources:
+  - "/sources/highlights/2026-04-05/00__QingQ77__港大-deeptutor-39-天-1-万星-rag-持久记忆的-ai-辅导已跨越-玩具-阶段.md"
 ---
 
 # 港大 DeepTutor 39 天 1 万星：RAG+持久记忆的 AI 辅导已跨越「玩具」阶段

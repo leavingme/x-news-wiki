@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "中文字幕断句是伪需求：大模型重新定义SRT生产流水线"
 description: "**一句话核心判断：中文字幕生产的真实瓶颈不是语音识别，而是标点恢复与分块拼接的工程复杂度。**  要点： - Whisper输出的中文是\"一坨无标点\"文本，word level timestamp按词组而非单字对齐，分块还需避免截断句子中间 - 正确流程：单词级时间戳 → 大模型断句加标点 → 重新对齐时间戳 → 拆分，Agent可承担但Token消耗大 - Mac用户推荐WhisperKit，"
 resource: "https://x.com/i/status/2054609453467517363"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2054609453467517363"
+created: "2026-05-13"
+updated: "2026-06-26"
+sha256: "91020fa568aa30f20c079058f666f772ac05837d68502c6600c9ae78a5f3403d"
+sources:
+  - "/sources/news/2026-05-13/00__dotey__中文字幕断句是伪需求-大模型重新定义srt生产流水线.md"
 ---
 
 # 中文字幕断句是伪需求：大模型重新定义SRT生产流水线

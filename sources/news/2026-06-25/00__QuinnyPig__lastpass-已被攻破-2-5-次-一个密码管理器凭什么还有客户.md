@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "LastPass 已被攻破 2-5 次：一个密码管理器凭什么还有客户？"
 description: "**[Corey Quinn 锐评：安全产品反复失守却依然存活，是信任惯性还是别无选择]**  - LastPass 被反复攻破（2-5 次），但作为头部密码管理器仍拥有大量用户 - 揭示了一个反直觉事实：安全产品的市场地位与安全记录脱钩，用户粘性来自迁移成本而非安全本身 - 对 AI Agent 时代的启示：当 Agent 自主管理密钥、Token、API 凭据时，基础设施级的单点故障会被进一步"
 resource: "https://x.com/i/status/2069470214803038291"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2069470214803038291"
+created: "2026-06-23"
+updated: "2026-06-26"
+sha256: "5fad4e82bc961ee6cc84c45da7dbe4e994782e3c901593449bc5d88985051682"
+sources:
+  - "/sources/news/2026-06-25/00__QuinnyPig__lastpass-已被攻破-2-5-次-一个密码管理器凭什么还有客户.md"
 ---
 
 # LastPass 已被攻破 2-5 次：一个密码管理器凭什么还有客户？

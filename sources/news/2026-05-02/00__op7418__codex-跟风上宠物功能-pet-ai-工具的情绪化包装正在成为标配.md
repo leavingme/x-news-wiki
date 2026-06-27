@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Codex 跟风上宠物功能 /pet：AI 工具的情绪化包装正在成为标配"
 description: "**当严肃的编程 Agent 也开始养宠物，说明「工具人格化」已经从差异化竞争变成行业入场券。**  - Codex 上线 /pet 宠物功能，继 Claude Code 之后第二个主流动态 - 功能本质：通过游戏化元素提升用户粘性和使用时长 - 信号：AI 编程工具的底层能力趋同后，情感层交互成为新的竞争维度  gakki 说：/pet 功能看似 trivial，但背后是 AI 工具从「生产力」"
 resource: "https://x.com/i/status/2050388122811449405"
@@ -22,6 +22,13 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "claude-code-ecosystem"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2050388122811449405"
+created: "2026-05-02"
+updated: "2026-06-26"
+sha256: "c87e438cca6e82c31731aecefa9e8a80389cbea8b40864d4082e6f2db6232f38"
+sources:
+  - "/sources/news/2026-05-02/00__op7418__codex-跟风上宠物功能-pet-ai-工具的情绪化包装正在成为标配.md"
 ---
 
 # Codex 跟风上宠物功能 /pet：AI 工具的情绪化包装正在成为标配

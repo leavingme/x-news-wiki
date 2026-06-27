@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "小米1T参数奇袭：从Chat到Agent的无声范式跃迁"
 description: "**[国产大模型进入Agent原生架构竞争]** • 1T参数基座+百万级上下文+MTP推理，小米首个全栈Agent模型家族发布 • \"混合注意力\"架构成结构性优势，为Agent时代提前布局 • 内部强制令：团队日均Agent对话需达100轮，否则离职  小米的「硬指令」暴露了Agent时代的组织底层逻辑：不用Agent的人，不配做Agent的模型。"
 resource: "https://x.com/i/status/2034676907359576501"
@@ -22,6 +22,13 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "domestic-model-competition"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2034676907359576501"
+created: "2026-03-19"
+updated: "2026-06-26"
+sha256: "b5d41d34f1bc4a76e596a3a4baad20bb12b6cb1a11ea641bad88edf54774a165"
+sources:
+  - "/sources/highlights/2026-03-20/00__dotey__小米1t参数奇袭-从chat到agent的无声范式跃迁.md"
 ---
 
 # 小米1T参数奇袭：从Chat到Agent的无声范式跃迁

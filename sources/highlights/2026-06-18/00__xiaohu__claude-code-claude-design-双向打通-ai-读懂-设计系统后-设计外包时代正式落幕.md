@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Claude Code × Claude Design 双向打通：AI「读懂」设计系统后，设计外包时代正式落幕"
 description: "**[设计工具的 Agent-Native 重构：/design-sync 把画布和代码库的距离抹平]**  - 双向同步：/design-sync 把设计拉进代码库基于真实组件构建，/design 把代码推回画布继续编辑 - 关键升级：Claude Design 现可直接读 GitHub 组件定义、Figma 文件、品牌规范文档，生成时调用真实组件而非「模仿」 - 编辑器从纯对话进化到支持画布拖"
 resource: "https://x.com/i/status/2067405145558937664"
@@ -22,6 +22,13 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "claude-design-disruption"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2067405145558937664"
+created: "2026-06-18"
+updated: "2026-06-26"
+sha256: "3b0f111107b4ded2cd04d4b0a973f8c954f65cd09b99e99659b9fee7dbac89e9"
+sources:
+  - "/sources/highlights/2026-06-18/00__xiaohu__claude-code-claude-design-双向打通-ai-读懂-设计系统后-设计外包时代正式落幕.md"
 ---
 
 # Claude Code × Claude Design 双向打通：AI「读懂」设计系统后，设计外包时代正式落幕

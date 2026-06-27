@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "AI Agent 记忆原理拆解：从向量检索到持续性记忆的完整链路"
 description: "**[ Agent 记忆的系统性科普恰好填补了当前市场认知与工程现实之间的巨大落差]**  这篇从原理到实战的详细解释，在当前 Agent 概念炒作期提供了一次难得的工程层面的梳理：记忆不是单一技术，而是向量检索、短期上下文、长期持久化、记忆压缩与召回策略的组合系统。  对行业而言，这类基础原理内容的市场价值往往被低估——它决定了开发者能否做出正确的架构选择，也决定了投资人能否识别真正有记忆壁垒的"
 resource: "https://x.com/i/status/2054396603197505745"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2054396603197505745"
+created: "2026-05-13"
+updated: "2026-06-26"
+sha256: "f50e8f7c35bb1f1727ec2d9e0659734cd88ec42bb624a2452612a0ac8686c704"
+sources:
+  - "/sources/news/2026-05-13/00__lxfater__ai-agent-记忆原理拆解-从向量检索到持续性记忆的完整链路.md"
 ---
 
 # AI Agent 记忆原理拆解：从向量检索到持续性记忆的完整链路

@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "AI 使用“八荣八耻”：确立 AI 时代的人机协作底线"
 description: "**[核心逻辑]** 开发者社区总结 AI 使用规范，倡导透明、负责任的 AI 辅助创作模式。 - 核心提倡：以承认 AI 辅助为荣，以认真校对为荣，以分享 Prompt 为荣。 - 核心反对：以闭眼粘贴为耻，以假装原创为耻，以订阅后仅闲聊为耻。  [gakki 锐评：终于有人给 AI 时代定规矩了。不想被 AI 取代，得先学会像人一样优雅地调教它。]"
 resource: "https://x.com/i/status/2023143410291315182"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2023143410291315182"
+created: "2026-02-15"
+updated: "2026-06-26"
+sha256: "6d30f112fdac774ec76675bc4a99468ab6f99a8442257ab831c1440d61ee7874"
+sources:
+  - "/sources/news/2026-02-16/00__dotey__ai-使用-八荣八耻-确立-ai-时代的人机协作底线.md"
 ---
 
 # AI 使用“八荣八耻”：确立 AI 时代的人机协作底线

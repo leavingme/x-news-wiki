@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "800 行 Rust 终结「Agent 框架崇拜」：六层架构的生产级示范"
 description: "**[不是教你怎么用 Claude Code，是教你怎么用 22 个模式造一个 Claude Code]**  • **极简主义工程路线**：选代码审查场景（上下文管理+工具编排+提示词控制+权限安全+故障韧性+可观测性），用 800 行 Rust 覆盖 Agent 六层架构，每层都有实战落点。 • **工具链组合的认知价值**：揭示了真正差距——会 prompt 的人多，能把工程经验系统化成可复"
 resource: "https://x.com/i/status/2040448394175615130"
@@ -22,6 +22,13 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "agent-minimalist-implementation"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2040448394175615130"
+created: "2026-04-04"
+updated: "2026-06-26"
+sha256: "e768751566cdee538ab10bd40f13571e085e819a3ba6525af5b8c3da55c9e324"
+sources:
+  - "/sources/news/2026-04-05/00__blackanger__800-行-rust-终结-agent-框架崇拜-六层架构的生产级示范.md"
 ---
 
 # 800 行 Rust 终结「Agent 框架崇拜」：六层架构的生产级示范

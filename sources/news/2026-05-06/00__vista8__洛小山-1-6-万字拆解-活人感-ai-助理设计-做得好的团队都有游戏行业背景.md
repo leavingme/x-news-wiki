@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "洛小山 1.6 万字拆解「活人感」AI 助理设计：做得好的团队都有游戏行业背景"
 description: "**AI 助理的「活人感」不是 prompt trick，是一套完整的角色设计方法论，游戏行业从业者天然适配。**  - 1.6 万字实战长文，覆盖从人设构建到对话节奏的全流程 - 核心洞察：角色设计、情绪曲线、交互节奏——这些正是游戏 NPC 设计的核心技能 - 信号：AI 助理的竞争正在从「能答对」转向「聊得来」  gakki 锐评：当所有人都在卷模型能力时，真正拉开体验差距的是角色设计——这"
 resource: "https://x.com/i/status/2052027106410811473"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2052027106410811473"
+created: "2026-05-06"
+updated: "2026-06-26"
+sha256: "f49f56f6b22026f34e5729571bffbce3622e263c7b4654daa5930c39e6c32c98"
+sources:
+  - "/sources/news/2026-05-06/00__vista8__洛小山-1-6-万字拆解-活人感-ai-助理设计-做得好的团队都有游戏行业背景.md"
 ---
 
 # 洛小山 1.6 万字拆解「活人感」AI 助理设计：做得好的团队都有游戏行业背景

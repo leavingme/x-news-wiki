@@ -1,5 +1,5 @@
 ---
-type: "Concept"
+type: "concept"
 title: "vibe-coding-cognition-inflection"
 description: "跨日主题 \"vibe-coding-cognition-inflection\"，共 4 条相关精选推文。"
 tags:
@@ -11,6 +11,15 @@ x_topic_slug: "vibe-coding-cognition-inflection"
 x_tweet_count: 4
 x_first_seen: "2026-03-08T01:01:49.752Z"
 x_last_seen: "2026-06-19T22:19:03.629Z"
+type_okf: "Concept"
+created: "2026-03-08"
+updated: "2026-06-26"
+sha256: "ece1fb92d34ac28c3254af4b15e37fc54f66e95f05bf1d332f806a84f3c12aff"
+sources:
+  - "/sources/highlights/2026-03-08/95__austinit__ai编程的三重颠覆性判断-编辑器将死-代码质量廉价-编程技能贬值.md"
+  - "/sources/highlights/2026-03-14/78__yetone__vibe-coding-时代的-屏幕政治学-程序员卖显示器-非程序员买显示器.md"
+  - "/sources/news/2026-03-22/00__shengxj1__王自如48天vibe-coding实录-零技术背景产出10万行代码-自然语言编程-进入可验证阶段.md"
+  - "/sources/news/2026-06-19/00__dotey__宝玉定性-ai-slop-开发者反抗的是-ai-写完本人都不看-的-pr-黑洞.md"
 ---
 
 # 主题: vibe-coding-cognition-inflection

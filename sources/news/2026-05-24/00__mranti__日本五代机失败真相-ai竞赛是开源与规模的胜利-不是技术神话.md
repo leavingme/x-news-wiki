@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "日本五代机失败真相：AI竞赛是开源与规模的胜利，不是技术神话"
 description: "**[AI竞争的本质是开放与规模，不是技术先发]**  日本1980年代第五代计算机计划失败，核心原因是研究人数不足且封闭开发——CPU性能不够、没有开源协作、没有国际优势整合。中美当前在AI和机器人领域的进展，恰恰是靠研究人数众多、硬件到位、技术开发+各自利用优势才做成的。  关键教训：在AI领域，封闭开发的小队无法与开放生态的大军竞争，这不是技术差距，是组织模式差距。    gakki：「技术"
 resource: "https://x.com/i/status/2058563106893365693"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2058563106893365693"
+created: "2026-05-24"
+updated: "2026-06-26"
+sha256: "e02bf2fbb8fac3ef9b34556571a2ff9cc233d502cdc5c9d184f54d9fa1d33764"
+sources:
+  - "/sources/news/2026-05-24/00__mranti__日本五代机失败真相-ai竞赛是开源与规模的胜利-不是技术神话.md"
 ---
 
 # 日本五代机失败真相：AI竞赛是开源与规模的胜利，不是技术神话

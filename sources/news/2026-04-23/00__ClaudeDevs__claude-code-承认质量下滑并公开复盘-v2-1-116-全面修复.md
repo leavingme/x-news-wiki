@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Claude Code 承认质量下滑并公开复盘：v2.1.116+ 全面修复"
 description: "**「Claude Code 质量门」背后是一次被动的信任修复。**  过去一个月大量用户反馈质量下滑，官方调查后坦承三个问题：使用限制未重置、v2.1.116 存在质量回归、订阅者限额未正确刷新。全部在 v2.1.116+ 中修复并重置了所有用户的用量限制。  这不是简单的 bugfix——它暴露了一个关键信号：当 Agent 工具成为高频生产依赖时，「质量稳定性」比「功能迭代速度」更重要。Cl"
 resource: "https://x.com/ClaudeDevs/status/2047371123185287223"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "ai-trend-digest"
+type_okf: "X Tweet"
+source_url: "https://x.com/ClaudeDevs/status/2047371123185287223"
+created: "2026-04-23"
+updated: "2026-06-26"
+sha256: "1714f5368e733a6ad2291d579b94575f335f721a9c9c5c9d5b6e1e33321eef07"
+sources:
+  - "/sources/news/2026-04-23/00__ClaudeDevs__claude-code-承认质量下滑并公开复盘-v2-1-116-全面修复.md"
 ---
 
 # Claude Code 承认质量下滑并公开复盘：v2.1.116+ 全面修复

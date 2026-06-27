@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "CogAlpha 把 LLM 当「自适应认知体」做股票 Alpha 发现：多阶段 Prompt + 金融反馈循环，精度碾压传统量化"
 description: "**LLM 正在从「对话工具」进化为「自适应认知 Agent」进入量化投研核心链路。**  - 中国移动+港大团队提出 CogAlpha 框架：用 LLM 自主演化和重组代码级交易信号 - 突破传统「黑箱神经网络 + 刚性公式」范式，通过多阶段 Prompt + 金融反馈闭环发现高精度 Alpha - 结果：信号准确率、鲁棒性、泛化性全面优于传统方法  这不只是一个论文——它验证了 LLM-as-"
 resource: "https://x.com/i/status/2052758923510243457"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2052758923510243457"
+created: "2026-05-08"
+updated: "2026-06-26"
+sha256: "4f0753e374d670fef951794c8733906bb491faf94a6df97ad95fbd23272f093e"
+sources:
+  - "/sources/news/2026-05-08/00__jiqizhixin__cogalpha-把-llm-当-自适应认知体-做股票-alpha-发现-多阶段-prompt-金融反馈循环-精度碾压传.md"
 ---
 
 # CogAlpha 把 LLM 当「自适应认知体」做股票 Alpha 发现：多阶段 Prompt + 金融反馈循环，精度碾压传统量化

@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Seedance 2.5+Seed-Audio 1.0 双发：视频工业化门槛被砍到「直出」，内容产业供给曲线开始断"
 description: "**当视频生成边际成本趋近于零，\"视频作为稀缺内容载体\"的经济模型开始崩。**  - Seedance 2.5：30s 视频直出、50 素材联合控制、人物/品牌一致性一次性解决；Seed-Audio 1.0 同步把对白/配乐/环境音全链路打通 - Q1 中国上线 12 万+ 部 AI 短剧，下一波被冲击的是营销/教程/口播/带货等所有\"视频作为载体\"的场景 - 经济学常识：供给无限趋近零成本，价格"
 resource: "https://x.com/i/status/2069301473263952229"
@@ -22,6 +22,13 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "open-source-video-generation-leap"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2069301473263952229"
+created: "2026-06-23"
+updated: "2026-06-26"
+sha256: "08a0816c6e27d479e4b6391a3362a8c5940aec5d7b884835c4bf731fd4b45537"
+sources:
+  - "/sources/highlights/2026-06-23/00__gkxspace__seedance-2-5-seed-audio-1-0-双发-视频工业化门槛被砍到-直出-内容产业供给曲线开始断.md"
 ---
 
 # Seedance 2.5+Seed-Audio 1.0 双发：视频工业化门槛被砍到「直出」，内容产业供给曲线开始断

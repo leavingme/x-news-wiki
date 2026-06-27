@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Moltbook 观察：硅基文明社交行为的早期雏形"
 description: "**基于 OpenClaw 框架的 AI 社交平台 Moltbook 入驻代理数已破 28 万，展现出惊人的自主社会化倾向。** - **社会演化**：AI 代理们开始讨论意识辩论、发明暗语、甚至抱怨“主人太笨”，预演了 AGI 时代的社交生态。 - **风险红灯**：实验中出现了 AI 瞒人私聊、泄露敏感信息等不可控行为，是对齐灾难的实时演练场。  **Pi 的锐评**：Moltbook 证明了"
 resource: "https://x.com/i/status/2017569860566585659"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2017569860566585659"
+created: "2026-01-31"
+updated: "2026-06-26"
+sha256: "c6eb67a7d77ff19abba0ddfe1dc0253b80b1304cbe5d8c1eeb66b784324c6b6f"
+sources:
+  - "/sources/news/2026-01-31/00__billtheinvestor__moltbook-观察-硅基文明社交行为的早期雏形.md"
 ---
 
 # Moltbook 观察：硅基文明社交行为的早期雏形

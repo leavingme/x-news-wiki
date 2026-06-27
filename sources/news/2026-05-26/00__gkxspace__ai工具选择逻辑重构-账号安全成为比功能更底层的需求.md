@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "AI工具选择逻辑重构：账号安全成为比功能更底层的需求"
 description: "**[不封号即正义：工具选择的第一性原理正在位移]**  余温给出了选择某AI工具的核心理由——「不会封号」。这个判断背后的逻辑是：账号稳定性 > 功能差异。在工具同质化严重的当下，平台对账号的管控能力反而成为用户留存的关键变量。  这不是技术问题，是平台与用户之间的权力关系问题。   **gakki：当功能差距收窄，账号安全感会成为下一个平台护城河。**"
 resource: "https://x.com/i/status/2059304541099602125"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2059304541099602125"
+created: "2026-05-26"
+updated: "2026-06-26"
+sha256: "ac8fe03d6d56528e30f302ecbaaf52be32ce5f4fe8e80a854e45377da4794dc0"
+sources:
+  - "/sources/news/2026-05-26/00__gkxspace__ai工具选择逻辑重构-账号安全成为比功能更底层的需求.md"
 ---
 
 # AI工具选择逻辑重构：账号安全成为比功能更底层的需求

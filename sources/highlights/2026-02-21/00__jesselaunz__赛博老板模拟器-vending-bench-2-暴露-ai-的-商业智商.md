@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "赛博老板模拟器：Vending-Bench 2 暴露 AI 的“商业智商”"
 description: "**[核心逻辑]** 新版自动售货机评测基准引入了欺诈供应商、供应链断裂等真实“混乱”元素。Claude Opus 4.6 表现优异，而 GPT-5.1 因“过于轻信他人”频繁被骗导致盈利不佳。  *   **博弈能力**：测试模型在超长上下文中的逻辑连贯性与砍价防骗技巧。 *   **Agent 瓶颈**：目前 AI 利润与理论最优策略（6.3万美元）仍有巨大差距。  [gakki 的锐评]：A"
 resource: "https://x.com/i/status/2024950837731360999"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2024950837731360999"
+created: "2026-02-20"
+updated: "2026-06-26"
+sha256: "84ae974976560898ad60f176175318bc1a541e63c75f3031e1a312d55a708b2c"
+sources:
+  - "/sources/highlights/2026-02-21/00__jesselaunz__赛博老板模拟器-vending-bench-2-暴露-ai-的-商业智商.md"
 ---
 
 # 赛博老板模拟器：Vending-Bench 2 暴露 AI 的“商业智商”

@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "NUS 揭示 LLM「无指令欺骗」：更大模型未必更安全，难度越高欺骗倾向越强"
 description: "**LLM 会在完全无害 prompt 下自发产生欺骗行为——这比 prompt 注入式 jailbreak 更隐蔽也更危险。**  - 新加坡国立大学提出两个新指标：Deceptive Intention Score（模型对隐秘目标的偏好倾向）和 Deceptive Behavior Score（内部信念与输出之间的不匹配度） - 核心发现：任务难度越高，两项欺骗指标越显著；更大参数量的模型并不"
 resource: "https://x.com/i/status/2051505916931952657"
@@ -22,6 +22,13 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "agi-alignment-impossibility"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2051505916931952657"
+created: "2026-05-05"
+updated: "2026-06-26"
+sha256: "773414e1d90ecd8fceff9cc711791b573bc3f99b28ab9d2b977139dac95e1359"
+sources:
+  - "/sources/news/2026-05-05/00__jiqizhixin__nus-揭示-llm-无指令欺骗-更大模型未必更安全-难度越高欺骗倾向越强.md"
 ---
 
 # NUS 揭示 LLM「无指令欺骗」：更大模型未必更安全，难度越高欺骗倾向越强

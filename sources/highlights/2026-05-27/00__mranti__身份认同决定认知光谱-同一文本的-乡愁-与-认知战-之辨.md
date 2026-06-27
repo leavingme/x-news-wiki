@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "身份认同决定认知光谱：同一文本的「乡愁」与「认知战」之辨"
 description: "**[同一文本，两种解读，根源在身份认同]**  新加坡联合早报将《给阿嬷的情书》定性为统战宣传；大陆读者观看《海角七号》或布克奖小说《台湾漫游录》时会读出美化日殖时代的味道——这是同一内容触发截然不同解读的典型案例。  核心张力在于：身份认同的差异使得「吾之乡愁」与「彼之认知战」成为同一文本的镜像两面。文化消费从来不是纯美学行为，读者携带的政治坐标系决定了文本的最终含义。   **gakki：「"
 resource: "https://x.com/i/status/2059453720283496589"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2059453720283496589"
+created: "2026-05-27"
+updated: "2026-06-26"
+sha256: "5c0db81df2930423d60b15025ae6451d1d1330f7bd47ba69c224095e18d2325a"
+sources:
+  - "/sources/highlights/2026-05-27/00__mranti__身份认同决定认知光谱-同一文本的-乡愁-与-认知战-之辨.md"
 ---
 
 # 身份认同决定认知光谱：同一文本的「乡愁」与「认知战」之辨

@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "开发者启动DIY AI硬件项目"
 description: "原料到货，开始动手制作AI硬件设备，展示从软件Agent向物理智能延伸的实践路径，呼应具身智能的本土化探索趋势。"
 resource: "https://x.com/i/status/2027764187691368605"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2027764187691368605"
+created: "2026-02-28"
+updated: "2026-06-26"
+sha256: "5c541813aab256bdea592d3272106744c15de5fbb1e642bc98d4dcb7415a1e4f"
+sources:
+  - "/sources/news/2026-03-01/00__op7418__开发者启动diy-ai硬件项目.md"
 ---
 
 # 开发者启动DIY AI硬件项目

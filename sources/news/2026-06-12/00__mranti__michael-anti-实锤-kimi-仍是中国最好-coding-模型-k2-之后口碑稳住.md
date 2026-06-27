@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Michael Anti 实锤：Kimi 仍是中国最好 Coding 模型，K2 之后口碑稳住"
 description: "**海外视角盖章：Kimi K2 已经在 Coding 场景稳坐中国第一，「仍是」二字最关键。** - Michael Anti 公开回应：在中国大陆，Kimi 仍是最强 Coding 模型，用的人很多 - 「仍是」一词暗示此前已有「Kimi 不再领先」的传闻，但 Michael 用真实用户量回应 - Kimi K2 在 Cursor、Kimi-Coding 插件、独立开发者圈层的渗透是这一判断的"
 resource: "https://x.com/i/status/2065215793395282036"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2065215793395282036"
+created: "2026-06-11"
+updated: "2026-06-26"
+sha256: "d2b3db0e7761a5f87569fa4a00551f682fde7a311fb6703538c55f051e7ad8e6"
+sources:
+  - "/sources/news/2026-06-12/00__mranti__michael-anti-实锤-kimi-仍是中国最好-coding-模型-k2-之后口碑稳住.md"
 ---
 
 # Michael Anti 实锤：Kimi 仍是中国最好 Coding 模型，K2 之后口碑稳住

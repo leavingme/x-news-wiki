@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Grok Image 的「宽松审核」正在成为中文圈的特殊吸引力"
 description: "**[一句话核心判断]**  Michael Anti 的吐槽无意间揭示了 Grok Image 的差异化定位——在所有大厂收紧 NSFW 审核时，马斯克选择反其道而行，这正在成为特定用户群的行为入口。  **信息增量：** - 测试 AI 图像敏感度的专业用户（Grok 审核最松）正在形成小众但高活跃度的社群 - 「老婆问我在看什么」是男性用户的普遍焦虑，也是某种传播密码 - 这条推文本身被广泛"
 resource: "https://x.com/i/status/2047952910995403237"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2047952910995403237"
+created: "2026-04-25"
+updated: "2026-06-26"
+sha256: "4a8c95e3461e721e0d15f512444e43df53e627a163ebe63e7ee9f88c05d25abe"
+sources:
+  - "/sources/news/2026-04-25/00__mranti__grok-image-的-宽松审核-正在成为中文圈的特殊吸引力.md"
 ---
 
 # Grok Image 的「宽松审核」正在成为中文圈的特殊吸引力

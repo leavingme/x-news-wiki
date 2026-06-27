@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Claude Design 黑盒透明化：宝玉发布 HAR 解析器，打开 Prompt 调试通道"
 description: "【Claude Design 的二进制协议被社区工具撬开】 - 宝玉为研究 Claude Design 专门写了 HAR 文件解析工具，可解密传输的二进制内容 - 核心价值：开发者能直接看到 Claude Design 的请求 Prompt，打破\"看输出猜提示\"的猜测循环 - 与 OpenDesign、dbskill 等\"配方化\"趋势一脉相承，进一步压低 Claude Design 复刻门槛 - "
 resource: "https://x.com/i/status/2063475943402872982"
@@ -22,6 +22,13 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "claude-design-tool"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2063475943402872982"
+created: "2026-06-07"
+updated: "2026-06-26"
+sha256: "a5ff3274b4b8cfd89228f3722f66f80cf5af3eb39c2e26bbabcc24136578f9a5"
+sources:
+  - "/sources/news/2026-06-07/00__dotey__claude-design-黑盒透明化-宝玉发布-har-解析器-打开-prompt-调试通道.md"
 ---
 
 # Claude Design 黑盒透明化：宝玉发布 HAR 解析器，打开 Prompt 调试通道

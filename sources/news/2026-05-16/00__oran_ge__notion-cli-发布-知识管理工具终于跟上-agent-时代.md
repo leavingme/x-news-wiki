@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Notion CLI 发布：知识管理工具终于跟上 Agent 时代"
 description: "**[Notion 补上了 CLI 这一环，意味着本地 Agent 终于可以无缝接入知识库工作流]**  知识管理工具的 API 化程度直接决定了 Agent 能否把\"读笔记→决策→执行\"的闭环跑通。Notion CLI 的出现让这个链路在本地有了闭环可能。  值得注意的是，这是 Notion 官方出品而非第三方桥接，说明 Notion 自身也在往 Agent-Native 方向靠拢。  对于依赖"
 resource: "https://x.com/i/status/2055539910212460878"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2055539910212460878"
+created: "2026-05-16"
+updated: "2026-06-26"
+sha256: "83892bb2956f4963432dfd2a4b6d49b4695d590b0d5e5d4531e99e9c33d10240"
+sources:
+  - "/sources/news/2026-05-16/00__oran_ge__notion-cli-发布-知识管理工具终于跟上-agent-时代.md"
 ---
 
 # Notion CLI 发布：知识管理工具终于跟上 Agent 时代

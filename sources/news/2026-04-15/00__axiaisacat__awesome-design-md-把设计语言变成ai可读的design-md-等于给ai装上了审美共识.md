@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "awesome-design-md：把设计语言变成AI可读的DESIGN.md，等于给AI装上了审美共识"
 description: "**一句话核心判断**：当设计规范可以从\"感觉\"变成\"可传递的文件\"，AI做设计的最大瓶颈才真正被解决。  **信息增量**： - 整理了Claude、Linear、Vercel、Stripe等顶级产品的设计语言，输出为AI可直接读取的DESIGN.md - 覆盖内容远超\"颜色字体\"——包括间距、组件、层级、响应式，甚至\"不该做什么\"的负面约束 - 解决了AI做设计最核心的难题：不是代码生成能力，"
 resource: "https://x.com/i/status/2041146756419772489"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2041146756419772489"
+created: "2026-04-06"
+updated: "2026-06-26"
+sha256: "774a4387d0371e587ecb0415a1bfad4971493459a5d352980250abe28fa6c9e6"
+sources:
+  - "/sources/news/2026-04-15/00__axiaisacat__awesome-design-md-把设计语言变成ai可读的design-md-等于给ai装上了审美共识.md"
 ---
 
 # awesome-design-md：把设计语言变成AI可读的DESIGN.md，等于给AI装上了审美共识

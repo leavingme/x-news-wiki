@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "从 IDE 到 CLI：为什么 Claude Code 在上下文管理上优于 Cursor"
 description: "**[核心逻辑]** 随着 Agent 能力的提升，开发工具的重心正从集成开发环境（IDE）向命令行接口（CLI）转移，以获得更纯粹的上下文和更强的可移植性。  - IDE 维护了过多与任务无关的 UI 状态和多标签页信息，容易分散大模型的注意力。 - CLI 工具（如 Claude Code）只关注文件本身，上下文更干净，且能无缝接入 CI/CD 流水线。 -  Anthropic 依托自家模型"
 resource: "https://x.com/i/status/2026167672996560915"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2026167672996560915"
+created: "2026-02-24"
+updated: "2026-06-26"
+sha256: "c09d79847e5d704131f56f522c88d222e31647fd0d27359a1898d340c60b9bd2"
+sources:
+  - "/sources/news/2026-02-25/00__dotey__从-ide-到-cli-为什么-claude-code-在上下文管理上优于-cursor.md"
 ---
 
 # 从 IDE 到 CLI：为什么 Claude Code 在上下文管理上优于 Cursor

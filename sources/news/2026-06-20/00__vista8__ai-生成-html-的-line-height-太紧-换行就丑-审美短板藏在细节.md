@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "AI 生成 HTML 的 line-height 太紧：换行就丑，审美短板藏在细节"
 description: "**[AI 出页的「AI 味」细节：标题行高过紧导致换行即崩]**  要点： - AI 直接生成的 HTML 标题行高普遍偏紧 - 一旦文本换行，整体观感立刻变难看 - 这问题大量 AI 生成页面都有，但很少被明确指出   锐评：这种细节恰恰是「AI 味」最明显的来源之一。模型没学过中文排版美学默认值，下一步要么靠设计 Skill 固化最佳实践，要么靠 DESIGN.md 这类协议把审美前置。"
 resource: "https://x.com/i/status/2068336704193196432"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2068336704193196432"
+created: "2026-06-20"
+updated: "2026-06-26"
+sha256: "2b178ef7e6b0074aeef387560d9ce3068196c3da87b4fc8cd5bd2927440a156c"
+sources:
+  - "/sources/news/2026-06-20/00__vista8__ai-生成-html-的-line-height-太紧-换行就丑-审美短板藏在细节.md"
 ---
 
 # AI 生成 HTML 的 line-height 太紧：换行就丑，审美短板藏在细节

@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "玉伯：Copy和Compile的类比揭示了AI编程工具的核心范式差异"
 description: "**一句话核心判断**  Copy/Compile 类比正在成为从业者理解 AI 编程工具分化路径的底层框架，而非单纯的功能对比。  **信息增量** - Copy 类比指向「所见即所得」的确定性交付，适合明确需求 - Compile 类比指向「源文件到执行文件」的转化，适合模糊需求的探索 - 玉伯作为经历过早期互联网工具变迁的产品老兵，对这个框架的认可具有指标意义  **边界** 类比有边界：C"
 resource: "https://x.com/i/status/2061461153445019898"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2061461153445019898"
+created: "2026-06-01"
+updated: "2026-06-26"
+sha256: "e2184d4c2e65b274bcb6832f6ec4dea03fcc2303db73096f2904e522099a957b"
+sources:
+  - "/sources/news/2026-06-01/00__lifesinger__玉伯-copy和compile的类比揭示了ai编程工具的核心范式差异.md"
 ---
 
 # 玉伯：Copy和Compile的类比揭示了AI编程工具的核心范式差异

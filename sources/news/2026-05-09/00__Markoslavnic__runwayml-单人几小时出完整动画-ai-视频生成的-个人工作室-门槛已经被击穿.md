@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "RunwayML 单人几小时出完整动画：AI 视频生成的「个人工作室」门槛已经被击穿"
 description: "**当一个人能在几小时内用 AI 生成完整动画，内容产业的成本结构正在被重写。**  - Marko Slavnic 用 RunwayML 在几小时内完成整部动画制作，称「想象力是唯一瓶颈」 - 这不只是技术演示，而是验证了 AI 内容生成的「个人工作室」模式已经可以交付成品级质量 - 对内容产业的冲击：传统动画工作室的「人月」计量单位正在失效  当创作工具的效率提升到「小时」量级，竞争的核心从「"
 resource: "https://x.com/Markoslavnic/status/2052797538885902418"
@@ -22,6 +22,13 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "open-source-video-generation-leap"
 x_source: "ai-trend-digest"
+type_okf: "X Tweet"
+source_url: "https://x.com/Markoslavnic/status/2052797538885902418"
+created: "2026-05-08"
+updated: "2026-06-26"
+sha256: "3da6ad9a6541b9fe9c56fbaea19683c46733bc12e6270cc86ba1d9ed6a3d280f"
+sources:
+  - "/sources/news/2026-05-09/00__Markoslavnic__runwayml-单人几小时出完整动画-ai-视频生成的-个人工作室-门槛已经被击穿.md"
 ---
 
 # RunwayML 单人几小时出完整动画：AI 视频生成的「个人工作室」门槛已经被击穿

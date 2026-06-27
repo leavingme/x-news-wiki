@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "马斯克Terafab太空算力工厂：1TW年产能=全美年用电量2倍,AI算力上限被推到地月之间"
 description: "**[太空正从科研基础设施升级为AI算力主战场,马斯克用1TW级产能重新定义\"算力上限\"]** - Terafab占地约10亿平方英尺(特斯拉Giga Texas的10倍),算力供应约1TW/年,而美国当前年耗电量仅0.5TW - 首颗AI卫星:150kW峰值/120kW持续算力,70米翼展,110㎡液体散热器,激光链路取代Starlink的复杂通信系统 - 用Starlink现成太阳能阵列+月球"
 resource: "https://x.com/i/status/2064180799629598919"
@@ -22,6 +22,13 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "太空AI算力基础设施"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2064180799629598919"
+created: "2026-06-09"
+updated: "2026-06-26"
+sha256: "35508c9f04d41d0f1013d874f0488c69f60b5f108649782a9411ec0b87fabb01"
+sources:
+  - "/sources/highlights/2026-06-09/00__xiaohu__马斯克terafab太空算力工厂-1tw年产能-全美年用电量2倍-ai算力上限被推到地月之间.md"
 ---
 
 # 马斯克Terafab太空算力工厂：1TW年产能=全美年用电量2倍,AI算力上限被推到地月之间

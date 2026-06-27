@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Ponytail + Headroom 双剑合璧：输入输出两侧同时压减 Token"
 description: "[Agent 工具开始系统性地解决「输出侧浪费」，与 Headroom 的输入压缩形成闭环]  1. Ponytail 思路：强制 agent 在动手前过「能不写就不写 → 标准库优先 → 一行搞定」三级阶梯，避免 flatpickr 这类重型依赖，直接用 <input type=\"date\">。 2. 与 Headroom 互补关系明确：Headroom 砍输入侧 60-95% 上下文，Pony"
 resource: "https://x.com/i/status/2068665340486152572"
@@ -22,6 +22,13 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "ai-coding-token-optimization"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2068665340486152572"
+created: "2026-06-21"
+updated: "2026-06-26"
+sha256: "a20b2bb5f878e365d8ea96934ad95992fa217a4df881d8c24f7a11330a92d189"
+sources:
+  - "/sources/news/2026-06-21/00__gkxspace__ponytail-headroom-双剑合璧-输入输出两侧同时压减-token.md"
 ---
 
 # Ponytail + Headroom 双剑合璧：输入输出两侧同时压减 Token

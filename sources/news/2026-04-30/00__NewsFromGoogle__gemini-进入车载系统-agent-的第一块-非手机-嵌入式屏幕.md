@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Gemini 进入车载系统：Agent 的第一块「非手机」嵌入式屏幕"
 description: "**[Google 把 Gemini 推入车载环境，意味着 AI Agent 正式从手机/PC 延伸到「移动中的物理空间」。]**  - Gemini 开始向内置 Google 系统的汽车推送，支持自然语言对话获取车辆信息和应用操作 - 车载场景对延迟容忍度低、安全要求高，是 Agent 可靠性的硬考验 - 与手机 Agent 的区别：驾驶场景下用户双手受限，语音-first 的 Agent 交互"
 resource: "https://x.com/NewsFromGoogle/status/2049904153154232693"
@@ -22,6 +22,13 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "gemini-desktop-super-app-integration"
 x_source: "ai-trend-digest"
+type_okf: "X Tweet"
+source_url: "https://x.com/NewsFromGoogle/status/2049904153154232693"
+created: "2026-04-30"
+updated: "2026-06-26"
+sha256: "a8714e4e63ca271b25118f8c5e5ec1e6d0c7b7e0910547cedf74fa04d9e2b639"
+sources:
+  - "/sources/news/2026-04-30/00__NewsFromGoogle__gemini-进入车载系统-agent-的第一块-非手机-嵌入式屏幕.md"
 ---
 
 # Gemini 进入车载系统：Agent 的第一块「非手机」嵌入式屏幕

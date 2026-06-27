@@ -1,5 +1,5 @@
 ---
-type: "Concept"
+type: "concept"
 title: "product-definition-moat"
 description: "跨日主题 \"product-definition-moat\"，共 3 条相关精选推文。"
 tags:
@@ -11,6 +11,14 @@ x_topic_slug: "product-definition-moat"
 x_tweet_count: 3
 x_first_seen: "2026-06-15T16:18:49.176Z"
 x_last_seen: "2026-06-16T16:19:56.779Z"
+type_okf: "Concept"
+created: "2026-06-15"
+updated: "2026-06-26"
+sha256: "6d1f012ad46ca05efff11eda8ad49674324354367a6f8b52c126f169675257cc"
+sources:
+  - "/sources/highlights/2026-06-16/00__vista8__factory-ai-ceo-抛出四个反共识判断-开源吃-80-任务-工程师从写代码转向端到端业务-三年内-token-.md"
+  - "/sources/news/2026-06-15/00__lifesinger__玉伯引用-april-dunford-原图-产品定位思维再度现身-ai-圈.md"
+  - "/sources/news/2026-06-15/00__lifesinger__玉伯补刀产品哲学-一句说不清但想想能说清-才是-ai-时代大机会.md"
 ---
 
 # 主题: product-definition-moat

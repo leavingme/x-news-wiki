@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "RMS-MoE 用「专家记忆」把 MoE 延迟砍掉 26%，路由稳定性还提升了 3.3%"
 description: "**MoE 的核心缺陷被找到了：相似输入反复重算同一批专家。**  南京大学 + 马上消费金融 + 阿里团队提出 Co-Activation Memory 机制——记住历史最优专家组合，配合可学习门控与实时预测融合。在大规模搜索和对话任务上：26% 延迟降低、2.7 点精度提升、3.3% 路由稳定性提升。  **信息增量：** 这是第一篇把 MoE 路由重复计算问题当成核心问题来解决并有量化收益的"
 resource: "https://x.com/i/status/2055844504855265319"
@@ -22,6 +22,13 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "moe-edge-compute-monopoly"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2055844504855265319"
+created: "2026-05-17"
+updated: "2026-06-26"
+sha256: "de24865274dced532ea6afab40f0dc29e1e3fb760886b2699af556e6964e668b"
+sources:
+  - "/sources/news/2026-05-17/00__jiqizhixin__rms-moe-用-专家记忆-把-moe-延迟砍掉-26-路由稳定性还提升了-3-3.md"
 ---
 
 # RMS-MoE 用「专家记忆」把 MoE 延迟砍掉 26%，路由稳定性还提升了 3.3%

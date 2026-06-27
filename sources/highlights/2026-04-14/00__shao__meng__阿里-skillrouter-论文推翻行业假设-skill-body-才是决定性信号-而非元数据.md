@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "阿里 SkillRouter 论文推翻行业假设：Skill Body 才是决定性信号，而非元数据"
 description: "**[一句话核心判断]** 阿里论文首次在大规模（≈80K Skills）基准上系统验证 Skill Routing 假设，结果彻底颠覆认知：移除 Skill body 后所有检索方法准确率暴跌 29–44 个百分点；交叉编码器注意力分析显示 91.7% 集中在 body，描述仅占 1.0%。  **要点：** - 现有框架「渐进披露」设计隐含假设元数据足以选择 Skill，实则谬误——body（"
 resource: "https://x.com/i/status/2036975150500057570"
@@ -22,6 +22,13 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "agent-tools-and-orchestration"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2036975150500057570"
+created: "2026-03-26"
+updated: "2026-06-26"
+sha256: "a7cc46dd9e1506119dfc5fae596ef7432645512fe28814321acbb67fd29bce91"
+sources:
+  - "/sources/highlights/2026-04-14/00__shao__meng__阿里-skillrouter-论文推翻行业假设-skill-body-才是决定性信号-而非元数据.md"
 ---
 
 # 阿里 SkillRouter 论文推翻行业假设：Skill Body 才是决定性信号，而非元数据

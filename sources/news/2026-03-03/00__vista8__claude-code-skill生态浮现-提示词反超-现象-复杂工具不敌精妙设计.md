@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Claude Code Skill生态浮现“提示词反超”现象：复杂工具不敌精妙设计"
 description: "**[Skill生态出现“简单有效”的优胜法则，提示词工程价值被重新确认]** - 实践发现，许多为Claude Code开发的前端设计Skill，其效果不如一个精心编写的纯提示词Skill。 - 安装方式极为简单（通过对话指令），降低了Skill的获取和使用门槛，促进了生态内轻量化组件的流通。 - 这表明在Agent工具生态早期，解决问题的“巧思”和“对模型的理解”可能比封装复杂的代码工具更有效"
 resource: "https://x.com/i/status/2028535080579465528"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2028535080579465528"
+created: "2026-03-02"
+updated: "2026-06-26"
+sha256: "ebd97c8a4a4d30c712b7d76952296c60c75c9d49f750c179d78902e864b3c4fb"
+sources:
+  - "/sources/news/2026-03-03/00__vista8__claude-code-skill生态浮现-提示词反超-现象-复杂工具不敌精妙设计.md"
 ---
 
 # Claude Code Skill生态浮现“提示词反超”现象：复杂工具不敌精妙设计

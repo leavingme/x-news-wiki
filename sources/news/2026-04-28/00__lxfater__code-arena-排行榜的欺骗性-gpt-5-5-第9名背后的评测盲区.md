@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Code Arena 排行榜的欺骗性：GPT-5.5 第9名背后的评测盲区"
 description: "**[前台视觉掩盖了全栈能力，评测体系与真实使用场景严重脱节]**  • Code Arena 目前仅测试前端/WebDev 能力，GPT-5.5 全栈和 GitHub 集成尚未上线，导致排名严重低估其真实编程实力 • 榜单统计负责人数小时后主动澄清，说明该问题已被业界关注，但传播效应远不及原排名本身 • 这一案例暴露了一个深层问题：AI 编程评测体系普遍滞后于模型能力演进，开发者依据榜单选工具正"
 resource: "https://x.com/i/status/2049001091916783635"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2049001091916783635"
+created: "2026-04-28"
+updated: "2026-06-26"
+sha256: "024a8f891e556e67df2a11aed87812cb07384e4fae699482b3f7b007fe5da4c5"
+sources:
+  - "/sources/news/2026-04-28/00__lxfater__code-arena-排行榜的欺骗性-gpt-5-5-第9名背后的评测盲区.md"
 ---
 
 # Code Arena 排行榜的欺骗性：GPT-5.5 第9名背后的评测盲区

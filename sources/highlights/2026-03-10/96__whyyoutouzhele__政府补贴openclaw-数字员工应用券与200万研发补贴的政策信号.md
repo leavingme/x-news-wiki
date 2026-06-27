@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "政府补贴OpenClaw：数字员工应用券与200万研发补贴的政策信号"
 description: "**【官方背书临界点】**深圳龙岗区发布OpenClaw专项扶持政策，以\"数字员工应用券\"形式补贴企业采购智能体方案，单项目最高200万元。政策首次将开源Agent基础设施纳入地方产业规划，标志着Agent技术从社区实验走向政府主导的新基建赛道。公共数据开放+算力补贴组合拳，预示\"城市级Agent\"部署潮即将启动。  gakki锐评：当地方政府开始用补贴券推动Agent落地，OpenClaw的\"灰"
 resource: "https://x.com/i/status/2030820867391828274"
@@ -22,6 +22,13 @@ x_selected: 2
 x_priority: 96
 x_related_topic: "open-agent-ecosystem"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2030820867391828274"
+created: "2026-03-09"
+updated: "2026-06-26"
+sha256: "0ad633f7f7e0ff7e9f4536850a3d474f1d69b040a80648e56d1559b0f7424783"
+sources:
+  - "/sources/highlights/2026-03-10/96__whyyoutouzhele__政府补贴openclaw-数字员工应用券与200万研发补贴的政策信号.md"
 ---
 
 # 政府补贴OpenClaw：数字员工应用券与200万研发补贴的政策信号

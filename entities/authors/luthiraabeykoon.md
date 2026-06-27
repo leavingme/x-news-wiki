@@ -1,5 +1,5 @@
 ---
-type: "Author"
+type: "entity"
 title: "luthira (@luthiraabeykoon)"
 description: "X/Twitter 作者 @luthiraabeykoon。共收录 1 条 AI 精选推文。"
 tags:
@@ -12,6 +12,12 @@ x_author_name: "luthira"
 x_tweet_count: 1
 x_first_seen: "2026-05-02T22:18:13.311Z"
 x_last_seen: "2026-05-02T22:18:13.311Z"
+type_okf: "Author"
+created: "2026-05-02"
+updated: "2026-06-26"
+sha256: "0322ec7cad293b4cdffd32c19c79947fd914b628bd019b506bf198e515e2775c"
+sources:
+  - "/sources/news/2026-05-02/00__luthiraabeykoon__karpathy-microgpt-烧进-fpga-推理脱离-gpu-pytorch-软件栈-硬件原生-transfor.md"
 ---
 
 # luthira (@luthiraabeykoon)

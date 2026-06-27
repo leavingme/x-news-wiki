@@ -1,5 +1,5 @@
 ---
-type: "Author"
+type: "entity"
 title: "brucexu.eth ❤️🐼🦇🔊 (@brucexu_eth)"
 description: "X/Twitter 作者 @brucexu_eth。共收录 1 条 AI 精选推文。"
 tags:
@@ -12,6 +12,12 @@ x_author_name: "brucexu.eth ❤️🐼🦇🔊"
 x_tweet_count: 1
 x_first_seen: "2026-02-24T01:00:41.945Z"
 x_last_seen: "2026-02-24T01:00:41.945Z"
+type_okf: "Author"
+created: "2026-02-24"
+updated: "2026-06-26"
+sha256: "be77fe98164f0270d1ce55a71f5b52ff807fec7d1793e36395a5ead990394ab8"
+sources:
+  - "/sources/highlights/2026-02-24/00__brucexu_eth__coding-agent-不是编程专用-它是迈向-操作系统级-自动化的钥匙.md"
 ---
 
 # brucexu.eth ❤️🐼🦇🔊 (@brucexu_eth)

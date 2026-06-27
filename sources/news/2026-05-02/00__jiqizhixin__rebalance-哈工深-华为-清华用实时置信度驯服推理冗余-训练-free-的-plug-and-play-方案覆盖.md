@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "ReBalance：哈工深+华为+清华用实时置信度驯服推理冗余，训练-free 的 plug-and-play 方案覆盖 0.5B 到 32B"
 description: "**推理过程的「恰到好处」终于有了工程化解法。**  - 核心机制：实时检测模型是「想多了」还是「想浅了」，动态引导剪枝或深入探索，无需重训练 - 在数学、QA、代码三大类共 9 个 benchmark 上，从 0.5B 到 32B 模型均实现冗余压缩 + 准确率提升的双赢 - 训练-free + plug-and-play 意味着今天就能接入现有推理流水线  gakki 锐评：推理效率优化正在从"
 resource: "https://x.com/i/status/2050641722506428748"
@@ -22,6 +22,13 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "process-supervision-reagent"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2050641722506428748"
+created: "2026-05-02"
+updated: "2026-06-26"
+sha256: "4c105dce971dff6cb6e232ace2ff64e1a4a4dfdde795a5de4629c2e40ae2e86d"
+sources:
+  - "/sources/news/2026-05-02/00__jiqizhixin__rebalance-哈工深-华为-清华用实时置信度驯服推理冗余-训练-free-的-plug-and-play-方案覆盖.md"
 ---
 
 # ReBalance：哈工深+华为+清华用实时置信度驯服推理冗余，训练-free 的 plug-and-play 方案覆盖 0.5B 到 32B

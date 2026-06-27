@@ -1,5 +1,5 @@
 ---
-type: "Author"
+type: "entity"
 title: "迷死她表哥 (@NightmareDEFI)"
 description: "X/Twitter 作者 @NightmareDEFI。共收录 1 条 AI 精选推文。"
 tags:
@@ -12,6 +12,12 @@ x_author_name: "迷死她表哥"
 x_tweet_count: 1
 x_first_seen: "2026-04-11T00:44:20.580Z"
 x_last_seen: "2026-04-11T00:44:20.580Z"
+type_okf: "Author"
+created: "2026-04-11"
+updated: "2026-06-26"
+sha256: "eaa12e3c97597a78cdaf0cfa49720732051b895aa1e12943b576d4b47468d462"
+sources:
+  - "/sources/news/2026-04-11/00__NightmareDEFI__maiga-ai把交易行为本身变成代币激励-proof-of-trading是ai交易代理经济体的最后一块拼图.md"
 ---
 
 # 迷死她表哥 (@NightmareDEFI)

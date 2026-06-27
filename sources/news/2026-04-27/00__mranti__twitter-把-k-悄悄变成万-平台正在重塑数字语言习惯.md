@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Twitter 把「K」悄悄变成万：平台正在重塑数字语言习惯"
 description: "**一句话核心判断：Twitter 手机端将「K」重新锚定为中文语境的一万而非英文的一千，这是平台本地化对用户认知的强制改写。**  Michael Anti 注意到手机端推文中大写 K 代表「万」而非千（Kilo），质疑英语是否在一个月内迅速演变。这实际上反映的是 Twitter/X 平台针对不同地区市场的 UI 适配策略——平台在用数字 notation 的方式微妙地重塑用户的数量感知习惯。数"
 resource: "https://x.com/i/status/2048636618383454527"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2048636618383454527"
+created: "2026-04-27"
+updated: "2026-06-26"
+sha256: "8b2733cb7abcaf43925a7192b9665207dd1b6f9e2478666057409a1037d93cf1"
+sources:
+  - "/sources/news/2026-04-27/00__mranti__twitter-把-k-悄悄变成万-平台正在重塑数字语言习惯.md"
 ---
 
 # Twitter 把「K」悄悄变成万：平台正在重塑数字语言习惯

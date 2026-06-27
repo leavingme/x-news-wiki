@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "AI正从“新技术”变为“国家级基础设施”，企业身份面临根本性重塑"
 description: "**[AI公司的未来是成为受监管的准国防级供应商]** - 核心转变：AI正从“互联网科技”转变为“国家基础设施”，类似电力、通信、GPS，政府必然介入。 - 事件本质：近期事件（如Claude）并非单纯商业打压，而是触及“敏感数据控制+系统可信度+供应链信任”的治理问题。 - 未来要求：政府将要求AI公司提供隔离环境（air-gapped）、可审计性、训练数据保证和本土司法管辖。 - 行业影响："
 resource: "https://x.com/i/status/2028612821555233181"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2028612821555233181"
+created: "2026-03-02"
+updated: "2026-06-26"
+sha256: "225b66bfc3bbc2dc2b29a6710556d36ba3ee204c71dc6982d4b5c081251f70ae"
+sources:
+  - "/sources/news/2026-03-03/00__xxxApril_D13__ai正从-新技术-变为-国家级基础设施-企业身份面临根本性重塑.md"
 ---
 
 # AI正从“新技术”变为“国家级基础设施”，企业身份面临根本性重塑

@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "LabOS²：自主细胞培养作为长周期物理 AI 工作流，具身智能正式进入湿实验室"
 description: "**AI 从数字世界走进培养皿——物理执行层的闭环终于在生物医药场景落地。**  - LabOS² 实现从实验协议到真实生物执行的全链路自主化，是长周期 physical AI workflow 的早期验证 - 不同于机器人搬箱子，细胞培养对环境敏感度、时间尺度、失败成本的要求完全不同 - 信号：具身智能的价值不在「能动」，而在「能在真实物理约束下持续执行复杂流程」  gakki 锛评：LabOS"
 resource: "https://x.com/AI4S_Catalyst/status/2052073701537886630"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "ai-trend-digest"
+type_okf: "X Tweet"
+source_url: "https://x.com/AI4S_Catalyst/status/2052073701537886630"
+created: "2026-05-06"
+updated: "2026-06-26"
+sha256: "c75c6f7a9fc3b98076767abbd20e9fb740941da4020f9021780dae8211764c2d"
+sources:
+  - "/sources/news/2026-05-07/00__AI4S_Catalyst__labos-自主细胞培养作为长周期物理-ai-工作流-具身智能正式进入湿实验室.md"
 ---
 
 # LabOS²：自主细胞培养作为长周期物理 AI 工作流，具身智能正式进入湿实验室

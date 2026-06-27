@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "西湖人用 motion 做 compact 表征：机器人终于有了 hindsight 和 foresight"
 description: "**西湖大学 + 浙大发布 HiF-VLA，用运动轨迹作为紧凑表征赋予机器人记忆与预判能力。**  • Core创新：motion as compact representation——不靠语言或图像，而是直接用运动序列做时序推理。 • 三个核心能力：hindsight（从过去动作学习）、insight（即时判断）、foresight（预测未来运动）。实现\"think-while-acting\"。"
 resource: "https://x.com/i/status/2060636077589950584"
@@ -22,6 +22,13 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "textop-humanoid-robot"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2060636077589950584"
+created: "2026-05-30"
+updated: "2026-06-26"
+sha256: "6e8b67388003d1c3de9999d6d88f18e811aa5cebc146c37a5fadeee74f1e7108"
+sources:
+  - "/sources/highlights/2026-05-30/00__jiqizhixin__西湖人用-motion-做-compact-表征-机器人终于有了-hindsight-和-foresight.md"
 ---
 
 # 西湖人用 motion 做 compact 表征：机器人终于有了 hindsight 和 foresight

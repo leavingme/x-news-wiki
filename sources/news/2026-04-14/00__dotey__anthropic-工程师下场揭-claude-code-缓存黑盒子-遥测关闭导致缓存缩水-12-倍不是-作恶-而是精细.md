@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Anthropic 工程师下场揭 Claude Code 缓存黑盒子：遥测关闭导致缓存缩水 12 倍不是「作恶」而是精细化调优"
 description: "**[Claude Code 缓存逻辑首次被内部人详细拆解]**  Claude Code 关闭遥测后缓存从 1 小时骤降至 5 分钟，社区传言「Anthropic 用隐私换性能」， Anthropic 工程师 Boris Cherny 亲自下场澄清：1 小时缓存并不无条件更好，写入成本高于读取——如果你只跑一次查询就走了，付了写入高价却没享受反复读取的便宜价，反而浪费。Anthropic 一直在"
 resource: "https://x.com/i/status/2043737757915209956"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2043737757915209956"
+created: "2026-04-13"
+updated: "2026-06-26"
+sha256: "836caf8e4e3073b4c52783aebd60b5fce603c0a46fe3c7c6cc4d1d507940ccb3"
+sources:
+  - "/sources/news/2026-04-14/00__dotey__anthropic-工程师下场揭-claude-code-缓存黑盒子-遥测关闭导致缓存缩水-12-倍不是-作恶-而是精细.md"
 ---
 
 # Anthropic 工程师下场揭 Claude Code 缓存黑盒子：遥测关闭导致缓存缩水 12 倍不是「作恶」而是精细化调优

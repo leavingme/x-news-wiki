@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Anthropic 官方 Claude Code 101 上线：9 节官方课覆盖全链路，沉浸式翻译直接看"
 description: "**[Anthropic 出官方教程了，内容覆盖安装、底层原理、提示词、MCP、Hooks、上下文管理]**  课程内容：Claude Code 是什么→如何安装→底层工作方式→写第一个高质量提示词→Claude.md 是什么→Explore/Plan/Code 模式→MCP→如何管理上下文→Hooks。  课程地址已公开，搭配沉浸式翻译插件可直接食用。这是 Anthropic 第一次系统性做 C"
 resource: "https://x.com/i/status/2055298462984597511"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2055298462984597511"
+created: "2026-05-15"
+updated: "2026-06-26"
+sha256: "a20fe0752ef5157997bdecc4c7e8182891a73e85b85b2fbfe8a8121a845a5bc0"
+sources:
+  - "/sources/news/2026-05-15/00__op7418__anthropic-官方-claude-code-101-上线-9-节官方课覆盖全链路-沉浸式翻译直接看.md"
 ---
 
 # Anthropic 官方 Claude Code 101 上线：9 节官方课覆盖全链路，沉浸式翻译直接看

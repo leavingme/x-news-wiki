@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "AI下半场真正的护城河已转移：不是技术，是产品定义能力"
 description: "**[一句话核心判断]** 技术壁垒已死，能把AI能力转化为真实商业底线的人才是稀缺资产。  **信息增量：** - 斯坦福AI讲座揭示核心瓶颈转移：代码生成门槛崩塌，真正的护城河已从技术转向产品定义和需求洞察 - Vibe Coding的隐形代价：狂暴生成代码爽感十足，但技术债灾难级的，只有能交付商业底线的人才值钱 - Small AI和端侧部署才是隐私+成本痛点的增量洼地，而非大模型军备竞赛 "
 resource: "https://x.com/i/status/2041076782355677601"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2041076782355677601"
+created: "2026-04-06"
+updated: "2026-06-26"
+sha256: "49c4e0231b7cda7fc535c60b9069c64e6a535286239f697776bf9f2d72bf0e61"
+sources:
+  - "/sources/highlights/2026-04-06/00__oragnes__ai下半场真正的护城河已转移-不是技术-是产品定义能力.md"
 ---
 
 # AI下半场真正的护城河已转移：不是技术，是产品定义能力

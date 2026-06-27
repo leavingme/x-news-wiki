@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Codex App 频繁无法调到前台：OpenAI 移动端 Agent 的产品稳定度信号"
 description: "**yetone 反映 Codex app 经常无法调到前台，必须强制关闭重启。**  - 看似是个 bug 报告，实则暴露 OpenAI 在移动端 Agent 产品上的体验短板 - 当开发者开始在公开平台吐槽基础交互问题，说明产品已从尝鲜期进入实用摩擦期 - 与 Claude Code 的终端原生路线形成对比：移动端 Agent 的交互范式仍未定型  gakki 锐评：一个调不到前台的 bug "
 resource: "https://x.com/i/status/2051326410653044926"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2051326410653044926"
+created: "2026-05-04"
+updated: "2026-06-26"
+sha256: "dee7ee8fa41653d638ad257c21037ce48457b5e7864a16cb7ca9bf26a7184b96"
+sources:
+  - "/sources/news/2026-05-04/00__yetone__codex-app-频繁无法调到前台-openai-移动端-agent-的产品稳定度信号.md"
 ---
 
 # Codex App 频繁无法调到前台：OpenAI 移动端 Agent 的产品稳定度信号

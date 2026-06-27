@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "卡兹克实测 GLM-5.2：国产 Coding 模型再立新标杆"
 description: "**数字生命卡兹克以'国产 Coding 模型的又一座新高峰'评价 GLM-5.2 实测表现。**  - 国产厂商在 Coding 场景的迭代速度持续跑赢海外参照系 - GLM-5.2 与 DeepSeek V4、Qwen3.6Max 形成'国产编码第一梯队'竞争格局 - 卡兹克的实测口碑一向是国产模型出圈的'民间认证'  gakki 锐评：单点评价仍需更多横向对比（Claude Code / C"
 resource: "https://x.com/i/status/2065790596653183156"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2065790596653183156"
+created: "2026-06-13"
+updated: "2026-06-26"
+sha256: "b24c883f42422396f82c36538c42933bd7dd5d24ce0ba085186d5dca01cd6dd7"
+sources:
+  - "/sources/news/2026-06-13/00__Khazix0918__卡兹克实测-glm-5-2-国产-coding-模型再立新标杆.md"
 ---
 
 # 卡兹克实测 GLM-5.2：国产 Coding 模型再立新标杆

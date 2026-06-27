@@ -1,5 +1,5 @@
 ---
-type: "Author"
+type: "entity"
 title: "KK.aWSB (@KKaWSB)"
 description: "X/Twitter 作者 @KKaWSB。共收录 17 条 AI 精选推文。"
 tags:
@@ -12,6 +12,28 @@ x_author_name: "KK.aWSB"
 x_tweet_count: 17
 x_first_seen: "2026-01-30T12:00:00.000Z"
 x_last_seen: "2026-04-19T00:45:06.506Z"
+type_okf: "Author"
+created: "2026-01-30"
+updated: "2026-06-26"
+sha256: "de0db4c5383aa1d4dad3d441f1091c13bc4f5d62c1bced510b8c7855fec13d3d"
+sources:
+  - "/sources/highlights/2026-03-04/00__KKaWSB__anthropic-推出记忆迁移-ai-助手进入-用户数据争夺战-阶段.md"
+  - "/sources/highlights/2026-03-18/00__KKaWSB__google-官方认领-5大-agent-skill-设计模式-claude-code-的-skill-md-正在成为全.md"
+  - "/sources/highlights/2026-03-21/00__KKaWSB__anthropic与openai已进化成两种生物-组织效能的代际鸿沟.md"
+  - "/sources/highlights/2026-03-22/00__KKaWSB__yc总裁tan的认知重构-ai恐惧与你的野心成反比-十倍思维替代降本逻辑.md"
+  - "/sources/highlights/2026-03-23/00__KKaWSB__48智能体游戏工作室-多agent分工的-极限压力测试.md"
+  - "/sources/highlights/2026-03-23/00__KKaWSB__anthropic-认证体系-落子-咨询公司集体押注claude背后的生态野心.md"
+  - "/sources/highlights/2026-04-06/00__KKaWSB__figma-开放-ai-设计协议-设计系统已成-agent-出活质量的-隐形天花板.md"
+  - "/sources/highlights/2026-04-10/00__KKaWSB__全球首例ai机器人全自动牙科手术完成-15分钟-vs-人类2小时-具身ai进入临床验证阶段.md"
+  - "/sources/highlights/2026-04-15/00__KKaWSB__hassabis撕开ai行业皇帝新衣-chatgpt把科学革命逼成了产品发布会.md"
+  - "/sources/news/2026-01-30/00__KKaWSB__anthropic-新模型-金融初级职位的终结者.md"
+  - "/sources/news/2026-02-05/00__KKaWSB__kling-3-0-震撼发布-视频-ai-跨越-照片级真实-终极门槛.md"
+  - "/sources/news/2026-02-17/00__KKaWSB__版权红线-字节跳动率先回应好莱坞关于-ai-侵权的起诉.md"
+  - "/sources/news/2026-02-23/00__KKaWSB__让-ai-自我进化-claude-code-团队内部硬核工作流文件曝光.md"
+  - "/sources/news/2026-02-24/00__KKaWSB__ibm-股价重挫-13-claude-code-开启古老-cobol-代码的现代化-拆迁.md"
+  - "/sources/news/2026-04-12/00__KKaWSB__hermes-agent-自进化-prompt工程正在被prompt自己取代.md"
+  - "/sources/news/2026-04-14/00__KKaWSB__github-2-万星的-ai-搜索把-真金白银-引入权重-30-秒摸清一个人或项目当月全动态-google-做不到.md"
+  - "/sources/news/2026-04-19/00__KKaWSB__claude-code默认降智实锤-anthropic在用户不知情情况下偷改了配置.md"
 ---
 
 # KK.aWSB (@KKaWSB)

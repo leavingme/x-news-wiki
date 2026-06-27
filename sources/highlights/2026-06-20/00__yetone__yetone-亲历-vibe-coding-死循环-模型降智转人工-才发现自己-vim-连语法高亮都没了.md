@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "yetone 亲历 Vibe Coding 死循环：模型降智转人工，才发现自己 Vim 连语法高亮都没了"
 description: "**Vibe Coding 死循环的最尴尬时刻：模型降智迫使回归手写代码，却发现 Vim 连语法高亮都丢了。**  要点： - yetone 自述：有个 bug AI 越改越糟，怒开尘封多年的编辑器想亲自动手审查部署 - 复盘发现：Vim 基础配置（语法高亮）都没了，五年前的手艺已废 - 这不是个例，而是 AI Coding 时代「工具依赖 → 能力退化 → 降智更依赖」闭环的具象化  gakki"
 resource: "https://x.com/i/status/2068181201857499156"
@@ -22,6 +22,13 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "vibe-coding-hidden-costs"
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2068181201857499156"
+created: "2026-06-20"
+updated: "2026-06-26"
+sha256: "26b7b0dc1a6cd9ceafc2301f70d9a24ee74c1ee11c4261ec3a99c9d5d8f0528c"
+sources:
+  - "/sources/highlights/2026-06-20/00__yetone__yetone-亲历-vibe-coding-死循环-模型降智转人工-才发现自己-vim-连语法高亮都没了.md"
 ---
 
 # yetone 亲历 Vibe Coding 死循环：模型降智转人工，才发现自己 Vim 连语法高亮都没了

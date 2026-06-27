@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Michael Anti 点破 AI 桌面工具的感知路径：截图识图 + 视频截帧辨识"
 description: "Michael Anti 判断 AI 桌面工具的核心交互方式是「截图识图」和「视频截帧辨识」。  - 这实际上是在描述一种低成本的多模态 Agent 感知方案——不依赖系统 API 权限，而是通过视觉通道获取屏幕信息 - 与 page-agent.js 等 DOM 驱动方案形成对比：视觉感知路线更通用但信息损耗更大  gakki 的锐评：截图识别是最「暴力」也最普适的 Agent 感知方式，Mic"
 resource: "https://x.com/i/status/2052949846215299351"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2052949846215299351"
+created: "2026-05-09"
+updated: "2026-06-26"
+sha256: "45430a51164b405bb2882c1353be3d4c980dca88e8c46ab1661b6c901673e7dc"
+sources:
+  - "/sources/news/2026-05-09/00__mranti__michael-anti-点破-ai-桌面工具的感知路径-截图识图-视频截帧辨识.md"
 ---
 
 # Michael Anti 点破 AI 桌面工具的感知路径：截图识图 + 视频截帧辨识

@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "人类高估了自己的审美判断力：AI正在攻破最后一层优越感"
 description: "**[ AI审美理解正在突破「人类最后优越感」]**  向阳乔木承认之前一直觉得审美是AI Get不到的领域，但实际体验后发现「人还是高估自己了」。这是一个有代表性的认知反转信号——当AI在逻辑、代码之后，连主观性最强的审美都开始被攻破，所谓的「AI无法替代的创造力」边界正在收缩。  - 审美长期被视为人类抵御AI的最后护城河之一 - 实际测试结果与预期产生反差，说明直觉判断不可靠  gakki锐"
 resource: "https://x.com/i/status/2056757036864750004"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2056757036864750004"
+created: "2026-05-19"
+updated: "2026-06-26"
+sha256: "e9cc12a1f72dd00c841eb41219cc9c2554b31aca00ea3e72a7e138c962864878"
+sources:
+  - "/sources/news/2026-05-19/00__vista8__人类高估了自己的审美判断力-ai正在攻破最后一层优越感.md"
 ---
 
 # 人类高估了自己的审美判断力：AI正在攻破最后一层优越感

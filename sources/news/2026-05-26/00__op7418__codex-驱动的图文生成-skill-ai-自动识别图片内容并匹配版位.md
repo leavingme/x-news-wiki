@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Codex 驱动的图文生成 Skill：AI 自动识别图片内容并匹配版位"
 description: "藏师傅展示小红书组图生成器 Skill 配合 Codex 使用的效果：上传一张拼接图，AI 自动识别每张子图内容，匹配对应页数位置，并在下方格子标注，内容完全对齐。  **信息增量：** 展示了 Skill + Codex 的实际协作能力——不是简单的「上传图片生成文案」，而是跨模态的内容理解和版位编排自动化。  **影响：** 内容生产流水线的半自动化已到可用水准，降低了小红书创作者的排版门槛。"
 resource: "https://x.com/i/status/2059093924996960308"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2059093924996960308"
+created: "2026-05-26"
+updated: "2026-06-26"
+sha256: "dc4713cea7d38f5f6171ac790d8fd733189c0b34b7757b95670eb0149289bfff"
+sources:
+  - "/sources/news/2026-05-26/00__op7418__codex-驱动的图文生成-skill-ai-自动识别图片内容并匹配版位.md"
 ---
 
 # Codex 驱动的图文生成 Skill：AI 自动识别图片内容并匹配版位

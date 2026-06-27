@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "Michael Anti：AI先让孩子玩出趣味或成绩，才会产生自驱行为"
 description: "**[自驱学习的触发条件：先有外部正反馈，才有内部动机]**  Michael Anti的判断：AI工具想让孩子主动使用，需要先让他们玩出趣味或看到成绩——只有产生了外部认可带来的正向反馈，自驱才会自然形成。这本质上是一个关于「兴趣如何形成」的教育认知。  与他同期的推文里提到李书磊从知识分子转向官员的背景，形成了一个有趣的呼应：成年人的路径转换和孩子学AI的路径，底层逻辑可能相通——都需要先有成"
 resource: "https://x.com/i/status/2060984719299539017"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2060984719299539017"
+created: "2026-05-31"
+updated: "2026-06-26"
+sha256: "e5823afa5ba6df3d740dc024641af7aedcda1302e5b5c1639b5c8c8b7d5c6e1f"
+sources:
+  - "/sources/news/2026-05-31/00__mranti__michael-anti-ai先让孩子玩出趣味或成绩-才会产生自驱行为.md"
 ---
 
 # Michael Anti：AI先让孩子玩出趣味或成绩，才会产生自驱行为

@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "技能门槛的「雪崩时刻」：AI正在复刻DOS到Windows的范式迁移"
 description: "**专业工具正在被压缩为自然语言接口。** 从PS/PR/CAD的千小时学习曲线，到\"一句话生成\"——AI不是在优化工具，而是在重新定义操作系统。历史参照：微软用可视化界面干掉命令行，抖音用手机干掉专业视频团队。  关键信号：Perplexity、剪映、Generative-Media-Skills 都在做同一件事——把复杂度藏起来，把能力交给用户。  **gakki锐评**：技能门槛的瓦解速度比"
 resource: "https://x.com/i/status/2033094095766467062"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2033094095766467062"
+created: "2026-03-15"
+updated: "2026-06-26"
+sha256: "7a60b81ee80908e97d26ba845ad8272227192f150d5c1a1bc3324ab95d23f4f8"
+sources:
+  - "/sources/news/2026-03-16/00__DuoMeg__技能门槛的-雪崩时刻-ai正在复刻dos到windows的范式迁移.md"
 ---
 
 # 技能门槛的「雪崩时刻」：AI正在复刻DOS到Windows的范式迁移

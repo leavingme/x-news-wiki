@@ -1,5 +1,5 @@
 ---
-type: "Author"
+type: "entity"
 title: "RION WU (@rionaifantasy)"
 description: "X/Twitter 作者 @rionaifantasy。共收录 1 条 AI 精选推文。"
 tags:
@@ -12,6 +12,12 @@ x_author_name: "RION WU"
 x_tweet_count: 1
 x_first_seen: "2026-04-07T00:42:42.015Z"
 x_last_seen: "2026-04-07T00:42:42.015Z"
+type_okf: "Author"
+created: "2026-04-07"
+updated: "2026-06-26"
+sha256: "e0902d64270e0613531b60c7ced56dfd3c1c7b05a37eca081dcdecadad0c4f73"
+sources:
+  - "/sources/news/2026-04-07/00__rionaifantasy__polanyi-隐性知识-被翻出-skill蒸馏狂欢打中了ai时代最深的认知焦虑.md"
 ---
 
 # RION WU (@rionaifantasy)

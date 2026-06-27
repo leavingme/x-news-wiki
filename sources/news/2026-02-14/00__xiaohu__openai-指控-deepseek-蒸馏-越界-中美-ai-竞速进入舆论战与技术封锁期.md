@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "OpenAI 指控 DeepSeek“蒸馏”越界：中美 AI 竞速进入舆论战与技术封锁期"
 description: "**[核心逻辑]** OpenAI 向美国众议院提交备忘录，指称 DeepSeek 通过混淆路由器批量获取输出用于模型训练。 - **争议焦点**：指控 DeepSeek 规避使用条款，通过“蒸馏”技术复制其核心能力。 - **时机敏感**：分析师认为此举意在阻止 DeepSeek 获取更多芯片资源，是一场抢占政策高地的舆论战。 - **路径冲突**：反映了美国“封闭系统”与中国“拥抱开放权重”两"
 resource: "https://x.com/i/status/2022299321497276845"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2022299321497276845"
+created: "2026-02-13"
+updated: "2026-06-26"
+sha256: "b3d0c17f4b091000d8be321f642cb394778950cece951cb9a8b80ae0678f8d1b"
+sources:
+  - "/sources/news/2026-02-14/00__xiaohu__openai-指控-deepseek-蒸馏-越界-中美-ai-竞速进入舆论战与技术封锁期.md"
 ---
 
 # OpenAI 指控 DeepSeek“蒸馏”越界：中美 AI 竞速进入舆论战与技术封锁期

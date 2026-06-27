@@ -1,5 +1,5 @@
 ---
-type: "Author"
+type: "entity"
 title: "哈妹.♥ (@Hamei888)"
 description: "X/Twitter 作者 @Hamei888。共收录 1 条 AI 精选推文。"
 tags:
@@ -12,6 +12,12 @@ x_author_name: "哈妹.♥"
 x_tweet_count: 1
 x_first_seen: "2026-04-14T00:45:15.283Z"
 x_last_seen: "2026-04-14T00:45:15.283Z"
+type_okf: "Author"
+created: "2026-04-14"
+updated: "2026-06-26"
+sha256: "4fd7554843fe109c999cd3d6b8a818b78e3ad2bfbd90d0338c031f749af96c83"
+sources:
+  - "/sources/news/2026-04-14/00__Hamei888__recall-98-7-识别率背后-内容篡改追踪正在从媒体工具变成基础设施.md"
 ---
 
 # 哈妹.♥ (@Hamei888)

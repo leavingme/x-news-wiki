@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "一段独白七种情绪：TTS 的情感粒度已跨过「可用」门槛"
 description: "**一句话核心判断：TTS 情感控制从「调参数」进化到「写 instruction」，内容生产的边际成本正在被再次压缩。**  - 同一段「三年还债」独白，通过改变 instruction 参数即可产出如释重负/极度兴奋/苦涩自嘲/骄傲自信/深夜耳语/哽咽含泪/刻意冷漠七种完全不同的情感演绎，且清晰度稳定 - 核心变量从「声音模型本身」转移到「LLM 理解 instruction 并传递给 TTS"
 resource: "https://x.com/i/status/2055985129646936301"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2055985129646936301"
+created: "2026-05-17"
+updated: "2026-06-26"
+sha256: "f080fc86cc17c0e26692acf47ef93113f7420291bd4c2904da1e1f2cd8a5b8b3"
+sources:
+  - "/sources/news/2026-05-17/00__gkxspace__一段独白七种情绪-tts-的情感粒度已跨过-可用-门槛.md"
 ---
 
 # 一段独白七种情绪：TTS 的情感粒度已跨过「可用」门槛

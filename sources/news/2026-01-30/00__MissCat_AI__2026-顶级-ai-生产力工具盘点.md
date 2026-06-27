@@ -1,5 +1,5 @@
 ---
-type: "X Tweet"
+type: "source"
 title: "2026 顶级 AI 生产力工具盘点"
 description: "**精选 15 款在 2026 年最具实操价值的 AI 工具，涵盖音视频生成、网页设计及 3D 建模。** - **重点工具**：ElevenLabs（语音克隆）、Runway（视频编辑）、Gamma（文档设计）。 - **应用广度**：从 3D 模型构建到 AI 图像生成，生产力边界被彻底打破。  **Pi 的锐评**：这张清单是每个“数字游民”的军火库。不需要样样精通，但至少要掌握 2-3 个"
 resource: "https://x.com/i/status/2015364275070755048"
@@ -21,7 +21,15 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
+
 x_source: "crawler"
+type_okf: "X Tweet"
+source_url: "https://x.com/i/status/2015364275070755048"
+created: "2026-01-25"
+updated: "2026-06-26"
+sha256: "9eca4bb9e833a2625ef9f2e78067bd3b43aecb00d5ba580ca1ef6aaf5346fe9c"
+sources:
+  - "/sources/news/2026-01-30/00__MissCat_AI__2026-顶级-ai-生产力工具盘点.md"
 ---
 
 # 2026 顶级 AI 生产力工具盘点

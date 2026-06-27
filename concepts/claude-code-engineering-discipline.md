@@ -1,5 +1,5 @@
 ---
-type: "Concept"
+type: "concept"
 title: "claude-code-engineering-discipline"
 description: "跨日主题 \"claude-code-engineering-discipline\"，共 2 条相关精选推文。"
 tags:
@@ -11,6 +11,13 @@ x_topic_slug: "claude-code-engineering-discipline"
 x_tweet_count: 2
 x_first_seen: "2026-03-08T01:01:49.652Z"
 x_last_seen: "2026-06-13T04:18:23.006Z"
+type_okf: "Concept"
+created: "2026-03-08"
+updated: "2026-06-26"
+sha256: "fdc926e7d9a5508cc73e651386ec1861c388fa6ecdf11daf5739c31873c59d3e"
+sources:
+  - "/sources/highlights/2026-03-08/85__chenchengpro__claude-code的-loop命令揭秘-ai帮你写cron-ai帮你跑cron的架构设计.md"
+  - "/sources/highlights/2026-06-13/00__gkxspace__乔木把-4-万字-goal-文档做成-skill-codex-claude-跑一晚上不烂尾的真解.md"
 ---
 
 # 主题: claude-code-engineering-discipline
