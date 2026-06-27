@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "微信好友触1万上限后,wx-cli 类工具正在把'删除联系人'变成 Agent 自动化任务"
 description: "**微信私域管理正在被 CLI 工具接管:'加好友时间/是否聊过/共同群'三个维度被封装成 Agent 决策依据,原本依赖人感的清理动作变成可批量执行的任务。**  - 信号点:向阳乔木一句'用什么原则删除'反映出需求从'个人感觉'走向'规则化筛选 + 自动化执行' - 价值点:wx-cli 把'删除联系人'这种高摩擦、高情绪成本的私域动作变成 CLI 流水线,类似 Notion/飞书里的批量整理"
 resource: "https://x.com/i/status/2067157316579754057"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2067157316579754057"
-created: "2026-06-17"
-updated: "2026-06-26"
-sha256: "a0f53bac5a5479ee6b9e4ce20d3c5ce8329361bf72449f38c3c21ad920889fd2"
-sources:
-  - "/sources/news/2026-06-17/00__vista8__微信好友触1万上限后-wx-cli-类工具正在把-删除联系人-变成-agent-自动化任务.md"
 ---
 
 # 微信好友触1万上限后,wx-cli 类工具正在把'删除联系人'变成 Agent 自动化任务

@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Google AI Studio安卓端缺席暴露大厂移动端AI战略的优先级困境"
 description: "**[移动端才是AI应用主战场，Google的安卓客户端跳票折射平台战略失焦]**  - 歸藏指出AI Studio安卓客户端持续跳票，与Google在移动端的整体AI战略形成鲜明反差 - 同日X平台高频迭代、Codex不断扩张，大厂在\"该投多少人月到哪个平台\"上的资源分配矛盾浮现 - AI Studio定位偏向开发者，移动端缺失意味着轻量用户只能通过浏览器访问，体验割裂  gakki锐评：当Op"
 resource: "https://x.com/i/status/2056914890481357138"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2056914890481357138"
-created: "2026-05-20"
-updated: "2026-06-26"
-sha256: "e6e4bdf47ba412ff325668ff65a5b659b9bda187332c13ed355a644c99e12e0c"
-sources:
-  - "/sources/news/2026-05-20/00__op7418__google-ai-studio安卓端缺席暴露大厂移动端ai战略的优先级困境.md"
 ---
 
 # Google AI Studio安卓端缺席暴露大厂移动端AI战略的优先级困境

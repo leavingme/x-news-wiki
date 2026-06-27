@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "NVIDIA 融合 AR+Diffusion+自推测三模解码：一次架构手术同时解决精度与吞吐"
 description: "**一句话核心判断**：NVIDIA 研究院（联合佐治亚理工、港大、MIT）发布的 Nemotron-Labs-Diffusion 证明了\"一次模型、多模解码\"路线可行，AR 模式负责高并发云端服务，Diffusion 模式负责并行生成极限速度，Self-Speculation 模式处理投机加速——三条技术路径不再是非此即彼，而是可以动态切换。  要点： - 训练阶段采用 AR-Diffusion"
 resource: "https://x.com/i/status/2060730198207738266"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2060730198207738266"
-created: "2026-05-30"
-updated: "2026-06-26"
-sha256: "66eabf940f9c637e132b175b4eeefe9c369a95e2b307079b7b448be181afff8a"
-sources:
-  - "/sources/highlights/2026-05-30/00__jiqizhixin__nvidia-融合-ar-diffusion-自推测三模解码-一次架构手术同时解决精度与吞吐.md"
 ---
 
 # NVIDIA 融合 AR+Diffusion+自推测三模解码：一次架构手术同时解决精度与吞吐

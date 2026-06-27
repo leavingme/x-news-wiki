@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "GitHub正在成为AI界的小红书：Star退化、README营销化、买量产业化"
 description: "**GitHub正在成为AI界的小红书。**  三个维度： - Star从「我用了好使」退化为「这个故事让我兴奋」 - README从技术文档变为营销Landing Page - Star数可花钱购买，20元即可购得100个  技术内容平台的评价体系正在被稀释。  gakki锐评：GitHub的小红书化本质是注意力经济对技术评价体系的渗透——当「情绪价值」取代「代码质量」成为传播驱动力，技术社区的"
 resource: "https://x.com/i/status/2048526090596237767"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2048526090596237767"
-created: "2026-04-26"
-updated: "2026-06-26"
-sha256: "17b912ee86c437fb29fee5d4f75fcaa0dc54e96c585ccc0cd8fd6c534743a229"
-sources:
-  - "/sources/news/2026-04-26/00__oran_ge__github正在成为ai界的小红书-star退化-readme营销化-买量产业化.md"
 ---
 
 # GitHub正在成为AI界的小红书：Star退化、README营销化、买量产业化

@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Browser Use CLI 2.0：OpenClaw 的「官方替代」已现雏形"
 description: "**[MCP 原生浏览器 Agent 进入实用阶段]**  • Browser Use CLI 以 daemon+session 架构实现浏览器状态持久化，直接作为 MCP server 接入 Claude/Cursor/Codex，解决登录态、连续操作、自动采集等生产级痛点。  • 速度翻倍+成本减半，通过 CDP 直连正在运行的 Chrome，OpenClaw 的浏览器自动化护城河正在被标准化"
 resource: "https://x.com/i/status/2035189148919984442"
@@ -22,13 +22,6 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "agent-browser-token-efficiency"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2035189148919984442"
-created: "2026-03-21"
-updated: "2026-06-26"
-sha256: "0849b298d74494192f00c0dd6340baf35f7ba1d05187b8ad1e82c9e77c3d2915"
-sources:
-  - "/sources/highlights/2026-03-21/00__oragnes__browser-use-cli-2-0-openclaw-的-官方替代-已现雏形.md"
 ---
 
 # Browser Use CLI 2.0：OpenClaw 的「官方替代」已现雏形

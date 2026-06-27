@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Michael Anti 接入 Kimi K2.6 与 DeepSeek 4 Pro：国产模型在资深用户的工具箱里站稳"
 description: "**资深媒体人 Michael Anti 在个人工作流中同时接入 Kimi K2.6 与 Deepseek 4 Pro，作为日常使用组合。**  - 用户侧信号：非技术圈 KOL 把国产模型放进主工作流，说明国产模型体验已过可用性门槛 - 工具链变化：单模型依赖→多模型混用，国产+海外模型并存的混合部署成为常态 - Kimi K2.6 / Deepseek 4 Pro 的具体能力差异（K2.6、4"
 resource: "https://x.com/i/status/2067240607127593184"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2067240607127593184"
-created: "2026-06-17"
-updated: "2026-06-26"
-sha256: "3c2633e72c8be3c9ad0dce2ba678c5b8c6e53a572fafc92c5aabd5832e3c2ac7"
-sources:
-  - "/sources/news/2026-06-17/00__mranti__michael-anti-接入-kimi-k2-6-与-deepseek-4-pro-国产模型在资深用户的工具箱里站稳.md"
 ---
 
 # Michael Anti 接入 Kimi K2.6 与 DeepSeek 4 Pro：国产模型在资深用户的工具箱里站稳

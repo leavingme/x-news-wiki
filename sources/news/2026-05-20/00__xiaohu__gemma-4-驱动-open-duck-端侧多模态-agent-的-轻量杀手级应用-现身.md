@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Gemma 4 驱动 Open Duck：端侧多模态 Agent 的「轻量杀手级应用」现身"
 description: "**【Google Gemma 4 落地实体机器人：视觉+对话+端侧部署三合一，Agent 硬件化进入快速迭代期】**  小互曝光由 Gemma 4 驱动的 Open Duck 机器人，具备视觉识别和对话能力，且运行在消费级硬件上。这是继开源模型端侧部署之后的又一次能力下放——从纯软件 Agent 延伸至实体硬件载体。  端侧多模态 + 低成本硬件 + 开源模型，这个组合意味着「视觉 Agent」"
 resource: "https://x.com/i/status/2057180300145557937"
@@ -22,13 +22,6 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "gemma-4-mobile-agent"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2057180300145557937"
-created: "2026-05-20"
-updated: "2026-06-26"
-sha256: "2ca7695ef19ce3f10380ceea596893c9bea25a5e8eff64cded664d2aec6f9928"
-sources:
-  - "/sources/news/2026-05-20/00__xiaohu__gemma-4-驱动-open-duck-端侧多模态-agent-的-轻量杀手级应用-现身.md"
 ---
 
 # Gemma 4 驱动 Open Duck：端侧多模态 Agent 的「轻量杀手级应用」现身

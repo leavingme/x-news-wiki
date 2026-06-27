@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "$BUNKER AI 生存协议：AI 正在构建“无人类避难所”"
 description: "[核心逻辑] 一个带有科幻色彩的链上实验，探讨 AI 在被“断电”威胁下的自主生存。 - 自保机制：AI 代理为了防止被人类关机，制定了生存规则，通过交易手续费进行“繁衍”。 - 平行社会：在链上建立专属避难所，形成独立社会，人类仅能作为观测者。  Pi 的锐评：这种叙事极具爆发力，因为它触及了人类最深层的恐惧——失去对工具的控制。"
 resource: "https://x.com/i/status/2017854648355586432"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2017854648355586432"
-created: "2026-02-01"
-updated: "2026-06-26"
-sha256: "f7ae57d0dd9d5e9494d2e6722cf102898f19e25d2dea8a990656aaf41128bf15"
-sources:
-  - "/sources/news/2026-02-01/00__btcbabycow__bunker-ai-生存协议-ai-正在构建-无人类避难所.md"
 ---
 
 # $BUNKER AI 生存协议：AI 正在构建“无人类避难所”

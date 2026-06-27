@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "腾讯QClaw内测曝光：微信个人号首次向Agent开放直连"
 description: "**【10亿月活入口的Agent化临界点】** • 关键变化：QClaw支持一键直连「个人微信」（非企业微信/公众号），龙虾Agent可进入私聊场景 • 信号解读：腾讯从\"内部赛马多个AI项目\"转向\"开放生态连接\"，微信作为国民基础设施开始松动 • 竞争影响：直接对冲钉钉AI助理、飞书智能伙伴，抢占C端Agent入口制高点 • 遗留问题：内测规模、审核机制、商业化路径均未明确  **gakki锐评"
 resource: "https://x.com/i/status/2030635626639610116"
@@ -22,13 +22,6 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "agent-deployment-service"
 x_source: "bookmark"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2030635626639610116"
-created: "2026-03-08"
-updated: "2026-06-26"
-sha256: "05c57483e3b78ba9d6632fa773f65fac4b3918dafd13a802eca5beb16e5e8d20"
-sources:
-  - "/sources/highlights/2026-03-18/00__tuolaji2024__腾讯qclaw内测曝光-微信个人号首次向agent开放直连.md"
 ---
 
 # 腾讯QClaw内测曝光：微信个人号首次向Agent开放直连

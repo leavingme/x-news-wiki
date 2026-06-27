@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "歸藏用 AI Coding 独立复刻《杀戮尖塔》级别卡牌 Roguelike，完整教程已放出"
 description: "**AI Coding 工具的生产力拐点正在从「写 Demo」跨越到「交付完整可玩产品」。**  - 歸藏一人用 AI 辅助编码完成了杀戮尖塔级别的卡牌构筑 Roguelike 游戏，复杂度远超 todo-list 级别的 demo - 完整教程公开，意味着这条路径已被验证为可复现的工作流而非偶发炫技 - 结合其近期发现的国风恐怖探案 Steam 游戏，AI 参与的游戏内容正从「能跑」进化到「能卖"
 resource: "https://x.com/i/status/2050044423061610793"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2050044423061610793"
-created: "2026-05-01"
-updated: "2026-06-26"
-sha256: "d3e287fd75d8d85e8d123a344aa30af9e21ede7fe03d40b08b488ff90eeed939"
-sources:
-  - "/sources/news/2026-05-01/00__vista8__歸藏用-ai-coding-独立复刻-杀戮尖塔-级别卡牌-roguelike-完整教程已放出.md"
 ---
 
 # 歸藏用 AI Coding 独立复刻《杀戮尖塔》级别卡牌 Roguelike，完整教程已放出

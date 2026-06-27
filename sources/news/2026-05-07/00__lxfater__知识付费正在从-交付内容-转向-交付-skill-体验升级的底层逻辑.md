@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "知识付费正在从\"交付内容\"转向\"交付 Skill\"：体验升级的底层逻辑"
 description: "**知识付费的载体正在从文字/视频升级为可执行的 Skill 形态。** - Skill 能串联多个软件交付部分结果，用户获得感更强；能无限陪聊缓解焦虑 - 但核心瓶颈不在技术，而在用户\"不愿付出却希望收获\"的心理问题 - Skill 交付本质是体验升级，但复杂心理问题仍需专业学科介入  gakki 锐评：这篇触及了 Agent 经济的一个真实切面——Skill 作为知识付费载体的价值，但论证停留"
 resource: "https://x.com/i/status/2052304831902306439"
@@ -22,13 +22,6 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "personal-ai-skill-package-commoditization"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2052304831902306439"
-created: "2026-05-07"
-updated: "2026-06-26"
-sha256: "a31fc28be594767fdd33c8a37413f829cc732b1527b78ee35123422691ecaedc"
-sources:
-  - "/sources/news/2026-05-07/00__lxfater__知识付费正在从-交付内容-转向-交付-skill-体验升级的底层逻辑.md"
 ---
 
 # 知识付费正在从"交付内容"转向"交付 Skill"：体验升级的底层逻辑

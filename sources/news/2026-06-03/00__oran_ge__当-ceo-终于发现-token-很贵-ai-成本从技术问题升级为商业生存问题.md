@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "当 CEO 终于发现 Token 很贵：AI 成本从技术问题升级为商业生存问题"
 description: "**一句话核心判断：** Token 成本从开发者的隐痛变成 CEO 的显性焦虑——这标志着 AI 应用规模化进入第二阶段。  **要点：** - Token 成本高不是新问题，但 CEO 开始公开谈论它意味着 AI 投入产出比正在被严肃审视，不再是「先跑量再说」的阶段 - 压缩 token 消耗的中间件、缓存层、蒸馏模型将在 2025 下半年成为 toB 销售的核心话术 - 这条 meme 本身"
 resource: "https://x.com/i/status/2061941345003118888"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2061941345003118888"
-created: "2026-06-02"
-updated: "2026-06-26"
-sha256: "ccb9faad1d645616d7d020f7e164ab5195fe566851264871a20779802c116920"
-sources:
-  - "/sources/news/2026-06-03/00__oran_ge__当-ceo-终于发现-token-很贵-ai-成本从技术问题升级为商业生存问题.md"
 ---
 
 # 当 CEO 终于发现 Token 很贵：AI 成本从技术问题升级为商业生存问题

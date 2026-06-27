@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Bear 团队再创业：原生 Markdown 编辑器 Letterra 开启免费公测"
 description: "**经典 Markdown 工具厂商把「纯本地编辑器」重新做一遍**  - Bear 团队（曾以 iOS 端 Markdown 编辑器知名）推出独立桌面端 Lettera - 当前免费公测，主打本地 Markdown 编辑体验 - 信号：在大厂 AI 编辑器席卷下，传统「纯文本优先」工作流仍有独立产品空间   gakki 锐评：在 Cursor/Notion AI 把编辑器变成 Agent 主战场"
 resource: "https://x.com/i/status/2067884713340252646"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2067884713340252646"
-created: "2026-06-19"
-updated: "2026-06-26"
-sha256: "012100e2a6b4e7f1c6b1b1d0881a3f50d80818416d11837459534e2247667da4"
-sources:
-  - "/sources/news/2026-06-19/00__op7418__bear-团队再创业-原生-markdown-编辑器-letterra-开启免费公测.md"
 ---
 
 # Bear 团队再创业：原生 Markdown 编辑器 Letterra 开启免费公测

@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "AI 理解代码靠「名字」不靠「语义」：变量命名对模型表现的影响远超想象"
 description: "**AI 代码理解和人类代码理解的认知路径根本不同。**  - 研究表明：把有意义的变量名换成随机字符，AI 模型表现显著下降 - AI 依赖字面特征（名字、结构、局部上下文）而非推断语义——这和人类「读意图」的方式完全相反 - Fowler 的经典观点「函数长短不重要，意图和实现分离才重要」在 AI 时代依然成立，但原因变了：函数名是 AI 的「语义锚点」  gakki 锐评：这意味着「好的代码"
 resource: "https://x.com/i/status/2050222575674925186"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2050222575674925186"
-created: "2026-05-01"
-updated: "2026-06-26"
-sha256: "49a29a695028a2a1ce68d321db9b82f92119ec8b44d8ccfb88c7f4bfc851ee7c"
-sources:
-  - "/sources/news/2026-05-01/00__vista8__ai-理解代码靠-名字-不靠-语义-变量命名对模型表现的影响远超想象.md"
 ---
 
 # AI 理解代码靠「名字」不靠「语义」：变量命名对模型表现的影响远超想象

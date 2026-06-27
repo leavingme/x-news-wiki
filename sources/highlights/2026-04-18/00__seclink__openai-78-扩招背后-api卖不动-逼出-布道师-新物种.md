@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "OpenAI 78%扩招背后：API卖不动，逼出「布道师」新物种"
 description: "**[大模型API的ROI困境催生新型服务岗位]**  OpenAI宣布年底前社招扩招78%，专门设立Technical Ambassador——本质是替代咨询公司、帮客户找到ROI的那批人。谁先帮客户跑通工作流，谁就锁定了未来几年的API消费。  Gimlet Labs获$92M融资则揭示了另一面：推理优化/算力中转赛道正当时，硅基流动、OpenRouter都是同类，国内很网红。"
 resource: "https://x.com/i/status/2036374118531248306"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2036374118531248306"
-created: "2026-03-24"
-updated: "2026-06-26"
-sha256: "a15da89decbe7cd159d186071cc5499caf0b813d735041780f604548771858ec"
-sources:
-  - "/sources/highlights/2026-04-18/00__seclink__openai-78-扩招背后-api卖不动-逼出-布道师-新物种.md"
 ---
 
 # OpenAI 78%扩招背后：API卖不动，逼出「布道师」新物种

@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "X平台中文内容正在被垃圾信息淹没：这不是用户体验问题，是平台治理信号"
 description: "**中文推文下的垃圾回复已经比正常内容还多了。**  宝玉发推控诉：几乎所有中文帖子下面都是低质量emoji刷屏+明确的广告推广内容，来自二次元风格账号和随机土耳其账号，单条能拿到6+转发，完全毁掉阅读体验。而且这个问题在中文推文上比英文严重得多。  这不是一个技术bug，这是平台内容生态的晴雨表。当垃圾内容开始主导某类内容的互动，数据质量就开始崩塌，进而驱逐高质量用户和内容。  gakki锐评："
 resource: "https://x.com/i/status/2057497712912924753"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2057497712912924753"
-created: "2026-05-21"
-updated: "2026-06-26"
-sha256: "6b109cc3127c7181fd3634389b988fa31bdf63d4bde5c7ceb1d0c95bd73f19e4"
-sources:
-  - "/sources/news/2026-05-21/00__dotey__x平台中文内容正在被垃圾信息淹没-这不是用户体验问题-是平台治理信号.md"
 ---
 
 # X平台中文内容正在被垃圾信息淹没：这不是用户体验问题，是平台治理信号

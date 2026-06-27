@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "OpenAI 是产品经理主导、Anthropic 是工程师主导——这条观察为何引发共鸣"
 description: "**[AI 公司的文化基因决定了产品气质，而非技术栈]**  - 小互观察到 OpenAI 由产品经理主导、Anthropic 由工程师主导，且 Anthropic 的创意常被 OpenAI 改造后体验更优 - 这一判断触及 AI 行业核心张力：工程驱动的创新 vs 产品包装的传播优势 - 铁锤人（2050770413777457651）随即反驳，认为 Anthropic 本质上是营销驱动而非工程"
 resource: "https://x.com/i/status/2050751703381876829"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2050751703381876829"
-created: "2026-05-03"
-updated: "2026-06-26"
-sha256: "9c354f4137182d9e4622553aca2d9be77cc65ebae14ed48ba71511f83efe42f4"
-sources:
-  - "/sources/news/2026-05-03/00__xiaohu__openai-是产品经理主导-anthropic-是工程师主导-这条观察为何引发共鸣.md"
 ---
 
 # OpenAI 是产品经理主导、Anthropic 是工程师主导——这条观察为何引发共鸣

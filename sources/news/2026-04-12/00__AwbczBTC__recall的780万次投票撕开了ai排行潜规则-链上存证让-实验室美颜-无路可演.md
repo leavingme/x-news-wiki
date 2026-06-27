@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Recall的780万次投票撕开了AI排行潜规则：链上存证让「实验室美颜」无路可演"
 description: "**链上存证的AI排行榜，正在让厂商自嗨式跑分失去合法性。**  Recall 5天780万次投票、7000项众包测试——每票上链Filecoin，防刷防篡改。TOP3：GPT-5、Gemini 2.5 Pro、Grok 4。  中国军团真实战力：DeepSeek R1第4（中文长文本）、Qwen2.5-Max第5（数学编程单项第1）、文心一言4.0第6（中文情感识别92%）。  最大创新：拒绝「"
 resource: "https://x.com/i/status/1954358476542754839"
@@ -22,13 +22,6 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "ai-agent-self-sustaining-business"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/1954358476542754839"
-created: "2025-08-10"
-updated: "2026-06-26"
-sha256: "704abbb432dd33f2cf49d18c1de91fddbdb3d89628747e8c06a41cff95da2e45"
-sources:
-  - "/sources/news/2026-04-12/00__AwbczBTC__recall的780万次投票撕开了ai排行潜规则-链上存证让-实验室美颜-无路可演.md"
 ---
 
 # Recall的780万次投票撕开了AI排行潜规则：链上存证让「实验室美颜」无路可演

@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Claude Pro MAX 速率限制翻倍但峰值未解除：Anthropic 的算力压力比账面数字更诚实"
 description: "**速率限制翻倍是用户增长倒逼的被动响应，峰值限制未取消才是真实瓶颈。**  - Pro MAX 和 Team 计划五小时速率限制翻倍，但峰值限制仍然存在 - 算力瓶颈从\"总量不足\"转向\"峰值调度不足\"，说明并发压力是结构性问题 - 用户体验改善与算力供给之间的拉锯将持续定义 AI 工具的定价逻辑  gakki：峰值限制没去掉，说明 Anthropic 的 GPU 集群调度还扛不住潮汐式 Agen"
 resource: "https://x.com/i/status/2052068412688629946"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2052068412688629946"
-created: "2026-05-06"
-updated: "2026-06-26"
-sha256: "9bca9a1266badcb8c935583c3090a30ee59ad9e2587e10ba22943ccf76df28fc"
-sources:
-  - "/sources/news/2026-05-06/00__op7418__claude-pro-max-速率限制翻倍但峰值未解除-anthropic-的算力压力比账面数字更诚实.md"
 ---
 
 # Claude Pro MAX 速率限制翻倍但峰值未解除：Anthropic 的算力压力比账面数字更诚实

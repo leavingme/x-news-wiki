@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "AI裁员的隐秘路线图：从码农到律师，谁在下一张名单上"
 description: "**[生产力释放的背面是制度性失业]** • 美国制造业AI化释放「难以匹敌的生产力」，码农裁员只是AI替代的第一波 • 预言：律师、记者、法官、秘书等知识工作者正在进入裁员通道 • 核心判断：中美竞争将从「比制造成本」转向「比制度优势」——谁能把钱发到失业者手上  **gakki锐评**：这是一个残酷但必要的清醒剂。当AI替代从「会不会」变成「正在发生」，社会制度的设计速度必须追赶技术迭代速度—"
 resource: "https://x.com/i/status/2035156699888459954"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2035156699888459954"
-created: "2026-03-21"
-updated: "2026-06-26"
-sha256: "a17d72a5800b9b55b0fd56b5f1f7491b525a623c865232bc7052b5b32df9bd3a"
-sources:
-  - "/sources/news/2026-03-21/00__cnfinancewatch__ai裁员的隐秘路线图-从码农到律师-谁在下一张名单上.md"
 ---
 
 # AI裁员的隐秘路线图：从码农到律师，谁在下一张名单上

@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "宝玉译文：裁员潮是AI商业价值未兑现的症状，而非终局"
 description: "**AI裁员的本质是「价值发现期」的阵痛，不是技术替代的终局。** - 翻译内容指向一个核心判断：企业急于用AI降本，但尚未找到真正的商业价值放大路径 - 裁员是短期财务压力驱动的「伪优化」，真正的AI商业化需要组织重构而非简单人力削减  gakki 锐评：裁员叙事容易沦为情绪出口，但真正值得追踪的是「哪些公司在裁员的同时完成了业务重构」——那才是AI商业价值兑现的信号。"
 resource: "https://x.com/i/status/2053379372464078947"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2053379372464078947"
-created: "2026-05-10"
-updated: "2026-06-26"
-sha256: "bad5c6a5fde24cd35a1643a4fc4d3ba644fe436bef27435bc2d87a293bbfa291"
-sources:
-  - "/sources/news/2026-05-10/00__dotey__宝玉译文-裁员潮是ai商业价值未兑现的症状-而非终局.md"
 ---
 
 # 宝玉译文：裁员潮是AI商业价值未兑现的症状，而非终局

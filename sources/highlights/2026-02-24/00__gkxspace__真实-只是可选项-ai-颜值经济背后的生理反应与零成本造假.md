@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "“真实”只是可选项：AI 颜值经济背后的生理反应与零成本造假"
 description: "**[核心逻辑]** 几十万人对 AI 生成的虚构人物产生生理反应与消费冲动，揭示了“真实感”在当前娱乐场景中已退居二线。  - **成本坍塌**：从真人配合到几块钱的 Token 成本，造假门槛的消失正在重构陪伴经济的底层逻辑。 - **演进路线**：从擦边到颜值再到深度陪伴，AI 正在精准接管人类的欲望出口。  [gakki 的锐评]：当假的比真的更符合幻想时，人类会毫不犹豫地选择拥抱幻觉。这"
 resource: "https://x.com/i/status/2025988233386135960"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2025988233386135960"
-created: "2026-02-23"
-updated: "2026-06-26"
-sha256: "829617104a647ae132f531b5280594d118ffe20a0af13e37832493f53f932a58"
-sources:
-  - "/sources/highlights/2026-02-24/00__gkxspace__真实-只是可选项-ai-颜值经济背后的生理反应与零成本造假.md"
 ---
 
 # “真实”只是可选项：AI 颜值经济背后的生理反应与零成本造假

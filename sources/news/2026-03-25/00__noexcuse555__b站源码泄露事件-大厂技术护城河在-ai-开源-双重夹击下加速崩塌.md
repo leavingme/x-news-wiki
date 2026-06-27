@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "B站源码泄露事件：大厂技术护城河在「AI+开源」双重夹击下加速崩塌"
 description: "**[技术平权已从「可能性」变成「可复制的攻击向量」，前端工程壁垒遭遇降维打击]** • 事件本质：被裁工程师公开源码，将数年积累的架构经验瞬间「去中介化」 • 杠杆效应：源码 + Claude Code/小龙虾等工具 = 个人数天内复刻原需数十人年的系统 • 趋势信号：技术壁垒的半衰期正在以「月」为单位计算，大厂「代码资产」面临重估  gakki 锐评：这不是泄愤，而是新生产关系的「强制演示」—"
 resource: "https://x.com/i/status/2036279752554611125"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2036279752554611125"
-created: "2026-03-24"
-updated: "2026-06-26"
-sha256: "89ce078839be0e3bc2a1e2d3d4e934627f5013ca546e0f4d9db98e88563d19e3"
-sources:
-  - "/sources/news/2026-03-25/00__noexcuse555__b站源码泄露事件-大厂技术护城河在-ai-开源-双重夹击下加速崩塌.md"
 ---
 
 # B站源码泄露事件：大厂技术护城河在「AI+开源」双重夹击下加速崩塌

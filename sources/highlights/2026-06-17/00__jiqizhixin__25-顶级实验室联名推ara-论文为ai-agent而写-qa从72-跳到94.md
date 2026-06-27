@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "25+顶级实验室联名推ARA：论文为AI Agent而写，QA从72%跳到94%"
 description: "**[科研产出的消费者正在从人类转向Agent]**  - Stanford/MIT/Harvard/Meta/NVIDIA等25+实验室联合发布 Agent-Native Research Artifacts (ARA) 协议，取代传统叙述型论文 - 采用可执行研究包，保留失败实验、隐藏假设、原始输出——这些正是人类审稿人最容易跳过的部分 - PaperBench 基准上 QA 准确率从 72."
 resource: "https://x.com/i/status/2067055879334121848"
@@ -22,13 +22,6 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "ai-research-paradigm"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2067055879334121848"
-created: "2026-06-17"
-updated: "2026-06-26"
-sha256: "5965a5036497a472422e273825487f8c68e62f2e8a9ad10dd35210268ee0ef39"
-sources:
-  - "/sources/highlights/2026-06-17/00__jiqizhixin__25-顶级实验室联名推ara-论文为ai-agent而写-qa从72-跳到94.md"
 ---
 
 # 25+顶级实验室联名推ARA：论文为AI Agent而写，QA从72%跳到94%

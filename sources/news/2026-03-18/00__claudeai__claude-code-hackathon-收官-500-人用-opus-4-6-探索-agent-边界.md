@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Claude Code Hackathon 收官：500 人用 Opus 4.6 探索 Agent 边界"
 description: "**Anthropic 官方 Hackathon，释放 500 个 Claude Code 实验样本。**  • 官方首次大规模披露 Claude Code 开发者生态的活跃度，500 名 builder 在一周内探索 Opus 4.6 的可能性 • 虽未公布具体获奖项目，但信号明确：Anthropic 正在系统性构建「Claude Code 开发者护城河」 • 与 Codex 的「平台补贴战」形"
 resource: "https://x.com/i/status/2024986293248127452"
@@ -22,13 +22,6 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "claude-code-ecosystem"
 x_source: "bookmark"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2024986293248127452"
-created: "2026-02-20"
-updated: "2026-06-26"
-sha256: "de6c3210a803aeb85893eba9c8ccb7c1b62cad5539ee4b69da5c2a2846069bfb"
-sources:
-  - "/sources/news/2026-03-18/00__claudeai__claude-code-hackathon-收官-500-人用-opus-4-6-探索-agent-边界.md"
 ---
 
 # Claude Code Hackathon 收官：500 人用 Opus 4.6 探索 Agent 边界

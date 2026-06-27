@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Anthropic祭出「认证护城河」：Claude Certified Architect或成AI时代新门槛"
 description: "**[生态平台的认证战争正式打响]**  • Anthropic首次发布官方技术认证，锁定MCP、Claude API、Claude Code、Agent SDK四大核心技能 • 门槛设计精巧：课程免费公开，考试仅限合作伙伴——既扩大生态影响，又控制稀缺性 • 大厂招聘的「新通货」：当AI工程能力标准化，认证或将成为简历筛选的第一道过滤器   gakki锐评：OpenAI靠ChatGPT占领用户心"
 resource: "https://x.com/i/status/2033350916343263317"
@@ -22,13 +22,6 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "claude-code-ecosystem"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2033350916343263317"
-created: "2026-03-16"
-updated: "2026-06-26"
-sha256: "bd1cf5210b573556ab79ab4dec78c13950c1b9837e204997d3e5c22e6d33d994"
-sources:
-  - "/sources/highlights/2026-03-16/00__Saccc_c__anthropic祭出-认证护城河-claude-certified-architect或成ai时代新门槛.md"
 ---
 
 # Anthropic祭出「认证护城河」：Claude Certified Architect或成AI时代新门槛

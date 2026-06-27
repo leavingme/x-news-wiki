@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Sequoia × Block万字论文：AI替代层级管理，VC用真金白银押注"
 description: "**[顶级VC首次把「AI取代组织」写成投资论纲]**  Sequoia合伙人Roelof Botha与Jack Dorsey联名发表万字论文「From Hierarchy to Intelligence」，引用罗马军团、普鲁士参谋制度、曼哈顿计划，论证AI可取代两千年来的层级协调机制。微妙的是，Block上月刚裁40%（约4000人），理由是\"智能工具让小团队能做更多\"。  VC入场论证+实际裁"
 resource: "https://x.com/i/status/2039209567679377423"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2039209567679377423"
-created: "2026-04-01"
-updated: "2026-06-26"
-sha256: "a2094c72bd208eb8d4901d19140253cd9292ed95ea2562df87e56321b47b6503"
-sources:
-  - "/sources/highlights/2026-04-18/00__pirrer__sequoia-block万字论文-ai替代层级管理-vc用真金白银押注.md"
 ---
 
 # Sequoia × Block万字论文：AI替代层级管理，VC用真金白银押注

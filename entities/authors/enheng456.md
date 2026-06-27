@@ -1,25 +1,17 @@
 ---
-type: "entity"
+type: "Author"
 title: "EnHeng嗯哼.Ai (@EnHeng456)"
 description: "X/Twitter 作者 @EnHeng456。共收录 3 条 AI 精选推文。"
 tags:
   - "x-news"
   - "author"
   - "author:EnHeng456"
-timestamp: "2026-06-26T11:53:36.972Z"
+timestamp: "2026-06-27T08:40:40.189Z"
 x_handle: "EnHeng456"
 x_author_name: "EnHeng嗯哼.Ai"
 x_tweet_count: 3
 x_first_seen: "2026-04-05T00:42:57.249Z"
 x_last_seen: "2026-06-24T22:27:41.156Z"
-type_okf: "Author"
-created: "2026-04-05"
-updated: "2026-06-26"
-sha256: "b90fb6f5c2b75456ce8433e7907899b58d3bb7f3f674e5ace1309e9a01d6d3fa"
-sources:
-  - "/sources/highlights/2026-04-05/00__EnHeng456__gemma-4-开源本地化-ai-商业模式的-成本基础-正在被重构.md"
-  - "/sources/news/2026-04-06/00__EnHeng456__claude收紧第三方接入的真正原因-agent调用模式正在制造算力黑洞.md"
-  - "/sources/news/2026-06-24/00__EnHeng456__智谱破万亿港币市值-小米跌破-6000-亿-东升西落-ai-重写中国互联网估值锚.md"
 ---
 
 # EnHeng嗯哼.Ai (@EnHeng456)

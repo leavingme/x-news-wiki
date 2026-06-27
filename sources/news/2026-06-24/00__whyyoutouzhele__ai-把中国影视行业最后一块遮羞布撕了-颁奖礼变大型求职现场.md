@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "AI 把中国影视行业最后一块遮羞布撕了：颁奖礼变大型求职现场"
 description: "**消费低迷 + 市场收缩 + AI 三重叠加，中国影视行业从「高攀不起」一夜跌到「平等摧毁」。**  - 大导演、影帝影后集体喊没工作、没投资，颁奖礼被网友调侃「大型求职现场」 - 明星公开向导演、制片人「喊话求职」，话题登微博热搜 - 普通群演同步失业，行业金字塔从顶端到地基同步塌方   gakki 锐评：影视是 AI 影响最直观的「显性受害者」，但真正该紧张的是下一个「求职颁奖礼」——任何依"
 resource: "https://x.com/i/status/2069400075516973538"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2069400075516973538"
-created: "2026-06-23"
-updated: "2026-06-26"
-sha256: "73065b1e5c621e0ade6b959b3a1c02bff73f3efb69677c41b9634048bf789b0f"
-sources:
-  - "/sources/news/2026-06-24/00__whyyoutouzhele__ai-把中国影视行业最后一块遮羞布撕了-颁奖礼变大型求职现场.md"
 ---
 
 # AI 把中国影视行业最后一块遮羞布撕了：颁奖礼变大型求职现场

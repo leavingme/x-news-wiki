@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "橘座Vol.2聚焦归藏：AI审美与情感代理的产品化探索"
 description: "**Orange AI「橘座」系列第二期聚焦「归藏」，把 AI 拉回到审美、创作、快乐、恋爱四类主观体验场景做产品验证。**  - 橘座系列定位是「AI 工具解剖」，本期主角「归藏」主张让模型参与人类的主观判断，而不是只做工具型 agent - 选题「审美/创作/快乐/恋爱」是当前 AI agent 商业化最难啃的领域：无法靠 benchmark 量化，用户主观体验是唯一度量 - 释放信号：国内 "
 resource: "https://x.com/i/status/2063027497357410357"
@@ -22,13 +22,6 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "ai-aesthetic-style-agent"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2063027497357410357"
-created: "2026-06-05"
-updated: "2026-06-26"
-sha256: "01335d1b0fdd1052e0d58b44f80cf986a286f697bceba65900b83651800abb8f"
-sources:
-  - "/sources/news/2026-06-06/00__oran_ge__橘座vol-2聚焦归藏-ai审美与情感代理的产品化探索.md"
 ---
 
 # 橘座Vol.2聚焦归藏：AI审美与情感代理的产品化探索

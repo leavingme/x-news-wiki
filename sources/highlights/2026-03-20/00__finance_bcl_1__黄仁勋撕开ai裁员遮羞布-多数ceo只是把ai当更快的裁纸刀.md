@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "黄仁勋撕开AI裁员遮羞布：多数CEO只是把AI当更快的裁纸刀"
 description: "**[AI裁员背后的认知贫困]**  • 黄仁勋直指真相：借AI裁员的企业领导者本质是\"江郎才尽\"，不懂如何用AI创造新业务，只能把AI当降本工具而非增长杠杆 • 对比数据触目惊心：OpenAI/Anthropic周入10-20亿美元，英伟达5个月拿5000亿订单并大举招聘——真正懂AI的公司在玩\"乘法\"而非\"减法\" • 岗位结构剧变信号：传统\"金字塔\"开发模型崩毁，只会按部就班写代码的\"木匠\"被"
 resource: "https://x.com/i/status/2034771490126598558"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2034771490126598558"
-created: "2026-03-19"
-updated: "2026-06-26"
-sha256: "72af799aebe4658508e16172fa484c0da611046fb7d1140289d0be4e0afb5390"
-sources:
-  - "/sources/highlights/2026-03-20/00__finance_bcl_1__黄仁勋撕开ai裁员遮羞布-多数ceo只是把ai当更快的裁纸刀.md"
 ---
 
 # 黄仁勋撕开AI裁员遮羞布：多数CEO只是把AI当更快的裁纸刀

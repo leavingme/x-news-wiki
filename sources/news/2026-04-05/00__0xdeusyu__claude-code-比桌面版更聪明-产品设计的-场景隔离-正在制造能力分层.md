@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Claude Code 比桌面版更聪明：产品设计的「场景隔离」正在制造能力分层"
 description: "**[Claude Code 的工具形态正在反向定义它的智能上限]**  推主发现一个有趣现象：跟 Claude Code 聊天时，感觉它比桌面版或网页版 Claude 更聪明。这不是幻觉，而是一个值得关注的产品信号。  Claude Code 作为专业编码工具，预置了更窄的上下文窗口、特定的工具链权限、以及针对代码任务的专项优化。这使得它的「有效智能」反而比通用对话界面更集中。通用大模型为了保持"
 resource: "https://x.com/i/status/2040453812151103642"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2040453812151103642"
-created: "2026-04-04"
-updated: "2026-06-26"
-sha256: "adc16461bb1e227e220486c5b32c85cfab4c73c4e8603c595e8676e6cb71bd6a"
-sources:
-  - "/sources/news/2026-04-05/00__0xdeusyu__claude-code-比桌面版更聪明-产品设计的-场景隔离-正在制造能力分层.md"
 ---
 
 # Claude Code 比桌面版更聪明：产品设计的「场景隔离」正在制造能力分层

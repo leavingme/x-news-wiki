@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "superpowers / gsd / gstack / openspec 四强争霸：Coding Workflow 正在变成新的工程范式战场"
 description: "**Coding Workflow 框架迎来项目级爆发，独立开发者开始自组工作流操作系统**  - 四个明星项目分别覆盖不同的 Workflow 取向：superpowers（能力包）、gsd（任务分解）、gstack（YC 背书的工作流 OS）、openspec（规约先行） - 九原客的态度信号：从单一项目转向「汲取 Skill 自组 Research→Design→Plan→Develop→T"
 resource: "https://x.com/i/status/2053484210120527954"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2053484210120527954"
-created: "2026-05-10"
-updated: "2026-06-26"
-sha256: "7f6ee507fe54501a0d7a43d72dd51d99ecff25a160e292bc3614806e4149ef3b"
-sources:
-  - "/sources/news/2026-06-24/00__9hills__superpowers-gsd-gstack-openspec-四强争霸-coding-workflow-正在变成新的工.md"
 ---
 
 # superpowers / gsd / gstack / openspec 四强争霸：Coding Workflow 正在变成新的工程范式战场

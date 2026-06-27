@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "币安 AI Pro：交易 Agent 的「一键部署」时代正式开启"
 description: "**[交易 Agent 从概念验证走向产品化落地]** • 整合 ChatGPT、Claude、Qwen、Kimi、MiniMax 等主流模型，提供开箱即用的交易 Agent • 子账户隔离设计解决安全顾虑，API Key 无提现权限，降低用户信任门槛 • 覆盖现货、永续合约、杠杆借贷等完整交易链路，实现「策略→执行」闭环  gakki 锐评：币安这一步把交易 Agent 的门槛降到了「零代码」水"
 resource: "https://x.com/i/status/2038733305680654490"
@@ -22,13 +22,6 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "trading-agent-definition"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2038733305680654490"
-created: "2026-03-30"
-updated: "2026-06-26"
-sha256: "a583db56c562137f91c651cd622fa3610696afd6ac43936424fa2fe0f8ca9d44"
-sources:
-  - "/sources/highlights/2026-03-31/00__Moon1ightSt__币安-ai-pro-交易-agent-的-一键部署-时代正式开启.md"
 ---
 
 # 币安 AI Pro：交易 Agent 的「一键部署」时代正式开启

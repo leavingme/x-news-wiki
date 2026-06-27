@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "SkillCraft启示：Agent不再需要「安装技能」，而是从实践中「生长技能」"
 description: "**[Agent学习范式转变：从被动调用到主动抽象]** • 核心洞见：不预装skills，而是从tool call实践中Observer→Pattern→Save→Reuse自我构建 • MiniMax-M2.7成功复现该流程，证明国产模型已具备meta-learning层面的技能抽象能力 • 与MCP「标准化协议」路线形成张力：Skill是涌现的，还是标准化的？  这触及Agent工具化的根本"
 resource: "https://x.com/i/status/2034762982572327347"
@@ -22,13 +22,6 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "skill-vs-mcp-paradigm"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2034762982572327347"
-created: "2026-03-19"
-updated: "2026-06-26"
-sha256: "2c16f956d5f7f5be93b270f57ccf254be65c31359af8a82ae3dd1de6e42ed84b"
-sources:
-  - "/sources/news/2026-03-20/00__dongxi_nlp__skillcraft启示-agent不再需要-安装技能-而是从实践中-生长技能.md"
 ---
 
 # SkillCraft启示：Agent不再需要「安装技能」，而是从实践中「生长技能」

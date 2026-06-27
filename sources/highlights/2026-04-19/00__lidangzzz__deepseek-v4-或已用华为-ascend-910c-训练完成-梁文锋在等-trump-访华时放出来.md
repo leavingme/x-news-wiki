@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "DeepSeek V4 或已用华为 Ascend 910C 训练完成：梁文锋在等 Trump 访华时放出来"
 description: "**[华为芯片+外交时机+梁文锋性格，这个组合让谣言有了可信度]**  市场流传一个尚未证实的说法：DeepSeek V4 已完成训练且全面采用华为 Ascend 910c，benchmark 表现优异，但团队刻意压着不发布，等 Trump 访华时引爆。  这个谣言的逻辑自洽点在于：1）梁文锋过往确有「憋大招」的历史偏好；2）用国产芯片训练 SOTA 模型在地缘政治语境下是天然的传播爆点；3）中美"
 resource: "https://x.com/i/status/2043856502818038152"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2043856502818038152"
-created: "2026-04-14"
-updated: "2026-06-26"
-sha256: "6c04217bb0aa1829ac142062eb216c8d702a7668f0efad1d2e48b144b664741f"
-sources:
-  - "/sources/highlights/2026-04-19/00__lidangzzz__deepseek-v4-或已用华为-ascend-910c-训练完成-梁文锋在等-trump-访华时放出来.md"
 ---
 
 # DeepSeek V4 或已用华为 Ascend 910C 训练完成：梁文锋在等 Trump 访华时放出来

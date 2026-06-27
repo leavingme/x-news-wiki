@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "AEON落地x402协议：AI Agent的「扫码支付」时刻来了"
 description: "**AEON正在把加密支付做成AI时代的「刷卡体验」。**  Coinbase x402支付协议正式在BNB Chain落地，5000万+线下商户接入（Pix、QR Ph等本地网络），覆盖 Binance Wallet、OKX、Bitget、Bybit、KuCoin Pay 等主流钱包。一句话完成支付——「帮我订机票/买咖啡」——正在从演示变成工程问题。  入选BNB Chain第10季MVB（5"
 resource: "https://x.com/i/status/2031233210361991371"
@@ -22,13 +22,6 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "ai-agent-crypto-infra"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2031233210361991371"
-created: "2026-03-10"
-updated: "2026-06-26"
-sha256: "747c51ef8f479fd11c71eb44e4680f9ab86059741b7ba1720db848fa8a995840"
-sources:
-  - "/sources/highlights/2026-04-19/00__466Anan__aeon落地x402协议-ai-agent的-扫码支付-时刻来了.md"
 ---
 
 # AEON落地x402协议：AI Agent的「扫码支付」时刻来了

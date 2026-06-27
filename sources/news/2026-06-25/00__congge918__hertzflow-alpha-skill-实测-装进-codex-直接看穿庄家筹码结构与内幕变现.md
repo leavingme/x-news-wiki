@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "HertzFlow Alpha Skill 实测：装进 Codex 直接看穿庄家筹码结构与内幕变现"
 description: "**币安 Alpha 二级玩家专属「印钱神器」：HertzFlow 把链上分析从专业人肉活变成 Codex 一键调用。**  - 实测 $O 代币：庄家/项目方可控筹码 78.7%、已确认内幕变现 6.2% 流通、蓄筹+高控盘+wash 放量 - 一屏报告：实时行情、决策摘要、链上状态、行为画像、派发数据、风险信号聚合 - 把「链上分析师」的能力封装成 Skill，普通玩家也能用上机构级数据   "
 resource: "https://x.com/i/status/2069434268217229652"
@@ -22,13 +22,6 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "ai-crypto-agent-infra"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2069434268217229652"
-created: "2026-06-23"
-updated: "2026-06-26"
-sha256: "fb47ff9a98700e566cc94deeeedb5c7d4f650fa9ae0d4f7246205fe661e1e937"
-sources:
-  - "/sources/news/2026-06-25/00__congge918__hertzflow-alpha-skill-实测-装进-codex-直接看穿庄家筹码结构与内幕变现.md"
 ---
 
 # HertzFlow Alpha Skill 实测：装进 Codex 直接看穿庄家筹码结构与内幕变现

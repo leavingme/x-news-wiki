@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "CLI Alias安全实践：让AICoding工具「无视风险」成为肌肉记忆"
 description: "**[别名配置正在成为AI编程的刚需安全实践]**  余温分享了一套实用的CLI alias配置方案：将`--dangerously-skip-permissions`和`--dangerously-bypass-approvals-and-sandbox`封装为短别名，同时把危险的`rm`替换为可恢复的`trash`。这不只是一个技巧，而是AI编程时代的一种新型安全范式——在提升效率的同时建立容"
 resource: "https://x.com/i/status/2059231824707236114"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2059231824707236114"
-created: "2026-05-26"
-updated: "2026-06-26"
-sha256: "7fdf6e7db60f32f91cf809061d89b3fceb06a4d06a8a9c70d2a42e8f0a6c27a6"
-sources:
-  - "/sources/news/2026-05-26/00__gkxspace__cli-alias安全实践-让aicoding工具-无视风险-成为肌肉记忆.md"
 ---
 
 # CLI Alias安全实践：让AICoding工具「无视风险」成为肌肉记忆

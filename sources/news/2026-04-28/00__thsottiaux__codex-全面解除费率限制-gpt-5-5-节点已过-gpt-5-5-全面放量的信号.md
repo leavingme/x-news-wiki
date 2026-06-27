@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Codex 全面解除费率限制：GPT-5.5 节点已过，GPT-5.5 全面放量的信号"
 description: "**一句话核心判断：OpenAI 悄然解除 Codex 所有付费档位的速率限制，暗示 GPT-5.5 已度过产能爬坡进入稳定输出阶段。**  - 免费档维持现状，付费档无限制——这不是福利，是产能信号 - 开发者应关注的是：API 端是否同步放宽，还是仅限 Codex CLI 这一产品入口 - OpenAI 正在用实际吞吐量而非宣传话术来证明 GPT-5.5 的成熟度  gakki：解除限速是最诚"
 resource: "https://x.com/thsottiaux/status/2048997818673537399"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "ai-trend-digest"
-type_okf: "X Tweet"
-source_url: "https://x.com/thsottiaux/status/2048997818673537399"
-created: "2026-04-28"
-updated: "2026-06-26"
-sha256: "bcbf76516a2b17f6c796630cec90c68ec8d2396908692747ccefa73680cc484a"
-sources:
-  - "/sources/news/2026-04-28/00__thsottiaux__codex-全面解除费率限制-gpt-5-5-节点已过-gpt-5-5-全面放量的信号.md"
 ---
 
 # Codex 全面解除费率限制：GPT-5.5 节点已过，GPT-5.5 全面放量的信号

@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "OpenClaw 升级后「自我阉割」：工具限制引发 Agent 可靠性危机"
 description: "**[新版本工具权限收紧，Agent 陷入「自医不能」困境]** - 升级后 Tools 被默认限制，OpenClaw 沦为「只能聊天」的 GPT - 用户被迫用「Claude Code 修 OpenClaw」的套娃式解决方案 - 暴露 Agent 平台的核心矛盾：安全边界 vs 执行能力的零和博弈  这不仅是 bug，而是 Agent 基础设施的结构性张力。当平台方收紧权限以求安全，用户却在真实"
 resource: "https://x.com/i/status/2029713032406855944"
@@ -22,13 +22,6 @@ x_selected: 2
 x_priority: 88
 x_related_topic: "agent-reliability-multi-model-memory"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2029713032406855944"
-created: "2026-03-06"
-updated: "2026-06-26"
-sha256: "2d07b498d615af936e53a9e42a62443c31169c239c25915280adae424adb4845"
-sources:
-  - "/sources/highlights/2026-03-06/88__plantegg__openclaw-升级后-自我阉割-工具限制引发-agent-可靠性危机.md"
 ---
 
 # OpenClaw 升级后「自我阉割」：工具限制引发 Agent 可靠性危机

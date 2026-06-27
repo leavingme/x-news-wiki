@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "大模型进入「日报迭代」时代：一个月一版的节奏正在被压缩到一天一版"
 description: "**持续训练正在模糊「版本」与「服务」的边界，模型迭代从软件周期变成了运维周期。** - Orange AI 的判断：当模型从月度发布压缩到日级迭代，传统的「版本对比」评测框架将彻底失效 - 对 Agent 生态的隐性冲击：你今天写好的 prompt engineering 和 skill，明天可能因为模型内部权重漂移而行为变化 - 这不是技术问题，是信任问题——用户无法对一个每天都在变的系统建立"
 resource: "https://x.com/i/status/2051256129355911448"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2051256129355911448"
-created: "2026-05-04"
-updated: "2026-06-26"
-sha256: "b4f74b2bdc3cf4b7ccc7b99bebee6c82fb8405e08f64ed5b53ac9a40f6137822"
-sources:
-  - "/sources/news/2026-05-04/00__oran_ge__大模型进入-日报迭代-时代-一个月一版的节奏正在被压缩到一天一版.md"
 ---
 
 # 大模型进入「日报迭代」时代：一个月一版的节奏正在被压缩到一天一版

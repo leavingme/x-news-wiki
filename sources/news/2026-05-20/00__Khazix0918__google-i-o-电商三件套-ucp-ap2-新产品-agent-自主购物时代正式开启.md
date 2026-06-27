@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Google I/O 电商三件套：UCP+AP2+新产品，Agent 自主购物时代正式开启"
 description: "**[Google I/O 揭开 Agent 电商基础设施序幕]**  - Universal Commerce Protocol（UCP）定位为 Agent 时代的 HTTP，Amazon、Meta、Microsoft、Salesforce、Stripe 联合加入技术委员会，覆盖从美国扩展至加拿大、澳大利亚、英国。 - Agent Payments Protocol（AP2）解决 Agent 付"
 resource: "https://x.com/i/status/2056894667413958907"
@@ -22,13 +22,6 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "ai-agent-crypto-infra"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2056894667413958907"
-created: "2026-05-20"
-updated: "2026-06-26"
-sha256: "5fed36e4ef1b296ebf201ff4c53e27e9dc7935cd22adbbeb7068d63f657cd2b3"
-sources:
-  - "/sources/news/2026-05-20/00__Khazix0918__google-i-o-电商三件套-ucp-ap2-新产品-agent-自主购物时代正式开启.md"
 ---
 
 # Google I/O 电商三件套：UCP+AP2+新产品，Agent 自主购物时代正式开启

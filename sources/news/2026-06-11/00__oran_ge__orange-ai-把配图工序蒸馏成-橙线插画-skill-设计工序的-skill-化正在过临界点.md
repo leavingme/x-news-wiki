@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Orange AI 把配图工序蒸馏成「橙线插画」Skill：设计工序的 Skill 化正在过临界点"
 description: "**Skill 化的射程，正从代码工作流外溢到内容创作工序。**  - 来源真实流程：Orange AI 写完文章后，把\"配图过程\"这一道工序沉淀为可复用 Skill - Skill 已免费开源，提供安装地址 - 信号意义大于单点价值：过去靠\"个人风格\"完成的设计/插画/排版工作，正在被逐项拆成可分发的工具 - 配图是内容生产里\"最像手艺人\"的环节——当它都能被 Skill 化，写作、剪辑、字幕都"
 resource: "https://x.com/i/status/2064861625883222114"
@@ -22,13 +22,6 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "skill-automation-engineering"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2064861625883222114"
-created: "2026-06-11"
-updated: "2026-06-26"
-sha256: "53a50a8f097f8aeb8911c26b0943699881190bb624e849c2f8d301f9657e1792"
-sources:
-  - "/sources/news/2026-06-11/00__oran_ge__orange-ai-把配图工序蒸馏成-橙线插画-skill-设计工序的-skill-化正在过临界点.md"
 ---
 
 # Orange AI 把配图工序蒸馏成「橙线插画」Skill：设计工序的 Skill 化正在过临界点

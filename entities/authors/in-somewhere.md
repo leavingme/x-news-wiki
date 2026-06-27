@@ -1,23 +1,17 @@
 ---
-type: "entity"
+type: "Author"
 title: "金醬厚 - 大甲美櫻 🍑🪺 (@in_somewhere)"
 description: "X/Twitter 作者 @in_somewhere。共收录 1 条 AI 精选推文。"
 tags:
   - "x-news"
   - "author"
   - "author:in_somewhere"
-timestamp: "2026-06-26T11:53:36.948Z"
+timestamp: "2026-06-27T08:40:40.157Z"
 x_handle: "in_somewhere"
 x_author_name: "金醬厚 - 大甲美櫻 🍑🪺"
 x_tweet_count: 1
 x_first_seen: "2026-03-02T12:07:38.939Z"
 x_last_seen: "2026-03-02T12:07:38.939Z"
-type_okf: "Author"
-created: "2026-03-02"
-updated: "2026-06-26"
-sha256: "db6bf168b004c1b867afd63019e6e20968f69bf3a2db54e1b35ad72a3e5b9df2"
-sources:
-  - "/sources/highlights/2026-03-02/00__in_somewhere__台湾政治博弈暴露-ai-军事化现实-c5isr-与-ai-指管系统成为国防预算核心筹码.md"
 ---
 
 # 金醬厚 - 大甲美櫻 🍑🪺 (@in_somewhere)

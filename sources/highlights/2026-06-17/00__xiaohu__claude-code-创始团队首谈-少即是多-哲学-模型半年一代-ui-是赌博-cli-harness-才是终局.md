@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Claude Code 创始团队首谈\"少即是多\"哲学：模型半年一代，UI 是赌博，CLI/Harness 才是终局"
 description: "**[Claude Code 创始团队披露内部\"少即是多\"哲学：模型进步太快，半年后 UI 就过时，CLI 才是终局]**  - CLAUDE.md 保持极简，团队负责人自己的只有两行（提 PR 自动合并、提 PR 发审批频道），其余规则写进全队共建的代码库文件 - 几千 token 时直接删掉重写：模型每代都在变强，今天费劲搭的工程化东西很快白搭 - 拒绝做 GUI 的原因：模型进步速度超过 U"
 resource: "https://x.com/i/status/2067131704343716087"
@@ -22,13 +22,6 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "claude-code-restraint-philosophy"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2067131704343716087"
-created: "2026-06-17"
-updated: "2026-06-26"
-sha256: "8933e68d90c9eaaf507b81046d25a133e3120d131f3874b4f0527d2d71d4bc51"
-sources:
-  - "/sources/highlights/2026-06-17/00__xiaohu__claude-code-创始团队首谈-少即是多-哲学-模型半年一代-ui-是赌博-cli-harness-才是终局.md"
 ---
 
 # Claude Code 创始团队首谈"少即是多"哲学：模型半年一代，UI 是赌博，CLI/Harness 才是终局

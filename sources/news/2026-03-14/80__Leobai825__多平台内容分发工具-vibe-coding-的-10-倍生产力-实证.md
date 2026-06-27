@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "多平台内容分发工具：Vibe Coding 的「10 倍生产力」实证"
 description: "**当内容创作者遇见 Vibe Coding，生产力范式发生跃迁。**  - 开发者用 vibe coding 构建多平台分发工具，实现文章/视频/动态一键同步至多个平台 - 核心机制：抓取内容 → 打开目标平台网页版 → 自动填充 → 一键发布，绕开 API 限制 - 定价策略反直觉：年付 99 元，远低于市场预期（100+/月），体现 Indie Dev 的「良心定价」哲学 - 这一案例验证了"
 resource: "https://x.com/i/status/2032625005268443495"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 80
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2032625005268443495"
-created: "2026-03-14"
-updated: "2026-06-26"
-sha256: "a69ce4ac11461063eaf99560e23ae2ed2a5f677446f4808fa37a53f41b397019"
-sources:
-  - "/sources/news/2026-03-14/80__Leobai825__多平台内容分发工具-vibe-coding-的-10-倍生产力-实证.md"
 ---
 
 # 多平台内容分发工具：Vibe Coding 的「10 倍生产力」实证

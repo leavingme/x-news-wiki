@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Claude Code「10年 legacy 项目重构」实证：90% AI 贡献率击穿工程质疑"
 description: "**【AI 软件工程从「玩具」走向「生产工具」的临界点已至】**  • **质疑与验证**：145 天前被 V2EX 社群嘲讽「没活硬整」「PHP 弱类型重构是噩梦」的项目，现已成功上线 • **规模与路径**：7,500 个 PHP 文件，跨越 Laravel 5.2→12 共七个主版本，AI 工作量占比超 90% • **真实成本**：Claude Max 订阅 + Opus 模型，团队全员账"
 resource: "https://x.com/i/status/2034208585534849052"
@@ -22,13 +22,6 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "claude-code-ecosystem"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2034208585534849052"
-created: "2026-03-18"
-updated: "2026-06-26"
-sha256: "a2497afaca7f1f98e2bfaff6aa72d3407577c86aa6daaad2a9b5ecf84b253d6a"
-sources:
-  - "/sources/highlights/2026-03-18/00__pirrer__claude-code-10年-legacy-项目重构-实证-90-ai-贡献率击穿工程质疑.md"
 ---
 
 # Claude Code「10年 legacy 项目重构」实证：90% AI 贡献率击穿工程质疑

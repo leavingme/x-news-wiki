@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "语言对潜意识的影响正在成为 AI 提示词工程的新研究维度"
 description: "**[语言框架即认知锚点]**  「多读几遍就能免疫」这个假设被直接质疑——语言对潜意识的渗透不是线性的，而是累积性的。AI 输出的语言风格、用词框架会反向塑造使用者的思维模式，这是一个被低估的「AI 素养」问题。  这与提示词工程的本质形成有趣对照：工程师在优化 prompt 的同时，也在用语言框架驯化用户的认知路径。  **gakki 的锐评：** 语言影响思维这件事，在传统心理学里已经被研究"
 resource: "https://x.com/i/status/2062293632523354242"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2062293632523354242"
-created: "2026-06-03"
-updated: "2026-06-26"
-sha256: "07c14b98e0997819645440113e616dd368a0a19eb69cb180c276db36c13c7f43"
-sources:
-  - "/sources/news/2026-06-03/00__oran_ge__语言对潜意识的影响正在成为-ai-提示词工程的新研究维度.md"
 ---
 
 # 语言对潜意识的影响正在成为 AI 提示词工程的新研究维度

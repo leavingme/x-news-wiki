@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Codex /goal 上线：AI 编程工具正式进入「几天几夜连续执行」时代"
 description: "**[/goal 让 AI 从\"回答问题\"进化到\"替你完成任务\"——这是 Agent 能力的一次质变]**  Codex 发布史诗级更新，三个功能值得重点关注： 1. **快捷截图上下文**：按住左右 Command 键截屏，屏幕上所有文本自动填入上下文，不只是当前窗口 2. **/goal 正式上线**：给定目标后持续执行数小时甚至数天，可随时暂停/更改/继续 3. **内置浏览器高级注释模式*"
 resource: "https://x.com/i/status/2057678002675413057"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2057678002675413057"
-created: "2026-05-22"
-updated: "2026-06-26"
-sha256: "3d78a1a2474cbe950a0b6d5067d2c5afdc12e4da40c5ec86ca666e47772a4b79"
-sources:
-  - "/sources/news/2026-05-22/00__op7418__codex-goal-上线-ai-编程工具正式进入-几天几夜连续执行-时代.md"
 ---
 
 # Codex /goal 上线：AI 编程工具正式进入「几天几夜连续执行」时代

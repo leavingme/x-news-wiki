@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "8天480倍：Claude Code+合约策略第一次有了可验证的成功样本"
 description: "**核心判断：AI Agent跑合约的第一条完整赚钱路径浮出水面，但门槛比想象的更高。**  一则实盘记录被疯传：Claude Code+Binance Skills，8天从100U滚到4.8万U（480倍），核心策略是筛选meme/AI高热度妖币+Claude实时抓取+固定200U止损+收资金费率。发帖人特别指出，转折点在于siren信号——它直接决定了容错资金从100U扩到5000U的临界操作"
 resource: "https://x.com/i/status/2043145883697778726"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2043145883697778726"
-created: "2026-04-12"
-updated: "2026-06-26"
-sha256: "bfe5d05c7977021c70571aef251701b40067a23f0afd1e4d4a6aa812b48853fe"
-sources:
-  - "/sources/highlights/2026-04-13/00__abyssofgambling__8天480倍-claude-code-合约策略第一次有了可验证的成功样本.md"
 ---
 
 # 8天480倍：Claude Code+合约策略第一次有了可验证的成功样本

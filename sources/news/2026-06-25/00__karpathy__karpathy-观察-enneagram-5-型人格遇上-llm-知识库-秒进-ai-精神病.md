@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Karpathy 观察：Enneagram 5 型人格遇上 LLM 知识库，秒进「AI 精神病」"
 description: "**LLM 知识库对特定人格类型具备「一击必杀」的成瘾性。**  - Karpathy 用 Enneagram（五大人格分类体系）解释一种现象：5 型（知识收集型）一旦发现 LLM 知识库，会被瞬间「one shot」进 AI 痴迷状态 - 触发条件：你恰好有大量存量数据可以导入时，效应尤其强 - 本质是「认知饥渴 + 完美外脑」的化学反应：长期渴望系统性整理知识的人，撞上能瞬间结构化所有数据的工"
 resource: "https://x.com/i/status/2046017433199374610"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2046017433199374610"
-created: "2026-04-20"
-updated: "2026-06-26"
-sha256: "2ca8a5556fc3347a0fe957af9f8b4563baab607acae5fc6931ec0c493101732d"
-sources:
-  - "/sources/news/2026-06-25/00__karpathy__karpathy-观察-enneagram-5-型人格遇上-llm-知识库-秒进-ai-精神病.md"
 ---
 
 # Karpathy 观察：Enneagram 5 型人格遇上 LLM 知识库，秒进「AI 精神病」

@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "小红书配图 Skill 越过「AI感」红线：主动规避图片被打标成核心竞争力"
 description: "**[配图是内容的第一道信任门槛，而非装饰]**  歸藏的新版 Skill 解决了图文赛道的核心痛点：AI 生成内容被打上「AI 标记」后流量折损。核心突破在于三层设计——有图时凸显图片质量，无图时主动寻找优质素材，图片质量差时才介入美化，且全程规避 AI 图片生成。这比单纯提升生成质量更懂内容分发逻辑。  2 套主题、28 版式、9 套配色、8 大内容类别适配，参数密度说明这是经过高频迭代的工程"
 resource: "https://x.com/i/status/2059837199299031265"
@@ -22,13 +22,6 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "skills-ecosystem-standards"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2059837199299031265"
-created: "2026-05-28"
-updated: "2026-06-26"
-sha256: "e405c8969a8c8d6b1d41d654bc8c4490d01be42509a048d92fff6f3a2c12c6b9"
-sources:
-  - "/sources/highlights/2026-05-28/00__op7418__小红书配图-skill-越过-ai感-红线-主动规避图片被打标成核心竞争力.md"
 ---
 
 # 小红书配图 Skill 越过「AI感」红线：主动规避图片被打标成核心竞争力

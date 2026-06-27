@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "AI生产力放大10x后：builder升值、seller安全，第三类人成为重灾区"
 description: "**[一句话核心判断]** AI将员工分为三等：builder因AI而价值倍增，seller放大收入相对安全，而执行型中间层将成为替代重灾区。  **要点：** - builder（建造者）：AI让生产力10x，价值持续升高，薪资成为低估 - seller（销售）：放大收入逻辑，AI是杠杆，相对安全 - 执行型中间层：高学历、中等薪资、主要做信息传递和流程执行——替代重灾区  **gakki锐评："
 resource: "https://x.com/i/status/2057651458535997850"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2057651458535997850"
-created: "2026-05-22"
-updated: "2026-06-26"
-sha256: "9ff4fef2508f3e66dd6c221fde52f1be375e6deef1bc5da7f9b0cb77dcf3e7fe"
-sources:
-  - "/sources/news/2026-05-22/00__oran_ge__ai生产力放大10x后-builder升值-seller安全-第三类人成为重灾区.md"
 ---
 
 # AI生产力放大10x后：builder升值、seller安全，第三类人成为重灾区

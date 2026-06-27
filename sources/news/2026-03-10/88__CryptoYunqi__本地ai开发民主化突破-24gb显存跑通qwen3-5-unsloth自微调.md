@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "本地AI开发民主化突破：24GB显存跑通Qwen3.5+Unsloth自微调"
 description: "**【端侧Agent训练闭环首次跑通】** • 35B MoE模型可在消费级显卡本地运行，无需API依赖 • Agentic Coding实现「模型自举」：让AI自己编写微调代码训练更强版本 • 隐私与成本双重解放：数据不出本地、零API费用  Agent不是云端特权，个人设备正在 reclaim AI 主权。"
 resource: "https://x.com/i/status/2031026485440733540"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 88
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2031026485440733540"
-created: "2026-03-09"
-updated: "2026-06-26"
-sha256: "84fd449a76e1d387650c9864d3840b34192194c549e658568f8cb2a926328879"
-sources:
-  - "/sources/news/2026-03-10/88__CryptoYunqi__本地ai开发民主化突破-24gb显存跑通qwen3-5-unsloth自微调.md"
 ---
 
 # 本地AI开发民主化突破：24GB显存跑通Qwen3.5+Unsloth自微调

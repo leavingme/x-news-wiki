@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "TokenSpeed：为 Agent 工作负载设计的光速推理引擎，TensorRT-LLM 性能配 vLLM 易用性"
 description: "**推理引擎从「通用优化」走向「Agent 场景专精」，TokenSpeed 的定位切中了当前最大瓶颈。**  - 宣称 TensorRT-LLM 级性能 + vLLM 级易用性，目标是解决 Agent 场景下频繁工具调用、上下文切换带来的吞吐抖动问题 - Agent 工作负载与传统 chat completion 的差异在于：高并发短请求、动态 batch、频繁 context switch，通"
 resource: "https://x.com/i/status/2052595158487883812"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2052595158487883812"
-created: "2026-05-08"
-updated: "2026-06-26"
-sha256: "baf581c247fdfd31d4d07c5f2fc6a132042f6b771e7fa876cf7ccc4b3750da77"
-sources:
-  - "/sources/news/2026-05-08/00__jiqizhixin__tokenspeed-为-agent-工作负载设计的光速推理引擎-tensorrt-llm-性能配-vllm-易用性.md"
 ---
 
 # TokenSpeed：为 Agent 工作负载设计的光速推理引擎，TensorRT-LLM 性能配 vLLM 易用性

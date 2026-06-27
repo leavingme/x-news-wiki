@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "微信正式向Agent开放：OpenClaw「小龙虾」零摩擦接入，入口战争进入终局前夜"
 description: "**[微信从封闭走向开放，成为首个原生支持第三方Agent生态的超级App]**  • 用户升级微信后，在「个人设置-插件」页面可直接扫码绑定OpenClaw Agent，将AI助手添加为联系人进行对话和任务执行 • 这标志着微信从「小程序」时代向「Agent Native」时代的战略跃迁，10亿级用户流量池首次对第三方Agent开放直连 • 对比此前QClaw内测的企业微信路径，此次个人号开放意"
 resource: "https://x.com/i/status/2035551974947692746"
@@ -22,13 +22,6 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "agent-multi-platform"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2035551974947692746"
-created: "2026-03-22"
-updated: "2026-06-26"
-sha256: "824e46da4c6437fc9f022fffaa94a1d9c21896e77b1468e69dbb696a2f236aff"
-sources:
-  - "/sources/highlights/2026-03-22/00__xiaohu__微信正式向agent开放-openclaw-小龙虾-零摩擦接入-入口战争进入终局前夜.md"
 ---
 
 # 微信正式向Agent开放：OpenClaw「小龙虾」零摩擦接入，入口战争进入终局前夜

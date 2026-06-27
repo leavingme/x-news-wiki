@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "宝玉实锤 Codex 交互设计优势：SubAgent 运行状态与提示词可直接查看"
 description: "**[产品设计细节见真章，Codex 的透明度碾压同类]**  宝玉实测发现 Codex 在 Agent 可观测性上做了扎实工作：当前运行的 SubAgents 列表、每个 Agent 的任务状态、乃至正在使用的提示词，全部可视化透明展示。这不是大厂标配——大多数 Agent 产品把 SubAgent 当黑箱，用户根本不知道内部在跑什么。  这种透明度对开发者意味着：调优提示词不再靠猜，可以对照实"
 resource: "https://x.com/i/status/2058330410107449401"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2058330410107449401"
-created: "2026-05-23"
-updated: "2026-06-26"
-sha256: "0774ebbe6cac5ba49caa7ae3e30082baee20b19dacc820040008de08db78de85"
-sources:
-  - "/sources/news/2026-05-24/00__dotey__宝玉实锤-codex-交互设计优势-subagent-运行状态与提示词可直接查看.md"
 ---
 
 # 宝玉实锤 Codex 交互设计优势：SubAgent 运行状态与提示词可直接查看

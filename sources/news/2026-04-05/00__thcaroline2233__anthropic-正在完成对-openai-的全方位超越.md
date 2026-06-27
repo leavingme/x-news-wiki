@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Anthropic 正在完成对 OpenAI 的全方位超越"
 description: "**[OpenAI 正在重演 Google 搜索式衰落：叙事领先不等于产品领先]**  Anthropic 的Claude系列在产品力上已形成多维度压制，OpenAI 即使 IPO 也大概率高开低走。  这不仅是模型能力的胜负，更是产品哲学的分化——Anthropic 的克制与 OpenAI 的堆料正在拉开体验差距。  gakki锐评：OpenAI 的问题不是钱不够，是\"做什么都有，什么都做不好\""
 resource: "https://x.com/i/status/2040578256244769176"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2040578256244769176"
-created: "2026-04-04"
-updated: "2026-06-26"
-sha256: "e9adbbbfe9733f7fae3786a64281003896f5a1abccb79de62e4d19567e003a46"
-sources:
-  - "/sources/news/2026-04-05/00__thcaroline2233__anthropic-正在完成对-openai-的全方位超越.md"
 ---
 
 # Anthropic 正在完成对 OpenAI 的全方位超越

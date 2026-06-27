@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "智谱Zcode正面硬刚Codex：Google账号免登+GLM 5.2免费，国产Coding Agent撕开付费墙"
 description: "**智谱Zcode桌面客户端正式亮相，定位对标Codex CLI，Google账号直登即可免费使用GLM 5.2**  - 全平台覆盖：Windows、Mac（Intel+Apple Silicon）、Linux（内测群） - 商业模式破壁：跳过国内手机号KYC和付费墙，靠Google账号体系零摩擦接入 - 赛道格局：CLI Coding Agent从Codex CLI+Claude Code双雄"
 resource: "https://x.com/i/status/2066461128339943492"
@@ -22,13 +22,6 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "codex-cli-tool-encapsulation"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2066461128339943492"
-created: "2026-06-15"
-updated: "2026-06-26"
-sha256: "f2885bb059ec5fc719238aaddce41d4fdef9ed15fed151563f19e0852b62337e"
-sources:
-  - "/sources/highlights/2026-06-15/00__vista8__智谱zcode正面硬刚codex-google账号免登-glm-5-2免费-国产coding-agent撕开付费墙.md"
 ---
 
 # 智谱Zcode正面硬刚Codex：Google账号免登+GLM 5.2免费，国产Coding Agent撕开付费墙

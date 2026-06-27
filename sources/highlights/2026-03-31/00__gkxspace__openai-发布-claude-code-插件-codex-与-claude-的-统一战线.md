@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "OpenAI 发布 Claude Code 插件：Codex 与 Claude 的「统一战线」"
 description: "**[OpenAI 主动打破平台壁垒，将 Codex 嵌入竞争对手 Claude Code 的生态]**  • 战略转向：OpenAI 不再坚持「二选一」，而是让 Codex 成为 Claude Code 的插件，提供代码审查、对抗性审查及任务移交能力 • 信号解读：这既是 OpenAI 对自身工具链信心的体现，也暗示 Agent 工具市场进入「互操作性优先」阶段 • 影响边界：开发者不再需要在 "
 resource: "https://x.com/i/status/2038791588000739394"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2038791588000739394"
-created: "2026-03-31"
-updated: "2026-06-26"
-sha256: "8b1a3f568c8ad047cacc86088ef133aab4d56559418c72ab6c5fd15e1cb22c69"
-sources:
-  - "/sources/highlights/2026-03-31/00__gkxspace__openai-发布-claude-code-插件-codex-与-claude-的-统一战线.md"
 ---
 
 # OpenAI 发布 Claude Code 插件：Codex 与 Claude 的「统一战线」

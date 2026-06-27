@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Anthropic 正式封杀第三方工具：订阅与 API 的护城河逻辑终于不装了"
 description: "**[Anthropic 对 OpenClaw 动手了，但这次不是技术问题，是商业主权宣言]**  从 4 月 4 日起，Claude Pro/Max 订阅不再覆盖 OpenClaw 等第三方工具用量。这是 Anthropic 自 1 月技术封堵、2 月条款更新后的\"最终宣判\"。现有订阅用户会获一次性等额补偿，嫌不够的可全额退款。  关键信号：Anthropic 的策略从来不是\"禁止使用\"，而是\""
 resource: "https://x.com/i/status/2040239433362862323"
@@ -22,13 +22,6 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "claude-code-ecosystem"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2040239433362862323"
-created: "2026-04-04"
-updated: "2026-06-26"
-sha256: "1536f5b9e178f611441e62d8f0b683a3cdf793b419ea59831b66d722995bd467"
-sources:
-  - "/sources/highlights/2026-04-04/00__dotey__anthropic-正式封杀第三方工具-订阅与-api-的护城河逻辑终于不装了.md"
 ---
 
 # Anthropic 正式封杀第三方工具：订阅与 API 的护城河逻辑终于不装了

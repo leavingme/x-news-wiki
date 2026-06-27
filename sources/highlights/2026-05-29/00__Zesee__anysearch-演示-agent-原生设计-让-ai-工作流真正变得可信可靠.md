@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "AnySearch 演示 Agent 原生设计：让 AI 工作流真正变得可信可靠"
 description: "**[让 AI 助手拥有「上帝视角」]**  演示通过接入 AnySearch，让 AI Agent 分析边缘 AI 市场前景并生成专业简报。核心价值：输出的 Markdown 格式极其干净，几乎无 Token 浪费；能精准抓取核心数据并结构化处理；有效解决 AI 幻觉问题，使自动化工作流可信可靠。  极大降低了构建 AI 工作流的成本与门槛，让 AI 助手真正进化为生产力工具。  **gakki"
 resource: "https://x.com/i/status/2060269099431637406"
@@ -22,13 +22,6 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "agent-data-intelligence-infra"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2060269099431637406"
-created: "2026-05-29"
-updated: "2026-06-26"
-sha256: "8a0484590dffae4e9798e24bdf630b5329b5f06075ae7da6edff79bc7d9d3774"
-sources:
-  - "/sources/highlights/2026-05-29/00__Zesee__anysearch-演示-agent-原生设计-让-ai-工作流真正变得可信可靠.md"
 ---
 
 # AnySearch 演示 Agent 原生设计：让 AI 工作流真正变得可信可靠

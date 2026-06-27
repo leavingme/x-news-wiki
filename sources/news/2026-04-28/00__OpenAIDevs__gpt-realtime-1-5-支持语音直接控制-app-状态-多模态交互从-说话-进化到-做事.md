@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "GPT-Realtime-1.5 支持语音直接控制 App 状态：多模态交互从「说话」进化到「做事」"
 description: "**[一句话核心判断]**  OpenAI 发布 GPT-Realtime-1.5，新增用语音直接控制 App 状态的能力——用户不再只是「问 AI」，而是「让 AI 替你操作」，多模态 Agent 交互从感知层进入执行层。  **后续要点：** - 技术跨越：之前的多模态语音交互主要是「语音输入+文字输出」，现在是「语音→执行」，是 Agent 化的关键一步 - 用户体验：自然语言直接驱动 Ap"
 resource: "https://x.com/OpenAIDevs/status/2048871260512473385"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "ai-trend-digest"
-type_okf: "X Tweet"
-source_url: "https://x.com/OpenAIDevs/status/2048871260512473385"
-created: "2026-04-27"
-updated: "2026-06-26"
-sha256: "16feb795b8740cd050cd97463eb46619490ffe32c24d78d168718dd5da791b1f"
-sources:
-  - "/sources/news/2026-04-28/00__OpenAIDevs__gpt-realtime-1-5-支持语音直接控制-app-状态-多模态交互从-说话-进化到-做事.md"
 ---
 
 # GPT-Realtime-1.5 支持语音直接控制 App 状态：多模态交互从「说话」进化到「做事」

@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "天策宣告「百万游戏」终结：半年验证独立开发者从社群到营收的路径可行"
 description: "**一句话核心判断**  天策发起的「百万游戏」（159元门票+A7达标后返全额）在半年内实现月营收百万，验证了「社群即投资+内容即获客」的独立开发者商业路径是可行的，但窗口期正在关闭。  **信息增量** - 原始发起人天策完成了从社群信任到商业变现的闭环，说明AI内容创业者不靠投流也能完成种子用户积累 - 名单中@chen_xiao95600、@0xtonixie等早期「投资人」的曝光，折射出"
 resource: "https://x.com/i/status/2062423579870843246"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2062423579870843246"
-created: "2026-06-04"
-updated: "2026-06-26"
-sha256: "a236b8d6f1059df627398f5b80a2291456a8ff714e04617256c37400dcfbfba3"
-sources:
-  - "/sources/news/2026-06-04/00__Leobai825__天策宣告-百万游戏-终结-半年验证独立开发者从社群到营收的路径可行.md"
 ---
 
 # 天策宣告「百万游戏」终结：半年验证独立开发者从社群到营收的路径可行

@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "2026 YouTube 明穿AI短剧爆发元年：质量门槛已过，多脸/手势一致性仍是工程瓶颈"
 description: "Michael Anti 实测 YouTube 全屏 AI 短剧发现：2026 年确实是 AI 短剧与真人短剧「平起平坐」的元年，质量层面已无明显硬伤；但多人脸朝向、手持文件一致性等细节仍是尚未解决的工程问题。  要点： - 内容消费端：AI 短剧在 YouTube 已完成从「猎奇」到「可接受」的认知跨越 - 生产端：多角色/多物体一致性问题说明视频生成的「最后一公里」仍在工程层面而非模型层面 -"
 resource: "https://x.com/i/status/2059872403514392604"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2059872403514392604"
-created: "2026-05-28"
-updated: "2026-06-26"
-sha256: "af5846c7a945f2600533192f88c9ca1e9cedde99935fbb3bd3004634dc8cd35f"
-sources:
-  - "/sources/news/2026-05-28/00__mranti__2026-youtube-明穿ai短剧爆发元年-质量门槛已过-多脸-手势一致性仍是工程瓶颈.md"
 ---
 
 # 2026 YouTube 明穿AI短剧爆发元年：质量门槛已过，多脸/手势一致性仍是工程瓶颈

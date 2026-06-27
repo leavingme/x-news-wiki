@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "ColaOS 五一免费 V4：Agent 产品正在用「负成本获客」绕过模型厂商的定价体系"
 description: "**[一句话核心判断]**   ColaOS（Orange AI）宣布五一假期期间免费开放 DeepSeek V4，负责人以「抠门」形容官方 2.5 折优惠，试图以自身补贴建立用户习惯。  **要点：** - 这不是单纯的促销，而是 Agent 产品方对模型定价权的一次试探——用免费换流量，再用流量倒逼模型厂商降格 - 五一时间窗口暗示针对性的学生/白领市场卡位，下载链接已支持 Mac，暗示早期采"
 resource: "https://x.com/i/status/2049121713066283127"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2049121713066283127"
-created: "2026-04-28"
-updated: "2026-06-26"
-sha256: "6dcce6134a537bbafcb07585a990b438db6600ae3916e3a69849eb18f517b787"
-sources:
-  - "/sources/news/2026-04-28/00__oran_ge__colaos-五一免费-v4-agent-产品正在用-负成本获客-绕过模型厂商的定价体系.md"
 ---
 
 # ColaOS 五一免费 V4：Agent 产品正在用「负成本获客」绕过模型厂商的定价体系

@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "OpenClaw 13700+Skills生态越过\"数字陷阱\"：开源Agent进入可用性质变拐点"
 description: "**[Skills生态从\"有多少\"到\"能不能用\"的临界点已至]**  - OpenClaw生态Skills数量突破13700个，MyClaw作为落地层实现\"让Skills真正可用\"——从数量积累到质量可用的质变拐点 - 关键判断：Skills生态的核心竞争已从\"创建数量\"转向\"激活率\"，13700+Skills若激活率高于某个阈值，将形成网络效应——更多Skills吸引更多用户，更多用户产生更多真"
 resource: "https://x.com/Aria_Nawi/status/2048641080514510911"
@@ -22,13 +22,6 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "skills-ecosystem-standards"
 x_source: "ai-trend-digest"
-type_okf: "X Tweet"
-source_url: "https://x.com/Aria_Nawi/status/2048641080514510911"
-created: "2026-04-27"
-updated: "2026-06-26"
-sha256: "2f22ad4c8891e266ac01b0e53c2ede9cfcca249a34b13fbbd167212ed1fb0126"
-sources:
-  - "/sources/news/2026-04-27/00__Aria_Nawi__openclaw-13700-skills生态越过-数字陷阱-开源agent进入可用性质变拐点.md"
 ---
 
 # OpenClaw 13700+Skills生态越过"数字陷阱"：开源Agent进入可用性质变拐点

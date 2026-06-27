@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Rachel 拆解 'Dreaming' 功能：用定期自检防止 AI 把'对用户的旧理解'固化成偏见"
 description: "**Agent 记忆系统的下一道防线：不是'记更多'，而是'敢忘掉'。**  - Dreaming 机制让重度用户定期检查 AI 对自身的理解是否仍然准确。 - 核心问题：短期记忆如果不清理，会把'过去某个时刻的你'固化成永久画像，污染后续任务效果。 - 这是从'记忆即资产'走向'记忆即负债'的反向思考，给 Agent Memory 设计提供了新范式。   gakki 锐评：上下文资产化讲了一年，"
 resource: "https://x.com/i/status/2065341388682629575"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2065341388682629575"
-created: "2026-06-12"
-updated: "2026-06-26"
-sha256: "b83c1c42cf61b25cae5d585c1f4377e15749dd62ea44b6f3395fdd331b44456b"
-sources:
-  - "/sources/news/2026-06-12/00__Zesee__rachel-拆解-dreaming-功能-用定期自检防止-ai-把-对用户的旧理解-固化成偏见.md"
 ---
 
 # Rachel 拆解 'Dreaming' 功能：用定期自检防止 AI 把'对用户的旧理解'固化成偏见

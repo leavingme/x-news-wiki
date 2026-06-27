@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "企业Agent最大盲点：信息转述损耗让AI永远获得失真的上下文"
 description: "**企业使用Agent的最大问题不是模型不够强，而是「员工→AI」的信息传递链路上存在结构性损耗。**  - 会议决策、客户沟通无法实时注入Agent长期记忆，导致每次对话都是碎片拼接 - 人类不擅长记录信息、擅长遗忘信息、转述时还会二次失真——这个损耗链在企业场景被放大 - 真正的解法是协同工具直接把会议/沟通内容写入Agent记忆，而非让员工主动「回忆+转述」  新一代协同工具（Notion "
 resource: "https://x.com/i/status/2054462646527893681"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2054462646527893681"
-created: "2026-05-13"
-updated: "2026-06-26"
-sha256: "02b5844e1c3ea5a5e567f82f3ba99ea6172457b3dcacf26ad864df86991c0bfa"
-sources:
-  - "/sources/highlights/2026-05-13/00__lxfater__企业agent最大盲点-信息转述损耗让ai永远获得失真的上下文.md"
 ---
 
 # 企业Agent最大盲点：信息转述损耗让AI永远获得失真的上下文

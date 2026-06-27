@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "GPT-Image 2.0 实操印证：图标级生成已进「零门槛」阶段"
 description: "**一句话核心判断：** GPT-Image 2.0 被用于实际项目图标绘制，说明多模态生成已进入可交付的生产级可用状态，而非 demo 玩具。  **要点：** - 开发者（guizang）在真实项目语境下调用 GPT-Image 2.0 绘图，而非测试玩票 - 图标属精细节、高一致性要求的场景，印证 model 已具备生产就绪度 - 「写个这种东西太简单了」说明工具门槛已被认知为基础设施而非能"
 resource: "https://x.com/i/status/2060660883135840453"
@@ -22,13 +22,6 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "ai-video-audio-quality"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2060660883135840453"
-created: "2026-05-30"
-updated: "2026-06-26"
-sha256: "769d7ac8df44dac257ac9917d52f8c701e0879010de3cfca891998dfd270d234"
-sources:
-  - "/sources/news/2026-05-30/00__op7418__gpt-image-2-0-实操印证-图标级生成已进-零门槛-阶段.md"
 ---
 
 # GPT-Image 2.0 实操印证：图标级生成已进「零门槛」阶段

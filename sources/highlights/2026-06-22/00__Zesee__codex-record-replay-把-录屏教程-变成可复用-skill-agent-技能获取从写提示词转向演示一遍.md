@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Codex Record & Replay 把'录屏教程'变成可复用 Skill：Agent 技能获取从写提示词转向演示一遍"
 description: "**Codex 把'人示范一遍'作为 Skill 生产的入口，把 Agent 能力获取的成本从 prompt 编写降到鼠标操作。**  - 产品逻辑：你做一遍重复工作（报销、issue、报表），Codex 观察后固化为可复用 Skill，下次只需告诉它变量（文件/日期/工单号）。 - 关键转变：Skill 不再依赖人写清楚步骤，而从 GUI 操作轨迹中反推流程——把'不会写 prompt 的人'纳"
 resource: "https://x.com/i/status/2069064689217114261"
@@ -22,13 +22,6 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "skill-automation-engineering"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2069064689217114261"
-created: "2026-06-22"
-updated: "2026-06-26"
-sha256: "86f088a141da039a69f21913ebc86dcb54f1900a9f9b400b6057967243d1cea7"
-sources:
-  - "/sources/highlights/2026-06-22/00__Zesee__codex-record-replay-把-录屏教程-变成可复用-skill-agent-技能获取从写提示词转向演示一遍.md"
 ---
 
 # Codex Record & Replay 把'录屏教程'变成可复用 Skill：Agent 技能获取从写提示词转向演示一遍

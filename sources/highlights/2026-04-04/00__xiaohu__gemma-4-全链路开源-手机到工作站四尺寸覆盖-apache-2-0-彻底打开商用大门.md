@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Gemma 4 全链路开源：手机到工作站四尺寸覆盖，Apache 2.0 彻底打开商用大门"
 description: "**[Google 端侧开源模型进入「量大管饱」阶段]**  Gemma 4 不是小修小补，而是从架构到许可证的全面升级。四个尺寸（31B Dense、26B MoE、E2B、E4B）覆盖从旗舰手机到工作站的全硬件场景，Apache 2.0 许可证没有任何限制。  关键技术差异：26B MoE 走速度路线，推理时仅激活 38 亿参数，出词速度快，但质量略低一档；两个小模型 E2B/E4B 原生支持"
 resource: "https://x.com/i/status/2039887512215371935"
@@ -22,13 +22,6 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "gemma端侧多模态"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2039887512215371935"
-created: "2026-04-03"
-updated: "2026-06-26"
-sha256: "47950fc6de7d39f618ae50ff9c770ca68ea38cb4024b5ec23c6e6f2159b4f9ea"
-sources:
-  - "/sources/highlights/2026-04-04/00__xiaohu__gemma-4-全链路开源-手机到工作站四尺寸覆盖-apache-2-0-彻底打开商用大门.md"
 ---
 
 # Gemma 4 全链路开源：手机到工作站四尺寸覆盖，Apache 2.0 彻底打开商用大门

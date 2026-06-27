@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Anthropic 官方 13 门免费 AI 课程系统泄露：Claude 技术栈第一次被完整讲清楚"
 description: "**[Anthropic 开始做教育了——这不是课程，是 Claude 生態的「说明书」]**  Anthropic 推出 13 门免费官方课程，覆盖 Claude 基础、API、Claude Code、Agent Skills、MCP、Bedrock/Vertex AI。这是 Claude 技术栈第一次被系统化输出。  · 学习路径：Claude 101 → API → Code → Skill"
 resource: "https://x.com/i/status/2041428820658643053"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2041428820658643053"
-created: "2026-04-07"
-updated: "2026-06-26"
-sha256: "9a6c8f8bccbabaed07313e775ca213b8ae49e9b615b5112b674e365b09e27dc1"
-sources:
-  - "/sources/news/2026-04-07/00__oragnes__anthropic-官方-13-门免费-ai-课程系统泄露-claude-技术栈第一次被完整讲清楚.md"
 ---
 
 # Anthropic 官方 13 门免费 AI 课程系统泄露：Claude 技术栈第一次被完整讲清楚

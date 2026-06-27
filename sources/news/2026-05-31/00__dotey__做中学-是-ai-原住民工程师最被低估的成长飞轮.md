@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "\"做中学\"是 AI 原住民工程师最被低估的成长飞轮"
 description: "**[实战驱动比理论储备更能塑造 AI 工程判断力]**  - 宝玉在讨论中简洁回应\"做中学\"——这是一个被独立开发者反复验证但很少被显式总结的方法论 - 与当前 AI 教育领域的\"先学再做\"主流路径形成鲜明对比，暗示大量 AI 工程能力实际上来自项目挫折中形成的直觉 - 对 AI 创业者的启示：融资 BP 里描述\"已上线产品\"的比\"准备学习 AI\"的团队有更高的工程可信度  姿势正确不如摔的姿势"
 resource: "https://x.com/i/status/2060851247591141604"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2060851247591141604"
-created: "2026-05-30"
-updated: "2026-06-26"
-sha256: "ed38f2845096b705280f87aeeabb566dcd09cf54355334f9a72d0d2108d2e4f1"
-sources:
-  - "/sources/news/2026-05-31/00__dotey__做中学-是-ai-原住民工程师最被低估的成长飞轮.md"
 ---
 
 # "做中学"是 AI 原住民工程师最被低估的成长飞轮

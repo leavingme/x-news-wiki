@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Orange AI：权益是 SaaS 的遗物，新时代商业模式正在重写定价逻辑"
 description: "**SaaS 时代的「权益捆绑」模式正在被 AI 原生商业逻辑解构。**  - Orange AI 指出「权益是 SaaS 时代的产物」，暗示 AI 时代的定价逻辑将从功能堆叠转向价值交付本身。 - 这与当前 AI 工具订阅价格战（Claude Max、GPT Pro 涨价争议）形成呼应——当 AI 能力趋同，「权益」作为差异化手段的边际效用正在归零。  gakki 锐评：SaaS 的权益模型本质"
 resource: "https://x.com/i/status/2049661310301000014"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2049661310301000014"
-created: "2026-04-30"
-updated: "2026-06-26"
-sha256: "f8794329eedd450c3752ebeb488cf8abaaa9d0f8827c80ecda0c64667aaa8c0c"
-sources:
-  - "/sources/news/2026-04-30/00__oran_ge__orange-ai-权益是-saas-的遗物-新时代商业模式正在重写定价逻辑.md"
 ---
 
 # Orange AI：权益是 SaaS 的遗物，新时代商业模式正在重写定价逻辑

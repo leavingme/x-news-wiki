@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Anthropic 开源 12 个法律插件+20 个 MCP 入口：垂直领域 Agent 的落地范式确立"
 description: "**一句话核心判断：** Anthropic 的法律工具不只是插件发布，它证明了「冷启动访谈+CLAUDE.md 风格化+垂直插件」是垂直 Agent 落地的最小可行路径。  12 个插件覆盖公司法务、并购、隐私诉讼、法学生等具体角色，每个都需要 10-20 分钟「冷启动访谈」把团队 playbook 写进 CLAUDE.md，之后插件自动按自家风格输出。这解决的是 AI 法律工具「太通用、不像自"
 resource: "https://x.com/i/status/2054330598596981218"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2054330598596981218"
-created: "2026-05-12"
-updated: "2026-06-26"
-sha256: "9369f12f888ac6d08496ec9d7ae3e0b3f157be99391199d821d4eab036580379"
-sources:
-  - "/sources/news/2026-05-13/00__dotey__anthropic-开源-12-个法律插件-20-个-mcp-入口-垂直领域-agent-的落地范式确立.md"
 ---
 
 # Anthropic 开源 12 个法律插件+20 个 MCP 入口：垂直领域 Agent 的落地范式确立

@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Notion 公开点名 Opus 4.7/4.8 性能回退，Anthropic 连 99% 可用性都保不住"
 description: "**[企业客户首次「指名道姓」投诉：Anthropic 模型降级已从体感争议升级为 SLA 证据]**  - 歸藏截图：Notion 在状态页明确标记 Opus 4.7 与 4.8 存在模型性能回退，与「官方说辞」公开对账 - Notion 澄清问题已恢复，但承认这类降级事件在该厂商身上并非孤例 - 歸藏横比 OpenAI / Anthropic / Google 三家状态页：Anthropic "
 resource: "https://x.com/i/status/2063862596764348576"
@@ -22,13 +22,6 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "ai-shrinkflation-opus-degradation"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2063862596764348576"
-created: "2026-06-08"
-updated: "2026-06-26"
-sha256: "8f562c1244086de7e5159e0a41bb1ff7efd1a23a509b092fc332e0e754c92a3e"
-sources:
-  - "/sources/highlights/2026-06-08/00__op7418__notion-公开点名-opus-4-7-4-8-性能回退-anthropic-连-99-可用性都保不住.md"
 ---
 
 # Notion 公开点名 Opus 4.7/4.8 性能回退，Anthropic 连 99% 可用性都保不住

@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "玉伯锐评：视频是比AI大一万倍的应用创业机会，国内看陈冕"
 description: "**玉伯抛出应用创业者的机会排序新判断：视频远大于AI。**  - 对应用层创业者而言，视频（短视频/内容平台）的机会窗口和天花板被严重低估，玉伯认为其量级是AI应用创业的万倍级。 - 同期明确点名陈冕在视频方向的判断力和执行力「国内第一」，相当于给了一个明确的国内视频赛道KOL锚定。 - 该判断与当前全行业All-in AI的叙事形成逆向背书，提醒应用创业者重新评估视频内容平台的剩余红利。   "
 resource: "https://x.com/i/status/2069763474163683538"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2069763474163683538"
-created: "2026-06-24"
-updated: "2026-06-26"
-sha256: "ad06bebeb1a7fa7d43d1ffd388e2a2234340d3f4253b3684fd179f0181cbd121"
-sources:
-  - "/sources/news/2026-06-24/00__lifesinger__玉伯锐评-视频是比ai大一万倍的应用创业机会-国内看陈冕.md"
 ---
 
 # 玉伯锐评：视频是比AI大一万倍的应用创业机会，国内看陈冕

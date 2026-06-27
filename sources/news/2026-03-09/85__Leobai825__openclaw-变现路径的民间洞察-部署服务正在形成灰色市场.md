@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "OpenClaw 变现路径的民间洞察：部署服务正在形成灰色市场"
 description: "**[Agent 工具平民化的商业机会浮现]** - 深圳 Web4.0 活动观察：现场一半以上听众从未用过 OpenClaw，部署安装服务存在明确付费需求 - 变现路径清晰：帮别人部署 OpenClaw + 后续 API 和应用服务 - 主办方赚钱的四个逻辑：流量、焦虑缓解、卖现成产品、卖部署服务  **gakki 锐评**：Leobai 的「中登焦虑」观察精准——AI 工具的代际鸿沟正在催生「"
 resource: "https://x.com/i/status/2030623151667781951"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 85
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2030623151667781951"
-created: "2026-03-08"
-updated: "2026-06-26"
-sha256: "3dea46fa5ebe3e2297de7d7aaf4419d2f16b269659eefd7f5eccccd0de9668a1"
-sources:
-  - "/sources/news/2026-03-09/85__Leobai825__openclaw-变现路径的民间洞察-部署服务正在形成灰色市场.md"
 ---
 
 # OpenClaw 变现路径的民间洞察：部署服务正在形成灰色市场

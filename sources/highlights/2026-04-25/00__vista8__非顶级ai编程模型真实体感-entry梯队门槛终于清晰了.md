@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "非顶级AI编程模型真实体感：entry梯队门槛终于清晰了"
 description: "**Benchmark之外的真实差距：entry梯队有了体感坐标。**  过 entry 梯队：glm-5.1、kimi-k2.6、deepseek-v4-pro、qwen-3.6-max-preview 未过 entry 梯队：mimo-v2.5-pro、qwen-3.6-plus、hy-3、grok-4.20  - 体感排序与 Benchmark 分数存在明显分歧，证明评测体系与实际编程体验存"
 resource: "https://x.com/i/status/2047845768560783634"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2047845768560783634"
-created: "2026-04-25"
-updated: "2026-06-26"
-sha256: "e96c46f1e800fbb6a3ec1105876d3155bc3699aeff319213518f795d362ae7ed"
-sources:
-  - "/sources/highlights/2026-04-25/00__vista8__非顶级ai编程模型真实体感-entry梯队门槛终于清晰了.md"
 ---
 
 # 非顶级AI编程模型真实体感：entry梯队门槛终于清晰了

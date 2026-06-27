@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Agent协作工具集体亮相：Notion/Linear/Slack/微信四大范式被逐一复制"
 description: "**[Agent 协作层正在按人类协作工具的品类图谱逐一对应落地，验证了\"Agent需要自己的协作原语\"这一判断。]**  - Orange AI 短时间内密集试用了四个 Agent 协作产品：Moxt（AI Native Notion）、Multica（Linear for Agents）、Slock（Slack for Agents）、Bloome（微信群 for Agents），形成了工作场"
 resource: "https://x.com/i/status/2051640461983670629"
@@ -22,13 +22,6 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "agent-native-paradigm"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2051640461983670629"
-created: "2026-05-05"
-updated: "2026-06-26"
-sha256: "8516610156b24822d3ecd8a15a45c7de1c9bb4635fa2a8560cdbbb3bf375dc90"
-sources:
-  - "/sources/news/2026-05-05/00__oran_ge__agent协作工具集体亮相-notion-linear-slack-微信四大范式被逐一复制.md"
 ---
 
 # Agent协作工具集体亮相：Notion/Linear/Slack/微信四大范式被逐一复制

@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "穿透 $PLTR 的 AI 叙事：创始人控制权才是其“反共识”战略的定海神针"
 description: "**在 AI 概念喧嚣中，$PLTR 的“控制权结构”是其最大风险与最大机会的源头** - 市场关注 $PLTR 的 AI 故事与政府订单，但其强创始人控制结构（Karp、Thiel 等拥有远超股权比例的话语权）才是理解其长期战略的关键。 - 这种结构使其能坚持长期主义、执行“反共识”的机密政府项目，不受短期市场波动和分散机构股东干扰，但也带来高度依赖核心个人的风险。 - 大量被动指数基金持股提供"
 resource: "https://x.com/i/status/2028585940025766396"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2028585940025766396"
-created: "2026-03-02"
-updated: "2026-06-26"
-sha256: "1bdd9fb23449dfb287b3034e43a5936c6e25d75c1cc84b1fe9a85fc7ebf84ce6"
-sources:
-  - "/sources/news/2026-03-03/00__WealthCode99978__穿透-pltr-的-ai-叙事-创始人控制权才是其-反共识-战略的定海神针.md"
 ---
 
 # 穿透 $PLTR 的 AI 叙事：创始人控制权才是其“反共识”战略的定海神针

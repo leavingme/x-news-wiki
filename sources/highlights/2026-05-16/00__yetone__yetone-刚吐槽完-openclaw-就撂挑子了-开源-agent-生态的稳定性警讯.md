@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "yetone 刚吐槽完 OpenClaw 就撂挑子了——开源 Agent 生态的稳定性警讯"
 description: "**向阳乔木刚说 Hermes 比 OpenClaw 稳定，yetone 就公开撂挑子。**  yetone 是 OpenClaw 生态的重要声音（@chenglou），他的「刚吐槽完就撂挑子」配上截图，暗示 OpenClaw 项目本身或社区运营出现重大变故。截图内容指向具体问题，但信源本身已构成「圈内人用行为投票」的一手信号。  结合前一条推文中向阳乔木明确指出「Hermes 代码质量和稳定性都"
 resource: "https://x.com/i/status/2055712942444941626"
@@ -22,13 +22,6 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "hermes-agent-stability-comparison"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2055712942444941626"
-created: "2026-05-16"
-updated: "2026-06-26"
-sha256: "d1601c176ce9c932670f19e714756bf8e89182042a1556c22466633f1190336e"
-sources:
-  - "/sources/highlights/2026-05-16/00__yetone__yetone-刚吐槽完-openclaw-就撂挑子了-开源-agent-生态的稳定性警讯.md"
 ---
 
 # yetone 刚吐槽完 OpenClaw 就撂挑子了——开源 Agent 生态的稳定性警讯

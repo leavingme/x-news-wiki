@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "向阳乔木力挺 Youmind：玉伯式\"真实做产品\"的两年用户侧验证"
 description: "**AI 知识工具的护城河不在功能堆叠，而在做产品的姿态。**  要点： - 向阳乔木用 Youmind 做 PPT 一年多，强调其稀缺性在于玉伯\"把真实做原则、坦诚到可怕\"的 CEO 风格——这与功能无关，与人格相关 - 在玉伯/Huxe 折戟、知识工具赛道被反复判\"死亡\"的语境下，这是用户侧的反向证据：工具能被复制，\"做产品的姿态\"难以工程化 - Youmind 两年节点上获得持续背书，与 N"
 resource: "https://x.com/i/status/2065271667019165845"
@@ -22,13 +22,6 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "ai-knowledge-tool-competition"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2065271667019165845"
-created: "2026-06-12"
-updated: "2026-06-26"
-sha256: "9c48afb85511059a7c9efcfc3813547b468c825c3dfd571d746ffdd508f4d27d"
-sources:
-  - "/sources/news/2026-06-12/00__vista8__向阳乔木力挺-youmind-玉伯式-真实做产品-的两年用户侧验证.md"
 ---
 
 # 向阳乔木力挺 Youmind：玉伯式"真实做产品"的两年用户侧验证

@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "OPC Economy 实操样本：AI 让「一个人+一个 prompt」跑通垂直订阅生意"
 description: "**[「一个人就是一家公司」的命题有了第一个跑通的样本]**  - 案例「驰骋」女子教练学车课程平台：垂直用户、新手学车、内容订阅+会员付费，单 prompt 产出完整站点 - AI 真正改变的不是「写代码」，而是把建站、支付、客服、内容、营销的执行成本打到趋近于零 - OPC 的可行性公式：垂直小赛道 + 真实需求 + 订阅/会员 + 加密支付   gakki 锐评：「OPC Economy」讲"
 resource: "https://x.com/i/status/2069658903202484661"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2069658903202484661"
-created: "2026-06-24"
-updated: "2026-06-26"
-sha256: "9e30188f6540b0d623a967736faf328eed68c52308355f88616ec42f29ef843f"
-sources:
-  - "/sources/news/2026-06-24/00__TUGE8888__opc-economy-实操样本-ai-让-一个人-一个-prompt-跑通垂直订阅生意.md"
 ---
 
 # OPC Economy 实操样本：AI 让「一个人+一个 prompt」跑通垂直订阅生意

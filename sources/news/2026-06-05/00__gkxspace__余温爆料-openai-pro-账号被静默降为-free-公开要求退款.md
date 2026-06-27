@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "余温爆料 OpenAI Pro 账号被静默降为 Free，公开要求退款"
 description: "**[OpenAI 订阅服务的\"价格-价值\"信任正在被零星个案蚕食]** - 用户 Pro 账号未经通知被降为 Free - 公开 @OpenAI 要求退款 - 叠加近期 Anthropic Claude 订阅降配争议，类似剧本在 OpenAI 重演   gakki 锐评：单条用户吐槽不构成趋势，但若一周内再出现 2-3 条同类爆料，AI 订阅经济就会从\"涨价权\"进入\"信任修复\"阶段。订阅用户的耐"
 resource: "https://x.com/i/status/2062898684048621847"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2062898684048621847"
-created: "2026-06-05"
-updated: "2026-06-26"
-sha256: "1fc121ff1fd301311730a3892ee5426067a4fbb7bb7489f91aee47a2c387c61f"
-sources:
-  - "/sources/news/2026-06-05/00__gkxspace__余温爆料-openai-pro-账号被静默降为-free-公开要求退款.md"
 ---
 
 # 余温爆料 OpenAI Pro 账号被静默降为 Free，公开要求退款

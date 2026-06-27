@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Claude 11年比特币私钥恢复：AI密码破解能力首次在加密资产真实场景完成商业级验证"
 description: "**[BTC没了11年，Claude找回来了——密码破解进入生产级验证]**  当事人 cprkrn 十一年前嗑嗨丢失 5 个 BTC（约 40 万美元），助记词、钱包文件、候选密码全在手但始终无法解锁。btcrecover 在拼接 shared key 时存在 bug，Claude 从 2019 年旧备份里发现了被改密码前的钱包文件，定位并修复该 bug，最终导出私钥完成转出。  信息增量：这是"
 resource: "https://x.com/i/status/2055142106570600738"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2055142106570600738"
-created: "2026-05-15"
-updated: "2026-06-26"
-sha256: "b66184c05887184ac142128be75ebf767dfcd01b9c1270f2c4c324fc6810c2e4"
-sources:
-  - "/sources/highlights/2026-05-15/00__dotey__claude-11年比特币私钥恢复-ai密码破解能力首次在加密资产真实场景完成商业级验证.md"
 ---
 
 # Claude 11年比特币私钥恢复：AI密码破解能力首次在加密资产真实场景完成商业级验证

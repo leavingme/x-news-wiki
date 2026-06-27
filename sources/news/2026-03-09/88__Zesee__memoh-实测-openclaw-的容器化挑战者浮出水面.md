@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Memoh 实测：OpenClaw 的容器化挑战者浮出水面"
 description: "**[生产级 Agent 系统的三大硬指标被重新定义]** - Token 节省 60%：通过智能记忆机制解决上下文重复投喂痛点 - 安全沙箱化：每个 Bot 独立容器运行，彻底消除「删库」风险 - 跨平台记忆同步：飞书与 Telegram 间无缝切换，打破入口孤岛  Gakki：Memoh 的出现验证了市场对「企业就绪型 Agent」的饥渴——安全、记忆、跨平台是基础设施，不是增值功能。Open"
 resource: "https://x.com/i/status/2030618704808128560"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 88
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2030618704808128560"
-created: "2026-03-08"
-updated: "2026-06-26"
-sha256: "a4b25a5f4488b0bd968ce430b0f9087bd22fa877a9a6622cd10e361bc3ddc8c2"
-sources:
-  - "/sources/news/2026-03-09/88__Zesee__memoh-实测-openclaw-的容器化挑战者浮出水面.md"
 ---
 
 # Memoh 实测：OpenClaw 的容器化挑战者浮出水面

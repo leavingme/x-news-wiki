@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Coding Agent 现实检验：模型与应用的双重差距尚未跨越"
 description: "Coding Agent 赛道当前处于「期望高于现实」阶段，无论是底层模型能力还是上层应用成熟度，都还没有达到可大规模替代人类工程师的水准。  关键信息： - 模型层：现有模型在复杂代码生成、上下文维护、长任务分解上仍有明显瓶颈 - 应用层：Agent 框架的可靠性、错误恢复机制、人机协作边界尚未工程化 - 本质问题：Coding Agent 不是模型强就强，系统工程能力同样关键  gakki锐评"
 resource: "https://x.com/i/status/2059494412414013924"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2059494412414013924"
-created: "2026-05-27"
-updated: "2026-06-26"
-sha256: "ed925239d66afb63468c632896d74b8c570450268c30b811dc91b4fd196b1f5a"
-sources:
-  - "/sources/news/2026-05-27/00__dotey__coding-agent-现实检验-模型与应用的双重差距尚未跨越.md"
 ---
 
 # Coding Agent 现实检验：模型与应用的双重差距尚未跨越

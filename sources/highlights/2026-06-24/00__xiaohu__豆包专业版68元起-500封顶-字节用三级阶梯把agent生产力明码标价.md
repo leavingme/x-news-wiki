@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "豆包专业版68元起、500封顶：字节用三级阶梯把Agent生产力明码标价"
 description: "**字节把「能操作本地电脑+定时任务+Skills」的Agent能力直接装进订阅商品，三级阶梯定价是在和Claude/ChatGPT正面掰手腕。**  - 豆包2.1Pro驱动，自称能力对标Opus 4.6，定位从\"回答问题\"升级为\"持续执行任务的Agent生产力工具\"。 - 68/200/500元/月三档，本质是用额度倍数（5x/4x/10x）替代功能分级，把\"重度用户\"和\"尝鲜用户\"分开收割。"
 resource: "https://x.com/i/status/2069593382247444962"
@@ -22,13 +22,6 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "ai-tool-subscription-value"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2069593382247444962"
-created: "2026-06-24"
-updated: "2026-06-26"
-sha256: "3997c67924949246979256682d316a72f9f96d857dbc88fd211428a3a62cc16c"
-sources:
-  - "/sources/highlights/2026-06-24/00__xiaohu__豆包专业版68元起-500封顶-字节用三级阶梯把agent生产力明码标价.md"
 ---
 
 # 豆包专业版68元起、500封顶：字节用三级阶梯把Agent生产力明码标价

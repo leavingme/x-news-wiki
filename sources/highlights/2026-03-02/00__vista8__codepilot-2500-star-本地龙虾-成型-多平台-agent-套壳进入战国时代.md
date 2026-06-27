@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "CodePilot 2500 Star：「本地龙虾」成型，多平台 Agent 套壳进入战国时代"
 description: "**设计师出身的藏师傅证明：优雅交互比硬核技术更能捕获开发者心智。**  - CodePilot 已获 2500 Star，支持 Skill、MCP 协议，即将接入飞书、Discord - 多平台覆盖策略揭示趋势：Agent 不再绑定单一入口，而是随工作流迁移 - 设计师主导的产品在 Agent 时代展现出独特竞争力  当技术门槛被抹平，审美与体验成为差异化核心——这是非典型创业者的胜利。"
 resource: "https://x.com/i/status/2028368633186168975"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2028368633186168975"
-created: "2026-03-02"
-updated: "2026-06-26"
-sha256: "3607abeca94e638ea440016c8924f958ed2b8a2654b7939b614fb56598d7b400"
-sources:
-  - "/sources/highlights/2026-03-02/00__vista8__codepilot-2500-star-本地龙虾-成型-多平台-agent-套壳进入战国时代.md"
 ---
 
 # CodePilot 2500 Star：「本地龙虾」成型，多平台 Agent 套壳进入战国时代

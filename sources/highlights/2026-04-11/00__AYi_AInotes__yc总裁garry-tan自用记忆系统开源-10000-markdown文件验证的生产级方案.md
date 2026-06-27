@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "YC总裁Garry Tan自用记忆系统开源：10000+Markdown文件验证的生产级方案"
 description: "**[知识管理不是工具，是AI时代的认知基础设施]**  YC总裁Garry Tan把自己跑了很久的生产级AI记忆系统GBrain完整开源，管理着：10000+Markdown文件、3000+人物档案、13年日历数据、5800条苹果笔记，以及所有会议记录和原创想法。  MIT协议，任何人可直接抄作业。  **gakki**：YC总裁公开晒自己的「第二大脑」配置，这个动作本身就是信号——知识管理正在"
 resource: "https://x.com/i/status/2042594992393458112"
@@ -22,13 +22,6 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "agent-memory-optimization"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2042594992393458112"
-created: "2026-04-10"
-updated: "2026-06-26"
-sha256: "614533687b8fa13d9fd0fcaad089fe6b8dcfb66e57994ed1df34f14052c61763"
-sources:
-  - "/sources/highlights/2026-04-11/00__AYi_AInotes__yc总裁garry-tan自用记忆系统开源-10000-markdown文件验证的生产级方案.md"
 ---
 
 # YC总裁Garry Tan自用记忆系统开源：10000+Markdown文件验证的生产级方案

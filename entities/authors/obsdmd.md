@@ -1,23 +1,17 @@
 ---
-type: "entity"
+type: "Author"
 title: "Obsidian (@obsdmd)"
 description: "X/Twitter 作者 @obsdmd。共收录 1 条 AI 精选推文。"
 tags:
   - "x-news"
   - "author"
   - "author:obsdmd"
-timestamp: "2026-06-26T11:53:37.000Z"
+timestamp: "2026-06-27T08:40:40.215Z"
 x_handle: "obsdmd"
 x_author_name: "Obsidian"
 x_tweet_count: 1
 x_first_seen: "2026-05-13T01:17:50.070Z"
 x_last_seen: "2026-05-13T01:17:50.070Z"
-type_okf: "Author"
-created: "2026-05-13"
-updated: "2026-06-26"
-sha256: "35929c4e195bcaf8e6f03ba22e3e6d068769947c6d702a43404b548dea30990a"
-sources:
-  - "/sources/news/2026-05-13/00__obsdmd__obsidian-公布插件未来路线图-知识管理基础设施的自我革新.md"
 ---
 
 # Obsidian (@obsdmd)

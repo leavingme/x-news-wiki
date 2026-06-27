@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Eywa：用「神经键」架构打通语言模型与专用模型，MCP 可能只是短期解法"
 description: "**语言模型与专用模型的「物种隔离」正在被系统性解决。**  - UIUC 论文 Eywa 借鉴《阿凡达》的 Tsaheylu 神经键概念，为语言模型（调度/理解）与专用基础模型（Chronos 做时序预测、TabPFN 做表格处理）之间建立标准化接口 - 短期内 MCP 即可实现连接，但长期来看语言模型能否直接达到专用模型水平仍是开放问题 - 这实质上是 Agent 工具编排层的一个架构范式：不"
 resource: "https://x.com/i/status/2050185392431755366"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2050185392431755366"
-created: "2026-05-01"
-updated: "2026-06-26"
-sha256: "42a4870dc3c6a397c91d9de75260b2c5babd7bf2a3891af78744f8753ca776f0"
-sources:
-  - "/sources/news/2026-05-01/00__vista8__eywa-用-神经键-架构打通语言模型与专用模型-mcp-可能只是短期解法.md"
 ---
 
 # Eywa：用「神经键」架构打通语言模型与专用模型，MCP 可能只是短期解法

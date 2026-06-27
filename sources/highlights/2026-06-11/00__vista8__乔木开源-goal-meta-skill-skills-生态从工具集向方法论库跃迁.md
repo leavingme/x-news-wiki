@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "乔木开源 Goal Meta Skill：Skills 生态从工具集向方法论库跃迁"
 description: "**[Skills 的真正价值不在工具复刻，而在封装'思考方式'的元方法论]**  - 向阳乔木在 GitHub 开源 Goal Meta Skill，把'目标设定'这一抽象思维过程工程化为可复用的 Skill - 配合其分享的 goal 写作 skill，形成 meta→具体场景的分层 Skill 体系 - 与此前'Skills 只是 GPTs 轮回'的批判形成对照：能跑出来的不是工具搬运，而是"
 resource: "https://x.com/i/status/2065090593873924262"
@@ -22,13 +22,6 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "skills-ecosystem-standards"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2065090593873924262"
-created: "2026-06-11"
-updated: "2026-06-26"
-sha256: "725d05d0c0a7f781b62e6b915250e9aaee3f3701761bb7dba98cfa57e6e7186d"
-sources:
-  - "/sources/highlights/2026-06-11/00__vista8__乔木开源-goal-meta-skill-skills-生态从工具集向方法论库跃迁.md"
 ---
 
 # 乔木开源 Goal Meta Skill：Skills 生态从工具集向方法论库跃迁

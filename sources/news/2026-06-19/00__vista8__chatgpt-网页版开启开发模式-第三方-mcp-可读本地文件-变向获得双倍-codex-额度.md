@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "ChatGPT 网页版开启开发模式：第三方 MCP 可读本地文件，变向获得双倍 Codex 额度"
 description: "**[OpenAI 悄悄把 ChatGPT 变成 MCP 客户端——网页端也能调本地文件]**  - 开启路径：ChatGPT 网页端 → 设置 → 应用 → 高级模式 → 开启开发模式 → 添加 MCP - 核心用途：Codex 额度耗尽时，切换 ChatGPT 网页端继续开发 - 实质效果：变向获得双倍 Codex 配额（向阳乔木原话\"有点诡异\"） - 把 ChatGPT 从\"问答工具\"延伸到"
 resource: "https://x.com/i/status/2067762899813274072"
@@ -22,13 +22,6 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "openai-super-app-strategy"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2067762899813274072"
-created: "2026-06-19"
-updated: "2026-06-26"
-sha256: "a8cb8d3e4c7737f787fd5fa44fe059f472856aabdd8c4918c0a61180ec51b096"
-sources:
-  - "/sources/news/2026-06-19/00__vista8__chatgpt-网页版开启开发模式-第三方-mcp-可读本地文件-变向获得双倍-codex-额度.md"
 ---
 
 # ChatGPT 网页版开启开发模式：第三方 MCP 可读本地文件，变向获得双倍 Codex 额度

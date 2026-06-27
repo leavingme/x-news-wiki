@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Symphony：将 Linear 变成「永不眠的 Agent 工厂」，OpenAI 内部 PR 产量提升 500%"
 description: "**[一句话核心判断]**  Symphony 是 OpenAI 开源的首个任务跟踪器 Agent 编排器，其本质是将 Linear/Jira 这类工具从「人工分配任务」彻底升级为「人机分工协议」——Agent 负责执行循环任务，人类专注审查与方向把控。  **后续要点：** - 架构创新：Symphony 将 issue tracker 变成 always-on agent work syste"
 resource: "https://x.com/OpenAIDevs/status/2048825010371039648"
@@ -22,13 +22,6 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "multi-agent-framework-ecosystem-comparison"
 x_source: "ai-trend-digest"
-type_okf: "X Tweet"
-source_url: "https://x.com/OpenAIDevs/status/2048825010371039648"
-created: "2026-04-27"
-updated: "2026-06-26"
-sha256: "6eef861bf1a84ea7477fce71ceb84d9046fdf8c8396e23ee3fa0329fbbc79abd"
-sources:
-  - "/sources/highlights/2026-04-28/00__OpenAIDevs__symphony-将-linear-变成-永不眠的-agent-工厂-openai-内部-pr-产量提升-500.md"
 ---
 
 # Symphony：将 Linear 变成「永不眠的 Agent 工厂」，OpenAI 内部 PR 产量提升 500%

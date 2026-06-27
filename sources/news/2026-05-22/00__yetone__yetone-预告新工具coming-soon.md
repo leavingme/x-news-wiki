@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "yetone 预告新工具Coming soon"
 description: "**核心判断：yetone 正在开发新工具，结合近期 OpenClaw 生态动态，信息量高于表面。**  yetone 连续两条推文（另一条 2057913627815051689 显示已约到相关人员）暗示有工具即将发布。考虑到 yetone 在 Agent 工具链领域（尤其是 pretext 相关工作）的一线位置，新工具大概率与浏览器自动化或 Agent 执行效率相关。  gakki 锐评：暂列"
 resource: "https://x.com/i/status/2057834685766775122"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2057834685766775122"
-created: "2026-05-22"
-updated: "2026-06-26"
-sha256: "f4701c80ff7e4ff7467e7ff8b4fb536de9a22633e7d7c03e3ea3ab746a054ebf"
-sources:
-  - "/sources/news/2026-05-22/00__yetone__yetone-预告新工具coming-soon.md"
 ---
 
 # yetone 预告新工具Coming soon

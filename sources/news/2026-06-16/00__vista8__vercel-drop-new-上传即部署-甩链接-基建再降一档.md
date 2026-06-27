@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Vercel drop.new：上传即部署，\"甩链接\"基建再降一档"
 description: "**Vercel 把部署门槛压到\"打开页面-拖入文件-生成链接\"，内容分发形态被进一步压缩。**  要点： - 打开 drop.new，上传 zip/文件/文件夹即生成可访问网站 - 测试上传 mp3 也能直接播放——轻量内容托管能力被内置 - 与\"Agent 乐高化/甩链接即插即用\"趋势形成基础设施层呼应  锐评：Vercel 持续在做\"基础设施隐形化\"——部署从 CLI 到 Git 到拖拽，每"
 resource: "https://x.com/i/status/2066879306031337815"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2066879306031337815"
-created: "2026-06-16"
-updated: "2026-06-26"
-sha256: "e5ddeeedb8c112d36cefd37a1fc38365ce928a70f41427597f32c9d1d10db6a3"
-sources:
-  - "/sources/news/2026-06-16/00__vista8__vercel-drop-new-上传即部署-甩链接-基建再降一档.md"
 ---
 
 # Vercel drop.new：上传即部署，"甩链接"基建再降一档

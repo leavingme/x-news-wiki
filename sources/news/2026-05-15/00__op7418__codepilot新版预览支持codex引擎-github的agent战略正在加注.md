@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Codepilot新版预览支持Codex引擎：GitHub的Agent战略正在加注"
 description: "**一句话核心判断** Codepilot新版预览即将支持Codex作为Agent引擎，意味着GitHub正式将自身定位为AI Coding的Agent平台而非单纯的Copilot延伸。  **信息增量** - 这是GitHub官方首次明确将Codex引擎纳入Codepilot产品体系 - 两条推文同指向Copilot+Codex融合，加密程度高  **影响评估** - Agent引擎层的技术路线"
 resource: "https://x.com/i/status/2055154197956604386"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2055154197956604386"
-created: "2026-05-15"
-updated: "2026-06-26"
-sha256: "5138ffc6c6b92eb99a7449e2fb09962347ef9cbd60cc89dce198441964c17455"
-sources:
-  - "/sources/news/2026-05-15/00__op7418__codepilot新版预览支持codex引擎-github的agent战略正在加注.md"
 ---
 
 # Codepilot新版预览支持Codex引擎：GitHub的Agent战略正在加注

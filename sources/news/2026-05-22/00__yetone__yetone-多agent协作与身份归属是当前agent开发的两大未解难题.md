@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "yetone：多Agent协作与身份归属是当前Agent开发的两大未解难题"
 description: "**[一句话核心判断]** 多Agent之间如何协作，以及Personified Agent的身份归属问题，是当下Agent开发最前沿的两个工程缺口。  **要点：** - 多Agent协作：如何让多个Agent高效协同完成复杂任务，目前没有标准答案 - Personified Agent identity subject attribution：当你创造的Agent有独立行为，谁对它负责？  *"
 resource: "https://x.com/i/status/2057716426014867795"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2057716426014867795"
-created: "2026-05-22"
-updated: "2026-06-26"
-sha256: "b07c1056c877b2cf423c2eb998b075e255a6043af261471e7f72b1ee8e152de1"
-sources:
-  - "/sources/news/2026-05-22/00__yetone__yetone-多agent协作与身份归属是当前agent开发的两大未解难题.md"
 ---
 
 # yetone：多Agent协作与身份归属是当前Agent开发的两大未解难题

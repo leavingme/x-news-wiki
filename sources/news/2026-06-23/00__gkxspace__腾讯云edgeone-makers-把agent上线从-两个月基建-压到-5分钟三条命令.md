@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "腾讯云EdgeOne Makers：把Agent上线从\"两个月基建\"压到\"5分钟三条命令\""
 description: "**Agent PaaS窗口正在快速收敛——上线即服务成为新标配。** - 内置对话记忆、Python沙箱隔离、模型调用追踪，开发者零基础设施代码 - 框架不锁定：Claude SDK、OpenAI Agents、LangGraph全兼容 - Web前端+Agent后端同项目同域名，单命令部署   gakki锐评：腾讯云这次切的位置很准——模型层打不过Anthropic/OpenAI，就做\"上线层"
 resource: "https://x.com/i/status/2069349929542210032"
@@ -22,13 +22,6 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "agent-deployment-service"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2069349929542210032"
-created: "2026-06-23"
-updated: "2026-06-26"
-sha256: "28d81aefaaab8fa727c363f7b511764b7154171c6a70632da9883d555601ad5b"
-sources:
-  - "/sources/news/2026-06-23/00__gkxspace__腾讯云edgeone-makers-把agent上线从-两个月基建-压到-5分钟三条命令.md"
 ---
 
 # 腾讯云EdgeOne Makers：把Agent上线从"两个月基建"压到"5分钟三条命令"

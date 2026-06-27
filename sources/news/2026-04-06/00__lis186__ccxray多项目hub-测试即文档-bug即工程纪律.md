@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "ccxray多项目Hub：测试即文档，bug即工程纪律"
 description: "**[一句话核心判断]**  ccxray v1.1.0的多项目Hub不只是功能迭代，是「工程纪律」范式的产品化。  - 核心价值：多个终端/项目自动共用一个proxy+dashboard，Hub挂了5秒自愈，用户无感知。这是典型的「工程问题被产品包装后消失」——好架构的用户体验就是没有体验。 - 关键洞察（来自真实打脸）：「写不出测试的地方，通常就是production会炸的地方」。98→155"
 resource: "https://x.com/i/status/2040860856968515735"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2040860856968515735"
-created: "2026-04-05"
-updated: "2026-06-26"
-sha256: "7310c9ce76fc4f64082fc07e0297b7f06277a46fd3f52f3611ddb5b105a8083e"
-sources:
-  - "/sources/news/2026-04-06/00__lis186__ccxray多项目hub-测试即文档-bug即工程纪律.md"
 ---
 
 # ccxray多项目Hub：测试即文档，bug即工程纪律

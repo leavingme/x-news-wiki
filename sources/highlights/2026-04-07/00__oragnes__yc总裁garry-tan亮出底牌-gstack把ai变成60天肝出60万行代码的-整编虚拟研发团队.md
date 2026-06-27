@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "YC总裁Garry Tan亮出底牌：gstack把AI变成60天肝出60万行代码的「整编虚拟研发团队」"
 description: "**[YC总裁Garry Tan亲自开源的工程化Agent套件，验证了「AI编程产能」已进入生产级验证阶段]**  核心信息： - gstack获5万Star，内置15个极度专业化的Agent角色，覆盖产品拷问、技术评审、测试等完整研发链 - Garry Tan用它同时全职管YC、兼职编程，60天交付60万行生产级代码（35%为测试），人效极端案例 - 核心玩法是斜杠命令驱动：/office-ho"
 resource: "https://x.com/i/status/2037449545215271410"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2037449545215271410"
-created: "2026-03-27"
-updated: "2026-06-26"
-sha256: "62d0cbb9780763d1552b1e0fa5abc128ecd5eaf076978dad739fa514b8ca18e9"
-sources:
-  - "/sources/highlights/2026-04-07/00__oragnes__yc总裁garry-tan亮出底牌-gstack把ai变成60天肝出60万行代码的-整编虚拟研发团队.md"
 ---
 
 # YC总裁Garry Tan亮出底牌：gstack把AI变成60天肝出60万行代码的「整编虚拟研发团队」

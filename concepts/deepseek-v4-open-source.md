@@ -1,39 +1,22 @@
 ---
-type: "concept"
-title: "deepseek-v4-open-source"
-description: "跨日主题 \"deepseek-v4-open-source\"，共 15 条相关精选推文。"
+type: "Concept"
+title: "DeepSeek V4 开源"
+description: "跨日主题 \"DeepSeek V4 开源\" (deepseek-v4-open-source)，共 15 条相关精选推文。"
 tags:
   - "x-news"
   - "concept"
   - "topic:deepseek-v4-open-source"
-timestamp: "2026-06-26T11:53:37.015Z"
+timestamp: "2026-06-27T08:40:42.854Z"
 x_topic_slug: "deepseek-v4-open-source"
 x_tweet_count: 15
 x_first_seen: "2026-04-14T00:45:15.359Z"
 x_last_seen: "2026-06-21T16:18:40.545Z"
-type_okf: "Concept"
-created: "2026-04-14"
-updated: "2026-06-26"
-sha256: "c8a48485974a9c2fd64fd5bb596b7c253fdff570942a210cdd81c1f354061d30"
-sources:
-  - "/sources/highlights/2026-04-14/00__lidangzzz__梁文锋可能成为-ai界钱学森-deepseek-v4-押注华为-ascend-910c-的战略豪赌.md"
-  - "/sources/highlights/2026-04-24/00__deepseek_ai__deepseek-v4-flash-以1-10价格实现1m上下文-开源模型正式撕掉-廉价低能-标签.md"
-  - "/sources/highlights/2026-04-24/00__dotey__deepseek-v4-pro-flash-紧急上线-1m上下文-openai兼容接口-三月后旧api强制下线.md"
-  - "/sources/highlights/2026-04-24/00__dotey__deepseek-v4上线1m上下文-国产模型首次在agent能力上实现开源领先.md"
-  - "/sources/highlights/2026-04-24/00__xiaohu__deepseek-v4-开源-100万上下文-agent能力超越所有开源模型-价格杀穿底价.md"
-  - "/sources/highlights/2026-04-29/00__xiaohu__deepseek-补齐多模态短板-agent-视觉理解闭环的入场券.md"
-  - "/sources/highlights/2026-04-30/00__op7418__deepseek-多模态论文公开-284b-moe-视觉原语推理-用-flash-级成本对齐-gpt-5-4.md"
-  - "/sources/highlights/2026-05-04/00__bindureddy__deepseek-v4-pro-登顶开源榜首-10-倍性价比碾压-opus-4-7-与-gpt-5-5-medium-开.md"
-  - "/sources/news/2026-04-24/00__xiaohu__deepseek-v4适配四大agent框架-国产模型进入-全生态-时代.md"
-  - "/sources/news/2026-04-27/00__Zesee__deepseek-v4-pro-登陆-zenmux-免费-api-key-自由调用的算力民主化信号.md"
-  - "/sources/news/2026-05-01/00__oran_ge__orange-ai-硬刚-v4-写作超越-opus-叙事-人类又开始大型幻觉了.md"
-  - "/sources/news/2026-05-02/00__mranti__deepseek-v4-pro-定价迷雾-低价幻觉还是真定价.md"
-  - "/sources/news/2026-05-02/00__scaling01__deepseek-v4-实测数据曝光-国产模型与美国前沿差距约-8-个月-且在扩大.md"
-  - "/sources/news/2026-05-02/00__sebkrier__deepseek-v4-被实锤落后-8-个月-开源领先-能力领先-国产模型叙事需要修正.md"
-  - "/sources/news/2026-06-21/00__vista8__向阳乔木定向输送人才给deepseek-国产模型-人才网络战-浮出水面.md"
+x_cn_title_source: "dict"
 ---
 
-# 主题: deepseek-v4-open-source
+# 主题: DeepSeek V4 开源
+
+> slug: `deepseek-v4-open-source`
 
 本主题下共 **15** 条精选推文。
 

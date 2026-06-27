@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Claude Cowork杀进系统层：Anthropic正式点燃「跨设备Agent」引擎"
 description: "**[Anthropic将Agent战场从浏览器扩展到操作系统层]** • 电脑操控+手机派任务+定时任务三连击，Claude首次具备「跨会话记忆+跨设备 orchestration」能力 • 定价策略精准卡位：Pro/Max用户可用，但消耗更快，本质是「生产力溢价」而非「功能解锁」 • macOS独占首发，暗示与Apple生态的潜在绑定意图  Anthropic不再满足于「聊天工具」，而是向「数"
 resource: "https://x.com/i/status/2036202248238473607"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2036202248238473607"
-created: "2026-03-23"
-updated: "2026-06-26"
-sha256: "6f8514a189fec0e2ffed9df03ff9919c756abee9f6b55b213cfd74ffbbb50e8e"
-sources:
-  - "/sources/highlights/2026-03-24/00__dotey__claude-cowork杀进系统层-anthropic正式点燃-跨设备agent-引擎.md"
 ---
 
 # Claude Cowork杀进系统层：Anthropic正式点燃「跨设备Agent」引擎

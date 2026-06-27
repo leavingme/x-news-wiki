@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "郭明錤确认：OpenAI正式入局AI Agent Phone，联发科/高通/立讯成第一受益者"
 description: "**[OpenAI从云端AI向硬件落地迈出关键一步，供应链格局重构在即]**  - 郭明錤（天风国际）确认：OpenAI正在重新定义智能手机，MediaTek、Qualcomm与Luxshare（立讯精密）进入其AI Agent Phone供应链核心位置 - 这意味着OpenAI的Agent能力将从ChatGPT APP向原生手机操作系统层渗透，手机厂商将被迫在\"AI Phone\"赛道做出战略抉择"
 resource: "https://x.com/mingchikuo/status/2048587389791269182"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "ai-trend-digest"
-type_okf: "X Tweet"
-source_url: "https://x.com/mingchikuo/status/2048587389791269182"
-created: "2026-04-27"
-updated: "2026-06-26"
-sha256: "b0696c3caf03caea244cfacaaa893d4544b6c10a2b82337f1a5f5476c065bde3"
-sources:
-  - "/sources/news/2026-04-27/00__mingchikuo__郭明錤确认-openai正式入局ai-agent-phone-联发科-高通-立讯成第一受益者.md"
 ---
 
 # 郭明錤确认：OpenAI正式入局AI Agent Phone，联发科/高通/立讯成第一受益者

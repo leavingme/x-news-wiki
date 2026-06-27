@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Claude Cowork发布：Anthropic正式将AI从「问答工具」推进到「主动同事」"
 description: "**[AI助手的范式跃迁：从此不再是问一句答一句]**  Claude Cowork让Claude从被动问答进化为主动Agent：主动扫描文件夹、拉取Drive文件、生成报告、写邮件、排周计划，并永久记住用户工作风格。  设置一次，永久个性化。5分钟配置，已有人实测省下3小时/天。  **gakki**：这条新闻的真正意义不是省了多少时间，而是Anthropic终于承认了——对话式AI是过渡态，A"
 resource: "https://x.com/i/status/2038459643106836651"
@@ -22,13 +22,6 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "claude-code-ecosystem"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2038459643106836651"
-created: "2026-03-30"
-updated: "2026-06-26"
-sha256: "16f8ccd8d3e9a3586c20854357aaaad6873e91a6fce71ef1e3b7894af557a855"
-sources:
-  - "/sources/highlights/2026-04-11/00__0xKingsKuan__claude-cowork发布-anthropic正式将ai从-问答工具-推进到-主动同事.md"
 ---
 
 # Claude Cowork发布：Anthropic正式将AI从「问答工具」推进到「主动同事」

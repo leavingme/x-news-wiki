@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Michael Anti点破：国内模型迭代已在用GLM5.2当锚点，定价叙事被动收紧"
 description: "**国内闭源模型的定价/能力叙事已经被开源GLM5.2拽住了衣领。**  - 核心判断：只要闭源模型的卖点\"不明显超过GLM5.2\"，就不好意思卖高价——开源成了定价天花板。 - 这是DeepSeek时刻之后第二次\"开源定义闭源价格\"的范式效应，GLM已经接棒成为新的锚点。 - 反向说明智谱开源GLM5.2的策略奏效：用免费版本来锁定整个市场的定价参照系。 - 对国内AI创业公司是利好：基础设施成"
 resource: "https://x.com/i/status/2069613227650998564"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2069613227650998564"
-created: "2026-06-24"
-updated: "2026-06-26"
-sha256: "67ea963d0f21808666fa5c2d6b7415ce65a47bbd39b6c2397cb70d2b6f6ada10"
-sources:
-  - "/sources/news/2026-06-24/00__mranti__michael-anti点破-国内模型迭代已在用glm5-2当锚点-定价叙事被动收紧.md"
 ---
 
 # Michael Anti点破：国内模型迭代已在用GLM5.2当锚点，定价叙事被动收紧

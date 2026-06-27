@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Claude Opus 4.8 上线「对话中途系统消息」，Agent 开发者的记忆注入终于不伤缓存了"
 description: "**[一句话核心判断]**  Anthropic 终于在 API 层面支持 mid-conversation system messages，这个能力对 Agent 开发者而言是架构级的解放。  **信息增量：** - 4.8 之前 Claude 不能发 type=system 的消息，系统提示词只能在对话最前面注入，导致中途修改只能通过 user message 强压，权重不够 - 新方案类似「"
 resource: "https://x.com/i/status/2060404667423596843"
@@ -22,13 +22,6 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "claude-code-ecosystem"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2060404667423596843"
-created: "2026-05-29"
-updated: "2026-06-26"
-sha256: "9e2bee7276a4623bca04a28c8a0b0150af48a0cf229c3a7f51e3c6d31468f4fb"
-sources:
-  - "/sources/highlights/2026-05-29/00__dotey__claude-opus-4-8-上线-对话中途系统消息-agent-开发者的记忆注入终于不伤缓存了.md"
 ---
 
 # Claude Opus 4.8 上线「对话中途系统消息」，Agent 开发者的记忆注入终于不伤缓存了

@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "GitHub 爆款 RTK：AI 编程工具的「Token 刺客」，一条命令省掉 60-90% 冗余输出"
 description: "**【一句话核心判断】**  RTK 解决的不是技术问题，是经济学问题——Claude Code 跑一次 cargo test 烧掉的 token 比代码本身还贵，这个工具把这条血管接上，省的是真金白银。  **【信息增量】**  - 钩子注入架构，在命令输出给 AI 之前做噪音过滤，支持 git/cargo/docker/kubectl/pytest 等 100+ 常用命令 - 兼容 Claud"
 resource: "https://x.com/i/status/2042885133083271476"
@@ -22,13 +22,6 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "ai-coding-token-optimization"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2042885133083271476"
-created: "2026-04-11"
-updated: "2026-06-26"
-sha256: "992994425a8fd0c3a3dbdb3e59ddf0edde85dc4dd114c7a588371569de708677"
-sources:
-  - "/sources/highlights/2026-04-19/00__GitHub_Daily__github-爆款-rtk-ai-编程工具的-token-刺客-一条命令省掉-60-90-冗余输出.md"
 ---
 
 # GitHub 爆款 RTK：AI 编程工具的「Token 刺客」，一条命令省掉 60-90% 冗余输出

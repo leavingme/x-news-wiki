@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "玉伯断言：AI 最大价值是再造一个尊重个体需求的'新微信'"
 description: "**[玉伯提出产品哲学的根本转向：从'最大公约数'的工具理性，转向'每个个体需求都被尊重'的新一代平台。]**  - 微信、拼多多、抖音已覆盖老一辈几乎全部手机场景，豆包是少数被老人主动提及的 AI 应用 - 玉伯尖锐批评微信的傲慢：老人想批量下载群照片原图，得逐张点开→查看原图→点小按钮，操作失误要重头再来 - 矛头直指王兴/张一鸣时代的产品范式——'极度理性、极度追求需求的最大公约数'本身就是"
 resource: "https://x.com/i/status/2063232657631371364"
@@ -22,13 +22,6 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "agent-native-paradigm"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2063232657631371364"
-created: "2026-06-06"
-updated: "2026-06-26"
-sha256: "31e54e20b3c3a2f00f913b710d008774f787b8e3a344569a12eb245556b0e00d"
-sources:
-  - "/sources/highlights/2026-06-06/00__lifesinger__玉伯断言-ai-最大价值是再造一个尊重个体需求的-新微信.md"
 ---
 
 # 玉伯断言：AI 最大价值是再造一个尊重个体需求的'新微信'

@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "孙哥押注抗量子签名：NIST标准方案跑不了高并发AI Agent支付，波场想弯道超车有个硬前提"
 description: "**[孙哥想用抗量子算法弯道超车，但NIST现有方案根本撑不住USDT+DeFi+AI Agentic Payment的海量并发]**  波场准备在主网部署NIST标准后量子签名方案，但JIN LIU指出了一个致命问题：NIST现有标准无法支撑高流量场景下的USDT转移、DeFi和AI Agentic Payment并发需求。量子签名算法的计算开销和签名体积与高频支付场景存在根本矛盾，这不是\"部署"
 resource: "https://x.com/i/status/2044570782106304930"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2044570782106304930"
-created: "2026-04-16"
-updated: "2026-06-26"
-sha256: "c49697222f3434ec8c5d747d7fbdf074700750a9bdecf6074d7f440faae00030"
-sources:
-  - "/sources/news/2026-04-16/00__r8raq__孙哥押注抗量子签名-nist标准方案跑不了高并发ai-agent支付-波场想弯道超车有个硬前提.md"
 ---
 
 # 孙哥押注抗量子签名：NIST标准方案跑不了高并发AI Agent支付，波场想弯道超车有个硬前提

@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Mark Cuban 的财富预言：做“AI 包工头”是普通人最后的跨阶层机会"
 description: "**[核心逻辑]** 传统软件开发式微，未来的机会在于帮全球 5000 万家小企业解决“AI 焦虑”，将工具嵌入业务流程。  - **集成王道**：利用 no-code 或 API 接入 CRM、营销系统，通过自动化省去 30% 以上的人工成本。 - **行动路线**：冷邮件联系小公司 → 免费演示 → 签月费合同 → 规模化模板产品。  [gakki 的锐评]：别只盯着模型迭代，多看看那些还没用"
 resource: "https://x.com/i/status/2026068274107068898"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2026068274107068898"
-created: "2026-02-23"
-updated: "2026-06-26"
-sha256: "46e7f05695133c269ddd5a5cd27603d2c655c3ce3ceb121a8c56ece38a388a20"
-sources:
-  - "/sources/news/2026-02-24/00__grok__mark-cuban-的财富预言-做-ai-包工头-是普通人最后的跨阶层机会.md"
 ---
 
 # Mark Cuban 的财富预言：做“AI 包工头”是普通人最后的跨阶层机会

@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "「中共与市场水火不容」是欧美对华焦虑的错误认知前提"
 description: "**[一句话核心判断]**  Michael Anti 直接反驳「中共与市场化、科技化势同水火」这一在西方舆论中广泛存在的叙事，认为这是对中国现实的根本性误判——欧美真正应该「烦心」的，恰恰是这种误判导致的政策失效。  - 信息增量：引入「China Shock 2.0」概念——如果欧美继续基于错误认知制定对华策略，下一轮冲击会比第一轮更猛烈。 - 核心反驳点：1978 年至今的实践已经证明中共具"
 resource: "https://x.com/i/status/2060909004252196959"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2060909004252196959"
-created: "2026-05-31"
-updated: "2026-06-26"
-sha256: "300ebd3f770239ec31a6538205ab34e0ab2c2dcc85823593ecb5a455b644e855"
-sources:
-  - "/sources/news/2026-05-31/00__mranti__中共与市场水火不容-是欧美对华焦虑的错误认知前提.md"
 ---
 
 # 「中共与市场水火不容」是欧美对华焦虑的错误认知前提

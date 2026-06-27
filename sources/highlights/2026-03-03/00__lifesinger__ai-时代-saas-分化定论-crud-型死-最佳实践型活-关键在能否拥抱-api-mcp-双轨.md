@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "AI 时代 SaaS 分化定论：CRUD 型死，最佳实践型活，关键在能否拥抱 API/MCP 双轨"
 description: "**SaaS 的生死分水岭已经清晰：不是 AI 会不会颠覆 SaaS，而是哪种 SaaS 会被 AI 强化、哪种会被 AI 绕开。** - 「行业最佳实践的软件表达」重新锚定 SaaS 价值——Notion、Linear 等有深度实践积淀的产品，加上 AI 后是质变 - 复杂 CRUD 界面型 SaaS 将被 AI 直连数据库 + 类 IM 界面方案替代，这类产品的终局已定 - 好的 SaaS 需"
 resource: "https://x.com/i/status/2028481112851275843"
@@ -22,13 +22,6 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "saas-disruption-by-ai"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2028481112851275843"
-created: "2026-03-02"
-updated: "2026-06-26"
-sha256: "d1bca84055c3d87a42936283eaefedab62917b54a8e1186d8e70a222115db37a"
-sources:
-  - "/sources/highlights/2026-03-03/00__lifesinger__ai-时代-saas-分化定论-crud-型死-最佳实践型活-关键在能否拥抱-api-mcp-双轨.md"
 ---
 
 # AI 时代 SaaS 分化定论：CRUD 型死，最佳实践型活，关键在能否拥抱 API/MCP 双轨

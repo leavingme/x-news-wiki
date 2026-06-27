@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "smux：用tmux作为AI代理间消息总线，轻量级多Agent协作的新思路"
 description: "**【终端是所有CLI代理的最大公约数——这个洞察价值一套框架】**  smux用tmux窗格作为AI代理之间的共享接口，tmux-bridge CLI实现跨窗格读写。任何能跑bash的代理（Claude Code、Codex、Gemini CLI、shell脚本）都能接入，无需专用通信协议。  • **抽象层级选择精妙**：不发明新协议，用终端作为消息总线，比LangGraph、CrewAI更轻"
 resource: "https://x.com/i/status/2038506962275737678"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2038506962275737678"
-created: "2026-03-30"
-updated: "2026-06-26"
-sha256: "7fec025f163558a66bf1618c1e256708f76737efa6f0e4604c590dbb5f11618d"
-sources:
-  - "/sources/news/2026-03-30/00__chenchengpro__smux-用tmux作为ai代理间消息总线-轻量级多agent协作的新思路.md"
 ---
 
 # smux：用tmux作为AI代理间消息总线，轻量级多Agent协作的新思路

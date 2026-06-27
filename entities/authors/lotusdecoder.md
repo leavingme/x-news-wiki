@@ -1,23 +1,17 @@
 ---
-type: "entity"
+type: "Author"
 title: "LotusDecoder (@LotusDecoder)"
 description: "X/Twitter 作者 @LotusDecoder。共收录 1 条 AI 精选推文。"
 tags:
   - "x-news"
   - "author"
   - "author:LotusDecoder"
-timestamp: "2026-06-26T11:53:36.952Z"
+timestamp: "2026-06-27T08:40:40.160Z"
 x_handle: "LotusDecoder"
 x_author_name: "LotusDecoder"
 x_tweet_count: 1
 x_first_seen: "2026-03-04T01:02:26.880Z"
 x_last_seen: "2026-03-04T01:02:26.880Z"
-type_okf: "Author"
-created: "2026-03-04"
-updated: "2026-06-26"
-sha256: "38b90b8f09048c6e40aed37d488645623e40d14da3992a688c28c9fe7d38368e"
-sources:
-  - "/sources/highlights/2026-03-04/00__LotusDecoder__mac-mini-ane-芯片被破解-2000-元-边缘算力核弹-浮出水面.md"
 ---
 
 # LotusDecoder (@LotusDecoder)

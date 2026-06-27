@@ -1,28 +1,22 @@
 ---
-type: "concept"
-title: "ai-compute-on-chain"
-description: "跨日主题 \"ai-compute-on-chain\"，共 4 条相关精选推文。"
+type: "Concept"
+title: "链上 AI 算力"
+description: "跨日主题 \"链上 AI 算力\" (ai-compute-on-chain)，共 4 条相关精选推文。"
 tags:
   - "x-news"
   - "concept"
   - "topic:ai-compute-on-chain"
-timestamp: "2026-06-26T11:53:37.015Z"
+timestamp: "2026-06-27T08:40:42.855Z"
 x_topic_slug: "ai-compute-on-chain"
 x_tweet_count: 4
 x_first_seen: "2026-04-18T12:44:58.621Z"
 x_last_seen: "2026-05-06T16:18:46.941Z"
-type_okf: "Concept"
-created: "2026-04-18"
-updated: "2026-06-26"
-sha256: "4fd46efefc55b183200ec75e1dd13401d4df9455c2bc3390583330678a4e2439"
-sources:
-  - "/sources/highlights/2026-05-06/00__dotey__openai-联合五大芯片厂开源-mrc-协议-万卡集群的网络瓶颈终于有解了.md"
-  - "/sources/news/2026-04-18/00__egyptk6__把闲置游戏pc变算力节点-bless用wasm撕开-去中心化算力-的入场壁垒.md"
-  - "/sources/news/2026-04-22/00__gensynai__gensyn主网上线-去中心化ai算力的第一块真实铺路石.md"
-  - "/sources/news/2026-05-02/00__Leobai825__token-供应链战争-vs-agent-经济阶级战争-两种-ai-基础设施叙事的分野.md"
+x_cn_title_source: "dict"
 ---
 
-# 主题: ai-compute-on-chain
+# 主题: 链上 AI 算力
+
+> slug: `ai-compute-on-chain`
 
 本主题下共 **4** 条精选推文。
 

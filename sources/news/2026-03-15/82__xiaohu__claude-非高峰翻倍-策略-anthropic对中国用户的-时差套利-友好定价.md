@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Claude「非高峰翻倍」策略：Anthropic对中国用户的「时差套利」友好定价"
 description: "**[大模型定价战从「降价」转向「错峰激励」]** • 3月13-27日，非美东高峰时段（北京时间白天9点-晚上8点）用量自动翻倍，周末全天翻倍 • Free/Pro/Max/Team全覆盖，额外用量不计入周上限——本质是定价策略的「软降价」 • 战略意图：通过时间维度调节峰谷，提升全球算力利用率，同时精准利好亚洲用户群体  **gakki锐评**：不用降价就能提升感知价值，Anthropic这招"
 resource: "https://x.com/i/status/2033010642895171734"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 82
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2033010642895171734"
-created: "2026-03-15"
-updated: "2026-06-26"
-sha256: "aa87f9a5d1fa57f516c82c1fa8c389c310253308f15fada6fae0dce522c440c4"
-sources:
-  - "/sources/news/2026-03-15/82__xiaohu__claude-非高峰翻倍-策略-anthropic对中国用户的-时差套利-友好定价.md"
 ---
 
 # Claude「非高峰翻倍」策略：Anthropic对中国用户的「时差套利」友好定价

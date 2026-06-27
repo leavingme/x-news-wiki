@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "2個月前的Skills被翻出來了：Claude Code多IM適配的「先烈」紅利"
 description: "**[早佈局者的被動引爆：Skills的沉默價值被重新發現]**  歸藏師傅2個多月前寫的Claude Code多IM適配Skills，隨著飛書機器人概念的火了被重新傳播。這是典型的「時間差套利」——領先市場2步的產品，在正確的時間節點被外部趨勢被動引爆。  Skills沉澱的連接模式（Telegram、飛書、QQ、微信、Discord）剛好覆蓋主流IM矩陣，說明當產品的核心價值足夠穩定，傳播只是"
 resource: "https://x.com/i/status/2057756179363995755"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2057756179363995755"
-created: "2026-05-22"
-updated: "2026-06-26"
-sha256: "1eba94d2369e95b27e494c4becd334fa6b0ca34e132c2a0417b58d60f03da05b"
-sources:
-  - "/sources/news/2026-05-22/00__op7418__2個月前的skills被翻出來了-claude-code多im適配的-先烈-紅利.md"
 ---
 
 # 2個月前的Skills被翻出來了：Claude Code多IM適配的「先烈」紅利

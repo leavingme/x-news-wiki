@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "xAI 解散并入 SpaceX，Anthropic 吞下 22 万张 GPU 算力：AI 算力格局的「垂直整合」时代来了"
 description: "**马斯克把 xAI 从独立公司降级为 SpaceX 的 AI 部门，算力与火箭共用一个资本结构。**  - xAI 更名 SpaceXAI，不再独立运营，Colossus 1 数据中心 22 万张 NVIDIA GPU 直接挂靠 SpaceX 资产负债表 - Anthropic 宣布与 SpaceX 达成算力租赁合作，同日 Claude Code 速率翻倍、Pro/Max 高峰降速取消、Opus"
 resource: "https://x.com/i/status/2052203572407021705"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2052203572407021705"
-created: "2026-05-07"
-updated: "2026-06-26"
-sha256: "b1c473268f68699f1388995d716879fda1dc39ca5544a1c83a697a3dd312b2ea"
-sources:
-  - "/sources/highlights/2026-05-07/00__xiaohu__xai-解散并入-spacex-anthropic-吞下-22-万张-gpu-算力-ai-算力格局的-垂直整合-时代来了.md"
 ---
 
 # xAI 解散并入 SpaceX，Anthropic 吞下 22 万张 GPU 算力：AI 算力格局的「垂直整合」时代来了

@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Karpathy × Garry Tan 知识管理同框：两种流派的世纪和解"
 description: "**【AI 时代知识管理路线收敛：第二大脑进入实用化阶段】**  YC CEO Garry Tan 发文分享知识管理方法后，推主将其与 Karpathy 的方法论可视化对比。两者共同指向一个信号：LLM 正在替代传统笔记工具成为知识操作主战场。  核心观察：两套系统都强调「外部化 + 可检索」，但侧重点不同——一个是 Personal OS 导向，一个是 Project 导向。视觉化后共性更清晰："
 resource: "https://x.com/i/status/2041074070956216441"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2041074070956216441"
-created: "2026-04-06"
-updated: "2026-06-26"
-sha256: "b513df8aa73fc0b24caffad18fd5151deb869ac620cd57af564917a38c2fd101"
-sources:
-  - "/sources/news/2026-04-06/00__nash_su__karpathy-garry-tan-知识管理同框-两种流派的世纪和解.md"
 ---
 
 # Karpathy × Garry Tan 知识管理同框：两种流派的世纪和解

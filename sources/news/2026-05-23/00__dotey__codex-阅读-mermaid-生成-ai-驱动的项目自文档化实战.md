@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Codex 阅读 + mermaid 生成：AI 驱动的项目自文档化实战"
 description: "**[ 用 Codex 让 AI 自己写项目文档：mermaid 作为理解媒介正在流行 ]**  宝玉展示了一个具体 prompt 模板：让 Codex 阅读项目后生成带 mermaid 图表的说明文档，目的是「小白看了也能清楚工作原理」。这是 AI Coding 工具驱动工程实践自动化的一个具体案例。  工程价值：代码即文档的理念在 Agent 时代真正变得可执行——不是人类写文档，而是人类指导"
 resource: "https://x.com/i/status/2058091472390394135"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2058091472390394135"
-created: "2026-05-23"
-updated: "2026-06-26"
-sha256: "42e9db012dd60b80d35880e9e6c16d5966359623d750aec406cf6da54c214335"
-sources:
-  - "/sources/news/2026-05-23/00__dotey__codex-阅读-mermaid-生成-ai-驱动的项目自文档化实战.md"
 ---
 
 # Codex 阅读 + mermaid 生成：AI 驱动的项目自文档化实战

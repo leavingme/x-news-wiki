@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "反共识：我们经历的并非智力危机，而是智力大爆炸"
 description: "**Kobeissi Letter 提出「丰饶 GDP」假说：AI 将认知商品化，带来服务价格的根本性通缩，购买力与总产出反而会跃迁。**  • 看空逻辑建立在静态需求假设上（AI 替代人力 → 消费降级 → 经济崩盘），但历史证明生产成本坍塌永远伴随总需求指数级扩张 • 即便名义工资增长放缓，只要生活成本下降更快，社会购买力仍将跃迁 • 这不仅是存量财富洗牌，更是创造增量价值的系统性降门槛 • "
 resource: "https://x.com/i/status/2026865388898889921"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2026865388898889921"
-created: "2026-02-26"
-updated: "2026-06-26"
-sha256: "098d18af0b4ab45d8a9b0a3577df7aa34a0e6ad5adb14682c69af8238e5a6151"
-sources:
-  - "/sources/highlights/2026-03-17/00__runes_leo__反共识-我们经历的并非智力危机-而是智力大爆炸.md"
 ---
 
 # 反共识：我们经历的并非智力危机，而是智力大爆炸

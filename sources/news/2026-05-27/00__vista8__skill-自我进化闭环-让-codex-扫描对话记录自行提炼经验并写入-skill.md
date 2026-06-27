@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Skill 自我进化闭环：让 Codex 扫描对话记录自行提炼经验并写入 Skill"
 description: "**[Tw93 的 skill 进化飞轮：每周一次对话扫描，把开发经验蒸馏进 Skill]**  向阳乔木转述 Tw93 在直播中透露的方法：他的开发 Skill waza 能实现「每周无痛更新」，核心机制是让 Codex 扫描本周所有对话记录，由 AI 提炼出新的开发经验、审美偏好，再写入 Skill 文档。  这个机制的洞察在于：Skill 不再是静态配置文件，而是随使用不断生长的「经验活体」"
 resource: "https://x.com/i/status/2059473257942958578"
@@ -22,13 +22,6 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "skills-ecosystem-standards"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2059473257942958578"
-created: "2026-05-27"
-updated: "2026-06-26"
-sha256: "56bff1d2b272e667c048098366af60bed480a06d1bc339a55416032c27f36769"
-sources:
-  - "/sources/news/2026-05-27/00__vista8__skill-自我进化闭环-让-codex-扫描对话记录自行提炼经验并写入-skill.md"
 ---
 
 # Skill 自我进化闭环：让 Codex 扫描对话记录自行提炼经验并写入 Skill

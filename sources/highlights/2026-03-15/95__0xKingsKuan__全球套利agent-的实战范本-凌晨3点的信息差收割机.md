@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "「全球套利Agent」的实战范本：凌晨3点的信息差收割机"
 description: "**[AI Agent已具备跨时区、跨市场的自主套利能力，信息差套利的门槛被彻底击穿]**  • 技术实现：通过RSS+政府公开数据源构建全球情报网，设定规则（edge>30%+美东深夜时段）触发人工确认 • 关键洞察：利用\"美国人睡觉时，海外市场已确认但Polymarket价格未反应\"的时间窗口套利 • 效率验证：单夜捕获6个市场机会，单笔净赚4.38万美元，ROI取决于信息处理速度而非资金规模"
 resource: "https://x.com/i/status/2032760772691112433"
@@ -22,13 +22,6 @@ x_selected: 2
 x_priority: 95
 x_related_topic: "ai-crypto-agent-infra"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2032760772691112433"
-created: "2026-03-14"
-updated: "2026-06-26"
-sha256: "cb0a42949fa111266beb1b83dfa000ad7042a00d97ca7b78aa6c72206d1a2c4a"
-sources:
-  - "/sources/highlights/2026-03-15/95__0xKingsKuan__全球套利agent-的实战范本-凌晨3点的信息差收割机.md"
 ---
 
 # 「全球套利Agent」的实战范本：凌晨3点的信息差收割机

@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "To B 在中国实业土壤里长得出，美国 AI 机会在 To C：玉伯拆解三个被反转的创业常识"
 description: "**一句话核心判断：所谓「AI for Work 最没机会、AI for Science/Life 有机会」——认真思考后发现全对也全错，真实机会分布与创业者共识恰好相反。**  要点： - 硅谷 To B 的 ARR 大量靠 CEO 互刷完成，关系型创业是公开秘密而非潜规则 - 美国缺乏实业土壤，To B AI 创业空间有限，真正的金矿在 To C；中国恰好相反——实业对接使 To B 反而有大"
 resource: "https://x.com/i/status/2059222338055667882"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2059222338055667882"
-created: "2026-05-26"
-updated: "2026-06-26"
-sha256: "ca885b21ea7a2b77b5291c49baa8532375cd9387c8dfa5bf301b014bf1df2d53"
-sources:
-  - "/sources/highlights/2026-05-26/00__lifesinger__to-b-在中国实业土壤里长得出-美国-ai-机会在-to-c-玉伯拆解三个被反转的创业常识.md"
 ---
 
 # To B 在中国实业土壤里长得出，美国 AI 机会在 To C：玉伯拆解三个被反转的创业常识

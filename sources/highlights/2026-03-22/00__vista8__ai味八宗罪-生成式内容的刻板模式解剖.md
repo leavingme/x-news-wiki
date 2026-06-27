@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "AI味八宗罪：生成式内容的刻板模式解剖"
 description: "**[AI文本风格的「 uncanny valley 」已被精准归因]**  ① 向阳乔木总结的8大模式揭示了当前AI生成内容的「表演性」本质——不是信息传递，而是对「权威腔调」的模仿 ② 这种现象正在造成读者疲劳：当「不是X而是Y」「想象一下」「毁灭性的」成为高频路标，人类开始本能地抵触AI内容 ③ 对内容创业者是警示：如果输出可被模式识别，就面临被替代风险；真正护城河在于无法被模板化的个人经验"
 resource: "https://x.com/i/status/2035401773838721499"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2035401773838721499"
-created: "2026-03-21"
-updated: "2026-06-26"
-sha256: "a8aa0f56d947a9fde9e6b60500637a2919a42f9c08ed39d92a0ddfde5935351a"
-sources:
-  - "/sources/highlights/2026-03-22/00__vista8__ai味八宗罪-生成式内容的刻板模式解剖.md"
 ---
 
 # AI味八宗罪：生成式内容的刻板模式解剖

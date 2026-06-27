@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "OpenAI三人用Codex五个月生成百万行代码，Cursor数百Agent并行造浏览器引擎：同一结论击中行业集体潜意识"
 description: "**[工程师的核心工作已不是写代码，而是设计Agent的工作环境]**  OpenAI三人团队用Codex五个月生成百万行代码，Cursor用数百Agent并行一周从零造出浏览器引擎——两个独立实验得出完全相同的结论：人类工程师的价值锚点正在迁移。  这不是工具升级，是工作定义的范式转移。代码不再是产出物，环境才是。文档、约束、反馈循环的质量，直接决定Agent的产出上限。   **gakki锐评"
 resource: "https://x.com/i/status/2040459453405987115"
@@ -22,13 +22,6 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "ai-coding-market-divergence"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2040459453405987115"
-created: "2026-04-04"
-updated: "2026-06-26"
-sha256: "c2af17f915948ac2964bcdf30e25b622beb23c9d786932419661283df46f484f"
-sources:
-  - "/sources/highlights/2026-04-05/00__grapeot__openai三人用codex五个月生成百万行代码-cursor数百agent并行造浏览器引擎-同一结论击中行业集体潜意识.md"
 ---
 
 # OpenAI三人用Codex五个月生成百万行代码，Cursor数百Agent并行造浏览器引擎：同一结论击中行业集体潜意识

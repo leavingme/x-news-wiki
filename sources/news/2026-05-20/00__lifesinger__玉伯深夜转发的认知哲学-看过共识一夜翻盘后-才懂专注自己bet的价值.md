@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "玉伯深夜转发的认知哲学：看过共识一夜翻盘后，才懂专注自己bet的价值"
 description: "**「看过共识一夜翻盘后，才懂专注自己bet的价值」**  玉伯转发了一段深有共鸣的话：市场总存在所谓共识，但看过好几次共识在一夜之间翻盘后，专注于自己的 bet 就成了最理性的选择。即便只有 50% 的时间是对的，只要提供的是别人没有的东西，就已经很有价值。  这不是鸡汤，是经历过周期的人的生存哲学。  AI 时代信息过载，共识形成和崩塌的速度比以往任何时候都快。真正有价值的判断力，不是追热点追"
 resource: "https://x.com/i/status/2057123019882217892"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2057123019882217892"
-created: "2026-05-20"
-updated: "2026-06-26"
-sha256: "9ead7945eeb3783727bb1432d85a2c9cc0ea2db345ffcacbfbe10e3fa7cc7219"
-sources:
-  - "/sources/news/2026-05-20/00__lifesinger__玉伯深夜转发的认知哲学-看过共识一夜翻盘后-才懂专注自己bet的价值.md"
 ---
 
 # 玉伯深夜转发的认知哲学：看过共识一夜翻盘后，才懂专注自己bet的价值

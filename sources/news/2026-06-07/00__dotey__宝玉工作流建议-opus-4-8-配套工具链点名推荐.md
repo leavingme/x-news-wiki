@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "宝玉工作流建议：Opus 4.8 + 配套工具链点名推荐"
 description: "**[宝玉在回复中给出具体模型+工具组合建议]**  1. 明确点名 Claude Opus 4.8（暗示在 4.5 之后已有更新版本） 2. 配套推一个外部工具链接（链接未在文本中展开） 3. 体现宝玉一贯的「模型分层 + 工具链配套」工作流哲学   宝玉的推荐仍停留在「给同行人指路」层面，缺少上下文与对比证据，Opus 4.8 的具体能力差异也未论证。"
 resource: "https://x.com/i/status/2063476298807234674"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2063476298807234674"
-created: "2026-06-07"
-updated: "2026-06-26"
-sha256: "3ae9cec1ac0bfced1f48ea4efee27e8fe1ace49f610b2f4f0f65b3539fca68e6"
-sources:
-  - "/sources/news/2026-06-07/00__dotey__宝玉工作流建议-opus-4-8-配套工具链点名推荐.md"
 ---
 
 # 宝玉工作流建议：Opus 4.8 + 配套工具链点名推荐

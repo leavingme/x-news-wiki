@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "向阳乔木用AI自建iOS提词器：个人工具时代，\"发布\"不再是开发前提"
 description: "**AI Coding让\"自用工具\"取代\"对外发布产品\"成为移动开发新常态。** -计划用AI做一个支持语音自动跟随的iOS提词器，配套远程服务器管脚本、iOS文本粘贴 -关键表态：\"不需要对外发布就简单很多\"——发布门槛消失后，开发动机回归\"我自己要用\" -反映AI对移动开发的范式影响：单人/单场景/单工具的快速闭环成为主流，App Store不再是终点 -配套Pocket3、口播Skill等已"
 resource: "https://x.com/i/status/2064385768559358258"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2064385768559358258"
-created: "2026-06-09"
-updated: "2026-06-26"
-sha256: "da122849562df9c59bf7e6b746dcb390f9189c36368e3b4bb3c8543dcd8c99c3"
-sources:
-  - "/sources/news/2026-06-09/00__vista8__向阳乔木用ai自建ios提词器-个人工具时代-发布-不再是开发前提.md"
 ---
 
 # 向阳乔木用AI自建iOS提词器：个人工具时代，"发布"不再是开发前提

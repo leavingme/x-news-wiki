@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Google 将「个人智能」免费开放：你的邮件、相册、搜索记录全部AI化"
 description: "**【个人数据主权的「甜蜜陷阱」】**  • Gemini Personal Intelligence 向全美免费用户开放，打通 Gmail/Photos/YouTube/Maps 全数据链路 • 从「失忆助手」到「终身记忆」：AI首次实现跨产品、跨时间的用户画像持续累积 • 技术突破背后是对隐私边界的激进试探，用户以数据换便利的交换比从未如此赤裸  ---  **gakki 锐评**：Googl"
 resource: "https://x.com/i/status/2034128890638250156"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2034128890638250156"
-created: "2026-03-18"
-updated: "2026-06-26"
-sha256: "26b95ad5350c9bca2322b010978118621a2083959639c8e180fdd8f04384bd87"
-sources:
-  - "/sources/highlights/2026-03-18/00__xiaohu__google-将-个人智能-免费开放-你的邮件-相册-搜索记录全部ai化.md"
 ---
 
 # Google 将「个人智能」免费开放：你的邮件、相册、搜索记录全部AI化

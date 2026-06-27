@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Rork Max Publishing：App Store上架流程的「零触摸」自动化"
 description: "**[应用商店发布从人工密集型转向全自动流水线]** • AI自动生成应用描述、营销截图、模拟评论避坑、自动提交审核，覆盖上架全环节 • 移动开发者从繁琐的元数据管理中解放，释放时间回归产品本身 • 审核准备的标准化可能改变ASO行业的服务模式  当应用商店的\"最后一公里\"被自动化，独立开发者的迭代速度将与大厂站在同一起跑线。"
 resource: "https://x.com/i/status/2037308569939509280"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2037308569939509280"
-created: "2026-03-26"
-updated: "2026-06-26"
-sha256: "91328b03aefa2b0b7f020793211726b64a6ed034ab89250fdd036e28510e1337"
-sources:
-  - "/sources/news/2026-03-29/00__berryxia__rork-max-publishing-app-store上架流程的-零触摸-自动化.md"
 ---
 
 # Rork Max Publishing：App Store上架流程的「零触摸」自动化

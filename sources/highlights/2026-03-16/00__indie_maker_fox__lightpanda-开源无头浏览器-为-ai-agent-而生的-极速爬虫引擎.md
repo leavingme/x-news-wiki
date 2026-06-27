@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "LightPanda 开源无头浏览器：为 AI Agent 而生的「极速爬虫引擎」"
 description: "**[浏览器 Agent 的「性能底座」正在被重写]** • LightPanda专为AI和自动化工作流设计，速度比Chrome快10倍，内存占用减少近10倍 • 兼容Puppeteer/Playwright生态，可直接接入现有Agent工作流 • 信号：浏览器作为Agent感知基础设施，Token效率和执行速度正成为核心竞争维度  gakki 锐评：这是对「浏览器Agent=高Token消耗」默"
 resource: "https://x.com/i/status/1895665277104505240"
@@ -22,13 +22,6 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "agent-browser-token-efficiency"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/1895665277104505240"
-created: "2025-03-01"
-updated: "2026-06-26"
-sha256: "0b089283eac63fb59a94f34ace3580d635819eee6c8fb1ab54f995c601975842"
-sources:
-  - "/sources/highlights/2026-03-16/00__indie_maker_fox__lightpanda-开源无头浏览器-为-ai-agent-而生的-极速爬虫引擎.md"
 ---
 
 # LightPanda 开源无头浏览器：为 AI Agent 而生的「极速爬虫引擎」

@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "宝玉定调：Codex 终局是 Agent OS，不是 Agent Office"
 description: "**Codex 的天花板不在「写代码的工具」，而在「Agent 时代的操作系统」。**  - 宝玉明确否定「Codex = 高级 IDE / Agent Office」的定位，认为这条赛道天花板太低、容易被 Cursor/Claude Code 复制。 - 真正的终局是 Agent OS：Codex 作为 Agent 运行时 + 调度层，承载第三方 Skills/MCP/Sub-agent，成为开"
 resource: "https://x.com/i/status/2070296441495454134"
@@ -22,13 +22,6 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "codex-ecosystem-platform-war"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2070296441495454134"
-created: "2026-06-26"
-updated: "2026-06-26"
-sha256: "5288a502e167438bb5edce45400c7484596185c2ed9fd626123d9547fc8d34c2"
-sources:
-  - "/sources/news/2026-06-26/00__dotey__宝玉定调-codex-终局是-agent-os-不是-agent-office.md"
 ---
 
 # 宝玉定调：Codex 终局是 Agent OS，不是 Agent Office

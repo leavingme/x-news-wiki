@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "向阳乔木 AI 生成美食综艺验证：工业化内容生产成本仍是大问题"
 description: "**[AI 视频内容商业化的一道价格裂缝]**  向阳乔木发布 AI 生成的「我在烂尾美食综艺里封神」第 1-2 集，同时坦承「成本太高了」。这是国内 AI 内容创作者少有的、主动披露生产成本的案例。  「成本太高」这个判断背后，是当前 AI 视频生成在长剧情内容上的真实瓶颈：单集成本可能仍维持在数千至万元量级，而这类内容的商业回收路径尚不明朗。它验证了一个判断——AI 短视频 Demo 满天飞，"
 resource: "https://x.com/i/status/2059633310532526400"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2059633310532526400"
-created: "2026-05-27"
-updated: "2026-06-26"
-sha256: "8f117c0bd1a5574889e1ebff4fb7d1bde154f467dbee4097a3982a34fa3054f5"
-sources:
-  - "/sources/news/2026-05-27/00__vista8__向阳乔木-ai-生成美食综艺验证-工业化内容生产成本仍是大问题.md"
 ---
 
 # 向阳乔木 AI 生成美食综艺验证：工业化内容生产成本仍是大问题

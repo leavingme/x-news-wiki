@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Hermes Agent 获开发者实名背书：「0次崩溃更新」背后的开源Agent稳定性信号"
 description: "**开源Agent平台的口碑拐点正在到来。**  - 开发者 Alex Finn 公开称赞 Hermes Agent「可靠、0次崩溃更新」，并给出了10倍生产力工作流 - 这类自发背书在开源Agent生态中极为稀缺——大多数项目还在「能跑就行」的阶段 - 稳定性+新功能的组合，正在把开源Agent从「玩具」推向「生产工具」  gakki锐评：一个Agent平台被开发者称为「it just work"
 resource: "https://x.com/AlexFinn/status/2052212982579708203"
@@ -22,13 +22,6 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "hermes-agent-stability-comparison"
 x_source: "ai-trend-digest"
-type_okf: "X Tweet"
-source_url: "https://x.com/AlexFinn/status/2052212982579708203"
-created: "2026-05-07"
-updated: "2026-06-26"
-sha256: "ee3fc8a35c10881d4f2eded4c9c7906859a1c4ccc0281d8fb31054f1b7cb9b1c"
-sources:
-  - "/sources/news/2026-05-07/00__AlexFinn__hermes-agent-获开发者实名背书-0次崩溃更新-背后的开源agent稳定性信号.md"
 ---
 
 # Hermes Agent 获开发者实名背书：「0次崩溃更新」背后的开源Agent稳定性信号

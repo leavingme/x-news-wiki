@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Claude Code「去神秘化」工程教程：12节课拆解Agent从84行到694行的进化路径"
 description: "**[Agent工程教育里程碑：把黑盒拆成可拼装的标准件]**  • 开源教程将Agent架构拆为5层、12个session，核心loop始终保持不变 • 核心方法论：能力增长来自「harness叠加」而非「loop改造」 • 关键解构：计划(Todo/Task)、知识(Skills按需加载)、记忆、工具、协作机制都是loop的外挂组件  **Gakki锐评：** 这是Agent工程的「拆解手册」"
 resource: "https://x.com/i/status/2035338785668653363"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2035338785668653363"
-created: "2026-03-21"
-updated: "2026-06-26"
-sha256: "6cfe0d9563abb3bd0ec4394c29c3d827b293ff63121600b083e545284e2a67a0"
-sources:
-  - "/sources/news/2026-03-22/00__shao__meng__claude-code-去神秘化-工程教程-12节课拆解agent从84行到694行的进化路径.md"
 ---
 
 # Claude Code「去神秘化」工程教程：12节课拆解Agent从84行到694行的进化路径

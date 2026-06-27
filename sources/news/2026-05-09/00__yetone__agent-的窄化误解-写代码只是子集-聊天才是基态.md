@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Agent 的窄化误解：写代码只是子集，聊天才是基态"
 description: "**一句话核心判断：** Coding Agent 的叙事遮蔽了 Agent 作为通用智能体的本质属性。  - yetone 纠正社区对 Agent 的功能窄化认知——Agent 不应被等同于代码生成工具，对话能力才是底层能力，coding 只是上层应用之一。 - 这一观点直接影响 Agent 产品设计方向：过度工程化（只服务开发者）vs 保持通用性（chatbot + 工具调用并重）。  gak"
 resource: "https://x.com/i/status/2053139476256542914"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2053139476256542914"
-created: "2026-05-09"
-updated: "2026-06-26"
-sha256: "be04de1d299e4860acca3f4f3494ad78923f057e44968c48c7bb1160d232fbdd"
-sources:
-  - "/sources/news/2026-05-09/00__yetone__agent-的窄化误解-写代码只是子集-聊天才是基态.md"
 ---
 
 # Agent 的窄化误解：写代码只是子集，聊天才是基态

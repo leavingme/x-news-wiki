@@ -1,23 +1,17 @@
 ---
-type: "entity"
+type: "Author"
 title: "𝕍𝕚𝕒 𝔾𝕖𝕥𝕥𝕪.𝕦𝕤𝕕 (@antontyrberg)"
 description: "X/Twitter 作者 @antontyrberg。共收录 1 条 AI 精选推文。"
 tags:
   - "x-news"
   - "author"
   - "author:antontyrberg"
-timestamp: "2026-06-26T11:53:37.003Z"
+timestamp: "2026-06-27T08:40:40.219Z"
 x_handle: "antontyrberg"
 x_author_name: "𝕍𝕚𝕒 𝔾𝕖𝕥𝕥𝕪.𝕦𝕤𝕕"
 x_tweet_count: 1
 x_first_seen: "2026-06-25T19:20:35.366Z"
 x_last_seen: "2026-06-25T19:20:35.366Z"
-type_okf: "Author"
-created: "2026-06-25"
-updated: "2026-06-26"
-sha256: "14441e75b32ce3adecc72afbbdbcaa5af30aaef06b08a33ca3a8f3f3e2b39923"
-sources:
-  - "/sources/news/2026-06-25/00__antontyrberg__vibe-coding-实战-ai-一次性出低多边形建筑资产-uv-之外几乎零调整.md"
 ---
 
 # 𝕍𝕚𝕒 𝔾𝕖𝕥𝕥𝕪.𝕦𝕤𝕕 (@antontyrberg)

@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "AI Agent 学习资源指南：从入门到系统工程的 YouTube 频道推荐"
 description: "**[知识体系构建]** - 社区整理了高质量的 AI Agent 学习频道，涵盖不同段位：   - Jeff su：适合新手的 8 分钟实用 prompt 与 Agent 教程。   - Andrej Karpathy：3 小时 LLM 硬核科普。   - Tina Huang：44 分钟快速消化 AI Agent 核心概念。   - Dave Ebbelaar：偏向实战系统工程与 AI 自由职"
 resource: "https://x.com/i/status/2027166256672248251"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2027166256672248251"
-created: "2026-02-26"
-updated: "2026-06-26"
-sha256: "55426616e0b9d2bd856899e65bcdb5b907af928dda5dd22f05737b698f92ef40"
-sources:
-  - "/sources/news/2026-02-27/00__Zenzhe99__ai-agent-学习资源指南-从入门到系统工程的-youtube-频道推荐.md"
 ---
 
 # AI Agent 学习资源指南：从入门到系统工程的 YouTube 频道推荐

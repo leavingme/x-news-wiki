@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Orange AI 判断：Harness 工程将成团队标配，个人理解框架是生存前提"
 description: "**「未来每个团队都是在做 harness 工程」——这不是预测，是正在发生的现实。**  - Orange AI 将宝玉的 Harness 拆解定位为「不错的综述」，同时指出存在非共识点 - 暗示 harness 工程存在多种流派，而非单一正确答案 - 「每个人都需要理解这套框架」的判断，指向开发者技能栈的结构性变化  gakki 锐评：Harness 工程的讨论密度在本周明显上升。当行业领袖开"
 resource: "https://x.com/i/status/2053608588002885730"
@@ -22,13 +22,6 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "harness-engineering-mit-study"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2053608588002885730"
-created: "2026-05-10"
-updated: "2026-06-26"
-sha256: "f1c948f0c001be26be63462346491a8ac5b53986d35eeb5fece33e9e766808cd"
-sources:
-  - "/sources/news/2026-05-11/00__oran_ge__orange-ai-判断-harness-工程将成团队标配-个人理解框架是生存前提.md"
 ---
 
 # Orange AI 判断：Harness 工程将成团队标配，个人理解框架是生存前提

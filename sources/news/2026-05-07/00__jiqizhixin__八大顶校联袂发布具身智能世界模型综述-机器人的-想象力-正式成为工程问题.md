@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "八大顶校联袂发布具身智能世界模型综述：机器人的「想象力」正式成为工程问题"
 description: "**具身智能从感知驱动转向预测驱动的学术共识正在形成。**  - NTU、UC Berkeley、Stanford、Oxford、Microsoft、ETH Zurich、Princeton、Harvard 八家机构联合发布系统性综述，首次将机器人世界模型的架构、功能角色（视频生成到导航规划）进行统一框架梳理 - 世界模型定位为「预测性内部模拟器」——让机器人在行动前先想象环境变化，实现规划、策略"
 resource: "https://x.com/i/status/2052317247260303696"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2052317247260303696"
-created: "2026-05-07"
-updated: "2026-06-26"
-sha256: "560ea27132199ee6eb5274cd6e996532634af614706344b32fce3e56fd89bb88"
-sources:
-  - "/sources/news/2026-05-07/00__jiqizhixin__八大顶校联袂发布具身智能世界模型综述-机器人的-想象力-正式成为工程问题.md"
 ---
 
 # 八大顶校联袂发布具身智能世界模型综述：机器人的「想象力」正式成为工程问题

@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Codex+远程控制实现零门槛视频内容工厂：单次生成成本已接近忽略不计"
 description: "**一句话核心判断：内容生产工具的「技能化」正在快速降低AI视频的生产成本门槛，内容工业化拐点比预期来得更快。**  - 基于藏师傅PPT Skill的讲解视频生成Skill已完成，配合Codex加远程控制，不在家也能一键产出 - 主要内容用前端生成，配音和部分分镜使用Seedance 2.0，单次生成成本已接近忽略不计 - 关键信号：这套工作流实现了「低成本保证可用性和表现力」，意味着内容生产正"
 resource: "https://x.com/i/status/2056314568037761427"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2056314568037761427"
-created: "2026-05-18"
-updated: "2026-06-26"
-sha256: "ce98ee912aa414b094a0bebb7ae5e0faa5a0e6f485e114305022bb0689a1311f"
-sources:
-  - "/sources/news/2026-05-18/00__op7418__codex-远程控制实现零门槛视频内容工厂-单次生成成本已接近忽略不计.md"
 ---
 
 # Codex+远程控制实现零门槛视频内容工厂：单次生成成本已接近忽略不计

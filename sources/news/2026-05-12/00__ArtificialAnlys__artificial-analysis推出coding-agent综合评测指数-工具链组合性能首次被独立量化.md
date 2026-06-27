@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Artificial Analysis推出Coding Agent综合评测指数：工具链组合性能首次被独立量化"
 description: "**一句话核心判断：** 评测Coding Agent的正确单位不是「模型」，而是「Harness+模型」的组合——这个常识终于有了系统性基准。  新指数涵盖3个主流Benchmark、Token消耗、成本和综合表现，覆盖当前主流Coding Agent场景。  gakki 锐评：这是行业走向成熟的信号——当市场开始用「组合评测」替代「模型跑分」，说明大家终于意识到Coding Agent的瓶颈在"
 resource: "https://x.com/ArtificialAnlys/status/2053865095076438427"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "ai-trend-digest"
-type_okf: "X Tweet"
-source_url: "https://x.com/ArtificialAnlys/status/2053865095076438427"
-created: "2026-05-11"
-updated: "2026-06-26"
-sha256: "271b66a86936072bafb966daa21abbf1e18baaeb3d4b7bea9bd13948fd47fa95"
-sources:
-  - "/sources/news/2026-05-12/00__ArtificialAnlys__artificial-analysis推出coding-agent综合评测指数-工具链组合性能首次被独立量化.md"
 ---
 
 # Artificial Analysis推出Coding Agent综合评测指数：工具链组合性能首次被独立量化

@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "GPT-Image-2 把艺术家风格变成可量化的 prompt 配方，380+ 种风格一次生成"
 description: "**一句话核心判断：** 风格学习正在从「主观感知」变成「可复制的生成参数」，这是设计工作流的一次微小但不可逆的解构。  **信息增量：** - 用「远山、近水、小树林」这个安全感基线画面测试风格一致性，方法论有意思 - 380+ 艺术家风格的 prompt 配方库，可直接借鉴用于 AI 生图 - 开源 GitHub + 可体验网站，验证了「研究即产品」的快速转化路径  **gakki 锐评：**"
 resource: "https://x.com/i/status/2056558217774387439"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2056558217774387439"
-created: "2026-05-19"
-updated: "2026-06-26"
-sha256: "ce81a775f60fb0b95fab2497ecf8358b91b2115148a1034e57e4a444334c08de"
-sources:
-  - "/sources/news/2026-05-19/00__vista8__gpt-image-2-把艺术家风格变成可量化的-prompt-配方-380-种风格一次生成.md"
 ---
 
 # GPT-Image-2 把艺术家风格变成可量化的 prompt 配方，380+ 种风格一次生成

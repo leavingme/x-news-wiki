@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "YC方法论CLI化：Garry Tan把创业辅导塞进Claude Code技能包"
 description: "**[顶级孵化器Know-how的Agent封装]**  • YC CEO将Office Hours对话流程开源为Claude Code Skill，相当于把顶级创业导师的提问逻辑转化为可复用的系统校验工具 • 核心约束机制：强制用户把目标用户具体到\"一个人的名字、职位、痛点\"，以及逼问\"本周就能收钱的MVP版本\" • 价值在于防自嗨：用结构化问答对抗创始人常见的认知盲区，降低早期试错成本  --"
 resource: "https://x.com/i/status/2034768378494390549"
@@ -22,13 +22,6 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "claude-code-ecosystem"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2034768378494390549"
-created: "2026-03-19"
-updated: "2026-06-26"
-sha256: "8af46b5e594f0ebce7fbb6bf451a75f838d72e0731dab7be50c56aa16edd920b"
-sources:
-  - "/sources/news/2026-03-20/00__gkxspace__yc方法论cli化-garry-tan把创业辅导塞进claude-code技能包.md"
 ---
 
 # YC方法论CLI化：Garry Tan把创业辅导塞进Claude Code技能包

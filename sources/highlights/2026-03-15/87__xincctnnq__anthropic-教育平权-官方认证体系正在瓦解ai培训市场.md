@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Anthropic「教育平权」：官方认证体系正在瓦解AI培训市场"
 description: "**[Claude官方推出13门免费课程+证书，MCP和Agent Skills开发首次进入系统化教学]**  • 内容覆盖：从Claude基础到API开发（8小时+）、MCP入门/进阶、Agent Skills开发、云部署（AWS/Google） • 特殊价值：Crypto分析师可直接通过MCP课程理解OKX/Binance AI Skills的底层连接逻辑 • 传播盲区：上线两周但缺乏官方宣传"
 resource: "https://x.com/i/status/2032813584250523781"
@@ -22,13 +22,6 @@ x_selected: 2
 x_priority: 87
 x_related_topic: "claude-code-ecosystem"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2032813584250523781"
-created: "2026-03-14"
-updated: "2026-06-26"
-sha256: "0fdfcff26e5b21decf457258569696c15b7a6d93d8cfe5debdb0e03d98578133"
-sources:
-  - "/sources/highlights/2026-03-15/87__xincctnnq__anthropic-教育平权-官方认证体系正在瓦解ai培训市场.md"
 ---
 
 # Anthropic「教育平权」：官方认证体系正在瓦解AI培训市场

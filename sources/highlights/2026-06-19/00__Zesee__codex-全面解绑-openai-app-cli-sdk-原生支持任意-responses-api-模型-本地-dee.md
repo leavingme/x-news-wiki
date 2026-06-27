@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Codex 全面解绑 OpenAI：App/CLI/SDK 原生支持任意 Responses API 模型，本地 DeepSeek 也能跑"
 description: "**Codex 不再是 OpenAI 模型的专属壳，工作流层彻底开放**  - Codex 负责人 Tibo 宣布：Codex App、CLI、SDK 全部支持 OpenAI Responses API 兼容模型，不只是 CLI 的 hack 配置 - 意味着 Codex 的 agent loop、tools、session 管理可叠加到任何开源/本地模型上（教程已用 Ollama + DeepS"
 resource: "https://x.com/i/status/2067878437616832644"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2067878437616832644"
-created: "2026-06-19"
-updated: "2026-06-26"
-sha256: "39e66e249c1df1bd39301c4a61a18910f25cafeeff48dbc37610038ec708950b"
-sources:
-  - "/sources/highlights/2026-06-19/00__Zesee__codex-全面解绑-openai-app-cli-sdk-原生支持任意-responses-api-模型-本地-dee.md"
 ---
 
 # Codex 全面解绑 OpenAI：App/CLI/SDK 原生支持任意 Responses API 模型，本地 DeepSeek 也能跑

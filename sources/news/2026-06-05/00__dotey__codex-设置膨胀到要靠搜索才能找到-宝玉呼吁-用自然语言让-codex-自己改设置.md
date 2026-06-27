@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Codex 设置膨胀到要靠搜索才能找到，宝玉呼吁\"用自然语言让 Codex 自己改设置\""
 description: "**[Codex 的设置复杂度正在突破 GUI 承载极限]** - 宝玉吐槽 Codex 设置项已多到需要靠搜索定位 - 提议：成熟 Agent 的正确交互应是 Chat 里一句\"Hey Codex，帮我改 XX 设置\" - 呼应信号：当产品配置超过 50 项，面板本身就该被 Agent 化   gakki 锐评：这条吐槽本质上是在给 Codex 提 PR——设置膨胀是所有 AI Coding 工"
 resource: "https://x.com/i/status/2062988578393628724"
@@ -22,13 +22,6 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "chat-ui-durability"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2062988578393628724"
-created: "2026-06-05"
-updated: "2026-06-26"
-sha256: "4565d49642b7a6820738f7c06636d1ab0f47eeb77c48dc01b801352ba67f652a"
-sources:
-  - "/sources/news/2026-06-05/00__dotey__codex-设置膨胀到要靠搜索才能找到-宝玉呼吁-用自然语言让-codex-自己改设置.md"
 ---
 
 # Codex 设置膨胀到要靠搜索才能找到，宝玉呼吁"用自然语言让 Codex 自己改设置"

@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "跨平台桌面端开发：Agent Skill 封装最佳实践首次被产品化"
 description: "**一篇关于跨平台桌面端开发的文章被直接封装为 Agent Skill，验证了 Skill 作为知识封装单元的可行性。**  核心价值：开发者只需在自己的 Coding Agent 中安装这个 Skill，即可调用\"最佳实践\"进行跨平台桌面应用开发——既接近 Native 性能，又保持跨平台能力。Electron/Tauri 选型、API 对齐、性能优化等Know-how 被固化为可复用的 Ski"
 resource: "https://x.com/i/status/2055010623910785535"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2055010623910785535"
-created: "2026-05-14"
-updated: "2026-06-26"
-sha256: "23288149c38d10054edab4b39229edb450ed215c09acec6b18a99321462f44c8"
-sources:
-  - "/sources/news/2026-05-14/00__yetone__跨平台桌面端开发-agent-skill-封装最佳实践首次被产品化.md"
 ---
 
 # 跨平台桌面端开发：Agent Skill 封装最佳实践首次被产品化

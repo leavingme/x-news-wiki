@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Anthropic 痴迷 TUI，OpenAI 闲庭信步磨 Codex——竞争态势一目了然"
 description: "**yestone 的观察：Anthropic 在 TUI 赛道深挖，OpenAI 在 Codex app 上打磨，两家路径正在分化。**  • Anthropic 的克制哲学体现在对 TUI 的持续投入，而非扩张到消费级应用。 • OpenAI 的 Codex 则在\"app化\"方向上快速迭代，应用层体验优先于底层交互范式。 • 这条观察的真正价值：它把两家公司的战略分化用一个对比就说清楚了。  "
 resource: "https://x.com/i/status/2060645467097362730"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2060645467097362730"
-created: "2026-05-30"
-updated: "2026-06-26"
-sha256: "de10c3a4db9ca3ca84c778afc6150da941acc102ae10d07422b8350cef6f4b02"
-sources:
-  - "/sources/news/2026-05-30/00__yetone__anthropic-痴迷-tui-openai-闲庭信步磨-codex-竞争态势一目了然.md"
 ---
 
 # Anthropic 痴迷 TUI，OpenAI 闲庭信步磨 Codex——竞争态势一目了然

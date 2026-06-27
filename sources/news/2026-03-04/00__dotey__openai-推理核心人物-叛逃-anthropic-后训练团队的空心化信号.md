@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "OpenAI 推理核心人物「叛逃」Anthropic：后训练团队的空心化信号"
 description: "**[o1/o3 后训练负责人 Max Schwarzer 离职，人才流动暴露组织问题]**  • Schwarzer 是 o1 早期参与者、主导 o1/o3 后训练、领导团队交付 GPT-5 系列——这是推理路线的「关键路径」人物 • 「想回归一线研究，不再做管理」的官方理由背后，可能暗示 OpenAI 研究文化向管理/交付倾斜的张力 • 感谢措辞体面但人才流失持续，Anthropic 正在系统"
 resource: "https://x.com/i/status/2028957497076142080"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2028957497076142080"
-created: "2026-03-03"
-updated: "2026-06-26"
-sha256: "9c26253c2ed25acb6c87c2e7541c2d8bd717efad838276bce1a554c3b3017128"
-sources:
-  - "/sources/news/2026-03-04/00__dotey__openai-推理核心人物-叛逃-anthropic-后训练团队的空心化信号.md"
 ---
 
 # OpenAI 推理核心人物「叛逃」Anthropic：后训练团队的空心化信号

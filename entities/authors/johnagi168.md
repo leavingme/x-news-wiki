@@ -1,23 +1,17 @@
 ---
-type: "entity"
+type: "Author"
 title: "John (@johnAGI168)"
 description: "X/Twitter 作者 @johnAGI168。共收录 1 条 AI 精选推文。"
 tags:
   - "x-news"
   - "author"
   - "author:johnAGI168"
-timestamp: "2026-06-26T11:53:37.000Z"
+timestamp: "2026-06-27T08:40:40.216Z"
 x_handle: "johnAGI168"
 x_author_name: "John"
 x_tweet_count: 1
 x_first_seen: "2026-06-24T22:27:32.972Z"
 x_last_seen: "2026-06-24T22:27:32.972Z"
-type_okf: "Author"
-created: "2026-06-24"
-updated: "2026-06-26"
-sha256: "d1f2be3fe2c0577586864013efcaef9dfe6f95243f2d92125a0bbc06fc8bd065"
-sources:
-  - "/sources/highlights/2026-06-24/00__johnAGI168__seedance-2-0-一家独大后-ai-视频模型集体-哑火-先发优势已转化为护城河.md"
 ---
 
 # John (@johnAGI168)

@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "个人 7 天逆向谷歌十亿美元算法的底层信号：AI Coding 工具正在重写创新方程"
 description: "**一个人 + Claude Code，7 天复现谷歌价值十亿美元算法，MacBook 上 35B 模型缓存压缩 4.6 倍——而谷歌代码尚未公布。**  前 3 天完成核心算法和 141 个测试及 Python 原型；3-5 天 C 语言移植到 llama.cpp 和 Metal GPU 内核；5-7 天从 739 tok/s 优化至 2747 tok/s。  这个案例的标志性意义：顶级研究壁垒"
 resource: "https://x.com/i/status/2038596687116304459"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2038596687116304459"
-created: "2026-03-30"
-updated: "2026-06-26"
-sha256: "66ffd95972613aa7f949f879b23f22820eb475ebe15c2bc8e4b1b0cdfe1bf23d"
-sources:
-  - "/sources/highlights/2026-03-30/00__lxfater__个人-7-天逆向谷歌十亿美元算法的底层信号-ai-coding-工具正在重写创新方程.md"
 ---
 
 # 个人 7 天逆向谷歌十亿美元算法的底层信号：AI Coding 工具正在重写创新方程

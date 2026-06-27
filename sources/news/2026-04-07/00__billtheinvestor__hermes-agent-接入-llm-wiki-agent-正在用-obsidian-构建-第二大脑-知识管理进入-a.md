@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Hermes Agent 接入 LLM-Wiki：Agent 正在用 Obsidian 构建「第二大脑」，知识管理进入 Agent 原生时代"
 description: "**[一句话核心判断]**  Hermes Agent + Karpathy LLM-Wiki + Obsidian 的组合，证明了知识管理工具正在被 Agent 接管——不是插件，是底层工作流的重新组织。  · **即时知识生成**：Agent 在研究网络、代码、论文的过程中自动生成知识库，无需人工整理——这才是知识管理的正确形态 · **自然语言查询**：/llm-wiki <research"
 resource: "https://x.com/i/status/2041442952443240878"
@@ -22,13 +22,6 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "agent-memory-optimization"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2041442952443240878"
-created: "2026-04-07"
-updated: "2026-06-26"
-sha256: "2f54b134bdff7797bcc021db8289235fd21e936781ec49e4fe59f54bf066560b"
-sources:
-  - "/sources/news/2026-04-07/00__billtheinvestor__hermes-agent-接入-llm-wiki-agent-正在用-obsidian-构建-第二大脑-知识管理进入-a.md"
 ---
 
 # Hermes Agent 接入 LLM-Wiki：Agent 正在用 Obsidian 构建「第二大脑」，知识管理进入 Agent 原生时代

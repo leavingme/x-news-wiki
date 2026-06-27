@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "边缘Agent性能优化进入持续迭代期：本地模型调用瓶颈获明确修复承诺"
 description: "**[本地模型调用性能问题进入官方优化队列]**  yetone 明确回应了 OpenClaw 社区关于本地模型调用导致性能下降的反馈，表示将持续优化。这是边缘 Agent 基础设施层面的技术债务清理信号。  - 本地模型调用性能问题被官方确认并列入优化计划 - 边缘推理优化正在从概念走向工程收敛 - 社区反馈通道畅通，优化周期可预期  gakki 本周关注 OpenClaw 的性能基线变化，若持"
 resource: "https://x.com/i/status/2058921898168442934"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2058921898168442934"
-created: "2026-05-25"
-updated: "2026-06-26"
-sha256: "e246fce4de2f63ee6b3bec54c22166062dc193d8ff951e00babd44245d92fa6d"
-sources:
-  - "/sources/news/2026-05-25/00__yetone__边缘agent性能优化进入持续迭代期-本地模型调用瓶颈获明确修复承诺.md"
 ---
 
 # 边缘Agent性能优化进入持续迭代期：本地模型调用瓶颈获明确修复承诺

@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Claude-to-im Skills 升级：飞书官方 Openclaw 插件能力全面接入"
 description: "**[Agent 与国民级 IM 的融合进入工程化落地阶段]** • 歸藏发布的 Claude-to-im Skills 更新，让 Claude 和 Codex 获得飞书官方 Openclaw 插件的全部能力 • 功能升级：流式卡片输出、工具调用进度可视化、权限审批按钮、项目快捷切换、Thinking 状态实时展示 • 体验优化：引导流程更加详细，自动提示需要补充的权限  **gakki 锐评**"
 resource: "https://x.com/i/status/2033202960843563484"
@@ -22,13 +22,6 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "enterprise-agent-product"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2033202960843563484"
-created: "2026-03-15"
-updated: "2026-06-26"
-sha256: "4bf77c5f69aeaa6ea681efbab7910fb2685e1b20fb2a99c929e78c7d14e300f9"
-sources:
-  - "/sources/highlights/2026-03-16/00__op7418__claude-to-im-skills-升级-飞书官方-openclaw-插件能力全面接入.md"
 ---
 
 # Claude-to-im Skills 升级：飞书官方 Openclaw 插件能力全面接入

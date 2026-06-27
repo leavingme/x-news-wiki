@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "歸藏站台Tabbit AI浏览器「妙招大赛」：AI浏览器赛道继续卷流量入口"
 description: "**AI浏览器从产品战升级为运营战，KOL站台+奖金激励已成新打法。**  - 歸藏担任 Tabbit AI 浏览器「妙招大赛」评委，冠军奖金 1 万，门槛低（提示词或脚本妙招均可） - 继 Claude Chrome、Gemini Desktop 之后，AI 浏览器进入「拉创作者+撒钱抢用户」阶段 - Tabbit 选择与中文 AI KOL 深度绑定，反映其定位仍是垂类工具而非通用入口   ga"
 resource: "https://x.com/i/status/2068919158486827425"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2068919158486827425"
-created: "2026-06-22"
-updated: "2026-06-26"
-sha256: "be9e249ffe74775d08bb46a85ad1226e663339a22c6cd70fe4ba313d3e134dda"
-sources:
-  - "/sources/news/2026-06-22/00__op7418__歸藏站台tabbit-ai浏览器-妙招大赛-ai浏览器赛道继续卷流量入口.md"
 ---
 
 # 歸藏站台Tabbit AI浏览器「妙招大赛」：AI浏览器赛道继续卷流量入口

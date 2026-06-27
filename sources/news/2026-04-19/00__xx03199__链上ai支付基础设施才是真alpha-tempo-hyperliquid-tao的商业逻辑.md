@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "链上AI支付基础设施才是真Alpha：Tempo/Hyperliquid/TAO的商业逻辑"
 description: "**[闷头做事的链上基础设施在下一轮周期比任何DeFi叙事都硬]**  全真教DD老师的判断：真正有壁垒的链上Alpha藏在不爱营销的项目里。三个代表性方向：  - **Tempo**：Gasless + MPP协议，为AI Agent打开自主支付通道 - **Hyperliquid**：HIP-3/HIP-4把所有金融资产搬上链，做成真正的链上金融巨兽 - **TAO**：子网竞争把去中心化AI"
 resource: "https://x.com/i/status/2038851780889673984"
@@ -22,13 +22,6 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "ai-agent-crypto-infra"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2038851780889673984"
-created: "2026-03-31"
-updated: "2026-06-26"
-sha256: "c2ffd529af91923de4aefe2c8f09145c7fe4ceeb2c1c6be4f07928a12250baa2"
-sources:
-  - "/sources/news/2026-04-19/00__xx03199__链上ai支付基础设施才是真alpha-tempo-hyperliquid-tao的商业逻辑.md"
 ---
 
 # 链上AI支付基础设施才是真Alpha：Tempo/Hyperliquid/TAO的商业逻辑

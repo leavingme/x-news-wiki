@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "yetone的「组织虚无主义」：AI不需要继承人类的协作糟粕"
 description: "**[Mission Control关闭宣言：层级制管理可能是人类给AI的负遗产]** - 观点对冲：直接回应玉伯的「团队管理类比」，认为将人类组织形式强加于AI是「污染」 - 隐含主张：Agent的协作应基于能力和任务匹配，而非汇报链和层级 - 延伸思考：当AI可以自主决策、自我纠错，「管理」本身是否正在失去语义？ - 信号价值：顶级开源贡献者对AI组织形态的哲学分歧，预示Agent生态将出现「"
 resource: "https://x.com/i/status/2031403121608638939"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 80
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2031403121608638939"
-created: "2026-03-10"
-updated: "2026-06-26"
-sha256: "a60977445f8b0f5573133bff7e0325b4a4193639385a5f244040720c189eea44"
-sources:
-  - "/sources/news/2026-03-11/80__yetone__yetone的-组织虚无主义-ai不需要继承人类的协作糟粕.md"
 ---
 
 # yetone的「组织虚无主义」：AI不需要继承人类的协作糟粕

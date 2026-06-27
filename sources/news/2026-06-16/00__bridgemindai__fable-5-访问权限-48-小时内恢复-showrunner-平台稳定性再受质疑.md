@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Fable 5 访问权限 48 小时内恢复，Showrunner 平台稳定性再受质疑"
 description: "**[一句话核心判断]** AI 影视/互动内容平台 Fable 宣布 Fable 5 权限将在 48 小时内恢复，账号封停事件再次暴露 UGC-AI 平台在用户资产与滥用防控之间的平衡难题。  **要点：** - BridgeMind（Fable 团队）公开承诺 48 小时窗口恢复权限 - 用户资产（生成的影视内容、订阅）中断影响创作者留存 - 与近期 OpenClaw / 各 Agent 平台"
 resource: "https://x.com/bridgemindai/status/2066844177447457009"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "ai-trend-digest"
-type_okf: "X Tweet"
-source_url: "https://x.com/bridgemindai/status/2066844177447457009"
-created: "2026-06-16"
-updated: "2026-06-26"
-sha256: "157d891ac7a85322e65b0ac74a7fdfdb2566d7c918a0d6a6e1090dc2dd04380e"
-sources:
-  - "/sources/news/2026-06-16/00__bridgemindai__fable-5-访问权限-48-小时内恢复-showrunner-平台稳定性再受质疑.md"
 ---
 
 # Fable 5 访问权限 48 小时内恢复，Showrunner 平台稳定性再受质疑

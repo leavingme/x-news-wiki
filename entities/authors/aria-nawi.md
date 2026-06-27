@@ -1,23 +1,17 @@
 ---
-type: "entity"
+type: "Author"
 title: "Nawi (@Aria_Nawi)"
 description: "X/Twitter 作者 @Aria_Nawi。共收录 1 条 AI 精选推文。"
 tags:
   - "x-news"
   - "author"
   - "author:Aria_Nawi"
-timestamp: "2026-06-26T11:53:36.990Z"
+timestamp: "2026-06-27T08:40:40.202Z"
 x_handle: "Aria_Nawi"
 x_author_name: "Nawi"
 x_tweet_count: 1
 x_first_seen: "2026-04-27T06:54:39.249Z"
 x_last_seen: "2026-04-27T06:54:39.249Z"
-type_okf: "Author"
-created: "2026-04-27"
-updated: "2026-06-26"
-sha256: "b2250825bce23adec3ae6a3c0dd984f147df3b92f3c18490e6ac7ef66ba88407"
-sources:
-  - "/sources/news/2026-04-27/00__Aria_Nawi__openclaw-13700-skills生态越过-数字陷阱-开源agent进入可用性质变拐点.md"
 ---
 
 # Nawi (@Aria_Nawi)

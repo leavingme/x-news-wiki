@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Peter Steinberger 的使命：通过“母亲测试”构建智能体"
 description: "**[核心逻辑]** 揭秘为何加入 OpenAI：旨在利用最前沿模型，将复杂的 Agent 技术简化为普通人（甚至其母亲）都能使用的产品。"
 resource: "https://x.com/i/status/2023164634539212931"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2023164634539212931"
-created: "2026-02-15"
-updated: "2026-06-26"
-sha256: "d7740af871906aeec40db3cd262d55c6ef133b8cfb04e3efdee1784813adcb33"
-sources:
-  - "/sources/highlights/2026-02-16/00__dotey__peter-steinberger-的使命-通过-母亲测试-构建智能体.md"
 ---
 
 # Peter Steinberger 的使命：通过“母亲测试”构建智能体

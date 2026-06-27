@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "BM25 + 向量混合检索：对话记忆升级的生产级方案"
 description: "**定时将对话流水账整理为结构化记忆，向量模型升级后实现语义化检索。**  - 可语义化找到任意时刻的对话记录，上下文恢复能力质变 - 小互本人已在 Claude Code 中落地验证  记忆从\"日志\"变成\"可检索资产\"，这是 Agent 具备连续性的基础设施。"
 resource: "https://x.com/i/status/2055299832844267898"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2055299832844267898"
-created: "2026-05-15"
-updated: "2026-06-26"
-sha256: "052a6d6d0ad5160eff333f8cf0b45b44bd4b6114af1bf81fd638421849f0a42b"
-sources:
-  - "/sources/news/2026-05-15/00__xiaohu__bm25-向量混合检索-对话记忆升级的生产级方案.md"
 ---
 
 # BM25 + 向量混合检索：对话记忆升级的生产级方案

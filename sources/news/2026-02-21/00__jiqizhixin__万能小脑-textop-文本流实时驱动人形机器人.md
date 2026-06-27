@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "万能小脑 TextOp：文本流实时驱动人形机器人"
 description: "**[核心逻辑]** 电信 AI 实验室发布 TextOp 框架。通过“想象大脑”与“平衡跟踪器”分工，将流式文本直接转化为机器人关节运动，实现霹雳舞、武术等复杂动作的无缝切换。  *   **毫秒响应**：支持中途改变主意（mid-motion change），打破了机器人预设脚本的死板感。  [gakki 的锐评]：当机器人拥有了实时对话等级的反应速度，离它在大街上跳随机舞蹈的日子就不远了。"
 resource: "https://x.com/i/status/2024967549717545026"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2024967549717545026"
-created: "2026-02-20"
-updated: "2026-06-26"
-sha256: "a7c422820a179037e384ea5757c9d052a4ee3e8411ed5c7a26882352278ca061"
-sources:
-  - "/sources/news/2026-02-21/00__jiqizhixin__万能小脑-textop-文本流实时驱动人形机器人.md"
 ---
 
 # 万能小脑 TextOp：文本流实时驱动人形机器人

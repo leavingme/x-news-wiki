@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Spatial-Agent：用空间科学理论替代网络搜索，地理推理Agent跑赢通用基线"
 description: "**[一句话核心判断]** 通用Agent在城市规划、灾害响应等真实地理任务上仍然力不从心，Emory/Rutgers/UT Austin联合团队提出Spatial-Agent，把空间科学理论（方向、距离、拓扑）作为推理骨架，而非依赖网络检索或模式匹配。  - 技术核心：将自然语言问题拆解为 GeoFlow Graph 工作流，以空间科学基本概念为推理节点 - 评测表现：在 MapEval-API"
 resource: "https://x.com/i/status/2063208780179902583"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2063208780179902583"
-created: "2026-06-06"
-updated: "2026-06-26"
-sha256: "6438a7f16ead416735cb4c01db7f09b1037d3f54974da40669d11d38009e8879"
-sources:
-  - "/sources/news/2026-06-06/00__jiqizhixin__spatial-agent-用空间科学理论替代网络搜索-地理推理agent跑赢通用基线.md"
 ---
 
 # Spatial-Agent：用空间科学理论替代网络搜索，地理推理Agent跑赢通用基线

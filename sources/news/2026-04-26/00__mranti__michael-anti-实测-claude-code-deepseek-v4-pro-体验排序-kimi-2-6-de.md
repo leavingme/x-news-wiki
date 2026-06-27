@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Michael Anti 实测：Claude Code + Deepseek V4 Pro 体验排序 Kimi 2.6 > Deepseek V4 Pro > Kimi 2.5"
 description: "**[Claude Code 兼容多模型已成现实，但 Deepseek V4 Pro 性价比存疑]**  - Michael Anti（Antino 创始人）实测反馈：Claude Code 接入 Deepseek V4 Pro 后手感排序为 Kimi 2.6 > Deepseek V4 Pro > Kimi 2.5，Deepseek V4 Pro 处于中间位置而非绝对领先。 - 这说明 Clau"
 resource: "https://x.com/i/status/2048459470150488181"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2048459470150488181"
-created: "2026-04-26"
-updated: "2026-06-26"
-sha256: "b0fc266ef4cb970e6aaec0bd9c0daf9b069e4bb2cdbb3232406e028e284d385a"
-sources:
-  - "/sources/news/2026-04-26/00__mranti__michael-anti-实测-claude-code-deepseek-v4-pro-体验排序-kimi-2-6-de.md"
 ---
 
 # Michael Anti 实测：Claude Code + Deepseek V4 Pro 体验排序 Kimi 2.6 > Deepseek V4 Pro > Kimi 2.5

@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "AI Native 圈已默认 HTML Slides：PPT 正在成为「落伍格式」的行业暗号"
 description: "**一线观察：AI Native 圈正在用脚投票抛弃 PPT。**  在十字路口开放麦现场，演讲者普遍采用 HTML Slides 做现场演示，而传统公司代表仍坚持 PPT。这一分化背后是 HTML 原生适配 AI 代码执行、实时渲染、无版本依赖的结构性优势。  - HTML Slides 意味着演讲内容可被 AI 直接执行、修改、版本化——这是 PPT 无法实现的 - 工具选择本身是一种身份宣示"
 resource: "https://x.com/i/status/2048412179117080872"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2048412179117080872"
-created: "2026-04-26"
-updated: "2026-06-26"
-sha256: "3607294524aec2c716d30bef7e45f90588e96862b41e91da3fa3ef91b6b3d25e"
-sources:
-  - "/sources/news/2026-04-26/00__oran_ge__ai-native-圈已默认-html-slides-ppt-正在成为-落伍格式-的行业暗号.md"
 ---
 
 # AI Native 圈已默认 HTML Slides：PPT 正在成为「落伍格式」的行业暗号

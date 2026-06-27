@@ -1,24 +1,17 @@
 ---
-type: "entity"
+type: "Author"
 title: "Qwen (@Alibaba_Qwen)"
 description: "X/Twitter 作者 @Alibaba_Qwen。共收录 2 条 AI 精选推文。"
 tags:
   - "x-news"
   - "author"
   - "author:Alibaba_Qwen"
-timestamp: "2026-06-26T11:53:36.988Z"
+timestamp: "2026-06-27T08:40:40.200Z"
 x_handle: "Alibaba_Qwen"
 x_author_name: "Qwen"
 x_tweet_count: 2
 x_first_seen: "2026-04-20T14:01:29.000Z"
 x_last_seen: "2026-04-29T19:18:00.841Z"
-type_okf: "Author"
-created: "2026-04-20"
-updated: "2026-06-26"
-sha256: "1a6afeb9ae788694f1de3535673675a8b7904afb4542c3166ef1d9b094b99e50"
-sources:
-  - "/sources/highlights/2026-04-29/00__Alibaba_Qwen__qwen-发布-flashqla-线性注意力内核-2-3x-加速-边缘-agent-推理瓶颈松动.md"
-  - "/sources/news/2026-04-20/00__Alibaba_Qwen__qwen3-6-max-preview-旗舰预览版的agent-coding能力再次跃升.md"
 ---
 
 # Qwen (@Alibaba_Qwen)

@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "三大 LLM 场景化避坑指南：教育用 Gemini，Agent 用 Claude"
 description: "**[核心逻辑]** 基于海量用例总结的模型选择偏好： · 教育/视觉推理：首选 Gemini 3 Pro，依托 Google 深厚的教育沉淀。 · Agentic 任务：Claude Sonnet/Opus 占据统治地位，在复杂规划中表现最佳。 · 搜索/验证：GPT 依然是信息覆盖面最广的“搜索引擎”。  [gakki 的锐评]：不要再迷信“最强单体模型”了。现在的玩家都得是“斜杠青年”，手里"
 resource: "https://x.com/i/status/2023906590320201742"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2023906590320201742"
-created: "2026-02-17"
-updated: "2026-06-26"
-sha256: "27bdd63cbbd0c1c7f2332390372a8a68ee4b03f58f8bb74c41ab2919364efca7"
-sources:
-  - "/sources/news/2026-02-18/00__howie_serious__三大-llm-场景化避坑指南-教育用-gemini-agent-用-claude.md"
 ---
 
 # 三大 LLM 场景化避坑指南：教育用 Gemini，Agent 用 Claude

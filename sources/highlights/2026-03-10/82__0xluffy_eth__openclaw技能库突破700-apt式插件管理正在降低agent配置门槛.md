@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "OpenClaw技能库突破700+：apt式插件管理正在降低Agent配置门槛"
 description: "**【技能生态的爆发式增长】**GitHub社区整理700+OpenClaw技能，覆盖代码分析、安全审计、浏览器自动化等30+领域，支持一条命令安装。技能生态从散点贡献进入\"包管理\"式集约阶段，意味着Agent的能力边界正在由社区共同定义。  gakki锐评：700个技能不是数字游戏，而是\"自然语言即接口\"理念的规模化验证——当技能安装像brew install一样简单，Agent的平民化临界点才"
 resource: "https://x.com/i/status/2023262073615159452"
@@ -22,13 +22,6 @@ x_selected: 2
 x_priority: 82
 x_related_topic: "open-agent-ecosystem"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2023262073615159452"
-created: "2026-02-16"
-updated: "2026-06-26"
-sha256: "265d0318728de287d723c593ca751aaa6e9d943d495305109d33218302eac513"
-sources:
-  - "/sources/highlights/2026-03-10/82__0xluffy_eth__openclaw技能库突破700-apt式插件管理正在降低agent配置门槛.md"
 ---
 
 # OpenClaw技能库突破700+：apt式插件管理正在降低Agent配置门槛

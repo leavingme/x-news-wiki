@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Codex 对话复盘提示词：从执行日志中提炼偏好档案与行为准则"
 description: "**[Skill 自生长的操作手册：系统性复盘对话并写入行为准则文档]**  向阳乔木给出了具体可操作的提示词框架，核心要求 Codex 完成三项任务：  1. 从对话记录中提炼「执行经验」——记录导致问题的做法、正确做法及教训 2. 归纳「个人偏好与理念」——UI 设计偏好、产品理念、交互原则，形成风格档案 3. 整理为「可复用规则清单」——可直接遵循的行为准则  完成后保存为独立文件，在 .a"
 resource: "https://x.com/i/status/2059473425857720768"
@@ -22,13 +22,6 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "skills-ecosystem-standards"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2059473425857720768"
-created: "2026-05-27"
-updated: "2026-06-26"
-sha256: "56e4e03fbab0f47859fa5b43843366e3d5caf3431d385007a97b8c8fadd3f264"
-sources:
-  - "/sources/news/2026-05-27/00__vista8__codex-对话复盘提示词-从执行日志中提炼偏好档案与行为准则.md"
 ---
 
 # Codex 对话复盘提示词：从执行日志中提炼偏好档案与行为准则

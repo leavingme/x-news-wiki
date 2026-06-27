@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "NVIDIA×清华×Vector推出Gamma-World：多智能体世界模型首次把跨体交互成本从N²压成线性"
 description: "**多智能体世界建模的算力瓶颈被撕开一道口子。**  核心创新两点： - Simplex编码：把每个Agent当作独特相位处理，告别固定顺序依赖 - Sparse Hub Attention：跨Agent计算从O(N²)降到线性，100个Agent的世界不再是算力禁区  效果：在视频质量上同时击败slot-based和dense-attention方案。  价值：这不是又一个World Model"
 resource: "https://x.com/i/status/2065240668339949952"
@@ -22,13 +22,6 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "multi-agent-simulation-infrastructure"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2065240668339949952"
-created: "2026-06-12"
-updated: "2026-06-26"
-sha256: "d6ce9823523722696dadee95711e3d29791eff55d10c3fde55783d3b4ba1fcbb"
-sources:
-  - "/sources/highlights/2026-06-12/00__jiqizhixin__nvidia-清华-vector推出gamma-world-多智能体世界模型首次把跨体交互成本从n-压成线性.md"
 ---
 
 # NVIDIA×清华×Vector推出Gamma-World：多智能体世界模型首次把跨体交互成本从N²压成线性

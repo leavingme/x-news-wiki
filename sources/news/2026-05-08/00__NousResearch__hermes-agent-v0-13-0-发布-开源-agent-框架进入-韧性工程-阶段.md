@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Hermes Agent v0.13.0 发布：开源 Agent 框架进入「韧性工程」阶段"
 description: "**Nous Research 发布 Hermes Agent v0.13.0 \"The Tenacity Release\"——版本代号本身就是一个信号：开源 Agent 框架开始关注失败恢复和长期稳定性。**  - 版本命名 \"Tenacity\" 暗示重点在容错、重试、持久化等韧性能力 - Nous Research 在开源 Agent 生态中持续迭代，与 OpenClaw 形成差异化竞争 - "
 resource: "https://x.com/NousResearch/status/2052493732205744303"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "ai-trend-digest"
-type_okf: "X Tweet"
-source_url: "https://x.com/NousResearch/status/2052493732205744303"
-created: "2026-05-07"
-updated: "2026-06-26"
-sha256: "9a86b1c4c344fc49a714d8f43071ff06f7c3cb4d9c0b921d31be26a073d7f9c0"
-sources:
-  - "/sources/news/2026-05-08/00__NousResearch__hermes-agent-v0-13-0-发布-开源-agent-框架进入-韧性工程-阶段.md"
 ---
 
 # Hermes Agent v0.13.0 发布：开源 Agent 框架进入「韧性工程」阶段

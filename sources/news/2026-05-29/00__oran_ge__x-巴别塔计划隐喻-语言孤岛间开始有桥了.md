@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "X 巴别塔计划隐喻：语言孤岛间开始有桥了"
 description: "**[互联网从来不是互联互通的——信息在语言岛之间兜兜转转出不去，X 正在改变这个结构]**  中文圈的信息过去很难出海，英文圈也看不见中文世界。X 的 Babel 计划正在让跨语言信息流动变得简单，语言孤岛之间开始出现真实的桥梁——居民跨岛串门不再是难事。  gakki：信息茧房被打破是好事也是风险。巴别塔的隐喻本身就带着警示——当年人类建塔被上帝变乱语言，现在 AI 建桥，谁来制定通行规则？"
 resource: "https://x.com/i/status/2060361411617010000"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2060361411617010000"
-created: "2026-05-29"
-updated: "2026-06-26"
-sha256: "0491cd17121db51184c86a2398dd49db399a7f65893ad2c9f8502ea8d379a825"
-sources:
-  - "/sources/news/2026-05-29/00__oran_ge__x-巴别塔计划隐喻-语言孤岛间开始有桥了.md"
 ---
 
 # X 巴别塔计划隐喻：语言孤岛间开始有桥了

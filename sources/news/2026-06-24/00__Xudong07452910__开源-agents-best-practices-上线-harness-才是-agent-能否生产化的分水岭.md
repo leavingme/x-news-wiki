@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "开源《Agents Best Practices》上线：Harness 才是 Agent 能否生产化的分水岭"
 description: "**一份 provider-neutral 的 Agent Harness 设计指南正式开源，把「模型只提动作、Harness 负责验证执行」写成了工程规范。**  - 覆盖 Agentic Loop、窄型工具 + 权限检查、规划模式、上下文管理、记忆压缩、Skills/连接器、提示缓存、可观测性、评估体系 - 配套 MVP Agent 蓝图生成 + 现有 Harness 审计清单，开箱即用 - "
 resource: "https://x.com/i/status/2061243832742912233"
@@ -22,13 +22,6 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "harness-engineering"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2061243832742912233"
-created: "2026-06-01"
-updated: "2026-06-26"
-sha256: "47b352109484b45581581fb4d2759f23335cd5c6ffb6df1ecdc3f57b28edc5c2"
-sources:
-  - "/sources/news/2026-06-24/00__Xudong07452910__开源-agents-best-practices-上线-harness-才是-agent-能否生产化的分水岭.md"
 ---
 
 # 开源《Agents Best Practices》上线：Harness 才是 Agent 能否生产化的分水岭

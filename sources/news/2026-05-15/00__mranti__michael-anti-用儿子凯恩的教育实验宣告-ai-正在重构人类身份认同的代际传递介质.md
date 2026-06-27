@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Michael Anti 用儿子凯恩的教育实验宣告：AI 正在重构人类身份认同的代际传递介质"
 description: "**AI 降低跨文化沟通成本的叙事正在从抽象概念变为家庭教育实践。**  - 核心观点：跨国家庭孩子不学相关语言是「放弃老天爷的馈赠」——AI 消解了语言壁垒，让多语言成为纯增量而非负担 - 凯恩的教育配方：英语+法语+AI，而非传统的「父语+在地语」——语言学习的优先级正在被 AI 重排 - 隐藏命题：仇恨是传统人类协作失败的产物，AI 降低沟通成本后，代际传递的「恨」是否也会随之衰减？  这个"
 resource: "https://x.com/i/status/2055114734035427361"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2055114734035427361"
-created: "2026-05-15"
-updated: "2026-06-26"
-sha256: "100b7802aee55a52fdd304f73c11d95dd66f79aa0c34ecb8560749adcd353e52"
-sources:
-  - "/sources/news/2026-05-15/00__mranti__michael-anti-用儿子凯恩的教育实验宣告-ai-正在重构人类身份认同的代际传递介质.md"
 ---
 
 # Michael Anti 用儿子凯恩的教育实验宣告：AI 正在重构人类身份认同的代际传递介质

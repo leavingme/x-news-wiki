@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "RecallNet破解AI代理「信任黑盒」：动态链上竞赛能否替代静态基准测试？"
 description: "**[静态基准测试正在失效，链上动态实境竞赛是新的验证方向]  传统MMLU、GSM8K等基准的核心缺陷：静态、可过拟合、无法反映真实任务表现。一个在标准测试卷高分的AI，未必能写好客户邮件或执行实盘交易。  RecallNet的解法：构建持续更新的动态任务环境 + 区块链记录竞赛结果。AI代理面对的是不断变化的真实挑战，链上不可篡改的成绩单解决了委托方的信任问题——你可以审计每个代理的实际战绩，"
 resource: "https://x.com/i/status/1971375208654319845"
@@ -22,13 +22,6 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "agent-trading-agent-survival-rate"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/1971375208654319845"
-created: "2025-09-26"
-updated: "2026-06-26"
-sha256: "b2863cd989f9d815b77d3722ed53039f218a5207fb50e1d4ba1648acb4964901"
-sources:
-  - "/sources/news/2026-04-14/00__AwbczBTC__recallnet破解ai代理-信任黑盒-动态链上竞赛能否替代静态基准测试.md"
 ---
 
 # RecallNet破解AI代理「信任黑盒」：动态链上竞赛能否替代静态基准测试？

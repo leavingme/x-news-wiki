@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "顶级AI团队已拥无限Token：资源差距正在制造不可逾越的能力鸿沟"
 description: "**[顶级团队与普通开发者的Token配额差距已到量级层面]**  宝玉明确指出：顶级团队拥有无限量Token，而普通开发者完全跟不上。这不是技术能力的差距，而是基础设施资源的不平等。Token配额直接影响模型调用的深度、Context窗口的利用效率，以及调试迭代的速度。  当Claude Code 1M上下文的调用成本对头部团队是小事，对独立开发者却是奢侈时，AI编码工具的实际受益者正在高度集中"
 resource: "https://x.com/i/status/2058946612328645069"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2058946612328645069"
-created: "2026-05-25"
-updated: "2026-06-26"
-sha256: "c31d25182fe0f43423b2f3d8da8102910b0a985d201fbe03d80d7297ad0727d0"
-sources:
-  - "/sources/news/2026-05-25/00__dotey__顶级ai团队已拥无限token-资源差距正在制造不可逾越的能力鸿沟.md"
 ---
 
 # 顶级AI团队已拥无限Token：资源差距正在制造不可逾越的能力鸿沟

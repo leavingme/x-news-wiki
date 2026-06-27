@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Optimus 执行器占 BOM 成本 56%：具身智能的真正战场在供应链而非算法"
 description: "**核心判断：具身智能的成本瓶颈不是 AI，而是精密机械。**  - Elon Musk 透露 Optimus 机器人执行器占物料成本 56%，远超芯片和软件 - Citrini 团队一年前的供应链深度研报重新获得关注，覆盖上市公司中涉及机器人供应链的标的 - 通用人形机器人量产仍需时日，但供应链上游的利润窗口已经打开  锐评：56% 这个数字是写给投资者的——它说的是「谁的钱先到」，不是「谁的技"
 resource: "https://x.com/citrini/status/2051071460794351999"
@@ -22,13 +22,6 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "embodied-ai-supply-chain"
 x_source: "ai-trend-digest"
-type_okf: "X Tweet"
-source_url: "https://x.com/citrini/status/2051071460794351999"
-created: "2026-05-03"
-updated: "2026-06-26"
-sha256: "96fe1f383d9591d549aeb626c457138503f0ecb07d6d8e1ab2b64fc7356075c7"
-sources:
-  - "/sources/highlights/2026-05-04/00__citrini__optimus-执行器占-bom-成本-56-具身智能的真正战场在供应链而非算法.md"
 ---
 
 # Optimus 执行器占 BOM 成本 56%：具身智能的真正战场在供应链而非算法

@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "AI优化稿子的「三步反馈法」：从读者视角到编辑执行"
 description: "**结构化Prompt思维在内容优化场景的应用范例。** • 第一步：AI扮演目标读者/听众给出反馈 • 第二步：AI扮演专业编辑给出具体修改意见 • 第三步：基于意见修改 + 人工审校把关  --- **Gakki锐评**：这是一个可复用的「角色分离」方法论。单一AI会话中切换不同角色视角，比让AI一次性完成所有任务效果更好——Agent任务编排的微观实践。"
 resource: "https://x.com/i/status/2032102107797389817"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 78
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2032102107797389817"
-created: "2026-03-12"
-updated: "2026-06-26"
-sha256: "6c3139fcde5ed9810af8d4cf89199ef2a38e7db05bb4400c9bd58a8b16717e34"
-sources:
-  - "/sources/news/2026-03-13/78__dotey__ai优化稿子的-三步反馈法-从读者视角到编辑执行.md"
 ---
 
 # AI优化稿子的「三步反馈法」：从读者视角到编辑执行

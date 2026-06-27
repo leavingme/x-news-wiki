@@ -1,25 +1,17 @@
 ---
-type: "entity"
+type: "Author"
 title: "高级分析师 (@techeconomyana)"
 description: "X/Twitter 作者 @techeconomyana。共收录 3 条 AI 精选推文。"
 tags:
   - "x-news"
   - "author"
   - "author:techeconomyana"
-timestamp: "2026-06-26T11:53:36.960Z"
+timestamp: "2026-06-27T08:40:40.167Z"
 x_handle: "techeconomyana"
 x_author_name: "高级分析师"
 x_tweet_count: 3
 x_first_seen: "2026-03-15T00:42:34.780Z"
 x_last_seen: "2026-03-19T12:43:08.804Z"
-type_okf: "Author"
-created: "2026-03-15"
-updated: "2026-06-26"
-sha256: "6fe4aedeed5e32867222a23e86a403be0d7da7befdfb90de9615be7e181a33f9"
-sources:
-  - "/sources/highlights/2026-03-15/78__techeconomyana__openclaw泔水论-国产大模型原创力丧失的残酷注脚.md"
-  - "/sources/news/2026-03-17/00__techeconomyana__openai-的战略盲区-chatbot-天花板论-vs-claude-的持续进化红利.md"
-  - "/sources/news/2026-03-19/00__techeconomyana__gpt-5-4-不说人话-灾难-openai正在输掉可用性战争.md"
 ---
 
 # 高级分析师 (@techeconomyana)

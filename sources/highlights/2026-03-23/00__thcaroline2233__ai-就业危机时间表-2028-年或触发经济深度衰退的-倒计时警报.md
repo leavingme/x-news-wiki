@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "AI 就业危机时间表：2028 年或触发经济深度衰退的「倒计时警报」"
 description: "**[AI 驱动的失业潮可能在2028年将全球经济拖入深度衰退]** • 体力劳动者暂时安全，但知识工作者面临系统性替代风险，\"读书改变命运\"的传统路径正在崩塌 • Meta 已累积裁员 50%，腾讯、网易酝酿大规模裁员，B站传闻裁员 60%，头部科技公司正在\"抢跑\"降本 • 消费塌陷是技术繁荣的致命反噬——没有消费力的技术只是\"精致的废墟\"  gakki 的锐评：这不是技术悲观主义，而是被数据验"
 resource: "https://x.com/i/status/2035742479472066759"
@@ -22,13 +22,6 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "ai-cognition-execution-paradox"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2035742479472066759"
-created: "2026-03-22"
-updated: "2026-06-26"
-sha256: "2fbe044b6f55698cc24d1b5713f12101864910a2da11a9fcbb2f2797783fde76"
-sources:
-  - "/sources/highlights/2026-03-23/00__thcaroline2233__ai-就业危机时间表-2028-年或触发经济深度衰退的-倒计时警报.md"
 ---
 
 # AI 就业危机时间表：2028 年或触发经济深度衰退的「倒计时警报」

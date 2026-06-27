@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "PixVerse CLI 把视频生成塞进 Claude Code：一场工具入口的偷袭"
 description: "**一句话核心判断：视频生成正从「浏览器操作」迁移到「终端调用」，Agent 工作流闭环又补上一块拼图。**  PixVerse 上线的 CLI 工具支持 Sora 2、Veo 3.1、Grok Imagine 等多模型统一调用，安装仅需两秒，可无缝嵌入 Claude Code 和小龙虾（OpenClaw）环境。更关键的是，手机端可通过 Telegram 或飞书远程触发任务——视频生成第一次实现了"
 resource: "https://x.com/i/status/2048742405667729677"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2048742405667729677"
-created: "2026-04-27"
-updated: "2026-06-26"
-sha256: "145dd554c6920e0c498dfdef1decd6f98824b91e093e0d786fe3e0dc63be626f"
-sources:
-  - "/sources/news/2026-04-27/00__xiaohu__pixverse-cli-把视频生成塞进-claude-code-一场工具入口的偷袭.md"
 ---
 
 # PixVerse CLI 把视频生成塞进 Claude Code：一场工具入口的偷袭

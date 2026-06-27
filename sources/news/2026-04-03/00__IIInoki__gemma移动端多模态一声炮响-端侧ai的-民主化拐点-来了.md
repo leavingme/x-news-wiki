@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Gemma移动端多模态一声炮响：端侧AI的「民主化拐点」来了"
 description: "**[2.3B/4.5B参数撬动多模态：这不是缩小，是重新定义边界]**  Gemma全系列原生多模态（语音转录翻译、视频理解）+ 移动端部署预期，意味着：  • 端侧设备第一次具备「看、听、读」的综合感知 • 隐私敏感的AI应用有了本地化的技术基础 • 31B Dense vs 26B MoE的选型建议——有条件上Dense  这不是模型缩小，是能力边界的重新划定。当多模态不再需要云端，算力垄断"
 resource: "https://x.com/i/status/2039757998579486958"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2039757998579486958"
-created: "2026-04-02"
-updated: "2026-06-26"
-sha256: "e832c08d88c3310d781c23ccbf1cbc092d264a9ff621ee411e37163d82261a94"
-sources:
-  - "/sources/news/2026-04-03/00__IIInoki__gemma移动端多模态一声炮响-端侧ai的-民主化拐点-来了.md"
 ---
 
 # Gemma移动端多模态一声炮响：端侧AI的「民主化拐点」来了

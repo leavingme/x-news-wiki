@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "宝玉三Agent Plan模式实操：好设计比好模型更重要"
 description: "**[一句话核心判断]** 三Agent并行Plan→选设计→借鉴其他版本→相位执行，这套工作流本质是\"设计即代码\"而非\"代码即代码\"。  **信息增量：** 1. 复杂任务应先让 Codex/Claude Code/Cursor 并行写 Plan，用最好的模型 2. 选设计不选答案——满意则直接执行，不满意则把其他版本设计发给它借鉴 3. 复杂Plan应分Phases，每个phase明确验证方法"
 resource: "https://x.com/i/status/2059773942500298934"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2059773942500298934"
-created: "2026-05-27"
-updated: "2026-06-26"
-sha256: "897a4d6c7693a6339fcb1d15d89f84410560594772b9e1465ae6af67e63e98a5"
-sources:
-  - "/sources/news/2026-05-28/00__dotey__宝玉三agent-plan模式实操-好设计比好模型更重要.md"
 ---
 
 # 宝玉三Agent Plan模式实操：好设计比好模型更重要

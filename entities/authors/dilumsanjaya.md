@@ -1,23 +1,17 @@
 ---
-type: "entity"
+type: "Author"
 title: "Dilum Sanjaya (@DilumSanjaya)"
 description: "X/Twitter 作者 @DilumSanjaya。共收录 1 条 AI 精选推文。"
 tags:
   - "x-news"
   - "author"
   - "author:DilumSanjaya"
-timestamp: "2026-06-26T11:53:36.998Z"
+timestamp: "2026-06-27T08:40:40.213Z"
 x_handle: "DilumSanjaya"
 x_author_name: "Dilum Sanjaya"
 x_tweet_count: 1
 x_first_seen: "2026-05-10T04:17:44.047Z"
 x_last_seen: "2026-05-10T04:17:44.047Z"
-type_okf: "Author"
-created: "2026-05-10"
-updated: "2026-06-26"
-sha256: "35ecbc9ef125bf784085a3b16b3ce3cbce5c83ab7049fc90fd04312714f2cc72"
-sources:
-  - "/sources/news/2026-05-10/00__DilumSanjaya__gpt-images-2生成3d生物结构-gemini编码-多模态工具链的-组合式创作-新范式.md"
 ---
 
 # Dilum Sanjaya (@DilumSanjaya)

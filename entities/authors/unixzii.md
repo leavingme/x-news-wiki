@@ -1,23 +1,17 @@
 ---
-type: "entity"
+type: "Author"
 title: "Cyandev (@unixzii)"
 description: "X/Twitter 作者 @unixzii。共收录 1 条 AI 精选推文。"
 tags:
   - "x-news"
   - "author"
   - "author:unixzii"
-timestamp: "2026-06-26T11:53:36.969Z"
+timestamp: "2026-06-27T08:40:40.186Z"
 x_handle: "unixzii"
 x_author_name: "Cyandev"
 x_tweet_count: 1
 x_first_seen: "2026-04-01T05:14:52.194Z"
 x_last_seen: "2026-04-01T05:14:52.194Z"
-type_okf: "Author"
-created: "2026-04-01"
-updated: "2026-06-26"
-sha256: "92b9db401d94d568fb27267591d6628a58f4f929f3fad2b95bef2902b627df5a"
-sources:
-  - "/sources/news/2026-04-01/00__unixzii__claude-code-代码债-曝光-51万行面条代码背后的ai编程范式危机.md"
 ---
 
 # Cyandev (@unixzii)

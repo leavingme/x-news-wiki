@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Avgo拿下Anthropic 3.5GW算力大单：TPU供应商悄然成为AI权力游戏的核心玩家"
 description: "**[一句话核心判断]**  Broadcom（Avgo）与Google、Anthropic同时达成战略协议——为Google开发下一代TPU，同时从2027年起为Anthropic提供约3.5GW计算能力。Avgo悄然从芯片配角跃升为AI算力游戏的规则制定者。  **关键要点：** - Avgo将为Google开发「未来几代TPU」，供应协议延续至2031年 - Anthropic的下一代TPU"
 resource: "https://x.com/i/status/2041272158626971828"
@@ -22,13 +22,6 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "geopolitics-and-compute"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2041272158626971828"
-created: "2026-04-06"
-updated: "2026-06-26"
-sha256: "4ceb8bad420baf7dd2459119b1788a75c8ce499984e118573e21d63706a25ffb"
-sources:
-  - "/sources/highlights/2026-04-07/00__BlueJay87476298__avgo拿下anthropic-3-5gw算力大单-tpu供应商悄然成为ai权力游戏的核心玩家.md"
 ---
 
 # Avgo拿下Anthropic 3.5GW算力大单：TPU供应商悄然成为AI权力游戏的核心玩家

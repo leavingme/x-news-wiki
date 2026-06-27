@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "歸藏补刀 Cursor 收购：几十人撑 600 亿估值+自研编码模型，Grok 有戏了"
 description: "歸藏补充 Cursor 收购的隐藏信息点：  Cursor 团队规模仅几十人，对应 600 亿美元估值人效极猛。  Cursor 不仅是 IDE 产品，还基于开源模型自训了编码模型——这是 xAI 选择直接收购而非 100 亿合作的根因。  预测新版 Grok（融合 Cursor 模型）值得期待。  Gakki 锐评：Cursor 不卖 IDE 卖的是'会写代码的模型权重'——这才是 SpaceX"
 resource: "https://x.com/i/status/2066921764735832162"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2066921764735832162"
-created: "2026-06-16"
-updated: "2026-06-26"
-sha256: "dcac35a9bba0645d0f8c5081a1ae5d475c65fa6ece12d72ddee62aacd6458b1b"
-sources:
-  - "/sources/news/2026-06-16/00__op7418__歸藏补刀-cursor-收购-几十人撑-600-亿估值-自研编码模型-grok-有戏了.md"
 ---
 
 # 歸藏补刀 Cursor 收购：几十人撑 600 亿估值+自研编码模型，Grok 有戏了

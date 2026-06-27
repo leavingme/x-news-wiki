@@ -1,23 +1,17 @@
 ---
-type: "entity"
+type: "Author"
 title: "YeFan 叶凡 | 🐬TermMax (@yaoyaogm)"
 description: "X/Twitter 作者 @yaoyaogm。共收录 1 条 AI 精选推文。"
 tags:
   - "x-news"
   - "author"
   - "author:yaoyaogm"
-timestamp: "2026-06-26T11:53:36.986Z"
+timestamp: "2026-06-27T08:40:40.197Z"
 x_handle: "yaoyaogm"
 x_author_name: "YeFan 叶凡 | 🐬TermMax"
 x_tweet_count: 1
 x_first_seen: "2026-04-15T00:44:45.490Z"
 x_last_seen: "2026-04-15T00:44:45.490Z"
-type_okf: "Author"
-created: "2026-04-15"
-updated: "2026-06-26"
-sha256: "2dfdab8b15b18517a68bba134ad599afc82717397a30f4975d742f798d99130c"
-sources:
-  - "/sources/news/2026-04-15/00__yaoyaogm__375ai-irys-揭示具身-ai-数据哲学-边缘处理后-仅-30mb-天纯文本值得永久链存.md"
 ---
 
 # YeFan 叶凡 | 🐬TermMax (@yaoyaogm)

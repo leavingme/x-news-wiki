@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Anthropic断路倒逼生态进化：低效harness将被市场出清"
 description: "**[一句话核心判断]**  Anthropic切断第三方Agent接入，本质上是一场针对「harness工程质量」的市场淘汰赛。  - 罗福莉的核心论点：多数Token浪费来自设计低劣的harness而非模型本身，OpenClaw是典型反面教材——高频上下文调用拉低cache hit rate，暴殄天物。 - 约束反推工程纪律：context management、prompt caching、"
 resource: "https://x.com/i/status/2040844920475287733"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2040844920475287733"
-created: "2026-04-05"
-updated: "2026-06-26"
-sha256: "e102c37c79c5e385cecd503ad97a9197c0646aeec0241b1417539a708e7bce21"
-sources:
-  - "/sources/highlights/2026-04-06/00__Michaelzsguo__anthropic断路倒逼生态进化-低效harness将被市场出清.md"
 ---
 
 # Anthropic断路倒逼生态进化：低效harness将被市场出清

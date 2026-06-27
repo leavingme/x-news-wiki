@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "CLI-Anything：任意软件秒变Agent工具的零配置流水线"
 description: "**[通用CLI接口终结脆弱UI自动化]** • 一行命令将GIMP/Blender/LibreOffice等传统软件转化为JSON可控的Agent工具 • 7阶段全自动流水线，零配置即插即用 • 3天斩获3.5k+ Star，GitHub Trending霸榜验证需求  gakki 锐评：「甩链接」哲学的终极形态——不改造软件，只封装接口。Agent工具链的可组合性依赖这种低摩擦集成。"
 resource: "https://x.com/i/status/2031981900282413077"
@@ -22,13 +22,6 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "agent-lego-composable-toolchain"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2031981900282413077"
-created: "2026-03-12"
-updated: "2026-06-26"
-sha256: "7afc80127f63ae89c1a757abf54660555b5c2fa30348f8b7968e1a3e98554661"
-sources:
-  - "/sources/highlights/2026-03-28/00__DiannRudy87765__cli-anything-任意软件秒变agent工具的零配置流水线.md"
 ---
 
 # CLI-Anything：任意软件秒变Agent工具的零配置流水线

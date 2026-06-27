@@ -1,23 +1,17 @@
 ---
-type: "entity"
+type: "Author"
 title: "Algod (@AlgodTrading)"
 description: "X/Twitter 作者 @AlgodTrading。共收录 1 条 AI 精选推文。"
 tags:
   - "x-news"
   - "author"
   - "author:AlgodTrading"
-timestamp: "2026-06-26T11:53:36.958Z"
+timestamp: "2026-06-27T08:40:40.166Z"
 x_handle: "AlgodTrading"
 x_author_name: "Algod"
 x_tweet_count: 1
 x_first_seen: "2026-03-13T12:42:48.394Z"
 x_last_seen: "2026-03-13T12:42:48.394Z"
-type_okf: "Author"
-created: "2026-03-13"
-updated: "2026-06-26"
-sha256: "117677ceffc21d1b4da93f801d5355541d2d12fcc57b1125db325dd2cb18eea8"
-sources:
-  - "/sources/highlights/2026-03-13/75__AlgodTrading__传统ai与加密ai的价值断层-顶级公司全面押注-vs-加密赛道严重低估.md"
 ---
 
 # Algod (@AlgodTrading)

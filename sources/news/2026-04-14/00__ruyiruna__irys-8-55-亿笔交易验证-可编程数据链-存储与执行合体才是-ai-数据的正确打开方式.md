@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Irys 8.55 亿笔交易验证\"可编程数据链\"：存储与执行合体才是 AI 数据的正确打开方式"
 description: "**从 Arweave 数据协议到独立 Layer1，Irys 找到了\"让数据自己动起来\"的正确姿势。**  Irys 前身是帮 Arweave 上传数据的 Bundlr Network，现在进化成\"可编程数据链\"（Programmable Datachain）——把存储和执行绑定，让数据不只是静态存放，而是能携带访问规则、触发逻辑、驱动 AI 行为。  - 截至今年 10 月：8.55 亿笔交易"
 resource: "https://x.com/i/status/1975094088904114211"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/1975094088904114211"
-created: "2025-10-06"
-updated: "2026-06-26"
-sha256: "9db75449ff9cb1f190e595f810604da00d5ada0a798271f941c6e5d292e0292e"
-sources:
-  - "/sources/news/2026-04-14/00__ruyiruna__irys-8-55-亿笔交易验证-可编程数据链-存储与执行合体才是-ai-数据的正确打开方式.md"
 ---
 
 # Irys 8.55 亿笔交易验证"可编程数据链"：存储与执行合体才是 AI 数据的正确打开方式

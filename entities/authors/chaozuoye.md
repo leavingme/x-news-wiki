@@ -1,23 +1,17 @@
 ---
-type: "entity"
+type: "Author"
 title: "作业借你抄 (@chaozuoye)"
 description: "X/Twitter 作者 @chaozuoye。共收录 1 条 AI 精选推文。"
 tags:
   - "x-news"
   - "author"
   - "author:chaozuoye"
-timestamp: "2026-06-26T11:53:36.987Z"
+timestamp: "2026-06-27T08:40:40.198Z"
 x_handle: "chaozuoye"
 x_author_name: "作业借你抄"
 x_tweet_count: 1
 x_first_seen: "2026-04-16T00:43:36.930Z"
 x_last_seen: "2026-04-16T00:43:36.930Z"
-type_okf: "Author"
-created: "2026-04-16"
-updated: "2026-06-26"
-sha256: "50fc520ecfca5d71a247c99585050a9dfd8e0be9a73165ed84f9aaaf0b679345"
-sources:
-  - "/sources/news/2026-04-16/00__chaozuoye__anthropic-kyc-真相-指控-deepseek-等三家机构用-24000-虚假账号批量扒走-claude-能力.md"
 ---
 
 # 作业借你抄 (@chaozuoye)

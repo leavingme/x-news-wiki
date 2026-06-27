@@ -1,23 +1,17 @@
 ---
-type: "entity"
+type: "Author"
 title: "王局拍案 (@wangjupaian)"
 description: "X/Twitter 作者 @wangjupaian。共收录 1 条 AI 精选推文。"
 tags:
   - "x-news"
   - "author"
   - "author:wangjupaian"
-timestamp: "2026-06-26T11:53:36.987Z"
+timestamp: "2026-06-27T08:40:40.199Z"
 x_handle: "wangjupaian"
 x_author_name: "王局拍案"
 x_tweet_count: 1
 x_first_seen: "2026-04-18T12:44:58.333Z"
 x_last_seen: "2026-04-18T12:44:58.333Z"
-type_okf: "Author"
-created: "2026-04-18"
-updated: "2026-06-26"
-sha256: "30b223a36413fa86435aa7d352235b9b25960059bb4610be11748139dd9c75c0"
-sources:
-  - "/sources/highlights/2026-04-18/00__wangjupaian__张雪峰数字分身3天2-3k-stars-个人ai技能包正在颠覆-知识永生-的定义.md"
 ---
 
 # 王局拍案 (@wangjupaian)

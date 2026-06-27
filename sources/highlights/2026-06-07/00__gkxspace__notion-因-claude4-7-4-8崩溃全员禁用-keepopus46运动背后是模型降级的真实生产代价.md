@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Notion 因 Claude4.7/4.8崩溃全员禁用：#KeepOpus46运动背后是模型降级的真实生产代价"
 description: "**Notion 因 Claude4.7/4.8稳定性问题，直接禁用全部 Claude 模型并切到别家,而他们2 月还在说 \"4.6 is the strongest model\"。**  - 生产环境的真实回退：头部 SaaS 把 Claude 全系下架,这是模型降级争议从社区吐槽升级为商业决策的标志性事件 - 用户体感分裂：余温明确表示4.6 在审美和写作上优于4.7/4.8/4.5链条,新版"
 resource: "https://x.com/i/status/2063630043255898290"
@@ -22,13 +22,6 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "ai-shrinkflation-opus-degradation"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2063630043255898290"
-created: "2026-06-07"
-updated: "2026-06-26"
-sha256: "a2e9c2f934816f023a2ff25da0ab254b1f7518eeca556531cf40e871002fc463"
-sources:
-  - "/sources/highlights/2026-06-07/00__gkxspace__notion-因-claude4-7-4-8崩溃全员禁用-keepopus46运动背后是模型降级的真实生产代价.md"
 ---
 
 # Notion 因 Claude4.7/4.8崩溃全员禁用：#KeepOpus46运动背后是模型降级的真实生产代价

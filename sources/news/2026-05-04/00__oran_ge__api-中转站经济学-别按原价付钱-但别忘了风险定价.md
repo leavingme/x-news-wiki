@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "API 中转站经济学：别按原价付钱，但别忘了风险定价"
 description: "**AI API 的灰色中间层正在成为开发者默认选择，但「便宜」的背后是风险转嫁。**  - Orange AI 一句话点破行业潜规则：中转站（API 代理/中转服务）的使用已经是普遍现象 - 与「算力 Airbnb」和「API 额度共享」等 subtopic 形成语义共振——开发者群体正在自发构建去中心化的算力分发网络 - 「别按原价付钱」反映的是当前 AI API 定价体系与开发者支付意愿之间"
 resource: "https://x.com/i/status/2051300959587123493"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2051300959587123493"
-created: "2026-05-04"
-updated: "2026-06-26"
-sha256: "5bdbd0ec6c78ebad19d6267d6b854ec53f8b434062a7b6d3ccc6b44cdfeaa19e"
-sources:
-  - "/sources/news/2026-05-04/00__oran_ge__api-中转站经济学-别按原价付钱-但别忘了风险定价.md"
 ---
 
 # API 中转站经济学：别按原价付钱，但别忘了风险定价

@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "WorkBuddy 撕开\"非开发者用 AI Agent 干活\"的万亿级市场"
 description: "**腾讯 WorkBuddy 用 3 个月证明：Agent 的最大金矿不在开发者，而在被第一/二代办公产品长期忽略的非技术岗位。**  要点： - 3 月至今日活数据\"日活第二名 3-4 倍\"（卡兹克现场观察，具体数字未披露） - 用户结构：HR/运营/行政等非技术岗大量涌入，并在真实业务流中交付 - 腾讯云黑客松场景覆盖金融/餐饮/外贸/法律——传统行业首次成为 Agent 主战场  锐评：卡兹"
 resource: "https://x.com/i/status/2066895528982655317"
@@ -22,13 +22,6 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "enterprise-agent-product"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2066895528982655317"
-created: "2026-06-16"
-updated: "2026-06-26"
-sha256: "e0206ee63cf6698186bc3663775611c35f4103b5970de2085fd7af0eb3b0760e"
-sources:
-  - "/sources/highlights/2026-06-16/00__Khazix0918__workbuddy-撕开-非开发者用-ai-agent-干活-的万亿级市场.md"
 ---
 
 # WorkBuddy 撕开"非开发者用 AI Agent 干活"的万亿级市场

@@ -1,23 +1,17 @@
 ---
-type: "entity"
+type: "Author"
 title: "契丹斯基.哈布斯堡 (@chariots96)"
 description: "X/Twitter 作者 @chariots96。共收录 1 条 AI 精选推文。"
 tags:
   - "x-news"
   - "author"
   - "author:chariots96"
-timestamp: "2026-06-26T11:53:36.944Z"
+timestamp: "2026-06-27T08:40:40.152Z"
 x_handle: "chariots96"
 x_author_name: "契丹斯基.哈布斯堡"
 x_tweet_count: 1
 x_first_seen: "2026-02-21T01:00:40.637Z"
 x_last_seen: "2026-02-21T01:00:40.637Z"
-type_okf: "Author"
-created: "2026-02-21"
-updated: "2026-06-26"
-sha256: "8b9720f310b86645f617559e833c32eba5b3ffa2ccf3ef7ccc52cafc8343299e"
-sources:
-  - "/sources/news/2026-02-21/00__chariots96__讽刺之刃-用-vibe-coding-编织的-14-亿-agent-荒诞剧.md"
 ---
 
 # 契丹斯基.哈布斯堡 (@chariots96)

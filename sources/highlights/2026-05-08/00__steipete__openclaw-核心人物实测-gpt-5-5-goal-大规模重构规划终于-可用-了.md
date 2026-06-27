@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "OpenClaw 核心人物实测 GPT 5.5 + /goal：大规模重构规划终于「可用」了"
 description: "**GPT 5.5 的规划能力正在跨越「能用」到「好用」的临界点。** - Peter Steinberger（OpenClaw 生态核心开发者）实测 GPT 5.5 配合 /goal 命令，可以规划大规模重构并附带端到端测试，且「just works」 - 信号意义：OpenClaw 生态的头部开发者正在从 Claude 向 GPT 5.5 迁移规划类工作负载，模型竞争格局正在松动 - /goa"
 resource: "https://x.com/steipete/status/2052514752245481675"
@@ -22,13 +22,6 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "claude-code-ecosystem"
 x_source: "ai-trend-digest"
-type_okf: "X Tweet"
-source_url: "https://x.com/steipete/status/2052514752245481675"
-created: "2026-05-07"
-updated: "2026-06-26"
-sha256: "1ac525abc88009dd73102deca391842ee9115aa9c3af14347a3d529a6b7c7d69"
-sources:
-  - "/sources/highlights/2026-05-08/00__steipete__openclaw-核心人物实测-gpt-5-5-goal-大规模重构规划终于-可用-了.md"
 ---
 
 # OpenClaw 核心人物实测 GPT 5.5 + /goal：大规模重构规划终于「可用」了

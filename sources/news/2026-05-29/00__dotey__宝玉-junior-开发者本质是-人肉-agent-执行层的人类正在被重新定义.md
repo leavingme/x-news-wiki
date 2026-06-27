@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "宝玉：Junior 开发者本质是「人肉 Agent」，执行层的人类正在被重新定义"
 description: "**一句话核心判断** 宝玉将 Junior 开发者类比为「人肉 Agent」——执行上级决策、自身缺乏完整判断权——这一定义直指当前 AI 替代讨论的核心盲区：不是取代创意层，而是先取代执行层。  **要点** - 执行权与决策权的分离是 AI 替代的关键门槛，Junior 的「听话执行」模式最脆弱 - AI Coding 工具正在将这一层自动化，Junior 面临的是结构性价值归零，而非效率提"
 resource: "https://x.com/i/status/2060452026958356601"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2060452026958356601"
-created: "2026-05-29"
-updated: "2026-06-26"
-sha256: "c6c9fa58fc255813029e56e7cc58b39d9a1d495e3a87d923d8fd7a5b60fd0984"
-sources:
-  - "/sources/news/2026-05-29/00__dotey__宝玉-junior-开发者本质是-人肉-agent-执行层的人类正在被重新定义.md"
 ---
 
 # 宝玉：Junior 开发者本质是「人肉 Agent」，执行层的人类正在被重新定义

@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Claude Code /usage 升级：Token 消费透明化是 Agent 经济的第一步"
 description: "**一句话核心判断** Claude Code 升级 /usage 命令让 Token 消费可见，是 Agent 工具从「黑箱消费」走向「成本可控」的关键产品节点。  **信息增量** - 开发者终于能追踪每个会话的 Token 流向，而非月底账单来了才「惊喜」 - 结合 Claude API 涨价背景，Token 可视化是用户做成本决策的基础设施 - 这功能本质是把「Agent 经济」的可计量性"
 resource: "https://x.com/i/status/2057494913164382306"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2057494913164382306"
-created: "2026-05-21"
-updated: "2026-06-26"
-sha256: "1ccc82a89c5e361f9fd928b888124388e3c3b6631a880f67b4cc62d6721d1a84"
-sources:
-  - "/sources/news/2026-05-21/00__dotey__claude-code-usage-升级-token-消费透明化是-agent-经济的第一步.md"
 ---
 
 # Claude Code /usage 升级：Token 消费透明化是 Agent 经济的第一步

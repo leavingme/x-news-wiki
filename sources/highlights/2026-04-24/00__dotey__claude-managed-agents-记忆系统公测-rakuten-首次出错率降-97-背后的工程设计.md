@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Claude Managed Agents 记忆系统公测：Rakuten 首次出错率降 97% 背后的工程设计"
 description: "**[Anthropic 为托管 Agent 上线文件型记忆系统，公测阶段开放]**  该记忆系统的核心设计思路是「实用主义」：以文件系统而非向量数据库存储记忆，Agent 可直接用 bash/代码操作读写，开发者可导出、回滚、设共享权限与审计日志。实测数据：Rakuten 团队通过记住历史错误将首次出错率降低 97%；Wisedocs 跨会话文档验证提速 30%；Netflix 智能体可将人工纠"
 resource: "https://x.com/i/status/2047428669325590816"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2047428669325590816"
-created: "2026-04-23"
-updated: "2026-06-26"
-sha256: "bfcec72475c58706e64079053e9db90515ec2b7cfac0f2a950708be3d313f6a9"
-sources:
-  - "/sources/highlights/2026-04-24/00__dotey__claude-managed-agents-记忆系统公测-rakuten-首次出错率降-97-背后的工程设计.md"
 ---
 
 # Claude Managed Agents 记忆系统公测：Rakuten 首次出错率降 97% 背后的工程设计

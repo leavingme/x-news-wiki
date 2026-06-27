@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "宝玉实测：Claude Code 和 Codex 的 Fast Mode 速度优势不明显，Token 消耗却是灾难"
 description: "**一句话核心判断：Fast Mode 的速度溢价远低于 Token 成本溢价，理性使用 Fast Mode 的门槛很高。**  - 宝玉的结论：几乎不用 fast mode，速度快得没那么明显，但 token 消耗太快用不起 - 工程含义：Fast Mode 在大多数场景下的边际收益不足以覆盖其边际成本  **gakki 锐评：** 这个判断来自高频用户的第一手体感，含金量高。\"快得没那么明显\""
 resource: "https://x.com/i/status/2056460668480389338"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2056460668480389338"
-created: "2026-05-18"
-updated: "2026-06-26"
-sha256: "12180ee226d789997177e0e1a4bb5e6ce04fad79836e5a2d319b7325c54e9218"
-sources:
-  - "/sources/news/2026-05-18/00__dotey__宝玉实测-claude-code-和-codex-的-fast-mode-速度优势不明显-token-消耗却是灾难.md"
 ---
 
 # 宝玉实测：Claude Code 和 Codex 的 Fast Mode 速度优势不明显，Token 消耗却是灾难

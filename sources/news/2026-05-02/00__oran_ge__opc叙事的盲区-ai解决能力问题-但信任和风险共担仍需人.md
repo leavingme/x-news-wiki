@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "OPC叙事的盲区：AI解决能力问题，但信任和风险共担仍需人"
 description: "**AI可以让人变成一个军队，但无法替代「共担风险」的人际契约。**  - 科斯定理的推论是交易成本归零后公司消亡，OPC（One Person Company）叙事建立在此之上 - 但橙AI指出核心盲区：合同工不会与你共担风险，他被高价者得到，关键时刻会消失 - 雇佣的本质是买确定性——\"他随时在，了解上下文，不会跑\"，这是一种古老的风险共担机制  gakki锐评：这条洞察直击「AI原生公司」叙"
 resource: "https://x.com/i/status/2050509143375512014"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2050509143375512014"
-created: "2026-05-02"
-updated: "2026-06-26"
-sha256: "b9865af1c2be1aa21a0e4849e3cbc6b8bdc01ed9c8297a4eeb299b19defa6a4d"
-sources:
-  - "/sources/news/2026-05-02/00__oran_ge__opc叙事的盲区-ai解决能力问题-但信任和风险共担仍需人.md"
 ---
 
 # OPC叙事的盲区：AI解决能力问题，但信任和风险共担仍需人

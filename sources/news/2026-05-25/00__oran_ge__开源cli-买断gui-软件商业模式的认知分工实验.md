@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "开源CLI+买断GUI：软件商业模式的认知分工实验"
 description: "**[开源工具的「各取所需」定价哲学，正在侵蚀传统订阅制的合理性]**  一条关于Mole（清理工具）的商业模型观察：CLI层免费开源，GUI层一次性买断。这种模式让技术用户保有自由度和可定制性，同时为不愿折腾的大众用户提供付费门槛较低的封装产品。  这不是新模式（GitHub很多项目如此），但在AI时代更具参照意义：当AI降低了CLI的使用门槛，「免费开源+封装付费」的商业逻辑正在从开发者工具扩"
 resource: "https://x.com/i/status/2058681760574247163"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2058681760574247163"
-created: "2026-05-24"
-updated: "2026-06-26"
-sha256: "e69085eb5c9bb05163de59aa5fb93ee13771bf65d1629e7452dfb2d91b3a1c53"
-sources:
-  - "/sources/news/2026-05-25/00__oran_ge__开源cli-买断gui-软件商业模式的认知分工实验.md"
 ---
 
 # 开源CLI+买断GUI：软件商业模式的认知分工实验

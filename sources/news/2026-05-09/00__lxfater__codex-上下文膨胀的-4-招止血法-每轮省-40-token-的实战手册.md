@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Codex 上下文膨胀的 4 招止血法：每轮省 40% Token 的实战手册"
 description: "**Codex 跑久了变笨不是幻觉，是上下文被垃圾撑爆——解法是架构层面的优化而非提示词微调。**  - 关掉 Process_narration：默认输出的规划步骤全是无效 token，关掉直接止损 - Codex 当协调者而非苦力：并行开 5 个 sub-agent，每个有独立上下文窗口，主上下文只留干净协调任务 - 强制先列 task list 再动手，防止调试过程污染上下文 - 禁止留临时"
 resource: "https://x.com/i/status/2053146640694005862"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2053146640694005862"
-created: "2026-05-09"
-updated: "2026-06-26"
-sha256: "0e5b2f494e94e03c7e75a7c02dbc9b1952a0193e3304c89f7b5313a7da8e383c"
-sources:
-  - "/sources/news/2026-05-09/00__lxfater__codex-上下文膨胀的-4-招止血法-每轮省-40-token-的实战手册.md"
 ---
 
 # Codex 上下文膨胀的 4 招止血法：每轮省 40% Token 的实战手册

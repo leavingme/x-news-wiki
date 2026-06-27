@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "产品决策从「我感觉」到「我知道」：社区消息分析正在重塑数据驱动方法论"
 description: "**【一句话核心判断】**  产品决策正在经历从主观直觉到可验证数据的范式迁移——不是「dashboard 更精美了」，而是「数据源变了」。  **信息增量：** - 传统产品分析依赖聚合数据（仪表盘、问卷），存在信号滞后与噪声干扰 - 社区原始消息分析能捕获用户真实语言、情绪波动和需求苗头 - 从「我相信」到「我验证」的核心转变，依赖 AI 对非结构化对话的大规模语义提取能力  **影响范围：*"
 resource: "https://x.com/i/status/2056748537564828109"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2056748537564828109"
-created: "2026-05-19"
-updated: "2026-06-26"
-sha256: "b5c9673ace057f4f2a4bfa244a487f4c94e0b76ad6099344afe6bbdf286695a4"
-sources:
-  - "/sources/news/2026-05-19/00__Zesee__产品决策从-我感觉-到-我知道-社区消息分析正在重塑数据驱动方法论.md"
 ---
 
 # 产品决策从「我感觉」到「我知道」：社区消息分析正在重塑数据驱动方法论

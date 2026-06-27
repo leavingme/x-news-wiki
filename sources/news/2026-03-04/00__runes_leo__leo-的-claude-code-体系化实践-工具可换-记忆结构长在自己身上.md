@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Leo 的 Claude Code 体系化实践：工具可换，记忆结构长在自己身上"
 description: "**[从「用工具」到「长体系」：AI 助手的真正护城河是自我管理的记忆架构]**  • Claude Code 在质量、成本、安全性上仍是最优解，OpenClaw 的差异化价值在于「身份结构化」 • 借鉴 OpenClaw 分文件思路：rules/ 管行为、memory/ 管项目、skills/ 管复用——三个月自然长成个人体系 • 关键洞察：AI 工具竞争进入同质化，「如何组织与 AI 的协作记"
 resource: "https://x.com/i/status/2028688567078109464"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2028688567078109464"
-created: "2026-03-03"
-updated: "2026-06-26"
-sha256: "dfbd51a3aaba62f1dfb972e33a9da205667f8c1088d59a59c4e8ed76ce0451d9"
-sources:
-  - "/sources/news/2026-03-04/00__runes_leo__leo-的-claude-code-体系化实践-工具可换-记忆结构长在自己身上.md"
 ---
 
 # Leo 的 Claude Code 体系化实践：工具可换，记忆结构长在自己身上

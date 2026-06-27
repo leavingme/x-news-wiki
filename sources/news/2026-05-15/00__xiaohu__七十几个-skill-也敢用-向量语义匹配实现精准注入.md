@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "七十几个 skill 也敢用：向量语义匹配实现精准注入"
 description: "**本地小模型根据语义只注入匹配度最高的 skill description，避免每轮七十几个 skill 全部注入带来的成本爆炸。**  - BM25 + 向量混合检索已是成熟范式，效果获实际验证 - 节省上下文开销同时保持匹配精准度  skill 资产越多，维护成本越高——这个方案让 skill 生态的规模化成为可能。"
 resource: "https://x.com/i/status/2055299826305339529"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2055299826305339529"
-created: "2026-05-15"
-updated: "2026-06-26"
-sha256: "435843f047bb3af8c628f995bee18274dfe4521e51d62dd479dafef44b6f979d"
-sources:
-  - "/sources/news/2026-05-15/00__xiaohu__七十几个-skill-也敢用-向量语义匹配实现精准注入.md"
 ---
 
 # 七十几个 skill 也敢用：向量语义匹配实现精准注入

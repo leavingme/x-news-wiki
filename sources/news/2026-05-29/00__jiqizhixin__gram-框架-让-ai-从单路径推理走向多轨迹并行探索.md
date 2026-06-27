@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "GRAM 框架：让 AI 从单路径推理走向多轨迹并行探索"
 description: "**[从「一条路走到黑」到「同时走出 N 条路」]**  KAIST、Mila、NYU、Université de Montréal 研究者推出 GRAM 框架，将递归推理转化为概率性多轨迹计算。AI 不再只生成一条解决路径，而是并行采样生成并权衡多个假设。  在结构化推理和多解约束任务上超越确定性递归模型，并支持无条件生成。  **gakki锐评：** 这不只是推理效率优化，而是范式转移——当 "
 resource: "https://x.com/i/status/2060293331239002397"
@@ -22,13 +22,6 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "reasoning-and-model-architecture"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2060293331239002397"
-created: "2026-05-29"
-updated: "2026-06-26"
-sha256: "aec748dc4d6c5a5b2ef29dc68cb349c5107a1a007d36328b175d90dcc8230685"
-sources:
-  - "/sources/news/2026-05-29/00__jiqizhixin__gram-框架-让-ai-从单路径推理走向多轨迹并行探索.md"
 ---
 
 # GRAM 框架：让 AI 从单路径推理走向多轨迹并行探索

@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "百度 Unlimited OCR 破解长文档 KV 缓存困局：让模型'眼睛只盯最近 128 个 token'，算力成本不随页数爆炸"
 description: "百度 Unlimited OCR 用'滑动窗口 + 全局参考 token'架构，把长文档 OCR 从'逐页切分推理'变成'一口气读完'，KV 缓存容量恒定，计算成本不再随页数线性增长。  要点： - 传统 OCR：每页单独推理一次，模型记忆清空，KV 缓存随输出线性增长，长文档内存吃不消 - 百度方案：每个 token 生成时都看完整图像视觉 token + 提示词（全局参考），但只回看前 128"
 resource: "https://x.com/i/status/2069211653460066393"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2069211653460066393"
-created: "2026-06-23"
-updated: "2026-06-26"
-sha256: "adcef7a6cb039bacc8d2bb224659ef226da2878c85cb8b863c7c26e35679bb7c"
-sources:
-  - "/sources/highlights/2026-06-23/00__vista8__百度-unlimited-ocr-破解长文档-kv-缓存困局-让模型-眼睛只盯最近-128-个-token-算力成本不随.md"
 ---
 
 # 百度 Unlimited OCR 破解长文档 KV 缓存困局：让模型'眼睛只盯最近 128 个 token'，算力成本不随页数爆炸

@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "微信再拒 Markdown，平台傲慢在 AI 时代被显性化为产品负债"
 description: "**微信长期不原生支持 Markdown，在 AI Agent 时代成为体验瓶颈。** - 宝玉吐槽：微信在 AI 时代不支持 Markdown 还觉得理所应当 - 微信路径：凡好标准不愿支持，凡自定标准没一个好的 - 当 Agent 输出、企业知识、研报等内容大量依赖 Markdown 渲染时，封闭策略代价显性化 - 与 Notion、飞书等原生 Markdown 工具的对比差距被进一步拉大  "
 resource: "https://x.com/i/status/2068702092689043732"
@@ -22,13 +22,6 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "markdown-ai-native-format"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2068702092689043732"
-created: "2026-06-21"
-updated: "2026-06-26"
-sha256: "3a3633891cbca24e7c640f1dc9f0ced8a0ad13719847c9c96eb4b2cf6ed62ba5"
-sources:
-  - "/sources/news/2026-06-21/00__dotey__微信再拒-markdown-平台傲慢在-ai-时代被显性化为产品负债.md"
 ---
 
 # 微信再拒 Markdown，平台傲慢在 AI 时代被显性化为产品负债

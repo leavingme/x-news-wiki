@@ -1,33 +1,17 @@
 ---
-type: "entity"
+type: "Author"
 title: "陈成 (@chenchengpro)"
 description: "X/Twitter 作者 @chenchengpro。共收录 11 条 AI 精选推文。"
 tags:
   - "x-news"
   - "author"
   - "author:chenchengpro"
-timestamp: "2026-06-26T11:53:36.955Z"
+timestamp: "2026-06-27T08:40:40.163Z"
 x_handle: "chenchengpro"
 x_author_name: "陈成"
 x_tweet_count: 11
 x_first_seen: "2026-03-08T01:01:49.652Z"
 x_last_seen: "2026-04-13T00:45:08.173Z"
-type_okf: "Author"
-created: "2026-03-08"
-updated: "2026-06-26"
-sha256: "5fe6dd368c4fddd5212f8c9137b60284a53c968fdb59b6b839f2909635a8fc50"
-sources:
-  - "/sources/highlights/2026-03-08/85__chenchengpro__claude-code的-loop命令揭秘-ai帮你写cron-ai帮你跑cron的架构设计.md"
-  - "/sources/highlights/2026-03-17/00__chenchengpro__rtk-claude-code-的-token刺客-成本削减95-的rust代理.md"
-  - "/sources/highlights/2026-03-24/00__chenchengpro__claude-code-语音编程范式-plan-md-并行会话正在杀死传统-ide.md"
-  - "/sources/highlights/2026-04-02/00__chenchengpro__matt-pocock-开源-5-个-agent-skill-揭示真正差距-会-prompt-的人很多-能把经验系统化的.md"
-  - "/sources/highlights/2026-04-03/00__chenchengpro__skills-设计的反直觉-核心价值是-不写.md"
-  - "/sources/highlights/2026-04-08/00__chenchengpro__chrome工程负责人用19个强制工作流对抗ai-跳步-本能-工程纪律正在被编码成可执行规范.md"
-  - "/sources/highlights/2026-04-10/00__chenchengpro__claude-code-源码泄露-anthropic-自己把-4756-个源文件打包进了-npm-发布物.md"
-  - "/sources/highlights/2026-04-13/00__chenchengpro__同一模型-同一benchmark-换个harness从42-暴涨到78-ai工程的真正变量浮出水面.md"
-  - "/sources/news/2026-03-18/00__chenchengpro__ai编码的8层进化论-为什么你还在level-2打转.md"
-  - "/sources/news/2026-03-23/00__chenchengpro__claude-code智能体工程六定律-从prompt-caching到文件系统复利.md"
-  - "/sources/news/2026-03-30/00__chenchengpro__smux-用tmux作为ai代理间消息总线-轻量级多agent协作的新思路.md"
 ---
 
 # 陈成 (@chenchengpro)

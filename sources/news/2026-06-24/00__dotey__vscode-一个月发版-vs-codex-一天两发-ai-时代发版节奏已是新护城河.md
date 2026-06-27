@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "VSCode 一个月发版 vs Codex 一天两发：AI 时代发版节奏已是新护城河"
 description: "**宝玉指出 VSCode 一个月发一个版本，Codex 一天发 2-3 个版本，且 VSCode 本身也开始卡顿。**  - 传统 IDE 的季度/月度节奏在 Agent 时代已显疲态，迭代速度本身成为产品竞争力 - 暗含一个判断：AI Coding 工具的竞争已从「功能完备」转向「高频试错 + 用户共创」 - VSCode 卡顿现象侧面印证 Electron 架构在 AI 增强场景下的承载瓶颈"
 resource: "https://x.com/i/status/2069614291582357904"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2069614291582357904"
-created: "2026-06-24"
-updated: "2026-06-26"
-sha256: "65d6d871292eaefc49035e44211801c2057737dcdc44d9c4f4afa8af4b0139dc"
-sources:
-  - "/sources/news/2026-06-24/00__dotey__vscode-一个月发版-vs-codex-一天两发-ai-时代发版节奏已是新护城河.md"
 ---
 
 # VSCode 一个月发版 vs Codex 一天两发：AI 时代发版节奏已是新护城河

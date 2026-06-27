@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "同一模型、同一任务、两种结果：Hermes 与 OpenClaw 的安全路由差异暴露 Agent 对齐的真实分野"
 description: "**用同一个 DeepSeek V4 Pro 跑相同任务，OpenClaw 出活快，Hermes 却报「非法查询错误」——对齐策略的差异正在成为 Agent 可用性的隐形变量。**  - Michael Anti 实测发现：让模型选成人小说时，DeepSeek V4 Pro 本身没有敏感内容过滤问题，但 Hermes 的安全层主动拦截了请求 - 这不是模型能力问题，是 Agent 框架层的安全路由"
 resource: "https://x.com/i/status/2051144990731215251"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2051144990731215251"
-created: "2026-05-04"
-updated: "2026-06-26"
-sha256: "c94f77b4be4a94b398929e4680c4336a4a11376ba4ea34c1c06eac82b491b3dd"
-sources:
-  - "/sources/news/2026-05-04/00__mranti__同一模型-同一任务-两种结果-hermes-与-openclaw-的安全路由差异暴露-agent-对齐的真实分野.md"
 ---
 
 # 同一模型、同一任务、两种结果：Hermes 与 OpenClaw 的安全路由差异暴露 Agent 对齐的真实分野

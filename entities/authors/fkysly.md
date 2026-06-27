@@ -1,25 +1,17 @@
 ---
-type: "entity"
+type: "Author"
 title: "马天翼 (@fkysly)"
 description: "X/Twitter 作者 @fkysly。共收录 3 条 AI 精选推文。"
 tags:
   - "x-news"
   - "author"
   - "author:fkysly"
-timestamp: "2026-06-26T11:53:36.951Z"
+timestamp: "2026-06-27T08:40:40.159Z"
 x_handle: "fkysly"
 x_author_name: "马天翼"
 x_tweet_count: 3
 x_first_seen: "2026-03-03T01:07:04.882Z"
 x_last_seen: "2026-03-31T03:49:29.470Z"
-type_okf: "Author"
-created: "2026-03-03"
-updated: "2026-06-26"
-sha256: "0e4bba5904b543df8aa34bf96c0ea825f011079fe7a73ebc7328c912cd0e465c"
-sources:
-  - "/sources/highlights/2026-03-03/00__fkysly__claude-code工具链实战-spec-kit-browser-use-claude-mem三件套约束vibe-co.md"
-  - "/sources/highlights/2026-03-31/00__fkysly__openai-codex-官方适配-claude-code-竞合关系的新范式.md"
-  - "/sources/news/2026-03-22/00__fkysly__codex的-黑话困境-当过度思考成为vibe-coding的敌人.md"
 ---
 
 # 马天翼 (@fkysly)

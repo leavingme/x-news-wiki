@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "GPT-5.5攻守易位： Opus 4.7的任务遵从性优势正在被整体能力差距吞噬"
 description: "**[Claude的『听话』不再值钱，因为GPT-5.5在其他维度拉开了代差]**  用户实测：Opus 4.7任务遵从性好，但GPT-5.5其他方面全面超越。更关键的是，GPT-5.5低价易得、不封号。Anthropic赖以护城河的『安全对齐=任务遵从』策略，正在被OpenAI以『整体能力碾压+易用性』的方式绕过去。对开发者而言，『听话』是基本要求而不是溢价理由——当GPT-5.5既更强又更便宜"
 resource: "https://x.com/i/status/2048971387872620715"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2048971387872620715"
-created: "2026-04-28"
-updated: "2026-06-26"
-sha256: "b665240c4e1d536376915a1e61c1f78da82e7434e22216f08cebb821984aa9bc"
-sources:
-  - "/sources/news/2026-04-28/00__lxfater__gpt-5-5攻守易位-opus-4-7的任务遵从性优势正在被整体能力差距吞噬.md"
 ---
 
 # GPT-5.5攻守易位： Opus 4.7的任务遵从性优势正在被整体能力差距吞噬

@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Claude Code创造者的工作流：5个并行实例+3次重复即自动化"
 description: "**Anthropic工程师Boris Cherny的高密度实践。**  - 代码检索用grep+glob而非向量库：代码结构确定时，精确匹配比语义匹配更可靠 - 分层检索策略：先grep定位、再向量兜底，比纯RAG更适合工程场景 - 「3次重复即自动化」原则：任何手动操作重复3次就写成lint rule或hook，当场执行不等「有空」  ---  **gakki锐评：** 这波操作暴露了一个真相"
 resource: "https://x.com/i/status/2030062621039452305"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 88
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2030062621039452305"
-created: "2026-03-06"
-updated: "2026-06-26"
-sha256: "c9b74a16ff8cf975381350ea1c283a47801ae260d71672c53e3c5b2c04d88e77"
-sources:
-  - "/sources/news/2026-03-07/88__runes_leo__claude-code创造者的工作流-5个并行实例-3次重复即自动化.md"
 ---
 
 # Claude Code创造者的工作流：5个并行实例+3次重复即自动化

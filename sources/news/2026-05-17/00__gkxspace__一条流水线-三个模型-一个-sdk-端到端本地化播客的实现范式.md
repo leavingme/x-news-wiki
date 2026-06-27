@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "一条流水线、三个模型、一个 SDK：端到端本地化播客的实现范式"
 description: "**[一句话核心判断]** 13分钟英文NPR新闻经过ASR转写→LLM中文播客化重写→TTS中文合成，全链路132秒完成，输出可直接分发。并非机翻，而是用地道中文播客口吻重制（带\"对吧\"\"咱们也搬个小板凳\"等口语表达）。  - **技术路径验证**：ASR并发（9段）+ LLM重写 + TTS分段合成，三件套无缝串联，单一OpenAI SDK驱动 - **分发价值**：输出3.4MB中文mp3，"
 resource: "https://x.com/i/status/2055985135938400305"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2055985135938400305"
-created: "2026-05-17"
-updated: "2026-06-26"
-sha256: "a1fe284c225abf48c70dfb53bc6c18c9e598a7823353b177bac1bde04cb1ac37"
-sources:
-  - "/sources/news/2026-05-17/00__gkxspace__一条流水线-三个模型-一个-sdk-端到端本地化播客的实现范式.md"
 ---
 
 # 一条流水线、三个模型、一个 SDK：端到端本地化播客的实现范式

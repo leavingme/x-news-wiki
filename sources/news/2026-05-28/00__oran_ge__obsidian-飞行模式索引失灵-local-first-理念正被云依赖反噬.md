@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Obsidian 飞行模式索引失灵：Local First 理念正被云依赖反噬"
 description: "**[一句话核心判断]**  Orange AI 用户实测 Obsidian 在飞行模式下完全无法索引，触发\"local first\"理念的自我矛盾——离线的核心功能居然依赖云端同步才能跑通。  **信息增量：** - 具体场景：飞机飞行模式 + 无网环境 - 根因：索引能力需要连接 WiFi 才能激活 - 核心矛盾：离线工具的基础功能竟然不是离线的  **影响范围：** 所有强调\"离线优先\"的工"
 resource: "https://x.com/i/status/2059842223777407111"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2059842223777407111"
-created: "2026-05-28"
-updated: "2026-06-26"
-sha256: "cdda18c7707426f265929350aba63504e68d2ddcd4f39f63966c7a56cdfe759d"
-sources:
-  - "/sources/news/2026-05-28/00__oran_ge__obsidian-飞行模式索引失灵-local-first-理念正被云依赖反噬.md"
 ---
 
 # Obsidian 飞行模式索引失灵：Local First 理念正被云依赖反噬

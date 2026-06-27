@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "DeepSeek 新论文：让 AI 像人一样「用手指着图片思考」，视觉推理的注意力革命"
 description: "**[DeepSeek 的新研究方向指向一个关键洞察：视觉推理的质量取决于「在哪里看」而非「看到什么」。]**  - 论文探索让 AI 模拟人类「用手指着图片」的注意力聚焦机制，而非全局像素扫描 - 这是视觉推理从「被动感知」走向「主动定位」的范式信号 - 与纯文本 CoT 推理不同，视觉场景需要空间注意力的显式引导  gakki 锐评：人类看图从来不是「全图扫描」，而是有目的地把注意力投射到关键"
 resource: "https://x.com/i/status/2049889069295976951"
@@ -22,13 +22,6 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "model-capabilities"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2049889069295976951"
-created: "2026-04-30"
-updated: "2026-06-26"
-sha256: "16950c1ce38bc0a2ce8a1bd295bf7bb8f40ed21f9b11adc7d1f7387c3cddbed1"
-sources:
-  - "/sources/news/2026-04-30/00__vista8__deepseek-新论文-让-ai-像人一样-用手指着图片思考-视觉推理的注意力革命.md"
 ---
 
 # DeepSeek 新论文：让 AI 像人一样「用手指着图片思考」，视觉推理的注意力革命

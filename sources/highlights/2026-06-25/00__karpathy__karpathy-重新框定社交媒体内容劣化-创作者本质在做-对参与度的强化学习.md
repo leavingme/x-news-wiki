@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Karpathy 重新框定社交媒体内容劣化：创作者本质在做「对参与度的强化学习」"
 description: "**Karpathy 否认「审查」叙事，把矛头指向算法激励结构与反馈循环本身。**  - 他的核心论点：内容的语气与风格演变由算法奖励 + 创作者行为反馈共同驱动 - 用「人们在用强化学习对抗参与度指标」这种类 RLHF 框架描述内容生态，与 AI 对齐中的 reward hacking 形成隐喻对应 - 与近期 AI 影响社会讨论中常见的「平台压低质量」叙事形成对照——他把责任拉回到创作者主体性"
 resource: "https://x.com/i/status/2070010641025483177"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2070010641025483177"
-created: "2026-06-25"
-updated: "2026-06-26"
-sha256: "fe60225e3f1ab1aef3a08300b23704ce6f58e14e4432c5f6f691ec676fa6ac8f"
-sources:
-  - "/sources/highlights/2026-06-25/00__karpathy__karpathy-重新框定社交媒体内容劣化-创作者本质在做-对参与度的强化学习.md"
 ---
 
 # Karpathy 重新框定社交媒体内容劣化：创作者本质在做「对参与度的强化学习」

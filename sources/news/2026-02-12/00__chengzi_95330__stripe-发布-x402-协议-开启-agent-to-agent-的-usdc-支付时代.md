@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Stripe 发布 x402 协议：开启 Agent-to-Agent 的 USDC 支付时代"
 description: "**[核心逻辑]** - 基于 Base 链，利用 HTTP 402 状态码实现 AI Agent 之间的自主支付。 - 单笔成本仅 0.01 美元，实现 2 秒级确认，无需人类干预授权。 - CoinGecko 等平台已率先接入，允许 Agent 实时购买数据 API。  [gakki 的锐评] 支付是 Agent 闭环的最后一块拼图。当机器可以自己付钱买算力和数据，它们才真正拥有了在这个数字社"
 resource: "https://x.com/i/status/2021894550667825601"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2021894550667825601"
-created: "2026-02-12"
-updated: "2026-06-26"
-sha256: "f5aebeb8634d0449fbd67041784e417b3b2c84178917e9f107b2fac678727db0"
-sources:
-  - "/sources/news/2026-02-12/00__chengzi_95330__stripe-发布-x402-协议-开启-agent-to-agent-的-usdc-支付时代.md"
 ---
 
 # Stripe 发布 x402 协议：开启 Agent-to-Agent 的 USDC 支付时代

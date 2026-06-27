@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Codex企业版一句话建站：包设计还包交付，Anthropic还在比工具，OpenAI已在比流水线"
 description: "**一句话核心判断：** OpenAI Codex企业版新增 `site` 命令，实现自然语言生成网页并可分享，完成了从「写代码工具」到「网站交付流水线」的形态跃迁。  **要点：** - 只需自然语言描述，即可生成可分享的网站，无需IDE - 定位从「代码生成」升级为「完整网站交付」，设计+代码+部署一体化 - Anthropic的Design工具仅覆盖设计稿，Codex已完成生产级交付闭环的对"
 resource: "https://x.com/i/status/2061875079630496169"
@@ -22,13 +22,6 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "codex-ecosystem-platform-war"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2061875079630496169"
-created: "2026-06-02"
-updated: "2026-06-26"
-sha256: "77873e0b8e0facf3980a4e17dfa8f3f256fa600501f495453dce54ee1628693e"
-sources:
-  - "/sources/highlights/2026-06-02/00__vista8__codex企业版一句话建站-包设计还包交付-anthropic还在比工具-openai已在比流水线.md"
 ---
 
 # Codex企业版一句话建站：包设计还包交付，Anthropic还在比工具，OpenAI已在比流水线

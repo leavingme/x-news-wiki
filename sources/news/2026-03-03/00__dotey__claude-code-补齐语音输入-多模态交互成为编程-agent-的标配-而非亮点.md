@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Claude Code 补齐语音输入：多模态交互成为编程 Agent 的标配，而非亮点"
 description: "**[语音输入成为 Claude Code 的新功能，标志着多模态交互正从“炫技”变为编程 Agent 的底层能力]** - Claude Code 支持语音输入，让开发者可以通过说话来编写或修改代码。 - 这并非革命性突破，但意味着最前沿的编程工具已将多模态交互视为基础体验的一部分。 - 未来，能否无缝支持语音、手势乃至脑机接口，可能成为评价一个开发工具是否“现代”的标准。  当语音输入不再被单"
 resource: "https://x.com/i/status/2028636514146554258"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2028636514146554258"
-created: "2026-03-03"
-updated: "2026-06-26"
-sha256: "f048bcf414b9b20617ab50f725ef17bcd3fb8101ad8bd9f87f52de5e50d0e8f6"
-sources:
-  - "/sources/news/2026-03-03/00__dotey__claude-code-补齐语音输入-多模态交互成为编程-agent-的标配-而非亮点.md"
 ---
 
 # Claude Code 补齐语音输入：多模态交互成为编程 Agent 的标配，而非亮点

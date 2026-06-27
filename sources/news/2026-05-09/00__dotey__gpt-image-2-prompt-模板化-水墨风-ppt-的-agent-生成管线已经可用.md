@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "GPT Image 2 Prompt 模板化：水墨风 PPT 的 Agent 生成管线已经可用"
 description: "**宝玉给出了一个可直接复用的 Agent 画图 Prompt 工作流。**  - 提供了完整的 Slides 画图 Prompt 模板，包含标题、要点、视觉元素、风格标签、布局偏好等结构化字段 - 关键创新在于：模板本身可以发给 Agent，由 Agent 自动生成每一页的画图 Prompt，再交给 Codex 等有画图能力的模型直接出图 - 风格标签已经精确到可执行级别：Quiet / Res"
 resource: "https://x.com/i/status/2052948362668732781"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2052948362668732781"
-created: "2026-05-09"
-updated: "2026-06-26"
-sha256: "4c179968127fc7ec98a0e0ebc36d31ca8336d21f34e94dacc138a48d11234336"
-sources:
-  - "/sources/news/2026-05-09/00__dotey__gpt-image-2-prompt-模板化-水墨风-ppt-的-agent-生成管线已经可用.md"
 ---
 
 # GPT Image 2 Prompt 模板化：水墨风 PPT 的 Agent 生成管线已经可用

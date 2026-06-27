@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "小米MiMo-V2-Pro杀进万亿参数俱乐部：Agent场景成为中国模型突围新切口"
 description: "**[一句话核心判断]** 小米首次踏入大模型核心战场，MiMo-V2-Pro以万亿参数+百万上下文规格跻身全球第八，Agent工具调用成为差异化卖点。 • 规格突破：国内首个万亿参数+百万上下文开源模型，AA榜单全球第八、中国第二 • 场景聚焦：针对Agent场景优化，工具调用成功率可与Claude、Gemini掰手腕 • 商业策略：API目前免费，明显瞄准开发者生态建设而非短期变现 • 信号解"
 resource: "https://x.com/i/status/2034306301841596614"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2034306301841596614"
-created: "2026-03-18"
-updated: "2026-06-26"
-sha256: "dadde222521d7b1531193efabfe09724ad6ffbeeb34a25e2ef740a26e676ef90"
-sources:
-  - "/sources/highlights/2026-03-19/00__Khazix0918__小米mimo-v2-pro杀进万亿参数俱乐部-agent场景成为中国模型突围新切口.md"
 ---
 
 # 小米MiMo-V2-Pro杀进万亿参数俱乐部：Agent场景成为中国模型突围新切口

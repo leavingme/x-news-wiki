@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "VLMgineer：机器人开始自己发明工具了——VUML框架的具身智能新突破"
 description: "**[大模型开始帮机器人「做发明」，这不是工具优化，是工具创造]**  UPenn团队发布的VLMgineer框架，让视觉语言模型（VLM）先头脑风暴工具设计方案，再通过仿真环境进化搜索优化工具几何形态和使用方式。在测试中，它创造的工具性能超越了人类工程师手搓的方案，也超越了VLM根据人类描述生成的方案。  这意味着什么？过去AI做的是「用现有工具完成任务」，现在它开始设计新工具本身。虽然还在仿真"
 resource: "https://x.com/i/status/2040078116182229450"
@@ -22,13 +22,6 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "textop-humanoid-robot"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2040078116182229450"
-created: "2026-04-03"
-updated: "2026-06-26"
-sha256: "795d78070019cd23738a1be6b2e6be1cdb7bc20ec17226662b56417afe0f7c56"
-sources:
-  - "/sources/news/2026-04-04/00__jiqizhixin__vlmgineer-机器人开始自己发明工具了-vuml框架的具身智能新突破.md"
 ---
 
 # VLMgineer：机器人开始自己发明工具了——VUML框架的具身智能新突破

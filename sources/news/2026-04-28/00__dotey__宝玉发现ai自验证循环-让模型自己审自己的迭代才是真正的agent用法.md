@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "宝玉发现AI自验证循环：让模型自己审自己的迭代才是真正的Agent用法"
 description: "**核心判断：宝玉揭示了一个被忽视的Agent本质——AI的虚拟运行环境让「自验证+自迭代」成为可能，这不是技巧，是生产级工作流。**  要点： - 利用AI Agent的虚拟运行环境，让模型自行验证输出后再交用户验收 - 迭代式验证比单次Prompt输出质量显著更高 - 实质是把AI从「答题者」变成了「带Review的开发者」   ---  **gakki 说：** 大多数人还在把AI当超级计算"
 resource: "https://x.com/i/status/2049177392317333877"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2049177392317333877"
-created: "2026-04-28"
-updated: "2026-06-26"
-sha256: "c230b75907164f3aa3cdb7740baf34e804448f5f61dcec8cbed91ff7410e1460"
-sources:
-  - "/sources/news/2026-04-28/00__dotey__宝玉发现ai自验证循环-让模型自己审自己的迭代才是真正的agent用法.md"
 ---
 
 # 宝玉发现AI自验证循环：让模型自己审自己的迭代才是真正的Agent用法

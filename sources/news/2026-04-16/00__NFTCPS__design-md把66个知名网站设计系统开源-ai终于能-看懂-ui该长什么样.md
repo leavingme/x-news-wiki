@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "DESIGN.md把66个知名网站设计系统开源：AI终于能\"看懂\"UI该长什么样"
 description: "**[一句话核心判断]**  Google Stitch提出的DESIGN.md概念正在形成生态——66个知名网站的完整设计系统文件开源，覆盖AI平台、开发工具、金融Crypto、消费品牌，让AI编程工具直接读懂\"项目该长什么样\"。  **信息增量：** - AGENTS.md定义AI如何构建项目，DESIGN.md定义项目该长什么样——职责分离 - 每个文件包含配色、字体、组件样式、布局原则、响"
 resource: "https://x.com/i/status/2043937293820670331"
@@ -22,13 +22,6 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "design-md-protocol"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2043937293820670331"
-created: "2026-04-14"
-updated: "2026-06-26"
-sha256: "dbd297a79ee6f431005bee4cee65fbe6b6d0e7d45326b60e2c50da14e8a855ed"
-sources:
-  - "/sources/news/2026-04-16/00__NFTCPS__design-md把66个知名网站设计系统开源-ai终于能-看懂-ui该长什么样.md"
 ---
 
 # DESIGN.md把66个知名网站设计系统开源：AI终于能"看懂"UI该长什么样

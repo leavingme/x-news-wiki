@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "宝玉开炮：Llama 3.3 70B 扫代码库专产假报告，AI 工具不可靠反成噪音源"
 description: "**[信号] 资深工程师对「便宜模型 + 自动扫代码」组合的容忍度正在触底。**  - 宝玉看到有人用 Llama 3.3 70B 扫代码库的产物后直接表态「要拉黑」，斥其纯制造互联网垃圾 - 假阳性报警消耗 reviewer 注意力、污染 PR 流程，比没有工具更糟——这是 AI Coding 工具链的运营级痛点 - 折射当下趋势：自动代码审查工具的「演示效果」与「工程价值」落差被一线开发者公开"
 resource: "https://x.com/i/status/2066780149421375807"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2066780149421375807"
-created: "2026-06-16"
-updated: "2026-06-26"
-sha256: "a7d4c714408fa57bc1b4ea7a34c213d2a35f62d88fa4638e5820dc4dae5568b9"
-sources:
-  - "/sources/news/2026-06-16/00__dotey__宝玉开炮-llama-3-3-70b-扫代码库专产假报告-ai-工具不可靠反成噪音源.md"
 ---
 
 # 宝玉开炮：Llama 3.3 70B 扫代码库专产假报告，AI 工具不可靠反成噪音源

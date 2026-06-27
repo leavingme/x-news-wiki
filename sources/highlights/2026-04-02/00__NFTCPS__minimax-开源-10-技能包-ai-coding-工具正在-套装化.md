@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "MiniMax 开源 10 技能包：AI Coding 工具正在「套装化」"
 description: "**[判断]** MiniMax 官方首次将完整职业技能集开源，覆盖前端/全栈/iOS/Android/Shader/GIF/PDF 共 10 个领域，每个技能包都包含对应领域的完整开发规范和 AI 生产流。  • 这是国内大厂首次以「技能套装」而非「Prompt 模板」的形式开源 AI Coding 能力 • 覆盖从 UI 规范（Apple HIG / Material Design 3）到后端"
 resource: "https://x.com/i/status/2035893204260921523"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2035893204260921523"
-created: "2026-03-23"
-updated: "2026-06-26"
-sha256: "b5693c7b06ff8155f8e7e174084412c3fa395ee92b62072fddb15779321a0414"
-sources:
-  - "/sources/highlights/2026-04-02/00__NFTCPS__minimax-开源-10-技能包-ai-coding-工具正在-套装化.md"
 ---
 
 # MiniMax 开源 10 技能包：AI Coding 工具正在「套装化」

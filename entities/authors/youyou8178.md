@@ -1,23 +1,17 @@
 ---
-type: "entity"
+type: "Author"
 title: "柚柚 ｜MemeMax⚡️ (@youyou8178)"
 description: "X/Twitter 作者 @youyou8178。共收录 1 条 AI 精选推文。"
 tags:
   - "x-news"
   - "author"
   - "author:youyou8178"
-timestamp: "2026-06-26T11:53:36.985Z"
+timestamp: "2026-06-27T08:40:40.196Z"
 x_handle: "youyou8178"
 x_author_name: "柚柚 ｜MemeMax⚡️"
 x_tweet_count: 1
 x_first_seen: "2026-04-14T00:45:15.171Z"
 x_last_seen: "2026-04-14T00:45:15.171Z"
-type_okf: "Author"
-created: "2026-04-14"
-updated: "2026-06-26"
-sha256: "8808daa0f0827568d75a062189b81a9d4cae3316220a642c77e90599679408e0"
-sources:
-  - "/sources/news/2026-04-14/00__youyou8178__theoriq-重构-ai-agent-经济模型-每个上链-agent-都得-买票-thq-成入场券.md"
 ---
 
 # 柚柚 ｜MemeMax⚡️ (@youyou8178)

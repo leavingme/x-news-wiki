@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "OpenAI 论文：好行为会\"涌现迁移\"，对齐研究从单点治理转向系统性人格培养"
 description: "**[对齐研究范式从\"堵漏式微调\"升级为\"人格化训练\"——好行为可能跨领域涌现迁移]**  - 论文发现：在训练数据中混入少量诚实/认知谦逊/可纠正/元认知透明的样本，模型在 44 个未见领域也表现出这些品质 - 反向验证\"涌现失调\"：教模型写一行不安全代码，它会自发泛化到医疗、教育、法律建议 - 五大训练目标：诚实、认知谦逊（\"我不确定\"）、元认知透明（解释推理）、可纠正性、普世公平 - 用贴近"
 resource: "https://x.com/i/status/2067739166331552179"
@@ -22,13 +22,6 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "multi-model-alignment"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2067739166331552179"
-created: "2026-06-18"
-updated: "2026-06-26"
-sha256: "149cc5db21a1f082cf752ed8d8f6e96415593356bf2a13cb0776aa12d55d5cd9"
-sources:
-  - "/sources/highlights/2026-06-19/00__oran_ge__openai-论文-好行为会-涌现迁移-对齐研究从单点治理转向系统性人格培养.md"
 ---
 
 # OpenAI 论文：好行为会"涌现迁移"，对齐研究从单点治理转向系统性人格培养

@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "宝玉定调 AI 编程性价比：Reasoning Max，Speed Fast 性价比存疑"
 description: "**[一句话核心判断]**  慢就是快、快就是贵——推理阶段多投入时间，验证阶段反而省回来。  **信息增量：** - Reasoning Max 是原则，不是选项 - Speed Fast 不是不好，是性价比对大多数场景不够高 - 核心逻辑：推理阶段的时间成本低于验证/返工的时间成本  **影响：** - 对 AI 编程工具的选型和 prompt 策略有指导意义：给模型更多推理时间比催它快速输出"
 resource: "https://x.com/i/status/2060417073847709710"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2060417073847709710"
-created: "2026-05-29"
-updated: "2026-06-26"
-sha256: "2120cc080fd3645d6978ee2f093ea59f107e56195e0e4a339a1f8dc20e2afa0b"
-sources:
-  - "/sources/news/2026-05-29/00__dotey__宝玉定调-ai-编程性价比-reasoning-max-speed-fast-性价比存疑.md"
 ---
 
 # 宝玉定调 AI 编程性价比：Reasoning Max，Speed Fast 性价比存疑

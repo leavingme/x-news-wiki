@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "小米MiMo-V2-Pro正式亮剑：万亿参数模型API定价仅为Claude Opus 1/5"
 description: "**[国产大模型首次在「参数规模+定价+生态整合」三线同时发力]** • MiMo-V2-Pro：1万亿参数/420亿激活，支持100万token上下文，AI综合智能指数第8，定价仅为Claude Opus 4.6的1/5 • MiMo-V2-Omni：全模态Agent模型，支持端到端任务执行，官方演示通过OpenClaw在京东自主浏览、索要优惠并下单 • 联合OpenClaw、OpenCode、"
 resource: "https://x.com/i/status/2034436082130206783"
@@ -22,13 +22,6 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "domestic-model-competition"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2034436082130206783"
-created: "2026-03-19"
-updated: "2026-06-26"
-sha256: "10c30ab019d33ffbcaa1a737d2614af9befadd10981ec68463a7e3c55487e74d"
-sources:
-  - "/sources/highlights/2026-03-20/00__fxtrader__小米mimo-v2-pro正式亮剑-万亿参数模型api定价仅为claude-opus-1-5.md"
 ---
 
 # 小米MiMo-V2-Pro正式亮剑：万亿参数模型API定价仅为Claude Opus 1/5

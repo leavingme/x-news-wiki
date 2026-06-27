@@ -1,23 +1,17 @@
 ---
-type: "entity"
+type: "Author"
 title: "程序员老熊 (@xiongchun007)"
 description: "X/Twitter 作者 @xiongchun007。共收录 1 条 AI 精选推文。"
 tags:
   - "x-news"
   - "author"
   - "author:xiongchun007"
-timestamp: "2026-06-26T11:53:36.963Z"
+timestamp: "2026-06-27T08:40:40.172Z"
 x_handle: "xiongchun007"
 x_author_name: "程序员老熊"
 x_tweet_count: 1
 x_first_seen: "2026-03-20T00:42:56.797Z"
 x_last_seen: "2026-03-20T00:42:56.797Z"
-type_okf: "Author"
-created: "2026-03-20"
-updated: "2026-06-26"
-sha256: "c88c410133051cc2d353ca4cb42d8862565be9580dd94015e7f8d539f6d3c197"
-sources:
-  - "/sources/highlights/2026-03-20/00__xiongchun007__unsloth三行代码-模型微调的-最后一道门槛-正在消失.md"
 ---
 
 # 程序员老熊 (@xiongchun007)

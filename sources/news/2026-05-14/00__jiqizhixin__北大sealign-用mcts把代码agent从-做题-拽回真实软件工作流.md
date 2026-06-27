@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "北大SEAlign：用MCTS把代码Agent从「做题」拽回真实软件工作流"
 description: "**[代码Agent终于开始解决真实工程问题了]**  北大团队发现现有代码模型在真实软件工程场景表现差，根源是训练范式错了——一直在用编程谜题训练，而不是真实工作流。于是推出SEAlign框架，用蒙特卡洛树搜索（MCTS）微调多步决策，关键动作优化。  结果：在HumanEvalFix、SWE-Bench-Lite、SWE-Bench-Verified三个主流基准上均达SOTA，且额外训练量极少"
 resource: "https://x.com/i/status/2054807672688427025"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2054807672688427025"
-created: "2026-05-14"
-updated: "2026-06-26"
-sha256: "f1b4aef57de71f0c640d04cec66e4ddfb0972b893b48ca8bb1fa3a5356811430"
-sources:
-  - "/sources/news/2026-05-14/00__jiqizhixin__北大sealign-用mcts把代码agent从-做题-拽回真实软件工作流.md"
 ---
 
 # 北大SEAlign：用MCTS把代码Agent从「做题」拽回真实软件工作流

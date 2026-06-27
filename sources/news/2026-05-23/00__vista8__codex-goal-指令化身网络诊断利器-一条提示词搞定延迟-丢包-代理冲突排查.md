@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Codex /goal 指令化身网络诊断利器：一条提示词搞定延迟/丢包/代理冲突排查"
 description: "**[Codex 从代码助手跨界网络运维，/goal 指令解锁轻量诊断场景]**  向阳乔木验证了一个高实用性场景：利用 Codex 的 /goal（中文 /目标）指令执行 macOS 网络质量诊断。提示词按\"先诊断、再最小可逆修改、最后复测\"的 Harness 工程思路设计，覆盖 DNS 查询耗时、Wi‑Fi 频段/信道/RSSI、路由追踪、MTU、后台高流量进程（VPN/网盘/Tailscal"
 resource: "https://x.com/i/status/2058231846081843402"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2058231846081843402"
-created: "2026-05-23"
-updated: "2026-06-26"
-sha256: "d68632ccd0c8cfed6b9f3e64423de28a347d51c76f591a051c9261050ce77b99"
-sources:
-  - "/sources/news/2026-05-23/00__vista8__codex-goal-指令化身网络诊断利器-一条提示词搞定延迟-丢包-代理冲突排查.md"
 ---
 
 # Codex /goal 指令化身网络诊断利器：一条提示词搞定延迟/丢包/代理冲突排查

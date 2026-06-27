@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Happycapy 一句话需求跑 5 分钟且无进度显示：AI Coding 工具的\"隐形耗时\"开始反噬效率"
 description: "**[观察]**  - 向阳乔木实测：单句需求 + 两轮迭代，Happycapy 跑出 5 分钟时长且 UI 不显示 token/时间消耗 - 用户感知是\"快\"，实际是\"沉浸等待\"，缺少明确进度反馈 - 作者已将项目下载本地，决定自建网站替代当前工作流   gakki 锐评：AI Coding 下半场拼的不是\"能不能写\"，是\"跑多久、花多少、敢不敢关掉它\"——Happycapy 这次的进度盲区是典"
 resource: "https://x.com/i/status/2064729998221873598"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2064729998221873598"
-created: "2026-06-10"
-updated: "2026-06-26"
-sha256: "dbaded5385c2ac55697769c9319925ff0d6f134019e52d438d93fbfdeb5cc813"
-sources:
-  - "/sources/news/2026-06-10/00__vista8__happycapy-一句话需求跑-5-分钟且无进度显示-ai-coding-工具的-隐形耗时-开始反噬效率.md"
 ---
 
 # Happycapy 一句话需求跑 5 分钟且无进度显示：AI Coding 工具的"隐形耗时"开始反噬效率

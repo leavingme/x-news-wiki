@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Xbox手柄秒变Mac遥控器：开源「躺平工程学」的Agent硬件启示"
 description: "**实体输入设备正在成为桌面Agent的第三只手。** - 开源项目将Xbox手柄映射为Mac全局遥控器，支持YouTube、B站、微信读书、浏览器等应用的播放/翻页/Tab切换 - 底层逻辑是将通用HID设备协议转化为跨应用的UI控制层，而非依赖各App原生快捷键 - 手柄的物理按键+摇杆组合天然适合「远距离非精确操作」场景——这正是Agent感知层缺失的那块拼图  锐评：这个项目的真正价值不在"
 resource: "https://x.com/i/status/2051301784208191529"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2051301784208191529"
-created: "2026-05-04"
-updated: "2026-06-26"
-sha256: "404415ea7b7c30018f31940d3303aacc3a4009479051dcd455af7d006c327243"
-sources:
-  - "/sources/news/2026-05-04/00__vista8__xbox手柄秒变mac遥控器-开源-躺平工程学-的agent硬件启示.md"
 ---
 
 # Xbox手柄秒变Mac遥控器：开源「躺平工程学」的Agent硬件启示

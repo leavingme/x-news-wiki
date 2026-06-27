@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Cursor 手机版即将上线：AI 编程工具的入口之争从桌面烧到移动端"
 description: "**AI 编程工具的移动端卡位战开始了。**  - Cursor 成为首个推出移动版的 AI 编程 IDE，直接对标 GitHub Copilot 的移动空缺 - 移动端编程工具的战略意义不在于\"能不能写代码\"，而在于\"随时 review、随时接管\"的工作流闭环 - 手机端编程工具成熟后，将动摇\"Copilot 仅限桌面\"的用户习惯护栏  移动端不只是屏幕延伸，是 24 小时随时介入开发流程的感知"
 resource: "https://x.com/i/status/2057607356448473269"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2057607356448473269"
-created: "2026-05-21"
-updated: "2026-06-26"
-sha256: "14516fb14ba998177761e17dad31829ecb76c28bfc4dd073019b081daeb55d23"
-sources:
-  - "/sources/news/2026-05-22/00__dotey__cursor-手机版即将上线-ai-编程工具的入口之争从桌面烧到移动端.md"
 ---
 
 # Cursor 手机版即将上线：AI 编程工具的入口之争从桌面烧到移动端

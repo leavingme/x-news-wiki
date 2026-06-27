@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Michael Anti：Gemini香港「解锁」只有网页版能用，API依然封锁"
 description: "**【表面开放与实质限制的剪刀差——Google的香港策略】**  尽管Gemini官方宣布开放香港IP访问，但Michael Anti实测发现：网页版可用，API依然封锁。这意味着开发者无法基于Gemini API构建应用，形成「能看不能用」的局面。  • **实质**：这是Google在监管压力下的精准切割——给用户感知「开放」，但对开发者生态保持控制。 • **影响**：对于需要API接入的"
 resource: "https://x.com/i/status/2038443122515202182"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2038443122515202182"
-created: "2026-03-30"
-updated: "2026-06-26"
-sha256: "9cd7254a20cab5e3e6416a153dd787d8fee4800c9bfb19bfab2ade6924df4c4d"
-sources:
-  - "/sources/news/2026-03-30/00__mranti__michael-anti-gemini香港-解锁-只有网页版能用-api依然封锁.md"
 ---
 
 # Michael Anti：Gemini香港「解锁」只有网页版能用，API依然封锁

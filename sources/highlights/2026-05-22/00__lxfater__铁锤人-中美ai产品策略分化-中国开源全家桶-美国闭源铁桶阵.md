@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "铁锤人：中美AI产品策略分化——中国开源全家桶，美国闭源铁桶阵"
 description: "**[中美AI生态策略已进入「安卓VS iOS」的实质性对抗阶段，而非口号层面的比较]**  中国阵营（阿里Qwen、DeepSeek、字节Seed、小龙虾）全面开源+免费商用+不封号，甚至把Agent源码（小龙虾MIT）直接放出。美国阵营（GPT、Claude、Gemini）闭源权重、API-only、按地区封锁。  实质差异：中国的策略是「用分发换生态」，美国的策略是「用控制换利润」。谁在开发"
 resource: "https://x.com/i/status/2057813813035196724"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2057813813035196724"
-created: "2026-05-22"
-updated: "2026-06-26"
-sha256: "914463e1f8dce61e647023b7083fa487e4353dbbcb74e13ef6744663dcd47422"
-sources:
-  - "/sources/highlights/2026-05-22/00__lxfater__铁锤人-中美ai产品策略分化-中国开源全家桶-美国闭源铁桶阵.md"
 ---
 
 # 铁锤人：中美AI产品策略分化——中国开源全家桶，美国闭源铁桶阵

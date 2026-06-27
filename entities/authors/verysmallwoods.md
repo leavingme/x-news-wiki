@@ -1,25 +1,17 @@
 ---
-type: "entity"
+type: "Author"
 title: "VerySmallWoods (@verysmallwoods)"
 description: "X/Twitter 作者 @verysmallwoods。共收录 3 条 AI 精选推文。"
 tags:
   - "x-news"
   - "author"
   - "author:verysmallwoods"
-timestamp: "2026-06-26T11:53:36.943Z"
+timestamp: "2026-06-27T08:40:40.151Z"
 x_handle: "verysmallwoods"
 x_author_name: "VerySmallWoods"
 x_tweet_count: 3
 x_first_seen: "2026-02-21T01:00:40.587Z"
 x_last_seen: "2026-04-03T00:42:40.431Z"
-type_okf: "Author"
-created: "2026-02-21"
-updated: "2026-06-26"
-sha256: "a332e5a90db3d5ec01784329a1420ae680ddd1a5f0158bc2fb880db078cc751b"
-sources:
-  - "/sources/news/2026-02-21/00__verysmallwoods__极速重构-sessionly-从-electron-转向-tauri-的技术倒戈.md"
-  - "/sources/news/2026-03-03/00__verysmallwoods__claude-code-口喷模式-来袭-ai-原生工作流将清洗上一代工具市场.md"
-  - "/sources/news/2026-04-03/00__verysmallwoods__karpathy-实践-llm-知识库正在替代代码操作成为-token-消耗主力.md"
 ---
 
 # VerySmallWoods (@verysmallwoods)

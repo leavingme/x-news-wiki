@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "可视化是过程，结果才是答案：Michael Anti 划定AI讨论的真正重心"
 description: "**[工具争议的本质回归]**  - Michael Anti 在讨论中明确划线：重点不是可视化手段，而是结果本身 - 这个判断对当前 AI 圈「工具内卷」现象有纠偏意义——人们花太多时间讨论用哪个工具，而不是结果质量 - 暗含对当前 AI 圈「秀工具」文化的隐性批评  **gakki 说：** 当整个行业都在发「我用 AI 做了 X」的截图时，Michael Anti 这句「重点是结果」是难得的"
 resource: "https://x.com/i/status/2057641303975084402"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2057641303975084402"
-created: "2026-05-22"
-updated: "2026-06-26"
-sha256: "44bc342170660dcf8a4d627a332e62faa49b0527c7f9700faa6edbec7b1872a7"
-sources:
-  - "/sources/news/2026-05-22/00__mranti__可视化是过程-结果才是答案-michael-anti-划定ai讨论的真正重心.md"
 ---
 
 # 可视化是过程，结果才是答案：Michael Anti 划定AI讨论的真正重心

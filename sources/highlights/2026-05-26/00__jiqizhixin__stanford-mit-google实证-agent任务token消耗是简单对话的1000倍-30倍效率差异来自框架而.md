@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Stanford/MIT/Google实证：Agent任务token消耗是简单对话的1000倍，30倍效率差异来自框架而非模型"
 description: "**[AI Agent算力消耗黑箱首次被系统性拆解：效率与准确率严重脱钩]**  - Agentic coding任务token消耗是简单代码聊天的1000倍，且同一任务跨模型最大差距达30倍 - 更高token消耗不提升准确率——Agent框架本身的效率差异是主因，而非模型能力 - 研究覆盖8个前沿LLM，系统追踪agentic场景下的token流向与成本模式  **gakki锐评：** 这个研"
 resource: "https://x.com/i/status/2059196592184574097"
@@ -22,13 +22,6 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "agent-memory-optimization"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2059196592184574097"
-created: "2026-05-26"
-updated: "2026-06-26"
-sha256: "8e80aa4894a545ac9b0b317585a90b2f24918c46800386fdcf1b553b0cefc1d7"
-sources:
-  - "/sources/highlights/2026-05-26/00__jiqizhixin__stanford-mit-google实证-agent任务token消耗是简单对话的1000倍-30倍效率差异来自框架而.md"
 ---
 
 # Stanford/MIT/Google实证：Agent任务token消耗是简单对话的1000倍，30倍效率差异来自框架而非模型

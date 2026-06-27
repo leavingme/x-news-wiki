@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "哈萨比斯的\"微妙测试\"：小扎对VR/AR/AI全都同样兴奋，恰恰证明他不懂AI"
 description: "**[一句话核心判断]**  哈萨比斯用一次精心设计的话题切换，完成了对扎克伯格认知深度的关键测试——结果证明 Facebook 的 AI 追赶是应激反应而非战略判断。  **要点：** - 哈萨比斯故意从 AI 话题转向 VR/AR/3D 打印，小扎全程\"同样兴奋\" - 这个细节揭示了一个深层模式：追逐每个技术热点的人，往往没有判断哪个热点具有决定性意义的能力 - 最终哈萨比斯选择谷歌，某种程度"
 resource: "https://x.com/i/status/2043927066362687724"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2043927066362687724"
-created: "2026-04-14"
-updated: "2026-06-26"
-sha256: "01c07dfd9f8581cbb861b5cfd8cfbdadb8326628b2ca702c440af99fa322a1a7"
-sources:
-  - "/sources/news/2026-04-14/00__vista8__哈萨比斯的-微妙测试-小扎对vr-ar-ai全都同样兴奋-恰恰证明他不懂ai.md"
 ---
 
 # 哈萨比斯的"微妙测试"：小扎对VR/AR/AI全都同样兴奋，恰恰证明他不懂AI

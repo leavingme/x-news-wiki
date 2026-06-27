@@ -1,23 +1,17 @@
 ---
-type: "entity"
+type: "Author"
 title: "普达特 (@Predator_fund)"
 description: "X/Twitter 作者 @Predator_fund。共收录 1 条 AI 精选推文。"
 tags:
   - "x-news"
   - "author"
   - "author:Predator_fund"
-timestamp: "2026-06-26T11:53:36.964Z"
+timestamp: "2026-06-27T08:40:40.173Z"
 x_handle: "Predator_fund"
 x_author_name: "普达特"
 x_tweet_count: 1
 x_first_seen: "2026-03-21T12:43:07.795Z"
 x_last_seen: "2026-03-21T12:43:07.795Z"
-type_okf: "Author"
-created: "2026-03-21"
-updated: "2026-06-26"
-sha256: "43e5c47aa69afd23663421633dc415e3806cadef525a2447736f38cc6652d1f1"
-sources:
-  - "/sources/news/2026-03-21/00__Predator_fund__ai-信任危机前夜-低认知用户正在成为-精准投喂-的猎物.md"
 ---
 
 # 普达特 (@Predator_fund)

@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Claude Code正在瓦解硅谷工程师的「协作契约」"
 description: "**[AI coding工具正在从根本上改变软件工程的分工逻辑与代码审查机制]**  • 湾区AI创业公司面试门槛飙升：斯坦福/藤校本科+2-3段实习成junior标配，入职即被要求产出senior级别代码 • 工程师模块独立性被迫增强：当每个人都用Claude Code写代码，代码溯源困难导致「谁写的」不再重要，「谁负责」成为唯一问责维度 • 隐性成本转移：团队省下的coding时间，正在转化为"
 resource: "https://x.com/i/status/2030563672133923069"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 92
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2030563672133923069"
-created: "2026-03-08"
-updated: "2026-06-26"
-sha256: "fcde5fe872462a942307a3a291454a883a12ac15af5b0c641107b28d11eaf74c"
-sources:
-  - "/sources/news/2026-03-09/92__0xEvieYang__claude-code正在瓦解硅谷工程师的-协作契约.md"
 ---
 
 # Claude Code正在瓦解硅谷工程师的「协作契约」

@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "文科转码者的自我审判：18 个月护城河在 Vibe Coding 时代已变成水沟"
 description: "**2026 年文科生不需要转码，只需要学 AI——一位 2021 年文科转码者的反向证词。**  - Rachel 复盘：2021 年转码吃到互联网红利，2024 年起 Copilot → Cursor → Claude Code → Vibe Coding 连续四次磨平编程门槛 - 个人代价：用 18 个月构建的护城河在两年内变成「大家都能跨过去的水沟」 - 结论：花 1-2 年学完编程到上岗"
 resource: "https://x.com/i/status/2062903808905138376"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2062903808905138376"
-created: "2026-06-05"
-updated: "2026-06-26"
-sha256: "c2c277d3db8b518d75d7c675ce5c9a8d83db8fab3b63ea961f81ddb587d121af"
-sources:
-  - "/sources/news/2026-06-05/00__Zesee__文科转码者的自我审判-18-个月护城河在-vibe-coding-时代已变成水沟.md"
 ---
 
 # 文科转码者的自我审判：18 个月护城河在 Vibe Coding 时代已变成水沟

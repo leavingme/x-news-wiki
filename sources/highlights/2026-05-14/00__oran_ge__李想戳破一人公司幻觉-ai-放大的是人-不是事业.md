@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "李想戳破一人公司幻觉：AI 放大的是人，不是事业"
 description: "**[一人公司本质是验证场，真实生产环境建立才是分水岭]**  李想在 Podcast 中提出一个反直觉观察：大多数一人公司每天在做的事情是\"OpenClaw 又更新了什么\"，这验证的不是商业模式成立，而是工具链迭代。真实生产环境从未建立。  李想的核心框架：AI 是放大器，不是凭空创造器。一个人原来能力 60 分，AI 放大后可能 85 分；但原来 30 分的人，AI 放大后依然不超过 50 分"
 resource: "https://x.com/i/status/2054702036189577571"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2054702036189577571"
-created: "2026-05-13"
-updated: "2026-06-26"
-sha256: "ce81744d3f761056bcb92743dc9df1f04f4494f47a0b9cc2e2fc5cbcf348efe3"
-sources:
-  - "/sources/highlights/2026-05-14/00__oran_ge__李想戳破一人公司幻觉-ai-放大的是人-不是事业.md"
 ---
 
 # 李想戳破一人公司幻觉：AI 放大的是人，不是事业

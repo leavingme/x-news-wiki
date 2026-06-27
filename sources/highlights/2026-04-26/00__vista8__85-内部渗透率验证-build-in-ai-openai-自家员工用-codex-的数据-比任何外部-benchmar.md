@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "85% 内部渗透率验证「Build In AI」：OpenAI 自家员工用 Codex 的数据，比任何外部 benchmark 都有说服力"
 description: "**[内部渗透率是比 MMLU 更诚实的模型评测]**  OpenAI 官方透露，85% 的员工每周使用 Codex——涵盖财务和市场团队。这意味着当模型真正可用时，非技术用户会自发使用，而非等待管理层推动。  这一数字同时反讽了「AI 编程只是极客玩具」的论调：当财务人员都在用，工具已跨越采纳鸿沟。  gakki：财务和市场团队用 AI 写代码——这本身就是一个组织文化信号。不是用 AI 做什么"
 resource: "https://x.com/i/status/2048413862215692536"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2048413862215692536"
-created: "2026-04-26"
-updated: "2026-06-26"
-sha256: "3a9626f87ab4b7bd9597c3c66cd3af7bdc25babcad94ea3086876c8665a77d8c"
-sources:
-  - "/sources/highlights/2026-04-26/00__vista8__85-内部渗透率验证-build-in-ai-openai-自家员工用-codex-的数据-比任何外部-benchmar.md"
 ---
 
 # 85% 内部渗透率验证「Build In AI」：OpenAI 自家员工用 Codex 的数据，比任何外部 benchmark 都有说服力

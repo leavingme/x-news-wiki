@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Plannotator：把AI文档方案搬进浏览器做协作审查，Codex/Claude执行前先过团队这关"
 description: "**[AI文档从命令行走向协作界面，审查节点成为质量守门人]**  Plannotator 将 AI 生成的技术方案文档投放到本地浏览器界面，支持批注、删除、编辑替换，同事间可像在飞书文档一样划线点评。确认无误后点击 Approve 再交给 AI 执行。  目前支持 Codex、Claude Code、PI、Gemini 等所有主流工具。  对 CLI 编程者而言，大段技术方案用网页仔细查看比终端"
 resource: "https://x.com/i/status/2059805242313863565"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2059805242313863565"
-created: "2026-05-28"
-updated: "2026-06-26"
-sha256: "a7c8046f00d2ad7aa229a8ab3836e1717e6eba41d342c6bda90ef06cee49b96a"
-sources:
-  - "/sources/news/2026-05-28/00__vista8__plannotator-把ai文档方案搬进浏览器做协作审查-codex-claude执行前先过团队这关.md"
 ---
 
 # Plannotator：把AI文档方案搬进浏览器做协作审查，Codex/Claude执行前先过团队这关

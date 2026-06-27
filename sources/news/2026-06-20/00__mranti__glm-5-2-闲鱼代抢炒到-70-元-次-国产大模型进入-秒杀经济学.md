@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "GLM 5.2 闲鱼代抢炒到 70 元/次：国产大模型进入「秒杀经济学」"
 description: "[国产模型抢购已衍生出二级黄牛市场]  - Michael Anti 上个厕所就错过了 GLM 5.2 的抢购窗口 - 闲鱼已出现 70 元/次代抢服务，灰色市场自发形成 - 折射头部国产模型在「限量体验 + 算力紧张」组合下的需求过热  锐评：是 Z.ai 营销势能与产能博弈的副产品，短期是品牌势能利好，长期却是「国产模型供需失衡」的小信号——只要还限购，就别谈真普惠。这和特斯拉 FSD 早期、"
 resource: "https://x.com/i/status/2068153694647111960"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2068153694647111960"
-created: "2026-06-20"
-updated: "2026-06-26"
-sha256: "5813e77d4286ea18902fad4e4f608ee02b6b659ae5d605b779a28d64d53deb75"
-sources:
-  - "/sources/news/2026-06-20/00__mranti__glm-5-2-闲鱼代抢炒到-70-元-次-国产大模型进入-秒杀经济学.md"
 ---
 
 # GLM 5.2 闲鱼代抢炒到 70 元/次：国产大模型进入「秒杀经济学」

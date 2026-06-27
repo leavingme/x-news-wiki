@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Manus 曝光上下文工程 6 大法则：百万次交互验证出的 Agent 工程学"
 description: "**【一句话核心判断】** Manus 公开的上下文工程日志，用真实流量压力验证了 Agent 系统的 6 条底层设计约束，把业界零散的「踩坑经验」提炼成可传授的结构化知识。  **信息增量：** - KV-Cache 中心化设计是上下文系统的核心约束，而非可选项 - 上下文错乱、模型漂移、Cache Miss 等问题已被结构化定义并给出工程解法 - 与网上「能跑就行」的原型项目对比，这套方法论面"
 resource: "https://x.com/i/status/1947267481942601764"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/1947267481942601764"
-created: "2025-07-21"
-updated: "2026-06-26"
-sha256: "9660bbcfe6d69f546c3b94d3021812c8c641b6de184539be47ac4c31c71dfc00"
-sources:
-  - "/sources/highlights/2026-04-08/00__frxiaobei__manus-曝光上下文工程-6-大法则-百万次交互验证出的-agent-工程学.md"
 ---
 
 # Manus 曝光上下文工程 6 大法则：百万次交互验证出的 Agent 工程学

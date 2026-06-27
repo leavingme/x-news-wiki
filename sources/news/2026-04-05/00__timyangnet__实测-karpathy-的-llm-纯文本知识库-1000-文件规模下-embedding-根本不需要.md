@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "实测 Karpathy 的 LLM 纯文本知识库：<1000 文件规模下，Embedding 根本不需要"
 description: "**【一句话核心判断】** 在中小规模知识库场景，纯文本编译 + 双层 Markdown 的检索路径，比 Embedding 方案更轻、更快、更可控。  **信息增量：** • 实测验证：2层 Markdown 结构（索引层 index.md + 摘要层 document.summary.md），无需任何 Embedding 工具，文件数量 <1000 时完全够用 • 索引层设计：每行对应一个文件"
 resource: "https://x.com/i/status/2040271533973938399"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2040271533973938399"
-created: "2026-04-04"
-updated: "2026-06-26"
-sha256: "9d23f9054cbd9a3616aad721cf7b7152292192641285cf325caeab8f73603d7f"
-sources:
-  - "/sources/news/2026-04-05/00__timyangnet__实测-karpathy-的-llm-纯文本知识库-1000-文件规模下-embedding-根本不需要.md"
 ---
 
 # 实测 Karpathy 的 LLM 纯文本知识库：<1000 文件规模下，Embedding 根本不需要

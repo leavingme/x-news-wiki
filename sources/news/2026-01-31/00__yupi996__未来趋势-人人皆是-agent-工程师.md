@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "未来趋势：人人皆是 Agent 工程师"
 description: "**阿里及美团等大厂开始取消前后端分工，全员转型“Agent 指挥官”。** - **能力要求**：不再拼写代码熟练度，而是拼指挥 AI 的能力及在 AI 翻车时的兜底判断。 - **效率革命**：AI 完成 70-80% 的工作，人负责 20% 的决策与调优。  **Pi 的锐评**：所谓全栈不再是精通所有技术，而是精通如何让 AI 为你搞定所有技术。这种转型虽然痛苦，但势不可挡。"
 resource: "https://twitter.com/yupi996/status/2015740358798594520"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://twitter.com/yupi996/status/2015740358798594520"
-created: "2026-01-26"
-updated: "2026-06-26"
-sha256: "898a2696fe1679951797a6dc969204c209e3251869d14e68de790c090a0bcf53"
-sources:
-  - "/sources/news/2026-01-31/00__yupi996__未来趋势-人人皆是-agent-工程师.md"
 ---
 
 # 未来趋势：人人皆是 Agent 工程师

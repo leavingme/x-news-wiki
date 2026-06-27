@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Michael Anti：海外「统一战线」概念远比中国学术语境宽泛"
 description: "**[统战的国内外定义存在根本性差异]  - 海外统战的覆盖范围远超国内，不仅包含政治动员，还延伸至侨批研究、乡土研究等文化领域 - 这种概念边界差异意味着国际政治分析中简单套用「统战」一词容易产生误判 - 对于从事跨文化政治分析或地缘情报研究的从业者，概念校准是基本功  gakki：「统一战线」是个被严重低估的概念混淆地雷——在中文语境里它高度政治化，在英文语境里 united front 的学"
 resource: "https://x.com/i/status/2059460524941996118"
@@ -22,13 +22,6 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "ai-geointelligence-democratization"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2059460524941996118"
-created: "2026-05-27"
-updated: "2026-06-26"
-sha256: "769e257015f385206beeed77a2dbc6f6aa23474b04e6a1700eef663649c30e76"
-sources:
-  - "/sources/news/2026-05-27/00__mranti__michael-anti-海外-统一战线-概念远比中国学术语境宽泛.md"
 ---
 
 # Michael Anti：海外「统一战线」概念远比中国学术语境宽泛

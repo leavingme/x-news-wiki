@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Figma 开放 AI 设计协议：设计系统已成 Agent 出活质量的「隐形天花板」"
 description: "**[设计系统是 AI 协作的真正壁垒，不是模型能力]**  Figma 正式开放 MCP 协议，Claude Code、Cursor 等编程工具可直接读取并操作设计系统的真实图层，而非生成截图。核心变化：AI 不再是「外行枪手」，而是通过你的组件库和规范出活。  信息增量：以前 AI 生成的 UI 千篇一律，是因为它不理解你的设计语言。现在，设计系统的质量直接决定 AI 出活的上限。这本质上把设"
 resource: "https://x.com/i/status/2036595183534612927"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2036595183534612927"
-created: "2026-03-25"
-updated: "2026-06-26"
-sha256: "a25b165f4302a92ecca86fd4bef3b25ed6ed79e177eba7733b5127b5687e7772"
-sources:
-  - "/sources/highlights/2026-04-06/00__KKaWSB__figma-开放-ai-设计协议-设计系统已成-agent-出活质量的-隐形天花板.md"
 ---
 
 # Figma 开放 AI 设计协议：设计系统已成 Agent 出活质量的「隐形天花板」

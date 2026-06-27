@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "投资人线下发言引发震动：AI 投资圈的认知撕裂仍在加剧"
 description: "**投资圈对 AI 的判断正在出现极端分化。** - Orange AI 转述线下投资人的发言，用「震撼」来形容，暗示观点与主流叙事有显著偏离 - 推文缺乏具体内容，但从语气判断，投资人可能表达了对 AI 泡沫、商业化困境或技术路线的颠覆性看法 - 这类「线下震撼」信号往往比公开演讲更能反映资本端的真实情绪  gakki 锐评：信息量不足以做判断，但「投资人线下说了一句让人震撼的话」本身就是信号—"
 resource: "https://x.com/i/status/2050018547578056935"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2050018547578056935"
-created: "2026-05-01"
-updated: "2026-06-26"
-sha256: "c6850159995f00f3aeaf2be253dad4405adc3135f2b2c6108b9577cbbb0c4b37"
-sources:
-  - "/sources/news/2026-05-01/00__oran_ge__投资人线下发言引发震动-ai-投资圈的认知撕裂仍在加剧.md"
 ---
 
 # 投资人线下发言引发震动：AI 投资圈的认知撕裂仍在加剧

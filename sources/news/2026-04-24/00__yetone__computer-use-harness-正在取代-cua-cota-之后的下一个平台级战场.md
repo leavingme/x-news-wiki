@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Computer Use Harness 正在取代 CUA：CoTA 之后的下一个平台级战场"
 description: "**[yetone 观察到 Codex Chronicle 正在成为 Computer Use 的新 Harness 层]**  Computer Use 已ready，但 Codex Chronicle 作为 Computer Use Harness（CUH）尚未完成。当前 CUH 正在代替 CUA（Computer Use Agent），这意味着行业分工正在从「单点模型能力」向「模型+ Har"
 resource: "https://x.com/i/status/2047604905121382474"
@@ -22,13 +22,6 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "agent-tools-and-orchestration"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2047604905121382474"
-created: "2026-04-24"
-updated: "2026-06-26"
-sha256: "c55171070fdc8ef742a60694ff25130f079739ae51b6bd0a376d319eeb5dab00"
-sources:
-  - "/sources/news/2026-04-24/00__yetone__computer-use-harness-正在取代-cua-cota-之后的下一个平台级战场.md"
 ---
 
 # Computer Use Harness 正在取代 CUA：CoTA 之后的下一个平台级战场

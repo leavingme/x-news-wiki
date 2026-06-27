@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Fable5抢跑\"全能模型\"叙事：长任务优势放大，全基准宣称 SOTA"
 description: "**[一句话核心判断]** Fable5 以全能模型姿态入场，宣称在软件工程、知识工作、科研、视觉理解四项基准领先，且任务越复杂、持续时间越长，优势越明显。  - 软件工程、知识工作、科学研究、视觉理解四大维度宣称业界领先 - 主打\"任务越复杂越长、相对其他模型优势越大\"的差异化叙事 -定位为第五代全能模型，对标 Anthropic/OpenAI/Google 的旗舰路线   gakki锐评：单一"
 resource: "https://x.com/i/status/2064410667587637405"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2064410667587637405"
-created: "2026-06-09"
-updated: "2026-06-26"
-sha256: "606b38149c0e4253ac039afb8f3d17738f5ca77b1497edb630d88a91819a7047"
-sources:
-  - "/sources/news/2026-06-09/00__Zesee__fable5抢跑-全能模型-叙事-长任务优势放大-全基准宣称-sota.md"
 ---
 
 # Fable5抢跑"全能模型"叙事：长任务优势放大，全基准宣称 SOTA

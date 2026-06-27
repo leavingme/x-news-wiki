@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "「即览」Glimpse：非 AI 的 Markdown/HTML 手机预览工具反而戳中真实需求"
 description: "**[一句话核心判断]**  歸藏做了一个不需要 AI、不需要联网的手机端 Markdown/HTML 预览工具「即览 Glimpse」，专注解决「AI 产出物在手机上预览」这个被忽视的场景，苹果审核卡了三天，上架前开放 8000 测试名额。  **信息增量：** - 在「所有工具都在拼 AI」的大环境下，一款「无 AI、纯本地」的预览工具能够通过苹果审核并获得测试流量，说明需求真实存在 - 「A"
 resource: "https://x.com/i/status/2062392105860059227"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2062392105860059227"
-created: "2026-06-04"
-updated: "2026-06-26"
-sha256: "409e0560f2e4927da00e89e1fccc0c6518a9210029bed0ff43854b78c180c529"
-sources:
-  - "/sources/news/2026-06-04/00__op7418__即览-glimpse-非-ai-的-markdown-html-手机预览工具反而戳中真实需求.md"
 ---
 
 # 「即览」Glimpse：非 AI 的 Markdown/HTML 手机预览工具反而戳中真实需求

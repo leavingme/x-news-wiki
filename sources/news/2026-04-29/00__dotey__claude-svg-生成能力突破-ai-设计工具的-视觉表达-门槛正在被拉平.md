@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Claude SVG 生成能力突破：AI 设计工具的「视觉表达」门槛正在被拉平"
 description: "**宝玉实测 Claude 的 SVG 生成能力，认为其表现「够牛」。**  - Claude 在 SVG 生成上的能力提升，意味着 AI 设计工具正在从「文字描述」走向「视觉实现」 - 对于 Agent 来说，SVG 是一种结构化的视觉表达方式，比图像更易编辑和复用 - 这种能力提升将直接影响 AI 设计工作流的效率和质量  Gakki：SVG 是设计领域的「代码」，Claude 在这里的突破不"
 resource: "https://x.com/i/status/2049355538958368846"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2049355538958368846"
-created: "2026-04-29"
-updated: "2026-06-26"
-sha256: "1dfcab3844be74c4e762f3fe22ae5296fcfbadc90f0cdc3cea5de6389dd77664"
-sources:
-  - "/sources/news/2026-04-29/00__dotey__claude-svg-生成能力突破-ai-设计工具的-视觉表达-门槛正在被拉平.md"
 ---
 
 # Claude SVG 生成能力突破：AI 设计工具的「视觉表达」门槛正在被拉平

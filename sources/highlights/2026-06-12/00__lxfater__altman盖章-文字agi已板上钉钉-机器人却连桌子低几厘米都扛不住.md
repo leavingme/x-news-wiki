@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Altman盖章：文字AGI已板上钉钉，机器人却连桌子低几厘米都扛不住"
 description: "**文字AGI先于具身智能到来——Altman内部已判定板上钉钉，但机器人Demo仍经不起\"桌子低几厘米\"这种真实扰动。**  - 黄碧薇教授在极客公园直播中爆料：当前机器人Demo多为精心设计，实际任务稍偏离就失效 - 智力劳动被AI指数级压低的同时，体力/具身任务停滞；半吊子AGI对白领最不公平 - 因果大模型是解法方向：让模型先理解因果关系再谈\"随机应变\"，这才是\"手巧\"的前提  Gakki"
 resource: "https://x.com/i/status/2065271663449829520"
@@ -22,13 +22,6 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "world-model-paradigm"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2065271663449829520"
-created: "2026-06-12"
-updated: "2026-06-26"
-sha256: "4916c2cd7d5f2c14f8c985cc2252b52062c93d9198661ca07dcbefb541b5b5f1"
-sources:
-  - "/sources/highlights/2026-06-12/00__lxfater__altman盖章-文字agi已板上钉钉-机器人却连桌子低几厘米都扛不住.md"
 ---
 
 # Altman盖章：文字AGI已板上钉钉，机器人却连桌子低几厘米都扛不住

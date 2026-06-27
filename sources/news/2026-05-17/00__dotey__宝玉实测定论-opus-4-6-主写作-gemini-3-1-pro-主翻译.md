@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "宝玉实测定论：Opus 4.6 主写作，Gemini 3.1 Pro 主翻译"
 description: "**[AI 模型任务分化路线图浮现：专业分工而非全能竞争]**  - 宝玉基于实测给出明确分工建议：Writing 选 Opus 4.6，Translation 选 Gemini 3.1 Pro - 这条判断击穿了「最强模型通吃」的叙事——不同任务的最优解正在分化 - 翻译任务 Gemini 胜出可能与多语言语料优势相关，写作用 Opus 体现其在长文本上的连贯性优势  gakki：当模型选择开始"
 resource: "https://x.com/i/status/2055860356044509417"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2055860356044509417"
-created: "2026-05-17"
-updated: "2026-06-26"
-sha256: "e52293673453c05793925be88866983dfb0d7b8a93699d64a7c180ad938d38fc"
-sources:
-  - "/sources/news/2026-05-17/00__dotey__宝玉实测定论-opus-4-6-主写作-gemini-3-1-pro-主翻译.md"
 ---
 
 # 宝玉实测定论：Opus 4.6 主写作，Gemini 3.1 Pro 主翻译

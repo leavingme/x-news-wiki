@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "MiniMax Skills开源：Cursor们的「武器库」终于标准化了"
 description: "**MiniMax将内部 curated skills 开源，标志着 Agent 开发从「个人经验」向「可复用资产」跃迁。**  • 结构化经验资产化：顶级开发者的工程实践被打包为标准化技能，解决 Agent 长期存在的风格漂移和输出不稳定痛点 • 生产级代码民主化：iOS/Android 开发、GLSL Shader 等原本高门槛领域，现在可通过预置 skill 稳定输出 • 生态分层加速：基础"
 resource: "https://x.com/i/status/2035633019973685420"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2035633019973685420"
-created: "2026-03-22"
-updated: "2026-06-26"
-sha256: "c52ec19e38b42e4525fa4d9c8879cffd4057d7a4c983147de93ca6544dda5a3a"
-sources:
-  - "/sources/highlights/2026-03-22/00__0xLaughing__minimax-skills开源-cursor们的-武器库-终于标准化了.md"
 ---
 
 # MiniMax Skills开源：Cursor们的「武器库」终于标准化了

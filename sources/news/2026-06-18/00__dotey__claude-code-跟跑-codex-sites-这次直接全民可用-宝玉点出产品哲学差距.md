@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Claude Code 跟跑 Codex Sites：这次直接全民可用，宝玉点出产品哲学差距"
 description: "**Claude Code 集成站点生成（Sites）功能，所有用户直接可用**  - 宝玉对比：Codex 的 Sites 仍只对企业版开放，Claude Code 这边任何人都能用 - 观点：\"好的功能就应该集成进去，共同学习共同进步\" - 这是 Claude Code 近期高频迭代的延续：把竞品已验证的能力快速拉齐并开放 - 体现 Anthropic 在 Agent Coding 工具上的产"
 resource: "https://x.com/i/status/2067676155553972711"
@@ -22,13 +22,6 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "claude-code-ecosystem"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2067676155553972711"
-created: "2026-06-18"
-updated: "2026-06-26"
-sha256: "87053f3213e0456e4f2b764f16c096bcb1a6539bbffec038d2d27b2845310c31"
-sources:
-  - "/sources/news/2026-06-18/00__dotey__claude-code-跟跑-codex-sites-这次直接全民可用-宝玉点出产品哲学差距.md"
 ---
 
 # Claude Code 跟跑 Codex Sites：这次直接全民可用，宝玉点出产品哲学差距

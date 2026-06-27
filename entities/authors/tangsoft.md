@@ -1,23 +1,17 @@
 ---
-type: "entity"
+type: "Author"
 title: "𝙩𝙮≃𝙛{𝕩}^A𝕀²·ℙarad𝕚g𝕞 (@TaNGSoFT)"
 description: "X/Twitter 作者 @TaNGSoFT。共收录 1 条 AI 精选推文。"
 tags:
   - "x-news"
   - "author"
   - "author:TaNGSoFT"
-timestamp: "2026-06-26T11:53:36.967Z"
+timestamp: "2026-06-27T08:40:40.177Z"
 x_handle: "TaNGSoFT"
 x_author_name: "𝙩𝙮≃𝙛{𝕩}^A𝕀²·ℙarad𝕚g𝕞"
 x_tweet_count: 1
 x_first_seen: "2026-03-28T18:35:19.075Z"
 x_last_seen: "2026-03-28T18:35:19.075Z"
-type_okf: "Author"
-created: "2026-03-28"
-updated: "2026-06-26"
-sha256: "4eacf1a66e072ce76742553cd48eb8fc659b4f33ade810676da7586f8f83c03e"
-sources:
-  - "/sources/highlights/2026-03-28/00__TaNGSoFT__grok力赞thariq-从claude-code血泪经验中提炼的agent工程六律.md"
 ---
 
 # 𝙩𝙮≃𝙛{𝕩}^A𝕀²·ℙarad𝕚g𝕞 (@TaNGSoFT)

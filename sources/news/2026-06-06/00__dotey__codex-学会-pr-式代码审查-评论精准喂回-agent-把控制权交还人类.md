@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Codex 学会 PR 式代码审查:评论精准喂回 Agent,把控制权交还人类"
 description: "**Codex 正在把 GitHub PR Review 的协作范式封装进 AI 编辑器,让「代码评论」成为 Agent 的精准上下文。**  - Codex 支持选择 Last turn 等代码修改范围进行审查 - 用户可对代码片段加评论,评论内容直接附加在会话左侧 - 提交评论即作为上下文发给 Agent,触发针对性修改 - 核心设计:不是让 AI 整体重写,而是让人能精准点出「这一段需要改什"
 resource: "https://x.com/i/status/2063104010148557018"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2063104010148557018"
-created: "2026-06-06"
-updated: "2026-06-26"
-sha256: "f131fd9fb3c2a81181955707366878bea2d3b0410d1bdd99e16b3cd78b50ab33"
-sources:
-  - "/sources/news/2026-06-06/00__dotey__codex-学会-pr-式代码审查-评论精准喂回-agent-把控制权交还人类.md"
 ---
 
 # Codex 学会 PR 式代码审查:评论精准喂回 Agent,把控制权交还人类

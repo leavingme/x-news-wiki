@@ -1,23 +1,17 @@
 ---
-type: "entity"
+type: "Author"
 title: "Fox@MkSaaS.com (@indie_maker_fox)"
 description: "X/Twitter 作者 @indie_maker_fox。共收录 1 条 AI 精选推文。"
 tags:
   - "x-news"
   - "author"
   - "author:indie_maker_fox"
-timestamp: "2026-06-26T11:53:36.960Z"
+timestamp: "2026-06-27T08:40:40.168Z"
 x_handle: "indie_maker_fox"
 x_author_name: "Fox@MkSaaS.com"
 x_tweet_count: 1
 x_first_seen: "2026-03-16T02:56:01.921Z"
 x_last_seen: "2026-03-16T02:56:01.921Z"
-type_okf: "Author"
-created: "2026-03-16"
-updated: "2026-06-26"
-sha256: "5335f64af089ec973ee443eac2dfb53184a5de414a89b0d79225830ba909e3e6"
-sources:
-  - "/sources/highlights/2026-03-16/00__indie_maker_fox__lightpanda-开源无头浏览器-为-ai-agent-而生的-极速爬虫引擎.md"
 ---
 
 # Fox@MkSaaS.com (@indie_maker_fox)

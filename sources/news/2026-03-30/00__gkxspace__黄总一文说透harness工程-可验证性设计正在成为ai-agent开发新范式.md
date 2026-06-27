@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "黄总一文说透Harness工程：可验证性设计正在成为AI Agent开发新范式"
 description: "**【Harness的本质不是工具，是「让AI输出可被信任」的工程哲学】**   Harness Engineering（驭能工程）正在AI代码助手圈引发讨论。核心思路：在AI执行过程中建立可验证性层（Verification Layer），确保Agent输出可被自动化校验，而非依赖人工审查。  • **与传统测试的区别**：不是事后验证，而是在Agent执行路径中内嵌校验点，实现「边跑边验」。 "
 resource: "https://x.com/i/status/2038393263825227781"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2038393263825227781"
-created: "2026-03-29"
-updated: "2026-06-26"
-sha256: "0ed432ca3c782a2d46ca4c3695cb6e9689ac612a798d88cfd2da995debc0e9e2"
-sources:
-  - "/sources/news/2026-03-30/00__gkxspace__黄总一文说透harness工程-可验证性设计正在成为ai-agent开发新范式.md"
 ---
 
 # 黄总一文说透Harness工程：可验证性设计正在成为AI Agent开发新范式

@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Mem9：Ed Huang 一个周末写出的 OpenClaw「外置海马体」，顺便把向量搜索做进了 TiDB"
 description: "**[OpenClaw 记忆基础设施的关键拼图终于补上]**  Mem9 由 TiDB 创始人 Ed Huang 打造，定位为 OpenClaw 的云端持久记忆层。解决了 AI Agent 重启失忆、换机器重建上下文、团队知识无法复用三大痛点。基于 TiDB Cloud Starter（免费 25GB + 2.5 亿请求/月），原生支持向量+关键词混合搜索，无需额外向量数据库。  · 跨设备同步 "
 resource: "https://x.com/i/status/2036087756632285518"
@@ -22,13 +22,6 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "edgeclaw-memory-infrastructure"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2036087756632285518"
-created: "2026-03-23"
-updated: "2026-06-26"
-sha256: "147c2a72a7c0c88d940b0c3635d8eda20d67d47b40102478dfe2d1f897d999c7"
-sources:
-  - "/sources/highlights/2026-04-11/00__shao__meng__mem9-ed-huang-一个周末写出的-openclaw-外置海马体-顺便把向量搜索做进了-tidb.md"
 ---
 
 # Mem9：Ed Huang 一个周末写出的 OpenClaw「外置海马体」，顺便把向量搜索做进了 TiDB

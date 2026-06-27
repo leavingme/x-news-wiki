@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "GPT Images 2 生成图像 + Gemini 3.1 Pro 写代码：3D 交互科学应用的工具组合范式"
 description: "**多模态工具的「混血组合」正在成为内容生产的新默认范式。**  - GPT Images 2 负责视觉生成，Gemini 3.1 Pro 负责代码逻辑，两者组合产出可交互 3D 科学探索应用 - 不是单一模型的端到端能力，而是各取所长的工具链拼装——这比任何单模型升级都更值得关注 - 效果「炸裂」的背后是 prompt 工程 + 多模型路由的熟练度在决定产出质量  工具组合能力正在成为新的生产壁"
 resource: "https://x.com/i/status/2053295270482657475"
@@ -22,13 +22,6 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "ai-multimodel-routing"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2053295270482657475"
-created: "2026-05-10"
-updated: "2026-06-26"
-sha256: "34829d552855ec5b4ed0a0aea5fdb4a57136737c7ee26472948559142dd5a07c"
-sources:
-  - "/sources/news/2026-05-10/00__xiaohu__gpt-images-2-生成图像-gemini-3-1-pro-写代码-3d-交互科学应用的工具组合范式.md"
 ---
 
 # GPT Images 2 生成图像 + Gemini 3.1 Pro 写代码：3D 交互科学应用的工具组合范式

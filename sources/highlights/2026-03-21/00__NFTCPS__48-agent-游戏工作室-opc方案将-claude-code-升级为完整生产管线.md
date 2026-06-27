@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "48 Agent 游戏工作室：OPC方案将 Claude Code 升级为完整生产管线"
 description: "**[Agent 编排从工具层跃迁至组织架构层]** • 项目通过三层组织架构（3总监→8部门→37专员）模拟真实游戏公司，建立纵向委派链与横向协作规则 • 37个斜杠命令覆盖全流程：从 /brainstorm 到 /sprint-plan，实现游戏工业化生产的 Agent 原生工作流 • 支持 Godot/Unity/Unreal 三引擎，8个自动化 Hook 构建安全防线  这是 Agent "
 resource: "https://x.com/i/status/2035277080053850290"
@@ -22,13 +22,6 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "claude-code-ecosystem"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2035277080053850290"
-created: "2026-03-21"
-updated: "2026-06-26"
-sha256: "7709df53ae578e8f7f8897672851892c42d4fab45cc874a3e4674762f6e8aee8"
-sources:
-  - "/sources/highlights/2026-03-21/00__NFTCPS__48-agent-游戏工作室-opc方案将-claude-code-升级为完整生产管线.md"
 ---
 
 # 48 Agent 游戏工作室：OPC方案将 Claude Code 升级为完整生产管线

@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "机器人流量首超人类：互联网主体已完成权力交接"
 description: "**[机器人正式成为互联网主体流量来源]**  根据 Cloudflare Radar 实时统计，5月28日至6月4日这一周，全球 HTML 网页请求中 57.5% 来自机器人（爬虫、AI 抓取、自动化脚本），人类浏览器仅占 42.5%。与此同时，JSON 格式流量占全部 HTTP 流量的 33.1% 排第一，HTML 仅占 12%。  两张图叠在一起揭示的结论：互联网流量主体早已不是「人打开浏览"
 resource: "https://x.com/i/status/2062367357868355622"
@@ -22,13 +22,6 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "ai-browser-platform-war"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2062367357868355622"
-created: "2026-06-04"
-updated: "2026-06-26"
-sha256: "a94153e2a3d5f6378a6ec61522ab36b1cdcc6aaa9a184641e651b483504044d5"
-sources:
-  - "/sources/highlights/2026-06-04/00__xiaohu__机器人流量首超人类-互联网主体已完成权力交接.md"
 ---
 
 # 机器人流量首超人类：互联网主体已完成权力交接

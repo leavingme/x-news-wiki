@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "X Article 编辑器体验垫底背后：30人工程团队为何对核心体验毫无作为？"
 description: "**[平台创作者体验的系统性失败]**  X Article 编辑器被批评比微信公众号编辑器还难用，而背后是一支30人的工程团队。更值得追问的是：团队把精力放在了创作者分成上，却对垃圾广告毫无作为。  这折射出一个平台经济的典型困境——平台把「钱流」放在首位，而非「体验流」。  产品功能原地踏步与运营重点错位，暴露的是内容平台对创作者生态的结构性漠视。   gakki：微信封闭是痼疾，但 X Ar"
 resource: "https://x.com/i/status/2059143273889853709"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2059143273889853709"
-created: "2026-05-26"
-updated: "2026-06-26"
-sha256: "ccd642ab57c8b7b691b127dd6225c50eb749b824c661eaec496da404a0f1e76d"
-sources:
-  - "/sources/news/2026-05-26/00__dotey__x-article-编辑器体验垫底背后-30人工程团队为何对核心体验毫无作为.md"
 ---
 
 # X Article 编辑器体验垫底背后：30人工程团队为何对核心体验毫无作为？

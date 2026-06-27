@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "多模型路由与记忆系统是提升Agent可靠性的关键基建"
 description: "**[Agent的可靠性瓶颈已从单模型能力转向多模型协作与记忆管理。]** - 推文指出，提升Agent表现不仅需要更多模型选择（如Opus、Sonnet），更需要搭建一个有效的记忆系统。 - 这反映了当前Agent编排的核心痛点：如何让不同模型在复杂任务中协同工作，并保持长期、一致的上下文。 - 对于Agent开发者和平台方而言，投资于多模型路由和记忆基础设施，将成为构建稳定、可信Agent服务"
 resource: "https://x.com/i/status/2028469055431311626"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2028469055431311626"
-created: "2026-03-02"
-updated: "2026-06-26"
-sha256: "eff4ef3853455680c82d1b9b1e55380bcdf8db7371690f058a3aa860eec8d770"
-sources:
-  - "/sources/news/2026-03-03/00__vista8__多模型路由与记忆系统是提升agent可靠性的关键基建.md"
 ---
 
 # 多模型路由与记忆系统是提升Agent可靠性的关键基建

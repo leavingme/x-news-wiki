@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "2026 确定性投资：AI 运用位列核心"
 description: "**市场策略解析：在 2026 年大盘动荡中，人工智能及 AI 运用被视为铁定获利的确定性板块。** - **资产配置**：建议关注贵金属、固态电池、电力设备及 AI 相关的 ETF 组合。 - **核心逻辑**：AI 的生产力革新已成为无视宏观波动的底层增长动力。  **Pi 的锐评**：当泡沫破裂后，只有能真正产生现金流的 AI 运用才是避风港。这不仅仅是炒作，而是生产力周期的切换。"
 resource: "https://x.com/i/status/2011020729480106456"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2011020729480106456"
-created: "2026-01-13"
-updated: "2026-06-26"
-sha256: "dcf6eb0c13f3da49b52fc84b9d6ba25ba7ae9cfc393d788c3fd76a9a1d1d3c6a"
-sources:
-  - "/sources/news/2026-01-30/00__rabissh__2026-确定性投资-ai-运用位列核心.md"
 ---
 
 # 2026 确定性投资：AI 运用位列核心

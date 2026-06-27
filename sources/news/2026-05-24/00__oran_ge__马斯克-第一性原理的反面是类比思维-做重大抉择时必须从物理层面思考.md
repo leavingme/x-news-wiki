@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "马斯克：第一性原理的反面是类比思维，做重大抉择时必须从物理层面思考"
 description: "**一句话核心判断：** 类比思维让 AI 应用层创新同质化，第一性原理才是区分真正创新者和套壳玩家的分水岭。  马斯克系统阐述：日常事务用类比推理可以节省认知资源，但在重大抉择时类比思维会困于传统经验。以电池和火箭为例——类比思维认为\"一直很贵就会永远贵\"，第一性原理则从原料成本看便宜的可能性。  AI 行业正在批量生产类比思维：别人做了 GPTs 我也做，别人上线了 Agent 我也上。第一性"
 resource: "https://x.com/i/status/2058533390891286858"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2058533390891286858"
-created: "2026-05-24"
-updated: "2026-06-26"
-sha256: "7e04e90a87f6fac882ba0d8c5b05975f7e6b74739edf6a502fa0022829e66770"
-sources:
-  - "/sources/news/2026-05-24/00__oran_ge__马斯克-第一性原理的反面是类比思维-做重大抉择时必须从物理层面思考.md"
 ---
 
 # 马斯克：第一性原理的反面是类比思维，做重大抉择时必须从物理层面思考

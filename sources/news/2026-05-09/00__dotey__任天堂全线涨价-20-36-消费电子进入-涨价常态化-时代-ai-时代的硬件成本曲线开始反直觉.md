@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "任天堂全线涨价 20-36%：消费电子进入「涨价常态化」时代，AI 时代的硬件成本曲线开始反直觉"
 description: "**当硬件成本不降反升，AI 时代的算力民主化叙事需要重新校准。**  - 任天堂 Switch 2 日本涨价 20%，老款 Switch 涨幅高达 36%，Switch Online 会员同步上调，官方措辞「市场环境变化」暗示长期性 - 在 AI 训练成本崩塌的叙事背景下，消费级硬件的涨价潮形成了一个反直觉信号：供应链和地缘成本压力正在传导到终端 - 对 AI 生态的间接影响：当消费者预算被硬件"
 resource: "https://x.com/i/status/2052933700996804827"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2052933700996804827"
-created: "2026-05-09"
-updated: "2026-06-26"
-sha256: "8d0e7904b38d057dc3e046426bd05a12fa3b537cf7faec919958f70e06094721"
-sources:
-  - "/sources/news/2026-05-09/00__dotey__任天堂全线涨价-20-36-消费电子进入-涨价常态化-时代-ai-时代的硬件成本曲线开始反直觉.md"
 ---
 
 # 任天堂全线涨价 20-36%：消费电子进入「涨价常态化」时代，AI 时代的硬件成本曲线开始反直觉

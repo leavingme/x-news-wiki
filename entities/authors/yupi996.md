@@ -1,23 +1,17 @@
 ---
-type: "entity"
+type: "Author"
 title: "程序员鱼皮 (@yupi996)"
 description: "X/Twitter 作者 @yupi996。共收录 1 条 AI 精选推文。"
 tags:
   - "x-news"
   - "author"
   - "author:yupi996"
-timestamp: "2026-06-26T11:53:36.911Z"
+timestamp: "2026-06-27T08:40:40.117Z"
 x_handle: "yupi996"
 x_author_name: "程序员鱼皮"
 x_tweet_count: 1
 x_first_seen: "2026-01-31T09:16:26.243Z"
 x_last_seen: "2026-01-31T09:16:26.243Z"
-type_okf: "Author"
-created: "2026-01-31"
-updated: "2026-06-26"
-sha256: "4b5546af82e801bb59c7d1189eabfaf1318dba08e47b6db583d83f2059d8e924"
-sources:
-  - "/sources/news/2026-01-31/00__yupi996__未来趋势-人人皆是-agent-工程师.md"
 ---
 
 # 程序员鱼皮 (@yupi996)

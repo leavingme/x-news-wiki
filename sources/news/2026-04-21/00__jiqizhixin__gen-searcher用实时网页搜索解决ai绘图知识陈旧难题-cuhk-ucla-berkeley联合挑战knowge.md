@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Gen-Searcher用实时网页搜索解决AI绘图知识陈旧难题：CUHK+UCLA+Berkeley联合挑战KnowGen基准超Qwen-Image 16点"
 description: "**AI绘图终于能查实时资料了。**  MMLab CUHK、UCLA、Berkeley联合推出Gen-Searcher，让图像生成模型能主动浏览实时网页获取最新文字和参考图像，彻底摆脱「训练数据冻结」的知识落伍问题。在KnowGen基准上超越Qwen-Image达16点，WISE基准超15点。  核心机制：把搜索变成了Agent流程中的一个可控环节，而非依赖模型权重记忆。对设计、广告等需要准确呈"
 resource: "https://x.com/i/status/2046037383167033551"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2046037383167033551"
-created: "2026-04-20"
-updated: "2026-06-26"
-sha256: "393f9a9c0b224bdf3be209de1d89ba9a39ad4a9389d972f0d39d175755891865"
-sources:
-  - "/sources/news/2026-04-21/00__jiqizhixin__gen-searcher用实时网页搜索解决ai绘图知识陈旧难题-cuhk-ucla-berkeley联合挑战knowge.md"
 ---
 
 # Gen-Searcher用实时网页搜索解决AI绘图知识陈旧难题：CUHK+UCLA+Berkeley联合挑战KnowGen基准超Qwen-Image 16点

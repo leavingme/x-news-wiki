@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Token 订阅的认知陷阱：便宜感是最贵的幻觉"
 description: "**[资本世界的定价从不反映价值，只反映你以为的价值]**  很多人看到 Token plan 就本能觉得赚了，这是典型的消费者认知反射。真正的问题在于：AI 工具的价值兑现高度依赖使用者的判断力——判断力不够的人，再便宜的 Token 也是浪费。  资本世界没有「又便宜又好」，只有「你以为便宜但实际在支付别的代价」。  gakki：Token 订阅经济的真正门槛不是价格，是用户是否具备识别「便宜"
 resource: "https://x.com/i/status/2057965669615087761"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2057965669615087761"
-created: "2026-05-22"
-updated: "2026-06-26"
-sha256: "112a73c2c873c08da567c93072084478c29d91c7f5443cd0e1c1de3e44ec3996"
-sources:
-  - "/sources/news/2026-05-23/00__oran_ge__token-订阅的认知陷阱-便宜感是最贵的幻觉.md"
 ---
 
 # Token 订阅的认知陷阱：便宜感是最贵的幻觉

@@ -1,23 +1,17 @@
 ---
-type: "entity"
+type: "Author"
 title: "Terry (@RichTerry123)"
 description: "X/Twitter 作者 @RichTerry123。共收录 1 条 AI 精选推文。"
 tags:
   - "x-news"
   - "author"
   - "author:RichTerry123"
-timestamp: "2026-06-26T11:53:36.987Z"
+timestamp: "2026-06-27T08:40:40.198Z"
 x_handle: "RichTerry123"
 x_author_name: "Terry"
 x_tweet_count: 1
 x_first_seen: "2026-04-16T12:45:19.595Z"
 x_last_seen: "2026-04-16T12:45:19.595Z"
-type_okf: "Author"
-created: "2026-04-16"
-updated: "2026-06-26"
-sha256: "a75968f768115ed1d588271830f7cf34cfddd62a1e815f2573eca5807bfa9623"
-sources:
-  - "/sources/highlights/2026-04-16/00__RichTerry123__黄仁勋五年首度系统阐述ai扩张逻辑-能源才是最底层.md"
 ---
 
 # Terry (@RichTerry123)

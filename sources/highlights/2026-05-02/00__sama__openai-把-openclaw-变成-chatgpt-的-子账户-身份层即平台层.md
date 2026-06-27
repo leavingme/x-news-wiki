@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "OpenAI 把 OpenClaw 变成 ChatGPT 的「子账户」：身份层即平台层"
 description: "**OpenAI 正在将 ChatGPT 账号体系外溢为整个 Agent 生态的统一身份层。**  - Sam Altman 宣布 OpenClaw 支持 ChatGPT 账号直接登录并复用订阅额度，意味着 OpenAI 不再只是模型供应商，而是要做 Agent 生态的「SSO 基础设施」。 - 这与 Anthropic 推 Claude 认证体系、Google 推 Gemini 桌面端超级入口的"
 resource: "https://x.com/sama/status/2050357911915028689"
@@ -22,13 +22,6 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "open-agent-ecosystem"
 x_source: "ai-trend-digest"
-type_okf: "X Tweet"
-source_url: "https://x.com/sama/status/2050357911915028689"
-created: "2026-05-01"
-updated: "2026-06-26"
-sha256: "e86657983b7e012be15c92c7b8004555443aea5732b479ab083ed3c82d34767e"
-sources:
-  - "/sources/highlights/2026-05-02/00__sama__openai-把-openclaw-变成-chatgpt-的-子账户-身份层即平台层.md"
 ---
 
 # OpenAI 把 OpenClaw 变成 ChatGPT 的「子账户」：身份层即平台层

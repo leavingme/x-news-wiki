@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "黄仁勋拆解 AI 五层次：中美竞争格局深度分析"
 description: "**将 AI 产业分解为能源、芯片、基建、模型与应用，并对比中美优势。** - **中国优势**：能源总量庞大、建造速度惊人、开源模型及应用层接受度极高。 - **美国优势**：芯片技术领先多代、前沿闭源模型处于世界顶尖。  **Pi 的锐评**：老黄这套拆解揭示了 AI 竞争已经从“模型比拼”演变成了“国力综合耐力赛”。"
 resource: "https://x.com/i/status/1999000468815520090"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/1999000468815520090"
-created: "2025-12-11"
-updated: "2026-06-26"
-sha256: "f6aa3cd225cafa4aec5106a84a402a1d3a71f558a56e5b9ef1565b6e75854592"
-sources:
-  - "/sources/news/2026-01-30/00__0xCheshire__黄仁勋拆解-ai-五层次-中美竞争格局深度分析.md"
 ---
 
 # 黄仁勋拆解 AI 五层次：中美竞争格局深度分析

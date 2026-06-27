@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "HAR导出+Chrome插件：Codex网络调试的两种零门槛姿势"
 description: "**「让Agent自给自足地拿到数据，是下一代开发范式的核心」——手工复制粘贴正在成为历史。**  核心判断：Codex/Claude Code调试网络请求的两种方法（HAR导出和Chrome插件）本质上都在解决同一个问题：消除人工介入，让Agent拥有完整的上下文自愈能力。@chrome已经是工具调用进化的早期信号。  要点： - HAR文件导出：Chrome DevTool一键导出，文件路径发"
 resource: "https://x.com/i/status/2060870825771773997"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2060870825771773997"
-created: "2026-05-30"
-updated: "2026-06-26"
-sha256: "55222cdf37793870777417d846edba08579fa5d64d5014a8d27601420daa3f69"
-sources:
-  - "/sources/news/2026-05-31/00__dotey__har导出-chrome插件-codex网络调试的两种零门槛姿势.md"
 ---
 
 # HAR导出+Chrome插件：Codex网络调试的两种零门槛姿势

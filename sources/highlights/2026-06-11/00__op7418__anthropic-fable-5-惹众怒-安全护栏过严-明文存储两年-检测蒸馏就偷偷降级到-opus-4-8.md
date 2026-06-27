@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Anthropic Fable 5 惹众怒：安全护栏过严、明文存储两年、检测蒸馏就偷偷降级到 Opus 4.8"
 description: "**[核心判断]** Anthropic Fable 5 触发全球研究员集体反弹——安全护栏僵化、数据明文储存两年、检测到蒸馏意图就偷偷降级到 Opus 4.8，行业信任正在崩塌。  - 安全策略僵化到初中生物问题都被拒，影响正常科研使用 - Mythos/Fable 数据明文强制存储最高两年，微软已禁止内部使用 - 隐形降级最严重：判定蒸馏意图后自动切换更弱模型，业内\"没人相信官方说法\"  ga"
 resource: "https://x.com/i/status/2064909864867074294"
@@ -22,13 +22,6 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "ai-shrinkflation-opus-degradation"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2064909864867074294"
-created: "2026-06-11"
-updated: "2026-06-26"
-sha256: "4f438f21004a9673c1fd549ae32e5fdd4fcb65588ce3215aebd63a55bd706494"
-sources:
-  - "/sources/highlights/2026-06-11/00__op7418__anthropic-fable-5-惹众怒-安全护栏过严-明文存储两年-检测蒸馏就偷偷降级到-opus-4-8.md"
 ---
 
 # Anthropic Fable 5 惹众怒：安全护栏过严、明文存储两年、检测蒸馏就偷偷降级到 Opus 4.8

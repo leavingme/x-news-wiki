@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Browser Use CLI 2.0：OpenClaw的「对标者」已杀到门口"
 description: "**[Agent浏览器自动化的「平权时刻」]** • 速度翻倍、成本减半，可直接连接运行中的Chrome浏览器，使用原生CDP协议 • 支持Telegram连接与浏览器操作，功能边界与OpenClaw高度重合，竞争白热化 • 释放信号：浏览器自动化工具正从「技术壁垒」转向「体验与生态」之争  当差异化缩小到「谁能连更多平台」时，Agent工具战争的下半场才刚开始。"
 resource: "https://x.com/i/status/2035227312485277793"
@@ -22,13 +22,6 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "agent-browser-token-efficiency"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2035227312485277793"
-created: "2026-03-21"
-updated: "2026-06-26"
-sha256: "a6749910b90d96c69220a514be9d63cf2748f2cee8bd61b79790a106f4a181ba"
-sources:
-  - "/sources/highlights/2026-03-21/00__nash_su__browser-use-cli-2-0-openclaw的-对标者-已杀到门口.md"
 ---
 
 # Browser Use CLI 2.0：OpenClaw的「对标者」已杀到门口

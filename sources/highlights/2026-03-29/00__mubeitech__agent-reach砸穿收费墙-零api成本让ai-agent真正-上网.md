@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Agent Reach砸穿收费墙：零API成本让AI Agent真正「上网」"
 description: "**[一句话核心判断]** Agent Reach用开源方案绕开Twitter/Reddit/YouTube的API收费墙，让中小团队拥有了与大厂同等的信息获取能力。  • **成本重构**：零API费用+无限速率的「真实互联网接入」，直接瓦解了数据垄断者的定价权 • **场景落地**：从实时热点雷达到24h社媒监控机器人，信息情报的平民化门槛被彻底拆除 • **生态影响**：小团队不再因「接口费"
 resource: "https://x.com/i/status/2038026648637878308"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2038026648637878308"
-created: "2026-03-28"
-updated: "2026-06-26"
-sha256: "a1cbc0ea2b96b580cca799ee1d20058a051aff515a671110de9c85c06478df7f"
-sources:
-  - "/sources/highlights/2026-03-29/00__mubeitech__agent-reach砸穿收费墙-零api成本让ai-agent真正-上网.md"
 ---
 
 # Agent Reach砸穿收费墙：零API成本让AI Agent真正「上网」

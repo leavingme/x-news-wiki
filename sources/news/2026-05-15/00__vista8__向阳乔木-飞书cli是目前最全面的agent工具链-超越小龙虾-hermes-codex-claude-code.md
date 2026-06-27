@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "向阳乔木：飞书CLI是目前最全面的Agent工具链，超越小龙虾/Hermes/Codex/Claude Code"
 description: "**一句话核心判断** 飞书CLI被推荐为覆盖最全面的CLI工具，但这个判断本质是个人偏好而非行业共识，对象感错位。  **信息增量** - 飞书CLI安装量和支持工具链的完整性获得开发者认可 - 但「最全面」的定义取决于使用场景，飞书生态外的适用性存疑  **影响评估** - 飞书在Agent工具链的整合上找到了一条差异化的入口 - 对国内开发者有参考价值，海外开发者生态可替代方案更多   ga"
 resource: "https://x.com/i/status/2055095293356720137"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2055095293356720137"
-created: "2026-05-15"
-updated: "2026-06-26"
-sha256: "f3cc49bf688abc85e49077a9587981d5c00194f03c4aebafb7ff951468ed2b06"
-sources:
-  - "/sources/news/2026-05-15/00__vista8__向阳乔木-飞书cli是目前最全面的agent工具链-超越小龙虾-hermes-codex-claude-code.md"
 ---
 
 # 向阳乔木：飞书CLI是目前最全面的Agent工具链，超越小龙虾/Hermes/Codex/Claude Code

@@ -1,23 +1,17 @@
 ---
-type: "entity"
+type: "Author"
 title: "amit (@amitisinvesting)"
 description: "X/Twitter 作者 @amitisinvesting。共收录 1 条 AI 精选推文。"
 tags:
   - "x-news"
   - "author"
   - "author:amitisinvesting"
-timestamp: "2026-06-26T11:53:36.992Z"
+timestamp: "2026-06-27T08:40:40.205Z"
 x_handle: "amitisinvesting"
 x_author_name: "amit"
 x_tweet_count: 1
 x_first_seen: "2026-04-29T19:18:00.831Z"
 x_last_seen: "2026-04-29T19:18:00.831Z"
-type_okf: "Author"
-created: "2026-04-29"
-updated: "2026-06-26"
-sha256: "42f3acd1b6a35c6c4008b13f352eb5a6e77064cfe8d27eceef05e19715a10da8"
-sources:
-  - "/sources/news/2026-04-29/00__amitisinvesting__ai-基础设施股持续碾压预期-市场在用真金白银投票-算力-应用.md"
 ---
 
 # amit (@amitisinvesting)

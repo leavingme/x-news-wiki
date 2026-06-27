@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "宝玉实测：Claude Code 用 HTML 替代 Markdown 后，Agent 输出质量发生了「界面升维」"
 description: "**AI Coding 工具的输出范式正在从「给机器看」转向「给人看」。**  - 宝玉翻译 Thariq 的实战报告，核心发现：Claude Code 中用 HTML 输出比 Markdown 在交互性、可读性、结构化程度上全面胜出 - 这与玉伯的批评形成有趣张力——虽然共识变化快得可疑，但 HTML 在 Agent 工具中的实际表现确实在被验证 - 值得关注的是：当 Claude Code 开"
 resource: "https://x.com/i/status/2052929093461528903"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2052929093461528903"
-created: "2026-05-09"
-updated: "2026-06-26"
-sha256: "e55c46bf24b7c7ebb3e18e63c16107f0eac37866cb6e06836779608668c3b779"
-sources:
-  - "/sources/news/2026-05-09/00__dotey__宝玉实测-claude-code-用-html-替代-markdown-后-agent-输出质量发生了-界面升维.md"
 ---
 
 # 宝玉实测：Claude Code 用 HTML 替代 Markdown 后，Agent 输出质量发生了「界面升维」

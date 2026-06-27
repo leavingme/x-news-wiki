@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "宗教权威首次系统论述AI：教宗通谕成为科技界的必修文献"
 description: "**天主教教宗良十四世发表4.4万词AI通谕，被科技公司和AI研究者立刻研读，主流媒体跟进报道。**  - 这是宗教权威首次以学术论文级别的深度系统介入AI议题，具有文化现象意义 - 通谕质量被评价为「如同芝加哥大学博士论文」，说明内容有真正的智识深度 - 宗教与科技两个原本疏离的话语体系正在加速融合，科技精英研读宗教文献本身就是一个信号  **gakki**：教宗写AI通谕，不是神学复古，而是A"
 resource: "https://x.com/i/status/2059119637506511212"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2059119637506511212"
-created: "2026-05-26"
-updated: "2026-06-26"
-sha256: "309eec045c18451d0ac90f29a59cbc4cbd238d69a1d38af20c3a4bd2fdc39d46"
-sources:
-  - "/sources/news/2026-05-26/00__mranti__宗教权威首次系统论述ai-教宗通谕成为科技界的必修文献.md"
 ---
 
 # 宗教权威首次系统论述AI：教宗通谕成为科技界的必修文献

@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Telegram Bot 上线流式传输：龙虾生态的实时响应体验正式补齐"
 description: "**Telegram 聊天机器人现已支持实时流式输出，无需申请、所有 bot 自动可用，私聊场景下体验显著提升。** - 开启方式极简：发送「打开流式传输」命令即激活 - 仅限私聊，群组暂不支持 - 对于依赖 Telegram 作为 Agent 前端的开发者，这是减少「等待感」的重要基础能力  gakki：流式传输是 LLM 产品的基础体验门槛，Telegram 迟于网页端补上并不意外，但它覆盖的"
 resource: "https://x.com/i/status/2028623533774078180"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2028623533774078180"
-created: "2026-03-03"
-updated: "2026-06-26"
-sha256: "717abcecd8e2b0258d050672db6208ce397de904a017d64c98467d06d129336c"
-sources:
-  - "/sources/news/2026-03-03/00__xiaohu__telegram-bot-上线流式传输-龙虾生态的实时响应体验正式补齐.md"
 ---
 
 # Telegram Bot 上线流式传输：龙虾生态的实时响应体验正式补齐

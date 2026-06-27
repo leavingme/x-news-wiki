@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Claude 生态硬件化：$30 Cardputer 把 Agent 变成「随身实体宠物」"
 description: "**Agent 终端形态正在从纯软件向具身硬件渗透。** - Cardputer 是一款 $29.9 的卡片式设备，Claude 开发者大会赠送给 KOL，可通过 WiFi 连接电脑上的 Claude Code 进行交互 - 支持三种模式：文字问答、语音对讲（按键录音→STT→Claude→TTS 回放）、像素宠物（Claude 思考时屏幕有动画反馈） - 可接入 OpenClaw 生态，实现语音"
 resource: "https://x.com/i/status/2052671863193772228"
@@ -22,13 +22,6 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "agent-ecosystem"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2052671863193772228"
-created: "2026-05-08"
-updated: "2026-06-26"
-sha256: "354c9072cbaa8349701712687880c4f54a5cddee7903c543780d6af9990b4f55"
-sources:
-  - "/sources/news/2026-05-08/00__xiaohu__claude-生态硬件化-30-cardputer-把-agent-变成-随身实体宠物.md"
 ---
 
 # Claude 生态硬件化：$30 Cardputer 把 Agent 变成「随身实体宠物」

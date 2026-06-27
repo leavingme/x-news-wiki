@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "飞书群聊引入多模型机器人互 @：Multi-Agent 讨论原型现身"
 description: "**【一句话核心判断】** 向阳乔木实现 Hermes 多模型机器人同群讨论，是 Multi-Agent 协作的产品化雏形——虽粗糙但方向正确。  **信息增量：** - 同一群聊中部署不同模型机器人，被 @ 后各模型独立回答，可横向对比推理差异 - 正在研究机器人之间互相 @ 讨论——这是从「人问多模型」到「模型自己聊」的关键跃迁 - 实操价值：可以低成本验证不同模型在同一问题上的立场一致性  "
 resource: "https://x.com/i/status/2056174005795926489"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2056174005795926489"
-created: "2026-05-18"
-updated: "2026-06-26"
-sha256: "d72dd9d3f8c508588f16ebbe7dc1d4ff1fbdd57ced8d2a92bd44d5309b5309b8"
-sources:
-  - "/sources/news/2026-05-18/00__vista8__飞书群聊引入多模型机器人互-multi-agent-讨论原型现身.md"
 ---
 
 # 飞书群聊引入多模型机器人互 @：Multi-Agent 讨论原型现身

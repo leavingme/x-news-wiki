@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "HolyClaude开源：Docker一键封装Claude Code生态的「工程品味」"
 description: "**[Claude Code周边工具链的整合能力成为新的开源竞争点]** • HolyClaude将Claude Code+5大AI CLI+无头浏览器打包为Docker镜像，解决「安装即劝退」的Agent工具 Adoption 瓶颈 • 凭证本地存储的设计回应了企业用户对数据主权的敏感诉求 • 50+开发工具预装意味着「开箱即用」正在取代「自行组装」成为Agent基础设施的新标准  这不仅是工具"
 resource: "https://x.com/i/status/2037000487946580233"
@@ -22,13 +22,6 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "claude-code-ecosystem"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2037000487946580233"
-created: "2026-03-26"
-updated: "2026-06-26"
-sha256: "fad898f4cd3fba10062dc1bb04b4d8344b9777210bc0d922f655e42c23c2a634"
-sources:
-  - "/sources/highlights/2026-03-29/00__DiannRudy87765__holyclaude开源-docker一键封装claude-code生态的-工程品味.md"
 ---
 
 # HolyClaude开源：Docker一键封装Claude Code生态的「工程品味」

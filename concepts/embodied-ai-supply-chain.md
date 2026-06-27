@@ -1,28 +1,22 @@
 ---
-type: "concept"
-title: "embodied-ai-supply-chain"
-description: "跨日主题 \"embodied-ai-supply-chain\"，共 4 条相关精选推文。"
+type: "Concept"
+title: "具身 AI 供应链"
+description: "跨日主题 \"具身 AI 供应链\" (embodied-ai-supply-chain)，共 4 条相关精选推文。"
 tags:
   - "x-news"
   - "concept"
   - "topic:embodied-ai-supply-chain"
-timestamp: "2026-06-26T11:53:37.017Z"
+timestamp: "2026-06-27T08:40:42.860Z"
 x_topic_slug: "embodied-ai-supply-chain"
 x_tweet_count: 4
 x_first_seen: "2026-05-02T13:17:57.370Z"
 x_last_seen: "2026-05-06T04:17:50.431Z"
-type_okf: "Concept"
-created: "2026-05-02"
-updated: "2026-06-26"
-sha256: "894f8cf4fa06ca9200afa0413ad3d5f38a149d92bd91a428a84db0655797eb1a"
-sources:
-  - "/sources/highlights/2026-05-04/00__citrini__optimus-执行器占-bom-成本-56-具身智能的真正战场在供应链而非算法.md"
-  - "/sources/news/2026-05-02/00__xiaolonw__meta-收购具身智能初创-ari-从-研究物理-agi-到-需要真正通用的物理-agent.md"
-  - "/sources/news/2026-05-06/00__allen_ai__ai2-发布-molmoact-2-开源机器人模型首次突破-实验室围墙-进入真实家务场景.md"
-  - "/sources/news/2026-05-06/00__xiaohu__波士顿动力-atlas-新视频-人形机器人的-柔韧度天花板-被再次抬高.md"
+x_cn_title_source: "dict"
 ---
 
-# 主题: embodied-ai-supply-chain
+# 主题: 具身 AI 供应链
+
+> slug: `embodied-ai-supply-chain`
 
 本主题下共 **4** 条精选推文。
 

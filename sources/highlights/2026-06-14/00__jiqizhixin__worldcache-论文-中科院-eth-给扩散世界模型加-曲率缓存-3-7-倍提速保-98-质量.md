@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "WorldCache 论文：中科院+ETH 给扩散世界模型加「曲率缓存」，3.7 倍提速保 98% 质量"
 description: "**世界模型的工程重心从「堆参数」转向「按需重算」，推理侧优化开始反超训练侧。**  要点： - 中科院自动化所与 ETH Zurich 联合发布 WorldCache 框架，瞄准扩散类世界模型的 token 级冗余 - 用曲率引导分数（curvature-guided score）识别可预测 token，用阻尼预测器处理混沌 token，仅在瓶颈 token 出现漂移时才触发重算 - 端到端推理"
 resource: "https://x.com/i/status/2066213327563313507"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2066213327563313507"
-created: "2026-06-14"
-updated: "2026-06-26"
-sha256: "907084a1b76bfb5c0d11ba55af38cb7d60ed5fd132b07d0bfb7b15f80d930571"
-sources:
-  - "/sources/highlights/2026-06-14/00__jiqizhixin__worldcache-论文-中科院-eth-给扩散世界模型加-曲率缓存-3-7-倍提速保-98-质量.md"
 ---
 
 # WorldCache 论文：中科院+ETH 给扩散世界模型加「曲率缓存」，3.7 倍提速保 98% 质量

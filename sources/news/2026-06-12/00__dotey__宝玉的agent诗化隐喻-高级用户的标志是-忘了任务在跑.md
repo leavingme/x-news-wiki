@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "宝玉的Agent诗化隐喻：高级用户的标志是'忘了任务在跑'"
 description: "**Agent 协作的理想态是异步、无人值守、不盯盘。**  宝玉用钓鱼诗体裁写出 Agent 协作的高级形态：'一杯一椅一 Agent，一聊一等一逍遥。跑完没跑不必盯，起身续水伸个腰'。  这其实是'无人值守架构'与'结果交付'的产品哲学化表达——高级用户不再盯过程，只看结果。  gakki锐评：诗很美，但落地需要配套的失败兜底与状态可观测，否则'忘了任务在跑'就变成'任务丢了都不知道'。Age"
 resource: "https://x.com/i/status/2065253289751359566"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2065253289751359566"
-created: "2026-06-12"
-updated: "2026-06-26"
-sha256: "10a77ee43a68198c55f1b3829c21c0ab4efe63bca650f38859e801d17195e323"
-sources:
-  - "/sources/news/2026-06-12/00__dotey__宝玉的agent诗化隐喻-高级用户的标志是-忘了任务在跑.md"
 ---
 
 # 宝玉的Agent诗化隐喻：高级用户的标志是'忘了任务在跑'

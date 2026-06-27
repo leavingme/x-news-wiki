@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "ColaOS 开启「社交数据自动收割」：X 上提到它的帖子都会被官网收录"
 description: "**[平台开始用社交提及作为内容源，UGC 自动化进入新阶段]** - ColaOS 将 X 上所有提到它的帖子自动收录到官网，本质上是把社交媒体变成了内容采集管道 - 这种「提及即收录」的模式模糊了用户反馈与官方展示的边界 - 对用户而言，吐槽也会被收录——平台对内容质量的筛选为零  gakki 锐评：这是「Build in Public」的极端变体——你发的每条推都可能成为别人的官网素材。好处"
 resource: "https://x.com/i/status/2049766061982310414"
@@ -22,13 +22,6 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "ai-content-authenticity"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2049766061982310414"
-created: "2026-04-30"
-updated: "2026-06-26"
-sha256: "2bf6343a9a5cd4509b4086afef9584812f1457281f4968bd6bc2a8a8cb69551f"
-sources:
-  - "/sources/news/2026-04-30/00__oran_ge__colaos-开启-社交数据自动收割-x-上提到它的帖子都会被官网收录.md"
 ---
 
 # ColaOS 开启「社交数据自动收割」：X 上提到它的帖子都会被官网收录

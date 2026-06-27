@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "宝玉的Agent开发技术栈推荐：pi-mono成TS首选，Electron仍是应用层霸主"
 description: "**[一句话核心判断]**  宝玉给出TypeScript技术栈Agent开发的具体选型建议：pi-mono功能最强调用最方便，vercel aisdk可作为备选，claude agent sdk因共享Claude Max订阅的、成本优势仍有不可替代性，但长期存在绑定风险。  **信息增量：** - Electron优势在于训练语料充足、稳定性高，缺点是体积大 - 建议从CLI开始做Agent，聚"
 resource: "https://x.com/i/status/2044429284131951084"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2044429284131951084"
-created: "2026-04-15"
-updated: "2026-06-26"
-sha256: "fe2e256a3e3c13ff8af6f267e1e05d26f6ec40ea7ceb41d31c6dc90c77f38d85"
-sources:
-  - "/sources/news/2026-04-16/00__dotey__宝玉的agent开发技术栈推荐-pi-mono成ts首选-electron仍是应用层霸主.md"
 ---
 
 # 宝玉的Agent开发技术栈推荐：pi-mono成TS首选，Electron仍是应用层霸主

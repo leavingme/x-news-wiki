@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "宝玉：Claude Design真正杀死 Figma 的不是 UI，而是 data.js + Git 可版本化"
 description: "**[一句话核心判断]**宝玉指出 Claude Design输出的 HTML+CSS+React+data.js 是「全文本可 Git」的，这套组合对 AI协作的友好度远胜 Figma。  **要点：** - 输出结构：HTML/CSS（设计系统）/ React（组件结构）/ data.js（数据结构）三件套可解耦 -关键差异化：data.js 是 Figma完全没有的「数据契约」层，直接告诉开"
 resource: "https://x.com/i/status/2064863783349317762"
@@ -22,13 +22,6 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "claude-design-tool"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2064863783349317762"
-created: "2026-06-11"
-updated: "2026-06-26"
-sha256: "b4ccfefd7c2e8b3043d4bc8b53b244a1ff1317efe0948a0f1b0fb8dd20e45b05"
-sources:
-  - "/sources/highlights/2026-06-11/00__dotey__宝玉-claude-design真正杀死-figma-的不是-ui-而是-data-js-git-可版本化.md"
 ---
 
 # 宝玉：Claude Design真正杀死 Figma 的不是 UI，而是 data.js + Git 可版本化

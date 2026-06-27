@@ -1,27 +1,17 @@
 ---
-type: "entity"
+type: "Author"
 title: "Xiao Tan (@tvytlx)"
 description: "X/Twitter 作者 @tvytlx。共收录 5 条 AI 精选推文。"
 tags:
   - "x-news"
   - "author"
   - "author:tvytlx"
-timestamp: "2026-06-26T11:53:36.960Z"
+timestamp: "2026-06-27T08:40:40.168Z"
 x_handle: "tvytlx"
 x_author_name: "Xiao Tan"
 x_tweet_count: 5
 x_first_seen: "2026-03-16T02:56:01.957Z"
 x_last_seen: "2026-04-15T00:44:46.027Z"
-type_okf: "Author"
-created: "2026-03-16"
-updated: "2026-06-26"
-sha256: "f676b3e6f9dca640b3172a031be0f381a4f735372933a34ca62fefd8550cb520"
-sources:
-  - "/sources/highlights/2026-03-16/00__tvytlx__meta裁员20-背后的-知识萃取-剧本-ai时代的人机替换工程化.md"
-  - "/sources/highlights/2026-03-19/00__tvytlx__garry-tan开源gstack-60天60万行代码背后的-ai员工舰队-管理术.md"
-  - "/sources/highlights/2026-03-20/00__tvytlx__anthropic-工程师文化-碾压openai-7天10-功能发布-vs-7天1次模型更新.md"
-  - "/sources/news/2026-04-05/00__tvytlx__claude-code-架构拆解-v2-1-记忆系统单独成章-架构演进进入深水区.md"
-  - "/sources/news/2026-04-15/00__tvytlx__宝玉claude-code架构解析日涨2k星-开源社区正在用-拆解-替代-复制.md"
 ---
 
 # Xiao Tan (@tvytlx)

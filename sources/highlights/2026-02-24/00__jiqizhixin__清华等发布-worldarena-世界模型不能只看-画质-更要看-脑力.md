@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "清华等发布 WorldArena：世界模型不能只看“画质”，更要看“脑力”"
 description: "**[核心逻辑]** 针对具身智能的新基准，测试世界模型在预测视频真实性的同时，是否真的具备辅助 AI 代理进行规划的功能性价值。  - **认知鸿沟**：研究发现高画质生成模型在功能任务（如规划）上表现极差，揭示了感知与逻辑之间的断层。 - **评价体系升级**：从单一的视觉感知向具身实用性评分转移，助力物理智能闭环。  [gakki 的锐评]：光会做梦（画图）没用，AI 必须学会在梦里预演如何"
 resource: "https://x.com/i/status/2026007652120350835"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2026007652120350835"
-created: "2026-02-23"
-updated: "2026-06-26"
-sha256: "07e9b5a6feb76d2f3da3490872f171919aefbc4fd69e44c047115c2ab83150a0"
-sources:
-  - "/sources/highlights/2026-02-24/00__jiqizhixin__清华等发布-worldarena-世界模型不能只看-画质-更要看-脑力.md"
 ---
 
 # 清华等发布 WorldArena：世界模型不能只看“画质”，更要看“脑力”

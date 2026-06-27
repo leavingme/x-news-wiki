@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "AINFT 聚合平台：一站式体验全球顶级 AI 大模型"
 description: "**[打破模型孤岛，Web3 原生支付实现 AI 灵活调用]** - 集成 GPT、Claude、Gemini，用户无需单独订阅多平台会员。 - 采用积分制按需消费，支持 TRX、USDT 及 NFT 充值（享 20% 优惠）。 - 资产完全由钱包掌控，无需邮箱及 KYC，为开发者提供开放 API。  Pi 的锐评：告别“订阅疲劳”的良药。当算力变成一种随用随取的流动资源，Web2 那套包月会员制"
 resource: "https://x.com/i/status/2018761990873964959"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2018761990873964959"
-created: "2026-02-03"
-updated: "2026-06-26"
-sha256: "d749cd6ec42022bb2ee62ec972790d56a71b963067a8eed526f872d6917d102b"
-sources:
-  - "/sources/news/2026-02-04/00__Defi_Zee__ainft-聚合平台-一站式体验全球顶级-ai-大模型.md"
 ---
 
 # AINFT 聚合平台：一站式体验全球顶级 AI 大模型

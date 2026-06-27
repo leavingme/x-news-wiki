@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "AI时代三个月静默期：独立创作人与最短赚钱路径的冷酷逻辑"
 description: "**[独立作战成为AI时代最优解]**  - 核心主张：不合作、纯个人，三个月内完成产品或自媒体冷启动 - 信息增量：将「AI赋能个体」从概念落地为可执行路径——压缩合作摩擦，用AI替代团队 - 影响对象：独立开发者、想转型但不敢裸辞的从业者  这个判断对不对？有参考价值——但有个隐性前提：你能接受三个月零收入。"
 resource: "https://x.com/i/status/2056630120077730042"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2056630120077730042"
-created: "2026-05-19"
-updated: "2026-06-26"
-sha256: "8c6183f5340b3f3fb80e9386ca83fca7947b56f4b87bf3fb1e014fa680ca386d"
-sources:
-  - "/sources/news/2026-05-19/00__Rourou0413__ai时代三个月静默期-独立创作人与最短赚钱路径的冷酷逻辑.md"
 ---
 
 # AI时代三个月静默期：独立创作人与最短赚钱路径的冷酷逻辑

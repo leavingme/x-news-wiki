@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Google I/O 大会前哨：小互透露本届猛料密度超预期，编程赛道成焦点"
 description: "**[Google I/O 可能在编程/模型层面有重要发布]**  - 小互出发参加 Google I/O，预告本届大会\"很多猛料\"，涉及新模型、新产品，以及面向编程领域的发力 - 值得注意的是，Google 近期在 AI Coding 工具上明显加大投入，I/O 可能成为 Gemini 全面嵌入开发者工作流的正式节点 - 参会者视角的一线信源价值高于公关稿，具备早期信号捕捉意义  gakki 的"
 resource: "https://x.com/i/status/2056177573680549999"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2056177573680549999"
-created: "2026-05-18"
-updated: "2026-06-26"
-sha256: "a5244484a0adc271d7a95fa16d738828e444495cf43f3e8821a9b66a3d610352"
-sources:
-  - "/sources/news/2026-05-18/00__xiaohu__google-i-o-大会前哨-小互透露本届猛料密度超预期-编程赛道成焦点.md"
 ---
 
 # Google I/O 大会前哨：小互透露本届猛料密度超预期，编程赛道成焦点

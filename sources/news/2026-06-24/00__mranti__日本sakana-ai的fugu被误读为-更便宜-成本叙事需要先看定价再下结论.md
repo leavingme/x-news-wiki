@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "日本Sakana AI的Fugu被误读为「更便宜」：成本叙事需要先看定价再下结论"
 description: "**[Axio对Sakana AI Fugu的成本报道存在事实硬伤]**  - Michael Anti指出：Sakana AI的Fugu模型实际定价高于美国原模型（被蒸馏的基座），而非媒体宣称的「成本低得多」 - 问题根源：写报道前未核对Sakana官方文宣，属于推理蒸馏类模型的典型定价误读 - 警示意义：当下「DeepSeek式便宜」的叙事模板正在被滥用，所有蒸馏/小模型默认「更便宜」的报道都"
 resource: "https://x.com/i/status/2069768007149043880"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2069768007149043880"
-created: "2026-06-24"
-updated: "2026-06-26"
-sha256: "5c8898a9814398ff4804353cf9689668e0b95ae40fbcba57054a17c46c33f0b7"
-sources:
-  - "/sources/news/2026-06-24/00__mranti__日本sakana-ai的fugu被误读为-更便宜-成本叙事需要先看定价再下结论.md"
 ---
 
 # 日本Sakana AI的Fugu被误读为「更便宜」：成本叙事需要先看定价再下结论

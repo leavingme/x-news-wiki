@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Codex Record & Replay：把「演示一遍」凝成可复用 Skill，工作流从「写说明书」走向「做给我看」"
 description: "Codex Record & Replay 让 Mac 用户演示一次操作就生成可复用 Skill，把「难以文字描述的工作流」降到零门槛录制。  录制完成后 Codex 自动分析生成包含触发条件、输入参数、执行步骤、验证方式的 Skill 文件，可检查可编辑非黑盒；Replay 时换参数即可重新执行，从「演示」到「执行」闭环打通。  当前仅限 macOS，欧盟地区暂不可用，使用前需开启 Comput"
 resource: "https://x.com/i/status/2067699358586253663"
@@ -22,13 +22,6 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "codex-cli-tool-encapsulation"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2067699358586253663"
-created: "2026-06-18"
-updated: "2026-06-26"
-sha256: "bbea25fbdc6fb4da53f7ff2c250a8c02ae7ff45bf2bc5f6b419270b1d336d264"
-sources:
-  - "/sources/highlights/2026-06-18/00__dotey__codex-record-replay-把-演示一遍-凝成可复用-skill-工作流从-写说明书-走向-做给我看.md"
 ---
 
 # Codex Record & Replay：把「演示一遍」凝成可复用 Skill，工作流从「写说明书」走向「做给我看」

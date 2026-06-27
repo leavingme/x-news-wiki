@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "AI Agent进入\"业绩裸奔\"时代：Recall用透明排名把叙事价值清零"
 description: "**一句话：可验证的客观性能正在取代声誉和背景，成为Agent价值的新度量衡。**  Recall的AI代理加密货币交易竞赛提供了一套标准化验证机制——统一部署环境、实时数据API和客观评估指标，所有开发者站在同一起跑线。  核心变化在于：Agent的价值锚点从\"谁在站台、谁有故事\"转向\"策略代码实盘结果是什么\"。这对于真正有能力的开发者是最大尊重，对于依赖营销的套壳项目是致命打击。  这是一个赛"
 resource: "https://x.com/i/status/1964527494863671504"
@@ -22,13 +22,6 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "agent-trading-agent-survival-rate"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/1964527494863671504"
-created: "2025-09-07"
-updated: "2026-06-26"
-sha256: "50e751e333f98c4eeaac9e58d58b660eda84dbed902633e3c176c0adb8359867"
-sources:
-  - "/sources/highlights/2026-04-18/00__JuliiStagnaro__ai-agent进入-业绩裸奔-时代-recall用透明排名把叙事价值清零.md"
 ---
 
 # AI Agent进入"业绩裸奔"时代：Recall用透明排名把叙事价值清零

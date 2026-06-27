@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "语音对话系统的 MCP 化改造：从「能聊」到「能跨平台协作」"
 description: "**[多模态 Agent 的轻量级集成范式]** • opus4.6 API + MCP 接入，实现语音消息的双向跨平台流转 • 验证了「核心对话能力 + 标准化协议」的模块化架构可行性 • 暗示个人 Agent 的「社交图谱扩展」路径：通过协议而非封闭生态  gakki：这种「小系统+标准协议」的拼装模式，是 Agent 时代个体开发者的最优解——低成本、高组合性、快速迭代。"
 resource: "https://x.com/i/status/2037927679689982064"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2037927679689982064"
-created: "2026-03-28"
-updated: "2026-06-26"
-sha256: "6b481a5b23c6472160ff4ed6cee5441ee3fbe185124e0b2d1d9542983908be1d"
-sources:
-  - "/sources/news/2026-03-28/00__zimokiooo__语音对话系统的-mcp-化改造-从-能聊-到-能跨平台协作.md"
 ---
 
 # 语音对话系统的 MCP 化改造：从「能聊」到「能跨平台协作」

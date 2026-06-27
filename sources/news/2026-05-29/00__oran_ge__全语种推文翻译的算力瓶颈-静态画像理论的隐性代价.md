@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "全语种推文翻译的算力瓶颈：静态画像理论的隐性代价"
 description: "**[核心判断] 推文全语种翻译的算力成本远超直觉想象，这暴露了AI规模化应用中的一个被低估的经济约束。**  - 将所有推文翻译成全语种意味着 N 条推文 × M 种语言 = 指数级算力消耗 - 这种成本在讨论\"静态画像\"或内容全球化分发的理论时往往被忽视 - 推理侧的多语言输出并非免费——每个 token 都有真实的货币成本  gakki 说：算力约束是 AI 应用的隐性天花板，很多\"理论上很"
 resource: "https://x.com/i/status/2060362600597340553"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2060362600597340553"
-created: "2026-05-29"
-updated: "2026-06-26"
-sha256: "7ed300227096226f3df9c5ccb3545b5fe7ba70a71269b8394218d621059806a9"
-sources:
-  - "/sources/news/2026-05-29/00__oran_ge__全语种推文翻译的算力瓶颈-静态画像理论的隐性代价.md"
 ---
 
 # 全语种推文翻译的算力瓶颈：静态画像理论的隐性代价

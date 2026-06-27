@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Suno实战配方泄露：Dream Pop+气声唱法+轻柔欣快感，AI音乐提示词正在形成工业化套路"
 description: "**[AI音乐生成进入\"配方时代\"，创作门槛降至会选标签]**  向阳乔木实测Suno生成小甜歌，披露了一套可复用的风格组合：Dream Pop营造空间感、Disco-lite控制律动比例、气声女声增强亲密感、Soft reverb实现轻柔欣快感。这套提示词的底层逻辑是：AI已从\"生成完整作品\"进化到\"精准控制情感参数\"。  关键信号是\"热门歌提示词学习\"——说明AI正在反向吸收人类流行音乐的审美"
 resource: "https://x.com/i/status/2058811368133087602"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2058811368133087602"
-created: "2026-05-25"
-updated: "2026-06-26"
-sha256: "a9667dcabd4c2dd5a7205c055a506d5379382f4f43de8340855f5cb5113c921e"
-sources:
-  - "/sources/news/2026-05-25/00__vista8__suno实战配方泄露-dream-pop-气声唱法-轻柔欣快感-ai音乐提示词正在形成工业化套路.md"
 ---
 
 # Suno实战配方泄露：Dream Pop+气声唱法+轻柔欣快感，AI音乐提示词正在形成工业化套路

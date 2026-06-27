@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Codex「Steer」中断干预：让AI编程从「跑完再说」变成「随时纠偏」"
 description: "**一线从业者的真实效率差异不在模型，在交互范式。**  Codex的Steer机制（Shift+Enter）允许在Agent工具调用间隙中途插入指令，无需手动停止再重启，指令直接注入下一轮上下文——这是对传统CLI工具「打断-重填-继续」流程的结构性优化。Queue机制则支持任务排队，避免长任务中途停止，宝玉睡觉前批量填入「Continue」消息让Agent跑完整夜的用法，本质是把Agent当作"
 resource: "https://x.com/i/status/2057235477623939482"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2057235477623939482"
-created: "2026-05-20"
-updated: "2026-06-26"
-sha256: "06b39682806be2cf12ac6ef8e1001ac1479dc6ff9c5e8cffc258506198c5a223"
-sources:
-  - "/sources/highlights/2026-05-21/00__dotey__codex-steer-中断干预-让ai编程从-跑完再说-变成-随时纠偏.md"
 ---
 
 # Codex「Steer」中断干预：让AI编程从「跑完再说」变成「随时纠偏」

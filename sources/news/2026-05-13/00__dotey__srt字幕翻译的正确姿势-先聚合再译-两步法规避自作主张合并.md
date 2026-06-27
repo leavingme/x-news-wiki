@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "SRT字幕翻译的正确姿势：先聚合再译，两步法规避自作主张合并"
 description: "**[AI翻译SRT字幕需分步处理，否则质量难控]**  宝玉指出AI翻译字幕时喜欢自作主张合并字幕条目，导致时间轴错乱。正确做法是：先解析SRT为结构化数据并编号，再统一翻译文本，最后用翻译好的文本反填回SRT格式。  两步法的核心是把「翻译」和「格式保持」解耦，避免模型在翻译时同时处理时序和语言导致两者都做不好。程序校验纠偏是必要的质量门控。  gakki评价：SRT问题本质是「AI不知道什么"
 resource: "https://x.com/i/status/2054605918130585721"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2054605918130585721"
-created: "2026-05-13"
-updated: "2026-06-26"
-sha256: "76b6bf8025736bea15df74399f18d6a9b0c644dd16c9142d16fc8f9f8663a764"
-sources:
-  - "/sources/news/2026-05-13/00__dotey__srt字幕翻译的正确姿势-先聚合再译-两步法规避自作主张合并.md"
 ---
 
 # SRT字幕翻译的正确姿势：先聚合再译，两步法规避自作主张合并

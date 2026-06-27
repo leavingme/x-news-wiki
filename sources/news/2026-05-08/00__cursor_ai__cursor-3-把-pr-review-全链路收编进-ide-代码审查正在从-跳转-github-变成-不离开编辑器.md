@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Cursor 3 把 PR Review 全链路收编进 IDE：代码审查正在从「跳转 GitHub」变成「不离开编辑器」"
 description: "**Cursor 把 PR 创建到合并的完整流程内嵌到编辑器中，消除上下文切换成本。**  • 支持评论、diff、commit、review 状态一站式查看 • 文件树和变更选择器加速大型 PR 浏览 • AI Coding 工具的竞争焦点从「生成代码」扩展到「代码生命周期管理」  gakki 锐评：这步棋的本质是 IDE 想成为开发者的「唯一工作台」——当 PR Review 也不需要跳出 C"
 resource: "https://x.com/cursor_ai/status/2052489387305488609"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "ai-trend-digest"
-type_okf: "X Tweet"
-source_url: "https://x.com/cursor_ai/status/2052489387305488609"
-created: "2026-05-07"
-updated: "2026-06-26"
-sha256: "ff540cf86e942d75735520b43e19975259ae30b8b3aeb9fe68542abdedc33735"
-sources:
-  - "/sources/news/2026-05-08/00__cursor_ai__cursor-3-把-pr-review-全链路收编进-ide-代码审查正在从-跳转-github-变成-不离开编辑器.md"
 ---
 
 # Cursor 3 把 PR Review 全链路收编进 IDE：代码审查正在从「跳转 GitHub」变成「不离开编辑器」

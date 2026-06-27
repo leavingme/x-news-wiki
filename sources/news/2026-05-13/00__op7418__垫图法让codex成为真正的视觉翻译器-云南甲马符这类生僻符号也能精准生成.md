@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "垫图法让Codex成为真正的视觉翻译器：云南甲马符这类生僻符号也能精准生成"
 description: "**Codex/GPT生图在生僻事实（如地方民俗符号）上容易失真，但「先搜图再垫图生成」的workflow可以完美解决。**  - 先让模型搜索相关真实图片，基于真实图片再生成——保证真实性的同时满足比例/高清要求 - 云南甲马符这类GPT完全不知道长什么样的内容，垫图后效果接近专业设计 - 这套workflow本质是把AI图像生成从「文字想象」升级为「视觉参考+AI再创作」  对于需要配图的内容"
 resource: "https://x.com/i/status/2054491392261632448"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2054491392261632448"
-created: "2026-05-13"
-updated: "2026-06-26"
-sha256: "7482612d5190b3f605f26d343006c2f4fd34c432a08647d2a107a592786f5322"
-sources:
-  - "/sources/news/2026-05-13/00__op7418__垫图法让codex成为真正的视觉翻译器-云南甲马符这类生僻符号也能精准生成.md"
 ---
 
 # 垫图法让Codex成为真正的视觉翻译器：云南甲马符这类生僻符号也能精准生成

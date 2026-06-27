@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "朋友让AI炒股三月赚50%：正反馈循环正在把更多人变成\"甩手掌柜\""
 description: "**[AI决策代理化的真实案例：正反馈已形成]**  第二位朋友将所有投资决策交给Agent，三个月收益率50%。这意味着AI荐股的正反馈循环已开始在普通用户中扩散。不同于量化交易的机构属性，这类案例代表了个人用户对AI决策信任度的质变。  关键变量：50%收益率在三个月内——这个正反馈强度足以驱动行为改变。一旦身边出现成功案例，模仿效应会加速扩散。  值得追踪：这是否代表AI经济自主权的微观信号"
 resource: "https://x.com/i/status/2045260146180506017"
@@ -22,13 +22,6 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "ai-dominant-market-yield-over-price"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2045260146180506017"
-created: "2026-04-17"
-updated: "2026-06-26"
-sha256: "dbd18b9a057aa28260a288e98c81c0972ad1590d1fad7464278b9e9d50d04876"
-sources:
-  - "/sources/news/2026-04-18/00__oran_ge__朋友让ai炒股三月赚50-正反馈循环正在把更多人变成-甩手掌柜.md"
 ---
 
 # 朋友让AI炒股三月赚50%：正反馈循环正在把更多人变成"甩手掌柜"

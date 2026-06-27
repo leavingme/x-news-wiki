@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Recall、BOB、Velora：三个「锚点」正在撑开下一代 Web3 叙事空间"
 description: "**[Web3 的真正边界不是靠白皮书撕开的，是靠这几个具体的东西]**  三个项目代表了三种不同的「现实入口」：  - Recall：链上声誉协议 + 竞赛质押，声誉即货币 - BOB：BitVM 桥接 BTC 进以太坊，BTC 从「放着不动」变成「一键进 DeFi」 - Velora：DEX 意图引擎，用户描述需求而非填写订单  共同指向：Web3 的问题不再是「技术能不能做到」，而是「谁来设"
 resource: "https://x.com/i/status/1965945952008851720"
@@ -22,13 +22,6 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "agent-trading-agent-survival-rate"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/1965945952008851720"
-created: "2025-09-11"
-updated: "2026-06-26"
-sha256: "07b714446b051b39bc59166fb4b919cf9962896cb131e0c4fa54870874d19931"
-sources:
-  - "/sources/news/2026-04-14/00__cryptotommy1227__recall-bob-velora-三个-锚点-正在撑开下一代-web3-叙事空间.md"
 ---
 
 # Recall、BOB、Velora：三个「锚点」正在撑开下一代 Web3 叙事空间

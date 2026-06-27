@@ -1,25 +1,22 @@
 ---
-type: "concept"
-title: "openai-product-strategy-shift"
-description: "跨日主题 \"openai-product-strategy-shift\"，共 1 条相关精选推文。"
+type: "Concept"
+title: "OpenAI 产品策略转向"
+description: "跨日主题 \"OpenAI 产品策略转向\" (openai-product-strategy-shift)，共 1 条相关精选推文。"
 tags:
   - "x-news"
   - "concept"
   - "topic:openai-product-strategy-shift"
-timestamp: "2026-06-26T11:53:37.018Z"
+timestamp: "2026-06-27T08:40:42.862Z"
 x_topic_slug: "openai-product-strategy-shift"
 x_tweet_count: 1
 x_first_seen: "2026-05-05T10:18:00.693Z"
 x_last_seen: "2026-05-05T10:18:00.693Z"
-type_okf: "Concept"
-created: "2026-05-05"
-updated: "2026-06-26"
-sha256: "ccef310bd67695cde1fb8f8dc50d339c4ccafd29a12dd4a5a607ea3cc81bfeb0"
-sources:
-  - "/sources/highlights/2026-05-05/00__ShishirShelke1__openai-智能手机细节曝光-mediatek-定制芯片-双-npu-架构-2027年量产目标3000万台.md"
+x_cn_title_source: "dict"
 ---
 
-# 主题: openai-product-strategy-shift
+# 主题: OpenAI 产品策略转向
+
+> slug: `openai-product-strategy-shift`
 
 本主题下共 **1** 条精选推文。
 

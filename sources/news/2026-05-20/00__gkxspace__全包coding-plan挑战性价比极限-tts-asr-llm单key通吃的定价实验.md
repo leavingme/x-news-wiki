@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "全包coding plan挑战性价比极限：TTS/ASR/LLM单key通吃的定价实验"
 description: "**一句话：一个订阅覆盖TTS（超ElevenLabs中文）、ASR（比豆包便宜6倍）、LLM（无明显延迟），是AI工具订阅整合的激进实验——但复杂代码任务仍然是短板，说明通用Agent的商业化路径还在调试。**  要点： - 中文TTS效果超越ElevenLabs且价格更低，说明中文语音合成市场已经开始价格战 - ASR成本压缩6倍，指向端侧ASR模型正在快速商品化 - \"做复杂任务不行\"的自我"
 resource: "https://x.com/i/status/2057099608942162430"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2057099608942162430"
-created: "2026-05-20"
-updated: "2026-06-26"
-sha256: "9943bd6b98d5e009f863c6895a0758b051f24f193750e5935cf7e8007b8c0094"
-sources:
-  - "/sources/news/2026-05-20/00__gkxspace__全包coding-plan挑战性价比极限-tts-asr-llm单key通吃的定价实验.md"
 ---
 
 # 全包coding plan挑战性价比极限：TTS/ASR/LLM单key通吃的定价实验

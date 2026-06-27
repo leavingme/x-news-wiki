@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "OpenClaw 2026.5.4 发布：插件安装体验优化、Gateway 启动加速、Windows 稳定性修复"
 description: "**OpenClaw 持续打磨基础设施层，从「能用」向「好用」演进。**  - 插件安装与更新流程更干净，降低新用户上手门槛 - Gateway 启动路径优化，冷启动速度提升 - Windows 平台 + Discord 集成可靠性修复，补齐跨平台短板  这是 OpenClaw 生态持续迭代的信号：当核心引擎趋于稳定，打磨体验比加功能更重要。"
 resource: "https://x.com/openclaw/status/2051582130417721696"
@@ -22,13 +22,6 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "hermes-agent-stability-comparison"
 x_source: "ai-trend-digest"
-type_okf: "X Tweet"
-source_url: "https://x.com/openclaw/status/2051582130417721696"
-created: "2026-05-05"
-updated: "2026-06-26"
-sha256: "0cc7ffac44ec6ffb313ae8e1287d4cbc9d0b98b8ddf18f0a3aae74ef15d7f195"
-sources:
-  - "/sources/news/2026-05-05/00__openclaw__openclaw-2026-5-4-发布-插件安装体验优化-gateway-启动加速-windows-稳定性修复.md"
 ---
 
 # OpenClaw 2026.5.4 发布：插件安装体验优化、Gateway 启动加速、Windows 稳定性修复

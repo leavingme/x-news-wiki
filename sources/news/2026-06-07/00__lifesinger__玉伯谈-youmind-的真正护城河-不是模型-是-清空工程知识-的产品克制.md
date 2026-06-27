@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "玉伯谈 YouMind 的真正护城河:不是模型,是\"清空工程知识\"的产品克制"
 description: "**玉伯明确 YouMind 对比 Codex/Claude Code 的核心优势不在模型,而在\"清空工程知识\"后的产品形态差异。**  - 第一性差异:门槛与人群反转。能用好 Codex 的往往是有工程背景的人,能用好 YouMind 的反而是非程序员 - 第二性差异:模型自由 +交易/社区新形态探索,正在荒漠中试错,目标是构建新的\"国土\" -玉伯的判断金句:\"模型之上并无太多新鲜事\",真正的差"
 resource: "https://x.com/i/status/2063625661361881144"
@@ -22,13 +22,6 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "ai-knowledge-tool-competition"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2063625661361881144"
-created: "2026-06-07"
-updated: "2026-06-26"
-sha256: "03d895a99fa34d55905fd075ac0efa1b7fa5df196498edb63f5e864468a2d07d"
-sources:
-  - "/sources/news/2026-06-07/00__lifesinger__玉伯谈-youmind-的真正护城河-不是模型-是-清空工程知识-的产品克制.md"
 ---
 
 # 玉伯谈 YouMind 的真正护城河:不是模型,是"清空工程知识"的产品克制

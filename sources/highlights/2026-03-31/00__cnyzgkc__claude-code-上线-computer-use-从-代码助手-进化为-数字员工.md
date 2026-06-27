@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Claude Code 上线 Computer Use：从「代码助手」进化为「数字员工」"
 description: "**[Claude Code 正式获得「眼睛和手」，Agent 操控 GUI 进入生产级阶段]**  • Anthropic 为 Claude Code 新增 computer use 功能，可直接控制 macOS 桌面：打开应用、点击、输入、截图，实现端到端的 GUI 自动化 • 典型场景覆盖：UI 测试自动化、视觉 bug 调试、跨应用工作流编排——标志着 Agent 从「代码层」下沉到「系统"
 resource: "https://x.com/i/status/2038771171886534691"
@@ -22,13 +22,6 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "claude-code-natural-language-workflow"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2038771171886534691"
-created: "2026-03-31"
-updated: "2026-06-26"
-sha256: "205f4a4c7784f13f5b23c425f63b16fb96808f6f28abc42079393707d5e31d61"
-sources:
-  - "/sources/highlights/2026-03-31/00__cnyzgkc__claude-code-上线-computer-use-从-代码助手-进化为-数字员工.md"
 ---
 
 # Claude Code 上线 Computer Use：从「代码助手」进化为「数字员工」

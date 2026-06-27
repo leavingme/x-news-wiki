@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "4GB Ubuntu 养出 AI Native 小孩：硬件限制反而是教育的设计"
 description: "**[ 用 4GB 内存的 Ubuntu 电脑养小孩，看不见游戏才能专注编程 ]**  Michael Anti 分享了一个反直觉的教育实验：从 4 岁开始给儿子凯恩用 4GB 内存的 Ubuntu 电脑，限制死无法玩游戏，只能编程和创作。只有做出能发布的 App 或游戏，才给换大电脑。  底层逻辑：AI Native 的养成不靠更多资源，而靠边界约束——4GB 内存是一个「强制聚焦」的设计，让小"
 resource: "https://x.com/i/status/2046437128100589927"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2046437128100589927"
-created: "2026-04-21"
-updated: "2026-06-26"
-sha256: "449a9be13daf0058e63bf323bc3255d2d5ef0ccd4ed9c57d1e3b77d5d2ddb652"
-sources:
-  - "/sources/news/2026-04-21/00__mranti__4gb-ubuntu-养出-ai-native-小孩-硬件限制反而是教育的设计.md"
 ---
 
 # 4GB Ubuntu 养出 AI Native 小孩：硬件限制反而是教育的设计

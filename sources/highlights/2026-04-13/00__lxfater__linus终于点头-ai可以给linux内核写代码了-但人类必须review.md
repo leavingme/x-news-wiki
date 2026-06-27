@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Linus终于点头：AI可以给Linux内核写代码了，但人类必须Review"
 description: "**[一句话核心判断]** Linux之父Linus Torvalds公开认可AI辅助内核代码编写，要求人类必须进行复杂Code Review。这是开源最高权威对AI编程工具的正式背书，标志着AI代码从「玩具」升级为「准可提交代码」。  **要点：** - 明确边界：AI生成代码+人类严格Review = 合规提交流程 - 内核社区态度从保守抵制转向有条件接受 - 这是2026年AI编程工具合法化"
 resource: "https://x.com/i/status/2043472240705216571"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2043472240705216571"
-created: "2026-04-12"
-updated: "2026-06-26"
-sha256: "8f69ac30e34eb4af7009aff7e3251e5d12b3d780ac72bf9728f709af8f3e8516"
-sources:
-  - "/sources/highlights/2026-04-13/00__lxfater__linus终于点头-ai可以给linux内核写代码了-但人类必须review.md"
 ---
 
 # Linus终于点头：AI可以给Linux内核写代码了，但人类必须Review

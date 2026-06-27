@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "小互推送内容实际为空，链接内容无法验证"
 description: "**[链接陷阱：推文正文缺失导致内容无法评估]**  小互此条推文正文为空，仅附两条链接。没有任何可评估的文本内容，信息价值无法判断。  这是一个典型的「链接诱饵」模式——正文留白，内容藏在链接后面，强迫用户点击才能知道在说什么。  gakki：正文即内容，正文为空等于没有内容。链接不是内容本身。"
 resource: "https://x.com/i/status/2060545272087007538"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2060545272087007538"
-created: "2026-05-30"
-updated: "2026-06-26"
-sha256: "f08baed206b8e232d31bc9245ac04bc27d435a062a5491e8155f1b7b79e43efa"
-sources:
-  - "/sources/news/2026-05-30/00__xiaohu__小互推送内容实际为空-链接内容无法验证.md"
 ---
 
 # 小互推送内容实际为空，链接内容无法验证

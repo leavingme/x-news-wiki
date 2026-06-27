@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "多模型分工作业已成现实：Grok 搜索、Claude 报税、Codex GPT-5.5 写代码"
 description: "**[单一 AI 全能的时代结束了，用户正在自发构建多模型工作流]** - 铁锤人展示了真实的多模型分工模式：Grok 负责搜索（信息获取）、Claude Desktop 负责表单/报税/知识库（结构化任务）、Claude Code 负责写作（创意输出）、Codex GPT-5.5 负责编程（工程执行） - 每个模型被分配到其擅长的场景，而非追求一个模型解决所有问题 - 这种「场景-模型匹配」的使"
 resource: "https://x.com/i/status/2049782414323388714"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2049782414323388714"
-created: "2026-04-30"
-updated: "2026-06-26"
-sha256: "d1af08d0d117a0c86e4bd25ba318a7f3167e7ed039fab940e3632b3629766fdf"
-sources:
-  - "/sources/news/2026-04-30/00__lxfater__多模型分工作业已成现实-grok-搜索-claude-报税-codex-gpt-5-5-写代码.md"
 ---
 
 # 多模型分工作业已成现实：Grok 搜索、Claude 报税、Codex GPT-5.5 写代码

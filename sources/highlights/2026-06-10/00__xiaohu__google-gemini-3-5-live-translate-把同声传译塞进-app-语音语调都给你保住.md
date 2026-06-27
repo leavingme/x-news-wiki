@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Google Gemini 3.5 Live Translate：把同声传译塞进 App，语音语调都给你保住"
 description: "**Google 把同声传译从「会议同传设备」压缩成一行 API。** - Gemini 3.5 Live Translate 支持 70+ 语言边听边译，全程只比说话人慢几秒，无需提前指定源语； - 说话人的语调、节奏、音高被保留（这才是真正难的部分——过去实时翻译全是一个 TTS 机器音）； - 自动噪声过滤 + 新增「听筒模式」贴耳即听，已在 Google Translate App 上线，"
 resource: "https://x.com/i/status/2064626905169760379"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2064626905169760379"
-created: "2026-06-10"
-updated: "2026-06-26"
-sha256: "55b3ca1c346970ed8ce138af979d21d97cfe14f94813e8f4dc810b14a9ecd29a"
-sources:
-  - "/sources/highlights/2026-06-10/00__xiaohu__google-gemini-3-5-live-translate-把同声传译塞进-app-语音语调都给你保住.md"
 ---
 
 # Google Gemini 3.5 Live Translate：把同声传译塞进 App，语音语调都给你保住

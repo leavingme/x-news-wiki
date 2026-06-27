@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "刘小排预判：GPT-5.6不会在Fable 5回归前发布，OpenAI惯于后发制人"
 description: "**前OpenAI员工刘小排基于对老东家风格的了解，判断GPT-5.6会等待Fable 5回归后才会发布。**  - OpenAI历史上多次采取\"后发制人\"策略，等对手亮出绝招后立刻掏出更强模型打击士气 - Fable 5的回归被视为重要节点，GPT-5.6可能需要避开直接竞争窗口 - 这种节奏感是OpenAI产品发布的核心策略    gakki锐评：内部人视角的发布节奏判断有一定参考价值，但Op"
 resource: "https://x.com/i/status/2069508823078097103"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2069508823078097103"
-created: "2026-06-23"
-updated: "2026-06-26"
-sha256: "3f372f26ee10c158428b196bf047596531c52ce6e6578654d7652f77c869bd1a"
-sources:
-  - "/sources/news/2026-06-23/00__bourneliu66__刘小排预判-gpt-5-6不会在fable-5回归前发布-openai惯于后发制人.md"
 ---
 
 # 刘小排预判：GPT-5.6不会在Fable 5回归前发布，OpenAI惯于后发制人

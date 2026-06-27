@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "脉脉裁员热搜集中爆发：AI替代从「未来叙事」进入「当下进行时」"
 description: "**[AI就业冲击的显性化拐点]** • B站、汇丰银行(拟裁2万人)、网易广州互娱、小鹏、海康威西安研发集中传出裁员 • 汇丰明确提及「AI或取代大量岗位」，AI从成本优化工具变成人力替代方案 • 科大讯飞辟谣裁员30%传闻，谣言与真相的边界正在模糊  这不是单一公司的业务调整，而是行业层面的「结构性裁员」。当AI工具的生产力增益开始转化为人员削减，社会层面的认知冲击才刚刚开始。"
 resource: "https://x.com/i/status/2035197204671914287"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2035197204671914287"
-created: "2026-03-21"
-updated: "2026-06-26"
-sha256: "c4e3aea1a8f7ee6dc71d7780c86b4da4e6a205084b4bbc0063d2ca71b94f7bd9"
-sources:
-  - "/sources/news/2026-03-21/00__whyyoutouzhele__脉脉裁员热搜集中爆发-ai替代从-未来叙事-进入-当下进行时.md"
 ---
 
 # 脉脉裁员热搜集中爆发：AI替代从「未来叙事」进入「当下进行时」

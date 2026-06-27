@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Gemma 4手机免费离线Agent：Q2开端即确立端侧霸主地位，第三方API模式遭受根本性质疑"
 description: "**一句话判断：端侧Agent的\"算力民主化\"从噱头变成现实，但这次免费不是慈善，是商业模式的降维打击。**  谷歌 Gemma 4-E4B & 4-E2B 现在实现 iOS 和安卓手机完全免费、断网也能用的 AI Agent，支持代码生成、小说写作、语音/视频对话、记忆功能，且无需 API Token。发布者宣称\"2026 Q1 OpenClaw 领头，Q2 开始就是谷歌 Gemma 莫属\"。 "
 resource: "https://x.com/i/status/2041327842563346595"
@@ -22,13 +22,6 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "gemma端侧多模态"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2041327842563346595"
-created: "2026-04-07"
-updated: "2026-06-26"
-sha256: "8796e33a08d65be484c7a69ecdadb7a8ebf6c48046b4f890bd7fee5c6924b23a"
-sources:
-  - "/sources/highlights/2026-04-07/00__edwordkaru__gemma-4手机免费离线agent-q2开端即确立端侧霸主地位-第三方api模式遭受根本性质疑.md"
 ---
 
 # Gemma 4手机免费离线Agent：Q2开端即确立端侧霸主地位，第三方API模式遭受根本性质疑

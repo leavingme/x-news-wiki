@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Qwen 3.7 Max 冲进 Arena Coding Agent 前五：国产模型编程能力进入第一梯队验证期"
 description: "**Qwen 3.7 Max 在 Arena Coding Agent 榜单排第四，意味着国产大模型在编程 Agent 场景已具备实操价值。**  - 此前编程 Agent 赛道基本是 Claude Opus 和 GPT 52 的二人转，Qwen 的出现打破了垄断格局 - 排名本身不是重点，重点是这是\"有用户真实投票\"的竞技场排名，含金量高于自测 Benchmark - 对国内 AI 原生工具链玩"
 resource: "https://x.com/i/status/2059472466666455144"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2059472466666455144"
-created: "2026-05-27"
-updated: "2026-06-26"
-sha256: "52f2e71609d5ae646c738cac02fba6e4baefb93dcc9ac0486db49d22aba242ac"
-sources:
-  - "/sources/news/2026-05-27/00__op7418__qwen-3-7-max-冲进-arena-coding-agent-前五-国产模型编程能力进入第一梯队验证期.md"
 ---
 
 # Qwen 3.7 Max 冲进 Arena Coding Agent 前五：国产模型编程能力进入第一梯队验证期

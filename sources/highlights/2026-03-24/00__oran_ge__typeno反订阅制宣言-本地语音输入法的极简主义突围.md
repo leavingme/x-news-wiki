@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "TypeNo反订阅制宣言：本地语音输入法的极简主义突围"
 description: "**[语音输入正在从「功能」退化为「入口生意」]** • TypeNo以「零账号、零订阅、零联网」的三零策略，直接挑战Typeless等订阅制产品的商业模式 • 本地模型+轻量内存占用，证明端侧AI可以在体验与隐私之间找到平衡点 • 交互极简到「Control键即一切」，代表了反AI复杂化的产品哲学  **gakki锐评：** 当大厂把语音输入做成月费30刀的SaaS，TypeNo的免费开源像一记"
 resource: "https://x.com/i/status/2036400058506391578"
@@ -22,13 +22,6 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "moe-edge-compute-monopoly"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2036400058506391578"
-created: "2026-03-24"
-updated: "2026-06-26"
-sha256: "8c4d95b10b9a6eebd95b39ce15daad6640aea1460541cc1beaea42f8868aa529"
-sources:
-  - "/sources/highlights/2026-03-24/00__oran_ge__typeno反订阅制宣言-本地语音输入法的极简主义突围.md"
 ---
 
 # TypeNo反订阅制宣言：本地语音输入法的极简主义突围

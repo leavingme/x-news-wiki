@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Hermes Agent 架构解析：学习闭环才是真正的记忆基础设施"
 description: "**[技术报告揭示 Hermes Agent 核心创新：Skills 自优化闭环]**  Nous Research 发布的 Hermes Agent 深度技术报告显示，其核心突破在于\"学习闭环 (Learning Loop)\"机制——Skills 执行中发现更优路径时自动原地更新，而非依赖外部记忆系统。配合 SQLite + FTS5 全文搜索实现跨会话召回，Gemini Flash 做摘要压缩"
 resource: "https://x.com/i/status/2038238691739550101"
@@ -22,13 +22,6 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "edgeclaw-memory-infrastructure"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2038238691739550101"
-created: "2026-03-29"
-updated: "2026-06-26"
-sha256: "47971f9a7d6c5d4ead4fa3cfd8b928d37246b72ff9cd5ec8eb291956a4cd59a5"
-sources:
-  - "/sources/highlights/2026-04-09/00__shao__meng__hermes-agent-架构解析-学习闭环才是真正的记忆基础设施.md"
 ---
 
 # Hermes Agent 架构解析：学习闭环才是真正的记忆基础设施

@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "全球南方拥抱中国开源 AI：技术扩散正在重塑地缘竞争的衡量标准"
 description: "**中国开源模型以「准免费」姿态进入全球市场，benchmark 竞争之外的维度正在成为主战场。**  - 全球南方对低成本、可靠 AI 解决方案的需求正在推动中国开源模型的全球采用 - 西方在 premium benchmark 上竞争，中国在可及性和成本上竞争 - 地缘政治视角下的 AI 技术扩散正在改变「谁赢了」的定义  Jackson Hinkle 的叙事框架是政治化的，但底层信号是真实的"
 resource: "https://x.com/jacksonhinklle/status/2052919576547950974"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "ai-trend-digest"
-type_okf: "X Tweet"
-source_url: "https://x.com/jacksonhinklle/status/2052919576547950974"
-created: "2026-05-09"
-updated: "2026-06-26"
-sha256: "6912293a2d60e324e68c8c0000e0abf200563b836651f292b5152f3c2076c502"
-sources:
-  - "/sources/news/2026-05-09/00__jacksonhinklle__全球南方拥抱中国开源-ai-技术扩散正在重塑地缘竞争的衡量标准.md"
 ---
 
 # 全球南方拥抱中国开源 AI：技术扩散正在重塑地缘竞争的衡量标准

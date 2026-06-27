@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Tibo 致歉：Codex 全套餐速率限制 24 小时内重置，资源饥渴仍是产品化瓶颈"
 description: "**[一句话核心判断]** OpenAI Codex CLI 在公开使用高峰出现全套餐速率限制告急，Tibo 亲自下场承诺 24 小时内重置——单点速率限制正在变成 Coding Agent 大规模铺开的现实摩擦。  **要点：** - Tibo（OpenAI 团队）确认速率限制为可修复问题，承诺 24 小时重置全部套餐 - 提示\"下次还有大招\"——暗示 Codex 即将有新一轮产品动作 - 折射"
 resource: "https://x.com/thsottiaux/status/2066956441173323943"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
-
 x_source: "ai-trend-digest"
-type_okf: "X Tweet"
-source_url: "https://x.com/thsottiaux/status/2066956441173323943"
-created: "2026-06-16"
-updated: "2026-06-26"
-sha256: "e2eded2c0ffedfc4d318e27621e873b6575b3b03a1f840341d5d204401d50ada"
-sources:
-  - "/sources/highlights/2026-06-16/00__thsottiaux__tibo-致歉-codex-全套餐速率限制-24-小时内重置-资源饥渴仍是产品化瓶颈.md"
 ---
 
 # Tibo 致歉：Codex 全套餐速率限制 24 小时内重置，资源饥渴仍是产品化瓶颈

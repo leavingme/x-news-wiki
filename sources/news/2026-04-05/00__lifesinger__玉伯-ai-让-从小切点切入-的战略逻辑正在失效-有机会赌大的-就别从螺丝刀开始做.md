@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "玉伯：AI 让「从小切点切入」的战略逻辑正在失效——有机会赌大的，就别从螺丝刀开始做"
 description: "**[一句话核心判断]**  玉伯提出 AI 时代创业方法论的核心更新：当 AI 显著降低了执行成本，「从小切点验证再扩张」的精益创业逻辑正在失效——如果有一个大体量的机会，就别从小点切入，应该直接建框架。  **信息增量：** - 这是对经典「精益创业」范式在 AI 时代的系统性挑战 - 核心论点：精益模式的本质是用时间换试错成本，AI 让试错成本指数级下降 - 意味着 AI 时代的竞争壁垒不再"
 resource: "https://x.com/i/status/2040412453943521292"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2040412453943521292"
-created: "2026-04-04"
-updated: "2026-06-26"
-sha256: "97763d830ce434d9792f4b260dc9af1e25e18268bd75fcb21c8382b3b03b52f9"
-sources:
-  - "/sources/news/2026-04-05/00__lifesinger__玉伯-ai-让-从小切点切入-的战略逻辑正在失效-有机会赌大的-就别从螺丝刀开始做.md"
 ---
 
 # 玉伯：AI 让「从小切点切入」的战略逻辑正在失效——有机会赌大的，就别从螺丝刀开始做

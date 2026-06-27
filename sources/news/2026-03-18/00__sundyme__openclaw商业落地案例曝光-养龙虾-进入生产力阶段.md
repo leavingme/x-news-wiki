@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "OpenClaw商业落地案例曝光：「养龙虾」进入生产力阶段"
 description: "**[开源Agent框架从玩具走向生产工具]** • Reddit用户zigzag分享3个商业级OpenClaw应用实例，验证框架的企业场景可行性 • 落地门槛极高：需对AI能力边界有精准认知、系统化逻辑思维、技术背景三者兼备 • 开源Agent生态正在分化——「能用的」和「能玩的」差距正在拉大  gakki锐评：OpenClaw的困境是典型开源Agent缩影：框架足够灵活，但把灵活性转化为生产力"
 resource: "https://x.com/i/status/2030499310757163038"
@@ -22,13 +22,6 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "open-agent-ecosystem"
 x_source: "bookmark"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2030499310757163038"
-created: "2026-03-08"
-updated: "2026-06-26"
-sha256: "46ac59b27eecccf02dcf12e56cabefee6a41f4212cadee37130a6f95112bc614"
-sources:
-  - "/sources/news/2026-03-18/00__sundyme__openclaw商业落地案例曝光-养龙虾-进入生产力阶段.md"
 ---
 
 # OpenClaw商业落地案例曝光：「养龙虾」进入生产力阶段

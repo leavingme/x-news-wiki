@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Codex App 支持一键导入其他 Agent 配置：Agent 工具链的可移植性正在落地"
 description: "**OpenAI Codex App 上线 Import other agent setup 功能，支持从其他 Agent 工具迁移配置。**  - 操作路径清晰：Settings → General → Import，可选择性导入检测到的项目 - 这意味着 Agent 生态正从「锁定」走向「互通」，用户的技能包和工作流开始具备跨平台迁移能力 - 对标 Skills 生态的标准化趋势，配置可导入本"
 resource: "https://x.com/i/status/2051858361466155422"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2051858361466155422"
-created: "2026-05-06"
-updated: "2026-06-26"
-sha256: "1e3f5649103e088a370dbb7d570d7db0de4e56b7f071e8ff1df7f4ef3c0c8932"
-sources:
-  - "/sources/news/2026-05-06/00__xiaohu__codex-app-支持一键导入其他-agent-配置-agent-工具链的可移植性正在落地.md"
 ---
 
 # Codex App 支持一键导入其他 Agent 配置：Agent 工具链的可移植性正在落地

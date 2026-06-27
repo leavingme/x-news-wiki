@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Michael Anti转发特德·姜：科幻已死，新闻来了"
 description: "**一句话核心判断：当科幻作家Ted Chiang的作品开始被标注为「新闻报道」，意味着AI发展的现实已经跑赢了虚构的想象力。**  • Michael Anti公开推荐Ted Chiang的科幻小说，并断言它已经越过了虚构与现实的边界。 • 这一判断指向一个更大的文化信号：AI从业者的叙事正在被现实反向书写，想象力成了稀缺品。  **gakki锐评：这是AI圈的一次集体自我意识过剩——把科幻当新"
 resource: "https://x.com/i/status/2057303287402295534"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2057303287402295534"
-created: "2026-05-21"
-updated: "2026-06-26"
-sha256: "022a6a7be4185c6a1dce89b3be1e4da904845d0be033945eafc266841a686fdf"
-sources:
-  - "/sources/news/2026-05-21/00__mranti__michael-anti转发特德-姜-科幻已死-新闻来了.md"
 ---
 
 # Michael Anti转发特德·姜：科幻已死，新闻来了

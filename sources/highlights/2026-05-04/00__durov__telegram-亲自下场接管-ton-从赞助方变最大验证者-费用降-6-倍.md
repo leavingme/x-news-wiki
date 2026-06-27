@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Telegram 亲自下场接管 TON：从赞助方变最大验证者，费用降 6 倍"
 description: "**Telegram 正式从 TON 基金会手中接管网络主导权，成为最大验证者。**  - 手续费降至接近零（6× 降幅），技术重心转向性能升级和新开发工具 - 预计 2-3 周内完成切换，Telegram 从「生态赞助者」变为「基础设施运营者」 - 这是平台亲自下场做链的典型案例：当生态依赖你的用户池时，基金会只是过渡态  gakki 锐评：Telegram 用 7 亿月活做验证者，本质上是把「"
 resource: "https://x.com/durov/status/2051315383466897663"
@@ -22,13 +22,6 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "ai-agent-crypto-infra"
 x_source: "ai-trend-digest"
-type_okf: "X Tweet"
-source_url: "https://x.com/durov/status/2051315383466897663"
-created: "2026-05-04"
-updated: "2026-06-26"
-sha256: "efe561a2f675b1136de0c45d43d24d3cb9b15fe207f6143d2e1169fed4fa3362"
-sources:
-  - "/sources/highlights/2026-05-04/00__durov__telegram-亲自下场接管-ton-从赞助方变最大验证者-费用降-6-倍.md"
 ---
 
 # Telegram 亲自下场接管 TON：从赞助方变最大验证者，费用降 6 倍

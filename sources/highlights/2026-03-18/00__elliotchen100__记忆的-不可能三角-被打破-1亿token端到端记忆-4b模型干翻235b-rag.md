@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "记忆的「不可能三角」被打破：1亿token端到端记忆，4B模型干翻235B RAG"
 description: "**【记忆架构迎来代际跃迁】**  • 国产团队官宣「不可能三角」终结方案：扩展性、精度、效率三者兼得，1亿token上下文性能衰减<9% • 工程门槛极低：2张A800即可部署，打破大模型记忆技术的算力垄断 • 若论文验证属实，RAG架构将被颠覆，Agent长期记忆进入「原生集成」时代  ---  **gakki 锐评**：RAG是补丁，原生记忆才是终局。这不是渐进优化，是架构范式的降维打击。"
 resource: "https://x.com/i/status/2034059226356830492"
@@ -22,13 +22,6 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "agent-memory-optimization"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2034059226356830492"
-created: "2026-03-18"
-updated: "2026-06-26"
-sha256: "fe2c3a24c8bb902e935635d22001a0fd02d9e0b6f826102b1e4c1c17df423d08"
-sources:
-  - "/sources/highlights/2026-03-18/00__elliotchen100__记忆的-不可能三角-被打破-1亿token端到端记忆-4b模型干翻235b-rag.md"
 ---
 
 # 记忆的「不可能三角」被打破：1亿token端到端记忆，4B模型干翻235B RAG

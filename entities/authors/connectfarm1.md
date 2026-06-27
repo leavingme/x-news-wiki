@@ -1,23 +1,17 @@
 ---
-type: "entity"
+type: "Author"
 title: "潜水观察员🇨🇳 (@connectfarm1)"
 description: "X/Twitter 作者 @connectfarm1。共收录 1 条 AI 精选推文。"
 tags:
   - "x-news"
   - "author"
   - "author:connectfarm1"
-timestamp: "2026-06-26T11:53:36.926Z"
+timestamp: "2026-06-27T08:40:40.136Z"
 x_handle: "connectfarm1"
 x_author_name: "潜水观察员🇨🇳"
 x_tweet_count: 1
 x_first_seen: "2026-02-12T13:18:20.978Z"
 x_last_seen: "2026-02-12T13:18:20.978Z"
-type_okf: "Author"
-created: "2026-02-12"
-updated: "2026-06-26"
-sha256: "1575afbf8d89ab6cf26639673befe6e8d5b3e8ea1213f96e4a082653165e5d9f"
-sources:
-  - "/sources/news/2026-02-12/00__connectfarm1__加密观察-crypto-将成为-ai-时代的价值-厘定器.md"
 ---
 
 # 潜水观察员🇨🇳 (@connectfarm1)

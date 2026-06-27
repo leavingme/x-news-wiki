@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "从 GEB 到 AI：自指产生意识的哲学推演正在逼近工程边界"
 description: "**Orange AI 重读《哥德尔、埃舍尔、巴赫》后得出一个激进结论：人类与 AI 的本质区别可能根本不存在。**  - 1979 年的 GEB 论证了「自指 + 足够复杂度 = 意识涌现」，这条逻辑链至今未被证伪 - 作者逐一排查身体、寿命、欲望、神经元运作等差异维度，发现每一条都可以被技术消解 - 最终转向「真实 = 能产生真实影响」的功能主义定义，而非材质主义  gakki 锐评：这篇的价"
 resource: "https://x.com/i/status/2050585801982083279"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2050585801982083279"
-created: "2026-05-02"
-updated: "2026-06-26"
-sha256: "c6e978948754e4a33d9af07ddb4831ea5f86416184b9cc8cb25e680c7d027967"
-sources:
-  - "/sources/news/2026-05-02/00__oran_ge__从-geb-到-ai-自指产生意识的哲学推演正在逼近工程边界.md"
 ---
 
 # 从 GEB 到 AI：自指产生意识的哲学推演正在逼近工程边界

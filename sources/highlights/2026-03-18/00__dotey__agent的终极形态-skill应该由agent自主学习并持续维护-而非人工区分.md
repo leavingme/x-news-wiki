@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Agent的终极形态：Skill应该由Agent自主学习并持续维护，而非人工区分"
 description: "**[Agent的能力边界正在被重新定义]**  • 核心观点：当Agent足够智能时，人工区分脚本、Skills和Agent本身就是多余的 • 机制设想：高频任务应通过历史记忆自动沉淀为Skills，且Agent持续迭代维护 • 范式转移：从\"人类定义工具\"转向\"Agent自我工具化\"，这将是Agent-native的核心特征  未来的Agent不应该等待人类编写Skills，而应该像人类一样在"
 resource: "https://x.com/i/status/2033910908116709582"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2033910908116709582"
-created: "2026-03-17"
-updated: "2026-06-26"
-sha256: "06b4e5eaa3866570a6ad0dc96da17db7e1b36e75dfa93c73ee5d8a08f6da7654"
-sources:
-  - "/sources/highlights/2026-03-18/00__dotey__agent的终极形态-skill应该由agent自主学习并持续维护-而非人工区分.md"
 ---
 
 # Agent的终极形态：Skill应该由Agent自主学习并持续维护，而非人工区分

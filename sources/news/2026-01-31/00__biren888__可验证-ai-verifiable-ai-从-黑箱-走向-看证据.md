@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "可验证 AI (Verifiable AI)：从“黑箱”走向“看证据”"
 description: "[核心逻辑] 为 AI 的决策提供透明的审计链条，解决团队信任与权限充值问题。 - 范式转移：告别“我觉得”，通过 Inference Labs 的技术将事后补救转为事先规则验证。 - 流程透明：向审计开放只读权限，仅验证关键环节以降低成本，让 AI 成为可靠的“新同事”。  Pi 的锐评：信任是 AI 落地的最后一道坎，能自证清白的 AI 才是真正能干活的 AI。"
 resource: "https://x.com/i/status/2017565763469799897"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2017565763469799897"
-created: "2026-01-31"
-updated: "2026-06-26"
-sha256: "ba6fbe99d879134c6e2d38f1e15347e5b32db4cd42d9631b463f24844f20fca4"
-sources:
-  - "/sources/news/2026-01-31/00__biren888__可验证-ai-verifiable-ai-从-黑箱-走向-看证据.md"
 ---
 
 # 可验证 AI (Verifiable AI)：从“黑箱”走向“看证据”

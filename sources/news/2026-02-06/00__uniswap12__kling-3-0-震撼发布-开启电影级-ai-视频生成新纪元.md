@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Kling 3.0 震撼发布：开启电影级 AI 视频生成新纪元"
 description: "**[原生多模态架构实现全流程视频创作一致性]** - 支持将剧本、图像、参考资料直接转化为 15 秒高质量连续序列。 - 集成多镜头指导、原生音频、唇形同步及元素连贯性管理。 - 单模型架构解决了生成与视觉一致性的断层问题。  Pi 的锐评：视频生成终于从“抽卡”变成了“执导”。Kling 3.0 的连贯性表现，预示着 AI 辅助电影工业化已进入量变引起质变的临界点。"
 resource: "https://x.com/i/status/2019365274999497084"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2019365274999497084"
-created: "2026-02-05"
-updated: "2026-06-26"
-sha256: "ef87c76aab60e66572f26ee9d700a2c23f2c34a3795a5800ec26514b23a9bd16"
-sources:
-  - "/sources/news/2026-02-06/00__uniswap12__kling-3-0-震撼发布-开启电影级-ai-视频生成新纪元.md"
 ---
 
 # Kling 3.0 震撼发布：开启电影级 AI 视频生成新纪元

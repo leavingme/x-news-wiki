@@ -1,33 +1,22 @@
 ---
-type: "concept"
-title: "agent-swarm-orchestration"
-description: "跨日主题 \"agent-swarm-orchestration\"，共 9 条相关精选推文。"
+type: "Concept"
+title: "Agent群编排"
+description: "跨日主题 \"Agent群编排\" (agent-swarm-orchestration)，共 9 条相关精选推文。"
 tags:
   - "x-news"
   - "concept"
   - "topic:agent-swarm-orchestration"
-timestamp: "2026-06-26T11:53:37.007Z"
+timestamp: "2026-06-27T08:40:42.840Z"
 x_topic_slug: "agent-swarm-orchestration"
 x_tweet_count: 9
 x_first_seen: "2026-03-07T01:27:33.853Z"
 x_last_seen: "2026-06-05T10:18:28.856Z"
-type_okf: "Concept"
-created: "2026-03-07"
-updated: "2026-06-26"
-sha256: "b902df86e2054ed82f140a1dfbd3993a565de459c99afd6c43f2f1781341cf30"
-sources:
-  - "/sources/highlights/2026-03-07/88__nbblock__三省六部制-skill-东方治理智慧注入多智能体编排.md"
-  - "/sources/highlights/2026-03-28/00__DiannRudy87765__composio自举验证-agent-orchestrator由它自己的agent构建完成.md"
-  - "/sources/highlights/2026-03-28/00__MindfulReturn__字节deerflow登顶github-企业级agent-harness的-安全沙箱-范式.md"
-  - "/sources/news/2026-03-23/00__songguoxiansen__字节-deerflow-2-0-开源-35k-star-背后-sub-agents-并行协作的-工程化标准-正在成型.md"
-  - "/sources/news/2026-03-24/00__jiroucaigou__superpowers-106k-star-多-agent-并行的工程化纪律正在成型.md"
-  - "/sources/news/2026-03-24/00__lidangzzz__multi-agent的暴力美学-20个subagent模拟联合国吵架-token消耗即生产力.md"
-  - "/sources/news/2026-03-29/00__0x10Me__verse8-350万mau的-自然语言游戏工厂.md"
-  - "/sources/news/2026-03-29/00__DiannRudy87765__claude-code-48-agent-游戏工作室-单人全栈游戏开发的代际跃迁.md"
-  - "/sources/news/2026-06-05/00__xiaohu__国产-agent-产品叫板-codex-单任务调度-300-个子-agent-6-种格式一次交付.md"
+x_cn_title_source: "dict"
 ---
 
-# 主题: agent-swarm-orchestration
+# 主题: Agent群编排
+
+> slug: `agent-swarm-orchestration`
 
 本主题下共 **9** 条精选推文。
 

@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Claude Code 源头学习路径：官方工程师文章全集公开"
 description: "**[从卖课中介回归技术源头]**  • trq212（Claude Code 团队成员）整理了个人全部技术文章，覆盖使用技巧与实现原理 • 相比二手教程，一手信源包含更多设计取舍的上下文与未文档化的隐藏能力 • 这标志着 Claude Code 生态从「KOL 解读」向「官方知识开放」过渡  gakki 锐评：工具厂商主动开放工程师思考轨迹，是降低学习熵增的最优解。与其追逐「30天精通」的课程，"
 resource: "https://x.com/i/status/2035382508624159100"
@@ -22,13 +22,6 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "claude-code-ecosystem"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2035382508624159100"
-created: "2026-03-21"
-updated: "2026-06-26"
-sha256: "87f2a8a0eb8973d26bc8762fd2651bf88443ac331ea75edeadbc58fa7c551bc8"
-sources:
-  - "/sources/highlights/2026-03-22/00__Michaelzsguo__claude-code-源头学习路径-官方工程师文章全集公开.md"
 ---
 
 # Claude Code 源头学习路径：官方工程师文章全集公开

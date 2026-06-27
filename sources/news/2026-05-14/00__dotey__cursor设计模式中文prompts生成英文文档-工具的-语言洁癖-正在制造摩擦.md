@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Cursor设计模式中文prompts生成英文文档：工具的「语言洁癖」正在制造摩擦"
 description: "**[一句话核心判断]** Cursor的Plan New Idea功能在中文prompts下仍输出英文设计文档，暴露了当前AI工具在多语言场景下的注意力漂移问题。  **信息增量：** - 这不是bug，是模型语言一致性层面的系统性问题 - 指向一个深层矛盾：提示词语言和输出语言的一致性，本质上是上下文一致性的一部分 - @ryolu_ 被提及，可能已有人在推动修复，但目前尚无明确时间表  --"
 resource: "https://x.com/i/status/2054818046515073316"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2054818046515073316"
-created: "2026-05-14"
-updated: "2026-06-26"
-sha256: "e8b22030ec45aa5982917f313b674988b9f7766ff35d96dfc957429b2a3eda89"
-sources:
-  - "/sources/news/2026-05-14/00__dotey__cursor设计模式中文prompts生成英文文档-工具的-语言洁癖-正在制造摩擦.md"
 ---
 
 # Cursor设计模式中文prompts生成英文文档：工具的「语言洁癖」正在制造摩擦

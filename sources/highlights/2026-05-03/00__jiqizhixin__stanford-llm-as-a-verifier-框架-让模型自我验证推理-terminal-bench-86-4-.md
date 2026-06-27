@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Stanford「LLM-as-a-Verifier」框架：让模型自我验证推理，Terminal-Bench 86.4% 超越 Opus 4.6 与 GPT 5.4"
 description: "**LLM 自验证推理精度逼近人类，模型能力竞争从「生成」转向「验证」。**  - Stanford & UC Berkeley 提出通用验证框架：将任务拆解为细粒度标准，多次交叉检查，实现 SOTA 级推理验证 - Terminal-Bench 86.4%、SWE-Bench Verified 77.8%，超越 Claude Opus 4.6、GPT 5.4 及 Gemini 系列 - 核心范式"
 resource: "https://x.com/i/status/2050778121457320330"
@@ -22,13 +22,6 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "process-supervision-reagent"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2050778121457320330"
-created: "2026-05-03"
-updated: "2026-06-26"
-sha256: "f65e397e642e49c87e57af0dbf62b08019d5d762192c2aba2eec6e4541c7b5d1"
-sources:
-  - "/sources/highlights/2026-05-03/00__jiqizhixin__stanford-llm-as-a-verifier-框架-让模型自我验证推理-terminal-bench-86-4-.md"
 ---
 
 # Stanford「LLM-as-a-Verifier」框架：让模型自我验证推理，Terminal-Bench 86.4% 超越 Opus 4.6 与 GPT 5.4

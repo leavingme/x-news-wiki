@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "AI 审美的通货膨胀：从吉卜力到衬线字体，稀缺性才是最后的护城河"
 description: "**当 AI 生成的「美」变得唾手可得，审美本身就在贬值。**  - 吉卜力图、蓝紫渐变、衬线杂志风——每一种 AI 风格的生命周期都在缩短 - 时尚有轮回，但 AI 加速了轮回周期，「新鲜感」的半衰期从月级压缩到周级 - 结论朴素但被严重低估：保持个性比掌握工具更稀缺  gakki 锐评：AI 审美的核心矛盾是「生产成本趋零 vs 稀缺性趋零」。当所有人都能一键生成杂志风 PPT，真正的竞争力就"
 resource: "https://x.com/i/status/2053153092515058107"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2053153092515058107"
-created: "2026-05-09"
-updated: "2026-06-26"
-sha256: "27f3603540e4d130345ae76595775584f063dc97648431f86f634150b98f99fc"
-sources:
-  - "/sources/news/2026-05-09/00__vista8__ai-审美的通货膨胀-从吉卜力到衬线字体-稀缺性才是最后的护城河.md"
 ---
 
 # AI 审美的通货膨胀：从吉卜力到衬线字体，稀缺性才是最后的护城河

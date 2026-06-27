@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "面试防线崩溃：Codex 与 Claude Code 五分钟秒杀传统面试题"
 description: "**[技术招聘危机]** - 开发者反馈，传统的 Python 和 React 面试题已被 AI 彻底攻破，丢给 Claude Code 仅需 5 分钟即可出完美修改版。 - 仅有 Rust 等小众或复杂所有权语言的题目偶尔能卡住 AI。  [gakki 锐评]：还在考八股文和手写算法的公司该醒醒了。未来的面试不该考你懂多少 API，而是考你如何向 AI 提问和 Debug AI 的错误。"
 resource: "https://x.com/i/status/2027025927578980652"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2027025927578980652"
-created: "2026-02-26"
-updated: "2026-06-26"
-sha256: "64f05bd80e0b184f4564cf9841b1d25575fad5c14ee996c60bdf758b9affcd27"
-sources:
-  - "/sources/news/2026-02-27/00__ousinu__面试防线崩溃-codex-与-claude-code-五分钟秒杀传统面试题.md"
 ---
 
 # 面试防线崩溃：Codex 与 Claude Code 五分钟秒杀传统面试题

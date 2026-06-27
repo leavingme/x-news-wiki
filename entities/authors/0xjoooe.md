@@ -1,23 +1,17 @@
 ---
-type: "entity"
+type: "Author"
 title: "Joooe｜NodeZ (@0xJoooe)"
 description: "X/Twitter 作者 @0xJoooe。共收录 1 条 AI 精选推文。"
 tags:
   - "x-news"
   - "author"
   - "author:0xJoooe"
-timestamp: "2026-06-26T11:53:36.982Z"
+timestamp: "2026-06-27T08:40:40.193Z"
 x_handle: "0xJoooe"
 x_author_name: "Joooe｜NodeZ"
 x_tweet_count: 1
 x_first_seen: "2026-04-10T00:44:39.254Z"
 x_last_seen: "2026-04-10T00:44:39.254Z"
-type_okf: "Author"
-created: "2026-04-10"
-updated: "2026-06-26"
-sha256: "59db7a4404b1ec9d7c36b0086404af3bf02638374681e2504e2383cc0057d67c"
-sources:
-  - "/sources/news/2026-04-10/00__0xJoooe__claude-code源码泄露曝光54kb系统提示词组装逻辑-anthropic工程师的prompt结构和多数人想象的完.md"
 ---
 
 # Joooe｜NodeZ (@0xJoooe)

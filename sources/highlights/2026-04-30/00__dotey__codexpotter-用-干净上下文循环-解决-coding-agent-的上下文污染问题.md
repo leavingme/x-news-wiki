@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "CodexPotter：用「干净上下文循环」解决 Coding Agent 的上下文污染问题"
 description: "**[CodexPotter 的设计模式——反复用全新上下文迭代修正——暴露了当前 Coding Agent 的核心痛点：上下文越长越脏。]**  - 工具本身是 CLI，后台启动 Codex CLI，每轮用干净上下文对照 MAIN.md 检查代码、修正、再检查 - 默认 6 轮迭代直到结果与目标文件一致，适合「目标明确的执行型任务」而非交互式开发 - 本质是把「多轮对话」拆成「多轮独立会话」，绕"
 resource: "https://x.com/i/status/2049892890323697859"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2049892890323697859"
-created: "2026-04-30"
-updated: "2026-06-26"
-sha256: "2fa52ab15135c3cc87eb46175b0ddf9d381f46621b58b086d9642c345409748c"
-sources:
-  - "/sources/highlights/2026-04-30/00__dotey__codexpotter-用-干净上下文循环-解决-coding-agent-的上下文污染问题.md"
 ---
 
 # CodexPotter：用「干净上下文循环」解决 Coding Agent 的上下文污染问题

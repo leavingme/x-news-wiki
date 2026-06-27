@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Anthropic CEO「海啸已到」判断的冷味：领导层危机感与市场感知的错位"
 description: "**Anthropic CEO 公开表态「海啸已到，大家还在自我安慰」——这是一次罕见的CEO层级对竞争态势的定性表达。**  措辞的力度说明问题：不是「机会来了」，不是「我们准备好了」，而是「灾难正在逼近」。  结合近期 Claude 系列频繁更新，CEO 的紧迫表态可能反映的是对竞争窗口期的判断而非单纯激励。  gakki：「CEO 用『海啸』这个词本身就不寻常——通常这种词汇只有在真正认为外"
 resource: "https://x.com/i/status/2038581086544937151"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2038581086544937151"
-created: "2026-03-30"
-updated: "2026-06-26"
-sha256: "55242e53d474ee9620c9fc6732a211e470a7af6466718082ba530a55969e6c66"
-sources:
-  - "/sources/highlights/2026-03-30/00____Inty____anthropic-ceo-海啸已到-判断的冷味-领导层危机感与市场感知的错位.md"
 ---
 
 # Anthropic CEO「海啸已到」判断的冷味：领导层危机感与市场感知的错位

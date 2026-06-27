@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "因果模型是 LLM 之后的下一站：Aether AI 携全球首个因果世界模型官宣融资"
 description: "**[LLM 大概率只是 AI 范式的第一站，下一代属于因果模型]**  - 黄碧薇教授把 AI 范式划四代：90 年代小模型学相关性 → 2010 年代小模型学因果 → 当前 LLM 大模型学相关性 → 下一代大模型学因果 - 关键判断：LLM 的 TB 级参数本质是\"死记硬背\"，人类已把语言规律归纳成文字所以够用；但物理/生物/化学规律藏在深层因果里，VLA 搞三年、桌面高两厘米直接挂 - A"
 resource: "https://x.com/i/status/2067417172406886615"
@@ -22,13 +22,6 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "world-model-paradigm"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2067417172406886615"
-created: "2026-06-18"
-updated: "2026-06-26"
-sha256: "0bb9d5762be7f25f9421b3b8c94d5fa5b8a512e90e12ae203b3ae1e51b7864a7"
-sources:
-  - "/sources/highlights/2026-06-18/00__gkxspace__因果模型是-llm-之后的下一站-aether-ai-携全球首个因果世界模型官宣融资.md"
 ---
 
 # 因果模型是 LLM 之后的下一站：Aether AI 携全球首个因果世界模型官宣融资

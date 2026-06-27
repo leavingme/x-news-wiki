@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Musk vs OpenAI 庭审交锋：亿万富翁拒绝被律师「格式化」的回答范本"
 description: "**Musk 在交叉质询中反客为主，拒绝 Wachtell Lipton 律师的二元陷阱，展示了对抗性法律话术的标准拆解方式。**  - Wachtell Lipton 的 Savitt 试图用「是或否」框架压缩复杂问题，Musk 直接揭露问题本身的误导性前提 - 这场庭审的核心是 OpenAI 从非营利转营利的合法性，Musk 的证词风格暗示他准备打「公众舆论战」而非纯法律战 - 对 AI 治理"
 resource: "https://x.com/ns123abc/status/2049611902855139488"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "ai-trend-digest"
-type_okf: "X Tweet"
-source_url: "https://x.com/ns123abc/status/2049611902855139488"
-created: "2026-04-29"
-updated: "2026-06-26"
-sha256: "ab0dc3070f3b462255cb4dbcc751976ee46f65993caf6517a6c706ab83c955dc"
-sources:
-  - "/sources/news/2026-04-30/00__ns123abc__musk-vs-openai-庭审交锋-亿万富翁拒绝被律师-格式化-的回答范本.md"
 ---
 
 # Musk vs OpenAI 庭审交锋：亿万富翁拒绝被律师「格式化」的回答范本

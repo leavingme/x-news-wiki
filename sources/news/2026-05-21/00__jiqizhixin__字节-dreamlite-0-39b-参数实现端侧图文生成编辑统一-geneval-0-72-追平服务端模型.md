@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "字节 DreamLite：0.39B 参数实现端侧图文生成编辑统一，GenEval 0.72 追平服务端模型"
 description: "**一句话核心判断** 字节跳动 DreamLite 用 0.39B 参数在端侧实现图文生成+编辑统一，是今年最小算力消耗的多模态生成模型之一。  **信息增量** - 技术路径极简：拼接图像作为输入（空白=生成，原图=编辑），单网络而非双塔 - GenEval 0.72 生成、ImgEdit 4.11 编辑，双指标均超越现有端侧方案，部分逼近服务端系统 - 推理速度亚秒级，手机端实时编辑成为可能"
 resource: "https://x.com/i/status/2057470720553234641"
@@ -22,13 +22,6 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "ai-3d-content-democratization"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2057470720553234641"
-created: "2026-05-21"
-updated: "2026-06-26"
-sha256: "686a62e0130f8bc06ad05d73bf8cde20d1eac9b022cc02bf9c3a480af8cac334"
-sources:
-  - "/sources/news/2026-05-21/00__jiqizhixin__字节-dreamlite-0-39b-参数实现端侧图文生成编辑统一-geneval-0-72-追平服务端模型.md"
 ---
 
 # 字节 DreamLite：0.39B 参数实现端侧图文生成编辑统一，GenEval 0.72 追平服务端模型

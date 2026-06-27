@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Anthropic 反超 OpenAI：300 亿美元年化收入验证 toB+Agent 路线"
 description: "**【Anthropic 年化收入破 300 亿美元，OpenAI 被迫跟随】**  Anthropic 用 toB + Agent 战略完成了对 OpenAI 的逆袭。关键不是收入数字本身，而是这个数字背后验证了一个命题：模型厂商的天花板不在消费者市场，而在企业级 Agent 基础设施。  三点影响： - toB 路径被财务数据实锤，不再是叙事，是可复制的商业路径 - OpenAI 年内转向已是"
 resource: "https://x.com/i/status/2041322434796937291"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2041322434796937291"
-created: "2026-04-07"
-updated: "2026-06-26"
-sha256: "c9dcea9fb239b20c263bb2b110cce11c2857909aed20a08544f56bf572ad55b4"
-sources:
-  - "/sources/highlights/2026-04-09/00__waylybaye__anthropic-反超-openai-300-亿美元年化收入验证-tob-agent-路线.md"
 ---
 
 # Anthropic 反超 OpenAI：300 亿美元年化收入验证 toB+Agent 路线

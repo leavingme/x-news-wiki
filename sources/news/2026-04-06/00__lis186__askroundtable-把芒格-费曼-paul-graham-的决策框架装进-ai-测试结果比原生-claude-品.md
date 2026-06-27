@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "AskRoundTable 把芒格/费曼/Paul Graham 的决策框架装进 AI：测试结果比原生 Claude 品质提升 18%-83%"
 description: "**【一句话核心判断】** 不是让 AI「扮演」伟人，而是载入他们实际用过的决策心智模型——这个差异是 18%-83% 提升的来源。  **后续要点：** • 核心区别在于「角色扮演」 vs 「心智模型加载」：前者是风格模拟，后者是推理结构复用 • 蒙格的能力圈分析、费曼的第一性原理、PG 的默认成功偏见——这些是经过真实决策验证的认知工具 • 一行安装、多模型通用（Claude Code/Cod"
 resource: "https://x.com/i/status/2039922464759947761"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2039922464759947761"
-created: "2026-04-03"
-updated: "2026-06-26"
-sha256: "228e3cce8b04dea7d792288093ceb8829d83fe1a76642f2cbbb62ce1094b481a"
-sources:
-  - "/sources/news/2026-04-06/00__lis186__askroundtable-把芒格-费曼-paul-graham-的决策框架装进-ai-测试结果比原生-claude-品.md"
 ---
 
 # AskRoundTable 把芒格/费曼/Paul Graham 的决策框架装进 AI：测试结果比原生 Claude 品质提升 18%-83%

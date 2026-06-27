@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "NotebookLM 大改版：每个 Notebook 变云端电脑，Google 知识工具开始向「AI 操作系统」跃迁"
 description: "**[一句话核心判断]** NotebookLM 从「带资料的 RAG 聊天框」正式升级为「自带算力、技能、输出格式与搜索的 AI 操作系统」，Google 把 Gemini 3.5 + Antigravity 注入知识工作流。  - 底层换成 Gemini 3.5 + Antigravity，单 Notebook 自带云端电脑，可写代码、做复杂分析，内置 100+ 技能 - 输出格式从单一 Ma"
 resource: "https://x.com/i/status/2064236027812933836"
@@ -22,13 +22,6 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "ai-knowledge-tool-competition"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2064236027812933836"
-created: "2026-06-09"
-updated: "2026-06-26"
-sha256: "9071dcd4feae2c2c6da0f1e9021e196f2ec931e61f304caaa5f1e49933510b7c"
-sources:
-  - "/sources/highlights/2026-06-09/00__xiaohu__notebooklm-大改版-每个-notebook-变云端电脑-google-知识工具开始向-ai-操作系统-跃迁.md"
 ---
 
 # NotebookLM 大改版：每个 Notebook 变云端电脑，Google 知识工具开始向「AI 操作系统」跃迁

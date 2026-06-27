@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "向阳乔木公开 Hermes 全模型配置方案：免费账号也能跑满主流模型"
 description: "**[Hermes 多模型路由能力首次被系统梳理，OpenAI Codex gpt-5.5 入选值得注意]**  - 向阳乔木梳理了一份 Hermes 可配置的国内外模型清单：ChatGPT Plus + Codex gpt-5.5、xAI grok-4.3、Gemini 系列、DeepSeek v4、智谱 glm-5.1、Kimi k2.6、小米 mimo-v2.5 - 核心价值在于：订阅制+免"
 resource: "https://x.com/i/status/2056170241147977741"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2056170241147977741"
-created: "2026-05-18"
-updated: "2026-06-26"
-sha256: "744d67d6166350c536cb9eff62f1bc2fa6144e490ba66314054b1b5077fd108f"
-sources:
-  - "/sources/news/2026-05-18/00__vista8__向阳乔木公开-hermes-全模型配置方案-免费账号也能跑满主流模型.md"
 ---
 
 # 向阳乔木公开 Hermes 全模型配置方案：免费账号也能跑满主流模型

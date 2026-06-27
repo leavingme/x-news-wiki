@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Typeless从Claude切换至Gemini：模型服务稳定性成产品关键变量"
 description: "**[AI产品对底层模型服务的依赖凸显，多模型路由成为刚需]** - 知名产品Typeless将其底层模型从Claude切换为Gemini，引发对其背后原因（服务稳定性或成本）的猜测。 - 这一事件直观表明，对于严重依赖大模型API的AI应用来说，上游服务的可用性与质量是产品生命线。 - 它强化了“不应将鸡蛋放在一个篮子里”的认知，推动开发者必须考虑多模型备份与路由策略。  这不仅是单个产品的技术"
 resource: "https://x.com/i/status/2028497692306116866"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2028497692306116866"
-created: "2026-03-02"
-updated: "2026-06-26"
-sha256: "cf59b746e5e5f90ac6f05fe462779813f48238b6cb54ffc7f22016c72b00c848"
-sources:
-  - "/sources/news/2026-03-03/00__yetone__typeless从claude切换至gemini-模型服务稳定性成产品关键变量.md"
 ---
 
 # Typeless从Claude切换至Gemini：模型服务稳定性成产品关键变量

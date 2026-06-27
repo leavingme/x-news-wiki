@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "国产模型可用性一年翻盘：去年 Manus 时\"一个能打的都没有\"，今年已有三款可堪一用"
 description: "**[中国 AI 模型的能力曲线正在复制芯片行业的追赶速度，但终点不再是 SOTA，而是工程化落地]**  Orange AI 实测 ColaOS（国产 AI OS）后感慨：去年 Manus 发布时，国产模型能用的\"一个都没有\"；今年测试下来已有三款可用。这个细节比任何 Benchmark 分数都更有体感温度。  核心判断：国产模型的进步不是线性的，是台阶式的——每一次外界以为\"差距拉大\"的时候，"
 resource: "https://x.com/i/status/2048936516932800965"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2048936516932800965"
-created: "2026-04-28"
-updated: "2026-06-26"
-sha256: "be7c8b39f612c855b9ad65a4e6c1d0e7deed99a99974fe71187e209d63514a7c"
-sources:
-  - "/sources/news/2026-04-28/00__oran_ge__国产模型可用性一年翻盘-去年-manus-时-一个能打的都没有-今年已有三款可堪一用.md"
 ---
 
 # 国产模型可用性一年翻盘：去年 Manus 时"一个能打的都没有"，今年已有三款可堪一用

@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "30B模型摘金IMO：两阶段RL+可验证奖励路径验证「小模型大推理」可行性"
 description: "**[一句话核心判断]** 上海AI Lab等联合团队发布的SU-01模型证明，30B参数模型通过「证明搜索+自检查行为预训练+两阶段RL」路径，可在IMO 2025、USAMO 2026、IPhO 2024/2025上斩获金牌，且泛化至其他科学推理任务。  **信息增量：** - 两阶段RL（可验证奖励→证明级奖励）是关键设计，而非直接堆推理时计算 - 测试时Scaling（test-time "
 resource: "https://x.com/i/status/2060117409907061029"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2060117409907061029"
-created: "2026-05-28"
-updated: "2026-06-26"
-sha256: "a8e4603982ae6b7ea6408ae7f3e1dd0ee36b2dc25da4dc0778eb2311dea852a4"
-sources:
-  - "/sources/news/2026-05-28/00__jiqizhixin__30b模型摘金imo-两阶段rl-可验证奖励路径验证-小模型大推理-可行性.md"
 ---
 
 # 30B模型摘金IMO：两阶段RL+可验证奖励路径验证「小模型大推理」可行性

@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "宝玉：Skill 不是越强大越好，自己定制才是最优解"
 description: "**Skill 工程正在从'功能堆叠'走向'私人定制'，大而全的通用 Skill 反而是 Token 黑洞。**  宝玉明确表态：通用 Skill 对不熟悉构建的用户是入门垫脚石，但真正懂 Skill 工程的玩家，自己定制才最划算。  背后是 Agent 工具链的一个底层矛盾——Skills 生态越繁荣，'该用哪个 Skill' 的决策成本越高，私人定制反而成了工程师阶层的隐性护城河。  契合 S"
 resource: "https://x.com/i/status/2066676292154445859"
@@ -22,13 +22,6 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "skills-ecosystem-standards"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2066676292154445859"
-created: "2026-06-16"
-updated: "2026-06-26"
-sha256: "d6106f46266e559ec5079c6bff40fcf709c2e92a903bd166a0faa98d1e030a42"
-sources:
-  - "/sources/news/2026-06-16/00__dotey__宝玉-skill-不是越强大越好-自己定制才是最优解.md"
 ---
 
 # 宝玉：Skill 不是越强大越好，自己定制才是最优解

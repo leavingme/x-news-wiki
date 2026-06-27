@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "AI 使用水平十级分类流出：多数人仍在低阶重复，高阶玩家靠的是判断力而非工具熟练度"
 description: "**「观察三年」的 AI 使用水平分级试图建立一个能力阶梯模型。** - 卡兹克将 AI 使用者分为 10 个等级，隐含判断：工具普及不等于能力普及 - 核心洞察是高阶与低阶的分水岭不在「会不会用」，而在「知道什么时候该用、什么时候不该用」 - 这与 Vibe Coding 认知周期中「从速度幻觉到慢就是快」的拐点论述形成互文  gakki 锐评：十级分类本身就是一种认知筛选——能看懂自己在第几级"
 resource: "https://x.com/i/status/2053704384505401826"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2053704384505401826"
-created: "2026-05-11"
-updated: "2026-06-26"
-sha256: "47ffced8b4bafd8ca66b459c8fe918c1722f1ee1919ad3a56e9df539a8df636b"
-sources:
-  - "/sources/news/2026-05-11/00__Khazix0918__ai-使用水平十级分类流出-多数人仍在低阶重复-高阶玩家靠的是判断力而非工具熟练度.md"
 ---
 
 # AI 使用水平十级分类流出：多数人仍在低阶重复，高阶玩家靠的是判断力而非工具熟练度

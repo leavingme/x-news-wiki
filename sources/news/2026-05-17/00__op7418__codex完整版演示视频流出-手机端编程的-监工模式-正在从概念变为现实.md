@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Codex完整版演示视频流出：手机端编程的「监工模式」正在从概念变为现实"
 description: "**[移动端Agent编程的临界点：远程批准危险操作成为Agent能力边界的新测试场]**  Codex完整版演示视频发布。核心背景：ChatGPT手机版已内嵌Codex，远程「监工」模式正式落地——危险操作需要手机端批准才能执行。这是Agent安全边界与移动场景的首次深度结合。  观察角度： - 手机端批准机制本质上是把「信任边界」外化到移动设备 - 危险操作的定义权会成为平台竞争的新焦点  *"
 resource: "https://x.com/i/status/2056021748236382448"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2056021748236382448"
-created: "2026-05-17"
-updated: "2026-06-26"
-sha256: "218a431f286e40348f02e1dc2ddb8fabf3c534a035037c928d34cbd3a768c572"
-sources:
-  - "/sources/news/2026-05-17/00__op7418__codex完整版演示视频流出-手机端编程的-监工模式-正在从概念变为现实.md"
 ---
 
 # Codex完整版演示视频流出：手机端编程的「监工模式」正在从概念变为现实

@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "虚幻引擎 5.8 内置 MCP：游戏/影视/建筑设计的自然语言工作流正式开闸"
 description: "**[3D 内容创作被 Agent 化：几个月的手工活压成几句话]**  - UE 5.8 发布实验性 MCP 插件，可用 Claude Code 通过自然语言操控虚幻引擎 - 覆盖范围从室内场景（沙发/地毯/茶几）、城市级生成（城区/高速/路网/建筑）到物理参数计算（太阳位置/大气） - 传统要手工调几十个光照参数、耗时几个月的活，降到几天 + 一句话 - 标志 3D 引擎正式接入 Agent "
 resource: "https://x.com/i/status/2067430287336992907"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2067430287336992907"
-created: "2026-06-18"
-updated: "2026-06-26"
-sha256: "0a7de19fb8fe07fac0006b324e1514a23a4f89e471c117d91ff4d95290503cee"
-sources:
-  - "/sources/news/2026-06-18/00__xiaohu__虚幻引擎-5-8-内置-mcp-游戏-影视-建筑设计的自然语言工作流正式开闸.md"
 ---
 
 # 虚幻引擎 5.8 内置 MCP：游戏/影视/建筑设计的自然语言工作流正式开闸

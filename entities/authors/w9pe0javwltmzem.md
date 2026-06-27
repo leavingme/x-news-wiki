@@ -1,23 +1,17 @@
 ---
-type: "entity"
+type: "Author"
 title: "小八 (@w9Pe0jaVWltmZEM)"
 description: "X/Twitter 作者 @w9Pe0jaVWltmZEM。共收录 1 条 AI 精选推文。"
 tags:
   - "x-news"
   - "author"
   - "author:w9Pe0jaVWltmZEM"
-timestamp: "2026-06-26T11:53:36.912Z"
+timestamp: "2026-06-27T08:40:40.119Z"
 x_handle: "w9Pe0jaVWltmZEM"
 x_author_name: "小八"
 x_tweet_count: 1
 x_first_seen: "2026-01-31T13:51:06.742Z"
 x_last_seen: "2026-01-31T13:51:06.742Z"
-type_okf: "Author"
-created: "2026-01-31"
-updated: "2026-06-26"
-sha256: "f567d9b71bde8e26cc059116f546bf647f05f1d509e401a6645439ba1318ec21"
-sources:
-  - "/sources/news/2026-01-31/00__w9Pe0jaVWltmZEM__半年从小白到架构-我的-ai-驱动进阶方法论.md"
 ---
 
 # 小八 (@w9Pe0jaVWltmZEM)

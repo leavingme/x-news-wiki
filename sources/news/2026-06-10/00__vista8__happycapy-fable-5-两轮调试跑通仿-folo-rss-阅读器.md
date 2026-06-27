@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Happycapy + Fable 5 两轮调试跑通仿 Folo RSS 阅读器"
 description: "**Fable 5 在「中等复杂度 Web 应用」上的首个公开跑通样本。**  - 向阳乔木用 Happycapy 调试环境跑 Fable 5，两轮迭代出可用的 RSS 在线阅读器 - 仿 Folo 风格，信息源接入自建几十个 Newsletter 和博客 - 集成 RSSHub 第三方部署搞定原文信息获取 - 工作流完整跑通：从收藏 → 聚合 → 阅读   gakki 锐评：Happycapy "
 resource: "https://x.com/i/status/2064720012456378834"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2064720012456378834"
-created: "2026-06-10"
-updated: "2026-06-26"
-sha256: "42dd97591b65fb4a6e2fa910d4c80dc14a6e702d77ca690a808570b4fea52e21"
-sources:
-  - "/sources/news/2026-06-10/00__vista8__happycapy-fable-5-两轮调试跑通仿-folo-rss-阅读器.md"
 ---
 
 # Happycapy + Fable 5 两轮调试跑通仿 Folo RSS 阅读器

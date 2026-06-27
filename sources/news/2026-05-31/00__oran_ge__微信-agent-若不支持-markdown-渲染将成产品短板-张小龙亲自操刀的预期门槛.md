@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "微信 Agent 若不支持 Markdown 渲染将成产品短板：张小龙亲自操刀的预期门槛"
 description: "**[微信 AI Agent 的基础体验契约问题]**  微信作为中国最大的超级入口，其官方 AI Agent 对 Markdown 的支持程度将直接影响国内用户对 AI 工具的使用体验。消息指出张小龙亲自操刀，若最终产品连 MD 渲染都不支持，将是一个反直觉的产品决策——尤其在 AI 工具已普遍将 Markdown 作为默认输出格式的背景下。  这背后是一个更根本的问题：当 AI 输出本质上结构"
 resource: "https://x.com/i/status/2060907257244811412"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2060907257244811412"
-created: "2026-05-31"
-updated: "2026-06-26"
-sha256: "015d09454252a55d9f6f5af6a4acb50fbf78dee14525de0fba28ef108fe0295c"
-sources:
-  - "/sources/news/2026-05-31/00__oran_ge__微信-agent-若不支持-markdown-渲染将成产品短板-张小龙亲自操刀的预期门槛.md"
 ---
 
 # 微信 Agent 若不支持 Markdown 渲染将成产品短板：张小龙亲自操刀的预期门槛

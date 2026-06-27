@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Logan Kilpatrick：每家AI公司都应自建Benchmark，这是最被低估的护城河"
 description: "**[Benchmark即数据飞轮：Logan Kilpatrick点破了AI公司被忽视的战略杠杆]**  - Anthropic核心成员Logan Kilpatrick公开主张：每家基于AI构建产品的公司都应自建Benchmark，理由是\"模型进步的红利会不成比例地流向拥有自己基准的公司\" - 核心逻辑：自建Benchmark → 积累专有评估数据 → 模型迭代时更快验证哪些改进对自己产品有效 "
 resource: "https://x.com/OfficialLoganK/status/2048554074107470305"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "ai-trend-digest"
-type_okf: "X Tweet"
-source_url: "https://x.com/OfficialLoganK/status/2048554074107470305"
-created: "2026-04-27"
-updated: "2026-06-26"
-sha256: "893292ea5a7861a4b07c89b6a34fe59ab712ea5b3abf076f52c6f6200e424ec4"
-sources:
-  - "/sources/news/2026-04-27/00__OfficialLoganK__logan-kilpatrick-每家ai公司都应自建benchmark-这是最被低估的护城河.md"
 ---
 
 # Logan Kilpatrick：每家AI公司都应自建Benchmark，这是最被低估的护城河

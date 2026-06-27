@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Skill 市集再添硬通货：向阳乔木把「App 图标设计」做成一行 npx 命令"
 description: "**Icon 设计从专业工种降级为一行命令，向阳乔木的 qiaomu-icon-generator 是 Skills 生态向垂直工种渗透的又一个硬样本。**  - 双方案并行：Codex 内调用 Imagen 生图（精细但需精选）+ 2w SVG 图标库检索（简洁可控），覆盖 App 与网页场景 - 安装方式标准化：`npx skills add joeseesun/qiaomu-icon-gen"
 resource: "https://x.com/i/status/2068551441048858744"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2068551441048858744"
-created: "2026-06-21"
-updated: "2026-06-26"
-sha256: "a59901c2568b8e3f0ce839a4d696ae7eb817122cd9d41510fa1707493a525f2b"
-sources:
-  - "/sources/news/2026-06-21/00__vista8__skill-市集再添硬通货-向阳乔木把-app-图标设计-做成一行-npx-命令.md"
 ---
 
 # Skill 市集再添硬通货：向阳乔木把「App 图标设计」做成一行 npx 命令

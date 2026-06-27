@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "DESIGN.md 纯文本设计协议：两周 5 万星，AI 终于理解「审美」了"
 description: "**[设计规范正在被文本化并纳入 AI 工作流]**  awesome-design-md 项目不到两周突破 5 万 Stars，提出 DESIGN.md 纯文本设计系统概念。核心思路：将 Figma 设计规范转译为 Markdown，让 AI 能直接理解和生成代码，而非只在逻辑层面运作。  • 解决了 AI 编程「懂逻辑但不懂审美」的长期痛点 • 目前已整理 60+ 知名品牌设计规范，可直接注入"
 resource: "https://x.com/i/status/2044265167845019771"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2044265167845019771"
-created: "2026-04-15"
-updated: "2026-06-26"
-sha256: "829ea0dc95c2cb574de539cb55657252b9d8f9c3345a8fe1f855db76d0ef41fb"
-sources:
-  - "/sources/news/2026-04-16/00__Jason23818126__design-md-纯文本设计协议-两周-5-万星-ai-终于理解-审美-了.md"
 ---
 
 # DESIGN.md 纯文本设计协议：两周 5 万星，AI 终于理解「审美」了

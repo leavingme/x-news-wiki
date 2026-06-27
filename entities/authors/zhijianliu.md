@@ -1,23 +1,17 @@
 ---
-type: "entity"
+type: "Author"
 title: "Zhijian Liu (@zhijianliu_)"
 description: "X/Twitter 作者 @zhijianliu_。共收录 1 条 AI 精选推文。"
 tags:
   - "x-news"
   - "author"
   - "author:zhijianliu_"
-timestamp: "2026-06-26T11:53:36.997Z"
+timestamp: "2026-06-27T08:40:40.212Z"
 x_handle: "zhijianliu_"
 x_author_name: "Zhijian Liu"
 x_tweet_count: 1
 x_first_seen: "2026-05-06T10:17:45.695Z"
 x_last_seen: "2026-05-06T10:17:45.695Z"
-type_okf: "Author"
-created: "2026-05-06"
-updated: "2026-06-26"
-sha256: "ca930ffa6ddcd10a6f9210b1603af84add9e965fb9028c75b543b09c7212c164"
-sources:
-  - "/sources/news/2026-05-06/00__zhijianliu___dflash-为-gemma-4-提速-6-倍-开源推理优化工具瞄准端侧部署效率瓶颈.md"
 ---
 
 # Zhijian Liu (@zhijianliu_)

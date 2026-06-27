@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "一句话直出 Excel/PPT/PDF/网页：多格式文档生成进入「一次成稿」阶段"
 description: "**小互测试某工具手机版支持一次生成多种格式文档（Excel、PPT、PDF、网页），一个需求直出四种产物。**  - 标志着多模态文档生成从「单格式输出」跨入「同源多格式分发」 - 手机端即可完成，部署门槛进一步降低 - 对内容生产链路的冲击：B 端文档交付、外包设计、运营物料的工时结构将被重写   gakki 锐评：四种格式本质是同一份结构化数据的不同皮肤，真正的价值在「一次成稿」消灭格式转换"
 resource: "https://x.com/i/status/2069593385745478037"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2069593385745478037"
-created: "2026-06-24"
-updated: "2026-06-26"
-sha256: "c3c693ad8e05a39b8c28137d1aa03e55ab625a209877bb2e8582c7683fa9fd63"
-sources:
-  - "/sources/news/2026-06-24/00__xiaohu__一句话直出-excel-ppt-pdf-网页-多格式文档生成进入-一次成稿-阶段.md"
 ---
 
 # 一句话直出 Excel/PPT/PDF/网页：多格式文档生成进入「一次成稿」阶段

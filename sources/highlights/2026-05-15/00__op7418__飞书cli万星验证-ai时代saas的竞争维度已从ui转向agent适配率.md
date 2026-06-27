@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "飞书CLI万星验证：AI时代SaaS的竞争维度已从UI转向Agent适配率"
 description: "**【AI时代SaaS竞争逻辑根本性转变：UI是最低门槛，Agent适配率才是下一个护城河】**  飞书CLI发布一个多月斩获10000 GitHub Stars，这个数字背后藏着比表面更有意义的东西：作为一款IM软件，飞书选择把自己所有能力毫无保留地交给CLI和Agent，这在一个传统互联网产品逻辑里几乎是不可能做的决定——它意味着用户可以完全绕过飞书UI，只用对话完成所有工作。  这背后是一个"
 resource: "https://x.com/i/status/2055173939522159052"
@@ -22,13 +22,6 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "chat-ui-durability"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2055173939522159052"
-created: "2026-05-15"
-updated: "2026-06-26"
-sha256: "ac1a74c6efaca29707ebe3f54c55eefe48c75fc8775fe43a297f47e8892987f1"
-sources:
-  - "/sources/highlights/2026-05-15/00__op7418__飞书cli万星验证-ai时代saas的竞争维度已从ui转向agent适配率.md"
 ---
 
 # 飞书CLI万星验证：AI时代SaaS的竞争维度已从UI转向Agent适配率

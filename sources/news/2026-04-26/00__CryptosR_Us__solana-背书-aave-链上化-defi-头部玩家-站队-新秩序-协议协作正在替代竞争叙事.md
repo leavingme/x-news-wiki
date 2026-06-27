@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Solana 背书 Aave 链上化：DeFi 头部玩家\"站队\"新秩序，协议协作正在替代竞争叙事"
 description: "**Solana 宣布支持 Aave 在其网络部署，稳定币 lending 协议与高性能公链的深度绑定进入新阶段。**  从竞争走向深度整合，说明 DeFi 基础设施层已基本完成\"谁是大动脉\"的格局确认—— Solana 需要 Aave 的 lending 深度，Aave 需要 Solana 的低 gas 与高 TPS。  这对 Agent Economic Autonomy 赛道有直接意义：链上"
 resource: "https://x.com/CryptosR_Us/status/2048235642874642625"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "ai-trend-digest"
-type_okf: "X Tweet"
-source_url: "https://x.com/CryptosR_Us/status/2048235642874642625"
-created: "2026-04-26"
-updated: "2026-06-26"
-sha256: "d015c0b6ac4db99f1f687a45031708b07c367498ab861a163752a7edbaddc125"
-sources:
-  - "/sources/news/2026-04-26/00__CryptosR_Us__solana-背书-aave-链上化-defi-头部玩家-站队-新秩序-协议协作正在替代竞争叙事.md"
 ---
 
 # Solana 背书 Aave 链上化：DeFi 头部玩家"站队"新秩序，协议协作正在替代竞争叙事

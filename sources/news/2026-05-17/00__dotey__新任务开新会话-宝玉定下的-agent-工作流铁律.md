@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "新任务开新会话：宝玉定下的 Agent 工作流铁律"
 description: "**[宝玉明确反对长会话复用：一个任务一个会话，这是当前 Agent 记忆管理混乱下的现实最优解]**  - 当前 Agent 的跨会话记忆机制尚未成熟，长会话反而增加上下文污染风险 - 宝玉的实践指向：任务边界即会话边界，这是工程纪律而非个人偏好 - 与\"Agent 记忆与 Token 优化\"话题直接相关：新会话 = 干净上下文 = 可预测输出  在记忆基础设施成熟前，这可能是最实用的 Agen"
 resource: "https://x.com/i/status/2055907880415449599"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2055907880415449599"
-created: "2026-05-17"
-updated: "2026-06-26"
-sha256: "462e1d1870ed713e084b36e95cd5a9ad3b0b9deb1bf4361955112940518346b8"
-sources:
-  - "/sources/news/2026-05-17/00__dotey__新任务开新会话-宝玉定下的-agent-工作流铁律.md"
 ---
 
 # 新任务开新会话：宝玉定下的 Agent 工作流铁律

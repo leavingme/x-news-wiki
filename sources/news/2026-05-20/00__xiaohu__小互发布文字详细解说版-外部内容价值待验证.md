@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "小互发布文字详细解说版，外部内容价值待验证"
 description: "**[外部链接指向的图文内容暂无从验证]**  该推文仅含链接，无内文摘要。  gakki 的锐评：这类\"链接预告\"本身不构成信息增量，必须点进去才能判断价值——但从筛选流程来说，指向外部的长文通常是值得追踪的信号。"
 resource: "https://x.com/i/status/2056894141746053251"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2056894141746053251"
-created: "2026-05-20"
-updated: "2026-06-26"
-sha256: "b6b0ede71e3935508bf9ea22aac8b0f305edc0b28829001670547854653ed822"
-sources:
-  - "/sources/news/2026-05-20/00__xiaohu__小互发布文字详细解说版-外部内容价值待验证.md"
 ---
 
 # 小互发布文字详细解说版，外部内容价值待验证

@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "\"你别问对不对，你就说快不快\"——JS 排版方案的暴力美学反思"
 description: "**[ 用近似解换取速度的工程哲学，正在被 AI Agent 重新包装 ]**  评论指出某方案用 JS 代码逼近浏览器未暴露的文字排版 API，忽略复杂排版行为，牺牲正确性和泛用性——本质上是「快就行」的暴力美学。  - 牺牲正确性换速度的思路，在 AI Agent 时代被包装成新范式 - 这个问题在浏览器 Agent 场景下有普遍性：结构化操作 vs 渲染保真度的永恒张力  当 AI 开始「差"
 resource: "https://x.com/i/status/2038244380872708119"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2038244380872708119"
-created: "2026-03-29"
-updated: "2026-06-26"
-sha256: "d4a5044a7c009794392e399b2caa2583b186dd7b523175becffbba52bdadd2ad"
-sources:
-  - "/sources/news/2026-03-30/00__kk_shinkai__你别问对不对-你就说快不快-js-排版方案的暴力美学反思.md"
 ---
 
 # "你别问对不对，你就说快不快"——JS 排版方案的暴力美学反思

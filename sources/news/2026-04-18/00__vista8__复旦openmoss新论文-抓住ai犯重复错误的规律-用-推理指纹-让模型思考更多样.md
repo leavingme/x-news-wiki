@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "复旦OpenMOSS新论文：抓住AI犯重复错误的规律，用「推理指纹」让模型思考更多样"
 description: "**[一句话核心判断]**  这篇论文的核心洞察是：AI犯错不是随机的，错误背后藏着「思维定式」——同一个推理思路会反复出错。识别这种模式并加重惩罚，能显著提升准确率。  **信息增量：** - 核心方法：提取神经网络内部各层输出值，捕捉推理模式相似性——即「AI思考指纹」 - 对重复思路的错误加重惩罚：OlympiadBench准确率从70.81→82.67（+17%），MATH500提升近9个"
 resource: "https://x.com/i/status/2045176546609250738"
@@ -22,13 +22,6 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "reasoning-and-model-architecture"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2045176546609250738"
-created: "2026-04-17"
-updated: "2026-06-26"
-sha256: "bf7b24e9790ea39dfd762e62acbd31713058b8e37c9190193e540c79d3485d3f"
-sources:
-  - "/sources/news/2026-04-18/00__vista8__复旦openmoss新论文-抓住ai犯重复错误的规律-用-推理指纹-让模型思考更多样.md"
 ---
 
 # 复旦OpenMOSS新论文：抓住AI犯重复错误的规律，用「推理指纹」让模型思考更多样

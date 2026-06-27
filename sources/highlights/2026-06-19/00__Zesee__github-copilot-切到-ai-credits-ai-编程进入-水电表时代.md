@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "GitHub Copilot 切到 AI Credits：AI 编程进入「水电表时代」"
 description: "**[Agent 时代不是模型之争，而是成本调度之争]** - 2026 年 6 月 1 日起，GitHub Copilot 把重型 agentic workflow 切到 GitHub AI Credits 用量计费 - 轻任务（补全）仍走订阅；读文件/推理/改代码/跑测试按 token 实结算，缓存也进入成本 - 真正的变化是「成本意识」成为新能力：先侦察还是开挖？设边界还是放任？要求证据还是"
 resource: "https://x.com/i/status/2068020897395413099"
@@ -22,13 +22,6 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "ai-tool-subscription-value"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2068020897395413099"
-created: "2026-06-19"
-updated: "2026-06-26"
-sha256: "e1a93e6c924f0dd9fad92498c90800f709828397b6a3b33a7dcdc67d6aebb4e3"
-sources:
-  - "/sources/highlights/2026-06-19/00__Zesee__github-copilot-切到-ai-credits-ai-编程进入-水电表时代.md"
 ---
 
 # GitHub Copilot 切到 AI Credits：AI 编程进入「水电表时代」

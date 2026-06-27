@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "AI Coding 工具口碑逆转：Codex 反超 Claude 的信号与 Gemini 沉默期"
 description: "**AI Coding 竞争格局正在发生微妙但关键的转向。**  - Codex 口碑反超 Claude，标志着 OpenAI 在开发者工具层的追回 - Gemini 在此轮迭代中「沉默」，Google 的 AI Coding 存在感持续稀薄 - 口碑是滞后指标——当用户能感知到「变好」，说明实际体验差距已在 2-4 周前形成  gakki 锐评：AI Coding 的护城河从来不是模型参数，而是"
 resource: "https://x.com/i/status/2053157443329540565"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2053157443329540565"
-created: "2026-05-09"
-updated: "2026-06-26"
-sha256: "d7641b375f1f587aeb75977ad3a5ae9cf7ff768756cac6fc2fe12610b71ad041"
-sources:
-  - "/sources/news/2026-05-09/00__vista8__ai-coding-工具口碑逆转-codex-反超-claude-的信号与-gemini-沉默期.md"
 ---
 
 # AI Coding 工具口碑逆转：Codex 反超 Claude 的信号与 Gemini 沉默期

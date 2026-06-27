@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Farzapedia：把2500条个人碎片炼成417篇结构化Wiki，专为Agent设计而非人类"
 description: "**【Wiki Pattern 从概念到可复用系统的惊险一跃】**  FarzaTV 将 Karpathy 的 Wiki Pattern 真正落地：把过去数年 2500 条日记、备忘录、iMessage 对话全部喂给 LLM，自动生成 417 篇结构化个人维基——Farzapedia。  **真正的范式转移在这里：** - 不是给人读的，是专为 AI Agent 设计 - 纯 Markdown +"
 resource: "https://x.com/i/status/2040635298179428371"
@@ -22,13 +22,6 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "llm-knowledge-base-rag-boundary"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2040635298179428371"
-created: "2026-04-05"
-updated: "2026-06-26"
-sha256: "f29e78eddcf46bc0981254b855ff9d2ce6c1d51a0565ede0c42e072256c16b01"
-sources:
-  - "/sources/highlights/2026-04-05/00__AYi_AInotes__farzapedia-把2500条个人碎片炼成417篇结构化wiki-专为agent设计而非人类.md"
 ---
 
 # Farzapedia：把2500条个人碎片炼成417篇结构化Wiki，专为Agent设计而非人类

@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "不懂AI的老板用扣子赚到了钱：技术先进性与商业交付力的断层正在被验证"
 description: "**AI产品的真正护城河不是技术深度，而是标准化交付和渠道复制能力。**  - 一位不懂AI但拿到大结果的老板，用扣子搭企业工作流，核心策略是「不教客户太多工具，标准化一个就够了」 - 商业逻辑完全绕开技术路线：零售打标杆→渠道招商→开分公司→让别人帮你卖，高峰300+合伙人 - 关键观察：大部分人用AI工具后又卸载了——不是工具不好，是「打开成本」太高  gakki 锐评：技术人总觉得模型越强产"
 resource: "https://x.com/i/status/2051973246233317501"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2051973246233317501"
-created: "2026-05-06"
-updated: "2026-06-26"
-sha256: "80a598ccc4d4cd75ca440688b57bdd5dc6044915560c4c1e4c2809b24b11fcef"
-sources:
-  - "/sources/news/2026-05-06/00__gkxspace__不懂ai的老板用扣子赚到了钱-技术先进性与商业交付力的断层正在被验证.md"
 ---
 
 # 不懂AI的老板用扣子赚到了钱：技术先进性与商业交付力的断层正在被验证

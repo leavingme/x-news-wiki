@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "AI 模型的\"iPhone 时刻\"已过：大模型更新正在经历从狂热到平庸的范式转移"
 description: "**[一句话核心判断]** 大模型迭代正从\"突破式\"切换到\"改良式\"节奏，类似于 iPhone 后期的小步快跑——这可能是 AI 泡沫从底层模型开始渗透到上层应用的第一个信号。  - **信号捕捉**：模型更新从追求 AGI 突破转向追求稳定可用，更新速度放缓已肉眼可见。 - **连锁推断**：底层模型放缓 → 投资预期下修 → 应用层融资窗口收窄 → 泡沫从基础设施向应用层蔓延。 - **有趣视"
 resource: "https://x.com/i/status/2061995418725314911"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2061995418725314911"
-created: "2026-06-03"
-updated: "2026-06-26"
-sha256: "5a9a489c6221189df8ab41fcda02dc60f65c10571cf51cd2ee499d874c339234"
-sources:
-  - "/sources/news/2026-06-03/00__lxfater__ai-模型的-iphone-时刻-已过-大模型更新正在经历从狂热到平庸的范式转移.md"
 ---
 
 # AI 模型的"iPhone 时刻"已过：大模型更新正在经历从狂热到平庸的范式转移

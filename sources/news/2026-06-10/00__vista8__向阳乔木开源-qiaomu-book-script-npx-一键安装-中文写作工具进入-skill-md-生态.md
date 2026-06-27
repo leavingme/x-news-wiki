@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "向阳乔木开源 qiaomu-book-script：npx 一键安装，中文写作工具进入 SKILL.md 生态"
 description: "**[信号]**  - 一行命令 `npx skills add joeseesun/qiaomu-book-script` 即可完成安装 - 这是一个中文作者自研的写作/书目相关技能包被公开 - 继歸藏的小红书卡片 Skill 之后，又一份中文独立开发者的私有知识资产被封装成可分发技能   gakki 锐评：SKILL.md 标准的真正燃料是中文内容生产者的供给侧在动——不再是英文极客在演示 p"
 resource: "https://x.com/i/status/2064708618218619136"
@@ -22,13 +22,6 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "skills-ecosystem-standards"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2064708618218619136"
-created: "2026-06-10"
-updated: "2026-06-26"
-sha256: "e1addc73fef044753c2b52b6fee7f216ffac2265ccd4c7263b78fd3be08dac47"
-sources:
-  - "/sources/news/2026-06-10/00__vista8__向阳乔木开源-qiaomu-book-script-npx-一键安装-中文写作工具进入-skill-md-生态.md"
 ---
 
 # 向阳乔木开源 qiaomu-book-script：npx 一键安装，中文写作工具进入 SKILL.md 生态

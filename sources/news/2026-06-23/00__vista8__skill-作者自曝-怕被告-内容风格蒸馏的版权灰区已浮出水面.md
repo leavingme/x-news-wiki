@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Skill 作者自曝「怕被告」：内容风格蒸馏的版权灰区已浮出水面"
 description: "**Skill 生态的版权边界第一次被作者本人公开承认**  - 向阳乔木在演示了「新智元味」Skill 后，自述「怕人家告侵权，仅供娱乐」，说明头部 Skill 创作者已经意识到风格复刻涉及法律风险 - 此前 Skills 讨论集中在工程效率，本条把视角拉到「知识产权」——媒体品牌方、机构 KOL 的「话语指纹」被蒸馏后是否构成侵权，将成为下一个争议焦点 - 「仅供娱乐」式的免责声明在当前司法实"
 resource: "https://x.com/i/status/2069437460636164261"
@@ -22,13 +22,6 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "skills-ecosystem-standards"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2069437460636164261"
-created: "2026-06-23"
-updated: "2026-06-26"
-sha256: "7addd2ea14a4c5953ed53a554b3fc6bd2c83f0ab5dc2eb69e28c904fb594d389"
-sources:
-  - "/sources/news/2026-06-23/00__vista8__skill-作者自曝-怕被告-内容风格蒸馏的版权灰区已浮出水面.md"
 ---
 
 # Skill 作者自曝「怕被告」：内容风格蒸馏的版权灰区已浮出水面

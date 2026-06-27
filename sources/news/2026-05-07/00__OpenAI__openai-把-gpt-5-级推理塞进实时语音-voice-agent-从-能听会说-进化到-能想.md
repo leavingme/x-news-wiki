@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "OpenAI 把 GPT-5 级推理塞进实时语音：Voice Agent 从\"能听会说\"进化到\"能想\""
 description: "**语音 Agent 终于有了推理能力，不再是鹦鹉学舌式的对话。** - GPT-Realtime-2 带来 GPT-5 级推理到实时语音场景 - 配套推出 GPT-Realtime-Translate 和 GPT-Realtime-Whisper 两个流式模型 - 语音 Agent 变成\"实时协作者\"——边听边推理边解决问题  语音 Agent 的竞争维度从\"延迟低、识别准\"升级到了\"能不能在对"
 resource: "https://x.com/OpenAI/status/2052438194625593804"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "ai-trend-digest"
-type_okf: "X Tweet"
-source_url: "https://x.com/OpenAI/status/2052438194625593804"
-created: "2026-05-07"
-updated: "2026-06-26"
-sha256: "8ce776e06c69ce29e04571e405635c624ade22dac1fa7156347fa16437c8ef74"
-sources:
-  - "/sources/news/2026-05-07/00__OpenAI__openai-把-gpt-5-级推理塞进实时语音-voice-agent-从-能听会说-进化到-能想.md"
 ---
 
 # OpenAI 把 GPT-5 级推理塞进实时语音：Voice Agent 从"能听会说"进化到"能想"

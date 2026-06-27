@@ -1,23 +1,17 @@
 ---
-type: "entity"
+type: "Author"
 title: "X Freeze (@XFreeze)"
 description: "X/Twitter 作者 @XFreeze。共收录 1 条 AI 精选推文。"
 tags:
   - "x-news"
   - "author"
   - "author:XFreeze"
-timestamp: "2026-06-26T11:53:36.993Z"
+timestamp: "2026-06-27T08:40:40.207Z"
 x_handle: "XFreeze"
 x_author_name: "X Freeze"
 x_tweet_count: 1
 x_first_seen: "2026-05-01T10:18:26.273Z"
 x_last_seen: "2026-05-01T10:18:26.273Z"
-type_okf: "Author"
-created: "2026-05-01"
-updated: "2026-06-26"
-sha256: "e494b971e45a590ab5729286b747f9b7d11727f693dd7125200a86ffbc307cc7"
-sources:
-  - "/sources/news/2026-05-01/00__XFreeze__美国生育率再创新低-53-1-ai-自动化的-人口红利-前提正在坍塌.md"
 ---
 
 # X Freeze (@XFreeze)

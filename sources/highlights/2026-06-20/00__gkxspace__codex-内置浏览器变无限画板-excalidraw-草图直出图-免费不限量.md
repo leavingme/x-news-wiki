@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Codex 内置浏览器变无限画板：Excalidraw 草图直出图，免费不限量"
 description: "**[Codex 的浏览器+生图能力被严重低估：草图→出图全链路打通]**  要点： - Codex 打开 Excalidraw，画布上随手画草稿标注，Codex 基于草图直接出图 - 内置 Imagen 模型，几乎不限量；对比按次收费的生图工具 ≈ 免费无限画板 - 配合编程能力可批量生图、统一风格、自动后期，出图一站式完成   锐评：Codex 一直被当作 CLI 编码工具，但内置浏览器+生图"
 resource: "https://x.com/i/status/2068328803508629893"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2068328803508629893"
-created: "2026-06-20"
-updated: "2026-06-26"
-sha256: "c5203476b6f8bfb8b949c17085465133611cfc3a2bbb9e6f53974472297718e9"
-sources:
-  - "/sources/highlights/2026-06-20/00__gkxspace__codex-内置浏览器变无限画板-excalidraw-草图直出图-免费不限量.md"
 ---
 
 # Codex 内置浏览器变无限画板：Excalidraw 草图直出图，免费不限量

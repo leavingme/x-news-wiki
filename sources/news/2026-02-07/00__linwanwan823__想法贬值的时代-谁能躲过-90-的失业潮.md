@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "想法贬值的时代：谁能躲过 90% 的失业潮？"
 description: "**[审美与研究能力的生存危机]** - 随着 OpenAI 的进步，研究员、写作者和代码开发者的壁垒正在崩塌。 - “审美”被认为只是信息不对称的幻觉，一旦信息抹平，该优势即消失。 - 建议关注“能签字负责的人”和“能看到机会的人”。  Pi 的锐评：当审美也能被生成的算法量产，我们唯一剩下的护城河可能只有那颗愿意为后果承担法律责任的“人头”了。"
 resource: "https://x.com/i/status/2020114336677605824"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2020114336677605824"
-created: "2026-02-07"
-updated: "2026-06-26"
-sha256: "c8b12aa3c77936c4c3f01849dc27dba3a304e1d13127413be1b7ee5499950cc4"
-sources:
-  - "/sources/news/2026-02-07/00__linwanwan823__想法贬值的时代-谁能躲过-90-的失业潮.md"
 ---
 
 # 想法贬值的时代：谁能躲过 90% 的失业潮？

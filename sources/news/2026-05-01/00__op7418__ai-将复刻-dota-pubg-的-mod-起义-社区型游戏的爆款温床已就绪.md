@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "AI 将复刻 Dota/PUBG 的 Mod 起义：社区型游戏的爆款温床已就绪"
 description: "**AI 正在重演游戏史上的「Mod 涌现」时刻——低创作成本意味着下一个爆款游戏类型可能从社区里长出来。**  - Roblox 式社区游戏因 AI 工具降低创作门槛而具备爆发基础，历史参照：Dota、PUBG 原始玩法均源自 Mod 社区 - 当前缺的不是能力，而是一个整合 AI 游戏创作工具的平台——这是一个明确的产品空白 - 判断：谁先做出「AI 版 Roblox」，谁就握住了下一个游戏范"
 resource: "https://x.com/i/status/2050076458266308853"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2050076458266308853"
-created: "2026-05-01"
-updated: "2026-06-26"
-sha256: "f3edcde339a1ccf53d15da0852e732f3b0159b96ffd9c256229f505756291486"
-sources:
-  - "/sources/news/2026-05-01/00__op7418__ai-将复刻-dota-pubg-的-mod-起义-社区型游戏的爆款温床已就绪.md"
 ---
 
 # AI 将复刻 Dota/PUBG 的 Mod 起义：社区型游戏的爆款温床已就绪

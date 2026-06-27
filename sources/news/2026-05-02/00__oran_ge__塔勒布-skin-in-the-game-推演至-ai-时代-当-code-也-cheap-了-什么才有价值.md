@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "塔勒布 Skin in the Game 推演至 AI 时代：当 code 也 cheap 了，什么才有价值？"
 description: "**「Talk is cheap, show me the code」的时代正在终结——当代码生成成本趋近于零，skin in the game 的稀缺性标准上移了。**  - 塔勒布的核心判断：没有风险暴露的产出不值得信任。代码生成成本暴降后，写代码本身不再构成「skin」 - 推演链：talk cheap → code cheap → 文章 cheap → 只有「承担真金白银风险的判断」才被市"
 resource: "https://x.com/i/status/2050590721779143141"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2050590721779143141"
-created: "2026-05-02"
-updated: "2026-06-26"
-sha256: "e1b35346df10ba8ab6cb6dcd319b629756cb93b1801d66ff22ce78e9487ddc06"
-sources:
-  - "/sources/news/2026-05-02/00__oran_ge__塔勒布-skin-in-the-game-推演至-ai-时代-当-code-也-cheap-了-什么才有价值.md"
 ---
 
 # 塔勒布 Skin in the Game 推演至 AI 时代：当 code 也 cheap 了，什么才有价值？

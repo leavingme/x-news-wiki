@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "玉伯的反直觉判断：「丰饶时代，匮乏无处不在」"
 description: "**当所有人都在拥抱AI带来的丰饶，匮乏的本质正在转移而非消失。**  - 玉伯（前蚂蚁CTO、现独立观察者）用六个字浓缩了AI时代的核心悖论：工具越丰富，注意力/判断力/深度思考越稀缺 - 这句话与他此前「知识管理已死」「产品定义能力才是护城河」的系列判断一脉相承——AI降低了执行门槛，但拉高了认知门槛 - 「匮乏无处不在」暗示：表面的工具平权掩盖了新的能力分层  玉伯的表达方式本身就在践行他的"
 resource: "https://x.com/i/status/2050194509489938630"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2050194509489938630"
-created: "2026-05-01"
-updated: "2026-06-26"
-sha256: "587d44ffefbb524eb2918d15e2189daf85cd905617dfa84b9f68b7e247dbf4d9"
-sources:
-  - "/sources/news/2026-05-01/00__lifesinger__玉伯的反直觉判断-丰饶时代-匮乏无处不在.md"
 ---
 
 # 玉伯的反直觉判断：「丰饶时代，匮乏无处不在」

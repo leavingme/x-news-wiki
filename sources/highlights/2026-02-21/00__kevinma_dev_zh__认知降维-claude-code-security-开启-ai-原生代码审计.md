@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "认知降维：Claude Code Security 开启 AI 原生代码审计"
 description: "**[核心逻辑]** Anthropic 发布预览版代码安全工具，利用大模型对复杂数据流的理解能力，识别传统静态扫描（SAST/DAST）无法触达的业务逻辑漏洞。在开源项目中已验证发现 500+ 高危潜伏漏洞。  *   **穿透力**：不再是简单的模式匹配，而是具备“认知分析”能力的代码审计。 *   **行业冲击**：直接威胁传统 AppSec 公司，将安全从“外挂防护”转为“嵌入式认知”。 "
 resource: "https://x.com/i/status/2024993316744691796"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2024993316744691796"
-created: "2026-02-20"
-updated: "2026-06-26"
-sha256: "52ed732a859dc0a9621d49ae64d53f4e02157630c890ca7b2ceef6a820b61fe3"
-sources:
-  - "/sources/highlights/2026-02-21/00__kevinma_dev_zh__认知降维-claude-code-security-开启-ai-原生代码审计.md"
 ---
 
 # 认知降维：Claude Code Security 开启 AI 原生代码审计

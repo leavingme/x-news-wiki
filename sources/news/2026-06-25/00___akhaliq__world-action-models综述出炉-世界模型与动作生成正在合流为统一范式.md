@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "World Action Models综述出炉：世界模型与动作生成正在合流为统一范式"
 description: "**学术界首次系统性梳理「World Action Models」，把世界建模与动作生成纳入同一框架。**  - 该综述把近期世界模型（World Models）与动作生成（Action Generation）方向的关键工作汇总对齐，强调对环境预测与行动决策的联合学习 - 与 V-JEPA、LeCun 的 JEPA 路线形成呼应，进一步统一具身 AI 的理论语言 - 关键信号是「定名」——一个方向"
 resource: "https://x.com/i/status/2069449298912170026"
@@ -22,13 +22,6 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "world-model-paradigm"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2069449298912170026"
-created: "2026-06-23"
-updated: "2026-06-26"
-sha256: "7dead6536da0fb15e81b6d3c8ef094a99448262fd7858130a720a21a0f22e0a4"
-sources:
-  - "/sources/news/2026-06-25/00___akhaliq__world-action-models综述出炉-世界模型与动作生成正在合流为统一范式.md"
 ---
 
 # World Action Models综述出炉：世界模型与动作生成正在合流为统一范式

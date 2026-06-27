@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "WorkBuddy 主动收窄到办公场景：企业 Agent 的'广度 vs 深度'路线分化"
 description: "**WorkBuddy 的办公定位，是企业 Agent 从'通用平台'转向'场景专家'的标志性信号。**  1. 余温指出 WorkBuddy 主动定位办公场景，放弃通用 Agent 的广度 2. 与'通用 Agent 框架 + Skills 生态'路径形成对照——企业服务真正需要的是深度而非广度 3. 印证腾讯 AI 在 to B 端的差异化：不与字节、火山在通用能力上硬碰，而是切办公垂直  锐"
 resource: "https://x.com/i/status/2066525515331047485"
@@ -22,13 +22,6 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "enterprise-agent-product"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2066525515331047485"
-created: "2026-06-15"
-updated: "2026-06-26"
-sha256: "fac64178932ac26d48fb1341fef55fe93b90e05ae299141444528afabf9e3b84"
-sources:
-  - "/sources/news/2026-06-15/00__gkxspace__workbuddy-主动收窄到办公场景-企业-agent-的-广度-vs-深度-路线分化.md"
 ---
 
 # WorkBuddy 主动收窄到办公场景：企业 Agent 的'广度 vs 深度'路线分化

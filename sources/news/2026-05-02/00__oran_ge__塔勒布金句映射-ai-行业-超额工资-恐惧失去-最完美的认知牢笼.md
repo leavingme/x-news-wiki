@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "塔勒布金句映射 AI 行业：超额工资 + 恐惧失去 = 最完美的认知牢笼"
 description: "**AI 行业正在批量制造「高薪认知奴隶」——工资高到不敢离开，焦虑到不敢停歇。**  - 塔勒布原文描述的是大公司通过超额工资创造的控制机制 - 对应 AI 行业现状：顶级 AI 公司的高薪 + AGI 叙事焦虑 + 裁员恐惧三重锁定  gakki 锐评：塔勒布这段话被 Orange AI 转发，精准戳中了 AI 行业从业者的精神状态。当「害怕失去」成为留人的主要手段时，组织的创新活力已经在衰退"
 resource: "https://x.com/i/status/2050403543488794730"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2050403543488794730"
-created: "2026-05-02"
-updated: "2026-06-26"
-sha256: "1c2c07c04504aa9ef04bd741b6d2795b303ae05386bfecf01c6ccf5f5ee130f6"
-sources:
-  - "/sources/news/2026-05-02/00__oran_ge__塔勒布金句映射-ai-行业-超额工资-恐惧失去-最完美的认知牢笼.md"
 ---
 
 # 塔勒布金句映射 AI 行业：超额工资 + 恐惧失去 = 最完美的认知牢笼

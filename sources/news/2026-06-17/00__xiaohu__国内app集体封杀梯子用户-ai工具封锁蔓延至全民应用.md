@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "国内APP集体封杀梯子用户：AI工具封锁蔓延至全民应用"
 description: "**[梯子用户被主流APP拒绝服务，国内互联网进入「断网即失联」阶段]**  • 多个国内APP开始识别并拒绝VPN/梯子用户使用，不限于AI工具 • 反映网络管控从「特定站点」升级到「用户身份识别」层 • AI灰市用户的工具获取成本进一步上升   gakki锐评：这条信号比技术封锁更值得关注——它意味着AI工具的获取摩擦已经从「能不能上」变成「上了能不能用」，合规算力渠道的价值会被重新定价。"
 resource: "https://x.com/i/status/2067246395577524525"
@@ -22,13 +22,6 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "ai-grey-market"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2067246395577524525"
-created: "2026-06-17"
-updated: "2026-06-26"
-sha256: "a1436292e5abae0768583b6e0ecf0cd9824093dfdaf5575cda86984a2b664f7a"
-sources:
-  - "/sources/news/2026-06-17/00__xiaohu__国内app集体封杀梯子用户-ai工具封锁蔓延至全民应用.md"
 ---
 
 # 国内APP集体封杀梯子用户：AI工具封锁蔓延至全民应用

@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Claude Opus 4.8 诚实度升级：长程 Agent 任务终于不用时时盯着了"
 description: "**一句话核心判断：** Opus 4.8 最大的变化不是能力边界扩展，而是「知道自己不知道」的元认知提升，这对需要无人值守运行的复杂 Agent 任务意义重大。  - 更愿意承认不确定，更少为凑答案而硬编，对自身进度能做出真实判断——这是模型从「表演智能」向「工程可靠」转变的信号 - 快速模式（fast mode）速度提升 2.5 倍，价格降至原来的 1/3，Claude Code 内置 /fa"
 resource: "https://x.com/i/status/2060051148921323542"
@@ -22,13 +22,6 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "claude-code-ecosystem"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2060051148921323542"
-created: "2026-05-28"
-updated: "2026-06-26"
-sha256: "dee7979fc2947be57a585df7641e296dbce6086cdf3a8291a3d4c9e9ee1741c7"
-sources:
-  - "/sources/highlights/2026-05-28/00__dotey__claude-opus-4-8-诚实度升级-长程-agent-任务终于不用时时盯着了.md"
 ---
 
 # Claude Opus 4.8 诚实度升级：长程 Agent 任务终于不用时时盯着了

@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Petdex：Codex 终端宠物商店——AI 工具的「玩具层」开始长出生态"
 description: "**Petdex 提供 Codex 终端小宠物的预览、下载和社区提交，`npx petdex install` 一键安装。**  - 纯娱乐向的开发者工具扩展，但代表了 AI 编程工具的生态成熟度信号 - 社区可提交宠物 = 开放贡献模式，与 VSCode 主题生态逻辑一致  工具的生命力不只在功能，还在「好不好玩」。当 Codex 开始有宠物商店、皮肤系统，说明用户基数已大到能支撑纯娱乐生态。这"
 resource: "https://x.com/i/status/2052021728763637915"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2052021728763637915"
-created: "2026-05-06"
-updated: "2026-06-26"
-sha256: "f0f58f8a67c373584322e8142f0329aecfa2827ed153a4569a55507533d7d3fd"
-sources:
-  - "/sources/news/2026-05-06/00__xiaohu__petdex-codex-终端宠物商店-ai-工具的-玩具层-开始长出生态.md"
 ---
 
 # Petdex：Codex 终端宠物商店——AI 工具的「玩具层」开始长出生态

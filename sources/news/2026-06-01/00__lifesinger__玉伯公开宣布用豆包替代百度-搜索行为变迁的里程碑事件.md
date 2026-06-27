@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "玉伯公开宣布用豆包替代百度：搜索行为变迁的里程碑事件"
 description: "**【一句话核心判断】**  一个顶级产品经理公开承认用AI搜索替代传统搜索引擎，这是搜索行为范式迁移的明确信号。  **关键要点：** - 玉伯（王保岭，前蚂蚁集团研究员，知名产品人）公开表示豆包已成为其主要搜索入口 - 从\"好事还是坏事\"的自问来看，当事人本身对这一转变存在复杂情绪 - 这不是技术问题，是用户心智迁移的量化证据  **gakki锐评：** 当最懂产品的这批人开始公开承认自己的搜"
 resource: "https://x.com/i/status/2061316655331037243"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2061316655331037243"
-created: "2026-06-01"
-updated: "2026-06-26"
-sha256: "e3e6c70df8caa42d8789af26103aeaf64d282e86d57d76f02c91eb7d2e2866ee"
-sources:
-  - "/sources/news/2026-06-01/00__lifesinger__玉伯公开宣布用豆包替代百度-搜索行为变迁的里程碑事件.md"
 ---
 
 # 玉伯公开宣布用豆包替代百度：搜索行为变迁的里程碑事件

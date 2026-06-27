@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "阿里×浙大 ECHO：将投机解码重新定义为预算调度问题，Qwen3-235B 实测提速 5.35 倍"
 description: "**一句话核心判断** 投机解码在高并发下反而减速的根源找到了——SGLang 集成 ECHO 框架，把投机执行建模为预算调度问题，用稀疏置信门控动态平衡深度与宽度。  **信息增量** - 突破传统投机解码依赖固定 draft model 的范式，将问题抽象为 batch 级资源调度 - 在 Qwen3-235B 等大模型上，低负载和高负载场景均实现 5.35 倍 walltime 加速 - 与"
 resource: "https://x.com/i/status/2057526588326170926"
@@ -22,13 +22,6 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "ai-multimodel-routing"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2057526588326170926"
-created: "2026-05-21"
-updated: "2026-06-26"
-sha256: "004e1fb342443c1e126bad614de1a38d0b1fd9b8284e26bcfdf80ad7176e7294"
-sources:
-  - "/sources/news/2026-05-21/00__jiqizhixin__阿里-浙大-echo-将投机解码重新定义为预算调度问题-qwen3-235b-实测提速-5-35-倍.md"
 ---
 
 # 阿里×浙大 ECHO：将投机解码重新定义为预算调度问题，Qwen3-235B 实测提速 5.35 倍

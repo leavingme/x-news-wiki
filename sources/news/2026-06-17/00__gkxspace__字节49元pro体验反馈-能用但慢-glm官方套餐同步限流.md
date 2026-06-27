@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "字节49元Pro体验反馈：能用但慢，GLM官方套餐同步限流"
 description: "用户实测反馈：字节49元Pro套餐基本可用但速度偏慢；同期GLM官方套餐也开始限流。两条信号叠加，反映国内C端推理服务正同步进入「低价+限流」阶段。  - 字节Pro走低价走量路线，牺牲响应速度换规模化 - GLM作为推理云代表，限流意味着免费/低价档位供给收缩 - 用户选型从「比价格」转向「比稳定性+限流宽松度」"
 resource: "https://x.com/i/status/2067238942525604310"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2067238942525604310"
-created: "2026-06-17"
-updated: "2026-06-26"
-sha256: "65274bc3b2cb97080dd5c2bc8c11d272f7efe63044747732b6e8e68165e6d805"
-sources:
-  - "/sources/news/2026-06-17/00__gkxspace__字节49元pro体验反馈-能用但慢-glm官方套餐同步限流.md"
 ---
 
 # 字节49元Pro体验反馈：能用但慢，GLM官方套餐同步限流

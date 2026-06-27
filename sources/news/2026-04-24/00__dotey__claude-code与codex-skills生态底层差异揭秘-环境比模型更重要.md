@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Claude Code与Codex Skills生态底层差异揭秘：环境比模型更重要"
 description: "**一句话核心判断：** Skills的本质不是\"提示词\"，而是\"执行环境\"的封装——不同Agent间的壁垒在Harness层而非模型层。  **信息增量：** - Codex用GPT模型，Claude Code用Claude模型，提示词偏好和能力边界本就不同 - 真正的差异在工具集、AskUserQuestion等环境能力，Skills必须做Agent感知定制 - 跨Agent的Skills复用"
 resource: "https://x.com/i/status/2047388496944361834"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2047388496944361834"
-created: "2026-04-23"
-updated: "2026-06-26"
-sha256: "d45cae974630b727496f94aec58dcbc7fcb414e89fc3b716bf85741b6612ff8e"
-sources:
-  - "/sources/news/2026-04-24/00__dotey__claude-code与codex-skills生态底层差异揭秘-环境比模型更重要.md"
 ---
 
 # Claude Code与Codex Skills生态底层差异揭秘：环境比模型更重要

@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Youmind 成为 YouTube 学习工作流的隐形冠军"
 description: "**[Youmind 的 YouTube 解析能力正在形成稳定的内容消费入口]**  余温的背书透露出一个信号：Youmind 在 YouTube 解析这个细分场景已经建立了口碑——稳定、可用、值得依赖。这是工具型 AI 产品的典型增长路径：在一个高频场景里做到不丢人，然后靠用户自来水扩散。  对于「AI 知识工具」这个赛道而言，Youmind 的存在说明：**结构化摘录 + 逐字稿 + 对话式复"
 resource: "https://x.com/i/status/2058556052442931694"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2058556052442931694"
-created: "2026-05-24"
-updated: "2026-06-26"
-sha256: "60d1a33f9d46f70d826a7e087611a34a7628171857e9092f412a04689636823c"
-sources:
-  - "/sources/news/2026-05-24/00__gkxspace__youmind-成为-youtube-学习工作流的隐形冠军.md"
 ---
 
 # Youmind 成为 YouTube 学习工作流的隐形冠军

@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "DeepSeek-V4适配四大Agent框架：国产模型进入\"全生态\"时代"
 description: "**一句话核心判断：** DeepSeek-V4对OpenClaw/Claude Code/OpenCode/CodeBuddy的全面适配，是国产模型从\"能用\"到\"被用\"的关键一跃。  **信息增量：** - 覆盖当前最主流的四个开源/商业Agent产品 - 代码任务、文档生成等核心场景表现均有提升 - 意味着DeepSeek正在用生态覆盖弥补品牌认知的劣势  **gakki锐评：** 生态适配是"
 resource: "https://x.com/i/status/2047514610945978625"
@@ -22,13 +22,6 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "deepseek-v4-open-source"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2047514610945978625"
-created: "2026-04-24"
-updated: "2026-06-26"
-sha256: "8f4479490c6b2b76c88f76469e840b593d2593ea699ec35b0d7b5cfbf3f471dd"
-sources:
-  - "/sources/news/2026-04-24/00__xiaohu__deepseek-v4适配四大agent框架-国产模型进入-全生态-时代.md"
 ---
 
 # DeepSeek-V4适配四大Agent框架：国产模型进入"全生态"时代

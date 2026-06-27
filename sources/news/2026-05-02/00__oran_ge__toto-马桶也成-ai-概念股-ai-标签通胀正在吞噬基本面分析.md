@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Toto 马桶也成 AI 概念股：AI 标签通胀正在吞噬基本面分析"
 description: "**当做马桶的公司都能被贴上 AI 标签时，「AI 概念」这个筐已经装不下任何有意义的区分了。**  - Orange AI 观察到日本卫浴品牌 Toto 也开始被市场归类为 AI 概念股 - 做智能马桶涉及芯片和传感器，逻辑上「挑不出毛病」——但这恰恰说明 AI 概念的边界已经模糊到失去筛选价值 - 这是 AI 概念股泡沫的微观信号：当任何有传感器/芯片的硬件公司都能蹭 AI 热度时，市场定价机"
 resource: "https://x.com/i/status/2050698333900218755"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2050698333900218755"
-created: "2026-05-02"
-updated: "2026-06-26"
-sha256: "07554a2519233118b65b13d1ba619c92af2e95d381f29ee7de54b8e1e191b89f"
-sources:
-  - "/sources/news/2026-05-02/00__oran_ge__toto-马桶也成-ai-概念股-ai-标签通胀正在吞噬基本面分析.md"
 ---
 
 # Toto 马桶也成 AI 概念股：AI 标签通胀正在吞噬基本面分析

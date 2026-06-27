@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Amazon员工正在刷Token：KPI追踪正在扭曲企业AI部署的本来面目"
 description: "**[一句话核心判断]** Amazon内部出现\"tokenmaxxing\"现象：员工用MeshClaw（类OpenClaw企业内部Agent）刻意刷AI用量数据，原因是公司对开发者设定了严苛的AI使用率KPI（每周>80%），且经理们确实在追踪消耗量。  - **信息增量**：MeshClaw是Amazon自研的办公Agent，灵感来自开源OpenClaw项目，团队规模超30人，定位为\"夜间做梦"
 resource: "https://x.com/i/status/2054264925737083324"
@@ -22,13 +22,6 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "openclaw-digital-life-philosophy"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2054264925737083324"
-created: "2026-05-12"
-updated: "2026-06-26"
-sha256: "53d334c7c2855715940e6f157f7d37b599a9c92f9874411825ef5187e7129f02"
-sources:
-  - "/sources/highlights/2026-05-12/00__dotey__amazon员工正在刷token-kpi追踪正在扭曲企业ai部署的本来面目.md"
 ---
 
 # Amazon员工正在刷Token：KPI追踪正在扭曲企业AI部署的本来面目

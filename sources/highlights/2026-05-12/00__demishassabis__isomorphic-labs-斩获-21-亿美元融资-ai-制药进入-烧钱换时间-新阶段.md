@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Isomorphic Labs 斩获 21 亿美元融资：AI 制药进入「烧钱换时间」新阶段"
 description: "**[AI + 生物医药的资本密度已不输基础模型层]  Demis Hassabis 掌舵的 Isomorphic Labs 宣布获得 21 亿美元新融资，累计融资金额跃升至大型基础模型厂商级别。资金将全部注入 AI 驱动的药物研发，目标从「加速发现」升级为「有一天解决所有疾病」——这是 AI 医疗领域迄今最激进的时间表宣言。AlphaFold 的蛋白质结构预测能力是核心资产，但真正值钱的是积累的"
 resource: "https://x.com/demishassabis/status/2054197462101889277"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
-
 x_source: "ai-trend-digest"
-type_okf: "X Tweet"
-source_url: "https://x.com/demishassabis/status/2054197462101889277"
-created: "2026-05-12"
-updated: "2026-06-26"
-sha256: "1f582cd04465e5d928903c221b9885dab3c5730d2d858b3c0aa15d9e3407acc8"
-sources:
-  - "/sources/highlights/2026-05-12/00__demishassabis__isomorphic-labs-斩获-21-亿美元融资-ai-制药进入-烧钱换时间-新阶段.md"
 ---
 
 # Isomorphic Labs 斩获 21 亿美元融资：AI 制药进入「烧钱换时间」新阶段

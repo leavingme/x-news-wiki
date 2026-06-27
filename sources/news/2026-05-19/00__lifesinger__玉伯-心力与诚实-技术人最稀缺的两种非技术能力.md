@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "玉伯：心力与诚实——技术人最稀缺的两种非技术能力"
 description: "**玉伯回忆三位贵人：马云的眼神落寞与不服、彭蕾的「错了就是错了」、字节两位朋友的极端自洽。**  这不只是一篇回忆，而是对技术圈\"结果导向文化\"的反向思考：真正影响人的，往往不是项目成败，而是做人方式的感染。  在AI能力飞速提升的当下，这个观察格外值得咀嚼：当工具越来越强，做人的心力反而成了最稀缺的护城河。"
 resource: "https://x.com/i/status/2056767699066495403"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2056767699066495403"
-created: "2026-05-19"
-updated: "2026-06-26"
-sha256: "b9827b87c2c65d1640c9ef8637c473ffa032ce943191f430c38cea87c9a32640"
-sources:
-  - "/sources/news/2026-05-19/00__lifesinger__玉伯-心力与诚实-技术人最稀缺的两种非技术能力.md"
 ---
 
 # 玉伯：心力与诚实——技术人最稀缺的两种非技术能力

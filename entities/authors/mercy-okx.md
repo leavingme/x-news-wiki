@@ -1,23 +1,17 @@
 ---
-type: "entity"
+type: "Author"
 title: "Mercy (@Mercy_okx)"
 description: "X/Twitter 作者 @Mercy_okx。共收录 1 条 AI 精选推文。"
 tags:
   - "x-news"
   - "author"
   - "author:Mercy_okx"
-timestamp: "2026-06-26T11:53:36.966Z"
+timestamp: "2026-06-27T08:40:40.175Z"
 x_handle: "Mercy_okx"
 x_author_name: "Mercy"
 x_tweet_count: 1
 x_first_seen: "2026-03-24T00:42:53.999Z"
 x_last_seen: "2026-03-24T00:42:53.999Z"
-type_okf: "Author"
-created: "2026-03-24"
-updated: "2026-06-26"
-sha256: "7115666a1d2c1bb0d2602a3bc5117738274761fa7f5d983226f9a706c99d5a44"
-sources:
-  - "/sources/highlights/2026-03-24/00__Mercy_okx__agentic-economy-临界点-okx-agentic-wallet-正在打通-ai-自动化执行的最后一公里.md"
 ---
 
 # Mercy (@Mercy_okx)

@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "MapleShaw 开源 Seedance 2.0 提示词 Skill：30+ 实测案例把抽卡成功率从 40% 拉到 80%"
 description: "**[MapleShaw 公开 Seedance 2.0 视频生成提示词库：3 个月迭代 7 版，沉淀 6 个创意项目、30+ 实测案例]**  - 食用率提升：常规场景抽卡成功率从 ~40% 提升到 80%，不再依赖运气 - 形态定位：虽叫 Skill，本质是 Prompt 库，能看到\"提示词资产\"在视频生成领域的成长轨迹 - 核心价值：不是单条 prompt 优化，而是把\"成功 prompt "
 resource: "https://x.com/i/status/2069360262273188250"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2069360262273188250"
-created: "2026-06-23"
-updated: "2026-06-26"
-sha256: "66a57c490c8b690bf77e4a5eddde1369281686fee7e84cb22bb63262911979f1"
-sources:
-  - "/sources/news/2026-06-24/00__msjiaozhu__mapleshaw-开源-seedance-2-0-提示词-skill-30-实测案例把抽卡成功率从-40-拉到-80.md"
 ---
 
 # MapleShaw 开源 Seedance 2.0 提示词 Skill：30+ 实测案例把抽卡成功率从 40% 拉到 80%

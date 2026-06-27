@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "宝玉推荐 Claude Design 做简历：'设计稿即代码'范式开始外溢到个人文档"
 description: "**Claude Design 简历场景：'设计稿即代码'范式开始外溢到个人高频文档** - 宝玉推荐用 Claude Design 生成简历，把结构化文档当作视觉产品来做 - 思路延续'线框图→PRD→代码'路径，但落地到个人高频、低门槛场景 - 暗示 Claude Design 真正的护城河不是设计工具，而是'任何视觉输出物的版本化工作流'  Gakki 锐评：简历是低门槛高传播的杀手场景——"
 resource: "https://x.com/i/status/2065863609507258631"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2065863609507258631"
-created: "2026-06-13"
-updated: "2026-06-26"
-sha256: "3c677a78a414cc4782f3062fe46ee4fd7ed5933c7e83d941cb97ea141fc638f7"
-sources:
-  - "/sources/news/2026-06-13/00__dotey__宝玉推荐-claude-design-做简历-设计稿即代码-范式开始外溢到个人文档.md"
 ---
 
 # 宝玉推荐 Claude Design 做简历：'设计稿即代码'范式开始外溢到个人文档

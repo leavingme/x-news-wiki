@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "USPE 将 PE 变成 ETF：散户终于可以「无门槛」买到机构级私募股权"
 description: "**[一句话核心判断]**  USPE 通过监管政策变化，将过去只有合格投资者能参与的私募股权打包成 ETF 形式在交易所上市——私募 PE 的「民主化」首次有了产品载体。  **后续要点：** - 历史背景：PE 过去 24 年跑赢公募股权 1330%，但流动性极差、门槛极高 - 创新结构：Exchange Traded Structure + 无审批、无最低投资额、无文件要求 - 分销网络：R"
 resource: "https://x.com/JeffLeathers/status/2049125780027048053"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "ai-trend-digest"
-type_okf: "X Tweet"
-source_url: "https://x.com/JeffLeathers/status/2049125780027048053"
-created: "2026-04-28"
-updated: "2026-06-26"
-sha256: "76a64b18b9195199855778f18c820f53088785f6d1d0016224d4dc232b8025c9"
-sources:
-  - "/sources/news/2026-04-28/00__JeffLeathers__uspe-将-pe-变成-etf-散户终于可以-无门槛-买到机构级私募股权.md"
 ---
 
 # USPE 将 PE 变成 ETF：散户终于可以「无门槛」买到机构级私募股权

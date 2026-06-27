@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "微信 Agent 小微灰度内测：腾讯把完整生态开放给了 AI"
 description: "**微信把 Agent 入口做到了原子级，不止聊天，连发红包、加好友、读公众号都能调用。**  卡兹克拿到内测资格后实测：主入口在微信首页左上角，能发消息/发红包（需人工确认卡片）；群聊/私聊里通过加号菜单触发，可读聊天记录并代发消息。  非测试级完成度，多个子入口能力各异，群聊读不到所有记录的限制明显。  入口遍及聊天加号、公众号详情页、视频号更多页——这不是做一个 AI 助手，是把微信变成 A"
 resource: "https://x.com/i/status/2069082627836109026"
@@ -22,13 +22,6 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "agent-multi-platform"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2069082627836109026"
-created: "2026-06-22"
-updated: "2026-06-26"
-sha256: "9ae03a24726784843c4b1828e64cf3dc646d66b78604b66d2ac9de6245211784"
-sources:
-  - "/sources/news/2026-06-22/00__Khazix0918__微信-agent-小微灰度内测-腾讯把完整生态开放给了-ai.md"
 ---
 
 # 微信 Agent 小微灰度内测：腾讯把完整生态开放给了 AI

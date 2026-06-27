@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "OpenAI 收购 Ona 摊牌：Codex 不再是编码工具，而是要吃掉所有 AI 应用的超级入口"
 description: "**[OpenAI 通过收购 Ona 把 Codex 从编码工具推向\"覆盖大部分 AI 应用\"的超级入口，代码本身反而是交易里最便宜的资产]** - Ona 的真实价值不是产品功能，而是多年沉淀的生产环境企业客户与团队 - \"任务丢上云、合盖笔记本照样跑、企业在自己 VPC 里部署 agent\"明确指向企业级基础设施落地 - \"代码他们随手就写了\"道出 AI 时代稀缺资源从代码本身转向客户关系与部"
 resource: "https://x.com/i/status/2065209713923616811"
@@ -22,13 +22,6 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "openai-super-app-strategy"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2065209713923616811"
-created: "2026-06-11"
-updated: "2026-06-26"
-sha256: "6a47974b3d38cc72c50f7f5fed70720ae750b68aba94f542487b43b734abd3f5"
-sources:
-  - "/sources/highlights/2026-06-12/00__gkxspace__openai-收购-ona-摊牌-codex-不再是编码工具-而是要吃掉所有-ai-应用的超级入口.md"
 ---
 
 # OpenAI 收购 Ona 摊牌：Codex 不再是编码工具，而是要吃掉所有 AI 应用的超级入口

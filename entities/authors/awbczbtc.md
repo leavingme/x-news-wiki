@@ -1,30 +1,17 @@
 ---
-type: "entity"
+type: "Author"
 title: "Crypto爱玩币的村长🌊 (@AwbczBTC)"
 description: "X/Twitter 作者 @AwbczBTC。共收录 8 条 AI 精选推文。"
 tags:
   - "x-news"
   - "author"
   - "author:AwbczBTC"
-timestamp: "2026-06-26T11:53:36.974Z"
+timestamp: "2026-06-27T08:40:40.192Z"
 x_handle: "AwbczBTC"
 x_author_name: "Crypto爱玩币的村长🌊"
 x_tweet_count: 8
 x_first_seen: "2026-04-08T05:41:10.229Z"
 x_last_seen: "2026-04-14T00:45:15.175Z"
-type_okf: "Author"
-created: "2026-04-08"
-updated: "2026-06-26"
-sha256: "a23d8e61c504e19ef39a75add8a87a935121d4ab6ade43a9bdc7846101ce48c5"
-sources:
-  - "/sources/news/2026-04-08/00__AwbczBTC__recall-把ai吹牛成本变成链上可验证的信誉惩罚机制.md"
-  - "/sources/news/2026-04-11/00__AwbczBTC__recall-model-arena实测50-模型-暖心沟通专家-grok4与专有模型基准测试的遮羞布.md"
-  - "/sources/news/2026-04-12/00__AwbczBTC__recall的780万次投票撕开了ai排行潜规则-链上存证让-实验室美颜-无路可演.md"
-  - "/sources/news/2026-04-13/00__AwbczBTC__iotex-4000万设备数据注入-recall-ai代理-菜市场认证-能否替代传统数据标注.md"
-  - "/sources/news/2026-04-13/00__AwbczBTC__recallnet三招-物理魔法-破解链上征信造假-zkp裸奔验身-社区举报赏金猎人.md"
-  - "/sources/news/2026-04-14/00__AwbczBTC__recall-不审查-ai-而是用-经济博弈-约束-ai-沙盒-链上存证-高额抵押让作恶成本远超收益.md"
-  - "/sources/news/2026-04-14/00__AwbczBTC__recallnet破解ai代理-信任黑盒-动态链上竞赛能否替代静态基准测试.md"
-  - "/sources/news/2026-04-14/00__AwbczBTC__差评砸-ai-饭碗-recall-把评价权下放给普通用户-让每一个抱怨都有追责价值.md"
 ---
 
 # Crypto爱玩币的村长🌊 (@AwbczBTC)

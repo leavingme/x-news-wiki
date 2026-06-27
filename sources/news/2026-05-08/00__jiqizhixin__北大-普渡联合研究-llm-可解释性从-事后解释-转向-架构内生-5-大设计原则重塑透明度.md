@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "北大/普渡联合研究：LLM 可解释性从「事后解释」转向「架构内生」，5 大设计原则重塑透明度"
 description: "**内在可解释性（intrinsic interpretability）首次系统化定义，比 post-hoc 方法更可靠。**  • 北大、普渡、南大研究团队提出概念对齐、稀疏性等 5 项设计原则 • 核心思路：把透明度直接嵌入模型架构，而非训练完再「猜」 • 可解释性研究正在从「学术理想」走向「工程约束」  gakki 锐评：这篇研究的价值在于把「可解释性」从道德呼吁变成工程指标——当安全审计需"
 resource: "https://x.com/i/status/2052817811001491918"
@@ -22,13 +22,6 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "ai-safety-alignment"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2052817811001491918"
-created: "2026-05-08"
-updated: "2026-06-26"
-sha256: "d9aef4de4b34cca58d65eb1477133795642a2a0ab1a56c496fde0494380dce82"
-sources:
-  - "/sources/news/2026-05-08/00__jiqizhixin__北大-普渡联合研究-llm-可解释性从-事后解释-转向-架构内生-5-大设计原则重塑透明度.md"
 ---
 
 # 北大/普渡联合研究：LLM 可解释性从「事后解释」转向「架构内生」，5 大设计原则重塑透明度

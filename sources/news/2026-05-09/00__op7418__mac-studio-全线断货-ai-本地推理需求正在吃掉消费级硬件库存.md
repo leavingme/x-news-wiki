@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Mac Studio 全线断货：AI 本地推理需求正在吃掉消费级硬件库存"
 description: "**Mac Studio 断货不是消费电子信号，是本地 AI 推理需求的真实投射。**  - 归藏观察到 Mac Studio 全线缺货，结合 Gemma 4、Qwen 3.5 等端侧模型持续迭代，本地推理正在从尝鲜走向刚需 - 高统一内存的 Mac 正成为个人 AI 服务器的首选载体，供给端尚未跟上需求曲线  断货是需求信号而非供给事故。当开发者开始用消费级硬件跑 Agent，算力民主化的第一波"
 resource: "https://x.com/i/status/2053020181853778289"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2053020181853778289"
-created: "2026-05-09"
-updated: "2026-06-26"
-sha256: "e8b6d3740d3a849945e7abfdf75aba4a1bbffeb57d563ba6cf89b7f263434404"
-sources:
-  - "/sources/news/2026-05-09/00__op7418__mac-studio-全线断货-ai-本地推理需求正在吃掉消费级硬件库存.md"
 ---
 
 # Mac Studio 全线断货：AI 本地推理需求正在吃掉消费级硬件库存

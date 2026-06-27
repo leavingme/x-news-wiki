@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Gemini Omni：世界模型的雏形，通用AGI的初始形态"
 description: "**[小互对Gemini Omni的定性判断：它不是视频编辑器，而是世界模型的雏形，代表通用AGI的初始形态。]**  要点： - Gemini Omni被类比为\"视频版的香蕉\"，意指其能力远超单纯视频编辑 - 核心判断：它是世界模型的雏形，意味着对物理世界规律的抽象理解与推理 - 激进观点：这是通用AGI的初始形态——不是渐进增强，而是范式起点  [gakki] 互联网老炮都知道，每次\"XX是A"
 resource: "https://x.com/i/status/2056880322076352844"
@@ -22,13 +22,6 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "v-jepa-world-model"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2056880322076352844"
-created: "2026-05-19"
-updated: "2026-06-26"
-sha256: "16dbd5f403f7f7ffdaa4cd1151e0dcc083e3e3a00a2de46e5448adb6d8de5840"
-sources:
-  - "/sources/highlights/2026-05-20/00__xiaohu__gemini-omni-世界模型的雏形-通用agi的初始形态.md"
 ---
 
 # Gemini Omni：世界模型的雏形，通用AGI的初始形态

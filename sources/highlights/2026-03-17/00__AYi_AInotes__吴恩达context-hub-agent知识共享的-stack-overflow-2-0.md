@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "吴恩达Context Hub：Agent知识共享的「Stack Overflow 2.0」"
 description: "**Agent知识共享基础设施的范式级突破。** • 吴恩达开源 Context Hub，6k Star 快速破圈，文档量从100份激增至千份级 • 核心机制：智能体给文档打分反馈，形成「贡献-验证-优化」的闭环生态 • 隐私安全兜底设计，解决 Agent 协作中的数据主权焦虑  Agent 之间的知识传递过去靠「人类搬运工」，现在有了专用协议。这不是简单的文档库，而是智能体社会的「公共记忆层」—"
 resource: "https://x.com/i/status/2033834037471842387"
@@ -22,13 +22,6 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "agent-knowledge-sharing-infra"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2033834037471842387"
-created: "2026-03-17"
-updated: "2026-06-26"
-sha256: "abeca7901c1a2d2b3351c14e52823628b264bdcaa900f2db937a263304ebc1cd"
-sources:
-  - "/sources/highlights/2026-03-17/00__AYi_AInotes__吴恩达context-hub-agent知识共享的-stack-overflow-2-0.md"
 ---
 
 # 吴恩达Context Hub：Agent知识共享的「Stack Overflow 2.0」

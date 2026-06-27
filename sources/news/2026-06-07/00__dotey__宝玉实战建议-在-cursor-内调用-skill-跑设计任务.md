@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "宝玉实战建议：在 Cursor 内调用 Skill 跑设计任务"
 description: "**Cursor + Skill 组合被宝玉点名为设计类工作的当下最优工作流**。 - 宝玉回复用户时直接贴出 SKILL 链接，建议\"在 Cursor 里面用这个 Skill\" - 意味着 Skills 生态已突破纯 Agent 工具边界，开始侵入 IDE 形态的设计工具链 - 配套看 ID 2063447800482759107（\"本地可闭环修改设计\"）和 206345919282062994"
 resource: "https://x.com/i/status/2063461804550897858"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2063461804550897858"
-created: "2026-06-07"
-updated: "2026-06-26"
-sha256: "b780d14af7adc9380dd4d04119f2b7b6e6b548eaa6ef1c3e383255db9ceca01b"
-sources:
-  - "/sources/news/2026-06-07/00__dotey__宝玉实战建议-在-cursor-内调用-skill-跑设计任务.md"
 ---
 
 # 宝玉实战建议：在 Cursor 内调用 Skill 跑设计任务

@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "一条命令毁掉14年开源项目：hexo 维护者误操作丢失4万星标，GitHub 无法恢复"
 description: "**开源项目的运维风险被严重低估——一个 CLI 误操作就能抹掉十年积累。**  - hexojs/hexo 维护者 uiolee 在错误目录执行 `gh repo edit`，将公开仓库意外切换为私有 - 14年历史、40,000+ Stars/Watches/Forks 全部丢失，GitHub 明确表示无法恢复 - 事故本质：GitHub CLI 的 `gh repo edit` 没有二次确认"
 resource: "https://x.com/i/status/2053023449224810899"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2053023449224810899"
-created: "2026-05-09"
-updated: "2026-06-26"
-sha256: "58d0e697d8a8c318f6f4cb3a0d23310a86eca2f13e76c255cf5a234186311b08"
-sources:
-  - "/sources/news/2026-05-09/00__jiqizhixin__一条命令毁掉14年开源项目-hexo-维护者误操作丢失4万星标-github-无法恢复.md"
 ---
 
 # 一条命令毁掉14年开源项目：hexo 维护者误操作丢失4万星标，GitHub 无法恢复

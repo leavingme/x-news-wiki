@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "阳光经济学： 为什么加州和好天气绑定了一切"
 description: "**一句话核心判断** 阳光不只是气候现象，它是唯一不可被AI替代的基础资源——人类的肉体对光照的依赖，构成了AI时代最深层的「物理约束」。  **要点** - 人类视觉系统在低光照下效率断崖式下降，这解释了为何远程工作无法完全取代线下，而AI Agent也改变不了这一点 - 加州的科技繁荣与阳光高度相关：不是因果，但有相关性——好天气让人愿意出门、愿意待在户外、愿意社交，这些是创新发生的基础条件"
 resource: "https://x.com/i/status/2058343129800172006"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2058343129800172006"
-created: "2026-05-24"
-updated: "2026-06-26"
-sha256: "3da509b7fa946bd8d2b8561279bea6298b87a16b49e13e6804220acad2045d18"
-sources:
-  - "/sources/news/2026-05-24/00__oran_ge__阳光经济学-为什么加州和好天气绑定了一切.md"
 ---
 
 # 阳光经济学： 为什么加州和好天气绑定了一切

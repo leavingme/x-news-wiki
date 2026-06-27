@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "长文插图 skill 首发：7.5 万字压成 20 张图，「宁抽卡不修改」比精修更省 token"
 description: "**[长内容正在被 Skill 化压成视觉切片：Agent 生成 N 套让用户挑，注意力稀缺时代阅读门槛从 7.5 万字降到 1 分钟]**  - 发布开源「橙线插画.skill」，为《置身钉内》每个场景生成 2 套配图让人挑选，工作流核心是「先生成后筛选」而非「反复微调」 - 关键心法「宁抽卡不修改」：AI 图像生产正从 PS 式精修转向抽卡式多轮生成，用 token 换确定性，是当下性价比最高"
 resource: "https://x.com/i/status/2066334932553859341"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2066334932553859341"
-created: "2026-06-15"
-updated: "2026-06-26"
-sha256: "6cfad2e9e15db61367f177f999b765b9beb722da7abe200e051af7705964ff83"
-sources:
-  - "/sources/highlights/2026-06-15/00__oran_ge__长文插图-skill-首发-7-5-万字压成-20-张图-宁抽卡不修改-比精修更省-token.md"
 ---
 
 # 长文插图 skill 首发：7.5 万字压成 20 张图，「宁抽卡不修改」比精修更省 token

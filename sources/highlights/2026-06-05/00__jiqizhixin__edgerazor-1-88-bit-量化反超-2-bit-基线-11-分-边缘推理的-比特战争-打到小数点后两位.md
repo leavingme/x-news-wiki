@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "EdgeRazor 1.88-bit 量化反超 2-bit 基线 11 分：边缘推理的\"比特战争\"打到小数点后两位"
 description: "南大+微软发布 EdgeRazor 框架，把 Qwen3-0.6B 压到 1.88-bit，性能反超最优 2-bit 基线 11.27 分。  - 混合精度蒸馏 + 量化感知训练，按模块差异化分配 bit-width - 重点特征筛选 + 人写/AI 生成数据平衡训练，缓解低比特下的能力塌方 - 边缘小模型进入\"亚 2-bit\"实用区间，手机端跑 Qwen3 系列的门槛继续下移 - 进一步验证 J"
 resource: "https://x.com/i/status/2062950830681063750"
@@ -22,13 +22,6 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "edge-inference-optimization"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2062950830681063750"
-created: "2026-06-05"
-updated: "2026-06-26"
-sha256: "dedef8e2f29526cd508f3d2ac9d8b9f4e98ad4048ec750177a3d6e871b90962a"
-sources:
-  - "/sources/highlights/2026-06-05/00__jiqizhixin__edgerazor-1-88-bit-量化反超-2-bit-基线-11-分-边缘推理的-比特战争-打到小数点后两位.md"
 ---
 
 # EdgeRazor 1.88-bit 量化反超 2-bit 基线 11 分：边缘推理的"比特战争"打到小数点后两位

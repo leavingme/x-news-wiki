@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Anthropic 封杀 OpenClaw 本质是一场算力地缘政治演习"
 description: "**[按量收费不是定价策略，是平台对「套利用户」的强制退出令]**  Anthropic 对 OpenClaw 的约束，表面是商业账算不过来（用户花 200 刀消耗几千刀算力），实质是中心化 AI 平台在给自己划边界——当外部工具能绕开官方界面直接消耗算力，平台对用户体验和安全的控制权就被架空了。这和 OpenClaw 自身的 Agent 经济自主权叙事形成了直接对撞。  对 AI+Crypto "
 resource: "https://x.com/i/status/2040691140924723291"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2040691140924723291"
-created: "2026-04-05"
-updated: "2026-06-26"
-sha256: "91baa80dc7f22d1e7c0ce809f797736b82d7ad21dbdd306c2184c662f4cc5397"
-sources:
-  - "/sources/news/2026-04-05/00__furan86999__anthropic-封杀-openclaw-本质是一场算力地缘政治演习.md"
 ---
 
 # Anthropic 封杀 OpenClaw 本质是一场算力地缘政治演习

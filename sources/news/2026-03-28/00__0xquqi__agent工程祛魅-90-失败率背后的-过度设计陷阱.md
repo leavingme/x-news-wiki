@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Agent工程祛魅：90%失败率背后的「过度设计陷阱」"
 description: "**[Anthropic/OpenAI内部方法论首次面向新手系统化输出]** • 行业潜规则被戳破：大多数Agent项目死于「框架堆叠强迫症」而非技术瓶颈 • 三「分钟」课程的价值在于「约束优先」——先建立正确的Agent心智模型，再谈架构 • 隐性信号：头部模型厂商正在从「卖API」转向「卖工程方法论」，竞争维度已从能力层下沉到教育层  **gakki锐评**：「从零造Agent」的爆款标题背后"
 resource: "https://x.com/i/status/2037420519868494219"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2037420519868494219"
-created: "2026-03-27"
-updated: "2026-06-26"
-sha256: "4a2ba0975f3ae4909122140f8690fb37936492c8a6ced135a443a3c887100a87"
-sources:
-  - "/sources/news/2026-03-28/00__0xquqi__agent工程祛魅-90-失败率背后的-过度设计陷阱.md"
 ---
 
 # Agent工程祛魅：90%失败率背后的「过度设计陷阱」

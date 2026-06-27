@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "高市首相面对政治压力仍尊重版权：日本政治精英的法治底色"
 description: "**[一句话核心判断]**  Michael Anti 指出日本首相高市在巨大政治压力下，坚持尊重文春（ Bunshun）的版权，为一条值得关注的跨领域信号。  **信息增量：** - 文春是日本以调查皇室和政治丑闻闻名的刊物，版权争议在政治压力下本可能被「特事特办」 - 高市的做法显示日本政治精英对法治程序的基本尊重，即使代价是政治上的被动 - Michael Anti 作为资深媒体观察者，将这"
 resource: "https://x.com/i/status/2062417510436384966"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2062417510436384966"
-created: "2026-06-04"
-updated: "2026-06-26"
-sha256: "018c5b7cea6f981a288017f6768f8dc474510ec8ea9dc1689fcb7a06fd99fdc2"
-sources:
-  - "/sources/news/2026-06-04/00__mranti__高市首相面对政治压力仍尊重版权-日本政治精英的法治底色.md"
 ---
 
 # 高市首相面对政治压力仍尊重版权：日本政治精英的法治底色

@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "陶哲轩断言：AI正在扫荡数学界的「矮墙」，但黎曼猜想需「尚未发明的协作模式」"
 description: "**[AI将假说生成成本打到接近零]** • 类比互联网将通信成本归零后「内容价值」取代「管道价值」，AI正让「想法本身」贬值 • 黎曼猜想或需人类与AI建立「非指挥非替代」的新型协作关系 • 顶尖数学家承认：具体怎么做「现在谁也不知道」  **gakki锐评：** 当菲尔兹奖得主开始认真讨论「AI-人类协作的未知形态」，意味着AI科研已从「工具辅助」进入「范式重构」深水区。这不是炒作，是认知框架"
 resource: "https://x.com/i/status/2036291229227348152"
@@ -22,13 +22,6 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "ai-research-paradigm"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2036291229227348152"
-created: "2026-03-24"
-updated: "2026-06-26"
-sha256: "72892ce5979ff6c69ab18ad8f512a4206c7d51c3001fee4e832b45d7f14e3fe5"
-sources:
-  - "/sources/highlights/2026-03-24/00__xiaohu__陶哲轩断言-ai正在扫荡数学界的-矮墙-但黎曼猜想需-尚未发明的协作模式.md"
 ---
 
 # 陶哲轩断言：AI正在扫荡数学界的「矮墙」，但黎曼猜想需「尚未发明的协作模式」

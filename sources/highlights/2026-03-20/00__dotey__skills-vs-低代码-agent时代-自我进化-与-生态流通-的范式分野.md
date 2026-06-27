@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Skills vs 低代码：Agent时代「自我进化」与「生态流通」的范式分野"
 description: "**[Agent工具链正在复制App Store的指数级网络效应]** • 核心差异：低代码是「给人用的机器执行」，Skills是「给Agent用的Agent执行」 • 进化能力鸿沟：低代码依赖人工迭代，Skills可由Agent自我完善（人仅引导验证） • 生态规模：ClawHub Skills从1万激增至近3万，9万+社区规模验证流通价值 • 「Agent即操作系统，Skills即App」的隐"
 resource: "https://x.com/i/status/2034681002677674271"
@@ -22,13 +22,6 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "agent-lego-composable-toolchain"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2034681002677674271"
-created: "2026-03-19"
-updated: "2026-06-26"
-sha256: "029bb9a49ab2e4d974da8618a3c34aba241eae359249c611784e505a3bf706ec"
-sources:
-  - "/sources/highlights/2026-03-20/00__dotey__skills-vs-低代码-agent时代-自我进化-与-生态流通-的范式分野.md"
 ---
 
 # Skills vs 低代码：Agent时代「自我进化」与「生态流通」的范式分野

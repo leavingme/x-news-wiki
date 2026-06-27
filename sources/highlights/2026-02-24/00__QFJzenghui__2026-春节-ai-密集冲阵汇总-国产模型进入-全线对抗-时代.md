@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "2026 春节 AI 密集冲阵汇总：国产模型进入“全线对抗”时代"
 description: "**[核心逻辑]** 智谱 GLM-5、字节豆包 2.0、阿里 Qwen 3.5-Plus 密集发布，主打高性价比与长文本，开启对海外巨头的全方位追赶。  - **技术亮点**：Qwen 3.5 推理提效 19 倍，DeepSeek 升级 1M 上下文，豆包 2.0 将推理成本降至极致。 - **资本狂欢**：月之暗面估值破百亿美元，智谱/MiniMax 市值合破 5800 亿港元。  [gakk"
 resource: "https://x.com/i/status/2025958127355691477"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2025958127355691477"
-created: "2026-02-23"
-updated: "2026-06-26"
-sha256: "de6b6b2278c0a74550899b906cc6969c2f9cfeff621631cd0797d7445550dbe6"
-sources:
-  - "/sources/highlights/2026-02-24/00__QFJzenghui__2026-春节-ai-密集冲阵汇总-国产模型进入-全线对抗-时代.md"
 ---
 
 # 2026 春节 AI 密集冲阵汇总：国产模型进入“全线对抗”时代

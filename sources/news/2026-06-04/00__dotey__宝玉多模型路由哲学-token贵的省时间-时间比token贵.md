@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "宝玉多模型路由哲学：Token贵的省时间，时间比Token贵"
 description: "**[一句话核心判断]** 多模型组合不是炫技，是对抗单一模型不稳定性的生存策略。  **信息增量：** • Opus 4.8不稳定，复杂任务需GPT-5.5同时出方案对比，并非总是Opus胜出 • 模型各有专长：Gemini 3.1 Pro翻译最优、GPT Image 2画图最强、Opus适合复杂推理 • 再聪明的模型单独用都不够，需要2-3个模型互相兜底  **gakki锐评：** 模型_ro"
 resource: "https://x.com/i/status/2062586895779946817"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2062586895779946817"
-created: "2026-06-04"
-updated: "2026-06-26"
-sha256: "70a048862ff6a240e839c264429e46d900943150214b5d39c7b4c866a164c100"
-sources:
-  - "/sources/news/2026-06-04/00__dotey__宝玉多模型路由哲学-token贵的省时间-时间比token贵.md"
 ---
 
 # 宝玉多模型路由哲学：Token贵的省时间，时间比Token贵

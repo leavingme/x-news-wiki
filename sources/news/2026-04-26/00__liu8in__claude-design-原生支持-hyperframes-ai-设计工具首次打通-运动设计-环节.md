@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Claude Design 原生支持 HyperFrames：AI 设计工具首次打通「运动设计」环节"
 description: "**[Claude Design 内置 HyperFrames 生成能力，设计工作流被彻底重构]**  Bin Liu 实测验证：Claude Design 可原生创建 HyperFrames 视频，仅需 2 条 prompt 即完成一条 Motion Designer 级别的视频。这一能力此前需要 After Effects 或专业设计师完成。  - HyperFrames skill 已可在 "
 resource: "https://x.com/liu8in/status/2048157838497992926"
@@ -22,13 +22,6 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "claude-design-disruption"
 x_source: "ai-trend-digest"
-type_okf: "X Tweet"
-source_url: "https://x.com/liu8in/status/2048157838497992926"
-created: "2026-04-25"
-updated: "2026-06-26"
-sha256: "d5468024c1b126be261caba38b2305799e53570274a64bf6ce9dd761dc8def66"
-sources:
-  - "/sources/news/2026-04-26/00__liu8in__claude-design-原生支持-hyperframes-ai-设计工具首次打通-运动设计-环节.md"
 ---
 
 # Claude Design 原生支持 HyperFrames：AI 设计工具首次打通「运动设计」环节

@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "《咒术迴游》照进现实：Vibe Coding 是 AI 时代的死灭迴游"
 description: "**【「人人能做出 App」的代价：一场没有裁判的生存游戏】**  推主将 Vibe Coding 比作《咒术迴战》中的「死灭迴游」——非程序员在 Codex/Claude Code 下指令，外行也能跑起像样的产品，就像被强制觉醒「术式」的角色被丢进生存游戏。  核心类比：咒力（人人有一点）≈ AI 工具的可及性；术式（独有技能）≈ 专业判断力。门槛消失，但竞争维度升维。  深层含义：当「做出东西"
 resource: "https://x.com/i/status/2040776283337232683"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2040776283337232683"
-created: "2026-04-05"
-updated: "2026-06-26"
-sha256: "f5ffb65f1dea080b3aa032c6dc5bee94faf705ff7ef6b5aa00c25ad50b2bd382"
-sources:
-  - "/sources/news/2026-04-06/00__pirrer__咒术迴游-照进现实-vibe-coding-是-ai-时代的死灭迴游.md"
 ---
 
 # 《咒术迴游》照进现实：Vibe Coding 是 AI 时代的死灭迴游

@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "AGI House落地中国：14天吃住全包的孵化营，WaytoAGI联手红杉押注AI创业者"
 description: "**一句话核心判断：** AI孵化器从BP纸面作战进入\"真陪跑\"时代——包食宿、14天、导师驻场+用户反馈+资源对接，这是国内迄今规格最高的AI创业加速营。  **要点：** - AGI House由WaytoAGI与红杉联合发起，第一期落地上海，线上可旁听 - 6月底Orange AI会到场，意味着顶级AI创业者开始形成圈层聚合效应 - 另一个北京场是出海垂直活动，定位清晰：面向出海圈而非通用创"
 resource: "https://x.com/i/status/2060159042719535394"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2060159042719535394"
-created: "2026-05-29"
-updated: "2026-06-26"
-sha256: "899acf77e1502fbb9cdd0f2c41c8b0f829eb5472433546a35a248b66d533f780"
-sources:
-  - "/sources/news/2026-05-29/00__oran_ge__agi-house落地中国-14天吃住全包的孵化营-waytoagi联手红杉押注ai创业者.md"
 ---
 
 # AGI House落地中国：14天吃住全包的孵化营，WaytoAGI联手红杉押注AI创业者

@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Codex 7天顺延 vs Claude 剩余满额：AI 编程工具订阅重置逻辑的隐性体验差异"
 description: "**一句话：Claude 比 Codex 良心的细节藏在「时间不浪费」里——Codex 重置后顺延 7 天，Claude 则是剩余时间全部满额。**  这看起来是小事，但暴露了一个关键产品哲学差异：Codex 采用「延期制」（用不完就叠加），Claude 采用「清零制」（剩余时间不累积但期间满额）。对于认真按量使用的开发者，延期制反而可能造成「容量浪费」的认知陷阱——你以为自己有 9 天缓冲，实际"
 resource: "https://x.com/i/status/2061556501450228081"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2061556501450228081"
-created: "2026-06-01"
-updated: "2026-06-26"
-sha256: "8bdffe43725e2302706905631c1b89c192f00a0aa20083f265671773fca4600e"
-sources:
-  - "/sources/news/2026-06-01/00__dotey__codex-7天顺延-vs-claude-剩余满额-ai-编程工具订阅重置逻辑的隐性体验差异.md"
 ---
 
 # Codex 7天顺延 vs Claude 剩余满额：AI 编程工具订阅重置逻辑的隐性体验差异

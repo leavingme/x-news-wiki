@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "155k Stars 的两本书拆解 Claude Code vs Codex：工具名词相同不代表系统骨架相同"
 description: "**[两套 AI Coding Harness 的思想史，而非功能对照表]**  这两本书试图回答一个被反复错误回答的问题：Claude Code 和 Codex 有什么不同？作者指出了最常见的错误——拿功能对照表当思想史，左边写「有技能」，右边也写「有技能」。这样几乎什么也没说，因为「工具中的名词相同，不代表系统的骨架相同，就像两个城市都修了桥，不能说明它们是按同一条河设计的」。  **要点：*"
 resource: "https://x.com/i/status/2039333332987810103"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2039333332987810103"
-created: "2026-04-01"
-updated: "2026-06-26"
-sha256: "887a8d198bee54493d3dd9a12dd8e3abffc40c23fafb6c8b6a83235ea869482f"
-sources:
-  - "/sources/news/2026-04-02/00__wquguru__155k-stars-的两本书拆解-claude-code-vs-codex-工具名词相同不代表系统骨架相同.md"
 ---
 
 # 155k Stars 的两本书拆解 Claude Code vs Codex：工具名词相同不代表系统骨架相同

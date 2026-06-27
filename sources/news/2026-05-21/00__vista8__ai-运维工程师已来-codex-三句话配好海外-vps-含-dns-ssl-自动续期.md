@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "AI 运维工程师已来：Codex 三句话配好海外 VPS，含 DNS、SSL 自动续期"
 description: "**一句话核心判断** AI 正在将\"运维\"这个专业工种彻底平民化——SSH 账号密码加 Cloudflare API，普通人三句话搞定完整部署链路。  **信息增量** - 案例实证：宝塔面板时代正式翻篇，AI 接管域名解析、HTTPS 证书申请与自动续期 - 门槛降低的意义：VPS 运维从技术岗位变成\"对话操作\" - 隐含信号：Cloudflare DNS API 权限即插即用，说明 AI 对"
 resource: "https://x.com/i/status/2057509048413769894"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2057509048413769894"
-created: "2026-05-21"
-updated: "2026-06-26"
-sha256: "ec0b714d9135ef7cd5f009c263d1a89ac221602cf605d179644233114433df2b"
-sources:
-  - "/sources/news/2026-05-21/00__vista8__ai-运维工程师已来-codex-三句话配好海外-vps-含-dns-ssl-自动续期.md"
 ---
 
 # AI 运维工程师已来：Codex 三句话配好海外 VPS，含 DNS、SSL 自动续期

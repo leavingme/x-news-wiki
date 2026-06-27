@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "CAPER++ 把「关节物体位姿感知」做成 50FPS 实时框架，具身智能补齐通用拼图"
 description: "**一项关节物体位姿感知框架 CAPER++ 被提出，把具身 AI 抓取/操作的最大障碍之一——铰接物体（机械臂、工具、家具）的形变追踪——压到 50 FPS 实时可用。**  - 用 root + 关节连接部件的层级建模表示铰接物体，区别于传统整体位姿估计 - 用 SE(3) 流形数学方法避免旋转跟踪误差，关键帧策略防漂移 - 在合成、半合成、真实世界 benchmark 全面 SOTA，推理 "
 resource: "https://x.com/i/status/2063335365474467992"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2063335365474467992"
-created: "2026-06-06"
-updated: "2026-06-26"
-sha256: "fe90ae671387dbd8ca28401ec76603b972295224514c8022216ebda24d964f55"
-sources:
-  - "/sources/news/2026-06-06/00__jiqizhixin__caper-把-关节物体位姿感知-做成-50fps-实时框架-具身智能补齐通用拼图.md"
 ---
 
 # CAPER++ 把「关节物体位姿感知」做成 50FPS 实时框架，具身智能补齐通用拼图

@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "DeepSeek V4 Pro 在 ZenMux PK 中「吊打」GPT-4/Claude：模型差距收窄已成体感现实"
 description: "**[ 中文创作场景下 DeepSeek V4 Pro 的落地能力正在反超闭源模型 ]**  • ZenMux PK 模式下，DeepSeek V4 Pro 在「未来城市交通文案」任务中胜出：不仅给出多版本选项，还把「无人驾驶巴士在老旧街区避让细节」写活；GPT-4 被评「正确但无用」，Claude 被评「漂亮但落不了地」。 • 三栏并排对比让模型间逻辑、风格、创意差异一目了然，改变了「凭感觉盲选"
 resource: "https://x.com/i/status/2049016507376525364"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2049016507376525364"
-created: "2026-04-28"
-updated: "2026-06-26"
-sha256: "e7d4ac457844a0c485f78c2781902aeb3b2c35b30088343a7e96d7579ee5554b"
-sources:
-  - "/sources/news/2026-04-28/00__Zesee__deepseek-v4-pro-在-zenmux-pk-中-吊打-gpt-4-claude-模型差距收窄已成体感现实.md"
 ---
 
 # DeepSeek V4 Pro 在 ZenMux PK 中「吊打」GPT-4/Claude：模型差距收窄已成体感现实

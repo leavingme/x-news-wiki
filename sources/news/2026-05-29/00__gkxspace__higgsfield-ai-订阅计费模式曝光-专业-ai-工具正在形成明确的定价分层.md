@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Higgsfield AI 订阅计费模式曝光：专业 AI 工具正在形成明确的定价分层"
 description: "**[一句话核心判断]**  Higgsfield 的订阅计费模式被提及，显示专业 AI 工具正在形成清晰的价格分层。  **要点：** - Higgsfield 作为专业 AI 产品已建立订阅制收费模型 - 计费模式细节尚不明确，但信号指向专业工具的成熟商业化路径 - 与主流 AI 工具免费+增值模式形成差异化竞争   **gakki 锐评：** 专业 AI 工具从免费实验进入付费验证期，但计费"
 resource: "https://x.com/i/status/2060404936114946401"
@@ -22,13 +22,6 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "ai-tool-subscription-value"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2060404936114946401"
-created: "2026-05-29"
-updated: "2026-06-26"
-sha256: "ac2eeea58136e2f57278f816fe0ced89f19018d65c70a90b4ad159b17fe711d6"
-sources:
-  - "/sources/news/2026-05-29/00__gkxspace__higgsfield-ai-订阅计费模式曝光-专业-ai-工具正在形成明确的定价分层.md"
 ---
 
 # Higgsfield AI 订阅计费模式曝光：专业 AI 工具正在形成明确的定价分层

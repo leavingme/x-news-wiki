@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "GPT-5.5-Cyber：OpenAI 将安全能力从通用模型中拆出独立产品线"
 description: "**OpenAI 首次将安全能力产品化为独立前沿模型，信号意义大于技术披露。**  - GPT-5.5-Cyber 定位为「专为网络安全打造的前沿模型」，面向关键基础设施防御者定向推送 - Altman 明确提及与行业生态及政府合作建立「可信访问机制」，暗示这不是一个 API 产品，而是安全治理基础设施 - 将安全能力从通用模型中剥离并单独命名，意味着 OpenAI 开始对能力进行垂直切分和差异化"
 resource: "https://x.com/i/status/2049722598758522963"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2049722598758522963"
-created: "2026-04-30"
-updated: "2026-06-26"
-sha256: "b520b39a5e191acfc9af6ea4240e5855d59c09e6ba4dcb64b6c7d30dcb7fec27"
-sources:
-  - "/sources/highlights/2026-04-30/00__dotey__gpt-5-5-cyber-openai-将安全能力从通用模型中拆出独立产品线.md"
 ---
 
 # GPT-5.5-Cyber：OpenAI 将安全能力从通用模型中拆出独立产品线

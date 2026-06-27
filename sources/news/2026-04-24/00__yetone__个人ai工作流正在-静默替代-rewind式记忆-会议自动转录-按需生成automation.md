@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "个人AI工作流正在「静默替代」：Rewind式记忆+会议自动转录+按需生成Automation"
 description: "**[AI助手正从回答工具进化为行为理解引擎——这才是真正的范式转移]**  • yetone将AI工具用作Rewind式记忆+会议转录+基于行为自动生成Automation，三合一模式意味着AI正在\"感知你的工作流\"而非\"响应你的指令\" • 自动创建小应用的能力标志着AI从被动工具到主动协作者的质变，这是Agentic工作流的实用化信号 • 设备端行为感知+会议内容理解，正在构建\"个人AI操作系"
 resource: "https://x.com/i/status/2047302431357464760"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2047302431357464760"
-created: "2026-04-23"
-updated: "2026-06-26"
-sha256: "6415b428fbad33953cf56e5dab00482cd640142c646cbc235c5b43e32f0f600b"
-sources:
-  - "/sources/news/2026-04-24/00__yetone__个人ai工作流正在-静默替代-rewind式记忆-会议自动转录-按需生成automation.md"
 ---
 
 # 个人AI工作流正在「静默替代」：Rewind式记忆+会议自动转录+按需生成Automation

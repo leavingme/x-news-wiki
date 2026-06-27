@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Autoresearch 循环：Codex 无人值守的 Token 代价"
 description: "**[24小时自主研究愿景落地，但成本结构尚未收敛]** • 修改→评估→保留/舍弃→修改的无限循环架构实现真·无人值守 • 实测 2 个循环任务消耗 4 个 Pro 账号额度，成本门槛极高 • 揭示 AI 自动化研究的「最后一公里」问题：算力成本吞噬理论收益  **gakki 锐评：** 技术可行性与经济可行性之间的鸿沟，正在定义 AI 自动化的真实边界。这不是工程问题，是商业模式问题。"
 resource: "https://x.com/i/status/2036343520680878234"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2036343520680878234"
-created: "2026-03-24"
-updated: "2026-06-26"
-sha256: "36e69360ec901e92e4ca3cb0a79554ec72c9a373fd540e06b41b3db7dbd75b8e"
-sources:
-  - "/sources/news/2026-03-24/00__DIYgod__autoresearch-循环-codex-无人值守的-token-代价.md"
 ---
 
 # Autoresearch 循环：Codex 无人值守的 Token 代价

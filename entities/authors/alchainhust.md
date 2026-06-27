@@ -1,25 +1,17 @@
 ---
-type: "entity"
+type: "Author"
 title: "AI进化论-花生 (@AlchainHust)"
 description: "X/Twitter 作者 @AlchainHust。共收录 3 条 AI 精选推文。"
 tags:
   - "x-news"
   - "author"
   - "author:AlchainHust"
-timestamp: "2026-06-26T11:53:36.954Z"
+timestamp: "2026-06-27T08:40:40.162Z"
 x_handle: "AlchainHust"
 x_author_name: "AI进化论-花生"
 x_tweet_count: 3
 x_first_seen: "2026-03-07T01:27:33.804Z"
 x_last_seen: "2026-04-09T00:44:25.014Z"
-type_okf: "Author"
-created: "2026-03-07"
-updated: "2026-06-26"
-sha256: "e1f688685b7b6aec520fb31ef3c7c3630e1c8cdcc9ded9e55f2014be09bc960b"
-sources:
-  - "/sources/highlights/2026-03-22/00__AlchainHust__claude-code首登央视-官媒镜头下的自然语言编程-监管信号从-观望-转向-认可.md"
-  - "/sources/highlights/2026-04-09/00__AlchainHust__anthropic-年化收入反超-openai-一场历时两年的-信任清算-终于有了数字.md"
-  - "/sources/news/2026-03-07/92__AlchainHust__openclaw-24万星的真价值-把agent从-用完即弃的工具-变成-可养的数字生命.md"
 ---
 
 # AI进化论-花生 (@AlchainHust)

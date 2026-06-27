@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Lovable 终于支持 Skill：no-code 平台收口战略启动"
 description: "**[no-code 平台正在完成最后一次生态收口]**  Lovable 作为 no-code AI 产品的主流阵地，正式支持 Skill 上传。这是 Skill 生态扩张的又一里程碑——平台不再试图自建所有能力，而是开放第三方 Skill 压缩包接入，等于承认了 Skill 作为行业标准接口的现实。  平台间的 Skill 流动性开始形成壁垒，B端交付场景的零代码部署生态正式进入收口阶段。  "
 resource: "https://x.com/i/status/2056568000749420888"
@@ -22,13 +22,6 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "no-code-agent-entry"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2056568000749420888"
-created: "2026-05-19"
-updated: "2026-06-26"
-sha256: "8b70af3bf64e53a34c67138c6231e157040d63c53166cb22f86501662c2e8cef"
-sources:
-  - "/sources/news/2026-05-19/00__op7418__lovable-终于支持-skill-no-code-平台收口战略启动.md"
 ---
 
 # Lovable 终于支持 Skill：no-code 平台收口战略启动

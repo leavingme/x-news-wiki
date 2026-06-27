@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Orange AI：欲望如大象——Harness Engineering的佛学诠释，兼论AI辅助的自我认知困境"
 description: "**一句话核心判断**  Orange AI将佛教「苦」的概念重构为人类欲望的双面性——永不满足既是痛苦之源，也是执念驱动力——并以此诠释AI时代「驾驭大象」（Harness Engineering）的认知底层，与Karpathy的AI as tokenizer for cognition形成有趣的东方呼应。  **信息增量** - 金刚经「斩断一切无明」与「学会驾驭大象」的对比，暗示AI时代的终"
 resource: "https://x.com/i/status/2062355909545021773"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2062355909545021773"
-created: "2026-06-04"
-updated: "2026-06-26"
-sha256: "e9d580aadc9a1b341450780bb7850765290889fcca7af80cc981899131676ca5"
-sources:
-  - "/sources/news/2026-06-04/00__oran_ge__orange-ai-欲望如大象-harness-engineering的佛学诠释-兼论ai辅助的自我认知困境.md"
 ---
 
 # Orange AI：欲望如大象——Harness Engineering的佛学诠释，兼论AI辅助的自我认知困境

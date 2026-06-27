@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "天策\"抓住机会的能力\"论：AI叙事中的机会主义陷阱"
 description: "**[机会论叙事折射AI行业判断力缺失的集体焦虑]**  多条天策的推文高度相似——\"抓住机会往前冲\"\"抓住一个往前冲\"。这种表达在AI创投圈高频出现，但本质是叙事而非方法论。当\"机会\"本身无法被定义时，抓住它的能力也无法被训练。"
 resource: "https://x.com/i/status/2059196692109398484"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2059196692109398484"
-created: "2026-05-26"
-updated: "2026-06-26"
-sha256: "1cf509dda0a0698a952f2686ac5f82cdc1b6e973daace08d7f7fe4e106b9a330"
-sources:
-  - "/sources/news/2026-05-26/00__Leobai825__天策-抓住机会的能力-论-ai叙事中的机会主义陷阱.md"
 ---
 
 # 天策"抓住机会的能力"论：AI叙事中的机会主义陷阱

@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "AI热点聚合网站：信息筛选从「人工订阅」走向「算法精选」"
 description: "**AI信息过载催生了新的信息基础设施需求。**  - 余温分享的AI热点网站，通过监控AI相关信息并自动精选，解决了「信息焦虑」问题 - 覆盖最新资讯、公众号、推特等多源信息，实现了跨平台聚合 - 这是AI时代「信息策展」基础设施的民间实践  gakki锐评：当AI信息多到需要AI来筛选，说明行业已经进入了「信息军备竞赛」阶段。能帮你省时间的工具，比能帮你干活的工具更稀缺。"
 resource: "https://x.com/i/status/2052381711988629547"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2052381711988629547"
-created: "2026-05-07"
-updated: "2026-06-26"
-sha256: "1b34c93d049edf1e94b5486ae80b1dcf3eb24ff3075adb75741d8e50a5a9c060"
-sources:
-  - "/sources/news/2026-05-07/00__gkxspace__ai热点聚合网站-信息筛选从-人工订阅-走向-算法精选.md"
 ---
 
 # AI热点聚合网站：信息筛选从「人工订阅」走向「算法精选」

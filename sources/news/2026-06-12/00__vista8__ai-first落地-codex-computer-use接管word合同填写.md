@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "AI First落地：Codex Computer Use接管Word合同填写"
 description: "**\"AI First\"原则的工程化验证——Codex Computer Use已能接管Word合同填写这类\"半结构化GUI\"任务。**  - 向阳乔木的AI First工作流：用Codex Computer Use驱动Word，填合同这种需要点击+输入+确认的复合操作 - 能力信号：Computer Use已从\"演示demo\"进入\"日常办公自动化\" - 边界：GUI任务慢、Token消耗大，但换"
 resource: "https://x.com/i/status/2065274167709376518"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2065274167709376518"
-created: "2026-06-12"
-updated: "2026-06-26"
-sha256: "85b16e910760a337457d3195b25c5748a86eb50ea9cc462d0919b39f5022213c"
-sources:
-  - "/sources/news/2026-06-12/00__vista8__ai-first落地-codex-computer-use接管word合同填写.md"
 ---
 
 # AI First落地：Codex Computer Use接管Word合同填写

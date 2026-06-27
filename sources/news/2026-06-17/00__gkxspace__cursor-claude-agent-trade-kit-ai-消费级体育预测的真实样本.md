@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Cursor + Claude + Agent Trade Kit：AI 消费级体育预测的真实样本"
 description: "**一个用 AI 跑世界杯预测的标准流程被完整跑通，预示 AI Agent 正在切入体育博彩消费场景。**  - 用户在 Cursor 里指挥 Claude 通过 Agent Trade Kit 拉取数据：首轮战绩、主场海拔、体能消耗、历史交锋 - 输出结构化四维判断 + 结论，避免「凭喜好压注」的认知偏差 - 配合 OKX 活动积分下注机制，让 AI 预测直接形成「分析→下单」闭环   gakk"
 resource: "https://x.com/i/status/2067265443144863865"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2067265443144863865"
-created: "2026-06-17"
-updated: "2026-06-26"
-sha256: "0eeed1fd59c77c73a2990f6f491308cdaa8dbada703f791bc3e4d492fb217393"
-sources:
-  - "/sources/news/2026-06-17/00__gkxspace__cursor-claude-agent-trade-kit-ai-消费级体育预测的真实样本.md"
 ---
 
 # Cursor + Claude + Agent Trade Kit：AI 消费级体育预测的真实样本

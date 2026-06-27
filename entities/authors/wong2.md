@@ -1,23 +1,17 @@
 ---
-type: "entity"
+type: "Author"
 title: "wong2 (@wong2__)"
 description: "X/Twitter 作者 @wong2__。共收录 1 条 AI 精选推文。"
 tags:
   - "x-news"
   - "author"
   - "author:wong2__"
-timestamp: "2026-06-26T11:53:36.959Z"
+timestamp: "2026-06-27T08:40:40.167Z"
 x_handle: "wong2__"
 x_author_name: "wong2"
 x_tweet_count: 1
 x_first_seen: "2026-03-14T12:42:42.163Z"
 x_last_seen: "2026-03-14T12:42:42.163Z"
-type_okf: "Author"
-created: "2026-03-14"
-updated: "2026-06-26"
-sha256: "33fa88812ca85dbd479f5cffbc42d3773f38769f01e873edbda0269a7f8730db"
-sources:
-  - "/sources/news/2026-03-14/82__wong2____chrome-146-浏览器正式成为-agent-的-操控对象.md"
 ---
 
 # wong2 (@wong2__)

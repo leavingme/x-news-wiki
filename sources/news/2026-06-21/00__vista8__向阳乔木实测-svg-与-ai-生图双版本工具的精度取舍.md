@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "向阳乔木实测：SVG 与 AI 生图双版本工具的精度取舍"
 description: "**向阳乔木分享一个同时提供 SVG 版与 AI 生图版的开源项目，两种输出形态各有取舍——SVG 简洁可控但粗糙，生图精细但需要精选且偶有\"飞\"的情况。**  - 信息增量：又一个\"结构化输出 + AI 生图\"双模态工具出现，反映出纯文本协议在 AI 工具栈里正和图像生成形成长期互补 - 工程含义：SVG/Markdown 等可控输出与高质量生图并存，开发者/设计者按场景切换——前者保底、后者增"
 resource: "https://x.com/i/status/2068551742908715507"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2068551742908715507"
-created: "2026-06-21"
-updated: "2026-06-26"
-sha256: "55b33644afd49ee713275ee4eaddb5c51ef65728909c50435ccefb797bec6808"
-sources:
-  - "/sources/news/2026-06-21/00__vista8__向阳乔木实测-svg-与-ai-生图双版本工具的精度取舍.md"
 ---
 
 # 向阳乔木实测：SVG 与 AI 生图双版本工具的精度取舍

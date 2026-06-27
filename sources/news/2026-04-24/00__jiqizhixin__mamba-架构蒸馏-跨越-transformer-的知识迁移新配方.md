@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Mamba 架构蒸馏：跨越 Transformer 的知识迁移新配方"
 description: "**[一句话核心判断]**  「Attention to Mamba」论文提出跨架构蒸馏recipe，让 Mamba 架构模型能够从 Transformer 教师模型中高效学习知识迁移——这意味着 State Space Model 生态正在从「独立演进」转向「借力Transformer」。  **信息增量：** - 跨架构蒸馏首次给出系统性配方，而非碰运气式迁移 - Mamba 的线性复杂度 +"
 resource: "https://x.com/i/status/2047589954839363887"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2047589954839363887"
-created: "2026-04-24"
-updated: "2026-06-26"
-sha256: "a05a07ddbd373919db57a11010d35c3073a854a7fe604c8c6f61a18253535ab8"
-sources:
-  - "/sources/news/2026-04-24/00__jiqizhixin__mamba-架构蒸馏-跨越-transformer-的知识迁移新配方.md"
 ---
 
 # Mamba 架构蒸馏：跨越 Transformer 的知识迁移新配方

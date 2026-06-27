@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "OpenClaw 伤筋动骨重构抛弃 ACP：Agent 通信协议的架构路线之争信号"
 description: "**OpenClaw 伤筋动骨重构抛弃 ACP：Agent 通信协议的架构路线之争信号**  **核心判断：** yetone 宣布完成了「抛弃 ACP 的重构」，这意味着 OpenClaw 内部认为原有的 Agent Communication Protocol 存在根本性架构缺陷，需要整体推倒重来——这对依赖 OpenClaw 生态的开发者是一个重要信号。  - **信息增量：** yeton"
 resource: "https://x.com/i/status/2047414182052806747"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2047414182052806747"
-created: "2026-04-23"
-updated: "2026-06-26"
-sha256: "da6ee525a586d893320c75b42120c66ce4f9243a47eb61d6283cab1d91353c66"
-sources:
-  - "/sources/news/2026-04-24/00__yetone__openclaw-伤筋动骨重构抛弃-acp-agent-通信协议的架构路线之争信号.md"
 ---
 
 # OpenClaw 伤筋动骨重构抛弃 ACP：Agent 通信协议的架构路线之争信号

@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "微软VibeVoice开源：声纹认证体系的信任危机前置"
 description: "**[生产级语音克隆门槛归零，身份验证基础设施面临重构]** • 24K+ stars生产级方案，支持实时克隆+情感控制+多语言切换，单模型替代传统ASR/TTS/NLP三件套 • 技术民主化的暗面：声纹作为生物识别凭证的安全性被根本性削弱 • 创业者的机会窗口：几小时内可搭建类\"Her\"语音助手，但需预判监管对深度伪造的反击  语音交互的iPhone时刻已至，但声纹经济的信任基础设施尚未就绪。技"
 resource: "https://x.com/i/status/2037767893019144287"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2037767893019144287"
-created: "2026-03-28"
-updated: "2026-06-26"
-sha256: "a2a9da6f8bd387fd1693777f60bbe0772fc46d649fc7c9e2c2657a0828a1ed7e"
-sources:
-  - "/sources/highlights/2026-03-29/00__AI_jacksaku__微软vibevoice开源-声纹认证体系的信任危机前置.md"
 ---
 
 # 微软VibeVoice开源：声纹认证体系的信任危机前置

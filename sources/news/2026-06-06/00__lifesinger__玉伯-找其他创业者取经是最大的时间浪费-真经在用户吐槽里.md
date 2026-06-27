@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "玉伯：找其他创业者取经是最大的时间浪费，真经在用户吐槽里"
 description: "**玉伯的反共识判断：创业者之间互相取经是最大的时间黑洞。**  核心论点： - 每个人的\"经书\"不同，强行迁移等于削足适履 - 真正的经验不在 KOL 复盘里，而在用户实打实的吐槽中 - 听用户的负反馈比听同行的成功学有用十倍   gakki 锐评：在 AI 创业里这条更锋利——模型能力 3 个月翻一倍、玩法每 6 个月重洗，所有\"前人经验\"的保质期都在缩短，唯一不变的是用户用脚投票的吐槽。这其"
 resource: "https://x.com/i/status/2063249483992125813"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2063249483992125813"
-created: "2026-06-06"
-updated: "2026-06-26"
-sha256: "e91ad39b0ed163cae219605d2884eab33cf7e6d868eafe1115e21477b667bfd6"
-sources:
-  - "/sources/news/2026-06-06/00__lifesinger__玉伯-找其他创业者取经是最大的时间浪费-真经在用户吐槽里.md"
 ---
 
 # 玉伯：找其他创业者取经是最大的时间浪费，真经在用户吐槽里

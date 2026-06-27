@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Syncless 发布：企业场景人机协作的工程化产品终于来了"
 description: "**[一句话核心判断]** 企业级人+Agent 协作产品终于有了专门的工程化解法，而不是继续用「把 AI 塞进现有系统」的凑合方案。  **信息增量：** - Syncless 定位明确：解决企业内部人员与 Agent 共事时的协作摩擦，不是给 AI 单干用的。 - 协作产品的 toB 验证正在加速——这类工具的商业化路径比 toC 更短、更清晰。 - 预示企业 AI 部署正从「AI 工具单点接"
 resource: "https://x.com/i/status/2055032339844170051"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2055032339844170051"
-created: "2026-05-14"
-updated: "2026-06-26"
-sha256: "7f270d87f1dc243106f6b86c56533a7d781b67b8c35c79014c864b8f4a01039c"
-sources:
-  - "/sources/news/2026-05-14/00__oran_ge__syncless-发布-企业场景人机协作的工程化产品终于来了.md"
 ---
 
 # Syncless 发布：企业场景人机协作的工程化产品终于来了

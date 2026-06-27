@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "投资人PUA创始人融资是「苦逼的过去」：赚钱开心的创业反而是最好的反共识"
 description: "**[一句话核心判断]** 不是所有创业都要走融资—上市那条路，赚钱开心不用上班本身就是成功范式。  **要点：** - 现象：部分投资人会用「融资、找联创、all in」等标准模板PUA创始人，忽略业务本身已跑通的现实 - 矛盾：创业者活在 AI 时代，投资人还在用 Web2 思维评判增长路径 - 建议：follow your heart, follow your money，别被叙事绑架  *"
 resource: "https://x.com/i/status/2054680875431076268"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2054680875431076268"
-created: "2026-05-13"
-updated: "2026-06-26"
-sha256: "0907a5b789e7ee1f5720b74c663c5b1bbf3ffde849850ede6e3e29eb434bc9bf"
-sources:
-  - "/sources/news/2026-05-13/00__oran_ge__投资人pua创始人融资是-苦逼的过去-赚钱开心的创业反而是最好的反共识.md"
 ---
 
 # 投资人PUA创始人融资是「苦逼的过去」：赚钱开心的创业反而是最好的反共识

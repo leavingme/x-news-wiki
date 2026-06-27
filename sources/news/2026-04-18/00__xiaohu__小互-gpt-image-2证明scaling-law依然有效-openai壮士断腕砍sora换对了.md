@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "小互：GPT Image 2证明Scaling Law依然有效，OpenAI壮士断腕砍Sora换对了"
 description: "**[一句话核心判断]**  GPT Image 2的逻辑不是「我们比Sora强」，是「我们愿意为Scaling Law牺牲一切」——包括自己的明星产品。  **核心观点：** - Scaling Law依然是OpenAI的核心信仰，他们选择把算力集中在大模型Scaling而非多个并发产品 - 砍掉Sora把算力重新给到Scaling方向，是「战略级止损」而非失败 - GPT Image 2将重新"
 resource: "https://x.com/i/status/2045183183365472431"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2045183183365472431"
-created: "2026-04-17"
-updated: "2026-06-26"
-sha256: "d7c421cf82ffd3b91fcc3cf6a23eb47199940ff93b447f04fe9f39d2a07cd2ba"
-sources:
-  - "/sources/news/2026-04-18/00__xiaohu__小互-gpt-image-2证明scaling-law依然有效-openai壮士断腕砍sora换对了.md"
 ---
 
 # 小互：GPT Image 2证明Scaling Law依然有效，OpenAI壮士断腕砍Sora换对了

@@ -1,25 +1,17 @@
 ---
-type: "entity"
+type: "Author"
 title: "AB Kuai.Dong (@_FORAB)"
 description: "X/Twitter 作者 @_FORAB。共收录 3 条 AI 精选推文。"
 tags:
   - "x-news"
   - "author"
   - "author:_FORAB"
-timestamp: "2026-06-26T11:53:36.973Z"
+timestamp: "2026-06-27T08:40:40.190Z"
 x_handle: "_FORAB"
 x_author_name: "AB Kuai.Dong"
 x_tweet_count: 3
 x_first_seen: "2026-04-05T12:43:10.308Z"
 x_last_seen: "2026-06-26T01:21:44.132Z"
-type_okf: "Author"
-created: "2026-04-05"
-updated: "2026-06-26"
-sha256: "df117e705154ca4dc580c06350a7e5ed5430bff063863d1ec1afb8a637639599"
-sources:
-  - "/sources/highlights/2026-04-05/00___FORAB__claude-订阅额度封锁第三方工具-4月4日起-openclaw-等工具链面临算力断供.md"
-  - "/sources/news/2026-04-16/00___FORAB__meta五年烧600亿做元宇宙终局-ai转型是自救还是宿命.md"
-  - "/sources/news/2026-06-26/00___FORAB__deepseek-全员扩招一倍-国产-agi-叙事正在用编制下注.md"
 ---
 
 # AB Kuai.Dong (@_FORAB)

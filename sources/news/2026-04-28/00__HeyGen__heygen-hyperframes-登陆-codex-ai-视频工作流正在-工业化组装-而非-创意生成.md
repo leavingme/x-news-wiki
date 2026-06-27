@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "HeyGen HyperFrames 登陆 Codex：AI 视频工作流正在\"工业化组装\"而非\"创意生成\""
 description: "**[视频生成工具的集成军备竞赛已从模型层打到插件层]**  HeyGen 的 HyperFrames 以官方插件身份进入 Codex，实现一键安装和\"编码→编辑→渲染→发布\"的端到端闭环。这不是工具集成，是生产关系的重新配置——视频创作者不再需要离开代码环境，AI 视频工作流第一次在 IDE 里完成了原生嵌入。  关键影响：1）AI 视频的工具化（而非模型能力本身）正在成为下一阶段竞争的主战场；"
 resource: "https://x.com/HeyGen/status/2048882211022311614"
@@ -22,13 +22,6 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "ai-short-drama-industrialization"
 x_source: "ai-trend-digest"
-type_okf: "X Tweet"
-source_url: "https://x.com/HeyGen/status/2048882211022311614"
-created: "2026-04-27"
-updated: "2026-06-26"
-sha256: "aa556c47a803ff8c9d3b0998e4497ef13d7f0b88bc91c89d88185131b0a6228f"
-sources:
-  - "/sources/news/2026-04-28/00__HeyGen__heygen-hyperframes-登陆-codex-ai-视频工作流正在-工业化组装-而非-创意生成.md"
 ---
 
 # HeyGen HyperFrames 登陆 Codex：AI 视频工作流正在"工业化组装"而非"创意生成"

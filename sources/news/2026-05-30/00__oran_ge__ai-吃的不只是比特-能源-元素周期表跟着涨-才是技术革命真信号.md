@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "AI 吃的不只是比特：能源、元素周期表跟着涨，才是技术革命真信号"
 description: "**AI 正在驱动一场真实物理世界的变革。**  - 核心论点：互联网和移动互联网都只改变比特世界（信息），而 AI 直接消耗原子世界（能源、原材料），这是其远超互联网的深刻之处 - 能源、存储、元素周期表相关资源价格与 AI 算力需求同步上涨，是历史级技术革命的旁证 - 两种极端解读：史上最大泡沫 或 奇点临近  AI 的影响力已经溢出数字边界，开始撬动实体经济的底层资源。  **gakki 说"
 resource: "https://x.com/i/status/2060498476434423889"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2060498476434423889"
-created: "2026-05-29"
-updated: "2026-06-26"
-sha256: "fd9a285e4dfe90c1f4ff96151000b1d1ea9d3f30e112b8910a1ee432b452b492"
-sources:
-  - "/sources/news/2026-05-30/00__oran_ge__ai-吃的不只是比特-能源-元素周期表跟着涨-才是技术革命真信号.md"
 ---
 
 # AI 吃的不只是比特：能源、元素周期表跟着涨，才是技术革命真信号

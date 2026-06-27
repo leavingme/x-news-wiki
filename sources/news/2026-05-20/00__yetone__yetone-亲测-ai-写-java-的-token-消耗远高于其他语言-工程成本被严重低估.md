@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "yetone 亲测：AI 写 Java 的 Token 消耗远高于其他语言，工程成本被严重低估"
 description: "**[一句话核心判断]**  yetone 指出 AI 写 Java 代码的 Token 消耗量显著高于其他语言，这一细节揭示了一个被忽视的工程经济学真相：语言语法复杂度直接决定 AI 编程的边际成本。  **信息增量：** - Java 的语法冗长（类型声明、异常处理、框架约定）导致 AI 生成 token 量大幅增加 - 这对于需要高频 AI 辅助编程的团队来说，是影响 ROI 的隐性因子 -"
 resource: "https://x.com/i/status/2057204445637980353"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2057204445637980353"
-created: "2026-05-20"
-updated: "2026-06-26"
-sha256: "8f7249fab604d0abaa1f01167a1d79c63a2233a2ed3df8ff9b5fd53e1c29eff5"
-sources:
-  - "/sources/news/2026-05-20/00__yetone__yetone-亲测-ai-写-java-的-token-消耗远高于其他语言-工程成本被严重低估.md"
 ---
 
 # yetone 亲测：AI 写 Java 的 Token 消耗远高于其他语言，工程成本被严重低估

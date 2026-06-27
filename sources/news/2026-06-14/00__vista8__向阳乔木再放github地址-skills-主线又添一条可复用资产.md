@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "向阳乔木再放GitHub地址：Skills 主线又添一条可复用资产"
 description: "**[本次推文仅含一个 GitHub 链接，无文字描述，作者为近期高频发布 Skills/Goal 方法论的向阳乔木]**  要点： - 延续其近两周 Skills 开源主线，配套次日回复\"开源skill，可以按自己想法继续迭代\"——把 Skill 从一次性资产升级为可共同编辑的方法论库 - 单凭链接无法判定 repo 具体内容（是否为 Goal Meta Skill 的姊妹篇、还是全新方法论），"
 resource: "https://x.com/i/status/2066165794955030878"
@@ -22,13 +22,6 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "skills-ecosystem-standards"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2066165794955030878"
-created: "2026-06-14"
-updated: "2026-06-26"
-sha256: "3ce9a7bf1bb97ff2785753839639babb25ad581a3df59766cfcd9b60ab0692e8"
-sources:
-  - "/sources/news/2026-06-14/00__vista8__向阳乔木再放github地址-skills-主线又添一条可复用资产.md"
 ---
 
 # 向阳乔木再放GitHub地址：Skills 主线又添一条可复用资产

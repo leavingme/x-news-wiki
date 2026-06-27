@@ -1,23 +1,17 @@
 ---
-type: "entity"
+type: "Author"
 title: "Drizzle ORM (@DrizzleORM)"
 description: "X/Twitter 作者 @DrizzleORM。共收录 1 条 AI 精选推文。"
 tags:
   - "x-news"
   - "author"
   - "author:DrizzleORM"
-timestamp: "2026-06-26T11:53:36.994Z"
+timestamp: "2026-06-27T08:40:40.208Z"
 x_handle: "DrizzleORM"
 x_author_name: "Drizzle ORM"
 x_tweet_count: 1
 x_first_seen: "2026-05-02T01:17:32.996Z"
 x_last_seen: "2026-05-02T01:17:32.996Z"
-type_okf: "Author"
-created: "2026-05-02"
-updated: "2026-06-26"
-sha256: "82e9bc0fe65a5a770ce340ffb19f54296230b0ece9690cecf895febd8b039377"
-sources:
-  - "/sources/news/2026-05-02/00__DrizzleORM__drizzle-orm-推出-llm-agent-preview-orm-层正在成为-agent-与数据库的中间件.md"
 ---
 
 # Drizzle ORM (@DrizzleORM)

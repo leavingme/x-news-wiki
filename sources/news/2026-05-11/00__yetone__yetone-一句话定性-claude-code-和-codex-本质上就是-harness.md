@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "yetone 一句话定性：Claude Code 和 Codex 本质上就是 Harness"
 description: "**Harness 概念正在成为理解 AI 编程工具的认知框架。** - yetone 明确将 Claude Code 和 Codex 归类为 Harness（驭具），而非独立的 Agent - 这个分类隐含一个关键判断：这些工具的核心价值是「人骑马」的人机协作接口，不是自主决策体 - 区分 Harness vs Agent 对工具选型和工程架构有直接指导意义  gakki 锐评：Harness "
 resource: "https://x.com/i/status/2053692640059969748"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2053692640059969748"
-created: "2026-05-11"
-updated: "2026-06-26"
-sha256: "f317b690e8db2b618805c8ee9bfa4d4b95c2b89effd1691c5e8d9a02e6983254"
-sources:
-  - "/sources/news/2026-05-11/00__yetone__yetone-一句话定性-claude-code-和-codex-本质上就是-harness.md"
 ---
 
 # yetone 一句话定性：Claude Code 和 Codex 本质上就是 Harness

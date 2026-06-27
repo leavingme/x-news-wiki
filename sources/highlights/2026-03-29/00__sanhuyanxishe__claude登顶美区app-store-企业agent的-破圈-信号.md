@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Claude登顶美区App Store：企业Agent的「破圈」信号"
 description: "**[Anthropic首次在C端流量入口超越ChatGPT，意味着什么]**  • Claude跃升至美国App Store免费应用下载榜首，这是企业级Agent首次在C端流量入口实现突破 • 不同于ChatGPT的「通用助手」定位，Claude的核心优势在长上下文与代码能力，登顶暗示「生产力工具」正在取代「聊天玩具」成为用户首选 • 相关标的异动（流金科技、引力传媒）显示A股市场已将Claud"
 resource: "https://x.com/i/status/2028633124624892398"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2028633124624892398"
-created: "2026-03-03"
-updated: "2026-06-26"
-sha256: "ea512b4c1db1d74146d79bcec287c64d9f6000d0b3fc91353e73ef8509312697"
-sources:
-  - "/sources/highlights/2026-03-29/00__sanhuyanxishe__claude登顶美区app-store-企业agent的-破圈-信号.md"
 ---
 
 # Claude登顶美区App Store：企业Agent的「破圈」信号

@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Laser 论文：「先林后树」视觉推理路径让 token 消耗降低 97%，同时精度还更高"
 description: "**[森林先于树木：保持全局感再放大局部，97% 推理 token 降低]**  来自 MBZUAI、复旦、人大、哈佛的研究者提出 Laser 方法，核心思路是「先林后树」推理——不是逐步文本推理，而是在放大局部细节前先保持全局图景理解，对齐隐状态与动态未来语义窗口。  在 6 个基准测试上平均超越 Monet 5%，推理 token 降低超过 97%，泛化能力优异。  gakki：97% 这个数"
 resource: "https://x.com/i/status/2055310234227503308"
@@ -22,13 +22,6 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "agent-browser-token-efficiency"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2055310234227503308"
-created: "2026-05-15"
-updated: "2026-06-26"
-sha256: "09a9b75cde9342ec09be5f9abd856bbc6e996729082a5197e3543e7e8d45eb4e"
-sources:
-  - "/sources/news/2026-05-15/00__jiqizhixin__laser-论文-先林后树-视觉推理路径让-token-消耗降低-97-同时精度还更高.md"
 ---
 
 # Laser 论文：「先林后树」视觉推理路径让 token 消耗降低 97%，同时精度还更高

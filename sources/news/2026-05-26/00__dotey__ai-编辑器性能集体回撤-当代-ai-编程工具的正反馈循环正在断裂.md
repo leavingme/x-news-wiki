@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "AI 编辑器性能集体回撤：当代 AI 编程工具的正反馈循环正在断裂"
 description: "**[AI 编辑器性能不如两年前——这不是个别问题，是整个行业的系统性信号]**  宝玉指出「做 AI 没问题，但编辑器现在确实不如以前性能好」。这条观察值得深究： - 历史性能退步的可能原因：功能堆砌导致复杂度膨胀，UI 层吞噬了更多系统资源 - 用户感知到的「变慢」往往不是模型变弱，而是交互层的摩擦成本在上升 - 这与 Claude Code 1M 上下文推出时的兴奋形成反差——功能丰富度与响"
 resource: "https://x.com/i/status/2059341811877847316"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2059341811877847316"
-created: "2026-05-26"
-updated: "2026-06-26"
-sha256: "f13828c97414f935664e8ccfa10c1a2997d70a6a6336db9d0d5f8fa8f43812af"
-sources:
-  - "/sources/news/2026-05-26/00__dotey__ai-编辑器性能集体回撤-当代-ai-编程工具的正反馈循环正在断裂.md"
 ---
 
 # AI 编辑器性能集体回撤：当代 AI 编程工具的正反馈循环正在断裂

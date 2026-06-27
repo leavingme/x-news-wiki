@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Claude Fable 用量全量重置：官方给出四条\"目标驱动\"新范式"
 description: "**Fable 上线后官方重置所有用户用量,并发布四条使用建议,核心信号是\"任务→目标\"的范式切换。**  关键变化:默认 xhigh/high 努力程度、重新调整 Skills 和 CLAUDE.md(旧指令会困住 Fable 的判断力)、从描述任务转向描述完成的样子与验证方式。  /loop 和 /goal 命令被官方背书,标志 Anthropic 押注\"自主目标分解\"成为主流交互形态。"
 resource: "https://x.com/i/status/2064501807020400663"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2064501807020400663"
-created: "2026-06-10"
-updated: "2026-06-26"
-sha256: "83012296eeb520d28e8ae9b0db8f18aca60bfc160d50104410514f41ee927a55"
-sources:
-  - "/sources/news/2026-06-10/00__xiaohu__claude-fable-用量全量重置-官方给出四条-目标驱动-新范式.md"
 ---
 
 # Claude Fable 用量全量重置：官方给出四条"目标驱动"新范式

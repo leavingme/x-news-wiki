@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "PewDiePie 手搓模型超越 ChatGPT：开源微调的平民化胜利"
 description: "**[开源突破]** - 游戏主播 PewDiePie 基于 Qwen2.5 训练本地模型 - 结合 Deepseek 及清华论文，基准测试超越 ChatGPT - 使用国内购买的魔改 4090 显卡完成训练  顶级网红亲自下场证明了开源模型的潜力。当消费级显卡能微调出超越 GPT 的模型时，算力垄断的护城河正在消解。"
 resource: "https://x.com/i/status/2027549653101940802"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2027549653101940802"
-created: "2026-02-28"
-updated: "2026-06-26"
-sha256: "2d15b8c7cabcffff6ca4833d81501293ceb178848f084bb4c3c0dbb67e0c2e5e"
-sources:
-  - "/sources/news/2026-02-28/00__mranti__pewdiepie-手搓模型超越-chatgpt-开源微调的平民化胜利.md"
 ---
 
 # PewDiePie 手搓模型超越 ChatGPT：开源微调的平民化胜利

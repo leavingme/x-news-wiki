@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "小米 MiMo V2.5 Pro UltraSpeed 把推理速度推到 1000 token/s：Pro 模型首次跑出 Flash 速度"
 description: "**小米 MiMo V2.5 Pro UltraSpeed 把 Pro 模型直接拉到 1000 token/s，全球首次在非 Flash 档位实现这一速度档。**  - 关键突破在于「Pro 也能快」：过去 1000+ token/s 通常是 Flash/Mini 专属，此次是 Pro 旗舰档位的速度直接拉满，打破「能力 ↔ 速度」的传统权衡。 - 国产大模型正在从「榜单竞争」转向「推理时延竞争」"
 resource: "https://x.com/i/status/2064228432930894287"
@@ -22,13 +22,6 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "domestic-model-competition"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2064228432930894287"
-created: "2026-06-09"
-updated: "2026-06-26"
-sha256: "96d7f8034c13592fcd102528385b8729903e3e977bcd6c47fe585311edafde2d"
-sources:
-  - "/sources/highlights/2026-06-09/00__bourneliu66__小米-mimo-v2-5-pro-ultraspeed-把推理速度推到-1000-token-s-pro-模型首次跑出-.md"
 ---
 
 # 小米 MiMo V2.5 Pro UltraSpeed 把推理速度推到 1000 token/s：Pro 模型首次跑出 Flash 速度

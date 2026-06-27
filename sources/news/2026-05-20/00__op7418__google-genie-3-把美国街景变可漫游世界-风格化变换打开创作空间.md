@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Google Genie 3 把美国街景变可漫游世界：风格化变换打开创作空间"
 description: "**[Google Genie 3 以街景为锚点生成可互动的虚构世界]**  用户可选取美国任意谷歌街景地点作为首帧，生成可进入游览的互动世界，黄石公园等知名地标均支持。  核心亮点是风格化变换能力——同一街景可一键转为海底世界或末日废土，代入感强。  这意味着 AI 生成从「单次创作」向「空间体验」延伸，创作边界从帧扩展到可探索的世界。  gakki：街景 + 风格化本质是「数据资源的创作变现」"
 resource: "https://x.com/i/status/2056931266038239274"
@@ -22,13 +22,6 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "ai-3d-content-democratization"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2056931266038239274"
-created: "2026-05-20"
-updated: "2026-06-26"
-sha256: "41cf6cf0a423993046d559ab65d5c5addfe833157417714d6e59e45b7a265126"
-sources:
-  - "/sources/news/2026-05-20/00__op7418__google-genie-3-把美国街景变可漫游世界-风格化变换打开创作空间.md"
 ---
 
 # Google Genie 3 把美国街景变可漫游世界：风格化变换打开创作空间

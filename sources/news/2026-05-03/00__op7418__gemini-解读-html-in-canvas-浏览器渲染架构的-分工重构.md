@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Gemini 解读 HTML-in-Canvas：浏览器渲染架构的「分工重构」"
 description: "**HTML-in-Canvas 正在解决 Canvas 生产力工具的架构硬伤。**  - 过去 Canvas 是「无脑像素画布」，无屏幕阅读器支持、无法原生选中文本、多语言排版和 Hit Testing 全靠手写数学公式模拟 - 新范式让 HTML 负责语义排版和原生交互，Canvas/GPU 负责像素级特效渲染，实现「分工明确」 - 核心爆点：可直接将 WebGL 片段着色器应用于标准 HTM"
 resource: "https://x.com/i/status/2050919382038221198"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2050919382038221198"
-created: "2026-05-03"
-updated: "2026-06-26"
-sha256: "7c9315591b07637c4c7ddcd87420cf36b9b75f02865bdc3b6ecf9077cfb6fa22"
-sources:
-  - "/sources/news/2026-05-03/00__op7418__gemini-解读-html-in-canvas-浏览器渲染架构的-分工重构.md"
 ---
 
 # Gemini 解读 HTML-in-Canvas：浏览器渲染架构的「分工重构」

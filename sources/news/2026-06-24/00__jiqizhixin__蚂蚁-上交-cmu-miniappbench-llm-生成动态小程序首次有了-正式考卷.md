@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "蚂蚁×上交×CMU MiniAppBench：LLM 生成动态小程序首次有了'正式考卷'"
 description: "**MiniAppBench 把'LLM 能不能写一个能跑的小程序'变成可量化的能力测试。**  - 首个专门测试 LLM 生成动态交互式 HTML 应用的基准 - 实验结论：当前主流模型在此类任务上仍有显著短板 - 配套提出的 MINIAPPEVAL 评估框架与人类判断高度一致   gakki 锐评：静态代码生成的天花板已经被摸到，下一关是'真实运行的逻辑'，基准换轨的信号已经亮起。"
 resource: "https://x.com/i/status/2069588316203401654"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2069588316203401654"
-created: "2026-06-24"
-updated: "2026-06-26"
-sha256: "0826879bb0d047efa5368db3b56753c941cc0d2b6394c1ec66eca4eae64ad526"
-sources:
-  - "/sources/news/2026-06-24/00__jiqizhixin__蚂蚁-上交-cmu-miniappbench-llm-生成动态小程序首次有了-正式考卷.md"
 ---
 
 # 蚂蚁×上交×CMU MiniAppBench：LLM 生成动态小程序首次有了'正式考卷'

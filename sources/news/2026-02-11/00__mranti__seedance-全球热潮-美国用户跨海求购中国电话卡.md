@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "SeeDance 全球热潮：美国用户跨海求购中国电话卡"
 description: "**[核心逻辑]** AI 竞争格局出现有趣的“镜像反转”，顶尖视频模型的吸引力打破了地理与政策的封锁。 - **现状观察**：由于 SeeDance 2.0 的惊人效果，大量美国用户开始寻求购买中国电话卡以通过注册验证。 - **讽刺现象**：曾经是中国用户买美国卡注册 OpenAI，现在位置互换，中间商再次成为最大赢家。 - **反思逻辑**：技术红利的爆发力让任何单边的封锁都显得苍白无力。 "
 resource: "https://x.com/i/status/2021511434816102473"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2021511434816102473"
-created: "2026-02-11"
-updated: "2026-06-26"
-sha256: "b5229320267896157ead0229b12324d893405546fc2be7a3636fa53d87755a54"
-sources:
-  - "/sources/news/2026-02-11/00__mranti__seedance-全球热潮-美国用户跨海求购中国电话卡.md"
 ---
 
 # SeeDance 全球热潮：美国用户跨海求购中国电话卡

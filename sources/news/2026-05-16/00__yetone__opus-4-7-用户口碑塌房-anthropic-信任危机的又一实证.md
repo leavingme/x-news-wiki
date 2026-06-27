@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Opus 4.7 用户口碑塌房：Anthropic 信任危机的又一实证"
 description: "**[Opus 4.7 能力退化已从偶发吐槽升级为社区共识]**  核心观察：yetone 的直接指控\"彻底变傻了\"代表的是真实用户体感，而非个别 case。从 Claude 3.5 Sonnet 降级争议到 Opus 4.7 变傻，Anthropic 的模型质量稳定性正在系统性失去信任。  影响层面：当用户开始主动识别\"模型变傻\"，说明 AI 能力幻觉正在被实际使用体验戳破。这对依赖 Claud"
 resource: "https://x.com/i/status/2055693089491280051"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2055693089491280051"
-created: "2026-05-16"
-updated: "2026-06-26"
-sha256: "7d4122860d727237e864dff4164c88a17aee140b7380b36d9403e6f2a6fb165b"
-sources:
-  - "/sources/news/2026-05-16/00__yetone__opus-4-7-用户口碑塌房-anthropic-信任危机的又一实证.md"
 ---
 
 # Opus 4.7 用户口碑塌房：Anthropic 信任危机的又一实证

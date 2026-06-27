@@ -1,23 +1,17 @@
 ---
-type: "entity"
+type: "Author"
 title: "solst/ICE of Astarte (@IceSolst)"
 description: "X/Twitter 作者 @IceSolst。共收录 1 条 AI 精选推文。"
 tags:
   - "x-news"
   - "author"
   - "author:IceSolst"
-timestamp: "2026-06-26T11:53:36.955Z"
+timestamp: "2026-06-27T08:40:40.163Z"
 x_handle: "IceSolst"
 x_author_name: "solst/ICE of Astarte"
 x_tweet_count: 1
 x_first_seen: "2026-03-08T01:01:49.659Z"
 x_last_seen: "2026-03-08T01:01:49.659Z"
-type_okf: "Author"
-created: "2026-03-08"
-updated: "2026-06-26"
-sha256: "d7be9a27fbc6013535cd57f50713a22ee49010c71e04c72ac40c53e7825526bc"
-sources:
-  - "/sources/highlights/2026-03-08/82__IceSolst__claude-code权限边界-当开发agent成为-受信任的入侵者.md"
 ---
 
 # solst/ICE of Astarte (@IceSolst)

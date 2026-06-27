@@ -1,23 +1,17 @@
 ---
-type: "entity"
+type: "Author"
 title: "Aakash Verma (@VermaAakash3)"
 description: "X/Twitter 作者 @VermaAakash3。共收录 1 条 AI 精选推文。"
 tags:
   - "x-news"
   - "author"
   - "author:VermaAakash3"
-timestamp: "2026-06-26T11:53:36.995Z"
+timestamp: "2026-06-27T08:40:40.209Z"
 x_handle: "VermaAakash3"
 x_author_name: "Aakash Verma"
 x_tweet_count: 1
 x_first_seen: "2026-05-02T19:18:13.065Z"
 x_last_seen: "2026-05-02T19:18:13.065Z"
-type_okf: "Author"
-created: "2026-05-02"
-updated: "2026-06-26"
-sha256: "38d3f6a867e96a5597aa9f4be749e7795133b02ad974da2f83ee9dfd87719194"
-sources:
-  - "/sources/news/2026-05-02/00__VermaAakash3__阿里-happyhorse-入局-ai-视频-从-生成片段-跃迁到-生成场景.md"
 ---
 
 # Aakash Verma (@VermaAakash3)

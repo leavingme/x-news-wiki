@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "AI 研究 Agent 复刻用户研究员工作流，把\"一次性报告\"升级成\"可复用 panel 资产\""
 description: "AI 研究 Agent 正在把人类用户研究员的工作流搬进 LLM，把单次研究沉淀为可复用的用户资产。 - 流程：Plan Mode 追问目标用户/担忧/决策 → 从 Persona 库选人设 + 抓真实社媒讨论 → 1v1 深度访谈 / 多人小组 → 沉淀为可持续访问的 panel - 关键卖点不是\"生成报告\"，而是\"拥有持续在线的研究能力\" - 产品形态已具象：可访问 URL + 流程演示 + "
 resource: "https://x.com/i/status/2067208245798633538"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2067208245798633538"
-created: "2026-06-17"
-updated: "2026-06-26"
-sha256: "035fcf942bb686dea7e795cd39375e21bf247245f066dd395e9f276024b2a9c3"
-sources:
-  - "/sources/news/2026-06-17/00__gkxspace__ai-研究-agent-复刻用户研究员工作流-把-一次性报告-升级成-可复用-panel-资产.md"
 ---
 
 # AI 研究 Agent 复刻用户研究员工作流，把"一次性报告"升级成"可复用 panel 资产"

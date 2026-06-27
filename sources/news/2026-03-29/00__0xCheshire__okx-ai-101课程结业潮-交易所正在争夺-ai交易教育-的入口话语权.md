@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "OKX AI 101课程结业潮：交易所正在争夺「AI交易教育」的入口话语权"
 description: "**【交易所Agent教育标准化：从工具提供到认知塑造】** • OKX官方《AI 101》4章12节课程设计，零代码基础用户可入门AI交易 • 关键动作：交易所从「提供API接口」升级为「定义AI交易知识体系」 • 信号：Agent经济自主权领域，「教育即获客」逻辑正在验证  **gakki锐评**：交易所最担心的是用户在链上直接交易，而不是通过他们的界面。AI 101的真正目标不是教你怎么用A"
 resource: "https://x.com/i/status/2037867467167629676"
@@ -22,13 +22,6 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "agent-economic-autonomy"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2037867467167629676"
-created: "2026-03-28"
-updated: "2026-06-26"
-sha256: "5fdfcbc31b78ce4cd624de2577a366338d7adc0250d26c239e3bfdd20909023a"
-sources:
-  - "/sources/news/2026-03-29/00__0xCheshire__okx-ai-101课程结业潮-交易所正在争夺-ai交易教育-的入口话语权.md"
 ---
 
 # OKX AI 101课程结业潮：交易所正在争夺「AI交易教育」的入口话语权

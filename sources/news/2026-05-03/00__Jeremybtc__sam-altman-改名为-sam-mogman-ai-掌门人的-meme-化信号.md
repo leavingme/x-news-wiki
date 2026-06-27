@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Sam Altman 改名为 Sam Mogman：AI 掌门人的 meme 化信号"
 description: "**[当 AGI 公司 CEO 开始玩身份梗，行业叙事正在从敬畏转向解构]**  - Altman 将 X 账号名改为「Sam Mogman」，引发社区热议 - 这类行为在传统科技领袖中罕见，但在 AI 时代 CEO 人格化趋势下越来越普遍  gakki 锐评：名字可以随时改回来，但市场对 AI 公司领导者的注意力分配已经不可逆地从「技术权威」转向「流量人格」。这对 Anthropic 的低调工程"
 resource: "https://x.com/Jeremybtc/status/2050685920366772732"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "ai-trend-digest"
-type_okf: "X Tweet"
-source_url: "https://x.com/Jeremybtc/status/2050685920366772732"
-created: "2026-05-02"
-updated: "2026-06-26"
-sha256: "f2eabf78586532c564d66fdf3adbca6d2ee5c6f977fc8355ee611950f2193ed3"
-sources:
-  - "/sources/news/2026-05-03/00__Jeremybtc__sam-altman-改名为-sam-mogman-ai-掌门人的-meme-化信号.md"
 ---
 
 # Sam Altman 改名为 Sam Mogman：AI 掌门人的 meme 化信号

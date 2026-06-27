@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Mac Mini + Claude Code 叠图在X上爆火：AI Coding的「视觉仪式感」正在成为传播货币"
 description: "**铁锤人观察到一个平台信号：Claude Code界面截图+Mac Mini在X上就是流量密码。**  - 内容形式已经从「我做了什么」变成「我用什么工具、什么配置在工作」 - AI Coding工具的界面美学正在成为开发者身份认同的一部分  gakki 锐评：这本质上是Unix Porn的AI时代变体。当工具本身成为展示品，说明AI Coding已经过了尝鲜期，进入了「生活方式化」阶段——这对"
 resource: "https://x.com/i/status/2051869643489349640"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2051869643489349640"
-created: "2026-05-06"
-updated: "2026-06-26"
-sha256: "8b8805c70b22c99b98fe86d555710ce6fc9b5998647e758fd664d79b1ff5e5a2"
-sources:
-  - "/sources/news/2026-05-06/00__lxfater__mac-mini-claude-code-叠图在x上爆火-ai-coding的-视觉仪式感-正在成为传播货币.md"
 ---
 
 # Mac Mini + Claude Code 叠图在X上爆火：AI Coding的「视觉仪式感」正在成为传播货币

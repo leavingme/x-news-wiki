@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "RecursiveMAS：多 Agent 之间不传文字传向量，Token 用量直降 75%、推理快 2.4 倍"
 description: "**多 Agent 协作的核心瓶颈不是模型能力，而是 Agent 之间「翻译」信息的开销。**  - 传统多 Agent 系统每轮交接都要把内部计算结果翻译成 token，下个 Agent 再重新解析 - RecursiveMAS 直接传递模型内部数值向量，形成递归闭环迭代，只最后一轮输出文本 - AIME 数学竞赛上比最强基线高 13-18 个百分点，训练成本比 LoRA 还低，递归轮次越多优势"
 resource: "https://x.com/i/status/2050390804103888912"
@@ -22,13 +22,6 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "sub-agents-multi-expert"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2050390804103888912"
-created: "2026-05-02"
-updated: "2026-06-26"
-sha256: "b5581e43e879a481571ea9f173bb9761c1c497a9ac956c88e40259622cd240e5"
-sources:
-  - "/sources/highlights/2026-05-02/00__vista8__recursivemas-多-agent-之间不传文字传向量-token-用量直降-75-推理快-2-4-倍.md"
 ---
 
 # RecursiveMAS：多 Agent 之间不传文字传向量，Token 用量直降 75%、推理快 2.4 倍

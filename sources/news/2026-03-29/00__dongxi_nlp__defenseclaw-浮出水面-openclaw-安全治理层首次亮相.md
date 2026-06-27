@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "DefenseClaw 浮出水面：OpenClaw 安全治理层首次亮相"
 description: "**[OpenClaw生态补足安全治理关键拼图]** • DefenseClaw作为OpenClaw的安全治理层被正式提出 • 标志着OpenClaw从功能扩展向系统化风险管控演进 • Agent生态的安全性、合规性、审计能力将迎来基础设施级升级  Agent能力的爆发必须以可控性为前提，DefenseClaw的出现是OpenClaw走向企业级和生产环境的必经之路。"
 resource: "https://x.com/i/status/2038032500748857826"
@@ -22,13 +22,6 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "agent-security-governance"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2038032500748857826"
-created: "2026-03-28"
-updated: "2026-06-26"
-sha256: "f1c303f07cab33a222e8a89d6f22e86e0e82da7786edf9adce9a5e4c5dc4c9e2"
-sources:
-  - "/sources/news/2026-03-29/00__dongxi_nlp__defenseclaw-浮出水面-openclaw-安全治理层首次亮相.md"
 ---
 
 # DefenseClaw 浮出水面：OpenClaw 安全治理层首次亮相

@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "TokenSpeed 推理引擎正式发布：yetone 参与贡献，开源 LLM 推理加速进入新阶段"
 description: "**新一代 LLM 推理引擎 TokenSpeed 发布，开源社区在推理加速层的基础设施竞争正式拉开。**  - 推理效率是 Agent 经济的底层命脉——每一次 tool call 都是推理成本，速度直接决定 Agent 的商业可行性 - yetone 参与贡献，说明国内开发者已深度参与全球推理基础设施的建设  gakki 锐评：推理引擎是 Agent 时代的「操作系统内核」，TokenSpee"
 resource: "https://x.com/i/status/2052056347248914465"
@@ -22,13 +22,6 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "推理与模型架构"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2052056347248914465"
-created: "2026-05-06"
-updated: "2026-06-26"
-sha256: "340dd44a57a2582082202eca5e749909f4c631c99c876381b918e3b09bb10b18"
-sources:
-  - "/sources/highlights/2026-05-06/00__yetone__tokenspeed-推理引擎正式发布-yetone-参与贡献-开源-llm-推理加速进入新阶段.md"
 ---
 
 # TokenSpeed 推理引擎正式发布：yetone 参与贡献，开源 LLM 推理加速进入新阶段

@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Pika 推出「AI分身」：接管16平台通讯、用你的声音替你开会"
 description: "**一句话核心判断**：Pika 的 AI 分身不是帮你做事，而是「变成你」做事——这是 AI Agent 从工具到替身的关键一步。  - 分身可接管 16 个平台的通讯（Slack、WhatsApp、Instagram、LinkedIn 等），用你的风格发内容、回消息 - 支持说你不会的语言，替你参加 Google Meet 并自动出笔记 - 有持久记忆，能自主决策，不是简单的内容生成 - Pi"
 resource: "https://x.com/i/status/2040072982518001773"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2040072982518001773"
-created: "2026-04-03"
-updated: "2026-06-26"
-sha256: "8779d38a79c21c9ca962a10fe97cea89851f1c5bfb7ed2bd39138672038bd1e2"
-sources:
-  - "/sources/highlights/2026-04-04/00__xiaohu__pika-推出-ai分身-接管16平台通讯-用你的声音替你开会.md"
 ---
 
 # Pika 推出「AI分身」：接管16平台通讯、用你的声音替你开会

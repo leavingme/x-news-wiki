@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "歸藏社交媒体卡片 Skill 重磅升级：把小红书 Live Photo 做成「带文字排版的动态图文」"
 description: "**歸藏的社交媒体卡片 Skill 即将支持小红书 Live Photo 动态图文排版**  核心要点： - 解决小红书内容生产者「必须发视频 vs 只想发图文」的真实矛盾，用动态 Live Photo 兼顾两种形态 - 强调「轻量级动态内容」的产品判断：避免做重视频也能表达必要动态 - 这是 Skills 生态从「静态生成」向「平台原生格式适配」演进的典型案例   gakki 锐评：归藏这一波不"
 resource: "https://x.com/i/status/2063883141287399589"
@@ -22,13 +22,6 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "dbskill-formula-marketplace"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2063883141287399589"
-created: "2026-06-08"
-updated: "2026-06-26"
-sha256: "d4f4611b92cb075f9d61275476fcd2e40119b915796d3812d596eedbcd37ba26"
-sources:
-  - "/sources/news/2026-06-08/00__op7418__歸藏社交媒体卡片-skill-重磅升级-把小红书-live-photo-做成-带文字排版的动态图文.md"
 ---
 
 # 歸藏社交媒体卡片 Skill 重磅升级：把小红书 Live Photo 做成「带文字排版的动态图文」

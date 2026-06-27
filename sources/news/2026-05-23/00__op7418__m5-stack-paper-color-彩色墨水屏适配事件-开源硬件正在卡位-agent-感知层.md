@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "M5 Stack Paper Color 彩色墨水屏适配事件：开源硬件正在卡位 Agent 感知层"
 description: "**[硬件外设正在成为 Agent 感知层的新入口]**  M5 Stack 推出 Paper Color 彩色墨水屏并完成适配，说明边缘硬件厂商正在主动对齐 Agent 交互协议。墨水屏的特性（低功耗、常亮、信息展示）与 Agent 24 小时「在场」需求天然契合。  这是具身 AI 硬件平价化的又一个信号：不再只是树莓派和 Jetson，彩色墨水屏这类低成本显示媒介开始进入 Agent 工具链"
 resource: "https://x.com/i/status/2058098200716992890"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2058098200716992890"
-created: "2026-05-23"
-updated: "2026-06-26"
-sha256: "16715de9d21ec29171ab567f668eb3079fe1a9ceb4f73ed6352a8ebc833d3428"
-sources:
-  - "/sources/news/2026-05-23/00__op7418__m5-stack-paper-color-彩色墨水屏适配事件-开源硬件正在卡位-agent-感知层.md"
 ---
 
 # M5 Stack Paper Color 彩色墨水屏适配事件：开源硬件正在卡位 Agent 感知层

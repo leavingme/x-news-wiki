@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "CLAUDE.md 命名约定：一个低成本检测 compact 时机的土办法"
 description: "**[用「名字称呼」反推对话是否需要 compact，是一个巧妙的低成本监控手段]**  在 CLAUDE.md 开头加入「每次回复时都叫我余温」这句话，当 Agent 突然不叫了，就意味着上下文即将耗尽、触发了 compact。这个方法不依赖任何外部工具，只利用了对话本身的行为信号。  关键洞察：传统 compact 判断靠经验或日志，而这条技巧把 compact 触发变成一个可见的交互异常——"
 resource: "https://x.com/i/status/2055271755967524970"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2055271755967524970"
-created: "2026-05-15"
-updated: "2026-06-26"
-sha256: "10637a20939e4880061f60133775f1d79ced3308b2a32055b9e0c46272c2bc1d"
-sources:
-  - "/sources/news/2026-05-15/00__gkxspace__claude-md-命名约定-一个低成本检测-compact-时机的土办法.md"
 ---
 
 # CLAUDE.md 命名约定：一个低成本检测 compact 时机的土办法

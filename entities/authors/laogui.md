@@ -1,23 +1,17 @@
 ---
-type: "entity"
+type: "Author"
 title: "老鬼 (@laogui)"
 description: "X/Twitter 作者 @laogui。共收录 1 条 AI 精选推文。"
 tags:
   - "x-news"
   - "author"
   - "author:laogui"
-timestamp: "2026-06-26T11:53:36.963Z"
+timestamp: "2026-06-27T08:40:40.172Z"
 x_handle: "laogui"
 x_author_name: "老鬼"
 x_tweet_count: 1
 x_first_seen: "2026-03-21T09:05:18.863Z"
 x_last_seen: "2026-03-21T09:05:18.863Z"
-type_okf: "Author"
-created: "2026-03-21"
-updated: "2026-06-26"
-sha256: "4b229a0f1418479d5c3dbdb5699ab0366814649ecec0cd243993490893570cbf"
-sources:
-  - "/sources/highlights/2026-03-21/00__laogui__superset-解锁多-agent-并行-cli-时代的-agent-编排中枢-登场.md"
 ---
 
 # 老鬼 (@laogui)

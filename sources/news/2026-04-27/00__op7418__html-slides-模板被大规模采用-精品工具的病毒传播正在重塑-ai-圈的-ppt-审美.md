@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "HTML Slides 模板被大规模采用：精品工具的病毒传播正在重塑 AI 圈的 PPT 审美"
 description: "**一句话核心判断**：歸藏确认其模板在 AI 圈线下分享中被高频使用——这标志着 AI 圈的\"工具品味\"正在通过自发传播形成共识，而非自上而下的标准制定。  **信息增量**： - 模板的广泛采用说明 AI 圈对高品质展示工具的需求远未被满足 - 原创者的被动\"被分享\"地位意味着在这个细分赛道存在建立个人品牌的窗口  **gakki 锐评**：工具品味的头部效应往往先于技术标准出现——当圈子里所"
 resource: "https://x.com/i/status/2048599141056758024"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2048599141056758024"
-created: "2026-04-27"
-updated: "2026-06-26"
-sha256: "f6ff21a6fb484b15fb7a3ce5c10d97accaa4ded20bedc533d66af39524ab138f"
-sources:
-  - "/sources/news/2026-04-27/00__op7418__html-slides-模板被大规模采用-精品工具的病毒传播正在重塑-ai-圈的-ppt-审美.md"
 ---
 
 # HTML Slides 模板被大规模采用：精品工具的病毒传播正在重塑 AI 圈的 PPT 审美

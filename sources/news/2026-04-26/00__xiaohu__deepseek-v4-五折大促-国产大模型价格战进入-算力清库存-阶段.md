@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Deepseek V4 五折大促：国产大模型价格战进入\"算力清库存\"阶段"
 description: "**Deepseek V4 限时 2.5 折，100 万输出 Token 仅需 6 元人民币。**  从价格结构看，原价 24 元/百万输出的定价本就低于国内多数竞品，此番折扣力度更像是以战养战的激进定价——抢市占率优先于 ARPU。  结合近期国产模型密集发布背景，价格战背后是训练周期压缩与推理算力的供需新平衡，而非单纯\"用的人不及预期\"。   **gakki：** 这不是衰退信号，是国产大模型"
 resource: "https://x.com/i/status/2048049943869583718"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2048049943869583718"
-created: "2026-04-25"
-updated: "2026-06-26"
-sha256: "da862f692c792d1fd8ebea3dd24f703f2f07590d033ec4ec7fdcc5db734cece5"
-sources:
-  - "/sources/news/2026-04-26/00__xiaohu__deepseek-v4-五折大促-国产大模型价格战进入-算力清库存-阶段.md"
 ---
 
 # Deepseek V4 五折大促：国产大模型价格战进入"算力清库存"阶段

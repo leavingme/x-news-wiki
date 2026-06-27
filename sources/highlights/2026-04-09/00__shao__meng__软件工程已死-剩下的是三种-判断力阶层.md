@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "软件工程已死，剩下的是三种「判断力阶层」"
 description: "**【AI 让代码成本趋近于零，但判断力成了新的阶层壁垒】**  当实现成本崩塌，软件工程从「编码」分裂为三个本质不同的工作：Tier 1 科技公司用 AI 做效率倍增器；Tier 2 局部优化；Tier 3 即将被替代。更关键的是——三个层级之间的技能迁移性正在瓦解，职业流动的梯子正在断裂。  三点影响： - 「会不会写代码」不再是核心技能，「能不能判断该不该做」成为新分水岭 - 职业路径从「学"
 resource: "https://x.com/i/status/2034435299095543869"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2034435299095543869"
-created: "2026-03-19"
-updated: "2026-06-26"
-sha256: "a7af43e55d0831c58559513fac7a839a39a59f91acda9f0045615393a5e8267c"
-sources:
-  - "/sources/highlights/2026-04-09/00__shao__meng__软件工程已死-剩下的是三种-判断力阶层.md"
 ---
 
 # 软件工程已死，剩下的是三种「判断力阶层」

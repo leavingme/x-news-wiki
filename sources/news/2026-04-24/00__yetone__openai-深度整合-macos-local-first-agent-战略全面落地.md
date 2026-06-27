@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "OpenAI 深度整合 macOS：local-first Agent 战略全面落地"
 description: "**OpenAI 的 Agent 战略押注 macOS 生态，local-first 正在从概念变为现实。**  yetone 评价 OpenAI「把 macOS 玩明白了」并标注 local-first Agent。这与 Computer Use 团队来自 Apple Shortcuts 的信息形成印证——OpenAI 选择深度绑定 macOS 是有组织基础的战略决策，而非追赶热点。  loca"
 resource: "https://x.com/i/status/2047384525425217861"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2047384525425217861"
-created: "2026-04-23"
-updated: "2026-06-26"
-sha256: "13439ba14c3b4cdd379871f2116b37aa234dfd0b6f6d913c3b8101496b41d4a1"
-sources:
-  - "/sources/news/2026-04-24/00__yetone__openai-深度整合-macos-local-first-agent-战略全面落地.md"
 ---
 
 # OpenAI 深度整合 macOS：local-first Agent 战略全面落地

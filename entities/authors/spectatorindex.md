@@ -1,23 +1,17 @@
 ---
-type: "entity"
+type: "Author"
 title: "The Spectator Index (@spectatorindex)"
 description: "X/Twitter 作者 @spectatorindex。共收录 1 条 AI 精选推文。"
 tags:
   - "x-news"
   - "author"
   - "author:spectatorindex"
-timestamp: "2026-06-26T11:53:36.990Z"
+timestamp: "2026-06-27T08:40:40.203Z"
 x_handle: "spectatorindex"
 x_author_name: "The Spectator Index"
 x_tweet_count: 1
 x_first_seen: "2026-04-27T13:07:26.385Z"
 x_last_seen: "2026-04-27T13:07:26.385Z"
-type_okf: "Author"
-created: "2026-04-27"
-updated: "2026-06-26"
-sha256: "27e84b058230a49d80319d3cc1f9e4c32836542fb45ca20bd291d36ebdc6b08f"
-sources:
-  - "/sources/news/2026-04-27/00__spectatorindex__中国否决meta-20亿美元收购manus-ai投资审查进入-防御性收紧-新阶段.md"
 ---
 
 # The Spectator Index (@spectatorindex)

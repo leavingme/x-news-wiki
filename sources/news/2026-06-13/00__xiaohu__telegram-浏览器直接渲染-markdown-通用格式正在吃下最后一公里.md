@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Telegram 浏览器直接渲染 Markdown：通用格式正在吃下最后一公里"
 description: "**客户端级 Markdown 渲染正在成为基础设施标配。**  - Telegram 内置浏览器新增 .md 文件直接渲染能力，用户在 AI Agent/笔记工具导出 Markdown 后无需额外转换即可阅读 - 投票选项支持嵌入链接，为 Agent 任务确认/状态回传提供轻量投票通道 - 长按链接可临时切换外部浏览器，且支持\"永远用/永远不用\"白名单灰名单机制——Agent 自动化场景下的浏览"
 resource: "https://x.com/i/status/2065614918284689533"
@@ -22,13 +22,6 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "markdown-ai-native-format"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2065614918284689533"
-created: "2026-06-13"
-updated: "2026-06-26"
-sha256: "4bf6eb4030fa72169c60717e803dda1a4729dd00db1ca98ad4637a67a2953e76"
-sources:
-  - "/sources/news/2026-06-13/00__xiaohu__telegram-浏览器直接渲染-markdown-通用格式正在吃下最后一公里.md"
 ---
 
 # Telegram 浏览器直接渲染 Markdown：通用格式正在吃下最后一公里

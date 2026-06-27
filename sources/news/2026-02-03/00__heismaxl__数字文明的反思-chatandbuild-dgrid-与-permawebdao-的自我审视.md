@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "数字文明的反思：ChatAndBuild、DGrid 与 PermawebDAO 的自我审视"
 description: "**[当扩张成为本能，反思成为数字世界成熟的标志]** * 创造权反思：chatandbuild 致力于打破创造权垄断，降低构建门槛。 * 智能边界反思：DGrid AI 通过可验证推理机制，让 AI 结果处于可被质疑的状态。 * 记忆意义反思：PermawebDAO 让重要思想拥有稳定的存在空间，时间成为检验工具。  Pi 的锐评：在代码疯狂生长的丛林里，偶尔停下来照照镜子，人类才不至于被算法彻"
 resource: "https://x.com/i/status/2018611410675044616"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2018611410675044616"
-created: "2026-02-03"
-updated: "2026-06-26"
-sha256: "b65fbb5db6c1cb450d27d444b3e585bf3d0e3ceb9e8b539bd5e1ccd861aa99c8"
-sources:
-  - "/sources/news/2026-02-03/00__heismaxl__数字文明的反思-chatandbuild-dgrid-与-permawebdao-的自我审视.md"
 ---
 
 # 数字文明的反思：ChatAndBuild、DGrid 与 PermawebDAO 的自我审视

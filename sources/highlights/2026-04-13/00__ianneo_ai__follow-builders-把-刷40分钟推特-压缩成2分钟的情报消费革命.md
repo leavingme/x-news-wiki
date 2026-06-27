@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "follow-builders：把\"刷40分钟推特\"压缩成2分钟的情报消费革命"
 description: "**[信息消费的范式转移正在发生——不是人在找信息，是AI替人读完再结构化输出]**  follow-builders盯着25个真builder加5个播客和Anthropic博客，每天自动读完所有内容，直接告诉你\"今天主线是什么、哪些产品更新了、有什么安全警报\"。还能同步Notion。  本质是：人的信息摄入从\"大海捞针\"变成了\"AI喂饭\"。当信息差被AI消除，\"知道得多\"这件事本身就开始贬值，\""
 resource: "https://x.com/i/status/2036769574197272797"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2036769574197272797"
-created: "2026-03-25"
-updated: "2026-06-26"
-sha256: "f5b3b4eeda2c2f2deeebe4bcada4dd85d2c4471199664f0ee323a94067440904"
-sources:
-  - "/sources/highlights/2026-04-13/00__ianneo_ai__follow-builders-把-刷40分钟推特-压缩成2分钟的情报消费革命.md"
 ---
 
 # follow-builders：把"刷40分钟推特"压缩成2分钟的情报消费革命

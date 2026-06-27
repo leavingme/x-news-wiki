@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "LeCun 点赞 Kaiming He ELF：连续 embedding 空间生成文本，10 倍数据超越离散 diffusion"
 description: "**连续 Embedding 空间才是文本生成的正确答案？**  Kaiming He 团队（FAIR）发布 ELF（Embedded Language Flows），核心思路反直觉——不在离散 token 上操作，而是在连续 embedding 空间里完成生成，直到最后一步才解锁。技术上借用了图像 diffusion 领域的 classifier-free guidance 等成熟方法。  **"
 resource: "https://x.com/i/status/2054473034640277880"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2054473034640277880"
-created: "2026-05-13"
-updated: "2026-06-26"
-sha256: "2089c8d4f3ee790d33a4e1d25e848ac37e3046713b44fe31464940cf02cf5de7"
-sources:
-  - "/sources/highlights/2026-05-13/00__jiqizhixin__lecun-点赞-kaiming-he-elf-连续-embedding-空间生成文本-10-倍数据超越离散-diffu.md"
 ---
 
 # LeCun 点赞 Kaiming He ELF：连续 embedding 空间生成文本，10 倍数据超越离散 diffusion

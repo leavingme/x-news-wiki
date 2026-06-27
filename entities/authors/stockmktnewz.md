@@ -1,23 +1,17 @@
 ---
-type: "entity"
+type: "Author"
 title: "Evan (@StockMKTNewz)"
 description: "X/Twitter 作者 @StockMKTNewz。共收录 1 条 AI 精选推文。"
 tags:
   - "x-news"
   - "author"
   - "author:StockMKTNewz"
-timestamp: "2026-06-26T11:53:36.997Z"
+timestamp: "2026-06-27T08:40:40.211Z"
 x_handle: "StockMKTNewz"
 x_author_name: "Evan"
 x_tweet_count: 1
 x_first_seen: "2026-05-05T22:17:58.085Z"
 x_last_seen: "2026-05-05T22:17:58.085Z"
-type_okf: "Author"
-created: "2026-05-05"
-updated: "2026-06-26"
-sha256: "2aca00780f5ee7f028ef77182109c3c9da5e43bf8aa804076c20665428846959"
-sources:
-  - "/sources/news/2026-05-05/00__StockMKTNewz__google-finance-集成ai关键摘要-巨头正在用ai重写存量产品的信息密度.md"
 ---
 
 # Evan (@StockMKTNewz)

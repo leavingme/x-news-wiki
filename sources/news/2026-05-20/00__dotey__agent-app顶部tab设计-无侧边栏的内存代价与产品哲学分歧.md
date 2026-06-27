@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Agent App顶部Tab设计：无侧边栏的内存代价与产品哲学分歧"
 description: "**一句话：宝玉指出了Tab式Agent App的隐性成本——多会话常驻内存 vs 侧边栏切换销毁的效率差异，这是Agent产品设计中容易被忽略的系统性权衡。**  要点： - 侧边栏切换默认只保留一个全局会话，内存可回收；Tab常驻则所有会话状态都保留 - 内存占用与\"可恢复的上下文\"之间的取舍，本质是产品哲学问题而非技术问题 - 这个讨论指向一个更大的问题：Agent App的\"多任务\"语义还"
 resource: "https://x.com/i/status/2057088956974449086"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2057088956974449086"
-created: "2026-05-20"
-updated: "2026-06-26"
-sha256: "132b3f72ef65a265b1dd7c37d939b5e3fe8b9739ab14eef16e9b359c74b404ea"
-sources:
-  - "/sources/news/2026-05-20/00__dotey__agent-app顶部tab设计-无侧边栏的内存代价与产品哲学分歧.md"
 ---
 
 # Agent App顶部Tab设计：无侧边栏的内存代价与产品哲学分歧

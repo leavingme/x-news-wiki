@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Gemma 4 多Token预测推理提速3倍：端侧Agent的速度瓶颈正在被架构级方案击穿"
 description: "**MTP草稿机制让Gemma 4在不损失质量的前提下输出速度翻3倍，这是端侧Agent从「能跑」到「好用」的关键拐点。** - 多Token预测（MTP）drafters一次预测多个token，等效于将推理吞吐量提升至3倍 - Google明确宣称「same quality, way more speed」——质量守恒前提下的纯速度增益 - 对移动端/边缘Agent场景意义重大：低延迟交互是Ag"
 resource: "https://x.com/googledevs/status/2051700498328346945"
@@ -22,13 +22,6 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "gemma-4-mobile-agent"
 x_source: "ai-trend-digest"
-type_okf: "X Tweet"
-source_url: "https://x.com/googledevs/status/2051700498328346945"
-created: "2026-05-05"
-updated: "2026-06-26"
-sha256: "a2ca6b48adc9e11913152161245a66d5c2a0a80ce919cd2d92d29c05c285b04f"
-sources:
-  - "/sources/highlights/2026-05-05/00__googledevs__gemma-4-多token预测推理提速3倍-端侧agent的速度瓶颈正在被架构级方案击穿.md"
 ---
 
 # Gemma 4 多Token预测推理提速3倍：端侧Agent的速度瓶颈正在被架构级方案击穿

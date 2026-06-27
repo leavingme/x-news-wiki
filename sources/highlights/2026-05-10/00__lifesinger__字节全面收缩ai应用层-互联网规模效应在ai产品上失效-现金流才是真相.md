@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "字节全面收缩AI应用层：互联网规模效应在AI产品上失效，现金流才是真相"
 description: "**字节战略收缩是AI创业的分水岭信号。**  - 字节将AI应用层聚焦豆包，硬件押注PICO+AI，原因是按2025年投入速度现金流撑不过2027年 - 多家ARR过亿美元的AI应用公司默默裁员，百万粉博主Dan Koe的Eden产品也因烧钱太快停止迭代 - 核心判断：用互联网思维做AI产品是死路，DAU等规模指标会成为有钱公司的绞索  玉伯的观察指向一个被忽视的真相：AI产品没有规模效应，「没"
 resource: "https://x.com/i/status/2053352435369025992"
@@ -22,13 +22,6 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "ai-business-cognition-reconstruction"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2053352435369025992"
-created: "2026-05-10"
-updated: "2026-06-26"
-sha256: "2baaf3dfbccf386b37ef87646d63e9bf836fe0e20c5ffc28069c7d628ec0749f"
-sources:
-  - "/sources/highlights/2026-05-10/00__lifesinger__字节全面收缩ai应用层-互联网规模效应在ai产品上失效-现金流才是真相.md"
 ---
 
 # 字节全面收缩AI应用层：互联网规模效应在AI产品上失效，现金流才是真相

@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Sam Altman 被批虚伪：前脚支持 Anthropic 守红线，后脚与五角大楼签约"
 description: "Sam Altman 被质疑言行不一，此前公开表示支持 Anthropic 守住\"不搞国内监控、不搞 AI 武器\"的红线，但 OpenAI 实际已与五角大楼签署协议。事件引发全网退订 ChatGPT 热潮。"
 resource: "https://x.com/i/status/2027932429244321998"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2027932429244321998"
-created: "2026-03-01"
-updated: "2026-06-26"
-sha256: "7b8f8288d8acd275906c92760aa3ea845d805bd84091ff889532e318ea767add"
-sources:
-  - "/sources/news/2026-03-01/00__XieJackie__sam-altman-被批虚伪-前脚支持-anthropic-守红线-后脚与五角大楼签约.md"
 ---
 
 # Sam Altman 被批虚伪：前脚支持 Anthropic 守红线，后脚与五角大楼签约

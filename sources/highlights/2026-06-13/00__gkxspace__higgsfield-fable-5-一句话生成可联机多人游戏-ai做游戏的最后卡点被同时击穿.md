@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Higgsfield+Fable 5 一句话生成可联机多人游戏：AI做游戏的最后卡点被同时击穿"
 description: "**Higgsfield 把 AI 做游戏的卡点从「美术稀烂」变成「全栈一句话」。**  要点： - Higgsfield 用 Claude Fable 5 驱动游戏逻辑，自家 MCP 解决美术，一句话即可生成可部署、可联机的 2D/3D 多人游戏 - 链接直接发群，兄弟们点开就能一起玩，跳过「几百小时编程学习」的死亡谷 - Roblox 19 岁少年 iPad 单设备月入 40 万美元已经验证："
 resource: "https://x.com/i/status/2065619550645694553"
@@ -22,13 +22,6 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "ai-game-dev-competition"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2065619550645694553"
-created: "2026-06-13"
-updated: "2026-06-26"
-sha256: "50fdb90c5fb9de6b163be3580c9367e990a9defe4f9ae455924b5301e9a782c5"
-sources:
-  - "/sources/highlights/2026-06-13/00__gkxspace__higgsfield-fable-5-一句话生成可联机多人游戏-ai做游戏的最后卡点被同时击穿.md"
 ---
 
 # Higgsfield+Fable 5 一句话生成可联机多人游戏：AI做游戏的最后卡点被同时击穿

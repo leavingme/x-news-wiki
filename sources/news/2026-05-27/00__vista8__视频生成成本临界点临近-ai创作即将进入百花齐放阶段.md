@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "视频生成成本临界点临近：AI创作即将进入百花齐放阶段"
 description: "**[视频生成成本下降将释放创作民主化浪潮]**  向阳乔木指出当前视频生成速度较慢，但随着基础设施成本持续下探，AI视频创作有望迎来爆发期。这一判断与近期 Sora、Runway 等头部玩家的降价曲线相互印证。  当生成成本从\"可接受\"跨入\"可忽视\"区间时，内容供给侧将发生结构性变化——专业创作与UGC的边界进一步模糊。  **gakki锐评：** 成本曲线解决一切\"看起来很美\"的问题，但内容平"
 resource: "https://x.com/i/status/2059628893909442738"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2059628893909442738"
-created: "2026-05-27"
-updated: "2026-06-26"
-sha256: "b9c2d97d670974b50f73f5f032ad2a359b05134981a3cf3ebd48fc7a0ba28736"
-sources:
-  - "/sources/news/2026-05-27/00__vista8__视频生成成本临界点临近-ai创作即将进入百花齐放阶段.md"
 ---
 
 # 视频生成成本临界点临近：AI创作即将进入百花齐放阶段

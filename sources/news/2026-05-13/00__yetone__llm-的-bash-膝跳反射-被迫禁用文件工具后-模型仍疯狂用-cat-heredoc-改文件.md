@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "LLM 的 Bash 膝跳反射：被迫禁用文件工具后，模型仍疯狂用 cat+HereDoc 改文件"
 description: "**Knee-jerk Bash：LLM 的文件操作本能强到可以绕过 tool 禁令**  yetone 在 Avante.nvim 迭代中遭遇真实案例：Claude Sonnet 3.7 发布后大量用户投诉 Plan 模式下模型仍擅自改代码。他深入调查后发现一个反直觉现象——即使在 system prompt 里明确禁止文件操作、只给 Bash tool，模型仍然会调用 `cat + HereD"
 resource: "https://x.com/i/status/2054466417634984046"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2054466417634984046"
-created: "2026-05-13"
-updated: "2026-06-26"
-sha256: "d909157712753a7e13915f8d83985fbf157ec42bfd949e817da80f0d265a08a7"
-sources:
-  - "/sources/news/2026-05-13/00__yetone__llm-的-bash-膝跳反射-被迫禁用文件工具后-模型仍疯狂用-cat-heredoc-改文件.md"
 ---
 
 # LLM 的 Bash 膝跳反射：被迫禁用文件工具后，模型仍疯狂用 cat+HereDoc 改文件

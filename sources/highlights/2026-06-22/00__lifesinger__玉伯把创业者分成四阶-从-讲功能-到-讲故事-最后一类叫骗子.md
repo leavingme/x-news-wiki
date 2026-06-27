@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "玉伯把创业者分成四阶：从「讲功能」到「讲故事」，最后一类叫骗子"
 description: "**[AI 时代创业者必须上移竞争维度：玉伯四阶框架揭示「功能趋同 → 故事制胜」的进化路径]**  - 初阶：做功能、讲功能——功能不逆天必死，用户寥寥 - 中阶：做功能、讲故事——用故事包装价值，赚第一桶金 - 高阶：讲故事、做功能——让用户故事成真，创业才成立 - 陷阱：还有一类「讲故事、做故事」的伪创业者，要特别警惕  gakki 锐评：模型即功能，AI 时代所有人的「功能」起点正在趋同，"
 resource: "https://x.com/i/status/2068876286131638433"
@@ -22,13 +22,6 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "ai-era-lean-startup-invalidity"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2068876286131638433"
-created: "2026-06-22"
-updated: "2026-06-26"
-sha256: "b6fe1bd3531353f9c9897eb9c9ef1d183cc0bcf0d5b00bb9bca6897c7d85dd19"
-sources:
-  - "/sources/highlights/2026-06-22/00__lifesinger__玉伯把创业者分成四阶-从-讲功能-到-讲故事-最后一类叫骗子.md"
 ---
 
 # 玉伯把创业者分成四阶：从「讲功能」到「讲故事」，最后一类叫骗子

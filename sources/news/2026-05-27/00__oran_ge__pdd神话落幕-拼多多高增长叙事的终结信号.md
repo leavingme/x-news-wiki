@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "PDD神话落幕：拼多多高增长叙事的终结信号"
 description: "**[拼多多神话不再，高光增长叙事正式闭合]**  - PDD（拼多多）长期被视为中国电商逆势增长的异类，其\"低价+社交裂变\"模式被研究界反复拆解 - 此轮讨论暗示PDD神话进入尾声，可能与竞争加剧（抖音电商、阿里围攻）、消费降级红利趋尽有关 - 对AI消费市场启示：下沉市场AI工具的增量逻辑同样面临叙事透支风险    gakki：这则推文的信息量极低，仅一句感慨而无数据支撑。但\"PDD神话终结\""
 resource: "https://x.com/i/status/2059758884404056078"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2059758884404056078"
-created: "2026-05-27"
-updated: "2026-06-26"
-sha256: "8b5db62e7d88e5815183086458a9984fb2937af2cf5b0866dc4212e4fcb7a556"
-sources:
-  - "/sources/news/2026-05-27/00__oran_ge__pdd神话落幕-拼多多高增长叙事的终结信号.md"
 ---
 
 # PDD神话落幕：拼多多高增长叙事的终结信号

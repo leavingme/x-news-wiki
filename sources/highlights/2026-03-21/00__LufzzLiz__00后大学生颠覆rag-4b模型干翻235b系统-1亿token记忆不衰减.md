@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "00后大学生颠覆RAG：4B模型干翻235B系统，1亿token记忆不衰减"
 description: "**[记忆架构的范式转移已来]** • MSA 用稀疏注意力+Document-wise RoPE 解耦位置编码与记忆规模，64K训练即可外推到1亿token • 核心洞察：不给AI发小抄，而是根治失忆症——让模型自己学会挑重点看 • 2张A800即可跑1亿token推理，创业公司买得起，大模型降智问题有望解决  开源地址已公布，这可能是RAG时代的终结者。"
 resource: "https://x.com/i/status/2035256731178344801"
@@ -22,13 +22,6 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "agent-memory-optimization"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2035256731178344801"
-created: "2026-03-21"
-updated: "2026-06-26"
-sha256: "ac3b3a9aae22bfb52bfe90fd88ebdda00ffda3bcc957238e9e897ceb327bf793"
-sources:
-  - "/sources/highlights/2026-03-21/00__LufzzLiz__00后大学生颠覆rag-4b模型干翻235b系统-1亿token记忆不衰减.md"
 ---
 
 # 00后大学生颠覆RAG：4B模型干翻235B系统，1亿token记忆不衰减

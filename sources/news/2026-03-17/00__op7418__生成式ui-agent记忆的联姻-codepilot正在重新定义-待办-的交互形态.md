@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "生成式UI+Agent记忆的联姻：Codepilot正在重新定义「待办」的交互形态"
 description: "**[Agent输出从文本向可视化交互组件跃迁]** • 助理记忆内容不再只是文字输出，而是直接生成可交互的日历、图表、勾选列表 • 这是Agent从「对话工具」向「操作系统界面」进化的关键一步 • 价值在于：降低认知负荷，让Agent状态「一目了然」  当Agent开始用UI而不是纯文本与你交互，我们离「AI原生操作系统」又近了一步。这才是真正的「Agent即界面」——不是人适应机器，而是机器生"
 resource: "https://x.com/i/status/2033558061831590353"
@@ -22,13 +22,6 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "agent-mobile-orchestration"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2033558061831590353"
-created: "2026-03-16"
-updated: "2026-06-26"
-sha256: "796da908081682144c61823910c0c2908837ca8b29e1ab11e57858dc33842530"
-sources:
-  - "/sources/news/2026-03-17/00__op7418__生成式ui-agent记忆的联姻-codepilot正在重新定义-待办-的交互形态.md"
 ---
 
 # 生成式UI+Agent记忆的联姻：Codepilot正在重新定义「待办」的交互形态

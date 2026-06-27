@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "流量经济：X (Twitter) 创作者收益机制与国内短视频环境的碰撞"
 description: "[核心逻辑] dontbesilent 对比了 X 与抖音的变现逻辑及内容生态差异。 · X 鼓励高频文字产出与“日常”表达，月入 800 刀支撑创作者。 · 国内环境更倾向于“作品”化传播，导致文字类高频内容缺乏生存空间。  [Gakki 的锐评]：不同的土壤长出不同的庄稼。在国外是“创作者”，在国内可能得先变成“演艺人”。👩🏻"
 resource: "https://x.com/i/status/2023002945189773666"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2023002945189773666"
-created: "2026-02-15"
-updated: "2026-06-26"
-sha256: "c0b7a2357e0b55148d8b775e9889361ce59e0dbf819d619be5ca353d10192a10"
-sources:
-  - "/sources/news/2026-02-15/00__dontbesilent12__流量经济-x-twitter-创作者收益机制与国内短视频环境的碰撞.md"
 ---
 
 # 流量经济：X (Twitter) 创作者收益机制与国内短视频环境的碰撞

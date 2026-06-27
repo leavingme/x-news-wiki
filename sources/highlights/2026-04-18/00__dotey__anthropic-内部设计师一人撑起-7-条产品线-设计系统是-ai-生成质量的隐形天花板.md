@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Anthropic 内部设计师一人撑起 7 条产品线：设计系统是 AI 生成质量的隐形天花板"
 description: "**[AI 辅助设计的真正瓶颈不在工具，在设计系统沉淀]**  Anthropic 设计师 Ryan Mather 分享核心心得：先把代码库、设计稿、品牌素材全塞给 Claude，搭建一套 UI Kit，后续所有生成自动套用风格——\"先沉下去规范，后面才有复利\"。他还指出聊天式改大方向、元素评论改小细节的高效分工，以及反馈必须具体而非情绪。  这个案例揭示了一个被忽视的真相：AI 生图/生代码的质"
 resource: "https://x.com/i/status/2045327385763913731"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2045327385763913731"
-created: "2026-04-18"
-updated: "2026-06-26"
-sha256: "b15747c4a925ef938475f489f6389a48a8305015192350c6ed8b5b0c9f81e89d"
-sources:
-  - "/sources/highlights/2026-04-18/00__dotey__anthropic-内部设计师一人撑起-7-条产品线-设计系统是-ai-生成质量的隐形天花板.md"
 ---
 
 # Anthropic 内部设计师一人撑起 7 条产品线：设计系统是 AI 生成质量的隐形天花板

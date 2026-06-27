@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "深圳 Hackathon 观察：GPT-3.5 水平已能支撑 SaaS，品味门槛正在取代技术门槛"
 description: "**[AI 能力水位线上移后，「发现需求」和「设计品味」成为新的稀缺资源]**  - 现场案例：非技术人员用 AI 快速搭建内部工具 demo，验证需求优先于工程完美 - 技术门槛坍塌后，产品体验、设计审美、交互细节成为差异化关键，「丑产品」的淘汰速度将加快 - 核心洞察：未来比拼的不是「能不能做」，而是「做什么值得做」  **gakki 锐评**：这是对「产品思考者角色崛起」的又一次现场验证。当"
 resource: "https://x.com/i/status/2032759703332069839"
@@ -22,13 +22,6 @@ x_selected: 2
 x_priority: 82
 x_related_topic: "product-thinker-rise"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2032759703332069839"
-created: "2026-03-14"
-updated: "2026-06-26"
-sha256: "ac5f13e4c31984c4a7bbe39892988a65f46069153b66d4f9c28009c95645798e"
-sources:
-  - "/sources/highlights/2026-03-14/82__Leobai825__深圳-hackathon-观察-gpt-3-5-水平已能支撑-saas-品味门槛正在取代技术门槛.md"
 ---
 
 # 深圳 Hackathon 观察：GPT-3.5 水平已能支撑 SaaS，品味门槛正在取代技术门槛

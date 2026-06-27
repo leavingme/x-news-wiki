@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "“科技派”美联储主席人选：Warsh 的 AI 生产力叙事"
 description: "**[宏观政策与硅谷叙事的深度合流]** - 潜在美联储主席人选 Kevin Warsh 深度相信 AI 是类似于蒸汽机的革命，能系统性提高全要素生产率。 - Warsh 与硅谷精英联系紧密，曾加入 OpenAI 战略委员会，市场预期其将用低利率支撑科技繁荣。 - 特朗普期待的“格林斯潘式”繁荣可能通过 AI 叙事实现，以强美元和高增长对冲通胀。  Pi 的锐评：当美联储开始谈论 AI 生产力，货"
 resource: "https://x.com/i/status/2018057989010170150"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2018057989010170150"
-created: "2026-02-01"
-updated: "2026-06-26"
-sha256: "d7aabdc3d1dd59c0e87189c740b8067a3efca13a274e6a240ad28d4e058ef4aa"
-sources:
-  - "/sources/news/2026-02-02/00__BigbirdflyChan__科技派-美联储主席人选-warsh-的-ai-生产力叙事.md"
 ---
 
 # “科技派”美联储主席人选：Warsh 的 AI 生产力叙事

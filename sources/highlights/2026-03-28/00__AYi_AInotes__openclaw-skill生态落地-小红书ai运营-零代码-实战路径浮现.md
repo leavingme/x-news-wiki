@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "OpenClaw skill生态落地：小红书AI运营「零代码」实战路径浮现"
 description: "**[OpenClaw 正从开发者工具向内容创作者基础设施跃迁]** • 技能化安装机制（3步激活）降低了非技术用户的使用门槛，Agent 能力开始向「文科生」渗透 • 小红书运营场景验证：内容创作→自动发布的全流程闭环，意味着 Agent 开始进入「内容生产工业化」阶段 • 可无限扩展的框架设计，预示「按需定制」可能成为下一代 AI 应用交付的主流范式  **gakki 锐评：** 当 Open"
 resource: "https://x.com/i/status/2035515725335633966"
@@ -22,13 +22,6 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "no-code-agent-entry"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2035515725335633966"
-created: "2026-03-22"
-updated: "2026-06-26"
-sha256: "09285f6ea8165b29c1542489e8b6e6c05a3a767c4f864b7f9958499fac747e1b"
-sources:
-  - "/sources/highlights/2026-03-28/00__AYi_AInotes__openclaw-skill生态落地-小红书ai运营-零代码-实战路径浮现.md"
 ---
 
 # OpenClaw skill生态落地：小红书AI运营「零代码」实战路径浮现

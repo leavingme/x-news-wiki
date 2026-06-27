@@ -1,23 +1,17 @@
 ---
-type: "entity"
+type: "Author"
 title: "龙心盐 (@ssslumdunk)"
 description: "X/Twitter 作者 @ssslumdunk。共收录 1 条 AI 精选推文。"
 tags:
   - "x-news"
   - "author"
   - "author:ssslumdunk"
-timestamp: "2026-06-26T11:53:37.000Z"
+timestamp: "2026-06-27T08:40:40.215Z"
 x_handle: "ssslumdunk"
 x_author_name: "龙心盐"
 x_tweet_count: 1
 x_first_seen: "2026-06-24T22:27:26.411Z"
 x_last_seen: "2026-06-24T22:27:26.411Z"
-type_okf: "Author"
-created: "2026-06-24"
-updated: "2026-06-26"
-sha256: "fe401c98d38ec64331563b44e76e1adb385242736632ab47f667acb23390bf4b"
-sources:
-  - "/sources/highlights/2026-06-24/00__ssslumdunk__微软摊牌-anthropic贵50倍-copilot考虑全面切换deepseek-v4开源模型.md"
 ---
 
 # 龙心盐 (@ssslumdunk)

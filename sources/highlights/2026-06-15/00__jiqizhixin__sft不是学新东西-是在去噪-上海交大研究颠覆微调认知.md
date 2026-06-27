@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "SFT不是学新东西，是在去噪：上海交大研究颠覆微调认知"
 description: "**SFT的本质是'减法'而非'加法'，过度训练反而引入过拟合交互。**  上海交大及合作团队发现：监督微调主要移除噪声式的 token 交互，而非学习新的有用模式  这一短暂去噪阶段是 SFT 有效的关键；继续训练会引入过拟合交互，解释了为何 SFT 有时反而损害 LLM  实操意义：早期停止（early stopping）比延长训练更重要，为微调策略提供明确方向    gakki 锐评：这是一"
 resource: "https://x.com/i/status/2066580245202038796"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2066580245202038796"
-created: "2026-06-15"
-updated: "2026-06-26"
-sha256: "2066f092ccbb2c23d062d56869aade61e0acd87d9334421293d817fd20ce29bf"
-sources:
-  - "/sources/highlights/2026-06-15/00__jiqizhixin__sft不是学新东西-是在去噪-上海交大研究颠覆微调认知.md"
 ---
 
 # SFT不是学新东西，是在去噪：上海交大研究颠覆微调认知

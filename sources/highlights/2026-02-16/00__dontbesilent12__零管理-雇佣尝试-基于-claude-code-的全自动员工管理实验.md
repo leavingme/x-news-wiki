@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "“零管理”雇佣尝试：基于 Claude Code 的全自动员工管理实验"
 description: "**[核心逻辑]** 探索 0 私聊、0 管理成本的招聘模式：任务认领、薪资评估、纠纷处理全由 Claude Code 自动化闭环执行。"
 resource: "https://x.com/i/status/2023044620868018612"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2023044620868018612"
-created: "2026-02-15"
-updated: "2026-06-26"
-sha256: "b1af4b15e12b92978f75da63da7b00433aa85148a7d534d89f01ad94aff5ef49"
-sources:
-  - "/sources/highlights/2026-02-16/00__dontbesilent12__零管理-雇佣尝试-基于-claude-code-的全自动员工管理实验.md"
 ---
 
 # “零管理”雇佣尝试：基于 Claude Code 的全自动员工管理实验

@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "小互开源IP配图技能包+31个现成角色：Skills生态从工程能力外溢到创意资产"
 description: "**[一句话核心判断]** 独立创作者把\"画IP配图\"这项专业能力打包成可复用技能（31个现成角色），标志着 Skills 生态正从工程师专属外溢到内容创作者领域。  - 关键信号：技能商品化的主体不再只是程序员，小红书/内容创作者开始把\"设计判断力\"封装成可分发资产 - 与此前 SKILL.md 成为行业标准形成呼应——Skills 正在变成\"专业能力的最小可交易单元\" - 对独立创作者意味着："
 resource: "https://x.com/i/status/2070317717811540149"
@@ -22,13 +22,6 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "skills-ecosystem-standards"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2070317717811540149"
-created: "2026-06-26"
-updated: "2026-06-26"
-sha256: "718ebf284013558c5c05334803455b4a66d18549297d1420c6f685dbeeaed64e"
-sources:
-  - "/sources/news/2026-06-26/00__xiaohu__小互开源ip配图技能包-31个现成角色-skills生态从工程能力外溢到创意资产.md"
 ---
 
 # 小互开源IP配图技能包+31个现成角色：Skills生态从工程能力外溢到创意资产

@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "国产模型架构图获认可：OpenRouter限时免费窗口已关闭"
 description: "**一句话核心判断** 国产AI模型在开发者群体中的实际采用率正在上升，OpenRouter促销窗口关闭后官网仍保留免费入口，形成分化渠道格局。  **信息增量** - 某国产模型架构图被开发者评价为「清晰」，说明国产模型在技术传播层面开始注重可解释性表达 - OpenRouter限时免费到期但官网继续，暗示厂商采用「促销引流+官网留存」的双轨策略  **gakki锐评** 免费是表象，留存才是目"
 resource: "https://x.com/i/status/2055645270453727244"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2055645270453727244"
-created: "2026-05-16"
-updated: "2026-06-26"
-sha256: "a8a182549f3596b126a0af9bdb1831210c821f334f5787c5b5ef6f8c4257d75a"
-sources:
-  - "/sources/news/2026-05-16/00__Zesee__国产模型架构图获认可-openrouter限时免费窗口已关闭.md"
 ---
 
 # 国产模型架构图获认可：OpenRouter限时免费窗口已关闭

@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "FTC透明度执法标准首次锚定AI平台：模型切换必须实时告知，否则构成欺诈"
 description: "**核心判断：AI平台的「信息存在」不等于「有效告知」，监管终于开始较真了。**  FTC对「清楚且显著」披露的标准已明确三要素：位置、时间、格式——三者任一有误，披露即无效。脚注里的免责、折叠文本、小字条款，均不构成有效告知。  映射到AI平台：用户有权知道实际被哪个模型服务。OpenAI已承认对话续接会导致模型变化，但变化并不显示在用户界面上——这不符合「实时显示」标准。帮助中心和发布说明不够"
 resource: "https://x.com/i/status/2039341337053655468"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2039341337053655468"
-created: "2026-04-01"
-updated: "2026-06-26"
-sha256: "24b7c50c7d6153f4d427ad62e84f7bd3c472b9bd75ff9db1df1e9694543d25fa"
-sources:
-  - "/sources/highlights/2026-04-10/00__ljinhng34624264__ftc透明度执法标准首次锚定ai平台-模型切换必须实时告知-否则构成欺诈.md"
 ---
 
 # FTC透明度执法标准首次锚定AI平台：模型切换必须实时告知，否则构成欺诈

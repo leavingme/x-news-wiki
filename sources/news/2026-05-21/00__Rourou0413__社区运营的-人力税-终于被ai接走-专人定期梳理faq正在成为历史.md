@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "社区运营的「人力税」终于被AI接走：专人定期梳理FAQ正在成为历史"
 description: "**[产品痛点被精准卡位：FAQ维护这种人肉劳动密集型工作，正在被AI系统性替代]**  社区运营的核心痛点从来不是创意，而是重复性劳动的堆积——FAQ梳理正是典型。Rourou点出这个细碎活需要专人定期维护，本质上暴露了一个长期被忽视的效率死角。  gakki 的锐评：工具化AI的价值往往不在于「多智能」，而在于「接走脏活」。这个选题的传播价值在于——它触及了一个被技术圈忽视但用户基数巨大的领域"
 resource: "https://x.com/i/status/2057359248913543355"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2057359248913543355"
-created: "2026-05-21"
-updated: "2026-06-26"
-sha256: "0ed9602975da00ad6cd8006a86a9a8846b37d2ebb17a6b1788275e69064103ba"
-sources:
-  - "/sources/news/2026-05-21/00__Rourou0413__社区运营的-人力税-终于被ai接走-专人定期梳理faq正在成为历史.md"
 ---
 
 # 社区运营的「人力税」终于被AI接走：专人定期梳理FAQ正在成为历史

@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "苹果终于投降：iOS 27 Siri变身独立ChatGPT App，开放第三方模型接入"
 description: "**苹果认输了。**  iOS 27将Siri改造成独立聊天App，允许接入ChatGPT、Gemini、Claude等第三方模型——彻底放弃封闭路线。Siri新增「Search or Ask」界面，交互逻辑向ChatGPT靠拢，并可跨App调用。  苹果真正的意图是控制入口层：谁来路由、呈现、调度AI能力，比模型本身更重要。  **gakki**：苹果看似开放，实则把Siri做成了AI分发路由器"
 resource: "https://x.com/i/status/2060293851869569204"
@@ -22,13 +22,6 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "ai-browser-platform-war"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2060293851869569204"
-created: "2026-05-29"
-updated: "2026-06-26"
-sha256: "27a75afb085a925013d48c78c2548d9bdfc3c6ef764b486b9888649bab675939"
-sources:
-  - "/sources/highlights/2026-05-29/00__xiaohu__苹果终于投降-ios-27-siri变身独立chatgpt-app-开放第三方模型接入.md"
 ---
 
 # 苹果终于投降：iOS 27 Siri变身独立ChatGPT App，开放第三方模型接入

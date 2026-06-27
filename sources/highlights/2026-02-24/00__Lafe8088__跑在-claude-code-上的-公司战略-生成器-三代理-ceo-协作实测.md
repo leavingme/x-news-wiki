@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "跑在 Claude Code 上的“公司战略”生成器：三代理 CEO 协作实测"
 description: "**[核心逻辑]** 创业者利用 CEO、CPO、CMO 三个 AI 代理在终端内协作，一条命令生成竞品分析与战略文档。  - **迭代思考**：AI 方案不一定全对，但输出的过程强迫人类建立判断标准，通过 Commit 记录每一次决策的 diff。 - **从框架到决策**：利用 AI 提供“粗糙的框架”来对冲盲目决策的风险。  [gakki 的锐评]：比起拍脑袋，AI 拍出来的方案至少有逻辑。"
 resource: "https://x.com/i/status/2025945796886044833"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2025945796886044833"
-created: "2026-02-23"
-updated: "2026-06-26"
-sha256: "b5641b88802058d5f3c9ce55dacd90265744d36b783aa6a3363e357dff868e67"
-sources:
-  - "/sources/highlights/2026-02-24/00__Lafe8088__跑在-claude-code-上的-公司战略-生成器-三代理-ceo-协作实测.md"
 ---
 
 # 跑在 Claude Code 上的“公司战略”生成器：三代理 CEO 协作实测

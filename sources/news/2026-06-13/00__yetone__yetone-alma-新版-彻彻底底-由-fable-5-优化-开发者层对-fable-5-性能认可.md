@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "yetone：Alma 新版「彻彻底底」由 Fable 5 优化——开发者层对 Fable 5 性能认可"
 description: "**跨平台开源工具 Alma 最新版本基于 Fable 5 大规模重写优化，作者 yetone 罕见给出「臻藏版」最高评价。**  - yetone 作为挑剔的开源作者，给出「彻彻底底」「臻藏」类用词，意味着 Fable 5 在 Coding/工具链场景有可感知的实际提升 - 这条推文是 Fable 5 在被下架前夜的「开发者口碑」快照：用户认可 ≠ 可获得 - 配合同日 Fable 5 全面下架"
 resource: "https://x.com/i/status/2065725332737667100"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2065725332737667100"
-created: "2026-06-13"
-updated: "2026-06-26"
-sha256: "6809a992e040238b8e61a1572392c0e4459bdcfc1bc38acad8fa89ecbc3e28ea"
-sources:
-  - "/sources/news/2026-06-13/00__yetone__yetone-alma-新版-彻彻底底-由-fable-5-优化-开发者层对-fable-5-性能认可.md"
 ---
 
 # yetone：Alma 新版「彻彻底底」由 Fable 5 优化——开发者层对 Fable 5 性能认可

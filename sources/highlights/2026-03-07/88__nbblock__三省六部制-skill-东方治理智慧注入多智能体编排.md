@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "三省六部制 Skill：东方治理智慧注入多智能体编排"
 description: "**[多 Agent 分权制衡的「政治学实验」]**  开发者 cft0808 将中国古代三省六部制转化为多智能体编排系统，用「中书省决策→门下省审核→尚书省执行」的权力制衡机制，解决多 Agent 协作中的权限冲突与责任归属问题。  **核心设计：** • 中书省（决策 Agent）：负责意图理解与任务拆解 • 门下省（审核 Agent）：对决策进行合规性与风险检查 • 尚书省（执行 Agent"
 resource: "https://x.com/i/status/2029783415688737019"
@@ -22,13 +22,6 @@ x_selected: 2
 x_priority: 88
 x_related_topic: "agent-swarm-orchestration"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2029783415688737019"
-created: "2026-03-06"
-updated: "2026-06-26"
-sha256: "cdedba1c5c155178984a2e49497835fc3301cc15009e853226608aa573e47149"
-sources:
-  - "/sources/highlights/2026-03-07/88__nbblock__三省六部制-skill-东方治理智慧注入多智能体编排.md"
 ---
 
 # 三省六部制 Skill：东方治理智慧注入多智能体编排

@@ -1,23 +1,17 @@
 ---
-type: "entity"
+type: "Author"
 title: "Ray Wang (@wangray)"
 description: "X/Twitter 作者 @wangray。共收录 1 条 AI 精选推文。"
 tags:
   - "x-news"
   - "author"
   - "author:wangray"
-timestamp: "2026-06-26T11:53:36.972Z"
+timestamp: "2026-06-27T08:40:40.189Z"
 x_handle: "wangray"
 x_author_name: "Ray Wang"
 x_tweet_count: 1
 x_first_seen: "2026-04-05T00:42:57.272Z"
 x_last_seen: "2026-04-05T00:42:57.272Z"
-type_okf: "Author"
-created: "2026-04-05"
-updated: "2026-06-26"
-sha256: "6fc30bdca7cf6694535f3f1909fd0bff7aa39ae3266b489ade75bf9a6933cb06"
-sources:
-  - "/sources/news/2026-04-05/00__wangray__anthropic-定调-模型做不了的-边界决策-才是真正的护城河.md"
 ---
 
 # Ray Wang (@wangray)

@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "PhysForge：单图直接生成\"能跑仿真\"的 3D 资产，3D 内容到具身数据缺口补上了"
 description: "**HKU×腾讯混元联合 ZJU/THU/SJTU/BUAA，把\"物理蓝图\"写进 3D 生成链路。**  - 两阶段框架：第一阶段用 VLM 规划材质、关节、功能三类\"物理蓝图\"，第二阶段通过 KineVoxel 注入生成带运动学参数的完整资产 - 输出 simulation-ready、可功能交互的 3D 资产，显著超越静态生成方法 - 关键变化：关节/材质不再是后处理外挂，而是与几何一同被规划"
 resource: "https://x.com/i/status/2069129543517090105"
@@ -22,13 +22,6 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "ai-3d-content-democratization"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2069129543517090105"
-created: "2026-06-22"
-updated: "2026-06-26"
-sha256: "2521946616ff7621ae405677e573630b88b615d0cad5159763cc7ea79f1ae8f7"
-sources:
-  - "/sources/highlights/2026-06-22/00__jiqizhixin__physforge-单图直接生成-能跑仿真-的-3d-资产-3d-内容到具身数据缺口补上了.md"
 ---
 
 # PhysForge：单图直接生成"能跑仿真"的 3D 资产，3D 内容到具身数据缺口补上了

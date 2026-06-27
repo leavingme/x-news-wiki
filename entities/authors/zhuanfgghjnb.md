@@ -1,23 +1,17 @@
 ---
-type: "entity"
+type: "Author"
 title: "蜡币小鑫 (@zhuanfgghjnb)"
 description: "X/Twitter 作者 @zhuanfgghjnb。共收录 1 条 AI 精选推文。"
 tags:
   - "x-news"
   - "author"
   - "author:zhuanfgghjnb"
-timestamp: "2026-06-26T11:53:36.987Z"
+timestamp: "2026-06-27T08:40:40.199Z"
 x_handle: "zhuanfgghjnb"
 x_author_name: "蜡币小鑫"
 x_tweet_count: 1
 x_first_seen: "2026-04-18T12:44:58.343Z"
 x_last_seen: "2026-04-18T12:44:58.343Z"
-type_okf: "Author"
-created: "2026-04-18"
-updated: "2026-06-26"
-sha256: "25bc7e05f6aa2694a31788ff570b60737c9c5f9be1e33031aaf5cbee024bfea8"
-sources:
-  - "/sources/highlights/2026-04-18/00__zhuanfgghjnb__ai支付壁垒比ai本身更难-aeon正在解决-ai最后一块木板.md"
 ---
 
 # 蜡币小鑫 (@zhuanfgghjnb)

@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "宝玉下场给Teknium项目提PR：中文AI评论圈正反向「投喂」全球开源基建"
 description: "**宝玉因「好几个人问」直接给 Teknium 维护的开源项目提 PR，标志中文 AI KOL 角色正在从「传声筒」转向「代码贡献者」。**  - Teknium 是 Unsloth/数据集生态核心维护者，影响力覆盖全球 LLM 训练工具链 - 中文 AI 头部评论者主动下场写 PR，意味着「解读层」开始反哺「基础设施层」 - 一旦形成正反馈，中文 AI 社区在 open source LLM i"
 resource: "https://x.com/i/status/2063031730932519220"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2063031730932519220"
-created: "2026-06-05"
-updated: "2026-06-26"
-sha256: "cac99f2d35733df72f7d82a9414085b37551a3a5c7763fd06b0c6dfca8bd14c0"
-sources:
-  - "/sources/news/2026-06-06/00__dotey__宝玉下场给teknium项目提pr-中文ai评论圈正反向-投喂-全球开源基建.md"
 ---
 
 # 宝玉下场给Teknium项目提PR：中文AI评论圈正反向「投喂」全球开源基建

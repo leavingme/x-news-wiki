@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Sol-RL：NVIDIA用\"先粗后精\"两阶段训练，让图像生成模型学习效率提升4倍"
 description: "**一句话核心判断：** 训练效率的量级提升比模型架构创新更难被忽视——4倍速意味着迭代周期的彻底压缩。  **信息增量：** - 第一阶段低精度大规模搜索候选图，第二阶段仅对最优结果高精度重生成 - 在FLUX.1和SD3.5上收敛速度提升数倍，同时对齐人类偏好 - 属于工程优化级别突破，可直接应用到现有训练管线  **gakki锐评：** \"4倍\"不是论文数字，是真实的钱和时间。当训练成本从1"
 resource: "https://x.com/i/status/2047317316715880646"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2047317316715880646"
-created: "2026-04-23"
-updated: "2026-06-26"
-sha256: "7f1dc5ef2489c289df585a660a1b879a22c024916e3e1d4657d3edfc169dd4f6"
-sources:
-  - "/sources/news/2026-04-24/00__jiqizhixin__sol-rl-nvidia用-先粗后精-两阶段训练-让图像生成模型学习效率提升4倍.md"
 ---
 
 # Sol-RL：NVIDIA用"先粗后精"两阶段训练，让图像生成模型学习效率提升4倍

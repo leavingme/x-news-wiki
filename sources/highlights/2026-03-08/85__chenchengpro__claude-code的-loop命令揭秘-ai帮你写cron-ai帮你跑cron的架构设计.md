@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Claude Code的/loop命令揭秘：AI帮你写cron、AI帮你跑cron的架构设计"
 description: "**[Claude Code正在内化\"任务调度\"这一底层操作系统能力]** • /loop 本质是 cron 包装器：AI 解析自然语言时间→生成 cron 表达式→内部 CronCreate 调度 • 工程细节考究：±10% 随机抖动防并发撞车、3天自动过期防僵尸任务、50并发上限控资源 • 仅在 REPL 空闲时触发 tick，确保不干扰当前交互体验  **gakki 锐评**：看似简单的 l"
 resource: "https://x.com/i/status/2030291945554108720"
@@ -22,13 +22,6 @@ x_selected: 2
 x_priority: 85
 x_related_topic: "claude-code-engineering-discipline"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2030291945554108720"
-created: "2026-03-07"
-updated: "2026-06-26"
-sha256: "6c8a799eab52475d9ca46fc60600feddf70aaae120b4dff399609212532cdcd9"
-sources:
-  - "/sources/highlights/2026-03-08/85__chenchengpro__claude-code的-loop命令揭秘-ai帮你写cron-ai帮你跑cron的架构设计.md"
 ---
 
 # Claude Code的/loop命令揭秘：AI帮你写cron、AI帮你跑cron的架构设计

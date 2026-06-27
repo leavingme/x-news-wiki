@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Hashimoto 放话：multiplexer 问题有全新解法，不是克隆"
 description: "**[HashiCorp 联合创始人预告新产品方向：'different take on multiplexers']**  - Mitchell Hashimoto（Terraform/Vault 之父，2022 年卸任 CEO）公开暗示正在做一个\"完全不同\"的 multiplexer 方案，强调\"not a clone, solves the multiplexer problem\" - 作为"
 resource: "https://x.com/i/status/2069622485570777543"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2069622485570777543"
-created: "2026-06-24"
-updated: "2026-06-26"
-sha256: "22e32d1ede0c292c715414e680488f384e35f504baeeef94ce552cbaff4b6891"
-sources:
-  - "/sources/news/2026-06-25/00__mitchellh__hashimoto-放话-multiplexer-问题有全新解法-不是克隆.md"
 ---
 
 # Hashimoto 放话：multiplexer 问题有全新解法，不是克隆

@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "字节火山引擎 2026：Seed 系矩阵一次性摆桌，国产 AI 内容栈首次\"全栈亮相\""
 description: "**字节火山引擎 2026 把 Seed 系矩阵一次性摆上桌，国产 AI 内容栈首次对外\"全栈亮相\"。**  - 预告 Seedance 2.5 视频、豆包 Seed 2.1（声称达 Opus 4.6 水平）、Seeddream 5.0 图像三线齐发 - 现场座无虚席——B 端关注度连续两年爆表，AI 基础设施争夺战正在 A 端蔓延 - 模型、图像、视频三条产品线首次协同发布，字节在 AI 内容栈"
 resource: "https://x.com/i/status/2069232783139201161"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2069232783139201161"
-created: "2026-06-23"
-updated: "2026-06-26"
-sha256: "1a1bee9408e872c6f5fda13e1e4e8fe3c954e023ad47349110de7b30cb5377c8"
-sources:
-  - "/sources/news/2026-06-23/00__xiaohu__字节火山引擎-2026-seed-系矩阵一次性摆桌-国产-ai-内容栈首次-全栈亮相.md"
 ---
 
 # 字节火山引擎 2026：Seed 系矩阵一次性摆桌，国产 AI 内容栈首次"全栈亮相"

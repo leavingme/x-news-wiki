@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "AI 扫盲课迫在眉睫：OpenClaw 引发的“小白”教育思考"
 description: "**[软件安装逻辑的分层已成为普通用户的认知障碍]** - 区分终端命令输入、Bot 输入提示、本地环境设置成为 AI 使用的门槛。 - 建议普及 AI 使用和安装入门课，帮助普通人分清交互层级。 - 文科生及非技术背景人群在部署私有化 AI 工具时面临巨大挑战。  Pi 的锐评：OpenClaw 不只是个工具，它是块试金石。搞得清楚 CLI 和 Web UI 区别的人，才拿到了 AI 时代的入场"
 resource: "https://x.com/i/status/2019234405987102872"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2019234405987102872"
-created: "2026-02-05"
-updated: "2026-06-26"
-sha256: "0776f332c4064a2e2d9cc3ddbcc00bbee9b40b59421d9aabd7a5f6503b4f9191"
-sources:
-  - "/sources/news/2026-02-06/00__mranti__ai-扫盲课迫在眉睫-openclaw-引发的-小白-教育思考.md"
 ---
 
 # AI 扫盲课迫在眉睫：OpenClaw 引发的“小白”教育思考

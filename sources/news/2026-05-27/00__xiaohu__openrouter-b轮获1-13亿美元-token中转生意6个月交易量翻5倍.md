@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "OpenRouter B轮获1.13亿美元：Token中转生意6个月交易量翻5倍"
 description: "**OpenRouter完成1.13亿美元B轮融资，Token专卖模式被验证为大体量生意。**  关键数据：过去6个月周交易量从5T Tokens增长到25T Tokens，5倍增长在6个月内完成，说明市场对「模型路由+中转」的需求在加速爆发。  信息增量：这印证了一个结构性趋势——当各家LLM API形成碎片化竞争格局时，中间层（路由、聚合、计费）的价值反而最稳定。OpenRouter的本质是「"
 resource: "https://x.com/i/status/2059702421346210197"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2059702421346210197"
-created: "2026-05-27"
-updated: "2026-06-26"
-sha256: "9c72e188a0c7a34468de1e011e33f3447e4311c7ba05c64aaa50baca893de3be"
-sources:
-  - "/sources/news/2026-05-27/00__xiaohu__openrouter-b轮获1-13亿美元-token中转生意6个月交易量翻5倍.md"
 ---
 
 # OpenRouter B轮获1.13亿美元：Token中转生意6个月交易量翻5倍

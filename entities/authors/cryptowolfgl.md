@@ -1,23 +1,17 @@
 ---
-type: "entity"
+type: "Author"
 title: "Crypto Wolf (@CryptoWolfGL)"
 description: "X/Twitter 作者 @CryptoWolfGL。共收录 1 条 AI 精选推文。"
 tags:
   - "x-news"
   - "author"
   - "author:CryptoWolfGL"
-timestamp: "2026-06-26T11:53:36.964Z"
+timestamp: "2026-06-27T08:40:40.174Z"
 x_handle: "CryptoWolfGL"
 x_author_name: "Crypto Wolf"
 x_tweet_count: 1
 x_first_seen: "2026-03-22T00:43:21.215Z"
 x_last_seen: "2026-03-22T00:43:21.215Z"
-type_okf: "Author"
-created: "2026-03-22"
-updated: "2026-06-26"
-sha256: "63803ac23f666a7895356d9b81b79090909895c25bae6f2c1e3f124416bed3b7"
-sources:
-  - "/sources/highlights/2026-03-22/00__CryptoWolfGL__bybit-ai-skills落地-250-api自然语言化-交易所agent化首枪打响.md"
 ---
 
 # Crypto Wolf (@CryptoWolfGL)

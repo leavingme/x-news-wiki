@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Codex 新手必装 6 个 Skills 实战集：勾勒出 Agent 时代的「最小操作指令集」"
 description: "**6 个 Skills 暴露了 Codex 生态正在收敛成一个「分层指令系统」。**  - Using-Superpowers：Skill 调度器，解决「不知道该用哪个」的入口问题 - Brainstorming：需求理清前置，避免一上来就盲目执行 - obsidian-skills：让 Codex 适配个人 Markdown 知识库 - skill-creator：沉淀私有技能，保证生态可扩展"
 resource: "https://x.com/i/status/2063581947297992959"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2063581947297992959"
-created: "2026-06-07"
-updated: "2026-06-26"
-sha256: "8ab7519eaf8f48998a291a60d8b6183360013bc2b797d17fec3ac827ea61f240"
-sources:
-  - "/sources/news/2026-06-24/00__huijiu68__codex-新手必装-6-个-skills-实战集-勾勒出-agent-时代的-最小操作指令集.md"
 ---
 
 # Codex 新手必装 6 个 Skills 实战集：勾勒出 Agent 时代的「最小操作指令集」

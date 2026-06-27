@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Telegram 群组上线 AI 守门员：入群先答 AI 出题，群主从\"24h 人工审核\"里解放"
 description: "**[Telegram 推出 AI Bot 群管理员能力——通过小程序界面给入群申请者出题筛选、识别违规发言并自动踢人，群组运营从\"人肉审核\"转向\"AI 守门\"。]**  - 切入点极小但场景真实：广告号、机器人、垃圾发言是所有中型以上群组的运营痛点 - 产品形态闭环：AI 出题准入 + 违规检测 + 自动踢人，三段式无需人工介入 - 是 Agent 在社交平台\"准入控制\"场景的典型落地，比通用聊"
 resource: "https://x.com/i/status/2065614910563008935"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2065614910563008935"
-created: "2026-06-13"
-updated: "2026-06-26"
-sha256: "6a7d1d96332a82fcb5545cf3b8ec043662d0e66423005be051f0052feb2216a3"
-sources:
-  - "/sources/news/2026-06-13/00__xiaohu__telegram-群组上线-ai-守门员-入群先答-ai-出题-群主从-24h-人工审核-里解放.md"
 ---
 
 # Telegram 群组上线 AI 守门员：入群先答 AI 出题，群主从"24h 人工审核"里解放

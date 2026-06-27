@@ -1,29 +1,22 @@
 ---
-type: "concept"
-title: "ai-content-authenticity"
-description: "跨日主题 \"ai-content-authenticity\"，共 5 条相关精选推文。"
+type: "Concept"
+title: "AI 内容真实性"
+description: "跨日主题 \"AI 内容真实性\" (ai-content-authenticity)，共 5 条相关精选推文。"
 tags:
   - "x-news"
   - "concept"
   - "topic:ai-content-authenticity"
-timestamp: "2026-06-26T11:53:37.017Z"
+timestamp: "2026-06-27T08:40:42.858Z"
 x_topic_slug: "ai-content-authenticity"
 x_tweet_count: 5
 x_first_seen: "2026-04-29T16:19:06.070Z"
 x_last_seen: "2026-06-16T16:19:57.981Z"
-type_okf: "Concept"
-created: "2026-04-29"
-updated: "2026-06-26"
-sha256: "5230d5dfa25b8bbed4522ab63362e2be01cd0dbaf346502d10cee77134feac38"
-sources:
-  - "/sources/news/2026-04-29/00__op7418__歸藏表态-ai-写文-观点归我-内容创作的-ai-共识正在从焦虑转向务实.md"
-  - "/sources/news/2026-04-30/00__oran_ge__colaos-开启-社交数据自动收割-x-上提到它的帖子都会被官网收录.md"
-  - "/sources/news/2026-05-01/00__Zesee__gpt-image-2-三场景碾压-nano-banana-2-ai-图像生成的差距不在速度-在多模态理解深度.md"
-  - "/sources/news/2026-06-13/00__oran_ge__orange-ai开源-人味儿写作心法-skill-fable-5改三遍稿仍缺-存在感-skill化求解.md"
-  - "/sources/news/2026-06-16/00__yetone__yetone-泼冷水-所谓-反-ai-slop-是工程师和设计师的一厢情愿.md"
+x_cn_title_source: "dict"
 ---
 
-# 主题: ai-content-authenticity
+# 主题: AI 内容真实性
+
+> slug: `ai-content-authenticity`
 
 本主题下共 **5** 条精选推文。
 

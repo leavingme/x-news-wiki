@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Nano Banana 2 图像生成惊人记忆力：未提型号精准复现 HM 人体工学椅"
 description: "**[模型内在世界知识]** - 用户测试 Banana 2 模型时，仅输入“hm 椅子”，未提供具体型号。 - 模型生成的图像与真实产品几乎完全一致。 - 展现了新一代生成模型对物理世界物品的深刻记忆与还原能力。  [gakki 锐评]：模型不仅记住了像素，还“理解”了品牌旗舰产品的潜台词。这种内化知识是下一步具身智能的视觉基础。"
 resource: "https://x.com/i/status/2027029109050847684"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2027029109050847684"
-created: "2026-02-26"
-updated: "2026-06-26"
-sha256: "69e969ee602958d3268bdeaa9ff373d077eb7bc29d94ac56e01ccc9e1adf7a2d"
-sources:
-  - "/sources/news/2026-02-27/00__oran_ge__nano-banana-2-图像生成惊人记忆力-未提型号精准复现-hm-人体工学椅.md"
 ---
 
 # Nano Banana 2 图像生成惊人记忆力：未提型号精准复现 HM 人体工学椅

@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "2GW算力校园变电站按时通电：AI基建竞赛从PPT进入物理交付期"
 description: "**当所有人盯着模型参数，真正的瓶颈在电网——IREN证明了物理层基建的工业交付力。**  - Sweetwater 1变电站按时通电，这是2GW级算力校园的核心节点，意味着大规模AI训练的电力基础设施进入可运行状态。 - 垂直整合开发模式（自建设计+供应链管理）被官方确认为按时交付的关键因素。 - 在算力需求指数级增长的背景下，谁先完成电力-算力闭环，谁就拥有下一轮竞赛的定价权。  gakki锐"
 resource: "https://x.com/IREN_Ltd/status/2050318504168198319"
@@ -22,13 +22,6 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "ai-energy-infrastructure"
 x_source: "ai-trend-digest"
-type_okf: "X Tweet"
-source_url: "https://x.com/IREN_Ltd/status/2050318504168198319"
-created: "2026-05-01"
-updated: "2026-06-26"
-sha256: "81518a1efd1b24eaeba05599199f8c3da7ec9e519e3b16911942f394b2ffd0b5"
-sources:
-  - "/sources/news/2026-05-01/00__IREN_Ltd__2gw算力校园变电站按时通电-ai基建竞赛从ppt进入物理交付期.md"
 ---
 
 # 2GW算力校园变电站按时通电：AI基建竞赛从PPT进入物理交付期

@@ -1,23 +1,17 @@
 ---
-type: "entity"
+type: "Author"
 title: "王百亿 (@wbybtc)"
 description: "X/Twitter 作者 @wbybtc。共收录 1 条 AI 精选推文。"
 tags:
   - "x-news"
   - "author"
   - "author:wbybtc"
-timestamp: "2026-06-26T11:53:36.913Z"
+timestamp: "2026-06-27T08:40:40.120Z"
 x_handle: "wbybtc"
 x_author_name: "王百亿"
 x_tweet_count: 1
 x_first_seen: "2026-02-01T08:53:39.403Z"
 x_last_seen: "2026-02-01T08:53:39.403Z"
-type_okf: "Author"
-created: "2026-02-01"
-updated: "2026-06-26"
-sha256: "4110c9698d9d3bdb3b4f56b9762786efbe9d452835ec8cd669660a3056ecff5e"
-sources:
-  - "/sources/news/2026-02-01/00__wbybtc__用户实测-openclaw-在-mac-mini-上培养-另一个自己.md"
 ---
 
 # 王百亿 (@wbybtc)

@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Confucius4-TTS：3秒克隆+14语言+情感保留，语音合成进入\"去参考文本\"时代"
 description: "**[语音克隆的步骤压缩战争：少一步就是护城河]**  Confucius4-TTS实现3秒克隆、覆盖14种语言，且只需音频即可完成音色+情感的整体迁移，无需像CosyVoice或F5-TTS那样额外提供参考文本。这一步之差在实际部署中意义重大——\"不需要参考文本\"意味着可以从任意语音片段（比如短视频、语音消息）直接反推声纹特征，大幅降低内容创作的门槛。  · 相比竞品省去文本标注环节，端到端闭环"
 resource: "https://x.com/i/status/2057711896158150978"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2057711896158150978"
-created: "2026-05-22"
-updated: "2026-06-26"
-sha256: "0a9551c85b89131c1d314bb6d5a292dd4e909129671b10226fa0f229edc001cf"
-sources:
-  - "/sources/news/2026-05-22/00__xiaohu__confucius4-tts-3秒克隆-14语言-情感保留-语音合成进入-去参考文本-时代.md"
 ---
 
 # Confucius4-TTS：3秒克隆+14语言+情感保留，语音合成进入"去参考文本"时代

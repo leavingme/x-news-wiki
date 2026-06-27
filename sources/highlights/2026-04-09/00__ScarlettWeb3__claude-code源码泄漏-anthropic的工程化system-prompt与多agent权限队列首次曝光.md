@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Claude Code源码泄漏：Anthropic的工程化System Prompt与多Agent权限队列首次曝光"
 description: "**[Claude Code逆向工程揭示的生产级设计]**  Anthropic的System Prompt采用工程化约束而非模糊原则：工具约束精确到\"读文件必须用FileReadTool\"、风险控制要求\"删除数据前必须二次确认\"、输出规范强制\"先给结论再解释\"。这套体系让AI行为真正可预测、可控、可上线。  多Agent编排采用三层架构：Coordinator Mode主Agent分配任务并行给"
 resource: "https://x.com/i/status/2038940065523552263"
@@ -22,13 +22,6 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "claude-code-leaked-architecture"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2038940065523552263"
-created: "2026-03-31"
-updated: "2026-06-26"
-sha256: "0365fda0b8a0ad8c9a0314addd9cf28acdbb66718057a07f1732c5601cdbe978"
-sources:
-  - "/sources/highlights/2026-04-09/00__ScarlettWeb3__claude-code源码泄漏-anthropic的工程化system-prompt与多agent权限队列首次曝光.md"
 ---
 
 # Claude Code源码泄漏：Anthropic的工程化System Prompt与多Agent权限队列首次曝光

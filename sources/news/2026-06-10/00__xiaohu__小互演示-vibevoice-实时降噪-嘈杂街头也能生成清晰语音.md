@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "小互演示 VibeVoice 实时降噪：嘈杂街头也能生成清晰语音"
 description: "**[AI 语音前端处理迈入实时降噪实用阶段]**  - 演示场景从办公室延伸到街头、餐厅、机场候机厅，模型主动滤除环境噪声和音乐再生成清晰语音 - 重点不是 ASR 识别率，而是「主动降噪 + 语音生成」链路——面向实时翻译/TTS 的前端处理范式 - 配合官方演示案例（ID 2064626911620612346），覆盖真实嘈杂环境标志着语音 Agent 走出录音棚，进入野外可部署阶段   *"
 resource: "https://x.com/i/status/2064626909460537389"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2064626909460537389"
-created: "2026-06-10"
-updated: "2026-06-26"
-sha256: "80a788731918381782e5dbcc2197028f8ce3f82b8970496a970b31130c587781"
-sources:
-  - "/sources/news/2026-06-10/00__xiaohu__小互演示-vibevoice-实时降噪-嘈杂街头也能生成清晰语音.md"
 ---
 
 # 小互演示 VibeVoice 实时降噪：嘈杂街头也能生成清晰语音

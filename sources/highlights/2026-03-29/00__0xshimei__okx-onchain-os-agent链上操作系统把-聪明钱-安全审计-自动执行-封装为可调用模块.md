@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "OKX Onchain OS：Agent链上操作系统把「聪明钱+安全审计+自动执行」封装为可调用模块"
 description: "**[AI Agent 首次获得链上原生操作系统的完整能力闭环]** • 四阶管道设计：Signal侦察 → Trenches新盘侦查 → 五层Security预检 → 策略执行，将链上决策流程工程化 • 安全模块前置化：蜜罐识别、税率验证、Owner权限、黑名单扫描、流动性锁仓，把风险拦截在执行前而非事后 • 意义：Agent从「信息爬虫」升级为「可执行交易员」，Crypto Agent基础设施"
 resource: "https://x.com/i/status/2035371940991652099"
@@ -22,13 +22,6 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "ai-crypto-agent-infra"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2035371940991652099"
-created: "2026-03-21"
-updated: "2026-06-26"
-sha256: "854a6127191006346d1d99da3ade77c2d0ad86d3ef740c394394319fd9be2b46"
-sources:
-  - "/sources/highlights/2026-03-29/00__0xshimei__okx-onchain-os-agent链上操作系统把-聪明钱-安全审计-自动执行-封装为可调用模块.md"
 ---
 
 # OKX Onchain OS：Agent链上操作系统把「聪明钱+安全审计+自动执行」封装为可调用模块

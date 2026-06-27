@@ -1,23 +1,17 @@
 ---
-type: "entity"
+type: "Author"
 title: "Frey轰轰 (@HiFrey)"
 description: "X/Twitter 作者 @HiFrey。共收录 1 条 AI 精选推文。"
 tags:
   - "x-news"
   - "author"
   - "author:HiFrey"
-timestamp: "2026-06-26T11:53:36.936Z"
+timestamp: "2026-06-27T08:40:40.143Z"
 x_handle: "HiFrey"
 x_author_name: "Frey轰轰"
 x_tweet_count: 1
 x_first_seen: "2026-02-15T13:00:42.946Z"
 x_last_seen: "2026-02-15T13:00:42.946Z"
-type_okf: "Author"
-created: "2026-02-15"
-updated: "2026-06-26"
-sha256: "7722dd854c1cbaf72a76193219803d3cdc4cefea0a62a7427ec653ff37c4f028"
-sources:
-  - "/sources/news/2026-02-15/00__HiFrey__实战反馈-为什么-claude-20-刀会员是目前正反馈最快的投资.md"
 ---
 
 # Frey轰轰 (@HiFrey)

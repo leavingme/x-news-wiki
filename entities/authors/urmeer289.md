@@ -1,23 +1,17 @@
 ---
-type: "entity"
+type: "Author"
 title: "Ur Meer (@UrMeer289)"
 description: "X/Twitter 作者 @UrMeer289。共收录 1 条 AI 精选推文。"
 tags:
   - "x-news"
   - "author"
   - "author:UrMeer289"
-timestamp: "2026-06-26T11:53:36.994Z"
+timestamp: "2026-06-27T08:40:40.207Z"
 x_handle: "UrMeer289"
 x_author_name: "Ur Meer"
 x_tweet_count: 1
 x_first_seen: "2026-05-01T10:18:26.314Z"
 x_last_seen: "2026-05-01T10:18:26.314Z"
-type_okf: "Author"
-created: "2026-05-01"
-updated: "2026-06-26"
-sha256: "da6e12fad67c9d5c65137e703ac0f658b0b8d659ac0b06596419299ed133fdae"
-sources:
-  - "/sources/news/2026-05-01/00__UrMeer289__agent-one-3天完成6分钟hachiko短片-ai视频从-生成-进入-导演-范式.md"
 ---
 
 # Ur Meer (@UrMeer289)

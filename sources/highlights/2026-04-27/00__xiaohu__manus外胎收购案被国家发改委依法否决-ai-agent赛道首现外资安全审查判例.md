@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Manus外胎收购案被国家发改委依法否决：AI Agent赛道首现外资安全审查判例"
 description: "**[国家发改委首次直接否决AI Agent并购案]  • 外商投资安全审查工作机制办公室（发改委）正式对外资收购Manus AI项目作出禁止决定，要求撤销交易——这是AI Agent领域首例被明确援引安全审查机制否决的并购案 • Manus定位为AI Agent产品，其数据处理能力、用户行为捕获范围首次被纳入「外商投资安全审查」的射程，AI Agent的系统性风险正式进入监管视野 • 与此前模糊"
 resource: "https://x.com/i/status/2048676596908007738"
@@ -22,13 +22,6 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "ai-safety-and-governance"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2048676596908007738"
-created: "2026-04-27"
-updated: "2026-06-26"
-sha256: "4de69900098af4de4db42e09c8a497b0ced967596cb2a7e0c7043f0e3d272138"
-sources:
-  - "/sources/highlights/2026-04-27/00__xiaohu__manus外胎收购案被国家发改委依法否决-ai-agent赛道首现外资安全审查判例.md"
 ---
 
 # Manus外胎收购案被国家发改委依法否决：AI Agent赛道首现外资安全审查判例

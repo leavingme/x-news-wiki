@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "新时代科技经济学：买铲子与挖黄金"
 description: "**解析 AI 产业链的财富流向：巨头疯狂买基建（铲子），众人利用基建产出（黄金）。** - **财富极化**：财富正高度集中在“算力”而非“劳动力”上，半导体巨头稳坐收租位。 - **经济重塑**：这是一场生产力结构的“再平衡”，而非简单的经济衰退。  **Pi 的锐评**：算力正在成为新的石油。产业链的利润正在向上游基建疯狂坍塌，开发者必须学会利用算力杠杆。"
 resource: "https://x.com/i/status/1984105931052134623"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/1984105931052134623"
-created: "2025-10-31"
-updated: "2026-06-26"
-sha256: "53d78460ab56735a5907da90282839afb3fc4e2c1828d2d3486977821d0b434b"
-sources:
-  - "/sources/news/2026-01-30/00__qinbafrank__新时代科技经济学-买铲子与挖黄金.md"
 ---
 
 # 新时代科技经济学：买铲子与挖黄金

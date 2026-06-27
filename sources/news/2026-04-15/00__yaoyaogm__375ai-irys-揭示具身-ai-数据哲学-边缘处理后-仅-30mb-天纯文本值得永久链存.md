@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "375ai × IRYS 揭示具身 AI 数据哲学：边缘处理后，仅 30MB/天纯文本值得永久链存"
 description: "**[具身 AI 的数据经济学的核心问题不是\"存什么\"，而是\"什么值得存\"]**  375ai 展示了自动驾驶场景的真实数据流：每天数 TB 原始视频 → 边缘 AI 压缩为 30MB 纯文本元数据。这个比例（数 TB → 30MB）揭示了一个关键洞察：真正有预测价值的不是视频，而是结构化语义。  链上永久存储的边界由此清晰： - 车牌、行人数量、车辆特征 → 值得存，有时间复利 - 原始视频 →"
 resource: "https://x.com/i/status/1976640512565055991"
@@ -22,13 +22,6 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "ai-data-blockchain-verification"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/1976640512565055991"
-created: "2025-10-10"
-updated: "2026-06-26"
-sha256: "03cca4f03a81b54ec95b8dbc06d0d687b74c0b1b2c4f0adfc3181493a908d04a"
-sources:
-  - "/sources/news/2026-04-15/00__yaoyaogm__375ai-irys-揭示具身-ai-数据哲学-边缘处理后-仅-30mb-天纯文本值得永久链存.md"
 ---
 
 # 375ai × IRYS 揭示具身 AI 数据哲学：边缘处理后，仅 30MB/天纯文本值得永久链存

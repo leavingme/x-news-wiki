@@ -1,23 +1,17 @@
 ---
-type: "entity"
+type: "Author"
 title: "JIN LIU:Pushing Bitcoin to be quantum-safe,or be 0 (@r8raq)"
 description: "X/Twitter 作者 @r8raq。共收录 1 条 AI 精选推文。"
 tags:
   - "x-news"
   - "author"
   - "author:r8raq"
-timestamp: "2026-06-26T11:53:36.987Z"
+timestamp: "2026-06-27T08:40:40.198Z"
 x_handle: "r8raq"
 x_author_name: "JIN LIU:Pushing Bitcoin to be quantum-safe,or be 0"
 x_tweet_count: 1
 x_first_seen: "2026-04-16T00:43:36.716Z"
 x_last_seen: "2026-04-16T00:43:36.716Z"
-type_okf: "Author"
-created: "2026-04-16"
-updated: "2026-06-26"
-sha256: "750b4392aa7b5b9b633be8ca3e0ccbbebdc562dc55551f33f6b0cbae685174c5"
-sources:
-  - "/sources/news/2026-04-16/00__r8raq__孙哥押注抗量子签名-nist标准方案跑不了高并发ai-agent支付-波场想弯道超车有个硬前提.md"
 ---
 
 # JIN LIU:Pushing Bitcoin to be quantum-safe,or be 0 (@r8raq)

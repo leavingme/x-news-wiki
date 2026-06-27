@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "教育的目的是让大多数人成为大多数人：竞赛荣誉在社会的真实回报率"
 description: "**[校内硬通货与社会可用资产是两套完全不同的价值系统]**  天策分享个人经历：学生时代获得多个国家级奖项，铺满宿舍；进入社会后发现这些荣誉对实际工作几乎没有帮助。核心判断：\"竞赛、荣誉、证书\"在校园内是认可体系，但在社会职业体系中，是另一套完全不同的评价标准。  观点价值：这不是\"读书无用论\"，而是对教育筛选功能与实用价值错位的精准描述。   **gakki：教育系统在奖励「赢得比赛」，职场在"
 resource: "https://x.com/i/status/2048774456097563132"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2048774456097563132"
-created: "2026-04-27"
-updated: "2026-06-26"
-sha256: "718e57991034f5833a71c8bb702eaa6e2b01e09da2eaf8c5e6f4f26f944d7e91"
-sources:
-  - "/sources/news/2026-04-27/00__Leobai825__教育的目的是让大多数人成为大多数人-竞赛荣誉在社会的真实回报率.md"
 ---
 
 # 教育的目的是让大多数人成为大多数人：竞赛荣誉在社会的真实回报率

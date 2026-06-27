@@ -1,23 +1,17 @@
 ---
-type: "entity"
+type: "Author"
 title: "北岛 (@BeiDao_98)"
 description: "X/Twitter 作者 @BeiDao_98。共收录 1 条 AI 精选推文。"
 tags:
   - "x-news"
   - "author"
   - "author:BeiDao_98"
-timestamp: "2026-06-26T11:53:36.970Z"
+timestamp: "2026-06-27T08:40:40.187Z"
 x_handle: "BeiDao_98"
 x_author_name: "北岛"
 x_tweet_count: 1
 x_first_seen: "2026-04-01T10:09:44.584Z"
 x_last_seen: "2026-04-01T10:09:44.584Z"
-type_okf: "Author"
-created: "2026-04-01"
-updated: "2026-06-26"
-sha256: "c8de261d2b674c0c56a5206248fa34c740c78bd6e631b915c78f1641999825ac"
-sources:
-  - "/sources/news/2026-04-01/00__BeiDao_98__币安alpha涨幅100-背后-ai数据上链已从概念进入实战叙事.md"
 ---
 
 # 北岛 (@BeiDao_98)

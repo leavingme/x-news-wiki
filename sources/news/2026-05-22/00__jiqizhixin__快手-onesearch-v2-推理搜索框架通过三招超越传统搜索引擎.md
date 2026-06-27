@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "快手 OneSearch-V2：推理搜索框架通过三招超越传统搜索引擎"
 description: "**[一句话核心判断]**  快手发布 OneSearch-V2 生成式搜索框架，其核心在于将推理能力嵌入搜索环节，而非仅做关键词匹配。  **信息增量：** - 引入\"思维步骤\"（thought step）深度解码复杂查询 - 自蒸馏机制学习用户点击背后的隐藏购物意图 - 对齐系统防止单一指标被刷，保留个人口味  **影响分析：** 快手这套框架的真正价值在于第三点——破解了搜索排序被 SEO "
 resource: "https://x.com/i/status/2057709795612803286"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2057709795612803286"
-created: "2026-05-22"
-updated: "2026-06-26"
-sha256: "64f216bdad49747d7c651ab27d598545675ac7ba3abbd64e21bec4a9d330306d"
-sources:
-  - "/sources/news/2026-05-22/00__jiqizhixin__快手-onesearch-v2-推理搜索框架通过三招超越传统搜索引擎.md"
 ---
 
 # 快手 OneSearch-V2：推理搜索框架通过三招超越传统搜索引擎

@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "AI正在放大\"老兵\"的商业直觉：传统行业千万级创业者跨界学习的警示"
 description: "**[AI时代真正的被放大者，是那些已在传统行业验证过商业认知的人]**  留学行业千万级创业者跨界AI的案例正在说明一个被低估的趋势：AI降低的是技术门槛，而不是商业门槛。这个姐姐从\"零AI基础\"到\"天天研究agent、工作流、vibe coding\"，靠的不是技术积累，而是对用户需求和赚钱路径的直觉判断。  这批人的优势在于：他们知道客户为什么付钱、什么需求是伪需求、如何从0做到现金流稳定——"
 resource: "https://x.com/i/status/2057151553598104041"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2057151553598104041"
-created: "2026-05-20"
-updated: "2026-06-26"
-sha256: "4da6873bb183eb5f07f4232934883b396152e6e710f1c0145aee52ed75b125f7"
-sources:
-  - "/sources/news/2026-05-20/00__Zesee__ai正在放大-老兵-的商业直觉-传统行业千万级创业者跨界学习的警示.md"
 ---
 
 # AI正在放大"老兵"的商业直觉：传统行业千万级创业者跨界学习的警示

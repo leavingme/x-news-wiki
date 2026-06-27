@@ -1,23 +1,17 @@
 ---
-type: "entity"
+type: "Author"
 title: "北讲区块链 (@NFTfafafa)"
 description: "X/Twitter 作者 @NFTfafafa。共收录 1 条 AI 精选推文。"
 tags:
   - "x-news"
   - "author"
   - "author:NFTfafafa"
-timestamp: "2026-06-26T11:53:36.973Z"
+timestamp: "2026-06-27T08:40:40.190Z"
 x_handle: "NFTfafafa"
 x_author_name: "北讲区块链"
 x_tweet_count: 1
 x_first_seen: "2026-04-06T00:42:54.801Z"
 x_last_seen: "2026-04-06T00:42:54.801Z"
-type_okf: "Author"
-created: "2026-04-06"
-updated: "2026-06-26"
-sha256: "eba18feda64b2bc250546979dc3af0e12857f2124cbe1477bc2a43b3c046e233"
-sources:
-  - "/sources/news/2026-04-06/00__NFTfafafa__x402支付协议超前却尴尬-没有商品-哪来支付.md"
 ---
 
 # 北讲区块链 (@NFTfafafa)

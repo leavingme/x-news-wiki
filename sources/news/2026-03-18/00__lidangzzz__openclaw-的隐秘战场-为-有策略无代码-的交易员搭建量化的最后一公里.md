@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "OpenClaw 的隐秘战场：为「有策略无代码」的交易员搭建量化的最后一公里"
 description: "**[AI 正在吞噬量化交易的技能门槛]** • 目标用户画像：有交易策略认知、无编程背景、尝试过 Claude Code 但「不太会用」 • OpenClaw 的价值主张：将 Agent 工具链封装为「意图即代码」的交互层，绕过传统学习曲线 • 对比 Claude Code 的门槛，OpenClaw 的编排层更适合非技术用户的认知模式  这不是工具竞争，是用户触达策略的分野——谁能先把「有洞察无"
 resource: "https://x.com/i/status/2025978930868482458"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "bookmark"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2025978930868482458"
-created: "2026-02-23"
-updated: "2026-06-26"
-sha256: "dd2fe950b7f3d64c3f6c9e40d29edae93106fe621dac072380d43236d573766e"
-sources:
-  - "/sources/news/2026-03-18/00__lidangzzz__openclaw-的隐秘战场-为-有策略无代码-的交易员搭建量化的最后一公里.md"
 ---
 
 # OpenClaw 的隐秘战场：为「有策略无代码」的交易员搭建量化的最后一公里

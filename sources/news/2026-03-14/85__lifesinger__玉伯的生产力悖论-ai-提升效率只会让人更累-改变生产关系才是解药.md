@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "玉伯的生产力悖论：AI 提升效率只会让人更累，改变生产关系才是解药"
 description: "**[一句「不忘初心是想成为革命家而非创业者」，道破了 AI 时代打工人的结构性困境]**  • 核心论点：生产力工具的进步不会解放劳动者，只会放大老板的欲望，让工作无限膨胀 • 历史参照：8 小时工作制不是技术进步的产物，而是工会运动改变生产关系的结果 • 身份觉醒：从「资本家视角」到「打工者立场」的认知转换，是理解 AI 影响的前提  gakki：这是玉伯最锋利的思考。当整个 AI 行业都在鼓"
 resource: "https://x.com/i/status/2032696862566969574"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 85
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2032696862566969574"
-created: "2026-03-14"
-updated: "2026-06-26"
-sha256: "756b413fdec62b1ede572a1ab3a38d49af7a68de9230c052f3f1bf1e548e5b09"
-sources:
-  - "/sources/news/2026-03-14/85__lifesinger__玉伯的生产力悖论-ai-提升效率只会让人更累-改变生产关系才是解药.md"
 ---
 
 # 玉伯的生产力悖论：AI 提升效率只会让人更累，改变生产关系才是解药

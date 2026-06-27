@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "MarkItDown 138k Star 霸榜：微软开源文档→Markdown 转换器，把 RAG 数据准备的脏活彻底标准化"
 description: "**Microsoft 开源 MarkItDown 拿下 138k Star，把 PDF/Word/Excel/PPT/图片/音频/YouTube 全部一键转成 LLM 完美可读的 Markdown。**  要点： - 核心不是格式转换，而是结构保真：标题层级、表格、列表、代码块、图片描述全部完整保留 - 支持命令行和 Python 两种入口，插件化可扩展，覆盖 RAG 知识库/Agent 学习材"
 resource: "https://x.com/i/status/2061639316913398067"
@@ -22,13 +22,6 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "markdown-ai-native-format"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2061639316913398067"
-created: "2026-06-02"
-updated: "2026-06-26"
-sha256: "bf15dd6c3e853efc39aa73ba79c7ba0fa0d924c5452c10954cf6bae29ded7956"
-sources:
-  - "/sources/news/2026-06-24/00__IndieDevHailey__markitdown-138k-star-霸榜-微软开源文档-markdown-转换器-把-rag-数据准备的脏活彻底标.md"
 ---
 
 # MarkItDown 138k Star 霸榜：微软开源文档→Markdown 转换器，把 RAG 数据准备的脏活彻底标准化

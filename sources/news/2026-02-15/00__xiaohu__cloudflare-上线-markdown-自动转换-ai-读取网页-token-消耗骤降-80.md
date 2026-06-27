@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Cloudflare 上线 Markdown 自动转换：AI 读取网页 Token 消耗骤降 80%"
 description: "[核心逻辑] 在 CDN 网络层直接将 HTML 转为 Markdown，优化 AI Agent 的“阅读”效率。 · 通过请求头 Accept: text/markdown 即可触发边缘服务器转换。 · 实测一篇博文从 16180 Token 缩减至 3150 Token。  [Gakki 的锐评]：边缘计算的新高度——不再只是搬运工，而是成了 AI 的“同声传译”。这波是直接砍到了模型服务商的"
 resource: "https://x.com/i/status/2022923226406646248"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2022923226406646248"
-created: "2026-02-15"
-updated: "2026-06-26"
-sha256: "f994cd458eed5af6aa77dfaa5f081ba770bc6043e41712df01ff7e7fe66d7084"
-sources:
-  - "/sources/news/2026-02-15/00__xiaohu__cloudflare-上线-markdown-自动转换-ai-读取网页-token-消耗骤降-80.md"
 ---
 
 # Cloudflare 上线 Markdown 自动转换：AI 读取网页 Token 消耗骤降 80%

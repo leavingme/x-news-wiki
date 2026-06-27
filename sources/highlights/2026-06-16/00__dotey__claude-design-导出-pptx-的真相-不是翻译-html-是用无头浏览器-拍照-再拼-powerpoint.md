@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Claude Design 导出 PPTX 的真相：不是翻译 HTML，是用无头浏览器\"拍照\"再拼 PowerPoint"
 description: "**[一句话核心判断]** Claude Design 的 PPTX 导出走的是\"无头 Chromium 渲染 + PptxGenJS 翻译\"双模式，把\"所见即所得\"真正落到了桌面 Office。  - 截图模式：每页拍成高清图贴进 PPT，完全一致但改不动字 - 可编辑模式：量出每个元素的位置/字体/颜色，翻译成 PowerPoint 的文本框/形状/图片对象——能在 PPT 里继续改，代价是排"
 resource: "https://x.com/i/status/2066743786466689117"
@@ -22,13 +22,6 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "claude-design-tool"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2066743786466689117"
-created: "2026-06-16"
-updated: "2026-06-26"
-sha256: "33a9e133d1cc22a68ec313aa7c73f530842e5d9fd3c3483b79441189b3e99673"
-sources:
-  - "/sources/highlights/2026-06-16/00__dotey__claude-design-导出-pptx-的真相-不是翻译-html-是用无头浏览器-拍照-再拼-powerpoint.md"
 ---
 
 # Claude Design 导出 PPTX 的真相：不是翻译 HTML，是用无头浏览器"拍照"再拼 PowerPoint

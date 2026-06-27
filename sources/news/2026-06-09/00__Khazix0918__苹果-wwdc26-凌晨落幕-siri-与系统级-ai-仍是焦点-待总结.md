@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "苹果 WWDC26 凌晨落幕：Siri 与系统级 AI 仍是焦点（待总结）"
 description: "**[苹果 WWDC26 总结预告，信息增量取决于后续完整总结]**  - 数字生命卡兹克发布\"凌晨 WWDC26 总结\"预告，WWDC 历来是 Apple Intelligence、Siri 升级、系统级 AI 能力扩展的核心发布场。 - 港版 iPhone 用户反馈 iOS27 后 Siri 被降级（见 2064183450845024763），暗示本次更新并未兑现 Siri 全面 AI 化的"
 resource: "https://x.com/i/status/2064215034201559142"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2064215034201559142"
-created: "2026-06-09"
-updated: "2026-06-26"
-sha256: "1f219ef1c0697fac12f63f112220ecef157e5df4ec79d196fa5376d546bc33f2"
-sources:
-  - "/sources/news/2026-06-09/00__Khazix0918__苹果-wwdc26-凌晨落幕-siri-与系统级-ai-仍是焦点-待总结.md"
 ---
 
 # 苹果 WWDC26 凌晨落幕：Siri 与系统级 AI 仍是焦点（待总结）

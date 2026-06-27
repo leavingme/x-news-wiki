@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Notion + Obsidian 搭建 Claude 记忆系统：个人 AI 记忆基建的实用主义路径"
 description: "**个人 AI 记忆系统正在从\"概念讨论\"进入\"工具搭建\"阶段，Notion + Obsidian 组合提供了低成本的工程化路径。**  • 教程展示了用 Notion 和 Obsidian 为 Claude 构建外部记忆系统的完整流程 • 核心思路：将结构化知识存储在 Obsidian（Markdown 原生），用 Notion 做索引和分类管理 • 适合不想折腾数据库、追求\"够用就好\"的个人开"
 resource: "https://x.com/i/status/2049499815344796017"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2049499815344796017"
-created: "2026-04-29"
-updated: "2026-06-26"
-sha256: "d2bafee16a4cea184803a87371c8602171e6314bcb45d6308f9fbe8d6f635fde"
-sources:
-  - "/sources/news/2026-04-29/00__vista8__notion-obsidian-搭建-claude-记忆系统-个人-ai-记忆基建的实用主义路径.md"
 ---
 
 # Notion + Obsidian 搭建 Claude 记忆系统：个人 AI 记忆基建的实用主义路径

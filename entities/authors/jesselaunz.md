@@ -1,23 +1,17 @@
 ---
-type: "entity"
+type: "Author"
 title: "Jesse Lau 遁一子 (@jesselaunz)"
 description: "X/Twitter 作者 @jesselaunz。共收录 1 条 AI 精选推文。"
 tags:
   - "x-news"
   - "author"
   - "author:jesselaunz"
-timestamp: "2026-06-26T11:53:36.944Z"
+timestamp: "2026-06-27T08:40:40.151Z"
 x_handle: "jesselaunz"
 x_author_name: "Jesse Lau 遁一子"
 x_tweet_count: 1
 x_first_seen: "2026-02-21T01:00:40.598Z"
 x_last_seen: "2026-02-21T01:00:40.598Z"
-type_okf: "Author"
-created: "2026-02-21"
-updated: "2026-06-26"
-sha256: "bcdb7b4608ced75ba31c69bb2654e2dad56cebacc9312ead02c833a416faa9f8"
-sources:
-  - "/sources/highlights/2026-02-21/00__jesselaunz__赛博老板模拟器-vending-bench-2-暴露-ai-的-商业智商.md"
 ---
 
 # Jesse Lau 遁一子 (@jesselaunz)

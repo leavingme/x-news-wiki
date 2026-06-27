@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Figure 人形机器人双机协同：2分钟自主完成整房清洁铺床，「具身通用性」跨过实验室门槛"
 description: "**双机器人协同完成真实家务场景，标志着具身AI从单任务演示进入多任务自主执行阶段。**  - 两台 F.03 机器人在 2 分钟内自主完成房间清洁与铺床，全程无人干预 - 关键突破不在于速度，而在于「多任务连续执行」——从收拾到整理到铺床是端到端的规划链 - 这意味着 Figure 的感知-规划-执行闭环已经从「单一抓取」进化到「场景理解」  具身智能的真正商业化拐点不在实验室精度，而在「能连续"
 resource: "https://x.com/Figure_robot/status/2052770982214172892"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
-
 x_source: "ai-trend-digest"
-type_okf: "X Tweet"
-source_url: "https://x.com/Figure_robot/status/2052770982214172892"
-created: "2026-05-08"
-updated: "2026-06-26"
-sha256: "0006433884c3d34584993aa3e9bc78ff85a6709396a099125e01b9748ff97ec5"
-sources:
-  - "/sources/highlights/2026-05-09/00__Figure_robot__figure-人形机器人双机协同-2分钟自主完成整房清洁铺床-具身通用性-跨过实验室门槛.md"
 ---
 
 # Figure 人形机器人双机协同：2分钟自主完成整房清洁铺床，「具身通用性」跨过实验室门槛

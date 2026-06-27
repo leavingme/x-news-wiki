@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "「照顾人 vs 处理事」：未来十年职业护城河的极简判别法"
 description: "**美国就业数据揭示一个残酷分水岭：医疗护理类岗位爆发式增长，零售服务类大幅萎缩。**  • 增长主力：家庭健康护理员、注册护士、软件开发者——均围绕「人的照护」或「高阶认知」 • 衰退重灾区：零售销售员、收银员、服务员、行政文员——标准化「事务处理」环节被技术替代 • 核心判别法：你的工作是在「照顾人」还是「处理事」？前者因老龄化刚需和情感不可替代性获得溢价，后者因流程可复制性被自动化吞噬 • "
 resource: "https://x.com/i/status/2036097599674196308"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2036097599674196308"
-created: "2026-03-23"
-updated: "2026-06-26"
-sha256: "8bbc1f357a8a557fb788eb60d5ae85ea0a127859167572a9f1402993a91ef10e"
-sources:
-  - "/sources/highlights/2026-03-24/00__vista8__照顾人-vs-处理事-未来十年职业护城河的极简判别法.md"
 ---
 
 # 「照顾人 vs 处理事」：未来十年职业护城河的极简判别法

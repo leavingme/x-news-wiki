@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Michael Anti：非美国家的'自研 EV/无人机/AI'实质是中国技术与供应链的套壳——这是做对了"
 description: "**[一个被中文舆论回避的全球科技供应链事实：中国硬件+AI 基座已成默会标准]**  - Michael Anti 直接点破：除美国外，任何国家'本土研发'的 EV、无人机、AI 模型，很大程度上都是中国技术/供应链套壳 - 关键判断：这不是抄袭，是正确的产业路径选择（'做对了'） - 这条推文把'自研叙事'和'供应链现实'的裂缝直接掀开，对全球 AI 算力、硬件、AI 模型三层竞争格局都有解释"
 resource: "https://x.com/i/status/2063807773775941967"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2063807773775941967"
-created: "2026-06-08"
-updated: "2026-06-26"
-sha256: "e730430fb965c1f71ce89b55000abf97550cc690016fe71c6b4312962b4daf3b"
-sources:
-  - "/sources/news/2026-06-08/00__mranti__michael-anti-非美国家的-自研-ev-无人机-ai-实质是中国技术与供应链的套壳-这是做对了.md"
 ---
 
 # Michael Anti：非美国家的'自研 EV/无人机/AI'实质是中国技术与供应链的套壳——这是做对了

@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "文字海报提示词 + Labnana 社区：AI 创意工具的社区化分发"
 description: "**Orange AI 分享文字海报提示词并导流至 Labnana Discord 社区。**  - 提示词资源正在成为 AI 创作者社区的引流钩子，从「给鱼」到「给渔具+建鱼塘」 - Labnana 社区通过 Discord 构建创作者聚集地，代表了一种轻量级 AI 内容社区运营模式 - 这种「提示词即内容、社区即产品」的路径正在成为中文 AI 创作者的标准打法"
 resource: "https://x.com/i/status/2052505670226940116"
@@ -22,13 +22,6 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "skills-ecosystem-gpts-cycle"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2052505670226940116"
-created: "2026-05-07"
-updated: "2026-06-26"
-sha256: "d1cbc6524c1fa1ed37cc80389360da488539d8ec875dcbbe317a3dab50f7ed26"
-sources:
-  - "/sources/news/2026-05-07/00__oran_ge__文字海报提示词-labnana-社区-ai-创意工具的社区化分发.md"
 ---
 
 # 文字海报提示词 + Labnana 社区：AI 创意工具的社区化分发

@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Codex 周末准时重置速率限制：基础设施瓶颈的精准画像"
 description: "**[高频重置节奏揭示的不是漏洞，是 OpenAI 对算力分配的优先级逻辑]**  • 每次周末重置说明平台在高峰期主动限制用量，非技术故障而是主动的容量管理 • 开发者工作节奏与限制窗口高度吻合（工作日高频、周末重置），意味着企业级工作流已被实质性影响 • 折射出一个根本矛盾：开发者对 Codex 的依赖程度已超过平台当前容量的舒适边界  这不只是 API 问题，是依赖关系已经形成的信号。"
 resource: "https://x.com/i/status/2049012665876627564"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2049012665876627564"
-created: "2026-04-28"
-updated: "2026-06-26"
-sha256: "c852142ef4ef44d19547255b7969afdf7424b10734b1e3d50bf0ed1579555fee"
-sources:
-  - "/sources/news/2026-04-28/00__op7418__codex-周末准时重置速率限制-基础设施瓶颈的精准画像.md"
 ---
 
 # Codex 周末准时重置速率限制：基础设施瓶颈的精准画像

@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "玉伯的\"咒语论\"：大知识时代的认知套利方法论"
 description: "**\"咒语\"被重新定义——不是prompt技巧，而是跨学科概念的迁移能力。**  • 杰文斯悖论、愚昧之巅等认知框架成为新的\"杠杆点\"，掌握者获得非对称信息优势 • 持续学习的本质从\"知识积累\"转向\"概念网络接入\"，学习速率成为核心竞争力的代理指标 • 这一认知框架本身，可能是产品经理在AI时代重建专业壁垒的关键路径  ---  **gakki锐评：** 玉伯的洞察精准刺中了AI时代的焦虑本质——"
 resource: "https://x.com/i/status/2036433574250082712"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2036433574250082712"
-created: "2026-03-24"
-updated: "2026-06-26"
-sha256: "c794ee8940fc666f2f2e475edd04d005d882fa906caaa7ebef272749022ca764"
-sources:
-  - "/sources/highlights/2026-03-25/00__lifesinger__玉伯的-咒语论-大知识时代的认知套利方法论.md"
 ---
 
 # 玉伯的"咒语论"：大知识时代的认知套利方法论

@@ -1,24 +1,17 @@
 ---
-type: "entity"
+type: "Author"
 title: "頻率偏移 (@vailisF)"
 description: "X/Twitter 作者 @vailisF。共收录 2 条 AI 精选推文。"
 tags:
   - "x-news"
   - "author"
   - "author:vailisF"
-timestamp: "2026-06-26T11:53:36.981Z"
+timestamp: "2026-06-27T08:40:40.192Z"
 x_handle: "vailisF"
 x_author_name: "頻率偏移"
 x_tweet_count: 2
 x_first_seen: "2026-04-08T05:41:10.422Z"
 x_last_seen: "2026-04-09T00:44:25.061Z"
-type_okf: "Author"
-created: "2026-04-08"
-updated: "2026-06-26"
-sha256: "49a3696a6f50bff2fc756ae34ee83683a2621c74149f994ecc106dbd01313328"
-sources:
-  - "/sources/news/2026-04-08/00__vailisF__openai的-以人为本-是营销工具-下架4o证明安全模型只是商业过渡态.md"
-  - "/sources/news/2026-04-09/00__vailisF__安全路由是算法家长式统治-gpt-4o-曾优雅驾驭人类的复杂性-现在的新技术栈却在对用户说教.md"
 ---
 
 # 頻率偏移 (@vailisF)

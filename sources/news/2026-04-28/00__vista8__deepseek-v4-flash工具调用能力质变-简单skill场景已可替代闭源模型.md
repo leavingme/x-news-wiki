@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "DeepSeek V4 Flash工具调用能力质变：简单Skill场景已可替代闭源模型"
 description: "**[V4 Flash的实用拐点不是R1式的技术震撼，而是『够用』二字]**  向阳乔木实测：下载EPUB→转TXT→上传NotionLM→指定Prompt写解读，全程自动纠错+工具调用。这意味着在简单Skill场景下，DeepSeek V4 Flash的速度优势和工具调用已越过『可用』门槛。V4发布没有R1的轰动效应，但『不震撼却实用』恰恰是大规模落地的最优姿态——开发者不会为情怀买单，只会为省"
 resource: "https://x.com/i/status/2048950182495359392"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2048950182495359392"
-created: "2026-04-28"
-updated: "2026-06-26"
-sha256: "afbdd611005fe53dde266e05327ab4cf6db38104605c1652699c43d7c845acdf"
-sources:
-  - "/sources/news/2026-04-28/00__vista8__deepseek-v4-flash工具调用能力质变-简单skill场景已可替代闭源模型.md"
 ---
 
 # DeepSeek V4 Flash工具调用能力质变：简单Skill场景已可替代闭源模型

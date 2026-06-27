@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Codex+Chrome新Tab插件：番茄钟交互设计背后的「物理专注」哲学"
 description: "**【点击focus图标，物理世界时间也要忘记——极简交互里的认知留白设计】**  向阳乔木和Codex协作开发的Chrome新Tab插件，核心交互：点击focus图标，时间显示变成番茄钟，物理世界的时间也要忘记。侧边栏收纳不高频功能，让首页保持克制。  亮点：这不是一个功能插件，而是一个\"注意力管理\"工具。交互设计背后的逻辑——数字工具的终极价值不是让你用更多功能，而是帮你进入更深的专注状态。"
 resource: "https://x.com/i/status/2059304985368936868"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2059304985368936868"
-created: "2026-05-26"
-updated: "2026-06-26"
-sha256: "3c975dc0a79011b6f894873d621540b596a883c0017dc561f9a299a061820d54"
-sources:
-  - "/sources/news/2026-05-26/00__vista8__codex-chrome新tab插件-番茄钟交互设计背后的-物理专注-哲学.md"
 ---
 
 # Codex+Chrome新Tab插件：番茄钟交互设计背后的「物理专注」哲学

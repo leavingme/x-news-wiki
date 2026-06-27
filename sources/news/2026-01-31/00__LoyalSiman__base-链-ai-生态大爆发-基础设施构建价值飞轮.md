@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Base 链 AI 生态大爆发：基础设施构建价值飞轮"
 description: "[核心逻辑] Base 已成为 AI 智能体的中心，拥有从钱包到社交网络的完整全栈生态。 - 核心组件：Bankr 提供链上钱包执行，Moltbook 打造社交网络，Clanker 负责代币发射。 - 价值闭环：Bankr 与 Clanker 从交易中收取费用回购代币，形成强大的飞轮效应。 - 标准统一：随着 x402 等标准的采用，智能体之间的自主交易与协作将规模化实现。  Pi 的锐评：Bas"
 resource: "https://x.com/i/status/2017500885803286742"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2017500885803286742"
-created: "2026-01-31"
-updated: "2026-06-26"
-sha256: "6ba08460198b6604478a09f68e5086b937d032206b25934e567df4aad82ac114"
-sources:
-  - "/sources/news/2026-01-31/00__LoyalSiman__base-链-ai-生态大爆发-基础设施构建价值飞轮.md"
 ---
 
 # Base 链 AI 生态大爆发：基础设施构建价值飞轮

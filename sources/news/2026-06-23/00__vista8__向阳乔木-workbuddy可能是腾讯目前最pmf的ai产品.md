@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "向阳乔木：WorkBuddy可能是腾讯目前最PMF的AI产品"
 description: "**反共识信号：腾讯ToB AI产品没在大企业烧出PMF，反而在中小企业摸到付费意愿。** - 向阳乔木近期接触多家中小企业，WorkBuddy落地超预期 - 路径选择上避开大企业决策链，押注中小企业即开即用 - 成为腾讯AI商业化首个具备PMF特征的标杆产品   gakki锐评：大企业做Agent常死于合规与定制化，中小企业反而\"先跑起来再说\"。WorkBuddy如果真的跑通，可能改写中国ToB"
 resource: "https://x.com/i/status/2069341905343967472"
@@ -22,13 +22,6 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "enterprise-agent-product"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2069341905343967472"
-created: "2026-06-23"
-updated: "2026-06-26"
-sha256: "9714b483769c6188e0e9343f97a8ad8d2d3cf97abe939d6a50a96c3b4f47ad38"
-sources:
-  - "/sources/news/2026-06-23/00__vista8__向阳乔木-workbuddy可能是腾讯目前最pmf的ai产品.md"
 ---
 
 # 向阳乔木：WorkBuddy可能是腾讯目前最PMF的AI产品

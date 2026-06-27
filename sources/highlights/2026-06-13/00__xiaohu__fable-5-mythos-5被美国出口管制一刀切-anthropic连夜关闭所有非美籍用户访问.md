@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Fable 5/Mythos 5被美国出口管制一刀切：Anthropic连夜关闭所有非美籍用户访问"
 description: "**[美国政府出口管制指令落地，Anthropic被迫暂停所有外国国籍人士对Fable 5与Mythos 5的访问——技术铁幕从芯片层正式升级到模型「使用权」层，全球开发者一夜回到「地理隔离」时代。]**  - 表面理由是「无法可靠验证用户国籍身份」，一刀切规避合规风险，在美非美籍用户同步失去访问 - Mythos 5（网络安全级能力）刚开放即遭此变，最高级别模型反而最快被锁——能力越强，地缘政治"
 resource: "https://x.com/i/status/2065600013087236402"
@@ -22,13 +22,6 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "ai-technology-iron-curtain"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2065600013087236402"
-created: "2026-06-13"
-updated: "2026-06-26"
-sha256: "65900feeccda67411a190303e16093d7ea10a1379dbbe518f0e14033a86e04e2"
-sources:
-  - "/sources/highlights/2026-06-13/00__xiaohu__fable-5-mythos-5被美国出口管制一刀切-anthropic连夜关闭所有非美籍用户访问.md"
 ---
 
 # Fable 5/Mythos 5被美国出口管制一刀切：Anthropic连夜关闭所有非美籍用户访问

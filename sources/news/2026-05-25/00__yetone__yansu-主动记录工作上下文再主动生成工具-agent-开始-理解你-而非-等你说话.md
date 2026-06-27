@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Yansu：主动记录工作上下文再主动生成工具，Agent 开始「理解你」而非「等你说话」"
 description: "**[主动型 Agent 的范式验证：数据主权 + 主动智能双轨并行]**  Yansu 今日 ProductHunt 上线，核心逻辑是\"被动采集 → 理解 → 主动生成\"：后台记录截图/操作/声音，沉淀为结构化知识，再主动生成贴合用户工作流的定制工具（项目追踪、spend 监控、会议 action item 提取等），且有虚拟光标可在后台操作 App/填表单/提工单。  关键信息增量： - 本地"
 resource: "https://x.com/i/status/2058816410063863928"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2058816410063863928"
-created: "2026-05-25"
-updated: "2026-06-26"
-sha256: "eb8b154ee0374a66bdb73e69e3c12c606543aa429fb66290762b5fea89095dbd"
-sources:
-  - "/sources/news/2026-05-25/00__yetone__yansu-主动记录工作上下文再主动生成工具-agent-开始-理解你-而非-等你说话.md"
 ---
 
 # Yansu：主动记录工作上下文再主动生成工具，Agent 开始「理解你」而非「等你说话」

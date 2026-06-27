@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "NVIDIA PiD 像素扩散解码器：4K 图像生成进入亚秒级，单步替代级联超分"
 description: "**[一句话核心判断]** NVIDIA 把\"潜空间→4K 像素\"从级联超分压缩成单步扩散，RTX 5090 消费卡即可 1 秒出图，6 倍提速且画质更好。  **核心要点：** - PiD（Pixel Diffusion Decoder）把解码和上采样合一：512×512 潜变量 → 2048×2048 像素，RTX 5090 上 <1s - 对比传统\"解码+超分\"级联方案，速度 6× 提升，视"
 resource: "https://x.com/i/status/2068976255379325334"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2068976255379325334"
-created: "2026-06-22"
-updated: "2026-06-26"
-sha256: "b792e236b309d8415fa926d7375b54b7479b3742fe92d26d5261129ddaccbb5e"
-sources:
-  - "/sources/news/2026-06-22/00__jiqizhixin__nvidia-pid-像素扩散解码器-4k-图像生成进入亚秒级-单步替代级联超分.md"
 ---
 
 # NVIDIA PiD 像素扩散解码器：4K 图像生成进入亚秒级，单步替代级联超分

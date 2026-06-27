@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "YouMind 早已跑通 Karpathy 的 IPO 知识库框架——玉伯：中国AI产品的「被低估」需要一个翻译过程"
 description: "**[一句话核心判断]**  YouMind 的底层架构 IPO（Input-Process-Output）框架，与 Karpathy 近期分享的纯文本 LLM 知识库思路高度吻合，但 YouMind 更早落地且对非程序员开箱即用。玉伯指出：中国 AI 产品被低估，本质是「缺乏英文话语权的翻译机制」。  **信息增量：** - 首次点名 YouMind 与 Karpathy 思路的关联性，提供了一"
 resource: "https://x.com/i/status/2040579848209363219"
@@ -22,13 +22,6 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "ai-knowledge-tool-competition"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2040579848209363219"
-created: "2026-04-04"
-updated: "2026-06-26"
-sha256: "12af567c3ee7985e8811f17d850c3711e32acc1eeb7a1b6a7e5a3335f4a42684"
-sources:
-  - "/sources/highlights/2026-04-05/00__lifesinger__youmind-早已跑通-karpathy-的-ipo-知识库框架-玉伯-中国ai产品的-被低估-需要一个翻译过程.md"
 ---
 
 # YouMind 早已跑通 Karpathy 的 IPO 知识库框架——玉伯：中国AI产品的「被低估」需要一个翻译过程

@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Claude一次提示词生成可玩3D桌球：3D内容从'开发者专属'下放到普通用户"
 description: "**一句话核心判断**：一句话+网页=可玩的3D桌球游戏，AI 3D民主化从'资产生成'跨入'完整可玩游戏'。  **要点**： - 提示词极简：'设计一个完整的能玩的3D桌球游戏，一个网页就能运行' - 形态：单HTML文件，浏览器直接跑 - 对比：传统Three.js开发要数百行代码 + 物理引擎调参   gakki锐评：之前的'AI 3D民主化'还停留在模型/资产层面，这次直接跨到完整可玩—"
 resource: "https://x.com/i/status/2065079656324407345"
@@ -22,13 +22,6 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "ai-3d-content-democratization"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2065079656324407345"
-created: "2026-06-11"
-updated: "2026-06-26"
-sha256: "355b25f2b3a5409b9ef339f9d11574870c4a7b9de8098ae4002f706ba5596345"
-sources:
-  - "/sources/news/2026-06-11/00__vista8__claude一次提示词生成可玩3d桌球-3d内容从-开发者专属-下放到普通用户.md"
 ---
 
 # Claude一次提示词生成可玩3D桌球：3D内容从'开发者专属'下放到普通用户

@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "技术突破：GenLayer 解决 AI 代理的“主观判断”共识难题"
 description: "**[非确定性共识让区块链学会“像人一样思考”]** - 传统公链无法处理模糊输入，GenLayer 允许节点对主观判断达成共识。 - 通过多个 LLM 共同验证，解决了 AI 代理博弈中的非确定性结果判定。 - 它是 AI 代理实现去中心化大规模协同的关键大脑。  Pi 的锐评：把 LLM 塞进共识机制，相当于给死板的会计（公链）换了个有直觉的大脑。这种“模糊共识”才是 AI+Web3 的硬科技"
 resource: "https://x.com/i/status/2018933175024808433"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2018933175024808433"
-created: "2026-02-04"
-updated: "2026-06-26"
-sha256: "5142135c04f7bb46f1e9d281e2d2f5bab47ceaea7c7a057f81ad9f1ab5a91de4"
-sources:
-  - "/sources/news/2026-02-04/00__3333yyds__技术突破-genlayer-解决-ai-代理的-主观判断-共识难题.md"
 ---
 
 # 技术突破：GenLayer 解决 AI 代理的“主观判断”共识难题

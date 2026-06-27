@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "DeepMind 创始人反直觉论断：AI 越强大，人类越要学编程和数学"
 description: "**[AI 没有降低技术门槛，只是转移了门槛的位置]** • Demis Hassabis 的核心观点：AI 不会自己提出问题，不懂技术的人无法给 AI 下有效指令 • 技术门槛从「会写代码」降至「会提问」——但提问能力恰恰需要技术理解力作为底座 • 未来稀缺资源不是码农，而是「有技术底座的创意精英」  **gakki 锐评：** 「不懂兵法指挥千军万马」的比喻精准——AI 给了你军队，但没给你军"
 resource: "https://x.com/i/status/2029137314341957912"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2029137314341957912"
-created: "2026-03-04"
-updated: "2026-06-26"
-sha256: "0bab9ee3e17efc999c85c44842b3359c3e83c85b8a216d51f5250b2cc5036db3"
-sources:
-  - "/sources/news/2026-03-04/00__mubeitech__deepmind-创始人反直觉论断-ai-越强大-人类越要学编程和数学.md"
 ---
 
 # DeepMind 创始人反直觉论断：AI 越强大，人类越要学编程和数学

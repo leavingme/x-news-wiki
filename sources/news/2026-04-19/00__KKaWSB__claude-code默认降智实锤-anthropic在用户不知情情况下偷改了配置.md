@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Claude Code默认降智实锤：Anthropic在用户不知情情况下偷改了配置"
 description: "**一句话核心判断** Claude Code在3月份静默将默认思考等级从high降到medium——这不是bug，是有意识的商业决策，用户需要用3倍token成本才能恢复\"本来就应该有的体验\"。  **要点** - Anthropic没有公告这个变更，用户是通过对比token消耗才发现了这个\"降级\" - 解决方案是输入/effort high或/effort max，但代价是成倍增加的token"
 resource: "https://x.com/i/status/2043492212730650766"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2043492212730650766"
-created: "2026-04-13"
-updated: "2026-06-26"
-sha256: "cb48077a834e1a39918aaa981e3354cdf6a44ad7a470abdc7887d1e990914d45"
-sources:
-  - "/sources/news/2026-04-19/00__KKaWSB__claude-code默认降智实锤-anthropic在用户不知情情况下偷改了配置.md"
 ---
 
 # Claude Code默认降智实锤：Anthropic在用户不知情情况下偷改了配置

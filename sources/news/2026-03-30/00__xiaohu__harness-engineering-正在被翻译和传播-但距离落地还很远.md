@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Harness Engineering 正在被翻译和传播，但距离落地还很远"
 description: "**「Harness Engineering」作为一个工程概念正在被中文圈密集讨论，但目前传播内容以翻译和介绍为主，缺乏深度的本土化实践。**  这类概念扩散的规律是：早期翻译是必要步骤，但真正的价值在于批判性吸收而非简单搬运。  gakki：「Harness Engineering 的本质是可验证性设计。这个概念能不能落地，取决于团队愿不愿意为『可验证』付出工程代价。」 "
 resource: "https://x.com/i/status/2038498351495438466"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2038498351495438466"
-created: "2026-03-30"
-updated: "2026-06-26"
-sha256: "46567d1f8a420b4bed2ff4067ce18174a8161d7cae017d4a0f6b2481c658e6a0"
-sources:
-  - "/sources/news/2026-03-30/00__xiaohu__harness-engineering-正在被翻译和传播-但距离落地还很远.md"
 ---
 
 # Harness Engineering 正在被翻译和传播，但距离落地还很远

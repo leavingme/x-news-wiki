@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Drizzle ORM 推出 LLM Agent Preview：ORM 层正在成为 Agent 与数据库的中间件"
 description: "**Drizzle v1.0.0-rc.1 的核心信号不是 JIT 性能优化，而是「Drizzle for LLM agents」预览。**\\n\\n- JIT row mappers 将 ORM 开销降至接近原生水平，同时原生支持 Effect v4——这些是传统开发者关注的点。\\n- 真正值得关注的是 LLM Agent preview 功能：ORM 厂商开始为 Agent 提供原生数据访问层，"
 resource: "https://x.com/DrizzleORM/status/2049984880600121556"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "ai-trend-digest"
-type_okf: "X Tweet"
-source_url: "https://x.com/DrizzleORM/status/2049984880600121556"
-created: "2026-04-30"
-updated: "2026-06-26"
-sha256: "0ee86a9fcc64fc2e6a589457ff89472a0cef8d282720f3b4e50108d3943e3589"
-sources:
-  - "/sources/news/2026-05-02/00__DrizzleORM__drizzle-orm-推出-llm-agent-preview-orm-层正在成为-agent-与数据库的中间件.md"
 ---
 
 # Drizzle ORM 推出 LLM Agent Preview：ORM 层正在成为 Agent 与数据库的中间件

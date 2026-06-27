@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Stack Overflow「死亡」悖论：用户断崖式流失，收入反而翻倍到1.15亿美元"
 description: "**[一句话核心判断]**  Stack Overflow 正被 AI 编程工具\"杀死\"，但这家公司反而找到了更赚钱的商业模式。  **信息增量：** - 问题发布量从高峰期的数百万跌至上月仅 6866 条，与 2008 年刚上线时持平 - 但年收入从约 5700 万美元翻倍至 1.15 亿美元，亏损从 8400 万收窄至 2200 万 - 两条变现路径：①企业知识库产品 Stack Intern"
 resource: "https://x.com/i/status/2059398406737436897"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2059398406737436897"
-created: "2026-05-26"
-updated: "2026-06-26"
-sha256: "055d82ed616a1f047c996d29766e1780ff2fe30a6ef68c300554b83a019079a5"
-sources:
-  - "/sources/highlights/2026-05-26/00__dotey__stack-overflow-死亡-悖论-用户断崖式流失-收入反而翻倍到1-15亿美元.md"
 ---
 
 # Stack Overflow「死亡」悖论：用户断崖式流失，收入反而翻倍到1.15亿美元

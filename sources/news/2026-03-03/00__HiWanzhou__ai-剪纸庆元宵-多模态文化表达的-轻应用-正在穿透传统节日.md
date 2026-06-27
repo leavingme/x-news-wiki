@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "AI 剪纸庆元宵：多模态文化表达的“轻应用”正在穿透传统节日"
 description: "**AI 文化表达的新场景：从宏大叙事到节日氛围的“轻量化”渗透** - AI 生成剪纸图案庆祝元宵节，展示了多模态技术不再是酷炫 demo，而是开始融入传统文化节日和日常生活场景。 - 这类“轻应用”门槛低、传播快，是 AI 技术进行社会普及和文化渗透的有效途径，比复杂的产品更能塑造公众对 AI 的亲和认知。 - 它提示了 AI 商业化的另一条路径：不一定是颠覆性工具，也可以是增强文化创作与传播"
 resource: "https://x.com/i/status/2028372023005880732"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2028372023005880732"
-created: "2026-03-02"
-updated: "2026-06-26"
-sha256: "a3de6d949ee78e4bf2afa8d3660ad3a752a9570646ab2bd8c4c491bca8b61854"
-sources:
-  - "/sources/news/2026-03-03/00__HiWanzhou__ai-剪纸庆元宵-多模态文化表达的-轻应用-正在穿透传统节日.md"
 ---
 
 # AI 剪纸庆元宵：多模态文化表达的“轻应用”正在穿透传统节日

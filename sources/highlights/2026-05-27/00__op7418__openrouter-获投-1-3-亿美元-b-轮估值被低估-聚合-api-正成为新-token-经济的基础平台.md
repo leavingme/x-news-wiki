@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "OpenRouter 获投 1.3 亿美元：B 轮估值被低估，聚合 API 正成为新 Token 经济的基础平台"
 description: "**OpenRouter 完成 1.3 亿美元 B 轮融资，但估值显得过于保守。**  - 聚合 API 平台不只做模型路由，更是未来 Token 经济的结算层——所有 AI 调用的用量记录、计费、分发都沉淀在此 - OpenRouter 的先发优势在于已跑通的商业模型和开发者生态，比单纯的技术护城河更难复制 - 本轮估值若按基础设施公司而非工具软件来定价，显然被二级市场低估了   Token 经"
 resource: "https://x.com/i/status/2059472896322625733"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2059472896322625733"
-created: "2026-05-27"
-updated: "2026-06-26"
-sha256: "42413b9211fc86eaf2907ca9148a5c951f063601f31de8f1722f29f7e97df9b5"
-sources:
-  - "/sources/highlights/2026-05-27/00__op7418__openrouter-获投-1-3-亿美元-b-轮估值被低估-聚合-api-正成为新-token-经济的基础平台.md"
 ---
 
 # OpenRouter 获投 1.3 亿美元：B 轮估值被低估，聚合 API 正成为新 Token 经济的基础平台

@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Claude 24 小时破解 13 年未解的游戏限制：逆向工程进入「无文档」时代"
 description: "**[AI 正在吃掉逆向工程的知识壁垒]**  • Claude Opus 4.6 在无符号表、无源代码、无逆向文档条件下，逆向 2013 年游戏 Disney Infinity • 成果：定位 FindPlaysetForCharacter 调用图，识别 13 个验证点，输出 17 个二进制补丁 + 3 个数据文件修改 • 任意角色跨世界限制被彻底解除，补丁包已开源  **gakki 锐评**："
 resource: "https://x.com/i/status/2033368882174628145"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2033368882174628145"
-created: "2026-03-16"
-updated: "2026-06-26"
-sha256: "b5af6c86f2a97402aad2da25e193149a69f04932ef05ad7d628d6354261c514c"
-sources:
-  - "/sources/news/2026-03-16/00__aigclink__claude-24-小时破解-13-年未解的游戏限制-逆向工程进入-无文档-时代.md"
 ---
 
 # Claude 24 小时破解 13 年未解的游戏限制：逆向工程进入「无文档」时代

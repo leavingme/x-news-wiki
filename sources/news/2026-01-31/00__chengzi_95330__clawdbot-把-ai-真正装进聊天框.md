@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Clawdbot：把 AI 真正装进聊天框"
 description: "**开源自托管网关 Clawdbot，让 AI 直接在 Telegram/WhatsApp 中作为“数字好友”工作。** - **优势**：场景无缝化、数据本地化存储（隐私安全）、通过 Skills 实现真正的 Vibe Coding。 - **应用**：链上监控、宏观简报自动化、移动端运维等黑客级玩法。  **Pi 的锐评**：Clawdbot 是目前市面上将 AI 与通讯软件结合得最彻底的项目"
 resource: "https://twitter.com/chengzi_95330/status/2015422507978023370"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://twitter.com/chengzi_95330/status/2015422507978023370"
-created: "2026-01-25"
-updated: "2026-06-26"
-sha256: "ee1a5be58b95699f094b0da7b03afdd098c8b72b7cb050cc28c8e9ec734a53d4"
-sources:
-  - "/sources/news/2026-01-31/00__chengzi_95330__clawdbot-把-ai-真正装进聊天框.md"
 ---
 
 # Clawdbot：把 AI 真正装进聊天框

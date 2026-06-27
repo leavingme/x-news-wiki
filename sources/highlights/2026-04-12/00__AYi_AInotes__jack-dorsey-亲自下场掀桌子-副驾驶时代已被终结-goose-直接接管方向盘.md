@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Jack Dorsey 亲自下场掀桌子：副驾驶时代已被终结，Goose 直接接管方向盘"
 description: "**[AI 编码工具范式转移：Jack Dorsey 押注的 Goose 从「建议者」变成「执行者」]**  核心判断：Jack Dorsey 公开安利 Block 团队开源的 Goose——一个完全本地运行的全流程 AI 代理，不是副驾驶，是直接坐进驾驶位接管整个开发工作流。  关键信息： - 从零搭建项目、自动写代码执行代码、调试报错、跑通测试、编排复杂工作流、调用外部 API，全程端到端自主"
 resource: "https://x.com/i/status/2040235430822769143"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2040235430822769143"
-created: "2026-04-04"
-updated: "2026-06-26"
-sha256: "cf1ad4ebe2b3c0df05321fb68a8504c31cff80ee4306fe1813fb47f20a39ef73"
-sources:
-  - "/sources/highlights/2026-04-12/00__AYi_AInotes__jack-dorsey-亲自下场掀桌子-副驾驶时代已被终结-goose-直接接管方向盘.md"
 ---
 
 # Jack Dorsey 亲自下场掀桌子：副驾驶时代已被终结，Goose 直接接管方向盘

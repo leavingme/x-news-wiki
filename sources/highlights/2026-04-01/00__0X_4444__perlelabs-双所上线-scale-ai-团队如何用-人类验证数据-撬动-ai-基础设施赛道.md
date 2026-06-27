@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "PerleLabs 双所上线：Scale AI 团队如何用「人类验证数据」撬动 AI 基础设施赛道"
 description: "**[数据溯源成为 AI 下半场的新基建需求]**  Binance Alpha + Coinbase 双所同时上线 $PRL，背后的 PerleLabs 瞄准的是 AI 训练数据质量危机——当前「AI 训 AI」的合成数据闭环正导致模型坍塌，尤其医疗、国防等零容错领域，来源不明的数据是定时炸弹。  Perle 的解法：真实人类专家审核 + 链上可审计记录，而非众包刷量。团队核心成员来自 Scal"
 resource: "https://x.com/i/status/2037456352038305900"
@@ -22,13 +22,6 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "ai-data-blockchain-verification"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2037456352038305900"
-created: "2026-03-27"
-updated: "2026-06-26"
-sha256: "d12cf4d1acaac884e98a0a164ed8d659ef38bcce774bb005571c50d86495ca81"
-sources:
-  - "/sources/highlights/2026-04-01/00__0X_4444__perlelabs-双所上线-scale-ai-团队如何用-人类验证数据-撬动-ai-基础设施赛道.md"
 ---
 
 # PerleLabs 双所上线：Scale AI 团队如何用「人类验证数据」撬动 AI 基础设施赛道

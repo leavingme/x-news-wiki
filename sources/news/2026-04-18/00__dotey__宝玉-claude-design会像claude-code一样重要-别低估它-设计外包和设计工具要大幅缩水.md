@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "宝玉：Claude Design会像Claude Code一样重要，别低估它——设计外包和设计工具要大幅缩水"
 description: "**[一句话核心判断]**  宝玉的判断很直接：Claude Design不只是另一个设计工具，它是「设计能力民主化」的基础设施拐点。  **核心观点：** - Claude Code瞄准的是「代码生产能力」，Claude Design瞄准的是「设计生产能力」——两者都是降低专业门槛 - Opus 4.7「真的懂设计」，不是审美代餐，是真正的设计判断 - 小团队用它可以极大拉高产品设计和交互水平，"
 resource: "https://x.com/i/status/2045223484578783382"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2045223484578783382"
-created: "2026-04-17"
-updated: "2026-06-26"
-sha256: "c5f5482b99912488e0535234201ceaa55fb53fa8f16c2675262ed8c6290b10b2"
-sources:
-  - "/sources/news/2026-04-18/00__dotey__宝玉-claude-design会像claude-code一样重要-别低估它-设计外包和设计工具要大幅缩水.md"
 ---
 
 # 宝玉：Claude Design会像Claude Code一样重要，别低估它——设计外包和设计工具要大幅缩水

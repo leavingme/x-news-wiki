@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "追觅CEO俞浩「N+1」暴论：中国硬件企业从降成本抄作业转向超配竞争，具身智能硬件的商业逻辑正在被重写"
 description: "**追觅CEO俞浩晚点访谈密集输出反常识观点，核心判断是中国硬件创业正从「N-1」降本模式转向「N+1」超配模式。**  - 追觅从扫地机器人起家，正在向割草、泳池、人形机器人全线扩张，俞浩直接喊出「想成为百万亿美元公司」 - 「N+1」逻辑：过去中国企业做N-1（砍功能、降成本、卖便宜），未来机会是比最好的竞品再高10%，用超配而非低价赢市场 - 管理观同样反常识：「管理从来不是问题，管理能解决"
 resource: "https://x.com/i/status/2052049528920883358"
@@ -22,13 +22,6 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "robot-phone-consumer-embodied-ai"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2052049528920883358"
-created: "2026-05-06"
-updated: "2026-06-26"
-sha256: "17c00897b5d5b045e737097acf38219d95cbe3780b8f7908b316128a227ebc67"
-sources:
-  - "/sources/news/2026-05-06/00__vista8__追觅ceo俞浩-n-1-暴论-中国硬件企业从降成本抄作业转向超配竞争-具身智能硬件的商业逻辑正在被重写.md"
 ---
 
 # 追觅CEO俞浩「N+1」暴论：中国硬件企业从降成本抄作业转向超配竞争，具身智能硬件的商业逻辑正在被重写

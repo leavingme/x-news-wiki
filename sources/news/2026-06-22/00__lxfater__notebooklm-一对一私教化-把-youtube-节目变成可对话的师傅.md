@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "NotebookLM 一对一私教化：把 YouTube 节目变成可对话的师傅"
 description: "**NotebookLM 的「内容源导入 + 角色化对话」正在成为个人知识内化的标准工作流。**  - 铁锤人方法：把目标人物的所有 YouTube 内容导入 NotebookLM - 用 AI 模拟该人物的教学风格做一对一培训 - 突破传统播客/视频单向消费的被动学习模式   技巧门槛低，但揭示了反直觉趋势：知识传授的\"去人格化\"反而让师承成本崩塌——前提是你得真用 AI 把它学完，不是只导入就"
 resource: "https://x.com/i/status/2068954386429337998"
@@ -22,13 +22,6 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "ai-personalized-tutoring"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2068954386429337998"
-created: "2026-06-22"
-updated: "2026-06-26"
-sha256: "9d856cf72e2d25eff52fecfbb87807f8318cbf502e528547613fb7fc51e756b3"
-sources:
-  - "/sources/news/2026-06-22/00__lxfater__notebooklm-一对一私教化-把-youtube-节目变成可对话的师傅.md"
 ---
 
 # NotebookLM 一对一私教化：把 YouTube 节目变成可对话的师傅

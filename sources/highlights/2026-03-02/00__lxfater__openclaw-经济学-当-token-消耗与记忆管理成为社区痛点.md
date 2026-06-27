@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "OpenClaw 经济学：当 Token 消耗与记忆管理成为社区痛点"
 description: "**基础设施成熟度的真实指标：社区开始自发解决「成本焦虑」。**  - Token 消耗与记忆管理已成为 OpenClaw 用户的高频痛点 - 插件化解决方案涌现，标志生态从「尝鲜期」进入「工具理性期」 - 用户对 Agent 的期待已从「能做」转向「能省」  开源 Agent 生态的下一个战场：不是功能堆叠，而是成本控制与记忆持久化。"
 resource: "https://x.com/i/status/2028389170889330920"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2028389170889330920"
-created: "2026-03-02"
-updated: "2026-06-26"
-sha256: "f2d40cf2c067d6233d3d66b309943d3b683f082faba0ec0a285a4ea470f7ab85"
-sources:
-  - "/sources/highlights/2026-03-02/00__lxfater__openclaw-经济学-当-token-消耗与记忆管理成为社区痛点.md"
 ---
 
 # OpenClaw 经济学：当 Token 消耗与记忆管理成为社区痛点

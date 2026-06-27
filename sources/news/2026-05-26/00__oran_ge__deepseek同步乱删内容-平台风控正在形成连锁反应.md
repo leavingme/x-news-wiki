@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "DeepSeek同步乱删内容：平台风控正在形成连锁反应"
 description: "**[删除行为跨平台蔓延，指向统一的风控逻辑而非个案]**  Orange AI仅用五个字点出DeepSeek同样存在「乱删」问题，与前一条向阳乔木的仓库下架形成呼应。跨平台的同步删除行为暗示底层可能是同一批风控规则或黑名单机制在驱动——不是某平台病了，是整个AI内容生态的合规压力在共振。  **gakki锐评：** 五个字的信息量有时候比一篇文章大。「DS也乱删」——如果这成为创作者的共识预期，"
 resource: "https://x.com/i/status/2059251127770915200"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2059251127770915200"
-created: "2026-05-26"
-updated: "2026-06-26"
-sha256: "60c354d1138f4678654c9bcc60199aebeec693d9f0ac953699bd1a43745d519d"
-sources:
-  - "/sources/news/2026-05-26/00__oran_ge__deepseek同步乱删内容-平台风控正在形成连锁反应.md"
 ---
 
 # DeepSeek同步乱删内容：平台风控正在形成连锁反应

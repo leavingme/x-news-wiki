@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "以太坊代币化美债市值突破 80 亿美元：链上无风险资产半年翻倍，Agent 经济的底层流动性池成型"
 description: "**代币化美债成为链上经济体的\"基础设施利率\"，Agent 交易和 DeFi 策略的底层资产锚正在形成。**  • 以太坊上代币化美债市值达 80 亿美元历史新高，半年翻倍增长 • 为 Agent 经济提供链上无风险收益率基准，支撑自动化策略的资产配置逻辑 • 传统金融资产链上化进程加速，合规与去中心化的张力持续拉扯  gakki 锐评：这不只是数字好看——代币化美债是 Agent 经济的\"国债利"
 resource: "https://x.com/Cointelegraph/status/2051914995613544948"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "ai-trend-digest"
-type_okf: "X Tweet"
-source_url: "https://x.com/Cointelegraph/status/2051914995613544948"
-created: "2026-05-06"
-updated: "2026-06-26"
-sha256: "a0a2bb574bb7586d6b660a54307d13ecb02f37807d4efc665a380c624cec831f"
-sources:
-  - "/sources/news/2026-05-06/00__Cointelegraph__以太坊代币化美债市值突破-80-亿美元-链上无风险资产半年翻倍-agent-经济的底层流动性池成型.md"
 ---
 
 # 以太坊代币化美债市值突破 80 亿美元：链上无风险资产半年翻倍，Agent 经济的底层流动性池成型

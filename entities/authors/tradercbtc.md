@@ -1,23 +1,17 @@
 ---
-type: "entity"
+type: "Author"
 title: "trader-c (@TradercBTC)"
 description: "X/Twitter 作者 @TradercBTC。共收录 1 条 AI 精选推文。"
 tags:
   - "x-news"
   - "author"
   - "author:TradercBTC"
-timestamp: "2026-06-26T11:53:36.950Z"
+timestamp: "2026-06-27T08:40:40.159Z"
 x_handle: "TradercBTC"
 x_author_name: "trader-c"
 x_tweet_count: 1
 x_first_seen: "2026-03-03T01:07:04.851Z"
 x_last_seen: "2026-03-03T01:07:04.851Z"
-type_okf: "Author"
-created: "2026-03-03"
-updated: "2026-06-26"
-sha256: "1c6b0e18be6b41eea7d4a9b84e3f417780fdca8f0701a086b6cf2b193e9791dc"
-sources:
-  - "/sources/news/2026-03-03/00__TradercBTC__ai-一对一辅导催生-反向教学-用户主导知识传授-实践闭环重塑学习范式.md"
 ---
 
 # trader-c (@TradercBTC)

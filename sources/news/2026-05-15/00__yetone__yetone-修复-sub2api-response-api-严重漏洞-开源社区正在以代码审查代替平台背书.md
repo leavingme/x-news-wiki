@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "yetone 修复 Sub2API Response API 严重漏洞：开源社区正在以代码审查代替平台背书"
 description: "**一句话核心判断：第三方 API 封装层的漏洞修复，暴露了开源 Agent 工具链的质量信任机制正在从平台认证转向社区代码审查。**  - yetone fork Sub2API 后发现并修复多个 bug，其中包括一个严重的 Response API 漏洞，凸显了非官方封装层的安全债务积累速度远超修复速度 - 开源修复路径（fork→修bug→PR）相比平台工单机制的效率差，正在成为 Agent"
 resource: "https://x.com/i/status/2055343708237922404"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2055343708237922404"
-created: "2026-05-15"
-updated: "2026-06-26"
-sha256: "e87cd590715ac39e6d09967c141e39fd7b3b1fcabf40522a4f59a1835341c9bb"
-sources:
-  - "/sources/news/2026-05-15/00__yetone__yetone-修复-sub2api-response-api-严重漏洞-开源社区正在以代码审查代替平台背书.md"
 ---
 
 # yetone 修复 Sub2API Response API 严重漏洞：开源社区正在以代码审查代替平台背书

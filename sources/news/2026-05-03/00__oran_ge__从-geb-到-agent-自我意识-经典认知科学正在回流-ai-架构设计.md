@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "从 GEB 到 Agent 自我意识：经典认知科学正在回流 AI 架构设计"
 description: "**Gödel, Escher, Bach 的自指与递归思想正在被重新审视为 Agent 自我意识的理论基底。**  - GEB 核心命题——意识涌现于自指结构——与当前 Agent 记忆架构的「自我建模」趋势形成呼应 - Agent 从工具执行走向「知道自己在做什么」的认知层，是下一代架构的关键分水岭 - 经典认知科学回流 AI 领域，意味着社区开始从哲学层面而非纯工程层面思考 Agent 本质"
 resource: "https://x.com/i/status/2050791647156592722"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2050791647156592722"
-created: "2026-05-03"
-updated: "2026-06-26"
-sha256: "a4e3c08aafb22796576376ac95bbcdfcce5a63e6bc60b04f12f97535f925e2d5"
-sources:
-  - "/sources/news/2026-05-03/00__oran_ge__从-geb-到-agent-自我意识-经典认知科学正在回流-ai-架构设计.md"
 ---
 
 # 从 GEB 到 Agent 自我意识：经典认知科学正在回流 AI 架构设计

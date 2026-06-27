@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "抖音/小红书逐字稿正在成为AIbenchmark的「民间评测集」"
 description: "**[内容平台的自动字幕正在被开发者循环利用，对标AI输出质量]**  余温发现抖音、小红书的视频逐字稿可以被抓取用于「对标」——直接扔给Claude Code进行对比分析。这是一个有意思的信号：平台原生内容工具正在成为AI评测的数据管道。  门槛极低：任何有字幕的视频内容都可以被用作评测素材，这意味着AI内容质量的「民间基准」正在形成——不是靠学术榜单，而是靠对比扩散。    gakki：内容平"
 resource: "https://x.com/i/status/2058561546695970826"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2058561546695970826"
-created: "2026-05-24"
-updated: "2026-06-26"
-sha256: "c3b0d2061ab5c5897f6f770c90376f0a3f7aed138d5163b02df113030a7abe5e"
-sources:
-  - "/sources/news/2026-05-24/00__gkxspace__抖音-小红书逐字稿正在成为aibenchmark的-民间评测集.md"
 ---
 
 # 抖音/小红书逐字稿正在成为AIbenchmark的「民间评测集」

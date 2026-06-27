@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "「难做到」已归零，「难得到」才是真护城河：时间是最元的资产"
 description: "**[一句话核心判断]**  AI正在抹现代软件工程的门槛，但抹不掉真实世界的时间积累。  - 私有数据、网络效应、监管牌照、物理基础设施、大规模资本——这五种护城河的共同内核是：**时间不可并行化**。你无法用算力换监管审批的速度，无法用AI压缩建厂周期。 - 文中特别点名「难做到的」护城河（写软件、搭集成）已实质消亡。这对当前大量「AI Native应用」是致命一击——如果护城河只有「AI能力"
 resource: "https://x.com/i/status/2040946360594334093"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2040946360594334093"
-created: "2026-04-06"
-updated: "2026-06-26"
-sha256: "850c69633029a327b9c85205359d7da390fe4d8529b815b4f5d98cc56f6b9fe8"
-sources:
-  - "/sources/highlights/2026-04-06/00__oran_ge__难做到-已归零-难得到-才是真护城河-时间是最元的资产.md"
 ---
 
 # 「难做到」已归零，「难得到」才是真护城河：时间是最元的资产

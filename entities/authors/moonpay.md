@@ -1,23 +1,17 @@
 ---
-type: "entity"
+type: "Author"
 title: "MoonPay 🟣 (@moonpay)"
 description: "X/Twitter 作者 @moonpay。共收录 1 条 AI 精选推文。"
 tags:
   - "x-news"
   - "author"
   - "author:moonpay"
-timestamp: "2026-06-26T11:53:36.996Z"
+timestamp: "2026-06-27T08:40:40.211Z"
 x_handle: "moonpay"
 x_author_name: "MoonPay 🟣"
 x_tweet_count: 1
 x_first_seen: "2026-05-05T16:17:38.619Z"
 x_last_seen: "2026-05-05T16:17:38.619Z"
-type_okf: "Author"
-created: "2026-05-05"
-updated: "2026-06-26"
-sha256: "c284ee0f41a97bf382aa75f73b837b7f9050a018da44f018ba3ce3e87cbedeb3"
-sources:
-  - "/sources/news/2026-05-05/00__moonpay__moonpay-收购-dflow-加密支付基础设施开始为-ai-agent-的-经济自主权-铺设底层通道.md"
 ---
 
 # MoonPay 🟣 (@moonpay)

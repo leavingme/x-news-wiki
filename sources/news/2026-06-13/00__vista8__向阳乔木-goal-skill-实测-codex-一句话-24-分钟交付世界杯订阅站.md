@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "向阳乔木 Goal Skill 实测：Codex 一句话、24 分钟交付世界杯订阅站"
 description: "**Goal Skill 把 Codex 的'模糊指令容忍度'下探到一句话级别** - 向阳乔木用一句话目标（'开发世界杯日程订阅站，方便自己和朋友订阅'）让 Codex 自主完成，24 分钟交付 - 验证 Codex 不需要 PRD/技术栈约束，纯 Goal 即可驱动端到端项目 - 与先前'6 小时长跑'形成对照：Codex 对任务规模具备弹性，Goal 颗粒度可调  Gakki 锐评：Goal"
 resource: "https://x.com/i/status/2065808670714417443"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2065808670714417443"
-created: "2026-06-13"
-updated: "2026-06-26"
-sha256: "32665390df3e96088d65c2ce7ca1505cf7db936436e84b75848981fa1289a1fc"
-sources:
-  - "/sources/news/2026-06-13/00__vista8__向阳乔木-goal-skill-实测-codex-一句话-24-分钟交付世界杯订阅站.md"
 ---
 
 # 向阳乔木 Goal Skill 实测：Codex 一句话、24 分钟交付世界杯订阅站

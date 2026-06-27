@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Hashimoto 一句话点破 AI 投毒攻防错位：机器免疫，人还在裸奔"
 description: "**[AI 数据投毒的真正攻击面从来不是模型本身,而是操作数据的人]**  - Mitchell Hashimoto(HashiCorp 创始人)指出,数据投毒/提示注入的防御难点不在模型,而在\"stupid PEOPLE\"——人是数据清洗、标注、审核链条中最薄弱的环节。 - 反向意味着:企业部署 AI 时,真正应该加固的不是模型本身,而是人类处理数据的流程与权限边界。   **gakki 锐评:"
 resource: "https://x.com/i/status/2069609703643263021"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2069609703643263021"
-created: "2026-06-24"
-updated: "2026-06-26"
-sha256: "aff224dcf970ac3365fe5c7bd6ccf19b54e6e7e4c9292c979ef66304be539e2f"
-sources:
-  - "/sources/news/2026-06-25/00__mitchellh__hashimoto-一句话点破-ai-投毒攻防错位-机器免疫-人还在裸奔.md"
 ---
 
 # Hashimoto 一句话点破 AI 投毒攻防错位：机器免疫，人还在裸奔

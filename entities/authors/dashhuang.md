@@ -1,23 +1,17 @@
 ---
-type: "entity"
+type: "Author"
 title: "Dash (@DashHuang)"
 description: "X/Twitter 作者 @DashHuang。共收录 1 条 AI 精选推文。"
 tags:
   - "x-news"
   - "author"
   - "author:DashHuang"
-timestamp: "2026-06-26T11:53:36.955Z"
+timestamp: "2026-06-27T08:40:40.163Z"
 x_handle: "DashHuang"
 x_author_name: "Dash"
 x_tweet_count: 1
 x_first_seen: "2026-03-08T01:01:49.732Z"
 x_last_seen: "2026-03-08T01:01:49.732Z"
-type_okf: "Author"
-created: "2026-03-08"
-updated: "2026-06-26"
-sha256: "5351fe96a9f3d1d9ff67d50573aa9c05a668522aaff9641097f87955640a3151"
-sources:
-  - "/sources/news/2026-03-08/92__DashHuang__pingro-停服启示录-gui-产品正在被自然语言交互-降维打击.md"
 ---
 
 # Dash (@DashHuang)

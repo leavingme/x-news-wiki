@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "国产大模型口碑与榜单分裂：开发者公开喊话智谱，要求5k+ star仓库贴图实证"
 description: "国产大模型进入「榜单vs实战口碑」分裂期，用户开始用真实项目经历反向校准榜单。 铁锤人公开质疑智谱实战能力，要求有5k+ star非MD项目的开发者贴图实证；自述已用过Kimi和MiniMax。 这是继榜单刷分争议后，开发者社区首次公开用「真实仓库背书」作为评测标准。  锐评：这种「开发者口碑反推榜单」的现象是国产模型进入下半场的信号，但单一质疑样本量有限；要看是否形成系统性口碑排行，Kimi/M"
 resource: "https://x.com/i/status/2067980913850626538"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2067980913850626538"
-created: "2026-06-19"
-updated: "2026-06-26"
-sha256: "35b899cd106f31d16b22a43ae5eae9dbc6062b02d7dbd319f838067b29c7f683"
-sources:
-  - "/sources/news/2026-06-19/00__lxfater__国产大模型口碑与榜单分裂-开发者公开喊话智谱-要求5k-star仓库贴图实证.md"
 ---
 
 # 国产大模型口碑与榜单分裂：开发者公开喊话智谱，要求5k+ star仓库贴图实证

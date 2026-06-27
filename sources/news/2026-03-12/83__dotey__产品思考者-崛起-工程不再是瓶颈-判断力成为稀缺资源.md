@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "「产品思考者」崛起：工程不再是瓶颈，判断力成为稀缺资源"
 description: "**技术平民化后，产品叙事成为新的承重结构。**  • 新角色定义：不是 PM，而是能从终局倒推、在文化直觉与技术可行性之间穿行的「双语者」 • 关键转变：做东西不难了 → 差异转移到「做什么、按什么顺序做、怎么讲故事」 • 叙事不是包装，而是产品骨骼——对内凝聚共识，对外定义用户的解读框架  当代码生成被 AI 承包，人类的溢价能力从「实现」迁移到「定义什么值得被实现」。"
 resource: "https://x.com/i/status/2031864208225108465"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 83
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2031864208225108465"
-created: "2026-03-11"
-updated: "2026-06-26"
-sha256: "db11dddb6ddec329bb1e9d0c3475eb99e0aa3843ceb9b21b1885b98c2f0d50bf"
-sources:
-  - "/sources/news/2026-03-12/83__dotey__产品思考者-崛起-工程不再是瓶颈-判断力成为稀缺资源.md"
 ---
 
 # 「产品思考者」崛起：工程不再是瓶颈，判断力成为稀缺资源

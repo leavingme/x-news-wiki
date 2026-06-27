@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "GPT 生图接 Tripo 3D：AI 内容生成正在打通「图片→3D 物体」的最后一公里"
 description: "**GPT 图像生成 + Tripo 3D 建模的管线组合，正在把 3D 内容创作的门槛压到「一句话」级别。** - 小互实测 GPT 生图后直接喂给 Tripo 生成 3D 模型，整个流程无需建模技能 - 这条管线的真正价值在于：3D 资产不再是游戏/设计公司的专属，个人创作者可以按需生产 - 适合电商展示、虚拟场景搭建、乃至未来具身智能的物体数据库建设  gakki 锐评：3D 内容民主化的故"
 resource: "https://x.com/i/status/2053296865517683122"
@@ -22,13 +22,6 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "ai-3d-content-democratization"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2053296865517683122"
-created: "2026-05-10"
-updated: "2026-06-26"
-sha256: "543889a2b208054b6c7e33b5888a62b8c96667170fb50fe4251e09b9e417b054"
-sources:
-  - "/sources/news/2026-05-10/00__xiaohu__gpt-生图接-tripo-3d-ai-内容生成正在打通-图片-3d-物体-的最后一公里.md"
 ---
 
 # GPT 生图接 Tripo 3D：AI 内容生成正在打通「图片→3D 物体」的最后一公里

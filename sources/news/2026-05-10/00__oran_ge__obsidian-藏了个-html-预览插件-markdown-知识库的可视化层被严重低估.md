@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Obsidian 藏了个 HTML 预览插件：Markdown 知识库的可视化层被严重低估"
 description: "**Obsidian 的 HTML 浏览能力一直是隐藏功能，这个发现揭示了笔记工具的一个被忽视的维度。**  - 纯 Markdown 知识库天然排斥富媒体内容，HTML 插件补上了这块 - AI Agent 生成的报告、图表、可视化内容终于能在 Obsidian 里原生展示 - 对于用 Obsidian 做 AI 记忆系统的用户，这是刚需而非可选功能  知识管理工具的下一步不是更多 Markdo"
 resource: "https://x.com/i/status/2053255205387706696"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2053255205387706696"
-created: "2026-05-09"
-updated: "2026-06-26"
-sha256: "5aa82c31ed4ddea85045d17c43e8a8af4538cdb6dd3265605d16ed7b72972359"
-sources:
-  - "/sources/news/2026-05-10/00__oran_ge__obsidian-藏了个-html-预览插件-markdown-知识库的可视化层被严重低估.md"
 ---
 
 # Obsidian 藏了个 HTML 预览插件：Markdown 知识库的可视化层被严重低估

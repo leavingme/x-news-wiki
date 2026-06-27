@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "「6-12个月」：AI替代不是终局，\"完全\"替代才是伪命题"
 description: "**[一句话核心判断]** AI替代存在明确的边界——不是所有岗位都会被\"完全\"替代，6-12个月的替代窗口期对应的是特定任务而非职业整体。  **信息增量：** - \"完全替代\"是讨论陷阱，实际替代路径是任务级别的渐进渗透 - 时间预期（6-12个月）的锚定价值：给从业者提供现实参照，而非恐慌或盲信 - 隐含分层：哪些任务先被替代、哪些保留人类判断——这是决策者真正需要的信息  **影响对象：*"
 resource: "https://x.com/i/status/2049149259463729294"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2049149259463729294"
-created: "2026-04-28"
-updated: "2026-06-26"
-sha256: "174655ff0f3731f2756f5756da790732d76e09588f32a92ae048ec91cc9af7a8"
-sources:
-  - "/sources/news/2026-04-28/00__gkxspace__6-12个月-ai替代不是终局-完全-替代才是伪命题.md"
 ---
 
 # 「6-12个月」：AI替代不是终局，"完全"替代才是伪命题

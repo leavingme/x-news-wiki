@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "豆包的「胜利之痛」：800万智能体下架后，留存纹丝不动"
 description: "**一句话核心判断：豆包用一次失败的智能体下架实验证明了一个反直觉事实——多bot策略是幻觉，用户只认主智能体。**  • 豆包曾在2024年5月宣称拥有800万个智能体，后续全量下架测试后发现：用户活跃与留存没有任何波动——证明其余智能体全部是僵尸流量。 • 团队曾病急乱投医，想借抖音短视频做内容推荐提升留存，被内部否决。抖音单用户日均120分钟，而豆包稳定在10分钟以内，差距悬殊。 • 豆包赢"
 resource: "https://x.com/i/status/2057347457814786386"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2057347457814786386"
-created: "2026-05-21"
-updated: "2026-06-26"
-sha256: "c92c592bf83f33728cf908728950e8b3fbb82b0bccd399ee2b7989bdd5efb46e"
-sources:
-  - "/sources/highlights/2026-05-21/00__oran_ge__豆包的-胜利之痛-800万智能体下架后-留存纹丝不动.md"
 ---
 
 # 豆包的「胜利之痛」：800万智能体下架后，留存纹丝不动

@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Skill通胀来了：当万物皆可Skill，真正的稀缺性藏在\"高频复用\"里"
 description: "**[Skill生态正在经历从\"能力封装\"到\"信息过载\"的转折]** - 书籍、博客、推文都能变成Skill，甚至出现了\"批量产生Skill的Skill\" - 关键问题不是\"能不能做Skill\"，而是\"你日常真正高频用的有几种\" - Skill的价值锚点正在从\"数量\"转向\"复用密度\"  gakki锐评：Skill泛滥的本质是AI工具链的\"功能膨胀病\"。真正值得维护的Skill，是你每天打开电脑第一"
 resource: "https://x.com/i/status/2051891634007110095"
@@ -22,13 +22,6 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "skills-ecosystem-gpts-cycle"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2051891634007110095"
-created: "2026-05-06"
-updated: "2026-06-26"
-sha256: "3088e91d1376e224abe5871d4cf7f088472059041099cee376763f3e2c14de96"
-sources:
-  - "/sources/news/2026-05-06/00__lxfater__skill通胀来了-当万物皆可skill-真正的稀缺性藏在-高频复用-里.md"
 ---
 
 # Skill通胀来了：当万物皆可Skill，真正的稀缺性藏在"高频复用"里

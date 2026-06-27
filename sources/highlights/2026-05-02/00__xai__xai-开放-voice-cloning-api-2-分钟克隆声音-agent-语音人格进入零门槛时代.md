@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "xAI 开放 Voice Cloning API：2 分钟克隆声音，Agent 语音人格进入零门槛时代"
 description: "**语音克隆从实验室走向 API 调用，Agent 人格化竞争进入新维度。**  - xAI 推出 Voice Cloning API，2 分钟内创建自定义声音，支持 28 种语言 80+ 预设声音，面向语音 Agent、有声书、游戏角色等场景。 - 这直接降低了 Agent 语音人格定制的门槛，但也同步放大了声纹安全风险——当任何人都能克隆声音，基于声纹的身份认证体系面临系统性威胁。 - 对比 "
 resource: "https://x.com/xai/status/2050355373052223585"
@@ -22,13 +22,6 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "voice-cloning-security"
 x_source: "ai-trend-digest"
-type_okf: "X Tweet"
-source_url: "https://x.com/xai/status/2050355373052223585"
-created: "2026-05-01"
-updated: "2026-06-26"
-sha256: "2eed3772a1469a0d68ac2139a82df2accfde4345a558df63aeda744693c9231b"
-sources:
-  - "/sources/highlights/2026-05-02/00__xai__xai-开放-voice-cloning-api-2-分钟克隆声音-agent-语音人格进入零门槛时代.md"
 ---
 
 # xAI 开放 Voice Cloning API：2 分钟克隆声音，Agent 语音人格进入零门槛时代

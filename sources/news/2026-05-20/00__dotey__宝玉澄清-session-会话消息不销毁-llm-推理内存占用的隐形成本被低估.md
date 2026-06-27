@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "宝玉澄清 Session 会话消息不销毁：LLM 推理内存占用的隐形成本被低估"
 description: "**[一句话核心判断]**  宝玉澄清了一个长期被忽视的工程事实：Session 停止时所有加载的会话消息不会自动销毁，仍占内存——这意味着长程 Agent 的内存成本远比表面看到的更高。  **信息增量：** - Session 消息在内存中不销毁，是持续累积的隐性成本 - 对于高频使用 Claude Code 等工具的开发者，这意味着隐性内存泄漏 - 内存占用而非 Token 成本，才是高频场"
 resource: "https://x.com/i/status/2057142032636797340"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2057142032636797340"
-created: "2026-05-20"
-updated: "2026-06-26"
-sha256: "a12589f1f9f457fa11ef3e90d9f901c4d9b98a450989c0741ee5cd1e80cd3531"
-sources:
-  - "/sources/news/2026-05-20/00__dotey__宝玉澄清-session-会话消息不销毁-llm-推理内存占用的隐形成本被低估.md"
 ---
 
 # 宝玉澄清 Session 会话消息不销毁：LLM 推理内存占用的隐形成本被低估

@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Unsloth三行代码：模型微调的「最后一道门槛」正在消失"
 description: "**[本地微调的技术民主化已越过临界点]** • 核心变化：小学生级门槛 + 消费级硬件可跑 = 微调从「实验室特权」变成「通用技能」 • 连锁影响：企业私有数据+专属模型的闭环成本趋近于零，API调用模式面临长期侵蚀 • 关键洞察：LLM基本盘稳固后，竞争焦点已从「谁有模型」转向「谁能低成本造专属模型」  这是开源社区对封闭API经济的又一次「侧翼包抄」。当微调门槛低于学习SQL，「千模千面」的"
 resource: "https://x.com/i/status/2034624557718626772"
@@ -22,13 +22,6 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "unsloth-finetuning-democratization"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2034624557718626772"
-created: "2026-03-19"
-updated: "2026-06-26"
-sha256: "295b4217e897e3d6a93b9b0eb33b3d6c3afaa32aaa406fdc3b475e4dc71393c3"
-sources:
-  - "/sources/highlights/2026-03-20/00__xiongchun007__unsloth三行代码-模型微调的-最后一道门槛-正在消失.md"
 ---
 
 # Unsloth三行代码：模型微调的「最后一道门槛」正在消失

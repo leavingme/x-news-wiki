@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "AI 黑盒判断正在制造全球性的用户困境"
 description: "**[全黑盒 AI 判断已成跨文化现象而非局部问题]**  当 AI 开始接管决策判断，用户不仅失去干预能力，连理解为什么都做不到。这种全黑盒模式并非中国开发者独有——有国外用户同样遭遇同类问题且无法定位原因。  黑盒的代价不是技术局限，而是信任的不可修复性磨损。  gakki：当 AI 判断的不可解释性跨越语言和文化边界成为普遍困境，这说明问题不在用户，在范式本身。"
 resource: "https://x.com/i/status/2056729505079935143"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2056729505079935143"
-created: "2026-05-19"
-updated: "2026-06-26"
-sha256: "7d750530d95425032a6df3473735b17cb0cfeeae66c900059c357a61ecc237c3"
-sources:
-  - "/sources/news/2026-05-19/00__vista8__ai-黑盒判断正在制造全球性的用户困境.md"
 ---
 
 # AI 黑盒判断正在制造全球性的用户困境

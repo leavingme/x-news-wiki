@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "小龙虾生产力瓶颈揭秘：SubAgent模板化配置决定天花板"
 description: "**[从「能用」到「好用」的鸿沟：提示词工程+Skill设计+记忆架构的系统性差距]**  - 多数用户小龙虾「没生产力」的根源：缺乏预设计的SubAgent提示词、Skill和记忆模板 - 模板化配置是将通用Agent转化为垂直场景生产力工具的关键跃迁点 - 文章提供的写作模板可作为范式参考，降低用户从零构建的认知负担   Agent工具的民主化悖论：门槛降低让所有人都能「启动」，但真正的效率差"
 resource: "https://x.com/i/status/2031210003345084869"
@@ -22,13 +22,6 @@ x_selected: 2
 x_priority: 82
 x_related_topic: "no-code-agent-entry"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2031210003345084869"
-created: "2026-03-10"
-updated: "2026-06-26"
-sha256: "1f06362e06c61163bbfce6f5ddcc2e29158aae93f473e0e29ef3556397492553"
-sources:
-  - "/sources/highlights/2026-03-11/82__lxfater__小龙虾生产力瓶颈揭秘-subagent模板化配置决定天花板.md"
 ---
 
 # 小龙虾生产力瓶颈揭秘：SubAgent模板化配置决定天花板

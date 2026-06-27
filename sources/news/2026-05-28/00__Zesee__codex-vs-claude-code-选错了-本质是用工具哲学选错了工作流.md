@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Codex vs Claude Code 选错了，本质是用工具哲学选错了工作流"
 description: "**[Claude Code 擅长\"无人值守\"，Codex 擅长\"即时辅助\"，混用才是最优解]**  关键判断维度不是哪个更厉害，而是工作性质：流程明确、重复性高的任务选 Claude Code，它用终端命令、subagents、hooks、skills 把重复动作系统化，像定制自动化系统；需要随时处理复杂情况、不断调整的任务选 Codex，它更像直接帮你处理当前任务的 AI 辅助工具。  前期配"
 resource: "https://x.com/i/status/2059915061737713981"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2059915061737713981"
-created: "2026-05-28"
-updated: "2026-06-26"
-sha256: "5fc97729ae20d032a8ca92cf41ae9f6416c5ad0d68e1c72a6afd4c388cd621de"
-sources:
-  - "/sources/news/2026-05-28/00__Zesee__codex-vs-claude-code-选错了-本质是用工具哲学选错了工作流.md"
 ---
 
 # Codex vs Claude Code 选错了，本质是用工具哲学选错了工作流

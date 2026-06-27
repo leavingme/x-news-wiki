@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "yetone 一句话捅破：AI 不喜欢代码重用，问题本来就在逻辑层"
 description: "**[一句话核心判断]** 当 AI Agent 写代码出问题，多数人归因到「没重用现有模块」，yetone 提醒真正卡点在逻辑设计层，重用只是表象。  - yetone 观点：部分代码缺陷是逻辑问题，不是代码重用问题；进一步说，AI 本身就「不喜欢」照搬现有实现 - 隐含判断：在 Vibe Coding 与 Harness 工程之间，「让 AI 复用模块」并不比「让 AI 重写逻辑」更省事，关键"
 resource: "https://x.com/i/status/2065287051227078948"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2065287051227078948"
-created: "2026-06-12"
-updated: "2026-06-26"
-sha256: "81bc4c230fde54302b29b5187879b65447322d59122ef63f37a79bec40164450"
-sources:
-  - "/sources/news/2026-06-12/00__yetone__yetone-一句话捅破-ai-不喜欢代码重用-问题本来就在逻辑层.md"
 ---
 
 # yetone 一句话捅破：AI 不喜欢代码重用，问题本来就在逻辑层

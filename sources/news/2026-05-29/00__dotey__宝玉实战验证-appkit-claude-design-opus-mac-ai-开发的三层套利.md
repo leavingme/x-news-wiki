@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "宝玉实战验证：AppKit + Claude Design + Opus，Mac AI 开发的三层套利"
 description: "**[一句话核心判断]**  Mac AI 开发里藏着一条被低估的工具链套利路径：AppKit > SwiftUI（已被 AI 抹平差距）、Claude Design 做设计前置、Opus 视觉优于 GPT-5.5。  **信息增量：** - SwiftUI 相对 AppKit 的「开发简单」优势被 AI 彻底消除，反而 AppKit 的强大定制能力成为差异点 - Claude Design 作为"
 resource: "https://x.com/i/status/2060411347930661235"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2060411347930661235"
-created: "2026-05-29"
-updated: "2026-06-26"
-sha256: "93921283bc1775429f0d61c3d034fd82554e485876ff56e33723ac35b2b3c5e5"
-sources:
-  - "/sources/news/2026-05-29/00__dotey__宝玉实战验证-appkit-claude-design-opus-mac-ai-开发的三层套利.md"
 ---
 
 # 宝玉实战验证：AppKit + Claude Design + Opus，Mac AI 开发的三层套利

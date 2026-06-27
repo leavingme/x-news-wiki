@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Opus Ultra Code 模式登场：并发 Subagent 从工具特性变为基础设施"
 description: "**一线判断：数百并发 Subagent 的常态化，标志着 Agent 编排从演示进入生产阶段。**  昨晚 Opus 上线的 Dynamic Workflows 允许单次启动数百个并发 Subagent，处理代码库级调研、庞大报告生成等重量任务。触发方式简单——提示词含 workflow 即可，或主动启动 Ultra Code 模式。  关键约束：Ultra Code 模式单次对话生效，重启后回"
 resource: "https://x.com/i/status/2060186234518184286"
@@ -22,13 +22,6 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "multi-agent-framework-ecosystem-comparison"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2060186234518184286"
-created: "2026-05-29"
-updated: "2026-06-26"
-sha256: "ecd7e2b44a53d2293fc3003d585b361f4ae0ed2909ac0b62895ff0ffb75f8ac5"
-sources:
-  - "/sources/highlights/2026-05-29/00__op7418__opus-ultra-code-模式登场-并发-subagent-从工具特性变为基础设施.md"
 ---
 
 # Opus Ultra Code 模式登场：并发 Subagent 从工具特性变为基础设施

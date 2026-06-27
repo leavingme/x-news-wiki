@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Codex 生成 + ChatGPT 润色的组合工作流正在成为 AI 编码的标准中间态"
 description: "**[AI 工具链正在形成「生成→润色」的双模型分工]**  宝玉分享了一个具体工作流：Codex 生成代码内容，粘贴进 ChatGPT 加一句手绘教育信息图的提示词，产出最终结果。这代表一种新兴的分工模式——专用模型负责代码生成，通用模型负责创意加工。  这和之前 Claude Code 被指「闭源经济学」是一体两面：Claude 的护城河在创意层，Codex 的优势在执行层。  **gakki"
 resource: "https://x.com/i/status/2058091474734969273"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2058091474734969273"
-created: "2026-05-23"
-updated: "2026-06-26"
-sha256: "adb746e7f6bc5a8ac2dd920107cefb09a79a1a0c23954bdfc1dcb5818dd08886"
-sources:
-  - "/sources/news/2026-05-23/00__dotey__codex-生成-chatgpt-润色的组合工作流正在成为-ai-编码的标准中间态.md"
 ---
 
 # Codex 生成 + ChatGPT 润色的组合工作流正在成为 AI 编码的标准中间态

@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "HTML Slides 正在替代 PPT：AI Native 工作流中「素材即代码」的范式信号"
 description: "**[一句话核心判断]**  在 AI Native 工作流里，PPT 正在被「HTML 网页 + GPT-Image-2 生成素材」的组合加速替代，这不是格式之争，而是创作管道的根本重构。  **信息增量：** - PPT 的本质是「幻灯片」，而 AI 时代的工作流核心是「可编程、可迭代、可自动生成的素材管道」 - GPT-Image-2 生成素材图 → 嵌入 HTML 页面 → 直接分享，这一"
 resource: "https://x.com/i/status/2049120079154163964"
@@ -22,13 +22,6 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "ai-native-format-shift"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2049120079154163964"
-created: "2026-04-28"
-updated: "2026-06-26"
-sha256: "07a03bdfd5124f137e0b353f494fa385bea2cccf0aeaea8fbe789d4277060eb0"
-sources:
-  - "/sources/news/2026-04-28/00__op7418__html-slides-正在替代-ppt-ai-native-工作流中-素材即代码-的范式信号.md"
 ---
 
 # HTML Slides 正在替代 PPT：AI Native 工作流中「素材即代码」的范式信号

@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "DeepMind数学Agent Aletheia：AI科研从辅助工具跃迁为自主发现者"
 description: "**【AI科学发现能力触及「可发表」阈值】** • Aletheia基于Gemini Deep Think，实现端到端数学研究全流程自动化 • 已独立生成多篇 publication-grade 论文，其中一篇零人工干预 • 新型推理时扩展定律（inference-time scaling law）或成科研Agent新范式  数学是AI能力的终极试金石，这一关的突破意味着科研劳动力结构的不可逆重构"
 resource: "https://x.com/i/status/2030891969892040815"
@@ -22,13 +22,6 @@ x_selected: 2
 x_priority: 92
 x_related_topic: "ai-autonomous-scientific-discovery"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2030891969892040815"
-created: "2026-03-09"
-updated: "2026-06-26"
-sha256: "82533d59da17eb81b66cb3f1e2ca3fb0c341f6ed9dd157485add842c68057bd7"
-sources:
-  - "/sources/highlights/2026-03-10/92__jiqizhixin__deepmind数学agent-aletheia-ai科研从辅助工具跃迁为自主发现者.md"
 ---
 
 # DeepMind数学Agent Aletheia：AI科研从辅助工具跃迁为自主发现者

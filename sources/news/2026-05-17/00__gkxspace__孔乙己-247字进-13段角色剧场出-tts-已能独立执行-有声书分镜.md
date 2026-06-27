@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "《孔乙己》247字进，13段角色剧场出：TTS 已能独立执行「有声书分镜」"
 description: "**一句话核心判断：AI 有声书生产从「演示」进入「可规模化的工程态」，内容产业的翻译-配音链条正在被重新解构。**  - 仅输入《孔乙己》节选，LLM 自动拆解为 13 段对白并标注旁白/孔乙己/酒客，每个角色分配专属 voice 和性格 instruction（穷酸老书生/粗鄙酒客），54 秒生成 1.1MB mp3 - 关键在于「自动分镜」+「角色匹配」不需要人工介入——LLM 同时承担了编"
 resource: "https://x.com/i/status/2055985132754911696"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2055985132754911696"
-created: "2026-05-17"
-updated: "2026-06-26"
-sha256: "4bacc0acc551bd7a6d45c23df3c209ee43ba82e5de2725eb20234a8699f537d2"
-sources:
-  - "/sources/news/2026-05-17/00__gkxspace__孔乙己-247字进-13段角色剧场出-tts-已能独立执行-有声书分镜.md"
 ---
 
 # 《孔乙己》247字进，13段角色剧场出：TTS 已能独立执行「有声书分镜」

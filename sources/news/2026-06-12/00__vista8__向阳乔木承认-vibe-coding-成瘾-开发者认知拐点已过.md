@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "向阳乔木承认 Vibe Coding 成瘾：开发者认知拐点已过"
 description: "**头部独立开发者向阳乔木公开表示 Vibe Coding\"太上瘾\"——这是开发者群体对 AI 编程工具形成生理依赖的标志性信号。**  - 乔木作为高产 Skill 作者，承认自己\"睡醒了\"就开始 Vibe Coding，说明 Skill 范式已经跑通且形成正反馈循环 - 与此前\"Vibe Coding 是快感的死灭迴游\"形成对照：业内已经从质疑转向接纳 - 信号意义大于内容本身——意味着 Vi"
 resource: "https://x.com/i/status/2065225527494074747"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2065225527494074747"
-created: "2026-06-12"
-updated: "2026-06-26"
-sha256: "582f9e8a1b91bc688aa6fad650e9960f89ebe723e62f429fcc8f83194f55f0f0"
-sources:
-  - "/sources/news/2026-06-12/00__vista8__向阳乔木承认-vibe-coding-成瘾-开发者认知拐点已过.md"
 ---
 
 # 向阳乔木承认 Vibe Coding 成瘾：开发者认知拐点已过

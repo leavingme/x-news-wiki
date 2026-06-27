@@ -1,23 +1,17 @@
 ---
-type: "entity"
+type: "Author"
 title: "AI最严厉的父亲 (@dashen_wang)"
 description: "X/Twitter 作者 @dashen_wang。共收录 1 条 AI 精选推文。"
 tags:
   - "x-news"
   - "author"
   - "author:dashen_wang"
-timestamp: "2026-06-26T11:53:36.963Z"
+timestamp: "2026-06-27T08:40:40.172Z"
 x_handle: "dashen_wang"
 x_author_name: "AI最严厉的父亲"
 x_tweet_count: 1
 x_first_seen: "2026-03-20T00:42:56.775Z"
 x_last_seen: "2026-03-20T00:42:56.775Z"
-type_okf: "Author"
-created: "2026-03-20"
-updated: "2026-06-26"
-sha256: "c6061af1adf044bbf4c83e4eec13b9ac2e65ee609fa6d53a354986e71ffc1f18"
-sources:
-  - "/sources/highlights/2026-03-20/00__dashen_wang__ruflo开源-claude-code多智能体编排框架-token成本直降75-的工程突围.md"
 ---
 
 # AI最严厉的父亲 (@dashen_wang)

@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Agent-Native 演示框架 open-slide：当幻灯片成为 Agent 的输出格式"
 description: "**演示工具正在被 Agent 重新定义。**  - open-slide 定位为「A slide framework built for agents」，2.2k stars / 146 forks，活跃度高（343 commits，35 branches） - 从 commit 记录看，已进入 monorepo 架构阶段，包含 CLI 工具 + 设计系统 + playground，工程化程度不"
 resource: "https://x.com/i/status/2052203373726757007"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2052203373726757007"
-created: "2026-05-07"
-updated: "2026-06-26"
-sha256: "15323111ac4cd9c28b63bb5c47c46080e211aeaf1e052aa6db0c408be55a2bcb"
-sources:
-  - "/sources/news/2026-05-07/00__vista8__agent-native-演示框架-open-slide-当幻灯片成为-agent-的输出格式.md"
 ---
 
 # Agent-Native 演示框架 open-slide：当幻灯片成为 Agent 的输出格式

@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "卡兹克锐评：AI 用得好不好，本质越来越是「会不会管人」的问题"
 description: "**[AI 使用能力 = 管理能力的下半场]** · 观察：Agent 调度、prompt 工程、上下文管理，越来越像带人——目标对齐、过程纠偏、预期管理 · 含义：未来稀缺的可能是组织行为学，而不是 prompt 技巧 · 对应岗位的迁移：AI Product Owner / Agent Manager 的权重会高于 Prompt Engineer · 反向推论：如果管 AI 像管人，那管人也得"
 resource: "https://x.com/i/status/2068927263035506977"
@@ -22,13 +22,6 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "ai-management-philosophy"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2068927263035506977"
-created: "2026-06-22"
-updated: "2026-06-26"
-sha256: "ac700aefb806f24483402dd05b57a257ce2694c88e6edaaf24abb98824e288b6"
-sources:
-  - "/sources/highlights/2026-06-22/00__Khazix0918__卡兹克锐评-ai-用得好不好-本质越来越是-会不会管人-的问题.md"
 ---
 
 # 卡兹克锐评：AI 用得好不好，本质越来越是「会不会管人」的问题

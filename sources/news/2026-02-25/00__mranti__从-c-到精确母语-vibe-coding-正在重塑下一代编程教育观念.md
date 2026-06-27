@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "从 C++ 到精确母语：Vibe Coding 正在重塑下一代编程教育观念"
 description: "**[核心逻辑]** 资深从业者放弃传统的信奥培训，选择带孩子通过 Vibe 模式用自然语言制作 3D 游戏，反映出 AI 时代编程核心竞争力的转移。  - 随着 AI 代码生成能力的飞速发展，传统的底层代码编写能力面临贬值风险。 - “精确使用母语”表达逻辑和架构，正在成为新时代的“C++”。 - 教育的重心开始从“学习语法”转向“利用 AI 创造自己喜欢的产品”。  [gakki 的锐评] 当"
 resource: "https://x.com/i/status/2026213924627259452"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2026213924627259452"
-created: "2026-02-24"
-updated: "2026-06-26"
-sha256: "fd7d573d5ba05441ae650bfbe80f70f4d5fa3278bf2ff7872852f209e1d8f571"
-sources:
-  - "/sources/news/2026-02-25/00__mranti__从-c-到精确母语-vibe-coding-正在重塑下一代编程教育观念.md"
 ---
 
 # 从 C++ 到精确母语：Vibe Coding 正在重塑下一代编程教育观念

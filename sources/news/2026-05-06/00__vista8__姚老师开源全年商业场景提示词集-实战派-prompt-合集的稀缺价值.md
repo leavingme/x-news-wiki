@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "姚老师开源全年商业场景提示词集：实战派 prompt 合集的稀缺价值"
 description: "**市面上充斥着炫技型提示词，真正来自商业场景验证的 prompt 合集依然是稀缺资源。**  - 来源真实业务需求，非实验室产物，直接可复用 - 覆盖商业写作、内容生产等实用场景  gakki 锐评：提示词工程的真正壁垒不在技巧，在于从真实业务中蒸馏出的场景理解——这份合集的价值在于它的「土味」。"
 resource: "https://x.com/i/status/2052027791546233050"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2052027791546233050"
-created: "2026-05-06"
-updated: "2026-06-26"
-sha256: "6a2b3562720b02d4fc6d3150393ebcc43f9486cee8d1f731ae85c68546400944"
-sources:
-  - "/sources/news/2026-05-06/00__vista8__姚老师开源全年商业场景提示词集-实战派-prompt-合集的稀缺价值.md"
 ---
 
 # 姚老师开源全年商业场景提示词集：实战派 prompt 合集的稀缺价值

@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "AI 邮件系统零成本落地：pricing→自动回复、bug→自动修、业务→转人工，Agent 自主工作流已非概念"
 description: "**一线战报：AI Agent 有了邮箱之后，真的开始干活了。**  用户演示了一套完整的 AI 邮件分类处理流程： - pricing 邮件 → AI 自动回复定价信息 - bug 邮件 → AI 提取关键信息生成工单，并自行修复代码 - 业务邮件 → 转发给人类跟进  配置成本接近于零：注册账号 + 给 Agent 塞一段脚本 + 设置通讯规则，三步完成部署。  这条推文的价值在于：它不是概念"
 resource: "https://x.com/i/status/2047306574767546759"
@@ -22,13 +22,6 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "ai-agent-tool-call-tax"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2047306574767546759"
-created: "2026-04-23"
-updated: "2026-06-26"
-sha256: "85784a66c580c50b4060bb74e5628987a4479aa81a57a30e64157fdccc76124f"
-sources:
-  - "/sources/highlights/2026-04-24/00__gkxspace__ai-邮件系统零成本落地-pricing-自动回复-bug-自动修-业务-转人工-agent-自主工作流已非概念.md"
 ---
 
 # AI 邮件系统零成本落地：pricing→自动回复、bug→自动修、业务→转人工，Agent 自主工作流已非概念

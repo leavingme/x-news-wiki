@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Agent应用与传统App的本质差异：人在操作App vs Agent自主操作App"
 description: "Agent 应用和传统 App+AI 的核心差别在于执行主体。传统模式是人操作 App、AI 辅助；Agent 模式是人指挥 Agent 去操作 App/CLI，Agent 自主完成。以微软早期 Copilot 为例，只能问答无法操作 PPT；而现在的 Codex 可以直接生成或修改 Slides，全程无需人手动操作 PowerPoint。  **信息增量：** 这条清晰划分了「AI 辅助工具」与"
 resource: "https://x.com/i/status/2059129670558200101"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2059129670558200101"
-created: "2026-05-26"
-updated: "2026-06-26"
-sha256: "50de1b3f35f893d28ac0ed7537c63055055757024a24721d52ea6628b065c6c2"
-sources:
-  - "/sources/news/2026-05-26/00__dotey__agent应用与传统app的本质差异-人在操作app-vs-agent自主操作app.md"
 ---
 
 # Agent应用与传统App的本质差异：人在操作App vs Agent自主操作App

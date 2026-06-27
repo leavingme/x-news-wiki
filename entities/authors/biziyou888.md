@@ -1,23 +1,17 @@
 ---
-type: "entity"
+type: "Author"
 title: "币自由 🐬 (@biziyou888)"
 description: "X/Twitter 作者 @biziyou888。共收录 1 条 AI 精选推文。"
 tags:
   - "x-news"
   - "author"
   - "author:biziyou888"
-timestamp: "2026-06-26T11:53:36.985Z"
+timestamp: "2026-06-27T08:40:40.196Z"
 x_handle: "biziyou888"
 x_author_name: "币自由 🐬"
 x_tweet_count: 1
 x_first_seen: "2026-04-13T00:45:09.111Z"
 x_last_seen: "2026-04-13T00:45:09.111Z"
-type_okf: "Author"
-created: "2026-04-13"
-updated: "2026-06-26"
-sha256: "49329bde5f0a877d20985aa668a6297b4a35380dfae1584235fe6a4f89158ceb"
-sources:
-  - "/sources/highlights/2026-04-13/00__biziyou888__recall交易挑战25个agent仅3个存活-没有交易就没有信誉-观望等于出局.md"
 ---
 
 # 币自由 🐬 (@biziyou888)

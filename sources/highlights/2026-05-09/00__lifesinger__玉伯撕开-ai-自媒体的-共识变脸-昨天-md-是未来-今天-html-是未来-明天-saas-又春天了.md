@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "玉伯撕开 AI 自媒体的「共识变脸」：昨天 md 是未来，今天 html 是未来，明天 SaaS 又春天了"
 description: "**AI 圈的话语通胀正在制造伪共识。**  - 玉伯指出一个荒诞现象：AI 自媒体从「md 是最好的格式，for agents 就是未来」急转弯到「html 更适合阅读和交互，开始 for human」，几乎没有非共识可言 - 他的推演极具讽刺张力：下一步是不是发现「SaaS 比 html 更适合表达」→「数据库比 md 更适合存储」→ SaaS 和 App 的春天又来了 - 核心批评是：当整个"
 resource: "https://x.com/i/status/2052974808196157810"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2052974808196157810"
-created: "2026-05-09"
-updated: "2026-06-26"
-sha256: "6e7f243c4f3b8146c9316e50e3db58e06bda373eccde94b210b4a9d64800d28f"
-sources:
-  - "/sources/highlights/2026-05-09/00__lifesinger__玉伯撕开-ai-自媒体的-共识变脸-昨天-md-是未来-今天-html-是未来-明天-saas-又春天了.md"
 ---
 
 # 玉伯撕开 AI 自媒体的「共识变脸」：昨天 md 是未来，今天 html 是未来，明天 SaaS 又春天了

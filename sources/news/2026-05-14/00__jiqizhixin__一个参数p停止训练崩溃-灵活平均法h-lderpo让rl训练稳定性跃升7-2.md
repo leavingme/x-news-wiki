@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "一个参数p停止训练崩溃：灵活平均法HölderPO让RL训练稳定性跃升7.2%"
 description: "**[RL训练崩溃问题迎来新解法：一个「p」参数控制信号放大强度]**  UCL、上海交大、港科大（广州）联合提出HölderPO，核心创新在于用可变指数p的Hölder平均替代固定求和：大p放大稀有关键信号，小p保持稳定，并引入p的动态调度。在数学基准上平均提升7.2%，达到54.9%，最终任务成功率达93.8%。  这一方法的价值不在于刷点，而在于它解决的是RL训练中「优势信号被稀释」这一根本"
 resource: "https://x.com/i/status/2054824390039363634"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2054824390039363634"
-created: "2026-05-14"
-updated: "2026-06-26"
-sha256: "646c4442fc2eeedee3290d64f77a2c7c68cd5cdc45b8da732604c08f325cd2c7"
-sources:
-  - "/sources/news/2026-05-14/00__jiqizhixin__一个参数p停止训练崩溃-灵活平均法h-lderpo让rl训练稳定性跃升7-2.md"
 ---
 
 # 一个参数p停止训练崩溃：灵活平均法HölderPO让RL训练稳定性跃升7.2%

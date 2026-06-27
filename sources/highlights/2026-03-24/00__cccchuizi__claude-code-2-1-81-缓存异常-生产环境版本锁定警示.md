@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Claude Code 2.1.81 缓存异常：生产环境版本锁定警示"
 description: "**[版本升级=性能雪崩，Token 消耗激增数倍]** • 2.1.81 版本存在缓存创建异常，导致上下文无法命中，Token 消耗多几倍 • 临时解决方案：降级至 2.1.77 及以下稳定版本，配置文件与记忆全保留 • 关键配置：设置 CLAUDE_CODE_DISABLE_NONESSENTIAL_TRAFFIC=true 停止自动更新 • 这是 Agent 工具链「版本脆弱性」的典型案例—"
 resource: "https://x.com/i/status/2036117534387388550"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2036117534387388550"
-created: "2026-03-23"
-updated: "2026-06-26"
-sha256: "e83bc28347fb8d51bcc900b19bf0082bd18fb049e7ad9a89448095c610051678"
-sources:
-  - "/sources/highlights/2026-03-24/00__cccchuizi__claude-code-2-1-81-缓存异常-生产环境版本锁定警示.md"
 ---
 
 # Claude Code 2.1.81 缓存异常：生产环境版本锁定警示

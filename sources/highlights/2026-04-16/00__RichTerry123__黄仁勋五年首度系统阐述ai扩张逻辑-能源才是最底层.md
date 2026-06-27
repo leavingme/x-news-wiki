@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "黄仁勋五年首度系统阐述AI扩张逻辑：能源才是最底层"
 description: "**[一句话核心判断]**  黄仁勋以个人名义发表《AI is a five layer cake》，将AI架构划分为能源→芯片→基础设施→模型→应用五层，明确能源是最底层约束。这是英伟达自2016年《Intelligent Industrial Revolution》以来最重要的战略宣言。  **信息增量：** - 英伟达估算AI基础设施仍需数万亿美元投入，远未饱和 - 明确AI不会替代人类，而"
 resource: "https://x.com/i/status/2031627424736358708"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2031627424736358708"
-created: "2026-03-11"
-updated: "2026-06-26"
-sha256: "f04c2aceaf5531d3cb405ff9875d8994809c65009f4e93ed1d473f84f756464e"
-sources:
-  - "/sources/highlights/2026-04-16/00__RichTerry123__黄仁勋五年首度系统阐述ai扩张逻辑-能源才是最底层.md"
 ---
 
 # 黄仁勋五年首度系统阐述AI扩张逻辑：能源才是最底层

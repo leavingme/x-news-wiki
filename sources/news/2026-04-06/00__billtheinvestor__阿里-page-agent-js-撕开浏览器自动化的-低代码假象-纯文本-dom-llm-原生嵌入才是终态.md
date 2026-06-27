@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "阿里 page-agent.js 撕开浏览器自动化的「低代码假象」：纯文本 DOM + LLM 原生嵌入才是终态"
 description: "**一句话核心判断** page-agent.js 证明 GUI 自动化根本不需要 GUI——一行 script 标签 + 纯文本 DOM 读取，干掉 Selenium/Puppeteer 全家桶。  **信息增量** • 纯文本读取 DOM，不依赖截图或多模态，Token 消耗比 Playwright/MCP 方案低 1-2 个数量级 • 天然嵌入网页，SaaS 集成 AI 助手、语音驱动 ER"
 resource: "https://x.com/i/status/2040974251310846131"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2040974251310846131"
-created: "2026-04-06"
-updated: "2026-06-26"
-sha256: "dba02be4ecf11b2ad21de7c96f5e57c40fcc342d549019bc2db0b7b251ce3390"
-sources:
-  - "/sources/news/2026-04-06/00__billtheinvestor__阿里-page-agent-js-撕开浏览器自动化的-低代码假象-纯文本-dom-llm-原生嵌入才是终态.md"
 ---
 
 # 阿里 page-agent.js 撕开浏览器自动化的「低代码假象」：纯文本 DOM + LLM 原生嵌入才是终态

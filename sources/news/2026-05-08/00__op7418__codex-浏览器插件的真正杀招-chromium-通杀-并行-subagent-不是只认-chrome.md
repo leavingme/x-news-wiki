@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Codex 浏览器插件的真正杀招：Chromium 通杀 + 并行 SubAgent，不是只认 Chrome"
 description: "**歸藏实测发现 Codex Chrome 插件可控制任何 Chromium 内核浏览器（如 Dia），并支持多 SubAgent 并行操作不同页面——这把「浏览器 Agent」的适用范围拉大了一个数量级。**  - Chromium 通杀：Edge、Arc、Dia 等均可被控制，不锁定 Chrome - 并行 SubAgent：可同时启动多个子任务操作不同网页，用户无感知 - Mac + Win"
 resource: "https://x.com/i/status/2052576841656099037"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2052576841656099037"
-created: "2026-05-08"
-updated: "2026-06-26"
-sha256: "c5923fb6693820669888856fcf10efe5d9637a37afc02a73530020440912fe4a"
-sources:
-  - "/sources/news/2026-05-08/00__op7418__codex-浏览器插件的真正杀招-chromium-通杀-并行-subagent-不是只认-chrome.md"
 ---
 
 # Codex 浏览器插件的真正杀招：Chromium 通杀 + 并行 SubAgent，不是只认 Chrome

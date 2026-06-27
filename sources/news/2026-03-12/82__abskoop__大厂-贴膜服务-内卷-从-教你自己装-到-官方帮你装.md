@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "大厂「贴膜服务」内卷：从「教你自己装」到「官方帮你装」"
 description: "**[一句话核心判断]** 百度「龙虾市集」标志着 Agent 部署竞争进入「零摩擦」阶段，大厂正通过人工服务补足产品化缺口，本质是抢占开发者入口。  - 数十名工程师一对一部署 + DuClaw 零部署订阅服务，降低使用门槛至「网页即用」 - 腾讯刚办完，百度立刻跟进，暗示大厂对开发者心智的争夺白热化 - 「以前是教你自己装，现在是官方下场帮你装」——产品化困境的曲线救国  gakki 锐评：当"
 resource: "https://x.com/i/status/2031765987377463553"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 82
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2031765987377463553"
-created: "2026-03-11"
-updated: "2026-06-26"
-sha256: "ba7a1394b434ea5285b4807c89d7d01595ff23a78fd9b9ceda4e915330034583"
-sources:
-  - "/sources/news/2026-03-12/82__abskoop__大厂-贴膜服务-内卷-从-教你自己装-到-官方帮你装.md"
 ---
 
 # 大厂「贴膜服务」内卷：从「教你自己装」到「官方帮你装」

@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "ccxray：把 Claude Code 的黑盒子撕开，让 50 个 MCP tool 的 token 消耗一览无余"
 description: "**[Claude Code 的不透明正在催生一个全新的\"调试层\"基础设施赛道]**  Claude Code 装了 50 多个 MCP server 和各种 skill，但用户根本不知道哪些被真正调用、每个 tool call 烧了多少 token、system prompt 里塞了什么。ccxray 通过透明 proxy 卡在 Claude Code 和 Anthropic API 中间，即时"
 resource: "https://x.com/i/status/2039988456055869576"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2039988456055869576"
-created: "2026-04-03"
-updated: "2026-06-26"
-sha256: "371a43517c16052e3b2b55ea47228caffb66a1a40af7c399e4f793ff0baa6302"
-sources:
-  - "/sources/news/2026-04-04/00__lis186__ccxray-把-claude-code-的黑盒子撕开-让-50-个-mcp-tool-的-token-消耗一览无余.md"
 ---
 
 # ccxray：把 Claude Code 的黑盒子撕开，让 50 个 MCP tool 的 token 消耗一览无余

@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Anthropic「自举式」Skill 生成器：AI 开始为自己写插件的临界点"
 description: "**AI 插件生产的自动化闭环已打通。**  • Anthropic 官方 skill-creator 实现「用 AI 写 AI 能力模块」，开发者只需自然语言描述需求即可生成完整 Skill 代码、目录结构与测试用例 • 标志着 Agent 工具链从「人工组装」向「自举生成」演进，大幅降低生态扩展门槛 • 预示 AI 的 App Store 时代加速到来：技能生产本身正在被自动化  ---  *"
 resource: "https://x.com/i/status/2029574562762125784"
@@ -22,13 +22,6 @@ x_selected: 2
 x_priority: 92
 x_related_topic: "claude-code-ecosystem"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2029574562762125784"
-created: "2026-03-05"
-updated: "2026-06-26"
-sha256: "d1892487f5f4af0015c6a2006c23398ecd5e8f76fa45dade802fa0b16ba97699"
-sources:
-  - "/sources/highlights/2026-03-06/92__oragnes__anthropic-自举式-skill-生成器-ai-开始为自己写插件的临界点.md"
 ---
 
 # Anthropic「自举式」Skill 生成器：AI 开始为自己写插件的临界点

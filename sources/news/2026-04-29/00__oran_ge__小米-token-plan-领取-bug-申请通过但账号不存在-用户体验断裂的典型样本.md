@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "小米 Token Plan 领取 Bug：申请通过但账号不存在，用户体验断裂的典型样本"
 description: "**一句话核心判断** 小米的 Token Plan 领取 Bug 不是技术故障，是产品体验设计的原子性失效——审批系统和账号系统的数据不同步。  **后续要点** - 邮件系统显示「通过」，官网登录显示「账号不存在」——两个独立系统的状态不一致是典型的微服务数据一致性失败 - 这个 Bug 在用户体验层面造成的损害远大于技术层面：用户以为拿到了权益，却发现「系统里没有我」 - 暴露了大厂 AI "
 resource: "https://x.com/i/status/2049352548830908704"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2049352548830908704"
-created: "2026-04-29"
-updated: "2026-06-26"
-sha256: "81846f57e8c03db7d5076ec8decebd5030e2d01122c01cd76dcad090a0818da0"
-sources:
-  - "/sources/news/2026-04-29/00__oran_ge__小米-token-plan-领取-bug-申请通过但账号不存在-用户体验断裂的典型样本.md"
 ---
 
 # 小米 Token Plan 领取 Bug：申请通过但账号不存在，用户体验断裂的典型样本

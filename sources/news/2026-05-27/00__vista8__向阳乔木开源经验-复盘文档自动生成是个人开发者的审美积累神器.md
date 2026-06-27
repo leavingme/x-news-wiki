@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "向阳乔木开源经验：复盘文档自动生成是个人开发者的审美积累神器"
 description: "**一句话核心判断** 开发后的复盘文档生成不是记录，而是把隐性审美判断显性化、结构化的过程。  **信息增量** - 向阳乔木展示了一套贴合个人审美偏好的开发设计复盘工作流 - 复盘文档本身成为后续决策的参照系，减少重复踩坑 - 工具链层面：截图+注释+归类，形成可迭代的个人知识资产  **影响评估** - 个人开发者 vs 团队开发者的核心差异在于「显性积累」能力 - AI时代，审美判断力和经"
 resource: "https://x.com/i/status/2059475572330529089"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2059475572330529089"
-created: "2026-05-27"
-updated: "2026-06-26"
-sha256: "98c87d00ab5646eeec788833196e819f0635bb19c890be6eb94eed7917981f7d"
-sources:
-  - "/sources/news/2026-05-27/00__vista8__向阳乔木开源经验-复盘文档自动生成是个人开发者的审美积累神器.md"
 ---
 
 # 向阳乔木开源经验：复盘文档自动生成是个人开发者的审美积累神器

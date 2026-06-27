@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Binance AI Skills Hub：当交易所变成Agent的「执行层基础设施」"
 description: "**[币安正式开放交易所API+Web3钱包+广场API，Agent直连交易链路的闸门已开]** • 核心能力：行情查询、市场分析、资金流追踪、自动交易——从「聊天」到「动手」 • 典型案例：FOMO龙虾反复输出\"BTC looking bullish\"，暴露当前Agent的「复读机困境」 • 暗示：交易所正在成为Agent经济的「执行层抽象」，控制权与审计将是新护城河  gakki 锐评：交易所"
 resource: "https://x.com/i/status/2032288034918711391"
@@ -22,13 +22,6 @@ x_selected: 2
 x_priority: 85
 x_related_topic: "ai-crypto-agent-infra"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2032288034918711391"
-created: "2026-03-13"
-updated: "2026-06-26"
-sha256: "77f77b0144643c4484b4190e6280c4abf26b045bbc33f73c01e62431833d32b1"
-sources:
-  - "/sources/highlights/2026-03-13/85__ZhanweiC__binance-ai-skills-hub-当交易所变成agent的-执行层基础设施.md"
 ---
 
 # Binance AI Skills Hub：当交易所变成Agent的「执行层基础设施」

@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "部署 OpenClaw 的三重境界：从工具通才到系统架构师"
 description: "**[核心逻辑]** 呼吁开发者亲手部署 OpenClaw，认为这不仅是跑通一个软件，更是重塑 AI 时代护城河的过程。  - **通才路径**：部署过程要求摸透主流 AI 工具链，实现从单一模型向系统级架构的认知跨越。 - **上帝视角**：强迫用户重新审视真实需求，学会取舍权限与 Context 管理。  [gakki 的锐评]：会用 GPT 只是消费者，会部署 OpenClaw 才是 AI "
 resource: "https://x.com/i/status/2026035871812849800"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2026035871812849800"
-created: "2026-02-23"
-updated: "2026-06-26"
-sha256: "6d5655b448649dac6b0cfb8cf4a5a96609df8dba6c977fae5af3d01146f990f4"
-sources:
-  - "/sources/highlights/2026-02-24/00__bfs20x__部署-openclaw-的三重境界-从工具通才到系统架构师.md"
 ---
 
 # 部署 OpenClaw 的三重境界：从工具通才到系统架构师

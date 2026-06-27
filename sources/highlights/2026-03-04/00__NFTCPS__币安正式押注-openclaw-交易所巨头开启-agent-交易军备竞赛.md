@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "币安正式押注 OpenClaw：交易所巨头开启「Agent 交易军备竞赛」"
 description: "**[头部交易所下场，AI Agent 经济自主权从概念走向实盘]**  • 币安上线 7 个 OpenClaw 交易 Skill，覆盖市场榜单、现货/合约交易，完成从「链上钱包」到「Agent 自主操作」的基础设施闭环。 • 交易策略外包给 Agent、执行层交给代码——这是对传统交易员职能的结构性拆解，也是「一人对冲基金」的基础设施拼图完成。  • Yi He 亲自站台，交易所赛道从「流量入口"
 resource: "https://x.com/i/status/2028861507107492301"
@@ -22,13 +22,6 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "agent-economic-autonomy"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2028861507107492301"
-created: "2026-03-03"
-updated: "2026-06-26"
-sha256: "eeea8d47d6493e39aa5294367e4d8fec227d73ae27fb43954b663cdd09c56b31"
-sources:
-  - "/sources/highlights/2026-03-04/00__NFTCPS__币安正式押注-openclaw-交易所巨头开启-agent-交易军备竞赛.md"
 ---
 
 # 币安正式押注 OpenClaw：交易所巨头开启「Agent 交易军备竞赛」

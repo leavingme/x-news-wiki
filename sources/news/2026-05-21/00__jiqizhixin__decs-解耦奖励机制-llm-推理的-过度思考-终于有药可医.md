@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "DECS 解耦奖励机制：LLM 推理的「过度思考」终于有药可医"
 description: "**[一句话核心判断]** RLVR 模型的思维链存在系统性效率损耗——生成超长推理路径但零收益，根源在于轨迹级奖励与 Token 级优化之间的错位。DECS 首创解耦 Token 级奖励机制，在不损伤性能的前提下精准剪除冗余 Token。  **信息增量：** - 现有长度惩罚机制反向伤害必要探索：它同时压制冗余和有效推理路径 - DECS 首次实现「奖励解耦」，让长度控制与核心推理质量独立优化"
 resource: "https://x.com/i/status/2057318215500636510"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2057318215500636510"
-created: "2026-05-21"
-updated: "2026-06-26"
-sha256: "31be636d3e8ebaf5c32f86044e1010b44d9b6ab69a58d3a6f667a3f29c130045"
-sources:
-  - "/sources/news/2026-05-21/00__jiqizhixin__decs-解耦奖励机制-llm-推理的-过度思考-终于有药可医.md"
 ---
 
 # DECS 解耦奖励机制：LLM 推理的「过度思考」终于有药可医

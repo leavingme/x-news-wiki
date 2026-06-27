@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Marswave 逆势扩招 Agent 工程师：行业人才缺口仍在"
 description: "**Agent 工程师的稀缺性在市场端持续验证。** - Orange AI 背后的 Marswave 宣布增加员工队伍，明确点名 Agent 工程师 - 在行业普遍讨论 AI 替代人力的语境下，头部 Agent 实践者反而在加码招人 - 这与此前“Agent 工程师不嫌多”的共识形成闭环：工程化能力仍是 Agent 从 demo 到生产的真正瓶颈  gakki 锐评：喊 Agent 取代人类最响"
 resource: "https://x.com/i/status/2052995231126376879"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2052995231126376879"
-created: "2026-05-09"
-updated: "2026-06-26"
-sha256: "12461ab29c83b9c660293c4d28ba95b37c044a6181f7bd714a316623cd856fb6"
-sources:
-  - "/sources/news/2026-05-09/00__oran_ge__marswave-逆势扩招-agent-工程师-行业人才缺口仍在.md"
 ---
 
 # Marswave 逆势扩招 Agent 工程师：行业人才缺口仍在

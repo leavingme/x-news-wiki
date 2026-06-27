@@ -1,23 +1,17 @@
 ---
-type: "entity"
+type: "Author"
 title: "Crypto信徒 π² ⌘ (✧ᴗ✧) (@JuliiStagnaro)"
 description: "X/Twitter 作者 @JuliiStagnaro。共收录 1 条 AI 精选推文。"
 tags:
   - "x-news"
   - "author"
   - "author:JuliiStagnaro"
-timestamp: "2026-06-26T11:53:36.988Z"
+timestamp: "2026-06-27T08:40:40.200Z"
 x_handle: "JuliiStagnaro"
 x_author_name: "Crypto信徒 π² ⌘ (✧ᴗ✧)"
 x_tweet_count: 1
 x_first_seen: "2026-04-18T12:44:58.659Z"
 x_last_seen: "2026-04-18T12:44:58.659Z"
-type_okf: "Author"
-created: "2026-04-18"
-updated: "2026-06-26"
-sha256: "50eb5ca400f7d694aa83deebfbc0904c250f5b998f211bf57a2be17339378dfd"
-sources:
-  - "/sources/highlights/2026-04-18/00__JuliiStagnaro__ai-agent进入-业绩裸奔-时代-recall用透明排名把叙事价值清零.md"
 ---
 
 # Crypto信徒 π² ⌘ (✧ᴗ✧) (@JuliiStagnaro)

@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "RL 后训练遵循幂律缩放：大模型越大越吃强化学习，但终有饱和点"
 description: "**大模型 RL 后训练存在可预测的幂律关系，但效率天花板清晰可见。**  - 中科大、牛津、上海 AI Lab 联合测试 Qwen2.5 系列（0.5B-72B），发现大模型在 RL 训练中计算效率和数据效率均显著更高 - 性能随资源投入呈可预测幂律增长，但大模型 RL 效率最终会饱和 - 数据受限时，总数据量比样本多样性更重要——这对小团队 RL 训练策略有直接指导意义  锐评：这篇论文的价值"
 resource: "https://x.com/i/status/2051006376722436409"
@@ -22,13 +22,6 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "推理与模型架构"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2051006376722436409"
-created: "2026-05-03"
-updated: "2026-06-26"
-sha256: "316d5316cda7183ecc98bc9ddc6a76e1477100a2df67cd5c56d3a2489b225718"
-sources:
-  - "/sources/news/2026-05-03/00__jiqizhixin__rl-后训练遵循幂律缩放-大模型越大越吃强化学习-但终有饱和点.md"
 ---
 
 # RL 后训练遵循幂律缩放：大模型越大越吃强化学习，但终有饱和点

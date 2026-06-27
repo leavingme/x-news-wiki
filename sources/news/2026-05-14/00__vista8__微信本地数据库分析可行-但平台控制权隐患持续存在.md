@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "微信本地数据库分析可行，但平台控制权隐患持续存在"
 description: "**[本地数据可分析，但主动权不在用户手上]**  向阳乔木指出，通过本地数据库分析微信数据理论上可行，但核心问题在于微信作为平台随时可能施加控制，用户缺乏主动权。  - 隐私数据的本地可迁移性与平台管控之间存在根本矛盾 - 用户侧数据分析能力 vs 平台侧治理权力的非对称性 - 这与 AI 时代数据主权讨论高度相关  gakki 的锐评：本地数据分析是用户的最后一块自留地，但这块地归不归你，终究"
 resource: "https://x.com/i/status/2054843981041901714"
@@ -22,13 +22,6 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "personal-intelligence-privacy"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2054843981041901714"
-created: "2026-05-14"
-updated: "2026-06-26"
-sha256: "92e80d76f1b826fc3c01ef18c9792f93d599d121f9424d4a0c3a4d6397b00a41"
-sources:
-  - "/sources/news/2026-05-14/00__vista8__微信本地数据库分析可行-但平台控制权隐患持续存在.md"
 ---
 
 # 微信本地数据库分析可行，但平台控制权隐患持续存在

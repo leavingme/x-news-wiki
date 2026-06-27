@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Claude Design 桌面端独立运行：脱离网页依赖，Opus 4.8 体验最佳，设计系统导入在路上"
 description: "**宝玉确认 Claude Design 桌面版不再依赖网页，本地即可运行，Opus 4.8 体验最佳；设计系统导入功能即将上线。**  • 本地化：桌面版实时预览，迭代更流畅 • 模型选择：Opus 4.8 在设计任务上表现最优 • 待上线：设计系统导入（即将支持）  从「网页工具」向「独立桌面应用」过渡，同时补齐企业级设计工作流的关键缺口——节奏符合 Claude 产品线近期的密集迭代。"
 resource: "https://x.com/i/status/2063511010917437579"
@@ -22,13 +22,6 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "claude-design-disruption"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2063511010917437579"
-created: "2026-06-07"
-updated: "2026-06-26"
-sha256: "2429db1f8b4c1523a1ebe2bdd873f52d1898fe981c6d56f07ce976e61cb10cb9"
-sources:
-  - "/sources/news/2026-06-07/00__dotey__claude-design-桌面端独立运行-脱离网页依赖-opus-4-8-体验最佳-设计系统导入在路上.md"
 ---
 
 # Claude Design 桌面端独立运行：脱离网页依赖，Opus 4.8 体验最佳，设计系统导入在路上

@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Seedance2.0冲击波：短剧行业的「百万级裁员」已经开始"
 description: "**[视频生成技术的产业级冲击比预期来得更快]** • 残酷现实：字节漫剧沙龙现场，短剧老板们正在批量裁员，真人短剧转向AI全自动化生产 • 关键节点：从「探索AI辅助」到「舍弃真人」的转变，只用了Seedance2.0一代产品的周期 • 社会代价：百万短剧从业者从就业到失业的转型窗口极短，行业洗牌没有缓冲带  这是AIGC「创造性破坏」的典型案例：技术迭代速度远超劳动力市场的适应能力。短剧作为「"
 resource: "https://x.com/i/status/2034611573017452828"
@@ -22,13 +22,6 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "ai-video-cinematic"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2034611573017452828"
-created: "2026-03-19"
-updated: "2026-06-26"
-sha256: "26f9b5c4ad82014e5a7e22d28d9c664ab3f5ded6c50a400bdde4ef49a45ba926"
-sources:
-  - "/sources/news/2026-03-20/00__gkxspace__seedance2-0冲击波-短剧行业的-百万级裁员-已经开始.md"
 ---
 
 # Seedance2.0冲击波：短剧行业的「百万级裁员」已经开始

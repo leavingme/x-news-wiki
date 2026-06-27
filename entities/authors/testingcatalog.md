@@ -1,23 +1,17 @@
 ---
-type: "entity"
+type: "Author"
 title: "TestingCatalog News 🗞 (@testingcatalog)"
 description: "X/Twitter 作者 @testingcatalog。共收录 1 条 AI 精选推文。"
 tags:
   - "x-news"
   - "author"
   - "author:testingcatalog"
-timestamp: "2026-06-26T11:53:36.995Z"
+timestamp: "2026-06-27T08:40:40.209Z"
 x_handle: "testingcatalog"
 x_author_name: "TestingCatalog News 🗞"
 x_tweet_count: 1
 x_first_seen: "2026-05-03T19:17:31.330Z"
 x_last_seen: "2026-05-03T19:17:31.330Z"
-type_okf: "Author"
-created: "2026-05-03"
-updated: "2026-06-26"
-sha256: "2ddd6b4d3a5ca71b31c8aad0a894bb3f64dc87396938106b1e6c1fe08efda186"
-sources:
-  - "/sources/news/2026-05-03/00__testingcatalog__gemini-ios-端全新设计曝光-google-正在把移动端做成-agent-超级入口.md"
 ---
 
 # TestingCatalog News 🗞 (@testingcatalog)

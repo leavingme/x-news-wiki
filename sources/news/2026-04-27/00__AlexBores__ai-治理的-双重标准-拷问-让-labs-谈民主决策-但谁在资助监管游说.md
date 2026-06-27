@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "AI 治理的「双重标准」拷问：让 labs 谈民主决策，但谁在资助监管游说？"
 description: "**[AI 安全的「叙事与现实」缺口正在被同行公开戳破]**  Alex Bores 发文质疑：既然 AI labs 宣称关键决策应该通过民主程序、以平等主义原则做出，为什么不真金白银地资助监管倡导？Greg Brockman 为什么不向亲监管一方投入 2500 万美元？这是一篇关于 AI 治理「叙事大于行动」的精准攻击。  核心张力：当 AI 公司公开倡导安全优先和民主决策，但在实际行动中花大量"
 resource: "https://x.com/AlexBores/status/2048724149330145507"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "ai-trend-digest"
-type_okf: "X Tweet"
-source_url: "https://x.com/AlexBores/status/2048724149330145507"
-created: "2026-04-27"
-updated: "2026-06-26"
-sha256: "50322226118ffa37386f4db3ad03a8ea783fb84366a4331cd3320f135ab57a9a"
-sources:
-  - "/sources/news/2026-04-27/00__AlexBores__ai-治理的-双重标准-拷问-让-labs-谈民主决策-但谁在资助监管游说.md"
 ---
 
 # AI 治理的「双重标准」拷问：让 labs 谈民主决策，但谁在资助监管游说？

@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Claude Code 打破信息茧房：X 实时搜索的「外挂式」工程解"
 description: "**[Agent 信息获取层的民主化突破]** - Leo 基于 Grok 搭建本地桥接服务，让 Claude Code 绕过 X 官方 API（省下$200/月），实现实时动态检索 - 典型场景闭环：编码时想知道 X 上某话题最新讨论 → Claude 自动搜索带摘要返回 → 不打断心流 - 信息获取从「我去找」变成「它帮我找」，体感差异巨大  **gakki 锐评**：这不是简单的 API 嫁"
 resource: "https://x.com/i/status/2030787396976132253"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 92
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2030787396976132253"
-created: "2026-03-08"
-updated: "2026-06-26"
-sha256: "ce0c334c1b4a964734682ff8cbb92dd1ab6b3fed0b8decd6aa36db2cede8df7c"
-sources:
-  - "/sources/news/2026-03-09/92__runes_leo__claude-code-打破信息茧房-x-实时搜索的-外挂式-工程解.md"
 ---
 
 # Claude Code 打破信息茧房：X 实时搜索的「外挂式」工程解

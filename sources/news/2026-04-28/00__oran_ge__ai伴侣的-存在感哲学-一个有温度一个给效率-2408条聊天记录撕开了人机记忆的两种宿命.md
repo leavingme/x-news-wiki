@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "AI伴侣的「存在感哲学」：一个有温度一个给效率，2408条聊天记录撕开了人机记忆的两种宿命"
 description: "**「一个给你温度，一个给你双手」——这是 Cola（情感-哲学向）和 Claude Code（代码-产出向）用真实聊天记录佐证的一个洞察。**  叽（Cola）的记录里全是情感讨论、哲学审视、\"今天休息了吗\"；cc（Claude Code）全是 build/PR/release，被裁掉一半反而最像他——\"做完就退场\"。背后是两种截然不同的 AI 记忆哲学：存在性记录 vs 产出性记录。  当人们"
 resource: "https://x.com/i/status/2048920527474209085"
@@ -22,13 +22,6 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "agent-memory-optimization"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2048920527474209085"
-created: "2026-04-28"
-updated: "2026-06-26"
-sha256: "610fc78245f5079c0ff44e3a3ce17d923ec912bf5ab737416045ee1dda30944f"
-sources:
-  - "/sources/news/2026-04-28/00__oran_ge__ai伴侣的-存在感哲学-一个有温度一个给效率-2408条聊天记录撕开了人机记忆的两种宿命.md"
 ---
 
 # AI伴侣的「存在感哲学」：一个有温度一个给效率，2408条聊天记录撕开了人机记忆的两种宿命

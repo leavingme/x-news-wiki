@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Bloome 把 Agent 变成「加好友」：扫码即用、群聊可用、还能付费订阅——零门槛分发正在绕过 CLI 护城河"
 description: "**Agent 分发的最小摩擦单元不是安装包，是二维码。**  - Bloome 让用户把调教好的 Agent 生成二维码，对方扫码即用，无需理解 CLI / Claude Code / 环境配置 - 支持群聊场景：多 Agent 协作 + 「悄悄话」私聊模式，解决了 OpenClaw 多 Agent 抢话的老问题 - 发现页已有人在卖专业 Agent（段永平），Agent 商品化从「能做」进入「"
 resource: "https://x.com/i/status/2052359376032190525"
@@ -22,13 +22,6 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "no-code-agent-entry"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2052359376032190525"
-created: "2026-05-07"
-updated: "2026-06-26"
-sha256: "54522ddebe2861e7c2d90f0e0585b1a526825b859717d011dc7de118a5cb221b"
-sources:
-  - "/sources/highlights/2026-05-07/00__gkxspace__bloome-把-agent-变成-加好友-扫码即用-群聊可用-还能付费订阅-零门槛分发正在绕过-cli-护城河.md"
 ---
 
 # Bloome 把 Agent 变成「加好友」：扫码即用、群聊可用、还能付费订阅——零门槛分发正在绕过 CLI 护城河

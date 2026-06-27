@@ -1,23 +1,17 @@
 ---
-type: "entity"
+type: "Author"
 title: "Herman Jin (@ShanghaoJin)"
 description: "X/Twitter 作者 @ShanghaoJin。共收录 1 条 AI 精选推文。"
 tags:
   - "x-news"
   - "author"
   - "author:ShanghaoJin"
-timestamp: "2026-06-26T11:53:36.916Z"
+timestamp: "2026-06-27T08:40:40.125Z"
 x_handle: "ShanghaoJin"
 x_author_name: "Herman Jin"
 x_tweet_count: 1
 x_first_seen: "2026-02-04T13:01:02.200Z"
 x_last_seen: "2026-02-04T13:01:02.200Z"
-type_okf: "Author"
-created: "2026-02-04"
-updated: "2026-06-26"
-sha256: "ae959d849f9182f256ea46df7c797f51b00c016e85f407cb24628dcb861ff5b7"
-sources:
-  - "/sources/news/2026-02-04/00__ShanghaoJin__openai-收入激增背后-ai-正在吃掉-b2b-软件与人力岗位.md"
 ---
 
 # Herman Jin (@ShanghaoJin)

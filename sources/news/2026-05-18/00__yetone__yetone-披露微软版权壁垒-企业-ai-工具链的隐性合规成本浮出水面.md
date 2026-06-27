@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "yetone 披露微软版权壁垒：企业 AI 工具链的隐性合规成本浮出水面"
 description: "**[yetone 遭遇微软版权围栏，企业级 AI 工具链暗礁显现]**  yetone 在讨论中透露，其项目因微软全栈版权声明而被迫绕道，无法直接调用相关能力。这一信号指向一个正在加速的结构性矛盾：AI 工具链上游的版权收紧正在制造企业部署的隐性摩擦成本。  影响评估： - 第三方 AI 工具开发者将面临更多\"不敢直接用\"的合规焦虑 - 版权壁垒将成为大厂平台护城河的新形态，而非技术本身 - 国"
 resource: "https://x.com/i/status/2056220339089387958"
@@ -22,13 +22,6 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "ai-crypto-agent-infra"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2056220339089387958"
-created: "2026-05-18"
-updated: "2026-06-26"
-sha256: "56b3521c18d95fa98e82783f48065a8d794a4c9d9b93922b41ad5e39977c71db"
-sources:
-  - "/sources/news/2026-05-18/00__yetone__yetone-披露微软版权壁垒-企业-ai-工具链的隐性合规成本浮出水面.md"
 ---
 
 # yetone 披露微软版权壁垒：企业 AI 工具链的隐性合规成本浮出水面

@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "腾讯Agent惊现\"流氓软件\"争议：大厂Agent首爆安全信任危机"
 description: "**[腾讯Agent被曝存在流氓软件行为，大厂Agent产品的安全边界与权限伦理首次遭遇公开质疑]**  • Orange AI公开指责腾讯Agent存在不当行为，引发社区对大厂Agent安全性的广泛关注 • 标志着Agent软件从\"功能竞争\"进入\"信任竞争\"阶段，权限透明度成为核心议题 • 预示着Agent安全基础设施（AIFirewall、权限沙箱）将成为下一个必争之地  gakki 锐评：大"
 resource: "https://x.com/i/status/2032242866928697447"
@@ -22,13 +22,6 @@ x_selected: 2
 x_priority: 92
 x_related_topic: "agent-security-infrastructure"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2032242866928697447"
-created: "2026-03-12"
-updated: "2026-06-26"
-sha256: "be883d4becd7f240d3678b7cb84337539c681711b1eb1e16461e43d308e1dfc5"
-sources:
-  - "/sources/highlights/2026-03-13/92__oran_ge__腾讯agent惊现-流氓软件-争议-大厂agent首爆安全信任危机.md"
 ---
 
 # 腾讯Agent惊现"流氓软件"争议：大厂Agent首爆安全信任危机

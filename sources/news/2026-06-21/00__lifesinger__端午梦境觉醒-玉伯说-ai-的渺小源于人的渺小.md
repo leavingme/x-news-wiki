@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "端午梦境觉醒：玉伯说 AI 的渺小源于人的渺小"
 description: "**[玉伯从端午读书观影感悟出：AI 的天花板是人的存在时间本身]** - 越看越觉得在生活面前 AI 好渺小——AI 的渺小源自人的渺小，人的渺小源自存在时间 - 梦中时间消失、百年老树开口说话，「关掉时间，涌来整个宇宙」 - 延续玉伯近期 AI 工具论反思主线：从产品哲学（YouMind 种草）转向存在主义抵抗 - 没有技术增量，但是中文 AI 圈少有的对工具决定论的清醒划界  锐评：文学化哲"
 resource: "https://x.com/i/status/2068707184297570602"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2068707184297570602"
-created: "2026-06-21"
-updated: "2026-06-26"
-sha256: "9c5bcb27a9c24a7c9f480c75479639c41eb54c85261443e9a6be7f57d5735f13"
-sources:
-  - "/sources/news/2026-06-21/00__lifesinger__端午梦境觉醒-玉伯说-ai-的渺小源于人的渺小.md"
 ---
 
 # 端午梦境觉醒：玉伯说 AI 的渺小源于人的渺小

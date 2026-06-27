@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "宝玉立规矩：Claude Design → Code 单向同步，别让设计稿沦为副产物"
 description: "**宝玉把\"Claude Design 作为唯一设计源\"写入工程纪律第10 条，强制 Design → Code 单向流程。**  要点： - 开发期调整必须先改设计稿再改代码，临时改代码也要回写设计稿 -核心目的是防止双端版本漂移——这是 AI Coding时代最隐蔽的技术债 - 这是流程纪律而非工具偏好：哪怕用 Figma 也成立，<think>The previous response wa"
 resource: "https://x.com/i/status/2064864295540728054"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2064864295540728054"
-created: "2026-06-11"
-updated: "2026-06-26"
-sha256: "e4c607f07e854766e845b5145fb52a49f108f82902e90c470893e14794e28490"
-sources:
-  - "/sources/news/2026-06-11/00__dotey__宝玉立规矩-claude-design-code-单向同步-别让设计稿沦为副产物.md"
 ---
 
 # 宝玉立规矩：Claude Design → Code 单向同步，别让设计稿沦为副产物

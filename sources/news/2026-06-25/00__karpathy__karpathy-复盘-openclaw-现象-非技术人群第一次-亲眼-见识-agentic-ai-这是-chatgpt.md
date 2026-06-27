@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Karpathy 复盘 OpenClaw 现象：非技术人群第一次「亲眼」见识 agentic AI，这是 ChatGPT 时刻的镜像"
 description: "**Karpathy 给出一个非显然的判断：OpenClaw 的爆火之所以巨大，是因为它把「只把 AI 当 ChatGPT 网页的非技术人群」第一次推到了最新 agentic 模型面前。**  - 他隐含的对比是：ChatGPT 时刻让大众「听说了 AI」，OpenClaw 时刻让大众「用到了 agent」——后者才是真正改变预期的临界点 - 这个观察解释了为什么 OpenClaw 生态在零代码、"
 resource: "https://x.com/i/status/2042341482531864741"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2042341482531864741"
-created: "2026-04-09"
-updated: "2026-06-26"
-sha256: "b8ec5ccf56dc35f1cc821127dc067a4d10989ba9ebabaf832a722c9f4ae16714"
-sources:
-  - "/sources/news/2026-06-25/00__karpathy__karpathy-复盘-openclaw-现象-非技术人群第一次-亲眼-见识-agentic-ai-这是-chatgpt.md"
 ---
 
 # Karpathy 复盘 OpenClaw 现象：非技术人群第一次「亲眼」见识 agentic AI，这是 ChatGPT 时刻的镜像

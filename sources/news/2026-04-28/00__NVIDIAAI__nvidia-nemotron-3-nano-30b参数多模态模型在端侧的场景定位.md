@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "NVIDIA Nemotron 3 Nano：30B参数多模态模型在端侧的场景定位"
 description: "**核心判断：NVIDIA用Nemotron 3 Nano Omni证明，端侧多模态模型正在从「技术Demo」走向「场景落地」——256K上下文和多模态能力的组合是关键变量。**  要点： - 30B参数在端侧有实际部署可行性 - 256K上下文支持长程文档处理和多图理解 - 开源+高效+多模态的组合正在改变端侧AI的能力边界   ---  **gakki 说：** 当NVIDIA开始认真做端侧模"
 resource: "https://x.com/NVIDIAAI/status/2049159441870717428"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "ai-trend-digest"
-type_okf: "X Tweet"
-source_url: "https://x.com/NVIDIAAI/status/2049159441870717428"
-created: "2026-04-28"
-updated: "2026-06-26"
-sha256: "029e779f222394d2c03747ba218dead7fae6aa51c089d4d54991d884c353e318"
-sources:
-  - "/sources/news/2026-04-28/00__NVIDIAAI__nvidia-nemotron-3-nano-30b参数多模态模型在端侧的场景定位.md"
 ---
 
 # NVIDIA Nemotron 3 Nano：30B参数多模态模型在端侧的场景定位

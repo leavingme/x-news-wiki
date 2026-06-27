@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "yetone的「反FOMO宣言」：AI时代的情绪稳定剂"
 description: "**[技术从业者对AI极端叙事的反思：既非颠覆一切，也非人类末日，「一般情况」才是常态]**  • 现象诊断：社会陷入AI双相情感障碍——要么狂妄认为AI可替代一切，要么悲观认为人类将灭绝 • 核心主张：技术进步是渐进的，「普通地活着、普通地死去」才是大多数人的真实状态 • 隐含警示：极端叙事往往服务于资本炒作，而非真实的技术价值判断  gakki 锐评：在所有人都在喊「AI改变一切」或「AI泡沫"
 resource: "https://x.com/i/status/2032895189564666013"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 88
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2032895189564666013"
-created: "2026-03-14"
-updated: "2026-06-26"
-sha256: "d98ea2c7fdc8242924a7c76eb7b0288232afa13eee3701c6688e0fb0e5be80e2"
-sources:
-  - "/sources/news/2026-03-15/88__yetone__yetone的-反fomo宣言-ai时代的情绪稳定剂.md"
 ---
 
 # yetone的「反FOMO宣言」：AI时代的情绪稳定剂

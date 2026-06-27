@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "AI 把英语翻译拉成\"普惠水电\"，但英语本身仍是那张信任通行证"
 description: "**AI 让英语翻译成为人人可调用的标准化服务，但语言能力的真正回报从来不在\"能翻译\"，而在对方能否感知到信任。**  - AI 翻译本质是 commoditized public service，使用门槛归零、差异化也归零 - 人类掌握英语的不可替代价值，是\"更直接、难以言传的信任\"——一种 AI 复刻不了的关系层 - 这条边界对所有\"AI 替代焦虑\"行业同样适用：被替代的是服务，不是关系   "
 resource: "https://x.com/i/status/2064189968000631250"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2064189968000631250"
-created: "2026-06-09"
-updated: "2026-06-26"
-sha256: "826e68b2b49d38cca6f5beff0d649df61f9f5ebdcd7a28d90146ed4b1a7ee3b4"
-sources:
-  - "/sources/news/2026-06-09/00__mranti__ai-把英语翻译拉成-普惠水电-但英语本身仍是那张信任通行证.md"
 ---
 
 # AI 把英语翻译拉成"普惠水电"，但英语本身仍是那张信任通行证

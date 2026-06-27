@@ -1,24 +1,17 @@
 ---
-type: "entity"
+type: "Author"
 title: "0xluna (@ruyiruna)"
 description: "X/Twitter 作者 @ruyiruna。共收录 2 条 AI 精选推文。"
 tags:
   - "x-news"
   - "author"
   - "author:ruyiruna"
-timestamp: "2026-06-26T11:53:36.985Z"
+timestamp: "2026-06-27T08:40:40.196Z"
 x_handle: "ruyiruna"
 x_author_name: "0xluna"
 x_tweet_count: 2
 x_first_seen: "2026-04-14T00:45:15.125Z"
 x_last_seen: "2026-04-14T00:45:15.125Z"
-type_okf: "Author"
-created: "2026-04-14"
-updated: "2026-06-26"
-sha256: "3a07f1f775bc829f0e3e8086ff542bf42ab3354fde526286fc2aea293e776c9e"
-sources:
-  - "/sources/news/2026-04-14/00__ruyiruna__irys-8-55-亿笔交易验证-可编程数据链-存储与执行合体才是-ai-数据的正确打开方式.md"
-  - "/sources/news/2026-04-14/00__ruyiruna__irys双账本架构-链上数据从-静态存储-进入-可执行状态-时代.md"
 ---
 
 # 0xluna (@ruyiruna)

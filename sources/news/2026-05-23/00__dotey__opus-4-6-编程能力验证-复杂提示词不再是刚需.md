@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Opus 4.6 编程能力验证：复杂提示词不再是刚需"
 description: "**[一线从业者亲测：Opus 4.6 代码能力已跨过「直觉门槛」]**  宝玉援引实测反馈指出，使用 Opus 4.6 进行编程任务时，已不需要精心设计复杂提示词。这条来自生态位较高开发者（宝玉自身的技术判断力在圈内有公信力）的实测信号值得关注。  - **信息增量**：不是评测数据，而是「体感门槛已过」的一手判断——模型能力的实用跨越，比 benchmark 数字更有参考价值 - **影响范围"
 resource: "https://x.com/i/status/2058309384447361223"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2058309384447361223"
-created: "2026-05-23"
-updated: "2026-06-26"
-sha256: "a590d29451d55ba8f6f35ec18af10d6478e65d72dbe7297b35c680f6351e9c88"
-sources:
-  - "/sources/news/2026-05-23/00__dotey__opus-4-6-编程能力验证-复杂提示词不再是刚需.md"
 ---
 
 # Opus 4.6 编程能力验证：复杂提示词不再是刚需

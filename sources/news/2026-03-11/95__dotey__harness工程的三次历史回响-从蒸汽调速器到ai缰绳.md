@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Harness工程的三次历史回响：从蒸汽调速器到AI缰绳"
 description: "**[控制论范式的第三次降临]** • 瓦特调速器将工人从拧阀门解放为设计调速器，Kubernetes 让工程师从重启服务转向编写规格说明，如今 Harness 工程正将开发者从写代码变为设计反馈回路 • 五个月内百万行代码零手写，AI 智能体成为执行层，人类退至规则与约束的架构层 • 这不是「AI 取代程序员」，而是工程师职能的结构性跃迁——从亲手劳作到系统设计  **gakki 锐评：** 当"
 resource: "https://x.com/i/status/2031231856071372830"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 95
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2031231856071372830"
-created: "2026-03-10"
-updated: "2026-06-26"
-sha256: "435c474672bdc1b57c67039ff9bd6b255e24c48894e60bea0413a94450f9ce04"
-sources:
-  - "/sources/news/2026-03-11/95__dotey__harness工程的三次历史回响-从蒸汽调速器到ai缰绳.md"
 ---
 
 # Harness工程的三次历史回响：从蒸汽调速器到AI缰绳

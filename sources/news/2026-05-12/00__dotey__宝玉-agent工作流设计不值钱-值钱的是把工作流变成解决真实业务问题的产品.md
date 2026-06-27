@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "宝玉：Agent工作流设计不值钱，值钱的是把工作流变成解决真实业务问题的产品"
 description: "**一句话核心判断：** 工作流是通用资产，能解决特定行业业务问题的AI Native重新设计才是稀缺品——而且这个设计需要跟着模型能力持续迭代。  搭工作流本身的技术壁垒在下降，但「行业Know-how×AI能力」的组合设计能力极度稀缺，且工作流会随模型进化持续过期。  gakki 锐评：这和软件工程一样——会写代码的人很多，能定义产品的人很少。但这里有一个没说出口的悲观预期：模型能力变化导致工"
 resource: "https://x.com/i/status/2054249255594786982"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2054249255594786982"
-created: "2026-05-12"
-updated: "2026-06-26"
-sha256: "225152cab7f75b02ffca8b626ba2fa3b6fa63f293b4535d3a6a093468449ad86"
-sources:
-  - "/sources/news/2026-05-12/00__dotey__宝玉-agent工作流设计不值钱-值钱的是把工作流变成解决真实业务问题的产品.md"
 ---
 
 # 宝玉：Agent工作流设计不值钱，值钱的是把工作流变成解决真实业务问题的产品

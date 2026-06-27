@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Claude Code 进化出「手」：Computer Use 让 AI 从写代码到亲手测试"
 description: "**[AI 编码工具正式跨越「写完即走」的边界，进入「写完即测」的闭环时代]**  • Anthropic 将 Computer Use 能力原生集成进 Claude Code，支持 macOS 桌面操控：编译、启动、点击、截图、修 bug 全流程自动化 • 安全机制设计成熟：单应用授权、终端窗口屏蔽、Esc 中断、高权限应用额外警告，体现对生产环境的敬畏 • 研究预览阶段仅限 Pro/Max 订"
 resource: "https://x.com/i/status/2038671395631108220"
@@ -22,13 +22,6 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "claude-code-ecosystem"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2038671395631108220"
-created: "2026-03-30"
-updated: "2026-06-26"
-sha256: "47c525cbb8955f5bd4afd4609ab8bddb4ad8a3255a8a2ccf947977fd69c5c0cc"
-sources:
-  - "/sources/highlights/2026-03-31/00__dotey__claude-code-进化出-手-computer-use-让-ai-从写代码到亲手测试.md"
 ---
 
 # Claude Code 进化出「手」：Computer Use 让 AI 从写代码到亲手测试

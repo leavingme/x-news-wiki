@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Chrome DevTools Protocol 正在成为浏览器 Agent 的底层标准：比 MCP 更原生、更快的自动化路径"
 description: "**Chrome DevTools Protocol 正在从开发者调试工具升格为浏览器 Agent 的首选底层协议。**  - 向阳乔木实测确认：基于 CDP 的 Chrome 插件比现有方案更原生、速度更快 - CDP 绕过了传统的页面注入/截图识别链路，直接操作浏览器内部状态，对 Agent 来说是更低延迟的感知-执行通道 - 这意味着浏览器自动化的技术选型正在分化：CDP 代表「深度集成」路"
 resource: "https://x.com/i/status/2052654546456093126"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2052654546456093126"
-created: "2026-05-08"
-updated: "2026-06-26"
-sha256: "f4f43608761ee83a4120feb50909f3bbd3d5537092597d2d9eea4cc7cfe05a62"
-sources:
-  - "/sources/news/2026-05-08/00__vista8__chrome-devtools-protocol-正在成为浏览器-agent-的底层标准-比-mcp-更原生-更快的自动.md"
 ---
 
 # Chrome DevTools Protocol 正在成为浏览器 Agent 的底层标准：比 MCP 更原生、更快的自动化路径

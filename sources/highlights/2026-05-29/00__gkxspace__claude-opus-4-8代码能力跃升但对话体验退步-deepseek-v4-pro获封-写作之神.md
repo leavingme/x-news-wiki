@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Claude Opus 4.8代码能力跃升但对话体验退步，DeepSeek V4 Pro获封「写作之神」"
 description: "**模型能力分叉开始。**  实测Claude Opus 4.8：代码和debug能力确实比上代强，但对话体验比4.7更别扭，用户反馈「创作脑关机」——AI无法在对话中实现反思性引导，对话节奏被打破。  与此同时DeepSeek V4 Pro在写作赛道封神，用户直接宣布其为「写作的神」。  代码和写作的模型分工正在形成：垂直模型吃掉通用模型的中间地带。  **gakki**：Claude Opus"
 resource: "https://x.com/i/status/2060241637150806116"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2060241637150806116"
-created: "2026-05-29"
-updated: "2026-06-26"
-sha256: "3c4e10f0e3349c5fd882439583ff84c33f8b3fefcd72e346933964d3412dd34d"
-sources:
-  - "/sources/highlights/2026-05-29/00__gkxspace__claude-opus-4-8代码能力跃升但对话体验退步-deepseek-v4-pro获封-写作之神.md"
 ---
 
 # Claude Opus 4.8代码能力跃升但对话体验退步，DeepSeek V4 Pro获封「写作之神」

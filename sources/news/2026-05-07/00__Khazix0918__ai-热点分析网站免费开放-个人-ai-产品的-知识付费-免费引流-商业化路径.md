@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "AI 热点分析网站免费开放：个人 AI 产品的「知识付费→免费引流」商业化路径"
 description: "**封装了三年自媒体经验的 AI 热点网站免费开放——这是 AI 内容创业从付费墙转向流量运营的又一个样本。**  - 作者将三年自媒体经验封装为 AI 驱动的热点分析工具 - 从收费模式转为免费开放，暗示商业模型从工具收费转向其他变现路径 - 反映国内 AI 内容创业的典型策略：先积累方法论，再用 AI 规模化，最后用免费抢市场  锐评：「三年经验封装」是最有价值的部分，AI 只是放大器。但免费"
 resource: "https://x.com/i/status/2052234427233939808"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2052234427233939808"
-created: "2026-05-07"
-updated: "2026-06-26"
-sha256: "7e3a34cf98e9a8f88b6862a4148eec93bc547df383f1d0711f758b32dd9ae992"
-sources:
-  - "/sources/news/2026-05-07/00__Khazix0918__ai-热点分析网站免费开放-个人-ai-产品的-知识付费-免费引流-商业化路径.md"
 ---
 
 # AI 热点分析网站免费开放：个人 AI 产品的「知识付费→免费引流」商业化路径

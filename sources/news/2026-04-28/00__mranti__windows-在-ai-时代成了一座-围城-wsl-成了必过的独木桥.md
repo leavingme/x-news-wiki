@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Windows 在 AI 时代成了一座「围城」：WSL 成了必过的独木桥"
 description: "**[Windows 对现代 AI 工具链的兼容性困境正在加速开发者向 Linux 本地迁移]**  • **现象**：几乎所有主流 Agent 工具（Codex CLI、Claude Code 等）都要求 Linux 环境才能完整安装，Windows 用户被迫使用 WSL2 作为折中。 • **讽刺**：WSL2 是虚拟机层，它比直接用 Linux 多了 15-30% 的性能损耗，同时引入了文件"
 resource: "https://x.com/i/status/2049039966098067679"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2049039966098067679"
-created: "2026-04-28"
-updated: "2026-06-26"
-sha256: "ff83b267f24551d176153aa790ba176c2053ff3d80dbe2a1c7d0b6c16da3be13"
-sources:
-  - "/sources/news/2026-04-28/00__mranti__windows-在-ai-时代成了一座-围城-wsl-成了必过的独木桥.md"
 ---
 
 # Windows 在 AI 时代成了一座「围城」：WSL 成了必过的独木桥

@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Orbit 框架把万亿参数 LLM 强化学习压到 8 张卡：步进提速 71%、训练等待砍掉 81%"
 description: "**8 张 GPU 就能 RL 训万亿参数 LLM，RL 训练的算力门槛被打穿。**  - 核心机制：base model 冻结只训轻量 BF16 adapter，把同步 RL 改成稳定高效调度 - 实测指标：step time 提速 71%、rollout 吞吐提升 50%、训练等待时间下降 81% - 已落地验证：Kimi-K2.6、DeepSeek V4-Pro、Qwen3 MoE 三大国产"
 resource: "https://x.com/i/status/2064062152961659161"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2064062152961659161"
-created: "2026-06-08"
-updated: "2026-06-26"
-sha256: "aa5207400ea127cbc95674a20d1061387e2a6c05b7ce3cca850dba3886f013d6"
-sources:
-  - "/sources/highlights/2026-06-08/00__jiqizhixin__orbit-框架把万亿参数-llm-强化学习压到-8-张卡-步进提速-71-训练等待砍掉-81.md"
 ---
 
 # Orbit 框架把万亿参数 LLM 强化学习压到 8 张卡：步进提速 71%、训练等待砍掉 81%

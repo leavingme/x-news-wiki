@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Loop Engineering：当 AI 从\"答题\"变\"执行流程\"，prompt 不再是胜负手"
 description: "**[一句话核心判断]** \"Loop Engineering\" 概念的走红标志着 AI 工程的重心正在从 prompt 工程转向流程工程：谁设计循环，谁就是新的产品经理。  - 老焦点：怎么写一句好提示词（角色扮演、CoT、结构化输出）——一次性启动口令 - 新焦点：流程的推进/检查/记忆/刹车机制——AI 跑完后谁判断对错？失败了重试还是换路？上下文跨轮怎么接？什么时候必须交给人？ - 核心矛"
 resource: "https://x.com/i/status/2066756739052007536"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2066756739052007536"
-created: "2026-06-16"
-updated: "2026-06-26"
-sha256: "b617b4da4b65bbceab4cfee72582cb38ec5dddcb988a2992690801fe6b41fe00"
-sources:
-  - "/sources/news/2026-06-16/00__Zesee__loop-engineering-当-ai-从-答题-变-执行流程-prompt-不再是胜负手.md"
 ---
 
 # Loop Engineering：当 AI 从"答题"变"执行流程"，prompt 不再是胜负手

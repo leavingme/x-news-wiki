@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "StarVLA：用乐高思维拆解具身智能，机器人开发进入「模块化组装」时代"
 description: "**一句话核心判断：机器人开发正在从「手写」走向「组装」，StarVLA 用可插拔架构重新定义 VLA 模型的工程边界。**  - StarVLA 允许独立替换视觉-语言 backbone 和动作 head，匹配或超越 LIBERO、SimplerEnv、RoboCasa、BEHAVIOR-1K 等主流基准测试，验证了模块化在具身任务中的可行性 - 开源 codebase 与论文同步释放，降低了具"
 resource: "https://x.com/i/status/2055996003241930920"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2055996003241930920"
-created: "2026-05-17"
-updated: "2026-06-26"
-sha256: "d636f449eccccd95f595a26315de89914389ba6bf3202d7d51c26c25cb99098f"
-sources:
-  - "/sources/news/2026-05-17/00__jiqizhixin__starvla-用乐高思维拆解具身智能-机器人开发进入-模块化组装-时代.md"
 ---
 
 # StarVLA：用乐高思维拆解具身智能，机器人开发进入「模块化组装」时代

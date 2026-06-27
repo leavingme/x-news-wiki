@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "傅盛、孙宇晨入局 AI 中转，天策自称「阶级斗争」：AI 基础设施的入口战已从技术层下沉到渠道层"
 description: "**AI API 中转赛道涌入名人资本，竞争焦点从技术壁垒转向渠道分发与利润分配机制。**  - 傅盛和孙宇晨（孙哥）亲自下场做 AI 中转业务，赛道热度从草根创业升级为资本级关注 - 天策声称日过万但不靠价格或质量竞争，核心命题是「让渠道方赚钱」——典型的平台经济打法 - 信号：AI 基础设施的商品化已传导至分发层，中转赛道可能重演 CDN 价格战剧本  **gakki 锐评：**当中转业务开始"
 resource: "https://x.com/i/status/2050606642689949972"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2050606642689949972"
-created: "2026-05-02"
-updated: "2026-06-26"
-sha256: "c96864f24a214506bd4f69ea7b70886b0ac203e6e5f0c1dc554f79e1ce16452a"
-sources:
-  - "/sources/news/2026-05-02/00__Leobai825__傅盛-孙宇晨入局-ai-中转-天策自称-阶级斗争-ai-基础设施的入口战已从技术层下沉到渠道层.md"
 ---
 
 # 傅盛、孙宇晨入局 AI 中转，天策自称「阶级斗争」：AI 基础设施的入口战已从技术层下沉到渠道层

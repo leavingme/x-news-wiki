@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "正交性约束：南京大学等揭示Task Arithmetic的失效根因并给出解法"
 description: "**南京大学、卧龙岗大学、新加坡南洋理工联合提出 OrthoReg 方法。核心发现：当前 Task Arithmetic 失败的根本原因在于权重更新时缺乏正交性约束，导致任务向量纠缠。OrthoReg 通过在微调期间对权重更新施加正交性约束，实现权重解耦，在多个 Task Arithmetic 方法上一致性提升表现。**  信息增量： - 首次从权重几何结构角度解释了为什么简单任务向量加减在实践中"
 resource: "https://x.com/i/status/2054974773831102500"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2054974773831102500"
-created: "2026-05-14"
-updated: "2026-06-26"
-sha256: "ba851c02119fa81601a4a4197cdbd6b9dba85aefdfd11c2ab5e7c39033d922c9"
-sources:
-  - "/sources/news/2026-05-14/00__jiqizhixin__正交性约束-南京大学等揭示task-arithmetic的失效根因并给出解法.md"
 ---
 
 # 正交性约束：南京大学等揭示Task Arithmetic的失效根因并给出解法

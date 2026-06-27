@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "AI Agent正在催生「工具调用税」：微软们的分发危机比取代危机更现实"
 description: "**AI Agent正在重写软件权力结构，而非消灭软件。**  核心洞察：AI Agent是所有软件「更上一层」的存在——它调度Excel/Word/PPT，而非被它们取代。分析员日产1个Deck，Agent日产10个，工具调用次数指数上升。  分发权争夺成关键变量：企业已用微软产品→选Anthropic需额外销售推动。B2B无网络效应，「谁先接触CIO」决定市场。  微软必推自己的Agent，但"
 resource: "https://x.com/i/status/2043103174274486644"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2043103174274486644"
-created: "2026-04-11"
-updated: "2026-06-26"
-sha256: "408951e9ac797dcd60125ec0d611e3df16b22a201a5b688faed8e8a78b628ba6"
-sources:
-  - "/sources/news/2026-04-12/00__TJ_Research__ai-agent正在催生-工具调用税-微软们的分发危机比取代危机更现实.md"
 ---
 
 # AI Agent正在催生「工具调用税」：微软们的分发危机比取代危机更现实

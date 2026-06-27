@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Raycast Glaze 内测：一句话 AI 生成 Mac 软件并直发 App Store，零摩擦上架范式落地"
 description: "**[一句话判断]：AI 生成软件到上架的分发闭环第一次被打通，独立开发者的最后一公里被 Raycast 砍掉。**  要点： - Glaze 走\"AI 生成 + 一键安装 + 官方 Store\"三件套，向阳乔木实测用 Spotify API 写了一个 Pandora 式音乐电台，提示词到上架几乎无摩擦 - 内置 Store 已上线图片标注、Agent Skill 管理等小工具，体验接近原生，说明"
 resource: "https://x.com/i/status/2063443048458264603"
@@ -22,13 +22,6 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "app-store-automation"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2063443048458264603"
-created: "2026-06-07"
-updated: "2026-06-26"
-sha256: "137726bf8eb2504677e348be0fe145ebcd8ac9c431fa39d6d8eb72bdbc842264"
-sources:
-  - "/sources/highlights/2026-06-07/00__vista8__raycast-glaze-内测-一句话-ai-生成-mac-软件并直发-app-store-零摩擦上架范式落地.md"
 ---
 
 # Raycast Glaze 内测：一句话 AI 生成 Mac 软件并直发 App Store，零摩擦上架范式落地

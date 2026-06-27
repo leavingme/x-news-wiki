@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "你和老板的区别不是能力，是种性：AI时代的认知种姓制度正在形成"
 description: "**[一句话核心判断]**  AI抹平了工具差距，却放大了「决策权限」的差距。  - 「AI工具民主化」和「AI能力民主化」是两件事：所有人都有了大模型，但只有部分人有权力用它做关键决策。工具唾手可得，决策权依然是稀缺资源。 - 「护城河三件事：敢学、愿意学、会学」——这句大实话戳破了很多「AI赋能」叙事的皇帝新衣。知道AI能做什么和被允许用AI做什么，是两件截然不同的事。 - 隐含的危机：若组织"
 resource: "https://x.com/i/status/2037578839715610714"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2037578839715610714"
-created: "2026-03-27"
-updated: "2026-06-26"
-sha256: "aff40fd6b18bd64dde707f1049379cee0fa3c38cef5eadf920a4181bc9f3b476"
-sources:
-  - "/sources/news/2026-04-06/00__rwayne__你和老板的区别不是能力-是种性-ai时代的认知种姓制度正在形成.md"
 ---
 
 # 你和老板的区别不是能力，是种性：AI时代的认知种姓制度正在形成

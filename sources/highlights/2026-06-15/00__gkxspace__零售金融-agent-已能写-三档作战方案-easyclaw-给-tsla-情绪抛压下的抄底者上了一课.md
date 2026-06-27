@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "零售金融 Agent 已能写'三档作战方案'：EasyClaw 给 TSLA 情绪抛压下的抄底者上了一课"
 description: "**消费级金融 Agent 正在从'问答玩具'升级为'带仓位与止损的作战地图'。**  余温把 SpaceX 上市分流 TSLA 资金这个具体事件丢给 EasyClaw 内的'股票大师'Agent,Agent 给出 RSI 接近超卖、MACD 死叉加速、PE 152 无安全垫、前低 337 防线四组关键变量,并据此输出已持有 / 激进 / 稳健三档方案,每档独立止损位。  落地形态:直接嵌在 Te"
 resource: "https://x.com/i/status/2066481278594007138"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2066481278594007138"
-created: "2026-06-15"
-updated: "2026-06-26"
-sha256: "6d24a216bac895df9e1fab1f36dcf69d66f0cf8aeea61fa2d2771ae859d1f884"
-sources:
-  - "/sources/highlights/2026-06-15/00__gkxspace__零售金融-agent-已能写-三档作战方案-easyclaw-给-tsla-情绪抛压下的抄底者上了一课.md"
 ---
 
 # 零售金融 Agent 已能写'三档作战方案'：EasyClaw 给 TSLA 情绪抛压下的抄底者上了一课

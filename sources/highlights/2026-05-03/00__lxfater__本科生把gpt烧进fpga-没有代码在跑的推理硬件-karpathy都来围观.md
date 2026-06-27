@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "本科生把GPT烧进FPGA：没有代码在跑的推理硬件，Karpathy都来围观"
 description: "**AI推理的硬件底层范式正在被重新审视。**  - 多伦多大学本科生将GPT权重直接刻进FPGA的ROM，实现零软件栈推理——没有PyTorch、没有CUDA、CPU不参与推理循环 - 原推4300赞、36万浏览，Karpathy亲自关注，GitHub全开源可验证 - 这不是优化问题，是思维范式的转换：从「程序调度数据」到「电路即模型」  锐评：边缘AI的终局可能不是更小的模型，而是更直接的硬件"
 resource: "https://x.com/i/status/2050804039865012512"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2050804039865012512"
-created: "2026-05-03"
-updated: "2026-06-26"
-sha256: "3385c2b0d89bd2b915b257662f2e16d9d151857b189066b54832ece89d62e7a3"
-sources:
-  - "/sources/highlights/2026-05-03/00__lxfater__本科生把gpt烧进fpga-没有代码在跑的推理硬件-karpathy都来围观.md"
 ---
 
 # 本科生把GPT烧进FPGA：没有代码在跑的推理硬件，Karpathy都来围观

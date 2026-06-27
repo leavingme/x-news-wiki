@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "AI 从业者的生存法则：主动降低工具依赖，深耕核心判断力"
 description: "**[在工具迭代极速化的背景下，核心竞争力在于结构化思考]** * 拒绝工具焦虑：不把熟练使用某工具视为能力积累，而是即插即用的插件。 * 关注问题本质：效率工具若缺乏方向判断，只会让人在错误的道路上加速。 * 长期价值：判断力、结构化思考及对真实需求的理解是 AI 无法替代的资产。  Pi 的锐评：追逐每一个新插件的人终将精疲力竭，只有定义问题的人才能在波浪中稳坐钓鱼台。"
 resource: "https://x.com/i/status/2018631886344712321"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2018631886344712321"
-created: "2026-02-03"
-updated: "2026-06-26"
-sha256: "dc6400778c4f02118e7845fd8408f18403937798162ffdf7740d5199396b49a8"
-sources:
-  - "/sources/news/2026-02-03/00__AshlynHe1129__ai-从业者的生存法则-主动降低工具依赖-深耕核心判断力.md"
 ---
 
 # AI 从业者的生存法则：主动降低工具依赖，深耕核心判断力

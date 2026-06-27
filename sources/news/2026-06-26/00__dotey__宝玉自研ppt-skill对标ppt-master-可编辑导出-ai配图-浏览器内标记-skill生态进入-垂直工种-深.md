@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "宝玉自研PPT Skill对标PPT Master：可编辑导出+AI配图+浏览器内标记，Skill生态进入「垂直工种」深水区"
 description: "**Skills 生态正从「通用模板」走向「垂直工种可编辑闭环」**  - 宝玉推出自研 PPT Skill，明确对标社区口碑最好的 PPT Master Skill，差异化点在于：导出可编辑 PPT（非纯图片/不可编辑）、Agent 内置浏览器直接标记修改、AI 自动配图。 - 这标志着 Skills 不再是「提示词蒸馏」的轻量包，而是开始承担完整生产管线（生成→编辑→交付）的能力，这对 SKI"
 resource: "https://x.com/i/status/2070379812594606188"
@@ -22,13 +22,6 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "skills-ecosystem-standards"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2070379812594606188"
-created: "2026-06-26"
-updated: "2026-06-26"
-sha256: "d9c6b710f5d23f95d6d00fa44ae2d1264f5c6244152975a95f1cac03c30d975f"
-sources:
-  - "/sources/news/2026-06-26/00__dotey__宝玉自研ppt-skill对标ppt-master-可编辑导出-ai配图-浏览器内标记-skill生态进入-垂直工种-深.md"
 ---
 
 # 宝玉自研PPT Skill对标PPT Master：可编辑导出+AI配图+浏览器内标记，Skill生态进入「垂直工种」深水区

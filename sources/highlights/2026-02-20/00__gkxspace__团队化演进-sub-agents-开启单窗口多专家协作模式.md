@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "团队化演进：sub-agents 开启单窗口多专家协作模式"
 description: "**[核心逻辑]** 通过 sessions_spawn 与 sessions_send 实现从“单模型对话”到“专家团队并行”的架构升级。 - 无需复杂多 Bot 编排，在单一私聊窗口即可完成总指挥调度与子任务并行。 - 临时专家（sessions_spawn）处理特定子任务，任务结束后数据回传主会话，保持上下文整洁。 - 将 Agent 管理从“运维配置”转化为“指令流控制”。  [gakki"
 resource: "https://x.com/i/status/2024625293202468984"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2024625293202468984"
-created: "2026-02-19"
-updated: "2026-06-26"
-sha256: "d963764b0f6689fa3fbf38341d8f04681cd96b22a7f540c0782ebe7f106454d5"
-sources:
-  - "/sources/highlights/2026-02-20/00__gkxspace__团队化演进-sub-agents-开启单窗口多专家协作模式.md"
 ---
 
 # 团队化演进：sub-agents 开启单窗口多专家协作模式

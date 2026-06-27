@@ -1,23 +1,17 @@
 ---
-type: "entity"
+type: "Author"
 title: "Y11 (@seclink)"
 description: "X/Twitter 作者 @seclink。共收录 1 条 AI 精选推文。"
 tags:
   - "x-news"
   - "author"
   - "author:seclink"
-timestamp: "2026-06-26T11:53:36.987Z"
+timestamp: "2026-06-27T08:40:40.199Z"
 x_handle: "seclink"
 x_author_name: "Y11"
 x_tweet_count: 1
 x_first_seen: "2026-04-18T12:44:58.284Z"
 x_last_seen: "2026-04-18T12:44:58.284Z"
-type_okf: "Author"
-created: "2026-04-18"
-updated: "2026-06-26"
-sha256: "791abbcd88001bbc0f0e3fe2da9dc5abec58b3df99a481c6b6baa328a2a83629"
-sources:
-  - "/sources/highlights/2026-04-18/00__seclink__openai-78-扩招背后-api卖不动-逼出-布道师-新物种.md"
 ---
 
 # Y11 (@seclink)

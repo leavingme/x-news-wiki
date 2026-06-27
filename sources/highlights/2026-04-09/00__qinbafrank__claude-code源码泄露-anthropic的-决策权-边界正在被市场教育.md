@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Claude Code源码泄露：Anthropic的「决策权」边界正在被市场教育"
 description: "**[Anthropic的一次失误，炸开了Agent代际差距的天花板]**  泄露的并非模型权重，而是完整的客户端Agent层实现——包括多Agent编排、持久化记忆、未发布的Kairos自主Daemon模式和50+隐藏指令。这批代码揭示了Anthropic对「Agent应该长什么样」的产品定义，且这些能力比市面任何开源方案领先至少两个身位。  **关键影响：** - Multi-Agent Or"
 resource: "https://x.com/i/status/2038997062835216696"
@@ -22,13 +22,6 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "claude-code-leaked-architecture"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2038997062835216696"
-created: "2026-03-31"
-updated: "2026-06-26"
-sha256: "5ff45044acc94f8f79e8b4acff6863afa759b2307a8e8d0d4927505a4ee4aec1"
-sources:
-  - "/sources/highlights/2026-04-09/00__qinbafrank__claude-code源码泄露-anthropic的-决策权-边界正在被市场教育.md"
 ---
 
 # Claude Code源码泄露：Anthropic的「决策权」边界正在被市场教育

@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "2028美国数据中心吃掉12%全国电力：AI算力狂欢的能源账单终于被量化了"
 description: "**伯克利实验室的数字把 AI 算力扩张的隐形成本曝光了——这不是技术问题，是地缘政治问题。**  12% 是美国全国用电量，不是个小数目。这意味着：1）算力军备竞赛的能源约束比芯片封锁更难绕过；2）能源基础设施将成为 AI 霸权的新瓶颈；3）边缘推理和端侧部署的加速不是技术偏好，是能源压力倒逼的生存策略。  这条数据和黄仁勋\"AI 五层蛋糕\"的能源叙事形成互文——当能源约束被量化，推理效率优化和"
 resource: "https://x.com/i/status/2048924301735440676"
@@ -22,13 +22,6 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "geopolitics-and-compute"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2048924301735440676"
-created: "2026-04-28"
-updated: "2026-06-26"
-sha256: "bcbc9d8abbb2f85013ffa52a3ef87d5dde36f62a16775dfdafa307fddbee5d12"
-sources:
-  - "/sources/highlights/2026-04-28/00__jiqizhixin__2028美国数据中心吃掉12-全国电力-ai算力狂欢的能源账单终于被量化了.md"
 ---
 
 # 2028美国数据中心吃掉12%全国电力：AI算力狂欢的能源账单终于被量化了

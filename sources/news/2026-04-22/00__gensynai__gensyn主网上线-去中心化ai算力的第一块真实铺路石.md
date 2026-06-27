@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Gensyn主网上线：去中心化AI算力的第一块真实铺路石"
 description: "**一句话核心判断：链上AI算力从概念到可用的跨越，但Delphi单一应用说明生态仍处于非常早期。**  Gensyn主网正式上线，首个应用Delphi同步启动。Gensyn定位为去中心化机器学习算力网络，本质上是将分布式GPU资源Token化并开放给AI训练/推理需求方。  - 这是Origins Network、0G Labs等链上算力叙事中，少数真正落地主网的项目之一 - AI Agent要"
 resource: "https://x.com/gensynai/status/2046907605680013672"
@@ -22,13 +22,6 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "ai-compute-on-chain"
 x_source: "ai-trend-digest"
-type_okf: "X Tweet"
-source_url: "https://x.com/gensynai/status/2046907605680013672"
-created: "2026-04-22"
-updated: "2026-06-26"
-sha256: "abfa3d817e1af7e347c34880b726f66928f064e69063b7652f19db4dc52a608a"
-sources:
-  - "/sources/news/2026-04-22/00__gensynai__gensyn主网上线-去中心化ai算力的第一块真实铺路石.md"
 ---
 
 # Gensyn主网上线：去中心化AI算力的第一块真实铺路石

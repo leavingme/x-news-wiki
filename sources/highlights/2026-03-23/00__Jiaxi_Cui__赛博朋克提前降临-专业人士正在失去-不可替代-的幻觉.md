@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "赛博朋克提前降临：专业人士正在失去\"不可替代\"的幻觉"
 description: "**[AI正在瓦解中产职业护城河]** Panda从医疗、法律、税务、理财四个维度论证：专业人士的\"经验壁垒\"已被AI击穿，仅剩的障碍是制度性的准入门槛（处方权、执业资格），而非能力本身。  • 医疗：AI诊断方案已优于多数医生的经验判断 • 法律/税务：Claude Code可自主完成报税等复杂流程 • 理财：AI的量化认知碾压传统理财经理的\"鹦鹉学舌\" • 自动驾驶争议的本质：人类信任司机不是"
 resource: "https://x.com/i/status/2035770077673587009"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2035770077673587009"
-created: "2026-03-22"
-updated: "2026-06-26"
-sha256: "d75ed22f88f40278275c57da32920be4b57760741553bbeb8017e7ba1603b57f"
-sources:
-  - "/sources/highlights/2026-03-23/00__Jiaxi_Cui__赛博朋克提前降临-专业人士正在失去-不可替代-的幻觉.md"
 ---
 
 # 赛博朋克提前降临：专业人士正在失去"不可替代"的幻觉

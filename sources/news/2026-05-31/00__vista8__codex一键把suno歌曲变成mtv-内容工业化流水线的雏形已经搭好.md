@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Codex一键把Suno歌曲变成MTV：内容工业化流水线的雏形已经搭好"
 description: "**[AI内容工厂的第一个完整闭环：听歌→生成视觉→同步歌词]**  向阳乔木验证了一个完整的内容生产链路：Suno URL → Codex自动调用生图 → 组织画面 → 生成对齐歌词。这不是单一模型能力，是工具编排的胜利。  关键信号：Skill化的Codex正在成为「内容工厂操作台」——非娱乐公司也能做MV级内容。工业化内容生产的成本结构正在被改写。  但Skill完善后开源这件事本身也值得记"
 resource: "https://x.com/i/status/2060902037081165996"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2060902037081165996"
-created: "2026-05-31"
-updated: "2026-06-26"
-sha256: "8d92e2adde41ea71f7d7eaad0134078a0005827b2ea4de76a7dbc7607a6e9412"
-sources:
-  - "/sources/news/2026-05-31/00__vista8__codex一键把suno歌曲变成mtv-内容工业化流水线的雏形已经搭好.md"
 ---
 
 # Codex一键把Suno歌曲变成MTV：内容工业化流水线的雏形已经搭好

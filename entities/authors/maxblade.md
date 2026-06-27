@@ -1,23 +1,17 @@
 ---
-type: "entity"
+type: "Author"
 title: "Max Blade (@_MaxBlade)"
 description: "X/Twitter 作者 @_MaxBlade。共收录 1 条 AI 精选推文。"
 tags:
   - "x-news"
   - "author"
   - "author:_MaxBlade"
-timestamp: "2026-06-26T11:53:36.992Z"
+timestamp: "2026-06-27T08:40:40.205Z"
 x_handle: "_MaxBlade"
 x_author_name: "Max Blade"
 x_tweet_count: 1
 x_first_seen: "2026-04-30T01:18:15.483Z"
 x_last_seen: "2026-04-30T01:18:15.483Z"
-type_okf: "Author"
-created: "2026-04-30"
-updated: "2026-06-26"
-sha256: "027284e5536ef47396461cd938e657bbc4d9d678c110b3243cb2f539eb32d2b4"
-sources:
-  - "/sources/news/2026-04-30/00___MaxBlade__stripe-agent-市场的-saas-v2-叙事-为-agent-构建-可消费-的数字服务正在成为新创业方向.md"
 ---
 
 # Max Blade (@_MaxBlade)

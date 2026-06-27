@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "中国是全球化AI To C应用最被低估的市场"
 description: "**[出海AI应用的认知盲区：中国才是真正的「海外」]**  玉伯点出了一个反直觉事实：做全球化AI To C应用时，99%的人会先看美国、东南亚、中东——但往往忽略中国这个体量最大、竞争最卷、用户最挑剔的市场。  这句话的潜台词是：如果你的产品能在中文互联网存活，某种程度上你已经有全球竞争力。  中国用户的特殊之处：付费习惯好、迭代速度快、场景复杂度高（微信生态+移动支付+短视频）。   gak"
 resource: "https://x.com/i/status/2059656167513784741"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2059656167513784741"
-created: "2026-05-27"
-updated: "2026-06-26"
-sha256: "568485ab12c47c83a58589d93bd1eae06b2f416fcfe126b99b9932443fb0bed8"
-sources:
-  - "/sources/news/2026-05-27/00__lifesinger__中国是全球化ai-to-c应用最被低估的市场.md"
 ---
 
 # 中国是全球化AI To C应用最被低估的市场

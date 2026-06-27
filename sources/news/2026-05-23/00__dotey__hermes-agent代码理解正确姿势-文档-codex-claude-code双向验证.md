@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Hermes Agent代码理解正确姿势：文档+Codex/Claude Code双向验证"
 description: "**一句话核心判断** 宝玉给出 Hermes Agent 学习的最优路径：官方文档打底 → Agent工具实时问答代码库，比纯看文档效率高一个量级。  **要点** - 官方文档是基础，但文档无法覆盖所有边缘情况 - 用 Codex/Claude Code 打开项目代码库\"随时追问\"的交互模式，本质是把代码库变成可对话的知识库 - 关键价值：解决了\"文档滞后于实现\"这个工程团队永恒痛点  **g"
 resource: "https://x.com/i/status/2058020600166138188"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2058020600166138188"
-created: "2026-05-23"
-updated: "2026-06-26"
-sha256: "b0c4b9ef680b3e65df99e52919b62b89586f60fb5f630909d2702febeeca3a00"
-sources:
-  - "/sources/news/2026-05-23/00__dotey__hermes-agent代码理解正确姿势-文档-codex-claude-code双向验证.md"
 ---
 
 # Hermes Agent代码理解正确姿势：文档+Codex/Claude Code双向验证

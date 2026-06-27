@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "DeepMind TIPSv2：学生超越老师的蒸馏范式，视觉语言模型细粒度感知迎来系统性突破"
 description: "**视觉语言模型的「看清楚」问题被系统性攻克。**  - TIPSv2 在 9 个任务、20 个数据集上（分类、检索、分割、深度）匹配或超越 SOTA，且方法论高度可组合 - 三个关键创新：蒸馏中学生超越教师的反直觉范式、iBOT++ 同时学习遮盖与非遮盖 token、合成 caption 智能采样 - 核心价值不在于单点技巧，而在于「密集 patch-text 对齐」作为统一框架，为 Agent"
 resource: "https://x.com/i/status/2051368259761611109"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2051368259761611109"
-created: "2026-05-04"
-updated: "2026-06-26"
-sha256: "83cd44b5ce77831b903ad8d7e3b31e49a1ea176f6cfc3e2fa93ed0e98b343915"
-sources:
-  - "/sources/news/2026-05-04/00__jiqizhixin__deepmind-tipsv2-学生超越老师的蒸馏范式-视觉语言模型细粒度感知迎来系统性突破.md"
 ---
 
 # DeepMind TIPSv2：学生超越老师的蒸馏范式，视觉语言模型细粒度感知迎来系统性突破

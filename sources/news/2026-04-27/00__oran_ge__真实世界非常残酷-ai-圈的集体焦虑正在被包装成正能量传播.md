@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "\"真实世界非常残酷\"：AI 圈的集体焦虑正在被包装成正能量传播"
 description: "**一句话核心判断**：Orange AI 的\"真实世界残酷\"与\"学会面对真实\"是典型的存在主义鸡汤——在 AI 圈大规模淘汰的背景下，这类内容提供的是情绪镇痛而非认知价值。  **信息增量**： - 此类内容的广泛传播说明 AI 从业者正处于集体焦虑期，镇痛需求大于建设需求 - \"面对真实\"被简化成一句口号而非方法论，实质上无法帮助从业者解决任何具体问题  **gakki 锐评**：焦虑经济学正"
 resource: "https://x.com/i/status/2048634573261824266"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2048634573261824266"
-created: "2026-04-27"
-updated: "2026-06-26"
-sha256: "4901dfcd8608620b26e247ca18f53202dd53ddf0929c19853f9427c88abc8a69"
-sources:
-  - "/sources/news/2026-04-27/00__oran_ge__真实世界非常残酷-ai-圈的集体焦虑正在被包装成正能量传播.md"
 ---
 
 # "真实世界非常残酷"：AI 圈的集体焦虑正在被包装成正能量传播

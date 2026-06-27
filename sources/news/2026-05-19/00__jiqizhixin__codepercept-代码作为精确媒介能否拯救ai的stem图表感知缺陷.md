@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "CodePercept：代码作为精确媒介能否拯救AI的STEM图表感知缺陷"
 description: "**上海交大与Qwen团队提出CodePercept，聚焦\"感知 scaling\"而非\"推理 scaling\"。**  核心逻辑：用代码生成图像-标注-代码三元组，消除视觉幻觉与歧义，将感知精度问题转化为可验证的代码执行问题。  结果：在STEM视觉感知任务上超越推理优先方案，设定新的可验证理解基准。  这说明了一个方向性问题：纯靠CoT scaling解决不了视觉感知错误，感知层的结构化约束可能"
 resource: "https://x.com/i/status/2056741163030515783"
@@ -22,13 +22,6 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "ai-video-physics-benchmark-physion-eval"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2056741163030515783"
-created: "2026-05-19"
-updated: "2026-06-26"
-sha256: "78e030ff608a20c953056b4c4dfbb2a18a0e4972f950d9e4f0d6893f026090f2"
-sources:
-  - "/sources/news/2026-05-19/00__jiqizhixin__codepercept-代码作为精确媒介能否拯救ai的stem图表感知缺陷.md"
 ---
 
 # CodePercept：代码作为精确媒介能否拯救AI的STEM图表感知缺陷

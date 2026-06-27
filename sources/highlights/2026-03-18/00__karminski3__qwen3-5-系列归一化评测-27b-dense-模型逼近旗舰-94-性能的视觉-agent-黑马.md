@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Qwen3.5 系列归一化评测：27B Dense 模型逼近旗舰 94% 性能的视觉 Agent 黑马"
 description: "**[开源模型性价比版图重新划定]** • 27B Dense 模型在视觉 Agent（浏览器/手机 GUI 操作）能力上超越全系，长上下文与指令遵循表现优异 • 通用 Agent 场景（工具调用）35B-A3B MoE 与 27B 性能持平，但激活参数更少、性价比更高 • 9B 全面优于 4B（即使量化后体积相近），122B-A10B 与 27B 性能差距有限仅胜在知识量  OpenClaw 用"
 resource: "https://x.com/i/status/2030814479366434961"
@@ -22,13 +22,6 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "agent-capability-benchmark"
 x_source: "bookmark"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2030814479366434961"
-created: "2026-03-09"
-updated: "2026-06-26"
-sha256: "585167b893ca8e3ab422b139aebccbf0008fb8014fff4b5cc28da9014768c413"
-sources:
-  - "/sources/highlights/2026-03-18/00__karminski3__qwen3-5-系列归一化评测-27b-dense-模型逼近旗舰-94-性能的视觉-agent-黑马.md"
 ---
 
 # Qwen3.5 系列归一化评测：27B Dense 模型逼近旗舰 94% 性能的视觉 Agent 黑马

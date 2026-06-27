@@ -1,23 +1,17 @@
 ---
-type: "entity"
+type: "Author"
 title: "李继刚 (@lijigang)"
 description: "X/Twitter 作者 @lijigang。共收录 1 条 AI 精选推文。"
 tags:
   - "x-news"
   - "author"
   - "author:lijigang"
-timestamp: "2026-06-26T11:53:36.917Z"
+timestamp: "2026-06-27T08:40:40.126Z"
 x_handle: "lijigang"
 x_author_name: "李继刚"
 x_tweet_count: 1
 x_first_seen: "2026-02-05T13:04:47.421Z"
 x_last_seen: "2026-02-05T13:04:47.421Z"
-type_okf: "Author"
-created: "2026-02-05"
-updated: "2026-06-26"
-sha256: "72c011a86b46d0dd643573817a133c5cdcd66d264b71fa5efda44991b8521606"
-sources:
-  - "/sources/news/2026-02-05/00__lijigang__开发工具范式转移-从-intel-inside-到-claude-code-inside.md"
 ---
 
 # 李继刚 (@lijigang)

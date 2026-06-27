@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "LeCun 10亿美元赌注：世界模型是对LLM路线的「范式反叛」"
 description: "**[AMI Labs拿到史上最大种子轮，Yann LeCun要用「物理+常识」重构智能本质]** • 10.3亿美元种子轮，目前AI领域最大单笔早期融资 • 核心命题：真正的智能始于世界而非语言，LLM只是压缩了语言而非世界本身 • 目标场景：机器人、工业控制、可穿戴设备——构建现实世界的可计算基础设施  gakki 锐评：LeCun终于把「世界模型」从论文概念变成了资本叙事。这是对OpenAI"
 resource: "https://x.com/i/status/2032016233172992083"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 92
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2032016233172992083"
-created: "2026-03-12"
-updated: "2026-06-26"
-sha256: "e791669bf1a2c1b200b32447576d2b9fcc84a48ab68b178a9d4439280122b651"
-sources:
-  - "/sources/news/2026-03-13/92__op7418__lecun-10亿美元赌注-世界模型是对llm路线的-范式反叛.md"
 ---
 
 # LeCun 10亿美元赌注：世界模型是对LLM路线的「范式反叛」

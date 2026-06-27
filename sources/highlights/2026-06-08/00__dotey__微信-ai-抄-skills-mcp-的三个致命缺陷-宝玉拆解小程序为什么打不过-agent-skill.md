@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "微信 AI 抄 Skills/MCP 的三个致命缺陷：宝玉拆解小程序为什么打不过 Agent Skill"
 description: "**小程序基因级缺陷注定微信 AI 抄不走 Skills 的成功。**  - 无法自进化：Skill 在使用中被 Agent 自动改进，小程序打包审查机制下发现问题只能凑合 - 无法高度定制：好用的 Skill 都高度个性化，平台化的小程序无法让每个用户自由改造 - GUI 操作成本高：Agent 操作图形界面远不如调用 CLI，小程序接口先天不适合 Agent   gakki 锐评：微信 AI "
 resource: "https://x.com/i/status/2064050136989208695"
@@ -22,13 +22,6 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "skills-ecosystem-standards"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2064050136989208695"
-created: "2026-06-08"
-updated: "2026-06-26"
-sha256: "21dfdebe8b8c40617e2ecc4c62c31c830ea0fc8cf0a0c8fa646b77d83ef67193"
-sources:
-  - "/sources/highlights/2026-06-08/00__dotey__微信-ai-抄-skills-mcp-的三个致命缺陷-宝玉拆解小程序为什么打不过-agent-skill.md"
 ---
 
 # 微信 AI 抄 Skills/MCP 的三个致命缺陷：宝玉拆解小程序为什么打不过 Agent Skill

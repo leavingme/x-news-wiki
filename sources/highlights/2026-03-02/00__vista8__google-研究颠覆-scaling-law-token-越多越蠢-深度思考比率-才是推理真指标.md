@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Google 研究颠覆 Scaling Law：Token 越多越蠢，「深度思考比率」才是推理真指标"
 description: "**[推理质量与 Token 长度脱钩]** - 实验发现生成 Token 数与准确率呈 -0.54 负相关，「写满卷子」不等于高分 - 提出「深度思考比率(DTR)」新指标：衡量每个 Token 在模型内部的迭代修改层数，与准确率强相关 0.83 - 仅用 DTR 筛选答案即可减半推理成本并获得更好效果  这项研究给「长思考=高质量」的迷信泼了冷水。未来推理模型的优化方向，可能从「堆长度」转向「"
 resource: "https://x.com/i/status/2028376109235245490"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2028376109235245490"
-created: "2026-03-02"
-updated: "2026-06-26"
-sha256: "8c38af1759a0ce80cf2809dd92d5f14476754c6cfa9c7a13421c0b7ec63da1b7"
-sources:
-  - "/sources/highlights/2026-03-02/00__vista8__google-研究颠覆-scaling-law-token-越多越蠢-深度思考比率-才是推理真指标.md"
 ---
 
 # Google 研究颠覆 Scaling Law：Token 越多越蠢，「深度思考比率」才是推理真指标

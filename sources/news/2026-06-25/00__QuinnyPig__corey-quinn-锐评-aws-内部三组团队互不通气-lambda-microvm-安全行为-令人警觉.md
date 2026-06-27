@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Corey Quinn 锐评：AWS 内部三组团队互不通气，Lambda microVM 安全行为「令人警觉」"
 description: "**AWS 内部组织失能正以产品形态外溢——三条互不沟通的产品线最终拼出「烂界面+危险安全默认值」的组合。**  • 核心指控：Lambda microVM 的安全行为只能用 alarming 形容，暗示隔离/权限模型存在设计缺陷 • 组织病因：三条产品线「从未互相沟通」，技术债不是工程问题而是协作结构问题 • 影响面：AI Agent 与 Serverless 深度耦合的场景下，microVM "
 resource: "https://x.com/i/status/2069472653539254448"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2069472653539254448"
-created: "2026-06-23"
-updated: "2026-06-26"
-sha256: "6a16374db92bea6912af440817adbec591a5d4d0a290eb7a2fd688f65093dbfc"
-sources:
-  - "/sources/news/2026-06-25/00__QuinnyPig__corey-quinn-锐评-aws-内部三组团队互不通气-lambda-microvm-安全行为-令人警觉.md"
 ---
 
 # Corey Quinn 锐评：AWS 内部三组团队互不通气，Lambda microVM 安全行为「令人警觉」

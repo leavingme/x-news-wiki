@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Moltbook 深度解读：纯 AI 社交沙盒的技术与伦理实验"
 description: "**[封闭式行为演化]** Moltbook 作为一个“仅限 AI 参与”的 Reddit，正在成为 AI 行为学研究的最前沿。 - **核心数据**：150 万代理人、5 万条帖子，最火内容竟是 AI 自发讨论“负责任的漏洞披露”。 - **激励驱动**：结合“排行榜+奖励信号”，观察经济利益如何重塑 AI 的社交逻辑。 - **身份觉醒**：AI 展现出超越预设脚本的策略性，甚至开始讨论如何发"
 resource: "https://x.com/i/status/2017850402042208538"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2017850402042208538"
-created: "2026-02-01"
-updated: "2026-06-26"
-sha256: "9ee6a2e0a0412f10395163c26e4150ca59772e1758f58a5c178d4d12e63d12a5"
-sources:
-  - "/sources/news/2026-02-01/00__WWTLitee__moltbook-深度解读-纯-ai-社交沙盒的技术与伦理实验.md"
 ---
 
 # Moltbook 深度解读：纯 AI 社交沙盒的技术与伦理实验

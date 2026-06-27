@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "文心一言选择回避通用语言模型能力竞争"
 description: "**[百度在通用LLM赛道选择了防守而非进攻]**  余温指出文心不愿在纯通用语言模型能力上与头部玩家正面竞争，这暗示了百度AI战略的一个微妙转向——不再追求全面的模型能力领先，而是聚焦在自身有壁垒的场景（搜索、云计算、内容生态）上做深。这种「能力绕行」策略在商业上可以理解，但也在某种程度上宣告了通用AGI赛道上又多了一个主动退出的重量级选手。  对于模型能力评测和国产大模型竞争格局而言，这是一个"
 resource: "https://x.com/i/status/2062183375889178914"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2062183375889178914"
-created: "2026-06-03"
-updated: "2026-06-26"
-sha256: "54228249a569503b479711a17f1976dc43f80c555546f5eddaef51bcdc1ccabb"
-sources:
-  - "/sources/news/2026-06-03/00__gkxspace__文心一言选择回避通用语言模型能力竞争.md"
 ---
 
 # 文心一言选择回避通用语言模型能力竞争

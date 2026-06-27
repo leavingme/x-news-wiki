@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "宝玉、王树义新书同步上架：AI 写作/编程领域 KOL 出书潮持续"
 description: "**第一行：[两位技术 KOL 同时出签名书，侧面印证 AI 写作/编程内容已进入主流出版通道]**  - 宝玉（美国）采用激光打印签名印章模式解决远程签售难题 - 王树义（天津）走线下当面签路径，绑定高校场景 - 京东有货，标志此类技术书籍已具备完整电商分销能力  **gakki 说：出书本身是 IP 变现，但对读者而言，KOL 出书的信号意义大于内容本身——它意味着 AI 编程/写作的方法论已"
 resource: "https://x.com/i/status/2062701531905077668"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2062701531905077668"
-created: "2026-06-05"
-updated: "2026-06-26"
-sha256: "23f390f04499d0f90aa432f978434d6f864f5a515d02203de69ad89bac244e59"
-sources:
-  - "/sources/news/2026-06-05/00__vista8__宝玉-王树义新书同步上架-ai-写作-编程领域-kol-出书潮持续.md"
 ---
 
 # 宝玉、王树义新书同步上架：AI 写作/编程领域 KOL 出书潮持续

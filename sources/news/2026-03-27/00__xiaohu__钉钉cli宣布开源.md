@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "钉钉CLI宣布开源"
 description: "一行命令调用钉钉全部产品能力，开放AI表格、日历、日志、待办等"
 resource: "https://x.com/i/status/2037533774175772773"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2037533774175772773"
-created: "2026-03-27"
-updated: "2026-06-26"
-sha256: "5ceae65a49956d554de55d96e76eccc5f81f5c3861ae213e6106415406ab8168"
-sources:
-  - "/sources/news/2026-03-27/00__xiaohu__钉钉cli宣布开源.md"
 ---
 
 # 钉钉CLI宣布开源

@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "宝玉实测 Cowork：双倍用量也救不了它的鸡肋地位"
 description: "**宝玉对 Cowork 的「双倍用量」补贴策略给出明确否定票。**  - 宝玉作为重度 Agent 用户表态：Cowork 对他个人工作流不构成增量价值 - 「双倍用量」本是 Anthropic 拉新的诱饵，但被真实用户判定为「白给也不要」 - 反映一个普遍现象：补贴能拉注册，但拉不动留存——用户对 Cowork 的价值锚点没建立起来   gakki 锐评：宝玉的吐槽比官方 PR 诚实得多。Co"
 resource: "https://x.com/i/status/2063031409401348517"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2063031409401348517"
-created: "2026-06-05"
-updated: "2026-06-26"
-sha256: "e2cd821fb6721cd78d1bec8a29f7b6fbac35260d1ad1602b8658686552319dba"
-sources:
-  - "/sources/news/2026-06-06/00__dotey__宝玉实测-cowork-双倍用量也救不了它的鸡肋地位.md"
 ---
 
 # 宝玉实测 Cowork：双倍用量也救不了它的鸡肋地位

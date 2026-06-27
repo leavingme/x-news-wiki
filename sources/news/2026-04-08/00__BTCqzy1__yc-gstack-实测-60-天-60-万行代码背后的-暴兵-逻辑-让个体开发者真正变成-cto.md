@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "YC gstack 实测：60 天 60 万行代码背后的「暴兵」逻辑，让个体开发者真正变成 CTO"
 description: "**【一句话核心判断】** Garry Tan 把 YC 孵化方法论工程化到 Claude Code 里，15 个专家角色 + 6 个暴力工具，让个人开发者的产能对标一个完整工程团队。  **信息增量：** - /office-hours 是毒舌合伙人而非代码写手，会挑战产品逻辑而非执行任务 - /plan-ceo-review 从 CEO 视角在写代码前避开 90% 的坑 - 最大感受转变：从「"
 resource: "https://x.com/i/status/2037037343795011748"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2037037343795011748"
-created: "2026-03-26"
-updated: "2026-06-26"
-sha256: "d71036626ba05d9691b6fa65ca95c0a97f7687de074c178ed96a3fe2023b5841"
-sources:
-  - "/sources/news/2026-04-08/00__BTCqzy1__yc-gstack-实测-60-天-60-万行代码背后的-暴兵-逻辑-让个体开发者真正变成-cto.md"
 ---
 
 # YC gstack 实测：60 天 60 万行代码背后的「暴兵」逻辑，让个体开发者真正变成 CTO

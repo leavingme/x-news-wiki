@@ -13,7 +13,7 @@
 - [agent-data-intelligence-infra](agent-data-intelligence-infra.md) — 12 条
 - [agent-deployment-service](agent-deployment-service.md) — 11 条
 - [agent-economic-autonomy](agent-economic-autonomy.md) — 24 条
-- [agent-ecosystem](agent-ecosystem.md) — 3 条
+- [agent-ecosystem](agent-ecosystem.md) — 4 条
 - [agent-engineering-vs-product](agent-engineering-vs-product.md) — 4 条
 - [agent-evaluation-frontier](agent-evaluation-frontier.md) — 2 条
 - [agent-fundamentals-education](agent-fundamentals-education.md) — 3 条
@@ -36,7 +36,7 @@
 - [agent-social-data-access](agent-social-data-access.md) — 1 条
 - [agent-swarm-orchestration](agent-swarm-orchestration.md) — 9 条
 - [agent-tools-and-orchestration](agent-tools-and-orchestration.md) — 13 条
-- [agent-trading-agent-survival-rate](agent-trading-agent-survival-rate.md) — 3 条
+- [agent-trading-agent-survival-rate](agent-trading-agent-survival-rate.md) — 4 条
 - [agi-alignment-impossibility](agi-alignment-impossibility.md) — 1 条
 - [ai-3d-content-democratization](ai-3d-content-democratization.md) — 9 条
 - [ai-aesthetic-style-agent](ai-aesthetic-style-agent.md) — 3 条
@@ -59,7 +59,7 @@
 - [ai-coding-skills-commoditization](ai-coding-skills-commoditization.md) — 2 条
 - [ai-coding-token-optimization](ai-coding-token-optimization.md) — 3 条
 - [ai-cognition-execution-paradox](ai-cognition-execution-paradox.md) — 3 条
-- [ai-company-profitability-crisis](ai-company-profitability-crisis.md) — 2 条
+- [ai-company-profitability-crisis](ai-company-profitability-crisis.md) — 3 条
 - [ai-compute-on-chain](ai-compute-on-chain.md) — 4 条
 - [ai-content-authenticity](ai-content-authenticity.md) — 5 条
 - [ai-content-detection](ai-content-detection.md) — 1 条
@@ -89,7 +89,7 @@
 - [ai-personalized-tutoring](ai-personalized-tutoring.md) — 1 条
 - [ai-platform-integration-risk](ai-platform-integration-risk.md) — 3 条
 - [ai-real-world-model-evaluation](ai-real-world-model-evaluation.md) — 3 条
-- [ai-reasoning-tier-strategy](ai-reasoning-tier-strategy.md) — 1 条
+- [ai-reasoning-tier-strategy](ai-reasoning-tier-strategy.md) — 2 条
 - [ai-replacing-hierarchical-management](ai-replacing-hierarchical-management.md) — 2 条
 - [ai-research-paradigm](ai-research-paradigm.md) — 9 条
 - [ai-safety-alignment](ai-safety-alignment.md) — 5 条
@@ -171,7 +171,7 @@
 - [geopolitics-and-compute](geopolitics-and-compute.md) — 7 条
 - [ghostty-terminal-adoption](ghostty-terminal-adoption.md) — 5 条
 - [gitnexus-code-knowledge-graph](gitnexus-code-knowledge-graph.md) — 1 条
-- [goose-ai-autonomous-coding](goose-ai-autonomous-coding.md) — 1 条
+- [goose-ai-autonomous-coding](goose-ai-autonomous-coding.md) — 2 条
 - [gpt45-emotional-intelligence](gpt45-emotional-intelligence.md) — 1 条
 - [gpt54-long-context-reasoning](gpt54-long-context-reasoning.md) — 1 条
 - [gstack-claude-code-workflow-os](gstack-claude-code-workflow-os.md) — 1 条
@@ -184,12 +184,12 @@
 - [industry-leader-agent-strategy](industry-leader-agent-strategy.md) — 1 条
 - [knowledge-management-death](knowledge-management-death.md) — 1 条
 - [llm-knowledge-base-rag-boundary](llm-knowledge-base-rag-boundary.md) — 4 条
-- [llm-knowledge-operations](llm-knowledge-operations.md) — 1 条
+- [llm-knowledge-operations](llm-knowledge-operations.md) — 2 条
 - [lobkill-ai-labor-market](lobkill-ai-labor-market.md) — 1 条
 - [mac-mini-ai-server](mac-mini-ai-server.md) — 1 条
-- [markdown-ai-native-format](markdown-ai-native-format.md) — 12 条
-- [mcp-vs-cli-debate](mcp-vs-cli-debate.md) — 6 条
-- [model-capabilities](model-capabilities.md) — 11 条
+- [markdown-ai-native-format](markdown-ai-native-format.md) — 14 条
+- [mcp-vs-cli-debate](mcp-vs-cli-debate.md) — 7 条
+- [model-capabilities](model-capabilities.md) — 12 条
 - [moe-edge-compute-monopoly](moe-edge-compute-monopoly.md) — 6 条
 - [multi-agent-framework-ecosystem-comparison](multi-agent-framework-ecosystem-comparison.md) — 22 条
 - [multi-agent-fraud-risk](multi-agent-fraud-risk.md) — 1 条

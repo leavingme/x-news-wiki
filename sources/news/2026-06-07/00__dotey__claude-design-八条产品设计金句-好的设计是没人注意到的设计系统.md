@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Claude Design 八条产品设计金句：好的设计是没人注意到的设计系统"
 description: "**[一句话判断]：Claude Design 把设计哲学降维成可背诵的工作准则，AI 设计工具正在从\"能画什么\"转向\"该信什么\"。**  要点： - 核心原则包括\"没人点的原型只是画作\"、\"最好的设计系统是没人注意到的\"、\"像素都在抢注意力，大多数该输\"、\"留白不是空，是音符间的沉默\" - 这些原则的来源是 Claude Design 实战沉淀，本质上在把\"专业判断\"外置成可复用的产品语言 - "
 resource: "https://x.com/i/status/2063444443991097775"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2063444443991097775"
-created: "2026-06-07"
-updated: "2026-06-26"
-sha256: "e14fd7dbe2837cbd007e1f7a5d19187f9984037d428173cd025cde7794cae89e"
-sources:
-  - "/sources/news/2026-06-07/00__dotey__claude-design-八条产品设计金句-好的设计是没人注意到的设计系统.md"
 ---
 
 # Claude Design 八条产品设计金句：好的设计是没人注意到的设计系统

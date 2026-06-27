@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "yetone 锐评 API Key 互捞潜规则：平台博弈下的开发者关系正在重塑"
 description: "**一句话核心判断** 平台间 API Key 的\"互捞\"默契正在演变成一种新的博弈关系，工具层之间的边界比应用层更模糊。  **信息增量** - yetone 公开点名某平台\"捞了 API Key 却不让对方捞\"，暴露了当前 API 互惠伦理的真空状态 - 这不是技术问题，是平台商业策略问题——谁先开放谁就失去谈判筹码 - 折射出 Agent 工具层正在从\"技术竞争\"转向\"关系博弈\"  **ga"
 resource: "https://x.com/i/status/2059470399726121245"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2059470399726121245"
-created: "2026-05-27"
-updated: "2026-06-26"
-sha256: "2576f4b4575747a0bb305f8cc4249c23b84be50408aebb89eac39c5e9fc00466"
-sources:
-  - "/sources/news/2026-05-27/00__yetone__yetone-锐评-api-key-互捞潜规则-平台博弈下的开发者关系正在重塑.md"
 ---
 
 # yetone 锐评 API Key 互捞潜规则：平台博弈下的开发者关系正在重塑

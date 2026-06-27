@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Claude Desktop 多 Panel 布局：产品经理从 Zoom 会议偷师的设计哲学"
 description: "**Claude Desktop 内置网页预览把屏幕塞满 Panels，这是少数真正\"懂工作流\"的产品决策。**  要点： - 一个屏幕同时承载多任务面板（聊天/预览/文件/工具），告别传统\"标签页地狱\" - 宝玉推测灵感来自 Zoom 多人视频会议的网格布局——把协作空间思维搬到单用户工作台 - 对比 Chrome 标签页 + 多窗口的松散结构，Claude Desktop 用强结构化面板定义\""
 resource: "https://x.com/i/status/2063042610256601402"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2063042610256601402"
-created: "2026-06-05"
-updated: "2026-06-26"
-sha256: "c803d6d6c9e90ca455d0d783dee5ca8842c6722021c651dc06aa16c1961efd39"
-sources:
-  - "/sources/news/2026-06-06/00__dotey__claude-desktop-多-panel-布局-产品经理从-zoom-会议偷师的设计哲学.md"
 ---
 
 # Claude Desktop 多 Panel 布局：产品经理从 Zoom 会议偷师的设计哲学

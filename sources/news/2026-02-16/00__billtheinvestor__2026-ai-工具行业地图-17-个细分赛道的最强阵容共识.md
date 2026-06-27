@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "2026 AI 工具行业地图：17 个细分赛道的最强阵容共识"
 description: "**[核心逻辑]** 投资人总结 2026 年主流 AI 工具栈，定义了从通用模型到垂直领域的行业标准。 - 核心组合：Claude 4 + Cursor 被视为深度分析与编程的生产力天花板。 - 细分王者：涵盖了 ElevenLabs (语音)、Seedance (视频)、Zapier Agents (自动化) 等行业公认领头羊。  [gakki 锐评：这是一份“避坑指南”。在工具爆发的年代，知"
 resource: "https://x.com/i/status/2023123289561092551"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2023123289561092551"
-created: "2026-02-15"
-updated: "2026-06-26"
-sha256: "d7fd0ac3f55f9b97b6a189bd9ff3967ef5d37fc3af68ede7995a882acc7ad2e8"
-sources:
-  - "/sources/news/2026-02-16/00__billtheinvestor__2026-ai-工具行业地图-17-个细分赛道的最强阵容共识.md"
 ---
 
 # 2026 AI 工具行业地图：17 个细分赛道的最强阵容共识

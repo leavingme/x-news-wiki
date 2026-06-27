@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "「阶级战争」框架：AI 算力市场正在分化出两个平行世界"
 description: "**当供应链玩家和生态建设者用完全不同的语言描述同一件事时，市场分层已经开始了。**  - 天策明确将「孙哥」的中转模式定义为供应链战争，将自己的 Token 模式定义为阶级战争 - 两个阵营的核心分歧不是技术，是「钱流向谁」——客户口袋 vs 小伙伴口袋 - 这种叙事分化本身就是一个市场信号：AI 算力/Token 市场正在裂变为效率导向和生态导向两条路径  锐评：「阶级战争」这个措辞是刻意的情"
 resource: "https://x.com/i/status/2050609329691099179"
@@ -22,13 +22,6 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "agent-economic-autonomy"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2050609329691099179"
-created: "2026-05-02"
-updated: "2026-06-26"
-sha256: "5c0516bf8231b64f007a05d6e4f40bf7f2a5f83dcb8ce545654c77dac5a880a4"
-sources:
-  - "/sources/news/2026-05-02/00__Leobai825__阶级战争-框架-ai-算力市场正在分化出两个平行世界.md"
 ---
 
 # 「阶级战争」框架：AI 算力市场正在分化出两个平行世界

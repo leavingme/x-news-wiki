@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "集装箱到AI：投资人亏钱史的本质是「技术采用周期错位」"
 description: "**[一句话核心判断]**   向阳乔木的文章揭示了从集装箱到 AI 的重复历史模式：投资人总在技术成熟前的泡沫期重金入场，在规模化红利期前退出。  **要点：** - 集装箱革命花了 30 年才证明其效率逻辑，AI 基础设施投资正在重蹈「低估采用周期长度」的覆辙 - 「投资人亏钱」不是失败，是信息不对称下的合理预期差——LP 承担周期风险，GP 收取管理费，这是结构性的 - AI 时代的采用周期"
 resource: "https://x.com/i/status/2049119963903099291"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2049119963903099291"
-created: "2026-04-28"
-updated: "2026-06-26"
-sha256: "b8b57e83f639504aa6a32fd3c935433684775d39908fdb8d6327810855c2f2ae"
-sources:
-  - "/sources/news/2026-04-28/00__vista8__集装箱到ai-投资人亏钱史的本质是-技术采用周期错位.md"
 ---
 
 # 集装箱到AI：投资人亏钱史的本质是「技术采用周期错位」

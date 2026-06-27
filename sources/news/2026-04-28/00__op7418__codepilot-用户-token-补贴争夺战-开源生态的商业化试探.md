@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "CodePilot 用户 Token 补贴争夺战：开源生态的商业化试探"
 description: "**谁在给 CodePilot 用户争取免费 Token？**  歸藏（guizang.ai）透露正在为 CodePilot 用户争取 Token 补贴，这是国内 AI 编程工具生态首次出现「平台方补贴开发者」之外的「开发者补贴用户」逆向流通。  这条推文的信号价值在于：它暗示 CodePilot 正在从「工具」向「生态平台」跃迁，补贴策略类比软件行业的「ISV 扶持计划」，本质是降低终端用户的 "
 resource: "https://x.com/i/status/2048956843792413004"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2048956843792413004"
-created: "2026-04-28"
-updated: "2026-06-26"
-sha256: "4c9db8eab0dff1530391ba74611c61c7cbae9574821aca7cbe7c98e46ae9e05f"
-sources:
-  - "/sources/news/2026-04-28/00__op7418__codepilot-用户-token-补贴争夺战-开源生态的商业化试探.md"
 ---
 
 # CodePilot 用户 Token 补贴争夺战：开源生态的商业化试探

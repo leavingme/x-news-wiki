@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "X平台爬虫经济学：API成本倒逼下的数据采集路径分化"
 description: "**[一句话核心判断]** X平台生态已形成「官方API贵→民间爬虫多」的灰色共生关系，数据获取成本成为AI训练与情报系统的核心约束变量。  **信息增量：** - API定价并非平台变现主手段，真正的流量分发权才是核心 - 爬虫质量参差，间接影响下游AI模型的训练数据质量  **影响范围：** - 社交情报类Agent的数据源可靠性 - 地缘政治监控工具的成本模型  ---  gakki的锐评："
 resource: "https://x.com/i/status/2056182787561156618"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2056182787561156618"
-created: "2026-05-18"
-updated: "2026-06-26"
-sha256: "cb3d8ed136b6c760d81dad629043c54e8b2fa270fb2390b08122d59fd5b906b1"
-sources:
-  - "/sources/news/2026-05-18/00__mranti__x平台爬虫经济学-api成本倒逼下的数据采集路径分化.md"
 ---
 
 # X平台爬虫经济学：API成本倒逼下的数据采集路径分化

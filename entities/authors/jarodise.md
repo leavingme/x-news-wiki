@@ -1,23 +1,17 @@
 ---
-type: "entity"
+type: "Author"
 title: "数字游民Jarod (@jarodise)"
 description: "X/Twitter 作者 @jarodise。共收录 1 条 AI 精选推文。"
 tags:
   - "x-news"
   - "author"
   - "author:jarodise"
-timestamp: "2026-06-26T11:53:36.950Z"
+timestamp: "2026-06-27T08:40:40.158Z"
 x_handle: "jarodise"
 x_author_name: "数字游民Jarod"
 x_tweet_count: 1
 x_first_seen: "2026-03-03T01:07:04.812Z"
 x_last_seen: "2026-03-03T01:07:04.812Z"
-type_okf: "Author"
-created: "2026-03-03"
-updated: "2026-06-26"
-sha256: "78d59554677414effa62053085d80de7e76c5be3ea3ea22640deabf2de5ee49c"
-sources:
-  - "/sources/news/2026-03-03/00__jarodise__benchmark-榜单背后的信号-国产模型-蜂群战术-与全球前十的孤独身影.md"
 ---
 
 # 数字游民Jarod (@jarodise)

@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "GPT-5.5 token效率提升40%背后的价格信号：推理成本结构正在被重写"
 description: "**[GPT-5.5以3分优势重回榜首，token消耗降40%但定价翻倍——这不是涨价，是模型经济学范式转移]**  • GPT-5.5在Artificial Analysis独立评测中打破与Anthropic、Google的三方僵局，以3分优势重返第一。核心亮点不是绝对性能，而是它自己优化了自己的算法——token生成速度提升超20%，消耗减少约40%  • API定价每百万输入5美元/输出30"
 resource: "https://x.com/i/status/2047505323733529011"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2047505323733529011"
-created: "2026-04-24"
-updated: "2026-06-26"
-sha256: "965fa60af7faacef8d4d590da9cc25a27ae4cc170529db17fae4fc336c57d159"
-sources:
-  - "/sources/highlights/2026-04-24/00__xiaohu__gpt-5-5-token效率提升40-背后的价格信号-推理成本结构正在被重写.md"
 ---
 
 # GPT-5.5 token效率提升40%背后的价格信号：推理成本结构正在被重写

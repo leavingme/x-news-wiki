@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Gemma 4发布90分钟安全对齐被SVD线性代数破解：开源AI的「锁」用「钥匙」打开了"
 description: "**[一句话核心判断]**  Gemma 4开源模型的安全对齐被研究者用SVD（奇异值分解）直接从权重中剥离——不是越狱，不是prompt注入，是纯线性代数操作。  **关键要点：** - 推理能力保留97%，拒绝率归零，对齐效果近乎完全失效 - 攻击门槛极低：一台笔记本即可操作，无需GPU集群 - 这次破解直接打在「用技术手段实现安全约束」这一范式的根基上  空一行  gakki锐评：2026年"
 resource: "https://x.com/i/status/2041302628576186409"
@@ -22,13 +22,6 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "ai-safety-alignment"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2041302628576186409"
-created: "2026-04-06"
-updated: "2026-06-26"
-sha256: "90f45d7a843d6c15179513f0978bbf189c3bcaec69eebfa8924108de1e1b5725"
-sources:
-  - "/sources/highlights/2026-04-07/00__GPTDAOCN__gemma-4发布90分钟安全对齐被svd线性代数破解-开源ai的-锁-用-钥匙-打开了.md"
 ---
 
 # Gemma 4发布90分钟安全对齐被SVD线性代数破解：开源AI的「锁」用「钥匙」打开了

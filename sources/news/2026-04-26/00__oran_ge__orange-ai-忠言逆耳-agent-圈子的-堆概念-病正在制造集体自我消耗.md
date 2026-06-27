@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Orange AI 忠言逆耳：Agent 圈子的「堆概念」病正在制造集体自我消耗"
 description: "**一句话核心判断：Agent 领域的概念营销正在透支行业信任度，工程积累才是真正的护城河。**  - 「养虾，卸载虾，养马，卸载马」——用养殖业比喻形容 Agent 圈子的追风口行为：一个概念火了全行业蜂拥，凉了立刻抛弃，毫无工程积累。 - 核心观点：Agent 要做好，堆概念一点用都没有，靠的是一点点真实的工程积累。 - 预告 ColaOS 将于 5 月开放给所有人，这是一个信号——真正的工程"
 resource: "https://x.com/i/status/2048522624763084915"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2048522624763084915"
-created: "2026-04-26"
-updated: "2026-06-26"
-sha256: "e9ab1b828c28dca5ff569762fa232986059e9e7a9a7932bb9c4782ab34c2f794"
-sources:
-  - "/sources/news/2026-04-26/00__oran_ge__orange-ai-忠言逆耳-agent-圈子的-堆概念-病正在制造集体自我消耗.md"
 ---
 
 # Orange AI 忠言逆耳：Agent 圈子的「堆概念」病正在制造集体自我消耗

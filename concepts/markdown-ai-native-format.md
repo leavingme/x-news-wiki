@@ -1,41 +1,29 @@
 ---
-type: "concept"
-title: "markdown-ai-native-format"
-description: "跨日主题 \"markdown-ai-native-format\"，共 12 条相关精选推文。"
+type: "Concept"
+title: "Markdown：AI 原生格式"
+description: "跨日主题 \"Markdown：AI 原生格式\" (markdown-ai-native-format)，共 14 条相关精选推文。"
 tags:
   - "x-news"
   - "concept"
   - "topic:markdown-ai-native-format"
-timestamp: "2026-06-26T11:53:37.018Z"
+timestamp: "2026-06-27T08:40:42.862Z"
 x_topic_slug: "markdown-ai-native-format"
-x_tweet_count: 12
+x_tweet_count: 14
 x_first_seen: "2026-05-07T04:19:21.982Z"
-x_last_seen: "2026-06-24T22:28:05.963Z"
-type_okf: "Concept"
-created: "2026-05-07"
-updated: "2026-06-26"
-sha256: "a44a63e8081e4d57bd8d5f5291f129fb3324d56c47d6c5fa9ccbe806b8023a58"
-sources:
-  - "/sources/highlights/2026-05-07/00__op7418__markdown-赢得-ai-时代格式战争-obsidian-作者确认谢林点已成-下一步是展示层革命.md"
-  - "/sources/highlights/2026-05-09/00__dotey__markdown-与-html-之争-宝玉认为信息密度是核心-html-并不适合-llm-阅读和生成.md"
-  - "/sources/highlights/2026-06-22/00__dotey__宝玉反驳-把用户当弱智-豆包-telegram-codex-都在用-markdown-照样活得好好的.md"
-  - "/sources/news/2026-05-07/00__oran_ge__colamd-1-5-markdown-从写作格式升级为内容数据库-视图层正式解耦.md"
-  - "/sources/news/2026-05-09/00__dotey__宝玉回溯-markdown-写作史-ai-原生格式的胜利不是技术选择-是注意力经济的胜利.md"
-  - "/sources/news/2026-05-09/00__dotey__宝玉确认-markdown-可以内嵌-html-ai-原生格式的表达力边界比想象中更宽.md"
-  - "/sources/news/2026-05-09/00__op7418__markdown-html-分层架构成为-ai-产品共识-claude-code-作者亲自下场验证.md"
-  - "/sources/news/2026-05-09/00__vista8__向阳乔木力荐-markdown-开源项目-ai-原生格式的生态正在自我强化.md"
-  - "/sources/news/2026-05-10/00__mranti__michael-anti-点破-mdx-的真正瓶颈-不是语法差异-而是图片封装能力.md"
-  - "/sources/news/2026-06-13/00__xiaohu__telegram-浏览器直接渲染-markdown-通用格式正在吃下最后一公里.md"
-  - "/sources/news/2026-06-21/00__dotey__微信再拒-markdown-平台傲慢在-ai-时代被显性化为产品负债.md"
-  - "/sources/news/2026-06-24/00__IndieDevHailey__markitdown-138k-star-霸榜-微软开源文档-markdown-转换器-把-rag-数据准备的脏活彻底标.md"
+x_last_seen: "2026-06-26T16:20:30.661Z"
+x_cn_title_source: "dict"
 ---
 
-# 主题: markdown-ai-native-format
+# 主题: Markdown：AI 原生格式
 
-本主题下共 **12** 条精选推文。
+> slug: `markdown-ai-native-format`
+
+本主题下共 **14** 条精选推文。
 
 ## 时间线
 
+- [Karpathy 试水 245 页 Mythos PDF：转换器集体翻车，PDF 解析仍缺 SOTA Skill](../sources/news/2026-06-26/00__karpathy__karpathy-试水-245-页-mythos-pdf-转换器集体翻车-pdf-解析仍缺-sota-skill.md) — 2026-06-26 · @karpathy
+- [Karpathy 喊话社区：PDF 转换器「约一千个，一样烂」，基础设施真空待填](../sources/news/2026-06-26/00__karpathy__karpathy-喊话社区-pdf-转换器-约一千个-一样烂-基础设施真空待填.md) — 2026-06-26 · @karpathy
 - [MarkItDown 138k Star 霸榜：微软开源文档→Markdown 转换器，把 RAG 数据准备的脏活彻底标准化](../sources/news/2026-06-24/00__IndieDevHailey__markitdown-138k-star-霸榜-微软开源文档-markdown-转换器-把-rag-数据准备的脏活彻底标.md) — 2026-06-24 · @IndieDevHailey
 - [宝玉反驳「把用户当弱智」：豆包/Telegram/Codex 都在用 Markdown，照样活得好好的](../sources/highlights/2026-06-22/00__dotey__宝玉反驳-把用户当弱智-豆包-telegram-codex-都在用-markdown-照样活得好好的.md) — 2026-06-22 · @dotey
 - [微信再拒 Markdown，平台傲慢在 AI 时代被显性化为产品负债](../sources/news/2026-06-21/00__dotey__微信再拒-markdown-平台傲慢在-ai-时代被显性化为产品负债.md) — 2026-06-21 · @dotey

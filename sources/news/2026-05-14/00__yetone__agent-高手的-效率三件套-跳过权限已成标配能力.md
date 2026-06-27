@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Agent 高手的\"效率三件套\"：跳过权限已成标配能力"
 description: "**三位 Agent 提效工具的分享：--dangerously-skip-permissions、--dangerously-bypass-approvals-and-sandbox、/goal。**  这三个 Flag/命令分别解决的是：权限确认打断流程、沙盒强制绕过需要二次确认、让 Agent 跑完再停而非频繁中途询问。组合使用后，Agent 的交互频率大幅降低，人从\"监控者\"变为\"最终决策"
 resource: "https://x.com/i/status/2055005507904242019"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2055005507904242019"
-created: "2026-05-14"
-updated: "2026-06-26"
-sha256: "6340682ee0f9d4bb7cf7b0a113864102e62599b6e5b658ab6f024ea3547c88f1"
-sources:
-  - "/sources/news/2026-05-14/00__yetone__agent-高手的-效率三件套-跳过权限已成标配能力.md"
 ---
 
 # Agent 高手的"效率三件套"：跳过权限已成标配能力

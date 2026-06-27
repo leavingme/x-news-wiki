@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "48智能体游戏工作室：多Agent分工的「极限压力测试」"
 description: "**[从单AI打工人到AI组织架构的范式跃迁]** • 按真实游戏公司架构搭建：创意总监→技术总监→制作人→QA，完整还原人类团队协作流程 • 36个斜杠命令覆盖Godot/Unity/Unreal三引擎，证明Agent分工可支撑复杂工程化交付 • 关键突破：不是「一个更强的AI」，而是「一群更专业的AI」——验证了Agent工程的核心是角色设计而非模型能力  **gakki锐评：** 这是Mul"
 resource: "https://x.com/i/status/2035754053612024088"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2035754053612024088"
-created: "2026-03-22"
-updated: "2026-06-26"
-sha256: "30df8cf552affd00f902a8a6611dff04ea6e9caead96ab32906c93cb386187d7"
-sources:
-  - "/sources/highlights/2026-03-23/00__KKaWSB__48智能体游戏工作室-多agent分工的-极限压力测试.md"
 ---
 
 # 48智能体游戏工作室：多Agent分工的「极限压力测试」

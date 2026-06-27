@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "玉伯：AI时代「感性创业」将取代字节跳动的「理性创业」范式"
 description: "**【AI新时代的创业逻辑正在逆转：从理性效率到情感勾连】**  玉伯提出一个反直觉命题：移动互联网时代，字节跳动代表理性创业的巅峰——用算法最大化效率；但AI时代，感性创业反而更有机会。核心逻辑是：**谁能勾起用户的情感牵念、产生关系，谁就能获取上下文、让用户成瘾并付费**。这本质上是\"情感勾连=注意力×信任×数据获取\"的商业闭环。  这与传统的\"产品功能竞争\"完全不在一个维度。  ---  *"
 resource: "https://x.com/i/status/2039702529647247612"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2039702529647247612"
-created: "2026-04-02"
-updated: "2026-06-26"
-sha256: "c07ee1676174b941d23a167d7a9893a0059992ae4c99e9172a3364854281593c"
-sources:
-  - "/sources/highlights/2026-04-02/00__lifesinger__玉伯-ai时代-感性创业-将取代字节跳动的-理性创业-范式.md"
 ---
 
 # 玉伯：AI时代「感性创业」将取代字节跳动的「理性创业」范式

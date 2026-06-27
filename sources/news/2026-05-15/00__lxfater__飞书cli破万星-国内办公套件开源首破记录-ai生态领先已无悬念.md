@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "飞书CLI破万星：国内办公套件开源首破记录，AI生态领先已无悬念"
 description: "**[字节飞书CLI用一个月冲上1万Star，国内办公套件开源纪录首次被刷新]**  - CLi破万星速度比其他同时间段开源的L!项目快5倍，后者在2k水平徘徊，差距悬殊 - 这意味着飞书在AI办公生态的工具链布局已形成实质性壁垒，非单纯概念叙事 - 开源社区用脚投票的结果，比官方宣传更具说服力  gakki：一个月破万不是运气，是飞书把AInative工作流做进了CLI底层的必然。但破万之后能不"
 resource: "https://x.com/i/status/2055137935935103178"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2055137935935103178"
-created: "2026-05-15"
-updated: "2026-06-26"
-sha256: "56b0dfd7131c48c00abd08da251d8830860c0a7a10b15bd229255c51096a4912"
-sources:
-  - "/sources/news/2026-05-15/00__lxfater__飞书cli破万星-国内办公套件开源首破记录-ai生态领先已无悬念.md"
 ---
 
 # 飞书CLI破万星：国内办公套件开源首破记录，AI生态领先已无悬念

@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Cyandev 戳破 AI 工具定价幻觉：Enterprise Plan 在补贴 Individual Plan，非中国公司根本铺不开"
 description: "**一线工程师体感：Codex 都快用不起了。非中国公司的真实处境是——用天价 Enterprise 订阅去补贴 KOL 们'约等于免费'的 Individual 订阅。**  要点： - 程序员'已死'叙事与中小企业真实采购能力之间存在巨大认知差 - AI Coding 工具的'补贴式增长'不可持续，企业侧 ROI 模型远未跑通 - 当 KOL 用免费额度带节奏时，工程团队正在为每个 token"
 resource: "https://x.com/i/status/2054463615835705465"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2054463615835705465"
-created: "2026-05-13"
-updated: "2026-06-26"
-sha256: "a7e2669b6d5958e309c676233928b3e5f6b0a132fa94f38ed98ae327a8d7dc22"
-sources:
-  - "/sources/news/2026-06-24/00__cyandev__cyandev-戳破-ai-工具定价幻觉-enterprise-plan-在补贴-individual-plan-非中国.md"
 ---
 
 # Cyandev 戳破 AI 工具定价幻觉：Enterprise Plan 在补贴 Individual Plan，非中国公司根本铺不开

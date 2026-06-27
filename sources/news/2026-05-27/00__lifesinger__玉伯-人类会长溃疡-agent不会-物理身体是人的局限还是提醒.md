@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "玉伯：人类会长溃疡，Agent不会——物理身体是人的局限还是提醒"
 description: "**一句话核心判断：** 玉伯用一句话点出了AI协作中的人类困境——身体的存在既是执行瓶颈，也是人类代理价值的最后边界。  **要点：** - 文字本身很轻，但对比感很强：人的生理局限 vs Agent的无限续航 - 隐含命题：当Agent可以7x24小时运行时，人类的时间债务实际上被转嫁给了机器，但人类依然要为机器的结果负责  **gakki锐评：** 这条推本身是情绪性的，没有信息增量。但它折"
 resource: "https://x.com/i/status/2059597915610562866"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2059597915610562866"
-created: "2026-05-27"
-updated: "2026-06-26"
-sha256: "4d94ea95db177299f3bc9009fc4c1245cf5bf0c25f7b4544a8a1b317b8176ff2"
-sources:
-  - "/sources/news/2026-05-27/00__lifesinger__玉伯-人类会长溃疡-agent不会-物理身体是人的局限还是提醒.md"
 ---
 
 # 玉伯：人类会长溃疡，Agent不会——物理身体是人的局限还是提醒

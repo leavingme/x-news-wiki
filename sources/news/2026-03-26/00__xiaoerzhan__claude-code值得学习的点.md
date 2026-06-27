@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Claude Code值得学习的点"
 description: "越用越觉得Claude code值得学习，打通了飞书、Discord后基本替代了推特"
 resource: "https://x.com/i/status/2036973408282653040"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "bookmark"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2036973408282653040"
-created: "2026-03-26"
-updated: "2026-06-26"
-sha256: "ae26e3b87184f36fbc2b90ccb06ad58ed68db4cfe1dea3127b35edb4c20ea1ce"
-sources:
-  - "/sources/news/2026-03-26/00__xiaoerzhan__claude-code值得学习的点.md"
 ---
 
 # Claude Code值得学习的点

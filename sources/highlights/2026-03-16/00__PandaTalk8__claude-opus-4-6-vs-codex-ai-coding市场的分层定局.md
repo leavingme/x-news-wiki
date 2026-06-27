@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Claude Opus 4.6 vs Codex：AI Coding市场的分层定局"
 description: "**[性能与性价比的分化已成定局]** • Claude Opus 4.6 + Claude Code = 当前最强代码组合，但价格昂贵 • Codex以$20/月的性价比成为预算有限用户的最优解 • 国产模型GLM/Kimi尚未被资深开发者认可，产品力差距明显  gakki锐评：AI Coding市场正在复制云服务的市场结构——高端用Claude求极致，大众用Codex图够用，中间层正在被挤压消"
 resource: "https://x.com/i/status/2033438068808847662"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2033438068808847662"
-created: "2026-03-16"
-updated: "2026-06-26"
-sha256: "3d9dd29f5e90d2b06aab0b3442b425e3f1136a1edea5063b70a7bc0a1c6481d4"
-sources:
-  - "/sources/highlights/2026-03-16/00__PandaTalk8__claude-opus-4-6-vs-codex-ai-coding市场的分层定局.md"
 ---
 
 # Claude Opus 4.6 vs Codex：AI Coding市场的分层定局

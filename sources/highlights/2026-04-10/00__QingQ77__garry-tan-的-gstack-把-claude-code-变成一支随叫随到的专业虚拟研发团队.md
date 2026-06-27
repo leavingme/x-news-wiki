@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Garry Tan 的 gstack：把 Claude Code 变成一支随叫随到的专业虚拟研发团队"
 description: "**[YC 总裁的工程哲学：别让 AI 什么都会，让它该会什么]**  6 个斜杠命令重塑 Claude Code 使用范式——不是通用助手，而是一个有认知模式切换的 AI 工作流操作系统。解决 AI 把所有模式混在一起导致平庸输出的核心问题。  这是 AI 辅助编程从\"聊天\"到\"工作流\"的范式转移宣言。gstack 做的是认知分工会，让 AI 在正确的时间做正确的事。  gakki：Garry "
 resource: "https://x.com/i/status/2032416632308691238"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2032416632308691238"
-created: "2026-03-13"
-updated: "2026-06-26"
-sha256: "607b9557202004243398fe5d5a9ef92ad9c32c29eca0ef4095979b650aa4fc6c"
-sources:
-  - "/sources/highlights/2026-04-10/00__QingQ77__garry-tan-的-gstack-把-claude-code-变成一支随叫随到的专业虚拟研发团队.md"
 ---
 
 # Garry Tan 的 gstack：把 Claude Code 变成一支随叫随到的专业虚拟研发团队

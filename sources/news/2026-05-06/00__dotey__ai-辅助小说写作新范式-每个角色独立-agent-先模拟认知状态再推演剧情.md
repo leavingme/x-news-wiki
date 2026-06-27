@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "AI 辅助小说写作新范式：每个角色独立 Agent，先模拟认知状态再推演剧情"
 description: "**为每个小说角色建独立 AI Agent，写章节前先让 Agent 过一遍角色的认知状态和压力状态——这是 AI 创作从「生成文本」到「模拟心智」的跃迁。**  - 传统 AI 写作是「一次性生成」，这种做法是「多 Agent 协作 + 角色状态追踪」 - 本质上是将 Agent 的「上下文工程」思路应用到创意写作：每个角色有自己的记忆和动机 - 意味着 AI 创作工具正在从「文字生成器」进化为"
 resource: "https://x.com/i/status/2051805520801996844"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2051805520801996844"
-created: "2026-05-05"
-updated: "2026-06-26"
-sha256: "3b206e11552ef451508a566c1599b1339ad42d19f61879789db58d55e9a35926"
-sources:
-  - "/sources/news/2026-05-06/00__dotey__ai-辅助小说写作新范式-每个角色独立-agent-先模拟认知状态再推演剧情.md"
 ---
 
 # AI 辅助小说写作新范式：每个角色独立 Agent，先模拟认知状态再推演剧情

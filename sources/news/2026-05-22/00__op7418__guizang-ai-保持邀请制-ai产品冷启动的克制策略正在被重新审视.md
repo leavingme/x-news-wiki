@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "guizang.ai 保持邀请制：AI产品冷启动的克制策略正在被重新审视"
 description: "**[邀请制的信号价值]**  - guizang.ai（歸藏）明确表示目前是邀请制，这是中文 AI 产品中较少见的克制策略 - 邀请制在 AI 工具泛滥的当下，反而成为一种质量信号和稀缺性营销 - 与「全开放、免费用」的主流策略形成对比  **gakki 说：** 2024年全行业都在卷开放时，选择邀请制的要么是真自信，要么是还没准备好——guizang.ai 属于哪种，还需要观察。"
 resource: "https://x.com/i/status/2057713130516709741"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2057713130516709741"
-created: "2026-05-22"
-updated: "2026-06-26"
-sha256: "9d82594a429cbabcfbb5c307df21e4b1b334c70df2385cfdc01677b0a4697405"
-sources:
-  - "/sources/news/2026-05-22/00__op7418__guizang-ai-保持邀请制-ai产品冷启动的克制策略正在被重新审视.md"
 ---
 
 # guizang.ai 保持邀请制：AI产品冷启动的克制策略正在被重新审视

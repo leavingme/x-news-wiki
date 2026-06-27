@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "DeepSeek V3 一周年：回望中国 AI 震撼全球的“暴力美学”"
 description: "**[算力效率的巅峰对决]** 一年前 DeepSeek V3 以极低成本横扫硅谷巨头，彻底改变了全球 AI 竞争格局。 - **寒武纪时刻**：DeepSeek 的出现让 OpenAI、Google 股价崩盘，证明了中国团队在算法优化上的极限能力。 - **打破垄断**：白宫惊慌、华尔街崩盘，DeepSeek 成功在封闭的硅谷堡垒上撕开了口子。 - **一周年纪念**：一年前的“奇迹”至今仍是国"
 resource: "https://x.com/i/status/2017840880351105132"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2017840880351105132"
-created: "2026-02-01"
-updated: "2026-06-26"
-sha256: "90cf57aa5c9a69981c0150dbe8de660fc79cde65240a1ff0b48869a977bc631c"
-sources:
-  - "/sources/news/2026-02-01/00__lidangzzz__deepseek-v3-一周年-回望中国-ai-震撼全球的-暴力美学.md"
 ---
 
 # DeepSeek V3 一周年：回望中国 AI 震撼全球的“暴力美学”

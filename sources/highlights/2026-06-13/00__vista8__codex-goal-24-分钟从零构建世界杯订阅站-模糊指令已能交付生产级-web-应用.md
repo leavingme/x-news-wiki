@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Codex Goal 24 分钟从零构建世界杯订阅站：模糊指令已能交付生产级 Web 应用"
 description: "**向阳乔木用 Codex Goal 一句话指令，24 分钟交付一个支持 48 支球队、12 小组分组订阅、ICS 日历含开赛 30 分钟前提醒的完整世界杯日程 Web 应用。**  - 一句话 Goal → 完整生产级 Web 产品，再次验证 Codex 对模糊指令的容忍度 - 支持按赛程/球队/小组的个性化订阅，含真实可用的 ICS 日历协议 - 继'6 小时长跑'实测后，刷新 Codex G"
 resource: "https://x.com/i/status/2065817104847458544"
@@ -22,13 +22,6 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "codex-cli-tool-encapsulation"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2065817104847458544"
-created: "2026-06-13"
-updated: "2026-06-26"
-sha256: "c5e25d7d6d86a0a0f1bf7d92092c122dc09b489531584915ce4bb40dd3ef3ab5"
-sources:
-  - "/sources/highlights/2026-06-13/00__vista8__codex-goal-24-分钟从零构建世界杯订阅站-模糊指令已能交付生产级-web-应用.md"
 ---
 
 # Codex Goal 24 分钟从零构建世界杯订阅站：模糊指令已能交付生产级 Web 应用

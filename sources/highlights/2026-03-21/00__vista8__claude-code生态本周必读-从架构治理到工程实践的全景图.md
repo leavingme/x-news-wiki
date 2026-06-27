@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Claude Code生态本周必读：从架构治理到工程实践的全景图"
 description: "**[Claude Code正从工具进化为工程范式]** • tw93两篇深度长文首次系统披露Claude Code架构与Agent原理，补全中文社区认知缺口 • YC CEO Garry Tan开源AI工作流Skill获3万+Star，硅谷顶级创投的Agent实践范式公开 • Anthropic工程师Thariq亲述构建Claude Code的教训，Skill体系的渐进式披露心法首次披露 • 张"
 resource: "https://x.com/i/status/2035207787475869917"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2035207787475869917"
-created: "2026-03-21"
-updated: "2026-06-26"
-sha256: "12d99d33cea96dc2aecb21025ccc83e44b6b84a30f360d2d16cc7160b9045582"
-sources:
-  - "/sources/highlights/2026-03-21/00__vista8__claude-code生态本周必读-从架构治理到工程实践的全景图.md"
 ---
 
 # Claude Code生态本周必读：从架构治理到工程实践的全景图

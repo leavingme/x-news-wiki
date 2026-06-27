@@ -1,23 +1,17 @@
 ---
-type: "entity"
+type: "Author"
 title: "Wayne Zhang (@wayne_zhang0)"
 description: "X/Twitter 作者 @wayne_zhang0。共收录 1 条 AI 精选推文。"
 tags:
   - "x-news"
   - "author"
   - "author:wayne_zhang0"
-timestamp: "2026-06-26T11:53:36.986Z"
+timestamp: "2026-06-27T08:40:40.198Z"
 x_handle: "wayne_zhang0"
 x_author_name: "Wayne Zhang"
 x_tweet_count: 1
 x_first_seen: "2026-04-15T00:44:46.023Z"
 x_last_seen: "2026-04-15T00:44:46.023Z"
-type_okf: "Author"
-created: "2026-04-15"
-updated: "2026-06-26"
-sha256: "a164f218ecc22216d7e5648820708b540f83d4e5cb9e4c11d9bc946f04550745"
-sources:
-  - "/sources/highlights/2026-04-15/00__wayne_zhang0__harness-engineering-正在制造新的复杂度陷阱-层级越多-信息损耗越大.md"
 ---
 
 # Wayne Zhang (@wayne_zhang0)

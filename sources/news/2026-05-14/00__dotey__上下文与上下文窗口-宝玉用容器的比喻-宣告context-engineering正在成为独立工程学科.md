@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "上下文与上下文窗口：宝玉用容器的比喻，宣告Context Engineering正在成为独立工程学科"
 description: "**[上下文是Agent脑子里的动态信息，上下文窗口是模型一次性处理的容量上限——两者已被宝玉清晰区分]**  宝玉发文澄清了Agent开发社区中长期混淆的两个概念：上下文（Context）指Agent实际拥有的所有动态信息（系统提示词、对话历史、检索文档、工具结果、记忆模块等），而上下文窗口（Context Window）是模型单次推理的硬性token容量上限。  他的核心论断是：Agent的上"
 resource: "https://x.com/i/status/2054774181808488756"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2054774181808488756"
-created: "2026-05-14"
-updated: "2026-06-26"
-sha256: "2c9a41d3666da7e3c9ea4274995069cdb220fd0d2453d3dc247dfeaaedfd725f"
-sources:
-  - "/sources/news/2026-05-14/00__dotey__上下文与上下文窗口-宝玉用容器的比喻-宣告context-engineering正在成为独立工程学科.md"
 ---
 
 # 上下文与上下文窗口：宝玉用容器的比喻，宣告Context Engineering正在成为独立工程学科

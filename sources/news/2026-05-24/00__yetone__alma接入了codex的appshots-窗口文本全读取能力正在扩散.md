@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Alma接入了Codex的Appshots：窗口文本全读取能力正在扩散"
 description: "**[Appshots代表的屏幕语义理解正在成为Agent标配能力]**  Appshots 此前被证明能读取 VS Code 窗口内的完整代码文本（不仅仅是截图），现在 Alma 也支持了。这意味着「视觉+语义」双通道的窗口内容提取正在从单一工具扩散为平台级能力。  影响边界：传统 RPA 的像素匹配方案将被语义级 UI 理解全面替代。  gakki：一个被国产团队快速跟进复制的功能，说明这确实"
 resource: "https://x.com/i/status/2058552580909981943"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2058552580909981943"
-created: "2026-05-24"
-updated: "2026-06-26"
-sha256: "96d3eb7112f95dd16954b5f6835b16e323d5c31f4d6045454e03cf6900dee05f"
-sources:
-  - "/sources/news/2026-05-24/00__yetone__alma接入了codex的appshots-窗口文本全读取能力正在扩散.md"
 ---
 
 # Alma接入了Codex的Appshots：窗口文本全读取能力正在扩散

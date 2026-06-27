@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Agent产品设计核心分界：以人为中心vs以Agent为中心决定了工作区布局"
 description: "**AI 创业者最容易犯的一个错是去学习同期的成功创业者**  - 核心洞察：Agent产品的设计范式存在根本分野——以人为主（辅助场景）vs以Agent为主（指挥场景），两者工作区布局逻辑相反 - 实证支撑：Codex App、Claude Desktop、Cursor Agent均采用「Agent对话区居中、工作区在右」的设计，证明主流已向Agent主导倾斜 - 场景对比：写PPT案例极具说明"
 resource: "https://x.com/i/status/2059666423538983242"
@@ -22,13 +22,6 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "agent-native-paradigm"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2059666423538983242"
-created: "2026-05-27"
-updated: "2026-06-26"
-sha256: "e52b7f4005acec32cecfaa0ad39ab3aff6e37994fcec0a907e126ce8674ea21d"
-sources:
-  - "/sources/highlights/2026-05-27/00__dotey__agent产品设计核心分界-以人为中心vs以agent为中心决定了工作区布局.md"
 ---
 
 # Agent产品设计核心分界：以人为中心vs以Agent为中心决定了工作区布局

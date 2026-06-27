@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "CodePilot 已支持自行接入 GLM-5.2：国产模型进入 IDE 侧栏的自由配置时代"
 description: "**[国产模型正式进入 IDE 模型管理面板]**  - 歸藏提示：GLM-5.2 可在 CodePilot 模型管理中自行添加 - 信号：IDE 侧栏正变成模型无关的路由层，国产模型接入门槛进一步降低 - 配合 歸藏的实测（指令遵循好但自主性差），开发者可按场景灵活搭配   gakki 锐评：从'想用国产模型'到'IDE 三步添加完事'，这是分发渠道的质变。CodePilot 的开放姿态，比模型"
 resource: "https://x.com/i/status/2067088428047770016"
@@ -22,13 +22,6 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "ai-multimodel-routing"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2067088428047770016"
-created: "2026-06-17"
-updated: "2026-06-26"
-sha256: "ded86ecf8a877f4fdb12d48956c59541c1aa5b61a63a40e2c6e03741ea28fb23"
-sources:
-  - "/sources/news/2026-06-17/00__op7418__codepilot-已支持自行接入-glm-5-2-国产模型进入-ide-侧栏的自由配置时代.md"
 ---
 
 # CodePilot 已支持自行接入 GLM-5.2：国产模型进入 IDE 侧栏的自由配置时代

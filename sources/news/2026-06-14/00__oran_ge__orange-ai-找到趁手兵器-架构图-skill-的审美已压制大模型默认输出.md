@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Orange AI 找到趁手兵器：架构图 Skill 的审美已压制大模型默认输出"
 description: "**「审美+结构双重约束」的内容生成正在脱离\"让大模型自由发挥\"范式。**  - Orange AI 推荐一个架构图 Skill,认为比大模型默认生成的好用太多 - 与 Orange AI 此前蒸馏的「橙线插画」Skill 同向：专业设计工序正在被封装成可调用 Skill - 呼应 DESIGN.md / MarkItDown 这类「结构化设计协议」的整体趋势   gakki 锐评：单条推荐不构成"
 resource: "https://x.com/i/status/2065973931169956282"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2065973931169956282"
-created: "2026-06-14"
-updated: "2026-06-26"
-sha256: "b81ddf242332dbe74ba20c166a5d1b410aeb8ac81a64bca5f1d89b4b0c605e56"
-sources:
-  - "/sources/news/2026-06-14/00__oran_ge__orange-ai-找到趁手兵器-架构图-skill-的审美已压制大模型默认输出.md"
 ---
 
 # Orange AI 找到趁手兵器：架构图 Skill 的审美已压制大模型默认输出

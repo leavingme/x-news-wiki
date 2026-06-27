@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "有道子曰4开源权重：跨语种口音消除才是语音克隆的工程真壁垒"
 description: "**[一句话核心判断]** 有道开源27B参数的子曰4，真正的差异化不是克隆声音，而是消除跨语种口音——你的中文声音说日语，听起来像日本人。  **要点：** - 3秒克隆、支持14种语言，跨语种不串口音是核心技术突破 - 开源的是完整权重（54G），不是API，可本地部署 - 有道龙虾全场景智能体也100%开源，形成开源组合拳  **gakki锐评：** 语音克隆赛道已经卷到\"能克隆\"这一步，但"
 resource: "https://x.com/i/status/2057716227276247066"
@@ -22,13 +22,6 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "ai-agent-gamification"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2057716227276247066"
-created: "2026-05-22"
-updated: "2026-06-26"
-sha256: "d6841d802cc26062bb6d0fe08a3c8489b01b5663baafdaffd124b27d2203c882"
-sources:
-  - "/sources/highlights/2026-05-22/00__lxfater__有道子曰4开源权重-跨语种口音消除才是语音克隆的工程真壁垒.md"
 ---
 
 # 有道子曰4开源权重：跨语种口音消除才是语音克隆的工程真壁垒

@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Codex 额度重置争议：API 产品设计正在成为新的护城河"
 description: "**[Codex 不语，只是一味重置额度]**  额度重置是 API 产品的老大难问题，但背后折射的是 OpenAI 对 Codex 商业化的急迫。  当产品还在快速迭代时，动额度就是动用户预期，用户流失会比技术问题来得更快。  gakki：额度重置不是技术问题，是产品节奏问题。OpenAI 似乎在「快速扩张」和「精细运营」之间选择了前者，这在 Claude Code 稳定输出的映照下会越来越被动"
 resource: "https://x.com/i/status/2056943517658911013"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2056943517658911013"
-created: "2026-05-20"
-updated: "2026-06-26"
-sha256: "cecc5311a41785052e745031fd26ccead8df120209ca89ddaf26d4f0f7f6e25f"
-sources:
-  - "/sources/news/2026-05-20/00__op7418__codex-额度重置争议-api-产品设计正在成为新的护城河.md"
 ---
 
 # Codex 额度重置争议：API 产品设计正在成为新的护城河

@@ -1,23 +1,17 @@
 ---
-type: "entity"
+type: "Author"
 title: "GeekPark (@GeekPark)"
 description: "X/Twitter 作者 @GeekPark。共收录 1 条 AI 精选推文。"
 tags:
   - "x-news"
   - "author"
   - "author:GeekPark"
-timestamp: "2026-06-26T11:53:37.000Z"
+timestamp: "2026-06-27T08:40:40.215Z"
 x_handle: "GeekPark"
 x_author_name: "GeekPark"
 x_tweet_count: 1
 x_first_seen: "2026-05-30T22:18:17.067Z"
 x_last_seen: "2026-05-30T22:18:17.067Z"
-type_okf: "Author"
-created: "2026-05-30"
-updated: "2026-06-26"
-sha256: "ee49fb4a8b1f887107f60c58bd82dd78725a9d178719a48b5508331fbc182790"
-sources:
-  - "/sources/news/2026-05-30/00__GeekPark__推文内容已实现全球互联互通-信息差的最后壁垒正在消失.md"
 ---
 
 # GeekPark (@GeekPark)

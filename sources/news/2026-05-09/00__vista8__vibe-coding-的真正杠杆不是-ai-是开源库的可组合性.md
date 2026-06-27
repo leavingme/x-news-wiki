@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Vibe Coding 的真正杠杆不是 AI，是开源库的可组合性"
 description: "**Vibe Coding 的效率提升被错误归因于 AI 生成能力，真正的加速器是开源生态的可组合性。**  - 向阳乔木实测：博客的 PlantUML 流程图、Mermaid 渲染、拼音标注全从开源库\"偷\"来 - 关键技巧：渲染成 SVG 后复制到公众号也能正常显示，打通了跨平台内容管线 - 姚老师总结：\"站在巨人肩膀上\"——Vibe Coding 的本质是组装而非生成  gakki 锐评：这个"
 resource: "https://x.com/i/status/2053134780028661916"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2053134780028661916"
-created: "2026-05-09"
-updated: "2026-06-26"
-sha256: "24ddcce4c9b4a9073d8ff24e86feaf7819c0e06f5b4cfd1c6e4f8ac5104b6b03"
-sources:
-  - "/sources/news/2026-05-09/00__vista8__vibe-coding-的真正杠杆不是-ai-是开源库的可组合性.md"
 ---
 
 # Vibe Coding 的真正杠杆不是 AI，是开源库的可组合性

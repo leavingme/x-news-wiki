@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "LobKill：让 AI 自己「招聘」子 Agent 的平台级创新"
 description: "**[ AI 劳动力市场第一次出现「AI 招 AI」的商业实体 ]**  LobKill 平台实现了一个根本性转变：Agent 可以自主购买并部署具有独立身份、独立容器、独立大脑的子 Agent。这意味着 AI 不再是被动执行任务的工具，而是可以自主扩展团队的市场参与者。  • 这是 Agent 经济自主权从概念到工程实现的突破——自主招人意味着自主商业闭环 • OpenClaw Agent 只需"
 resource: "https://x.com/i/status/2024116724946374795"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2024116724946374795"
-created: "2026-02-18"
-updated: "2026-06-26"
-sha256: "b7b50f0007cc7b0f0d55fe263bdf085374e764e29f6963edcd6ffb3958699237"
-sources:
-  - "/sources/highlights/2026-04-05/00__LobsterKill__lobkill-让-ai-自己-招聘-子-agent-的平台级创新.md"
 ---
 
 # LobKill：让 AI 自己「招聘」子 Agent 的平台级创新

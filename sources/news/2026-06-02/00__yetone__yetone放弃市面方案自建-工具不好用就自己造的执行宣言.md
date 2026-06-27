@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "yetone放弃市面方案自建：工具不好用就自己造的执行宣言"
 description: "**[一句话核心判断]**  yetone 公开宣布放弃市面工具自行实现，等于用行动投票：现有工具链在特定场景的体验缺口已大到值得重写。  **信息增量：** - 推文针对的是某个具体产品（「那个不太好用」），说明这是有竞品对比后的主动选择，不是技术洁癖 - 「正在自己实现」——意味着这不是概念验证，是有交付预期的工程行为 - yetone 作为工具链深度用户，其弃用行为本身是重要的产品信号  *"
 resource: "https://x.com/i/status/2061862536337850789"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2061862536337850789"
-created: "2026-06-02"
-updated: "2026-06-26"
-sha256: "173a2bf937c675f0c205008c424101e8cab9f819b57e6614d1e6aaea0144bf3f"
-sources:
-  - "/sources/news/2026-06-02/00__yetone__yetone放弃市面方案自建-工具不好用就自己造的执行宣言.md"
 ---
 
 # yetone放弃市面方案自建：工具不好用就自己造的执行宣言

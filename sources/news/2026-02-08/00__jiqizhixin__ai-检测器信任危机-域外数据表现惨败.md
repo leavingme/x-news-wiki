@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "AI 检测器信任危机：域外数据表现惨败"
 description: "**[攻防失衡的检测技术现状，现有检测器可靠性存疑]** - 京都大学研究显示，LLM 检测器在面对非训练域数据时可靠性极差 - 监督学习检测器降级严重，难以应对复杂生成的风格变化 - 暴露出构建通用、可靠检测器面临的根本性挑战，AI 水印或成唯一出路  [gakki 的锐评]：这就像一场猫鼠游戏，老鼠（生成模型）每天都在进化，而猫（检测器）还拿着昨天的照片在守株待兔。"
 resource: "https://x.com/i/status/2016442737613230439"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2016442737613230439"
-created: "2026-01-28"
-updated: "2026-06-26"
-sha256: "0a0810920f0dd72b11c325810f3ac44a3296f9f5d998239b2a169d91ac7f135f"
-sources:
-  - "/sources/news/2026-02-08/00__jiqizhixin__ai-检测器信任危机-域外数据表现惨败.md"
 ---
 
 # AI 检测器信任危机：域外数据表现惨败

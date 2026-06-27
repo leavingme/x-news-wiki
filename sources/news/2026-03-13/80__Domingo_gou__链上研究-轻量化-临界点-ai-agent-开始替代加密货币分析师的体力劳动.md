@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "链上研究「轻量化」临界点：AI Agent 开始替代加密货币分析师的体力劳动"
 description: "**[链上研究的范式转移：从人工拼凑数据到 Agent 自动简报]** • 传统链上研究节奏：看热度→查 token→翻钱包→跟聪明钱，信息碎片化严重 • OpenClaw + Binance Skills 工作流可在数秒内完成市场扫描→代币信息→链上信号的全流程 • Binance 发起「AI Agent 小龙虾大赛」，实质是推动 AI 成为链上研究基础设施 • 关键变化：链上研究从「重人工」转"
 resource: "https://x.com/i/status/2032306458201899369"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 80
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2032306458201899369"
-created: "2026-03-13"
-updated: "2026-06-26"
-sha256: "bbe7b657b4357031fa52bf7978783ede6ebdc1e2baa40c8625e630649a97c26e"
-sources:
-  - "/sources/news/2026-03-13/80__Domingo_gou__链上研究-轻量化-临界点-ai-agent-开始替代加密货币分析师的体力劳动.md"
 ---
 
 # 链上研究「轻量化」临界点：AI Agent 开始替代加密货币分析师的体力劳动

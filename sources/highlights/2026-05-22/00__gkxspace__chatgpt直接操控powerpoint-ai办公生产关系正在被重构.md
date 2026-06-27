@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "ChatGPT直接操控PowerPoint：AI办公生产关系正在被重构"
 description: "**一句话核心判断：** ChatGPT now natively creates and edits PowerPoint presentations — the AI is no longer suggesting, it's operating.  **信息增量：** - 直接在PowerPoint内构建、更新幻灯片，且保留可编辑性——意味着AI从\"建议者\"升级为\"执行者\" - 这不是API"
 resource: "https://x.com/i/status/2057646837260075327"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2057646837260075327"
-created: "2026-05-22"
-updated: "2026-06-26"
-sha256: "536939eb289c03346733a05da4c1f58e8be2448e77b8cf319f1535dff41e1d46"
-sources:
-  - "/sources/highlights/2026-05-22/00__gkxspace__chatgpt直接操控powerpoint-ai办公生产关系正在被重构.md"
 ---
 
 # ChatGPT直接操控PowerPoint：AI办公生产关系正在被重构

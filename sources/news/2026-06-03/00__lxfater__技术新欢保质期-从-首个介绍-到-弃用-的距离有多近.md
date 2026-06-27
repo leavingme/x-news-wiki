@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "技术新欢保质期：从「首个介绍」到「弃用」的距离有多近"
 description: "**[铁锤人观察：AI工具热度的快速衰减定律]**  - 现象：某AI工具的最早布道者（油管博主）在几期视频后停止使用——这是工具价值的真实信号 - 判断：布道者的弃用比任何评测都更有说服力，说明该工具在真实工作流中无法扎根 - 警示：AI工具的「早期热度」与「长期价值」之间存在巨大鸿沟， hype cycle 压缩得越来越短  gakki 说：嘴上说好用的，和手上还在用的，从来是两批人。看一个工"
 resource: "https://x.com/i/status/2062248709891784805"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2062248709891784805"
-created: "2026-06-03"
-updated: "2026-06-26"
-sha256: "5184a0b76a03f2d652c3b1dcc6a503fd32a6016c7d737d12150f25397823992d"
-sources:
-  - "/sources/news/2026-06-03/00__lxfater__技术新欢保质期-从-首个介绍-到-弃用-的距离有多近.md"
 ---
 
 # 技术新欢保质期：从「首个介绍」到「弃用」的距离有多近

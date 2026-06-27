@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "ListenHub 发布接入指南，OpenClaw 可一键获得 TTS 与画图能力"
 description: "ListenHub 发布 Skills 接入指南，OpenClaw 或其他 Agent 只需接入即可获得语音合成（TTS）、播客生成、解说视频等能力。"
 resource: "https://x.com/i/status/2027919934681190697"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2027919934681190697"
-created: "2026-03-01"
-updated: "2026-06-26"
-sha256: "c47cf308375992834b27182268d5e66d49c6f885405326345f1f394bb7fd0849"
-sources:
-  - "/sources/highlights/2026-03-01/00__oran_ge__listenhub-发布接入指南-openclaw-可一键获得-tts-与画图能力.md"
 ---
 
 # ListenHub 发布接入指南，OpenClaw 可一键获得 TTS 与画图能力

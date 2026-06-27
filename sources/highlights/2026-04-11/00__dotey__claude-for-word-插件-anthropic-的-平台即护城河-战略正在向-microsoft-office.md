@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Claude for Word 插件：Anthropic 的「平台即护城河」战略正在向 Microsoft Office 纵深推进"
 description: "**一句话核心判断**：Word 内侧边栏 + 修订模式 + Skills 复用 + 跨插件上下文共享——Anthropic 正在把 Claude 从「对话工具」变成「Office 里的默认工作层」。  - 修订模式原生集成：改合同、润色报告不用再在应用间来回切换，格式自动保留 - Skills 跨成员复用：团队把合同审查封装成 Skill，一键分发，非技术用户也能跑工作流 - Excel→Wor"
 resource: "https://x.com/i/status/2042714553004245254"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2042714553004245254"
-created: "2026-04-10"
-updated: "2026-06-26"
-sha256: "4ba434eebe650f083ce1fe25cc8166dfaa812bf93dadf4bf02a736dca641d7b6"
-sources:
-  - "/sources/highlights/2026-04-11/00__dotey__claude-for-word-插件-anthropic-的-平台即护城河-战略正在向-microsoft-office.md"
 ---
 
 # Claude for Word 插件：Anthropic 的「平台即护城河」战略正在向 Microsoft Office 纵深推进

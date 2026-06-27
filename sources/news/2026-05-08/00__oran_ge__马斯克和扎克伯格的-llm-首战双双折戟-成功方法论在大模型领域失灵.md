@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "马斯克和扎克伯格的 LLM 首战双双折戟：成功方法论在大模型领域失灵"
 description: "**大模型赛道正在重写「赢家公式」——过去的资源碾压和执行力优势不再线性转化为模型能力。**  - Orange AI 指出，马斯克在 xAI、扎克伯格在 Meta AI 的首次大模型尝试均未达预期，两位以「后发制人」著称的科技领袖在 LLM 领域遭遇方法论失效 - 这验证了一个反直觉判断：大模型竞争的本质不是资本密度或工程执行力，而是研究品味、数据飞轮和对齐工艺的复合壁垒  gakki 锐评：当"
 resource: "https://x.com/i/status/2052734420122275878"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2052734420122275878"
-created: "2026-05-08"
-updated: "2026-06-26"
-sha256: "d77ff06547c69806d9690c2f7f91c72418d4953291cab6da59b9e2641c0dfbd1"
-sources:
-  - "/sources/news/2026-05-08/00__oran_ge__马斯克和扎克伯格的-llm-首战双双折戟-成功方法论在大模型领域失灵.md"
 ---
 
 # 马斯克和扎克伯格的 LLM 首战双双折戟：成功方法论在大模型领域失灵

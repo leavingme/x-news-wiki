@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Skills 生态第一起版权战：歸藏的 PPT skill 被连代码带名字全抄走"
 description: "**SKILL.md 从「共享礼物」变成「被抄资产」，Skills 生态的协议分水岭已经到来。**  要点： - 歸藏公开喊话：PPT skill 协议硬性要求署名 + 开源，不愿开源需走商业授权，但有人连代码带名字一并照搬 - 「抄点子也就算了，抄代码，抄名字」是典型开源社区失序信号 - 背景叠加宝玉图灵开课讲 Agent Skills、字节三 Layer 架构验证范式，Skill 正在被业内正"
 resource: "https://x.com/i/status/2062801259544068176"
@@ -22,13 +22,6 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "skills-ecosystem-standards"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2062801259544068176"
-created: "2026-06-05"
-updated: "2026-06-26"
-sha256: "97be6ad2ef08ed07948004cdf58b268cec71d160e17e4727eaf75e4478bbfcbf"
-sources:
-  - "/sources/highlights/2026-06-05/00__op7418__skills-生态第一起版权战-歸藏的-ppt-skill-被连代码带名字全抄走.md"
 ---
 
 # Skills 生态第一起版权战：歸藏的 PPT skill 被连代码带名字全抄走

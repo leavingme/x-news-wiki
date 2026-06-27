@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Codex 浏览器实操信号：填表、报税等「人类身份依赖」任务正在从 Claude 迁移到 Codex"
 description: "**铁锤人实测反馈：之前用 Claude 做填表、报税等工作，现在 Codex 浏览器控制如果支持到位，一个工具就够了。**  - 用户正在用脚投票：从 Claude Computer Use 迁向 Codex 浏览器方案 - 「用一个就行了」——工具收敛是 Agent 生态的必然趋势 - 填表、报税等场景是浏览器 Agent 的核心用例，不是 demo  这条推文的价值在于它是一个真实的用户迁移"
 resource: "https://x.com/i/status/2052589405538488323"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2052589405538488323"
-created: "2026-05-08"
-updated: "2026-06-26"
-sha256: "3f3ad0d7356e47084a056ef14e9089fc1baba1dddb551b019746bf14f5050e0e"
-sources:
-  - "/sources/news/2026-05-08/00__lxfater__codex-浏览器实操信号-填表-报税等-人类身份依赖-任务正在从-claude-迁移到-codex.md"
 ---
 
 # Codex 浏览器实操信号：填表、报税等「人类身份依赖」任务正在从 Claude 迁移到 Codex

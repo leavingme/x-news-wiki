@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "人大+字节Seed发布Agent-World：多环境强化学习让Agent自我进化训练"
 description: "**Agent训练范式从静态数据集转向真实工具生态的自演化竞技场。**  - Agent-World自动发现真实世界工具生态（API、数据库等），合成可验证、难度可调的任务 - 采用多环境强化学习，持续识别并修补Agent能力缺口 - 在23个高难度benchmark上完成验证，覆盖工具调用、多步推理等核心能力  这是Agent基建层的重要信号：训练数据不再是瓶颈，环境生成才是。字节Seed与人大"
 resource: "https://x.com/i/status/2049737278004883750"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2049737278004883750"
-created: "2026-04-30"
-updated: "2026-06-26"
-sha256: "05344651de6cec9df27275ea50632ac36c9b45d95010e7487090f01746a8a3ac"
-sources:
-  - "/sources/news/2026-04-30/00__jiqizhixin__人大-字节seed发布agent-world-多环境强化学习让agent自我进化训练.md"
 ---
 
 # 人大+字节Seed发布Agent-World：多环境强化学习让Agent自我进化训练

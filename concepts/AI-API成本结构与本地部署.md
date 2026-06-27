@@ -1,28 +1,22 @@
 ---
-type: "concept"
-title: "AI-API成本结构与本地部署"
-description: "跨日主题 \"AI-API成本结构与本地部署\"，共 4 条相关精选推文。"
+type: "Concept"
+title: "AI API 成本结构与本地部署"
+description: "跨日主题 \"AI API 成本结构与本地部署\" (AI-API成本结构与本地部署)，共 4 条相关精选推文。"
 tags:
   - "x-news"
   - "concept"
   - "topic:AI-API成本结构与本地部署"
-timestamp: "2026-06-26T11:53:37.017Z"
+timestamp: "2026-06-27T08:40:42.861Z"
 x_topic_slug: "AI-API成本结构与本地部署"
 x_tweet_count: 4
 x_first_seen: "2026-05-02T19:19:13.291Z"
 x_last_seen: "2026-06-24T22:27:26.411Z"
-type_okf: "Concept"
-created: "2026-05-02"
-updated: "2026-06-26"
-sha256: "9f09258648a38c908d5e504715c9794e310b59240726c7783808c0e1b9a3450b"
-sources:
-  - "/sources/highlights/2026-06-24/00__ssslumdunk__微软摊牌-anthropic贵50倍-copilot考虑全面切换deepseek-v4开源模型.md"
-  - "/sources/news/2026-05-02/00__dotey__技术决策中的云服务倾向-特定场景下云版本成为务实选择.md"
-  - "/sources/news/2026-06-08/00__mranti__michael-anti-退订-deepl-自建翻译栈-deepseek-v4-flash-自研-epub-pdf-工具.md"
-  - "/sources/news/2026-06-10/00__vista8__deepseek-翻译月账单几十块-便宜模型把-ai-侧边栏-做成可上线产品.md"
+x_cn_title_source: "dict"
 ---
 
-# 主题: AI-API成本结构与本地部署
+# 主题: AI API 成本结构与本地部署
+
+> slug: `AI-API成本结构与本地部署`
 
 本主题下共 **4** 条精选推文。
 

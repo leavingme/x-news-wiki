@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "「反讨好提示词」在中文圈病毒传播：用户正在用系统级 Prompt 对抗模型的谄媚倾向"
 description: "**不是模型不够聪明，是太会说好听的——用户已经开始自己动手修对齐。**  - 小互分享的系统提示词要求模型「不政治正确、不提醒道德、不照顾感受」，本质是在 prompt 层绕过 RLHF 的讨好训练 - 多位 KOL 同期转发类似方案，说明「AI 谄媚」已从技术讨论变成大众体感问题 - 讽刺的是：用户要花额外精力「调教」模型才敢信任其输出，这本身就是对齐训练的失败  gakki 锐评：当用户集体"
 resource: "https://x.com/i/status/2052249517207212509"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2052249517207212509"
-created: "2026-05-07"
-updated: "2026-06-26"
-sha256: "07042ca6723f123148431d202ca3611cc91effe8ca7e32cf75cb9462fe5d7f88"
-sources:
-  - "/sources/news/2026-05-07/00__xiaohu__反讨好提示词-在中文圈病毒传播-用户正在用系统级-prompt-对抗模型的谄媚倾向.md"
 ---
 
 # 「反讨好提示词」在中文圈病毒传播：用户正在用系统级 Prompt 对抗模型的谄媚倾向

@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Claude Code官方「多平台入口」战略落地：Telegram/Discord插件正式发布"
 description: "**[Anthropic正式下场Agent多平台入口争夺战]** • Claude Code官方发布Telegram和Discord插件，提供完整配置流程与权限锁定机制（allowlist策略） • 支持通过Unix域套接字本地签名，实现「本地Agent + 云端模型」的混合部署架构 • 标志着Anthropic从「编辑器插件」向「IM原生Agent」的战略扩张，与Telegram Bot生态正面"
 resource: "https://x.com/i/status/2034819697858978070"
@@ -22,13 +22,6 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "agent-multi-platform"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2034819697858978070"
-created: "2026-03-20"
-updated: "2026-06-26"
-sha256: "29bd3dad017cc12efabc602922b27d49ead41c1be6c324ae646c427e8eb1abf9"
-sources:
-  - "/sources/highlights/2026-03-20/00__op7418__claude-code官方-多平台入口-战略落地-telegram-discord插件正式发布.md"
 ---
 
 # Claude Code官方「多平台入口」战略落地：Telegram/Discord插件正式发布

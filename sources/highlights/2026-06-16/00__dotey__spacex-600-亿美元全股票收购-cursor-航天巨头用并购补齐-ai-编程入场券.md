@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "SpaceX 600 亿美元全股票收购 Cursor：航天巨头用并购补齐 AI 编程入场券"
 description: "SpaceX 上市后首笔大收购：600 亿美元拿下 Cursor 母公司 Anysphere（年化收入 26 亿，溢价一倍）。  交易结构：全股票交易仅稀释 IPO 估值 3.4%，消息公布后 SpaceX 股价涨 16%，市值一度超亚马逊/微软。  战略动机清晰：AI 编程赛道已是 Anthropic（Claude Code）与 OpenAI（Codex）两强，SpaceXAI 的 Grok 在"
 resource: "https://x.com/i/status/2066923691565580683"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2066923691565580683"
-created: "2026-06-16"
-updated: "2026-06-26"
-sha256: "8eddae3e31b7ebc406219be73943b18f7ce7adce7849bed9f3a6269e09905873"
-sources:
-  - "/sources/highlights/2026-06-16/00__dotey__spacex-600-亿美元全股票收购-cursor-航天巨头用并购补齐-ai-编程入场券.md"
 ---
 
 # SpaceX 600 亿美元全股票收购 Cursor：航天巨头用并购补齐 AI 编程入场券

@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "无状态vs有记忆：Discord机器人的65%激活率差距说明什么"
 description: "**[一句话核心判断]** Lucius AI通过保留跨会话对话历史实现65%首日激活率，是行业均值3倍，验证了Agent记忆才是留存的核心变量。  **要点：** - 无状态机器人：每次互动像第一次见面，3个月前的上下文全部丢失 - Lucius：有记忆，能在3个月前的对话基础上精准跟进 - 识别用户加入动机（开发者/投资者/探索者）并自动路由资源，两小时后自主跟进  **gakki锐评：** "
 resource: "https://x.com/i/status/2057703059887952200"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2057703059887952200"
-created: "2026-05-22"
-updated: "2026-06-26"
-sha256: "09a7f2e29411e983d6b95b7a3c8b40608bf920a34089a1953c54c08cf8c5e415"
-sources:
-  - "/sources/news/2026-05-22/00__Rourou0413__无状态vs有记忆-discord机器人的65-激活率差距说明什么.md"
 ---
 
 # 无状态vs有记忆：Discord机器人的65%激活率差距说明什么

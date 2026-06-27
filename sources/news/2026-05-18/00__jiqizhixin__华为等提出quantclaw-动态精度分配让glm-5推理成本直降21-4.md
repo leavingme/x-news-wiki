@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "华为等提出QuantClaw：动态精度分配让GLM-5推理成本直降21.4%"
 description: "**一句话核心判断** 按需分配算力的Adaptive Precision路线在推理优化上已成熟落地，证明了\"贵任务用大精度、简单任务降规格\"这条路的工程可行性。  **要点：** - 华为+新加坡国立大学+中科大联合发布QuantClaw，插件式设计无需额外训练，可动态切换INT/FP精度 - 在GLM-5上实测：推理速度提升15.7%，成本降低21.4%，且任务准确率无明显损失 - 与FP8基"
 resource: "https://x.com/i/status/2056208906360410198"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2056208906360410198"
-created: "2026-05-18"
-updated: "2026-06-26"
-sha256: "717d36e5004f0398679c52b66c2cec14eb9e849895646bf73f1ead22e21e1a04"
-sources:
-  - "/sources/news/2026-05-18/00__jiqizhixin__华为等提出quantclaw-动态精度分配让glm-5推理成本直降21-4.md"
 ---
 
 # 华为等提出QuantClaw：动态精度分配让GLM-5推理成本直降21.4%

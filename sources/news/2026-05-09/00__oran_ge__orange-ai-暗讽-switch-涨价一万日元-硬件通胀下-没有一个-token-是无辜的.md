@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Orange AI 暗讽：Switch 涨价一万日元，硬件通胀下「没有一个 Token 是无辜的」"
 description: "**硬件全面涨价的底层逻辑是 AI 算力需求对全球半导体产能的虹吸效应。**  - Switch 涨价只是冰山一角，GPU、HBM、先进制程产能被 AI 训练/推理吃掉后，消费电子被迫让路 - 「没有一个 Token 是无辜的」——每生成一个 Token 都在消耗真实物理资源，这条成本链终将传导到终端  硬件通胀不是周期性波动，是 AI 基础设施对全球制造产能的结构性挤占。消费电子只是第一个喊疼的"
 resource: "https://x.com/i/status/2052926229934977291"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2052926229934977291"
-created: "2026-05-09"
-updated: "2026-06-26"
-sha256: "0798035831366c04cc98c74c440990feaf20befc5dcecd30300619718e7871ec"
-sources:
-  - "/sources/news/2026-05-09/00__oran_ge__orange-ai-暗讽-switch-涨价一万日元-硬件通胀下-没有一个-token-是无辜的.md"
 ---
 
 # Orange AI 暗讽：Switch 涨价一万日元，硬件通胀下「没有一个 Token 是无辜的」

@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Raycast V2 从启动器升级为 AI Agent 平台：本地工具的 Agent 化正在加速"
 description: "**[Raycast 正在复制 OpenClaw 的路径：工具→Agent 平台的范式转移]**  Raycast 发布了 V2 Beta 版本，将自身从单纯启动器重构成「启动器 + AI Agent」工具。核心变化：底层架构全部重写，搜索/调度/扩展重新设计，AI 能力支持 Skills、Agent 和 Memory。这意味着本地工具的 Agent 化已从极客玩具进入主流工具赛道。  关键信号："
 resource: "https://x.com/i/status/2054903351222174138"
@@ -22,13 +22,6 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "multi-agent-framework-ecosystem-comparison"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2054903351222174138"
-created: "2026-05-14"
-updated: "2026-06-26"
-sha256: "6435aa553faaf32bb009fe0b7ea9495d50a1df0300f1e24911eb2ddbdfa2aa15"
-sources:
-  - "/sources/news/2026-05-14/00__op7418__raycast-v2-从启动器升级为-ai-agent-平台-本地工具的-agent-化正在加速.md"
 ---
 
 # Raycast V2 从启动器升级为 AI Agent 平台：本地工具的 Agent 化正在加速

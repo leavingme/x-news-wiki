@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "单 Prompt 跑出完成度可玩的 Fable 5：vibe gaming 拐点信号，但可复现性未解"
 description: "**Orange AI 一条提示词生成 Fable 5 可玩游戏，完成度高、用户体感「很上头」。**  要点： - 单条 Prompt 产出，无多轮迭代或人工拼装 - 完成度接近可发布质量，玩法+叙事已达消费级 - 与此前 vibe coding 工业化讨论形成跨品类共振   gakki 锐评：从 vibe coding 到 vibe gaming 的转换成本正被 AI 抹平，但「好玩」的可复现性"
 resource: "https://x.com/i/status/2065188882623381829"
@@ -22,13 +22,6 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "ai-game-dev-competition"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2065188882623381829"
-created: "2026-06-11"
-updated: "2026-06-26"
-sha256: "84784d9ab0970e2fa2257d3ee8b78c8b072e02e578f488c5fe6a9a42ae2c49b5"
-sources:
-  - "/sources/news/2026-06-11/00__oran_ge__单-prompt-跑出完成度可玩的-fable-5-vibe-gaming-拐点信号-但可复现性未解.md"
 ---
 
 # 单 Prompt 跑出完成度可玩的 Fable 5：vibe gaming 拐点信号，但可复现性未解

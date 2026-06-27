@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "直聘平台惊现\"淘汰更多人\"企业文化：AI能力正在重写雇佣叙事"
 description: "**[一句话核心判断]**  四川网友在Boss直聘发现某科技公司公然将\"通过AI能力帮助企业淘汰更多的人\"写入企业文化。网易丁磊群内\"开除速度一定要快\"的传闻形成呼应，AI替代焦虑正在从暗流变成明牌叙事。  **信息增量：** - 公开场合将AI替代写入公司价值观，信号强烈 - 丁磊\"开除速度一定要快\"与川普DEI清理形成跨时空共振 - 折射出企业主对AI替代的认知已经从\"潜在威胁\"变成\"主动策"
 resource: "https://x.com/i/status/2037001600229925356"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2037001600229925356"
-created: "2026-03-26"
-updated: "2026-06-26"
-sha256: "ba09015880b450408b0c4f967a3de715ac9b68816c4f3dd516863c5dbdb4172f"
-sources:
-  - "/sources/news/2026-04-16/00__whyyoutouzhele__直聘平台惊现-淘汰更多人-企业文化-ai能力正在重写雇佣叙事.md"
 ---
 
 # 直聘平台惊现"淘汰更多人"企业文化：AI能力正在重写雇佣叙事

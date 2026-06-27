@@ -1,25 +1,17 @@
 ---
-type: "entity"
+type: "Author"
 title: "Cursor (@cursor_ai)"
 description: "X/Twitter 作者 @cursor_ai。共收录 3 条 AI 精选推文。"
 tags:
   - "x-news"
   - "author"
   - "author:cursor_ai"
-timestamp: "2026-06-26T11:53:36.992Z"
+timestamp: "2026-06-27T08:40:40.205Z"
 x_handle: "cursor_ai"
 x_author_name: "Cursor"
 x_tweet_count: 3
 x_first_seen: "2026-04-29T19:18:00.857Z"
 x_last_seen: "2026-05-08T19:17:29.512Z"
-type_okf: "Author"
-created: "2026-04-29"
-updated: "2026-06-26"
-sha256: "c79063c1d1f7cd8b38bc908c685f7992dba9e55a7c6202d41be7f0197e587770"
-sources:
-  - "/sources/highlights/2026-04-29/00__cursor_ai__cursor-开放-agent-sdk-从编辑器升级为-agent-基础设施平台.md"
-  - "/sources/highlights/2026-05-07/00__cursor_ai__cursor-3-3-把上下文用量做成一等公民级调试能力-agent-工程的可观测性拐点.md"
-  - "/sources/news/2026-05-08/00__cursor_ai__cursor-3-把-pr-review-全链路收编进-ide-代码审查正在从-跳转-github-变成-不离开编辑器.md"
 ---
 
 # Cursor (@cursor_ai)

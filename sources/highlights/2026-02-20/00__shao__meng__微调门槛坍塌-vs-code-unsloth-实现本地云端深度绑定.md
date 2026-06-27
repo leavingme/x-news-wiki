@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "微调门槛坍塌：VS Code + Unsloth 实现本地云端深度绑定"
 description: "**[核心逻辑]** Google 发布 VS Code Colab 扩展，配合 Unsloth 框架将大模型微调流程从“系统工程”简化为“编辑器操作”。 - Unsloth 核心算法优化，单 GPU 训练速度提升 2-10 倍，显存占用降低 90%。 - Google 将 Colab 算力透明化为 VS Code Kernel，开发者无需离开 IDE 即可调用云端 GPU。 - 算力需求大幅降低"
 resource: "https://x.com/i/status/2024486004481282525"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2024486004481282525"
-created: "2026-02-19"
-updated: "2026-06-26"
-sha256: "baee91a1a465aea04de3c70463b62480bcfece5581e5a8ef7950c510923b2c8e"
-sources:
-  - "/sources/highlights/2026-02-20/00__shao__meng__微调门槛坍塌-vs-code-unsloth-实现本地云端深度绑定.md"
 ---
 
 # 微调门槛坍塌：VS Code + Unsloth 实现本地云端深度绑定

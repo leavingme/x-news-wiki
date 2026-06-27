@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Vibe Coding「道法术」体系化：从玄学口号到可执行的方法论"
 description: "**[AI编程从直觉走向纪律]** • 明确提炼「上下文是第一性要素」「先结构后代码」「文档即上下文」等可落地原则 • 系统性思维框架：实体-链接-功能三维度，输入-处理-输出全过程刻画 • 引入奥卡姆剃刀、帕累托法则、逆向思考等经典工程智慧适配AI时代  **gakki锐评：** 当Vibe Coding开始谈「技术债」和「正交性」，说明它正在从「新手救命绳」进化为「专业工程师的杠杆」。这不是降"
 resource: "https://x.com/i/status/2033216706722861420"
@@ -22,13 +22,6 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "vibe-coding-methodology"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2033216706722861420"
-created: "2026-03-15"
-updated: "2026-06-26"
-sha256: "65d9e9f28a51fc573acfe473c87563e3b8ab1e510abdfd09e7f0c36b4acf227f"
-sources:
-  - "/sources/news/2026-03-16/00__AI_Jasonyu__vibe-coding-道法术-体系化-从玄学口号到可执行的方法论.md"
 ---
 
 # Vibe Coding「道法术」体系化：从玄学口号到可执行的方法论

@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "特斯拉FSD官宣入华：一条「测试版鲶鱼」搅动中国智驾格局"
 description: "**一句话核心判断：FSD以不完全体进入中国大陆，短期内是数据管道，长期是政策博弈的筹码。**  • FSD官方宣布进入大陆，但以「监督」模式运行，数据回传机制是关键焦点。 • 中国高精地图限制使FSD能力受限，实际体验能否匹敌国内头部玩家存疑。 • 对国内智驾厂商而言，FSD入华更像是一次压力测试——用户会直接比较。  **gakki锐评：FSD来了，但「带着镣铐跳舞」的特斯拉，能在中国市场证明"
 resource: "https://x.com/i/status/2057279976467218765"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2057279976467218765"
-created: "2026-05-21"
-updated: "2026-06-26"
-sha256: "80bda7b843dcbcee2575e2208dea80d2f26b924444bc014f11537a06af47efa6"
-sources:
-  - "/sources/highlights/2026-05-21/00__xiaohu__特斯拉fsd官宣入华-一条-测试版鲶鱼-搅动中国智驾格局.md"
 ---
 
 # 特斯拉FSD官宣入华：一条「测试版鲶鱼」搅动中国智驾格局

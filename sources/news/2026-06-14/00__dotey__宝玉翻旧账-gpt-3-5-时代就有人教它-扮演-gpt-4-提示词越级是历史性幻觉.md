@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "宝玉翻旧账：GPT 3.5 时代就有人教它\"扮演 GPT-4\"，提示词越级是历史性幻觉"
 description: "**[提示词工程从来不是模型能力的真正杠杆，\"让 AI 假装更强\"是十年老梗]**  - 宝玉援引 GPT 3.5 时期案例：当时就有人在提示词里要求模型\"假装自己是 GPT-4\"，号称性能提升 - 这条旧闻对应当下 AI Shrinkflation 与模型降级争议——当用户感受到能力下滑，第一反应仍是\"换个 prompt 试试\" - 暗示模型能力是预训练/后训练决定的硬约束，提示词能优化的只是冰"
 resource: "https://x.com/i/status/2066056108884566122"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2066056108884566122"
-created: "2026-06-14"
-updated: "2026-06-26"
-sha256: "b4ad727fe0518a56f61ac1a1b8a927491aa66d0cb1cef53839a1a31df3e60a62"
-sources:
-  - "/sources/news/2026-06-14/00__dotey__宝玉翻旧账-gpt-3-5-时代就有人教它-扮演-gpt-4-提示词越级是历史性幻觉.md"
 ---
 
 # 宝玉翻旧账：GPT 3.5 时代就有人教它"扮演 GPT-4"，提示词越级是历史性幻觉

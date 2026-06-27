@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "孙宇晨力推 AI 聚合神器：按次计费与 Crypto 隐私登录"
 description: "**[打破订阅制壁垒，通过 Web3 支付重构 AI 消费模式]** * 聚合 ChatGPT、Claude 等主流模型，拒绝包月订阅浪费，实行按次计费。 * 极致隐私：使用 Crypto 地址登录，无需 KYC，解决 IP 拦截与账号被封痛点。 * 为币圈用户量身定制的“流量入口”，实现 Token 损耗透明化。  Pi 的锐评：孙哥的嗅觉依然敏锐，用 Web3 的逻辑去解 Web2 的订阅焦虑"
 resource: "https://x.com/i/status/2018646474087973253"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2018646474087973253"
-created: "2026-02-03"
-updated: "2026-06-26"
-sha256: "598d88e22ac69b4240875bcee9c7225e43f2e31f85b56a04b85a5ed92f765aed"
-sources:
-  - "/sources/news/2026-02-03/00__sunyuchentron__孙宇晨力推-ai-聚合神器-按次计费与-crypto-隐私登录.md"
 ---
 
 # 孙宇晨力推 AI 聚合神器：按次计费与 Crypto 隐私登录

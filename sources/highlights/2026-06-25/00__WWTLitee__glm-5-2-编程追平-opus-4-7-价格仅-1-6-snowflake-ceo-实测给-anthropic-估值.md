@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "GLM-5.2 编程追平 Opus 4.7，价格仅 1/6：Snowflake CEO 实测给 Anthropic 估值上了一课"
 description: "**Snowflake CEO 用 103 个编程任务的实测数据，把\"中国模型价格碾压闭源旗舰\"从 PPT 叙事升级为可验证事实。**  - 准确率打平：GLM-5.2 66% vs Opus 4.7 67%，103 任务 × 3 轮实测，统计意义上无差异 - 价格碾压：GLM 输出 4.4 美元/百万 token，Opus 25 美元，价差 5.7×；即使 GLM 多用一倍 token，成本仍远"
 resource: "https://x.com/i/status/2070165704368873694"
@@ -22,13 +22,6 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "domestic-model-benchmark-performance"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2070165704368873694"
-created: "2026-06-25"
-updated: "2026-06-26"
-sha256: "2dfdb9ec956c067f48556f7b03d414ef6aa22d427e0bfcbff751e268f6dc4750"
-sources:
-  - "/sources/highlights/2026-06-25/00__WWTLitee__glm-5-2-编程追平-opus-4-7-价格仅-1-6-snowflake-ceo-实测给-anthropic-估值.md"
 ---
 
 # GLM-5.2 编程追平 Opus 4.7，价格仅 1/6：Snowflake CEO 实测给 Anthropic 估值上了一课

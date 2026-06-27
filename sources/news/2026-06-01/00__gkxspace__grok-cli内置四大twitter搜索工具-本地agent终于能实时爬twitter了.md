@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Grok CLI内置四大Twitter搜索工具：本地Agent终于能实时爬Twitter了"
 description: "**[X平台信息获取的「墙」被Grok CLI凿穿了]**  Grok CLI更新加入4个搜索工具：x_keyword_search（完整高级搜索操作符+Top/Latest）、x_semantic_search（语义搜索+日期过滤）、x_user_search、x_thread_fetch（完整线程抓取）。关键在于本地部署，Agent随时调用。  之前X官方搜索API贵且受限，现在这套组合等于给"
 resource: "https://x.com/i/status/2061413377461596526"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2061413377461596526"
-created: "2026-06-01"
-updated: "2026-06-26"
-sha256: "7b843f94bdb059e6718db08cdccf4297f4c124c27d25ef4079773965fbca1547"
-sources:
-  - "/sources/news/2026-06-01/00__gkxspace__grok-cli内置四大twitter搜索工具-本地agent终于能实时爬twitter了.md"
 ---
 
 # Grok CLI内置四大Twitter搜索工具：本地Agent终于能实时爬Twitter了

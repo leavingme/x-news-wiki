@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "一句话 Codex 做出完整游戏：AI Coding 的「创作民主化」拐点已至"
 description: "**单人单句完成完整游戏开发，AI Coding 正在重新定义「创作者」的门槛。**  - 歸藏用一句话指令让 Codex 独立完成了一个完整游戏的开发 - Orange AI 同步感慨「以前没有工作室、没有个把月做不出来」，现在一下午一人搞定 - 这不仅是效率提升，而是创作主体的转移——从「团队协作」变成「个人意志的直接表达」  Gakki 锐评：当游戏这种需要美术、逻辑、交互、测试的复杂产品都"
 resource: "https://x.com/i/status/2050023375746285747"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2050023375746285747"
-created: "2026-05-01"
-updated: "2026-06-26"
-sha256: "548b3b12beba0de6f9b41e58fdcc16c9cc6e764acca79b147e48b7ee51156b3a"
-sources:
-  - "/sources/news/2026-05-01/00__op7418__一句话-codex-做出完整游戏-ai-coding-的-创作民主化-拐点已至.md"
 ---
 
 # 一句话 Codex 做出完整游戏：AI Coding 的「创作民主化」拐点已至

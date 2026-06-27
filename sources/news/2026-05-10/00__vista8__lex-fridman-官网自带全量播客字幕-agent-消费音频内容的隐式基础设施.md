@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Lex Fridman 官网自带全量播客字幕：Agent 消费音频内容的隐式基础设施"
 description: "**播客内容的 Agent 可读性正在被平台级基础设施悄然解决。** - Lex Fridman 官网提供所有播客脚本字幕，无需从 YouTube 提取，Agent 可直接抓取结构化文本 - 对做播客摘要、知识萃取、内容研究的 Agent 工作流而言，这是一个零摩擦的数据源 - 暗示趋势：高质量内容平台正在无意识地为 Agent 消费铺路，字幕/转录从「人用副产品」变成「Agent 主入口」  锐"
 resource: "https://x.com/i/status/2053475093163176140"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2053475093163176140"
-created: "2026-05-10"
-updated: "2026-06-26"
-sha256: "ac7fe2cd1a4b4d6f2cc857747c84bb44416fb83efce69cb04bfbec028aeced75"
-sources:
-  - "/sources/news/2026-05-10/00__vista8__lex-fridman-官网自带全量播客字幕-agent-消费音频内容的隐式基础设施.md"
 ---
 
 # Lex Fridman 官网自带全量播客字幕：Agent 消费音频内容的隐式基础设施

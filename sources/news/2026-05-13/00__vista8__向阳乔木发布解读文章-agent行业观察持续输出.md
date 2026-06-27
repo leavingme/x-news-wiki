@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "向阳乔木发布解读文章，Agent行业观察持续输出"
 description: "**[一句话核心判断]**  向阳乔木放出解读内容，链接指向的解读文章可能包含对某事件或产品的深度分析，需结合链接正文判断价值。  - 链接内容未知，但发布者属于持续产出高质量AI观察的独立博主 - 这类\"先发布后解读\"的模式已成为中小KOL的标准动作  **gakki锐评：** 二手解读市场繁荣本身是信号——行业信息差还在，优质内容供给不足。"
 resource: "https://x.com/i/status/2054582915888222673"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2054582915888222673"
-created: "2026-05-13"
-updated: "2026-06-26"
-sha256: "b7d810d0308d254ac9a3ee1d14ef1af488451c1f83a6b33657060f042b56945e"
-sources:
-  - "/sources/news/2026-05-13/00__vista8__向阳乔木发布解读文章-agent行业观察持续输出.md"
 ---
 
 # 向阳乔木发布解读文章，Agent行业观察持续输出

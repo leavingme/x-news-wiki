@@ -1,25 +1,22 @@
 ---
-type: "concept"
-title: "中层管理ai替代"
-description: "跨日主题 \"中层管理ai替代\"，共 1 条相关精选推文。"
+type: "Concept"
+title: "中层管理 AI 替代"
+description: "跨日主题 \"中层管理 AI 替代\" (中层管理ai替代)，共 1 条相关精选推文。"
 tags:
   - "x-news"
   - "concept"
   - "topic:中层管理ai替代"
-timestamp: "2026-06-26T11:53:37.017Z"
+timestamp: "2026-06-27T08:40:42.859Z"
 x_topic_slug: "中层管理ai替代"
 x_tweet_count: 1
 x_first_seen: "2026-05-01T01:19:03.491Z"
 x_last_seen: "2026-05-01T01:19:03.491Z"
-type_okf: "Concept"
-created: "2026-05-01"
-updated: "2026-06-26"
-sha256: "066c0bdbcc6bb575588fb4125cb25d973c64b0db0cc00bfa14c91ab6627b0619"
-sources:
-  - "/sources/news/2026-05-01/00__oran_ge__全面-ai-化的最后一步不是技术-是砍掉中间层.md"
+x_cn_title_source: "dict"
 ---
 
-# 主题: 中层管理ai替代
+# 主题: 中层管理 AI 替代
+
+> slug: `中层管理ai替代`
 
 本主题下共 **1** 条精选推文。
 

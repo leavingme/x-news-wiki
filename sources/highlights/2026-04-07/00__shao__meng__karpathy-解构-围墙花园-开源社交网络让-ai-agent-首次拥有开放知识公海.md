@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Karpathy 解构「围墙花园」：开源社交网络让 AI Agent 首次拥有开放知识公海"
 description: "**[一句话核心判断]**  KarpathyTalk 的本质是发起一场「数据平权运动」——让 AI Agent 和人类站在同一条开放的知识河流里，不再需要付费墙和注册摩擦。  - **无摩擦接入**：复用 GitHub OAuth，开发者一键进入，消除了传统平台强制注册的信息税 - **10,000 字符上限强制精炼**：不是缺陷，是设计哲学——倒逼输出质量，对抗社交平台的信息通胀 - **JS"
 resource: "https://x.com/i/status/2041413287170973874"
@@ -22,13 +22,6 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "agent-knowledge-sharing-infra"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2041413287170973874"
-created: "2026-04-07"
-updated: "2026-06-26"
-sha256: "ecf0085cce174959b8c002534b1b8f6c087ba13c37d2dfbae08a340a585806e7"
-sources:
-  - "/sources/highlights/2026-04-07/00__shao__meng__karpathy-解构-围墙花园-开源社交网络让-ai-agent-首次拥有开放知识公海.md"
 ---
 
 # Karpathy 解构「围墙花园」：开源社交网络让 AI Agent 首次拥有开放知识公海

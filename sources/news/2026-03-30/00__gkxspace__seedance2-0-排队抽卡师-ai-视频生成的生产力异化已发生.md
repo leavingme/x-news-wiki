@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Seedance2.0 排队抽卡师：AI 视频生成的生产力异化已发生"
 description: "**一句话核心判断：AI 视频工具的排队瓶颈正在催生「抽卡师」这一新职业，反映算力瓶颈期的生产力异化。**  • 漫剧公司为用 Seedance2.0 雇佣专人排队，角色定义为「排队抽卡师」 • 每人日产出 15-25 分钟视频，成本约 100 元/天，属于低技能密集型岗位 • 核心矛盾：算力供给远低于需求，工具虽有但不可及，催生中间层灰色职业  这是算力短缺期的典型症状，也预示着当算力民主化后，"
 resource: "https://x.com/i/status/2038485109775470910"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2038485109775470910"
-created: "2026-03-30"
-updated: "2026-06-26"
-sha256: "cd43db380321a5f44d0f9e3d1be546d0176cb34a7600aef227cd8db830b18173"
-sources:
-  - "/sources/news/2026-03-30/00__gkxspace__seedance2-0-排队抽卡师-ai-视频生成的生产力异化已发生.md"
 ---
 
 # Seedance2.0 排队抽卡师：AI 视频生成的生产力异化已发生

@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "小模型怕垃圾，大模型不怕：Scale Law的反直觉数据验证"
 description: "**[一句话核心判断]** 斯坦福研究揭示了一个反直觉规律：当模型规模达到 330M 和 1B 参数时，未过滤的 Common Crawl 数据在充分训练后反而超越了所有清洗版本——这意味着\"数据清洗\"在模型足够大时可能是个伪命题。  - **核心发现**：15M 小模型过滤数据全面领先；但 330M 和 1B 模型中，未过滤数据最终反超。规模足够大时，模型的\"秩\"（参数量）足以把垃圾和有用信息隔"
 resource: "https://x.com/i/status/2062013298741252183"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2062013298741252183"
-created: "2026-06-03"
-updated: "2026-06-26"
-sha256: "3df04311f0fa103a0c9d55109eb69694bdc60dd4f3588521b5369ce3d261fe25"
-sources:
-  - "/sources/highlights/2026-06-03/00__vista8__小模型怕垃圾-大模型不怕-scale-law的反直觉数据验证.md"
 ---
 
 # 小模型怕垃圾，大模型不怕：Scale Law的反直觉数据验证

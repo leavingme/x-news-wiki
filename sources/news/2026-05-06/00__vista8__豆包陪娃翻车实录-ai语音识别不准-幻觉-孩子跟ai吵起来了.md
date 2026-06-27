@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "豆包陪娃翻车实录：AI语音识别不准+幻觉，孩子跟AI吵起来了"
 description: "**向阳乔木分享了豆包AI陪女儿画画的真实体验，从「效果不错」到「孩子跟AI吵架」只隔了一天。**  - 第一天体验良好，AI夸人、画画互动看起来不错 - 第二天因为语音识别不准和幻觉问题，孩子直接跟豆包吵起来 - 最终结论：AI会夸人，但真人陪伴更好，前提是有耐心  这不是产品评测，是真实家庭场景的压力测试。儿童AI交互对准确性的容忍度极低——识别错误在成人场景是「重试」，在儿童场景是「信任崩塌"
 resource: "https://x.com/i/status/2052035818139562397"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2052035818139562397"
-created: "2026-05-06"
-updated: "2026-06-26"
-sha256: "b1caf9a19db9e383936b11cf255df6371cb3e7f06f66d1134a046f6995b33d1c"
-sources:
-  - "/sources/news/2026-05-06/00__vista8__豆包陪娃翻车实录-ai语音识别不准-幻觉-孩子跟ai吵起来了.md"
 ---
 
 # 豆包陪娃翻车实录：AI语音识别不准+幻觉，孩子跟AI吵起来了

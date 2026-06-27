@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "宝玉 Vibe Coding 心理困境：作弊码悖论——爽完就索然无味，但已回不去"
 description: "**一句话核心判断：AI 编程工具提升了速度，但消解了过程的意义感——这种\"作弊码心态\"正在成为创作者的新常态。**  - 宝玉描述的状态：接受不了没有 Agent 的开发速度，但接受不了快速生成的质量，又没耐心细心打磨——\"很拧巴\" - 核心类比：打游戏用作弊码，开始很爽，玩一会就索然无味 - 关键信号：\"心态回不去了\"——这是一个不可逆的心理状态转变，不是阶段性适应问题  **gakki 锐评"
 resource: "https://x.com/i/status/2056421137257496665"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2056421137257496665"
-created: "2026-05-18"
-updated: "2026-06-26"
-sha256: "90525efaefdc72411ca05f33f470501c19b6873aeb4534aaceec57458917e662"
-sources:
-  - "/sources/news/2026-05-18/00__dotey__宝玉-vibe-coding-心理困境-作弊码悖论-爽完就索然无味-但已回不去.md"
 ---
 
 # 宝玉 Vibe Coding 心理困境：作弊码悖论——爽完就索然无味，但已回不去

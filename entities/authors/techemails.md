@@ -1,23 +1,17 @@
 ---
-type: "entity"
+type: "Author"
 title: "Internal Tech Emails (@TechEmails)"
 description: "X/Twitter 作者 @TechEmails。共收录 1 条 AI 精选推文。"
 tags:
   - "x-news"
   - "author"
   - "author:TechEmails"
-timestamp: "2026-06-26T11:53:36.998Z"
+timestamp: "2026-06-27T08:40:40.212Z"
 x_handle: "TechEmails"
 x_author_name: "Internal Tech Emails"
 x_tweet_count: 1
 x_first_seen: "2026-05-07T01:17:49.107Z"
 x_last_seen: "2026-05-07T01:17:49.107Z"
-type_okf: "Author"
-created: "2026-05-07"
-updated: "2026-06-26"
-sha256: "f8dcbb0f159f293ffe4784fb4313ec11bbcf6ba8bc1166b659ba1ed60168dfb0"
-sources:
-  - "/sources/news/2026-05-07/00__TechEmails__sam-altman-与-mira-murati-短信曝光-openai-宫斗的原始数据点再添一枚.md"
 ---
 
 # Internal Tech Emails (@TechEmails)

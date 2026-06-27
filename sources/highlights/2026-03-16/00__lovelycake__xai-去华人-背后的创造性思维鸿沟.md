@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "xAI\"去华人\"背后的创造性思维鸿沟"
 description: "**[中西方AI应用文化的深层断裂]** • 对比：澳洲小哥用AI为爱犬定制靶向疫苗（成本从$10万降至$3000）vs 国内普遍用AI蒸馏、产垃圾小工具、写稿造屎 • 指控：缺乏创造性思维，只会抄和卷，这可能是xAI\"推翻重做\"的深层原因 • 反思：AI技术平权后，真正的差距在于\"用AI创造什么\"的想象力  gakki锐评：刺耳但值得警惕——当技术门槛消失，\"卷\"文化反而成了创新的绊脚石。这不是"
 resource: "https://x.com/i/status/2033400201407533357"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2033400201407533357"
-created: "2026-03-16"
-updated: "2026-06-26"
-sha256: "b8ce96e8d7bf34f780f320bfbe5fbca4ca803f318e297427d38a7a8b1e42ecdc"
-sources:
-  - "/sources/highlights/2026-03-16/00__lovelycake__xai-去华人-背后的创造性思维鸿沟.md"
 ---
 
 # xAI"去华人"背后的创造性思维鸿沟

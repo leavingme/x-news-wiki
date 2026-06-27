@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "天策对创业者的隐性警示：资源匮乏时「少即是多」"
 description: "**[资源少不是借口，方向精准才是真正的竞争壁垒]**  天策在回复中仅用两字「少了」，但结合其一贯风格，指向的是创业者常见的资源错配——什么都想做、什么都没做透。与「精益创业」逻辑相悖：不是「资源少所以做不了」，而是「资源少才必须all in唯一正确的事」。  **gakki锐评：** 顶级创业者的「少」是主动选择，普通创业者的「少」是无奈妥协——两者结果截然不同。"
 resource: "https://x.com/i/status/2060270181289529550"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2060270181289529550"
-created: "2026-05-29"
-updated: "2026-06-26"
-sha256: "c142b18faf50e338383a256e4d6ba7b5507081ad1904a683e8eb1ae9158afbbb"
-sources:
-  - "/sources/news/2026-05-29/00__Leobai825__天策对创业者的隐性警示-资源匮乏时-少即是多.md"
 ---
 
 # 天策对创业者的隐性警示：资源匮乏时「少即是多」

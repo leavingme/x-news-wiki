@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "xAI 联合创始人出走潮：马斯克「从头重建」背后的组织溃败"
 description: "**[AI明星公司的「天才团队」叙事正在崩塌，工程执行力成为真正的稀缺资源]**  • 12位联合创始人仅剩2人，戴自航、张国栋本周离职，编程产品表现不佳被指为核心原因 • Grok在付费用户市场始终未能打开局面，与Claude Code、Codex差距明显 • 马斯克从SpaceX/Tesla调派管理人员进驻，审查员工并解雇「不达标者」，训练数据质量被指为落后根源  xAI的困境印证了一个残酷现"
 resource: "https://x.com/i/status/2032588861063168334"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 92
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2032588861063168334"
-created: "2026-03-13"
-updated: "2026-06-26"
-sha256: "8871c41fc0c504be05261a6d431303fe5a91d06a078612369280d21a7c91249c"
-sources:
-  - "/sources/news/2026-03-14/92__dotey__xai-联合创始人出走潮-马斯克-从头重建-背后的组织溃败.md"
 ---
 
 # xAI 联合创始人出走潮：马斯克「从头重建」背后的组织溃败

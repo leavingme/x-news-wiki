@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Claude Code 长任务可推送手机通知：开发者终于能离开终端了"
 description: "**[Claude Code 新增手机推送通知，开发者工作流正式解绑终端]**  Claude Code 推出 push notification 功能，当长任务完成或需要用户输入时可推送至手机。这意味着开发者可以真正\" Walk away from the terminal\"，而不必守在屏幕前等待任务结束。  - 功能覆盖两类场景：耗时任务完成 + 需用户决策时主动触达 - 补足了 Claude"
 resource: "https://x.com/ClaudeDevs/status/2049154855143649315"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "ai-trend-digest"
-type_okf: "X Tweet"
-source_url: "https://x.com/ClaudeDevs/status/2049154855143649315"
-created: "2026-04-28"
-updated: "2026-06-26"
-sha256: "8357317e0115464464fa75b79796fea094499d0b5d8304a3c8decff3bf26f9de"
-sources:
-  - "/sources/news/2026-04-29/00__ClaudeDevs__claude-code-长任务可推送手机通知-开发者终于能离开终端了.md"
 ---
 
 # Claude Code 长任务可推送手机通知：开发者终于能离开终端了

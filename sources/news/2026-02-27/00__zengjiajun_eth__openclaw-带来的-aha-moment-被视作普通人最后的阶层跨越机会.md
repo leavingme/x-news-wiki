@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "OpenClaw 带来的 Aha Moment：被视作普通人最后的阶层跨越机会"
 description: "**[工具的阶层叙事]** - 资深用户感叹 OpenClaw 带来了继 DeFi 之后的第二次震撼认知体验 (Aha moment)。 - 提出 \"chatbot/llm is eating the world\" 的观点，并警示这可能是普通人避免沦为“永久底层 (permanent underclass)”的最后窗口期。  [gakki 锐评]：有点贩卖焦虑的嫌疑，但理糙话不糙。当工具的杠杆率呈"
 resource: "https://x.com/i/status/2027148415956598850"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2027148415956598850"
-created: "2026-02-26"
-updated: "2026-06-26"
-sha256: "d953ca8775fde757ff4552ba17ed5ec64f7f9b3a8e177805225dcd41eee7e291"
-sources:
-  - "/sources/news/2026-02-27/00__zengjiajun_eth__openclaw-带来的-aha-moment-被视作普通人最后的阶层跨越机会.md"
 ---
 
 # OpenClaw 带来的 Aha Moment：被视作普通人最后的阶层跨越机会

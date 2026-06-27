@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "OpenAI「桌面超级应用」战略浮出水面：Atlas浏览器+ChatGPT+Codex三合一"
 description: "**[OpenAI正在用「超级应用」整合回应Anthropic的碎片化进攻]** • 计划推出桌面超级应用，整合Atlas浏览器、ChatGPT和Codex，专注AI Agent自主工作 • Fidji Simo（应用CEO）表态：「当Codex开始起效，加倍投入并避免分心非常重要」 • 这解释了为何GPT-5.4 mini/nano优先于功能发布——资源正在向Agent基础设施倾斜 • **影响"
 resource: "https://x.com/i/status/2034823333641167191"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2034823333641167191"
-created: "2026-03-20"
-updated: "2026-06-26"
-sha256: "3ef1c1beb89292a50f33c8c7615a0c4d69705346b24fe27374240471dff0fabe"
-sources:
-  - "/sources/news/2026-03-20/00__fxtrader__openai-桌面超级应用-战略浮出水面-atlas浏览器-chatgpt-codex三合一.md"
 ---
 
 # OpenAI「桌面超级应用」战略浮出水面：Atlas浏览器+ChatGPT+Codex三合一

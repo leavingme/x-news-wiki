@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Agent-World：自进化训练场让 8B/14B 小模型在 23 项 Agent 基准上碾压闭源大模型"
 description: "**人大+字节 Seed 提出的自进化范式正在改写 Agent 训练的游戏规则。**  - Agent 自主探索真实服务环境、发现自身弱点、针对性强化——不再依赖人工标注的训练数据 - Agent-World-8B 和 14B 在 23 个 Agent 基准测试上持续超越强闭源模型 - 核心突破在于「自我发现薄弱环节→定向练习」的闭环，而非传统的 SFT/RLHF 路径  当小模型能通过自进化在 "
 resource: "https://x.com/i/status/2053544099798450438"
@@ -22,13 +22,6 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "ai-research-paradigm"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2053544099798450438"
-created: "2026-05-10"
-updated: "2026-06-26"
-sha256: "23f0f1f06f56ddc069bdc450f051ec2e65a8c580c9d313e829152a5847d0c2d6"
-sources:
-  - "/sources/highlights/2026-05-10/00__jiqizhixin__agent-world-自进化训练场让-8b-14b-小模型在-23-项-agent-基准上碾压闭源大模型.md"
 ---
 
 # Agent-World：自进化训练场让 8B/14B 小模型在 23 项 Agent 基准上碾压闭源大模型

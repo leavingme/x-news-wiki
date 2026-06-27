@@ -23,15 +23,18 @@
 //   3. Reserved filenames (index.md, log.md) follow §6 / §7   ✓
 //
 // Usage:
-//   node scripts/export.js                 # full export
+//   node scripts/export.js                 # full export (uses LLM for CN titles)
 //   node scripts/export.js --since=YYYY-MM-DD
 //   node scripts/export.js --limit=1000     # for testing
+//   node scripts/export.js --no-llm         # skip LLM; use dict + humanized fallback only
 //
 // Re-runs are idempotent: the script overwrites generated files. Safe to run
 // as a cron job after the daily brief publishes.
 
 const fs = require('fs');
 const path = require('path');
+const crypto = require('crypto');
+const { cnTitleFor, TITLES: DICT_TITLES } = require('./concept-cn-titles');
 
 // Minimal YAML emitter for OKF frontmatter. All our values are simple types
 // (string, number, boolean, null, flat object, list of strings). We avoid
@@ -87,11 +90,268 @@ function yamlScalar(v) {
 
 const BUNDLE_ROOT = path.resolve(__dirname, '..');
 
+// ---------- LLM-backed Chinese title resolver ----------
+// Filenames stay English (slug) for stable IDs, but the `title:` frontmatter
+// field is what Obsidian shows — so we resolve it to Chinese via either:
+//   1. Hand-curated dictionary (scripts/concept-cn-titles.js) — instant
+//   2. LLM (M3 via MiniMax API) — for new slugs, cached in .cn-title-cache.json
+//   3. Humanized slug fallback — if both above fail
+//
+// Cache key is (slug, hash-of-representative-tweet-text). If the underlying
+// tweet content for a concept changes, the cache invalidates and the LLM is
+// re-asked. This is cheap and catches silent drift.
+
+const CN_CACHE_FILE = path.join(__dirname, '.cn-title-cache.json');
+// NOTE: env vars (CN_TITLE_MODEL / CN_TITLE_API_BASE / MINIMAX_CN_API_KEY) are
+// resolved lazily inside getCnConfig() because the .env.local loader runs AFTER
+// these module-level consts are evaluated. If we read them eagerly here, we
+// would get undefined and the LLM path would silently fall back to humanized
+// slugs. Lazy lookup keeps the file load order from mattering.
+function getCnConfig() {
+    return {
+        model: process.env.CN_TITLE_MODEL || 'MiniMax-M3',
+        apiBase: process.env.CN_TITLE_API_BASE || 'https://api.minimaxi.com/v1',
+        apiKey: process.env.MINIMAX_CN_API_KEY || process.env.LLM_API_KEY || '',
+    };
+}
+
+function loadCnCache() {
+    try {
+        if (fs.existsSync(CN_CACHE_FILE)) {
+            return JSON.parse(fs.readFileSync(CN_CACHE_FILE, 'utf8'));
+        }
+    } catch (e) {
+        console.warn(`[cn-title] cache file corrupted, ignoring: ${e.message}`);
+    }
+    return {};
+}
+
+function saveCnCache(cache) {
+    try {
+        fs.writeFileSync(CN_CACHE_FILE, JSON.stringify(cache, null, 2));
+    } catch (e) {
+        console.warn(`[cn-title] failed to save cache: ${e.message}`);
+    }
+}
+
+function shortHash(s) {
+    return crypto.createHash('sha256').update(s).digest('hex').slice(0, 12);
+}
+
+function representativeText(tweets) {
+    // Pick the most recent high-priority tweet's ai_title + text snippet
+    // to give the LLM semantic context. Falls back to first available.
+    if (!tweets || !tweets.length) return '';
+    const sorted = [...tweets].sort((a, b) => {
+        const ap = Number(a.ai_priority || 99);
+        const bp = Number(b.ai_priority || 99);
+        if (ap !== bp) return ap - bp;
+        return String(b.fetched_at || '').localeCompare(String(a.fetched_at || ''));
+    });
+    const t = sorted[0];
+    const title = t.ai_title || '';
+    const summary = t.ai_summary || '';
+    const text = t.text || '';
+    return [title, summary, text].filter(Boolean).join('\n').slice(0, 800);
+}
+
+async function callLlmForTitles(slugTextPairs) {
+    const cfg = getCnConfig();
+    if (!cfg.apiKey) throw new Error('MINIMAX_CN_API_KEY not set');
+    const systemPrompt = [
+        '你是一个中英对照词典专家。给定一组英文概念 slug 与代表性推文片段,',
+        '为每个 slug 输出一个 2-12 字的中文标题,要求:',
+        '1. **翻译 slug 本身,不要把推文里的具体事件/人名/产品名写进标题**',
+        '   (slug 是抽象概念,推文只是提供语义上下文,不是标题素材)',
+        '2. **slug 中的每个英文单词都要在中文标题里有对应词**,不要省略',
+        '   (如 "ai-reasoning-tier" 必须包含 "AI"、"推理"、"分层" 三个概念)',
+        '3. 准确反映 slug 的核心概念,不直译、不绕弯',
+        '4. 简洁可读,优先用行业惯用译法',
+        '   - **"agent" 保持英文不译**(AI 圈通用术语)',
+        '   - "llm" / "ai" / "api" / "gpu" 等行业缩写也保持英文',
+        '   - 其它英文单词翻译成中文行业惯用译法',
+        '5. 允许加少量连词("与"、"与"等),但 12 字以内',
+        '6. **严格只返回 JSON 数组**,无任何解释/思考/前缀',
+        '',
+        '返回格式: [{"slug": "...", "title_zh": "..."}, ...]',
+        '数量必须与输入一一对应,顺序保持一致。',
+    ].join('\n');
+
+    const userPayload = slugTextPairs.map((p, i) =>
+        `[${i + 1}] slug: ${p.slug}\ncontext: ${p.text}`
+    ).join('\n\n');
+
+    const resp = await fetch(`${cfg.apiBase}/chat/completions`, {
+        method: 'POST',
+        headers: {
+            'Authorization': 'Bearer ' + cfg.apiKey,
+            'Content-Type': 'application/json',
+        },
+        body: JSON.stringify({
+            model: cfg.model,
+            messages: [
+                { role: 'system', content: systemPrompt },
+                { role: 'user', content: userPayload },
+            ],
+            temperature: 0.2,
+            // M3 emits <think>...</think> blocks before its answer; budget
+            // enough for both the think block (often 200-500 tokens) and the
+            // JSON payload. Per-slug budget = 60 tokens title + 100 tokens
+            // thinking overhead + 200 tokens base for system preamble.
+            max_tokens: 200 + (60 + 100) * slugTextPairs.length,
+            // Try to disable M3's extended thinking — for short structured
+            // tasks like "return this JSON" thinking just burns tokens.
+            // M3 supports `thinking.type: 'disabled'` via OpenRouter-style
+            // extra_body; harmless if the model ignores it.
+            ...(cfg.model.includes('M3') ? { thinking: { type: 'disabled' } } : {}),
+        }),
+    });
+
+    if (!resp.ok) {
+        const errText = await resp.text();
+        throw new Error(`LLM HTTP ${resp.status}: ${errText.slice(0, 200)}`);
+    }
+    const data = await resp.json();
+    const content = data.choices?.[0]?.message?.content || '';
+
+    // M3 emits <think>...</think> blocks before its answer. Two cases:
+    //   (a) Complete think block: full text includes both <think> and JSON
+    //   (b) Truncated (max_tokens cut mid-think): no closing </think>, JSON
+    //       is missing entirely
+    // Strategy: peel away the think prefix by looking for the JSON array's
+    // opening bracket. Everything before the first '[' at line start is
+    // considered thinking preamble and discarded.
+    let cleaned = content;
+    const firstBracket = cleaned.indexOf('[');
+    if (firstBracket > 0) {
+        cleaned = cleaned.slice(firstBracket);
+    }
+    // Also strip any markdown fences and trim
+    cleaned = cleaned
+        .replace(/```json\s*/g, '')
+        .replace(/```\s*/g, '')
+        .trim();
+
+    // Try to find a JSON array substring
+    const arrayMatch = cleaned.match(/\[[\s\S]*\]/);
+    if (!arrayMatch) {
+        throw new Error(`LLM did not return JSON array. First 200 chars: ${cleaned.slice(0, 200)}`);
+    }
+
+    let parsed;
+    try {
+        parsed = JSON.parse(arrayMatch[0]);
+    } catch (e) {
+        throw new Error(`LLM returned invalid JSON: ${e.message}. First 200: ${arrayMatch[0].slice(0, 200)}`);
+    }
+    if (!Array.isArray(parsed)) {
+        throw new Error('LLM returned non-array JSON');
+    }
+    return parsed;
+}
+
+function humanizeSlug(slug) {
+    return slug
+        .split('-')
+        .map(w => w ? w[0].toUpperCase() + w.slice(1) : w)
+        .join(' ');
+}
+
+/**
+ * Resolve Chinese titles for all concept slugs. Uses 3-tier fallback:
+ *   1. Hand-curated dict (instant)
+ *   2. LLM (cached by slug+context-hash)
+ *   3. Humanized slug
+ *
+ * Mutates the supplied `titleMap` in place: Map<slug, {title, source}>.
+ */
+async function resolveCnTitles(slugMap, { useLlm = true } = {}) {
+    const titleMap = new Map();
+    const cache = loadCnCache();
+    const needLlm = [];
+
+    for (const [slug, tweets] of slugMap.entries()) {
+        if (!slug) continue;
+
+        // Tier 1: hand-curated dict
+        if (DICT_TITLES[slug]) {
+            titleMap.set(slug, { title: DICT_TITLES[slug], source: 'dict' });
+            continue;
+        }
+
+        // Tier 2: cache (keyed by slug + representative-tweet-hash)
+        const rep = representativeText(tweets);
+        const hash = shortHash(rep);
+        const cacheKey = `${slug}::${hash}`;
+        if (cache[cacheKey]) {
+            titleMap.set(slug, { title: cache[cacheKey].title, source: 'cache' });
+            continue;
+        }
+
+        // Tier 3 fallback if LLM disabled or no key
+        if (!useLlm || !getCnConfig().apiKey) {
+            titleMap.set(slug, { title: humanizeSlug(slug), source: 'fallback' });
+            continue;
+        }
+
+        // Need LLM
+        needLlm.push({ slug, text: rep, hash });
+    }
+
+    if (needLlm.length > 0) {
+        console.log(`[cn-title] Asking LLM for ${needLlm.length} new concept titles...`);
+        try {
+            // Batch all into one request to amortize prompt overhead
+            const pairs = needLlm.map(p => ({ slug: p.slug, text: p.text }));
+            const result = await callLlmForTitles(pairs);
+
+            // Map back by slug; tolerate ordering drift
+            const bySlug = new Map();
+            for (const r of result) {
+                if (r && typeof r.slug === 'string' && typeof r.title_zh === 'string') {
+                    bySlug.set(r.slug, r.title_zh.trim());
+                }
+            }
+
+            let resolved = 0;
+            for (const p of needLlm) {
+                const title = bySlug.get(p.slug);
+                if (title) {
+                    titleMap.set(p.slug, { title, source: 'llm' });
+                    cache[`${p.slug}::${p.hash}`] = { title, ts: new Date().toISOString() };
+                    resolved++;
+                } else {
+                    // LLM didn't return this slug — fallback
+                    titleMap.set(p.slug, { title: humanizeSlug(p.slug), source: 'fallback' });
+                }
+            }
+            console.log(`[cn-title] LLM resolved ${resolved}/${needLlm.length} titles.`);
+            saveCnCache(cache);
+        } catch (e) {
+            console.error(`[cn-title] LLM call failed: ${e.message}`);
+            console.error('[cn-title] Falling back to humanized slugs for these concepts.');
+            for (const p of needLlm) {
+                titleMap.set(p.slug, { title: humanizeSlug(p.slug), source: 'fallback' });
+            }
+        }
+    }
+
+    return titleMap;
+}
+
+
 // ---------- Env loading (Turso + LLM) ----------
+// Load .env.local from the upstream x-news/ first (TURSO_*), then THIS
+// bundle's .env.local on top (MINIMAX_CN_API_KEY etc). The wiki's own
+// values take precedence, so any LLM override stays local without editing
+// the publisher's env.
 const xnewsRoot = '/data/workspace/x-news';
-const envFile = path.join(xnewsRoot, '.env.local');
-if (fs.existsSync(envFile)) {
-    fs.readFileSync(envFile, 'utf8').split('\n').forEach(line => {
+const upstreamEnvFile = path.join(xnewsRoot, '.env.local');
+const wikiEnvFile = path.join(__dirname, '..', '.env.local');
+
+function loadEnvFile(filePath) {
+    if (!fs.existsSync(filePath)) return;
+    fs.readFileSync(filePath, 'utf8').split('\n').forEach(line => {
         const m = line.match(/^([A-Z_][A-Z0-9_]*)=(.*)$/);
         if (m) {
             // Strip surrounding quotes (both single and double) and trim
@@ -101,10 +361,13 @@ if (fs.existsSync(envFile)) {
                 (v.startsWith("'") && v.endsWith("'"))) {
                 v = v.slice(1, -1);
             }
+            // Later load wins, so caller order = precedence. Just set.
             process.env[m[1]] = v;
         }
     });
 }
+loadEnvFile(upstreamEnvFile);  // base
+loadEnvFile(wikiEnvFile);      // overrides
 if (!process.env.TURSO_DATABASE_URL || !process.env.TURSO_AUTH_TOKEN) {
     console.error('FATAL: missing TURSO_DATABASE_URL or TURSO_AUTH_TOKEN');
     process.exit(1);
@@ -124,6 +387,7 @@ const sinceIso = sinceArg
     ? new Date(sinceArg.split('=')[1] + 'T00:00:00Z').toISOString()
     : '1970-01-01T00:00:00Z';
 const limitN = limitArg ? Number(limitArg.split('=')[1]) : null;
+const useLlm = !args.includes('--no-llm');
 
 // ---------- Helpers ----------
 function beijingDateStr(iso) {
@@ -320,7 +584,7 @@ ${tweetLinks}${overflow}
 }
 
 // ---------- Concept page (cross-day topic) ----------
-function renderConceptPage(slug, tweets) {
+function renderConceptPage(slug, tweets, cnTitle, cnSource = 'unknown') {
     const relPath = `concepts/${slug}.md`;
     const sorted = [...tweets].sort((a, b) => {
         const ad = a.fetched_at || a.created_at || '';
@@ -328,16 +592,22 @@ function renderConceptPage(slug, tweets) {
         return bd.localeCompare(ad);
     });
 
+    // Filename stays English (slug) for stable IDs, cross-spec compat, and
+    // idempotent re-runs. The `title:` field is what Obsidian shows in the
+    // file tree, search, and link previews — so we resolve it to Chinese via
+    // 3-tier fallback (dict → LLM → humanized slug). See resolveCnTitles().
+
     const frontmatter = {
         type: 'Concept',
-        title: slug,
-        description: `跨日主题 "${slug}"，共 ${tweets.length} 条相关精选推文。`,
+        title: cnTitle,
+        description: `跨日主题 "${cnTitle}" (${slug})，共 ${tweets.length} 条相关精选推文。`,
         tags: ['x-news', 'concept', `topic:${slug}`],
         timestamp: new Date().toISOString(),
         x_topic_slug: slug,
         x_tweet_count: tweets.length,
         x_first_seen: isoOrNull(sorted[sorted.length - 1]?.fetched_at),
         x_last_seen: isoOrNull(sorted[0]?.fetched_at),
+        x_cn_title_source: cnSource,
     };
 
     const yamlStr = toYaml(frontmatter);
@@ -354,7 +624,9 @@ function renderConceptPage(slug, tweets) {
 ${yamlStr}
 ---
 
-# 主题: ${slug}
+# 主题: ${cnTitle}
+
+> slug: \`${slug}\`
 
 本主题下共 **${tweets.length}** 条精选推文。
 
@@ -648,10 +920,14 @@ async function main() {
     }
 
     // ----- 3. Concept pages -----
+    // Resolve Chinese titles first (3-tier: dict → LLM cache → humanized).
+    // If --no-llm is set or no API key, skips LLM and uses dict/fallback.
+    const titleMap = await resolveCnTitles(conceptMap, { useLlm });
     const conceptFiles = [];
     for (const [slug, ts] of conceptMap.entries()) {
         if (!slug) continue;
-        const { relPath, body } = renderConceptPage(slug, ts);
+        const { title, source } = titleMap.get(slug) || { title: slug, source: 'unknown' };
+        const { relPath, body } = renderConceptPage(slug, ts, title, source);
         conceptFiles.push({ relPath, body });
         writeFileSafe(path.join(BUNDLE_ROOT, relPath), body);
     }

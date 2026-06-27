@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "GPT Image 2「精致立体刺绣风」提示词实测：丝线质感已能以假乱真"
 description: "**[多模态生成质量达到「材质欺骗」级别]  • 刺绣、浮雕、丝线质感的表现已接近真实织物照片，AI视觉内容的「恐怖谷」正在从形象转移到材质 • 宝玉分享的提示词展示了精细控制风格的可行性：浅浮雕+纤维艺术+特定色彩体系的组合精准执行 • 与上一条海报提示词共同指向一个趋势：GPT Image 2的风格理解已从「参数调优」进化到「语义理解」  gakki：刺绣质感以假乱真，设计师的「材质基本功」不"
 resource: "https://x.com/i/status/2048529821706195442"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2048529821706195442"
-created: "2026-04-26"
-updated: "2026-06-26"
-sha256: "ac6a7f7a1a2bea7834e50b2ff0d3081df0dad6ba11fa53c0a116aac5b67b302d"
-sources:
-  - "/sources/news/2026-04-27/00__dotey__gpt-image-2-精致立体刺绣风-提示词实测-丝线质感已能以假乱真.md"
 ---
 
 # GPT Image 2「精致立体刺绣风」提示词实测：丝线质感已能以假乱真

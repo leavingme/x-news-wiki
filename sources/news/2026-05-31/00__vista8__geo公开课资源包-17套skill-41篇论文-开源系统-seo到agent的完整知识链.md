@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "GEO公开课资源包：17套Skill+41篇论文+开源系统，SEO到Agent的完整知识链"
 description: "**「GEO不是玄学，是一套可以Skill化的方法论」——向阳乔木正在把SEO的套路翻译成Agent时代的操作手册。**  核心判断：GEO（Generative Engine Optimization）从概念到落地需要三个支撑：系统（GEOflow）、Skill库（17套）、论文基座（41篇）。这次公开课的资源整合速度说明，GEO已经走过了概念验证期，进入工具化和系统化阶段。  要点： - GE"
 resource: "https://x.com/i/status/2060884670963970203"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2060884670963970203"
-created: "2026-05-31"
-updated: "2026-06-26"
-sha256: "499a2ab4a0e23d361b1a05b8dc9fb03945966e49986b4925daaf30ac72cd55b0"
-sources:
-  - "/sources/news/2026-05-31/00__vista8__geo公开课资源包-17套skill-41篇论文-开源系统-seo到agent的完整知识链.md"
 ---
 
 # GEO公开课资源包：17套Skill+41篇论文+开源系统，SEO到Agent的完整知识链

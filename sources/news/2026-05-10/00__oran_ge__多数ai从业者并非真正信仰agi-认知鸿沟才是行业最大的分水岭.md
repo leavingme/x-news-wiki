@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "多数AI从业者并非真正信仰AGI：认知鸿沟才是行业最大的分水岭"
 description: "**对AGI的信念差异正在将AI行业切割成两个无法对话的阵营。** - AI圈内人和真金白银的投资人中，大量人怀疑AGI只是概念、只是生产力过剩、只是取代现有劳动——本质上是用历史线性推演否定指数级变化 - 这种信念分裂不是学术争论，而是直接影响投资决策、产品方向和人才流动的底层变量 - 无法跳出历史经验框架的人，注定在AGI叙事中持续错位  锐评：信念分歧本身不是问题，问题在于用19世纪的周期论"
 resource: "https://x.com/i/status/2053440653468799079"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2053440653468799079"
-created: "2026-05-10"
-updated: "2026-06-26"
-sha256: "60606ece722b7139eecdf8b0e76598a8c7e25e21260ca2e7d81b4a92a4a6f768"
-sources:
-  - "/sources/news/2026-05-10/00__oran_ge__多数ai从业者并非真正信仰agi-认知鸿沟才是行业最大的分水岭.md"
 ---
 
 # 多数AI从业者并非真正信仰AGI：认知鸿沟才是行业最大的分水岭

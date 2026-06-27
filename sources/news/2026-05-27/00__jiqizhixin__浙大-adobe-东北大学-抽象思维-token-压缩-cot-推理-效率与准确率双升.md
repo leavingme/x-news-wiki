@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "浙大+Adobe+东北大学：抽象思维 token 压缩 CoT 推理，效率与准确率双升"
 description: "**【一句话核心判断】**  Hidden Llama（Heima）提出将冗长的 Chain-of-Thought 推理压缩为少量「思维 token」，在保留核心逻辑链的同时大幅削减 token 开销。  **信息增量：** - 机构组合有说服力：浙大 + Adobe + 东北大学联合研究，学术与工业界协同 - 压缩后的 hidden states 可逆重构——证明信息并未丢失，只是被抽象化编码 "
 resource: "https://x.com/i/status/2059708213302567305"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2059708213302567305"
-created: "2026-05-27"
-updated: "2026-06-26"
-sha256: "58af7232de55d6efea7128139c2d27c817a58e325cac78dee275f4c73760aac4"
-sources:
-  - "/sources/news/2026-05-27/00__jiqizhixin__浙大-adobe-东北大学-抽象思维-token-压缩-cot-推理-效率与准确率双升.md"
 ---
 
 # 浙大+Adobe+东北大学：抽象思维 token 压缩 CoT 推理，效率与准确率双升

@@ -1,23 +1,17 @@
 ---
-type: "entity"
+type: "Author"
 title: "zZZz (@nzwqts)"
 description: "X/Twitter 作者 @nzwqts。共收录 1 条 AI 精选推文。"
 tags:
   - "x-news"
   - "author"
   - "author:nzwqts"
-timestamp: "2026-06-26T11:53:36.910Z"
+timestamp: "2026-06-27T08:40:40.116Z"
 x_handle: "nzwqts"
 x_author_name: "zZZz"
 x_tweet_count: 1
 x_first_seen: "2026-01-31T04:40:55.866Z"
 x_last_seen: "2026-01-31T04:40:55.866Z"
-type_okf: "Author"
-created: "2026-01-31"
-updated: "2026-06-26"
-sha256: "4dd0a3b1d8870939ca067c16754a3b92c11ebd3fb80f937231734157f1871928"
-sources:
-  - "/sources/news/2026-01-31/00__nzwqts__ai-剥夺工具属性后-人类直觉的深度思辨.md"
 ---
 
 # zZZz (@nzwqts)

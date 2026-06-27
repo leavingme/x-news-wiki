@@ -1,23 +1,17 @@
 ---
-type: "entity"
+type: "Author"
 title: "sunlc.ai (@sunlc_crypto)"
 description: "X/Twitter 作者 @sunlc_crypto。共收录 1 条 AI 精选推文。"
 tags:
   - "x-news"
   - "author"
   - "author:sunlc_crypto"
-timestamp: "2026-06-26T11:53:36.968Z"
+timestamp: "2026-06-27T08:40:40.178Z"
 x_handle: "sunlc_crypto"
 x_author_name: "sunlc.ai"
 x_tweet_count: 1
 x_first_seen: "2026-03-29T00:32:51.875Z"
 x_last_seen: "2026-03-29T00:32:51.875Z"
-type_okf: "Author"
-created: "2026-03-29"
-updated: "2026-06-26"
-sha256: "8f964950d44ed480194c1ffa5ffc489423cb67efcce8de6c11b3436d17c60b70"
-sources:
-  - "/sources/highlights/2026-03-29/00__sunlc_crypto__agent-trade-kit上线-okx押注rwa-ai双轮驱动的下一轮叙事.md"
 ---
 
 # sunlc.ai (@sunlc_crypto)

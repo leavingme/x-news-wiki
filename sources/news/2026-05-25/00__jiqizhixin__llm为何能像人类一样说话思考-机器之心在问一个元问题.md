@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "LLM为何能像人类一样说话思考：机器之心在问一个元问题"
 description: "**[这个问题本身比答案更有价值]**  机器之心转发了一篇探讨 LLM 认知能力的文章。在当前 LLM 能力爆发的时间点，「为什么能」比「能做什么」更接近本质。这个问题的回答将直接影响人们对 AI 的预期管理——是概率统计的涌现，还是存在某种尚无法形式化的认知机制。  建议追踪这篇文章的引用来源和后续讨论，可能触发社区对 LLM 本质的新一轮辩论。"
 resource: "https://x.com/i/status/2058838221136769310"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2058838221136769310"
-created: "2026-05-25"
-updated: "2026-06-26"
-sha256: "bbba597ab0c40aec43d7defc0c5c5d36bce899dda490220be66b5bff62a599c2"
-sources:
-  - "/sources/news/2026-05-25/00__jiqizhixin__llm为何能像人类一样说话思考-机器之心在问一个元问题.md"
 ---
 
 # LLM为何能像人类一样说话思考：机器之心在问一个元问题

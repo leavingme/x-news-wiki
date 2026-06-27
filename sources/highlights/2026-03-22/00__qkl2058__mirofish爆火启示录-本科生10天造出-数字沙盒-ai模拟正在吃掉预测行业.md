@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "MiroFish爆火启示录：本科生10天造出「数字沙盒」，AI模拟正在吃掉预测行业"
 description: "**[多智能体模拟器正在成为新型情报基础设施]** • 技术突破：单一开发者借助AI工具10天完成核心功能，GitHub斩获13000星并完成400万美元融资，验证了「AI Coding + 创意」的爆发力 • 范式意义：数千AI代理自主互动模拟复杂场景（交易/公关/政策），从「描述性分析」跃迁至「预测性模拟」 • 商业落地：盛大集团3000万人民币押注，预示「AI沙盒即服务」可能催生新估值模型 "
 resource: "https://x.com/i/status/2035396355955532110"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2035396355955532110"
-created: "2026-03-21"
-updated: "2026-06-26"
-sha256: "467949575ae8b4a8f7ac46668d332f61f3e2ea03c68d073ddc3f062be237d1fc"
-sources:
-  - "/sources/highlights/2026-03-22/00__qkl2058__mirofish爆火启示录-本科生10天造出-数字沙盒-ai模拟正在吃掉预测行业.md"
 ---
 
 # MiroFish爆火启示录：本科生10天造出「数字沙盒」，AI模拟正在吃掉预测行业

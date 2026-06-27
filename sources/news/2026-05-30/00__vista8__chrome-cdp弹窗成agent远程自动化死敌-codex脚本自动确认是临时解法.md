@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Chrome CDP弹窗成Agent远程自动化死敌，Codex脚本自动确认是临时解法"
 description: "**物理确认层正在成为Agent远程执行的隐性税。**  向阳乔木发现Chrome CDP调试在远程服务器或Mac Mini运行Skill时会强制弹窗确认，导致自动化链路中断。Codex生成的自动点击脚本虽能绕过，但本质是用工程债掩盖平台设计的结构性矛盾。  关键信号：Browser Use和Computer Use每次执行都有物理确认成本，这个成本在远程/无头环境下被放大成数量级的效率损耗。脚本"
 resource: "https://x.com/i/status/2060595730742706452"
@@ -22,13 +22,6 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "page-agent-browser-automation"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2060595730742706452"
-created: "2026-05-30"
-updated: "2026-06-26"
-sha256: "77f7945c2a0b1270981642a937e96d5a3259e9b480827c579648d87222cda816"
-sources:
-  - "/sources/news/2026-05-30/00__vista8__chrome-cdp弹窗成agent远程自动化死敌-codex脚本自动确认是临时解法.md"
 ---
 
 # Chrome CDP弹窗成Agent远程自动化死敌，Codex脚本自动确认是临时解法

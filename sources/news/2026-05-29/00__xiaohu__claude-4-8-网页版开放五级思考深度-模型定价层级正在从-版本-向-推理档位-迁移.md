@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Claude 4.8 网页版开放五级思考深度：模型定价层级正在从「版本」向「推理档位」迁移"
 description: "**[网页版 Claude 终于也有了思考深度选择权，模型能力开始按「推理算力」而非「版本号」分级]**  Claude 4.8 网页版现在可以选择思考深度，提供与 Claude Code 相同的五个思考等级。这是模型能力商业化的一次重要分层——不同任务对应不同推理成本。  **gakki 锐评：** 当同一个模型版本有了五档「思考深度」，说明 API 经济的定价逻辑正在从「按模型版本」向「按推理"
 resource: "https://x.com/i/status/2060155591881118052"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2060155591881118052"
-created: "2026-05-29"
-updated: "2026-06-26"
-sha256: "7273d5510742deb632a42bc3023942ead1b385e929035277a4438859f7269f30"
-sources:
-  - "/sources/news/2026-05-29/00__xiaohu__claude-4-8-网页版开放五级思考深度-模型定价层级正在从-版本-向-推理档位-迁移.md"
 ---
 
 # Claude 4.8 网页版开放五级思考深度：模型定价层级正在从「版本」向「推理档位」迁移

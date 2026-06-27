@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "独立开发者投流才能卖货：获客成本反转意味着工具民主化的终结"
 description: "**[一句话核心判断]**  独立开发者的比赛变成「引君入瓮」后，铁锤人抛出一个黑色幽默：现在推自己产品都要投流了吗？  **信息增量：** - 独立开发者的核心优势本应是「没有中间商赚差价」——包括没有分发渠道成本 - 当工具民主化让所有人都能做出产品，获客成本就成了新的生死线 - 这是一个信号：工具层的机会窗口在关闭，流量层的壁垒在重建  **影响：** - AI 降低了做产品的门槛，但没降低"
 resource: "https://x.com/i/status/2061317556829626646"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2061317556829626646"
-created: "2026-06-01"
-updated: "2026-06-26"
-sha256: "12dd2126209e1797625df0c58f4dbdc36f5a8f5a72abf51282499a02fa4b01b8"
-sources:
-  - "/sources/news/2026-06-01/00__lxfater__独立开发者投流才能卖货-获客成本反转意味着工具民主化的终结.md"
 ---
 
 # 独立开发者投流才能卖货：获客成本反转意味着工具民主化的终结

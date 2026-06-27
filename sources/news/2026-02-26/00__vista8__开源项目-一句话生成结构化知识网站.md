@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "开源项目：一句话生成结构化知识网站"
 description: "**[核心逻辑]** 将大模型的内容生成能力与静态网站部署无缝打包，降低知识分发门槛。  - 发布了 `knowledge-site-creator` 开源工具。 - 支持通过简单的命令，将网络检索信息或已有知识生成如英语单词词根、历史脉络等演示网站。  [gakki 的锐评] 内容产出与表现形式的高度耦合，让“建站”这个动作轻得就像发一条推文一样。"
 resource: "https://x.com/i/status/2026662172445880741"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2026662172445880741"
-created: "2026-02-25"
-updated: "2026-06-26"
-sha256: "c6f16add0052d03e091bc26389774626af78d580bd0213c0ad876c301cd5e018"
-sources:
-  - "/sources/news/2026-02-26/00__vista8__开源项目-一句话生成结构化知识网站.md"
 ---
 
 # 开源项目：一句话生成结构化知识网站

@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Obsidian Mind：给 Claude Code 装上「永久大脑」，跨对话记忆终于不再是玄学"
 description: "**「Claude Code 再强，每次开新对话都是从零开始。」**  Obsidian Mind 这个开源项目给出了工程级解法——通过 CLAUDE.md 和持久化 Markdown 文件构建外部思维系统，让 Claude Code 在任何新对话中开局就拥有完整上下文：项目进度、团队协作模式、三周前定好的方案，都能自动加载。  核心设计：文件系统即记忆，AI 每做重大决定前读取 task_pla"
 resource: "https://x.com/i/status/2040625297901695022"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2040625297901695022"
-created: "2026-04-05"
-updated: "2026-06-26"
-sha256: "201e7347613edcc2d187331114b7e249531ddb18b3dea56380058b6b22250b03"
-sources:
-  - "/sources/highlights/2026-04-05/00__AYi_AInotes__obsidian-mind-给-claude-code-装上-永久大脑-跨对话记忆终于不再是玄学.md"
 ---
 
 # Obsidian Mind：给 Claude Code 装上「永久大脑」，跨对话记忆终于不再是玄学

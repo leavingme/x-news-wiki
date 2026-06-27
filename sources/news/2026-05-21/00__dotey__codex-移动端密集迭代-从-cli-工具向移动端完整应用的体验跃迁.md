@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Codex 移动端密集迭代：从 CLI 工具向移动端完整应用的体验跃迁"
 description: "**一句话核心判断** Codex 移动端密集更新（编译通知、断线重连、/fork 命令、diff 可视化），标志着 AI 编程工具正从「极客玩具」向「完整移动 IDE」产品化。  **信息增量** - 编译完成推送通知：开发者无需盯屏，异步工作流补上了关键一环 - /fork 命令新增：分支管理能力向 Git 原生操作靠拢 - diff 可视化升级：改动范围可见性提升，降低 review 成本 "
 resource: "https://x.com/i/status/2057467744124109151"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2057467744124109151"
-created: "2026-05-21"
-updated: "2026-06-26"
-sha256: "aa847c0d43717a6029e2ad73ea26bc88fd5f997bacd5f187f21cd7d10d2e6dc5"
-sources:
-  - "/sources/news/2026-05-21/00__dotey__codex-移动端密集迭代-从-cli-工具向移动端完整应用的体验跃迁.md"
 ---
 
 # Codex 移动端密集迭代：从 CLI 工具向移动端完整应用的体验跃迁

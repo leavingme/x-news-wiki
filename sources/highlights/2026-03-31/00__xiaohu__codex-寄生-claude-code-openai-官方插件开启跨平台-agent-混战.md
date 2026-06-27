@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Codex「寄生」Claude Code：OpenAI 官方插件开启跨平台 Agent 混战"
 description: "**[OpenAI 主动打破生态围墙，Agent 平台战争进入「互操作」阶段]**  • OpenAI 官方发布 codex-plugin-cc 插件，让 Codex 直接嵌入 Claude Code 执行代码审查与任务接管 • 插件复用本地 Coduex CLI 配置，无需重复认证，降低多 Agent 切换成本 • 信号明确：Agent 工具不再追求「独占」，而是争夺「被调用的优先级」  这不再"
 resource: "https://x.com/i/status/2038798288338772247"
@@ -22,13 +22,6 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "codex-ecosystem-platform-war"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2038798288338772247"
-created: "2026-03-31"
-updated: "2026-06-26"
-sha256: "fe6c707dae74b6c95f1713f9299558bab7d656e5008c738cb7f22df7ada661e2"
-sources:
-  - "/sources/highlights/2026-03-31/00__xiaohu__codex-寄生-claude-code-openai-官方插件开启跨平台-agent-混战.md"
 ---
 
 # Codex「寄生」Claude Code：OpenAI 官方插件开启跨平台 Agent 混战

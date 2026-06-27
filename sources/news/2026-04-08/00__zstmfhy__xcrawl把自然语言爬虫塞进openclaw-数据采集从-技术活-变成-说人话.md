@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "XCrawl把自然语言爬虫塞进OpenClaw：数据采集从「技术活」变成「说人话」"
 description: "**【一句话核心判断】**  XCrawl发布官方技能包xcrawl-skills，集成进OpenClaw生态，将网页抓取的核心能力（scrape/map/crawl/search）全部变成自然语言可调用的标准化接口，数据情报采集的门槛从\"会写选择器\"降到\"会描述你要什么\"。  **【信息增量】**  • 四大技能覆盖全场景：精准单页抓取、结构化映射、批量异步爬取、多引擎SERP搜索 • 解决三个"
 resource: "https://x.com/i/status/2037410857995718709"
@@ -22,13 +22,6 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "agent-data-intelligence-infra"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2037410857995718709"
-created: "2026-03-27"
-updated: "2026-06-26"
-sha256: "b9418f2710bb9be422e28dc9ac865979b5d548ee501a4651e35f887468338221"
-sources:
-  - "/sources/news/2026-04-08/00__zstmfhy__xcrawl把自然语言爬虫塞进openclaw-数据采集从-技术活-变成-说人话.md"
 ---
 
 # XCrawl把自然语言爬虫塞进OpenClaw：数据采集从「技术活」变成「说人话」

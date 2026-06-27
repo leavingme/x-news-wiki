@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Lightpanda：从TCP包重写的AI专用浏览器，9倍内存节省是真实刚需"
 description: "**[一句话核心判断]** Chromium的遗产负担正在被清算——为AI Agent量身定做的无头浏览器，用Zig从零实现，直击「跑自动化内存爆炸」的痛点。  • **技术债务**：Chromium的图形渲染历史包袱对AI自动化是负资产，Lightpanda直接剔除无关模块 • **性能拐点**：11倍速度提升是边际收益，但9倍内存节省对大规模Agent部署是成本结构的重塑 • **生态兼容**"
 resource: "https://x.com/i/status/2032683390428999749"
@@ -22,13 +22,6 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "agent-browser-token-efficiency"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2032683390428999749"
-created: "2026-03-14"
-updated: "2026-06-26"
-sha256: "e0eb3e5634f2bd2f285c9ca73bae2e742ce04cf57191f36d30e2aba1cf6ee0b5"
-sources:
-  - "/sources/news/2026-03-16/00__QingQ77__lightpanda-从tcp包重写的ai专用浏览器-9倍内存节省是真实刚需.md"
 ---
 
 # Lightpanda：从TCP包重写的AI专用浏览器，9倍内存节省是真实刚需

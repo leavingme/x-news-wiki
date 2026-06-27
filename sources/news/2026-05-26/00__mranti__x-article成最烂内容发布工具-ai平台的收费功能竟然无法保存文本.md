@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "X Article成最烂内容发布工具：AI平台的收费功能竟然无法保存文本"
 description: "**【一句话核心判断】** Michael Anti 亲身验证了 X Premium 最核心功能（Article）的产品笑话——无法保存用户撰写的文本——这不只是技术 Bug，而是 X 作为 AI 内容分发平台的信用破产。  **信息增量：** - Article 是 X 的付费功能，连最基础的写入持久化都做不好 - \"产品经理天天在搞什么东西\"——直接点名功能优先级失焦 - Michael An"
 resource: "https://x.com/i/status/2059108671611982194"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2059108671611982194"
-created: "2026-05-26"
-updated: "2026-06-26"
-sha256: "7e89f7a04daf969c21581e57f6a3eab612477bd355f5f5c1ece2fd9e38c6533b"
-sources:
-  - "/sources/news/2026-05-26/00__mranti__x-article成最烂内容发布工具-ai平台的收费功能竟然无法保存文本.md"
 ---
 
 # X Article成最烂内容发布工具：AI平台的收费功能竟然无法保存文本

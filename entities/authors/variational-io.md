@@ -1,23 +1,17 @@
 ---
-type: "entity"
+type: "Author"
 title: "Variational (@variational_io)"
 description: "X/Twitter 作者 @variational_io。共收录 1 条 AI 精选推文。"
 tags:
   - "x-news"
   - "author"
   - "author:variational_io"
-timestamp: "2026-06-26T11:53:36.993Z"
+timestamp: "2026-06-27T08:40:40.206Z"
 x_handle: "variational_io"
 x_author_name: "Variational"
 x_tweet_count: 1
 x_first_seen: "2026-04-30T22:17:51.046Z"
 x_last_seen: "2026-04-30T22:17:51.046Z"
-type_okf: "Author"
-created: "2026-04-30"
-updated: "2026-06-26"
-sha256: "2729384e442696d2b8d9e8124dac2162aba156a7f040709cdef080c6916258bf"
-sources:
-  - "/sources/news/2026-04-30/00__variational_io__clob-不适合-rwa-defi-基础设施的结构性缺陷正在暴露.md"
 ---
 
 # Variational (@variational_io)

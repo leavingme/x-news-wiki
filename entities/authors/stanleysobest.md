@@ -1,23 +1,17 @@
 ---
-type: "entity"
+type: "Author"
 title: "Stanley (@Stanleysobest)"
 description: "X/Twitter 作者 @Stanleysobest。共收录 1 条 AI 精选推文。"
 tags:
   - "x-news"
   - "author"
   - "author:Stanleysobest"
-timestamp: "2026-06-26T11:53:36.958Z"
+timestamp: "2026-06-27T08:40:40.166Z"
 x_handle: "Stanleysobest"
 x_author_name: "Stanley"
 x_tweet_count: 1
 x_first_seen: "2026-03-13T14:29:48.373Z"
 x_last_seen: "2026-03-13T14:29:48.373Z"
-type_okf: "Author"
-created: "2026-03-13"
-updated: "2026-06-26"
-sha256: "a4b44d4e08317b3bbfaac5c587f8067184730e2b4b313e87454ef9cf0bf44abd"
-sources:
-  - "/sources/news/2026-03-13/82__Stanleysobest__深圳ai创业-新试验田-叙事-零vc门槛是机会还是幻觉.md"
 ---
 
 # Stanley (@Stanleysobest)

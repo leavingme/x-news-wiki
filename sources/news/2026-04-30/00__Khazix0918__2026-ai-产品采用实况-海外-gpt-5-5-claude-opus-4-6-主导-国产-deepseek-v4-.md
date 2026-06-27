@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "2026 AI 产品采用实况：海外 GPT-5.5 + Claude Opus 4.6 主导，国产 DeepSeek V4 Pro + Kimi K2.6 补位"
 description: "**一份来自高频用户的场景化选型清单，比任何 benchmark 都更接近真实采用图谱。**  - 知识问答首选 GPT-5.5（幻觉极低），国产选豆包；内容创作 Claude Opus 4.6 独一档（明确不推荐 Opus 4.7） - 数据分析用 Codex + GPT-5.5，国内用 Claude Code + GLM-5.1；前端设计 Gemini 3.1 Pro 领先 - 关键信号：海外"
 resource: "https://x.com/i/status/2049673817589698916"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2049673817589698916"
-created: "2026-04-30"
-updated: "2026-06-26"
-sha256: "796a88e1050200d9a5c261ef2059852d1dfe485e4275fe7da2786652e12e34cb"
-sources:
-  - "/sources/news/2026-04-30/00__Khazix0918__2026-ai-产品采用实况-海外-gpt-5-5-claude-opus-4-6-主导-国产-deepseek-v4-.md"
 ---
 
 # 2026 AI 产品采用实况：海外 GPT-5.5 + Claude Opus 4.6 主导，国产 DeepSeek V4 Pro + Kimi K2.6 补位

@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "OpenMontage 拿下 GitHub 16k Star：开源 Agentic 视频生产线，把 Claude/Cursor 变成你的 AI 导演"
 description: "**全球首个开源 Agentic 视频生产系统 OpenMontage 把 12 大 Pipeline、52 个工具、500+ Agent 技能打包成端到端工作室，单条成本压到 $0.15-$1.33。**  要点： - 一句话描述需求，自动跑通研究→脚本→真实素材剪辑→生成→配音→字幕→合成全流程 - 关键差异化是'Agentic'：把导演/剪辑师/调色师/审片人角色内化为可调用技能，而非简单串"
 resource: "https://x.com/i/status/2069684466059202885"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2069684466059202885"
-created: "2026-06-24"
-updated: "2026-06-26"
-sha256: "fefa06cf7e86e19a9fd6cd7503780d7f5e4b89b637b742ea8826e5af34265ff7"
-sources:
-  - "/sources/news/2026-06-24/00__IndieDevHailey__openmontage-拿下-github-16k-star-开源-agentic-视频生产线-把-claude-cur.md"
 ---
 
 # OpenMontage 拿下 GitHub 16k Star：开源 Agentic 视频生产线，把 Claude/Cursor 变成你的 AI 导演

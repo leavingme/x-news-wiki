@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "38万浏览技术文章验证「教学即流量」的道德正当性"
 description: "**[一句话核心判断]**  技术文章靠「教会别人」获取流量是最不消耗信任的路径，38万浏览验证了内容创业的「教学-流量」正向循环成立。  **信息增量：** - 核心洞察：教学是获取流量最道德的方式——流量主获得内容素材，读者获得知识，双向价值交付 - 行动信号：文章不是最优教学载体，视频和动画讲解是下一代教学内容的形态 - 趋势：技术自媒体正在从「写文章」向「做视频」迁移，内容形态升级的红利仍"
 resource: "https://x.com/i/status/2055206492777918974"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2055206492777918974"
-created: "2026-05-15"
-updated: "2026-06-26"
-sha256: "efa899ba54d33240cf718fc39833b5eb3973e5d85b236950178a4092226d4a32"
-sources:
-  - "/sources/news/2026-05-15/00__lxfater__38万浏览技术文章验证-教学即流量-的道德正当性.md"
 ---
 
 # 38万浏览技术文章验证「教学即流量」的道德正当性

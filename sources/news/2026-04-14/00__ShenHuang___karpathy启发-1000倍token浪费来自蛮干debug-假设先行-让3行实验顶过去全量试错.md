@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Karpathy启发：1000倍token浪费来自蛮干debug，「假设先行」让3行实验顶过去全量试错"
 description: "**一句话核心判断：AI debug的核心瓶颈不是代码能力，而是人类不擅长在动手前先约束假设空间——这是Token时代最高性价比的工程认知升级。**  受Karpathy auto-research启发，在DEBUG.md列5个假设后，第3个假设无反对证据 → 3行实验 → 根因确认 → 5分钟修复。之前蛮干浪费的Token比最终修bug多了1000倍。4条铁律：假设先于代码、同方向失败2次强制换"
 resource: "https://x.com/i/status/2043469166418735204"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2043469166418735204"
-created: "2026-04-12"
-updated: "2026-06-26"
-sha256: "37bba5cd4030502fb47f922a3a2bc5e71e9c166e4807c01f06e0db2e6976d3ac"
-sources:
-  - "/sources/news/2026-04-14/00__ShenHuang___karpathy启发-1000倍token浪费来自蛮干debug-假设先行-让3行实验顶过去全量试错.md"
 ---
 
 # Karpathy启发：1000倍token浪费来自蛮干debug，「假设先行」让3行实验顶过去全量试错

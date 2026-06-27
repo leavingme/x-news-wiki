@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "AmbiSuR：光影欺骗下的3D表面重建难题被新框架部分解决"
 description: "**一句话核心判断** 北京航空航天大学与新加坡国立大学联合提出AmbiSuR框架，用高斯泼溅处理光度歧义问题，在光照欺骗场景下实现了更清晰的3D表面重建——是具身智能视觉感知的上游突破。  **信息增量** - 核心问题：光照和阴影导致的歧义性是现有3D重建的盲区 - 解决思路：先约束不适定几何，再用歧义指示模块自我纠正 - 意义：为机器人需要精确空间感知的场景提供更可靠的视觉输入  **gak"
 resource: "https://x.com/i/status/2059995859559846332"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2059995859559846332"
-created: "2026-05-28"
-updated: "2026-06-26"
-sha256: "8090393b78ac4fd2787457d11ecb0f9762f871077790904c6e3df2ba6e064b21"
-sources:
-  - "/sources/news/2026-05-28/00__jiqizhixin__ambisur-光影欺骗下的3d表面重建难题被新框架部分解决.md"
 ---
 
 # AmbiSuR：光影欺骗下的3D表面重建难题被新框架部分解决

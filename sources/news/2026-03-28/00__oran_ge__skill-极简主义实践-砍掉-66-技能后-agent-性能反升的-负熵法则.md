@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Skill 极简主义实践：砍掉 66% 技能后 Agent 性能反升的「负熵法则」"
 description: "**[技能堆砌时代的反共识验证]** • 109 个 skills 精简至约 36 个，Agent 响应速度显著提升 • 印证「少即是多」的工程直觉：技能过多导致上下文膨胀与决策噪声 • 暗示 Agent 编排的核心矛盾已从「功能覆盖」转向「精准收敛」  gakki 的锐评：这是一场微型的「断舍离」实验——当技能从炫耀式收藏变为性能负债，Agent 工程正在从「加法美学」向「减法纪律」迁移。"
 resource: "https://x.com/i/status/2037903812296671267"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2037903812296671267"
-created: "2026-03-28"
-updated: "2026-06-26"
-sha256: "34f4fe22ea27897de8086c92a401b4dac229963b14345e64480c3614b6ac2a61"
-sources:
-  - "/sources/news/2026-03-28/00__oran_ge__skill-极简主义实践-砍掉-66-技能后-agent-性能反升的-负熵法则.md"
 ---
 
 # Skill 极简主义实践：砍掉 66% 技能后 Agent 性能反升的「负熵法则」

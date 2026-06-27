@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Karpathy 拨乱反正：这不是 Slack 机器人，是「组织级 Harness」"
 description: "**Karpathy 主动下场纠正舆论：外界把组织级 Harness 误读成轻量 feature。**  - 明确表态「不是 crappy Slack bot，也不是 Claw 复刻」，新定位是「org-level harness」 - 强调多数读者没读完正文就下结论、用「cheap shots」找茬，是典型误读 - 关键判断：随着时间推移，组织级 Harness 与轻量工具的差距会「越来越清晰」"
 resource: "https://x.com/i/status/2069822834160124091"
@@ -22,13 +22,6 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "harness-engineering"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2069822834160124091"
-created: "2026-06-24"
-updated: "2026-06-26"
-sha256: "a4f5cf2227afa9e80a2d8c76eea7503e752ab6db983ad41920abcd6ec9eb6fb6"
-sources:
-  - "/sources/highlights/2026-06-25/00__karpathy__karpathy-拨乱反正-这不是-slack-机器人-是-组织级-harness.md"
 ---
 
 # Karpathy 拨乱反正：这不是 Slack 机器人，是「组织级 Harness」

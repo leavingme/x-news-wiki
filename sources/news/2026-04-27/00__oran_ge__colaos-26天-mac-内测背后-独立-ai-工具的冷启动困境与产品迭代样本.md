@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "ColaOS 26天 Mac 内测背后：独立 AI 工具的冷启动困境与产品迭代样本"
 description: "**一句话核心判断**：ColaOS 作为 Mac AI 工具在 26 天内测中趋于稳定，Windows 兼容延期至5月下旬，折射出 AI 工具跨平台交付的现实复杂度。  **信息增量**： - Mac 版本率先稳定并向 waitlist 用户发放邀请，Windows 延期说明跨平台 UI 框架一致性仍是 AI 工具的工程深水区 - 与新榜合作输出 26 天复盘笔记，表明 AI 工具团队开始重视产"
 resource: "https://x.com/i/status/2048717750919741557"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2048717750919741557"
-created: "2026-04-27"
-updated: "2026-06-26"
-sha256: "01c707b8dcfc3132a05f482274636324d23c6034a3e2d123c7083fc4311ade68"
-sources:
-  - "/sources/news/2026-04-27/00__oran_ge__colaos-26天-mac-内测背后-独立-ai-工具的冷启动困境与产品迭代样本.md"
 ---
 
 # ColaOS 26天 Mac 内测背后：独立 AI 工具的冷启动困境与产品迭代样本

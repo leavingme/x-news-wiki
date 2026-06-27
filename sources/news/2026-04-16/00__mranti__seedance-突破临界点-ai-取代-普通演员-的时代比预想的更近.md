@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Seedance 突破临界点：AI 取代「普通演员」的时代比预想的更近"
 description: "**[技术突破之后，IP 商业化的逻辑已经在重写]**  Michael Anti 看了 Seedance 相关的 AI 故事视频后判断：Seedance 在 2025 年的突破让「AI 取代普通演员」这件事基本落地了。核心论据是 AI 在 IP 创作时「和 IP 对齐」已经做得不错——不是替代特效演员，而是替代「不需要表演艺术的普通角色」。  这意味着电视剧、电影中大量「功能性角色」的演员供给正"
 resource: "https://x.com/i/status/2044400958705426751"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2044400958705426751"
-created: "2026-04-15"
-updated: "2026-06-26"
-sha256: "261129c4329269523e635e8a8e5a17bb198198c61500d941a99fa759f9a8488a"
-sources:
-  - "/sources/news/2026-04-16/00__mranti__seedance-突破临界点-ai-取代-普通演员-的时代比预想的更近.md"
 ---
 
 # Seedance 突破临界点：AI 取代「普通演员」的时代比预想的更近

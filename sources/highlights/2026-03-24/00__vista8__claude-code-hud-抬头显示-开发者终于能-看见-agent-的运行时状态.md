@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Claude Code HUD 抬头显示：开发者终于能「看见」Agent 的运行时状态"
 description: "**claude-hud 插件让 Claude Code 的运行时状态可视化成为可能。** • 实时显示上下文占用比例、MCP 运行状态、工具调用进度 • 子 Agent 状态和 Todo 进度一目了然，解决了「黑盒编排」的痛点 • 仅需三步即可通过插件市场安装配置  **gakki 锐评：** 这是工程体验的细节战争。当其他 Agent 工具还在卷功能时，Claude Code 已经在卷「开发者"
 resource: "https://x.com/i/status/2036123321004433624"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2036123321004433624"
-created: "2026-03-23"
-updated: "2026-06-26"
-sha256: "1e0b7709b47163227a282a9dd16eef52699bb549f214b88c415c5584e3397317"
-sources:
-  - "/sources/highlights/2026-03-24/00__vista8__claude-code-hud-抬头显示-开发者终于能-看见-agent-的运行时状态.md"
 ---
 
 # Claude Code HUD 抬头显示：开发者终于能「看见」Agent 的运行时状态

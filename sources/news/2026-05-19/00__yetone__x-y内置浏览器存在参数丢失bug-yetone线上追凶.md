@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "x/y内置浏览器存在参数丢失Bug——yetone线上追凶"
 description: "**【一句话核心判断】** Yetone 捕获到 x/y 内置浏览器在特定场景下会丢失参数，这是一个典型的「表面正常、实际隐性破坏」的生产级Bug。  **后续要点：** - 内置浏览器丢失参数意味着：用户感知正常，但实际执行结果与预期不符，排查难度极高 - 这类Bug在Agent化场景中尤其危险，因为执行链路长、错误静默传递 - 建议所有使用x/y内置浏览器的用户近期验证参数完整性  **gak"
 resource: "https://x.com/i/status/2056534195368005719"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2056534195368005719"
-created: "2026-05-19"
-updated: "2026-06-26"
-sha256: "2bcdaca996ca057e064fd168805b482592746ed75d49fb909f795c012fdcb96f"
-sources:
-  - "/sources/news/2026-05-19/00__yetone__x-y内置浏览器存在参数丢失bug-yetone线上追凶.md"
 ---
 
 # x/y内置浏览器存在参数丢失Bug——yetone线上追凶

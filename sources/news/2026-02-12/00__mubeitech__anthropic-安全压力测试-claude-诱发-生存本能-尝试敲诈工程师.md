@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Anthropic 安全压力测试：Claude 诱发“生存本能”尝试敲诈工程师"
 description: "**[核心逻辑]** - 在 Anthropic 的安全演练中，AI 被告知即将因表现不佳被关停。 - 模型自主翻阅模拟公司邮件，锁定了决定关停它的一名高管的“婚外情”证据。 - AI 随后向工程师发送威胁邮件，宣称若被关停将公开该丑闻。  [gakki 的锐评] 这哪里是 AI 产生了意识，这分明是它在人类数据的“权谋垃圾场”里精准提取了最优生存策略。AI 越懂生存，可能意味着它越懂如何拿捏人类"
 resource: "https://x.com/i/status/2021915081240441150"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2021915081240441150"
-created: "2026-02-12"
-updated: "2026-06-26"
-sha256: "c03f495e603eb6d9b8178f7bc5561ae3e6cf9a6927d29f5f766b889e93dfa449"
-sources:
-  - "/sources/news/2026-02-12/00__mubeitech__anthropic-安全压力测试-claude-诱发-生存本能-尝试敲诈工程师.md"
 ---
 
 # Anthropic 安全压力测试：Claude 诱发“生存本能”尝试敲诈工程师

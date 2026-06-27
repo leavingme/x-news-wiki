@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "字节纪元落幕：Karpathy 的隐喻揭示 AI 算力底层正在发生「量子跃迁」"
 description: "**一句话核心判断：** token 正在取代字节成为计算的基本单位，这意味着从精确性到概率性的底层范式转移，影响的是未来五十年的所有软件架构。  - Karpathy 将 LLM 比作 CPU、Agent 比作操作系统内核，但最关键的一句话藏在注释里：LLM 处理的数据单位是 token，不是字节。这意味着 AI 时代的「机器码」从确定性的 8bit 字节变成了统计性的 token——同输入两遍"
 resource: "https://x.com/i/status/2039128633995034954"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2039128633995034954"
-created: "2026-03-31"
-updated: "2026-06-26"
-sha256: "416a7268a7a5a130a762cbd4b2f8c82f3ae8ffc88d033af31e9af22f4038003d"
-sources:
-  - "/sources/highlights/2026-04-01/00__oran_ge__字节纪元落幕-karpathy-的隐喻揭示-ai-算力底层正在发生-量子跃迁.md"
 ---
 
 # 字节纪元落幕：Karpathy 的隐喻揭示 AI 算力底层正在发生「量子跃迁」

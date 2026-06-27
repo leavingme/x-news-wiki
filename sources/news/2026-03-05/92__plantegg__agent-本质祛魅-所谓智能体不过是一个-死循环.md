@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Agent 本质祛魅：所谓智能体不过是一个「死循环」"
 description: "**[Agent 的幻觉被戳破：不是模型变强了，是循环喂给它更多信息]** • 模型本身没有记忆，每次交互都是「闭卷考试」变「开卷+有人翻书」 • 模型从不执行工具，只会说「帮我跑这个」，真正干活的是 Agent 循环 • DIY Agent 门槛比想象中低：核心就是「提问→模型→命令→执行→回填」的循环   **gakki 的锐评：** 这篇是最诚实的 Agent 科普——没有神秘黑箱，只有工程"
 resource: "https://x.com/i/status/2029398632156508586"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 92
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2029398632156508586"
-created: "2026-03-05"
-updated: "2026-06-26"
-sha256: "3aa50db37a684219faa18d178723d66c722145cff1c26f7ce6ffcd9c7c1bbdea"
-sources:
-  - "/sources/news/2026-03-05/92__plantegg__agent-本质祛魅-所谓智能体不过是一个-死循环.md"
 ---
 
 # Agent 本质祛魅：所谓智能体不过是一个「死循环」

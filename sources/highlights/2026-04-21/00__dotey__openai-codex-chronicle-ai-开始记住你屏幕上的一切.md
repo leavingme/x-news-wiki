@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "OpenAI Codex Chronicle：AI 开始记住你屏幕上的一切"
 description: "**AI 正在获得跨越会话的「视觉记忆」，但明文存储和 rate limit 是两个定时炸弹。**  Chronicle 让 Codex 通过后台截屏+OCR 建立记忆，用户再说「这个报错」不再需要复制粘贴上下文。隐私风险是真实的——记忆文件是明文 Markdown，其他 App 可读；且后台 Agent 持续运行会快速消耗额度。  信号意义：OpenAI 正在把 AI 从「每次对话从零开始」推向"
 resource: "https://x.com/i/status/2046316977711452560"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2046316977711452560"
-created: "2026-04-20"
-updated: "2026-06-26"
-sha256: "a73556d6057d46068d0390458b40320b0771d71065fd13ccbe194259e1e671a8"
-sources:
-  - "/sources/highlights/2026-04-21/00__dotey__openai-codex-chronicle-ai-开始记住你屏幕上的一切.md"
 ---
 
 # OpenAI Codex Chronicle：AI 开始记住你屏幕上的一切

@@ -1,24 +1,17 @@
 ---
-type: "entity"
+type: "Author"
 title: "冰河 (@binghe)"
 description: "X/Twitter 作者 @binghe。共收录 2 条 AI 精选推文。"
 tags:
   - "x-news"
   - "author"
   - "author:binghe"
-timestamp: "2026-06-26T11:53:36.944Z"
+timestamp: "2026-06-27T08:40:40.152Z"
 x_handle: "binghe"
 x_author_name: "冰河"
 x_tweet_count: 2
 x_first_seen: "2026-02-22T01:00:41.636Z"
 x_last_seen: "2026-03-04T01:02:28.084Z"
-type_okf: "Author"
-created: "2026-02-22"
-updated: "2026-06-26"
-sha256: "01432dd11c317cdf81420483972545665e69e7f925cba1a70021b5eaa2bcad90"
-sources:
-  - "/sources/highlights/2026-02-22/00__binghe__脱敏技巧-用-语音转录法-剥离-ai-内容的机器味.md"
-  - "/sources/highlights/2026-03-04/00__binghe__claude-code-上下文压缩夺冠-agent-失忆症的工程解.md"
 ---
 
 # 冰河 (@binghe)

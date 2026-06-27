@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Meme币开始「长脑子」：AI策略接管三种经典机制"
 description: "**[Meme币从情绪玩具进化为有逻辑的链上策略资产]**  三种AI Meme机制已成型：AI智能回购（根据市场数据决策）、AI抽奖金库（算法决定质押用户开奖）、AI巴菲特金库（分批吸筹+销毁）。meme不再只靠FOMO情绪，而是有了链上可验证的策略逻辑。  7天后一键发射——门槛已降到普通用户可触达。"
 resource: "https://x.com/i/status/2036650348123705416"
@@ -22,13 +22,6 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "ai-trading-480x-returns"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2036650348123705416"
-created: "2026-03-25"
-updated: "2026-06-26"
-sha256: "5b817d02fa55fb2b98eb6e764572a1510d3de4ac8fb3ff19e88964826ff570da"
-sources:
-  - "/sources/news/2026-04-18/00__eth_cedric__meme币开始-长脑子-ai策略接管三种经典机制.md"
 ---
 
 # Meme币开始「长脑子」：AI策略接管三种经典机制

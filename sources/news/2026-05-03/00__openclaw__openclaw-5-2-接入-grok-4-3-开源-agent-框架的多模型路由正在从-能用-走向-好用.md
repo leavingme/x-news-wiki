@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "OpenClaw 5.2 接入 Grok 4.3：开源 Agent 框架的多模型路由正在从「能用」走向「好用」"
 description: "**开源 Agent 框架开始把「稳定性」当卖点而非功能。**  - OpenClaw 2026.5.2 首次官方支持 xAI Grok 4.3，意味着开源 Agent 框架的多模型路由策略正从 OpenAI/Anthropic 双中心走向真正的供应商多元化 - Plugin 安装/更新稳定性、Gateway 热路径优化——这些是生产环境真正关心的，而非 demo 阶段的功能堆叠 - Discor"
 resource: "https://x.com/openclaw/status/2050735037230801042"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "ai-trend-digest"
-type_okf: "X Tweet"
-source_url: "https://x.com/openclaw/status/2050735037230801042"
-created: "2026-05-03"
-updated: "2026-06-26"
-sha256: "bfb34611b3a34b2d72500d0bbfcf78b75bf7940fba888e803cd5504d77a09205"
-sources:
-  - "/sources/news/2026-05-03/00__openclaw__openclaw-5-2-接入-grok-4-3-开源-agent-框架的多模型路由正在从-能用-走向-好用.md"
 ---
 
 # OpenClaw 5.2 接入 Grok 4.3：开源 Agent 框架的多模型路由正在从「能用」走向「好用」

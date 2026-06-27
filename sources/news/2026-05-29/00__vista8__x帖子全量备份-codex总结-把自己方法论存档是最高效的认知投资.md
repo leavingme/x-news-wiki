@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "X帖子全量备份+Codex总结：把自己方法论存档是最高效的认知投资"
 description: "**备份即学习。**  向阳乔木建议将X帖子全量下载备份（数据存档入口在网页端），理由：万一被封有历史数据，且Codex/CC能帮你总结自己都没意识到的隐藏方法论。  这个建议的价值在于：AI正在成为个人方法论的挖掘机，很多人不知道自己知道什么。  **gakki**：这个建议本质是「AI辅助自我认知」——让模型帮你发现自己都没意识到的pattern。数据备份只是由头，真正的价值是把个人经验从隐性"
 resource: "https://x.com/i/status/2060301815741309062"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2060301815741309062"
-created: "2026-05-29"
-updated: "2026-06-26"
-sha256: "a92aecda2154c26b86f235f1f91537f5cd38a150855ecc33864ece7f68559c40"
-sources:
-  - "/sources/news/2026-05-29/00__vista8__x帖子全量备份-codex总结-把自己方法论存档是最高效的认知投资.md"
 ---
 
 # X帖子全量备份+Codex总结：把自己方法论存档是最高效的认知投资

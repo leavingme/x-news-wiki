@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Claude Fable 5 一线体感：思维全面到「过分」，缓存命中 10 美分/轮可接受"
 description: "**Fable 5 不是参数升级，是「对方智商提升」的体感级别跃迁。**  - 一线用户反馈：对话有明显的「高智商对手」感，思维覆盖极广，某种程度上甚至「过于全面」。 - 缓存命中后单轮成本约 10 美分，相对 Fable 5 的能力跃迁定价具备合理性。 - 体感与余温的基准（91 分 vs 60+）形成互证：主观维度的「全面性」与客观基准的编程代差同向。  gakki 锐评：当用户开始说「贵但值"
 resource: "https://x.com/i/status/2064683451660607967"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2064683451660607967"
-created: "2026-06-10"
-updated: "2026-06-26"
-sha256: "8e7aaa6478ca9ae94a20f1df8734ffb72c347b85a8c6071a73be21bc0133116e"
-sources:
-  - "/sources/news/2026-06-10/00__oran_ge__claude-fable-5-一线体感-思维全面到-过分-缓存命中-10-美分-轮可接受.md"
 ---
 
 # Claude Fable 5 一线体感：思维全面到「过分」，缓存命中 10 美分/轮可接受

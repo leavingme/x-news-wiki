@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Opus 4.8让Multi-Agent协作回归单机：Anthropic的智商税又上税了"
 description: "**【一句话核心判断】**  Opus 4.8的多Agent协作能力出现了明显退化，这是Anthropic在Agent能力上「顾此失彼」的又一个例证。  **关键要点：** - 大量此前运行完美的多Agent协作流程在升级Opus 4.8后全部失效 - 连Opus 4.8自身都承认问题源于模型本身，而非配置或代码问题 - 这意味着当前Claude家族在Agent稳定性和模型智能之间存在取舍矛盾  "
 resource: "https://x.com/i/status/2061338429250842991"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2061338429250842991"
-created: "2026-06-01"
-updated: "2026-06-26"
-sha256: "f2adabf7563f1485a8a2e0def4f7bc15dba1ab27e9349e67e49877e17b6f5dba"
-sources:
-  - "/sources/highlights/2026-06-01/00__yetone__opus-4-8让multi-agent协作回归单机-anthropic的智商税又上税了.md"
 ---
 
 # Opus 4.8让Multi-Agent协作回归单机：Anthropic的智商税又上税了

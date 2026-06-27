@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Michael Anti 退订 DeepL 自建翻译栈：DeepSeek V4 flash + 自研 epub/pdf 工具链"
 description: "**资深非技术用户 Michael Anti 用 DeepSeek V4 flash 串起自研 epub/PDF/OCR 翻译流水线，做审查 fallback 之后，正式告别 DeepL 订阅。**  - 关键判断：DeepSeek V4 flash 在古文、汉语人名翻译上完胜 DeepL，这是国产模型第一次在专业翻译场景对国际工具形成碾压级优势 - 方法论价值：体现\"非技术用户 + LLM 编程"
 resource: "https://x.com/i/status/2063805152797319676"
@@ -22,13 +22,6 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "AI-API成本结构与本地部署"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2063805152797319676"
-created: "2026-06-08"
-updated: "2026-06-26"
-sha256: "e24a42b4ab2d5f0c32e3052474584fb7edaacde79889346cb406f14a5a765aa3"
-sources:
-  - "/sources/news/2026-06-08/00__mranti__michael-anti-退订-deepl-自建翻译栈-deepseek-v4-flash-自研-epub-pdf-工具.md"
 ---
 
 # Michael Anti 退订 DeepL 自建翻译栈：DeepSeek V4 flash + 自研 epub/pdf 工具链

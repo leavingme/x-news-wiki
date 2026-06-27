@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "40 秒视频消耗 145 万 Token：Claude Code 视频生成里九成成本在「组接」而非「生成」"
 description: "**[Token 消耗结构揭示视频生成新瓶颈：组接远超生成，缓存策略是下一个工程战场]**  用 Claude Code 分析 40 秒视频的 Token 消耗结构：总消耗 145 万 Token，其中视频组合和 Skills 占了最大头；输入占比极高，输出仅占 0.7%；使用 Claude Code 有 92% 缓存率。  核心洞察：视频生成的瓶颈不在模型推理成本，而在于多段视频的组合调度和 S"
 resource: "https://x.com/i/status/2056575297810751506"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2056575297810751506"
-created: "2026-05-19"
-updated: "2026-06-26"
-sha256: "05e9e1b81807f728f4d5061ef958489e0f56b746c26003f9c6c3dfc16c887916"
-sources:
-  - "/sources/news/2026-05-19/00__op7418__40-秒视频消耗-145-万-token-claude-code-视频生成里九成成本在-组接-而非-生成.md"
 ---
 
 # 40 秒视频消耗 145 万 Token：Claude Code 视频生成里九成成本在「组接」而非「生成」

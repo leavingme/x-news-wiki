@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Sandcastle：极客版多Agent工作流编排，赛博养蛊的最小化实践"
 description: "**「Workflow编排是Agent工具的下一个原子能力」——但Sandcastle的极客外壳限制了它的传播半径。**  核心判断：多Agent协作的实用化路径不是聊天式多Agent对话，而是TypeScript脚本化的Workflow编排，Sandcastle证明了这一点。但过于极客的形态使其只适合「赛博养蛊」场景——让多个Agent各出一套方案再相互打分。  要点： - Codex、Clau"
 resource: "https://x.com/i/status/2060865571244183797"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2060865571244183797"
-created: "2026-05-30"
-updated: "2026-06-26"
-sha256: "6ea2dbe6b2ac3883b36a176b4804dad071eda6e22832c9e7f96fde709c0e2688"
-sources:
-  - "/sources/news/2026-05-31/00__dotey__sandcastle-极客版多agent工作流编排-赛博养蛊的最小化实践.md"
 ---
 
 # Sandcastle：极客版多Agent工作流编排，赛博养蛊的最小化实践

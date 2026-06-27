@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Hallo-Live：复旦百度联手把实时音视频Avatar延迟压到0.94秒，16倍提速"
 description: "**一线判断：实时数字人交互的工程瓶颈正在被系统性拆除。**  - 核心技术：双流扩散（Dual-stream Diffusion）+ 未来扩展注意力（Future-expanding Attention），在语音到达前就预测口型，彻底告别音画不同步。 - 性能数据：20 FPS、0.94秒端到端延迟，相比加速基线方法提速16倍、延迟降低99倍，属于量级跃迁而非边际优化。 - 人类偏好蒸馏（Hum"
 resource: "https://x.com/i/status/2062080348469809469"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2062080348469809469"
-created: "2026-06-03"
-updated: "2026-06-26"
-sha256: "9236eff937e9a890b9e1f6b5d4b8d6ff81d2b4c5611b063413404656f537cb12"
-sources:
-  - "/sources/news/2026-06-03/00__jiqizhixin__hallo-live-复旦百度联手把实时音视频avatar延迟压到0-94秒-16倍提速.md"
 ---
 
 # Hallo-Live：复旦百度联手把实时音视频Avatar延迟压到0.94秒，16倍提速

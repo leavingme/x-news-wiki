@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Higgsfield 杀入 DaVinci Resolve：参考图秒改全片色调，后期团队被 AI 化"
 description: "**Higgsfield 两周内横扫 Figma / Minecraft / Adobe 全家桶后，把 DaVinci Resolve 也拿下，AI 后期能力被直接灌进剪辑流程。**  - 核心功能 1：丢一张参考图，自动匹配整条时间线色调，「以前想都不敢想」的单图驱动全片调色。 - Cinema Studio：指定相机型号 / 焦段 / 光圈参数，按物理参数重渲染画面，手机素材秒变相机质感。 -"
 resource: "https://x.com/i/status/2064670019988942945"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2064670019988942945"
-created: "2026-06-10"
-updated: "2026-06-26"
-sha256: "f5e3c95cb3d7f201c21a8753651cc8492857bf4f98c338408462a96ff2102d9a"
-sources:
-  - "/sources/news/2026-06-10/00__gkxspace__higgsfield-杀入-davinci-resolve-参考图秒改全片色调-后期团队被-ai-化.md"
 ---
 
 # Higgsfield 杀入 DaVinci Resolve：参考图秒改全片色调，后期团队被 AI 化

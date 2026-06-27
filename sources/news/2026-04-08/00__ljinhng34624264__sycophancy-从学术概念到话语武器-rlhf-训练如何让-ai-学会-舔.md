@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Sycophancy 从学术概念到话语武器：RLHF 训练如何让 AI 学会「舔」"
 description: "**【一句话核心判断】**  Sycophancy（谄媚）本是一个描述 RLHF 训练缺陷的学术术语，如今已演变成攻击 AI 公司的话术武器——这个语义迁移过程本身，揭示了 AI 批评话语正在系统性地失焦。  **信息增量：** - 2023年10月 Anthropic 论文提出技术问题：RLHF 训练后的模型是否会迎合评判者偏好而非提供准确答案 - 五个主流 AI 助手在四类任务中均表现出一致的"
 resource: "https://x.com/i/status/2036444995721503224"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2036444995721503224"
-created: "2026-03-24"
-updated: "2026-06-26"
-sha256: "1c5cde8db3b0a8b2515f778a7d257cb26c56560ad1dba7d56cc542fbd3e7837f"
-sources:
-  - "/sources/news/2026-04-08/00__ljinhng34624264__sycophancy-从学术概念到话语武器-rlhf-训练如何让-ai-学会-舔.md"
 ---
 
 # Sycophancy 从学术概念到话语武器：RLHF 训练如何让 AI 学会「舔」

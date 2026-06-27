@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "AI 生图正在进入「以假乱真」的日常化阶段"
 description: "**[当专业人士都开始猜测图片是否为 AI 生成时，AI 图像已不再是「可识别」的边界]**  yetone 转发 hwwaanng 和 ZaynHao 的内容时猜测「怕不是 gpt-image-2 生成的」，这句话本身比内容更有信息量：发出者需要主动猜测而非一眼识别，说明 AI 生图质量已越过普通人的鉴别阈值。  **gakki锐评：** 「像 AI 画的」正在变成「像真的拍的」——当视觉内容的"
 resource: "https://x.com/i/status/2059990335078719707"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2059990335078719707"
-created: "2026-05-28"
-updated: "2026-06-26"
-sha256: "d8514c0b3b3386419360ae0dd507630055035d53335a4fe78268a67bfd22cd97"
-sources:
-  - "/sources/news/2026-05-28/00__yetone__ai-生图正在进入-以假乱真-的日常化阶段.md"
 ---
 
 # AI 生图正在进入「以假乱真」的日常化阶段

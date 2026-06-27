@@ -1,23 +1,17 @@
 ---
-type: "entity"
+type: "Author"
 title: "raullen.eth (@Raullen)"
 description: "X/Twitter 作者 @Raullen。共收录 1 条 AI 精选推文。"
 tags:
   - "x-news"
   - "author"
   - "author:Raullen"
-timestamp: "2026-06-26T11:53:36.992Z"
+timestamp: "2026-06-27T08:40:40.205Z"
 x_handle: "Raullen"
 x_author_name: "raullen.eth"
 x_tweet_count: 1
 x_first_seen: "2026-04-29T16:17:56.745Z"
 x_last_seen: "2026-04-29T16:17:56.745Z"
-type_okf: "Author"
-created: "2026-04-29"
-updated: "2026-06-26"
-sha256: "473479edbafdfcfa28afd904b637a1107d680e9624726f8d45e364c60a9133ab"
-sources:
-  - "/sources/news/2026-04-29/00__Raullen__deepseek-v4-flash-首日即跑通-apple-silicon-158b-moe-在-mac-studio-.md"
 ---
 
 # raullen.eth (@Raullen)

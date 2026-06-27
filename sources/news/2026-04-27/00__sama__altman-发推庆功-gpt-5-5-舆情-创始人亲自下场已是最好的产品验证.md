@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Altman 发推庆功 GPT-5.5 舆情：创始人亲自下场已是最好的产品验证"
 description: "**Altman 发推庆功 GPT-5.5 舆情：创始人亲自下场已是最好的产品验证**  Sam Altman 本人在 X 发推「so fun to see the reception to 5.5」，配上 builders 圈的高满意度反馈，这不是寻常的 CEO 发帖。  - GPT-5.5 上市后专业社区反馈积极，Altman 主动发帖说明产品层面已通过核心用户群验证 - 对于竞争对手（Ant"
 resource: "https://x.com/sama/status/2048554097985593849"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "ai-trend-digest"
-type_okf: "X Tweet"
-source_url: "https://x.com/sama/status/2048554097985593849"
-created: "2026-04-27"
-updated: "2026-06-26"
-sha256: "03b2c4e0cf11f5392a3cdd570b21b6d1d2db974a52b297d37bb5728e2d237550"
-sources:
-  - "/sources/news/2026-04-27/00__sama__altman-发推庆功-gpt-5-5-舆情-创始人亲自下场已是最好的产品验证.md"
 ---
 
 # Altman 发推庆功 GPT-5.5 舆情：创始人亲自下场已是最好的产品验证

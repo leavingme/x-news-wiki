@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "纯 Skills 难以落地：宝玉首次坦承框架抽象的工程边界"
 description: "**[Skills 范式的工程悬崖：抽象层级与执行可靠性的不可调和]**  宝玉首次公开承认「纯 Skills 是很难的」，这是来自框架核心构建者的真实反思。Skills 范式提供了概念上的优雅，但在工程落地层面，可组合性带来的复杂性会指数级侵蚀可靠性。Claude Code 早期的困境已经验证：框架越抽象，调试成本越高，生产级使用和实验性探索之间存在结构性张力。  - 信息增量：Skills 范"
 resource: "https://x.com/i/status/2054423937937764706"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2054423937937764706"
-created: "2026-05-13"
-updated: "2026-06-26"
-sha256: "9b2a5954497adf7eecf223db06aaf6f7711bc8354ea1da016c4849205a8b9b88"
-sources:
-  - "/sources/news/2026-05-13/00__dotey__纯-skills-难以落地-宝玉首次坦承框架抽象的工程边界.md"
 ---
 
 # 纯 Skills 难以落地：宝玉首次坦承框架抽象的工程边界

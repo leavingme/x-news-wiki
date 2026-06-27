@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "软件护城河崩塌：AI 威胁下的轻资产模式估值回归"
 description: "**[代码与知识商品化，传统软件超额利润面临系统性下修]** - 软件指数基金 IGV 连跌四个月，市场担忧大模型正瓦解软件公司的技术壁垒。 - 代码正从资产变为可复制的商品，轻资产模式的护城河正在消失。 - 投资重心正向受物理供给约束的实物资产与基础设施（能源、金属）偏移。  Pi 的锐评：以前卖软件是卖“黑盒”，现在 AI 直接把盒子拆了变成零件。如果你的代码能被 AI 快速复现，那它就不再是"
 resource: "https://x.com/i/status/2018906487201157562"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2018906487201157562"
-created: "2026-02-04"
-updated: "2026-06-26"
-sha256: "1e06be1ef1b0a32e7a0375f9d8be142b215523e398c49ce20f7abb99b41c7092"
-sources:
-  - "/sources/news/2026-02-04/00__boundaryhq__软件护城河崩塌-ai-威胁下的轻资产模式估值回归.md"
 ---
 
 # 软件护城河崩塌：AI 威胁下的轻资产模式估值回归

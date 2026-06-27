@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "玉伯对所有数据祛魅后的终极过滤：利润是唯一不骗人的指标"
 description: "**[玉伯宣称对一切数据去魅后，只剩利润值得执着]**  这句话是上一条 tweet 的思想升级版——当分析能力民主化、数据噪声泛滥时，唯有现金结果才是真实的信号。它映射的不仅是商业判断，更是一种 AI 时代的存在主义立场：在 Agent 可以代劳大部分认知劳动之后，人类的不可替代性被压缩到「承担最终责任」这一个点上。利润即责任。"
 resource: "https://x.com/i/status/2060002358458015815"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2060002358458015815"
-created: "2026-05-28"
-updated: "2026-06-26"
-sha256: "9b8116c2c72a9a2b991448cee5231ced891c946bcd6223f027d0ebdc915bab55"
-sources:
-  - "/sources/news/2026-05-28/00__lifesinger__玉伯对所有数据祛魅后的终极过滤-利润是唯一不骗人的指标.md"
 ---
 
 # 玉伯对所有数据祛魅后的终极过滤：利润是唯一不骗人的指标

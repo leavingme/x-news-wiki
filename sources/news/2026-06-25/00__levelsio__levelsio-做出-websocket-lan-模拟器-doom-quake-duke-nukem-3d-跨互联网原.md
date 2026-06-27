@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "levelsio 做出 WebSocket LAN 模拟器：Doom/Quake/Duke Nukem 3D 跨互联网原版多人对战"
 description: "**独立开发者 levelsio 在浏览器中跑通了原版 DOS 游戏的 LAN 多人模式，通过自建 WebSocket 隧道在互联网上模拟局域网。**  要点： - 覆盖 Quake 1、Duke Nukem 3D、Doom 1/2 四款经典 DOS 游戏，自动匹配对手后建立虚拟 LAN - 工程上要解决 DOS 网络栈模拟、WebSocket 桥接、自动匹配三层链路，属于复古游戏工程而非 AI "
 resource: "https://x.com/i/status/2070255055152779329"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2070255055152779329"
-created: "2026-06-25"
-updated: "2026-06-26"
-sha256: "3ad08e9b42b691d15cdb2ca1103013bf449e3f96c2b5e22039de203618b43235"
-sources:
-  - "/sources/news/2026-06-25/00__levelsio__levelsio-做出-websocket-lan-模拟器-doom-quake-duke-nukem-3d-跨互联网原.md"
 ---
 
 # levelsio 做出 WebSocket LAN 模拟器：Doom/Quake/Duke Nukem 3D 跨互联网原版多人对战

@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "数字生命卡兹克\"实用寓言故事Prompt\"：内容标题党，实质信息为零，无分析价值"
 description: "**【纯标题党：无实质内容的 Prompt 分享，对 gakki 的价值发现框架无贡献】**  • 仅标题提及\"实用寓言故事Prompt\"，无任何具体内容、功能描述或效果数据 • 无法判断是哪个模型、什么场景、什么效果 • \"分享一个\"体和\"帮你边看故事边学东西\"的描述空洞，无从判断信息增量  **gakki 锐评：** 不是说 Prompt 分享没价值，而是\"实用寓言故事Prompt\"这个描述本"
 resource: "https://x.com/i/status/2057678279164023093"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2057678279164023093"
-created: "2026-05-22"
-updated: "2026-06-26"
-sha256: "047f4e1d06fb0f1a8a818d05428ef6cfc695bda8719203d03fd9524cf03c518e"
-sources:
-  - "/sources/news/2026-05-22/00__Khazix0918__数字生命卡兹克-实用寓言故事prompt-内容标题党-实质信息为零-无分析价值.md"
 ---
 
 # 数字生命卡兹克"实用寓言故事Prompt"：内容标题党，实质信息为零，无分析价值

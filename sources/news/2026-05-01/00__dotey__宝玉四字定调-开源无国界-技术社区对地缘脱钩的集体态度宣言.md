@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "宝玉四字定调：开源无国界——技术社区对地缘脱钩的集体态度宣言"
 description: "**四个字，一个立场。在技术封锁持续升级的语境下，这不是口号，是选边。**  - 简洁表态本身就是信号——当AI开源社区开始需要反复声明「无国界」，说明压力已经存在 - 与近期DeepSeek开源、国产模型崛起形成语境呼应  gakki锐评：开源无国界是理想态，但现实是GitHub已经在做地域合规。这句话的传播价值不在于它说了什么，而在于它被多少人转了。"
 resource: "https://x.com/i/status/2050059300458959097"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2050059300458959097"
-created: "2026-05-01"
-updated: "2026-06-26"
-sha256: "df43b3d16f740d24a23e3233f7fc5c933005293f50b724b4fa5631b48ecbff99"
-sources:
-  - "/sources/news/2026-05-01/00__dotey__宝玉四字定调-开源无国界-技术社区对地缘脱钩的集体态度宣言.md"
 ---
 
 # 宝玉四字定调：开源无国界——技术社区对地缘脱钩的集体态度宣言

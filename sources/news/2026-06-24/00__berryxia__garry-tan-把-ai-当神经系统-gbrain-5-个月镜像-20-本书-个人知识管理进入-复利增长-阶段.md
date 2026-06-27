@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Garry Tan 把 AI 当神经系统：GBrain 5 个月镜像 20+ 本书，个人知识管理进入「复利增长」阶段"
 description: "**YC CEO Garry Tan 把 AI 从聊天窗口升级为「第二大脑/神经系统」，GBrain 已用 5 个月产出 10 万页结构化知识。**  - Book Mirror 模式：以 Pema Chödrön《When Things Fall Apart》为例，系统 40 分钟提取 22 章，每章自动叠加作者观点与 Garry 个人生活（移民家庭、YC 工作、治疗师对话）的双栏映射，后续每本"
 resource: "https://x.com/i/status/2053136924244836455"
@@ -22,13 +22,6 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "personal-knowledge-management-ai"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2053136924244836455"
-created: "2026-05-09"
-updated: "2026-06-26"
-sha256: "5880af2d69c8ac25d25ff627ca1f4bfad3e0a2318ef8e5e21385ae74c0ae51a8"
-sources:
-  - "/sources/news/2026-06-24/00__berryxia__garry-tan-把-ai-当神经系统-gbrain-5-个月镜像-20-本书-个人知识管理进入-复利增长-阶段.md"
 ---
 
 # Garry Tan 把 AI 当神经系统：GBrain 5 个月镜像 20+ 本书，个人知识管理进入「复利增长」阶段

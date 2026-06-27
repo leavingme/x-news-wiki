@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Google 两年前 27 亿美元买回的 AI 人才不到两年跳槽 OpenAI,Gemini 后劲不足"
 description: "**大企业病在 AI 人才争夺战中首次被明牌量化。**  - 2.7 亿美元级别回购(疑指 Character.AI 一类交易)的顶尖 AI 研究员,不到两年被 OpenAI 挖走 - 印证\"高薪资+股权\"的留人模型对顶尖 AI 人才正在失效——Gemini 短暂领先后没后劲,根因是组织 - 下一变量是 Gemini 3.5 Pro,但产品迭代节奏已被组织摩擦拖慢  空一行。  gakki 锐评:"
 resource: "https://x.com/i/status/2067518245847110088"
@@ -22,13 +22,6 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "ai-talent-flight"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2067518245847110088"
-created: "2026-06-18"
-updated: "2026-06-26"
-sha256: "e6978669dfc3214521bb750892fdf9d6c409d48a2f07cc727942f83964246474"
-sources:
-  - "/sources/highlights/2026-06-18/00__xiaohu__google-两年前-27-亿美元买回的-ai-人才不到两年跳槽-openai-gemini-后劲不足.md"
 ---
 
 # Google 两年前 27 亿美元买回的 AI 人才不到两年跳槽 OpenAI,Gemini 后劲不足

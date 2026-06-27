@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Fable 5 长程自主性获一线开发者一致认可，Agent 工业化时间表再次前移"
 description: "**[信号]**  - 向阳乔木指出，目前公开信息对 Fable 5 的长程自主性评价一致偏正面 - 长程自主（long-horizon autonomy）是 Agent 走向工业化生产的关键瓶颈 - 相比 2025 年的几小时级，能跑过完整业务闭环的 Agent 已是新门槛   gakki 锐评：长程自主是 Agent 工业化的生死线，Fable 5 出现意味着\"小时级 agent\"开始跨入\"天"
 resource: "https://x.com/i/status/2064717066666643946"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2064717066666643946"
-created: "2026-06-10"
-updated: "2026-06-26"
-sha256: "6c990a235071c15957dc945c2e7a36a759a6eadd4e91b73c091f60f2d15cef18"
-sources:
-  - "/sources/news/2026-06-10/00__vista8__fable-5-长程自主性获一线开发者一致认可-agent-工业化时间表再次前移.md"
 ---
 
 # Fable 5 长程自主性获一线开发者一致认可，Agent 工业化时间表再次前移

@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "autocli v0.3：AI抓取从「规则驱动」进入「意图驱动」时代"
 description: "**一句话核心判断：网页数据采集正在从工程师专属技能变成自然语言指令，autocli 的 Chrome 插件+免费 AI 适配器规则路径，代表了数据情报基础设施的民主化时刻。**  - 核心突破：用户通过浏览器插件直接框选目标数据，AI 引擎自动推断网站结构并生成适配器规则——从「写正则表达式」变成「画个圈」 - 零成本壁垒：autocli 的 AI 引擎调用完全免费，规则同步到社区共享，大幅降低"
 resource: "https://x.com/i/status/2041464968265298242"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2041464968265298242"
-created: "2026-04-07"
-updated: "2026-06-26"
-sha256: "a0213c5328c73ba4e9eb60c352c887c7dd40540983af2061ac4444ea09bc1a8a"
-sources:
-  - "/sources/news/2026-04-08/00__nash_su__autocli-v0-3-ai抓取从-规则驱动-进入-意图驱动-时代.md"
 ---
 
 # autocli v0.3：AI抓取从「规则驱动」进入「意图驱动」时代

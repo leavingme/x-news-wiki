@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "MetaFine 撕下机器人细操「虚标」面具：当前模型成功率被高估 70%，瓶颈卡在视觉编码器局部空间精度"
 description: "**[一句话核心判断]** 东南大学+Monash+小米EV+哥本哈根大学+北大联合提出 MetaFine，首次把机器人细操 benchmark 从二元 pass/fail 升级为「理解-感知-控制」三维诊断，结论相当刺眼：现有 AI 模型在细粒度操作任务上的真实能力比公布数字低最多 70%。  **关键发现：** - 瓶颈不在策略网络，而在视觉编码器的局部空间精度——这意味着不改下游 polic"
 resource: "https://x.com/i/status/2067255696199221722"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2067255696199221722"
-created: "2026-06-17"
-updated: "2026-06-26"
-sha256: "f558ff612c694b29f5b18b9d289a94341a081bc9e90d03c49a0a84f9b4da7198"
-sources:
-  - "/sources/news/2026-06-17/00__jiqizhixin__metafine-撕下机器人细操-虚标-面具-当前模型成功率被高估-70-瓶颈卡在视觉编码器局部空间精度.md"
 ---
 
 # MetaFine 撕下机器人细操「虚标」面具：当前模型成功率被高估 70%，瓶颈卡在视觉编码器局部空间精度

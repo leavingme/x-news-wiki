@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "玉伯读《置身钉内》：成功者的最大资产，是重复自己"
 description: "**[一句话核心判断]** 无招、一鸣、小龙等顶级产品人身上那条最难挣脱的\"成功者之手\"，正是后来者的曙光。  -玉伯读完关于钉钉的长文后留下两个感触：笑，是因为无招还在无招的影子里；叹，是因为妄念以为每个故事都能乔布斯化。 -真正的洞察：曾让自己成功的手感最难忘记，而这种\"惯性重复\"才是后来者的红利窗口。 - 这不是批评，是站在产品人立场的温柔致敬——心存善念，但接受现实。   gakki锐评："
 resource: "https://x.com/i/status/2063612813164331034"
@@ -22,13 +22,6 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "product-thinker-rise"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2063612813164331034"
-created: "2026-06-07"
-updated: "2026-06-26"
-sha256: "31230e9a62b90bca74c28edf1d5f4aac4ba3da28dfde6b41395793ebf1b9a0d6"
-sources:
-  - "/sources/news/2026-06-07/00__lifesinger__玉伯读-置身钉内-成功者的最大资产-是重复自己.md"
 ---
 
 # 玉伯读《置身钉内》：成功者的最大资产，是重复自己

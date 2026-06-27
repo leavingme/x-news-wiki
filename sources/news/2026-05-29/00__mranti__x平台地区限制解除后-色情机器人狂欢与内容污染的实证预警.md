@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "X平台地区限制解除后：色情机器人狂欢与内容污染的实证预警"
 description: "**一句话核心判断：** X平台向全球开放后，中文推文生态正在经历一场由低质量spam机器人引发的\"降维打击\"，这是语言壁垒消除后的第一个副作用。  - 限制解除后，同城诈骗类色情机器人在各地区大量扩散，以\"本地女性\"为噱头精准收割地域相近用户 - 这类机器人已形成完整产业链：账号批量注册→本地化内容生成→地理围栏推送→私域导流变现 - 本质是LLM+低成本社交工程的组合滥用，国内已积累多年的\"杀"
 resource: "https://x.com/i/status/2060269249017606530"
@@ -22,13 +22,6 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "ai-platform-integration-risk"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2060269249017606530"
-created: "2026-05-29"
-updated: "2026-06-26"
-sha256: "5cfd87b6c04a70d734de322046da92a6684e4615bac0ca59e23636391145096f"
-sources:
-  - "/sources/news/2026-05-29/00__mranti__x平台地区限制解除后-色情机器人狂欢与内容污染的实证预警.md"
 ---
 
 # X平台地区限制解除后：色情机器人狂欢与内容污染的实证预警

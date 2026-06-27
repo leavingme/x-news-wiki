@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Peter Yang 征集 Hermes vs OpenClaw 用户实测：开源 Agent 生态的「体验分叉点」正在到来"
 description: "**主流产品观察者开始主动对比开源 Agent 框架，这本身就是生态成熟的信号。**  - Peter Yang（知名产品人）公开征询 Hermes 与 OpenClaw 的真实使用差异，强调「不要推销，只要诚实意见」 - 反映出开源 Agent 生态已从早期尝鲜者扩散到主流开发者决策层——他们不再问「要不要用 Agent」，而是问「用哪个」 - 对 OpenClaw 生态的关键问题：当用户开始横"
 resource: "https://x.com/petergyang/status/2051129249348894754"
@@ -22,13 +22,6 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "hermes-agent-stability-comparison"
 x_source: "ai-trend-digest"
-type_okf: "X Tweet"
-source_url: "https://x.com/petergyang/status/2051129249348894754"
-created: "2026-05-04"
-updated: "2026-06-26"
-sha256: "a0db707df249a05025994d1ca1123a479fff30f5c0c93e0404b51605e23ad3c2"
-sources:
-  - "/sources/news/2026-05-04/00__petergyang__peter-yang-征集-hermes-vs-openclaw-用户实测-开源-agent-生态的-体验分叉点-正在到.md"
 ---
 
 # Peter Yang 征集 Hermes vs OpenClaw 用户实测：开源 Agent 生态的「体验分叉点」正在到来

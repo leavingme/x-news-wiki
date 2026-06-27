@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "国产团队把LLM的'瞎猜'装进状态机：GoS框架给Agent推理装上可审计回溯链"
 description: "南开+清华联合发布Graph of States (GoS) 框架，把LLM的abductive reasoning（猜测vs推理）从黑盒猜测压成结构化状态机+因果图。  关键设计：state machine强制AI走有效步骤，causal map在证据冲突时自动回溯，从源头压住幻觉式推理。  实测效果：在两个真实数据集上全面超越现有方案，证据伪造等错误率显著下降。  对Agent意义：可解释推理"
 resource: "https://x.com/i/status/2067824443565694989"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2067824443565694989"
-created: "2026-06-19"
-updated: "2026-06-26"
-sha256: "ae0646d2a0e1ec2bb322757581240f841f56e0ea211af1c345ce34cbd0650d58"
-sources:
-  - "/sources/highlights/2026-06-19/00__jiqizhixin__国产团队把llm的-瞎猜-装进状态机-gos框架给agent推理装上可审计回溯链.md"
 ---
 
 # 国产团队把LLM的'瞎猜'装进状态机：GoS框架给Agent推理装上可审计回溯链

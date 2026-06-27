@@ -1,23 +1,17 @@
 ---
-type: "entity"
+type: "Author"
 title: "LOYAL (@LoyalSiman)"
 description: "X/Twitter 作者 @LoyalSiman。共收录 1 条 AI 精选推文。"
 tags:
   - "x-news"
   - "author"
   - "author:LoyalSiman"
-timestamp: "2026-06-26T11:53:36.911Z"
+timestamp: "2026-06-27T08:40:40.118Z"
 x_handle: "LoyalSiman"
 x_author_name: "LOYAL"
 x_tweet_count: 1
 x_first_seen: "2026-01-31T09:52:31.874Z"
 x_last_seen: "2026-01-31T09:52:31.874Z"
-type_okf: "Author"
-created: "2026-01-31"
-updated: "2026-06-26"
-sha256: "5cbd42441bfa2dd440c938505cf435925ee662a24e6cc8b0ac62c4dfdf9b6730"
-sources:
-  - "/sources/news/2026-01-31/00__LoyalSiman__base-链-ai-生态大爆发-基础设施构建价值飞轮.md"
 ---
 
 # LOYAL (@LoyalSiman)

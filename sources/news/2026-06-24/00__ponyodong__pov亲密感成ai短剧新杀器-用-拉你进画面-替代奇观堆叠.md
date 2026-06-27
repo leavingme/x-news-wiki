@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "POV亲密感成AI短剧新杀器：用\"拉你进画面\"替代奇观堆叠"
 description: "**[核心判断]**: AI短剧正从\"奇观轰炸\"转向\"贴身视角\"，观众身份从旁观者变成被拽进剧情的共谋者。 - 波妞新作《WITHIN REACH》用 POV + 怼脸 + 逆光 + 废墟训练场的组合，把AI短片从\"看女战士打怪\"拽进\"她伸手把你拉到身后\" - 核心手法：性感让位于压迫感，\"她很近，也很危险\"成为新的情绪锚点 - 技术栈：GPTImage2 做角色设计，AI视频生成承接动作戏，#C"
 resource: "https://x.com/i/status/2063904366634102911"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2063904366634102911"
-created: "2026-06-08"
-updated: "2026-06-26"
-sha256: "cb5e2cfa6f9b725ac8bf1966fd9bafc43c8b787b467963edf9b6127fddeb42a2"
-sources:
-  - "/sources/news/2026-06-24/00__ponyodong__pov亲密感成ai短剧新杀器-用-拉你进画面-替代奇观堆叠.md"
 ---
 
 # POV亲密感成AI短剧新杀器：用"拉你进画面"替代奇观堆叠

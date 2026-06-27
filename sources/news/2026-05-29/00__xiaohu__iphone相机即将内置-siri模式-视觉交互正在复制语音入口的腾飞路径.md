@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "iPhone相机即将内置「Siri模式」：视觉交互正在复制语音入口的腾飞路径"
 description: "**【Siri模式的本质是「摄像头即接口」】**  小互透露的相机App新设计，将AI交互入口从语音延伸至视觉——举起手机拍摄物体，AI自动解析营养成分、识别产品、回答「这是什么」。  这条信息的增量在于：苹果选择把相机作为AI感知层的第一触点，而不是相册或搜索栏。这意味着未来「拍摄即查询」将成为比「打字即搜索」更自然的交互路径。  对谁有影响？Camera+、Google Lens现有的以图搜图"
 resource: "https://x.com/i/status/2060293857498300860"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2060293857498300860"
-created: "2026-05-29"
-updated: "2026-06-26"
-sha256: "edc714bf328a5ee07e30a80cf8e9d64ace3003430f7c00327292540308a57bf1"
-sources:
-  - "/sources/news/2026-05-29/00__xiaohu__iphone相机即将内置-siri模式-视觉交互正在复制语音入口的腾飞路径.md"
 ---
 
 # iPhone相机即将内置「Siri模式」：视觉交互正在复制语音入口的腾飞路径

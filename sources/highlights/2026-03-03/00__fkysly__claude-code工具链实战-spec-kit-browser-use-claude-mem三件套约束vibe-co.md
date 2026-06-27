@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Claude Code工具链实战：spec-kit+browser-use+claude-mem三件套约束Vibe Coding"
 description: "**资深开发者整理出约束Claude Code天马行空的三层工具体系，为Vibe Coding加装护栏。**  - spec-kit作为SDD框架约束需求设计，防止Claude Code过度猜测 - 参考browser-use测试体系，避免写出「假测试」 - claude-mem替代官方记忆工具，解决Agent反复犯错和上下文丢失问题  gakki按：这套三件套本质上是在回答「如何让Vibe Co"
 resource: "https://x.com/i/status/2028488025999872347"
@@ -22,13 +22,6 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "claude-code-ecosystem"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2028488025999872347"
-created: "2026-03-02"
-updated: "2026-06-26"
-sha256: "6a26d563193daca26f95483b53b1f78fe7c08b3d72be07de46b99687ee1bcda4"
-sources:
-  - "/sources/highlights/2026-03-03/00__fkysly__claude-code工具链实战-spec-kit-browser-use-claude-mem三件套约束vibe-co.md"
 ---
 
 # Claude Code工具链实战：spec-kit+browser-use+claude-mem三件套约束Vibe Coding

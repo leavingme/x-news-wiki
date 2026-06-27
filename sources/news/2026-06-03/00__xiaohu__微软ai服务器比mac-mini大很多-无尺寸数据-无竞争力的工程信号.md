@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "微软AI服务器比Mac mini大很多：无尺寸数据+无竞争力的工程信号"
 description: "**[一句话核心判断]**  微软 AI 服务器预发布即露怯：体积比 Mac mini 大、具体数据不敢公布、接口列表毫无亮点。  **信息增量：** - 产品仍处预发布阶段但已接受媒体实拍，说明发布时间压力大于产品成熟度 - 列举接口：两个 USB-C、一个 USB-A、HDMI、网线口、耳机孔——这是十年前的 PC 标配，不是 AI 基础设施 - 「没什么竞争力」是编辑判断，但结合无尺寸数据，"
 resource: "https://x.com/i/status/2061974225033027920"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2061974225033027920"
-created: "2026-06-03"
-updated: "2026-06-26"
-sha256: "2f4bbb03e198763d426d81b87c059596984aacf7305e9f9533b006156541e596"
-sources:
-  - "/sources/news/2026-06-03/00__xiaohu__微软ai服务器比mac-mini大很多-无尺寸数据-无竞争力的工程信号.md"
 ---
 
 # 微软AI服务器比Mac mini大很多：无尺寸数据+无竞争力的工程信号

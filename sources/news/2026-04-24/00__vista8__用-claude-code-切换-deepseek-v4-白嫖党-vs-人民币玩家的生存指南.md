@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "用 Claude Code 切换 DeepSeek V4：白嫖党 vs 人民币玩家的生存指南"
 description: "**[工具链互操作进入「无门槛切换」阶段]**  向阳乔木放出实操教程：用 CC Switch 让 Claude Code 无缝接入 DeepSeek V4 API，实现「不差钱用 Pro、差钱用 Flash」的模型映射。  - CC Switch 作为模型路由层，打通了 Claude Code 与国产模型的互操作 - 教程门槛低到「普通用户」也能上手，说明工具链平民化进入新阶段 - 实测写了个 "
 resource: "https://x.com/i/status/2047588674779627614"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2047588674779627614"
-created: "2026-04-24"
-updated: "2026-06-26"
-sha256: "b1e4589c421820cb77f0a511cdb871c9d089fade23d5678459cbf4be4482ba7e"
-sources:
-  - "/sources/news/2026-04-24/00__vista8__用-claude-code-切换-deepseek-v4-白嫖党-vs-人民币玩家的生存指南.md"
 ---
 
 # 用 Claude Code 切换 DeepSeek V4：白嫖党 vs 人民币玩家的生存指南

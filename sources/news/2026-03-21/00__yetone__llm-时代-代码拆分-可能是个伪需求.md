@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "LLM 时代「代码拆分」可能是个伪需求"
 description: "**[AI 编程范式下，文件粒度需要重新被定义]** • 多文件结构增加 LLM tool calling 次数，每次调用都是心智负担 • 单文件内上下文紧凑，一次 Read 即可覆盖完整逻辑，修改更安全 • 若代码仅被单一入口使用，拆分的必要性在 AI 工作流下存疑  — 传统软件工程的「模块化最佳实践」在 LLM 语境下需要重新校准。 yetone 的观察点出了一个反直觉的趋势：AI 编程时代"
 resource: "https://x.com/i/status/2035248424438649266"
@@ -22,13 +22,6 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "agent-engineering-vs-product"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2035248424438649266"
-created: "2026-03-21"
-updated: "2026-06-26"
-sha256: "3322e804e12c82f8adbbd15719635ddcc5b9c44ba09f77aa4df9bf88b3413298"
-sources:
-  - "/sources/news/2026-03-21/00__yetone__llm-时代-代码拆分-可能是个伪需求.md"
 ---
 
 # LLM 时代「代码拆分」可能是个伪需求

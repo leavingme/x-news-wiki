@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "微信本地数据库可绕过检测：隐私边界的工程实操边界首次被量化"
 description: "**[通讯隐私的工程边界：本地解密路径首次被实测确认]**  - 宝玉实测数月验证：微信本地数据库解密后不走微信通道则无法被检测，这是一个可操作的隐私漏洞而非理论 - 关键约束条件明确：「只要不走微信」，意味着 hook 到系统层或沙箱外的方案可以规避微信行为监控 - 对 Agent 安全基础设施的设计者而言，这暴露了平台层检测的盲区：应用内监控有边界，系统层才是真正的信任界面  工具的隐私边界由"
 resource: "https://x.com/i/status/2055300663920214466"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2055300663920214466"
-created: "2026-05-15"
-updated: "2026-06-26"
-sha256: "1ee1b11f88e73990c5a3ab58d7312465b90483aba3d5576240b15d4ae92b1159"
-sources:
-  - "/sources/news/2026-05-15/00__dotey__微信本地数据库可绕过检测-隐私边界的工程实操边界首次被量化.md"
 ---
 
 # 微信本地数据库可绕过检测：隐私边界的工程实操边界首次被量化

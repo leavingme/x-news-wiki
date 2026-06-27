@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "有道开源双层账：翻译才是真现金牛，开发者生态才是终极目标"
 description: "**有道这盘棋，翻译才是底牌。**  开源的大模型和语音是面子，打名声、拉开发者入局；词典笔、各种翻译产品才是里子，是几十年真现金牛。这次多专家 OPD + 强化学习把两个老毛病（脱靶、语种混出）基本治住，速度还快了 80%。  关键在于：有道在做生态锁定的降维打击——不是卖 API 赚过路费，而是用开源模型把开发者圈进来，等生态长成，底层技术自然喂养上层应用。这比单纯卖 API 的天花板高得多。"
 resource: "https://x.com/i/status/2057716230879130008"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2057716230879130008"
-created: "2026-05-22"
-updated: "2026-06-26"
-sha256: "a8658cd60c6fb33020eed2a35ec607ce04bedafabafcee3111bd16f3987be6f0"
-sources:
-  - "/sources/highlights/2026-05-22/00__lxfater__有道开源双层账-翻译才是真现金牛-开发者生态才是终极目标.md"
 ---
 
 # 有道开源双层账：翻译才是真现金牛，开发者生态才是终极目标

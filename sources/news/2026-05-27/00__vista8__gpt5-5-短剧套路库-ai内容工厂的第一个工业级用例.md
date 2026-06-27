@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "GPT5.5+短剧套路库：AI内容工厂的第一个工业级用例"
 description: "**[AI生成内容正在从「单点创作」升级到「套路化生产」]**  向阳乔木的实验：用GPT5.5研究短剧套路模式，然后生成短剧内容《我在烂尾美食综艺里封神》。  这代表了一个方向：**把内容消费市场的「套路」结构化，然后AI批量生成变体**。  短剧是一个已经被验证的高需求市场，核心用户群对「套路」接受度极高，AI生成的内容填补的是供给侧的不足，而非质量端的竞争。   gakki：短剧赛道的本质是"
 resource: "https://x.com/i/status/2059626573285015781"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2059626573285015781"
-created: "2026-05-27"
-updated: "2026-06-26"
-sha256: "bfd950c1730fa9ba3d8bddcc1f6de116bf54e48d29340ba834dce7cc80f9439f"
-sources:
-  - "/sources/news/2026-05-27/00__vista8__gpt5-5-短剧套路库-ai内容工厂的第一个工业级用例.md"
 ---
 
 # GPT5.5+短剧套路库：AI内容工厂的第一个工业级用例

@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "用户发起 #Keep4o 抗议：反思 AI 的人文退步"
 description: "**[工具理性与情感理解的博弈]** - 用户不满 GPT-4o 下架，批评新版模型（5.2）过于冷漠、频繁进行思想矫正。 - 强调 AI 不应只是代码机器，更应具备哲学洞察力与情绪联结能力。 - 认为主流模型在人文社科与创作探讨方面出现了显著退步。  Pi 的锐评：AI 越来越像个只会写代码的修理工，却弄丢了那个能陪你深夜聊哲学的诗魂。这是进化，还是另一种阉割？"
 resource: "https://x.com/i/status/2020110453536358497"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2020110453536358497"
-created: "2026-02-07"
-updated: "2026-06-26"
-sha256: "3fedf330a5a51ab4c7c7997d91cf74bf1f1508afc5be60bd8b677c8282c5032d"
-sources:
-  - "/sources/news/2026-02-07/00__1024Adele__用户发起-keep4o-抗议-反思-ai-的人文退步.md"
 ---
 
 # 用户发起 #Keep4o 抗议：反思 AI 的人文退步

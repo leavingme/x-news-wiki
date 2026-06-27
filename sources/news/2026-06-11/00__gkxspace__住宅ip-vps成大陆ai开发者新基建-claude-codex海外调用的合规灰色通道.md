@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "住宅IP VPS成大陆AI开发者新基建：Claude/Codex海外调用的合规灰色通道"
 description: "**[一句话核心判断]** 住宅IP VPS正成为大陆开发者调用Claude、Codex、OpenClaw的\"事实标准基建\"，标志着AI算力灰色市场从零散翻墙走向产品化分层。  余温实测推广的住宅IP方案，本质是用真实住宅IP出口绕开风控，覆盖三类场景：Claude Code/Codex远程开发环境、Bot与OpenClaw自动化、YouTube等海外服务。相比传统机房IP + 链式代理的方案，住"
 resource: "https://x.com/i/status/2065063541447528806"
@@ -22,13 +22,6 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "ai-grey-market"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2065063541447528806"
-created: "2026-06-11"
-updated: "2026-06-26"
-sha256: "4a29e020b911b943be1f2cb808e78e1b84d8c79aca9d46474f8dc11211a3c388"
-sources:
-  - "/sources/news/2026-06-11/00__gkxspace__住宅ip-vps成大陆ai开发者新基建-claude-codex海外调用的合规灰色通道.md"
 ---
 
 # 住宅IP VPS成大陆AI开发者新基建：Claude/Codex海外调用的合规灰色通道

@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "NotebookLM 新版胜率反超旧版 15pp：长文档与联网检索是真提升还是评测幻觉？"
 description: "**新版 NotebookLM 在同题对比中平均胜率超过 65%，领先持平线 15 个百分点，长文档分析与网络检索两项提升最明显。**  要点： - 65% 胜率是 Google 内部评测口径还是小互自测？样本量与题库未披露，参考价值打折 - 长文档 + 联网检索是 NotebookLM 一直的护城河，新版若真拉开差距，意味着 Google 把「RAG + 多模态输入」的基线又推高了一档 - 直接"
 resource: "https://x.com/i/status/2064236032334479449"
@@ -22,13 +22,6 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "ai-knowledge-tool-competition"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2064236032334479449"
-created: "2026-06-09"
-updated: "2026-06-26"
-sha256: "9f514510e50c7477b2018f3d8a745308c6b9d57afdb658cf4aa921fe939c333f"
-sources:
-  - "/sources/news/2026-06-09/00__xiaohu__notebooklm-新版胜率反超旧版-15pp-长文档与联网检索是真提升还是评测幻觉.md"
 ---
 
 # NotebookLM 新版胜率反超旧版 15pp：长文档与联网检索是真提升还是评测幻觉？

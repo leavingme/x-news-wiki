@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "AI 创业的\"赚钱命题\"被过度简化：现金流优先≠商业验证成立"
 description: "**一句话核心判断**：Orange AI 将\"自己赚钱养活自己\"定义为 AI 创业唯一出路——这句话在情绪上正确，但逻辑上混淆了生存策略与商业壁垒。  **信息增量**： - 融资上市后的公司\"更要想办法养活自己\"是基本常识，用这句话作为创业建议实质是幸存者偏差的包装 - AI 创业的真正难题从来不是能否养活自己，而是能否在模型能力快速迭代的背景下建立与资金实力匹配的护城河  **gakki 锐"
 resource: "https://x.com/i/status/2048723017631769019"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2048723017631769019"
-created: "2026-04-27"
-updated: "2026-06-26"
-sha256: "2f243e3be38280d4ac7ea5799f0ee02b64b05bc95496f10897e00d83c38c9e9c"
-sources:
-  - "/sources/news/2026-04-27/00__oran_ge__ai-创业的-赚钱命题-被过度简化-现金流优先-商业验证成立.md"
 ---
 
 # AI 创业的"赚钱命题"被过度简化：现金流优先≠商业验证成立

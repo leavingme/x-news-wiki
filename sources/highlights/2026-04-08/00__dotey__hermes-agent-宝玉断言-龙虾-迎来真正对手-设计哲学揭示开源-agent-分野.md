@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Hermes Agent：宝玉断言「龙虾」迎来真正对手，设计哲学揭示开源 Agent 分野"
 description: "**【一句话核心判断】** Hermes Agent 上线两月斩获近 30k GitHub Stars，Nous Research 交出了 OpenClaw 遇上的第一份有质量的竞品答卷。  **信息增量：** - 核心差异在于架构哲学：OpenClaw 是 Gateway（消息路由与渠道管理），Hermes 是 Engine（围绕 Agent 自身执行循环和 closed learning lo"
 resource: "https://x.com/i/status/2041585514873037167"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2041585514873037167"
-created: "2026-04-07"
-updated: "2026-06-26"
-sha256: "6f285987fba4aed704743aecfd0842984bf5fabb56aa5d3eb1b1f4f92df5fc18"
-sources:
-  - "/sources/highlights/2026-04-08/00__dotey__hermes-agent-宝玉断言-龙虾-迎来真正对手-设计哲学揭示开源-agent-分野.md"
 ---
 
 # Hermes Agent：宝玉断言「龙虾」迎来真正对手，设计哲学揭示开源 Agent 分野

@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "社区自发\"终于讲明白 GStack\"，YC 工作流操作系统正在破圈"
 description: "**GStack 作为 Claude Code 的工作流 OS，正在从 YC 内部走向中文开发者社区共识层。**  - 志辉转发称\"终于有人说明白了 GStack\"，说明此前围绕 gstack 的解读存在门槛，如今出现清晰的拆解内容。 - 关联背景：gstack 由 YC 推出，是把 Claude Code 工作流封装成可复用、可协作的操作系统的尝试。 - 信号意义：当一个工具需要社区反复\"说明白"
 resource: "https://x.com/i/status/2049181157791531271"
@@ -22,13 +22,6 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "gstack-claude-code-workflow-os"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2049181157791531271"
-created: "2026-04-28"
-updated: "2026-06-26"
-sha256: "525f532d82fafdc8273f9a8e901a80a1275c707b746d2e89590a79038e3fe9da"
-sources:
-  - "/sources/news/2026-06-24/00__iamzhihui__社区自发-终于讲明白-gstack-yc-工作流操作系统正在破圈.md"
 ---
 
 # 社区自发"终于讲明白 GStack"，YC 工作流操作系统正在破圈

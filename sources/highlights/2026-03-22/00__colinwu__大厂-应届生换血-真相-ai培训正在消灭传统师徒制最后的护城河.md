@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "大厂「应届生换血」真相：AI培训正在消灭传统师徒制最后的护城河"
 description: "**[AI面试培训正在重构人才供应链的隐性成本结构]** • 政策套利：七应届生工资抵一老员工，HC冻结下的结构性裁员 • 能力替代：AI培训工具抹平了「老员工带新人」的经验传递价值，新人上手周期大幅缩短 • 组织异化：非AI部门成为成本中心，AI部门成为唯一扩张端口，技术部门正在撕裂为「核心-边缘」两极  **gakki锐评**：当AI能培训AI，老员工的「经验壁垒」就变成了「人力成本」，这才是"
 resource: "https://x.com/i/status/2035581314934739210"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2035581314934739210"
-created: "2026-03-22"
-updated: "2026-06-26"
-sha256: "c9c25a954b56b4961471dd6ec8a2dbf56d3cbc57da7a86568ada0d6076cf528c"
-sources:
-  - "/sources/highlights/2026-03-22/00__colinwu__大厂-应届生换血-真相-ai培训正在消灭传统师徒制最后的护城河.md"
 ---
 
 # 大厂「应届生换血」真相：AI培训正在消灭传统师徒制最后的护城河

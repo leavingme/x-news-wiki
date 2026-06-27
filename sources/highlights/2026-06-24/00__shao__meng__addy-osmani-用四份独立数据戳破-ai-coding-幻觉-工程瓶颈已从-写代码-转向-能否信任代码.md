@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Addy Osmani 用四份独立数据戳破 AI Coding 幻觉：工程瓶颈已从「写代码」转向「能否信任代码」"
 description: "**AI Coding 的工程瓶颈不是「能不能写」，而是「敢不敢 merge」。**  - Faros AI、CodeRabbit、GitClear、GitHub 四份独立来源指向同一结论：代码产出约 4 倍，实际交付价值仅 +10%，多出来的 90% 是「待验证的代码」 - 代码 churn +861%，缺陷率从 9% 飙到 54%，零 review 合并的 PR +31%、review 时长 "
 resource: "https://x.com/i/status/2066687681200037904"
@@ -22,13 +22,6 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "ai-engineering-discipline-bottleneck"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2066687681200037904"
-created: "2026-06-16"
-updated: "2026-06-26"
-sha256: "435118b0ad6b7dc9ddcaacf43a6a9e8957fd5e1a37a459065eb6d0ee06c68e93"
-sources:
-  - "/sources/highlights/2026-06-24/00__shao__meng__addy-osmani-用四份独立数据戳破-ai-coding-幻觉-工程瓶颈已从-写代码-转向-能否信任代码.md"
 ---
 
 # Addy Osmani 用四份独立数据戳破 AI Coding 幻觉：工程瓶颈已从「写代码」转向「能否信任代码」

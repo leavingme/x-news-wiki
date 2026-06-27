@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "把闲置游戏PC变算力节点：Bless用WASM撕开\"去中心化算力\"的入场壁垒"
 description: "**一句话：去中心化算力网络失败的原因不是技术，而是门槛；Bless选择用闲置设备+WASM绕过这道墙。**  传统去中心化算力失败于四大壁垒：技术门槛高（WASM Runtime解决）、验证机制死板（动态验证）、资源分配僵化（静态分配）、性能不足（边缘节点并行）。  Bless的解法：不做数据中心的替代者，而是把全球闲置设备（游戏PC、笔记本、手机）的空闲算力整合成共享计算网络。核心是WebAs"
 resource: "https://x.com/i/status/1953729511406830075"
@@ -22,13 +22,6 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "ai-compute-on-chain"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/1953729511406830075"
-created: "2025-08-08"
-updated: "2026-06-26"
-sha256: "fb2b2a351e5a710b986595c3cf22050207c2fb68128b0b72aff81a7afa113033"
-sources:
-  - "/sources/news/2026-04-18/00__egyptk6__把闲置游戏pc变算力节点-bless用wasm撕开-去中心化算力-的入场壁垒.md"
 ---
 
 # 把闲置游戏PC变算力节点：Bless用WASM撕开"去中心化算力"的入场壁垒

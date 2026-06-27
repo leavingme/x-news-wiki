@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "yetone 的效率焦虑：工具链狂飙后，工程师开始反思\"低效感\""
 description: "**[AI 工具密度提升反而带来主观效率下降——这是高阶用户的典型信号]**  - yetone 作为头部 AI 工程玩家，发出现\"效率好低\"的感叹，说明当前工具链组合已经达到认知负荷临界点 - 这不是工具不够用，而是工具之间的切换成本、配置成本、维护成本正在侵蚀工具带来的收益 - 值得关注的是：这批最早拥抱 AI 工具的人开始出现疲惫感，比任何 benchmark 数据都更能说明问题  gakk"
 resource: "https://x.com/i/status/2056098777149366301"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2056098777149366301"
-created: "2026-05-17"
-updated: "2026-06-26"
-sha256: "7015dd6fd94a0fc2c11748e382fabab9c6272307fc24b16d15a2d723c8f3db02"
-sources:
-  - "/sources/news/2026-05-17/00__yetone__yetone-的效率焦虑-工具链狂飙后-工程师开始反思-低效感.md"
 ---
 
 # yetone 的效率焦虑：工具链狂飙后，工程师开始反思"低效感"

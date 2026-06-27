@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "天策喊出「一个月插三万台机器」：AI 工具的渠道战从产品层下沉到地推层"
 description: "**当 AI 工具开始用「装机量」而非「功能」来衡量增长，说明赛道已进入渠道为王阶段。**  - 天策公开表态要把 API key 插进三万台电脑，这是典型的「先占坑再变现」的渠道逻辑 - 信号意义大于数字本身：AI 工具竞争正从「谁的模型强」转向「谁的分发渠道硬」 - 结合此前傅盛、孙宇晨入局 AI 中转的背景，基础设施入口战已从技术层下沉到渠道层  这是典型的「先铺量再筛选」策略。三万台装机如"
 resource: "https://x.com/i/status/2051980256198668754"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2051980256198668754"
-created: "2026-05-06"
-updated: "2026-06-26"
-sha256: "983c935f91961326cfa5a985b09cda1472797ccf77e33f7cb9a3d8a4de714cef"
-sources:
-  - "/sources/news/2026-05-06/00__Leobai825__天策喊出-一个月插三万台机器-ai-工具的渠道战从产品层下沉到地推层.md"
 ---
 
 # 天策喊出「一个月插三万台机器」：AI 工具的渠道战从产品层下沉到地推层

@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "从 Mac mini 到 Mac Studio：个人 Agent 服务器的算力升级拐点已至"
 description: "**最低配 Mac mini 已无法满足个人 Agent 服务器需求，Mac Studio 供货不足印证边缘算力需求爆发。**  - 归藏实测：最低配 Mac mini 跑 Agent 服务器几乎 7×24 不关机，但随着跑的东西越来越多已捉襟见肘 - 升级到 Mac Studio 后发现官方渠道供货不足，侧面印证个人 AI 基建需求激增 - 硬件投资从「玩票」变成「刚需」，个人用户开始为 Age"
 resource: "https://x.com/i/status/2052237136401989805"
@@ -22,13 +22,6 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "mac-mini-ai-server"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2052237136401989805"
-created: "2026-05-07"
-updated: "2026-06-26"
-sha256: "9d6c6bf79f94f9283694744d8c1e959a01f7ad3c9e00a2fc65a7c7cea0ec1d78"
-sources:
-  - "/sources/news/2026-05-07/00__op7418__从-mac-mini-到-mac-studio-个人-agent-服务器的算力升级拐点已至.md"
 ---
 
 # 从 Mac mini 到 Mac Studio：个人 Agent 服务器的算力升级拐点已至

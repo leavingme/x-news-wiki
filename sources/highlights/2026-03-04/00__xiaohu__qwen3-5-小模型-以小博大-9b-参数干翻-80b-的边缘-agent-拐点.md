@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Qwen3.5 小模型「以小博大」：9B 参数干翻 80B 的边缘 Agent 拐点"
 description: "**[端侧模型能力密度突破，「大模型上云」叙事遭遇边缘算力叛乱]**  • 阿里开源 Qwen3.5 系列（2B/4B/9B/30B），9B 参数在基准测试中击败 80B 级模型 • 全系列多模态（图文视频）、支持 262K 上下文（可扩展至 100 万 Token）、201 种语言 • 百万级 Agent RL 训练，端侧 Agent 任务能力质变——手机本地运行不再只是「玩具」  — **ga"
 resource: "https://x.com/i/status/2028659838738432088"
@@ -22,13 +22,6 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "moe-edge-compute-monopoly"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2028659838738432088"
-created: "2026-03-03"
-updated: "2026-06-26"
-sha256: "9dad1019ea3d29b7ca804d331765ef9b04d71c2a9579b4d716e75b1199b4be16"
-sources:
-  - "/sources/highlights/2026-03-04/00__xiaohu__qwen3-5-小模型-以小博大-9b-参数干翻-80b-的边缘-agent-拐点.md"
 ---
 
 # Qwen3.5 小模型「以小博大」：9B 参数干翻 80B 的边缘 Agent 拐点

@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "自动驾驶路线之争：纯视觉 vs 激光雷达背后的 AI 逻辑"
 description: "**[传感器不是瓶颈，从海量视频信息中提取智能才是关键]** - 特斯拉 AI 高管认为自动驾驶本质是 AI 问题而非传感器问题，摄像头信息已溢出。 - 真正的挑战在于如何让 AI 理解真实世界的复杂性。 - 这种将一切交给“智能”的思路正引发对安全与责任归属的深度反思。  Pi 的锐评：就像人类只有双眼就能开车，马斯克赌的是神经网络进化的速度。但当算法出错时，那一串代码没法替你坐牢。"
 resource: "https://x.com/i/status/2018997660745605354"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2018997660745605354"
-created: "2026-02-04"
-updated: "2026-06-26"
-sha256: "0fdda6a64e710fbecb777948eaa016d36b568695dd22f9b6c5a2226560456cb2"
-sources:
-  - "/sources/news/2026-02-04/00__mubeitech__自动驾驶路线之争-纯视觉-vs-激光雷达背后的-ai-逻辑.md"
 ---
 
 # 自动驾驶路线之争：纯视觉 vs 激光雷达背后的 AI 逻辑

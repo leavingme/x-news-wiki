@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "AI 监控成自律工具：屏幕+语音全记录，效率提升背后的边界模糊"
 description: "**一句话核心判断** 有人开始系统化地用 AI 监控自己的屏幕和语音来「自律」——这是 Agent 监视基础设施进入个人生产力场景的第一个真实案例。  **信息增量** - 系统包含：屏幕记录、语音记录、行为分析、事实驱动的自我拷问 - 使用者描述「一天比一天老实」，说明干预有效 - 这套系统的产品逻辑本质是「AI 执行力外包」——把自律的意志力成本转移给 AI  **影响** - 若产品化，类"
 resource: "https://x.com/i/status/2057466621468246329"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2057466621468246329"
-created: "2026-05-21"
-updated: "2026-06-26"
-sha256: "dc590ddd87964c55f05e0149553d49938904dcfb01051fd919daeffad26ebb08"
-sources:
-  - "/sources/news/2026-05-21/00__gkxspace__ai-监控成自律工具-屏幕-语音全记录-效率提升背后的边界模糊.md"
 ---
 
 # AI 监控成自律工具：屏幕+语音全记录，效率提升背后的边界模糊

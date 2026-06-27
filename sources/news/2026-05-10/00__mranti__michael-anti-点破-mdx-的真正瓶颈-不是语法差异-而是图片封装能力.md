@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Michael Anti 点破 MDX 的真正瓶颈：不是语法差异，而是图片封装能力"
 description: "**Markdown 作为 AI 原生格式的叙事正在被一个务实问题拉回现实。**  - Michael Anti 指出 MDX 和 HTML 区别不大，真正需要解决的是 md 文件无法天然封装图片 - 这触及了 Markdown 作为富内容载体的根本缺陷：二进制资源无法自包含 - 对正在推动 Markdown 作为 AI 时代通用格式的生态来说，这是一个未被充分讨论的工程债  格式战争的胜负不在语"
 resource: "https://x.com/i/status/2053494228601442643"
@@ -22,13 +22,6 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "markdown-ai-native-format"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2053494228601442643"
-created: "2026-05-10"
-updated: "2026-06-26"
-sha256: "7390e0ed655333a872206e5179e50d8fc4b786191174a89d3b5183c48274b3f0"
-sources:
-  - "/sources/news/2026-05-10/00__mranti__michael-anti-点破-mdx-的真正瓶颈-不是语法差异-而是图片封装能力.md"
 ---
 
 # Michael Anti 点破 MDX 的真正瓶颈：不是语法差异，而是图片封装能力

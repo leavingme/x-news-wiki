@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "玉伯押注 YouMind：CTO 做的 Skill 让他觉得\"不逊于专业金融 Agent\""
 description: "**AI 知识工具的竞争已从\"谁的笔记库更大\"转向\"谁的 Skill 更专业\"。** - 玉伯点名 YouMind CTO 操刀的 Skill，称其在专业度上不输付费金融 Agent 产品，且限时免费。 - 宝玉同步转发祝贺 YouMind 1.0 正式发布，确认产品里程碑。 - 信号：NotebookLM / Perplexity 的竞争维度正在从\"通用知识管理\"分化到\"垂直 Skill 市集\""
 resource: "https://x.com/i/status/2065435879985070147"
@@ -22,13 +22,6 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "ai-knowledge-tool-competition"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2065435879985070147"
-created: "2026-06-12"
-updated: "2026-06-26"
-sha256: "cb30d1499e42d864f3a2a5f0b84596a673310409c56e5d4c42c464857970373f"
-sources:
-  - "/sources/news/2026-06-12/00__lifesinger__玉伯押注-youmind-cto-做的-skill-让他觉得-不逊于专业金融-agent.md"
 ---
 
 # 玉伯押注 YouMind：CTO 做的 Skill 让他觉得"不逊于专业金融 Agent"

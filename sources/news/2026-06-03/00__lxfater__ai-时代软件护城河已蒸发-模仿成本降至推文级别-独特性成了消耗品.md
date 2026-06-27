@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "AI 时代软件护城河已蒸发：模仿成本降至推文级别，独特性成了消耗品"
 description: "**[一句话核心判断]** 在 AI 时代，代码的复制成本已经低于内容的传播成本——软件的\"独特性\"正在以比用户预期更快的速度被侵蚀，护城河从技术壁垒变成了时间壁垒。  - **核心观察**：自媒体\"对标理论\"同样适用于软件行业——\"先抄一个再说\"已成为行业默认策略。 - **本质问题**：当任何独特性都能被快速复制，\"先发\"本身不再是优势，\"迭代速度\"和\"用户粘性\"成了新的衡量维度。 - **隐"
 resource: "https://x.com/i/status/2062010760163905743"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2062010760163905743"
-created: "2026-06-03"
-updated: "2026-06-26"
-sha256: "805dfbc6ac9c121ae67e7348fbb143a88b309cbc12a39691bd6c7f743a698485"
-sources:
-  - "/sources/news/2026-06-03/00__lxfater__ai-时代软件护城河已蒸发-模仿成本降至推文级别-独特性成了消耗品.md"
 ---
 
 # AI 时代软件护城河已蒸发：模仿成本降至推文级别，独特性成了消耗品

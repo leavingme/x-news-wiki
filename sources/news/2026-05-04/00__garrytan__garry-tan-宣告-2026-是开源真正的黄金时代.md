@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Garry Tan 宣告：2026 是开源真正的黄金时代"
 description: "**YC 掌门人的判断背后，是开源模型在 Agent 生态中占据结构性优势的现实。**  - Y Combinator 总裁 Garry Tan 公开表态：2026 年及以后是开源的真正时代 - 信号密度高：当顶级孵化器创始人做出这种定性判断，往往意味着投资组合中的趋势已经验证 - 结合 DeepSeek、Qwen、Gemma 等开源模型在端侧 Agent 场景的快速渗透，这不是口号而是正在兑现的"
 resource: "https://x.com/garrytan/status/2051055870885458362"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "ai-trend-digest"
-type_okf: "X Tweet"
-source_url: "https://x.com/garrytan/status/2051055870885458362"
-created: "2026-05-03"
-updated: "2026-06-26"
-sha256: "e005993e970529a65db6b6b7012c4f5f2e3632202ab87e7e2402c3f08a30e1ab"
-sources:
-  - "/sources/news/2026-05-04/00__garrytan__garry-tan-宣告-2026-是开源真正的黄金时代.md"
 ---
 
 # Garry Tan 宣告：2026 是开源真正的黄金时代

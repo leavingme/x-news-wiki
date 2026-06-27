@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "MCP 赋能 Claude Code：Gemini 与 Codex 实现跨模型分工协作"
 description: "**[核心逻辑]** 通过 MCP 协议集成多模型优势，Gemini 写前端、Codex 修 Bug，大幅提升复杂编程效率。"
 resource: "https://x.com/i/status/2022321310765048295"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2022321310765048295"
-created: "2026-02-13"
-updated: "2026-06-26"
-sha256: "bd2fcbb8755136a38138e33927372a137b07e096b7583ed0ab9e5820c8038453"
-sources:
-  - "/sources/highlights/2026-02-14/00__vista8__mcp-赋能-claude-code-gemini-与-codex-实现跨模型分工协作.md"
 ---
 
 # MCP 赋能 Claude Code：Gemini 与 Codex 实现跨模型分工协作

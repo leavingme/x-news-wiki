@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "阿里 Accio Work 炸场：30分钟 vs 7天，AI Agent 正在吃掉\"一人跨国电商\"这个岗位"
 description: "**[一句话核心判断]**  阿里国际发布的 Accio Work 不是又一个 Copilot，而是一个能把你的一句话直接变成「选品→找供应商→定价→开店→详情页」完整执行链的 AI Agent。  • **颠覆的不只是效率，是职业门槛**：一个毫无技术背景的老外30分钟开出真实运营网店，让三年经验的老兵朋友感到压力。执行链条的最后一环——经验判断——正在被接管。 • **B端交付新套路浮现**："
 resource: "https://x.com/i/status/2038226939861774580"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2038226939861774580"
-created: "2026-03-29"
-updated: "2026-06-26"
-sha256: "8e29800551358ce98f033273046c1150a8890ffbec3d77ba5e7ede0c12c9bb29"
-sources:
-  - "/sources/highlights/2026-04-11/00__Zenzhe99__阿里-accio-work-炸场-30分钟-vs-7天-ai-agent-正在吃掉-一人跨国电商-这个岗位.md"
 ---
 
 # 阿里 Accio Work 炸场：30分钟 vs 7天，AI Agent 正在吃掉"一人跨国电商"这个岗位

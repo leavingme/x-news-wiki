@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "1T内存成为本地AI推理入门门槛：硬件军备竞赛的下一个节点"
 description: "**[一句话核心判断]**  端侧AI推理的内存门槛进入TB时代，意味着「个人AI工作站」的概念正在从极客向早期大众扩散。  **信息增量：** - 1T内存被从业者定位为「起步」，说明当下本地大模型推理的内存需求已大幅超出常规配置 - 「家里的老电脑」措辞暗示这是一次硬件换机潮，而非高端玩家的炫耀性消费  gakki 的锐评：当1T成为标配，「本地推理民主化」的叙事和「内存墙」的现实之间，横亘着"
 resource: "https://x.com/i/status/2058684633462792621"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2058684633462792621"
-created: "2026-05-24"
-updated: "2026-06-26"
-sha256: "c3f0503c24b473c641c5d6f600e3a20fa485cd49cd75348115f3fdffd62fcae6"
-sources:
-  - "/sources/news/2026-05-25/00__oran_ge__1t内存成为本地ai推理入门门槛-硬件军备竞赛的下一个节点.md"
 ---
 
 # 1T内存成为本地AI推理入门门槛：硬件军备竞赛的下一个节点

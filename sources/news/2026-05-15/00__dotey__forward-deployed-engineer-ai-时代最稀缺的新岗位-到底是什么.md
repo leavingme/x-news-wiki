@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Forward Deployed Engineer：AI 时代最稀缺的新岗位，到底是什么"
 description: "**[FDE 成为 AI 时代新宠，核心能力是「在客户现场用 AI 工具解决真实问题」而非纯开发]**  Forward Deployed Engineer 这个职位在 AI 时代被重新定义——不再是传统意义的现场部署工程师，而是能在客户真实工作流里快速集成 AI 能力、解决端到端问题的人。  这个岗位的稀缺性在于：既要有工程能力，又要有 AI 产品感知，还要能蹲现场。  gakki：FDE 崛起"
 resource: "https://x.com/i/status/2055307775417139447"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2055307775417139447"
-created: "2026-05-15"
-updated: "2026-06-26"
-sha256: "713315f05dff41fa7783a0f775d3271e9053e34cc751286367aaf299427a8293"
-sources:
-  - "/sources/news/2026-05-15/00__dotey__forward-deployed-engineer-ai-时代最稀缺的新岗位-到底是什么.md"
 ---
 
 # Forward Deployed Engineer：AI 时代最稀缺的新岗位，到底是什么

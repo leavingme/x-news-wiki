@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "NousResearch Hermes Agent 20.5k 星背后：真正打通「一人公司」变现闭环的 Agent 架构"
 description: "**[ Hermès + LLM-Wiki 自动文档化：开源 Agent 的自我造血能力正在越过技术门槛 ]**  • Hermes Agent 基于源代码自动生成 wiki 并用 Opus-4.6 勘误分发——开源项目第一次把「自我解释」变成了产品的一部分，而非维护负担。 • 四种变现路径已跑通：自动化服务定制、内容创作者长期记忆调度、VPS 部署电商客服、「帮你部署自我进化 AI 助理」的教育"
 resource: "https://x.com/i/status/2039187724973060174"
@@ -22,13 +22,6 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "multi-agent-framework-ecosystem-comparison"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2039187724973060174"
-created: "2026-04-01"
-updated: "2026-06-26"
-sha256: "09b1764b75386e09a0b74cc7f9d50302b8ddbe0addbb38bf13a1716845511258"
-sources:
-  - "/sources/highlights/2026-04-09/00__spark888__nousresearch-hermes-agent-20-5k-星背后-真正打通-一人公司-变现闭环的-agent-架构.md"
 ---
 
 # NousResearch Hermes Agent 20.5k 星背后：真正打通「一人公司」变现闭环的 Agent 架构

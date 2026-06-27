@@ -1,23 +1,17 @@
 ---
-type: "entity"
+type: "Author"
 title: "曲奇 (@0xquqi)"
 description: "X/Twitter 作者 @0xquqi。共收录 1 条 AI 精选推文。"
 tags:
   - "x-news"
   - "author"
   - "author:0xquqi"
-timestamp: "2026-06-26T11:53:36.967Z"
+timestamp: "2026-06-27T08:40:40.176Z"
 x_handle: "0xquqi"
 x_author_name: "曲奇"
 x_tweet_count: 1
 x_first_seen: "2026-03-28T18:35:19.071Z"
 x_last_seen: "2026-03-28T18:35:19.071Z"
-type_okf: "Author"
-created: "2026-03-28"
-updated: "2026-06-26"
-sha256: "1fed1db336196060aeda9bf57757773cee09a02c156668b38a1375c7a66e5eea"
-sources:
-  - "/sources/news/2026-03-28/00__0xquqi__agent工程祛魅-90-失败率背后的-过度设计陷阱.md"
 ---
 
 # 曲奇 (@0xquqi)

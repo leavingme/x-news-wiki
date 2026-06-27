@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Aye 浏览器：把 AI Agent 做成「带 Skill 录制的类人浏览器」，账号风控不再是死结"
 description: "**[一句话核心判断]** Aye 重新定义了 Agent 浏览器——不是 ChatGPT 套壳、也不是 Playwright CLI 扩展，而是基于 Chromium 模拟真人操作、且能「看着用户操作」自动生成 Skill 的产品形态。  - 一句话即可让浏览器拉黑 X 垃圾评论、自动回小红书、转写英文发知乎草稿箱，连图片都自动读缓存插入 - Skill 系统可手动录制生成、定时执行，内置 yt"
 resource: "https://x.com/i/status/2064229621646897614"
@@ -22,13 +22,6 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "ai-browser-platform-war"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2064229621646897614"
-created: "2026-06-09"
-updated: "2026-06-26"
-sha256: "b3d5926bc835ba35724e16d64527989b424845d0ad6c76ee9e70c684cd98b468"
-sources:
-  - "/sources/highlights/2026-06-09/00__vista8__aye-浏览器-把-ai-agent-做成-带-skill-录制的类人浏览器-账号风控不再是死结.md"
 ---
 
 # Aye 浏览器：把 AI Agent 做成「带 Skill 录制的类人浏览器」，账号风控不再是死结

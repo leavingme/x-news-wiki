@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Build in Public 的过拟合陷阱：习惯性输出反而可能削弱探索深度"
 description: "向阳乔木提出一个反直觉的观点：在固定时间点（如上午）强制输出探索结果，本质上是一种过拟合——用「已输出」替代「真理解」，长期会损害真正的探索质量。  关键信息： - 输出节奏被习惯绑架，而非认知驱动 - 过早固化表达路径会形成思维舒适区 - 真正有价值的发现在于问题驱动，而非时间驱动  gakki锐评：Build in Public 作为方法论本身没错，但把它当成每天必须完成的 KPI，就是把工具"
 resource: "https://x.com/i/status/2059274347563606293"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2059274347563606293"
-created: "2026-05-26"
-updated: "2026-06-26"
-sha256: "10a2873c85d5a55254bbe9b4036fdbe2cc9ba0a7bc504d3b365b1a8824a1ea91"
-sources:
-  - "/sources/news/2026-05-26/00__vista8__build-in-public-的过拟合陷阱-习惯性输出反而可能削弱探索深度.md"
 ---
 
 # Build in Public 的过拟合陷阱：习惯性输出反而可能削弱探索深度

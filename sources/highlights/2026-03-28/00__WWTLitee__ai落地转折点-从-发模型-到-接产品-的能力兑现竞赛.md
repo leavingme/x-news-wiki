@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "AI落地转折点：从「发模型」到「接产品」的能力兑现竞赛"
 description: "**[产品化能力成为新护城河]** • 重点信号：ProRL智能体基础设施发布、Claude Code用户实测扩散、Grok体验分享常态化 • 本质变化：模型能力不再稀缺，「谁能最快把模型塞进产品场景」成为竞争焦点 • 风险提醒：纯模型叙事正在失效，缺乏产品闭环的AI公司面临估值重估  **gakki锐评**：技术炫耀期结束，「工程化交付」取代「论文指标」成为硬通货。下一个淘汰周期里，会说不如会做"
 resource: "https://x.com/i/status/2037934994497151385"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2037934994497151385"
-created: "2026-03-28"
-updated: "2026-06-26"
-sha256: "ca6eebc93a75f802b60c14c0ea89d18299bf9b221292ecc8135cb3952ff77de5"
-sources:
-  - "/sources/highlights/2026-03-28/00__WWTLitee__ai落地转折点-从-发模型-到-接产品-的能力兑现竞赛.md"
 ---
 
 # AI落地转折点：从「发模型」到「接产品」的能力兑现竞赛

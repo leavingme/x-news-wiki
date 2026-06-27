@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "AI 游戏进入创作者经济时代：prompt 生成游戏、积累受众、按游玩量变现的闭环已通"
 description: "**[AI 游戏从「玩具」升级为「创作者经济平台」——变现闭环的打通才是真正的拐点。]**  • AI 游戏工具链已经实现「prompt → 游戏生成 → 受众积累 → 按游玩量赚钱」的完整闭环 • 这意味着非技术创作者可以用自然语言构建游戏产品，且有明确的收入路径 • 对比传统游戏开发动辄数月的周期，AI 游戏的创作-分发-变现周期压缩到小时级  **gakki 锐评：** 游戏行业最稀缺的从来"
 resource: "https://x.com/minchoi/status/2051866743723741283"
@@ -22,13 +22,6 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "ai-agent-gamification"
 x_source: "ai-trend-digest"
-type_okf: "X Tweet"
-source_url: "https://x.com/minchoi/status/2051866743723741283"
-created: "2026-05-06"
-updated: "2026-06-26"
-sha256: "63f1336f613c64ae8dc3320adf58ef26d360e8dd0481aa2158bc528d2741d900"
-sources:
-  - "/sources/news/2026-05-06/00__minchoi__ai-游戏进入创作者经济时代-prompt-生成游戏-积累受众-按游玩量变现的闭环已通.md"
 ---
 
 # AI 游戏进入创作者经济时代：prompt 生成游戏、积累受众、按游玩量变现的闭环已通

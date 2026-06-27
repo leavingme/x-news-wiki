@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "天策发现 WLFI 加密中转层越来越复杂：AI Agent 加密金融基础设施的多层套娃正在展开"
 description: "**AI Agent 的加密金融通道正在分化出多层中转架构。**  - 天策观察到 WLFI（World Liberty Financial）中转层出现新的参与者 - AI Agent 加密金融基础设施的复杂度在增加——不是简化而是分层 - 中转层的增加意味着利润分配链在拉长，也意味着风险暴露面在扩大  gakki 锐评：加密金融中转层的复杂化是 Agent 经济自主权演进的必然阶段。每多一层中转"
 resource: "https://x.com/i/status/2051678951504773540"
@@ -22,13 +22,6 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "ai-crypto-agent-infra"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2051678951504773540"
-created: "2026-05-05"
-updated: "2026-06-26"
-sha256: "49924b8f32fc47f3a469b414b13b7766f4b260510265563f92d9a0e8df5d5aae"
-sources:
-  - "/sources/news/2026-05-05/00__Leobai825__天策发现-wlfi-加密中转层越来越复杂-ai-agent-加密金融基础设施的多层套娃正在展开.md"
 ---
 
 # 天策发现 WLFI 加密中转层越来越复杂：AI Agent 加密金融基础设施的多层套娃正在展开

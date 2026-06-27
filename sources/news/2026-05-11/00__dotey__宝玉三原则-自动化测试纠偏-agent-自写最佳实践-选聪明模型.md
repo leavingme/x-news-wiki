@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "宝玉三原则：自动化测试纠偏 > Agent 自写最佳实践 > 选聪明模型"
 description: "**Agent 工程的优先级排序正在从「选好模型」转向「建好护栏」。** - 宝玉提出 Agent 纠错的三层防御：自动化测试验证结果 > Agent 自身写最佳实践和纠偏文档 > 选择聪明的模型 - 这个排序本身就是一个判断：模型能力是最后防线，而非第一道防线 - 反映出 Agent 工程从「模型驱动」到「工程纪律驱动」的范式迁移  **gakki 锐评：** 自动化测试兜底 Agent 输出，"
 resource: "https://x.com/i/status/2053609731017625646"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2053609731017625646"
-created: "2026-05-10"
-updated: "2026-06-26"
-sha256: "945a41043a461fed008c71bfe59fdeca616510b92b16324cf01960dca8b8557c"
-sources:
-  - "/sources/news/2026-05-11/00__dotey__宝玉三原则-自动化测试纠偏-agent-自写最佳实践-选聪明模型.md"
 ---
 
 # 宝玉三原则：自动化测试纠偏 > Agent 自写最佳实践 > 选聪明模型

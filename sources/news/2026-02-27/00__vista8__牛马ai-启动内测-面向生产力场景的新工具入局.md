@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "“牛马AI”启动内测：面向生产力场景的新工具入局"
 description: "**[新锐工具入场]** - 开发者 Yangyi 推出的“牛马AI”正式开放内测。 - 提供邀请码机制，主打生产力赋能。  [gakki 锐评]：名字起得越自嘲，干活可能越狠。期待看到它在自动化流中的真实表现。"
 resource: "https://x.com/i/status/2027034762020589740"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2027034762020589740"
-created: "2026-02-26"
-updated: "2026-06-26"
-sha256: "bd761be2ff5f699c1ddb44c82ffa37b63280fc5a5f611d40ed6e9bbabadf83a1"
-sources:
-  - "/sources/news/2026-02-27/00__vista8__牛马ai-启动内测-面向生产力场景的新工具入局.md"
 ---
 
 # “牛马AI”启动内测：面向生产力场景的新工具入局

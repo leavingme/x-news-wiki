@@ -1,23 +1,17 @@
 ---
-type: "entity"
+type: "Author"
 title: "Powerpei🦅 (@PWenzhen76938)"
 description: "X/Twitter 作者 @PWenzhen76938。共收录 1 条 AI 精选推文。"
 tags:
   - "x-news"
   - "author"
   - "author:PWenzhen76938"
-timestamp: "2026-06-26T11:53:36.968Z"
+timestamp: "2026-06-27T08:40:40.178Z"
 x_handle: "PWenzhen76938"
 x_author_name: "Powerpei🦅"
 x_tweet_count: 1
 x_first_seen: "2026-03-29T00:32:51.923Z"
 x_last_seen: "2026-03-29T00:32:51.923Z"
-type_okf: "Author"
-created: "2026-03-29"
-updated: "2026-06-26"
-sha256: "e58e4fc113e3c02786dd8990dc5c95110578ce60dab3536de0e9c32881de5e1b"
-sources:
-  - "/sources/highlights/2026-03-29/00__PWenzhen76938__ai数据主权危机催生链上验证新范式-perle-labs的-干净饲料-生意.md"
 ---
 
 # Powerpei🦅 (@PWenzhen76938)

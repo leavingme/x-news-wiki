@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "宝玉再发写作风格 Skill：Skills 资产化进入细分场景深水区"
 description: "**宝玉（Skills 方法论主要布道者）发布\"写作风格\" Skill 链接，继续推进 Skills 资产的可复用沉淀。**  - 继 baoyu-skills、长文插图 skill、小说 skill 之后，又一垂直场景 Skill 资产 - 信号：Skills 不再是工具集，而是按写作风格这种**人格化维度**做颗粒度切分 - 趋势：宝玉的 Skills 系列已经形成\"模板→技能→风格\"的演进路"
 resource: "https://x.com/i/status/2067376402400202858"
@@ -22,13 +22,6 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "skills-ecosystem-standards"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2067376402400202858"
-created: "2026-06-17"
-updated: "2026-06-26"
-sha256: "09e4067cbbab64ca9ac64e4abedf277a6fb70c049d285b6314f6d4a19ed5e371"
-sources:
-  - "/sources/news/2026-06-18/00__dotey__宝玉再发写作风格-skill-skills-资产化进入细分场景深水区.md"
 ---
 
 # 宝玉再发写作风格 Skill：Skills 资产化进入细分场景深水区

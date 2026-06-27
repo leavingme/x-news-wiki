@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Omni接驳Gemini世界知识库：从蛋白质折叠到字母对应物品，跨模态理解开始真正打通"
 description: "**一句话核心判断** Omni 模型接入 Gemini 世界知识库后，能够基于真实知识理解生成教学视频（如蛋白质折叠的黏土动画、26字母对应物品的节奏讲解），说明多模态生成正在从\"拼贴\"走向\"理解式创作\"。  **要点** - 输入可以是任意组合：文字、图像、视频片段，Omni 自主决定如何合成 - 生成结果不是随机拼贴，而是有知识逻辑支撑的内容 - 蛋白质折叠、字母对应等示例说明STEM类内容"
 resource: "https://x.com/i/status/2056880323607298286"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2056880323607298286"
-created: "2026-05-19"
-updated: "2026-06-26"
-sha256: "19f276a01091be4ff017ff9d9e6958e3199109eafc371befb67eca319bef5e70"
-sources:
-  - "/sources/news/2026-05-20/00__xiaohu__omni接驳gemini世界知识库-从蛋白质折叠到字母对应物品-跨模态理解开始真正打通.md"
 ---
 
 # Omni接驳Gemini世界知识库：从蛋白质折叠到字母对应物品，跨模态理解开始真正打通

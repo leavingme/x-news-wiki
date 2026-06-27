@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "华尔街日报确认：美军空袭行动调用Anthropic AI技术"
 description: "华尔街日报报道称，美国在对伊朗的军事行动中使用了Anthropic的AI技术，进一步证实AI军事化争议已从伦理讨论进入实战应用阶段。"
 resource: "https://x.com/i/status/2027918557343060352"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2027918557343060352"
-created: "2026-03-01"
-updated: "2026-06-26"
-sha256: "393fd43c43ac374ce0d8de41f77107c04a9f176a801e9b60cdfb543043ffde3f"
-sources:
-  - "/sources/highlights/2026-03-01/00__fxtrader__华尔街日报确认-美军空袭行动调用anthropic-ai技术.md"
 ---
 
 # 华尔街日报确认：美军空袭行动调用Anthropic AI技术

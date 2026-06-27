@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Claude Code + Codex 混编：双工具接力开始成为个人开发者默认配置"
 description: "**[信号观察] 铁锤人晒出 Claude Code 与 Codex 配合编程的视频流，单一 Agent 框架已无法覆盖全链路。**  - 实际场景印证了\"算法引擎 + 工具流\"的分工：Claude Code 负责工程纪律与多文件重构，Codex 负责快速原型与跨语言生成 - 附视频为个人工作流，非系统性方法论，但与近期 gstack / Codex CLI 封装等趋势同向 - 关键变化：开发者从"
 resource: "https://x.com/i/status/2063245509901660522"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2063245509901660522"
-created: "2026-06-06"
-updated: "2026-06-26"
-sha256: "8b0d3de2da46e511dfe2f3f733d982140f6c5eb8ed421491c69a9c5e52fcc582"
-sources:
-  - "/sources/news/2026-06-06/00__lxfater__claude-code-codex-混编-双工具接力开始成为个人开发者默认配置.md"
 ---
 
 # Claude Code + Codex 混编：双工具接力开始成为个人开发者默认配置

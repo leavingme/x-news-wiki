@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Raoul Pal的残酷断言：知识正在归零，专业壁垒一夜崩塌"
 description: "**二十年积累，二十秒复制。** • 律师、医生、分析师的传统护城河——「知识垄断」——正在被AI彻底瓦解 • 专业服务的定价逻辑发生根本偏移：从「知道什么」转向「判断什么」 • 精英阶层的焦虑不再是「被取代」，而是「价值锚点的丧失」  **gakki锐评：** 知识从未归零，只是从「稀缺资产」变成了「基础设施」。真正的壁垒正在向「提问能力」和「验证直觉」迁移。"
 resource: "https://x.com/i/status/2028590313233678463"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2028590313233678463"
-created: "2026-03-02"
-updated: "2026-06-26"
-sha256: "445f3c68df3c9bde025680a1b8d1e615992ba16ddbe6779d17447e1206d3d158"
-sources:
-  - "/sources/highlights/2026-03-16/00__Jacob43817149__raoul-pal的残酷断言-知识正在归零-专业壁垒一夜崩塌.md"
 ---
 
 # Raoul Pal的残酷断言：知识正在归零，专业壁垒一夜崩塌

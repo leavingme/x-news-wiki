@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Opus 4.6 降智实锤：Anthropic 最强模型正在变味，Claude 家族信任危机蔓延"
 description: "**[Anthropic 最强模型口碑失守，AI Shrinkflation 已非猜测]**  核心判断：用户实际体验与官方营销出现显著落差，Claude Opus 4.6 被广泛反馈「降智变味儿」，而 Claude Mythos（新发布模型）又无法使用，GPT6 也爽约——三线同时承压。  关键信息： - 这是 AI Shrinkflation 争议从 GPT-4o 蔓延至 Claude 家族的"
 resource: "https://x.com/i/status/2043123163954110928"
@@ -22,13 +22,6 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "ai-shrinkflation-opus-degradation"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2043123163954110928"
-created: "2026-04-12"
-updated: "2026-06-26"
-sha256: "ee32b87d1d31e22a46e4caaffbec487693a81fa571de53075abb576ed1bf45f9"
-sources:
-  - "/sources/highlights/2026-04-12/00__oran_ge__opus-4-6-降智实锤-anthropic-最强模型正在变味-claude-家族信任危机蔓延.md"
 ---
 
 # Opus 4.6 降智实锤：Anthropic 最强模型正在变味，Claude 家族信任危机蔓延

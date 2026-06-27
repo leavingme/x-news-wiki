@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "奇点逼近的体感信号：当「一下午做完整游戏」变成日常，加速叙事有了实证"
 description: "**Orange AI 敏锐捕捉到一个认知拐点：加速不再是预测，而是体感。**  - 配合歸藏的 Codex 游戏开发案例，「一下午做完整产品」正在从惊艳变成常态 - 这种「感觉世界越来越快」的体感，正是技术奇点理论最核心的验证信号 - 但体感加速 ≠ 实际加速——需要区分「工具效率提升」和「真正的能力跃迁」  Gakki 锐评：「奇点」这个词被用烂了，但它描述的现象是真实的——当每个季度都有「这"
 resource: "https://x.com/i/status/2050044446558052653"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2050044446558052653"
-created: "2026-05-01"
-updated: "2026-06-26"
-sha256: "a3db5c0b7520093b83080b9beff9ca4aea27c034f1b51d2f7a31acb95be4584a"
-sources:
-  - "/sources/news/2026-05-01/00__oran_ge__奇点逼近的体感信号-当-一下午做完整游戏-变成日常-加速叙事有了实证.md"
 ---
 
 # 奇点逼近的体感信号：当「一下午做完整游戏」变成日常，加速叙事有了实证

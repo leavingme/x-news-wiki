@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "小龙虾「救火」困境：工程实现 vs 大众产品的永恒张力"
 description: "**[同一模型，两种智商：工程能力决定用户体验天花板]** - 同为 Claude Sonnet 4.6，小龙虾「改废」后需 Claude Code「救火」，暴露工程实现的巨大落差 - 但 OpenClaw 仍保持「最适合大众」的定位，说明易用性与硬核能力存在结构性 trade-off  Gakki：这不是工具优劣的问题，而是「开箱即用」与「极限可控」两种哲学的市场分层——就像 iPhone vs"
 resource: "https://x.com/i/status/2030538779862458774"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 82
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2030538779862458774"
-created: "2026-03-08"
-updated: "2026-06-26"
-sha256: "b630bd00d9e12ce7174b4fb892b3aa6a5260fa4661211427695628aa10f9230a"
-sources:
-  - "/sources/news/2026-03-09/82__Khazix0918__小龙虾-救火-困境-工程实现-vs-大众产品的永恒张力.md"
 ---
 
 # 小龙虾「救火」困境：工程实现 vs 大众产品的永恒张力

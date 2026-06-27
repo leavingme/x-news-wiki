@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Orange AI「河床论」：结构决定命运，改变河床才能改变方向"
 description: "**结构性张力才是改变命运的底层机制，不是努力也不是逃离。** - 引入 Robert Fritz「最小阻力之路」框架：人沿着家庭期待、社会环境构成的河床流动，误以为「流到的地方」就是自己的选择 - 核心洞察：解题思维（发现问题→分析→解决）本身就是结构性冲突，越努力越强化问题；真正的改变来自「基本选择」——决定以什么姿态存在于世界 - 将「结构」概念贯穿产品设计、Agent harness、大模"
 resource: "https://x.com/i/status/2049653082414559520"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2049653082414559520"
-created: "2026-04-30"
-updated: "2026-06-26"
-sha256: "2097ec56ea50947fb59939d928f6214cf64c7fd9a6bed8cce0e6d9e9f5b916d5"
-sources:
-  - "/sources/news/2026-04-30/00__oran_ge__orange-ai-河床论-结构决定命运-改变河床才能改变方向.md"
 ---
 
 # Orange AI「河床论」：结构决定命运，改变河床才能改变方向

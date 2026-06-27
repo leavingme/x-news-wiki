@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Claude Code 15个隐藏功能曝光：从「聊天工具」到「生产力操作系统」的跃迁"
 description: "**Claude Code 正在从代码助手进化为完整的开发者工作流中枢。**  • /loop + /schedule 实现任务自动化永动机，Cron 级定时能力内嵌终端 • Hooks 系统允许注入团队规范和组织记忆，解决规模化协作痛点 • Chrome 扩展让 AI 能「看见」自己的输出并自我迭代，形成闭环优化 • /teleport + /remote-control 实现跨设备工作流无缝切"
 resource: "https://x.com/i/status/2038813491826696317"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2038813491826696317"
-created: "2026-03-31"
-updated: "2026-06-26"
-sha256: "d13e1916d23536f382a4d75194c152916ef9956a9de69662a3489925b48b1af2"
-sources:
-  - "/sources/highlights/2026-03-31/00__zstmfhy__claude-code-15个隐藏功能曝光-从-聊天工具-到-生产力操作系统-的跃迁.md"
 ---
 
 # Claude Code 15个隐藏功能曝光：从「聊天工具」到「生产力操作系统」的跃迁

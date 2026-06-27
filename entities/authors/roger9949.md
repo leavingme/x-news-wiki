@@ -1,23 +1,17 @@
 ---
-type: "entity"
+type: "Author"
 title: "Roger波杰克 (@roger9949)"
 description: "X/Twitter 作者 @roger9949。共收录 1 条 AI 精选推文。"
 tags:
   - "x-news"
   - "author"
   - "author:roger9949"
-timestamp: "2026-06-26T11:53:37.002Z"
+timestamp: "2026-06-27T08:40:40.217Z"
 x_handle: "roger9949"
 x_author_name: "Roger波杰克"
 x_tweet_count: 1
 x_first_seen: "2026-06-24T22:28:14.661Z"
 x_last_seen: "2026-06-24T22:28:14.661Z"
-type_okf: "Author"
-created: "2026-06-24"
-updated: "2026-06-26"
-sha256: "aba6fa7dfb0c20170514e5df7a82f25a9437839072434c6e16170eaabb59dfcb"
-sources:
-  - "/sources/news/2026-06-24/00__roger9949__ai-算力链上游-mlcc-拆解-单台-ai-服务器-1-5-2-5-万颗电容器背后的国产替代窗口.md"
 ---
 
 # Roger波杰克 (@roger9949)

@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Wall-OSS-0.5：开源VLA机器人模型零样本跨任务泛化，具身智能开源路线新突破"
 description: "X Square Robot 开源 Wall-OSS-0.5，采用「Pretrain Once, Act Anywhere」范式，在零任务特定微调情况下实现跨真实机器人任务的零样本泛化，并在数据和微调规模可控对比中优于 π0.5 等近期开源模型。  要点： - 核心突破：VLA（视觉-语言-动作）模型 pretrain 阶段即建立跨任务泛化能力，无需 per-task finetune - 与封闭"
 resource: "https://x.com/i/status/2059882264339595298"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2059882264339595298"
-created: "2026-05-28"
-updated: "2026-06-26"
-sha256: "276105591ccab5485341abdd6e44d86a0ea798c26898802593a7807a89058179"
-sources:
-  - "/sources/highlights/2026-05-28/00__jiqizhixin__wall-oss-0-5-开源vla机器人模型零样本跨任务泛化-具身智能开源路线新突破.md"
 ---
 
 # Wall-OSS-0.5：开源VLA机器人模型零样本跨任务泛化，具身智能开源路线新突破

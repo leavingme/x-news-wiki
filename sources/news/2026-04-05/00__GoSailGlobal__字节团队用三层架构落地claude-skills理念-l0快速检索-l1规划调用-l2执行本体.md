@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "字节团队用三层架构落地Claude Skills理念：L0快速检索+L1规划调用+L2执行本体"
 description: "**[Claude Skills的跨框架验证：字节团队三_layer架构揭示SKILL.md落地的工程路径]**  字节团队借鉴Claude Skills理念，用三层结构实现Agent Skills：第一层（对应L0）告诉AI\"这是什么\"用于快速检索；第二层（对应L1）告诉AI\"怎么用\"用于规划调用；第三层是实际在\"做事\"的本体（对应L2）。  这不是复刻，是用字节自己的工程语言对Skills范式"
 resource: "https://x.com/i/status/2023771209427767627"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2023771209427767627"
-created: "2026-02-17"
-updated: "2026-06-26"
-sha256: "fe30e83530d4fde79be314b8f4439dcfdc9917bc3556047942d20ac6d72aab9d"
-sources:
-  - "/sources/news/2026-04-05/00__GoSailGlobal__字节团队用三层架构落地claude-skills理念-l0快速检索-l1规划调用-l2执行本体.md"
 ---
 
 # 字节团队用三层架构落地Claude Skills理念：L0快速检索+L1规划调用+L2执行本体

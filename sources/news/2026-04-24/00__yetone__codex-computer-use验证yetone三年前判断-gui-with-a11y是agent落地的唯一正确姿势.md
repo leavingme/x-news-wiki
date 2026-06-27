@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "CodeX Computer Use验证yetone三年前判断：GUI with a11y是Agent落地的唯一正确姿势"
 description: "**[当所有应用都是TUI的时候，世界就停摆了——但现实是GUI正在被Accessibility重新定义]**  yetone的观点被CodeX的成功再次验证：Agent要操作电脑，核心依赖不是OS的底层API，而是应用的Accessibility层。这和TUI有本质区别——TUI是可预测的结构化文本，而GUI with a11y是给AI打开了一扇「看见」现有应用的窗。  这意味着Agent的落地"
 resource: "https://x.com/i/status/2047561406774673464"
@@ -22,13 +22,6 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "multi-agent-framework-ecosystem-comparison"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2047561406774673464"
-created: "2026-04-24"
-updated: "2026-06-26"
-sha256: "82757522c42c4c8664c77af8154b25f69661730c9fed59ad783ad294cf61061d"
-sources:
-  - "/sources/news/2026-04-24/00__yetone__codex-computer-use验证yetone三年前判断-gui-with-a11y是agent落地的唯一正确姿势.md"
 ---
 
 # CodeX Computer Use验证yetone三年前判断：GUI with a11y是Agent落地的唯一正确姿势

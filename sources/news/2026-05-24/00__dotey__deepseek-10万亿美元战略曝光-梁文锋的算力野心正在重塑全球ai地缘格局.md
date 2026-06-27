@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "DeepSeek 10万亿美元战略曝光：梁文锋的算力野心正在重塑全球AI地缘格局"
 description: "**【一句话核心判断】**  DeepSeek首次系统披露其10万亿美元级别的长期战略规划，标志着中国AI实验室正式从技术追随者转向全球算力秩序的重塑者。  **信息增量：** - 战略规模对标美国AI基础设施法案，显示DeepSeek已不满足于模型层竞争，转向算力生态全链条布局 - 十万亿量级意味着半导体、能源、数据中心产业链将面临系统性需求重构 - 中国AI实验室首次以主权级资本规划参与全球A"
 resource: "https://x.com/i/status/2058421725256171718"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2058421725256171718"
-created: "2026-05-24"
-updated: "2026-06-26"
-sha256: "a9edf8faf7e5af877c888a7d7173624eed2ce8f0769cc82050f82c60423a9606"
-sources:
-  - "/sources/news/2026-05-24/00__dotey__deepseek-10万亿美元战略曝光-梁文锋的算力野心正在重塑全球ai地缘格局.md"
 ---
 
 # DeepSeek 10万亿美元战略曝光：梁文锋的算力野心正在重塑全球AI地缘格局

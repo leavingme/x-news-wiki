@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "ChatGPT 的\"稳稳接住你\"成了中文互联网梗：AI 本地化翻车的教科书案例"
 description: "**一个翻译偏差暴露了大模型在非英语市场的\"文化适配盲区\"。** - ChatGPT 中文对话中频繁冒出\"我会稳稳地接住你\"，被用户吐槽大半年，已成梗 - 还会无端冒出\"砍一刀\"（拼多多营销话术），暴露训练语料污染问题 - OpenAI 研究员自嘲，重庆开发者做了开源工具 Jiezhu 修正意图理解  这不只是翻译问题，是\"模型在非英语市场的文化适配\"这个被低估的工程挑战的冰山一角。当 AI 成为"
 resource: "https://x.com/i/status/2052500525598527732"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2052500525598527732"
-created: "2026-05-07"
-updated: "2026-06-26"
-sha256: "13b58993ab5b6ec26b48dd7aa66ffa54e01d70aa8813ba140fd1def07ea65341"
-sources:
-  - "/sources/news/2026-05-07/00__dotey__chatgpt-的-稳稳接住你-成了中文互联网梗-ai-本地化翻车的教科书案例.md"
 ---
 
 # ChatGPT 的"稳稳接住你"成了中文互联网梗：AI 本地化翻车的教科书案例

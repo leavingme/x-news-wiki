@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Anthropic封杀OpenClaw：一个月过渡期后强制分割，一场关于「控制权」的真实战争"
 description: "**[Anthropic 对第三方生态的「清理」比技术问题更值得警惕]**  Anthropic 宣布不能用 Claude 账户额度使用 OpenClaw 这类第三方产品，一个月过渡期后需购买单独额度。Anthropic 官方还声称 Claude Code 额度消耗异常问题「不存在」。  与此同时 Codex 不语，只是一味地重置额度。  **Gakki：** 「不存在问题」这个说法和实际行动之间"
 resource: "https://x.com/i/status/2040245390814085270"
@@ -22,13 +22,6 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "claude-code-ecosystem"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2040245390814085270"
-created: "2026-04-04"
-updated: "2026-06-26"
-sha256: "7f0459c85ee2660293b852865e6ea56ecdbf43714535909798fec83cf7c302aa"
-sources:
-  - "/sources/highlights/2026-04-04/00__op7418__anthropic封杀openclaw-一个月过渡期后强制分割-一场关于-控制权-的真实战争.md"
 ---
 
 # Anthropic封杀OpenClaw：一个月过渡期后强制分割，一场关于「控制权」的真实战争

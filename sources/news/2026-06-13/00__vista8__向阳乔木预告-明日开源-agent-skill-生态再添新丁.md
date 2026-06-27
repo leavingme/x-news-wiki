@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "向阳乔木预告：明日开源，Agent/Skill 生态再添新丁？"
 description: "**[向阳乔木继 qiaomu-book-script 之后预告将再次开源新项目]**  - 继 qiaomu-book-script（书籍解读口播脚本 Skill）后，向阳乔木再度预告开源动作，具体内容尚未透露。 - 在中文 AI 写作/Agent 工具生态中，向阳乔木的工具链偏向\"Subagent 分角 + 主 LLM 收口\"模式，新项目预计延续这一工程范式。 - 配合 SKILL.md 一键"
 resource: "https://x.com/i/status/2065838668552794133"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2065838668552794133"
-created: "2026-06-13"
-updated: "2026-06-26"
-sha256: "fd50544535d35a783b1cf7861fed98d5550ae44d35d3959f88dd0a19842396d4"
-sources:
-  - "/sources/news/2026-06-13/00__vista8__向阳乔木预告-明日开源-agent-skill-生态再添新丁.md"
 ---
 
 # 向阳乔木预告：明日开源，Agent/Skill 生态再添新丁？

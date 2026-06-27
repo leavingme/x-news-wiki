@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Cursor Composer 2.5 凭 Kimi k2.5 追平 Opus 4.7：国产模型首次进入顶级 Agent 工具链核心位"
 description: "**[Kimi k2.5 被 Cursor 选为核心基座，国产模型在 Coding Agent 战场获头部背书]**  Composer 2.5 发布，基于 Kimi k2.5 深度后训练，基准测试追平 Opus 4.7 和 GPT-5.5。亮点是长时间持续工作的可靠性——多文件重构、长周期任务不再需要反复 babysitting，这是当前 Agent 工具最大的工程痛点。  关键信号：Musk "
 resource: "https://x.com/i/status/2056566663688937920"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2056566663688937920"
-created: "2026-05-19"
-updated: "2026-06-26"
-sha256: "6cde55daa18eaa658c2f71a47c09eaa30b6c49e016e912e3578d0696beb7f671"
-sources:
-  - "/sources/news/2026-05-19/00__gkxspace__cursor-composer-2-5-凭-kimi-k2-5-追平-opus-4-7-国产模型首次进入顶级-agent.md"
 ---
 
 # Cursor Composer 2.5 凭 Kimi k2.5 追平 Opus 4.7：国产模型首次进入顶级 Agent 工具链核心位

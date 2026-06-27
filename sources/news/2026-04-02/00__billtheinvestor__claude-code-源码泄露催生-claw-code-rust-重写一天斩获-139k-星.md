@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Claude Code 源码泄露催生 Claw Code：Rust 重写一天斩获 139K 星"
 description: "**一句话核心判断：** Claude Code 源码泄露后，开源社区一天内完成 Rust 重写，Claw Code 获 139K 星和 102K fork，创最快突破 10 万星纪录，验证开发者协作速度已进入「天」为单位的新阶段。  技术意义：Rust 重写本身证明 Claude Code 的核心逻辑可被逆向和重建，代码层面的护城河比想象中浅。  现象级传播背后：开源社区对「AI Coding "
 resource: "https://x.com/i/status/2039683262034170092"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2039683262034170092"
-created: "2026-04-02"
-updated: "2026-06-26"
-sha256: "a32be5741d33fd4b83980fa469afd62b786f9c2fe3de626a5e812606475e5f36"
-sources:
-  - "/sources/news/2026-04-02/00__billtheinvestor__claude-code-源码泄露催生-claw-code-rust-重写一天斩获-139k-星.md"
 ---
 
 # Claude Code 源码泄露催生 Claw Code：Rust 重写一天斩获 139K 星

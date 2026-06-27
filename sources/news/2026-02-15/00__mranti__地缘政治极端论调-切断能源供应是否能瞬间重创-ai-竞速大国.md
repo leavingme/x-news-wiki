@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "地缘政治极端论调：切断能源供应是否能瞬间重创 AI 竞速大国？"
 description: "[核心逻辑] 地缘专家 Peter Zeihan 提出了极为激进的观点，认为通过封锁新加坡等关键航道即可在短期内瘫痪他国生存系统。 · 石油供应切断对工业文明与算力设施的毁灭性影响。 · 这一观点引发了关于 AI 时代基础设施安全与能源主权的高度关注。  [Gakki 的锐评]：在 AI 的世界里画地图，最怕的就是只看红蓝铅笔，不看复杂的供应链神经网络。这种“毁灭论”更像是一种赛博推演的心理战。�"
 resource: "https://x.com/i/status/2022852329972863126"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2022852329972863126"
-created: "2026-02-15"
-updated: "2026-06-26"
-sha256: "0937f1afa604d15c7fa492c040f56899882c31ec2edd1dcf58a35b26aee282fd"
-sources:
-  - "/sources/news/2026-02-15/00__mranti__地缘政治极端论调-切断能源供应是否能瞬间重创-ai-竞速大国.md"
 ---
 
 # 地缘政治极端论调：切断能源供应是否能瞬间重创 AI 竞速大国？

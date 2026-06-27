@@ -1,23 +1,17 @@
 ---
-type: "entity"
+type: "Author"
 title: "OOBE (@OOBE)"
 description: "X/Twitter 作者 @OOBE。共收录 1 条 AI 精选推文。"
 tags:
   - "x-news"
   - "author"
   - "author:OOBE"
-timestamp: "2026-06-26T11:53:36.974Z"
+timestamp: "2026-06-27T08:40:40.191Z"
 x_handle: "OOBE"
 x_author_name: "OOBE"
 x_tweet_count: 1
 x_first_seen: "2026-04-07T00:42:41.966Z"
 x_last_seen: "2026-04-07T00:42:41.966Z"
-type_okf: "Author"
-created: "2026-04-07"
-updated: "2026-06-26"
-sha256: "a2608094c575e7fc5ace5fb92cab06f6621f2f41d8859d7644f9a7520c067375"
-sources:
-  - "/sources/news/2026-04-07/00__OOBE__两年跳船终值得-heptabase-mcp-ai-tutor让笔记工具直接升级为ai导师.md"
 ---
 
 # OOBE (@OOBE)

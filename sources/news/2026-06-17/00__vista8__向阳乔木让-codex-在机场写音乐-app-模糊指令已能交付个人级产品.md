@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "向阳乔木让 Codex 在机场写音乐 App：模糊指令已能交付个人级产品"
 description: "**[Vibe Coding 在个人场景的端到端验证]**  - 向阳乔木用自然语言指令让 Codex 在机场候机时间开发自用音乐 App - 登机无网状态下仍可播放 AI 生成音乐，体现完整产品闭环能力 - 与\"Goal Skill 24分钟交付世界杯订阅站\"形成连续实证，Codex 实战案例库持续扩充 - 印证宝玉\"Codex 稳定性略胜 Claude Code\"的主观判断   gakki 锐"
 resource: "https://x.com/i/status/2067035280016887811"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2067035280016887811"
-created: "2026-06-17"
-updated: "2026-06-26"
-sha256: "eb52525854b930b3f06fc6920390e0b3ad3f3b2542e2aad70b6c9c369517dc66"
-sources:
-  - "/sources/news/2026-06-17/00__vista8__向阳乔木让-codex-在机场写音乐-app-模糊指令已能交付个人级产品.md"
 ---
 
 # 向阳乔木让 Codex 在机场写音乐 App：模糊指令已能交付个人级产品

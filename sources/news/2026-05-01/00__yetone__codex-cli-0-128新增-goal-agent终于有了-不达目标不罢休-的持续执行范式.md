@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Codex CLI 0.128新增/goal：Agent终于有了「不达目标不罢休」的持续执行范式"
 description: "**Agent从单轮对话进化到目标驱动循环，这是agentic coding的关键架构跃迁。**  - Codex CLI 0.128.0引入/goal功能——Ralph loop：跨轮次保持目标活跃，直到任务完成 - 由Eric Traut（Pyright作者、OpenAI导师）开发，yetone评价「圆梦了」 - 本质是把「人类盯进度」这个瓶颈从agent循环中移除  gakki锐评：/goa"
 resource: "https://x.com/i/status/2050187781264359740"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2050187781264359740"
-created: "2026-05-01"
-updated: "2026-06-26"
-sha256: "0e23873b4a4232b16505dc1cd7df215fef5b5c0837c49cd1636b15b76cebbaf5"
-sources:
-  - "/sources/news/2026-05-01/00__yetone__codex-cli-0-128新增-goal-agent终于有了-不达目标不罢休-的持续执行范式.md"
 ---
 
 # Codex CLI 0.128新增/goal：Agent终于有了「不达目标不罢休」的持续执行范式

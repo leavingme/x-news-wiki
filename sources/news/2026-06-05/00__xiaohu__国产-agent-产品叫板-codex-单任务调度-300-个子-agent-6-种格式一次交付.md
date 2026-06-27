@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "国产 Agent 产品叫板 Codex：单任务调度 300 个子 Agent，6 种格式一次交付"
 description: "**国内 Agent 产品开始卷\"集群规模\"，单任务可调度 300 个子 Agent 协同，目标直指 Codex 子 Agent 模式。**  - 相比 Codex 的多子 Agent 调用，宣称同时调度上限达 300 个 - 单次需求可并行产出 Word / PPT / Excel / PDF / 网页 / 图片 6 种格式成品 - 关键信息缺失：产品名、技术架构、计费模型、失败回滚机制均未披露"
 resource: "https://x.com/i/status/2062824758941806708"
@@ -22,13 +22,6 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "agent-swarm-orchestration"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2062824758941806708"
-created: "2026-06-05"
-updated: "2026-06-26"
-sha256: "c0721131459d21482f87a6e0c2d1dc032b5696b9a64f93606dbb97806f9aa9c2"
-sources:
-  - "/sources/news/2026-06-05/00__xiaohu__国产-agent-产品叫板-codex-单任务调度-300-个子-agent-6-种格式一次交付.md"
 ---
 
 # 国产 Agent 产品叫板 Codex：单任务调度 300 个子 Agent，6 种格式一次交付

@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "PPT 嵌地图交互卡：地理信息正在成为 AI 内容生成的新原子单元"
 description: "**[ PPT 里的地图不再只是配图，而是可交互的情境构建工具]**  鐵錘人在五大道历史场景中验证了一个新内容范式：地图从装饰性元素升级为信息容器——嵌在 PPT 里的地图支持放大缩小、拖动、AI 任意标记，而且与左侧卡片叙事实时联动。  这意味着 AI 生成的内容正在学习\"空间叙事\"而非线性罗列。历史人物/事件天然具有地理锚点，当 AI 能主动在地图上标记、联动叙事，内容的可读性和信息密度会大"
 resource: "https://x.com/i/status/2054418678918291482"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2054418678918291482"
-created: "2026-05-13"
-updated: "2026-06-26"
-sha256: "fe3845aa374719189ae38d58f82240e44ffdf75bb78b4ac9d6088c5d40c33d61"
-sources:
-  - "/sources/news/2026-05-13/00__op7418__ppt-嵌地图交互卡-地理信息正在成为-ai-内容生成的新原子单元.md"
 ---
 
 # PPT 嵌地图交互卡：地理信息正在成为 AI 内容生成的新原子单元

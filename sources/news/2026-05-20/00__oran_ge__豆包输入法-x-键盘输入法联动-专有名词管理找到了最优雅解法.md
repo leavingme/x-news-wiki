@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "豆包输入法 x 键盘输入法联动：专有名词管理找到了最优雅解法"
 description: "**[语音+键盘协同才是输入法的正确形态，而非非此即彼]**  豆包语音输入法在 Mac 上的体验揭示了一个被忽视的产品洞察：语音输入法的核心痛点不是识别率，而是专有名词（ColaOS、Codex 等技术词汇）的词库维护。当语音输入与键盘输入法联动后，用户在输入框里修正一次，豆包就自动记住——相当于把词库维护成本分摊到了每一次实际使用中。  这个方案优雅之处在于：它不要求用户刻意管理词库，而是在自"
 resource: "https://x.com/i/status/2056985346966220859"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2056985346966220859"
-created: "2026-05-20"
-updated: "2026-06-26"
-sha256: "ac21074143d68bc81ea3cdcbe027220d526f65353fb494880e1d791d24bfbede"
-sources:
-  - "/sources/news/2026-05-20/00__oran_ge__豆包输入法-x-键盘输入法联动-专有名词管理找到了最优雅解法.md"
 ---
 
 # 豆包输入法 x 键盘输入法联动：专有名词管理找到了最优雅解法

@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "CLI 工具链正在收敛：飞书 CLI 加入后的生态位分析"
 description: "**主流 CLI 工具链已基本成型：GitHub CLI + Vercel CLI + 飞书 CLI + OpenCLI，提问者认为「差不多够了」。**  这个列表的成型本身就是信号——CLI 工具链正在从分散走向收敛，开发者不再需要自己组装。  飞书 CLI 加入说明协作平台也在向 CLI-first 迁移。  gakki：「CLI 工具链的收敛是开发体验民主化的标志——当『会用命令行』不再是门"
 resource: "https://x.com/i/status/2038539380735029721"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2038539380735029721"
-created: "2026-03-30"
-updated: "2026-06-26"
-sha256: "4576f43f92e0818eb4b072113ac5facf90cf3dafb9e41e893bf6560580a2f26e"
-sources:
-  - "/sources/news/2026-03-30/00__vista8__cli-工具链正在收敛-飞书-cli-加入后的生态位分析.md"
 ---
 
 # CLI 工具链正在收敛：飞书 CLI 加入后的生态位分析

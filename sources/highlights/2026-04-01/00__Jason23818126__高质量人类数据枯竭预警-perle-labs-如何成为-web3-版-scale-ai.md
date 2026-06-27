@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "高质量人类数据枯竭预警：Perle Labs 如何成为 Web3 版 Scale AI"
 description: "**为什么这个方向值得押注？**  - **数据枯竭是系统性危机**：网上高质量真实人类语料被大厂榨干，AI 用合成数据喂养自己的\"近亲繁殖\"正在引发学界担忧的「模型坍塌」，尤其医疗/国防等零容错场景首当其冲。 - **Scale AI 的痛，Perle 来治**：Scale AI 垄断了传统数据标注但中心化、不透明且不奖励知识贡献者，Perle 用「专家链上审核 + staking/slashi"
 resource: "https://x.com/i/status/2037365631209947219"
@@ -22,13 +22,6 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "ai-data-blockchain-verification"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2037365631209947219"
-created: "2026-03-27"
-updated: "2026-06-26"
-sha256: "351b70fd4bd057a6c37afd0d47871ba7ae3f8344ab330e51d3b4ac783aeca272"
-sources:
-  - "/sources/highlights/2026-04-01/00__Jason23818126__高质量人类数据枯竭预警-perle-labs-如何成为-web3-版-scale-ai.md"
 ---
 
 # 高质量人类数据枯竭预警：Perle Labs 如何成为 Web3 版 Scale AI

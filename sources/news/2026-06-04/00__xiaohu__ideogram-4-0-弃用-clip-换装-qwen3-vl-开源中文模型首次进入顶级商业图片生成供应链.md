@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Ideogram 4.0 弃用 CLIP 换装 Qwen3-VL：开源中文模型首次进入顶级商业图片生成供应链"
 description: "**【一句话核心判断】**  国产开源模型 Qwen3-VL-8B-Instruct 首次被头部商业产品 Ideogram 4.0 采认为文本编码器，替代 CLIP/T5 系列，意味着开源模型已具备\"理解文字语义再渲染\"的工业级能力，而非仅做视觉特征匹配。  **【信息增量】**  - 以往 Ideogram 这类产品的文本编码器依赖 CLIP/T5，文字渲染停留在\"画字\"层面，中文复杂排版尤其容"
 resource: "https://x.com/i/status/2062348361215496247"
@@ -22,13 +22,6 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "ai-video-audio-quality"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2062348361215496247"
-created: "2026-06-04"
-updated: "2026-06-26"
-sha256: "7d28b1b29cf247fc7a738423180672bf39599e501037c09d6fd6db4f1be56aeb"
-sources:
-  - "/sources/news/2026-06-04/00__xiaohu__ideogram-4-0-弃用-clip-换装-qwen3-vl-开源中文模型首次进入顶级商业图片生成供应链.md"
 ---
 
 # Ideogram 4.0 弃用 CLIP 换装 Qwen3-VL：开源中文模型首次进入顶级商业图片生成供应链

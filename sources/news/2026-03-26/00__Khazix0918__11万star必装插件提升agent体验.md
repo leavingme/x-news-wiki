@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "11万Star必装插件提升Agent体验"
 description: "安利一个11万Star的必装插件，能让你的Agent体验直接质变"
 resource: "https://x.com/i/status/2037015170091016257"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2037015170091016257"
-created: "2026-03-26"
-updated: "2026-06-26"
-sha256: "024b0295819d91b1fb8cd2cc0a578184d236837ef7be3f9bed934cface175cfd"
-sources:
-  - "/sources/news/2026-03-26/00__Khazix0918__11万star必装插件提升agent体验.md"
 ---
 
 # 11万Star必装插件提升Agent体验

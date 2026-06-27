@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "做产品是工程问题，能赚钱是商业问题——AI只解决了前半段"
 description: "**一句话核心判断：独立开发者的「赚钱困境」被Orange AI一句话点破——AI已经可以造产品，但无法替你完成「卖出去」这件事。**  • AI几乎解决了「造产品」的工程问题，但「卖出去」需要的商业判断、用户获取、信任建立，AI还没入门。 • 「有产品=能赚钱」是思想钢印——能赚钱的人怎么都能赚钱，不依赖某个特定产品。 • vibe coding时代，看到别人做出产品不要急着问收入，问了反而暴露"
 resource: "https://x.com/i/status/2057286792534196294"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2057286792534196294"
-created: "2026-05-21"
-updated: "2026-06-26"
-sha256: "e786ace6fe3ab21c271d19181fdf848295847c708a65a04e10fc7dc125c8b7fb"
-sources:
-  - "/sources/news/2026-05-21/00__oran_ge__做产品是工程问题-能赚钱是商业问题-ai只解决了前半段.md"
 ---
 
 # 做产品是工程问题，能赚钱是商业问题——AI只解决了前半段

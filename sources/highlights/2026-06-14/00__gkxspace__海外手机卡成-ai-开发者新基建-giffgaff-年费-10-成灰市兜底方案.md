@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "海外手机卡成 AI 开发者新基建：giffgaff 年费 < ¥10 成灰市兜底方案"
 description: "**AI 工具的\"使用门槛\"正从技术门槛滑向\"身份基础设施\"门槛。**  - 香港卡禁止大陆激活、eSIM 方案一个一个被堵,海外号码获取难度半年飙升一个量级 - Claude / Codex / Google 都强制海外手机号验证,无号码几乎寸步难行 - giffgaff 年保号不到 10 元,是当前性价比兜底;虚拟卡被明确不推荐   gakki 锐评：AI 算力灰色市场正在从硬件层(翻墙 GP"
 resource: "https://x.com/i/status/2066085525044257161"
@@ -22,13 +22,6 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "ai-grey-market"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2066085525044257161"
-created: "2026-06-14"
-updated: "2026-06-26"
-sha256: "cd6f528e5bdc6e0133c006336b04615ad91bef5b2866934e39626a2611d7b816"
-sources:
-  - "/sources/highlights/2026-06-14/00__gkxspace__海外手机卡成-ai-开发者新基建-giffgaff-年费-10-成灰市兜底方案.md"
 ---
 
 # 海外手机卡成 AI 开发者新基建：giffgaff 年费 < ¥10 成灰市兜底方案

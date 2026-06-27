@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Ghostty 拆分动画的工程细节：终端 UI 不抖动的代价"
 description: "**[Ghostty 正在攻克终端拆分窗口的视觉抖动问题，背后是半透明遮挡与全尺寸占位的取舍]**  - 新拆分采用 full-size 直接放置，避免 resize 抖动；动画起点选择在窗口外或另一个 split 下方 - 因为 split 可能半透明，需要 occlusion mask 来屏蔽像素，渲染管线复杂度上升 - Hashimoto 自言「仍处于非常早期的开发阶段」，暗示后续会有更多 "
 resource: "https://x.com/i/status/2070281069631611056"
@@ -22,13 +22,6 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "ghostty-terminal-adoption"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2070281069631611056"
-created: "2026-06-25"
-updated: "2026-06-26"
-sha256: "c27dfbd521ad3031b17c3e6fde0c6aebd7f9025259525b024445012fd63ca5a3"
-sources:
-  - "/sources/news/2026-06-26/00__mitchellh__ghostty-拆分动画的工程细节-终端-ui-不抖动的代价.md"
 ---
 
 # Ghostty 拆分动画的工程细节：终端 UI 不抖动的代价

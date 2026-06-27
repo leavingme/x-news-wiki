@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "索尼Ace机器人三次击败职业球员：0.1秒内完成感知-决策-执行的人类禁区已被突破"
 description: "**[具身智能进入「超人类」反应时间窗口，物理竞技正在被重新定义]**  索尼AI发布的Ace乒乓球机器人在2025年4月、12月和2026年3月三次击败职业球员。其9个同步摄像头+3套视觉系统可在0.1秒内完成球速70-100km/h下的轨迹预测与机械执行，反应时间已具「超人类」特征。  关键差异：机器人无情绪、无肢体语言泄露信息，职业球员无法通过传统方式读取对手状态，打法不可预测。更值得注意是"
 resource: "https://x.com/i/status/2047312277137985747"
@@ -22,13 +22,6 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "textop-humanoid-robot"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2047312277137985747"
-created: "2026-04-23"
-updated: "2026-06-26"
-sha256: "e5f95f0acaa8864ce5b47aa526a12e5e23a7215819d03fe3d6f941d72b5d02f5"
-sources:
-  - "/sources/news/2026-04-24/00__xiaohu__索尼ace机器人三次击败职业球员-0-1秒内完成感知-决策-执行的人类禁区已被突破.md"
 ---
 
 # 索尼Ace机器人三次击败职业球员：0.1秒内完成感知-决策-执行的人类禁区已被突破

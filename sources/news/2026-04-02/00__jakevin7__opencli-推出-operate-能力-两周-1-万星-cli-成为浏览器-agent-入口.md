@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "OpenCLI 推出 Operate 能力：两周 1 万星，CLI 成为浏览器 Agent 入口"
 description: "**一句话核心判断：** OpenCLI 实现重大能力跃迁，支持 prompt 直接操作浏览器并沉淀为持久化 CLI，两周突破 1 万星和 100 名贡献者，标志 CLI 工具链正式进入「browser agent」时代。  Operate 能力打通 AI→浏览器→CLI 的闭环：prompt 直接驱动浏览器操作（填写表单、点击链接），执行结果可沉淀为可复用的 CLI 命令，AI 操作具备持久化价"
 resource: "https://x.com/i/status/2039707706370806084"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2039707706370806084"
-created: "2026-04-02"
-updated: "2026-06-26"
-sha256: "d785f6b63c4880b64eafe5b56e7d05c0e3a54dc626b1f98547fe7f42db6693f1"
-sources:
-  - "/sources/news/2026-04-02/00__jakevin7__opencli-推出-operate-能力-两周-1-万星-cli-成为浏览器-agent-入口.md"
 ---
 
 # OpenCLI 推出 Operate 能力：两周 1 万星，CLI 成为浏览器 Agent 入口

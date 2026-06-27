@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "新模型三件套齐发：官方介绍+在线体验+模型下载一站打通"
 description: "**[新模型完整发布链路曝光，开放体验与下载同步放出]** - 官方介绍、在线体验页、模型权重下载三链接齐发，属于较完整的产品发布动作 - 在国内社区（小互）一手分发，说明该模型面向中文开发者或本地部署场景 - 链接未点开无法确认具体模型名称与规模，需补全上下文（可能关联端侧/移动端 Agent 方向）   gakki锐评：完整三件套是模型发布进入「产品化阶段」的信号——比起论文+benchmar"
 resource: "https://x.com/i/status/2067487066896965808"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2067487066896965808"
-created: "2026-06-18"
-updated: "2026-06-26"
-sha256: "1a366b75ee0d846a090b00de15404d1cb350788f8cb4bf143bd5a18c32514b1b"
-sources:
-  - "/sources/news/2026-06-18/00__xiaohu__新模型三件套齐发-官方介绍-在线体验-模型下载一站打通.md"
 ---
 
 # 新模型三件套齐发：官方介绍+在线体验+模型下载一站打通

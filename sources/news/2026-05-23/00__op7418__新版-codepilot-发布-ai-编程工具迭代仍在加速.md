@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "新版 Codepilot 发布：AI 编程工具迭代仍在加速"
 description: "**[ 归藏披露新版 Codepilot：AI 编程工具的迭代军备竞赛没有减速 ]**  归藏分享了新版 Codepilot 的发布信息。结合 Codex 疯狂自动更新和 Claude Code 的持续迭代，AI 编程工具赛道正在进入高频迭代期，每个玩家都在加速推出新版本。  竞争格局：工具之间的功能差距正在缩小，但用户实际选择仍取决于生态锁定效应（VS Code 插件体系 vs Claude 的"
 resource: "https://x.com/i/status/2058095052715630705"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2058095052715630705"
-created: "2026-05-23"
-updated: "2026-06-26"
-sha256: "ea090e23b4e511e129bbc5982a6661d9a4c23db53afa516a764237718a317f0b"
-sources:
-  - "/sources/news/2026-05-23/00__op7418__新版-codepilot-发布-ai-编程工具迭代仍在加速.md"
 ---
 
 # 新版 Codepilot 发布：AI 编程工具迭代仍在加速

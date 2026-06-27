@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "AI 提升个人效率之后，下一战是组织的「共识连贯性」"
 description: "**[Agent 记忆的下一个主战场：组织层而非个人层]**  Rourou 的判断：AI 卷完个人效率，下一步是组织记忆力——减少信息损耗，让团队拥有连贯共识。这对应「Agent记忆与Token优化」专题的核心矛盾：当前 Agent 记忆方案几乎全是个人级（会话内/跨会话），组织级共识维护是尚未被解决的空白。  这个观点的价值在于：它把「记忆」从技术问题升维成组织问题——不是「Agent 记什么"
 resource: "https://x.com/i/status/2057337641654464611"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2057337641654464611"
-created: "2026-05-21"
-updated: "2026-06-26"
-sha256: "9d1934f1fa19dda16fcb8eab7ab0abbaf6369206a2df8df426fc6baa6f086c49"
-sources:
-  - "/sources/highlights/2026-05-21/00__Rourou0413__ai-提升个人效率之后-下一战是组织的-共识连贯性.md"
 ---
 
 # AI 提升个人效率之后，下一战是组织的「共识连贯性」

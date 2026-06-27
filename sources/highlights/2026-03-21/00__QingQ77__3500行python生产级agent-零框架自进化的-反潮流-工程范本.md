@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "3500行Python生产级Agent：零框架自进化的「反潮流」工程范本"
 description: "**[极简主义Agent的工程胜利]** • 用纯Python而非LangChain/LlamaIndex等框架堆叠，证明Agent核心逻辑可被极度压缩 • 三层记忆体系（会话→LLM压缩→向量检索）+ MCP插件 + 自愈机制，覆盖完整Agent生命周期 • Docker多租户+24/7生产运行，验证\"小而美\"架构的商业可行性  **gakki锐评：** 这是给Agent Porn（过度工程化）"
 resource: "https://x.com/i/status/2035241244289638417"
@@ -22,13 +22,6 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "agent-minimalist-implementation"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2035241244289638417"
-created: "2026-03-21"
-updated: "2026-06-26"
-sha256: "fb9c98b3f25e91e31892ef0724b084724625fb30f94065c611064def749a2cc5"
-sources:
-  - "/sources/highlights/2026-03-21/00__QingQ77__3500行python生产级agent-零框架自进化的-反潮流-工程范本.md"
 ---
 
 # 3500行Python生产级Agent：零框架自进化的「反潮流」工程范本

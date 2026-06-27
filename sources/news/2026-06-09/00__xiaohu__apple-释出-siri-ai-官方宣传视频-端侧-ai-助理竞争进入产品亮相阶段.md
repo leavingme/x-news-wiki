@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Apple 释出 Siri AI 官方宣传视频：端侧 AI 助理竞争进入产品亮相阶段"
 description: "**[一句话核心判断]** Apple 终于把 Siri AI 的产品形态以官方视频形式正式曝光，标志其从延迟入场转向节奏化对外传播。  - 视频为官方宣发物料，说明 Apple 内部已具备可对外 demo 的产品状态，区别于此前多次延期传闻 - 没有附文分析，纯素材转发，信息增量有限——可视为节奏信号而非内容信号 - 与 Apple Intelligence 路线图对照，端侧隐私 + 系统级集成"
 resource: "https://x.com/i/status/2064172947657699626"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2064172947657699626"
-created: "2026-06-09"
-updated: "2026-06-26"
-sha256: "bf7cabade1d10588372e99ac25a5c770aa9696adb021400eac5f13dcf0cb7640"
-sources:
-  - "/sources/news/2026-06-09/00__xiaohu__apple-释出-siri-ai-官方宣传视频-端侧-ai-助理竞争进入产品亮相阶段.md"
 ---
 
 # Apple 释出 Siri AI 官方宣传视频：端侧 AI 助理竞争进入产品亮相阶段

@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Anthropic与OpenAI已进化成两种生物：组织效能的代际鸿沟"
 description: "**[过去7天的发布密度揭示了两家公司根本性的组织文化差异]** • Anthropic：7天发布8项重大功能，工程师直接发推+GitHub release，原型替代PRD，Boris Cherny 10个月不写代码只发PR • OpenAI：同期仅发布5.4 mini/nano、重新设计model picker、砍掉人格预设、宣布收购——产品化而非工程驱动 • 关键信号：Anthropic内部6"
 resource: "https://x.com/i/status/2035212811111170201"
@@ -22,13 +22,6 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "codex-ecosystem-platform-war"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2035212811111170201"
-created: "2026-03-21"
-updated: "2026-06-26"
-sha256: "ffcbcc60dcd9a3c00baa6ee7506ad64a78a665fb1ee54d16fc348a9f0b18b748"
-sources:
-  - "/sources/highlights/2026-03-21/00__KKaWSB__anthropic与openai已进化成两种生物-组织效能的代际鸿沟.md"
 ---
 
 # Anthropic与OpenAI已进化成两种生物：组织效能的代际鸿沟

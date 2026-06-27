@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "宝玉体感排名：Opus 4.6 写作仍是第一梯队，Gemini 3.1 Pro 紧随其后"
 description: "**宝玉给出当前主力模型写作体验的体感排序：Opus 4.6 第一，Gemini 3.1 Pro 仍可一战。**  要点： - 写作维度上 Opus 4.6 仍居首位，但宝玉强调这是个人体感、缺乏系统评测数据 - Gemini 3.1 Pro 作为对照保留选项，说明头部模型写作差距正在缩小 - 宝玉另一条回复（2068810414700274072）明确拒绝列出\"完整排序\"，印证这一领域暂无统一共"
 resource: "https://x.com/i/status/2068810338674364545"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2068810338674364545"
-created: "2026-06-21"
-updated: "2026-06-26"
-sha256: "9f16829c33681b180f7bed53b73bd6d057bffff7b719d983c168f98ea6553f28"
-sources:
-  - "/sources/news/2026-06-21/00__dotey__宝玉体感排名-opus-4-6-写作仍是第一梯队-gemini-3-1-pro-紧随其后.md"
 ---
 
 # 宝玉体感排名：Opus 4.6 写作仍是第一梯队，Gemini 3.1 Pro 紧随其后

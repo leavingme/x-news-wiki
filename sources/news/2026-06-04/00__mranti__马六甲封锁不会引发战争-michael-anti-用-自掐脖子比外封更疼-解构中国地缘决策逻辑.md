@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "马六甲封锁不会引发战争：Michael Anti 用「自掐脖子比外封更疼」解构中国地缘决策逻辑"
 description: "**【一句话核心判断】**  Michael Anti 提出一个反直觉但有历史依据的地缘判断：即便马六甲被封锁，中国也不会选择热战，因为\"自己掐自己脖子的强度\"历史上远超外力封堵。这个判断把分析维度从外部供应链风险转向了内部权力结构约束。  **【信息增量】**  - 传统分析框架集中在\"马六甲困境\"的物流断供后果；这个视角转向了政治决策层内部制约——领导层的控制半径受制于历史路径依赖，而非外部资"
 resource: "https://x.com/i/status/2062381412020601312"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2062381412020601312"
-created: "2026-06-04"
-updated: "2026-06-26"
-sha256: "9b75c7b5f5974fae910eafc90b7df88a6208d20b7a666b2eedb9b42a4503bfca"
-sources:
-  - "/sources/news/2026-06-04/00__mranti__马六甲封锁不会引发战争-michael-anti-用-自掐脖子比外封更疼-解构中国地缘决策逻辑.md"
 ---
 
 # 马六甲封锁不会引发战争：Michael Anti 用「自掐脖子比外封更疼」解构中国地缘决策逻辑

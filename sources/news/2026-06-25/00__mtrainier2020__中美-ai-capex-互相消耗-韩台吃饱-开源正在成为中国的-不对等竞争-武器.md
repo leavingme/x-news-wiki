@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "中美 AI capex 互相消耗，韩台吃饱：开源正在成为中国的「不对等竞争」武器"
 description: "**中国 AI 开源策略被点名为「让对手出血」的产业级博弈**  - 核心判断：中美在 capex 上疯狂投入，但真正落袋的是韩国（存储）和台湾（先进封装） - DeepSeek 式的开源策略被定性为「活雷锋」——自己网站卡顿、收益有限，但迫使美国公司算力投资贬值 - GLM、DeepSeek、Kimi、Qwen 轮番开源，形成「我活不活无所谓、谁都别想活好」的不对等消耗战 - Eric Schm"
 resource: "https://x.com/i/status/2069500463259738195"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2069500463259738195"
-created: "2026-06-23"
-updated: "2026-06-26"
-sha256: "9e9f0b9dce0459f66eccf2b55ad67871283ed340d8e5f4ede5a25214d15d9012"
-sources:
-  - "/sources/news/2026-06-25/00__mtrainier2020__中美-ai-capex-互相消耗-韩台吃饱-开源正在成为中国的-不对等竞争-武器.md"
 ---
 
 # 中美 AI capex 互相消耗，韩台吃饱：开源正在成为中国的「不对等竞争」武器

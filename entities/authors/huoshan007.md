@@ -1,23 +1,17 @@
 ---
-type: "entity"
+type: "Author"
 title: "火山哥🕊️ (@huoshan007)"
 description: "X/Twitter 作者 @huoshan007。共收录 1 条 AI 精选推文。"
 tags:
   - "x-news"
   - "author"
   - "author:huoshan007"
-timestamp: "2026-06-26T11:53:36.983Z"
+timestamp: "2026-06-27T08:40:40.194Z"
 x_handle: "huoshan007"
 x_author_name: "火山哥🕊️"
 x_tweet_count: 1
 x_first_seen: "2026-04-11T00:44:20.571Z"
 x_last_seen: "2026-04-11T00:44:20.571Z"
-type_okf: "Author"
-created: "2026-04-11"
-updated: "2026-06-26"
-sha256: "7783437811fb0c89273aadbc7a221569f7148526fdde11393c64bda7dbf9bf36"
-sources:
-  - "/sources/news/2026-04-11/00__huoshan007__origins-network-拿的不仅是钱-aws-腾讯云-阿里云同时站台意味着什么.md"
 ---
 
 # 火山哥🕊️ (@huoshan007)

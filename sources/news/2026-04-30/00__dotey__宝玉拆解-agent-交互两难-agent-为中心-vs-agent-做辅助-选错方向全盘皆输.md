@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "宝玉拆解 Agent 交互两难：Agent 为中心 vs Agent 做辅助，选错方向全盘皆输"
 description: "**[Agent 产品的交互设计存在根本性分叉：是 Agent 驱动一切，还是 Agent 辅助人类操作——选错就是「两个都想要，两个都做不好」。]**  - 第一类（Agent 为中心）：Codex、Cursor Agent 模式，对话是主操作面，手动修改为辅 - 第二类（Agent 为辅助）：GitHub Copilot 侧边栏，不改变原有操作习惯，Agent 做微调 - 两种范式都有成功案例"
 resource: "https://x.com/i/status/2049888645369200671"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2049888645369200671"
-created: "2026-04-30"
-updated: "2026-06-26"
-sha256: "7699bd63bd1d7feb0f39d133b1587f5301f9b23daeddcc8ef61e4ff23fa360ca"
-sources:
-  - "/sources/news/2026-04-30/00__dotey__宝玉拆解-agent-交互两难-agent-为中心-vs-agent-做辅助-选错方向全盘皆输.md"
 ---
 
 # 宝玉拆解 Agent 交互两难：Agent 为中心 vs Agent 做辅助，选错方向全盘皆输

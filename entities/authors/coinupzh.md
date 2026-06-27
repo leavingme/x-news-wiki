@@ -1,23 +1,17 @@
 ---
-type: "entity"
+type: "Author"
 title: "CoinUp.io 华语 (@COINUPZH)"
 description: "X/Twitter 作者 @COINUPZH。共收录 1 条 AI 精选推文。"
 tags:
   - "x-news"
   - "author"
   - "author:COINUPZH"
-timestamp: "2026-06-26T11:53:36.968Z"
+timestamp: "2026-06-27T08:40:40.178Z"
 x_handle: "COINUPZH"
 x_author_name: "CoinUp.io 华语"
 x_tweet_count: 1
 x_first_seen: "2026-03-29T00:32:51.971Z"
 x_last_seen: "2026-03-29T00:32:51.971Z"
-type_okf: "Author"
-created: "2026-03-29"
-updated: "2026-06-26"
-sha256: "cfa383dfe00222cc71534bf9f2c487b9402b9d72788bab32599dc0b5735b807a"
-sources:
-  - "/sources/news/2026-03-29/00__COINUPZH__ai智能体-交易机器人-一场关于-决策权-的范式区隔.md"
 ---
 
 # CoinUp.io 华语 (@COINUPZH)

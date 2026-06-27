@@ -1,23 +1,17 @@
 ---
-type: "entity"
+type: "Author"
 title: "BadUncle (@BadUncleX)"
 description: "X/Twitter 作者 @BadUncleX。共收录 1 条 AI 精选推文。"
 tags:
   - "x-news"
   - "author"
   - "author:BadUncleX"
-timestamp: "2026-06-26T11:53:36.950Z"
+timestamp: "2026-06-27T08:40:40.159Z"
 x_handle: "BadUncleX"
 x_author_name: "BadUncle"
 x_tweet_count: 1
 x_first_seen: "2026-03-03T01:07:04.858Z"
 x_last_seen: "2026-03-03T01:07:04.858Z"
-type_okf: "Author"
-created: "2026-03-03"
-updated: "2026-06-26"
-sha256: "b0262d27b2a396f305633adf914f9789e3b5447c7d2cd7c17b410c53999ed0ae"
-sources:
-  - "/sources/highlights/2026-03-03/00__BadUncleX__skills-toggle-claude-code-生态的-skills-减负工具-解决-token-膨胀隐患.md"
 ---
 
 # BadUncle (@BadUncleX)

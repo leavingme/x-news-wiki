@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "顶级播客主理人验证：内容创作的终极壁垒是「审美判断力」而非追热点能力"
 description: "**判断：** 接近两百万订阅的播客主理人亲口确认，内容长期留存靠的是「独特性」而非套路流量。  - 功夫在诗外：大量看韩国电影（开放式结局、无力感）内化为内容和表达的底层基因 - 套路追热点短期有效，但长期一定是审美和判断力决定留存 - 按产品经理的话说：有风格、有独特价值才有长期留存  这条推文本质上在验证一个内容创作的元规律：AI降低生产门槛后，「品味」反而成为更稀缺的壁垒。  gakki："
 resource: "https://x.com/i/status/2055091732119961661"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2055091732119961661"
-created: "2026-05-15"
-updated: "2026-06-26"
-sha256: "04708a7f95ae9d879b7dfd7720d0a64d93d4c8f4590e97148009dffc81bbcd4d"
-sources:
-  - "/sources/news/2026-05-15/00__vista8__顶级播客主理人验证-内容创作的终极壁垒是-审美判断力-而非追热点能力.md"
 ---
 
 # 顶级播客主理人验证：内容创作的终极壁垒是「审美判断力」而非追热点能力

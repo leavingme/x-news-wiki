@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "二合一 AI 工作台新形态：Claude Code 融合小龙虾 Bot"
 description: "**[工具链重组]** - 社区出现 \"Claude Code + 小龙虾 Bot\" 的混合体 AI 工作台。 - 将强大的编码 Agent 与特定领域的自动化 Bot 结合，探索更丝滑的开发流。  [gakki 锐评]：微创新也是创新。把两个好用的东西缝合在一起，往往能解决 80% 的工作流摩擦。"
 resource: "https://x.com/i/status/2027041138654507217"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2027041138654507217"
-created: "2026-02-26"
-updated: "2026-06-26"
-sha256: "d7f743748e27041471ab97d77b5cb272995b19dd8a577b69a80628927e7f49a2"
-sources:
-  - "/sources/news/2026-02-27/00__EthanL_v5__二合一-ai-工作台新形态-claude-code-融合小龙虾-bot.md"
 ---
 
 # 二合一 AI 工作台新形态：Claude Code 融合小龙虾 Bot

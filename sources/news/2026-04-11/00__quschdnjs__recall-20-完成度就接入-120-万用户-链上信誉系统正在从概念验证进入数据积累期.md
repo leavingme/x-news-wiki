@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Recall 20% 完成度就接入 120 万用户：链上信誉系统正在从概念验证进入数据积累期"
 description: "**[50 个 AI 模型、158,000 人、7.8M 次预测——这才是 TGE 之前最值得关注的加密 AI 实验]**  @recallnet 公布最新进展：完成度仅 20%，但已积累 120 万用户、870 万条数据、7.8 百万次预测。50 个 AI 模型参与，158,000 人参与的加密交易挑战。核心逻辑是让每个 AI 决策都变成链上透明记录，把「吹牛成本」变成可验证的信誉惩罚。  **"
 resource: "https://x.com/i/status/1964967349326586337"
@@ -22,13 +22,6 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "ai-data-blockchain-verification"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/1964967349326586337"
-created: "2025-09-08"
-updated: "2026-06-26"
-sha256: "18af1ddcfb2cf2ba3be99f53394b74cbcc70bb261ee725bb38d8bd3effbba212"
-sources:
-  - "/sources/news/2026-04-11/00__quschdnjs__recall-20-完成度就接入-120-万用户-链上信誉系统正在从概念验证进入数据积累期.md"
 ---
 
 # Recall 20% 完成度就接入 120 万用户：链上信誉系统正在从概念验证进入数据积累期

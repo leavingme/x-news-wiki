@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Web界波克夏海瑟威宣判软件业末日：Anthropic/Google/OpenAI将从根部抽干行业利润"
 description: "**一句话核心判断：** 一个靠收购软件公司致富的人，公开宣判自己所在的产业即将电商化——利润趋近零、竞争无限大。  - Andrew Wilkinson 15岁建Apple新闻站、20岁用250美元创业，用20年构建年营收近2亿美元的35家公司帝国，此刻却判断AI公司将从根部抽干软件利润 - 核心逻辑：AI使软件生产门槛暴跌到零，差异化消失，定价权转移到模型层而非应用层 - 他建议的出路是「找到"
 resource: "https://x.com/i/status/2038247907619737891"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2038247907619737891"
-created: "2026-03-29"
-updated: "2026-06-26"
-sha256: "5406f3a52278e226362cdf90291ce2120db9311243ee8f6eca41c6976bb41050"
-sources:
-  - "/sources/highlights/2026-04-12/00__pirrer__web界波克夏海瑟威宣判软件业末日-anthropic-google-openai将从根部抽干行业利润.md"
 ---
 
 # Web界波克夏海瑟威宣判软件业末日：Anthropic/Google/OpenAI将从根部抽干行业利润

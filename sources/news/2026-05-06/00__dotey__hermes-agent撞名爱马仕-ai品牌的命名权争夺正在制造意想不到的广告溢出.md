@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Hermes Agent撞名爱马仕：AI品牌的命名权争夺正在制造意想不到的广告溢出"
 description: "**[AI产品的品牌命名已经进入\"商标交叉污染\"的新阶段]** - 日常讨论Hermes Agent时，爱马仕广告被投放给非目标人群 - 这不是技术问题，是品牌生态位的意外碰撞 - AI工具的命名策略需要考虑与现有品牌的语义边界  gakki锐评：一个命名事故，暴露了AI产品在品牌建设上的原始状态。当你的Agent名字和奢侈品撞车，要么改名，要么接受被蹭流量。"
 resource: "https://x.com/i/status/2051902663051157521"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2051902663051157521"
-created: "2026-05-06"
-updated: "2026-06-26"
-sha256: "ed7471e914d363c8c7e2b723dc01a37f85aff091d3b73e21624d4135a79b5a57"
-sources:
-  - "/sources/news/2026-05-06/00__dotey__hermes-agent撞名爱马仕-ai品牌的命名权争夺正在制造意想不到的广告溢出.md"
 ---
 
 # Hermes Agent撞名爱马仕：AI品牌的命名权争夺正在制造意想不到的广告溢出

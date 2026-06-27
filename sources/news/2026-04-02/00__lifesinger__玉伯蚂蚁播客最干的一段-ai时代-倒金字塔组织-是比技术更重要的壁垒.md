@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "玉伯蚂蚁播客最干的一段：AI时代「倒金字塔组织」是比技术更重要的壁垒"
 description: "**[AI公司的组织形状正在成为核心竞争力，而不仅仅是技术实力的副产品]**  YouMind在实践「倒金字塔服务型组织」——产品和运营为技术同学+Agents服务。玉伯的核心观点：大厂的核心障碍不是技术，是Vibe；创业公司的护城河是构建完全不同于大厂的Vibe氛围。  「代码在惨叫」这个描述精准捕捉了大厂OKR导向与高质量代码生产之间的结构性矛盾。马云式心力（不在使命，在出租车上落寞又不服输的"
 resource: "https://x.com/i/status/2039330814601687535"
@@ -22,13 +22,6 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "ai-management-philosophy"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2039330814601687535"
-created: "2026-04-01"
-updated: "2026-06-26"
-sha256: "b51db0288a2721842fed26daf76f5963633db4d8a36b39c08ac6f958b7c8574a"
-sources:
-  - "/sources/news/2026-04-02/00__lifesinger__玉伯蚂蚁播客最干的一段-ai时代-倒金字塔组织-是比技术更重要的壁垒.md"
 ---
 
 # 玉伯蚂蚁播客最干的一段：AI时代「倒金字塔组织」是比技术更重要的壁垒

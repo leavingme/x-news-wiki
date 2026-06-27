@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "OpenSquilla用1/230的成本击败Hermes：简单任务的智能路由正在重写AI性价比公式"
 description: "**【230倍成本差距揭示的Agent生图分层策略：简单任务走廉价模型不是妥协，是工程理性】**  一次实测对比打破了直觉：OpenSquilla生图平均$0.0086/跑，Hermes Agent平均$1.98/跑——相差229.7倍。质量差距却很小（7.0 vs 7.7）。原因是OpenSquilla路由器检测到生图任务后直接路由到DeepSeek Flash，而Hermes全程用Opus 4"
 resource: "https://x.com/i/status/2055096824214823334"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2055096824214823334"
-created: "2026-05-15"
-updated: "2026-06-26"
-sha256: "1aeaac9c2c203ea39b0b4ce0efef58bc5048d6c24f463b1140167cc34e5d9457"
-sources:
-  - "/sources/news/2026-05-15/00__lxfater__opensquilla用1-230的成本击败hermes-简单任务的智能路由正在重写ai性价比公式.md"
 ---
 
 # OpenSquilla用1/230的成本击败Hermes：简单任务的智能路由正在重写AI性价比公式

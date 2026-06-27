@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "X 网页版高频迭代背后：AI Coding Agent 正在重塑产品迭代节奏"
 description: "**[X UI 频繁改版被怀疑是 Coding Agent 驱动，揭示 AI 原生开发的节奏变化]**  核心观察：yetone 发现 X 网页版 UI 改动异常频繁，怀疑设计师已开始使用 Coding Agent。这个观察的价值不在于 X 本身，而在于它揭示了一个正在发生的变化——当 AI 可以快速生成代码时，\"小步快跑\"的迭代周期从人天压缩到了小时级。  影响层面：这对传统互联网产品的迭代文化"
 resource: "https://x.com/i/status/2055717491599622380"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2055717491599622380"
-created: "2026-05-16"
-updated: "2026-06-26"
-sha256: "276c10801db673156ae7484c84b851ab243129bdb82ebe7972d3503e6284dcb6"
-sources:
-  - "/sources/news/2026-05-16/00__yetone__x-网页版高频迭代背后-ai-coding-agent-正在重塑产品迭代节奏.md"
 ---
 
 # X 网页版高频迭代背后：AI Coding Agent 正在重塑产品迭代节奏

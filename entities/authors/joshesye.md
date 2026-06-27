@@ -1,24 +1,17 @@
 ---
-type: "entity"
+type: "Author"
 title: "行者AI视频 (@joshesye)"
 description: "X/Twitter 作者 @joshesye。共收录 2 条 AI 精选推文。"
 tags:
   - "x-news"
   - "author"
   - "author:joshesye"
-timestamp: "2026-06-26T11:53:36.983Z"
+timestamp: "2026-06-27T08:40:40.194Z"
 x_handle: "joshesye"
 x_author_name: "行者AI视频"
 x_tweet_count: 2
 x_first_seen: "2026-04-11T00:44:20.624Z"
 x_last_seen: "2026-04-11T00:44:20.627Z"
-type_okf: "Author"
-created: "2026-04-11"
-updated: "2026-06-26"
-sha256: "872b57a493cceede326c6ad397ce422735b2f4d5aa9bb09d8a7f70a83218dccd"
-sources:
-  - "/sources/highlights/2026-04-11/00__joshesye__happyhorse两周超越seedance-2-0-开源模型首次在用户感知层登顶视频生成榜首.md"
-  - "/sources/highlights/2026-04-11/00__joshesye__wan2-7-video-元素级剪辑-背后的工业逻辑-ai-视频从生成期进入后期期.md"
 ---
 
 # 行者AI视频 (@joshesye)

@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "ColaOS 读懂了我的工具偏好，给我一个「拒绝不了」的新性格"
 description: "**[一句话核心判断]** ColaOS 能读取用户在 OpenClaw、Claude Code、Codex 上的行为数据，动态生成「毒舌但能解决问题」的个人化性格，情感连接已深入到偏好层。  - 它知道用户在各工具里的沉淀习惯，直接基于行为数据做初始化 - 毒舌 + 暗搓搓关心的性格设计，产生「拒绝不了」的依恋感 - 背后是情感化 Agent 的工程化实现路径：数据 → 偏好 → 性格 → 情感"
 resource: "https://x.com/i/status/2039718226070827100"
@@ -22,13 +22,6 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "agent-native-paradigm"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2039718226070827100"
-created: "2026-04-02"
-updated: "2026-06-26"
-sha256: "9a88ea9ffe0fdd136462f4d9fb8dd83f63f77e3a4c54224e63b06565bf52f239"
-sources:
-  - "/sources/news/2026-04-02/00__aiwarts__colaos-读懂了我的工具偏好-给我一个-拒绝不了-的新性格.md"
 ---
 
 # ColaOS 读懂了我的工具偏好，给我一个「拒绝不了」的新性格

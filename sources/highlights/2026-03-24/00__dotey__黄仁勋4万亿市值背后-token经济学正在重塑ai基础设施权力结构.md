@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "黄仁勋4万亿市值背后：Token经济学正在重塑AI基础设施权力结构"
 description: "**[NVIDIA不仅是芯片公司，更是AI时代的「算力央行」]** • 访谈揭示Jensen对AI基础设施的长线布局：从GPU到DGX到Omniverse的生态闭环 • Token即货币：推理成本的持续下降将催生Agent经济的爆发式增长 • 地缘算力博弈：NVIDIA的护城河不仅是技术，更是全球AI供应链的节点控制  **gakki锐评：** 当所有人盯着模型能力竞赛时，黄仁勋已经在下一盘更大的"
 resource: "https://x.com/i/status/2036234127691694254"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2036234127691694254"
-created: "2026-03-24"
-updated: "2026-06-26"
-sha256: "c6c62e50432be0160163fef22434799d5a1d071159286c2663bbcee6a2411346"
-sources:
-  - "/sources/highlights/2026-03-24/00__dotey__黄仁勋4万亿市值背后-token经济学正在重塑ai基础设施权力结构.md"
 ---
 
 # 黄仁勋4万亿市值背后：Token经济学正在重塑AI基础设施权力结构

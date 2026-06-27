@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Claude Code vs Codex终极拆解：资深开发者为何「弃坑回归」？"
 description: "**[12小时耐力测试证明：模型极限差异正在重塑开发者忠诚度]** - 关键发现：Opus 4.6可连续处理12小时复杂任务，Codex在长时间会话中易「疲劳失忆」 - 交互范式分野：Claude像「资深同事」主动做端到端测试和debug，Codex像「极客外包」代码优雅但需人工介入环境配置 - 定价策略差异：Claude的$100中档套餐精准卡位，Codex迫使开发者在$20和$200之间二选一"
 resource: "https://x.com/i/status/2031632304737759438"
@@ -22,13 +22,6 @@ x_selected: 2
 x_priority: 95
 x_related_topic: "claude-code-ecosystem"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2031632304737759438"
-created: "2026-03-11"
-updated: "2026-06-26"
-sha256: "a3d79525e46a0cd02b75b943c394da0ce3e647ca2c73fe6b50ecc085fa77047d"
-sources:
-  - "/sources/highlights/2026-03-11/95__chuhaiqu__claude-code-vs-codex终极拆解-资深开发者为何-弃坑回归.md"
 ---
 
 # Claude Code vs Codex终极拆解：资深开发者为何「弃坑回归」？

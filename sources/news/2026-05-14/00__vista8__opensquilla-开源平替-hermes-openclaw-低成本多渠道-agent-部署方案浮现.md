@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "OpenSquilla：开源平替 Hermes/OpenClaw，低成本多渠道 Agent 部署方案浮现"
 description: "**[一句话核心判断]**  向阳乔木推荐开源项目 OpenSquilla，定位为 Hermes/OpenClaw 的低成本替代品。  - 支持本地 Skills 自动扫描 + 社区/GitHub 安装 - 兼容 Anthropic、OpenAI、OpenRouter、DeepSeek、智谱等主流模型 - 覆盖 Discord、飞书、Telegram、Slack 等聊天平台 - 强调更智能省 To"
 resource: "https://x.com/i/status/2054757721241788594"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2054757721241788594"
-created: "2026-05-14"
-updated: "2026-06-26"
-sha256: "ad37cc1524f7f0dd4ead30b16c5788db4d5d7926a6317398dd520c216879bbca"
-sources:
-  - "/sources/news/2026-05-14/00__vista8__opensquilla-开源平替-hermes-openclaw-低成本多渠道-agent-部署方案浮现.md"
 ---
 
 # OpenSquilla：开源平替 Hermes/OpenClaw，低成本多渠道 Agent 部署方案浮现

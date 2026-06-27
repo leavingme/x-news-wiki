@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Grok的「11秒洞察」：AI正在重新定义链上情报挖掘的速度与深度"
 description: "**[链上情报进入秒级响应时代]** - Grok无需脚本、无需API密钥，11秒内直接给出可验证的Polymarket盈利钱包地址及完整战绩 - 8秒完成37,552笔交易的模式识别：精准卡在币安BTC波动0.11%后的9-16秒窗口，揭示硬编码策略痕迹 - ChatGPT/Gemini/Claude的「不能/不准/要授权」 vs Grok的「直接给答案」，暴露不同AI平台在实时数据权限上的根本"
 resource: "https://x.com/i/status/2031385846830821434"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 92
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2031385846830821434"
-created: "2026-03-10"
-updated: "2026-06-26"
-sha256: "cfcb93658c4a20235da5ef309aa9d340e5f8daf6c3787a5eaacf68c52ed37f92"
-sources:
-  - "/sources/news/2026-03-14/92__qkl2058__grok的-11秒洞察-ai正在重新定义链上情报挖掘的速度与深度.md"
 ---
 
 # Grok的「11秒洞察」：AI正在重新定义链上情报挖掘的速度与深度

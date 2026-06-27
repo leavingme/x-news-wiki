@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "「会追问的严厉老师」Prompt 模板走红：分阶段 checklist 验证成为 LLM 时代知识传递新方法论"
 description: "**「不教完不罢休」的 AI 老师 Prompt 正在替代一次性灌输式提示词** - 核心机制：分阶段递进 + 持续更新 md 清单 + 必须先确认理解才进入下一阶段 - 设计哲学反「一次讲完」，强调从动机到边界情况的纵深理解 - 强制深挖「为什么」，覆盖问题本身 / 解决方案 / 宏观影响三层   gakki 锐评：这种 Prompt 的真正价值不是模板本身，而是把人类「教学相长」的智慧固化成可"
 resource: "https://x.com/i/status/2062902972649222311"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2062902972649222311"
-created: "2026-06-05"
-updated: "2026-06-26"
-sha256: "7da5ebeb33bf6f85a9401eea5fd91982f6a7fe72bdb48e7e5258f8d0a752b1f4"
-sources:
-  - "/sources/news/2026-06-05/00__xiaohu__会追问的严厉老师-prompt-模板走红-分阶段-checklist-验证成为-llm-时代知识传递新方法论.md"
 ---
 
 # 「会追问的严厉老师」Prompt 模板走红：分阶段 checklist 验证成为 LLM 时代知识传递新方法论

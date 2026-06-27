@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "余温实测：Codex 插件是 Agent 时代的 App Store，不会用等于把 iPhone 拿来只打电话"
 description: "**[Codex 真正的护城河不在模型，而在插件矩阵——这才是 Agent 平台战的胜负手]**  - Chrome 插件 + Computer Use 接管所有网页与桌面操作，\"一句话甩过去\"已成默认动作 - Vercel/Supabase 等部署插件让小白在对话框里完成上线，把 Agent 工具链压缩成\"一站式对话流\" - 自动化测试、配置排查全部外抛，\"懒的状态回不去\"是 Agent 工具真"
 resource: "https://x.com/i/status/2065419806891758016"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2065419806891758016"
-created: "2026-06-12"
-updated: "2026-06-26"
-sha256: "e7795053ef66a3ebdcc31045d66f02a615b8f55ae6f304cefe6aa9cafe4575e1"
-sources:
-  - "/sources/highlights/2026-06-12/00__gkxspace__余温实测-codex-插件是-agent-时代的-app-store-不会用等于把-iphone-拿来只打电话.md"
 ---
 
 # 余温实测：Codex 插件是 Agent 时代的 App Store，不会用等于把 iPhone 拿来只打电话

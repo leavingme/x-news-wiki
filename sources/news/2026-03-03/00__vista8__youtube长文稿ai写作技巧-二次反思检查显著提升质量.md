@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "YouTube长文稿AI写作技巧：二次反思检查显著提升质量"
 description: "**向阳乔木分享实践经验：让AI对长视频转录稿进行二遍反思检查，写作质量显著提升。**  - 针对YouTube视频转录这类长文稿场景，单次生成质量不稳定 - 引入二次反思检查循环后，输出质量明显改善 - 这是「驭能工程」中过程导向可验证性的轻量化实践  gakki按：这个技巧的本质是把AI当作自己的审稿人，迭代检验优于单次精准——对内容创作者和知识工作者有直接复用价值。"
 resource: "https://x.com/i/status/2028478188024938615"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2028478188024938615"
-created: "2026-03-02"
-updated: "2026-06-26"
-sha256: "9a5c3d499578aefd733b55b5b752a8f8245cab93d445f068a372e96415a27b57"
-sources:
-  - "/sources/news/2026-03-03/00__vista8__youtube长文稿ai写作技巧-二次反思检查显著提升质量.md"
 ---
 
 # YouTube长文稿AI写作技巧：二次反思检查显著提升质量

@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Karpathy LLM Wiki 48小时5000星：置信度评分把知识库变成「会遗忘、会自愈」的活系统"
 description: "**一句话核心判断：知识库正在从「存储容器」进化为「具备主动管理能力的认知机体」，置信度评分+遗忘曲线让AI记忆首次具备可量化的生命力。**  知识分层（工作/情景/语义/程序）+ 矛盾检测 + 遗忘曲线组合，使系统能主动压低低频知识优先级，而非机械删除。BM25+向量混合检索（recall 58.2%→71.4%）证明混合架构在工程上已可落地。知识图谱支持带置信度的因果关系（\"A导致B，置信度0"
 resource: "https://x.com/i/status/2043471951134646282"
@@ -22,13 +22,6 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "personal-knowledge-management-ai"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2043471951134646282"
-created: "2026-04-12"
-updated: "2026-06-26"
-sha256: "fae5b07c4a41af91db3b52adf974578635c8342a5de86d5f1544554a2e8178d6"
-sources:
-  - "/sources/highlights/2026-04-14/00__berryxia__karpathy-llm-wiki-48小时5000星-置信度评分把知识库变成-会遗忘-会自愈-的活系统.md"
 ---
 
 # Karpathy LLM Wiki 48小时5000星：置信度评分把知识库变成「会遗忘、会自愈」的活系统

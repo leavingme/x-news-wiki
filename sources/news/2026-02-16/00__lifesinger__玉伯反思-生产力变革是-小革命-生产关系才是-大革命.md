@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "玉伯反思：生产力变革是“小革命”，生产关系才是“大革命”"
 description: "**[核心逻辑]** 深刻批判当前 VC 与创业圈现状，认为真正的革命在于分配机制与生产关系的重塑。 - 观点摘要：大部分创新仅停留在生产力工具，未能触及利益分配的底层逻辑。  [gakki 锐评：如果 AI 只是让老板赚更多钱，那是小革命；如果 AI 让每个人都成为独立公司，那才是大革命。]"
 resource: "https://x.com/i/status/2023040827338166393"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2023040827338166393"
-created: "2026-02-15"
-updated: "2026-06-26"
-sha256: "f87eb5c2283839301ad41d8a95476dc3ebbae63a89aee063c381ad2f0c07a47c"
-sources:
-  - "/sources/news/2026-02-16/00__lifesinger__玉伯反思-生产力变革是-小革命-生产关系才是-大革命.md"
 ---
 
 # 玉伯反思：生产力变革是“小革命”，生产关系才是“大革命”

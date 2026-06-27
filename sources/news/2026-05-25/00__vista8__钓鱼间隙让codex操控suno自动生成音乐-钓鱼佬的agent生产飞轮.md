@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "钓鱼间隙让Codex操控Suno自动生成音乐：钓鱼佬的Agent生产飞轮"
 description: "**[一句话核心判断]**  ChatGPT远程调用Codex的能力正在重塑「永远在线电脑」的价值——连Mac mini都面临存在性焦虑。  **信息增量：** - 远程Codex+Suno构建了一个「钓鱼间隙自动产乐」的生产飞轮，说明Agent已从工具进化为异步执行层 - 合上笔记本仍能用，物理硬件的「常开机」属性正在被云端Agent化解构  **影响：** - 个人服务器、Mac mini这类"
 resource: "https://x.com/i/status/2058718778754838693"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2058718778754838693"
-created: "2026-05-25"
-updated: "2026-06-26"
-sha256: "1cc14b02094fd568720e4f1b84892e52116ed4dbc1a070b8ed9abd8bb6f11852"
-sources:
-  - "/sources/news/2026-05-25/00__vista8__钓鱼间隙让codex操控suno自动生成音乐-钓鱼佬的agent生产飞轮.md"
 ---
 
 # 钓鱼间隙让Codex操控Suno自动生成音乐：钓鱼佬的Agent生产飞轮

@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "AI 数字人「命理分析」7 天 0→1 万粉，但账号全封：AI 内容工业化的算账时刻"
 description: "**[AI 数字人 + 垂直需求的工业化生产链路首次被完整曝光]**  - 生产链路：文案/图片 AI 改写 → F5TTS + Qwen3 声音克隆 → 数字人批量出镜 → 剪映剪辑 → 小红书引流微信；成本极低、可批量化复制。 - 经济账：单月变现 3.7 万元，但代价是视频号限流封禁、小红书账号被封，验证「灰产套利窗口」正被平台 AI 检测能力快速关闭。 - 真正价值：把「AI + 单一垂直"
 resource: "https://x.com/i/status/2059119836366553272"
@@ -22,13 +22,6 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "ai-content-entrepreneurship"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2059119836366553272"
-created: "2026-05-26"
-updated: "2026-06-26"
-sha256: "d5522759d39515c2ff77ef05473fbef7b0ae8c459e7382bc052acf374e21c372"
-sources:
-  - "/sources/news/2026-06-24/00__ai_xiaomu__ai-数字人-命理分析-7-天-0-1-万粉-但账号全封-ai-内容工业化的算账时刻.md"
 ---
 
 # AI 数字人「命理分析」7 天 0→1 万粉，但账号全封：AI 内容工业化的算账时刻

@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "GenLayer 让「主观判断」上链：Rally 内容质量评估突破区块链的确定性地狱"
 description: "**一句话核心判断：** Rally 没有选择简单规则系统或人工评分，而是借助 GenLayer 的主观 AI 验证节点，实现创作者内容的去中心化质量评估——这是链上第一次真正处理「不可量化的价值判断」。  **信息增量：** - 区块链只能验证确定性结果，内容质量（理解深度、表达意图）天然是主观的 - GenLayer 的解法：多个 AI 验证节点独立理解内容，对质量达成链上共识，无需中心化团队"
 resource: "https://x.com/i/status/2028423899583799720"
@@ -22,13 +22,6 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "ai-data-blockchain-verification"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2028423899583799720"
-created: "2026-03-02"
-updated: "2026-06-26"
-sha256: "c0982c441fce5ae4c3095dfd7c06ba778b2202f406f6188d2cc2cf2a1fdde353"
-sources:
-  - "/sources/highlights/2026-04-02/00__Xmas_666__genlayer-让-主观判断-上链-rally-内容质量评估突破区块链的确定性地狱.md"
 ---
 
 # GenLayer 让「主观判断」上链：Rally 内容质量评估突破区块链的确定性地狱

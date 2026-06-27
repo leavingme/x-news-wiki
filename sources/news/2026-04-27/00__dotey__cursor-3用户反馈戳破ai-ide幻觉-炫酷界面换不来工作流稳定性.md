@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Cursor 3用户反馈戳破AI IDE幻觉：炫酷界面换不来工作流稳定性"
 description: "**核心判断：AI编程工具的核心矛盾不是功能多少，而是工作流稳定性的信任危机。**  • 用户真正想要的不是更炫的IDE，而是一套能把Agent、IDE、Git、浏览器、终端、模型选择和团队协作串联成「一条稳定工作流」的基础设施——不是在多模式之间反复横跳 • Agent Window方向正确，但用户拒绝以牺牲LSP、调试、任务运行、快捷键、代码跳转等核心IDE能力为代价；真正的理想形态是Agen"
 resource: "https://x.com/i/status/2048839926679056613"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2048839926679056613"
-created: "2026-04-27"
-updated: "2026-06-26"
-sha256: "071a8322fbe263fd8b96b3b78fb63aa1acfc08fbdf0e792bf51ce58e571305d1"
-sources:
-  - "/sources/news/2026-04-27/00__dotey__cursor-3用户反馈戳破ai-ide幻觉-炫酷界面换不来工作流稳定性.md"
 ---
 
 # Cursor 3用户反馈戳破AI IDE幻觉：炫酷界面换不来工作流稳定性

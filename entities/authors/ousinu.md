@@ -1,23 +1,17 @@
 ---
-type: "entity"
+type: "Author"
 title: "ousinu (@ousinu)"
 description: "X/Twitter 作者 @ousinu。共收录 1 条 AI 精选推文。"
 tags:
   - "x-news"
   - "author"
   - "author:ousinu"
-timestamp: "2026-06-26T11:53:36.946Z"
+timestamp: "2026-06-27T08:40:40.155Z"
 x_handle: "ousinu"
 x_author_name: "ousinu"
 x_tweet_count: 1
 x_first_seen: "2026-02-27T01:00:44.638Z"
 x_last_seen: "2026-02-27T01:00:44.638Z"
-type_okf: "Author"
-created: "2026-02-27"
-updated: "2026-06-26"
-sha256: "e7edc6cddfb73944d71c69c89ff6d2313f3ad3fbef3fdb03a5036f245e9b206c"
-sources:
-  - "/sources/news/2026-02-27/00__ousinu__面试防线崩溃-codex-与-claude-code-五分钟秒杀传统面试题.md"
 ---
 
 # ousinu (@ousinu)

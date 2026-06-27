@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Claude Code「百万上下文智商税」？用户实测：200K反而更聪明"
 description: "**[核心判断]：长上下文≠高智能，模型能力与上下文长度存在非线性关系，厂商的「参数竞赛」叙事正在遭遇真实场景的反噬。**  • 用户体感反差：100万上下文的Claude Code被反馈「变傻了」，不如200K版本聪明，说明长上下文架构可能伴随注意力稀释或推理深度折损 • 产品化悖论：Anthropic将Opus百万上下文免费开放本是对标OpenAI的差异化策略，但实际体验落差可能损害品牌认知 "
 resource: "https://x.com/i/status/2034504453378977874"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2034504453378977874"
-created: "2026-03-19"
-updated: "2026-06-26"
-sha256: "7ee09b7cde1a21d90f78ae7e0b3ad5438fbbeb2a109480efe225293941a5c9a4"
-sources:
-  - "/sources/highlights/2026-03-19/00__xiaohu__claude-code-百万上下文智商税-用户实测-200k反而更聪明.md"
 ---
 
 # Claude Code「百万上下文智商税」？用户实测：200K反而更聪明

@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "GitHub 墙内访问障碍正在重塑开源项目的分发逻辑"
 description: "**[开源项目的本地化分发困境正在形成]**  开源项目依赖 GitHub 的逻辑正在遭遇地理性断裂。有用户指出墙内访问 GitHub 的不便，导致开源项目在墙内开发者群体中的渗透率被系统性低估。  这一问题的本质不是技术问题，而是基础设施选择的地缘政治税。  gakki：GitHub 的开源霸主地位依赖假设全球网络无障碍连通——这个假设在 2026 年已经不再成立。当分发渠道本身成为瓶颈，开源项"
 resource: "https://x.com/i/status/2056741684751515817"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2056741684751515817"
-created: "2026-05-19"
-updated: "2026-06-26"
-sha256: "339de3168945d48d0ab1c62446e92270d010be180d523bcb6a93acb5c7ee1d21"
-sources:
-  - "/sources/news/2026-05-19/00__vista8__github-墙内访问障碍正在重塑开源项目的分发逻辑.md"
 ---
 
 # GitHub 墙内访问障碍正在重塑开源项目的分发逻辑

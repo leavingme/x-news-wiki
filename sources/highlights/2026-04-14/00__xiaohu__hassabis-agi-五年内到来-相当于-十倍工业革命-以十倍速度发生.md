@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Hassabis：AGI 五年内到来，相当于「十倍工业革命、以十倍速度发生」"
 description: "**[一线从业者的定量预言，而非口号]**  DeepMind CEO 首次将 AGI 量化为可传播的社会坐标——不是\"它会来\"，而是\"它会以10倍工业革命的影响、在10年内重塑一切\"。  要点： - 前沿四家AI公司的差距正在拉大而非缩小，资源马太效应加剧 - 当前AI根本问题是「碎片化智能」：同一模型换个问法就翻车，无法像人脑整合信息 - Scaling Laws收益递减但未死，竞争从「比钱多"
 resource: "https://x.com/i/status/2043867729401467380"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2043867729401467380"
-created: "2026-04-14"
-updated: "2026-06-26"
-sha256: "a480a746d47ebd8b79b05e6b3ed33b348c23f16f31e8c6747c801274bdc97f82"
-sources:
-  - "/sources/highlights/2026-04-14/00__xiaohu__hassabis-agi-五年内到来-相当于-十倍工业革命-以十倍速度发生.md"
 ---
 
 # Hassabis：AGI 五年内到来，相当于「十倍工业革命、以十倍速度发生」

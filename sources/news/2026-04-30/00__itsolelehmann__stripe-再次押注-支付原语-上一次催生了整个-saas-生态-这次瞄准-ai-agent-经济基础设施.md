@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Stripe 再次押注「支付原语」：上一次催生了整个 SaaS 生态，这次瞄准 AI Agent 经济基础设施"
 description: "**Stripe 正在发布一个新的支付基础设施原语，被类比为当年 Payments API 催生 Shopify/Substack 级别的生态变革。**  - 上一次 Stripe 的支付 API 简化直接催生了现代 SaaS 经济——Shopify、Substack、Gumroad 都建立在之上 - 新原语的具体形态未披露，但从上下文推测可能涉及 Agent 自主支付、微支付或 API 级别的资"
 resource: "https://x.com/itsolelehmann/status/2049911241003430055"
@@ -22,13 +22,6 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "ai-agent-crypto-infra"
 x_source: "ai-trend-digest"
-type_okf: "X Tweet"
-source_url: "https://x.com/itsolelehmann/status/2049911241003430055"
-created: "2026-04-30"
-updated: "2026-06-26"
-sha256: "05fcc0ec485896b26adfae7cf7968640a4be3e54aa435a9dd523febcf15f5011"
-sources:
-  - "/sources/news/2026-04-30/00__itsolelehmann__stripe-再次押注-支付原语-上一次催生了整个-saas-生态-这次瞄准-ai-agent-经济基础设施.md"
 ---
 
 # Stripe 再次押注「支付原语」：上一次催生了整个 SaaS 生态，这次瞄准 AI Agent 经济基础设施

@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "谷歌 Project Genie：虚拟世界的 AI 代理革命"
 description: "**谷歌发布灵境计划，支持用户通过 AI 交互式创建虚拟世界，直接冲击了 Unity、Roblox 等传统游戏引擎的估值逻辑。** - **SaaS 杀手**：随着 Agent 普及，传统通过繁琐 UI 实现功能的软件会被“对话即界面”的 Agent 彻底替代。 - **被误杀的安全股**：分析认为市场对 SaaS 的无差别杀跌可能误伤了安全类软件，Agent 越普及，安全反而越是硬需求。  **"
 resource: "https://x.com/i/status/2017528068324397416"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2017528068324397416"
-created: "2026-01-31"
-updated: "2026-06-26"
-sha256: "225ffb0a06bf7c8ccaeb8ceec117888bac272a6be06b68f3ee88f90afbd2ca34"
-sources:
-  - "/sources/news/2026-01-31/00__qinbafrank__谷歌-project-genie-虚拟世界的-ai-代理革命.md"
 ---
 
 # 谷歌 Project Genie：虚拟世界的 AI 代理革命

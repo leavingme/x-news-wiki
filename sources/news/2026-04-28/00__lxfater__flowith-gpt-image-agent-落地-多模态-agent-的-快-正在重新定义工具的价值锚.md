@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Flowith GPT Image Agent 落地：多模态 Agent 的「快」正在重新定义工具的价值锚"
 description: "**[一句话核心判断]**   Flowith 推出基于 GPT Image 的生图 Agent，演示显示生成速度极快，是多模态 Agent 从展示层进入实用层的具体信号。  **要点：** - 「真快呀」是用户视角的原始反馈，比任何官方 benchmark 更有传播说服力 - 生图 Agent 是多模态工具链中最接近「即得即用」的场景，Flowith 选择从这个切口落地符合 Agent 产品的最"
 resource: "https://x.com/i/status/2049119209502670864"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2049119209502670864"
-created: "2026-04-28"
-updated: "2026-06-26"
-sha256: "bd00ad444a8c745058f12421d91184ac9ddd671c8afeec2865ce940d0c83e1ac"
-sources:
-  - "/sources/news/2026-04-28/00__lxfater__flowith-gpt-image-agent-落地-多模态-agent-的-快-正在重新定义工具的价值锚.md"
 ---
 
 # Flowith GPT Image Agent 落地：多模态 Agent 的「快」正在重新定义工具的价值锚

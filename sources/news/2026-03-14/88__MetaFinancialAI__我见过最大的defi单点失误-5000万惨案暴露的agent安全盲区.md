@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "「我见过最大的DeFi单点失误」：$5000万惨案暴露的Agent安全盲区"
 description: "**[巨鲸的「手动悲剧」恰恰证明Agent自动化的刚需]** - 用户通过Aave界面手动兑换$50M USDT→AAVE，仅获$36,100价值资产，$49.96M永久损失 - 巨鲸熟悉CeFi保护机制，却在DeFi失去「护栏」——人为确认环节越多，大额失误风险越高 - 该案揭示：DeFi并非不够智能，而是「人机交互层」的安全设计远未跟上资金规模的增长  **gakki 锐评：** 当$5000"
 resource: "https://x.com/i/status/2032528187716948211"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 88
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2032528187716948211"
-created: "2026-03-13"
-updated: "2026-06-26"
-sha256: "9aae67656392b7814e28346ceffb74f522ad52b0cf86e472e9fd8c018e514cda"
-sources:
-  - "/sources/news/2026-03-14/88__MetaFinancialAI__我见过最大的defi单点失误-5000万惨案暴露的agent安全盲区.md"
 ---
 
 # 「我见过最大的DeFi单点失误」：$5000万惨案暴露的Agent安全盲区

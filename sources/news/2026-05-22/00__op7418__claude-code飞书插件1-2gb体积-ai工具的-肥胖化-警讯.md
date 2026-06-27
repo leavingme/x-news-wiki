@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Claude Code飞书插件1.2GB体积：AI工具的「肥胖化」警讯"
 description: "**[一个飞书插件装1.2GB，AI工具正在重蹈软件肥胖症覆辙]**  這個投訴背後的問題很真實：當Claude Code連接飛書需要承載1.2GB的安裝包，說明「把本地能力對接到平台」的成本正在失控。對比十年前的瀏覽器插件不過幾MB，這不是技術進步，是架構債務的累積。  gakki：1.2GB不是簡單的「塞了太多東西」，而是AI工具在平台適配過程中的橋接層越疊越厚。這個問題不會消失——每多接入一"
 resource: "https://x.com/i/status/2057739347374604393"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2057739347374604393"
-created: "2026-05-22"
-updated: "2026-06-26"
-sha256: "6578f956fb25cf96dc80ddaaaff3c342ae303a3d8a5bd90b37ef6e4b903d8d71"
-sources:
-  - "/sources/news/2026-05-22/00__op7418__claude-code飞书插件1-2gb体积-ai工具的-肥胖化-警讯.md"
 ---
 
 # Claude Code飞书插件1.2GB体积：AI工具的「肥胖化」警讯

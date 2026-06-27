@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "OSCAR：Together/悉大/UIUC联手把 KV Cache压到2-bit，长上下文推理成本悬崖式下降"
 description: "**超低位宽 KV缓存量化的关键障碍被 OSCAR解决：在 Qwen3/GLM-4（最大358B）上2-bit量化相对 BF16 仅掉1–4 分精度。**  -核心方法：离线、注意力感知的协方差分析，预先设计固定旋转矩阵与裁剪阈值，让压缩后的 KV 与 attention真实需求对齐。 -价值：避开 naive旋转导致的精度崩塌，等于把百万级上下文推理的显存与带宽门槛拉低一个数量级。 -配合近期 "
 resource: "https://x.com/i/status/2064412964908667052"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2064412964908667052"
-created: "2026-06-09"
-updated: "2026-06-26"
-sha256: "b6494b093cabde0d4b6990d742fb0399d2ec3b0f12a59c9ec48ababc9f7306db"
-sources:
-  - "/sources/highlights/2026-06-09/00__jiqizhixin__oscar-together-悉大-uiuc联手把-kv-cache压到2-bit-长上下文推理成本悬崖式下降.md"
 ---
 
 # OSCAR：Together/悉大/UIUC联手把 KV Cache压到2-bit，长上下文推理成本悬崖式下降

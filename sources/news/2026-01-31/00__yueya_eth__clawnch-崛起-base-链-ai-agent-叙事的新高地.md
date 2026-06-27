@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "$CLAWNCH 崛起：Base 链 AI Agent 叙事的新高地"
 description: "**Base 官方定调 AI Agent 主场，首个由纯 AI 代理自主发射、自主经营的 Token 平台 CLAWNCH 引发市场狂热关注。** - **主场之利**：Base 创始人 Jesse Pollak 亲自点名支持，强调 Base 已成为 AI Agent 的事实主场与经济底座。 - **范式转移**：不同于人发币，CLAWNCH 实现了 AI 代理为自己建立基础设施，标志着 AI 链"
 resource: "https://x.com/i/status/2017582516878905744"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2017582516878905744"
-created: "2026-01-31"
-updated: "2026-06-26"
-sha256: "4c68ab2738765aebc3e137cb0130bb7a12828b369e4a434804c96bb557636ca9"
-sources:
-  - "/sources/news/2026-01-31/00__yueya_eth__clawnch-崛起-base-链-ai-agent-叙事的新高地.md"
 ---
 
 # $CLAWNCH 崛起：Base 链 AI Agent 叙事的新高地

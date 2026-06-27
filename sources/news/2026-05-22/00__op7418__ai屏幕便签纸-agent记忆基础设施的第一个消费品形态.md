@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "AI屏幕便签纸：Agent记忆基础设施的第一个消费品形态"
 description: "**[墨水屏成为Agent输出终端，记忆推拉范式初现]**  歸藏团队开源了一个AI屏幕便签纸Skill，让AI根据用户状态和记忆主动推送内容到墨水屏上，16种widget自由组合、瞥一眼就够。核心变化是：Agent的输出不再只靠对话，而是「Push到物理界面」。这意味着记忆不再是检索用的仓库，而成为实时影响注意力的基础设施。  2-1-1布局拆4槽位，支持十几种常见组件。瞥一眼就够的交互设计，恰"
 resource: "https://x.com/i/status/2057778107617292310"
@@ -22,13 +22,6 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "agent-memory-optimization"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2057778107617292310"
-created: "2026-05-22"
-updated: "2026-06-26"
-sha256: "03cafe874471cd26eeb75792685e0c18d466126381ceaa28bbd839de4759e0ad"
-sources:
-  - "/sources/news/2026-05-22/00__op7418__ai屏幕便签纸-agent记忆基础设施的第一个消费品形态.md"
 ---
 
 # AI屏幕便签纸：Agent记忆基础设施的第一个消费品形态

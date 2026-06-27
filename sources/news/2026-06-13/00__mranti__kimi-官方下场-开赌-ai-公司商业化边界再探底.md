@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Kimi 官方下场「开赌」？AI 公司商业化边界再探底"
 description: "Kimi（月之暗面）官方被知名媒体人 Michael Anti 拍到推出与「博彩/预测」相关的功能，国内大模型 C 端产品在变现路径上的又一次边界试探。  • 「开赌」语义模糊——既可能指向 Polymarket 式预测市场，也可能是合规擦边的趣味玩法 • Kimi 此前已上线广告、信息流等变现手段，博彩/预测类意味着商业化压力进一步传导 • 若为预测市场，将与 Polymarket、Kalshi"
 resource: "https://x.com/i/status/2065624552336732559"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2065624552336732559"
-created: "2026-06-13"
-updated: "2026-06-26"
-sha256: "aac2ee9f452cf3061e83300ed9cf1c705d681e7ea410c4cab011f54827ad5dcc"
-sources:
-  - "/sources/news/2026-06-13/00__mranti__kimi-官方下场-开赌-ai-公司商业化边界再探底.md"
 ---
 
 # Kimi 官方下场「开赌」？AI 公司商业化边界再探底

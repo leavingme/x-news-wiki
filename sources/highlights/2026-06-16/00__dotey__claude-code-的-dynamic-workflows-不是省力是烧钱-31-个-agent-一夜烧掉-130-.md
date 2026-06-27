@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Claude Code 的 dynamic workflows 不是省力是烧钱：31 个 Agent 一夜烧掉 130 万 Token"
 description: "**[一句话核心判断]** Claude Code 的多 Agent 编排默认展开正在把 Pro 订阅当 API 用，\"自动化\"反而成了算力黑洞。  - 一次简单任务：几分钟内拉起 31 个 Agents，消耗 1.3M Tokens - 周 Token 用量从 11% 飙到 20%（Pro @ 20x 套餐），按比例推算一个月就被这一类工作流打穿 - 宝玉的选择是手动降速：宁可慢，也不要把\"模型"
 resource: "https://x.com/i/status/2066777376399245356"
@@ -22,13 +22,6 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "claude-api-token-amplification"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2066777376399245356"
-created: "2026-06-16"
-updated: "2026-06-26"
-sha256: "cc08b0e49647f4370341331e47dbfe2326d33e605516b3886ce4eaa80ef5c8fc"
-sources:
-  - "/sources/highlights/2026-06-16/00__dotey__claude-code-的-dynamic-workflows-不是省力是烧钱-31-个-agent-一夜烧掉-130-.md"
 ---
 
 # Claude Code 的 dynamic workflows 不是省力是烧钱：31 个 Agent 一夜烧掉 130 万 Token

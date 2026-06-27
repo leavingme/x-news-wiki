@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "代码仍是最高效的自然语言：响马对Vibe Coding的冷静反叛"
 description: "**[代码作为沟通媒介的效率在某些场景下仍优于自然语言]** • 当设计意图复杂时，向AI解释并确保其正确理解的沟通成本，可能超过直接编写代码本身 • 这揭示了当前AI编程的隐性摩擦：自然语言并非在所有场景下都是最优接口 • 对「自然语言将取代代码」的激进叙事构成重要制衡  **gakki锐评**：Vibe Coding的边界正在显现——当问题复杂度超过某个阈值，人类直接编码仍是更可靠的「压缩表达"
 resource: "https://x.com/i/status/2035217427865440307"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2035217427865440307"
-created: "2026-03-21"
-updated: "2026-06-26"
-sha256: "154b2b4af0f1b5020a8e9e3b2e23854b8b6164a1c7a42ad6e7c4bfc31a6bfae3"
-sources:
-  - "/sources/highlights/2026-03-21/00__xicilion__代码仍是最高效的自然语言-响马对vibe-coding的冷静反叛.md"
 ---
 
 # 代码仍是最高效的自然语言：响马对Vibe Coding的冷静反叛

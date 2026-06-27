@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "OpenClaw vs Claude：一场「民间创新」与「大厂收编」的Agent入口争夺战"
 description: "**[时间线揭露平台层战略博弈的本质]** • OpenClaw从爆火到创始人被OpenAI收编，再到Anthropic连发Cowork、Dispatch、Channels三件套，实质是Agent入口控制权的争夺 • Claude Code Channels的Telegram/Discord集成，标志着官方正式认可「聊天App作为Agent指挥界面」的范式 • 开源创新者的窗口期正在缩短——民间验"
 resource: "https://x.com/i/status/2035853016541344231"
@@ -22,13 +22,6 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "agent-multi-platform"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2035853016541344231"
-created: "2026-03-22"
-updated: "2026-06-26"
-sha256: "1c4c1557f2b0b5325dbab7703ed93ba174ec7eab082f264afddb136d3cee5bfe"
-sources:
-  - "/sources/highlights/2026-03-23/00__vista8__openclaw-vs-claude-一场-民间创新-与-大厂收编-的agent入口争夺战.md"
 ---
 
 # OpenClaw vs Claude：一场「民间创新」与「大厂收编」的Agent入口争夺战

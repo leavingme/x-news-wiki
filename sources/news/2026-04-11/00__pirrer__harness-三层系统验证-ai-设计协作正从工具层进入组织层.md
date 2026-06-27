@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "「Harness」三层系统验证：AI 设计协作正从工具层进入组织层"
 description: "**一句话核心判断：AI 设计工具的价值不在于替代设计师，而在于将设计判断标准封装成可复用的技能单元。**  - 工程师 Neethan Wu 用三个月从设计空白到每周交付可上线成品，关键在于 Skills 层（Impeccable 等）封装了资深设计师的判断标准 - 第二层工具执行层 + 第三层验证层构成完整的设计交付闭环，验证了 Skills as Team 的可操作性 - jQuery 作者"
 resource: "https://x.com/i/status/2034872129108464100"
@@ -22,13 +22,6 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "skills-ecosystem-standards"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2034872129108464100"
-created: "2026-03-20"
-updated: "2026-06-26"
-sha256: "bc5f84fcda920b696b745608dedad4f93d0759fff9626d56949d8c81c5a94e4d"
-sources:
-  - "/sources/news/2026-04-11/00__pirrer__harness-三层系统验证-ai-设计协作正从工具层进入组织层.md"
 ---
 
 # 「Harness」三层系统验证：AI 设计协作正从工具层进入组织层

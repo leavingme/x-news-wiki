@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "seo-audit Skill：让 AI 给网站做体检，3 分钟发现 SEO 基础问题"
 description: "**一句话核心判断：** Skill 市集正在从「工具囤积」向「可执行工作流」迁移，seo-audit 是个看得见摸得着的案例。  **信息增量：** - 安装方式：`npx skills add` 直接拉取远程 Skill，门槛极低 - 分析范围覆盖：Sitemap、301 重定向、noindex、canonical 标签等基础问题 - 报告质量被验证可用于真实客户网站，而非概念演示  **ga"
 resource: "https://x.com/i/status/2056608193661534455"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2056608193661534455"
-created: "2026-05-19"
-updated: "2026-06-26"
-sha256: "18ee09c246ac607a696ac07c04a8f65b4151736318c549bdc286c39a880af6da"
-sources:
-  - "/sources/news/2026-05-19/00__vista8__seo-audit-skill-让-ai-给网站做体检-3-分钟发现-seo-基础问题.md"
 ---
 
 # seo-audit Skill：让 AI 给网站做体检，3 分钟发现 SEO 基础问题

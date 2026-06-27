@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "ChatGPT 手机版内嵌 Codex：AI 编程从桌面端彻底解绑，远程批准危险操作成为现实"
 description: "**一句话核心判断：** Codex 以内嵌方式进入 ChatGPT 手机端，而非独立 App——这个选择本身说明 OpenAI 把「远程盯住 Agent 执行」做成了标准交互协议。  **信息增量：** - 移动端不只是「查看」，还能直接批准危险操作、切换模型、新建任务——手机变成了 Agent 的驾驶舱。 - 不再需要独立 App，存量 ChatGPT 用户零摩擦上手，OpenAI 的分发优势"
 resource: "https://x.com/i/status/2055064820408614969"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2055064820408614969"
-created: "2026-05-14"
-updated: "2026-06-26"
-sha256: "8f0289d859bc7d03eaa52afe095fd2ca9186a93d1119796208284911ed7e371e"
-sources:
-  - "/sources/news/2026-05-15/00__xiaohu__chatgpt-手机版内嵌-codex-ai-编程从桌面端彻底解绑-远程批准危险操作成为现实.md"
 ---
 
 # ChatGPT 手机版内嵌 Codex：AI 编程从桌面端彻底解绑，远程批准危险操作成为现实

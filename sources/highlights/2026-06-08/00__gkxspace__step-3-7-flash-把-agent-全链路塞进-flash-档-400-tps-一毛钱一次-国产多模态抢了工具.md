@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Step 3.7 Flash 把 Agent 全链路塞进 Flash 档：400 TPS + 一毛钱一次，国产多模态抢了工具编排的活"
 description: "**StepFun 的 Flash 模型把多模态、搜索、推理三件套内聚到一个端到端流程，速度和成本同时击穿——Agent 编排护城河被原生模型吃掉了第一块。**  - **速度**：400 TPS 输出，号称比 DeepSeek-V4 Flash 快 2 倍以上，且是 Flash 档位而非满血模型。 - **一体化**：截图读图 → 自动生成搜索 query → 视觉提取 + 检索综合 → 结构化"
 resource: "https://x.com/i/status/2063947036945154493"
@@ -22,13 +22,6 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "domestic-model-benchmark-performance"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2063947036945154493"
-created: "2026-06-08"
-updated: "2026-06-26"
-sha256: "091a8166647aaca62adb56c8c4103774786f33c73e98ed409398b9e795c50665"
-sources:
-  - "/sources/highlights/2026-06-08/00__gkxspace__step-3-7-flash-把-agent-全链路塞进-flash-档-400-tps-一毛钱一次-国产多模态抢了工具.md"
 ---
 
 # Step 3.7 Flash 把 Agent 全链路塞进 Flash 档：400 TPS + 一毛钱一次，国产多模态抢了工具编排的活

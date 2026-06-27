@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Michael Anti 硬刚 Dario：一线开发者对\"末日营销\"的反扑，AI 公司卖的是产品不是神谕"
 description: "**[核心判断]** 一线开发者对 Dario 的\"末日营销\"反弹强烈：科学进步带来的问题应想办法解决，AI 公司卖的是产品而不是神谕。  - 中国开发者视角：科技出现的问题\"想办法解决\"而非\"被恐惧主导\" - 对 Dario 拉白宫站台营销的批评：底线是不把\"科学叙事\"当成产品包装 - 对\"恐惧营销\"模式的警惕：AGI 风险的\"吓唬人\"叙事与产品交付能力正在脱节  gakki 锐评：这是 202"
 resource: "https://x.com/i/status/2065971524583178246"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2065971524583178246"
-created: "2026-06-14"
-updated: "2026-06-26"
-sha256: "cf4b09577224320f5d933a2a211bb18a11be8f7d9358b4ea5e0c53c69b8c8b6f"
-sources:
-  - "/sources/news/2026-06-14/00__mranti__michael-anti-硬刚-dario-一线开发者对-末日营销-的反扑-ai-公司卖的是产品不是神谕.md"
 ---
 
 # Michael Anti 硬刚 Dario：一线开发者对"末日营销"的反扑，AI 公司卖的是产品不是神谕

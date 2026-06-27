@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "yetone 实锤修复 BYOA Agent Bug：OpenClaw 生态的工具链可靠性正在被验证"
 description: "**[ yetone 修复 BYOA Agent bug，说明 OpenClaw 生态已进入实用性修复阶段]**  - BYOA（Build Your Own Agent）作为 OpenClaw 生态的核心概念，bug 修复速度是生态成熟度的直接指标 - 此次修复由核心贡献者主动发起，说明社区活跃度支撑着工具链的可用性 - 对比其他开源 Agent 项目，OpenClaw 的维护响应速度值得关注 "
 resource: "https://x.com/i/status/2059883600179499019"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2059883600179499019"
-created: "2026-05-28"
-updated: "2026-06-26"
-sha256: "0b677a7417f3c97470a39d1cefc0e9767e79065ff5f93dd967174c4488f87206"
-sources:
-  - "/sources/news/2026-05-28/00__yetone__yetone-实锤修复-byoa-agent-bug-openclaw-生态的工具链可靠性正在被验证.md"
 ---
 
 # yetone 实锤修复 BYOA Agent Bug：OpenClaw 生态的工具链可靠性正在被验证

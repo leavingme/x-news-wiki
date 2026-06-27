@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "十年设计经验压缩成一个Skill文件：AI幻灯片进入「杂志排版」时代"
 description: "**一句话核心判断**：做PPT的Skill终于开始把「审美」当成核心壁垒，而非功能。  后续要点： - 该Claude Skill先通过6个问题访谈受众、时长、素材、图片、风格，再规划节奏后生成，流程本身即专业设计方法论的压缩 - 内置10种编辑级版式（封面、大数字、引用线、流程对比、Before/After等），跳脱PowerPoint模板逻辑 - 5套精选主题包，强调「AI生成的内容不该看起"
 resource: "https://x.com/i/status/2047531739581763957"
@@ -22,13 +22,6 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "skills-ecosystem-standards"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2047531739581763957"
-created: "2026-04-24"
-updated: "2026-06-26"
-sha256: "2cde9a1773fca36576410bc9472dc425b7bfae28fd77480cec146a15de08519c"
-sources:
-  - "/sources/highlights/2026-04-24/00__op7418__十年设计经验压缩成一个skill文件-ai幻灯片进入-杂志排版-时代.md"
 ---
 
 # 十年设计经验压缩成一个Skill文件：AI幻灯片进入「杂志排版」时代

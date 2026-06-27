@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "角色扮演是上下文分治：持久Agent正在接管人类的宏大上下文管理负担"
 description: "**[一句话核心判断]**  Multi Agent 的角色扮演不是过家家，而是应对项目上下文臃肿的工程解法。  **信息增量：** - 企业 IM（钉钉/飞书）几十年团队协作最佳实践将被 Agent 继承，而非被颠覆 - 角色扮演的深层收益是上下文分治：随项目演进，上下文膨胀不可逆，有角色的持久 Agent 本质是代替人类承担宏大上下文的管理负担 - 轻角色暴露的 Agent Crew 路线被证"
 resource: "https://x.com/i/status/2056644433089892834"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2056644433089892834"
-created: "2026-05-19"
-updated: "2026-06-26"
-sha256: "c1f1547a151fda1cc0f28d9966f9b2b28bbbfc11630b9da8432ab7a6d363b892"
-sources:
-  - "/sources/news/2026-05-19/00__yetone__角色扮演是上下文分治-持久agent正在接管人类的宏大上下文管理负担.md"
 ---
 
 # 角色扮演是上下文分治：持久Agent正在接管人类的宏大上下文管理负担

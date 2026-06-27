@@ -1,23 +1,17 @@
 ---
-type: "entity"
+type: "Author"
 title: "Axton (@AxtonLiu)"
 description: "X/Twitter 作者 @AxtonLiu。共收录 1 条 AI 精选推文。"
 tags:
   - "x-news"
   - "author"
   - "author:AxtonLiu"
-timestamp: "2026-06-26T11:53:36.963Z"
+timestamp: "2026-06-27T08:40:40.171Z"
 x_handle: "AxtonLiu"
 x_author_name: "Axton"
 x_tweet_count: 1
 x_first_seen: "2026-03-18T16:28:01.008Z"
 x_last_seen: "2026-03-18T16:28:01.008Z"
-type_okf: "Author"
-created: "2026-03-18"
-updated: "2026-06-26"
-sha256: "6d0f815a722fb6363e13c7a180aa7bd54565115d90d52aa49cd61160ca336e03"
-sources:
-  - "/sources/news/2026-03-18/00__AxtonLiu__claude-skills的-资产指纹-22-分享率揭示软编排的最小单元价值.md"
 ---
 
 # Axton (@AxtonLiu)

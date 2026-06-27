@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Cursor Composer 2 许可证争议暴露 AI 工具合规雷区"
 description: "**[开源合规成为 AI 工具生死线]** • Cursor 承认 Composer 2 基于 Kimi K2.5，但试图通过推理服务商 Fireworks「间接合规」，法律逻辑站不住脚 • 月收超 2000 万美元需显式标注的义务直接指向终端产品，而非中间托管方 • 此案例揭示 AI Coding 工具的隐藏风险：模型授权链路与商业条款的错配可能引发诉讼  — 这不是 Cursor 一家的事。所"
 resource: "https://x.com/i/status/2035067094090526746"
@@ -22,13 +22,6 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "ai-coding-open-source-compliance"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2035067094090526746"
-created: "2026-03-20"
-updated: "2026-06-26"
-sha256: "709dad79768d8ef7ae7bd24fcbe3eb95fb7ae6f235936f55ed78f0c7ecdc5009"
-sources:
-  - "/sources/highlights/2026-03-21/00__dotey__cursor-composer-2-许可证争议暴露-ai-工具合规雷区.md"
 ---
 
 # Cursor Composer 2 许可证争议暴露 AI 工具合规雷区

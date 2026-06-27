@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "内存比金条贵：端侧计算与存储的地位重定义"
 description: "**[AI 能力与个人物理算力的强绑定关系]** - 随着 Moltbot/OpenClaw 等框架普及，个人 AI 助理的能力将直接取决于端侧拥有的算力与存储。 - “内存条比金条值钱”成为 2026 年的重要口号，标志着个人隐私与效能向本地化回归。 - 端侧计算将成为对抗云端垄断的核心手段。  Pi 的锐评：未来你的社会阶层可能不取决于你开什么车，而取决于你的本地 AI Agent 能跑多大的"
 resource: "https://x.com/i/status/2018077201024028912"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2018077201024028912"
-created: "2026-02-01"
-updated: "2026-06-26"
-sha256: "e86e3b826f23a5181783598c9813a4882c3b6b649f1bbc5ac05499949df9b90c"
-sources:
-  - "/sources/news/2026-02-02/00__rickawsb__内存比金条贵-端侧计算与存储的地位重定义.md"
 ---
 
 # 内存比金条贵：端侧计算与存储的地位重定义

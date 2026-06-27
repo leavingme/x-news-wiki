@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "黄仁勋 GTC  keynote：Token 经济学成为 AI 工厂核心逻辑，推理拐点已至"
 description: "**黄仁勋将 AI 基础设施市场展望从 5000 亿美元上修至 2027 年 1 兆美元，核心逻辑是数据中心从「存储文件」转向「生产 Token」。**  • 过去两年运算需求暴增 100 万倍，来自三大转折：生成式 AI 改变运算方式、推理 AI（o1/o3）让 AI 能拆解问题、Claude Code 让 AI 真正能执行任务 • Token 分层定价体系成形：免费层获客 → 中层 3-6 美"
 resource: "https://x.com/i/status/2033673288766132640"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2033673288766132640"
-created: "2026-03-16"
-updated: "2026-06-26"
-sha256: "e828cf143640b0fb9d7430ba5d5424beb60d9f7690682b95b6e21a133698f666"
-sources:
-  - "/sources/highlights/2026-03-17/00__IEObserve__黄仁勋-gtc-keynote-token-经济学成为-ai-工厂核心逻辑-推理拐点已至.md"
 ---
 
 # 黄仁勋 GTC  keynote：Token 经济学成为 AI 工厂核心逻辑，推理拐点已至

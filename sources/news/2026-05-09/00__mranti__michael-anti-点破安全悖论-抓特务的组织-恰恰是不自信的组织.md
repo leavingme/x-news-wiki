@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Michael Anti 点破安全悖论：抓特务的组织，恰恰是不自信的组织"
 description: "**安全焦虑与人才吸引是零和博弈——你不能同时要麦卡锡主义和全球科学家涌入。**  - Michael Anti 评蓬佩奥「互相渗透」论，指出过度安全叙事会反噬核心竞争力 - 对 AI 领域的启示：当一个国家开始用安全框架筛选科研人才时，创新生态的开放性就在流失  组织的自信程度决定了它能吸引什么样的人。安全叙事越重，人才引力越弱——这是 AI 竞争中最容易被忽视的软变量。"
 resource: "https://x.com/i/status/2052924197710782529"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2052924197710782529"
-created: "2026-05-09"
-updated: "2026-06-26"
-sha256: "5c384a305be6a16d1c002a4bfdaeac55b03cfe7908272a2505e965500dbe838a"
-sources:
-  - "/sources/news/2026-05-09/00__mranti__michael-anti-点破安全悖论-抓特务的组织-恰恰是不自信的组织.md"
 ---
 
 # Michael Anti 点破安全悖论：抓特务的组织，恰恰是不自信的组织

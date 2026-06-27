@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "xAI「排名门」：一条推文如何逼走核心员工？"
 description: "**马斯克「重建 xAI」宣言背后，是内部言论管控的暗流。**  - 前员工 Benjamin De Kraker 爆料：因在 X 上发布主观模型排名（将 Grok 3 标为「expected, tbd」），收到「删帖或走人」的 ultimatum - 关键冲突点：员工的个人影响力与公司的品牌叙事之间的不可调和矛盾 - 事件折射 AI 公司的「言论洁癖」——即便是技术评价也可能触发组织防御机制 -"
 resource: "https://x.com/i/status/2032666923251458353"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 88
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2032666923251458353"
-created: "2026-03-14"
-updated: "2026-06-26"
-sha256: "cd32a12e536382673646e0a6c09ffbc76185b27940b4b1f79b1500ebdbd2e199"
-sources:
-  - "/sources/news/2026-03-14/88__dotey__xai-排名门-一条推文如何逼走核心员工.md"
 ---
 
 # xAI「排名门」：一条推文如何逼走核心员工？

@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Codex 从一句中文提示生成完整可玩爬塔游戏：AI 编程从「写代码」跨入「造产品」"
 description: "**当 AI 可以从一句话生成包含代码和美术素材的完整可玩游戏时，「会写代码」这件事的定义正在被重写。**  - 歸藏仅输入「做类似《杀戮尖塔》的游戏，中国风格」，Codex 自主完成了从代码到素材的全部工作 - 产出是可玩的完整游戏，不是 demo 或原型 - 这标志着 AI Coding 从「辅助编码」到「端到端产品生成」的质变  锐评：歸藏这条推的冲击力在于「可玩」二字。不是代码片段，不是框"
 resource: "https://x.com/i/status/2049698879181144235"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2049698879181144235"
-created: "2026-04-30"
-updated: "2026-06-26"
-sha256: "ce295dc62102b5916ba8e5dbaa6f5d8e1c1c3aa3ea04cc2e776099d496ef9adc"
-sources:
-  - "/sources/news/2026-04-30/00__op7418__codex-从一句中文提示生成完整可玩爬塔游戏-ai-编程从-写代码-跨入-造产品.md"
 ---
 
 # Codex 从一句中文提示生成完整可玩爬塔游戏：AI 编程从「写代码」跨入「造产品」

@@ -1,23 +1,17 @@
 ---
-type: "entity"
+type: "Author"
 title: "Tencent Hy (@TencentHunyuan)"
 description: "X/Twitter 作者 @TencentHunyuan。共收录 1 条 AI 精选推文。"
 tags:
   - "x-news"
   - "author"
   - "author:TencentHunyuan"
-timestamp: "2026-06-26T11:53:36.989Z"
+timestamp: "2026-06-27T08:40:40.201Z"
 x_handle: "TencentHunyuan"
 x_author_name: "Tencent Hy"
 x_tweet_count: 1
 x_first_seen: "2026-04-23T16:12:01.000Z"
 x_last_seen: "2026-04-23T16:12:01.000Z"
-type_okf: "Author"
-created: "2026-04-23"
-updated: "2026-06-26"
-sha256: "b3ad682fe4d2d4107f304ec984afac3535c139b4a786398f34bc688aba03075d"
-sources:
-  - "/sources/news/2026-04-23/00__TencentHunyuan__腾讯-hy3-preview-开源-295b-参数-a21b-架构-推理-agent-进入-大厂开源-竞争新阶段.md"
 ---
 
 # Tencent Hy (@TencentHunyuan)

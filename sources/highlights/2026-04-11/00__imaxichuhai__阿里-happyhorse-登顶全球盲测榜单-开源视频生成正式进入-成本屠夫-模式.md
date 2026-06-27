@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "阿里 HappyHorse 登顶全球盲测榜单：开源视频生成正式进入「成本屠夫」模式"
 description: "**一句话核心判断：开源视频生成的成本护城河已被攻破，Seedance 面临真实竞争压力。**  - 阿里旗下 HappyHorse 同时登顶文生视频、图生视频双料盲测第一，且成本仅为 Seedance 一半 - 核心负责人张迪为快手可灵创始人，团队工程化能力有直接背书 - 直接开源策略意在建立开发者生态锁定，而非单纯技术领先  开源视频生成赛道正式从「技术秀场」进入「商业淘汰赛」。"
 resource: "https://x.com/i/status/2042068830764359887"
@@ -22,13 +22,6 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "open-source-video-generation-leap"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2042068830764359887"
-created: "2026-04-09"
-updated: "2026-06-26"
-sha256: "2765fe42ee4e3d6ef8bda11eaf702fc944b3f43559a49003c552f335087543db"
-sources:
-  - "/sources/highlights/2026-04-11/00__imaxichuhai__阿里-happyhorse-登顶全球盲测榜单-开源视频生成正式进入-成本屠夫-模式.md"
 ---
 
 # 阿里 HappyHorse 登顶全球盲测榜单：开源视频生成正式进入「成本屠夫」模式

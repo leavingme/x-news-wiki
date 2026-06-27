@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "铁锤人的Human-in-the-loop表态：AI工具采纳的务实主义路线仍在主流"
 description: "**完全自主Agent的理想与现实之间，\"人在回路\"仍是多数务实用户的首选模式。** - 铁锤人明确表态采用human-in-the-loop模式，而非完全委托AI - 这与当前Agent生态追求\"全自主\"的叙事形成微妙张力 - 对于高风险决策场景，用户信任AI执行但保留审查权，是当前最合理的折中  gakki：这不是反Agent的声音，而是对Agent成熟度的诚实评估。当Agent框架在追逐\"无"
 resource: "https://x.com/i/status/2052394739270648275"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2052394739270648275"
-created: "2026-05-07"
-updated: "2026-06-26"
-sha256: "aa9c1f5b71872dbc90fbd85d4d93454f5861163c5adff3ad17d1a023479ea21d"
-sources:
-  - "/sources/news/2026-05-07/00__lxfater__铁锤人的human-in-the-loop表态-ai工具采纳的务实主义路线仍在主流.md"
 ---
 
 # 铁锤人的Human-in-the-loop表态：AI工具采纳的务实主义路线仍在主流

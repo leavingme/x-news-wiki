@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "NVIDIA 把 AI AutoResearch 搬进真实机器人实验台：Jim Fan 团队让 Agent 自己跑实验、改代码、查论文"
 description: "**[Jim Fan 的 ENPIRE 第一次把「AI 自主科研」从数字世界推进到真实物理机器人，科研闭环从算法自进化升级为具身自进化。]** - ENPIRE（Agentic Robot Policy Self-Improvement in the Real World）由 NVIDIA GEAR 联合 CMU、UC Berkeley 开发，给 AI 编程 agent 分配机器人、GPU、tok"
 resource: "https://x.com/i/status/2067027033431875699"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2067027033431875699"
-created: "2026-06-16"
-updated: "2026-06-26"
-sha256: "2b6f2b199a87714c35ad4f79cdcaffa89905e4586fb0c6fd2d45d55df3734e54"
-sources:
-  - "/sources/highlights/2026-06-17/00__dotey__nvidia-把-ai-autoresearch-搬进真实机器人实验台-jim-fan-团队让-agent-自己跑实验-.md"
 ---
 
 # NVIDIA 把 AI AutoResearch 搬进真实机器人实验台：Jim Fan 团队让 Agent 自己跑实验、改代码、查论文

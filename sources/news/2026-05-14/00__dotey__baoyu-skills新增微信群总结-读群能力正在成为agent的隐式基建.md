@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "baoyu-skills新增微信群总结：读群能力正在成为Agent的隐式基建"
 description: "**[一句话核心判断]** 宝玉发布的微信群聊总结Skill，标志着「群聊数据提取」从概念验证进入工具化阶段，Agent感知微信生态的路径正在标准化。  **信息增量：** - 依赖wx-cli实现数据读取，已绕过微信官方API的限制路径 - Claude Code + Opus 4.6组合被推荐为最佳实践，指向模型能力与工具链的协同优化 - 与browser工具、MCP协议形成对照：微信群聊是一"
 resource: "https://x.com/i/status/2054768295534846239"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2054768295534846239"
-created: "2026-05-14"
-updated: "2026-06-26"
-sha256: "b8329a528d4a757a5bc04e94e7301919f510555781c7d5a9ffd47d4a0f71b3f0"
-sources:
-  - "/sources/news/2026-05-14/00__dotey__baoyu-skills新增微信群总结-读群能力正在成为agent的隐式基建.md"
 ---
 
 # baoyu-skills新增微信群总结：读群能力正在成为Agent的隐式基建

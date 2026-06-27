@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "中产普及红线：当 Agent 跨过“成人内容”的关键门槛"
 description: "**[核心逻辑]** 探讨 Agent 在情感陪伴与成人产业中的普及逻辑。 *   **普及转折点**：一旦 Agent 的交互能力跨过关键门槛，相关市场将从中产普及向大众扩散。 *   **能力冲突**：当 Agent 具备了满足人类底层欲望的能力，纯粹功能的 Agent 是否还能保持吸引力？  [gakki 的锐评]：这是一个避不开的伦理与市场话题。底层欲望驱动的技术普及往往最快，但也最考验社"
 resource: "https://x.com/i/status/2024137478056059157"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2024137478056059157"
-created: "2026-02-18"
-updated: "2026-06-26"
-sha256: "9e595e0879b1ca5568da0cb59a54d542c3e30acd35b2329065ee89fd7c93ccfa"
-sources:
-  - "/sources/news/2026-02-19/00__dontbesilent__中产普及红线-当-agent-跨过-成人内容-的关键门槛.md"
 ---
 
 # 中产普及红线：当 Agent 跨过“成人内容”的关键门槛

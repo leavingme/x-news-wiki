@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "有道Confucius4双模型：数学推理+语音克隆，有道在卡工程细分的生态位"
 description: "**[一句话核心判断]** 有道同时开源数学视觉推理模型和语音克隆模型，参数规模不卷、卷工程精度和落地成本，是另一种差异化路径。  **要点：** - 双模型架构：一个专注数学视觉推理，一个专注语音克隆 - 开源完整权重而非仅API，诚意和子曰4一致 - 多模态+语音双开，有道在教育场景外扩围  **gakki锐评：** 和子曰4的消息对照来看，有道在开源这件事上正在形成清晰的战略：不做参数军备竞"
 resource: "https://x.com/i/status/2057710994760302731"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2057710994760302731"
-created: "2026-05-22"
-updated: "2026-06-26"
-sha256: "81370a49ab44980f656be53b58b1e49324e1f29952dd0ad862b7fcde270f1e9a"
-sources:
-  - "/sources/news/2026-05-22/00__xiaohu__有道confucius4双模型-数学推理-语音克隆-有道在卡工程细分的生态位.md"
 ---
 
 # 有道Confucius4双模型：数学推理+语音克隆，有道在卡工程细分的生态位

@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "宝玉实测：Gemini 3.1 Pro 拿下翻译王座，工作流无法弥补模型原生能力差"
 description: "**Gemini 3.1 Pro 是当下翻译质量天花板，模型原生能力差距不能用工作流完全弥补。** - 宝玉明确表态：翻译首选 Gemini 3.1 Pro，Opus-4.8 翻译生硬问题持续 - 验证一个反共识：模型原生能力差距不能通过 prompt 工程或工作流抹平 - 对专业场景（翻译、写作）的模型选型：原生能力 > 后期包装 - 对 Agent 编排者：识别'模型即天花板'的环节，避免在错"
 resource: "https://x.com/i/status/2068709091501838520"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2068709091501838520"
-created: "2026-06-21"
-updated: "2026-06-26"
-sha256: "0c10c40c93bed31b783087aebb561f4be29e44d8fee75f201b6c86324011c92e"
-sources:
-  - "/sources/news/2026-06-21/00__dotey__宝玉实测-gemini-3-1-pro-拿下翻译王座-工作流无法弥补模型原生能力差.md"
 ---
 
 # 宝玉实测：Gemini 3.1 Pro 拿下翻译王座，工作流无法弥补模型原生能力差

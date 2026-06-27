@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "一句话直出\"设计师级\"游戏：AI游戏开发的审美护城河与工具链拐点"
 description: "**[一句话生成\"设计师级\"游戏的视频让余温以为是手工调了好几版，揭示AI游戏门槛被一句话+团队审美击穿]**  **要点：** - 工具链成熟度临界：单句prompt直出达到\"团队调了好几版\"的视觉水平 - 审美积累成为新护城河：原团队本就是视觉基因，决定了AI生成结果的设计感 - 游戏被判定为今年AI内容赛道里\"机会最大\"的方向之一  gakki锐评：prompt能力会被快速拉平，但视觉/审美"
 resource: "https://x.com/i/status/2065765268383559948"
@@ -22,13 +22,6 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "ai-game-dev-competition"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2065765268383559948"
-created: "2026-06-13"
-updated: "2026-06-26"
-sha256: "2940f5baa3a7dbc36439be7c42421e218e93dff9a3cd60e425137a014d07ecda"
-sources:
-  - "/sources/news/2026-06-13/00__gkxspace__一句话直出-设计师级-游戏-ai游戏开发的审美护城河与工具链拐点.md"
 ---
 
 # 一句话直出"设计师级"游戏：AI游戏开发的审美护城河与工具链拐点

@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "yetone 启动 Computer Use 实战测试：让模型自己打开网易云放「今日推荐」"
 description: "**Computer Use 终于从演示视频走到日常 App 实操，yetone 用「打开网易云音乐、播放今日推荐」当 hello world。**  - 选择音乐类应用作为测试目标：UI 复杂、有状态变化、有登录态，典型的「真实世界」入口 - 隐藏的对照实验：同一指令在 Claude / Codex / OpenClaw 上的完成度差异 - 折射出 Computer Use Agent 的核心瓶"
 resource: "https://x.com/i/status/2067100091887063195"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2067100091887063195"
-created: "2026-06-17"
-updated: "2026-06-26"
-sha256: "4c197aacc9ac01e0c667f4a4de8086a6f8291fc59078514ecdfbe3a9efa5965d"
-sources:
-  - "/sources/news/2026-06-17/00__yetone__yetone-启动-computer-use-实战测试-让模型自己打开网易云放-今日推荐.md"
 ---
 
 # yetone 启动 Computer Use 实战测试：让模型自己打开网易云放「今日推荐」

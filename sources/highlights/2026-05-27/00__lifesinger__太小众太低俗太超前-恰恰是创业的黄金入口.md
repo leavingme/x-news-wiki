@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "太小众太低俗太超前，恰恰是创业的黄金入口"
 description: "**[小众低俗超前三角，反而是创业最优解]**  玉伯提出反直觉创业公式：太小众、太低俗、太超前的交叉地带，才是创业机会密度最高的区域。  以此对照当下主流产品的反面：豆包、千问、Manus、Lovart——都是「太正经」的存在。  关键增量在于：这个公式本质是**差异化定位的心法**，不是追求低质量，而是在成熟市场边缘找缝隙。   gakki：低门槛赛道卷成红海，高门槛赛道门槛本身是护城河——这"
 resource: "https://x.com/i/status/2059632958378766551"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2059632958378766551"
-created: "2026-05-27"
-updated: "2026-06-26"
-sha256: "34b347dc529dc9ddaad59e880d5e62e2a0273241477ab4a33c09deeb0d63dd76"
-sources:
-  - "/sources/highlights/2026-05-27/00__lifesinger__太小众太低俗太超前-恰恰是创业的黄金入口.md"
 ---
 
 # 太小众太低俗太超前，恰恰是创业的黄金入口

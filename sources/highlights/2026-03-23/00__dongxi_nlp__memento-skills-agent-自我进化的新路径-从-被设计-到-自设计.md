@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Memento-Skills：Agent 自我进化的新路径——从\"被设计\"到\"自设计\""
 description: "**[Read-Write Reflective Learning 范式可能改变 Agent 技能生产的方式，Agent 开始具备自主构建技能的能力]** • 方法创新：通过\"读写反射学习\"让 Agent 基于实践经验自主设计和优化 Skill，而非依赖人工预设 • 范式意义：这标志着 Agent 从\"工具使用\"向\"自我编程\"演进，Skill 生产不再完全依赖人类开发者 • 工程影响：如果该方法被"
 resource: "https://x.com/i/status/2035840197074571696"
@@ -22,13 +22,6 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "skill-vs-mcp-paradigm"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2035840197074571696"
-created: "2026-03-22"
-updated: "2026-06-26"
-sha256: "16d4ca94b85043f81708190af107a68e4c445b8419642da28371cf7937c83fb6"
-sources:
-  - "/sources/highlights/2026-03-23/00__dongxi_nlp__memento-skills-agent-自我进化的新路径-从-被设计-到-自设计.md"
 ---
 
 # Memento-Skills：Agent 自我进化的新路径——从"被设计"到"自设计"

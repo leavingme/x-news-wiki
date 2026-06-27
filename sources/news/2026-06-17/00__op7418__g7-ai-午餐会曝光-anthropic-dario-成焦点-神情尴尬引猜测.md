@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "G7 AI 午餐会曝光：Anthropic Dario 成焦点，神情尴尬引猜测"
 description: "**G7 首次设立 AI 领域专题午餐会，头部 AI 公司负责人悉数到场，Anthropic Dario Amodei 成为讨论焦点。**  - 现场观察：Dario 表情尴尬，可能与近期 Anthropic 安全/治理立场、各国监管收紧有关 - 标志意义：G7 把 AI 提到元首级外交议程级别，AI 治理已从产业议题升级为地缘议题 - 信号：Anthropic 作为安全派代表，在各国政府面前的定"
 resource: "https://x.com/i/status/2067308157026882001"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2067308157026882001"
-created: "2026-06-17"
-updated: "2026-06-26"
-sha256: "0e0dc13fcc0195fef60909134bf60938c7dcb7386f45aa840899387a7b287917"
-sources:
-  - "/sources/news/2026-06-17/00__op7418__g7-ai-午餐会曝光-anthropic-dario-成焦点-神情尴尬引猜测.md"
 ---
 
 # G7 AI 午餐会曝光：Anthropic Dario 成焦点，神情尴尬引猜测

@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Claude 接入生活服务生态：旅行、订餐、理财全覆盖，个人 AI 从工具升维为「生活管家」"
 description: "**一句话核心判断：Claude 批量接入 Tripadvisor、Booking、Resy、Instacart、Spotify 等生活服务，标志个人 AI 助手从工作场景向日常消费场景系统性扩张，入口价值大幅提升。**  - 接入范围涵盖旅行预订、餐饮、购物、音乐、有声书、导航、家政等多个高频场景 - TurboTax 整合意味着 Claude 已进入金融敏感场景，隐私合规边界值得关注 - Ap"
 resource: "https://x.com/claudeai/status/2047383764347572389"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "ai-trend-digest"
-type_okf: "X Tweet"
-source_url: "https://x.com/claudeai/status/2047383764347572389"
-created: "2026-04-23"
-updated: "2026-06-26"
-sha256: "20d34e90cd11cbe18e3495ef0475c98d1113624a6e5fd3090d22bf79f3b96007"
-sources:
-  - "/sources/news/2026-04-23/00__claudeai__claude-接入生活服务生态-旅行-订餐-理财全覆盖-个人-ai-从工具升维为-生活管家.md"
 ---
 
 # Claude 接入生活服务生态：旅行、订餐、理财全覆盖，个人 AI 从工具升维为「生活管家」

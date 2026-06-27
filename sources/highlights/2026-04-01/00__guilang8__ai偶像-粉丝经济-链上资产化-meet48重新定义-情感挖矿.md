@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "AI偶像+粉丝经济+链上资产化：MEET48重新定义「情感挖矿」"
 description: "**[粉丝购买力正在被代币化重塑——偶像经济的Web3复制粘贴] **  • MEET48 + Mars Protocol将AI偶像养成与Meme代币深度绑定：粉丝打Call不再是情怀消费，而是持币增值的「挖矿」行为，偶像本人成为链上可交易资产。 • 本质是48系/Kpop粉丝经济模型向Web3的完整平移——高粘性+高复购已被验证，AI偶像进一步消除时间/地域/互动上限瓶颈。 • BNB Chai"
 resource: "https://x.com/i/status/1907397682001522750"
@@ -22,13 +22,6 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "ai-agent-gamification"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/1907397682001522750"
-created: "2025-04-02"
-updated: "2026-06-26"
-sha256: "a0b221f1ffc53b9cfd10d2db4a7fd7f60711f8b4a693a1e7c4a373233f1fefe2"
-sources:
-  - "/sources/highlights/2026-04-01/00__guilang8__ai偶像-粉丝经济-链上资产化-meet48重新定义-情感挖矿.md"
 ---
 
 # AI偶像+粉丝经济+链上资产化：MEET48重新定义「情感挖矿」

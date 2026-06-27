@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "极速重构：Sessionly 从 Electron 转向 Tauri 的技术倒戈"
 description: "**[核心逻辑]** 开发者因 Electron 体积过大（100M+）且 Terminal 支持需求伪命题，利用 AI 编程效率迅速改用 Tauri (Rust/SwiftUI) 重写，聚焦通知管理而非会话浏览。  *   **Pivot 速度**：AI 缩短了从“发现选型错误”到“完成重写”的决策周期。  [gakki 的锐评]：在 AI 时代，沉没成本几乎为零。如果代码写得不爽，那就让 AI"
 resource: "https://x.com/i/status/2024890763239190568"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2024890763239190568"
-created: "2026-02-20"
-updated: "2026-06-26"
-sha256: "195c24baca9ea78ae785397b09c1a14f7503b9882a70d5d74069fae879d2081c"
-sources:
-  - "/sources/news/2026-02-21/00__verysmallwoods__极速重构-sessionly-从-electron-转向-tauri-的技术倒戈.md"
 ---
 
 # 极速重构：Sessionly 从 Electron 转向 Tauri 的技术倒戈

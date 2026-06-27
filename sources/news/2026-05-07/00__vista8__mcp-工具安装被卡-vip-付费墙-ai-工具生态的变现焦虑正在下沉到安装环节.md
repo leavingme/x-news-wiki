@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "MCP 工具安装被卡 VIP 付费墙：AI 工具生态的变现焦虑正在下沉到安装环节"
 description: "**MCP 安装触发 VIP 付费门槛，工具分发的货币化压力已蔓延到基础设施层。**  - 用户实测发现某 MCP 工具安装需要先升级 VIP，原本免费开放的协议层开始出现付费壁垒 - 这是 AI 工具生态从「免费获客」转向「存量变现」的微观信号——当增长放缓，连安装步骤都变成了转化漏斗  锐评：MCP 协议本意是开放互联，但当接入成本开始收费，工具生态的网络效应会被人为截断。这是平台思维对协议思"
 resource: "https://x.com/i/status/2052208951396020329"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2052208951396020329"
-created: "2026-05-07"
-updated: "2026-06-26"
-sha256: "6772c3dca603351ff72a4bfb8ef02a6720a2f5567598ce2a43511a9fe9bd1953"
-sources:
-  - "/sources/news/2026-05-07/00__vista8__mcp-工具安装被卡-vip-付费墙-ai-工具生态的变现焦虑正在下沉到安装环节.md"
 ---
 
 # MCP 工具安装被卡 VIP 付费墙：AI 工具生态的变现焦虑正在下沉到安装环节

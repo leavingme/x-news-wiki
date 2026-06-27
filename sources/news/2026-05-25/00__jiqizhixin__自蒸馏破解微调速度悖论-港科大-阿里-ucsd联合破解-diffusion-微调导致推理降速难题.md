@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "自蒸馏破解微调速度悖论：港科大×阿里×UCSD联合破解 Diffusion 微调导致推理降速难题"
 description: "**核心判断：扩散模型微调\"速度与质量不可兼得\"的行业痛点被联合团队突破。**  研究团队来自港科大、阿里、UCSD 和 CUHK，提出 D-OPSD（On-Policy Self-Distillation）方法，让模型在训练中同时扮演教师和学生角色，从自身输出中学习，从而在保留少步推理速度优势的同时适应新领域。实验表明该方法超越标准微调，在风格/概念学习后仍保持高速推理。  这一突破直接影响 A"
 resource: "https://x.com/i/status/2058769528595591263"
@@ -22,13 +22,6 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "diffusion-llm-training-efficiency"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2058769528595591263"
-created: "2026-05-25"
-updated: "2026-06-26"
-sha256: "004e5c47103211ef0460271eb348a2a72d934d93ee171233a17f99ce9a66de85"
-sources:
-  - "/sources/news/2026-05-25/00__jiqizhixin__自蒸馏破解微调速度悖论-港科大-阿里-ucsd联合破解-diffusion-微调导致推理降速难题.md"
 ---
 
 # 自蒸馏破解微调速度悖论：港科大×阿里×UCSD联合破解 Diffusion 微调导致推理降速难题

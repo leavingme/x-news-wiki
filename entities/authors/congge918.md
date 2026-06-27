@@ -1,23 +1,17 @@
 ---
-type: "entity"
+type: "Author"
 title: "聪哥.sats (@congge918)"
 description: "X/Twitter 作者 @congge918。共收录 1 条 AI 精选推文。"
 tags:
   - "x-news"
   - "author"
   - "author:congge918"
-timestamp: "2026-06-26T11:53:37.002Z"
+timestamp: "2026-06-27T08:40:40.218Z"
 x_handle: "congge918"
 x_author_name: "聪哥.sats"
 x_tweet_count: 1
 x_first_seen: "2026-06-25T01:24:43.821Z"
 x_last_seen: "2026-06-25T01:24:43.821Z"
-type_okf: "Author"
-created: "2026-06-25"
-updated: "2026-06-26"
-sha256: "72ac73a8b902ded9566a288af4f1d08c9c3f09c3adcf65d234f821cea4e749d9"
-sources:
-  - "/sources/news/2026-06-25/00__congge918__hertzflow-alpha-skill-实测-装进-codex-直接看穿庄家筹码结构与内幕变现.md"
 ---
 
 # 聪哥.sats (@congge918)

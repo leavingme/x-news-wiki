@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "资源稀缺下的动态平衡：商君书逻辑正在被算法复刻"
 description: "**[平台维持的从来不是公平，是刻意不平衡]**  yestone援引商君书视角解读当前互联网生态：资源总量有限，你吃饱我就饿，这是被刻意维持的动态平衡，大族被逼成\"比族\"。  信息增量：这是对当前AI内容平台生态的一个历史政治学框架——算法寡头通过制造相对稀缺来维持用户活跃度和付费意愿，这套逻辑和商君书的\"弱民\"思想有结构性相似。  对谁有影响：对平台生态有深度思考需求的产品经理、内容策略分析师"
 resource: "https://x.com/i/status/2060633456980418802"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2060633456980418802"
-created: "2026-05-30"
-updated: "2026-06-26"
-sha256: "e3b3ccdd1f8e10c62ad4a12ac283e091579b84915a9fae0dbd835b5b5c3e65fc"
-sources:
-  - "/sources/news/2026-05-30/00__yetone__资源稀缺下的动态平衡-商君书逻辑正在被算法复刻.md"
 ---
 
 # 资源稀缺下的动态平衡：商君书逻辑正在被算法复刻

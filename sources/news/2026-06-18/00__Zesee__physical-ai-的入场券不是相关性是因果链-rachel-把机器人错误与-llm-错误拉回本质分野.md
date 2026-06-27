@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Physical AI 的入场券不是相关性是因果链：Rachel 把机器人错误与 LLM 错误拉回本质分野"
 description: "**[Physical AI 的根本矛盾不是「见过多少世界」，而是「能否理解自己的干预后果」]** - LLM 的错误停留在语义层；机器人一旦行动，错误就变成物理后果——杯子会碎、实验失败、合成路径偏离 - 相关性学习只是入场券；理解「动作—状态变化—结果」的因果链才是行动能力的底座 - 因果世界模型回答的真问题：环境微变时，AI 能否区分「重要变化」与「表面扰动」？能否失败后定位原因、做反事实推"
 resource: "https://x.com/i/status/2067498017536496047"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2067498017536496047"
-created: "2026-06-18"
-updated: "2026-06-26"
-sha256: "c2aabc464118d8e5d198f09d8e93bb8a1212133feacfc0505622d0aaa1bf9777"
-sources:
-  - "/sources/news/2026-06-18/00__Zesee__physical-ai-的入场券不是相关性是因果链-rachel-把机器人错误与-llm-错误拉回本质分野.md"
 ---
 
 # Physical AI 的入场券不是相关性是因果链：Rachel 把机器人错误与 LLM 错误拉回本质分野

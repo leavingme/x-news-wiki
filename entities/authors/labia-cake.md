@@ -1,23 +1,17 @@
 ---
-type: "entity"
+type: "Author"
 title: "Aloved (@Labia_cake)"
 description: "X/Twitter 作者 @Labia_cake。共收录 1 条 AI 精选推文。"
 tags:
   - "x-news"
   - "author"
   - "author:Labia_cake"
-timestamp: "2026-06-26T11:53:36.962Z"
+timestamp: "2026-06-27T08:40:40.170Z"
 x_handle: "Labia_cake"
 x_author_name: "Aloved"
 x_tweet_count: 1
 x_first_seen: "2026-03-18T12:43:17.021Z"
 x_last_seen: "2026-03-18T12:43:17.021Z"
-type_okf: "Author"
-created: "2026-03-18"
-updated: "2026-06-26"
-sha256: "8af5ffbbb45664625541389766cd642aa617d90bb666c7ddf9110220aa594be3"
-sources:
-  - "/sources/highlights/2026-03-18/00__Labia_cake__internet-court-ai-经济自主权时代的第一座-链上仲裁庭.md"
 ---
 
 # Aloved (@Labia_cake)

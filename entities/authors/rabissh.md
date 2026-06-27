@@ -1,23 +1,17 @@
 ---
-type: "entity"
+type: "Author"
 title: "冤种说股 (@rabissh)"
 description: "X/Twitter 作者 @rabissh。共收录 1 条 AI 精选推文。"
 tags:
   - "x-news"
   - "author"
   - "author:rabissh"
-timestamp: "2026-06-26T11:53:36.906Z"
+timestamp: "2026-06-27T08:40:40.112Z"
 x_handle: "rabissh"
 x_author_name: "冤种说股"
 x_tweet_count: 1
 x_first_seen: "2026-01-30T12:00:00.000Z"
 x_last_seen: "2026-01-30T12:00:00.000Z"
-type_okf: "Author"
-created: "2026-01-30"
-updated: "2026-06-26"
-sha256: "886a9d7309ef9f229792edf7674e7cc9c1a02221f7ae5934232c578afdf430b1"
-sources:
-  - "/sources/news/2026-01-30/00__rabissh__2026-确定性投资-ai-运用位列核心.md"
 ---
 
 # 冤种说股 (@rabissh)

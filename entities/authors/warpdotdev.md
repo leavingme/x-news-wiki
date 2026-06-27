@@ -1,23 +1,17 @@
 ---
-type: "entity"
+type: "Author"
 title: "Warp (@warpdotdev)"
 description: "X/Twitter 作者 @warpdotdev。共收录 1 条 AI 精选推文。"
 tags:
   - "x-news"
   - "author"
   - "author:warpdotdev"
-timestamp: "2026-06-26T11:53:36.991Z"
+timestamp: "2026-06-27T08:40:40.204Z"
 x_handle: "warpdotdev"
 x_author_name: "Warp"
 x_tweet_count: 1
 x_first_seen: "2026-04-28T19:17:49.083Z"
 x_last_seen: "2026-04-28T19:17:49.083Z"
-type_okf: "Author"
-created: "2026-04-28"
-updated: "2026-06-26"
-sha256: "d2be119bfab7c0ca87c21d8205b60a17333783284f477073bfd689fe7e12e624"
-sources:
-  - "/sources/news/2026-04-28/00__warpdotdev__warp-终端开源-从闭源效率工具到开发者基础设施的开源献祭.md"
 ---
 
 # Warp (@warpdotdev)

@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "MIT学生用四个按钮+语音做了一个盒子，8个月在Polymarket赚了450万美元"
 description: "**[一个语音硬件如何变成450万美元的预测机器]**  MIT机器人课作业，教授给了B+说\"实用价值不大\"的小盒子，内置Claude Code分析体育博彩赔率差价，2026年1月至今执行4548次预测，历史总账户值已达450万美元。  盒子没有屏幕没有键盘，只有四个物理按钮：买、卖、确认、取消，加一个麦克风。林俊旸（@tree1v1）等早期华人Web3 AI agent开发者验证了一个核心逻辑："
 resource: "https://x.com/i/status/2034555510708654556"
@@ -22,13 +22,6 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "ai-trading-480x-returns"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2034555510708654556"
-created: "2026-03-19"
-updated: "2026-06-26"
-sha256: "e13b3c50410cbc647c7eaf77ae87b2ee94a32501b90d5d216053a5dc1f7dda52"
-sources:
-  - "/sources/highlights/2026-04-18/00__qkl2058__mit学生用四个按钮-语音做了一个盒子-8个月在polymarket赚了450万美元.md"
 ---
 
 # MIT学生用四个按钮+语音做了一个盒子，8个月在Polymarket赚了450万美元

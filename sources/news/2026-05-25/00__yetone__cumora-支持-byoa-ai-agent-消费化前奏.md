@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Cumora 支持 BYOA：AI Agent 消费化前奏"
 description: "**[Cumora 开放 BYOA，Agent 入口战进入合纵连横]**  yestone 透露 Cumora（推测为 AI Agent 相关产品）已支持 BYOA（Bring Your Own Agent），意味着用户可携带自己的 Agent 接入平台，而非被迫使用平台指定的 Agent。这直接呼应了 Subtopic「No-code Agent 入口」的核心矛盾：平台绑定 vs 用户迁移自由。"
 resource: "https://x.com/i/status/2058793888660574612"
@@ -22,13 +22,6 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "no-code-agent-entry"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2058793888660574612"
-created: "2026-05-25"
-updated: "2026-06-26"
-sha256: "8929e9abc1e479a0c3156be03361cb6afe38b5cfc443e087146007bd8b857358"
-sources:
-  - "/sources/news/2026-05-25/00__yetone__cumora-支持-byoa-ai-agent-消费化前奏.md"
 ---
 
 # Cumora 支持 BYOA：AI Agent 消费化前奏

@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "MIT让LLM显存占用秒级压缩50倍：长上下文Agent成本即将重估"
 description: "**MIT的Fast KV Compaction实现LLM KV cache秒级50倍压缩，无需重训，质量损失极小。**  - 在潜空间构建紧凑KV cache，逐头保留注意力输出 - 速度vs质量权衡上显著超越此前方法 - 几秒内完成压缩，对长上下文Agent是直接收益  Gakki锐评：这是给\"上下文通胀\"打补丁。省下的钱会被消耗更多上下文——Jevons效应几个月内就能验证。"
 resource: "https://x.com/i/status/2065287728225218776"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2065287728225218776"
-created: "2026-06-12"
-updated: "2026-06-26"
-sha256: "a1739ce6f213a2bbefef3a19f3ac50d81f2043494947eaeb2d4d46e346514def"
-sources:
-  - "/sources/news/2026-06-12/00__jiqizhixin__mit让llm显存占用秒级压缩50倍-长上下文agent成本即将重估.md"
 ---
 
 # MIT让LLM显存占用秒级压缩50倍：长上下文Agent成本即将重估

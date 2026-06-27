@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "外交部长发言权有限：制度性权力的幻觉与现实"
 description: "**[一句话揭示制度权力的脆弱性]**  - 外长在制度设计上有形式权威，但实质决策权集中在更高级别 - 一旦出现危机，权力可被瞬间收回  gakki 的锐评：这是对\"职务权威 vs 实际控制权\"差异的清醒认知——对于分析 AI 治理中的机构权力结构，这个视角值得借鉴。"
 resource: "https://x.com/i/status/2056949318372982979"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2056949318372982979"
-created: "2026-05-20"
-updated: "2026-06-26"
-sha256: "da29caa393ba88e0922944178705e332309904599c5396ec6768e8d25b81bcbc"
-sources:
-  - "/sources/news/2026-05-20/00__mranti__外交部长发言权有限-制度性权力的幻觉与现实.md"
 ---
 
 # 外交部长发言权有限：制度性权力的幻觉与现实

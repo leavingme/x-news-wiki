@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "DeepSeek 首次全球招聘\"Agent Harness 研究员\"：把 Model + Harness = Agent 写进 JD"
 description: "**[核心判断]** DeepSeek 首次以\"Agent Harness 研究员\"为名全球招聘，把\"Model + Harness = Agent\"正式写进团队使命——工程框架第一次成为独立研究对象。  - 团队使命明确：除模型本身以外的所有 Agent 工作（上下文管理、长期记忆、Subagent 编排）都属于 Harness 范畴 - 岗位核心是\"探索 Harness 领域研究前沿\"，与传统"
 resource: "https://x.com/i/status/2064907115223720355"
@@ -22,13 +22,6 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "harness-engineering"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2064907115223720355"
-created: "2026-06-11"
-updated: "2026-06-26"
-sha256: "d7b28744e6dc7b222d81c2f648cdfcccc310da52bbdc1c81a62bac6dab52904f"
-sources:
-  - "/sources/highlights/2026-06-11/00__dotey__deepseek-首次全球招聘-agent-harness-研究员-把-model-harness-agent-写进-j.md"
 ---
 
 # DeepSeek 首次全球招聘"Agent Harness 研究员"：把 Model + Harness = Agent 写进 JD

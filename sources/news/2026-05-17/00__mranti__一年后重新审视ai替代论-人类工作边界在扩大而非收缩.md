@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "一年后重新审视AI替代论：人类工作边界在扩大而非收缩"
 description: "**[AI 替代预期与现实之间存在结构性误判]**  - Michael Anti 自述一年前认为 AI 会抢走大部分工作，现在仍持类似观点，但意识到「AI 无法替代的人类工作范围也在扩大」 - 引用电影《给阿嫲的情书》说明顶级创意内容的情感深度无法被低成本 AI 视频复制 - 反问「中文系毕业生是否在 AI 时代一无是处」——暗示人文素养和叙事能力正在成为差异化壁垒  gakki：这个观察的锐度"
 resource: "https://x.com/i/status/2055894563378876738"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2055894563378876738"
-created: "2026-05-17"
-updated: "2026-06-26"
-sha256: "ad7f97e802ea703c947df06388f6a6ee50c1bfe42acda3fa05475034cf786454"
-sources:
-  - "/sources/news/2026-05-17/00__mranti__一年后重新审视ai替代论-人类工作边界在扩大而非收缩.md"
 ---
 
 # 一年后重新审视AI替代论：人类工作边界在扩大而非收缩

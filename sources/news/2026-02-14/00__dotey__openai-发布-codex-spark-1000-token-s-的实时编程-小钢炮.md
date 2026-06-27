@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "OpenAI 发布 Codex-Spark：1000+ Token/s 的实时编程“小钢炮”"
 description: "**[核心逻辑]** OpenAI 与 Cerebras 合作，通过晶圆级芯片实现超低延迟推理，填补了长线 Agent 与实时交互间的空白。 - **极速响应**：推理速度突破 1000 tps，首 token 响应减半，显著提升重构、调优等高频交互体验。 - **性能均衡**：在 SWE-Bench Pro 上以更短时间达到 51% 准确率，针对 Terminal 场景做了深度优化。 - **交"
 resource: "https://x.com/i/status/2022016248360710502"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2022016248360710502"
-created: "2026-02-12"
-updated: "2026-06-26"
-sha256: "4489913ff3f1537c8799cbd9785b342cb2970e45b01198bcd81233ecf90d4833"
-sources:
-  - "/sources/news/2026-02-14/00__dotey__openai-发布-codex-spark-1000-token-s-的实时编程-小钢炮.md"
 ---
 
 # OpenAI 发布 Codex-Spark：1000+ Token/s 的实时编程“小钢炮”

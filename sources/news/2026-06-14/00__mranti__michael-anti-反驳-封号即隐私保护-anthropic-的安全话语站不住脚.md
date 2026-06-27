@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Michael Anti 反驳「封号即隐私保护」：Anthropic 的安全话语站不住脚"
 description: "**[Anthropic 用安全名义收紧 API 边界，反而把用户推向本地开源]**  - Michael Anti 指出\"被 Anthropic 禁用 AI\"与\"数据隐私\"是两件事，禁用 Claude 不会让数据更安全 - 进一步反向论证：若真为隐私，用户应该支持 Dario 反对的本地开源，而不是为封号行为背书 - 触及 Anthropic API 管控逻辑与用户主权的根本冲突：平台以安全为名"
 resource: "https://x.com/i/status/2065974193272115379"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2065974193272115379"
-created: "2026-06-14"
-updated: "2026-06-26"
-sha256: "1062647873186de4b2b26544af82d505f474e173e54411b8c59396607c9ceec1"
-sources:
-  - "/sources/news/2026-06-14/00__mranti__michael-anti-反驳-封号即隐私保护-anthropic-的安全话语站不住脚.md"
 ---
 
 # Michael Anti 反驳「封号即隐私保护」：Anthropic 的安全话语站不住脚

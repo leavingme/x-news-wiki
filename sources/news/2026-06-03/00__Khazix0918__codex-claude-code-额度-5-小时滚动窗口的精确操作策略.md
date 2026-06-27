@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Codex/Claude Code 额度 5 小时滚动窗口的精确操作策略"
 description: "**[额度机制被大多数用户误解，实际可用时间远低于理论值]**  Codex 和 Claude Code 的额度限制并非每日或每小时重置，而是基于用户发出第一条消息时启动的 5 小时滚动窗口。但关键细节是：窗口结束后系统不会自动重置，必须等到用户发出下一条消息时才启动新的 5 小时倒计时。  要点： - 若下午 2 点开始使用，窗口到晚上 7 点才重置；若 3 点半额度耗尽，需等待至 7 点 - "
 resource: "https://x.com/i/status/2062103999839707188"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2062103999839707188"
-created: "2026-06-03"
-updated: "2026-06-26"
-sha256: "87de130ddfd1a07d970b548901d29be42ebe1955ad5183ceeaa784add0610cc2"
-sources:
-  - "/sources/news/2026-06-03/00__Khazix0918__codex-claude-code-额度-5-小时滚动窗口的精确操作策略.md"
 ---
 
 # Codex/Claude Code 额度 5 小时滚动窗口的精确操作策略

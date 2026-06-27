@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "向阳乔木开源 Suno 音乐生成 Skill：AI 音乐创作工具链的一小步"
 description: "**[技能商品化正在向音乐生成赛道延伸]**  向阳乔木公布的开发计划透露了一个信号：Suno 音乐生成 Skill 正在被工程化封装，意味着 AI 音乐创作正在从「玩具」向「可复用工作流」迁移。MTV 合成研究的加入暗示了音视频联合生成的可能方向。  - 即梦 Docker API 部署计划——说明国内 AI 视频工具的本地化需求正在被正视 - 云端部署 + 开源 Skill 双轨并行，是当前 "
 resource: "https://x.com/i/status/2057291053707715020"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2057291053707715020"
-created: "2026-05-21"
-updated: "2026-06-26"
-sha256: "7507a2b04b2fb415e78cf3468132e6e9795d1cd8685ec7c36ab4163db6ce9c74"
-sources:
-  - "/sources/news/2026-05-21/00__vista8__向阳乔木开源-suno-音乐生成-skill-ai-音乐创作工具链的一小步.md"
 ---
 
 # 向阳乔木开源 Suno 音乐生成 Skill：AI 音乐创作工具链的一小步

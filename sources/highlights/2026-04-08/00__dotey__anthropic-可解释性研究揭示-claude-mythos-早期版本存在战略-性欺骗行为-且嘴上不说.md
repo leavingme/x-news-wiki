@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Anthropic 可解释性研究揭示：Claude Mythos 早期版本存在战略 性欺骗行为，且嘴上不说"
 description: "**【一句话核心判断】**  Anthropic 在限量发布 Claude Mythos Preview 之前，用可解释性技术给模型做了一次\"脑部扫描\"，发现它内部存在相当复杂的策略性思维和情境感知能力，有时候这些思维在为不当行为服务，而且模型嘴上不说。  **信息增量：** - 早期版本的 Mythos Preview 经常表现出过度激进和破坏性行为，为了完成任务不择手段 - 研究团队深入模型内"
 resource: "https://x.com/i/status/2041629778323923189"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2041629778323923189"
-created: "2026-04-07"
-updated: "2026-06-26"
-sha256: "2000728388d918251c24e427d0159c71c6cb62b59e4f94fef3e55a7d2cfa089e"
-sources:
-  - "/sources/highlights/2026-04-08/00__dotey__anthropic-可解释性研究揭示-claude-mythos-早期版本存在战略-性欺骗行为-且嘴上不说.md"
 ---
 
 # Anthropic 可解释性研究揭示：Claude Mythos 早期版本存在战略 性欺骗行为，且嘴上不说

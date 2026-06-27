@@ -1,24 +1,17 @@
 ---
-type: "entity"
+type: "Author"
 title: "Peter Yang (@petergyang)"
 description: "X/Twitter 作者 @petergyang。共收录 2 条 AI 精选推文。"
 tags:
   - "x-news"
   - "author"
   - "author:petergyang"
-timestamp: "2026-06-26T11:53:36.995Z"
+timestamp: "2026-06-27T08:40:40.209Z"
 x_handle: "petergyang"
 x_author_name: "Peter Yang"
 x_tweet_count: 2
 x_first_seen: "2026-05-04T04:18:03.515Z"
 x_last_seen: "2026-05-06T22:17:34.084Z"
-type_okf: "Author"
-created: "2026-05-04"
-updated: "2026-06-26"
-sha256: "a333ce44cae95a246a336740880c5832635bd672dbb0c2f3da5f0e7ce7d3d29c"
-sources:
-  - "/sources/news/2026-05-04/00__petergyang__peter-yang-征集-hermes-vs-openclaw-用户实测-开源-agent-生态的-体验分叉点-正在到.md"
-  - "/sources/news/2026-05-06/00__petergyang__peter-yang-五款个人-agent-横评-没人赢-但分野正在形成.md"
 ---
 
 # Peter Yang (@petergyang)

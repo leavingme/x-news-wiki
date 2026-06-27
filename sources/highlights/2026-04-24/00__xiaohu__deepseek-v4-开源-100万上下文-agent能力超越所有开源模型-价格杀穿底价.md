@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "DeepSeek V4 开源：100万上下文 + Agent能力超越所有开源模型，价格杀穿底价"
 description: "**[一句话核心判断]**  DeepSeek V4 以开源之姿在 Agent Coding 评测中登顶开源榜，同时把百万 token 输入压到 1-12 元，彻底终结「Agent 贵用不起」的历史难题。  **信息增量：** - V4-Pro 在数学、STEM、竞赛级代码三项关键指标全面超越所有已公开评测的开源模型，逼近 Gemini-Pro-3.1 的世界知识水平 - 定价策略激进：Flash"
 resource: "https://x.com/i/status/2047513290092503118"
@@ -22,13 +22,6 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "deepseek-v4-open-source"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2047513290092503118"
-created: "2026-04-24"
-updated: "2026-06-26"
-sha256: "ef6b7009e4d116419d9dd3b89c4bac75cd29b1779502f6ac60f058d8be295b1c"
-sources:
-  - "/sources/highlights/2026-04-24/00__xiaohu__deepseek-v4-开源-100万上下文-agent能力超越所有开源模型-价格杀穿底价.md"
 ---
 
 # DeepSeek V4 开源：100万上下文 + Agent能力超越所有开源模型，价格杀穿底价

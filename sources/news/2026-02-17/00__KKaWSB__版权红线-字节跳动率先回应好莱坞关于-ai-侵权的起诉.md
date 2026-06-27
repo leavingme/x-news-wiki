@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "版权红线：字节跳动率先回应好莱坞关于 AI 侵权的起诉"
 description: "[核心逻辑] 全球 AI 视频模型面临严峻版权审查，厂商的回应速度反映了其合规压力与市场策略。 • 字节跳动回应将修复模型合规问题，以应对派拉蒙、环球等巨头的联合起诉。 • OpenAI 的 Sora 等主流模型亦被卷入此次针对 AI 生成内容的版权纠纷名单。 • 厂商竞争重点正从“纯生成效果”转向“数据源合规”与法律风险规避。  [gakki 的锐评] 创作的边界在于版权，AI 的狂奔终于撞上了"
 resource: "https://x.com/i/status/2023427487074799976"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2023427487074799976"
-created: "2026-02-16"
-updated: "2026-06-26"
-sha256: "bdd0a9bc9936528230daf6ca060e3d2a224a49822566c0ce476d97a165e66f79"
-sources:
-  - "/sources/news/2026-02-17/00__KKaWSB__版权红线-字节跳动率先回应好莱坞关于-ai-侵权的起诉.md"
 ---
 
 # 版权红线：字节跳动率先回应好莱坞关于 AI 侵权的起诉

@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "yetone 公开质疑：Anthropic 是否有未披露的模型路由行为？"
 description: "**一句话核心判断：** Anthropic 可能存在未向用户披露的模型中转路由，Claude Code 的实际模型输出质量与订阅等级之间出现了可信度裂痕。  **信息增量：** - yetone 实测：Claude 自动将默认模型切换为 Opus 4.8，但实际表现极差，编辑文件功能直接崩溃 - 质疑 Anthropic 背后是否偷偷使用 Qwen 等其他模型作为中转 - 这与近期 Claude"
 resource: "https://x.com/i/status/2060692414910894352"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2060692414910894352"
-created: "2026-05-30"
-updated: "2026-06-26"
-sha256: "0562f3b0eef4f2f57b49a4b8ae4539e0a8f79fda3ca693b4bea06fa2592d5b56"
-sources:
-  - "/sources/news/2026-05-30/00__yetone__yetone-公开质疑-anthropic-是否有未披露的模型路由行为.md"
 ---
 
 # yetone 公开质疑：Anthropic 是否有未披露的模型路由行为？

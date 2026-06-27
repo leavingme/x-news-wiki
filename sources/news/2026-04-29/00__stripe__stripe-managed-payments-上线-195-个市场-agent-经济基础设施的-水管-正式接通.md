@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Stripe Managed Payments 上线 195 个市场：Agent 经济基础设施的「水管」正式接通"
 description: "**Stripe 不是在做支付产品，是在为 Agent 经济铺设「税务+风控+争议处理」的全托管管道。** - 195 个市场的商家记录解决方案，覆盖税务、欺诈、争议、客服全链路 - 对 Agent 场景意味着：任何 Agent 驱动的数字交易都有了现成的合规基础设施 - 这是从「Agent 能花钱」到「Agent 花钱合法合规」的关键一步  不是加密叙事，是传统支付基础设施对 Agent 经济的"
 resource: "https://x.com/stripe/status/2049532106712453307"
@@ -22,13 +22,6 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "ai-agent-crypto-infra"
 x_source: "ai-trend-digest"
-type_okf: "X Tweet"
-source_url: "https://x.com/stripe/status/2049532106712453307"
-created: "2026-04-29"
-updated: "2026-06-26"
-sha256: "3105bef8355b775394c96b7f86015ac38dedbdf91f28f8cccb119862c49fc1e5"
-sources:
-  - "/sources/news/2026-04-29/00__stripe__stripe-managed-payments-上线-195-个市场-agent-经济基础设施的-水管-正式接通.md"
 ---
 
 # Stripe Managed Payments 上线 195 个市场：Agent 经济基础设施的「水管」正式接通

@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "OpenClaw 4 个月超越 React 10 年：GitHub 25 万 Star 背后的 Agent 基础设施需求井喷"
 description: "**[开源 Agent 编排工具正在以超线性速度成为开发者基础设施的默认选择]** • 4 个月达成 25 万 Star，超过 React（24.3 万）和 Linux（22 万），反映市场对 Agent 基础设施的饥渴程度远超预期 • 这不是单纯的\"爆款现象\"，而是开发者对\"可编排、可扩展、去中心化\"Agent 工具链的集体投票 • 对比 React 10 年、Linux 25 年的积累周期，A"
 resource: "https://x.com/i/status/2028832852499153115"
@@ -22,13 +22,6 @@ x_selected: 2
 x_priority: 95
 x_related_topic: "open-agent-ecosystem"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2028832852499153115"
-created: "2026-03-03"
-updated: "2026-06-26"
-sha256: "cc31d8b6c028a80b41d7a7e13429847f724fb01593a7edfb10e5bb40a1d64959"
-sources:
-  - "/sources/highlights/2026-03-05/95__starzq__openclaw-4-个月超越-react-10-年-github-25-万-star-背后的-agent-基础设施需求.md"
 ---
 
 # OpenClaw 4 个月超越 React 10 年：GitHub 25 万 Star 背后的 Agent 基础设施需求井喷

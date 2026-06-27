@@ -1,23 +1,17 @@
 ---
-type: "entity"
+type: "Author"
 title: "Christina Cacioppo (@christinacaci)"
 description: "X/Twitter 作者 @christinacaci。共收录 1 条 AI 精选推文。"
 tags:
   - "x-news"
   - "author"
   - "author:christinacaci"
-timestamp: "2026-06-26T11:53:36.992Z"
+timestamp: "2026-06-27T08:40:40.205Z"
 x_handle: "christinacaci"
 x_author_name: "Christina Cacioppo"
 x_tweet_count: 1
 x_first_seen: "2026-04-29T16:17:56.711Z"
 x_last_seen: "2026-04-29T16:17:56.711Z"
-type_okf: "Author"
-created: "2026-04-29"
-updated: "2026-06-26"
-sha256: "b2dff70154b5d71c16a72eeba3c9a4012802c98df87152be8161126324f9dd92"
-sources:
-  - "/sources/news/2026-04-29/00__christinacaci__vanta-增长反常识加速-10m-300m-arr-复利效应验证合规-saas-天花板.md"
 ---
 
 # Christina Cacioppo (@christinacaci)

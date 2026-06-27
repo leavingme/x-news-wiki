@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Linear 用「道歉式招聘」讽刺 AI 裁员潮：科技公司的价值观表态正在变成招聘武器"
 description: "**当整个行业都在用 AI 裁员时，不裁员反而成了最强的雇主品牌。**  - Linear 发布了一则措辞带有明显歉意的招聘帖，实质上在嘲讽那些以 AI 为理由大规模裁员的公司 - 这种「反向操作」正在成为一种新的招聘策略：在 AI 焦虑弥漫的市场中，承诺「我们不用 AI 替代你」本身就是差异化  锐评：AI 裁员叙事已经从「效率优化」滑向「道德负债」。Linear 这招聪明在于——它不需要真的不"
 resource: "https://x.com/i/status/2052925146290417977"
@@ -22,13 +22,6 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "ai-employment-replacement-narrative"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2052925146290417977"
-created: "2026-05-09"
-updated: "2026-06-26"
-sha256: "73867045e3ef19100b175aa2d5d13fd916ade5f92bb3638466350f033d5d36fe"
-sources:
-  - "/sources/news/2026-05-09/00__op7418__linear-用-道歉式招聘-讽刺-ai-裁员潮-科技公司的价值观表态正在变成招聘武器.md"
 ---
 
 # Linear 用「道歉式招聘」讽刺 AI 裁员潮：科技公司的价值观表态正在变成招聘武器

@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "DeepSeek 再曝奇异 Bug：开源模型的工程质量隐忧仍在积累"
 description: "**DeepSeek 被发现一个\"既奇怪又令人担忧\"的 Bug，具体细节待确认但信号值得追踪。** - 机器之心以\"strange and concerning\"定性，暗示该 Bug 可能触及模型行为层面而非简单功能缺陷 - DeepSeek 作为当前最受关注的开源推理模型，任何工程异常都会被放大解读为\"训练稳定性\"信号 - 需关注：该 Bug 是否影响推理输出质量、是否仅限特定版本、官方响应速度"
 resource: "https://x.com/i/status/2053643749008486492"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2053643749008486492"
-created: "2026-05-11"
-updated: "2026-06-26"
-sha256: "a55d0ece587b4087345aaa5224a8d566fa30c6387614a8ded08705e6fafa435d"
-sources:
-  - "/sources/news/2026-05-11/00__jiqizhixin__deepseek-再曝奇异-bug-开源模型的工程质量隐忧仍在积累.md"
 ---
 
 # DeepSeek 再曝奇异 Bug：开源模型的工程质量隐忧仍在积累

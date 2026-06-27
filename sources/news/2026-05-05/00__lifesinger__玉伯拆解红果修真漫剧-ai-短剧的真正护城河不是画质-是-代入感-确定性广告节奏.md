@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "玉伯拆解红果修真漫剧：AI 短剧的真正护城河不是画质，是「代入感 × 确定性广告节奏」"
 description: "**短剧的底层逻辑正在反向定义 AI 内容生成的产品参数。**  - 红果漫剧每集 2-3 分钟，画质一般甚至画风突变，但完播率极高 - 关键设计：7 秒确定性广告（不可跳过但可接受），类似 YouTube 但更短更可预期 - 核心洞察：人脑对「升级叙事」有天然代入感——漫剧主角从无名小辈升级，映射每个人的现实 - 玉伯判断：漫剧抓住了「生活的本质」，不是奢侈品不是明星，是普通人升级的代入感  g"
 resource: "https://x.com/i/status/2051661857459761270"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2051661857459761270"
-created: "2026-05-05"
-updated: "2026-06-26"
-sha256: "5ef456682194faf2f93eb6797b930245f36fef6c0ce3e6e763942b9d7562b006"
-sources:
-  - "/sources/news/2026-05-05/00__lifesinger__玉伯拆解红果修真漫剧-ai-短剧的真正护城河不是画质-是-代入感-确定性广告节奏.md"
 ---
 
 # 玉伯拆解红果修真漫剧：AI 短剧的真正护城河不是画质，是「代入感 × 确定性广告节奏」

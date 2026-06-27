@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "歸藏补刀：Fable5 在 Coding/Agent/工具调用基准上「大幅领先」Opus4.8"
 description: "**歸藏从基准分数切入，量化了 Mythos 系模型相对 Opus4.8 的代差——价格砍半的同时能力反向上跳。**  -定价：输入 $10/M、输出 $50/M，比 Mythos Preview 直降50%。 -能力定位：Coding、Agent编排、工具调用三类基准显著超过 Opus4.8。 - 分发策略：Mythos仍仅合作方，Fable5 通过 API + Pro/Max/Team/Ent"
 resource: "https://x.com/i/status/2064399444523782377"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2064399444523782377"
-created: "2026-06-09"
-updated: "2026-06-26"
-sha256: "5907788cdb1cfd6ff7e84ced4da7146f271392e10b9f3901123d409aa8fd4fac"
-sources:
-  - "/sources/news/2026-06-09/00__op7418__歸藏补刀-fable5-在-coding-agent-工具调用基准上-大幅领先-opus4-8.md"
 ---
 
 # 歸藏补刀：Fable5 在 Coding/Agent/工具调用基准上「大幅领先」Opus4.8

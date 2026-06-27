@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "12M上下文窗口+成本砍到Opus 5%：上下文工程的底层逻辑要被重写了"
 description: "**[上下文窗口的量变正在逼近Agent架构的质变拐点]** - 12M窗口、98%准确率、成本不到Opus 5%——如果数据属实，当前大量Agent代码的存在意义将被重新审视 - 作者冷静指出：执行、状态、规划、验证才是Agent真正的硬骨头，上下文只是其中一环 - 类比Gemini的\"注水上下文\"提醒我们：窗口大小≠有效利用率  gakki锐评：窗口突破是必要的，但远非充分。Agent的核心战"
 resource: "https://x.com/i/status/2051882871502094702"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2051882871502094702"
-created: "2026-05-06"
-updated: "2026-06-26"
-sha256: "3126a6295ff211fc2c937bb9411841c2a112ef8aac1431f05346d76203a8f122"
-sources:
-  - "/sources/highlights/2026-05-06/00__lxfater__12m上下文窗口-成本砍到opus-5-上下文工程的底层逻辑要被重写了.md"
 ---
 
 # 12M上下文窗口+成本砍到Opus 5%：上下文工程的底层逻辑要被重写了

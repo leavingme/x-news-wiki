@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "苹果 Siri AI 正式重构:端云分层 + Gemini 定制底座,Siri 独立成 App"
 description: "**Apple Intelligence for Siri 是一次系统级重构,但演示风格暴露了 Cupertino 的补课姿态**  - 端云分层架构:端侧模型处理本地信息调用、本机个人数据、感知场景;云端处理复杂任务,基于 Gemini 模型定制(非完全采用 Gemini) - Siri 独立 App 化:自然对话、上下文记忆、跨应用替你动手、能看懂屏幕和镜头 - 全面 AI 加持:照片智能重新"
 resource: "https://x.com/i/status/2064172476427608135"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2064172476427608135"
-created: "2026-06-09"
-updated: "2026-06-26"
-sha256: "214afc6ada260692e4845b0c10f7b5b3a5fe8703cfb26c089886cc189b1cc329"
-sources:
-  - "/sources/highlights/2026-06-09/00__xiaohu__苹果-siri-ai-正式重构-端云分层-gemini-定制底座-siri-独立成-app.md"
 ---
 
 # 苹果 Siri AI 正式重构:端云分层 + Gemini 定制底座,Siri 独立成 App

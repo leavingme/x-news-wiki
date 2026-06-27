@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "lidang 锐评：全球 AI 算力耗电总量，比德州一个州白天空调浪费还低一个数量级"
 description: "**[lidang 抛出一个反共识的能源账：全人类 AI 算力耗电 ÷ Texas 家庭白天空调浪费 ≈ 10%]**  - 核心命题：如果德州老百姓养成出门关空调的习惯，释放的电力足够喂饱 10 个 OpenAI+Anthropic+字节+DeepSeek+GLM+Moonshot+小米+minimax 级别 - 算术背景：黄仁勋曾提出\"AI 五层蛋糕\"，能源是最底层；lidang 的切入是把能"
 resource: "https://x.com/i/status/2069032724715770245"
@@ -22,13 +22,6 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "ai-energy-infrastructure"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2069032724715770245"
-created: "2026-06-22"
-updated: "2026-06-26"
-sha256: "d4448afa5d18a2c221c127a121b9a9030d215794e85936dee2ff315624e53a6a"
-sources:
-  - "/sources/highlights/2026-06-24/00__lidangzzz__lidang-锐评-全球-ai-算力耗电总量-比德州一个州白天空调浪费还低一个数量级.md"
 ---
 
 # lidang 锐评：全球 AI 算力耗电总量，比德州一个州白天空调浪费还低一个数量级

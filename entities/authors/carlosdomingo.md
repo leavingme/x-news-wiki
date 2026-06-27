@@ -1,23 +1,17 @@
 ---
-type: "entity"
+type: "Author"
 title: "Carlos Domingo (@carlosdomingo)"
 description: "X/Twitter 作者 @carlosdomingo。共收录 1 条 AI 精选推文。"
 tags:
   - "x-news"
   - "author"
   - "author:carlosdomingo"
-timestamp: "2026-06-26T11:53:36.992Z"
+timestamp: "2026-06-27T08:40:40.205Z"
 x_handle: "carlosdomingo"
 x_author_name: "Carlos Domingo"
 x_tweet_count: 1
 x_first_seen: "2026-04-29T13:18:12.282Z"
 x_last_seen: "2026-04-29T13:18:12.282Z"
-type_okf: "Author"
-created: "2026-04-29"
-updated: "2026-06-26"
-sha256: "06a16e012e401d9097b860f93edfa5dbaacc12aace4127fbbfc4065636cb75f8"
-sources:
-  - "/sources/highlights/2026-04-29/00__carlosdomingo__全球最大过户代理-computershare-选择链上代币化-60-标普500公司的股票即将上链.md"
 ---
 
 # Carlos Domingo (@carlosdomingo)

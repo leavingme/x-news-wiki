@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "yetone 一句话点破\"AI Coding 怀旧\"元命题：制品没变，所以才有比较"
 description: "**Vibe Coding 焦虑的根源不是模型能力，是自我价值感的锚点被复制。**  - 我们不怀念打孔纸→因为制品从打孔纸变成了代码，介质变了 - 我们怀念手写代码→因为 AI Coding 制品还是源代码，介质没变 - 制品同质 = 比较自然发生 = \"AI 写的就不如我\"的情感来源  锐评：这是 Vibe Coding 争议的底层心法。承认这层心理机制（自我价值感锚点被复制），才能不把工程问"
 resource: "https://x.com/i/status/2069336002662113392"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2069336002662113392"
-created: "2026-06-23"
-updated: "2026-06-26"
-sha256: "0aca08b980e8ed9c403c1fe342b35a66b875e1599ce6dbf3d8f63bb59351b584"
-sources:
-  - "/sources/news/2026-06-23/00__yetone__yetone-一句话点破-ai-coding-怀旧-元命题-制品没变-所以才有比较.md"
 ---
 
 # yetone 一句话点破"AI Coding 怀旧"元命题：制品没变，所以才有比较

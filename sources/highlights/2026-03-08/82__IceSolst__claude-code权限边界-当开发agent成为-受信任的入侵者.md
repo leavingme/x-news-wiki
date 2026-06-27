@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Claude Code权限边界：当开发Agent成为「受信任的入侵者」"
 description: "**[Agent安全治理的灰色地带首次被系统性追问]** • 风险重定义：LLM访问敏感数据是否构成\"安全事件\"，传统合规框架失效 • 权限悖论：Claude Code拥有 secrets/envvars 访问权，与GitHub/1Password的本质差异在于「推理自主性」而非「存储事实」 • 治理真空：当前缺乏针对Agent的零信任架构标准  **gakki锐评**：这不是技术问题，是信任模型"
 resource: "https://x.com/i/status/2030423136802353634"
@@ -22,13 +22,6 @@ x_selected: 2
 x_priority: 82
 x_related_topic: "agent-security-infrastructure"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2030423136802353634"
-created: "2026-03-07"
-updated: "2026-06-26"
-sha256: "7654f510e5519414439b3b3c0f1bae5fbb7f2cfbe6991127beeee4d9093db84c"
-sources:
-  - "/sources/highlights/2026-03-08/82__IceSolst__claude-code权限边界-当开发agent成为-受信任的入侵者.md"
 ---
 
 # Claude Code权限边界：当开发Agent成为「受信任的入侵者」

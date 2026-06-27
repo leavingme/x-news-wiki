@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "AI 没有消灭工程师，反而让每个人需要承载十倍野心——Indeed 数据实锤就业反弹"
 description: "**AI 产出放大器效应正在改写\"就业替代\"叙事。**  - Indeed 数据：软件开发岗位从 2025 年中触底后连涨 10 个月，比最低点高 15% - LinkedIn AI 工程师岗位同比涨 143%，a16z 专文论证\"AI 就业末日是幻想\" - 核心逻辑翻转：AI 让每人产出 10 倍 → 需要更多人来承载 10 倍野心，而非裁人  gakki 锐评：数据好看，但别忘了这波招聘红利集"
 resource: "https://x.com/i/status/2053719083666034867"
@@ -22,13 +22,6 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "ai-employment-replacement-narrative"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2053719083666034867"
-created: "2026-05-11"
-updated: "2026-06-26"
-sha256: "8186f016c52ee26a9af8178eba6adfcebbdc84824f0e61efc93408f36cbb3a21"
-sources:
-  - "/sources/highlights/2026-05-11/00__oran_ge__ai-没有消灭工程师-反而让每个人需要承载十倍野心-indeed-数据实锤就业反弹.md"
 ---
 
 # AI 没有消灭工程师，反而让每个人需要承载十倍野心——Indeed 数据实锤就业反弹

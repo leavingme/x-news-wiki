@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "OKX Wallet AgentFi 范式转移：从手动操作到「意图表达」的链上交互革命"
 description: "**[OKX 正在定义下一代链上交互标准]** • 非简单功能叠加，而是底层交互范式转移——用户只需定义策略，执行完全交给 Agent • 本地 TEE 环境运行，私钥不出设备，兼顾自动化与安全性 • 从 CeFi → DeFi → AgentFi 的演进路径清晰，Gas 补贴降低体验门槛 • X Launch 将空投参与从「有时间折腾」变为「有认知判断」  OKX 这套组合拳的底层逻辑是：把「执"
 resource: "https://x.com/i/status/2037687990311657709"
@@ -22,13 +22,6 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "ai-crypto-agent-infra"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2037687990311657709"
-created: "2026-03-28"
-updated: "2026-06-26"
-sha256: "d5abc2da82236e4203d5ac5984bfb136ee4ba598fd3579980ee252e77a8856cb"
-sources:
-  - "/sources/highlights/2026-03-29/00__xuanyu_007__okx-wallet-agentfi-范式转移-从手动操作到-意图表达-的链上交互革命.md"
 ---
 
 # OKX Wallet AgentFi 范式转移：从手动操作到「意图表达」的链上交互革命

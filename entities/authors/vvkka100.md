@@ -1,23 +1,17 @@
 ---
-type: "entity"
+type: "Author"
 title: "Vvkk (@vvkka100)"
 description: "X/Twitter 作者 @vvkka100。共收录 1 条 AI 精选推文。"
 tags:
   - "x-news"
   - "author"
   - "author:vvkka100"
-timestamp: "2026-06-26T11:53:36.972Z"
+timestamp: "2026-06-27T08:40:40.189Z"
 x_handle: "vvkka100"
 x_author_name: "Vvkk"
 x_tweet_count: 1
 x_first_seen: "2026-04-05T00:42:57.347Z"
 x_last_seen: "2026-04-05T00:42:57.347Z"
-type_okf: "Author"
-created: "2026-04-05"
-updated: "2026-06-26"
-sha256: "095ffb87d0c8343b010d95f580de8a66fd5298ed9d91744e5cb6456c3b23a44f"
-sources:
-  - "/sources/news/2026-04-05/00__vvkka100__google-把-gemma-4-塞进-iphone-端侧多模态-agent-进入-应用市场-时代.md"
 ---
 
 # Vvkk (@vvkka100)

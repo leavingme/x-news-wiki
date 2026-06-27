@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Vapi AI融资5000万美元：企业级语音Agent基础设施的工程护城河首次被资本验证"
 description: "**一句话核心判断：** Vapi跑出了企业级语音Agent的工程标准——可预测延迟、硬性Guardrails、逐调用可观测、向人类优雅升级——这比产品功能更重要。  Peak XV领投，7200万美元总融资，说明语音Agent已从「Demo玩具」进入「生产级交付」阶段。  gakki 锐评：语音Agent的门槛从来不在识别准确率，而在「什么时候该让人介入」这个判断。Vapi的「clean esc"
 resource: "https://x.com/nikhilro_/status/2054216433882558848"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
-
 x_source: "ai-trend-digest"
-type_okf: "X Tweet"
-source_url: "https://x.com/nikhilro_/status/2054216433882558848"
-created: "2026-05-12"
-updated: "2026-06-26"
-sha256: "9162717fe58dc5757fb4ddee5197102f468da53c3bd3bed5377525af32f50607"
-sources:
-  - "/sources/highlights/2026-05-12/00__nikhilro___vapi-ai融资5000万美元-企业级语音agent基础设施的工程护城河首次被资本验证.md"
 ---
 
 # Vapi AI融资5000万美元：企业级语音Agent基础设施的工程护城河首次被资本验证

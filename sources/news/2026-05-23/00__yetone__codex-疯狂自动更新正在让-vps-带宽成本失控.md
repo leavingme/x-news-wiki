@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Codex 疯狂自动更新正在让 VPS 带宽成本失控"
 description: "**[ Codex 自动更新正在制造意外的云资源账单 ]**  yetone 遭遇 Codex 疯狂自动更新导致 VPS 带宽被耗尽的真实案例。这类工具的静默后台行为正在让开发者付出真实的云资源成本代价。  关键风险：Agent 工具的隐式资源消耗（带宽、CPU、存储）往往被低估，直到账单出现才被发现。这暴露了 AI Coding 工具在生产环境中缺乏资源使用透明度的问题。  对于部署 self-"
 resource: "https://x.com/i/status/2058106890081731013"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2058106890081731013"
-created: "2026-05-23"
-updated: "2026-06-26"
-sha256: "ec3d3dde2bf882c349844fd29e658d2e6cbbc5d0a0c6bfa1e29701d37075cf28"
-sources:
-  - "/sources/news/2026-05-23/00__yetone__codex-疯狂自动更新正在让-vps-带宽成本失控.md"
 ---
 
 # Codex 疯狂自动更新正在让 VPS 带宽成本失控

@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "宝玉身体诚实：GPT 5.5 写作能力反超后，Codex + ChatGPT 正在吃掉 Claude Code 的场景"
 description: "**[GPT 5.5 用写作能力换回了用户，Token 焦虑成关键分水岭]**  宝玉作为资深 AI 工具观察者，在 GPT 5.5 发布后罕见地切换主力工具链——从 Claude Code 转向 Codex + ChatGPT。核心原因：GPT 写作能力提升 + 目前无 Token 焦虑。  • 写作场景（代码注释、文档、prompt 迭代）GPT 5.5 已满足 • Claude Code 的"
 resource: "https://x.com/i/status/2049160607337714068"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2049160607337714068"
-created: "2026-04-28"
-updated: "2026-06-26"
-sha256: "b9cbea2291b30f13bb616e5f66455dedd4b5b42842fa66aca166cb5de20da25e"
-sources:
-  - "/sources/news/2026-04-28/00__dotey__宝玉身体诚实-gpt-5-5-写作能力反超后-codex-chatgpt-正在吃掉-claude-code-的场景.md"
 ---
 
 # 宝玉身体诚实：GPT 5.5 写作能力反超后，Codex + ChatGPT 正在吃掉 Claude Code 的场景

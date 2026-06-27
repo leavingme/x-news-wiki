@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "当AI能帮你实现一切，竞赛就开始只比创意"
 description: "**一场AI竞赛透露的信号：执行层已被AI平权，比赛只剩想法。**  • 四个通用赛道：生活娱乐、学习工作、社会服务、硬件交互，画风全部生活化（冰箱剩菜配菜谱、AI砍价、给老人读药品说明、识别野生蘑菇） • 核心判断：\"比的是创意和想法，因为其他的现在AI都能帮你实现了\"——执行门槛崩塌后，idea-only 的轻量级 hackathon 才有意义 • 反映趋势：传统\"做出来\"型赛道的竞争壁垒消失"
 resource: "https://x.com/i/status/2067140181279596894"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2067140181279596894"
-created: "2026-06-17"
-updated: "2026-06-26"
-sha256: "074ae52cd4f6a5091dd3516567a2a976e612f6112ca7ec935e96aa08ad932dcf"
-sources:
-  - "/sources/news/2026-06-17/00__xiaohu__当ai能帮你实现一切-竞赛就开始只比创意.md"
 ---
 
 # 当AI能帮你实现一切，竞赛就开始只比创意

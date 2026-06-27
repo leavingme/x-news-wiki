@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Seedance 2审查机制正在杀死长视频工作流：开源视频模型的「最优解」悖论"
 description: "**最好的开源视频模型正在被自己的安全审查系统扼杀——这是一个关于「模型能力」与「可用性」脱节的活标本。**  - Christopher Gwinn实测确认Seedance 2是当前最佳视频模型，但审查系统对连续创作构成致命障碍：已生成的素材无法在后续迭代中复用。 - 即便通过Dreamina CPP获取低审查版本，工作流可靠性依然令人崩溃。 - 核心矛盾：模型能力登顶 ≠ 生产力可用。审查策略"
 resource: "https://x.com/ChrisGwinnLA/status/2050060332962328882"
@@ -22,13 +22,6 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "open-source-video-generation-leap"
 x_source: "ai-trend-digest"
-type_okf: "X Tweet"
-source_url: "https://x.com/ChrisGwinnLA/status/2050060332962328882"
-created: "2026-05-01"
-updated: "2026-06-26"
-sha256: "928850f658ce87933187888f2c337c3a49bdb20bb59d9bfae4aa84156e997c55"
-sources:
-  - "/sources/news/2026-05-01/00__ChrisGwinnLA__seedance-2审查机制正在杀死长视频工作流-开源视频模型的-最优解-悖论.md"
 ---
 
 # Seedance 2审查机制正在杀死长视频工作流：开源视频模型的「最优解」悖论

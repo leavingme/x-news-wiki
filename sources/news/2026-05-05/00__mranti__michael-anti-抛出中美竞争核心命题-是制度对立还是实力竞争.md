@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Michael Anti 抛出中美竞争核心命题：是制度对立还是实力竞争？"
 description: "**中美竞争的本质是制度之争还是实力之争，这个问题决定了AI地缘博弈的底层逻辑。**  - Michael Anti 提出关键区分：美国将中国视为头号对手，是因为「非民主」还是「竞争力」？ - 这个问题直接影响AI芯片出口管制、技术封锁的政策走向——如果是实力竞争，封锁将更激进且无解 - 对中国AI从业者而言，这意味着「被卡脖子」的底层原因是「做得太好」而非「做得不对」  **gakki锐评：**"
 resource: "https://x.com/i/status/2051512166235451459"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2051512166235451459"
-created: "2026-05-05"
-updated: "2026-06-26"
-sha256: "0810288222b843c53eb750fbf8b28e6e9b847735a64016e92ae7947f2221048d"
-sources:
-  - "/sources/news/2026-05-05/00__mranti__michael-anti-抛出中美竞争核心命题-是制度对立还是实力竞争.md"
 ---
 
 # Michael Anti 抛出中美竞争核心命题：是制度对立还是实力竞争？

@@ -1,23 +1,17 @@
 ---
-type: "entity"
+type: "Author"
 title: "在悉尼和稀泥 (@JamesAI)"
 description: "X/Twitter 作者 @JamesAI。共收录 1 条 AI 精选推文。"
 tags:
   - "x-news"
   - "author"
   - "author:JamesAI"
-timestamp: "2026-06-26T11:53:36.974Z"
+timestamp: "2026-06-27T08:40:40.191Z"
 x_handle: "JamesAI"
 x_author_name: "在悉尼和稀泥"
 x_tweet_count: 1
 x_first_seen: "2026-04-08T00:43:36.581Z"
 x_last_seen: "2026-04-08T00:43:36.581Z"
-type_okf: "Author"
-created: "2026-04-08"
-updated: "2026-06-26"
-sha256: "bf5b24ea7ccc4f98d9323f38725c342464102f27734bcb8aac77d8a848b3b021"
-sources:
-  - "/sources/news/2026-04-08/00__JamesAI__gstack的5个workflow模式正在重塑skill的定位-skill是零件-workflow才是整车.md"
 ---
 
 # 在悉尼和稀泥 (@JamesAI)

@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Codex 内置 PPT Skills 接入 GPT-Image-2：多模态 Agent 正在从「对话」溢出到「创作交付」"
 description: "**[ Codex 补全了图像生成短板，PPT Skills 正式成为「图文一体化」生产工具 ]**  • PPT Skills 已能调用 Codex 内置的 GPT-Image-2，根据内容主题自动生成配套图片——人文纪实、信息图、流程图、截图美化均有专门风格适配，不再依赖外部工具拼接。 • 系统流程优化为「先确认再生成」，减少了 AI 跳过确认步骤直接出稿的噪音。 • 关键信号：Codex 的"
 resource: "https://x.com/i/status/2049094944405737512"
@@ -22,13 +22,6 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "claude-code-ecosystem"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2049094944405737512"
-created: "2026-04-28"
-updated: "2026-06-26"
-sha256: "8de2510718517a56767955377f0a10452c5357b1be36d848b5a2db0aff09f3df"
-sources:
-  - "/sources/news/2026-04-28/00__op7418__codex-内置-ppt-skills-接入-gpt-image-2-多模态-agent-正在从-对话-溢出到-创作交付.md"
 ---
 
 # Codex 内置 PPT Skills 接入 GPT-Image-2：多模态 Agent 正在从「对话」溢出到「创作交付」

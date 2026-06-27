@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Qwen3.5「零拒绝」激进版：开源社区正在拆除安全护栏"
 description: "**安全机制的「军备竞赛」已失控。** • 开源社区主动拆除大模型安全护栏，465个敏感提示词零拒绝 • 4090本地可跑的35B模型完全解锁多模态能力，审查与开放的边界被技术击穿 • 激进的「去审查化」趋势将重塑模型分发格局，合规框架面临失效风险  **gakki锐评：** 这不是技术突破，是权力让渡——当任何人都能在本地运行「无护栏」模型时，平台监管的最后一道闸门正在失效。"
 resource: "https://x.com/i/status/2033452783584837979"
@@ -22,13 +22,6 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "adult-content-agent-threshold"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2033452783584837979"
-created: "2026-03-16"
-updated: "2026-06-26"
-sha256: "8e67aab2cc6133d7a216943052395185f95aa6e9bb9c2cb1f5d201e11402f33b"
-sources:
-  - "/sources/highlights/2026-03-16/00__xiaohu__qwen3-5-零拒绝-激进版-开源社区正在拆除安全护栏.md"
 ---
 
 # Qwen3.5「零拒绝」激进版：开源社区正在拆除安全护栏

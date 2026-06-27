@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "具身智能闯入科研深水区：AutoBio 构建高保真生物实验室数字孪生，为机器人科学家铺路"
 description: "**[具身智能正从家庭场景迈向复杂科研领域，数字孪生成为关键训练场]** - 港大、清华、上交等团队推出 AutoBio 框架，构建高保真生物实验室数字孪生，模拟真实物理与透明器皿渲染。 - 该环境专为训练机器人执行复杂生物实验协议设计，标志着具身智能应用场景的重大拓展。 - 这不仅是技术突破，更是AI赋能基础科研范式的潜在拐点，机器人科学家或将从仿真走向现实。  当机器人开始在虚拟实验室里“搬砖"
 resource: "https://x.com/i/status/2028543360768868692"
@@ -22,13 +22,6 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "ev-as-embodied-agent"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2028543360768868692"
-created: "2026-03-02"
-updated: "2026-06-26"
-sha256: "a09c53a3d9f59b119e0b0e6425e942049908fc67b448ae717faef5472b62bed7"
-sources:
-  - "/sources/highlights/2026-03-03/00__jiqizhixin__具身智能闯入科研深水区-autobio-构建高保真生物实验室数字孪生-为机器人科学家铺路.md"
 ---
 
 # 具身智能闯入科研深水区：AutoBio 构建高保真生物实验室数字孪生，为机器人科学家铺路

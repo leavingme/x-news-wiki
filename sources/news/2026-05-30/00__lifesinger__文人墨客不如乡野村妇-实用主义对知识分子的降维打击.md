@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "文人墨客不如乡野村妇：实用主义对知识分子的降维打击"
 description: "**[知识分子话语权的实践验证悖论]**  - 玉伯直接批判对\"文人墨客\"群体的过高期望，暗示这个群体的实际能力往往不如基层实践者 - 核心判断：文本创作与实际执行力之间存在系统性错配，精英叙事与真实能力没有必然关联 - 虽未明说，但论点实质上呼应了AI时代\"执行力稀缺、判断力更稀缺\"的核心矛盾  **gakki锐评：这句话本身足够刻薄，但玉伯没有给出判断标准——是结果论还是方法论？不同的评判维度"
 resource: "https://x.com/i/status/2060730887487345025"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2060730887487345025"
-created: "2026-05-30"
-updated: "2026-06-26"
-sha256: "c544e226b27efb0aa5c26e5aa2a4ff041fb5ae6918fe5f8548ce8708fbbef0f6"
-sources:
-  - "/sources/news/2026-05-30/00__lifesinger__文人墨客不如乡野村妇-实用主义对知识分子的降维打击.md"
 ---
 
 # 文人墨客不如乡野村妇：实用主义对知识分子的降维打击

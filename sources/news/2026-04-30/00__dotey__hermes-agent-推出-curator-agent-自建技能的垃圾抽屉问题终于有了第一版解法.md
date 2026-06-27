@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Hermes Agent 推出 Curator：Agent 自建技能的垃圾抽屉问题终于有了第一版解法"
 description: "**Agent 技能膨胀是所有长期运行 Agent 的必经之痛，Curator 是行业内首个针对此问题的原生治理机制。**  - Agent 的「自我进化」机制会产生大量冗余技能——重复、过时、过于碎片化的技能文件堆积成数字垃圾 - Curator 默认每周自动运行：统计使用频率、合并重叠技能、清理冷门技能、将小技能降级为模板/脚本 - 外部安装、内置、手动锁定的技能不受影响，只治理 Agent "
 resource: "https://x.com/i/status/2049735038560842186"
@@ -22,13 +22,6 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "agent-memory-optimization"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2049735038560842186"
-created: "2026-04-30"
-updated: "2026-06-26"
-sha256: "f02f6af7af6a839a5e54b4557b156ca1af32235a941c5c567d51ea24f3f07b1f"
-sources:
-  - "/sources/news/2026-04-30/00__dotey__hermes-agent-推出-curator-agent-自建技能的垃圾抽屉问题终于有了第一版解法.md"
 ---
 
 # Hermes Agent 推出 Curator：Agent 自建技能的垃圾抽屉问题终于有了第一版解法

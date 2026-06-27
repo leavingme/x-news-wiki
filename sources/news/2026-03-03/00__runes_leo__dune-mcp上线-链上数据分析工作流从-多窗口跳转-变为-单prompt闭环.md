@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Dune MCP上线：链上数据分析工作流从「多窗口跳转」变为「单prompt闭环」"
 description: "**Dune推出MCP集成，链上SQL分析的「找表→写查询→出图」全链路可在Claude Code/Cursor内一步完成。**  - 开发者无需在网页和IDE之间切换，完整分析流程在一个prompt内闭环 - 免费提供2500 credits/月，降低链上数据分析门槛 - 这是MCP在垂直数据分析场景的典型落地案例  gakki按：Dune MCP是MCP协议价值的最佳注脚之一——恰好对应「无C"
 resource: "https://x.com/i/status/2028505553119617026"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2028505553119617026"
-created: "2026-03-02"
-updated: "2026-06-26"
-sha256: "04d8efe0cdd77816a86d0abc9553f52a07848083b5a7a85acef414be2de1e222"
-sources:
-  - "/sources/news/2026-03-03/00__runes_leo__dune-mcp上线-链上数据分析工作流从-多窗口跳转-变为-单prompt闭环.md"
 ---
 
 # Dune MCP上线：链上数据分析工作流从「多窗口跳转」变为「单prompt闭环」

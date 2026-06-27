@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "OpenAI Codex 官方入驻 Claude Code：竞合关系的新范式"
 description: "**[OpenAI与Anthropic从对抗走向工具层互操作]** • 官方插件支持 /codex:review、/codex:adversarial-review、/codex:rescue 三种审查模式 • 标志着头部 AI 公司开始放弃「围墙花园」策略，转向用户工作流的深度嵌入 • 对开发者而言，这意味着无需在 Claude Code 和 Codex 之间做二选一  gakki 锐评：这不是"
 resource: "https://x.com/i/status/2038793945053098484"
@@ -22,13 +22,6 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "codex-ecosystem-platform-war"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2038793945053098484"
-created: "2026-03-31"
-updated: "2026-06-26"
-sha256: "73f03ac66c9aaed29397dfea36e2b4333d77f44ca404edd80788b72021c584d5"
-sources:
-  - "/sources/highlights/2026-03-31/00__op7418__openai-codex-官方入驻-claude-code-竞合关系的新范式.md"
 ---
 
 # OpenAI Codex 官方入驻 Claude Code：竞合关系的新范式

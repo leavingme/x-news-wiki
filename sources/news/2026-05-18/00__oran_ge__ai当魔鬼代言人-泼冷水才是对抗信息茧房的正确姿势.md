@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "AI当魔鬼代言人：泼冷水才是对抗信息茧房的正确姿势"
 description: "**核心判断：AI顺从用户是危险的，逆向输入才是生产关系重构。**  • 核心洞察来自刘小排的观察：AI与用户双向顺从会形成思考闭环，两个人一起困在信息茧房里而不自知 • 解决路径是让AI扮演批评者角色，专门提供逆向观点，直面真相而非制造舒适幻觉 • Cola已将这套方法蒸馏成Skill并开源，任何Agent都可以安装这个「冷水」能力  真正的AI价值不在于顺着你，而在于敢得罪你。泼冷水 Skil"
 resource: "https://x.com/i/status/2056288957164605495"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2056288957164605495"
-created: "2026-05-18"
-updated: "2026-06-26"
-sha256: "d023e098be158691c2868a0557fbccf2fd52617957c18b181ea9671bc074a980"
-sources:
-  - "/sources/news/2026-05-18/00__oran_ge__ai当魔鬼代言人-泼冷水才是对抗信息茧房的正确姿势.md"
 ---
 
 # AI当魔鬼代言人：泼冷水才是对抗信息茧房的正确姿势

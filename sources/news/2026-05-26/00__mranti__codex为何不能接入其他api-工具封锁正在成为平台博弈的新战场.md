@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Codex为何不能接入其他API？工具封锁正在成为平台博弈的新战场"
 description: "**[Michael Anti提问揭开AI工具链「生态锁定」的行业性难题]**  - Codex作为OpenAI的CLI产品，API接入限制引发开发者社区对「平台绑定」的质疑 - 工具调用税与分发危机本质是生态入口争夺，平台方通过API限制维持控制权 - 开发者对跨平台能力的真实需求与厂商商业利益之间的张力持续加剧  **gakki锐评：** 当一个工具只支持自家API，这已经不是技术问题而是商业"
 resource: "https://x.com/i/status/2059186990147617249"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2059186990147617249"
-created: "2026-05-26"
-updated: "2026-06-26"
-sha256: "0ca91b27b48f6c5bf574056209751e7362c6bf5249c8e952785042af7a908e95"
-sources:
-  - "/sources/news/2026-05-26/00__mranti__codex为何不能接入其他api-工具封锁正在成为平台博弈的新战场.md"
 ---
 
 # Codex为何不能接入其他API？工具封锁正在成为平台博弈的新战场

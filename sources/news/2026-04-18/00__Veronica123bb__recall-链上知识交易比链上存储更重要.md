@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Recall：链上知识交易比链上存储更重要"
 description: "**[多Agent协作需要的不只是记忆，而是可验证的知识资产]**  Recall.testnet已上线，其核心逻辑不是\"链上数据库\"，而是\"AI知识的交易与验证市场\"——让不同Agent能买卖、引用、对价已验证的知识片段，彻底解决单模型固化的协作瓶颈。  当记忆可交易，AI协作才真正从信息共享进化到知识经济。"
 resource: "https://x.com/i/status/1957710929862488370"
@@ -22,13 +22,6 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "ai-data-blockchain-verification"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/1957710929862488370"
-created: "2025-08-19"
-updated: "2026-06-26"
-sha256: "6f6e5e4c7cf64ff9a59ead41f3d1f46578a5543fb6318ff8f9ff55ddd09295b5"
-sources:
-  - "/sources/news/2026-04-18/00__Veronica123bb__recall-链上知识交易比链上存储更重要.md"
 ---
 
 # Recall：链上知识交易比链上存储更重要

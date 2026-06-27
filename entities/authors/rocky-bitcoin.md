@@ -1,23 +1,17 @@
 ---
-type: "entity"
+type: "Author"
 title: "Rocky (@Rocky_Bitcoin)"
 description: "X/Twitter 作者 @Rocky_Bitcoin。共收录 1 条 AI 精选推文。"
 tags:
   - "x-news"
   - "author"
   - "author:Rocky_Bitcoin"
-timestamp: "2026-06-26T11:53:37.002Z"
+timestamp: "2026-06-27T08:40:40.217Z"
 x_handle: "Rocky_Bitcoin"
 x_author_name: "Rocky"
 x_tweet_count: 1
 x_first_seen: "2026-06-24T22:28:14.420Z"
 x_last_seen: "2026-06-24T22:28:14.420Z"
-type_okf: "Author"
-created: "2026-06-24"
-updated: "2026-06-26"
-sha256: "87c6952eb4b9038055778c322cff310c86067223d18600118d71ff22485e0cee"
-sources:
-  - "/sources/news/2026-06-24/00__Rocky_Bitcoin__ai-液冷基础设施算账-vera-rubin-ultra-vr200-单机柜-600kw-倒逼液冷成为标配.md"
 ---
 
 # Rocky (@Rocky_Bitcoin)

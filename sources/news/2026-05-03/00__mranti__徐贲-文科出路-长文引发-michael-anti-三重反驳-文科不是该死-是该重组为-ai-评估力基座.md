@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "徐贲「文科出路」长文引发 Michael Anti 三重反驳：文科不是该死，是该重组为 AI 评估力基座"
 description: "**文科在 AI 时代的角色不是消亡，而是从「知识容器」重组为「判断力基础设施」。**  - Michael Anti 提出三条路径：公民 AI 评估力预训练、人文+AI 混合实验室、后果评估学科转向 - 核心洞察：文科的价值不在于产出内容，而在于训练人对 AI 输出的判断力——这恰好是当前 Agent 生态最稀缺的能力 - 与「技能门槛雪崩」专题形成张力：当技能贬值，判断力成为真正的阶层分界线 "
 resource: "https://x.com/i/status/2050784979769331949"
@@ -22,13 +22,6 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "cognitive-arbitrage-ai-era"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2050784979769331949"
-created: "2026-05-03"
-updated: "2026-06-26"
-sha256: "5f74d50638f9225b3051ebdfd5670cf99f4356adb33322d3659bf0b19e54b2c0"
-sources:
-  - "/sources/news/2026-05-03/00__mranti__徐贲-文科出路-长文引发-michael-anti-三重反驳-文科不是该死-是该重组为-ai-评估力基座.md"
 ---
 
 # 徐贲「文科出路」长文引发 Michael Anti 三重反驳：文科不是该死，是该重组为 AI 评估力基座

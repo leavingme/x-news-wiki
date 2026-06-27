@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Apodex-1.0-H横扫三大深度研究Benchmark：\"协作+验证\"训练范式开辟新路"
 description: "**\"自进化重型求解器\"在BrowseComp/DeepSearchQA/FrontierScience拿到开源闭源双榜最高分。**  - BrowseComp 90.3、DeepSearchQA 94.4、FrontierScience-Olympiad 87.4，均为目前公开最强 - 与竞品只训练\"编排\"不同，Apodex额外训练了团队协作与结果验证 - 定位Self-Evolving Hea"
 resource: "https://x.com/i/status/2069670789138542867"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2069670789138542867"
-created: "2026-06-24"
-updated: "2026-06-26"
-sha256: "bf4bbf6c278fd7eaf154ed3b746cca5730bc245ea8629f5edf426ec202b4b1ee"
-sources:
-  - "/sources/news/2026-06-24/00__lxfater__apodex-1-0-h横扫三大深度研究benchmark-协作-验证-训练范式开辟新路.md"
 ---
 
 # Apodex-1.0-H横扫三大深度研究Benchmark："协作+验证"训练范式开辟新路

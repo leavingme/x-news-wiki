@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "DeepSeek 视觉论文落地：空间标记嵌入推理链，多模态从「看图说话」进化到「坐标思考」"
 description: "**DeepSeek 将空间原语（点与边界框）直接注入推理轨迹，用最小视觉单元锚定抽象语言概念到物理坐标。**  - 这不是又一个「视觉理解」模型——而是把空间推理变成了思维的原子操作，语言和视觉在推理链内实时交织 - 对比传统 VLM 的「先编码再推理」两段式架构，这种 interleaved reasoning 可能是具身智能和机器人规划的底层范式迁移  gakki：DeepSeek 的论文比"
 resource: "https://x.com/teortaxesTex/status/2049796832088203768"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
-
 x_source: "ai-trend-digest"
-type_okf: "X Tweet"
-source_url: "https://x.com/teortaxesTex/status/2049796832088203768"
-created: "2026-04-30"
-updated: "2026-06-26"
-sha256: "de922576ab7130d5a8dec0f0d5e5fe253384122857765bf32607f756072c64de"
-sources:
-  - "/sources/highlights/2026-04-30/00__teortaxesTex__deepseek-视觉论文落地-空间标记嵌入推理链-多模态从-看图说话-进化到-坐标思考.md"
 ---
 
 # DeepSeek 视觉论文落地：空间标记嵌入推理链，多模态从「看图说话」进化到「坐标思考」

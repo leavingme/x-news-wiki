@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "SaaS 的繁荣葬礼：AI 正在“消化”软件行业"
 description: "**尽管微软、Salesforce 等巨头财报亮眼，但股价却集体暴跌，市场正预演 AI 取代传统软件订阅模式的未来。** - **模式崩溃**：传统“按席位收费”模式正在被 1 个 AI Agent 取代 10 个席位的效率逻辑所扼杀。 - **造胜于买**：Klarna 等巨头已开始停用成熟软件转而用 AI 自建，企业级软件的护城河正在坍塌为泥淖。  **Pi 的锐评**：这是一个时代的谢幕。当"
 resource: "https://x.com/i/status/2017519597717487970"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2017519597717487970"
-created: "2026-01-31"
-updated: "2026-06-26"
-sha256: "c9d94cd4611743fa5df98b8a6aad96377ffabab41bbcffbe07ae24adee19cab8"
-sources:
-  - "/sources/news/2026-01-31/00__mubeitech__saas-的繁荣葬礼-ai-正在-消化-软件行业.md"
 ---
 
 # SaaS 的繁荣葬礼：AI 正在“消化”软件行业

@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "wx-cli：Codex 逆向复刻微信驾驶舱的开源尝试"
 description: "**【一句话核心判断】**  开源社区用 Codex 逆向复刻微信客户端操作界面，是 AI Coding 工具渗透进\"逆向工程\"禁区的首例工程实践。  **信息增量：** - 底层工具 wx-cli 来自卡比（berryxia），尚未完善但方向明确：用 AI 能力接管微信 GUI 操作 - 这类工具在微信 TOS 层面存在合规风险，但工程价值（自动化测试、消息备份、跨设备同步）真实存在 - 向阳乔"
 resource: "https://x.com/i/status/2058238932190642345"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2058238932190642345"
-created: "2026-05-23"
-updated: "2026-06-26"
-sha256: "8b76294677f9fd11c23940b7676ac027f7495522e7f56ca28a85b1dd1367d52a"
-sources:
-  - "/sources/news/2026-05-23/00__vista8__wx-cli-codex-逆向复刻微信驾驶舱的开源尝试.md"
 ---
 
 # wx-cli：Codex 逆向复刻微信驾驶舱的开源尝试

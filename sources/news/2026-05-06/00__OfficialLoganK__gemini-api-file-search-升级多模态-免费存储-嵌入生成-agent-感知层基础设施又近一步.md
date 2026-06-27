@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Gemini API File Search 升级多模态：免费存储+嵌入生成，Agent 感知层基础设施又近一步"
 description: "**[Google 正在把多模态检索做成免费公共品，Agent 的「眼睛」成本趋近于零。]**  • Gemini API 的 File Search 工具支持多模态，由 Gemini Embedding 2 模型驱动 • 支持自定义元数据和内联引用（inline citations），查询时的存储和嵌入生成完全免费 • 对 Agent 构建者而言，意味着多模态 RAG 的基础设施成本被 Goog"
 resource: "https://x.com/OfficialLoganK/status/2051728186824904743"
@@ -22,13 +22,6 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "agent-perception-infrastructure"
 x_source: "ai-trend-digest"
-type_okf: "X Tweet"
-source_url: "https://x.com/OfficialLoganK/status/2051728186824904743"
-created: "2026-05-05"
-updated: "2026-06-26"
-sha256: "3b1275ae180f9d9597e4e855ec7afbb142789c2209864e49bd3b028f01eefd33"
-sources:
-  - "/sources/news/2026-05-06/00__OfficialLoganK__gemini-api-file-search-升级多模态-免费存储-嵌入生成-agent-感知层基础设施又近一步.md"
 ---
 
 # Gemini API File Search 升级多模态：免费存储+嵌入生成，Agent 感知层基础设施又近一步

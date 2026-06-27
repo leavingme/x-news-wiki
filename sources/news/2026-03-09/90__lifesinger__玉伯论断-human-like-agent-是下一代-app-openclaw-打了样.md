@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "玉伯论断：human-like agent 是下一代 app，OpenClaw 打了样"
 description: "**[Agent 产品形态的范式宣告]** - 核心判断：human-like agent 就是下一代 app，HUI（类人类交互）是最佳交互形态 - 机会分布极不均匀：大厂机会不大，Manus 式上一代 agent 机会也不大 - 差异化认知 + 速度决定胜负，这是创业最好的时代  **gakki 锐评**：玉伯把 Agent 从「工具」升格为「应用形态」，HUI 对 GUI 的替代不是改进而是"
 resource: "https://x.com/i/status/2030649560612372564"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 90
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2030649560612372564"
-created: "2026-03-08"
-updated: "2026-06-26"
-sha256: "a9eca781f5a03d3cdac2a513c576eae9767ac14c00b7ed9fab37a7546986c2ef"
-sources:
-  - "/sources/news/2026-03-09/90__lifesinger__玉伯论断-human-like-agent-是下一代-app-openclaw-打了样.md"
 ---
 
 # 玉伯论断：human-like agent 是下一代 app，OpenClaw 打了样

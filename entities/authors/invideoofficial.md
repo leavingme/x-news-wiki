@@ -1,23 +1,17 @@
 ---
-type: "entity"
+type: "Author"
 title: "Invideo (@invideoOfficial)"
 description: "X/Twitter 作者 @invideoOfficial。共收录 1 条 AI 精选推文。"
 tags:
   - "x-news"
   - "author"
   - "author:invideoOfficial"
-timestamp: "2026-06-26T11:53:36.994Z"
+timestamp: "2026-06-27T08:40:40.208Z"
 x_handle: "invideoOfficial"
 x_author_name: "Invideo"
 x_tweet_count: 1
 x_first_seen: "2026-05-01T22:17:34.414Z"
 x_last_seen: "2026-05-01T22:17:34.414Z"
-type_okf: "Author"
-created: "2026-05-01"
-updated: "2026-06-26"
-sha256: "f7bac6ca08b8f504060fcd5cb18a0894ac9494b0294fd68616207fbe70d073dc"
-sources:
-  - "/sources/news/2026-05-01/00__invideoOfficial__invideo让ai-agent-读完-david-fincher电影学院并拍出短片-风格迁移正在工业化.md"
 ---
 
 # Invideo (@invideoOfficial)

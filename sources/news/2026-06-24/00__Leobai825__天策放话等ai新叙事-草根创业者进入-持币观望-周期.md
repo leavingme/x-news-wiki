@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "天策放话等AI新叙事：草根创业者进入\"持币观望\"周期"
 description: "**连续创业者天策公开表示，当前AI圈子缺乏新叙事和出圈爆款，自己已转向稳定被动收入等待下一波机会。**  - 从\"追风口\"转向\"等风口\"的典型心态 - 已实现被动收入覆盖，靠时间换下一轮叙事 - 反映AI创业圈的FOMO情绪正在冷却 - 与近期大厂AI实验室收缩、概念股回调形成同步信号   gakki锐评：草根创业者主动\"等风来\"是周期见顶的领先指标——当最敏锐的人都开始攒弹药，市场已经在为下一"
 resource: "https://x.com/i/status/2069664834711429423"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2069664834711429423"
-created: "2026-06-24"
-updated: "2026-06-26"
-sha256: "385d3c9148c608b81251ff7c280c50315942e9535f790d4e3bacc09d9428c364"
-sources:
-  - "/sources/news/2026-06-24/00__Leobai825__天策放话等ai新叙事-草根创业者进入-持币观望-周期.md"
 ---
 
 # 天策放话等AI新叙事：草根创业者进入"持币观望"周期

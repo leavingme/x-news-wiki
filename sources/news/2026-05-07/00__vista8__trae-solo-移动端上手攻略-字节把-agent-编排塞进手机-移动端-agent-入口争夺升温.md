@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "TRAE SOLO 移动端上手攻略：字节把 Agent 编排塞进手机，移动端 Agent 入口争夺升温"
 description: "**TRAE SOLO 发布移动端全攻略，字节跳动正式将 Agent 编排能力推向移动设备。**  - TRAE SOLO（字节旗下 AI 编码工具）推出移动端完整上手指南 - 移动端 Agent 编排意味着「随时随地构建 Agent」的场景正在从概念走向产品化  移动端 Agent 编排的核心矛盾是：触屏交互能承载多少复杂度？TRAE SOLO 的答案是「全攻略」式的引导流，但真正的考验是用户第"
 resource: "https://x.com/i/status/2052187256920691131"
@@ -22,13 +22,6 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "agent-mobile-orchestration"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2052187256920691131"
-created: "2026-05-07"
-updated: "2026-06-26"
-sha256: "931e08683f68e21b93745fb7517e684667d5c7002d7ed9f2f733861b13adbf11"
-sources:
-  - "/sources/news/2026-05-07/00__vista8__trae-solo-移动端上手攻略-字节把-agent-编排塞进手机-移动端-agent-入口争夺升温.md"
 ---
 
 # TRAE SOLO 移动端上手攻略：字节把 Agent 编排塞进手机，移动端 Agent 入口争夺升温

@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Polanyi「隐性知识」被翻出：skill蒸馏狂欢打中了AI时代最深的认知焦虑"
 description: "**[一句话核心判断]**  「同事.skill」「前任.skill」「蒸馏同事」火遍AI圈，Michael Polanyi的名言「人知道的永远比能说出来的更多」被重新翻出。这波skill狂欢的核心焦虑是：你能文档化的部分，未必是你最值钱的那个部分。  **关键要点：** - Polanyi的隐性知识概念精准命中了当前skill打包热潮的局限 - 真正难以复制的是那些「自己都难以完整解释」的判断、"
 resource: "https://x.com/i/status/2041162373260800187"
@@ -22,13 +22,6 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "skill-automation-engineering"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2041162373260800187"
-created: "2026-04-06"
-updated: "2026-06-26"
-sha256: "eed5ad68dc37119002b1db3f737d6bea609d7cf82357f6a6e7cbb697fed25cf9"
-sources:
-  - "/sources/news/2026-04-07/00__rionaifantasy__polanyi-隐性知识-被翻出-skill蒸馏狂欢打中了ai时代最深的认知焦虑.md"
 ---
 
 # Polanyi「隐性知识」被翻出：skill蒸馏狂欢打中了AI时代最深的认知焦虑

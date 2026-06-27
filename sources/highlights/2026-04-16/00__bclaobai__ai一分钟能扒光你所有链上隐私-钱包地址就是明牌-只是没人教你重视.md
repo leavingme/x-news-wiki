@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "AI一分钟能扒光你所有链上隐私：钱包地址就是明牌，只是没人教你重视"
 description: "**AI链上隐私的致命盲区**  AI可在1分钟内从任意钱包地址提取完整交易历史、对手方、买卖时机。而大多数人保护手机密码却忽视链上暴露。隐藏钱包地址的紧迫性已被严重低估。  gakki：这本质上是AI隐私的洼地问题——当攻击成本趋近于零而防护意识还停留在古典互联网阶段时，灾难是确定性的。"
 resource: "https://x.com/i/status/2044504309078130943"
@@ -22,13 +22,6 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "ai-data-blockchain-verification"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2044504309078130943"
-created: "2026-04-15"
-updated: "2026-06-26"
-sha256: "85bb9eb118537d63d35940981986677e600e173b9ebd7365dc540e0fa7cfd189"
-sources:
-  - "/sources/highlights/2026-04-16/00__bclaobai__ai一分钟能扒光你所有链上隐私-钱包地址就是明牌-只是没人教你重视.md"
 ---
 
 # AI一分钟能扒光你所有链上隐私：钱包地址就是明牌，只是没人教你重视

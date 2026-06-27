@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "BYOA 德州扑克里程碑：AGI 通用性的伪命题正在被实践证伪"
 description: "**[能玩德州扑克的 Agent 才是真正的里程碑，不是对话]**  yetone 透露 BYOA 已到达「相对稳定」阶段，标志性事件是 Agent team 可以玩德州扑克了。德州扑克对 Agent 而言意味着：不完全信息博弈、实时策略调整、多轮交互——这比单纯对话复杂一个量级。  「每天熬夜修 bug」的描述印证了一个事实：AGI 叙事里真正落地的不是「通用」，而是在特定约束下持续迭代的能力。"
 resource: "https://x.com/i/status/2059989730612441155"
@@ -22,13 +22,6 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "ai-agent-self-sustaining-business"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2059989730612441155"
-created: "2026-05-28"
-updated: "2026-06-26"
-sha256: "bbc972fb76e3ef5349128500eeec2a4405b297515c6933cff33ada402470a039"
-sources:
-  - "/sources/highlights/2026-05-28/00__yetone__byoa-德州扑克里程碑-agi-通用性的伪命题正在被实践证伪.md"
 ---
 
 # BYOA 德州扑克里程碑：AGI 通用性的伪命题正在被实践证伪

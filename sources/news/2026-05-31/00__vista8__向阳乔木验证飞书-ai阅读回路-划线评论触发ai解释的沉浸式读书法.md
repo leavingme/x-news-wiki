@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "向阳乔木验证飞书+AI阅读回路：划线评论触发AI解释的沉浸式读书法"
 description: "**【知识管理新范式：Epub→飞书文档→划线评论→Codex/CC解读反馈】**  向阳乔木实测了一种AI辅助阅读流程：先用Codex或Claude Code将Epub按章节写入飞书文档，人在阅读时划线、加粗、评论，再让AI读取这些标记并回复解释。他将此流程封装为Skill，验证了飞书作为人机知识中介的可行性。  关键要点： - 飞书文档成为人类划线标记与AI阅读理解之间的结构化界面 - 划线行"
 resource: "https://x.com/i/status/2061118430305210492"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2061118430305210492"
-created: "2026-05-31"
-updated: "2026-06-26"
-sha256: "054a05a65ec30c84d29bf25031ca5ce5e02d51f656a6c96677b9fc3dd9f8581b"
-sources:
-  - "/sources/news/2026-05-31/00__vista8__向阳乔木验证飞书-ai阅读回路-划线评论触发ai解释的沉浸式读书法.md"
 ---
 
 # 向阳乔木验证飞书+AI阅读回路：划线评论触发AI解释的沉浸式读书法

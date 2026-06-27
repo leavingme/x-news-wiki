@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "马斯克庭审证词：OpenAI案将成判例法，\"慈善捐赠根基\"或被摧毁"
 description: "**一句话核心判断** OpenAI案本质是「慈善法」判例之争，马斯克选择将个人恩怨升格为制度性恐惧。  **后续要点** - 马斯克将案件定性为「偷窃慈善机构的license to loot」：若被告无罪，将成为美国慈善法的判例缺口 - 强调「慈善捐赠根基将被摧毁」，试图将个人纠纷包装成系统性危机，迫使法院倾向于他 - 明天继续作证，核心争议仍是 OpenAI 是否从非营利蜕变为营利实体的组织结"
 resource: "https://x.com/SawyerMerritt/status/2049228704455262493"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
-
 x_source: "ai-trend-digest"
-type_okf: "X Tweet"
-source_url: "https://x.com/SawyerMerritt/status/2049228704455262493"
-created: "2026-04-28"
-updated: "2026-06-26"
-sha256: "e0569cecfbeb0a545134736bfac28cf69c282278389a6ad681c3e0bdc0e4fd99"
-sources:
-  - "/sources/highlights/2026-04-29/00__SawyerMerritt__马斯克庭审证词-openai案将成判例法-慈善捐赠根基-或被摧毁.md"
 ---
 
 # 马斯克庭审证词：OpenAI案将成判例法，"慈善捐赠根基"或被摧毁

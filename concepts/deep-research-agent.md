@@ -1,25 +1,22 @@
 ---
-type: "concept"
-title: "deep-research-agent"
-description: "跨日主题 \"deep-research-agent\"，共 1 条相关精选推文。"
+type: "Concept"
+title: "深度研究Agent"
+description: "跨日主题 \"深度研究Agent\" (deep-research-agent)，共 1 条相关精选推文。"
 tags:
   - "x-news"
   - "concept"
   - "topic:deep-research-agent"
-timestamp: "2026-06-26T11:53:37.021Z"
+timestamp: "2026-06-27T08:40:42.868Z"
 x_topic_slug: "deep-research-agent"
 x_tweet_count: 1
 x_first_seen: "2026-06-18T07:19:13.632Z"
 x_last_seen: "2026-06-18T07:19:13.632Z"
-type_okf: "Concept"
-created: "2026-06-18"
-updated: "2026-06-26"
-sha256: "c82eccf622528db4e6635a0450607f3f7eb274c5c6eecaa438a895e4cafca233"
-sources:
-  - "/sources/highlights/2026-06-18/00__xiaohu__apodex-屠榜双基准-150-子-agent-15000-步自进化求解器-把多-agent-编排推到工业级.md"
+x_cn_title_source: "dict"
 ---
 
-# 主题: deep-research-agent
+# 主题: 深度研究Agent
+
+> slug: `deep-research-agent`
 
 本主题下共 **1** 条精选推文。
 

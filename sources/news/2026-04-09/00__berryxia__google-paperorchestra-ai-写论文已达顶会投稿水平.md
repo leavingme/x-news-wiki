@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Google PaperOrchestra：AI 写论文已达顶会投稿水平"
 description: "**【一句话核心判断】** Google PaperOrchestra 把「想法→LaTeX 论文」全链路自动化，人类盲测文献综述胜率 50-68%、整体论文质量胜率 14-38%——学术发表的游戏规则正在被改写。  **要点：** - 多 Agent 协作：Literature Agent 做文献综述 + 概念图 + 实验图表自动生成 - PaperWritingBench 基准从 200 篇顶"
 resource: "https://x.com/i/status/2041920675875860944"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2041920675875860944"
-created: "2026-04-08"
-updated: "2026-06-26"
-sha256: "d6d6ba02e7ce619f5c31e0b82ddf94b8ef20c87e8bd04844f258c41ae00c8725"
-sources:
-  - "/sources/news/2026-04-09/00__berryxia__google-paperorchestra-ai-写论文已达顶会投稿水平.md"
 ---
 
 # Google PaperOrchestra：AI 写论文已达顶会投稿水平

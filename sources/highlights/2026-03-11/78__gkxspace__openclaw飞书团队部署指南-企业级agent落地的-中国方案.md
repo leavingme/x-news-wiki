@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "OpenClaw飞书团队部署指南：企业级Agent落地的「中国方案」"
 description: "**[本土IM生态与开源Agent框架的融合：企业数字员工的实操路径]**  - 提供从0到1搭建OpenClaw飞书团队的详细指南，可直接作为模板复用 - 支持根据个性化需求定义角色，实现Agent团队的快速配置与部署 - 代表开源Agent框架向企业协作场景渗透的典型路径   飞书作为企业入口+OpenClaw作为Agent引擎的组合，可能成为中国企业「数字员工」落地的性价比之选。关键在于角色"
 resource: "https://x.com/i/status/2031246743694618698"
@@ -22,13 +22,6 @@ x_selected: 2
 x_priority: 78
 x_related_topic: "open-agent-ecosystem"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2031246743694618698"
-created: "2026-03-10"
-updated: "2026-06-26"
-sha256: "54219efd9759b1924f164edac618b56ad5ba8c316b2bd899220636b76e0f4913"
-sources:
-  - "/sources/highlights/2026-03-11/78__gkxspace__openclaw飞书团队部署指南-企业级agent落地的-中国方案.md"
 ---
 
 # OpenClaw飞书团队部署指南：企业级Agent落地的「中国方案」

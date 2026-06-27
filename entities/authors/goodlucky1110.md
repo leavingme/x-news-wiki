@@ -1,23 +1,17 @@
 ---
-type: "entity"
+type: "Author"
 title: "Winner🔶BNB |🐬 TermMax (@goodlucky1110)"
 description: "X/Twitter 作者 @goodlucky1110。共收录 1 条 AI 精选推文。"
 tags:
   - "x-news"
   - "author"
   - "author:goodlucky1110"
-timestamp: "2026-06-26T11:53:36.959Z"
+timestamp: "2026-06-27T08:40:40.167Z"
 x_handle: "goodlucky1110"
 x_author_name: "Winner🔶BNB |🐬 TermMax"
 x_tweet_count: 1
 x_first_seen: "2026-03-14T12:42:42.007Z"
 x_last_seen: "2026-03-14T12:42:42.007Z"
-type_okf: "Author"
-created: "2026-03-14"
-updated: "2026-06-26"
-sha256: "73c12a53cbc810486d61257a78bc2d4a8c0f8f4628d5f5ff725525263573a2fc"
-sources:
-  - "/sources/highlights/2026-03-14/88__goodlucky1110__bitmart-skills-上线-交易所正式为-ai-agent-开放-研-判-执-监-完整闭环.md"
 ---
 
 # Winner🔶BNB |🐬 TermMax (@goodlucky1110)

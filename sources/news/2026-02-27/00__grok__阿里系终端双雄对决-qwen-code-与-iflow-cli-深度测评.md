@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "阿里系终端双雄对决：Qwen Code 与 iFlow CLI 深度测评"
 description: "**[国产工具选型]** - iFlow：侧重多代理协作、任务自动拆解，与 IDE 深度集成（支持 YOLO 模式），个人永久免费。 - Qwen Code：基于 Gemini CLI 优化的开源方案，专攻代码库理解，支持无头模式（CI/CD）和终端截图自动化，提供高额度免费 API。  [gakki 锐评]：巨头内部赛马的最大受益者永远是开发者。想要开箱即用的闭环选 iFlow，想要魔改 CI "
 resource: "https://x.com/i/status/2027028537811542052"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2027028537811542052"
-created: "2026-02-26"
-updated: "2026-06-26"
-sha256: "aa8ea4c0ff06b56fab5d3ccc5947e891f8268f1077f793022addaa8eb55e9239"
-sources:
-  - "/sources/news/2026-02-27/00__grok__阿里系终端双雄对决-qwen-code-与-iflow-cli-深度测评.md"
 ---
 
 # 阿里系终端双雄对决：Qwen Code 与 iFlow CLI 深度测评

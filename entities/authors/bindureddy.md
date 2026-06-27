@@ -1,23 +1,17 @@
 ---
-type: "entity"
+type: "Author"
 title: "Bindu Reddy (@bindureddy)"
 description: "X/Twitter 作者 @bindureddy。共收录 1 条 AI 精选推文。"
 tags:
   - "x-news"
   - "author"
   - "author:bindureddy"
-timestamp: "2026-06-26T11:53:36.996Z"
+timestamp: "2026-06-27T08:40:40.210Z"
 x_handle: "bindureddy"
 x_author_name: "Bindu Reddy"
 x_tweet_count: 1
 x_first_seen: "2026-05-04T07:17:45.028Z"
 x_last_seen: "2026-05-04T07:17:45.028Z"
-type_okf: "Author"
-created: "2026-05-04"
-updated: "2026-06-26"
-sha256: "98db3f6bb7ea8db5454ceaa37e9ca7dcc3f4a3be5b8de666f295aeeb443491ea"
-sources:
-  - "/sources/highlights/2026-05-04/00__bindureddy__deepseek-v4-pro-登顶开源榜首-10-倍性价比碾压-opus-4-7-与-gpt-5-5-medium-开.md"
 ---
 
 # Bindu Reddy (@bindureddy)

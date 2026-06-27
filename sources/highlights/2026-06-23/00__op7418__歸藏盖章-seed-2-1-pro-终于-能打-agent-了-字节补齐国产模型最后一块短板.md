@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "歸藏盖章：Seed 2.1 Pro 终于「能打 Agent 了」，字节补齐国产模型最后一块短板"
 description: "**字节 Seed 2.1 Pro 在 Agent 场景首次获得头部 KOL 正式背书**  - 歸藏作为长期跟踪国产模型的评测者，明确给出「能胜任 Agent 工作」的评价，意味着 Seed 系列从「对话/写作强」跨过了「能跑长链路任务」的临界点 - 这是继 MiMo、GLM 之后，国产模型在 Agent Native 维度的又一块拼图，国产阵营的「静默竞争」进入白热化 - 对标 Claude "
 resource: "https://x.com/i/status/2069423803957146077"
@@ -22,13 +22,6 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "domestic-model-competition"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2069423803957146077"
-created: "2026-06-23"
-updated: "2026-06-26"
-sha256: "b4b0fe26353c5ecb7de18d2ee8fe0d016f3d0d7ee715e53d52597fe24f71348a"
-sources:
-  - "/sources/highlights/2026-06-23/00__op7418__歸藏盖章-seed-2-1-pro-终于-能打-agent-了-字节补齐国产模型最后一块短板.md"
 ---
 
 # 歸藏盖章：Seed 2.1 Pro 终于「能打 Agent 了」，字节补齐国产模型最后一块短板

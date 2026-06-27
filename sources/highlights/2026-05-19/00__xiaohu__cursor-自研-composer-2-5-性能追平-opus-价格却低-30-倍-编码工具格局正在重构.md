@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Cursor 自研 Composer 2.5：性能追平 Opus、价格却低 30 倍，编码工具格局正在重构"
 description: "**【一句话核心判断】** Cursor 用自研模型证明了「应用层反吞基础模型」的商业路径是可行的，这对整个 AI Coding 赛道是核弹级信号。  **要点：** - 评分差距不到 1 分进入 Opus 4.7 区间，说明模型能力差距已在用户感知阈值之外 - 价格结构颠覆：输入便宜 10 倍、输出便宜 30 倍， Opus 的高价策略将被逼到墙角 - Composer 2.5 在长程任务（数十"
 resource: "https://x.com/i/status/2056556014254825776"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2056556014254825776"
-created: "2026-05-19"
-updated: "2026-06-26"
-sha256: "c23477cae82716bf27409c929f9d0c3f2d4ad18b507d4f10315c1b02b60771dd"
-sources:
-  - "/sources/highlights/2026-05-19/00__xiaohu__cursor-自研-composer-2-5-性能追平-opus-价格却低-30-倍-编码工具格局正在重构.md"
 ---
 
 # Cursor 自研 Composer 2.5：性能追平 Opus、价格却低 30 倍，编码工具格局正在重构

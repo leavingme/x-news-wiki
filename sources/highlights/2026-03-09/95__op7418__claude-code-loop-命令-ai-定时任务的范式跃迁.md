@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Claude Code /loop 命令：AI 定时任务的范式跃迁"
 description: "**[Claude Code 正在吞噬整个 Agent 编排层]** - 新增 /loop 命令支持连续 3 天、每 5 分钟粒度的重复任务执行 - 直接侵入 OpenClaw 核心场景（定时 PR 审查、日报推送），竞争边界从「单次编码」扩展到「持续编排」 - 与 IM 平台 Skills（飞书/Telegram）结合，意味着 Agent 可以主动触达用户，而非被动等待调用  Gakki：Ant"
 resource: "https://x.com/i/status/2030549756565667859"
@@ -22,13 +22,6 @@ x_selected: 2
 x_priority: 95
 x_related_topic: "claude-code-natural-language-workflow"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2030549756565667859"
-created: "2026-03-08"
-updated: "2026-06-26"
-sha256: "627e8b2b8b16d16d382458d02cd5e6cac840aa685f58acedbb862bec10c5d6b1"
-sources:
-  - "/sources/highlights/2026-03-09/95__op7418__claude-code-loop-命令-ai-定时任务的范式跃迁.md"
 ---
 
 # Claude Code /loop 命令：AI 定时任务的范式跃迁

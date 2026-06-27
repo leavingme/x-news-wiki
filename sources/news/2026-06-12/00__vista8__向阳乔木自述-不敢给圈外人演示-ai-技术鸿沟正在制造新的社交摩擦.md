@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "向阳乔木自述：不敢给圈外人演示 AI，技术鸿沟正在制造新的社交摩擦"
 description: "**向阳乔木自述给非 AI 圈用户演示 AI 时遭遇的「社交焦虑」**  1、现象：演示 AI 做东西会引发「深深的焦虑」——对方感到 AI 过于强大、自己严重落伍 2、困境：想学但「不知道从哪里入手」，缺乏渐进式入口 3、结论：技术鸿沟已外溢到人际交往场景，AI 布道者开始主动回避高反差场景  这是 AI 时代最被低估的社会成本——技术指数级跃进 vs 人对变化的线性适应，落差正在制造新的「信息"
 resource: "https://x.com/i/status/2065249051097043295"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2065249051097043295"
-created: "2026-06-12"
-updated: "2026-06-26"
-sha256: "1512a84a463b7881fc6a88224774ced2bba9cade694acc2b327cd08db6e01d93"
-sources:
-  - "/sources/news/2026-06-12/00__vista8__向阳乔木自述-不敢给圈外人演示-ai-技术鸿沟正在制造新的社交摩擦.md"
 ---
 
 # 向阳乔木自述：不敢给圈外人演示 AI，技术鸿沟正在制造新的社交摩擦

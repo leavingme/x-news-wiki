@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "PICO套利机器人在Polymarket实现野外盈利：Agent经济自主权的概念验证"
 description: "**[首个完全自主运行的链上Agent进入「造血」阶段]**  ① 开发者仅用AI工具链（AutoResearchClaw+MiroFish+Antigravity）完成从论文、模拟到生产代码的全流程，零手写代码 ② PICO在15分钟比特币涨跌盘口靠价差收割，已实现账户盈利验证——这是Agent从「工具」到「经济主体」的关键跃迁 ③ 完全开源的商业模式：代码+策略透明，意味着「Agent套利」即"
 resource: "https://x.com/i/status/2035397503634559439"
@@ -22,13 +22,6 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "ai-crypto-agent-infra"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2035397503634559439"
-created: "2026-03-21"
-updated: "2026-06-26"
-sha256: "6e11e5a71746cd9667b06eb62451a9cbd77a09ffde6d9ba88138c24d0753ba8a"
-sources:
-  - "/sources/highlights/2026-03-22/00__qkl2058__pico套利机器人在polymarket实现野外盈利-agent经济自主权的概念验证.md"
 ---
 
 # PICO套利机器人在Polymarket实现野外盈利：Agent经济自主权的概念验证

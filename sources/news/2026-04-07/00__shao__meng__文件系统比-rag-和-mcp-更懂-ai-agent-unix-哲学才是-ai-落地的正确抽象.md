@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "文件系统比 RAG 和 MCP 更懂 AI Agent：Unix 哲学才是 AI 落地的正确抽象"
 description: "**[代码幻觉是数据问题，不是模型问题——把整个 Web 挂载成文件系统才是解法]**  AI 写代码出现幻觉，根源在于训练数据滞后（API 每天变更，模型知识停留在数月前）。RAG 有分块丢失关键函数签名的缺陷，MCP 每个工具需要 JSON Schema 消耗上下文。解决方案：将文档网站直接挂载为文件系统，AI 预训练阶段已内化 open/read/write/close 操作。  · Uni"
 resource: "https://x.com/i/status/2041330844481053003"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2041330844481053003"
-created: "2026-04-07"
-updated: "2026-06-26"
-sha256: "01c43589c54fda2cd2d35670202d7a5f4c4385d5a623992f3287a0ff32836bf2"
-sources:
-  - "/sources/news/2026-04-07/00__shao__meng__文件系统比-rag-和-mcp-更懂-ai-agent-unix-哲学才是-ai-落地的正确抽象.md"
 ---
 
 # 文件系统比 RAG 和 MCP 更懂 AI Agent：Unix 哲学才是 AI 落地的正确抽象

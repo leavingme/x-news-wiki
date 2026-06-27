@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "梵蒂冈encyclical直指AI非人化风险：技术垄断批判触及AI公司核心商业模式"
 description: "**【一句话核心判断】** 教宗良十四世将 AI 偶像崇拜定义为\"巴别塔症\"——牺牲弱者、抹杀差异、假装数字语言能翻译人的神秘——这段论述精准打击了以规模化、统一性为核心逻辑的 AI 平台商业模式。  **信息增量：** - 教宗明确反对\"排除上帝、将他人贬低为手段的未来\"，与 Anthropic \"让 AI 惠及全人类\"的使命宣言形成叙事张力 - \"非人化风险\"的论述框架比欧盟 AI Act 的"
 resource: "https://x.com/i/status/2059096691115200801"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2059096691115200801"
-created: "2026-05-26"
-updated: "2026-06-26"
-sha256: "7205bac404c34270d524f5d6d06bf864ac96ea1238a8178c54d0fa7cd331109f"
-sources:
-  - "/sources/news/2026-05-26/00__mranti__梵蒂冈encyclical直指ai非人化风险-技术垄断批判触及ai公司核心商业模式.md"
 ---
 
 # 梵蒂冈encyclical直指AI非人化风险：技术垄断批判触及AI公司核心商业模式

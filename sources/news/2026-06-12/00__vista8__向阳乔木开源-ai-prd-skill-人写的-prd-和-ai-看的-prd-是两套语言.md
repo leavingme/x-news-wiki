@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "向阳乔木开源 AI-PRD Skill：人写的 PRD 和 AI 看的 PRD 是两套语言"
 description: "**向阳乔木开源「AI 专用 PRD」生成 Skill，揭示 Agent 时代文档协议的悄然分化**  1、关键观察：「人喜欢的 PRD」和「AI 喜欢的 PRD」是两套体系，前者强调可读性，后者强调结构化与无歧义 2、工作流：先用 AI 生成 AI-PRD，再让 AI 编码，功能完整度和丰富性「远比自己想的全面」 3、交付形态：npx skills add 一键安装，开源可复用  这是 Skil"
 resource: "https://x.com/i/status/2065264509170876417"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2065264509170876417"
-created: "2026-06-12"
-updated: "2026-06-26"
-sha256: "e94e3f113d65fe10d2f4ad88a769065e03790bd4305c40a4a21835ec214fa827"
-sources:
-  - "/sources/news/2026-06-12/00__vista8__向阳乔木开源-ai-prd-skill-人写的-prd-和-ai-看的-prd-是两套语言.md"
 ---
 
 # 向阳乔木开源 AI-PRD Skill：人写的 PRD 和 AI 看的 PRD 是两套语言

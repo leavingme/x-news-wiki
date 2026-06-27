@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "蚂蚁 NES 无提示词代码编辑：20,000+ 开发者已用，位置预测准确率 75.6%"
 description: "**[一句话核心判断]**  蚂蚁金服内部悄悄跑了两年多的 NES 框架曝光——两个小模型分工：一个猜你改哪，一个猜你改啥，全程零提示词，250ms 内出结果。  **信息增量：** - 75.6% 位置预测准确率，意味着开发者平均 4 次补全就有 3 次命中真实意图 - 不是辅助聊天，是嵌入 IDE 的被动式工作流——和 GitHub Copilot 的「主动补全」逻辑完全不同 - 已服务 2 "
 resource: "https://x.com/i/status/2047851839102554311"
@@ -22,13 +22,6 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "ai-coding-skills-commoditization"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2047851839102554311"
-created: "2026-04-25"
-updated: "2026-06-26"
-sha256: "953c27e3013403ca1ceda061fcff25a783940d80a5485a4482c8317def777389"
-sources:
-  - "/sources/news/2026-04-25/00__jiqizhixin__蚂蚁-nes-无提示词代码编辑-20-000-开发者已用-位置预测准确率-75-6.md"
 ---
 
 # 蚂蚁 NES 无提示词代码编辑：20,000+ 开发者已用，位置预测准确率 75.6%

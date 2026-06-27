@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Fable 5 一句话生成黑洞动画：目标导向的\"自己看自己改\"循环"
 description: "**[核心判断]** Fable 5 用一句话需求生成黑洞诞生动画页面，全程\"自己开浏览器看效果自己调整\"——目标导向 Agent 体验雏形。  - 起步仅一句\"黑洞形成动画页面\"，AI 自己思考、自己改 - 用户补一次反馈\"目标要炫酷过程+字幕+配音\"，AI 自动重做 - 思考过程长，但全程不需要用户干预  gakki 锐评：与歸藏的批评形成对照——同一模型在创意任务上\"自动驾驶\"惊艳，但稳定性"
 resource: "https://x.com/i/status/2064908115469013360"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2064908115469013360"
-created: "2026-06-11"
-updated: "2026-06-26"
-sha256: "b8774d8e48a1200b64ca6342ff60a06527ece2fecdb4f012b4cef327809afb08"
-sources:
-  - "/sources/news/2026-06-11/00__xiaohu__fable-5-一句话生成黑洞动画-目标导向的-自己看自己改-循环.md"
 ---
 
 # Fable 5 一句话生成黑洞动画：目标导向的"自己看自己改"循环

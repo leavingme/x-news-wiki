@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "DeepSeek V4定价修正：缓存命中0.2元、Pro输出24元，价格结构暴露实际成本分布"
 description: "**[官方定价修正背后，藏着大模型推理的真实成本结构]**  • 缓存命中成本（0.2元）vs 未命中（12元）差距60倍，印证了\"KVCache是推理成本的核心杠杆\"这一工程判断 • Pro输出24元/元vs Flash输出2元/元，12倍价差背后是推理强度差异——\"思考模式\"的价格溢价清晰可见 • 输入1元（Pro）vs 0.2元（Flash），定价差异暗示MoE架构下激活参数量的真实比例  "
 resource: "https://x.com/i/status/2047521075937038425"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2047521075937038425"
-created: "2026-04-24"
-updated: "2026-06-26"
-sha256: "ec79366a706724ca0a11ceb6c88c5472644b0076128ba248529286eb27ae4497"
-sources:
-  - "/sources/news/2026-04-24/00__op7418__deepseek-v4定价修正-缓存命中0-2元-pro输出24元-价格结构暴露实际成本分布.md"
 ---
 
 # DeepSeek V4定价修正：缓存命中0.2元、Pro输出24元，价格结构暴露实际成本分布

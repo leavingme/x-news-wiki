@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Reasonix 三段式缓存架构：DeepSeek 中文写作 + 99.82% 命中率的成本革命"
 description: "**一句话核心判断：** DeepSeek 中文写作能力 + Reasonix 架构优化 = 中文 AI 写作成本几乎归零，且质量已超越 Claude 和 GPT。  **信息增量：** - DeepSeek 中文文案写作能力实锤领先，Claude/GPT 目前都比不了 - Reasonix 围绕 DeepSeek prefix-cache 设计，三段式缓存架构 - 实测缓存命中率 99.82%，"
 resource: "https://x.com/i/status/2060693660480471471"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2060693660480471471"
-created: "2026-05-30"
-updated: "2026-06-26"
-sha256: "24c41f63e81b468352a3ad5597238222729ba9d8e4a1b3e1290c0bef2cd82ac7"
-sources:
-  - "/sources/news/2026-05-30/00__gkxspace__reasonix-三段式缓存架构-deepseek-中文写作-99-82-命中率的成本革命.md"
 ---
 
 # Reasonix 三段式缓存架构：DeepSeek 中文写作 + 99.82% 命中率的成本革命

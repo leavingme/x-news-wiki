@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "YouMind 双口径月访问破百万：玉伯的'知识工具'路线撞到第一个规模验证点"
 description: "**[玉伯亲自下场背书，YouMind 进入'百万 MAU + 持续招人'阶段]**  - 玉伯在 Twitter 公开确认 YouMind 在两个独立统计口径下月访问均破百万，是其 AI 知识工具路线第一道硬性规模验证 - 同步在招增长工程师，说明产品已过 PMF 验证关，进入'投人换增长'阶段，不是 demo 阶段 - 这是中文 AI 原生工具里少数拿到'独立第三方口径+创始人亲自下场'双重背"
 resource: "https://x.com/i/status/2063958263675453689"
@@ -22,13 +22,6 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "ai-knowledge-tool-competition"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2063958263675453689"
-created: "2026-06-08"
-updated: "2026-06-26"
-sha256: "d388c4c0a2f4373aa1bf7599d6d495fed4e173c1bad317754afcafad41eae1b9"
-sources:
-  - "/sources/highlights/2026-06-08/00__lifesinger__youmind-双口径月访问破百万-玉伯的-知识工具-路线撞到第一个规模验证点.md"
 ---
 
 # YouMind 双口径月访问破百万：玉伯的'知识工具'路线撞到第一个规模验证点

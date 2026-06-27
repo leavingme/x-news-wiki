@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "宝玉确认：Codex Sites 仅向 Team/Enterprise 开放，个人版没戏"
 description: "**Codex Sites 订阅层级再分化，个人用户被关在门外。** - 宝玉明确回应「Codex Sites is for Team and Enterprise plans only」 - 叠加此前的 Agent SDK 独立预算池争议，OpenAI 的「订阅分层+功能锁定」打法越来越清晰 - 进一步印证 Codex 生态平台战争（codex-ecosystem-platform-war）里："
 resource: "https://x.com/i/status/2067697437335015548"
@@ -22,13 +22,6 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "codex-ecosystem-platform-war"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2067697437335015548"
-created: "2026-06-18"
-updated: "2026-06-26"
-sha256: "37bf2ed384990ce5ab2aa59a230188b3b84b6719964fba05ca8a284c6266e5e0"
-sources:
-  - "/sources/news/2026-06-18/00__dotey__宝玉确认-codex-sites-仅向-team-enterprise-开放-个人版没戏.md"
 ---
 
 # 宝玉确认：Codex Sites 仅向 Team/Enterprise 开放，个人版没戏

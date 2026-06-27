@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "免费 AI 让二本生上北大的叙事陷阱：工具平权≠结果平权"
 description: "**一句话核心判断**：AI 工具的获取成本趋近于零，但并不能消除认知壁垒、信息差和意志力的系统性差异，这个故事本身是一个危险的简化。  **信息增量**： - 叙事本质是\"AI 作为阶级流动加速器\"的传播样本，极易成为 AI 厂商营销素材 - 真实变量被遮蔽：考生背景、学习方法、考试难度、AI 使用策略，而非 AI 本身 - \"用免费 AI 考上北大\"与\"因为 AI 所以考上北大\"之间存在巨大逻"
 resource: "https://x.com/i/status/2048614713605734594"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2048614713605734594"
-created: "2026-04-27"
-updated: "2026-06-26"
-sha256: "f2826466afbb405644e39585c77bb339033d90d912a546be639e1feaa8610103"
-sources:
-  - "/sources/news/2026-04-27/00__Khazix0918__免费-ai-让二本生上北大的叙事陷阱-工具平权-结果平权.md"
 ---
 
 # 免费 AI 让二本生上北大的叙事陷阱：工具平权≠结果平权

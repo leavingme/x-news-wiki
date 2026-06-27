@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "文档即Harness：Vibe Coding时代代码协作范式的根本性重写"
 description: "**核心命题：在AI Vibe Coding开发中，文档体系等于Harness，其他都不重要。**  这不只是工程实践，更是一个认识论声明——在模型能生成代码的时代，代码本身不再是护城河，对代码意图和结构的描述文档才是真正的Harness层。  它解释了为什么CodePilot可以26万行代码零改动却持续迭代，也预示了未来程序员的核心工作可能从写代码彻底转向写文档。  gakki：这个观点把\"代码"
 resource: "https://x.com/i/status/2062743530423136673"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2062743530423136673"
-created: "2026-06-05"
-updated: "2026-06-26"
-sha256: "0f600902374d01b927fca5ec684525efc14a857a27f020155824293d2f11bb8a"
-sources:
-  - "/sources/news/2026-06-05/00__op7418__文档即harness-vibe-coding时代代码协作范式的根本性重写.md"
 ---
 
 # 文档即Harness：Vibe Coding时代代码协作范式的根本性重写

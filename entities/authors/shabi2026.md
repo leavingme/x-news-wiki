@@ -1,23 +1,17 @@
 ---
-type: "entity"
+type: "Author"
 title: "交易禅师 (@shabi2026)"
 description: "X/Twitter 作者 @shabi2026。共收录 1 条 AI 精选推文。"
 tags:
   - "x-news"
   - "author"
   - "author:shabi2026"
-timestamp: "2026-06-26T11:53:36.973Z"
+timestamp: "2026-06-27T08:40:40.190Z"
 x_handle: "shabi2026"
 x_author_name: "交易禅师"
 x_tweet_count: 1
 x_first_seen: "2026-04-06T00:42:54.803Z"
 x_last_seen: "2026-04-06T00:42:54.803Z"
-type_okf: "Author"
-created: "2026-04-06"
-updated: "2026-06-26"
-sha256: "dbb7771360f0dd55e172bf9da2259445aa721352a3d00b258d022616c9cad40c"
-sources:
-  - "/sources/news/2026-04-06/00__shabi2026__币圈追叙事陷阱-每一次-平权-都是散户接盘令.md"
 ---
 
 # 交易禅师 (@shabi2026)

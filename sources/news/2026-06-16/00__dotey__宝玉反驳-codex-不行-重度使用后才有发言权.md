@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "宝玉反驳'Codex 不行'：重度使用后才有发言权"
 description: "**[立场信号] 宝玉针对 Codex App 的质疑给出简短反击——判断 Codex 好不好用，前提是重度使用。**  - 与上一条推荐关注 jason 形成互文：宝玉是 Codex 阵营的坚定背书者 - 隐含的判断是：浅层体验者对 Codex 的负面评价不可信 - 这种'KOL 站队'姿态对 OpenAI 编码生态的中文社区认知有塑造作用  gakki 锐评：宝玉的 Codex 立场越来越像'"
 resource: "https://x.com/i/status/2066784244169351556"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2066784244169351556"
-created: "2026-06-16"
-updated: "2026-06-26"
-sha256: "a2550e6f95c4d9aa2ba31b7c7ceaf1aa1e942590fe69add33a642cff9b792aea"
-sources:
-  - "/sources/news/2026-06-16/00__dotey__宝玉反驳-codex-不行-重度使用后才有发言权.md"
 ---
 
 # 宝玉反驳'Codex 不行'：重度使用后才有发言权

@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Token 爆发前夜：从“替代人工”向“Agent 24/7 消耗”的范式转移"
 description: "**[核心逻辑]** 预测企业对 Token 的需求尚未爆发，目前仅处于静态分析阶段，未来 Agent 自主决策将带来百倍需求增长。  - **基础设施逻辑**：OpenClaw 的爆火是信号，当每个企业部署几十个自主 Agent 持续工作时，算力逻辑将重写。 - **算力长牛**：模型、芯片与云服务的投资窗口远未结束。  [gakki 的锐评]：现在的 AI 还只是你的打字机，未来的 AI 是你"
 resource: "https://x.com/i/status/2026037313315447042"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2026037313315447042"
-created: "2026-02-23"
-updated: "2026-06-26"
-sha256: "68d00c3865ebacad3e0bd5142e7a0319a70cf7ef33be40383bd4021cc66978db"
-sources:
-  - "/sources/news/2026-02-24/00__sea_abh__token-爆发前夜-从-替代人工-向-agent-24-7-消耗-的范式转移.md"
 ---
 
 # Token 爆发前夜：从“替代人工”向“Agent 24/7 消耗”的范式转移

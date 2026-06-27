@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "yetone 的 Vibe Coding 吐槽：2026 年了，代码秒生成但 UX 打磨仍是瓶颈"
 description: "**代码生成速度已经不是问题，UX 打磨成为 Vibe Coding 真正的耗时瓶颈。**  - 这不是技术抱怨，而是产品哲学的信号：AI 解决了「写」的问题，但「想清楚用户要什么」仍然是人类认知的不可压缩部分 - 与「AI 工具能生成 90% 的代码」的叙事形成张力——最后 10% 的体验打磨可能占 80% 的时间 - 对 Vibe Coding 方法论的现实校验：速度优势在触及产品层时迅速衰减"
 resource: "https://x.com/i/status/2051324040913322281"
@@ -22,13 +22,6 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "vibe-coding-cognition-cycle"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2051324040913322281"
-created: "2026-05-04"
-updated: "2026-06-26"
-sha256: "50062382a06e7034879a6d9f77346e48f729bdb9cb5e362752725bdd5c112943"
-sources:
-  - "/sources/news/2026-05-04/00__yetone__yetone-的-vibe-coding-吐槽-2026-年了-代码秒生成但-ux-打磨仍是瓶颈.md"
 ---
 
 # yetone 的 Vibe Coding 吐槽：2026 年了，代码秒生成但 UX 打磨仍是瓶颈

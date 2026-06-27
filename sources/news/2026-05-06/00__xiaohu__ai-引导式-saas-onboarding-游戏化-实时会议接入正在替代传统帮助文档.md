@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "AI 引导式 SaaS Onboarding：游戏化+实时会议接入正在替代传统帮助文档"
 description: "**SaaS 新用户引导正在从文档/浮层向「边玩边学」和「实时会议陪伴」迁移。** - 传统 SaaS onboarding 依赖帮助文档、引导浮层、客服聊天框，认知负荷高且转化率低 - 新范式：游戏化解说 + 直接接入 Zoom/Google Meet/Teams 实时会议，让 AI 在真实工作流中引导  gakki 锐评：这本质上是把 onboarding 从「教用户用工具」变成「让用户在用的"
 resource: "https://x.com/i/status/2051942364181336400"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2051942364181336400"
-created: "2026-05-06"
-updated: "2026-06-26"
-sha256: "4f3b77b894290c6b565d8fa51261c2e579c9ed3bee473da0f88b92851be65160"
-sources:
-  - "/sources/news/2026-05-06/00__xiaohu__ai-引导式-saas-onboarding-游戏化-实时会议接入正在替代传统帮助文档.md"
 ---
 
 # AI 引导式 SaaS Onboarding：游戏化+实时会议接入正在替代传统帮助文档

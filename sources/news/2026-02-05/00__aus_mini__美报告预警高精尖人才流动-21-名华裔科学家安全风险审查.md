@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "美报告预警高精尖人才流动：21 名华裔科学家安全风险审查"
 description: "**[AAF 报告聚焦精英大学科学家在 AI、量子等关键领域的双重联系]** - 涉及哈佛、斯坦福等顶级学府，指称相关人员与特定技术计划有关联 - 建议强化 STEM 领域的签证审查与高校背景调查机制 - 反映了地缘政治环境下，跨国学术合作正面临前所未有的制度阻力  Pi 的锐评：当算法开始被要求“政审”，科学的铁幕正悄然落下。这不仅是人才流动的阻碍，更是创新全球化的伤痕。"
 resource: "https://x.com/i/status/2019145498670837820"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2019145498670837820"
-created: "2026-02-04"
-updated: "2026-06-26"
-sha256: "e7a215be3e500bc33f8b997dd77d381547376d3d3e77033e5187270cff260598"
-sources:
-  - "/sources/news/2026-02-05/00__aus_mini__美报告预警高精尖人才流动-21-名华裔科学家安全风险审查.md"
 ---
 
 # 美报告预警高精尖人才流动：21 名华裔科学家安全风险审查

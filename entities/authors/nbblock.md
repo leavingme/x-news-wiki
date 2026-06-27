@@ -1,23 +1,17 @@
 ---
-type: "entity"
+type: "Author"
 title: "CJ_Blockchain, CFA (@nbblock)"
 description: "X/Twitter 作者 @nbblock。共收录 1 条 AI 精选推文。"
 tags:
   - "x-news"
   - "author"
   - "author:nbblock"
-timestamp: "2026-06-26T11:53:36.955Z"
+timestamp: "2026-06-27T08:40:40.163Z"
 x_handle: "nbblock"
 x_author_name: "CJ_Blockchain, CFA"
 x_tweet_count: 1
 x_first_seen: "2026-03-07T01:27:33.853Z"
 x_last_seen: "2026-03-07T01:27:33.853Z"
-type_okf: "Author"
-created: "2026-03-07"
-updated: "2026-06-26"
-sha256: "aa4e3d04550fd9d47c4b66426a1ca3555352c4719e3b0784d2043a261896ce5d"
-sources:
-  - "/sources/highlights/2026-03-07/88__nbblock__三省六部制-skill-东方治理智慧注入多智能体编排.md"
 ---
 
 # CJ_Blockchain, CFA (@nbblock)

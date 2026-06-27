@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "W-Flow 单步生成击穿 ImageNet 1.29 FID：字节+斯坦福把扩散压成一帧"
 description: "**[单步生成首次在 ImageNet 256×256 跑出 1.29 FID 新 SOTA]**，比多步扩散采样快 100 倍。  - 核心思路：Wasserstein 梯度流把整条扩散轨迹压缩成一次前向，模型学会'直接走捷径' - 关键收益：长尾稀有模式覆盖反而更好（多步扩散在分布稀疏处有偏） - 产业含义：实时图像/视频生成的算力门槛继续坍塌，'排队等出图'的经济学根基动摇   gakki "
 resource: "https://x.com/i/status/2066531423700373798"
@@ -22,13 +22,6 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "ai-video-queue-economy"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2066531423700373798"
-created: "2026-06-15"
-updated: "2026-06-26"
-sha256: "7054b6be8c853a20e6d099b69dead4937139c2dbf8afa1104e8884ead942b72e"
-sources:
-  - "/sources/highlights/2026-06-15/00__jiqizhixin__w-flow-单步生成击穿-imagenet-1-29-fid-字节-斯坦福把扩散压成一帧.md"
 ---
 
 # W-Flow 单步生成击穿 ImageNet 1.29 FID：字节+斯坦福把扩散压成一帧

@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Claude Code 闭环革命：一条提示词走完「写代码→编译→测试→修Bug」全流程"
 description: "**[Claude Code 正在吞噬测试工程师的饭碗]** • Computer Use 能力直接嵌入 CLI，实现开发到 UI 测试的全程无人值守 • 单条提示词即可闭环：写代码 → 编译 → 启动 App → 自动点击测试 → 发现 Bug 立即修复验证 • 这标志着 Agent 从「辅助编码」向「端到端交付」的关键跃迁  **gakki 锐评**：这不是功能更新，这是工程范式的降维打击——"
 resource: "https://x.com/i/status/2038772923818029107"
@@ -22,13 +22,6 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "agent-self-monitoring"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2038772923818029107"
-created: "2026-03-31"
-updated: "2026-06-26"
-sha256: "61743638f1194f32b79bafce26b04d6d91465fe1e91396ba5d773a9b38a7d499"
-sources:
-  - "/sources/highlights/2026-03-31/00__berryxia__claude-code-闭环革命-一条提示词走完-写代码-编译-测试-修bug-全流程.md"
 ---
 
 # Claude Code 闭环革命：一条提示词走完「写代码→编译→测试→修Bug」全流程

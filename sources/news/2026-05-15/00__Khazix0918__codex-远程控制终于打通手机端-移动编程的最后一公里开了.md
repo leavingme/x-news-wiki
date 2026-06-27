@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Codex 远程控制终于打通手机端，移动编程的最后一公里开了"
 description: "**【移动端 vibe coding 从想象到可用的临界点信号】**  Codex 更新支持远程控制后，配合 ChatGPT 客户端的 Codex 入口，用户可以在手机端完成完整的 vibe coding 流程。向阳乔木的配图教程显示：扫码授权→保持唤醒→手机控制。这不是功能叠加，而是开发入口的下沉——编程行为不再依赖桌面端。  · 手机端实时查看 Codex 执行状态，响应速度满足轻量调试 · "
 resource: "https://x.com/i/status/2055144905375359477"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2055144905375359477"
-created: "2026-05-15"
-updated: "2026-06-26"
-sha256: "5be5346f884f4da8ed7b4aca7085edb19ca98906eff8839395f9518d19183327"
-sources:
-  - "/sources/news/2026-05-15/00__Khazix0918__codex-远程控制终于打通手机端-移动编程的最后一公里开了.md"
 ---
 
 # Codex 远程控制终于打通手机端，移动编程的最后一公里开了

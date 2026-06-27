@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Seedance 2.0上线：AI视频生成从「单镜生成」进入「全片可控」时代"
 description: "**[AI视频生成进入全片工业化阶段：一句话生成完整视频不再是概念]**  Seedance 2.0正式上线Business年付方案，365天无限用。用户只需一句话，系统自动拆分镜、生成多场景、剪成完整视频。测试显示可生成高质量战斗动画短片。  技术跨越：从单镜头生成到多镜头编排+自动剪辑，这是视频工业化生产的基础设施级突破。 gakki：视频生成的瓶颈已从「能否生成」转移到「如何生成得值回票价」"
 resource: "https://x.com/i/status/2039894982434111716"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2039894982434111716"
-created: "2026-04-03"
-updated: "2026-06-26"
-sha256: "590cdd795b9b2babb42e18d63649199843d83209e6a5223c29ed7b60d68fc5c5"
-sources:
-  - "/sources/news/2026-04-04/00__gkxspace__seedance-2-0上线-ai视频生成从-单镜生成-进入-全片可控-时代.md"
 ---
 
 # Seedance 2.0上线：AI视频生成从「单镜生成」进入「全片可控」时代

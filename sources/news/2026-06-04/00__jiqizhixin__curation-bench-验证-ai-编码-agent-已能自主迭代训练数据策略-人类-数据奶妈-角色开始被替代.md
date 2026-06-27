@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "CURATION-BENCH 验证 AI 编码 Agent 已能自主迭代训练数据策略：人类「数据奶妈」角色开始被替代"
 description: "**[一句话核心判断]** AI 编码 Agent 不再只是执行工具——它已具备自主定义和迭代数据筛选策略的能力，意味着模型训练流程中最后一个需要人类密集干预的环节正在被自动化。  **信息增量：** - CURATION-BENCH 由 Virginia Tech、UIUC、UW-Madison、UC Berkeley 四校联合提出，专门评测通用编码 Agent 对数据策略的自主掌控能力 - 无"
 resource: "https://x.com/i/status/2062415335534596418"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2062415335534596418"
-created: "2026-06-04"
-updated: "2026-06-26"
-sha256: "29306363bd19691757fca0a895c3818428ea62d87aff0fee381e4bc0b671190f"
-sources:
-  - "/sources/news/2026-06-04/00__jiqizhixin__curation-bench-验证-ai-编码-agent-已能自主迭代训练数据策略-人类-数据奶妈-角色开始被替代.md"
 ---
 
 # CURATION-BENCH 验证 AI 编码 Agent 已能自主迭代训练数据策略：人类「数据奶妈」角色开始被替代

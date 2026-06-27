@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "OpenAI 收入激增背后：AI 正在吃掉 B2B 软件与人力岗位"
 description: "**[AI 竞争的对象首先是人类智能，其次才是软件工具]** - OpenAI 与 Anthropic 收入气势如虹，反映出企业正将软件支出转向 AI 原生能力。 - “容器型”软件（如 Excel）依然必要，但中间层逻辑正被 AI 取代。 - 这一轮增长本质上是 AI 正在置换人类的工作岗位。  Pi 的锐评：软件公司还没被灭，打工人先感受到了寒气。AI 赚的每一分钱，背后可能都对应着一个被优化"
 resource: "https://x.com/i/status/2019014393280053266"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2019014393280053266"
-created: "2026-02-04"
-updated: "2026-06-26"
-sha256: "149a13f69f1a3f49c3ea6d7e92656cc1634c82dcc1272f71dacac1a9dd61632a"
-sources:
-  - "/sources/news/2026-02-04/00__ShanghaoJin__openai-收入激增背后-ai-正在吃掉-b2b-软件与人力岗位.md"
 ---
 
 # OpenAI 收入激增背后：AI 正在吃掉 B2B 软件与人力岗位

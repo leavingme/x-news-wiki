@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Claude 宕机引发的「手写代码 PTSD」：我们是否已经过度依赖？"
 description: "**[服务中断暴露真相：当 AI 编程工具失效，开发者的肌肉记忆还在吗？]**  • 宝玉的「我已经……」句式道尽 AI 编程时代的习得性无助：工具越强大，人的底层能力越萎缩。  • 这不是 Claude 的故障，是整个 AI 编程范式的「单点故障」风险——当思维外包成为默认，断电就是失语。  • 从「Vibe Coding」到「Vibe Debugging」，开发者正在经历能力结构的代际转移。 "
 resource: "https://x.com/i/status/2028699490744434800"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2028699490744434800"
-created: "2026-03-03"
-updated: "2026-06-26"
-sha256: "e99e6fb3813035e1668dc089db4cc2a6a2e66a47247cd48991591fd3dd42e130"
-sources:
-  - "/sources/news/2026-03-04/00__dotey__claude-宕机引发的-手写代码-ptsd-我们是否已经过度依赖.md"
 ---
 
 # Claude 宕机引发的「手写代码 PTSD」：我们是否已经过度依赖？

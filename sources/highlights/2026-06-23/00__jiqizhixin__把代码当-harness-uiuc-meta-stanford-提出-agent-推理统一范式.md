@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "把代码当 Harness：UIUC/Meta/Stanford 提出 Agent 推理统一范式"
 description: "**「Code as Agent Harness」正在成为多 Agent 系统的新操作基底——代码不只是产物，而是推理与执行的承载体。**  • UIUC、Meta、Stanford 联合发布论文，提出以代码作为 Agent 推理、行动与可执行验证的统一底座 • 核心论点：现有 Agent 设计碎片化严重，把代码当 Harness 可获得可执行、可验证、有状态的 Multi-Agent 能力 • "
 resource: "https://x.com/i/status/2069314517054656680"
@@ -22,13 +22,6 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "harness-engineering"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2069314517054656680"
-created: "2026-06-23"
-updated: "2026-06-26"
-sha256: "333be689068b3e9bc80faa299a6107c08678b6f7cf0001272063547d4d1bbe30"
-sources:
-  - "/sources/highlights/2026-06-23/00__jiqizhixin__把代码当-harness-uiuc-meta-stanford-提出-agent-推理统一范式.md"
 ---
 
 # 把代码当 Harness：UIUC/Meta/Stanford 提出 Agent 推理统一范式

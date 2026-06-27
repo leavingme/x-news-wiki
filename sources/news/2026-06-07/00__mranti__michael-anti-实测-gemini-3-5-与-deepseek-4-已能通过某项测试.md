@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Michael Anti 实测：Gemini 3.5 与 DeepSeek 4 已能通过某项测试"
 description: "Michael Anti 简短透露：目前 Gemini 3.5 和 DeepSeek 4 都能通过。  - 信息增量有限，但确认了 Gemini 3.5 / DeepSeek 4 在某类评测/任务上达到通过线 - 上下文缺失（未说明是什么测试/基准），需结合后续推文判断   gakki 锐评：单条回复信息密度过低，无法判定具体测试场景，暂记为信号点而非结论。"
 resource: "https://x.com/i/status/2063644730941157835"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2063644730941157835"
-created: "2026-06-07"
-updated: "2026-06-26"
-sha256: "831d48b29d4a376d7c1264f74ad9a60e8eea4fb91601b0fd29e698a67b0c2d48"
-sources:
-  - "/sources/news/2026-06-07/00__mranti__michael-anti-实测-gemini-3-5-与-deepseek-4-已能通过某项测试.md"
 ---
 
 # Michael Anti 实测：Gemini 3.5 与 DeepSeek 4 已能通过某项测试

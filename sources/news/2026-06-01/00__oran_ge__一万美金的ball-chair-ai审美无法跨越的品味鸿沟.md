@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "一万美金的Ball Chair：AI审美无法跨越的品味鸿沟"
 description: "**[一句话核心判断]** AI生成的封面普遍很丑——这不是技术问题，是AI缺乏真正品味的证据；当需要审美判断时，AI只能执行指令，无法做出「一眼就爱上」的主观选择。  - 核心案例：设计师需要翻阅人类设计史才能找到「Ball Chair」这样的完美契合，而非让AI凭空创造。 - 信息增量：AI在设计领域的瓶颈不是生成质量，而是品味判断——它可以高效执行，但无法替代设计师的「眼光」。  gakki"
 resource: "https://x.com/i/status/2061444194506506505"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2061444194506506505"
-created: "2026-06-01"
-updated: "2026-06-26"
-sha256: "dd33a07afee65201f52a3af2dc4710bbf1d62ce85c68f0b433edff9b4667b0c2"
-sources:
-  - "/sources/news/2026-06-01/00__oran_ge__一万美金的ball-chair-ai审美无法跨越的品味鸿沟.md"
 ---
 
 # 一万美金的Ball Chair：AI审美无法跨越的品味鸿沟

@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "PPT Skills自动化截图美化：工具链内化正在减少对GPT-Image的依赖"
 description: "**核心判断：垂直工作流的AI工具正在把外部API调用内化为本地逻辑，成本和延迟都在下降。**  - 藏师傅PPT Skills更新了截图美化逻辑：自动根据截图尺寸、长宽比、PPT模板类型选择背景模板，并处理裁剪/并排等边界情况——全程无需GPT-Image 2.0 API调用。 - 这是个典型的「工具链工程化」信号：不是等上游模型降价，而是自己把调用路径改掉。相当于在模型层之下又加了一层流程自动"
 resource: "https://x.com/i/status/2055477163579891897"
@@ -22,13 +22,6 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "skill-automation-engineering"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2055477163579891897"
-created: "2026-05-16"
-updated: "2026-06-26"
-sha256: "9bee9c6b677bf2ec83dc6cce6e9e8c50877665077d00c7bdbe966f390e3704fb"
-sources:
-  - "/sources/news/2026-05-16/00__op7418__ppt-skills自动化截图美化-工具链内化正在减少对gpt-image的依赖.md"
 ---
 
 # PPT Skills自动化截图美化：工具链内化正在减少对GPT-Image的依赖

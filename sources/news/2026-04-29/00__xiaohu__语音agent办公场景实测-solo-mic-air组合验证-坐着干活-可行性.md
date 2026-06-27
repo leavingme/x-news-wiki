@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "语音Agent办公场景实测：SOLO+Mic Air组合验证「坐着干活」可行性"
 description: "**[语音命令正在从辅助输入升级为主控交互方式]**  小互实测 SOLO 语音输入 + Insta360 Mic Air 组合，核心评价：1+1>2。关键功能是语音可驱动模型切换、调用技能、执行远程命令，而不仅限于文字转录。实测场景——边做饭边通过语音指挥电脑完成任务——意味着「语音优先」的 Agent 交互范式已进入可用的移动端场景。  **信息增量：** - 语音命令执行闭环（语音→意图解析"
 resource: "https://x.com/i/status/2049332889591132281"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2049332889591132281"
-created: "2026-04-29"
-updated: "2026-06-26"
-sha256: "dfe58c5266211f029c0f9babeca2dc8f2397c3d4bfa9f5488de0a99b660decbd"
-sources:
-  - "/sources/news/2026-04-29/00__xiaohu__语音agent办公场景实测-solo-mic-air组合验证-坐着干活-可行性.md"
 ---
 
 # 语音Agent办公场景实测：SOLO+Mic Air组合验证「坐着干活」可行性

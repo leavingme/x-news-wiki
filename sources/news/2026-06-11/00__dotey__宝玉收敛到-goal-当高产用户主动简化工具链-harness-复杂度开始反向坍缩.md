@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "宝玉收敛到 /goal：当高产用户主动简化工具链，harness 复杂度开始反向坍缩"
 description: "**宝玉确认 /goal 已能稳定支撑长任务，公开表态「就不用继续了」。**  要点： - 表明 /goal 在长任务场景下通过个人工作流实测 - 「就不用继续了」暗示此前曾探索更复杂方案，现已主动收敛 - 与向阳乔木的格式释出形成「工具发明者 + 高产使用者」的双向背书   gakki 锐评：宝玉的收敛信号比功能本身更重要——当高产用户主动简化工具链，意味着 harness engineerin"
 resource: "https://x.com/i/status/2065169512270324136"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2065169512270324136"
-created: "2026-06-11"
-updated: "2026-06-26"
-sha256: "092f258506378a8240ebf983203f67dbade1c420ce64e0a096fe3c10a0f24e8d"
-sources:
-  - "/sources/news/2026-06-11/00__dotey__宝玉收敛到-goal-当高产用户主动简化工具链-harness-复杂度开始反向坍缩.md"
 ---
 
 # 宝玉收敛到 /goal：当高产用户主动简化工具链，harness 复杂度开始反向坍缩

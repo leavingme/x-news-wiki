@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Anthropic 手动缓存 vs OpenAI 自动缓存：平台设计的哲学鸿沟"
 description: "**[一句判断]** System message 权重差异和缓存机制的不同，暴露了 Anthropic 和 OpenAI 在「平台控制权」上的根本分歧。  - Anthropic 对 system message 给高权重，同时要求开发者手动设置 cache_control 断点——本质上是把「什么值得缓存」的决定权交给开发者，意味着平台信任开发者的判断力。 - OpenAI 自动缓存、syst"
 resource: "https://x.com/i/status/2060407572708913648"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2060407572708913648"
-created: "2026-05-29"
-updated: "2026-06-26"
-sha256: "49f02f90ae5d6721f12f4ac809adb5a7af9f9e6ac3d8b9b83ac9fe28ee6ab602"
-sources:
-  - "/sources/news/2026-05-29/00__dotey__anthropic-手动缓存-vs-openai-自动缓存-平台设计的哲学鸿沟.md"
 ---
 
 # Anthropic 手动缓存 vs OpenAI 自动缓存：平台设计的哲学鸿沟

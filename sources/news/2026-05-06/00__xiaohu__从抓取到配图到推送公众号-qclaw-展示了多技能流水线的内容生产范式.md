@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "从抓取到配图到推送公众号：QClaw 展示了多技能流水线的内容生产范式"
 description: "**单次任务调用多个技能串联执行，是 Agent 能力的真正放大器。**  - 初稿不使用技能 → 再调用多个技能自动生成内容、排版、配图、生成封面、推送公众号，形成完整的内容生产流水线 - 对比单一技能调用（抓取或生成），多技能编排的价值在于端到端交付——从「回答一个问题」变成「完成一件工作」 - 这也是 Skill 生态和 SKILL.md 标准化的实际验证场景  gakki 锐评：多技能串联"
 resource: "https://x.com/i/status/2052016268941955297"
@@ -22,13 +22,6 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "skills-ecosystem-standards"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2052016268941955297"
-created: "2026-05-06"
-updated: "2026-06-26"
-sha256: "6a638814daab73ce8a8db46b5784c0d9e5a42629c03fd95a7ca6d838ccae1ef1"
-sources:
-  - "/sources/news/2026-05-06/00__xiaohu__从抓取到配图到推送公众号-qclaw-展示了多技能流水线的内容生产范式.md"
 ---
 
 # 从抓取到配图到推送公众号：QClaw 展示了多技能流水线的内容生产范式

@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "UU远程：手机终端直连+零延迟4K，AI跑任务终于有了便携监控出口"
 description: "**一句话核心判断：** UU远程解决了AI开发者「出门在外无法监控AI任务状态」的实际痛点，手机Terminal体验与本地一致，且两年免费零广告。  **要点：** - 核心亮点：手机端Terminal入口，可直接查看AI任务进程（替代Tailscale+tmux的折腾方案） - 技术参数：4K蓝光144帧、双显切换流畅、延迟极低，支持多端互控+内网穿透 - 商业信号：两年持续迭代始终免费，侧面"
 resource: "https://x.com/i/status/2059610169160454151"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2059610169160454151"
-created: "2026-05-27"
-updated: "2026-06-26"
-sha256: "60103a5823946ee36390f80c4d4754ea51555392e2ba8fee29939a81984b53bc"
-sources:
-  - "/sources/news/2026-05-27/00__gkxspace__uu远程-手机终端直连-零延迟4k-ai跑任务终于有了便携监控出口.md"
 ---
 
 # UU远程：手机终端直连+零延迟4K，AI跑任务终于有了便携监控出口

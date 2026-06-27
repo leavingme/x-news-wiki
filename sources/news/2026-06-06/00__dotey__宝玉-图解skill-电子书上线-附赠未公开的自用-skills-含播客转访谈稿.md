@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "宝玉《图解Skill》电子书上线，附赠未公开的自用 Skills（含播客转访谈稿）"
 description: "**宝玉把自用 Skills 系统性开源到 GitHub，电子书变为赠品而非门槛。**  要点： - 公开仓库覆盖书内全部可复制粘贴内容，降低了「买书才能用」的绑定感 - 新放出此前未开源的自用 Skill——**播客文字稿 → 访谈稿** 的工作流模板 - 这是 Skill 生态「作者即发布者」路径的又一次验证：知识产品 + 工具资产同时交付   gakki 锐评：Skill 当作「电子书附录」"
 resource: "https://x.com/i/status/2063107627744145812"
@@ -22,13 +22,6 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "skills-ecosystem-standards"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2063107627744145812"
-created: "2026-06-06"
-updated: "2026-06-26"
-sha256: "49b9fd0f26613a0108f71dd3b7fc9832cdbcffebe596236246929774f4251cfd"
-sources:
-  - "/sources/news/2026-06-06/00__dotey__宝玉-图解skill-电子书上线-附赠未公开的自用-skills-含播客转访谈稿.md"
 ---
 
 # 宝玉《图解Skill》电子书上线，附赠未公开的自用 Skills（含播客转访谈稿）

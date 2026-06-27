@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Codex Goal模式控制层实锤：Steer只管当前轮次，Queue疑似Bug不执行下一轮次"
 description: "**[Steer/Queue仅影响单轮次，Goal才是全局锚点]**  宝玉实测发现 Codex Goal 模式的控制层级差异： - Steer：在当前轮次注入提示词，影响正在执行的任务 - Queue：理论上可往下一轮次排队提示词，但实测不会执行，疑似实现Bug - 两者均不跨 Goal 生效，无法用临时提示词改变全局任务走向  这揭示了 Agent 任务控制的一个核心设计：短期干预 vs 长期"
 resource: "https://x.com/i/status/2058618849172365623"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2058618849172365623"
-created: "2026-05-24"
-updated: "2026-06-26"
-sha256: "b6bbeffa41221076fe7889ec7bdd8056b4039e204c2897898c589b4f1e63973a"
-sources:
-  - "/sources/news/2026-05-24/00__dotey__codex-goal模式控制层实锤-steer只管当前轮次-queue疑似bug不执行下一轮次.md"
 ---
 
 # Codex Goal模式控制层实锤：Steer只管当前轮次，Queue疑似Bug不执行下一轮次

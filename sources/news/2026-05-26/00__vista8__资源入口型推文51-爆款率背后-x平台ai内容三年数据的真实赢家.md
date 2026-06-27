@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "资源入口型推文51%爆款率背后：X平台AI内容三年数据的真实赢家"
 description: "**[资源型内容是X平台AI话题的流量密码]**  向阳乔木分析3年Twitter数据发现：资源入口型贴（工具下载、书单清单、入口汇总）爆款率51%、互动最好；工具教程类39%；而纯观点类仅9%——差距超过5倍。  涨粉高峰期集中在年底AI新模型发布期，说明用户对\"可带走\"的资源型内容需求刚性且持续。  对于AI工具传播者而言，与其输出观点博眼球，不如持续做资源整合——门槛更低、生命周期更长、复利"
 resource: "https://x.com/i/status/2059260610345660694"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2059260610345660694"
-created: "2026-05-26"
-updated: "2026-06-26"
-sha256: "381b7f1bc0f285fce08e32e8ac08ac094826686f9c29b8db6addf05c003cac66"
-sources:
-  - "/sources/news/2026-05-26/00__vista8__资源入口型推文51-爆款率背后-x平台ai内容三年数据的真实赢家.md"
 ---
 
 # 资源入口型推文51%爆款率背后：X平台AI内容三年数据的真实赢家

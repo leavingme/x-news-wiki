@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Legato让机器人动作告别顿挫：上交+Spirit AI把运动平滑性前移到去噪阶段"
 description: "**具身智能的物理直觉正在从后处理补丁，迁移到训练loss本身。**  - 上海交大与Spirit AI联合提出Legato框架，在VLA（视觉-语言-动作）模型的去噪过程中融合已知动作与噪声 - 让chunk边界天然平滑，不再依赖外部修复手段 - 在5个真实操作任务中，轨迹平滑度与任务完成时间双指标均提升10%，超越现有RTC方法  传统RTC（Real-Time Chunking）只是把\"卡顿"
 resource: "https://x.com/i/status/2064336712013324490"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2064336712013324490"
-created: "2026-06-09"
-updated: "2026-06-26"
-sha256: "5b962a621df5be6b41f040112a4e355b2917d9d09e797f0e025f0ebda34a8351"
-sources:
-  - "/sources/news/2026-06-09/00__jiqizhixin__legato让机器人动作告别顿挫-上交-spirit-ai把运动平滑性前移到去噪阶段.md"
 ---
 
 # Legato让机器人动作告别顿挫：上交+Spirit AI把运动平滑性前移到去噪阶段

@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "cumora computer daemon 将迎响应速度与健壮性升级"
 description: "**一句话核心判断：** cumora computer daemon 预告升级，yetone 罕见地给出明确承诺，暗示产品路线图正在从临时补丁转向系统性重构。  **信息增量：** - cumora daemon 承认当前版本不够健壮，正在开发响应更快的新版 - 从「临时实现」到「系统性改进」的转变，可能是产品从 demo 向生产级跃迁的信号 - 值得关注：daemon 层升级往往意味着底层交互"
 resource: "https://x.com/i/status/2059264801235489274"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2059264801235489274"
-created: "2026-05-26"
-updated: "2026-06-26"
-sha256: "18352987f636c855e7dd04005fb69f961dafebb8a8413daf81cd63676678c284"
-sources:
-  - "/sources/news/2026-05-26/00__yetone__cumora-computer-daemon-将迎响应速度与健壮性升级.md"
 ---
 
 # cumora computer daemon 将迎响应速度与健壮性升级

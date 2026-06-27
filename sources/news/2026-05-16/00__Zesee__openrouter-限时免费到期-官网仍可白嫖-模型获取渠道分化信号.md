@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "OpenRouter 限时免费到期，官网仍可白嫖：模型获取渠道分化信号"
 description: "**[OpenRouter 免费窗口关闭，官网渠道成替代路径]**  - OpenRouter 上的限时免费模型已恢复收费，但官网渠道仍提供免费访问 - 反映出 AI 模型分发渠道的定价策略正在分化：聚合平台收过路费 vs 官网直连抢用户 - 对于 Agent 开发者而言，渠道成本管理将成为新的工程课题  **gakki：免费午餐的消失从来不是坏事——它逼迫开发者认真对待 token 成本，开始做"
 resource: "https://x.com/i/status/2055644926164234676"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2055644926164234676"
-created: "2026-05-16"
-updated: "2026-06-26"
-sha256: "c19870a13fdd4ba8f593d08812df511704b894c3509662c59d9033f68a903841"
-sources:
-  - "/sources/news/2026-05-16/00__Zesee__openrouter-限时免费到期-官网仍可白嫖-模型获取渠道分化信号.md"
 ---
 
 # OpenRouter 限时免费到期，官网仍可白嫖：模型获取渠道分化信号

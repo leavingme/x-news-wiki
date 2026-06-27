@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "歸藏：一条 SKill 指令可跨 Agent 框架安装"
 description: "**一句话核心判断：** 歸藏声称找到一种「通用 SKill 指令」，可跨 Hermes/OpenClaw 等不同 Agent 框架安装，暗示 SKILL 生态正在向跨框架标准化演进。  **信息增量：** - SKILL 的价值不局限于单一框架，开始出现生态迁移迹象 - 「装在任何 Agent」的说法意味着指令抽象层级提升  **行业影响：** 若验证有效，将加速 SKILL 的跨平台流通，提升"
 resource: "https://x.com/i/status/2057712218280718549"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2057712218280718549"
-created: "2026-05-22"
-updated: "2026-06-26"
-sha256: "65e93640e25e299a0c87828da504bdcb55e569c5dbe15fa5d4e59201cc2dfdb8"
-sources:
-  - "/sources/news/2026-05-22/00__op7418__歸藏-一条-skill-指令可跨-agent-框架安装.md"
 ---
 
 # 歸藏：一条 SKill 指令可跨 Agent 框架安装

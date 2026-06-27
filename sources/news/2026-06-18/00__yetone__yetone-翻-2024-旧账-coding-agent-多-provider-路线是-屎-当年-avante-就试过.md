@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "yetone 翻 2024 旧账：coding agent 多 provider 路线是\"屎\"，当年 avante 就试过"
 description: "**yetone 重申\"多 provider 编码 Agent\"是死路，给多模型路由派泼冷水**  - 2024 年做 avante 时已经踩过坑：让 coding agent 支持多 provider 是\"一场屎，不值得投资\" - 立场：分散适配精力没有用户收益，模型差异远大于 provider 抽象层价值 - 这是对\"多模型路由矩阵编排\"路线的连续负面证据 - 创业者视角：把工程精力花在 pr"
 resource: "https://x.com/i/status/2067600493858492588"
@@ -22,13 +22,6 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "ai-multimodel-routing"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2067600493858492588"
-created: "2026-06-18"
-updated: "2026-06-26"
-sha256: "62b951aa217b7e44926ddb27f6b651bf4cc364aeff3c52f7cf5400540b6d6900"
-sources:
-  - "/sources/news/2026-06-18/00__yetone__yetone-翻-2024-旧账-coding-agent-多-provider-路线是-屎-当年-avante-就试过.md"
 ---
 
 # yetone 翻 2024 旧账：coding agent 多 provider 路线是"屎"，当年 avante 就试过

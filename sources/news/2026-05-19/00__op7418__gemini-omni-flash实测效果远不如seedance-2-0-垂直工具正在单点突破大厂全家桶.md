@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Gemini Omni Flash实测效果远不如SeeDance 2.0：垂直工具正在单点突破大厂全家桶"
 description: "**视频模型的\"全家桶陷阱\"正在显现：通用能力强但专项弱。**  谷歌Gemini Omni Flash视频编辑能力被指远逊于SeeDance 2.0——后者是专注视频编辑的垂直工具。这意味着在特定任务上，细分领域的独立工具比大厂的集成方案更有竞争力。  对开发者和用户的启示：选工具看场景，别迷信平台。"
 resource: "https://x.com/i/status/2056764456311664786"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2056764456311664786"
-created: "2026-05-19"
-updated: "2026-06-26"
-sha256: "c20a950d190b04cd9a5a5e260c1ab2dc797593922f1632cff2a79f84b5e295f5"
-sources:
-  - "/sources/news/2026-05-19/00__op7418__gemini-omni-flash实测效果远不如seedance-2-0-垂直工具正在单点突破大厂全家桶.md"
 ---
 
 # Gemini Omni Flash实测效果远不如SeeDance 2.0：垂直工具正在单点突破大厂全家桶

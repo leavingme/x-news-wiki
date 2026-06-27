@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "「Agent身份证」概念落地：Soulink押注链上声誉与数字人格确权"
 description: "**Agent从「黑户」到「有身份」的基础设施临界点到来。**  • 趋势判断：JY从KOL回流创业，押注Agent数字身份赛道 • 核心价值：解决Agent越强大越「匿名」的悖论——没有身份就无法建立信任、签署合约、积累声誉 • 生态位判断：这是Agent经济自主权的必要前置基础设施  **Gakki锐评：** Agent需要身份证，就像公司需要营业执照。这不是情怀，是Agent参与社会经济活动"
 resource: "https://x.com/i/status/2030821574631374920"
@@ -22,13 +22,6 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "agent-economic-autonomy"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2030821574631374920"
-created: "2026-03-09"
-updated: "2026-06-26"
-sha256: "f65c4ab33604c028dd8bd9572691bd493c036520c38cd9d16d9157e08d0b92a0"
-sources:
-  - "/sources/highlights/2026-03-17/00__JYdmnLFG__agent身份证-概念落地-soulink押注链上声誉与数字人格确权.md"
 ---
 
 # 「Agent身份证」概念落地：Soulink押注链上声誉与数字人格确权

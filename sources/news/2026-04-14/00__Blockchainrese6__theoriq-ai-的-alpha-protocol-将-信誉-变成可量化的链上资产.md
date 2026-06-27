@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Theoriq AI 的 Alpha Protocol：将「信誉」变成可量化的链上资产"
 description: "**[「人类信誉系统」平移给 AI Agent，押金+惩罚是最低成本的信任建立]**  Theoriq 的 Alpha Protocol 核心设计： - 押金与惩罚机制：过滤低效代理，保证资金操作安全 - 第三方验证 + 评分系统：快速筛选最优代理 - 「人类退到设计者位置」：AI 决策稳定性与回报效率开始被量化比较  这不是 DeFi + AI 的简单叠加，而是重新定义了「谁为结果负责」。"
 resource: "https://x.com/i/status/1941672742220333194"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/1941672742220333194"
-created: "2025-07-06"
-updated: "2026-06-26"
-sha256: "e4b1aa7f89932a19ecf4b02a9207ad521dbc45bdfd4e8dfcb3cf07245d4c22f9"
-sources:
-  - "/sources/news/2026-04-14/00__Blockchainrese6__theoriq-ai-的-alpha-protocol-将-信誉-变成可量化的链上资产.md"
 ---
 
 # Theoriq AI 的 Alpha Protocol：将「信誉」变成可量化的链上资产

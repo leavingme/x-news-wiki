@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Raschka新年首文：KV共享+mHC+压缩注意力，LLM架构演进三叉戟"
 description: "**一句话核心判断** LLM架构层面的效率优化正在从\"暴力Scaling\"转向\"精准压缩\"，2025年的主战场已从预训练移到了推理侧工程。  **要点：** - Sebastian Raschka系统梳理KV Sharing、mHC（多头混合）、Compressed Attention三条技术路线 - KV共享解决Attention冗余问题，压缩注意力解决长上下文存储瓶颈，mHC解决多任务泛化 "
 resource: "https://x.com/i/status/2056196114026745972"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2056196114026745972"
-created: "2026-05-18"
-updated: "2026-06-26"
-sha256: "d6eaa0c5ec31db2173b095d6e888e5c113b48057c1d81e9845a60419a7d87a28"
-sources:
-  - "/sources/news/2026-05-18/00__jiqizhixin__raschka新年首文-kv共享-mhc-压缩注意力-llm架构演进三叉戟.md"
 ---
 
 # Raschka新年首文：KV共享+mHC+压缩注意力，LLM架构演进三叉戟

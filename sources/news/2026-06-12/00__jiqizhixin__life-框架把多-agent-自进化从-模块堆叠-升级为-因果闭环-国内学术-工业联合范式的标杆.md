@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "LIFE 框架把多 Agent 自进化从\"模块堆叠\"升级为\"因果闭环\"：国内学术+工业联合范式的标杆"
 description: "**[多 Agent 研究从\"各自堆模块\"开始收口为\"自进化因果链路\"]**  - LIFE 四阶段（构建能力→团队整合→归因找错→自进化）首次把 capability / integration / attribution / evolution 因果串联，超越过往孤立综述 - 西安交大+联想+悉尼大学三方联合，国内\"学术+工业\"合作产出统一框架的典型范式 - 瞄准 self-organizin"
 resource: "https://x.com/i/status/2065409782903951518"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2065409782903951518"
-created: "2026-06-12"
-updated: "2026-06-26"
-sha256: "8b399ff36855d18dd03bfae0b48e6fd3f279a2f8f9a6c62eb4737deabc97c8a2"
-sources:
-  - "/sources/news/2026-06-12/00__jiqizhixin__life-框架把多-agent-自进化从-模块堆叠-升级为-因果闭环-国内学术-工业联合范式的标杆.md"
 ---
 
 # LIFE 框架把多 Agent 自进化从"模块堆叠"升级为"因果闭环"：国内学术+工业联合范式的标杆

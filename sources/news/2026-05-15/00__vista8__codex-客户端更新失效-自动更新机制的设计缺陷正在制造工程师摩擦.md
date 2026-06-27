@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Codex 客户端更新失效：自动更新机制的设计缺陷正在制造工程师摩擦"
 description: "**[自动更新在生产力工具中是信任契约]**  向阳乔木指出 Codex 客户端手动点更新经常无效，最终只能下载新版安装包替换。这暴露了桌面端 Agent 工具在版本管理上的粗糙——自动更新失败但无报错提示，用户被迫用原始方式解决。  要点： - 对高频使用 Agent 的工程师而言，每次更新手动下载是效率损耗的积累 - 更新失败无提示=用户不知道当前版本是否最新，影响问题复现和协作一致性 - 映"
 resource: "https://x.com/i/status/2055101676282102127"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2055101676282102127"
-created: "2026-05-15"
-updated: "2026-06-26"
-sha256: "fd7fda4fd915ce139942a85e8d06388bcdeaefdb3cc96ff654e80f766b04bbea"
-sources:
-  - "/sources/news/2026-05-15/00__vista8__codex-客户端更新失效-自动更新机制的设计缺陷正在制造工程师摩擦.md"
 ---
 
 # Codex 客户端更新失效：自动更新机制的设计缺陷正在制造工程师摩擦

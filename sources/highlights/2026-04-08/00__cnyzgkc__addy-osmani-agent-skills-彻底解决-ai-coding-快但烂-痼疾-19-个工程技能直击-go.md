@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Addy Osmani Agent Skills 彻底解决 AI Coding「快但烂」痼疾：19 个工程技能直击 Google 级标准"
 description: "**【一句话核心判断】** Google 工程师把内部最佳实践封装成强制执行流程，AI 写代码必须走「Spec→Plan→Build→Test→Review→Ship」全套，投机取巧的快但烂模式被釜底抽薪。  **信息增量：** - 19 个工程技能 + 7 个斜杠命令全部来自 Google 内部实战 - 解决了 AI Coding 爱跳步骤（跳过测试、安全检查）的核心痼疾 - 一条命令安装：np"
 resource: "https://x.com/i/status/2040620611819421753"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2040620611819421753"
-created: "2026-04-05"
-updated: "2026-06-26"
-sha256: "dd4053ebea44a7933f2279345cdc6ef7616905784afcf113eafcc1f21aa98292"
-sources:
-  - "/sources/highlights/2026-04-08/00__cnyzgkc__addy-osmani-agent-skills-彻底解决-ai-coding-快但烂-痼疾-19-个工程技能直击-go.md"
 ---
 
 # Addy Osmani Agent Skills 彻底解决 AI Coding「快但烂」痼疾：19 个工程技能直击 Google 级标准

@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Stem 稀疏注意力新解法：长上下文推理摆脱 O(n²) 焦虑"
 description: "**[Stem 用位置衰减 + 输出感知重新设计稀疏注意力流，长上下文推理成本曲线被改写]**  - 核心机制：保留早期 token 维持递归依赖 + 输出感知度量优先保留高影响 token，\"即插即用\"的稀疏模块 - 效果：精度持平或更好，预填充延迟显著降低，重新思考因果信息流 - 落地价值：长上下文 Agent、文档级代码理解、百万 token 检索的算力账本可被压一档  锐评：长上下文赛道的"
 resource: "https://x.com/i/status/2067423803639030017"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2067423803639030017"
-created: "2026-06-18"
-updated: "2026-06-26"
-sha256: "e08cf32bf7e088682cb076a3753080b0df51ede05d30dbebc022468a536a07f9"
-sources:
-  - "/sources/news/2026-06-18/00__jiqizhixin__stem-稀疏注意力新解法-长上下文推理摆脱-o-n-焦虑.md"
 ---
 
 # Stem 稀疏注意力新解法：长上下文推理摆脱 O(n²) 焦虑

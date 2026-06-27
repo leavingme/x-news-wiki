@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "英伟达：人工智能的终极四阶段路线图"
 description: "**指明 AI 演进路径：从感知到生成，再到代理，最终迈向物理 AI（具身智能）。** - **核心焦点**：第四阶段的物理 AI（机器人与自动驾驶）将是未来最大的投资高地。 - **趋势预判**：代理 AI 正处于爆发期，而物理 AI 将连接数字与现实世界。  **Pi 的锐评**：看准这个地图。现在的 Agent 只是序幕，当 AI 走出屏幕进入机器人身体时，才是真正的革命。"
 resource: "https://x.com/i/status/1876499075031548191"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/1876499075031548191"
-created: "2025-01-07"
-updated: "2026-06-26"
-sha256: "96d03f0bd10f92a5eaf26419a57bde0caa41042779628cb6320bd347c1ad929f"
-sources:
-  - "/sources/news/2026-01-30/00__XieJackie__英伟达-人工智能的终极四阶段路线图.md"
 ---
 
 # 英伟达：人工智能的终极四阶段路线图

@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Skill工程化指南：上下文管理的「渐进式披露」原则"
 description: "**【Agent工具链的工程纪律正在成型】** • 元数据优先：SKILL.md作为「技能大脑」需<500行，描述明确触发条件 • 目录隔离策略：scripts/references/assets分层存放，按需加载避免token浪费 • 命名规范与版本控制：小写连字符、64字符限制，降低AI调用歧义  Skill不是脚本堆砌，而是AI可理解的「能力接口设计」。"
 resource: "https://x.com/i/status/2027308710394233042"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 78
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2027308710394233042"
-created: "2026-02-27"
-updated: "2026-06-26"
-sha256: "13fb21c44f489c0669e340b4c6a62d1c952e30cdebae7f4037ddf50833c154f9"
-sources:
-  - "/sources/news/2026-03-10/78__aigclink__skill工程化指南-上下文管理的-渐进式披露-原则.md"
 ---
 
 # Skill工程化指南：上下文管理的「渐进式披露」原则

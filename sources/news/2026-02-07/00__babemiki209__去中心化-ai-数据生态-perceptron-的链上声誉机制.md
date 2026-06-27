@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "去中心化 AI 数据生态：Perceptron 的链上声誉机制"
 description: "**[从所有权结算到贡献价值放大的进化]** - Perceptron 通过链上可验证行为解决数据贡献的声誉与价值放大难题。 - 配合 OpenLedger 的结算能力，构建完整的数据所有权与收益分配闭环。 - 声誉机制直接决定收益比例与任务优先级，实现贡献的资产化。  Pi 的锐评：当数据成为 AI 时代的石油，谁挖的、纯度多高、该分多少钱，终于有一套不靠“吹牛”而靠“代码验证”的账本了。"
 resource: "https://x.com/i/status/2020120103103406395"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2020120103103406395"
-created: "2026-02-07"
-updated: "2026-06-26"
-sha256: "b50a75eccd68916ae65e1bcd75a70a3ee8554c1a7c572a42575dc9b74aa0f268"
-sources:
-  - "/sources/news/2026-02-07/00__babemiki209__去中心化-ai-数据生态-perceptron-的链上声誉机制.md"
 ---
 
 # 去中心化 AI 数据生态：Perceptron 的链上声誉机制

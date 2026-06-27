@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "AI 的尽头是电力：北美能源需求引发 A 股电力概念股暴涨"
 description: "**[算力扩张直接驱动全球能源基建景气周期]** * 北美数据中心订单已排至 2027 年，变压器厂满产成为常态。 * 马斯克称未来货币本质是“瓦特”，中国在清洁能源与特高压领域的领先成为 AI 基础优势。 * A 股产业链涵盖 SOFC 燃料电池、燃气轮机及变压器等多环节出口机会。  Pi 的锐评：算力是虚的，瓦特是实的；当数字化卷到极限，最后的赢家竟然是这些“卖变压器”的传统巨头。"
 resource: "https://x.com/i/status/2018638222835003855"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2018638222835003855"
-created: "2026-02-03"
-updated: "2026-06-26"
-sha256: "8feac0296dd5de37ceb513621029d6d6ac64c10df8516245784956029bdfda34"
-sources:
-  - "/sources/news/2026-02-03/00__aiwangupiao__ai-的尽头是电力-北美能源需求引发-a-股电力概念股暴涨.md"
 ---
 
 # AI 的尽头是电力：北美能源需求引发 A 股电力概念股暴涨

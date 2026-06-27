@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "向阳乔木自研 PPT Skill：把\"调研方法论+多格式输出+环境感知\"打包成开箱即用的内容生产单元"
 description: "**向阳乔木把 PPT 制作从单点生成升级为\"多格式+多工具+多源素材\"的生产 Skill，指向 Skill 形态正在从\"提示词片段\"走向\"完整生产流水线\"。**  核心增量： - 同时输出可编辑 PPTX、PDF、HTML 三种格式，解决 PPT 类内容\"好看不可改\"的痛点 - 集成 GPT 5.5 Pro 的 PPT 写作方法论作为内置流程 - 环境感知：Codex 场景调生图设计背景（5-1"
 resource: "https://x.com/i/status/2068135803117859118"
@@ -22,13 +22,6 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "skills-ecosystem-standards"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2068135803117859118"
-created: "2026-06-20"
-updated: "2026-06-26"
-sha256: "964b35b989f35222967f3b5a05810a93b2c53be12065312ea5858c25564c1f04"
-sources:
-  - "/sources/highlights/2026-06-20/00__vista8__向阳乔木自研-ppt-skill-把-调研方法论-多格式输出-环境感知-打包成开箱即用的内容生产单元.md"
 ---
 
 # 向阳乔木自研 PPT Skill：把"调研方法论+多格式输出+环境感知"打包成开箱即用的内容生产单元

@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Bun 内置 Bun.Image：JS 运行时开始原生吞噬图像处理能力"
 description: "**Bun 下个版本将内置多格式图像处理库，开发者的图片操作不再依赖 Sharp/ImageMagick 等外部依赖。**  - Bun.Image 是 builtin 原生模块，性能预期远超 Node.js 生态的现有方案 - 对 AI 工作流的意义：Agent 需要频繁处理截图、图表、多模态素材，原生图像能力减少依赖链 - JS/TS 运行时正在从「Web 后端」向「全栈 AI 工程基建」进化"
 resource: "https://x.com/bunjavascript/status/2050421589150404826"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "ai-trend-digest"
-type_okf: "X Tweet"
-source_url: "https://x.com/bunjavascript/status/2050421589150404826"
-created: "2026-05-02"
-updated: "2026-06-26"
-sha256: "6538e4e344e1ff53c3573072de3d981ce5d6a6a4035aee17ccf50252c2cd2437"
-sources:
-  - "/sources/news/2026-05-02/00__bunjavascript__bun-内置-bun-image-js-运行时开始原生吞噬图像处理能力.md"
 ---
 
 # Bun 内置 Bun.Image：JS 运行时开始原生吞噬图像处理能力

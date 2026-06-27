@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "DeepSeek V4 Pro 论文实证：智能体搜索模式已能以\"略高成本\"碾压传统 RAG"
 description: "**[Agentic Search 是 RAG 的\"升级换代\"而非\"替代\"，成本账算过来了]**  • 最难写作任务中，Claude Opus 4.5 仍居首，但 DeepSeek V4 Pro 已超越 Gemini-3.1-Pro——开源阵营追上主流 • 核心发现：智能体搜索模式性能显著优于标准 RAG，成本\"只是略高一点\"——这条对工程选型影响巨大 • SimpleQA-Verified 测试"
 resource: "https://x.com/i/status/2047632111968899550"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2047632111968899550"
-created: "2026-04-24"
-updated: "2026-06-26"
-sha256: "61bd3b624a7eb5dc7059754603ea5a0af186f5f8a58d1149a17b0077301307c0"
-sources:
-  - "/sources/news/2026-04-24/00__vista8__deepseek-v4-pro-论文实证-智能体搜索模式已能以-略高成本-碾压传统-rag.md"
 ---
 
 # DeepSeek V4 Pro 论文实证：智能体搜索模式已能以"略高成本"碾压传统 RAG

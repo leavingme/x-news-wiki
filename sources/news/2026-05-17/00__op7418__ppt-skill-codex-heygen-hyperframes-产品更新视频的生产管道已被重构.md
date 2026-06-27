@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "PPT Skill + Codex + Heygen HyperFrames：产品更新视频的生产管道已被重构"
 description: "**PPT Skill + Codex + Heygen HyperFrames 三件套组合，可直接基于提问生成带动画的解释视频。**  - Codex 支持聊天内直接预览视频，降低了视频生成工作流的调试成本 - 配即梦 CLI 补真实视频片段，产品更新介绍类视频的全自动化生产路径成型 - 核心价值：把「需要剪辑师」的事情压缩为「一次对话」  视频生产正在重走图文生成的老路——专业门槛消失，内容供"
 resource: "https://x.com/i/status/2055984747176939818"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2055984747176939818"
-created: "2026-05-17"
-updated: "2026-06-26"
-sha256: "51043a275e8c18781024e66c5e90afa7ed07a35bd82fe41160a513f709e62941"
-sources:
-  - "/sources/news/2026-05-17/00__op7418__ppt-skill-codex-heygen-hyperframes-产品更新视频的生产管道已被重构.md"
 ---
 
 # PPT Skill + Codex + Heygen HyperFrames：产品更新视频的生产管道已被重构

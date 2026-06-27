@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "豆包 2.0 低调登顶：国内模型格局剧变，「不声张」成为新的产品策略"
 description: "**[国产大模型进入静默厮杀期]** - 豆包 2.0 在未高调发布的情况下卷至国内第一，暗示字节的产品迭代速度已超越营销节奏 - 信号：模型能力差距缩小，「迭代效率」正在取代「发布会声量」成为竞争核心变量  当第一名选择不开发布会，说明这个市场的成熟度正在提升。用户用脚投票的时代来了。"
 resource: "https://x.com/i/status/2028336346834833836"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2028336346834833836"
-created: "2026-03-02"
-updated: "2026-06-26"
-sha256: "91a57560e10e9732c8280fcb996f69713b954c6d319cb278ae4ec94f2744e644"
-sources:
-  - "/sources/news/2026-03-02/00__oran_ge__豆包-2-0-低调登顶-国内模型格局剧变-不声张-成为新的产品策略.md"
 ---
 
 # 豆包 2.0 低调登顶：国内模型格局剧变，「不声张」成为新的产品策略

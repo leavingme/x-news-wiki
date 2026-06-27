@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Claude Code Desktop 权限弹窗之痒：Bypass Permissions 为何不生效"
 description: "**一句话核心判断** Claude Code Desktop 版在启用 Bypass Permissions 后仍持续弹窗要求确认权限，这是一个典型的「文档与实现脱节」问题，指向 Claude CLI 权限管理机制在桌面端的适配缺陷。  **要点** - 问题本质：用户明确启用了 bypass_permissi (原文截断) 配置，但弹窗依旧出现，说明配置项在 Desktop 版本中的覆盖逻辑存"
 resource: "https://x.com/i/status/2062309301901721814"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2062309301901721814"
-created: "2026-06-03"
-updated: "2026-06-26"
-sha256: "8120145c769662a253dd84e1837ef6a2379623713ac87ae474660768b4b5a810"
-sources:
-  - "/sources/news/2026-06-04/00__dotey__claude-code-desktop-权限弹窗之痒-bypass-permissions-为何不生效.md"
 ---
 
 # Claude Code Desktop 权限弹窗之痒：Bypass Permissions 为何不生效

@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "本地 LLM 硬件三件套报价：万元甜点区已成，个人 Agent 跑长上下文不再奢侈"
 description: "**本地推理硬件进入「万元级甜点区」，三种方案锁定不同人群**  RTX6000 Pro $10k 是单卡极致工作站价位，劝退普通开发者；DGX Spark $4k 把 NVIDIA 桌面超算拉到了消费级，是 Blackwell 架构尝鲜首选；Macbook Pro M5 Max 128GB $5k 用统一内存架构 + macOS 生态，把本地 Agent 跑长上下文（128GB ≈ 适合 70B"
 resource: "https://x.com/jun_song/status/2066681474972323854"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "ai-trend-digest"
-type_okf: "X Tweet"
-source_url: "https://x.com/jun_song/status/2066681474972323854"
-created: "2026-06-16"
-updated: "2026-06-26"
-sha256: "55708677e55ffe944354822cbbd4bbc67127536f476154bf94190be304426ca0"
-sources:
-  - "/sources/news/2026-06-17/00__jun_song__本地-llm-硬件三件套报价-万元甜点区已成-个人-agent-跑长上下文不再奢侈.md"
 ---
 
 # 本地 LLM 硬件三件套报价：万元甜点区已成，个人 Agent 跑长上下文不再奢侈

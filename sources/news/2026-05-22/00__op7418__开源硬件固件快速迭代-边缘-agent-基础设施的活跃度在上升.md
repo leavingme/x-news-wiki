@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "开源硬件固件快速迭代：边缘 Agent 基础设施的活跃度在上升"
 description: "**[边缘计算开源社区的迭代节奏正在加快]**  同一开发者在短时间内发了固件更新（2057839763693187549），结合前两条关于 M5 Stack 适配和 Codex 交互抄超的消息，说明这个硬件/Agent 工具链的开发者正在高强度迭代。  这不是孤立固件更新，而是边缘 Agent 基础设施整体加速的缩影。  **gakki锐评：** 如果这个开发者同时在做墨水屏适配、抄 Codex"
 resource: "https://x.com/i/status/2057839763693187549"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2057839763693187549"
-created: "2026-05-22"
-updated: "2026-06-26"
-sha256: "111b421320eff01cc7445b05bd36c7c28e5daf653b6dc93398379dfcd0a5046f"
-sources:
-  - "/sources/news/2026-05-22/00__op7418__开源硬件固件快速迭代-边缘-agent-基础设施的活跃度在上升.md"
 ---
 
 # 开源硬件固件快速迭代：边缘 Agent 基础设施的活跃度在上升

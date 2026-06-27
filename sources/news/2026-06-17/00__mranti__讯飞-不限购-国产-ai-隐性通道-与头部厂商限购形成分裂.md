@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "讯飞「不限购」：国产 AI 隐性通道，与头部厂商限购形成分裂"
 description: "**[Michael Anti 透露：讯飞百炼「不限购」且几乎没人知道，是国产 AI 隐性福利通道]** - 对比 Kimi/DeepSeek 等需要抢额度、排队的体验，讯飞成为「偷偷用」的选择 - 暴露国产模型分发的差异化：技术能力之外，资源供给本身也是竞争力 - 「没人知道」反而是当前阶段的护城河——用完即用完，不触发限购    gakki 锐评：当所有大厂都在讲「算力即护城河」时，讯飞反其道"
 resource: "https://x.com/i/status/2067250349451440597"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2067250349451440597"
-created: "2026-06-17"
-updated: "2026-06-26"
-sha256: "e108ff0bee37a5a67ab58ac6ac7ed5dca5fd383eb03b06ffaedafa13d900c75e"
-sources:
-  - "/sources/news/2026-06-17/00__mranti__讯飞-不限购-国产-ai-隐性通道-与头部厂商限购形成分裂.md"
 ---
 
 # 讯飞「不限购」：国产 AI 隐性通道，与头部厂商限购形成分裂

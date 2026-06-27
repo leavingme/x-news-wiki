@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "宝玉分享 Claude Design 微调技巧：浏览器内暂停 + 标注位置让 Agent 精修"
 description: "**[宝玉分享 Claude Design 微调技巧：内置浏览器暂停 + 标注位置让 Agent 精修]**  - 默认生成的 HTML 产物可在 Agent 浏览器内打开 - 暂停视频播放 + 标记修改位置，Agent 按标注精确修改 - 补齐\"设计稿即代码\"工作流的最后一公里——从一次性生成走向迭代式精修   gakki 锐评：把\"播放视频\"变成\"审查视频\"——这个技巧本质是把 Agent 浏"
 resource: "https://x.com/i/status/2067066064756781392"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2067066064756781392"
-created: "2026-06-17"
-updated: "2026-06-26"
-sha256: "9c1b23ce7b9a92a117a971b064de7ccd63859351bf3be91900c66a7a796a93a2"
-sources:
-  - "/sources/news/2026-06-17/00__dotey__宝玉分享-claude-design-微调技巧-浏览器内暂停-标注位置让-agent-精修.md"
 ---
 
 # 宝玉分享 Claude Design 微调技巧：浏览器内暂停 + 标注位置让 Agent 精修

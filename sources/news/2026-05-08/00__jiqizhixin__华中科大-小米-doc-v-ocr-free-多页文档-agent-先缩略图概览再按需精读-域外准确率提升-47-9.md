@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "华中科大+小米 Doc-V*：OCR-free 多页文档 Agent，先缩略图概览再按需精读，域外准确率提升 47.9%"
 description: "**多页文档理解正在从「全量 OCR」进化为「视觉 Agent 主动检索」，架构层面解决了长文档的 Token 爆炸问题。**  - Doc-V* 采用 coarse-to-fine 策略：缩略图概览 → 主动定位相关页 → 存入工作记忆 → 精读推理 - 域外场景准确率比 RAG 基线提升 47.9%，接近闭源模型水平 - 关键设计：Agent 自主决定「读什么」而非暴力全扫，Token 效率质"
 resource: "https://x.com/i/status/2052741558844407907"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2052741558844407907"
-created: "2026-05-08"
-updated: "2026-06-26"
-sha256: "e09cdd09d9c0f80a9c4e1f9b5fe15e740d9552bac1d6827c018dbf0f9fedad04"
-sources:
-  - "/sources/news/2026-05-08/00__jiqizhixin__华中科大-小米-doc-v-ocr-free-多页文档-agent-先缩略图概览再按需精读-域外准确率提升-47-9.md"
 ---
 
 # 华中科大+小米 Doc-V*：OCR-free 多页文档 Agent，先缩略图概览再按需精读，域外准确率提升 47.9%

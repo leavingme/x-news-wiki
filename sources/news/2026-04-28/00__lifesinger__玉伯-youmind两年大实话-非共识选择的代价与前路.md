@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "玉伯：YouMind两年大实话——非共识选择的代价与前路"
 description: "**「前路无活人，尸横遍野」背后的创业方法论**  玉伯首次系统性披露 YouMind 两年创业的非共识决策逻辑：选择少有人走的路，当时不被认可，最终发现赛道空旷但也意味着没有参照。他提到的关键信号是：「YouMind 真能替我写文章了」——这是 AI 写作工具第一次被创业者本人认证为「可信赖的生产力组件」，而非实验品。  另一层信息增量在于「最美的花开在尸横遍野的地方」这个表达——它折射出中国 "
 resource: "https://x.com/i/status/2049113020648104252"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2049113020648104252"
-created: "2026-04-28"
-updated: "2026-06-26"
-sha256: "03dfd8bfa29ed7667c447feac3e69fbb1fc102d4350ddcb546a153153435d2e0"
-sources:
-  - "/sources/news/2026-04-28/00__lifesinger__玉伯-youmind两年大实话-非共识选择的代价与前路.md"
 ---
 
 # 玉伯：YouMind两年大实话——非共识选择的代价与前路

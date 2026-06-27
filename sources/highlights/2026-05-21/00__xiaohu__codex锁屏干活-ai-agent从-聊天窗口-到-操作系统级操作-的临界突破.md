@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Codex锁屏干活：AI Agent从「聊天窗口」到「操作系统级操作」的临界突破"
 description: "**AI正在学会绕过人类直接操作电脑。**  OpenAI给Codex上了「锁屏使用」功能——Mac锁着屏，AI照样干活，手机远程发指令即可。这背后用的是苹果官方Authorization Plug-in机制，临时解锁、单次授权、遮蔽屏幕、自动重锁，四层安全设计把风险压到最低。  这意味着什么？以前AI是「建议者」，现在它是「执行者」。你上班走了，老板一个消息过来，你的Codex已经在锁屏状态下把"
 resource: "https://x.com/i/status/2057570191048126690"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2057570191048126690"
-created: "2026-05-21"
-updated: "2026-06-26"
-sha256: "00095d4567b67b79ff781c9d3642f36a44a7333fc4da93db32a8b20793255a16"
-sources:
-  - "/sources/highlights/2026-05-21/00__xiaohu__codex锁屏干活-ai-agent从-聊天窗口-到-操作系统级操作-的临界突破.md"
 ---
 
 # Codex锁屏干活：AI Agent从「聊天窗口」到「操作系统级操作」的临界突破

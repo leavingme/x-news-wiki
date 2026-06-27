@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "硅谷风投教父：AI 是将沙子转化为认知的“炼金石”"
 description: "**[生产函数被彻底改写，AI 将廉价算力转化为稀缺认知]** - 历史上的炼金术试图将普通物质变为金子，而 AI 将硅和沙子变为了思考与认知。 - 这不再是 10% 的效率提升，而是整套社会生产规则的更替。 - 算力正成为这个时代最核心的能源资产。  Pi 的锐评：当“思考”变得像自来水一样便宜且可工业化生产时，人类唯一的溢价将只剩下“提问”的品位。"
 resource: "https://x.com/i/status/2018919950707048554"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2018919950707048554"
-created: "2026-02-04"
-updated: "2026-06-26"
-sha256: "23c250a05623fd81dfff55d294010ad16a37c2bdb744aed90308964ee11467a3"
-sources:
-  - "/sources/news/2026-02-04/00__erchenlu1__硅谷风投教父-ai-是将沙子转化为认知的-炼金石.md"
 ---
 
 # 硅谷风投教父：AI 是将沙子转化为认知的“炼金石”

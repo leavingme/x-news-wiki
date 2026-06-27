@@ -1,23 +1,17 @@
 ---
-type: "entity"
+type: "Author"
 title: "Jingle Bell 初号机 (@ScarlettWeb3)"
 description: "X/Twitter 作者 @ScarlettWeb3。共收录 1 条 AI 精选推文。"
 tags:
   - "x-news"
   - "author"
   - "author:ScarlettWeb3"
-timestamp: "2026-06-26T11:53:36.982Z"
+timestamp: "2026-06-27T08:40:40.193Z"
 x_handle: "ScarlettWeb3"
 x_author_name: "Jingle Bell 初号机"
 x_tweet_count: 1
 x_first_seen: "2026-04-09T10:17:45.033Z"
 x_last_seen: "2026-04-09T10:17:45.033Z"
-type_okf: "Author"
-created: "2026-04-09"
-updated: "2026-06-26"
-sha256: "5d7cfd4d852f09a2727a02428d098813ff59922551f3c1424d39a3e678da384c"
-sources:
-  - "/sources/highlights/2026-04-09/00__ScarlettWeb3__claude-code源码泄漏-anthropic的工程化system-prompt与多agent权限队列首次曝光.md"
 ---
 
 # Jingle Bell 初号机 (@ScarlettWeb3)

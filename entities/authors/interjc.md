@@ -1,23 +1,17 @@
 ---
-type: "entity"
+type: "Author"
 title: "Justin (@interjc)"
 description: "X/Twitter 作者 @interjc。共收录 1 条 AI 精选推文。"
 tags:
   - "x-news"
   - "author"
   - "author:interjc"
-timestamp: "2026-06-26T11:53:36.911Z"
+timestamp: "2026-06-27T08:40:40.117Z"
 x_handle: "interjc"
 x_author_name: "Justin"
 x_tweet_count: 1
 x_first_seen: "2026-01-31T07:55:51.698Z"
 x_last_seen: "2026-01-31T07:55:51.698Z"
-type_okf: "Author"
-created: "2026-01-31"
-updated: "2026-06-26"
-sha256: "2f18f4d71f21f5d3be2d37f0faf14025df045c52053f0aef8e5d2c2f576e2262"
-sources:
-  - "/sources/news/2026-01-31/00__interjc__find-skills-ai-技能自动发现与安装工具.md"
 ---
 
 # Justin (@interjc)

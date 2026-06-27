@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Anthropic 新产品预告：Agent 基础设施商集体焦虑"
 description: "**【一句话核心判断】** 宝玉一句话「可能让一批做 AI Agent 基础设施的团队失业」，配上同天发的 Claude Managed Agents，两条推文形成完美互文——这就是今天的最大变量。  **要点：** - 同一时间点，宝玉捕捉到了这个产品的杀伤力边界 - 基础设施层正在被模型厂商「垂直整合」 - Agent 生态的中间件机会窗口正在关闭  **gakki 锐评：** 消息还没正式发"
 resource: "https://x.com/i/status/2042017036931305667"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2042017036931305667"
-created: "2026-04-08"
-updated: "2026-06-26"
-sha256: "7d04f2bec2c784d48aef183c854982257762dd15bade1db11d462abde25278e2"
-sources:
-  - "/sources/highlights/2026-04-09/00__dotey__anthropic-新产品预告-agent-基础设施商集体焦虑.md"
 ---
 
 # Anthropic 新产品预告：Agent 基础设施商集体焦虑

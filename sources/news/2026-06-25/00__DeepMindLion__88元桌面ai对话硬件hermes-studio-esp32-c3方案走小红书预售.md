@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "88元桌面AI对话硬件Hermes Studio：ESP32-C3方案走小红书预售"
 description: "**Hermes Studio小方盒以88元定价在端侧AI硬件赛道撕开一道消费级口子，验证了ESP32级方案的消费品化路径。**  **要点：** - 基于ESP32-C3的桌面AI对话硬件，定位极低门槛 - 预售渠道锁定小红书，绕过传统3C分销链，直达消费决策 - 官方仓库已开源，软硬协同降低复刻门槛   gakki锐评：88元的杀伤力在于把AI硬件从极客玩具变成冲动消费品，但极致低价也意味着利"
 resource: "https://x.com/i/status/2069802948285420010"
@@ -22,13 +22,6 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "robot-phone-consumer-embodied-ai"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2069802948285420010"
-created: "2026-06-24"
-updated: "2026-06-26"
-sha256: "5991602715f3eb0e685f04a1d62bb4416ded5c5ec8a5e19ce000cd439376e98a"
-sources:
-  - "/sources/news/2026-06-25/00__DeepMindLion__88元桌面ai对话硬件hermes-studio-esp32-c3方案走小红书预售.md"
 ---
 
 # 88元桌面AI对话硬件Hermes Studio：ESP32-C3方案走小红书预售

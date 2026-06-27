@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "归藏.ai：Codex不是单点工具，是一整个体系"
 description: "**[Codex生态体系认知：工具链协同而非单点突破]**  部分开发者仍停留在将Codex视为\"Copilot替代品\"的认知层面。归藏指出，Codex背后是一整套体系——从模型推理到工具调用协议、从Web API到Chrome扩展，构成了完整的Agent开发范式。  这意味着竞争门槛不在于某个单点功能，而在于生态协同效应。  **gakki 锐评：** 每次出现「某个AI编程工具碾压竞品」的舆论"
 resource: "https://x.com/i/status/2062740479171813754"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2062740479171813754"
-created: "2026-06-05"
-updated: "2026-06-26"
-sha256: "bd04f5a5c8fdedbb6f7d343243fe1a599ee8d6e05477dace3b4f28f7ad1ec74e"
-sources:
-  - "/sources/news/2026-06-05/00__op7418__归藏-ai-codex不是单点工具-是一整个体系.md"
 ---
 
 # 归藏.ai：Codex不是单点工具，是一整个体系

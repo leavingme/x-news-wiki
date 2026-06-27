@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Stable-DiffCoder：扩散模型在代码生成领域的结构化奇袭"
 description: "**[核心逻辑]** 字节团队引入块扩散方法取代 token 逐个生成，在逻辑推理和低资源语言编程上表现优异。"
 resource: "https://x.com/i/status/2022149479743271404"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2022149479743271404"
-created: "2026-02-13"
-updated: "2026-06-26"
-sha256: "533ea1abd73877569bf81f0dff87f17f57c4e41d83ac3bc8d88f9eb19357ba22"
-sources:
-  - "/sources/highlights/2026-02-14/00__jiqizhixin__stable-diffcoder-扩散模型在代码生成领域的结构化奇袭.md"
 ---
 
 # Stable-DiffCoder：扩散模型在代码生成领域的结构化奇袭

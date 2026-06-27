@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Google 官方认领「5大 Agent Skill 设计模式」：Claude Code 的 SKILL.md 正在成为全球标准"
 description: "**[基础设施拐点已至]** • Google 一次性发布 5 个 Skill 设计模式（Tool Wrapper / Generator / Reviewer / Inversion / Pipeline），标志 SKILL.md 从社区实践升级为行业规范 • 30+ Agent 工具已统一格式，核心战场从「格式之争」转向「内容质量之争」 • 组合式架构成为共识：Pipeline 嵌套 Revi"
 resource: "https://x.com/i/status/2034196862794961299"
@@ -22,13 +22,6 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "skill-vs-mcp-paradigm"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2034196862794961299"
-created: "2026-03-18"
-updated: "2026-06-26"
-sha256: "3169c1993c86891551926a516decf9a4bd271bc5f4249feea65d7689a5769e71"
-sources:
-  - "/sources/highlights/2026-03-18/00__KKaWSB__google-官方认领-5大-agent-skill-设计模式-claude-code-的-skill-md-正在成为全.md"
 ---
 
 # Google 官方认领「5大 Agent Skill 设计模式」：Claude Code 的 SKILL.md 正在成为全球标准

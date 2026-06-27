@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Lightpanda：为Agent而生的「极简浏览器」正在重写爬虫底层"
 description: "**【浏览器Agent化的工程拐点已至】** • 专为爬虫和AI Agent设计的浏览器，将CPU/内存开销压至极低 • 技术栈选择极具信号意义：用Zig完全重写，不依赖既有JS Runtime，目标单一且极致 • 这标志着Agent基础设施正从「能用」走向「专门化工程」  当浏览器成为Agent的「操控对象」，专为Agent重写的底层引擎将是下一个性能战场。"
 resource: "https://x.com/i/status/2033819805107548487"
@@ -22,13 +22,6 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "agent-browser-token-efficiency"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2033819805107548487"
-created: "2026-03-17"
-updated: "2026-06-26"
-sha256: "f097c324ada7eb544e56783973fe88d66d2a32f2791c2908d28c7a26e60fe2be"
-sources:
-  - "/sources/highlights/2026-03-17/00__lidangzzz__lightpanda-为agent而生的-极简浏览器-正在重写爬虫底层.md"
 ---
 
 # Lightpanda：为Agent而生的「极简浏览器」正在重写爬虫底层

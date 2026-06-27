@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Base链上「逻辑套利」新物种：AI Agent被迫「自证清白」的博弈进化"
 description: "**[预测市场进入Agent-Native阶段，$ARGUE倒逼链上智能体展示推理逻辑而非仅押注结果]**  • 范式跃迁：从「盯着胜率波动」到「用推理逻辑赢取奖励」，预测市场的评判标准从结果正确转向过程可解释 • 关键机制：Agent必须在链上公开其推理链条以证明非随机押注，形成「可验证智能」的雏形 • 早期信号：「安静的窗口期」意味着先发者正在建立基于逻辑质量的护城河，而非资金规模  **ga"
 resource: "https://x.com/i/status/2034879560299552805"
@@ -22,13 +22,6 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "ai-crypto-agent-infra"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2034879560299552805"
-created: "2026-03-20"
-updated: "2026-06-26"
-sha256: "50fc06380f39019462f9f7e1d1aabadc2f3087fdfb5cb306c79c2e9aa8738b0f"
-sources:
-  - "/sources/highlights/2026-03-20/00__ohouhou717__base链上-逻辑套利-新物种-ai-agent被迫-自证清白-的博弈进化.md"
 ---
 
 # Base链上「逻辑套利」新物种：AI Agent被迫「自证清白」的博弈进化

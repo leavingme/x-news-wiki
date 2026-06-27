@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "玉伯的稀缺性拷问：当Cursor、Notion、Figma都被祛魅，SaaS的护城河还剩什么？"
 description: "**【产品稀缺性正在失效，真正壁垒是「无法被AI复制的认知密度」】**  • 玉伯点名质疑一线产品：Figma、Notion、Linear 无稀缺性；Cursor 正在丧失；Perplexity 已淡出；Lovable 靠增长团队、Manus 靠数据采买——本质都是「可迁移资源」 • 稀缺性的重新定义：不是功能复杂度，而是「数据-认知-网络效应」的复合体，且必须难以被Agent快速复刻 • 对 A"
 resource: "https://x.com/i/status/2036112031405789214"
@@ -22,13 +22,6 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "agent-native-paradigm"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2036112031405789214"
-created: "2026-03-23"
-updated: "2026-06-26"
-sha256: "a39d572819da74000d6618349b4d850bb3b875acdab84852aefed2da88f6b420"
-sources:
-  - "/sources/highlights/2026-03-24/00__lifesinger__玉伯的稀缺性拷问-当cursor-notion-figma都被祛魅-saas的护城河还剩什么.md"
 ---
 
 # 玉伯的稀缺性拷问：当Cursor、Notion、Figma都被祛魅，SaaS的护城河还剩什么？

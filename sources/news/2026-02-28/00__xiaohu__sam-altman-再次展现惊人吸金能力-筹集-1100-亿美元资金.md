@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Sam Altman 再次展现惊人吸金能力：筹集 1100 亿美元资金"
 description: "**[行业巨震]** - 奥特曼成功筹集 1100 亿美元资金 - 惊人的融资能力引发调侃与热议  千亿美金级别的游戏，已经不是普通创业者能看懂的叙事了。这是算力霸权的入场券。"
 resource: "https://x.com/i/status/2027397074594214138"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2027397074594214138"
-created: "2026-02-27"
-updated: "2026-06-26"
-sha256: "dd0103859eec4eea2f65e83cd5e1764359739e33175af13d4b46aceab8c8bcf8"
-sources:
-  - "/sources/news/2026-02-28/00__xiaohu__sam-altman-再次展现惊人吸金能力-筹集-1100-亿美元资金.md"
 ---
 
 # Sam Altman 再次展现惊人吸金能力：筹集 1100 亿美元资金

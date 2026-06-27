@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "yetone承认Yansu「不会讲故事」：Proactive Agent先行者的营销失位"
 description: "**一句话核心判断**  yetone自嘲Yansu（可能是Yansu项目）是最早实现Proactive Agent和Perspective Agent的框架之一，但因不会讲故事而在传播上输给更会包装的竞争者，这是AI工具圈「技术做得好不如营销讲得妙」的又一佐证。  **信息增量** - Yansu被定义为「Proactive Agent和Perspective Agent的实现」，这是两个具体的"
 resource: "https://x.com/i/status/2062408792973906415"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2062408792973906415"
-created: "2026-06-04"
-updated: "2026-06-26"
-sha256: "92d94dcc894188ff9c09f76cb7802214e7707979809b9c47d5c423cbec195d93"
-sources:
-  - "/sources/news/2026-06-04/00__yetone__yetone承认yansu-不会讲故事-proactive-agent先行者的营销失位.md"
 ---
 
 # yetone承认Yansu「不会讲故事」：Proactive Agent先行者的营销失位

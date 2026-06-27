@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Apple Support 更新意外暴露 Claude.md：苹果内部 AI 工具链正在用 Anthropic"
 description: "**苹果内部工具链已深度集成 Claude，但这次是意外泄露而非官宣。**  - Apple Support app v5.13 的 IPA 包中残留 Claude.md 配置文件，属于典型的工程疏忽 - 这类文件通常出现在使用 Claude Code 进行开发的工作流中，说明苹果内部至少部分团队在用 Anthropic 的 AI 编码工具 - 苹果在 WWDC 前夕频繁被曝出与 Anthropi"
 resource: "https://x.com/aaronp613/status/2049986504617820551"
@@ -22,13 +22,6 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "ai-platform-integration-risk"
 x_source: "ai-trend-digest"
-type_okf: "X Tweet"
-source_url: "https://x.com/aaronp613/status/2049986504617820551"
-created: "2026-04-30"
-updated: "2026-06-26"
-sha256: "1056c4168980f092f0d8bb2b7874f30fdc4294d0f947348c30199e845bdec6c8"
-sources:
-  - "/sources/highlights/2026-05-01/00__aaronp613__apple-support-更新意外暴露-claude-md-苹果内部-ai-工具链正在用-anthropic.md"
 ---
 
 # Apple Support 更新意外暴露 Claude.md：苹果内部 AI 工具链正在用 Anthropic

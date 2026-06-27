@@ -1,23 +1,17 @@
 ---
-type: "entity"
+type: "Author"
 title: "Electric Cockroach (@Fukiko000)"
 description: "X/Twitter 作者 @Fukiko000。共收录 1 条 AI 精选推文。"
 tags:
   - "x-news"
   - "author"
   - "author:Fukiko000"
-timestamp: "2026-06-26T11:53:36.922Z"
+timestamp: "2026-06-27T08:40:40.131Z"
 x_handle: "Fukiko000"
 x_author_name: "Electric Cockroach"
 x_tweet_count: 1
 x_first_seen: "2026-02-08T13:00:14.034Z"
 x_last_seen: "2026-02-08T13:00:14.034Z"
-type_okf: "Author"
-created: "2026-02-08"
-updated: "2026-06-26"
-sha256: "9ca120702344eb6b6666866d68a1436223c27cb9916dbadb7eb735964d0ebf53"
-sources:
-  - "/sources/news/2026-02-08/00__Fukiko000__大模型价格战升温-gemini-打折突显-openai-执念.md"
 ---
 
 # Electric Cockroach (@Fukiko000)

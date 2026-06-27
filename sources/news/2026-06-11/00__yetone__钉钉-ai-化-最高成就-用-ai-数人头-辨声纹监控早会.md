@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "钉钉 AI 化「最高成就」：用 AI 数人头、辨声纹监控早会"
 description: "**钉钉被点名讽刺：其 AI 化最\"成功\"的部分是让员工在白板前拍照，由 AI 数人头、按声纹判断参会人数。**  - yetone 转述的钉钉早会流程暴露 AI 落地优先级：考勤监控 > 业务赋能 - 这与 Sequoia/Block 讨论的\"AI 替代中层管理\"形成镜像——西方是 AI 接管协调决策，中国式落地是 AI 接管规训 - \"拍照+AI 数人头\"本质是把管理动作外包给视觉模型，员工成"
 resource: "https://x.com/i/status/2065137292780687566"
@@ -22,13 +22,6 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "ai-replacing-hierarchical-management"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2065137292780687566"
-created: "2026-06-11"
-updated: "2026-06-26"
-sha256: "efeb661c65a1d07d81ca164c4b94bd2fbd073f7d6e13ae73e92c93bf8cfc5702"
-sources:
-  - "/sources/news/2026-06-11/00__yetone__钉钉-ai-化-最高成就-用-ai-数人头-辨声纹监控早会.md"
 ---
 
 # 钉钉 AI 化「最高成就」：用 AI 数人头、辨声纹监控早会

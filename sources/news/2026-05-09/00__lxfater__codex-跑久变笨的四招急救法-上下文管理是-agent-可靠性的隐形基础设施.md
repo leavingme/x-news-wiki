@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Codex 跑久变笨的四招急救法：上下文管理是 Agent 可靠性的隐形基础设施"
 description: "**Codex 上下文污染导致性能衰减不是错觉，而是 Agent 工程的系统性问题。**  - 关闭 Process_narration 可省大量输出 token，减少无效信息对上下文的占用 - 协调者模式：主 agent 只做编排，脏活卸给子 agent 的独立上下文窗口 - 先列 task list 再动手，避免调试过程污染主上下文；强制代码库清洁不留垃圾 - 实测每轮可省 40% 上下文消耗"
 resource: "https://x.com/i/status/2053147480938971585"
@@ -22,13 +22,6 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "agent-memory-optimization"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2053147480938971585"
-created: "2026-05-09"
-updated: "2026-06-26"
-sha256: "1066d8e2682463619144a15083c5c08b58d9ebc33e07ae0e951d39cf9d301b13"
-sources:
-  - "/sources/news/2026-05-09/00__lxfater__codex-跑久变笨的四招急救法-上下文管理是-agent-可靠性的隐形基础设施.md"
 ---
 
 # Codex 跑久变笨的四招急救法：上下文管理是 Agent 可靠性的隐形基础设施

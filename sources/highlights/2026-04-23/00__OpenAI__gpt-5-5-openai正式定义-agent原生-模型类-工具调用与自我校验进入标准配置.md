@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "GPT-5.5：OpenAI正式定义「Agent原生」模型类，工具调用与自我校验进入标准配置"
 description: "**[GPT-5.5不只是新模型，它是OpenAI首个明确为「替人类完成复杂任务」而设计的模型类]**  - 核心能力重新定义：目标理解→工具调用→工作校验→任务闭环，不再是聊天而是工作流执行 - ChatGPT和Codex双入口同步上线，Agent工具链的OpenAI嫡系生态正式闭合 - 这标志着「模型能力」与「Agent执行」之间的最后一公里被OpenAI亲手打通  GPT-5.5的出现意味着"
 resource: "https://x.com/OpenAI/status/2047376561205325845"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
-
 x_source: "ai-trend-digest"
-type_okf: "X Tweet"
-source_url: "https://x.com/OpenAI/status/2047376561205325845"
-created: "2026-04-23"
-updated: "2026-06-26"
-sha256: "be2a898edb5a27def6e0ca0ef92ff9fb0ae071adf855a0e9793f34e4708a0db8"
-sources:
-  - "/sources/highlights/2026-04-23/00__OpenAI__gpt-5-5-openai正式定义-agent原生-模型类-工具调用与自我校验进入标准配置.md"
 ---
 
 # GPT-5.5：OpenAI正式定义「Agent原生」模型类，工具调用与自我校验进入标准配置

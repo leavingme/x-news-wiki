@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Twitter 全量自动化翻译：内容平台国际化最后一块拼图"
 description: "**[ 内容平台的语言壁垒正在被 AI 消除，但消除之后平台反而更卷 ]**  歸藏发现 Twitter 是唯一一个全量自动化翻译的国际内容平台。这个信息背后有两层含义：  要点： - 第一层：Twitter 在用翻译能力换取国际化用户的消费时长，这是平台防御性策略 - 第二层：翻译能力本身已经没有壁垒，AI 发达后语言不通不再是内容消费的障碍——但这也意味着内容质量的权重反而更高  **gakk"
 resource: "https://x.com/i/status/2059917145702871401"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2059917145702871401"
-created: "2026-05-28"
-updated: "2026-06-26"
-sha256: "df5e2c940eb2e590aad9980b5315aef18a32ba1c5c51d7fc9b8b47caecc7814e"
-sources:
-  - "/sources/news/2026-05-28/00__op7418__twitter-全量自动化翻译-内容平台国际化最后一块拼图.md"
 ---
 
 # Twitter 全量自动化翻译：内容平台国际化最后一块拼图

@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "小红书×上海交大联手「偷算力」：JTok让模型扩容不再烧钱"
 description: "**Token级参数调制正在瓦解MoE的算力霸权。**  • **核心突破**：用轻量\"token-indexed参数\"智能调制Transformer核心，实现容量与FLOPs解耦 • **数据说话**：相比标准MoE节省35%计算量，MMLU提升4.1分、ARC提升8.3分 • **产业信号**：国内大厂（小红书）与学术界深度协同，开始在效率优化赛道上建立话语权  **gakki锐评**：当Op"
 resource: "https://x.com/i/status/2032518051761905758"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 88
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2032518051761905758"
-created: "2026-03-13"
-updated: "2026-06-26"
-sha256: "d86d54fe630d8e3124b0666a1197e373e8114c58f9270c2de38ffe9ae5a82b1e"
-sources:
-  - "/sources/news/2026-03-14/88__jiqizhixin__小红书-上海交大联手-偷算力-jtok让模型扩容不再烧钱.md"
 ---
 
 # 小红书×上海交大联手「偷算力」：JTok让模型扩容不再烧钱

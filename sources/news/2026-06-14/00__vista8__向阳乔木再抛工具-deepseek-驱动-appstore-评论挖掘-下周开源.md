@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "向阳乔木再抛工具：DeepSeek 驱动 AppStore 评论挖掘，下周开源"
 description: "**AppStore 评论不再是噪声，而是产品机会的矿脉——向阳乔木把这事做成了一键工具**  - 输入任意 App 名称，自动抓取 AppStore 用户评价，用 DeepSeek 做信息挖掘 - 输出四件事：用户在夸什么/骂什么、哪些问题与版本更新相关、哪些代表产品机会、可视化图表 - 「产品预计下周开源」——延续向阳乔木最近把工具沉淀成可复用资产的节奏（Goal Skill、小说 Skill"
 resource: "https://x.com/i/status/2066170145102536747"
@@ -22,13 +22,6 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "agent-data-intelligence-infra"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2066170145102536747"
-created: "2026-06-14"
-updated: "2026-06-26"
-sha256: "88003a56da10d96e7852bd4dedd89749ec2e01dfb465ca5436983997710b2dd6"
-sources:
-  - "/sources/news/2026-06-14/00__vista8__向阳乔木再抛工具-deepseek-驱动-appstore-评论挖掘-下周开源.md"
 ---
 
 # 向阳乔木再抛工具：DeepSeek 驱动 AppStore 评论挖掘，下周开源

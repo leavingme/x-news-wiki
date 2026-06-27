@@ -1,23 +1,17 @@
 ---
-type: "entity"
+type: "Author"
 title: "TheNewPhysics (@CharlesMullins2)"
 description: "X/Twitter 作者 @CharlesMullins2。共收录 1 条 AI 精选推文。"
 tags:
   - "x-news"
   - "author"
   - "author:CharlesMullins2"
-timestamp: "2026-06-26T11:53:36.998Z"
+timestamp: "2026-06-27T08:40:40.212Z"
 x_handle: "CharlesMullins2"
 x_author_name: "TheNewPhysics"
 x_tweet_count: 1
 x_first_seen: "2026-05-07T22:18:07.604Z"
 x_last_seen: "2026-05-07T22:18:07.604Z"
-type_okf: "Author"
-created: "2026-05-07"
-updated: "2026-06-26"
-sha256: "f0ad452271fc4ca32cf4b45ffde7ff181b7b8b02c43ad2759daf166c444a55d5"
-sources:
-  - "/sources/news/2026-05-07/00__CharlesMullins2__固态制冷突破-无压缩机冰箱问世-ai-数据中心散热的底层变量正在改变.md"
 ---
 
 # TheNewPhysics (@CharlesMullins2)

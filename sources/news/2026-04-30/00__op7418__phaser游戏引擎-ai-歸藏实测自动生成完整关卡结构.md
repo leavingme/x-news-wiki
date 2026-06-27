@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Phaser游戏引擎+AI：歸藏实测自动生成完整关卡结构"
 description: "**AI正在从「写代码」进化到「设计游戏」。**  - 歸藏使用Phaser引擎配合AI，已自动生成第一个大关卡的全部子关卡 - 这标志着AI编码工具从「实现逻辑」跃迁到「内容生产」——游戏关卡设计是创意密集型工作 - 结合上条推文关于生成质量的反馈，AI在游戏开发中的角色正从「辅助」转向「主导」  gakki 锐评：Phaser是轻量级2D游戏引擎，AI能自动生成关卡结构说明其对「规则+空间+难"
 resource: "https://x.com/i/status/2049712723387445468"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2049712723387445468"
-created: "2026-04-30"
-updated: "2026-06-26"
-sha256: "048c0c485d0416f177a17bcd73e3d9887357bc3183d870a90d61e5fb084ea21e"
-sources:
-  - "/sources/news/2026-04-30/00__op7418__phaser游戏引擎-ai-歸藏实测自动生成完整关卡结构.md"
 ---
 
 # Phaser游戏引擎+AI：歸藏实测自动生成完整关卡结构

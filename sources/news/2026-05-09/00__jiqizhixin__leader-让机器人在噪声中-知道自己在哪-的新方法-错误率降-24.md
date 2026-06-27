@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "LEADER：让机器人在噪声中「知道自己在哪」的新方法，错误率降 24%"
 description: "**具身智能的定位精度瓶颈正在被逐个击破。**  - 厦大+布里斯托提出 LEADER，核心创新是「不平等对待所有点」——用几何编码器分层处理 - 引入「可靠性损失」，训练时直接忽略不可靠预测，让模型学会「不确定就别说」 - Oxford RobotCar 数据集上比 SOTA 低 24.1% 位置误差  gakki 锐评：机器人「知道自己在哪」是具身智能的地基。LEADER 的「可靠性损失」思路"
 resource: "https://x.com/i/status/2053188755255632052"
@@ -22,13 +22,6 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "theory-of-space-embodied-ai"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2053188755255632052"
-created: "2026-05-09"
-updated: "2026-06-26"
-sha256: "cf4a25e19a5e6dc34d7a11bd4fc9bd2403703a7a96f4316a05e3f20b82d6fc7e"
-sources:
-  - "/sources/news/2026-05-09/00__jiqizhixin__leader-让机器人在噪声中-知道自己在哪-的新方法-错误率降-24.md"
 ---
 
 # LEADER：让机器人在噪声中「知道自己在哪」的新方法，错误率降 24%

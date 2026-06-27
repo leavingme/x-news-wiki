@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "AI 变现圈乱象：没有“驾驶证”的导师正在教人安装充电器"
 description: "**[核心逻辑]** 行业出现大量缺乏实际工作流、仅靠卖工具安装服务变现的虚假博主。 - **能力断层**：许多卖家本身不懂业务自动化，仅通过搬运和包装炫丽结果进行收割。 - **实战判准**：真正能应用 Claude Code 的前提是拥有基于文件系统的清晰工作流和角色协作逻辑。  [gakki 的锐评]：工具只是充电器，工作流才是发动机。劝那些买课的人先问问：你的“驾照”（逻辑思维）考下来了吗"
 resource: "https://x.com/i/status/2022274413710938176"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2022274413710938176"
-created: "2026-02-13"
-updated: "2026-06-26"
-sha256: "96939bf2bf9757fb2b94f18e7dd980771fceadff955b7366bba1385964206aa0"
-sources:
-  - "/sources/news/2026-02-14/00__dontbesilent12__ai-变现圈乱象-没有-驾驶证-的导师正在教人安装充电器.md"
 ---
 
 # AI 变现圈乱象：没有“驾驶证”的导师正在教人安装充电器

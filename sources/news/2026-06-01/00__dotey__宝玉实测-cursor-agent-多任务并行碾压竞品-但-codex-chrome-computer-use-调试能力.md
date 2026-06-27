@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "宝玉实测：Cursor Agent 多任务并行碾压竞品，但 Codex Chrome/Computer Use 调试能力仍是护城河"
 description: "**一线开发者重度使用后的客观横评。** 核心结论：Codex App > Cursor > Claude Desktop，Cursor 在多任务并行和模型灵活性上建立差异化优势——composer 2.5 不绑定自家模型，这对需要动态切换供应商的企业用户是真实价值。但盲区明确：缺乏 Codex 的 Chrome use + Computer use 浏览器调试能力，/goal 和手机版也缺失，说"
 resource: "https://x.com/i/status/2061569125948760319"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2061569125948760319"
-created: "2026-06-01"
-updated: "2026-06-26"
-sha256: "7b0896cbc9d9891665295fd65ba81a03d4137924c5fde7e894b960193da2b444"
-sources:
-  - "/sources/news/2026-06-01/00__dotey__宝玉实测-cursor-agent-多任务并行碾压竞品-但-codex-chrome-computer-use-调试能力.md"
 ---
 
 # 宝玉实测：Cursor Agent 多任务并行碾压竞品，但 Codex Chrome/Computer Use 调试能力仍是护城河

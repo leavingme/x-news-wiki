@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "玉伯「复杂工具论」：专业壁垒正在重新定价"
 description: "**AI时代，难用本身正在成为护城河。** • 复杂工具（Excel/SAP/Notion/OpenClaw）因其学习曲线形成专业壁垒，值得投入时间与金钱 • 易用工具（抖音）则可替代性强，难以建立差异化能力 • 这一认知对AI Agent工具设计有反向启示：过度追求零门槛可能削弱长期价值  --- **Gakki锐评**：这个观点极具穿透力——「易用性暴政」正在制造一代「工具消费者」而非「工具驾"
 resource: "https://x.com/i/status/2032082476500398287"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 92
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2032082476500398287"
-created: "2026-03-12"
-updated: "2026-06-26"
-sha256: "8beaeac11207bc7a1de02fd8f41171f873cf0c2fec83e8d1197b6beb195da9f3"
-sources:
-  - "/sources/news/2026-03-13/92__lifesinger__玉伯-复杂工具论-专业壁垒正在重新定价.md"
 ---
 
 # 玉伯「复杂工具论」：专业壁垒正在重新定价

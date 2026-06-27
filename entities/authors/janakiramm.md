@@ -1,23 +1,17 @@
 ---
-type: "entity"
+type: "Author"
 title: "Janakiram MSV (@janakiramm)"
 description: "X/Twitter 作者 @janakiramm。共收录 1 条 AI 精选推文。"
 tags:
   - "x-news"
   - "author"
   - "author:janakiramm"
-timestamp: "2026-06-26T11:53:36.957Z"
+timestamp: "2026-06-27T08:40:40.165Z"
 x_handle: "janakiramm"
 x_author_name: "Janakiram MSV"
 x_tweet_count: 1
 x_first_seen: "2026-03-12T00:42:31.393Z"
 x_last_seen: "2026-03-12T00:42:31.393Z"
-type_okf: "Author"
-created: "2026-03-12"
-updated: "2026-06-26"
-sha256: "2d6a2ef8687dd86aa0e8020b2e921d5bab64bf1d654a36e7e6b92cb7fa0379de"
-sources:
-  - "/sources/news/2026-03-12/92__janakiramm__skill-md正在-吃掉-mcp服务器-知识问题与执行问题的范式分界.md"
 ---
 
 # Janakiram MSV (@janakiramm)

@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "CUHK+华为 TextPro-SLM：用 1000 小时训练数据把语音/文本模态差距压到历史最低"
 description: "**[语音 AI 落后文本 AI 的根本原因找到了——不是输出端，是输入端的表征设计]**  - CUHK 联合华为提出 TextPro-SLM，反共识地从'输入侧重构'入手而非调输出 - 核心方法：统一语音编码器同时抽取 text token 和韵律 embedding，让 spoken input 在表征层就更像 text input - 3B/7B 规模下模态差距历史最低，韵律理解 SOTA"
 resource: "https://x.com/i/status/2063939847459581991"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2063939847459581991"
-created: "2026-06-08"
-updated: "2026-06-26"
-sha256: "5c2abe25019a0d3c61925309eca6b140f3040bda75e6e02a9d1f99a252b4f029"
-sources:
-  - "/sources/news/2026-06-08/00__jiqizhixin__cuhk-华为-textpro-slm-用-1000-小时训练数据把语音-文本模态差距压到历史最低.md"
 ---
 
 # CUHK+华为 TextPro-SLM：用 1000 小时训练数据把语音/文本模态差距压到历史最低

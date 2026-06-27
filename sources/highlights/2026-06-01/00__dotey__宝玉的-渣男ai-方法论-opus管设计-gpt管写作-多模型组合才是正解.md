@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "宝玉的「渣男AI」方法论： Opus管设计、GPT管写作，多模型组合才是正解"
 description: "**[一句话核心判断]** 把AI当渣男使——东食西宿、组合调用——才是当前多模型时代的正确打开方式。  - 核心洞察：Opus 4.8在UI设计/实现上强于GPT-5.5，但写作能力反而弱；系统设计和复杂任务规划是Opus的强项；不同Agent（Claude Code vs Cursor）需针对性调优提示词，而非一套Prompt走天下。 - 信息增量：打破了「最强模型」的迷思，指出模型能力有明确"
 resource: "https://x.com/i/status/2061463713941492062"
@@ -22,13 +22,6 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "ai-multimodel-routing"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2061463713941492062"
-created: "2026-06-01"
-updated: "2026-06-26"
-sha256: "df37a020771f8d77bba5c604e21fdf044ffa676395dc31a2c83a013937f95b47"
-sources:
-  - "/sources/highlights/2026-06-01/00__dotey__宝玉的-渣男ai-方法论-opus管设计-gpt管写作-多模型组合才是正解.md"
 ---
 
 # 宝玉的「渣男AI」方法论： Opus管设计、GPT管写作，多模型组合才是正解

@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "M5Stack 新玩具：消费级硬件正在为边缘 Agent 交互铺路"
 description: "**[M5Stack 发布自带圆屏+触屏+震动+磁吸的模块化硬件，可玩性超过 OPPO 同类新品但质感略逊]**  结合之前 Rover 机器人和 EdgeClaw 的进展，消费级硬件正在成为边缘 Agent 的物理交互层。这块小屏幕解决的核心问题是：Agent 输出结果的具身化呈现——不只是手机通知，而是有屏幕、有震动反馈的物理存在。  对比 OPPO 同类产品：M5Stack 便宜且完全开源，"
 resource: "https://x.com/i/status/2059988012671607251"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2059988012671607251"
-created: "2026-05-28"
-updated: "2026-06-26"
-sha256: "5b5238a9b87211bb1d8a1021accea6576245f349dbde7104250a3a9eceec41a2"
-sources:
-  - "/sources/news/2026-05-28/00__op7418__m5stack-新玩具-消费级硬件正在为边缘-agent-交互铺路.md"
 ---
 
 # M5Stack 新玩具：消费级硬件正在为边缘 Agent 交互铺路

@@ -1,24 +1,17 @@
 ---
-type: "entity"
+type: "Author"
 title: "HeyGen (@HeyGen)"
 description: "X/Twitter 作者 @HeyGen。共收录 2 条 AI 精选推文。"
 tags:
   - "x-news"
   - "author"
   - "author:HeyGen"
-timestamp: "2026-06-26T11:53:36.991Z"
+timestamp: "2026-06-27T08:40:40.204Z"
 x_handle: "HeyGen"
 x_author_name: "HeyGen"
 x_tweet_count: 2
 x_first_seen: "2026-04-28T04:18:01.944Z"
 x_last_seen: "2026-05-04T22:17:58.152Z"
-type_okf: "Author"
-created: "2026-04-28"
-updated: "2026-06-26"
-sha256: "67cdbb464499a931ad40c8d59506ee3c76d299bafda2fdc9dfb2269f6276b247"
-sources:
-  - "/sources/news/2026-04-28/00__HeyGen__heygen-hyperframes-登陆-codex-ai-视频工作流正在-工业化组装-而非-创意生成.md"
-  - "/sources/news/2026-05-04/00__HeyGen__hyperframes-开源社区上线-ai-视频创作从-单打独斗-走向-agent-可消费的资产交换.md"
 ---
 
 # HeyGen (@HeyGen)

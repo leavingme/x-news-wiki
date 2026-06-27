@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "「意图更新」：RL训练从被动选步长到主动定目标的范式转移"
 description: "**一句话核心判断：强化学习训练引入「意图更新」（intentional updates）机制，将步长选择从经验驱动转向目标驱动，解决每步学习的不稳定性问题。**  要点： - 核心问题：标准步长为何在每次经验学习时都导致不稳定？ - 解法：不再选步长碰运气，而是先决定你希望输出产生什么具体变化（如将TD error削减固定比例），再反推步长 - 论文来自Openmind Research Ins"
 resource: "https://x.com/i/status/2054837009634807926"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2054837009634807926"
-created: "2026-05-14"
-updated: "2026-06-26"
-sha256: "2c772976160c045337dcf1cf43e52a6e0f3aec3b1ea8b77331252f9ed689b232"
-sources:
-  - "/sources/news/2026-05-14/00__jiqizhixin__意图更新-rl训练从被动选步长到主动定目标的范式转移.md"
 ---
 
 # 「意图更新」：RL训练从被动选步长到主动定目标的范式转移

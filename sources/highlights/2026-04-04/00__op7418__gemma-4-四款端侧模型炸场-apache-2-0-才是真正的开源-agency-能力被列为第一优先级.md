@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Gemma 4 四款端侧模型炸场：Apache 2.0 才是真正的开源，Agency 能力被列为第一优先级"
 description: "**[开源模型进入「真开放」时代：Gemma 4 重新定义端侧 AI 规则]**  谷歌发布的 Gemma 4 包含四个参数版本（E2B、E4B、26B MoE、31B Dense），首次将 Agency Workflows 作为第一优先级，原生支持 Function Call、JSON 结构化输出和 System Instruction。26B MoE 版本单次激活仅 3.8B 参数，主打高 T"
 resource: "https://x.com/i/status/2039890169512472793"
@@ -22,13 +22,6 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "gemma端侧多模态"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2039890169512472793"
-created: "2026-04-03"
-updated: "2026-06-26"
-sha256: "7b8876790f55f6635a787699885f33b2099e4c570bd2f1b791bc0f5f6df1c697"
-sources:
-  - "/sources/highlights/2026-04-04/00__op7418__gemma-4-四款端侧模型炸场-apache-2-0-才是真正的开源-agency-能力被列为第一优先级.md"
 ---
 
 # Gemma 4 四款端侧模型炸场：Apache 2.0 才是真正的开源，Agency 能力被列为第一优先级

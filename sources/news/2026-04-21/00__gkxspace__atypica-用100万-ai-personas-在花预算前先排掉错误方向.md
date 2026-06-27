@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "atypica：用100万+ AI personas 在花预算前先排掉错误方向"
 description: "**一句话核心判断：atypica 把「用户研究」做成可scale的AI产品，100万+ personas库+真实访谈数据训练的模型，让产品团队在动手之前就能排除明显错误。**  - 底层有100w+ 基于真实社媒内容分析拟合的AI personas - 10万+ 基于真实深度访谈构建的高质量 persona - 工作流程：澄清需求→规划研究→搜公开信息→模拟用户访谈→结构化报告  这个方向的本质"
 resource: "https://x.com/i/status/2046200648954192116"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2046200648954192116"
-created: "2026-04-20"
-updated: "2026-06-26"
-sha256: "ea7fb0ac10657b7c1b129c1450d105547bc40cc71dd76aa64537054fe86f2c72"
-sources:
-  - "/sources/news/2026-04-21/00__gkxspace__atypica-用100万-ai-personas-在花预算前先排掉错误方向.md"
 ---
 
 # atypica：用100万+ AI personas 在花预算前先排掉错误方向

@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "GPT-5.5 驱动 ChatGPT 入驻 Excel/Sheets：AI Agent 正在吞噬办公套件的入口层"
 description: "**ChatGPT 以插件形态嵌入 Excel 和 Google Sheets，背后是 GPT-5.5 的推理能力。**  • 支持数据清洗、公式生成、实时解释，用户无需离开表格环境 • 标志着 OpenAI 从「对话入口」向「工作流原生嵌入」的战略转向 • 对 Google Workspace AI 和 Microsoft Copilot 形成直接竞争压力  锐评：这不是功能更新，是入口战争的降"
 resource: "https://x.com/ChatGPTapp/status/2051776032127238266"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
-
 x_source: "ai-trend-digest"
-type_okf: "X Tweet"
-source_url: "https://x.com/ChatGPTapp/status/2051776032127238266"
-created: "2026-05-05"
-updated: "2026-06-26"
-sha256: "9147fa3178bc6fbf3bea153cb5bcc7779554c73c7adf8bebc66a38a3f343ce05"
-sources:
-  - "/sources/highlights/2026-05-06/00__ChatGPTapp__gpt-5-5-驱动-chatgpt-入驻-excel-sheets-ai-agent-正在吞噬办公套件的入口层.md"
 ---
 
 # GPT-5.5 驱动 ChatGPT 入驻 Excel/Sheets：AI Agent 正在吞噬办公套件的入口层

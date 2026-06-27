@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Visual Para-Thinker：并行分治击败顺序思维瓶颈，视觉推理新范式"
 description: "**一句话核心判断：视觉推理的本质瓶颈是顺序思维，浙大+小米用并行分治重构推理路径，GPT-4V等多主流模型已被超越。**  - 核心方法：Visual Para-Thinker 将视觉问题拆解为并行子任务，而非传统CoT的线性链式推理，从而突破视觉推理 Plateau - 多校联合（浙大、湖南大学、小米），论文已录 Jiq， benchmark 覆盖 V*/CountBench/RefCOCO/"
 resource: "https://x.com/i/status/2062187299207561696"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2062187299207561696"
-created: "2026-06-03"
-updated: "2026-06-26"
-sha256: "01b65475a9cde7fd564baf054356526556a6a90111b48bfbacb89ef7dc946555"
-sources:
-  - "/sources/news/2026-06-03/00__jiqizhixin__visual-para-thinker-并行分治击败顺序思维瓶颈-视觉推理新范式.md"
 ---
 
 # Visual Para-Thinker：并行分治击败顺序思维瓶颈，视觉推理新范式

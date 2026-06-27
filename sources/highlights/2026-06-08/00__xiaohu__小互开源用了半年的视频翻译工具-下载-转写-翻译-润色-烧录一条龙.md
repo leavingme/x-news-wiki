@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "小互开源用了半年的视频翻译工具：下载/转写/翻译/润色/烧录一条龙"
 description: "**一条命令搞定外语视频本地化：视频翻译流水线被打包成个人级开源工具。**  - 全流程封装：自动下载 → 语音转写 → 翻译 → 润色 → 字幕烧录，单条命令跑通 - 小互使用了半年才开源，说明工程稳定性已通过个人长期生产验证 - 把 Whisper/翻译模型/FFmpeg 烧录能力组合成傻瓜入口，是典型的 AI Coding 时代\"非技术用户也能用的开发者工具\"   gakki 锐评：这类工具"
 resource: "https://x.com/i/status/2063972678311301312"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2063972678311301312"
-created: "2026-06-08"
-updated: "2026-06-26"
-sha256: "7975b7e7c9407d40ec4de519a110516e399d4b7c2f7dc5df910b406dc6d935a7"
-sources:
-  - "/sources/highlights/2026-06-08/00__xiaohu__小互开源用了半年的视频翻译工具-下载-转写-翻译-润色-烧录一条龙.md"
 ---
 
 # 小互开源用了半年的视频翻译工具：下载/转写/翻译/润色/烧录一条龙

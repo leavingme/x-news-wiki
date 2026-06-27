@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "从Agent Native到Agent嘉豪：深入协作后的认知反转"
 description: "**[开发越深，越认同集中式Agent]**  yetone 分享了 Cumora + BYOA Daemon 开发过程中对 Agent Team 协作的切肤理解——最大的转变在于认知反转：原本 Agent Native 的分布式理想，在实际协作复杂度面前显得脆弱。  关键信号：工具越复杂，对\"集中式调度\"的需求越强烈，与 Agent 独立自主的初衷形成张力。  ---  gakki：工具深度开发"
 resource: "https://x.com/i/status/2060263802667749592"
@@ -22,13 +22,6 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "agent-native-paradigm"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2060263802667749592"
-created: "2026-05-29"
-updated: "2026-06-26"
-sha256: "c5cb0dbb70baae83ef6a53e5d43005f7a93524befb78cf1b4f47e943c0a76508"
-sources:
-  - "/sources/news/2026-05-29/00__yetone__从agent-native到agent嘉豪-深入协作后的认知反转.md"
 ---
 
 # 从Agent Native到Agent嘉豪：深入协作后的认知反转

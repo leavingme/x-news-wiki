@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "UniVidX：用随机条件掩码+每模态LoRA+跨模态注意力，实现统一视频生成模型一次搞定多种任务"
 description: "**[视频生成大一统：UniVidX用三项trick合并多条模型]**  来自港科大、斯坦福、清华等机构的研究提出UniVidX，用三项简单方法解决视频生成多任务统一问题：随机条件掩码让模型学习任意输入输出映射、每模态LoRA保护核心模型能力、跨模态注意力保持视频层一致性。  - 论文核心贡献是证明了用LoRA而非微调整个模型，可以实现多任务视频生成的参数高效协同 - 三所顶级机构联合背书，预示这"
 resource: "https://x.com/i/status/2056908515780727079"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2056908515780727079"
-created: "2026-05-20"
-updated: "2026-06-26"
-sha256: "1e0e203d010f3a2b3418e5553e5a21a14fed9ff9d29004a6ab9464db3774b303"
-sources:
-  - "/sources/news/2026-05-20/00__jiqizhixin__unividx-用随机条件掩码-每模态lora-跨模态注意力-实现统一视频生成模型一次搞定多种任务.md"
 ---
 
 # UniVidX：用随机条件掩码+每模态LoRA+跨模态注意力，实现统一视频生成模型一次搞定多种任务

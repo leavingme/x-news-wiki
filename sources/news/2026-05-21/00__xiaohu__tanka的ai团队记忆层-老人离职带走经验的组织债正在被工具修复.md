@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Tanka的AI团队记忆层：老人离职带走经验的组织债正在被工具修复"
 description: "**[工具解决的是组织知识的「人肉数据库」困境]**  Tanka将团队每天的对话、文件、决策沉淀为长期记忆，新人不需老人带路，老人走了经验不跟着消失。这不是聊天工具，是把「上下文」变成可检索的组织资产。  关键变化：从「讨论是信息流」到「讨论是资产沉淀」。很多AI协作工具只做问答，只有这一层在解决真实的组织熵增问题。  **gakki锐评：** 协作工具的记忆层之争才是下半场的真战场——谁能解决"
 resource: "https://x.com/i/status/2057259622864724254"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2057259622864724254"
-created: "2026-05-21"
-updated: "2026-06-26"
-sha256: "25b18398062231802ebdee7af7e4a33560ef61f3e6365999ba302b0078959beb"
-sources:
-  - "/sources/news/2026-05-21/00__xiaohu__tanka的ai团队记忆层-老人离职带走经验的组织债正在被工具修复.md"
 ---
 
 # Tanka的AI团队记忆层：老人离职带走经验的组织债正在被工具修复

@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "「OpenClaw泔水论」：国产大模型原创力丧失的残酷注脚"
 description: "**[当国内连OpenClaw这样的开源项目都要「如获至宝」时，暴露了基底模型和应用层的双重落后]**  • 现状诊断：ChatGPT是唯一超级应用，Claude Code/Codex已是行业标准，国内大模型仅能提供API接入 • 深层焦虑：本轮AI浪潮中，中国彻底丧失原创能力，只能在应用层做「二次封装」 • 批判指向：OpenClaw的国内炒作本质是「技术自卑」的集体投射  gakki 锐评：骂"
 resource: "https://x.com/i/status/2032812179699986941"
@@ -22,13 +22,6 @@ x_selected: 2
 x_priority: 78
 x_related_topic: "openclaw-ecosystem-critique"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2032812179699986941"
-created: "2026-03-14"
-updated: "2026-06-26"
-sha256: "7ca19dd7b2116b5dcc53019b23930cd0380a7d4cc2603b0434a654b7187dadeb"
-sources:
-  - "/sources/highlights/2026-03-15/78__techeconomyana__openclaw泔水论-国产大模型原创力丧失的残酷注脚.md"
 ---
 
 # 「OpenClaw泔水论」：国产大模型原创力丧失的残酷注脚

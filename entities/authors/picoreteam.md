@@ -1,23 +1,17 @@
 ---
-type: "entity"
+type: "Author"
 title: "Pi Network (@PiCoreTeam)"
 description: "X/Twitter 作者 @PiCoreTeam。共收录 1 条 AI 精选推文。"
 tags:
   - "x-news"
   - "author"
   - "author:PiCoreTeam"
-timestamp: "2026-06-26T11:53:36.992Z"
+timestamp: "2026-06-27T08:40:40.204Z"
 x_handle: "PiCoreTeam"
 x_author_name: "Pi Network"
 x_tweet_count: 1
 x_first_seen: "2026-04-28T22:17:50.478Z"
 x_last_seen: "2026-04-28T22:17:50.478Z"
-type_okf: "Author"
-created: "2026-04-28"
-updated: "2026-06-26"
-sha256: "efe193a2b32982e7bd34d2e8a56f63b052f52507fa047ace7446c83171513804"
-sources:
-  - "/sources/news/2026-04-28/00__PiCoreTeam__pi-network的逆向洞察-ai进化的瓶颈不是算力-是人类判断力的供给.md"
 ---
 
 # Pi Network (@PiCoreTeam)

@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "HTML取代Markdown成为Vibe Coding首选载体：结构化文档在AI协作中的信息密度优势被再次验证"
 description: "**[HTML的信息层级结构比扁平Markdown更适配AI编码Agent的上下文解析]** - Derya Unutmaz（免疫学家、医学博士）公开背书HTML作为Vibe Coding的核心文档格式 - 引用Thariq的文章作为触发点，说明这一范式转换正在从技术圈扩散到非传统开发者群体 - 「completely changed my vibe coding ability and qual"
 resource: "https://x.com/DeryaTR_/status/2053528399466147898"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "ai-trend-digest"
-type_okf: "X Tweet"
-source_url: "https://x.com/DeryaTR_/status/2053528399466147898"
-created: "2026-05-10"
-updated: "2026-06-26"
-sha256: "5e06b702c9876d777354d311d03153f18f28230be0b89b2f61ec786970f49936"
-sources:
-  - "/sources/news/2026-05-10/00__DeryaTR___html取代markdown成为vibe-coding首选载体-结构化文档在ai协作中的信息密度优势被再次验证.md"
 ---
 
 # HTML取代Markdown成为Vibe Coding首选载体：结构化文档在AI协作中的信息密度优势被再次验证

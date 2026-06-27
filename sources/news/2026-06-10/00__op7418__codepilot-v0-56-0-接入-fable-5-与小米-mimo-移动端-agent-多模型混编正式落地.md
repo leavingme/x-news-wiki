@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "CodePilot v0.56.0 接入 Fable 5 与小米 MiMo：移动端 Agent 多模型混编正式落地"
 description: "**CodePilot 把'部分修复由 Claude Fable 5 完成'写进 release note，多模型协作进入移动端 Agent 日常。**  - 新增 Claude Fable 5、小米 MiMo UltraSpeed 速度型模型 + 通用 OpenAI 兼容渠道，移动端可选算力池显著扩大 - 修复用量统计、回复状态丢失、服务商列表刷新等一批基础稳定性问题——这才是工程化真正的护城河"
 resource: "https://x.com/i/status/2064572793124245998"
@@ -22,13 +22,6 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "agent-mobile-orchestration"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2064572793124245998"
-created: "2026-06-10"
-updated: "2026-06-26"
-sha256: "1b10e1dcf4bc47cf430e07c8d15604ce984dc65fde2e5c314fa42542df23f594"
-sources:
-  - "/sources/news/2026-06-10/00__op7418__codepilot-v0-56-0-接入-fable-5-与小米-mimo-移动端-agent-多模型混编正式落地.md"
 ---
 
 # CodePilot v0.56.0 接入 Fable 5 与小米 MiMo：移动端 Agent 多模型混编正式落地

@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Skill 规则超 1 万条会「淹没」模型注意力：向阳乔木提出分层存档策略"
 description: "**Skill.md 膨胀到万条级规则时，模型会忽略中间内容，反而拖累能力发挥。**  - 向阳乔木指出：写作 Skill 规则若超 1 万条，上下文被占满后 AI 容易「跳读」中间规则，形成事实上的规则失效 - 建议方案：核心不可妥协规则放 Skill.md，其余按「什么时候需要参考」拆入独立参考文件，按需加载 - 本质是 Agent 记忆与 Token 优化的经典问题——全量注入 ≠ 全量生效"
 resource: "https://x.com/i/status/2053471694069825678"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2053471694069825678"
-created: "2026-05-10"
-updated: "2026-06-26"
-sha256: "698d5c6f7f6beee3087489c46dc9504347e40a279c1a2ce620a6380bd066e218"
-sources:
-  - "/sources/news/2026-05-10/00__vista8__skill-规则超-1-万条会-淹没-模型注意力-向阳乔木提出分层存档策略.md"
 ---
 
 # Skill 规则超 1 万条会「淹没」模型注意力：向阳乔木提出分层存档策略

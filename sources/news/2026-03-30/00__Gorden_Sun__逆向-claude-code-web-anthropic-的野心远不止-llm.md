@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "逆向 Claude Code Web：Anthropic 的野心远不止 LLM"
 description: "**一句话核心判断：Claude Code 的 web 产品化路径指向 Anthropic 正在建立「文字生成→上线面客」的完整生态，而非单纯卖模型。**  • 逆向工程结论：Claude Code 生成的代码可直接上线成为面向客户的产品，而非仅仅是代码片段 • 竞品格局重划：Anthropic 的直接对手是 v0 (Vercel)、Bolt (Browserbase) 和 Google AI S"
 resource: "https://x.com/i/status/2038286729363509737"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2038286729363509737"
-created: "2026-03-29"
-updated: "2026-06-26"
-sha256: "d8375bb4b8e01ea79b6fb569909357681c33fc6d4b479703f5e493db2ea0bfbc"
-sources:
-  - "/sources/news/2026-03-30/00__Gorden_Sun__逆向-claude-code-web-anthropic-的野心远不止-llm.md"
 ---
 
 # 逆向 Claude Code Web：Anthropic 的野心远不止 LLM

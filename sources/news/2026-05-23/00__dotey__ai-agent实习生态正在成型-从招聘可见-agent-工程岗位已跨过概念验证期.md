@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "AI Agent实习生态正在成型：从招聘可见 Agent 工程岗位已跨过概念验证期"
 description: "**一句话核心判断** 帮转 AI Agent 实习生招聘这条信息本身不重要，但结合当前生态位，折射出 Agent 相关工程岗位已从\"少数人在做的实验\"演变为\"需要批量生产从业者\"的阶段。  **要点** - 实习生招聘意味着业务规模已达到需要建立人才梯队的程度 - Agent 工程岗位的能力模型仍在快速演化，实习生态是行业成熟度的滞后指标 - 此刻出现招聘需求，说明 Agent 从\"研究课题\"进"
 resource: "https://x.com/i/status/2058011933891019240"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2058011933891019240"
-created: "2026-05-23"
-updated: "2026-06-26"
-sha256: "12bb9421419b754b86f164a9937a7076cf592790f3c4eda0bc9bb147edc2153a"
-sources:
-  - "/sources/news/2026-05-23/00__dotey__ai-agent实习生态正在成型-从招聘可见-agent-工程岗位已跨过概念验证期.md"
 ---
 
 # AI Agent实习生态正在成型：从招聘可见 Agent 工程岗位已跨过概念验证期

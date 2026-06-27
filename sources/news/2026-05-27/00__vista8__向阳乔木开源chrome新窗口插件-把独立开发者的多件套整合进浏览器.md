@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "向阳乔木开源Chrome新窗口插件：把独立开发者的多件套整合进浏览器"
 description: "**AI Coding工具正在突破Terminal边界，向轻桌面化演进。**  此插件将番茄钟、音乐、Todo、便签、天气、换背景等独立开发者高频件整合进Chrome新窗口，并支持快捷命令唤起和ChatGPT跳转带提示词发送。开源地址已公开。  这代表AI Coding工具正在从极客Terminal向普通用户桌面渗透，工具入口的碎片化正在被一个「浏览器OS」统一。  **gakki锐评：** 当一"
 resource: "https://x.com/i/status/2059504403821084856"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2059504403821084856"
-created: "2026-05-27"
-updated: "2026-06-26"
-sha256: "b171571d681256ed6fe8cad84099b0ab077c66d2a6d0b287d6fdf84f00df5129"
-sources:
-  - "/sources/news/2026-05-27/00__vista8__向阳乔木开源chrome新窗口插件-把独立开发者的多件套整合进浏览器.md"
 ---
 
 # 向阳乔木开源Chrome新窗口插件：把独立开发者的多件套整合进浏览器

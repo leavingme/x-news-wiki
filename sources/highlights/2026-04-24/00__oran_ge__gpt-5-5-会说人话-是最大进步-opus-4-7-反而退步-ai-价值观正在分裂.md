@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "GPT 5.5「会说人话」是最大进步，Opus 4.7 反而退步——AI 价值观正在分裂"
 description: "**[一句话核心判断]**  GPT 5.5 最核心的突破不是评测分数，而是重新学会「说人话」，而 Claude Opus 4.7 却在同一条路上退步，两家模型的价值观分化正在撕裂用户的信任。  **信息增量：** - GPT 5.5 的「说人话」能力大幅提升，且编程能力同步增强——证明自然语言表达与专业能力并不矛盾 - Opus 4.7 被明确指出「变得不会说人话」，暗示 Claude 在 RL"
 resource: "https://x.com/i/status/2047429801137590290"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2047429801137590290"
-created: "2026-04-23"
-updated: "2026-06-26"
-sha256: "557b57b75becf00cfa3b14ade9fc2c5f719124f1c0323b07c333ccff785ee61c"
-sources:
-  - "/sources/highlights/2026-04-24/00__oran_ge__gpt-5-5-会说人话-是最大进步-opus-4-7-反而退步-ai-价值观正在分裂.md"
 ---
 
 # GPT 5.5「会说人话」是最大进步，Opus 4.7 反而退步——AI 价值观正在分裂

@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "天策创业方法论：让问题不发生，而非解决问题"
 description: "创业半年亏过很多钱后的反思：创业者不该回答或解决任何问题，因为问题解决不完。真正的解法是设计系统让问题不发生。  **信息增量：** 这不是常见的「精益创业」或「MVP」套路，而是一种反直觉的系统设计思维——从被动响应转向主动预防。  **影响：** 对创业者的心理模型有借鉴意义，尤其在 Agent 自动化场景中更具价值：当你的 Agent 系统能提前拦截问题而不是等你来救火，护城河才真正形成。 "
 resource: "https://x.com/i/status/2059205495752135123"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2059205495752135123"
-created: "2026-05-26"
-updated: "2026-06-26"
-sha256: "1d4195e30d15977aa518559d3a0cdebd6de24f57d50597634b3ebf90da8ca2e3"
-sources:
-  - "/sources/news/2026-05-26/00__Leobai825__天策创业方法论-让问题不发生-而非解决问题.md"
 ---
 
 # 天策创业方法论：让问题不发生，而非解决问题

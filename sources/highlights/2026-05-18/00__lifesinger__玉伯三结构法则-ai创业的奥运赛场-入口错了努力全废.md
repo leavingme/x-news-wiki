@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "玉伯三结构法则：AI创业的奥运赛场，入口错了努力全废"
 description: "**[选赛道是生死题，不是审美题]**  玉伯提出AI应用创业三个结构：市场结构（赛道+赛制判断）、产品结构（壳与壳的差异在于结构）、组织结构（创业公司别学大厂）。核心判断：奥运赛场上跳广场舞，或者在广场舞里争第一，是最常见的死法。  市场结构是首要过滤器——AI Agent赛道已经出现明显的分层，有的赛道是德州扑克（高博弈、高信息差），有的是奥运会（赢家通吃），有的本质是广场舞（低门槛、无护城河"
 resource: "https://x.com/i/status/2056408517578477632"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2056408517578477632"
-created: "2026-05-18"
-updated: "2026-06-26"
-sha256: "cd402e9e2ff7ecfe617652ffa938f6047b3e089f54e754e014d38287c4107c96"
-sources:
-  - "/sources/highlights/2026-05-18/00__lifesinger__玉伯三结构法则-ai创业的奥运赛场-入口错了努力全废.md"
 ---
 
 # 玉伯三结构法则：AI创业的奥运赛场，入口错了努力全废

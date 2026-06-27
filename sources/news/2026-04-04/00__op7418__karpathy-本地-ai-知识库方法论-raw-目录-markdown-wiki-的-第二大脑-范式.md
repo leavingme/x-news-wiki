@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Karpathy 本地 AI 知识库方法论：RAW 目录 + Markdown Wiki 的「第二大脑」范式"
 description: "**Karpathy 分享了他用 Obsidian 构建本地 AI 知识库的具体方法：RAW 目录存储原始资料，AI 编译成 Markdown Wiki。**  核心流程：把原始资料丢进 RAW 目录 → 大语言模型编译成 Wiki → 自动创建摘要、索引、概念条目、相互链接、可视化 → 在 Wiki 上提问确保信息来源可信。  他的输出形式不是「一句话回答」，而是新文件、可视化网页或 PPT，再"
 resource: "https://x.com/i/status/2039898050697839041"
@@ -22,13 +22,6 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "knowledge-management-death"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2039898050697839041"
-created: "2026-04-03"
-updated: "2026-06-26"
-sha256: "c06f474f0eb249c13c715ba37d2b39cfe624864757e2a71154cb3752396b3afe"
-sources:
-  - "/sources/news/2026-04-04/00__op7418__karpathy-本地-ai-知识库方法论-raw-目录-markdown-wiki-的-第二大脑-范式.md"
 ---
 
 # Karpathy 本地 AI 知识库方法论：RAW 目录 + Markdown Wiki 的「第二大脑」范式

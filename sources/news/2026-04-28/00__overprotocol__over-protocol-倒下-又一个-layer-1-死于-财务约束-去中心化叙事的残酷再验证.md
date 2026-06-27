@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Over Protocol 倒下：又一个 Layer 1 死于「财务约束」，去中心化叙事的残酷再验证"
 description: "**[一句话核心判断]**  Over Protocol 宣布关停其所有基础设施服务——包括钱包、节点、RPC、浏览器和 API——理由是「财务约束」。这再次证明加密领域的 Layer 1 竞争中，基础设施成本与代币经济模型的脱节是致命的。  **后续要点：** - 死因分析：网络虽在设计上去中心化，但 Foundation 一停止输血，整个系统立即失效 - 结构性问题：缺乏可持续的经济模型，仅靠"
 resource: "https://x.com/overprotocol/status/2049096903493840913"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "ai-trend-digest"
-type_okf: "X Tweet"
-source_url: "https://x.com/overprotocol/status/2049096903493840913"
-created: "2026-04-28"
-updated: "2026-06-26"
-sha256: "31597fa552a1a0e6004ab23683a3559c332ead6f5144114094e97cf51403f78c"
-sources:
-  - "/sources/news/2026-04-28/00__overprotocol__over-protocol-倒下-又一个-layer-1-死于-财务约束-去中心化叙事的残酷再验证.md"
 ---
 
 # Over Protocol 倒下：又一个 Layer 1 死于「财务约束」，去中心化叙事的残酷再验证

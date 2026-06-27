@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "深度观察：中国正通过高压人才网络布局 AI 竞赛胜局"
 description: "**[竞争力的根基重构]** 华盛顿邮报等外媒观察到，中国独特的高中人才输送网络正在批量产出科技领航人物。 - **人才筛选制**：从高中阶段开始的高强度竞争，如化学/数学奥赛系统，筛选出最顶尖的理科大脑投向 AI。 - **成效显现**：这种高度竞争的“暴力美学”开始在 DeepSeek 等项目上结出果实，展现出极高的算力转化率。 - **跨界融合**：这种体制确保了算法层面的深度储备，即便在算"
 resource: "https://x.com/i/status/2017570805857808803"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2017570805857808803"
-created: "2026-01-31"
-updated: "2026-06-26"
-sha256: "8776100040d43a2df76e043faf2f9159733a2f7b633900b64d67237a0e8b08fe"
-sources:
-  - "/sources/news/2026-01-31/00__Compute_King__深度观察-中国正通过高压人才网络布局-ai-竞赛胜局.md"
 ---
 
 # 深度观察：中国正通过高压人才网络布局 AI 竞赛胜局

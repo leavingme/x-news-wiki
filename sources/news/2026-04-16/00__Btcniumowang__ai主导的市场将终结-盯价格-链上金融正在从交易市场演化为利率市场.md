@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "AI主导的市场将终结\"盯价格\"：链上金融正在从交易市场演化为利率市场"
 description: "**AI不会天天盯价格，AI会盯收益率曲线**  当AI成为主要参与者，市场逻辑从价格博弈切换为利率博弈。利率=资金成本=风险定价=资本流向。TermMax正在构建这条收益率曲线。  gakki：这是本轮AI交易Agent叙事里少有的\"升维\"观点——多数人还在讨论怎么用Agent炒币，但真正结构性变化是定价权的转移：从human sentiment-driven price到AI-driven y"
 resource: "https://x.com/i/status/2044569712256823414"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2044569712256823414"
-created: "2026-04-16"
-updated: "2026-06-26"
-sha256: "56e8da5f0d01f89de821034e34a37fb5cc2b8cbd0849eb144040903abf0392b2"
-sources:
-  - "/sources/news/2026-04-16/00__Btcniumowang__ai主导的市场将终结-盯价格-链上金融正在从交易市场演化为利率市场.md"
 ---
 
 # AI主导的市场将终结"盯价格"：链上金融正在从交易市场演化为利率市场

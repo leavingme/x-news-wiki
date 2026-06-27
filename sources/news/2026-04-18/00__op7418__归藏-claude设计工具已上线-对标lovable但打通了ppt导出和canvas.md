@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "归藏：Claude设计工具已上线，对标lovable但打通了PPT导出和Canvas"
 description: "**[一句话核心判断]**  归藏的补充点出了Claude Design的差异化：不是又一个「生成网页」的工具，是「设计→交付」全链路的入口。  **信息增量：** - 确认支持导出PPT格式和导出到Canvas（与2045185966399435053互补） - 类似lovable的定位，但导出能力更强  **与宝玉那条的关系：** 属于Claude Design产品发布的基础信息确认，与宝玉的"
 resource: "https://x.com/i/status/2045157439360876897"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2045157439360876897"
-created: "2026-04-17"
-updated: "2026-06-26"
-sha256: "88d23082449d58cb948269779f3573d2d5cb1490cb4484bb2a64f73a017a2aad"
-sources:
-  - "/sources/news/2026-04-18/00__op7418__归藏-claude设计工具已上线-对标lovable但打通了ppt导出和canvas.md"
 ---
 
 # 归藏：Claude设计工具已上线，对标lovable但打通了PPT导出和Canvas

@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "满清皇权无法向商贾低头：制度「不可读」是技术追赶的结构性障碍"
 description: "**[一句话核心判断]**  Michael Anti 的制度「可读性」理论：清朝商贾与科技人员无法向皇权下跪，制度逻辑完全不兼容；而中共能主动将最重要的科学家和企业领袖「收纳」进体制——这是中国技术追赶的制度底层优势。  - 信息增量：将「制度兼容性」概念引入中国科技崛起分析，比单纯的「国家意志」叙事更具解释力。 - 台积电案例补充（同条 thread）：台湾之所以有台积电，是因为威权体制能直接"
 resource: "https://x.com/i/status/2060905713732669698"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2060905713732669698"
-created: "2026-05-31"
-updated: "2026-06-26"
-sha256: "d60f2d0988cdf8565e20834d76aa31af0b3bcad42a19c69b25d485f928b60703"
-sources:
-  - "/sources/highlights/2026-05-31/00__mranti__满清皇权无法向商贾低头-制度-不可读-是技术追赶的结构性障碍.md"
 ---
 
 # 满清皇权无法向商贾低头：制度「不可读」是技术追赶的结构性障碍

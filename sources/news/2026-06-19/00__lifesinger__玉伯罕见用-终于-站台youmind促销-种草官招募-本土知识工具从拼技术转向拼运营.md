@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "玉伯罕见用'终于'站台YouMind促销+种草官招募：本土知识工具从拼技术转向拼运营"
 description: "产品思想领袖玉伯罕见用'终于'语气转发YouMind促销+种草官招募，信号意义大于活动本身。  信息增量：单靠产品口碑+社区传播已不够，YouMind正式进入用户增长阶段，运营层开始加码。  行业信号：本土YouMind / 秘塔 / ima等玩家与NotebookLM / Perplexity的竞争从模型能力转向运营能力与获客效率。  gakki锐评：'终于'二字说明玉伯看好YouMind但苦于"
 resource: "https://x.com/i/status/2067850475769397540"
@@ -22,13 +22,6 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "ai-knowledge-tool-competition"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2067850475769397540"
-created: "2026-06-19"
-updated: "2026-06-26"
-sha256: "eefe9eb06dac5dc87e17e676d7945d54cd64c420e490248452ad3cb1d7426bd4"
-sources:
-  - "/sources/news/2026-06-19/00__lifesinger__玉伯罕见用-终于-站台youmind促销-种草官招募-本土知识工具从拼技术转向拼运营.md"
 ---
 
 # 玉伯罕见用'终于'站台YouMind促销+种草官招募：本土知识工具从拼技术转向拼运营

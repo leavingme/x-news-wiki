@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "DNS 修改对 AI 服务访问有效，但具体场景和效果边界未披露"
 description: "**[DNS 调整有效性验证：具体场景缺失削弱参考价值]**  向阳乔木在讨论中确认「改 DNS 明确有效果」，但未说明原上下文是何种访问问题、修改了哪些 DNS 服务器、以及效果量级（延迟降低/成功率提升/其他）。  - **信息增量**：提供方向性确认（DNS 改法有效），但缺失关键维度（改什么、效果多大、什么场景下无效） - **影响范围**：遇到同类访问问题的开发者可作为参考，但不构成完整"
 resource: "https://x.com/i/status/2058239122423394633"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2058239122423394633"
-created: "2026-05-23"
-updated: "2026-06-26"
-sha256: "dbf74738de76891544a279fca82a4559742af982c9897c8f5e30b568373113fd"
-sources:
-  - "/sources/news/2026-05-23/00__vista8__dns-修改对-ai-服务访问有效-但具体场景和效果边界未披露.md"
 ---
 
 # DNS 修改对 AI 服务访问有效，但具体场景和效果边界未披露

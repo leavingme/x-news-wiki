@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "向阳乔木下战书：让 Claude Fable 5 复刻在线版 Photoshop，Vibe Coding 的终局考题"
 description: "**AI Coding 的终极考题：不是 Todo App，是在浏览器里重写 Photoshop。** - 向阳乔木用 PRD 形式向 Claude Fable 5 发起挑战，目标是在线版 Photoshop（PRD 见评论） - Photoshop 是 GUI 软件 30 年来最复杂的产品形态之一：图层、蒙版、滤镜、历史记录、选区——每一项都是历史债 - 这次任务的意义不在成功与否，而在「用自然"
 resource: "https://x.com/i/status/2065157537943711852"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2065157537943711852"
-created: "2026-06-11"
-updated: "2026-06-26"
-sha256: "2626b979dc92872e26a745fb32808cb7715877c68de4f32bda03d39547661149"
-sources:
-  - "/sources/highlights/2026-06-11/00__vista8__向阳乔木下战书-让-claude-fable-5-复刻在线版-photoshop-vibe-coding-的终局考题.md"
 ---
 
 # 向阳乔木下战书：让 Claude Fable 5 复刻在线版 Photoshop，Vibe Coding 的终局考题

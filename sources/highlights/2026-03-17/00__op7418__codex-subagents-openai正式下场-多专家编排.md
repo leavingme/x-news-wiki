@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Codex Subagents：OpenAI正式下场「多专家编排」"
 description: "**Agent工程从「单兵作战」进入「多兵种协同」阶段。** • Codex 原生支持 Subagents 创建，窗口级跟踪让每个子任务透明可控 • 与开源社区的 multi-agent 方案不同，这是平台级的编排能力内嵌 • 意味着 OpenAI 开始认真思考「复杂任务分解」的工程化路径  当 Claude Code 还在做「超级个体」时，Codex 选择了「指挥官模式」。两种路线没有对错，但 "
 resource: "https://x.com/i/status/2033699960664039612"
@@ -22,13 +22,6 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "sub-agents-multi-expert"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2033699960664039612"
-created: "2026-03-17"
-updated: "2026-06-26"
-sha256: "697a6da0e2b456bcb794edd180dd86ec32c8fb320a2dae34a91f698ae6bc2c2e"
-sources:
-  - "/sources/highlights/2026-03-17/00__op7418__codex-subagents-openai正式下场-多专家编排.md"
 ---
 
 # Codex Subagents：OpenAI正式下场「多专家编排」

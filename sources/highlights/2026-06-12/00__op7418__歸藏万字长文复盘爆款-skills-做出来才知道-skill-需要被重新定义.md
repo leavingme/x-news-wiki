@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "歸藏万字长文复盘爆款 Skills：做出来才知道，'Skill' 需要被重新定义"
 description: "**做过爆款 Skills 才有资格重新定义 Skill：歸藏用一篇万字长文把中文 Skill 生态从「推荐体系」推到「方法论批判」。** - 标题刻意拆解「爆款→复盘→看法」三段式，暗示归藏完成了从 Skill 布道者到 Skill 反思者的身份转换 - 文章大概率触及：Skill 与 GPTs 的轮回关系、Skill 蒸馏问题、SKILL.md 标准之争、MCP 与 Skill 的范式分界 -"
 resource: "https://x.com/i/status/2065232309310427565"
@@ -22,13 +22,6 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "skills-ecosystem-standards"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2065232309310427565"
-created: "2026-06-12"
-updated: "2026-06-26"
-sha256: "2543cf3dd6ba11bcaa189d5ab3e57330b4ce0851a964d9e1b5a00d69fa280b32"
-sources:
-  - "/sources/highlights/2026-06-12/00__op7418__歸藏万字长文复盘爆款-skills-做出来才知道-skill-需要被重新定义.md"
 ---
 
 # 歸藏万字长文复盘爆款 Skills：做出来才知道，'Skill' 需要被重新定义

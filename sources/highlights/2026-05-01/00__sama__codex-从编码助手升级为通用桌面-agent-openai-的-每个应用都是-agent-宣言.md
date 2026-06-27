@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Codex 从编码助手升级为通用桌面 Agent：OpenAI 的「每个应用都是 Agent」宣言"
 description: "**Codex 正式突破编码边界，向通用计算机操作 Agent 进化，OpenAI 的 Agent 平台野心开始兑现。**  - Altman 亲自宣布 Codex 支持「非编码计算机工作」，这意味着 OpenAI 正将 Codex 从代码助手推向通用桌面 Agent - 与 Atlas 浏览器战略一脉相承：占领用户桌面的每一个操作窗口，而非仅服务于开发者 - 编码 Agent 的天花板被打破，通"
 resource: "https://x.com/sama/status/2049946120441520624"
@@ -22,13 +22,6 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "codex-ecosystem-platform-war"
 x_source: "ai-trend-digest"
-type_okf: "X Tweet"
-source_url: "https://x.com/sama/status/2049946120441520624"
-created: "2026-04-30"
-updated: "2026-06-26"
-sha256: "84262205cbb03c8d30ad965499b4baa71de4dcc80d151572c32cf4f4148a15ce"
-sources:
-  - "/sources/highlights/2026-05-01/00__sama__codex-从编码助手升级为通用桌面-agent-openai-的-每个应用都是-agent-宣言.md"
 ---
 
 # Codex 从编码助手升级为通用桌面 Agent：OpenAI 的「每个应用都是 Agent」宣言

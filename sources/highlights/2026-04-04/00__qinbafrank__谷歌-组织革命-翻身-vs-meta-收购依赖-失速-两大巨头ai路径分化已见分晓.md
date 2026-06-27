@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "谷歌「组织革命」翻身 vs Meta「收购依赖」失速：两大巨头AI路径分化已见分晓"
 description: "**[谷歌终于证明自己能跑，Meta还在用收购买时间]**  谷歌的打法清晰：DeepMind+Brain强制合并消除山头、创始人回归亲自写代码、品牌收敛到Gemini、高频迭代。Gemini 3系列发布意味着谷歌在正面战场站稳了。  Meta的问题不是没钱，是路径依赖——扎克伯格把收购Instagram/WhatsApp的经验复刻到AI，但模型能力不是靠并购能买来的。Scale AI整合内乱、M"
 resource: "https://x.com/i/status/2032066721193083153"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2032066721193083153"
-created: "2026-03-12"
-updated: "2026-06-26"
-sha256: "0a1059ab5644c1cd2d2e112a27ae8e1cc272929799421d22cbe6b6df27f0fe09"
-sources:
-  - "/sources/highlights/2026-04-04/00__qinbafrank__谷歌-组织革命-翻身-vs-meta-收购依赖-失速-两大巨头ai路径分化已见分晓.md"
 ---
 
 # 谷歌「组织革命」翻身 vs Meta「收购依赖」失速：两大巨头AI路径分化已见分晓

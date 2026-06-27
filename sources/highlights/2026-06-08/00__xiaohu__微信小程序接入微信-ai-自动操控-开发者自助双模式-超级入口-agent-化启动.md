@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "微信小程序接入微信 AI：自动操控 + 开发者自助双模式，超级入口 Agent 化启动"
 description: "微信公布小程序接入微信 AI 的双模式方案：自动模式由微信 AI 直接分析并操控小程序完成任务，开发模式允许开发者自助开放能力、审核后供 AI 调用，目前仍在内测。 - 自动模式：用户授权后，AI 可主动调用小程序完成具体任务（订餐、查数据等） - 开发模式：开发者主动声明可被 AI 调用的能力范围，审核通过后开放 - 入口闸门仍在腾讯手里：审核权、调用权、计费权三项均未释放给 Agent 厂商 "
 resource: "https://x.com/i/status/2063893835906965771"
@@ -22,13 +22,6 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "agent-multi-platform"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2063893835906965771"
-created: "2026-06-08"
-updated: "2026-06-26"
-sha256: "71ab9ca20b5bd380c239b0b46112f040ba6496d0f424ca7b49b3a2841e2c466c"
-sources:
-  - "/sources/highlights/2026-06-08/00__xiaohu__微信小程序接入微信-ai-自动操控-开发者自助双模式-超级入口-agent-化启动.md"
 ---
 
 # 微信小程序接入微信 AI：自动操控 + 开发者自助双模式，超级入口 Agent 化启动

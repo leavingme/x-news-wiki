@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "DiffusionGemma速度换质量：响应敏感场景的妥协之选"
 description: "**DiffusionGemma 是 Gemma4 的\"速度优先\"变体，输出质量明显低于标准版，需按场景选用。**  要点： - 标准 Gemma4仍是要求最高质量应用的首选 - DiffusionGemma适合对响应速度有强需求、但能容忍质量下降的场景 -质量折损是设计取舍而非缺陷，本质是 latency vs quality 的算力-体验权衡  DiffusionGemma 的定位类似 Gem"
 resource: "https://x.com/i/status/2064898953133576351"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2064898953133576351"
-created: "2026-06-11"
-updated: "2026-06-26"
-sha256: "4e5e171bd83776742224bb5f58ed2a8942fb00d1b4f06d7329666b701124429f"
-sources:
-  - "/sources/news/2026-06-11/00__xiaohu__diffusiongemma速度换质量-响应敏感场景的妥协之选.md"
 ---
 
 # DiffusionGemma速度换质量：响应敏感场景的妥协之选

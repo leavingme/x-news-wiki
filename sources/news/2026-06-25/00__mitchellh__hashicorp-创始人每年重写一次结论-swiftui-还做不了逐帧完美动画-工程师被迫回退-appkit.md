@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "HashiCorp 创始人每年重写一次结论：SwiftUI 还做不了逐帧完美动画，工程师被迫回退 AppKit"
 description: "**Mitchell Hashimoto 连续多年尝试用 SwiftUI 构建逐帧完美的原生 UI，最终都因框架能力不足而回退到自定义 NSView + CoreAnimation。**  要点： - SwiftUI 在高阶声明式与底层动画控制之间仍未打通，\"frame-perfect\"级别的自定义动画仍是其能力盲区 - 即便是顶级 iOS 工程师，每年都要花数天和框架对抗，最终还是落回 2014"
 resource: "https://x.com/i/status/2070262735896772843"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2070262735896772843"
-created: "2026-06-25"
-updated: "2026-06-26"
-sha256: "191031e02f26062cd96e1e64bf92e1e2f451f11725401fe1b85d8b37e5a933c0"
-sources:
-  - "/sources/news/2026-06-25/00__mitchellh__hashicorp-创始人每年重写一次结论-swiftui-还做不了逐帧完美动画-工程师被迫回退-appkit.md"
 ---
 
 # HashiCorp 创始人每年重写一次结论：SwiftUI 还做不了逐帧完美动画，工程师被迫回退 AppKit

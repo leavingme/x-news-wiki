@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "DeepSeek 正式下场做 Harness：Agent 产品经理招募背后的战略意图"
 description: "**[一句话核心判断]**  DeepSeek 正在把\"Harness\"（模型能力与用户之间的工程层）作为 Agent 产品化的核心抓手，其桌面端 Agent 将是行业第一个真正以\"Harness\"命名并系统性实践的产品。  • **Harness 的定义边界**：招股说明中明确\"模型以外的所有工作都属于 Harness\"，包括提示词工程、记忆管理、工具编排、多轮对话控制等——这是行业第一次把 H"
 resource: "https://x.com/i/status/2055504619279675668"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2055504619279675668"
-created: "2026-05-16"
-updated: "2026-06-26"
-sha256: "06512bf611e983e1029bdf54d80c3ea08f97f7751870c5f55b392866b7869073"
-sources:
-  - "/sources/highlights/2026-05-16/00__dotey__deepseek-正式下场做-harness-agent-产品经理招募背后的战略意图.md"
 ---
 
 # DeepSeek 正式下场做 Harness：Agent 产品经理招募背后的战略意图

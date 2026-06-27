@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "SKILL.md正在「吃掉」MCP服务器：知识问题与执行问题的范式分界"
 description: "**[范式转换信号]** SKILL.md正在取代大量MCP服务器，核心洞察在于：MCP本应为「执行问题」设计，却被滥用于「知识问题」。Brad Feld用12个skill文件运营整家公司——无应用、无工作流引擎，仅靠git仓库中的markdown。  **信息增量：** • Sentry David Cramer直言：许多MCP服务器本不该存在 • 知识问题用200-token的markdown"
 resource: "https://x.com/i/status/2030144033448968241"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 92
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2030144033448968241"
-created: "2026-03-07"
-updated: "2026-06-26"
-sha256: "fbbb209841dcdc466b83b458a5985e461bf93078e0988635dafceafef84ca799"
-sources:
-  - "/sources/news/2026-03-12/92__janakiramm__skill-md正在-吃掉-mcp服务器-知识问题与执行问题的范式分界.md"
 ---
 
 # SKILL.md正在「吃掉」MCP服务器：知识问题与执行问题的范式分界

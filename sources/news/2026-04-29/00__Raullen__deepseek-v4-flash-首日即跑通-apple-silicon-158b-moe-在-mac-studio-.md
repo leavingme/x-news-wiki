@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "DeepSeek V4 Flash 首日即跑通 Apple Silicon：158B MoE 在 Mac Studio 上实现 56 tok/s"
 description: "**DeepSeek V4 Flash（158B-A13B MoE）在发布当天即通过 rapid-mlx 在 Apple Silicon 上实现本地推理，2-bit 量化下 56 tok/s，8 种压力场景 7/8 通过。**  - 1M 上下文支持在本地端兑现，Mac Studio 91GB 即可跑 2-bit 版本 - Day-0 适配速度说明社区对 DeepSeek 开源生态的投入已形成正循"
 resource: "https://x.com/Raullen/status/2049487657898754214"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "ai-trend-digest"
-type_okf: "X Tweet"
-source_url: "https://x.com/Raullen/status/2049487657898754214"
-created: "2026-04-29"
-updated: "2026-06-26"
-sha256: "073cdb4f040ecf2f9d5323ea135e19a89e9bb8e5c6112d1e1d315b2f2d59dd0a"
-sources:
-  - "/sources/news/2026-04-29/00__Raullen__deepseek-v4-flash-首日即跑通-apple-silicon-158b-moe-在-mac-studio-.md"
 ---
 
 # DeepSeek V4 Flash 首日即跑通 Apple Silicon：158B MoE 在 Mac Studio 上实现 56 tok/s

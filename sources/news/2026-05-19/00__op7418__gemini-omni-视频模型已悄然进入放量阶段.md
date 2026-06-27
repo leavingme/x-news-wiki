@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Gemini Omni 视频模型已悄然进入放量阶段"
 description: "**[谷歌视频生成悄然起量，但具体能力边界尚不明朗]**  - 歸藏透露 Gemini Omni 已开始放量，意味着谷歌视频模型进入了规模化部署阶段，而非停留在 demo 或内测状态 - 这是继 Veo 2 之后谷歌在视频生成领域的又一次推进信号，放量通常代表模型稳定性达到生产级 - 但推文未披露具体能力数据（如分辨率、时长、物理一致性评测），与 Sora 2、Runway 的实际差距无从判断  "
 resource: "https://x.com/i/status/2056753335261429823"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2056753335261429823"
-created: "2026-05-19"
-updated: "2026-06-26"
-sha256: "937c68197878dfcd50b210d37fdef20f5dd8587daa95141b3d8fb643bcd00bf3"
-sources:
-  - "/sources/news/2026-05-19/00__op7418__gemini-omni-视频模型已悄然进入放量阶段.md"
 ---
 
 # Gemini Omni 视频模型已悄然进入放量阶段

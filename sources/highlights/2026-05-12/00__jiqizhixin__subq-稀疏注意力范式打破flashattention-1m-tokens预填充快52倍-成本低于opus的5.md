@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "SubQ：稀疏注意力范式打破FlashAttention，1M tokens预填充快52倍、成本低于Opus的5%"
 description: "**[稀疏注意力才是长上下文的正确答案——Subquadratic用SSA让百万级Token真正可用]**  1. 核心突破：SSA（Subquadratic Sparse Attention）不再做全量Token两两对比，只路由真正相关的连接，12M Token上下文窗口首次在生产级模型上实现。 2. 性能数据：1M tokens预填充速度比FlashAttention快52倍，成本低于Opus"
 resource: "https://x.com/i/status/2054279190195691572"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2054279190195691572"
-created: "2026-05-12"
-updated: "2026-06-26"
-sha256: "fd405d0752b3ec9d13cc2413f25fdfcd5461770d23cc5a9cd113627b074aa47b"
-sources:
-  - "/sources/highlights/2026-05-12/00__jiqizhixin__subq-稀疏注意力范式打破flashattention-1m-tokens预填充快52倍-成本低于opus的5.md"
 ---
 
 # SubQ：稀疏注意力范式打破FlashAttention，1M tokens预填充快52倍、成本低于Opus的5%

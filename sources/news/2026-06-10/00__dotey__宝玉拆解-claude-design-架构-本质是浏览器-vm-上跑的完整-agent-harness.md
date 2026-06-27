@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "宝玉拆解 Claude Design 架构：本质是浏览器+VM 上跑的完整 Agent Harness"
 description: "**Claude Design 不只是设计工具，是跑在浏览器+虚拟机上的完整 Agent Harness。**  - 45 个工具 + 24 个内置 Skills，运行机制与 Claude Code 同源（Agentic Loop），不是 Claude Code 的简化版，是另一套独立 Agent 运行时 - 宝玉这轮定位把 Claude Design 从「AI Figma 替代」拽回「垂直 Ag"
 resource: "https://x.com/i/status/2064749906800111892"
@@ -22,13 +22,6 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "claude-design-disruption"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2064749906800111892"
-created: "2026-06-10"
-updated: "2026-06-26"
-sha256: "e3e03a925ee900abdf4c7f93c57a76dde7bd0f54a983abd14ea785ad473adf0f"
-sources:
-  - "/sources/news/2026-06-10/00__dotey__宝玉拆解-claude-design-架构-本质是浏览器-vm-上跑的完整-agent-harness.md"
 ---
 
 # 宝玉拆解 Claude Design 架构：本质是浏览器+VM 上跑的完整 Agent Harness

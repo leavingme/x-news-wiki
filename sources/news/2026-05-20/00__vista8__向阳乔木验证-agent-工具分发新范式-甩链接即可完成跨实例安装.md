@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "向阳乔木验证 Agent 工具分发新范式：甩链接即可完成跨实例安装"
 description: "**[ AI 工具传播正在从「文档教程」进化到「链接直连安装」]**  推文中向阳乔木分享了一个 GitHub skill 地址，并直接要求 Agent「Install & tell me where you install it」，这验证了一个重要的交互趋势：  - 工具/技能的分发不再依赖复制粘贴教程，而是通过 URL 直接分发 - Agent 读取到安装指令后自行完成定位、安装、汇报路径 -"
 resource: "https://x.com/i/status/2057124948238311910"
@@ -22,13 +22,6 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "agent-lego-composable-toolchain"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2057124948238311910"
-created: "2026-05-20"
-updated: "2026-06-26"
-sha256: "10049b7996e864196b12540e978554752ddc01bcaeded0a363bd562244e24d1a"
-sources:
-  - "/sources/news/2026-05-20/00__vista8__向阳乔木验证-agent-工具分发新范式-甩链接即可完成跨实例安装.md"
 ---
 
 # 向阳乔木验证 Agent 工具分发新范式：甩链接即可完成跨实例安装

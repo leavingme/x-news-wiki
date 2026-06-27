@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Stripe 发布 Agent Wallet：AI Agent 支付的「真实卡号不暴露」范式来了"
 description: "**Stripe 终于给出了 AI Agent 代付的安全原语——一次性支付凭证 + 用户审批流。**  - Agent 创建一次性支付凭证，用完即失效，真实卡号不暴露给 Agent 也不暴露给工具链 - 用户在 Link 中逐笔批准或拒绝，保留最终决策权 - CLI 已开源，可直接接入 Claude Code、MCP 客户端等 Agent 工作流  这是 Agent 经济自主权基础设施的关键一环"
 resource: "https://x.com/i/status/2049693914249232634"
@@ -22,13 +22,6 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "ai-agent-crypto-infra"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2049693914249232634"
-created: "2026-04-30"
-updated: "2026-06-26"
-sha256: "89c2d79d0a0dda9aece01c83b9f911a60a7b8cbeb823ff96cf2f5fee7f91d220"
-sources:
-  - "/sources/highlights/2026-04-30/00__xiaohu__stripe-发布-agent-wallet-ai-agent-支付的-真实卡号不暴露-范式来了.md"
 ---
 
 # Stripe 发布 Agent Wallet：AI Agent 支付的「真实卡号不暴露」范式来了

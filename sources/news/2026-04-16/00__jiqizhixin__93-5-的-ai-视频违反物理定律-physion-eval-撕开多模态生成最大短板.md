@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "93.5% 的 AI 视频违反物理定律：Physion-Eval 撕开多模态生成最大短板"
 description: "**[AI 视频物理真实性基准出炉，顶尖模型全线溃败]**  - Stanford、MIT、Harvard、Character AI 联合发布 Physion-Eval，用专家人类推理诊断 AI 视频物理违规：83.3% 外视角、93.5% 内视角视频至少一次违反现实物理 - 研究揭示当前 SOTA 模型在物理常识上的系统性失败，且\"哪里出错\"可以精确诊断 - 对 AI 视频工业化应用（影视、工业"
 resource: "https://x.com/i/status/2044463764205146255"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2044463764205146255"
-created: "2026-04-15"
-updated: "2026-06-26"
-sha256: "c6d7c18bcdf76ad0b3259ceea84058901d7c1481c9b7e993130f0b3dac57cd29"
-sources:
-  - "/sources/news/2026-04-16/00__jiqizhixin__93-5-的-ai-视频违反物理定律-physion-eval-撕开多模态生成最大短板.md"
 ---
 
 # 93.5% 的 AI 视频违反物理定律：Physion-Eval 撕开多模态生成最大短板

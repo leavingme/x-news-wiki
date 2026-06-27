@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Open Slide：React 组件写 PPT 的 Agent-native 范式，比 HTML 生成更适合 AI 迭代"
 description: "**用 React 框架写 PPT，整个工作流为 AI Agent 设计——可视化编辑器 + AI 读评论自动修改。**  - React 组件化比 HTML 生成 PPT 扩展性更强，图表、动画等复杂组件可复用 - 集成 SVGL（1500+ 品牌 Logo 库），解决技术 PPT 找 Logo 的痛点 - 可视化编辑器允许人工微调，AI 读取修改评论后自动迭代，人机协作闭环完整  gakki "
 resource: "https://x.com/i/status/2052203194982248537"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2052203194982248537"
-created: "2026-05-07"
-updated: "2026-06-26"
-sha256: "77f80e064f135b56a8d1fefe2770ffe7f3ae0e4c5bc08612a191907989f5767d"
-sources:
-  - "/sources/news/2026-05-07/00__vista8__open-slide-react-组件写-ppt-的-agent-native-范式-比-html-生成更适合-ai-迭.md"
 ---
 
 # Open Slide：React 组件写 PPT 的 Agent-native 范式，比 HTML 生成更适合 AI 迭代

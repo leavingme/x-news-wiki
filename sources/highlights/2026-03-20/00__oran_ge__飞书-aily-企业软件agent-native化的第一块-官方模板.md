@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "飞书\"aily\"：企业软件Agent-Native化的第一块「官方模板」"
 description: "**[飞书用AI Agent重新打包了All-in-one的复杂性]** • 核心突破：不是功能叠加，而是把消息/日历/文档/多维表格全部串成Agent可调用的统一能力层 • 关键信号：企业级Workspace开始从「人找功能」转向「Agent代劳」 • 战略意义：国内首个大厂级Agent-Native办公套件，可能成为中小企业Agent化的「默认入口」  飞书的野心不是做个ChatBot，而是用"
 resource: "https://x.com/i/status/2034842114220265798"
@@ -22,13 +22,6 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "agent-native-paradigm"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2034842114220265798"
-created: "2026-03-20"
-updated: "2026-06-26"
-sha256: "8afe50a1df54e99cb22de8bd38bb04bd20cec1fedb0588f8bcc5c22198dc50eb"
-sources:
-  - "/sources/highlights/2026-03-20/00__oran_ge__飞书-aily-企业软件agent-native化的第一块-官方模板.md"
 ---
 
 # 飞书"aily"：企业软件Agent-Native化的第一块「官方模板」

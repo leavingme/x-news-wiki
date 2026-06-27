@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "AI 生图论文四大反直觉结论：数据质量碾压模型规模，AI 生成图片是训练毒药"
 description: "**2026 年 AI 生图的竞争维度正在从「模型架构」转向「数据治理」。**  - 最后训练阶段的少量高质量专家数据，直接决定用户对模型能力的感知上限 - 训练数据混入哪怕少量 AI 生成图片，都会严重损害模型质量和后续潜力——这是 AI 自噬（model collapse）的实战警告 - 蒸馏是必选项，不考虑蒸馏友好性的架构 = 无法商业部署的模型 - 开源 vs 闭源的核心差距不在渲染器，而"
 resource: "https://x.com/i/status/2050210879531028881"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2050210879531028881"
-created: "2026-05-01"
-updated: "2026-06-26"
-sha256: "4d8081cf257543af1355579bf4598c4c46e22d75fdf4f744505b2da35bd89782"
-sources:
-  - "/sources/news/2026-05-01/00__vista8__ai-生图论文四大反直觉结论-数据质量碾压模型规模-ai-生成图片是训练毒药.md"
 ---
 
 # AI 生图论文四大反直觉结论：数据质量碾压模型规模，AI 生成图片是训练毒药

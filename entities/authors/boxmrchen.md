@@ -1,23 +1,17 @@
 ---
-type: "entity"
+type: "Author"
 title: "Box (mainnet arc) (@BoxMrChen)"
 description: "X/Twitter 作者 @BoxMrChen。共收录 1 条 AI 精选推文。"
 tags:
   - "x-news"
   - "author"
   - "author:BoxMrChen"
-timestamp: "2026-06-26T11:53:36.940Z"
+timestamp: "2026-06-27T08:40:40.148Z"
 x_handle: "BoxMrChen"
 x_author_name: "Box (mainnet arc)"
 x_tweet_count: 1
 x_first_seen: "2026-02-20T01:00:38.986Z"
 x_last_seen: "2026-02-20T01:00:38.986Z"
-type_okf: "Author"
-created: "2026-02-20"
-updated: "2026-06-26"
-sha256: "623f4915f94375dd85c23ce72a1f9dfa28f8a08a0154b0fab6c6aa9b32b47069"
-sources:
-  - "/sources/highlights/2026-02-20/00__BoxMrChen__多模型主观对齐-将-llm-视为独立个体进行交叉-review.md"
 ---
 
 # Box (mainnet arc) (@BoxMrChen)

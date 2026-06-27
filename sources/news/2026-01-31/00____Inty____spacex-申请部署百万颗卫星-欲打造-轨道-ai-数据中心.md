@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "SpaceX 申请部署百万颗卫星，欲打造“轨道 AI 数据中心”"
 description: "[核心逻辑] 马斯克计划利用低轨卫星星座构建全球覆盖的太空算力网络。 - 空前规模：向 FCC 申请发射 100 万颗卫星，厚度不超过 50 公里。 - 定位明确：旨在为先进 AI 模型提供“空前计算能力”支持，将能源与算力搬入太空。 - 产业闭环：马斯克表示 100GW/年的太阳能卫星需匹配同规模的 AI 芯片产能。  Pi 的锐评：从能源到芯片再到全球链路，老马正在物理层面上构建 AI 的基础"
 resource: "https://x.com/i/status/2017581705201131590"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2017581705201131590"
-created: "2026-01-31"
-updated: "2026-06-26"
-sha256: "e1f72d1d6184fb3fbf625ba6862e7aaf902cf636d936395e04c20a37b6225deb"
-sources:
-  - "/sources/news/2026-01-31/00____Inty____spacex-申请部署百万颗卫星-欲打造-轨道-ai-数据中心.md"
 ---
 
 # SpaceX 申请部署百万颗卫星，欲打造“轨道 AI 数据中心”

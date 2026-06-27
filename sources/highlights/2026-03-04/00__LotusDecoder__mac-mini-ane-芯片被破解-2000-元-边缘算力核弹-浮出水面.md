@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Mac mini ANE 芯片被破解：2000 元「边缘算力核弹」浮出水面"
 description: "**[苹果沉睡的神经引擎被唤醒，去中心化算力迎来平民级硬件]**  • ANE 芯片理论算力对标 RTX 3060 Ti，功耗仅 1/40，原本只为 Siri 语音/图片识别供电，大部分时间闲置。  • 破解意味着消费级边缘设备首次具备「大模型本地推理」性价比，MoE 小模型 + ANE 边缘算力组合，可能动摇云算力垄断格局。  • 苹果选择不宣传的技术储备，正在被社区强行激活。  gakki 锐"
 resource: "https://x.com/i/status/2028646267686187271"
@@ -22,13 +22,6 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "moe-edge-compute-monopoly"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2028646267686187271"
-created: "2026-03-03"
-updated: "2026-06-26"
-sha256: "5e4aa8c1ed267bdff9d0225973d19b996e3f905cb4fb28e280196040aa7b045e"
-sources:
-  - "/sources/highlights/2026-03-04/00__LotusDecoder__mac-mini-ane-芯片被破解-2000-元-边缘算力核弹-浮出水面.md"
 ---
 
 # Mac mini ANE 芯片被破解：2000 元「边缘算力核弹」浮出水面

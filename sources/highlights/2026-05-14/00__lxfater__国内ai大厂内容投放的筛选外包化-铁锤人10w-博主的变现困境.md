@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "国内AI大厂内容投放的筛选外包化：铁锤人10w+博主的变现困境"
 description: "**[国内AI公司的KOL筛选已外包，个体影响力变现通道正在收窄]**  铁锤人近日公开表达困惑：拥有多篇10w+技术文章写作经验、甚至产出过1200w爆款的个人创作者，为何没有国内大模型公司主动接洽。他的直接推断是：筛选工作可能已整体外包给中介，绕过了人工判断和主动邀请环节。  这个信号值得重视。它意味着AI公司的内容营销正在工业化——按矩阵账号和流量分发协议执行，而非依据具体创作者的质量和调性"
 resource: "https://x.com/i/status/2054751402115912112"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2054751402115912112"
-created: "2026-05-14"
-updated: "2026-06-26"
-sha256: "a0f7f3f79b5861d7f9557b72d8766c68963a49356328c943d3a7381828a9497f"
-sources:
-  - "/sources/highlights/2026-05-14/00__lxfater__国内ai大厂内容投放的筛选外包化-铁锤人10w-博主的变现困境.md"
 ---
 
 # 国内AI大厂内容投放的筛选外包化：铁锤人10w+博主的变现困境

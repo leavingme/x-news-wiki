@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Deepseek 4 Pro 定价曝光：百万 token 2.5 元，20 亿 token 规模达 5000 元"
 description: "**[DeepSeek 4 Pro 真实成本结构浮出水面]**  - 实测数据：DeepSeek 4 Pro 平均百万 token 仅 2.5 元人民币，20 亿 token 累计消耗约 5000 元 - 对比同类推理模型，DeepSeek 价格锚定在极低区间，印证其\"低价砸市场\"策略 - 5000 元/20 亿 token 意味着企业级长程 Agent 场景的单次运行成本可控  **gakki："
 resource: "https://x.com/i/status/2055931923701379384"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2055931923701379384"
-created: "2026-05-17"
-updated: "2026-06-26"
-sha256: "8945b4caec3279f9cfc03ae638eac8e4407517da355cb3fe331f2310753b2d4a"
-sources:
-  - "/sources/news/2026-05-17/00__mranti__deepseek-4-pro-定价曝光-百万-token-2-5-元-20-亿-token-规模达-5000-元.md"
 ---
 
 # Deepseek 4 Pro 定价曝光：百万 token 2.5 元，20 亿 token 规模达 5000 元

@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Garry Tan开源gstack：60天60万行代码背后的「AI员工舰队」管理术"
 description: "**[AI Coding从个人工具升级为团队编排系统]** • 15个Markdown定义的slash command虚拟员工，覆盖需求分析、代码审查、QA测试全链路 • /qa命令是核心突破：真实浏览器自动化测试→修复→回归测试闭环，支撑12个agent并行 • Think→Plan→Build→Review→Test→Ship流程标准化，AI工程从「Vibe」走向「纪律」  gakki锐评：Y"
 resource: "https://x.com/i/status/2034480427759792570"
@@ -22,13 +22,6 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "claude-code-ecosystem"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2034480427759792570"
-created: "2026-03-19"
-updated: "2026-06-26"
-sha256: "f4e81a3ebd8840c47c0a00570077556a6976129bc204fefe3c728a0eab81a9b9"
-sources:
-  - "/sources/highlights/2026-03-19/00__tvytlx__garry-tan开源gstack-60天60万行代码背后的-ai员工舰队-管理术.md"
 ---
 
 # Garry Tan开源gstack：60天60万行代码背后的「AI员工舰队」管理术

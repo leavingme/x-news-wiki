@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Claude Code的\"打断式体验\"：权限询问正在杀死沉浸式编码流"
 description: "**[Codex的静默执行 vs Claude Code的权限打断，两种UX哲学对决]**  用户对Codex和Claude Code的对比揭示了关键差异：前者静默长时间运行，后者频繁索要权限确认。这不仅是技术差异，是产品价值观分歧。  • 信息增量：Swift开发场景下，Codex展现出更强的端到端任务完成能力 • 关键判断：Claude Code的权限模型在复杂项目中成为生产力阻碍，而非安全护"
 resource: "https://x.com/i/status/2033461931705843936"
@@ -22,13 +22,6 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "claude-code-natural-language-workflow"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2033461931705843936"
-created: "2026-03-16"
-updated: "2026-06-26"
-sha256: "e7b08d795f17ed4c27c8eb16ad7f3a466ba341a33406b84dc61c1cebf423a6d2"
-sources:
-  - "/sources/highlights/2026-03-16/00__lxfater__claude-code的-打断式体验-权限询问正在杀死沉浸式编码流.md"
 ---
 
 # Claude Code的"打断式体验"：权限询问正在杀死沉浸式编码流

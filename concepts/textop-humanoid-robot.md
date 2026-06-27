@@ -1,38 +1,22 @@
 ---
-type: "concept"
-title: "textop-humanoid-robot"
-description: "跨日主题 \"textop-humanoid-robot\"，共 14 条相关精选推文。"
+type: "Concept"
+title: "Textop 人形机器人"
+description: "跨日主题 \"Textop 人形机器人\" (textop-humanoid-robot)，共 14 条相关精选推文。"
 tags:
   - "x-news"
   - "concept"
   - "topic:textop-humanoid-robot"
-timestamp: "2026-06-26T11:53:37.012Z"
+timestamp: "2026-06-27T08:40:42.849Z"
 x_topic_slug: "textop-humanoid-robot"
 x_tweet_count: 14
 x_first_seen: "2026-04-02T21:49:22.942Z"
 x_last_seen: "2026-06-04T01:18:35.384Z"
-type_okf: "Concept"
-created: "2026-04-02"
-updated: "2026-06-26"
-sha256: "b3e7a7b667dd1edfa50bde1ac741b42b1e24a2afaebd0b88c014cb507f95c58c"
-sources:
-  - "/sources/highlights/2026-04-07/00__jiqizhixin__字节跳动-seed-颠覆机器人灵巧手-100-仿真训练直接迁移到现实-sim-to-real-瓶颈被突破.md"
-  - "/sources/highlights/2026-04-16/00__jiqizhixin__一根香蕉就能驱动3d角色全身动作-单摄像头替代百万动捕设备的开源方案.md"
-  - "/sources/highlights/2026-04-25/00__jiqizhixin__清华联想-streamingvla-机器人-感知-思考-行动-首次并行化-延迟骤降-2-4-倍.md"
-  - "/sources/highlights/2026-05-23/00__jiqizhixin__港大-ace-robotics-消费级gpu上实现机器人实时物理交互的10倍延迟压缩.md"
-  - "/sources/highlights/2026-05-30/00__jiqizhixin__西湖人用-motion-做-compact-表征-机器人终于有了-hindsight-和-foresight.md"
-  - "/sources/news/2026-04-02/00__jiqizhixin__ntu-mars-lab-颠覆机器人控制范式-a2a-流匹配实现-0-56ms-单步动作生成.md"
-  - "/sources/news/2026-04-04/00__jiqizhixin__vlmgineer-机器人开始自己发明工具了-vuml框架的具身智能新突破.md"
-  - "/sources/news/2026-04-24/00__xiaohu__索尼ace机器人三次击败职业球员-0-1秒内完成感知-决策-执行的人类禁区已被突破.md"
-  - "/sources/news/2026-04-25/00__jiqizhixin__北大-南科大-quatrope-llm-的-3d-空间推理终于不再靠猜.md"
-  - "/sources/news/2026-05-16/00__jiqizhixin__nvidia-scenethesis-llm-布局-视觉细化的-3d-场景生成-首次在游戏-vr-具身ai-三场景同时超.md"
-  - "/sources/news/2026-05-25/00__jiqizhixin__freeocc-无需训练的机器人开放词汇-occupancy-预测-零样本泛化新sota.md"
-  - "/sources/news/2026-05-25/00__jiqizhixin__世界模型综合调研-学术联盟正在为具身智能建立统一理论基座.md"
-  - "/sources/news/2026-05-31/00__jiqizhixin__复旦-nus-上海期智研究院推出world-action-models-机器人开始具备-先想象再行动-的预测规划能力.md"
-  - "/sources/news/2026-06-04/00__jiqizhixin__cuhk-dexforce提出agentchord-机器人-预装退路-比-事后补救-快一个量级.md"
+x_cn_title_source: "dict"
 ---
 
-# 主题: textop-humanoid-robot
+# 主题: Textop 人形机器人
+
+> slug: `textop-humanoid-robot`
 
 本主题下共 **14** 条精选推文。
 

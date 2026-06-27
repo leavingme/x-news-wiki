@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "豆包年费 5000 元上线：字节用定价宣判「AI 免费时代」终结"
 description: "**字节带头把 AI 订阅拉到年费 5000 元，这是中国 AI 市场从流量逻辑切换到商业逻辑的信号弹。** - 专业版年费 5000 元（约 ¥417/月），对标海外 ChatGPT Pro $200/月的定价锚点，但更适合中国消费力 - 字节作为「免费打法」的代名词，如今主动收费，说明 C 端 AI 服务的算力成本已逼近不可持续边界 - Orange AI 的判断——每人每月 100 美金将成"
 resource: "https://x.com/i/status/2051290162806890516"
@@ -22,13 +22,6 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "ai-tool-subscription-value"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2051290162806890516"
-created: "2026-05-04"
-updated: "2026-06-26"
-sha256: "d15c45b72e393a1ad1dc15a89021ac52fd4fdb387c066cd41ee1a5b182026128"
-sources:
-  - "/sources/highlights/2026-05-04/00__oran_ge__豆包年费-5000-元上线-字节用定价宣判-ai-免费时代-终结.md"
 ---
 
 # 豆包年费 5000 元上线：字节用定价宣判「AI 免费时代」终结

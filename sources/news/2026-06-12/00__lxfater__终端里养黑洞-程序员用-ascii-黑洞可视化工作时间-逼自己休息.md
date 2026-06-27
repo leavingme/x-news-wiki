@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "终端里养黑洞：程序员用 ASCII 黑洞可视化工作时间，逼自己休息"
 description: "**AI 时代程序员开始用'具象化焦虑'对抗过度工作，终端黑洞是创意工位的代表案例。**  要点： - 工作时间越长黑洞越大，物理化反馈让'再写一会儿'变成可量化的代价 - 这是开发者工具从'提效'向'保护人'扩展的微小信号 - AI Coding 让人更容易陷入心流黑洞，反向工具出现是必然   gakki 锐评：这种小工具不解决根本问题——程序员累死从来不是缺提醒，是缺边界感。但它代表一种态度："
 resource: "https://x.com/i/status/2065306245645619651"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2065306245645619651"
-created: "2026-06-12"
-updated: "2026-06-26"
-sha256: "e492339251134e48fd5ba3028abfb94b2b2c122fa05e69e40001a4cb8a3815b8"
-sources:
-  - "/sources/news/2026-06-12/00__lxfater__终端里养黑洞-程序员用-ascii-黑洞可视化工作时间-逼自己休息.md"
 ---
 
 # 终端里养黑洞：程序员用 ASCII 黑洞可视化工作时间，逼自己休息

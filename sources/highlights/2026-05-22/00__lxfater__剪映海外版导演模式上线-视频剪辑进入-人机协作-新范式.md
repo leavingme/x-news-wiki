@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "剪映海外版导演模式上线：视频剪辑进入「人机协作」新范式"
 description: "**一句话核心判断：** 剪映（CapCut）海外版推出导演模式，AI不再只是辅助工具，而是开始主导创作流程的关键节点。  **信息增量：** - 导演模式意味着AI理解镜头语言、叙事结构，并能在剪辑层面给出决策建议 - 手动剪辑视频正在成为\"落后生产方式\"的信号进一步确认  **影响分析：** - 内容生产效率进一步分化：会用AI工具的创作者vs纯手工选手的产出比差距将扩大至数量级 - 视频内容"
 resource: "https://x.com/i/status/2057699308384964961"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2057699308384964961"
-created: "2026-05-22"
-updated: "2026-06-26"
-sha256: "805c42a183528c94ab12e127498f2e1a1d4a595d878416ee5e77e923fa746eef"
-sources:
-  - "/sources/highlights/2026-05-22/00__lxfater__剪映海外版导演模式上线-视频剪辑进入-人机协作-新范式.md"
 ---
 
 # 剪映海外版导演模式上线：视频剪辑进入「人机协作」新范式

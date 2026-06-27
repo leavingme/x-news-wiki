@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Seedance 2.5 一次直出 30 秒：AI 视频从「拼接」跨入「成片」"
 description: "**[Seedance 2.5 实现单次直出 30 秒完整视频，国产视频模型正式进入「可生产」区间]** - 一次出片 30 秒意味着无需多次拼接，时长/一致性/动作连贯性同步跃升 - 同日 3D 白模支持（见下条）补完可控性短板，工业化拐点同步到来 - 直接对标 Sora 2 / 可灵 1.6，国产模型在长片段生成上首次追平头部  gakki 锐评：30 秒单次出片是「能 demo」和「能上产线"
 resource: "https://x.com/i/status/2069236441964818508"
@@ -22,13 +22,6 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "open-source-video-generation-leap"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2069236441964818508"
-created: "2026-06-23"
-updated: "2026-06-26"
-sha256: "87800514822d2b7da8ed8e96fd78665b780cddda3d9493ba35d03cb9b7319fdc"
-sources:
-  - "/sources/highlights/2026-06-23/00__xiaohu__seedance-2-5-一次直出-30-秒-ai-视频从-拼接-跨入-成片.md"
 ---
 
 # Seedance 2.5 一次直出 30 秒：AI 视频从「拼接」跨入「成片」

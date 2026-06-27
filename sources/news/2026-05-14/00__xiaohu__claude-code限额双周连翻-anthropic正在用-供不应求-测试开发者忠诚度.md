@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Claude Code限额双周连翻：Anthropic正在用「供不应求」测试开发者忠诚度"
 description: "**[一句话核心判断]** Claude Code周限制先翻倍再+50%，Anthropic在API收入和用户体验之间选择了用稀缺感维持溢价定位。  **信息增量：** - 两次宽松政策叠加窗口：上周5小时→本周+50%，短期不存在资源枯竭 - 实质是定价策略：通过限制感知制造紧迫感，推动用户升级到更高订阅档位 - 与OpenAI/Google的「无限畅用」路线形成对比，Anthropic的克制正"
 resource: "https://x.com/i/status/2054710489582842025"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2054710489582842025"
-created: "2026-05-13"
-updated: "2026-06-26"
-sha256: "e65df42129b0372382ac357b5fe35b625cd967cee90d1c1091dd972473ae9012"
-sources:
-  - "/sources/news/2026-05-14/00__xiaohu__claude-code限额双周连翻-anthropic正在用-供不应求-测试开发者忠诚度.md"
 ---
 
 # Claude Code限额双周连翻：Anthropic正在用「供不应求」测试开发者忠诚度

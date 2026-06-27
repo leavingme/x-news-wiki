@@ -1,24 +1,17 @@
 ---
-type: "entity"
+type: "Author"
 title: "Caroline（大叔） (@thcaroline2233)"
 description: "X/Twitter 作者 @thcaroline2233。共收录 2 条 AI 精选推文。"
 tags:
   - "x-news"
   - "author"
   - "author:thcaroline2233"
-timestamp: "2026-06-26T11:53:36.965Z"
+timestamp: "2026-06-27T08:40:40.175Z"
 x_handle: "thcaroline2233"
 x_author_name: "Caroline（大叔）"
 x_tweet_count: 2
 x_first_seen: "2026-03-23T00:43:10.486Z"
 x_last_seen: "2026-04-05T00:42:57.271Z"
-type_okf: "Author"
-created: "2026-03-23"
-updated: "2026-06-26"
-sha256: "8d84b421d1ed7dbc28923b3784177ea70de7558f401b02054945889fc1c2323c"
-sources:
-  - "/sources/highlights/2026-03-23/00__thcaroline2233__ai-就业危机时间表-2028-年或触发经济深度衰退的-倒计时警报.md"
-  - "/sources/news/2026-04-05/00__thcaroline2233__anthropic-正在完成对-openai-的全方位超越.md"
 ---
 
 # Caroline（大叔） (@thcaroline2233)

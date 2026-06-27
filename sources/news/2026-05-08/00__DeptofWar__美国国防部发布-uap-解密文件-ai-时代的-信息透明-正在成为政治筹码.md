@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "美国国防部发布 UAP 解密文件：AI 时代的「信息透明」正在成为政治筹码"
 description: "**国防部以「历史性透明」名义发布不明异常现象档案，时机选择远比内容更重要。**  - 这是官方首次以「透明」为品牌发布 UAP 文件，包装策略值得观察 - 结合 Joe Rogan 等公众人物质疑其为伊朗冲突的「注意力转移」，信息透明正在工具化 - 对 AI 治理的启示：当「开放」本身成为叙事策略，如何区分真正的透明与表演性透明？  AI 安全领域的核心矛盾正在于此——模型透明度、训练数据披露、"
 resource: "https://x.com/DeptofWar/status/2052723504336736284"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "ai-trend-digest"
-type_okf: "X Tweet"
-source_url: "https://x.com/DeptofWar/status/2052723504336736284"
-created: "2026-05-08"
-updated: "2026-06-26"
-sha256: "f8fdfb398f47c8f736f50f70c1fe03464a7e735828af9fe262147e79a3433dc3"
-sources:
-  - "/sources/news/2026-05-08/00__DeptofWar__美国国防部发布-uap-解密文件-ai-时代的-信息透明-正在成为政治筹码.md"
 ---
 
 # 美国国防部发布 UAP 解密文件：AI 时代的「信息透明」正在成为政治筹码

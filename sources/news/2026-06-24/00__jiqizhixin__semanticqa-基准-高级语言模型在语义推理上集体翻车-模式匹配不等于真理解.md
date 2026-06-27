@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "SemanticQA 基准：高级语言模型在语义推理上集体翻车，模式匹配不等于真理解"
 description: "**[LLM「真理解」幻觉再受冲击：北京科技大学+BIGAI 提出 SemanticQA 基准，专门测试模型对习语（如 spill the beans）和名词复合（coffee table）等语义推理能力]**  - 核心发现：即便是先进模型，在需要真实语义理解的任务上表现断崖式下滑，暴露了当前 LLM 对「含义」的把握远不如对「模式」的拟合。 - 评测范式：区别于传统 benchmark 对表面"
 resource: "https://x.com/i/status/2069635124531241350"
@@ -22,13 +22,6 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "ai-real-world-model-evaluation"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2069635124531241350"
-created: "2026-06-24"
-updated: "2026-06-26"
-sha256: "9fa9a28d2561fcd2ef67b1c3511280c5fa63e5467d1334ccf4910a1976109e50"
-sources:
-  - "/sources/news/2026-06-24/00__jiqizhixin__semanticqa-基准-高级语言模型在语义推理上集体翻车-模式匹配不等于真理解.md"
 ---
 
 # SemanticQA 基准：高级语言模型在语义推理上集体翻车，模式匹配不等于真理解

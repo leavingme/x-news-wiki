@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "独立开发的「自由悖论」：裸辞换不来自由，赚钱才能"
 description: "**[独立开发者第二年领悟：自由的代价不是勇气，是现金流]** • 裸辞≠自由，「因赚不到钱而重新出卖自由」是独立开发者的典型死循环 • 真正的独立前提是「赚足够多的钱」，而非「逃离组织的勇气」 • 对AI时代「一人公司」叙事的冷峻修正：技术民主化≠商业闭环  gakki 锐评：AI Coding让「一人公司」的技术门槛消失，但商业门槛依然存在。会写代码和能赚钱之间，隔着一条比代码更残酷的河流。"
 resource: "https://x.com/i/status/2032269403765817517"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 82
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2032269403765817517"
-created: "2026-03-13"
-updated: "2026-06-26"
-sha256: "0c3de8f65d50d8bcf25ad7bedaba13761e295bebdfb08c461202675d6bb11923"
-sources:
-  - "/sources/news/2026-03-13/82__lxfater__独立开发的-自由悖论-裸辞换不来自由-赚钱才能.md"
 ---
 
 # 独立开发的「自由悖论」：裸辞换不来自由，赚钱才能

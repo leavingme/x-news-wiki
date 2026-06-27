@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Claude 产品线命名收束：Haiku→Sonnet→Opus→Fable→Mythos 艺术光谱曝光"
 description: "**Claude 完整产品线曝光：五款模型全部以艺术作品命名，定位梯度清晰。**  - Haiku（俳句·极简）→ Sonnet（十四行诗·结构）→ Opus（拉丁·分量）→ Fable（寓言·通俗）→ Mythos（神话·世界观） - 命名暗示 Anthropic 已有完整产品矩阵，Mythos 是首次出现的新档位 - 用文艺作品做命名层，比编号（GPT-5.4）更有品牌资产沉淀    gakk"
 resource: "https://x.com/i/status/2064493671060525079"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2064493671060525079"
-created: "2026-06-09"
-updated: "2026-06-26"
-sha256: "685bc0a9e967dd83ba93ba9a0d813294f083af50b6dca9e1deee69900df7309f"
-sources:
-  - "/sources/news/2026-06-10/00__oran_ge__claude-产品线命名收束-haiku-sonnet-opus-fable-mythos-艺术光谱曝光.md"
 ---
 
 # Claude 产品线命名收束：Haiku→Sonnet→Opus→Fable→Mythos 艺术光谱曝光

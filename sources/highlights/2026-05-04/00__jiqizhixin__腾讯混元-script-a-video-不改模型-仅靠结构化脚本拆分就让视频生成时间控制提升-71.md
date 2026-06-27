@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "腾讯混元 Script-a-Video：不改模型，仅靠结构化脚本拆分就让视频生成时间控制提升 71%"
 description: "**不改模型架构，仅在输入端做结构化拆分，就能显著提升视频生成质量——这是一种被低估的工程路径。**  - 腾讯混元团队提出 MTSS（多轨脚本结构），将视频拆分为镜头流、事件流、参考流，用显式时间戳和 ID 链接 - Video-SALMONN-2 上错误率降低 25%，Daily-Omni 推理能力提升 67%，视频生成时间控制提升 71% - 关键洞察：瓶颈不在模型能力，而在输入表达的结构化"
 resource: "https://x.com/i/status/2051142774016078299"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2051142774016078299"
-created: "2026-05-04"
-updated: "2026-06-26"
-sha256: "51b11b9c4ecd385e86e66f3b3367b60893ca06de3afc3eb6fe49f62ed643715d"
-sources:
-  - "/sources/highlights/2026-05-04/00__jiqizhixin__腾讯混元-script-a-video-不改模型-仅靠结构化脚本拆分就让视频生成时间控制提升-71.md"
 ---
 
 # 腾讯混元 Script-a-Video：不改模型，仅靠结构化脚本拆分就让视频生成时间控制提升 71%

@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Agent = Model + Harness：Harness 层才是 AI 工具分化的真正护城河"
 description: "**Claude Code、Cursor、Codex 底层模型可能完全相同，但 Agent 表现天差地别——区别不在模型，在 Harness。**  - Addy Osmani 提出框架：Agent = Model + Harness，凡是「不是模型本身」的部分都属于外壳 - Harness 拆解为六层：指令层（CLAUDE.md/skills）、能力层（tools/MCP）、基础设施（沙箱/浏览"
 resource: "https://x.com/i/status/2053456173622530407"
@@ -22,13 +22,6 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "harness-engineering"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2053456173622530407"
-created: "2026-05-10"
-updated: "2026-06-26"
-sha256: "a7c45671d0ed8b15797332e26f04ca67779124d728de955a516f2a04e9fbf1a4"
-sources:
-  - "/sources/highlights/2026-06-24/00__shao__meng__agent-model-harness-harness-层才是-ai-工具分化的真正护城河.md"
 ---
 
 # Agent = Model + Harness：Harness 层才是 AI 工具分化的真正护城河

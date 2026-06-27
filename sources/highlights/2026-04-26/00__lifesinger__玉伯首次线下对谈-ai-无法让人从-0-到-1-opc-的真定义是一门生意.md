@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "玉伯首次线下对谈：AI 无法让人从 0 到 1，OPC 的真定义是一门生意"
 description: "**一句话核心判断：AI 能放大已有能力，但无法替代从零构建判断力的过程。**  - 三位背景迥异的创始人（AI 硬件/AI 软件/媒体创业）罕见共识：要做成事，必须 be real，及早寻找付费客户，胜算远大于追概念。 - 玉伯明确反对 OPC 被美元基金裹挟的\"做大做强\"叙事，提出 OPC 更准确的定义是「一门生意」——有生活意义、能养活团队、不必扩张。 - 关于 AI 的边界：全场嘉宾共识 "
 resource: "https://x.com/i/status/2048429260701151648"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2048429260701151648"
-created: "2026-04-26"
-updated: "2026-06-26"
-sha256: "b152ba7e30b92152caf961621154a28d8deb55452aa0cbe8f18fa4ea861a544d"
-sources:
-  - "/sources/highlights/2026-04-26/00__lifesinger__玉伯首次线下对谈-ai-无法让人从-0-到-1-opc-的真定义是一门生意.md"
 ---
 
 # 玉伯首次线下对谈：AI 无法让人从 0 到 1，OPC 的真定义是一门生意

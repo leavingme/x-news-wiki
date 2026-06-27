@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Altman罕见认怂：「用Codex还是Claude Code，选适合你的」，AI编码工具战争进入均势承认期"
 description: "**OpenAI CEO公开承认工具选择是个人偏好而非技术碾压，这是AI编码竞争格局的重大信号。** - Altman用「silly」形容二选一争论，实质是承认Claude Code已构成不可忽视的竞争压力 - 「grateful there is a choice」的措辞暗示OpenAI已放弃「唯一正确答案」的叙事垄断策略 - 这与Codex近期密集推宠物/游戏化功能形成互文——当产品力无法碾压"
 resource: "https://x.com/sama/status/2050274547061129577"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
-
 x_source: "ai-trend-digest"
-type_okf: "X Tweet"
-source_url: "https://x.com/sama/status/2050274547061129577"
-created: "2026-05-01"
-updated: "2026-06-26"
-sha256: "7fbfc0435a7fb95a73ba9776d08f2a69010ed201deca34e6101d2eb11ffcf3a1"
-sources:
-  - "/sources/highlights/2026-05-02/00__sama__altman罕见认怂-用codex还是claude-code-选适合你的-ai编码工具战争进入均势承认期.md"
 ---
 
 # Altman罕见认怂：「用Codex还是Claude Code，选适合你的」，AI编码工具战争进入均势承认期

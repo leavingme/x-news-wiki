@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Codex 接管 Chrome 插件上架：表单填写自动化正在成为 Agent 落地的新验证场景"
 description: "**【AI 全自动完成 Chrome 插件上架，Codex 展现表单自动化能力】**  一线要点： - 向阳乔木实测 Codex 客户端 + Chrome 官方插件，完成插件上架表单的全自动填写 - 中文输入法与表单输入存在冲突，Agent 自主写 Python 脚本绕过这一工程障碍 - 核心逻辑：重复性文案工作对人类是负担，对 Agent 是最适合自动化的场景  Agent 价值判断：表单/审批"
 resource: "https://x.com/i/status/2057004535630197135"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2057004535630197135"
-created: "2026-05-20"
-updated: "2026-06-26"
-sha256: "6b6cc7550a0102e205b0916ec94faf84ac25d0b5eff29dea36c713ed4f62a6ff"
-sources:
-  - "/sources/news/2026-05-20/00__vista8__codex-接管-chrome-插件上架-表单填写自动化正在成为-agent-落地的新验证场景.md"
 ---
 
 # Codex 接管 Chrome 插件上架：表单填写自动化正在成为 Agent 落地的新验证场景

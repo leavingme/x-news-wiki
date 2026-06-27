@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Anthropic 给订阅额度划清单：Agent SDK、非交互模式、GitHub Actions 才是「被允许的零花钱」"
 description: "**Anthropic 正在用白名单方式重新定义订阅额度的合法用途。**  覆盖范围明确：自写 Agent SDK（Python/TS）、Claude Code `-p` 非交互模式、GitHub Actions 集成、通过 SDK 接入订阅账号的第三方 App。  暗含限制：除上述列出的场景外，其他形式的 API 消费仍需自购 token，意味着订阅正在从「自由额度」变成「定向配额」。  趋势信"
 resource: "https://x.com/i/status/2066696717475746203"
@@ -22,13 +22,6 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "claude-api-token-amplification"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2066696717475746203"
-created: "2026-06-16"
-updated: "2026-06-26"
-sha256: "25b4720c643562685536d492ced7f35b10093a5d42215c8d7ff9712c932a2f3a"
-sources:
-  - "/sources/highlights/2026-06-16/00__xiaohu__anthropic-给订阅额度划清单-agent-sdk-非交互模式-github-actions-才是-被允许的零花钱.md"
 ---
 
 # Anthropic 给订阅额度划清单：Agent SDK、非交互模式、GitHub Actions 才是「被允许的零花钱」

@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "微信读书正在成为Agent的知识记忆基础设施"
 description: "**[微信读书 Skill 揭示 Agent 知识管理新路径]**  - Agent 可以把微信读书当作可查询的向量数据库，基于真实阅读记录做兴趣推荐而非关键词匹配，且会判断用户是否真的会对某本书感兴趣 - 「连接纸书」功能打通了纸质书与数字阅读的数据割裂，形成完整的阅读知识图谱 - 这是知识管理从「收藏夹囤积」到「Agent 可消费的知识资产」的关键转折  gakki：微信读书如果开放 API "
 resource: "https://x.com/i/status/2055903704600252788"
@@ -22,13 +22,6 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "personal-knowledge-management-ai"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2055903704600252788"
-created: "2026-05-17"
-updated: "2026-06-26"
-sha256: "19967ee4d5ca6b49160b2f47aaac090cf060600d957311ec18aaeace1b6a8e1a"
-sources:
-  - "/sources/news/2026-05-17/00__oran_ge__微信读书正在成为agent的知识记忆基础设施.md"
 ---
 
 # 微信读书正在成为Agent的知识记忆基础设施

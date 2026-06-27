@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Claude Code 源码架构深度解析第二版 PDF"
 description: "**[这份 PDF 是目前最完整的 Claude Code 架构揭秘，适合想理解 Agent 内部运作原理的开发者]**  • 覆盖 Claude Code 的设计决策、内部架构逻辑。 • PDF 格式，便于深度阅读和标注。  📌 适合人群：正在构建自研 Agent 框架、或需要深度调试 Claude Code 的工程师。"
 resource: "https://x.com/i/status/2039691053738115577"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2039691053738115577"
-created: "2026-04-02"
-updated: "2026-06-26"
-sha256: "baaaa670e36ba081fc9e401f3c3d7b20a25b6dd79ff12865a25042be3f69ab2b"
-sources:
-  - "/sources/news/2026-04-02/00__qloog__claude-code-源码架构深度解析第二版-pdf.md"
 ---
 
 # Claude Code 源码架构深度解析第二版 PDF

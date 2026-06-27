@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "CLOB 不适合 RWA：DeFi 基础设施的结构性缺陷正在暴露"
 description: "**传统订单簿机制不适合现实世界资产代币化，DeFi 基础设施需要根本性重构。**  - CLOB（中央限价订单簿）是加密市场的标准机制，但对 RWA 存在结构性缺陷 - 这直接关系到 Agent 经济自主权中的交易基础设施选择 - 如果 CLOB 不适合 RWA，Agent 在链上执行现实资产交易时需要全新的撮合范式  锐评：当大家都在讨论 Agent 怎么交易时，交易基础设施本身还在用上世纪的"
 resource: "https://x.com/variational_io/status/2049857522358464823"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "ai-trend-digest"
-type_okf: "X Tweet"
-source_url: "https://x.com/variational_io/status/2049857522358464823"
-created: "2026-04-30"
-updated: "2026-06-26"
-sha256: "917fffa9ab7fc2efc698ba35f23f5f146389976ff348870ca485d9592d3d0bd1"
-sources:
-  - "/sources/news/2026-04-30/00__variational_io__clob-不适合-rwa-defi-基础设施的结构性缺陷正在暴露.md"
 ---
 
 # CLOB 不适合 RWA：DeFi 基础设施的结构性缺陷正在暴露

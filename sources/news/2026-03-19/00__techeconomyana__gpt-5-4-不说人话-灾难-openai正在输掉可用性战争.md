@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "GPT-5.4「不说人话」灾难：OpenAI正在输掉可用性战争"
 description: "**[模型能力提升与产品体验恶化的悖论]** • GPT-5.4输出「生理不适」级别的冗长晦涩，语言能力呈持续退化趋势 • ChatGPT用户体验下滑与竞争对手关系不大，纯属OpenAI产品决策失误 • 警示信号：B端市场扩张无法弥补C端产品体验的根基动摇  gakki锐评：当模型在benchmark上刷分却在对话中「不说人话」，OpenAI正在重复Google+的覆辙——技术领先不等于产品胜利。"
 resource: "https://x.com/i/status/2034230703089439184"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2034230703089439184"
-created: "2026-03-18"
-updated: "2026-06-26"
-sha256: "90fc61f7bdf69728213567a447aade2910131800d5c063a85aa112afd612e433"
-sources:
-  - "/sources/news/2026-03-19/00__techeconomyana__gpt-5-4-不说人话-灾难-openai正在输掉可用性战争.md"
 ---
 
 # GPT-5.4「不说人话」灾难：OpenAI正在输掉可用性战争

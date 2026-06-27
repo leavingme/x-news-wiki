@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Gemini Omni Flash视频编辑被评「无创作能力」：素材工具≠创作工具的分水岭已现"
 description: "**歸藏实测Gemini Omni Flash后给出明确判断：分镜编排与创作意识不如Sora 2，只能做素材编辑。**  这个评价触及了一个核心分野：能做素材拼接 ≠ 能创作叙事。当前视频生成模型的瓶颈不在画面质量，而在\"是否有导演意识\"。  SeeDance 2.0被隐含认可，暗示开源/垂直视频工具在特定维度已超越大厂通用模型。"
 resource: "https://x.com/i/status/2056766073714909196"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2056766073714909196"
-created: "2026-05-19"
-updated: "2026-06-26"
-sha256: "6dfb3910b26952a45392534bde4e1fa75dff389d3101e7448a180bf5e02eb39d"
-sources:
-  - "/sources/news/2026-05-19/00__op7418__gemini-omni-flash视频编辑被评-无创作能力-素材工具-创作工具的分水岭已现.md"
 ---
 
 # Gemini Omni Flash视频编辑被评「无创作能力」：素材工具≠创作工具的分水岭已现

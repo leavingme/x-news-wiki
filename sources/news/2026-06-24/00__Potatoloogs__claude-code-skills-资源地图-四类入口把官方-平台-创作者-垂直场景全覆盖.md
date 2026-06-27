@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Claude Code Skills 资源地图：四类入口把官方/平台/创作者/垂直场景全覆盖"
 description: "**[土豆本豆整理 Claude Code Skill 资源清单，四类分类法揭示 Skills 生态已从 prompt 包装演化为类似 npm 的包生态]**  - 第一类（官方/平台）：Anthropic 官方 12 个 Skills、skillsmp 收录 8w+、skills.market 超市、YouMind 内容创作、Figma 设计系统 - 第二类（社区精选）：claude-code-"
 resource: "https://x.com/i/status/2060251421900235162"
@@ -22,13 +22,6 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "agent-skill-usage-patterns"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2060251421900235162"
-created: "2026-05-29"
-updated: "2026-06-26"
-sha256: "5721dec140851be5b4914897bb4dbc77cc703c1fe6de6ac73deac9a31daea5f9"
-sources:
-  - "/sources/news/2026-06-24/00__Potatoloogs__claude-code-skills-资源地图-四类入口把官方-平台-创作者-垂直场景全覆盖.md"
 ---
 
 # Claude Code Skills 资源地图：四类入口把官方/平台/创作者/垂直场景全覆盖

@@ -1,24 +1,17 @@
 ---
-type: "entity"
+type: "Author"
 title: "CryptosRus (@CryptosR_Us)"
 description: "X/Twitter 作者 @CryptosR_Us。共收录 2 条 AI 精选推文。"
 tags:
   - "x-news"
   - "author"
   - "author:CryptosR_Us"
-timestamp: "2026-06-26T11:53:36.989Z"
+timestamp: "2026-06-27T08:40:40.202Z"
 x_handle: "CryptosR_Us"
 x_author_name: "CryptosRus"
 x_tweet_count: 2
 x_first_seen: "2026-04-26T06:18:14.706Z"
 x_last_seen: "2026-04-27T04:17:56.796Z"
-type_okf: "Author"
-created: "2026-04-26"
-updated: "2026-06-26"
-sha256: "3a36b95231bc2aaf7c2964b15454419494cd064efb05d11801992be9e5152b7b"
-sources:
-  - "/sources/news/2026-04-26/00__CryptosR_Us__solana-背书-aave-链上化-defi-头部玩家-站队-新秩序-协议协作正在替代竞争叙事.md"
-  - "/sources/news/2026-04-27/00__CryptosR_Us__越南1亿人口加密市场-上岸-2200亿美元年交易量倒逼监管入场.md"
 ---
 
 # CryptosRus (@CryptosR_Us)

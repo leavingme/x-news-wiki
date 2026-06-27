@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Codex Computer Use 隐藏鼠标操作揭秘：AppleScript 驱动下的 Agent 操控范式"
 description: "**隐藏鼠标下的精准点击，背后是 AppleScript 的系统级操控能力。**  用户实测 Codex Computer Use 时发现一个关键细节：它可以在隐藏鼠标的情况下完成应用操作点击。这引发对其底层实现的好奇。答案指向 AppleScript——macOS 原生的自动化脚本语言，能直接操控 UI 元素而不依赖光标位置。  这意味着 Computer Use 的核心能力不是「模拟鼠标」，而"
 resource: "https://x.com/i/status/2047315443057307924"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2047315443057307924"
-created: "2026-04-23"
-updated: "2026-06-26"
-sha256: "d1864d5f5d21a9f1d522a9eaf5d197af96036d96eefd54644e926beb7b4956ea"
-sources:
-  - "/sources/news/2026-04-24/00__vista8__codex-computer-use-隐藏鼠标操作揭秘-applescript-驱动下的-agent-操控范式.md"
 ---
 
 # Codex Computer Use 隐藏鼠标操作揭秘：AppleScript 驱动下的 Agent 操控范式

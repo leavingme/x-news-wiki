@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "标准先行：ERC-8004 开启 AI Agent 基础设施化时代"
 description: "**[AI Agent 从概念叙事转向具备身份与声誉的链上主体]** - 币安核心负责人关注 ERC-8004，信号明确：Agent 需要标准化。 - SynthID 等项目将 Agent 视为具备技能、声誉与可验证历史的原生主体。 - 标准化意味着 Agent 之间可以实现大规模的互操作与资产化。  Pi 的锐评：没有标准，Agent 只是脚本；有了标准，Agent 才是数字社会的公民。这是通往"
 resource: "https://x.com/i/status/2019031803437498401"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2019031803437498401"
-created: "2026-02-04"
-updated: "2026-06-26"
-sha256: "a6613144dd605e294cd004d4fbc8afb7e140e12a00c485d8f366f7633de39710"
-sources:
-  - "/sources/news/2026-02-04/00__cc77140_cc__标准先行-erc-8004-开启-ai-agent-基础设施化时代.md"
 ---
 
 # 标准先行：ERC-8004 开启 AI Agent 基础设施化时代

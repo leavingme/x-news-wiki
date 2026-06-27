@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "玉伯反极客宣言：Agent时代要「WIMP化」不要「DOS化」"
 description: "**[files-based不是最优解，Agent喜欢现代人喜欢的]** • 极客工具（Markdown/GitHub/files-based）用户基数远小于普通用户，Agent设计应面向现代人而非DOS极客 • DOS当年无所不能，但在WIMP（窗口/图标/菜单/指针）面前沦为非遗用法 • 随着大模型提升，AI会越来越懂现代人，极客范式只是过渡态  **gakki锐评：** 这是对产品路径的清醒"
 resource: "https://x.com/i/status/2033903892430536883"
@@ -22,13 +22,6 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "agent-native-paradigm"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2033903892430536883"
-created: "2026-03-17"
-updated: "2026-06-26"
-sha256: "9f218dfe14ac9cab87e250dab0797b3721e639f66eee70fda681055645935bef"
-sources:
-  - "/sources/highlights/2026-03-18/00__lifesinger__玉伯反极客宣言-agent时代要-wimp化-不要-dos化.md"
 ---
 
 # 玉伯反极客宣言：Agent时代要「WIMP化」不要「DOS化」

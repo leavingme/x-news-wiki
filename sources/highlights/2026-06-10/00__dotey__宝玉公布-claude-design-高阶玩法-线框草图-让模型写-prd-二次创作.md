@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "宝玉公布 Claude Design 高阶玩法：线框草图 → 让模型写 PRD → 二次创作"
 description: "**宝玉给出 Claude Design 的「两阶段工作流」，把 PRD 当作可迭代的中间产物。**  - 第一步：用线框草图（低进度）先确定布局和交互，反复调整直到满意 - 第二步：让 Claude Design 基于已有设计自己写一份详细 PRD——「它写文档的水平很高，比在 Design 上调整方便多了」 - 第三步：人工补充 PRD 内容，再作为附件发给 Claude Design 做高精"
 resource: "https://x.com/i/status/2064723728680825318"
@@ -22,13 +22,6 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "claude-design-tool"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2064723728680825318"
-created: "2026-06-10"
-updated: "2026-06-26"
-sha256: "fd8639c78354b4b89fc70613fe678fc9bf88ee37026df8441f273381a90c2e66"
-sources:
-  - "/sources/highlights/2026-06-10/00__dotey__宝玉公布-claude-design-高阶玩法-线框草图-让模型写-prd-二次创作.md"
 ---
 
 # 宝玉公布 Claude Design 高阶玩法：线框草图 → 让模型写 PRD → 二次创作

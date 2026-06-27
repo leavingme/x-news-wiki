@@ -1,23 +1,17 @@
 ---
-type: "entity"
+type: "Author"
 title: "哥飞 (@gefei55)"
 description: "X/Twitter 作者 @gefei55。共收录 1 条 AI 精选推文。"
 tags:
   - "x-news"
   - "author"
   - "author:gefei55"
-timestamp: "2026-06-26T11:53:36.962Z"
+timestamp: "2026-06-27T08:40:40.170Z"
 x_handle: "gefei55"
 x_author_name: "哥飞"
 x_tweet_count: 1
 x_first_seen: "2026-03-18T00:42:49.139Z"
 x_last_seen: "2026-03-18T00:42:49.139Z"
-type_okf: "Author"
-created: "2026-03-18"
-updated: "2026-06-26"
-sha256: "ab348bd239699e42caaeeabe20198f0ad270454a984846f579199a8deab77963"
-sources:
-  - "/sources/highlights/2026-03-18/00__gefei55__vibe-coding颠覆企业开发-业务人员正在夺回工具定义权.md"
 ---
 
 # 哥飞 (@gefei55)

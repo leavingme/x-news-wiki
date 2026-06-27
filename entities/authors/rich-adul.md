@@ -1,23 +1,17 @@
 ---
-type: "entity"
+type: "Author"
 title: "Adul (@rich_adul)"
 description: "X/Twitter 作者 @rich_adul。共收录 1 条 AI 精选推文。"
 tags:
   - "x-news"
   - "author"
   - "author:rich_adul"
-timestamp: "2026-06-26T11:53:36.962Z"
+timestamp: "2026-06-27T08:40:40.171Z"
 x_handle: "rich_adul"
 x_author_name: "Adul"
 x_tweet_count: 1
 x_first_seen: "2026-03-18T16:28:00.980Z"
 x_last_seen: "2026-03-18T16:28:00.980Z"
-type_okf: "Author"
-created: "2026-03-18"
-updated: "2026-06-26"
-sha256: "7f0358a39b7492cdd8530788a22344a2823b75374971de2005c43d9019bb4268"
-sources:
-  - "/sources/news/2026-03-18/00__rich_adul__24岁基金经理解密55亿管理规模-all-in-ai电力基础设施-做空it外包.md"
 ---
 
 # Adul (@rich_adul)

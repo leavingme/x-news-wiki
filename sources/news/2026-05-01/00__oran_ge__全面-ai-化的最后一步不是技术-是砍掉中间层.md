@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "全面 AI 化的最后一步不是技术，是砍掉中间层"
 description: "**当 AI 工具链已经就位，组织结构本身成了瓶颈。**  - 对话中指出企业距离全面 AI 化只差「干掉中层」这一步，暗示技术就绪度已高于组织就绪度 - 这与 Sequoia 等顶级 VC 近期反复强调的「AI 替代层级管理」判断高度一致  gakki 锐评：中层管理的价值本就建立在信息差和协调成本之上，AI 正在同时瓦解这两根支柱。但「干掉」是个危险的简化——真正的问题是中层必须从「传话筒」转"
 resource: "https://x.com/i/status/2050010240578723994"
@@ -22,13 +22,6 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "中层管理ai替代"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2050010240578723994"
-created: "2026-05-01"
-updated: "2026-06-26"
-sha256: "030c0c696482c345532b9779f0323afb67a8c0f6669946da20a84363431aace9"
-sources:
-  - "/sources/news/2026-05-01/00__oran_ge__全面-ai-化的最后一步不是技术-是砍掉中间层.md"
 ---
 
 # 全面 AI 化的最后一步不是技术，是砍掉中间层

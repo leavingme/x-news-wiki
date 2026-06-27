@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "OpenAI 联手高通造 AI 手机：App 格子被 Agent 工作流颠覆，2028 年量产重演 iPhone 时刻"
 description: "**OpenAI 正与高通合作研发 AI 原生手机，目标 2028 年大规模量产。核心逻辑：用本地 AI 处理上下文理解，云端 AI 承担重型计算，彻底取代 App 网格为 Agent 驱动的任务流。**  要点： - 竞品直指 iPhone，差异化在于交互范式而非硬件 - On-device AI + Cloud AI 分层架构首次被手机厂商作为核心卖点 - 这意味着用户意图理解从「找 App」"
 resource: "https://x.com/StockSavvyShay/status/2048734111020544052"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "ai-trend-digest"
-type_okf: "X Tweet"
-source_url: "https://x.com/StockSavvyShay/status/2048734111020544052"
-created: "2026-04-27"
-updated: "2026-06-26"
-sha256: "17d4f261702099d021b88bbc13fdf91cb146f731d7e2cb4994548a46326613b3"
-sources:
-  - "/sources/news/2026-04-27/00__StockSavvyShay__openai-联手高通造-ai-手机-app-格子被-agent-工作流颠覆-2028-年量产重演-iphone-时刻.md"
 ---
 
 # OpenAI 联手高通造 AI 手机：App 格子被 Agent 工作流颠覆，2028 年量产重演 iPhone 时刻

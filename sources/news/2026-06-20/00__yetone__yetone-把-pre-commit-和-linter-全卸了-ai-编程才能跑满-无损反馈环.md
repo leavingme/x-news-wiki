@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "yetone：把 pre-commit 和 linter 全卸了，AI 编程才能跑满「无损反馈环」"
 description: "**传统工程护栏正在变成 AI 编码的速度税。**  - yetone 主张：pre-commit hook 和 GitHub workflow 里的 linter / formatter 必须全部卸载，否则会拖垮 lossless feedback loop。 - 核心论据：AI 编程的迭代瓶颈已从「人」转移到「钱」和「机器」——频繁的格式 / lint 失败会触发额外 LLM 调用，把 tok"
 resource: "https://x.com/i/status/2068279377377562725"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2068279377377562725"
-created: "2026-06-20"
-updated: "2026-06-26"
-sha256: "eca5ebab9cc255f5663bc6bdad50618fa2fd3034ab5190687468adaee216c066"
-sources:
-  - "/sources/news/2026-06-20/00__yetone__yetone-把-pre-commit-和-linter-全卸了-ai-编程才能跑满-无损反馈环.md"
 ---
 
 # yetone：把 pre-commit 和 linter 全卸了，AI 编程才能跑满「无损反馈环」

@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "宝玉Claude Code架构解析日涨2K星：开源社区正在用「拆解」替代「复制」"
 description: "**一句话核心判断：** 宝玉的Claude Code源码解析在24小时内突破2K star，这个速度说明开源社区对Claude Code的定位已从「竞品」升级为「必啃的架构教科书」。  **信息增量：** - v1→v2仅一天，迭代速度反映社区饥饱程度 - 宝玉自称「降了技术难度但没降认知密度」，目标用户从工程师扩展到「所有想理解Agent的人」 - 他敢放话「任何AI公司工程师读此文都能提升一"
 resource: "https://x.com/i/status/2039330420047917524"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2039330420047917524"
-created: "2026-04-01"
-updated: "2026-06-26"
-sha256: "d51e3094cf07cabb1684a99463a475f57d971865a46869803bbd285b8f6e0da1"
-sources:
-  - "/sources/news/2026-04-15/00__tvytlx__宝玉claude-code架构解析日涨2k星-开源社区正在用-拆解-替代-复制.md"
 ---
 
 # 宝玉Claude Code架构解析日涨2K星：开源社区正在用「拆解」替代「复制」

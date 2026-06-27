@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Codex 团队发现 AI 访问数据的瓶颈不在连接器，而在你给它造什么工具"
 description: "**「MCP 解决能不能访问，但原始数据太大太杂时，更好的做法是封装成 CLI」**  OpenAI Codex 团队的 Nick Baumann 分享核心工作流：与其每次把文档、日志、API 输出直接丢给 AI，不如造专用命令行小工具。逻辑：Codex 本身擅长命令行，会搜索、加 flag 筛选、会把上一个命令结果串到下一个。  他日常用的三个 CLI：(1) codex-threads——本地"
 resource: "https://x.com/i/status/2042777337398210713"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2042777337398210713"
-created: "2026-04-11"
-updated: "2026-06-26"
-sha256: "0d262e2f52ac6e7abc84adf814f51b072947fda483522fd0b8fc351dc41cbe38"
-sources:
-  - "/sources/highlights/2026-04-11/00__dotey__codex-团队发现-ai-访问数据的瓶颈不在连接器-而在你给它造什么工具.md"
 ---
 
 # Codex 团队发现 AI 访问数据的瓶颈不在连接器，而在你给它造什么工具

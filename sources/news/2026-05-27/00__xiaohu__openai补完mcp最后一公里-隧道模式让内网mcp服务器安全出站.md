@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "OpenAI补完MCP最后一公里：隧道模式让内网MCP服务器安全出站"
 description: "**OpenAI推出Secure MCP Tunnel，通过「反过来」的思路解决企业内网MCP调用难题。**  核心逻辑：不在防火墙开口子，而是让内网的tunnel-client主动拉出一条加密HTTPS出站通道，ChatGPT/Codex的请求经由OpenAI隧道入口转发给内网MCP服务器，结果沿原路返回。  信息增量：此前MCP协议解决了「LLM怎么调用工具」，但从未解决「怎么调用公司不愿公开"
 resource: "https://x.com/i/status/2059708948085932386"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2059708948085932386"
-created: "2026-05-27"
-updated: "2026-06-26"
-sha256: "1b7b6ef1daf4026fd4299e84d09cf168b48bcbb0f762409ba5a1def012ea1cd5"
-sources:
-  - "/sources/news/2026-05-27/00__xiaohu__openai补完mcp最后一公里-隧道模式让内网mcp服务器安全出站.md"
 ---
 
 # OpenAI补完MCP最后一公里：隧道模式让内网MCP服务器安全出站

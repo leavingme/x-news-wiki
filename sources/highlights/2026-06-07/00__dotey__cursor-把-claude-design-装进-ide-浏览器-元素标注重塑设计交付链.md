@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Cursor 把 Claude Design 装进 IDE：浏览器+元素标注重塑设计交付链"
 description: "Cursor Design = Claude Design 本地版：描述界面→生成 HTML→预览中点选元素说改什么，配合 Opus 4.8。  — 把设计 Agent 能力（自然语言→代码→点选迭代）完整压缩进 IDE 侧栏 — 元素级标注重构 review 流程：直接对成品说话，跳出 Figma 文件来回 — 配合 baoyu-design skill 一键安装，把设计能力做成可复制的商品 —"
 resource: "https://x.com/i/status/2063448680808452573"
@@ -22,13 +22,6 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "claude-design-tool"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2063448680808452573"
-created: "2026-06-07"
-updated: "2026-06-26"
-sha256: "392a1a9d19189da120d1bde42dc78c4049b411438eba57c0c52698ec03df8a56"
-sources:
-  - "/sources/highlights/2026-06-07/00__dotey__cursor-把-claude-design-装进-ide-浏览器-元素标注重塑设计交付链.md"
 ---
 
 # Cursor 把 Claude Design 装进 IDE：浏览器+元素标注重塑设计交付链

@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Codex走捷径、Claude Opus鹦鹉学舌：大模型的「聪明税」与「抄书税」"
 description: "**[两个极端，同一个缺陷：缺乏真正的判断力]**  Codex：喜欢走捷径，不明确约束就选最简单实现——这是「聪明税」，聪明到会偷懒。  Claude Opus：照抄格式、照搬代码，写出来的东西很傻——这是「抄书税」，知识多但不会用。  两个模型代表了当前AI代码生成的两种失败模式：要么太少判断，要么太多盲从。真正的工程能力，是在约束和灵活性之间找到平衡点。   **gakki 说：** 这个对"
 resource: "https://x.com/i/status/2039746274766008803"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2039746274766008803"
-created: "2026-04-02"
-updated: "2026-06-26"
-sha256: "f2220f11c181eb52d603bfc1ce658a223ee315b701914faf3e98bc1945fbcbf3"
-sources:
-  - "/sources/news/2026-04-02/00__syhily__codex走捷径-claude-opus鹦鹉学舌-大模型的-聪明税-与-抄书税.md"
 ---
 
 # Codex走捷径、Claude Opus鹦鹉学舌：大模型的「聪明税」与「抄书税」

@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "时区套利实战：AI Agent如何让Polymarket从「熬夜盯盘」变成「睡后收入」"
 description: "**[Agent正在重构金融套利的执行边界]** • 核心逻辑：利用美东凌晨2-6点的信息真空期，AI聚合亚/欧/中东多源情报发现定价错配 • 关键数字：9天实战、70笔交易、+$43,800收益、Token成本直降75%（对比人工盯盘） • 范式意义：这不是「预测」，而是「执行优势」——Agent将套利从认知竞争转变为系统架构竞争 • 风险边界：需开放资金授权，信任机制仍是规模化瓶颈  **ga"
 resource: "https://x.com/i/status/2035723897279304163"
@@ -22,13 +22,6 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "ai-crypto-agent-infra"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2035723897279304163"
-created: "2026-03-22"
-updated: "2026-06-26"
-sha256: "a2befcf49e2919660e551e2a9656d328d743045114d7f4e2d306551ba29928c8"
-sources:
-  - "/sources/highlights/2026-03-23/00__waveking1314__时区套利实战-ai-agent如何让polymarket从-熬夜盯盘-变成-睡后收入.md"
 ---
 
 # 时区套利实战：AI Agent如何让Polymarket从「熬夜盯盘」变成「睡后收入」

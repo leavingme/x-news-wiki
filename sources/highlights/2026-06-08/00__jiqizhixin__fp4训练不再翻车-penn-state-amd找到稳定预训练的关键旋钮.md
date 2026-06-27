@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "FP4训练不再翻车：Penn State+AMD找到稳定预训练的关键旋钮"
 description: "**原生 FP4硬件训练 LLM长期翻车的根因被定位——问题不在前向/激活梯度，而在权重梯度的量化处理，确定性 Hadamard旋转稳定一切。**  - Penn State 与 AMD联合攻关，证明权重梯度量化才是发散主因 -随机 tricks全部失效，确定性 Hadamard旋转让 Llama3.1-8B 在 C4 上稳定完成预训练 -硬件采用 AMD MI355X，验证非 NVIDIA路径同"
 resource: "https://x.com/i/status/2063817792772592004"
@@ -22,13 +22,6 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "ai-training-cost-collapse"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2063817792772592004"
-created: "2026-06-08"
-updated: "2026-06-26"
-sha256: "a73af537f1a6b0ba543bce6c1655c302f21ca60a1e54219062430eda50439ebc"
-sources:
-  - "/sources/highlights/2026-06-08/00__jiqizhixin__fp4训练不再翻车-penn-state-amd找到稳定预训练的关键旋钮.md"
 ---
 
 # FP4训练不再翻车：Penn State+AMD找到稳定预训练的关键旋钮

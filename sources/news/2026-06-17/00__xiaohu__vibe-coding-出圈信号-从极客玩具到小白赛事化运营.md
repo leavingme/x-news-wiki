@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Vibe Coding 出圈信号：从极客玩具到小白赛事化运营"
 description: "**Vibe Coding 已开始赛事化下沉，不再是极客专属。**  工具门槛降低到普通人能上手的产品化阶段，出现不像黑客马拉松那种高门槛、小白都能参加的专门赛事，是 AI Coding 大众化的新标志。  意味着 Vibe Coding 从早期采纳者圈层向主流扩散，与此前普通人零基础能交付的趋势形成共振，验证\"工具成熟→赛事化→大众化\"的扩散链条。  gakki 锐评：赛事化 ≠ 能力化——小白"
 resource: "https://x.com/i/status/2067140186690167238"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2067140186690167238"
-created: "2026-06-17"
-updated: "2026-06-26"
-sha256: "3b966690af89b0d8f4276dc2e0725ccb4d5d561fdbf8d74ce27d1b096d87f460"
-sources:
-  - "/sources/news/2026-06-17/00__xiaohu__vibe-coding-出圈信号-从极客玩具到小白赛事化运营.md"
 ---
 
 # Vibe Coding 出圈信号：从极客玩具到小白赛事化运营

@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Polymarket 拟重返美国寻求新融资，估值剑指 100 亿美元——预测市场正式进入主流资本视野"
 description: "**[加密预测市场从边缘工具跃升为主流金融叙事]**  Polymarket 计划重返美国并寻求新融资，估值据悉将达到 100 亿美元。这是预测市场平台有史以来最高的估值预期，叠加此前已建立的 98.7% 信息识别准确率（RecallNet 合作数据），意味着预测市场不再只是 crypto 圈内的投机工具，而是正在成为「链上事件真相发现机制」的核心载体。  DAO 治理工具（Almanak 提升 "
 resource: "https://x.com/i/status/1966660687553556895"
@@ -22,13 +22,6 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "prediction-market-compliance"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/1966660687553556895"
-created: "2025-09-13"
-updated: "2026-06-26"
-sha256: "2d600127ce836cdfc7d19eed3378dd95de78c50a6782ff4581f84c1f8c7ed3fc"
-sources:
-  - "/sources/highlights/2026-04-14/00__hassanyehiaa__polymarket-拟重返美国寻求新融资-估值剑指-100-亿美元-预测市场正式进入主流资本视野.md"
 ---
 
 # Polymarket 拟重返美国寻求新融资，估值剑指 100 亿美元——预测市场正式进入主流资本视野

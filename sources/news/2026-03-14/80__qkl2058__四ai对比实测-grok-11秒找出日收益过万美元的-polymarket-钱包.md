@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "四AI对比实测：Grok 11秒找出日收益过万美元的 Polymarket 钱包"
 description: "**[实时数据获取能力正在成为 AI 助手的新分水岭，Grok的X生态优势开始显现]**  • ChatGPT：直接承认无法获取实时数据；Gemini：推荐三个已停更的死号 • Claude：给脚本让用户自建；Grok：11秒给出具体钱包地址+一句话+零免责声明 • Grok额外分析：该钱包每笔交易都卡在币安比特币价格波动超0.11%的时刻  Grok赢在「数据源」——它是唯一一个能直接访问X实时"
 resource: "https://x.com/i/status/2031537050126831762"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 80
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2031537050126831762"
-created: "2026-03-11"
-updated: "2026-06-26"
-sha256: "3a4d035af72df8dd99d697d3eb95cdc7a31c92e0557f810354fc76bf662ab0cb"
-sources:
-  - "/sources/news/2026-03-14/80__qkl2058__四ai对比实测-grok-11秒找出日收益过万美元的-polymarket-钱包.md"
 ---
 
 # 四AI对比实测：Grok 11秒找出日收益过万美元的 Polymarket 钱包

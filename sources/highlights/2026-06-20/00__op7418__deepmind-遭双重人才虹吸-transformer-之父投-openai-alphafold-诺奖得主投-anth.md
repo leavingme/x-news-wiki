@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "DeepMind 遭双重人才虹吸：Transformer 之父投 OpenAI，AlphaFold 诺奖得主投 Anthropic"
 description: "[DeepMind 正在被 OpenAI 与 Anthropic 从根基上拆解]  - John Jumper（AlphaFold 核心、2024 诺奖得主）从 DeepMind 转投 Anthropic - 此前 Noam Shazeer（Transformer/MoE 共同作者）已重返 OpenAI - 两人都是「架构级」人物而非普通明星研究员，是 DeepMind 真正伤筋动骨的流失  锐评"
 resource: "https://x.com/i/status/2068190452554281412"
@@ -22,13 +22,6 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "ai-talent-flight"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2068190452554281412"
-created: "2026-06-20"
-updated: "2026-06-26"
-sha256: "a801b2b1e526266f74619a06de02c73fa297f2c3c42a3ca66d63ef8c5b4baab4"
-sources:
-  - "/sources/highlights/2026-06-20/00__op7418__deepmind-遭双重人才虹吸-transformer-之父投-openai-alphafold-诺奖得主投-anth.md"
 ---
 
 # DeepMind 遭双重人才虹吸：Transformer 之父投 OpenAI，AlphaFold 诺奖得主投 Anthropic

@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "飞书官方「贴膜」OpenClaw：企业级Agent入口的「零摩擦」战争开打"
 description: "**【大厂开始为Agent部署体验「兜底」】** • 飞书官方发布OpenClaw插件，安装流程简化为「一行命令+扫码授权」，彻底消除自建机器人的配置门槛 • 这标志着企业协作平台开始将「Agent接入能力」作为原生基础设施提供，而非第三方hack • 对于企业用户而言，Agent入口的「平台化」意味着：未来选择Agent工具的首要因素将是「与现有工作流的整合深度」而非单一功能强弱  **gakk"
 resource: "https://x.com/i/status/2034543166767128646"
@@ -22,13 +22,6 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "agent-deployment-service"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2034543166767128646"
-created: "2026-03-19"
-updated: "2026-06-26"
-sha256: "4796096cf3134457cac006caf95d202e99f0f4590fbdbfaead026f2896fbc58e"
-sources:
-  - "/sources/news/2026-03-19/00__vista8__飞书官方-贴膜-openclaw-企业级agent入口的-零摩擦-战争开打.md"
 ---
 
 # 飞书官方「贴膜」OpenClaw：企业级Agent入口的「零摩擦」战争开打

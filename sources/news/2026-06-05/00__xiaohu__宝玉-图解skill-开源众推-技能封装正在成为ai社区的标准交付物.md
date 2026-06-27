@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "宝玉《图解Skill》开源众推：技能封装正在成为AI社区的标准交付物"
 description: "**[SKILL.md从工具到商品的第一步]**  宝玉发布新书《图解Skill》，以图解形式系统化SKILL.md的写作方法论，并通过送书+Skill分享的形式在社区传播。核心信号：Skills正在从个人工作流沉淀进化为可复制、可传播的社区公共品。  - 信息增量：方法论系统性输出，降低入门门槛 - 影响范围：图解形式利于传播，预计将加速SKILL.md生态的圈层扩张 - 边界限定：目前传播集中"
 resource: "https://x.com/i/status/2062785253442543704"
@@ -22,13 +22,6 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "skills-ecosystem-standards"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2062785253442543704"
-created: "2026-06-05"
-updated: "2026-06-26"
-sha256: "bbaa4afde80253d45954f58f34ca98db25c07d4e7fd468b7edde565120cc0f61"
-sources:
-  - "/sources/news/2026-06-05/00__xiaohu__宝玉-图解skill-开源众推-技能封装正在成为ai社区的标准交付物.md"
 ---
 
 # 宝玉《图解Skill》开源众推：技能封装正在成为AI社区的标准交付物

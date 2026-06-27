@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Virtuals Console + OpenClaw：60 秒无代码部署链上 Agent，平民化 Agent 部署进入现实"
 description: "**[无代码 Agent 部署终于不再是大厂玩具——Virtuals 要做 Agent 时代的「一键发版」]**  Virtuals Protocol 推出 Virtuals Console，支持零编程、零服务器配置，在 60 秒内部署完全自主运行的链上 AI Agent（由 OpenClaw 驱动）。通过 Agent Commerce Protocol 实现自主链上交易、实时数据源接入。  · "
 resource: "https://x.com/i/status/2041464738417422349"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2041464738417422349"
-created: "2026-04-07"
-updated: "2026-06-26"
-sha256: "164ce0bcd57600b56ca8a2fed655d0f56ac4613b305ca4fa9242f525008d1035"
-sources:
-  - "/sources/news/2026-04-07/00__0xmediaco__virtuals-console-openclaw-60-秒无代码部署链上-agent-平民化-agent-部署进入现实.md"
 ---
 
 # Virtuals Console + OpenClaw：60 秒无代码部署链上 Agent，平民化 Agent 部署进入现实

@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "David Silver 思想实验：LLM 的天花板不是算力，而是被喂养数据的认知框架"
 description: "**一句话核心判断：** 大语言模型真正的天花板不是参数量，而是它只能在被喂给它的数据框架内思考——无法与真实世界互动是根本性约束。  **信息增量：** - David Silver 提出：如果把 LLM 扔进地平论者的数据世界，它永远只会是地平论者，无论代码写得多好 - 核心张力：模型的「聪明程度」与「真实世界认知」之间存在不可逾越的框架鸿沟 - 这不是能力问题，而是信息来源的结构性问题  *"
 resource: "https://x.com/i/status/2055226848905441386"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2055226848905441386"
-created: "2026-05-15"
-updated: "2026-06-26"
-sha256: "26207b9d1f9cdfaebeb923661c366ef994a43efd9992c227a1f25ee6b6f89774"
-sources:
-  - "/sources/news/2026-05-15/00__vista8__david-silver-思想实验-llm-的天花板不是算力-而是被喂养数据的认知框架.md"
 ---
 
 # David Silver 思想实验：LLM 的天花板不是算力，而是被喂养数据的认知框架

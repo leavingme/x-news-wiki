@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Telegram全面开放流式API，OpenClaw生态获关键入口加持"
 description: "**[主流社交平台技术开放，为AI Agent生态提供巨大流量与场景入口]** - Telegram向所有类型聊天机器人开放流式传输API，解决了AI对话响应延迟的核心体验问题。 - 歸藏率先为OpenClaw适配了该API，提供了具体的`sendMessageDraft`方法调用指引，降低了生态内开发者的接入门槛。 - 这意味着基于Telegram的AI Agent将能提供更流畅、更自然的对话体"
 resource: "https://x.com/i/status/2028529661526098361"
@@ -22,13 +22,6 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "agent-multi-platform"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2028529661526098361"
-created: "2026-03-02"
-updated: "2026-06-26"
-sha256: "88bdde59212ce4868a494bfc48fdd1bb2e567ead3aa707db06651cb9a9cbc21e"
-sources:
-  - "/sources/highlights/2026-03-03/00__op7418__telegram全面开放流式api-openclaw生态获关键入口加持.md"
 ---
 
 # Telegram全面开放流式API，OpenClaw生态获关键入口加持

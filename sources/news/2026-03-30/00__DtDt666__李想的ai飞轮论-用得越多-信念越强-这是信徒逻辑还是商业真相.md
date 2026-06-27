@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "李想的AI飞轮论：用得越多，信念越强，这是信徒逻辑还是商业真相？"
 description: "[「AI信念经济学」正在形成，但它可能是一把双刃剑]  李想说Claude Code让他「没什么事情是做不了的」，形成了「用的越多→信念越强→用的越多」的正向飞轮。理想状态下这个逻辑成立，但有一个边界：信念飞轮依赖的是「每次解决新问题」的正反馈，一旦连续遇到AI的透明天花板（上下文窗口、幻觉、工具调用失败），飞轮会反向转动，信念崩溃得比建立更快。  李想把世界分为「用AI和不用AI」「用Claud"
 resource: "https://x.com/i/status/2038274355919294754"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2038274355919294754"
-created: "2026-03-29"
-updated: "2026-06-26"
-sha256: "4ace0e00ab11411e6e652292ff3b488a82939db53b944ae2b83f16dc17b2b661"
-sources:
-  - "/sources/news/2026-03-30/00__DtDt666__李想的ai飞轮论-用得越多-信念越强-这是信徒逻辑还是商业真相.md"
 ---
 
 # 李想的AI飞轮论：用得越多，信念越强，这是信徒逻辑还是商业真相？

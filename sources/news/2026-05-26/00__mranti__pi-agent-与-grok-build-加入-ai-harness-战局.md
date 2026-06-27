@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "pi agent 与 Grok Build 加入 AI harness 战局"
 description: "Michael Anti 今日了解到两个新的 AI harness 工具：pi agent 和 Grok build，询问与 Claude Code 和 Codex 相比体验如何。  **信息增量：** pi agent（可能指 Browser Use 系的开源 Agent 框架）和 Grok Build（xAI 新发布）正在形成第三极，harness 生态不再只有 Claude Code/Cod"
 resource: "https://x.com/i/status/2059210676300927001"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2059210676300927001"
-created: "2026-05-26"
-updated: "2026-06-26"
-sha256: "e571a2c14cd821dfe58d3b86430960de2554c5d9a8cba86d2f4405d37ae90b6b"
-sources:
-  - "/sources/news/2026-05-26/00__mranti__pi-agent-与-grok-build-加入-ai-harness-战局.md"
 ---
 
 # pi agent 与 Grok Build 加入 AI harness 战局

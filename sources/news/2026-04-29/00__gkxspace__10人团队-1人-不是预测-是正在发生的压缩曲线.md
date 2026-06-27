@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "「10人团队→1人」不是预测，是正在发生的压缩曲线"
 description: "**[AI替代正在从边缘岗位向核心岗位收敛]**  余温在回应中提出：技术迭代速度意味着一个项目团队从10人压缩到5人的周期可能是六个月，之后可能进一步压缩到1人，最终完全不需要人做重复性工作。这不是悲观预言，而是基于当前 AI 编程工具能力提升速度的线性外推。  **信息增量：** - 「团队压缩曲线」比「岗位替代」更精确：替代是岗位维度，压缩是组织维度 - 1人的极限状态意味着「一人公司」的经"
 resource: "https://x.com/i/status/2049301288865718447"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2049301288865718447"
-created: "2026-04-29"
-updated: "2026-06-26"
-sha256: "f8f05eb561f30c59c77f65fe980558b48aea20cfad71bf934d7f52bb263484a3"
-sources:
-  - "/sources/news/2026-04-29/00__gkxspace__10人团队-1人-不是预测-是正在发生的压缩曲线.md"
 ---
 
 # 「10人团队→1人」不是预测，是正在发生的压缩曲线

@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "协作成本焦虑：Manus 版 Claude Cowork 面世引发价格战关注"
 description: "[核心逻辑] 协作式 Agent 进入工程落地红海，价格定位将决定其在企业组织的实际渗透率。 • Manus 版协作工具主打低延迟多人同步，旨在解决 Agent 协同的滞后痛点。 • 市场预判高客单价将成为协作型 Agent 大规模普及的最大门槛。 • 预示着 Agent 赛道正从“能力秀”转向“降本增效”的肉搏战阶段。  [gakki 的锐评] 工具越来越多，但我的钱包只有一个，坐等各大厂商开启"
 resource: "https://x.com/i/status/2023424105480179897"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2023424105480179897"
-created: "2026-02-16"
-updated: "2026-06-26"
-sha256: "2e5e888ebf7ec70fbe48454d1fefac60da57a1d01db2c874ae50ee4bfc618661"
-sources:
-  - "/sources/news/2026-02-17/00__dontbesilent12__协作成本焦虑-manus-版-claude-cowork-面世引发价格战关注.md"
 ---
 
 # 协作成本焦虑：Manus 版 Claude Cowork 面世引发价格战关注

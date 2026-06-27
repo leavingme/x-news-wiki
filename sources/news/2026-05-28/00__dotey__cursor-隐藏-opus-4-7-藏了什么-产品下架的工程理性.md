@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Cursor 隐藏 Opus 4.7 藏了什么：产品下架的工程理性"
 description: "**[Cursor 的版本博弈背后是模型能力与稳定性的取舍]**  Cursor 升级后默认隐藏 Opus 4.7，保留 Opus 4.6，这不是随意排序——反映了 Opus 4.7/4.8 在其工作流中存在未公开的稳定性或兼容性风险。产品经理选择「可见性操控」而非「直接降级」，意味着用户分层触达策略正在成为 AI 产品迭代的新范式。  对于 AI Coding 工具的深度用户，这条信息的增量在于"
 resource: "https://x.com/i/status/2060114618932928528"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2060114618932928528"
-created: "2026-05-28"
-updated: "2026-06-26"
-sha256: "9a00542404893732a8e31d47faec16ba271618e6fd900da96438da2f14f91394"
-sources:
-  - "/sources/news/2026-05-28/00__dotey__cursor-隐藏-opus-4-7-藏了什么-产品下架的工程理性.md"
 ---
 
 # Cursor 隐藏 Opus 4.7 藏了什么：产品下架的工程理性

@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Windows VPS 降低灰市门槛：非技术 AI 用户也能一键'出海'"
 description: "**[算力灰市正在向非技术用户下沉，'远程桌面出海'成为新标配]**  - 余温介绍：除住宅 IP VPS 外，Windows VPS 提供远程桌面方案，打开浏览器即海外环境 - 对不想折腾命令行的用户极其友好，相当于把'出海'封装成了一键操作 - 与 1/ 帖形成完整的灰市基建分层：硬核用户→住宅 IP，泛用户→Windows VPS   Gakki 锐评：当'出海'的门槛低到只要打开远程桌面，"
 resource: "https://x.com/i/status/2065063676097216532"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2065063676097216532"
-created: "2026-06-11"
-updated: "2026-06-26"
-sha256: "ac97ab0a5f6eb0260d32d478f9e01019486ab26b078e1635333fae33190c6a65"
-sources:
-  - "/sources/news/2026-06-11/00__gkxspace__windows-vps-降低灰市门槛-非技术-ai-用户也能一键-出海.md"
 ---
 
 # Windows VPS 降低灰市门槛：非技术 AI 用户也能一键'出海'

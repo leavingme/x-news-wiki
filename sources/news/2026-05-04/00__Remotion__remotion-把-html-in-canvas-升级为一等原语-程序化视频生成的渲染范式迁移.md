@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Remotion 把 HTML-in-Canvas 升级为一等原语：程序化视频生成的渲染范式迁移"
 description: "**HTML-in-Canvas 成为 Remotion 的一等公民，解锁此前不可能实现的视觉效果。**  - 对程序化内容生成管线的意义：DOM 表达力和 Canvas 画布能力的融合 - Agent 驱动的视频生成工具链正在从「纯 Canvas 渲染」向「混合渲染」演进 - 对 AI 内容工业化（AI 短剧、AI 营销素材）的基建层补充  gakki 锐评：当渲染引擎开始理解语义化的 HTML"
 resource: "https://x.com/Remotion/status/2051235642424631514"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "ai-trend-digest"
-type_okf: "X Tweet"
-source_url: "https://x.com/Remotion/status/2051235642424631514"
-created: "2026-05-04"
-updated: "2026-06-26"
-sha256: "13d946922a8a446c018c364971066ec2a89c5ab30e381521b7d8a7a9b1295942"
-sources:
-  - "/sources/news/2026-05-04/00__Remotion__remotion-把-html-in-canvas-升级为一等原语-程序化视频生成的渲染范式迁移.md"
 ---
 
 # Remotion 把 HTML-in-Canvas 升级为一等原语：程序化视频生成的渲染范式迁移

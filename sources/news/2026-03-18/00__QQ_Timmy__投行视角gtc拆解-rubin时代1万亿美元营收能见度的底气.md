@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "投行视角GTC拆解：Rubin时代1万亿美元营收能见度的底气"
 description: "**【Agent AI同时拉动GPU+CPU，英伟达架构叙事全面升级】**  • AI Scaling Law从Pre-train→Post-train→Inference→Agent AI→Physical AI的五阶段演进路径确立 • 2027年数据中心营收预测5000亿美元，超出市场一致预期(350-390B)约30% • LPX Rack 2026年500柜→2027年1万柜的跳升预期，推"
 resource: "https://x.com/i/status/2033944627829788863"
@@ -22,13 +22,6 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "token-economics-infrastructure"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2033944627829788863"
-created: "2026-03-17"
-updated: "2026-06-26"
-sha256: "abea3eecc8cd632711a549e890c5e7bb55bc06050068c3c1574501ce1d84f509"
-sources:
-  - "/sources/news/2026-03-18/00__QQ_Timmy__投行视角gtc拆解-rubin时代1万亿美元营收能见度的底气.md"
 ---
 
 # 投行视角GTC拆解：Rubin时代1万亿美元营收能见度的底气

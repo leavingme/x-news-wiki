@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Anthropic官方课程体系落地：AI开发从野路子走向专业化"
 description: "Anthropic上线13门免费课程并提供证书，按12周课程表从基础到高级编排。课程涵盖Claude日常使用、API调用、MCP协议及Python深度构建等完整学习路径。  **要点：**    **AI开发职业化拐点已至。** Anthropic不只是在卖模型，而是在建人才标准——把\"会用Claude\"变成可量化、可认证的职业技能。当模型本身趋于同质化，差异化竞争转移到谁能更专业地驾驭模型。  "
 resource: "https://x.com/i/status/2054496077072720134"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2054496077072720134"
-created: "2026-05-13"
-updated: "2026-06-26"
-sha256: "eb79f6a5963f6e2cfcc7cb3c46c9624eb14dd92c1db49620093ddfb6ae785ac8"
-sources:
-  - "/sources/news/2026-05-13/00__lxfater__anthropic官方课程体系落地-ai开发从野路子走向专业化.md"
 ---
 
 # Anthropic官方课程体系落地：AI开发从野路子走向专业化

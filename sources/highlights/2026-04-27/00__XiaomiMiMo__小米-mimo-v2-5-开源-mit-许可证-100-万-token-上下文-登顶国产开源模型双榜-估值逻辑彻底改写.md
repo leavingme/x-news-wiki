@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "小米 MiMo-V2.5 开源：MIT 许可证、100 万 Token 上下文、登顶国产开源模型双榜，估值逻辑彻底改写"
 description: "**[开源模型的「能用」门槛已被中国团队重新定义]**  小米正式开源 MiMo-V2.5 系列，MIT 许可证可商可改，两款模型均支持 100 万 Token 上下文，其中 MiMo-V2.5-Pro 在 GDPVal-AA 和 ClawEval 榜单登顶开源模型第一。这不是备案，是进攻。  信号价值：小米用「不是排名，是解决问题」来定义模型价值——这是对刷榜文化的一次降维表态，也是把开源模型从"
 resource: "https://x.com/XiaomiMiMo/status/2048821516079661561"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
-
 x_source: "ai-trend-digest"
-type_okf: "X Tweet"
-source_url: "https://x.com/XiaomiMiMo/status/2048821516079661561"
-created: "2026-04-27"
-updated: "2026-06-26"
-sha256: "077427344debd0c6856f698bc19f9f17dc391b7a0462a8ed779270bc8184b1ab"
-sources:
-  - "/sources/highlights/2026-04-27/00__XiaomiMiMo__小米-mimo-v2-5-开源-mit-许可证-100-万-token-上下文-登顶国产开源模型双榜-估值逻辑彻底改写.md"
 ---
 
 # 小米 MiMo-V2.5 开源：MIT 许可证、100 万 Token 上下文、登顶国产开源模型双榜，估值逻辑彻底改写

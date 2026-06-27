@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "SaaS 的终结？Vibe Coding 浪潮下软件模式的生存危机"
 description: "**[核心逻辑]** - 摩根斯坦利 SaaS 股票篮子跑输大盘，HubSpot 等传统厂商跌幅明显。 - Vibe Coding 降低了企业定制软件的门槛，用户倾向于“自己捏”而非订阅昂贵的标准化 SaaS。 - SaaS 需向“记录系统”和“安全底座”转型以对抗 AI 的侵蚀。  [gakki 的锐评] 以前是买现成的西装，现在每个人手里都有一台 24 小时待命的裁缝机。SaaS 厂商要是还卖"
 resource: "https://x.com/i/status/2021927043236343936"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2021927043236343936"
-created: "2026-02-12"
-updated: "2026-06-26"
-sha256: "1bdf39b900b47103fb4b3408baa7a176198511fe1424966bedaf66f0bf935e63"
-sources:
-  - "/sources/news/2026-02-12/00__vista8__saas-的终结-vibe-coding-浪潮下软件模式的生存危机.md"
 ---
 
 # SaaS 的终结？Vibe Coding 浪潮下软件模式的生存危机

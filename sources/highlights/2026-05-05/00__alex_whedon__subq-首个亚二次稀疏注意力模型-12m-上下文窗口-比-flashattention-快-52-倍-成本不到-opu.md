@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "SubQ 首个亚二次稀疏注意力模型：12M 上下文窗口、比 FlashAttention 快 52 倍、成本不到 Opus 的 5%"
 description: "**注意力机制的工程瓶颈正在被亚二次架构撬开。**  - SubQ 是首个基于全亚二次稀疏注意力（SSA）的前沿模型，上下文窗口达 1200 万 token - 在 1M token 场景下比 FlashAttention 快 52 倍，推理成本压缩至 Opus 的 5% 以下 - 核心思路：标准注意力浪费算力在无关词对关系上，SSA 只聚焦真正重要的关联  gakki 锐评：稀疏注意力不是新概念"
 resource: "https://x.com/alex_whedon/status/2051663268704636937"
@@ -22,13 +22,6 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "推理与模型架构"
 x_source: "ai-trend-digest"
-type_okf: "X Tweet"
-source_url: "https://x.com/alex_whedon/status/2051663268704636937"
-created: "2026-05-05"
-updated: "2026-06-26"
-sha256: "bd911c75029a6e231bc3f98d42aec327fb6c29c95c27355bd1166a356f005836"
-sources:
-  - "/sources/highlights/2026-05-05/00__alex_whedon__subq-首个亚二次稀疏注意力模型-12m-上下文窗口-比-flashattention-快-52-倍-成本不到-opu.md"
 ---
 
 # SubQ 首个亚二次稀疏注意力模型：12M 上下文窗口、比 FlashAttention 快 52 倍、成本不到 Opus 的 5%

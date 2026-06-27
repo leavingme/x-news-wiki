@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Skill 不装进 Agent.md 等于没装：向阳乔木披露触发率翻倍的实际配置"
 description: "**[ Skill 安装率 ≠ 触发率：写入 Agent.md 才是正确打开方式 ]**  向阳乔木实测发现，只安装 Skill 还不够——需要把 Skill 写入 Agent.md（相当于配置到系统提示词里），才能在日常开发设计中被优先调用。这套配置能让 Skill 从「备用工具」升级为「第一反应」。  gakki：Agent.md 是 Skill 的「权限边界」——不写进去，Skill 就是游"
 resource: "https://x.com/i/status/2059087898709004702"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2059087898709004702"
-created: "2026-05-26"
-updated: "2026-06-26"
-sha256: "648e46040668d8052ae55271d810d53d5d0db333268eb813b59d4263aef2d6b7"
-sources:
-  - "/sources/news/2026-05-26/00__vista8__skill-不装进-agent-md-等于没装-向阳乔木披露触发率翻倍的实际配置.md"
 ---
 
 # Skill 不装进 Agent.md 等于没装：向阳乔木披露触发率翻倍的实际配置

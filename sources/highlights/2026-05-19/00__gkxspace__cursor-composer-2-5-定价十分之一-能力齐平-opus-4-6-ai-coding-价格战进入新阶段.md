@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Cursor Composer 2.5 定价十分之一，能力齐平 Opus 4.6：AI Coding 价格战进入新阶段"
 description: "**[AI Coding 工具进入「够用就好」的价格绞杀阶段]**  余温实测 Cursor Composer 2.5：以约 1/10 的价格，达到与 Opus 4.6、GPT 5.5 持平的能力表现。如果这一数据被社区广泛验证，意味着 AI Coding 工具的差异化不再来自模型能力本身，而来自产品体验和价格效率。  对于中间层玩家（Vercel Open Agents、Devin 等），这既是"
 resource: "https://x.com/i/status/2056572055076638879"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2056572055076638879"
-created: "2026-05-19"
-updated: "2026-06-26"
-sha256: "846b89d26c1bb6d48043136e0c2a75de628f604f71a17516a77b7a903ff737d8"
-sources:
-  - "/sources/highlights/2026-05-19/00__gkxspace__cursor-composer-2-5-定价十分之一-能力齐平-opus-4-6-ai-coding-价格战进入新阶段.md"
 ---
 
 # Cursor Composer 2.5 定价十分之一，能力齐平 Opus 4.6：AI Coding 价格战进入新阶段

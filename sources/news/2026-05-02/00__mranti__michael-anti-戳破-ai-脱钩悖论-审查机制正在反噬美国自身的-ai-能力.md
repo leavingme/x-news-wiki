@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Michael Anti 戳破 AI 脱钩悖论：审查机制正在反噬美国自身的 AI 能力"
 description: "**美国 AI 政策的内在矛盾正在暴露：安全叙事与产业能力之间存在结构性冲突。**  - 如果政府审查能扼杀蒸馏、开源模型使用、中国机器人供应链，那受损的是美国公司自己的 AI 能力 - 这不是「保护本国产业」，而是「反 AI」的实质效果 - 地缘博弈中，过度封锁可能让封锁方自己成为最大输家  锐评：这个观察精准——AI 脱钩的代价不是对称的，但政策制定者往往只看到「限制对手」而忽视「削弱自己」。"
 resource: "https://x.com/i/status/2050415209882476624"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2050415209882476624"
-created: "2026-05-02"
-updated: "2026-06-26"
-sha256: "cfd1c3c90149c91affd5496561a7ff32b1ec320f56fc0018eb1adb8cf47b0546"
-sources:
-  - "/sources/news/2026-05-02/00__mranti__michael-anti-戳破-ai-脱钩悖论-审查机制正在反噬美国自身的-ai-能力.md"
 ---
 
 # Michael Anti 戳破 AI 脱钩悖论：审查机制正在反噬美国自身的 AI 能力

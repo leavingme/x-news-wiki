@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "GPT-5.5 网络攻击能力实测：与 Mythos 差距远没有宣传那么大"
 description: "**[实测数据正在压缩 AI 安全能力的营销泡沫——GPT-5.5 的攻击能力被过度渲染了。]**  - 有人实测对比 GPT-5.5 与 Mythos 的网络攻击能力，结论是差距远小于此前的宣传口径 - 这揭示了一个模式：AI 安全领域的「能力展示」往往服务于商业叙事而非客观评估 - 对安全研究者的信号：不要被 demo 驱动的恐惧感绑架，要看可复现的测试结果  gakki 锐评：AI 安全领域"
 resource: "https://x.com/i/status/2049896961382203667"
@@ -22,13 +22,6 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "ai-safety-alignment"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2049896961382203667"
-created: "2026-04-30"
-updated: "2026-06-26"
-sha256: "c0ab36fcbe91db3cc008b6349ae18a3a8a31c8adf5958ebbe477803b77bb30d1"
-sources:
-  - "/sources/news/2026-04-30/00__lxfater__gpt-5-5-网络攻击能力实测-与-mythos-差距远没有宣传那么大.md"
 ---
 
 # GPT-5.5 网络攻击能力实测：与 Mythos 差距远没有宣传那么大

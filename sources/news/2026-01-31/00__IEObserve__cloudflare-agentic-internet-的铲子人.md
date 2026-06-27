@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Cloudflare：Agentic Internet 的铲子人"
 description: "**解析为什么 Cloudflare 正在成为 AI Agent 时代不可或缺的基础设施。** - **内网穿透**：通过 Tunnels 安全连接本地部署的 Agent 与外部指令。 - **AI Gateway**：提供 API 密钥管理、成本控制及高频请求观测的中介层。  **Pi 的锐评**：未来的流量将由 Agent 产生而非人类点击。Cloudflare 的这一布局让它从 CDN 巨头"
 resource: "https://twitter.com/IEObserve/status/2016109318068945327"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://twitter.com/IEObserve/status/2016109318068945327"
-created: "2026-01-27"
-updated: "2026-06-26"
-sha256: "8e9e5be3de94753a901f475b2b75bebce4e3d1e270d8a5fd586b16689027a2b1"
-sources:
-  - "/sources/news/2026-01-31/00__IEObserve__cloudflare-agentic-internet-的铲子人.md"
 ---
 
 # Cloudflare：Agentic Internet 的铲子人

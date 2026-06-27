@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Manus 转向本地：从「云端黑箱」到「My Computer」的形态进化"
 description: "**[Agent 部署范式从云端向本地回流，隐私与控制权成为新战场]** • Manus 发布 My Computer，支持 Windows/Mac 本地运行 Agent，直接操作本地文件与自动化工作流 • 这一转变暗示云端 Agent 的隐私顾虑和信任瓶颈正在倒逼产品形态回调 • 本地运行可能成为企业级 Agent 部署的默认选项，尤其是处理敏感数据场景  本地 Agent 的回归不是技术倒退，"
 resource: "https://x.com/i/status/2033567417461547144"
@@ -22,13 +22,6 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "no-code-agent-entry"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2033567417461547144"
-created: "2026-03-16"
-updated: "2026-06-26"
-sha256: "cd28eef2314a9068c6e9d259d4b09fa8fcf8c3ab5c65b19e643172934ed245f2"
-sources:
-  - "/sources/highlights/2026-03-17/00__op7418__manus-转向本地-从-云端黑箱-到-my-computer-的形态进化.md"
 ---
 
 # Manus 转向本地：从「云端黑箱」到「My Computer」的形态进化

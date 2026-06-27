@@ -1,23 +1,17 @@
 ---
-type: "entity"
+type: "Author"
 title: "Atul Kumar (@atulkumarzz)"
 description: "X/Twitter 作者 @atulkumarzz。共收录 1 条 AI 精选推文。"
 tags:
   - "x-news"
   - "author"
   - "author:atulkumarzz"
-timestamp: "2026-06-26T11:53:36.993Z"
+timestamp: "2026-06-27T08:40:40.206Z"
 x_handle: "atulkumarzz"
 x_author_name: "Atul Kumar"
 x_tweet_count: 1
 x_first_seen: "2026-04-30T13:17:20.359Z"
 x_last_seen: "2026-04-30T13:17:20.359Z"
-type_okf: "Author"
-created: "2026-04-30"
-updated: "2026-06-26"
-sha256: "5d1b333dee7e92758d0d3662ae5cd3b1a585793691cd8e348b41e585b269a2be"
-sources:
-  - "/sources/news/2026-04-30/00__atulkumarzz__百度-ernie-5-1-登顶-lmarena-文本榜-1476-分超-deepseek-v4-pro-国产模型座次重排.md"
 ---
 
 # Atul Kumar (@atulkumarzz)

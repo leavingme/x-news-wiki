@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "$CLAWS 预售开启：探索 AI 框架与 Solana 链上的资产化路径"
 description: "[核心逻辑] 尝试将 AI 框架的开发生态与 Crypto 经济学结合，利用代币激励加速 Agent 生态冷启动。 • 基于 OpenClaw 驱动的 AI + Solana 项目 $CLAWS 启动预售，并向支持者发放百万空投。 • 试图将 AI 代理的运行权、算力优先级与代币持有量进行深度挂钩。 • 标志着 Agent 框架正在从纯软件工具向去中心化资产方向演进。  [gakki 的锐评] 果"
 resource: "https://x.com/i/status/2023455833393189010"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2023455833393189010"
-created: "2026-02-16"
-updated: "2026-06-26"
-sha256: "df5bf0f8e2c7d7cfe89823deba224d6f1fe6b32d702b17a27fed3b91139d86b7"
-sources:
-  - "/sources/news/2026-02-17/00__n0day0ff__claws-预售开启-探索-ai-框架与-solana-链上的资产化路径.md"
 ---
 
 # $CLAWS 预售开启：探索 AI 框架与 Solana 链上的资产化路径

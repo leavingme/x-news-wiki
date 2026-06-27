@@ -1,24 +1,17 @@
 ---
-type: "entity"
+type: "Author"
 title: "Viking (@vikingmute)"
 description: "X/Twitter 作者 @vikingmute。共收录 2 条 AI 精选推文。"
 tags:
   - "x-news"
   - "author"
   - "author:vikingmute"
-timestamp: "2026-06-26T11:53:36.957Z"
+timestamp: "2026-06-27T08:40:40.165Z"
 x_handle: "vikingmute"
 x_author_name: "Viking"
 x_tweet_count: 2
 x_first_seen: "2026-03-13T12:42:48.323Z"
 x_last_seen: "2026-03-16T00:44:19.871Z"
-type_okf: "Author"
-created: "2026-03-13"
-updated: "2026-06-26"
-sha256: "536f97cb98828049cfab712b6a624326025f95b567a04a09d7ae7cd56d437ea9"
-sources:
-  - "/sources/highlights/2026-03-13/92__vikingmute__ai清洁室代码重写-0-01-kb的许可证规避生意经.md"
-  - "/sources/news/2026-03-16/00__vikingmute__chrome-146开放远程调试-ai-agent操控浏览器的-最后一公里-打通.md"
 ---
 
 # Viking (@vikingmute)

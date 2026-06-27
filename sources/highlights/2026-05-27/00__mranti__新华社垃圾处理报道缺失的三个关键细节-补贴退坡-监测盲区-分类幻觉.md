@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "新华社垃圾处理报道缺失的三个关键细节：补贴退坡、监测盲区、分类幻觉"
 description: "**[官方文宣的三个没说]**  Michael Anti 细究新华社关于垃圾处理的文章，指出三点关键遗漏：  1. 各地大规模焚烧垃圾是因为国家补贴——但补贴会停止，届时如何处置？ 2. 二噁英等有害物质的处理率监控，究竟谁来负责？ 3. 小区层面的垃圾分类更多是宣传，实际顶多分成可回收/不可回收两类。  这不是说报道整体有误，而是呈现了一种选择性沉默：进步叙事与系统性问题的张力被刻意模糊。  "
 resource: "https://x.com/i/status/2059470341484019755"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2059470341484019755"
-created: "2026-05-27"
-updated: "2026-06-26"
-sha256: "01e715d6dcd10455afab4d6697a1da816847f036f5f0e61f818cec9c6706e1e1"
-sources:
-  - "/sources/highlights/2026-05-27/00__mranti__新华社垃圾处理报道缺失的三个关键细节-补贴退坡-监测盲区-分类幻觉.md"
 ---
 
 # 新华社垃圾处理报道缺失的三个关键细节：补贴退坡、监测盲区、分类幻觉

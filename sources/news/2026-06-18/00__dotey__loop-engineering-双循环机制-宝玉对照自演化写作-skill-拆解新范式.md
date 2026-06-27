@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Loop Engineering 双循环机制：宝玉对照自演化写作 Skill 拆解新范式"
 description: "**宝玉拆解 Loop Engineering 核心：内循环干活、外循环让 Skill 自进化。**  • 内循环 = 定时任务执行（如每 2 小时检查邮件写草稿） • 外循环 = 基于用户每次修改记录，自动迭代 Skill 适配度 • 宝玉类比自己早期做过的「写作风格 Skill」自演化路径   gakki 锐评：从 Prompt 工程到 Harness 工程再到 Loop 工程，自动化颗粒度越"
 resource: "https://x.com/i/status/2067376170145075206"
@@ -22,13 +22,6 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "self-improving-agent-engineering"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2067376170145075206"
-created: "2026-06-17"
-updated: "2026-06-26"
-sha256: "6a42fc4779f31e64b9d53ac8a2778d35797fbf6dbc0897555209bd19c9396542"
-sources:
-  - "/sources/news/2026-06-18/00__dotey__loop-engineering-双循环机制-宝玉对照自演化写作-skill-拆解新范式.md"
 ---
 
 # Loop Engineering 双循环机制：宝玉对照自演化写作 Skill 拆解新范式

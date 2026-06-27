@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Codex 录制技能：演示一遍操作，AI 自动起草可复用 skill"
 description: "**Codex 把「用户操作」变成 skill 草稿的输入，技能沉淀门槛降到零。**  要点： - Codex 插件菜单新增「录制技能」入口，用户在 Mac 上演示一遍完整流程后停止 - 停止后自动检查流程、起草 skill 文档，涵盖使用场景、输入要求、执行步骤、验证方式 - 支持多次迭代修改 - 把「写文档驱动 AI」转向「演示驱动 AI」，Agent-Native 范式进一步落地  锐评：技"
 resource: "https://x.com/i/status/2067880576112357718"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2067880576112357718"
-created: "2026-06-19"
-updated: "2026-06-26"
-sha256: "b433aae436854b05af9204cf93f9ddf0da1c078cab9c5a9408875a53b2a20c87"
-sources:
-  - "/sources/news/2026-06-19/00__xiaohu__codex-录制技能-演示一遍操作-ai-自动起草可复用-skill.md"
 ---
 
 # Codex 录制技能：演示一遍操作，AI 自动起草可复用 skill

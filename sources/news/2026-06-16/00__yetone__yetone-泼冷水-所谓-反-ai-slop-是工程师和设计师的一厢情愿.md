@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "yetone 泼冷水：所谓\"反 AI Slop\"是工程师和设计师的一厢情愿"
 description: "**大众用户与精英圈层对 AI 生成内容的审美判断已彻底脱节，\"品味\"是少数人的自嗨。**  要点： - 看到一个被广泛称赞的产品，安装后满屏典型 AI Slop 风格 - 这不妨碍它被大量用户喜欢——多数人看不出，或根本不在乎 - 反 AI Slop 的本质是工程师/设计师群体的身份认同防御  锐评：yetone 这条观察刺破了 Vibe Coding 圈最大的幻觉——审美批判无法转化为市场壁垒"
 resource: "https://x.com/i/status/2066901201531338809"
@@ -22,13 +22,6 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "ai-content-authenticity"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2066901201531338809"
-created: "2026-06-16"
-updated: "2026-06-26"
-sha256: "6ca6bc6b73f0c920d9fffd04f16ccd1840060cd163fb83d341e128566fd649b5"
-sources:
-  - "/sources/news/2026-06-16/00__yetone__yetone-泼冷水-所谓-反-ai-slop-是工程师和设计师的一厢情愿.md"
 ---
 
 # yetone 泼冷水：所谓"反 AI Slop"是工程师和设计师的一厢情愿

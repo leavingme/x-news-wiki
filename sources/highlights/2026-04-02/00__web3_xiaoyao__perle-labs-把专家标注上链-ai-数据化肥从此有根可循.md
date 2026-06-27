@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Perle Labs 把专家标注上链：AI 数据化肥从此有根可循"
 description: "**[ Solana 上跑 AI 数据的「料源革命」，准确率抬升 30% 的硬逻辑 ]**  Perle Labs（原 Kiva AI）把人类专家的判断直接焊在 Solana 链上——每条标注带不可篡改的证明，50K+ 全球领域高手参与，95% 共识率，标注错误率砍 20%，企业年省 60 万美元。  这不是 Web3+AI 的老调，是真正解决「数据化肥」可信问题的路径：质量有锚点、贡献者有保障、"
 resource: "https://x.com/i/status/2036789967905845433"
@@ -22,13 +22,6 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "ai-data-blockchain-verification"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2036789967905845433"
-created: "2026-03-25"
-updated: "2026-06-26"
-sha256: "8136e9d01b9587727b96aaa94bc631fb9333b34ac91df6051de8444740214746"
-sources:
-  - "/sources/highlights/2026-04-02/00__web3_xiaoyao__perle-labs-把专家标注上链-ai-数据化肥从此有根可循.md"
 ---
 
 # Perle Labs 把专家标注上链：AI 数据化肥从此有根可循

@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Zed 编辑器打破零版本传统：版本号从 0 到 1，编辑器军备赛进入正赛"
 description: "**Zed 从 0.x 跳到 1.0，意味着它从「实验性项目」正式毕业为「生产级产品」。**  - 千余个版本都在 0.x 徘徊，今天正式进入 1.0——这是对稳定性和承诺的公开宣示 - 在 Cursor、Windsurf 等 AI 编辑器疯狂迭代的窗口期发布 1.0，Zed 选择了「稳定压倒创新」的差异化路线  锐评：编辑器赛道的竞争维度已经从「AI 能力」扩展到「工程成熟度」。Zed 的 1."
 resource: "https://x.com/zeddotdev/status/2049498864093184045"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "ai-trend-digest"
-type_okf: "X Tweet"
-source_url: "https://x.com/zeddotdev/status/2049498864093184045"
-created: "2026-04-29"
-updated: "2026-06-26"
-sha256: "dd027e6b0be5b6e2fba148baae80807fc5c59046c60e273816a94c7fc7b2ac14"
-sources:
-  - "/sources/news/2026-04-30/00__zeddotdev__zed-编辑器打破零版本传统-版本号从-0-到-1-编辑器军备赛进入正赛.md"
 ---
 
 # Zed 编辑器打破零版本传统：版本号从 0 到 1，编辑器军备赛进入正赛

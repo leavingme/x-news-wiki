@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "ColaMD 1.5：Markdown 从写作格式升级为内容数据库，视图层正式解耦"
 description: "**[Markdown 作为内容数据库的架构范式正在落地：一份 .md，无限渲染形态]** - ColaMD 1.5 实现 .md 文件作为内容层、HTML 模板作为视图层的 MVC 架构 - 同一份 Markdown 可消费多种渲染形态：幻灯片、博客、简历、产品页 - 开源可扩展，用户可让 AI 自行添加新模板  这不是\"又一个 Markdown 工具\"，而是 Markdown 成为 AI 原生"
 resource: "https://x.com/i/status/2052385988375408749"
@@ -22,13 +22,6 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "markdown-ai-native-format"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2052385988375408749"
-created: "2026-05-07"
-updated: "2026-06-26"
-sha256: "516a4a8d0bcb8bdcc447d603c07f4d0e187fc7d99958b2580a69158b933131f8"
-sources:
-  - "/sources/news/2026-05-07/00__oran_ge__colamd-1-5-markdown-从写作格式升级为内容数据库-视图层正式解耦.md"
 ---
 
 # ColaMD 1.5：Markdown 从写作格式升级为内容数据库，视图层正式解耦

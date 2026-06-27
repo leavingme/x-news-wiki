@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "HTML 回潮的林迪效应：老格式因 AI 原生生成能力而重获生命力"
 description: "**HTML 作为「既老又新」的格式正在被 AI 重新激活，但微信生态的封闭性构成了国内独特的传播障碍。**  - AI 编码工具（Claude Code、Cursor）天然输出 HTML，因为它是最小可用的富格式载体 - 微信打不开 HTML 的限制，使得国内 AI 内容传播更依赖图片/PPT/PDF——这是平台封闭性对技术趋势的扭曲 - 林迪效应在此的含义：HTML 存活 30 年，恰好成为 "
 resource: "https://x.com/i/status/2052913680208269525"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2052913680208269525"
-created: "2026-05-09"
-updated: "2026-06-26"
-sha256: "22bed5de289b0e2c567590b81d0137ef1d8aed1edfca34f7a317c2a4a5e50399"
-sources:
-  - "/sources/news/2026-05-09/00__vista8__html-回潮的林迪效应-老格式因-ai-原生生成能力而重获生命力.md"
 ---
 
 # HTML 回潮的林迪效应：老格式因 AI 原生生成能力而重获生命力

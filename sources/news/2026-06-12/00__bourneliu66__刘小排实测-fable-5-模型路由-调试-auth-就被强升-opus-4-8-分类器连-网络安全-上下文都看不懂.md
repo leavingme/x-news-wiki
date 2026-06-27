@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "刘小排实测 Fable 5 模型路由：调试 Auth 就被强升 Opus 4.8，分类器连'网络安全'上下文都看不懂"
 description: "**多模型路由的'关键词触发'式分类器，正在成为 AI Coding 工具最隐蔽的成本黑洞。**  - Fable 5 在调试 Better Auth、Docker Swarm、Traefik 配置时，频繁切换到 Opus 4.8，用户反馈'挺麻烦'。 - 问题本质：分类器只能识别关键词（Auth、网络安全相关），无法判断任务真实复杂度。 - 暴露了多模型编排的工程瓶颈——'何时降本'比'如何降本"
 resource: "https://x.com/i/status/2065352862755078389"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2065352862755078389"
-created: "2026-06-12"
-updated: "2026-06-26"
-sha256: "3af0c0b8c08f360b11bbb7493c3ccaa09e7008cc890e154917d9f977fb358e2f"
-sources:
-  - "/sources/news/2026-06-12/00__bourneliu66__刘小排实测-fable-5-模型路由-调试-auth-就被强升-opus-4-8-分类器连-网络安全-上下文都看不懂.md"
 ---
 
 # 刘小排实测 Fable 5 模型路由：调试 Auth 就被强升 Opus 4.8，分类器连'网络安全'上下文都看不懂

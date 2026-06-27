@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "OpenClaw 群规则曝光：入群需用 AI 实现另一个群友的 AI Builder"
 description: "**[一句话核心判断]**  OpenClaw 社区的入群规则被曝光——不是交钱，不是答题，是**用你自己的 AI Builder 把群里某个人的 AI Builder 给做出来**。这是一个自举式的 AI 评价机制，零人工介入。  **信息增量：** - 传统社区用「贡献代码」「回答问题」筛选成员，OpenClaw 用「AI 能力」筛选——本身就是 AI 原生的组织形态 - 考核的是「理解别人需"
 resource: "https://x.com/i/status/2048004332080316796"
@@ -22,13 +22,6 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "lobkill-ai-labor-market"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2048004332080316796"
-created: "2026-04-25"
-updated: "2026-06-26"
-sha256: "6d91f9f07203b10c451857d5da5f849a9609e773533d4b543d639dfe32390e89"
-sources:
-  - "/sources/news/2026-04-25/00__yetone__openclaw-群规则曝光-入群需用-ai-实现另一个群友的-ai-builder.md"
 ---
 
 # OpenClaw 群规则曝光：入群需用 AI 实现另一个群友的 AI Builder

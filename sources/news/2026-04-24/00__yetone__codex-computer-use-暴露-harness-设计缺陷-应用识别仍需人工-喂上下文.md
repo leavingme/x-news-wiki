@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Codex Computer Use 暴露 Harness 设计缺陷：应用识别仍需人工「喂上下文」"
 description: "**一句话核心判断：** Computer Use 的核心瓶颈不是模型不够强，而是 Harness 层无法自动感知运行环境——模型连「网易云音乐在本地叫 netease music app」这种常识都需要人工注入。  **要点：** - Codex 等 Agent 运行时依赖「Harness」（驭能层/胶水层）桥接模型意图与操作系统操作 - 当前 Harness 无法主动探测目标应用的标准命名，导"
 resource: "https://x.com/i/status/2047560948530155947"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2047560948530155947"
-created: "2026-04-24"
-updated: "2026-06-26"
-sha256: "70381925c791ecb1f2f066c890fd5a78b61f5cb13c76ce81190f8c3d7605a289"
-sources:
-  - "/sources/news/2026-04-24/00__yetone__codex-computer-use-暴露-harness-设计缺陷-应用识别仍需人工-喂上下文.md"
 ---
 
 # Codex Computer Use 暴露 Harness 设计缺陷：应用识别仍需人工「喂上下文」

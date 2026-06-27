@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "北大+英伟达 SHINE：一次性把上下文「焊接」进模型参数，长任务记忆成本从 TWh 骤降"
 description: "**一句话核心判断** 上下文窗口争夺战本质是成本战，SHINE 用超网络绕过注意力机制，把临时上下文焊进权重——记忆从此不再按 Token 收费。  **信息增量** • 单次前向传播即可生成高质量 LoRA 适配器，无需传统微调的梯度计算，训练能耗接近零 • 将「上下文」转化为「内置技能」，上下文越长、任务越复杂，收益越高（对比 RAG 的向量检索瓶颈） • 北京大学团队主创，NVIDIA 联"
 resource: "https://x.com/i/status/2040960430105907352"
@@ -22,13 +22,6 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "agent-memory-optimization"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2040960430105907352"
-created: "2026-04-06"
-updated: "2026-06-26"
-sha256: "364c3492d60006f7d04728f959253a3fa9741f69758b92a312e149ba6a5c0cf5"
-sources:
-  - "/sources/news/2026-04-06/00__jiqizhixin__北大-英伟达-shine-一次性把上下文-焊接-进模型参数-长任务记忆成本从-twh-骤降.md"
 ---
 
 # 北大+英伟达 SHINE：一次性把上下文「焊接」进模型参数，长任务记忆成本从 TWh 骤降

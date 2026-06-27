@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Vibe Coding 实战：AI 一次性出低多边形建筑资产，UV 之外几乎零调整"
 description: "**Vibe Coding 的「资产级」输出首次接近生产可用。**  - 独立开发者展示让 AI 生成低多边形建筑 mesh，贴图直接来自 polyhaven，仅需少量 UV 调整即可达到可用状态。 - 模型生成、贴图选择、UV 编排原本是 3D 工作流中三个独立工序，现在被压成「一句话+一次迭代」，对独立游戏 / 资产生产线的成本结构冲击巨大。 - 与 Vibejam 2026 决赛作品相互印证"
 resource: "https://x.com/i/status/2065704365403365497"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2065704365403365497"
-created: "2026-06-13"
-updated: "2026-06-26"
-sha256: "c0ce49c0b44a3856bf1c37504b86a643b6136ff4593f2134fb775f477dd370ef"
-sources:
-  - "/sources/news/2026-06-25/00__antontyrberg__vibe-coding-实战-ai-一次性出低多边形建筑资产-uv-之外几乎零调整.md"
 ---
 
 # Vibe Coding 实战：AI 一次性出低多边形建筑资产，UV 之外几乎零调整

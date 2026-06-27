@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "「容易而正确」的复利陷阱：AI 时代最大的认知误区"
 description: "**[越容易越正确——天策的逆向创业哲学]**  天策提出「容易而正确」的做事方法论，自媒体、读书、拍视频、幸福生活、AI 额度用完，核心逻辑是「低阻力路径的持续累积」。  这个观点反主流叙事而行——主流告诉你要做难的事，天策告诉你难的事往往是在对抗复利。  gakki：这个框架的盲点是「容易」的判断标准——容易的事往往是因为别人已经验证过路径，而路径一旦验证完成，壁垒也就消失了。真正的「容易而正"
 resource: "https://x.com/i/status/2056787659578544430"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2056787659578544430"
-created: "2026-05-19"
-updated: "2026-06-26"
-sha256: "f288314363fb7539e6d4d2866d6e0fb69b697402c3d7b56afff0b45d0426951a"
-sources:
-  - "/sources/news/2026-05-19/00__Leobai825__容易而正确-的复利陷阱-ai-时代最大的认知误区.md"
 ---
 
 # 「容易而正确」的复利陷阱：AI 时代最大的认知误区

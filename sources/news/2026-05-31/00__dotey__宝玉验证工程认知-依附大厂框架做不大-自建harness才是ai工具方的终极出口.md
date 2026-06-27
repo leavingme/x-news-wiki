@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "宝玉验证工程认知：依附大厂框架做不大，自建Harness才是AI工具方的终极出口"
 description: "**[AI工具工程哲学：依附CC不是护城河，自建Harness才是]**  宝玉在讨论中明确表达了工程判断：「依附CC不是长久之计，想做大还是得做自己的Harness」。这个观点与当前AI工具生态的商业现实高度吻合。  - CC等框架处于生态中心位，依赖它的工具方将持续面临平台化风险 - Harness在本届MIT研究中体现为42%-78%的性能差距，说明这是一个真实的工程壁垒 - 做大做小的分界"
 resource: "https://x.com/i/status/2060939421491372177"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2060939421491372177"
-created: "2026-05-31"
-updated: "2026-06-26"
-sha256: "28cf307957bf4bfb4cfdd580d5620482a6f6f60e65eeba4c9aa0df99fbfea7f4"
-sources:
-  - "/sources/news/2026-05-31/00__dotey__宝玉验证工程认知-依附大厂框架做不大-自建harness才是ai工具方的终极出口.md"
 ---
 
 # 宝玉验证工程认知：依附大厂框架做不大，自建Harness才是AI工具方的终极出口

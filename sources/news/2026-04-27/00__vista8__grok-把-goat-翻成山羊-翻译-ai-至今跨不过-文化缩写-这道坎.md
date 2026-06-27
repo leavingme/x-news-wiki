@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Grok 把 GOAT 翻成山羊：翻译 AI 至今跨不过「文化缩写」这道坎"
 description: "**一句话核心判断：大模型翻译在字面对齐上已接近人类，但在文化语境缩写（idiom/slang）的处理上依然是重灾区，暴露了 AI 「理解」的本质局限。**  向阳乔木测试 DeepSeek 时发现，Grok 将 GOAT（Greatest Of All Time）在特定语境下翻译成了「山羊」，而非通用缩写「史上最佳」。这说明即使是强模型，其翻译能力依然高度依赖语料的常见分布，对于亚文化语境中的固"
 resource: "https://x.com/i/status/2048738228082180518"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2048738228082180518"
-created: "2026-04-27"
-updated: "2026-06-26"
-sha256: "c561a7c9758f28af6440fd5ea17f019338dbb2bdfa99b0221def69e7cf87f79e"
-sources:
-  - "/sources/news/2026-04-27/00__vista8__grok-把-goat-翻成山羊-翻译-ai-至今跨不过-文化缩写-这道坎.md"
 ---
 
 # Grok 把 GOAT 翻成山羊：翻译 AI 至今跨不过「文化缩写」这道坎

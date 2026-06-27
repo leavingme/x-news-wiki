@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "GPT-5.5 vs Claude Opus 4.7 编码实测对比：开发者社区正在用脚投票选择工具链"
 description: "**模型选型已从Benchmark叙事转向真实编码体感投票。**  - Samay 发起 GPT-5.5 与 Claude Opus 4.7 编码能力直选，反映开发者社区对两大旗舰模型的实际编码体验分歧正在公开化 - 这类社区自发对比正在取代官方Benchmark成为开发者选型的真实信号源  gakki 锐评：一条投票帖本身信息密度有限，但它折射的趋势值得关注——当模型能力进入同质化区间，开发者选"
 resource: "https://x.com/Samaytwt/status/2050798500175306900"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "ai-trend-digest"
-type_okf: "X Tweet"
-source_url: "https://x.com/Samaytwt/status/2050798500175306900"
-created: "2026-05-03"
-updated: "2026-06-26"
-sha256: "d160d87d0f3dbb37fd4f73a71eebdc80e0c792e7f1e2fccb580d5e2bd9fa2fbd"
-sources:
-  - "/sources/news/2026-05-03/00__Samaytwt__gpt-5-5-vs-claude-opus-4-7-编码实测对比-开发者社区正在用脚投票选择工具链.md"
 ---
 
 # GPT-5.5 vs Claude Opus 4.7 编码实测对比：开发者社区正在用脚投票选择工具链

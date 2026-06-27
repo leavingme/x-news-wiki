@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Michael Anti：美国IT业界对GLM 5.2的吹捧已达去年DeepSeek量级"
 description: "**美国开发者用脚投票，国产模型出现「墙外先热」的反向格局。**  - Michael Anti观察到美国IT业界对GLM 5.2的讨论热度已可比DeepSeek时刻 - 国际版开放购买但价格偏高，国内购买通道仍未打通，形成「外热内阻」倒挂 - 信号价值大于产品本身：海外开发者的自发关注是国产模型竞争力的市场化验证  gakki锐评：「国外先热」恰是限购策略的市场化反讽——技术壁垒没卡住人，付费墙"
 resource: "https://x.com/i/status/2068504702153838923"
@@ -22,13 +22,6 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "geopolitics-and-compute"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2068504702153838923"
-created: "2026-06-21"
-updated: "2026-06-26"
-sha256: "ebc1dad24bf04dd15766c1879ae127927db5d325a017ac39743aa42ce759a315"
-sources:
-  - "/sources/highlights/2026-06-21/00__mranti__michael-anti-美国it业界对glm-5-2的吹捧已达去年deepseek量级.md"
 ---
 
 # Michael Anti：美国IT业界对GLM 5.2的吹捧已达去年DeepSeek量级

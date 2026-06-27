@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "马斯克五步法的真正毒辣之处：自动化永远是最后一步，而多数 AI 产品正相反"
 description: "**AI 时代的反直觉工程纪律：先删再优化，自动化是收尾不是起点。**  - 五步法核心：质疑需求→删除→简化→加速→自动化，顺序不可逆 - 马斯克自己也踩过坑：自动化了一个本不该存在的东西，前功尽弃 - 对 AI Agent 工程的隐性启示：当前大量 Agent 产品跳过前三步直接自动化，本质是在「加速一个不该存在的东西」  gakki 锐评：这不是鸡汤，是工程纪律——Agent 赛道里有多少产"
 resource: "https://x.com/i/status/2053038906539671651"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2053038906539671651"
-created: "2026-05-09"
-updated: "2026-06-26"
-sha256: "37ddf3be76038c9c16bbc7c190ce754aea4f2f127a9313d152469993acb803ef"
-sources:
-  - "/sources/news/2026-05-09/00__lxfater__马斯克五步法的真正毒辣之处-自动化永远是最后一步-而多数-ai-产品正相反.md"
 ---
 
 # 马斯克五步法的真正毒辣之处：自动化永远是最后一步，而多数 AI 产品正相反

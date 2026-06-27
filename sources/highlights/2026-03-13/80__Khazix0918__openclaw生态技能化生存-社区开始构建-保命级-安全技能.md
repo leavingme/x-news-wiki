@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "OpenClaw生态技能化生存：社区开始构建\"保命级\"安全技能"
 description: "**[OpenClaw用户社区涌现\"保命技能\"共识，标志着开源Agent生态从功能探索进入安全觉醒阶段]**  • 数字生命卡兹克公开呼吁OpenClaw用户优先安装保命技能，反映社区安全意识的集体提升 • 暗示OpenClaw生态已形成足够规模，开始产生\"最佳实践\"共识和技能推荐体系 • 预示着开源Agent将围绕核心安全技能形成分化，\"有无保命技能\"可能成为用户分层标准  gakki 锐评：开"
 resource: "https://x.com/i/status/2032300799637020964"
@@ -22,13 +22,6 @@ x_selected: 2
 x_priority: 80
 x_related_topic: "open-agent-ecosystem"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2032300799637020964"
-created: "2026-03-13"
-updated: "2026-06-26"
-sha256: "d35a741c50dc35dae07f14813f2c43b2283a6bab2fcbd2aad5bf7dabf96cfb01"
-sources:
-  - "/sources/highlights/2026-03-13/80__Khazix0918__openclaw生态技能化生存-社区开始构建-保命级-安全技能.md"
 ---
 
 # OpenClaw生态技能化生存：社区开始构建"保命级"安全技能

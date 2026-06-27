@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Cursor 招募设计工程师：AI 编码工具正在吸纳设计能力"
 description: "**[一句话核心判断]** Cursor 以「设计工程师」为切口扩宽 AI 编码工具边界，标志 AI Coding 平台从纯工程端向全栈交付延伸。  **信息增量：** - 设计工程师（Design Engineer）是近年来硅谷增长最快的混合职能岗位之一 - Cursor 招聘此岗暗示：AI 编码工具的下一阶段竞争不在代码补全，而在「设计到代码」的闭环能力 - 与 Claude Design 形"
 resource: "https://x.com/i/status/2062358996632175080"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2062358996632175080"
-created: "2026-06-04"
-updated: "2026-06-26"
-sha256: "bf352bb5012bd89a9571ce02cd307d7ca8def0ac3c579d038b5d0a63f1d05611"
-sources:
-  - "/sources/highlights/2026-06-04/00__dotey__cursor-招募设计工程师-ai-编码工具正在吸纳设计能力.md"
 ---
 
 # Cursor 招募设计工程师：AI 编码工具正在吸纳设计能力

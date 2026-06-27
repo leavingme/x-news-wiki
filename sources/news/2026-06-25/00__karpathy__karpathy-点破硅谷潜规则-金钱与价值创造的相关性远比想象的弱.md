@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Karpathy 点破硅谷潜规则：金钱与价值创造的相关性远比想象的弱"
 description: "**Karpathy 在一条回复里点破了 AI 时代最反直觉的资本真相。**  要点： - 核心论断：money 与 genuine, positive, non-zero sum value creation 时而高度相关、时而几乎无关，且属于「well-earned」——这是给赚快钱叙事的当头棒喝 - 对 AI 创业者的直接含义：当所有人都在用 ARR、用户增长、估值倍数定义成功时，Karpa"
 resource: "https://x.com/i/status/2065503226884173932"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2065503226884173932"
-created: "2026-06-12"
-updated: "2026-06-26"
-sha256: "c62b921be17dd6e00c0183866c95129d145de31d2acd3914ee949b16d1618a2e"
-sources:
-  - "/sources/news/2026-06-25/00__karpathy__karpathy-点破硅谷潜规则-金钱与价值创造的相关性远比想象的弱.md"
 ---
 
 # Karpathy 点破硅谷潜规则：金钱与价值创造的相关性远比想象的弱

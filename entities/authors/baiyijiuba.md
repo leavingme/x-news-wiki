@@ -1,23 +1,17 @@
 ---
-type: "entity"
+type: "Author"
 title: "元行者🌊RIVER (@baiyijiuba)"
 description: "X/Twitter 作者 @baiyijiuba。共收录 1 条 AI 精选推文。"
 tags:
   - "x-news"
   - "author"
   - "author:baiyijiuba"
-timestamp: "2026-06-26T11:53:36.914Z"
+timestamp: "2026-06-27T08:40:40.122Z"
 x_handle: "baiyijiuba"
 x_author_name: "元行者🌊RIVER"
 x_tweet_count: 1
 x_first_seen: "2026-02-02T13:00:08.981Z"
 x_last_seen: "2026-02-02T13:00:08.981Z"
-type_okf: "Author"
-created: "2026-02-02"
-updated: "2026-06-26"
-sha256: "8279096982a62daaf8f5eeb485a3c7ba04e3eb0eff5a731e2a146e0bd6567dcf"
-sources:
-  - "/sources/news/2026-02-02/00__baiyijiuba__dgrid-开启去中心化-ai-推理经济-重塑成本结构.md"
 ---
 
 # 元行者🌊RIVER (@baiyijiuba)

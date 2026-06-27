@@ -1,23 +1,17 @@
 ---
-type: "entity"
+type: "Author"
 title: "Om Patel (@om_patel5)"
 description: "X/Twitter 作者 @om_patel5。共收录 1 条 AI 精选推文。"
 tags:
   - "x-news"
   - "author"
   - "author:om_patel5"
-timestamp: "2026-06-26T11:53:36.990Z"
+timestamp: "2026-06-27T08:40:40.202Z"
 x_handle: "om_patel5"
 x_author_name: "Om Patel"
 x_tweet_count: 1
 x_first_seen: "2026-04-27T06:54:39.256Z"
 x_last_seen: "2026-04-27T06:54:39.256Z"
-type_okf: "Author"
-created: "2026-04-27"
-updated: "2026-06-26"
-sha256: "8b40ebc4ebb245b894ce22671cbc5d1e2034f10aa8bb510408820fea31661e4e"
-sources:
-  - "/sources/highlights/2026-04-27/00__om_patel5__anthropic单方面封禁110人公司-平台治理-先斩后奏-成行业隐患.md"
 ---
 
 # Om Patel (@om_patel5)

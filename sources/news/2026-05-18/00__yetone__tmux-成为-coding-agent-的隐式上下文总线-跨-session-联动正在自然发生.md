@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Tmux 成为 Coding Agent 的隐式上下文总线：跨 session 联动正在自然发生"
 description: "**[Coding Agent 借助 tmux 实现跨窗口上下文复用，是目前最低成本的 agent 间协作范式]**  发现一：tmux capture-pane 让 LLM 能自发读取其他 tmux window 甚至其他 session 的内容，无需特殊 prompt。这是 tmux 作为终端复用器的天然能力被 LLM 主动发现和利用。  发现二：典型场景一是 debug 后端日志——agen"
 resource: "https://x.com/i/status/2056273108143862011"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2056273108143862011"
-created: "2026-05-18"
-updated: "2026-06-26"
-sha256: "cc98dc5bf627b682a11e1da531824a648bc4b6d67c2c77b6d2eb5a081d2a1ed4"
-sources:
-  - "/sources/news/2026-05-18/00__yetone__tmux-成为-coding-agent-的隐式上下文总线-跨-session-联动正在自然发生.md"
 ---
 
 # Tmux 成为 Coding Agent 的隐式上下文总线：跨 session 联动正在自然发生

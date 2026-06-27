@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "华南理工+鹏城实验室提出 LCA：在压缩潜空间内做 query-aware pooling，128K 长上下文 prefill 提速 2.5x 且零额外参数"
 description: "**[长上下文推理的算力瓶颈正在被「潜空间内压缩」思路绕开，而非硬扛注意力复杂度]**  - LCA（Latent-Condensed Attention）直接在模型压缩后的潜空间内按 query 相关性聚组 token，位置信息单独保留，不引入额外参数 - 128K 上下文场景 prefill 速度提升 2.5x，对 Agent 长会话和文档级推理场景有直接工程价值 - 华南理工 + 鹭鹏城实验"
 resource: "https://x.com/i/status/2051718064711020936"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2051718064711020936"
-created: "2026-05-05"
-updated: "2026-06-26"
-sha256: "ce15973f395a8b9189d8881a9cac344048f5fdf5d60df4330da6c62997c1b672"
-sources:
-  - "/sources/news/2026-05-05/00__jiqizhixin__华南理工-鹏城实验室提出-lca-在压缩潜空间内做-query-aware-pooling-128k-长上下文-pref.md"
 ---
 
 # 华南理工+鹏城实验室提出 LCA：在压缩潜空间内做 query-aware pooling，128K 长上下文 prefill 提速 2.5x 且零额外参数

@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "解析 OpenClaw 出圈密码：龙虾标志背后的 100 个信息差"
 description: "**[现象级项目剖析]** - 社区热议 OpenClaw 爆火原因，总结了 AI 时代的 100 个核心信息差。 - OpenClaw 标志性的龙虾 🦞 IP 成功占据了开发者心智，成为新一代效率工具的代名词。  [gakki 锐评]：技术过硬是底座，玩梗和社区文化才是起飞的推进器。这只龙虾确实掐住了痛点。"
 resource: "https://x.com/i/status/2027186715249590552"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2027186715249590552"
-created: "2026-02-27"
-updated: "2026-06-26"
-sha256: "e1515466a1432576103bff1da7d3cc253d0a9c4adb292975fe2f5678fefbb4ed"
-sources:
-  - "/sources/news/2026-02-27/00__AIExplorerNora__解析-openclaw-出圈密码-龙虾标志背后的-100-个信息差.md"
 ---
 
 # 解析 OpenClaw 出圈密码：龙虾标志背后的 100 个信息差

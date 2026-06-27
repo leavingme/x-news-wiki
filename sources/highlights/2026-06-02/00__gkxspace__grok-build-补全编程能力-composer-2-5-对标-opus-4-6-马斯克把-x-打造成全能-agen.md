@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Grok Build 补全编程能力：Composer 2.5 对标 Opus 4.6，马斯克把 X 打造成全能 Agent 入口"
 description: "**一句话核心判断** Grok Build 通过接入 X 搜索 + Composer 2.5 编程 + Imagine 多模态生成，正在从聊天机器人进化为企业级 Agent 平台。  **信息增量** - Composer 2.5 编程能力被评测对标 Opus 4.6 级别，Cursor 老用户确认可用性 - X 搜索能力已接入，实现社交信息 + 全网搜索的双重增强 - Imagine 生图/视"
 resource: "https://x.com/i/status/2061649840061251713"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2061649840061251713"
-created: "2026-06-02"
-updated: "2026-06-26"
-sha256: "920c866ef2da7bbed99f8d660533e60ccab5fa30374f91502d4ce5fa2ae93ba2"
-sources:
-  - "/sources/highlights/2026-06-02/00__gkxspace__grok-build-补全编程能力-composer-2-5-对标-opus-4-6-马斯克把-x-打造成全能-agen.md"
 ---
 
 # Grok Build 补全编程能力：Composer 2.5 对标 Opus 4.6，马斯克把 X 打造成全能 Agent 入口

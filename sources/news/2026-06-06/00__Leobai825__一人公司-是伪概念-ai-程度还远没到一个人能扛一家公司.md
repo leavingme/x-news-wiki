@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "「一人公司」是伪概念：AI 程度还远没到一个人能扛一家公司"
 description: "**天策用一年实操经历否定 OPC 叙事：当下的 AI 能力密度撑不起「一个人=一家公司」。**  要点： - 一人公司（OPC）概念在 AI 圈被反复包装成「个人创业终极形态」，但实操中客服、对接、运维、商务谈判等环节无法被现有 AI 工具替代。 - 这是「精益创业在 AI 时代失效」叙事的反例补丁：不是 AI 让创业更简单，而是 AI 让某些环节变简单、但同时把创业者对其他能力的短板暴露得更彻"
 resource: "https://x.com/i/status/2063137619026784563"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2063137619026784563"
-created: "2026-06-06"
-updated: "2026-06-26"
-sha256: "82377bfa27f15c5d606e6893fec4333aeec0d672758a9ff63bf9aab716161726"
-sources:
-  - "/sources/news/2026-06-06/00__Leobai825__一人公司-是伪概念-ai-程度还远没到一个人能扛一家公司.md"
 ---
 
 # 「一人公司」是伪概念：AI 程度还远没到一个人能扛一家公司

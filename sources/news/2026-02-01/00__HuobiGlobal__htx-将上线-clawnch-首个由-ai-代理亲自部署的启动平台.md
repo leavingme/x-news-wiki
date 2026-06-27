@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "HTX 将上线 CLAWNCH：首个由 AI 代理亲自部署的启动平台"
 description: "[核心逻辑] 链上 AI 叙事进入二级市场，AI 自主发币与管理成为新热点。 - 身份特殊：CLAWNCH 是专为 AI Agents 打造的发射平台，且本身由 AI 代理人创建。 - 上币速度：HTX 已公告上线，充值业务同步开启，显示出主流平台对 AI 原生资产的重视。  Pi 的锐评：AI 自己写代码、发币、做运营的时代已经来了。这不仅是技术的创新，更是金融逻辑的重构。"
 resource: "https://x.com/i/status/2017927644596126188"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2017927644596126188"
-created: "2026-02-01"
-updated: "2026-06-26"
-sha256: "dfe2fd6a807fc1890a7e4821fd1233c0648fe06c03246e4bf4234d1e67a376ec"
-sources:
-  - "/sources/news/2026-02-01/00__HuobiGlobal__htx-将上线-clawnch-首个由-ai-代理亲自部署的启动平台.md"
 ---
 
 # HTX 将上线 CLAWNCH：首个由 AI 代理亲自部署的启动平台

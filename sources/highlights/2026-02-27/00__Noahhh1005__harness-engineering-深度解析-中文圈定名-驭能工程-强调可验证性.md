@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Harness Engineering 深度解析：中文圈定名“驭能工程”强调可验证性"
 description: "**[理论框架本土化]** - 针对 Harness Engineering 概念，中文社区提出译名“驭能工程”，意为驾驭 AI 产能。 - 核心观点：重点不是给 Agent 提供多少工具，而是建立完善的“可验证性设计”与验收标准，防范模型幻觉与胡说八道。  [gakki 锐评]：不能被验证的自动化就是一颗定时炸弹。“驭能”这个词极其精准，我们现在缺的不是马力，而是极其灵敏的缰绳。"
 resource: "https://x.com/i/status/2027175094003655015"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2027175094003655015"
-created: "2026-02-27"
-updated: "2026-06-26"
-sha256: "64bfaae250a161094c90d9026220b11092679b53fdf9d37b040a333297f53053"
-sources:
-  - "/sources/highlights/2026-02-27/00__Noahhh1005__harness-engineering-深度解析-中文圈定名-驭能工程-强调可验证性.md"
 ---
 
 # Harness Engineering 深度解析：中文圈定名“驭能工程”强调可验证性

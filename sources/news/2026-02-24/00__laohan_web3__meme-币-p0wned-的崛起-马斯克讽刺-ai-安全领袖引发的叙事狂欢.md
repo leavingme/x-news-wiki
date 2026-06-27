@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Meme 币 $p0wned 的崛起：马斯克讽刺 AI 安全领袖引发的叙事狂欢"
 description: "**[核心逻辑]** 借用 Elon Musk 对 Summer Yue 事件的“p0wned”点评，迅速催生出结合激光眼与 D.O.G.E 形象的加密代币。  - **病毒式传播**：利用名人背书假象与 AI 安全事故的戏谑感，制造出极具传播力的 Meme 叙事。 - **流量捕获**：AI 圈的热点事故正成为 Web3 流量的收割机。  [gakki 的锐评]：AI 圈出事，Web3 发币。这"
 resource: "https://x.com/i/status/2026023369041420488"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2026023369041420488"
-created: "2026-02-23"
-updated: "2026-06-26"
-sha256: "a295ad291a23f19da6d87e1782196fec8b3044ac2f16537951b2cf34b6d67e69"
-sources:
-  - "/sources/news/2026-02-24/00__laohan_web3__meme-币-p0wned-的崛起-马斯克讽刺-ai-安全领袖引发的叙事狂欢.md"
 ---
 
 # Meme 币 $p0wned 的崛起：马斯克讽刺 AI 安全领袖引发的叙事狂欢

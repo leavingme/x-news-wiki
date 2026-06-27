@@ -1,23 +1,17 @@
 ---
-type: "entity"
+type: "Author"
 title: "曾嘉俊 Zeng Jiajun (@zengjiajun_eth)"
 description: "X/Twitter 作者 @zengjiajun_eth。共收录 1 条 AI 精选推文。"
 tags:
   - "x-news"
   - "author"
   - "author:zengjiajun_eth"
-timestamp: "2026-06-26T11:53:36.947Z"
+timestamp: "2026-06-27T08:40:40.155Z"
 x_handle: "zengjiajun_eth"
 x_author_name: "曾嘉俊 Zeng Jiajun"
 x_tweet_count: 1
 x_first_seen: "2026-02-27T01:00:44.670Z"
 x_last_seen: "2026-02-27T01:00:44.670Z"
-type_okf: "Author"
-created: "2026-02-27"
-updated: "2026-06-26"
-sha256: "dd9002118151562769fc0800fd6a8fe94335ba4460d00edc60a3c5edd12cfb6b"
-sources:
-  - "/sources/news/2026-02-27/00__zengjiajun_eth__openclaw-带来的-aha-moment-被视作普通人最后的阶层跨越机会.md"
 ---
 
 # 曾嘉俊 Zeng Jiajun (@zengjiajun_eth)

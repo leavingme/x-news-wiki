@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Claude原生可视化：\"边说边画\"正在杀死图表工具的中间环节"
 description: "**[对话式AI的能力边界扩张]** - Claude新增对话内直接生成交互式图表和示意图功能，所有套餐（含免费用户）已可使用 - 区别于Artifacts需要主动请求独立窗口，新功能实现\"边说边画\"的流式嵌入体验 - 场景价值：流程解释、数据对比、系统架构梳理等高频需求无需跳转外部工具  Anthropic正在把\"生成后编辑\"压缩成\"生成即呈现\"——这不是功能叠加，是交互范式的降维。"
 resource: "https://x.com/i/status/2032189698433482771"
@@ -22,13 +22,6 @@ x_selected: 2
 x_priority: 85
 x_related_topic: "claude-code-ecosystem"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2032189698433482771"
-created: "2026-03-12"
-updated: "2026-06-26"
-sha256: "15fe091174c8a2ce0135f2cbcc7320120d5ee3fac83ec24df2cd3922dd52eff5"
-sources:
-  - "/sources/highlights/2026-03-13/85__dotey__claude原生可视化-边说边画-正在杀死图表工具的中间环节.md"
 ---
 
 # Claude原生可视化："边说边画"正在杀死图表工具的中间环节

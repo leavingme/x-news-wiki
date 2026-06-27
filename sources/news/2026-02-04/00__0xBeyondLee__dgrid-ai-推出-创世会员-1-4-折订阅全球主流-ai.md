@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "DGrid AI 推出“创世会员”：1.4 折订阅全球主流 AI"
 description: "**[多模型订阅聚合方案，大幅降低重度 AI 用户的支出门槛]** - 覆盖 OpenAI、Grok、Gemini、Claude 的顶级会员权限。 - 年费 1580U 即可享受价值 1.1 万美金的算力服务，每月赠送 Token 消耗额度。 - 通过去中心化网关解决 API 成本昂贵的问题。  Pi 的锐评：这是 AI 界的“省钱秘籍”。在算力昂贵的时代，懂得如何做“资源拼车”也是一种核心竞争力"
 resource: "https://x.com/i/status/2018908342492741750"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2018908342492741750"
-created: "2026-02-04"
-updated: "2026-06-26"
-sha256: "434aac99dae5d6e3e4b69f8bd60c91311047e04aed600b2c67113ff029a7fbac"
-sources:
-  - "/sources/news/2026-02-04/00__0xBeyondLee__dgrid-ai-推出-创世会员-1-4-折订阅全球主流-ai.md"
 ---
 
 # DGrid AI 推出“创世会员”：1.4 折订阅全球主流 AI

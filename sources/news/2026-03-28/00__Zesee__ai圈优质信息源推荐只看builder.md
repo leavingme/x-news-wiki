@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "AI圈优质信息源推荐只看Builder"
 description: "AI圈的优质信息源推荐来了：只看Builder，不看Influencer"
 resource: "https://x.com/i/status/2037800422329766104"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2037800422329766104"
-created: "2026-03-28"
-updated: "2026-06-26"
-sha256: "829636279f25e4e9cfcef30567c1dd8a979901c1030a0c84766a6d7d292e10b3"
-sources:
-  - "/sources/news/2026-03-28/00__Zesee__ai圈优质信息源推荐只看builder.md"
 ---
 
 # AI圈优质信息源推荐只看Builder

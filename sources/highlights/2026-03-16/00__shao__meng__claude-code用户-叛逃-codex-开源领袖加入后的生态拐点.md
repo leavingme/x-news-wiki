@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Claude Code用户「叛逃」Codex：开源领袖加入后的生态拐点"
 description: "**[OpenAI正以开源社区领袖为杠杆撬动专业开发者]** • OpenClaw创始人steipete、Instructor作者jxnlco等核心KOL的站队，标志着Codex从「玩具」向「生产工具」的认知迁移 • 这类迁移具有示范效应——当基础设施层的意见领袖开始迁移，跟随者规模可能呈指数级扩散 • 隐忧：Codex生态仍在早期，Plus订阅后的体验能否留住这些「叛逃者」待验证  开源社区的「"
 resource: "https://x.com/i/status/2033160686273171514"
@@ -22,13 +22,6 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "codex-ecosystem-platform-war"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2033160686273171514"
-created: "2026-03-15"
-updated: "2026-06-26"
-sha256: "a2ddaa225e0d5f83cc14c8723801c26d65df6e16148ab0673e1d6fbd58376535"
-sources:
-  - "/sources/highlights/2026-03-16/00__shao__meng__claude-code用户-叛逃-codex-开源领袖加入后的生态拐点.md"
 ---
 
 # Claude Code用户「叛逃」Codex：开源领袖加入后的生态拐点

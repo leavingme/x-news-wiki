@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Bigset 开源：说一句话，AI Agent 并行跑遍全网，分钟级吐出结构化数据表"
 description: "**[数据采集工程的壁垒正在被自然语言接口夷平]**  Bigset 开源项目实现：用自然语言描述数据需求，系统自动派遣多 Agent 并行爬取各网站，几分钟后汇总为结构化表格。背后是三层架构——编排 Agent 发现实体，并行子 Agent 各自调研，工具预算 6 次封顶，数据来源可追溯。AGPL-3.0 开源，自托管，用自己的 API Key。  相比 Exa 付费服务，BigSet 不限主题"
 resource: "https://x.com/i/status/2061961813076709668"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2061961813076709668"
-created: "2026-06-03"
-updated: "2026-06-26"
-sha256: "5feee8cd81acda230b2395a502a248b0be189a56dd6fd6d9188e5c8cdbae4c35"
-sources:
-  - "/sources/news/2026-06-03/00__gkxspace__bigset-开源-说一句话-ai-agent-并行跑遍全网-分钟级吐出结构化数据表.md"
 ---
 
 # Bigset 开源：说一句话，AI Agent 并行跑遍全网，分钟级吐出结构化数据表

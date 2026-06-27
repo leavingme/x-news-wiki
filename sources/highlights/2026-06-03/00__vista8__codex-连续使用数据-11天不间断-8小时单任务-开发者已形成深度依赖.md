@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Codex 连续使用数据：11天不间断、8小时单任务，开发者已形成深度依赖"
 description: "**[开发者切换 Copilot→Codex 的真实行为数据]**  向阳乔木晒出自己和朋友的使用数据：连续不间断使用 Codex 达 11 天，单次最长任务 8 小时。更关键的是，朋友现在习惯把书稿样章直接丢给 Codex 来写推荐语——说明 AI 编程工具已从尝鲜进入日常工作流。  配合宝玉同日询问「你上次用 Copilot 吗」来看，开发者社区的转移信号明确，且这种转移是主动的、以周为单位在"
 resource: "https://x.com/i/status/2062019519787503712"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2062019519787503712"
-created: "2026-06-03"
-updated: "2026-06-26"
-sha256: "de90170a500ad260b6766f8275b9bfa39b4fb606a7454f4c6cbefc45bbeec375"
-sources:
-  - "/sources/highlights/2026-06-03/00__vista8__codex-连续使用数据-11天不间断-8小时单任务-开发者已形成深度依赖.md"
 ---
 
 # Codex 连续使用数据：11天不间断、8小时单任务，开发者已形成深度依赖

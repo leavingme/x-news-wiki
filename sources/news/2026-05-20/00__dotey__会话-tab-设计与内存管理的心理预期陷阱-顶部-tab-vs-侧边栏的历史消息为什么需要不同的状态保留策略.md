@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "会话 Tab 设计与内存管理的心理预期陷阱：顶部 Tab vs 侧边栏的历史消息为什么需要不同的状态保留策略"
 description: "**[一句话核心判断]**  会话管理界面设计存在隐性的状态保留契约——顶部 Tab 设计的用户默认预期是所有已打开会话的状态都要保留，而侧边栏点击的历史消息则暗示「全新加载」。这种心理预期的差异会直接影响实现方式，进而导致内存问题。  **信息增量：** - 两种交互范式的根本差异：Tab 模式用户预期跨会话状态持续保留，侧边栏模式用户预期每次点击都是全新加载 - 状态保留契约在设计阶段就需要明"
 resource: "https://x.com/i/status/2057193368224923853"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2057193368224923853"
-created: "2026-05-20"
-updated: "2026-06-26"
-sha256: "2348f4cbc3dee56bbd29348a0576c6bef7e2621b748076092053ad9caf60de79"
-sources:
-  - "/sources/news/2026-05-20/00__dotey__会话-tab-设计与内存管理的心理预期陷阱-顶部-tab-vs-侧边栏的历史消息为什么需要不同的状态保留策略.md"
 ---
 
 # 会话 Tab 设计与内存管理的心理预期陷阱：顶部 Tab vs 侧边栏的历史消息为什么需要不同的状态保留策略

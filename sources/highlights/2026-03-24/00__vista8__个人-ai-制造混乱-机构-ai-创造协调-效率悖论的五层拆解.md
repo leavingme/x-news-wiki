@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "个人 AI 制造混乱，机构 AI 创造协调：效率悖论的五层拆解"
 description: "**[让个人更高效 ≠ 让公司更高效，流程工程正在取代提示工程成为核心技能]** • 深度 > 广度：特定领域的垂直能力比通用对话更有价值 • AI 的最大价值在于「没人想到要问的工作」——发现隐性需求 • 当 AI 不再需要人类提示，界面和工作方式将发生范式迁移  gakki 锐评：这是对「AI 先上个人效率」叙事的纠偏。真正改变世界的 AI，不是让一个人多干五个人的活，而是让五个人协同干得像一"
 resource: "https://x.com/i/status/2036114278059762119"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2036114278059762119"
-created: "2026-03-23"
-updated: "2026-06-26"
-sha256: "3da26789445713555507d237bced5e6b8c6648f13e6bb5146f6747535408bb57"
-sources:
-  - "/sources/highlights/2026-03-24/00__vista8__个人-ai-制造混乱-机构-ai-创造协调-效率悖论的五层拆解.md"
 ---
 
 # 个人 AI 制造混乱，机构 AI 创造协调：效率悖论的五层拆解

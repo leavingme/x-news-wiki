@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Telegram 上手表现象级产品：手腕端打通聊天/语音/定位全场景"
 description: "**Telegram 正式登陆 Apple Watch 与 Android Wear OS，聊天、语音、图片、定位全功能移入手腕。**  要点： - 全功能移植：发文字/贴纸、听发语音、读任意长度消息、查看位置定位，无需掏手机 - 跨平台覆盖：iOS（Apple Watch）与 Android（Wear OS）双端同步上线 - 信息增量价值：通讯类 App 在穿戴端的体验竞争已从「通知提醒」升级为"
 resource: "https://x.com/i/status/2065614913209618815"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2065614913209618815"
-created: "2026-06-13"
-updated: "2026-06-26"
-sha256: "7b1de176fede796b637ea90ebbf763e0db7146f2a042c953bd138f1254fc2859"
-sources:
-  - "/sources/news/2026-06-13/00__xiaohu__telegram-上手表现象级产品-手腕端打通聊天-语音-定位全场景.md"
 ---
 
 # Telegram 上手表现象级产品：手腕端打通聊天/语音/定位全场景

@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "技术搞多了占用人生时间一辈子只能高级打工人：铁锤人的技术-商业认知断裂警示"
 description: "**[技术基本功与商业变现之间存在系统性的认知断层，技术人需要主动打破这个闭环]**  铁锤人在一篇关于OpenClaw的技术文章获得18w浏览后发出感慨：两年不关注技术领域却仍能快速看懂论文，说明技术底子尚在，但「和赚钱没啥关系」，不如研究管理和营销。  这条自省值得注意。它的核心矛盾不在于技术无用，而在于技术人缺乏将技术势能转化为商业结构的认知路径。这条动态下方同行为数不少，说明这是AI技术圈"
 resource: "https://x.com/i/status/2054733691226873925"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2054733691226873925"
-created: "2026-05-14"
-updated: "2026-06-26"
-sha256: "c523fcb27eef7e273a1cde8adc2ceae131a7c8b12f0e2acf9285a21ee776602e"
-sources:
-  - "/sources/news/2026-05-14/00__lxfater__技术搞多了占用人生时间一辈子只能高级打工人-铁锤人的技术-商业认知断裂警示.md"
 ---
 
 # 技术搞多了占用人生时间一辈子只能高级打工人：铁锤人的技术-商业认知断裂警示

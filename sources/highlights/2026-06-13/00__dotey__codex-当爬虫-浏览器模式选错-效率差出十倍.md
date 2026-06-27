@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Codex 当爬虫：浏览器模式选错，效率差出十倍"
 description: "**Codex 的浏览器能力比想象中更值钱，但 Chrome 插件和内置浏览器是两种完全不同的工具。**  - Chrome 插件模式核心优势是登录态共享，但吃资源重；适合需要复用你已有浏览器账户的场景 - 内置浏览器跑在沙箱里，指纹干净、UA 真实，能绕过大多数反爬检测 - 配合 /goal 模式设定目标，Codex 会自主规划步骤、翻页、处理异常，无需逐步指挥 - 相比 requests/Pl"
 resource: "https://x.com/i/status/2065857399425032522"
@@ -22,13 +22,6 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "codex-cli-tool-encapsulation"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2065857399425032522"
-created: "2026-06-13"
-updated: "2026-06-26"
-sha256: "84f70035d607ac51e79dd1add3c8e83fda8d70521f2e8aaafdb5b8f9cfc63945"
-sources:
-  - "/sources/highlights/2026-06-13/00__dotey__codex-当爬虫-浏览器模式选错-效率差出十倍.md"
 ---
 
 # Codex 当爬虫：浏览器模式选错，效率差出十倍

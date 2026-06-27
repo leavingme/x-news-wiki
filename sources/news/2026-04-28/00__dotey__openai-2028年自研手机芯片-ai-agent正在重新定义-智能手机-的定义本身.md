@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "OpenAI 2028年自研手机芯片：AI Agent正在重新定义「智能手机」的定义本身"
 description: "**一句话核心判断：AI Agent 的本质是「任务完成」而非「App访问」，这将从根本上瓦解现有智能手机的产品逻辑。**  • OpenAI 正与联发科、高通合作开发智能手机处理器，立讯精密独家系统共同设计与制造，预计2028年量产。AI Agent将使用户从「在App中完成任务」转向「用自然语言完成任务」，彻底重新定义人机交互范式。 • 智能手机是唯一能持续捕捉用户完整实时状态的设备，这些实时"
 resource: "https://x.com/i/status/2048913545417396516"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2048913545417396516"
-created: "2026-04-27"
-updated: "2026-06-26"
-sha256: "431788a6f742e8065bb661a56fcdab41c87b9afca279b01527cf743a7a71ccd8"
-sources:
-  - "/sources/news/2026-04-28/00__dotey__openai-2028年自研手机芯片-ai-agent正在重新定义-智能手机-的定义本身.md"
 ---
 
 # OpenAI 2028年自研手机芯片：AI Agent正在重新定义「智能手机」的定义本身

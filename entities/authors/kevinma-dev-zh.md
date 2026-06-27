@@ -1,25 +1,17 @@
 ---
-type: "entity"
+type: "Author"
 title: "Kevin Ma (@kevinma_dev_zh)"
 description: "X/Twitter 作者 @kevinma_dev_zh。共收录 3 条 AI 精选推文。"
 tags:
   - "x-news"
   - "author"
   - "author:kevinma_dev_zh"
-timestamp: "2026-06-26T11:53:36.943Z"
+timestamp: "2026-06-27T08:40:40.150Z"
 x_handle: "kevinma_dev_zh"
 x_author_name: "Kevin Ma"
 x_tweet_count: 3
 x_first_seen: "2026-02-21T01:00:40.554Z"
 x_last_seen: "2026-03-16T02:56:01.949Z"
-type_okf: "Author"
-created: "2026-02-21"
-updated: "2026-06-26"
-sha256: "d97d089a3e3fc7f9c25f67b53a82bcb44d6328734e6dd83394c5e53d4fcb9341"
-sources:
-  - "/sources/highlights/2026-02-21/00__kevinma_dev_zh__认知降维-claude-code-security-开启-ai-原生代码审计.md"
-  - "/sources/highlights/2026-03-14/88__kevinma_dev_zh__claude-code-深度解剖-从-聊天工具-到-agent-操作系统-的认知跃迁.md"
-  - "/sources/highlights/2026-03-16/00__kevinma_dev_zh__anthropic-academy-免费开放-claude-生态的-官方护城河-开始浇筑.md"
 ---
 
 # Kevin Ma (@kevinma_dev_zh)

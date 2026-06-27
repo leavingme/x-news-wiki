@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Googlebook 把即时 UI 生成塞进桌面：提示词直接跑出一个Widgets意味着什么"
 description: "**[Gemini 从被动应答走向主动建构的第一刀]**  Googlebook 的「Create your Widget」功能让用户通过自然语言提示词即可生成任意自定义小组件——这不是 Gemini 回答问题，而是 Gemini 在帮你构建界面本身。  关键变化： - 传统 Widget 需要开发者写代码，用户安装；现在是 AI 即时生成，用户直接消费 - 这意味着 Gemini 的能力边界从「"
 resource: "https://x.com/i/status/2054352662125244715"
@@ -22,13 +22,6 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "ai-browser-platform-war"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2054352662125244715"
-created: "2026-05-13"
-updated: "2026-06-26"
-sha256: "ed637e29a240791cb9abbe451f34030c38577de8f9d36bb725934bd7773e1377"
-sources:
-  - "/sources/news/2026-05-13/00__xiaohu__googlebook-把即时-ui-生成塞进桌面-提示词直接跑出一个widgets意味着什么.md"
 ---
 
 # Googlebook 把即时 UI 生成塞进桌面：提示词直接跑出一个Widgets意味着什么

@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Polymarket数据套利闭环：当AI Agent学会「人性贪婪」开始自治交易"
 description: "**[预测市场数据层正在成为AI Agent的训练燃料]** • Polymarket将投注行为数据出售给AI Agent，形成「人类投机→数据沉淀→模型训练→自动收割」的闭环 • AI Agent通过链上数据学习「人性贪婪」模式，实现比人类更快的套利决策 • 警示：玩家在被机器人钱包悄无声息收割的同时，还在刷下一个热盘——这是算法对散户的降维打击  **gakki锐评**：这不是DeFi创新，这"
 resource: "https://x.com/i/status/2035261640984363147"
@@ -22,13 +22,6 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "ai-crypto-agent-infra"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2035261640984363147"
-created: "2026-03-21"
-updated: "2026-06-26"
-sha256: "4c1393d453ad8db83ad063f6aa5ae82d03ce0260fff281df8ef627078733f454"
-sources:
-  - "/sources/highlights/2026-03-21/00__BTCDTA__polymarket数据套利闭环-当ai-agent学会-人性贪婪-开始自治交易.md"
 ---
 
 # Polymarket数据套利闭环：当AI Agent学会「人性贪婪」开始自治交易

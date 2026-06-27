@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "OpenClaw 群聊交互范式重构，创始人公开推荐 codex harness 替代 GPT"
 description: "**OpenClaw 群聊 Agent 交互逻辑被重写，创始人亲自下场推荐竞品引擎，Agent 生态的协作标准正在被重新定义。**  - Peter Steinberger 宣布群聊 Agent 交互「重写了整个对话逻辑」，体验质变 - 创始人公开推荐从 GPT 切换到 codex harness 以获得更好性能 - 这意味着 Agent 框架正在从「能用」走向「好用」，群聊场景的 Agent 交"
 resource: "https://x.com/steipete/status/2049988836160074022"
@@ -22,13 +22,6 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "open-agent-ecosystem"
 x_source: "ai-trend-digest"
-type_okf: "X Tweet"
-source_url: "https://x.com/steipete/status/2049988836160074022"
-created: "2026-04-30"
-updated: "2026-06-26"
-sha256: "1d484a8707326a4b561ae1a220eaf16a995f56e3f88376b0b613409b765b0c63"
-sources:
-  - "/sources/news/2026-05-01/00__steipete__openclaw-群聊交互范式重构-创始人公开推荐-codex-harness-替代-gpt.md"
 ---
 
 # OpenClaw 群聊交互范式重构，创始人公开推荐 codex harness 替代 GPT

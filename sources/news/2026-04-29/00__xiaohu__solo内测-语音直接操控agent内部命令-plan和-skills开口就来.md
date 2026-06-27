@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "SOLO内测：语音直接操控Agent内部命令，/Plan和/Skills开口就来"
 description: "**[语音正在成为 Agent 的第一交互界面]**  - SOLO内测揭示：语音不只描述需求，还能直接触发 /Plan、/Skills 等内部命令 - 用语音指代文件、触发命令——意味着用户不需要知道命令叫什么，只需「说出来」，AI替他翻译成操作 - 这是技能层（Skills）和语音感知层的深度整合，也是 Agent 工具调用门槛的进一步下移  **gakki**: 当「说句话就能调技能」成为标"
 resource: "https://x.com/i/status/2049332884570599505"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2049332884570599505"
-created: "2026-04-29"
-updated: "2026-06-26"
-sha256: "3acf747617e639da5b46c69e6751c0ddefbc62e3937a6f3e515959f4a4e614b0"
-sources:
-  - "/sources/news/2026-04-29/00__xiaohu__solo内测-语音直接操控agent内部命令-plan和-skills开口就来.md"
 ---
 
 # SOLO内测：语音直接操控Agent内部命令，/Plan和/Skills开口就来

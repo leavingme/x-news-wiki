@@ -1,31 +1,17 @@
 ---
-type: "entity"
+type: "Author"
 title: "Leo (@runes_leo)"
 description: "X/Twitter 作者 @runes_leo。共收录 9 条 AI 精选推文。"
 tags:
   - "x-news"
   - "author"
   - "author:runes_leo"
-timestamp: "2026-06-26T11:53:36.950Z"
+timestamp: "2026-06-27T08:40:40.159Z"
 x_handle: "runes_leo"
 x_author_name: "Leo"
 x_tweet_count: 9
 x_first_seen: "2026-03-03T01:07:04.865Z"
 x_last_seen: "2026-03-23T00:43:10.339Z"
-type_okf: "Author"
-created: "2026-03-03"
-updated: "2026-06-26"
-sha256: "32c8324b6bd12ebddc89030ce6d36e851de84aa2fa7b0a24ccfa8e0301705cc0"
-sources:
-  - "/sources/highlights/2026-03-15/88__runes_leo__thread-weaving架构-slate如何破解sub-agent-信息黑洞.md"
-  - "/sources/highlights/2026-03-17/00__runes_leo__反共识-我们经历的并非智力危机-而是智力大爆炸.md"
-  - "/sources/highlights/2026-03-18/00__runes_leo__claude-code-的-lsp-加速隐藏开关-代码导航从-文本搜索-跃迁为-语义理解.md"
-  - "/sources/highlights/2026-03-18/00__runes_leo__本地agent调用web服务的新范式-claude通过applescript直连grok实现零摩擦交叉验证.md"
-  - "/sources/highlights/2026-03-23/00__runes_leo__leo的-记忆跨链-实践-markdown-symlink-打通多-agent-记忆孤岛.md"
-  - "/sources/news/2026-03-03/00__runes_leo__dune-mcp上线-链上数据分析工作流从-多窗口跳转-变为-单prompt闭环.md"
-  - "/sources/news/2026-03-04/00__runes_leo__leo-的-claude-code-体系化实践-工具可换-记忆结构长在自己身上.md"
-  - "/sources/news/2026-03-07/88__runes_leo__claude-code创造者的工作流-5个并行实例-3次重复即自动化.md"
-  - "/sources/news/2026-03-09/92__runes_leo__claude-code-打破信息茧房-x-实时搜索的-外挂式-工程解.md"
 ---
 
 # Leo (@runes_leo)

@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Claude Code 原生 Computer Use：AI 从「写代码」到「操控电脑」的范式跃迁"
 description: "**[Claude Code 正式引入 Computer Use，标志着 AI Agent 从代码生成走向端到端任务执行]**  • **场景突破**：原生应用验证（自动编译 Swift/macOS 应用并截图验证）、端到端 UI 测试（无需 Playwright 配置）、视觉 Bug 调试（自动调整窗口复现错位）、操控无 API 工具（设计软件/系统设置） • **门槛限制**：仅限 macOS"
 resource: "https://x.com/i/status/2038765941534912583"
@@ -22,13 +22,6 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "claude-code-ecosystem"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2038765941534912583"
-created: "2026-03-30"
-updated: "2026-06-26"
-sha256: "45a085e38c8d472fa2fb2fb58f84ddf1429c118c7a37bc9e1d52899bdbf6d807"
-sources:
-  - "/sources/highlights/2026-03-31/00__yanhua1010__claude-code-原生-computer-use-ai-从-写代码-到-操控电脑-的范式跃迁.md"
 ---
 
 # Claude Code 原生 Computer Use：AI 从「写代码」到「操控电脑」的范式跃迁

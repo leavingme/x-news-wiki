@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "「Vibe Computing」已来：UI 不再是固定界面，而是 AI 临时生成的工作流"
 description: "**[一句话换一整个动态桌面，固定 UI 正在被 AI 解构]**  用户说「帮我做个 xxx 的聚会仪表盘」，Gemini 自动调动 Gmail、Calendar、网页信息并生成 Widget。核心变化不是「生成内容」，而是「生成界面」本身——UI 不再是预装的，而是按需临时生成。  · 传统逻辑：人找功能 → 界面是固定的 · Vibe Computing 逻辑：AI 根据任务临时构建 UI "
 resource: "https://x.com/i/status/2054348706430980539"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2054348706430980539"
-created: "2026-05-12"
-updated: "2026-06-26"
-sha256: "eab6563543a96e81fb28920910a345650b51ba08a2c1e8e8934379c69c70c673"
-sources:
-  - "/sources/highlights/2026-05-13/00__xiaohu__vibe-computing-已来-ui-不再是固定界面-而是-ai-临时生成的工作流.md"
 ---
 
 # 「Vibe Computing」已来：UI 不再是固定界面，而是 AI 临时生成的工作流

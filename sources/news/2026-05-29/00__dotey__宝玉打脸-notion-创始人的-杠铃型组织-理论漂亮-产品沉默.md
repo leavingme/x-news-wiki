@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "宝玉打脸 Notion 创始人的「杠铃型组织」：理论漂亮，产品沉默"
 description: "**[一句话核心判断]**  Notion 创始人的杠铃型组织理论（极 junior + 极 senior，去中间层）经不起工程实践的检验，且在 AI 时代的适用性存疑。  **信息增量：** - 杠铃结构的两个致命问题：junior 产出不靠谱需要 senior 大量兜底（比自己做还累）；junior 会自然成长为中层，杠铃会变三角锥，难道定期裁员重建？ - 更精准的类比：这个理论用在「一个人指"
 resource: "https://x.com/i/status/2060421928267952385"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2060421928267952385"
-created: "2026-05-29"
-updated: "2026-06-26"
-sha256: "ee7e553f27ed4c0e6c90972d9ee185956e8a3c7dcd16ec9e81736e64de7aba5d"
-sources:
-  - "/sources/news/2026-05-29/00__dotey__宝玉打脸-notion-创始人的-杠铃型组织-理论漂亮-产品沉默.md"
 ---
 
 # 宝玉打脸 Notion 创始人的「杠铃型组织」：理论漂亮，产品沉默

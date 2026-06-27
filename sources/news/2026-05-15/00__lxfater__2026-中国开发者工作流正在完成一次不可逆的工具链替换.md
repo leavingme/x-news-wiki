@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "2026 中国开发者工作流正在完成一次不可逆的工具链替换"
 description: "**一线实践者的真实工作流迁移正在发生，而非纸上谈兵。**  - 核心切换：Claude Code→Codex（封号风险驱动）、Notion→飞书（CLI速度+本土化优势）、Gemini→Grok（X会员捆绑） - 关键信号：文字工作已被 agent 接管，CLI 工具速度直接决定生产力——这是 Agent 替代层级已渗透到生产工具的实证 - 付费逻辑重构：Claude Max 等高价订阅正在被「"
 resource: "https://x.com/i/status/2055232506925101064"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2055232506925101064"
-created: "2026-05-15"
-updated: "2026-06-26"
-sha256: "a4f07a58f6e6f7761212da142d8b5b530051961658a42a38947f26ae5c15f1c3"
-sources:
-  - "/sources/news/2026-05-15/00__lxfater__2026-中国开发者工作流正在完成一次不可逆的工具链替换.md"
 ---
 
 # 2026 中国开发者工作流正在完成一次不可逆的工具链替换

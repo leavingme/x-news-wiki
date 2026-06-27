@@ -1,23 +1,17 @@
 ---
-type: "entity"
+type: "Author"
 title: "Marko slavnic (@Markoslavnic)"
 description: "X/Twitter 作者 @Markoslavnic。共收录 1 条 AI 精选推文。"
 tags:
   - "x-news"
   - "author"
   - "author:Markoslavnic"
-timestamp: "2026-06-26T11:53:36.998Z"
+timestamp: "2026-06-27T08:40:40.213Z"
 x_handle: "Markoslavnic"
 x_author_name: "Marko slavnic"
 x_tweet_count: 1
 x_first_seen: "2026-05-09T07:18:23.376Z"
 x_last_seen: "2026-05-09T07:18:23.376Z"
-type_okf: "Author"
-created: "2026-05-09"
-updated: "2026-06-26"
-sha256: "de53ed4ddc61b6c0d156c11d3d91f2fa992c0c825ed6d1a5f57dcba2ed9d2de3"
-sources:
-  - "/sources/news/2026-05-09/00__Markoslavnic__runwayml-单人几小时出完整动画-ai-视频生成的-个人工作室-门槛已经被击穿.md"
 ---
 
 # Marko slavnic (@Markoslavnic)

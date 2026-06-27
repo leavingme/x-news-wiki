@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "微软 $130亿投资 OpenAI 的背后：自研 MAI 模型正面宣战"
 description: "**[微软同时做 OpenAI 最大投资人和最大竞争对手]**  微软发布三个 MAI 自研模型，全部上架 Foundry 平台，形成对 OpenAI 的直接竞争：  • MAI-Transcribe-1：语音转写，在 25 种语言中 11 种拿下第一，14 种赢过 Whisper large-v3，11 种赢过 Gemini 3.1 Flash。定价 $0.36/小时。 • MAI-Voice-"
 resource: "https://x.com/i/status/2039727961398706391"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2039727961398706391"
-created: "2026-04-02"
-updated: "2026-06-26"
-sha256: "e2d24346afcb2621f6ea10204f58f398bf350e27204968d6b14a1bb2c4057b25"
-sources:
-  - "/sources/highlights/2026-04-02/00__pirrer__微软-130亿投资-openai-的背后-自研-mai-模型正面宣战.md"
 ---
 
 # 微软 $130亿投资 OpenAI 的背后：自研 MAI 模型正面宣战

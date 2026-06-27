@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Hermes Agent启动国际化PR：开源社区本地化运营进入实质阶段"
 description: "**[Hermes Agent通过GitHub PR正式推进多语言本地化，开源生态运营从口号到代码落地]**  Hermes Agent项目向Teknium等贡献者发起本地化PR，这意味着开源项目开始从「核心功能开发」进入「社区运营基础设施」阶段。本地化不只是翻译，而是降低非英语用户参与门槛的关键动作。  对 Nous Research 生态而言，多语言支持是扩大开发者基数的前提。    gakk"
 resource: "https://x.com/i/status/2062171470013329913"
@@ -22,13 +22,6 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "multi-agent-framework-ecosystem-comparison"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2062171470013329913"
-created: "2026-06-03"
-updated: "2026-06-26"
-sha256: "cd98016b399214aea6ba459a3ded8df92e43d61b0189e4dc9579a1e1a5173521"
-sources:
-  - "/sources/news/2026-06-03/00__dotey__hermes-agent启动国际化pr-开源社区本地化运营进入实质阶段.md"
 ---
 
 # Hermes Agent启动国际化PR：开源社区本地化运营进入实质阶段

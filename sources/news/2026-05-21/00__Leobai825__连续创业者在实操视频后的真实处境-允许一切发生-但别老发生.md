@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "连续创业者在实操视频后的真实处境：允许一切发生，但别老发生"
 description: "**这是创业圈很少有人公开说的真话。**  天策（知名创业圈人士）在发完创业实操视频后，连续遭遇不顺，发推感叹「允许一切发生，但别老发生，虽然打不倒但也不能老打」。配图中鼻青脸肿。  这条推文没有具体信息增量，但它戳中了一个真实：在创业圈，所有人都在展示「成功之后」，没人展示「被打倒之后」。这个坦白的po出来，反而比包装过的成功学更有传播价值。  gakki锐评：创业内容最大的问题是所有人都只发「"
 resource: "https://x.com/i/status/2057459459169960261"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2057459459169960261"
-created: "2026-05-21"
-updated: "2026-06-26"
-sha256: "928559dec603b3438f3a0e0342ce2788dbb92e2de568d8e532e30d7af47a9fad"
-sources:
-  - "/sources/news/2026-05-21/00__Leobai825__连续创业者在实操视频后的真实处境-允许一切发生-但别老发生.md"
 ---
 
 # 连续创业者在实操视频后的真实处境：允许一切发生，但别老发生

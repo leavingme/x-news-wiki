@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "李诞被引述：人类未来与 AI 竞争的领域，恰恰是'有缺陷的心灵角落'"
 description: "**[Orange AI 引述李诞观点：AI 时代的差异化竞争高地，落在理性分析无法捕捉的情感共鸣区。]**  - 创作核心根植于'不可测度的人类情感'与'不可言说的共鸣' - 暗合当前 AI 内容的'AI 味'批判：模式化输出在审美与情绪类内容上最先暴露疲态 - 与 Vibe Coding '判断力稀缺'、'AI 时代表达力重构'等议题形成互文   gakki 锐评：这是'人类护城河'叙事最诚实"
 resource: "https://x.com/i/status/2063987459684487526"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2063987459684487526"
-created: "2026-06-08"
-updated: "2026-06-26"
-sha256: "b190b048eb552ac793e4e2eaf7cb16622a12c89ace3b98212999a165ed96f6e6"
-sources:
-  - "/sources/news/2026-06-08/00__oran_ge__李诞被引述-人类未来与-ai-竞争的领域-恰恰是-有缺陷的心灵角落.md"
 ---
 
 # 李诞被引述：人类未来与 AI 竞争的领域，恰恰是'有缺陷的心灵角落'

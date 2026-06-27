@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Chronicle 要求 Pro 才能用：Claude Code 用户加速迁移 Codex 的第一个实质信号"
 description: "**[一句话核心判断]**  铁锤人从 Claude Code 迁往 Codex，理由直接：Chronicle 功能设了 Pro 付费墙。这是市场口碑变化后，第一个具体的产品层面的「用脚投票」。  **信息增量：** - Chronicle 是代码库上下文记忆功能，对 Agent 编程体验至关重要（减少每次 session 的上下文重建开销） - Pro 付费墙等于向免费用户宣告：你不值得这个功能"
 resource: "https://x.com/i/status/2061359661316759952"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2061359661316759952"
-created: "2026-06-01"
-updated: "2026-06-26"
-sha256: "a81e762d5c3ca3df1425d882cfe07398adcfef1e50ded1c270f6c546c7a769fa"
-sources:
-  - "/sources/highlights/2026-06-01/00__lxfater__chronicle-要求-pro-才能用-claude-code-用户加速迁移-codex-的第一个实质信号.md"
 ---
 
 # Chronicle 要求 Pro 才能用：Claude Code 用户加速迁移 Codex 的第一个实质信号

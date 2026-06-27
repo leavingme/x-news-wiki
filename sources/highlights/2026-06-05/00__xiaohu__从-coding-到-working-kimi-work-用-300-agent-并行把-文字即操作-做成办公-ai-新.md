@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "从 Coding 到 Working：Kimi Work 用 300 Agent 并行把'文字即操作'做成办公 AI 新入口"
 description: "**AI 工具的战场正从'写代码'迁移到'干工作'，Kimi 用 Work 给出了终端零配置的桌面 Agent 答案。**  • Kimi Work 是 Kimi Code + Kimi Agent 的办公超集：保留 Skills 体系（建站/PPT），新增金融/科研/法律等专业数据库直连 • 核心卖点是'最多 300 个 Agent 并行调度'+ 浏览器/文件夹/文档/表格/PPT 全栈交付，目"
 resource: "https://x.com/i/status/2062824756634931256"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2062824756634931256"
-created: "2026-06-05"
-updated: "2026-06-26"
-sha256: "22303ea735824e49f19d4732ac95ae57bd759642091d08a8016b283dce15e812"
-sources:
-  - "/sources/highlights/2026-06-05/00__xiaohu__从-coding-到-working-kimi-work-用-300-agent-并行把-文字即操作-做成办公-ai-新.md"
 ---
 
 # 从 Coding 到 Working：Kimi Work 用 300 Agent 并行把'文字即操作'做成办公 AI 新入口

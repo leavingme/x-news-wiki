@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "OpenClaw Agent 拥有独立电脑、邮箱、电话和信用卡：「数字分身」从概念进入可操作阶段"
 description: "**开发者 Micky 花两个月为 OpenClaw Agent 接入真实基础设施，实现自主通信与支付能力。**  • Agent 获得独立计算资源（Daytona）、邮箱、电话、信用卡四件套 • 从「对话助手」到「经济主体」的跨越，Agent 经济自主权的实证案例 • 开源社区的 DIY 实践正在跑赢大厂的 Agent 产品化节奏  锐评：当 Agent 能自己付钱、自己打电话时，「数字员工」就"
 resource: "https://x.com/Rasmic/status/2051496442770997399"
@@ -22,13 +22,6 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "agent-economic-autonomy"
 x_source: "ai-trend-digest"
-type_okf: "X Tweet"
-source_url: "https://x.com/Rasmic/status/2051496442770997399"
-created: "2026-05-05"
-updated: "2026-06-26"
-sha256: "7309d75b882d318a12d2209318b49ff6359aacf30081ee799c0b3e8dfa7cfa2e"
-sources:
-  - "/sources/news/2026-05-06/00__Rasmic__openclaw-agent-拥有独立电脑-邮箱-电话和信用卡-数字分身-从概念进入可操作阶段.md"
 ---
 
 # OpenClaw Agent 拥有独立电脑、邮箱、电话和信用卡：「数字分身」从概念进入可操作阶段

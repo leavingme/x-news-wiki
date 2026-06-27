@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "baoyu-infographic 技能落地：向阳乔木实例验证信息图生成工程路径"
 description: "**[专题更新：baoyu-article-illustrator → 信息图工作流已打通]**  宝玉转发并注释了 baoyu-infographic 技能实例，指向具体生成示例。该技能隶属 baoyu-comic/baoyu-infographic 技能体系，支持根据指令生成信息图。向阳乔木的内容已进入该技能的工作流验证阶段。  工程信号：技能 → 示例 → 社区传播的闭环正在形成。   **"
 resource: "https://x.com/i/status/2061225142299046096"
@@ -22,13 +22,6 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "baoyu-infographic"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2061225142299046096"
-created: "2026-05-31"
-updated: "2026-06-26"
-sha256: "012dcb851c00612adbb5ae08810e802b948300e05436d28a8a9e7cd0de7d3c89"
-sources:
-  - "/sources/news/2026-06-01/00__dotey__baoyu-infographic-技能落地-向阳乔木实例验证信息图生成工程路径.md"
 ---
 
 # baoyu-infographic 技能落地：向阳乔木实例验证信息图生成工程路径

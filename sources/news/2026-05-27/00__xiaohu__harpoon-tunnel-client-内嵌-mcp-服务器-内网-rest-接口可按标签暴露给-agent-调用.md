@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Harpoon：tunnel-client 内嵌 MCP 服务器，内网 REST 接口可按标签暴露给 Agent 调用"
 description: "**Harpoon 是 tunnel-client 里内嵌的一个 MCP 服务器，允许将内网 REST 接口按标签暴露给 Agent 调用，但调用方不能乱选目标，并非通用代理。**  要点： - 内网接口\"安全出洞\"的一种路径，非通用代理 - 解决内网服务被 Agent 调用时的访问控制问题 - 标注来源标签，过滤调用范围，属于精细化权限控制  gakki：「让 Agent 碰内网服务，Harpo"
 resource: "https://x.com/i/status/2059708949730095170"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2059708949730095170"
-created: "2026-05-27"
-updated: "2026-06-26"
-sha256: "75ffee1341f3881f0f5de2b68399ad0e34e9d0bcaa6dcd2ebedb03032499c1e7"
-sources:
-  - "/sources/news/2026-05-27/00__xiaohu__harpoon-tunnel-client-内嵌-mcp-服务器-内网-rest-接口可按标签暴露给-agent-调用.md"
 ---
 
 # Harpoon：tunnel-client 内嵌 MCP 服务器，内网 REST 接口可按标签暴露给 Agent 调用

@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "「AI砍掉一半白领」叙事是新一轮焦虑兜售，还是结构性拐点？"
 description: "**「AI 替代 90% 白领」是当下被反复翻炒的恐慌叙事，但缺乏岗位级拆解支撑。**  - 标题层「砍一半 + 替代 90%」属于典型末日营销句式，没有按职能/行业做颗粒度区分。 - 与「反驳末日营销怼黄仁勋」形成呼应：同期内容正在反向祛魅同一类叙事。 - 真问题不是「会不会替代」，而是「替代发生在哪条价值链环节、白领溢价何时归零」。   gakki 锐评：标题用了 90% 这个数字，就已经在做"
 resource: "https://x.com/i/status/2065991812544880943"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2065991812544880943"
-created: "2026-06-14"
-updated: "2026-06-26"
-sha256: "01975dacfea70b469d1fe61876b5f9233da0ff1df9ee91e20d7c2099796d077b"
-sources:
-  - "/sources/news/2026-06-14/00__xiaohu__ai砍掉一半白领-叙事是新一轮焦虑兜售-还是结构性拐点.md"
 ---
 
 # 「AI砍掉一半白领」叙事是新一轮焦虑兜售，还是结构性拐点？

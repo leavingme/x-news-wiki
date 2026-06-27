@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Michael Anti 戳穿 Dario：呼吁停止 AI 开发的人，自己开着最危险的公司"
 description: "**Anthropic 的\"AI 风险叙事\"和商业现实之间的张力，被 Michael Anti 一句话钉在墙上。**  要点： - 核心反问：Dario 公开呼吁谨慎推进 AI 开发，但 Anthropic 本身就是他口中\"最危险\"的那种公司，逻辑上应该先关掉自己 - 把 Dario 和 OpenAI 早期 Sam Altman 都归为\"卖货的萨满\"——用末日叙事给商业产品背书 - 折射出 AI "
 resource: "https://x.com/i/status/2063056386490282459"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2063056386490282459"
-created: "2026-06-06"
-updated: "2026-06-26"
-sha256: "3561ffdf0f6263e890a99d5822dc4485f7d78d778e562cb671bba8f01a59d56d"
-sources:
-  - "/sources/news/2026-06-06/00__mranti__michael-anti-戳穿-dario-呼吁停止-ai-开发的人-自己开着最危险的公司.md"
 ---
 
 # Michael Anti 戳穿 Dario：呼吁停止 AI 开发的人，自己开着最危险的公司

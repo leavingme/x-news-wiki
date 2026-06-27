@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "字节Seedance 2.5+Seed Audio 1.0发布：当制作成本归零，稀缺的是故事、信任与AI做不了的东西"
 description: "**当制作成本归零，真正稀缺的是讲故事能力、信任背书和AI做不了的东西。**  - 字节Seedance 2.5视频生成+Seed Audio 1.0音频模型样例达顶级水准 - 制作成本趋近于零后，「仅靠制作能力吃饭」这条路走到尽头 - 能拍能剪但无独特内容的人将被加速淘汰 - 内容创作不会消失，但「品味壁垒+信任溢价」成为新护城河   **gakki锐评：**这个判断框架比单纯夸模型更有价值——"
 resource: "https://x.com/i/status/2069381452706582969"
@@ -22,13 +22,6 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "ai-content-entrepreneurship"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2069381452706582969"
-created: "2026-06-23"
-updated: "2026-06-26"
-sha256: "1fa909f691421251e6f7f1b1b387c39fddc6489a831bb2b5e0b21100e74e5c03"
-sources:
-  - "/sources/highlights/2026-06-23/00__gkxspace__字节seedance-2-5-seed-audio-1-0发布-当制作成本归零-稀缺的是故事-信任与ai做不了的东西.md"
 ---
 
 # 字节Seedance 2.5+Seed Audio 1.0发布：当制作成本归零，稀缺的是故事、信任与AI做不了的东西

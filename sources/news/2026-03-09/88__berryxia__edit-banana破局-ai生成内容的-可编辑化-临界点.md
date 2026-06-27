@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Edit Banana破局：AI生成内容的「可编辑化」临界点"
 description: "**[AI视觉生成从「一次性消耗」迈向「可迭代资产」]** • 精准分割+OCR+多模态LLM的组合，破解了截图/生成图无法二次编辑的痛点 • 支持DrawIO/SVG/PPTX全格式还原，意味着AI视觉产出真正融入工作流 • 2800星日增印证需求刚性：设计师不必对着AI图重做了  这不仅是工具创新，更是AI内容资产化的基础设施——当生成结果可被结构化编辑，AI才真正成为生产工具而非玩具。"
 resource: "https://x.com/i/status/2030647797586993304"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 88
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2030647797586993304"
-created: "2026-03-08"
-updated: "2026-06-26"
-sha256: "c5c4fc76d5055ce1327539730f32389d3e8b9bcadc9c32a95be549db15dd7515"
-sources:
-  - "/sources/news/2026-03-09/88__berryxia__edit-banana破局-ai生成内容的-可编辑化-临界点.md"
 ---
 
 # Edit Banana破局：AI生成内容的「可编辑化」临界点

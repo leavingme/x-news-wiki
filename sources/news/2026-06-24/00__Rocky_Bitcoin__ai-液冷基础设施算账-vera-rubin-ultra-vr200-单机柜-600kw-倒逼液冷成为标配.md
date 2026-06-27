@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "AI 液冷基础设施算账：Vera Rubin Ultra VR200 单机柜 600kW 倒逼液冷成为标配"
 description: "**[单机柜功耗突破临界点，液冷从「可选项」变成「不选就死」]**  - 技术临界：英伟达 Vera Rubin Ultra VR200 单机柜 600kW/780 万美金，传统风冷无法压住，液冷成为强制选项 - 市场规模：Dell'Oro 预测全球数据中心液冷市场从 2025 年 30 亿美元增长到 2033 年 276.5 亿美元，CAGR 31.5% - 需求侧：高盛预测 2025-2027"
 resource: "https://x.com/i/status/2059676146447618458"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2059676146447618458"
-created: "2026-05-27"
-updated: "2026-06-26"
-sha256: "ef27ae8076b2379ae60561a7541bbc3ef2adbc9904c06f9d49874085edec8632"
-sources:
-  - "/sources/news/2026-06-24/00__Rocky_Bitcoin__ai-液冷基础设施算账-vera-rubin-ultra-vr200-单机柜-600kw-倒逼液冷成为标配.md"
 ---
 
 # AI 液冷基础设施算账：Vera Rubin Ultra VR200 单机柜 600kW 倒逼液冷成为标配

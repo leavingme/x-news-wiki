@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Orange AI 提炼：与 AI 一起做产品的六条原则——从'教 AI 做事'到'与 AI 共事'"
 description: "**Orange AI 总结与 AI 协作做产品的六条原则：边界划分、判断力保留、迭代节奏控制是核心。** - 核心命题：什么让 AI 决定，什么必须由人拍板 - 强调产品 judgment 不能外包，AI 是放大器不是决策者 - 反映 LLM 工具稳定性已经够用，瓶颈在产品端的判断力稀缺 - 原则化表达降低团队对齐成本，是产品方法论的成熟信号  gakki 锐评：六条原则的潜台词是——AI 工具"
 resource: "https://x.com/i/status/2064858536514122155"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2064858536514122155"
-created: "2026-06-10"
-updated: "2026-06-26"
-sha256: "23dde3c38a4ac2f5af6aca295a196714da0bb574d608b45d6ac6159f393c46e3"
-sources:
-  - "/sources/news/2026-06-11/00__oran_ge__orange-ai-提炼-与-ai-一起做产品的六条原则-从-教-ai-做事-到-与-ai-共事.md"
 ---
 
 # Orange AI 提炼：与 AI 一起做产品的六条原则——从'教 AI 做事'到'与 AI 共事'

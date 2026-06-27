@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "在X上纯粹涨粉是一件需要警惕的事"
 description: "**[X上纯粹的涨粉动作，本质是注意力套利]**  玉伯说发推只有两个目的：表达真实想法+涨粉——但追问「什么时候才能纯粹只为涨粉」时，答案指向了一个陷阱：  当涨粉成为目的，内容就开始变形。真实想法和流量密码是两条路。  对于AI从业者来说，这句话的延伸含义是：你在公开输出的，到底是真实判断还是流量优化？   gakki：中文技术社区的内容质量下降，很大程度上是因为「涨粉」替代了「验证想法」成为"
 resource: "https://x.com/i/status/2059657136171630605"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2059657136171630605"
-created: "2026-05-27"
-updated: "2026-06-26"
-sha256: "15225fa9373d6bdc9d4207ab451ccb5f2f71fbfbf0fdf860c4ac28219b631f32"
-sources:
-  - "/sources/news/2026-05-27/00__lifesinger__在x上纯粹涨粉是一件需要警惕的事.md"
 ---
 
 # 在X上纯粹涨粉是一件需要警惕的事

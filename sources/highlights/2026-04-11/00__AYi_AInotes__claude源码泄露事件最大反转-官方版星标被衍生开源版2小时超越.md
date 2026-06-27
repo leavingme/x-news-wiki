@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Claude源码泄露事件最大反转：官方版星标被衍生开源版2小时超越"
 description: "**[Anthropic亲手把自己的安全叙事炸成了行业笑柄]**  Anthropic因sourcemap失误将51.2万行核心代码泄露至npm，随即狂发DMCA通知封禁8100个关联仓库，连分叉仓库都没放过，逼得Claude Code负责人公开道歉。  然而2小时后，有人用Python从零重写纯净版「claw-code」，2小时狂揽5万星，衍生版星标已正式超越官方库，Rust移植版也火速发布。 "
 resource: "https://x.com/i/status/2040325315403382956"
@@ -22,13 +22,6 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "claude-code-source-leak"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2040325315403382956"
-created: "2026-04-04"
-updated: "2026-06-26"
-sha256: "30362005954a6b002f2442eeddc02bba850deb6e1ab5754a6557b34684901b5e"
-sources:
-  - "/sources/highlights/2026-04-11/00__AYi_AInotes__claude源码泄露事件最大反转-官方版星标被衍生开源版2小时超越.md"
 ---
 
 # Claude源码泄露事件最大反转：官方版星标被衍生开源版2小时超越

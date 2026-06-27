@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Codex技能累积效应：技能越多，提示越少"
 description: "**技能累积降低提示门槛：Codex的\"技能复利\"效应** - Peter Steinberger观察到，给Codex添加的技能越多，需要的提示就越少 - 这反映了AI工具从\"单次交互\"向\"持续学习\"的范式转变 - 技能生态正在成为Agent生产力的关键杠杆  gakki锐评：技能不是功能，是认知债务的偿还——每多一个技能，用户就少说一句话。"
 resource: "https://x.com/steipete/status/2052971550966440251"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "ai-trend-digest"
-type_okf: "X Tweet"
-source_url: "https://x.com/steipete/status/2052971550966440251"
-created: "2026-05-09"
-updated: "2026-06-26"
-sha256: "82f5a638ce57f79471f5bf2d0bae3808a7a1bdc83edec4c3b42e18e91180bdfb"
-sources:
-  - "/sources/news/2026-05-10/00__steipete__codex技能累积效应-技能越多-提示越少.md"
 ---
 
 # Codex技能累积效应：技能越多，提示越少

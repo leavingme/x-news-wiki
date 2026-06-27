@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Claude Code 的“真香”时刻：后知后觉者揭示 AI 助手从玩具到生产力工具的拐点"
 description: "**工具价值的延迟认知：Claude Code 如何跨越“尝鲜”与“依赖”的鸿沟** - 作者经历半年延迟后，才发现 Claude Code 的核心价值并非写代码，而是解决日常电脑配置等琐碎问题，实现了“打开即问”的零门槛体验。 - 使用门槛的降低（如 CC Switch 切换 API）和网络稳定性（付费远程工具）是用户从“不敢用”到“离不开”的关键催化剂。 - 这反映了一个普遍现象：许多 AI "
 resource: "https://x.com/i/status/2028488699185447101"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2028488699185447101"
-created: "2026-03-02"
-updated: "2026-06-26"
-sha256: "8f80a1bfc598a553fe8b64eeb91154b190a901c2d05ab2948a96bbda56f2a681"
-sources:
-  - "/sources/news/2026-03-03/00__affLeopard__claude-code-的-真香-时刻-后知后觉者揭示-ai-助手从玩具到生产力工具的拐点.md"
 ---
 
 # Claude Code 的“真香”时刻：后知后觉者揭示 AI 助手从玩具到生产力工具的拐点

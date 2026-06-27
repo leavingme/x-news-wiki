@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Tibo 暗示 Codex 进入 Chrome：OpenAI 的浏览器入口战正式打响"
 description: "**「Hello Chrome, I am Codex」——一句话，但指向 OpenAI 从代码编辑器向浏览器入口的扩张野心。**  - Tibo（Typio/Buffer 联合创始人）这条推文暗示 OpenAI Codex 正在 Chrome 生态中布局 - 若落地，意味着 OpenAI 直接对标 Claude Chrome 插件和 Gemini 的桌面端超级入口策略 - Agent 从「命令行"
 resource: "https://x.com/thsottiaux/status/2052523840040063261"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "ai-trend-digest"
-type_okf: "X Tweet"
-source_url: "https://x.com/thsottiaux/status/2052523840040063261"
-created: "2026-05-07"
-updated: "2026-06-26"
-sha256: "68f122cff11fcc9f1f5aa671081393ac624a03719dd2c1935219945783f056e6"
-sources:
-  - "/sources/news/2026-05-08/00__thsottiaux__tibo-暗示-codex-进入-chrome-openai-的浏览器入口战正式打响.md"
 ---
 
 # Tibo 暗示 Codex 进入 Chrome：OpenAI 的浏览器入口战正式打响

@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Anthropic官方Skill指南中文版来了：技能封装正在成为Agent生态的「普通话」"
 description: "**[Anthropic首次系统输出Skill构建方法论，SKILL.md从社区惯例走向官方标准]**  歸藏翻译了Anthropic官方Skill构建指南双语版。关键信号：Anthropic不再只提供模型，开始输出\"如何用好模型\"的工程规范。这与Google Cloud、OpenAI近期密集推出MCP/Agent SDK的动作形成共振——平台正在抢定义技能封装标准的叙事权。  对行业的影响： -"
 resource: "https://x.com/i/status/2056048680290103504"
@@ -22,13 +22,6 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "skills-ecosystem-standards"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2056048680290103504"
-created: "2026-05-17"
-updated: "2026-06-26"
-sha256: "96aeb188651e4a9019fb99f853d2f967f94fd34d3cf808b49805f504de2382ca"
-sources:
-  - "/sources/news/2026-05-17/00__op7418__anthropic官方skill指南中文版来了-技能封装正在成为agent生态的-普通话.md"
 ---
 
 # Anthropic官方Skill指南中文版来了：技能封装正在成为Agent生态的「普通话」

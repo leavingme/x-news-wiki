@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "知识不足是一切的根源——这才是 AI 时代最残酷的乐观主义"
 description: "**[一句话核心判断]**  「所有的问题都是知识不足导致的」——这句话在 AI 时代变成了双刃剑：知识门槛降低的同时，对「元知识」（知道自己缺什么）的需求反而上升。  **信息增量：** - AGI 信徒的标准逻辑链：知识不足→AI 补足→人类解放 - 但现实是：知识越容易获得，「知道自己不知道什么」的能力越稀缺 - 这解释了为什么 AI 时代大师级判断力反而更值钱  **影响：** - 教育、"
 resource: "https://x.com/i/status/2047952300128473170"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2047952300128473170"
-created: "2026-04-25"
-updated: "2026-06-26"
-sha256: "dbc14f6e1de0a4ea634467442fd91c662b125f8409b633d0285068c829dcf723"
-sources:
-  - "/sources/news/2026-04-25/00__oran_ge__知识不足是一切的根源-这才是-ai-时代最残酷的乐观主义.md"
 ---
 
 # 知识不足是一切的根源——这才是 AI 时代最残酷的乐观主义

@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "上交+美团AgentConductor：让多智能体学会「看人下菜」，难度动态决定通信拓扑"
 description: "**[一句话核心判断]**  多Agent系统的瓶颈从来不是单个Agent够不够强，而是「谁该跟谁说话、说什么」。AgentConductor用RL训练了一个动态调度层，让这个问题第一次有了自适应解法。  **信息增量：** - 核心创新：不再预设固定通信模式，由LLM Orchestrator根据任务难度和Agent角色实时构建最优通信路径 - 传统Multi-Agent是「全连通图」，Agen"
 resource: "https://x.com/i/status/2045132923834118451"
@@ -22,13 +22,6 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "multi-agent-framework-ecosystem-comparison"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2045132923834118451"
-created: "2026-04-17"
-updated: "2026-06-26"
-sha256: "e6a5d6ec68b2636391312c0d90448915dfcbf6141ccf29c5af4497544ade6c07"
-sources:
-  - "/sources/news/2026-04-18/00__jiqizhixin__上交-美团agentconductor-让多智能体学会-看人下菜-难度动态决定通信拓扑.md"
 ---
 
 # 上交+美团AgentConductor：让多智能体学会「看人下菜」，难度动态决定通信拓扑

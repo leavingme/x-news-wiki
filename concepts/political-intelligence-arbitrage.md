@@ -1,27 +1,22 @@
 ---
-type: "concept"
-title: "political-intelligence-arbitrage"
-description: "跨日主题 \"political-intelligence-arbitrage\"，共 3 条相关精选推文。"
+type: "Concept"
+title: "政治情报套利"
+description: "跨日主题 \"政治情报套利\" (political-intelligence-arbitrage)，共 3 条相关精选推文。"
 tags:
   - "x-news"
   - "concept"
   - "topic:political-intelligence-arbitrage"
-timestamp: "2026-06-26T11:53:37.010Z"
+timestamp: "2026-06-27T08:40:42.845Z"
 x_topic_slug: "political-intelligence-arbitrage"
 x_tweet_count: 3
 x_first_seen: "2026-03-18T16:28:00.997Z"
 x_last_seen: "2026-03-21T09:05:18.973Z"
-type_okf: "Concept"
-created: "2026-03-18"
-updated: "2026-06-26"
-sha256: "2a80d5d55336383edbf2c360d24c0b90f4ebcce5cb709a1b9e73f6e955b96eeb"
-sources:
-  - "/sources/highlights/2026-03-18/00__carverfomo__polymarket-267-万美元套利案-中国博士生的-预测市场印钞机.md"
-  - "/sources/highlights/2026-03-20/00__Mikocrypto11__当统计学取代交易-polymarket-claude的70笔实战验证.md"
-  - "/sources/highlights/2026-03-21/00__Will_Yang___ai量化碾压传统游资-10亿亏到2亿背后的阶层固化物理呈现.md"
+x_cn_title_source: "dict"
 ---
 
-# 主题: political-intelligence-arbitrage
+# 主题: 政治情报套利
+
+> slug: `political-intelligence-arbitrage`
 
 本主题下共 **3** 条精选推文。
 

@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "向阳乔木：Codex 单 Goal 指令连续自主运行 10 小时，从开发到部署全链路完成"
 description: "**Codex 长程自主能力实测：一句话 Goal 跑 10 小时，AI 自己完成开发、测试、部署、上线，RSS 资讯站已可体验。** - 全流程零人工介入，验证 Agent 目标保持与错误恢复能力 - 已上线生产环境（AI 资讯订阅 RSS 站），不是 demo 是真交付 - 呼应\"零人工代码交付\"趋势，但 Token 成本与稳定性仍是隐形成本 - Codex 的 Goal 模式正在从\"玩具\"变"
 resource: "https://x.com/i/status/2064955898561487287"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2064955898561487287"
-created: "2026-06-11"
-updated: "2026-06-26"
-sha256: "55435a356bcbb5fc25a0ab7055c30c54e95788c2bb5448c187f7c6a8003bdd71"
-sources:
-  - "/sources/highlights/2026-06-11/00__vista8__向阳乔木-codex-单-goal-指令连续自主运行-10-小时-从开发到部署全链路完成.md"
 ---
 
 # 向阳乔木：Codex 单 Goal 指令连续自主运行 10 小时，从开发到部署全链路完成

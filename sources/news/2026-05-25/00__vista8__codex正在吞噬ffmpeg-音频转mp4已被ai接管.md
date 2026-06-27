@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Codex正在吞噬FFmpeg：音频转MP4已被AI接管"
 description: "**[大模型做转码的本质是工具调用民主化]**  向阳乔木演示了 Codex 直接把音频转成 MP4 的流程——全程自然语言，无需查 ffmpeg 参数。大模型做「转格式」这种脏活正在成为高频场景，且比传统 CLI 更适合口语化操作。这条推的潜台词是：FFmpeg 指令早已不是壁垒，prompt 表达清晰度才是。  对工具开发者而言，做好 TTS/ASR 接入可能比深耕参数文档更有价值。"
 resource: "https://x.com/i/status/2058786114882900133"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2058786114882900133"
-created: "2026-05-25"
-updated: "2026-06-26"
-sha256: "5b3e40078b4b2b07039289b2fd78d4bf378131ce4c38dfb8605c2b26ec973867"
-sources:
-  - "/sources/news/2026-05-25/00__vista8__codex正在吞噬ffmpeg-音频转mp4已被ai接管.md"
 ---
 
 # Codex正在吞噬FFmpeg：音频转MP4已被AI接管

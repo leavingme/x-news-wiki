@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "币安「小龙虾」大赛：大厂Agent入口战争进入白刃阶段"
 description: "**一行命令降低Agent门槛，本质是平台对用户时间的争夺。**  • **产品逻辑**：curl一键安装 + 自然语言调用Binance Skills Hub，将链上数据查询变成\"说人话\" • **场景落地**：Token审计、聪明钱追踪、每日简报——把专业交易员的工作流平民化 • **战略意图**：币安试图成为Crypto Agent的默认基础设施，与OpenAI、Anthropic形成交叉竞"
 resource: "https://x.com/i/status/2032316471469359286"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 82
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2032316471469359286"
-created: "2026-03-13"
-updated: "2026-06-26"
-sha256: "9be158b344648f7a11deb509dbf6cdf4a1042503c7be860ad4b249dfa677d1c9"
-sources:
-  - "/sources/news/2026-03-14/82__gcsbtc__币安-小龙虾-大赛-大厂agent入口战争进入白刃阶段.md"
 ---
 
 # 币安「小龙虾」大赛：大厂Agent入口战争进入白刃阶段

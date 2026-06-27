@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Anthropic 内部 Skills 体系揭秘：九种类型与钩子机制全公开"
 description: "**[官方方法论首次流出]** • Skills 不是 Markdown 文档，而是「文件夹+脚本+钩子」的完整工程单元——代理可发现、读取、执行、触发 • 九种类型覆盖库/API参考、代码生成、代码审查、测试、部署等全链路 • 最佳实践：创造性使用配置选项和文件夹结构，而非简单文本堆砌  歸藏的梳理是中文社区理解 Claude Code 工程深度的最佳入口，也是 Skill 从「玄学」走向「工程"
 resource: "https://x.com/i/status/2034082485798314489"
@@ -22,13 +22,6 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "claude-code-ecosystem"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2034082485798314489"
-created: "2026-03-18"
-updated: "2026-06-26"
-sha256: "8020aef98a387a5a83a691a03d871de332d5d087d51fdaa1387bbe7675c2c764"
-sources:
-  - "/sources/highlights/2026-03-18/00__op7418__anthropic-内部-skills-体系揭秘-九种类型与钩子机制全公开.md"
 ---
 
 # Anthropic 内部 Skills 体系揭秘：九种类型与钩子机制全公开

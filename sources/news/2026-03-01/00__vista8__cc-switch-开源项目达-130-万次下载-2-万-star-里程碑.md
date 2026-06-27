@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "CC Switch 开源项目达 130 万次下载、2 万 Star 里程碑"
 description: "36 岁转行开发者 Jason 的首个作品 CC Switch 获得 130 万次下载和 2 万 GitHub Star，成为 Claude Code 生态中的重要工具。"
 resource: "https://x.com/i/status/2027765124828905529"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2027765124828905529"
-created: "2026-02-28"
-updated: "2026-06-26"
-sha256: "17e597bac64aedf08be205f0aaf89ce1227cc451de334bad7ca54a051fde4bf9"
-sources:
-  - "/sources/news/2026-03-01/00__vista8__cc-switch-开源项目达-130-万次下载-2-万-star-里程碑.md"
 ---
 
 # CC Switch 开源项目达 130 万次下载、2 万 Star 里程碑

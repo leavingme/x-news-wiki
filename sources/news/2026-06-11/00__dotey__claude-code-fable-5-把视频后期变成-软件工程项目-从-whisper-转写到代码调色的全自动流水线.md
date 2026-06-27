@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Claude Code + Fable 5 把视频后期变成\"软件工程项目\"：从 Whisper 转写到代码调色的全自动流水线"
 description: "**[核心判断]** Claude Code + Fable 5 把视频后期彻底重构为软件工程项目——从语音转写、智能选镜头、FFmpeg 粗剪到 LUT 调色全代码化，AI 既是导演也是工程师。  - 25GB 原始素材由本地 Whisper 给出毫秒级单词时间戳 JSON，17 个 Take 全部可被结构化处理 - 多个 Subagent 自动剔除\"嗯\"\"啊\"废片，把决策写入 JSON 后由 "
 resource: "https://x.com/i/status/2064904545298194855"
@@ -22,13 +22,6 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "claude-code-natural-language-workflow"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2064904545298194855"
-created: "2026-06-11"
-updated: "2026-06-26"
-sha256: "a2d901f850cd99a15398d9e0408e8b8fcf554574a3f86b6f26ec523a6ed2c868"
-sources:
-  - "/sources/news/2026-06-11/00__dotey__claude-code-fable-5-把视频后期变成-软件工程项目-从-whisper-转写到代码调色的全自动流水线.md"
 ---
 
 # Claude Code + Fable 5 把视频后期变成"软件工程项目"：从 Whisper 转写到代码调色的全自动流水线

@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Sequoia 最新研判：AI Agent 的杠杆已超过 100%，确定性退位给「可能性」"
 description: "**[顶级 VC 重新定义 AI 时代的工作逻辑：杠杆 > 确定]**  Sequoia 红杉资本提出五大投资趋势，第一条核心论点：工作模式正在从「任务100%确定但杠杆极低」转向「结果不确定但杠杆超过 100% 甚至 1000%」。以销售为例，AI Agent 可以给每个客户配备独立 Agent，追踪动态、发现扩客机会。  这意味着：AI 时代的核心竞争力不再是「把事情做对」，而是「选择让哪些事"
 resource: "https://x.com/i/status/1961800167277171027"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/1961800167277171027"
-created: "2025-08-30"
-updated: "2026-06-26"
-sha256: "c746c5a5114b9562ce8a5274d6fc9094bafd42796efbca19cd3e125160d26da9"
-sources:
-  - "/sources/highlights/2026-04-16/00__IEObserve__sequoia-最新研判-ai-agent-的杠杆已超过-100-确定性退位给-可能性.md"
 ---
 
 # Sequoia 最新研判：AI Agent 的杠杆已超过 100%，确定性退位给「可能性」

@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "OpenAI官方下场做PPT Agent：插件即入口，Copilot最有力的替代者来了"
 description: "**微软还没反应过来，OpenAI已经把刀架到PPT市场了。**  OpenAI推出官方「ChatGPT for PowerPoint」插件——右侧对话框直接生成、修改、总结PPT，所有ChatGPT用户可用。同款ChatGPT for Excel已正式发布。  这不是简单的「AI生成内容」，它能读取你的PPT结构、改进现有内容、把会议记录转成可展示材料，输出的是完全可编辑的内容——不是死图。  "
 resource: "https://x.com/i/status/2057566877346611568"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2057566877346611568"
-created: "2026-05-21"
-updated: "2026-06-26"
-sha256: "eb25e8f3437a37feb11ebed21ff557d9c22914ecde046f21b44b8298a5c7e0cc"
-sources:
-  - "/sources/news/2026-05-21/00__xiaohu__openai官方下场做ppt-agent-插件即入口-copilot最有力的替代者来了.md"
 ---
 
 # OpenAI官方下场做PPT Agent：插件即入口，Copilot最有力的替代者来了

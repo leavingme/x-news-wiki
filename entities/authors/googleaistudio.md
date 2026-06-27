@@ -1,24 +1,17 @@
 ---
-type: "entity"
+type: "Author"
 title: "Google AI Studio (@GoogleAIStudio)"
 description: "X/Twitter 作者 @GoogleAIStudio。共收录 2 条 AI 精选推文。"
 tags:
   - "x-news"
   - "author"
   - "author:GoogleAIStudio"
-timestamp: "2026-06-26T11:53:36.997Z"
+timestamp: "2026-06-27T08:40:40.211Z"
 x_handle: "GoogleAIStudio"
 x_author_name: "Google AI Studio"
 x_tweet_count: 2
 x_first_seen: "2026-05-06T07:18:30.111Z"
 x_last_seen: "2026-05-07T22:18:07.612Z"
-type_okf: "Author"
-created: "2026-05-06"
-updated: "2026-06-26"
-sha256: "23058ad06d69a96522a64a19020941681535e8e369849c49f88bdbfef3c2459b"
-sources:
-  - "/sources/news/2026-05-06/00__GoogleAIStudio__google-ai-studio-内置图像资产自动生成-设计工具正在从-辅助-滑向-替代.md"
-  - "/sources/news/2026-05-07/00__GoogleAIStudio__google-推出-gemini-3-1-flash-lite-agent-高频调用场景的成本底线又被拉低了.md"
 ---
 
 # Google AI Studio (@GoogleAIStudio)

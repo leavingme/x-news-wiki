@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "宝玉重构 AI 时代编程能力：从「写代码」到「定义问题 + 判断质量」的价值链迁移"
 description: "**AI Coding 时代的核心能力不是写代码，而是定义问题和判断质量。**  - 宝玉提出 AI 时代编程能力的两阶段模型：1）擅长将需求拆解为 AI 可执行的任务；2）识别 AI 输出质量并指导完善。 - 这与「Vibe Coding」的效率乐观主义形成张力——真正的稀缺能力不是让 AI 快速生成代码，而是知道什么值得生成、生成的结果是否达标。 - 本质上是「判断力」取代「执行力」成为核心竞"
 resource: "https://x.com/i/status/2050367418648727764"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2050367418648727764"
-created: "2026-05-02"
-updated: "2026-06-26"
-sha256: "bdca4f4bd8056a7e60441c991860aa6aaf48e3637e2a17935321c5b25d26445f"
-sources:
-  - "/sources/news/2026-05-02/00__dotey__宝玉重构-ai-时代编程能力-从-写代码-到-定义问题-判断质量-的价值链迁移.md"
 ---
 
 # 宝玉重构 AI 时代编程能力：从「写代码」到「定义问题 + 判断质量」的价值链迁移

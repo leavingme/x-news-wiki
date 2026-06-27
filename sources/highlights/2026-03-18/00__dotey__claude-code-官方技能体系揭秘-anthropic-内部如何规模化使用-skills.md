@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Claude Code 官方技能体系揭秘：Anthropic 内部如何规模化使用 Skills"
 description: "**[Anthropic 首次公开 Claude Code 工程化实践]** • 揭示从个人工具到团队协作的关键配置策略，非官方文档的「野路子」首次获官方背书 • 生产级代理、技能组织、钩子规则的系统化方法论，降低社区踩坑成本 • 标志着 Claude Code 从「Vibe Coding 玩具」向「企业级工作流引擎」跃迁的关键拐点  **gakki锐评**：当官方开始下场教你怎么用工具，说明生态"
 resource: "https://x.com/i/status/2034002188994060691"
@@ -22,13 +22,6 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "claude-code-ecosystem"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2034002188994060691"
-created: "2026-03-17"
-updated: "2026-06-26"
-sha256: "7d7d19839ba070d94a2bfcb1f3619ad0f894483d4f25b2fb7db71b92f6d0bd46"
-sources:
-  - "/sources/highlights/2026-03-18/00__dotey__claude-code-官方技能体系揭秘-anthropic-内部如何规模化使用-skills.md"
 ---
 
 # Claude Code 官方技能体系揭秘：Anthropic 内部如何规模化使用 Skills

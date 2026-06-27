@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Jim Fan宣告VLA时代终结、WAM登场：具身智能从「看懂」转向「物理交互」"
 description: "**VLA到WAM的切换，标志具身AI从感知理解进入物理操控的新范式。**  - 英伟达Jim Fan宣布VLA（Vision-Language-Action）时代结束，WAM（World Action Model）成为新方向 - 这意味着机器人不再需要先「看懂再行动」，而是直接建模物理世界的因果关系 - 对整个具身智能产业链的训练范式、数据需求、硬件适配都将产生连锁影响  范式切换往往是泡沫出清"
 resource: "https://x.com/i/status/2053351712149135385"
@@ -22,13 +22,6 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "theory-of-space-embodied-ai"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2053351712149135385"
-created: "2026-05-10"
-updated: "2026-06-26"
-sha256: "f410d10a4cf8ab673487ce15e6aaea354aace048d0f0d64ec2d33f407abcfb87"
-sources:
-  - "/sources/highlights/2026-05-10/00__dotey__jim-fan宣告vla时代终结-wam登场-具身智能从-看懂-转向-物理交互.md"
 ---
 
 # Jim Fan宣告VLA时代终结、WAM登场：具身智能从「看懂」转向「物理交互」

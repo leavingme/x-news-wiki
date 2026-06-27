@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "宝玉喊话：期待 Mythos 级开源模型，安全能力普惠化呼声浮现"
 description: "**Mythos 已成为 AI 安全/可解释性能力的新行业锚点。** - 宝玉公开表达对 Mythos 级别开源模型的期待 - 暗示 Anthropic 的 Mythos（Agent 安全基础设施核心能力）是当下行业难以绕开的安全/解释性天花板 - 开源呼声反映社区对前沿安全能力普惠化的需求  锐评：Mythos 大概率不会开源——它正是 Anthropic 在企业市场的护城河。开源等价于自废武功"
 resource: "https://x.com/i/status/2067623884480721150"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2067623884480721150"
-created: "2026-06-18"
-updated: "2026-06-26"
-sha256: "84824544cf5913e5cbcbe97057d0cd803b4d822b58bd8628b15fb061afc73978"
-sources:
-  - "/sources/news/2026-06-18/00__dotey__宝玉喊话-期待-mythos-级开源模型-安全能力普惠化呼声浮现.md"
 ---
 
 # 宝玉喊话：期待 Mythos 级开源模型，安全能力普惠化呼声浮现

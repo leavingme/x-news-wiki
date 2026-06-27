@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "AI 转型的灵魂拷问：如果这件事未来不存在，提效 100% 有什么意义？"
 description: "**企业 AI 转型的第一步不是上工具，而是判断「这件事该不该存在」。**  - Orange AI 指出：如果一个部门、一种组织方式在未来大概率不存在，那么投入资源去提高 100% 效率毫无意义 - 这实质上是对「AI 降本增效」叙事的降维打击——提效只是战术层面，存在的合理性才是战略层面 - 暗合 Sequoia 等顶级 VC 的投资逻辑重构：AI 不是给旧流程打补丁，而是重新定义哪些流程该被"
 resource: "https://x.com/i/status/2051468764903096684"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2051468764903096684"
-created: "2026-05-05"
-updated: "2026-06-26"
-sha256: "3861d3eaae6245a4189b7a45516317330f9d545e5dc358ad1d0156ee8baaab25"
-sources:
-  - "/sources/highlights/2026-05-05/00__oran_ge__ai-转型的灵魂拷问-如果这件事未来不存在-提效-100-有什么意义.md"
 ---
 
 # AI 转型的灵魂拷问：如果这件事未来不存在，提效 100% 有什么意义？

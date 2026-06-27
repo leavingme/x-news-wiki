@@ -1,37 +1,17 @@
 ---
-type: "entity"
+type: "Author"
 title: "Geek Lite (@QingQ77)"
 description: "X/Twitter 作者 @QingQ77。共收录 15 条 AI 精选推文。"
 tags:
   - "x-news"
   - "author"
   - "author:QingQ77"
-timestamp: "2026-06-26T11:53:36.926Z"
+timestamp: "2026-06-27T08:40:40.136Z"
 x_handle: "QingQ77"
 x_author_name: "Geek Lite"
 x_tweet_count: 15
 x_first_seen: "2026-02-12T13:18:20.969Z"
 x_last_seen: "2026-04-12T00:44:13.299Z"
-type_okf: "Author"
-created: "2026-02-12"
-updated: "2026-06-26"
-sha256: "74c62ecbd654d6efe497405ddd16de61e0294660dac513c48016de876306cbfd"
-sources:
-  - "/sources/highlights/2026-02-24/00__QingQ77__agent-vault-秘密管理工具-防止-ai-代理泄露敏感数据.md"
-  - "/sources/highlights/2026-03-07/82__QingQ77__cli-relay-一统多-agent-入口的-api-代理层-出现.md"
-  - "/sources/highlights/2026-03-10/85__QingQ77__memoh-v2-正面硬刚-openclaw-真隔离容器-vs-大通铺-架构的路线对决.md"
-  - "/sources/highlights/2026-03-21/00__QingQ77__3500行python生产级agent-零框架自进化的-反潮流-工程范本.md"
-  - "/sources/highlights/2026-03-28/00__QingQ77__fastclaw入局-自托管agent框架的-轻量反叛-与生态位战争.md"
-  - "/sources/highlights/2026-03-28/00__QingQ77__zeroclaw-平替登场-本地-llm-零架构-agent-的-去平台化-实验.md"
-  - "/sources/highlights/2026-04-04/00__QingQ77__源码即教材-claude-code-最成功-agent-的架构内核首次被系统性解码.md"
-  - "/sources/highlights/2026-04-05/00__QingQ77__港大-deeptutor-39-天-1-万星-rag-持久记忆的-ai-辅导已跨越-玩具-阶段.md"
-  - "/sources/highlights/2026-04-10/00__QingQ77__garry-tan-的-gstack-把-claude-code-变成一支随叫随到的专业虚拟研发团队.md"
-  - "/sources/news/2026-02-12/00__QingQ77__mindpocket-开源-集成-ai-rag-的跨平台智能书签管理器.md"
-  - "/sources/news/2026-02-23/00__QingQ77__解决-agent-的-工具荒-clime-打造-cli-统一注册中心.md"
-  - "/sources/news/2026-02-24/00__QingQ77__claude-review-loop-让-ai-审稿人接管代码质量.md"
-  - "/sources/news/2026-03-16/00__QingQ77__lightpanda-从tcp包重写的ai专用浏览器-9倍内存节省是真实刚需.md"
-  - "/sources/news/2026-04-08/00__QingQ77__parlor-在-macbook-m3-pro-上跑出-2-5-秒端到端延迟-端侧多模态-ai-的产品化里程碑.md"
-  - "/sources/news/2026-04-12/00__QingQ77__mempalace-记忆宫殿架构实现96-6-r-5准确率-ai记忆系统进入零api成本时代.md"
 ---
 
 # Geek Lite (@QingQ77)

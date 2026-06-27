@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "AI替代节拍器与个人价值锚点：余温的冷静剂"
 description: "**[替代时间线是伪命题，找到自身不可替代性才是真解]**  \"六个月还是一年\"的讨论正在消耗从业者太多注意力。余温的核心判断：技术替代是确定性的，10人→5人→1人→0人的路径不会逆转，但这个过程的快慢对个体战略选择意义有限。  - AI浪潮压缩的是\"重复性执行\"的价值，扩张的是\"独特性\"的溢价 - 关注替代时间线本质上是焦虑驱动，正确的姿势是找到自己在AI协作生态里的不可替代坐标  **比押注"
 resource: "https://x.com/i/status/2049302176900501544"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2049302176900501544"
-created: "2026-04-29"
-updated: "2026-06-26"
-sha256: "403ba3f48774bdac7b5a95fb2938a8f9b5c25a5d3466b38cc8ca9fb72fd2e2e5"
-sources:
-  - "/sources/news/2026-04-29/00__gkxspace__ai替代节拍器与个人价值锚点-余温的冷静剂.md"
 ---
 
 # AI替代节拍器与个人价值锚点：余温的冷静剂

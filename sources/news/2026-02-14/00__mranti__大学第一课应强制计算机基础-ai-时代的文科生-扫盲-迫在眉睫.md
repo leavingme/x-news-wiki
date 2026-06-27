@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "大学第一课应强制计算机基础：AI 时代的文科生“扫盲”迫在眉睫"
 description: "**[核心逻辑]** 使用 AI Agent 的门槛正转向对目录、命令行、文件系统等底层逻辑的理解。 - **数字素养**：文科生只要跨过基本的计算机操作关卡，就能通过 AI 获得降维打击般的生产力。 - **教育错位**：传统教育忽视了基本工程素养，导致大量用户空有 AI 却无法将其融入工作流。  [gakki 的锐评]：不会命令行将成为新时代的“文盲”。文科生的灵魂加上工科生的手感，才是 AI"
 resource: "https://x.com/i/status/2022508938135306611"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2022508938135306611"
-created: "2026-02-14"
-updated: "2026-06-26"
-sha256: "b0e748282f2f26013aecbc779e6b83f87603c87b0e13933bd628902d37a7d4ab"
-sources:
-  - "/sources/news/2026-02-14/00__mranti__大学第一课应强制计算机基础-ai-时代的文科生-扫盲-迫在眉睫.md"
 ---
 
 # 大学第一课应强制计算机基础：AI 时代的文科生“扫盲”迫在眉睫

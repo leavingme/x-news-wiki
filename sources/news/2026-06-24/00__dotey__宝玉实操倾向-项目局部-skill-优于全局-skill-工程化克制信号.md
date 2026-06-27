@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "宝玉实操倾向：项目局部 Skill 优于全局 Skill，工程化克制信号"
 description: "**Skills 配置策略的工程克制：固定项目用局部 Skill 够用，全局 Skill 越少越好。**  - 宝玉作为高强度 Claude Code 使用者，明确表态倾向「项目级固定配置」而非全局 Skill 泛滥 - 回应了 Skills 生态扩张后的「污染焦虑」——全局 Skill 过多会导致上下文污染和意图偏移 - 与近期「Skills 生态：GPTs 轮回批判」形成互文：工具民主化之后，"
 resource: "https://x.com/i/status/2069646033898873136"
@@ -22,13 +22,6 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "skills-ecosystem-gpts-cycle"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2069646033898873136"
-created: "2026-06-24"
-updated: "2026-06-26"
-sha256: "26a7358fcfe6de665df7f37d5ba5e37b2e2287718f791853a2dfaf39f9c20dac"
-sources:
-  - "/sources/news/2026-06-24/00__dotey__宝玉实操倾向-项目局部-skill-优于全局-skill-工程化克制信号.md"
 ---
 
 # 宝玉实操倾向：项目局部 Skill 优于全局 Skill，工程化克制信号

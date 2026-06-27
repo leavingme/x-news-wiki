@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "1x杠杆AI交易策略稳定日产30-100刀：\"屎山代码\"的逆袭"
 description: "**一句话：AI交易策略不需要完美代码，需要的是严格止损和反脆弱的风险设计。**  一位社区开发者自制的AI信号工具跑了3天，实测每天稳定产出30-100美元收益。使用1x杠杆（等价现货）、严格止损机制、每日100美元熔断上限。  开发者坦承代码\"屎山\"，但表示\"能稳定收益的话，屎山就是金山\"，并正在设计他认为\"更牛逼\"的v2版本。  这个案例的价值在于：它展示了一个普通人用AI工具做量化交易的可"
 resource: "https://x.com/i/status/2044996453156974644"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2044996453156974644"
-created: "2026-04-17"
-updated: "2026-06-26"
-sha256: "78c4c7429b3108c762b2a1b4b227d92ec3e4d8ffcea671f1ed2adb67010adf38"
-sources:
-  - "/sources/news/2026-04-18/00__xincctnnq__1x杠杆ai交易策略稳定日产30-100刀-屎山代码-的逆袭.md"
 ---
 
 # 1x杠杆AI交易策略稳定日产30-100刀："屎山代码"的逆袭

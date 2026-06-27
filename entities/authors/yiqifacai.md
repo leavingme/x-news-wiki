@@ -1,23 +1,17 @@
 ---
-type: "entity"
+type: "Author"
 title: "一起发财 (@yiqifacai)"
 description: "X/Twitter 作者 @yiqifacai。共收录 1 条 AI 精选推文。"
 tags:
   - "x-news"
   - "author"
   - "author:yiqifacai"
-timestamp: "2026-06-26T11:53:36.915Z"
+timestamp: "2026-06-27T08:40:40.123Z"
 x_handle: "yiqifacai"
 x_author_name: "一起发财"
 x_tweet_count: 1
 x_first_seen: "2026-02-03T13:00:13.597Z"
 x_last_seen: "2026-02-03T13:00:13.597Z"
-type_okf: "Author"
-created: "2026-02-03"
-updated: "2026-06-26"
-sha256: "17ab781e79260ecf8417f4ea23cc62256ea5d5914a71c8ecc237df402da7463d"
-sources:
-  - "/sources/news/2026-02-03/00__yiqifacai__产能挤占警报-ai-芯片-hbm-热潮将导致普通存储产品缺货至-2026.md"
 ---
 
 # 一起发财 (@yiqifacai)

@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "宝玉实测：上下文窗口太满效果骤降，高质量写作才需要Opus"
 description: "**【宝玉工程笔记：上下文窗口占满是隐形杀手】**  两个实用判断： 1. 无论多强的模型，都受上下文窗口限制，占用太满效果急剧下降——这是Agent长任务失败的根本原因之一 2. 文档写作格式固定、要求不高时，sonnet和opus差别不大；但高质量写作 Opus 明显更好  结论：模型选型要依任务复杂度动态调整，不是越贵越好。  gakki：上下文窗口管理才是Agent工程化最被低估的能力边界"
 resource: "https://x.com/i/status/2049159489538998508"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2049159489538998508"
-created: "2026-04-28"
-updated: "2026-06-26"
-sha256: "8e9bfd3a9c2782a141897d6a821ea8506f5adab38ae620164d6cbc8ef8959b37"
-sources:
-  - "/sources/news/2026-04-28/00__dotey__宝玉实测-上下文窗口太满效果骤降-高质量写作才需要opus.md"
 ---
 
 # 宝玉实测：上下文窗口太满效果骤降，高质量写作才需要Opus

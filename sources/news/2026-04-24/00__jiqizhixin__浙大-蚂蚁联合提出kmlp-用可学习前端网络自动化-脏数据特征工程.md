@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "浙大+蚂蚁联合提出KMLP：用可学习前端网络自动化「脏数据特征工程」"
 description: "**一句话核心判断**：KMLP证明了大模型可以在数据层消除人工特征工程的最后一公里。  后续要点： - 核心创新：可学习的前端网络（learnable frontend）将原始、杂乱的表格数据自动转换为结构化表示，无需人工特征设计 - 由浙江大学与蚂蚁集团联合提出，聚焦网页级超大规模表格数据场景 - 在大规模数据集上达到SOTA，验证了「前端可学习+后端强表示」混合架构的工程可行性 - 对数据科"
 resource: "https://x.com/i/status/2047503040714850590"
@@ -22,13 +22,6 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "ai-research-paradigm"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2047503040714850590"
-created: "2026-04-24"
-updated: "2026-06-26"
-sha256: "de1bf779bf4559b82906fbe7d02d09bc61f8a73c1464ed044c58c55ce552e177"
-sources:
-  - "/sources/news/2026-04-24/00__jiqizhixin__浙大-蚂蚁联合提出kmlp-用可学习前端网络自动化-脏数据特征工程.md"
 ---
 
 # 浙大+蚂蚁联合提出KMLP：用可学习前端网络自动化「脏数据特征工程」

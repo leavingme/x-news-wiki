@@ -1,40 +1,28 @@
 ---
-type: "concept"
-title: "model-capabilities"
-description: "跨日主题 \"model-capabilities\"，共 11 条相关精选推文。"
+type: "Concept"
+title: "模型能力"
+description: "跨日主题 \"模型能力\" (model-capabilities)，共 12 条相关精选推文。"
 tags:
   - "x-news"
   - "concept"
   - "topic:model-capabilities"
-timestamp: "2026-06-26T11:53:37.016Z"
+timestamp: "2026-06-27T08:40:42.856Z"
 x_topic_slug: "model-capabilities"
-x_tweet_count: 11
+x_tweet_count: 12
 x_first_seen: "2026-04-26T00:42:20.091Z"
-x_last_seen: "2026-06-24T04:18:49.840Z"
-type_okf: "Concept"
-created: "2026-04-26"
-updated: "2026-06-26"
-sha256: "a6246a2532b846d8b023d16d4ab3efd7229add5bad13c0c9e47da894417b8967"
-sources:
-  - "/sources/highlights/2026-04-26/00__op7418__gpt-5-5-追平-opus-4-7-前沿模型能力差距收窄-openai-与-anthropic-攻守易位.md"
-  - "/sources/highlights/2026-04-29/00__jiqizhixin__deepseek-多模态识图模型上线灰度测试-速度快到像-system-1-直觉输出-但推理能力缺席.md"
-  - "/sources/highlights/2026-04-30/00__Parul_Gautam7__蚂蚁开源-ling-2-6-1t-万亿参数不再比基准-而是比-执行流.md"
-  - "/sources/highlights/2026-05-02/00__koltregaskes__google-cosmo-偷跑-1-13gb-端侧-ai-助手内置-14-项主动能力-i-o-大会前的火力侦察.md"
-  - "/sources/highlights/2026-05-27/00__jiqizhixin__minimax-m2系列-229b参数-9-8b激活-agent原生rl训练系统forge让模型学会自我debug.md"
-  - "/sources/highlights/2026-05-29/00__op7418__opus-4-8-自查能力质变-代码审查从形同虚设到真正可用.md"
-  - "/sources/highlights/2026-06-24/00__xiaohu__百度unlimited-ocr-3b模型一次前向吞下几十页pdf-人类抄书能力被开源了.md"
-  - "/sources/news/2026-04-30/00__vista8__deepseek-新论文-让-ai-像人一样-用手指着图片思考-视觉推理的注意力革命.md"
-  - "/sources/news/2026-05-05/00__kimmonismus__gemini-3-2-flash-已悄然上线-google-正在用-静默部署-策略抢占模型迭代节奏.md"
-  - "/sources/news/2026-05-07/00__oran_ge__某新模型架构能力被认可但-rl-训练未适配-agent-harness-4-1-版本才是关键窗口.md"
-  - "/sources/news/2026-05-26/00__jiqizhixin__清华阿里联合发布-vit-3-测试时在线学习将视觉模型推理复杂度降为线性.md"
+x_last_seen: "2026-06-26T19:20:45.057Z"
+x_cn_title_source: "dict"
 ---
 
-# 主题: model-capabilities
+# 主题: 模型能力
 
-本主题下共 **11** 条精选推文。
+> slug: `model-capabilities`
+
+本主题下共 **12** 条精选推文。
 
 ## 时间线
 
+- [OpenAI 5.6小范围释出：能力压过Claude Mythos与Fable，但安全卡住放量节奏](../sources/highlights/2026-06-26/00__torontobigface__openai-5-6小范围释出-能力压过claude-mythos与fable-但安全卡住放量节奏.md) — 2026-06-26 · @torontobigface
 - [百度Unlimited OCR：3B模型一次前向吞下几十页PDF，人类抄书能力被开源了](../sources/highlights/2026-06-24/00__xiaohu__百度unlimited-ocr-3b模型一次前向吞下几十页pdf-人类抄书能力被开源了.md) — 2026-06-24 · @xiaohu
 - [Opus 4.8 自查能力质变：代码审查从形同虚设到真正可用](../sources/highlights/2026-05-29/00__op7418__opus-4-8-自查能力质变-代码审查从形同虚设到真正可用.md) — 2026-05-29 · @op7418
 - [MiniMax-M2系列：229B参数、9.8B激活，Agent原生RL训练系统Forge让模型学会自我Debug](../sources/highlights/2026-05-27/00__jiqizhixin__minimax-m2系列-229b参数-9-8b激活-agent原生rl训练系统forge让模型学会自我debug.md) — 2026-05-27 · @jiqizhixin

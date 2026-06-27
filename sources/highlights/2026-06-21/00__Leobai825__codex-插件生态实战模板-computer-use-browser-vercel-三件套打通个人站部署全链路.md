@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Codex 插件生态实战模板：computer use + browser + Vercel 三件套打通个人站部署全链路"
 description: "**[核心判断]** Codex 插件组合正在被一线用户定型为「个人站零摩擦部署」的默认工作流,Vercel + GitHub 的代码托管链路被 Agent 全程接管。  - 天策验证的 Codex 插件组合:computer use + browser 用于搭建个人网站,Codex 直接对接 GitHub + Vercel 完成部署 - 整链路「自然语言→代码→部署→上线」零人工介入,验证 Co"
 resource: "https://x.com/i/status/2068672988812099705"
@@ -22,13 +22,6 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "codex-ecosystem-platform-war"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2068672988812099705"
-created: "2026-06-21"
-updated: "2026-06-26"
-sha256: "ab79bbd5784f105a8b93210661585dafebf86b2d6b871923d83050cc1878d30b"
-sources:
-  - "/sources/highlights/2026-06-21/00__Leobai825__codex-插件生态实战模板-computer-use-browser-vercel-三件套打通个人站部署全链路.md"
 ---
 
 # Codex 插件生态实战模板：computer use + browser + Vercel 三件套打通个人站部署全链路

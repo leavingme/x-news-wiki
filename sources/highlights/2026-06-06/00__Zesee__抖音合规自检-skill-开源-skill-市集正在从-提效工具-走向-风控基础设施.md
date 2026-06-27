@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "抖音合规自检 skill 开源：Skill 市集正在从「提效工具」走向「风控基础设施」"
 description: "**一个开源 skill 把「抖音违规预审」做成了可调用的判定模块，通过率从 59% 拉到 100%。**  要点： - Skill 形态开始承载平台合规这种过去由人工或专业代理才能处理的工作，体现「专业判断外置化」。 - 判别逻辑很朴素：区分「让观众做动作」（违规）vs「陈述产品/事实」（合规），把模糊的审核规则变成可枚举的语义模式。 - 这与 dbskill 的标题配方化是同一脉络：AI 时代"
 resource: "https://x.com/i/status/2063147056370172311"
@@ -22,13 +22,6 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "dbskill-formula-marketplace"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2063147056370172311"
-created: "2026-06-06"
-updated: "2026-06-26"
-sha256: "ab38949499cdb5730d5dc3e2713a304443c59900478b7eb8ed7a239d5030c073"
-sources:
-  - "/sources/highlights/2026-06-06/00__Zesee__抖音合规自检-skill-开源-skill-市集正在从-提效工具-走向-风控基础设施.md"
 ---
 
 # 抖音合规自检 skill 开源：Skill 市集正在从「提效工具」走向「风控基础设施」

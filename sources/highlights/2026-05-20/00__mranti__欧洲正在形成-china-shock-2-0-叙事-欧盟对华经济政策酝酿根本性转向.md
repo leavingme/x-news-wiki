@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "欧洲正在形成「China Shock 2.0」叙事：欧盟对华经济政策酝酿根本性转向"
 description: "**[欧洲已将「中国冲击」视为结构性威胁，而非周期性问题]**  - 欧洲学界与政策圈正在用「China Shock 2.0」替代传统对华认知框架，意味着这不是贸易摩擦，而是系统性竞争定位 - 欧盟层面正在据此制定新的经济政策工具，时间节点值得关注——这是继特朗普1.0之后，西方主要经济体第二次认真评估「中国竞争」的定义 - 核心变化：从「接触促变」转向「能力对抗」，政策工具将涉及补贴审查、市场准"
 resource: "https://x.com/i/status/2057110118815437233"
@@ -22,13 +22,6 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "ai-technology-iron-curtain"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2057110118815437233"
-created: "2026-05-20"
-updated: "2026-06-26"
-sha256: "356e7a579058b9cb72f8b82b424ee254ef010e71ecebb38239b36541f9a8f31f"
-sources:
-  - "/sources/highlights/2026-05-20/00__mranti__欧洲正在形成-china-shock-2-0-叙事-欧盟对华经济政策酝酿根本性转向.md"
 ---
 
 # 欧洲正在形成「China Shock 2.0」叙事：欧盟对华经济政策酝酿根本性转向

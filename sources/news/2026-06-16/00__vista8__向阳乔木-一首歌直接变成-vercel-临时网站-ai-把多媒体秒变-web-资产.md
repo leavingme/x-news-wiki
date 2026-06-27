@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "向阳乔木：一首歌直接变成 Vercel 临时网站，AI 把多媒体秒变 Web 资产"
 description: "**向阳乔木演示了一键把音频文件上传到 Vercel 变成可访问的临时网站。**  - 整个过程几乎零配置：上传 → 部署 → 公网可访问，演示了「本地资源→生产 URL」的 friction 已经接近归零。 - 本质上是 Vercel/Claude Code 链路把「做个 demo 网站」的门槛打到了「我只有一个文件」的程度。 - 对独立开发者和内容创作者来说，这是验证灵感的最短路径，不再需要 "
 resource: "https://x.com/i/status/2066879446687359137"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2066879446687359137"
-created: "2026-06-16"
-updated: "2026-06-26"
-sha256: "e9ce05c48d3c039acfdfd13ec9b3aaf3a362deeb125ace79086227901e295dd7"
-sources:
-  - "/sources/news/2026-06-16/00__vista8__向阳乔木-一首歌直接变成-vercel-临时网站-ai-把多媒体秒变-web-资产.md"
 ---
 
 # 向阳乔木：一首歌直接变成 Vercel 临时网站，AI 把多媒体秒变 Web 资产

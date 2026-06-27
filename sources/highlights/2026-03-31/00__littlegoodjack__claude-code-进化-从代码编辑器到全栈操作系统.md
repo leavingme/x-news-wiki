@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Claude Code 进化：从代码编辑器到全栈操作系统"
 description: "**[Claude Code 正式具备 GUI 自动化能力，标志着 AI 编码工具从「辅助写代码」向「端到端交付」跨越]**  • 单条 Prompt 即可完成「编码→编译→启动→点击测试→Debug→修复→验证」全流程闭环 • 这是首个主流 AI 编码工具原生集成计算机控制，直接威胁传统自动化测试与 CI/CD 工具的市场空间 • 对独立开发者而言，意味着「一人全栈」的技术门槛进一步崩塌  ga"
 resource: "https://x.com/i/status/2038769947456020960"
@@ -22,13 +22,6 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "claude-code-ecosystem"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2038769947456020960"
-created: "2026-03-31"
-updated: "2026-06-26"
-sha256: "62f0d6d768fc20e793dcc340f44cd3fb8229a3c8e95239935ff26b08d726ceb8"
-sources:
-  - "/sources/highlights/2026-03-31/00__littlegoodjack__claude-code-进化-从代码编辑器到全栈操作系统.md"
 ---
 
 # Claude Code 进化：从代码编辑器到全栈操作系统

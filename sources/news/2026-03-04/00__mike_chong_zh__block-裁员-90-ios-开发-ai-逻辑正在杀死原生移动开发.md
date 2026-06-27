@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Block 裁员 90% iOS 开发：AI 逻辑正在杀死原生移动开发"
 description: "**[AI 正在重构移动开发范式，「原生开发优势」成为伪命题]**  • Block 将 iOS 团队从 120 人裁至 10-20 人，降幅超 85%，暴露 AI 时代原生开发的结构性劣势 • 传统移动开发「条条框框」过多，与 AI 的「逻辑优先」本性冲突，且难以形成自动化测试闭环 • 信号：「移动原生开发」正从核心岗位退化为 AI 生成代码的附属环节，iOS/Android 开发者面临技能重塑"
 resource: "https://x.com/i/status/2028152802577637615"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2028152802577637615"
-created: "2026-03-01"
-updated: "2026-06-26"
-sha256: "124e8e7476fef9760fe30b4c36cacbfd8a7c1c489fc01fe56b3320d7a93f8d0a"
-sources:
-  - "/sources/news/2026-03-04/00__mike_chong_zh__block-裁员-90-ios-开发-ai-逻辑正在杀死原生移动开发.md"
 ---
 
 # Block 裁员 90% iOS 开发：AI 逻辑正在杀死原生移动开发

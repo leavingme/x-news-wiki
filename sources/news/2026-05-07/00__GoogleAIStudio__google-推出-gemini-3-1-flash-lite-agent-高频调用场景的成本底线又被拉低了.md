@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Google 推出 Gemini 3.1 Flash Lite：Agent 高频调用场景的成本底线又被拉低了"
 description: "**Google 在\"便宜够用\"这个维度上继续加码，瞄准的是 Agent 批量调用的成本敏感区。** - 定位最高效费比模型，优化高吞吐 Agent 任务、翻译、简单数据处理 - 对标的是 Agent 编排中\"不需要最强但需要大量调用\"的子任务场景  Flash Lite 的推出再次验证了一个趋势：模型市场正在按\"推理深度×调用频率\"分层。Agent 编排中大量子任务其实不需要 Opus 级推理，"
 resource: "https://x.com/GoogleAIStudio/status/2052453828272812310"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "ai-trend-digest"
-type_okf: "X Tweet"
-source_url: "https://x.com/GoogleAIStudio/status/2052453828272812310"
-created: "2026-05-07"
-updated: "2026-06-26"
-sha256: "1fdd560c84a4f6011d76a06528160b0e17bb4a3361fe8ba24b1707d0bb07cae7"
-sources:
-  - "/sources/news/2026-05-07/00__GoogleAIStudio__google-推出-gemini-3-1-flash-lite-agent-高频调用场景的成本底线又被拉低了.md"
 ---
 
 # Google 推出 Gemini 3.1 Flash Lite：Agent 高频调用场景的成本底线又被拉低了

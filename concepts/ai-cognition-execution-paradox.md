@@ -1,27 +1,22 @@
 ---
-type: "concept"
-title: "ai-cognition-execution-paradox"
-description: "跨日主题 \"ai-cognition-execution-paradox\"，共 3 条相关精选推文。"
+type: "Concept"
+title: "AI 认知与执行悖论"
+description: "跨日主题 \"AI 认知与执行悖论\" (ai-cognition-execution-paradox)，共 3 条相关精选推文。"
 tags:
   - "x-news"
   - "concept"
   - "topic:ai-cognition-execution-paradox"
-timestamp: "2026-06-26T11:53:37.011Z"
+timestamp: "2026-06-27T08:40:42.846Z"
 x_topic_slug: "ai-cognition-execution-paradox"
 x_tweet_count: 3
 x_first_seen: "2026-03-23T00:43:10.486Z"
 x_last_seen: "2026-04-05T02:14:39.840Z"
-type_okf: "Concept"
-created: "2026-03-23"
-updated: "2026-06-26"
-sha256: "959c8fa746bdf7b861fbd4f68b334136c0daf88dc2544cf9eb84728f33eaf291"
-sources:
-  - "/sources/highlights/2026-03-23/00__thcaroline2233__ai-就业危机时间表-2028-年或触发经济深度衰退的-倒计时警报.md"
-  - "/sources/news/2026-03-28/00__raycat2021__ai冷战叙事下的美国就业结构性崩塌-监管真空与阶层下沉.md"
-  - "/sources/news/2026-04-05/00__123olp__ai-正在制造-情境触发型失忆-做过很多-积累为零.md"
+x_cn_title_source: "dict"
 ---
 
-# 主题: ai-cognition-execution-paradox
+# 主题: AI 认知与执行悖论
+
+> slug: `ai-cognition-execution-paradox`
 
 本主题下共 **3** 条精选推文。
 

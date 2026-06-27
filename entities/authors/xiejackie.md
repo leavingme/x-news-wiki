@@ -1,25 +1,17 @@
 ---
-type: "entity"
+type: "Author"
 title: "谢嘉琪 (@XieJackie)"
 description: "X/Twitter 作者 @XieJackie。共收录 3 条 AI 精选推文。"
 tags:
   - "x-news"
   - "author"
   - "author:XieJackie"
-timestamp: "2026-06-26T11:53:36.909Z"
+timestamp: "2026-06-27T08:40:40.115Z"
 x_handle: "XieJackie"
 x_author_name: "谢嘉琪"
 x_tweet_count: 3
 x_first_seen: "2026-01-30T12:00:00.000Z"
 x_last_seen: "2026-03-01T03:22:33.117Z"
-type_okf: "Author"
-created: "2026-01-30"
-updated: "2026-06-26"
-sha256: "7b64f9de16f2069aafb62285ec940f0279b1262a7e403619361d51741a8094cc"
-sources:
-  - "/sources/news/2026-01-30/00__XieJackie__英伟达-人工智能的终极四阶段路线图.md"
-  - "/sources/news/2026-01-31/00__XieJackie__spacex-重磅申请-打造百万卫星太空-ai-数据中心.md"
-  - "/sources/news/2026-03-01/00__XieJackie__sam-altman-被批虚伪-前脚支持-anthropic-守红线-后脚与五角大楼签约.md"
 ---
 
 # 谢嘉琪 (@XieJackie)

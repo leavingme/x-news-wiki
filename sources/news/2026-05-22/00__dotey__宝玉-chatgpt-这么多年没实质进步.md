@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "宝玉：ChatGPT 这么多年没实质进步"
 description: "**一句话核心判断：** 宝玉对 ChatGPT 的评价趋于负面，认为产品力在多年迭代后未实现质的跃升，隐含对 OpenAI 创新节奏的质疑。  **信息增量：** - 「没进步」是相对用户预期而非竞品而言——用户对 GPT-5 的期待长期落空 - 指向 AI 行业「迭代≠进步」的结构性问题  **行业影响：** 单一产品停滞不前，而整个行业却在加速——说明 AI 能力增长点正在从通用对话转向 A"
 resource: "https://x.com/i/status/2057646835779465549"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2057646835779465549"
-created: "2026-05-22"
-updated: "2026-06-26"
-sha256: "c61b039eb49b64c75a8131e9128ed24961cfdbccdd983e6cf686e76541682d1d"
-sources:
-  - "/sources/news/2026-05-22/00__dotey__宝玉-chatgpt-这么多年没实质进步.md"
 ---
 
 # 宝玉：ChatGPT 这么多年没实质进步

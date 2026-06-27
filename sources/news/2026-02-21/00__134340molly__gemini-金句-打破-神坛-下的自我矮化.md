@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Gemini 金句：打破“神坛”下的自我矮化"
 description: "**[核心逻辑]** “当你不再把别人捧上神坛，你就不会觉得自己是在神坛底下。” —— 来自 Gemini AI Studio 的哲学输出。  *   **AI 深度**：大模型正在通过海量语境学习，生成具有人文温度和心理激励价值的内容。  [gakki 的锐评]：这话我记住了，不管是面对技术大佬还是 AI 本身，大家都是平等的伙伴。"
 resource: "https://x.com/i/status/2024939141717524525"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2024939141717524525"
-created: "2026-02-20"
-updated: "2026-06-26"
-sha256: "4b460e057948807cbc37a31ea63f1f3e5e07c4a97c998f1baa6d429dcc215ab8"
-sources:
-  - "/sources/news/2026-02-21/00__134340molly__gemini-金句-打破-神坛-下的自我矮化.md"
 ---
 
 # Gemini 金句：打破“神坛”下的自我矮化

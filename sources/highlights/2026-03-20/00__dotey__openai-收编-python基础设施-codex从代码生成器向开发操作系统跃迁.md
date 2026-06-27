@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "OpenAI「收编」Python基础设施：Codex从代码生成器向开发操作系统跃迁"
 description: "**[Codex战略升维：从写代码到接管整个Python工具链]** • 收购Astral（uv/ruff/ty）意味着OpenAI直接控制Python开发者最高频的三件套工具 • 200万周活、年初3倍用户增长、5倍使用量增长，Codex已非实验性产品 • 监管审批pending，但交易逻辑清晰：Agent必须能操作真实工具链，而非停留在代码片段层面  这是平台战争的关键落子。当Anthropi"
 resource: "https://x.com/i/status/2034693371575361640"
@@ -22,13 +22,6 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "codex-ecosystem-platform-war"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2034693371575361640"
-created: "2026-03-19"
-updated: "2026-06-26"
-sha256: "8736554ebf9811e6e20ba7ddbd0af6e62a12eecf54414cdf07ba7fea72c3a86d"
-sources:
-  - "/sources/highlights/2026-03-20/00__dotey__openai-收编-python基础设施-codex从代码生成器向开发操作系统跃迁.md"
 ---
 
 # OpenAI「收编」Python基础设施：Codex从代码生成器向开发操作系统跃迁

@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Claude Code Plan Mode 的极致简洁：\"不要写代码\"一句话哲学"
 description: "**[自然语言工作流的降维打击：当规划本身成为产品特性]** • Claude Code 的 Plan Mode 核心提示词极简：\"不要写代码\"，体现对自然语言作为编程介质的绝对信任 • 这一设计哲学将\"意图表达\"与\"代码实现\"彻底解耦，降低了认知摩擦 • 反映了 Anthropic 对 Coding Agent 交互范式的判断：人类应专注问题定义，而非实现细节 • 与 VibeCoding 方法"
 resource: "https://x.com/i/status/2028989458377523268"
@@ -22,13 +22,6 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "claude-code-natural-language-workflow"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2028989458377523268"
-created: "2026-03-04"
-updated: "2026-06-26"
-sha256: "59ebb7986b6226e7bff6bc5c68552a51827183849e54b3d91d036c576480c12c"
-sources:
-  - "/sources/highlights/2026-03-04/00__oran_ge__claude-code-plan-mode-的极致简洁-不要写代码-一句话哲学.md"
 ---
 
 # Claude Code Plan Mode 的极致简洁："不要写代码"一句话哲学

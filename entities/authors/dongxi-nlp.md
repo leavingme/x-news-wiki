@@ -1,25 +1,17 @@
 ---
-type: "entity"
+type: "Author"
 title: "马东锡 NLP (@dongxi_nlp)"
 description: "X/Twitter 作者 @dongxi_nlp。共收录 3 条 AI 精选推文。"
 tags:
   - "x-news"
   - "author"
   - "author:dongxi_nlp"
-timestamp: "2026-06-26T11:53:36.963Z"
+timestamp: "2026-06-27T08:40:40.172Z"
 x_handle: "dongxi_nlp"
 x_author_name: "马东锡 NLP"
 x_tweet_count: 3
 x_first_seen: "2026-03-20T00:42:56.781Z"
 x_last_seen: "2026-03-29T00:32:51.812Z"
-type_okf: "Author"
-created: "2026-03-20"
-updated: "2026-06-26"
-sha256: "603f9b005d2038b10dc1f57a000457e33a0b4792e4c5da4d9f9734287d75667a"
-sources:
-  - "/sources/highlights/2026-03-23/00__dongxi_nlp__memento-skills-agent-自我进化的新路径-从-被设计-到-自设计.md"
-  - "/sources/news/2026-03-20/00__dongxi_nlp__skillcraft启示-agent不再需要-安装技能-而是从实践中-生长技能.md"
-  - "/sources/news/2026-03-29/00__dongxi_nlp__defenseclaw-浮出水面-openclaw-安全治理层首次亮相.md"
 ---
 
 # 马东锡 NLP (@dongxi_nlp)

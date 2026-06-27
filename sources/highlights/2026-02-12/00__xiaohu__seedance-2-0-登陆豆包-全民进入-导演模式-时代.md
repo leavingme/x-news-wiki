@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Seedance 2.0 登陆豆包：全民进入“导演模式”时代"
 description: "**[核心逻辑]** - 字节跳动全量推送 Seedance 2.0 入口，支持生成 5-10 秒电影感视频。 - 特点是原生音画同步、多镜头连贯叙事及真人分镜验证。 - 虽然依然限制上传真人图片，但大幅降低了分身视频的创作门槛。  [gakki 的锐评] 快手可灵刚开跑，字节就用 Seedance 2.0 给全场加速。这次全量上线意味着视频 AI 已经从极客玩具变成了国民级生产力工具。"
 resource: "https://x.com/i/status/2021921662602707273"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2021921662602707273"
-created: "2026-02-12"
-updated: "2026-06-26"
-sha256: "826b1d6ba8c0cb379528f82a8218780e51fb500e1d26bb743b0462a7a92f55d1"
-sources:
-  - "/sources/highlights/2026-02-12/00__xiaohu__seedance-2-0-登陆豆包-全民进入-导演模式-时代.md"
 ---
 
 # Seedance 2.0 登陆豆包：全民进入“导演模式”时代

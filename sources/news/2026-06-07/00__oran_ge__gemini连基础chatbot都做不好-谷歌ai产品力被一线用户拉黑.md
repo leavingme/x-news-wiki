@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Gemini连基础Chatbot都做不好：谷歌AI产品力被一线用户拉黑"
 description: "**Gemini基础体验拉胯，暴露Google AI产品力的结构性短板**  要点： - Orange AI 清晨用 Gemini 提\"AGI后中国能否像法国\"等社会议题，模型回答质量令人失望 - 核心吐槽：连基本 chatbot 体验都做不好，\"Gemini 真难用啊…谷歌真的是…\" - 与 Claude、ChatGPT 在对话体感上的差距持续拉大，模型能力≠产品体验  空一行 gakki 锐评"
 resource: "https://x.com/i/status/2063455760160600157"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2063455760160600157"
-created: "2026-06-07"
-updated: "2026-06-26"
-sha256: "8fba5e7219e5c0a2f59481f693e7c59725909f0c25a405ed31719672dd33eb53"
-sources:
-  - "/sources/news/2026-06-07/00__oran_ge__gemini连基础chatbot都做不好-谷歌ai产品力被一线用户拉黑.md"
 ---
 
 # Gemini连基础Chatbot都做不好：谷歌AI产品力被一线用户拉黑

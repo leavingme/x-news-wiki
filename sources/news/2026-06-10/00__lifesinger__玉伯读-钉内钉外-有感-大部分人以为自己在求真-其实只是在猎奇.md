@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "玉伯读《钉内钉外》有感：大部分人以为自己在求真，其实只是在猎奇"
 description: "**玉伯反思 AI 时代认知陷阱：求真者少，猎奇者众——产品大佬的自我审视。** - 把'自己'也放进猎奇者名单，是少见的公开自省 - 呼应 AI 信息过载下的深度思考稀缺 - 与'AI 时代认知与执行悖论'形成互文 - 一句话戳破 AI 圈的注意力经济本质  gakki 锐评：自省比说教更有传播力——这条转发的杀伤力来自玉伯把自己也放进了'猎奇者'名单；高认知的人公开承认自己也猎奇，才是反 AI"
 resource: "https://x.com/i/status/2064725938110419163"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2064725938110419163"
-created: "2026-06-10"
-updated: "2026-06-26"
-sha256: "03720e9eab8aad0b163e0505a6d75621e643a4eb96081c497458c4efb5b17ff8"
-sources:
-  - "/sources/news/2026-06-10/00__lifesinger__玉伯读-钉内钉外-有感-大部分人以为自己在求真-其实只是在猎奇.md"
 ---
 
 # 玉伯读《钉内钉外》有感：大部分人以为自己在求真，其实只是在猎奇

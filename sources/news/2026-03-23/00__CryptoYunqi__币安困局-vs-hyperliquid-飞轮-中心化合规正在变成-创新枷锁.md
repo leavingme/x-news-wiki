@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "币安困局 vs Hyperliquid 飞轮：中心化合规正在变成「创新枷锁」"
 description: "**[交易所竞争进入「速度 vs 合规」的结构性对决]** • Hyperliquid 通过 HIP-3 实现「小时级」资产上线，币安受合规流程拖累仍处「周级/月级」 • 美股合约 OI 从 2 亿暴增至 14.3 亿刀，证明「24/7 无许可交易」存在真实市场需求 • 核心矛盾：传统金融的合规框架与 Crypto 原生速度之间的不可调和冲突  gakki 锐评：这不是币安的问题，是所有「旧世界玩"
 resource: "https://x.com/i/status/2035094961511965019"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2035094961511965019"
-created: "2026-03-20"
-updated: "2026-06-26"
-sha256: "73c8764f470c591b86183c794bb6b67530345afd7271892103680bf99cefc1ad"
-sources:
-  - "/sources/news/2026-03-23/00__CryptoYunqi__币安困局-vs-hyperliquid-飞轮-中心化合规正在变成-创新枷锁.md"
 ---
 
 # 币安困局 vs Hyperliquid 飞轮：中心化合规正在变成「创新枷锁」

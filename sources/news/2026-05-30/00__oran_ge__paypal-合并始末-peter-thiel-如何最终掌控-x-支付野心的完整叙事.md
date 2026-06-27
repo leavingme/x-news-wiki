@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "PayPal 合并始末：Peter Thiel 如何最终掌控 X 支付野心的完整叙事"
 description: "**[PayPal 政治暴露 X 支付整合困局的真实根源]**  - PayPal 原本是 X（马斯克旗下）的一个产品，后与 Peter Thiel 的支付公司合并，最终 Peter Thiel 反客为主将马斯克驱逐出局——这解释了为什么 X 的支付整合至今举步维艰 - 意味着 X 的支付基础设施本质上是收购来的二手资产，并非原生态设计，与 Apple Pay 等原生竞争不在同一条起跑线 - 对想"
 resource: "https://x.com/i/status/2060721599981273304"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2060721599981273304"
-created: "2026-05-30"
-updated: "2026-06-26"
-sha256: "0c53e4fa0a777ab7d222dda7f262b08643d6ef48bc8488f0ecb2d33225ae0389"
-sources:
-  - "/sources/news/2026-05-30/00__oran_ge__paypal-合并始末-peter-thiel-如何最终掌控-x-支付野心的完整叙事.md"
 ---
 
 # PayPal 合并始末：Peter Thiel 如何最终掌控 X 支付野心的完整叙事

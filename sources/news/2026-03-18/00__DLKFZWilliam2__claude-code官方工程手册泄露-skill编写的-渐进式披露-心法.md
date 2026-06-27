@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Claude Code官方工程手册泄露：Skill编写的「渐进式披露」心法"
 description: "**【从玄学Prompt到工程化Skill的范式跃迁】**  • Gotchas集中管理：Claude默认走最稳妥路径，将边界case集中声明可大幅提升输出可靠性 • 渐进式披露(Progressive Disclosure)：先给概要让模型建立认知框架，再展开详情，避免信息过载 • 这与传统Prompt工程的本质区别：Skill是「结构化知识容器」，而非一次性指令  Anthropic正在把Pr"
 resource: "https://x.com/i/status/2034041985510904019"
@@ -22,13 +22,6 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "skill-automation-engineering"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2034041985510904019"
-created: "2026-03-17"
-updated: "2026-06-26"
-sha256: "eb3b9a30fee675581c2477bf5e12e0982a236071ae8a6ada80a1d2ac55d37536"
-sources:
-  - "/sources/news/2026-03-18/00__DLKFZWilliam2__claude-code官方工程手册泄露-skill编写的-渐进式披露-心法.md"
 ---
 
 # Claude Code官方工程手册泄露：Skill编写的「渐进式披露」心法

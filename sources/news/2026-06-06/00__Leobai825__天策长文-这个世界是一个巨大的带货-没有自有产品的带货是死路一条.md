@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "天策长文：这个世界是一个巨大的带货——没有自有产品的带货是死路一条"
 description: "**带货经济的本质是「用自己的体感替别人的问题背书」，但长期胜负取决于你卖的是不是自己的产品。**  - 天策用黄仁勋带货英伟达、段永平带货泡泡玛特、KOL带货meme、知识主播带货社群、医疗主播带货保健品、健身主播带货补剂串联出一个统一模型：带货=用自己的实际使用体验踩同行。 - 引出鲁大魔的判断：如果走竞价体系去卷价格、没有自己产品的带货是长期死路，因为没有定价权。 - 把自己定位为「带小伙伴"
 resource: "https://x.com/i/status/2063271651328843782"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2063271651328843782"
-created: "2026-06-06"
-updated: "2026-06-26"
-sha256: "0f56dd226c57af74cb2529a012996b9953cfb43027015fce3b1ddbb90c277f42"
-sources:
-  - "/sources/news/2026-06-06/00__Leobai825__天策长文-这个世界是一个巨大的带货-没有自有产品的带货是死路一条.md"
 ---
 
 # 天策长文：这个世界是一个巨大的带货——没有自有产品的带货是死路一条

@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "AXE Layout：一个布局统一所有 AI 硬件"
 description: "**[跨设备集群的调度抽象突破]** - 提出 AXE 布局，一套简单的地图即可统一 GPU、显存与线程间的数据流 - 实现了分片（sharding）与瓦片（tiling）等复杂操作的底层归一化 - 性能超越现代 GPU 和多设备集群上手工调优的代码  [gakki 的锐评]：这就是给纷繁复杂的 AI 硬件生态装了一套“标准导视系统”，让数据少走冤枉路，算力自然就提上去了。"
 resource: "https://x.com/i/status/2016418255972556825"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2016418255972556825"
-created: "2026-01-28"
-updated: "2026-06-26"
-sha256: "41e1f76249cfcfb69056217107b166238f32939f8ad9dca2d67dc0baa1e5493c"
-sources:
-  - "/sources/news/2026-02-08/00__jiqizhixin__axe-layout-一个布局统一所有-ai-硬件.md"
 ---
 
 # AXE Layout：一个布局统一所有 AI 硬件

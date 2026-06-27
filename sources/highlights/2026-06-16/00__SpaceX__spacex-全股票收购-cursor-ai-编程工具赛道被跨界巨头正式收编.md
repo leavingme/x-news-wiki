@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "SpaceX 全股票收购 Cursor：AI 编程工具赛道被跨界巨头正式收编"
 description: "**头部 AI Coding 工具正以\"非 AI 巨头\"的身份被跨界产业资本吞并，Cursor 的独立性时代结束。**  要点： - 交易形式为全股票，官方目标\"构建全球最有用的 AI 模型\" - SpaceXAI 此前已与 Cursor 联合训练模型，将通过 Cursor + Grok Build 双渠道发布 - SpaceX（火箭公司）跨界 AI 模型层，说明前沿算力/数据组织化能力比纯软件更"
 resource: "https://x.com/SpaceX/status/2066873915717136548"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
-
 x_source: "ai-trend-digest"
-type_okf: "X Tweet"
-source_url: "https://x.com/SpaceX/status/2066873915717136548"
-created: "2026-06-16"
-updated: "2026-06-26"
-sha256: "a9c2f06324008919e540f161c58217711e60f4c1042f4be1816d8a97a36be7df"
-sources:
-  - "/sources/highlights/2026-06-16/00__SpaceX__spacex-全股票收购-cursor-ai-编程工具赛道被跨界巨头正式收编.md"
 ---
 
 # SpaceX 全股票收购 Cursor：AI 编程工具赛道被跨界巨头正式收编

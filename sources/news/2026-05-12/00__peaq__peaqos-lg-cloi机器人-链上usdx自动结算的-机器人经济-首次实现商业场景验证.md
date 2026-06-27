@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "peaqOS×LG CLOi机器人：链上USDX自动结算的「机器人经济」首次实现商业场景验证"
 description: "**一句话核心判断：** 机器人技能上链+自动法币结算，意味着具身AI的「商业模式闭环」从理论走向工程可行性。  peaqOS与LG CLOiSim集成，机器人技能支持pay-per-use，用USDT自动结算——这不只是技术演示，而是真实的商业合同数字化。  gakki 锐评：具身AI喊了这么久，真正缺失的一环不是运动控制，而是「怎么收钱」。peaqOS这步棋踩在了点子上——把机器人的每个动作变"
 resource: "https://x.com/peaq/status/2054195691367416067"
@@ -22,13 +22,6 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "ai-agent-crypto-infra"
 x_source: "ai-trend-digest"
-type_okf: "X Tweet"
-source_url: "https://x.com/peaq/status/2054195691367416067"
-created: "2026-05-12"
-updated: "2026-06-26"
-sha256: "6da1fc35a06ecb0871feb970134a047d4bd834267bed3e8c63f673a4ae4e82aa"
-sources:
-  - "/sources/news/2026-05-12/00__peaq__peaqos-lg-cloi机器人-链上usdx自动结算的-机器人经济-首次实现商业场景验证.md"
 ---
 
 # peaqOS×LG CLOi机器人：链上USDX自动结算的「机器人经济」首次实现商业场景验证

@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Anthropic「顾问模式」颠覆常识：小模型干活、大模型只当军师，成本降12%"
 description: "**[「大模型指挥、小模型执行」被反转了——Anthropic用Advisor API重新定义Agent分工]**  Anthropic新推出的Advisor API彻底翻转了行业惯例：Sonnet/Haiku作为执行者全程跑任务，Opus只在决策节点被请出来当顾问，全程不碰工具、不直接输出。  实际效果：Sonnet+Opus顾问模式比Sonnet单干SWE-bench分数高2.7%，每个任务成"
 resource: "https://x.com/i/status/2042324560700154312"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2042324560700154312"
-created: "2026-04-09"
-updated: "2026-06-26"
-sha256: "e8ce903273919db8b393b9e99e833d1c791d1c901332ea4f5a0acbb89e980d50"
-sources:
-  - "/sources/highlights/2026-04-10/00__dotey__anthropic-顾问模式-颠覆常识-小模型干活-大模型只当军师-成本降12.md"
 ---
 
 # Anthropic「顾问模式」颠覆常识：小模型干活、大模型只当军师，成本降12%

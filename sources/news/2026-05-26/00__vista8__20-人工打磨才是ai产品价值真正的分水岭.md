@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "20%人工打磨才是AI产品价值真正的分水岭"
 description: "**[AI生成与人工提纯的边界正在重新定义]**  向阳乔木指出，纯AI输出的内容天花板明显，真正让产品价值拉开差距的是那20%的人工打磨时间——这不仅是工作量问题，更是判断力与审美的介入。  - AI生成解决了0到1的效率问题，但1到100的差异化仍依赖人类经验 - 这20%的\"最后一公里\"将成为AI产品的核心竞争壁垒，而非模型本身  **gakki：AI降低创作门槛，但价值的锚点始终在人工判断"
 resource: "https://x.com/i/status/2059086384594637120"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2059086384594637120"
-created: "2026-05-26"
-updated: "2026-06-26"
-sha256: "87ee99daf784aae4e80dc5fdc3f875c538659eb6caeb220a4ed6a6c177d1a189"
-sources:
-  - "/sources/news/2026-05-26/00__vista8__20-人工打磨才是ai产品价值真正的分水岭.md"
 ---
 
 # 20%人工打磨才是AI产品价值真正的分水岭

@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "200万GEO打水漂背后：AI搜索优化正在重演SEM暴雷史"
 description: "**[一句话核心判断]**  GEO（AI搜索优化）服务商鱼龙混杂，甲方花200万仅获4000 UV，核心问题是行业缺乏可量化的效果考核标准。  **信息增量：** - GEO服务商良莠不齐，无统一度量衡，甲方容易被刷量数据欺骗 - 姚老师与向阳乔木推出《GEO蓝皮书》，试图建立行业挑选标准，这是AI搜索优化从草莽走向规范化的信号 - 与SEM早期乱象高度相似——验证了AI内容行业的「代理骗局」规"
 resource: "https://x.com/i/status/2055234412380627418"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2055234412380627418"
-created: "2026-05-15"
-updated: "2026-06-26"
-sha256: "48bdc167e56ccbac659efef469816e9566dd2a9fd1b93b495a7f1f59f80b4e52"
-sources:
-  - "/sources/news/2026-05-15/00__vista8__200万geo打水漂背后-ai搜索优化正在重演sem暴雷史.md"
 ---
 
 # 200万GEO打水漂背后：AI搜索优化正在重演SEM暴雷史

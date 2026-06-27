@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "yetone 的 tmux Meta Harness：让 Codex 和 Claude Code 互相抽鞭子，狂转起来"
 description: "**一句话核心判断：tmux 作为 Meta Harness 的角色正在被验证——多 Agent 协作不止可以串行，还可以形成相互驱动的\"抽鞭子\"循环。**  - yetone 的工作流：用 tmux 让 Codex 不停向 Claude Code 施压，Claude Code 被驱动疯狂运转 - 本质：将 tmux 的分屏机制变成多 Agent 调度层，每个 pane 跑一个 Agent，形成并"
 resource: "https://x.com/i/status/2056491511030972543"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2056491511030972543"
-created: "2026-05-18"
-updated: "2026-06-26"
-sha256: "aecbdad160bebacf607a157527face1ccdea9de63990f44d69b6edc46e65641c"
-sources:
-  - "/sources/news/2026-05-18/00__yetone__yetone-的-tmux-meta-harness-让-codex-和-claude-code-互相抽鞭子-狂转起来.md"
 ---
 
 # yetone 的 tmux Meta Harness：让 Codex 和 Claude Code 互相抽鞭子，狂转起来

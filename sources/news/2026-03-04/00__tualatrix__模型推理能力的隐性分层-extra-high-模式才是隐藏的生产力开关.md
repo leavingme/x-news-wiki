@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "模型推理能力的隐性分层：Extra High 模式才是隐藏的生产力开关"
 description: "**[付费墙背后的能力跃迁：从\"能用\"到\"好用\"的阈值效应]** • 同一问题在 Codex 与 Claude Code 多轮未能解决，切换至 ChatGPT Pro 的 Extra High Reasoning 后突破 • 揭示当前模型能力的分层现实：基础模式解决 80% 简单问题，高难度问题需要\"深度思考\"模式的跨上下文推理 • 开发者存在 Token 节俭幻觉：为节省成本使用低推理强度，反而"
 resource: "https://x.com/i/status/2028836150845354095"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2028836150845354095"
-created: "2026-03-03"
-updated: "2026-06-26"
-sha256: "3f20c5089eb2d95d4a322ad4dbfd36e5d2257cba32192fdd501ff4fc30a2acb9"
-sources:
-  - "/sources/news/2026-03-04/00__tualatrix__模型推理能力的隐性分层-extra-high-模式才是隐藏的生产力开关.md"
 ---
 
 # 模型推理能力的隐性分层：Extra High 模式才是隐藏的生产力开关

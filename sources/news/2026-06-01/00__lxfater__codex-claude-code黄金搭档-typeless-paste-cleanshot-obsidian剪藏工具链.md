@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Codex/Claude Code黄金搭档：Typeless+Paste+CleanShot+Obsidian剪藏工具链"
 description: "**[AI编程工具链正在形成「输入→剪藏→输出」铁三角]**  铁锤人实测推荐了与AI编程工具配套的6款伴侣应用：Typeless（长提示词语音输入）、Paste（一键粘贴预设模板）、CleanShot（截图标注加速沟通）、Obsidian Web Clipper（网页剪藏）、Lattic（AI播客）以及Rectify（Chrome语音修正）。这套工具链的逻辑是：减少人与AI之间的信息摩擦，把人类"
 resource: "https://x.com/i/status/2061470009587818904"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2061470009587818904"
-created: "2026-06-01"
-updated: "2026-06-26"
-sha256: "69ba0036921c7936d9924683510712d2206408f62b2eff1bb074a1b1476f0fa2"
-sources:
-  - "/sources/news/2026-06-01/00__lxfater__codex-claude-code黄金搭档-typeless-paste-cleanshot-obsidian剪藏工具链.md"
 ---
 
 # Codex/Claude Code黄金搭档：Typeless+Paste+CleanShot+Obsidian剪藏工具链

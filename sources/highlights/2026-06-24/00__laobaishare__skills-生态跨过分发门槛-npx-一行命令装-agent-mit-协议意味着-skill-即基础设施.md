@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Skills 生态跨过分发门槛：npx 一行命令装 Agent，MIT 协议意味着「Skill 即基础设施」"
 description: "**[Skills 生态从文档标准迈向 CLI 分发标准]**  - 核心信号：`npx skills add <repo>` 这种一行命令式的 Skill 安装方式 + MIT 协议，把 Skills 从「散落的 .md 文件」变成「可分发的 npm 包」。 - 行业意义：Agent Skills 的安装路径正在对齐 Node 生态（npm/npx），意味着 Skill 作者可以像发包一样交付能"
 resource: "https://x.com/i/status/2068988429321527513"
@@ -22,13 +22,6 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "skills-ecosystem-standards"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2068988429321527513"
-created: "2026-06-22"
-updated: "2026-06-26"
-sha256: "aed8317be536ccbfbe6b1c775feb2f96beae4329ac0bf3c9f4727ff441b7dafc"
-sources:
-  - "/sources/highlights/2026-06-24/00__laobaishare__skills-生态跨过分发门槛-npx-一行命令装-agent-mit-协议意味着-skill-即基础设施.md"
 ---
 
 # Skills 生态跨过分发门槛：npx 一行命令装 Agent，MIT 协议意味着「Skill 即基础设施」

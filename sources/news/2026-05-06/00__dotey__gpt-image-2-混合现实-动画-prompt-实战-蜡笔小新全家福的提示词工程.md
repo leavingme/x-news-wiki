@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "GPT Image 2 混合现实+动画 Prompt 实战：蜡笔小新全家福的提示词工程"
 description: "**宝玉公开了一个可复用的 Prompt 结构——半写实半动画混合风格的精确控制范式。**  - 每个角色有独立的性格-表情映射指令（小新=滑稽淘气，广志=温和朴实，美冴=严厉） - 核心技巧：用「自然融入真实现实世界场景」约束混合风格的边界 - 这类 Prompt 的价值不在单次生成，在于可迁移的角色-场景模板化思路  gakki 锐评：Prompt 工程正在从「怎么问」进化到「怎么描述角色人格"
 resource: "https://x.com/i/status/2051835578132422677"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2051835578132422677"
-created: "2026-05-06"
-updated: "2026-06-26"
-sha256: "5ea60084745f53421f8d8a1613c04e44910a4ff04ff9140e28d218e6641385c5"
-sources:
-  - "/sources/news/2026-05-06/00__dotey__gpt-image-2-混合现实-动画-prompt-实战-蜡笔小新全家福的提示词工程.md"
 ---
 
 # GPT Image 2 混合现实+动画 Prompt 实战：蜡笔小新全家福的提示词工程

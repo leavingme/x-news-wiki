@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "camel-ai/owl 24小时暴增1287星：单Agent崩溃难题被多智能体军团解法终结"
 description: "**[多Agent协作框架的GAIA基准登顶验证了编排范式]**  camel-ai/owl通过专业化Agent分工+浏览器/终端/MCP工具无缝协作，在GAIA基准测试开源榜登顶。核心解决的痛点：单Agent处理复杂任务必崩的宿命。\"一个人=10人团队\"的生产力公式正在被框架化实现。  24小时1287星屠榜，说明社区对多Agent编排的需求已从极客玩具变成工程刚需。  **gakki：这才是真"
 resource: "https://x.com/i/status/2042063155485143279"
@@ -22,13 +22,6 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "sub-agents-multi-expert"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2042063155485143279"
-created: "2026-04-09"
-updated: "2026-06-26"
-sha256: "c93aed84ed1d01c78a996b2539f369918e232d8c6ca4580ac710288f7e716455"
-sources:
-  - "/sources/news/2026-04-09/00__GitTrend0x__camel-ai-owl-24小时暴增1287星-单agent崩溃难题被多智能体军团解法终结.md"
 ---
 
 # camel-ai/owl 24小时暴增1287星：单Agent崩溃难题被多智能体军团解法终结

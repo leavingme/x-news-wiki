@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "DeepSeek 多模态论文公开：284B MoE + 视觉原语推理，用 Flash 级成本对齐 GPT-5.4"
 description: "**DeepSeek 多模态底座正式亮相，用「视觉原语」而非传统 patch 对齐的路线向 GPT-5.4/Claude/Gemini 发起挑战。** - 底座为 DeepSeek-V4-Flash，MoE 架构 284B 总参/13B 激活，自研 ViT 编码器配合 3×3 空间压缩 - 核心创新：回答时同时生成画框、打点等「视觉原语」进行推理，非纯文本 CoT - 论文声称在极低 Token "
 resource: "https://x.com/i/status/2049823491017592924"
@@ -22,13 +22,6 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "deepseek-v4-open-source"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2049823491017592924"
-created: "2026-04-30"
-updated: "2026-06-26"
-sha256: "6688bfe43a21d54d95cc9d2d8c190c05944945fb410db5e8ff9dfe325cb1c022"
-sources:
-  - "/sources/highlights/2026-04-30/00__op7418__deepseek-多模态论文公开-284b-moe-视觉原语推理-用-flash-级成本对齐-gpt-5-4.md"
 ---
 
 # DeepSeek 多模态论文公开：284B MoE + 视觉原语推理，用 Flash 级成本对齐 GPT-5.4

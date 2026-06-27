@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "剪映海外版牵手 Gemini：AI 视频编辑正式进入平台绑定时代"
 description: "**一句话核心判断** 剪映海外版宣布接入 Gemini，视频编辑工具的 AI 能力正式进入「平台授权」阶段，独立工具的 AI 优势窗口正在关闭。  **信息增量** - 合作方式与上线时间尚未公布，但剪映的编辑体验 + Gemini 的生成能力是强互补 - 剪映海外版（CapCut）是目前 TikTok 生态最重要的剪辑工具，接入 Gemini 后用户可直接在剪辑流程内调用 AI 生成 - 字节"
 resource: "https://x.com/i/status/2057486305806938119"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2057486305806938119"
-created: "2026-05-21"
-updated: "2026-06-26"
-sha256: "c2c70b8e8c95eb21939d42c21a60bddd7985aa969fcf6fe858ca5645421982e8"
-sources:
-  - "/sources/news/2026-05-21/00__op7418__剪映海外版牵手-gemini-ai-视频编辑正式进入平台绑定时代.md"
 ---
 
 # 剪映海外版牵手 Gemini：AI 视频编辑正式进入平台绑定时代

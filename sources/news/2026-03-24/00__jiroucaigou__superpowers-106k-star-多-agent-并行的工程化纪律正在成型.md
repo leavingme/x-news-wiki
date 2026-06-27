@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "SuperPowers 106k Star：多 Agent 并行的工程化纪律正在成型"
 description: "**[从「AI能写代码」到「AI能按标准工程流程写代码」的跨越]**  • 需求阶段：疯狂提问 → 标准设计文档 → 用户确认，杜绝需求漂移 • 隔离机制：新分支 + 独立工作区，主代码库保护成为硬性约束 • 原子化执行：任务拆分到最小子任务，子Agent执行并强制测试，最小代码也需通过 • 双重审查：设计规格符合性 + 代码质量，任一不通过即阻塞  **gakki锐评**：当「多Agent并行」"
 resource: "https://x.com/i/status/2035964407201849564"
@@ -22,13 +22,6 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "agent-swarm-orchestration"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2035964407201849564"
-created: "2026-03-23"
-updated: "2026-06-26"
-sha256: "168e6facf39ded3bb1ba1ab5aace85adbd9c8734b7b2a29f0eefff398c686345"
-sources:
-  - "/sources/news/2026-03-24/00__jiroucaigou__superpowers-106k-star-多-agent-并行的工程化纪律正在成型.md"
 ---
 
 # SuperPowers 106k Star：多 Agent 并行的工程化纪律正在成型

@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Agent 爬虫工具箱定型：Agent-Reach、Firecrawl、Crawl4AI 重新定义 Agent 接入真实互联网"
 description: "**[Serena 整理 Cursor/Claude/Codex 必装的 5 个爬虫项目，Agent 数据获取基础设施已形成事实标准]**  - Agent-Reach (3.6w stars)：跨平台搜索，Agent 直接读取 Twitter/Reddit/YouTube/GitHub/B站/小红书 - Firecrawl (13w+ stars)：把脏网页清洗成 Agent 易处理的 Mark"
 resource: "https://x.com/i/status/2068550047713661407"
@@ -22,13 +22,6 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "agent-social-data-access"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2068550047713661407"
-created: "2026-06-21"
-updated: "2026-06-26"
-sha256: "25f30d2de4ebba2b83ce1bd981b0ce8242babdf2c272af530f9ef234b32d1c32"
-sources:
-  - "/sources/news/2026-06-24/00__369Serena__agent-爬虫工具箱定型-agent-reach-firecrawl-crawl4ai-重新定义-agent-接入真实.md"
 ---
 
 # Agent 爬虫工具箱定型：Agent-Reach、Firecrawl、Crawl4AI 重新定义 Agent 接入真实互联网

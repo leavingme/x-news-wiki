@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "ProgramBench 揭开AI完整项目构建天花板：最强模型仅3%任务达95%完成率"
 description: "**【一句话核心判断】 当前AI Agent离\"从零构建完整项目\"的能力天花板还极远，连头部模型的完整任务解决率都趋近于零。  **要点：** - ProgramBench 由 Meta FAIR + 斯坦福 + 哈佛联合发布，测试标准极为严格：给文档、用模糊测试验证行为等价性，但不规定实现结构——这是真正考验\"理解需求并独立构建\"的能力 - 测试的 9 个模型全军覆没，最好成绩是某模型仅在 3%"
 resource: "https://x.com/i/status/2054746771390120176"
@@ -22,13 +22,6 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "agent-capability-benchmark"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2054746771390120176"
-created: "2026-05-14"
-updated: "2026-06-26"
-sha256: "ea80c5b398e5eb8d9961c192b889acf875451407bf4f6bb35a7d454de4a1620f"
-sources:
-  - "/sources/highlights/2026-05-14/00__jiqizhixin__programbench-揭开ai完整项目构建天花板-最强模型仅3-任务达95-完成率.md"
 ---
 
 # ProgramBench 揭开AI完整项目构建天花板：最强模型仅3%任务达95%完成率

@@ -1,23 +1,17 @@
 ---
-type: "entity"
+type: "Author"
 title: "0xQueen (@0xqueendom)"
 description: "X/Twitter 作者 @0xqueendom。共收录 1 条 AI 精选推文。"
 tags:
   - "x-news"
   - "author"
   - "author:0xqueendom"
-timestamp: "2026-06-26T11:53:36.954Z"
+timestamp: "2026-06-27T08:40:40.162Z"
 x_handle: "0xqueendom"
 x_author_name: "0xQueen"
 x_tweet_count: 1
 x_first_seen: "2026-03-06T04:17:50.123Z"
 x_last_seen: "2026-03-06T04:17:50.123Z"
-type_okf: "Author"
-created: "2026-03-06"
-updated: "2026-06-26"
-sha256: "8da8c238bb463485b5212406a31623fc9219d2cf5de1aab2f1b3e421062377d3"
-sources:
-  - "/sources/highlights/2026-03-06/85__0xqueendom__milady-开源-agent-加密金融基础设施的-一键部署-范本.md"
 ---
 
 # 0xQueen (@0xqueendom)

@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "AnySearch：AI搜索正在从「给链接」进化到「给洞察」"
 description: "**[搜索的范式转移：从信息检索到决策提纯]**  Rachel 实测 AnySearch 的核心洞察：AI 搜索不再返回链接列表让用户自己淘金，而是直接输出「可直接决策的高质量洞察」。  这意味着搜索的价值链正在被重新切分——信息整合层被 AI 吃掉，人类的价值退到「判断 AI 给的答案对不对」。  ---  gakki：搜索的终极形态是消除用户的信息处理过程。如果 AnySearch 能稳定做"
 resource: "https://x.com/i/status/2060268930095075545"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2060268930095075545"
-created: "2026-05-29"
-updated: "2026-06-26"
-sha256: "566b23dade1d05f79d13825f9a7eb2ebd8b856eaf71def046a8927d84d6aca74"
-sources:
-  - "/sources/news/2026-05-29/00__Zesee__anysearch-ai搜索正在从-给链接-进化到-给洞察.md"
 ---
 
 # AnySearch：AI搜索正在从「给链接」进化到「给洞察」

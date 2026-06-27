@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "宝玉推荐照片转涂鸦插图提示词：图像风格迁移的轻量玩法"
 description: "**[照片 + 一段 prompt = 涂鸦插图风格化]** - 宝玉分享一个图像生成 prompt，可把照片转为融入涂鸦元素的平面插图 - 属于轻量级内容创作工具，体现 AI 图像生成的\"开箱即用\"门槛持续走低 - 没有技术突破点，但作为模板化审美判断的实例值得关注  gakki 锐评：这类提示词的价值在\"审美判断前置固化\"——对普通用户是效率工具，对专业创作者是降维打击的中间形态，但真正护城河"
 resource: "https://x.com/i/status/2067007173272420615"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2067007173272420615"
-created: "2026-06-16"
-updated: "2026-06-26"
-sha256: "b8feea106d82fb2eddaee113de32ea90762a2028850638da2455e4931adbe354"
-sources:
-  - "/sources/news/2026-06-16/00__dotey__宝玉推荐照片转涂鸦插图提示词-图像风格迁移的轻量玩法.md"
 ---
 
 # 宝玉推荐照片转涂鸦插图提示词：图像风格迁移的轻量玩法

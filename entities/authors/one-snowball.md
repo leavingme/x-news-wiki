@@ -1,24 +1,17 @@
 ---
-type: "entity"
+type: "Author"
 title: "Snowball（抓住金狗版）🔶 BNB ETHGas ⛽️ 🤖ボッ🦅 (@one_snowball)"
 description: "X/Twitter 作者 @one_snowball。共收录 2 条 AI 精选推文。"
 tags:
   - "x-news"
   - "author"
   - "author:one_snowball"
-timestamp: "2026-06-26T11:53:36.956Z"
+timestamp: "2026-06-27T08:40:40.164Z"
 x_handle: "one_snowball"
 x_author_name: "Snowball（抓住金狗版）🔶 BNB ETHGas ⛽️ 🤖ボッ🦅"
 x_tweet_count: 2
 x_first_seen: "2026-03-11T12:42:44.930Z"
 x_last_seen: "2026-04-15T00:44:45.494Z"
-type_okf: "Author"
-created: "2026-03-11"
-updated: "2026-06-26"
-sha256: "e99150d73b98e13862eb15847b8f95caf0e4d307643c767dce419892ce24d2aa"
-sources:
-  - "/sources/highlights/2026-03-11/90__one_snowball__openclaw-劝退潮-背后-原生agent的经济性与通信鸿沟.md"
-  - "/sources/news/2026-04-15/00__one_snowball__mira-network用250万测试网用户证明-去中心化区块链可以修复ai的-信任裂缝.md"
 ---
 
 # Snowball（抓住金狗版）🔶 BNB ETHGas ⛽️ 🤖ボッ🦅 (@one_snowball)

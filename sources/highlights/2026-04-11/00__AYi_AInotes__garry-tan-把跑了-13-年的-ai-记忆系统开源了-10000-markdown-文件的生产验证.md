@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Garry Tan 把跑了 13 年的 AI 记忆系统开源了，10000+ Markdown 文件的生产验证"
 description: "**一句话核心判断：知识管理已死的反面——以 Markdown 为本体的 AI 原生工作流被证明是生产级解法。**  YC 总裁 Gary Tan 把自己跑了很久的真实配置开源为 GBrain：管着 10000+ Markdown 文件、3000+ 人物档案、13 年的日历数据、5800 条苹果笔记、全部会议记录和原创想法。MIT 协议，任何人可以免费抄作业。  这回答了一个核心问题：AI 记忆系"
 resource: "https://x.com/i/status/2042594916862431669"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2042594916862431669"
-created: "2026-04-10"
-updated: "2026-06-26"
-sha256: "9be4dda532aaf822d5cf6d9a860f2ed943c35fe6af8936aa8e76a4d3e94a1c99"
-sources:
-  - "/sources/highlights/2026-04-11/00__AYi_AInotes__garry-tan-把跑了-13-年的-ai-记忆系统开源了-10000-markdown-文件的生产验证.md"
 ---
 
 # Garry Tan 把跑了 13 年的 AI 记忆系统开源了，10000+ Markdown 文件的生产验证

@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "玉伯借老子转译 AI 创业哲学：DeepSeek 中文交锋感不输 Opus，国产模型的「表达力拐点」正在到来"
 description: "**国产模型在中文聊天思考场景的表达力正在逼近甚至超越 Opus，这不是 benchmark 能捕捉的变化。**  - 玉伯用老子「天之道/人之道」重新框架 AI 创业：赚钱要找有钱人，但真正难的是「损有余以奉不足」 - 实测发现 DeepSeek 在中文对话的思考深度和交锋感上不输 Opus，且表达更流畅 - 这类「主观体感评测」正在成为开发者选型的隐性标准  gakki 锐评：benchmar"
 resource: "https://x.com/i/status/2051999415569887514"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2051999415569887514"
-created: "2026-05-06"
-updated: "2026-06-26"
-sha256: "af3199325088a1946acade0821f5203030140c26e87829fc36ae5dcad4ebf737"
-sources:
-  - "/sources/news/2026-05-06/00__lifesinger__玉伯借老子转译-ai-创业哲学-deepseek-中文交锋感不输-opus-国产模型的-表达力拐点-正在到来.md"
 ---
 
 # 玉伯借老子转译 AI 创业哲学：DeepSeek 中文交锋感不输 Opus，国产模型的「表达力拐点」正在到来

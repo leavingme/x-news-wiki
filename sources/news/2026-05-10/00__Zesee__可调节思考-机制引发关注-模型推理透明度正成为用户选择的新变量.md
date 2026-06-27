@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "「可调节思考」机制引发关注：模型推理透明度正成为用户选择的新变量"
 description: "**用户对模型思考过程的可控性表现出强烈兴趣，这预示着推理透明度正从技术特性转化为产品卖点。**  - 「可调节思考」意味着用户可以干预模型的推理深度和路径，这是从黑盒到灰盒的关键一步 - 免费试用期是用户探索新特性的窗口，也是厂商获取反馈的黄金期  gakki 锐评：当用户开始主动要求「看模型怎么想」，说明AI产品正在从工具属性向协作属性迁移——这比任何benchmark都更能说明市场成熟度。"
 resource: "https://x.com/i/status/2053464215772364812"
@@ -22,13 +22,6 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "ai-reasoning-tier-strategy"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2053464215772364812"
-created: "2026-05-10"
-updated: "2026-06-26"
-sha256: "861e49a78425d9401710c57f6f9db5f4f90a6a1cf6e9c83e0fdf0033b253df8a"
-sources:
-  - "/sources/news/2026-05-10/00__Zesee__可调节思考-机制引发关注-模型推理透明度正成为用户选择的新变量.md"
 ---
 
 # 「可调节思考」机制引发关注：模型推理透明度正成为用户选择的新变量

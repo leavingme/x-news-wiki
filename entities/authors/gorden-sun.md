@@ -1,24 +1,17 @@
 ---
-type: "entity"
+type: "Author"
 title: "Gorden Sun (@Gorden_Sun)"
 description: "X/Twitter 作者 @Gorden_Sun。共收录 2 条 AI 精选推文。"
 tags:
   - "x-news"
   - "author"
   - "author:Gorden_Sun"
-timestamp: "2026-06-26T11:53:36.910Z"
+timestamp: "2026-06-27T08:40:40.117Z"
 x_handle: "Gorden_Sun"
 x_author_name: "Gorden Sun"
 x_tweet_count: 2
 x_first_seen: "2026-01-31T05:08:42.387Z"
 x_last_seen: "2026-03-30T00:43:26.165Z"
-type_okf: "Author"
-created: "2026-01-31"
-updated: "2026-06-26"
-sha256: "8ff5f8a9dc2e7fb929fa41848260dd98d45cb773c5749e25ef4889e5e9a7cb4b"
-sources:
-  - "/sources/news/2026-01-31/00__Gorden_Sun__谷歌-gcp-福利升级-ai-pro-会员每月获-10-api-额度.md"
-  - "/sources/news/2026-03-30/00__Gorden_Sun__逆向-claude-code-web-anthropic-的野心远不止-llm.md"
 ---
 
 # Gorden Sun (@Gorden_Sun)

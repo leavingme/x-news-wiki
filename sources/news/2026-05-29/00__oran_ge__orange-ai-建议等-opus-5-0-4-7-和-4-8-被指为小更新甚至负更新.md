@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Orange AI 建议等 Opus 5.0：4.7 和 4.8 被指为小更新甚至负更新"
 description: "**一线判断：Anthropic 的更新节奏正在引发用户信任分化，一部分人选择主动等待。**  Orange AI 的判断与归藏形成鲜明对比：认为 4.7 和 4.8 均为小版本更新，甚至出现负优化，建议直接等 5.0。这代表了相当一批深度用户的态度——对版本迭代的期望值在拉高，耐心在收缩。  当「等下一个版本」成为越来越多用户的默认策略，Anthropic 的更新节奏需要回答一个根本问题：什么是"
 resource: "https://x.com/i/status/2060175769771655378"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2060175769771655378"
-created: "2026-05-29"
-updated: "2026-06-26"
-sha256: "ee294ca288f9aed648c5d0200d77d3a560f2974a3bc5d7dbddc61d685a17cbcd"
-sources:
-  - "/sources/news/2026-05-29/00__oran_ge__orange-ai-建议等-opus-5-0-4-7-和-4-8-被指为小更新甚至负更新.md"
 ---
 
 # Orange AI 建议等 Opus 5.0：4.7 和 4.8 被指为小更新甚至负更新

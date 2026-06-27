@@ -1,34 +1,22 @@
 ---
-type: "concept"
-title: "enterprise-agent-product"
-description: "跨日主题 \"enterprise-agent-product\"，共 10 条相关精选推文。"
+type: "Concept"
+title: "企业级Agent产品"
+description: "跨日主题 \"企业级Agent产品\" (enterprise-agent-product)，共 10 条相关精选推文。"
 tags:
   - "x-news"
   - "concept"
   - "topic:enterprise-agent-product"
-timestamp: "2026-06-26T11:53:37.008Z"
+timestamp: "2026-06-27T08:40:42.843Z"
 x_topic_slug: "enterprise-agent-product"
 x_tweet_count: 10
 x_first_seen: "2026-03-16T00:44:19.789Z"
 x_last_seen: "2026-06-23T10:18:39.040Z"
-type_okf: "Concept"
-created: "2026-03-16"
-updated: "2026-06-26"
-sha256: "033ba31e7768479b20b9358781158071a92408b79e9fe36dfa2250ef33bc4692"
-sources:
-  - "/sources/highlights/2026-03-16/00__op7418__claude-to-im-skills-升级-飞书官方-openclaw-插件能力全面接入.md"
-  - "/sources/highlights/2026-06-15/00__gkxspace__workbuddy-戳破-codex-幻觉-cli-之外-agent-真正大众化靠的是-skills-超市-一键开团.md"
-  - "/sources/highlights/2026-06-16/00__Khazix0918__workbuddy-撕开-非开发者用-ai-agent-干活-的万亿级市场.md"
-  - "/sources/news/2026-03-22/00__lxfater__微信agent-零摩擦-入口-openclaw微信cli两步入场-超级app的agent化野心浮现.md"
-  - "/sources/news/2026-06-11/00__Khazix0918__数字生命卡兹克-workbuddy-速通指南-可能是最适合国内的-agent-产品.md"
-  - "/sources/news/2026-06-15/00__gkxspace__workbuddy-主动收窄到办公场景-企业-agent-的-广度-vs-深度-路线分化.md"
-  - "/sources/news/2026-06-15/00__gkxspace__workbuddy-国内市场胜出的关键-把-agent-做成-开箱即用专家.md"
-  - "/sources/news/2026-06-15/00__gkxspace__用户口碑验证-workbuddy-凭-零门槛-内嵌功能被称国内企业-agent-第一.md"
-  - "/sources/news/2026-06-15/00__oran_ge__orange-ai-拆解钉钉-ai-20-个真实切片-1-个可复用-skill-模板.md"
-  - "/sources/news/2026-06-23/00__vista8__向阳乔木-workbuddy可能是腾讯目前最pmf的ai产品.md"
+x_cn_title_source: "llm"
 ---
 
-# 主题: enterprise-agent-product
+# 主题: 企业级Agent产品
+
+> slug: `enterprise-agent-product`
 
 本主题下共 **10** 条精选推文。
 

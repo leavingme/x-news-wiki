@@ -1,24 +1,17 @@
 ---
-type: "entity"
+type: "Author"
 title: "Barret李靖 (@Barret_China)"
 description: "X/Twitter 作者 @Barret_China。共收录 2 条 AI 精选推文。"
 tags:
   - "x-news"
   - "author"
   - "author:Barret_China"
-timestamp: "2026-06-26T11:53:36.956Z"
+timestamp: "2026-06-27T08:40:40.164Z"
 x_handle: "Barret_China"
 x_author_name: "Barret李靖"
 x_tweet_count: 2
 x_first_seen: "2026-03-09T00:42:17.438Z"
 x_last_seen: "2026-03-09T00:42:17.466Z"
-type_okf: "Author"
-created: "2026-03-09"
-updated: "2026-06-26"
-sha256: "a2f8ea0f0417dd2a8b343ac69970dbc73a44d9e1f51fa77c0f8e68b6da97c1cc"
-sources:
-  - "/sources/highlights/2026-03-09/88__Barret_China__vibe-coding的-蜜月期-结束-规模膨胀触发维护性危机.md"
-  - "/sources/news/2026-03-09/80__Barret_China__ai-coding-平权化-程序员画像的强制性重构.md"
 ---
 
 # Barret李靖 (@Barret_China)

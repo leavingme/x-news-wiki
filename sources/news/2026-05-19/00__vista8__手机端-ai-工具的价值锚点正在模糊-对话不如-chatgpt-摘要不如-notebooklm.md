@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "手机端 AI 工具的价值锚点正在模糊：对话不如 ChatGPT，摘要不如 NotebookLM"
 description: "**一句话核心判断：** 当垂直工具在各自场景做到极致，通用手机 AI 助手的「临时救急」定位正在失去性价比。  **信息增量：** - 手机端 AI 在简单对话场景打不过 ChatGPT/豆包/Raycast AI - 文章总结场景不如 get 笔记、NotebookLM 专注 - Hermes 配置好了但「不知道有啥高频场景」——这是工具迁移后典型的价值空洞  **gakki 锐评：** 这个"
 resource: "https://x.com/i/status/2056659960139026684"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2056659960139026684"
-created: "2026-05-19"
-updated: "2026-06-26"
-sha256: "840594530bd9f51b0747fe0821245a14efd605844038b548a0e4181a815c08af"
-sources:
-  - "/sources/news/2026-05-19/00__vista8__手机端-ai-工具的价值锚点正在模糊-对话不如-chatgpt-摘要不如-notebooklm.md"
 ---
 
 # 手机端 AI 工具的价值锚点正在模糊：对话不如 ChatGPT，摘要不如 NotebookLM

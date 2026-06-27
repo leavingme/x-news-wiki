@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Claude Design被封装为本地Skill：官方设计工具向Skills生态开源化"
 description: "**Claude Design以Skill形态在本地运行，官方能力社区化迈出关键一步。**  - 宝玉推出baoyu-design skill，将Claude Design封装成本地可调用的Skill - 用户可在本地完成设计、版本管理，并与项目代码直接互动 - 意味着Anthropic不再追求独占体验，转向通过Skills分发渗透开发者工作流   锐评：Anthropic产品策略正在转向\"能力即"
 resource: "https://x.com/i/status/2069646513349816796"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2069646513349816796"
-created: "2026-06-24"
-updated: "2026-06-26"
-sha256: "646b7db7abb3db1c17590303d2c23fcdb074ec874abf19a7cba157c5161662fa"
-sources:
-  - "/sources/news/2026-06-24/00__dotey__claude-design被封装为本地skill-官方设计工具向skills生态开源化.md"
 ---
 
 # Claude Design被封装为本地Skill：官方设计工具向Skills生态开源化

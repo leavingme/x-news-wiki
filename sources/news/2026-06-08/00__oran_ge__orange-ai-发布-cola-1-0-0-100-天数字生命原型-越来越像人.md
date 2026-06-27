@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Orange AI 发布 Cola 1.0.0：100 天数字生命原型，「越来越像人」"
 description: "**Orange AI 推出 Cola 1.0.0，标注 100 天里程碑，自述「越来越像人」**  要点： - Cola 是 Orange AI 持续迭代的数字生命/Agent 原型项目，本次 1.0.0 视作阶段性收束 - 「越来越像人」暗示其核心指标已从功能完成度转向拟人化行为/交互质量 - 时间轴「100 天」是 Agent 产品周期可参考的标尺——一个非巨头团队在百日级别能跑出什么   "
 resource: "https://x.com/i/status/2063775927147073628"
@@ -22,13 +22,6 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "openclaw-digital-life-philosophy"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2063775927147073628"
-created: "2026-06-08"
-updated: "2026-06-26"
-sha256: "b4f82126e6e3340a6da84a0a78a0fef11fc1ba02679ea57f7e863249c3eaab45"
-sources:
-  - "/sources/news/2026-06-08/00__oran_ge__orange-ai-发布-cola-1-0-0-100-天数字生命原型-越来越像人.md"
 ---
 
 # Orange AI 发布 Cola 1.0.0：100 天数字生命原型，「越来越像人」

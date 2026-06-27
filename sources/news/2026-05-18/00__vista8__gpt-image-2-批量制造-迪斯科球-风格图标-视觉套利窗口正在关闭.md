@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "GPT-Image-2 批量制造「迪斯科球」风格图标：视觉套利窗口正在关闭"
 description: "**视觉风格的复制速度已经进入天级别。** 向阳乔木公开 GPT-Image-2 提示词模板，可生成迪斯科球镜面马赛克风格 3D 图标，海外 X 平台正在批量套用。  当一个风格提示词能被公开并在 24 小时内扩散，视觉差异化窗口已极度压缩——这是 AI 原生视觉设计的警讯。"
 resource: "https://x.com/i/status/2056308962778296715"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2056308962778296715"
-created: "2026-05-18"
-updated: "2026-06-26"
-sha256: "f3c781686b6661c70b0aa0e77f34c37dd2832229e6bdd95c861fe037bbfe5871"
-sources:
-  - "/sources/news/2026-05-18/00__vista8__gpt-image-2-批量制造-迪斯科球-风格图标-视觉套利窗口正在关闭.md"
 ---
 
 # GPT-Image-2 批量制造「迪斯科球」风格图标：视觉套利窗口正在关闭

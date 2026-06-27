@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "顶机构联合发布 ThoughtTrace:用户在想什么,连前沿 LLM 也猜不准"
 description: "**ThoughtTrace 证明:哪怕是前沿 LLM,也猜不准用户为什么这么问、为什么这么回**  - Johns Hopkins / MIT / Google Research 联合发布首个大规模「用户-AI 对话 + 用户真实想法」配对数据集 - 核心发现:用户真实意图(为什么发这条 prompt、怎么看待 AI 回复)极难仅从对话上下文推断出来,前沿 LLM 表现糟糕 - 把这些真实想法作"
 resource: "https://x.com/i/status/2064183704042324146"
@@ -22,13 +22,6 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "ai-real-world-model-evaluation"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2064183704042324146"
-created: "2026-06-09"
-updated: "2026-06-26"
-sha256: "02f727222585df7f696f9e6d25c1af3cf838cf0cd38e124b9b2af35a6e0e4e79"
-sources:
-  - "/sources/news/2026-06-09/00__jiqizhixin__顶机构联合发布-thoughttrace-用户在想什么-连前沿-llm-也猜不准.md"
 ---
 
 # 顶机构联合发布 ThoughtTrace:用户在想什么,连前沿 LLM 也猜不准

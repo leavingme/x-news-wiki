@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Claude Pro 免费版 claude -p 即将停用：Agent 开发者的「基础设施工具」正在被收编"
 description: "**【一句话核心判断】**  Claude.ai Pro 的免费 `claude -p` 调用将于 6 月 15 日终止，这是 Anthropic 对 Agent 开发工具链的一次重要商业化收编，直接影响当前最活跃的本地 Agent 开发群体。  **【信息增量】** - `claude -p` 是终端直连 Claude 的主力方式，开发者无需打开浏览器即可驱动 Claude 执行复杂任务 - 免"
 resource: "https://x.com/i/status/2054808028134949165"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2054808028134949165"
-created: "2026-05-14"
-updated: "2026-06-26"
-sha256: "9e72980bdca0351855e68034736723e8bb264550aca4ef8ea98d622b071a4584"
-sources:
-  - "/sources/highlights/2026-05-14/00__mranti__claude-pro-免费版-claude-p-即将停用-agent-开发者的-基础设施工具-正在被收编.md"
 ---
 
 # Claude Pro 免费版 claude -p 即将停用：Agent 开发者的「基础设施工具」正在被收编

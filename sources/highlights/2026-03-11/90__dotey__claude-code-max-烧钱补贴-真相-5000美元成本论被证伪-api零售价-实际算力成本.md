@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Claude Code Max「烧钱补贴」真相：5000美元成本论被证伪，API零售价≠实际算力成本"
 description: "**[算力成本认知纠偏：Anthropic的Unit Economics可能被严重误读]**  - Martin Alderson通过OpenRouter上开放权重模型的定价反推，证实Anthropic实际算力成本远低于API零售价（差距可达10倍量级） - 以Qwen 3.5 397B和Kimi K2.5的定价为参照，同等规模模型在覆盖GPU成本后仍有利润，说明$5000/月的估算基于错误假设 "
 resource: "https://x.com/i/status/2031367127920255153"
@@ -22,13 +22,6 @@ x_selected: 2
 x_priority: 90
 x_related_topic: "claude-code-ecosystem"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2031367127920255153"
-created: "2026-03-10"
-updated: "2026-06-26"
-sha256: "a939e9a782809d91bb648d263a7d609d5d52cc8f02461bd1db2cfd1a0bc60427"
-sources:
-  - "/sources/highlights/2026-03-11/90__dotey__claude-code-max-烧钱补贴-真相-5000美元成本论被证伪-api零售价-实际算力成本.md"
 ---
 
 # Claude Code Max「烧钱补贴」真相：5000美元成本论被证伪，API零售价≠实际算力成本

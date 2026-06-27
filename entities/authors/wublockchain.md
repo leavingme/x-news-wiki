@@ -1,23 +1,17 @@
 ---
-type: "entity"
+type: "Author"
 title: "Wu Blockchain (@WuBlockchain)"
 description: "X/Twitter 作者 @WuBlockchain。共收录 1 条 AI 精选推文。"
 tags:
   - "x-news"
   - "author"
   - "author:WuBlockchain"
-timestamp: "2026-06-26T11:53:36.994Z"
+timestamp: "2026-06-27T08:40:40.208Z"
 x_handle: "WuBlockchain"
 x_author_name: "Wu Blockchain"
 x_tweet_count: 1
 x_first_seen: "2026-05-02T07:18:14.717Z"
 x_last_seen: "2026-05-02T07:18:14.717Z"
-type_okf: "Author"
-created: "2026-05-02"
-updated: "2026-06-26"
-sha256: "8a02a82fb5bbb05b136218175fc0301c5ce31ffb2f1a745be891b15349894707"
-sources:
-  - "/sources/news/2026-05-02/00__WuBlockchain__world-liberty-financial-融资-5-5-亿后锁仓-80-ai-agent-加密金融的信任结构正在被.md"
 ---
 
 # Wu Blockchain (@WuBlockchain)

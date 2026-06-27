@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "向阳乔木 PPT 工作流验证：多模型编排正在替代单点 AI 写作"
 description: "**[GPT 5.5 Pro 查资料 → Codex 加工成文 → Youmind 出 PPT，一条 AI 内容生产链验证完成]**  具体流程：大模型获取资料并加入自己的理解 → Codex/CC 基于信息提炼方法论、金句，输出 Markdown → Youmind 用自定义提示词生成 20 页 PPT + 空白背景 → 导入 Keynote 制作自我介绍页。分工明确、各取所长。  gakki："
 resource: "https://x.com/i/status/2060373266422992944"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2060373266422992944"
-created: "2026-05-29"
-updated: "2026-06-26"
-sha256: "1e6701945d37f62bbdf18f385229aa9179c6c9822c665e7cb0d94d23d2ca9ec5"
-sources:
-  - "/sources/news/2026-05-29/00__vista8__向阳乔木-ppt-工作流验证-多模型编排正在替代单点-ai-写作.md"
 ---
 
 # 向阳乔木 PPT 工作流验证：多模型编排正在替代单点 AI 写作

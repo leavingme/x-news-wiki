@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Higgsfield 将 AI 视频植入 Pr/AE：专业剪辑迎来「无人区时刻」"
 description: "**一句话核心判断：** 专业视频工作流正在被 AI 拆解重构，Higgsfield 的 Pr/AE 插件让单人不靠团队完成商业级成片成为现实.  **信息增量：** - 无绿幕抠像：手机随意拍的素材一键人景分离，以前这个活外包要几百块 - AI 生成场景替换：输入自然语言描述即出影视级画面，底层调 Seedance2.0、Kling 3.0 - 老素材救活：4K/8K 画质提升，低清老素材全部抢"
 resource: "https://x.com/i/status/2060684686477733905"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2060684686477733905"
-created: "2026-05-30"
-updated: "2026-06-26"
-sha256: "c2e14bbaf0e0f8cd5c4aefb9656697a5a14f026bc0a2a9fb684026a961a8ca02"
-sources:
-  - "/sources/highlights/2026-05-30/00__gkxspace__higgsfield-将-ai-视频植入-pr-ae-专业剪辑迎来-无人区时刻.md"
 ---
 
 # Higgsfield 将 AI 视频植入 Pr/AE：专业剪辑迎来「无人区时刻」

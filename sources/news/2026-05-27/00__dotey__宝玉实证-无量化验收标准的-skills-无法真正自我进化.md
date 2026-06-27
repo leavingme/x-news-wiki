@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "宝玉实证：无量化验收标准的 Skills 无法真正自我进化"
 description: "**宝玉指出 Agent Skills 的自我进化存在结构性缺陷：只有可程序化验收的 Skills（如性能优化）才能自动化迭代，没有明确度量标准的 Skills（如写作）只能靠人工反馈优化。**  - 可量化 Skills（如代码性能优化）可通过测试样例实现自动进化 - 写作类 Skills 的「AI 自打分」与人类体感存在系统性偏差，自进化陷入局部最优 - 正确路径：人指挥 AI 优化 Skil"
 resource: "https://x.com/i/status/2059434459783389397"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2059434459783389397"
-created: "2026-05-27"
-updated: "2026-06-26"
-sha256: "8dcaa98af69bd398a8940a054a98436a9d26d4a4a9f7a994f2d88629adb89d56"
-sources:
-  - "/sources/news/2026-05-27/00__dotey__宝玉实证-无量化验收标准的-skills-无法真正自我进化.md"
 ---
 
 # 宝玉实证：无量化验收标准的 Skills 无法真正自我进化

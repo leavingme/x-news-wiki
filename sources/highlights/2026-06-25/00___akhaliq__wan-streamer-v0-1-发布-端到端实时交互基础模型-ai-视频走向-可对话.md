@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Wan-Streamer v0.1 发布：端到端实时交互基础模型，AI 视频走向「可对话」"
 description: "**实时交互式基础模型正式进入开源/可部署阶段。**  - Wan-Streamer v0.1 主打「End-to-End Real-time Interactive」，意味着用户可在生成过程中介入控制流，而非传统的「提示词→等待→成片」单向流程。 - 与 Sora2、Veo 等闭源电影级生成不同，Wan-Streamer 把「实时性」和「可交互」作为第一性指标，切入直播、陪伴、Agent 多模态"
 resource: "https://x.com/i/status/2070185392192585843"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2070185392192585843"
-created: "2026-06-25"
-updated: "2026-06-26"
-sha256: "a847b21bd326898fa77674d38955eb352da2c71d7973d67f4908e5d9fe5a9347"
-sources:
-  - "/sources/highlights/2026-06-25/00___akhaliq__wan-streamer-v0-1-发布-端到端实时交互基础模型-ai-视频走向-可对话.md"
 ---
 
 # Wan-Streamer v0.1 发布：端到端实时交互基础模型，AI 视频走向「可对话」

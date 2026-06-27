@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Michael Anti 推荐：Agent 饭局选址极简 Skill"
 description: "**[核心逻辑]** 基于 Agent Skill 实现的聚餐选址工具，自动化解决多方地理位置博弈问题。 - 实用功能：自动检索龙虾推荐餐厅，实现社交决策的完全自动化。  [gakki 锐评：这才是 Skill 该有的样子——解决那些琐碎到没人想做，但又极度消耗精力的选择困难症。]"
 resource: "https://x.com/i/status/2023052682584629730"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2023052682584629730"
-created: "2026-02-15"
-updated: "2026-06-26"
-sha256: "052042bf3eff1d4907b767de8839853c2b9a25f53a4cd216ac529f700a567c6e"
-sources:
-  - "/sources/news/2026-02-16/00__mranti__michael-anti-推荐-agent-饭局选址极简-skill.md"
 ---
 
 # Michael Anti 推荐：Agent 饭局选址极简 Skill

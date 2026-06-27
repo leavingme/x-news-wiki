@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "OpenAI 高管直言「Chat is dead」：ChatGPT 正在变 AgentGPT，Codex 与第三方应用统一塞进一个超级入口"
 description: "**OpenAI 正把 ChatGPT 从聊天机器人重塑为横跨工作与生活的统一 AI 助手，编程、Agent、图像生成与第三方应用全部塞进同一界面。**  - 内部高管向《金融时报》确认「Chat is dead」，这是 ChatGPT 自 2022 年上线以来最大规模改版。 - 产品矩阵收敛到 CPO Tibo（Thibault Sottiaux）一人之下：ChatGPT、Codex、平台团队已"
 resource: "https://x.com/i/status/2063686036895478162"
@@ -22,13 +22,6 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "openai-super-app-strategy"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2063686036895478162"
-created: "2026-06-07"
-updated: "2026-06-26"
-sha256: "8506d254a198816774d522f801ab014261cfa3938999edf74a4baa55a7f329ea"
-sources:
-  - "/sources/highlights/2026-06-07/00__dotey__openai-高管直言-chat-is-dead-chatgpt-正在变-agentgpt-codex-与第三方应用统一.md"
 ---
 
 # OpenAI 高管直言「Chat is dead」：ChatGPT 正在变 AgentGPT，Codex 与第三方应用统一塞进一个超级入口

@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Bank of AI：AINFT 的范式跃迁与 Agent 经济的金融骨架成型"
 description: "**【从工具平台到机器原生金融层的战略升级】**  AINFT 迁移至 Bank of AI，不是品牌迭代，而是定位从「AI交互入口」到「自主智能金融基础设施」的根本跃迁。核心看点在于构建「机器原生经济」所需的四大支柱：链上AI身份、x402支付协议、自主DeFi执行、可编程金融环境。  • 链上身份：AI Agent 首次获得独立经济主体地位（持资产、积声誉、签合约） • x402支付：机器间无"
 resource: "https://x.com/i/status/2035745726337290280"
@@ -22,13 +22,6 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "ai-crypto-agent-infra"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2035745726337290280"
-created: "2026-03-22"
-updated: "2026-06-26"
-sha256: "ec7df2f6be9e133337ca4a2f5cb8e08fc96e88e5323e1878def6fcc6ff5a561b"
-sources:
-  - "/sources/highlights/2026-03-24/00__LongTian8888__bank-of-ai-ainft-的范式跃迁与-agent-经济的金融骨架成型.md"
 ---
 
 # Bank of AI：AINFT 的范式跃迁与 Agent 经济的金融骨架成型

@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "AI 熵增危机的解药：真理主权才是 AI 时代的最终确定性"
 description: "**华为的热力学思维，搬到了 AI 数据战场。**  - 任正非用热力学第二定律（熵增）管理华为， Domingo_gou 用同一个框架解构 AI 当前的系统性危机：大模型吞噬 AI 生成的合成数据 = 系统性熵增 = 模型智力枯竭。 - Perle 的本质是「负熵注入装置」——不是数据生产平台，而是专家驱动的真理审计机制，在国防/医疗/主权安全领域，未经链上审计的数据根本不可接受。 - 投资逻辑"
 resource: "https://x.com/i/status/2037023162668569022"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2037023162668569022"
-created: "2026-03-26"
-updated: "2026-06-26"
-sha256: "2f2f42c3af4692c7b27fa07ba658ca7d1ef8611c0d1517b8a124d86aa2cb2004"
-sources:
-  - "/sources/news/2026-04-01/00__Domingo_gou__ai-熵增危机的解药-真理主权才是-ai-时代的最终确定性.md"
 ---
 
 # AI 熵增危机的解药：真理主权才是 AI 时代的最终确定性

@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "一句话生成大师级设计：AI审美代理的「风格决策」能力觉醒"
 description: "**[AI从「执行工具」进化为「风格策展人」]** • 自动匹配艺术风格替代用户决策，降低了专业设计的认知负荷 • 拓展Mondo风格到书籍/唱片/公众号等多场景，显示AI审美迁移能力 • 提示了未来设计工具的方向：用户只需意图，AI负责美学翻译  真正的突破不在于生成，而在于AI开始理解「什么风格适合什么场景」——这是审美判断权的转移。"
 resource: "https://x.com/i/status/2030586507493573039"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 78
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2030586507493573039"
-created: "2026-03-08"
-updated: "2026-06-26"
-sha256: "86e09ca68816aa980998ed1b053f472ee3497ad972547124800d8d19fa9ab31d"
-sources:
-  - "/sources/news/2026-03-09/78__vista8__一句话生成大师级设计-ai审美代理的-风格决策-能力觉醒.md"
 ---
 
 # 一句话生成大师级设计：AI审美代理的「风格决策」能力觉醒

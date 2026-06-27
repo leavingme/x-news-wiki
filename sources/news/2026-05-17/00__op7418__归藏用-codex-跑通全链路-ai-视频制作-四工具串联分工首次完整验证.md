@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "归藏用 Codex 跑通全链路 AI 视频制作：四工具串联分工首次完整验证"
 description: "**[一句话核心判断]**  多 Skill 串联替代单 Agent 作战，工程可行性得到验证，但协作成本被低估了。  **信息增量：** • PPT Skill（美学/动效）+ HyperFrames（时间线/渲染）+ Listenhub（配音）+ 即梦CLI（B-roll）构成完整视频制作链路 • 关键发现：每个工具只做自己最擅长的事——说明 Agent 生态里「专精工具」比「全能 Agent"
 resource: "https://x.com/i/status/2056021133477163298"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2056021133477163298"
-created: "2026-05-17"
-updated: "2026-06-26"
-sha256: "3a9c4080d741ed960c0ab69f0250adc22136eaa0264defc8ae0e77a4c1f594a3"
-sources:
-  - "/sources/news/2026-05-17/00__op7418__归藏用-codex-跑通全链路-ai-视频制作-四工具串联分工首次完整验证.md"
 ---
 
 # 归藏用 Codex 跑通全链路 AI 视频制作：四工具串联分工首次完整验证

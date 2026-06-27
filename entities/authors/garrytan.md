@@ -1,24 +1,17 @@
 ---
-type: "entity"
+type: "Author"
 title: "Garry Tan (@garrytan)"
 description: "X/Twitter 作者 @garrytan。共收录 2 条 AI 精选推文。"
 tags:
   - "x-news"
   - "author"
   - "author:garrytan"
-timestamp: "2026-06-26T11:53:36.995Z"
+timestamp: "2026-06-27T08:40:40.209Z"
 x_handle: "garrytan"
 x_author_name: "Garry Tan"
 x_tweet_count: 2
 x_first_seen: "2026-05-04T01:17:29.641Z"
 x_last_seen: "2026-05-12T22:17:50.622Z"
-type_okf: "Author"
-created: "2026-05-04"
-updated: "2026-06-26"
-sha256: "70ddadd5f488adf09b913ba4278802fe6bbd5effaa094a880efb81b1a9032733"
-sources:
-  - "/sources/highlights/2026-05-12/00__garrytan__garry-tan-曝光-ai-agent-复杂度棘轮-90-测试覆盖率才是入场券-不是建议.md"
-  - "/sources/news/2026-05-04/00__garrytan__garry-tan-宣告-2026-是开源真正的黄金时代.md"
 ---
 
 # Garry Tan (@garrytan)

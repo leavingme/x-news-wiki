@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "AI 驱动恋爱模拟游戏复刻「完蛋我被美女包围」：擦边内容 Agent 正在触达商业化临界点"
 description: "**当 AI 伴侣内容从聊天框扩展到完整游戏体验，说明市场验证已经完成。**  - 新款 AI 恋爱模拟游戏瞄准「完蛋我被美女包围」的成功模式，玩家扮演教练与 5 个 AI 角色互动 - 宣传材料已带有擦边属性，暗示 NSFW 内容作为卖点的商业逻辑正在被复制 - 从 Character.AI 的文字陪伴到游戏化的视觉+语音陪伴，AI 伴侣正在沿内容丰富度阶梯攀升 - 中国市场的「美女包围」爆款证"
 resource: "https://x.com/i/status/2049501693935865990"
@@ -22,13 +22,6 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "adult-content-agent-threshold"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2049501693935865990"
-created: "2026-04-29"
-updated: "2026-06-26"
-sha256: "50730160b44afdc4a911c6f2b532a41f1fefcc4b1ec02818cd3ad589b4fad9f4"
-sources:
-  - "/sources/news/2026-04-29/00__vista8__ai-驱动恋爱模拟游戏复刻-完蛋我被美女包围-擦边内容-agent-正在触达商业化临界点.md"
 ---
 
 # AI 驱动恋爱模拟游戏复刻「完蛋我被美女包围」：擦边内容 Agent 正在触达商业化临界点

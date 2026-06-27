@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Codex 帮用户绕过抖音内容审核：浏览器自动化正在颠覆内容合规逻辑"
 description: "**[一句话核心判断]**  抖音以「内容违规」为由拒绝发布视频，但用户将视频与字幕交给 Codex，AI 自动剪辑出一个通过审核的版本并成功过审。  **信息增量：** - 案例证明 AI 驱动的自动化内容改造（而非人工修改）已能有效应对平台审核规则 - 用户无需理解具体违规原因，AI 通过「理解内容 + 重构表达」完成合规化改造 - 传统内容合规依赖人工判断和反复试错，AI 工作流正在将这一过"
 resource: "https://x.com/i/status/2062403614963126712"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2062403614963126712"
-created: "2026-06-04"
-updated: "2026-06-26"
-sha256: "c9ae52b91f3fbf638e4bcaaf4a7553ea296ffed6933902dadb9ac46546301ffd"
-sources:
-  - "/sources/news/2026-06-04/00__op7418__codex-帮用户绕过抖音内容审核-浏览器自动化正在颠覆内容合规逻辑.md"
 ---
 
 # Codex 帮用户绕过抖音内容审核：浏览器自动化正在颠覆内容合规逻辑

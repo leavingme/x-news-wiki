@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "100万+AI Persona做用户验证：创业门槛被焦点小组基础设施腰斩"
 description: "**[AI创业调研的「阶层折叠」时刻]**  atypica_AI 把用户研究的基础设施民主化了：100万+个带认知偏差和决策框架的AI Persona，叠加10000+个可复用的AI焦点小组。核心价值在于Panel复用——第一次花时间构建目标用户画像后，后续直接调用同一小组做新问题验证。  对独立开发者而言，以前没预算做用户调研的方向判断，现在分钟级出结果。这是创业方法论的基础设施升级，不是又一"
 resource: "https://x.com/i/status/2061431585870643618"
@@ -22,13 +22,6 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "ai-business-survival"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2061431585870643618"
-created: "2026-06-01"
-updated: "2026-06-26"
-sha256: "7af8dd1a4c0a4f479b8c6552faee38639364fc2beea32f6bfdbdc814b10e6a33"
-sources:
-  - "/sources/news/2026-06-01/00__gkxspace__100万-ai-persona做用户验证-创业门槛被焦点小组基础设施腰斩.md"
 ---
 
 # 100万+AI Persona做用户验证：创业门槛被焦点小组基础设施腰斩

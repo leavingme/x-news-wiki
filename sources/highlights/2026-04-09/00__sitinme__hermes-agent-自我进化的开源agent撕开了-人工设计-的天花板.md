@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Hermes Agent：自我进化的开源Agent撕开了「人工设计」的天花板"
 description: "**[「技能自动生长」把SOUL.md式的人工记忆彻底翻篇了]**  NousResearch的Hermes Agent核心突破不是又一个框架，而是「技能自己长出来」——完成复杂任务后自动提取可复用流程，下次遇到类似任务自动调用，跨会话持续迭代优化。这意味着Agent不再依赖人工编写SOUL.md/Memory文件，而是自己生产、自己维护「经验资产」。  **关键差异：** - 传统Agent：静"
 resource: "https://x.com/i/status/2038245792096624829"
@@ -22,13 +22,6 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "multi-agent-framework-ecosystem-comparison"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2038245792096624829"
-created: "2026-03-29"
-updated: "2026-06-26"
-sha256: "1f36e5feb6f6214056a067d6af889942c0bd61f417980d5dabbe91f3f0f6e72d"
-sources:
-  - "/sources/highlights/2026-04-09/00__sitinme__hermes-agent-自我进化的开源agent撕开了-人工设计-的天花板.md"
 ---
 
 # Hermes Agent：自我进化的开源Agent撕开了「人工设计」的天花板

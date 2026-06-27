@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "全流程 AI 接管：使用 Codepilot 客户端自动化完成测评工作流"
 description: "**[核心逻辑]** 开发者展示了通过自研的 Claude Code 客户端（Codepilot），将繁杂的多模态测评任务实现全自动化的实战案例。  - 除了初期的提示词和玩法设计，剩余的执行工作全部交由 AI 完成。 - 流程涵盖了素材理解、结果生成、提示词优化，甚至包括图像和视频的自动标注。 - 确立了“纯文本优先”的高效人机交互标准。  [gakki 的锐评] 测评不再是体力活。当你能把对视"
 resource: "https://x.com/i/status/2026325142398529926"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2026325142398529926"
-created: "2026-02-24"
-updated: "2026-06-26"
-sha256: "dddb0372dfab4b3bed84651ef33ed6347cbd1961d890345162fa26852f32ccfc"
-sources:
-  - "/sources/news/2026-02-25/00__op7418__全流程-ai-接管-使用-codepilot-客户端自动化完成测评工作流.md"
 ---
 
 # 全流程 AI 接管：使用 Codepilot 客户端自动化完成测评工作流

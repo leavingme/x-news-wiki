@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "微信读书上线 Skills：阅读数据正在成为个人 AI 的资产锚点"
 description: "**微信读书推出 Skills 功能，支持查看笔记/划线、书籍推荐、阅读数据统计。**  - 实测用 CodePilot 整理阅读数据并生成可视化分析，数据资产化路径初现 - 微信读书积累的高质量阅读行为数据（笔记、划线、统计）首次开放给 Agent 调用，意味着「阅读历史」正式成为个人 AI 记忆系统的数据源之一 - 平台方授权数据出口，比用户自发导出更有结构化优势  微信读书的护城河从来不是书"
 resource: "https://x.com/i/status/2055992093882122727"
@@ -22,13 +22,6 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "skill-vs-mcp-paradigm"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2055992093882122727"
-created: "2026-05-17"
-updated: "2026-06-26"
-sha256: "ae3b6dec17145a75eefa15c067e71e27ddd3ac05d303d6fcb2309049f16bfc31"
-sources:
-  - "/sources/news/2026-05-17/00__op7418__微信读书上线-skills-阅读数据正在成为个人-ai-的资产锚点.md"
 ---
 
 # 微信读书上线 Skills：阅读数据正在成为个人 AI 的资产锚点

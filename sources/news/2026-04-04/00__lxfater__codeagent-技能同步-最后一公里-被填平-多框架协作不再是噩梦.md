@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "CodeAgent 技能同步「最后一公里」被填平：多框架协作不再是噩梦"
 description: "**[ 有人做了一款 Agent Skills 同步管理工具，撕开了多框架协作的痛点 ]**  • 开发者反馈在不同 CodeAgent（Claude Code、Codex、Codepilot）之间同步 agent-skills 极麻烦； • 新工具解决多框架环境下 skills 管理割裂的问题，降低多 Agent 协作的工程摩擦； • 这是 Multi-Agent 框架生态走向生产级的信号——工"
 resource: "https://x.com/i/status/2040112666405163104"
@@ -22,13 +22,6 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "multi-agent-framework-ecosystem-comparison"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2040112666405163104"
-created: "2026-04-03"
-updated: "2026-06-26"
-sha256: "6b83b75813eab4fb77cd3babe4bd77e08fd0a7416636ccaadadf6fdfe13cf268"
-sources:
-  - "/sources/news/2026-04-04/00__lxfater__codeagent-技能同步-最后一公里-被填平-多框架协作不再是噩梦.md"
 ---
 
 # CodeAgent 技能同步「最后一公里」被填平：多框架协作不再是噩梦

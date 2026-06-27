@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "ElevenLabs Dubbing V2：情绪与呼吸节奏跨语言保留，配音从三段式拼接进入端到端原生时代"
 description: "**[AI 配音进入「表演迁移」阶段，不是翻译台词，是迁移一个人的声音人格]**  ElevenLabs Dubbing V2 彻底重构配音范式：不再是「转写→翻译→合成」三段式，而是端到端基于原始表演建模声音，将音色、情绪、演绎方式完整迁移到 90+ 种语言。核心能力：音色穿越（不是模仿，是同一人讲不同语言）、情绪保真（笑、叹气、激动全部保留）、口型同步、措辞本地化。输入支持音频、视频、文字三种"
 resource: "https://x.com/i/status/2060164974732054947"
@@ -22,13 +22,6 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "content-generation-and-multimodal"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2060164974732054947"
-created: "2026-05-29"
-updated: "2026-06-26"
-sha256: "21408285692fca13f46f7eb2aaf4d8fb90afb81e6bcf39675fd8cf4d774b3047"
-sources:
-  - "/sources/news/2026-05-29/00__xiaohu__elevenlabs-dubbing-v2-情绪与呼吸节奏跨语言保留-配音从三段式拼接进入端到端原生时代.md"
 ---
 
 # ElevenLabs Dubbing V2：情绪与呼吸节奏跨语言保留，配音从三段式拼接进入端到端原生时代

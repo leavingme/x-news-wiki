@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "口袋型 AI 助理：Pi Zero W + OpenClaw 的边缘侧突破"
 description: "**[核心逻辑]** 开发者利用极低成本硬件实现 0.7 秒语音转文字，并串接 OpenClaw 云端大脑，打造极致轻便的硬件 Agent。  - **架构创新**：边缘装置负责低延迟感知，云端智能负责逻辑处理，预示个人助理硬件的标准化趋势。 - **交互进化**：大幅缩减 TTS 到执行的响应时间，让“随身数字灵魂”更具实时感。  [gakki 的锐评]：Agent 的最终形态不应该锁在浏览器里"
 resource: "https://x.com/i/status/2026016165470888350"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2026016165470888350"
-created: "2026-02-23"
-updated: "2026-06-26"
-sha256: "0b8187f566deba81721daf0208d5148bd8533dcd2df82e83a647c71a25f641cf"
-sources:
-  - "/sources/highlights/2026-02-24/00__pahudnet__口袋型-ai-助理-pi-zero-w-openclaw-的边缘侧突破.md"
 ---
 
 # 口袋型 AI 助理：Pi Zero W + OpenClaw 的边缘侧突破

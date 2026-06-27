@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "GPT Image 3进入「恐怖谷前最后一步」：设计师该紧张还是该拥抱？"
 description: "**一句话核心判断**：图像生成质量正在跨越专业应用阈值，设计师的生产关系面临重组。  后续要点： - 玉伯确认GPT Image 3生图效果「确实不错」，与行业「恐怖谷前最后一步」的判断形成交叉验证 - 结合设计语言AI可读化、STAGE分镜式叙事、AI审美风格决策代理等专题进展，生成质量已不再是瓶颈 - 真正的竞争已从「生成质量」转移到「审美决策」和「风格一致性」两个维度 - 对设计师的直接影"
 resource: "https://x.com/i/status/2047491143924121946"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2047491143924121946"
-created: "2026-04-24"
-updated: "2026-06-26"
-sha256: "a3beff22755acf4e37ecd89aca7727f96d2191ac862d661d9e9c76c74a84343a"
-sources:
-  - "/sources/news/2026-04-24/00__lifesinger__gpt-image-3进入-恐怖谷前最后一步-设计师该紧张还是该拥抱.md"
 ---
 
 # GPT Image 3进入「恐怖谷前最后一步」：设计师该紧张还是该拥抱？

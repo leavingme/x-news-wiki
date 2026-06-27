@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "天策放话「颠覆 AI 中转行业」并押注五月百万营收：AI 基础设施入口战从技术层下沉到赌约营销层"
 description: "**[AI 中转赛道的竞争已经从技术差异化演化为创始人 IP 赌约式营销]**  - 天策公开承诺五月内搞出 100 万人民币，否则发 1000 个红包，将个人信誉直接绑定产品叙事 - 结合其此前对 WLFI 中转的评论，天策正在把「阶级斗争」框架套用到 AI 基础设施渠道争夺上 - 这种公开对赌模式本质是注意力经济的极端形态——用赌约替代产品 demo  锐评：AI 中转行业的技术壁垒本就不高，"
 resource: "https://x.com/i/status/2051695709414449479"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2051695709414449479"
-created: "2026-05-05"
-updated: "2026-06-26"
-sha256: "b5d913d68df4814e5331e84f9aa9094980626f08e9d946da379fa0097fc31b9b"
-sources:
-  - "/sources/news/2026-05-05/00__Leobai825__天策放话-颠覆-ai-中转行业-并押注五月百万营收-ai-基础设施入口战从技术层下沉到赌约营销层.md"
 ---
 
 # 天策放话「颠覆 AI 中转行业」并押注五月百万营收：AI 基础设施入口战从技术层下沉到赌约营销层

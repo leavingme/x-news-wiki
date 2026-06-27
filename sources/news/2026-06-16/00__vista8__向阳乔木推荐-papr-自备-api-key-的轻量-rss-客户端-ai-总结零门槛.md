@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "向阳乔木推荐 Papr：自备 API key 的轻量 RSS 客户端，AI 总结零门槛"
 description: "**Papr 把「RSS 订阅 + AI 总结 + 自带 API key」三件套打包，本地化信息流再添新丁**  - 轻量快速 RSS 客户端，免费使用，无平台锁定 - 支持用户自带 API key 做 AI 总结与问答，数据主权和成本主权都在自己手里 - 已开源（GitHub 仓库已发布），Mac 可通过 brew install --cask l0ng-ai/papr/papr 一键安装  G"
 resource: "https://x.com/i/status/2066902712986546574"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2066902712986546574"
-created: "2026-06-16"
-updated: "2026-06-26"
-sha256: "b79292c483c61fc00baed6d27c0348d98d8bdfd9984ea2dfda32fccfc733ae21"
-sources:
-  - "/sources/news/2026-06-16/00__vista8__向阳乔木推荐-papr-自备-api-key-的轻量-rss-客户端-ai-总结零门槛.md"
 ---
 
 # 向阳乔木推荐 Papr：自备 API key 的轻量 RSS 客户端，AI 总结零门槛

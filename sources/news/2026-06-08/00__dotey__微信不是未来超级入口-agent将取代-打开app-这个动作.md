@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "微信不是未来超级入口：Agent将取代\"打开App\"这个动作"
 description: "**超级入口正从App迁移到Agent，微信的\"AI操作小程序\"幻想是对趋势的错判。** - 未来年轻人不再\"打开微信\"，而是让Agent代为完成（总结群聊、发消息等） - 微信仍在押注\"大家都来一亩三分地耕耘\"，但入口属性会被持续稀释 - 真正承担超级入口职责的Agent大概率不是微信AI  和上一条是同一判断的两面：入口不在 App，在 Agent；Agent 也不在微信里。结论反共识但信号清"
 resource: "https://x.com/i/status/2064028538823405848"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2064028538823405848"
-created: "2026-06-08"
-updated: "2026-06-26"
-sha256: "f32fb42bdccaf2943d9de983893f3b5c18f44ca94705828793b29ec654b65b7b"
-sources:
-  - "/sources/news/2026-06-08/00__dotey__微信不是未来超级入口-agent将取代-打开app-这个动作.md"
 ---
 
 # 微信不是未来超级入口：Agent将取代"打开App"这个动作

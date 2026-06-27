@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Twitter 正式出手整治\"内容搬运工\"：平台开始系统性打击不标注来源的程序化抄袭"
 description: "**核心判断：平台从流量分配机制层面封堵内容套利，中文圈依赖翻译搬运的账号将面临系统性洗牌。**  归藏透露 Twitter 官方开始主动打击程序化内容搬运——即那种把别人原创内容翻译或改写后发布、但不注明来源的行为。这不是用户体验问题，是平台治理信号：算法正在重新定价\"原创\"与\"搬运\"的内容权重。  对内容创作者而言这是利好，对靠信息差生存的账号则是生存威胁。"
 resource: "https://x.com/i/status/2058806244295774350"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2058806244295774350"
-created: "2026-05-25"
-updated: "2026-06-26"
-sha256: "ef55fd01cee2ed1f01c3997dbbaef248d297b85592fc6fcb1446bd17ecfaaac6"
-sources:
-  - "/sources/news/2026-05-25/00__op7418__twitter-正式出手整治-内容搬运工-平台开始系统性打击不标注来源的程序化抄袭.md"
 ---
 
 # Twitter 正式出手整治"内容搬运工"：平台开始系统性打击不标注来源的程序化抄袭

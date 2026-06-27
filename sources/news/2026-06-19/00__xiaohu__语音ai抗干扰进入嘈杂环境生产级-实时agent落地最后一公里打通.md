@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "语音AI抗干扰进入嘈杂环境生产级：实时Agent落地最后一公里打通"
 description: "**广播、导航、多人对话等强噪声场景下，语音识别仍能稳定工作。**  - 与\"动态判停\"组合，构成完整端到端语音 Agent 闭环 - 解决了\"办公室里喊一嗓子 AI 助手\"等真实场景的可用性 - 不再依赖云端降噪，端侧实时处理能力是核心  **gakki 锐评**：抗干扰一旦跨过生产阈值，开车/做饭/会议等真实场景的语音 Agent 才有意义。和上一条判停放一起，是国产语音 Agent 从\"技术"
 resource: "https://x.com/i/status/2067851011008688167"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2067851011008688167"
-created: "2026-06-19"
-updated: "2026-06-26"
-sha256: "d34e5cdebb158eaf9619b71fa655c07dfcd5e95d89239f2b5e8b8b7e09fbbb5c"
-sources:
-  - "/sources/news/2026-06-19/00__xiaohu__语音ai抗干扰进入嘈杂环境生产级-实时agent落地最后一公里打通.md"
 ---
 
 # 语音AI抗干扰进入嘈杂环境生产级：实时Agent落地最后一公里打通

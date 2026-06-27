@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "多 Agent 协作的幻觉抑制效果获实战验证，但实现路径仍是少数人游戏"
 description: "**[多 Agent 架构在降低幻觉上被初步验证，但「好效果」背后是极高的工程门槛]**  余温评价某多 Agent 协作产品「是目前见到最好的」，并补充了一个关键判断：多 Agent 对幻觉抑制效果显著，单 Agent 上下文管理也更清晰。这印证了之前行业对多 Agent 可以交叉验证、减少错误传递的假设。 - 幻觉问题没有银弹，但多 Agent 分工+上下文隔离确实提供了结构性的缓解路径 - "
 resource: "https://x.com/i/status/2059304098491502714"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2059304098491502714"
-created: "2026-05-26"
-updated: "2026-06-26"
-sha256: "1e4d141377d55019f2985808e78e599f945383a2c488f3d2060d97149e7e202a"
-sources:
-  - "/sources/news/2026-05-26/00__gkxspace__多-agent-协作的幻觉抑制效果获实战验证-但实现路径仍是少数人游戏.md"
 ---
 
 # 多 Agent 协作的幻觉抑制效果获实战验证，但实现路径仍是少数人游戏

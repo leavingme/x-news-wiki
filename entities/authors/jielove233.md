@@ -1,23 +1,17 @@
 ---
-type: "entity"
+type: "Author"
 title: "是 阿 杰 吖 (@jielove233)"
 description: "X/Twitter 作者 @jielove233。共收录 1 条 AI 精选推文。"
 tags:
   - "x-news"
   - "author"
   - "author:jielove233"
-timestamp: "2026-06-26T11:53:36.970Z"
+timestamp: "2026-06-27T08:40:40.187Z"
 x_handle: "jielove233"
 x_author_name: "是 阿 杰 吖"
 x_tweet_count: 1
 x_first_seen: "2026-04-01T10:09:44.588Z"
 x_last_seen: "2026-04-01T10:09:44.588Z"
-type_okf: "Author"
-created: "2026-04-01"
-updated: "2026-06-26"
-sha256: "f88f5649c61f985b5b725d2e1a769f4c2b42d2d53d54ffe461ad2a25a9f4b043"
-sources:
-  - "/sources/news/2026-04-01/00__jielove233__perle-反潮流真相-在-自动化替代人力-的时代-它把-人-重新拉回核心.md"
 ---
 
 # 是 阿 杰 吖 (@jielove233)

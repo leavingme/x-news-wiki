@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Google Stitch 把设计规范写成 Markdown，设计系统进入「文本协议」时代"
 description: "**[一句话核心判断]**  Google Stitch 把 55 家公司的设计语言（颜色/字体/组件/布局）写成 DESIGN.md 规范，放在项目根目录供 Claude Code 读取执行——设计规范从 Figma 截图时代正式进入「文本驱动」时代。  - **信息增量**：Figma 的截图/口头描述 → Claude Code 可解析的 Markdown 约束文件，前端开发一致性保障从「人"
 resource: "https://x.com/i/status/2040719476639801490"
@@ -22,13 +22,6 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "design-md-protocol"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2040719476639801490"
-created: "2026-04-05"
-updated: "2026-06-26"
-sha256: "a54bc236ce416120df4a79a8ab647a4238fd49d6903bef7c036b1e5b469ab9a2"
-sources:
-  - "/sources/highlights/2026-04-05/00__aiwarts__google-stitch-把设计规范写成-markdown-设计系统进入-文本协议-时代.md"
 ---
 
 # Google Stitch 把设计规范写成 Markdown，设计系统进入「文本协议」时代

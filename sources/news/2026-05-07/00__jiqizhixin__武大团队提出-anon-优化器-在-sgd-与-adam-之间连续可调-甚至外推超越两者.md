@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "武大团队提出 Anon 优化器：在 SGD 与 Adam 之间连续可调，甚至外推超越两者"
 description: "**优化器不再是非此即彼的选择题，Anon 把适应性变成了连续旋钮。**  - Anon 的核心创新是「连续可调适应性」，能在类 SGD 与类 Adam 行为之间平滑插值，并外推到两者都未覆盖的区域 - 新增增量延迟更新（IDU）机制，确保整个适应性谱系上的鲁棒收敛 - 在图像分类、扩散模型和语言建模任务上一致性超越 SOTA 优化器  gakki 锐评：优化器领域长期被 Adam 家族垄断，An"
 resource: "https://x.com/i/status/2052270752616050852"
@@ -22,13 +22,6 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "推理与模型架构"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2052270752616050852"
-created: "2026-05-07"
-updated: "2026-06-26"
-sha256: "d3dd101264090a120c3231a07bdf34706238814cb58a9fa8d08371802abae263"
-sources:
-  - "/sources/news/2026-05-07/00__jiqizhixin__武大团队提出-anon-优化器-在-sgd-与-adam-之间连续可调-甚至外推超越两者.md"
 ---
 
 # 武大团队提出 Anon 优化器：在 SGD 与 Adam 之间连续可调，甚至外推超越两者

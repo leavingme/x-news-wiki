@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "ChatGPT Translate 不像是前沿 AI 团队的作品——Codex 并购背后有产品逻辑"
 description: "**[一句话核心判断]** ChatGPT Translate 的粗糙产品设计暴露了一个深层矛盾：OpenAI 的模型能力与产品化能力之间存在巨大断层，Codex 团队接管并非偶然。  **要点：** • ChatGPT Translate 的产品设计停留在 10 年前互联网水平，与前沿 AI 团队形象严重不符 • 这类低级产品失误说明前沿实验室的核心能力是模型研发，而非产品体验 • Codex "
 resource: "https://x.com/i/status/2060936552977400219"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2060936552977400219"
-created: "2026-05-31"
-updated: "2026-06-26"
-sha256: "d325377e23d966b1096c8a980247ebe66948174f052054abd876ede6165d029f"
-sources:
-  - "/sources/news/2026-05-31/00__dotey__chatgpt-translate-不像是前沿-ai-团队的作品-codex-并购背后有产品逻辑.md"
 ---
 
 # ChatGPT Translate 不像是前沿 AI 团队的作品——Codex 并购背后有产品逻辑

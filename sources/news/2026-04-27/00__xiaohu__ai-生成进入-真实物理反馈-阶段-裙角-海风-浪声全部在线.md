@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "AI 生成进入「真实物理反馈」阶段：裙角、海风、浪声全部在线"
 description: "**[一句话核心判断]** AI 生图在动态物理反馈上实现质变，不再是静态画面，而是能随环境变量（风力、裙摆惯性）产生真实物理响应。  **信息增量：** - 角色行走时裙角随步态飘动，静止时海风仍能驱动布料物理模拟 - 远处海浪接续动态渲染，非循环动画而是基于环境感知生成 - 拍摄地与 AI 生成场景的边界正在模糊——实拍→AI 重建→可漫步的真实感闭环已打通  **影响：** 对内容创作（旅行"
 resource: "https://x.com/i/status/2048626367655510087"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2048626367655510087"
-created: "2026-04-27"
-updated: "2026-06-26"
-sha256: "94cee4d622d397c840b533186cdca58b3b1a99f584dfae5637eca942533c4422"
-sources:
-  - "/sources/news/2026-04-27/00__xiaohu__ai-生成进入-真实物理反馈-阶段-裙角-海风-浪声全部在线.md"
 ---
 
 # AI 生成进入「真实物理反馈」阶段：裙角、海风、浪声全部在线

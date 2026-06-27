@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "黄仁勋罕见动气：逼中国自建技术栈才是美国最大战略失误"
 description: "**[中美AI竞争的根本分歧：开放市场vs技术封锁]**  黄仁勋在访谈中明确反对用\"AI即核弹\"叙事恐吓公众，认为这只会拖美国后腿。他指出中国拥有能源、人才和芯片产能，即使没有NVIDIA顶尖芯片，仍能通过堆叠中端芯片和优化算法推进AI。  核心矛盾：黄仁勋主张\"让竞争对手追赶\"才是最优竞争策略——让中国依赖美国生态远比逼迫其自建栈更安全。而主持人Dwarkesh Patel代表的是另一派观点："
 resource: "https://x.com/i/status/2045267645469962341"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2045267645469962341"
-created: "2026-04-17"
-updated: "2026-06-26"
-sha256: "73c2ada5607981880d9bdb40466311bb3bb2f52a4fd0aad6b608ad8086decbc9"
-sources:
-  - "/sources/highlights/2026-04-18/00__AsiaFinance__黄仁勋罕见动气-逼中国自建技术栈才是美国最大战略失误.md"
 ---
 
 # 黄仁勋罕见动气：逼中国自建技术栈才是美国最大战略失误

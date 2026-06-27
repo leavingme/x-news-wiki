@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "视频P图民主化：手绘蒙版驱动AI编辑走向「所想即所得」临界点"
 description: "**【一句话核心判断】**  AI视频编辑从专业工具向随手可画的消费品演进，「画圈即改」标志着内容真实性治理正式进入倒计时。  **要点：** - 通过简单手绘圈选即可精准修改视频任意区域，门槛已降至普通用户层级 - 按此趋势推演，「所见非所得」将从GIF扩散至视频全域 - 内容溯源基础设施（Recall等）的商业紧迫性正在快速上升  **gakki 锐评：** 「一切所想即所得」是创作自由的无痛"
 resource: "https://x.com/i/status/2060730334941982803"
@@ -22,13 +22,6 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "content-provenance-infrastructure"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2060730334941982803"
-created: "2026-05-30"
-updated: "2026-06-26"
-sha256: "c976bd6d3bbe7bf3551f9e2b4917bbf3c90a0cb49c811bec731884c61770fc43"
-sources:
-  - "/sources/news/2026-05-30/00__gkxspace__视频p图民主化-手绘蒙版驱动ai编辑走向-所想即所得-临界点.md"
 ---
 
 # 视频P图民主化：手绘蒙版驱动AI编辑走向「所想即所得」临界点

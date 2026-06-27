@@ -1,27 +1,17 @@
 ---
-type: "entity"
+type: "Author"
 title: "实用干货铺 (@DiannRudy87765)"
 description: "X/Twitter 作者 @DiannRudy87765。共收录 5 条 AI 精选推文。"
 tags:
   - "x-news"
   - "author"
   - "author:DiannRudy87765"
-timestamp: "2026-06-26T11:53:36.967Z"
+timestamp: "2026-06-27T08:40:40.176Z"
 x_handle: "DiannRudy87765"
 x_author_name: "实用干货铺"
 x_tweet_count: 5
 x_first_seen: "2026-03-28T18:35:19.074Z"
 x_last_seen: "2026-03-29T01:37:51.792Z"
-type_okf: "Author"
-created: "2026-03-28"
-updated: "2026-06-26"
-sha256: "dcbaf992553e4f8d600adc27b1b498baa7da6a088ea9acff2242a6f94f9d2355"
-sources:
-  - "/sources/highlights/2026-03-28/00__DiannRudy87765__cli-anything-任意软件秒变agent工具的零配置流水线.md"
-  - "/sources/highlights/2026-03-28/00__DiannRudy87765__composio自举验证-agent-orchestrator由它自己的agent构建完成.md"
-  - "/sources/highlights/2026-03-28/00__DiannRudy87765__开源ai公司架构-147个专业智能体的-去中心化组织-实验.md"
-  - "/sources/highlights/2026-03-29/00__DiannRudy87765__holyclaude开源-docker一键封装claude-code生态的-工程品味.md"
-  - "/sources/news/2026-03-29/00__DiannRudy87765__claude-code-48-agent-游戏工作室-单人全栈游戏开发的代际跃迁.md"
 ---
 
 # 实用干货铺 (@DiannRudy87765)

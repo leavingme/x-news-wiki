@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "向阳乔木自曝：闲鱼买 Codex 重置服务，订阅消费速度逼出灰色市场"
 description: "**Codex 周配额两天就耗尽，订阅设计在重度用户面前已经失效，灰产服务趁虚而入。**  - 向阳乔木承认花几块钱在闲鱼购买 Codex 额度重置服务，已成大陆开发者默认选项 - 自身用量：一周配额两天用完，官方定价远低于实际重度使用成本 - 风险敞口：账号封禁、付款纠纷、数据泄露均无保障   gakki 锐评：这是 AI 工具订阅定价的经典失灵——官方按'够用就行'定价，重度用户被迫寻找溢出通"
 resource: "https://x.com/i/status/2068688758594019605"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2068688758594019605"
-created: "2026-06-21"
-updated: "2026-06-26"
-sha256: "310b793eb4d36ad7abd99dc323415c3e67da9457a3e1b9027333f2cf7524188b"
-sources:
-  - "/sources/news/2026-06-21/00__vista8__向阳乔木自曝-闲鱼买-codex-重置服务-订阅消费速度逼出灰色市场.md"
 ---
 
 # 向阳乔木自曝：闲鱼买 Codex 重置服务，订阅消费速度逼出灰色市场

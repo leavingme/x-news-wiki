@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "AI智能体≠交易机器人：一场关于「决策权」的范式区隔"
 description: "**[核心判断：市场急需厘清「智能体」与「自动化脚本」的边界]**  • CoinUp的科普帖精准切中行业认知痛点——当「Agent」成为币圈热词，多数项目不过是把定时定投包装成「AI智能体」  • 关键差异在于「策略进化权」：机器人执行预设规则，智能体具备市场解读与策略自适应能力  • 这对投资者筛选真Agent项目 vs 伪概念炒作具有现实指导意义  **gakki锐评：** 币圈终于有人开始"
 resource: "https://x.com/i/status/2036286740647014650"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2036286740647014650"
-created: "2026-03-24"
-updated: "2026-06-26"
-sha256: "eb4158fb84caa918436548cc798ab120ea96cbf1aa7d3c443387560eeb6c5c4b"
-sources:
-  - "/sources/news/2026-03-29/00__COINUPZH__ai智能体-交易机器人-一场关于-决策权-的范式区隔.md"
 ---
 
 # AI智能体≠交易机器人：一场关于「决策权」的范式区隔

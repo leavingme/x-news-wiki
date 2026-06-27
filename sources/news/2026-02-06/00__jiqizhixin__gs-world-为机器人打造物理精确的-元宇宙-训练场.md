@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "GS-World：为机器人打造物理精确的“元宇宙”训练场"
 description: "**[生成式仿真引擎全自动创造具身智能所需的训练数据]** - 利用引擎驱动生成逼真的环境、物体和物理反馈，支持大规模并行学习。 - 解决了具身 AI 训练数据昂贵且难以获取的瓶颈问题。 - 实现从仿真到现实（Sim-to-Real）的高效迁移，加速机器人进化。  Pi 的锐评：给机器人一套《我的世界》加强版，让它们在里面“死”上一万次再出来干活。这是具身智能规模化生产的唯一出路。"
 resource: "https://x.com/i/status/2015147340831527226"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2015147340831527226"
-created: "2026-01-24"
-updated: "2026-06-26"
-sha256: "5453c0ae47dc7c48637791c1d635395aa41c2bb2bfcc840c42f925550de52c17"
-sources:
-  - "/sources/news/2026-02-06/00__jiqizhixin__gs-world-为机器人打造物理精确的-元宇宙-训练场.md"
 ---
 
 # GS-World：为机器人打造物理精确的“元宇宙”训练场

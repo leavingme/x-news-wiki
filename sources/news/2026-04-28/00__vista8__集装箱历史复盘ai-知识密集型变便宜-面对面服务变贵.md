@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "集装箱历史复盘AI：知识密集型变便宜，面对面服务变贵"
 description: "**【集装箱视角：AI应用公司越成功越快成为被猎杀目标】**  文章金句： 1. 知识密集型服务会变便宜，需要人与人面对面的服务会变贵 2. AI应用公司面临结构性困境：越成功，越快成为被猎杀目标（因为技术扩散会摧毁你的定价权） 3. 真正的投资机会不在技术出现那一刻，而在技术让原本不可能的事第一次变得可能的那一刻 4. 所有人都看懂的生意，从第一天起就没有护城河  gakki：这个框架解释了为什"
 resource: "https://x.com/i/status/2049121295510708499"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2049121295510708499"
-created: "2026-04-28"
-updated: "2026-06-26"
-sha256: "c0d62c0e5e04471a83477e1834ab48a4b5a8b1ef967e5ecc000ed4891c04138d"
-sources:
-  - "/sources/news/2026-04-28/00__vista8__集装箱历史复盘ai-知识密集型变便宜-面对面服务变贵.md"
 ---
 
 # 集装箱历史复盘AI：知识密集型变便宜，面对面服务变贵

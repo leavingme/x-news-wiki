@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "英伟达 Vera CPU 精准打击 Agent 密集型调度瓶颈：上门交付给 Anthropic/OpenAI/xAI/OCI 四巨头"
 description: "**[英伟达为 Agent 编排场景量身定制 CPU，硬件军备竞赛开打]**  NVIDIA 交付了自研通用 CPU Vera，核心定位是承接 Agent 编排层的高并发 IO 与内存调度压力——模型推理放 GPU，但所有工具调用、任务调度、常驻监听都由这个 CPU 扛。这说明整个行业已经承认：Agent 时代的计算瓶颈不在推理算力，而在编排调度层的 CPU 吞吐。  重点看客户名单：Anthro"
 resource: "https://x.com/i/status/2056566924688146891"
@@ -22,13 +22,6 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "multi-agent-framework-ecosystem-comparison"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2056566924688146891"
-created: "2026-05-19"
-updated: "2026-06-26"
-sha256: "741092191ae8f68a4b8fb5abf5bdb079253d19ce19b8702f0b61eda62c0232c2"
-sources:
-  - "/sources/highlights/2026-05-19/00__op7418__英伟达-vera-cpu-精准打击-agent-密集型调度瓶颈-上门交付给-anthropic-openai-xai-o.md"
 ---
 
 # 英伟达 Vera CPU 精准打击 Agent 密集型调度瓶颈：上门交付给 Anthropic/OpenAI/xAI/OCI 四巨头

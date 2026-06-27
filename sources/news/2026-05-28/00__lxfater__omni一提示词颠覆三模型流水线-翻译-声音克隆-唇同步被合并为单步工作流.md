@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Omni一提示词颠覆三模型流水线：翻译+声音克隆+唇同步被合并为单步工作流"
 description: "**[一句话核心判断]**  传统多语言视频本地化需调用翻译模型、声音克隆、头像唇同步三个独立环节，Omni将其压缩为单一提示词驱动。这不仅是工程简化，更意味着多模态Agent编排正从「工具链拼接」走向「端到端意图直达」。  **信息增量：** - 三个独立Pipeline → 一个Prompt，延迟与成本结构未披露但方向明确 - 声音克隆+唇同步是此前门槛最高的两个环节，端到端合并说明多模态生成"
 resource: "https://x.com/i/status/2059838717117059152"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2059838717117059152"
-created: "2026-05-28"
-updated: "2026-06-26"
-sha256: "8b5117d1b076c2427c15ce769f93835a263f63220c74ca5ceca4f5f9e27fb5d6"
-sources:
-  - "/sources/news/2026-05-28/00__lxfater__omni一提示词颠覆三模型流水线-翻译-声音克隆-唇同步被合并为单步工作流.md"
 ---
 
 # Omni一提示词颠覆三模型流水线：翻译+声音克隆+唇同步被合并为单步工作流

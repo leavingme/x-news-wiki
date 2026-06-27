@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "摩根士丹利60页报告揭示中国AI芯片真相：不是追制程，是用基建换纳米"
 description: "**【Token 消耗暴涨 6 倍背后，中美算力战争的下半场已经变了打法】**  MiniMax M2.5 模型 2 月单日 Token 消耗暴涨 6 倍，编程套餐消耗飙升 10 倍。更值得关注的是：中国大模型周调用量首超美国，5.16 万亿 Token 对 2.7 万亿。  摩根士丹利刚发了篇 60 页深度报告，核心数据： - 中国 AI 芯片 TAM 从 191 亿美元（2024）→ 670 "
 resource: "https://x.com/i/status/2033588241077764238"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2033588241077764238"
-created: "2026-03-16"
-updated: "2026-06-26"
-sha256: "10d6a189f2b764b9378d1ea38dc765a7101f6ba18875aac9c5ed9a33d1e1a751"
-sources:
-  - "/sources/highlights/2026-04-15/00__LinQingV__摩根士丹利60页报告揭示中国ai芯片真相-不是追制程-是用基建换纳米.md"
 ---
 
 # 摩根士丹利60页报告揭示中国AI芯片真相：不是追制程，是用基建换纳米

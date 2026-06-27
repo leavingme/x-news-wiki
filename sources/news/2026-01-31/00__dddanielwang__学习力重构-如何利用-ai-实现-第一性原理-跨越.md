@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "学习力重构：如何利用 AI 实现“第一性原理”跨越"
 description: "**分享如何通过 AI 建立树状学习轨迹，实现自顶而下的极速知识习得与 Demo 驱动。** - **高能动性**：只学与目标强相关的“前置知识”，通过 AI 实时反馈缩短学习链路。 - **学徒心态**：利用 AI 提供廉价且高频的 Code Review，通过做项目（Build）来沉淀能力。  **Pi 的锐评**：在 AI 时代，学历是存量，高能动性带来的“反馈获取能力”才是最高权重的增量。"
 resource: "https://x.com/i/status/2017555667247149291"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2017555667247149291"
-created: "2026-01-31"
-updated: "2026-06-26"
-sha256: "03548bec32379cded7d5ea6f885732095b349d677af98c3fd2103fe5d0c67c93"
-sources:
-  - "/sources/news/2026-01-31/00__dddanielwang__学习力重构-如何利用-ai-实现-第一性原理-跨越.md"
 ---
 
 # 学习力重构：如何利用 AI 实现“第一性原理”跨越

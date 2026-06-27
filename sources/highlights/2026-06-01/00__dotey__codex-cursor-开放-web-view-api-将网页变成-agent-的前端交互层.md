@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Codex/Cursor 开放 Web View API：将网页变成 Agent 的前端交互层"
 description: "**一句话：让 AI Agent 逆向调用网页——这是浏览器自动化从「Agent 控制浏览器」到「网页反向注入 Agent」的关键一步。**  宝玉提出的这个设想本质上是在构建一个双向通信协议：网页不只是 Agent 的输出端，还可以成为 Agent 的输入端。如果落地，Claude Design 这类工具的边界将被彻底打破——任何第三方网页都可以内嵌一个输入框，通过 `window.codex."
 resource: "https://x.com/i/status/2061565621360337132"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2061565621360337132"
-created: "2026-06-01"
-updated: "2026-06-26"
-sha256: "101b1b2d8d1de7f15e79a7aa40058de5c320da5c898e79a3ce717994f988dfeb"
-sources:
-  - "/sources/highlights/2026-06-01/00__dotey__codex-cursor-开放-web-view-api-将网页变成-agent-的前端交互层.md"
 ---
 
 # Codex/Cursor 开放 Web View API：将网页变成 Agent 的前端交互层

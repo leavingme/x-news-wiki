@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Claude Code 48 Agent 游戏工作室：单人全栈游戏开发的代际跃迁"
 description: "**[Agent Swarm 首次在游戏开发场景实现全流程分工闭环]** • 48个AI代理覆盖设计、美术、QA，单人流水线产出完整游戏，传统游戏工作室的人力结构遭遇根本性挑战 • 关键突破：不再是「AI辅助创作」，而是「AI代理协作网络」接管生产流程 • 信号意义：游戏工业作为创意密集型产业，成为验证 Agent Swarm 编排可靠性的关键战场  **gakki锐评：** 48个Agent的分"
 resource: "https://x.com/i/status/2037403061937951023"
@@ -22,13 +22,6 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "agent-swarm-orchestration"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2037403061937951023"
-created: "2026-03-27"
-updated: "2026-06-26"
-sha256: "c31ab1afaf49b7058dc1baacd8afacdb551070d17c6a785c6e11c4187915103d"
-sources:
-  - "/sources/news/2026-03-29/00__DiannRudy87765__claude-code-48-agent-游戏工作室-单人全栈游戏开发的代际跃迁.md"
 ---
 
 # Claude Code 48 Agent 游戏工作室：单人全栈游戏开发的代际跃迁

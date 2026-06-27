@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "AI 信任危机前夜：低认知用户正在成为「精准投喂」的猎物"
 description: "**[信息茧房的 AI 化升级]** • 低认知群体对 AI 输出「深信不疑、奉为圭臬」，丧失基本批判思维 • 有组织地「喂给 AI 假资料」已成为新型营销/洗脑手段 • 风险：AI 的权威性光环被恶意利用，形成「技术加持的谣言」  当 AI 成为「答案的唯一来源」，追问「这个答案是谁喂给 AI 的」就比答案本身更重要。信息素养的鸿沟，正在以指数级速度扩大。"
 resource: "https://x.com/i/status/2033379952377376864"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2033379952377376864"
-created: "2026-03-16"
-updated: "2026-06-26"
-sha256: "4e637366e0019ad50815c164b0da656af925c12d9a272ad34dabe48ea0a7577c"
-sources:
-  - "/sources/news/2026-03-21/00__Predator_fund__ai-信任危机前夜-低认知用户正在成为-精准投喂-的猎物.md"
 ---
 
 # AI 信任危机前夜：低认知用户正在成为「精准投喂」的猎物

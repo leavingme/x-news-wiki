@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Agents' Last Exam 基准发布：1000+ 真实职业任务，AI Agent 迎来 GDP 级压力测试"
 description: "**千道真实任务、55 个职业门类、最高难度通过率不足 1%，旧基准正被'经济价值'取代。**  - ALE 由 50+ 机构共建，覆盖美国职业分类映射下的真实长链路任务（不是 puzzle，而是多步骤专业工作）。 - 顶级难度层 <1% 通过率，明确锚定 GDP-level impact 而非榜单排名。 - 标志着 Agent 评测从'答题正确率'转向'职业替代潜力'，对企业级 Agent 选型"
 resource: "https://x.com/i/status/2065336644207808623"
@@ -22,13 +22,6 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "agent-evaluation-frontier"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2065336644207808623"
-created: "2026-06-12"
-updated: "2026-06-26"
-sha256: "65386fd78ce58cff34acbc19c21dca17515745f6aa3530c73222d32441ed0552"
-sources:
-  - "/sources/highlights/2026-06-12/00__jiqizhixin__agents-last-exam-基准发布-1000-真实职业任务-ai-agent-迎来-gdp-级压力测试.md"
 ---
 
 # Agents' Last Exam 基准发布：1000+ 真实职业任务，AI Agent 迎来 GDP 级压力测试

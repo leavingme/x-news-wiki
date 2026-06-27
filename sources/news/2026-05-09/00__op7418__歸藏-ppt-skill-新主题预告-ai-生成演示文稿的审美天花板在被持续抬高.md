@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "歸藏 PPT Skill 新主题预告：AI 生成演示文稿的审美天花板在被持续抬高"
 description: "**AI 生成的 PPT 正在从「能用」走向「好看」，歸藏在推这个边界。**  - Skill 化的 PPT 生成意味着风格可以被封装、复用、分发 - 新主题预告暗示审美不是一次性的，而是可以迭代升级的资产 - 从千篇一律的衬线字体到多样化排版，AI 设计工具的品味在进化  AI 生成内容的竞争正在从「效率」转向「审美」。歸藏的 PPT Skill 是这个趋势的缩影——工具人人能用，但品味是稀缺的"
 resource: "https://x.com/i/status/2053143307371556944"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2053143307371556944"
-created: "2026-05-09"
-updated: "2026-06-26"
-sha256: "a88a2da6cdf9c3ba959d300e2e7c72b554dbd974ceda4a542253d07279869f3a"
-sources:
-  - "/sources/news/2026-05-09/00__op7418__歸藏-ppt-skill-新主题预告-ai-生成演示文稿的审美天花板在被持续抬高.md"
 ---
 
 # 歸藏 PPT Skill 新主题预告：AI 生成演示文稿的审美天花板在被持续抬高

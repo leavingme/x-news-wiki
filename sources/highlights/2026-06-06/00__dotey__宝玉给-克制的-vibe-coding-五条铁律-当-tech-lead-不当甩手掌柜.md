@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "宝玉给\"克制的 Vibe Coding\"五条铁律：当 Tech Lead，不当甩手掌柜"
 description: "**Vibe Coding 这个名字误导人：未来程序员的标配是 Tech Lead，不是 AI 老板。**  核心转向：手写代码减少，但分解任务、架构选型、Code Review、调试的权重上升。  宝玉五条实操建议： 1. 用你能用到的最聪明模型，不要省钱 2. 复杂任务先用 Plan mode 讨论清楚设计 3. 一次不要做太多，AI 生成后必须审查（责任主体还是人） 4. 刻意保留手写代码练"
 resource: "https://x.com/i/status/2063282159259898162"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2063282159259898162"
-created: "2026-06-06"
-updated: "2026-06-26"
-sha256: "ee194995296e561d2c8bc31fb0cc84af96cfb485a4e9ff8a8e551693e5280989"
-sources:
-  - "/sources/highlights/2026-06-06/00__dotey__宝玉给-克制的-vibe-coding-五条铁律-当-tech-lead-不当甩手掌柜.md"
 ---
 
 # 宝玉给"克制的 Vibe Coding"五条铁律：当 Tech Lead，不当甩手掌柜

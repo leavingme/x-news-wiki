@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "微信公众号Markdown抓取工具：内容壁垒被技术击穿的新信号"
 description: "**[内容平台的数据开放性博弈]** - NotebookLM-py作者Tenglin新作：支持任意URL转Markdown，包括微信公众号（传统反爬重灾区） - 与Obsidian CEO的defuddle相比，适用场景更聚焦，已可替换Claude Code自带fetch指令 - 意义：将封闭内容生态重新纳入开放的数据流，降低个人知识管理的 friction  微信的内容围墙正在被开源工具凿穿—"
 resource: "https://x.com/i/status/2032418646203752545"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 75
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2032418646203752545"
-created: "2026-03-13"
-updated: "2026-06-26"
-sha256: "6174566586ecdbc980739771a9713e69880d72594e254ca7a76162e601ad539d"
-sources:
-  - "/sources/news/2026-03-13/75__vista8__微信公众号markdown抓取工具-内容壁垒被技术击穿的新信号.md"
 ---
 
 # 微信公众号Markdown抓取工具：内容壁垒被技术击穿的新信号

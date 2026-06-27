@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Cloudflare 给 AI 配邮箱：AI 之间的协作开始进入「真实工作任务」阶段"
 description: "**AI 协作从 demo 走向生产力——客服 AI 接投诉、财务 AI 处理发票都成了真实用例。**  Cloudflare Email Service 公测，AI 助手可以拥有独立邮箱、像同事一样接活办事。每月 3000 封免费额度意味着小规模部署几乎零成本。用例覆盖客服、工单通知、邮件筛选，以及多 AI 之间的邮件接力。  这本质上是把「人肉工作流」替换成「AI 邮件流」，自动化边界从单一 "
 resource: "https://x.com/i/status/2046058401005031502"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2046058401005031502"
-created: "2026-04-20"
-updated: "2026-06-26"
-sha256: "4aa736e6ddcf262118001e1f2964240057d7d7554f35285d9f0d285e431f3343"
-sources:
-  - "/sources/news/2026-04-21/00__xiaohu__cloudflare-给-ai-配邮箱-ai-之间的协作开始进入-真实工作任务-阶段.md"
 ---
 
 # Cloudflare 给 AI 配邮箱：AI 之间的协作开始进入「真实工作任务」阶段

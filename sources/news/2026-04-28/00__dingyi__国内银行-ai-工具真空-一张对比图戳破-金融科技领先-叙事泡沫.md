@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "国内银行 AI 工具真空：一张对比图戳破「金融科技领先」叙事泡沫"
 description: "**[金融科技的表层繁华与工具链的深层空白]**  推文通过截图对比，直指国内银行在 AI 工具应用上的真空状态——即便在金融科技叙事上极为激进，底层工具链与海外差距依然触目。  - 信息增量有限，但「国内银行永远不做这种工具」的感叹折射出从业者的真实痛点：不是不想用，是没有。 - 这类内容的高传播往往来自情绪共鸣而非信息增量，但可作为观察金融业 AI 采纳阻力的切片。  gakki：情绪共鸣不等"
 resource: "https://x.com/i/status/2049051261295878623"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "bookmark"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2049051261295878623"
-created: "2026-04-28"
-updated: "2026-06-26"
-sha256: "03ec1424d15d99bd4150b81d5aae87e015c1cd28693ad61885f203d2e938fb45"
-sources:
-  - "/sources/news/2026-04-28/00__dingyi__国内银行-ai-工具真空-一张对比图戳破-金融科技领先-叙事泡沫.md"
 ---
 
 # 国内银行 AI 工具真空：一张对比图戳破「金融科技领先」叙事泡沫

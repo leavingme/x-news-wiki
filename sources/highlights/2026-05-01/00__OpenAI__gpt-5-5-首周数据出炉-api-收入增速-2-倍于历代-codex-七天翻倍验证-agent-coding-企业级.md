@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "GPT-5.5 首周数据出炉：API 收入增速 2 倍于历代，Codex 七天翻倍验证 Agent Coding 企业级需求"
 description: "**GPT-5.5 不只是模型升级，而是一次企业级 Agent 工具链的需求验证。**  - OpenAI 披露 GPT-5.5 发布首周数据：API 收入增速超此前任何一次发布 2 倍以上，Codex 收入七天翻倍 - 关键信号不是模型能力本身，而是「企业 agentic coding 工具需求持续攀升」这一结构性趋势 - Codex 作为 OpenAI 的 Agent Coding 产品，正从"
 resource: "https://x.com/OpenAI/status/2050250926888468929"
@@ -22,13 +22,6 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "codex-ecosystem-platform-war"
 x_source: "ai-trend-digest"
-type_okf: "X Tweet"
-source_url: "https://x.com/OpenAI/status/2050250926888468929"
-created: "2026-05-01"
-updated: "2026-06-26"
-sha256: "59e1157c05b55bc8cdf51041832f99accfc6511687296cf2970ff443b9b44924"
-sources:
-  - "/sources/highlights/2026-05-01/00__OpenAI__gpt-5-5-首周数据出炉-api-收入增速-2-倍于历代-codex-七天翻倍验证-agent-coding-企业级.md"
 ---
 
 # GPT-5.5 首周数据出炉：API 收入增速 2 倍于历代，Codex 七天翻倍验证 Agent Coding 企业级需求

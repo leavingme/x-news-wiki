@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "有道子曰4开源27B权重+消除跨语言口音移植：开源模型的价值锚定新范式"
 description: "**[有道在用「全开源」重新定义大模型竞争维度]**  子曰4核心突破不是参数规模，而是真正解决了语音克隆的跨语言口音移植问题——用中文音色说日语，听起来像母语者在讲，而非翻译腔。这3秒克隆、14语言覆盖的能力，对数字人/口播/配音赛道是直接的价格重构。  更有意思的是商业逻辑：权重开源（54GB）+ 龙虾Agent开源，有道的钱从哪来？答案藏在「模型即服务」之外——很可能押注在企业级私有化部署和"
 resource: "https://x.com/i/status/2057726984088682501"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2057726984088682501"
-created: "2026-05-22"
-updated: "2026-06-26"
-sha256: "06f0e3d4c8d1c3fe6ec77f527c860d633cb747d9615a4e223c7d599c7be67f41"
-sources:
-  - "/sources/news/2026-05-22/00__lxfater__有道子曰4开源27b权重-消除跨语言口音移植-开源模型的价值锚定新范式.md"
 ---
 
 # 有道子曰4开源27B权重+消除跨语言口音移植：开源模型的价值锚定新范式

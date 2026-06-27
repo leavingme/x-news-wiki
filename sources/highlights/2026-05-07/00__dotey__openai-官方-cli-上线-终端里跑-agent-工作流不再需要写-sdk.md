@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "OpenAI 官方 CLI 上线：终端里跑 Agent 工作流不再需要写 SDK"
 description: "**OpenAI 终于把终端入口做成了官方一等公民。**  - 开源 `openai-cli`，Apache 2.0，支持 Homebrew/Go 安装，命令走资源化结构（如 `openai responses create`） - 内置所有 Cloud Tools（web 搜索、代码解释器、文件检索、图像生成），Agent 风格工作流可直接命令行跑通 - 输出支持 JSON/YAML/JSONL"
 resource: "https://x.com/i/status/2052512560264380737"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2052512560264380737"
-created: "2026-05-07"
-updated: "2026-06-26"
-sha256: "2fdc6f5f79a1842378b27bc96f7e8103145758af03f01eac86bbe08b7a3817de"
-sources:
-  - "/sources/highlights/2026-05-07/00__dotey__openai-官方-cli-上线-终端里跑-agent-工作流不再需要写-sdk.md"
 ---
 
 # OpenAI 官方 CLI 上线：终端里跑 Agent 工作流不再需要写 SDK

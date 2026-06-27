@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "向阳乔木开源「乔木画布」:Seedream+GPT-image-2 全接入,Vercel 一键部署"
 description: "**\"个人 AI 技能包\"从 Skills 延伸到了视觉层。**  - 集成 Seedream 生图与 GPT-image-2,模板可存储分享,支持 3:4/16:9/21:9 多尺寸画布 - 内置 2w 图标、Emoji 库、一键抠图,甚至能画 PRD——把日常设计需求压成画布交互 - 端午节全免费开源,Vercel 一键部署,GitHub 地址评论区公布  空一行。  gakki 锐评: 乔木"
 resource: "https://x.com/i/status/2067513484364140994"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2067513484364140994"
-created: "2026-06-18"
-updated: "2026-06-26"
-sha256: "ea8a3766c5cb4d559da7173500307d07057c6b4af764840295114f84c8329a25"
-sources:
-  - "/sources/news/2026-06-18/00__vista8__向阳乔木开源-乔木画布-seedream-gpt-image-2-全接入-vercel-一键部署.md"
 ---
 
 # 向阳乔木开源「乔木画布」:Seedream+GPT-image-2 全接入,Vercel 一键部署

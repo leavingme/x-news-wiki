@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "执行速度即护城河：AI变现项目0知识到当日出单的实证"
 description: "**一句话核心判断：** 在\"赛道选对\"的前提下，执行力差距正在成为AI变现中唯一可控的变量——认知可以当天补齐，但拖延的代价是机会消失。  - 案例：老哥对AI几乎零了解，通过追着问+当天消化项目资料，下午就出了单 - 核心逻辑：AI变现路径已极度扁平化（卖课/Token/Agent项目），信息差几乎为零 - 真正壁垒在于\"问完就行动\"的执行纪律，而非认知深度  这个案例撕开了AI创业圈最大的认"
 resource: "https://x.com/i/status/2060287557544354159"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2060287557544354159"
-created: "2026-05-29"
-updated: "2026-06-26"
-sha256: "1bb3c716be19294c4c5a1aa7b41b5f5b16c211e78cec2cc5f25b3e2ccba4ca9a"
-sources:
-  - "/sources/news/2026-05-29/00__Leobai825__执行速度即护城河-ai变现项目0知识到当日出单的实证.md"
 ---
 
 # 执行速度即护城河：AI变现项目0知识到当日出单的实证

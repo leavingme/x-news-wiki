@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "DeepSeek调研实证：前沿Agent集体卡在L4自主执行门槛，L5科学级全自驱仍是禁区"
 description: "**一线研判：当前前沿Agent架构已触及L4自主执行天花板。**  DeepSeek联合GPT-Image2发布的五级自主度量表（L1-L5）给出了迄今最系统的能力地图：L4意味着在限定域内的多步自主执行，这是当前17个被测系统的共同天花板。  核心发现：瓶颈不在模型原始能力，而在知识积累机制——即Agent如何在长程任务中有效获取、整合和复用跨步骤经验。  四条主流架构路线在可扩展性、成本与可"
 resource: "https://x.com/i/status/2059456940963692879"
@@ -22,13 +22,6 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "agent-capability-benchmark"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2059456940963692879"
-created: "2026-05-27"
-updated: "2026-06-26"
-sha256: "6265545105be0dd263ff82506c07365bd13eb40478cdfb850403b8805408aa6f"
-sources:
-  - "/sources/highlights/2026-05-27/00__jiqizhixin__deepseek调研实证-前沿agent集体卡在l4自主执行门槛-l5科学级全自驱仍是禁区.md"
 ---
 
 # DeepSeek调研实证：前沿Agent集体卡在L4自主执行门槛，L5科学级全自驱仍是禁区

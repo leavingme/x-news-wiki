@@ -1,23 +1,17 @@
 ---
-type: "entity"
+type: "Author"
 title: "亚伦 YALUN (@yalun369)"
 description: "X/Twitter 作者 @yalun369。共收录 1 条 AI 精选推文。"
 tags:
   - "x-news"
   - "author"
   - "author:yalun369"
-timestamp: "2026-06-26T11:53:36.912Z"
+timestamp: "2026-06-27T08:40:40.119Z"
 x_handle: "yalun369"
 x_author_name: "亚伦 YALUN"
 x_tweet_count: 1
 x_first_seen: "2026-01-31T13:51:06.570Z"
 x_last_seen: "2026-01-31T13:51:06.570Z"
-type_okf: "Author"
-created: "2026-01-31"
-updated: "2026-06-26"
-sha256: "a8ccaabdd388e4849cf9af90c04d0e5fafc72270e9a3c7f7bbc4938989ed38aa"
-sources:
-  - "/sources/news/2026-01-31/00__yalun369__郭文贵预言-引述-ai-的终局是-asi-智能爆炸-而非-agi-中转站.md"
 ---
 
 # 亚伦 YALUN (@yalun369)

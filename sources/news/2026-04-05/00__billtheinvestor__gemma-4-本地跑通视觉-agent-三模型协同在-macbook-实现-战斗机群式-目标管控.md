@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Gemma 4 本地跑通视觉 Agent：三模型协同在 MacBook 实现「战斗机群式」目标管控"
 description: "**一线实战验证边缘 Agent 可行性。**  Bill The Investor 晒出实操路径：Gemma 4 理解视频场景 → 调用 SAM 3 分割目标 → RF-DETR 跟踪，三模型全本地跑通。战斗机群/人群/防空影像等高密度场景，单模型指挥双模型完成。这不是 Demo，是产品级验证。  关键信号：MacBook 能跑，说明视觉 Agent 的算力门槛已到消费级硬件层面。接下来该问的是"
 resource: "https://x.com/i/status/2040464027453988948"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2040464027453988948"
-created: "2026-04-04"
-updated: "2026-06-26"
-sha256: "75cede4fa041c5692f30681c84be3507556493586cef5410dd706b0235d2c5fe"
-sources:
-  - "/sources/news/2026-04-05/00__billtheinvestor__gemma-4-本地跑通视觉-agent-三模型协同在-macbook-实现-战斗机群式-目标管控.md"
 ---
 
 # Gemma 4 本地跑通视觉 Agent：三模型协同在 MacBook 实现「战斗机群式」目标管控

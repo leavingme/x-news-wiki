@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "1亿Token上下文：长记忆Agent的「技术奇点」已现"
 description: "**[记忆架构的数量级突破]** • 模型上下文从16K扩展至1亿token，精度衰减不到9%，打破「长上下文=高损耗」的诅咒 • 意味着Agent可一次性处理整本教科书、完整代码库或长期对话历史，无需频繁RAG切换 • 对多轮协作Agent、深度研究Agent、个人记忆助理等场景具有革命性意义  当Agent能记住「你三年前说的那句话」，人机关系的本质将被重新定义。"
 resource: "https://x.com/i/status/2035023776505897049"
@@ -22,13 +22,6 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "agent-memory-optimization"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2035023776505897049"
-created: "2026-03-20"
-updated: "2026-06-26"
-sha256: "cfba077f03d29074c73c51d78e501685637a177ce4330dd1524853fe342601de"
-sources:
-  - "/sources/news/2026-03-21/00__lxfater__1亿token上下文-长记忆agent的-技术奇点-已现.md"
 ---
 
 # 1亿Token上下文：长记忆Agent的「技术奇点」已现

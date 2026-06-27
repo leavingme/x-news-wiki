@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "出海复盘从千刀到万刀：AI出海内容创业的阶段性验证"
 description: "**一句话核心判断：** 赫兹老师的出海复盘展示了一个具体路径：半年从千刀到万刀，证明AI辅助出海内容创业存在可行路径，但天花板仍清晰可见。  **信息增量：** - 具体数字轨迹（千刀→万刀）提供了难得的AI出海商业化参照系 - \"毫无保留的整理\"意味着这是可复制的操作手册而非幸存者偏差  **影响分析：** - 为有意AI出海的创业者提供了阶段性里程碑参照 - 也暴露了天花板：万刀月收入在成熟"
 resource: "https://x.com/i/status/2057665543075758159"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2057665543075758159"
-created: "2026-05-22"
-updated: "2026-06-26"
-sha256: "b6ab06d7a0c0f2eb3fa9fe927dff77a2a2975a1719109845f826418b0ba416d2"
-sources:
-  - "/sources/news/2026-05-22/00__gkxspace__出海复盘从千刀到万刀-ai出海内容创业的阶段性验证.md"
 ---
 
 # 出海复盘从千刀到万刀：AI出海内容创业的阶段性验证

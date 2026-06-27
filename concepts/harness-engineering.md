@@ -1,38 +1,22 @@
 ---
-type: "concept"
-title: "harness-engineering"
-description: "跨日主题 \"harness-engineering\"，共 14 条相关精选推文。"
+type: "Concept"
+title: "Harness 工程"
+description: "跨日主题 \"Harness 工程\" (harness-engineering)，共 14 条相关精选推文。"
 tags:
   - "x-news"
   - "concept"
   - "topic:harness-engineering"
-timestamp: "2026-06-26T11:53:37.011Z"
+timestamp: "2026-06-27T08:40:42.847Z"
 x_topic_slug: "harness-engineering"
 x_tweet_count: 14
 x_first_seen: "2026-03-23T00:43:10.487Z"
 x_last_seen: "2026-06-25T08:39:48.386Z"
-type_okf: "Concept"
-created: "2026-03-23"
-updated: "2026-06-26"
-sha256: "7f784456a32d476144b506578f4f5d686f52e1ea60263f64f3cac8a64bc03ca7"
-sources:
-  - "/sources/highlights/2026-03-23/00__kasong2048__harness-engineering临界点预判-国内软件行业裁员潮还有2年.md"
-  - "/sources/highlights/2026-04-24/00__oran_ge__claude-降智元凶-sdk-harness-断层-一个月的盲查.md"
-  - "/sources/highlights/2026-06-08/00__dotey__宝玉-长跑-agent-的生死线不是-token-是自我验证能力.md"
-  - "/sources/highlights/2026-06-11/00__dotey__deepseek-首次全球招聘-agent-harness-研究员-把-model-harness-agent-写进-j.md"
-  - "/sources/highlights/2026-06-21/00__jiqizhixin__deepseek-急招-harness-人才-国产大模型押注驭能工程-anthropic-路线被全面对标.md"
-  - "/sources/highlights/2026-06-23/00__jiqizhixin__把代码当-harness-uiuc-meta-stanford-提出-agent-推理统一范式.md"
-  - "/sources/highlights/2026-06-24/00__shao__meng__agent-model-harness-harness-层才是-ai-工具分化的真正护城河.md"
-  - "/sources/highlights/2026-06-24/00__yibie__flask-作者-armin-ronacher-罕见反思-连-boris-cherny-都承认-我的工作变成了写-loo.md"
-  - "/sources/highlights/2026-06-25/00__karpathy__karpathy-拨乱反正-这不是-slack-机器人-是-组织级-harness.md"
-  - "/sources/news/2026-04-07/00__Zesee__harness-model-environment-agent需要的不是更多工具-而是更好的-感知与约束.md"
-  - "/sources/news/2026-06-11/00__vista8__goal-不是-spec-而是格式约束-claude-code-长任务的最小可行-harness-浮现.md"
-  - "/sources/news/2026-06-15/00__bourneliu66__刘小排一图浓缩-harness-engineering-框架工程已成-ai-性能主导变量.md"
-  - "/sources/news/2026-06-24/00__Xudong07452910__harness-engineering-从0到1-拿下-6-8k-stars-把-agent-从-偶尔能用-逼到-生产可.md"
-  - "/sources/news/2026-06-24/00__Xudong07452910__开源-agents-best-practices-上线-harness-才是-agent-能否生产化的分水岭.md"
+x_cn_title_source: "dict"
 ---
 
-# 主题: harness-engineering
+# 主题: Harness 工程
+
+> slug: `harness-engineering`
 
 本主题下共 **14** 条精选推文。
 

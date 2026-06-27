@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "xAI 杀入语音战场：Grok Voice Think Fast 登顶 Tau 基准，复杂工作流语音交互洗牌在即"
 description: "**一句话核心判断：xAI 以 Tau Voice Bench 第一名的成绩切入语音 Agent 市场，标志其从文本模型向多模态工作流 Agent 的全面扩张，对现有语音 AI 格局构成直接冲击。**  - 宣称在真实场景（噪音、口音、打断）下表现优于所有竞品，定位复杂多步骤工作流 - 强调 snappy response（快速响应），针对现有语音模型延迟痛点精准发力 - Tau Voice Be"
 resource: "https://x.com/xai/status/2047441173569216721"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "ai-trend-digest"
-type_okf: "X Tweet"
-source_url: "https://x.com/xai/status/2047441173569216721"
-created: "2026-04-23"
-updated: "2026-06-26"
-sha256: "20ba5ce8bac41e562a333ce606c256eddb15a56827b5ed4b17c004483f203bbd"
-sources:
-  - "/sources/news/2026-04-23/00__xai__xai-杀入语音战场-grok-voice-think-fast-登顶-tau-基准-复杂工作流语音交互洗牌在即.md"
 ---
 
 # xAI 杀入语音战场：Grok Voice Think Fast 登顶 Tau 基准，复杂工作流语音交互洗牌在即

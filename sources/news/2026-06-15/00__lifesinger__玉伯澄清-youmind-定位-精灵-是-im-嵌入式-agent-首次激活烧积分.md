@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "玉伯澄清 YouMind 定位：'精灵'是 IM 嵌入式 Agent，首次激活烧积分"
 description: "**[YouMind 把 Agent 塞进 IM 平台，命名选'精灵'而非'Agent'是 C 端教育策略]** - 玉伯纠正用户：YouMind 的'龙虾'实为 sprite（精灵），可直接接入 Telegram、微信等 IM 平台 - 首次点击激活精灵消耗少量积分，定位接近游戏化引导而非企业级 Agent 范式 - 命名回避'AI Agent'专业术语，用 sprite/龙虾这类游戏化符号降低"
 resource: "https://x.com/i/status/2066303515031744966"
@@ -22,13 +22,6 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "agent-multi-platform"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2066303515031744966"
-created: "2026-06-14"
-updated: "2026-06-26"
-sha256: "4dbf3065cbefbf18b2582bb2996b0c736fe5ec693f8cb01f1416d251762745b4"
-sources:
-  - "/sources/news/2026-06-15/00__lifesinger__玉伯澄清-youmind-定位-精灵-是-im-嵌入式-agent-首次激活烧积分.md"
 ---
 
 # 玉伯澄清 YouMind 定位：'精灵'是 IM 嵌入式 Agent，首次激活烧积分

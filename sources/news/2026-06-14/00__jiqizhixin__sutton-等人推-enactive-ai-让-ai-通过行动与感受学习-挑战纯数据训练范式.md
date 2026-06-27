@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Sutton 等人推「Enactive AI」：让 AI 通过行动与感受学习，挑战纯数据训练范式"
 description: "**[一句话核心判断]** 图灵奖得主 Richard Sutton 与 Banafsheh Rafiee 联合推动「Enactive AI」新方向，把感知从「被动输入处理」重新定义为「主动具身技能」，直接挑战当前 LLM 主导的数据拟合范式。  - **核心方法论**：智能体通过「做事」和「感受行动如何改变世界」来学习，而非依赖静态数据集的统计拟合 - 论文核心论断：在动态、具身环境中，Enac"
 resource: "https://x.com/i/status/2066211817932665169"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2066211817932665169"
-created: "2026-06-14"
-updated: "2026-06-26"
-sha256: "7cd4110968e1b1834b1255bf1da502dec6c4431d6e1844f62dd8f8996661ecdc"
-sources:
-  - "/sources/news/2026-06-14/00__jiqizhixin__sutton-等人推-enactive-ai-让-ai-通过行动与感受学习-挑战纯数据训练范式.md"
 ---
 
 # Sutton 等人推「Enactive AI」：让 AI 通过行动与感受学习，挑战纯数据训练范式

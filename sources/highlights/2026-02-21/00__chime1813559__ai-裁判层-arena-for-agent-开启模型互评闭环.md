@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "AI 裁判层：Arena for Agent 开启模型互评闭环"
 description: "**[核心逻辑]** 推出自主 AI 裁判层，由 Agent 评估其他模型的响应准确性并以此获取奖励。实现“AI 提问-AI 回答-AI 评判”的无人值守流水线。  *   **智能闭环**：奖励精准而非努力，将评判权从人类手中下放到评判层。  [gakki 的锐评]：AI 卷王时代的法官也变成了 AI，这下人类真的可以安心去喝茶了。"
 resource: "https://x.com/i/status/2024930784826507359"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2024930784826507359"
-created: "2026-02-20"
-updated: "2026-06-26"
-sha256: "d32b303597789930859ba776488785a8de2a4e679a44b6588d82f270ce5e7a91"
-sources:
-  - "/sources/highlights/2026-02-21/00__chime1813559__ai-裁判层-arena-for-agent-开启模型互评闭环.md"
 ---
 
 # AI 裁判层：Arena for Agent 开启模型互评闭环

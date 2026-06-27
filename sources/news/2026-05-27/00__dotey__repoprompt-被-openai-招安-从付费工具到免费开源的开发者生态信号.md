@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "RepoPrompt 被 OpenAI 招安：从付费工具到免费开源的开发者生态信号"
 description: "**RepoPrompt 作者被 OpenAI 收编，软件即刻免费，即将开源。付费用户将获得 Codex Credits 补偿。**  - 这不是简单的收购案，而是 OpenAI 对开发者工作流工具生态的主动整合——通过收编优质工具作者，消除竞争威胁，同时扩大 Codex 的用户锚点 - 开发者工具领域正在重演「征服而非复制」的平台策略：与其自己做一个，不如让做得好的人加入 - 对 RepoPro"
 resource: "https://x.com/i/status/2059729329119006928"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2059729329119006928"
-created: "2026-05-27"
-updated: "2026-06-26"
-sha256: "d6e5935a59a713f77e157bb45030b4fa3a01ed43bcf26e36a90b45bb80fcb6a1"
-sources:
-  - "/sources/news/2026-05-27/00__dotey__repoprompt-被-openai-招安-从付费工具到免费开源的开发者生态信号.md"
 ---
 
 # RepoPrompt 被 OpenAI 招安：从付费工具到免费开源的开发者生态信号

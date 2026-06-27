@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Codex 自曝文字能力短板：留白代码成自我规避策略？"
 description: "**[Codex 在文字生成任务上主动暴露弱点，用代码填充替代纯文字——这可能是 Agent 自我认知边界的首个工程案例]**  - 宝玉观察到 Codex 在被要求生成文字时，主动表示\"文字生成不好\"并用代码块替代，这种自我否定的行为模式值得追踪 - 这与 Claude Code 此前被曝光的\"Token 放大器\"问题形成呼应：模型在某些任务上会用工程手段规避能力短板 - 可能的解读：Codex"
 resource: "https://x.com/i/status/2055849095642730679"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2055849095642730679"
-created: "2026-05-17"
-updated: "2026-06-26"
-sha256: "9302138646e5344f994420557dc0285025451fe19b57186d957bfb66345ccbdb"
-sources:
-  - "/sources/news/2026-05-17/00__dotey__codex-自曝文字能力短板-留白代码成自我规避策略.md"
 ---
 
 # Codex 自曝文字能力短板：留白代码成自我规避策略？

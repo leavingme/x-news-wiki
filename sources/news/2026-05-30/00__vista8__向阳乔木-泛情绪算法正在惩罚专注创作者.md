@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "向阳乔木：泛情绪算法正在惩罚专注创作者"
 description: "**[算法激励与内容质量的结构性背离]**  向阳乔木在研究某平台推荐算法后指出：现有机制过于泛话题化、鼓励情绪与互动，而非内容深度。这对专注垂直领域的创作者形成系统性不友好。  核心信息增量：算法正在用「互动率」替代「信息价值」作为核心指标，内容质量与传播热度之间的鸿沟正在扩大。  平台面临的挑战是：情绪化内容天然高互动，但长期会侵蚀平台内容质量护城河。  gakki锐评：算法和内容质量之间的矛"
 resource: "https://x.com/i/status/2060594040014504227"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2060594040014504227"
-created: "2026-05-30"
-updated: "2026-06-26"
-sha256: "f6c7a6a1af43829b3445d905696ffa97b91112874c8a14b42d84c5e4a4bb34ce"
-sources:
-  - "/sources/news/2026-05-30/00__vista8__向阳乔木-泛情绪算法正在惩罚专注创作者.md"
 ---
 
 # 向阳乔木：泛情绪算法正在惩罚专注创作者

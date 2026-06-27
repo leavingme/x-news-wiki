@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "宝玉预告：Codex 和 OpenAI platform 明日有重要更新——悬念本身就是传播"
 description: "**一句话核心判断** 宝玉的预告本身构成了传播事件：OpenAI 生态的每一次更新都在强化其\"AI 基础设施\"的定位，而市场对这种预告的敏感度本身就是护城河的一部分。  **信息增量** - 预告本身引发行业关注，说明 OpenAI 的任何更新都已成为行业事件 - 明天具体内容未知，但结合上下文推断可能是 Codex CLI 正式版或 GPT-5 相关铺垫  **gakki 锐评** 宝玉的\"预"
 resource: "https://x.com/i/status/2061539606592360781"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2061539606592360781"
-created: "2026-06-01"
-updated: "2026-06-26"
-sha256: "d27ca4b52232ba359a662391b9ead95899e46d41e4314f49d86ba2ab839f1589"
-sources:
-  - "/sources/news/2026-06-01/00__dotey__宝玉预告-codex-和-openai-platform-明日有重要更新-悬念本身就是传播.md"
 ---
 
 # 宝玉预告：Codex 和 OpenAI platform 明日有重要更新——悬念本身就是传播

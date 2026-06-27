@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "子曰4开源TTS：3秒克隆97%准确率，中文多模态的「声音民主化」来了"
 description: "**[网易有道发布子曰4全模态模型，27B参数规模实现视觉数理双SOTA]**  - 27B\"甜点级\"参数规模，视觉数理同规模SOTA，纯文本数理准确率81.4%，多模态+推理双料领先 - 同步开源TTS引擎：3秒克隆原声，支持14语言，克隆准确度超97%，音色还原度95%以上 - 开放权重、支持本地部署和二次训练，降低语音合成门槛至消费级硬件  **gakki锐评：** 这不只是开源一个模型，而"
 resource: "https://x.com/i/status/2059153797235228955"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2059153797235228955"
-created: "2026-05-26"
-updated: "2026-06-26"
-sha256: "f01d1ce7b33411700dfef3a03bd29fa528a3c2a13dc15f30e0fbcfa6b703d4d8"
-sources:
-  - "/sources/highlights/2026-05-26/00__vista8__子曰4开源tts-3秒克隆97-准确率-中文多模态的-声音民主化-来了.md"
 ---
 
 # 子曰4开源TTS：3秒克隆97%准确率，中文多模态的「声音民主化」来了

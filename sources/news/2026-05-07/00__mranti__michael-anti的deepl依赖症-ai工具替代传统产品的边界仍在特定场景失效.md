@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Michael Anti的DeepL依赖症：AI工具替代传统产品的边界仍在特定场景失效"
 description: "**即便是技术圈KOL，AI原生工具仍未完全覆盖传统产品的利基场景。** - Michael Anti坦言仍在用DeepL，原因是PDF翻译这个具体场景AI工具尚未完美解决 - 这揭示了一个被忽视的事实：AI工具的替代是场景级的，不是产品级的 - DeepL在PDF翻译上的护城河不是技术壁垒，而是\"格式保持+批量处理\"的工程完整度  gakki：这是一条很有价值的用户证言。当所有人都在讨论AI如何"
 resource: "https://x.com/i/status/2052409455850189073"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2052409455850189073"
-created: "2026-05-07"
-updated: "2026-06-26"
-sha256: "23b505219c9e819741c5cec9f9ec8e89626b47b33c9012b51efa0b7e8ccb963b"
-sources:
-  - "/sources/news/2026-05-07/00__mranti__michael-anti的deepl依赖症-ai工具替代传统产品的边界仍在特定场景失效.md"
 ---
 
 # Michael Anti的DeepL依赖症：AI工具替代传统产品的边界仍在特定场景失效

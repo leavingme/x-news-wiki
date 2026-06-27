@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "川普拒绝为印度Sindoor行动背书：印美关系裂痕背后的地缘信号"
 description: "**印美关系正在经历一个微妙但关键的转折点。**  - 川普基于美方情报判断，公开确认巴基斯坦击落印度战机的事实，拒绝为印度单方面叙事站台 - 印度反对川普以「调解者」身份介入印巴冲突，大国叙事权之争浮出水面 - 这不是简单的外交摩擦，而是美国对南亚战略优先级重新排序的信号  gakki 锐评：这条信息的价值不在印巴本身，而在「美方情报优先于盟友面子」的决策范式——地缘博弈中，谁掌握事实定义权，谁"
 resource: "https://x.com/i/status/2052645108152148011"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2052645108152148011"
-created: "2026-05-08"
-updated: "2026-06-26"
-sha256: "30bc5f63cf52aeaee4477ce558e4307e4907e2e319ef3aec89ef6f8ba9fc6735"
-sources:
-  - "/sources/news/2026-05-08/00__mranti__川普拒绝为印度sindoor行动背书-印美关系裂痕背后的地缘信号.md"
 ---
 
 # 川普拒绝为印度Sindoor行动背书：印美关系裂痕背后的地缘信号

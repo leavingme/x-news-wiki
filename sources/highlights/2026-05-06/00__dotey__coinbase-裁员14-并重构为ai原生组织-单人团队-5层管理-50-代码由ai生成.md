@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Coinbase 裁员14%并重构为AI原生组织：单人团队、5层管理、50%+代码由AI生成"
 description: "**Coinbase 正在用裁员+组织重构的方式，验证「AI原生企业」的极端形态。**  - 700人裁员背后是双重逻辑：加密市场下行（Q4营收降21.6%）叠加AI对组织结构的替代压力 - 最激进的设计是「AI原生小组」：单人团队同时承担工程师、设计师、PM角色，靠调度AI Agent完成工作 - 管理层级压到最多5层，管理者必须是一线贡献者，不能做纯管理 - CEO给出明确指标：AI生成代码占"
 resource: "https://x.com/i/status/2051803325507494166"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2051803325507494166"
-created: "2026-05-05"
-updated: "2026-06-26"
-sha256: "279fbbefc84f75391e01aecb76f59dcb31c701fa641a13997990edfb0b0253e4"
-sources:
-  - "/sources/highlights/2026-05-06/00__dotey__coinbase-裁员14-并重构为ai原生组织-单人团队-5层管理-50-代码由ai生成.md"
 ---
 
 # Coinbase 裁员14%并重构为AI原生组织：单人团队、5层管理、50%+代码由AI生成

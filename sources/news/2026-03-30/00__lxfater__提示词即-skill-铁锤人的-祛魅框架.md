@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "提示词即 Skill？铁锤人的「祛魅框架」"
 description: "**一句话核心判断：对普通人而言，提示词和 Skill 在认知门槛上已无本质区别，都是「触发 AI 能力的接口」。**  • 核心洞察：Skill 本质是结构化提示词的高级形式，对非技术用户来说，两者都是「说一句等 AI 做事」 • 隐含结论：如果两者无差别，那 Skill 的工程价值（可复用、可组合）将被低估，提示词工程将泛化为「人人都是 Prompt Engineer」 • 边界：这个判断适用"
 resource: "https://x.com/i/status/2038472535839285556"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2038472535839285556"
-created: "2026-03-30"
-updated: "2026-06-26"
-sha256: "17d5c11fb6cd7d069992682e743f33e083c400b8b2618341d61caa75bb9c0aec"
-sources:
-  - "/sources/news/2026-03-30/00__lxfater__提示词即-skill-铁锤人的-祛魅框架.md"
 ---
 
 # 提示词即 Skill？铁锤人的「祛魅框架」

@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "大模型价格战升温：Gemini 打折突显 OpenAI 执念"
 description: "**[订阅费用的市场策略博弈]** - Google Gemini 已开启降价模式，而 OpenAI 仍维持原价订阅。 - 用户质疑 OpenAI 在产品迭代放缓的情况下是否在透支忠诚度。  Pi 的锐评：OpenAI 现在的姿态有点像当年的老牌巨头，觉得靠 4o 的底子就能躺赢，殊不知市场从不相信长情。"
 resource: "https://x.com/i/status/2020477000628973962"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2020477000628973962"
-created: "2026-02-08"
-updated: "2026-06-26"
-sha256: "14c5888dd97dd2ab07c3ed35d96dace84c2e5c30d79298d21dd28ea22c102e28"
-sources:
-  - "/sources/news/2026-02-08/00__Fukiko000__大模型价格战升温-gemini-打折突显-openai-执念.md"
 ---
 
 # 大模型价格战升温：Gemini 打折突显 OpenAI 执念

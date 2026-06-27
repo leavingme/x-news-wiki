@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Goal 边界控制清单：不要伪造来源、不要把旧信息当最新、不要进行无关扩展"
 description: "**一句话核心判断：Codex Goal 的可靠性边界，由「不要做什么」决定，而不是「做什么」。**  复杂任务的 Goal 写法需要明确边界：不要伪造来源、不要把旧信息当成最新信息、不要把社区猜测写成官方事实。这三条是 Goal 输出质量的红线。  第五条要点尤其关键：允许 Codex 主动继续，但安全边界内推进。这意味着用户需要预设 Acceptable Use Case，而不是全程微管理。 "
 resource: "https://x.com/i/status/2059309005839929349"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2059309005839929349"
-created: "2026-05-26"
-updated: "2026-06-26"
-sha256: "7fa4eb6f5f76395b391452c4f339337d2637eaeb4dd2fa203e33663f73f713bd"
-sources:
-  - "/sources/news/2026-05-26/00__Zesee__goal-边界控制清单-不要伪造来源-不要把旧信息当最新-不要进行无关扩展.md"
 ---
 
 # Goal 边界控制清单：不要伪造来源、不要把旧信息当最新、不要进行无关扩展

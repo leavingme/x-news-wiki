@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "向阳乔木警告：工具与 Skill 调用在实测中故障率高，部署需谨慎"
 description: "**一句话核心判断：** 多人在测 OpenClaw 生态时反馈工具链调用频繁失效，Skill 层承诺的「零门槛」尚未兑现。  **要点：** - 「工具和 skill 调用有问题」是实弹射击测试中暴露的，暗示工作流编排层尚未稳定 - Skill 生态扩张速度远超工程验证速度，存在严重的「功能宣传 vs 落地质量」落差 - 对于想用 OpenClaw 做生产级 Agent 部署的用户，当前节点仍处"
 resource: "https://x.com/i/status/2047590375632900501"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2047590375632900501"
-created: "2026-04-24"
-updated: "2026-06-26"
-sha256: "c185fb7079bdd3e76bcd1f0e8604f4a6caef3253d9db0895e97f5644d2dc0da0"
-sources:
-  - "/sources/news/2026-04-24/00__vista8__向阳乔木警告-工具与-skill-调用在实测中故障率高-部署需谨慎.md"
 ---
 
 # 向阳乔木警告：工具与 Skill 调用在实测中故障率高，部署需谨慎

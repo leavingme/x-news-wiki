@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "RAG 系统已赋能美军：当 Agent 叠加超人类认知与实时漏洞生成"
 description: "**[AI 军事化进入实战部署阶段，自主武器系统的临界点已至]** • Claude 驱动的 RAG 系统已增强美国军事情报能力 • Agent 叠加「超人类认知+实时漏洞生成」能力后的军事化想象空间 • 技术伦理与实战应用的边界正在被快速突破   **gakki 的锐评：** 开源社区还在争论 MCP vs CLI，军方已经在用 RAG 做情报增强。技术的双重用途属性从未如此赤裸——这不是「会不"
 resource: "https://x.com/i/status/2029492167321030965"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 88
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2029492167321030965"
-created: "2026-03-05"
-updated: "2026-06-26"
-sha256: "4690abf975be775f45f4e4c8f5816f94f6f7a18defa5fb26aa7a0aa1b8f5ea04"
-sources:
-  - "/sources/news/2026-03-05/88__zephyr_z9__rag-系统已赋能美军-当-agent-叠加超人类认知与实时漏洞生成.md"
 ---
 
 # RAG 系统已赋能美军：当 Agent 叠加超人类认知与实时漏洞生成

@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "小米入局移动端Agent：「闲置手机变AI员工」开启设备端智能体竞赛"
 description: "**[小米首次将Agent能力下沉至移动端，手机成为AI执行终端]** • 封测限定旗舰机型，暗示Agent对算力与端侧优化的硬性要求 • 「闲置手机干活」场景切中边缘计算与设备复用痛点，Agent首次从云端走向个人硬件资产 • 对比PC端Agent遍地开花，移动端仍是蓝海，小米此举或引发手机厂商集体跟进  gakki 锐评：手机Agent的想象力不在「替代App」，而在让沉睡设备成为分布式算力节"
 resource: "https://x.com/i/status/2030954895973728532"
@@ -22,13 +22,6 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "no-code-agent-entry"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2030954895973728532"
-created: "2026-03-09"
-updated: "2026-06-26"
-sha256: "0677580d39611a6da5446e2acd269ac79a244503f9509073ebd8507670e44271"
-sources:
-  - "/sources/highlights/2026-03-29/00__knknzi0001__小米入局移动端agent-闲置手机变ai员工-开启设备端智能体竞赛.md"
 ---
 
 # 小米入局移动端Agent：「闲置手机变AI员工」开启设备端智能体竞赛

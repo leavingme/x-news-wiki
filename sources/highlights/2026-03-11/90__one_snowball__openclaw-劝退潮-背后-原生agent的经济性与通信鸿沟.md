@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "OpenClaw「劝退潮」背后：原生Agent的经济性与通信鸿沟"
 description: "**[Agent落地第一公里的真实成本：一次爬取=20刀Token烧损]** - 痛点验证：「裸版」OpenClaw被用户实测为「Demo玩具」，真实场景下token消耗失控、平台限流封号频发 - 用户流失路径：高期待→上手→裸版缺陷→弃用或高价定制，形成典型的「AI工具采纳断崖」 - 解决思路：作者用现成工具零代码解决通信渠道和成本问题，暗示「OpenClaw生态缺口=第三方服务机会」 - 行业"
 resource: "https://x.com/i/status/2031551683960971639"
@@ -22,13 +22,6 @@ x_selected: 2
 x_priority: 90
 x_related_topic: "open-agent-ecosystem"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2031551683960971639"
-created: "2026-03-11"
-updated: "2026-06-26"
-sha256: "e37551f044e8b202cb8d5d981ce2d2b2a8e987b7106cb5c3a4f713cf90b02320"
-sources:
-  - "/sources/highlights/2026-03-11/90__one_snowball__openclaw-劝退潮-背后-原生agent的经济性与通信鸿沟.md"
 ---
 
 # OpenClaw「劝退潮」背后：原生Agent的经济性与通信鸿沟

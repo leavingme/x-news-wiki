@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Squeeze Evolve：贵模型只用在刀刃上，多阶段分级调度降本提效横扫六大基准"
 description: "**推理成本的分级调度范式正在成型——不是所有步骤都值得用顶级模型。**  - UC Berkeley/Stanford/Together AI 等提出 Squeeze Evolve 框架：强模型仅分配至高影响阶段，廉价模型处理其余环节，无需验证器即可提升多样性并大幅降低成本 - 覆盖 AIME 2025、LiveCodeBench V6、GPQA-Diamond、ARC-AGI-V2 等数学/编"
 resource: "https://x.com/i/status/2050061650095452574"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2050061650095452574"
-created: "2026-05-01"
-updated: "2026-06-26"
-sha256: "4626d77bdce285fcac3f22f7b6baa1b465d4ae175b122310751654a94096ff50"
-sources:
-  - "/sources/news/2026-05-01/00__jiqizhixin__squeeze-evolve-贵模型只用在刀刃上-多阶段分级调度降本提效横扫六大基准.md"
 ---
 
 # Squeeze Evolve：贵模型只用在刀刃上，多阶段分级调度降本提效横扫六大基准

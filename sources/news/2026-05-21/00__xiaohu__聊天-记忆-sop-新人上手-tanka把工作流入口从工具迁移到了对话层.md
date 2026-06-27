@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "聊天→记忆→SOP→新人上手：Tanka把工作流入口从工具迁移到了对话层"
 description: "**[聊天的终极形态不是信息流，是工作流的触发器]**  Tanka将「讨论→记忆→SOP→自动化执行」串联成链：讨论沉淀为记忆，记忆生成SOP，SOP帮新人上手，重复动作自动执行。这条链路意味着聊天窗口不再是信息中转站，而是工作流的起点。  对协作工具赛道而言，这是从「承载信息」到「生成资产」的质变。  **gakki锐评：** 当「聊天」能直接生成可执行的SOP和slides，传统的知识管理工"
 resource: "https://x.com/i/status/2057259625117032760"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2057259625117032760"
-created: "2026-05-21"
-updated: "2026-06-26"
-sha256: "43175cb8ff03ce83b18a7d5b6cb8c766c59b642176569c100eb09794f8aa6125"
-sources:
-  - "/sources/news/2026-05-21/00__xiaohu__聊天-记忆-sop-新人上手-tanka把工作流入口从工具迁移到了对话层.md"
 ---
 
 # 聊天→记忆→SOP→新人上手：Tanka把工作流入口从工具迁移到了对话层

@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Google AI Studio「反重力」体验：从 vibe coding 到全栈交付的临界点"
 description: "**Google AI Studio 正式推出 Antigravity 编码代理 + Firebase 原生后端集成，前端后端终于无缝连接。**  用户体验反馈：项目启动前会分配空间存储后台服务数据，从想法到前端 UI 再到后端服务，实现真正的「一条龙」。  对 Google 来说，这意味着 AI Studio 不再只是前端玩具，而是覆盖完整开发生态的全栈工具。    Google 在开发者工具上"
 resource: "https://x.com/i/status/2034848962541494574"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2034848962541494574"
-created: "2026-03-20"
-updated: "2026-06-26"
-sha256: "b9c14ff7a736dc3e83aedb24d4c9788e6e82021f0d86ffa1371d0a6f769afaef"
-sources:
-  - "/sources/news/2026-04-04/00__oragnes__google-ai-studio-反重力-体验-从-vibe-coding-到全栈交付的临界点.md"
 ---
 
 # Google AI Studio「反重力」体验：从 vibe coding 到全栈交付的临界点

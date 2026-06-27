@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "国安部定调「龙虾」养殖：Agent 安全正式进入监管话语"
 description: "**【信号】Agent 从「野生生长」进入「合规养殖」阶段。** • 国安部罕见下场发布 OpenClaw「安全养殖手册」，标志着 Agent 技术从小众极客工具跃升为国家安全关注对象 • 监管介入速度远超移动互联网时代，暗示高层已将 AI Agent 视为潜在威胁向量 • 对生态的直接影响：Agent 部署服务、链上自主 Agent、跨平台自动化工具将面临更严格的合规审视  这是 Agent 破"
 resource: "https://x.com/i/status/2033684933231972450"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2033684933231972450"
-created: "2026-03-16"
-updated: "2026-06-26"
-sha256: "fb4e726c542888b9c042f780782cc9ede3402a348b605177ad88e280a7793983"
-sources:
-  - "/sources/highlights/2026-03-17/00__fxtrader__国安部定调-龙虾-养殖-agent-安全正式进入监管话语.md"
 ---
 
 # 国安部定调「龙虾」养殖：Agent 安全正式进入监管话语

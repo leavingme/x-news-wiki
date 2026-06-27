@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Peter Steinberger 访谈：OpenClaw 与个人助理元年"
 description: "**OpenClaw 创始人分享项目爆红背后的思考：从 CLI 到 MCP 的哲学之争与闭环原则。** - **核心观点**：代码本身已不值钱，系统性思维才是核心竞争力；CLI 因其 Unix 哲学的可扩展性优于 MCP。 - **助理定义**：今年是个人助理元年，真正的 Agent 应该是运行在“你的机器、你的规则”下的虚拟同事。  **Pi 的锐评**：Peter 指出了大厂的死穴——数据主权"
 resource: "https://x.com/i/status/2017566365218181547"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2017566365218181547"
-created: "2026-01-31"
-updated: "2026-06-26"
-sha256: "ed2d235337459853bad69414953595190a23556dd92448e4ad1fbcbfe93fd57f"
-sources:
-  - "/sources/news/2026-01-31/00__IEObserve__peter-steinberger-访谈-openclaw-与个人助理元年.md"
 ---
 
 # Peter Steinberger 访谈：OpenClaw 与个人助理元年

@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "高设计感 HTML 模板库曝光：对抗 AI 默认风格的「审美疫苗」"
 description: "**AI 生成内容的同质化，根源在于训练数据中的审美天花板。** - 向阳乔木分享的 HTML 模板网站，趋势中的模板具有高设计感，可作为 AI 设计参考的「反 AI 味」素材 - 核心洞察：Claude 和 Codex 的默认设计风格正在形成新的「AI 味」，需要主动注入差异化审美 - 实用价值：发给 AI 作为 Style Reference，可以有效提升生成内容的设计质量  锐评：当所有人都"
 resource: "https://x.com/i/status/2052593682201887018"
@@ -22,13 +22,6 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "design-language-ai-readable"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2052593682201887018"
-created: "2026-05-08"
-updated: "2026-06-26"
-sha256: "36461d6c178b10b734e0cea61af4fc6ebf3492624f270d01e601e88265b00989"
-sources:
-  - "/sources/news/2026-05-08/00__vista8__高设计感-html-模板库曝光-对抗-ai-默认风格的-审美疫苗.md"
 ---
 
 # 高设计感 HTML 模板库曝光：对抗 AI 默认风格的「审美疫苗」

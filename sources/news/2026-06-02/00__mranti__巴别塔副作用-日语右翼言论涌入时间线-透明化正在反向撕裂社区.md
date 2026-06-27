@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "巴别塔副作用：日语右翼言论涌入时间线，透明化正在反向撕裂社区"
 description: "Michael Anti提出一个被忽视的推特翻译后果：马斯克推翻语言壁垒后，日本右翼言论堂而皇之进入精心筛选的信息流。人无法接受'太透明'的东西——全面翻译把原本隔离的信息噪音直接灌入高敏用户的时间线。信息透明≠信息质量，信息差有时是过滤器，不是壁垒。"
 resource: "https://x.com/i/status/2061637004371374572"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2061637004371374572"
-created: "2026-06-02"
-updated: "2026-06-26"
-sha256: "baf112e2edfff18f757cf88b63ca5ed54388027593fa1cc4ece7d2edfae48cd1"
-sources:
-  - "/sources/news/2026-06-02/00__mranti__巴别塔副作用-日语右翼言论涌入时间线-透明化正在反向撕裂社区.md"
 ---
 
 # 巴别塔副作用：日语右翼言论涌入时间线，透明化正在反向撕裂社区

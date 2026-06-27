@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "百度开源 Unlimited OCR：3B 参数 500M 激活，体积小到反常却强得离谱"
 description: "**百度把 OCR 做到了\"3B 跑出 7B 效果\"的极致，滑动注意力窗口是关键工程杠杆。**  - Unlimited OCR 仅 3B 总参 / 500M 激活（典型 MoE 形态），开源可直接部署 - 滑动窗口注意力是性能来源——长文档/票据场景下兼顾显存和长程依赖 - 作者疑似 DeepSeek 出走，延续了国产团队\"小而强\"的工程化打法  锐评：OCR 已是红海，但\"小模型 + 注意力优"
 resource: "https://x.com/i/status/2069211478368882789"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2069211478368882789"
-created: "2026-06-23"
-updated: "2026-06-26"
-sha256: "f652a9c5f014d3e178683a677171cc49f6bb54f661323b7943b661fdc2ddbb4f"
-sources:
-  - "/sources/news/2026-06-23/00__vista8__百度开源-unlimited-ocr-3b-参数-500m-激活-体积小到反常却强得离谱.md"
 ---
 
 # 百度开源 Unlimited OCR：3B 参数 500M 激活，体积小到反常却强得离谱

@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Codex 正在成为\"超级应用\"——编程工具的平台化扩张已无边界"
 description: "**[Codex 从 CLI 工具演变为全能平台，平台化整合趋势加速]**  铁锤人观察到 Codex 已支持广泛功能，将其定性为\"超级应用\"，并追问与 ChatGPT 合并时间点。这一观察背后是 AI 编程工具从单一功能向平台生态演进的实质性趋势。  要点： - 编程工具平台化整合：Codex 已突破传统 CLI 定位，功能边界持续扩张 - 入口统一化压力：用户对\"一个入口解决所有问题\"的诉求推"
 resource: "https://x.com/i/status/2062704551740993745"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2062704551740993745"
-created: "2026-06-05"
-updated: "2026-06-26"
-sha256: "78fbb4a9c962322ad58e1659682b2441795bfb2fad8c7756a80df7a56d328301"
-sources:
-  - "/sources/news/2026-06-05/00__lxfater__codex-正在成为-超级应用-编程工具的平台化扩张已无边界.md"
 ---
 
 # Codex 正在成为"超级应用"——编程工具的平台化扩张已无边界

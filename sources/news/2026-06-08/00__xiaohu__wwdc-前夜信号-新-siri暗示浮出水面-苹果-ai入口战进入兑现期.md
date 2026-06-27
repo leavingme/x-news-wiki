@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "WWDC 前夜信号：新 Siri暗示浮出水面，苹果 AI入口战进入兑现期"
 description: "**苹果用'暗示'而非'发布'的方式给 Siri2.0预热，节奏反常说明内部仍未 ready。**  -港版 iPhone 更新 iOS27 后 Siri 被降级（同期另一条推），暗示苹果在为新版 Siri 让路或清理 A/B 测试环境——典型的'拆东墙补西墙'工程节奏。 - 与去年 Apple Intelligence跳票争议对照：苹果 AI入口已不能再拖，iPhone17 / iOS27 是最"
 resource: "https://x.com/i/status/2063984739951022115"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2063984739951022115"
-created: "2026-06-08"
-updated: "2026-06-26"
-sha256: "c4f64afb1697b03a8924e0b5a9bf685994bb2d6521a38587dd3f3d918a9f97c9"
-sources:
-  - "/sources/news/2026-06-08/00__xiaohu__wwdc-前夜信号-新-siri暗示浮出水面-苹果-ai入口战进入兑现期.md"
 ---
 
 # WWDC 前夜信号：新 Siri暗示浮出水面，苹果 AI入口战进入兑现期

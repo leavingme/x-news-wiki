@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Google DeepMind 用 Gemini 重新想象鼠标：50 年交互范式的 AI 原生改造开始了"
 description: "**[一句话核心判断]**  Google DeepMind 在实验性 demo 里让 Gemini 直接接管屏幕感知，用手势、语音和自然语言短句驱动 AI——这不是 AR/VR 的新入口，是把\"屏幕\"本身变成 Agent 接口的范式转移预告。  **信息增量：** - 鼠标指针是 1974 年发明的交互原语，50 年没有本质变化；现在 AI 让它\"活\"了——可以理解屏幕内容、响应自然指令 - m"
 resource: "https://x.com/GoogleDeepMind/status/2054246119635300451"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "ai-trend-digest"
-type_okf: "X Tweet"
-source_url: "https://x.com/GoogleDeepMind/status/2054246119635300451"
-created: "2026-05-12"
-updated: "2026-06-26"
-sha256: "8d6e485bf78316f075f2d0614b83e5fdfdb969c6c14956aa8ced28e37f968a43"
-sources:
-  - "/sources/news/2026-05-12/00__GoogleDeepMind__google-deepmind-用-gemini-重新想象鼠标-50-年交互范式的-ai-原生改造开始了.md"
 ---
 
 # Google DeepMind 用 Gemini 重新想象鼠标：50 年交互范式的 AI 原生改造开始了

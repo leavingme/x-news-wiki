@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Kimi 2.6性价比屠榜：108项测试76项SOTA，小模型战场格局生变"
 description: "**Kimi 2.6发布，在小山评测的108项测试用例中拿下76项SOTA，刷新性价比基准。**  - 纯数字对比：76/108的SOTA率意味着Kimi 2.6在近70%的测试场景中处于领先位置，覆盖代码、推理、多语言等核心维度 - 价格锚点重置：\"最佳性价比\"标签若成立，意味着开发者在模型选型时不再只有Claude/GPT一条路，预算敏感型应用有了新出口 - 工程意义：小模型能稳定输出SOTA"
 resource: "https://x.com/i/status/2046344754200531126"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2046344754200531126"
-created: "2026-04-20"
-updated: "2026-06-26"
-sha256: "09bfb416016487dfad50c66ef7a5f1943ae4a928a5d4259c0dc2f4e84662c181"
-sources:
-  - "/sources/highlights/2026-04-21/00__oran_ge__kimi-2-6性价比屠榜-108项测试76项sota-小模型战场格局生变.md"
 ---
 
 # Kimi 2.6性价比屠榜：108项测试76项SOTA，小模型战场格局生变

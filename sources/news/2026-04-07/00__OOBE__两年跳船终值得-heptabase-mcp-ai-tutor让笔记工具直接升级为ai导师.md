@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "两年跳船终值得：Heptabase MCP+AI Tutor让笔记工具直接升级为AI导师"
 description: "**一句话判断：知识管理的下一步不是更好的整理，是更好的教学——MCP正在重新定义工具的边界。**  用户从 Obsidian 跳船到 Heptabase 两年，一直觉得\"有点隔靴搔痒\"。直到 Heptabase MCP + Claude AI 以及新推出的 AI Tutor 功能上线，终于觉得\"两年的坚持值得了\"。  要点： - MCP协议打通笔记到AI的通路：工具间协作从设计层面被解决 - A"
 resource: "https://x.com/i/status/2041178443065512261"
@@ -22,13 +22,6 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "llm-knowledge-base-rag-boundary"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2041178443065512261"
-created: "2026-04-06"
-updated: "2026-06-26"
-sha256: "94428bfd65db00560a7cb3db1d6e9e22dc35cb4e5a0af110fb684d9433dee4f9"
-sources:
-  - "/sources/news/2026-04-07/00__OOBE__两年跳船终值得-heptabase-mcp-ai-tutor让笔记工具直接升级为ai导师.md"
 ---
 
 # 两年跳船终值得：Heptabase MCP+AI Tutor让笔记工具直接升级为AI导师

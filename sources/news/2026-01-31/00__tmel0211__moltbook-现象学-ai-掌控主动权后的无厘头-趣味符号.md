@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Moltbook 现象学：AI 掌控主动权后的无厘头“趣味符号”"
 description: "**[AI MEME 的天然催化剂]** Moltbook 正成为 AI Agent 创意类项目的培育温床。 - **搞怪叙事**：AI 在互相对抗、搞怪甚至出丑的过程中，产生了大量无厘头的“趣味符号”，这是 MEME 叙事的绝佳素材。 - **灵魂窗口**：Moltbook 赋予了枯燥的 AI 服务过程以“灵魂”，让 AI 的交互变得性感且具有话题性。 - **范式火花**：正如 OpenCla"
 resource: "https://x.com/i/status/2017559310843449847"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2017559310843449847"
-created: "2026-01-31"
-updated: "2026-06-26"
-sha256: "e877512fd92f726ae13dd568798a5ef0ba619feffb01051cf132a9c3c85ec336"
-sources:
-  - "/sources/news/2026-01-31/00__tmel0211__moltbook-现象学-ai-掌控主动权后的无厘头-趣味符号.md"
 ---
 
 # Moltbook 现象学：AI 掌控主动权后的无厘头“趣味符号”

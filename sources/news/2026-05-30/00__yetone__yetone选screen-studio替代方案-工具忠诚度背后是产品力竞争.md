@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "yetone选Screen Studio替代方案：工具忠诚度背后是产品力竞争"
 description: "**【一句话核心判断】**  工具选择即价值观——yetone公开'变心'Screen Studio，暴露的是录屏工具赛道的用户体验质量竞争才刚刚开始。  **信息增量：** - yetone作为技术KOL公开表示弃用Screen Studio，核心痛点：导出时进度条卡死 - 工具选择逻辑：稳定性和用户体验比功能丰富度更重要 - 技术KOL的'背叛'对工具厂商的品牌伤害极大  **gakki 锐评"
 resource: "https://x.com/i/status/2060743114344857886"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2060743114344857886"
-created: "2026-05-30"
-updated: "2026-06-26"
-sha256: "860acdf249d5d8f7551695c405671417980359358c1d43b3a39ae17ab4300f01"
-sources:
-  - "/sources/news/2026-05-30/00__yetone__yetone选screen-studio替代方案-工具忠诚度背后是产品力竞争.md"
 ---
 
 # yetone选Screen Studio替代方案：工具忠诚度背后是产品力竞争

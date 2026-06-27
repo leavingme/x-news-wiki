@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "小红书AI对话：真人语料壁垒终于被平台自己端出来了"
 description: "**[国内最大真人语料池开始向AI开放，这是旅游美食垂类搜索的结构性变天]**  小红书上线AI对话功能，依托国内图文并茂的真实用户内容库做攻略搜索。真人语料+图文多模态，恰好是通用AI搜索一直啃不动的硬骨头。这是平台主动拆墙，而非被迫开源。  gakki锐评：语料即护城河——但护城河要不要自己拆，取决于商业化路径。小红书选择拆，说明AI搜索的威胁已经真实到让平台觉得\"与其被革命不如自己革\"。内容"
 resource: "https://x.com/i/status/2062093687870329181"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2062093687870329181"
-created: "2026-06-03"
-updated: "2026-06-26"
-sha256: "801ad9e1c96ad5380d3d7465cec0c0aef4f449e10c9e73f39f23f711ff89b4b9"
-sources:
-  - "/sources/news/2026-06-03/00__vista8__小红书ai对话-真人语料壁垒终于被平台自己端出来了.md"
 ---
 
 # 小红书AI对话：真人语料壁垒终于被平台自己端出来了

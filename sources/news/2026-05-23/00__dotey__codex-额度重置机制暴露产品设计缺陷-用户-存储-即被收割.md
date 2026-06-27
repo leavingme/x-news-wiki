@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Codex 额度重置机制暴露产品设计缺陷：用户\"存储\"即被收割"
 description: "**【一句话核心判断】**  Codex 额度不累积的机制，本质上是平台对用户\"延迟消费\"行为的隐性惩罚——你攒得越多，重置时损失越大。  **信息增量：** - 额度按周期重置，用户若在周期末未使用完即清零，这是典型的\"沉没成本陷阱\" - 大量用户反映被迫在周期末\"紧急消耗额度\"，催生了大量低质量批量任务 - OpenAI 尚未对额度设计方案做任何正式说明，透明度缺失  **影响分析：** - "
 resource: "https://x.com/i/status/2058301264992067603"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2058301264992067603"
-created: "2026-05-23"
-updated: "2026-06-26"
-sha256: "0a5db502db65afee811bfe237ce5cc0f0e32a5fb6ea8922b30a034e4e402a112"
-sources:
-  - "/sources/news/2026-05-23/00__dotey__codex-额度重置机制暴露产品设计缺陷-用户-存储-即被收割.md"
 ---
 
 # Codex 额度重置机制暴露产品设计缺陷：用户"存储"即被收割

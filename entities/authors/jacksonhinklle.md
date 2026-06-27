@@ -1,23 +1,17 @@
 ---
-type: "entity"
+type: "Author"
 title: "Jackson Hinkle 🇺🇸 (@jacksonhinklle)"
 description: "X/Twitter 作者 @jacksonhinklle。共收录 1 条 AI 精选推文。"
 tags:
   - "x-news"
   - "author"
   - "author:jacksonhinklle"
-timestamp: "2026-06-26T11:53:36.998Z"
+timestamp: "2026-06-27T08:40:40.213Z"
 x_handle: "jacksonhinklle"
 x_author_name: "Jackson Hinkle 🇺🇸"
 x_tweet_count: 1
 x_first_seen: "2026-05-09T19:17:37.621Z"
 x_last_seen: "2026-05-09T19:17:37.621Z"
-type_okf: "Author"
-created: "2026-05-09"
-updated: "2026-06-26"
-sha256: "83f000367f8bbf5a384f0bee493bac2217b8b8c0593342481a9a30973c6d22b0"
-sources:
-  - "/sources/news/2026-05-09/00__jacksonhinklle__全球南方拥抱中国开源-ai-技术扩散正在重塑地缘竞争的衡量标准.md"
 ---
 
 # Jackson Hinkle 🇺🇸 (@jacksonhinklle)

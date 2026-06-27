@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "玉伯借硬件创业五步死法拆解 AI 产品：大部分死在前三步，LLM 大厂也逃不出第五步"
 description: "**AI 产品的失败模式和硬件创业惊人地一致——技术只是入场券，成本结构才是终局。**  - 俞浩提出的硬件创业五步死法：需求搞错、产品做不出、卖不出去、没溢价、成本太高不赚钱 - 玉伯指出 AI 软件产品完全遵循同一规律：绝大部分卡死在前三个原因，少数穿越火线的产品被第五步（成本）卡住，包括 LLM 大厂 - 暗示了 AI 产品的真实竞争维度不是模型能力，而是「需求 × 产品力 × 成本」的乘积"
 resource: "https://x.com/i/status/2050933863049039981"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2050933863049039981"
-created: "2026-05-03"
-updated: "2026-06-26"
-sha256: "bf9a09d03a721b609852a40a0a82ec47820f811f6d7026a919e9196b4d14add3"
-sources:
-  - "/sources/news/2026-05-03/00__lifesinger__玉伯借硬件创业五步死法拆解-ai-产品-大部分死在前三步-llm-大厂也逃不出第五步.md"
 ---
 
 # 玉伯借硬件创业五步死法拆解 AI 产品：大部分死在前三步，LLM 大厂也逃不出第五步

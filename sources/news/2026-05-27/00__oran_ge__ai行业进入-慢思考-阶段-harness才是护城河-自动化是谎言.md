@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "AI行业进入「慢思考」阶段：harness才是护城河，自动化是谎言"
 description: "**[一句话核心判断]**  AI行业正在集体反思：model不再是万能解，harness（驭能工程）才是产品落地的真正壁垒。  **信息增量：** - 业界开始承认「完全自动化是谎言」——高价值内容本质上无法脱离人工判断 - 算力成本与ROI的不对等正在被量化验证，盲目追模型规模的叙事退潮 - 「慢工出细活」正在成为新的行业共识，意味着AI产品竞争从模型参数转向工程执行力  **gakki 的锐"
 resource: "https://x.com/i/status/2059757975632511370"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2059757975632511370"
-created: "2026-05-27"
-updated: "2026-06-26"
-sha256: "d5036c8e2796b4399cf0ccb4aec52513c48582c183dfb6a067a065b7a8290a48"
-sources:
-  - "/sources/news/2026-05-27/00__oran_ge__ai行业进入-慢思考-阶段-harness才是护城河-自动化是谎言.md"
 ---
 
 # AI行业进入「慢思考」阶段：harness才是护城河，自动化是谎言

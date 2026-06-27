@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "豆包手机团队招设计工程师：字节 AI 硬件仍在扩编"
 description: "**[豆包手机团队仍在招兵买马,字节 AI 硬件路线未见收缩信号]**  - 宝玉转发豆包手机团队招聘信息,岗位为设计工程师 - 字节在豆包大模型之外,同步推进 AI 硬件载体(手机/穿戴),团队持续扩编说明项目处于执行期而非概念阶段 - 同期 WWDC 在即,Apple Intelligence 路线与国产 AI 硬件化形成正面交锋   gakki 锐评:这条推文信息量有限,但在一个低信息量批次"
 resource: "https://x.com/i/status/2064069492850708484"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2064069492850708484"
-created: "2026-06-08"
-updated: "2026-06-26"
-sha256: "44be914b83b1a58770830cfe43a6cee41526f9c1c01e52f6acb4536b213bf2df"
-sources:
-  - "/sources/news/2026-06-08/00__dotey__豆包手机团队招设计工程师-字节-ai-硬件仍在扩编.md"
 ---
 
 # 豆包手机团队招设计工程师：字节 AI 硬件仍在扩编

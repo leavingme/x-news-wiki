@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "MiniMax正式开源Skills套件：国产大模型打响Agent技能化「跟进战」"
 description: "**[国内厂商正式入局Agent技能生态]** • MiniMax开源开发与办公两大类Skills，覆盖前端、全栈、移动端及Office三件套 • 与Anthropic、OpenAI的Skills形成直接对比，开发者可横向评估不同厂商技能质量 • 标志着Skills/MCP范式正从硅谷单点扩散为全球基础设施竞赛  **gakki锐评：** 当MiniMax都开始做Skills，说明Agent技能化"
 resource: "https://x.com/i/status/2035729570343903284"
@@ -22,13 +22,6 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "claude-code-ecosystem"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2035729570343903284"
-created: "2026-03-22"
-updated: "2026-06-26"
-sha256: "014d4ed34801e9edacfe3ba0e8d4573254a1319c857305819b10b81d72b62f9a"
-sources:
-  - "/sources/highlights/2026-03-23/00__shao__meng__minimax正式开源skills套件-国产大模型打响agent技能化-跟进战.md"
 ---
 
 # MiniMax正式开源Skills套件：国产大模型打响Agent技能化「跟进战」

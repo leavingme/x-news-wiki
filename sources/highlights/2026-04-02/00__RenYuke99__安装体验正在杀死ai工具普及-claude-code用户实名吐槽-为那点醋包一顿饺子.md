@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "安装体验正在杀死AI工具普及：Claude Code用户实名吐槽「为那点醋包一顿饺子」"
 description: "**一句话核心判断：AI工具的「最后一公里」不是模型能力，而是安装配置的摩擦成本——这个认知鸿沟正在系统性地排斥80%的潜在用户。**  → 用户实测：即使具备Linux运维背景，安装Claude Code和OpenClaw仍需跨越账号、网络、配置三重大山 → 「用户只是想去体验试着去学习，但前期投入成本就劝退80%以上的人」——这是典型的「技术傲慢」产品设计 → 核心矛盾：工具设计逻辑仍以「工程"
 resource: "https://x.com/i/status/2039690978433585556"
@@ -22,13 +22,6 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "no-code-agent-entry"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2039690978433585556"
-created: "2026-04-02"
-updated: "2026-06-26"
-sha256: "2c4f8ad85bde80d5e09178164d6a4c35b81959c4c1118af42c25a4e4b3f8c2b1"
-sources:
-  - "/sources/highlights/2026-04-02/00__RenYuke99__安装体验正在杀死ai工具普及-claude-code用户实名吐槽-为那点醋包一顿饺子.md"
 ---
 
 # 安装体验正在杀死AI工具普及：Claude Code用户实名吐槽「为那点醋包一顿饺子」

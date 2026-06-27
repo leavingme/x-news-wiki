@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "独立开发者的信息差红利：月入万刀并不稀有，出海SEO才是分水岭"
 description: "**[出海独立开发者的真实收入图景]**  铁锤人在评论中透露，他接触到的月入万刀独立开发者不在少数，并指出这些人并非天才，只是普遍做了中转站或出海SEO。这一判断揭示了一个重要信号：独立开发变现的核心竞争力不是技术稀缺性，而是流量获取路径的差异。  中转站作为中间层承担了信用和分发功能，而出海SEO则解决了用户触达问题——这两者叠加构成了可复制的收入公式。"
 resource: "https://x.com/i/status/2057780938642493759"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2057780938642493759"
-created: "2026-05-22"
-updated: "2026-06-26"
-sha256: "caa7e54e07584f2feca4f0b34ecca19f6cf08e4d0f3afcc1980be573fd77ff03"
-sources:
-  - "/sources/news/2026-05-22/00__lxfater__独立开发者的信息差红利-月入万刀并不稀有-出海seo才是分水岭.md"
 ---
 
 # 独立开发者的信息差红利：月入万刀并不稀有，出海SEO才是分水岭

@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "OpenClaw 破冰：00后小登正在接管AI变现的线下战场"
 description: "**[Agent生态从线上卷到线下]** • 清北哈工大00后聚集，已有年薪百万的「大佬幼年体」出结果 • 主题聚焦OpenClaw变现，社群首次线下活动，执行力筛选机制（仅朋友圈+社群通知） • 信号：年轻技术精英正围绕开源Agent基础设施建立新圈层，代际权力转移加速  免费奶茶是门槛，执行力才是门票。"
 resource: "https://x.com/i/status/2035202794420863347"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2035202794420863347"
-created: "2026-03-21"
-updated: "2026-06-26"
-sha256: "170575a169491d5efa7862644a51072e173c64a3581c3fccced330badf25fcc1"
-sources:
-  - "/sources/highlights/2026-03-21/00__Leobai825__openclaw-破冰-00后小登正在接管ai变现的线下战场.md"
 ---
 
 # OpenClaw 破冰：00后小登正在接管AI变现的线下战场

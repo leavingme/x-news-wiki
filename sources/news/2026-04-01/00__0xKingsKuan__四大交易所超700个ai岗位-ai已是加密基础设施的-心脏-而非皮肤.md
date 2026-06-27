@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "四大交易所超700个AI岗位：AI已是加密基础设施的「心脏」而非皮肤"
 description: "**OKX 378+岗位 vs Binance 364+岗位：AI正在从实验变成生产级系统**  OKX重砸AI反欺诈和交易引擎，Binance押注AI+Web3钱包+全球支付。两家的共同信号：AI在加密交易所的角色正在从「功能插件」升级为「核心基础设施」。OKX的「AI反欺诈」职位量尤其值得关注——这意味着AI风控已经从「规则引擎」转向「大模型实时判断」，是AI Agents实际执行金融决策的里"
 resource: "https://x.com/i/status/2039195074979045731"
@@ -22,13 +22,6 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "ai-crypto-agent-infra"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2039195074979045731"
-created: "2026-04-01"
-updated: "2026-06-26"
-sha256: "df65acd0a1f9026c9a56c93f904186ee5efcadf0d7e6123f4dc3f87993fc1c70"
-sources:
-  - "/sources/news/2026-04-01/00__0xKingsKuan__四大交易所超700个ai岗位-ai已是加密基础设施的-心脏-而非皮肤.md"
 ---
 
 # 四大交易所超700个AI岗位：AI已是加密基础设施的「心脏」而非皮肤

@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "复旦+NUS+上海期智研究院推出World Action Models：机器人开始具备「先想象再行动」的预测规划能力"
 description: "**[机器人终于学会「先想再做」了]**  WAMs（World Action Models）由复旦、NUS、上海期智研究院联合提出，核心创新在于将预测性世界模型与动作生成合一，让机器人通过模拟环境演化来规划行动，而非单纯被动反应。在物理推理和动作可信度上均超越传统VLA模型。  信息增量：这是具身智能从「反应式」到「预测式」的关键范式转折——真正把世界模型从学术概念落地到机器人运动规划。  影响"
 resource: "https://x.com/i/status/2060930266235875724"
@@ -22,13 +22,6 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "textop-humanoid-robot"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2060930266235875724"
-created: "2026-05-31"
-updated: "2026-06-26"
-sha256: "63ce05b11b8bcdaf4153a10954d8bab38b7c743865dbdc953de518986d6c35df"
-sources:
-  - "/sources/news/2026-05-31/00__jiqizhixin__复旦-nus-上海期智研究院推出world-action-models-机器人开始具备-先想象再行动-的预测规划能力.md"
 ---
 
 # 复旦+NUS+上海期智研究院推出World Action Models：机器人开始具备「先想象再行动」的预测规划能力

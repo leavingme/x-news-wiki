@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "币安押注 AI Agent：加密与智能体的交汇点"
 description: "**[交易所入场，Agent 金融基础设施化加速]**  • 币安为「AI Agent 铺路」暗示加密货币与 AI 经济的融合——Agent 的支付/交易需求 • 可能涉及 Agent 的链上身份、自动化交易、收益管理等场景 • 加密 infra 与 AI Agent 的交集正在从概念走向落地  当交易所开始为 Agent 建基础设施，「Agent 经济」不再只是叙事，而是即将产生真实交易量和手续"
 resource: "https://x.com/i/status/2028880252110553412"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2028880252110553412"
-created: "2026-03-03"
-updated: "2026-06-26"
-sha256: "62c80007becee67ec13d47b37c79a653344ffbdd9f6b072a1116e47e6d5c9ea2"
-sources:
-  - "/sources/news/2026-03-04/00__heyibinance__币安押注-ai-agent-加密与智能体的交汇点.md"
 ---
 
 # 币安押注 AI Agent：加密与智能体的交汇点

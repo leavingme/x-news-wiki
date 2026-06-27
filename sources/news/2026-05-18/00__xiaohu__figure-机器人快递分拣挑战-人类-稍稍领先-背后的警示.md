@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Figure 机器人快递分拣挑战：人类「稍稍领先」背后的警示"
 description: "**【一句话核心判断】** 快递分拣这类结构化劳动已接近人机平价，但「稍稍领先」的措辞本身就说明了竞赛已到终点线。  **信息增量：** - Figure 机器人直播挑战快递分拣，人类仅微弱优势——这是具身 AI 商业化临界点的可视化证据 - 「稍稍领先」暗示人类已无速度优势，仅存灵活性/异常处理优势，且优势在收窄 - 对就业市场信号：物流履约环节的自动化窗口已开，剩余时间窗口以月计而非年计  *"
 resource: "https://x.com/i/status/2056172740873511139"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2056172740873511139"
-created: "2026-05-18"
-updated: "2026-06-26"
-sha256: "54071ccd733fd0f87727e42dca59d2c97cc7f2243bd12fd60719a0116fc9ab41"
-sources:
-  - "/sources/news/2026-05-18/00__xiaohu__figure-机器人快递分拣挑战-人类-稍稍领先-背后的警示.md"
 ---
 
 # Figure 机器人快递分拣挑战：人类「稍稍领先」背后的警示

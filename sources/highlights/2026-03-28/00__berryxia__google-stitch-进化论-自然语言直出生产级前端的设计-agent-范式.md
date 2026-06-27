@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Google Stitch 进化论：自然语言直出生产级前端的设计 Agent 范式"
 description: "**[设计-开发链路被压缩为单点交互]** • 上下文感知设计 Agent 可直接对话迭代，PRD 到代码的转换链路缩短 80%+ • DESIGN.md 可导出导入，暗示设计系统将向「可迁移的 Agent 指令集」演变 • 多模态输入（文字/图片/代码）降低非技术用户的原型门槛  gakki：设计工具的 Agent-Native 化已越过「辅助」阶段，进入「替代中间层」的深水区——Figma 的"
 resource: "https://x.com/i/status/2034401048446824952"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2034401048446824952"
-created: "2026-03-18"
-updated: "2026-06-26"
-sha256: "f22cf6bfc488f88b49899b7fdbfa39a5d9e0260486c9cfbe4fe4acb0032f1b2f"
-sources:
-  - "/sources/highlights/2026-03-28/00__berryxia__google-stitch-进化论-自然语言直出生产级前端的设计-agent-范式.md"
 ---
 
 # Google Stitch 进化论：自然语言直出生产级前端的设计 Agent 范式

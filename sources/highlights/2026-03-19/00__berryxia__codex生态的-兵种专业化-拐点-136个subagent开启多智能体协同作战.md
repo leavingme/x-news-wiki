@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Codex生态的「兵种专业化」拐点：136个Subagent开启多智能体协同作战"
 description: "**【多智能体工程从概念走向生产级实践】** • Codex官方生态首次系统化输出136+个专业Subagent，覆盖Core Dev、安全审计、Data&AI等10大场景，标志Agent开发从「单兵硬刚」进入「专业兵种协同」阶段 • 每个Subagent拥有独立上下文与专属指令集（.toml配置），实现「上下文零污染」的精准任务委托 • 这一架构演进意味着：未来优秀工程师的核心能力将是「编排思维"
 resource: "https://x.com/i/status/2034406546575389057"
@@ -22,13 +22,6 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "sub-agents-multi-expert"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2034406546575389057"
-created: "2026-03-18"
-updated: "2026-06-26"
-sha256: "676c4321c857a5cd72b315146975933cf353ba46e2986484799745500782515e"
-sources:
-  - "/sources/highlights/2026-03-19/00__berryxia__codex生态的-兵种专业化-拐点-136个subagent开启多智能体协同作战.md"
 ---
 
 # Codex生态的「兵种专业化」拐点：136个Subagent开启多智能体协同作战

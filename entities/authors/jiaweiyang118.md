@@ -1,23 +1,17 @@
 ---
-type: "entity"
+type: "Author"
 title: "Jiawei Yang (@JiaweiYang118)"
 description: "X/Twitter 作者 @JiaweiYang118。共收录 1 条 AI 精选推文。"
 tags:
   - "x-news"
   - "author"
   - "author:JiaweiYang118"
-timestamp: "2026-06-26T11:53:36.993Z"
+timestamp: "2026-06-27T08:40:40.207Z"
 x_handle: "JiaweiYang118"
 x_author_name: "Jiawei Yang"
 x_tweet_count: 1
 x_first_seen: "2026-05-01T07:17:35.193Z"
 x_last_seen: "2026-05-01T07:17:35.193Z"
-type_okf: "Author"
-created: "2026-05-01"
-updated: "2026-06-26"
-sha256: "bb91d12d947a56bf4598980eb09d7dfeaa1a172886a838dd1f3f613614942961"
-sources:
-  - "/sources/highlights/2026-05-01/00__JiaweiYang118__单步扩散突破-0-75-fid-极限-直接优化目标函数的算法红利来了.md"
 ---
 
 # Jiawei Yang (@JiaweiYang118)

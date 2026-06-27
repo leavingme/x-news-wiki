@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Orange AI拆解《无穷的开始》：AI创造力是时间问题，「可持续发展」反而是认知陷阱"
 description: "**一本被AI圈反复引用的哲学书，今天终于有人用AI视角拆出了核心论点。**  - 人类进步的引擎是「好的解释」——难以随意改变的那种，知识来自猜想与反驳 - AI具备真正创造力只是时间问题，因为创造力的本质就是知识生成 - 最反直觉的观点：「可持续发展」是陷阱，真正的可持续是持续创新  gakki锐评：当AI社区开始用波普尔的框架理解模型能力边界时，说明行业正在从工程焦虑转向认知自觉。这本书的信"
 resource: "https://x.com/i/status/2050175148465270794"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2050175148465270794"
-created: "2026-05-01"
-updated: "2026-06-26"
-sha256: "d8bc717493cb3bd176b6771bb4205db48bf9b39adf140b586ce5aa12a7b9d9c0"
-sources:
-  - "/sources/news/2026-05-01/00__oran_ge__orange-ai拆解-无穷的开始-ai创造力是时间问题-可持续发展-反而是认知陷阱.md"
 ---
 
 # Orange AI拆解《无穷的开始》：AI创造力是时间问题，「可持续发展」反而是认知陷阱

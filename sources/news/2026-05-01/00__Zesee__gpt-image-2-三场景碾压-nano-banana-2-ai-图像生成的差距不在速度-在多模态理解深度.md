@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "GPT Image 2 三场景碾压 Nano Banana 2：AI 图像生成的差距不在速度，在多模态理解深度"
 description: "**GPT Image 2 vs Nano Banana 2 的实测对比，精准揭示了图像生成模型真正的护城河是「先理解再执行」的规划能力。**  - 中文诗词场景：GPT Image 2 繁体字清晰可辨、意境完整；Banana 直接放弃文字，生成纯山水图 - 电商图：GPT 生成的 Logo/文案/视觉层级精准；Banana 背景杂乱、文字压图 - 朋友圈截图：GPT 光影自然、评论区交互真实；B"
 resource: "https://x.com/i/status/2050167635120210136"
@@ -22,13 +22,6 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "ai-content-authenticity"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2050167635120210136"
-created: "2026-05-01"
-updated: "2026-06-26"
-sha256: "1c12e6cbb031b0f6b27f2902b1417e458287b52986edb36a3b2da6ecb0a7cd2d"
-sources:
-  - "/sources/news/2026-05-01/00__Zesee__gpt-image-2-三场景碾压-nano-banana-2-ai-图像生成的差距不在速度-在多模态理解深度.md"
 ---
 
 # GPT Image 2 三场景碾压 Nano Banana 2：AI 图像生成的差距不在速度，在多模态理解深度

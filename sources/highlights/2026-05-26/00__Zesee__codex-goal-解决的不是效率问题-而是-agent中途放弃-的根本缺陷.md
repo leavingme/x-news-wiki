@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Codex Goal 解决的不是效率问题，而是「Agent中途放弃」的根本缺陷"
 description: "**一句话核心判断：Goal 将 Codex 从「一问一答」的玩具级工具，升级为真正能执行复杂多步骤任务的持续性 Agent。**  普通对话中 Agent 做完第一段就停，或下一轮忘记前面目标，这是 Codex 在复杂任务上的致命短板。Goal 的核心价值在于把「最终要完成什么」固定在任务上下文里，让 Codex 能持续拆解、执行、检查、推进，而不是每轮都等你发指令。  这意味着：调研、代码修改"
 resource: "https://x.com/i/status/2059308971786408405"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2059308971786408405"
-created: "2026-05-26"
-updated: "2026-06-26"
-sha256: "e555fa5e278fd4078fa38ab0e72573308ea8e3c6e9d269061568175362117a2c"
-sources:
-  - "/sources/highlights/2026-05-26/00__Zesee__codex-goal-解决的不是效率问题-而是-agent中途放弃-的根本缺陷.md"
 ---
 
 # Codex Goal 解决的不是效率问题，而是「Agent中途放弃」的根本缺陷

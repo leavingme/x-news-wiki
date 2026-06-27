@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Cursor Composer 2.5 演示：Agentic Coding 又一个\"会干活\"的选手入场"
 description: "**Cursor 拿出 Composer 2.5，进一步坐实\"AI Coding 不是单点工具而是 Agent 编排战场\"这一判断。**  - 宝玉分享的演示显示，Composer 2.5 已具备跨文件多轮编辑+自检的工程能力，Cursor 从\"代码补全 IDE\"彻底转向\"Agent 协作平台\"。 - 这次更新叠加 Claude Code 迭代与 Codex CLI 进展，三方在企业级 Agent"
 resource: "https://x.com/i/status/2063514857949831523"
@@ -22,13 +22,6 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "ai-coding-market-divergence"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2063514857949831523"
-created: "2026-06-07"
-updated: "2026-06-26"
-sha256: "4d9613d0aed579685f67abefdbf19288f82e466cd44a276b066714dd0a54431a"
-sources:
-  - "/sources/news/2026-06-07/00__dotey__cursor-composer-2-5-演示-agentic-coding-又一个-会干活-的选手入场.md"
 ---
 
 # Cursor Composer 2.5 演示：Agentic Coding 又一个"会干活"的选手入场

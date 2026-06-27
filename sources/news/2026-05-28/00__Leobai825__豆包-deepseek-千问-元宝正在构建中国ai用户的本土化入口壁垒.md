@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "豆包/DeepSeek/千问/元宝正在构建中国AI用户的本土化入口壁垒"
 description: "**[用户用脚投票揭示的模型选择逻辑]**  天策明确表示只用豆包、DeepSeek、千问、元宝，从不用Claude/GPT/Gemini。这不是单一用户偏好——结合Michael Anti请开书单抵抗AI短剧侵袭的诉求，一个清晰的信号是：中国AI用户正在形成独立的工具选择闭环，本土模型在日常场景的渗透率已足够支撑起「不用翻墙模型」的用户心智。  **信息增量：** 天策的选择代表了一个正在扩大的"
 resource: "https://x.com/i/status/2059932732336054760"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2059932732336054760"
-created: "2026-05-28"
-updated: "2026-06-26"
-sha256: "2266158e2be41a0df0ea9b3370ca0a68a76d92f7357d9d6e1c21c62f4bf06e40"
-sources:
-  - "/sources/news/2026-05-28/00__Leobai825__豆包-deepseek-千问-元宝正在构建中国ai用户的本土化入口壁垒.md"
 ---
 
 # 豆包/DeepSeek/千问/元宝正在构建中国AI用户的本土化入口壁垒

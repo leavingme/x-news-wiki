@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Google Gemini 3.5 Live Translate 上线：实时语音翻译把\"学外语\"重新定价"
 description: "**Google 把\"实时语音翻译\"做成了开箱即用的消费级产品，语言学习的必要性正被结构性打折。**  - Gemini 3.5 Live Translate 支持 70+ 语言实时双向语音翻译，保留原声语调与节奏 - Google Translate app 全球上线，Android 无需耳机即可贴耳接听 - 对外语教育、语言培训、出国翻译设备市场形成长期替代压力   gakki 锐评：这并非 "
 resource: "https://x.com/i/status/2064469084066959481"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2064469084066959481"
-created: "2026-06-09"
-updated: "2026-06-26"
-sha256: "3ea3df7326b72f8a27e826411ebe6c78da087d554a6c19c230c97f62391e349b"
-sources:
-  - "/sources/news/2026-06-09/00__gkxspace__google-gemini-3-5-live-translate-上线-实时语音翻译把-学外语-重新定价.md"
 ---
 
 # Google Gemini 3.5 Live Translate 上线：实时语音翻译把"学外语"重新定价

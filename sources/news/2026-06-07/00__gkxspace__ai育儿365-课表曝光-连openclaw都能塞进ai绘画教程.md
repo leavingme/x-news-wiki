@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "\"AI育儿365\"课表曝光：连OpenClaw都能塞进AI绘画教程"
 description: "**[一句话核心判断]** AI焦虑已下沉到育儿赛道，内容农场式卖课把\"OpenClaw+AI绘画\"这种荒诞组合打包卖给家长。  -课表内容显示：2026年AI焦虑已卷到\"不学AI对不起孩子\"的家长心理层面。 -典型荒诞点：把\"OpenClaw的AI绘画工具教程\"塞进课程——OpenClaw本就与AI绘画无关，纯粹是卖课人对AI生态一无所知的拼贴。 -行业信号：看懂/看不懂的边界已经不重要，\"看不"
 resource: "https://x.com/i/status/2063628519721013362"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2063628519721013362"
-created: "2026-06-07"
-updated: "2026-06-26"
-sha256: "e54c07fc6c098b88ea5fa1032157c54bbee61d3fa1a65c83fa233fc963040d4b"
-sources:
-  - "/sources/news/2026-06-07/00__gkxspace__ai育儿365-课表曝光-连openclaw都能塞进ai绘画教程.md"
 ---
 
 # "AI育儿365"课表曝光：连OpenClaw都能塞进AI绘画教程

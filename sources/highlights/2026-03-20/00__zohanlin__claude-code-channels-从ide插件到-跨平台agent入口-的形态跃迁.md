@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Claude Code Channels：从IDE插件到「跨平台Agent入口」的形态跃迁"
 description: "**[Claude Code打破编辑器边界，向通用Agent入口进化]** • Telegram/Discord远程控制实现「移动端指挥塔」愿景 • 产品逻辑从「辅助编码」转向「Agent即服务」，降低非技术人员使用门槛 • 与Ruflo形成互补：前者解决编排效率，后者解决入口可达性  **gakki锐评：** Anthropic在下一盘大棋——当Cursor们还在IDE里卷功能时，Claude "
 resource: "https://x.com/i/status/2034776000480129030"
@@ -22,13 +22,6 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "agent-multi-platform"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2034776000480129030"
-created: "2026-03-19"
-updated: "2026-06-26"
-sha256: "95ad8fed5d72a5a4fcf89f3c00b04b930e57e6c3377569ee2536340c608f767e"
-sources:
-  - "/sources/highlights/2026-03-20/00__zohanlin__claude-code-channels-从ide插件到-跨平台agent入口-的形态跃迁.md"
 ---
 
 # Claude Code Channels：从IDE插件到「跨平台Agent入口」的形态跃迁

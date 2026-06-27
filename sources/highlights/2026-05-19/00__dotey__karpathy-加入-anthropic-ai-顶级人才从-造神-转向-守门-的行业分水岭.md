@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Karpathy 加入 Anthropic：AI 顶级人才从「造神」转向「守门」的行业分水岭"
 description: "**一句话核心判断：** Andrej Karpathy 加入 Anthropic，标志着 AI 顶级人才从「模型能力军备竞赛」向「AI 安全与对齐研究」的战略大迁徙。  **信息增量：** - Karpathy 是深度学习界「祖师爷」级别人物，曾主导特斯拉 Autopilot、创办 OpenAI 教育部、回 OpenAI 任职——其每一次选择都是行业风向标 - 加入 Anthropic 而非 O"
 resource: "https://x.com/i/status/2056758623338942530"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2056758623338942530"
-created: "2026-05-19"
-updated: "2026-06-26"
-sha256: "6f3606cdf0ed7f55ede7fa321607fe97ba272bb4e9d99d3317ac8072d1caa87d"
-sources:
-  - "/sources/highlights/2026-05-19/00__dotey__karpathy-加入-anthropic-ai-顶级人才从-造神-转向-守门-的行业分水岭.md"
 ---
 
 # Karpathy 加入 Anthropic：AI 顶级人才从「造神」转向「守门」的行业分水岭

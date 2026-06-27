@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "AI 时代极简商业模型：一切归结为「造 Token 和卖 Token」"
 description: "**天策用一句话概括 AI 时代的商业本质：所有角色只承担两种功能——造 Token 和卖 Token。**  - 这是对 AI 产业价值链的极端抽象，但精准击中了 Token 经济学的核心逻辑 - 无论是模型推理、Agent 工具、还是内容生成，最终都收敛到 Token 的生产和分发 - 与 NVIDIA 的 Token 经济叙事、Agent 经济自主权形成互文  gakki 锐评：这个框架的危"
 resource: "https://x.com/i/status/2051309481619841381"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2051309481619841381"
-created: "2026-05-04"
-updated: "2026-06-26"
-sha256: "76d687a58b52ebab8a8075096df181c09da771901d48745ef524119ec06637ad"
-sources:
-  - "/sources/news/2026-05-04/00__Leobai825__ai-时代极简商业模型-一切归结为-造-token-和卖-token.md"
 ---
 
 # AI 时代极简商业模型：一切归结为「造 Token 和卖 Token」

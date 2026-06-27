@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "链上 PVP 即将人机对战：AI 交易代理的实战化临界点"
 description: "**链上交易进入「人机对抗」时代，策略成为唯一护城河。**  • XXYY 开放 API 支持无钥交易，通过 MCP 协议实现本地化 AI 部署 • 已实现自动扫列表+关键字匹配，路线图包含推特监控、二圣跟单等高级策略 • 风险提示显性化：AI 本身存在安全风险，需使用小号隔离资金   当技术门槛被「一键部署」抹平，交易策略的 alpha 价值将碾压工具能力。下一步是策略市场的分层与 IP 化。"
 resource: "https://x.com/i/status/2032504880729100288"
@@ -22,13 +22,6 @@ x_selected: 2
 x_priority: 88
 x_related_topic: "ai-crypto-agent-infra"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2032504880729100288"
-created: "2026-03-13"
-updated: "2026-06-26"
-sha256: "997ae0199250359317da770c921ba14cf5affaf74691e8e91827307ec6cdd2d8"
-sources:
-  - "/sources/highlights/2026-03-14/88__zzzzzeroooo__链上-pvp-即将人机对战-ai-交易代理的实战化临界点.md"
 ---
 
 # 链上 PVP 即将人机对战：AI 交易代理的实战化临界点

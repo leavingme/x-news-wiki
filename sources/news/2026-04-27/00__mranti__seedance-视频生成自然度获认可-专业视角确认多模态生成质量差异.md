@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Seedance 视频生成自然度获认可：专业视角确认多模态生成质量差异"
 description: "**[Seedance 在专业圈层验证自然度领先]**  Michael Anti 从专业创作者视角确认 Seedance 在视频生成自然度上优于竞品。与此前「GPT Image V2 + Seedance V2 故事板系统提示词泄露」的信息形成呼应——Seedance 正在从技术自证转向圈层口碑扩散。  **影响：** 视频生成领域的多模型竞争格局尚未定型，Seedance 若能持续积累「圈内人"
 resource: "https://x.com/i/status/2048794177924948043"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2048794177924948043"
-created: "2026-04-27"
-updated: "2026-06-26"
-sha256: "1a8e4305dcd34f619066a6369aedd208ca9cc65e93ed31e4d89193da63772619"
-sources:
-  - "/sources/news/2026-04-27/00__mranti__seedance-视频生成自然度获认可-专业视角确认多模态生成质量差异.md"
 ---
 
 # Seedance 视频生成自然度获认可：专业视角确认多模态生成质量差异

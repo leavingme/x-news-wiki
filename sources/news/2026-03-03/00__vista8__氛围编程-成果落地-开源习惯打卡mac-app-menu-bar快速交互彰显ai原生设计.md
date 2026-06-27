@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "“氛围编程”成果落地：开源习惯打卡Mac App，Menu Bar快速交互彰显AI原生设计"
 description: "**[从Claude Code想法到开源上架，个人AI开发闭环的完美样本]** - 产品落地：基于上一条推文的想法，已开发完成并上架Mac App，提供习惯打卡和视觉链条功能。 - 设计亮点：集成顶部Menu Bar进行快速查看和打卡，体现了对现代桌面应用交互的思考。 - 完全开源：提供了应用下载和源代码链接，实现了从灵感、开发到分享的完整开源循环。  这是一个典型的“AI原生”个人项目范本：用A"
 resource: "https://x.com/i/status/2028532700089638975"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2028532700089638975"
-created: "2026-03-02"
-updated: "2026-06-26"
-sha256: "52fac2daa828ea47523e16a0c4d89295085ef393fa05d167d23821fc9189c950"
-sources:
-  - "/sources/news/2026-03-03/00__vista8__氛围编程-成果落地-开源习惯打卡mac-app-menu-bar快速交互彰显ai原生设计.md"
 ---
 
 # “氛围编程”成果落地：开源习惯打卡Mac App，Menu Bar快速交互彰显AI原生设计

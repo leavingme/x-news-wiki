@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "梦琪出海路径转向：从海外To B到海外To C的意味"
 description: "**一句话核心判断** 出海AI工具的To C化正在成为新主流路径，To B摸爬滚打积累的产品能力正在向消费端溢出。  **要点：** - 梦琪（AI工具出海开发者）从服务海外企业客户转向服务海外个人用户，代表一种路径验证 - To B靠关系与定制，To C靠产品力与传播，两种能力模型不同，切换成本被低估 - 海外C端用户为\"效率工具\"付费的意愿已在GPTs、Copilot等产品上被验证  梦琪的"
 resource: "https://x.com/i/status/2059264680099738108"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2059264680099738108"
-created: "2026-05-26"
-updated: "2026-06-26"
-sha256: "607cc7a7cb9984ef8a2f555e44288e3d2d9e3cd4cc50b6d1bcdf299b163d5835"
-sources:
-  - "/sources/news/2026-05-26/00__lifesinger__梦琪出海路径转向-从海外to-b到海外to-c的意味.md"
 ---
 
 # 梦琪出海路径转向：从海外To B到海外To C的意味

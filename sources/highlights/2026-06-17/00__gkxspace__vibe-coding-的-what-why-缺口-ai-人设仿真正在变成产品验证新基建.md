@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Vibe Coding 的「what/why 缺口」：AI 人设仿真正在变成产品验证新基建"
 description: "**Vibe Coding 真正缺的不是更好的代码生成器，而是把「用户验证」从奢侈品变成默认配置。**  - 余温点出 Vibe Coding 解决 how，但跳过 what 和 why，导致大量自嗨玩具零营收 - atypica.AI 这类 AI 人设仿真工具的新打法：写代码前先跑一轮 AI 焦点小组——12 个行业老板 Persona 互相辩论、给反对意见，30 分钟出报告 - 关键反直觉发现"
 resource: "https://x.com/i/status/2067207946342129710"
@@ -22,13 +22,6 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "vibe-coding-methodology"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2067207946342129710"
-created: "2026-06-17"
-updated: "2026-06-26"
-sha256: "1c51d07ef20e6a0988a70c96e63857a9b0c7e28a96332726fb99aa3fd4414fc0"
-sources:
-  - "/sources/highlights/2026-06-17/00__gkxspace__vibe-coding-的-what-why-缺口-ai-人设仿真正在变成产品验证新基建.md"
 ---
 
 # Vibe Coding 的「what/why 缺口」：AI 人设仿真正在变成产品验证新基建

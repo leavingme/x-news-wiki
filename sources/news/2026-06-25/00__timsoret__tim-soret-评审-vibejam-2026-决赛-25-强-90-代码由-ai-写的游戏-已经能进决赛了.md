@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Tim Soret 评审 Vibejam 2026 决赛 25 强：90%+ 代码由 AI 写的游戏，已经能进决赛了"
 description: "**Vibe Coding 首次以「竞技形态」完成行业自证。**  - Vibejam 2026 要求 90%+ 代码由 AI 生成，Tim Soret 作为评委开始对 25 件决赛作品进行严格评审，承诺「公平但毫不妥协」。 - 这意味着 Vibe Coding 不再只是 demo 和 tweet 截图，而是产出可被专业评委打分、可对比、可淘汰的完整游戏作品。 - 对 AI Coding 工具链（"
 resource: "https://x.com/i/status/2066520029416264115"
@@ -22,13 +22,6 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "vibe-coding-methodology"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2066520029416264115"
-created: "2026-06-15"
-updated: "2026-06-26"
-sha256: "6c3c7aa50b8465ffbbd1efa1fd3824648611e3f6751ca486cfcd8a33b19be1ca"
-sources:
-  - "/sources/news/2026-06-25/00__timsoret__tim-soret-评审-vibejam-2026-决赛-25-强-90-代码由-ai-写的游戏-已经能进决赛了.md"
 ---
 
 # Tim Soret 评审 Vibejam 2026 决赛 25 强：90%+ 代码由 AI 写的游戏，已经能进决赛了

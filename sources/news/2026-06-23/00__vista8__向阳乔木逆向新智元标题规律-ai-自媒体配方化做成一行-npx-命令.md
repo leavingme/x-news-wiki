@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "向阳乔木逆向新智元标题规律：AI 自媒体配方化做成一行 npx 命令"
 description: "**把头部 AI 自媒体标题做成可复制的 Skill，配方时代再下沉**  - 逆向工程发现 4 条规律：中位标题 32 字、标点以！和，为主、数字出现率 56.7%、英文模型/公司名出现率 90.8% - 提炼出「实体/数字/刚刚 + 动作/冲突 + 后果/榜单/人群影响」结构公式 - 封装为 npx skills add 一行命令即可调用 - Skill 市集从通用工具延伸至\"内容风格\"细分赛"
 resource: "https://x.com/i/status/2069436462966489480"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2069436462966489480"
-created: "2026-06-23"
-updated: "2026-06-26"
-sha256: "2b844c8d7c1dd992fba076821c57d72d0159ccd0366c6a2822cbd6a4eac7c81a"
-sources:
-  - "/sources/news/2026-06-23/00__vista8__向阳乔木逆向新智元标题规律-ai-自媒体配方化做成一行-npx-命令.md"
 ---
 
 # 向阳乔木逆向新智元标题规律：AI 自媒体配方化做成一行 npx 命令

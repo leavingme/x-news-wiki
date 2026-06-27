@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "simpleicons 生态成熟：3000+ 品牌 SVG 图标 CDN 直引，前端开发进入「零成本素材」时代"
 description: "**一句话核心判断：** simpleicons 的繁荣折射出一个隐性趋势——当开源图标库覆盖了足够多的主流品牌，「找图标」这件事正在从设计技能变成配置工作，AI 编程工具可以零成本调用。  **要点：** - simpleicons 收录 3000+ 常见网站品牌 Logo，提供 SVG 和 PNG 双格式 - 彩色版 CDN 直接引用，无需本地存储，进一步降低接入门槛 - 向阳乔木用它做 Ch"
 resource: "https://x.com/i/status/2059293643417223571"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2059293643417223571"
-created: "2026-05-26"
-updated: "2026-06-26"
-sha256: "9fd1ce2af663fee8d41174b4990cc79310fd7b66141a8b93f3804fc8d9876d3a"
-sources:
-  - "/sources/news/2026-05-26/00__vista8__simpleicons-生态成熟-3000-品牌-svg-图标-cdn-直引-前端开发进入-零成本素材-时代.md"
 ---
 
 # simpleicons 生态成熟：3000+ 品牌 SVG 图标 CDN 直引，前端开发进入「零成本素材」时代

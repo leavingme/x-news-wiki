@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "「/goal resume」才是恢复暂停目标的正确指令，社区大量误用 /goal 当继续键"
 description: "**一句话核心判断：Codex Goal 的高频误用暴露了 CLI 产品文档与用户认知之间的系统性断层。**  2026-05-21 之后 Goal 已是 generally available 且 enabled by default，但社区大量用户把 `/goal` 当作「继续键」使用。正确用法是：`/goal resume` 恢复暂停目标，`/goal pause` 暂停，`/goal cl"
 resource: "https://x.com/i/status/2059308988555223191"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2059308988555223191"
-created: "2026-05-26"
-updated: "2026-06-26"
-sha256: "05cb786761f1110116f47923c0aa2c699b98e8517026a1122a3fa960e4adb808"
-sources:
-  - "/sources/news/2026-05-26/00__Zesee__goal-resume-才是恢复暂停目标的正确指令-社区大量误用-goal-当继续键.md"
 ---
 
 # 「/goal resume」才是恢复暂停目标的正确指令，社区大量误用 /goal 当继续键

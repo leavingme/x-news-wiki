@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Computer Use 大面积翻车：全行业只有两家的实现能后台跑通「开网易云播放今日推荐」"
 description: "**[计算机使用能力评测，只有 Alma 和 Codex 真正跑通了一个日常任务]**  yetone 测试了众多产品的 Computer Use 能力，发现绝大部分产品在后台模式下无法完成「打开网易云音乐→播放今日推荐」这个看似简单的任务。目前只有 Alma 的 Computer Use 和 Codex 的 Computer Use 能成功执行。  这个测试结果比任何 benchmark 更有说"
 resource: "https://x.com/i/status/2055276528125272192"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2055276528125272192"
-created: "2026-05-15"
-updated: "2026-06-26"
-sha256: "ef1ca51d3497918fde910f5aa07a0194580c7b7654cc025b354a5a3e5b61c4c1"
-sources:
-  - "/sources/news/2026-05-15/00__yetone__computer-use-大面积翻车-全行业只有两家的实现能后台跑通-开网易云播放今日推荐.md"
 ---
 
 # Computer Use 大面积翻车：全行业只有两家的实现能后台跑通「开网易云播放今日推荐」

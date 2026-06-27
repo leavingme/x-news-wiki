@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "「目标导向」成为Agent使用的基本功：从提示工程到任务工程的范式迁移"
 description: "**AI工具的使用门槛正从「怎么问」转向「怎么定义问题」，目标设定能力成为新的稀缺技能。**  - Agent时代的用户需要学会的是任务分解和目标管理，而非传统的提示词优化 - 「先定目标再执行」的方法论正在从开发者社区向普通用户渗透  gakki 锐评：当「让AI目标导向干活」成为共识，真正的竞争就不再是模型能力，而是谁能把模糊意图转化为清晰任务——这才是人类不可替代的判断力。"
 resource: "https://x.com/i/status/2053420214797169027"
@@ -22,13 +22,6 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "agent-loop-fundamentals"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2053420214797169027"
-created: "2026-05-10"
-updated: "2026-06-26"
-sha256: "5f3e928bf64f905deba620a1283bdfe84889b6a4329c4ee4aa62306644bd59b6"
-sources:
-  - "/sources/news/2026-05-10/00__Rourou0413__目标导向-成为agent使用的基本功-从提示工程到任务工程的范式迁移.md"
 ---
 
 # 「目标导向」成为Agent使用的基本功：从提示工程到任务工程的范式迁移

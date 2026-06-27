@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Google Stitch DESIGN.md 来了：40+ 真实产品的设计系统，用一个 Markdown 文件交付"
 description: "**【一句话核心判断】** Google Stitch 的 DESIGN.md 把设计系统从 Figma 生态中解放出来，让 AI Agent 可以「读设计」而不是「读代码」。  **信息增量：** • 核心卖点：不需要导出 Figma、不需要 JSON、不需要配置，直接给 Agent 就能理解整个设计系统 • 覆盖范围：Stripe、Vercel、Linear、Notion、Claude、Ele"
 resource: "https://x.com/i/status/2040272305277079728"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2040272305277079728"
-created: "2026-04-04"
-updated: "2026-06-26"
-sha256: "9cf911c89bd41c59d57289bd7138d680e2bfa666ce4c2da5baa06286a568350d"
-sources:
-  - "/sources/news/2026-04-05/00__yangyi__google-stitch-design-md-来了-40-真实产品的设计系统-用一个-markdown-文件交付.md"
 ---
 
 # Google Stitch DESIGN.md 来了：40+ 真实产品的设计系统，用一个 Markdown 文件交付

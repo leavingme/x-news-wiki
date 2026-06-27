@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "蚂蚁CEO韩歆毅：Agent时代信任靠结果交付而非名头，Token化是价值新载体"
 description: "**一句话核心判断：** Agent经济时代，人对人的网络效应正在让渡给Agent对Agent的生态竞争，信任机制从「身份信用」转向「结果履历」。  **要点：** - 互联网旧逻辑失效：流量护城河正在被Agent生态护城河取代，竞争焦点从抢用户变为抢Agent生态 - 信任新范式：参考人类建立信任的过程——不靠说话也不靠名头，靠一次一次结果的交付，Agent的credit成为选择依据 - Tok"
 resource: "https://x.com/i/status/2059607509292445824"
@@ -22,13 +22,6 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "agent-economic-autonomy"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2059607509292445824"
-created: "2026-05-27"
-updated: "2026-06-26"
-sha256: "8f6dd56ff4982663a431f92169693be755bc2ac468a02e6c10a6ae3c99a01759"
-sources:
-  - "/sources/highlights/2026-05-27/00__oran_ge__蚂蚁ceo韩歆毅-agent时代信任靠结果交付而非名头-token化是价值新载体.md"
 ---
 
 # 蚂蚁CEO韩歆毅：Agent时代信任靠结果交付而非名头，Token化是价值新载体

@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "特斯拉中国接豆包端到端语音，车企供应链首次承认国产大模型可接管\"对话主驾\""
 description: "**特斯拉中国接豆包端到端语音，车企供应链首次承认国产大模型可接管\"对话主驾\"。**  - 中国特斯拉车机端将集成豆包端到端语音模型 - 这是豆包语音首次打进合资头部车企供应链 - 端到端语音替代 ASR+TTS+NLU 流水线，车内交互的响应/成本天花板被抬高  gakki 锐评：车企卡位是国产语音模型的硬通货——别只看发布会 demo，能进供应链才是真落地。"
 resource: "https://x.com/i/status/2069242761166139487"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2069242761166139487"
-created: "2026-06-23"
-updated: "2026-06-26"
-sha256: "0444e455936b87dbce72a5f8837a8f83294b1e0d9a098ae93cd79257040d4ea5"
-sources:
-  - "/sources/news/2026-06-23/00__xiaohu__特斯拉中国接豆包端到端语音-车企供应链首次承认国产大模型可接管-对话主驾.md"
 ---
 
 # 特斯拉中国接豆包端到端语音，车企供应链首次承认国产大模型可接管"对话主驾"

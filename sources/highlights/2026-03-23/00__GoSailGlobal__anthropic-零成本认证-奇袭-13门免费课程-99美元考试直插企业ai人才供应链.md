@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Anthropic「零成本认证」奇袭：13门免费课程+99美元考试直插企业AI人才供应链"
 description: "**[Anthropic以教育为杠杆，从模型厂商向AI人才基础设施商跃迁]** • 13门官方课程全免费开放，12周路线图覆盖基础到高阶，彻底打破传统认证的经济门槛 • 认证体系直指「Claude Certified Architect」，标志着AI人才认证首次与具体模型生态深度绑定 • 考试费仅99美元 vs 传统咨询认证数千美元，实质是对企业AI咨询市场的「价格屠夫」策略  Anthropic"
 resource: "https://x.com/i/status/2035945586751619284"
@@ -22,13 +22,6 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "anthropic-enterprise-certification"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2035945586751619284"
-created: "2026-03-23"
-updated: "2026-06-26"
-sha256: "ef08a8d7cfb771cc21764bd16026cf0ff260c6c0f841039f3faae71960eee611"
-sources:
-  - "/sources/highlights/2026-03-23/00__GoSailGlobal__anthropic-零成本认证-奇袭-13门免费课程-99美元考试直插企业ai人才供应链.md"
 ---
 
 # Anthropic「零成本认证」奇袭：13门免费课程+99美元考试直插企业AI人才供应链

@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Meta Skill生成心法：专业知识上下文是核心，DeepResearch负责替他懂"
 description: "**[提示词/Skill的本质是专业知识上下文的压缩包]**  向阳乔木公开了高频写作Skill的核心方法论：自己不懂的领域，用GPT 5.5 Pro、Grok或Gemini DeepResearch搜索整理后作为上下文喂给Meta Skill生成Skill，再迭代打磨。这意味着Skill写作的瓶颈从来不是模板格式，而是背后专业知识上下文的密度。  这个方法论的价值在于：它把「写Skill」从创意"
 resource: "https://x.com/i/status/2061460150725267909"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2061460150725267909"
-created: "2026-06-01"
-updated: "2026-06-26"
-sha256: "53758f47b7513643c8f5409e26632f53007fa2fa333dfec4087dc993056e8528"
-sources:
-  - "/sources/news/2026-06-01/00__vista8__meta-skill生成心法-专业知识上下文是核心-deepresearch负责替他懂.md"
 ---
 
 # Meta Skill生成心法：专业知识上下文是核心，DeepResearch负责替他懂

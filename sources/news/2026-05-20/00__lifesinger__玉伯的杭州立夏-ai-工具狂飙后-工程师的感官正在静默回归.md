@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "玉伯的杭州立夏：AI 工具狂飙后，工程师的感官正在静默回归"
 description: "**[工具焦虑与生活感知的背离正在被观测到]**  玉伯的这首短诗透露了一个微妙的群体心理信号：当整个行业都在追逐 AGI 时间表和模型刷新节奏时，真正有质感的生活感知（「雨让空气湿热难耐」「风从扇叶里钻出」）正在成为稀缺的认知资源。  - 「最近没看媒体内容，发现生活新鲜起来」——这句话出自一个 AI 行业资深从业者，本身就是行业情绪温度计 - 与 AI 工具狂热形成对位的，是一种主动的生活感知"
 resource: "https://x.com/i/status/2057115621385810054"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2057115621385810054"
-created: "2026-05-20"
-updated: "2026-06-26"
-sha256: "e03586a9984cec0a422f3aacd71fa575d63ea967128e1216ce903075593fcbd0"
-sources:
-  - "/sources/news/2026-05-20/00__lifesinger__玉伯的杭州立夏-ai-工具狂飙后-工程师的感官正在静默回归.md"
 ---
 
 # 玉伯的杭州立夏：AI 工具狂飙后，工程师的感官正在静默回归

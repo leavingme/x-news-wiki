@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "DexJoCo发布：中科院/上交/MBZUAI等联合推出灵巧手机器学习工业级基准"
 description: "灵巧手benchmark从单任务演示走向「任务导向+域随机化」的工业级评测阶段。 中科院、上交、MBZUAI、北大、港中文联合推出DexJoCo，11个以人为中心的任务，1.1K演示轨迹，配套低成本数据采集系统。 内置域随机化用于鲁棒性测试，结果显示任务多样性与评估深度均优于现有灵巧手benchmark。  锐评：灵巧手评测长期缺乏统一标准，「每个实验室自建任务集」的混乱阻碍了横向比较；DexJo"
 resource: "https://x.com/i/status/2067976697517928899"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2067976697517928899"
-created: "2026-06-19"
-updated: "2026-06-26"
-sha256: "734053374fcb441e3768ef06fcdcef1c6dbfadccde9608f94c2320a6dd776dc6"
-sources:
-  - "/sources/highlights/2026-06-19/00__jiqizhixin__dexjoco发布-中科院-上交-mbzuai等联合推出灵巧手机器学习工业级基准.md"
 ---
 
 # DexJoCo发布：中科院/上交/MBZUAI等联合推出灵巧手机器学习工业级基准

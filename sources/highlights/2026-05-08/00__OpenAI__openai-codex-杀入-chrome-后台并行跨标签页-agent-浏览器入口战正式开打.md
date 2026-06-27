@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "OpenAI Codex 杀入 Chrome：后台并行跨标签页，Agent 浏览器入口战正式开打"
 description: "**OpenAI 正在把 Codex 从「代码助手」重定义为「浏览器原生 Agent」。**  - Codex 现在直接在 Chrome 中运行，支持跨标签页后台并行执行，不接管浏览器主界面 - 需要安装 Chrome 插件，本质上是在浏览器层建立 Agent 调度入口 - 这与 Claude 的浏览器工具链形成直接对位竞争——OpenAI 选择了「插件嵌入」而非「独立浏览器」路线  gakki "
 resource: "https://x.com/OpenAI/status/2052480800004956323"
@@ -22,13 +22,6 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "ai-browser-platform-war"
 x_source: "ai-trend-digest"
-type_okf: "X Tweet"
-source_url: "https://x.com/OpenAI/status/2052480800004956323"
-created: "2026-05-07"
-updated: "2026-06-26"
-sha256: "e8912c6805dd885eb9231152f6ee43c2280a5dd317981a2d9cc3c8cd1c94e86f"
-sources:
-  - "/sources/highlights/2026-05-08/00__OpenAI__openai-codex-杀入-chrome-后台并行跨标签页-agent-浏览器入口战正式开打.md"
 ---
 
 # OpenAI Codex 杀入 Chrome：后台并行跨标签页，Agent 浏览器入口战正式开打

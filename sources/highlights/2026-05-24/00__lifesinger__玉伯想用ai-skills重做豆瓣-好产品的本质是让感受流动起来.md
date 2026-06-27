@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "玉伯想用AI Skills重做豆瓣：好产品的本质是让感受流动起来"
 description: "**[用新技术重做旧体验，是AI时代最被低估的产品方向]**  豆瓣的核心价值——书影音的真实讨论交流——并未过时，过时的是交互形态。玉伯提出用导演/演员 Skills 做影片挖掘、用 AI Skills 让影评「流动起来」，本质是把社区内容的发现和消费方式从搜索变成对话式推荐。  这个判断的边界在于：豆瓣的用户圈层是否能接受 AI 介入评价体系，而不把它变成另一个算法傀儡。  gakki：豆瓣重"
 resource: "https://x.com/i/status/2058562386341347465"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2058562386341347465"
-created: "2026-05-24"
-updated: "2026-06-26"
-sha256: "5029306bb36117847417cc353622f48fa9a279dacbec3e95563998d1215f61e0"
-sources:
-  - "/sources/highlights/2026-05-24/00__lifesinger__玉伯想用ai-skills重做豆瓣-好产品的本质是让感受流动起来.md"
 ---
 
 # 玉伯想用AI Skills重做豆瓣：好产品的本质是让感受流动起来

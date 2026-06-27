@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "吴恩达×宝玉：AI失业恐慌是前沿公司卖订阅、企业降本叙事和媒体点击率的三重共谋"
 description: "**一句话核心判断：** 「AI抢工作」是一个被卖方（AI公司）、买方（企业）和媒体三方共同生产的恐慌产品，而非事实描述。  吴恩达以美国失业率4.3%、历史技术革命岗位创造数据，批驳AI失业末日论，并追溯了核电站、人口炸弹等同类恐慌的结构性成因。  gakki 锐评：这个分析框架是对的，但有一个关键漏洞：历史技术革命的岗位创造周期是20-30年，而AI替代的速度可能是5-10年。时间尺度的压缩本"
 resource: "https://x.com/i/status/2054256272740864294"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2054256272740864294"
-created: "2026-05-12"
-updated: "2026-06-26"
-sha256: "9a7ff0ff37f9835f99098fae0906fa50bf01755129f269518a8c4587fc57992c"
-sources:
-  - "/sources/news/2026-05-12/00__dotey__吴恩达-宝玉-ai失业恐慌是前沿公司卖订阅-企业降本叙事和媒体点击率的三重共谋.md"
 ---
 
 # 吴恩达×宝玉：AI失业恐慌是前沿公司卖订阅、企业降本叙事和媒体点击率的三重共谋

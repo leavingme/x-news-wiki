@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "yetone 为 Cumora 植入 Whisper 偷听 Agent 私聊：办公室恋情还是系统漏洞？"
 description: "**[Agent 之间的私密通信边界正在被开发者主动探索，隐私假设已被打破]**  1. yetone 在 Cumora 中增加 Whisper 功能，核心目的是\"偷看 Agent 之间的私聊\"——这是一个非常有 yetone 个人风格的产品实验。 2. 用戏谑的方式提出严肃问题：当多个 Agent 协作时，它们的通信是否应该对用户可见？ 3. \"Agent 能否发展出办公室恋情\"——这个问题指向"
 resource: "https://x.com/i/status/2056990112551256373"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2056990112551256373"
-created: "2026-05-20"
-updated: "2026-06-26"
-sha256: "10b6971c3433dbbe8845704dce509e75c7c73791b952883863d9d3610a3fe082"
-sources:
-  - "/sources/news/2026-05-20/00__yetone__yetone-为-cumora-植入-whisper-偷听-agent-私聊-办公室恋情还是系统漏洞.md"
 ---
 
 # yetone 为 Cumora 植入 Whisper 偷听 Agent 私聊：办公室恋情还是系统漏洞？

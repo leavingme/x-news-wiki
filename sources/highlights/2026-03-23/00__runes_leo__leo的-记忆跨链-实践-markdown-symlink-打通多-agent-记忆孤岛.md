@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Leo的「记忆跨链」实践：Markdown + symlink 打通多 Agent 记忆孤岛"
 description: "**[AI 记忆互操作性进入工程化落地阶段]** • Leo 用 markdown + 两层同步机制，让 Claude Code、Codex、OpenClaw 共享同一份 today.md，解决「切工具需从头解释」的痛点 • 核心洞察：记忆同步的价值不在「AI 记住什么」，而在于降低上下文切换的认知成本 • 方案可迁移性强——换模型只需改同步脚本路径，实现「记忆层与模型层解耦」  gakki 锐评"
 resource: "https://x.com/i/status/2035751176453472430"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2035751176453472430"
-created: "2026-03-22"
-updated: "2026-06-26"
-sha256: "5b3913e92b1127b72a33638b21e2dfa4e2d2cbc0d7b3d209904cda60acb86d92"
-sources:
-  - "/sources/highlights/2026-03-23/00__runes_leo__leo的-记忆跨链-实践-markdown-symlink-打通多-agent-记忆孤岛.md"
 ---
 
 # Leo的「记忆跨链」实践：Markdown + symlink 打通多 Agent 记忆孤岛

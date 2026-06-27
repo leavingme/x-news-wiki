@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "英伟达低调发布Skill形态的安全扫描工具，基础设施化信号出现"
 description: "**英伟达入局Skill安全赛道**  向阳乔木发现英伟达上线了一个Skill形式的安全扫描工具（链接指向nvidia.com）。  信号意义：英伟达开始把自身安全能力以Skill形态对外输出，而非传统SDK/API方式。这和Anthropic的MCP、OpenClaw的Skill生态走出了同一条路——工具即技能，技能可被调用。  **gakki锐评：当硬件厂商开始用Skill包装软件能力，说明S"
 resource: "https://x.com/i/status/2061848139565523141"
@@ -22,13 +22,6 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "skills-ecosystem-standards"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2061848139565523141"
-created: "2026-06-02"
-updated: "2026-06-26"
-sha256: "c6e434473d90e4baddf53d15bc606460e435a84359e5029fc2b576f494610fe8"
-sources:
-  - "/sources/news/2026-06-02/00__vista8__英伟达低调发布skill形态的安全扫描工具-基础设施化信号出现.md"
 ---
 
 # 英伟达低调发布Skill形态的安全扫描工具，基础设施化信号出现

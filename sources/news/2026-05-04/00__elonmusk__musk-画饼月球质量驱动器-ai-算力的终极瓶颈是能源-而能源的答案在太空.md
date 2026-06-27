@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Musk 画饼月球质量驱动器：AI 算力的终极瓶颈是能源，而能源的答案在太空"
 description: "**当所有人都在讨论 GPU 供给时，Musk 直接跳到了能源供给的第一性原理。**  - 月球质量驱动器（Mass Driver）指向的是 Petawatt 级能源基础设施，这是当前 AI 数据中心能耗问题的终极抽象 - 逻辑链：AI 算力需求 → 电力瓶颈 → 地球能源不够 → 太空能源开采 - 虽然离现实极远，但作为「叙事锚点」会影响资本市场对 AI 基础设施的长期估值框架  gakki 的"
 resource: "https://x.com/elonmusk/status/2051008281041330277"
@@ -22,13 +22,6 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "ai-energy-infrastructure"
 x_source: "ai-trend-digest"
-type_okf: "X Tweet"
-source_url: "https://x.com/elonmusk/status/2051008281041330277"
-created: "2026-05-03"
-updated: "2026-06-26"
-sha256: "a316d9c256657ae700845e3ca252325993e12b74a318dd75e96e3a3d0e4e96c8"
-sources:
-  - "/sources/news/2026-05-04/00__elonmusk__musk-画饼月球质量驱动器-ai-算力的终极瓶颈是能源-而能源的答案在太空.md"
 ---
 
 # Musk 画饼月球质量驱动器：AI 算力的终极瓶颈是能源，而能源的答案在太空

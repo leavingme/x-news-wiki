@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "SePT：AI 自我生成推理样本并自我训练，6 个数学基准超越外部奖励方法"
 description: "**[无外部奖励的 AI 自进化推理训练：SePT 验证了内生性推理提升的可行性]**  香港中文大学、深圳交大、上海交大联合提出 SePT，让大语言模型通过\"低温聚焦响应\"生成自己的推理示例，再在最新模型版本生成的新示例上循环训练，全程无需外部奖励信号。  关键结果：6 个数学推理基准超越强无调优基线，部分情况可媲美需要外部奖励验证的方法。这意味着 AI 可以在没有人工标注奖励的情况下，自主提升"
 resource: "https://x.com/i/status/2048825505064112618"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2048825505064112618"
-created: "2026-04-27"
-updated: "2026-06-26"
-sha256: "84344fc6eb6514089ea198c529ab620e7caea67c5fa7c49107dc9af7bf7fea40"
-sources:
-  - "/sources/news/2026-04-27/00__jiqizhixin__sept-ai-自我生成推理样本并自我训练-6-个数学基准超越外部奖励方法.md"
 ---
 
 # SePT：AI 自我生成推理样本并自我训练，6 个数学基准超越外部奖励方法

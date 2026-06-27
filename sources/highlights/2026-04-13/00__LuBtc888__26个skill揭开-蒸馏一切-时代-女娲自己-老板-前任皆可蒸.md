@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "26个SKILL揭开\"蒸馏一切\"时代：女娲自己、老板、前任皆可蒸"
 description: "**[SKILL化思维正在成为AI时代的人格复制标准姿势]**  这26个SKILL不是工具，是方法论。\"同事.skill\"\"前任.skill\"\"女娲.skill\"\"自己.skill\"背后的逻辑是一致的：把真实人物蒸馏成可对话的AI Persona，再嵌进工作流。  信号意义：这不是玩具，是生产关系的AI重构。当你可以把老板的决策逻辑炼成SKILL，然后用它反向校准自己的执行——\"打工\"这件事的定"
 resource: "https://x.com/i/status/2042994080796307502"
@@ -22,13 +22,6 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "dbskill-formula-marketplace"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2042994080796307502"
-created: "2026-04-11"
-updated: "2026-06-26"
-sha256: "b0bb181f37dd6ae079f2bbbf41ffaf9ec95e5bf0746fc630ce3d642f9c14e5d9"
-sources:
-  - "/sources/highlights/2026-04-13/00__LuBtc888__26个skill揭开-蒸馏一切-时代-女娲自己-老板-前任皆可蒸.md"
 ---
 
 # 26个SKILL揭开"蒸馏一切"时代：女娲自己、老板、前任皆可蒸

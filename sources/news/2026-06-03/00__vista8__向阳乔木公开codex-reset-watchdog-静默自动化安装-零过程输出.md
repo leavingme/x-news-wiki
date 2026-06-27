@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "向阳乔木公开codex-reset-watchdog：静默自动化安装+零过程输出"
 description: "**[一句话核心判断]**  codex-reset-watchdog 登场，标志 Agent 工程正在从「督战模式」进化到「无人值守模式」。  **信息增量：** - 静默安装 + 只在阻塞时汇报，Agent 执行流开始追求「零噪音」 - skill installation workflow 优先，clone 降级为 fallback——skill 生态正在吞噬传统 repo 模式 - 脚本 "
 resource: "https://x.com/i/status/2062020999143706780"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2062020999143706780"
-created: "2026-06-03"
-updated: "2026-06-26"
-sha256: "1f48e7891cc70a0f6be1ccfbc94fcac8984504e4b2ddc797bbcb9e13ef81d55a"
-sources:
-  - "/sources/news/2026-06-03/00__vista8__向阳乔木公开codex-reset-watchdog-静默自动化安装-零过程输出.md"
 ---
 
 # 向阳乔木公开codex-reset-watchdog：静默自动化安装+零过程输出

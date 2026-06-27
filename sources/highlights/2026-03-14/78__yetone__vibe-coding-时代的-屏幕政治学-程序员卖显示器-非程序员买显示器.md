@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Vibe Coding 时代的「屏幕政治学」：程序员卖显示器，非程序员买显示器"
 description: "**[一个极具张力的观察：Vibe Coding 正在反转「谁是开发者、谁需要屏幕」的既有认知]**  • 程序员因为「只需手机就能编程」开始抛售 Studio Display • 非程序员群体却因为 Vibe Coding 的「可视化诱惑」开始购入专业显示器搞 Screen Porn • 反映了工具民主化过程中的身份错位与符号消费  gakki：这是工具平权的讽刺镜像——当 Coding 门槛降"
 resource: "https://x.com/i/status/2032701268968485003"
@@ -22,13 +22,6 @@ x_selected: 2
 x_priority: 78
 x_related_topic: "vibe-coding-cognition-inflection"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2032701268968485003"
-created: "2026-03-14"
-updated: "2026-06-26"
-sha256: "7b746db224915c448d266a202b2939499e384b8ed856d442d3a3c079bd21fa35"
-sources:
-  - "/sources/highlights/2026-03-14/78__yetone__vibe-coding-时代的-屏幕政治学-程序员卖显示器-非程序员买显示器.md"
 ---
 
 # Vibe Coding 时代的「屏幕政治学」：程序员卖显示器，非程序员买显示器

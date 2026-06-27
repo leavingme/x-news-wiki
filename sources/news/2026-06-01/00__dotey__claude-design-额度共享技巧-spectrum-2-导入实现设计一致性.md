@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Claude Design 额度共享技巧：Spectrum 2 导入实现设计一致性"
 description: "**[Claude Design 的真实瓶颈不是模型能力，是 Design System 缺失]**  宝玉实测后发现 Claude Design 的核心问题不是生成质量，而是设计风格的一致性不可控。他的解法是直接导入成熟的 Design System（推荐 Adobe Spectrum 2），让 AI 在已有设计规范内生成，输出质量从「随机感」升级为「可预期」。  这个技巧折射出一个更深的问题："
 resource: "https://x.com/i/status/2061297781864624210"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2061297781864624210"
-created: "2026-06-01"
-updated: "2026-06-26"
-sha256: "aa9ece8f3cd2ee39e6f28d57a849bd24994b86f1ab6d530f4e314389e83e838d"
-sources:
-  - "/sources/news/2026-06-01/00__dotey__claude-design-额度共享技巧-spectrum-2-导入实现设计一致性.md"
 ---
 
 # Claude Design 额度共享技巧：Spectrum 2 导入实现设计一致性

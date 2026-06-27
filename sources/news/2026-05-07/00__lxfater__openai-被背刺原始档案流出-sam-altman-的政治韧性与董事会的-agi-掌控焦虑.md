@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "OpenAI 被背刺原始档案流出：Sam Altman 的政治韧性与董事会的 AGI 掌控焦虑"
 description: "**OpenAI 内部权力斗争的原始聊天记录首次曝光，创始人政治手腕与 AGI 治理焦虑的结构性张力浮出水面。**  - Sam 被踢出董事会后仍冷静拉微软施压、提收购方案、让团队集体表态，展现出超预期的政治韧性 - 董事会直接表态「不想让 AGI 被这种人掌握」，揭示了 AI 公司治理中伦理判断与商业野心的根本冲突 - Mira 作为中间传话人的角色微妙——前 CTO 的立场选择本身就是一场信任"
 resource: "https://x.com/i/status/2052221290103148873"
@@ -22,13 +22,6 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "ai-agent-trust-crisis-openai"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2052221290103148873"
-created: "2026-05-07"
-updated: "2026-06-26"
-sha256: "54840fac7d138054cce2bbf59852e63a025ebcf8b1389610752862b8bcd29184"
-sources:
-  - "/sources/news/2026-05-07/00__lxfater__openai-被背刺原始档案流出-sam-altman-的政治韧性与董事会的-agi-掌控焦虑.md"
 ---
 
 # OpenAI 被背刺原始档案流出：Sam Altman 的政治韧性与董事会的 AGI 掌控焦虑

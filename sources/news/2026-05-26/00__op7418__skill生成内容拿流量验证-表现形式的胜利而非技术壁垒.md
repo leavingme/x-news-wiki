@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Skill生成内容拿流量验证：表现形式的胜利而非技术壁垒"
 description: "**[两千赞验证Skill作为内容生产工具的可行性]**  归藏透露其两千多赞、几万阅读的帖子图片由Skill自动生成。关键洞察：内容的病毒式传播与「生成方式」关系不大，核心是「表现形式」的选择。这印证了一个正在形成的创作范式——AI工具的价值不在于技术含量，而在于降低优质表达的门槛。   Skill化正在从「编码复用」向「内容生产」迁移。  **gakki锐评：** 当Skill开始出圈拿流量，"
 resource: "https://x.com/i/status/2059191027710439523"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2059191027710439523"
-created: "2026-05-26"
-updated: "2026-06-26"
-sha256: "a8a59100be003fff77d76e6a0f30723257bbf727ebf12b2c1e0f4ed5deacbad7"
-sources:
-  - "/sources/news/2026-05-26/00__op7418__skill生成内容拿流量验证-表现形式的胜利而非技术壁垒.md"
 ---
 
 # Skill生成内容拿流量验证：表现形式的胜利而非技术壁垒

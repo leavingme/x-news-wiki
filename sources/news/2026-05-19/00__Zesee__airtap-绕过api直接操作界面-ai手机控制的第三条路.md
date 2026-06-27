@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Airtap：绕过API直接操作界面，AI手机控制的第三条路"
 description: "Airtap展示了一种新的AI操控手机路径——不是逆向API，而是完全模拟人手操作：Tap、Scroll、Type、Navigate。这意味着任何有App的产品都能被AI自动化，无需厂商配合。  关键差异在于「走人走过的路」而非「走API规定的路」，打破了移动自动化的合规困境。"
 resource: "https://x.com/i/status/2056600753096270002"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2056600753096270002"
-created: "2026-05-19"
-updated: "2026-06-26"
-sha256: "7739e420110caef65582e675426e17c071d344463ad205c43e7895f74013f2c8"
-sources:
-  - "/sources/news/2026-05-19/00__Zesee__airtap-绕过api直接操作界面-ai手机控制的第三条路.md"
 ---
 
 # Airtap：绕过API直接操作界面，AI手机控制的第三条路

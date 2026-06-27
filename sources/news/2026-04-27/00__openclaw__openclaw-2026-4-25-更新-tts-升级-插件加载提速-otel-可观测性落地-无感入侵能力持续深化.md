@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "OpenClaw 2026.4.25 更新：TTS 升级、插件加载提速、OTEL 可观测性落地，无感入侵能力持续深化"
 description: "**[桌面 Agent 工具进入「可用性优先」迭代阶段]**  OpenClaw 释出 2026.4.25 更新：TTS（文本转语音）能力升级、插件启动速度提升、OTEL 可观测性（OpenTelemetry）集成落地，同时修复了浏览器安装和更新相关的问题。这次更新的关键词是「减少神秘感，增加机械感」——这不是修 bug，这是工程化成熟度的标志。  特别值得关注：TTS 能力的升级意味着 Open"
 resource: "https://x.com/openclaw/status/2048745795776557337"
@@ -22,13 +22,6 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "open-agent-ecosystem"
 x_source: "ai-trend-digest"
-type_okf: "X Tweet"
-source_url: "https://x.com/openclaw/status/2048745795776557337"
-created: "2026-04-27"
-updated: "2026-06-26"
-sha256: "65435427634633b8666e221901d020dea71fbe5294dccef97ad4339270f41cc5"
-sources:
-  - "/sources/news/2026-04-27/00__openclaw__openclaw-2026-4-25-更新-tts-升级-插件加载提速-otel-可观测性落地-无感入侵能力持续深化.md"
 ---
 
 # OpenClaw 2026.4.25 更新：TTS 升级、插件加载提速、OTEL 可观测性落地，无感入侵能力持续深化

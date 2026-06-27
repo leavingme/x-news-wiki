@@ -1,25 +1,17 @@
 ---
-type: "entity"
+type: "Author"
 title: "0x_Miko (@Mikocrypto11)"
 description: "X/Twitter 作者 @Mikocrypto11。共收录 3 条 AI 精选推文。"
 tags:
   - "x-news"
   - "author"
   - "author:Mikocrypto11"
-timestamp: "2026-06-26T11:53:36.911Z"
+timestamp: "2026-06-27T08:40:40.118Z"
 x_handle: "Mikocrypto11"
 x_author_name: "0x_Miko"
 x_tweet_count: 3
 x_first_seen: "2026-01-31T09:52:31.735Z"
 x_last_seen: "2026-03-20T00:42:56.745Z"
-type_okf: "Author"
-created: "2026-01-31"
-updated: "2026-06-26"
-sha256: "45443fa83b54d17126064c74525dc88404a89e159d7488a2a978ea0ffc22a294"
-sources:
-  - "/sources/highlights/2026-03-16/00__Mikocrypto11__polymarket-上的-印钞机-清华学生的-100-胜率-ai-交易-bot.md"
-  - "/sources/highlights/2026-03-20/00__Mikocrypto11__当统计学取代交易-polymarket-claude的70笔实战验证.md"
-  - "/sources/news/2026-01-31/00__Mikocrypto11__交易深度-polymarket-24小时赚8万刀的残酷真相.md"
 ---
 
 # 0x_Miko (@Mikocrypto11)

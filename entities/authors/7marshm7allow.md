@@ -1,23 +1,17 @@
 ---
-type: "entity"
+type: "Author"
 title: "marshmallow (@7marshm7allow)"
 description: "X/Twitter 作者 @7marshm7allow。共收录 1 条 AI 精选推文。"
 tags:
   - "x-news"
   - "author"
   - "author:7marshm7allow"
-timestamp: "2026-06-26T11:53:36.982Z"
+timestamp: "2026-06-27T08:40:40.193Z"
 x_handle: "7marshm7allow"
 x_author_name: "marshmallow"
 x_tweet_count: 1
 x_first_seen: "2026-04-09T00:44:25.069Z"
 x_last_seen: "2026-04-09T00:44:25.069Z"
-type_okf: "Author"
-created: "2026-04-09"
-updated: "2026-06-26"
-sha256: "d298b982eb8c3c5f68ad30377f28db928d79773b1aafa7805c9eae403d15740d"
-sources:
-  - "/sources/highlights/2026-04-09/00__7marshm7allow__代码通胀之后-创造只剩一件事-发现真正的问题.md"
 ---
 
 # marshmallow (@7marshm7allow)

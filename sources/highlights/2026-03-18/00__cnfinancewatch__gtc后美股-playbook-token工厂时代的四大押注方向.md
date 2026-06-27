@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "GTC后美股 playbook：Token工厂时代的四大押注方向"
 description: "**【AaaS取代SaaS，推理即服务成为新霸权】**  • 老黄定调：AI竞争从\"模型参数\"转向\"Token吞吐量\"，3-5年推理需求或暴涨1000-10000倍 • AaaS商业模式的护城河在于数据累积效应——Token喂养越久，模型越专属，迁移成本越高 • 四大方向：铜连接(机柜内)+光模块(机柜外)、CPO共封装光学、GPU/电力/数据中心基建、Agent Fleet基础设施  这本质上是"
 resource: "https://x.com/i/status/2034028057686925519"
@@ -22,13 +22,6 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "token-economics-infrastructure"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2034028057686925519"
-created: "2026-03-17"
-updated: "2026-06-26"
-sha256: "1d8128dc9641f1be8814849c49ec89c86721ad76764f22ee7b5faefa496b48be"
-sources:
-  - "/sources/highlights/2026-03-18/00__cnfinancewatch__gtc后美股-playbook-token工厂时代的四大押注方向.md"
 ---
 
 # GTC后美股 playbook：Token工厂时代的四大押注方向

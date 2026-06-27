@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Every 悖论：AI 越强员工越多，「管理自动化」成新型工作类别"
 description: "**[AI 时评：反直觉的就业数据正在修正「AI 灭世论」]**  向阳乔木转述的访谈揭示了一个被严重忽视的现实：Every 过去一年员工翻倍，AI 自动化反而创造了新工作——管理自动化。每个 Agent 都需要一个人照料，这直接击穿了「AI 替代岗位」的线性叙事。更反直觉的是：真正跑通的模式是全公司共用一个 Agent、专人维护，而非一人一个 Agent。  第九条是精华：大规模失业不会来，但不"
 resource: "https://x.com/i/status/2059823832819712199"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2059823832819712199"
-created: "2026-05-28"
-updated: "2026-06-26"
-sha256: "1d063ce090cc8a9b4588236e27f8b0994c0bb50d11b98eff4cd3e1f415553135"
-sources:
-  - "/sources/highlights/2026-05-28/00__vista8__every-悖论-ai-越强员工越多-管理自动化-成新型工作类别.md"
 ---
 
 # Every 悖论：AI 越强员工越多，「管理自动化」成新型工作类别

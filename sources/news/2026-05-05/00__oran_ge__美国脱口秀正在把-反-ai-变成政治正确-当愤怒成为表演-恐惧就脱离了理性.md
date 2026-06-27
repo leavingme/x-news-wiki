@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "美国脱口秀正在把「反 AI」变成政治正确：当愤怒成为表演，恐惧就脱离了理性"
 description: "**[美国主流娱乐媒体正将反 AI 情绪从技术讨论推向情绪表演，这比任何安全论文都更能定义公众对 AI 的认知边界。]**  - Orange AI 作为长期观察中国 AI 产业的编辑，以「平行世界」形容美国电视圈对 AI 的敌意浓度，说明中美 AI 舆论场已出现结构性分裂 - HBO 脱口秀用「全力表演愤怒」的方式讨论 AI，意味着 AI 恐惧已从技术圈的对齐辩论下沉为大众文化消费品 - 当反 "
 resource: "https://x.com/i/status/2051551714550120527"
@@ -22,13 +22,6 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "ai-trust-crisis"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2051551714550120527"
-created: "2026-05-05"
-updated: "2026-06-26"
-sha256: "1dd678cd60744ab8c00b38f4cd69e1113164fbd835b32cdfb73603581eeb26c4"
-sources:
-  - "/sources/news/2026-05-05/00__oran_ge__美国脱口秀正在把-反-ai-变成政治正确-当愤怒成为表演-恐惧就脱离了理性.md"
 ---
 
 # 美国脱口秀正在把「反 AI」变成政治正确：当愤怒成为表演，恐惧就脱离了理性

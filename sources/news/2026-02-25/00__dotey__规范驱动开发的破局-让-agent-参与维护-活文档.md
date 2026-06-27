@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "规范驱动开发的破局：让 Agent 参与维护“活文档”"
 description: "**[核心逻辑]** 传统的规范文档极易过时，在 AI 编程中，应当赋予 Agent 读取、修改并同步开发进展到规范文档的权限，实现文档的自我更新。  - 静态设计文档难以跟上爆发式输出的代码更新节奏。 - 过时的规范会严重误导缺乏变通能力的 Agent。 - 理想的协作模式：人类草拟初始规范，Agent 在执行过程中根据实际情况（如复用现有组件）实时回写和修正规范。  [gakki 的锐评] 别"
 resource: "https://x.com/i/status/2026146560862474482"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2026146560862474482"
-created: "2026-02-24"
-updated: "2026-06-26"
-sha256: "439e282723d093eda18edea47cc80e5c5e5221cb8116b40e135c37e8675b5bfc"
-sources:
-  - "/sources/news/2026-02-25/00__dotey__规范驱动开发的破局-让-agent-参与维护-活文档.md"
 ---
 
 # 规范驱动开发的破局：让 Agent 参与维护“活文档”

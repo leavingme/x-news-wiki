@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Claude Agent SDK 生态爆发：从开发框架到产品基础设施的跃迁"
 description: "**Anthropic 的工具链正在成为创业公司的默认基建。**  • 基于 Claude Agent SDK 的工具产品快速涌现：笔记软件 Moss、Markdown 任务管理 Moment、多 Agent 开发工具 SUPERSET • 反映开发者社区对 Claude 产品力的认可，Agent 基础设施层竞争格局初现 • SDK 生态成熟度成为平台粘性的关键变量  ---  **gakki 锐"
 resource: "https://x.com/i/status/2029600615501074551"
@@ -22,13 +22,6 @@ x_selected: 2
 x_priority: 82
 x_related_topic: "claude-code-ecosystem"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2029600615501074551"
-created: "2026-03-05"
-updated: "2026-06-26"
-sha256: "4020c1a60e7f172ab7ecf3db3e5d19135b4d51bddabae3a6453153552fa9fd0d"
-sources:
-  - "/sources/highlights/2026-03-06/82__vista8__claude-agent-sdk-生态爆发-从开发框架到产品基础设施的跃迁.md"
 ---
 
 # Claude Agent SDK 生态爆发：从开发框架到产品基础设施的跃迁

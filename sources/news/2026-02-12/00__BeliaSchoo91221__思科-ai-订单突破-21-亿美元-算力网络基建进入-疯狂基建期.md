@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "思科 AI 订单突破 21 亿美元：算力网络基建进入“疯狂基建期”"
 description: "**[核心逻辑]** - 思科二财季报告显示，AI 网络基础设施订单从 13 亿激增至 21 亿美元。 - 尽管利润受内存价格上涨挤压，但产品订单整体增长 18%，远超预期。  [gakki 的锐评] 大家都在抢铲子。基建订单的暴涨，预示着接下来几个季度 AI 的物理部署密度会再上一个台阶。"
 resource: "https://x.com/i/status/2021907585377742893"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2021907585377742893"
-created: "2026-02-12"
-updated: "2026-06-26"
-sha256: "a215ae0c934ab597fc7aa8269be3fe7ff845c260d2ce1afa6334f5aa4f036703"
-sources:
-  - "/sources/news/2026-02-12/00__BeliaSchoo91221__思科-ai-订单突破-21-亿美元-算力网络基建进入-疯狂基建期.md"
 ---
 
 # 思科 AI 订单突破 21 亿美元：算力网络基建进入“疯狂基建期”

@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Claude Code 4.8 让非程序员30分钟建站：AI编程民主化的最后一公里已通"
 description: "**[「不会编程」正在变成一个 временная 状态而非永久标签]**  铁锤人用30分钟、零编程基础、做出了一个可访问的网站。这个案例的重量不在于工具多强大，而在于「门槛消失」的速度已经超过了行业焦虑的传播速度。  信息增量：这不是炫技，是工程化成熟度的信号。工具收敛到「能给普通人用」这个节点，比benchmark刷分更有历史意义。  影响范围：网站建设市场（尤其是Landing Page、"
 resource: "https://x.com/i/status/2060902776457351380"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2060902776457351380"
-created: "2026-05-31"
-updated: "2026-06-26"
-sha256: "495bb66f4e4ebaea7605d6836b9fba3e2e7816d0d491c206810fc95d9eb32d66"
-sources:
-  - "/sources/news/2026-05-31/00__lxfater__claude-code-4-8-让非程序员30分钟建站-ai编程民主化的最后一公里已通.md"
 ---
 
 # Claude Code 4.8 让非程序员30分钟建站：AI编程民主化的最后一公里已通

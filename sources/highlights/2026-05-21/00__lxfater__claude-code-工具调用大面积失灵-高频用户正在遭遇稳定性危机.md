@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Claude Code 工具调用大面积失灵：高频用户正在遭遇稳定性危机"
 description: "**一句话核心判断** Claude Code 工具调用（tool calling）出现大范围故障，是该工具进入生产级使用后第一次系统性稳定性预警。  **信息增量** - 「老是调用不起来」说明不是偶发问题，是批量用户的持续性障碍 - 工具调用是 Claude Code 的核心能力，稳定性出问题直接影响核心工作流 - 目前尚无官方说明，故障根因未知  **影响** - 高依赖用户的工作被迫回退到"
 resource: "https://x.com/i/status/2057477325877661897"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2057477325877661897"
-created: "2026-05-21"
-updated: "2026-06-26"
-sha256: "873a37bc8d4c72ca8311d1401b4524641b7a3113dbebc233c02db903f1b7f6e1"
-sources:
-  - "/sources/highlights/2026-05-21/00__lxfater__claude-code-工具调用大面积失灵-高频用户正在遭遇稳定性危机.md"
 ---
 
 # Claude Code 工具调用大面积失灵：高频用户正在遭遇稳定性危机

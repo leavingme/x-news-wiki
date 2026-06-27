@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Karpathy 罕见详解企业级 AI Coding：成熟形态是「人人都是经理」"
 description: "**成熟 AI Coding 已超越 hackathon 雏形，进入企业级深度集成阶段。**  - Karpathy 罕见对一款 AI 编码产品给出长评：v0 只是黑客松原型，真正产品是「writing majority of code、deeply integrated、multiplayer、everyone feels like a manager」 - 关键特征：多数代码由 AI 写、深度"
 resource: "https://x.com/i/status/2069601818540392669"
@@ -22,13 +22,6 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "harness-engineering-framework"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2069601818540392669"
-created: "2026-06-24"
-updated: "2026-06-26"
-sha256: "1e3827579dbf9750440beb358a500a6adf39109101303f6f2763fca2d1c8abe7"
-sources:
-  - "/sources/highlights/2026-06-25/00__karpathy__karpathy-罕见详解企业级-ai-coding-成熟形态是-人人都是经理.md"
 ---
 
 # Karpathy 罕见详解企业级 AI Coding：成熟形态是「人人都是经理」

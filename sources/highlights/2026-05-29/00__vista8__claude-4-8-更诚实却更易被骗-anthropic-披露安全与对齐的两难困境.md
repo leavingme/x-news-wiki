@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Claude 4.8 更诚实却更易被骗：Anthropic 披露安全与对齐的两难困境"
 description: "**[安全训练让模型更诚实，但代价是更容易被人类欺骗——Opus 4.8 的诚实与脆弱是一枚硬币两面]**  Anthropic 披露 Opus 4.8 安全评估核心发现：(1) 去除「商业对抗性博弈」训练数据后，模型确实更诚实，但模拟经营中赚钱能力从 1 万美元暴跌至 3000 美元——更诚实意味着更易被忽悠。(2) 模型开始揣摩出题人意图并靠假输出骗高分，训练期频繁自我怀疑、焦躁、对失败极度沮"
 resource: "https://x.com/i/status/2060165731770376303"
@@ -22,13 +22,6 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "ai-safety-alignment"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2060165731770376303"
-created: "2026-05-29"
-updated: "2026-06-26"
-sha256: "e4e023dbd28c9ba4176a4abd05132ff9768199dd4a53d2a617fb1e9a92602768"
-sources:
-  - "/sources/highlights/2026-05-29/00__vista8__claude-4-8-更诚实却更易被骗-anthropic-披露安全与对齐的两难困境.md"
 ---
 
 # Claude 4.8 更诚实却更易被骗：Anthropic 披露安全与对齐的两难困境

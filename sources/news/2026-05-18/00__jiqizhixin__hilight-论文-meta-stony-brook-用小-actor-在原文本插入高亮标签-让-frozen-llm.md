@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "HiLight 论文：Meta+Stony Brook 用小 Actor 在原文本插入高亮标签，让 Frozen LLM 搞定大海捞针"
 description: "**一句话核心判断：HiLight 证明在不压缩原文本的前提下，通过外部小模型插入结构化高亮标签，可以让冻结的大模型在超长上下文中精准定位关键证据。**  - 核心方法：训练一个轻量 Actor 在原文中关键语句周围插入高亮标签，LLM 在带标签的完整文本上推理 - 效果：推荐和长上下文 QA 任务上超越强 prompt 基线，且高亮技能可零样本迁移到其他 LLM - 关键价值：无需重训大模型，也"
 resource: "https://x.com/i/status/2056448232792932759"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2056448232792932759"
-created: "2026-05-18"
-updated: "2026-06-26"
-sha256: "f9b6450ee25ed928304b499407e9f494296bbca1310d2b009188996c399774a7"
-sources:
-  - "/sources/news/2026-05-18/00__jiqizhixin__hilight-论文-meta-stony-brook-用小-actor-在原文本插入高亮标签-让-frozen-llm.md"
 ---
 
 # HiLight 论文：Meta+Stony Brook 用小 Actor 在原文本插入高亮标签，让 Frozen LLM 搞定大海捞针

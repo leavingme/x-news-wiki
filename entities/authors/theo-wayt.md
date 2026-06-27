@@ -1,23 +1,17 @@
 ---
-type: "entity"
+type: "Author"
 title: "Theo Wayt (@theo_wayt)"
 description: "X/Twitter 作者 @theo_wayt。共收录 1 条 AI 精选推文。"
 tags:
   - "x-news"
   - "author"
   - "author:theo_wayt"
-timestamp: "2026-06-26T11:53:36.998Z"
+timestamp: "2026-06-27T08:40:40.213Z"
 x_handle: "theo_wayt"
 x_author_name: "Theo Wayt"
 x_tweet_count: 1
 x_first_seen: "2026-05-09T01:17:34.713Z"
 x_last_seen: "2026-05-09T01:17:34.713Z"
-type_okf: "Author"
-created: "2026-05-09"
-updated: "2026-06-26"
-sha256: "46fef053d6216c1c3e7157874f1af1501579322cba95aa74faf086dc44348b08"
-sources:
-  - "/sources/highlights/2026-05-09/00__theo_wayt__xai-裁员-核心高管离职-cursor-员工介入-elon-的-ai-实验室正在经历结构性震荡.md"
 ---
 
 # Theo Wayt (@theo_wayt)

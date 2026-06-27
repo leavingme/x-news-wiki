@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "即览：歸藏推出 iOS 端 HTML/Markdown 实时预览 App"
 description: "**一句话核心判断：** 移動端原生渲染预览填补了开发者和写作者的一个高频长尾需求空白。  **信息增量：** - iOS App「即览」支持 HTML 和 Markdown 实时预览 - 主打移动办公场景：开发者和内容创作者的随身编辑器伴侣 - 属于典型的工具型 App 品类，在 Skill 作者生态里有协同价值  **gakki 锐评：** 这个方向是对的——Markdown 实时预览是一个被"
 resource: "https://x.com/i/status/2060689179642916894"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2060689179642916894"
-created: "2026-05-30"
-updated: "2026-06-26"
-sha256: "6af8326f0f665421a04a069ee24fef0d6e447636a7cbceddf8df8105704dda02"
-sources:
-  - "/sources/news/2026-05-30/00__op7418__即览-歸藏推出-ios-端-html-markdown-实时预览-app.md"
 ---
 
 # 即览：歸藏推出 iOS 端 HTML/Markdown 实时预览 App

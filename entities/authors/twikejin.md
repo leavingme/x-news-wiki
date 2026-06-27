@@ -1,24 +1,17 @@
 ---
-type: "entity"
+type: "Author"
 title: "老法师🧙‍♂️📈 (@twikejin)"
 description: "X/Twitter 作者 @twikejin。共收录 2 条 AI 精选推文。"
 tags:
   - "x-news"
   - "author"
   - "author:twikejin"
-timestamp: "2026-06-26T11:53:36.914Z"
+timestamp: "2026-06-27T08:40:40.121Z"
 x_handle: "twikejin"
 x_author_name: "老法师🧙‍♂️📈"
 x_tweet_count: 2
 x_first_seen: "2026-02-01T20:55:37.295Z"
 x_last_seen: "2026-02-01T20:55:37.300Z"
-type_okf: "Author"
-created: "2026-02-01"
-updated: "2026-06-26"
-sha256: "4f41f4b94891ec4e0874d0e6333334e545a3cd365b60acd902c50317a56fbc32"
-sources:
-  - "/sources/news/2026-02-01/00__twikejin__spacex-的星际算力野心-申请发射-100-万颗-ai-卫星.md"
-  - "/sources/news/2026-02-01/00__twikejin__变压器成为-ai-时代的-香饽饽-美方交货需等待-127-周.md"
 ---
 
 # 老法师🧙‍♂️📈 (@twikejin)

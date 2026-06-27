@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "归藏预告PPT Skill：自动生成微信公众号+小红书封面和3:4图文组"
 description: "**内容生产线的自动化密度在快速提升。**  归藏揭示PPT Skill的下一能力：输入文档自动生成微信公众号封面、小红书封面、小绿书图文以及小红书3:4组图。系统会自动处理截图素材并智能匹配。这意味着一个人+AI的内容生产线正在从「提示词调试」进化到「端到端交付」。"
 resource: "https://x.com/i/status/2058925029203882187"
@@ -22,13 +22,6 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "no-code-agent-entry"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2058925029203882187"
-created: "2026-05-25"
-updated: "2026-06-26"
-sha256: "0d61e86a6ab046219edd9dcce22bbc47b92b3804b2c87831d4b865a5d6b12b2a"
-sources:
-  - "/sources/news/2026-05-25/00__op7418__归藏预告ppt-skill-自动生成微信公众号-小红书封面和3-4图文组.md"
 ---
 
 # 归藏预告PPT Skill：自动生成微信公众号+小红书封面和3:4图文组

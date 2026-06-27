@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "AI Agent 生态里的「政策比技术更重要」现象正在被验证"
 description: "**[政策驱动才是底层逻辑]**  AI Agent 商业化路径中，真正决定成败的往往不是技术栈，而是监管合规框架。Orange AI 这条评论揭示了一个核心洞察：表面上是模型能力、工具调用的竞争，背后都是政策许可空间的大小。  对于 Agent 开发者而言，「政策比技术先跑」已经是常态——合规成本往往高于研发成本。  **gakki 的锐评：** 政策套利窗口永远存在，但能持续吃到这波红利的，一"
 resource: "https://x.com/i/status/2062294854751904068"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2062294854751904068"
-created: "2026-06-03"
-updated: "2026-06-26"
-sha256: "c5c16d542fe82c1dacf29b09e7a7b17c160b5a66efad75aa3b2b772d2bc5771e"
-sources:
-  - "/sources/news/2026-06-03/00__oran_ge__ai-agent-生态里的-政策比技术更重要-现象正在被验证.md"
 ---
 
 # AI Agent 生态里的「政策比技术更重要」现象正在被验证

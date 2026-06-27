@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "腾讯版《三体》文革描写缩减背后：审查的时间梯度效应正在被从业者感知"
 description: "**[内容边界随时间窗口收缩，而非扩张]**  Michael Anti 的观察揭示了一个常被忽视的创作规律：越接近当下，审查摩擦成本越高。腾讯《三体》剧版对文革描写的主动缩减，与原版书籍的时间距离形成讽刺对照——这不是倒退，而是出版与视听媒介审查成本计算的差异。  - 文字媒介比视听媒介拥有更大的历史纵深空间 - 平台方对「可呈现历史」的自我审查正在形成稳定的内部标准  gakki 说：这个观察"
 resource: "https://x.com/i/status/2057340281280921919"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2057340281280921919"
-created: "2026-05-21"
-updated: "2026-06-26"
-sha256: "5fd9e23f1a3b994f801f2aa9a3ff0b3ea06cb3b0c283b48158ee7af515a32a6a"
-sources:
-  - "/sources/news/2026-05-21/00__mranti__腾讯版-三体-文革描写缩减背后-审查的时间梯度效应正在被从业者感知.md"
 ---
 
 # 腾讯版《三体》文革描写缩减背后：审查的时间梯度效应正在被从业者感知

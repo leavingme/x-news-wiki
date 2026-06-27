@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "1300u买来的残酷真相：自进化量化系统的「AI成本陷阱」"
 description: "**AI编程的「烧钱幻觉」被戳破。** • GPT5.4+Claude+Gemini+Cursor累计1300u投入，产出策略与双均线相当，ROI接近归零 • 揭示AI Coding的隐性成本：模型调用费+工具订阅+迭代损耗，远超预期 • 动态策略生成理论可行，但「自进化」不等于「自优化」，缺乏领域知识注入的纯AI迭代容易陷入局部最优  **gakki锐评：** 这是最诚实的AI Coding复盘"
 resource: "https://x.com/i/status/2035481423914913856"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2035481423914913856"
-created: "2026-03-21"
-updated: "2026-06-26"
-sha256: "a78ee21cc36d29fc21cc29528cf5b4e109c4cc51215a9dd68ceb2e7b7e0078f4"
-sources:
-  - "/sources/highlights/2026-03-22/00__CryptoPainter__1300u买来的残酷真相-自进化量化系统的-ai成本陷阱.md"
 ---
 
 # 1300u买来的残酷真相：自进化量化系统的「AI成本陷阱」

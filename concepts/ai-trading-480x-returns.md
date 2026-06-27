@@ -1,27 +1,22 @@
 ---
-type: "concept"
-title: "ai-trading-480x-returns"
-description: "跨日主题 \"ai-trading-480x-returns\"，共 3 条相关精选推文。"
+type: "Concept"
+title: "AI 交易 480 倍收益"
+description: "跨日主题 \"AI 交易 480 倍收益\" (ai-trading-480x-returns)，共 3 条相关精选推文。"
 tags:
   - "x-news"
   - "concept"
   - "topic:ai-trading-480x-returns"
-timestamp: "2026-06-26T11:53:37.015Z"
+timestamp: "2026-06-27T08:40:42.855Z"
 x_topic_slug: "ai-trading-480x-returns"
 x_tweet_count: 3
 x_first_seen: "2026-04-18T12:44:58.286Z"
 x_last_seen: "2026-04-19T00:45:05.739Z"
-type_okf: "Concept"
-created: "2026-04-18"
-updated: "2026-06-26"
-sha256: "3f5f8f2f24083a868638a59a14e59c27a8ee791b9d8d11e8bec4a86a704e6791"
-sources:
-  - "/sources/highlights/2026-04-18/00__qkl2058__mit学生用四个按钮-语音做了一个盒子-8个月在polymarket赚了450万美元.md"
-  - "/sources/news/2026-04-18/00__eth_cedric__meme币开始-长脑子-ai策略接管三种经典机制.md"
-  - "/sources/news/2026-04-19/00__XDmnnn0616__3000x实证-ai交易agent进入-策略可复现-阶段.md"
+x_cn_title_source: "dict"
 ---
 
-# 主题: ai-trading-480x-returns
+# 主题: AI 交易 480 倍收益
+
+> slug: `ai-trading-480x-returns`
 
 本主题下共 **3** 条精选推文。
 

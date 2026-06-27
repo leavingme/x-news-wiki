@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Claude Code 订阅已重置：端午节额度窗口期的使用提醒"
 description: "**Claude Code 订阅额度按周期重置，节假日窗口是薅羊毛黄金期。**  - 歸藏提示 Claude Code 额度已重置，端午节可密集使用 - 侧面印证 Anthropic 订阅有明确周期配额机制（与此前「订阅额度白名单」讨论呼应） - 对重度用户而言，节假日重置日 = 一次性大额度窗口，是工作流排期的硬约束   gakki 锐评：额度重置本是产品细节，但被社区当成「节日彩蛋」传播，说明"
 resource: "https://x.com/i/status/2067897620320907404"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2067897620320907404"
-created: "2026-06-19"
-updated: "2026-06-26"
-sha256: "06a7da8ac5de2029798b0881c2f5c86a813f04d4c0337b14a45d48d538d8f47a"
-sources:
-  - "/sources/news/2026-06-19/00__op7418__claude-code-订阅已重置-端午节额度窗口期的使用提醒.md"
 ---
 
 # Claude Code 订阅已重置：端午节额度窗口期的使用提醒

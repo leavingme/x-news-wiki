@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "推理性能翻倍：Google 发布 Gemini 3.1 Pro 预览版"
 description: "**[核心逻辑]** Google 通过架构优化实现推理能力阶梯式跨越，ARC-AGI-2 得分翻倍（77.1%），全面反超 GPT-5.2 与 Claude 4.6。 - 推理基准测试 ARC-AGI-2 从 31.1% 飙升至 77.1%，解决全新逻辑模式能力极强。 - 针对 Agent 场景新增自定义工具端点，长链专业任务表现接近翻倍。 - 保持原价：能力大幅提升但 API 计费标准维持不变"
 resource: "https://x.com/i/status/2024611287091589499"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2024611287091589499"
-created: "2026-02-19"
-updated: "2026-06-26"
-sha256: "e786125edd849edac1be6d4c95eb71ef9de03da1d2415169b520809ab8d41880"
-sources:
-  - "/sources/news/2026-02-20/00__dotey__推理性能翻倍-google-发布-gemini-3-1-pro-预览版.md"
 ---
 
 # 推理性能翻倍：Google 发布 Gemini 3.1 Pro 预览版

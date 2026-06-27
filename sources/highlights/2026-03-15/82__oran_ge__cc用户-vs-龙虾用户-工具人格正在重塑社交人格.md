@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "CC用户 vs 龙虾用户：工具人格正在重塑社交人格"
 description: "**[Claude Code用户与OpenClaw用户的行为差异，揭示了AI工具对社交模式的深层影响]**  • 用户画像分化：CC用户「在家和AI聊天」，龙虾用户「在外和人social」 • 社交隐喻：AI工具正在成为新时代的MBTI分类——I人深度绑定AI，E人绑定社交型平台 • 产品信号：工具选择不再只是效率偏好，而是生活方式的自我定义  gakki 锐评：以前我们说「你用什么手机」定义你，"
 resource: "https://x.com/i/status/2032959390563921926"
@@ -22,13 +22,6 @@ x_selected: 2
 x_priority: 82
 x_related_topic: "claude-code-ecosystem"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2032959390563921926"
-created: "2026-03-14"
-updated: "2026-06-26"
-sha256: "74d6699eafd302923a9a22b6fe6159dd9bb3c51ef952aa08ec53313bbde022d4"
-sources:
-  - "/sources/highlights/2026-03-15/82__oran_ge__cc用户-vs-龙虾用户-工具人格正在重塑社交人格.md"
 ---
 
 # CC用户 vs 龙虾用户：工具人格正在重塑社交人格

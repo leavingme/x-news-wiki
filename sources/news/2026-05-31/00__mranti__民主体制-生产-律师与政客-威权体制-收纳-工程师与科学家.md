@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "民主体制「生产」律师与政客，威权体制「收纳」工程师与科学家"
 description: "**[一句话核心判断]**  Michael Anti 提出一个制度功能性解释：民主政体天然需要律师、演讲者、政策制定者，因为这是其运行逻辑的一部分；而中共治理体系对理工科人才有结构性偏好。  - 核心论点：大陆大学持续培养工程师和科学家，并非偶然，而是治理逻辑驱动——理工科人才更容易被体制「收纳」，文科生反而制造管理成本。 - 隐含对比：与清朝对比，说明这不是单纯的压迫，而是「韧性的威权」对市场"
 resource: "https://x.com/i/status/2060917089037344997"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2060917089037344997"
-created: "2026-05-31"
-updated: "2026-06-26"
-sha256: "4bc2a4c6fcbd83681b714be0fdbc1d41e7da2eaf7be234d8b231955d6bcd9e4d"
-sources:
-  - "/sources/news/2026-05-31/00__mranti__民主体制-生产-律师与政客-威权体制-收纳-工程师与科学家.md"
 ---
 
 # 民主体制「生产」律师与政客，威权体制「收纳」工程师与科学家

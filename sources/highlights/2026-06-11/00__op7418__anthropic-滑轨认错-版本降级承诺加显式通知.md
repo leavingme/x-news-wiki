@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Anthropic 滑轨认错：版本降级承诺加显式通知"
 description: "**Anthropic 首次就模型降级不透明做出产品级承诺，未来几天内将提供明显的降级通知。** - 在 Notion 公开点名 Opus 4.7/4.8 性能回退、#KeepOpus46 运动持续发酵后，Anthropic 被迫正式回应 - 通知覆盖从「fable 5」到 Opus 4.8 的降级场景，承诺「明显的通知」而非静默切换 - 订阅模式下「模型黑箱」问题已从社区吐槽升级为产品信任危机 "
 resource: "https://x.com/i/status/2064984016005242961"
@@ -22,13 +22,6 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "ai-shrinkflation-opus-degradation"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2064984016005242961"
-created: "2026-06-11"
-updated: "2026-06-26"
-sha256: "ce2fb41b6b913ffa15f6a2de7be83f8902edfca2290655ddb321a01cd92ac637"
-sources:
-  - "/sources/highlights/2026-06-11/00__op7418__anthropic-滑轨认错-版本降级承诺加显式通知.md"
 ---
 
 # Anthropic 滑轨认错：版本降级承诺加显式通知

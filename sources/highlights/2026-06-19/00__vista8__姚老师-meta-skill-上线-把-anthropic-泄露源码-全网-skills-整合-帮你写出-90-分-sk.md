@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "姚老师 Meta Skill 上线：把 Anthropic 泄露源码 + 全网 Skills 整合，帮你写出 90 分 Skill"
 description: "**[Skills 生态出现\"元 Skill\"层——一个专门帮你写好 Skill 的 Skill]**  - 整合来源：Anthropic 官方泄露的 Claude Code 源码 + 全网其他模型 Skills - 经过一个月打磨，向阳乔木评价\"用过的最好 Meta Skill\" - 定位：不会写 Skill 也能用此工具产出 90 分水准 - 对标官方 skill-creator，被认为\"强大"
 resource: "https://x.com/i/status/2067748609509257601"
@@ -22,13 +22,6 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "skills-ecosystem-standards"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2067748609509257601"
-created: "2026-06-18"
-updated: "2026-06-26"
-sha256: "76ddd5f303e9b0320d086f9d4df01fc8c0001fc84827cfab851e8aa6eb29b32c"
-sources:
-  - "/sources/highlights/2026-06-19/00__vista8__姚老师-meta-skill-上线-把-anthropic-泄露源码-全网-skills-整合-帮你写出-90-分-sk.md"
 ---
 
 # 姚老师 Meta Skill 上线：把 Anthropic 泄露源码 + 全网 Skills 整合，帮你写出 90 分 Skill

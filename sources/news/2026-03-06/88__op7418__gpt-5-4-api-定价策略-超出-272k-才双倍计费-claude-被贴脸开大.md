@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "GPT-5.4 API 定价策略：超出 272K 才双倍计费，Claude 被贴脸开大"
 description: "**[OpenAI 用「分段计费」打价格战，长上下文成本结构重构]** • 272K 内正常计费，超出部分 2x，比 Claude 的统一定价更贴合实际使用场景 • Tool search + 改进的 tool calling 降低大规模工具生态的 token 成本与延迟 • Agentic 便秘能力（长耗时、多工具工作流）成为官方卖点术语  这是典型的「基础设施层」竞争逻辑：先把价格打下来，再等"
 resource: "https://x.com/i/status/2029624904908509285"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 88
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2029624904908509285"
-created: "2026-03-05"
-updated: "2026-06-26"
-sha256: "383e3e42faab741a1fe55f256b34318b6fa286fd98161c36f78dd3025598a80c"
-sources:
-  - "/sources/news/2026-03-06/88__op7418__gpt-5-4-api-定价策略-超出-272k-才双倍计费-claude-被贴脸开大.md"
 ---
 
 # GPT-5.4 API 定价策略：超出 272K 才双倍计费，Claude 被贴脸开大

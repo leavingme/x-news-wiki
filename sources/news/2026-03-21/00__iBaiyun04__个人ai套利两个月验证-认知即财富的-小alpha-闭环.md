@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "个人AI套利两个月验证：认知即财富的「小Alpha」闭环"
 description: "**AI时代认知套利的个体实证——两周$110盈利覆盖生活费。** • 证明了AI信息差套利在个体层面的可操作性，从\"机构特权\"变为\"个人技能\" • \"$110覆盖生活费\"揭示了一个被忽视的范式：AI套利正在从投机行为转向稳定的现金流工具 • 关键在于\"测试运行阶段\"的表述——说明存在可系统化的方法论，而非依赖运气  **gakki锐评：** 这不再是\"别人怎么赚钱\"的故事，而是\"认知变现的基础设"
 resource: "https://x.com/i/status/2035242366379204853"
@@ -22,13 +22,6 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "ai-crypto-agent-infra"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2035242366379204853"
-created: "2026-03-21"
-updated: "2026-06-26"
-sha256: "c8ccae424d98db07bda730cfef66f6b0db9936e675ea28b39ef0c890dc11f6a1"
-sources:
-  - "/sources/news/2026-03-21/00__iBaiyun04__个人ai套利两个月验证-认知即财富的-小alpha-闭环.md"
 ---
 
 # 个人AI套利两个月验证：认知即财富的「小Alpha」闭环

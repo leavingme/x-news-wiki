@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Claude Code 源码泄露暴露出 Anthropic 的「卧底模式」与愚人节彩蛋"
 description: "**[Anthropic 员工的「隐蔽署名」模式，比 Claude Code 本身更值得警惕]**  Claude Code 源码通过 sourcemap 逆向泄露，曝光了几个关键细节：Anthropic 员工在公开仓库有「卧底模式」，会自动移除一切 AI 署名且无关闭选项——这意味着官方贡献者的痕迹可以被系统性抹除。此外内置愚人节宠物养成系统（18 个物种、稀有度、属性、帽子）、capybara"
 resource: "https://x.com/i/status/2038931784382185661"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2038931784382185661"
-created: "2026-03-31"
-updated: "2026-06-26"
-sha256: "616b54676af86b3770747dbf6caa7f34ea4d00c571f5a8c431d107647cf68da4"
-sources:
-  - "/sources/highlights/2026-04-11/00__AprilNEA__claude-code-源码泄露暴露出-anthropic-的-卧底模式-与愚人节彩蛋.md"
 ---
 
 # Claude Code 源码泄露暴露出 Anthropic 的「卧底模式」与愚人节彩蛋

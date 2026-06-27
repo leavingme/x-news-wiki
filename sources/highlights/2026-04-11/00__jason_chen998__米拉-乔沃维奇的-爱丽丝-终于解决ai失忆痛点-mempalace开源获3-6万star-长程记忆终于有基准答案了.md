@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "米拉·乔沃维奇的「爱丽丝」终于解决AI失忆痛点：MemPalace开源获3.6万Star，长程记忆终于有基准答案了"
 description: "**[一句话核心判断]**  Mila Jovovich 联合开发者 Ben Sigman 开源了 MemPalace——一个解决 AI 对话中断、上下文丢失的系统，在 LongMemEval 基准上拿到最高分，且完全本地运行、免费。  **信息增量：** - 她自己作为重度用户，花了一晚上讨论到第二天就要重新开始，痛点真实且高频 - 解决的是「AI失忆」而非「上下文不够长」——这是架构层面的重新"
 resource: "https://x.com/i/status/2042425272352588012"
@@ -22,13 +22,6 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "agent-memory-optimization"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2042425272352588012"
-created: "2026-04-10"
-updated: "2026-06-26"
-sha256: "5aae68f6558176f9896ef40ce8ac1bdff8cc24397c793b81c81c2f1c0d4837ef"
-sources:
-  - "/sources/highlights/2026-04-11/00__jason_chen998__米拉-乔沃维奇的-爱丽丝-终于解决ai失忆痛点-mempalace开源获3-6万star-长程记忆终于有基准答案了.md"
 ---
 
 # 米拉·乔沃维奇的「爱丽丝」终于解决AI失忆痛点：MemPalace开源获3.6万Star，长程记忆终于有基准答案了

@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Michael Anti 拆解美国 AI UBI 为何不会发生：缺政治压力，政权得给发薪企业'无上好处'"
 description: "**AI 公司不会主动给公民发薪，UBI 需要政治压力推动** - 历史经验：福利制度建立的前提是足够的社会声音和压力 - 当前美国政治框架下，AI 公司缺乏发薪动机，除非政权提供'无上好处' - 揭示了 AI 红利分配的结构性障碍：技术进步 ≠ 自动普惠   gakki 锐评：这条回复戳破了一个常见幻觉——AI 创造大量财富不等于自动流向全民，关键变量始终是政治博弈而非技术能力。任何'算力 UB"
 resource: "https://x.com/i/status/2066720915220832650"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2066720915220832650"
-created: "2026-06-16"
-updated: "2026-06-26"
-sha256: "8e264a7e781fe33d1fbaa02f15814cd0ac6a8e15218f5d8f1a2981f5a4196537"
-sources:
-  - "/sources/news/2026-06-16/00__mranti__michael-anti-拆解美国-ai-ubi-为何不会发生-缺政治压力-政权得给发薪企业-无上好处.md"
 ---
 
 # Michael Anti 拆解美国 AI UBI 为何不会发生：缺政治压力，政权得给发薪企业'无上好处'

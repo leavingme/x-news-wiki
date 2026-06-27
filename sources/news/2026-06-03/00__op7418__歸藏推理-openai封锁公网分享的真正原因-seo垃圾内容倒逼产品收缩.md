@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "歸藏推理：OpenAI封锁公网分享的真正原因——SEO垃圾内容倒逼产品收缩"
 description: "**[平台公共能力正在为内容质量治理付出代价]**  歸藏揭示了一个真实的平台产品决策逻辑：OpenAI移除公网分享网页功能，核心原因是用户大量用于SEO农场和广告填充内容，导致平台内容质量被污染。这不是技术故障，是商业化与平台质量的取舍。  推论：未来AI平台开放公共能力时会更加谨慎，API能力与消费级能力的边界会更清晰。  gakki：做平台的人都能理解这个痛——你开放一个能力，用户把它变成S"
 resource: "https://x.com/i/status/2062027573044138239"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2062027573044138239"
-created: "2026-06-03"
-updated: "2026-06-26"
-sha256: "27b4e364766108c93fc29745c797046cccad4eb110cdb1527efe526744225b05"
-sources:
-  - "/sources/news/2026-06-03/00__op7418__歸藏推理-openai封锁公网分享的真正原因-seo垃圾内容倒逼产品收缩.md"
 ---
 
 # 歸藏推理：OpenAI封锁公网分享的真正原因——SEO垃圾内容倒逼产品收缩

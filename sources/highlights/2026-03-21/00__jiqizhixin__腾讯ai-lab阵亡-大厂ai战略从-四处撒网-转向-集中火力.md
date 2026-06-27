@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "腾讯AI Lab阵亡：大厂AI战略从「四处撒网」转向「集中火力」"
 description: "**[战略收缩的信号]** • 腾讯AI Lab（2016年成立，曾主导绝悟AI、觅影医疗等平台）整体并入混元团队，反映大厂AI战略从探索型分散投入转向集中式大模型押注 • 伴随组织调整的是人才外流与领导层变动，行业进入AI实验室「优胜劣汰」阶段 • 对比海外（OpenAI、Anthropic持续扩张），国内大厂AI研究机构的生存压力正在显现  腾讯的「Make AI Everywhere」愿景，"
 resource: "https://x.com/i/status/2034990665168511149"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2034990665168511149"
-created: "2026-03-20"
-updated: "2026-06-26"
-sha256: "049e4f526caa63706e90e5d9653e1862e9cb0056beb3ea28eb693420cddb89d6"
-sources:
-  - "/sources/highlights/2026-03-21/00__jiqizhixin__腾讯ai-lab阵亡-大厂ai战略从-四处撒网-转向-集中火力.md"
 ---
 
 # 腾讯AI Lab阵亡：大厂AI战略从「四处撒网」转向「集中火力」

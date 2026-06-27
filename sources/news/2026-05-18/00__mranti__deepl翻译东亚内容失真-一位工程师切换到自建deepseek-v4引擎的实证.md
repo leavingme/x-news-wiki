@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "DeepL翻译东亚内容失真？一位工程师切换到自建Deepseek v4引擎的实证"
 description: "**核心判断：DeepL在通用场景领先，但涉及中国地名、人名、古文引语时存在系统性失真。**  • Michael Anti的实测结论：DeepL处理东亚英文文章时，中文名字翻译混乱，无法识别中国地名和古文引语 • 切换到自建Deepseek v4 flash引擎后，翻译质量显著提升，尤其在日文翻译和中文文化负载词上 • 这个案例说明：在高文化特异性场景下，开源模型的自托管可能优于商业通用方案  "
 resource: "https://x.com/i/status/2056283237807456677"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2056283237807456677"
-created: "2026-05-18"
-updated: "2026-06-26"
-sha256: "77dc319bf3a308da0ea5df4be7725ebcdd63fda900491906d80756e1fb3086ed"
-sources:
-  - "/sources/news/2026-05-18/00__mranti__deepl翻译东亚内容失真-一位工程师切换到自建deepseek-v4引擎的实证.md"
 ---
 
 # DeepL翻译东亚内容失真？一位工程师切换到自建Deepseek v4引擎的实证

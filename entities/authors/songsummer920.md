@@ -1,24 +1,17 @@
 ---
-type: "entity"
+type: "Author"
 title: "宋夏天Dazzle (@songsummer920)"
 description: "X/Twitter 作者 @songsummer920。共收录 2 条 AI 精选推文。"
 tags:
   - "x-news"
   - "author"
   - "author:songsummer920"
-timestamp: "2026-06-26T11:53:37.001Z"
+timestamp: "2026-06-27T08:40:40.217Z"
 x_handle: "songsummer920"
 x_author_name: "宋夏天Dazzle"
 x_tweet_count: 2
 x_first_seen: "2026-06-24T22:28:00.860Z"
 x_last_seen: "2026-06-24T22:28:01.005Z"
-type_okf: "Author"
-created: "2026-06-24"
-updated: "2026-06-26"
-sha256: "5895e65bc625aa47006e65978d622176575a8ffe6e847dbc96b8e5b3298c13a9"
-sources:
-  - "/sources/news/2026-06-24/00__songsummer920__图片-3d-地图大屏全流程跑通-codex-threejs-把-ai-生成-ui-推到生产可编辑级别.md"
-  - "/sources/news/2026-06-24/00__songsummer920__宋夏天演示-image-dashboard-一张截图直通生产级代码-可编辑-figma-设计稿.md"
 ---
 
 # 宋夏天Dazzle (@songsummer920)

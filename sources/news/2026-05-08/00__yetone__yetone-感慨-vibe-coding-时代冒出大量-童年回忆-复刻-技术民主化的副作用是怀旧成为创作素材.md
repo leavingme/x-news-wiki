@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "yetone 感慨 Vibe Coding 时代冒出大量「童年回忆」复刻：技术民主化的副作用是怀旧成为创作素材"
 description: "**Vibe Coding 让非专业开发者复刻童年交互成为可能，但这暴露了一个更深层的模式。** - yetone 十几年前就用手机拍照片+监听鼠标位置做了眼球追踪摇头效果，如今这类项目大量涌现 - 技术门槛降低后，「情怀驱动」成为最自然的创作动机，而非商业或技术突破 - 这也验证了 Vibe Coding 的本质：不是让工程师更快，而是让「有想法但没技术」的人能动手  gakki 锐评：当所有人"
 resource: "https://x.com/i/status/2052841431522590725"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2052841431522590725"
-created: "2026-05-08"
-updated: "2026-06-26"
-sha256: "eb6b42aad824a4499ffe823e8de3748e04d5efbb15429d8df1c8bd04a4a4d23c"
-sources:
-  - "/sources/news/2026-05-08/00__yetone__yetone-感慨-vibe-coding-时代冒出大量-童年回忆-复刻-技术民主化的副作用是怀旧成为创作素材.md"
 ---
 
 # yetone 感慨 Vibe Coding 时代冒出大量「童年回忆」复刻：技术民主化的副作用是怀旧成为创作素材

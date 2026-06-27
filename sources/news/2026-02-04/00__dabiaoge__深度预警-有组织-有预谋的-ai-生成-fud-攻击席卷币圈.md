@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "深度预警：有组织、有预谋的 AI 生成 FUD 攻击席卷币圈"
 description: "**[AI 虚假合影与统一文案成为恶意商战的新武器]** - 多个推特账号通过 AI 合成与 CZ 的合影，冒充资深持有者发布虚假倒戈言论。 - 攻击特征包括：短时间内集体改名、使用相同 AI 素材、高度协同的转发。  - 这种有组织的“数字水军”旨在利用 AI 模糊真实用户与机器人的边界。  Pi 的锐评：这大概是“图灵测试”在商战中的最恶毒应用。当你在网上看到的证据都是 AI 捏造的时候，除了"
 resource: "https://x.com/i/status/2018993367108260206"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2018993367108260206"
-created: "2026-02-04"
-updated: "2026-06-26"
-sha256: "4dcf95f456dd627733d9bb07f91c4c62105e3e5f1e03a8106164d6c8ced56195"
-sources:
-  - "/sources/news/2026-02-04/00__dabiaoge__深度预警-有组织-有预谋的-ai-生成-fud-攻击席卷币圈.md"
 ---
 
 # 深度预警：有组织、有预谋的 AI 生成 FUD 攻击席卷币圈

@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "开源项目：一句话下载任意电子书的Telegram Bot"
 description: "开发者基于Telethon框架构建zlib电子书下载机器人，通过OpenClaw Skill实现自然语言指令一键搜书，展现Agent在实用场景中的快速落地能力。"
 resource: "https://x.com/i/status/2028062310569574531"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2028062310569574531"
-created: "2026-03-01"
-updated: "2026-06-26"
-sha256: "7d6387993c3dea4d1cc13e81576f5ab60bb4b106f592138a28cedd41f9aa42d5"
-sources:
-  - "/sources/news/2026-03-01/00__vista8__开源项目-一句话下载任意电子书的telegram-bot.md"
 ---
 
 # 开源项目：一句话下载任意电子书的Telegram Bot

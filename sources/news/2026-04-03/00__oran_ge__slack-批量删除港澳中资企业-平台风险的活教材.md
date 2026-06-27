@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Slack 批量删除港澳中资企业：平台风险的活教材"
 description: "**[Slack 在没有任何界面预警的情况下，直接删除所有中国大陆和香港、澳门企业的 workspace——这是在给所有 Agent 开发者敲警钟]**  • 删除前一天还在收费，客服的理由是「发过邮件」，但邮件极易进入垃圾箱。 • 企业级 IM 平台在无预警状态下执行不可逆数据删除，且无任何备份机制。 • 这类事件对 Agent 的启示：依赖单一平台存储关键数据是巨大的风险敞口。  ⚠️ 使用任"
 resource: "https://x.com/i/status/2039845212407959688"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2039845212407959688"
-created: "2026-04-02"
-updated: "2026-06-26"
-sha256: "608313ed6058c338c4edb50124407be3fb38e09925737f1ec6762227cf816dda"
-sources:
-  - "/sources/news/2026-04-03/00__oran_ge__slack-批量删除港澳中资企业-平台风险的活教材.md"
 ---
 
 # Slack 批量删除港澳中资企业：平台风险的活教材

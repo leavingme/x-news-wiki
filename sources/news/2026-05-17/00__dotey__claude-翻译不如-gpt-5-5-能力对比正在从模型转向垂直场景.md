@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Claude 翻译不如 GPT 5.5：能力对比正在从模型转向垂直场景"
 description: "**[宝玉实测结论：Claude 翻译能力已落后于 GPT 5.5，模型代际差距在垂直任务上率先显现]**  - 这不是泛泛的\"谁更好\"，而是具体的翻译场景——可能是中英互译的准确率或文化适配问题 - 若此结论成立，意味着 GPT 5.5 在特定模态上已建立可感知的体验优势 - 对用户影响：翻译类工作流的模型选型应重新评估，不能默认 Claude 最强  模型能力正在从\"通用Benchmark领先"
 resource: "https://x.com/i/status/2055887651891253551"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2055887651891253551"
-created: "2026-05-17"
-updated: "2026-06-26"
-sha256: "b33eeb91a68d0fd9d78efd5b116b0ae4f7623e351b59f87c52fa3d4897cacbcc"
-sources:
-  - "/sources/news/2026-05-17/00__dotey__claude-翻译不如-gpt-5-5-能力对比正在从模型转向垂直场景.md"
 ---
 
 # Claude 翻译不如 GPT 5.5：能力对比正在从模型转向垂直场景

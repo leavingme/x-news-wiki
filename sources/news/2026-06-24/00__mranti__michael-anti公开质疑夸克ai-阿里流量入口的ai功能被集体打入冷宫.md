@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Michael Anti公开质疑夸克AI：阿里流量入口的AI功能被集体打入冷宫"
 description: "**知名科技博主Michael Anti公开质疑：夸克AI到底谁在用？这款阿里旗下产品的AI功能存在感远低于其网盘定位。**  - 夸克作为阿里C端流量入口，AI功能缺乏独立产品力 - 用户心智仍停留在\"网盘/浏览器\"层面，AI功能沦为挂件 - 反映大厂AI功能\"塞进现有产品\"的集成策略普遍失效 - 与近期大厂AI战略收缩形成呼应   gakki锐评：夸克AI的尴尬不是个例，而是大厂\"AI功能化\""
 resource: "https://x.com/i/status/2069606719399825440"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2069606719399825440"
-created: "2026-06-24"
-updated: "2026-06-26"
-sha256: "7cb62d3f186fa9f2e0f35f91ef4875e83d4d71265fb690bdf427cba690bc75d0"
-sources:
-  - "/sources/news/2026-06-24/00__mranti__michael-anti公开质疑夸克ai-阿里流量入口的ai功能被集体打入冷宫.md"
 ---
 
 # Michael Anti公开质疑夸克AI：阿里流量入口的AI功能被集体打入冷宫

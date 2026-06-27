@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Anthropic API涨价50倍杀死订阅幻觉：本地模型混合部署从「备选」变「必选」"
 description: "**[一句话核心判断]**  Anthropic4月4日调价后，token成本上涨约50倍，月订阅用户切按量计费单日最高烧5000美元。这直接验证了一个判断：任何依赖单一API供应商的Agent业务，成本结构都是脆弱的。  **关键要点：** - 核心推理保留云端Claude，简单任务和高频调用迁移本地模型 - 本地模型能力已达云端60-70%，差距快速缩小 - Google Gemma 4（31"
 resource: "https://x.com/i/status/2041152259900469725"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2041152259900469725"
-created: "2026-04-06"
-updated: "2026-06-26"
-sha256: "ba5927cb03634462292b01d6e3541e34029cc8df77463de9d41ec32e1f358332"
-sources:
-  - "/sources/highlights/2026-04-07/00__xincctnnq__anthropic-api涨价50倍杀死订阅幻觉-本地模型混合部署从-备选-变-必选.md"
 ---
 
 # Anthropic API涨价50倍杀死订阅幻觉：本地模型混合部署从「备选」变「必选」

@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "天策发布 Claude + 龙虾一键部署教程：Agent 基础设施的竞争正在从「能不能用」下沉到「能不能三分钟装好」"
 description: "**Agent 部署门槛正在被压缩到「三分钟」，这标志着生态从技术层下沉到分发层。**  - 天策迭代多次后发布一键部署 Claude + OpenClaw 教程，目标用户锁定「小白」 - 核心卖点不是技术突破，而是摩擦力归零——学不会来砍他 - 背后趋势：开源 Agent 生态的竞争维度从「功能丰富度」转向「部署便利度」  当一键部署成为生态标配，Agent 的竞争将从「谁能做」变成「谁分发得快"
 resource: "https://x.com/i/status/2052758131831189712"
@@ -22,13 +22,6 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "agent-deployment-service"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2052758131831189712"
-created: "2026-05-08"
-updated: "2026-06-26"
-sha256: "1904e33d712519c36ce129998c4ff4c771efcef87632574e0f07f7222402462d"
-sources:
-  - "/sources/news/2026-05-08/00__Leobai825__天策发布-claude-龙虾一键部署教程-agent-基础设施的竞争正在从-能不能用-下沉到-能不能三分钟装好.md"
 ---
 
 # 天策发布 Claude + 龙虾一键部署教程：Agent 基础设施的竞争正在从「能不能用」下沉到「能不能三分钟装好」

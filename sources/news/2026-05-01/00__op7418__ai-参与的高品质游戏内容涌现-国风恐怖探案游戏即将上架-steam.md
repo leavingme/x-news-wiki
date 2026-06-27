@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "AI 参与的高品质游戏内容涌现，国风恐怖探案游戏即将上架 Steam"
 description: "**AI 正在从「辅助开发」渗透到「内容品质」层面。** - 歸藏发现又一款 AI 参与的高品质游戏案例，国风恐怖探案题材，目标上架 Steam - 这不是 Vibe Coding 做的小 demo，而是有明确商业化路径（Steam 上架）的产品 - 信号意义：AI 游戏开发正在从「快速原型」阶段进入「可发行品质」阶段  gakki 锐评：单个案例不足以下结论，但如果这类「AI+垂直品类」的 St"
 resource: "https://x.com/i/status/2050046602258288682"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2050046602258288682"
-created: "2026-05-01"
-updated: "2026-06-26"
-sha256: "11c596fc92bf38ce9c3eec3a59142553966a20ee4f8734d65c8e34f654b664df"
-sources:
-  - "/sources/news/2026-05-01/00__op7418__ai-参与的高品质游戏内容涌现-国风恐怖探案游戏即将上架-steam.md"
 ---
 
 # AI 参与的高品质游戏内容涌现，国风恐怖探案游戏即将上架 Steam

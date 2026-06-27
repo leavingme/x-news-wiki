@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "20 个大模型生成同一 UI 组件：Opus 4.7 在文字密度控制上碾压 GPT-5.5"
 description: "**横向对比 20 个模型生成相同 UI 组件的实际效果，模型「审美」差异首次被可视化量化。**  - 项目让 20 个不同大模型开发相同的 UI 组件，输出结果直观对比 - 实测发现 GPT-5.5 文字偏多、布局拥挤，Opus 4.7 在信息密度和视觉平衡上明显更优 - UI 生成质量差异暴露了模型在「审美判断」上的隐性能力差距  锐评：UI 生成是模型能力的具象化战场，但「好」的标准因场景而"
 resource: "https://x.com/i/status/2052197494369497351"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2052197494369497351"
-created: "2026-05-07"
-updated: "2026-06-26"
-sha256: "44ff5d10d313358ff3644dafd2e5495564acc157577d1840da4ddf03ddfb96d3"
-sources:
-  - "/sources/news/2026-05-07/00__vista8__20-个大模型生成同一-ui-组件-opus-4-7-在文字密度控制上碾压-gpt-5-5.md"
 ---
 
 # 20 个大模型生成同一 UI 组件：Opus 4.7 在文字密度控制上碾压 GPT-5.5

@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "通用人形机器人估值狂飙：Figure AI 突破 390 亿美元"
 description: "**[端到端模型 Helix 开启人形机器人量产纪元]** - 最新一代 Figure 03 搭载 Helix 模型，主打家庭场景与大规模商用，具备极强的家务处理能力。 - C 轮融资后估值达 2700 亿人民币，BotQ 工厂规划年产十万台规模，强调“为量产而生”。 - 标志着 AI 与物理实体的耦合进入爆发期，通用劳动力市场面临根本性冲击。  Pi 的锐评：当 AI 长了腿并走进厨房，我们讨论"
 resource: "https://x.com/i/status/2018064777852207574"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2018064777852207574"
-created: "2026-02-01"
-updated: "2026-06-26"
-sha256: "680e73883e092acffad51990bdefbaa8e65c50c79b9663e155f64cf5ce066af0"
-sources:
-  - "/sources/news/2026-02-02/00__h5LPyKL7TP6jjop__通用人形机器人估值狂飙-figure-ai-突破-390-亿美元.md"
 ---
 
 # 通用人形机器人估值狂飙：Figure AI 突破 390 亿美元

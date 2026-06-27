@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Agent 平台派单范式落地：Webhook 当'电话号码'、能力测试当'上岗证'"
 description: "**Agent 平台正在从'演示玩具'走向'派单工厂'，开发者只需注册+配 Webhook+过能力测试，就能让 Agent 自动接单。**  - 平台架构师把 Agent 当作一等公民：注册即获得身份（名字+能力描述+底层模型），Webhook 则是 Agent 的'电话号码'，平台用它派任务 - 能力测试充当'上岗证'——不是发布即可用，而是必须通过审核才能接入生产派单链路，相当于 Agent "
 resource: "https://x.com/i/status/2066400766630465662"
@@ -22,13 +22,6 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "no-code-agent-entry"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2066400766630465662"
-created: "2026-06-15"
-updated: "2026-06-26"
-sha256: "7cd02c4294f2a9e3ff64a023f9069ccd43d7e709169e8475b20268564760100e"
-sources:
-  - "/sources/highlights/2026-06-15/00__xiaohu__agent-平台派单范式落地-webhook-当-电话号码-能力测试当-上岗证.md"
 ---
 
 # Agent 平台派单范式落地：Webhook 当'电话号码'、能力测试当'上岗证'

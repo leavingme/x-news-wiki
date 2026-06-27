@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "MSA记忆稀疏注意力：长上下文从「查找」迈向「联想」"
 description: "**[1亿token上下文+记忆交错机制，让模型实现类人类的多跳回忆能力]**  • 技术突破：MSA实现1亿token端到端处理，更重要的是Memory Interleaving机制 • 认知跃迁：从「单跳检索」到「多跳推理」，模型在散落记忆片段间跳跃关联 • 范式意义：首次在机制层面逼近人类回忆方式——不是精确检索，而是碎片间跳跃关联  **gakki锐评**：当AI的记忆方式开始像人类一样「"
 resource: "https://x.com/i/status/2035192024471675213"
@@ -22,13 +22,6 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "agent-memory-optimization"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2035192024471675213"
-created: "2026-03-21"
-updated: "2026-06-26"
-sha256: "4d82435f3c0d82faf08006f588a637c3363e43158b6a83e7ea814b03e8aee853"
-sources:
-  - "/sources/news/2026-03-22/00__elliotchen100__msa记忆稀疏注意力-长上下文从-查找-迈向-联想.md"
 ---
 
 # MSA记忆稀疏注意力：长上下文从「查找」迈向「联想」

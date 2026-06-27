@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Claude Code「远程控制」隐藏开关：手机端成为 Agent 指挥塔的工程化落地"
 description: "**[一条 /config 指令打通移动端与桌面端的 Agent  orchestration 链路]** • Enable Remote Control 功能允许手机 Claude App 实时查看并操作电脑端的所有对话会话 • 实现了「移动场景触发指令 → 桌面端执行 → 手机查看结果」的跨设备闭环 • 技术意义：Agent 正在从「单点工具」进化为「分布式执行节点」，手机成为 orchest"
 resource: "https://x.com/i/status/2034627609720725812"
@@ -22,13 +22,6 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "agent-mobile-orchestration"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2034627609720725812"
-created: "2026-03-19"
-updated: "2026-06-26"
-sha256: "962c861a485f11b8cdf81fea1f673a64b18e814f95a687040b8df2d190376408"
-sources:
-  - "/sources/news/2026-03-20/00__xiaohu__claude-code-远程控制-隐藏开关-手机端成为-agent-指挥塔的工程化落地.md"
 ---
 
 # Claude Code「远程控制」隐藏开关：手机端成为 Agent 指挥塔的工程化落地

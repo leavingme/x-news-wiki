@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "字节跳动AI「超级程序员」颠覆CUDA霸权：自研代码生成模型性能超Claude 40%"
 description: "**【算力民主化的中国路径浮现】** • 核心突破：字节用纯强化学习训练AI写CUDA Kernel，性能比torch.compile快2倍，超越Claude/Gemini达40% • 战略意义：绕过英伟达数十年积累的编译器 expertise，用AI替代人类顶尖GPU工程师 • 连锁反应：若开源或落地，将直接冲击NV编译器护城河，国产算力效率瓶颈或被打破 • 悬念：论文因美伊冲突被淹没，但技术路"
 resource: "https://x.com/i/status/2030579353596108953"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
-
 x_source: "bookmark"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2030579353596108953"
-created: "2026-03-08"
-updated: "2026-06-26"
-sha256: "cffccbf71b53258fad10a5b6757c741249506e82edfe5e8325d239f30b68872f"
-sources:
-  - "/sources/highlights/2026-03-18/00__PolEcoGuru__字节跳动ai-超级程序员-颠覆cuda霸权-自研代码生成模型性能超claude-40.md"
 ---
 
 # 字节跳动AI「超级程序员」颠覆CUDA霸权：自研代码生成模型性能超Claude 40%

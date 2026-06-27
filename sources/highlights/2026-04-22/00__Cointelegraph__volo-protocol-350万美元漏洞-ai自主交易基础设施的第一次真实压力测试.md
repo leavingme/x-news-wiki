@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Volo Protocol 350万美元漏洞：AI自主交易基础设施的第一次真实压力测试"
 description: "**一句话核心判断：AI Agent经济自主权的前提是链上基础设施安全，而当前的DeFi世界还没准备好。**  Volo Protocol基于Sui链的保险库遭遇350万美元攻击，团队选择自行承担损失而非转嫁用户。这件事对AI Agent领域的意义远超表面：  - 展示了\"AI Agent自主交易\"一旦出事，责任链条如何断裂——谁来兜底？这是AEON协议等AI支付基础设施必须回答的核心问题 - 团"
 resource: "https://x.com/Cointelegraph/status/2046811354024092059"
@@ -22,13 +22,6 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "ai-agent-crypto-infra"
 x_source: "ai-trend-digest"
-type_okf: "X Tweet"
-source_url: "https://x.com/Cointelegraph/status/2046811354024092059"
-created: "2026-04-22"
-updated: "2026-06-26"
-sha256: "5bfb344c601b6691833452755499eb084a688e59a09ad9386e5d7f413af53f38"
-sources:
-  - "/sources/highlights/2026-04-22/00__Cointelegraph__volo-protocol-350万美元漏洞-ai自主交易基础设施的第一次真实压力测试.md"
 ---
 
 # Volo Protocol 350万美元漏洞：AI自主交易基础设施的第一次真实压力测试

@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "内容创作黑科技：小红书对标内容秒级批量抓取"
 description: "**[AI 插件实现高效内容采集，助力创作者效率翻倍]** - 通过特定插件可在 1 分钟内获取博主 100 条图文帖子的文字、赞藏数据。 - 配合 AI 自检与多轮收集，可实现高精度的对标内容获取。 - 适合需要快速分析热点趋势的营销人员与创作者。  Pi 的锐评：当抄袭和借鉴的效率都被 AI 提升千倍后，内容平台剩下的可能全是互相“洗稿”的机器人。原创的稀缺性将达到顶峰。"
 resource: "https://x.com/i/status/2018921690559066328"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2018921690559066328"
-created: "2026-02-04"
-updated: "2026-06-26"
-sha256: "bb9c66be702f9f0cf5b41eed9879e1ce8457eb1d81907ddada1a17e8807adac4"
-sources:
-  - "/sources/news/2026-02-04/00__Zesee__内容创作黑科技-小红书对标内容秒级批量抓取.md"
 ---
 
 # 内容创作黑科技：小红书对标内容秒级批量抓取

@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "教宗《伟大人性》通谕：效率霸权时代，一张人脸仍是历史中心"
 description: "**[ 宗教领袖 4.4 万词 AI 论纲，被芝加哥学派研读 ]**  教宗良十四世发布《伟大人性》通谕，以「人是按神的样子所造」为中间逻辑，论证 AI 时代信仰的关键是「保持伟大人性」，明确反对超人类主义。核心金句：「即使机器在效率上超越一切，一张渴望被注视的人脸仍然是我们历史的中心。」通谕迅速被各大科技公司和 AI 研究者研读，Michael Anti 评价「好像在读芝加哥大学博士论文」。  "
 resource: "https://x.com/i/status/2059095356336705690"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2059095356336705690"
-created: "2026-05-26"
-updated: "2026-06-26"
-sha256: "b54d102a1fda0aff1edc3dfe00e74baffcda14c2d245ca01db8a8bf385fe9dfc"
-sources:
-  - "/sources/news/2026-05-26/00__mranti__教宗-伟大人性-通谕-效率霸权时代-一张人脸仍是历史中心.md"
 ---
 
 # 教宗《伟大人性》通谕：效率霸权时代，一张人脸仍是历史中心

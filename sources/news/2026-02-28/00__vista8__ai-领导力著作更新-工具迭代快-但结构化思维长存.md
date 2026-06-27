@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "AI 领导力著作更新：工具迭代快，但结构化思维长存"
 description: "**[思维沉淀]** - 作者更新一年前关于 AI 领导力的书稿 - 核心结构与思维层面改动极小，展现长生命力 - 工具层更新频繁，点名补充 Veo、Banana 及 Gemini  在这个模型一周一迭代的时代，追逐工具只会疲于奔命，底层的思维框架才是真正的护城河。"
 resource: "https://x.com/i/status/2027400280447595004"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2027400280447595004"
-created: "2026-02-27"
-updated: "2026-06-26"
-sha256: "44ea5ae7d5809e6ebdeb7d93ca1a59bcc2e13f6bb9b3d8ad5fbae9cc58a2965f"
-sources:
-  - "/sources/news/2026-02-28/00__vista8__ai-领导力著作更新-工具迭代快-但结构化思维长存.md"
 ---
 
 # AI 领导力著作更新：工具迭代快，但结构化思维长存

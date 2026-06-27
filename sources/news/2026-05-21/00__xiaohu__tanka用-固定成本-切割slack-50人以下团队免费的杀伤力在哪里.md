@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Tanka用「固定成本」切割Slack：50人以下团队免费的杀伤力在哪里"
 description: "**[按workspace收费而非按seats，这是协作工具的定价范式转移]**  Tanka对50人以下团队免费，按workspace而非seats收费。Slack的核心痛点——团队越大、人头费压力越大——被精准拆解。协作工具的「固定成本化」意味着AI时代的团队协作从一开始就是可持续的，而不是等到做大才开始算账。  对小团队来说，工具成本从「可变」变「固定」，降低了试用门槛，这是更聪明的获客策略"
 resource: "https://x.com/i/status/2057259626970960287"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2057259626970960287"
-created: "2026-05-21"
-updated: "2026-06-26"
-sha256: "54c46975c644fdd1d447953d0dc604f9f3b941c01fbaf8191ab70c19d11d8dcf"
-sources:
-  - "/sources/news/2026-05-21/00__xiaohu__tanka用-固定成本-切割slack-50人以下团队免费的杀伤力在哪里.md"
 ---
 
 # Tanka用「固定成本」切割Slack：50人以下团队免费的杀伤力在哪里

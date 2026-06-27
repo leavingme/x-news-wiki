@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "玉伯警示：Claude Code和古法Coding都将成为非遗"
 description: "**[编程技能的价值正在经历范式转移]**  • 反直觉判断：不仅是传统编程，连当下的Claude Code技能也可能快速贬值 • 深层逻辑：工具平民化速度远超预期，昨天的技能优势可能成为明天的负担 • 生存策略：持续进化比掌握某一工具更重要，适应性成为核心壁垒  当工具迭代周期从年缩短到月，\"会用什么\"变得不再重要，\"能创造什么\"才是唯一护城河。"
 resource: "https://x.com/i/status/2033909380165603764"
@@ -22,13 +22,6 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "skill-barrier-collapse"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2033909380165603764"
-created: "2026-03-17"
-updated: "2026-06-26"
-sha256: "58df3032c72dfc5121f299525327ff6e51a7c1d1ff075888945340983625801c"
-sources:
-  - "/sources/news/2026-03-18/00__lifesinger__玉伯警示-claude-code和古法coding都将成为非遗.md"
 ---
 
 # 玉伯警示：Claude Code和古法Coding都将成为非遗

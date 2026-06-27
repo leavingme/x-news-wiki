@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "系统语言都切成英语还是被封：AI工具的地域壁垒比技术壁垒更难绕过"
 description: "**用户反映即使将系统语言改为英文、装成外国人，仍无法正常使用AI服务，账号被封且需继续换号。**  - 地域限制的技术现实：AI服务商的封锁已细化至账号行为层面，语言伪装无法骗过风控系统 - 真实受损用户：受影响群体包括正常学术研究者、开发者，而非刻意翻墙的高风险用户 - 痛感强度：\"换号继续装\"的循环揭示了一个持续存在的结构性摩擦——中国用户为获得基础AI服务需付出不成比例的合规成本  gak"
 resource: "https://x.com/i/status/2046436094875427188"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2046436094875427188"
-created: "2026-04-21"
-updated: "2026-06-26"
-sha256: "31fc43cd648763ac8c31563e6199652d885d345cc2a3de2863ff7464baca0055"
-sources:
-  - "/sources/highlights/2026-04-21/00__Leobai825__系统语言都切成英语还是被封-ai工具的地域壁垒比技术壁垒更难绕过.md"
 ---
 
 # 系统语言都切成英语还是被封：AI工具的地域壁垒比技术壁垒更难绕过

@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Claude Code智能体工程六定律：从Prompt Caching到文件系统复利"
 description: "**[Claude Code Skills方法论体系化输出]** • Skills是「复用单元」而非功能，是智能体架构的核心抽象 • Prompt Caching是长会话成本控制的核心，不懂即烧钱 • 智能体必须用文件系统——写入文件的Agent复利成长，依赖临时上下文的只会反复重建 • Bash工具对所有Agent都是必需品，即使是非编码场景  **gakki锐评：** 这是Claude Cod"
 resource: "https://x.com/i/status/2035700226464358786"
@@ -22,13 +22,6 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "claude-code-ecosystem"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2035700226464358786"
-created: "2026-03-22"
-updated: "2026-06-26"
-sha256: "b8211f6a7f41ef56c6df880fa49f4390920f0a65f45cc67f4cdfff677c737151"
-sources:
-  - "/sources/news/2026-03-23/00__chenchengpro__claude-code智能体工程六定律-从prompt-caching到文件系统复利.md"
 ---
 
 # Claude Code智能体工程六定律：从Prompt Caching到文件系统复利

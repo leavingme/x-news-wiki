@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Unitree GD01 人控机甲量产就绪：具身智能的商业化「硬门槛」已跨过实验室"
 description: "**[全球首款量产载人变形机甲，650K 美元定义高端具身硬件价格锚点]  Unitree 正式发布 GD01 民用人控机甲，定价 65 万美元，可变形、重量约 500kg（含驾乘者）、明确定位为民用车辆而非军事或玩具。官方同步呼吁「Friendly and Safe」——这是厂家在监管空白期的免责式公关。500kg 的机动性和室内场景通过性存疑，但「量产就绪」本身已是具身机器人从 PPT 到商品"
 resource: "https://x.com/UnitreeRobotics/status/2054067819634159622"
@@ -22,13 +22,6 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "embodied-ai-and-robotics"
 x_source: "ai-trend-digest"
-type_okf: "X Tweet"
-source_url: "https://x.com/UnitreeRobotics/status/2054067819634159622"
-created: "2026-05-12"
-updated: "2026-06-26"
-sha256: "bbbfe16bf488c41aba8175b5ed787bd8ee9135c39552832b029fa6c0dfd654a9"
-sources:
-  - "/sources/news/2026-05-12/00__UnitreeRobotics__unitree-gd01-人控机甲量产就绪-具身智能的商业化-硬门槛-已跨过实验室.md"
 ---
 
 # Unitree GD01 人控机甲量产就绪：具身智能的商业化「硬门槛」已跨过实验室

@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "agent-vault 秘密管理工具：防止 AI 代理泄露敏感数据"
 description: "**[核心逻辑]** 针对 Agent 在调用外部工具时可能泄露 API 密钥的问题，通过占位符技术实现敏感数据的本地解耦。  - **隐匿执行**：智能体在处理任务时仅能看到加密占位符，真正的密钥在执行端被注入，有效防止 LLM 服务商服务器截获。 - **安全护航**：为日益增长的 Agentic 工作流提供认知级的数据审计保护。  [gakki 的锐评]：在 Agent 到处乱跑的时代，给它"
 resource: "https://x.com/i/status/2026076857872117919"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2026076857872117919"
-created: "2026-02-23"
-updated: "2026-06-26"
-sha256: "9556bad1ac6290e24cd21e701949e289a19d1d648a3b5438bc3a5435d717792a"
-sources:
-  - "/sources/highlights/2026-02-24/00__QingQ77__agent-vault-秘密管理工具-防止-ai-代理泄露敏感数据.md"
 ---
 
 # agent-vault 秘密管理工具：防止 AI 代理泄露敏感数据

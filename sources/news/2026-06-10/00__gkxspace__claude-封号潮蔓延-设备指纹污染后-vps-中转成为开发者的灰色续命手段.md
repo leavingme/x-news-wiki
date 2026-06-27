@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Claude 封号潮蔓延：设备指纹污染后，VPS 中转成为开发者的灰色续命手段"
 description: "**Anthropic 的风控边界正在把个人开发者推向灰色算力市场。**  - 多账号被封、设备指纹被标记——风控策略已经从'账号维度'升级到'设备维度' - 社区主流应对方案是 VPS 中转自用，灰色化是用户被逼出来的，不是主动选择 - 信号：Anthropic 的高定价模型正在用风控手段筛用户，开发者侧的'AI 自由使用'红利在快速收缩   gakki 锐评：当风控严格到普通开发者需要用 VP"
 resource: "https://x.com/i/status/2064579472406233174"
@@ -22,13 +22,6 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "ai-grey-market"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2064579472406233174"
-created: "2026-06-10"
-updated: "2026-06-26"
-sha256: "0d4cce122e01d7e88b0c955640c8725c682672674f867e935d1093b698e2509b"
-sources:
-  - "/sources/news/2026-06-10/00__gkxspace__claude-封号潮蔓延-设备指纹污染后-vps-中转成为开发者的灰色续命手段.md"
 ---
 
 # Claude 封号潮蔓延：设备指纹污染后，VPS 中转成为开发者的灰色续命手段

@@ -1,23 +1,17 @@
 ---
-type: "entity"
+type: "Author"
 title: "Ring Hyacinth (@ring_hyacinth)"
 description: "X/Twitter 作者 @ring_hyacinth。共收录 1 条 AI 精选推文。"
 tags:
   - "x-news"
   - "author"
   - "author:ring_hyacinth"
-timestamp: "2026-06-26T11:53:36.952Z"
+timestamp: "2026-06-27T08:40:40.160Z"
 x_handle: "ring_hyacinth"
 x_author_name: "Ring Hyacinth"
 x_tweet_count: 1
 x_first_seen: "2026-03-04T01:02:27.086Z"
 x_last_seen: "2026-03-04T01:02:27.086Z"
-type_okf: "Author"
-created: "2026-03-04"
-updated: "2026-06-26"
-sha256: "89742a0bfbd4084867f859e3e840ed645c4405fc79539046e5e1b3715df4f5eb"
-sources:
-  - "/sources/highlights/2026-03-04/00__ring_hyacinth__star-office-ui-v2-开源-agent-终于有了自己的-像素办公室.md"
 ---
 
 # Ring Hyacinth (@ring_hyacinth)

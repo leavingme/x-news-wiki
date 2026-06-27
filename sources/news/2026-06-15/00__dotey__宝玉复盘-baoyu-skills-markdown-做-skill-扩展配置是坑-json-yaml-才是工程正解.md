@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "宝玉复盘 baoyu-skills：Markdown 做 Skill 扩展配置是坑，JSON/YAML 才是工程正解"
 description: "**宝玉用亲身踩坑给出 Skills 工程化设计的明确答案：扩展配置不该是 Markdown，应是 JSON/YAML。**  要点： - baoyu-skills 曾用 EXTEND.md 保存用户自定义设置，但 Markdown 不是严格结构化数据，LLM 读取没问题，程序解析困难，格式一致性难保证 - 重新设计时会更倾向 JSON/YAML：既能让 LLM 方便读取，也能让代码解析与保存 -"
 resource: "https://x.com/i/status/2066314944950268139"
@@ -22,13 +22,6 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "skills-ecosystem-standards"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2066314944950268139"
-created: "2026-06-15"
-updated: "2026-06-26"
-sha256: "98fd665701106172909d38c1563d84d8f0d13d82f7ba2a3866cc004ee4d1ce15"
-sources:
-  - "/sources/news/2026-06-15/00__dotey__宝玉复盘-baoyu-skills-markdown-做-skill-扩展配置是坑-json-yaml-才是工程正解.md"
 ---
 
 # 宝玉复盘 baoyu-skills：Markdown 做 Skill 扩展配置是坑，JSON/YAML 才是工程正解

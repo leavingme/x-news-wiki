@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "大厂里的“AI 疯子”：AGI 时代的创新精神"
 description: "**真实记录科技大厂内部创新团队对 AGI 的狂热投身与实战落地。** - **热情指标**：招聘最看重对 AI 的好奇心与自我迭代动力，而不单纯是技术背景。 - **实操落地**：全员配备 Cursor、推动 MCP 架构，利用最先进工具在垂直领域发力。  **Pi 的锐评**：在变革时代，热情就是最高的生产力。这一代“AI 疯子”将亲手推开 AGI 的大门。"
 resource: "https://x.com/i/status/1904050671609155738"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/1904050671609155738"
-created: "2025-03-24"
-updated: "2026-06-26"
-sha256: "fb7f7bbeae747c678a0712e92ee1e0840e080ac92312cb3f47580b36e8a64989"
-sources:
-  - "/sources/news/2026-01-30/00__Yonah_x__大厂里的-ai-疯子-agi-时代的创新精神.md"
 ---
 
 # 大厂里的“AI 疯子”：AGI 时代的创新精神

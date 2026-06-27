@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "币安合约的\"匿名豁免\"正在制造AI交易Agent的alpha黑洞"
 description: "**[匿名交易的盲区正在成为币圈alpha的新生产地]**  SKYAI、M、RAVE、SIREN等\"妖币\"的共同特征浮出水面：它们同时上了币安合约和Aster合约，但**没有上Hyperliquid**。Aster支持匿名交易，币安AI Pro负责数据采集，Agent自动对比链上价格差。  筛选逻辑：同时上币安+Aster合约 → 剔除Hyperliquid上架币 → 剔除持仓低于5M的 → 得"
 resource: "https://x.com/i/status/2045198024369225785"
@@ -22,13 +22,6 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "ai-agent-crypto-infra"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2045198024369225785"
-created: "2026-04-17"
-updated: "2026-06-26"
-sha256: "e0f2babf457704128a5ee3752b1b7514e9f0b69084e007173fec6cdcc510f3ce"
-sources:
-  - "/sources/highlights/2026-04-18/00__Naive_BNB__币安合约的-匿名豁免-正在制造ai交易agent的alpha黑洞.md"
 ---
 
 # 币安合约的"匿名豁免"正在制造AI交易Agent的alpha黑洞

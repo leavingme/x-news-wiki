@@ -1,29 +1,22 @@
 ---
-type: "concept"
-title: "edge-agent-local-compute"
-description: "跨日主题 \"edge-agent-local-compute\"，共 5 条相关精选推文。"
+type: "Concept"
+title: "边缘Agent本地算力"
+description: "跨日主题 \"边缘Agent本地算力\" (edge-agent-local-compute)，共 5 条相关精选推文。"
 tags:
   - "x-news"
   - "concept"
   - "topic:edge-agent-local-compute"
-timestamp: "2026-06-26T11:53:37.018Z"
+timestamp: "2026-06-27T08:40:42.862Z"
 x_topic_slug: "edge-agent-local-compute"
 x_tweet_count: 5
 x_first_seen: "2026-05-06T10:18:52.400Z"
 x_last_seen: "2026-06-15T07:19:15.271Z"
-type_okf: "Concept"
-created: "2026-05-06"
-updated: "2026-06-26"
-sha256: "62c0975945d837de78cda961cddc2fd2ca94b189267b3227c0448d577089c3bf"
-sources:
-  - "/sources/highlights/2026-06-15/00__xiaohu__amd-3999-美元本地-ai-工作站-128gb-统一内存-200b-模型-把-mac-mini-形态做成对标-dg.md"
-  - "/sources/news/2026-05-06/00__lxfater__开源项目让-gemma-4-推理提速-6-倍-超越-google-官方-3-倍基准.md"
-  - "/sources/news/2026-05-06/00__xiaohu__cider-框架补齐-apple-mlx-生态的量化推理空白-w8a8-w4a8-int8-tensorops.md"
-  - "/sources/news/2026-05-06/00__xiaohu__mano-p-4b-端侧推理-m4-mac-跑出-476-tok-s-预填充-峰值内存-4-3gb.md"
-  - "/sources/news/2026-05-06/00__xiaohu__mininglamp-开源-mac-本地-ai-工作站方案-cider-加速推理-mano-p-实现纯视觉桌面操作.md"
+x_cn_title_source: "dict"
 ---
 
-# 主题: edge-agent-local-compute
+# 主题: 边缘Agent本地算力
+
+> slug: `edge-agent-local-compute`
 
 本主题下共 **5** 条精选推文。
 

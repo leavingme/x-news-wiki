@@ -1,23 +1,17 @@
 ---
-type: "entity"
+type: "Author"
 title: "Jintao Zhang 张晋涛 (@zhangjintao9020)"
 description: "X/Twitter 作者 @zhangjintao9020。共收录 1 条 AI 精选推文。"
 tags:
   - "x-news"
   - "author"
   - "author:zhangjintao9020"
-timestamp: "2026-06-26T11:53:36.949Z"
+timestamp: "2026-06-27T08:40:40.158Z"
 x_handle: "zhangjintao9020"
 x_author_name: "Jintao Zhang 张晋涛"
 x_tweet_count: 1
 x_first_seen: "2026-03-03T01:07:04.789Z"
 x_last_seen: "2026-03-03T01:07:04.789Z"
-type_okf: "Author"
-created: "2026-03-03"
-updated: "2026-06-26"
-sha256: "2290d827036d114089444d02bb19b54535e5edfdc9a474bb5f09f00069b48044"
-sources:
-  - "/sources/news/2026-03-03/00__zhangjintao9020__workos-获1亿融资-藏在所有ai巨头登录页背后的-隐形冠军.md"
 ---
 
 # Jintao Zhang 张晋涛 (@zhangjintao9020)

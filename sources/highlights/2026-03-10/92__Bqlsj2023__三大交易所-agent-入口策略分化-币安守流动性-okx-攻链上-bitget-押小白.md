@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "三大交易所 Agent 入口策略分化：币安守流动性、OKX 攻链上、Bitget 押小白"
 description: "**[交易所 Agent 接口进入实战阶段]** - 币安/OKX/Bitget 三家策略泾渭分明：币安专注 CEX 流动性分析（钱包追踪、代币分析），OKX 押注多链 DeFi（60 链、无 Gas 跨链），Bitget 走跟单理财的极简路线 - 产品定位差异映射各自生态护城河：币安是「数据优势」，OKX 是「链上基础设施」，Bitget 是「散户友好度」 - 暗示「Agent 即入口」正在重塑"
 resource: "https://x.com/i/status/2030959157134930275"
@@ -22,13 +22,6 @@ x_selected: 2
 x_priority: 92
 x_related_topic: "ai-crypto-agent-infra"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2030959157134930275"
-created: "2026-03-09"
-updated: "2026-06-26"
-sha256: "3b9be0b6db8d96999bfc6ecadc50213fb061c94f7c7f804d3fab55ddeb49319b"
-sources:
-  - "/sources/highlights/2026-03-10/92__Bqlsj2023__三大交易所-agent-入口策略分化-币安守流动性-okx-攻链上-bitget-押小白.md"
 ---
 
 # 三大交易所 Agent 入口策略分化：币安守流动性、OKX 攻链上、Bitget 押小白

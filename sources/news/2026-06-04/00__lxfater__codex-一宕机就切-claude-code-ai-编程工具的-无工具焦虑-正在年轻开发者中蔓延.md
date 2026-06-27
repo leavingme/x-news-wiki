@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Codex 一宕机就切 Claude Code：AI 编程工具的「无工具焦虑」正在年轻开发者中蔓延"
 description: "**铁锤人自述：昨夜 Codex 不可用，迫使他临时订阅了 Claude Code，并坦言「AI 只要不能用，就浑身刺挠」。**  信息增量：这不是简单的工具切换记录。它揭示了一个正在成型的用户行为模式——当单一 AI 编程工具成为「必需品」而非「可选项」时，平台稳定性直接锚定用户留存与支出决策。宕机触发付费转化，说明用户黏性已超越品牌忠诚，演变为对「持续可用性」的条件反射式依赖。  对谁有影响："
 resource: "https://x.com/i/status/2062365605093937492"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2062365605093937492"
-created: "2026-06-04"
-updated: "2026-06-26"
-sha256: "c1459817db8403d2ef382b3f104722f9da2b4c30d29c49161edf7bec7d6e9104"
-sources:
-  - "/sources/news/2026-06-04/00__lxfater__codex-一宕机就切-claude-code-ai-编程工具的-无工具焦虑-正在年轻开发者中蔓延.md"
 ---
 
 # Codex 一宕机就切 Claude Code：AI 编程工具的「无工具焦虑」正在年轻开发者中蔓延

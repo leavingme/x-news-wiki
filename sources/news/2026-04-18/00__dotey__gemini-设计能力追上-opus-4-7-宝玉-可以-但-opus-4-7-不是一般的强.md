@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Gemini 设计能力追上 Opus 4.7？宝玉：可以，但 Opus 4.7 不是一般的强"
 description: "**[多模态模型的设计智价：Gemini 追平但未超越，Opus 4.7 建立新基准]**  宝玉在讨论中明确指出：Gemini 的设计能力「可以」，但 Opus 4.7（Claude）「不是一般的强」。这是业内少有的直接跨模型横向评测，暗示 Opus 4.7 在设计类任务上仍维持代际领先。  - **信息增量**：市场正在形成「Gemini 性价比 vs Opus 4.7 绝对能力」的双轨选择，"
 resource: "https://x.com/i/status/2045255950504804752"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2045255950504804752"
-created: "2026-04-17"
-updated: "2026-06-26"
-sha256: "7f2b0be6b5eb3a7d702c3193e0cad2f8f4187a96a636b6b17ae32c99cd56639e"
-sources:
-  - "/sources/news/2026-04-18/00__dotey__gemini-设计能力追上-opus-4-7-宝玉-可以-但-opus-4-7-不是一般的强.md"
 ---
 
 # Gemini 设计能力追上 Opus 4.7？宝玉：可以，但 Opus 4.7 不是一般的强

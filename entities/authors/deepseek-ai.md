@@ -1,24 +1,17 @@
 ---
-type: "entity"
+type: "Author"
 title: "DeepSeek (@deepseek_ai)"
 description: "X/Twitter 作者 @deepseek_ai。共收录 2 条 AI 精选推文。"
 tags:
   - "x-news"
   - "author"
   - "author:deepseek_ai"
-timestamp: "2026-06-26T11:53:36.989Z"
+timestamp: "2026-06-27T08:40:40.201Z"
 x_handle: "deepseek_ai"
 x_author_name: "DeepSeek"
 x_tweet_count: 2
 x_first_seen: "2026-04-24T11:31:18.209Z"
 x_last_seen: "2026-04-26T22:17:29.192Z"
-type_okf: "Author"
-created: "2026-04-24"
-updated: "2026-06-26"
-sha256: "9d845d7c46d69a67191608d224c69f911dd8a25a07137aa4766a9a5f02f92772"
-sources:
-  - "/sources/highlights/2026-04-24/00__deepseek_ai__deepseek-v4-flash-以1-10价格实现1m上下文-开源模型正式撕掉-廉价低能-标签.md"
-  - "/sources/news/2026-04-26/00__deepseek_ai__deepseek-api缓存价格打一折-推理成本战进入-微利时代.md"
 ---
 
 # DeepSeek (@deepseek_ai)

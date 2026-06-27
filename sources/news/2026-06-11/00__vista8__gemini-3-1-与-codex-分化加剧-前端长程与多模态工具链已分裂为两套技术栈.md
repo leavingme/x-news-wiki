@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Gemini 3.1 与 Codex 分化加剧：前端长程与多模态工具链已分裂为两套技术栈"
 description: "**[向阳乔木实测评判：单旗舰模型已无法通吃所有任务]**  - Gemini 3.1 在前端、3D 网页生成与长程任务上构成断档领先；Codex 则在生图、Computer use 工具整合与价格上占优 - 模型能力地图被重新切分：长程代码 vs 多模态工具链 vs 性价比，开发者选型开始任务级定制 - 同一作者补充：3D 网页生成是 Gemini 3.1 提升最显著的方向，前端技术质量明显领先"
 resource: "https://x.com/i/status/2065092119216509069"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2065092119216509069"
-created: "2026-06-11"
-updated: "2026-06-26"
-sha256: "2bce73370f33ad07be50b389224cc893cdc77b7c910728ccf325793433013122"
-sources:
-  - "/sources/news/2026-06-11/00__vista8__gemini-3-1-与-codex-分化加剧-前端长程与多模态工具链已分裂为两套技术栈.md"
 ---
 
 # Gemini 3.1 与 Codex 分化加剧：前端长程与多模态工具链已分裂为两套技术栈

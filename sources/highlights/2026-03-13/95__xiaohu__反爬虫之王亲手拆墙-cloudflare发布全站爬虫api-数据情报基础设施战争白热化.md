@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "反爬虫之王亲手拆墙：Cloudflare发布全站爬虫API，数据情报基础设施战争白热化"
 description: "**[反爬虫巨头亲手拆除护城河，数据情报服务进入标准化军备竞赛阶段]**  • 单次调用即可爬取整站，支持JS渲染与增量更新，直接返回结构化JSON • 战略讽刺：从\"反爬虫霸主\"转型\"爬虫服务提供商\"，Cloudflare完成180度业务转向 • 意味着数据获取门槛大幅降低，但也可能引发更激烈的平台反制与合规博弈  gakki 锐评：当守门人亲自下场当大盗，数据战争的规则就彻底改写。中小开发者的"
 resource: "https://x.com/i/status/2031921663751946646"
@@ -22,13 +22,6 @@ x_selected: 2
 x_priority: 95
 x_related_topic: "agent-data-intelligence-infra"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2031921663751946646"
-created: "2026-03-12"
-updated: "2026-06-26"
-sha256: "6fd7d65b7075f9a770074240e6e9c377845006db4e3fa8bef48b68e0f9749c8c"
-sources:
-  - "/sources/highlights/2026-03-13/95__xiaohu__反爬虫之王亲手拆墙-cloudflare发布全站爬虫api-数据情报基础设施战争白热化.md"
 ---
 
 # 反爬虫之王亲手拆墙：Cloudflare发布全站爬虫API，数据情报基础设施战争白热化

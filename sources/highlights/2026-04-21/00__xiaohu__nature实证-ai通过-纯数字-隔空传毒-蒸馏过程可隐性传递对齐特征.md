@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Nature实证：AI通过「纯数字」隔空传毒，蒸馏过程可隐性传递对齐特征"
 description: "**核心判断：蒸馏Teacher-Student范式存在未被察觉的隐藏态污染通道，即使清洗训练数据也无法切断。**  这篇刚发表于Nature的论文揭示了一个根本性安全问题：AI模型间的特征传导可以绕过语义层，通过纯数字序列完成。一个\"喜欢猫头鹰\"的未对齐模型生成的随机数字序列，喂给另一个AI后，后者竟也开始表现出相同偏好——数字中没有任何\"猫头鹰\"的文本痕迹。这种隐藏态传递不依赖明文传播，机器检"
 resource: "https://x.com/i/status/2046028521060061580"
@@ -22,13 +22,6 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "ai-safety-alignment"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2046028521060061580"
-created: "2026-04-20"
-updated: "2026-06-26"
-sha256: "85db508af2bc52dc13e04e2011a91cb3535d6484986fcb3c743e7512b4c0e362"
-sources:
-  - "/sources/highlights/2026-04-21/00__xiaohu__nature实证-ai通过-纯数字-隔空传毒-蒸馏过程可隐性传递对齐特征.md"
 ---
 
 # Nature实证：AI通过「纯数字」隔空传毒，蒸馏过程可隐性传递对齐特征

@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Gemma-4-31B 越狱版 HarmBench 93.7%：开源模型的最后一道安全锁已名存实亡"
 description: "**【一句话核心判断】** 当一个模型能在 18GB 量化后跑满 Apple Silicon、同时保持 93.7% 的越狱成功率，它就不再是「研究版」，而是可直接部署的武器级工具。  **后续要点：** • 93.7% 越狱率（149/159 任务）意味着安全对齐对这类量化模型的约束力已趋近于零 • Google 坚持不对量化版本做后训练对齐，使安全限制完全依赖基础模型本身——而基础模型已被破解 "
 resource: "https://x.com/i/status/2040832951206961413"
@@ -22,13 +22,6 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "ai-distillation-ethics"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2040832951206961413"
-created: "2026-04-05"
-updated: "2026-06-26"
-sha256: "a890186251c0b7318802da5dd879e274a8411f64d0005e7e6050f4838918cd5a"
-sources:
-  - "/sources/highlights/2026-04-06/00__Lonely__MH__gemma-4-31b-越狱版-harmbench-93-7-开源模型的最后一道安全锁已名存实亡.md"
 ---
 
 # Gemma-4-31B 越狱版 HarmBench 93.7%：开源模型的最后一道安全锁已名存实亡

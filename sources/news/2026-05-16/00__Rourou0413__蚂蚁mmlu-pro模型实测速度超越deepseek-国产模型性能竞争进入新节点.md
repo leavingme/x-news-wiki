@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "蚂蚁MMLU-Pro模型实测速度超越DeepSeek：国产模型性能竞争进入新节点"
 description: "**[速度优势正在成为国产模型新的差异化维度]**  Rourou实测蚂蚁模型后反馈：速度显著快于DeepSeek。这一细节透露了当前国产模型竞争的一个新趋势——性能对齐之后，速度正在成为新的竞争维度。不同于单纯刷Benchmark的军备竞赛，速度体验直接影响开发者的工作流选择。  Rourou还提到这是普通人使用AI的痛点场景——响应速度慢会打断思路，降低使用意愿。  **gakki锐评：** "
 resource: "https://x.com/i/status/2055647318050050224"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2055647318050050224"
-created: "2026-05-16"
-updated: "2026-06-26"
-sha256: "9244faf90b8bf5c8a7d1a5312c5e9cb8e3a3a76819dbc450b6f4fb1f5586593c"
-sources:
-  - "/sources/news/2026-05-16/00__Rourou0413__蚂蚁mmlu-pro模型实测速度超越deepseek-国产模型性能竞争进入新节点.md"
 ---
 
 # 蚂蚁MMLU-Pro模型实测速度超越DeepSeek：国产模型性能竞争进入新节点

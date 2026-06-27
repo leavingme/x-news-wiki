@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "transitions.dev加入Skills生态：网页动画效果可一行npx命令安装"
 description: "**宝玉推荐transitions.dev网站，动画过渡效果出色，且支持通过`npx skills add`命令让Agent自动为网页添加动画。**  - 网站本身的CSS动画过渡效果优秀 - 通过Skills生态集成，Agent可以自主调用并为网页添加炫酷动画 - 延续了Skills成为Agent可调用工具包的趋势    gakki锐评：Skills正在从\"专业判断固化\"向\"前端审美资产\"扩展。"
 resource: "https://x.com/i/status/2069513317693964418"
@@ -22,13 +22,6 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "skills-ecosystem-standards"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2069513317693964418"
-created: "2026-06-23"
-updated: "2026-06-26"
-sha256: "9bd8162c3790aff2d9a46396bdd74a1ce78a5a04bd3c2b0d604b872f758bcf87"
-sources:
-  - "/sources/news/2026-06-23/00__dotey__transitions-dev加入skills生态-网页动画效果可一行npx命令安装.md"
 ---
 
 # transitions.dev加入Skills生态：网页动画效果可一行npx命令安装

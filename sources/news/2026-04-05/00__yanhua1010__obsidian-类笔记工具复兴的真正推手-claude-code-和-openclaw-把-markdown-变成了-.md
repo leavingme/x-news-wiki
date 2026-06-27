@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Obsidian 类笔记工具复兴的真正推手：Claude Code 和 OpenClaw 把 Markdown 变成了 Agent 的「母语」"
 description: "**[一句话核心判断]**  Obsidian 类本地笔记工具突然再次火起来，核心原因不是个人知识管理潮流，而是 Agent 基础设施的成熟——Claude Code、OpenClaw 这类工具天然支持读取 Markdown 语料，且 Obsidian 本身有 CLI，Agent 可以直接管理。  **信息增量：** - 明确了复兴的因果链：不是「用户需求驱动」，是「Agent 可读性提升驱动」 "
 resource: "https://x.com/i/status/2040343109461254404"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2040343109461254404"
-created: "2026-04-04"
-updated: "2026-06-26"
-sha256: "eceab673f3b87b50750a255a04f41776eb2c94888eb6b538bbcde175c383156f"
-sources:
-  - "/sources/news/2026-04-05/00__yanhua1010__obsidian-类笔记工具复兴的真正推手-claude-code-和-openclaw-把-markdown-变成了-.md"
 ---
 
 # Obsidian 类笔记工具复兴的真正推手：Claude Code 和 OpenClaw 把 Markdown 变成了 Agent 的「母语」

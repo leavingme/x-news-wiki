@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "AI Coding 抹平经验差距：初级工程师正面临生存危机"
 description: "[核心逻辑] AI 极大地缩短了解决复杂技术问题的时间，但也抽掉了新人的行业晋升阶梯。 - 效率奇迹：原本需要数小时调试的组件，在 AI 指导下仅需半小时即可搞定。 - 结构性失业：经验与知识的价值被拉平，未来 2-3 年内软件工程行业将发生剧烈变化。  Pi 的锐评：技能的“通货膨胀”已经开始，现在的关键不再是你会写什么，而是你能指挥 AI 完成什么。"
 resource: "https://x.com/i/status/2017909398707085478"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2017909398707085478"
-created: "2026-02-01"
-updated: "2026-06-26"
-sha256: "2117d6dcdb9cebf532abb657c8724658fe03a7fecb3bd7b76d9f0546fc680bdd"
-sources:
-  - "/sources/news/2026-02-01/00__plantegg__ai-coding-抹平经验差距-初级工程师正面临生存危机.md"
 ---
 
 # AI Coding 抹平经验差距：初级工程师正面临生存危机

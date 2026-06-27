@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "iOS虚拟机突破：苹果封闭生态被撬开，移动端Agent编排迎来新基建"
 description: "**【一句话核心判断】** vphone-cli实现了Mac上运行完整iOS系统（非模拟器），为移动端Agent的批量自动化测试和底层研究打开了技术缺口。  • 核心能力：完整iOS系统虚拟化，支持脚本控制、批量开关、CI集成 • 应用场景：从「买一堆真机接一堆线」变成「vphone create」一条命令 • 价值定位：对普通开发者无用，但对Agent编排、安全分析、自动化测试是刚需  **ga"
 resource: "https://x.com/i/status/2028112414777168219"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "bookmark"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2028112414777168219"
-created: "2026-03-01"
-updated: "2026-06-26"
-sha256: "70933caf055d042887a0ad235751b23a6c9ce38124d671af7321fa09fa2f53da"
-sources:
-  - "/sources/news/2026-03-18/00__AI_Jasonyu__ios虚拟机突破-苹果封闭生态被撬开-移动端agent编排迎来新基建.md"
 ---
 
 # iOS虚拟机突破：苹果封闭生态被撬开，移动端Agent编排迎来新基建

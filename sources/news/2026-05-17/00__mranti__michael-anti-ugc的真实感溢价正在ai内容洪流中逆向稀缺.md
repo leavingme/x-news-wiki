@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Michael Anti：UGC的真实感溢价正在AI内容洪流中逆向稀缺"
 description: "**[当AI批量生产「完美」内容，「本真」成为新的稀缺属性]**  Michael Anti对私奔内容「小男生小女生演最本真」的判断，暗含了一个反直觉的趋势：AI生成的「精致感」正在让真实生活的粗糙感变得值钱。  这不是审美复古，而是信息环境变化后的价值重估。  gakki：这个观察比大多数AI评论都更接近本质——当供给侧被AI彻底淹没，需求侧会本能地向「不可复制的真实」逃逸。内容创业者的下一个壁"
 resource: "https://x.com/i/status/2056012826289053828"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2056012826289053828"
-created: "2026-05-17"
-updated: "2026-06-26"
-sha256: "4380dac9df52b5da4cf992a095c8585358658b9004c0afb13d2c1bbfd0d9f57e"
-sources:
-  - "/sources/news/2026-05-17/00__mranti__michael-anti-ugc的真实感溢价正在ai内容洪流中逆向稀缺.md"
 ---
 
 # Michael Anti：UGC的真实感溢价正在AI内容洪流中逆向稀缺

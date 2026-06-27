@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "宝玉把 Claude Design 升级成动画视频导出器：声明式 f(t) 引擎让 LLM 写动画天然可验证"
 description: "**[宝玉在 baoyu-design Skill 基础上补齐 mp4 导出能力，用「函数式时间坐标」重新定义动画——状态完全由 t 决定，无中间态爆炸。]** - 核心原理：每一帧画面是 t 的纯函数 f(t)，传入任意时间点即可算出所有元素位置/透明度/大小，无需播放历史 - 类比：传统动画像看电影（必须从头看到第 30 分钟），声明式动画像特殊书（翻到任意一页画面都完整） - 补齐的关键能力"
 resource: "https://x.com/i/status/2067039941960327204"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2067039941960327204"
-created: "2026-06-17"
-updated: "2026-06-26"
-sha256: "180c41b153277381aad05c3dec15d39616d7a75a7d1e63ebc8230b83039c8992"
-sources:
-  - "/sources/news/2026-06-17/00__dotey__宝玉把-claude-design-升级成动画视频导出器-声明式-f-t-引擎让-llm-写动画天然可验证.md"
 ---
 
 # 宝玉把 Claude Design 升级成动画视频导出器：声明式 f(t) 引擎让 LLM 写动画天然可验证

@@ -1,23 +1,17 @@
 ---
-type: "entity"
+type: "Author"
 title: "Lao Bai (@Wuhuoqiu)"
 description: "X/Twitter 作者 @Wuhuoqiu。共收录 1 条 AI 精选推文。"
 tags:
   - "x-news"
   - "author"
   - "author:Wuhuoqiu"
-timestamp: "2026-06-26T11:53:36.948Z"
+timestamp: "2026-06-27T08:40:40.156Z"
 x_handle: "Wuhuoqiu"
 x_author_name: "Lao Bai"
 x_tweet_count: 1
 x_first_seen: "2026-02-28T01:00:54.008Z"
 x_last_seen: "2026-02-28T01:00:54.008Z"
-type_okf: "Author"
-created: "2026-02-28"
-updated: "2026-06-26"
-sha256: "a020fb7c0a011f6bc47ecfb5bde3dd8122500890313126890fa397cd4e1e17fc"
-sources:
-  - "/sources/highlights/2026-02-28/00__Wuhuoqiu__agent-的-iphone-时刻-从组装机到-gptclaw-的品牌机预测.md"
 ---
 
 # Lao Bai (@Wuhuoqiu)

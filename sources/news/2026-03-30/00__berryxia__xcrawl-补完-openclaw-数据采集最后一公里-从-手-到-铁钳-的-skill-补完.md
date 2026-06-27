@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "XCrawl 补完 OpenClaw 数据采集最后一公里：从「手」到「铁钳」的 Skill 补完"
 description: "**XCrawl 通过 scrape/crawl/map/search 四大模式系统性补完了 OpenClaw 的数据采集短板。**  对比 Jina 等轻量 Reader，XCrawl 在动态页面和反爬场景下成功率显著更高。输出干净 Markdown + 结构化 JSON，内置住宅代理和指纹，成功率稳定，配置仅需 5 分钟。  与铁锤人反馈的 OpenClaw 原生抓取机制问题形成闭环验证：XC"
 resource: "https://x.com/i/status/2038483656260677708"
@@ -22,13 +22,6 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "agent-data-intelligence-infra"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2038483656260677708"
-created: "2026-03-30"
-updated: "2026-06-26"
-sha256: "a48b84039ff398e95cf87399d65f5822450612b8e5fae10aec4e3b89761c8c81"
-sources:
-  - "/sources/news/2026-03-30/00__berryxia__xcrawl-补完-openclaw-数据采集最后一公里-从-手-到-铁钳-的-skill-补完.md"
 ---
 
 # XCrawl 补完 OpenClaw 数据采集最后一公里：从「手」到「铁钳」的 Skill 补完

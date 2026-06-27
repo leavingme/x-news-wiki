@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "OpenAI Computer Use 团队前身竟是 Apple Shortcuts：难怪这么牛"
 description: "**Apple Shortcuts 的基因决定了 Computer Use 的交互范式。**  OpenAI Computer Use 团队被爆其核心成员来自 Apple 的 Shortcuts 团队。Shortcuts 的本质就是「用自然语言驱动系统操作」——这与 Computer Use 的 Agent 操控电脑逻辑高度同构。难怪 Computer Use 能做到隐藏鼠标下的精准操作点击。  "
 resource: "https://x.com/i/status/2047311703541772560"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2047311703541772560"
-created: "2026-04-23"
-updated: "2026-06-26"
-sha256: "53f2762f114d8bc019ac858e910345d022f8bc108ec3aeab9005fd8c672b8589"
-sources:
-  - "/sources/highlights/2026-04-24/00__yetone__openai-computer-use-团队前身竟是-apple-shortcuts-难怪这么牛.md"
 ---
 
 # OpenAI Computer Use 团队前身竟是 Apple Shortcuts：难怪这么牛

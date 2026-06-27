@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Karpathy 官宣加入 Anthropic：顶级独立声音押注「闭源 + 强对齐」路线"
 description: "**前 OpenAI/Tesla 核心成员、AI 领域最具影响力的布道者 Karpathy 选择 Anthropic 作为下一个 R&D 主战场，这是 2025 年最重要的 AI 人才流向事件之一。**  - 信号一：Karpathy 在推上明确表示「frontier 未来几年会尤其 formative」，等于用脚投票看好 Anthropic 的 AGI 路径判断 - 信号二：他在公开场合多次强调"
 resource: "https://x.com/i/status/2056753169888334312"
@@ -22,13 +22,6 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "ai-talent-flight"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2056753169888334312"
-created: "2026-05-19"
-updated: "2026-06-26"
-sha256: "dd4b6dc2cbee74c573b10e6b12cea5eaed44862a1483ef7935e19a386a7f2cf5"
-sources:
-  - "/sources/highlights/2026-06-25/00__karpathy__karpathy-官宣加入-anthropic-顶级独立声音押注-闭源-强对齐-路线.md"
 ---
 
 # Karpathy 官宣加入 Anthropic：顶级独立声音押注「闭源 + 强对齐」路线

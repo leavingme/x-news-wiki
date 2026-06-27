@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Goal书写五原则：把AI当执行者而非工具"
 description: "**【一句话核心判断】** 给AI写Goal的本质不是下指令，而是立契约——把最终交付物、验收标准、安全边界一次性说清楚，AI才能在不追问的情况下持续推进。  **信息增量：** - 原则一：写交付物而非任务描述。「研究一下」是无效Goal，「研究后输出X报告」才是有效契约 - 原则二：明确信息源优先级。官方文档 > GitHub release > 社区讨论，避免AI在噪音里打转 - 原则三：验"
 resource: "https://x.com/i/status/2059308998059540543"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2059308998059540543"
-created: "2026-05-26"
-updated: "2026-06-26"
-sha256: "3e4e6efb951759f324d8ce4639bd55b29e0188aeafba03d8ab451d2da8c1bf24"
-sources:
-  - "/sources/news/2026-05-26/00__Zesee__goal书写五原则-把ai当执行者而非工具.md"
 ---
 
 # Goal书写五原则：把AI当执行者而非工具

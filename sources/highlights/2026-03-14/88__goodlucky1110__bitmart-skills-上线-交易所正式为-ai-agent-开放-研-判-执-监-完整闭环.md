@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "BitMart Skills 上线：交易所正式为 AI Agent 开放「研-判-执-监」完整闭环"
 description: "**[中心化交易所首次系统性开放交易能力给 AI Agent，执行层抽象化成为新护城河]**  - BitMart 通过模块化 Skill 协议，让 Agent 获得研究、判断、执行、监控的全链路能力 - GitHub 开源 Skills 实现，意味着任何 Agent 框架（Claude Code、OpenClaw 等）理论上可接入 - 信号：交易所从「人的入口」向「Agent 的入口」转型，谁掌"
 resource: "https://x.com/i/status/2032728601674789039"
@@ -22,13 +22,6 @@ x_selected: 2
 x_priority: 88
 x_related_topic: "ai-crypto-agent-infra"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2032728601674789039"
-created: "2026-03-14"
-updated: "2026-06-26"
-sha256: "c0026606e4372f9bfae092d1b6f759c5ab6f80eeb6a6c15e7009d0e225922e47"
-sources:
-  - "/sources/highlights/2026-03-14/88__goodlucky1110__bitmart-skills-上线-交易所正式为-ai-agent-开放-研-判-执-监-完整闭环.md"
 ---
 
 # BitMart Skills 上线：交易所正式为 AI Agent 开放「研-判-执-监」完整闭环

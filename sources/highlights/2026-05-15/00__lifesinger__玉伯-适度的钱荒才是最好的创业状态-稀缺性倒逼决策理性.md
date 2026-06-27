@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "玉伯：适度的钱荒才是最好的创业状态，稀缺性倒逼决策理性"
 description: "**[钱太多是陷阱，钱太少是绝境——恰到好处的稀缺性才是最优解]**  玉伯的核心洞察：钱太多会染上\"成瘾性深坑\"（快速扩张、暴力投放），因为数据下跌时投资人和创始人都会焦虑，继续吸而不是停下来想办法；钱太少则被贫穷思维支配，束手束脚。真正好的状态是：钱刚好够让你焦虑到极度理性，但不至于让你无法行动。  信息增量：这是对\"融资越多越好\"叙事的直接反驳，并点出了成瘾性陷阱的机制——数据下跌→焦虑→继"
 resource: "https://x.com/i/status/2055156801218531439"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2055156801218531439"
-created: "2026-05-15"
-updated: "2026-06-26"
-sha256: "f7c8a9666214167617c52a83e3ab2f890cc78288b92cae539e1e3d27706f711d"
-sources:
-  - "/sources/highlights/2026-05-15/00__lifesinger__玉伯-适度的钱荒才是最好的创业状态-稀缺性倒逼决策理性.md"
 ---
 
 # 玉伯：适度的钱荒才是最好的创业状态，稀缺性倒逼决策理性

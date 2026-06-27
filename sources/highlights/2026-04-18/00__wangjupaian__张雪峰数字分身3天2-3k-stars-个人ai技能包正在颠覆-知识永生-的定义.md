@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "张雪峰数字分身3天2.3K stars：个人AI技能包正在颠覆「知识永生」的定义"
 description: "**一句话核心判断：个人AI技能包的病毒式传播证明，「数字永生」不再是有钱人的特权，而是一个GitHub操作就能实现的大众商品。**  关键进展： - 开发者将张雪峰5本著作、15篇访谈、上千条答疑视频、11个关键人生决策完整解构，连「社会筛子论」「就业倒推法」等思维模型都被封装进.skill文件 - 3天2,300+收藏、831次复刻，口碑传播速度远超常规开源项目 - 更关键的是还原质量：反问语"
 resource: "https://x.com/i/status/2044636637779665315"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2044636637779665315"
-created: "2026-04-16"
-updated: "2026-06-26"
-sha256: "8212e71c9b298a64042301996f11783f592698fe1eb783bf4acf5555b06a9140"
-sources:
-  - "/sources/highlights/2026-04-18/00__wangjupaian__张雪峰数字分身3天2-3k-stars-个人ai技能包正在颠覆-知识永生-的定义.md"
 ---
 
 # 张雪峰数字分身3天2.3K stars：个人AI技能包正在颠覆「知识永生」的定义

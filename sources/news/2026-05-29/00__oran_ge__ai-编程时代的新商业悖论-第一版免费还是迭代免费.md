@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "AI 编程时代的新商业悖论：第一版免费还是迭代免费？"
 description: "**[维护成本倒逼定价重构——Agent 自迭代免费、人类介入反而收费]**  一种新软件商业模式正在被讨论：首版免费、后续每次更新收费，因为 AI Coding 首版最简单、后续维护才是心力密集区。延伸版本：Agent 自己迭代的版本免费，人类介入迭代的版本收费——把「人的判断」本身变成溢价项。  gakki：这个定价逻辑如果成立，意味着未来软件的价值锚点从「功能」转移到「维护与迭代的决策权」—"
 resource: "https://x.com/i/status/2060369794306875788"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2060369794306875788"
-created: "2026-05-29"
-updated: "2026-06-26"
-sha256: "c9e3df640e69e2d83496f4d1190deb0e373416e7522b415121ceff7adad8635e"
-sources:
-  - "/sources/news/2026-05-29/00__oran_ge__ai-编程时代的新商业悖论-第一版免费还是迭代免费.md"
 ---
 
 # AI 编程时代的新商业悖论：第一版免费还是迭代免费？

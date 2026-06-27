@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "无代码红利：有道龙虾（LobsterAI）主打普通人 Agent 入口"
 description: "**[核心逻辑]** 通过封装沙盒 APP 降低 Agent 使用门槛，旨在解决 OpenClaw 命令行操作对普通用户的阻碍。 - 三分钟零门槛安装，无需 Python 环境或终端操作。 - 独立沙盒运行机制，在保证安全的前提下实现 Agent 功能大众化。 - 开源属性确保了技术的透明度与社区的可扩展性。  [gakki 的锐评]：Agent 的‘施乐时刻’。当强大的工具被装进漂亮、好点的窗口"
 resource: "https://x.com/i/status/2024480256531251674"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2024480256531251674"
-created: "2026-02-19"
-updated: "2026-06-26"
-sha256: "a366b1adb99ff0e9d9eb673518f96d12a4e8208c12886c3a87ea468e7e4fc393"
-sources:
-  - "/sources/highlights/2026-02-20/00__xiaohu__无代码红利-有道龙虾-lobsterai-主打普通人-agent-入口.md"
 ---
 
 # 无代码红利：有道龙虾（LobsterAI）主打普通人 Agent 入口

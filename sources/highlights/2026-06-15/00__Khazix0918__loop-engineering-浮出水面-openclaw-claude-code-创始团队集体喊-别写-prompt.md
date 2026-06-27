@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Loop Engineering 浮出水面：OpenClaw × Claude Code 创始团队集体喊「别写 Prompt 了，写循环」"
 description: "**[Prompt/Context/Harness 之后，AI 工程第四范式「Loop Engineering」被头部 Agent 创造者共同命名，正式进入共识形成期]**  - 6/7 OpenClaw 创始人 Peter 发推：不应再为编码 Agent 写 prompt，应该设计「循环」让 Agent 自我编排任务。 - Claude Code 创始人 Boris 在开发者大会呼应：「我已经不"
 resource: "https://x.com/i/status/2066394718519656909"
@@ -22,13 +22,6 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "harness-engineering-framework"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2066394718519656909"
-created: "2026-06-15"
-updated: "2026-06-26"
-sha256: "2eccf5b7bee205cf0dda7a0d24975fadc22ceed8df64f34b20efa86ad9456028"
-sources:
-  - "/sources/highlights/2026-06-15/00__Khazix0918__loop-engineering-浮出水面-openclaw-claude-code-创始团队集体喊-别写-prompt.md"
 ---
 
 # Loop Engineering 浮出水面：OpenClaw × Claude Code 创始团队集体喊「别写 Prompt 了，写循环」

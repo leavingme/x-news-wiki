@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "BYOA Agent 是「抢发 waitlist」的半成品：临时赶工与云端 Agent 体验差距显著"
 description: "**一句话核心判断：开源项目为了抢市场节奏发半成品，是把用户当测试员，代价是信任透支。**  yetone 公开承认 BYOA Agent 因「想早点开放 waitlist」而临时赶工，体验远不如 cloud agent，被迫当天连发数十版本修复。这是一个典型的开源项目节奏失控案例：社区期待值被拉高 → 仓促发布 → 口碑反噬。  值得注意的细节：作者本人主动出来认错，而非等到社区大规模投诉。这在"
 resource: "https://x.com/i/status/2059330193433727434"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2059330193433727434"
-created: "2026-05-26"
-updated: "2026-06-26"
-sha256: "0d8db6ce09b0601275fa2735be16c43946957d0754ec449d7485ae2655575ca7"
-sources:
-  - "/sources/news/2026-05-26/00__yetone__byoa-agent-是-抢发-waitlist-的半成品-临时赶工与云端-agent-体验差距显著.md"
 ---
 
 # BYOA Agent 是「抢发 waitlist」的半成品：临时赶工与云端 Agent 体验差距显著

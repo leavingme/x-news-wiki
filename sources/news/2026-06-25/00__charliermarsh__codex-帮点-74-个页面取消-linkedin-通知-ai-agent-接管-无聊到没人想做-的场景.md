@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Codex 帮点 74 个页面取消 LinkedIn 通知：AI Agent 接管「无聊到没人想做」的场景"
 description: "**当任务无聊到令人发指，AI Agent 的替代价值反而最清晰。**  - Charlie Marsh 用 Codex 替代自己去 LinkedIn 关闭通知——14 个分类、74 个独立页面、每页都要手点取消订阅。 - 信号：AI 浏览器/UI 自动化已经能吃下「流程已知 + UI 反人类」这类企业 SaaS 的阴暗角落。 - 反向信号：LinkedIn 这种产品设计本身就是 Agent 自动"
 resource: "https://x.com/i/status/2069241077509288212"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2069241077509288212"
-created: "2026-06-23"
-updated: "2026-06-26"
-sha256: "55aa2a615a0566c44e52964612da85dc4c72c358a3a839b3bb8c5f451ee8fec6"
-sources:
-  - "/sources/news/2026-06-25/00__charliermarsh__codex-帮点-74-个页面取消-linkedin-通知-ai-agent-接管-无聊到没人想做-的场景.md"
 ---
 
 # Codex 帮点 74 个页面取消 LinkedIn 通知：AI Agent 接管「无聊到没人想做」的场景

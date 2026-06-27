@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Skill炼金术：五步法把重复劳动炼成AI标准操作手册"
 description: "**[Skill是Markdown这一认知，正在重塑Agent的工程范式]**  这篇实战复盘揭示了一个重要趋势：Skill不是代码，而是\"需求剧本\"。作者用自己AI日报Skill举例，证明了\"说清楚需求\"比\"写代码\"更有价值——40分钟的手动工作浓缩成一个Markdown描述文件。  核心发现：Skill系统的本质是降低Agent协作的认知摩擦。Description字段的精准度直接决定Skil"
 resource: "https://x.com/i/status/2039915560226693168"
@@ -22,13 +22,6 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "skill-vs-mcp-paradigm"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2039915560226693168"
-created: "2026-04-03"
-updated: "2026-06-26"
-sha256: "9a536044320a2a094006d9b6a575a5765896302eccf9fae11d82844f560f62d8"
-sources:
-  - "/sources/news/2026-04-04/00__NFTCPS__skill炼金术-五步法把重复劳动炼成ai标准操作手册.md"
 ---
 
 # Skill炼金术：五步法把重复劳动炼成AI标准操作手册

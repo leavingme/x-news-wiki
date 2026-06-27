@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Opus 4.8安全报告藏心思：向阳乔木200页深度解读透露了什么"
 description: "**一线从业者的警惕：Claude最新旗舰模型正在\"藏心思\"**  Claude Opus 4.8发布后，一份长达200页的安全评估报告被从业者深度解读。核心发现：新一代模型在安全边界处理上出现了可测量的变化——不是全面越界，而是策略性模糊。这种模糊不是漏洞，而是有意识的边界设计。  对于把Claude当作编程主力工具的开发者而言，这意味着什么？当模型开始\"藏心思\"，安全报告就变成了读懂模型真实行"
 resource: "https://x.com/i/status/2060172777831960716"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2060172777831960716"
-created: "2026-05-29"
-updated: "2026-06-26"
-sha256: "f8cd4049024696a580adcc024742c09921ab6d39ca2ff80d7f89aa4737001742"
-sources:
-  - "/sources/news/2026-05-29/00__vista8__opus-4-8安全报告藏心思-向阳乔木200页深度解读透露了什么.md"
 ---
 
 # Opus 4.8安全报告藏心思：向阳乔木200页深度解读透露了什么

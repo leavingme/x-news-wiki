@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "AGI Bar：上海开业背后的「技术宗教化」消费符号"
 description: "**[AI Bar开业是技术信仰的物化仪式]**  Orange AI的AGI Bar上海二店开业，配合激光刻蚀钛色会员卡这个仪式感极强的动作。核心信息是：AGI正在从技术概念变成一种可以线下消费的「文化宗教」——where the bar is AGI, don't fall in love with Cola。  这类实体化操作的真正价值不在商业回报，而在于它生产了一种「技术朝圣地」的叙事——"
 resource: "https://x.com/i/status/2060577187749638209"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2060577187749638209"
-created: "2026-05-30"
-updated: "2026-06-26"
-sha256: "a59ebae3caeb53b297c737c207768d03e5c55682b694941dc94b991aa4e8d311"
-sources:
-  - "/sources/news/2026-05-30/00__oran_ge__agi-bar-上海开业背后的-技术宗教化-消费符号.md"
 ---
 
 # AGI Bar：上海开业背后的「技术宗教化」消费符号

@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Okara AI CMO：当「获客」取代「开发」成为创业第一瓶颈"
 description: "**【范式】产品民主化之后，增长成为新的稀缺资源。** • 用 Claude Code/Codex 两周能做复杂产品，但上线后缺用户、缺流量——这是 2026 年最大的创业悖论 • Okara 的 AI CMO 不是又一个营销工具，而是「Agent Fleet」编排：SEO/GEO/Reddit 等多渠道 Agent 7×24 自主执行 • 本质是「增长即服务」(Growth-as-a-Servi"
 resource: "https://x.com/i/status/2033684452614820123"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2033684452614820123"
-created: "2026-03-16"
-updated: "2026-06-26"
-sha256: "9e21b6df44786de8a6e171f491c272d5dc8d205fd60cd5c3d7bb98aa27ad4c7a"
-sources:
-  - "/sources/highlights/2026-03-17/00___0xKenny__okara-ai-cmo-当-获客-取代-开发-成为创业第一瓶颈.md"
 ---
 
 # Okara AI CMO：当「获客」取代「开发」成为创业第一瓶颈

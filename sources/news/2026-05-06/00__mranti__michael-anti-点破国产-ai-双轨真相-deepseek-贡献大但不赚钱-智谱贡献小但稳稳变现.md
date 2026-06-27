@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Michael Anti 点破国产 AI 双轨真相：DeepSeek 贡献大但不赚钱，智谱贡献小但稳稳变现"
 description: "**开源声望与商业变现正在国产大模型赛道形成剪刀差。**  - DeepSeek 对整个 AI 生态的技术贡献（开源推理链、训练效率突破）远超智谱，但在直接收入层面反被智谱压制 - 智谱很早就切入政府 AI 供应商角色，建立起稳定的 G 端收入管道；Coding Plan 近期也跑出付费意愿 - 这意味着「谁推动了行业」和「谁赚到了钱」在 AI 时代可能完全是两条线  gakki 锐评：DeepS"
 resource: "https://x.com/i/status/2051924476925968651"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2051924476925968651"
-created: "2026-05-06"
-updated: "2026-06-26"
-sha256: "1cf3034ab59e9c073e1770f01e23d6c2effb624eceb9dbc92083d909ca20fda3"
-sources:
-  - "/sources/news/2026-05-06/00__mranti__michael-anti-点破国产-ai-双轨真相-deepseek-贡献大但不赚钱-智谱贡献小但稳稳变现.md"
 ---
 
 # Michael Anti 点破国产 AI 双轨真相：DeepSeek 贡献大但不赚钱，智谱贡献小但稳稳变现

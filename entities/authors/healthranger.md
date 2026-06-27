@@ -1,23 +1,17 @@
 ---
-type: "entity"
+type: "Author"
 title: "HealthRanger (@HealthRanger)"
 description: "X/Twitter 作者 @HealthRanger。共收录 1 条 AI 精选推文。"
 tags:
   - "x-news"
   - "author"
   - "author:HealthRanger"
-timestamp: "2026-06-26T11:53:36.992Z"
+timestamp: "2026-06-27T08:40:40.205Z"
 x_handle: "HealthRanger"
 x_author_name: "HealthRanger"
 x_tweet_count: 1
 x_first_seen: "2026-04-29T22:17:30.666Z"
 x_last_seen: "2026-04-29T22:17:30.666Z"
-type_okf: "Author"
-created: "2026-04-29"
-updated: "2026-06-26"
-sha256: "ef1f0821e5061fa3b181b4ebfd6dfb76862e7522417b04e1bb2a16ed5c8e163d"
-sources:
-  - "/sources/news/2026-04-29/00__HealthRanger__deepseek-v4-用三分钱修了-claude-opus-4-7-的-8-个内存泄漏-跨模型调试的性价比叙事正在改写.md"
 ---
 
 # HealthRanger (@HealthRanger)

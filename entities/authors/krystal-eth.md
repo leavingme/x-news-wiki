@@ -1,23 +1,17 @@
 ---
-type: "entity"
+type: "Author"
 title: "加密Krystal (@Krystal_Eth)"
 description: "X/Twitter 作者 @Krystal_Eth。共收录 1 条 AI 精选推文。"
 tags:
   - "x-news"
   - "author"
   - "author:Krystal_Eth"
-timestamp: "2026-06-26T11:53:36.982Z"
+timestamp: "2026-06-27T08:40:40.193Z"
 x_handle: "Krystal_Eth"
 x_author_name: "加密Krystal"
 x_tweet_count: 1
 x_first_seen: "2026-04-10T00:44:39.125Z"
 x_last_seen: "2026-04-10T00:44:39.125Z"
-type_okf: "Author"
-created: "2026-04-10"
-updated: "2026-06-26"
-sha256: "689f53c81451c14e8505b3b660dab190e5467e93379df8bca5ef526b8fb328c9"
-sources:
-  - "/sources/news/2026-04-10/00__Krystal_Eth__gaib-irys-把ai算力代币化上链-aid打开-算力资产-这条暗线.md"
 ---
 
 # 加密Krystal (@Krystal_Eth)

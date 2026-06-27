@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Skills 是工作手册，Agent 是执行主体：宝玉把 Agent 生态的核心分叉讲清楚了"
 description: "**[Skills 和 Agent 的边界定义，决定了 Agent 架构的可维护性上限]**  宝玉给出了目前中文圈最清晰的 Skills vs Agent 定义：Skill 是给 Claude 看的工作手册（包含领域知识、工作流、判断标准），本身不执行；Agent 才是真正执行任务的主体，其中 Subagent 负责并行分摊上下文压力，结果汇总回主 Agent。  核心洞察：Subagent 不"
 resource: "https://x.com/i/status/2054383106115678639"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2054383106115678639"
-created: "2026-05-13"
-updated: "2026-06-26"
-sha256: "3d3dfffcefd3e143171d593a691340de50a8b2e59e077332dff710aa96f15536"
-sources:
-  - "/sources/news/2026-05-13/00__dotey__skills-是工作手册-agent-是执行主体-宝玉把-agent-生态的核心分叉讲清楚了.md"
 ---
 
 # Skills 是工作手册，Agent 是执行主体：宝玉把 Agent 生态的核心分叉讲清楚了

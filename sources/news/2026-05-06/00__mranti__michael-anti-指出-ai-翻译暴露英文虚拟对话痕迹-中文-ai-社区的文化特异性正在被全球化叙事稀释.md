@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Michael Anti 指出 AI 翻译暴露英文虚拟对话痕迹：中文 AI 社区的文化特异性正在被全球化叙事稀释"
 description: "**用英文 prompt 虚拟与中国人对话再翻译回中文，产出的是文化失真的「翻译腔」内容。**  - Michael Anti 识别出「鲸鱼兄弟」称呼的翻译痕迹——中文社区称 DeepSeek 而非「鲸鱼」 - 暗示存在用英文 prompt 生成中文 AI 社区内容、再翻译发布的链条 - 中文 AI 社区的本土语境（如 OpenClaw=小龙虾）正在被英文世界的命名逻辑覆盖  gakki 锐评：这"
 resource: "https://x.com/i/status/2051962974974435593"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2051962974974435593"
-created: "2026-05-06"
-updated: "2026-06-26"
-sha256: "cf5ab3be520764f480c2915fda7dfcba9f2cde26a3147b919c2336f5b0606144"
-sources:
-  - "/sources/news/2026-05-06/00__mranti__michael-anti-指出-ai-翻译暴露英文虚拟对话痕迹-中文-ai-社区的文化特异性正在被全球化叙事稀释.md"
 ---
 
 # Michael Anti 指出 AI 翻译暴露英文虚拟对话痕迹：中文 AI 社区的文化特异性正在被全球化叙事稀释

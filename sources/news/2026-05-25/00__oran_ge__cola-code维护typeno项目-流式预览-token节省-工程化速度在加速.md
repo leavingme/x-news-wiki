@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Cola Code维护TypeNo项目：流式预览+Token节省，工程化速度在加速"
 description: "**voice coding工具的工程完成度进入新阶段。**  Orange AI用Cola Code一天处理8个issue+1个PR，发了v1.4.0。核心亮点：流式实时预览（边说边出字~1秒刷新）、overlay重新设计（深色+呼吸灯）、修好了间歇性空录音和键盘焦点丢失两个疼点。Token效率也是宣传点。"
 resource: "https://x.com/i/status/2058908400009060753"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2058908400009060753"
-created: "2026-05-25"
-updated: "2026-06-26"
-sha256: "34618616c023e06562287388a804a93e94a261efd87d82ea95b8f16dd3fd2282"
-sources:
-  - "/sources/news/2026-05-25/00__oran_ge__cola-code维护typeno项目-流式预览-token节省-工程化速度在加速.md"
 ---
 
 # Cola Code维护TypeNo项目：流式预览+Token节省，工程化速度在加速

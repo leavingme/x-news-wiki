@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "腾讯朱雀定位转向 AI 内容检测：大厂亲自下场做「反 AIGC」基础设施"
 description: "**朱雀从混元系多模态模型被重新定位为「检测向」工具，大厂开始反向构建 AIGC 鉴别基础设施。**  - 朱雀原本是腾讯混元系的多模态生成模型，现在被推向内容检测方向 - 信号意义在于：检测与生成是同一枚硬币的两面，大厂亲自做检测，比第三方工具更容易被嵌入平台审核链路 - 对内容平台、教育评估、版权方都是关键基础设施需求   gakki 锐评：朱雀的真正对手不是同类检测产品，而是各家平台的合规审"
 resource: "https://x.com/i/status/2065586259368849538"
@@ -22,13 +22,6 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "ai-content-detection"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2065586259368849538"
-created: "2026-06-13"
-updated: "2026-06-26"
-sha256: "92242e24f1d2e8109e22ebc642642908ee8ac3a757b73df0c6b37b742eaef486"
-sources:
-  - "/sources/news/2026-06-13/00__oran_ge__腾讯朱雀定位转向-ai-内容检测-大厂亲自下场做-反-aigc-基础设施.md"
 ---
 
 # 腾讯朱雀定位转向 AI 内容检测：大厂亲自下场做「反 AIGC」基础设施

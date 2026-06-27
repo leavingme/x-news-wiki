@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "中国量化团队用 MiroFish 模拟引擎单笔暴赚 7500%：AI 预测 Agent 正在吞噬传统交易员的 alpha"
 description: "**AI 模拟 Agent 正在成为量化交易的新 alpha 来源，链上可验证交易记录让策略透明度进入新阶段。**  - 中国量化团队基于 MiroFish（多智能体模拟预测基础设施）构建 BTC 价格模拟引擎，单笔 $2,000→$166,000，累计盈利 $350k - 核心能力：实时检测加密市场错配并秒级入场，持续逆向交易人群——Agent 的模拟精度已超过人类集体判断 - 所有交易在 Po"
 resource: "https://x.com/antpalkin/status/2049916341839352135"
@@ -22,13 +22,6 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "multi-agent-simulation-infrastructure"
 x_source: "ai-trend-digest"
-type_okf: "X Tweet"
-source_url: "https://x.com/antpalkin/status/2049916341839352135"
-created: "2026-04-30"
-updated: "2026-06-26"
-sha256: "df147c9cd39c8652de5240220d59f4244319b3217b41c7c1d6cee5eec385647f"
-sources:
-  - "/sources/news/2026-05-01/00__antpalkin__中国量化团队用-mirofish-模拟引擎单笔暴赚-7500-ai-预测-agent-正在吞噬传统交易员的-alpha.md"
 ---
 
 # 中国量化团队用 MiroFish 模拟引擎单笔暴赚 7500%：AI 预测 Agent 正在吞噬传统交易员的 alpha

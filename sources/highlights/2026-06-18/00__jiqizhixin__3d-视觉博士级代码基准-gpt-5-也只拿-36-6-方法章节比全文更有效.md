@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "3D 视觉博士级代码基准：GPT-5 也只拿 36.6%，方法章节比全文更有效"
 description: "**GeoCodeBench 撕开通用 coding 跟可信科研 coding 之间的大裂缝**  - 清华/北大/南大/多伦多联合出品，把真实 3D 视觉论文代码改造成\"填函数+自动单测\"任务 - 当前最强模型 GPT-5 仅有 36.6% pass rate - 反直觉发现：上下文切到 Method 段落反而比喂整篇论文效果更好 - 直接结论：3D 科研代码对\"可复现、可信任\"的要求和通用代码"
 resource: "https://x.com/i/status/2067661872489222165"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2067661872489222165"
-created: "2026-06-18"
-updated: "2026-06-26"
-sha256: "5f4e3d96f672f36c35758407440d6157260420ae53d44dd4efeb255b15dc8dea"
-sources:
-  - "/sources/highlights/2026-06-18/00__jiqizhixin__3d-视觉博士级代码基准-gpt-5-也只拿-36-6-方法章节比全文更有效.md"
 ---
 
 # 3D 视觉博士级代码基准：GPT-5 也只拿 36.6%，方法章节比全文更有效

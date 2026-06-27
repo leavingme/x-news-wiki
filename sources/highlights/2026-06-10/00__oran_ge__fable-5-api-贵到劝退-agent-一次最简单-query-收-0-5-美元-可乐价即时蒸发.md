@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Fable 5 API 贵到劝退 Agent：一次最简单 Query 收 0.5 美元，可乐价即时蒸发"
 description: "**头部模型 API 价格正在反向筛选 Agent 场景，能问一次就别问两次。**  - Fable 5 模型在 Agent 中跑最简单 Query，单次成本 0.5 美元 - Agent 多轮调用下，token 成本呈指数级放大 - 社区已出现明确「省着用」共识，额度机制成为个人开发者隐性门槛   gakki 锐评：当单次调用等价于一瓶可乐，Agent 商业模型必须重写——Freemium、按结"
 resource: "https://x.com/i/status/2064641244777808058"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2064641244777808058"
-created: "2026-06-10"
-updated: "2026-06-26"
-sha256: "18f3fd8868f1f9cf679d1badc8f861eba0c72fe702ece08378d530ac17886adf"
-sources:
-  - "/sources/highlights/2026-06-10/00__oran_ge__fable-5-api-贵到劝退-agent-一次最简单-query-收-0-5-美元-可乐价即时蒸发.md"
 ---
 
 # Fable 5 API 贵到劝退 Agent：一次最简单 Query 收 0.5 美元，可乐价即时蒸发

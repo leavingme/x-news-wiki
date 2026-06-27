@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "刘鑫发布面向AI的记忆系统：整合十年前socrates到今年JSE的通用记忆方案，性能超MemPalace"
 description: "**一句话核心判断：** 知识管理正在从「存档」进化为「动态建模」，一个积累十年的记忆系统终于找到了工程化出口。  - 性能号称超过 MemPalace，基于作者从 socrates → 动态建模方法 → JSE 的技术演进总结 - 区别于传统笔记工具，定位是「面向 AI 的记忆系统」——解决 Agent 的上下文资产化管理问题 - 这类自研工具的大量出现，标志 Agent 记忆已经从概念验证进入"
 resource: "https://x.com/i/status/2042528954326880445"
@@ -22,13 +22,6 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "personal-knowledge-management-ai"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2042528954326880445"
-created: "2026-04-10"
-updated: "2026-06-26"
-sha256: "a125e0eb53a7046b162cfe09960e7efe9b1641374df5d1668953cb0b8f8934ec"
-sources:
-  - "/sources/news/2026-04-12/00__marchliu__刘鑫发布面向ai的记忆系统-整合十年前socrates到今年jse的通用记忆方案-性能超mempalace.md"
 ---
 
 # 刘鑫发布面向AI的记忆系统：整合十年前socrates到今年JSE的通用记忆方案，性能超MemPalace

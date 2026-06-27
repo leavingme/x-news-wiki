@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "飞书拥抱 Markdown：这场格式战争在 AI 时代重新找到了锚点"
 description: "**[Markdown 赢下 AI 时代，因为它是「AI 输出」与「人类可读」的最大公约数]**  数字生命卡兹克的观察：飞书终于支持 Markdown 了。这件事本身微不足道，但放在 AI 时代叙事里意义不同——当 AI 生成的内容成为主流，Markdown 作为「结构化人类可读文本」成了人机协作的中间层。它不是最强格式，但是 AI 原生输出的标准格式。  这条观察和「MarkItDown」趋势"
 resource: "https://x.com/i/status/2059857381841158252"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2059857381841158252"
-created: "2026-05-28"
-updated: "2026-06-26"
-sha256: "29ba18843bfd5b6c00fe93e67b0fa14c9e3d97f40d15a76699cb8fb86609b099"
-sources:
-  - "/sources/news/2026-05-28/00__Khazix0918__飞书拥抱-markdown-这场格式战争在-ai-时代重新找到了锚点.md"
 ---
 
 # 飞书拥抱 Markdown：这场格式战争在 AI 时代重新找到了锚点

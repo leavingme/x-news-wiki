@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "xAI 被喊话转型算力市场：SpaceX 做云比死磕应用层更性感"
 description: "**算力市场化的价值可能远超应用层的垂直整合。** - Beff 提出 xAI 应直接开放算力交易平台，用 SpaceX 的基础设施做云服务，而非在应用层与 OpenAI/Anthropic 内卷 - 核心逻辑：xAI 的真正资产是算力获取能力和 Musk 体系的基础设施网络，而非模型本身 - IPO 前如果能讲通「算力 Airbnb」的故事，估值逻辑会完全不同于「又一个 ChatGPT 竞品」 "
 resource: "https://x.com/beffjezos/status/2050989390659223677"
@@ -22,13 +22,6 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "compute-airbnb-arbitrage"
 x_source: "ai-trend-digest"
-type_okf: "X Tweet"
-source_url: "https://x.com/beffjezos/status/2050989390659223677"
-created: "2026-05-03"
-updated: "2026-06-26"
-sha256: "06b3656b209dcac3a5703bbeffa4349b502323cf93a11534fa9fce919a31b400"
-sources:
-  - "/sources/news/2026-05-03/00__beffjezos__xai-被喊话转型算力市场-spacex-做云比死磕应用层更性感.md"
 ---
 
 # xAI 被喊话转型算力市场：SpaceX 做云比死磕应用层更性感

@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "AI冷战叙事下的美国就业结构性崩塌：监管真空与阶层下沉"
 description: "**[一句话核心判断]** 特朗普政府的「零监管」政策正在加速AI对劳动市场的冲击，「用时间换金钱」的传统中产契约在算力通胀面前失效。  • 地缘逻辑：AI被框定为「必须赢的冷战」，监管被视为竞争劣势而非社会保护 • 经济现实：报酬与时间的双重贬值，跑步机倒跑隐喻精准击中当代劳动者焦虑 • 政策预判：民主党若上台可能强化监管，但结构性损害已不可逆  gakki 的锐评：这篇文章的价值在于撕掉了「技"
 resource: "https://x.com/i/status/2014329410925842522"
@@ -22,13 +22,6 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "ai-cognition-execution-paradox"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2014329410925842522"
-created: "2026-01-22"
-updated: "2026-06-26"
-sha256: "f5a7f5dba1cab476f4b5f733d3627ab45ce87db0ab1a2ec19206f767b3d26fd9"
-sources:
-  - "/sources/news/2026-03-28/00__raycat2021__ai冷战叙事下的美国就业结构性崩塌-监管真空与阶层下沉.md"
 ---
 
 # AI冷战叙事下的美国就业结构性崩塌：监管真空与阶层下沉

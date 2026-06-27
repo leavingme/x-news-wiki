@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "塔勒布重新定义意义：不是你找到的，是用风险和牺牲赌出来的"
 description: "**[一句话核心判断]**  意义不是哲学命题，是风险决策的副产品。  **信息增量：** • 尼采、萨特、加缪、弗兰克尔……各派人生意义的回答，本质都是「意义来源」问题：给定 vs 创造 vs 发现 • 塔勒布的版本最反直觉：意义不是找的、不是给的，是押注押出来的——不赌就等于没有立场，就没有身份 • 这套框架恰好解释了为什么 AGI 时代「All in AI 创业」的人有强烈意义感，而「等等看"
 resource: "https://x.com/i/status/2056022254928961893"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2056022254928961893"
-created: "2026-05-17"
-updated: "2026-06-26"
-sha256: "8dd2720775970dbbb3138b29408f45d217219184e6e704096b361594e6f47da9"
-sources:
-  - "/sources/news/2026-05-17/00__oran_ge__塔勒布重新定义意义-不是你找到的-是用风险和牺牲赌出来的.md"
 ---
 
 # 塔勒布重新定义意义：不是你找到的，是用风险和牺牲赌出来的

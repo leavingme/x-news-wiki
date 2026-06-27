@@ -1,32 +1,22 @@
 ---
-type: "concept"
-title: "world-model-paradigm"
-description: "跨日主题 \"world-model-paradigm\"，共 8 条相关精选推文。"
+type: "Concept"
+title: "世界模型范式"
+description: "跨日主题 \"世界模型范式\" (world-model-paradigm)，共 8 条相关精选推文。"
 tags:
   - "x-news"
   - "concept"
   - "topic:world-model-paradigm"
-timestamp: "2026-06-26T11:53:37.010Z"
+timestamp: "2026-06-27T08:40:42.846Z"
 x_topic_slug: "world-model-paradigm"
 x_tweet_count: 8
 x_first_seen: "2026-03-21T09:05:18.672Z"
 x_last_seen: "2026-06-25T08:39:47.596Z"
-type_okf: "Concept"
-created: "2026-03-21"
-updated: "2026-06-26"
-sha256: "eaa5b43ca2c649f22cd21e1a3fe6d219c76995547ee8a6ca839fe19d17882020"
-sources:
-  - "/sources/highlights/2026-03-21/00__lifesinger__玉伯解读谢赛宁-世界模型才是终极形态-llm只是-加工过的沟通.md"
-  - "/sources/highlights/2026-06-12/00__gkxspace__因果世界模型挑战-以胖为美-更小模型实现-25-50-成功率-5-10倍样本效率.md"
-  - "/sources/highlights/2026-06-12/00__lxfater__altman盖章-文字agi已板上钉钉-机器人却连桌子低几厘米都扛不住.md"
-  - "/sources/highlights/2026-06-18/00__gkxspace__因果模型是-llm-之后的下一站-aether-ai-携全球首个因果世界模型官宣融资.md"
-  - "/sources/highlights/2026-06-24/00__jiqizhixin__通义千问甩出qwen-agentworld-语言世界模型直接对线lecun视觉路线.md"
-  - "/sources/news/2026-05-29/00__jiqizhixin__语义事件原子化-wall-wm-用语言-视频-动作统一粒度打破世界模型碎片化困局.md"
-  - "/sources/news/2026-06-25/00___akhaliq__0-可扩展-3d-交互追踪世界模型-world-model-阵营再添新丁.md"
-  - "/sources/news/2026-06-25/00___akhaliq__world-action-models综述出炉-世界模型与动作生成正在合流为统一范式.md"
+x_cn_title_source: "dict"
 ---
 
-# 主题: world-model-paradigm
+# 主题: 世界模型范式
+
+> slug: `world-model-paradigm`
 
 本主题下共 **8** 条精选推文。
 

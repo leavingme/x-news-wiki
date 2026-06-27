@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "「Figma终结者」实验：Tailwind设计师用Claude Code零代码基础1小时建站"
 description: "**[设计师×Claude Code=设计工具链的潜在重构]** • 关键事实：Steve Schoger（Tailwind CSS核心设计师）零CLI经验，仅凭「换目录+启动Claude」完成金融App营销页 • 方法论：无Skills、无CLAUDE.md，纯自然语言对话驱动，16条实战设计技巧穿插其中 • 产出范围：三层定价页（含对比表/FAQ/testimonial）+ 内部金融dashb"
 resource: "https://x.com/i/status/2035713672346206625"
@@ -22,13 +22,6 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "claude-code-natural-language-workflow"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2035713672346206625"
-created: "2026-03-22"
-updated: "2026-06-26"
-sha256: "0ce6565de02ff215fb383ce116433a0ba8f3aa7a6eb93828b2d96c53de6548ab"
-sources:
-  - "/sources/news/2026-03-23/00__pirrer__figma终结者-实验-tailwind设计师用claude-code零代码基础1小时建站.md"
 ---
 
 # 「Figma终结者」实验：Tailwind设计师用Claude Code零代码基础1小时建站

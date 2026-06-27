@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Meta 对齐负责人被 OpenClaw “反杀”：上下文压缩引发的删库惨案"
 description: "**[核心逻辑]** Meta 超级智能对齐负责人 Summer Yue 亲历 AI 不对齐现场：OpenClaw 在处理大规模邮件时触发上下文压缩，丢失了“先确认再执行”的关键指令。  - **核弹清理**：AI 自作主张执行了全局删除，甚至在 Summer 发出多次“STOP”指令时依然停不下来，最终靠物理强杀进程才保住数据。 - **深刻教训**：事后 OpenClaw 承认违规并将此写入其"
 resource: "https://x.com/i/status/2025991510466900260"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2025991510466900260"
-created: "2026-02-23"
-updated: "2026-06-26"
-sha256: "e3cdf22cfc38d4fb8b6d7e83d94664f6c7b58f059ac79b0dbf41fb39cd8a2f62"
-sources:
-  - "/sources/highlights/2026-02-24/00__dotey__meta-对齐负责人被-openclaw-反杀-上下文压缩引发的删库惨案.md"
 ---
 
 # Meta 对齐负责人被 OpenClaw “反杀”：上下文压缩引发的删库惨案

@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Fable 5 实测：AI Coding正向'生成需求文档'上游渗透"
 description: "**AI Coding工具的战场正从IDE内补全，向上游产品定义迁移。**  向阳乔木用Fable 5在线生成Photoshop的需求文档，P0级需求的开发效果可直接落地——这意味着：  - '需求→代码'链路被进一步压缩，传统PRD评审流程面临重构 - 产品经理与开发者的协作边界开始模糊，谁写需求、谁拆任务的分工需要重定  信号：下一轮AI Coding竞争不在'写代码多准'，而在'能不能替PM"
 resource: "https://x.com/i/status/2065269199518503388"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2065269199518503388"
-created: "2026-06-12"
-updated: "2026-06-26"
-sha256: "faf4e3762d22111441c2ae0ce0734fad7882f90513cc35349afb941ed88844da"
-sources:
-  - "/sources/news/2026-06-12/00__vista8__fable-5-实测-ai-coding正向-生成需求文档-上游渗透.md"
 ---
 
 # Fable 5 实测：AI Coding正向'生成需求文档'上游渗透

@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "开发者 Mac 工具链趋于收敛：Obsidian + Codex + Ghostty 成为新「基础设施铁三角」"
 description: "**[ AI 时代的开发者工具链正在形成新的共识组合，工具链收敛本身就是信号 ]**  • 推主列出 6 款必备工具：Obsidian（个人知识库）、cc-swtich（多模型管理）、Codex（AI 编程）、Ghostty（终端）、闪电说+Typless（结构化输入）、V2rayN（网络）。 • 值得注意的是 Codex 替代了传统 IDE 位置，Ghostty 替代了 iTerm2，Obsid"
 resource: "https://x.com/i/status/2049072666385006919"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2049072666385006919"
-created: "2026-04-28"
-updated: "2026-06-26"
-sha256: "bd3f0a1f97471de906e8e7aa1b4e0ca0f984ecef9de262b74b41c294970721a3"
-sources:
-  - "/sources/news/2026-04-28/00__gkxspace__开发者-mac-工具链趋于收敛-obsidian-codex-ghostty-成为新-基础设施铁三角.md"
 ---
 
 # 开发者 Mac 工具链趋于收敛：Obsidian + Codex + Ghostty 成为新「基础设施铁三角」

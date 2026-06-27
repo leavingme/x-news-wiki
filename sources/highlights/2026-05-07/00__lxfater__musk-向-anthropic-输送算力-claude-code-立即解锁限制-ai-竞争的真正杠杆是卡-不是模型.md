@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Musk 向 Anthropic 输送算力，Claude Code 立即解锁限制：AI 竞争的真正杠杆是卡，不是模型"
 description: "**Anthropic 借 Musk 算力杠杆，立即解除产品限制，AI 竞争格局的权力中心正在从算法向算力供应链漂移。**  - Musk 将显卡转给 Anthropic 使用，xAI 与 OpenAI 的敌对关系正在重塑算力流向 - Claude Code 5 小时限制翻倍、高峰期额外限额彻底取消、Opus API 速率大幅提高——得到卡就立即放开，说明此前限制完全是算力瓶颈而非产品策略 - A"
 resource: "https://x.com/i/status/2052294720513012223"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2052294720513012223"
-created: "2026-05-07"
-updated: "2026-06-26"
-sha256: "4a9db94fe0924f1eefef46289977c5978096d8659a236ac0cf97013b699265ab"
-sources:
-  - "/sources/highlights/2026-05-07/00__lxfater__musk-向-anthropic-输送算力-claude-code-立即解锁限制-ai-竞争的真正杠杆是卡-不是模型.md"
 ---
 
 # Musk 向 Anthropic 输送算力，Claude Code 立即解锁限制：AI 竞争的真正杠杆是卡，不是模型

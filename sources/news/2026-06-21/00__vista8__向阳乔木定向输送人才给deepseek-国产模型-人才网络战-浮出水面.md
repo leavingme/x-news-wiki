@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "向阳乔木定向输送人才给DeepSeek：国产模型「人才网络战」浮出水面"
 description: "**国产大模型的竞争已从模型本身外溢到人才招募网络。**  - 向阳乔木公开向DeepSeek「贡献人才线索」，以KOL身份背书+人脉推荐，是国产开源生态正在自发形成的非正式HR通道 - 这与唐杰×马斯克对谈、DeepSeek V4开源进展形成同一信号：2026下半年国产模型的「可用性补完」要靠人才密度，而非单纯算力堆叠 - 节点意义：KOL型贡献者从「站台」升级为「供给侧连接器」，海外招聘渠道对"
 resource: "https://x.com/i/status/2068723238213931136"
@@ -22,13 +22,6 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "deepseek-v4-open-source"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2068723238213931136"
-created: "2026-06-21"
-updated: "2026-06-26"
-sha256: "1816d026b6a3da95ac268cd188b2634a82ec994f93bb04adf6ff7947861d6bb3"
-sources:
-  - "/sources/news/2026-06-21/00__vista8__向阳乔木定向输送人才给deepseek-国产模型-人才网络战-浮出水面.md"
 ---
 
 # 向阳乔木定向输送人才给DeepSeek：国产模型「人才网络战」浮出水面

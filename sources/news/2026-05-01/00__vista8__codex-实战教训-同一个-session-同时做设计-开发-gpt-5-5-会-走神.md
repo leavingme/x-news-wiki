@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Codex 实战教训：同一个 Session 同时做设计 + 开发，GPT-5.5 会「走神」"
 description: "**多模态 Agent 的注意力是有限资源，混合任务会稀释执行精度。**  - 同一 Session 里同时生成设计图和开发应用，GPT-5.5 会把设计图当「参考灵感」而非「严格规范」 - 最终实现界面与设计图存在偏差——不是能力问题，是上下文优先级冲突 - 解法：分两个 Session，先出图，再以图片为输入要求「像素级还原」  gakki 锐评：这暴露了当前 Agent 架构的一个结构性问题"
 resource: "https://x.com/i/status/2050216261213163991"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2050216261213163991"
-created: "2026-05-01"
-updated: "2026-06-26"
-sha256: "ba4f7d297b69750d7716f8f6e78047975cc3c57ebf3a844b95cbcb46a9fb5755"
-sources:
-  - "/sources/news/2026-05-01/00__vista8__codex-实战教训-同一个-session-同时做设计-开发-gpt-5-5-会-走神.md"
 ---
 
 # Codex 实战教训：同一个 Session 同时做设计 + 开发，GPT-5.5 会「走神」

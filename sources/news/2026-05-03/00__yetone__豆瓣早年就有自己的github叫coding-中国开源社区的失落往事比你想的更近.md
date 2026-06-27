@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "豆瓣早年就有自己的GitHub叫Coding——中国开源社区的失落往事比你想的更近"
 description: "**在GitHub统治全球之前，中国互联网曾有自己的代码托管尝试——而它来自一个文艺社区。**  - yetone爆料：豆瓣早年做过名为「Coding」的代码托管平台，还给GitHub创始人展示过 - 这段历史几乎被遗忘，但它揭示了一个事实：中国互联网的开源基因并非空白，而是被商业化浪潮淹没 - 如今豆瓣自身也在探索AI功能，这段历史对理解中国开源生态的演化有参照价值  gakki锐评：这不是怀旧"
 resource: "https://x.com/i/status/2050821603513270526"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2050821603513270526"
-created: "2026-05-03"
-updated: "2026-06-26"
-sha256: "08ab1d3ea8749e8b98922f815297207023afb99489dde9adb3ab2ae34ef9aec2"
-sources:
-  - "/sources/news/2026-05-03/00__yetone__豆瓣早年就有自己的github叫coding-中国开源社区的失落往事比你想的更近.md"
 ---
 
 # 豆瓣早年就有自己的GitHub叫Coding——中国开源社区的失落往事比你想的更近

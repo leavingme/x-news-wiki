@@ -1,23 +1,17 @@
 ---
-type: "entity"
+type: "Author"
 title: "HiWanzhou (@HiWanzhou)"
 description: "X/Twitter 作者 @HiWanzhou。共收录 1 条 AI 精选推文。"
 tags:
   - "x-news"
   - "author"
   - "author:HiWanzhou"
-timestamp: "2026-06-26T11:53:36.951Z"
+timestamp: "2026-06-27T08:40:40.159Z"
 x_handle: "HiWanzhou"
 x_author_name: "HiWanzhou"
 x_tweet_count: 1
 x_first_seen: "2026-03-03T01:07:04.900Z"
 x_last_seen: "2026-03-03T01:07:04.900Z"
-type_okf: "Author"
-created: "2026-03-03"
-updated: "2026-06-26"
-sha256: "c50b15400a4abe1ed7d2bbdae74a4f06aed9e054ce424ebd9a93c3f5c1de7b4d"
-sources:
-  - "/sources/news/2026-03-03/00__HiWanzhou__ai-剪纸庆元宵-多模态文化表达的-轻应用-正在穿透传统节日.md"
 ---
 
 # HiWanzhou (@HiWanzhou)

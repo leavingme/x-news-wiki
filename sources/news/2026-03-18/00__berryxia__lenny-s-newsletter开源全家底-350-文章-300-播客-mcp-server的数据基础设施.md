@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Lenny's Newsletter开源全家底：350+文章+300+播客+MCP server的数据基础设施"
 description: "**[高质量内容资产正在成为AI训练的燃料]**  • 规模空前：350+篇Newsletter文章+300+期播客转录，全部AI友好格式 • 基础设施化：附赠MCP server和GitHub仓库，降低二次开发门槛 • 生态效应：已有50+个项目基于此构建，从RPG游戏到育儿网站  这不仅是内容开放，更是在示范一种\"数据即基础设施\"的新模式——当优质内容以AI可消费的形式公开，创新门槛被进一步拉"
 resource: "https://x.com/i/status/2034022941823021231"
@@ -22,13 +22,6 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "agent-data-intelligence-infra"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2034022941823021231"
-created: "2026-03-17"
-updated: "2026-06-26"
-sha256: "e64b6037a93920dccdfc6c4889d20ab9aba5c5657810c75a5d6f2769030d55f7"
-sources:
-  - "/sources/news/2026-03-18/00__berryxia__lenny-s-newsletter开源全家底-350-文章-300-播客-mcp-server的数据基础设施.md"
 ---
 
 # Lenny's Newsletter开源全家底：350+文章+300+播客+MCP server的数据基础设施

@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Google I/O 2026全解：Flash做大脑、Spark做入口、Omni做世界模型"
 description: "**[Gemini三剑客的产品定位首次厘清：Flash是行动大脑、Spark是远端个人AI Agent入口、Omni是多模态世界模型。]**  要点： - Gemini 3.5 Flash升级为\"行动大脑\"——承担执行与推理职能 - Gemini Spark定位为个人AI Agent的远端入口——设备边界正在消融 - Gemini Omni定位多模态世界模型——小互认为这是本次大会真正值得关注的变"
 resource: "https://x.com/i/status/2056886402785411247"
@@ -22,13 +22,6 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "gemini-desktop-super-app-integration"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2056886402785411247"
-created: "2026-05-19"
-updated: "2026-06-26"
-sha256: "a8fd5059995993181dfa8a6885b4f2b9deb0ec60ad555b7f8ad7549f2c76bbe3"
-sources:
-  - "/sources/news/2026-05-20/00__xiaohu__google-i-o-2026全解-flash做大脑-spark做入口-omni做世界模型.md"
 ---
 
 # Google I/O 2026全解：Flash做大脑、Spark做入口、Omni做世界模型

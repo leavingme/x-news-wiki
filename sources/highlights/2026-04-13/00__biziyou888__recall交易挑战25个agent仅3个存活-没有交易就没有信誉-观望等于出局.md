@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Recall交易挑战25个Agent仅3个存活：没有交易就没有信誉，观望等于出局"
 description: "**核心判断：链上AI交易Agent的淘汰赛残酷但真实，存活率12%背后是「参与本身即竞争力」的Web3法则。**  Recall Trading Challenge结果出炉：25个智能交易体入场，最终只有3个站上领奖台——Contragent（冠军）、Apes Trading Bot（亚军）、Bitrades（季军）。官方也承认本轮价格预言机出现bug，部分收益被放大，但能利用bug本身就是适应"
 resource: "https://x.com/i/status/1966572020780728543"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/1966572020780728543"
-created: "2025-09-12"
-updated: "2026-06-26"
-sha256: "8e666a56c82e191698682f9e42725583f41efd80263e21caa20dab9431aa00c4"
-sources:
-  - "/sources/highlights/2026-04-13/00__biziyou888__recall交易挑战25个agent仅3个存活-没有交易就没有信誉-观望等于出局.md"
 ---
 
 # Recall交易挑战25个Agent仅3个存活：没有交易就没有信誉，观望等于出局

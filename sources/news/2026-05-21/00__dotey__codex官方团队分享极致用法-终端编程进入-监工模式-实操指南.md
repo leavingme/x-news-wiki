@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Codex官方团队分享极致用法：终端编程进入「监工模式」实操指南"
 description: "**【一句话核心判断】** Codex 官方团队终于亲自下场教用法，终端编程的「监工模式」正在从极客玩具走向标准化工作流。  **信息增量：** - 官方背书的最佳实践具有权威性，意味着 OpenAI 已将 Codex CLI 定位为可规模化的编程基础设施而非实验性玩具 - 结合之前「手机端编程」演示视频，Codex 正在构建「本地为主、云端为辅」的分布式编程范式 - 这类官方指南的发布通常是大规"
 resource: "https://x.com/i/status/2057250417638035555"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2057250417638035555"
-created: "2026-05-21"
-updated: "2026-06-26"
-sha256: "f79ab1a55d4d9ceb3194425fc451db1f47ae1eff9c40a8fb8be4261e40aafc76"
-sources:
-  - "/sources/news/2026-05-21/00__dotey__codex官方团队分享极致用法-终端编程进入-监工模式-实操指南.md"
 ---
 
 # Codex官方团队分享极致用法：终端编程进入「监工模式」实操指南

@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "阿里巴巴 CoPaw 狂揽 21.8k Stars：多 Agent 实时语音协作框架的生产级验证"
 description: "**[ 生产级多 Agent 框架的 Star 破圈说明了什么 ]**  阿里巴巴开源的 CoPaw 框架在 GitHub 获得 21.8k Stars，核心差异在于：Agent 间可实时语音交流、更完善的可观测体系，以及对 MCP & A2A 协议的完整集成。  - 相比 OpenClaw，CoPaw 侧重 Agent 间高效对话与分工 - 支持人类在环控制，在复杂任务中实现精准干预 - 定位企"
 resource: "https://x.com/i/status/2038223825763225735"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2038223825763225735"
-created: "2026-03-29"
-updated: "2026-06-26"
-sha256: "37d4664f08c7955eb1f439ce08c000b5411eca1f4c618701ddb93e78e3afeb5b"
-sources:
-  - "/sources/news/2026-03-30/00__LufzzLiz__阿里巴巴-copaw-狂揽-21-8k-stars-多-agent-实时语音协作框架的生产级验证.md"
 ---
 
 # 阿里巴巴 CoPaw 狂揽 21.8k Stars：多 Agent 实时语音协作框架的生产级验证

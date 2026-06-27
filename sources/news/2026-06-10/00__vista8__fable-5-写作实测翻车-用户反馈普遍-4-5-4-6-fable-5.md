@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Fable 5 写作实测翻车：用户反馈普遍 4.5 > 4.6 > Fable 5"
 description: "**Fable 5 的能力跃迁集中在代码与工具调用场景，写作这种「风格型」任务反而回退。**  - 多个海外分享建议把最有雄心的项目交给 Fable 5 - 但在写作任务上，社区反馈趋于一致：Fable 5 < Claude 4.6 < 4.5 - 「卡神」（推测为 Karpathy）被引用推荐 4.5 - 向阳乔木自嘲「普通人又没挑战性项目」——Fable 5 的能力对一般用户难以感知   ga"
 resource: "https://x.com/i/status/2064714452705108352"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2064714452705108352"
-created: "2026-06-10"
-updated: "2026-06-26"
-sha256: "7f174e903901c8055df997a19b4d9a0cfb4e2d0836a803ecbb34e19ea2482aea"
-sources:
-  - "/sources/news/2026-06-10/00__vista8__fable-5-写作实测翻车-用户反馈普遍-4-5-4-6-fable-5.md"
 ---
 
 # Fable 5 写作实测翻车：用户反馈普遍 4.5 > 4.6 > Fable 5

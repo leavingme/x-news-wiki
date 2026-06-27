@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "OpenClaw 赢家图谱：一场让所有人「感觉赢了」的集体幻觉"
 description: "**[一句话核心判断]** OpenClaw 的爆火创造了一种罕见的「多赢」局面——硬件商、云厂商、API 提供商、黑客甚至普通用户都在狂欢，唯独没有人追问代码质量。  - 苹果 Mac Mini 销量、OpenAI 收编作者、云厂商一键部署服务形成完整利益链条 - 「养龙虾」成为普通人参与 AI 时代的低成本心理安慰剂 - 代码债被集体忽视，暗示这场运动可能是技术泡沫的又一次自我强化  gakk"
 resource: "https://x.com/i/status/2031755023034491192"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 88
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2031755023034491192"
-created: "2026-03-11"
-updated: "2026-06-26"
-sha256: "4d7a4116b300c30f5ee052adb16b2e5d9c37c6f87d1f2913dbe0f234a18b51b3"
-sources:
-  - "/sources/news/2026-03-12/88__rwayne__openclaw-赢家图谱-一场让所有人-感觉赢了-的集体幻觉.md"
 ---
 
 # OpenClaw 赢家图谱：一场让所有人「感觉赢了」的集体幻觉

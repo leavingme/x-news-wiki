@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Orange AI 的 PPT 可视化极简方案：直接嵌入 GPT Image 2 插图"
 description: "**绕过设计工具链的捷径思维**  - PPT 可视化不必单独做图再导入，GPT Image 2 插件可实现「在文档内生成」 - 这代表一种 Agent 时代的工具整合逻辑：减少中间步骤，直接在目标载体上生成  gakki 锐评：实用建议，但太轻了——没有对比（和 Midjourney/Canva 比效率如何？），没有边界（什么场景不适合？）。"
 resource: "https://x.com/i/status/2052497005277294694"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2052497005277294694"
-created: "2026-05-07"
-updated: "2026-06-26"
-sha256: "0bf984b241c157a1a664936bc6941076b038f6eacf1d2c53c07b558c995ac855"
-sources:
-  - "/sources/news/2026-05-07/00__oran_ge__orange-ai-的-ppt-可视化极简方案-直接嵌入-gpt-image-2-插图.md"
 ---
 
 # Orange AI 的 PPT 可视化极简方案：直接嵌入 GPT Image 2 插图

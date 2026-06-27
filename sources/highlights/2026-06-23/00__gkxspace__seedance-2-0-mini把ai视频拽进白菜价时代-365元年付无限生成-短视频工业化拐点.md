@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Seedance 2.0 Mini把AI视频拽进白菜价时代：365元年付无限生成，短视频工业化拐点"
 description: "Seedance 2.0 Mini 上线 TopviewAI，年付 365 天无限生成 + Credit 模式 $0.05/秒；定位「日常够用+速度翻倍」，把原本按秒计费的字节顶配视频模型变成可批量生产工具。 - 365天无限 + $0.05/秒双档定价，把「AI视频=奢侈品」打成「AI视频=水电」 - 短视频/广告/产品展示场景正式进入「不计成本」生产时代 - TopviewAI作为渠道商，比官"
 resource: "https://x.com/i/status/2069264066992918732"
@@ -22,13 +22,6 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "ai-short-drama-industrialization"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2069264066992918732"
-created: "2026-06-23"
-updated: "2026-06-26"
-sha256: "5f72f1571280e30a11ce405de28a1c9f1f4060c752a6ef3720a496c3f805ad5d"
-sources:
-  - "/sources/highlights/2026-06-23/00__gkxspace__seedance-2-0-mini把ai视频拽进白菜价时代-365元年付无限生成-短视频工业化拐点.md"
 ---
 
 # Seedance 2.0 Mini把AI视频拽进白菜价时代：365元年付无限生成，短视频工业化拐点

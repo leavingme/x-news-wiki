@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Glaze 验证零代码 Mac 应用 10 分钟可行：开发+日志+上架一站打通"
 description: "向阳乔木实测：10 分钟、一句话需求、debug 一次，跑通一个基于 Spotify Web SDK 的音乐电台 App，且能上架。  — Glaze 把开发、日志、上架打包到同一上下文，工程链零割裂 — 验证自然语言→小工具 App 的端到端闭环（不只是 demo，能上架） — 1-2 天的工具 App 工作量被压到分钟级，独立开发者护城河被改写 — 与 Cursor / Claude Code"
 resource: "https://x.com/i/status/2063446762174681252"
@@ -22,13 +22,6 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "no-code-agent-entry"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2063446762174681252"
-created: "2026-06-07"
-updated: "2026-06-26"
-sha256: "933946ff6707f0edf5f751140a497be12f9d8ab2aec9b7c8476281a26086cc84"
-sources:
-  - "/sources/highlights/2026-06-07/00__vista8__glaze-验证零代码-mac-应用-10-分钟可行-开发-日志-上架一站打通.md"
 ---
 
 # Glaze 验证零代码 Mac 应用 10 分钟可行：开发+日志+上架一站打通

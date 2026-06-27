@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Cloudflare 正式赋予 Agent「客户身份」：注册账号、订阅付费、部署代码，Agent 经济自主权的关键基建缺口被填补"
 description: "**Agent 首次获得独立的基础设施客户身份，这是 Agent 经济自主权从概念走向工程落地的标志性一步。**  - Cloudflare 宣布 Agent 可以自主创建账号、发起付费订阅、注册域名并获取 API Token 部署代码，无需人类代持 - 这意味着 Agent 不再是「借用人身份的脚本」，而是拥有独立账户生命周期的实体 - 对 Agent 经济生态而言，基础设施层的身份独立是支付独"
 resource: "https://x.com/Cloudflare/status/2049545195914498139"
@@ -22,13 +22,6 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "agent-economic-autonomy"
 x_source: "ai-trend-digest"
-type_okf: "X Tweet"
-source_url: "https://x.com/Cloudflare/status/2049545195914498139"
-created: "2026-04-29"
-updated: "2026-06-26"
-sha256: "31f5ab55e3032b9ace7dcbb87127c346c7aaec980eff7adcbe13de449e5b92ce"
-sources:
-  - "/sources/highlights/2026-04-29/00__Cloudflare__cloudflare-正式赋予-agent-客户身份-注册账号-订阅付费-部署代码-agent-经济自主权的关键基建缺口.md"
 ---
 
 # Cloudflare 正式赋予 Agent「客户身份」：注册账号、订阅付费、部署代码，Agent 经济自主权的关键基建缺口被填补

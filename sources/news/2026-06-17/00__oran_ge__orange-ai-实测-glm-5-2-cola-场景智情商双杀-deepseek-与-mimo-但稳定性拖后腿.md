@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Orange AI 实测 GLM-5.2：CoLa 场景智情商双杀 DeepSeek 与 MiMo,但稳定性拖后腿"
 description: "**国产 Coding 模型进入'高智商低稳定'阶段,能力追平、速度成新瓶颈**  - Orange AI 用户实测反馈:GLM-5.2 在 CoLa 场景下效果明显优于 deepseek 和 mimo - 评价'智商高、情商也高',被定位为'国产模型新高度' - 明确指出短板:稳定性差、生成速度很慢,生产可用性距离 Claude Code 仍有差距   卡兹克已立 GLM-5.2 新标杆的判断需"
 resource: "https://x.com/i/status/2067157225454645592"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2067157225454645592"
-created: "2026-06-17"
-updated: "2026-06-26"
-sha256: "7600df913f0ac0b9046555268a1c3fec2507a5fb17b1fc9d83827b1d24b6381f"
-sources:
-  - "/sources/news/2026-06-17/00__oran_ge__orange-ai-实测-glm-5-2-cola-场景智情商双杀-deepseek-与-mimo-但稳定性拖后腿.md"
 ---
 
 # Orange AI 实测 GLM-5.2：CoLa 场景智情商双杀 DeepSeek 与 MiMo,但稳定性拖后腿

@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "AI视频生成进入「动作可控」阶段：首帧+尾帧=姿势控制"
 description: "**[AI视频生成从随机到可控的结构性升级]**  Flowith 展示了一套新的 AI 视频生成控制范式：先用 GPT Image 2 生成首帧与尾帧（对应瑜伽动作的起止姿势），再将两帧喂入可灵视频模型，直接输出连贯视频序列。核心逻辑是「用图像生成模型解决视频控制问题」——不依赖骨骼绑定等复杂标注，只靠视觉起点终点就能约束动作轨迹。  **信息增量：** - 这是图像生成能力向视频领域的「能力迁"
 resource: "https://x.com/i/status/2049329950495310198"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2049329950495310198"
-created: "2026-04-29"
-updated: "2026-06-26"
-sha256: "c3c33f5bc1ecc06ebf7adb69176d857ac4027a13679d003a833d36e4ac9c1ea0"
-sources:
-  - "/sources/news/2026-04-29/00__lxfater__ai视频生成进入-动作可控-阶段-首帧-尾帧-姿势控制.md"
 ---
 
 # AI视频生成进入「动作可控」阶段：首帧+尾帧=姿势控制

@@ -1,23 +1,17 @@
 ---
-type: "entity"
+type: "Author"
 title: "云中月 (@MoonAtCloud)"
 description: "X/Twitter 作者 @MoonAtCloud。共收录 1 条 AI 精选推文。"
 tags:
   - "x-news"
   - "author"
   - "author:MoonAtCloud"
-timestamp: "2026-06-26T11:53:37.001Z"
+timestamp: "2026-06-27T08:40:40.217Z"
 x_handle: "MoonAtCloud"
 x_author_name: "云中月"
 x_tweet_count: 1
 x_first_seen: "2026-06-24T22:28:04.109Z"
 x_last_seen: "2026-06-24T22:28:04.109Z"
-type_okf: "Author"
-created: "2026-06-24"
-updated: "2026-06-26"
-sha256: "355d5612a57a556ff90fd23f51c5aefe4b2f35d73039866ee9af895ba8930b44"
-sources:
-  - "/sources/news/2026-06-24/00__MoonAtCloud__云中月视角-汉字百年-降维-与-ai-视觉理解带来的-归位-机遇.md"
 ---
 
 # 云中月 (@MoonAtCloud)

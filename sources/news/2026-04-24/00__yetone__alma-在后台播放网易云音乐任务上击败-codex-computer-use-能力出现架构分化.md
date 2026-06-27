@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Alma 在后台播放网易云音乐任务上击败 Codex：computer use 能力出现架构分化"
 description: "**Computer use 赛道出现实用场景分野**  - yetone 实测：Alma 的 computer use 在「后台自动播放网易云音乐」任务上胜过 Codex - 这不是通用 benchmark，而是具体任务场景下的胜负——意味着不同 Agent 对「后台任务」「多步骤操作」的处理逻辑存在架构级差异 - Codex 此前被视作 computer use 标杆，这个测试撕开了一个口子："
 resource: "https://x.com/i/status/2047422413634404676"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2047422413634404676"
-created: "2026-04-23"
-updated: "2026-06-26"
-sha256: "8420b0178b2396144ba7454a8d8f338bc3d823b5e002a8b0437ac1d8e5b19a87"
-sources:
-  - "/sources/news/2026-04-24/00__yetone__alma-在后台播放网易云音乐任务上击败-codex-computer-use-能力出现架构分化.md"
 ---
 
 # Alma 在后台播放网易云音乐任务上击败 Codex：computer use 能力出现架构分化

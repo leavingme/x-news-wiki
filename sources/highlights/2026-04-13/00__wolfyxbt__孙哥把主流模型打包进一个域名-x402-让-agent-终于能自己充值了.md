@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "孙哥把主流模型打包进一个域名，x402 让 Agent 终于能自己充值了"
 description: "**[x402 + ERC-8004 打通信用卡到链上支付的最后一公里，Agent自充值从概念进入可操作阶段]**  孙宇晨将 MiniMax、Kimi、GLM、GPT、Claude、Gemini 等主流模型整合进统一平台，接入 x402 和 ERC-8004 协议，用户可直接用钱包登录并用 Crypto 充值。关键变化：x402 让 Agent 可以自主发起支付、自主调用模型——即 Agent "
 resource: "https://x.com/i/status/2043322784642982277"
@@ -22,13 +22,6 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "ai-agent-crypto-infra"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2043322784642982277"
-created: "2026-04-12"
-updated: "2026-06-26"
-sha256: "58c31e5c11d7e365147db9876f97f8387982b11ea0a65e96f261f0fba9af87be"
-sources:
-  - "/sources/highlights/2026-04-13/00__wolfyxbt__孙哥把主流模型打包进一个域名-x402-让-agent-终于能自己充值了.md"
 ---
 
 # 孙哥把主流模型打包进一个域名，x402 让 Agent 终于能自己充值了

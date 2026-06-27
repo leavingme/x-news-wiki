@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Telegram 大版本更新：10+ 重大功能，Agent 生态基础设施悄然加固"
 description: "**Telegram 这次更新的核心信号不是功能本身，而是平台层持续为 Agent 生态铺路。**  - 10+ 重大功能、200+ 改进，Durov 亲自下场宣传，规格不低 - Telegram 已是多款 AI Agent 的主要分发渠道（Bot API、Mini App） - 平台能力每提升一次，Agent 的触达半径就扩大一轮  gakki 锐评：Telegram 正在成为 Agent 生态"
 resource: "https://x.com/durov/status/2052418565425275380"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "ai-trend-digest"
-type_okf: "X Tweet"
-source_url: "https://x.com/durov/status/2052418565425275380"
-created: "2026-05-07"
-updated: "2026-06-26"
-sha256: "b5466f7481f96a20db4dc15344cce2526db5c9e72264173b1d566e2867fe94a7"
-sources:
-  - "/sources/news/2026-05-08/00__durov__telegram-大版本更新-10-重大功能-agent-生态基础设施悄然加固.md"
 ---
 
 # Telegram 大版本更新：10+ 重大功能，Agent 生态基础设施悄然加固

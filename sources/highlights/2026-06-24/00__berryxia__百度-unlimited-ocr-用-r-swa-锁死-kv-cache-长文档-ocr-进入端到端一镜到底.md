@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "百度 Unlimited-OCR 用 R-SWA 锁死 KV Cache：长文档 OCR 进入端到端一镜到底"
 description: "**百度 Unlimited-OCR 重新定义长文档解析：R-SWA 让 KV Cache 常驻恒定，几百页文档真正一镜到底。**  - R-SWA（Reference Sliding Window Attention）让解码时 KV Cache 不再随页数膨胀，从根上解决长文档爆显存 - OmniDocBench 拿到 93 分，比 DeepSeek-OCR 高出 6 个百分点 - 工作流从「分"
 resource: "https://x.com/i/status/2069094144153464907"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2069094144153464907"
-created: "2026-06-22"
-updated: "2026-06-26"
-sha256: "0db154be71c2acf7164a3024400d41092d904f0346dcdfcdc9e8bf1ff1b5120c"
-sources:
-  - "/sources/highlights/2026-06-24/00__berryxia__百度-unlimited-ocr-用-r-swa-锁死-kv-cache-长文档-ocr-进入端到端一镜到底.md"
 ---
 
 # 百度 Unlimited-OCR 用 R-SWA 锁死 KV Cache：长文档 OCR 进入端到端一镜到底

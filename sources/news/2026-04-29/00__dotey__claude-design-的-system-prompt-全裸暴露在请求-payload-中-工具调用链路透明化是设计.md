@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Claude Design 的 System Prompt 全裸暴露在请求 Payload 中：工具调用链路透明化是设计缺陷还是有意开放"
 description: "**Claude Design 的完整 System Prompt 和工具调用定义直接暴露在 API Payload 中，逆向成本趋近于零。**  - 宝玉实测发现，Claude Design 的 System Prompt、调用工具列表等全部信息均可从请求 Payload 中直接读取 - 这意味着任何具备抓包能力的开发者都可以完整复现 Claude Design 的工作方式 - 对比 Claud"
 resource: "https://x.com/i/status/2049586049907667168"
@@ -22,13 +22,6 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "claude-code-source-leak"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2049586049907667168"
-created: "2026-04-29"
-updated: "2026-06-26"
-sha256: "e3631c21fdfbd0a95e222cce74be7e2a638b015eb54896585775fa02e8060dc9"
-sources:
-  - "/sources/news/2026-04-29/00__dotey__claude-design-的-system-prompt-全裸暴露在请求-payload-中-工具调用链路透明化是设计.md"
 ---
 
 # Claude Design 的 System Prompt 全裸暴露在请求 Payload 中：工具调用链路透明化是设计缺陷还是有意开放

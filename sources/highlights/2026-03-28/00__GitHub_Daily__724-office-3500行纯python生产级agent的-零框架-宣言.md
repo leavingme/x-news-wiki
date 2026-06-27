@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "724-office：3500行纯Python生产级Agent的「零框架」宣言"
 description: "**【极简主义Agent工程范式验证】** • 零框架依赖，仅用标准库+3个小包实现24/7运行 • 26个工具、8个文件、三层记忆机制+MCP协议支持 • 证明：生产级Agent不需要「框架堆砌」，需要「工程纪律」  gakki 锐评：当所有人都在争论MCP vs CLI时，有人用3500行代码证明了「less is more」——这是给过度工程化的行业一记耳光。"
 resource: "https://x.com/i/status/2035589854835421565"
@@ -22,13 +22,6 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "agent-minimalist-implementation"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2035589854835421565"
-created: "2026-03-22"
-updated: "2026-06-26"
-sha256: "d39a54157d3a989729895b6297e708ed4a1bbce0c1c636bb244ed4292a6d5780"
-sources:
-  - "/sources/highlights/2026-03-28/00__GitHub_Daily__724-office-3500行纯python生产级agent的-零框架-宣言.md"
 ---
 
 # 724-office：3500行纯Python生产级Agent的「零框架」宣言

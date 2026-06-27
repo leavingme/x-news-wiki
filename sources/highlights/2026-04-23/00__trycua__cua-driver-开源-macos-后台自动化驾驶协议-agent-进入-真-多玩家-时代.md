@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Cua Driver 开源：macOS 后台自动化驾驶协议，Agent 进入「真·多玩家」时代"
 description: "**一句话核心判断：Cua Driver 以开源姿态填补了 macOS 平台缺乏统一 Agent 驾驶协议的空白，多玩家多光标并发控制使 App 操控从脚本玩具升级为企业级基础设施。**  - 支持任意 Agent（Claude Code、Codex 或自研 loop）在任意 App 后台运行，真正实现 macOS 系统级 Agent 操控 - 内置多玩家（multi-player）和多光标（mu"
 resource: "https://x.com/trycua/status/2047383200348221632"
@@ -22,13 +22,6 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "sub-agents-multi-expert"
 x_source: "ai-trend-digest"
-type_okf: "X Tweet"
-source_url: "https://x.com/trycua/status/2047383200348221632"
-created: "2026-04-23"
-updated: "2026-06-26"
-sha256: "28f09fd8a13dd3baa82c9fe86762bb241c3175cf21e95fd02a57d037c341db96"
-sources:
-  - "/sources/highlights/2026-04-23/00__trycua__cua-driver-开源-macos-后台自动化驾驶协议-agent-进入-真-多玩家-时代.md"
 ---
 
 # Cua Driver 开源：macOS 后台自动化驾驶协议，Agent 进入「真·多玩家」时代

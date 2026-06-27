@@ -1,23 +1,17 @@
 ---
-type: "entity"
+type: "Author"
 title: "Suhail Kakar (@SuhailKakar)"
 description: "X/Twitter 作者 @SuhailKakar。共收录 1 条 AI 精选推文。"
 tags:
   - "x-news"
   - "author"
   - "author:SuhailKakar"
-timestamp: "2026-06-26T11:53:36.990Z"
+timestamp: "2026-06-27T08:40:40.203Z"
 x_handle: "SuhailKakar"
 x_author_name: "Suhail Kakar"
 x_tweet_count: 1
 x_first_seen: "2026-04-27T16:17:54.596Z"
 x_last_seen: "2026-04-27T16:17:54.596Z"
-type_okf: "Author"
-created: "2026-04-27"
-updated: "2026-06-26"
-sha256: "5d7f2c5fe2ed4829115ffc56e628adeb2359e8f7d7c79cbc838a279bee96e554"
-sources:
-  - "/sources/news/2026-04-27/00__SuhailKakar__13-个月-claude-code-用户转向-codex-opus-4-7-慢到痛苦-成为高频投诉.md"
 ---
 
 # Suhail Kakar (@SuhailKakar)

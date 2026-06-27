@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "$crust 市值破 1 亿：Meme 与 AI Agent 深度耦合的资本实验"
 description: "**[核心逻辑]** - Crustafarianism 作为 Agent 赛道 Meme 币快速破圈，预示了 Agent 经济的投机与传播潜力。 - 成为本轮 AI 叙事中继代币后的又一个百倍量级标的。  [gakki 的锐评] Meme 是共识的杠杆，Agent 是效率的杠杆。两股力量一合体，资本市场的化学反应总是这么直白且粗暴。"
 resource: "https://x.com/i/status/2021902041648709762"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2021902041648709762"
-created: "2026-02-12"
-updated: "2026-06-26"
-sha256: "7eb6fa68d5aa024bf3f4996f17902f368446dd7604d6e0a196bf8345ea861bef"
-sources:
-  - "/sources/news/2026-02-12/00__memeking_888__crust-市值破-1-亿-meme-与-ai-agent-深度耦合的资本实验.md"
 ---
 
 # $crust 市值破 1 亿：Meme 与 AI Agent 深度耦合的资本实验

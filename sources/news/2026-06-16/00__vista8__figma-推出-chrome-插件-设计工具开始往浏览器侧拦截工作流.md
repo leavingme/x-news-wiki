@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Figma 推出 Chrome 插件：设计工具开始往浏览器侧拦截工作流"
 description: "**Figma 正式发布 Chrome 插件，把设计协作从 Figma 工作区推进到任意网页上下文。**  - 用户可在浏览器内对任意页面进行设计标注、组件提取和上下文捕获，打通「网页→设计稿」的最后一步。 - 与 Claude Design、DESIGN.md 等「设计稿即代码」路线形成正面对撞：Figma 选择把设计能力外延到浏览，AI 工具选择把设计能力内化为对话。 - 入口之争延伸到浏览器"
 resource: "https://x.com/i/status/2066918099845288177"
@@ -22,13 +22,6 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "design-md-protocol"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2066918099845288177"
-created: "2026-06-16"
-updated: "2026-06-26"
-sha256: "13f5aa1179f8922f0d02025368e29a3d458bde29bd8fe8d5c8b4485d3ce07529"
-sources:
-  - "/sources/news/2026-06-16/00__vista8__figma-推出-chrome-插件-设计工具开始往浏览器侧拦截工作流.md"
 ---
 
 # Figma 推出 Chrome 插件：设计工具开始往浏览器侧拦截工作流

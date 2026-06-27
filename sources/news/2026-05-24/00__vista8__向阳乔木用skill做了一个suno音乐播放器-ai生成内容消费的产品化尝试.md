@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "向阳乔木用Skill做了一个Suno音乐播放器：AI生成内容消费的产品化尝试"
 description: "**[AI生成内容的消费场景正在从工具向播放器形态迁移]**  用 Skill 下载音乐上传，后台管理还不完善，但产品形态本身值得关注：AI 生成内容的消费闭环——生成→管理→分享——正在被 indie maker 们产品化探索。开源地址已公开，这是个可跟进的实验。  gakki：生成式 AI 的商业模式最终还是要回到「谁来消费、怎么消费」这个问题上，这个播放器的思路比单纯晒生成结果更接近答案。"
 resource: "https://x.com/i/status/2058542951488487811"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2058542951488487811"
-created: "2026-05-24"
-updated: "2026-06-26"
-sha256: "1743a7ea1b7b0eb054186440c30029e5ab9498d638d1fe239be9e8f92461ba66"
-sources:
-  - "/sources/news/2026-05-24/00__vista8__向阳乔木用skill做了一个suno音乐播放器-ai生成内容消费的产品化尝试.md"
 ---
 
 # 向阳乔木用Skill做了一个Suno音乐播放器：AI生成内容消费的产品化尝试

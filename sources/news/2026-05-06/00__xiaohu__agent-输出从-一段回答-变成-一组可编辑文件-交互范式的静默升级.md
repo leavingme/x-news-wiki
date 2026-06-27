@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Agent 输出从「一段回答」变成「一组可编辑文件」：交互范式的静默升级"
 description: "**Agent 的产出形态正在从即时文本转向结构化资产。**  - QClaw 的产出不是一段回答，而是一组可继续编辑的文件：X 线程文案、产品动态文档、封面提示词、发布前检查清单 - 这意味着 Agent 不再是「问答机器」，而是「工作交付单元」——输出本身就是可复用的工作流产物 - 对内容生产、代码工程、文档协作等场景都有范式意义  gakki 锐评：文件化输出是 Agent 从「聊天」走向「"
 resource: "https://x.com/i/status/2052016264739172588"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2052016264739172588"
-created: "2026-05-06"
-updated: "2026-06-26"
-sha256: "a527188b03e78c8507a19ef327e6e70d081751d879a6aeed93703fba5d8a9d28"
-sources:
-  - "/sources/news/2026-05-06/00__xiaohu__agent-输出从-一段回答-变成-一组可编辑文件-交互范式的静默升级.md"
 ---
 
 # Agent 输出从「一段回答」变成「一组可编辑文件」：交互范式的静默升级

@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "宝玉科普：Claude Design 早支持 CLAUDE.md，多数设计师还没用上"
 description: "**Claude Design 的 CLAUDE.md 能力被严重低估，宝玉呼吁把它当作「上下文资产」用起来。**  - 设计师可通过左侧聊天窗口初始化 CLAUDE.md，把反复叮嘱的工程约束（命名规范、组件偏好、UX 约定）固化下来 - 工作流与 Claude Code 完全一致：CLAUDE.md 作为持久记忆层跨产品复用 - 价值：约束一次书写、多轮会话复用，避免每次重新对齐   gakk"
 resource: "https://x.com/i/status/2064876738161651846"
@@ -22,13 +22,6 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "claude-design-disruption"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2064876738161651846"
-created: "2026-06-11"
-updated: "2026-06-26"
-sha256: "3cff83a965c6a6e6955bbac0c3a94fb51547f7bb3a3abd9179a709c2a188b8ac"
-sources:
-  - "/sources/highlights/2026-06-11/00__dotey__宝玉科普-claude-design-早支持-claude-md-多数设计师还没用上.md"
 ---
 
 # 宝玉科普：Claude Design 早支持 CLAUDE.md，多数设计师还没用上

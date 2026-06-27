@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Astral CEO Charlie Marsh 抛出反共识：「发点 regression 才健康」"
 description: "**顶流 DevTools 创始人公开为「带 bug 上线」正名。**  uv/ruff/ty 背后的 Charlie Marsh 在 X 上直言：Shipping some number of regressions is healthy——交付一定量回归是健康的工程节奏。  这是对当前「零 regression 才算合格」主流工程文化的公开挑战，从顶级工具链实践者嘴里说出来，分量不轻。   g"
 resource: "https://x.com/i/status/2070141614089969755"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2070141614089969755"
-created: "2026-06-25"
-updated: "2026-06-26"
-sha256: "ea68473a9730ab6b50e6018c6e85622d9490046d01b747f91d953fc5c2ea0e68"
-sources:
-  - "/sources/news/2026-06-25/00__charliermarsh__astral-ceo-charlie-marsh-抛出反共识-发点-regression-才健康.md"
 ---
 
 # Astral CEO Charlie Marsh 抛出反共识：「发点 regression 才健康」

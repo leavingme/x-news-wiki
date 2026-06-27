@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "苹果全系涨价最高 20%：iPad Pro 破万、MBP 涨 2500，硬件溢价在 Apple Intelligence 时代被进一步锁定"
 description: "**苹果中国全产品线涨价，iPad Pro 涨幅 20%、MacBook Pro 涨幅 18.5%，硬件作为 AI 入口的护城河被进一步抬高。**  - iPad 11 起售 ¥3799（+800），iPad Pro ¥10799（+1800），Mac Mini ¥5999（+1500） - MacBook Air 逼近万元关口，MacBook Pro 顶配突破 1.6 万 - 与 Apple I"
 resource: "https://x.com/i/status/2070139320674230601"
@@ -22,13 +22,6 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "apple-platform-ai-tax"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2070139320674230601"
-created: "2026-06-25"
-updated: "2026-06-26"
-sha256: "acfd3c6203ff0abd907b6403b4ac65e54304f6b8a7679bb0acd3efc9e84a5b70"
-sources:
-  - "/sources/highlights/2026-06-25/00__xiaohu__苹果全系涨价最高-20-ipad-pro-破万-mbp-涨-2500-硬件溢价在-apple-intelligence-.md"
 ---
 
 # 苹果全系涨价最高 20%：iPad Pro 破万、MBP 涨 2500，硬件溢价在 Apple Intelligence 时代被进一步锁定

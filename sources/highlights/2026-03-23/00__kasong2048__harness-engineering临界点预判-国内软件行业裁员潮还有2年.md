@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Harness Engineering临界点预判：国内软件行业裁员潮还有2年"
 description: "**[范式迁移进入倒计时]** 卡颂提出AI Coding三次范式变迁论：从AI辅助编程→Vibe Coding→Harness Engineering。当前国外已进入第三阶段——程序员不写代码，只设计可观测、可评估、可回退的编码环境。  • 国内主流仍停留在第二阶段，大规模应用滞后国外约2年 • Harness Engineering核心逻辑：AI写出bug时，优先修复环境而非指导AI • 可观"
 resource: "https://x.com/i/status/2035717036811432437"
@@ -22,13 +22,6 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "harness-engineering"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2035717036811432437"
-created: "2026-03-22"
-updated: "2026-06-26"
-sha256: "7127a5effeb40fa9274ba36914373c93c31fed5bacfb904cebd09cc11ea22640"
-sources:
-  - "/sources/highlights/2026-03-23/00__kasong2048__harness-engineering临界点预判-国内软件行业裁员潮还有2年.md"
 ---
 
 # Harness Engineering临界点预判：国内软件行业裁员潮还有2年

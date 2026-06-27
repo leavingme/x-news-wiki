@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Claude Code 插件生态起步：Skill Creator 成为「造 Skill 的 Skill」元能力"
 description: "**[Claude Code 进入「插件化」扩展阶段]** - Skill Creator 作为元插件，实现「描述→生成→测试→迭代」的 Skill 自动化生产 - Figma 等工具接入，说明 Claude Code 正向「设计-开发一体化」渗透 - 插件生态是 Claude Code 从「个人效率工具」向「团队协作基础设施」跃迁的关键信号  当 Claude Code 长出插件系统，它就不再是"
 resource: "https://x.com/i/status/2031020919095693645"
@@ -22,13 +22,6 @@ x_selected: 2
 x_priority: 82
 x_related_topic: "claude-code-ecosystem"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2031020919095693645"
-created: "2026-03-09"
-updated: "2026-06-26"
-sha256: "f07fe0502d87b4481842e5f4bc7c56a8d8d2c419373c72e323f71503b60a98d8"
-sources:
-  - "/sources/highlights/2026-03-10/82__101babich__claude-code-插件生态起步-skill-creator-成为-造-skill-的-skill-元能力.md"
 ---
 
 # Claude Code 插件生态起步：Skill Creator 成为「造 Skill 的 Skill」元能力

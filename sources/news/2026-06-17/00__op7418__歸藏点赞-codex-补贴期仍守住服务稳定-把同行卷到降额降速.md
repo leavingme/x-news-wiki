@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "歸藏点赞：Codex 补贴期仍守住服务稳定，把同行卷到降额降速"
 description: "**在重补贴 + 用户暴涨的同时仍维持稳定服务,Codex 正在用'工程纪律'拉开身位。** - 歸藏观察:Codex 即使在用户高速增长阶段,依然能保持稳定且快速的服务响应 - 对比鲜明:同期其他厂商普遍出现服务降速或额度下调,体验差距被用户侧放大 - 暗合主线:与宝玉定调的'模型能力才是王道'形成互证——Codex 的稳定性优势不能全甩给 Harness  服务稳定性是 Agent 工具的隐形"
 resource: "https://x.com/i/status/2067082963905651064"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2067082963905651064"
-created: "2026-06-17"
-updated: "2026-06-26"
-sha256: "ff87d73722d2989a2af49749e4f05da73da1eefbbb1f43e46c0b1b370fc89d87"
-sources:
-  - "/sources/news/2026-06-17/00__op7418__歸藏点赞-codex-补贴期仍守住服务稳定-把同行卷到降额降速.md"
 ---
 
 # 歸藏点赞：Codex 补贴期仍守住服务稳定，把同行卷到降额降速

@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "阶跃星辰 Step Plan 实测：ASR+LLM+TTS 全链路打通的体验红利正在兑现"
 description: "**阶跃星辰 Step Plan 以 ASR+LLM+TTS 全链路套餐形式交付，实测将多件「以前嫌麻烦不会去 LLM 化的小事」自动化。**  - 具体场景：英文录音→带时间戳中文笔记（54秒）、长文→双人对谈 mp3、独白→7种情绪 TTS 演绎 - 速度达 100-300 tok/s，额度充足，表明推理成本控制已到可交付水位 - 组合定价策略规避单模态订阅的性价比焦虑，是 AI 产品定价的进"
 resource: "https://x.com/i/status/2055985118125162604"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2055985118125162604"
-created: "2026-05-17"
-updated: "2026-06-26"
-sha256: "70a9c76ffb2182a70602daa93032e5fd35f50fb74275558f0a86fa97f408473b"
-sources:
-  - "/sources/news/2026-05-17/00__gkxspace__阶跃星辰-step-plan-实测-asr-llm-tts-全链路打通的体验红利正在兑现.md"
 ---
 
 # 阶跃星辰 Step Plan 实测：ASR+LLM+TTS 全链路打通的体验红利正在兑现

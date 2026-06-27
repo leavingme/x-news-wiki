@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "宝玉：AI时代 PRD写法重构——文本先于线框图，分三轮迭代才是稳态"
 description: "**[一句话核心判断]**宝玉给出一套「手写 PRD → AI 生成线框图 → 反推终版 PRD」的 AI协作流程，把 PRD 当成版本管理对象、线框图当成交互验证工具。  **要点：** - 第一步：手写 PRD，不求格式，想到哪写到哪，配合 Chat/Cowork自由发挥 - 第二步：基于 PRD 生成线框图原型，反复调整直到布局和交互满意 - 第三步：让 AI 根据确认的线框图 + 原 PR"
 resource: "https://x.com/i/status/2064862863898882059"
@@ -22,13 +22,6 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "claude-design-tool"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2064862863898882059"
-created: "2026-06-11"
-updated: "2026-06-26"
-sha256: "9432261333a9257edb8d488c424d7110ea1f53b73a972d59e7db97229d25394f"
-sources:
-  - "/sources/news/2026-06-11/00__dotey__宝玉-ai时代-prd写法重构-文本先于线框图-分三轮迭代才是稳态.md"
 ---
 
 # 宝玉：AI时代 PRD写法重构——文本先于线框图，分三轮迭代才是稳态

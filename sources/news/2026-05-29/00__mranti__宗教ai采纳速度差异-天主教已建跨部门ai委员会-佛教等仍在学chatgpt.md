@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "宗教AI采纳速度差异：天主教已建跨部门AI委员会，佛教等仍在学ChatGPT"
 description: "**一线判断：宗教机构对 AI 的反应速度，本身就是一个社会采纳切片。**  Michael Anti 观察到，天主教已连续发布《伟大人性》通谕和《教廷训令》，并建立跨部门 AI 委员会；而佛教、基督新教、伊斯兰教、道教等似乎还处于学习基础工具的阶段。  这个观察的价值不在于宗教本身，而在于它揭示了一个规律：反应速度与机构决策机制相关——中央集权体制在 AI 响应上未必落后，分散体系未必领先。  "
 resource: "https://x.com/i/status/2060188557671858554"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2060188557671858554"
-created: "2026-05-29"
-updated: "2026-06-26"
-sha256: "e1d2ae1e45a5c3c9e47e634fdfa688d701f84ca0895a75e543785a0e43b2e04e"
-sources:
-  - "/sources/news/2026-05-29/00__mranti__宗教ai采纳速度差异-天主教已建跨部门ai委员会-佛教等仍在学chatgpt.md"
 ---
 
 # 宗教AI采纳速度差异：天主教已建跨部门AI委员会，佛教等仍在学ChatGPT

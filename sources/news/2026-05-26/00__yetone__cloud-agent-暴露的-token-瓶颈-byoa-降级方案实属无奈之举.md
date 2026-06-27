@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Cloud Agent 暴露的 token 瓶颈：BYOA 降级方案实属无奈之举"
 description: "**一句话核心判断：** Cloud Agent 因 token 耗尽被迫推出降级版 BYOA，暴露出 AI Agent 产品在 token 成本与稳定性之间的永恒张力。  **信息增量：** - Cloud Agent 稳定性优于当前 BYOA，但 token 资源耗尽导致被迫切换 - yetone 坦诚承认 BYOA 是「临时实现」，说明商业化 AI 产品仍在资源约束下走钢丝 - 隐含信号：中"
 resource: "https://x.com/i/status/2059284663995396340"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2059284663995396340"
-created: "2026-05-26"
-updated: "2026-06-26"
-sha256: "0d8c541bcb54260f1335eb9710e7bb91d6443c6b5ee6316b1a1536440daab36d"
-sources:
-  - "/sources/news/2026-05-26/00__yetone__cloud-agent-暴露的-token-瓶颈-byoa-降级方案实属无奈之举.md"
 ---
 
 # Cloud Agent 暴露的 token 瓶颈：BYOA 降级方案实属无奈之举

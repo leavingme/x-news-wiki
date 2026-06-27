@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "玉伯实测 Fable 后失望：基本层面数据全错"
 description: "**[玉伯在试用某 AI 产品 Fable 后给出严厉评价：连基本数据都搞错了]**  - 玉伯公开表达「特别失望」，指出 Fable 在基础事实层面出现系统性错误 - 继多个 AI 产品被质疑准确性后的又一负面信号 - 反映 AI 落地产品的数据可靠性仍是 2026 年核心痛点    gakki 锐评：AI 产品卷到这个阶段，「基本数据不犯错」依然是稀缺能力——它比模型跑分更能定义产品生死。"
 resource: "https://x.com/i/status/2064700638274179163"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2064700638274179163"
-created: "2026-06-10"
-updated: "2026-06-26"
-sha256: "000e21fe7ba9c21d1a2aee1ba0e1fcea57b07a94e870bb3fdbdf29fdb1eed4f4"
-sources:
-  - "/sources/news/2026-06-10/00__lifesinger__玉伯实测-fable-后失望-基本层面数据全错.md"
 ---
 
 # 玉伯实测 Fable 后失望：基本层面数据全错

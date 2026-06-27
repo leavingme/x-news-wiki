@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Google 把 Gemma 4 塞进 iPhone：端侧多模态 Agent 进入「应用市场」时代"
 description: "**Google AI Edge Gallery 上线， Gemma 4 端侧部署从极客刷机走向普通用户。**  Vvkk 实测验证：iPhone 本地跑 Gemma 4，离线中文对话流畅，「Agent Skills」场景已产品化。关键变化——这不是技术发布，是分发渠道建立。App Store 审核机制自动成为质量过滤，意味着一波「套壳 Agent Skills」即将涌入移动端。  两个后续影响："
 resource: "https://x.com/i/status/2040087593585696803"
@@ -22,13 +22,6 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "gemma端侧多模态"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2040087593585696803"
-created: "2026-04-03"
-updated: "2026-06-26"
-sha256: "b85ab09066eff1a848386780b859cbe42de71585ce705b816c1b1a932f42f0dc"
-sources:
-  - "/sources/news/2026-04-05/00__vvkka100__google-把-gemma-4-塞进-iphone-端侧多模态-agent-进入-应用市场-时代.md"
 ---
 
 # Google 把 Gemma 4 塞进 iPhone：端侧多模态 Agent 进入「应用市场」时代

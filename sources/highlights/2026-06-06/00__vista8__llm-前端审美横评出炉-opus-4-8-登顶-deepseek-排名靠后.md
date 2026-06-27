@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "LLM 前端审美横评出炉：Opus 4.8 登顶，DeepSeek 排名靠后"
 description: "**一线实战者主观排名：Claude opus 4.8 > kimi 2.6 > GPT 5.5 > DeepSeek v4 pro > GLM 5.1 > DeepSeek v4 flash**  向阳乔木与 Tom 直播总结，Open Design 最常见使用场景：前端设计原型、PPT、海报。  排名非 Benchmark，是开发者集体体感，但样本来自每天用模型出图的工作流。  Opus 4."
 resource: "https://x.com/i/status/2063277247306539009"
@@ -22,13 +22,6 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "design-model-evaluation"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2063277247306539009"
-created: "2026-06-06"
-updated: "2026-06-26"
-sha256: "ca6e9c2cfb5cd6af76ebd81ec10e3285fa2363e99c43572446ff5aebb9124f24"
-sources:
-  - "/sources/highlights/2026-06-06/00__vista8__llm-前端审美横评出炉-opus-4-8-登顶-deepseek-排名靠后.md"
 ---
 
 # LLM 前端审美横评出炉：Opus 4.8 登顶，DeepSeek 排名靠后

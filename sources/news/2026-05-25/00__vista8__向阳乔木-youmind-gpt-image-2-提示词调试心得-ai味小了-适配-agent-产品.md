@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "向阳乔木：Youmind + GPT-image-2 提示词调试心得——AI味小了，适配 Agent 产品"
 description: "**【一句话核心判断】**  PPT 设计提示词正在形成独立的\"AI 原生美学\"范式——核心发现是给 AI 更多推理发挥空间，反而减少\"AI 味\"。  **信息增量：** - AI 味变小 = 提示词约束减少，模型有更多生成自由度 - 适配 Agent 产品 = 提示词设计开始区分\"给人看\"和\"给 AI 执行\"两个场景 - Youmind 平台实战验证，非纯理论  **边界：** - 偏向工具使用"
 resource: "https://x.com/i/status/2058901737868824872"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2058901737868824872"
-created: "2026-05-25"
-updated: "2026-06-26"
-sha256: "d41ce204c36b3c74708acc83164faf12b6c3e91fa5070ae204150fed75c5eeeb"
-sources:
-  - "/sources/news/2026-05-25/00__vista8__向阳乔木-youmind-gpt-image-2-提示词调试心得-ai味小了-适配-agent-产品.md"
 ---
 
 # 向阳乔木：Youmind + GPT-image-2 提示词调试心得——AI味小了，适配 Agent 产品

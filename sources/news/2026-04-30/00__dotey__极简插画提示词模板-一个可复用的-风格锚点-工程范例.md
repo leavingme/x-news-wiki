@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "极简插画提示词模板：一个可复用的「风格锚点」工程范例"
 description: "**这张提示词的价值不在好看，在于它演示了如何用结构化约束控制 AI 生成的视觉语言。**  - 通过「干净纤细线条 + 黑白低饱和 + 局部鲜明色彩 + 大量留白」四层约束，把风格空间压缩到杂志编辑插画的精确区间 - 「不要复杂背景，不要写实摄影，不要厚重阴影」的负向约束同样重要——排除法比描述法更高效 - 这种模板化提示词的本质是把审美判断固化为可复用的工程资产  锐评：提示词工程的终局不是「"
 resource: "https://x.com/i/status/2049691392364916875"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2049691392364916875"
-created: "2026-04-30"
-updated: "2026-06-26"
-sha256: "d4fd5609d861bb3c3faf14d168b1da09903f97c7f3ef331582dceabacbeb2cba"
-sources:
-  - "/sources/news/2026-04-30/00__dotey__极简插画提示词模板-一个可复用的-风格锚点-工程范例.md"
 ---
 
 # 极简插画提示词模板：一个可复用的「风格锚点」工程范例

@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Hermes Agent推出GUI客户端：开源Agent框架的「桌面化」趋势来临"
 description: "**一句话核心判断：** 开源Agent框架Hermes推出GUI客户端，标志着开源Agent从极客工具向主流用户的形态迁移启动。  **要点：** - GUI化是开源项目「民用化」的标准路径，降低了非CLI用户的进入门槛 - 结合之前OpenClaw GUI的相关讨论，Agent桌面客户端正在成为新赛道 - 但GUI化带来的稳定性与可调试性挑战是后续关键问题  **gakki锐评：** GUI是"
 resource: "https://x.com/i/status/2061851653095985399"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2061851653095985399"
-created: "2026-06-02"
-updated: "2026-06-26"
-sha256: "12d060fbb2e98acdac0b7779277c269b2905271dedc4036549a8cb1702821262"
-sources:
-  - "/sources/news/2026-06-02/00__dotey__hermes-agent推出gui客户端-开源agent框架的-桌面化-趋势来临.md"
 ---
 
 # Hermes Agent推出GUI客户端：开源Agent框架的「桌面化」趋势来临

@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Transformer 作者 + MoE 之父 Noam Shazeer 闪电加盟 OpenAI，模型架构竞赛进入单点决定论"
 description: "**[架构级人才地震：一个人同时握着 Transformer 与 MoE 两张牌，他选了 OpenAI]**  - Character AI 前 CEO、Transformer 论文共同作者、MoE 架构提出者 Noam Shazeer 正式加入 OpenAI，专注模型架构研究 - 谷歌曾以 27 亿美元收购 Character AI 换其回归，但仅短暂停留就转投 OpenAI——两年内用真金白银"
 resource: "https://x.com/i/status/2067432296127557888"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2067432296127557888"
-created: "2026-06-18"
-updated: "2026-06-26"
-sha256: "fee3f2d4eb3eea861773f914956f4340074c0d1036a71f6334875bb79873ca1a"
-sources:
-  - "/sources/highlights/2026-06-18/00__op7418__transformer-作者-moe-之父-noam-shazeer-闪电加盟-openai-模型架构竞赛进入单点决定论.md"
 ---
 
 # Transformer 作者 + MoE 之父 Noam Shazeer 闪电加盟 OpenAI，模型架构竞赛进入单点决定论

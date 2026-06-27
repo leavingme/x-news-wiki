@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Irys重新定义区块链用途：不是\"链上跑币\"，而是\"链上跑数据\""
 description: "**一句话核心判断**：Irys通过将数据变为可编程资产，让区块链从金融执行层升级为数据计算层，这是基础设施范式层面的认知刷新。  **信息增量**： - Josh Benaron从Arweave存储加速（Bundlr）转向Irys，核心洞察是\"数据存了还是死的\"——传统存储链只是仓库，数据不能触发逻辑、不能联动 - Irys的双账本结构（Submit + Publish Ledger）实现数据从"
 resource: "https://x.com/i/status/1976690067004625166"
@@ -22,13 +22,6 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "ai-data-blockchain-verification"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/1976690067004625166"
-created: "2025-10-10"
-updated: "2026-06-26"
-sha256: "76f3b49f2e43dc2bb840e4cbd15a8af521ff4c690b3448f68d17cc48d19a890b"
-sources:
-  - "/sources/highlights/2026-04-15/00__guiguziben__irys重新定义区块链用途-不是-链上跑币-而是-链上跑数据.md"
 ---
 
 # Irys重新定义区块链用途：不是"链上跑币"，而是"链上跑数据"

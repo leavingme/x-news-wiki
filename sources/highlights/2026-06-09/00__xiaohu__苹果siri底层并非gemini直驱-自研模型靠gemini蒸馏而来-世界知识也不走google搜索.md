@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "苹果Siri底层并非Gemini直驱：自研模型靠Gemini蒸馏而来，世界知识也不走Google搜索"
 description: "**苹果对谷歌的依赖，远比外界想象的要浅。**  -驱动Siri的是苹果自研基础模型，Gemini只作为蒸馏训练的\"老师\"，不参与推理 - Gemini仅在iCloud上为苹果提供定制化额外支持，且不走Google搜索提供世界知识，全部由苹果自有服务兜底 -此前盛传苹果每年向谷歌支付数十亿美元使用Gemini，但实际形态是\"蒸馏+定制服务\"而非\"模型即服务\"  苹果用Gemini当老师训练自家学生"
 resource: "https://x.com/i/status/2064346455905906992"
@@ -22,13 +22,6 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "ai-distillation-ethics"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2064346455905906992"
-created: "2026-06-09"
-updated: "2026-06-26"
-sha256: "36518ddc40fc7db3e96871c1a5e5af0fd174e0343f2013b7038e43b5f962fef1"
-sources:
-  - "/sources/highlights/2026-06-09/00__xiaohu__苹果siri底层并非gemini直驱-自研模型靠gemini蒸馏而来-世界知识也不走google搜索.md"
 ---
 
 # 苹果Siri底层并非Gemini直驱：自研模型靠Gemini蒸馏而来，世界知识也不走Google搜索

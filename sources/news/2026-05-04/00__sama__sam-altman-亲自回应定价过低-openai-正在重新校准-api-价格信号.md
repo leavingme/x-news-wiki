@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Sam Altman 亲自回应定价过低：OpenAI 正在重新校准 API 价格信号"
 description: "**核心判断：OpenAI 管理层直接介入定价讨论，暗示 API 价格即将上调。**  - Altman 公开回复开发者 @steipete 确认「定价太低了，马上修」 - 这不是客服话术——CEO 级别的定价干预通常意味着利润率压力已经传导到决策层 - 与 Anthropic 此前的涨价逻辑一致：AI API 定价正在从「获客补贴」转向「成本覆盖」  锐评：当两家头部公司同时觉得价格太低时，这不"
 resource: "https://x.com/sama/status/2051052567522848793"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "ai-trend-digest"
-type_okf: "X Tweet"
-source_url: "https://x.com/sama/status/2051052567522848793"
-created: "2026-05-03"
-updated: "2026-06-26"
-sha256: "d272cc6a1521c7b58987faec9bdb1a055b84b5002335c27366a0c3821d9125ae"
-sources:
-  - "/sources/news/2026-05-04/00__sama__sam-altman-亲自回应定价过低-openai-正在重新校准-api-价格信号.md"
 ---
 
 # Sam Altman 亲自回应定价过低：OpenAI 正在重新校准 API 价格信号

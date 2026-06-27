@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "小互转发：军用 Claude 与伊朗空袭，Anthropic 军事落地再添实锤"
 description: "**Anthropic 旗下 Claude 在军事打击链条中的实战角色继续被外媒披露，伊朗空袭场景是最新案例。**  • 链接指向的报道显示 Claude 已被集成进军用情报/决策流程，从合同签约到任务执行的链条被逐步坐实。 • 与此前 RAG/Claude Military 系列报道形成连续叙事：Anthropic 的安全护栏在实际军事需求面前正在被持续突破。 • 对行业信号：Anthropic"
 resource: "https://x.com/i/status/2065991817246687699"
@@ -22,13 +22,6 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "ai-military-deployment"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2065991817246687699"
-created: "2026-06-14"
-updated: "2026-06-26"
-sha256: "9eb3950f6b4c02670be7c4b8c1c682874010a637f9e5263eee743d9efcb7f6ec"
-sources:
-  - "/sources/news/2026-06-14/00__xiaohu__小互转发-军用-claude-与伊朗空袭-anthropic-军事落地再添实锤.md"
 ---
 
 # 小互转发：军用 Claude 与伊朗空袭，Anthropic 军事落地再添实锤

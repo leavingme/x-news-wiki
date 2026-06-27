@@ -1,25 +1,22 @@
 ---
-type: "concept"
-title: "design-language-ai-readable"
-description: "跨日主题 \"design-language-ai-readable\"，共 1 条相关精选推文。"
+type: "Concept"
+title: "AI 可读设计语言"
+description: "跨日主题 \"AI 可读设计语言\" (design-language-ai-readable)，共 1 条相关精选推文。"
 tags:
   - "x-news"
   - "concept"
   - "topic:design-language-ai-readable"
-timestamp: "2026-06-26T11:53:37.019Z"
+timestamp: "2026-06-27T08:40:42.863Z"
 x_topic_slug: "design-language-ai-readable"
 x_tweet_count: 1
 x_first_seen: "2026-05-08T04:19:08.718Z"
 x_last_seen: "2026-05-08T04:19:08.718Z"
-type_okf: "Concept"
-created: "2026-05-08"
-updated: "2026-06-26"
-sha256: "522b47425596613b3a8076fdc68006d4ecf7fb8c952e0a42a205c088da3a8e9c"
-sources:
-  - "/sources/news/2026-05-08/00__vista8__高设计感-html-模板库曝光-对抗-ai-默认风格的-审美疫苗.md"
+x_cn_title_source: "dict"
 ---
 
-# 主题: design-language-ai-readable
+# 主题: AI 可读设计语言
+
+> slug: `design-language-ai-readable`
 
 本主题下共 **1** 条精选推文。
 

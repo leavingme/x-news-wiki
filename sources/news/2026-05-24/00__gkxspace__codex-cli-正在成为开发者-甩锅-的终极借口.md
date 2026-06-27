@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Codex CLI 正在成为开发者「甩锅」的终极借口"
 description: "**[Codex 的高粘性使用率揭示了 CLI 工具的真实采用逻辑]**  余温一句「我都扔给 codex 了，太爽了」，背后是一个正在加速的范式转移：开发者不再自己执行任务，而是把任务「转交」给 Agent。这种爽感来源于上下文压缩——把复杂任务压缩成一句指令，Token 成本换取执行效率。  但这里有一个值得追问的问题：当「扔给 codex」变成默认动作，开发者自己的判断力去哪了？工具越爽，依"
 resource: "https://x.com/i/status/2058554077294760309"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2058554077294760309"
-created: "2026-05-24"
-updated: "2026-06-26"
-sha256: "ced3266ffebfb5249b80c2ee1f7e028cd357c65a018fff7ab5f3005ff7dc3b39"
-sources:
-  - "/sources/news/2026-05-24/00__gkxspace__codex-cli-正在成为开发者-甩锅-的终极借口.md"
 ---
 
 # Codex CLI 正在成为开发者「甩锅」的终极借口

@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Google官方CLI发布：Claude Code的「技能版图」正在吞噬整个SaaS生态"
 description: "**【核心判断】** Google官方CLI的发布标志着「SaaS工具技能化」进入加速期——Claude Code正从代码助手演变为跨平台数字管家。  - Google CLI（Rust编写）支持Drive、Gmail、日历、Sheets、Docs等核心服务 - 一条命令安装，可直接作为Claude Code Skill接入 - 用户可通过自然语言指令完成跨Google全家桶的复杂工作流  gak"
 resource: "https://x.com/i/status/2029390825369780647"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 90
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2029390825369780647"
-created: "2026-03-05"
-updated: "2026-06-26"
-sha256: "418b0e8612cfb04a4bc7770479443c85b33fe6e716a3e6cdbfa4cc8b7b98c833"
-sources:
-  - "/sources/news/2026-03-05/90__xiaohu__google官方cli发布-claude-code的-技能版图-正在吞噬整个saas生态.md"
 ---
 
 # Google官方CLI发布：Claude Code的「技能版图」正在吞噬整个SaaS生态

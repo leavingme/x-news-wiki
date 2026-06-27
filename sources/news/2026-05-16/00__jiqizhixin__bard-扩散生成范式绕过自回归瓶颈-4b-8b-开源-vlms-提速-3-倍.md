@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "BARD：扩散生成范式绕过自回归瓶颈，4B/8B 开源 VLMs 提速 3 倍"
 description: "**[扩散模型+渐进块合并实现 VLMs 推理速度突破，不损失质量]**  技术要点：上海 AI 研究院与复旦联合提出 BARD，通过渐进块合并（progressive block merging）和阶段性蒸馏，将标准自回归 VLM 转换为扩散架构，在 4B 和 8B 规模下实现最高 3 倍解码加速，同时刷新开源扩散 VLM 的 SOTA。  信息增量：这代表了一个重要的技术方向——用扩散模型替代"
 resource: "https://x.com/i/status/2055723205487395259"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2055723205487395259"
-created: "2026-05-16"
-updated: "2026-06-26"
-sha256: "d09ad6f0e6c7d9f9553ab63285827a78f45f15964dbd7a3a7c002d446f3a8e4c"
-sources:
-  - "/sources/news/2026-05-16/00__jiqizhixin__bard-扩散生成范式绕过自回归瓶颈-4b-8b-开源-vlms-提速-3-倍.md"
 ---
 
 # BARD：扩散生成范式绕过自回归瓶颈，4B/8B 开源 VLMs 提速 3 倍

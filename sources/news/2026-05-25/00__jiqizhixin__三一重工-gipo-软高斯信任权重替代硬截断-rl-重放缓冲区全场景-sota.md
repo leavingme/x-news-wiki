@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "三一重工 GIPO：软高斯信任权重替代硬截断，RL 重放缓冲区全场景 SOTA"
 description: "**【一句话核心判断】**  三一重工研究团队提出 GIPO（Gaussian Importance Sampling Policy Optimization），用软高斯信任权重替代传统硬截断（hard clipping），在 replay buffer 从新鲜到陈旧的全场景下均达 SOTA，bias-variance  trade-off 更优、梯度保持活跃、样本效率显著提升。  **信息增量："
 resource: "https://x.com/i/status/2058831968448679962"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2058831968448679962"
-created: "2026-05-25"
-updated: "2026-06-26"
-sha256: "e42d5b9a25abef9b4d47e5055ad5cd8c916f1c69afe4e257fd775427f765429e"
-sources:
-  - "/sources/news/2026-05-25/00__jiqizhixin__三一重工-gipo-软高斯信任权重替代硬截断-rl-重放缓冲区全场景-sota.md"
 ---
 
 # 三一重工 GIPO：软高斯信任权重替代硬截断，RL 重放缓冲区全场景 SOTA

@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "向阳乔木 Codex 5 小时搓出口播提词器，免费开源打收费产品"
 description: "**Vibe Coding 实战样板：单人通宵 5 小时交付商业级工具并开源。**  - Codex 通宵跑了 5 小时完成口播提词器，定位大疆 Pocket 3 口播场景 - 自评'比多数收费提词器好用一点'，直接免费开源挤压付费产品 - 验证 Vibe Coding 路径：'小痛点 + AI Coding + 垂直场景 + 即时开源'四件套成型    gakki 锐评：当一个开发者用 5 小时"
 resource: "https://x.com/i/status/2064537800783941945"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2064537800783941945"
-created: "2026-06-10"
-updated: "2026-06-26"
-sha256: "890f6301d9ee77ef421890416c7d5e4c08bd4d1504985aa0fa135e9f4e6000fc"
-sources:
-  - "/sources/news/2026-06-10/00__vista8__向阳乔木-codex-5-小时搓出口播提词器-免费开源打收费产品.md"
 ---
 
 # 向阳乔木 Codex 5 小时搓出口播提词器，免费开源打收费产品

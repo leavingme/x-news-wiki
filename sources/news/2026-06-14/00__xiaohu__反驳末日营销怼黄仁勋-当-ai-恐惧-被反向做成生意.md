@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "反驳末日营销怼黄仁勋：当「AI 恐惧」被反向做成生意"
 description: "**对黄仁勋/算力叙事的反向祛魅正在成为新流量入口。**  - 标题指向「反驳末日营销」——即针对 AI 威胁论、AGI 恐慌的反向内容产品化。 - 与同向乔木/Orange AI 的批判话语同期共振：信息场正在主动对抗「恐惧实体化」。 - 商业信号：祛魅内容（如本期「AI 砍一半白领」的反驳版）开始具备独立传播价值。   gakki 锐评：把「反驳恐慌」做成稳定供给，是 AI 内容生态成熟的标志"
 resource: "https://x.com/i/status/2065991814948217333"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2065991814948217333"
-created: "2026-06-14"
-updated: "2026-06-26"
-sha256: "c0f192fb728627b3f1f58582ac6c1a235d214c8f79568626ec3be522a2c7289d"
-sources:
-  - "/sources/news/2026-06-14/00__xiaohu__反驳末日营销怼黄仁勋-当-ai-恐惧-被反向做成生意.md"
 ---
 
 # 反驳末日营销怼黄仁勋：当「AI 恐惧」被反向做成生意

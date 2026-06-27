@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "ChromaFs：Mintlify 用「文件系统幻觉」把 AI 文档助手延迟从 46 秒砍到 100 毫秒"
 description: "**[工程哲学逆转：与其优化向量检索，不如让 AI 产生「文件幻觉」]**  Mintlify 的 AI 文档助手之前用标准 RAG 流程（切块、向量化、Chroma 存储），但当答案分散在多个页面或需要精确代码语法时，向量检索频繁失准。他们的解法是：给 AI 造一个假文件系统 ChromaFs，让它以为自己用 grep/cat/ls 在浏览文件，实际每个命令都被拦截翻译成数据库查询。  底层基于"
 resource: "https://x.com/i/status/2040157640442229153"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2040157640442229153"
-created: "2026-04-03"
-updated: "2026-06-26"
-sha256: "4c06e9f6b2171c5d305ed393da3a36074ea6a7e5fe3f02e9bc11ad45965a91ea"
-sources:
-  - "/sources/news/2026-04-04/00__dotey__chromafs-mintlify-用-文件系统幻觉-把-ai-文档助手延迟从-46-秒砍到-100-毫秒.md"
 ---
 
 # ChromaFs：Mintlify 用「文件系统幻觉」把 AI 文档助手延迟从 46 秒砍到 100 毫秒

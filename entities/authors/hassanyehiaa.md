@@ -1,23 +1,17 @@
 ---
-type: "entity"
+type: "Author"
 title: "风清扬 (@hassanyehiaa)"
 description: "X/Twitter 作者 @hassanyehiaa。共收录 1 条 AI 精选推文。"
 tags:
   - "x-news"
   - "author"
   - "author:hassanyehiaa"
-timestamp: "2026-06-26T11:53:36.986Z"
+timestamp: "2026-06-27T08:40:40.197Z"
 x_handle: "hassanyehiaa"
 x_author_name: "风清扬"
 x_tweet_count: 1
 x_first_seen: "2026-04-14T00:45:15.323Z"
 x_last_seen: "2026-04-14T00:45:15.323Z"
-type_okf: "Author"
-created: "2026-04-14"
-updated: "2026-06-26"
-sha256: "7043666d1f8f4cda7c03705258c6b911711988d4e3c020ce80536bfe5d35e8c3"
-sources:
-  - "/sources/highlights/2026-04-14/00__hassanyehiaa__polymarket-拟重返美国寻求新融资-估值剑指-100-亿美元-预测市场正式进入主流资本视野.md"
 ---
 
 # 风清扬 (@hassanyehiaa)

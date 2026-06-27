@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "GLM 5.2 开源 Coding 首触 Opus 水平：闭源护城河被撕开第一道口子"
 description: "**[国产开源 Coding 模型首次摸到闭源旗舰天花板]**  - 智谱 GLM 5.2 被实测达到 Opus 水平的 Coding 能力，是开源模型在 Coding 赛道的里程碑 - 国产模型在闭源旗舰最值钱的赛道上首次实现开源化，打破\"开源必弱\"的市场认知 - 直接冲击 Cursor/Claude Code/Codex 等闭源工具的成本结构与定价权 - 样本仍以中短程任务为主，长流程复杂任务"
 resource: "https://x.com/i/status/2067080400112124341"
@@ -22,13 +22,6 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "ai-coding-market-divergence"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2067080400112124341"
-created: "2026-06-17"
-updated: "2026-06-26"
-sha256: "ccf4da8e9df8518befb5cda58dc4f3e263ad0026f975da47d5a9efa1a8e95eee"
-sources:
-  - "/sources/highlights/2026-06-17/00__oran_ge__glm-5-2-开源-coding-首触-opus-水平-闭源护城河被撕开第一道口子.md"
 ---
 
 # GLM 5.2 开源 Coding 首触 Opus 水平：闭源护城河被撕开第一道口子

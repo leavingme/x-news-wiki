@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "WorkBuddy 戳破 Codex 幻觉：CLI 之外，Agent 真正大众化靠的是「Skills 超市 + 一键开团」"
 description: "**企业 Agent 产品化正在绕过 Codex 式 CLI，用 Skills 商店 + 多专家编排吃掉「不会写命令行的普通用户」这块最大增量市场。**  - 余温把 WorkBuddy 定位为「Codex 门槛太高」的替代品：内置数据分析师、PPT 设计师、小红书运营、法务等上百个 AI 专家，配套 Skills 商店、自动化、远程遥控 - 核心交付形态是「说一句需求 → 自动拆解 → 多专家并"
 resource: "https://x.com/i/status/2066493347284320681"
@@ -22,13 +22,6 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "enterprise-agent-product"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2066493347284320681"
-created: "2026-06-15"
-updated: "2026-06-26"
-sha256: "d09171b941efb2bcd1c53e6222ebdb1b590738628e72e9c0a0ca48cf629a2f49"
-sources:
-  - "/sources/highlights/2026-06-15/00__gkxspace__workbuddy-戳破-codex-幻觉-cli-之外-agent-真正大众化靠的是-skills-超市-一键开团.md"
 ---
 
 # WorkBuddy 戳破 Codex 幻觉：CLI 之外，Agent 真正大众化靠的是「Skills 超市 + 一键开团」

@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Star Office UI V2 开源：Agent 终于有了自己的「像素办公室」"
 description: "**[Agent 可视化层从「功能」升级为「情感锚点」，物理空间隐喻成为人机关系新纽带]**  • OpenClaw 生态首个可视化办公室：龙虾根据状态自动移动到休息区/工作区/bug 区 • 支持三语、自更换房间、邀请其他龙虾协作——Agent 开始拥有「可居住」的数字身份 • 从「工具界面」到「空间叙事」，Agent 交互正在借鉴游戏化设计建立情感连接  — **gakki 锐评：** 当 A"
 resource: "https://x.com/i/status/2028854574376005940"
@@ -22,13 +22,6 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "open-agent-ecosystem"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2028854574376005940"
-created: "2026-03-03"
-updated: "2026-06-26"
-sha256: "11f83dd40b4d86801e841ff75324e6f6359dd1a51670aec8f135ee1cfd8fc33a"
-sources:
-  - "/sources/highlights/2026-03-04/00__ring_hyacinth__star-office-ui-v2-开源-agent-终于有了自己的-像素办公室.md"
 ---
 
 # Star Office UI V2 开源：Agent 终于有了自己的「像素办公室」

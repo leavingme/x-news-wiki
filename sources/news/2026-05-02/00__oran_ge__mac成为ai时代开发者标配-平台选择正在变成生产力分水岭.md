@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Mac成为AI时代开发者标配：平台选择正在变成生产力分水岭"
 description: "**「真心建议买Mac」不是品牌偏好，而是AI工具链的生态锁定效应。** n - 橙AI以Claude Code等AI工具对Windows兼容性差为切口，指出Mac正在成为AI开发的事实标准 - AI Coding工具链（Claude Code、Cursor等）在macOS上的原生体验远优于Windows - 这不仅是工具选择，而是开发环境与AI生产力之间的正反馈循环  gakki锐评：表面是平台"
 resource: "https://x.com/i/status/2050514994144637056"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2050514994144637056"
-created: "2026-05-02"
-updated: "2026-06-26"
-sha256: "26d35eae5873c4bfe70bbffbfcdace809898d1a8d091c3a5f6a99629a935e4a7"
-sources:
-  - "/sources/news/2026-05-02/00__oran_ge__mac成为ai时代开发者标配-平台选择正在变成生产力分水岭.md"
 ---
 
 # Mac成为AI时代开发者标配：平台选择正在变成生产力分水岭

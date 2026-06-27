@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Origins Network 融资图谱解码：AWS、腾讯、阿里同时下注同一个 AI 可信验证方向"
 description: "**[Origins Network 获 800 万美元融资，Web3 与 Web2 云厂商罕见同框]**  Origins Network 宣布完成 800 万美元战略融资，投资方同时包含 Animoca Brands、TBV 等 Web3 资本，以及 AWS、腾讯云、阿里云等传统云厂商。这种组合极为罕见，说明链上 AI 可信验证已超出加密圈层，进入主流云服务商的战略视野。  • 核心叙事：AI"
 resource: "https://x.com/i/status/2038962727348228293"
@@ -22,13 +22,6 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "ai-data-blockchain-verification"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2038962727348228293"
-created: "2026-03-31"
-updated: "2026-06-26"
-sha256: "2afa78dbe4f9f626f7a6a6f7c02ab9a799482ac74cc810753c90e419a355ad38"
-sources:
-  - "/sources/news/2026-04-02/00__QF88688__origins-network-融资图谱解码-aws-腾讯-阿里同时下注同一个-ai-可信验证方向.md"
 ---
 
 # Origins Network 融资图谱解码：AWS、腾讯、阿里同时下注同一个 AI 可信验证方向

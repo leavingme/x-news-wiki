@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "AI虚拟形象突破「僵硬听众」困境：盛大+东京大学UniLS实现44.1%聆听动作质量提升"
 description: "**[AI虚拟形象终于学会了「自然倾听」，而不只是「会说话的头]**  - 盛大AI研究院+东京大学提出UniLS系统，解决AI虚拟形象\"僵硬听众\"问题 - 两阶段训练：先无音频学习面部运动自然节奏，再用双轨语音微调 - 实现SOTA说话准确率，聆听动作质量提升44.1%  **gakki锐评：** 这是多模态交互的细节战争——AI不只是「能说」，还要「会听」。虚拟形象从「展示工具」向「交互伙伴」"
 resource: "https://x.com/i/status/2049419166751264789"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2049419166751264789"
-created: "2026-04-29"
-updated: "2026-06-26"
-sha256: "41b0cc724e2bafb3f625ceb6ca022b37aabdc33815bc81cad9ca8dd8d1feba29"
-sources:
-  - "/sources/news/2026-04-29/00__jiqizhixin__ai虚拟形象突破-僵硬听众-困境-盛大-东京大学unils实现44-1-聆听动作质量提升.md"
 ---
 
 # AI虚拟形象突破「僵硬听众」困境：盛大+东京大学UniLS实现44.1%聆听动作质量提升

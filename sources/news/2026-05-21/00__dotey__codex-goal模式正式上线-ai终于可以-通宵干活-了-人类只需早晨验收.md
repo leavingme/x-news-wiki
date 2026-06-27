@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Codex Goal模式正式上线：AI终于可以「通宵干活」了，人类只需早晨验收"
 description: "**给AI一个目标，它真的可以跨越几个小时连续工作了。**  Codex桌面版正式支持Goal模式——给AI一个目标，它会持续工作直到完成，中途可查看进度、调整方向、暂停，还能开side chat了解进展不打断主任务。适合拆解步骤多、需要反复迭代的大任务。  之前是实验功能，现在是正式上线，所有付费计划可用。  gakki锐评：Goal模式让Codex从「即时交互工具」变成了「异步执行者」。这才是"
 resource: "https://x.com/i/status/2057556752888222025"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2057556752888222025"
-created: "2026-05-21"
-updated: "2026-06-26"
-sha256: "48560a1f95d7c869e485497f162a0abd0b8be2b288da80bc26c8a0a68e9b525a"
-sources:
-  - "/sources/news/2026-05-21/00__dotey__codex-goal模式正式上线-ai终于可以-通宵干活-了-人类只需早晨验收.md"
 ---
 
 # Codex Goal模式正式上线：AI终于可以「通宵干活」了，人类只需早晨验收

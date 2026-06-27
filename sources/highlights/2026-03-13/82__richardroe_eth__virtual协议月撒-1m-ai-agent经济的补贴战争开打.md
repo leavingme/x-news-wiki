@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "VIRTUAL协议月撒$1M：AI Agent经济的补贴战争开打"
 description: "**AI Agent生态进入「用户补贴」阶段，真金白银争夺注意力。** • Virtual Protocol每月最高发放100万美元奖励给AI Agent交互用户 • 覆盖Twitter等平台的AI Agent互动行为 • 标志着AI Agent从「技术验证」向「用户获取」阶段跃迁  --- **Gakki锐评**：Web3的老剧本——先补贴获客，再寻商业模式。但AI Agent的特殊性在于，用户"
 resource: "https://x.com/i/status/2032468844850090053"
@@ -22,13 +22,6 @@ x_selected: 2
 x_priority: 82
 x_related_topic: "ai-crypto-agent-infra"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2032468844850090053"
-created: "2026-03-13"
-updated: "2026-06-26"
-sha256: "dc8465ffd248086ec72690289ad1acdd2911eed164e81dcf961b0d65ddb65c52"
-sources:
-  - "/sources/highlights/2026-03-13/82__richardroe_eth__virtual协议月撒-1m-ai-agent经济的补贴战争开打.md"
 ---
 
 # VIRTUAL协议月撒$1M：AI Agent经济的补贴战争开打

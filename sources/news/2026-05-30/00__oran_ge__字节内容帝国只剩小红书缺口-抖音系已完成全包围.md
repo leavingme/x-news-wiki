@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "字节内容帝国只剩小红书缺口：抖音系已完成全包围"
 description: "**【一句话核心判断】** 字节已建立\"内容消费全链路霸权\"，小红书是最后一块未吞并的领土。  **信息增量：** - 从抖音到 TikTok 到今日头条到西瓜视频，字节的内容分发网络仅剩小红书这个变量 - 小红书的\"种草-搜索-转化\"闭环是字节尚未攻克的护城河 - \"也在努力了\"暗示字节对小红书的攻势已经从暗线转向明线  **影响：** 小红书的商业化价值被进一步锁定——不是字节打不下来，而是收"
 resource: "https://x.com/i/status/2060522770258436585"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2060522770258436585"
-created: "2026-05-30"
-updated: "2026-06-26"
-sha256: "41512a405cdcbc9bb13f467b3ca7ed38b67206798f1991afe592b1729b7b3c7a"
-sources:
-  - "/sources/news/2026-05-30/00__oran_ge__字节内容帝国只剩小红书缺口-抖音系已完成全包围.md"
 ---
 
 # 字节内容帝国只剩小红书缺口：抖音系已完成全包围

@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Skill 市集争夺战：小红书抢跑知乎成为中国首个 Skill UGC 平台"
 description: "**[Skill.md 标准正在从小众开发者圈层向大众内容平台扩散]**  推文揭示了一个重要信号：小红书开放 Skill 上传功能。这意味着 Skill 不再只是程序员之间的协作文档，而开始渗透进创作者经济生态。  值得关注的三个维度： - **分发渠道变革**：Skill 的发现和传播路径从 GitHub/技术社区转向内容平台，触达用户量级完全不同 - **质量标准博弈**：小红书用户生成的 "
 resource: "https://x.com/i/status/2057711810728559034"
@@ -22,13 +22,6 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "no-code-agent-entry"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2057711810728559034"
-created: "2026-05-22"
-updated: "2026-06-26"
-sha256: "7f1f6beddf4d544dcb44c8b3d2fcd4f72ae5b5330dba4ae670e7478d1b5927d2"
-sources:
-  - "/sources/highlights/2026-05-22/00__op7418__skill-市集争夺战-小红书抢跑知乎成为中国首个-skill-ugc-平台.md"
 ---
 
 # Skill 市集争夺战：小红书抢跑知乎成为中国首个 Skill UGC 平台

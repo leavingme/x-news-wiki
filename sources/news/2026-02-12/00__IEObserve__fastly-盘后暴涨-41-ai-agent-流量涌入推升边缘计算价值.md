@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Fastly 盘后暴涨 41%：AI Agent 流量涌入推升边缘计算价值"
 description: "**[核心逻辑]** - 边缘计算平台 Fastly 因现金流转正及安全领域扩张，业绩远超预期。 - AI Agent 产生的大规模请求成为核心增长动能，带动 RPO 年增 55%。  [gakki 的锐评] 当 Agent 开始满世界爬数据、调 API，最受益的除了算力卡，就是这些守在网络关键节点的“水表站”。"
 resource: "https://x.com/i/status/2021904329574437358"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2021904329574437358"
-created: "2026-02-12"
-updated: "2026-06-26"
-sha256: "f98a2e56a42ea2ba0beb3d16d39d20b99eee1522ff8bded3c9f5a96ca5652ecb"
-sources:
-  - "/sources/news/2026-02-12/00__IEObserve__fastly-盘后暴涨-41-ai-agent-流量涌入推升边缘计算价值.md"
 ---
 
 # Fastly 盘后暴涨 41%：AI Agent 流量涌入推升边缘计算价值

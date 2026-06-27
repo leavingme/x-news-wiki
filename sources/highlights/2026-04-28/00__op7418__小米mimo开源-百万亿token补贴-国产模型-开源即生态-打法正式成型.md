@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "小米MiMo开源 + 百万亿Token补贴：国产模型「开源即生态」打法正式成型"
 description: "**[免费才是最贵的——Token补贴是模型厂商抢占开发者工作流的终极武器]**  小米MiMo-V2.5全系列MIT协议开源，同时抛出『百万亿Token创造者激励计划』：AI builder最高获16亿Credits（价值659元），Agent框架团队享限免接入。表面是开源惠民，实则是用免费算力把开发者工作流锁进MiMo生态。MIT解决了『能不能用』的问题，Token补贴解决的是『愿不愿意用』的"
 resource: "https://x.com/i/status/2048956024141598736"
@@ -22,13 +22,6 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "ai-business-and-startup"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2048956024141598736"
-created: "2026-04-28"
-updated: "2026-06-26"
-sha256: "02ad6a47a2edec40db6f6a9c8a394d98aa2f2dd08be3959ab087e69db1a50e1f"
-sources:
-  - "/sources/highlights/2026-04-28/00__op7418__小米mimo开源-百万亿token补贴-国产模型-开源即生态-打法正式成型.md"
 ---
 
 # 小米MiMo开源 + 百万亿Token补贴：国产模型「开源即生态」打法正式成型

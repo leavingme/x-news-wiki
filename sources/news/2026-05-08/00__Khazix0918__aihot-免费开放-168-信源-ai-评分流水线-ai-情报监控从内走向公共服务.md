@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "AIHOT 免费开放：168 信源 + AI 评分流水线，AI 情报监控从内走向公共服务"
 description: "**个人开发者把内部情报工具免费开放，信号是 AI 信息监控正从「自用玩具」走向「基础设施化」。**  - 核心卖点：168 个精选数据源 + AI 打分流水线 + 每日精选日报，覆盖 Skill / RSS / API 三端分发 - 定位清晰：解决的是「信息洪流里挑值得看的」这个筛选问题，而非信息聚合本身 - 从公司内部工具→免费公共产品，验证了一条独立开发者的冷启动路径：先自用建口碑，再开放抢"
 resource: "https://x.com/i/status/2052726850431148059"
@@ -22,13 +22,6 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "agent-data-intelligence-infra"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2052726850431148059"
-created: "2026-05-08"
-updated: "2026-06-26"
-sha256: "a198564a779dde8c3bc408cfc9f81b91aa3db7a5c24cdd4a792940b1ba416767"
-sources:
-  - "/sources/news/2026-05-08/00__Khazix0918__aihot-免费开放-168-信源-ai-评分流水线-ai-情报监控从内走向公共服务.md"
 ---
 
 # AIHOT 免费开放：168 信源 + AI 评分流水线，AI 情报监控从内走向公共服务

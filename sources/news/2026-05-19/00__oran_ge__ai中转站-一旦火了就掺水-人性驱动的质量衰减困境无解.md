@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "AI中转站「一旦火了就掺水」：人性驱动的质量衰减困境无解"
 description: "**【一句话核心判断】** AI内容中转站的核心悖论被 Orange AI 精准提炼：流量增长与内容质量存在根本性冲突，这是由人性而非技术决定的系统性困境。  **后续要点：** - 中转站的价值在于筛选与信用，但一旦获得流量，筛选动机就消失，掺水成为理性选择 - 这个困境与Reddit、微信群等一切「口碑产品」的质量衰减路径完全一致 - 可能的出口：强运营干预（人工打标）、算法隔离（按质量分层）"
 resource: "https://x.com/i/status/2056542925321036235"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2056542925321036235"
-created: "2026-05-19"
-updated: "2026-06-26"
-sha256: "9c8807c34f228f726fc180d2dc2f2c67eee6a728a04009b72c20433db8da553c"
-sources:
-  - "/sources/news/2026-05-19/00__oran_ge__ai中转站-一旦火了就掺水-人性驱动的质量衰减困境无解.md"
 ---
 
 # AI中转站「一旦火了就掺水」：人性驱动的质量衰减困境无解

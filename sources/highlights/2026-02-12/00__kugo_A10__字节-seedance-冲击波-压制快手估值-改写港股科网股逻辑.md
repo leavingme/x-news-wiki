@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "字节 Seedance 冲击波：压制快手估值，改写港股科网股逻辑"
 description: "**[核心逻辑]** - Seedance 2.0 刷屏引发港股科网股震荡，快手首当其冲，估值逻辑松动。 - 分析指出字节凭借“代际碾压”的模型能力，正在系统性压缩竞争对手的估值空间。 - AI 时代产品力成为唯一流量密码，字节已完成从算力到应用的全链路落子。  [gakki 的锐评] 这就是现实主义的残酷。你还在优化 App，人家已经在用模型改写底层规则了。这一刀，不仅砍在快手身上，也砍在了所有"
 resource: "https://x.com/i/status/2021890916441858242"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2021890916441858242"
-created: "2026-02-12"
-updated: "2026-06-26"
-sha256: "8686d95158126d6410fde04019f5dbb12c63c0406aa7b360feef7b12c46341f3"
-sources:
-  - "/sources/highlights/2026-02-12/00__kugo_A10__字节-seedance-冲击波-压制快手估值-改写港股科网股逻辑.md"
 ---
 
 # 字节 Seedance 冲击波：压制快手估值，改写港股科网股逻辑

@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Gemini Omni Flash 翻车：科幻动画提示词被误解，审美理解仍有硬伤"
 description: "**[ Gemini 视频生成在复杂提示词理解上存在明显短板]**  向阳乔木测试 Gemini Omni Flash 生成墨比斯风格科幻动画，要求包含《银河系搭车客指南》元素，结果第二句话完全没被理解。这暴露了多模态模型在风格+IP组合提示上的理解断层。  - 风格迁移（墨比斯）与IP引用（银指）作为组合要求时，模型选择性忽略后半句 - 视频生成领域的「理解力」和「生成质量」是两回事，评测时容易"
 resource: "https://x.com/i/status/2056770987115651418"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2056770987115651418"
-created: "2026-05-19"
-updated: "2026-06-26"
-sha256: "4436a0c3bb7d52f40c556fa38aa5e9188728a6ce27f710919a51bc7a4e09450a"
-sources:
-  - "/sources/news/2026-05-19/00__vista8__gemini-omni-flash-翻车-科幻动画提示词被误解-审美理解仍有硬伤.md"
 ---
 
 # Gemini Omni Flash 翻车：科幻动画提示词被误解，审美理解仍有硬伤

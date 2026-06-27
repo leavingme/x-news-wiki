@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "OpenClaw 2026.4.26 更新：Matrix E2EE 加密 + 本地模型优化，开源 Agent 生态继续深化"
 description: "**[一句话核心判断]**  OpenClaw 发布 2026.4.26 版本，重点引入 Matrix E2EE 端到端加密支持和更好的 Ollama/本地模型兼容性，继续巩固其「本地优先」的开源 Agent 平台定位。  **后续要点：** - 安全升级：One-command Matrix E2EE 意味着 Agent 通信开始原生支持加密协议，隐私保护从选配变为标配 - 本地化战略：「Bet"
 resource: "https://x.com/openclaw/status/2048950588948230568"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "ai-trend-digest"
-type_okf: "X Tweet"
-source_url: "https://x.com/openclaw/status/2048950588948230568"
-created: "2026-04-28"
-updated: "2026-06-26"
-sha256: "1377ea7240871aba5c653209dc0b5a2b42693c41805cbc9c76add21d02395a79"
-sources:
-  - "/sources/news/2026-04-28/00__openclaw__openclaw-2026-4-26-更新-matrix-e2ee-加密-本地模型优化-开源-agent-生态继续深化.md"
 ---
 
 # OpenClaw 2026.4.26 更新：Matrix E2EE 加密 + 本地模型优化，开源 Agent 生态继续深化

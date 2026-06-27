@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Claude Code 的正确打开方式：不是聊天工具，是 AI 开发操作系统"
 description: "**大多数开发者只用到了 Claude Code 的 10%。**  • 完整能力矩阵：文件系统访问、200+ MCP 工具连接、自主多 Agent 工作流、Claude.md 项目记忆 • 常见误用：把它当 chatbot 提问，而非让其在代码库中「居住」和「操作」 • 关键认知升级：从「问问题」到「委托任务」，从「单次交互」到「持续协作」  Claude Code 不是更好的搜索引擎，而是能长"
 resource: "https://x.com/i/status/2031853448182853895"
@@ -22,13 +22,6 @@ x_selected: 2
 x_priority: 82
 x_related_topic: "claude-code-natural-language-workflow"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2031853448182853895"
-created: "2026-03-11"
-updated: "2026-06-26"
-sha256: "25a742381af367f375618dd0a868ffe614dd7756fc279e5ae4591208c642c142"
-sources:
-  - "/sources/highlights/2026-03-12/82__Suryanshti777__claude-code-的正确打开方式-不是聊天工具-是-ai-开发操作系统.md"
 ---
 
 # Claude Code 的正确打开方式：不是聊天工具，是 AI 开发操作系统

@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "OpenClaw 框架引爆 AGI 生态：克劳德“长出手脚”"
 description: "**[本地化 AI 代理生态的全面崛起]** - OpenClaw（原 Clawdbot/Moltbot）成为 2026 年初现象级开源框架，实现模型对文件、消息及自动化流程的深度控制。 - 核心开发者 Peter Steinberger (@steipete) 与资深玩家群组构建了从多智能体路由到 Telegram 整合的完整版图。 - 推荐关注 @steipete、@DataChaz 等核心账"
 resource: "https://x.com/i/status/2018093509866373456"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2018093509866373456"
-created: "2026-02-01"
-updated: "2026-06-26"
-sha256: "6284cdfd41f1c53ea96bcda02802c4208f44064ef8a0d25e3a0c56156549db39"
-sources:
-  - "/sources/news/2026-02-02/00__mrblock__openclaw-框架引爆-agi-生态-克劳德-长出手脚.md"
 ---
 
 # OpenClaw 框架引爆 AGI 生态：克劳德“长出手脚”

@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Anthropic CoWork发布：Claude从「代码助手」进化为「系统级Agent」"
 description: "**[Claude正式获得「人类双手」，跨设备Agent时代开启]** • 三层操控架构：Connector直连→浏览器操作→屏幕操控，体现务实的工程优先级设计 • 手机派活+电脑执行：打破设备边界，实现真正的远程Agent协作 • 与Codex战略分叉：OpenAI走「云端沙盒」路线，Anthropic押注「个人设备深度掌控」  **gakki锐评：** 这不是「自动化工具」的升级，而是Agen"
 resource: "https://x.com/i/status/2036315207941890232"
@@ -22,13 +22,6 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "claude-code-ecosystem"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2036315207941890232"
-created: "2026-03-24"
-updated: "2026-06-26"
-sha256: "5e97f28541ab22765546d5fd5e5548c85af250e13478f4065447e50788bbe955"
-sources:
-  - "/sources/highlights/2026-03-24/00__xiaohu__anthropic-cowork发布-claude从-代码助手-进化为-系统级agent.md"
 ---
 
 # Anthropic CoWork发布：Claude从「代码助手」进化为「系统级Agent」

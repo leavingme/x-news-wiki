@@ -1,23 +1,17 @@
 ---
-type: "entity"
+type: "Author"
 title: "Xiaolong Wang (@xiaolonw)"
 description: "X/Twitter 作者 @xiaolonw。共收录 1 条 AI 精选推文。"
 tags:
   - "x-news"
   - "author"
   - "author:xiaolonw"
-timestamp: "2026-06-26T11:53:36.995Z"
+timestamp: "2026-06-27T08:40:40.208Z"
 x_handle: "xiaolonw"
 x_author_name: "Xiaolong Wang"
 x_tweet_count: 1
 x_first_seen: "2026-05-02T13:17:57.370Z"
 x_last_seen: "2026-05-02T13:17:57.370Z"
-type_okf: "Author"
-created: "2026-05-02"
-updated: "2026-06-26"
-sha256: "46d497caf86aed10b07a36cbd749b9d0c378b9996b95352daf264977a893717a"
-sources:
-  - "/sources/news/2026-05-02/00__xiaolonw__meta-收购具身智能初创-ari-从-研究物理-agi-到-需要真正通用的物理-agent.md"
 ---
 
 # Xiaolong Wang (@xiaolonw)

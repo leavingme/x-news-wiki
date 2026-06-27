@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Oxford+英伟达 KV-CAT：把 KV 压缩从「推理后补救」前移到「训练阶段原生压缩」"
 description: "**KV Cache 压缩的工程范式正在从 post-hoc 转向训练期原生。**  - Oxford / Technion / AITHYRA / NVIDIA 联合提出 KV-CAT：在 continued pretraining 阶段随机 mask KV slot，强制模型依赖更少的缓存条目 - 相比 post-hoc quantization / pruning，训练阶段就学会的「可压缩性"
 resource: "https://x.com/i/status/2066074160372355369"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2066074160372355369"
-created: "2026-06-14"
-updated: "2026-06-26"
-sha256: "2bd13e6092c1488946d8bafbdf0b6541a84cbf7c715f598e7941cabf618462b9"
-sources:
-  - "/sources/highlights/2026-06-14/00__jiqizhixin__oxford-英伟达-kv-cat-把-kv-压缩从-推理后补救-前移到-训练阶段原生压缩.md"
 ---
 
 # Oxford+英伟达 KV-CAT：把 KV 压缩从「推理后补救」前移到「训练阶段原生压缩」

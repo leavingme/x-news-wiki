@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "宝玉点Trae困境：AI Coding破圈难，'编程'刻板印象是隐形门槛"
 description: "**AI Coding工具的瓶颈不在技术降门槛，而在用户对'编程'的心智模型未重构。**  - 宝玉指出：Trae走的也是自然语言编程路线，但'程序员=写代码'的刻板印象根深蒂固 - 即便工具降到零门槛，'AI帮你写代码'在大众认知里仍是程序员的辅助玩具 - 破圈关键不是功能堆叠，而是把'编程'重新定义为'表达意图'   gakki锐评：Trae、Cursor、Codex都在卷功能，但用户对'编程"
 resource: "https://x.com/i/status/2064113784331903384"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2064113784331903384"
-created: "2026-06-08"
-updated: "2026-06-26"
-sha256: "1e2f5c770a92a93b08768956ccf44acf8ea3658b4e457f602452edbec1ce507f"
-sources:
-  - "/sources/news/2026-06-09/00__dotey__宝玉点trae困境-ai-coding破圈难-编程-刻板印象是隐形门槛.md"
 ---
 
 # 宝玉点Trae困境：AI Coding破圈难，'编程'刻板印象是隐形门槛

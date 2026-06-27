@@ -1,23 +1,17 @@
 ---
-type: "entity"
+type: "Author"
 title: "高伐林 (@GaoFalin)"
 description: "X/Twitter 作者 @GaoFalin。共收录 1 条 AI 精选推文。"
 tags:
   - "x-news"
   - "author"
   - "author:GaoFalin"
-timestamp: "2026-06-26T11:53:36.914Z"
+timestamp: "2026-06-27T08:40:40.122Z"
 x_handle: "GaoFalin"
 x_author_name: "高伐林"
 x_tweet_count: 1
 x_first_seen: "2026-02-02T01:00:19.184Z"
 x_last_seen: "2026-02-02T01:00:19.184Z"
-type_okf: "Author"
-created: "2026-02-02"
-updated: "2026-06-26"
-sha256: "81237c3818819b09ba41915d6ae7214faa17e52260b200eeb1a6f099e6a51036"
-sources:
-  - "/sources/news/2026-02-02/00__GaoFalin__ai-的-数字社区-诞生-moltbook-论坛仅限-agent-发文.md"
 ---
 
 # 高伐林 (@GaoFalin)

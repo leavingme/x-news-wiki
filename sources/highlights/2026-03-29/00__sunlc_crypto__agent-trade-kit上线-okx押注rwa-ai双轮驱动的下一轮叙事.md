@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Agent Trade Kit上线：OKX押注RWA+AI双轮驱动的下一轮叙事"
 description: "**[交易所Agent基建从「 Wallet 单点」扩展到「交易全链路」]** • Agent Trade Kit的推出意味着OKX正在构建「AI Agent可编程金融」的底层协议层 • 传统市场合约+RWA+AI的三件套组合，暗示下一轮牛市的叙事引擎已提前布局 • 市场信号：机构资金正在寻找「合规+AI+链上」的交集点，Agentic执行是解耦流动性的关键  **gakki锐评**：「给我的龙虾"
 resource: "https://x.com/i/status/2037898045275480471"
@@ -22,13 +22,6 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "ai-crypto-agent-infra"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2037898045275480471"
-created: "2026-03-28"
-updated: "2026-06-26"
-sha256: "83adb6c600c385f23715c9e643498467a9f59dadce303e66a9c95d055e2a17ac"
-sources:
-  - "/sources/highlights/2026-03-29/00__sunlc_crypto__agent-trade-kit上线-okx押注rwa-ai双轮驱动的下一轮叙事.md"
 ---
 
 # Agent Trade Kit上线：OKX押注RWA+AI双轮驱动的下一轮叙事

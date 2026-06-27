@@ -1,33 +1,22 @@
 ---
-type: "concept"
-title: "codex-cli-tool-encapsulation"
-description: "跨日主题 \"codex-cli-tool-encapsulation\"，共 9 条相关精选推文。"
+type: "Concept"
+title: "Codex CLI 工具封装"
+description: "跨日主题 \"Codex CLI 工具封装\" (codex-cli-tool-encapsulation)，共 9 条相关精选推文。"
 tags:
   - "x-news"
   - "concept"
   - "topic:codex-cli-tool-encapsulation"
-timestamp: "2026-06-26T11:53:37.021Z"
+timestamp: "2026-06-27T08:40:42.867Z"
 x_topic_slug: "codex-cli-tool-encapsulation"
 x_tweet_count: 9
 x_first_seen: "2026-06-11T01:18:59.861Z"
 x_last_seen: "2026-06-18T22:18:57.905Z"
-type_okf: "Concept"
-created: "2026-06-11"
-updated: "2026-06-26"
-sha256: "80ff88091eb9478a7dd48af323c70c731fc66041cca20f7b22531ea9d491c3b0"
-sources:
-  - "/sources/highlights/2026-06-11/00__vista8__向阳乔木实测-codex-接受模糊-goal-也能跑-6-小时-codex-的-goal-容忍度被低估了.md"
-  - "/sources/highlights/2026-06-13/00__dotey__codex-当爬虫-浏览器模式选错-效率差出十倍.md"
-  - "/sources/highlights/2026-06-13/00__vista8__codex-goal-24-分钟从零构建世界杯订阅站-模糊指令已能交付生产级-web-应用.md"
-  - "/sources/highlights/2026-06-15/00__vista8__智谱zcode正面硬刚codex-google账号免登-glm-5-2免费-国产coding-agent撕开付费墙.md"
-  - "/sources/highlights/2026-06-17/00__dotey__codex-三种电脑操控方式官方揭秘-computer-use-慢但万能-mac-体验碾压-windows.md"
-  - "/sources/highlights/2026-06-18/00__dotey__codex-record-replay-把-演示一遍-凝成可复用-skill-工作流从-写说明书-走向-做给我看.md"
-  - "/sources/news/2026-06-11/00__vista8__codex-cli-订阅墙化-goal-锁回订阅体系-codex-插件成-api-用户唯一通道.md"
-  - "/sources/news/2026-06-13/00__vista8__向阳乔木用-goal-skill-一句话驱动-codex-开发世界杯订阅站-模糊-goal-容忍度从长跑测试走向产品交付.md"
-  - "/sources/news/2026-06-15/00__yetone__yetone-背书-codex-cc-switch-harness-战争已蔓延到国产圈.md"
+x_cn_title_source: "dict"
 ---
 
-# 主题: codex-cli-tool-encapsulation
+# 主题: Codex CLI 工具封装
+
+> slug: `codex-cli-tool-encapsulation`
 
 本主题下共 **9** 条精选推文。
 

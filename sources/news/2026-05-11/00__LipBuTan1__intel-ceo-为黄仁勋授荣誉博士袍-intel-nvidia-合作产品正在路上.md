@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Intel CEO 为黄仁勋授荣誉博士袍：Intel-Nvidia 合作产品正在路上"
 description: "**竞争对手在颁奖台上拥抱，背后是 AI 算力格局的重新洗牌。**  - Lip-Bu Tan 亲自为黄仁勋披上卡内基梅隆大学荣誉博士袍，社交信号极强 - 明确透露 Intel 与 Nvidia 正在合作开发「令人兴奋的新产品」 - 从对抗到协作，半导体巨头的关系正在 AI 算力需求下被重新定义  gakki 锐评：当 Intel CEO 用「good friend」称呼 Nvidia CEO 并"
 resource: "https://x.com/LipBuTan1/status/2053523615304294655"
@@ -22,13 +22,6 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "nvidia-compute-moat"
 x_source: "ai-trend-digest"
-type_okf: "X Tweet"
-source_url: "https://x.com/LipBuTan1/status/2053523615304294655"
-created: "2026-05-10"
-updated: "2026-06-26"
-sha256: "8995a8f5beaeba0c517113dac34fe40b083c2e9347db2bd3b5415bca61e54fd9"
-sources:
-  - "/sources/news/2026-05-11/00__LipBuTan1__intel-ceo-为黄仁勋授荣誉博士袍-intel-nvidia-合作产品正在路上.md"
 ---
 
 # Intel CEO 为黄仁勋授荣誉博士袍：Intel-Nvidia 合作产品正在路上

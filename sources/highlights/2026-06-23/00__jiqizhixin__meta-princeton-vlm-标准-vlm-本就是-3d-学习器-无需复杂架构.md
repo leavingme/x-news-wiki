@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Meta×Princeton VLM³：标准 VLM 本就是 3D 学习器，无需复杂架构"
 description: "**VLM 不需要专门改造就能原生理解 3D，关键是数据配方而非架构。**  - 三个简单改动统一焦距 + 文本像素引用 + 数据扩展，免去复杂增广和回归损失 - 深度估计精度 0.84 → 0.9，像素对应、相机位姿、物体级 3D 任务对齐专家模型 - 推翻\"3D 理解需要专门架构\"的隐含假设，VLM 的 2D 训练已内含 3D 几何先验  锐评：3D 视觉又一次被\"基础模型 + 数据工程\"路线"
 resource: "https://x.com/i/status/2069222153342402951"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2069222153342402951"
-created: "2026-06-23"
-updated: "2026-06-26"
-sha256: "7a35c92faa9bbcb4d9f94e808893b536543413687096b4acb8a16dd1058b0d46"
-sources:
-  - "/sources/highlights/2026-06-23/00__jiqizhixin__meta-princeton-vlm-标准-vlm-本就是-3d-学习器-无需复杂架构.md"
 ---
 
 # Meta×Princeton VLM³：标准 VLM 本就是 3D 学习器，无需复杂架构

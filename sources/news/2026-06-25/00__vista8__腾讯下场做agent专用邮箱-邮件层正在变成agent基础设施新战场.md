@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "腾讯下场做Agent专用邮箱：邮件层正在变成Agent基础设施新战场"
 description: "**腾讯推出专门给AI Agent使用的邮箱服务，用户注册后会获得一段配置提示词，可直接发给Codex或其他Agent完成CLI设置。**  - 与Cloudflare此前推出的Agent邮件服务形成正面竞争，邮件作为Agent身份标识和通信通道的价值被两家公司同时验证 - 设计逻辑是\"邮箱即Agent账号\"：每个Agent绑定独立邮箱地址，多Agent协作时可以通过邮件协议而非自定义API进行路"
 resource: "https://x.com/i/status/2070144005589831745"
@@ -22,13 +22,6 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "ai-agent-tool-call-tax"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2070144005589831745"
-created: "2026-06-25"
-updated: "2026-06-26"
-sha256: "18bfc9db0c43c5f42781a1c9be67c23549c304e2032227254aec7b69f18b009c"
-sources:
-  - "/sources/news/2026-06-25/00__vista8__腾讯下场做agent专用邮箱-邮件层正在变成agent基础设施新战场.md"
 ---
 
 # 腾讯下场做Agent专用邮箱：邮件层正在变成Agent基础设施新战场

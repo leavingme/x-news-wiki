@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Orange AI 周末阅读指向尼采：AI 工具狂热背后，人文反思正在静默回归"
 description: "**[一句判断]** 在 AI 工具狂热的时间点，Orange AI 转向尼采，暗示部分 AI 实践者正在经历\"意义缺失焦虑\"。  - 信息增量：AI 工具层从业者开始主动寻求哲学锚点，尼采的\"权力意志\"与\"永恒轮回\"正在被重新解读为 AI 时代的行为框架参考。 - 边界：这条内容本身不构成新闻事件，但反映的是 AI 创业者/开发者的精神状态变化。 - 传播价值：\"AI + 尼采\"的组合在中文开发"
 resource: "https://x.com/i/status/2056135414105469228"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2056135414105469228"
-created: "2026-05-17"
-updated: "2026-06-26"
-sha256: "0353a546cfb9ae4426a79fd10d3ccda1e794337df6422c3cfb308926ab0c7079"
-sources:
-  - "/sources/news/2026-05-17/00__oran_ge__orange-ai-周末阅读指向尼采-ai-工具狂热背后-人文反思正在静默回归.md"
 ---
 
 # Orange AI 周末阅读指向尼采：AI 工具狂热背后，人文反思正在静默回归

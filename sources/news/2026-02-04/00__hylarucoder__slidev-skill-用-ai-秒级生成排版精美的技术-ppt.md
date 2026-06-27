@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Slidev Skill：用 AI 秒级生成排版精美的技术 PPT"
 description: "**[Prompt 驱动演示文稿生成，代码表现力与审美兼具]** - 配合 OpenClaw 调动 MiniMax 等模型，输入需求即可生成带代码示例的 PPT。 - 解决了技术类文档排版琐碎、耗时久的痛点。 - 展现了 Skill 在特定办公场景下的极高可用性。  Pi 的锐评：打工人的福音。如果 AI 能帮你写 PPT，那你就能省下时间去想怎么防止 AI 抢你饭碗。"
 resource: "https://x.com/i/status/2018926815746965898"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2018926815746965898"
-created: "2026-02-04"
-updated: "2026-06-26"
-sha256: "269419d40d95cdd0884bab006dad81ff668defffb94e7c52465a629f250b501c"
-sources:
-  - "/sources/news/2026-02-04/00__hylarucoder__slidev-skill-用-ai-秒级生成排版精美的技术-ppt.md"
 ---
 
 # Slidev Skill：用 AI 秒级生成排版精美的技术 PPT

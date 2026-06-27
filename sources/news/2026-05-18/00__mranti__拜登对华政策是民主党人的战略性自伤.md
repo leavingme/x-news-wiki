@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "拜登对华政策是民主党人的战略性自伤"
 description: "**[一句话核心判断]**  拜登对华政策是民主党人的战略性自伤——既无助于美国竞争，又无助于国内问题，反而把\"缓和/绥靖\"话语权拱手让给川普2.0。  **信息增量：** - 政策评估维度：国内问题（未解决）+ 中美竞争（无增益）= 双输 - 意外的戏剧性：当年\"绥靖\"标签本属民主党武器，如今反被川普2.0接管  **gakki 锐评：** 这不是地缘政治分析，这是政党叙事战的败局复盘。逻辑自洽"
 resource: "https://x.com/i/status/2056266442660823070"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2056266442660823070"
-created: "2026-05-18"
-updated: "2026-06-26"
-sha256: "5725b2b68fabc0df78c9c5139f3e3de3e96c7dfa5e2c36ac80a8a56c76b4c9d6"
-sources:
-  - "/sources/news/2026-05-18/00__mranti__拜登对华政策是民主党人的战略性自伤.md"
 ---
 
 # 拜登对华政策是民主党人的战略性自伤

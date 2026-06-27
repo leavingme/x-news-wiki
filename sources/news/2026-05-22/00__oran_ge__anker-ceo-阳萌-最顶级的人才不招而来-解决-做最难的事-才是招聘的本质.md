@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Anker CEO 阳萌：最顶级的人才不招而来，解决\"做最难的事\"才是招聘的本质"
 description: "**招不到人不是 HR 的问题，是 CEO 选择做的事不够性感。**  - \"招不到最好的人不是人力总监的问题，是做的事情不够难\"——充电宝赛道天花板太低，顶级人才自然不来 - \"激进的保守主义者\"哲学：赚了 20 块再投一半，不 All in，但持续下注 - \"竞争终局是纳什均衡\"：奔驰/宝马/奥迪各守定位，没有人要灭掉谁 - 把公司当成产品来做，CEO 本质是产品经理  这段访谈的真正价值在于"
 resource: "https://x.com/i/status/2057593731239297408"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2057593731239297408"
-created: "2026-05-21"
-updated: "2026-06-26"
-sha256: "f85004dda6149f350af1eff7d1184ad031519c6c3f0a5b81e36e441fbf4d843a"
-sources:
-  - "/sources/news/2026-05-22/00__oran_ge__anker-ceo-阳萌-最顶级的人才不招而来-解决-做最难的事-才是招聘的本质.md"
 ---
 
 # Anker CEO 阳萌：最顶级的人才不招而来，解决"做最难的事"才是招聘的本质

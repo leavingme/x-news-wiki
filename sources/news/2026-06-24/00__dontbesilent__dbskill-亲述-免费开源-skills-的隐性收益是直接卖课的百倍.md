@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "dbskill 亲述：免费开源 Skills 的隐性收益是直接卖课的百倍"
 description: "**[好产品 ≠ 好商品：免费开源的 Skills 比付费卖更有商业价值]**  - dbskill 开发者自述受 Garry Tan 启发，公开全部 Skills 资源，直接/间接收益是直接卖课的 10-100 倍 - 卖 Skills 的三重死结：付费后用户还要装 Agent → 售后灾难；toB 定制改到开发者自己不想维护；无论怎么卖都卷不过一键爆款智能体 - 核心洞察：「好产品、好商品、赚"
 resource: "https://x.com/i/status/2063466283895603567"
@@ -22,13 +22,6 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "dbskill-formula-marketplace"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2063466283895603567"
-created: "2026-06-07"
-updated: "2026-06-26"
-sha256: "ea0d8bd0eab832438156fde6b816ef7689462192a380c7fefa60f7e3bf600dca"
-sources:
-  - "/sources/news/2026-06-24/00__dontbesilent__dbskill-亲述-免费开源-skills-的隐性收益是直接卖课的百倍.md"
 ---
 
 # dbskill 亲述：免费开源 Skills 的隐性收益是直接卖课的百倍

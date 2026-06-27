@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Claude Code Marketplace 生态加速：Plugin 安装标准化正在降低 Skill 分发摩擦"
 description: "**Claude Code 的 Skill/Plugin 分发机制正在从「手动复制 CLAUDE.md」进化到 Marketplace 一键安装。**  - 官方推荐方式已切换为 Marketplace 内安装 plugin，支持按项目追加到现有 CLAUDE.md - 这意味着 Skills 生态正在从「文件共享」阶段进入「应用商店」阶段，分发效率出现量级跃升 - 对开发者而言，CLAUDE.m"
 resource: "https://x.com/i/status/2051292624661909726"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2051292624661909726"
-created: "2026-05-04"
-updated: "2026-06-26"
-sha256: "3d26d933488ffa4f4cbd7e6ab1def43147719ffe3a4ddc5bd4b740047f5c8537"
-sources:
-  - "/sources/news/2026-05-04/00__xiaohu__claude-code-marketplace-生态加速-plugin-安装标准化正在降低-skill-分发摩擦.md"
 ---
 
 # Claude Code Marketplace 生态加速：Plugin 安装标准化正在降低 Skill 分发摩擦

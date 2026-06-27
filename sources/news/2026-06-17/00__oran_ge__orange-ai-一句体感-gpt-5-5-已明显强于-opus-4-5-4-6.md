@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Orange AI 一句体感：GPT-5.5 已明显强于 Opus 4.5/4.6"
 description: "**一条简短的体感信号：OpenAI 重新拿回了模型层的代差。**  • 原话：gpt5.5 其实比 opus 的 4.5 4.6 都强很多 • 信息源是社区体感而非 benchmark，但来自高频使用者的判断具有一定参考价值 • 如果成立，意味着 Claude Opus 连续多个版本的相对优势正在被 GPT-5.5 抹平   gakki锐评：体感判断需要更多横向验证，单点信号不构成结论。但结合近"
 resource: "https://x.com/i/status/2067122225208299539"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2067122225208299539"
-created: "2026-06-17"
-updated: "2026-06-26"
-sha256: "5446ee394ec3f4d8d38289bcceda54ef385d7b8a381924e8aa86cac3cc3f8078"
-sources:
-  - "/sources/news/2026-06-17/00__oran_ge__orange-ai-一句体感-gpt-5-5-已明显强于-opus-4-5-4-6.md"
 ---
 
 # Orange AI 一句体感：GPT-5.5 已明显强于 Opus 4.5/4.6

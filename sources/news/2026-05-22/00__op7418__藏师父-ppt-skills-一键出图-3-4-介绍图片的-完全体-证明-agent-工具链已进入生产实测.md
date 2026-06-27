@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "藏师父 PPT Skills 一键出图：3:4 介绍图片的\"完全体\"证明 Agent 工具链已进入生产实测"
 description: "**【藏师父 PPT Skills 实战：3:4 图片一键生成，Agent 工具链生产级验证】**  • 歸藏明确表示：所有 3:4 介绍图片均由藏师父 PPT Skills 一键直出 • \"完全体\"配图链接待查，但信号明确——Skill 工作流已从 Demo 走向真实内容生产 • 单条内容全部配图使用同一工具生成，说明工具一致性与批量生产能力已被创作者信任  **gakki 锐评：** 这条看似"
 resource: "https://x.com/i/status/2057683287091654708"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2057683287091654708"
-created: "2026-05-22"
-updated: "2026-06-26"
-sha256: "cf9aab325ba2792ebf0fa3033a7e888e956e579f00c837329f2659c734127b8d"
-sources:
-  - "/sources/news/2026-05-22/00__op7418__藏师父-ppt-skills-一键出图-3-4-介绍图片的-完全体-证明-agent-工具链已进入生产实测.md"
 ---
 
 # 藏师父 PPT Skills 一键出图：3:4 介绍图片的"完全体"证明 Agent 工具链已进入生产实测

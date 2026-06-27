@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Chrome 146 DevTools MCP：浏览器Agent化的「官方盖章」与隐藏API风险"
 description: "**浏览器不再是Agent的「屏幕」，而是「操控对象」** • Chrome 146 内置 MCP 让AI助手可直接读取页面内容、模拟用户操作，甚至抓取隐藏API实现自动化发布 • 用户实测案例：Claude Code 通过观察人工操作学习，反向破解网站后台接口完成自动发文 • 技术意义：浏览器正式成为 Agent 的「操控对象」，而非被动浏览的「展示层」 • 安全边界：隐藏API暴露风险骤增，网"
 resource: "https://x.com/i/status/2033537096078815579"
@@ -22,13 +22,6 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "agent-browser-token-efficiency"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2033537096078815579"
-created: "2026-03-16"
-updated: "2026-06-26"
-sha256: "847a508ff18ce9a3a44b1ea47d000663deccfb43be4cbc17e03181bcca5418aa"
-sources:
-  - "/sources/highlights/2026-03-17/00__xiaohu__chrome-146-devtools-mcp-浏览器agent化的-官方盖章-与隐藏api风险.md"
 ---
 
 # Chrome 146 DevTools MCP：浏览器Agent化的「官方盖章」与隐藏API风险

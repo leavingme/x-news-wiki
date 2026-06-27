@@ -1,24 +1,17 @@
 ---
-type: "entity"
+type: "Author"
 title: "axiaisacat (@axiaisacat)"
 description: "X/Twitter 作者 @axiaisacat。共收录 2 条 AI 精选推文。"
 tags:
   - "x-news"
   - "author"
   - "author:axiaisacat"
-timestamp: "2026-06-26T11:53:36.971Z"
+timestamp: "2026-06-27T08:40:40.187Z"
 x_handle: "axiaisacat"
 x_author_name: "axiaisacat"
 x_tweet_count: 2
 x_first_seen: "2026-04-02T00:43:17.701Z"
 x_last_seen: "2026-04-15T00:44:45.844Z"
-type_okf: "Author"
-created: "2026-04-02"
-updated: "2026-06-26"
-sha256: "03d15f3bcae3c13e46fac1e3811db047af735070532cb72f8c534f991fc9737b"
-sources:
-  - "/sources/news/2026-04-02/00__axiaisacat__rtk-用-rust-二进制解决-llm-的上下文-垃圾过载.md"
-  - "/sources/news/2026-04-15/00__axiaisacat__awesome-design-md-把设计语言变成ai可读的design-md-等于给ai装上了审美共识.md"
 ---
 
 # axiaisacat (@axiaisacat)

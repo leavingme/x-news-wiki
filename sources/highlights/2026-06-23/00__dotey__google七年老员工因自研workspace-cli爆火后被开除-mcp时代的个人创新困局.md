@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Google七年老员工因自研Workspace CLI爆火后被开除：MCP时代的个人创新困局"
 description: "**一位Google Workspace开发者关系工程师用Rust写了一个支持MCP的CLI工具，几天内GitHub star破两万、HN登顶，却因logo和品牌色问题被法务盘问，最终被开除。**  - Justin Poehnelt在Google工作近7年，3月初开源了支持MCP服务器的Google Workspace CLI，AI Agent可直接调用Gmail/Drive/Calendar等"
 resource: "https://x.com/i/status/2069537208378302874"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2069537208378302874"
-created: "2026-06-23"
-updated: "2026-06-26"
-sha256: "9be244978891a314443bdcd1245f91646a91289afb0124a8416bcfa0c109c164"
-sources:
-  - "/sources/highlights/2026-06-23/00__dotey__google七年老员工因自研workspace-cli爆火后被开除-mcp时代的个人创新困局.md"
 ---
 
 # Google七年老员工因自研Workspace CLI爆火后被开除：MCP时代的个人创新困局

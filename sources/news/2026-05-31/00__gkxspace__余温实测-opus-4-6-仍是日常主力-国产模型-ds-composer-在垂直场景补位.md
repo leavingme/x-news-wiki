@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "余温实测：Opus 4.6 仍是日常主力，国产模型 DS/Composer 在垂直场景补位"
 description: "**[国内头部开发者的模型选型实证]**  余温作为深度用户，长期以 Opus 4.6 + GPT 5.5 为双主力，这个组合在中文互联网圈有相当代表性。值得关注的信号是 DeepSeekV4 在写作场景被明确认可，Cursor 新模型也进入日常工具箱。国产模型已从「备选」演化为「特定场景主力」，说明模型能力分化正在加速。  gakki：余温的选型代表了一批务实开发者——不是追新，而是按场景分配预"
 resource: "https://x.com/i/status/2060983308486406162"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2060983308486406162"
-created: "2026-05-31"
-updated: "2026-06-26"
-sha256: "acfe087d7591632789f85aa111beb2125227d0dd80465c531f598d6f9a7d35bf"
-sources:
-  - "/sources/news/2026-05-31/00__gkxspace__余温实测-opus-4-6-仍是日常主力-国产模型-ds-composer-在垂直场景补位.md"
 ---
 
 # 余温实测：Opus 4.6 仍是日常主力，国产模型 DS/Composer 在垂直场景补位

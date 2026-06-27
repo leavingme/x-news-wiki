@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "yetone 怀疑'不是 Claude 生成的'：当模型输出跨过 AI 味恐怖谷，人机边界开始模糊"
 description: "**[Claude 输出质量已达到让资深从业者'不相信是 AI 生成'的辨识翻转点]**  - yetone（OpenClaw 作者）在回复中明确表达对某段 Claude 输出的不信任，暗示其质量已摆脱常见 AI 生成痕迹 - 这一反应与近期 Fable 5 设计争议、宝玉实测 Fable 5 设计能力反不如 Opus 4.8 的结论形成有趣对照——能力在某些维度上'过强'到反成辨识问题 - 人机"
 resource: "https://x.com/i/status/2065729999672688848"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2065729999672688848"
-created: "2026-06-13"
-updated: "2026-06-26"
-sha256: "2c44bee0ca9e07457b4008bb5e134f6813eea47d769c8dabc46ee22f0170b2d8"
-sources:
-  - "/sources/news/2026-06-13/00__yetone__yetone-怀疑-不是-claude-生成的-当模型输出跨过-ai-味恐怖谷-人机边界开始模糊.md"
 ---
 
 # yetone 怀疑'不是 Claude 生成的'：当模型输出跨过 AI 味恐怖谷，人机边界开始模糊

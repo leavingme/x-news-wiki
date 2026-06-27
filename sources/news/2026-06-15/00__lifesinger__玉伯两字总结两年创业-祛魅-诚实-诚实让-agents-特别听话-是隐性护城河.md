@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "玉伯两字总结两年创业：祛魅+诚实，\"诚实让 agents 特别听话\"是隐性护城河"
 description: "**玉伯给出 AI 创业方法论的极简版本：祛魅是第一性原理的起点，诚实是 agent 协作的隐性纪律。**  - **祛魅**：第一性原理是马斯克五步工作法的第一步，回归本源——\"存在的不一定会继续存在\"。这是对抗投资人和同行噪音的武器。 - **诚实的三层价值**：看清楚内心想做什么、让团队结构特别简单、**让 agents 特别听话**。 - **玉伯把\"诚实\"延伸到 agent 协作层**—"
 resource: "https://x.com/i/status/2066339691402813491"
@@ -22,13 +22,6 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "ai-business-cognition-reconstruction"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2066339691402813491"
-created: "2026-06-15"
-updated: "2026-06-26"
-sha256: "4277fa2b8a589154a6aef46e447138614fc76109ddef6d08e47f9a9274e24803"
-sources:
-  - "/sources/news/2026-06-15/00__lifesinger__玉伯两字总结两年创业-祛魅-诚实-诚实让-agents-特别听话-是隐性护城河.md"
 ---
 
 # 玉伯两字总结两年创业：祛魅+诚实，"诚实让 agents 特别听话"是隐性护城河

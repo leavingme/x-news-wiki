@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Anthropic反欺诈升级：余温用\"住宅IP+独立VPS中转\"三层反制"
 description: "**Anthropic反欺诈/KYC体系已升级到\"封号工厂\"模式，逼出住宅IP+独立VPS+全机不离线的三层反制方案。**  - 余温是被封多次的重度用户，本次升级：住宅IP VPS + 自建小中转 + 订阅使用全机闭环 - 信号：Anthropic已能识别\"传统机房IP+异常订阅行为\"组合，单纯换IP无效 - 边界判断：用户侧对抗成本从\"换节点\"升级到\"重构整套使用环境\" - 行业含义：地区管控"
 resource: "https://x.com/i/status/2065069101706355063"
@@ -22,13 +22,6 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "anthropic-api-control"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2065069101706355063"
-created: "2026-06-11"
-updated: "2026-06-26"
-sha256: "765e884aac912265fcd55fc9cde6ff1a49f73abd8115343e4118b09bed87f281"
-sources:
-  - "/sources/news/2026-06-11/00__gkxspace__anthropic反欺诈升级-余温用-住宅ip-独立vps中转-三层反制.md"
 ---
 
 # Anthropic反欺诈升级：余温用"住宅IP+独立VPS中转"三层反制

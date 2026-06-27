@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "苹果的「躺赚」AI战略：零芯片投入，一年收割9亿美元App Store税"
 description: "**[核心判断]：苹果用「平台税」而非「技术投入」收割AI红利，揭示了生成式AI价值链中「入口层」对「算力层」的结构性优势。**  • 数据惊人：2025年App Store从生成式AI应用收取近9亿美元费用，其中ChatGPT占75%，苹果不参与任何模型训练却拿走30%流水 • 战略错位：竞争对手（微软/OpenAI/xAI）投入数百亿美元建数据中心，苹果却靠iPhone用户数据+自研芯片推进设"
 resource: "https://x.com/i/status/2034512573761257942"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2034512573761257942"
-created: "2026-03-19"
-updated: "2026-06-26"
-sha256: "f40233440e06435cf139a52ced3a25ddc312e5cc1325a87d37e740c10ef4584b"
-sources:
-  - "/sources/highlights/2026-03-19/00__fxtrader__苹果的-躺赚-ai战略-零芯片投入-一年收割9亿美元app-store税.md"
 ---
 
 # 苹果的「躺赚」AI战略：零芯片投入，一年收割9亿美元App Store税

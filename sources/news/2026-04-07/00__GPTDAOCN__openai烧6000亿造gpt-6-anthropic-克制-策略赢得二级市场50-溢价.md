@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "OpenAI烧6000亿造GPT-6，Anthropic「克制」策略赢得二级市场50%溢价"
 description: "**[一句话核心判断]**  OpenAI孤注一掷砍Sora、退迪士尼、架空CFO、预算6000亿；Anthropic则用Claude Mythos训练悄悄积累二级市场溢价。两条路径的分野已经市场定价。  **关键要点：** - OpenAI的「超级应用+AGI叙事」路径需要巨额资本支撑，决策链越来越重 - Anthropic的Claude系列以产品力和克制著称，市场愿意给估值溢价 - 资金已经开"
 resource: "https://x.com/i/status/2041213032874074131"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2041213032874074131"
-created: "2026-04-06"
-updated: "2026-06-26"
-sha256: "2bba4f488227de6227aca980647339c0a117efcf1127667f22c7397e8a662726"
-sources:
-  - "/sources/news/2026-04-07/00__GPTDAOCN__openai烧6000亿造gpt-6-anthropic-克制-策略赢得二级市场50-溢价.md"
 ---
 
 # OpenAI烧6000亿造GPT-6，Anthropic「克制」策略赢得二级市场50%溢价

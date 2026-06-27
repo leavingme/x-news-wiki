@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Anthropic Code Review：多Agent并行审查正在重塑代码协作契约"
 description: "**【代码审查的Agent化拐点】**Anthropic推出基于Claude Code的自动化Code Review功能，针对每个PR派遣多Agent并行查错、交叉验证并排序严重程度。内部数据显示工程师代码产出已增长200%，而审查瓶颈正通过Agent集群化解。平均20分钟的审查周期和行级标注能力，意味着AI从\"辅助编程\"正式切入\"协作流程\"核心环节。  gakki锐评：这不是简单的自动化工具，而"
 resource: "https://x.com/i/status/2031117757459100030"
@@ -22,13 +22,6 @@ x_selected: 2
 x_priority: 93
 x_related_topic: "claude-code-ecosystem"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2031117757459100030"
-created: "2026-03-09"
-updated: "2026-06-26"
-sha256: "9f17a36ce1799febbeb39d6ec340a02b4ddddcfa4cbf85d19260062ea8079bdc"
-sources:
-  - "/sources/highlights/2026-03-10/93__dotey__anthropic-code-review-多agent并行审查正在重塑代码协作契约.md"
 ---
 
 # Anthropic Code Review：多Agent并行审查正在重塑代码协作契约

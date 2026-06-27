@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Bloome 做「Agent 共享办公室」：借别人的顶级脑子比自己调教更高效"
 description: "**[多 Agent 群聊是噪音，单 Agent 借用才是生产力——Bloome 把调教好的 Agent 当「专家顾问」出租。]**  - 核心洞察：多人同时 @AI 会产生复读噪音，真正有效的是借用立场鲜明的单体 Agent - 平台支持搜索他人调教好的「马斯克 Agent」「张小龙 Agent」，直接调用决策视角 - 用户也可以分享自己调教的 Agent，形成 Skill 市集化的 Agent"
 resource: "https://x.com/i/status/2051879397536223354"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2051879397536223354"
-created: "2026-05-06"
-updated: "2026-06-26"
-sha256: "8f839f2d8cb6818e6abcb5db62e2d49c9a8a906e0ab0600a427a92bf8c50c912"
-sources:
-  - "/sources/news/2026-05-06/00__Zesee__bloome-做-agent-共享办公室-借别人的顶级脑子比自己调教更高效.md"
 ---
 
 # Bloome 做「Agent 共享办公室」：借别人的顶级脑子比自己调教更高效

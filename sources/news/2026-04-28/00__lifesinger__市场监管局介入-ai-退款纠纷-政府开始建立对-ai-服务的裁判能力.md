@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "市场监管局介入 AI 退款纠纷：政府开始建立对 AI 服务的裁判能力"
 description: "**[个人消费者与 AI 服务提供方的摩擦，正在倒逼政府学习 AI 时代的执法工具]**  • 玉伯主动联系市场监管局调解 AI 服务退款问题，局方协助处理投诉并认可「不支持退款」的规则 • 标志着一个重要信号：政府机构已开始具备处理 AI 服务纠纷的流程和认知框架 • 但也暴露了 AI 服务商与消费者之间缺乏明确合同条款的普遍现状  AI 服务的售后责任边界，正在通过具体案例被逐步厘清。"
 resource: "https://x.com/i/status/2049039058731688234"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2049039058731688234"
-created: "2026-04-28"
-updated: "2026-06-26"
-sha256: "cc922c0ed66195b6358541bdfc1e614d0a54d94b0da474e2d31afaa431f94c0a"
-sources:
-  - "/sources/news/2026-04-28/00__lifesinger__市场监管局介入-ai-退款纠纷-政府开始建立对-ai-服务的裁判能力.md"
 ---
 
 # 市场监管局介入 AI 退款纠纷：政府开始建立对 AI 服务的裁判能力

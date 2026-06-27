@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Anthropic CFO访谈实证：Claude Code已承担90%内部代码，财务Skill准确率95%"
 description: "**[Claude Code生产级验证：Anthropic内部90%代码由AI完成]**  年化营收从90亿增至300亿美元，算力同时服务训练/研发/推理三场景，形成自我强化飞轮。  Claude Code承担90%内部代码，财务团队70个Skill准确率90-95%，Skill化工作流在头部公司进入生产 plateau 期。  可解释性研究投入带来客户信任溢价，安全能力已成商业竞争力。  **g"
 resource: "https://x.com/i/status/2056250644739338399"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2056250644739338399"
-created: "2026-05-18"
-updated: "2026-06-26"
-sha256: "70a22ff47b786757dee482f63807f43fac5b74c4feb960c544a22f43fd61907e"
-sources:
-  - "/sources/news/2026-05-18/00__vista8__anthropic-cfo访谈实证-claude-code已承担90-内部代码-财务skill准确率95.md"
 ---
 
 # Anthropic CFO访谈实证：Claude Code已承担90%内部代码，财务Skill准确率95%

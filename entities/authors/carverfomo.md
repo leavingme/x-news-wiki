@@ -1,23 +1,17 @@
 ---
-type: "entity"
+type: "Author"
 title: "Carver (@carverfomo)"
 description: "X/Twitter 作者 @carverfomo。共收录 1 条 AI 精选推文。"
 tags:
   - "x-news"
   - "author"
   - "author:carverfomo"
-timestamp: "2026-06-26T11:53:36.963Z"
+timestamp: "2026-06-27T08:40:40.171Z"
 x_handle: "carverfomo"
 x_author_name: "Carver"
 x_tweet_count: 1
 x_first_seen: "2026-03-18T16:28:00.997Z"
 x_last_seen: "2026-03-18T16:28:00.997Z"
-type_okf: "Author"
-created: "2026-03-18"
-updated: "2026-06-26"
-sha256: "2c835ce06723132c83a7369578e2942da2e5d9216c7b2d363a0f11ef471dd21e"
-sources:
-  - "/sources/highlights/2026-03-18/00__carverfomo__polymarket-267-万美元套利案-中国博士生的-预测市场印钞机.md"
 ---
 
 # Carver (@carverfomo)

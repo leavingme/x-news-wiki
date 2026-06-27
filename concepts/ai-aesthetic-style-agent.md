@@ -1,27 +1,22 @@
 ---
-type: "concept"
-title: "ai-aesthetic-style-agent"
-description: "跨日主题 \"ai-aesthetic-style-agent\"，共 3 条相关精选推文。"
+type: "Concept"
+title: "AI 审美风格Agent"
+description: "跨日主题 \"AI 审美风格Agent\" (ai-aesthetic-style-agent)，共 3 条相关精选推文。"
 tags:
   - "x-news"
   - "concept"
   - "topic:ai-aesthetic-style-agent"
-timestamp: "2026-06-26T11:53:37.017Z"
+timestamp: "2026-06-27T08:40:42.860Z"
 x_topic_slug: "ai-aesthetic-style-agent"
 x_tweet_count: 3
 x_first_seen: "2026-05-01T22:17:34.414Z"
 x_last_seen: "2026-06-06T01:18:27.247Z"
-type_okf: "Concept"
-created: "2026-05-01"
-updated: "2026-06-26"
-sha256: "546e8426d4b38062a8f7183d26514a7ec51312dd5a9b518fe04a159aa899eef0"
-sources:
-  - "/sources/news/2026-05-01/00__invideoOfficial__invideo让ai-agent-读完-david-fincher电影学院并拍出短片-风格迁移正在工业化.md"
-  - "/sources/news/2026-05-08/00__oran_ge__公众号配图提示词工程-从-随便生成-到-风格配方化-的内容生产流水线.md"
-  - "/sources/news/2026-06-06/00__oran_ge__橘座vol-2聚焦归藏-ai审美与情感代理的产品化探索.md"
+x_cn_title_source: "dict"
 ---
 
-# 主题: ai-aesthetic-style-agent
+# 主题: AI 审美风格Agent
+
+> slug: `ai-aesthetic-style-agent`
 
 本主题下共 **3** 条精选推文。
 

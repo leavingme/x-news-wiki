@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "苹果官方 App 泄露 Claude.md：大厂内部 AI 工具链的「身体诚实」时刻"
 description: "**苹果在 Apple Support App v5.13 的发布包里把 Claude.md 一起发出来了。**  - 不是外部开发者，是苹果自己的工程团队在用 Claude Code 的工作流配置文件 - Claude.md 是 Claude Code 的项目级指令文件，泄露意味着苹果内部已将 Claude 深度集成到开发流程 - 继「宝玉身体诚实」之后，这是大厂层面最硬的 Claude 渗透证"
 resource: "https://x.com/i/status/2050245815852056837"
@@ -22,13 +22,6 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "claude-code-ecosystem"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2050245815852056837"
-created: "2026-05-01"
-updated: "2026-06-26"
-sha256: "3ad0b91251e46088156dda0e5a4e584df385b2d6b21a2596c210ce9dbf39aa21"
-sources:
-  - "/sources/highlights/2026-05-01/00__dotey__苹果官方-app-泄露-claude-md-大厂内部-ai-工具链的-身体诚实-时刻.md"
 ---
 
 # 苹果官方 App 泄露 Claude.md：大厂内部 AI 工具链的「身体诚实」时刻

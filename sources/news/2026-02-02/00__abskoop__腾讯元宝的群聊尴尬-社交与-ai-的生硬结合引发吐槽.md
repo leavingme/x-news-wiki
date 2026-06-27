@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "腾讯元宝的群聊尴尬：社交与 AI 的生硬结合引发吐槽"
 description: "**[大厂 AI 产品在寻找社交应用场景时的“黔驴技穷”]** * 员工吐槽元宝强制拉 AI 进入好友聊天的操作，认为缺乏实际痛点场景。 * 群聊中使用 ChatGPT 的体验尚未被广泛验证为良性社交资产。 * 反映出国内大厂在 AI 应用层存在一定的焦虑感与路径依赖。  Pi 的锐评：AI 像是一个在舞会上拼命找话题的社恐，有些场景真的不需要它来“暖场”。"
 resource: "https://x.com/i/status/2018364408112742800"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2018364408112742800"
-created: "2026-02-02"
-updated: "2026-06-26"
-sha256: "18ff780adf6100d55e8caeffb0267cebefaf759f2f8f5fabd5a97889c3d5539f"
-sources:
-  - "/sources/news/2026-02-02/00__abskoop__腾讯元宝的群聊尴尬-社交与-ai-的生硬结合引发吐槽.md"
 ---
 
 # 腾讯元宝的群聊尴尬：社交与 AI 的生硬结合引发吐槽

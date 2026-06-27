@@ -1,23 +1,17 @@
 ---
-type: "entity"
+type: "Author"
 title: "Lisan al Gaib (@scaling01)"
 description: "X/Twitter 作者 @scaling01。共收录 1 条 AI 精选推文。"
 tags:
   - "x-news"
   - "author"
   - "author:scaling01"
-timestamp: "2026-06-26T11:53:36.994Z"
+timestamp: "2026-06-27T08:40:40.208Z"
 x_handle: "scaling01"
 x_author_name: "Lisan al Gaib"
 x_tweet_count: 1
 x_first_seen: "2026-05-02T10:18:12.970Z"
 x_last_seen: "2026-05-02T10:18:12.970Z"
-type_okf: "Author"
-created: "2026-05-02"
-updated: "2026-06-26"
-sha256: "503bffcfc18ea6f2b168cb183a67bd401991cbf87d9abc23a11362977c336a2a"
-sources:
-  - "/sources/news/2026-05-02/00__scaling01__deepseek-v4-实测数据曝光-国产模型与美国前沿差距约-8-个月-且在扩大.md"
 ---
 
 # Lisan al Gaib (@scaling01)

@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "DeepSeek V4 4月发布前的组织震荡：核心作者郭达雅离职，期权不确定性动摇团队"
 description: "**[梁文锋正在给公司估值，V4 或成关键转折点]**  晚点 LatePost 深度报道揭示 DeepSeek 关键节点：R1 核心作者郭达雅确认离职可能入职大厂；此前已被腾讯挖走王炳宣、OCR 核心魏浩然、多模态阮翀。猎头开出 2-3 倍薪资配合 8 位数总包，而 DeepSeek 期权没有明确标价。梁文锋正着手给公司估值以给团队确定性。  V4 小参数版已给开源社区适配，大参数版推迟至 4 "
 resource: "https://x.com/i/status/2039770487832641595"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2039770487832641595"
-created: "2026-04-02"
-updated: "2026-06-26"
-sha256: "2c9ed139a16509d1f9d80b20ffa18dfc18a9909520ee86e9f33b29db24067ade"
-sources:
-  - "/sources/highlights/2026-04-02/00__dotey__deepseek-v4-4月发布前的组织震荡-核心作者郭达雅离职-期权不确定性动摇团队.md"
 ---
 
 # DeepSeek V4 4月发布前的组织震荡：核心作者郭达雅离职，期权不确定性动摇团队

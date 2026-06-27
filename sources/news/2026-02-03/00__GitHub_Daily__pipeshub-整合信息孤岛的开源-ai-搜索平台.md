@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "PipesHub：整合信息孤岛的开源 AI 搜索平台"
 description: "**[通过知识图谱与自然语言连接分散的企业数据]** * 解决 Google Drive、Slack、Jira 等应用间数据碎片化问题，实现一站式检索。 * 基于知识图谱技术，提供可追溯、可解释的搜索结果并标注来源。 * 支持 Docker 部署，涵盖 27 种常用应用接入，并遵循源系统权限控制。  Pi 的锐评：企业级 AI 的刚需不是写诗，而是“别让我再翻半小时 Slack 找那个文档了”。"
 resource: "https://x.com/i/status/2018625706369122391"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2018625706369122391"
-created: "2026-02-03"
-updated: "2026-06-26"
-sha256: "96819d6105fa6de9be2bd9656c6b00c867ef8db433aff64b08c5e224edbe983e"
-sources:
-  - "/sources/news/2026-02-03/00__GitHub_Daily__pipeshub-整合信息孤岛的开源-ai-搜索平台.md"
 ---
 
 # PipesHub：整合信息孤岛的开源 AI 搜索平台

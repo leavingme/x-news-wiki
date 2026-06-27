@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Google智能眼镜演示\"手机放兜里\"场景：Gemini在最后确认节点才介入"
 description: "**一句话核心判断** 谷歌展示智能眼镜+Gemini的点咖啡场景——全程无需掏手机，眼镜只在最终确认时提示，Gemini 承担中间所有决策链路，这是真正意义上的\"环境AI\"交互范式。  **要点** - 从\"手机优先\"切换到\"眼镜确认\"：交互节点大幅压缩 - Gemini 作为后台大脑处理点单、备注、加减等全流程 - 眼镜只做两件事：唤醒和最终确认，其他时间静默  **gakki锐评** 这个 "
 resource: "https://x.com/i/status/2056889452929446208"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2056889452929446208"
-created: "2026-05-20"
-updated: "2026-06-26"
-sha256: "a07e5c85fd46b6b98aa43816e1bc5fa4896dee70b53b9c2d5af6eb916ce2bace"
-sources:
-  - "/sources/news/2026-05-20/00__xiaohu__google智能眼镜演示-手机放兜里-场景-gemini在最后确认节点才介入.md"
 ---
 
 # Google智能眼镜演示"手机放兜里"场景：Gemini在最后确认节点才介入

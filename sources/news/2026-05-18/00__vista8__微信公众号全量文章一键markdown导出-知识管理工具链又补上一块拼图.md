@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "微信公众号全量文章一键Markdown导出：知识管理工具链又补上一块拼图"
 description: "**一句话核心判断：微信生态内容正在成为「可管理的知识资产」，但交互设计瑕疵说明工具化仍处于早期阶段。**  - gengdaJ的工具支持微信扫码登录后抓取任意公众号全量文章，导出支持Markdown等多种格式 - 向阳乔木测试后发现交互设计「稍微有点诡异」，但流程可行 - 信号：微信作为中文内容最大沉淀池，其内容资产化的需求真实存在，但解决方案成熟度仍不足  这是DevTools领域的务实工具，"
 resource: "https://x.com/i/status/2056269639852937485"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2056269639852937485"
-created: "2026-05-18"
-updated: "2026-06-26"
-sha256: "9f9a36c442a4da72e76d410fe9fd75c2b904452dcb0459ccebaf075b193663fa"
-sources:
-  - "/sources/news/2026-05-18/00__vista8__微信公众号全量文章一键markdown导出-知识管理工具链又补上一块拼图.md"
 ---
 
 # 微信公众号全量文章一键Markdown导出：知识管理工具链又补上一块拼图

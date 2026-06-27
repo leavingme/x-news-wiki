@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "教廷公关失误反而成就独立叙事：encyclical与Anthropic橙皮书存在系统性冲突"
 description: "**【一句话核心判断】** Michael Anti 还原了一个被公关叙事掩盖的事实：教宗通谕的 AI 论述是独立判断而非 Anthropic 背书，两者在技术垄断反对、利润偶像批判上存在根本分歧，说明梵蒂冈在 AI 治理上保持了主体性。  **信息增量：** - \"上了 Anthropic 公关的当\"：指教廷与 Anthropic 团队的接触被外界解读为背书，但文本实际构成批判 - 教谕反对技术"
 resource: "https://x.com/i/status/2059098437191410024"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2059098437191410024"
-created: "2026-05-26"
-updated: "2026-06-26"
-sha256: "b351ae607e1f6b15a7962acebe05740d6d2339a5730364dc99dc695da9659a51"
-sources:
-  - "/sources/news/2026-05-26/00__mranti__教廷公关失误反而成就独立叙事-encyclical与anthropic橙皮书存在系统性冲突.md"
 ---
 
 # 教廷公关失误反而成就独立叙事：encyclical与Anthropic橙皮书存在系统性冲突

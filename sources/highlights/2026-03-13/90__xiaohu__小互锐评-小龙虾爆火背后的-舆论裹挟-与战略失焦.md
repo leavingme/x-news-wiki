@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "小互锐评：小龙虾爆火背后的「舆论裹挟」与战略失焦"
 description: "**中美AI时差从十几小时扩大到几十倍，中国企业被舆论裹挟前进。** • 中国社会公众判断能力弱化，舆论主导技术采纳节奏 • 中国企业缺乏独立战略定力，呈现「一窝蜂」式跟风 • 小龙虾（OpenClaw/Lobster等Agent工具）成为这一症候的集中体现  --- **Gakki锐评**：一针见血。当「养虾」成为社交货币而非业务需求，技术采纳就变成了集体表演。真正的Agent落地应该沉默地解决"
 resource: "https://x.com/i/status/2032365997576089897"
@@ -22,13 +22,6 @@ x_selected: 2
 x_priority: 90
 x_related_topic: "openclaw-ecosystem-critique"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2032365997576089897"
-created: "2026-03-13"
-updated: "2026-06-26"
-sha256: "49de5081eeeb5956d34a49cdcc9cab904e4597c94a751f9b2ad35e66ab65cd1e"
-sources:
-  - "/sources/highlights/2026-03-13/90__xiaohu__小互锐评-小龙虾爆火背后的-舆论裹挟-与战略失焦.md"
 ---
 
 # 小互锐评：小龙虾爆火背后的「舆论裹挟」与战略失焦

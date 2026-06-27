@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "大学生2天手搓Claude Code：7条生产级Agent工程铁律"
 description: "**[生产级Agent的壁垒不在API调用，而在脚手架工程（Harness Engineering）]**  • 极简原则：纯Node.js原生，零框架依赖 • 成本控制：提示词分层+官方缓存，API费用断崖式下降 • 安全防线：读取直过，修改/删除必须人工确认或轻量模型预审 • 记忆策略：拒绝向量数据库，长期记忆直接用.md文件  开源社区正在拆解Anthropic和OpenAI的工程护城河，这"
 resource: "https://x.com/i/status/2037904284587598156"
@@ -22,13 +22,6 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "agent-minimalist-implementation"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2037904284587598156"
-created: "2026-03-28"
-updated: "2026-06-26"
-sha256: "91571cf2b93ea0487a07cfe75c5e7be19da1930e494c965adc1cb785ad111fb8"
-sources:
-  - "/sources/highlights/2026-03-28/00__aehyok__大学生2天手搓claude-code-7条生产级agent工程铁律.md"
 ---
 
 # 大学生2天手搓Claude Code：7条生产级Agent工程铁律

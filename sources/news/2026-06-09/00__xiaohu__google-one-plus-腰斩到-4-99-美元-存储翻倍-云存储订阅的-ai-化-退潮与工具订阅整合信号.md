@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Google One Plus 腰斩到 4.99 美元、存储翻倍：云存储订阅的「AI 化」退潮与工具订阅整合信号"
 description: "**Google One Plus 从 9.99 美元腰斩到 4.99 美元、存储从 200GB 翻倍到 400GB，标志着 Google 在 AI 订阅分层上的「让路」动作。**  - 工具型订阅（云存储、办公套件）开始被 AI Premium 套餐吸收：Google 的策略是把 AI 价值注入更高价的 AI Premium 计划，让基础云存储回到「引流层」。 - 存储 + AI 算力价格倒挂："
 resource: "https://x.com/i/status/2064160975406903691"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2064160975406903691"
-created: "2026-06-09"
-updated: "2026-06-26"
-sha256: "3d41180518205d61bee775cac22104fa2dfb82f3d15295813bb7e8ccf758f7ee"
-sources:
-  - "/sources/news/2026-06-09/00__xiaohu__google-one-plus-腰斩到-4-99-美元-存储翻倍-云存储订阅的-ai-化-退潮与工具订阅整合信号.md"
 ---
 
 # Google One Plus 腰斩到 4.99 美元、存储翻倍：云存储订阅的「AI 化」退潮与工具订阅整合信号

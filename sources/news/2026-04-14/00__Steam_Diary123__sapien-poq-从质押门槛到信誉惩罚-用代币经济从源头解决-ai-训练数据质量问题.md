@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Sapien PoQ：从质押门槛到信誉惩罚，用代币经济从源头解决 AI 训练数据质量问题"
 description: "**[一句话核心判断]** Sapien 提出「品质证明 PoQ」，不追求数据量，而是通过质押+质量判定+惩罚机制从源头构建数据可信度——做空数据羊毛党，做多高质量贡献者。  **要点：** - 核心逻辑：AI 生成内容胡说八道，本质是吃进了未验证的低质数据 - PoQ 四环节：质押（任务级别门槛）→ 提交 → 质量判定 → 惩罚/奖励倍增 - 思路本质：用经济博弈替代人工审核，让「数据可信度」可"
 resource: "https://x.com/i/status/1948995316780560681"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/1948995316780560681"
-created: "2025-07-26"
-updated: "2026-06-26"
-sha256: "dbe2f9e839a76c4fcd8b4d9462345be7133a72357abc188b32e1332eee76e371"
-sources:
-  - "/sources/news/2026-04-14/00__Steam_Diary123__sapien-poq-从质押门槛到信誉惩罚-用代币经济从源头解决-ai-训练数据质量问题.md"
 ---
 
 # Sapien PoQ：从质押门槛到信誉惩罚，用代币经济从源头解决 AI 训练数据质量问题

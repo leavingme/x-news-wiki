@@ -1,23 +1,17 @@
 ---
-type: "entity"
+type: "Author"
 title: "Crypto攻城狮 (@gcsbtc)"
 description: "X/Twitter 作者 @gcsbtc。共收录 1 条 AI 精选推文。"
 tags:
   - "x-news"
   - "author"
   - "author:gcsbtc"
-timestamp: "2026-06-26T11:53:36.958Z"
+timestamp: "2026-06-27T08:40:40.166Z"
 x_handle: "gcsbtc"
 x_author_name: "Crypto攻城狮"
 x_tweet_count: 1
 x_first_seen: "2026-03-14T00:42:37.790Z"
 x_last_seen: "2026-03-14T00:42:37.790Z"
-type_okf: "Author"
-created: "2026-03-14"
-updated: "2026-06-26"
-sha256: "f1b32d015b14ff15b26e864443f4750ec57e70103162dabc8bb33441058fd12d"
-sources:
-  - "/sources/news/2026-03-14/82__gcsbtc__币安-小龙虾-大赛-大厂agent入口战争进入白刃阶段.md"
 ---
 
 # Crypto攻城狮 (@gcsbtc)

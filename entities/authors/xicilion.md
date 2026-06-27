@@ -1,23 +1,17 @@
 ---
-type: "entity"
+type: "Author"
 title: "响马 (@xicilion)"
 description: "X/Twitter 作者 @xicilion。共收录 1 条 AI 精选推文。"
 tags:
   - "x-news"
   - "author"
   - "author:xicilion"
-timestamp: "2026-06-26T11:53:36.963Z"
+timestamp: "2026-06-27T08:40:40.172Z"
 x_handle: "xicilion"
 x_author_name: "响马"
 x_tweet_count: 1
 x_first_seen: "2026-03-21T09:05:18.890Z"
 x_last_seen: "2026-03-21T09:05:18.890Z"
-type_okf: "Author"
-created: "2026-03-21"
-updated: "2026-06-26"
-sha256: "4b5d1e9fed6ace841c26deab376d0368ce260dadc2dd1d4d48131cf21f79b775"
-sources:
-  - "/sources/highlights/2026-03-21/00__xicilion__代码仍是最高效的自然语言-响马对vibe-coding的冷静反叛.md"
 ---
 
 # 响马 (@xicilion)

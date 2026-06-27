@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "yetone建议从云端切本地Agent：端侧工作流正在形成真实需求"
 description: "**[从远程agent切本地agent代表一种工作流迁移信号]**  yetone回复建议将远程agent改为本地agent，虽然上下文不足，但这个方向本身值得关注。本地化运行意味着数据主权、延迟改善、以及在无网络情况下的持续可用性——这些是企业级工作流的真实痛点。"
 resource: "https://x.com/i/status/2059182417072791790"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2059182417072791790"
-created: "2026-05-26"
-updated: "2026-06-26"
-sha256: "d96b40d8abb76204e8922a434c2699129618b77d535f60e4c049d9674aa104e1"
-sources:
-  - "/sources/news/2026-05-26/00__yetone__yetone建议从云端切本地agent-端侧工作流正在形成真实需求.md"
 ---
 
 # yetone建议从云端切本地Agent：端侧工作流正在形成真实需求

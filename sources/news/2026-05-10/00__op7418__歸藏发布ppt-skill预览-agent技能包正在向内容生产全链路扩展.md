@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "歸藏发布PPT Skill预览：Agent技能包正在向内容生产全链路扩展"
 description: "**Agent技能包从代码辅助延伸到内容创作全链路，是工具生态成熟的信号。** - PPT Skill意味着Agent能力边界从「写代码」扩展到「做演示」，覆盖更多生产力场景 - 更多主题和内容预览表明技能市集正在从单点工具向「内容生产线」演进  gakki 锐评：PPT生成是典型的「80分够用」场景——不需要完美，只需要比从零开始快10倍。Skill市集的价值不在于某个技能多惊艳，而在于可组合性"
 resource: "https://x.com/i/status/2053381253328752903"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2053381253328752903"
-created: "2026-05-10"
-updated: "2026-06-26"
-sha256: "87cf1cbf5426472322946295b96e0e815c83a1b2ae74f3dea14ed60c7c622b61"
-sources:
-  - "/sources/news/2026-05-10/00__op7418__歸藏发布ppt-skill预览-agent技能包正在向内容生产全链路扩展.md"
 ---
 
 # 歸藏发布PPT Skill预览：Agent技能包正在向内容生产全链路扩展

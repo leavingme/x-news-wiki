@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "AWE Network 在 Base 发行的 AI Shark Tank：1100% 超募背后是 AI Agent 发射平台的真实需求验证"
 description: "**[AI Agent 发射平台从概念到可验证的市场需求]**  AWE Network（原 STPT，8 月获 Coinbase 上币路线图认证）在 Base 链上搭建的自主世界发射平台完成了首次实战验证。AI Shark Tank 预售超募 1100%，峰值市值 $1.31M，且升级后支持 USDC 直投并即时解锁流动性。  关键信号：用户不再需要持有平台币即可参与，降低了真实用户的进入摩擦，"
 resource: "https://x.com/i/status/1960674845076938808"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/1960674845076938808"
-created: "2025-08-27"
-updated: "2026-06-26"
-sha256: "bbedea7c922493642949d267c9bf7c571745c1ac0e30cd2f850f8f05f30d3c2e"
-sources:
-  - "/sources/news/2026-04-16/00__xingxingjun8888__awe-network-在-base-发行的-ai-shark-tank-1100-超募背后是-ai-agent-发射平.md"
 ---
 
 # AWE Network 在 Base 发行的 AI Shark Tank：1100% 超募背后是 AI Agent 发射平台的真实需求验证

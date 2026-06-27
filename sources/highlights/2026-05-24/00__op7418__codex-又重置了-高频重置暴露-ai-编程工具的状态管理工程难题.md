@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Codex 又重置了：高频重置暴露 AI 编程工具的状态管理工程难题"
 description: "**核心判断：Codex 频繁重置不是偶发 Bug，而是 AI 编程工具在长任务场景下上下文状态管理的系统性缺陷，且有恶化趋势。**  - 开发者 歸藏 再次遇到 Codex Session 重置问题，此类问题已呈周期性反复 - 重置导致基于 Codex 构建的 Skill 工作流积累的上下文全部丢失，代价极高 - 结合近期 OpenAI API 收紧、模型降配的整体背景，怀疑与算力分配策略调整相"
 resource: "https://x.com/i/status/2058333663809638494"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2058333663809638494"
-created: "2026-05-23"
-updated: "2026-06-26"
-sha256: "df355705ee2678fe973f887e5422303ced1812124b7544fb87b11279e17301b7"
-sources:
-  - "/sources/highlights/2026-05-24/00__op7418__codex-又重置了-高频重置暴露-ai-编程工具的状态管理工程难题.md"
 ---
 
 # Codex 又重置了：高频重置暴露 AI 编程工具的状态管理工程难题

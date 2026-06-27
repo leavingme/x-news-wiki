@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "递归多 Agent 系统：从单一编排到自相似的分形智能体架构"
 description: "**多 Agent 架构正在从「扁平编排」向「递归嵌套」演进，分形结构可能是规模化 Agent 系统的必经之路。**  - 向阳乔木分享递归多 Agent 系统参考资料 - 核心思路：Agent 可以生成子 Agent，子 Agent 再生成子 Agent，形成自相似的递归层级 - 这种架构在复杂任务分解和并行执行中具有天然优势  gakki 说：递归多 Agent 不是新概念，但从实验走向工程化"
 resource: "https://x.com/i/status/2050390877055459554"
@@ -22,13 +22,6 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "sub-agents-multi-expert"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2050390877055459554"
-created: "2026-05-02"
-updated: "2026-06-26"
-sha256: "2d81c542903fb5312b726f64498eccb67c8906ef645207ee5217cd81ebe315fe"
-sources:
-  - "/sources/news/2026-05-02/00__vista8__递归多-agent-系统-从单一编排到自相似的分形智能体架构.md"
 ---
 
 # 递归多 Agent 系统：从单一编排到自相似的分形智能体架构

@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "AI 人设库成\"虚拟焦点小组\"：当目标用户触达不到时，调研可以先跑 Panel"
 description: "**Atypica 的 Panel 模式把\"触达不到的用户\"和\"跑不到的大样本\"两类传统调研死局同时解掉。**  - 人设库覆盖大量平时招不到的细分人群（北美 Z 世代、东南亚小商家、25 岁对 AI 持怀疑的独立创作者等），可按标签直接组 Panel 对话。 - 解决\"量级天花板\"：500 个家庭对产品的反应这种规模，焦点小组根本做不到，AI Panel 可以直接跑。 - 余温的用法是从研究过程"
 resource: "https://x.com/i/status/2067208480662913177"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2067208480662913177"
-created: "2026-06-17"
-updated: "2026-06-26"
-sha256: "57b874f8bd9e5c0470fc2c1cd0a8900d8dca58511db1c9706059a92fe59e9c88"
-sources:
-  - "/sources/news/2026-06-17/00__gkxspace__ai-人设库成-虚拟焦点小组-当目标用户触达不到时-调研可以先跑-panel.md"
 ---
 
 # AI 人设库成"虚拟焦点小组"：当目标用户触达不到时，调研可以先跑 Panel

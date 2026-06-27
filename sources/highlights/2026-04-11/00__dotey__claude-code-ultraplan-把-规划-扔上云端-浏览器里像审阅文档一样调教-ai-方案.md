@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Claude Code ultraplan：把「规划」扔上云端，浏览器里像审阅文档一样调教 AI 方案"
 description: "**[规划与执行分离，Claude Code 工作流的一次范式升级]**  Claude Code 新增 ultraplan 功能：终端发起规划任务，AI 在云端起草方案，用户在浏览器里像审阅文档一样对具体段落加批注、表情、在大纲跳转，然后选择云端执行或拉回本地。核心思路——实现代码需要本地环境，但规划只需要读代码和理解意图。  · 终端审阅复杂方案的体验痛点被精准解决 · 云端起草期间终端可继续"
 resource: "https://x.com/i/status/2042675917927977084"
@@ -22,13 +22,6 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "claude-code-natural-language-workflow"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2042675917927977084"
-created: "2026-04-10"
-updated: "2026-06-26"
-sha256: "6aaefc55494b0fef50d34580c7adf5e1b5c227ed3394aaa218b48a11bc602e1b"
-sources:
-  - "/sources/highlights/2026-04-11/00__dotey__claude-code-ultraplan-把-规划-扔上云端-浏览器里像审阅文档一样调教-ai-方案.md"
 ---
 
 # Claude Code ultraplan：把「规划」扔上云端，浏览器里像审阅文档一样调教 AI 方案

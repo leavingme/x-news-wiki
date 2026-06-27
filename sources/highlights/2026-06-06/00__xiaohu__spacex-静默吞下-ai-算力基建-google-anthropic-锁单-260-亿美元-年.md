@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "SpaceX 静默吞下 AI 算力基建：Google + Anthropic 锁单 260 亿美元/年"
 description: "**SpaceX 已从火箭公司蜕变为顶级 AI 算力供应商，Google 与 Anthropic 双双押上长期合约。**  - 2026 年 10 月至 2029 年 6 月，Google 每月支付 9.2 亿美元锁定约 11 万张 NVIDIA GPU 及配套算力 - Anthropic 每月支付 12.5 亿美元，规模更大 - 算下来 SpaceX 算力业务年化收入 260 亿美元，已超过多数"
 resource: "https://x.com/i/status/2063082652157321281"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2063082652157321281"
-created: "2026-06-06"
-updated: "2026-06-26"
-sha256: "a898ce5550d13b000fd9aaf1d456f88c252e509d6c38b0aedd2a0aac4d8b54c3"
-sources:
-  - "/sources/highlights/2026-06-06/00__xiaohu__spacex-静默吞下-ai-算力基建-google-anthropic-锁单-260-亿美元-年.md"
 ---
 
 # SpaceX 静默吞下 AI 算力基建：Google + Anthropic 锁单 260 亿美元/年

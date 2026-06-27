@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "AI已陷入「娱乐化内卷」：LLM离大众越来越远的危险信号"
 description: "**技术越热闹，大众越远——AI精英圈的自我狂欢预警**  Orange AI 尖锐指出当前 AI 发展的三重娱乐化症状：(1) 围观 OpenAI 诉讼战代替使用 AI；(2) 国内 AI 炒股概念炒作大于落地；(3) B站 AI 版西游记热梗掩盖了 LLM/Agent/OS 与普通人的真实距离。  这不是唱衰，这是「技术精英的自High节奏」与「大众感知」之间日益扩大的鸿沟预警。当 AI 社区"
 resource: "https://x.com/i/status/1986620182706683995"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/1986620182706683995"
-created: "2025-11-07"
-updated: "2026-06-26"
-sha256: "1d9281b27a85152e852d6f8b21459fb110e72d53eeb4678958ecbd21589d5fe6"
-sources:
-  - "/sources/news/2026-04-01/00__oran_ge__ai已陷入-娱乐化内卷-llm离大众越来越远的危险信号.md"
 ---
 
 # AI已陷入「娱乐化内卷」：LLM离大众越来越远的危险信号

@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "日本动画电影文化连盟 NAFCA 发难：字节需澄清 Seedance 2.0 版权来源"
 description: "**[核心逻辑]** NAFCA 要求字节澄清模型是否使用了日本动漫作品训练，字节回应称模型尚未正式发布。"
 resource: "https://x.com/i/status/2022485199876153668"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2022485199876153668"
-created: "2026-02-14"
-updated: "2026-06-26"
-sha256: "e51d9cb5968ea09f4fe0821bc8f811a1d7702d1663f08e1ade7cc956bf4fcbb1"
-sources:
-  - "/sources/highlights/2026-02-14/00__xiaohu__日本动画电影文化连盟-nafca-发难-字节需澄清-seedance-2-0-版权来源.md"
 ---
 
 # 日本动画电影文化连盟 NAFCA 发难：字节需澄清 Seedance 2.0 版权来源

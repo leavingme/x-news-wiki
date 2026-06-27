@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "一年前喜欢看的东西现在觉得\"遥遥领先\"：AI 追赶叙事正在反转"
 description: "**[ \"遥遥领先\"的自嘲折射出 AI Builder 的心理周期已从仰望切换到俯视]**  - 一年前\"特别喜欢看\"的内容，现在觉得\"遥遥领先\"——不是讽刺，是真实的认知反转 - 这种反转说明：国内 AI 产品迭代速度已超过部分海外内容的增量信息密度 - 心理周期切换是先行指标，预判接下来会出现\"不再追海外资讯\"的创作与消费转向  对内容创作者而言，这是一个关键信号：AI 资讯的\"进口依赖\"正在"
 resource: "https://x.com/i/status/2059852862390190590"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2059852862390190590"
-created: "2026-05-28"
-updated: "2026-06-26"
-sha256: "c30306e31170b6932e0754678239a3f0c5c1e335364634ebf16f5f6065f9a614"
-sources:
-  - "/sources/news/2026-05-28/00__Leobai825__一年前喜欢看的东西现在觉得-遥遥领先-ai-追赶叙事正在反转.md"
 ---
 
 # 一年前喜欢看的东西现在觉得"遥遥领先"：AI 追赶叙事正在反转

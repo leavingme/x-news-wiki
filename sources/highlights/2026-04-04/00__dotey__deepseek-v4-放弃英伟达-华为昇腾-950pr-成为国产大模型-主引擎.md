@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "DeepSeek V4 放弃英伟达：华为昇腾 950PR 成为国产大模型「主引擎」"
 description: "**DeepSeek 专门推迟 V4 发布，花数月与华为、寒武纪重写底层代码，确保模型在昇腾芯片流畅运行。**  关键数字：昇腾 950PR 单卡算力是 H20 的 2.87 倍，配备 112GB 显存，内存带宽 1.4 TB/s。更关键的是，它是目前中国唯一支持 FP4 低精度推理的 AI 芯片——FP4 格式可将 700 亿参数模型显存需求从 140GB 压缩至 35GB。  DeepSeek"
 resource: "https://x.com/i/status/2040236453528064241"
@@ -22,13 +22,6 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "geopolitics-and-compute"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2040236453528064241"
-created: "2026-04-04"
-updated: "2026-06-26"
-sha256: "b063c487d41e6c6c776929dd809da81ea4cd0917bd7e976e72857aa414ab93f3"
-sources:
-  - "/sources/highlights/2026-04-04/00__dotey__deepseek-v4-放弃英伟达-华为昇腾-950pr-成为国产大模型-主引擎.md"
 ---
 
 # DeepSeek V4 放弃英伟达：华为昇腾 950PR 成为国产大模型「主引擎」

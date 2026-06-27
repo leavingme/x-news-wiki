@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "安替观察：YouTube 已被 AI 短剧淹没，部分质量反超真人实拍"
 description: "**AI 短剧正在悄然占领主流视频平台的内容供给。** - 安替作为资深媒体人，从用户端观察到 YouTube 短剧内容已被 AI 生成大面积替代 - 部分 AI 短剧在画面质感和叙事节奏上已超过真人实拍低成本短剧 - 这意味着 AI 内容不再是\"尝鲜\"，而是正在成为平台内容的默认供给层  Gakki 锐评：信号不在\"AI 能做短剧\"——这是两年前的事。信号在于用户打开 YouTube 已经**分"
 resource: "https://x.com/i/status/2052371500930646179"
@@ -22,13 +22,6 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "ai-short-drama-industrialization"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2052371500930646179"
-created: "2026-05-07"
-updated: "2026-06-26"
-sha256: "fda1b0503f185b7675ef494105ceeecf7d35c756e9323a3ca8cb08ac421a618c"
-sources:
-  - "/sources/news/2026-05-07/00__mranti__安替观察-youtube-已被-ai-短剧淹没-部分质量反超真人实拍.md"
 ---
 
 # 安替观察：YouTube 已被 AI 短剧淹没，部分质量反超真人实拍

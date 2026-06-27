@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Kling 3.0 原生 4K 视频生成上线：AI 视频进入「无放大」的生产级标准时代"
 description: "**一句话核心判断：Kling 3.0 以原生 4K 分辨率打破视频生成放大瓶颈，广告/影视/广播级内容单 prompt 可达，AI 视频工具正式进入「专业可用」阶段。**  - 首个无需 upscale 的原生 4K 视频生成模型，输出质量直接对标专业制作标准 - 支持一致的被试保持、干净文字渲染、可控灯光控制，解决 AI 视频历史顽疾 - 定位广告、影视、广播三大高价值场景，变现路径清晰  从"
 resource: "https://x.com/openart_ai/status/2047388742671872107"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "ai-trend-digest"
-type_okf: "X Tweet"
-source_url: "https://x.com/openart_ai/status/2047388742671872107"
-created: "2026-04-23"
-updated: "2026-06-26"
-sha256: "c2a81f4a767e0e8d6303e4c8e7fa6f61e683b6b270c53d9ea6b23efd342c2809"
-sources:
-  - "/sources/news/2026-04-23/00__openart_ai__kling-3-0-原生-4k-视频生成上线-ai-视频进入-无放大-的生产级标准时代.md"
 ---
 
 # Kling 3.0 原生 4K 视频生成上线：AI 视频进入「无放大」的生产级标准时代

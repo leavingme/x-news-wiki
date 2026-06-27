@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "X 平台 Hook 文案免疫：信息密度竞争进入反噬阶段"
 description: "**套路好使，但敌不过真诚——当所有人都在用 Hook 公式时，Hook 本身就变成了噪音标识。**  - 向阳乔木表达对 X 平台上 Hook 式开头的「脱敏」：看到就会自动判定为垃圾文 - 这是一个内容生态的临界点信号：当某种传播技巧被过度使用，受众会产生条件反射式的免疫 - 对 AI 内容生产的启示：AI 批量生成的 Hook 文案正在加速这个免疫过程  锐评：这不只是个人偏好——它反映的是"
 resource: "https://x.com/i/status/2050606185112568211"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2050606185112568211"
-created: "2026-05-02"
-updated: "2026-06-26"
-sha256: "335d5ce12fb8940fd6eccf49a0e8454ddf31c8b4d1edcec38d5041a229ef4444"
-sources:
-  - "/sources/news/2026-05-02/00__vista8__x-平台-hook-文案免疫-信息密度竞争进入反噬阶段.md"
 ---
 
 # X 平台 Hook 文案免疫：信息密度竞争进入反噬阶段

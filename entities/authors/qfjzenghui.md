@@ -1,23 +1,17 @@
 ---
-type: "entity"
+type: "Author"
 title: "李增辉 (@QFJzenghui)"
 description: "X/Twitter 作者 @QFJzenghui。共收录 1 条 AI 精选推文。"
 tags:
   - "x-news"
   - "author"
   - "author:QFJzenghui"
-timestamp: "2026-06-26T11:53:36.945Z"
+timestamp: "2026-06-27T08:40:40.152Z"
 x_handle: "QFJzenghui"
 x_author_name: "李增辉"
 x_tweet_count: 1
 x_first_seen: "2026-02-24T01:00:41.864Z"
 x_last_seen: "2026-02-24T01:00:41.864Z"
-type_okf: "Author"
-created: "2026-02-24"
-updated: "2026-06-26"
-sha256: "ec1ec3a195ceeca4370d834074b84a6bf3df565c18cf45dd78b20f16a6f81af0"
-sources:
-  - "/sources/highlights/2026-02-24/00__QFJzenghui__2026-春节-ai-密集冲阵汇总-国产模型进入-全线对抗-时代.md"
 ---
 
 # 李增辉 (@QFJzenghui)

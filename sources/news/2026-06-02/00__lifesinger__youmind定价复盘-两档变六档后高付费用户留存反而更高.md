@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "YouMind定价复盘：两档变六档后高付费用户留存反而更高"
 description: "**[定价分层验证PMF，但Max用户五折卖积分暴露低毛利风险]**  YouMind从两档（$20/$100）扩展到六档（$20/$50/$80 + $100/$300/$500），意外发现：高付费用户不仅存在，且留存率显著优于低付费用户。玉伯坦诚复盘指出问题：$20档位接近成本价，$100 Max档位给20万积分相当于五折出售，年付再打8.3折，导致毛利极低。  这个案例的价值在于：PMF验证"
 resource: "https://x.com/i/status/2061804729664151958"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2061804729664151958"
-created: "2026-06-02"
-updated: "2026-06-26"
-sha256: "0f5a198cf28a6ad9474557f6f3fd5fcdc7a445d962e75927d9f0f91cf8dbdc44"
-sources:
-  - "/sources/news/2026-06-02/00__lifesinger__youmind定价复盘-两档变六档后高付费用户留存反而更高.md"
 ---
 
 # YouMind定价复盘：两档变六档后高付费用户留存反而更高

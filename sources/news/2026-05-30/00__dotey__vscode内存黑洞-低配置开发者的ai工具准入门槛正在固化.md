@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "VSCode内存黑洞：低配置开发者的AI工具准入门槛正在固化"
 description: "**[AI编程工具正在制造新的硬件歧视]**  宝玉透露：机器内存偏小的用户经常遇到VScode占用10GB+的情况，导致内存不够用。这不是个例，而是AI编程工具快速迭代带来的副作用——功能膨胀 = 资源消耗上升。  信息增量：Claude Code、Copilot等工具的内存需求正在形成一个隐性的\"硬件准入门槛\"，与\"AI降低编程门槛\"的叙事形成讽刺性反差。  对谁有影响：学生、个体开发者、使用"
 resource: "https://x.com/i/status/2060494697206837754"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2060494697206837754"
-created: "2026-05-29"
-updated: "2026-06-26"
-sha256: "2a2b72ad45117d03c12b50d770a297951ef308322e06aea5410f832559221c1e"
-sources:
-  - "/sources/news/2026-05-30/00__dotey__vscode内存黑洞-低配置开发者的ai工具准入门槛正在固化.md"
 ---
 
 # VSCode内存黑洞：低配置开发者的AI工具准入门槛正在固化

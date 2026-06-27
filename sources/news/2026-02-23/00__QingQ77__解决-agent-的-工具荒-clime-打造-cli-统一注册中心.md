@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "解决 Agent 的“工具荒”：Clime 打造 CLI 统一注册中心"
 description: "**[核心逻辑]** 针对 Agent 无法在海量 shell 工具中精准定位命令的痛点，提供统一的 CLI 发现、认证与执行框架。 • 痛点：Agent 常因不知道有哪些可用工具或具体子命令而导致上下文爆炸（不停现搜）。 • 方案：Clime 允许 Agent 通过单一命令发现适合任务的工具并获取安装指导。  [gakki 的锐评]：Agent 不需要百科全书，它需要一本带操作手册的黄页。Cli"
 resource: "https://x.com/i/status/2025715225442304426"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2025715225442304426"
-created: "2026-02-22"
-updated: "2026-06-26"
-sha256: "064803cde29dccf0392b1d7559ea3731e4b0c7ef7202fd5ce018ca0c7fe5f206"
-sources:
-  - "/sources/news/2026-02-23/00__QingQ77__解决-agent-的-工具荒-clime-打造-cli-统一注册中心.md"
 ---
 
 # 解决 Agent 的“工具荒”：Clime 打造 CLI 统一注册中心

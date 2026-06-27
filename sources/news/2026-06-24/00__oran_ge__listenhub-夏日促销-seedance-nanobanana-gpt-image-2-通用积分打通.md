@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "ListenHub 夏日促销：Seedance、Nanobanana、GPT image 2 通用积分打通"
 description: "**AI 工具订阅促销信号：通用积分池正在成为多模态工具的标准定价范式。**  - ListenHub Pro 订阅额外赠送 50% 通用积分，统一覆盖 Seedance、Nanobanana、GPT image 2 等视频/图像模型 - 定价逻辑从「按模型分价」转向「按额度池统一计费」，降低多模型切换的决策成本 - 促销窗口设在年中，反映多模态 AI 工具赛道竞争加剧，厂商需要折扣换留存"
 resource: "https://x.com/i/status/2069654757086773649"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2069654757086773649"
-created: "2026-06-24"
-updated: "2026-06-26"
-sha256: "f4e212997633e76eaa4b711275135051608ba7da053ed5ad7d7510c9b21e435a"
-sources:
-  - "/sources/news/2026-06-24/00__oran_ge__listenhub-夏日促销-seedance-nanobanana-gpt-image-2-通用积分打通.md"
 ---
 
 # ListenHub 夏日促销：Seedance、Nanobanana、GPT image 2 通用积分打通

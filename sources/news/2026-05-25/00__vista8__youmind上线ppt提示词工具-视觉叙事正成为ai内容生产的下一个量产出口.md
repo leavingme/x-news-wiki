@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Youmind上线PPT提示词工具：视觉叙事正成为AI内容生产的下一个量产出口"
 description: "**【提示词即设计工具的时代来了】  向阳乔木发布了一套完整的PPT设计提示词框架，核心主张是「AI自主完成内容理解→结构决策→视觉叙事」，无需用户二次干预。同步支持生成Midjourney图像提示词。  信息增量：这套提示词的设计思路（封面页/内容页/结束页的分类决策模型）比工具本身更有价值——它代表了一种新的内容生产分工：人类定方向，AI做执行，设计决策被参数化。  gakki：提示词工程化的"
 resource: "https://x.com/i/status/2058902147794862217"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2058902147794862217"
-created: "2026-05-25"
-updated: "2026-06-26"
-sha256: "5adbe15caa856291414aad83501169c57d4b4f2dd2e1c020f8342aeb63f755dc"
-sources:
-  - "/sources/news/2026-05-25/00__vista8__youmind上线ppt提示词工具-视觉叙事正成为ai内容生产的下一个量产出口.md"
 ---
 
 # Youmind上线PPT提示词工具：视觉叙事正成为AI内容生产的下一个量产出口

@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "DeepSeek Pro价格是Flash的12倍：AI Coding的「穷人降配」时代已来"
 description: "**一句话核心判断**：API订阅分层正在把AI能力分层固化，「价格锚定」成为模型选择的隐性指挥棒。  后续要点： - Michael Anti提出核心问题：DeepSeek Coding用Flash还是Pro？Pro价格是Flash的12倍，不开Coding Plan根本撑不住 - 追问本质：在AI Coding场景，用户为「质量保险」支付的溢价是否值得？ - 与GitHub Copilot P"
 resource: "https://x.com/i/status/2047518273135419538"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2047518273135419538"
-created: "2026-04-24"
-updated: "2026-06-26"
-sha256: "2a05ba77705db8aa167f3589de59c9f6734ddb1c10c419ec8c5d3af4f32105b3"
-sources:
-  - "/sources/news/2026-04-24/00__mranti__deepseek-pro价格是flash的12倍-ai-coding的-穷人降配-时代已来.md"
 ---
 
 # DeepSeek Pro价格是Flash的12倍：AI Coding的「穷人降配」时代已来

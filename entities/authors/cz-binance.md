@@ -1,23 +1,17 @@
 ---
-type: "entity"
+type: "Author"
 title: "CZ 🔶 BNB (@cz_binance)"
 description: "X/Twitter 作者 @cz_binance。共收录 1 条 AI 精选推文。"
 tags:
   - "x-news"
   - "author"
   - "author:cz_binance"
-timestamp: "2026-06-26T11:53:36.997Z"
+timestamp: "2026-06-27T08:40:40.212Z"
 x_handle: "cz_binance"
 x_author_name: "CZ 🔶 BNB"
 x_tweet_count: 1
 x_first_seen: "2026-05-07T01:17:49.081Z"
 x_last_seen: "2026-05-07T01:17:49.081Z"
-type_okf: "Author"
-created: "2026-05-07"
-updated: "2026-06-26"
-sha256: "1167a3eced7e2697159d31902defd2690f9c70ceb5521dfa9f9ff6ade3c6b9e9"
-sources:
-  - "/sources/news/2026-05-07/00__cz_binance__cz-谈行业寒冬哲学-长期主义者的筛选器正在加速运转.md"
 ---
 
 # CZ 🔶 BNB (@cz_binance)

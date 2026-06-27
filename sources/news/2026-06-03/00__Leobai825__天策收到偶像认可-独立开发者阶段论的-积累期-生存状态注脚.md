@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "天策收到偶像认可：独立开发者阶段论的「积累期」生存状态注脚"
 description: "**[一句话核心判断]**  天策收到偶像认可后自评「远没达到需要跟他交流的地步」——这句话本身就是独立开发者阶段论最真实的注脚。  **信息增量：** - 揭示独立开发者「积累期」的心理状态：外部认可是燃料，但自我标尺是「能否平等对话」 - 「偶像认可」是独立开发者生态里的重要social signal，但主角保持了清醒  **影响：** - 对独立开发者社群而言，这种叙事比任何创业鸡汤都有共鸣"
 resource: "https://x.com/i/status/2062214675916271831"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2062214675916271831"
-created: "2026-06-03"
-updated: "2026-06-26"
-sha256: "c27edce2c90ea87c19446906c0bcabf777a857ea666deb7ce69442a8de561b97"
-sources:
-  - "/sources/news/2026-06-03/00__Leobai825__天策收到偶像认可-独立开发者阶段论的-积累期-生存状态注脚.md"
 ---
 
 # 天策收到偶像认可：独立开发者阶段论的「积累期」生存状态注脚

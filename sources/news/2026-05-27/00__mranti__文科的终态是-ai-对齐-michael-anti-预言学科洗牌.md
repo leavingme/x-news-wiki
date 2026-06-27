@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "文科的终态是 AI 对齐：Michael Anti 预言学科洗牌"
 description: "**未来的人文社科将不再是传统意义上的\"文科\"，而是对 AI 系统的控制与对齐研究。**  - Michael Anti 的类比很精准：100 年前社会学几乎可以改名为\"统计学应用\"，今天的文科正在被 AI 重新定义 - 这个判断的冲击在于——不是 AI 取代文科，而是文科的研究对象将变成 AI 本身 - \"驾驭和对齐\"是两种能力：驾驭是让 AI 干活，对齐是让 AI 做对的事——未来文科教育大概"
 resource: "https://x.com/i/status/2059447649443762383"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2059447649443762383"
-created: "2026-05-27"
-updated: "2026-06-26"
-sha256: "44c2e2a2ebcbe12e82ef202a8964dfb0364da4186c6cf02124a91bb1041a1e05"
-sources:
-  - "/sources/news/2026-05-27/00__mranti__文科的终态是-ai-对齐-michael-anti-预言学科洗牌.md"
 ---
 
 # 文科的终态是 AI 对齐：Michael Anti 预言学科洗牌

@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "MCP「退热」真相：一年不到从 buzzword 沦为无人问津"
 description: "**[核心判断]：MCP（Model Context Protocol）的叙事热度骤降，标志着AI工具链的「协议层狂热」进入冷静期，落地价值尚未被验证。**  • 周期极短：从年初被奉为「AI的USB-C接口」到如今「无人再提」，仅用时一年，说明技术概念的「半衰期」正在急剧缩短 • 生态困境：协议标准化的前提是生态密度，但在当前Agent碎片化格局下，MCP缺乏足够的killer app和平台绑定"
 resource: "https://x.com/i/status/2034480866794394033"
@@ -22,13 +22,6 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "skill-vs-mcp-paradigm"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2034480866794394033"
-created: "2026-03-19"
-updated: "2026-06-26"
-sha256: "d621e7b6be9765137f75aca8f71e211a2851625dcb2fef4fe945fedeacbf88a1"
-sources:
-  - "/sources/news/2026-03-19/00__PMbackttfuture__mcp-退热-真相-一年不到从-buzzword-沦为无人问津.md"
 ---
 
 # MCP「退热」真相：一年不到从 buzzword 沦为无人问津

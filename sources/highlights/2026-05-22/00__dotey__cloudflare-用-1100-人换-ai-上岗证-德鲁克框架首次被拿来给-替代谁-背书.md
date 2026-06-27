@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Cloudflare 用 1100 人换 AI 上岗证：德鲁克框架首次被拿来给「替代谁」背书"
 description: "**[AI替代岗位首次有了可操作的分类学依据，不是玄学，是德鲁克]**  Cloudflare CEO Matthew Prince 在《华尔街日报》发专栏，用彼得·德鲁克 1954 年的《管理的实践》给裁员背书：建造者（工程师）、销售者、安全，\"度量者\"（财务/法务/合规/中层管理）危险。  关键数字： - 裁员 1100 人（16 年来首次大规模） - 招 1111 名实习生（腾笼换鸟） - "
 resource: "https://x.com/i/status/2057641534225346990"
@@ -22,13 +22,6 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "ai-replacing-hierarchical-management"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2057641534225346990"
-created: "2026-05-22"
-updated: "2026-06-26"
-sha256: "3f7e5121fb3ecff594a226c0f23177f1198c0f38b0fc534f07dd899d6a433684"
-sources:
-  - "/sources/highlights/2026-05-22/00__dotey__cloudflare-用-1100-人换-ai-上岗证-德鲁克框架首次被拿来给-替代谁-背书.md"
 ---
 
 # Cloudflare 用 1100 人换 AI 上岗证：德鲁克框架首次被拿来给「替代谁」背书

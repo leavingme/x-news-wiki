@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "海外华裔中文习得困境：屏幕无法替代的人际温度"
 description: "**[一句话核心判断]** 跨文化家庭的中文传承正在输给屏幕时差——每日视频 + 血缘纽带仍不够，实体在场感才是语言内化的必要条件。  **信息增量：** - 口语流利≠读写能力，口语环境只是必要非充分条件 - 媒介形态（屏幕 vs 共处）深刻影响学习成效 - 这个案例折射AI陪伴产品的边界：可模拟对话，无法模拟共同在场  **影响范围：** - AI语言学习产品的设计哲学反思 - 出海AI产品的"
 resource: "https://x.com/i/status/2056194619181064272"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2056194619181064272"
-created: "2026-05-18"
-updated: "2026-06-26"
-sha256: "0256997671d4310d2e2147cd378ef58da6e2beaf98fb1fbcc4b837c82f5ac171"
-sources:
-  - "/sources/news/2026-05-18/00__mranti__海外华裔中文习得困境-屏幕无法替代的人际温度.md"
 ---
 
 # 海外华裔中文习得困境：屏幕无法替代的人际温度

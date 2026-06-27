@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Karpathy 站台 FDM1：VPT 范式从游戏扩展到「知识工作 / 电脑使用」"
 description: "**Karpathy 罕见公开背书 SI 团队将 VPT（Video PreTraining）范式扩展到 FDM1，明确指向「知识工作 / 电脑使用」场景。**  - VPT 当年靠 Minecraft 视频无监督预训练实现了具身智能突破，现在被映射到「人操作电脑的视频」上——预训练数据从游戏扩展到真实 GUI 交互。 - FDM1 如果是「Foundation Desktop Model」类命名"
 resource: "https://x.com/i/status/2049920650765377928"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2049920650765377928"
-created: "2026-04-30"
-updated: "2026-06-26"
-sha256: "7a02e00b50a00e9a8212d16f023e0d6512ba9ed5a0284ef0c6f2b3c621c788f2"
-sources:
-  - "/sources/news/2026-06-25/00__karpathy__karpathy-站台-fdm1-vpt-范式从游戏扩展到-知识工作-电脑使用.md"
 ---
 
 # Karpathy 站台 FDM1：VPT 范式从游戏扩展到「知识工作 / 电脑使用」

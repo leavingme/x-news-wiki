@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "宝玉推荐组合：Cursor + Opus 4.8 + Claude Design 三件套做 UI 设计"
 description: "**宝玉给出一套可落地的设计 Agent 工具栈。**  - Cursor 中调用 Opus 4.8 做设计生成，效果不错 - 与 Claude Design 配合使用，覆盖「设计稿生成 + 代码实现」双场景 - 体现 2026 年设计工具的最佳实践组合   gakki 锐评：单点最强不再是终点，「工具组合最稳」才是——这套配置基本把\"AI 设计→代码\"流水线钉死在一个稳定形态，下一步就看谁能把它"
 resource: "https://x.com/i/status/2065925297271111814"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2065925297271111814"
-created: "2026-06-13"
-updated: "2026-06-26"
-sha256: "7a926d7abd2b33d9ff24d49e227e69df9ff31e273440a684fb7b90b6eef6e59d"
-sources:
-  - "/sources/news/2026-06-14/00__dotey__宝玉推荐组合-cursor-opus-4-8-claude-design-三件套做-ui-设计.md"
 ---
 
 # 宝玉推荐组合：Cursor + Opus 4.8 + Claude Design 三件套做 UI 设计

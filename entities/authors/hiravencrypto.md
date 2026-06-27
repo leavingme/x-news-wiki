@@ -1,23 +1,17 @@
 ---
-type: "entity"
+type: "Author"
 title: "Crypto Raven (@hiRavenCrypto)"
 description: "X/Twitter 作者 @hiRavenCrypto。共收录 1 条 AI 精选推文。"
 tags:
   - "x-news"
   - "author"
   - "author:hiRavenCrypto"
-timestamp: "2026-06-26T11:53:36.999Z"
+timestamp: "2026-06-27T08:40:40.214Z"
 x_handle: "hiRavenCrypto"
 x_author_name: "Crypto Raven"
 x_tweet_count: 1
 x_first_seen: "2026-05-12T15:52:53.741Z"
 x_last_seen: "2026-05-12T15:52:53.741Z"
-type_okf: "Author"
-created: "2026-05-12"
-updated: "2026-06-26"
-sha256: "e7b94faa9f3e3e4ca7a12cd680119112c58de172716793b79a45c7a571cc0726"
-sources:
-  - "/sources/news/2026-05-12/00__hiRavenCrypto__binance-q1-2026-拦截-105-亿美元欺诈-ai-风控规模已与主权金融防御相当.md"
 ---
 
 # Crypto Raven (@hiRavenCrypto)

@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "多 Bot 角色辩论已落地：一个主题让最强模型们互相 PK"
 description: "**Multi-Agent 辩论不再是 Demo，开始进入生产使用。** 向阳乔木展示将链接发给 GPT5.5（推测为内部命名），默认两个 bot 讨论一个话题，可引入多个角色同时参与。  这代表多模型协作已从技术玩具转向实际工作流——但效果取决于「谁在讨论」和「讨论框架」的质量。"
 resource: "https://x.com/i/status/2056228149445431778"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2056228149445431778"
-created: "2026-05-18"
-updated: "2026-06-26"
-sha256: "66a7eee4368b08d63e915a7c84a9ee6e3280fb84ce893961803ab47d88e1a9bf"
-sources:
-  - "/sources/news/2026-05-18/00__vista8__多-bot-角色辩论已落地-一个主题让最强模型们互相-pk.md"
 ---
 
 # 多 Bot 角色辩论已落地：一个主题让最强模型们互相 PK

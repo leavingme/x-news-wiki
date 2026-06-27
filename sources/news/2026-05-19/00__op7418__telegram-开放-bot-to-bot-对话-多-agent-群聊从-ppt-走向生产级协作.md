@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Telegram 开放 Bot-to-Bot 对话：多 Agent 群聊从 PPT 走向生产级协作"
 description: "**[Telegram 解锁 Agent 间直接通信协议，Multi-Agent 协作从演示进入可部署状态]**  Telegram 机器人现已支持跨 Bot 直接对话，这意味着可以在群聊里直接拉入多个不同 Agent 机器人进行交流——不再是单 Bot 响应指令，而是 Agent 之间自发协作。场景可以是：路由 Agent 把任务分发给执行 Agent，执行 Agent 调用检索 Agent，后"
 resource: "https://x.com/i/status/2056565482715795494"
@@ -22,13 +22,6 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "multi-agent-framework-ecosystem-comparison"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2056565482715795494"
-created: "2026-05-19"
-updated: "2026-06-26"
-sha256: "3368b0b8c284c228628d58f7ca4c4a9b266bc5a44e1aaa1e1e5fde4e82bdb8f7"
-sources:
-  - "/sources/news/2026-05-19/00__op7418__telegram-开放-bot-to-bot-对话-多-agent-群聊从-ppt-走向生产级协作.md"
 ---
 
 # Telegram 开放 Bot-to-Bot 对话：多 Agent 群聊从 PPT 走向生产级协作

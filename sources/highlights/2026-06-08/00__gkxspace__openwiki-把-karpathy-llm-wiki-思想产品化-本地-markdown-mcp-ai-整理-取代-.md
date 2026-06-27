@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "OpenWiki 把 Karpathy LLM Wiki 思想产品化：本地+Markdown+MCP，「AI 整理」取代「自己整理」"
 description: "**OpenWiki 重新定义了个人知识库的分工——AI 不是总结工具，而是整理主体。**  - 桌面复制弹窗一键存，自动抓微信/推特/网页全文，用户无需手动归类 - 自动编 Wiki、生成知识图谱、对知识库提问（反向 RAG 体验） - 数据存本地 + Markdown 导出 + MCP 协议支持，灵感直接来自 Karpathy 的 LLM Wiki - 思路对标此前 Gary Tan 的 GB"
 resource: "https://x.com/i/status/2063830309431361878"
@@ -22,13 +22,6 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "llm-knowledge-operations"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2063830309431361878"
-created: "2026-06-08"
-updated: "2026-06-26"
-sha256: "0bc3109a280f42247cd94d6e54e5c798df739a5c29ee92b386a217d68523b783"
-sources:
-  - "/sources/highlights/2026-06-08/00__gkxspace__openwiki-把-karpathy-llm-wiki-思想产品化-本地-markdown-mcp-ai-整理-取代-.md"
 ---
 
 # OpenWiki 把 Karpathy LLM Wiki 思想产品化：本地+Markdown+MCP，「AI 整理」取代「自己整理」

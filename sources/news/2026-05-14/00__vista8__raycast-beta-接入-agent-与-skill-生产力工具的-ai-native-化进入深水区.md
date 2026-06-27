@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Raycast Beta 接入 Agent 与 Skill：生产力工具的 AI Native 化进入深水区"
 description: "**Raycast Beta 开始支持 Agent 和 Skill，且可免费调用顶级模型——但代价是 Cloud 同步缺失和大量 Bug。**  作为 macOS 最有影响力的效率工具之一，Raycast 集成 Agent 能力意味着 AI Native 工作流正在从极客圈层向主流用户扩散。Beta 版的痛点（不同步、各种 Bug）说明这类集成仍在早期，工程成熟度远落后于产品叙事。  这个时间点的"
 resource: "https://x.com/i/status/2054954274019520821"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2054954274019520821"
-created: "2026-05-14"
-updated: "2026-06-26"
-sha256: "26e613ffa823f50659febbb84863df5b31cfc07bf4fbc9b1d753433f7ea4e5e1"
-sources:
-  - "/sources/news/2026-05-14/00__vista8__raycast-beta-接入-agent-与-skill-生产力工具的-ai-native-化进入深水区.md"
 ---
 
 # Raycast Beta 接入 Agent 与 Skill：生产力工具的 AI Native 化进入深水区

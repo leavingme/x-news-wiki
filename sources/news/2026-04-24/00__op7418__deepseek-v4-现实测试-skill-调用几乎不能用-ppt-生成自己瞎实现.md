@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "DeepSeek V4 现实测试：Skill 调用几乎不能用，PPT 生成自己瞎实现"
 description: "**一句话核心判断：DeepSeek V4 的长上下文能力令人印象深刻，但 Skill 调用是硬伤——在 Agent 场景里，跑不通工具调用的模型再强也是残血。**  • 测试用 PPT Skills 验证 V4 工具调用能力，结果完全无法正常调用 Skill，指令遵循和工具调用效果都很差。 • AI 没有读模板，自己随意实现了一个网页——说明 V4 的规划能力和边界认知都有问题。 • 不确定是模"
 resource: "https://x.com/i/status/2047535616859287605"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2047535616859287605"
-created: "2026-04-24"
-updated: "2026-06-26"
-sha256: "4e23e698e86155775cd5998552ca04da5d06ed8b77074f068805c45ca728097a"
-sources:
-  - "/sources/news/2026-04-24/00__op7418__deepseek-v4-现实测试-skill-调用几乎不能用-ppt-生成自己瞎实现.md"
 ---
 
 # DeepSeek V4 现实测试：Skill 调用几乎不能用，PPT 生成自己瞎实现

@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "YC CEO Garry Tan开源gstack：Claude Code从「个人玄学」进化为「团队操作系统」"
 description: "**[AI编程从工具到工作流的质变时刻]** • YC CEO Garry Tan将内部使用的15个Claude Code角色技能包开源，一周斩获30k+ star • 核心突破不是提示词，而是「职责分离+流程化」：CEO、设计师、工程经理、QA各司其职，形成完整研发链路 • /office-hours重新定义需求、/plan-eng-review工程经理视角评估、/browse常驻Chromiu"
 resource: "https://x.com/i/status/2035698678804222152"
@@ -22,13 +22,6 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "claude-code-ecosystem"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2035698678804222152"
-created: "2026-03-22"
-updated: "2026-06-26"
-sha256: "910b54cacdbca8047058f3706c2595885cb69cc8e6ffe0d0af1e8d964ccc5756"
-sources:
-  - "/sources/highlights/2026-03-23/00__IndieDevHailey__yc-ceo-garry-tan开源gstack-claude-code从-个人玄学-进化为-团队操作系统.md"
 ---
 
 # YC CEO Garry Tan开源gstack：Claude Code从「个人玄学」进化为「团队操作系统」

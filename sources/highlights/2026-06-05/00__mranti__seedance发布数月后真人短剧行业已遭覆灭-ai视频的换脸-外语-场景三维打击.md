@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Seedance发布数月后真人短剧行业已遭覆灭——AI视频的换脸、外语、场景三维打击"
 description: "**Seedance类工具正在批量消灭真人短剧行业。** 具体打击点：1）短剧脸谱化表演与AI风格化演绎高度匹配，真人演不过AI；2）AI能生成真人拍摄根本无法实现的场景；3）中国短剧第一次能正确说英语以外的外语。  AI不再需要超越电影级制作，只需碾压工业化流水线内容就够了。  gakki：中国短剧出海最大的障碍从来不是剧本，是海外拍摄成本。Seedance把这道门槛拆了——但这也意味着内容供给"
 resource: "https://x.com/i/status/2062707910963253466"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2062707910963253466"
-created: "2026-06-05"
-updated: "2026-06-26"
-sha256: "4a76621dec5c4bfefda7dfed1368700228b9b1efcd53d78295ed0ce56aae4325"
-sources:
-  - "/sources/highlights/2026-06-05/00__mranti__seedance发布数月后真人短剧行业已遭覆灭-ai视频的换脸-外语-场景三维打击.md"
 ---
 
 # Seedance发布数月后真人短剧行业已遭覆灭——AI视频的换脸、外语、场景三维打击

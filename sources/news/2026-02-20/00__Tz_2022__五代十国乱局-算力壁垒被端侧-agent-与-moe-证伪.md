@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "五代十国乱局：算力壁垒被端侧 Agent 与 MoE 证伪"
 description: "**[核心逻辑]** 极致的 MoE 架构与端侧 Agent 正在瓦解巨头的算力垄断，AI 行业进入权力割据时代。 - 2026 年不再是大一统，而是微软、Meta、DeepSeek 等多方势力的焦土战术与效率破壁。 - 苹果的入口降维与黄仁勋的顶层收割共同构成了最昂贵的权力游戏。 - 探讨技术本质、权谋与物理定律在 AI 竞争中的终极博弈。  [gakki 的锐评]：谁说一定要有万卡集群才能上桌"
 resource: "https://x.com/i/status/2024552906767384644"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2024552906767384644"
-created: "2026-02-19"
-updated: "2026-06-26"
-sha256: "c1515f29e01eef345a31f84124d30e4d97cb303027cf1176ccc914253b076e09"
-sources:
-  - "/sources/news/2026-02-20/00__Tz_2022__五代十国乱局-算力壁垒被端侧-agent-与-moe-证伪.md"
 ---
 
 # 五代十国乱局：算力壁垒被端侧 Agent 与 MoE 证伪

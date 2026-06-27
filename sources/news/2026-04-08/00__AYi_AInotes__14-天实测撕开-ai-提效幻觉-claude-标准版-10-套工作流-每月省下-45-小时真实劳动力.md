@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "14 天实测撕开 AI 提效幻觉：Claude 标准版 + 10 套工作流，每月省下 45 小时真实劳动力"
 description: "**【一句话核心判断】** 75 万浏览量的 Claude 使用追踪实验证明，不需要 API、不需要 Claude Code、不需要自定义工具，标准 Pro 版 + 标准流程就能月省两个工作日。  **信息增量：** - 核心不是花哨 prompt，而是「可重复的标准化流程」 - 固定输入格式、固定输出结构，把反复沟通成本压到零 - 覆盖场景：自动化、深度研究、代码生成，附完整 prompt  *"
 resource: "https://x.com/i/status/2037398014982225997"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2037398014982225997"
-created: "2026-03-27"
-updated: "2026-06-26"
-sha256: "34da530ce52d2c48ac4fc08904c3ccff95d44d794b5b38dbf71d46c4744cab61"
-sources:
-  - "/sources/news/2026-04-08/00__AYi_AInotes__14-天实测撕开-ai-提效幻觉-claude-标准版-10-套工作流-每月省下-45-小时真实劳动力.md"
 ---
 
 # 14 天实测撕开 AI 提效幻觉：Claude 标准版 + 10 套工作流，每月省下 45 小时真实劳动力

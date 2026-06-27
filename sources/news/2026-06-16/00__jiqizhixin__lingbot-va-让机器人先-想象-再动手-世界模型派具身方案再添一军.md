@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "LingBot-VA 让机器人先\"想象\"再动手，世界模型派具身方案再添一军"
 description: "**把视频预测塞进机器人控制回路，长程操作终于开始有\"前瞻\"能力。** - LingBot-VA 用共享潜空间把视频预测与动作决策融合，并加闭环校正 - 长程操控任务上 SOTA，微调数据更少，且能泛化到新场景 - 代码已开源，定位是具身智能\"决策-感知-想象\"一体化  V-JEPA 路线的工业落地版本。当机器人开始\"想象未来再行动\"，纯反应式控制的天花板就被抬起来了。"
 resource: "https://x.com/i/status/2066701796123255002"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2066701796123255002"
-created: "2026-06-16"
-updated: "2026-06-26"
-sha256: "65ad925087d690018716a7d597cd9b7de77da51b26f51d44606b74d69c229ad6"
-sources:
-  - "/sources/news/2026-06-16/00__jiqizhixin__lingbot-va-让机器人先-想象-再动手-世界模型派具身方案再添一军.md"
 ---
 
 # LingBot-VA 让机器人先"想象"再动手，世界模型派具身方案再添一军

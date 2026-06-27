@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "NVIDIA 量产 Groq 3 LPU：SRAM「数据本地化」正在瓦解算力垄断叙事"
 description: "**【推理效率的下一个战场：从「算得更快」转向「搬得更少」】**  • **性能跃迁**：500MB SRAM + 150TB/s 带宽，相较 Blackwell 实现 35 倍推理效率提升 • **物理现实**：数据移动成本已超越计算成本，SRAM 的片上数据重用成为关键杠杆 • **产能信号**：AWS 同步采购 Cerebras WSE-3（44GB SRAM），验证大厂对「存算一体」路线的"
 resource: "https://x.com/i/status/2034100231470743981"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2034100231470743981"
-created: "2026-03-18"
-updated: "2026-06-26"
-sha256: "03b047754d3cbf0eca3aa8b20fc39b32249c72292dab0972af5cc0dc6d58249c"
-sources:
-  - "/sources/news/2026-03-18/00__QQ_Timmy__nvidia-量产-groq-3-lpu-sram-数据本地化-正在瓦解算力垄断叙事.md"
 ---
 
 # NVIDIA 量产 Groq 3 LPU：SRAM「数据本地化」正在瓦解算力垄断叙事

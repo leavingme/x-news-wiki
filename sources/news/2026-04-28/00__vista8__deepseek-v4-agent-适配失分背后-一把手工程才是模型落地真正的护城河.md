@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "DeepSeek v4 Agent 适配失分背后：一把手工程才是模型落地真正的护城河"
 description: "**[小米罗福莉带队 MiMo v2.5 在 Agent 场景逆袭，印证 AI 落地核心变量是组织优先级而非技术本身]**  • **现象**：DeepSeek v4 在龙虾等 Agent 场景优化不足，而小米 MiMo v2.5 表现突出；差异根源在于小米 AI 负责人罗福莉对 Claw 类产品的投入度，而非模型本身的能力差距。 • **判断**：曲凯 42 章经揭示的规律再次被验证——AI 落"
 resource: "https://x.com/i/status/2049032624275161414"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2049032624275161414"
-created: "2026-04-28"
-updated: "2026-06-26"
-sha256: "b23524f6c3d185bc986d64f1878df09d49b9abc9b2d77174c28992fbaf95bc3e"
-sources:
-  - "/sources/news/2026-04-28/00__vista8__deepseek-v4-agent-适配失分背后-一把手工程才是模型落地真正的护城河.md"
 ---
 
 # DeepSeek v4 Agent 适配失分背后：一把手工程才是模型落地真正的护城河

@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "向阳乔木再发开源项目：用「读取分析并引导我安装」指令把 AI 工具变成安装引导员"
 description: "**向阳乔木把 GitHub 仓库 + AI 安装引导做成可复用的 Skill 模式。** - 用户只需把链接发给 Codex 等 AI 工具，下一句「读取分析，并引导我安装」即可触发 Agent 端到端完成 README 解析+安装流程 - 这是把「仓库→安装」链条 Skill 化的典型案例，呼应 SKILL.md 生态标准（已有相关专题） - 降低非技术用户使用开源项目的门槛，本质是把 REA"
 resource: "https://x.com/i/status/2067813036019388598"
@@ -22,13 +22,6 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "skills-ecosystem-standards"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2067813036019388598"
-created: "2026-06-19"
-updated: "2026-06-26"
-sha256: "aaf3b3ec31a9de9f72ec3c38f2ac23ca43b1e65886c1efa17b0f96e83c7caa0f"
-sources:
-  - "/sources/news/2026-06-19/00__vista8__向阳乔木再发开源项目-用-读取分析并引导我安装-指令把-ai-工具变成安装引导员.md"
 ---
 
 # 向阳乔木再发开源项目：用「读取分析并引导我安装」指令把 AI 工具变成安装引导员

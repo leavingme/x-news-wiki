@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "AI铁幕合围：OpenAI/Anthropic/Google首次联手反蒸馏，直指DeepSeek"
 description: "**【一句话核心判断】三大巨头首次绕过竞争共享情报，本质是把反蒸馏变成地缘政治议题而非商业竞争议题。**  - 三家通过Frontier Model Forum建立对抗性蒸馏情报共享机制，矛头明确指向中国竞争对手未经授权提取美国前沿模型输出的行为 - OpenAI已向国会提交备忘录，指控DeepSeek\"搭便车\"，将能力复制上升为国家安全叙事 - 当前共享仍受制于反垄断边界，各公司对哪些信息可互通"
 resource: "https://x.com/i/status/2041455944996212826"
@@ -22,13 +22,6 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "ai-distillation-ethics"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2041455944996212826"
-created: "2026-04-07"
-updated: "2026-06-26"
-sha256: "9be142b263e62aee59581a6cb274ae0e1b9b343510ced8ff1216f468eb08db38"
-sources:
-  - "/sources/highlights/2026-04-07/00__whyyoutouzhele__ai铁幕合围-openai-anthropic-google首次联手反蒸馏-直指deepseek.md"
 ---
 
 # AI铁幕合围：OpenAI/Anthropic/Google首次联手反蒸馏，直指DeepSeek

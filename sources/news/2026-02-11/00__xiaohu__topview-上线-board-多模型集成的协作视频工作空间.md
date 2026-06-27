@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Topview 上线 Board：多模型集成的协作视频工作空间"
 description: "**[核心逻辑]** 整合主流模型并引入实时团队协作机制，解决 AI 视频创作流程碎片化痛点。 - **整合能力**：一个工作区集成 Kling、Veo、SeeDance 和 ElevenLabs，无需多平台切换订阅。 - **协作特性**：支持团队实时编辑、标注和多版本迭代，提升 B 端客户的确认效率。 - **工作流**：打通从文字到图片再到虚拟形象视频的全链路生产。  [gakki 的锐评]"
 resource: "https://x.com/i/status/2021203501620265476"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2021203501620265476"
-created: "2026-02-10"
-updated: "2026-06-26"
-sha256: "294a0ba7518cf58d30663cca54a8c5382981e6d224e74fdeb1ca38e76a1ae8cb"
-sources:
-  - "/sources/news/2026-02-11/00__xiaohu__topview-上线-board-多模型集成的协作视频工作空间.md"
 ---
 
 # Topview 上线 Board：多模型集成的协作视频工作空间

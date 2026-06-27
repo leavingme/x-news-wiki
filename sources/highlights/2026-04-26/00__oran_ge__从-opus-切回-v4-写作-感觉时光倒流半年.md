@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "从 Opus 切回 V4 写作：感觉时光倒流半年"
 description: "**一位专业 AI 使用者在深度使用 Opus 后切换回 V4，感受到明显的写作能力落差，用「时光倒流半年」形容。**  - 「写作能力」是主观性最强的评测维度，但也是最难被 benchmark 捕捉的一项——这个对比来自实际工作流，可信度高于榜单分数 - 核心启示：当模型厂商都在刷榜的时候，「写作体感」才是真实用户留存的关键差异点 - V4 在逻辑推理和代码上的进步毋庸置疑，但文字工作的「韵味」"
 resource: "https://x.com/i/status/2048025731482157374"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2048025731482157374"
-created: "2026-04-25"
-updated: "2026-06-26"
-sha256: "5d12e2e1588f61ca19a73b55a4b3ba1e07c1b377e0151ee8070748bced5477dd"
-sources:
-  - "/sources/highlights/2026-04-26/00__oran_ge__从-opus-切回-v4-写作-感觉时光倒流半年.md"
 ---
 
 # 从 Opus 切回 V4 写作：感觉时光倒流半年

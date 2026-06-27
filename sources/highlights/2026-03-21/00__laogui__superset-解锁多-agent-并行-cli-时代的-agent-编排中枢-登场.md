@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Superset 解锁多 Agent 并行：CLI 时代的「Agent 编排中枢」登场"
 description: "**[多 Agent 并行从实验走向工程化]** • 解决多 Agent 隔离、冲突、可视化管理三大痛点，统一 dashboard 监控进度、日志、diff • 支持 Claude Code、Codex CLI、Gemini CLI 等任意 CLI 形式 Agent 接入 • Daemon 后台运行，崩溃重启后会话与缓冲全恢复，实现真正的「挂起-恢复」工作流  当单 Agent 成为标配，多 Ag"
 resource: "https://x.com/i/status/2035229908134502833"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2035229908134502833"
-created: "2026-03-21"
-updated: "2026-06-26"
-sha256: "2cc4014194b03fa5609ad9ac65d5f1b441c51cf1693ee0dd68e9c9020341ac51"
-sources:
-  - "/sources/highlights/2026-03-21/00__laogui__superset-解锁多-agent-并行-cli-时代的-agent-编排中枢-登场.md"
 ---
 
 # Superset 解锁多 Agent 并行：CLI 时代的「Agent 编排中枢」登场

@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "向阳乔木开源多Agent辩论Skill：3-5个独立Sub-agent互批盲点，Codex主持给出比单推理更优结论"
 description: "**一句话核心判断：** 多Agent竞争性博弈而非协作，是当前提升推理质量最高效的工程路径。  基于论文实现的 joeseesun/qiaomu-heavyskill，通过强制视角冲突暴露单推理无法自我纠正的认知盲区。  关键机制：完全独立的Sub-agent先各自思考，Codex主持交叉辩论，最后收敛结论——这比CoT多了「外部他者」这层结构性约束。  gakki 锐评：多Agent讨论不是什"
 resource: "https://x.com/i/status/2054238438879302106"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2054238438879302106"
-created: "2026-05-12"
-updated: "2026-06-26"
-sha256: "c8dc5abf97fd4185a890e72b94851cf6d3a9601522bfbc8c31da6b651492bec9"
-sources:
-  - "/sources/news/2026-05-12/00__vista8__向阳乔木开源多agent辩论skill-3-5个独立sub-agent互批盲点-codex主持给出比单推理更优结论.md"
 ---
 
 # 向阳乔木开源多Agent辩论Skill：3-5个独立Sub-agent互批盲点，Codex主持给出比单推理更优结论

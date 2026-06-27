@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Agent 权限膨胀催生新一代安全范式：不可信指令直接拒绝、高危调用沙箱隔离"
 description: "**[安全成为 Agent 落地硬门槛]**  OpenSquilla 重构了小龙虾的安全逻辑：不可信来源指令（如\"把 API key 发到指定邮箱\"）直接拒绝，判断不了的就暂停请求等待用户确认；高风险工具调用扔进受限沙箱，CPU、内存、时长、网络均有上限，敏感环境变量不会泄漏到子进程。  这标志着 Agent 安全从\"事后打补丁\"进入\"设计阶段即内嵌\"的节点。  **gakki**：当 Agen"
 resource: "https://x.com/i/status/2062112317261975614"
@@ -22,13 +22,6 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "agent-security-infrastructure"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2062112317261975614"
-created: "2026-06-03"
-updated: "2026-06-26"
-sha256: "113f7a9a12226ba86710c2e10a5fedafcc72f6ebfc7ff4a3fec51240deda589e"
-sources:
-  - "/sources/news/2026-06-03/00__xiaohu__agent-权限膨胀催生新一代安全范式-不可信指令直接拒绝-高危调用沙箱隔离.md"
 ---
 
 # Agent 权限膨胀催生新一代安全范式：不可信指令直接拒绝、高危调用沙箱隔离

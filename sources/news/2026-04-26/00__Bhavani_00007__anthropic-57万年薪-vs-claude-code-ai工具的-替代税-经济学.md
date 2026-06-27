@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Anthropic $57万年薪 vs Claude Code：AI工具的「替代税」经济学"
 description: "**Anthropic以57万美元年薪招聘工程师，有人在评论区灵魂拷问：为什么不直接用Claude Code？**  - 这个问题的潜台词是：当AI工具成本远低于人力成本时，企业是否还有动力雇佣顶级工程师？ - 现实是Claude Code能提升单人产出，但无法替代跨团队协作、上下文判断和商业决策——至少目前不能 - 「AI替代高薪工程师」的叙事和「AI提效后工程师反而更贵」的现实正在并行，两种逻"
 resource: "https://x.com/Bhavani_00007/status/2048259021225029772"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "ai-trend-digest"
-type_okf: "X Tweet"
-source_url: "https://x.com/Bhavani_00007/status/2048259021225029772"
-created: "2026-04-26"
-updated: "2026-06-26"
-sha256: "cfb852dc15f1dcec14c7c3b78d257c3e11e712e314c66e5d0fa356eecb1bf3cd"
-sources:
-  - "/sources/news/2026-04-26/00__Bhavani_00007__anthropic-57万年薪-vs-claude-code-ai工具的-替代税-经济学.md"
 ---
 
 # Anthropic $57万年薪 vs Claude Code：AI工具的「替代税」经济学

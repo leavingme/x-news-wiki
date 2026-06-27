@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "谷歌TurboQuant：内存压缩6倍背后的\"DeepSeek时刻\"是市场误读"
 description: "**[一句话核心判断]** 谷歌内存压缩技术引发存储股暴跌，但\"DeepSeek时刻\"这个类比高估了技术冲击力，低估了市场情绪的放大效应。  **要点：** - 效率提升6倍确实激进，但解决的是缓存成本问题，而非训练/推理的核心算力瓶颈 - 美银\"杰文斯悖论\"分析站得住脚：AI推理成本下降会激活更多部署，反而扩大硬件需求 - 存储股的恐慌性抛售更多是去年HBM过剩情绪的集中释放  **gakki锐"
 resource: "https://x.com/i/status/2036983122286547223"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2036983122286547223"
-created: "2026-03-26"
-updated: "2026-06-26"
-sha256: "58690e96e464ba1b1a5ef6ed68029c9500e4c45b41eb3b8c736dfa6c34fec77c"
-sources:
-  - "/sources/highlights/2026-04-08/00__fxtrader__谷歌turboquant-内存压缩6倍背后的-deepseek时刻-是市场误读.md"
 ---
 
 # 谷歌TurboQuant：内存压缩6倍背后的"DeepSeek时刻"是市场误读

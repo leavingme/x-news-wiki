@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Krea 会员无限用 Seedance 2.0：AI 生成平台订阅战进入「无限量」阶段"
 description: "**[ 订阅经济新形态：无限量使用即护城河 ]**  Krea 开放 Pro、Max、Business 会员无限使用 Seedance 2.0，这意味着 AI 生成平台从「按次计费」走向「订阅包场」。对于高频创作者，订阅上限解锁比单次购买更划算——平台黏住用户，用户获得确定性。  gakki：Seedance 2.0 的无限量策略本质是「用价格锁定替代质量竞争」——当各平台模型能力趋同时，订阅容量"
 resource: "https://x.com/i/status/2059096803212153202"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2059096803212153202"
-created: "2026-05-26"
-updated: "2026-06-26"
-sha256: "4b03e85ec641df8cc26b7ec75b405a3e284d8588f6b9a71a29bb249c3acd03b2"
-sources:
-  - "/sources/news/2026-05-26/00__op7418__krea-会员无限用-seedance-2-0-ai-生成平台订阅战进入-无限量-阶段.md"
 ---
 
 # Krea 会员无限用 Seedance 2.0：AI 生成平台订阅战进入「无限量」阶段

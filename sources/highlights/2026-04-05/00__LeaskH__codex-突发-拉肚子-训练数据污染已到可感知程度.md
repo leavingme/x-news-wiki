@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Codex 突发「拉肚子」：训练数据污染已到可感知程度"
 description: "**[ Codex 训练数据质量正在失控 ]**  Sixia Leask Huang 报告 Codex CLI 突然开始输出奇怪内容，直接质疑其训练数据来源。这不是偶发的模型 bug，而是数据污染规模已大到用户可感知边界的信号。  • 训练数据质量下滑通常在模型生命周期的中后期显现，Codex 作为 2024 年产品出现此症状，可能意味着 OpenAI 已开始使用更大规模的合成数据或低质量爬取数"
 resource: "https://x.com/i/status/2040469900745945571"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2040469900745945571"
-created: "2026-04-04"
-updated: "2026-06-26"
-sha256: "c87e4f27f7f408747ba201208ceaac9b31767b47902623e3a3deaa941ebd234a"
-sources:
-  - "/sources/highlights/2026-04-05/00__LeaskH__codex-突发-拉肚子-训练数据污染已到可感知程度.md"
 ---
 
 # Codex 突发「拉肚子」：训练数据污染已到可感知程度

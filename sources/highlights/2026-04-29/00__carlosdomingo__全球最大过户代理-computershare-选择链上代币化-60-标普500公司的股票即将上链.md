@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "全球最大过户代理 Computershare 选择链上代币化：60% 标普500公司的股票即将上链"
 description: "**传统金融基础设施主动拥抱链上代币化，标志着 RWA 从叙事进入系统性落地阶段。**  - Computershare 管理苹果、特斯拉、微软、英伟达等近 60% 标普 500 公司的股东登记，此次合作意味着数万亿美元级别的传统证券将获得链上原生交易和借贷能力。 - 保留原有权利和经济属性（same rights and economics），解决了此前 RWA 代币化最大的合规障碍——权益一致"
 resource: "https://x.com/carlosdomingo/status/2049464746080903269"
@@ -22,13 +22,6 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "ai-data-blockchain-verification"
 x_source: "ai-trend-digest"
-type_okf: "X Tweet"
-source_url: "https://x.com/carlosdomingo/status/2049464746080903269"
-created: "2026-04-29"
-updated: "2026-06-26"
-sha256: "3e41c1a78530addf6bcabcf0eae7ca7bd7bcac4a14f86a53cc93a7e0a06b7672"
-sources:
-  - "/sources/highlights/2026-04-29/00__carlosdomingo__全球最大过户代理-computershare-选择链上代币化-60-标普500公司的股票即将上链.md"
 ---
 
 # 全球最大过户代理 Computershare 选择链上代币化：60% 标普500公司的股票即将上链

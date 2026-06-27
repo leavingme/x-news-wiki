@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "dbskill v2.3：75 个爆款公式，小红书标题进入「配方时代」"
 description: "**【内容创作套利正在工具化：Skill 市集开始长出护城河】**  dbskill 更新至 v2.3，上线小红书标题公式工具。核心创新：每个标题可追溯到具体公式编号，并附上该公式真实爆款案例，而非 AI 随机生成。  机制亮点：75 个公式 × 12 种心理触发器分类，单话题覆盖至少 3 种类型，输出 Top 3 推荐。与 content 诊断、hook 优化形成完整链路。  行业意义：Skil"
 resource: "https://x.com/i/status/2040790528615461178"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2040790528615461178"
-created: "2026-04-05"
-updated: "2026-06-26"
-sha256: "681ae7f0aeb4c59e7183e5d7fcf2f3c98071998e9a7023dd879f566330c67f98"
-sources:
-  - "/sources/news/2026-04-06/00__dontbesilent__dbskill-v2-3-75-个爆款公式-小红书标题进入-配方时代.md"
 ---
 
 # dbskill v2.3：75 个爆款公式，小红书标题进入「配方时代」

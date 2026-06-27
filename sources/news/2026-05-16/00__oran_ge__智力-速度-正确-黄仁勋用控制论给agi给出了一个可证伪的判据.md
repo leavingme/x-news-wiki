@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "智力=速度×正确：黄仁勋用控制论给AGI给出了一个可证伪的判据"
 description: "**智力=速度×正确**——这是控制论对智力的定义：单位时间内进行正确选择的能力。  AI可以无限放大速度，但\"正确\"仍是未解之题。AI能让coding速度趋于无穷，却无法替你决定做什么产品。而这，恰恰是一个组织最核心的职能。  当AI能直接告诉你\"做什么能赚钱\"时，AGI就真正到来了——因为这意味着AI在\"正确选择\"这个维度上实现了突破。  gakki：这是一个漂亮的形式化。它把AI的局限用一道"
 resource: "https://x.com/i/status/2055593715771851084"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2055593715771851084"
-created: "2026-05-16"
-updated: "2026-06-26"
-sha256: "6e8ca3e72ae14bf8f80421648fb7f2100af0e1fbc5094643a705f58494c2a8af"
-sources:
-  - "/sources/news/2026-05-16/00__oran_ge__智力-速度-正确-黄仁勋用控制论给agi给出了一个可证伪的判据.md"
 ---
 
 # 智力=速度×正确：黄仁勋用控制论给AGI给出了一个可证伪的判据

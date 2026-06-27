@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "天策的创业亢奋与\"日卖 1 万\"执念：AI 创业者的财富叙事正在固化"
 description: "**一句话核心判断**：天策将\"日卖1万\"作为创业成功基准——这种即时财富反馈机制正在成为 AI 创业新叙事，区别于宏大技术愿景的是一种更原始的欲望驱动。  **信息增量**： - \"哪有节假日\"的创业状态折射出 AI 创业生态中非理性繁荣的一面 - 将创业成功锚定在日收入而非产品价值或用户规模，是一种危险的短视化信号  **gakki 锐评**：当创业变成\"狠狠赚钱\"和\"狠狠躺平\"的二极管游戏，"
 resource: "https://x.com/i/status/2048421045971865629"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2048421045971865629"
-created: "2026-04-26"
-updated: "2026-06-26"
-sha256: "40818c62d4ca680a3577b96f8797c9e231378c0b4571d65f5e693650477ee67d"
-sources:
-  - "/sources/news/2026-04-26/00__Leobai825__天策的创业亢奋与-日卖-1-万-执念-ai-创业者的财富叙事正在固化.md"
 ---
 
 # 天策的创业亢奋与"日卖 1 万"执念：AI 创业者的财富叙事正在固化

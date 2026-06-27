@@ -1,27 +1,17 @@
 ---
-type: "entity"
+type: "Author"
 title: "OpenClaw🦞 (@openclaw)"
 description: "X/Twitter 作者 @openclaw。共收录 5 条 AI 精选推文。"
 tags:
   - "x-news"
   - "author"
   - "author:openclaw"
-timestamp: "2026-06-26T11:53:36.990Z"
+timestamp: "2026-06-27T08:40:40.203Z"
 x_handle: "openclaw"
 x_author_name: "OpenClaw🦞"
 x_tweet_count: 5
 x_first_seen: "2026-04-27T19:17:37.798Z"
 x_last_seen: "2026-05-05T10:18:00.673Z"
-type_okf: "Author"
-created: "2026-04-27"
-updated: "2026-06-26"
-sha256: "0ceb02c6c78293e3d0e273dd8fdc4dff9e3c8ca624c9186f7d14065168dffa97"
-sources:
-  - "/sources/news/2026-04-27/00__openclaw__openclaw-2026-4-25-更新-tts-升级-插件加载提速-otel-可观测性落地-无感入侵能力持续深化.md"
-  - "/sources/news/2026-04-28/00__openclaw__openclaw-2026-4-26-更新-matrix-e2ee-加密-本地模型优化-开源-agent-生态继续深化.md"
-  - "/sources/news/2026-05-03/00__openclaw__openclaw-5-2-接入-grok-4-3-开源-agent-框架的多模型路由正在从-能用-走向-好用.md"
-  - "/sources/news/2026-05-04/00__openclaw__openclaw-2026-5-3-发布-文件传输-实时-agent-控制-开源-agent-基建从-能跑-走向-能管.md"
-  - "/sources/news/2026-05-05/00__openclaw__openclaw-2026-5-4-发布-插件安装体验优化-gateway-启动加速-windows-稳定性修复.md"
 ---
 
 # OpenClaw🦞 (@openclaw)

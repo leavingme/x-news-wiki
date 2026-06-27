@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Claude for Chrome自动回复微信：AI浏览器战争的终点已提前到来"
 description: "**[AI浏览器赛道实质性关闭：基础设施层整合比应用层创新来得更快]**  Claude for Chrome实现自动回复微信功能，AI浏览器这一创业赛道在基础设施整合面前提前结束。核心判断：当模型厂商自带浏览器能力，应用层创新窗口即关闭。  这和之前Chat UI\"范式固化\"的讨论是同一规律的两种呈现——交互层的机会窗口远短于基础设施层。  **gakki：AI浏览器不是终点，是入口迁移的过路费"
 resource: "https://x.com/i/status/1964184228746129858"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/1964184228746129858"
-created: "2025-09-06"
-updated: "2026-06-26"
-sha256: "85b5a16d40868774a323d18cf1f901291c06ac0f3a3c9abbf7f3218a4d26c5b8"
-sources:
-  - "/sources/news/2026-04-09/00__bourneliu66__claude-for-chrome自动回复微信-ai浏览器战争的终点已提前到来.md"
 ---
 
 # Claude for Chrome自动回复微信：AI浏览器战争的终点已提前到来

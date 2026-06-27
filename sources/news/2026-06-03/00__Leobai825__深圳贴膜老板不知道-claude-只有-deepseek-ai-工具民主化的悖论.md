@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "深圳贴膜老板不知道 Claude 只有 DeepSeek：AI 工具民主化的悖论"
 description: "一位深圳程序员摆地摊贴膜，手机上跑着 DeepSeek 写代码。推广者试图向他展示 Codex 和 Claude 的强大功能，但老板拒绝的理由是\"太贵了\"——这个细节暴露了 AI 普及叙事的裂缝：工具确实在向非技术群体渗透，但价格门槛与认知门槛同时存在。  三条信息增量：1) DeepSeek 在非技术人群中的渗透率可能远超预期；2) 真正的采用障碍不是功能，是商业模式与认知的双重门槛；3) 地摊"
 resource: "https://x.com/i/status/2062165942663081991"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2062165942663081991"
-created: "2026-06-03"
-updated: "2026-06-26"
-sha256: "7b3716c425d09565ce8efa389d87de0108dfec78096ad6dd9d8ddd2b02bd8498"
-sources:
-  - "/sources/news/2026-06-03/00__Leobai825__深圳贴膜老板不知道-claude-只有-deepseek-ai-工具民主化的悖论.md"
 ---
 
 # 深圳贴膜老板不知道 Claude 只有 DeepSeek：AI 工具民主化的悖论

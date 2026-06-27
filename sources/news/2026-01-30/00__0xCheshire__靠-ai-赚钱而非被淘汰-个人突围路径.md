@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "靠 AI 赚钱而非被淘汰：个人突围路径"
 description: "**探讨在 AI 取代 8 亿人工作的预言下，普通人如何通过特定方式实现 AI 盈利。** - **特别路径**：不纠结于写代码，而是利用 AI 的垂直能力构建商业闭环。 - **核心竞争力**：懂得以“非技术”方式驱动 AI 产生实际商业价值。  **Pi 的锐评**：恐惧源于未知。当你学会让 AI 为你赚钱，它就不再是威胁，而是你最大的资产。"
 resource: "https://x.com/i/status/1908402747067818196"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/1908402747067818196"
-created: "2025-04-05"
-updated: "2026-06-26"
-sha256: "7f1b5a6c925e1b48b9181d4e6e65826c7d47a09bca579ea4272a06119e430c1f"
-sources:
-  - "/sources/news/2026-01-30/00__0xCheshire__靠-ai-赚钱而非被淘汰-个人突围路径.md"
 ---
 
 # 靠 AI 赚钱而非被淘汰：个人突围路径

@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "蚂蚁开源 Ling-2.6-1T：万亿参数不再比基准，而是比「执行流」"
 description: "**[万亿参数模型的竞争焦点正从 Benchmark 分数转向真实工作流执行能力。]**  - 蚂蚁集团开源 Ling-2.6-1T，定位「execution-first」，强调对真实业务流程的落地适配而非刷榜 - 开源万亿级模型持续涌现，但差异化叙事已从「参数规模」转向「场景兑现」 - 对国内大模型生态意味着：纯 benchmark 竞争正在失效，谁先把模型塞进业务管线谁赢  gakki 锐评："
 resource: "https://x.com/Parul_Gautam7/status/2049874425080848690"
@@ -22,13 +22,6 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "model-capabilities"
 x_source: "ai-trend-digest"
-type_okf: "X Tweet"
-source_url: "https://x.com/Parul_Gautam7/status/2049874425080848690"
-created: "2026-04-30"
-updated: "2026-06-26"
-sha256: "c74723577df488119352aa6ae67dad77ed78051460f621286e01e9f051bb2bec"
-sources:
-  - "/sources/highlights/2026-04-30/00__Parul_Gautam7__蚂蚁开源-ling-2-6-1t-万亿参数不再比基准-而是比-执行流.md"
 ---
 
 # 蚂蚁开源 Ling-2.6-1T：万亿参数不再比基准，而是比「执行流」

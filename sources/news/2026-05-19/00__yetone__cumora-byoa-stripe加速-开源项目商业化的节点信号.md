@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Cumora BYOA+Stripe加速：开源项目商业化的节点信号"
 description: "Cumora正在全力接入BYOA（Bring Your Own API Key）和Stripe支付，意味着这个开源项目正在跨越「极客玩具」到「可变现产品」的分水岭。Waitlist+支付体系是SaaS产品的成人礼。"
 resource: "https://x.com/i/status/2056525900909564102"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2056525900909564102"
-created: "2026-05-19"
-updated: "2026-06-26"
-sha256: "189d159b3ec80e4be73f4ba6ae36b7c7b3805fe1c0cfeac8d2297dc45094c09d"
-sources:
-  - "/sources/news/2026-05-19/00__yetone__cumora-byoa-stripe加速-开源项目商业化的节点信号.md"
 ---
 
 # Cumora BYOA+Stripe加速：开源项目商业化的节点信号

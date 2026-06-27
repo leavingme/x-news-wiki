@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Anthropic「企业知识插件」开源：Claude正式进军组织架构层"
 description: "**[Claude从个人助手向企业知识基础设施跃迁的信号]** • 官方发布11个垂直岗位插件（产品/法务/营销/数据分析），直接对标企业内部员工角色定义 • 通过MCP打通Slack/Notion/Jira等主流协作工具，完成从「单点工具」到「工作流嵌入」的关键一跃 • 开源策略暗示Anthropic正在构建「Claude Certified」生态标准，与Cursor/Codex形成差异化竞争壁"
 resource: "https://x.com/i/status/2033880025293078801"
@@ -22,13 +22,6 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "claude-code-ecosystem"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2033880025293078801"
-created: "2026-03-17"
-updated: "2026-06-26"
-sha256: "67f517398ed54c998f719ca593f24daa88ebafde42bc8d14a3084ecd76360464"
-sources:
-  - "/sources/highlights/2026-03-18/00__GoJun315__anthropic-企业知识插件-开源-claude正式进军组织架构层.md"
 ---
 
 # Anthropic「企业知识插件」开源：Claude正式进军组织架构层

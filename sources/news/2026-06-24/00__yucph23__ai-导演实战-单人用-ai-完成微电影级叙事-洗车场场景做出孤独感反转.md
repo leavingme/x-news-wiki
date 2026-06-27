@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "AI 导演实战：单人用 AI 完成微电影级叙事，洗车场场景做出孤独感反转"
 description: "**AI 视频已能独立完成有情绪弧度的短片叙事，而非停留在炫技。**  - 尤達 YODA 发布的《NOT ALONE｜AI 導演 — 洗車場》，单人通过 AI 视频工具完成了一部有反转结构（以为只有她一人，直到听见投币声）的微短片。 - 关键信号：叙事节奏、音画配合、情绪铺垫都开始由 AI 工具链独立承担，创作者退居为\"导演意图\"的输入方。 - 对内容生产侧的启示：AI 短剧/微电影的边际成本进"
 resource: "https://x.com/i/status/2066843392596996315"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2066843392596996315"
-created: "2026-06-16"
-updated: "2026-06-26"
-sha256: "ffb32837f7c85d149617f9c8227f68c59ab81daf8dfab02bfacee83d6b59bfb0"
-sources:
-  - "/sources/news/2026-06-24/00__yucph23__ai-导演实战-单人用-ai-完成微电影级叙事-洗车场场景做出孤独感反转.md"
 ---
 
 # AI 导演实战：单人用 AI 完成微电影级叙事，洗车场场景做出孤独感反转

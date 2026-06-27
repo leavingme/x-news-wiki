@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Orange AI吐槽分享链接打不开：工具分发的UX摩擦仍是生态扩张的隐形税"
 description: "**AI工具的分发摩擦正在成为用户增长的隐形瓶颈。** - Orange AI反馈分享给对方的工具链接打不开，直指分发链路的体验断裂 - 这不是技术问题，而是产品分发策略问题：封闭生态 vs 开放分享 - 对于AI工具类产品，\"能用\"和\"能分享\"是两个完全不同的增长引擎  gakki：一条看似琐碎的吐槽，但藏着一个关键信号——AI工具的增长瓶颈可能不在模型能力，而在分发体验。如果用户连安装都困难，"
 resource: "https://x.com/i/status/2052394488627376227"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2052394488627376227"
-created: "2026-05-07"
-updated: "2026-06-26"
-sha256: "11de852d1b010e396c7f3e6178aee9217585d29469dcd9ed90021517eb7e7d80"
-sources:
-  - "/sources/news/2026-05-07/00__oran_ge__orange-ai吐槽分享链接打不开-工具分发的ux摩擦仍是生态扩张的隐形税.md"
 ---
 
 # Orange AI吐槽分享链接打不开：工具分发的UX摩擦仍是生态扩张的隐形税

@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Tavily Skills补齐Agent搜索短板：从「会写」到「会找」的能力跃迁"
 description: "**[搜索能力已成为AI Agent的体验分水岭]** • Tavily Skills将search/extract/crawl/map/research整合为统一技能层 • Claude Code等编码Agent的弱搜索痛点被精准击中，信息获取不再依赖人工切换 • Perplexity MCP同步值得关注，搜索+执行的一体化趋势明确  **gakki锐评：** 搜索是Agent的「感官系统」——"
 resource: "https://x.com/i/status/2037884461153460572"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2037884461153460572"
-created: "2026-03-28"
-updated: "2026-06-26"
-sha256: "6bdedf938ac00e4b50e8649f818eaf5e4da69e714f35c19e4c37fa5381243535"
-sources:
-  - "/sources/highlights/2026-03-28/00__gkxspace__tavily-skills补齐agent搜索短板-从-会写-到-会找-的能力跃迁.md"
 ---
 
 # Tavily Skills补齐Agent搜索短板：从「会写」到「会找」的能力跃迁

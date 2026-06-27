@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "yetone的Harness比Claude Code还早：框架工程学派正在重新定义AI编程的天花板"
 description: "**[「框架即壁垒」实证：Harness Engineering理念先于产品出现]**  yetone透露其Harness概念早于Claude Code诞生。这条信息量极大：它说明Harness Engineering不是一个被Claude Code验证后才流行的概念，而是一批工程师在AI编程实践中自发涌现出的工程纪律。MIT的研究（42%→78%差距来自框架而非模型）正在被中国开发者以产品形式落"
 resource: "https://x.com/i/status/2056108495716638789"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2056108495716638789"
-created: "2026-05-17"
-updated: "2026-06-26"
-sha256: "e5eadfb41a2bf985ef6ad288460b10bf39c16ec11758d1a137191386a5e3ddc7"
-sources:
-  - "/sources/news/2026-05-17/00__yetone__yetone的harness比claude-code还早-框架工程学派正在重新定义ai编程的天花板.md"
 ---
 
 # yetone的Harness比Claude Code还早：框架工程学派正在重新定义AI编程的天花板

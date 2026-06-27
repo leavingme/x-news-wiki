@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Yansu Skill 的真正创新：把记忆变成跨 Agent 公用基础设施"
 description: "**[ Agent 记忆终于从应用绑定走向协议层共享]**  Yansu 发布后没有正面解释\"为什么不用现有的 ChatBot\"，而是绕道推出 Skill——这个策略选择本身就是答案：与其在基态交互层面内卷，不如把能力抽成 Skill 让所有 Agent 都能调用。  核心机制：无感持续记录用户日常行为、自动萃取高质量上下文、充当 Agent 无关的 memory hub 和 knowledge "
 resource: "https://x.com/i/status/2054450636515864585"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2054450636515864585"
-created: "2026-05-13"
-updated: "2026-06-26"
-sha256: "ea4ed916c09d12740ae8471a0a3082ed027a1161f4ebc04de728545c88afeff1"
-sources:
-  - "/sources/highlights/2026-05-13/00__yetone__yansu-skill-的真正创新-把记忆变成跨-agent-公用基础设施.md"
 ---
 
 # Yansu Skill 的真正创新：把记忆变成跨 Agent 公用基础设施

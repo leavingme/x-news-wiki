@@ -1,23 +1,17 @@
 ---
-type: "entity"
+type: "Author"
 title: "terminally onλine εngineer (@tekbog)"
 description: "X/Twitter 作者 @tekbog。共收录 1 条 AI 精选推文。"
 tags:
   - "x-news"
   - "author"
   - "author:tekbog"
-timestamp: "2026-06-26T11:53:36.997Z"
+timestamp: "2026-06-27T08:40:40.211Z"
 x_handle: "tekbog"
 x_author_name: "terminally onλine εngineer"
 x_tweet_count: 1
 x_first_seen: "2026-05-06T01:18:22.725Z"
 x_last_seen: "2026-05-06T01:18:22.725Z"
-type_okf: "Author"
-created: "2026-05-06"
-updated: "2026-06-26"
-sha256: "6a92a37e5bdab967e1d5d5395301504be3eff49ac36e1252d34dd9859baf8e8a"
-sources:
-  - "/sources/news/2026-05-06/00__tekbog__matlab-也要加-agentic-workflow-传统工程工具的-ai-焦虑正在蔓延.md"
 ---
 
 # terminally onλine εngineer (@tekbog)

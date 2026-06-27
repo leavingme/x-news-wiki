@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "美国科技招聘潜规则曝光：MIT/斯坦福/CMU「白名单」与 AI 时代的阶级复制"
 description: "**【一句话核心判断】** 美国科技大厂招聘内部文件泄露，暴露了比公开 JD 严格得多的院校歧视链，AI 淘汰焦虑与学历通胀在此交汇。  **信息增量：** - 内部备忘录仅认可 MIT/斯坦福/CMU/UC 系，公开 JD 完全是烟雾弹 - 招聘人员的「高高在上和精英主义」是系统性而非个人行为 - 满足条件的人也被激怒——说明这套标准连从业者自身都不认同  **影响范围：** 海外求职的工程师、"
 resource: "https://x.com/i/status/1904054326118449224"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/1904054326118449224"
-created: "2025-03-24"
-updated: "2026-06-26"
-sha256: "49dbd726bd440d09a9c14ae6959b8fa22b5b7cc08b6db7b4d898ebc4852fb29a"
-sources:
-  - "/sources/news/2026-04-08/00__dotey__美国科技招聘潜规则曝光-mit-斯坦福-cmu-白名单-与-ai-时代的阶级复制.md"
 ---
 
 # 美国科技招聘潜规则曝光：MIT/斯坦福/CMU「白名单」与 AI 时代的阶级复制

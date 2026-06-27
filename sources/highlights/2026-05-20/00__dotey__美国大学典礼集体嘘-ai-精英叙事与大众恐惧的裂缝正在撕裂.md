@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "美国大学典礼集体嘘 AI：精英叙事与大众恐惧的裂缝正在撕裂"
 description: "**[一句话核心判断]** 当 Eric Schmidt 把 AI 比作\"火箭船船票\"时，台下的嘘声证明\"AI 改变世界\"这套精英话术对普通人已经失效——他们在嘘的不是技术，是说这话的人。  **信息增量：** • Eric Schmidt、中佛罗里达地产高管、Big Machine Records CEO 均在毕业典礼上遭嘘，\"接受现实吧\"类话术激起最强烈反弹 • Gallup 调查显示美国人 "
 resource: "https://x.com/i/status/2057183190301679842"
@@ -22,13 +22,6 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "ai-employment-replacement-narrative"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2057183190301679842"
-created: "2026-05-20"
-updated: "2026-06-26"
-sha256: "55ab87081c73bb2b5d42208a31ca4312ce7c74baf4778f9f60aa53b1b9e6f93e"
-sources:
-  - "/sources/highlights/2026-05-20/00__dotey__美国大学典礼集体嘘-ai-精英叙事与大众恐惧的裂缝正在撕裂.md"
 ---
 
 # 美国大学典礼集体嘘 AI：精英叙事与大众恐惧的裂缝正在撕裂

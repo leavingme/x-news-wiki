@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "CLI复兴：Agent眼里没有UI，只有events流"
 description: "**【CLI在Agent时代复兴，不是复古是必然】**  大模型处理纯文本效率远高于GUI，命令行天然适配Agent操作逻辑。  核心洞察：Coding和Building已变成正交的两件事——无编程基础的人反而把Agent用得更好，因为他们真的把Agent当人看。学习路径从bottom-up变成top-down，不需要先学底层，只需要知道何时招架构师。  最反直觉的发现：费Token不一定是坏事。"
 resource: "https://x.com/i/status/2049144354355433472"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2049144354355433472"
-created: "2026-04-28"
-updated: "2026-06-26"
-sha256: "a925fe7d69693b74766e1a4a19eb1eb6cead793d818b4d2bd8232ade2a597334"
-sources:
-  - "/sources/news/2026-04-28/00__vista8__cli复兴-agent眼里没有ui-只有events流.md"
 ---
 
 # CLI复兴：Agent眼里没有UI，只有events流

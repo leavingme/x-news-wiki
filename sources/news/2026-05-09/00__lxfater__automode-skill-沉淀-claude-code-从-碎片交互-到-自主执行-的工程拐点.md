@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "AutoMode + Skill 沉淀：Claude Code 从\"碎片交互\"到\"自主执行\"的工程拐点"
 description: "**Agent 自主执行模式正在替代人类逐条指挥的碎片交互范式。**  - 铁锤人实测 AutoMode 一口气下达全部任务，Claude Code 自主执行数分钟无需人类介入 - 关键工程实践：卡住时用 debug 找根因，将解决方案沉淀为 Skill，形成\"执行-诊断-固化\"闭环 - 发现自己无意中复现了 Hermes 的 Agent 架构——说明自主执行 + Skill 系统是 Agent "
 resource: "https://x.com/i/status/2053121346591195597"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2053121346591195597"
-created: "2026-05-09"
-updated: "2026-06-26"
-sha256: "621f482ce2e43f4e2cef279357a2a754e53f4259aa5052b4019e1fd952fa0b7d"
-sources:
-  - "/sources/news/2026-05-09/00__lxfater__automode-skill-沉淀-claude-code-从-碎片交互-到-自主执行-的工程拐点.md"
 ---
 
 # AutoMode + Skill 沉淀：Claude Code 从"碎片交互"到"自主执行"的工程拐点

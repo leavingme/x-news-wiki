@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Claude Code项目架构解析：让模型像工程师思考而非聊天机器人的四层结构"
 description: "**[仓库结构决定模型行为上限：CLAUDE.md是记忆锚点，.claude/skills/是能力复用层]**  核心方法论：杂乱仓库→普通聊天机器人；结构清晰的仓库→扎根代码库的专属工程师。四个关键组件：1）CLAUDE.md=仓库核心记忆，强制精简（内容过长模型反而忽略关键信息）；2）.claude/skills/=可复用专业模式；3）结构地图=文件模块分布；4）规范准则=允许与禁止的操作边界"
 resource: "https://x.com/i/status/2038507943650611348"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2038507943650611348"
-created: "2026-03-30"
-updated: "2026-06-26"
-sha256: "0d765b9d11bd36d32f53e60fab80bac5ab08e5c93ec1749f38cdb31eb35f8975"
-sources:
-  - "/sources/news/2026-04-09/00__DtDt666__claude-code项目架构解析-让模型像工程师思考而非聊天机器人的四层结构.md"
 ---
 
 # Claude Code项目架构解析：让模型像工程师思考而非聊天机器人的四层结构

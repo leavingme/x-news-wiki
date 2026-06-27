@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Manus 不是唯一解：PPT Skill 正在成为 Agent 工具链的新标配"
 description: "**【PPT 生产路径正在分化，Manus 的护城河还没建成就被围攻了】**  用户 Rachel 在对比 Manus 和 ppt skill 后，选择下次亲自测试效果再做判断。这条推文的价值在于它折射出一个趋势：PPT 作为高频刚需场景，正在被多个工具从不同角度切入——Manus 走的是通用 Agent 路线，ppt skill 可能是更轻量的专用路径。  用户开始有了「工具对比意识」而不是锁定"
 resource: "https://x.com/i/status/2055648822005789051"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2055648822005789051"
-created: "2026-05-16"
-updated: "2026-06-26"
-sha256: "9abba2315b1e2609cb938889b651de41bb14ed10d6278f764f5a222d4332bb87"
-sources:
-  - "/sources/news/2026-05-16/00__Zesee__manus-不是唯一解-ppt-skill-正在成为-agent-工具链的新标配.md"
 ---
 
 # Manus 不是唯一解：PPT Skill 正在成为 Agent 工具链的新标配

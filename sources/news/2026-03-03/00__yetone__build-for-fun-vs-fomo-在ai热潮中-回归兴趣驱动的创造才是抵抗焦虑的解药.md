@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Build for FUN vs FOMO：在AI热潮中，回归兴趣驱动的创造才是抵抗焦虑的解药"
 description: "**[在AI制造的集体FOMO（错失恐惧症）中，一句“为乐趣而建造”成为清醒的宣言]** - 开发者 yetone 提出“Build for FUN ✅ Build for FOMO ❌”，直指当前AI创业与开发中的普遍焦虑心态。 - 这不仅是对个人开发者的提醒，也是对整个行业追逐热点、忽视本质价值的批判。 - 在技术快速迭代的喧嚣中，兴趣和热爱驱动的项目往往更具持久生命力和创新性。  在人人都在"
 resource: "https://x.com/i/status/2028538487272829141"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2028538487272829141"
-created: "2026-03-02"
-updated: "2026-06-26"
-sha256: "f651f89a49addbea988b0d85ef42e5134a720f9bdc6ab2cbb7da547dce72cae9"
-sources:
-  - "/sources/news/2026-03-03/00__yetone__build-for-fun-vs-fomo-在ai热潮中-回归兴趣驱动的创造才是抵抗焦虑的解药.md"
 ---
 
 # Build for FUN vs FOMO：在AI热潮中，回归兴趣驱动的创造才是抵抗焦虑的解药

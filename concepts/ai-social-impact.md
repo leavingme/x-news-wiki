@@ -1,25 +1,22 @@
 ---
-type: "concept"
-title: "ai-social-impact"
-description: "跨日主题 \"ai-social-impact\"，共 1 条相关精选推文。"
+type: "Concept"
+title: "AI 社会影响"
+description: "跨日主题 \"AI 社会影响\" (ai-social-impact)，共 1 条相关精选推文。"
 tags:
   - "x-news"
   - "concept"
   - "topic:ai-social-impact"
-timestamp: "2026-06-26T11:53:37.015Z"
+timestamp: "2026-06-27T08:40:42.854Z"
 x_topic_slug: "ai-social-impact"
 x_tweet_count: 1
 x_first_seen: "2026-04-16T00:43:36.459Z"
 x_last_seen: "2026-04-16T00:43:36.459Z"
-type_okf: "Concept"
-created: "2026-04-16"
-updated: "2026-06-26"
-sha256: "3ccdb6f288783261609a103e1597f81c8b801cbb2bb8a124991c67bce8286660"
-sources:
-  - "/sources/highlights/2026-04-16/00__lifesinger__玉伯-信息时代只是工业时代的数字外衣-流水线的本质从未改变.md"
+x_cn_title_source: "dict"
 ---
 
-# 主题: ai-social-impact
+# 主题: AI 社会影响
+
+> slug: `ai-social-impact`
 
 本主题下共 **1** 条精选推文。
 

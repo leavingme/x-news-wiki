@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Michael Anti 质问：付费 ONE API router 却对底层模型隐身，透明度正在成为新战场"
 description: "**当 API 套利堆厚到「模型层完全隐身」，开发者付费买的究竟是什么正在被公开追问。**  要点： - 资深技术观察者 Michael Anti 公开质疑一类付费 ONE API router：用户付了钱，却无从得知背后跑的是哪个模型 - 这与 Claude API 假冒、API 安全话题一脉相承——聚合/中转层在变厚，模型来源在变隐身 - 信号意义：开发者与企业对「模型可追溯」的需求正在从隐性"
 resource: "https://x.com/i/status/2068956577428905994"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2068956577428905994"
-created: "2026-06-22"
-updated: "2026-06-26"
-sha256: "02ed536b9a4b9aa906f27cfa7c4f1d6630ff0cf1848bf217d43e57b2a1ea0ea5"
-sources:
-  - "/sources/news/2026-06-22/00__mranti__michael-anti-质问-付费-one-api-router-却对底层模型隐身-透明度正在成为新战场.md"
 ---
 
 # Michael Anti 质问：付费 ONE API router 却对底层模型隐身，透明度正在成为新战场

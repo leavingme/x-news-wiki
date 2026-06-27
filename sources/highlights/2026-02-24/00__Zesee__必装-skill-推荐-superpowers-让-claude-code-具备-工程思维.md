@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "必装 Skill 推荐：Superpowers 让 Claude Code 具备“工程思维”"
 description: "**[核心逻辑]** Vibe Coding 玩家的新外挂：通过引入头脑风暴、任务拆解和 TDD（测试驱动开发）流程，规范 AI 的产出质量。  - **流程重塑**：从“直接写代码”转向“先对齐需求再写测试”，利用子代理驱动模式实现两阶段审查。 - **效率提升**：将大任务拆解为可管理的微型步骤，显著减少后期反复调整的损耗。  [gakki 的锐评]：如果你还在用“对话框”写代码，那你还在石器"
 resource: "https://x.com/i/status/2025937622296846340"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2025937622296846340"
-created: "2026-02-23"
-updated: "2026-06-26"
-sha256: "4b11a96cb971bf2cc5d45a9b4812dcf30e49837230636b0a166ac900049d6d87"
-sources:
-  - "/sources/highlights/2026-02-24/00__Zesee__必装-skill-推荐-superpowers-让-claude-code-具备-工程思维.md"
 ---
 
 # 必装 Skill 推荐：Superpowers 让 Claude Code 具备“工程思维”

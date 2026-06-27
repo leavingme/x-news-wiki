@@ -1,23 +1,17 @@
 ---
-type: "entity"
+type: "Author"
 title: "OdailyNews (@OdailyChina)"
 description: "X/Twitter 作者 @OdailyChina。共收录 1 条 AI 精选推文。"
 tags:
   - "x-news"
   - "author"
   - "author:OdailyChina"
-timestamp: "2026-06-26T11:53:36.965Z"
+timestamp: "2026-06-27T08:40:40.174Z"
 x_handle: "OdailyChina"
 x_author_name: "OdailyNews"
 x_tweet_count: 1
 x_first_seen: "2026-03-23T00:43:10.467Z"
 x_last_seen: "2026-03-23T00:43:10.467Z"
-type_okf: "Author"
-created: "2026-03-23"
-updated: "2026-06-26"
-sha256: "f94bc29e27162debf21e25d71c1d2f58bd75737e1239acc5c5b2f35e2a96dc77"
-sources:
-  - "/sources/highlights/2026-03-23/00__OdailyChina__深圳-养虾现场-大厂agent入口战争进入地面肉搏阶段.md"
 ---
 
 # OdailyNews (@OdailyChina)

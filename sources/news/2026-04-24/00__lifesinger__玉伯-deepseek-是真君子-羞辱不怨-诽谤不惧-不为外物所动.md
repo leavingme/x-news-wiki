@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "玉伯：DeepSeek 是真君子，羞辱不怨、诽谤不惧、不为外物所动"
 description: "**AGI 信仰者的一次公开表态：DeepSeek 代表某种技术价值观**  - 玉伯引《荀子》「君子」篇，暗含判断：DeepSeek 是当前最「干净」的模型——不修虚名、不惧质疑、率道而行 - 这不是技术评测，是行业意见领袖的站位表态 - 在大厂模型纷纷陷入舆论战的背景下，玉伯以「君子」定性 DeepSeek，隐含对其开源路线和克制商业化的认可"
 resource: "https://x.com/i/status/2047530822207787286"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2047530822207787286"
-created: "2026-04-24"
-updated: "2026-06-26"
-sha256: "6ea9cae8de160e6ebd14ec99ffc710b436dcb91e6605ca14c54571cf059383fe"
-sources:
-  - "/sources/news/2026-04-24/00__lifesinger__玉伯-deepseek-是真君子-羞辱不怨-诽谤不惧-不为外物所动.md"
 ---
 
 # 玉伯：DeepSeek 是真君子，羞辱不怨、诽谤不惧、不为外物所动

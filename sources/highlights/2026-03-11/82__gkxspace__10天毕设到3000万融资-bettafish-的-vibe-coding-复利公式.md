@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "10天毕设到3000万融资：BettaFish 的 Vibe Coding 复利公式"
 description: "**[超级个体时代的曝光即资本]** • 大学生 10 天用 AI 完成开源项目，3 个月内从 1k star 登顶 36k，盛大投资 3000 万——试错成本被 AI 压缩到接近零 • 技术能力正在被「非技术能力」取代：曝光、叙事、社区运营成为项目价值的放大器 • 可复制性存疑：Vibe Coding 工作流公开，但「爆款直觉」和「个人品牌」无法批量生产  **gakki 锐评：** AI 把「"
 resource: "https://x.com/i/status/2031220998951842109"
@@ -22,13 +22,6 @@ x_selected: 2
 x_priority: 82
 x_related_topic: "vibe-coding-methodology"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2031220998951842109"
-created: "2026-03-10"
-updated: "2026-06-26"
-sha256: "4f68836d0283055265c35dd1f821ebe130801673291f0f9d58142412e4f50b8a"
-sources:
-  - "/sources/highlights/2026-03-11/82__gkxspace__10天毕设到3000万融资-bettafish-的-vibe-coding-复利公式.md"
 ---
 
 # 10天毕设到3000万融资：BettaFish 的 Vibe Coding 复利公式

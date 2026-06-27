@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Claude Code 的「新手友好」升级：/init 从配置工具进化为交互式访谈"
 description: "**[降低认知摩擦是Agent产品化的关键战场]** • 新版/init通过主动访谈引导用户配置skills、hooks，从「文档阅读」转向「对话式设置」 • 环境变量开关的测试策略，体现Anthropic的谨慎发布节奏 • 这一改动直指Claude Code的核心用户增长瓶颈——非技术用户的上手门槛  **gakki 锐评：** 这是Claude Code从「工程师玩具」向「大众工具」转型的微观"
 resource: "https://x.com/i/status/2035937920277000683"
@@ -22,13 +22,6 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "claude-code-ecosystem"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2035937920277000683"
-created: "2026-03-23"
-updated: "2026-06-26"
-sha256: "7a2cc7896caa12ffb9a5effb17b0a023d815d6cdd3dd77290669ad0a763e7582"
-sources:
-  - "/sources/highlights/2026-03-23/00__xiaohu__claude-code-的-新手友好-升级-init-从配置工具进化为交互式访谈.md"
 ---
 
 # Claude Code 的「新手友好」升级：/init 从配置工具进化为交互式访谈

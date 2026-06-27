@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Claude Code NO_FLICKER：终端渲染的工程救赎"
 description: "**[判断]** Claude Code 推出全屏渲染模式（NO_FLICKER），通过接管终端视口彻底消灭对话长后的闪烁跳屏，内存不再随对话膨胀，附带鼠标定位光标、点击 URL 直接打开等交互升级。  • 根源是 ANSI 转义码无法单行刷新，只能全屏清空重绘——这是终端交互的 decades-old 问题 • 代价是原生 Cmd+F 搜索和选区复制被接管，需改用 Ctrl+O+/ • 鼠标支持"
 resource: "https://x.com/i/status/2039447849675469060"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2039447849675469060"
-created: "2026-04-01"
-updated: "2026-06-26"
-sha256: "a0555267ef93c5bef370486019483b87c14bb2d5e97b26a416ce9bcb916639a3"
-sources:
-  - "/sources/news/2026-04-02/00__dotey__claude-code-no-flicker-终端渲染的工程救赎.md"
 ---
 
 # Claude Code NO_FLICKER：终端渲染的工程救赎

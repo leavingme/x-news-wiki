@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "稀缺性SaaS的护城河：Vibe Coding无法触及的价值高地"
 description: "**[AI Coding边界的一次清醒界定]** • 真正能建立壁垒的SaaS，恰恰是那些无法用Vibe Coding快速复制的复杂产品 • 解决实际问题的深度能力，与快速生成代码的表面效率之间存在结构性断层 • 这标志着AI Coding市场正在从\"快速原型\"向\"稀缺价值\"的分化拐点  当所有人都在Vibe Coding时，真正的护城河是「无法被Vibe出来的业务深度」。"
 resource: "https://x.com/i/status/2036115161937825897"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2036115161937825897"
-created: "2026-03-23"
-updated: "2026-06-26"
-sha256: "49bc805bc90ca7ae3996dabd3933935932c6ccf17008ddb9773da1dfc7bbeb7c"
-sources:
-  - "/sources/highlights/2026-03-24/00__dotey__稀缺性saas的护城河-vibe-coding无法触及的价值高地.md"
 ---
 
 # 稀缺性SaaS的护城河：Vibe Coding无法触及的价值高地

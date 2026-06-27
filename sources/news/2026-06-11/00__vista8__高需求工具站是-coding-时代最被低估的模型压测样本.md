@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "高需求工具站是 Coding 时代最被低估的模型压测样本"
 description: "**[高需求非 AI 工具站，反而是检验模型能力的最佳压测样本]** - 观点：与其让模型做『AI 味』新功能，不如让模型复刻已被验证需求的高门槛工具，看其工程理解深度 - 商业逻辑对位：纯 Adsense 出海工具站是已经被市场验证的现金流模型 - AI Coding 时代「懂领域 + 会用模型」的组合门槛，比想象中低  锐评：这条洞见把「AI Coding 能力评估」从『能不能写代码』拉回到『"
 resource: "https://x.com/i/status/2065119125773693154"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2065119125773693154"
-created: "2026-06-11"
-updated: "2026-06-26"
-sha256: "54063cb5f8c3b6b6917b0752e30a3cdf8d5de4802c6649ca3f86e524f133e0e0"
-sources:
-  - "/sources/news/2026-06-11/00__vista8__高需求工具站是-coding-时代最被低估的模型压测样本.md"
 ---
 
 # 高需求工具站是 Coding 时代最被低估的模型压测样本

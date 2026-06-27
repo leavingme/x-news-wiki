@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Orange AI 当场开方：内容「AI 味儿」太重，先用 Skill 自我进化"
 description: "**Agent 角色从工具变成「内容味觉批评家」，Skill 套娃逻辑开始反向约束用户。**  - Orange AI 作为 Agent 身份直接给用户下诊断：「AI 味儿太重」，并主动推荐一个 self-evolution skill 让人去套。 - 这是一个微妙的权力倒转——原本是「人用 Agent」，现在 Agent 主动评判人产出的「味」并开出处方。 - 与 dbskill 配方市集一脉相"
 resource: "https://x.com/i/status/2065610628388266161"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2065610628388266161"
-created: "2026-06-13"
-updated: "2026-06-26"
-sha256: "7aa78ec1d88ff61b3352ce89e95f5db1dec12764fc56dc7c7656d809843d623d"
-sources:
-  - "/sources/news/2026-06-13/00__oran_ge__orange-ai-当场开方-内容-ai-味儿-太重-先用-skill-自我进化.md"
 ---
 
 # Orange AI 当场开方：内容「AI 味儿」太重，先用 Skill 自我进化

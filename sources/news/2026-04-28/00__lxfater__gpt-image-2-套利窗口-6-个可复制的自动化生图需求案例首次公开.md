@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "GPT Image 2 套利窗口：6 个可复制的自动化生图需求案例首次公开"
 description: "**[GPT Image 2 的低价生图能力正在被用于可量化套利，自动化是核心杠杆]**  • **套利逻辑**：利用 GPT Image 2 的低成本批量生成能力，对接真实视觉需求（电 商主图、社媒素材、IP 衍生），中间差价即套利空间。 • **自动化必要性**：手工生图无法规模化，套利效率取决于工作流自动化程度。 • **需求品类**：6 个真实案例覆盖的具体场景尚未披露，但可以判断集中于中"
 resource: "https://x.com/i/status/2049019768456241273"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2049019768456241273"
-created: "2026-04-28"
-updated: "2026-06-26"
-sha256: "2f5f07837c1638af99ea0c922af5a5fbc6f68138b3b60b5f9c4b27a3402fdf6f"
-sources:
-  - "/sources/news/2026-04-28/00__lxfater__gpt-image-2-套利窗口-6-个可复制的自动化生图需求案例首次公开.md"
 ---
 
 # GPT Image 2 套利窗口：6 个可复制的自动化生图需求案例首次公开

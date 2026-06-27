@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "idea不值钱，时间和精神的打磨才值钱：反创业神话的朴素真相"
 description: "**[一个被反复验证的朴素真相]**  Orange AI 这条转发点评切中了一个广泛流传的创业迷思：把\"好 idea\"当作核心竞争力。事实上 Idea 是极度贬值的——它在公开场合被说出的那一刻，已经被听到的人以各种形式\"实践\"过了。真正稀缺的是将 idea 持续打磨所投入的时间和精神成本。  - 反直觉框架：信息差套利已死，执行力复利才是护城河 - 对 AI 创业圈\"AI buzzword +"
 resource: "https://x.com/i/status/2058339873615229237"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2058339873615229237"
-created: "2026-05-24"
-updated: "2026-06-26"
-sha256: "019b09a7936804883483ae780bfc709bb625d22bda8befedc73bc761558a688b"
-sources:
-  - "/sources/news/2026-05-24/00__oran_ge__idea不值钱-时间和精神的打磨才值钱-反创业神话的朴素真相.md"
 ---
 
 # idea不值钱，时间和精神的打磨才值钱：反创业神话的朴素真相

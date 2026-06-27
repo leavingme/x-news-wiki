@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "44倍轻量级Claude Code平替：港科大OpenHarness用1.2万行代码复刻51万行核心能力"
 description: "**[Claude Code开源复刻潮：轻量化框架正在解构Anthropic的工程护城河]**  港科大团队发布的OpenHarness提供了一个耐人寻味的数据锚点：51万行vs1.2万行，44倍的代码量差距。这不是\"山寨\"，而是一次成功的逆向工程实验——它证明了Claude Code的核心Loop（Agent循环、流式工具调用、MCP集成、Skills系统）在工程实现上存在大量\"噪声\"。  关键"
 resource: "https://x.com/i/status/2039997857391129080"
@@ -22,13 +22,6 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "claude-code-ecosystem"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2039997857391129080"
-created: "2026-04-03"
-updated: "2026-06-26"
-sha256: "16fafcf3ef7fb359b7c65268fbc103a58cbb6e9befdde6ddf2b632169503d71a"
-sources:
-  - "/sources/highlights/2026-04-04/00__NFTCPS__44倍轻量级claude-code平替-港科大openharness用1-2万行代码复刻51万行核心能力.md"
 ---
 
 # 44倍轻量级Claude Code平替：港科大OpenHarness用1.2万行代码复刻51万行核心能力

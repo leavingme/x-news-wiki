@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "DeerFlow 2.0：字节开源「沙箱Agent」对OpenClaw的差异化回应"
 description: "**【Agent执行安全的工程化解决方案】** • 每次任务创建隔离Docker容器，Bug不影响宿主系统 • 主Agent自动拆分子任务并行处理，压缩执行时间 • 与OpenClaw「本机直连」形成鲜明对比：安全优先 vs 效率优先  gakki 锐评：这是「可信Agent」的关键一步——当Agent开始操作用户电脑，隔离不是可选项，是底线。"
 resource: "https://x.com/i/status/2037020949825151039"
@@ -22,13 +22,6 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "agent-security-infrastructure"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2037020949825151039"
-created: "2026-03-26"
-updated: "2026-06-26"
-sha256: "c5104fd9d4e609d49032b27a686947fc82b8a1229c8e08ea2f5e68d71d2eccdd"
-sources:
-  - "/sources/news/2026-03-28/00__Jason23818126__deerflow-2-0-字节开源-沙箱agent-对openclaw的差异化回应.md"
 ---
 
 # DeerFlow 2.0：字节开源「沙箱Agent」对OpenClaw的差异化回应

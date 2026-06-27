@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "个人信源治理：FreshRSS + Claude Code 手搓专属数据库"
 description: "**[核心逻辑]** 解决 Agent 联网搜索质量低下的方案：构建基于 PostgreSQL 的 RSS 数据库，通过扩展提升 AI 调用的上下文质量。"
 resource: "https://x.com/i/status/2023052495589908838"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2023052495589908838"
-created: "2026-02-15"
-updated: "2026-06-26"
-sha256: "448d4ad9e303ff5b91a382ffe9eb8b5500713b82b52583bfd390a6288e1fc0a8"
-sources:
-  - "/sources/highlights/2026-02-16/00__libukai__个人信源治理-freshrss-claude-code-手搓专属数据库.md"
 ---
 
 # 个人信源治理：FreshRSS + Claude Code 手搓专属数据库

@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "宝玉实测：Copilot 早期确实便宜，但开发者主力工具已迁移至 Claude Code / Codex"
 description: "**一句话核心判断：** 开发者用脚投票完成了工具链重构——Copilot 的价格敏感期已过，Claude Code 和 Codex 正在吃掉它的「习惯性依赖」份额。  **要点：** - Copilot 早期低价策略奏效，完成了用户教育；但当价格回归正常，用户的迁移成本比预期低得多 - 宝玉这类顶级开发者将 Codex + Claude Code 定为默认、Copilot 降级为「辅助」，说明工"
 resource: "https://x.com/i/status/2061966087927771543"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2061966087927771543"
-created: "2026-06-03"
-updated: "2026-06-26"
-sha256: "a8aea115dcfe79b5c0783d5286890549caa4d4f34fff5783a0ba1a3ff8b8459c"
-sources:
-  - "/sources/news/2026-06-03/00__dotey__宝玉实测-copilot-早期确实便宜-但开发者主力工具已迁移至-claude-code-codex.md"
 ---
 
 # 宝玉实测：Copilot 早期确实便宜，但开发者主力工具已迁移至 Claude Code / Codex

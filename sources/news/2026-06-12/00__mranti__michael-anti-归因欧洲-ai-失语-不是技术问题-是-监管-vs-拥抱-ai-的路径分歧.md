@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Michael Anti 归因欧洲 AI 失语：不是技术问题，是\"监管 vs 拥抱 AI\"的路径分歧"
 description: "**[欧洲 AI 落后的根本原因是把监管当成目的而非手段，这是与中美完全不同的制度路径依赖]** - Michael Anti 作为 outsider 阅读《Europe 2031》后给出更简洁的归因：欧洲人喜欢监管而不是拥抱 AI - 这是一种制度文化层面的\"路径选择\"诊断，比报告本身更尖锐 - 把欧洲 AI 失语与中美 AI 崛起并置，本质是追问\"AI 是被规制对象还是被加速基础设施\"  ga"
 resource: "https://x.com/i/status/2065212331005772070"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2065212331005772070"
-created: "2026-06-11"
-updated: "2026-06-26"
-sha256: "14eef2dbaef69ba55c6268380be458e4395de69a705ea93b37943637876fd5c2"
-sources:
-  - "/sources/news/2026-06-12/00__mranti__michael-anti-归因欧洲-ai-失语-不是技术问题-是-监管-vs-拥抱-ai-的路径分歧.md"
 ---
 
 # Michael Anti 归因欧洲 AI 失语：不是技术问题，是"监管 vs 拥抱 AI"的路径分歧

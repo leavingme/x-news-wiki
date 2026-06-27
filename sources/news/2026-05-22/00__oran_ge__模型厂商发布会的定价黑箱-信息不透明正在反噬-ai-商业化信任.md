@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "模型厂商发布会的定价黑箱：信息不透明正在反噬 AI 商业化信任"
 description: "**连价格都不敢写出来的模型发布，本质是心虚。**  - Qwen Max、 Gemini Omni 等主流模型发布，参数规模闭口不谈，定价遮遮掩掩，用户要花大量时间手动查证 - 定价黑箱加剧了企业选型成本，采购流程被迫倒退到\"逐一询价\"的前数字化阶段 - 谷歌搜索都找不到基础数据，说明厂商本身就没打算让用户高效对比  这种不透明本质上是价格歧视的前置准备。信息越不对称，厂商定价权越大，用户越被动"
 resource: "https://x.com/i/status/2057611506003660881"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2057611506003660881"
-created: "2026-05-21"
-updated: "2026-06-26"
-sha256: "502d9b400221c8126ea863294a491fd9ceef2d916d667d799f16feb3e7e0b0e2"
-sources:
-  - "/sources/news/2026-05-22/00__oran_ge__模型厂商发布会的定价黑箱-信息不透明正在反噬-ai-商业化信任.md"
 ---
 
 # 模型厂商发布会的定价黑箱：信息不透明正在反噬 AI 商业化信任

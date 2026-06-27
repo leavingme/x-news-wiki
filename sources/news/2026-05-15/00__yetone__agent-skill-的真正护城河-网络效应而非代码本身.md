@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Agent Skill 的真正护城河：网络效应而非代码本身"
 description: "**一个标准品进入协作网络后，自我演进的潜力远超作者原初设想。**  核心信息增量：yetone 指出了 Agent Skill 作为标准化交付物的两个被低估的特性——evolving（自我演进）和 shareable（可共享）。这与传统的开源代码库逻辑有本质区别：传统开源是静态的、版本冻结的；而 Agent Skill 一旦被复用，就会因为真实反馈持续变形，甚至超出原作者预期。  更关键的是 s"
 resource: "https://x.com/i/status/2055107141388894708"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2055107141388894708"
-created: "2026-05-15"
-updated: "2026-06-26"
-sha256: "3307e374ab3e6aacaffa8237a3778cd782b8fa9f968a83488b273fe56d68f93e"
-sources:
-  - "/sources/news/2026-05-15/00__yetone__agent-skill-的真正护城河-网络效应而非代码本身.md"
 ---
 
 # Agent Skill 的真正护城河：网络效应而非代码本身

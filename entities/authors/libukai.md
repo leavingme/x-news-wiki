@@ -1,23 +1,17 @@
 ---
-type: "entity"
+type: "Author"
 title: "李不凯正在研究 (@libukai)"
 description: "X/Twitter 作者 @libukai。共收录 1 条 AI 精选推文。"
 tags:
   - "x-news"
   - "author"
   - "author:libukai"
-timestamp: "2026-06-26T11:53:36.937Z"
+timestamp: "2026-06-27T08:40:40.144Z"
 x_handle: "libukai"
 x_author_name: "李不凯正在研究"
 x_tweet_count: 1
 x_first_seen: "2026-02-16T01:00:41.094Z"
 x_last_seen: "2026-02-16T01:00:41.094Z"
-type_okf: "Author"
-created: "2026-02-16"
-updated: "2026-06-26"
-sha256: "8a7b7d647033e295a8281d473ac82471eb926a5d9580e11880962312d4784b7a"
-sources:
-  - "/sources/highlights/2026-02-16/00__libukai__个人信源治理-freshrss-claude-code-手搓专属数据库.md"
 ---
 
 # 李不凯正在研究 (@libukai)

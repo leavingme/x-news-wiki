@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "宝玉 baoyu-design Skill 升级：Figma 导入闭环，本地设计系统可一键重建"
 description: "**Claude Design 生态闭环打通：宝玉的 baoyu-design Skill 支持本地 Figma 文件导入，可从 Figma 设计系统在本地重建同款 Design System。** - 解决了 Figma → AI 工作流断裂的核心痛点，不再依赖 Figma MCP - 支持 Design System 持久化，新建设计项目可直接复用 - 坦诚披露依赖 Claude Fable "
 resource: "https://x.com/i/status/2064959133535658144"
@@ -22,13 +22,6 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "claude-design-tool"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2064959133535658144"
-created: "2026-06-11"
-updated: "2026-06-26"
-sha256: "82c0dbbe87abc761c74b0e746bbc586932a4365366f5887882f45d1b1cc91159"
-sources:
-  - "/sources/highlights/2026-06-11/00__dotey__宝玉-baoyu-design-skill-升级-figma-导入闭环-本地设计系统可一键重建.md"
 ---
 
 # 宝玉 baoyu-design Skill 升级：Figma 导入闭环，本地设计系统可一键重建

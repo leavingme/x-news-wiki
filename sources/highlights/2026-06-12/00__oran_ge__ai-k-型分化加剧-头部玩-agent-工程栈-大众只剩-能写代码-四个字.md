@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "AI K 型分化加剧：头部玩 Agent 工程栈，大众只剩\"能写代码\"四个字"
 description: "**AI 没有带来平权，反而把用户撕成两个物种——会写工程栈的与只会聊天的。**  - Orange AI 列出\"Agent 老炮儿\"已默认掌握的栈：文档、规则、memory、loop、MCP、CLI、工具调用、权限、沙箱、上下文工程、cron、心跳、文件系统、代码执行、Skill——这是 14 层心智模型。 - 大众认知仍停留在\"Agent 能写代码\"——一个孤立的、不可拆解的魔法黑盒。 - 跨"
 resource: "https://x.com/i/status/2065556362298585147"
@@ -22,13 +22,6 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "ai-knowledge-tool-competition"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2065556362298585147"
-created: "2026-06-12"
-updated: "2026-06-26"
-sha256: "b16cf25f4984f7f63616394a47f8b6666bcc288c1f5b1bd19703cb43e528b26a"
-sources:
-  - "/sources/highlights/2026-06-12/00__oran_ge__ai-k-型分化加剧-头部玩-agent-工程栈-大众只剩-能写代码-四个字.md"
 ---
 
 # AI K 型分化加剧：头部玩 Agent 工程栈，大众只剩"能写代码"四个字

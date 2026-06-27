@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "独立工作室用 RunwayML 概念片参赛：AI 视频从「实验品」正式进入「策展级叙事」阶段"
 description: "**Contanimation 为 RunwayML Big Pitch 大赛提交概念片《Sincitium》，刻意脱离惯常风格进行美学实验——AI 视频创作已从「能用」进化到「敢玩」。** - 这不是展示技术能力，而是独立工作室用 AI 工具进行有意识的风格突破 - Runway 通过竞赛机制在做的事，是让 AI 视频进入传统影视的「策展-评奖」通道 - 当创作者开始用 AI 做「不像 AI 的"
 resource: "https://x.com/Delachica_/status/2051296715781619829"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "ai-trend-digest"
-type_okf: "X Tweet"
-source_url: "https://x.com/Delachica_/status/2051296715781619829"
-created: "2026-05-04"
-updated: "2026-06-26"
-sha256: "da1e09167cd93f29119f5383942a42cfe42553a1516933d3f1da32f0eea609d8"
-sources:
-  - "/sources/news/2026-05-04/00__Delachica___独立工作室用-runwayml-概念片参赛-ai-视频从-实验品-正式进入-策展级叙事-阶段.md"
 ---
 
 # 独立工作室用 RunwayML 概念片参赛：AI 视频从「实验品」正式进入「策展级叙事」阶段

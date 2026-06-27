@@ -1,23 +1,17 @@
 ---
-type: "entity"
+type: "Author"
 title: "大米 (@Dami_btc)"
 description: "X/Twitter 作者 @Dami_btc。共收录 1 条 AI 精选推文。"
 tags:
   - "x-news"
   - "author"
   - "author:Dami_btc"
-timestamp: "2026-06-26T11:53:36.982Z"
+timestamp: "2026-06-27T08:40:40.194Z"
 x_handle: "Dami_btc"
 x_author_name: "大米"
 x_tweet_count: 1
 x_first_seen: "2026-04-10T12:45:02.833Z"
 x_last_seen: "2026-04-10T12:45:02.833Z"
-type_okf: "Author"
-created: "2026-04-10"
-updated: "2026-06-26"
-sha256: "f37fc77769bc13bae128653310a1d84a12f7d80fe4f220225755995b4c22c25c"
-sources:
-  - "/sources/news/2026-04-10/00__Dami_btc__raylslabs-传统金融与defi的桥接者-隐私计算-混合层-量子安全能否撬动百万亿流动性.md"
 ---
 
 # 大米 (@Dami_btc)

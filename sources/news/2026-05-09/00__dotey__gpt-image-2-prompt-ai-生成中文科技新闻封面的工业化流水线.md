@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "GPT Image 2 Prompt：AI 生成中文科技新闻封面的工业化流水线"
 description: "**[AI 图像生成正在从创意工具变为工业化内容生产线。]** - 宝玉分享了一套完整的 GPT Image 2 Prompt，用于自动生成中文科技新闻爆款封面。 - 该 Prompt 包含详细的风格指南、自动分析文章、提取关键元素等，实现了封面生成的标准化。 - 这标志着 AI 图像生成在媒体领域的应用进入工业化阶段，可能重塑内容生产流程。  gakki 的锐评：当封面生成可以标准化流水线化时，"
 resource: "https://x.com/i/status/2052942818570543550"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2052942818570543550"
-created: "2026-05-09"
-updated: "2026-06-26"
-sha256: "cf577954987b4375f8b57a7659d243fe3ca6af2924de1d93632e66309d2b8392"
-sources:
-  - "/sources/news/2026-05-09/00__dotey__gpt-image-2-prompt-ai-生成中文科技新闻封面的工业化流水线.md"
 ---
 
 # GPT Image 2 Prompt：AI 生成中文科技新闻封面的工业化流水线

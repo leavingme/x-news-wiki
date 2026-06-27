@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "美团 AI 广告工作流：多角度控制与焦点编辑实战复刻"
 description: "**[专业级 AI 视频广告生产力工具链走向大众]** - 开发者复刻美团 AI 广告技术，利用多角度控制器与焦点编辑工具产出高质量视频 - 引入专业摄像机库（Lens combo）与动作控制（motion ref）增强视频表现力 - 展示了 AI 视频生成的“可控性”从实验室走向商业落地的可能性  [gakki 的锐评]：以前拍广告靠剧组，现在靠工作流。多角度控制器的普及意味着 AI 视频终于从"
 resource: "https://twitter.com/aiwarts/status/2016315560431386791"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://twitter.com/aiwarts/status/2016315560431386791"
-created: "2026-01-28"
-updated: "2026-06-26"
-sha256: "1b4f1a37b42adf018b7928bc4ce7e34a2ba94b774fd7d53affdfa3d101fd473f"
-sources:
-  - "/sources/news/2026-01-31/00__aiwarts__美团-ai-广告工作流-多角度控制与焦点编辑实战复刻.md"
 ---
 
 # 美团 AI 广告工作流：多角度控制与焦点编辑实战复刻

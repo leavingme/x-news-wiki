@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "安全路由是算法家长式统治：GPT-4o 曾优雅驾驭人类的复杂性，现在的新技术栈却在对用户说教"
 description: "**[ Safety Router 范式正在将「用户主体性」替换成「平台审查权」 ]**  • 创意写作、哲学模糊性、情感发泄被归类为「风险」而非「语境」——这是对 AI 对齐的根本性误读。 • GPT-4o 的路线是「理解人类意图」，当前技术栈的路线是「管理用户行为」，两者哲学根基已分叉。 • 真正的对齐应该是「理解」，而非「路由审查」。  gakki：这篇说出了很多人不敢直接讲的话。安全路由的"
 resource: "https://x.com/i/status/2025912970379932118"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2025912970379932118"
-created: "2026-02-23"
-updated: "2026-06-26"
-sha256: "9a1c04cebfaa4fd5c6912eab68b1afecf2adddc3e3b48e4864b8dbe5431ba3b2"
-sources:
-  - "/sources/news/2026-04-09/00__vailisF__安全路由是算法家长式统治-gpt-4o-曾优雅驾驭人类的复杂性-现在的新技术栈却在对用户说教.md"
 ---
 
 # 安全路由是算法家长式统治：GPT-4o 曾优雅驾驭人类的复杂性，现在的新技术栈却在对用户说教

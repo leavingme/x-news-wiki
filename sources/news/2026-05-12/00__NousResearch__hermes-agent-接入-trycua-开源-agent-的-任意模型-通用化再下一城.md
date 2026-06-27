@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Hermes Agent 接入 trycua：开源 Agent 的「任意模型」通用化再下一城"
 description: "**[开源 Agent 正在用「 универсальный」战略拆掉闭源护城河]  Nous Research 宣布 Hermes Agent 集成 trycua，实现任意模型下的 computer use 能力。这是开源 Agent 生态对 Anthropic「Computer Use」范式的又一次跟进落地——本质是让 Agent 不依赖官方 API 绑定即可调用模型。trycua 的具体技术"
 resource: "https://x.com/NousResearch/status/2053961081064759761"
@@ -22,13 +22,6 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "hermes-agent-stability-comparison"
 x_source: "ai-trend-digest"
-type_okf: "X Tweet"
-source_url: "https://x.com/NousResearch/status/2053961081064759761"
-created: "2026-05-11"
-updated: "2026-06-26"
-sha256: "59f80c36039a84666a3aa0f1e7e5449379dc2164e5dca7d0f27fe19a4b7e7ed7"
-sources:
-  - "/sources/news/2026-05-12/00__NousResearch__hermes-agent-接入-trycua-开源-agent-的-任意模型-通用化再下一城.md"
 ---
 
 # Hermes Agent 接入 trycua：开源 Agent 的「任意模型」通用化再下一城

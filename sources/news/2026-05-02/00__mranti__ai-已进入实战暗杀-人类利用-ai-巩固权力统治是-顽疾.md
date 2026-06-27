@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "AI 已进入实战暗杀：人类利用 AI 巩固权力统治是「顽疾」"
 description: "**AI 军事化应用从理论讨论进入已知事实，权力结构对 AI 的利用方向远比技术社区想象的更黑暗。**  - Michael Anti 引用公开信息指出美国已在战争中使用 AI 进行暗杀行动 - 核心判断：人类利用 AI 巩固统治几乎是结构性趋势，不可逆 - 这不是未来主义担忧，而是当前现实  gakki 说：AI 安全讨论长期聚焦于「模型会不会失控」，但真正的风险是「模型完全在人类控制下被用于什"
 resource: "https://x.com/i/status/2050420751237599642"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2050420751237599642"
-created: "2026-05-02"
-updated: "2026-06-26"
-sha256: "18ff98e06543bfce9dad01ffadf26ea627fd32d6cae5b8cd91c22a24e563cbec"
-sources:
-  - "/sources/news/2026-05-02/00__mranti__ai-已进入实战暗杀-人类利用-ai-巩固权力统治是-顽疾.md"
 ---
 
 # AI 已进入实战暗杀：人类利用 AI 巩固权力统治是「顽疾」

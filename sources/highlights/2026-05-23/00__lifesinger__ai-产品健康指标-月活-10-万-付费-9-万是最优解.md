@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "AI 产品健康指标：月活 10 万、付费 9 万是最优解"
 description: "**[ 玉伯揭示 AI 产品变现的黄金比例：付费转化率 90% ]**  AI 产品最佳流量数据模型：月活 10 万、付费用户 9 万。MAU 太高意味着基础设施成本膨胀，太低则无法支撑商业闭环。这个比例隐含了一个关键判断——AI 产品的目标用户应该极度精准，而非追求泛化流量。  信息增量：这不是通用的产品哲学，而是 AI 时代特有的成本结构导致的变现逻辑重构。模型调用成本让泛化流量变成了负资产。"
 resource: "https://x.com/i/status/2058104307577393413"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2058104307577393413"
-created: "2026-05-23"
-updated: "2026-06-26"
-sha256: "560f987004c244a76bf9e78683cc810e66a34edd7903d888f20de3cf80058584"
-sources:
-  - "/sources/highlights/2026-05-23/00__lifesinger__ai-产品健康指标-月活-10-万-付费-9-万是最优解.md"
 ---
 
 # AI 产品健康指标：月活 10 万、付费 9 万是最优解

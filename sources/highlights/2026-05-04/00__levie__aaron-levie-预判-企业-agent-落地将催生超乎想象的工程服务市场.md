@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Aaron Levie 预判：企业 Agent 落地将催生超乎想象的工程服务市场"
 description: "**从聊天范式到工作流 Agent 的跃迁，组织复杂度被严重低估。**  - Box CEO Aaron Levie 指出，企业从 chat 范式转向参与核心工作流的 Agent 时，所需组织改造远超当前认知 - 咨询公司、Agent 厂商 FDE、新型内部 Agent 工程师角色都将涌现，服务市场体量将超出所有人想象 - 这是来自一线企业服务 CEO 的判断，不是理论推演，而是正在发生的客户对话"
 resource: "https://x.com/levie/status/2051057677984469277"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
-
 x_source: "ai-trend-digest"
-type_okf: "X Tweet"
-source_url: "https://x.com/levie/status/2051057677984469277"
-created: "2026-05-03"
-updated: "2026-06-26"
-sha256: "185142910ef8eba4d7da4ec7993135cca1e49184a90a763dc56359db91e9418c"
-sources:
-  - "/sources/highlights/2026-05-04/00__levie__aaron-levie-预判-企业-agent-落地将催生超乎想象的工程服务市场.md"
 ---
 
 # Aaron Levie 预判：企业 Agent 落地将催生超乎想象的工程服务市场

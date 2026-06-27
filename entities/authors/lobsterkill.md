@@ -1,23 +1,17 @@
 ---
-type: "entity"
+type: "Author"
 title: "LobKill (@LobsterKill)"
 description: "X/Twitter 作者 @LobsterKill。共收录 1 条 AI 精选推文。"
 tags:
   - "x-news"
   - "author"
   - "author:LobsterKill"
-timestamp: "2026-06-26T11:53:36.972Z"
+timestamp: "2026-06-27T08:40:40.189Z"
 x_handle: "LobsterKill"
 x_author_name: "LobKill"
 x_tweet_count: 1
 x_first_seen: "2026-04-05T00:42:57.350Z"
 x_last_seen: "2026-04-05T00:42:57.350Z"
-type_okf: "Author"
-created: "2026-04-05"
-updated: "2026-06-26"
-sha256: "3b3319dbb38fdd39f7e4aab4318acf701e86e34f9e8d47d18058b79fbb350a3c"
-sources:
-  - "/sources/highlights/2026-04-05/00__LobsterKill__lobkill-让-ai-自己-招聘-子-agent-的平台级创新.md"
 ---
 
 # LobKill (@LobsterKill)

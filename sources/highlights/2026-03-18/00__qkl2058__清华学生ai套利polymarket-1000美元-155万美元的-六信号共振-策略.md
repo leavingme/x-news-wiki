@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "清华学生AI套利Polymarket：1000美元→155万美元的「六信号共振」策略"
 description: "**[预测市场正在被数学接管，直觉交易者成为流动性猎物]**  • 六个量化公式（LMSR定价+凯利准则等）全对齐才出手，实现接近100%胜率 • 44364笔高频交易、单笔最高赚2.36万，证明AI在信息套利场景的碾压优势 • 钱包地址公开可追踪，标志着链上智能体策略进入可复制、可验证时代  这种「多因子共振」思路对任何决策Agent都有启发：不是更快，而是更等得起。"
 resource: "https://x.com/i/status/2033897973428719722"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2033897973428719722"
-created: "2026-03-17"
-updated: "2026-06-26"
-sha256: "7c4935fbbbfec25470a3676382bb1081fb64c563fce3a95eda166e339498ba6f"
-sources:
-  - "/sources/highlights/2026-03-18/00__qkl2058__清华学生ai套利polymarket-1000美元-155万美元的-六信号共振-策略.md"
 ---
 
 # 清华学生AI套利Polymarket：1000美元→155万美元的「六信号共振」策略

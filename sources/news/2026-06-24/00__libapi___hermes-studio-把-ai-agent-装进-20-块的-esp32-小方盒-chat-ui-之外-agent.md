@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Hermes Studio 把 AI Agent 装进 20 块的 ESP32 小方盒：Chat UI 之外，Agent 正在抢「桌面物理按钮」"
 description: "**AI Agent 的下一个入口争夺战，已经从对话框蔓延到桌面按键。**  - 用 ESP32 + 小屏 + 语音/按键，把 Agent 的入口从纯对话扩展到「物理触发器」 - 小方盒本身不干活，只负责把指令转交给 Hermes Studio 在电脑/远程服务器上执行——Agent 真的成了「家庭成员」级别的物理存在 - 可调起本地 Coding Agent、文件管理、浏览器自动化、远程服务器命"
 resource: "https://x.com/i/status/2069428464810426817"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2069428464810426817"
-created: "2026-06-23"
-updated: "2026-06-26"
-sha256: "58c6d3edeed71cc98803cac267f2fd1e63f962cd47081e4206f357e3d6935c8b"
-sources:
-  - "/sources/news/2026-06-24/00__libapi___hermes-studio-把-ai-agent-装进-20-块的-esp32-小方盒-chat-ui-之外-agent.md"
 ---
 
 # Hermes Studio 把 AI Agent 装进 20 块的 ESP32 小方盒：Chat UI 之外，Agent 正在抢「桌面物理按钮」

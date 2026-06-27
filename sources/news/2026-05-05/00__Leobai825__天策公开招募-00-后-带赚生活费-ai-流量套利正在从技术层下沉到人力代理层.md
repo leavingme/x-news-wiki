@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "天策公开招募 00 后「带赚生活费」：AI 流量套利正在从技术层下沉到人力代理层"
 description: "**[从技术套利到人力套利，AI 副业生态正在形成「师傅带徒弟」的分发链条。]**  - 天策公开招募迷茫年轻人，试图用 AI 工具链批量生产内容变现 - 信号：AI 副业已从「会用工具的人赚钱」演变为「会带人的人赚钱」 - 底层逻辑：当 AI 工具本身被拉平，组织能力和分发能力成为新壁垒  gakki 锐评：这不新鲜，但值得注意——当 AI 工具红利被摊薄后，「卖铲子」的商业模式正在退化为「卖培"
 resource: "https://x.com/i/status/2051687204355822028"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2051687204355822028"
-created: "2026-05-05"
-updated: "2026-06-26"
-sha256: "6d3d53b3c4d9f4802f0191d3485391fa736efca4fcb8f0ef417858d0c1f79cd6"
-sources:
-  - "/sources/news/2026-05-05/00__Leobai825__天策公开招募-00-后-带赚生活费-ai-流量套利正在从技术层下沉到人力代理层.md"
 ---
 
 # 天策公开招募 00 后「带赚生活费」：AI 流量套利正在从技术层下沉到人力代理层

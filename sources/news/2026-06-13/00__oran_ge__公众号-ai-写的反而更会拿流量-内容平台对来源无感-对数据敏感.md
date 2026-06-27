@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "公众号 AI 写的反而更会拿流量：内容平台对来源无感，对数据敏感"
 description: "**公众号推荐机制不区分 AI / 人工内容来源，AI 在「标题钩子+开头钩人」格式套路上比多数人类作者更准。**  - Orange AI 观察：AI 生成的内容在公众号拿到的流量比人工更高 - 平台推荐只看互动数据，不做内容来源判别 - 说明 AI 在可量化的「钩子写作」维度上已稳定超过普通作者   gakki 锐评：这是 AI 内容创业最反常识的信号——平台不惩罚 AI，只奖励数据；但反过来"
 resource: "https://x.com/i/status/2065596315132960816"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2065596315132960816"
-created: "2026-06-13"
-updated: "2026-06-26"
-sha256: "e3ba46fa0fca7187b5ff7a7e74045dc6c68e572ef2682c320d55418dd07ac8b6"
-sources:
-  - "/sources/news/2026-06-13/00__oran_ge__公众号-ai-写的反而更会拿流量-内容平台对来源无感-对数据敏感.md"
 ---
 
 # 公众号 AI 写的反而更会拿流量：内容平台对来源无感，对数据敏感

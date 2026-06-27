@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "GetClaw零配置上线：加密Agent的\"开箱即用\"拐点已至"
 description: "**[AI Agent金融入口的门槛革命]** - Bitget推出GetClaw，号称全球首个免安装AI交易助手，将环境配置、Skills接入等步骤全部后台化 - 功能覆盖7×24小时监控、自动开仓、信号监控、定投策略、策略回测，且支持基于历史交易习惯的学习 - 入口策略多元化：交易所内、Telegram Bot等多渠道部署  交易所正在从\"提供工具\"转向\"提供Agent\"——用户甚至不需要知道"
 resource: "https://x.com/i/status/2032380922419388825"
@@ -22,13 +22,6 @@ x_selected: 2
 x_priority: 88
 x_related_topic: "ai-crypto-agent-infra"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2032380922419388825"
-created: "2026-03-13"
-updated: "2026-06-26"
-sha256: "8b81ebd9020555266bcad8a725d2ed638a66e09848d05161fce6480f99cbbca6"
-sources:
-  - "/sources/highlights/2026-03-13/88__The_Wooo__getclaw零配置上线-加密agent的-开箱即用-拐点已至.md"
 ---
 
 # GetClaw零配置上线：加密Agent的"开箱即用"拐点已至

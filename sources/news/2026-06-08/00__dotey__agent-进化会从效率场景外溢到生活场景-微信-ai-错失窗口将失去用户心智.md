@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Agent 进化会从效率场景外溢到生活场景，微信 AI 错失窗口将失去用户心智"
 description: "**宝玉断言：Agent 先吃掉效率场景再外溢生活场景，微信 AI 处境比想象中更危险。**  - Agent 当前强于编程/办公等效率场景，弱于订机票酒店这类生活服务 - 微信主战场恰好是生活类，但 Agent 还没准备好，微信 AI 错位卡位 - 等效率场景被瓜分完，Agent 自然泛化，用户倾向一个 Agent 通吃所有场景   gakki 锐评：平台型 App 真正的威胁不是另一个超级 A"
 resource: "https://x.com/i/status/2064035848794906859"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2064035848794906859"
-created: "2026-06-08"
-updated: "2026-06-26"
-sha256: "83029b23361ad8e73f65ab1477a748203d47cea48f674e7ba74d49e9fd1092d2"
-sources:
-  - "/sources/news/2026-06-08/00__dotey__agent-进化会从效率场景外溢到生活场景-微信-ai-错失窗口将失去用户心智.md"
 ---
 
 # Agent 进化会从效率场景外溢到生活场景，微信 AI 错失窗口将失去用户心智

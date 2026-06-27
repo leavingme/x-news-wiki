@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "最后的呐喊：4o 是 AI 开发者的唯一不可替代"
 description: "**[API 用户的情感与效率粘性]** - 用户在社交媒体发起持续呼吁，强调 GPT-4o 在当前工作流中的核心地位。  Pi 的锐评：当一个模型变成一种“信仰”时，厂商每改动一个参数、每推迟一次更新，都是在挑战用户的底线。"
 resource: "https://x.com/i/status/2020472695943557342"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2020472695943557342"
-created: "2026-02-08"
-updated: "2026-06-26"
-sha256: "1e741cf8a329d627c6d7bd9cfb1d713bc8b3a575567f9bb1712fff9998629b1b"
-sources:
-  - "/sources/news/2026-02-08/00__syh2026by__最后的呐喊-4o-是-ai-开发者的唯一不可替代.md"
 ---
 
 # 最后的呐喊：4o 是 AI 开发者的唯一不可替代

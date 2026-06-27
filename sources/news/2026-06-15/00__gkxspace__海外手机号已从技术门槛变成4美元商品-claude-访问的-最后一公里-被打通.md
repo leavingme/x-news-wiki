@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "海外手机号已从技术门槛变成4美元商品：Claude 访问的'最后一公里'被打通"
 description: "**海外手机号获取已彻底平民化，AI 服务访问链路的卡点基本消失。**  美国号：Saily eSIM，$4 开卡 + $7 月租，ATT 实体号段，大陆身份证 APP 直接申请  英国号：Vodafone，0 元秒开  对比此前 Claude/海外 AI 服务的'续命三件套'，手机号这一环已从'稀缺资源'降级为'标准化商品'    gakki 锐评：当基础设施变成 4 美元的开箱即用商品，所谓的"
 resource: "https://x.com/i/status/2066514803565134218"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2066514803565134218"
-created: "2026-06-15"
-updated: "2026-06-26"
-sha256: "45010266b78e0c9b2d7b9fd7eb9cc5ec439987797bfd222d3c5b34a48edc0198"
-sources:
-  - "/sources/news/2026-06-15/00__gkxspace__海外手机号已从技术门槛变成4美元商品-claude-访问的-最后一公里-被打通.md"
 ---
 
 # 海外手机号已从技术门槛变成4美元商品：Claude 访问的'最后一公里'被打通

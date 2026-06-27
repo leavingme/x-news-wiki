@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "AI沟通低成本反衬人际共营稀缺性：OPC效率最优但天花板最低"
 description: "**[一句话核心判断]**  AI沟通本质是效率最优解——低摩擦、高吞吐、无需协调差异，但这恰恰暴露了一个悖论：最容易做的事往往天花板最低。  **信息增量：** - OPC（人机协同）效率最高，但业务 scaling 上限也最矮 - 与人共同经营公司的复杂度，是 AI 时代反向稀缺的能力 - 稀缺处有价值，但这个价值需要长期人际积累，无法靠模型输出替代  **影响分析：** - 对创始人/管理者"
 resource: "https://x.com/i/status/2056491736181178671"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2056491736181178671"
-created: "2026-05-18"
-updated: "2026-06-26"
-sha256: "1c075bc5e1187b7ba204808aa7c0d502b495ef1485c55061e9830c161260586a"
-sources:
-  - "/sources/news/2026-05-18/00__oran_ge__ai沟通低成本反衬人际共营稀缺性-opc效率最优但天花板最低.md"
 ---
 
 # AI沟通低成本反衬人际共营稀缺性：OPC效率最优但天花板最低

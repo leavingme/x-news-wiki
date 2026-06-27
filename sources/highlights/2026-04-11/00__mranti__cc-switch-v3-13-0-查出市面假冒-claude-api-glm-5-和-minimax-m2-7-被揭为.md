@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "CC-Switch v3.13.0 查出市面假冒 Claude API：glm-5 和 MiniMax-M2.7 被揭为假货"
 description: "**[一句话核心判断]** CC-Switch 新版「使用统计」功能像照妖镜一样照出市面流通的假冒 Claude API——有人拿 glm-5 和 MiniMax-M2.7 伪装成真 Claude 售卖，这个发现对 API 采购者来说是直接的生死牌。  **信息增量：** - CC-Switch v3.13.0 内置的「使用统计」功能可识别 API 供应商的实际模型来源 - Michael Ant"
 resource: "https://x.com/i/status/2042896780984270989"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2042896780984270989"
-created: "2026-04-11"
-updated: "2026-06-26"
-sha256: "6a6cf1c36fcd01d32301f56e9f7a207585b608b90f784b263d227d9a5402510f"
-sources:
-  - "/sources/highlights/2026-04-11/00__mranti__cc-switch-v3-13-0-查出市面假冒-claude-api-glm-5-和-minimax-m2-7-被揭为.md"
 ---
 
 # CC-Switch v3.13.0 查出市面假冒 Claude API：glm-5 和 MiniMax-M2.7 被揭为假货

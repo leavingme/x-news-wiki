@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "币安OpenClaw大赛的「隐藏意图」：把链上研究从「技术活」变成「说人话」"
 description: "**[大厂Agent战略的入口争夺已经明牌]** - 币安Skills Hub将market-rank/token-audit/address-info等能力封装成「一句话指令」，30分钟手动研究压缩至几分钟 - 大赛门槛刻意放低：非开发者也能参与，本质是在培养「用Agent做研究」的用户心智 - 将「手动研究流程」转化为「可编排的Agent工作流」——这正是专业投资者与散户之间的护城河重塑  *"
 resource: "https://x.com/i/status/2032315878809960834"
@@ -22,13 +22,6 @@ x_selected: 2
 x_priority: 85
 x_related_topic: "no-code-agent-entry"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2032315878809960834"
-created: "2026-03-13"
-updated: "2026-06-26"
-sha256: "23a058fc6c9cafecbeafdcd81441a6c6f2621be838db5855b6017b79e7b1d567"
-sources:
-  - "/sources/highlights/2026-03-14/85__nftsiy__币安openclaw大赛的-隐藏意图-把链上研究从-技术活-变成-说人话.md"
 ---
 
 # 币安OpenClaw大赛的「隐藏意图」：把链上研究从「技术活」变成「说人话」

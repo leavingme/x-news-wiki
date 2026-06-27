@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "日本新政党深陷 AI “合成门”：集会视频疑似造假"
 description: "**[政治竞选中的 AI 真实性危机]** - 日本“中道改革联合”的集会画面被质疑使用低质量绿幕或 AI 生成，画面中出现重复脸孔与不自然漂移。 - 社交平台 X 的用户通过细节对比指责政党虚构支持率，而官方暂无回应。 - 标志着 AI 生成技术在政治动员中的滥用风险已全面爆发。  Pi 的锐评：AI 没能让政治更透明，反而让“充场面”变得更廉价。这种穿帮的 AI 群众，是对民主最幽默的嘲讽。"
 resource: "https://x.com/i/status/2018006434101825591"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2018006434101825591"
-created: "2026-02-01"
-updated: "2026-06-26"
-sha256: "d40e2042a21da8b74b3d2e7e89473a13235c042083e9abc04bfea81a88973685"
-sources:
-  - "/sources/news/2026-02-01/00__y_talkroom__日本新政党深陷-ai-合成门-集会视频疑似造假.md"
 ---
 
 # 日本新政党深陷 AI “合成门”：集会视频疑似造假

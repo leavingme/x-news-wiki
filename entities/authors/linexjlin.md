@@ -1,23 +1,17 @@
 ---
-type: "entity"
+type: "Author"
 title: "Line (@linexjlin)"
 description: "X/Twitter 作者 @linexjlin。共收录 1 条 AI 精选推文。"
 tags:
   - "x-news"
   - "author"
   - "author:linexjlin"
-timestamp: "2026-06-26T11:53:36.988Z"
+timestamp: "2026-06-27T08:40:40.200Z"
 x_handle: "linexjlin"
 x_author_name: "Line"
 x_tweet_count: 1
 x_first_seen: "2026-04-19T00:45:06.238Z"
 x_last_seen: "2026-04-19T00:45:06.238Z"
-type_okf: "Author"
-created: "2026-04-19"
-updated: "2026-06-26"
-sha256: "75972c9d36b3c8bc07f6a06a2ff797c0fc82d771a0b36c29de272c3d9c4bec14"
-sources:
-  - "/sources/news/2026-04-19/00__linexjlin__京东moe训练全链路拆解-国产厂商终于开始啃工程硬骨头.md"
 ---
 
 # Line (@linexjlin)

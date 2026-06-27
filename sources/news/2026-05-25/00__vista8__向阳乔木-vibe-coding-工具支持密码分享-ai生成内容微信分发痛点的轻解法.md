@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "向阳乔木 Vibe Coding 工具支持密码分享：AI生成内容微信分发痛点的轻解法"
 description: "**[AI生成内容微信分发成本高，密码链接是低成本解法]**  此工具（HTML/Markdown/SVG/Mermaid 转可分享链接+密码）解决的是 AI vibe coding 产物的分发摩擦——微信无法直接渲染这些格式，传统方案需要部署服务器。Cloudflare 一键部署降低了运维门槛。  值得关注的是 20% 收尾工作（调试/修 bug）的普遍性，以及工具正在从「生成」向「发布-协作」"
 resource: "https://x.com/i/status/2058939593588949066"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2058939593588949066"
-created: "2026-05-25"
-updated: "2026-06-26"
-sha256: "32f2711bfd890c6ebc659d3a664bd6f2380b79d8311745d76c151854805b7f9a"
-sources:
-  - "/sources/news/2026-05-25/00__vista8__向阳乔木-vibe-coding-工具支持密码分享-ai生成内容微信分发痛点的轻解法.md"
 ---
 
 # 向阳乔木 Vibe Coding 工具支持密码分享：AI生成内容微信分发痛点的轻解法

@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "玉伯「反共识三部曲」：知识管理已死、小团队可战大厂、免费逻辑崩塌"
 description: "**AI时代的三大认知重构。** 1. 知识管理是伪命题——囤积资料不如逼自己输出，AI已是超级外脑；2. 小团队不必怕大厂——绩效考核限制了大厂的赌性，Agent加持的几十人团队可在局部战场硬碰硬；3. 免费模式必须死——每次API调用都在烧钱，付费筛选是生存前提。  **gakki锐评**：玉伯的三句话分别击穿了工具层、竞争层、商业层的旧认知。最锋利的是第二点：当Agent成为生产力乘数，组织"
 resource: "https://x.com/i/status/2031308854672388296"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2031308854672388296"
-created: "2026-03-10"
-updated: "2026-06-26"
-sha256: "62d7bca9c9f53fd1bc4f6f447fa95a42bcb64b41a3f6b01faa57d9ed863249b1"
-sources:
-  - "/sources/highlights/2026-03-16/00__chuhaiqu__玉伯-反共识三部曲-知识管理已死-小团队可战大厂-免费逻辑崩塌.md"
 ---
 
 # 玉伯「反共识三部曲」：知识管理已死、小团队可战大厂、免费逻辑崩塌

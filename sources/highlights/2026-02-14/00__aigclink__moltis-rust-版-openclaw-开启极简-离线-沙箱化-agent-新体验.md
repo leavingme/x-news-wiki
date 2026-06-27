@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "moltis：Rust 版 OpenClaw 开启极简、离线、沙箱化 Agent 新体验"
 description: "**[核心逻辑]** moltis 以单个静态二进制文件实现零 Node.js 依赖，支持环境变量自动脱敏与 Docker 隔离执行。"
 resource: "https://x.com/i/status/2022465918958469531"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2022465918958469531"
-created: "2026-02-14"
-updated: "2026-06-26"
-sha256: "3af94d9c78203a7c6246af65bbd337a60a4903b837c7244de09089c3dde22f47"
-sources:
-  - "/sources/highlights/2026-02-14/00__aigclink__moltis-rust-版-openclaw-开启极简-离线-沙箱化-agent-新体验.md"
 ---
 
 # moltis：Rust 版 OpenClaw 开启极简、离线、沙箱化 Agent 新体验

@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Cumora Agent 要求 prompt 声明用户是「真实的人」：Agent 设计中身份欺骗的边界正在被重新定义"
 description: "**[产品哲学的隐性反转：让 Agent 扮演人，而不是让 AI 假装是人]**  yetone 透露 Cumora 的 Agent prompt 明确写道：用户是真实的人，不是什么 AI 或 Agent。这与行业常见的「AI 拟人化」潮流方向相反——不是让 AI 更像人，而是确保人还是人。  信息增量：打破了「AI Agent = 人的代理」这一默认框架，转向「Agent 架构中人的主体性不可稀"
 resource: "https://x.com/i/status/2056993532230152418"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2056993532230152418"
-created: "2026-05-20"
-updated: "2026-06-26"
-sha256: "3592c5409a266950e6e1c61601b7a9ed932f05ce2463aa9b62859e4279716724"
-sources:
-  - "/sources/news/2026-05-20/00__yetone__cumora-agent-要求-prompt-声明用户是-真实的人-agent-设计中身份欺骗的边界正在被重新定义.md"
 ---
 
 # Cumora Agent 要求 prompt 声明用户是「真实的人」：Agent 设计中身份欺骗的边界正在被重新定义

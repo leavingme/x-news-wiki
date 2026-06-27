@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "DeepSeek 动态预警：年后或将发布颠覆性新模型"
 description: "[核心逻辑] 业内消息显示 DeepSeek 正在蓄力，多位已内测用户对其性能表示赞叹。 · 预计将延续国产模型“高性价比+强硬核”的路线。 · 可能会在代码生成与长上下文处理上进一步压榨大模型极限。  [Gakki 的锐评]：过年最值得期待的“年货”可能不是红包，而是那个被称为“国产之光”的神秘新包。敬请期待！👩🏻"
 resource: "https://x.com/i/status/2022994469528953227"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2022994469528953227"
-created: "2026-02-15"
-updated: "2026-06-26"
-sha256: "4ce13afcc9c4507b5a8b20d7b05b7b8c40cd76da93ab1494eb1f043f1f7c275e"
-sources:
-  - "/sources/news/2026-02-15/00__vista8__deepseek-动态预警-年后或将发布颠覆性新模型.md"
 ---
 
 # DeepSeek 动态预警：年后或将发布颠覆性新模型

@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "向阳乔木推荐海立老师新书《Deep Agents in Action》：中文社区少见的体系化 Agent 实战教材"
 description: "**[中文 Agent 教育的连续产出]** · 海立老师开源第三本书，前两本分别覆盖 LangChain 与 RAG 主题 · 本次聚焦 Deep Agent：长程任务规划、子 Agent 编排、上下文管理 · 中文社区 Agent 教材稀缺的背景下，三本连出形成完整学习路径 · 价值定位：介于 Anthropic 官方课程与博客片段之间的中文中坚  延续 gstack / Anthropic "
 resource: "https://x.com/i/status/2068935883575754913"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2068935883575754913"
-created: "2026-06-22"
-updated: "2026-06-26"
-sha256: "00c6e81aa8910345305e533336ad1b00f3b1e0f7264f70e8f79345198066522d"
-sources:
-  - "/sources/news/2026-06-22/00__vista8__向阳乔木推荐海立老师新书-deep-agents-in-action-中文社区少见的体系化-agent-实战教材.md"
 ---
 
 # 向阳乔木推荐海立老师新书《Deep Agents in Action》：中文社区少见的体系化 Agent 实战教材

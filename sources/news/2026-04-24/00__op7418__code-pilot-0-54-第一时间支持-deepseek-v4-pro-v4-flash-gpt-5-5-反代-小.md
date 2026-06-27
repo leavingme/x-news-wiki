@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Code Pilot 0.54 第一时间支持 DeepSeek V4 Pro/V4 Flash+GPT 5.5 反代+小米 MiMo 2.5 Pro"
 description: "**一句话核心判断：Code Pilot 以极速跟进印证模型生态进入「工具优先」竞争阶段，benchmark 参数不再是决胜面。**  • Code Pilot 0.54 在 DeepSeek V4 系列发布后极短时间内即完成适配，同时接入 GPT 5.5 反代和小米 MiMo 2.5 Pro，形成多模型普插式接入格局。 • 填写官方 API Key 即可使用，降低了用户切换模型的成本，工具层正在"
 resource: "https://x.com/i/status/2047523836904853828"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2047523836904853828"
-created: "2026-04-24"
-updated: "2026-06-26"
-sha256: "a8468830c14d4e851a656d26f6287f70daa9d367601a79cae6e45274dfde8997"
-sources:
-  - "/sources/news/2026-04-24/00__op7418__code-pilot-0-54-第一时间支持-deepseek-v4-pro-v4-flash-gpt-5-5-反代-小.md"
 ---
 
 # Code Pilot 0.54 第一时间支持 DeepSeek V4 Pro/V4 Flash+GPT 5.5 反代+小米 MiMo 2.5 Pro

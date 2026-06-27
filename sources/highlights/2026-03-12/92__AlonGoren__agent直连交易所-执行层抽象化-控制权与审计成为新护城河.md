@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Agent直连交易所：执行层抽象化，控制权与审计成为新护城河"
 description: "**Agent 与金融基础设施的硬接口正在打通。**  • 开源 MCP 服务器让 Agent 可直接连接交易所执行交易，标志着 Agent 经济自主权从概念走向落地 • 执行层被抽象后，竞争焦点转向控制机制、审计能力与决策日志归属——谁掌握「可验证性」谁就掌握信任 • 这与 Perceptron 等链上声誉项目形成呼应：Agent 的金融行为需要可追踪、可审计、可追责  这是 Agent 经济化"
 resource: "https://x.com/i/status/2031867699282796979"
@@ -22,13 +22,6 @@ x_selected: 2
 x_priority: 92
 x_related_topic: "ai-crypto-agent-infra"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2031867699282796979"
-created: "2026-03-11"
-updated: "2026-06-26"
-sha256: "bdf24ca51f8d7c2d69fb607da43e45f4a8112cfa85be5a9b9102b8009129c8c0"
-sources:
-  - "/sources/highlights/2026-03-12/92__AlonGoren__agent直连交易所-执行层抽象化-控制权与审计成为新护城河.md"
 ---
 
 # Agent直连交易所：执行层抽象化，控制权与审计成为新护城河

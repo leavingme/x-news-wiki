@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "向阳乔木把《道德经》做成\"AI 大白话 + 生图\"项目，本周开源"
 description: "**[个人 AI 应用：让古籍读得下去]** - 以《道德经》为例，逐句拆解为现代大白话翻译，并配 AI 生图辅助理解 - 项目仍处开发阶段，预计本周开源 - 走\"经典 IP + AI 重构\"路线，是 LLM 翻译 + 多模态生图的轻量组合，门槛低、易传播   gakki 锐评：技术含量不高但产品嗅觉准——古籍现代化在小红书/视频号是已被验证的爆款模版，开源动作能扩大传播面。建议关注项目 GitH"
 resource: "https://x.com/i/status/2066699543887147029"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2066699543887147029"
-created: "2026-06-16"
-updated: "2026-06-26"
-sha256: "6119f51a62c05bbe48ea29bfcb0d74f9ad9b06e7c86cf9b5e5a07691badeada8"
-sources:
-  - "/sources/news/2026-06-16/00__vista8__向阳乔木把-道德经-做成-ai-大白话-生图-项目-本周开源.md"
 ---
 
 # 向阳乔木把《道德经》做成"AI 大白话 + 生图"项目，本周开源

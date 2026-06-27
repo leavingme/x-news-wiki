@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "物理学发现已存在之物，工程学创造从未存在之物——Naval与Musk的殊途同归"
 description: "**[两种「造物」哲学的交汇点：发现vs创造的分岔在AI时代变得前所未有的尖锐]**  一位作者用同一支笔写了《纳瓦尔宝典》和《马斯克原理》，却传达了完全不同的能量——这个观察本身就很有价值。Naval在「发现」规律（投资、复利、杠杆），Musk在「创造」前所未有之物（火箭、电动车、脑机）。  在AI领域这个区分变得更微妙：大模型到底是在「发现」语言中的规律，还是「创造」新的推理路径？这个问题影响"
 resource: "https://x.com/i/status/2058687998368329929"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2058687998368329929"
-created: "2026-05-24"
-updated: "2026-06-26"
-sha256: "426b7d52c41f809b2ef641ead3cf7dd86cb847583ddf2ad0e71482284af098d3"
-sources:
-  - "/sources/news/2026-05-25/00__oran_ge__物理学发现已存在之物-工程学创造从未存在之物-naval与musk的殊途同归.md"
 ---
 
 # 物理学发现已存在之物，工程学创造从未存在之物——Naval与Musk的殊途同归

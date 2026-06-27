@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "微信Agent「零摩擦」入口：OpenClaw微信CLI两步入场，超级App的Agent化野心浮现"
 description: "**[微信正式向Agent生态开放个人号直连通道]** • 体验突破：npx一行命令+扫码即连，对比飞书早期繁琐配置形成降维体验 • 战略信号：微信个人号首次向第三方Agent框架开放，腾讯在「Agent入口战」中开始抢位 • 生态影响：10亿月活用户的IM场景即将成为Agent主战场，「微信即操作系统」的Agent时代正式开启  **gakki锐评**：别只盯着飞书钉钉的企业Agent，微信个人"
 resource: "https://x.com/i/status/2035557198768799803"
@@ -22,13 +22,6 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "enterprise-agent-product"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2035557198768799803"
-created: "2026-03-22"
-updated: "2026-06-26"
-sha256: "b01ea66e2a56ee4c6944a8405b0c41ea4400192fae89a9df440d626a56600f78"
-sources:
-  - "/sources/news/2026-03-22/00__lxfater__微信agent-零摩擦-入口-openclaw微信cli两步入场-超级app的agent化野心浮现.md"
 ---
 
 # 微信Agent「零摩擦」入口：OpenClaw微信CLI两步入场，超级App的Agent化野心浮现

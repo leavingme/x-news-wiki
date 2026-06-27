@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Pika杀死Prompt Box：AI创作正式进入「对话即交付」的拟人化阶段"
 description: "**核心判断：Pika Agents不是功能更新，而是从「工具界面」到「创作伙伴」的范式跃迁——Prompt Box的消亡意味着自然语言指令正在被对话式共创取代。**  要点： - 每个Agent有独立Voice、Face、Personality，可持续对话迭代 - 创作交付方式从「写Prompt等结果」变为「对话引导共创」 - 这代表AI内容生成从输出工具向创意主体的属性迁移   ---  **"
 resource: "https://x.com/pika_labs/status/2049196222825779287"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
-
 x_source: "ai-trend-digest"
-type_okf: "X Tweet"
-source_url: "https://x.com/pika_labs/status/2049196222825779287"
-created: "2026-04-28"
-updated: "2026-06-26"
-sha256: "bd6d8d91cf398db0c4400ddbcbc5065e3a19cb8a1f9b57ec56c521ea3f854f93"
-sources:
-  - "/sources/highlights/2026-04-28/00__pika_labs__pika杀死prompt-box-ai创作正式进入-对话即交付-的拟人化阶段.md"
 ---
 
 # Pika杀死Prompt Box：AI创作正式进入「对话即交付」的拟人化阶段

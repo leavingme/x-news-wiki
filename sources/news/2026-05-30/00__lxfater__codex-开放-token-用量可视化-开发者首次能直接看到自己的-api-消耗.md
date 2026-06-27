@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Codex 开放 Token 用量可视化：开发者首次能直接看到自己的 API 消耗"
 description: "**一句话核心判断：** Codex 在设置→个人资料页面新增 Token 统计视图，终于把「看不见的消耗」变成了可追溯的数字，开发者定价和成本控制终于有锚点。  **要点：** - 此前 Token 消耗散落在 API 日志和第三方工具里，用户对单次任务的真实成本无感知 - 透明化是建立信任的前提——尤其是对那些把 Codex 当成「按月订阅就随便用」的生产力用户 - 用量可见后，团队更容易判断"
 resource: "https://x.com/i/status/2060544140472176919"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2060544140472176919"
-created: "2026-05-30"
-updated: "2026-06-26"
-sha256: "8e4c0ec6d96921630a55160d020b0795359790970161737d7e23c911b0d7dec0"
-sources:
-  - "/sources/news/2026-05-30/00__lxfater__codex-开放-token-用量可视化-开发者首次能直接看到自己的-api-消耗.md"
 ---
 
 # Codex 开放 Token 用量可视化：开发者首次能直接看到自己的 API 消耗

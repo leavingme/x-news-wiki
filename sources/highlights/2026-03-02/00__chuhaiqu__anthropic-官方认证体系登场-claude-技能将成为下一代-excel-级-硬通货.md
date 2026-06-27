@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Anthropic 官方认证体系登场：Claude 技能将成为下一代「Excel 级」硬通货"
 description: "**[AI 素养正式成为简历级竞争力]** - Anthropic 推出 13 门免费官方课程，覆盖 Claude 使用到 MCP 协议开发，结业证书可直接挂靠 LinkedIn - 信号意义：AI 工具教育从「野生培训」转向「官方认证」，预示 Claude Code 生态即将进入企业主流采纳期 - 对比 90 年代 Excel 普及史，掌握 Claude 或将成为基础岗位默认技能门槛  当官方亲"
 resource: "https://x.com/i/status/2028380163281744040"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2028380163281744040"
-created: "2026-03-02"
-updated: "2026-06-26"
-sha256: "06c708c501b4f19120e4f31324b23d4ac58de7d6ce33cd6f7a52c1ee2c7335ef"
-sources:
-  - "/sources/highlights/2026-03-02/00__chuhaiqu__anthropic-官方认证体系登场-claude-技能将成为下一代-excel-级-硬通货.md"
 ---
 
 # Anthropic 官方认证体系登场：Claude 技能将成为下一代「Excel 级」硬通货

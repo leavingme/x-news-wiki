@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Autogenesis Protocol：NTU/斯坦福/普林斯顿联手让 Agent 自己改自己"
 description: "**自进化 Agent 从论文走向工程协议：版本管理、升级提案、安全回滚首次被标准化。** - NTU、Stanford、Princeton 等机构联合发布 AGP（Autogenesis Protocol），将 Agent 的\"使用层\"（prompt、工具、记忆）与\"改进层\"解耦。 - 配套系统 AGS 在复杂长程规划与工具调用基准上稳定击败强基线，标志着 Self-Improving Agen"
 resource: "https://x.com/i/status/2065501386423538067"
@@ -22,13 +22,6 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "self-improving-agent-engineering"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2065501386423538067"
-created: "2026-06-12"
-updated: "2026-06-26"
-sha256: "5529f850d5c4fac1bb1f73452b5fb73f46433eba839b30a133ff9086efeae9e9"
-sources:
-  - "/sources/highlights/2026-06-12/00__jiqizhixin__autogenesis-protocol-ntu-斯坦福-普林斯顿联手让-agent-自己改自己.md"
 ---
 
 # Autogenesis Protocol：NTU/斯坦福/普林斯顿联手让 Agent 自己改自己

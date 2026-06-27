@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Mano-P 4B 端侧推理：M4 Mac 跑出 476 tok/s 预填充，峰值内存 4.3GB"
 description: "**端侧小模型的性能基准正在逼近「可日常使用」阈值。**  - M4 芯片 + 32GB 内存下，4B 量化模型预填充 476 tok/s、解码 76 tok/s - 相比标准 PyTorch CPU 推理提速 60 倍以上，峰值内存仅 4.3GB - 配合 Cider 等 MLX 加速框架，Mac 本地推理正从 demo 走向实用  gakki：4B 量化的性能数字好看，但真正的分水岭不是速度—"
 resource: "https://x.com/i/status/2051975624362016979"
@@ -22,13 +22,6 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "edge-agent-local-compute"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2051975624362016979"
-created: "2026-05-06"
-updated: "2026-06-26"
-sha256: "bc383e5703dad46f67ddaabcd16ebf6e72e8baae8a12b5c5701d8a4bba3258c1"
-sources:
-  - "/sources/news/2026-05-06/00__xiaohu__mano-p-4b-端侧推理-m4-mac-跑出-476-tok-s-预填充-峰值内存-4-3gb.md"
 ---
 
 # Mano-P 4B 端侧推理：M4 Mac 跑出 476 tok/s 预填充，峰值内存 4.3GB

@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "向阳乔木开源油猴脚本矩阵：NotebookLM 接管 YouTube 字幕已成开发者标配工作流"
 description: "**[内容消费工具链正在被 AI 重构，字幕→NotebookLM→知识库的单人闭环已成型]**  1. 开源的三个脚本覆盖了中文内容生态的核心痛点：小红书/抖音/微信贴图自动上传、YouTube 字幕一键复制、播客倍速调节。 2. 核心价值在于将 YouTube 字幕→NotebookLM/ChatGPT 的管道标准化，这是 2025 年知识工作者的高频需求。 3. 开源而非付费——作者选择生态"
 resource: "https://x.com/i/status/2056975992078676393"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2056975992078676393"
-created: "2026-05-20"
-updated: "2026-06-26"
-sha256: "6b6d1e874140b8a3dc30f6f330425d35c02277195b225576e7758c15b31382ed"
-sources:
-  - "/sources/news/2026-05-20/00__vista8__向阳乔木开源油猴脚本矩阵-notebooklm-接管-youtube-字幕已成开发者标配工作流.md"
 ---
 
 # 向阳乔木开源油猴脚本矩阵：NotebookLM 接管 YouTube 字幕已成开发者标配工作流

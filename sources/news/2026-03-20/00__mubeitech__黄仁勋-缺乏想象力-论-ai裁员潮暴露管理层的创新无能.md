@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "黄仁勋「缺乏想象力」论：AI裁员潮暴露管理层的创新无能"
 description: "**[AI不是成本削减工具，而是能力倍增器——但前提是管理层有版图可开拓]** • 英伟达5个月新增5000亿美元订单，黄仁勋指出「有远见的公司开拓新版图，没点子的管理层只能抠人工费」 • OpenAI/Anthropic周营收10-20亿美元，全年逼近千亿美元，打破「AI只烧钱」叙事 • Salesforce/Meta/Amazon大规模裁员与顶尖AI公司爆发式增长形成鲜明对照 • 核心判断：A"
 resource: "https://x.com/i/status/2034662237403541568"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2034662237403541568"
-created: "2026-03-19"
-updated: "2026-06-26"
-sha256: "94cba9e3a1d45141b04ac52f65d50d19411160a33e006ed92d3c3c043ccce881"
-sources:
-  - "/sources/news/2026-03-20/00__mubeitech__黄仁勋-缺乏想象力-论-ai裁员潮暴露管理层的创新无能.md"
 ---
 
 # 黄仁勋「缺乏想象力」论：AI裁员潮暴露管理层的创新无能

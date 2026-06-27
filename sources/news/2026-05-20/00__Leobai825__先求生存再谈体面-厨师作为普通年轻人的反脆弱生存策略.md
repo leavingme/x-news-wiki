@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "「先求生存再谈体面」：厨师作为普通年轻人的反脆弱生存策略"
 description: "**[手艺型技能正在成为AI时代最后的安全垫]**  天策这篇长文看似在说厨师职业，实际在讨论一个更底层的生存哲学：在不确定性加剧的时代，「可迁移的手艺」比「光鲜的标签」更抗脆弱。厨师的不可替代性来自物理世界的即时反馈——火候、刀工、食材状态，这些是AI最难渗透的领域。  信息增量在于：他指出了两条路径的性价比差异——去饭店当学徒比技校更优，因为后者把「学习」和「收入」割裂，而前者是同步进行的。这"
 resource: "https://x.com/i/status/2057130990502314173"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2057130990502314173"
-created: "2026-05-20"
-updated: "2026-06-26"
-sha256: "92948f3fa2984dbb5d16244631c5603bd8c917ccf53f381a93751ff13891b4de"
-sources:
-  - "/sources/news/2026-05-20/00__Leobai825__先求生存再谈体面-厨师作为普通年轻人的反脆弱生存策略.md"
 ---
 
 # 「先求生存再谈体面」：厨师作为普通年轻人的反脆弱生存策略

@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "玉伯罕见发声：阿里「如此对待无招」，是无情无义"
 description: "**[阿里内部对 AI关键人物的处置引发同侪公开不满]**  -玉伯（阿里资深员工）罕见公开批评公司对「无招」的处置方式，定性为「无情无义」，措辞罕见激烈。 - 无招是阿里钉钉/AI业务体系内的关键人物，其边缘化或离开信号了阿里在 AI战略调整中的人才损耗。 -玉伯本人在阿里体系内发声的克制程度，使这条评论的信号价值远高于一般离职八卦。   **gakki锐评**：阿里 AI战时叙事与组织温度之间"
 resource: "https://x.com/i/status/2065058463135461683"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2065058463135461683"
-created: "2026-06-11"
-updated: "2026-06-26"
-sha256: "09ccbb973bc247175c135e99c08679fa52025525e1ac497f4e31cf2f8be3d270"
-sources:
-  - "/sources/news/2026-06-11/00__lifesinger__玉伯罕见发声-阿里-如此对待无招-是无情无义.md"
 ---
 
 # 玉伯罕见发声：阿里「如此对待无招」，是无情无义

@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "深圳 AI Agent 黑客松：100位 Builder 三天跑通「想法→赚钱Agent」"
 description: "**深圳开建AI Agent变现闭环工坊：组织形态比模型更重要** - 7月初深圳3天线下黑客松，100位AI Builder协作，目标明确为\"两日内从想法到可交付赚钱Agent\" - 强调官方社群+线下闭环，区分于纯开源Demo社区 - 信号：Agent赛道已从\"能不能做出来\"进入\"能不能赚到钱\"的工程化阶段   **gakki锐评**：深圳+100人+赚钱Agent三要素齐了，这是中国版Y C"
 resource: "https://x.com/i/status/2066400768970952853"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2066400768970952853"
-created: "2026-06-15"
-updated: "2026-06-26"
-sha256: "db1146bca8d9f65462117dd10f9130b5fa4d68ad4244328b78e0985522ef21d1"
-sources:
-  - "/sources/news/2026-06-15/00__xiaohu__深圳-ai-agent-黑客松-100位-builder-三天跑通-想法-赚钱agent.md"
 ---
 
 # 深圳 AI Agent 黑客松：100位 Builder 三天跑通「想法→赚钱Agent」

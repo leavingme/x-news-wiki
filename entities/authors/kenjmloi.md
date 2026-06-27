@@ -1,23 +1,17 @@
 ---
-type: "entity"
+type: "Author"
 title: "Kenneth Loi (@kenjmloi)"
 description: "X/Twitter 作者 @kenjmloi。共收录 1 条 AI 精选推文。"
 tags:
   - "x-news"
   - "author"
   - "author:kenjmloi"
-timestamp: "2026-06-26T11:53:36.991Z"
+timestamp: "2026-06-27T08:40:40.203Z"
 x_handle: "kenjmloi"
 x_author_name: "Kenneth Loi"
 x_tweet_count: 1
 x_first_seen: "2026-04-28T01:17:19.037Z"
 x_last_seen: "2026-04-28T01:17:19.037Z"
-type_okf: "Author"
-created: "2026-04-28"
-updated: "2026-06-26"
-sha256: "be7245cd6ff142a0d20ad1b410bf93098dd189fdcfce09817c147d8d8b23474f"
-sources:
-  - "/sources/news/2026-04-28/00__kenjmloi__vipr-比-crispr-更古老的细菌病毒防御系统-人类首次发现全新基因编辑逻辑.md"
 ---
 
 # Kenneth Loi (@kenjmloi)

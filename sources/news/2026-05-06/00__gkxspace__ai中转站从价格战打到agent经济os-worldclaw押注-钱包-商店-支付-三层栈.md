@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "AI中转站从价格战打到Agent经济OS：WorldClaw押注「钱包+商店+支付」三层栈"
 description: "**AI中转站已不是简单的API倒卖，WorldClaw试图把它升级为Agent经济的操作系统。**  - 孙宇晨等纷纷入局中转站，行业共识是「算力分发层」有利可图 - WorldClaw的差异化：Agent钱包（USD1即用）、零审批上架商店、开放生态协作交易 - 300+模型接入，单价比官方便宜30%，比主流中转低35-50%  gakki 锐评：中转站本质上是AI时代的「流量入口税」。Wor"
 resource: "https://x.com/i/status/2051955060372877421"
@@ -22,13 +22,6 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "ai-agent-crypto-infra"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2051955060372877421"
-created: "2026-05-06"
-updated: "2026-06-26"
-sha256: "6f54e172d1d5fe3bd7a7ee6df97b107b757a11bc0038f46c851a6658ffb967de"
-sources:
-  - "/sources/news/2026-05-06/00__gkxspace__ai中转站从价格战打到agent经济os-worldclaw押注-钱包-商店-支付-三层栈.md"
 ---
 
 # AI中转站从价格战打到Agent经济OS：WorldClaw押注「钱包+商店+支付」三层栈

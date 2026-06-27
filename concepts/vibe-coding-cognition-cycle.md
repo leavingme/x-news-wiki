@@ -1,25 +1,22 @@
 ---
-type: "concept"
-title: "vibe-coding-cognition-cycle"
-description: "跨日主题 \"vibe-coding-cognition-cycle\"，共 1 条相关精选推文。"
+type: "Concept"
+title: "氛围编程认知循环"
+description: "跨日主题 \"氛围编程认知循环\" (vibe-coding-cognition-cycle)，共 1 条相关精选推文。"
 tags:
   - "x-news"
   - "concept"
   - "topic:vibe-coding-cognition-cycle"
-timestamp: "2026-06-26T11:53:37.018Z"
+timestamp: "2026-06-27T08:40:42.861Z"
 x_topic_slug: "vibe-coding-cognition-cycle"
 x_tweet_count: 1
 x_first_seen: "2026-05-04T16:19:13.236Z"
 x_last_seen: "2026-05-04T16:19:13.236Z"
-type_okf: "Concept"
-created: "2026-05-04"
-updated: "2026-06-26"
-sha256: "34b08526dab28407d09a4f3b2ced719bba0111a7f893b22815d5fd5f48de1259"
-sources:
-  - "/sources/news/2026-05-04/00__yetone__yetone-的-vibe-coding-吐槽-2026-年了-代码秒生成但-ux-打磨仍是瓶颈.md"
+x_cn_title_source: "dict"
 ---
 
-# 主题: vibe-coding-cognition-cycle
+# 主题: 氛围编程认知循环
+
+> slug: `vibe-coding-cognition-cycle`
 
 本主题下共 **1** 条精选推文。
 

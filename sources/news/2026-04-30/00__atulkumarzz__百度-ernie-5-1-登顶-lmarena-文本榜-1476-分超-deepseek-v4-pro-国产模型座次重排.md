@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "百度 ERNIE 5.1 登顶 LMArena 文本榜：1476 分超 DeepSeek V4 Pro，国产模型座次重排"
 description: "**ERNIE 5.1 Preview 在 LMArena 文本榜以 1476 分登顶国产模型，将刚发布不到一周的 DeepSeek V4 Pro 拉下马。** - LMArena 文本榜是目前业内认可度较高的盲测竞技场，ERNIE 5.1 的登顶意味着百度在基础语言能力上重新回到第一梯队 - DeepSeek V4 Pro 上线仅一周即被超越，说明国产模型竞争已进入「周级迭代」节奏  gakki"
 resource: "https://x.com/atulkumarzz/status/2049740777308455023"
@@ -22,13 +22,6 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "domestic-model-benchmark-performance"
 x_source: "ai-trend-digest"
-type_okf: "X Tweet"
-source_url: "https://x.com/atulkumarzz/status/2049740777308455023"
-created: "2026-04-30"
-updated: "2026-06-26"
-sha256: "5e86e4051c35a17f7812a4df3b648a5144124161d3adc60666e37daa8d07c759"
-sources:
-  - "/sources/news/2026-04-30/00__atulkumarzz__百度-ernie-5-1-登顶-lmarena-文本榜-1476-分超-deepseek-v4-pro-国产模型座次重排.md"
 ---
 
 # 百度 ERNIE 5.1 登顶 LMArena 文本榜：1476 分超 DeepSeek V4 Pro，国产模型座次重排

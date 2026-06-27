@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Claude Code爬虫民主化：自然语言正在吞噬数据采集门槛"
 description: "**[「不写一行代码」的爬虫部署，Agent降低专业技能的最新样本]** • 从搜索到云端部署的全链路自然语言操作，传统爬虫工程师的技能护城河正在蒸发 • Claude Code作为编排中枢，让普通用户获得专业级数据抓取能力 • 预示着「数据情报获取」将从技术能力变为通用表达能力  当数据采集像说话一样简单，信息差的价值逻辑将被重构——掌握数据源不如掌握提问方式。"
 resource: "https://x.com/i/status/2030460341780684872"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 85
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2030460341780684872"
-created: "2026-03-08"
-updated: "2026-06-26"
-sha256: "d5d1ae7a1a786580a80572cf8334f69efb7955a46f1ed478106cd4c88296e641"
-sources:
-  - "/sources/news/2026-03-09/85__xiaohu__claude-code爬虫民主化-自然语言正在吞噬数据采集门槛.md"
 ---
 
 # Claude Code爬虫民主化：自然语言正在吞噬数据采集门槛

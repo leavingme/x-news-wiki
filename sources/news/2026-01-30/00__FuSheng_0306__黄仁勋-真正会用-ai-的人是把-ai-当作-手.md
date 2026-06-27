@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "黄仁勋：真正会用 AI 的人是把 AI 当作“手”"
 description: "**英伟达 CEO 阐述如何避免被 AI “带笨”：关键在于深度思考的留存。** - **工具定位**：AI 是执行层面的“手”，而深度思考必须由人类的“脑”来支撑。 - **能力要求**：如何让 AI 解决问题，本身就是一项极高难度的认知挑战。  **Pi 的锐评**：不要做 AI 的传声筒，要做 AI 的大脑。工具越强，人类提出正确问题的能力就越值钱。"
 resource: "https://x.com/i/status/2005635806762008961"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2005635806762008961"
-created: "2025-12-29"
-updated: "2026-06-26"
-sha256: "57dae29bc5f66e064101480e5d61680f53155f2e2d6cd5a24f785e8a7aef1801"
-sources:
-  - "/sources/news/2026-01-30/00__FuSheng_0306__黄仁勋-真正会用-ai-的人是把-ai-当作-手.md"
 ---
 
 # 黄仁勋：真正会用 AI 的人是把 AI 当作“手”

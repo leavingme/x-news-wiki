@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Codex 原生接管 Chrome 商店上架：AI 编程工具正在抹平插件生态的最后一公里"
 description: "**[ Codex 已具备端到端执行能力，插件分发门槛被彻底击穿 ]**  向阳乔木分享了一个完整工作流：Codex 直接控制浏览器完成 Chrome 插件上架，包括自动生成压缩包、填写隐私协议、上传发布。全程无需人工介入，且调用的是 Browser use 能力。  **信息增量：** - 这是 Codex「接管完整数字操作链」的实际案例，不只是代码生成，而是延伸到分发层 - 隐私协议地址和本地"
 resource: "https://x.com/i/status/2057000721091117455"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2057000721091117455"
-created: "2026-05-20"
-updated: "2026-06-26"
-sha256: "5603e37bc7343448638ba4e8cee38dd0760e0ad0432cd1c6364935c38f1b3313"
-sources:
-  - "/sources/highlights/2026-05-20/00__vista8__codex-原生接管-chrome-商店上架-ai-编程工具正在抹平插件生态的最后一公里.md"
 ---
 
 # Codex 原生接管 Chrome 商店上架：AI 编程工具正在抹平插件生态的最后一公里

@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "字节豆包发布Seed Audio 1.0：声音模型的\"Seedance时刻\""
 description: "**字节把智能第一次塞进声音模型，不再是朗读器而是意图驱动的全场景音频生成。** - 突破传统TTS范式，从\"念稿机\"升级为可理解意图的智能音频模型 - 一体化生成人声、音乐、音效、环境音及微妙情感细节 - Orange AI定性为\"声音模型的Seedance时刻\"——对照Seedance在视频侧的开端地位   gakki锐评：音频是内容工业化最后一块洼地，Seed Audio若能跑通\"自然语言→"
 resource: "https://x.com/i/status/2069285799603138879"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2069285799603138879"
-created: "2026-06-23"
-updated: "2026-06-26"
-sha256: "1523df2674355a56de3b16a77e1379dc723c12d167085ba8197828e35de85635"
-sources:
-  - "/sources/highlights/2026-06-23/00__oran_ge__字节豆包发布seed-audio-1-0-声音模型的-seedance时刻.md"
 ---
 
 # 字节豆包发布Seed Audio 1.0：声音模型的"Seedance时刻"

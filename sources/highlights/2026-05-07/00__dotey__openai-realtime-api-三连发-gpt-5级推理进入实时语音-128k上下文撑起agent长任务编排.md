@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "OpenAI Realtime API 三连发：GPT-5级推理进入实时语音，128K上下文撑起Agent长任务编排"
 description: "**OpenAI 把实时语音API从「能用」推到了「能干活」的级别。**  - GPT-Realtime-2 在 Big Bench Audio 上从 81.4% 跳到 96.6%，Audio MultiChallenge 指令跟随从 34.7% 涨到 48.5%——这不是迭代，是代际跃迁 - 上下文窗口从 32K 扩到 128K，配合五档推理强度可调（minimal → xhigh），意味着实时"
 resource: "https://x.com/i/status/2052440968863887715"
@@ -22,13 +22,6 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "chatbot-experience-evolution"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2052440968863887715"
-created: "2026-05-07"
-updated: "2026-06-26"
-sha256: "ecc49c8847c25d16d3844ca0bdf2866fb6a9866fae4df96e479b75d1eb0c5c0b"
-sources:
-  - "/sources/highlights/2026-05-07/00__dotey__openai-realtime-api-三连发-gpt-5级推理进入实时语音-128k上下文撑起agent长任务编排.md"
 ---
 
 # OpenAI Realtime API 三连发：GPT-5级推理进入实时语音，128K上下文撑起Agent长任务编排

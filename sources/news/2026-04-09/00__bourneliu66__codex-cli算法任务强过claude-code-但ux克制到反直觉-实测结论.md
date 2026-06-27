@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Codex CLI算法任务强过Claude Code，但UX克制到反直觉：实测结论"
 description: "**[Codex CLI vs Claude Code分工已成定局：前者主内算法，后者主外体验]**  实测结论：除界面开发外，Codex CLI在算法等复杂编程任务上普遍强于Claude Code。但Codex CLI的UX设计普通，建议以Claude Code为主、Codex CLI为辅的配合作战模式。  两者定位已分化：Codex是隐于后台的算法引擎，Claude Code是面向用户的体验壳"
 resource: "https://x.com/i/status/1962773584084115724"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/1962773584084115724"
-created: "2025-09-02"
-updated: "2026-06-26"
-sha256: "ebb3bdbc0394557ea5eb28a53f717c3403782b03cf5e5d11f1d3e7de1f259848"
-sources:
-  - "/sources/news/2026-04-09/00__bourneliu66__codex-cli算法任务强过claude-code-但ux克制到反直觉-实测结论.md"
 ---
 
 # Codex CLI算法任务强过Claude Code，但UX克制到反直觉：实测结论

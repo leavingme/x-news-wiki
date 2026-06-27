@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "天策《技术工人出海指南》：或成下一波 AI 工具出海流量入口"
 description: "**[技术工人出海赛道正在被系统性整理]**  天策发布「普通人出海必看指南——技术工人版」，标题暗示内容覆盖技术工人出海的工作签、税务、工具链等实操信息。出海主题在 AI 工具平权的背景下正在成为新的内容蓝海。   **gakki：当 AI 抹平了工具门槛，出海本身就成了新的差异化竞争点——谁能先建标准，谁就能卡住流量入口。**"
 resource: "https://x.com/i/status/2056785014667305418"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2056785014667305418"
-created: "2026-05-19"
-updated: "2026-06-26"
-sha256: "a917959906eec38839e12b682f9492f480237fea216fb79f4c8e4d04c180c3c6"
-sources:
-  - "/sources/news/2026-05-19/00__Leobai825__天策-技术工人出海指南-或成下一波-ai-工具出海流量入口.md"
 ---
 
 # 天策《技术工人出海指南》：或成下一波 AI 工具出海流量入口

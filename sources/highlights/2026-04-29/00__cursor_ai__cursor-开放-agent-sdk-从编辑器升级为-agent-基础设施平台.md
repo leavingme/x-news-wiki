@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Cursor 开放 Agent SDK：从编辑器升级为 Agent 基础设施平台"
 description: "**Cursor 正在从 IDE 转型为 Agent 运行时平台——这是编码工具品类的平台化拐点。**  - SDK 将 Cursor 内部的 harness（代码索引、语义搜索、MCP 工具接入、.cursor/skills/ 技能加载、子 agent 拆分能力）整体开放，开发者 npm install @cursor/sdk 即可调用 - 支持本地运行和云端沙箱双模式，云端 agent 拥有独"
 resource: "https://x.com/cursor_ai/status/2049499866217185492"
@@ -22,13 +22,6 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "claude-code-ecosystem"
 x_source: "ai-trend-digest"
-type_okf: "X Tweet"
-source_url: "https://x.com/cursor_ai/status/2049499866217185492"
-created: "2026-04-29"
-updated: "2026-06-26"
-sha256: "01f9c884b96d57f6ab27d6d700e28c5ecde0c9e8d85c2f8b9d2b26e80c4cb6a3"
-sources:
-  - "/sources/highlights/2026-04-29/00__cursor_ai__cursor-开放-agent-sdk-从编辑器升级为-agent-基础设施平台.md"
 ---
 
 # Cursor 开放 Agent SDK：从编辑器升级为 Agent 基础设施平台

@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "小米MiMo-V2「全家桶」奇袭：国产大模型首次系统性布局Agent全栈"
 description: "**【Agent-native模型矩阵的国产玩家入场】** • 小米一次性发布MiMo-V2-Pro（1T参数/42B激活，Agent+代码）、Omni（多模态感知）、TTS（语音交互）三模型，构建完整Agent能力闭环 • Pro版本Artificial Analysis中文榜第二（仅次于GLM-5），价格仅为Sonnet 4.6的1/5，256K上下文定价$0.33/百万Token • 一周免"
 resource: "https://x.com/i/status/2034404031758839851"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2034404031758839851"
-created: "2026-03-18"
-updated: "2026-06-26"
-sha256: "339a8b62db40cf05353ab63656ba95123b89d48557a91f9e871d653a4e344068"
-sources:
-  - "/sources/highlights/2026-03-19/00__op7418__小米mimo-v2-全家桶-奇袭-国产大模型首次系统性布局agent全栈.md"
 ---
 
 # 小米MiMo-V2「全家桶」奇袭：国产大模型首次系统性布局Agent全栈

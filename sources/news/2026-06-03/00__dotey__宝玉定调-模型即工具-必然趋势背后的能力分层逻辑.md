@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "宝玉定调「模型即工具」：必然趋势背后的能力分层逻辑"
 description: "**[一句话核心判断]**  宝玉用两个字回应一个深层命题：大模型的能力分层正在重新定义「谁是工具、谁是用工具的人」。  **信息增量：** - 「必然趋势」——这四个字代表宝玉对当前 AI 能力曲线的核心判断正在收敛 - 结合宝玉近期关于 Claude Code、skill 生态的持续输出，这个「必然」指向：模型从助理到基础设施的不可逆转变 - 语境是回复 liskywalker2，问题应该与模"
 resource: "https://x.com/i/status/2062017394185208085"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2062017394185208085"
-created: "2026-06-03"
-updated: "2026-06-26"
-sha256: "694aeca85dbf2b7aa16c40958205a5b483ffe19daece94994faf269c5ddaa710"
-sources:
-  - "/sources/news/2026-06-03/00__dotey__宝玉定调-模型即工具-必然趋势背后的能力分层逻辑.md"
 ---
 
 # 宝玉定调「模型即工具」：必然趋势背后的能力分层逻辑

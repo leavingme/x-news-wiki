@@ -1,23 +1,17 @@
 ---
-type: "entity"
+type: "Author"
 title: "yibie (@yibie)"
 description: "X/Twitter 作者 @yibie。共收录 1 条 AI 精选推文。"
 tags:
   - "x-news"
   - "author"
   - "author:yibie"
-timestamp: "2026-06-26T11:53:37.002Z"
+timestamp: "2026-06-27T08:40:40.217Z"
 x_handle: "yibie"
 x_author_name: "yibie"
 x_tweet_count: 1
 x_first_seen: "2026-06-24T22:28:08.016Z"
 x_last_seen: "2026-06-24T22:28:08.016Z"
-type_okf: "Author"
-created: "2026-06-24"
-updated: "2026-06-26"
-sha256: "e6a0e5194ed266a2670ac354999fb496762632fa24e0041994efd743c31ad649"
-sources:
-  - "/sources/highlights/2026-06-24/00__yibie__flask-作者-armin-ronacher-罕见反思-连-boris-cherny-都承认-我的工作变成了写-loo.md"
 ---
 
 # yibie (@yibie)

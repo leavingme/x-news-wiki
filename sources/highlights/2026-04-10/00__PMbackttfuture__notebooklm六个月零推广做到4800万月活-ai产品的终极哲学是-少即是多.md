@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "NotebookLM六个月零推广做到4800万月活：AI产品的终极哲学是「少即是多」"
 description: "**[一个餐巾纸草图，6个月4800万月访问——AI产品最清醒的答案]**  NotebookLM没有去「取代Google搜索」或「重新定义办公软件」的大词，只解决一个真实痛点：标签页切换带来的认知中断。三栏界面（资料源/对话/笔记）让用户不离开一个页面完成阅读+理解+记录的全流程，每条回答标注出处，鼠标悬停即看原文，不胡编不幻觉。  对比当下AI产品的通病：功能堆砌本质是不知道用户要什么。真正的"
 resource: "https://x.com/i/status/1969207157100019749"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/1969207157100019749"
-created: "2025-09-20"
-updated: "2026-06-26"
-sha256: "d81ca16e40d74cd184034f2130a2ceaa5a4b30d2a7098aa013bfb1f01f767627"
-sources:
-  - "/sources/highlights/2026-04-10/00__PMbackttfuture__notebooklm六个月零推广做到4800万月活-ai产品的终极哲学是-少即是多.md"
 ---
 
 # NotebookLM六个月零推广做到4800万月活：AI产品的终极哲学是「少即是多」

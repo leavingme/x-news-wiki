@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Seedance2 45秒分镜Prompt拆解：多角色古风宫斗，一段Prompt直接出片"
 description: "**[核心判断]**: 视频生成的 Prompt 工程已细到\"分镜秒数+光影+情绪\"级别，创作者门槛被反向抬高。 - 45秒古装短剧，4个角色（皇帝/猫女/太后/刺客），用 Seedance2 fast+extend 模式一次性输出 - Prompt 结构含：场景描述、角色造型（色号级精度）、风格定义、分镜时间轴（0-3s/3-…），基本是工业化分镜台本直接灌给模型 - 平台：wavespeed_"
 resource: "https://x.com/i/status/2069078650902008130"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2069078650902008130"
-created: "2026-06-22"
-updated: "2026-06-26"
-sha256: "0ac2b47cf67f7cc21c68df9ed34797daf457afe2a35d5b54c20a1fa4a577e301"
-sources:
-  - "/sources/news/2026-06-24/00__drjoetw__seedance2-45秒分镜prompt拆解-多角色古风宫斗-一段prompt直接出片.md"
 ---
 
 # Seedance2 45秒分镜Prompt拆解：多角色古风宫斗，一段Prompt直接出片

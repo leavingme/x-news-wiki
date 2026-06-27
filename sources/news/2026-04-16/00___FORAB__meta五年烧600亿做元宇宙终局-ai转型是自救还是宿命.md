@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Meta五年烧600亿做元宇宙终局：AI转型是自救还是宿命？"
 description: "**[一句话核心判断]**  Meta宣布Horizon Worlds将于6月从Quest VR头显彻底移除，600亿美元打造的元宇宙梦5年走到尽头。这是AI浪潮下大厂战略收缩最昂贵的学费案例。  **信息增量：** - Horizon Worlds是Meta元宇宙战略核心产品，2021年公司为此改名 - 5年烧掉600亿美金，约等于2个OpenAI估值 - 撤出VR意味着Meta承认\"下一代计算"
 resource: "https://x.com/i/status/2034120947238900137"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2034120947238900137"
-created: "2026-03-18"
-updated: "2026-06-26"
-sha256: "9bee89ac91988d5337f36cfef33b77f256ab57bd231ed208937f6770051b717a"
-sources:
-  - "/sources/news/2026-04-16/00___FORAB__meta五年烧600亿做元宇宙终局-ai转型是自救还是宿命.md"
 ---
 
 # Meta五年烧600亿做元宇宙终局：AI转型是自救还是宿命？

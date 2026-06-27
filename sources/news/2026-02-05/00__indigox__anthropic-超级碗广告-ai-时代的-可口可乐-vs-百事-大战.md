@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Anthropic 超级碗广告：AI 时代的“可口可乐 vs 百事”大战"
 description: "**[顶级模型厂商转向大众心智博弈，公开讽刺竞品商业模式]** - Anthropic 在超级碗投放广告，直击 ChatGPT 计划加入广告的商业痛点 - 标志着 AI 行业从“纯技术内卷”进入“品牌价值观对峙”阶段 - 社交媒体热议其为 AI 领域的 Mac vs PC 经典对决再现  Pi 的锐评：Anthropic 终于明白了：技术领先是暂时的，但在用户想吐槽对手时补上一刀，这种好感是永久的"
 resource: "https://x.com/i/status/2019200162636116295"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2019200162636116295"
-created: "2026-02-05"
-updated: "2026-06-26"
-sha256: "f4b038a664dbc2b7f6747dbb44738ef18e3a863e80f942f661ccb06aacc0f89e"
-sources:
-  - "/sources/news/2026-02-05/00__indigox__anthropic-超级碗广告-ai-时代的-可口可乐-vs-百事-大战.md"
 ---
 
 # Anthropic 超级碗广告：AI 时代的“可口可乐 vs 百事”大战

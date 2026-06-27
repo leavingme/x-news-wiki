@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Musk 诉 OpenAI 败诉：不是输在事实，是输在时间——超过诉讼时效是硬伤"
 description: "**一句话核心判断：马斯克 1500 亿美元索赔被陪审团不到两小时驳回，核心败因是 2021 年已知情却拖到 2024 年才起诉。**  - 加州奥克兰联邦法院陪审团一致裁定：马斯克所有主张超过法定时效，驳回全部诉请；陪审团评议不到两小时 - 陪审团未判断指控本身是否成立，只认定 2021 年马斯克就知道公司架构变化，诉讼时效已过 - 法官 Yvonne Gonzalez Rogers 当庭表态采"
 resource: "https://x.com/i/status/2056495238684770487"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2056495238684770487"
-created: "2026-05-18"
-updated: "2026-06-26"
-sha256: "dd770f6473d2d1745fd44d78c1e037479adc512ad2c173802e3c8531f67a4a83"
-sources:
-  - "/sources/highlights/2026-05-18/00__dotey__musk-诉-openai-败诉-不是输在事实-是输在时间-超过诉讼时效是硬伤.md"
 ---
 
 # Musk 诉 OpenAI 败诉：不是输在事实，是输在时间——超过诉讼时效是硬伤

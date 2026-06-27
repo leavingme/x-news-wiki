@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "PAT3D：物理引擎加持的文本生成3D场景，CMU+港大破解AI建模的「穿模」顽疾"
 description: "**[3D生成从\"看着像\"进化到\"物理对\"——这一步比画质提升更关键]**  - CMU、HKU、HKUST 与 Genesis AI 联合提出 PAT3D，将视觉语言模型与物理模拟器结合，生成的3D场景遵循重力约束且物体不互相穿透 - 在物理合理性、语义一致性和视觉质量三项指标上全面超越现有方法，输出的场景可直接用于机器人操控仿真 - 关键突破：从\"生成好看的3D\"到\"生成物理正确的3D\"，这个"
 resource: "https://x.com/i/status/2052759929711366304"
@@ -22,13 +22,6 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "ai-3d-content-democratization"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2052759929711366304"
-created: "2026-05-08"
-updated: "2026-06-26"
-sha256: "59ba6b8ef13d54536c9de5defb30d0739d771164ed45812e320d0df8bdb4b536"
-sources:
-  - "/sources/news/2026-05-08/00__jiqizhixin__pat3d-物理引擎加持的文本生成3d场景-cmu-港大破解ai建模的-穿模-顽疾.md"
 ---
 
 # PAT3D：物理引擎加持的文本生成3D场景，CMU+港大破解AI建模的「穿模」顽疾

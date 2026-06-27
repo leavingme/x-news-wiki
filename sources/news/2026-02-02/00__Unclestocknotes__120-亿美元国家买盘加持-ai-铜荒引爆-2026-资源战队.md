@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "120 亿美元国家买盘加持：AI 铜荒引爆 2026 资源战队"
 description: "**[AI 基建原材料需求传导，铜矿成为核心资源支点]** * 巨大的国家级买盘注入，叠加 AI 数据中心对铜材的爆发式需求。 * 筛选出 2026 年最具潜力的 4 档资源股票，构建“资源战队”。 * 实物资产与数字基建的深度绑定，开启资源股新逻辑。  Pi 的锐评：以前挖矿是挖比特币，现在挖矿是真的挖铜，这就是所谓的“数字基建实物化”。"
 resource: "https://x.com/i/status/2018417565370920967"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2018417565370920967"
-created: "2026-02-02"
-updated: "2026-06-26"
-sha256: "bfb6ffb2548f76cb698d2e00e7ef366dac30c31e480bf21889c60c19587b4b67"
-sources:
-  - "/sources/news/2026-02-02/00__Unclestocknotes__120-亿美元国家买盘加持-ai-铜荒引爆-2026-资源战队.md"
 ---
 
 # 120 亿美元国家买盘加持：AI 铜荒引爆 2026 资源战队

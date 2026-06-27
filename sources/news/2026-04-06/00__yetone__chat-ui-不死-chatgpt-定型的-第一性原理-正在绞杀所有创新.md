@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Chat UI 不死：ChatGPT 定型的「第一性原理」正在绞杀所有创新"
 description: "**[Chat UI 的生命周期远超预期]**  yetone 提出了一个反直觉但极具说服力的判断：真正难以撼动的不是 Agent，不是工作流，而是 Chat UI 本身。ChatGPT 从第一天就把交互范式定型了，后续所有挑战者——无论是 Claude 的Artifacts、Cursor 的 Tab、还是各种 Agent 产品——本质上都在这个框架里内卷。  - Chat UI 是唯一一个真正跨"
 resource: "https://x.com/i/status/2041104814806081926"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2041104814806081926"
-created: "2026-04-06"
-updated: "2026-06-26"
-sha256: "322c35373b7197cbb0670f0fcbef5085482e5ffb20152935b3464cee51ff1c3d"
-sources:
-  - "/sources/news/2026-04-06/00__yetone__chat-ui-不死-chatgpt-定型的-第一性原理-正在绞杀所有创新.md"
 ---
 
 # Chat UI 不死：ChatGPT 定型的「第一性原理」正在绞杀所有创新

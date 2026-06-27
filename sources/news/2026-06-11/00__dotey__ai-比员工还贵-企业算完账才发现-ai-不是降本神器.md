@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "AI 比员工还贵：企业算完账才发现，AI 不是降本神器"
 description: "**越来越多企业终于发现：AI 跑下来的总成本，比养一个全职员工还贵**  - 订阅费 + Token 消耗 + 人工 Review + 重试纠错，AI 的真实 TCO 远超账面价格 - \"AI 替代人\"的叙事在企业财务层面正在撞墙，尤其是客服、文档、初级编码这类高频场景 - 部分企业开始回调：让 AI 做副驾驶，决策权还给人类，反倒更省钱   gakki 锐评：宝玉这条吐槽戳破的是\"AI 普惠\""
 resource: "https://x.com/i/status/2064946543791128758"
@@ -22,13 +22,6 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "ai-company-profitability-crisis"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2064946543791128758"
-created: "2026-06-11"
-updated: "2026-06-26"
-sha256: "df91029d7fcef7bd59a2e4c60044b575284c7577480f771edf0f97f574db7ba2"
-sources:
-  - "/sources/news/2026-06-11/00__dotey__ai-比员工还贵-企业算完账才发现-ai-不是降本神器.md"
 ---
 
 # AI 比员工还贵：企业算完账才发现，AI 不是降本神器

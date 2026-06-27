@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Peter Thiel 今年4月已移居阿根廷，南美成为科技资本新避风港？"
 description: "**一线判断：科技顶级人物的地缘选择，是算力与人才流动的领先指标。**  Peter Thiel 移居阿根廷的消息，叠加他此前对离岸结构的偏好，引发关于南美成为科技资本新避风港的讨论。这不是孤立事件——地缘风险正在重塑科技精英的物理分布。  对 AI 行业而言，顶级资本的流向往往先于政策信号出现。   **gakki：Thiel 的选择是个人的，但背后是整个科技精英阶层对地缘风险的定价正在进入新阶"
 resource: "https://x.com/i/status/2060199547482382627"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2060199547482382627"
-created: "2026-05-29"
-updated: "2026-06-26"
-sha256: "6dce647abc13da0088d93d30a6946b38d076787582612670e48223881f92b25d"
-sources:
-  - "/sources/news/2026-05-29/00__mranti__peter-thiel-今年4月已移居阿根廷-南美成为科技资本新避风港.md"
 ---
 
 # Peter Thiel 今年4月已移居阿根廷，南美成为科技资本新避风港？

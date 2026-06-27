@@ -1,24 +1,17 @@
 ---
-type: "entity"
+type: "Author"
 title: "Crypto_Painter (@CryptoPainter)"
 description: "X/Twitter 作者 @CryptoPainter。共收录 2 条 AI 精选推文。"
 tags:
   - "x-news"
   - "author"
   - "author:CryptoPainter"
-timestamp: "2026-06-26T11:53:36.964Z"
+timestamp: "2026-06-27T08:40:40.173Z"
 x_handle: "CryptoPainter"
 x_author_name: "Crypto_Painter"
 x_tweet_count: 2
 x_first_seen: "2026-03-21T09:05:18.974Z"
 x_last_seen: "2026-03-22T00:43:21.146Z"
-type_okf: "Author"
-created: "2026-03-21"
-updated: "2026-06-26"
-sha256: "fddc54480da0c9ef0a7a6866ffc7bf3e6432b9c8e72b11abe189f39684220dac"
-sources:
-  - "/sources/highlights/2026-03-22/00__CryptoPainter__1300u买来的残酷真相-自进化量化系统的-ai成本陷阱.md"
-  - "/sources/news/2026-03-21/00__CryptoPainter__交易agent的终极壁垒-如何把-灵光乍现-量化为可执行策略.md"
 ---
 
 # Crypto_Painter (@CryptoPainter)

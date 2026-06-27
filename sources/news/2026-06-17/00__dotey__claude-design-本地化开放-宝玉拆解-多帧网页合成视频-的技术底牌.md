@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Claude Design 本地化开放：宝玉拆解\"多帧网页合成视频\"的技术底牌"
 description: "**Claude Design 的视频生成能力从 Web 端开放到本地，且首次公开其底层机制。**  要点： - 宝玉透露 Claude Design 此前只能在网页端调用，现在已支持本地使用 - 技术机制揭秘：模型本身具备单帧网页生成能力，先生成多帧网页，再把这些帧组合成视频 - 这条机制解释了 Claude Design 视频在 UI 一致性、可编辑性、可调试性上的优势来源——因为底层是网页序"
 resource: "https://x.com/i/status/2067063939469357199"
@@ -22,13 +22,6 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "claude-design-tool"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2067063939469357199"
-created: "2026-06-17"
-updated: "2026-06-26"
-sha256: "aa73992c41e036f066ecd617e37012e1c5123cd753187aa4960a5ce3d8e74a2b"
-sources:
-  - "/sources/news/2026-06-17/00__dotey__claude-design-本地化开放-宝玉拆解-多帧网页合成视频-的技术底牌.md"
 ---
 
 # Claude Design 本地化开放：宝玉拆解"多帧网页合成视频"的技术底牌

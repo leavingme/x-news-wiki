@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "OpenAI 上架 AWS 打破 Azure 独占：模型分发从「租户绑定」走向「云中立」"
 description: "**OpenAI 首次将模型、Codex 和 Bedrock Managed Agents 以有限预览形式开放给 AWS 客户，标志着其分发策略从 Azure 独占转向多云中立。**  - 企业客户可直接在 AWS 侧调用 OpenAI 能力，软件工程和专业工作流场景优先落地 - 此举等于承认单一云绑定已成增长瓶颈，模型商品化压力倒逼分发侧「去围墙化」 - AWS 获得顶级模型入驻，与 Anthr"
 resource: "https://x.com/OpenAINewsroom/status/2049258911887434165"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
-
 x_source: "ai-trend-digest"
-type_okf: "X Tweet"
-source_url: "https://x.com/OpenAINewsroom/status/2049258911887434165"
-created: "2026-04-28"
-updated: "2026-06-26"
-sha256: "d4908cdba826c558d231afc2047f0839f67a40f6ca465dbbef65b5d494dd0803"
-sources:
-  - "/sources/highlights/2026-04-29/00__OpenAINewsroom__openai-上架-aws-打破-azure-独占-模型分发从-租户绑定-走向-云中立.md"
 ---
 
 # OpenAI 上架 AWS 打破 Azure 独占：模型分发从「租户绑定」走向「云中立」

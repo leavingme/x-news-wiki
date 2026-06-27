@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Hermes Agent 自进化：prompt工程正在被prompt自己取代"
 description: "**一句话核心判断：** ICLR 2026 Oral 论文 GEPA 用 35 倍更少的数据超越 RLHF，意味着「人工调 prompt」正在被「模型自己优化 prompt」彻底替代——这是 prompt 工程职业存亡的分水岭。  **信息增量：** - Nous Research 开源 hermes-agent-self-evolution，核心引擎 GEPA 获 ICLR 2026 Oral"
 resource: "https://x.com/i/status/2043119101028274268"
@@ -22,13 +22,6 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "hermes-agent-self-evolution"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2043119101028274268"
-created: "2026-04-12"
-updated: "2026-06-26"
-sha256: "a371996844e9d2e98a7d3365d1036d56e740cb601d5bfd8f0dc7faafea8e8928"
-sources:
-  - "/sources/news/2026-04-12/00__KKaWSB__hermes-agent-自进化-prompt工程正在被prompt自己取代.md"
 ---
 
 # Hermes Agent 自进化：prompt工程正在被prompt自己取代

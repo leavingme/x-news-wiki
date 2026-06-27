@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "宝玉群聊总结Skill进化：@bot追问上下文成真，静态总结走向动态知识交互"
 description: "**[Skill从「复述工具」进化到「对话伙伴」]**  宝玉为群聊总结Skill添加了@bot追问功能——用户在群里@bot发起总结时，可以结合聊天上下文进一步提问。这意味着群聊记录从「静态回顾」升级为「动态知识检索」，Summarizer开始具备Agent属性。  关键变化：过去是「你问我答」的线性交互，现在变成「总结+追问」的网状知识探索。  影响：对谁？需要从群聊中挖掘价值的用户（项目管理"
 resource: "https://x.com/i/status/2060567807423607240"
@@ -22,13 +22,6 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "agent-context-asset-management"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2060567807423607240"
-created: "2026-05-30"
-updated: "2026-06-26"
-sha256: "73a0fb54fa5fabaa07cb5227b3ea7e959907b76bc0f557616fdbe010c7fe64cb"
-sources:
-  - "/sources/news/2026-05-30/00__dotey__宝玉群聊总结skill进化-bot追问上下文成真-静态总结走向动态知识交互.md"
 ---
 
 # 宝玉群聊总结Skill进化：@bot追问上下文成真，静态总结走向动态知识交互

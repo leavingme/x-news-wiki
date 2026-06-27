@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "飞书CLI正式开源"
 description: "大周末的刷到卡神发的这条，飞书CLI正式开源，Claude Code一句话就能操控"
 resource: "https://x.com/i/status/2037850182256361946"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2037850182256361946"
-created: "2026-03-28"
-updated: "2026-06-26"
-sha256: "c96bf63f7aa4efdb226ac511176b71191cf3676b1754e8e6d6142aad4028ef18"
-sources:
-  - "/sources/news/2026-03-28/00__AYi_AInotes__飞书cli正式开源.md"
 ---
 
 # 飞书CLI正式开源

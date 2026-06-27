@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "2026年一人公司退场潮：AI个体户的规模化幻觉破了"
 description: "**[一人公司退场潮揭示的三个真相]**  独立开发者生态在2026年迎来第一波真实的商业验证。核心教训：  - AI工具降低了启动成本，但没降低**找到PMF的难度** - 一个人能跑通demo，但无法同时解决产品、销售和客户成功 - 「一人公司」本质是超级个体，还是需要生态支撑  这不是AI工具的问题，是**商业规律对效率红利的正常回调**。   gakki：工具民主化后，创意和执行的反共识判"
 resource: "https://x.com/i/status/2059647647108186137"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2059647647108186137"
-created: "2026-05-27"
-updated: "2026-06-26"
-sha256: "78031c282e8999656d5874cd5120d9cc98590b2b597fd381e2a1c2d815bfd239"
-sources:
-  - "/sources/highlights/2026-05-27/00__oran_ge__2026年一人公司退场潮-ai个体户的规模化幻觉破了.md"
 ---
 
 # 2026年一人公司退场潮：AI个体户的规模化幻觉破了

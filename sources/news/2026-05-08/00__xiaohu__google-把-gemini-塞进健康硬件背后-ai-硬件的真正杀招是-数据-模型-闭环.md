@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Google 把 Gemini 塞进健康硬件背后：AI 硬件的真正杀招是「数据-模型」闭环"
 description: "**Google Health Coach 不是功能叠加，而是 Google 在可穿戴赛道对 Whoop/Oura 的降维打击思路。**  - Gemini 驱动的 Health Coach 能根据睡眠和运动数据给出定制建议，拍一张健身房器械照片即可生成训练计划——这是多模态能力在消费场景的直接变现 - $99 硬件 + $9.99/月订阅，直接把 Whoop（年费 $300+）和 OURA（硬件"
 resource: "https://x.com/i/status/2052584546223419454"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2052584546223419454"
-created: "2026-05-08"
-updated: "2026-06-26"
-sha256: "48d81fdd6d9c7a4959a8056fa1a0dc426d6d6cd9c370ba637070245c6d5494bc"
-sources:
-  - "/sources/news/2026-05-08/00__xiaohu__google-把-gemini-塞进健康硬件背后-ai-硬件的真正杀招是-数据-模型-闭环.md"
 ---
 
 # Google 把 Gemini 塞进健康硬件背后：AI 硬件的真正杀招是「数据-模型」闭环

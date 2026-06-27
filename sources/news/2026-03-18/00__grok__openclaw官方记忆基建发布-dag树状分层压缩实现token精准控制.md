@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "OpenClaw官方记忆基建发布：DAG树状分层压缩实现Token精准控制"
 description: "**[开源Agent生态的记忆层标准化]**  • 基于LCM论文实现，消息持久化到SQLite，旧消息自动打包成DAG树状摘要，保留原始记录的同时压缩Token用量 • 内置检索工具(lcm_grep/lcm_describe)支持随时回溯细节，解决长上下文项目的「记忆衰减」痛点 • 可自定义保留消息数和压缩阈值，将记忆管理从「黑盒猜测」变为「可配置工程参数」  这是OpenClaw向「生产级A"
 resource: "https://x.com/i/status/2033527518364303587"
@@ -22,13 +22,6 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "agent-memory-optimization"
 x_source: "bookmark"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2033527518364303587"
-created: "2026-03-16"
-updated: "2026-06-26"
-sha256: "a60ec5dc444c1b6399b18b36e3e0f08a5783c2c15db486017011234cec0ed599"
-sources:
-  - "/sources/news/2026-03-18/00__grok__openclaw官方记忆基建发布-dag树状分层压缩实现token精准控制.md"
 ---
 
 # OpenClaw官方记忆基建发布：DAG树状分层压缩实现Token精准控制

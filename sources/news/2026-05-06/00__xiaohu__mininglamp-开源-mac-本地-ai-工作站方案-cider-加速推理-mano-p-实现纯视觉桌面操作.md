@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Mininglamp 开源 Mac 本地 AI 工作站方案：Cider 加速推理 + Mano-P 实现纯视觉桌面操作"
 description: "**Mac 从「能跑模型」升级为「能干活的本地 AI 工作站」，端侧 Agent 能力正在补齐最后一块拼图。**  - Cider 解锁 M5 芯片 INT8 TensorOps，LLM/VLM 推理更快更省内存，解决「芯片强但模型没想象中快」的痛点 - Mano-P 是纯视觉 GUI-VLA Agent，截图不出设备，支持桌面软件、网页、专业工具的复杂自动化操作 - 两条路径合并：更快的推理 +"
 resource: "https://x.com/i/status/2051975604355096926"
@@ -22,13 +22,6 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "edge-agent-local-compute"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2051975604355096926"
-created: "2026-05-06"
-updated: "2026-06-26"
-sha256: "9a760be2d5d44b027143992674e180e36a8fcecf7273e31c4e6faca1c01b67e3"
-sources:
-  - "/sources/news/2026-05-06/00__xiaohu__mininglamp-开源-mac-本地-ai-工作站方案-cider-加速推理-mano-p-实现纯视觉桌面操作.md"
 ---
 
 # Mininglamp 开源 Mac 本地 AI 工作站方案：Cider 加速推理 + Mano-P 实现纯视觉桌面操作

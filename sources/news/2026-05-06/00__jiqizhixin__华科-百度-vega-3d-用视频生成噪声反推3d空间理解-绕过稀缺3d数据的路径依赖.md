@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "华科+百度 VEGA-3D：用视频生成噪声反推3D空间理解，绕过稀缺3D数据的路径依赖"
 description: "**视频扩散模型的中间噪声本身已编码空间结构，无需显式3D标注即可完成场景理解。**  - 华中科技大学与百度联合提出 VEGA-3D，将预训练视频扩散模型复用为「潜在世界模拟器」，从中间层噪声中提取隐式空间线索并融合语言模型 - 核心思路：不依赖稀缺的3D标注数据，而是从视频生成过程中已存在的空间先验中「白嫖」3D理解能力 - 在3D场景理解与空间推理基准上超越现有SOTA  锐评：这条路径的价"
 resource: "https://x.com/i/status/2051975762593599893"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2051975762593599893"
-created: "2026-05-06"
-updated: "2026-06-26"
-sha256: "e2106f1a5c5be0237df878370fd384492fb2edd2dec625e80f26a1dc4a5fc0e0"
-sources:
-  - "/sources/news/2026-05-06/00__jiqizhixin__华科-百度-vega-3d-用视频生成噪声反推3d空间理解-绕过稀缺3d数据的路径依赖.md"
 ---
 
 # 华科+百度 VEGA-3D：用视频生成噪声反推3D空间理解，绕过稀缺3D数据的路径依赖

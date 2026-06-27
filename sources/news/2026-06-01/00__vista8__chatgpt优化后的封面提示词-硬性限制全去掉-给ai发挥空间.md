@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "ChatGPT优化后的封面提示词：硬性限制全去掉，给AI发挥空间"
 description: "**[一句话核心判断]** AI生成配图的最优策略不是给更多约束，而是给更少约束——把硬性限定词全部去掉，结果反而更好。  - 实践发现：5:2大字封面的提示词经过ChatGPT优化后，删除了所有硬性限制，效果反而超出预期。 - 指向一个反直觉的AI产品设计原则：过度精细的prompt可能反而限制AI的创造空间。  gakki：这与宝玉的「渣男AI」方法论形成呼应——无论是选模型还是写prompt"
 resource: "https://x.com/i/status/2061462881984725365"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2061462881984725365"
-created: "2026-06-01"
-updated: "2026-06-26"
-sha256: "71c1945d9abe76b1afc0288389a31e872d9674f726840374b3726786be324540"
-sources:
-  - "/sources/news/2026-06-01/00__vista8__chatgpt优化后的封面提示词-硬性限制全去掉-给ai发挥空间.md"
 ---
 
 # ChatGPT优化后的封面提示词：硬性限制全去掉，给AI发挥空间

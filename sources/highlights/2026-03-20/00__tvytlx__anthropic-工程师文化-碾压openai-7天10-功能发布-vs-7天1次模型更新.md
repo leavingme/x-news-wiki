@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Anthropic「工程师文化」碾压OpenAI：7天10+功能发布 vs 7天1次模型更新"
 description: "**[Anthropic正以「建造者密度」重新定义AI产品迭代标准]** • 过去7天Anthropic ship了10+功能：Dispatch、语音模式、1M context GA、MCP elicitation、手机Cowork等；OpenAI仅发布GPT-5.4 mini/nano和界面调整 • Boris Cherny（Claude Code负责人）日均10-30个PR、11个月未手写代码"
 resource: "https://x.com/i/status/2034858940635521193"
@@ -22,13 +22,6 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "claude-code-ecosystem"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2034858940635521193"
-created: "2026-03-20"
-updated: "2026-06-26"
-sha256: "c6afaa2b7cd85c49eb81556059a57ddfda1ac240872c2e2d5c8a109d8f51c484"
-sources:
-  - "/sources/highlights/2026-03-20/00__tvytlx__anthropic-工程师文化-碾压openai-7天10-功能发布-vs-7天1次模型更新.md"
 ---
 
 # Anthropic「工程师文化」碾压OpenAI：7天10+功能发布 vs 7天1次模型更新

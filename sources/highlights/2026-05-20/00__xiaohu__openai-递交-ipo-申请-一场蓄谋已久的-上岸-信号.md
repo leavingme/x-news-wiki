@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "OpenAI 递交 IPO 申请：一场蓄谋已久的「上岸」信号"
 description: "**[一级市场融资已触及天花板，二级市场成为唯一出口]**  据《华尔街日报》披露，OpenAI 已在未来数周内提交 IPO 申请。这不是临时起意——Sam Altman 过去两年密集重建治理结构、引入独立董事、削减非营利色彩，全是在给上市扫清障碍。  关键信号：AI 行业「高亏损换高估值」的商业模式首次直面公众市场审视。投资者将被迫回答——当 GPT-5 的训练成本突破数十亿美元时，OpenAI"
 resource: "https://x.com/i/status/2057143906761138425"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2057143906761138425"
-created: "2026-05-20"
-updated: "2026-06-26"
-sha256: "cb15a1814f5c5b8b0241efd22fe4ede7cba2933351bb07e6a4363d03428bcfc4"
-sources:
-  - "/sources/highlights/2026-05-20/00__xiaohu__openai-递交-ipo-申请-一场蓄谋已久的-上岸-信号.md"
 ---
 
 # OpenAI 递交 IPO 申请：一场蓄谋已久的「上岸」信号

@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Claude Code 官方推出 /goal 命令：结构化任务管理成为 Agent 原生能力"
 description: "**Anthropic 将结构化目标管理内置为 Claude Code 的一等公民。**  - 官方正式推出 /goal 命令，不再需要第三方插件实现目标分解与追踪 - 这意味着 Agent 的任务管理能力从「社区 hack」升级为「平台原生」 - 对依赖 SKILL.md 等外部工作流的用户来说，平台正在收编最佳实践  Gakki 锐评：当平台开始把社区的最佳实践内化为官方功能时，要么是生态成熟"
 resource: "https://x.com/i/status/2050028566071365903"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2050028566071365903"
-created: "2026-05-01"
-updated: "2026-06-26"
-sha256: "6469c20ecd251cfc5bf1c49863da9c4f8b198ff13c6c668e713683b9fee6f355"
-sources:
-  - "/sources/news/2026-05-01/00__dotey__claude-code-官方推出-goal-命令-结构化任务管理成为-agent-原生能力.md"
 ---
 
 # Claude Code 官方推出 /goal 命令：结构化任务管理成为 Agent 原生能力

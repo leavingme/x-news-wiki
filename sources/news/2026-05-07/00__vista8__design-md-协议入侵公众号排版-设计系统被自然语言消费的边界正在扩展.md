@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "DESIGN.md 协议入侵公众号排版：设计系统被自然语言消费的边界正在扩展"
 description: "**[DESIGN.md 从代码仓库走向内容排版，纯文本设计协议的消费场景在扩大]** - 直接用 Design MD 协议让 Agent 生成公众号 CSS 排版，一次设计出 70+ 知名网站风格 - 设计系统可以被自然语言描述和消费，设计师的\"审美判断\"正在被 Skill 化 - DESIGN.md 的核心价值：让 AI 理解设计意图，而非仅执行设计指令  当设计系统可以被 Markdown "
 resource: "https://x.com/i/status/2052421411445375089"
@@ -22,13 +22,6 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "design-md-protocol"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2052421411445375089"
-created: "2026-05-07"
-updated: "2026-06-26"
-sha256: "7ec8b1e1737bf87bdd4a2b5e98bdf7494e3b2e08646182714c8bdd54e7555bcc"
-sources:
-  - "/sources/news/2026-05-07/00__vista8__design-md-协议入侵公众号排版-设计系统被自然语言消费的边界正在扩展.md"
 ---
 
 # DESIGN.md 协议入侵公众号排版：设计系统被自然语言消费的边界正在扩展

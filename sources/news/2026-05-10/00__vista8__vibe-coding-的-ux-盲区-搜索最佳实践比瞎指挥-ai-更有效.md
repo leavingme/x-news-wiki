@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Vibe Coding 的 UX 盲区：搜索最佳实践比瞎指挥 AI 更有效"
 description: "**Vibe Coding 的真正瓶颈不是代码生成，而是设计判断力的缺失。**  - 向阳乔木提出实用策略：让 AI 搜索参考最佳实践，而非凭空设计 UX 交互 - 核心洞察：前人智慧结晶 > 不懂领域里的直觉指挥，这适用于所有非代码维度的 Vibe Coding - 暗示了一个更大的问题——Vibe Coding 能写代码，但 UX/产品设计的判断力仍需人类输入  Vibe Coding 的边界"
 resource: "https://x.com/i/status/2053283821148377162"
@@ -22,13 +22,6 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "vibe-coding-methodology"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2053283821148377162"
-created: "2026-05-10"
-updated: "2026-06-26"
-sha256: "dde55498ac0832878fff44c9fb04facd1a6f78dbe2445385e4a184b603eb2087"
-sources:
-  - "/sources/news/2026-05-10/00__vista8__vibe-coding-的-ux-盲区-搜索最佳实践比瞎指挥-ai-更有效.md"
 ---
 
 # Vibe Coding 的 UX 盲区：搜索最佳实践比瞎指挥 AI 更有效

@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Lex Fridman 入华录播客：海外顶级 AI KOL 正在系统性地理解中国 AI 生态"
 description: "**[Lex Fridman 访华录播客，海外 AI 舆论场对中国工程师的认知进入实地考察阶段]**  · Lex Fridman 是海外 AI 圈顶层流量（播客、YouTube、Twitter），他的选择本身就是信号 · 「不知道是哪几家，他的量还是很猛的」——说明国内 AI 圈对这次接触有期待但缺乏信息 · 此前海外 AI 叙事长期由「OpenAI/Anthropic 圈子」主导，中国 AI "
 resource: "https://x.com/i/status/2055133915162218942"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2055133915162218942"
-created: "2026-05-15"
-updated: "2026-06-26"
-sha256: "fda97825a13171ae96bbb03afa1c363942a4921801fe74363e1b26cd50342eba"
-sources:
-  - "/sources/news/2026-05-15/00__op7418__lex-fridman-入华录播客-海外顶级-ai-kol-正在系统性地理解中国-ai-生态.md"
 ---
 
 # Lex Fridman 入华录播客：海外顶级 AI KOL 正在系统性地理解中国 AI 生态

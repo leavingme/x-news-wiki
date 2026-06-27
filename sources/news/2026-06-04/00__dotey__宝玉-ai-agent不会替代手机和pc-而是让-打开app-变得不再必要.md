@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "宝玉：AI Agent不会替代手机和PC，而是让「打开App」变得不再必要"
 description: "**一句话核心判断** AI Agent 的替代逻辑是「功能覆盖」而非「设备替换」——手机没有取代 PC，AI Agent 也不会取代手机，而是让「跨 App 调度」变成 Agent 的默认能力，用户不再需要手动打开多个应用。  **信息增量** - 引用「手机 vs PC」的类比框架：移动性增量 ≠ 替代关系 - 核心论点：Agent 的本质是「指令层上移」——从操作 App 变成直接下指令 -"
 resource: "https://x.com/i/status/2062367862803533969"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2062367862803533969"
-created: "2026-06-04"
-updated: "2026-06-26"
-sha256: "30872f0d3cddf6fd42b23176d340820b1e28d6138ae41679cc085324fb12e0ff"
-sources:
-  - "/sources/news/2026-06-04/00__dotey__宝玉-ai-agent不会替代手机和pc-而是让-打开app-变得不再必要.md"
 ---
 
 # 宝玉：AI Agent不会替代手机和PC，而是让「打开App」变得不再必要

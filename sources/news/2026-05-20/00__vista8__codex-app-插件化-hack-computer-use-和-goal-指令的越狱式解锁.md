@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Codex App 插件化 Hack：Computer Use 和 Goal 指令的越狱式解锁"
 description: "**一句话：Codex App 的插件机制意外撕开了一道口子，让 API 登录用户也能用上原本需要独立部署的 Computer Use 和 Goal 指令，顶部 Tab 化 UI 还顺带改善了多会话管理。**  要点： - 即使纯 API 接入也能通过插件加载 Computer Use 能力，等效于降低了旗舰功能的门槛 - Goal 指令的加入让 Codex 从被动工具开始具备目标导向执行属性 -"
 resource: "https://x.com/i/status/2057124658927812758"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2057124658927812758"
-created: "2026-05-20"
-updated: "2026-06-26"
-sha256: "60ba74d3f7aa10fe6075a6992366afb4423d5e3bb41f41f161297d2ea08a145e"
-sources:
-  - "/sources/news/2026-05-20/00__vista8__codex-app-插件化-hack-computer-use-和-goal-指令的越狱式解锁.md"
 ---
 
 # Codex App 插件化 Hack：Computer Use 和 Goal 指令的越狱式解锁

@@ -1,24 +1,17 @@
 ---
-type: "entity"
+type: "Author"
 title: "Adele (@1024Adele)"
 description: "X/Twitter 作者 @1024Adele。共收录 2 条 AI 精选推文。"
 tags:
   - "x-news"
   - "author"
   - "author:1024Adele"
-timestamp: "2026-06-26T11:53:36.922Z"
+timestamp: "2026-06-27T08:40:40.129Z"
 x_handle: "1024Adele"
 x_author_name: "Adele"
 x_tweet_count: 2
 x_first_seen: "2026-02-07T13:00:13.311Z"
 x_last_seen: "2026-02-08T13:00:14.039Z"
-type_okf: "Author"
-created: "2026-02-07"
-updated: "2026-06-26"
-sha256: "3870f80a9888f50a57529d3d6dc2b7ac10e372b7772dd337f9c6c5a464f450e6"
-sources:
-  - "/sources/news/2026-02-07/00__1024Adele__用户发起-keep4o-抗议-反思-ai-的人文退步.md"
-  - "/sources/news/2026-02-08/00__1024Adele__keep4o-运动-用户为何死守-gpt-4o-的-灵气.md"
 ---
 
 # Adele (@1024Adele)

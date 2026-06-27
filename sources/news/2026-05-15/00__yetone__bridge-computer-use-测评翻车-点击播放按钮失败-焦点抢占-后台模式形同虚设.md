@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Bridge Computer Use 测评翻车：点击播放按钮失败、焦点抢占、后台模式形同虚设"
 description: "**Bridge 的 Computer Use 是一个工程承诺与体验现实的落差样本。**  实测网易云音乐「今日推荐」场景暴露三个结构性缺陷：  抢焦问题：即使声明 Background 模式，仍会强制抢占当前应用焦点，左上角红绿灯变灰，用户操作被打断。  点击失效：播放按钮反复点击无响应，Agent 最终发现菜单栏快捷键——但快捷键只恢复暂停歌曲，而非「今日推荐」列表。  语义断裂：用户预期是「"
 resource: "https://x.com/i/status/2055342958103458259"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2055342958103458259"
-created: "2026-05-15"
-updated: "2026-06-26"
-sha256: "7e28f4f73ff360cfcf40223090dab12f91122d442dc3b843ed9087d1ce487485"
-sources:
-  - "/sources/news/2026-05-15/00__yetone__bridge-computer-use-测评翻车-点击播放按钮失败-焦点抢占-后台模式形同虚设.md"
 ---
 
 # Bridge Computer Use 测评翻车：点击播放按钮失败、焦点抢占、后台模式形同虚设

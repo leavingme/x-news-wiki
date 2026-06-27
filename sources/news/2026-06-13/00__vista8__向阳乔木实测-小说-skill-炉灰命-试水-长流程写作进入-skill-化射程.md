@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "向阳乔木实测「小说 Skill」:《炉灰命》试水,长流程写作进入 Skill 化射程"
 description: "**小说这类长流程、强结构的内容创作,正在被拆解成可调用的 Skill。**  - 向阳乔木测试「小说 Skill」,用作品《炉灰命》做载体 - 与此前开源的 qiaomu-book-script(书籍解读 Skill)同向——中文长内容创作的 Skill 化推进中 - 标志着 SKILL.md 生态从代码 / 办公向\"长篇创作\"扩张   gakki 锐评:单次测试不证伪可行性,但 Skill 化"
 resource: "https://x.com/i/status/2065797575022968961"
@@ -22,13 +22,6 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "skills-ecosystem-standards"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2065797575022968961"
-created: "2026-06-13"
-updated: "2026-06-26"
-sha256: "94be350e083b8615e3555462428b531f861fd82a1ed8ca2432163d7e0a3a8dee"
-sources:
-  - "/sources/news/2026-06-13/00__vista8__向阳乔木实测-小说-skill-炉灰命-试水-长流程写作进入-skill-化射程.md"
 ---
 
 # 向阳乔木实测「小说 Skill」:《炉灰命》试水,长流程写作进入 Skill 化射程

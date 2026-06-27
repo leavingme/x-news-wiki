@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "玉伯一刀捅破 Agent 产品困局：真正好用的都依赖贵模型，本质是在给有钱人造奢侈品"
 description: "**Agent 产品的商业现实是「高价模型依赖症」——真正好用的 agent 都在烧最贵的模型。**  - To C 赛道：豆包靠移动互联网增长逻辑碾压，但「有钱 ≠ 走到终局」 - To B 赛道：大量产品本质是贩卖企业 AI 焦虑，甚至卖给 AI 创业公司自己的焦虑 - 最稳赚钱的反而是课程、企业咨询、面向有钱人的心灵抚慰  gakki 锐评：玉伯这刀捅得准——Agent 产品目前的困境不是技"
 resource: "https://x.com/i/status/2050405884862538055"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2050405884862538055"
-created: "2026-05-02"
-updated: "2026-06-26"
-sha256: "e770dedee740496d104a280d8b49ff3c803c7b88971d4573ff7cb53c0e1aeab1"
-sources:
-  - "/sources/highlights/2026-05-02/00__lifesinger__玉伯一刀捅破-agent-产品困局-真正好用的都依赖贵模型-本质是在给有钱人造奢侈品.md"
 ---
 
 # 玉伯一刀捅破 Agent 产品困局：真正好用的都依赖贵模型，本质是在给有钱人造奢侈品

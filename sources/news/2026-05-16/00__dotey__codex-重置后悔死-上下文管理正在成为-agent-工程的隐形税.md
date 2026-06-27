@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Codex 重置后悔死：上下文管理正在成为 Agent 工程的隐形税"
 description: "**[Codex 每次重置都让开发者后悔——这是记忆资产流失的具象化表达]**  核心观察：宝玉这句话用自嘲揭示了一个工程真相：当 Agent 的上下文窗口被重置，\"之前没用多一点\"意味着积累的工作记忆、上下文理解、任务状态全部归零。这是所有基于长上下文的 Agent 工具共同面临的问题。  信息增量：它指向了 Agent Memory Optimization 专题中一个尚未被系统性解决的核心矛"
 resource: "https://x.com/i/status/2055725633603260439"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2055725633603260439"
-created: "2026-05-16"
-updated: "2026-06-26"
-sha256: "058abfd7c42d4c5b3dfdfabecf6e2297f3ba0a4b413904fd7b50e8ebc694a840"
-sources:
-  - "/sources/news/2026-05-16/00__dotey__codex-重置后悔死-上下文管理正在成为-agent-工程的隐形税.md"
 ---
 
 # Codex 重置后悔死：上下文管理正在成为 Agent 工程的隐形税

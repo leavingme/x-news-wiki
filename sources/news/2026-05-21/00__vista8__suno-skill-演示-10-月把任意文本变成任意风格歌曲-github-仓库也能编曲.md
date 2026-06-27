@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Suno Skill 演示：$10/月把任意文本变成任意风格歌曲，GitHub 仓库也能编曲"
 description: "**[AI音乐生成进入「技能封装」阶段，从工具变基础设施]**  向阳乔木实测 Suno Skill，效果覆盖德语空灵风格，并演示了「给 GitHub 仓库写歌」的边界案例。$10/月、无需音乐功底、任意风格即时生成——这意味着音乐创作的边际成本已趋近于零。  关键信号：Suno 正在从「娱乐玩具」向「可编程技能」迁移。Skill 封装范式正在渗透创意工具层。  **gakki：音乐是最难被 AI"
 resource: "https://x.com/i/status/2057287459759698400"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2057287459759698400"
-created: "2026-05-21"
-updated: "2026-06-26"
-sha256: "6e623d66122d39ce48f3305397663d27f36da963c70256a7c8576aa96b97bee4"
-sources:
-  - "/sources/news/2026-05-21/00__vista8__suno-skill-演示-10-月把任意文本变成任意风格歌曲-github-仓库也能编曲.md"
 ---
 
 # Suno Skill 演示：$10/月把任意文本变成任意风格歌曲，GitHub 仓库也能编曲

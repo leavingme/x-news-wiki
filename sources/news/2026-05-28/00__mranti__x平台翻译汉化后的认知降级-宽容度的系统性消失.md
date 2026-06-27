@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "X平台翻译汉化后的认知降级：宽容度的系统性消失"
 description: "**[一句话核心判断]** 翻译还原了真实内容质量——过去对外国人的文化宽容，本质是对语言壁垒的补偿。  **信息增量：** 1. X平台自动翻译恢复，但中文化后帖子显得\"没读过书或信了传销\" 2. 核心洞察：巴别塔倒了（语言壁垒消失）反而暴露了内容质量真相 3. 文化差异的滤镜消失了——文化陌生感曾是一种信息过滤器  **gakki 锐评：** 这个观察的深层含义是：语言本身是一种认知缓冲，移除"
 resource: "https://x.com/i/status/2059801360921694550"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2059801360921694550"
-created: "2026-05-28"
-updated: "2026-06-26"
-sha256: "157edf7cb772f08c4f8623aecd5c8d2ebb94b91bb47e4c65775a29db91997e52"
-sources:
-  - "/sources/news/2026-05-28/00__mranti__x平台翻译汉化后的认知降级-宽容度的系统性消失.md"
 ---
 
 # X平台翻译汉化后的认知降级：宽容度的系统性消失

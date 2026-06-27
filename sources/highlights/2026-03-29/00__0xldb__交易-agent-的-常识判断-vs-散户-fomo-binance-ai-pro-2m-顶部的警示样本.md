@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "交易 Agent 的「常识判断」 vs 散户 FOMO：Binance AI Pro 2m→顶部的警示样本"
 description: "**[早期预警信号被情绪化交易淹没的典型案例]** • 该博主从 2m 市值起持续提示风险，类比 Titan 崩盘路径，最终验证「该卖卖」的纪律优于「幻想 alpha」的贪婪 • 暴露 Agent/信号提供者与跟随者之间的「认知时差」——信号可被算法生成，但执行权仍在人性手里 • 对交易 Agent 设计者的启示：光有决策逻辑不够，需嵌入「反 FOMO 强制执行」或「置信度阈值」机制  **gak"
 resource: "https://x.com/i/status/2038019282379096545"
@@ -22,13 +22,6 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "trading-agent-definition"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2038019282379096545"
-created: "2026-03-28"
-updated: "2026-06-26"
-sha256: "afd3f4b863166c216b11e092f2dbc1ab39953a27d28c609f78b1146b6e64dd2a"
-sources:
-  - "/sources/highlights/2026-03-29/00__0xldb__交易-agent-的-常识判断-vs-散户-fomo-binance-ai-pro-2m-顶部的警示样本.md"
 ---
 
 # 交易 Agent 的「常识判断」 vs 散户 FOMO：Binance AI Pro 2m→顶部的警示样本

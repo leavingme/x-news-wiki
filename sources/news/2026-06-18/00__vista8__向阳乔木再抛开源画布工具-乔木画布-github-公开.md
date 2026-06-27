@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "向阳乔木再抛开源画布工具：乔木画布 GitHub 公开"
 description: "**[又一个轻量级内容/设计工具进入开源赛道]**  - 向阳乔木持续输出开源资产，继 Skills 系列后又放出「乔木画布」GitHub 仓库 - 延续其「高频开源 + 可二次迭代」节奏，意图把画布类工具从专业软件降为可 fork 资产 - 与近期 dbskill、baoyu-skills 等同作者产出形成「工具矩阵」，个人 IP 资产化路径清晰   gakki 锐评：一个人的开源工具集开始具备"
 resource: "https://x.com/i/status/2067513565175845336"
@@ -22,13 +22,6 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "agent-lego-composable-toolchain"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2067513565175845336"
-created: "2026-06-18"
-updated: "2026-06-26"
-sha256: "831a3777bd9d2c56573523a4c13c5b795891a182d9571e6b283bf6dcd0a9a45d"
-sources:
-  - "/sources/news/2026-06-18/00__vista8__向阳乔木再抛开源画布工具-乔木画布-github-公开.md"
 ---
 
 # 向阳乔木再抛开源画布工具：乔木画布 GitHub 公开

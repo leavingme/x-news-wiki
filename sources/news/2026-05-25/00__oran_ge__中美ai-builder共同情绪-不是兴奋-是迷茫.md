@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "中美AI builder共同情绪：不是兴奋，是迷茫"
 description: "**[行业情绪信号：两岸开发者都在问\"该往哪走\"]**  一位中国AI builder指出，当前中美AI领域的主导情绪并非兴奋，而是\"我现在到底该做什么\"的集体困惑。  • 悲观与焦虑并非特定地区现象，而是AI能力爆发期的共有特征 • 技术迭代速度远超从业者的方向判断能力 • 这种集体迷茫可能正在反向塑造AI创业的决策质量  gakki：一句话——当最应该兴奋的人都在迷茫，说明这波AI浪潮的本质是"
 resource: "https://x.com/i/status/2058695642835460548"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2058695642835460548"
-created: "2026-05-24"
-updated: "2026-06-26"
-sha256: "71753f5dffc5fb529b3775e81c12416933ed143b1f537da0878c0cba61e4b400"
-sources:
-  - "/sources/news/2026-05-25/00__oran_ge__中美ai-builder共同情绪-不是兴奋-是迷茫.md"
 ---
 
 # 中美AI builder共同情绪：不是兴奋，是迷茫

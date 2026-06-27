@@ -1,23 +1,17 @@
 ---
-type: "entity"
+type: "Author"
 title: "CatFly (@imyouhu)"
 description: "X/Twitter 作者 @imyouhu。共收录 1 条 AI 精选推文。"
 tags:
   - "x-news"
   - "author"
   - "author:imyouhu"
-timestamp: "2026-06-26T11:53:36.970Z"
+timestamp: "2026-06-27T08:40:40.186Z"
 x_handle: "imyouhu"
 x_author_name: "CatFly"
 x_tweet_count: 1
 x_first_seen: "2026-04-01T05:14:52.285Z"
 x_last_seen: "2026-04-01T05:14:52.285Z"
-type_okf: "Author"
-created: "2026-04-01"
-updated: "2026-06-26"
-sha256: "8a61ee2d61157b46d4ccc16db08bf3c83bba264db22f3fdec00ea8e34db64fa9"
-sources:
-  - "/sources/highlights/2026-04-01/00__imyouhu__三行代码修复-3272-次无限重试-claude-code-泄露源码揭露-算力黑洞-根因.md"
 ---
 
 # CatFly (@imyouhu)

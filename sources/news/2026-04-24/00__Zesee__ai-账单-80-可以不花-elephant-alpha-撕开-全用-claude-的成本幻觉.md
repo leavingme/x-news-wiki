@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "AI 账单 80% 可以不花：Elephant Alpha 撕开「全用 Claude」的成本幻觉"
 description: "**多模型路由从「建议」变成「生存策略」**  - 小龙虾用户实测：换掉 80% 低价值 API 调用（格式转换、简单分类等），账单从 $200+ 降至 $40，降幅 80% - Elephant Alpha 定位明确：256K 上下文 + 低价，专门承接高频重复任务，让 Claude 只处理复杂推理 - 万字背景资料场景：Claude $0.12/次 vs Elephant Alpha $0.0"
 resource: "https://x.com/i/status/2047326864557912204"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2047326864557912204"
-created: "2026-04-23"
-updated: "2026-06-26"
-sha256: "60ed650ee93f5f81b4b888827021a38bb8bbdb3d0160ec5cfe9bc2b40e22eb66"
-sources:
-  - "/sources/news/2026-04-24/00__Zesee__ai-账单-80-可以不花-elephant-alpha-撕开-全用-claude-的成本幻觉.md"
 ---
 
 # AI 账单 80% 可以不花：Elephant Alpha 撕开「全用 Claude」的成本幻觉

@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "ColaOS 招聘 Agent 产品经理：没有 JD，能定义问题的人就是 JD"
 description: "**一句话核心判断** ColaOS（Orange AI）招聘 Agent OS 交互设计师和 Agent QA，岗位描述透露了一个信号：Agent 产品经理的核心能力不是写需求文档，而是「定义问题」——这个词正在替代「需求分析」成为 AI 时代产品角色的新内核。  **要点** - 交互设计师：几乎推翻一切既有 OS 范式，从零定义 Agent 系统的交互逻辑，属于超级蓝海 - Agent QA"
 resource: "https://x.com/i/status/2062306388467130798"
@@ -22,13 +22,6 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "agent-engineering-vs-product"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2062306388467130798"
-created: "2026-06-03"
-updated: "2026-06-26"
-sha256: "2d858e90f78c7ae40969b65a09eaac5488b4ebac5ab2d5f5a25651e316e63ac2"
-sources:
-  - "/sources/news/2026-06-04/00__oran_ge__colaos-招聘-agent-产品经理-没有-jd-能定义问题的人就是-jd.md"
 ---
 
 # ColaOS 招聘 Agent 产品经理：没有 JD，能定义问题的人就是 JD

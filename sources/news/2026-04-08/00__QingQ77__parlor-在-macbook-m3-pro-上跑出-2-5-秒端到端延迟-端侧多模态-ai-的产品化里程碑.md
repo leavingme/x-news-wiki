@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Parlor 在 MacBook M3 Pro 上跑出 2.5 秒端到端延迟：端侧多模态 AI 的产品化里程碑"
 description: "**一句话核心判断：Parlor 验证了 Gemma 4 + Kokoro TTS 本地推理的技术路径已经跨越「能用」的门槛——2.5-3 秒延迟、支持打断免按键、150MB 内存占用，这意味着隐私敏感的 AI 对话场景已经进入产品化阶段。**  - 技术栈：Gemma 4 E2B + Kokoro TTS，全程本地推理，零云端依赖 - 性能指标：M3 Pro 上 2.5-3 秒端到端延迟，Sil"
 resource: "https://x.com/i/status/2041730755186061403"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2041730755186061403"
-created: "2026-04-08"
-updated: "2026-06-26"
-sha256: "e301b6211f0abeca282a395bf26b9cd3fb7f58f85cec5eccfafbce8c0d3b7969"
-sources:
-  - "/sources/news/2026-04-08/00__QingQ77__parlor-在-macbook-m3-pro-上跑出-2-5-秒端到端延迟-端侧多模态-ai-的产品化里程碑.md"
 ---
 
 # Parlor 在 MacBook M3 Pro 上跑出 2.5 秒端到端延迟：端侧多模态 AI 的产品化里程碑

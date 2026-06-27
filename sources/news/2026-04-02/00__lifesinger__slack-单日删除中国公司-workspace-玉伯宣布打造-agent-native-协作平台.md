@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Slack 单日删除中国公司 Workspace：玉伯宣布打造 Agent-Native 协作平台"
 description: "**一句话核心判断：** Slack 单方面删除中国公司 Workspace 事件成为催化剂，YouMind 宣布将打造 agent-native 的 Slack 替代品，平台协作工具正式进入「AI 原生」替代周期。  事件本身揭示平台依赖风险：Workspace 删除毫无预警且无有效申诉通道，基于 SaaS 协作工具的信任模型极为脆弱。  玉伯的判断有产品直觉支撑：事件当天团队不用 Slack "
 resource: "https://x.com/i/status/2039703555427201483"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2039703555427201483"
-created: "2026-04-02"
-updated: "2026-06-26"
-sha256: "0dc58d1dc38e87f9ce0e28c8b18f8c7e929439bb7e93423b5e42034f3e07a212"
-sources:
-  - "/sources/news/2026-04-02/00__lifesinger__slack-单日删除中国公司-workspace-玉伯宣布打造-agent-native-协作平台.md"
 ---
 
 # Slack 单日删除中国公司 Workspace：玉伯宣布打造 Agent-Native 协作平台

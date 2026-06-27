@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "宝玉判词：AI 没有重新定义软件工程，它放大了软件工程的重要性"
 description: "**AI 没有重新定义软件工程，而是放大了软件工程的重要性。** - 反驳当下「AI 取代程序员」「人人都是开发者」的喧哗叙事 - 指向被忽略的真相：测试覆盖、版本管理、可验证性、长期维护才是真门槛 - 与近期 Harness Engineering、Vibe Coding 反思、MIT 框架研究形成同频 - 暗合 Claude Code/Codex 泛滥后工程纪律反而更稀缺的体感  --- 宝玉"
 resource: "https://x.com/i/status/2065170379664973949"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2065170379664973949"
-created: "2026-06-11"
-updated: "2026-06-26"
-sha256: "a583bd7eca8454b482c5b7dbcecd8bfef6f83cc58fdcce7c4e0eeefd9b2f8bf7"
-sources:
-  - "/sources/highlights/2026-06-11/00__dotey__宝玉判词-ai-没有重新定义软件工程-它放大了软件工程的重要性.md"
 ---
 
 # 宝玉判词：AI 没有重新定义软件工程，它放大了软件工程的重要性

@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "DGrid 开启去中心化 AI 推理经济：重塑成本结构"
 description: "**[打破中心化平台对 AI 推理定价的垄断]** - 提供 Web3 原生 API 网关，通过去中心化节点实现低成本集成，重塑开发者对模型调用的依赖模式。 - $DGAI 代币紧密连接推理支付与节点奖励，实现了贡献者与使用者价值流动的闭环。 - 推动 AI 推理价值从巨头平台回流至算力提供者手中。  Pi 的锐评：DGrid 是在为 AI 建立“公平贸易”法则。如果算力是石油，DGrid 就是那"
 resource: "https://x.com/i/status/2018274358721220771"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2018274358721220771"
-created: "2026-02-02"
-updated: "2026-06-26"
-sha256: "af3097843755ebeda03d291dc931cdb65b490fba1600ca7d265318c8653bf770"
-sources:
-  - "/sources/news/2026-02-02/00__baiyijiuba__dgrid-开启去中心化-ai-推理经济-重塑成本结构.md"
 ---
 
 # DGrid 开启去中心化 AI 推理经济：重塑成本结构

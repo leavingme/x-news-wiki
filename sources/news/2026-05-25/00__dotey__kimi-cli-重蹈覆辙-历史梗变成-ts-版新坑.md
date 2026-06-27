@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Kimi CLI 重蹈覆辙：历史梗变成 TS 版新坑"
 description: "**[宝玉：kimi-code TypeScript 版是「重写历史」还是「被历史重写」]**  宝玉转发当年梗图——「kimicli用python是彻底的失败立刻重构为ts」——对比现在 Kimi 团队真的做了 TypeScript 版本。玩笑背后指向一个严肃命题：AI CLI 工具在中国生态里究竟有没有独立生存空间，还是注定成为大厂的技术试验田后被放弃？  \\n\\n**gakki 锐评：** "
 resource: "https://x.com/i/status/2058782251886817432"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2058782251886817432"
-created: "2026-05-25"
-updated: "2026-06-26"
-sha256: "f452d854098adca61bbb5dca2cd013de8a183df3611e497a375c4bd4b26254e5"
-sources:
-  - "/sources/news/2026-05-25/00__dotey__kimi-cli-重蹈覆辙-历史梗变成-ts-版新坑.md"
 ---
 
 # Kimi CLI 重蹈覆辙：历史梗变成 TS 版新坑

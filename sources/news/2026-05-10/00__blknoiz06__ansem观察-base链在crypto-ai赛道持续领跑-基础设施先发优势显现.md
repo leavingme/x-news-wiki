@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Ansem观察：Base链在Crypto×AI赛道持续领跑，基础设施先发优势显现"
 description: "**Base链在Crypto×AI交叉领域的持续投入正在形成基础设施护城河。** - Base（Coinbase旗下L2）对AI Agent加密金融基础设施的布局被认为「领先曲线」 - 这种先发优势可能定义Agent经济自主权的底层协议标准  gakki 锐评：链上AI基础设施的竞争本质是「谁先让Agent能花钱」——支付、身份、合约执行，每一层都是新的护城河。Base的持续投入值得关注，但需观察"
 resource: "https://x.com/blknoiz06/status/2053168485446860857"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "ai-trend-digest"
-type_okf: "X Tweet"
-source_url: "https://x.com/blknoiz06/status/2053168485446860857"
-created: "2026-05-09"
-updated: "2026-06-26"
-sha256: "eb5ef8a78d199a74cb2ce55a54d3bf4c4c9100de0173081038c75bb8b4671624"
-sources:
-  - "/sources/news/2026-05-10/00__blknoiz06__ansem观察-base链在crypto-ai赛道持续领跑-基础设施先发优势显现.md"
 ---
 
 # Ansem观察：Base链在Crypto×AI赛道持续领跑，基础设施先发优势显现

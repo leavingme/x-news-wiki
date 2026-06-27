@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Crypto Agent的幻觉危机：$HEU用一份SKILL.md实现70%工具调用削减"
 description: "**[金融Agent可靠性突破]** 当前Crypto Agent存在致命缺陷：编造token地址、混淆跨链ticker、抓取过时指标。$HEU通过单一SKILL.md文件实现~70%工具调用削减、30-50%token成本降低，并支持x402微支付。  **信息增量：** • AI Agent在加密金融场景的错误率已达「灾难级」 • 结构化知识封装比通用工具调用更适合高频金融决策场景 • x40"
 resource: "https://x.com/i/status/2029994250948219112"
@@ -22,13 +22,6 @@ x_selected: 2
 x_priority: 85
 x_related_topic: "ai-crypto-agent-infra"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2029994250948219112"
-created: "2026-03-06"
-updated: "2026-06-26"
-sha256: "e274b20d39fa2db2975f306f8b4be6d73993a6513945d1359ec753ec8038d206"
-sources:
-  - "/sources/highlights/2026-03-12/85__Tradinator33__crypto-agent的幻觉危机-heu用一份skill-md实现70-工具调用削减.md"
 ---
 
 # Crypto Agent的幻觉危机：$HEU用一份SKILL.md实现70%工具调用削减

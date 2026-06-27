@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "字节豆包 Seed 2.1 Pro 测评：Agent 与 Coding 短板补齐，国产模型内容创作主力位易主"
 description: "**豆包 Seed 2.1 Pro 把 Agent 和 Coding 能力拉到能\"干活\"的水平线**  - 歸藏实测后判断\"不错\"：补齐 Agent 和 Coding 两大短板 - 多模态内容创作场景下，Seed 2.1 Pro 已能胜任专业工作流 - 歸藏表态：Seed 2.1 Pro 将成为其日后内容创作的主力模型 - 配合前一条短评「终于能胜任 Agent 工作」，信号高度一致  **gak"
 resource: "https://x.com/i/status/2069424221399519238"
@@ -22,13 +22,6 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "domestic-model-competition"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2069424221399519238"
-created: "2026-06-23"
-updated: "2026-06-26"
-sha256: "2280f0467ccfe4b8d8a89d3bbc8cc9be786788d77c8d2d8dbd8a2df4354b9379"
-sources:
-  - "/sources/highlights/2026-06-23/00__op7418__字节豆包-seed-2-1-pro-测评-agent-与-coding-短板补齐-国产模型内容创作主力位易主.md"
 ---
 
 # 字节豆包 Seed 2.1 Pro 测评：Agent 与 Coding 短板补齐，国产模型内容创作主力位易主

@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Anthropic 借道 SpaceX 拿下 xAI Colossus 全部算力：22万张 H100 入手，Claude Code 限额即日翻倍"
 description: "**[AI 算力格局的一次标志性重组——竞争对手的闲置产能正在成为行业公共基础设施。]**  • Anthropic 与 SpaceX 达成算力合作，实质获得 xAI Colossus 1（田纳西州孟菲斯，22万+张 NVIDIA GPU，300MW+）的全部算力 • Claude Code 5小时滚动限额翻倍（Pro/Max/Team/Enterprise），高峰降速机制取消，Opus API "
 resource: "https://x.com/i/status/2052074868191989984"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2052074868191989984"
-created: "2026-05-06"
-updated: "2026-06-26"
-sha256: "250d9924d39e12960945b0760edca4d9608d65965ab484715861c55e29a30211"
-sources:
-  - "/sources/highlights/2026-05-06/00__dotey__anthropic-借道-spacex-拿下-xai-colossus-全部算力-22万张-h100-入手-claude.md"
 ---
 
 # Anthropic 借道 SpaceX 拿下 xAI Colossus 全部算力：22万张 H100 入手，Claude Code 限额即日翻倍

@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "GitHub Copilot 砍掉 Pro 档 Opus：API 订阅分层正式进入「穷人降配」时代"
 description: "**[ GitHub Copilot 套餐悬崖：付费墙从四面八方收紧 ]**  GitHub 这次调整传递了一个清晰信号：大模型 API 的低价获客窗口正在关闭。暂停新订阅 + 砍掉 Pro 档 Opus，等于在说「免费版引流、Pro 版走量、Pro+ 才是亲儿子」的三级火箭已成体系。  关键影响：对中小开发者而言，Claude Opus 在 Copilot Pro 里已成历史，必须加钱上 Pro"
 resource: "https://x.com/i/status/2046410238627070420"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2046410238627070420"
-created: "2026-04-21"
-updated: "2026-06-26"
-sha256: "581fdeba25fb67ff47ddcd328d809a109037446ee7b41613263eebf679ef064e"
-sources:
-  - "/sources/highlights/2026-04-21/00__dotey__github-copilot-砍掉-pro-档-opus-api-订阅分层正式进入-穷人降配-时代.md"
 ---
 
 # GitHub Copilot 砍掉 Pro 档 Opus：API 订阅分层正式进入「穷人降配」时代

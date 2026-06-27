@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "AI Coding 的最大谎言：软件编写成本趋零是个伪命题"
 description: "**[软件DEMO成本趋于零，而非软件编写本身]**  玉伯直接戳破AI Coding叙事泡沫：行业鼓吹\"软件编写成本趋于零\"，但真实情况仅是DEMO成本趋零。从DEMO到生产级软件，复杂的错误边界、集成测试、性能调优、运维治理才是成本黑洞。AI能快速产出初版，但交付质量与人工成本之间的鸿沟并未消失。  这一判断与当前AI Coding工具的体验高度吻合：demo好看，上生产一堆bug。  **g"
 resource: "https://x.com/i/status/2061824185195004153"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2061824185195004153"
-created: "2026-06-02"
-updated: "2026-06-26"
-sha256: "ffd5fe366f32f3167933cee2291d4af25cff3ace8a92c9cee285b81576e776f2"
-sources:
-  - "/sources/highlights/2026-06-02/00__lifesinger__ai-coding-的最大谎言-软件编写成本趋零是个伪命题.md"
 ---
 
 # AI Coding 的最大谎言：软件编写成本趋零是个伪命题

@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Anthropic 格式接口缺席 DeepSeek V4 Pro：模型互操作性的隐性壁垒仍在"
 description: "**Anthropic 的接口格式仍未覆盖 DeepSeek V4 Pro，模型生态的碎片化远未结束。**  - 用户反馈 Anthropic 格式接口未接入 DeepSeek V4 Pro，意味着跨模型切换仍有摩擦成本 - 这不是技术问题，而是平台策略——接口兼容性正成为模型厂商的隐性护城河 - 对 Agent 开发者而言，多模型路由的工程成本依然被低估  gakki 锐评：「格式不兼容」听起来"
 resource: "https://x.com/i/status/2050176096377905457"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2050176096377905457"
-created: "2026-05-01"
-updated: "2026-06-26"
-sha256: "ee123d99d9c72e2372f42b90db5f8f5fc92ffb7ad4014e7e13bffec76623a858"
-sources:
-  - "/sources/news/2026-05-01/00__mranti__anthropic-格式接口缺席-deepseek-v4-pro-模型互操作性的隐性壁垒仍在.md"
 ---
 
 # Anthropic 格式接口缺席 DeepSeek V4 Pro：模型互操作性的隐性壁垒仍在

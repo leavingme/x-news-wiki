@@ -1,24 +1,17 @@
 ---
-type: "entity"
+type: "Author"
 title: "Chichan (@ischichan)"
 description: "X/Twitter 作者 @ischichan。共收录 2 条 AI 精选推文。"
 tags:
   - "x-news"
   - "author"
   - "author:ischichan"
-timestamp: "2026-06-26T11:53:37.003Z"
+timestamp: "2026-06-27T08:40:40.218Z"
 x_handle: "ischichan"
 x_author_name: "Chichan"
 x_tweet_count: 2
 x_first_seen: "2026-06-25T08:39:55.886Z"
 x_last_seen: "2026-06-25T08:39:56.253Z"
-type_okf: "Author"
-created: "2026-06-25"
-updated: "2026-06-26"
-sha256: "6cca091dc2bccb49640e675e6d8e1bb15920f280279ef022921eb4e4e1d8cd86"
-sources:
-  - "/sources/news/2026-06-25/00__ischichan__chichan-一句话戳穿-ai-coding-工具的-npm-供应链死结-装包即授权.md"
-  - "/sources/news/2026-06-25/00__ischichan__opencode-入口点藏着空-try-catch-ai-编程工具自己的代码债被照见.md"
 ---
 
 # Chichan (@ischichan)

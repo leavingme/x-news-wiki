@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Kimi K2.7 高速版对决 Opus 4.8：复刻 Fable 5 速度差 3 倍，质量几乎追平"
 description: "**[国产推理模型在长程 Vibe Coding 任务上首次跑出 3 倍速差，Kimi 用「时间」给 Anthropic 旗舰上了一课]**  - 刘小排用 Fable 5「墨流」Demo 做参考任务：Opus 4.8 用 32 分钟，Kimi K2.7 High Speed 仅 11 分钟，质量「略逊」 - 这是国产模型在多文件、长程代码复刻任务上首次公开硬数据——速度优势 3 倍可量化，质量差"
 resource: "https://x.com/i/status/2066436537085276284"
@@ -22,13 +22,6 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "domestic-model-benchmark-performance"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2066436537085276284"
-created: "2026-06-15"
-updated: "2026-06-26"
-sha256: "c8923c8406c015f7fc73800aefaa0f3a12912719397ec2dd328c7309a4b889a8"
-sources:
-  - "/sources/highlights/2026-06-15/00__bourneliu66__kimi-k2-7-高速版对决-opus-4-8-复刻-fable-5-速度差-3-倍-质量几乎追平.md"
 ---
 
 # Kimi K2.7 高速版对决 Opus 4.8：复刻 Fable 5 速度差 3 倍，质量几乎追平

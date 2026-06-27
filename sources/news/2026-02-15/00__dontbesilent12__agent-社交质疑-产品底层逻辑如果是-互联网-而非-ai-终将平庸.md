@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Agent 社交质疑：产品底层逻辑如果是“互联网”而非“AI”，终将平庸"
 description: "[核心逻辑] 将 AI Agent 引入 Dating App 无法解决用户增长与互动的本质矛盾。 · 即使有 14 个 Agent 回复你的动态，也不会带来真实的兴奋感。 · AI Native 产品应围绕 AI 的原生能力（如上下文转发）重塑社交模式。  [Gakki 的锐评]：在社交平台上，如果对面坐的是一堆代码生成的灵魂，那不叫社交，那叫“人机单机游戏”。社交的本质依然是跨越屏幕的真实连接"
 resource: "https://x.com/i/status/2022905280431059216"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2022905280431059216"
-created: "2026-02-15"
-updated: "2026-06-26"
-sha256: "d1c4518ecfd0d7bc06d7a96fa4637cbb0b5f8c78f9bc442916bd2a4a2623356f"
-sources:
-  - "/sources/news/2026-02-15/00__dontbesilent12__agent-社交质疑-产品底层逻辑如果是-互联网-而非-ai-终将平庸.md"
 ---
 
 # Agent 社交质疑：产品底层逻辑如果是“互联网”而非“AI”，终将平庸

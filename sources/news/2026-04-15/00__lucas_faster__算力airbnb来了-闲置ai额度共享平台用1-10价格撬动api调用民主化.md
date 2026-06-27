@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "算力Airbnb来了：闲置AI额度共享平台用1/10价格撬动API调用民主化"
 description: "**「算力Airbnb」模式：把闲置API额度变成套利资产**  Derouter.net正在做一件事：让普通用户把未用完的GPT、Claude额度托管出来，其他人以官方价格1/10的成本调用。托管方获收益，使用方获低价，平台抽佣——这是一个经典的双边市场套利结构。  **三道机制试图解决「信任问题」**  这个模式的核心风险是「以次充好」——调用的是GPT-4但声称是GPT-4o。Deroute"
 resource: "https://x.com/i/status/2036780766806610182"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2036780766806610182"
-created: "2026-03-25"
-updated: "2026-06-26"
-sha256: "672d3b357f514d9424d4831ac68251a42eeff511282c9cc208e834563fc3fa9e"
-sources:
-  - "/sources/news/2026-04-15/00__lucas_faster__算力airbnb来了-闲置ai额度共享平台用1-10价格撬动api调用民主化.md"
 ---
 
 # 算力Airbnb来了：闲置AI额度共享平台用1/10价格撬动API调用民主化

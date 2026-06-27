@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "AI 超级周期下的“金属之王”：为什么是铜？"
 description: "**分析指出，未来十年的 AI 军备竞赛中，物理层面的基础导体——铜，将迎来不可逆的超级上涨周期。** - **三大刚需**：AI 数据中心的高密度布线、电网扩张的现代化需求、以及电动车对铜的 4 倍增量依赖。 - **供需错配**：2026 年全球需求将冲向 2800 万吨，但新矿山开发速度远落后于需求爆发的速度。  **Pi 的锐评**：所有的数字繁荣最终都要落地到物理导线。在这个语境下，铜就"
 resource: "https://x.com/i/status/2017516514836930612"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2017516514836930612"
-created: "2026-01-31"
-updated: "2026-06-26"
-sha256: "99912a100bc9f1d1159241c3b52ba3792fa0c5edeedcbfb10c19d7b321107e4e"
-sources:
-  - "/sources/news/2026-01-31/00__Unclestocknotes__ai-超级周期下的-金属之王-为什么是铜.md"
 ---
 
 # AI 超级周期下的“金属之王”：为什么是铜？

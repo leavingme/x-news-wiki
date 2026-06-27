@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Vibe Coding 学术化：化学博士 70 天手搓 10 万行 C# 的「文档宪法」方法论"
 description: "**Vibe Coding 的隐性前提被戳破：不是不写文档，是用不同粒度写。**  - 按人类「短期/工作/长期记忆」分层构建文档，将 AI 可读性纳入设计 - 「解释过两次就写下来」——重复解释是知识固化的信号 - 专家 Agent 作为「调试重启点」，卡顿时重建上下文比硬磕更高效  化学背景作者写分布式系统，这本身就是 Vibe Coding 的隐喻：领域边界正在消融，表达能力成为新硬通货。"
 resource: "https://x.com/i/status/2028384327797768211"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2028384327797768211"
-created: "2026-03-02"
-updated: "2026-06-26"
-sha256: "2d811f0f123b767e5c97bb81b9fd95fcb5fe298395019fc2646598eda668907b"
-sources:
-  - "/sources/highlights/2026-03-02/00__vista8__vibe-coding-学术化-化学博士-70-天手搓-10-万行-c-的-文档宪法-方法论.md"
 ---
 
 # Vibe Coding 学术化：化学博士 70 天手搓 10 万行 C# 的「文档宪法」方法论

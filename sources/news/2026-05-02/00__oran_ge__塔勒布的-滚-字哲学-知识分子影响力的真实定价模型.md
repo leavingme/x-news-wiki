@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "塔勒布的「滚」字哲学：知识分子影响力的真实定价模型"
 description: "**有人建议塔勒布不说脏话能\"提升影响力\"，他回了一个字：滚。**  这段轶事精准击中了一个AI时代的核心矛盾——当所有人都在用AI打磨\"得体表达\"时，真实的态度本身就是稀缺资产。塔勒布的影响力恰恰来自他的不妥协，而非任何\"优化\"。在AI能生成任何人设的今天，\"authenticity\"正在成为不可复制的竞争优势。  gakki说：这不只是段子。当AI把所有人都变成\"温和有礼\"的内容生产者，那些拒"
 resource: "https://x.com/i/status/2050503603081871428"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2050503603081871428"
-created: "2026-05-02"
-updated: "2026-06-26"
-sha256: "9752d7b6d464d7b7d4f009425fd91ac17e58ae16b3f9983c6f0c5bfdddc5849c"
-sources:
-  - "/sources/news/2026-05-02/00__oran_ge__塔勒布的-滚-字哲学-知识分子影响力的真实定价模型.md"
 ---
 
 # 塔勒布的「滚」字哲学：知识分子影响力的真实定价模型

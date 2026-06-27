@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Google Gemini 主管亲自下场写 Skills：「老工程师操作手册」正在成为 AI 编程的行业标准接口"
 description: "**Addy Osmani 把资深工程师的开发规范整理成标准化 Skills 库，让 AI 编程助手在每个环节都按统一高标准执行。**  - Google Gemini 团队主管将多年积累的工作流程编码为可复用的 Skills，本质上是把「隐性知识」显性化为 Agent 可消费的结构 - 这验证了一个趋势：Skills 不只是 OpenClaw/Hermes 的社区玩法，大厂工程团队也在用同样范式"
 resource: "https://x.com/i/status/2052230188830998865"
@@ -22,13 +22,6 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "skill-automation-engineering"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2052230188830998865"
-created: "2026-05-07"
-updated: "2026-06-26"
-sha256: "317278701de446022c30ae725a5123cf733b028aea665f40d9dfae652f758058"
-sources:
-  - "/sources/news/2026-05-07/00__lxfater__google-gemini-主管亲自下场写-skills-老工程师操作手册-正在成为-ai-编程的行业标准接口.md"
 ---
 
 # Google Gemini 主管亲自下场写 Skills：「老工程师操作手册」正在成为 AI 编程的行业标准接口

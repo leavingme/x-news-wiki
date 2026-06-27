@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Codex 远程控制上线：桌面 Agent 的移动化意味着什么"
 description: "**Codex 支持 ChatGPT 手机端远程操控桌面设备，工具到入口的身份正在模糊。**  核心信息增量：歸藏详细记录了 Codex 移动版绑定流程。关键点：Mac 桌面端可以被手机端随时唤醒、监控进度、发送指令审批。这意味着 AI 编程工具第一次真正脱离了「坐在电脑前」的物理约束。  值得关注的是：OpenAI 在封号上的克制与 Anthropic 形成鲜明对比，这直接影响开发者对平台的选择"
 resource: "https://x.com/i/status/2055104256978681980"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2055104256978681980"
-created: "2026-05-15"
-updated: "2026-06-26"
-sha256: "99416cd2d97de07d9def5f0993a38127186d6a6b8c4520dd5b94e7693cca755e"
-sources:
-  - "/sources/news/2026-05-15/00__op7418__codex-远程控制上线-桌面-agent-的移动化意味着什么.md"
 ---
 
 # Codex 远程控制上线：桌面 Agent 的移动化意味着什么

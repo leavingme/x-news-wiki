@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Gemma 4 开源协议与端侧能力双重炸弹：31B跻身Arena前三、手机即可运行的Agent门槛已崩塌"
 description: "**一句话核心判断：Google通过Apache 2.0协议和手机端运行能力，正在将开源AI竞争从「参数量的军备竞赛」推向「部署自由度的全面战争」。**  → 31B在Arena AI排名开源模型全球第3，超越20倍参数量的模型，Apache 2.0协议意味着商业使用完全自由 → 26B MoE版本将稀疏化推向移动端：手机、树莓派、Jetson Nano均可运行，近乎零延迟 → 256K上下文+原"
 resource: "https://x.com/i/status/2039776874545676373"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2039776874545676373"
-created: "2026-04-02"
-updated: "2026-06-26"
-sha256: "7aa91d67a7c4dda351344da3da453ff62620e7b86529a7cf2165d0086253b7c4"
-sources:
-  - "/sources/highlights/2026-04-02/00__GPTDAOCN__gemma-4-开源协议与端侧能力双重炸弹-31b跻身arena前三-手机即可运行的agent门槛已崩塌.md"
 ---
 
 # Gemma 4 开源协议与端侧能力双重炸弹：31B跻身Arena前三、手机即可运行的Agent门槛已崩塌

@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "AI已将「一人公司」工程可行性从PPT照进现实"
 description: "**[核心判断]** 一个人+AI工具链正在系统性替代10人团队，标志性意义在于这不再是创业叙事，而是可复制的工程路径。  - 产品环节：ChatGPT Pro+商业分析替代调研团队；开发环节：Codex/Claude Code+Computer Use替代工程团队；运维环节：CLI+连接器替代运维团队。闭环已打通。 - 最关键变量不是技术，是「被看见」——执行力被AI无限放大后，注意力稀缺成为唯"
 resource: "https://x.com/i/status/2058157746948890632"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2058157746948890632"
-created: "2026-05-23"
-updated: "2026-06-26"
-sha256: "2589d2a4ab76db114205bb7cec673b72e93c454bbf6bee7ec139f3a91367d940"
-sources:
-  - "/sources/news/2026-05-23/00__gkxspace__ai已将-一人公司-工程可行性从ppt照进现实.md"
 ---
 
 # AI已将「一人公司」工程可行性从PPT照进现实

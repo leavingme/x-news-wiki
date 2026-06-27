@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "深圳「养虾现场」：大厂Agent入口战争进入地面肉搏阶段"
 description: "**[Agent部署服务从「产品竞争」下沉为「地推战争」]** • 腾讯云20位工程师现场免费为用户安装OpenClaw，「卖铲子」模式提前卡位AI Agent入口 • 官方贴膜服务标志着Agent部署门槛已降至普通用户可无痛接入，「养虾焦虑」背后的服务市场被大厂收割 • 用户隐私数据安全成为免费服务背后的隐性成本  **gakki锐评：** 当安装服务成为标配，Agent的竞争已从「功能」转向「"
 resource: "https://x.com/i/status/2029819469842018782"
@@ -22,13 +22,6 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "agent-deployment-service"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2029819469842018782"
-created: "2026-03-06"
-updated: "2026-06-26"
-sha256: "0b37e479b4bb41ae47be412e65d165bd24af65eaaed411ad9dd8f7034de5c98f"
-sources:
-  - "/sources/highlights/2026-03-23/00__OdailyChina__深圳-养虾现场-大厂agent入口战争进入地面肉搏阶段.md"
 ---
 
 # 深圳「养虾现场」：大厂Agent入口战争进入地面肉搏阶段

@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "刘小排吐槽 AI 大 V 集体 vibe coding：独立开发者的清醒剂"
 description: "**[AI 大 V 们的 AI 工具推荐正在被一线开发者用「实验精神」重新审视]**  - 刘小排（向阳乔木）在开放麦公开吐槽「AI 大 V」，并批评 labnana 是 vibe coding 产物。 - 这反映了技术圈内部对 AI 工具营销泡沫的警觉正在上升。 - Orange AI 回应「一笑而过格局打开」，说明这类批评尚未形成路线对抗。  [gakki] vibe coding 的问题不是"
 resource: "https://x.com/i/status/2048528973379060195"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2048528973379060195"
-created: "2026-04-26"
-updated: "2026-06-26"
-sha256: "87885dae657052111d027b0e8ab9c1fa4ac5d478335935d083fb2332392dae44"
-sources:
-  - "/sources/news/2026-04-27/00__oran_ge__刘小排吐槽-ai-大-v-集体-vibe-coding-独立开发者的清醒剂.md"
 ---
 
 # 刘小排吐槽 AI 大 V 集体 vibe coding：独立开发者的清醒剂

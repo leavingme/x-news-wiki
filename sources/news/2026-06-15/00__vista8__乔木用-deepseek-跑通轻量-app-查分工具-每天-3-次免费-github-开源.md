@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "乔木用 Deepseek 跑通轻量 App 查分工具：每天 3 次免费，Github 开源"
 description: "**[乔木上线免费 App 查分工具：靠 Deepseek 便宜 Token 撑起\"小额+限量\"模式]** - 在线工具 + Github 开源，定位\"小而美\"轻量查询，每天限查 3 个 App - 乔木明确点出\"感谢 Deepseek，Token 相对便宜\"——模型成本是这个产品能免费跑通的前提 - 限量 + 免费是锚定预期的常见组合，Token 价格成为产品形态的边界条件   gakki 锐评"
 resource: "https://x.com/i/status/2066517273763094674"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2066517273763094674"
-created: "2026-06-15"
-updated: "2026-06-26"
-sha256: "eb18967080ee66fa3e4058f78b5823a1efc5600301f5e00afbbf6cd21798d897"
-sources:
-  - "/sources/news/2026-06-15/00__vista8__乔木用-deepseek-跑通轻量-app-查分工具-每天-3-次免费-github-开源.md"
 ---
 
 # 乔木用 Deepseek 跑通轻量 App 查分工具：每天 3 次免费，Github 开源

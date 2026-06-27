@@ -1,26 +1,17 @@
 ---
-type: "entity"
+type: "Author"
 title: "OpenAI Developers (@OpenAIDevs)"
 description: "X/Twitter 作者 @OpenAIDevs。共收录 4 条 AI 精选推文。"
 tags:
   - "x-news"
   - "author"
   - "author:OpenAIDevs"
-timestamp: "2026-06-26T11:53:36.988Z"
+timestamp: "2026-06-27T08:40:40.200Z"
 x_handle: "OpenAIDevs"
 x_author_name: "OpenAI Developers"
 x_tweet_count: 4
 x_first_seen: "2026-04-20T18:01:50.000Z"
 x_last_seen: "2026-05-01T19:17:45.852Z"
-type_okf: "Author"
-created: "2026-04-20"
-updated: "2026-06-26"
-sha256: "de674ae7a27fc155f4466b4c765030739b263a24378e8bc19e0068adc0ada8c3"
-sources:
-  - "/sources/highlights/2026-04-28/00__OpenAIDevs__symphony-将-linear-变成-永不眠的-agent-工厂-openai-内部-pr-产量提升-500.md"
-  - "/sources/news/2026-04-20/00__OpenAIDevs__openai-codex-记忆终于进化-chronspan-让-ai-边看屏幕边记上下文.md"
-  - "/sources/news/2026-04-28/00__OpenAIDevs__gpt-realtime-1-5-支持语音直接控制-app-状态-多模态交互从-说话-进化到-做事.md"
-  - "/sources/news/2026-05-01/00__OpenAIDevs__codex上线-宠物系统-当ai编码工具开始做留存-说明获客战已结束.md"
 ---
 
 # OpenAI Developers (@OpenAIDevs)

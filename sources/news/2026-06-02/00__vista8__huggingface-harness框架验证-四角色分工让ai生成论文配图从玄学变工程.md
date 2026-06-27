@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Huggingface Harness框架验证：四角色分工让AI生成论文配图从玄学变工程"
 description: "**论文图表AI生成的工程化时刻**  Huggingface这篇最热论文提出了一个四人协作框架：设计者D根据结构化规格文档S生成视觉方案，执行者E负责渲染，验证者V输出带问题定位的诊断报告，修订者R直接将诊断转化为对S的结构化修改。  关键价值：把AI生图的\"审美玄学\"变成了可追溯、可验证的闭环流程。向阳乔木基于此写了Skill，整合Codex调用GPT-image-2生图，并打通了URL抓取配"
 resource: "https://x.com/i/status/2061881016344772999"
@@ -22,13 +22,6 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "multi-agent-framework-ecosystem-comparison"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2061881016344772999"
-created: "2026-06-02"
-updated: "2026-06-26"
-sha256: "fa2f138ec1d2c3c68f16a777ec37f4e864879cffee45db2f135edbe79a01dc0d"
-sources:
-  - "/sources/news/2026-06-02/00__vista8__huggingface-harness框架验证-四角色分工让ai生成论文配图从玄学变工程.md"
 ---
 
 # Huggingface Harness框架验证：四角色分工让AI生成论文配图从玄学变工程

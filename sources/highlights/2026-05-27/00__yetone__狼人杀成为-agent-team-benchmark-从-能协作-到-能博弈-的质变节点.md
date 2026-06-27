@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "狼人杀成为 Agent Team benchmark：从「能协作」到「能博弈」的质变节点"
 description: "**Cumora cloud agents 推出无人干预的狼人杀 Agent 对局 benchmark，将 Agent 评测从协作任务推向策略博弈。**  - 狼人杀的核心是信息不对称下的欺骗与推理，这要求 Agent 同时具备：自我保护的多 Agent 通信、谎言识别、以及在不完全信息下的决策能力——远超当前「分工流水线」式的协作范式 - 这个 benchmark 的隐含假设是：真实的 mult"
 resource: "https://x.com/i/status/2059751448108507277"
@@ -22,13 +22,6 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "sub-agents-multi-expert"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2059751448108507277"
-created: "2026-05-27"
-updated: "2026-06-26"
-sha256: "094dfed163a9dd41b1ad2597400b5697ef27b2f0ba8a86ff8851c326a01a1f03"
-sources:
-  - "/sources/highlights/2026-05-27/00__yetone__狼人杀成为-agent-team-benchmark-从-能协作-到-能博弈-的质变节点.md"
 ---
 
 # 狼人杀成为 Agent Team benchmark：从「能协作」到「能博弈」的质变节点

@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "KOL 模型迁移轨迹穿越编码层：GLM Coding 拿下付费投票"
 description: "**Michael Anti 公开模型偏好进化路径，国产编码工具正式挤入 KOL 订阅清单。**  - 完整迁移链：Kimi → Qwen → DeepSeek → Kimi Coding → DeepSeek V4 → GLM Coding（今日购入 Pro 套餐） - 美国御三家（GPT/Claude/Gemini）仍作为底座并行使用 - 信号一：编码工具已成为独立的订阅决策层，不再是\"基座模"
 resource: "https://x.com/i/status/2069082256619278463"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2069082256619278463"
-created: "2026-06-22"
-updated: "2026-06-26"
-sha256: "1c67e3704cd3c1403116e6c530f27a361710f018698359de6189693283d3697f"
-sources:
-  - "/sources/news/2026-06-22/00__mranti__kol-模型迁移轨迹穿越编码层-glm-coding-拿下付费投票.md"
 ---
 
 # KOL 模型迁移轨迹穿越编码层：GLM Coding 拿下付费投票

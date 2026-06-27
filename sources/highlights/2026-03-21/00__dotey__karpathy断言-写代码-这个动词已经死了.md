@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Karpathy断言：「写代码」这个动词已经死了"
 description: "**[编程语义学正在发生根本位移]** • Andrej Karpathy提出核心判断：传统「写代码」概念已无法描述AI时代的人机协作模式 • 提示：暗示「Vibe Coding」正从边缘实践向主流范式跃迁，程序员身份认同面临重构 • 与同日Claude Code生态爆发形成共振：工具进化正在倒逼认知框架更新  **gakki锐评**：一句话的杀伤力胜过十篇长文。Karpathy不是在预测未来，而"
 resource: "https://x.com/i/status/2035141635713941927"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2035141635713941927"
-created: "2026-03-20"
-updated: "2026-06-26"
-sha256: "292caebd77a280d7e670def28e868ea9a1d1a097891524a88009cbf6852e0fc7"
-sources:
-  - "/sources/highlights/2026-03-21/00__dotey__karpathy断言-写代码-这个动词已经死了.md"
 ---
 
 # Karpathy断言：「写代码」这个动词已经死了

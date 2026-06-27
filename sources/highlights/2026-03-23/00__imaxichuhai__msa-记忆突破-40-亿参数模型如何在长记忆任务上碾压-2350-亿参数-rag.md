@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "MSA 记忆突破：40 亿参数模型如何在长记忆任务上碾压 2350 亿参数 RAG"
 description: "**[AI 记忆机制正在经历从「外挂检索」到「内生长记忆」的范式迁移]** • 记忆容量从 16K 扩展到 1 亿 token（6000 倍增长），准确率仅下降 9%，成本仅需 2 张 A800 • 40 亿参数小模型击败 2350 亿参数 RAG 系统，证明「记忆架构」比「模型规模」更能决定长程任务表现 • 独立可插拔设计意味着任何模型都能「外挂」这套记忆系统，RAG 赛道面临底层逻辑被颠覆的风"
 resource: "https://x.com/i/status/2035892318461710398"
@@ -22,13 +22,6 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "agent-memory-optimization"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2035892318461710398"
-created: "2026-03-23"
-updated: "2026-06-26"
-sha256: "4ac946e2fc8f2efa0441dd53567cd6d592f417fd3a512d0753615e3dc7045d8a"
-sources:
-  - "/sources/highlights/2026-03-23/00__imaxichuhai__msa-记忆突破-40-亿参数模型如何在长记忆任务上碾压-2350-亿参数-rag.md"
 ---
 
 # MSA 记忆突破：40 亿参数模型如何在长记忆任务上碾压 2350 亿参数 RAG

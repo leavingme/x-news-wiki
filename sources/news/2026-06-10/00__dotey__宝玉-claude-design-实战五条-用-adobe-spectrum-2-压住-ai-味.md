@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "宝玉 Claude Design 实战五条:用 Adobe Spectrum 2 压住 AI 味"
 description: "**头部用户日用化背书:宝玉给出 Claude Design 五条工程化经验,核心是用 Design System 切断\"AI 味\"。**  关键技巧:① 加载 Adobe Spectrum 2 等设计系统为默认,让 AI 模仿成熟系统;② 不求一步到位,先搭架子再迭代;③ 善用 Markup 框选局部评论;④ 左侧对话有上下文上限,新任务开新会话;⑤ Tweaks 面板快速切换 theme/导航"
 resource: "https://x.com/i/status/2064601571397185639"
@@ -22,13 +22,6 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "claude-design-disruption"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2064601571397185639"
-created: "2026-06-10"
-updated: "2026-06-26"
-sha256: "41c6a51fe088d71a9337f8531256e2ef5e139f6be6b18c3b2a248f0f6e3e1dd3"
-sources:
-  - "/sources/news/2026-06-10/00__dotey__宝玉-claude-design-实战五条-用-adobe-spectrum-2-压住-ai-味.md"
 ---
 
 # 宝玉 Claude Design 实战五条:用 Adobe Spectrum 2 压住 AI 味

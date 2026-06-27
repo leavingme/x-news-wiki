@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "SpaceX 的星际算力野心：申请发射 100 万颗 AI 卫星"
 description: "**[太空数据中心与 150GW 太空光伏的新万亿市场]** - SpaceX 计划建立太空数据中心，利用 150GW 的太空光伏电力解决地球资源束缚。 - 太空光伏项目更看重可靠性而非成本，门槛极高，中国顶级设备厂已收到审厂邀请。 - 此举旨在重塑全球数据处理与传输层，将算力推向近地轨道。  Pi 的锐评：马斯克正试图把“云”字变成字面意思。当地面无法承载 AI 的胃口，星辰大海就是唯一的排插。"
 resource: "https://x.com/i/status/2017994932133519444"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2017994932133519444"
-created: "2026-02-01"
-updated: "2026-06-26"
-sha256: "a1a4b8d2bd38ec13a1bc39b9adff807af1d1f07f1f10d3b4b500682aba0e9592"
-sources:
-  - "/sources/news/2026-02-01/00__twikejin__spacex-的星际算力野心-申请发射-100-万颗-ai-卫星.md"
 ---
 
 # SpaceX 的星际算力野心：申请发射 100 万颗 AI 卫星

@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Codex 三种电脑操控方式官方揭秘：Computer Use 慢但万能，Mac 体验碾压 Windows"
 description: "**Codex Team Jason 亲笔指南：Computer Use、Chrome 扩展、CLI/API 三种操控模式的取舍之道已系统化披露**  Computer Use 像人一样看屏操作，最广最慢，但能搞定无 API 的任意图形应用；Mac 后台静默运行 vs Windows 强制占前台的体验鸿沟是关键决策点。 实战案例极端亮眼：宝玉快递被偷场景下，Codex 5 分钟轮询聊天窗口 + 客"
 resource: "https://x.com/i/status/2067033481142509588"
@@ -22,13 +22,6 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "codex-cli-tool-encapsulation"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2067033481142509588"
-created: "2026-06-16"
-updated: "2026-06-26"
-sha256: "37e14d2c4a44ee814a8aa21303aefdf1c35664acc498e632f355e9d48c4c0bd0"
-sources:
-  - "/sources/highlights/2026-06-17/00__dotey__codex-三种电脑操控方式官方揭秘-computer-use-慢但万能-mac-体验碾压-windows.md"
 ---
 
 # Codex 三种电脑操控方式官方揭秘：Computer Use 慢但万能，Mac 体验碾压 Windows

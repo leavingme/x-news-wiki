@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Codex GPT-5.5 在 Mac 开发场景输给 Opus 4.8：模型垂直场景能力差距正在拉大"
 description: "**[一句话核心判断]**  宝玉实测发现 Codex 内置的 GPT-5.5 在 Mac 应用开发任务上不如 Claude Opus 4.8，指向模型在垂直领域的能力分化正在加剧，而非普遍性的 GPT 全面落后。  **信息增量：** - 同样是「Codex」产品，换用不同底层模型，实际输出质量差异显著 - Mac 开发属于「需要精确执行、调试、跨文件推理」的场景，Opus 的结构化推理优势更明"
 resource: "https://x.com/i/status/2062410298695234046"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2062410298695234046"
-created: "2026-06-04"
-updated: "2026-06-26"
-sha256: "1470b7e124a224325e22b65f8ad62782def7aed231974134587b75d207f338cb"
-sources:
-  - "/sources/highlights/2026-06-04/00__dotey__codex-gpt-5-5-在-mac-开发场景输给-opus-4-8-模型垂直场景能力差距正在拉大.md"
 ---
 
 # Codex GPT-5.5 在 Mac 开发场景输给 Opus 4.8：模型垂直场景能力差距正在拉大

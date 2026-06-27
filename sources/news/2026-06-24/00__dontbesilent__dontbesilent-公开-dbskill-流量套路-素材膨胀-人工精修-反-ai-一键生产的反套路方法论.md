@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "dontbesilent 公开 dbskill 流量套路：素材膨胀 + 人工精修，反 AI 一键生产的反套路方法论"
 description: "**dbskill 作者 dontbesilent 首次系统公开自己的流量生产链路：本地囤积→选题匹配→/dbs-chatroom 素材膨胀→人工写稿，刻意拒绝 AI 一键成稿。**  要点： - 核心论点是'AI 写完全稿=对文字缺乏审美'=刻意练习不够，这是在流量焦虑中的反向判断 - 方法论关键：第一步只确定选题不看他人内容，避免被既有表达框架污染 - 长期隐患是观众会觉得'换汤不换药'，需要"
 resource: "https://x.com/i/status/2051686836314030339"
@@ -22,13 +22,6 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "dbskill-formula-marketplace"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2051686836314030339"
-created: "2026-05-05"
-updated: "2026-06-26"
-sha256: "b4d874de4ba058240441eef80c9ad4b3fb9545eaf896b3f612d6861c7ffafa8e"
-sources:
-  - "/sources/news/2026-06-24/00__dontbesilent__dontbesilent-公开-dbskill-流量套路-素材膨胀-人工精修-反-ai-一键生产的反套路方法论.md"
 ---
 
 # dontbesilent 公开 dbskill 流量套路：素材膨胀 + 人工精修，反 AI 一键生产的反套路方法论

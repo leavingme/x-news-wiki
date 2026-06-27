@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "宝玉详述异步 Bot 上下文机制：群消息检索与异步回复的实现逻辑"
 description: "**[异步 Bot 的技术实现细节]**  宝玉澄清了该 Bot 的运作机制：并非自动回复，而是群总结时检索 @bot 历史消息，结合当前聊天记录作为上下文异步回复。  这个设计区别至关重要——\"异步总结\"与\"实时自动回复\"是完全不同的产品定位，前者是信息压缩工具，后者是交互代理。技术边界清晰度直接影响用户预期管理。"
 resource: "https://x.com/i/status/2060581935483699233"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2060581935483699233"
-created: "2026-05-30"
-updated: "2026-06-26"
-sha256: "ff6ccfef827e4e87a12c52b27a6fc0f25939df565f27ebda8d32248722bc01dd"
-sources:
-  - "/sources/news/2026-05-30/00__dotey__宝玉详述异步-bot-上下文机制-群消息检索与异步回复的实现逻辑.md"
 ---
 
 # 宝玉详述异步 Bot 上下文机制：群消息检索与异步回复的实现逻辑

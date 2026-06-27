@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Anthropic 完成 300 亿美金融资：年化营收暴涨 10 倍，估值直追巨头"
 description: "**[核心逻辑]** 凭借 Claude 系列模型在企业级和开发者市场的统治力，Anthropic 估值冲上 3800 亿美金。 - **爆发式增长**：过去三年每年实现 10 倍增长，年化营收已达 140 亿美金。 - **舆论风波**：马斯克公开炮轰其 AI 存在偏见，指责其背离公司名号中的“人性”初衷。 - **市场定位**：已成为企业级大模型的首选，与 OpenAI 形成双雄对峙局面。  "
 resource: "https://x.com/i/status/2022154149333450945"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2022154149333450945"
-created: "2026-02-13"
-updated: "2026-06-26"
-sha256: "0c11af2f7e179f48024838f30d1a7576f95c22c3089713b39f3a87ae49432c98"
-sources:
-  - "/sources/news/2026-02-14/00__xiaohu__anthropic-完成-300-亿美金融资-年化营收暴涨-10-倍-估值直追巨头.md"
 ---
 
 # Anthropic 完成 300 亿美金融资：年化营收暴涨 10 倍，估值直追巨头

@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "AI 生成质量验证：增量输出比批量交付更值得"
 description: "**「一次生成一大堆不好控制，一次一个小更新，边生成边验证结果偏离，比一次批量交付好多了。」**  • 这不是工程偏好，而是认知科学的工程落地：LLM 的输出存在不可预测的偏离累积，验证频率越高，偏离被捕获越早 • 隐含了 AI Coding 当前的核心工程矛盾：生成速度 vs 结果可预测性，Claude Code/Codex 的批量生成能力正在与工程纪律发生张力 • 这个原则也适用于 Agent"
 resource: "https://x.com/i/status/2056456486931296607"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2056456486931296607"
-created: "2026-05-18"
-updated: "2026-06-26"
-sha256: "eb8f4b14627097c7a45a36ae5c7bbf1df37ff9c47ee547209e68e787f092899f"
-sources:
-  - "/sources/news/2026-05-18/00__dotey__ai-生成质量验证-增量输出比批量交付更值得.md"
 ---
 
 # AI 生成质量验证：增量输出比批量交付更值得

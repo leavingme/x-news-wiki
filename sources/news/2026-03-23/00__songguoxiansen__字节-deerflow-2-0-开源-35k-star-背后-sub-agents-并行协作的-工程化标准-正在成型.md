@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "字节 DeerFlow 2.0 开源：35K Star 背后，Sub-agents 并行协作的「工程化标准」正在成型"
 description: "**[字节正在将「多 Agent 协作」从概念验证推进到可复用的基础设施层]** • Sub-agents 并行协作 + 沙箱执行 + 持久记忆 + 可扩展 Skills 系统，四件套组合定义了新一代 Agent 框架的「最小可用形态\" • GitHub Trending 第1名的关注度，说明社区对「真正能干活而非仅能聊天」的 Agent 基础设施需求强烈 • 字节开源策略持续加码，国内大厂在 A"
 resource: "https://x.com/i/status/2035988332069654544"
@@ -22,13 +22,6 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "agent-swarm-orchestration"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2035988332069654544"
-created: "2026-03-23"
-updated: "2026-06-26"
-sha256: "bb80cede630d4224fa2928860b73e1bcf36cb33314084d469f2578f83ab1310b"
-sources:
-  - "/sources/news/2026-03-23/00__songguoxiansen__字节-deerflow-2-0-开源-35k-star-背后-sub-agents-并行协作的-工程化标准-正在成型.md"
 ---
 
 # 字节 DeerFlow 2.0 开源：35K Star 背后，Sub-agents 并行协作的「工程化标准」正在成型

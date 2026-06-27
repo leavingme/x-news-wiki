@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Michael Anti 拆解「Pivot to Asia」：政策命名背后的去中国化叙事陷阱"
 description: "**[地缘政策分析师 Michael Anti 指出 Pivot to Asia 是「去中国化亚太政策」而非「对华政策核心」，这一区分对中国 AI 出海战略有直接影响]**  核心判断：Pivot to Asia 的本质是 Without-China and De-China Asia Policy，目标是重塑亚太国家间关系，而非直接围堵中国。这意味着中国 AI 公司在亚太市场的地缘风险被高估了。"
 resource: "https://x.com/i/status/2056272187334807864"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2056272187334807864"
-created: "2026-05-18"
-updated: "2026-06-26"
-sha256: "5269bddf1966bd3d43d69f3f873ebf0f72a7aa7a76fcaa02c16b558aea3ebcf7"
-sources:
-  - "/sources/news/2026-05-18/00__mranti__michael-anti-拆解-pivot-to-asia-政策命名背后的去中国化叙事陷阱.md"
 ---
 
 # Michael Anti 拆解「Pivot to Asia」：政策命名背后的去中国化叙事陷阱

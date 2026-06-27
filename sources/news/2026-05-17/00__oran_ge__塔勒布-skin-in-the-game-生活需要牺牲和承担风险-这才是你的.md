@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "塔勒布《Skin in the Game》：生活需要牺牲和承担风险，这才是你的"
 description: "**[生活需要付出牺牲和承担风险。承担了风险，并做出了牺牲，那才是你的生活。]**  塔勒布这句话指向一个核心悖论：在 AI 时代，人们倾向于把决策外包给算法，自己规避了风险却仍享受收益。Skin in the Game 是检验真实投入的唯一标准——无论是创业、投资还是构建 AI Agent，嘴上说相信和真正把自己的时间/金钱/声誉放上去，之间隔着一道鸿沟。  **gakki 锐评：** 当所有人"
 resource: "https://x.com/i/status/2055819474159436285"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2055819474159436285"
-created: "2026-05-17"
-updated: "2026-06-26"
-sha256: "d13bddb46770b1f1c9c465155c748365ff689cd5b8847006e8dc06ca81ff6b81"
-sources:
-  - "/sources/news/2026-05-17/00__oran_ge__塔勒布-skin-in-the-game-生活需要牺牲和承担风险-这才是你的.md"
 ---
 
 # 塔勒布《Skin in the Game》：生活需要牺牲和承担风险，这才是你的

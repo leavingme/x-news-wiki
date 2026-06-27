@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "宝玉公开Claude Code /goal两种高阶工作流：分批Commit是Agent工程化的最小单位"
 description: "**【一句话核心判断】**  宝玉的/goal用法揭示了一个核心事实——Agent工程化的最小单位不是工具，是Commit节奏。  **关键要点：** - Checklist驱动：用JSON文件记录任务进度，Agent分批处理，每批处理完更新文件 - 设计文档分阶段：与AI共创详细设计，划分Phases，设定每个Phase的验收条件，逐阶段执行，每Turn自行commit - 这本质上是把Agen"
 resource: "https://x.com/i/status/2061260768729809096"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2061260768729809096"
-created: "2026-06-01"
-updated: "2026-06-26"
-sha256: "3ac383c4b389949f06fffe0b224bb8c335c65e09e8d20e439f71bffd8d178ca1"
-sources:
-  - "/sources/news/2026-06-01/00__dotey__宝玉公开claude-code-goal两种高阶工作流-分批commit是agent工程化的最小单位.md"
 ---
 
 # 宝玉公开Claude Code /goal两种高阶工作流：分批Commit是Agent工程化的最小单位

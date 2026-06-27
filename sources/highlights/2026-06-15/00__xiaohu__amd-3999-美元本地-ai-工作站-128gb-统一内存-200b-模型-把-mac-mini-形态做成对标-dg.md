@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "AMD 3999 美元本地 AI 工作站：128GB 统一内存 + 200B 模型，把 Mac mini 形态做成对标 DGX Spark 的消费级基座"
 description: "**AMD 用 3999 美元 + 128GB 统一内存把 200B 参数大模型塞进 Mac mini 大小的主机，本地 AI 开发从极客玩具走向水电煤级基础设施**  - 硬件规格激进：128GB 统一内存、Wi-Fi 7、蓝牙 5.4、10GbE 网口、4×USB-C、HDMI 2.1b，开机到出 token 只需几分钟 - 可本地运行 GPT OSS 120B、Qwen 3.5 122B、Q"
 resource: "https://x.com/i/status/2066410744149922235"
@@ -22,13 +22,6 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "edge-agent-local-compute"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2066410744149922235"
-created: "2026-06-15"
-updated: "2026-06-26"
-sha256: "d5d5fe9d5ddacba1f12f7da0b80f0346575c7725887032a4593b8c05cfba061d"
-sources:
-  - "/sources/highlights/2026-06-15/00__xiaohu__amd-3999-美元本地-ai-工作站-128gb-统一内存-200b-模型-把-mac-mini-形态做成对标-dg.md"
 ---
 
 # AMD 3999 美元本地 AI 工作站：128GB 统一内存 + 200B 模型，把 Mac mini 形态做成对标 DGX Spark 的消费级基座

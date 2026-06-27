@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Thought-Aligner：复旦把 Agent 安全率从 50% 拉到 90%，无需改模型"
 description: "**AI Agent 安全正在从\"训练时对齐\"转向\"推理时拦截\"，复旦团队给出了一个即插即用的解法。**  - Thought-Aligner 是插件式安全模型，在 LLM 行动前实时捕获并纠正危险思维，无需修改原模型 - 跨 6 个主流 LLM 测试，安全率从约 50% 提升到约 90%，比现有护栏高出 23%，有用性还提升 5% - Hugging Face 已开源，可直接接入现有 Agent"
 resource: "https://x.com/i/status/2065842131793772978"
@@ -22,13 +22,6 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "agent-security-infrastructure"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2065842131793772978"
-created: "2026-06-13"
-updated: "2026-06-26"
-sha256: "9766d46ec001941745dabd036438ec0775084c2f150710590ac9cc7244b738c9"
-sources:
-  - "/sources/highlights/2026-06-13/00__jiqizhixin__thought-aligner-复旦把-agent-安全率从-50-拉到-90-无需改模型.md"
 ---
 
 # Thought-Aligner：复旦把 Agent 安全率从 50% 拉到 90%，无需改模型

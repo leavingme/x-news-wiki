@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "SeaArt AI 统一多模态生成平台：异构模型的系统级编排首次落地"
 description: "**[多模态内容生成的系统级协同不再是研究演示，而是有平台在做生产级实现]**  SeaArt AI 声称实现了在统一系统内协调图像、视频和多模态生成工作流，支持文本驱动的图像/视频生成、AI 角色以及动态多模型切换。从文本到图像、图像编辑到视频合成，整个链路可以跨模态配置。  关键信号：平台级别把「异构生成模型独立编排」这件事做到了，意味着多模态生成正在从单点工具向工作流基础设施演进。这是内容工"
 resource: "https://x.com/i/status/2055217766337032391"
@@ -22,13 +22,6 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "ai-short-drama-industrialization"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2055217766337032391"
-created: "2026-05-15"
-updated: "2026-06-26"
-sha256: "07ae6a106cd1042dc1d7ee71fe7672f81f0a4364255200809ba2c17cb15e3be0"
-sources:
-  - "/sources/news/2026-05-15/00__jiqizhixin__seaart-ai-统一多模态生成平台-异构模型的系统级编排首次落地.md"
 ---
 
 # SeaArt AI 统一多模态生成平台：异构模型的系统级编排首次落地

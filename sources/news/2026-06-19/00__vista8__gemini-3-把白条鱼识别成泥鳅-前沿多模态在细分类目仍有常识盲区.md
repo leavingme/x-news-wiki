@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Gemini 3 把白条鱼识别成泥鳅：前沿多模态在细分类目仍有常识盲区"
 description: "**识别错了鱼的种类事小，暴露的是垂直长尾场景下多模态模型的常识盲区。**  - 实测场景：向阳乔木上传鱼照片用于钓鱼记录 App - Gemini 3 将白条鱼（小型淡水鱼）识别为完全不同的物种 - 提示即便是 SOTA 多模态模型，在垂直长尾类目上仍受训练分布限制   gakki 锐评：这种错误对普通用户是笑话，对 Agent 落地的开发者是事故。一旦模型在垂直场景给出「自信的错误」判断，整个"
 resource: "https://x.com/i/status/2068011149388574734"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2068011149388574734"
-created: "2026-06-19"
-updated: "2026-06-26"
-sha256: "ca023856f3a0e80c9dc8b86d2155b67dfc90eac090100c0dced345c272c4968f"
-sources:
-  - "/sources/news/2026-06-19/00__vista8__gemini-3-把白条鱼识别成泥鳅-前沿多模态在细分类目仍有常识盲区.md"
 ---
 
 # Gemini 3 把白条鱼识别成泥鳅：前沿多模态在细分类目仍有常识盲区

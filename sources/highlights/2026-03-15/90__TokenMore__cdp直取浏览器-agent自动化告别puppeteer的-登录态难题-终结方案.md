@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "CDP直取浏览器：Agent自动化告别Puppeteer的「登录态难题」终结方案"
 description: "**[浏览器自动化进入「原生接管」时代]** • 无需扩展、无需新开浏览器，直接通过Chrome DevTools Protocol复用用户当前标签页，带全量Cookie与登录态 • 100+标签页稳定运行，daemon自动回收，零npm依赖，兼容Claude Code/Cursor/Amp等主流Agent • 价值：解决了Agent浏览器操作最大痛点——身份状态隔离导致的重复登录与人工介入  *"
 resource: "https://x.com/i/status/2032806514692599813"
@@ -22,13 +22,6 @@ x_selected: 2
 x_priority: 90
 x_related_topic: "agent-browser-token-efficiency"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2032806514692599813"
-created: "2026-03-14"
-updated: "2026-06-26"
-sha256: "9ebe3950e9b0fdcd19adf99629366a4141a8b67d882be0149017be89c0055c87"
-sources:
-  - "/sources/highlights/2026-03-15/90__TokenMore__cdp直取浏览器-agent自动化告别puppeteer的-登录态难题-终结方案.md"
 ---
 
 # CDP直取浏览器：Agent自动化告别Puppeteer的「登录态难题」终结方案

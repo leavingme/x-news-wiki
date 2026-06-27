@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "微软把 OpenClaw 变成了 Windows 的「官方 Agent」——企业安全栈全套接入，上游开源项目获企业级能力"
 description: "**[微软选择务实路线：不在上游重建，而是在上游之上叠加企业层]**  微软没有自研 Agent 框架，而是直接基于 OpenClaw 仓库构建 Scout，并通过 MXC 安全容器技术让 OpenClaw 原生运行在 Windows 上。关键在于：Defender、Entra、Intune 这套企业安全栈全套接入，解决了 OpenClaw 最大的企业落地障碍——安全合规。  与此同时，Build"
 resource: "https://x.com/i/status/2061967776831639677"
@@ -22,13 +22,6 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "agent-deployment-service"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2061967776831639677"
-created: "2026-06-03"
-updated: "2026-06-26"
-sha256: "d7183c9ff49fb9c6b60ad861577117d054c0e866e368347d3b93e5731cc18861"
-sources:
-  - "/sources/news/2026-06-03/00__xiaohu__微软把-openclaw-变成了-windows-的-官方-agent-企业安全栈全套接入-上游开源项目获企业级能力.md"
 ---
 
 # 微软把 OpenClaw 变成了 Windows 的「官方 Agent」——企业安全栈全套接入，上游开源项目获企业级能力

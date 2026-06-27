@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Skill 是 Agent 能力传递的最小损耗路径——即使同一篇文章，不同人学出的东西也天差地别"
 description: "**能力传递的\"最后一公里\"问题。**  同样一篇文章链接，不同人给 Agent 的上下文截然不同：有人只丢链接让 Agent 自己消化，有人会补充元提示让 Agent 逆向真实 App 获取更深层知识。再加上 harness、模型型号、reasoning effort、提示词模板的差异，同一份\"能力\"在不同人手里的输出质量可能相差一个数量级。  Skill 解决了这个问题：把能力封装为可复制的制"
 resource: "https://x.com/i/status/2055112451994329281"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2055112451994329281"
-created: "2026-05-15"
-updated: "2026-06-26"
-sha256: "19982c1b50f51f33ed3ab6e31330b993e8a9ff20fa226f80d9933950782e70e1"
-sources:
-  - "/sources/news/2026-05-15/00__yetone__skill-是-agent-能力传递的最小损耗路径-即使同一篇文章-不同人学出的东西也天差地别.md"
 ---
 
 # Skill 是 Agent 能力传递的最小损耗路径——即使同一篇文章，不同人学出的东西也天差地别

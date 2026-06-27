@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "字幕工作流正在成为普通用户最朴素的AI内容消费入口"
 description: "**[YouTube字幕→Raycast AI→结构化文章，一条无需API Key的内容消化管道]**  - 向阳乔木演示的方案：有字幕的YouTube视频，点击按钮复制/下载字幕，交给Raycast AI用自定义提示词生成总结 - 播放倍速调节 + 字幕可跳转到ChatGPT/NotebookLM进一步加工 - 全程无需API Key，用户已有工具的组合叠加 - 核心价值：把「看视频」这个被动消"
 resource: "https://x.com/i/status/2056980704056283241"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2056980704056283241"
-created: "2026-05-20"
-updated: "2026-06-26"
-sha256: "10359ad88bb6e53c98915e609aedc22a13b193b3fc2296b1a1e423f068f306d4"
-sources:
-  - "/sources/news/2026-05-20/00__vista8__字幕工作流正在成为普通用户最朴素的ai内容消费入口.md"
 ---
 
 # 字幕工作流正在成为普通用户最朴素的AI内容消费入口

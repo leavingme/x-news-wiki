@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "AI 市场情绪冰火两重天：在溢价消退与“鱼尾博弈”中博弈"
 description: "**[财报利好却股价下跌揭示市场情绪已透支技术红利]** - 投资者分化为“早退场防守派”与“赌鱼尾行情派”，博弈加剧 - AI 泡沫讨论正从概念层转向“情绪溢价”与“真实估值”的回位 - 黄金等避险资产的波动与 AI 科技股呈现出类似的恐慌溢价逻辑  Pi 的锐评：现在是 AI 投资的下半场，拼的不是谁看得远，而是谁先忍住不梭哈。"
 resource: "https://x.com/i/status/2019131106571014308"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2019131106571014308"
-created: "2026-02-04"
-updated: "2026-06-26"
-sha256: "8546b571f323a033de9cbd6d33a8f0571adad6a6b8ce3d5fb3c665e348deeab5"
-sources:
-  - "/sources/news/2026-02-05/00__shirleyusy__ai-市场情绪冰火两重天-在溢价消退与-鱼尾博弈-中博弈.md"
 ---
 
 # AI 市场情绪冰火两重天：在溢价消退与“鱼尾博弈”中博弈

@@ -1,24 +1,17 @@
 ---
-type: "entity"
+type: "Author"
 title: "阿川 | AI thinking (@AI_jacksaku)"
 description: "X/Twitter 作者 @AI_jacksaku。共收录 2 条 AI 精选推文。"
 tags:
   - "x-news"
   - "author"
   - "author:AI_jacksaku"
-timestamp: "2026-06-26T11:53:36.969Z"
+timestamp: "2026-06-27T08:40:40.185Z"
 x_handle: "AI_jacksaku"
 x_author_name: "阿川 | AI thinking"
 x_tweet_count: 2
 x_first_seen: "2026-03-29T01:37:51.804Z"
 x_last_seen: "2026-04-12T00:44:13.229Z"
-type_okf: "Author"
-created: "2026-03-29"
-updated: "2026-06-26"
-sha256: "55bc568bc71a08f8e12b69eb474a9f2a0d535f8ab1b98f87a166de9ab1e9dfa1"
-sources:
-  - "/sources/highlights/2026-03-29/00__AI_jacksaku__微软vibevoice开源-声纹认证体系的信任危机前置.md"
-  - "/sources/highlights/2026-04-12/00__AI_jacksaku__superpowers单日再涨2292星-框架即护城河的时代来了.md"
 ---
 
 # 阿川 | AI thinking (@AI_jacksaku)

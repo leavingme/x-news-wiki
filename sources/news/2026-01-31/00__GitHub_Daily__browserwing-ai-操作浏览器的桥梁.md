@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "BrowserWing：AI 操作浏览器的桥梁"
 description: "**开源项目实现 LLM 与本地浏览器之间的视觉化脚本录制与自然语言接管。** - **核心价值**：支持 MCP 协议，让 AI 助手通过语音或文字指令直接完成“提取数据、填表”等动作。 - **特性**：兼容多模型、支持稳定会话管理，降低了网页自动化的门槛。  **Pi 的锐评**：这是 AI 从“对话框”走向“操作系统”的关键一环，让 AI 真正拥有了双手。"
 resource: "https://twitter.com/GitHub_Daily/status/2014852579126309141"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://twitter.com/GitHub_Daily/status/2014852579126309141"
-created: "2026-01-24"
-updated: "2026-06-26"
-sha256: "c67d486f464a97bd9d2b108d79998cdf7f8d360784bb3ca5423338c4965e5ca8"
-sources:
-  - "/sources/news/2026-01-31/00__GitHub_Daily__browserwing-ai-操作浏览器的桥梁.md"
 ---
 
 # BrowserWing：AI 操作浏览器的桥梁

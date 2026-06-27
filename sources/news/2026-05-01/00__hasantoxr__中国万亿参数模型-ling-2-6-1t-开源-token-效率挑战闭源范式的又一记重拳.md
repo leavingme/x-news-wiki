@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "中国万亿参数模型 Ling-2.6-1T 开源：Token 效率挑战闭源范式的又一记重拳"
 description: "**万亿参数开源、Token 效率更优——闭源模型的护城河正在被系统性侵蚀。**  - 阿里开源 Ling-2.6-1T，万亿参数级别，声称 Token 消耗低于同量级美国闭源模型 - 开源可审计、可基准测试，社区验证将决定这是否是真实突破还是营销话术 - 国产大模型竞争正从规模追赶转向效率领先的新阶段  gakki 锐评：开源不是目的，效率才是。但当效率也开源时，闭源叙事就需要新的支撑点——要么"
 resource: "https://x.com/hasantoxr/status/2049882299936960642"
@@ -22,13 +22,6 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "domestic-model-competition"
 x_source: "ai-trend-digest"
-type_okf: "X Tweet"
-source_url: "https://x.com/hasantoxr/status/2049882299936960642"
-created: "2026-04-30"
-updated: "2026-06-26"
-sha256: "3c01e2ee41b310ebf0f05089c2db0f2b4f26143967fc1466171f1a9287df6c8e"
-sources:
-  - "/sources/news/2026-05-01/00__hasantoxr__中国万亿参数模型-ling-2-6-1t-开源-token-效率挑战闭源范式的又一记重拳.md"
 ---
 
 # 中国万亿参数模型 Ling-2.6-1T 开源：Token 效率挑战闭源范式的又一记重拳

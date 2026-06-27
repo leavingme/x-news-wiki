@@ -1,23 +1,17 @@
 ---
-type: "entity"
+type: "Author"
 title: "DTA 🕊️📿🦅 (@BTCDTA)"
 description: "X/Twitter 作者 @BTCDTA。共收录 1 条 AI 精选推文。"
 tags:
   - "x-news"
   - "author"
   - "author:BTCDTA"
-timestamp: "2026-06-26T11:53:36.964Z"
+timestamp: "2026-06-27T08:40:40.172Z"
 x_handle: "BTCDTA"
 x_author_name: "DTA 🕊️📿🦅"
 x_tweet_count: 1
 x_first_seen: "2026-03-21T09:05:18.947Z"
 x_last_seen: "2026-03-21T09:05:18.947Z"
-type_okf: "Author"
-created: "2026-03-21"
-updated: "2026-06-26"
-sha256: "b4b1ccbf49b72af8028a9db25cf67f30d93eda4dd61f10a0cad899105af258bc"
-sources:
-  - "/sources/highlights/2026-03-21/00__BTCDTA__polymarket数据套利闭环-当ai-agent学会-人性贪婪-开始自治交易.md"
 ---
 
 # DTA 🕊️📿🦅 (@BTCDTA)

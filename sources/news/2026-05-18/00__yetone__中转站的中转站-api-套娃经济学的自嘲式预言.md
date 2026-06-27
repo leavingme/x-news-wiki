@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "中转站的中转站：API 套娃经济学的自嘲式预言"
 description: "**「是时候开发个中转站的中转站了，可以自动路由到稳定的且最便宜的中转站。」**  • 表层是自嘲玩笑，深层是 API 基础设施层的真实问题：随着 AI 应用爆发，中转层（relay/proxy）的稳定性与成本差异正在成为隐性工程债务 • 这个梗的传播价值在于它精准描述了一个正在形成的中间件市场：智能路由层的需求是真实的，但当下的解决方案混乱且低效 • 结合 yetone 在 Yansu 的 Pr"
 resource: "https://x.com/i/status/2056492203443364241"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2056492203443364241"
-created: "2026-05-18"
-updated: "2026-06-26"
-sha256: "bc30b6827da3355746d6a34e088b223d5af16c285bf01ca4664a9650465ad3a6"
-sources:
-  - "/sources/news/2026-05-18/00__yetone__中转站的中转站-api-套娃经济学的自嘲式预言.md"
 ---
 
 # 中转站的中转站：API 套娃经济学的自嘲式预言

@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Gemini Deep Think 攻克理论物理难题：AI 科学发现的「自动化临界点」"
 description: "**[神经符号系统首次自主完成数学证明]**  Google × Harvard × CMU 联合团队使用 Gemini Deep Think + 树搜索框架，构建了一个能自主发现复杂数学证明的「数字科学家」系统——成功解决了关于引力辐射的开放性理论物理问题。  **方法论突破：** • 神经符号混合：Gemini 负责假设生成，符号系统负责逻辑验证 • 树搜索框架：自动探索不同分析路径，用数值反"
 resource: "https://x.com/i/status/2029837999614410809"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 90
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2029837999614410809"
-created: "2026-03-06"
-updated: "2026-06-26"
-sha256: "f2c4e4c393e6e70918844e0e4567cb1a0b3045acae12c8de9de3e12bdbd2a2ef"
-sources:
-  - "/sources/news/2026-03-07/90__jiqizhixin__gemini-deep-think-攻克理论物理难题-ai-科学发现的-自动化临界点.md"
 ---
 
 # Gemini Deep Think 攻克理论物理难题：AI 科学发现的「自动化临界点」

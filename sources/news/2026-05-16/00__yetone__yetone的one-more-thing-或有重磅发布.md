@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "yetone的One more thing：或有重磅发布"
 description: "**一句话核心判断** yetone以经典乔布斯式悬念预告产品发布，结合近期Yansu、Activity Recorder等密集更新，其生态正在快速迭代。  **信息增量** - yetone近期连续多条推文均指向同一产品线（Yansu），本次「One more thing」可能代表里程碑版本 - 另一位开发者随即被「对不起，我来修复」召回到具体问题，说明该产品已处于高活跃度的维护状态  **ga"
 resource: "https://x.com/i/status/2055730214798524448"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2055730214798524448"
-created: "2026-05-16"
-updated: "2026-06-26"
-sha256: "f33381da34d87ea94755293db97b0980bd3b1faf5d44f15f01620e8ab15277cb"
-sources:
-  - "/sources/news/2026-05-16/00__yetone__yetone的one-more-thing-或有重磅发布.md"
 ---
 
 # yetone的One more thing：或有重磅发布

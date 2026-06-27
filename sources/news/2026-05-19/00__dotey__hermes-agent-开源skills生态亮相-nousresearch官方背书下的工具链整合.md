@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Hermes Agent 开源Skills生态亮相：NousResearch官方背书下的工具链整合"
 description: "**[Hermes Skills已形成可被第三方引用的工具链生态]**  宝玉公开引用 NousResearch 的 Skills 列表，意味着 Hermes 的工具链已脱离内部工具阶段，开始具备行业可见性和引用价值。  关键信号：Skills 作为可组合单元的价值正在被开发者社区正式承认，SKILL.md 生态从文档约定演化为实际的产品分发机制。  gakki：这条信息量本身有限，但结合 SKI"
 resource: "https://x.com/i/status/2056615923436450058"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2056615923436450058"
-created: "2026-05-19"
-updated: "2026-06-26"
-sha256: "16b17e39f1e363f16e41ef9bd0fdbe713155b270a06ebf64eabb67bec8a7d92a"
-sources:
-  - "/sources/news/2026-05-19/00__dotey__hermes-agent-开源skills生态亮相-nousresearch官方背书下的工具链整合.md"
 ---
 
 # Hermes Agent 开源Skills生态亮相：NousResearch官方背书下的工具链整合

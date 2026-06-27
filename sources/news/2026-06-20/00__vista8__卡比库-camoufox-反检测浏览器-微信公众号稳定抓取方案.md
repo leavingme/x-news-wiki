@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "卡比库 + camoufox 反检测浏览器：微信公众号稳定抓取方案"
 description: "**[反检测浏览器让公众号爬取重新可行]**  要点： - 卡比库通过公众号 URL 即可转 Markdown 并下载文中图片 - 内置 camoufox 反检测（Anti-detect）浏览器，规避微信反爬 - 已被吸收进「公众号文章→PPT」工具链   锐评：微信反爬一直在升级，camoufox 是少数能稳定跑通的方案。但反检测本身走在灰色边缘，开源传播力度需要克制，否则很快会被风控盯上。"
 resource: "https://x.com/i/status/2068333004070551605"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2068333004070551605"
-created: "2026-06-20"
-updated: "2026-06-26"
-sha256: "c0082f91931ce8d47dd65b5474d83fee245310edccb579b44d1a19aa2807b8f7"
-sources:
-  - "/sources/news/2026-06-20/00__vista8__卡比库-camoufox-反检测浏览器-微信公众号稳定抓取方案.md"
 ---
 
 # 卡比库 + camoufox 反检测浏览器：微信公众号稳定抓取方案

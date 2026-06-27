@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "vivo × 南开 LiveMoments：Live Photo 重选帧不再糊，参考帧修复突破多模态图像质量"
 description: "**用原始高清关键帧作参考引导，修复用户重选帧的画质——一个被低估的实用型多模态突破。**  - vivo BlueImage Lab 联合南开大学提出 LiveMoments 方案 - 核心方法：以原始高质量关键帧为参考，对齐运动信息后修复用户重选帧 - 在快速运动和复杂场景下，感知质量和保真度显著优于现有方案  锐评：这不是炫技型研究，而是解决了数亿 iPhone 用户的真实痛点——Live "
 resource: "https://x.com/i/status/2053696601588474075"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2053696601588474075"
-created: "2026-05-11"
-updated: "2026-06-26"
-sha256: "cf402903e1186035d56510b4b0c4ec622aa888062a563173e1d896c0ed3408f6"
-sources:
-  - "/sources/news/2026-05-11/00__jiqizhixin__vivo-南开-livemoments-live-photo-重选帧不再糊-参考帧修复突破多模态图像质量.md"
 ---
 
 # vivo × 南开 LiveMoments：Live Photo 重选帧不再糊，参考帧修复突破多模态图像质量

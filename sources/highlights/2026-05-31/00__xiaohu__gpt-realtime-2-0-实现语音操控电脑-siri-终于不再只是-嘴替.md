@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "GPT-Realtime 2.0 实现语音操控电脑：Siri 终于不再只是「嘴替」"
 description: "**[语音即交互界面的时代正在到来]**  GPT-Realtime 2.0 展示的语音操控电脑能力，不是Siri的升级版，而是一次交互范式的位移——用户从「打开App再操作」变成了「直接用自然语言驱动计算机所有功能」。  关键信号：这意味着AI助手不再是信息检索工具，而是真正接管了人机交互层。键盘、鼠标、触屏的组合正在被压缩为一个语音入口。  影响范围：所有需要「操作门槛」的C端产品瞬间失去壁垒"
 resource: "https://x.com/i/status/2060895245290942840"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2060895245290942840"
-created: "2026-05-31"
-updated: "2026-06-26"
-sha256: "164cedb38a1cc0b62e8436664ecd4b8afa123452264067bb5e991cb533d5735a"
-sources:
-  - "/sources/highlights/2026-05-31/00__xiaohu__gpt-realtime-2-0-实现语音操控电脑-siri-终于不再只是-嘴替.md"
 ---
 
 # GPT-Realtime 2.0 实现语音操控电脑：Siri 终于不再只是「嘴替」

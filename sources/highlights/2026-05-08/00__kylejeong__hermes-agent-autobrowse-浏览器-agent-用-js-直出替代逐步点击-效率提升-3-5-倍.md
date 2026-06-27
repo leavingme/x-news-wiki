@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Hermes Agent + Autobrowse：浏览器 Agent 用 JS 直出替代逐步点击，效率提升 3-5 倍"
 description: "**浏览器 Agent 的效率瓶颈不在模型能力，而在交互策略。** - Hermes Agent 通过 Autobrowse 实现浏览器自动化技能自学习：2 次迭代后，耗时从 102s 降至 35s，交互轮次从 23 轮降至 8 轮，成本从 $1.46 降至 $0.28 - 核心机制：Agent 不再逐步点击 DOM，而是直接 eval JS 获取页面数据并缓存为 Skill - 这是 Agent"
 resource: "https://x.com/kylejeong/status/2052497318017208470"
@@ -22,13 +22,6 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "agent-browser-token-efficiency"
 x_source: "ai-trend-digest"
-type_okf: "X Tweet"
-source_url: "https://x.com/kylejeong/status/2052497318017208470"
-created: "2026-05-07"
-updated: "2026-06-26"
-sha256: "a13def52a66cc4a6d25e3613ebf9cbec02cfeb3ae3f8fd42b0cde5aafd7cf5f9"
-sources:
-  - "/sources/highlights/2026-05-08/00__kylejeong__hermes-agent-autobrowse-浏览器-agent-用-js-直出替代逐步点击-效率提升-3-5-倍.md"
 ---
 
 # Hermes Agent + Autobrowse：浏览器 Agent 用 JS 直出替代逐步点击，效率提升 3-5 倍

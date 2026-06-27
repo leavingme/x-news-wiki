@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Anthropic 估值 6500 亿、ARR 冲 470 亿美元：算力协议锁定 AWS 5GW + Google/Broadcom TPU + SpaceX 超算集群"
 description: "**[Anthropic 进入千亿美元俱乐部，基础设施绑定成护城河核心]**  Anthropic 完成 6500 亿美元 H 轮融资，估值超越 OpenAI。ARR 从 2024 年底的 10 亿美元飙升至 470 亿美元（14 个月 47 倍），增速惊人。算力侧连签三张大单：AWS 5GW、谷歌/博通 5GW TPU、SpaceX Colossus 1&2 超算使用权。  **gakki 锐评"
 resource: "https://x.com/i/status/2060152538943705281"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2060152538943705281"
-created: "2026-05-29"
-updated: "2026-06-26"
-sha256: "908e3f1019d196bc4053a1534f038c30688450d3875555114905875a025950bc"
-sources:
-  - "/sources/highlights/2026-05-29/00__xiaohu__anthropic-估值-6500-亿-arr-冲-470-亿美元-算力协议锁定-aws-5gw-google-broa.md"
 ---
 
 # Anthropic 估值 6500 亿、ARR 冲 470 亿美元：算力协议锁定 AWS 5GW + Google/Broadcom TPU + SpaceX 超算集群

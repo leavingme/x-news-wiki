@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "反复杂框架宣言：221万人围观的「零门槛Agent构建」极简路径"
 description: "**[复杂化是Agent落地的最大敌人]**  • 行业误区：多Agent框架堆砌已成新常态，但工程复杂度与实用价值呈负相关 • 破局信号：这篇现象级教程(221万浏览)证明市场对「去框架化」Agent实现有强烈需求 • 落地价值：无需复杂开发要求，普通人当天即可部署的生产级路径  ---  **gakki 锐评**：当「多Agent编排」成为新的简历关键词时，这篇教程的流行是一记清醒剂——真正推"
 resource: "https://x.com/i/status/2037957197255364708"
@@ -22,13 +22,6 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "agent-minimalist-implementation"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2037957197255364708"
-created: "2026-03-28"
-updated: "2026-06-26"
-sha256: "aac730eabe55779bf342a1a99f193487e0d1dd5bae13ef7ad0c2f5f5d237b36e"
-sources:
-  - "/sources/highlights/2026-03-28/00__AYi_AInotes__反复杂框架宣言-221万人围观的-零门槛agent构建-极简路径.md"
 ---
 
 # 反复杂框架宣言：221万人围观的「零门槛Agent构建」极简路径

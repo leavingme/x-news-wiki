@@ -1,23 +1,17 @@
 ---
-type: "entity"
+type: "Author"
 title: "闵祖涛 (@zutaoMin)"
 description: "X/Twitter 作者 @zutaoMin。共收录 1 条 AI 精选推文。"
 tags:
   - "x-news"
   - "author"
   - "author:zutaoMin"
-timestamp: "2026-06-26T11:53:36.972Z"
+timestamp: "2026-06-27T08:40:40.188Z"
 x_handle: "zutaoMin"
 x_author_name: "闵祖涛"
 x_tweet_count: 1
 x_first_seen: "2026-04-03T00:42:40.438Z"
 x_last_seen: "2026-04-03T00:42:40.438Z"
-type_okf: "Author"
-created: "2026-04-03"
-updated: "2026-06-26"
-sha256: "d6c3cde019903fed518c5f7ca742edde1a3828b9d436428bed9d953417e88562"
-sources:
-  - "/sources/highlights/2026-04-03/00__zutaoMin__ai-agent将批量淘汰-南郭先生-大厂中层管理迎来清算时刻.md"
 ---
 
 # 闵祖涛 (@zutaoMin)

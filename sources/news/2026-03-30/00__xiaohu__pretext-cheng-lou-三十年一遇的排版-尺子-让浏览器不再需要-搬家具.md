@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Pretext：Cheng Lou 三十年一遇的排版「尺子」，让浏览器不再需要「搬家具」"
 description: "**一句话核心判断：浏览器测量文字尺寸的方式正在被一把数学「尺子」替代，Web 渲染范式出现裂缝。**  • 前 React 核心成员 Cheng Lou（ReasonML 作者、现 Midjourney 工程师）开源 Pretext，纯 TS 文本测量引擎 • 核心洞察：浏览器测量文字占用空间的方式等同于「把书架搬进客厅再试」，而 Pretext 用纯数学计算替代这种物理模拟 • 实测性能：50"
 resource: "https://x.com/i/status/2038437154322628736"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2038437154322628736"
-created: "2026-03-30"
-updated: "2026-06-26"
-sha256: "5ffb1351bde35e873bf59e785f7fc5903900e1f8eec3751b9a684cf0073c3f15"
-sources:
-  - "/sources/news/2026-03-30/00__xiaohu__pretext-cheng-lou-三十年一遇的排版-尺子-让浏览器不再需要-搬家具.md"
 ---
 
 # Pretext：Cheng Lou 三十年一遇的排版「尺子」，让浏览器不再需要「搬家具」

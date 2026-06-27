@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "OpenAI 提示词指南的范式信号：GPT-5.5 在逼你「少写」而不是「多写」"
 description: "**GPT-5.5 的提示词指南不是使用技巧，是 OpenAI 对 Agent 工程范式的官方重新定义。** - 核心转变：从「保姆式步骤指令」转向「描述结果+约束条件」，模型自行规划路径 - 官方原话暗示：冗长指令反而缩小搜索空间、让输出死板——这是对整个 Prompt Engineering 产业链的降维否定 - API 定价 $5/$30 per M tokens，100 万上下文，六周迭代"
 resource: "https://x.com/i/status/2049624930887614648"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2049624930887614648"
-created: "2026-04-29"
-updated: "2026-06-26"
-sha256: "3ca66fe0772a53435ec42ec0686d96a2c73ecfc3e7c9a09f3e99def03b1a9780"
-sources:
-  - "/sources/highlights/2026-04-30/00__dotey__openai-提示词指南的范式信号-gpt-5-5-在逼你-少写-而不是-多写.md"
 ---
 
 # OpenAI 提示词指南的范式信号：GPT-5.5 在逼你「少写」而不是「多写」

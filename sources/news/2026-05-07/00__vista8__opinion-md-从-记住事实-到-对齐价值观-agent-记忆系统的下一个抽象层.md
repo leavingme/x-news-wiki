@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "opinion.md：从\"记住事实\"到\"对齐价值观\"，Agent 记忆系统的下一个抽象层"
 description: "**[个人观点提取 → AI 决策校准，Agent 记忆正在向上层抽象演进]** - 用 AI Agent 定时抓取个人发布内容，提炼观点建 opinion.md 文件 - 让 Agent 未来决策更接近用户的判断倾向，而非仅记住行为事实 - 从\"记忆管理\"到\"价值观对齐\"，这是个人 AI 记忆系统的关键分层  这个想法的真正价值不是技术实现，而是提出了一个被忽视的问题：你的 Agent 知道你\""
 resource: "https://x.com/i/status/2052400702719455471"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2052400702719455471"
-created: "2026-05-07"
-updated: "2026-06-26"
-sha256: "5b9a5bf9adfd54bc3640aa70cd4dc21bce2fe58ff562ee03d886aaeedd93c805"
-sources:
-  - "/sources/news/2026-05-07/00__vista8__opinion-md-从-记住事实-到-对齐价值观-agent-记忆系统的下一个抽象层.md"
 ---
 
 # opinion.md：从"记住事实"到"对齐价值观"，Agent 记忆系统的下一个抽象层

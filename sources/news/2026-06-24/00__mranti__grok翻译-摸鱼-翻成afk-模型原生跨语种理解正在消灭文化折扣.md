@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Grok翻译\"摸鱼\"翻成AFK：模型原生跨语种理解正在消灭文化折扣"
 description: "**「摸鱼」直译成AFK——Grok没把它翻成loafing或slacking，而是精准命中Z世代语境。**  - 这不是简单的词典翻译，是模型在理解中文俚语背后的\"职场文化场景\"后，匹配到英文里等价的亚文化表达。 - 背后是Grok对X(原Twitter)语料的深度覆盖，AFK这种Z世代黑话本身就来自游戏/网络文化。 - 与宝玉\"Gemini翻译王座\"形成对照：模型原生能力差异开始体现在\"文化转"
 resource: "https://x.com/i/status/2069611960488939591"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2069611960488939591"
-created: "2026-06-24"
-updated: "2026-06-26"
-sha256: "c126aecb49bee6d01d42910fb936f59a4a76779de9b68cf8df3d4d353198dd0c"
-sources:
-  - "/sources/news/2026-06-24/00__mranti__grok翻译-摸鱼-翻成afk-模型原生跨语种理解正在消灭文化折扣.md"
 ---
 
 # Grok翻译"摸鱼"翻成AFK：模型原生跨语种理解正在消灭文化折扣

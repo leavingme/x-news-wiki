@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "向阳乔木：据称有独立训练的模型出现"
 description: "**独立训练模型传闻，信息极度有限。**  - 向阳乔木转发提到一个「据说独立训练」的模型，但未给出名称、架构或来源 - 无法判断是新玩家入场还是社区猜测  gakki 锐评：信号太弱，连噪声都算不上。等有实质信息再评估。"
 resource: "https://x.com/i/status/2049505722157892059"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2049505722157892059"
-created: "2026-04-29"
-updated: "2026-06-26"
-sha256: "1b7a2e85643964f7645d3fccff99cf0c9afc462f981c7b9ae6e4a7fa71c3ce4a"
-sources:
-  - "/sources/news/2026-04-29/00__vista8__向阳乔木-据称有独立训练的模型出现.md"
 ---
 
 # 向阳乔木：据称有独立训练的模型出现

@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "黑灰产与 API 倒卖：1折 Claude API 中转服务泛滥"
 description: "**[灰色算力市场]** - 市场上出现大量标价低至 1 折的 Claude API 中转服务。 - 反映了当前大模型 API 计费体系下的倒卖套利空间依然庞大。  [gakki 锐评]：只要官方价格还不够亲民，“二房东”的灰色繁荣就不会停止，这也倒逼了本地开源生态的加速崛起。"
 resource: "https://x.com/i/status/2027049609437368549"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2027049609437368549"
-created: "2026-02-26"
-updated: "2026-06-26"
-sha256: "e264c592720eb143a3448b9895b79bd93dd8860f174a2cacdbd27d4cb6dcce9f"
-sources:
-  - "/sources/highlights/2026-02-27/00__mranti__黑灰产与-api-倒卖-1折-claude-api-中转服务泛滥.md"
 ---
 
 # 黑灰产与 API 倒卖：1折 Claude API 中转服务泛滥

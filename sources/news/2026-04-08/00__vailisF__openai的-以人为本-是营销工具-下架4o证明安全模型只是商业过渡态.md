@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "OpenAI的「以人为本」是营销工具：下架4o证明安全模型只是商业过渡态"
 description: "**[OpenAI的真正商业模式是「先用温柔AI换训练数据，再切政府合同锁表体验]**  GPT-4系列的轨迹揭示了一个清晰的套路：低成本高质量多模态的\"免费试用\"不是为了用户，是为了获取训练数据和建立依赖；然后通过下架4o、4.1、5.1强制用户迁移到保守的\"安全\"模型——这不是safety迭代，是用户锁表。  核心判断：当公司开始系统性关闭用户体验更好的功能而给用户\"更安全的\"版本，说明真正付"
 resource: "https://x.com/i/status/2028863259743502799"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2028863259743502799"
-created: "2026-03-03"
-updated: "2026-06-26"
-sha256: "31afa84d3bc1907627b7a3d6c970d7cf04ceb235407f3bfdf05165cafdbe8efd"
-sources:
-  - "/sources/news/2026-04-08/00__vailisF__openai的-以人为本-是营销工具-下架4o证明安全模型只是商业过渡态.md"
 ---
 
 # OpenAI的「以人为本」是营销工具：下架4o证明安全模型只是商业过渡态

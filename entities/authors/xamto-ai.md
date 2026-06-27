@@ -1,23 +1,17 @@
 ---
-type: "entity"
+type: "Author"
 title: "Amto (@XAMTO_AI)"
 description: "X/Twitter 作者 @XAMTO_AI。共收录 1 条 AI 精选推文。"
 tags:
   - "x-news"
   - "author"
   - "author:XAMTO_AI"
-timestamp: "2026-06-26T11:53:37.001Z"
+timestamp: "2026-06-27T08:40:40.217Z"
 x_handle: "XAMTO_AI"
 x_author_name: "Amto"
 x_tweet_count: 1
 x_first_seen: "2026-06-24T22:27:58.357Z"
 x_last_seen: "2026-06-24T22:27:58.357Z"
-type_okf: "Author"
-created: "2026-06-24"
-updated: "2026-06-26"
-sha256: "20e65d2111d3d52b016522680328c61201893640c292a30ca55610adba286786"
-sources:
-  - "/sources/news/2026-06-24/00__XAMTO_AI__10-个开源项目正在逐个击碎你的付费订阅清单-saas-护城河被按场景拆解.md"
 ---
 
 # Amto (@XAMTO_AI)

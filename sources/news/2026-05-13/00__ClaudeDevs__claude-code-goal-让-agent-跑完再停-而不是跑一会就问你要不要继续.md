@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Claude Code /goal：让 Agent 跑完再停，而不是跑一会就问你要不要继续"
 description: "**一句话核心判断：** /goal 是 Claude Code 向「真无人值守 Agent」迈出的关键一步——解决的是 AI 编程工具最大的体验断层：人在不在场决定代码能不能跑完。  长期以来 Claude Code 被诟病「一断开就放弃」「需要人盯着中途干预」，/goal 直接改变这个默认行为：目标不达成不停止，主动持续直到任务完成再汇报。这对 CI/CD 流程、长任务自动化有直接价值，是工程"
 resource: "https://x.com/ClaudeDevs/status/2054351031279186040"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "ai-trend-digest"
-type_okf: "X Tweet"
-source_url: "https://x.com/ClaudeDevs/status/2054351031279186040"
-created: "2026-05-13"
-updated: "2026-06-26"
-sha256: "b572a59e341df8556493d31e755eb7afce70a858e8f75426fa4cea09654c5c93"
-sources:
-  - "/sources/news/2026-05-13/00__ClaudeDevs__claude-code-goal-让-agent-跑完再停-而不是跑一会就问你要不要继续.md"
 ---
 
 # Claude Code /goal：让 Agent 跑完再停，而不是跑一会就问你要不要继续

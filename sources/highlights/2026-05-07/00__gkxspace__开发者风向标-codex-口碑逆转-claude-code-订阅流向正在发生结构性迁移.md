@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "开发者风向标：Codex 口碑逆转 Claude Code，订阅流向正在发生结构性迁移"
 description: "**Codex 正在从 Claude Code 手中抢走开发者心智，这是 OpenAI 编程工具线第一次出现正向口碑拐点。**  - 多位开发者反映近期从 Claude Code 转向 Codex，且口碑出现「两极反转」——此前被低估的 Codex 正在成为新默认选项 - 附带教程推荐表明迁移已从尝鲜进入批量采纳阶段 - 充值渠道建议（Apple Pay / Google Pay）侧面反映 Cod"
 resource: "https://x.com/i/status/2052287307349115290"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2052287307349115290"
-created: "2026-05-07"
-updated: "2026-06-26"
-sha256: "d18ae6882195f0ad526b6d7b3144fdea17444c60042f5400bff6ae044fbda235"
-sources:
-  - "/sources/highlights/2026-05-07/00__gkxspace__开发者风向标-codex-口碑逆转-claude-code-订阅流向正在发生结构性迁移.md"
 ---
 
 # 开发者风向标：Codex 口碑逆转 Claude Code，订阅流向正在发生结构性迁移

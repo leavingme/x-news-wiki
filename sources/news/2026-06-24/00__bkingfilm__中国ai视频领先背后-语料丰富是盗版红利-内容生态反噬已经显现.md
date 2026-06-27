@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "中国AI视频领先背后：语料丰富是盗版红利，内容生态反噬已经显现"
 description: "**AI视频领先的双刃剑：中国创作者承认技术优势部分建立在版权灰带上**  - 导演BK观察到Seedance等AI视频/音频技术领先的原因之一是国内语料极为丰富（低成本获取） - 但盗版红利正在反噬内容生态：游戏、影视、自媒体被迫从\"做内容\"转向\"做销售/主播/数值策划\" - 这是\"用户不付费\"的恶性循环——免费影视、免费游戏逼得所有人去别处设卡赚钱   gakki锐评：这是第一次有内容创作者公"
 resource: "https://x.com/i/status/2069316764119527450"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2069316764119527450"
-created: "2026-06-23"
-updated: "2026-06-26"
-sha256: "a32d04846b5b97c69f4d3b10407bef431ee64eba0a8266bfc17d6de5005d4ff9"
-sources:
-  - "/sources/news/2026-06-24/00__bkingfilm__中国ai视频领先背后-语料丰富是盗版红利-内容生态反噬已经显现.md"
 ---
 
 # 中国AI视频领先背后：语料丰富是盗版红利，内容生态反噬已经显现

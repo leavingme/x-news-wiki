@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Mythos刷出423个Firefox Bug修复，但GPT-5.5也能做到：AI安全审计的「军备竞赛」正在挤压营销泡沫"
 description: "**AI漏洞发现正在从稀缺能力变为基础设施，单点工具的营销叙事将迅速失效。**  - Mythos在Firefox上将Bug修复量从76飙升到423，数字惊人但并非不可复制——公开可用的GPT-5.5据称也能达到类似效果 - 当「找漏洞」变成大模型的标配能力，安全工具的竞争维度将从「能不能找到」转向「找到后怎么处理」 - 铁锤人的观察很尖锐：「预想的软件危机没有发生」，说明要么模型能力被高估，要么"
 resource: "https://x.com/i/status/2052615355533779306"
@@ -22,13 +22,6 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "ai-automated-security-research"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2052615355533779306"
-created: "2026-05-08"
-updated: "2026-06-26"
-sha256: "cc1c503e112c9067d5841098b9025ce2c75e0521c09e17e612de37b4fbe85160"
-sources:
-  - "/sources/news/2026-05-08/00__lxfater__mythos刷出423个firefox-bug修复-但gpt-5-5也能做到-ai安全审计的-军备竞赛-正在挤压营销泡沫.md"
 ---
 
 # Mythos刷出423个Firefox Bug修复，但GPT-5.5也能做到：AI安全审计的「军备竞赛」正在挤压营销泡沫

@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "孙宇晨入场：TRON 开启 AI 赛季，试图重构链上决策引擎"
 description: "**[DeFi 与 AI 的深度融合]** TRON 宣布进入 AI 季节，重点布局自主交易系统与智能治理。 - **高吞吐优势**：利用波场低费率、高效率的特点，支撑 AI 驱动的代理和自动化投资组合策略。 - **去中心化智能**：将 AI 代理运行在链上，旨在通过机器解读语境与意图，减少人为偏见。 - **叙事卡位**：孙哥敏锐捕捉到 Agentic DeFi 趋势，试图让 TRON 成为 "
 resource: "https://x.com/i/status/2017934165950279701"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2017934165950279701"
-created: "2026-02-01"
-updated: "2026-06-26"
-sha256: "04138da453122fdf85895eb86b13d9a0f5a471e0cb2b73682dda175536c3dc44"
-sources:
-  - "/sources/news/2026-02-01/00__thenameisfedro__孙宇晨入场-tron-开启-ai-赛季-试图重构链上决策引擎.md"
 ---
 
 # 孙宇晨入场：TRON 开启 AI 赛季，试图重构链上决策引擎

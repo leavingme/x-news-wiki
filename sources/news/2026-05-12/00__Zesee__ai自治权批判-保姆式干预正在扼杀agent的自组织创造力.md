@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "AI自治权批判：保姆式干预正在扼杀Agent的自组织创造力"
 description: "**[一句话核心判断]** \"定义世界而非定义路径\"正在成为Agent设计的新哲学——当给AI足够的规则约束和反馈回路，它们能在系统内部自发进化出超越预设的方法论。  - **信息增量**：WorldSeed的实践证据——PM Agent在\"必须提供数据才能过审\"的硬规则下，自主悟出A/B测试方案，这并非来自Prompt，而是约束驱动的涌现行为。 - **对谁有影响**：所有在做Agent编排设计"
 resource: "https://x.com/i/status/2054257203876630626"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2054257203876630626"
-created: "2026-05-12"
-updated: "2026-06-26"
-sha256: "d256d6a38fcd080f24fd0780fcb63363fa5cd91713297dddbb6aaecb6f675370"
-sources:
-  - "/sources/news/2026-05-12/00__Zesee__ai自治权批判-保姆式干预正在扼杀agent的自组织创造力.md"
 ---
 
 # AI自治权批判：保姆式干预正在扼杀Agent的自组织创造力

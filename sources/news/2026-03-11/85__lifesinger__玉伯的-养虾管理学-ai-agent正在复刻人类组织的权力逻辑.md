@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "玉伯的「养虾管理学」：AI Agent正在复刻人类组织的权力逻辑"
 description: "**[四条铁律揭示：管理AI与管理人的本质并无二致]** - 「给足钱」=算力预算不吝啬，Opus 4.6的投入产出比远超预期 - 「大胆授权」=完整上下文和权限交付，API key、账号、环境全部透明 - 「定好目标」=prompt即OKR，目标描述清晰度决定输出质量天花板 - 「服务心态」=debug不是控制而是协作，Agent遇阻时补充上下文而非接管 - 锐评：当AI Agent的管理哲学与"
 resource: "https://x.com/i/status/2031233919258116539"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 85
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2031233919258116539"
-created: "2026-03-10"
-updated: "2026-06-26"
-sha256: "ebf65c82869b1a418176ac361300f845e97e6f4190c131ea4a37b048e5092b05"
-sources:
-  - "/sources/news/2026-03-11/85__lifesinger__玉伯的-养虾管理学-ai-agent正在复刻人类组织的权力逻辑.md"
 ---
 
 # 玉伯的「养虾管理学」：AI Agent正在复刻人类组织的权力逻辑

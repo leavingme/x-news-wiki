@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Claude Code 原理可视化网站来了：Agent Loop 动画让「水面下冰山」第一次被直观看见"
 description: "**[工程可视化降低理解门槛，但也在塑造新的认知懒惰]**  宝玉推荐了一个可视化网站，展示 Claude Code 的原理和功能，尤其是 Agent Loop 动画——将 AI Coding Agent 的核心循环（感知→决策→执行→反馈）以动态方式呈现。这是第一次有工具把 Claude Code 的内部机制以直观方式呈现。  **要点：** - 可视化的核心价值：让理解门槛降低，但不能让工程能"
 resource: "https://x.com/i/status/2039365135140077765"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2039365135140077765"
-created: "2026-04-01"
-updated: "2026-06-26"
-sha256: "422f0fb35943a80ba53d420fe9bfc82447d92b4488a593ce31ee9c584b668791"
-sources:
-  - "/sources/news/2026-04-02/00__dotey__claude-code-原理可视化网站来了-agent-loop-动画让-水面下冰山-第一次被直观看见.md"
 ---
 
 # Claude Code 原理可视化网站来了：Agent Loop 动画让「水面下冰山」第一次被直观看见

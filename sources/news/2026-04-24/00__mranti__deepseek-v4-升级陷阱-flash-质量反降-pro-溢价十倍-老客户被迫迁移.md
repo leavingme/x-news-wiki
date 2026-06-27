@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "DeepSeek V4 升级陷阱：Flash 质量反降，Pro 溢价十倍，老客户被迫迁移"
 description: "**DeepSeek V4 不是升级，是一次对老客户的定价背叛。**  • V3.2 是公认的 LLM 处理性价比王者——便宜、成熟、稳定。V4 Flash 翻译质量反而不如 V3.2，而 V4 Pro 比 V4 Flash 溢价整整十倍。 • 质量下降 + 溢价十倍的组合，让老客户的选择空间被极度压缩：降级到 V3.2 还是忍受 V4 Flash 的质量下滑，多付十倍钱又没有对应的质量收益。 •"
 resource: "https://x.com/i/status/2047528087093731674"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2047528087093731674"
-created: "2026-04-24"
-updated: "2026-06-26"
-sha256: "3f414225543c436704bb641f6a9378f6b574f0142feebcd66dc57cfd2274c638"
-sources:
-  - "/sources/news/2026-04-24/00__mranti__deepseek-v4-升级陷阱-flash-质量反降-pro-溢价十倍-老客户被迫迁移.md"
 ---
 
 # DeepSeek V4 升级陷阱：Flash 质量反降，Pro 溢价十倍，老客户被迫迁移

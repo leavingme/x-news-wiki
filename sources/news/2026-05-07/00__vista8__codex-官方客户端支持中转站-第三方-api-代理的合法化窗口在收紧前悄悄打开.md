@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Codex 官方客户端支持中转站：第三方 API 代理的合法化窗口在收紧前悄悄打开"
 description: "**Codex 官方客户端默认支持第三方 API 中转站，可视化界面对普通用户更友好。**  - 向阳乔木推荐 Codex 官方客户端作为 Terminal 不习惯用户的替代入口，且明确支持第三方 API 代理 - 可视化界面降低了 Codex 的使用门槛，与此前 CLI-only 的定位形成差异化  中转站支持是把双刃剑——短期内扩大了用户覆盖，但这也意味着 API 定价和合规压力正在向客户端层"
 resource: "https://x.com/i/status/2052193805034459488"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2052193805034459488"
-created: "2026-05-07"
-updated: "2026-06-26"
-sha256: "c19e36c5cc9b7d59d3adb2146c33320e21930c81f6620b27010d8fb9e0dda6c2"
-sources:
-  - "/sources/news/2026-05-07/00__vista8__codex-官方客户端支持中转站-第三方-api-代理的合法化窗口在收紧前悄悄打开.md"
 ---
 
 # Codex 官方客户端支持中转站：第三方 API 代理的合法化窗口在收紧前悄悄打开

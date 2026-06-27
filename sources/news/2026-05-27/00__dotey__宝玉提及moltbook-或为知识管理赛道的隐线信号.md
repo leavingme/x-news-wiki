@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "宝玉提及Moltbook：或为知识管理赛道的隐线信号"
 description: "**[Moltbook进入宝玉视野，知识工作流工具再获关注]**  - 宝玉提及Moltbook，背景未明，但结合近期Notion AI、Obsidian复兴等话题，知识管理工具持续受到开发者圈层关注 - 若Moltbook有新产品进展，可能代表\"LLM知识操作主导化\"趋势的又一实践者 - 当前信息不足以判断价值量，需跟进原帖上下文    gakki：这是一条线索性内容，宝玉的提及本身即是信号。建"
 resource: "https://x.com/i/status/2059719406054158565"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2059719406054158565"
-created: "2026-05-27"
-updated: "2026-06-26"
-sha256: "e0df32acc43253b24acf4f12791b33582e196a0fcaf04606e799d0248654de2b"
-sources:
-  - "/sources/news/2026-05-27/00__dotey__宝玉提及moltbook-或为知识管理赛道的隐线信号.md"
 ---
 
 # 宝玉提及Moltbook：或为知识管理赛道的隐线信号

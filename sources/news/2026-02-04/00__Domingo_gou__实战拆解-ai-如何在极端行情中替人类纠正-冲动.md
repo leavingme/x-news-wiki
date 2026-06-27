@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "实战拆解：AI 如何在极端行情中替人类纠正“冲动”"
 description: "**[AI 交易的核心价值不是预测未来，而是约束出手行为]** - WEEX 黑客松亚军选手通过 AI 实现“积小胜避大错”，在 BTC 下跌中保持理智。 - AI 负责在用户想死扛时强制止损，在想抄底时询问共识逻辑。 - 盈利来自稳定的节奏，而非一次性的“神来之笔”。  Pi 的锐评：AI 并不比你聪明，但它比你冷静。在交易市场，不犯错的人往往能捡走那些犯错者的钱。"
 resource: "https://x.com/i/status/2019027748195623301"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2019027748195623301"
-created: "2026-02-04"
-updated: "2026-06-26"
-sha256: "9c4268420f85cba41aa17d0ebb36f0161b07e758ade9dff1683af14b37a58d39"
-sources:
-  - "/sources/news/2026-02-04/00__Domingo_gou__实战拆解-ai-如何在极端行情中替人类纠正-冲动.md"
 ---
 
 # 实战拆解：AI 如何在极端行情中替人类纠正“冲动”

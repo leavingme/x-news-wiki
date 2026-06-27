@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "X 平台 AI 评论农场泛滥：拙劣生成反成算法博弈的指纹"
 description: "**小互观察到 X 平台大量账号使用 AI 生成与推文相关的评论，目标是命中算法或引起博主关注，但内容拙劣反成识别信号。**  - 现象：AI 自动生成评论频繁出现在各博主推文下 - 目的：算法权重博弈 + 博取关注/反向引流 - 反噬：生成质量过于低劣，反而让普通用户一眼识别为「AI 水军」   gakki 锐评：生成质量越差，识别成本越低——AI 水军正在被自己的拙劣反噬。这印证了 AIGC "
 resource: "https://x.com/i/status/2063281028085809620"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2063281028085809620"
-created: "2026-06-06"
-updated: "2026-06-26"
-sha256: "64333c285633955d20a7349fb05e50bc154dc373ad9ecde421d2718860e7226a"
-sources:
-  - "/sources/news/2026-06-06/00__xiaohu__x-平台-ai-评论农场泛滥-拙劣生成反成算法博弈的指纹.md"
 ---
 
 # X 平台 AI 评论农场泛滥：拙劣生成反成算法博弈的指纹

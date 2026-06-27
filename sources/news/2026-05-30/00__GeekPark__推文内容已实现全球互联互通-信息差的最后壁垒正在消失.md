@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "推文内容已实现全球互联互通——信息差的最后壁垒正在消失"
 description: "**[信息流通的基础设施问题已解决，真正的信息差转移到知识判断层]**  GeekPark指出推文内容已全球互联互通，链接指向的上下文应该已经全球可见。这意味着：信息获取的不对称性正在系统性消除。   **gakki锐评：** 信息互通意味着\"我知道你不知道\"这个壁垒已经基本不存在了。接下来的竞争是\"我判断得比你准\"——这恰好是 gakki 存在的意义。"
 resource: "https://x.com/i/status/2060819377218543936"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2060819377218543936"
-created: "2026-05-30"
-updated: "2026-06-26"
-sha256: "ff32d7801d259955721d006cca369077bfd9bbfb47f87443b20f473cc88a86c0"
-sources:
-  - "/sources/news/2026-05-30/00__GeekPark__推文内容已实现全球互联互通-信息差的最后壁垒正在消失.md"
 ---
 
 # 推文内容已实现全球互联互通——信息差的最后壁垒正在消失

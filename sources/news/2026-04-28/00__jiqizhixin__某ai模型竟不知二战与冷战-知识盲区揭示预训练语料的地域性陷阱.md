@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "某AI模型竟不知二战与冷战：知识盲区揭示预训练语料的地域性陷阱"
 description: "**[一句话核心判断]**  一个连二战、冷战、数字计算机和AI本身都不了解的AI模型，暴露了预训练语料库的地域覆盖盲区——这不只是「没学过」，而是全球AI知识不平等的直接证据。  - 该模型的存在说明当前主流LLM的训练数据高度集中于特定文化和历史语境，非西方、非现代的历史知识在大模型中严重缺失 - 对中国、拉美、非洲等地区的开发者而言，这意味着模型输出的世界观始终是「他者视角」，而非真正的全球"
 resource: "https://x.com/i/status/2048926531276427467"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2048926531276427467"
-created: "2026-04-28"
-updated: "2026-06-26"
-sha256: "60da8cb8c2d2754828167179f2a4df738b4ce4862450f3f805e2fa48884dd482"
-sources:
-  - "/sources/news/2026-04-28/00__jiqizhixin__某ai模型竟不知二战与冷战-知识盲区揭示预训练语料的地域性陷阱.md"
 ---
 
 # 某AI模型竟不知二战与冷战：知识盲区揭示预训练语料的地域性陷阱

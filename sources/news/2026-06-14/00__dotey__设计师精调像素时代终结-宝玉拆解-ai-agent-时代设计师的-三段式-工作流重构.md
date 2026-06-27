@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "设计师精调像素时代终结：宝玉拆解 AI Agent 时代设计师的\"三段式\"工作流重构"
 description: "**[核心判断]** 宝玉认为 AI Agent 时代设计师的工作方式必须重构：设计系统先行、设计师转型为\"设计经理\"、方向与验收保留为人类工作。  - 设计系统先于精调：没有统一规范就会出现 3px/5px 的随机值，让 Agent 遵循设计系统即可消除大部分人工微调 - 设计师从\"调像素\"升级为\"用文字指挥 Agent\"，Opus 4.8+ 配合设计系统已基本实现\"言出法随\" - 大方向把控和"
 resource: "https://x.com/i/status/2065980545645895966"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2065980545645895966"
-created: "2026-06-14"
-updated: "2026-06-26"
-sha256: "e3dcafcce420dadd4f97da4b3caaafdb429ea73b3404a9c7294aeee70162a2b9"
-sources:
-  - "/sources/news/2026-06-14/00__dotey__设计师精调像素时代终结-宝玉拆解-ai-agent-时代设计师的-三段式-工作流重构.md"
 ---
 
 # 设计师精调像素时代终结：宝玉拆解 AI Agent 时代设计师的"三段式"工作流重构

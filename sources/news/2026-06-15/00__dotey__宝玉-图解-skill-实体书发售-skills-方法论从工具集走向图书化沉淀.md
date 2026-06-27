@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "宝玉《图解 Skill》实体书发售：Skills 方法论从工具集走向图书化沉淀"
 description: "**Skills 范式正在从'工具集'升级为'方法论体系'，图书化是最强信号**  - 宝玉新书《图解 Skill —— AI 提效实战指南》正式发售，配套 GitHub 项目库 JimLiu/Illustrated-Agent-Skills 同步开源 - 书中沉淀了 info-digest（AI 资讯整理）、interview-analysis、interview-writing（播客访谈）等可"
 resource: "https://x.com/i/status/2066359502404780364"
@@ -22,13 +22,6 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "skills-ecosystem-standards"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2066359502404780364"
-created: "2026-06-15"
-updated: "2026-06-26"
-sha256: "34c5b44cfdabd4013abf6851aa10c0550cc3351056065b4dfa97696525aa76fc"
-sources:
-  - "/sources/news/2026-06-15/00__dotey__宝玉-图解-skill-实体书发售-skills-方法论从工具集走向图书化沉淀.md"
 ---
 
 # 宝玉《图解 Skill》实体书发售：Skills 方法论从工具集走向图书化沉淀

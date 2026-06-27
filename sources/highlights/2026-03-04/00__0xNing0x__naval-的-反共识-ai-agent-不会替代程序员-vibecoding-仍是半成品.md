@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Naval 的\"反共识\"：AI Agent 不会替代程序员，VibeCoding 仍是半成品"
 description: "**[硅谷神话叙事下的理性对冲：生产力幻觉与认知损耗并存]** • Naval 在\"AI Agent 替代人力\"的庞氏叙事中发出异见：Agent 不会取代程序员 • VibeCoding 代码进入生产环境仍需\"古法非遗\"式的人力审查与返工，与大模型的概率性、幻觉和\"装傻偷懒\"特性持续博弈 • 学术研究交叉验证：AI 对生产效率的提升被过度夸大，过度使用反而损害认知能力 • \"能写出杀手级应用的代码"
 resource: "https://x.com/i/status/2028323215186198808"
@@ -22,13 +22,6 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "skills-vs-vibe-coding"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2028323215186198808"
-created: "2026-03-02"
-updated: "2026-06-26"
-sha256: "e8bf84a224f04676fca758e0deb8a990ea2b9ec9282f0cd2f5c50203e397a62e"
-sources:
-  - "/sources/highlights/2026-03-04/00__0xNing0x__naval-的-反共识-ai-agent-不会替代程序员-vibecoding-仍是半成品.md"
 ---
 
 # Naval 的"反共识"：AI Agent 不会替代程序员，VibeCoding 仍是半成品

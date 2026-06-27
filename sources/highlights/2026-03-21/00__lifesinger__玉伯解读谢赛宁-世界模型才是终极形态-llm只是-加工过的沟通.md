@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "玉伯解读谢赛宁：世界模型才是终极形态，LLM只是「加工过的沟通」"
 description: "**[世界模型范式的关键注脚]** • 世界模型公式 Next state = M(state, action) 揭示：真正的智能是预测状态变化，而非下一个token • 谢赛宁的暴论：「LLM是毒药，Vision才是无污染的」——语言存在监督扭曲，视觉信号更真实 • 关键分歧：Scaling law未必适用于世界模型，数据质量>数据规模的新范式可能诞生  这篇播客可能是2025年世界模型竞赛的「"
 resource: "https://x.com/i/status/2034986882044404116"
@@ -22,13 +22,6 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "world-model-paradigm"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2034986882044404116"
-created: "2026-03-20"
-updated: "2026-06-26"
-sha256: "5da1029c65e0f2337d1b2a20bf188a47cfe53a28e09374ce2b5304b3d300f511"
-sources:
-  - "/sources/highlights/2026-03-21/00__lifesinger__玉伯解读谢赛宁-世界模型才是终极形态-llm只是-加工过的沟通.md"
 ---
 
 # 玉伯解读谢赛宁：世界模型才是终极形态，LLM只是「加工过的沟通」

@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "guizang PPT Skills第三套主题来袭：赞助驱动持续迭代"
 description: "**[一句话核心判断]** 开源Skills的可持续性依赖于社区赞助，guizang PPT Skills用收入证明技能封装有商业闭环。  **信息增量：** • 第三套主题即将更新，借鉴了小红书图文卡片的视觉经验 • 赞助驱动更新模式跑通，说明Skill封装本身可以变现  **gakki锐评：** Skills的护城河不是技术，是持续迭代的社区生态和口碑积累。当赞助可以覆盖开发者的维护成本，Sk"
 resource: "https://x.com/i/status/2062558698107797562"
@@ -22,13 +22,6 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "ai-agent-self-sustaining-business"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2062558698107797562"
-created: "2026-06-04"
-updated: "2026-06-26"
-sha256: "7c08e824e395607658a917fe4a0f9fa3272f8360d33d36bc1c409cbb7a431915"
-sources:
-  - "/sources/news/2026-06-04/00__op7418__guizang-ppt-skills第三套主题来袭-赞助驱动持续迭代.md"
 ---
 
 # guizang PPT Skills第三套主题来袭：赞助驱动持续迭代

@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "玉伯揭秘阿里 Qwen 变动：AI 时代「画图纸的人」正在消灭「搬砖的人」"
 description: "**[大厂 AI 团队的核心矛盾：认知通胀 vs 执行萎缩]** • 阿里高层「不缺认知、缺实践」的观察直指 AI 时代悖论：AI 让每个人都能高屋建瓴，却让真正落地的人更难存活 • 「会画图纸的人干掉能实现的人」——Qwen 变动的深层组织逻辑 • 玉伯三年前的离职决策与当下判断形成互文：大厂的人才筛选机制正在系统性奖励「正确的废话」  **gakki 锐评：** 当 AI 让「吹牛成本」趋近于"
 resource: "https://x.com/i/status/2029177072862875840"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2029177072862875840"
-created: "2026-03-04"
-updated: "2026-06-26"
-sha256: "535bcf0faa9bb7c386cd3491ace5de052997dbbf2a43c041cce01f7d196c5ec5"
-sources:
-  - "/sources/news/2026-03-04/00__lifesinger__玉伯揭秘阿里-qwen-变动-ai-时代-画图纸的人-正在消灭-搬砖的人.md"
 ---
 
 # 玉伯揭秘阿里 Qwen 变动：AI 时代「画图纸的人」正在消灭「搬砖的人」

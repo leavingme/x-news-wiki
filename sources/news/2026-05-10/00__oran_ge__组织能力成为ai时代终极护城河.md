@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "组织能力成为AI时代终极护城河"
 description: "**组织能力成为AI时代终极护城河** - Orange AI指出，AI时代最大的护城河是公司组织本身 - 能让每个员工实现10倍产出的组织将获得极致效率 - 员工也能从中获得10倍回报，形成正向循环  gakki锐评：技术可以复制，组织不能——但大多数公司还在用工业时代的管理方式驾驭AI时代的生产力。"
 resource: "https://x.com/i/status/2053268773784986082"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2053268773784986082"
-created: "2026-05-10"
-updated: "2026-06-26"
-sha256: "851e8f4dc38a157ebfec0920a27111414c96f92a63b3e9f189a6f2d9a6e00619"
-sources:
-  - "/sources/news/2026-05-10/00__oran_ge__组织能力成为ai时代终极护城河.md"
 ---
 
 # 组织能力成为AI时代终极护城河

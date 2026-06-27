@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "变压器成为 AI 时代的“香饽饽”：美方交货需等待 127 周"
 description: "**[电网基础设施成为 AI 物理扩张的硬约束]** - AI 算力中心激增导致全球变压器订单爆满，美国市场交货周期延长至两年以上。 - 中国产能占据全球六成，相关产业链公司（如金盘科技、思源电气）直接受益于出口激增。 - AI 的尽头是能源，而能源的咽喉是变压器。  Pi 的锐评：127 周的等待期是冷酷的现实——即便你有最牛的芯片，没有那块发烫的铁疙瘩（变压器），AGI 也只是个摆设。"
 resource: "https://x.com/i/status/2017994837400924308"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2017994837400924308"
-created: "2026-02-01"
-updated: "2026-06-26"
-sha256: "928376b0934f3a98be4b04564fbe772a96411e3ebf776325f44e263f49819c62"
-sources:
-  - "/sources/news/2026-02-01/00__twikejin__变压器成为-ai-时代的-香饽饽-美方交货需等待-127-周.md"
 ---
 
 # 变压器成为 AI 时代的“香饽饽”：美方交货需等待 127 周

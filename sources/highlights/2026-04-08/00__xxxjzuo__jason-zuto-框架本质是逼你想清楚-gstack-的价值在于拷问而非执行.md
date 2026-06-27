@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Jason Zuto：「框架本质是逼你想清楚」，gstack 的价值在于拷问而非执行"
 description: "**【一句话核心判断】** Skill 框架的最大价值不是给 AI 赋能，而是强制人类先把自己的需求想明白——想不清楚就别想用 AI 作弊。  **信息增量：** - 使用 superpower 和 gstack 后汗流浃背的时刻，本质上是自我认知的暴露而非 AI 的拷打 - 这重新定义了 skill 框架的存在意义：不是工具包，是思维强制器 - 「90% 的坑在写代码之前就已经埋下了」，gsta"
 resource: "https://x.com/i/status/2037285304160166138"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2037285304160166138"
-created: "2026-03-26"
-updated: "2026-06-26"
-sha256: "2558472a4a7a7e72a9f86dffa39f1415467046e643ab75440a9a6a159fae7832"
-sources:
-  - "/sources/highlights/2026-04-08/00__xxxjzuo__jason-zuto-框架本质是逼你想清楚-gstack-的价值在于拷问而非执行.md"
 ---
 
 # Jason Zuto：「框架本质是逼你想清楚」，gstack 的价值在于拷问而非执行

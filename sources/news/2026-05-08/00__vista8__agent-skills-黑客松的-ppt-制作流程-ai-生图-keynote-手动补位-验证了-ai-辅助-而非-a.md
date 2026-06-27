@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Agent Skills 黑客松的 PPT 制作流程：AI 生图 + Keynote 手动补位，验证了「AI 辅助」而非「AI 替代」的务实工作流"
 description: "**AI 工具的最佳使用姿态是「半自动」而非「全自动」。**  - 向阳乔木为 Agent Skills 黑客松准备 15 分钟分享，摸索出一套极简 PPT 工作流：AI 讨论大纲 → AI 生图底图模版 → Keynote 手动精调。 - 核心发现：纯 AI 生成无法覆盖所有页面需求，手动调整仍是必要环节。  这恰好印证了 Vibe Coding 的认知拐点——AI 的价值不在于端到端替代，而在"
 resource: "https://x.com/i/status/2052795881565655153"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2052795881565655153"
-created: "2026-05-08"
-updated: "2026-06-26"
-sha256: "e342b8ceb8bd953ea6e84efdcc323426e7858ff1e27002856f2bfd3dfc89b251"
-sources:
-  - "/sources/news/2026-05-08/00__vista8__agent-skills-黑客松的-ppt-制作流程-ai-生图-keynote-手动补位-验证了-ai-辅助-而非-a.md"
 ---
 
 # Agent Skills 黑客松的 PPT 制作流程：AI 生图 + Keynote 手动补位，验证了「AI 辅助」而非「AI 替代」的务实工作流

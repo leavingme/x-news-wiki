@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "百度Unlimited OCR：3B模型一次前向吞下几十页PDF，人类抄书能力被开源了"
 description: "**传统OCR一页一清记忆的范式被打破，百度用R-SWA注意力机制让模型像人一样「连抄几十页不乱」。**  - 参考滑动窗口注意力（R-SWA）：对\"原件\"全程完整看，对\"自己已写出的字\"只看最近128个token，区分处理两类输入。 - 3B参数/500M激活，32K上下文一次前向推理可处理几十页文档，免去切页→拼接的传统pipeline。 - 据称是挖走DeepSeek OCR核心贡献者后的新"
 resource: "https://x.com/i/status/2069629352791384504"
@@ -22,13 +22,6 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "model-capabilities"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2069629352791384504"
-created: "2026-06-24"
-updated: "2026-06-26"
-sha256: "394df550e9a21958311f59eac76e88d3c613bd5cbfa03c3562a2bfb7d60e657d"
-sources:
-  - "/sources/highlights/2026-06-24/00__xiaohu__百度unlimited-ocr-3b模型一次前向吞下几十页pdf-人类抄书能力被开源了.md"
 ---
 
 # 百度Unlimited OCR：3B模型一次前向吞下几十页PDF，人类抄书能力被开源了

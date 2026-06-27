@@ -1,23 +1,17 @@
 ---
-type: "entity"
+type: "Author"
 title: "Unitree (@UnitreeRobotics)"
 description: "X/Twitter 作者 @UnitreeRobotics。共收录 1 条 AI 精选推文。"
 tags:
   - "x-news"
   - "author"
   - "author:UnitreeRobotics"
-timestamp: "2026-06-26T11:53:36.999Z"
+timestamp: "2026-06-27T08:40:40.214Z"
 x_handle: "UnitreeRobotics"
 x_author_name: "Unitree"
 x_tweet_count: 1
 x_first_seen: "2026-05-12T15:52:53.753Z"
 x_last_seen: "2026-05-12T15:52:53.753Z"
-type_okf: "Author"
-created: "2026-05-12"
-updated: "2026-06-26"
-sha256: "fc419e7908cef4091fa801359a356b6f2ff49fb23d37a0f9fd8cad837662bc53"
-sources:
-  - "/sources/news/2026-05-12/00__UnitreeRobotics__unitree-gd01-人控机甲量产就绪-具身智能的商业化-硬门槛-已跨过实验室.md"
 ---
 
 # Unitree (@UnitreeRobotics)

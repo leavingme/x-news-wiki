@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "自然语言爬虫+Claude Code：AI 数据情报采集正在变成「零门槛技能包」"
 description: "**X/Crawl 展示了 AI 数据情报采集的最低门槛路径：** search找人 → scrape抓内容 → Claude Code分析，不需要写爬虫代码。  这意味着「从互联网拿真实数据让AI处理」这个能力，正式从工程师专属变成有执行力的人都能用。电商选品、竞品监测、SEO追踪、内容聚合——所有依赖人工采集的场景都会被替代。  已有 1000 积分注册赠送，跑通验证流程成本接近零。  **g"
 resource: "https://x.com/i/status/2040456047148814705"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2040456047148814705"
-created: "2026-04-04"
-updated: "2026-06-26"
-sha256: "a4bedabcb030a539e788165f90f97b457706bb11b0b762ea9fc04ce69de81d33"
-sources:
-  - "/sources/news/2026-04-05/00__AYi_AInotes__自然语言爬虫-claude-code-ai-数据情报采集正在变成-零门槛技能包.md"
 ---
 
 # 自然语言爬虫+Claude Code：AI 数据情报采集正在变成「零门槛技能包」

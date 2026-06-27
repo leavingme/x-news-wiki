@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "YouMind 1.0 正式发布：宝玉祝贺背后，AI 知识工具赛道再添一员"
 description: "**YouMind 跨过 1.0 门槛，正式与 NotebookLM、Perplexity 同台竞技。**  - 宝玉作为长期观察者送出祝贺，1.0 标志产品从\"可用\"过渡到\"可对外承诺\"。 - 在 AI 知识工具白热化赛道（NotebookLM / Perplexity / YouMind），1.0 是个分水岭——意味着稳定 API、可预期的功能收敛、商业化可能。 - 同期\"产品定义能力成为 A"
 resource: "https://x.com/i/status/2065473530829934958"
@@ -22,13 +22,6 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "ai-knowledge-tool-competition"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2065473530829934958"
-created: "2026-06-12"
-updated: "2026-06-26"
-sha256: "2e45a5ab5b3de7620649e78385db5e905b0a4f6b64ecad3351930eab0b348c53"
-sources:
-  - "/sources/news/2026-06-12/00__dotey__youmind-1-0-正式发布-宝玉祝贺背后-ai-知识工具赛道再添一员.md"
 ---
 
 # YouMind 1.0 正式发布：宝玉祝贺背后，AI 知识工具赛道再添一员

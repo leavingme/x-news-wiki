@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "麻吉Hyperliquid累计亏损3000万美元：加密AI Agent的第一批「真实数据」"
 description: "**【这不是失败案例，是AI交易Agent的第一份真实性能报告】**  麻吉在Hyperliquid累计亏损3114万美元（合约亏损2946万），以去年9月为分界——此前赢多亏少，之后伴随大盘下跌逐步成为「清算之王」。  • **数据价值**：这是目前最完整的AI Agent实盘记录。2025年10月单月亏损6790万——说明即使是Hyperliquid这样的高流动性场所，AI Agent的自主交"
 resource: "https://x.com/i/status/2038444851642212734"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2038444851642212734"
-created: "2026-03-30"
-updated: "2026-06-26"
-sha256: "457b9a71b8a66566eddf6ac82aa5f270546ed69a29b70ae4d82e3a975fde7304"
-sources:
-  - "/sources/news/2026-03-30/00__ai_9684xtpa__麻吉hyperliquid累计亏损3000万美元-加密ai-agent的第一批-真实数据.md"
 ---
 
 # 麻吉Hyperliquid累计亏损3000万美元：加密AI Agent的第一批「真实数据」

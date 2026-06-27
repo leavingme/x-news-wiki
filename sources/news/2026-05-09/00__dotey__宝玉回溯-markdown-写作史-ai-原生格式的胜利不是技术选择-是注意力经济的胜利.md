@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "宝玉回溯 Markdown 写作史：AI 原生格式的胜利不是技术选择，是注意力经济的胜利"
 description: "**Markdown 从写作工具到 AI 原生格式的路径，本质是「格式税」的消亡史。** - 宝玉从 Word/HTML 编辑器的格式纠结经历出发，验证了 Markdown「专注内容」的核心价值 - 这条个人经验恰好印证了 Markdown 作为 AI 原生格式的结构性优势：对人类省认知税，对机器省 token 税 - 其补充观点「Markdown 可以内嵌 HTML 等格式」点出了扩展性的边界："
 resource: "https://x.com/i/status/2052930965719130444"
@@ -22,13 +22,6 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "markdown-ai-native-format"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2052930965719130444"
-created: "2026-05-09"
-updated: "2026-06-26"
-sha256: "744c0d477216a79658ff1b7c30b38ef27dbb12abe8260a725ec40ac377b4b8e8"
-sources:
-  - "/sources/news/2026-05-09/00__dotey__宝玉回溯-markdown-写作史-ai-原生格式的胜利不是技术选择-是注意力经济的胜利.md"
 ---
 
 # 宝玉回溯 Markdown 写作史：AI 原生格式的胜利不是技术选择，是注意力经济的胜利

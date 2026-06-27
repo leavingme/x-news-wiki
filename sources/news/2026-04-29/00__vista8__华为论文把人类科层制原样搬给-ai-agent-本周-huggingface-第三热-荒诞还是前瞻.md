@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "华为论文把人类科层制原样搬给 AI Agent，本周 HuggingFace 第三热——荒诞还是前瞻？"
 description: "**华为一篇将人类组织架构直接套用于 AI Agent 的论文登上 HuggingFace 热榜，暴露了 Agent 编排领域的\"概念过剩\"问题。**  • 论文将人类组织的层级、汇报、KPI 等机制完整复刻到多 Agent 系统，引发\"把人类低效组织结构强加给 AI\"的争议 • 登上 HuggingFace 本周第三热门，说明 Agent 架构方向仍是学术界和工程界共同的关注焦点 • 向阳乔木评"
 resource: "https://x.com/i/status/2049520001884078563"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2049520001884078563"
-created: "2026-04-29"
-updated: "2026-06-26"
-sha256: "1c2925403e6f7aef78bf3fe276696abeb3c0dd110eedc4acc602622affe341b0"
-sources:
-  - "/sources/news/2026-04-29/00__vista8__华为论文把人类科层制原样搬给-ai-agent-本周-huggingface-第三热-荒诞还是前瞻.md"
 ---
 
 # 华为论文把人类科层制原样搬给 AI Agent，本周 HuggingFace 第三热——荒诞还是前瞻？

@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "宝玉定性 AI Slop：开发者反抗的是「AI 写完本人都不看」的 PR 黑洞"
 description: "**[一句话核心判断]** 宝玉澄清：开发者针对截图类问题抵制的是「AI 写完不看就提 PR」的工程态度，而不是 AI 辅助本身。  - 这是一场工程纪律的边界划定：AI 工具是放大器，使用者的「看一眼」动作不能被取消。 - 反驳「针对非专业开发者」的误读：宝玉明确划线，反对的是「AI 写完不审 PR」，不是反对 AI 辅助。 - 与此前 Vibe Coding 死循环、工程债务等议题一脉相承，再"
 resource: "https://x.com/i/status/2068072004029202708"
@@ -22,13 +22,6 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "vibe-coding-cognition-inflection"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2068072004029202708"
-created: "2026-06-19"
-updated: "2026-06-26"
-sha256: "02d87f822ecef1fed242af2ac688cc5b1e84faf3398240f5611f64328b4b2f9e"
-sources:
-  - "/sources/news/2026-06-19/00__dotey__宝玉定性-ai-slop-开发者反抗的是-ai-写完本人都不看-的-pr-黑洞.md"
 ---
 
 # 宝玉定性 AI Slop：开发者反抗的是「AI 写完本人都不看」的 PR 黑洞

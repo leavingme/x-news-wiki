@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "WeClaw+Skills「口喷造物」：小程序的黄昏与Agent-Native应用的黎明"
 description: "**[一句话核心判断]** 玉伯展示了 Agent-Native 应用范式的完整闭环：语音创建 Skill、文件即存储、cron 定时运行——这标志着「千人千面的生活型小应用」从技术上彻底可行。  • **形态跃迁**：小程序需要审核、上架、迭代，而 Skills 是即时生成、即时修改的「个人化数字工具」 • **入口重构**：WeClaw 若打通小程序生态，将完成从「聊天界面」到「操作系统级入口"
 resource: "https://x.com/i/status/2035734573401657566"
@@ -22,13 +22,6 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "agent-native-paradigm"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2035734573401657566"
-created: "2026-03-22"
-updated: "2026-06-26"
-sha256: "7936b7106a1e6afefe20cffe670981302fd8a34092110f944a1c677330207e56"
-sources:
-  - "/sources/highlights/2026-03-23/00__lifesinger__weclaw-skills-口喷造物-小程序的黄昏与agent-native应用的黎明.md"
 ---
 
 # WeClaw+Skills「口喷造物」：小程序的黄昏与Agent-Native应用的黎明

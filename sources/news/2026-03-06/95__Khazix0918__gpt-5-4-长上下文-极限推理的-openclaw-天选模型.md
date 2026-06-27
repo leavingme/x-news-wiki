@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "GPT-5.4：长上下文+极限推理的「OpenClaw 天选模型」"
 description: "**[OpenClaw 生态迎来模型层最强队友]**  • GPT-5.4 在超长上下文（百万级 Token）和极限推理任务上表现突出，与 OpenClaw 的 Agent 编排架构高度适配 • 这意味着复杂多步骤任务（如跨仓库重构、大规模代码迁移）的可靠性将显著提升 • 对开发者而言，「模型能力」与「Agent 编排」的叠加效应正在加速到来  **gakki 锐评**：当模型层开始主动适配 Ag"
 resource: "https://x.com/i/status/2029756593320182092"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 95
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2029756593320182092"
-created: "2026-03-06"
-updated: "2026-06-26"
-sha256: "0a127160b2fe0097698e245737dcfc4eb1c98437ce38a39e598af8558e04bfe8"
-sources:
-  - "/sources/news/2026-03-06/95__Khazix0918__gpt-5-4-长上下文-极限推理的-openclaw-天选模型.md"
 ---
 
 # GPT-5.4：长上下文+极限推理的「OpenClaw 天选模型」

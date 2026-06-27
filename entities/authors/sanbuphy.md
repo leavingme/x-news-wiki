@@ -1,23 +1,17 @@
 ---
-type: "entity"
+type: "Author"
 title: "Sanbu (@sanbuphy)"
 description: "X/Twitter 作者 @sanbuphy。共收录 1 条 AI 精选推文。"
 tags:
   - "x-news"
   - "author"
   - "author:sanbuphy"
-timestamp: "2026-06-26T11:53:36.973Z"
+timestamp: "2026-06-27T08:40:40.190Z"
 x_handle: "sanbuphy"
 x_author_name: "Sanbu"
 x_tweet_count: 1
 x_first_seen: "2026-04-05T02:14:39.775Z"
 x_last_seen: "2026-04-05T02:14:39.775Z"
-type_okf: "Author"
-created: "2026-04-05"
-updated: "2026-06-26"
-sha256: "26408528cb3b3a9c659b5cd84bfbebae8c96fdf41e8c2ef6ff31ca974d4e5c4d"
-sources:
-  - "/sources/news/2026-04-05/00__sanbuphy__github-仓库-voltagent-awesome-design-md-设计系统正变成纯文本协议.md"
 ---
 
 # Sanbu (@sanbuphy)

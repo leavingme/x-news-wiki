@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "SpaceX 以 1.77 万亿美元估值 IPO：人类历史最大规模融资"
 description: "**[SpaceX 即将创造人类资本史上最大 IPO，马斯克将成为全球首位万亿富翁]**  SpaceX 周三向 SEC 提交修订文件，宣布以每股 $135 固定价格发行 5.556 亿股 A 类股票，融资 $750 亿，整体估值 $1.77 万亿。这将是人类历史上规模最大的 IPO，使 SpaceX 成为美国第七大上市公司，超越特斯拉的 $1.6 万亿市值。马斯克个人持股价值将达 $8410 亿"
 resource: "https://x.com/i/status/2062351421035737589"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2062351421035737589"
-created: "2026-06-04"
-updated: "2026-06-26"
-sha256: "9df7a1d965f3a7792d6077b9505f8ab5e211dd6422aaaaeffcc7051b5b901ae6"
-sources:
-  - "/sources/highlights/2026-06-04/00__xiaohu__spacex-以-1-77-万亿美元估值-ipo-人类历史最大规模融资.md"
 ---
 
 # SpaceX 以 1.77 万亿美元估值 IPO：人类历史最大规模融资

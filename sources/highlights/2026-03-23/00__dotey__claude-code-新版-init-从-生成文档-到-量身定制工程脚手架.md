@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Claude Code 新版 /init：从「生成文档」到「量身定制工程脚手架」"
 description: "**[Claude Code 向「工程化 Agent」再进一步]** • 新版 /init 增加互动选项，不仅生成 CLAUDE.md，还能自动添加 hooks 和 skills • 信号：Anthropic 正在把 Claude Code 从「代码编辑器」重构为「项目级工程助手」 • 影响：降低团队接入 Claude Code 的门槛，标准化工程实践有望形成  gakki 锐评：这是 Claud"
 resource: "https://x.com/i/status/2035816571084349902"
@@ -22,13 +22,6 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "claude-code-ecosystem"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2035816571084349902"
-created: "2026-03-22"
-updated: "2026-06-26"
-sha256: "64280119c1aeb1323f7d6af4647d5f450e135f6ece77ebe2462617d4acae728c"
-sources:
-  - "/sources/highlights/2026-03-23/00__dotey__claude-code-新版-init-从-生成文档-到-量身定制工程脚手架.md"
 ---
 
 # Claude Code 新版 /init：从「生成文档」到「量身定制工程脚手架」

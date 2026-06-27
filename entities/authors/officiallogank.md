@@ -1,24 +1,17 @@
 ---
-type: "entity"
+type: "Author"
 title: "Logan Kilpatrick (@OfficialLoganK)"
 description: "X/Twitter 作者 @OfficialLoganK。共收录 2 条 AI 精选推文。"
 tags:
   - "x-news"
   - "author"
   - "author:OfficialLoganK"
-timestamp: "2026-06-26T11:53:36.990Z"
+timestamp: "2026-06-27T08:40:40.202Z"
 x_handle: "OfficialLoganK"
 x_author_name: "Logan Kilpatrick"
 x_tweet_count: 2
 x_first_seen: "2026-04-27T04:17:56.804Z"
 x_last_seen: "2026-05-06T19:18:13.642Z"
-type_okf: "Author"
-created: "2026-04-27"
-updated: "2026-06-26"
-sha256: "2a285cc296a0f1aa9107571bdf756736cb0a6113ee3b73c4afefbeefaa1eb6c0"
-sources:
-  - "/sources/news/2026-04-27/00__OfficialLoganK__logan-kilpatrick-每家ai公司都应自建benchmark-这是最被低估的护城河.md"
-  - "/sources/news/2026-05-06/00__OfficialLoganK__gemini-api-file-search-升级多模态-免费存储-嵌入生成-agent-感知层基础设施又近一步.md"
 ---
 
 # Logan Kilpatrick (@OfficialLoganK)

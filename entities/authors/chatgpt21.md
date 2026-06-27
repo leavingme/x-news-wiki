@@ -1,23 +1,17 @@
 ---
-type: "entity"
+type: "Author"
 title: "Chris (@chatgpt21)"
 description: "X/Twitter 作者 @chatgpt21。共收录 1 条 AI 精选推文。"
 tags:
   - "x-news"
   - "author"
   - "author:chatgpt21"
-timestamp: "2026-06-26T11:53:36.999Z"
+timestamp: "2026-06-27T08:40:40.214Z"
 x_handle: "chatgpt21"
 x_author_name: "Chris"
 x_tweet_count: 1
 x_first_seen: "2026-05-11T01:18:15.381Z"
 x_last_seen: "2026-05-11T01:18:15.381Z"
-type_okf: "Author"
-created: "2026-05-11"
-updated: "2026-06-26"
-sha256: "4fa431235fb3e8c4b2e37360ef31a53907ccc5b0a7b9216ab281d173baeb8a4b"
-sources:
-  - "/sources/highlights/2026-05-11/00__chatgpt21__codex-自主接单赚到第一笔钱-agent-经济自主权从概念走向实证.md"
 ---
 
 # Chris (@chatgpt21)

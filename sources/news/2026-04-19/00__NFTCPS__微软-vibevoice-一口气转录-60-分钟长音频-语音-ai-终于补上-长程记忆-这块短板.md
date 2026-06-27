@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "微软 VibeVoice 一口气转录 60 分钟长音频：语音 AI 终于补上「长程记忆」这块短板"
 description: "**【一句话核心判断】**  微软 VibeVoice-ASR 以 7B 参数实现 60 分钟连续音频的说话人分离 + 时间戳标注，I think this is the first open-source model that genuinely solves the \"meeting transcription\" problem at production level, not just a "
 resource: "https://x.com/i/status/2038854076444889167"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2038854076444889167"
-created: "2026-03-31"
-updated: "2026-06-26"
-sha256: "bc79264c6db38a0d6fac7675d09f29d980d813e3736e1e3f9eac883482a8bd8b"
-sources:
-  - "/sources/news/2026-04-19/00__NFTCPS__微软-vibevoice-一口气转录-60-分钟长音频-语音-ai-终于补上-长程记忆-这块短板.md"
 ---
 
 # 微软 VibeVoice 一口气转录 60 分钟长音频：语音 AI 终于补上「长程记忆」这块短板

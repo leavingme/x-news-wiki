@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "微信小红书抖音集体不支持粘贴上传：平台正在用产品惯性对抗AI工作流"
 description: "**一句话核心判断：三大平台同时缺失这个交互细节，暴露的不是技术问题，是平台对创作者效率工具的结构性漠视。**  - 粘贴上传图片是 AI 内容生产流水线的最高频操作之一（截图→AI处理→发布），平台不提供此功能意味着强制创作者绕过官方工具。 - 油猴脚本能解决说明这不是技术壁垒而是产品优先级问题——平台宁可让用户流失到浏览器插件，也不愿在官方 App 里加这个功能。 - 这给 AI 内容工具留了"
 resource: "https://x.com/i/status/2056747956406272207"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2056747956406272207"
-created: "2026-05-19"
-updated: "2026-06-26"
-sha256: "0a5d4b3fb96afddf2667a64ebcb427e35432ce143a83963e555994413f6985c6"
-sources:
-  - "/sources/news/2026-05-19/00__vista8__微信小红书抖音集体不支持粘贴上传-平台正在用产品惯性对抗ai工作流.md"
 ---
 
 # 微信小红书抖音集体不支持粘贴上传：平台正在用产品惯性对抗AI工作流

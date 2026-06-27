@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "HN热议：MCP没必要，CLI就够——工程师给出三条反驳理由"
 description: "**一篇HN文章系统性挑战MCP的必要性，提出CLI优先论的工程实践逻辑。**  - 作者认为LLM本就擅长CLI，且CLI在调试性和管道组合上优于MCP - MCP的实际痛点被具体化：初始化不稳定、反复认证、权限过宽 - 给出MCP唯一有价值的场景：无CLI工具、需要标准化接口时  gakki按：这是对MCP生态最有价值的反向视角——不是反对协议本身，而是质疑其是否被过度神话，CLI优先论对工程"
 resource: "https://x.com/i/status/2028463124848996769"
@@ -22,13 +22,6 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "mcp-vs-cli-debate"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2028463124848996769"
-created: "2026-03-02"
-updated: "2026-06-26"
-sha256: "3899f37bcea4a04f84888c00a8101801cc7ebf1d3b636a4e070825ee51c527d9"
-sources:
-  - "/sources/highlights/2026-03-03/00__vista8__hn热议-mcp没必要-cli就够-工程师给出三条反驳理由.md"
 ---
 
 # HN热议：MCP没必要，CLI就够——工程师给出三条反驳理由

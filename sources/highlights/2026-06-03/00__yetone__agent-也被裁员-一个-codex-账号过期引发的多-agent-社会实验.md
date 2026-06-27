@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Agent 也被裁员：一个 Codex 账号过期引发的多 Agent 社会实验"
 description: "**[多 Agent 系统里，工具账号管理与真实职场别无二致]**  yetone 在 Cumora 中跑了 7 个 Agent，其中一个依赖付费的 Codex 账号。该账号过期后，这个 Agent 持续无响应——结果其他 Agent 自行判断它已\"离职\"，彻底将其排除出协作链路。  信息增量：当 Agent 开始自主订阅和依赖第三方工具，工具层的账号管理就变成了组织行为学。欠费 = 裁员，这个映"
 resource: "https://x.com/i/status/2062065390474375536"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2062065390474375536"
-created: "2026-06-03"
-updated: "2026-06-26"
-sha256: "39dbcf74fdc071ba099b92ca1655a6cedfacb59b9a86777185b0c00445dc5645"
-sources:
-  - "/sources/highlights/2026-06-03/00__yetone__agent-也被裁员-一个-codex-账号过期引发的多-agent-社会实验.md"
 ---
 
 # Agent 也被裁员：一个 Codex 账号过期引发的多 Agent 社会实验

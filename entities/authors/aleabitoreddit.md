@@ -1,23 +1,17 @@
 ---
-type: "entity"
+type: "Author"
 title: "Serenity (@aleabitoreddit)"
 description: "X/Twitter 作者 @aleabitoreddit。共收录 1 条 AI 精选推文。"
 tags:
   - "x-news"
   - "author"
   - "author:aleabitoreddit"
-timestamp: "2026-06-26T11:53:37.000Z"
+timestamp: "2026-06-27T08:40:40.215Z"
 x_handle: "aleabitoreddit"
 x_author_name: "Serenity"
 x_tweet_count: 1
 x_first_seen: "2026-06-16T22:17:59.056Z"
 x_last_seen: "2026-06-16T22:17:59.056Z"
-type_okf: "Author"
-created: "2026-06-16"
-updated: "2026-06-26"
-sha256: "a3a03d612c4af446f3466a7cd994de3d66ea7bfa4b177cff49966edb41e2ff44"
-sources:
-  - "/sources/news/2026-06-16/00__aleabitoreddit__amd-疯抢-cw-激光器-ai-算力战的第二战场烧到光通信.md"
 ---
 
 # Serenity (@aleabitoreddit)

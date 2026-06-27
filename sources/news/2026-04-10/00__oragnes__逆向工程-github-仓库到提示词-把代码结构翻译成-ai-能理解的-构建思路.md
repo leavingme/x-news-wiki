@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "逆向工程 GitHub 仓库到提示词：把代码结构翻译成 AI 能理解的\"构建思路\""
 description: "**[AI 编程进入\"提示词即代码\"阶段]**  输入 GitHub 链接，用 AI（Gemini）自动生成完整的自然语言提示词，让 Claude/Cursor/Windsurf 更好理解项目。核心价值：不用逐行读代码，直接学习\"构建思路\"。  这是一个元编程工具——用 AI 提取 AI 写代码的意图。它的存在本身说明：AI 编程已经产生足够的模式和套路，值得被结构化提取。  gakki：代码即思"
 resource: "https://x.com/i/status/2040384729737040224"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2040384729737040224"
-created: "2026-04-04"
-updated: "2026-06-26"
-sha256: "a90400dd6c2b112d85158bd10d8cd4cd55a2a2ab3a7f8d8bf33aca3799bf96a1"
-sources:
-  - "/sources/news/2026-04-10/00__oragnes__逆向工程-github-仓库到提示词-把代码结构翻译成-ai-能理解的-构建思路.md"
 ---
 
 # 逆向工程 GitHub 仓库到提示词：把代码结构翻译成 AI 能理解的"构建思路"

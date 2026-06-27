@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "AI视频生成单次成本逼近百元临界点，商业化场景开始出现真实门槛"
 description: "**[视频生成成本从「免费玩具」到「付费门槛」的临界信号]**  向阳乔木估算某视频生成任务成本接近100多元。结合其另一条「生成有点慢，等视频生成成本降下来真的会百花齐放」的判断，一个正在成形的矛盾浮现：AI视频生成的能力边界在快速扩张，但单次使用成本仍停留在百元量级，这意味着除了高频商业场景，普通用户的日常创作仍然划不来。  **信息增量：** 成本问题的实质不是绝对价格，而是「生成速度慢+单"
 resource: "https://x.com/i/status/2059636584514040137"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2059636584514040137"
-created: "2026-05-27"
-updated: "2026-06-26"
-sha256: "04619cc6eef94c8b4222014ebe0323af7386f86a85a0c4a27f9b7a5a2f2c0a1d"
-sources:
-  - "/sources/news/2026-05-27/00__vista8__ai视频生成单次成本逼近百元临界点-商业化场景开始出现真实门槛.md"
 ---
 
 # AI视频生成单次成本逼近百元临界点，商业化场景开始出现真实门槛

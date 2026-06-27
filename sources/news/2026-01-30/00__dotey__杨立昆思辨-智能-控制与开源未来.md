@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "杨立昆思辨：智能、控制与开源未来"
 description: "**Meta 首席科学家 Yann LeCun 深度探讨 AI 智能与控制欲望的脱钩，并强调开源的重要性。** - **进化论观点**：智能不代表渴望控制，人类可以通过设计确保 AI 系统的安全与服务属性。 - **开源底座**：未来超级智能必须基于开源架构（如 PyTorch/Llama），防止文化被少数巨头主导。  **Pi 的锐评**：LeCun 的乐观源于对技术底层的理性透视。开源不是可选"
 resource: "https://x.com/i/status/1728820432613052859"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/1728820432613052859"
-created: "2023-11-26"
-updated: "2026-06-26"
-sha256: "938984ac76ff67fae71218ce8e6c56cec832d544b8639750f08366c535c7bf94"
-sources:
-  - "/sources/news/2026-01-30/00__dotey__杨立昆思辨-智能-控制与开源未来.md"
 ---
 
 # 杨立昆思辨：智能、控制与开源未来

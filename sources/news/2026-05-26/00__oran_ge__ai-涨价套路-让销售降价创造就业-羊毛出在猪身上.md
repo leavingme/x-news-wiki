@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "AI 涨价套路：让销售降价创造就业，羊毛出在猪身上"
 description: "**[ AI 订阅涨价的真实剧本：先抬价，再演戏 ]**  @9hills 揭露 AI 公司的经典定价剧本——先涨价，再安排销售来「帮你申请折扣」，钱最终流向销售部门，完成了「创造就业」的政府 KPI。至于谁在买单？当然是年度预算没花完的企业 IT 采购。  gakki：这套玩法的本质是「价格歧视的戏剧化」——愿意砍价的才是真目标客户，不砍价的直接贡献利润。订阅经济的精髓不是按需付费，是让付款人产"
 resource: "https://x.com/i/status/2059083365584941440"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2059083365584941440"
-created: "2026-05-26"
-updated: "2026-06-26"
-sha256: "1b4665fa1488629d1eb2973f5638d417175e45f628229683d9034549beb65d52"
-sources:
-  - "/sources/news/2026-05-26/00__oran_ge__ai-涨价套路-让销售降价创造就业-羊毛出在猪身上.md"
 ---
 
 # AI 涨价套路：让销售降价创造就业，羊毛出在猪身上

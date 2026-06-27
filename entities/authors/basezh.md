@@ -1,23 +1,17 @@
 ---
-type: "entity"
+type: "Author"
 title: "Base中文台 (@basezh)"
 description: "X/Twitter 作者 @basezh。共收录 1 条 AI 精选推文。"
 tags:
   - "x-news"
   - "author"
   - "author:basezh"
-timestamp: "2026-06-26T11:53:36.947Z"
+timestamp: "2026-06-27T08:40:40.156Z"
 x_handle: "basezh"
 x_author_name: "Base中文台"
 x_tweet_count: 1
 x_first_seen: "2026-02-27T01:10:41.191Z"
 x_last_seen: "2026-02-27T01:10:41.191Z"
-type_okf: "Author"
-created: "2026-02-27"
-updated: "2026-06-26"
-sha256: "58f355bb697a1227dc62d0b0f50ab0e82aea5f41ad4ebcab1aa9a51b0a6afbbc"
-sources:
-  - "/sources/highlights/2026-02-27/00__basezh__agent-经济基建突破-base-链-fxusd-接入-x402-协议实现-ai-原生支付.md"
 ---
 
 # Base中文台 (@basezh)

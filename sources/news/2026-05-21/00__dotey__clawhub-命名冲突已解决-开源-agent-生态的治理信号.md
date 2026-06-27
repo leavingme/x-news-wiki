@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "ClawHub 命名冲突已解决：开源 Agent 生态的治理信号"
 description: "**一句话核心判断：** ClawHub 名称被占用问题得到官方快速响应，说明 OpenClaw 生态已建立基础的名称/声誉纠纷处理机制，这对开源社区的健康发展是正面信号。  **要点：** - 问题涉及 @chenjingtalk @pat_erichsen @steipete 三方协同，响应速度快 - 反映了 Agent 生态从野蛮生长开始向规范化过渡  **gakki 锐评：** 命名冲突是"
 resource: "https://x.com/i/status/2057516627587912119"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2057516627587912119"
-created: "2026-05-21"
-updated: "2026-06-26"
-sha256: "78444a653f479c2fd1c404cc2a61cbdadc89f3c7002fc87b028764f9139da5fe"
-sources:
-  - "/sources/news/2026-05-21/00__dotey__clawhub-命名冲突已解决-开源-agent-生态的治理信号.md"
 ---
 
 # ClawHub 命名冲突已解决：开源 Agent 生态的治理信号

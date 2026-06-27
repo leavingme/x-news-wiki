@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "认知带宽决定代理层级：每人最多 7 个主 Agent，子 Agent 控制在 -2 级"
 description: "**[向阳乔木提出 Agent 使用的认知带宽天花板理论]**  - 从人认知带宽出发预测：每人常用不超过 7 个主 Agent，由主 Agent 驱动子 Agent 协作，人最多直接干预到 -2 级。 - 强调微操感和掌控感是人保留子 Agent 交互权的核心心理需求。 - 用单一 Agent 搞定所有事不现实——这是对「超级 App 级 Agent」叙事的实质性反驳。  [gakki] 7 个"
 resource: "https://x.com/i/status/2048529357828923398"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2048529357828923398"
-created: "2026-04-26"
-updated: "2026-06-26"
-sha256: "8ac09a84a80bb711a31e55548330b5df2f23bce8192c9e25a71b6b1c857a6681"
-sources:
-  - "/sources/news/2026-04-27/00__vista8__认知带宽决定代理层级-每人最多-7-个主-agent-子-agent-控制在-2-级.md"
 ---
 
 # 认知带宽决定代理层级：每人最多 7 个主 Agent，子 Agent 控制在 -2 级

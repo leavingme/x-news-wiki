@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "GPT image-2 全量上线：图像生成质量进入「恐怖谷」前的最后一步"
 description: "**一句话核心判断：GPT image-2 全量推送，图像质量和文档解读能力证明多模态生成正在跨越恐怖谷，内容生产链路的最后一公里被攻破。**  - 第一张图展示大语言模型训练过程解释，可爱风格解释LLM原理，细节和准确性兼备 - 第二张图直接解析OpenAI更新文档，输出信息图谱，图表质量和专业度超出预期 - 值得注意的是，同一模型同时驾驭「可爱科普」和「专业文档解读」两种截然不同的风格  苹果"
 resource: "https://x.com/i/status/2046502136973001143"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2046502136973001143"
-created: "2026-04-21"
-updated: "2026-06-26"
-sha256: "cbc84ff51f16ee6638fff00ff95a3e3f67e137b4208529bf3d6d99cff077d6c1"
-sources:
-  - "/sources/highlights/2026-04-21/00__op7418__gpt-image-2-全量上线-图像生成质量进入-恐怖谷-前的最后一步.md"
 ---
 
 # GPT image-2 全量上线：图像生成质量进入「恐怖谷」前的最后一步

@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "编译器验证协议：让 AI Agent 在真实世界执行可被形式化证明"
 description: "**「Towards Autonomous Biology」提出用编译器验证的协议作为 AI 真实世界执行的基础——把 Agent 行为从「试出来」变成「证出来」。**  • 论文核心：用形式化方法对 AI 执行协议做编译器级验证，目标是让 Agent 在生物学等高风险场景中具备可证明的安全边界 • 思路与传统 RLHF / Constitutional AI 不同——不再依赖人类偏好对齐，而是依"
 resource: "https://x.com/i/status/2069323731621847382"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2069323731621847382"
-created: "2026-06-23"
-updated: "2026-06-26"
-sha256: "75506acff6fb27a84054535ffe44ef158ab758d7ef75ec5d99466f023d44007a"
-sources:
-  - "/sources/news/2026-06-23/00__jiqizhixin__编译器验证协议-让-ai-agent-在真实世界执行可被形式化证明.md"
 ---
 
 # 编译器验证协议：让 AI Agent 在真实世界执行可被形式化证明

@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "宝玉勘误 Codex Steer 快捷键：Mac 用户注意 Command + 回车而非 Ctrl"
 description: "**[键盘快捷键勘误，需即时更新操作习惯]**  - Codex 中 Steer（引导）功能的快捷键应为 Command + 回车（Mac 系统），非 Ctrl + 回车 - 该勘误由宝玉本人发布，权威度较高 - 快捷键错误会影响 CLI 高频用户操作节奏    gakki：快捷键类细节错误是最容易被忽视的效率杀手，尤其在 CLI 工具链中，一个键位差异累积下来是可观的时间损耗。此类勘误传播价值高"
 resource: "https://x.com/i/status/2057308737807794655"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2057308737807794655"
-created: "2026-05-21"
-updated: "2026-06-26"
-sha256: "dce1c93cf46a353b54540165f4f1d374d534768d04868f71f0d8cb235c2679e5"
-sources:
-  - "/sources/news/2026-05-21/00__dotey__宝玉勘误-codex-steer-快捷键-mac-用户注意-command-回车而非-ctrl.md"
 ---
 
 # 宝玉勘误 Codex Steer 快捷键：Mac 用户注意 Command + 回车而非 Ctrl

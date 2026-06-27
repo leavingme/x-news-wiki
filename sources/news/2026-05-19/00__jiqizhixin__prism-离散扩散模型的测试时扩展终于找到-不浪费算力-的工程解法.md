@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "PRISM：离散扩散模型的测试时扩展终于找到「不浪费算力」的工程解法"
 description: "**一句话核心判断：** PRISM 提出分层搜索 + 局部分支 + 自验证的组合，首次让离散扩散语言模型在数学推理和代码生成任务上以更低计算代价追上 Best-of-N 基线。  **信息增量：** - 来自 NUS、Georgia Tech 等机构的联合研究，针对 dLLM 的测试时扩展难题给出具体工程路径 - 核心突破：早停（early pruning）机制避免了在低质量 token 上的无"
 resource: "https://x.com/i/status/2056802316129321168"
@@ -22,13 +22,6 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "reasoning-and-model-architecture"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2056802316129321168"
-created: "2026-05-19"
-updated: "2026-06-26"
-sha256: "1dea08910d3f762f729209b5be4b274806b7d26079f8c5cdb05317d7f8b793c8"
-sources:
-  - "/sources/news/2026-05-19/00__jiqizhixin__prism-离散扩散模型的测试时扩展终于找到-不浪费算力-的工程解法.md"
 ---
 
 # PRISM：离散扩散模型的测试时扩展终于找到「不浪费算力」的工程解法

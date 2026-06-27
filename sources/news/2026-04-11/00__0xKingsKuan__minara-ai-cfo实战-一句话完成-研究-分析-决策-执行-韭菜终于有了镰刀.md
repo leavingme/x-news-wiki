@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Minara AI CFO实战：一句话完成「研究→分析→决策→执行」，韭菜终于有了镰刀"
 description: "**[一句话核心判断]**  Circle 投资、NFTGo 团队打造的 Minara AI，把「个人 AI CFO」从概念变成可用产品——真正能执行交易流程的 Agent，而非只是聊天框。  **信息增量：** - 实时聚合 50+ 数据源（链上、新闻、社交、宏观），这是信息密度的质变 - No-Code Agentic Workflow：用自然语言描述需求，自动生成多节点工作流，24/7 自动"
 resource: "https://x.com/i/status/2037161367523012839"
@@ -22,13 +22,6 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "ai-agent-crypto-infra"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2037161367523012839"
-created: "2026-03-26"
-updated: "2026-06-26"
-sha256: "3f5ee96887af129ccca9703a2bcc3eea34b62c9c13ec3af08467148c246e7467"
-sources:
-  - "/sources/news/2026-04-11/00__0xKingsKuan__minara-ai-cfo实战-一句话完成-研究-分析-决策-执行-韭菜终于有了镰刀.md"
 ---
 
 # Minara AI CFO实战：一句话完成「研究→分析→决策→执行」，韭菜终于有了镰刀

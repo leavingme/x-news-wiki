@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "LLM 情感结构「发现」而非「发明」：哈佛/UCSD/NTT 证实层级情感树与心理模型同构"
 description: "**【LLM 情感认知的「发现时刻」——模型越大，树越复杂，但偏差也越系统】**  哈佛、UCSD、NTT 联合研究揭示：LLM 会自发形成层级情感树状结构，且该结构与心理学经典情感模型高度吻合。大模型比小模型构建更复杂的情感层级——这不是被训练出来的，而是「涌现」的。  但硬币的另一面同样清晰：模型对边缘群体的情感误分类是系统性的，镜像了人类社会固有的感知偏见。AI 的情感推理能力与缺陷是一枚硬"
 resource: "https://x.com/i/status/2057181564795297985"
@@ -22,13 +22,6 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "human-ai-emotional-boundary"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2057181564795297985"
-created: "2026-05-20"
-updated: "2026-06-26"
-sha256: "24d8b9ad1ab97d9ba92547ea0cfc02cfa9caffb4aa2c8ff08a20e080d12bd189"
-sources:
-  - "/sources/news/2026-05-20/00__jiqizhixin__llm-情感结构-发现-而非-发明-哈佛-ucsd-ntt-证实层级情感树与心理模型同构.md"
 ---
 
 # LLM 情感结构「发现」而非「发明」：哈佛/UCSD/NTT 证实层级情感树与心理模型同构

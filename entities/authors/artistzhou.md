@@ -1,23 +1,17 @@
 ---
-type: "entity"
+type: "Author"
 title: "Artist (@ArtistZhou)"
 description: "X/Twitter 作者 @ArtistZhou。共收录 1 条 AI 精选推文。"
 tags:
   - "x-news"
   - "author"
   - "author:ArtistZhou"
-timestamp: "2026-06-26T11:53:36.950Z"
+timestamp: "2026-06-27T08:40:40.159Z"
 x_handle: "ArtistZhou"
 x_author_name: "Artist"
 x_tweet_count: 1
 x_first_seen: "2026-03-03T01:07:04.843Z"
 x_last_seen: "2026-03-03T01:07:04.843Z"
-type_okf: "Author"
-created: "2026-03-03"
-updated: "2026-06-26"
-sha256: "73ec4114aafee92ac299f79300d25076884f149b6b92dc5ee3091c12458be774"
-sources:
-  - "/sources/news/2026-03-03/00__ArtistZhou__anthropic开源官方硬核课程-生态标准制定者下场-ai培训行业面临重构.md"
 ---
 
 # Artist (@ArtistZhou)

@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "刘小排\"AI让人变超人\"论调流行：AI崇拜期的认知集体降维"
 description: "**[超人叙事掩盖了AI作为工具的平庸本质]**  \"用了AI会变成超人\"这类表述在中文AI社区广泛传播。真正值得警惕的不是AI的能力边界，而是用户将AI能力误判为自身能力的认知错位——这种错位会导致决策质量下降而非提升。"
 resource: "https://x.com/i/status/2059214609224229215"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2059214609224229215"
-created: "2026-05-26"
-updated: "2026-06-26"
-sha256: "92b34b1fe637cc9022b4f8e0edf20366f9d34bf2eb950f95b9ff6516caf4a2c6"
-sources:
-  - "/sources/news/2026-05-26/00__bourneliu66__刘小排-ai让人变超人-论调流行-ai崇拜期的认知集体降维.md"
 ---
 
 # 刘小排"AI让人变超人"论调流行：AI崇拜期的认知集体降维

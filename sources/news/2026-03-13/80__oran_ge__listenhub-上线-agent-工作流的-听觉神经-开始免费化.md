@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "ListenHub 上线：Agent 工作流的「听觉神经」开始免费化"
 description: "**[ASR 基础设施的零成本化，正在降低 Agent 感知现实世界的门槛]**  • Orange AI 团队推出本地离线 ASR，无限免费、无需 API Key，专为 Claude Code 和龙虾等 Agent 场景设计——双模型方案（SenseVoice 多语言 / Whisper-tiny.en 纯英文）覆盖主流需求 • 配合 ffmpeg 支持多格式音频，转录后可无缝衔接 Podcas"
 resource: "https://x.com/i/status/2032384195855868310"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 80
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2032384195855868310"
-created: "2026-03-13"
-updated: "2026-06-26"
-sha256: "362185f73c9a197539a65ee9fa99634a9a8edb51ef9fda4537e18db386137e27"
-sources:
-  - "/sources/news/2026-03-13/80__oran_ge__listenhub-上线-agent-工作流的-听觉神经-开始免费化.md"
 ---
 
 # ListenHub 上线：Agent 工作流的「听觉神经」开始免费化

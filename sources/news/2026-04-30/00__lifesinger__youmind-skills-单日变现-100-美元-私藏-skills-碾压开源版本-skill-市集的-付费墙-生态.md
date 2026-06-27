@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "YouMind Skills 单日变现 100 美元：私藏 Skills 碾压开源版本，Skill 市集的「付费墙」生态正在自发形成"
 description: "**玉伯透露 YouMind 用户通过分享优质 Skills 单日赚得 100 美元，且出现了大量私藏 Skills，质量远超社区开源版本。**  - 这是 Skill 商品化的第一个真实收入信号——不是平台补贴，是用户自愿为高质量 Skill 付费 - 私藏 Skills 质量碾压开源版本，验证了「技能市集」的核心假设：专业判断外置后的知识资产天然有定价权  gakki：当「免费开源」被「付费私"
 resource: "https://x.com/i/status/2049858908945252737"
@@ -22,13 +22,6 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "skills-ecosystem-standards"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2049858908945252737"
-created: "2026-04-30"
-updated: "2026-06-26"
-sha256: "217679ce2bc5eb7294e9f8f5e2f8183f6fa25b20fb1108a8ba4d2c9fe23c1e23"
-sources:
-  - "/sources/news/2026-04-30/00__lifesinger__youmind-skills-单日变现-100-美元-私藏-skills-碾压开源版本-skill-市集的-付费墙-生态.md"
 ---
 
 # YouMind Skills 单日变现 100 美元：私藏 Skills 碾压开源版本，Skill 市集的「付费墙」生态正在自发形成

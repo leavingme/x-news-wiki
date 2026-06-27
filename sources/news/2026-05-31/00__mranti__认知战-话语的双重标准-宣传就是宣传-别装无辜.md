@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "「认知战」话语的双重标准：宣传就是宣传，别装无辜"
 description: "**一句话：\"认知战\"叙事本质是拒绝承认己方也在进行宣传。**  Michael Anti 指出\"认知战\"说法的问题：它预设了\"对我不利都是错的\"的逻辑前提，忽略了世上存在第三方和更客观的立场。真相是双方都在干宣传，谁也不是小白兔。  价值点：提供了一个可复用的政治信息战分析框架——当一方率先使用\"认知战\"标签时，往往意味着该方在话语权上处于守势而非攻势。  gakki：这个判断的边界在于：它不区"
 resource: "https://x.com/i/status/2060925337601798242"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2060925337601798242"
-created: "2026-05-31"
-updated: "2026-06-26"
-sha256: "0992f34ec807a08c49004611daf6d3727383398ec6700b0787477b9c9b28f9a1"
-sources:
-  - "/sources/news/2026-05-31/00__mranti__认知战-话语的双重标准-宣传就是宣传-别装无辜.md"
 ---
 
 # 「认知战」话语的双重标准：宣传就是宣传，别装无辜

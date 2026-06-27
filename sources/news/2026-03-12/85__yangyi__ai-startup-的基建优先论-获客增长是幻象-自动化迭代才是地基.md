@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "AI Startup 的基建优先论：获客增长是幻象，自动化迭代才是地基"
 description: "**Claude Code 时代的工程纪律清单。**  • 核心基建六件套：Claude.md 规范、渐进式文档、自动化 Sprint、90%+ 测试覆盖、GitHub Actions、CI/CD 联动飞书 • 这不是「更好」的工程实践，而是 Agent 可接管项目的前提条件——Agent 只能在有纪律的代码库上持续迭代 • 下一步才是 Reverb Marketing：产品成熟后的增长飞轮  一"
 resource: "https://x.com/i/status/2027201866724249642"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 85
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2027201866724249642"
-created: "2026-02-27"
-updated: "2026-06-26"
-sha256: "b5ec2e4e0d4b75a4c4b0acaade578f12e3b0857c982e512ff42a6e339f0b9c39"
-sources:
-  - "/sources/news/2026-03-12/85__yangyi__ai-startup-的基建优先论-获客增长是幻象-自动化迭代才是地基.md"
 ---
 
 # AI Startup 的基建优先论：获客增长是幻象，自动化迭代才是地基

@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "QClaw 把 OpenClaw 包成 30 秒上手产品：开源 Agent 的「最后一公里」终于有人走了"
 description: "**开源 Agent 的产品化缺口正在被填上。**  - QClaw 本质是 OpenClaw 的产品封装层：下载安装 30 秒完成，扫码连接 Telegram/Discord/Slack，手机发任务、电脑端执行，把偏技术的开源 Agent 变成普通人可触达的工具 - 内置官方技能库 + 支持调用本地已有技能，与 Claude Code 和 Codex 形成互补而非替代关系 - 定位清晰：不是重建"
 resource: "https://x.com/i/status/2052016281977798995"
@@ -22,13 +22,6 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "agent-deployment-service"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2052016281977798995"
-created: "2026-05-06"
-updated: "2026-06-26"
-sha256: "53812f985311d0eb96f7971cf8455689799c80fd74ebf1f3763bddc777a37977"
-sources:
-  - "/sources/news/2026-05-06/00__xiaohu__qclaw-把-openclaw-包成-30-秒上手产品-开源-agent-的-最后一公里-终于有人走了.md"
 ---
 
 # QClaw 把 OpenClaw 包成 30 秒上手产品：开源 Agent 的「最后一公里」终于有人走了

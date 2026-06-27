@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "天策抖音爆火后的三种变现路径：项目合作、社群交流、直接投资"
 description: "**[抖音流量≠变现能力：创作者经济的结构性矛盾浮现]**  天策凭借抖音+推特同步爆发，单日引流上千人，但随即发现流量变现的真正瓶颈在于平台规则约束——付费合作模式被明令禁止，只能退而求其次引导至社群和内容切片。  关键信号：创作者被迫将粉丝沉淀从公域平台迁移至私人社群，这折射出平台对创作者变现渠道的强干预正在加速推特化（韭菜化路径）。  对谁有影响：依赖抖音带货/引流的中小创业者、个人IP操盘"
 resource: "https://x.com/i/status/2061808513601425781"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2061808513601425781"
-created: "2026-06-02"
-updated: "2026-06-26"
-sha256: "4eadeda495f60bdeffac6cf1b85dc3ca3b0e15a482483947163e51c1962f8f6c"
-sources:
-  - "/sources/news/2026-06-02/00__Leobai825__天策抖音爆火后的三种变现路径-项目合作-社群交流-直接投资.md"
 ---
 
 # 天策抖音爆火后的三种变现路径：项目合作、社群交流、直接投资

@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "谷歌 Gemini Intelligence 先打跨 App 自动化：AI 原生 OS 的第一块真实砖"
 description: "**[谷歌终于把\"AI 操控手机\"从演示变成产品]**  安卓 I/O 发布的 Gemini Intelligence 核心不是聊天，而是真正跨 App 自动执行任务——备忘录购物清单直插购物车、浏览器自动填表、语音输入去语气词排版。这和去年\"AI 手机\"的 PPT 叙事本质区别在于：它有执行闭环，不是建议，是代理。  更值得注意的细节：自然语言生成桌面小组件这个功能，归藏提到去年六七月就跟 AI"
 resource: "https://x.com/i/status/2054395133182042326"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2054395133182042326"
-created: "2026-05-13"
-updated: "2026-06-26"
-sha256: "495e1c6894fe516011ebdde00e3f968430afc2593dcbb8a9a696198175d9d9a0"
-sources:
-  - "/sources/news/2026-05-13/00__op7418__谷歌-gemini-intelligence-先打跨-app-自动化-ai-原生-os-的第一块真实砖.md"
 ---
 
 # 谷歌 Gemini Intelligence 先打跨 App 自动化：AI 原生 OS 的第一块真实砖

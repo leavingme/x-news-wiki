@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Anthropic开源官方硬核课程：生态标准制定者下场，AI培训行业面临重构"
 description: "**[官方下场定义AI教育标准，底层架构能力成为新护城河]** - Anthropic开源13门硬核课程，覆盖Claude Code部署、API集成与MCP协议等核心基建，并提供官方认证。 - 此举直接挑战并可能淘汰市场上高价但浅层的“Prompt工程”培训课程，为学习者提供免费、权威的第一性原理学习路径。 - 课程认证与LinkedIn同步，将“官方认证的架构能力”塑造为未来十年的核心职业竞争力"
 resource: "https://x.com/i/status/2028521331793490104"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2028521331793490104"
-created: "2026-03-02"
-updated: "2026-06-26"
-sha256: "ea05f5f9435e4a606e4c5a0472fb1bdfad15189241fa7732cda53fe4fa755863"
-sources:
-  - "/sources/news/2026-03-03/00__ArtistZhou__anthropic开源官方硬核课程-生态标准制定者下场-ai培训行业面临重构.md"
 ---
 
 # Anthropic开源官方硬核课程：生态标准制定者下场，AI培训行业面临重构

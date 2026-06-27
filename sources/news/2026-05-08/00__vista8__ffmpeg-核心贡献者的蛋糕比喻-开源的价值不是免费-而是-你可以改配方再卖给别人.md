@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "FFmpeg 核心贡献者的蛋糕比喻：开源的价值不是免费，而是「你可以改配方再卖给别人」"
 description: "**开源的真正护城河不是「免费」，而是可修改性和可商业化——这个区分正在被 AI 时代重新验证。** - FFmpeg 贡献者 JB 的经典类比：买蛋糕 = 闭源，给配方+烤箱图纸+可修改再卖 = 开源 - 核心价值是「修改配方再卖给别人」——这才是开源区别于免费软件的关键 - 在 AI 工具链高度依赖开源的今天，这个比喻比以往任何时候都更准确：你用的每个开源模型都在给你「配方」  这个比喻值得被"
 resource: "https://x.com/i/status/2052619791207403774"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2052619791207403774"
-created: "2026-05-08"
-updated: "2026-06-26"
-sha256: "15de5d90c450b1373eb2972f0932cab4139f413ac39258057e5632f4561ed2bd"
-sources:
-  - "/sources/news/2026-05-08/00__vista8__ffmpeg-核心贡献者的蛋糕比喻-开源的价值不是免费-而是-你可以改配方再卖给别人.md"
 ---
 
 # FFmpeg 核心贡献者的蛋糕比喻：开源的价值不是免费，而是「你可以改配方再卖给别人」

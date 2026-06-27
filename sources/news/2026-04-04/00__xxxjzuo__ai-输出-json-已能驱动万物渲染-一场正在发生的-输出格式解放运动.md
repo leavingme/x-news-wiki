@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "AI 输出 JSON 已能驱动万物渲染：一场正在发生的「输出格式解放运动」"
 description: "**[Vercel json-render 将 AI 输出边界扩展至 Web 全栈+3D+视频+终端]**  1. 一个渲染层覆盖 Web 四大框架、移动端、PDF、邮件、视频、3D、终端、图像生成——AI 生成结构化数据的能力已接近「全介质输出」。 2. 这意味着 AI 编程工具不再只是生成代码，而是能直接生成并渲染最终产品，「代码生成」与「产品交付」之间的环节正在被压缩。 3. 开发范式从「写"
 resource: "https://x.com/i/status/2038073958927319481"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2038073958927319481"
-created: "2026-03-29"
-updated: "2026-06-26"
-sha256: "1dc8e9a39ebfb58c6d8769ca9c34541f4791b45f6ccb933488674e20060829a4"
-sources:
-  - "/sources/news/2026-04-04/00__xxxjzuo__ai-输出-json-已能驱动万物渲染-一场正在发生的-输出格式解放运动.md"
 ---
 
 # AI 输出 JSON 已能驱动万物渲染：一场正在发生的「输出格式解放运动」

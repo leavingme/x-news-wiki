@@ -1,24 +1,17 @@
 ---
-type: "entity"
+type: "Author"
 title: "NIK (@ns123abc)"
 description: "X/Twitter 作者 @ns123abc。共收录 2 条 AI 精选推文。"
 tags:
   - "x-news"
   - "author"
   - "author:ns123abc"
-timestamp: "2026-06-26T11:53:36.992Z"
+timestamp: "2026-06-27T08:40:40.206Z"
 x_handle: "ns123abc"
 x_author_name: "NIK"
 x_tweet_count: 2
 x_first_seen: "2026-04-30T01:18:15.519Z"
 x_last_seen: "2026-06-16T22:17:59.153Z"
-type_okf: "Author"
-created: "2026-04-30"
-updated: "2026-06-26"
-sha256: "2fcccb55c464bd2b25c1e33c12829cb4ce0c9b0884b9bc556f9a7a82f3e662d4"
-sources:
-  - "/sources/highlights/2026-06-16/00__ns123abc__deepseek-74-亿美元融资估值-500-亿-梁文锋自掏-28-亿-5-年锁定-外部无投票权.md"
-  - "/sources/news/2026-04-30/00__ns123abc__musk-vs-openai-庭审交锋-亿万富翁拒绝被律师-格式化-的回答范本.md"
 ---
 
 # NIK (@ns123abc)

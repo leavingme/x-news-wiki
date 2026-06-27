@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "字节DeerFlow登顶GitHub：企业级Agent Harness的「安全沙箱」范式"
 description: "**[大厂正式下场做多Agent编排，OpenClaw迎来首个有资源背书的国产对标]**  • 不同于对话式Chatbot，DeerFlow每个任务跑在隔离Docker容器，真正实现\"能说更能做\"的执行闭环 • Sub-Agent并行编排架构：复杂任务自动拆解，多Agent独立上下文并行执行，Lead Agent汇总结果 • 安全定位精准：沙箱隔离直接回应了OpenClaw在企业场景的合规顾虑  "
 resource: "https://x.com/i/status/2036968311146365164"
@@ -22,13 +22,6 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "agent-swarm-orchestration"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2036968311146365164"
-created: "2026-03-26"
-updated: "2026-06-26"
-sha256: "6d2300cb4a9142185eb0926ec49cac713a4739863e2fdd3d4f919ec03180e8e8"
-sources:
-  - "/sources/highlights/2026-03-28/00__MindfulReturn__字节deerflow登顶github-企业级agent-harness的-安全沙箱-范式.md"
 ---
 
 # 字节DeerFlow登顶GitHub：企业级Agent Harness的「安全沙箱」范式

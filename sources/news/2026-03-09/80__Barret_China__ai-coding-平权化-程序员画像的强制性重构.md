@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "AI Coding 平权化：程序员画像的强制性重构"
 description: "**[经验溢价正在坍缩，「古法编程」群体面临出清]** - AI Coding 让资深与初级程序员的解决问题能力趋于平权，资历≠复杂度处理能力 - 企业视角：目标是交付价值，程序员作为「生产资料」的角色不会改变，但形态会「更强、性价比更高」  Gakki：Barret 的判断很冷静——不是「程序员消失」，而是「程序员」这个标签的定义权被 AI 改写。未来的程序员是「AI 驯兽师」，而非「代码打字员"
 resource: "https://x.com/i/status/2030612859747553628"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 80
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2030612859747553628"
-created: "2026-03-08"
-updated: "2026-06-26"
-sha256: "c8bf23255ab0d830ba8ff1f158b614afa2d012f2c3f58a1611ffbaac471f29dc"
-sources:
-  - "/sources/news/2026-03-09/80__Barret_China__ai-coding-平权化-程序员画像的强制性重构.md"
 ---
 
 # AI Coding 平权化：程序员画像的强制性重构

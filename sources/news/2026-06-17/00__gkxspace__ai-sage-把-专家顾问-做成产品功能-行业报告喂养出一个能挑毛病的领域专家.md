@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "AI Sage 把\"专家顾问\"做成产品功能：行业报告喂养出一个能挑毛病的领域专家"
 description: "**Atypica 的 AI Sage 角色补全了\"消费者视角\"之外的\"行业逻辑视角\"。**  - 工作流：上传行业报告、方法论、竞品分析 → 工具构建一个领域专家 → 可审研究计划、找逻辑漏洞、模拟投资人质疑商业模式。 - 余温的实战用法：方向看起来\"可以做了\"之前，先让 Sage 从行业角度挑一遍毛病，把\"找茬\"前置。 - 配合\"消费者模拟\"形成双视角：消费者告诉你\"用户怎么想\"，专家告诉你\""
 resource: "https://x.com/i/status/2067208625563557996"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2067208625563557996"
-created: "2026-06-17"
-updated: "2026-06-26"
-sha256: "f42310d8f6be59581a8cfbaa4345e6abd7386146eb27300857899696eac012df"
-sources:
-  - "/sources/news/2026-06-17/00__gkxspace__ai-sage-把-专家顾问-做成产品功能-行业报告喂养出一个能挑毛病的领域专家.md"
 ---
 
 # AI Sage 把"专家顾问"做成产品功能：行业报告喂养出一个能挑毛病的领域专家

@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Claude Code「破圈」微信：一条命令打通本地AI与国民级IM"
 description: "**【Claude Code生态接入国民级入口，Agent部署门槛趋近于零】** • 首创CC与微信直连架构，实现「本地电脑+主流AI编码工具」一键接入微信生态 • 填补OpenClaw/Cursor等工具在社交IM层落地的最后100米 • 预示Agent从「工程师玩具」向「全民可用基础设施」的范式跃迁  Gakki锐评：这是Agent入口战争的典型缩影——谁绑定了微信，谁就绑定了10亿用户的默认"
 resource: "https://x.com/i/status/2035559581791990023"
@@ -22,13 +22,6 @@ x_selected: 2
 x_priority: 0
 x_related_topic: "claude-code-ecosystem"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2035559581791990023"
-created: "2026-03-22"
-updated: "2026-06-26"
-sha256: "d7f3e911fde449894de20db4163e136403f0c26c8c3174382815a09cfc3340e5"
-sources:
-  - "/sources/highlights/2026-03-22/00__off_thetarget__claude-code-破圈-微信-一条命令打通本地ai与国民级im.md"
 ---
 
 # Claude Code「破圈」微信：一条命令打通本地AI与国民级IM

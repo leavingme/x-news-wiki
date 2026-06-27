@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "向阳乔木：与一线大厂AI团队交流后，修正\"差距在缩小\"判断——已经拉到一年以上"
 description: "**[判断]**  - 上周与大厂做AI的朋友交流后，作者明确修正此前对\"独立开发者正在追平大厂\"叙事的认同 - 关键证据：模型、数据、算力、流程、上下文工程五项叠加，单点优化已追不平 - 隐含建议：独立开发者应放弃\"对标大厂\"路线，转向大厂不做的场景做差异化   gakki 锐评：2026 上半年中文独立开发者最清醒的一记耳光——别再把大厂当追赶对象，护城河从\"能力差\"变成\"场景差\"。"
 resource: "https://x.com/i/status/2064709468458570040"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2064709468458570040"
-created: "2026-06-10"
-updated: "2026-06-26"
-sha256: "252e25a19c96f00a1b39cb1447e4c05ddc20689f460d9864da1f45c46af409df"
-sources:
-  - "/sources/highlights/2026-06-10/00__vista8__向阳乔木-与一线大厂ai团队交流后-修正-差距在缩小-判断-已经拉到一年以上.md"
 ---
 
 # 向阳乔木：与一线大厂AI团队交流后，修正"差距在缩小"判断——已经拉到一年以上

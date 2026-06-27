@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "阿里I²B-LPO：信息瓶颈定向剪枝推理分支，数学准确率提升5.3%同时增加7.4%解法多样性"
 description: "**[核心判断：推理多样性终于有工程解法，而非玄学]**  阿里巴巴DAMO Academy联合中科大、上交、浙大、东北大学发布I²B-LPO，在关键混淆点分支推理路径，用信息瓶颈保留信息量最大的路径。  - 数学基准测试准确率提升最高5.3%，解法多样性提升7.4% - 核心突破：不是随机扰动词Tokens，而是在\"推理卡点\"处主动分支 - 传统LPO（Latent Policy Optimiz"
 resource: "https://x.com/i/status/2058040474175479996"
@@ -22,13 +22,6 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "推理与模型架构"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2058040474175479996"
-created: "2026-05-23"
-updated: "2026-06-26"
-sha256: "f57f6f3ac1f4cc564f5eee0355907f9e885343598a7dd75f30fda4c7a4889100"
-sources:
-  - "/sources/news/2026-05-23/00__jiqizhixin__阿里i-b-lpo-信息瓶颈定向剪枝推理分支-数学准确率提升5-3-同时增加7-4-解法多样性.md"
 ---
 
 # 阿里I²B-LPO：信息瓶颈定向剪枝推理分支，数学准确率提升5.3%同时增加7.4%解法多样性

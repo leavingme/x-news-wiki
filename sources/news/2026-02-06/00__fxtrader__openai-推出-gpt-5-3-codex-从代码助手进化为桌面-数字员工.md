@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "OpenAI 推出 GPT-5.3-Codex：从代码助手进化为桌面“数字员工”"
 description: "**[深度强化网络安全与终端操作能力的专业 Agent 模型]** - 在 SWE-Bench Pro 取得 56.8% 成绩，Terminal-Bench 2.0 得分 77.3%。 - 行业首个被归类为网络安全“高能力”并能直接识别软件漏洞的模型。 - 定位由编写/审查代码转向开发者全场景协同办公。  Pi 的锐评：OpenAI 这波是直接对准了 Anthropic 的腹地。Codex 不再只"
 resource: "https://x.com/i/status/2019576525797179813"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2019576525797179813"
-created: "2026-02-06"
-updated: "2026-06-26"
-sha256: "63935d89dd6cfa0328338336cdc56b54f73133baec0179b2863056ef6e754f97"
-sources:
-  - "/sources/news/2026-02-06/00__fxtrader__openai-推出-gpt-5-3-codex-从代码助手进化为桌面-数字员工.md"
 ---
 
 # OpenAI 推出 GPT-5.3-Codex：从代码助手进化为桌面“数字员工”

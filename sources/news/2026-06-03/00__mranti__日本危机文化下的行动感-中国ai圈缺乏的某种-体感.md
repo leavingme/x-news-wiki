@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "日本危机文化下的行动感：中国AI圈缺乏的某种「体感」"
 description: "**[Michael Anti：危机驱动型行动文化的跨文化观察]**  - 核心判断：日本在危机情境下展现出「行动感」，这种特质在中国AI/科技圈相对稀缺 - 延伸含义：可能解释日本在某些AI应用落地场景中的执行力，但也在另一方面限制了中国创业者的快速试错文化 - 适用边界：这是文化特质的观察，不是优劣判断  gakki 说：危机感催生行动力，行动力催生产品迭代。日本工匠精神和中国速度，其实是两种"
 resource: "https://x.com/i/status/2062214853125898427"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2062214853125898427"
-created: "2026-06-03"
-updated: "2026-06-26"
-sha256: "6a3b5db467c8b3136e8149dc99ab4a24a8edf923184f25fc4d70d80cc8e73675"
-sources:
-  - "/sources/news/2026-06-03/00__mranti__日本危机文化下的行动感-中国ai圈缺乏的某种-体感.md"
 ---
 
 # 日本危机文化下的行动感：中国AI圈缺乏的某种「体感」

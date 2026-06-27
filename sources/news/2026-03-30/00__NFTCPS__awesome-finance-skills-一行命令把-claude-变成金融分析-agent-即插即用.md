@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Awesome Finance Skills：一行命令把 Claude 变成金融分析 Agent，即插即用"
 description: "**[ 金融分析 Skill 包落地，8 大模块覆盖研报生成全链路 ]**  Awesome Finance Skills 发布 alpha 版本，号称「装一套金融 Skills 就够」，覆盖：实时新闻聚合（10+ 信源）、A 股/港股行情、FinBERT 情绪评分、Kronos 时序预测、逻辑链路可视化、投资信号追踪、研报一站生成。  - 兼容 Claude Code、Codex、OpenCod"
 resource: "https://x.com/i/status/2038582691763986606"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2038582691763986606"
-created: "2026-03-30"
-updated: "2026-06-26"
-sha256: "1c2f1a9c930cd1ecd3f07e00c5f5215d561fa64bf078a80fff2a2c010343c9dd"
-sources:
-  - "/sources/news/2026-03-30/00__NFTCPS__awesome-finance-skills-一行命令把-claude-变成金融分析-agent-即插即用.md"
 ---
 
 # Awesome Finance Skills：一行命令把 Claude 变成金融分析 Agent，即插即用

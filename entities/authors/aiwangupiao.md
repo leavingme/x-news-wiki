@@ -1,23 +1,17 @@
 ---
-type: "entity"
+type: "Author"
 title: "爱玩股票AiWanGuPiao (@aiwangupiao)"
 description: "X/Twitter 作者 @aiwangupiao。共收录 1 条 AI 精选推文。"
 tags:
   - "x-news"
   - "author"
   - "author:aiwangupiao"
-timestamp: "2026-06-26T11:53:36.915Z"
+timestamp: "2026-06-27T08:40:40.123Z"
 x_handle: "aiwangupiao"
 x_author_name: "爱玩股票AiWanGuPiao"
 x_tweet_count: 1
 x_first_seen: "2026-02-03T13:00:13.648Z"
 x_last_seen: "2026-02-03T13:00:13.648Z"
-type_okf: "Author"
-created: "2026-02-03"
-updated: "2026-06-26"
-sha256: "cd4f5aaf70ab154d404f66947fe423960d057b42b086af00679afa703c49a4cc"
-sources:
-  - "/sources/news/2026-02-03/00__aiwangupiao__ai-的尽头是电力-北美能源需求引发-a-股电力概念股暴涨.md"
 ---
 
 # 爱玩股票AiWanGuPiao (@aiwangupiao)

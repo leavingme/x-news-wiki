@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "GenLayer Bradbury：AI Agent终于可以在链上处理「无法非黑即白定义」的真实世界任务"
 description: "**[一句话核心判断]** GenLayer用「主观合约」打破了区块链处理现实世界不确定性的边界——AI链上协作从数值计算正式进入判断推理时代。  **信息增量：** - 传统智能合约只能处理确定性数值，AI Agent需要评估内容质量、解析互联网数据时暴露明显局限 - GenLayer的Intelligent Contracts允许验证者访问实时网络数据、解释自然语言、处理非确定性主观输入 - "
 resource: "https://x.com/i/status/2040696384438083643"
@@ -22,13 +22,6 @@ x_selected: 1
 x_priority: 0
 x_related_topic: "ai-agent-crypto-infra"
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2040696384438083643"
-created: "2026-04-05"
-updated: "2026-06-26"
-sha256: "32d0b37e8919ed05c678c14ee825e5d8b0246b58f3c507c2581254e670d4dbec"
-sources:
-  - "/sources/news/2026-04-06/00__ohouhou717__genlayer-bradbury-ai-agent终于可以在链上处理-无法非黑即白定义-的真实世界任务.md"
 ---
 
 # GenLayer Bradbury：AI Agent终于可以在链上处理「无法非黑即白定义」的真实世界任务

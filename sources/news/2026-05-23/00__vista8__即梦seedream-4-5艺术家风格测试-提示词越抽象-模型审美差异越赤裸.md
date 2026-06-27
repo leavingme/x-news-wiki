@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "即梦Seedream 4.5艺术家风格测试：提示词越抽象，模型审美差异越赤裸"
 description: "**一句话核心判断** 即梦Seedream 4.5以统一提示词跑500个艺术家风格，结果显示\"通用名词+抽象场景\"是把模型审美差异放到最大的最优测试方法，而非堆砌细节。  **要点** - 测试方法论有价值：用通用场景\"女子窗边读书\"而非风格描述词，让每个模型的风格偏好自己浮现 - 结果揭示：部分风格极为鲜明（如潮流T恤常见风格），说明模型在风格迁移上有明确的个性偏好 - 实际价值：创作者可借此"
 resource: "https://x.com/i/status/2058021035715531218"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2058021035715531218"
-created: "2026-05-23"
-updated: "2026-06-26"
-sha256: "108abd8857ebe1e64047bc76f6e6e8b37df36a3a1329b9d4a5f1be28ea46233b"
-sources:
-  - "/sources/news/2026-05-23/00__vista8__即梦seedream-4-5艺术家风格测试-提示词越抽象-模型审美差异越赤裸.md"
 ---
 
 # 即梦Seedream 4.5艺术家风格测试：提示词越抽象，模型审美差异越赤裸

@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "GPT-Image 正在成为小游戏的「动画序列帧工厂」：一键生成宠物所有动作帧"
 description: "**GPT-Image 的工业化应用正在从静态图向动画生产链延伸。**  - hatch-pet 产品用 GPT-Image 一次性生成宠物所有动画序列帧，再拼接成完整动画 - 这意味着 AI 图像生成的「单位成本」正在覆盖过去需要逐帧手绘的动画资产 - 对独立开发者和小团队来说，角色动画的边际成本趋近于零  锐评：当 AI 能批量生产动画帧，「美术外包」这个行业被掏空只是时间问题。但序列帧拼接的"
 resource: "https://x.com/i/status/2050390156491055391"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2050390156491055391"
-created: "2026-05-02"
-updated: "2026-06-26"
-sha256: "371356e2e538c2a477b074a7a4d84153c3017f029de5ad1bab2382d0e29131c5"
-sources:
-  - "/sources/news/2026-05-02/00__op7418__gpt-image-正在成为小游戏的-动画序列帧工厂-一键生成宠物所有动作帧.md"
 ---
 
 # GPT-Image 正在成为小游戏的「动画序列帧工厂」：一键生成宠物所有动作帧

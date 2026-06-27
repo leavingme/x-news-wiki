@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "微软发布 Surface RTX Spark Dev Box：128GB 内存 + 1 Petaflop 算力，本地跑 1200 亿参数模型"
 description: "**[边缘推理硬件在往「开发者工作站」形态快速收敛]**  Surface RTX Spark Dev Box 搭载 NVIDIA RTX Spark 芯片、128GB 内存、1 Petaflop 算力，可本地运行 1200 亿参数大模型，无需云端 GPU。预装 Windows 11 Pro + VS Code + GitHub Copilot，开机即用，定位明确：Agent 工作流和模型微调的本"
 resource: "https://x.com/i/status/2061974218875805789"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2061974218875805789"
-created: "2026-06-03"
-updated: "2026-06-26"
-sha256: "348a6d831ca07136761f407c73f0e6ea5705be48c62745268b57efeda0e83e00"
-sources:
-  - "/sources/news/2026-06-03/00__xiaohu__微软发布-surface-rtx-spark-dev-box-128gb-内存-1-petaflop-算力-本地跑-12.md"
 ---
 
 # 微软发布 Surface RTX Spark Dev Box：128GB 内存 + 1 Petaflop 算力，本地跑 1200 亿参数模型

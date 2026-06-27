@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "豆包输入法 Mac 版正式发布：免费 + 高准确率语音输入提前结束战斗"
 description: "**[免费语音输入工具的体验拐点已至]**  豆包输入法 Mac 版正式上线，语音输入免费且准确率极高，被评价为「直接杀死比赛」。好的产品本身即营销——受益者自发传播，无需推手。  产品经理可优化项：网页缺少 OG 图配图。  gakki：输入工具是 AI 渗透最高频的入口，豆包正在重演五年前微信支付的逻辑——先把人拉进来，再谈商业化。Mac 这块空缺补上后，国内 Mac 用户的 AI 输入基础设"
 resource: "https://x.com/i/status/2060374388374167791"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 2
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2060374388374167791"
-created: "2026-05-29"
-updated: "2026-06-26"
-sha256: "de2354ddbdf3c70122e8617f294395a5ebffab1508ca56fe7c62cac4dae5ac4a"
-sources:
-  - "/sources/highlights/2026-05-29/00__lxfater__豆包输入法-mac-版正式发布-免费-高准确率语音输入提前结束战斗.md"
 ---
 
 # 豆包输入法 Mac 版正式发布：免费 + 高准确率语音输入提前结束战斗

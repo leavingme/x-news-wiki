@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Codex Chrome 插件在欧盟/英国也要 VPN：AI 工具的地理封锁正在成为常态摩擦"
 description: "**AI 工具的地理可及性问题已从「中国特色」扩散到欧洲市场。**  - Codex 的 Chrome 插件在欧盟和英国同样受限，需要 VPN 才能使用 - 这不是政策封锁，而是平台合规策略导致的可用性降级 - 当「全球开发者」这个叙事撞上「分区域上线」的现实，工具分发的地理税正在成为行业常态"
 resource: "https://x.com/i/status/2053473013694414854"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2053473013694414854"
-created: "2026-05-10"
-updated: "2026-06-26"
-sha256: "a6dd9785d09b026979fc5453e93f2d031b5854677b54efb29d57321d5ec7dfec"
-sources:
-  - "/sources/news/2026-05-10/00__vista8__codex-chrome-插件在欧盟-英国也要-vpn-ai-工具的地理封锁正在成为常态摩擦.md"
 ---
 
 # Codex Chrome 插件在欧盟/英国也要 VPN：AI 工具的地理封锁正在成为常态摩擦

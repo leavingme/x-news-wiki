@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Spec是手段而非目的，验证方法才是工程信用的真正锚点"
 description: "**[验证闭环比文档权威更重要]**  宝玉明确提出工程方法论的核心分歧：Spec本身不是终点，提供验证手段才是。他将自动化测试和AI自主验证提升到与Spec同等乃至更高的地位——这直接挑战了传统工程文化中\"文档即契约\"的权威叙事。  - Spec是静态契约，验证是动态证明；前者可以被绕过或失效，后者天然具备自我检验能力 - AI时代，模型能自主决定验证路径意味着\"可测试性\"正在成为比\"文档完整性"
 resource: "https://x.com/i/status/2061655828516446480"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2061655828516446480"
-created: "2026-06-02"
-updated: "2026-06-26"
-sha256: "645fc5518f4bce322f649bcdad82a8091e24e90e902f523098db209ce624a163"
-sources:
-  - "/sources/news/2026-06-02/00__dotey__spec是手段而非目的-验证方法才是工程信用的真正锚点.md"
 ---
 
 # Spec是手段而非目的，验证方法才是工程信用的真正锚点

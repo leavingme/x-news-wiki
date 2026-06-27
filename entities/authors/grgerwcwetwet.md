@@ -1,23 +1,17 @@
 ---
-type: "entity"
+type: "Author"
 title: "周览资源 (@grgerwcwetwet)"
 description: "X/Twitter 作者 @grgerwcwetwet。共收录 1 条 AI 精选推文。"
 tags:
   - "x-news"
   - "author"
   - "author:grgerwcwetwet"
-timestamp: "2026-06-26T11:53:36.972Z"
+timestamp: "2026-06-27T08:40:40.189Z"
 x_handle: "grgerwcwetwet"
 x_author_name: "周览资源"
 x_tweet_count: 1
 x_first_seen: "2026-04-04T00:42:49.670Z"
 x_last_seen: "2026-04-04T00:42:49.670Z"
-type_okf: "Author"
-created: "2026-04-04"
-updated: "2026-06-26"
-sha256: "056c181ca3e01f16c419f751be5c63fc1116d535a634142bf0b244d13269a3c2"
-sources:
-  - "/sources/news/2026-04-04/00__grgerwcwetwet__arcreel-用多-agent-协作把-小说到视频-全流程自动化.md"
 ---
 
 # 周览资源 (@grgerwcwetwet)

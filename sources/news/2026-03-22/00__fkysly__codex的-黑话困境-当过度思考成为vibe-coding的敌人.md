@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "Codex的「黑话困境」：当过度思考成为vibe coding的敌人"
 description: "**Claude Code与Codex的体验鸿沟正在分化开发者。** • Codex的「满嘴黑话」和过度思考破坏vibe coding的流畅感，用户产生「大脑失控」的负面体验 • 对比揭示：Agent工具的竞争已从功能层面进入「认知节奏」层面——谁能匹配用户的思维流，谁就能留住用户 • GPT4.5的风格化输出与Claude的务实风格形成鲜明对立，暗示模型「人格」对生产力的深层影响  **gakk"
 resource: "https://x.com/i/status/2035345183278030855"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2035345183278030855"
-created: "2026-03-21"
-updated: "2026-06-26"
-sha256: "53b10202ceec281d0814330d00bf0e01bcfb12b66200765ced353f4f8fde8639"
-sources:
-  - "/sources/news/2026-03-22/00__fkysly__codex的-黑话困境-当过度思考成为vibe-coding的敌人.md"
 ---
 
 # Codex的「黑话困境」：当过度思考成为vibe coding的敌人

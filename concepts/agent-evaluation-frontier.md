@@ -1,26 +1,22 @@
 ---
-type: "concept"
-title: "agent-evaluation-frontier"
-description: "跨日主题 \"agent-evaluation-frontier\"，共 2 条相关精选推文。"
+type: "Concept"
+title: "Agent评估前沿"
+description: "跨日主题 \"Agent评估前沿\" (agent-evaluation-frontier)，共 2 条相关精选推文。"
 tags:
   - "x-news"
   - "concept"
   - "topic:agent-evaluation-frontier"
-timestamp: "2026-06-26T11:53:37.021Z"
+timestamp: "2026-06-27T08:40:42.867Z"
 x_topic_slug: "agent-evaluation-frontier"
 x_tweet_count: 2
 x_first_seen: "2026-06-12T10:19:04.349Z"
 x_last_seen: "2026-06-13T13:18:49.756Z"
-type_okf: "Concept"
-created: "2026-06-12"
-updated: "2026-06-26"
-sha256: "37a9a309f506be253dff3e7f08148995944158279709ae66d9e02ab6cc2a6af6"
-sources:
-  - "/sources/highlights/2026-06-12/00__jiqizhixin__agents-last-exam-基准发布-1000-真实职业任务-ai-agent-迎来-gdp-级压力测试.md"
-  - "/sources/highlights/2026-06-13/00__jiqizhixin__人大综述-当ai不再-对错分明-rubrics如何重塑llm质量评估.md"
+x_cn_title_source: "dict"
 ---
 
-# 主题: agent-evaluation-frontier
+# 主题: Agent评估前沿
+
+> slug: `agent-evaluation-frontier`
 
 本主题下共 **2** 条精选推文。
 

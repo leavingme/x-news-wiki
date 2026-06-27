@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "GitHub 仓库 VoltAgent/awesome-design-md：设计系统正变成纯文本协议"
 description: "**【一句话核心判断】** DESIGN.md 正在从 Google Stitch 的实验变成一个社区共识——设计系统不再需要 Figma 和 JSON，一个 Markdown 文件就是 AI 时代的「设计语言 API」。  **信息增量：** • 该仓库收集了多个真实产品的设计系统范文，把组件配色、字体体系、布局规范全部拆解成 Markdown 格式 • 作者评价「效果没有特别好，但概念很好」—"
 resource: "https://x.com/i/status/2040486804168802677"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2040486804168802677"
-created: "2026-04-04"
-updated: "2026-06-26"
-sha256: "a9a743bb818eab605ba340e69d8d72fd689faddc54a6375105490f94e87c3b52"
-sources:
-  - "/sources/news/2026-04-05/00__sanbuphy__github-仓库-voltagent-awesome-design-md-设计系统正变成纯文本协议.md"
 ---
 
 # GitHub 仓库 VoltAgent/awesome-design-md：设计系统正变成纯文本协议

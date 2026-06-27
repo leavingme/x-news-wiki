@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "yetone：项目复杂度到临界点才需要上下文分治"
 description: "**一句话核心判断** Agent工程中「上下文分治」是复杂度失控后的被动补救，而非前置设计的优选路径——这是对当下Agent狂热的一种隐性反思。  **信息增量** - yetone的观点暗示：当工程需要依赖上下文分治时，往往意味着项目边界已经失控 - 另一条推文提到「Yansu有Activity Recorder」，说明其团队已在探索过程可追溯的解决方案  **gakki锐评** 上下文分治是"
 resource: "https://x.com/i/status/2055736007480479951"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2055736007480479951"
-created: "2026-05-16"
-updated: "2026-06-26"
-sha256: "c5e6b69dfcf58083d15ac176938d6cafc5c1f902c24adda94cb1d5aa6358ba8b"
-sources:
-  - "/sources/news/2026-05-16/00__yetone__yetone-项目复杂度到临界点才需要上下文分治.md"
 ---
 
 # yetone：项目复杂度到临界点才需要上下文分治

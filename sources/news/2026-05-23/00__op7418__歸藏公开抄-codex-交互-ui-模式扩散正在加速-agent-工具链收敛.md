@@ -1,5 +1,5 @@
 ---
-type: "source"
+type: "X Tweet"
 title: "歸藏公开抄 Codex 交互：UI 模式扩散正在加速 Agent 工具链收敛"
 description: "**[Codex 的浏览器和侧边栏交互正在成为行业标准 UI 范式]**  歸藏在适配 M5 Stack 硬件时明确表示「抄了 Codex 的浏览器和侧边栏交互」，说明 Codex 的交互设计已经跳出 OpenAI 自有生态，开始向硬件层扩散。  这不是简单的 UI 借鉴，而是交互协议的标准化——当一个开源硬件开发者默认参考 Codex 的交互逻辑，Codex 的界面范式实际上成了行业的 de f"
 resource: "https://x.com/i/status/2058109667726029099"
@@ -21,15 +21,7 @@ x_engagement:
 x_selected: 1
 x_priority: 0
 x_related_topic:
-
 x_source: "crawler"
-type_okf: "X Tweet"
-source_url: "https://x.com/i/status/2058109667726029099"
-created: "2026-05-23"
-updated: "2026-06-26"
-sha256: "9e5b38ad26e3f33efbb574f87d31ebe3b3ca4e84136eb19d16ce9b9cce2843f6"
-sources:
-  - "/sources/news/2026-05-23/00__op7418__歸藏公开抄-codex-交互-ui-模式扩散正在加速-agent-工具链收敛.md"
 ---
 
 # 歸藏公开抄 Codex 交互：UI 模式扩散正在加速 Agent 工具链收敛

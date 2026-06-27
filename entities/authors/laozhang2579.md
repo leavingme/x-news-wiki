@@ -1,23 +1,17 @@
 ---
-type: "entity"
+type: "Author"
 title: "老张来了 (@laozhang2579)"
 description: "X/Twitter 作者 @laozhang2579。共收录 1 条 AI 精选推文。"
 tags:
   - "x-news"
   - "author"
   - "author:laozhang2579"
-timestamp: "2026-06-26T11:53:36.985Z"
+timestamp: "2026-06-27T08:40:40.195Z"
 x_handle: "laozhang2579"
 x_author_name: "老张来了"
 x_tweet_count: 1
 x_first_seen: "2026-04-12T00:44:13.310Z"
 x_last_seen: "2026-04-12T00:44:13.310Z"
-type_okf: "Author"
-created: "2026-04-12"
-updated: "2026-06-26"
-sha256: "3982439925a6bb838bb53da32e0d445aee4408f494e5e60d3d7d3258c9d1a3e7"
-sources:
-  - "/sources/news/2026-04-12/00__laozhang2579__happy-horse-1-0开源15b模型登顶视频制作-开源社区正在绕过资金壁垒正面挑战闭源.md"
 ---
 
 # 老张来了 (@laozhang2579)
